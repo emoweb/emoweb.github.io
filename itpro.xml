@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>AIで自動運転車の事故を回避、IBMが特許を取得（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/033100989/</link>
-			<description><![CDATA[　米IBMは現地時間2017年3月30日、人工知能（AI）の機械学習技術を自動運転車の事故回避に利用する特許を取得したと発表した。]]></description>
-			<pubDate>Fri, 31 Mar 2017 12:47:17 +0900</pubDate>
-		</item>
-		<item>
 			<title>凸版印刷、観光名所を登録した外国人向け音声翻訳アプリ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/033100990/</link>
 			<description><![CDATA[　凸版印刷は2017年3月31日、外国人観光客向け音声翻訳アプリ「TabiTra（たびとら）」を4月1日から提供すると発表した。観光ガイドアプリ「旅道－TABIDO－」と連携し、二つのアプリをスムーズに切り替えて利用できる。]]></description>
@@ -29,16 +23,22 @@
 			<pubDate>Fri, 31 Mar 2017 18:56:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>Azure東日本リージョンでまたも大規模障害、3月だけで2度目（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040100992/</link>
+			<description><![CDATA[　Microsoft Azureの東日本リージョンで、2017年3月31日午後10時50分から大規模障害が発生した。米マイクロソフトの公式ページによると、顧客の一部が東日本リージョンのリソースに接続できなくなったり、接続に遅延が起きたりしたという。4月1日午前6時までに復旧したとしている。]]></description>
+			<pubDate>Sat, 01 Apr 2017 13:42:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>いま、一番読まれている記事は：Azure東日本リージョンでまたも大規模障害、3月だけで2度目（速報）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040100992/?n01</link>
 			<description><![CDATA[　Microsoft Azureの東日本リージョンで、2017年3月31日午後10時50分から大規模障害が発生した。米マイクロソフトの公式ページによると、顧客の一部が東日本リージョンのリソースに接続できなくなったり、接続に遅延が起きたりしたという。4月1日午前6時までに復旧したとしている。]]></description>
 			<pubDate>Sat, 01 Apr 2017 13:42:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Azure東日本リージョンでまたも大規模障害、3月だけで2度目（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040100992/</link>
-			<description><![CDATA[　Microsoft Azureの東日本リージョンで、2017年3月31日午後10時50分から大規模障害が発生した。米マイクロソフトの公式ページによると、顧客の一部が東日本リージョンのリソースに接続できなくなったり、接続に遅延が起きたりしたという。4月1日午前6時までに復旧したとしている。]]></description>
-			<pubDate>Sat, 01 Apr 2017 13:42:00 +0900</pubDate>
+			<title>時間にルーズなダメPM、どんな人？（ダメPMな人たち）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700001/</link>
+			<description><![CDATA[　プロジェクトで発生する小さな問題。ルーズでだらしないPMが指揮するプロジェクトは、小さな問題がだんだんと蓄積し、やがて大きなトラブルとなる。いわゆる「雪だるま」型の失敗に陥るケースだ。]]></description>
+			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>すごいエンジニア、情報収集はギブ・アンド・テイクで（すごいITインフラエンジニア）</title>
@@ -53,9 +53,9 @@
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>時間にルーズなダメPM、どんな人？（ダメPMな人たち）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700001/</link>
-			<description><![CDATA[　プロジェクトで発生する小さな問題。ルーズでだらしないPMが指揮するプロジェクトは、小さな問題がだんだんと蓄積し、やがて大きなトラブルとなる。いわゆる「雪だるま」型の失敗に陥るケースだ。]]></description>
+			<title>「SNS炎上で会社が大ダメージ」、避けるために新人に伝えるべきこと（新社会人必読のITマナー「職場のPCでそれやっちゃダメ」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033000112/033000001/</link>
+			<description><![CDATA[　本特集では、「これは御法度」という社会人のIT利用の基本マナーを説明していく。ここで紹介するマナーは是非、早いうちに押さえておきたい。今回は、社会人としてのSNS利用時のマナーについて解説しよう。]]></description>
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,21 +95,15 @@
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>新しいテクノロジーで次世代の覇権を握る（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/032900079/</link>
-			<description><![CDATA[　インターネット関連ビジネスで日本企業に元気がない。かつての日本には、世界で覇権を握ろうとギラギラした野心をむきだしにした企業が数多くあった。こうした激しさを見失っていないか、日本の将来が心配だ。]]></description>
-			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「SNS炎上で会社が大ダメージ」、避けるために新人に伝えるべきこと（新社会人必読のITマナー「職場のPCでそれやっちゃダメ」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033000112/033000001/</link>
-			<description><![CDATA[　本特集では、「これは御法度」という社会人のIT利用の基本マナーを説明していく。ここで紹介するマナーは是非、早いうちに押さえておきたい。今回は、社会人としてのSNS利用時のマナーについて解説しよう。]]></description>
-			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>トヨタが先頭を走る「コネクテッドカー産業」（激震！コネクテッドカー）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700103/032700001/</link>
 			<description><![CDATA[　ドイツのカール・ベンツやゴットリープ・ダイムラーらによって19世紀末に誕生したエンジン駆動の自動車。130年超の歴史を持つ自動車産業がここに来て、誕生以来、最大の変化に直面している。コネクテッドカーが新たな産業を生み出そうとしているからだ。]]></description>
+			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>新しいテクノロジーで次世代の覇権を握る（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/032900079/</link>
+			<description><![CDATA[　インターネット関連ビジネスで日本企業に元気がない。かつての日本には、世界で覇権を握ろうとギラギラした野心をむきだしにした企業が数多くあった。こうした激しさを見失っていないか、日本の将来が心配だ。]]></description>
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -257,6 +251,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040301005/</link>
 			<description><![CDATA[　サイバーエージェントは2017年4月3日、連結子会社のAbemaTVが運営するインターネットテレビ局の「AbemaTV（アベマティーヴィー）」が同日より、これまでの横画面での視聴に加えて、縦画面での視聴に対応したと発表した。]]></description>
 			<pubDate>Mon, 03 Apr 2017 18:02:10 +0900</pubDate>
+		</item>
+		<item>
+			<title>「激変の時代。自分信じて」、IT各社の社長が入社式でエール（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040301006/</link>
+			<description><![CDATA[　新年度が始まった2017年4月3日、IT大手各社が入社式を開いた。世界的に不安定な情勢が続くなか、各社のトップはIoT（インターネット・オブ・シングズ）や人工知能（AI）といった技術進化を踏まえ、新入社員への期待を語った。]]></description>
+			<pubDate>Mon, 03 Apr 2017 21:24:41 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
