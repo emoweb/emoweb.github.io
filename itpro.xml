@@ -5,77 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>ランサムウエア、標的の範囲拡大と深刻化が進む（下）（ランサムウエア、標的の範囲拡大と深刻化が進む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/032200024/032200003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　米連邦捜査局（FBI）が、ランサムウエアの増加に注意を促す文章を発表したのは、2016年4月の話だ。これを見て、ひどい状況だと思った人は、2017年の予測にも注目しておこう。米SonicWallが現地時間2017年2月6日に発表したレポート「2017 SonicWall Annual Threat Report」によると、ランサムウエア攻撃は、2015年の380万件から、2016年は6億3800万件へと、167倍に増えている。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/032200024/032200002/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/032200024/032200003/ph3.jpg" width="300" alt="" title=""></div></div>
-
-<p>　さらに、現場レベルでは、いくつかの実際的な処置を講じ、ランサムウエアを緩和する必要がある。その1つが、万全のエンドポイントセキュリティによる対策だ。「信頼できる多層型のエンドポイントセキュリティを導入し、Webブラウズの保護、アウトバウンドトラフィックの制御、システム設定の防御、フィッシング攻撃の事前阻止、各エンドポイントの継続的な監視を行えば、マルウエアへの感染やランサムウエアを防ぐことができる」（Moffitt氏）</p>
-
-<p>　事業継続/ディザスタリカバリ計画や、バックアップとリカバリのツールは、ランサムウエアの攻撃を受ける可能性があるデータやシステムとは完全に分離しておく必要がある。「オンサイトやクラウドベースの自動バックアップソリューションの中には、ネットワークドライブがランサムウエアの攻撃を受けた場合でも選択肢が残されているものが数多くある」（Moffitt氏）</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/032200024/032200003/?ST=cm-network&P=2">フィッシングメールに添付されたマクロから始まる攻撃にも対策はある...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/032200024/032200003/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/032200024/032200003/?ST=cm-network&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/032200024/032200003/?ST=cm-network&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/032200024/032200003/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 31 Mar 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>オンラインバンキングを狙うトロイの木馬、作者がソースを公開（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/033100313/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　オンラインバンキングを標的にする新たなトロイの木馬「Nuclear Bot（NukeBot）」のソースコードがネット上に公開された。未熟なサイバー犯罪者でも、バンキング利用者に対する強力な攻撃の手段を簡単に手に入れられることになる。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/033100313/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Lucian Constantin</div>
-</div>
-<p>
-　Nuclear Botは、2016年12月初頭にサイバー犯罪関連の地下フォーラムに初めて登場し、2500ドルで販売されていた。このトロイの木馬は、ユーザーが「Mozilla Firefox」「Internet Explorer」「Google Chrome」でWebサイトを開いた時に、情報を盗んだり挿入したりできる機能を持つ。また、ローカルプロキシやリモートデスクトップサービスを開くこともできる。
-</p>
-<p>
-　こうした機能はいずれも、オンラインバンキングを標的にするトロイの木馬ではよく見られ、サイト側のセキュリティチェックを回避して詐欺を働く目的で使われている。例えば、ローカルプロキシやリモートデスクトップの機能は、二要素認証で必要な追加情報をユーザーに入力させた後に、ユーザーのブラウザーを通じて不正な取引を開始するために使われる。
-</p>
-<p>
-　Nuclear Botが興味深いのは、作者が地下フォーラムでこのマルウエアを他のサイバー犯罪者に売り込むのに失敗していたことだ。Nuclear Botの動向を注視してきた米IBMの研究員によると、この作者は、登場からの数カ月で、サイバー犯罪者のコミュニティの不文律を数多く破った。例えば、フォーラムの管理者や購入希望者にテスト版のプログラムを提供しなかったことや、複数のフォーラムでこのマルウエアを宣伝する時に別々の名前を使っていたことなどだ。こうして、この作者は完全に信用を失い、ペテン師と認識された。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/033100313/?ST=cio-security&P=2">だが、買い手こそ集まらなかったものの、このトロイ...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/033100313/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/033100313/?ST=cio-security&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/033100313/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 31 Mar 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>目指すのは「複合現実」、「HoloLens」の対応アプリが150種類を超える（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/033100986/</link>
 			<description><![CDATA[　米Microsoftは、立体映像用ヘッドマウントディスプレイ「HoloLens」のリリースから1周年にあたる現地時間2017年3月30日、「Windows Store」で提供されているHoloLens向けアプリケーションは150種類を超えたと発表した。]]></description>
@@ -130,6 +59,18 @@
 			<pubDate>Sat, 01 Apr 2017 13:42:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>格安スマホ、一瞬で淘汰される危うさも（3周年・格安スマホを斬る）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032400098/032400001/</link>
+			<description><![CDATA[　MVNO（仮想移動体通信事業者）の契約数は倍増する一方、「Y!mobile」や「UQ mobile」といったMNO（移動体通信事業者）のサブブランドの攻勢もあり、市場は混沌としている。日経コミュニケーション/テレコムインサイド編集部が今後を展望した。]]></description>
+			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>墜落する玩具ドローンの「いま」（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/032900811/</link>
+			<description><![CDATA[　2016年は、千葉県の幕張新都心で実施された「ドローン宅配」の実証実験を皮切りに、全国各地で物資を輸送する実証実験が行われた。この1年で、ドローンの産業活用に向けた取り組みはかなり活発になっている。ところが、ITproの読者や編集部の記者は、さほどドローンへの関心が高くない。それはなぜだろうか。]]></description>
+			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>30年目にして日本語版、AI搭載の営業ソフト（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/033000911/</link>
 			<description><![CDATA[　シンコム・システムズ・ジャパンは2017年3月から、見積もり計算の支援ツール「Cincom CPQ（Configure-Price-Quote）」の拡販を本格化している。米シンコムは、製品を世界で一斉に販売したいと考える日本企業の需要がかつてなく高まっていると判断。同社の多言語対応に沿って、30年越しで日本市場への製品投入を決めた。]]></description>
@@ -154,15 +95,15 @@
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>システム障害で過剰謝罪は不要だが、他人のせいするのはおやめなさい（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/033000132/</link>
-			<description><![CDATA[　私はいつも「極言暴論」などでITベンダーやユーザー企業のIT部門の愚かさを批判しているが、一つだけ以前と比べると劇的に改善したことがある。何かと言うと、システム障害の際の“過剰謝罪”が激減したのだ。素晴らしいことだが、実は…。]]></description>
+			<title>新しいテクノロジーで次世代の覇権を握る（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/032900079/</link>
+			<description><![CDATA[　インターネット関連ビジネスで日本企業に元気がない。かつての日本には、世界で覇権を握ろうとギラギラした野心をむきだしにした企業が数多くあった。こうした激しさを見失っていないか、日本の将来が心配だ。]]></description>
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>格安スマホ、一瞬で淘汰される危うさも（3周年・格安スマホを斬る）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032400098/032400001/</link>
-			<description><![CDATA[　MVNO（仮想移動体通信事業者）の契約数は倍増する一方、「Y!mobile」や「UQ mobile」といったMNO（移動体通信事業者）のサブブランドの攻勢もあり、市場は混沌としている。日経コミュニケーション/テレコムインサイド編集部が今後を展望した。]]></description>
+			<title>すごいエンジニア、情報収集はギブ・アンド・テイクで（すごいITインフラエンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800106/032800001/</link>
+			<description><![CDATA[　富士通でネットワークインテグレーションの後方支援を担う岡田 孝博さん。どうやって現場力を磨いてきたのか。その生の声を聞く。]]></description>
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -184,21 +125,9 @@
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>新しいテクノロジーで次世代の覇権を握る（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/032900079/</link>
-			<description><![CDATA[　インターネット関連ビジネスで日本企業に元気がない。かつての日本には、世界で覇権を握ろうとギラギラした野心をむきだしにした企業が数多くあった。こうした激しさを見失っていないか、日本の将来が心配だ。]]></description>
-			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>すごいエンジニア、情報収集はギブ・アンド・テイクで（すごいITインフラエンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800106/032800001/</link>
-			<description><![CDATA[　富士通でネットワークインテグレーションの後方支援を担う岡田 孝博さん。どうやって現場力を磨いてきたのか。その生の声を聞く。]]></description>
-			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>墜落する玩具ドローンの「いま」（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/032900811/</link>
-			<description><![CDATA[　2016年は、千葉県の幕張新都心で実施された「ドローン宅配」の実証実験を皮切りに、全国各地で物資を輸送する実証実験が行われた。この1年で、ドローンの産業活用に向けた取り組みはかなり活発になっている。ところが、ITproの読者や編集部の記者は、さほどドローンへの関心が高くない。それはなぜだろうか。]]></description>
+			<title>システム障害で過剰謝罪は不要だが、他人のせいするのはおやめなさい（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/033000132/</link>
+			<description><![CDATA[　私はいつも「極言暴論」などでITベンダーやユーザー企業のIT部門の愚かさを批判しているが、一つだけ以前と比べると劇的に改善したことがある。何かと言うと、システム障害の際の“過剰謝罪”が激減したのだ。素晴らしいことだが、実は…。]]></description>
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -316,6 +245,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040301000/</link>
 			<description><![CDATA[　東京ケーブルネットワーク（TCN）、クナイ、東亜エレクトロニクス、クロスデバイス、J.COTTは、5社による「CDN/C利活用検討プロジェクト」においてVR映像の伝送の検証実験を実施したと2017年3月31日に発表した。]]></description>
 			<pubDate>Mon, 03 Apr 2017 15:12:16 +0900</pubDate>
+		</item>
+		<item>
+			<title>Azure東日本リージョンの障害、原因は空冷システム向け電源故障（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040301001/</link>
+			<description><![CDATA[　米マイクロソフトは2017年4月3日までに、クラウドサービス「Microsoft Azure」の東日本リージョンで2017年3月31日午後10時28分から発生した大規模障害についてのRCA（根本的な原因）レポートを公開した。電源供給システムに発生した障害が原因だとしている。]]></description>
+			<pubDate>Mon, 03 Apr 2017 16:34:24 +0900</pubDate>
+		</item>
+		<item>
+			<title>IIJと日テレ設立のCDN会社、民放15社とIIJを引受先とする第三者割当増資（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040301002/</link>
+			<description><![CDATA[　JOCDNは、インターネットイニシアティブ（IIJ）と日本テレビ放送網、テレビ朝日ホールディングス、東京放送ホールディングス、テレビ東京ホールディングス、フジテレビジョンの在京民放5社、在阪、在名の民放10社（合計16社）を引受先とする第三者割当増資を同日付で実施したと発表した。]]></description>
+			<pubDate>Mon, 03 Apr 2017 16:42:53 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
