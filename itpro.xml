@@ -5,87 +5,15 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>富士通、既存システムに手のひら静脈認証を追加できるソフト（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/033100991/</link>
-			<description><![CDATA[　富士通は2017年3月31日、オンプレミスからクラウドサービスまでさまざまな業態の業務システムに手のひら静脈認証機能を追加できる組み込みソフトウエア「FUJITSU Security Solution 本人認証基盤 AuthConductor Server」を4月から提供すると発表した。]]></description>
-			<pubDate>Fri, 31 Mar 2017 17:41:48 +0900</pubDate>
-		</item>
-		<item>
-			<title>5.8インチでも持ちやすい理由とは？「Galaxy S8」の実機を試した（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/033100242/</link>
-			<description><![CDATA[　韓国サムスン電子が2017年3月29日（現地時間）に米ニューヨークで発表した「Galaxy S8」は、これまでのGalaxy Sシリーズから大胆なリニューアルを図った新製品となった。発表会場に展示されたグローバル版の実機に触れたので、さっそくレポートする。]]></description>
-			<pubDate>Fri, 31 Mar 2017 18:56:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>いま、一番読まれている記事は：Azure東日本リージョンでまたも大規模障害、3月だけで2度目（速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040100992/?n01</link>
-			<description><![CDATA[　Microsoft Azureの東日本リージョンで、2017年3月31日午後10時50分から大規模障害が発生した。米マイクロソフトの公式ページによると、顧客の一部が東日本リージョンのリソースに接続できなくなったり、接続に遅延が起きたりしたという。4月1日午前6時までに復旧したとしている。]]></description>
-			<pubDate>Sat, 01 Apr 2017 13:42:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Azure東日本リージョンでまたも大規模障害、3月だけで2度目（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040100992/</link>
-			<description><![CDATA[　Microsoft Azureの東日本リージョンで、2017年3月31日午後10時50分から大規模障害が発生した。米マイクロソフトの公式ページによると、顧客の一部が東日本リージョンのリソースに接続できなくなったり、接続に遅延が起きたりしたという。4月1日午前6時までに復旧したとしている。]]></description>
-			<pubDate>Sat, 01 Apr 2017 13:42:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>システム障害で過剰謝罪は不要だが、他人のせいするのはおやめなさい（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/033000132/</link>
-			<description><![CDATA[　私はいつも「極言暴論」などでITベンダーやユーザー企業のIT部門の愚かさを批判しているが、一つだけ以前と比べると劇的に改善したことがある。何かと言うと、システム障害の際の“過剰謝罪”が激減したのだ。素晴らしいことだが、実は…。]]></description>
-			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>時間にルーズなダメPM、どんな人？（ダメPMな人たち）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700001/</link>
-			<description><![CDATA[　プロジェクトで発生する小さな問題。ルーズでだらしないPMが指揮するプロジェクトは、小さな問題がだんだんと蓄積し、やがて大きなトラブルとなる。いわゆる「雪だるま」型の失敗に陥るケースだ。]]></description>
-			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>すごいエンジニア、情報収集はギブ・アンド・テイクで（すごいITインフラエンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800106/032800001/</link>
-			<description><![CDATA[　富士通でネットワークインテグレーションの後方支援を担う岡田 孝博さん。どうやって現場力を磨いてきたのか。その生の声を聞く。]]></description>
-			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>新しいテクノロジーで次世代の覇権を握る（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/032900079/</link>
-			<description><![CDATA[　インターネット関連ビジネスで日本企業に元気がない。かつての日本には、世界で覇権を握ろうとギラギラした野心をむきだしにした企業が数多くあった。こうした激しさを見失っていないか、日本の将来が心配だ。]]></description>
-			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「SNS炎上で会社が大ダメージ」、避けるために新人に伝えるべきこと（新社会人必読のITマナー「職場のPCでそれやっちゃダメ」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033000112/033000001/</link>
-			<description><![CDATA[　本特集では、「これは御法度」という社会人のIT利用の基本マナーを説明していく。ここで紹介するマナーは是非、早いうちに押さえておきたい。今回は、社会人としてのSNS利用時のマナーについて解説しよう。]]></description>
-			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>格安スマホ、一瞬で淘汰される危うさも（3周年・格安スマホを斬る）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032400098/032400001/</link>
-			<description><![CDATA[　MVNO（仮想移動体通信事業者）の契約数は倍増する一方、「Y!mobile」や「UQ mobile」といったMNO（移動体通信事業者）のサブブランドの攻勢もあり、市場は混沌としている。日経コミュニケーション/テレコムインサイド編集部が今後を展望した。]]></description>
-			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>墜落する玩具ドローンの「いま」（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/032900811/</link>
-			<description><![CDATA[　2016年は、千葉県の幕張新都心で実施された「ドローン宅配」の実証実験を皮切りに、全国各地で物資を輸送する実証実験が行われた。この1年で、ドローンの産業活用に向けた取り組みはかなり活発になっている。ところが、ITproの読者や編集部の記者は、さほどドローンへの関心が高くない。それはなぜだろうか。]]></description>
-			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>30年目にして日本語版、AI搭載の営業ソフト（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/033000911/</link>
 			<description><![CDATA[　シンコム・システムズ・ジャパンは2017年3月から、見積もり計算の支援ツール「Cincom CPQ（Configure-Price-Quote）」の拡販を本格化している。米シンコムは、製品を世界で一斉に販売したいと考える日本企業の需要がかつてなく高まっていると判断。同社の多言語対応に沿って、30年越しで日本市場への製品投入を決めた。]]></description>
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ドローンで事故調査のお仕事が一変、損保ジャパン日本興亜（SOMPOの変革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800107/032800001/</link>
-			<description><![CDATA[　デジタル技術の進歩が、既存の業務を一変させてしまうことがある。損保保険ジャパン日本興亜が事故調査のツールとして2015年3月に導入したドローンが、まさにそれだった。事故や災害の現場での測量作業が、ほぼゼロになった。代わりにドローンが膨大なデータを収集する。]]></description>
-			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「キャリアがカラフルでいいじゃない」に救われる（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/032800001/</link>
-			<description><![CDATA[　出産でアクセンチュアを退社。専業主婦や個人コンサルなどの経験をへた後、約15年ぶりにアクセンチュアに再入社した小野砂知子氏。アクセンチュアのデジタルコンサルティング本部でセールス担当のシニア･マネジャーを務める同氏は、仕事と家庭をどう両立させているのか。]]></description>
+			<title>トヨタが先頭を走る「コネクテッドカー産業」（激震！コネクテッドカー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700103/032700001/</link>
+			<description><![CDATA[　ドイツのカール・ベンツやゴットリープ・ダイムラーらによって19世紀末に誕生したエンジン駆動の自動車。130年超の歴史を持つ自動車産業がここに来て、誕生以来、最大の変化に直面している。コネクテッドカーが新たな産業を生み出そうとしているからだ。]]></description>
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,9 +23,57 @@
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>トヨタが先頭を走る「コネクテッドカー産業」（激震！コネクテッドカー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700103/032700001/</link>
-			<description><![CDATA[　ドイツのカール・ベンツやゴットリープ・ダイムラーらによって19世紀末に誕生したエンジン駆動の自動車。130年超の歴史を持つ自動車産業がここに来て、誕生以来、最大の変化に直面している。コネクテッドカーが新たな産業を生み出そうとしているからだ。]]></description>
+			<title>「キャリアがカラフルでいいじゃない」に救われる（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/032800001/</link>
+			<description><![CDATA[　出産でアクセンチュアを退社。専業主婦や個人コンサルなどの経験をへた後、約15年ぶりにアクセンチュアに再入社した小野砂知子氏。アクセンチュアのデジタルコンサルティング本部でセールス担当のシニア･マネジャーを務める同氏は、仕事と家庭をどう両立させているのか。]]></description>
+			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ドローンで事故調査のお仕事が一変、損保ジャパン日本興亜（SOMPOの変革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800107/032800001/</link>
+			<description><![CDATA[　デジタル技術の進歩が、既存の業務を一変させてしまうことがある。損保保険ジャパン日本興亜が事故調査のツールとして2015年3月に導入したドローンが、まさにそれだった。事故や災害の現場での測量作業が、ほぼゼロになった。代わりにドローンが膨大なデータを収集する。]]></description>
+			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>墜落する玩具ドローンの「いま」（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/032900811/</link>
+			<description><![CDATA[　2016年は、千葉県の幕張新都心で実施された「ドローン宅配」の実証実験を皮切りに、全国各地で物資を輸送する実証実験が行われた。この1年で、ドローンの産業活用に向けた取り組みはかなり活発になっている。ところが、ITproの読者や編集部の記者は、さほどドローンへの関心が高くない。それはなぜだろうか。]]></description>
+			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>格安スマホ、一瞬で淘汰される危うさも（3周年・格安スマホを斬る）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032400098/032400001/</link>
+			<description><![CDATA[　MVNO（仮想移動体通信事業者）の契約数は倍増する一方、「Y!mobile」や「UQ mobile」といったMNO（移動体通信事業者）のサブブランドの攻勢もあり、市場は混沌としている。日経コミュニケーション/テレコムインサイド編集部が今後を展望した。]]></description>
+			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「SNS炎上で会社が大ダメージ」、避けるために新人に伝えるべきこと（新社会人必読のITマナー「職場のPCでそれやっちゃダメ」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033000112/033000001/</link>
+			<description><![CDATA[　本特集では、「これは御法度」という社会人のIT利用の基本マナーを説明していく。ここで紹介するマナーは是非、早いうちに押さえておきたい。今回は、社会人としてのSNS利用時のマナーについて解説しよう。]]></description>
+			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>新しいテクノロジーで次世代の覇権を握る（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/032900079/</link>
+			<description><![CDATA[　インターネット関連ビジネスで日本企業に元気がない。かつての日本には、世界で覇権を握ろうとギラギラした野心をむきだしにした企業が数多くあった。こうした激しさを見失っていないか、日本の将来が心配だ。]]></description>
+			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>すごいエンジニア、情報収集はギブ・アンド・テイクで（すごいITインフラエンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800106/032800001/</link>
+			<description><![CDATA[　富士通でネットワークインテグレーションの後方支援を担う岡田 孝博さん。どうやって現場力を磨いてきたのか。その生の声を聞く。]]></description>
+			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>時間にルーズなダメPM、どんな人？（ダメPMな人たち）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700001/</link>
+			<description><![CDATA[　プロジェクトで発生する小さな問題。ルーズでだらしないPMが指揮するプロジェクトは、小さな問題がだんだんと蓄積し、やがて大きなトラブルとなる。いわゆる「雪だるま」型の失敗に陥るケースだ。]]></description>
+			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>システム障害で過剰謝罪は不要だが、他人のせいするのはおやめなさい（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/033000132/</link>
+			<description><![CDATA[　私はいつも「極言暴論」などでITベンダーやユーザー企業のIT部門の愚かさを批判しているが、一つだけ以前と比べると劇的に改善したことがある。何かと言うと、システム障害の際の“過剰謝罪”が激減したのだ。素晴らしいことだが、実は…。]]></description>
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -257,6 +233,96 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040401007/</link>
 			<description><![CDATA[　シマンテックは2017年4月3日、波立行智（はりゅう ゆきのり）氏を執行役員社長に任命したと発表した。同氏は米シマンテックが2016年8月に買収したセキュリティ会社、米ブルーコートシステムズ日本法人で社長を務めていた。]]></description>
 			<pubDate>Tue, 04 Apr 2017 00:06:51 +0900</pubDate>
+		</item>
+		<item>
+			<title>持ち運ぶならどれだ？モバイルマウス変わり種から格安まで（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/032900111/</link>
+			<description><![CDATA[　最近、フリーアドレスを導入する会社が増えている。取材すると、ほぼ全員がモバイルノートを持って好きな場所で仕事をしている。そのときに必ずセットで持ち歩いているのが、ACアダプターとマウスだ。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>米国人と押し問答、「正論は日本企業には通じない」の情けなさ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/033100813/</link>
+			<description><![CDATA[　仕事の関係で米国の経営幹部や大学教授と長い電子メールを何度もやり取りした。彼らの主張はいずれも正論である。だが「日本では通じない」と思ってしまう。「あなたの正論は日本で通じない」と英語でどう表現すればよいのか。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>こっそり待たせて処理を実行、メール無害化（セキュリティの救世主！？無害化、無意味化）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033000113/040300004/</link>
+			<description><![CDATA[　メール無害化は、標的型攻撃に有効な対策として注目される。2016年春くらいから、続々と新しい製品やサービスが登場している。以前からある、スパムメールなど業務に不要なメールを除去するメールゲートウエイや、社外からのウイルスを含むファイルの侵入を防ぐウイルスゲートウエイなどの機能を備える機器に、アドオンで提供される製品もある。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>不満尽きない格安スマホ、総務省の秘策（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/033100915/</link>
+			<description><![CDATA[　総務省の強力な後押しを受け、MVNO市場が順調に拡大している。2015年の「携帯電話の料金その他の提供条件に関するタスクフォース」、2016年の「モバイルサービスの提供条件・端末に関するフォローアップ会合」を経てMVNOの支援策は出尽くしたと言われるが、細かな課題はまだまだ残っている。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Facebook、政治を変えるか？（瀧口範子のシリコンバレー通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/040300095/</link>
+			<description><![CDATA[　米Facebookが2017年3月27日（米国時間）に「タウンホール」という機能を追加した。英語で市役所・町役場という意味で、地方議会の議員に連絡し要求を伝えられる。2016年の米大統領選で「フェイクニュース（偽ニュース）」を拡散したと批判された同社が、早くも動き始めた。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>システム再構築のリスク、どう読む？（古いシステムの捨て方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/032800003/</link>
+			<description><![CDATA[　前回の内容を踏まえ、再構築プロジェクトの企画や計画の段階で検討すべきリスク対策について説明していこう。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>現場を見ないダメPM、典型的な2タイプ（ダメPMな人たち）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700002/</link>
+			<description><![CDATA[　プロジェクトマネジャー（PM）の仕事で一番大事なのは、多様な関係者とコミュニケーションを取って利害関係を調整し、プロジェクトを進行させること。だからこそPMはなるべくコミュニケーションが発生する「現場」にいるべきだ。ところが現場にはほとんど姿を見せないダメPMがいる。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「勉強は後回し、まずは手を動かす」がすごいエンジニアの基本（すごいITインフラエンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800106/032800002/</link>
+			<description><![CDATA[　トライポッドワークスでセキュリティアプライアンス製品の開発を手掛ける遠藤 一義さん。どうやって現場力を磨いてきたのか。その生の声を聞く。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>知らないと炎上必至？ 新人に教えるべきクラウドサービスの使い方（新社会人必読のITマナー「職場のPCでそれやっちゃダメ」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033000112/033100002/</link>
+			<description><![CDATA[　クラウドサービスは一般に広く利用されている。現在の新入社員は、学生時代からそれらのサービスをごく当たり前に使っている世代だ。そのため、会社にクラウドサービスの利用ポリシーがあったとしても周知や説明をしなければ、新入社員は個人のアカウントでクラウドサービス利用してしまう可能性がある。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>格安スマホのY!mobileとUQ、CMはど派手だけど…（3周年・格安スマホを斬る）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032400098/032400002/</link>
+			<description><![CDATA[　格安スマホ市場でTV CMによる大攻勢をしかける「Y!mobile」や「UQ mobile」。これがMNO（移動体通信事業者）のサブブランドであることはほとんど認知されれていない。その影響を、通信専門編集部が座談会形式で分析する。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「IoT＆AI介護」で職員と入居者の負担減らす、SOMPO HD（SOMPOの変革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800107/032800002/</link>
+			<description><![CDATA[　高齢化社会の到来で高い成長が見込める高齢者介護の市場。SOMPOホールディングス（SOMPO HD）は2015年12月、ワタミの介護事業を買収して同市場に本格参入した。IoTで施設入居者を見守り、「安心」を提供。慢性的な人手不足の解消にも役立てる。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>無駄な運用ルールやドキュメント、ひとり情シスでは「捨てる」が正解（10人のIT部門が消滅～ひとり情シス顛末記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/033100013/</link>
+			<description><![CDATA[　IT部門がまさかの消滅、たった一人のIT担当者と200台のサーバーが残された。実際の出来事を当事者が語る「ひとり情シス顛末記」。このセカンドシーズンでは読者の疑問・批判に著者が答える。今回、著者は「無駄な運用ルールやドキュメントは捨てよ」と説く。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>自動運転がケイレツを打ち壊す？（激震！コネクテッドカー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700103/032700002/</link>
+			<description><![CDATA[　これまでの自動車業界は、自動車メーカーを頂点としたピラミッド型構造になっていた。だがここに来て、欧州の自動車メーカーがITベンダーと自動運転技術を共同開発する動きが相次ぎ、産業構造が大きく変わる兆しがみられる。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>訪日外国人に「ロボホン」をレンタル、京急電鉄など4社の思惑とは？（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/032800100/</link>
+			<description><![CDATA[　訪日外国人に向けてシャープのコミュニケーションロボット「ロボホン」を貸し出し、観光ガイドとして活用してもらうサービスを、京急電鉄ら4社が提供しようとしている。訪日外国人向けビジネスが拡大するなか、どこに勝機を見出しているのだろうか。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Python（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/031500063/</link>
+			<description><![CDATA[　コンピューターのプログラミング言語の一種。コードの読みやすさとシンプルさに定評があり、柔軟性の高さから数多くのアプリケーションやサービスに利用されている。近年では機械学習でも活用される。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
