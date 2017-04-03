@@ -5,24 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>目指すのは「複合現実」、「HoloLens」の対応アプリが150種類を超える（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/033100986/</link>
-			<description><![CDATA[　米Microsoftは、立体映像用ヘッドマウントディスプレイ「HoloLens」のリリースから1周年にあたる現地時間2017年3月30日、「Windows Store」で提供されているHoloLens向けアプリケーションは150種類を超えたと発表した。]]></description>
-			<pubDate>Fri, 31 Mar 2017 10:13:08 +0900</pubDate>
-		</item>
-		<item>
-			<title>米国の音楽市場、ストリーミングの売上高が初めて5割を超える（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/033100987/</link>
-			<description><![CDATA[　全米レコード協会（RIAA）が現地時間2017年3月30日に公表した音楽販売統計によると、2016年における米国のレコード音楽売上高は小売りベースで77億ドルとなった。ストリーミングの売上高は市場全体の51％となり、初めて同国レコード音楽売上高全体の大半を占めた。]]></description>
-			<pubDate>Fri, 31 Mar 2017 10:46:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Twitter、返信ツイートの「＠ユーザー名」を140文字制限から除外（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/033100988/</link>
-			<description><![CDATA[　米Twitterは現地時間2017年3月30日、文字制限に関する仕様変更を発表した。今後、リプライする際の「＠ユーザー名」は140文字制限に含まれなくなる。]]></description>
-			<pubDate>Fri, 31 Mar 2017 11:01:54 +0900</pubDate>
-		</item>
-		<item>
 			<title>AIで自動運転車の事故を回避、IBMが特許を取得（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/033100989/</link>
 			<description><![CDATA[　米IBMは現地時間2017年3月30日、人工知能（AI）の機械学習技術を自動運転車の事故回避に利用する特許を取得したと発表した。]]></description>
@@ -59,6 +41,24 @@
 			<pubDate>Sat, 01 Apr 2017 13:42:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>すごいエンジニア、情報収集はギブ・アンド・テイクで（すごいITインフラエンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800106/032800001/</link>
+			<description><![CDATA[　富士通でネットワークインテグレーションの後方支援を担う岡田 孝博さん。どうやって現場力を磨いてきたのか。その生の声を聞く。]]></description>
+			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>システム障害で過剰謝罪は不要だが、他人のせいするのはおやめなさい（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/033000132/</link>
+			<description><![CDATA[　私はいつも「極言暴論」などでITベンダーやユーザー企業のIT部門の愚かさを批判しているが、一つだけ以前と比べると劇的に改善したことがある。何かと言うと、システム障害の際の“過剰謝罪”が激減したのだ。素晴らしいことだが、実は…。]]></description>
+			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>時間にルーズなダメPM、どんな人？（ダメPMな人たち）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700001/</link>
+			<description><![CDATA[　プロジェクトで発生する小さな問題。ルーズでだらしないPMが指揮するプロジェクトは、小さな問題がだんだんと蓄積し、やがて大きなトラブルとなる。いわゆる「雪だるま」型の失敗に陥るケースだ。]]></description>
+			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>格安スマホ、一瞬で淘汰される危うさも（3周年・格安スマホを斬る）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032400098/032400001/</link>
 			<description><![CDATA[　MVNO（仮想移動体通信事業者）の契約数は倍増する一方、「Y!mobile」や「UQ mobile」といったMNO（移動体通信事業者）のサブブランドの攻勢もあり、市場は混沌としている。日経コミュニケーション/テレコムインサイド編集部が今後を展望した。]]></description>
@@ -89,9 +89,9 @@
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>トヨタが先頭を走る「コネクテッドカー産業」（激震！コネクテッドカー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700103/032700001/</link>
-			<description><![CDATA[　ドイツのカール・ベンツやゴットリープ・ダイムラーらによって19世紀末に誕生したエンジン駆動の自動車。130年超の歴史を持つ自動車産業がここに来て、誕生以来、最大の変化に直面している。コネクテッドカーが新たな産業を生み出そうとしているからだ。]]></description>
+			<title>Webアクセスの無害化、その盲点（セキュリティの救世主！？無害化、無意味化）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033000113/033100001/</link>
+			<description><![CDATA[　ここ2、3年に「無害化」をうたうセキュリティ対策の製品やサービスが増え、多くの注目を集めている。無害化とは、ユーザーが攻撃者によって細工されたWebサイトにアクセスしたり、攻撃者が送り付けたメールを受け取ったりしても、ウイルスに感染しないようにするセキュリティ対策だ。]]></description>
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,33 +101,15 @@
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>すごいエンジニア、情報収集はギブ・アンド・テイクで（すごいITインフラエンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800106/032800001/</link>
-			<description><![CDATA[　富士通でネットワークインテグレーションの後方支援を担う岡田 孝博さん。どうやって現場力を磨いてきたのか。その生の声を聞く。]]></description>
-			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Webアクセスの無害化、その盲点（セキュリティの救世主！？無害化、無意味化）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033000113/033100001/</link>
-			<description><![CDATA[　ここ2、3年に「無害化」をうたうセキュリティ対策の製品やサービスが増え、多くの注目を集めている。無害化とは、ユーザーが攻撃者によって細工されたWebサイトにアクセスしたり、攻撃者が送り付けたメールを受け取ったりしても、ウイルスに感染しないようにするセキュリティ対策だ。]]></description>
-			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>「SNS炎上で会社が大ダメージ」、避けるために新人に伝えるべきこと（新社会人必読のITマナー「職場のPCでそれやっちゃダメ」）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033000112/033000001/</link>
 			<description><![CDATA[　本特集では、「これは御法度」という社会人のIT利用の基本マナーを説明していく。ここで紹介するマナーは是非、早いうちに押さえておきたい。今回は、社会人としてのSNS利用時のマナーについて解説しよう。]]></description>
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>時間にルーズなダメPM、どんな人？（ダメPMな人たち）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700001/</link>
-			<description><![CDATA[　プロジェクトで発生する小さな問題。ルーズでだらしないPMが指揮するプロジェクトは、小さな問題がだんだんと蓄積し、やがて大きなトラブルとなる。いわゆる「雪だるま」型の失敗に陥るケースだ。]]></description>
-			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>システム障害で過剰謝罪は不要だが、他人のせいするのはおやめなさい（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/033000132/</link>
-			<description><![CDATA[　私はいつも「極言暴論」などでITベンダーやユーザー企業のIT部門の愚かさを批判しているが、一つだけ以前と比べると劇的に改善したことがある。何かと言うと、システム障害の際の“過剰謝罪”が激減したのだ。素晴らしいことだが、実は…。]]></description>
+			<title>トヨタが先頭を走る「コネクテッドカー産業」（激震！コネクテッドカー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700103/032700001/</link>
+			<description><![CDATA[　ドイツのカール・ベンツやゴットリープ・ダイムラーらによって19世紀末に誕生したエンジン駆動の自動車。130年超の歴史を持つ自動車産業がここに来て、誕生以来、最大の変化に直面している。コネクテッドカーが新たな産業を生み出そうとしているからだ。]]></description>
 			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -257,6 +239,24 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040301002/</link>
 			<description><![CDATA[　JOCDNは、インターネットイニシアティブ（IIJ）と日本テレビ放送網、テレビ朝日ホールディングス、東京放送ホールディングス、テレビ東京ホールディングス、フジテレビジョンの在京民放5社、在阪、在名の民放10社（合計16社）を引受先とする第三者割当増資を同日付で実施したと発表した。]]></description>
 			<pubDate>Mon, 03 Apr 2017 16:42:53 +0900</pubDate>
+		</item>
+		<item>
+			<title>大興電子通信、日本通信と提携してIoT向けMVNO事業に参入（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040301003/</link>
+			<description><![CDATA[　大興電子通信は2017年4月3日、日本通信と提携してIoTのMVNO事業に参入すると発表した。提携に基づき、大興電子通信はMVNO事業者として、幅広い法人顧客向けに「モバイル専用線サービス」を提供開始する。]]></description>
+			<pubDate>Mon, 03 Apr 2017 17:11:40 +0900</pubDate>
+		</item>
+		<item>
+			<title>BIGLOBEスマホの最安値モデルが登場、価格は月額420円（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040301004/</link>
+			<description><![CDATA[　ビッグローブ（BIGLOBE）は2017年4月3日、高速モバイル通信サービス「BIGLOBE SIM」とスマートフォンを組み合わせた“BIGLOBEスマホ”の新端末「Alcatel PIXI 4」（TCLコミュニケーション製）を同日発売したと発表した。]]></description>
+			<pubDate>Mon, 03 Apr 2017 17:12:58 +0900</pubDate>
+		</item>
+		<item>
+			<title>「AbemaTV」が縦画面での視聴に対応、ユーザーの利便性向上狙う（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040301005/</link>
+			<description><![CDATA[　サイバーエージェントは2017年4月3日、連結子会社のAbemaTVが運営するインターネットテレビ局の「AbemaTV（アベマティーヴィー）」が同日より、これまでの横画面での視聴に加えて、縦画面での視聴に対応したと発表した。]]></description>
+			<pubDate>Mon, 03 Apr 2017 18:02:10 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
