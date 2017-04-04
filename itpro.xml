@@ -5,16 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>ケーブルテレビ回線をCDN網に、IPDC VR動画伝送で検証実験（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040301000/</link>
-			<description><![CDATA[　東京ケーブルネットワーク（TCN）、クナイ、東亜エレクトロニクス、クロスデバイス、J.COTTは、5社による「CDN/C利活用検討プロジェクト」においてVR映像の伝送の検証実験を実施したと2017年3月31日に発表した。]]></description>
-			<pubDate>Mon, 03 Apr 2017 15:12:16 +0900</pubDate>
-		</item>
-		<item>
-			<title>Azure東日本リージョンの障害、原因は空冷システム向け電源故障（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040301001/</link>
-			<description><![CDATA[　米マイクロソフトは2017年4月3日までに、クラウドサービス「Microsoft Azure」の東日本リージョンで2017年3月31日午後10時28分から発生した大規模障害についてのRCA（根本的な原因）レポートを公開した。電源供給システムに発生した障害が原因だとしている。]]></description>
-			<pubDate>Mon, 03 Apr 2017 16:34:24 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：格安スマホ、一瞬で淘汰される危うさも（3周年・格安スマホを斬る）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032400098/032400001/?d04</link>
+			<description><![CDATA[　MVNO（仮想移動体通信事業者）の契約数は倍増する一方、「Y!mobile」や「UQ mobile」といったMNO（移動体通信事業者）のサブブランドの攻勢もあり、市場は混沌としている。日経コミュニケーション/テレコムインサイド編集部が今後を展望した。]]></description>
+			<pubDate>Mon, 03 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>IIJと日テレ設立のCDN会社、民放15社とIIJを引受先とする第三者割当増資（ニュース）</title>
@@ -53,15 +47,27 @@
 			<pubDate>Tue, 04 Apr 2017 00:06:51 +0900</pubDate>
 		</item>
 		<item>
+			<title>知らないと炎上必至？ 新人に教えるべきクラウドサービスの使い方（新社会人必読のITマナー「職場のPCでそれやっちゃダメ」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033000112/033100002/</link>
+			<description><![CDATA[　クラウドサービスは一般に広く利用されている。現在の新入社員は、学生時代からそれらのサービスをごく当たり前に使っている世代だ。そのため、会社にクラウドサービスの利用ポリシーがあったとしても周知や説明をしなければ、新入社員は個人のアカウントでクラウドサービス利用してしまう可能性がある。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>無駄な運用ルールやドキュメント、ひとり情シスでは「捨てる」が正解（10人のIT部門が消滅～ひとり情シス顛末記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/033100013/</link>
+			<description><![CDATA[　IT部門がまさかの消滅、たった一人のIT担当者と200台のサーバーが残された。実際の出来事を当事者が語る「ひとり情シス顛末記」。このセカンドシーズンでは読者の疑問・批判に著者が答える。今回、著者は「無駄な運用ルールやドキュメントは捨てよ」と説く。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>米国人と押し問答、「正論は日本企業には通じない」の情けなさ（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/033100813/</link>
 			<description><![CDATA[　仕事の関係で米国の経営幹部や大学教授と長い電子メールを何度もやり取りした。彼らの主張はいずれも正論である。だが「日本では通じない」と思ってしまう。「あなたの正論は日本で通じない」と英語でどう表現すればよいのか。]]></description>
 			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>知らないと炎上必至？ 新人に教えるべきクラウドサービスの使い方（新社会人必読のITマナー「職場のPCでそれやっちゃダメ」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033000112/033100002/</link>
-			<description><![CDATA[　クラウドサービスは一般に広く利用されている。現在の新入社員は、学生時代からそれらのサービスをごく当たり前に使っている世代だ。そのため、会社にクラウドサービスの利用ポリシーがあったとしても周知や説明をしなければ、新入社員は個人のアカウントでクラウドサービス利用してしまう可能性がある。]]></description>
+			<title>「勉強は後回し、まずは手を動かす」がすごいエンジニアの基本（すごいITインフラエンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800106/032800002/</link>
+			<description><![CDATA[　トライポッドワークスでセキュリティアプライアンス製品の開発を手掛ける遠藤 一義さん。どうやって現場力を磨いてきたのか。その生の声を聞く。]]></description>
 			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,15 +95,15 @@
 			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>システム再構築のリスク、どう読む？（古いシステムの捨て方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/032800003/</link>
-			<description><![CDATA[　前回の内容を踏まえ、再構築プロジェクトの企画や計画の段階で検討すべきリスク対策について説明していこう。]]></description>
+			<title>訪日外国人に「ロボホン」をレンタル、京急電鉄など4社の思惑とは？（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/032800100/</link>
+			<description><![CDATA[　訪日外国人に向けてシャープのコミュニケーションロボット「ロボホン」を貸し出し、観光ガイドとして活用してもらうサービスを、京急電鉄ら4社が提供しようとしている。訪日外国人向けビジネスが拡大するなか、どこに勝機を見出しているのだろうか。]]></description>
 			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「勉強は後回し、まずは手を動かす」がすごいエンジニアの基本（すごいITインフラエンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800106/032800002/</link>
-			<description><![CDATA[　トライポッドワークスでセキュリティアプライアンス製品の開発を手掛ける遠藤 一義さん。どうやって現場力を磨いてきたのか。その生の声を聞く。]]></description>
+			<title>Facebook、政治を変えるか？（瀧口範子のシリコンバレー通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/040300095/</link>
+			<description><![CDATA[　米Facebookが2017年3月27日（米国時間）に「タウンホール」という機能を追加した。英語で市役所・町役場という意味で、地方議会の議員に連絡し要求を伝えられる。2016年の米大統領選で「フェイクニュース（偽ニュース）」を拡散したと批判された同社が、早くも動き始めた。]]></description>
 			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -125,21 +131,9 @@
 			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>訪日外国人に「ロボホン」をレンタル、京急電鉄など4社の思惑とは？（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/032800100/</link>
-			<description><![CDATA[　訪日外国人に向けてシャープのコミュニケーションロボット「ロボホン」を貸し出し、観光ガイドとして活用してもらうサービスを、京急電鉄ら4社が提供しようとしている。訪日外国人向けビジネスが拡大するなか、どこに勝機を見出しているのだろうか。]]></description>
-			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Facebook、政治を変えるか？（瀧口範子のシリコンバレー通信）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/040300095/</link>
-			<description><![CDATA[　米Facebookが2017年3月27日（米国時間）に「タウンホール」という機能を追加した。英語で市役所・町役場という意味で、地方議会の議員に連絡し要求を伝えられる。2016年の米大統領選で「フェイクニュース（偽ニュース）」を拡散したと批判された同社が、早くも動き始めた。]]></description>
-			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>無駄な運用ルールやドキュメント、ひとり情シスでは「捨てる」が正解（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/033100013/</link>
-			<description><![CDATA[　IT部門がまさかの消滅、たった一人のIT担当者と200台のサーバーが残された。実際の出来事を当事者が語る「ひとり情シス顛末記」。このセカンドシーズンでは読者の疑問・批判に著者が答える。今回、著者は「無駄な運用ルールやドキュメントは捨てよ」と説く。]]></description>
+			<title>システム再構築のリスク、どう読む？（古いシステムの捨て方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/032800003/</link>
+			<description><![CDATA[　前回の内容を踏まえ、再構築プロジェクトの企画や計画の段階で検討すべきリスク対策について説明していこう。]]></description>
 			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -268,6 +262,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040401013/</link>
 			<description><![CDATA[　横浜銀行は2017年4月4日、FRONTEOが独自開発した人工知能エンジン「KIBIT（キビット）」を採用したと発表した。営業担当者の顧客との面談記録を基に、金融商品の勧誘や契約が法令に違反していないかを効率的にチェックする。]]></description>
 			<pubDate>Tue, 04 Apr 2017 15:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>三井住友信託銀行、タブレット端末を利用した外訪支援システム（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040401015/</link>
+			<description><![CDATA[　三井住友信託銀行は2017年4月4日、個人向け営業担当者向けにタブレット端末を利用した新たな外訪支援システムを導入した。顧客訪問先で投資信託や定期預金などの取引を受け付けると、社内システムと連動して取引の承認などができる。]]></description>
+			<pubDate>Tue, 04 Apr 2017 16:45:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>アルダージがIPTV/ケーブルテレビの4K・8K放送 必須特許の募集も開始（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040401016/</link>
+			<description><![CDATA[　パテントプールライセンスを管理するアルダージは2017年4月3日、IPTVおよびケーブルテレビの4K・8K放送の標準規格に関する必須特許の募集を行うことを発表した。]]></description>
+			<pubDate>Tue, 04 Apr 2017 17:22:38 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
