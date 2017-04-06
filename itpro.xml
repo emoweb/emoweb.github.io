@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>GMO-PG、Struts2脆弱性によるクレジットカード情報流出が確定（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040501031/</link>
-			<description><![CDATA[　GMOペイメントゲートウェイ（GMO-PG）は2017年4月5日、「情報漏洩の可能性がある」としていた個人情報について、「不正に取得されたことが判明した」（同社）と続報を公開した。Apache Struts2の脆弱性を悪用された。]]></description>
-			<pubDate>Wed, 05 Apr 2017 15:49:41 +0900</pubDate>
-		</item>
-		<item>
-			<title>エイベックスが「エンターテック」採用イベント、松浦CEOや小室哲也氏が審査（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040501030/</link>
-			<description><![CDATA[　エイベックス・ベンチャーズは2017年4月4日、ベンチャー企業がエイベックスグループ向けに新事業を提案するイベント「avex Enter-Tech Pitch」を開催した。]]></description>
-			<pubDate>Wed, 05 Apr 2017 16:09:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ビックカメラがビットコイン決済導入、国内大手小売りで初（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040501032/</link>
 			<description><![CDATA[　ビックカメラは2017年4月5日、ビットコイン決済を店舗に導入すると発表した。まずは4月7日に、ビックカメラ有楽町店およびビックロ ビックカメラ新宿東口店で試験利用を開始。他店舗への拡充も視野に入れる。]]></description>
@@ -71,6 +59,18 @@
 			<pubDate>Wed, 05 Apr 2017 21:32:52 +0900</pubDate>
 		</item>
 		<item>
+			<title>「ルールを守らせろ」と言われても、破られる前提で対策しておこう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/032900007/</link>
+			<description><![CDATA[　「なぜみんなルールを守らないのか」。セキュリティの事故が企業経営を揺るがすこともある現在では、ルール順守は経営層にとっても重要な問題だ。今回はルールを浸透させる方法を紹介する。]]></description>
+			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「何とかしろ」を連呼、ブラックPMがプロジェクトを壊す（ダメPMな人たち）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700004/</link>
+			<description><![CDATA[　プロジェクトは人間が行うことなので、理論や計画だけで片付くものではない。困難な状況ではプロジェクトメンバーの気持ちが成否を左右する。しかし、「気合いと根性」は最後の手段として取っておくべきで、使わずに済むのであればそれに越したことはない。]]></description>
+			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>IT業界のバブル入社組を襲う恐怖の役職定年（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/032900812/</link>
 			<description><![CDATA[　一定の年齢に達すると役職を外され、実質的な給与ダウンとなる「役職定年」。IT業界でも導入が進んでいるが、一方で現場をリードしてきた50代の管理職が翻弄されている。モチベーションが下がり、長年勤めた会社を去るケースも。50代を襲う“恐怖の役職定年”を探ってみた。
@@ -90,9 +90,9 @@
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「考えが浅い」と不機嫌な次長、システムテストの要領で納得を得る（脱・ザンネン社員）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/032800002/</link>
-			<description><![CDATA[　自分では全力で考えて導いたつもりなのに、上司に提案すると「考えが浅い」と一蹴された。こんな経験はないだろうか。上司の期待する水準の提案を、一度で実現するのは難しい。]]></description>
+			<title>自動運転の通信技術、規格を巡る主導権争いで火花（激震！コネクテッドカー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700103/032700004/</link>
+			<description><![CDATA[　自動運転システムでは、車車間通信（V2V）や路車間通信（V2I）などの議論が進んでいる。2つの規格がせめぎ合っている。DSRCとLTE V2Xだ。]]></description>
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -102,9 +102,9 @@
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「ルールを守らせろ」と言われても、破られる前提で対策しておこう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/032900007/</link>
-			<description><![CDATA[　「なぜみんなルールを守らないのか」。セキュリティの事故が企業経営を揺るがすこともある現在では、ルール順守は経営層にとっても重要な問題だ。今回はルールを浸透させる方法を紹介する。]]></description>
+			<title>デビュー直後に空前のヒットも5年で引退、悲劇の日立製品（谷島の情識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/200088/040200033/</link>
+			<description><![CDATA[　長い年月をかけて売り上げを伸ばし続ける長寿製品がある一方、売り上げの急増と急減を短期間のうちに示す短命製品もある。最も劇的だった短命製品を紹介しよう。北米でデビューし空前の大ヒットを記録したものの5年で引退に追い込まれたコンピュータである。]]></description>
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -132,21 +132,9 @@
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>自動運転の通信技術、規格を巡る主導権争いで火花（激震！コネクテッドカー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700103/032700004/</link>
-			<description><![CDATA[　自動運転システムでは、車車間通信（V2V）や路車間通信（V2I）などの議論が進んでいる。2つの規格がせめぎ合っている。DSRCとLTE V2Xだ。]]></description>
-			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>デビュー直後に空前のヒットも5年で引退、悲劇の日立製品（谷島の情識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/200088/040200033/</link>
-			<description><![CDATA[　長い年月をかけて売り上げを伸ばし続ける長寿製品がある一方、売り上げの急増と急減を短期間のうちに示す短命製品もある。最も劇的だった短命製品を紹介しよう。北米でデビューし空前の大ヒットを記録したものの5年で引退に追い込まれたコンピュータである。]]></description>
-			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「何とかしろ」を連呼、ブラックPMがプロジェクトを壊す（ダメPMな人たち）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700004/</link>
-			<description><![CDATA[　プロジェクトは人間が行うことなので、理論や計画だけで片付くものではない。困難な状況ではプロジェクトメンバーの気持ちが成否を左右する。しかし、「気合いと根性」は最後の手段として取っておくべきで、使わずに済むのであればそれに越したことはない。]]></description>
+			<title>「考えが浅い」と不機嫌な次長、システムテストの要領で納得を得る（脱・ザンネン社員）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/032800002/</link>
+			<description><![CDATA[　自分では全力で考えて導いたつもりなのに、上司に提案すると「考えが浅い」と一蹴された。こんな経験はないだろうか。上司の期待する水準の提案を、一度で実現するのは難しい。]]></description>
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -272,6 +260,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601048/</link>
 			<description><![CDATA[　2017年4月6日、U-22プログラミング・コンテスト実行委員会は、2017年度に開催する「U-22プログラミング・コンテスト 2017」の応募要領を公開した。コンテストのキャッチフレーズは、「夢を動かせ。自由な創造力で未来をつかめ！」。]]></description>
 			<pubDate>Thu, 06 Apr 2017 13:12:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10の大型アップデート始まる、手動更新が可能に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601049/</link>
+			<description><![CDATA[　米マイクロソフトは2017年4月5日（米国時間）、Windows 10の大型アップデートである「Windows 10 Creators Update」の提供を開始した。同社のサイトで手動更新が可能な「Windows 10 更新アシスタント」ツールを配布する。]]></description>
+			<pubDate>Thu, 06 Apr 2017 13:41:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>INSネットのディジタル通信モード、終了時期は2024年初頭に後ろ倒しへ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601050/</link>
+			<description><![CDATA[　NTT、NTT東西は2017年4月6日、INSネットのディジタル通信モードの提供終了時期を2024年初頭に後ろ倒しする方針を明らかにした。2025年頃に維持限界を迎える加入電話網（PSTN）のIP網への移行に伴う措置で、これまでは「2020年度後半の終了予定」と案内していた。]]></description>
+			<pubDate>Thu, 06 Apr 2017 13:41:48 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
