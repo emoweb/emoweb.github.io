@@ -11,16 +11,16 @@
 			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ウフルとZenmuTechが提携、IoTの通信費低減やセキュリティ向上で（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040501041/</link>
-			<description><![CDATA[　クラウドサービスやIoTの導入支援などを手掛けるウフルは2017年4月5日、IoTデバイスの通信料低減やセキュリティの向上に向けてZenmuTechと業務提携した。]]></description>
-			<pubDate>Wed, 05 Apr 2017 20:45:56 +0900</pubDate>
-		</item>
-		<item>
 			<title>割り勘アプリ「paymo」、アプリなしでも支払い可能に（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040501042/</link>
 			<description><![CDATA[　スマートフォンを使った割り勘アプリ「paymo（ペイモ）」を開発・提供するAnyPayは2017年4月5日、Webブラウザーから支払える機能を追加した。アプリを取り込むことをためらう利用者に同サービスを体験してもらい、アプリ導入につなげる狙いだ。]]></description>
 			<pubDate>Wed, 05 Apr 2017 21:32:52 +0900</pubDate>
+		</item>
+		<item>
+			<title>「考えが浅い」と不機嫌な次長、システムテストの要領で納得を得る（脱・ザンネン社員）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/032800002/</link>
+			<description><![CDATA[　自分では全力で考えて導いたつもりなのに、上司に提案すると「考えが浅い」と一蹴された。こんな経験はないだろうか。上司の期待する水準の提案を、一度で実現するのは難しい。]]></description>
+			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>「ルールを守らせろ」と言われても、破られる前提で対策しておこう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
@@ -47,9 +47,9 @@
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「考えが浅い」と不機嫌な次長、システムテストの要領で納得を得る（脱・ザンネン社員）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/032800002/</link>
-			<description><![CDATA[　自分では全力で考えて導いたつもりなのに、上司に提案すると「考えが浅い」と一蹴された。こんな経験はないだろうか。上司の期待する水準の提案を、一度で実現するのは難しい。]]></description>
+			<title>Java SE 9のProject Kulla、JShellとIDE（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/040500035/</link>
+			<description><![CDATA[　これまで、本連載ではJShellを単独で使用する方法について紹介してきました。もちろん単独で使っても、JShellは役に立ちます。しかし、IDEと組み合わせると、さらに役に立つツールになります。]]></description>
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -93,12 +93,6 @@
 			<title>途上国で電子マネーによる「新しい銀行」、決済手数料が地域を潤す（出でよ！PeaceTechイノベーター）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200062/040300005/</link>
 			<description><![CDATA[　平和のためのテクノロジー利用である「PeaceTech」を体現している日本人経営者、1人目のゲストは、日本植物燃料 代表取締役/ADM CEOの合田真氏だ。]]></description>
-			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Java SE 9のProject Kulla、JShellとIDE（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/040500035/</link>
-			<description><![CDATA[　これまで、本連載ではJShellを単独で使用する方法について紹介してきました。もちろん単独で使っても、JShellは役に立ちます。しかし、IDEと組み合わせると、さらに役に立つツールになります。]]></description>
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -278,6 +272,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601053/</link>
 			<description><![CDATA[　シャープは2017年4月6日、太陽光発電や蓄電池などの充放電状況や家電の電力使用状況をスマートフォンからリアルタイムで確認できるHEMS「クラウド連携エネルギーコントローラ」を6月11日発売すると発表した。]]></description>
 			<pubDate>Thu, 06 Apr 2017 20:37:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>デロイトトーマツが「Tech Trends 2017」発表、CIOには資質よりも経験が重要（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601061/</link>
+			<description><![CDATA[　デロイト トーマツ コンサルティング合同会社は2017年4月6日、最新のデジタルテクノロジーのトレンドをまとめた「Tech Trend 2017 日本語版」の説明会を開催した。]]></description>
+			<pubDate>Thu, 06 Apr 2017 21:10:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
