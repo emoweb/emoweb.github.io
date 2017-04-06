@@ -5,6 +5,18 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>「何とかしろ」を連呼、ブラックPMがプロジェクトを壊す（ダメPMな人たち）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700004/</link>
+			<description><![CDATA[　プロジェクトは人間が行うことなので、理論や計画だけで片付くものではない。困難な状況ではプロジェクトメンバーの気持ちが成否を左右する。しかし、「気合いと根性」は最後の手段として取っておくべきで、使わずに済むのであればそれに越したことはない。]]></description>
+			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>NTTデータ、TERASOLUNAを捨てる（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040400918/</link>
+			<description><![CDATA[　NTTデータが開発方法論の「TERASOLUNA」を“捨てる”。4月中に刷新し、海外展開など既存の基幹系SIの枠を越えた新しい事業領域に適用できるようにする狙いだ。]]></description>
+			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>損保ジャパン日本興亜、次世代IT基盤はブロックチェーン（SOMPOの変革）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800107/032800004/</link>
 			<description><![CDATA[　いま、世界中の金融機関が注目するデジタル技術が、ブロックチェーンだ。金融機関が求める高いレベルの信頼性と堅牢性を持つシステムを、低コストに構築できると期待を集める。損保ジャパン日本興亜は「天候デリバティブ」と呼ぶ金融商品の基幹システムにブロックチェーンを採用、実用度を検証する。]]></description>
@@ -41,9 +53,10 @@
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「考えが浅い」と不機嫌な次長、システムテストの要領で納得を得る（脱・ザンネン社員）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/032800002/</link>
-			<description><![CDATA[　自分では全力で考えて導いたつもりなのに、上司に提案すると「考えが浅い」と一蹴された。こんな経験はないだろうか。上司の期待する水準の提案を、一度で実現するのは難しい。]]></description>
+			<title>IT業界のバブル入社組を襲う恐怖の役職定年（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/032900812/</link>
+			<description><![CDATA[　一定の年齢に達すると役職を外され、実質的な給与ダウンとなる「役職定年」。IT業界でも導入が進んでいるが、一方で現場をリードしてきた50代の管理職が翻弄されている。モチベーションが下がり、長年勤めた会社を去るケースも。50代を襲う“恐怖の役職定年”を探ってみた。
+]]></description>
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -53,9 +66,9 @@
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「何とかしろ」を連呼、ブラックPMがプロジェクトを壊す（ダメPMな人たち）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700004/</link>
-			<description><![CDATA[　プロジェクトは人間が行うことなので、理論や計画だけで片付くものではない。困難な状況ではプロジェクトメンバーの気持ちが成否を左右する。しかし、「気合いと根性」は最後の手段として取っておくべきで、使わずに済むのであればそれに越したことはない。]]></description>
+			<title>Java SE 9のProject Kulla、JShellとIDE（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/040500035/</link>
+			<description><![CDATA[　これまで、本連載ではJShellを単独で使用する方法について紹介してきました。もちろん単独で使っても、JShellは役に立ちます。しかし、IDEと組み合わせると、さらに役に立つツールになります。]]></description>
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -65,35 +78,10 @@
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>IT業界のバブル入社組を襲う恐怖の役職定年（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/032900812/</link>
-			<description><![CDATA[　一定の年齢に達すると役職を外され、実質的な給与ダウンとなる「役職定年」。IT業界でも導入が進んでいるが、一方で現場をリードしてきた50代の管理職が翻弄されている。モチベーションが下がり、長年勤めた会社を去るケースも。50代を襲う“恐怖の役職定年”を探ってみた。
-]]></description>
+			<title>「考えが浅い」と不機嫌な次長、システムテストの要領で納得を得る（脱・ザンネン社員）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/032800002/</link>
+			<description><![CDATA[　自分では全力で考えて導いたつもりなのに、上司に提案すると「考えが浅い」と一蹴された。こんな経験はないだろうか。上司の期待する水準の提案を、一度で実現するのは難しい。]]></description>
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Java SE 9のProject Kulla、JShellとIDE（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/040500035/</link>
-			<description><![CDATA[　これまで、本連載ではJShellを単独で使用する方法について紹介してきました。もちろん単独で使っても、JShellは役に立ちます。しかし、IDEと組み合わせると、さらに役に立つツールになります。]]></description>
-			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>NTTデータ、TERASOLUNAを捨てる（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040400918/</link>
-			<description><![CDATA[　NTTデータが開発方法論の「TERASOLUNA」を“捨てる”。4月中に刷新し、海外展開など既存の基幹系SIの枠を越えた新しい事業領域に適用できるようにする狙いだ。]]></description>
-			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>米ヴイエムウェア、パブリッククラウドから撤退（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601046/</link>
-			<description><![CDATA[　米ヴイエムウェアは2017年4月4日（米国時間）、パブリッククラウドの「VMware vCloud Air」事業を、フランスのクラウドサービス大手OVHに売却すると発表した。売却額は非公表だが、2017年第2四半期までに取引を終えるとしている。]]></description>
-			<pubDate>Thu, 06 Apr 2017 11:42:54 +0900</pubDate>
-		</item>
-		<item>
-			<title>GoogleがAIチップ「TPU」の性能を報告、従来GPU／CPUより最大30倍速い（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601047/</link>
-			<description><![CDATA[　米Googleは現地時間2017年4月5日、機械学習アルゴリズムの演算に特化した独自開発のプロセッサ「Tensor Processing Unit（TPU）」の性能に関する調査報告を公開した。従来のGPUやCPUより15倍～30倍速く人工知能（AI）アプリケーションを処理できるという。 ]]></description>
-			<pubDate>Thu, 06 Apr 2017 12:30:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>小学生部門を新設！ 「U-22プログラミング・コンテスト2017」（ニュース）</title>
@@ -168,6 +156,18 @@
 			<pubDate>Thu, 06 Apr 2017 21:28:37 +0900</pubDate>
 		</item>
 		<item>
+			<title>プレビューが始まった次期Androidは「Orange」か？（塩田紳二のモバイルトレンド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/040400050/</link>
+			<description><![CDATA[　次のAndroidとなる「Android O（オー）」のプレビューが開始されました。ただし現在は、開発者がアプリケーションを対応させるためのもので、一部機能のみ現在の「Android 7.x（Nougat、ヌガー）」と異なるものの大部分は同じです。]]></description>
+			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スマホアプリで「SOMPO」に親しみ（SOMPOの変革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800107/032800005/</link>
+			<description><![CDATA[　「損保ジャパン日本興亜というブランドを思い出すのは、事故に遭ったときだけ」─。顧客にとってなじみの薄かったブランドを再構築するため、SOMPO HDはスマホアプリを活用する。顧客に身近なブランドを築き、「安心・安全・健康を支援する企業」への変身を加速する。]]></description>
+			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ドローン専用ハイウエー、東京電力参入で空の覇権争いが激化（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040600922/</link>
 			<description><![CDATA[　東京電力ホールディングス（東京電力HD）とゼンリンがドローンの安全飛行を支援する新事業に乗り出す。2017年3月29日、その名も「ドローンハイウェイ構想」を発表した。]]></description>
@@ -192,9 +192,9 @@
 			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>プレビューが始まった次期Androidは「Orange」か？（塩田紳二のモバイルトレンド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/040400050/</link>
-			<description><![CDATA[　次のAndroidとなる「Android O（オー）」のプレビューが開始されました。ただし現在は、開発者がアプリケーションを対応させるためのもので、一部機能のみ現在の「Android 7.x（Nougat、ヌガー）」と異なるものの大部分は同じです。]]></description>
+			<title>ヘビーユーザーは要チェック！「1日5時間まで使い放題」の格安SIM（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/040300051/</link>
+			<description><![CDATA[　スマートフォンやタブレットの利用頻度が増える中で、モバイルユーザーの悩みの種は、月々の通信容量ではないでしょうか。そんななか「nuroモバイル」を提供するソニーネットワークコミュニケーションズは、ヘビーユーザー向けに、新しい料金プランをリリースしました。]]></description>
 			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -258,22 +258,53 @@
 			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>スマホアプリで「SOMPO」に親しみ（SOMPOの変革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800107/032800005/</link>
-			<description><![CDATA[　「損保ジャパン日本興亜というブランドを思い出すのは、事故に遭ったときだけ」─。顧客にとってなじみの薄かったブランドを再構築するため、SOMPO HDはスマホアプリを活用する。顧客に身近なブランドを築き、「安心・安全・健康を支援する企業」への変身を加速する。]]></description>
-			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ヘビーユーザーは要チェック！「1日5時間まで使い放題」の格安SIM（伊藤浩一のモバイルライフ応援日記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/040300051/</link>
-			<description><![CDATA[　スマートフォンやタブレットの利用頻度が増える中で、モバイルユーザーの悩みの種は、月々の通信容量ではないでしょうか。そんななか「nuroモバイル」を提供するソニーネットワークコミュニケーションズは、ヘビーユーザー向けに、新しい料金プランをリリースしました。]]></description>
-			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>冗長化とか自分で試すと超楽しいじゃないですか！（すごいITインフラエンジニア）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800106/032800005/</link>
 			<description><![CDATA[　GMOインターネット 特命担当技術分析官の新里 祐教さん。どうやって現場力を磨いてきたのか。その生の声を聞く。]]></description>
 			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>マイクロソフトが深層学習で日本語翻訳強化、Skypeやパワポで利用可能に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601060/</link>
+			<description><![CDATA[　米マイクロソフトは2017年4月7日（日本時間）、翻訳サービス・APIの「Microsoft Translator」を活用したすべてのアプリで、日本語を10番目のサポート言語として追加すると発表した。「Skype翻訳」やPowerPointなどで、深層学習による音声・テキスト翻訳機能を利用できる。]]></description>
+			<pubDate>Fri, 07 Apr 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ダイバーシティを的確に推進するには（下）（ダイバーシティを的確に推進するには）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/032900025/032900003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　求人検索サイトIndeedの最新の調査によると、テクノロジー業界でダイバーシティ（人材の多様性）への注目が高まっているものの、依然として問題は残っており、企業の収益にも影響を及ぼしている。この問題に対処するうえでは、ダイバーシティだけでなくインクルージョンにも焦点を当て、人材を暖かく迎え入れる環境を作り上げて、皆がきちんと伸びていけるようにする必要がある。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/032900025/032900002/" target="_blank">前回</a>から続く）</p>
+
+<h4>アフィニティグループ</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/032900025/032900003/ph3.jpg" width="300" alt="" title=""></div></div>
+
+<p>　企業の中で、アフィニティグループと呼ぶ集団が結成される場合がある。これにはいくつかの種類があるが、基本的には、共通する考え方や気質を持つ社員が集まってネットワークを形成し、各自の経験を共有し合う場だ。多くの企業では、ダイバーシティとインクルージョンに注力する姿勢を示すものとして、アフィニティグループを活用している。適切に行えば、アフィニティグループは採用と人材維持のための手段にもなる。</p>
+
+<p>　IndeedのMukherjee氏によると、同社では、女性、有色人種、LGBTQなどの社員のアフィニティグループがある。職場の居心地を高めたり、各グループの社員が直面する問題とその対処方法について会社側の理解を促したりという面で成果を上げているという。</p>
+
+<p>　「ダイバーシティという課題には、非常に多くの側面がある。誰も問題として見ていないのだとしたら、認識という部分が最初の問題だ。アフィニティグループは、課題を会社に認識させて変化を促すことができるという点で重要である。本人たちが疎外感を感じているところに、周りの者が押し付けがましく干渉して問題の解決を試みるのとは違う」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/032900025/032900003/?ST=cio-management&P=2">アフィニティグループ、ネットワーク結成、メンター...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/032900025/032900003/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/032900025/032900003/?ST=cio-management&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/032900025/032900003/?ST=cio-management&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/032900025/032900003/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 07 Apr 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
