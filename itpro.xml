@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>昨日、一番読まれた記事は：持ち運ぶならどれだ？モバイルマウス変わり種から格安まで（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/032900111/?d06</link>
+			<description><![CDATA[　最近、フリーアドレスを導入する会社が増えている。取材すると、ほぼ全員がモバイルノートを持って好きな場所で仕事をしている。そのときに必ずセットで持ち歩いているのが、ACアダプターとマウスだ。]]></description>
+			<pubDate>Tue, 04 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ネットワン、クラウド環境のネット設計を簡素化するソフトを発表（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040501033/</link>
 			<description><![CDATA[　ネットワンシステムズは2017年4月5日、プライベートクラウドやパブリッククラウドが混在したIT環境を、単一のクラウドのように一元的に管理するための機能群をパッケージ化したソフトウエア製品「SD-HCI」（ソフトウエアデファインド-ハイパーコンバージドインフラストイラクチャー）を発表した。]]></description>
@@ -53,15 +59,15 @@
 			<pubDate>Wed, 05 Apr 2017 21:32:52 +0900</pubDate>
 		</item>
 		<item>
-			<title>「何とかしろ」を連呼、ブラックPMがプロジェクトを壊す（ダメPMな人たち）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700004/</link>
-			<description><![CDATA[　プロジェクトは人間が行うことなので、理論や計画だけで片付くものではない。困難な状況ではプロジェクトメンバーの気持ちが成否を左右する。しかし、「気合いと根性」は最後の手段として取っておくべきで、使わずに済むのであればそれに越したことはない。]]></description>
-			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>「ルールを守らせろ」と言われても、破られる前提で対策しておこう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/032900007/</link>
 			<description><![CDATA[　「なぜみんなルールを守らないのか」。セキュリティの事故が企業経営を揺るがすこともある現在では、ルール順守は経営層にとっても重要な問題だ。今回はルールを浸透させる方法を紹介する。]]></description>
+			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「何とかしろ」を連呼、ブラックPMがプロジェクトを壊す（ダメPMな人たち）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700004/</link>
+			<description><![CDATA[　プロジェクトは人間が行うことなので、理論や計画だけで片付くものではない。困難な状況ではプロジェクトメンバーの気持ちが成否を左右する。しかし、「気合いと根性」は最後の手段として取っておくべきで、使わずに済むのであればそれに越したことはない。]]></description>
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -96,9 +102,9 @@
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>NTTデータ、TERASOLUNAを捨てる（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040400918/</link>
-			<description><![CDATA[　NTTデータが開発方法論の「TERASOLUNA」を“捨てる”。4月中に刷新し、海外展開など既存の基幹系SIの枠を越えた新しい事業領域に適用できるようにする狙いだ。]]></description>
+			<title>「止められないならクラウドは使うな」アーキテクト2人の意見が一致（クラウド障害 座談会）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033000111/040400002/</link>
+			<description><![CDATA[　2017年2月末から1カ月の間に、Amazon Web Services（AWS）とMicrosoft Azureで計4度の大規模障害が発生した。ユーザーは、クラウドの信頼性をどのように捉え、どう対処したらよいか。AWSに精通したアーキテクト2人を招いて座談会を開き、考えを聞いた。]]></description>
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -126,9 +132,9 @@
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「止められないならクラウドは使うな」アーキテクト2人の意見が一致（クラウド障害 座談会）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033000111/040400002/</link>
-			<description><![CDATA[　2017年2月末から1カ月の間に、Amazon Web Services（AWS）とMicrosoft Azureで計4度の大規模障害が発生した。ユーザーは、クラウドの信頼性をどのように捉え、どう対処したらよいか。AWSに精通したアーキテクト2人を招いて座談会を開き、考えを聞いた。]]></description>
+			<title>NTTデータ、TERASOLUNAを捨てる（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040400918/</link>
+			<description><![CDATA[　NTTデータが開発方法論の「TERASOLUNA」を“捨てる”。4月中に刷新し、海外展開など既存の基幹系SIの枠を越えた新しい事業領域に適用できるようにする狙いだ。]]></description>
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
