@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>フジテレビが総合デジタルプロデュース業務の受注開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040501028/</link>
-			<description><![CDATA[　フジテレビジョンは2017年4月5日、テレビ番組制作で蓄積した制作能力や技術力を生かし、企業や地方自治体、アミューズメントパークを対象にした総合デジタルプロデュース業務の受注を開始すると発表した。]]></description>
-			<pubDate>Wed, 05 Apr 2017 12:18:56 +0900</pubDate>
-		</item>
-		<item>
 			<title>Web制作会社の迷惑メール送信は放置されたWordPressが原因（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040501029/</link>
 			<description><![CDATA[　Webデザインを請け負うアリアファームは2017年4月4日、管理するWebサーバーが改ざんされ、大量の迷惑メールを送信していたと発表した。Webサーバー上で使っていたコンテンツ管理ソフト「WordPress」の脆弱性が悪用されたとみている。]]></description>
@@ -83,6 +77,12 @@
 			<pubDate>Wed, 05 Apr 2017 21:32:52 +0900</pubDate>
 		</item>
 		<item>
+			<title>業務は完璧でも、基礎知識がない技術者が多い（すごいITインフラエンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800106/032800004/</link>
+			<description><![CDATA[　ネットワンシステムズでネットワーク技術者養成スクールの講師を務める坂田 玲子さん。どうやって現場力を磨いてきたのか。その生の声を聞く。]]></description>
+			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>Java SE 9のProject Kulla、JShellとIDE（最新Java情報局）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/040500035/</link>
 			<description><![CDATA[　これまで、本連載ではJShellを単独で使用する方法について紹介してきました。もちろん単独で使っても、JShellは役に立ちます。しかし、IDEと組み合わせると、さらに役に立つツールになります。]]></description>
@@ -95,15 +95,16 @@
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「ルールを守らせろ」と言われても、破られる前提で対策しておこう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/032900007/</link>
-			<description><![CDATA[　「なぜみんなルールを守らないのか」。セキュリティの事故が企業経営を揺るがすこともある現在では、ルール順守は経営層にとっても重要な問題だ。今回はルールを浸透させる方法を紹介する。]]></description>
+			<title>「何とかしろ」を連呼、ブラックPMがプロジェクトを壊す（ダメPMな人たち）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700004/</link>
+			<description><![CDATA[　プロジェクトは人間が行うことなので、理論や計画だけで片付くものではない。困難な状況ではプロジェクトメンバーの気持ちが成否を左右する。しかし、「気合いと根性」は最後の手段として取っておくべきで、使わずに済むのであればそれに越したことはない。]]></description>
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>業務は完璧でも、基礎知識がない技術者が多い（すごいITインフラエンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800106/032800004/</link>
-			<description><![CDATA[　ネットワンシステムズでネットワーク技術者養成スクールの講師を務める坂田 玲子さん。どうやって現場力を磨いてきたのか。その生の声を聞く。]]></description>
+			<title>IT業界のバブル入社組を襲う恐怖の役職定年（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/032900812/</link>
+			<description><![CDATA[　一定の年齢に達すると役職を外され、実質的な給与ダウンとなる「役職定年」。IT業界でも導入が進んでいるが、一方で現場をリードしてきた50代の管理職が翻弄されている。モチベーションが下がり、長年勤めた会社を去るケースも。50代を襲う“恐怖の役職定年”を探ってみた。
+]]></description>
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -149,16 +150,9 @@
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「何とかしろ」を連呼、ブラックPMがプロジェクトを壊す（ダメPMな人たち）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700004/</link>
-			<description><![CDATA[　プロジェクトは人間が行うことなので、理論や計画だけで片付くものではない。困難な状況ではプロジェクトメンバーの気持ちが成否を左右する。しかし、「気合いと根性」は最後の手段として取っておくべきで、使わずに済むのであればそれに越したことはない。]]></description>
-			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IT業界のバブル入社組を襲う恐怖の役職定年（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/032900812/</link>
-			<description><![CDATA[　一定の年齢に達すると役職を外され、実質的な給与ダウンとなる「役職定年」。IT業界でも導入が進んでいるが、一方で現場をリードしてきた50代の管理職が翻弄されている。モチベーションが下がり、長年勤めた会社を去るケースも。50代を襲う“恐怖の役職定年”を探ってみた。
-]]></description>
+			<title>「ルールを守らせろ」と言われても、破られる前提で対策しておこう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/032900007/</link>
+			<description><![CDATA[　「なぜみんなルールを守らないのか」。セキュリティの事故が企業経営を揺るがすこともある現在では、ルール順守は経営層にとっても重要な問題だ。今回はルールを浸透させる方法を紹介する。]]></description>
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -272,6 +266,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601046/</link>
 			<description><![CDATA[　米ヴイエムウェアは2017年4月4日（米国時間）、パブリッククラウドの「VMware vCloud Air」事業を、フランスのクラウドサービス大手OVHに売却すると発表した。売却額は非公表だが、2017年第2四半期までに取引を終えるとしている。]]></description>
 			<pubDate>Thu, 06 Apr 2017 11:42:54 +0900</pubDate>
+		</item>
+		<item>
+			<title>GoogleがAIチップ「TPU」の性能を報告、従来GPU／CPUより最大30倍速い（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601047/</link>
+			<description><![CDATA[　米Googleは現地時間2017年4月5日、機械学習アルゴリズムの演算に特化した独自開発のプロセッサ「Tensor Processing Unit（TPU）」の性能に関する調査報告を公開した。従来のGPUやCPUより15倍～30倍速く人工知能（AI）アプリケーションを処理できるという。 ]]></description>
+			<pubDate>Thu, 06 Apr 2017 12:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
