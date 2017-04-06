@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Web制作会社の迷惑メール送信は放置されたWordPressが原因（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040501029/</link>
-			<description><![CDATA[　Webデザインを請け負うアリアファームは2017年4月4日、管理するWebサーバーが改ざんされ、大量の迷惑メールを送信していたと発表した。Webサーバー上で使っていたコンテンツ管理ソフト「WordPress」の脆弱性が悪用されたとみている。]]></description>
-			<pubDate>Wed, 05 Apr 2017 15:00:50 +0900</pubDate>
-		</item>
-		<item>
 			<title>GMO-PG、Struts2脆弱性によるクレジットカード情報流出が確定（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040501031/</link>
 			<description><![CDATA[　GMOペイメントゲートウェイ（GMO-PG）は2017年4月5日、「情報漏洩の可能性がある」としていた個人情報について、「不正に取得されたことが判明した」（同社）と続報を公開した。Apache Struts2の脆弱性を悪用された。]]></description>
@@ -77,6 +71,13 @@
 			<pubDate>Wed, 05 Apr 2017 21:32:52 +0900</pubDate>
 		</item>
 		<item>
+			<title>IT業界のバブル入社組を襲う恐怖の役職定年（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/032900812/</link>
+			<description><![CDATA[　一定の年齢に達すると役職を外され、実質的な給与ダウンとなる「役職定年」。IT業界でも導入が進んでいるが、一方で現場をリードしてきた50代の管理職が翻弄されている。モチベーションが下がり、長年勤めた会社を去るケースも。50代を襲う“恐怖の役職定年”を探ってみた。
+]]></description>
+			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>業務は完璧でも、基礎知識がない技術者が多い（すごいITインフラエンジニア）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800106/032800004/</link>
 			<description><![CDATA[　ネットワンシステムズでネットワーク技術者養成スクールの講師を務める坂田 玲子さん。どうやって現場力を磨いてきたのか。その生の声を聞く。]]></description>
@@ -95,16 +96,15 @@
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「何とかしろ」を連呼、ブラックPMがプロジェクトを壊す（ダメPMな人たち）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700004/</link>
-			<description><![CDATA[　プロジェクトは人間が行うことなので、理論や計画だけで片付くものではない。困難な状況ではプロジェクトメンバーの気持ちが成否を左右する。しかし、「気合いと根性」は最後の手段として取っておくべきで、使わずに済むのであればそれに越したことはない。]]></description>
+			<title>「止められないならクラウドは使うな」アーキテクト2人の意見が一致（クラウド障害 座談会）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033000111/040400002/</link>
+			<description><![CDATA[　2017年2月末から1カ月の間に、Amazon Web Services（AWS）とMicrosoft Azureで計4度の大規模障害が発生した。ユーザーは、クラウドの信頼性をどのように捉え、どう対処したらよいか。AWSに精通したアーキテクト2人を招いて座談会を開き、考えを聞いた。]]></description>
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>IT業界のバブル入社組を襲う恐怖の役職定年（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/032900812/</link>
-			<description><![CDATA[　一定の年齢に達すると役職を外され、実質的な給与ダウンとなる「役職定年」。IT業界でも導入が進んでいるが、一方で現場をリードしてきた50代の管理職が翻弄されている。モチベーションが下がり、長年勤めた会社を去るケースも。50代を襲う“恐怖の役職定年”を探ってみた。
-]]></description>
+			<title>「ルールを守らせろ」と言われても、破られる前提で対策しておこう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/032900007/</link>
+			<description><![CDATA[　「なぜみんなルールを守らないのか」。セキュリティの事故が企業経営を揺るがすこともある現在では、ルール順守は経営層にとっても重要な問題だ。今回はルールを浸透させる方法を紹介する。]]></description>
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -144,15 +144,9 @@
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「止められないならクラウドは使うな」アーキテクト2人の意見が一致（クラウド障害 座談会）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033000111/040400002/</link>
-			<description><![CDATA[　2017年2月末から1カ月の間に、Amazon Web Services（AWS）とMicrosoft Azureで計4度の大規模障害が発生した。ユーザーは、クラウドの信頼性をどのように捉え、どう対処したらよいか。AWSに精通したアーキテクト2人を招いて座談会を開き、考えを聞いた。]]></description>
-			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「ルールを守らせろ」と言われても、破られる前提で対策しておこう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/032900007/</link>
-			<description><![CDATA[　「なぜみんなルールを守らないのか」。セキュリティの事故が企業経営を揺るがすこともある現在では、ルール順守は経営層にとっても重要な問題だ。今回はルールを浸透させる方法を紹介する。]]></description>
+			<title>「何とかしろ」を連呼、ブラックPMがプロジェクトを壊す（ダメPMな人たち）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700004/</link>
+			<description><![CDATA[　プロジェクトは人間が行うことなので、理論や計画だけで片付くものではない。困難な状況ではプロジェクトメンバーの気持ちが成否を左右する。しかし、「気合いと根性」は最後の手段として取っておくべきで、使わずに済むのであればそれに越したことはない。]]></description>
 			<pubDate>Thu, 06 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -272,6 +266,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601047/</link>
 			<description><![CDATA[　米Googleは現地時間2017年4月5日、機械学習アルゴリズムの演算に特化した独自開発のプロセッサ「Tensor Processing Unit（TPU）」の性能に関する調査報告を公開した。従来のGPUやCPUより15倍～30倍速く人工知能（AI）アプリケーションを処理できるという。 ]]></description>
 			<pubDate>Thu, 06 Apr 2017 12:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>小学生部門を新設！ 「U-22プログラミング・コンテスト2017」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601048/</link>
+			<description><![CDATA[　2017年4月6日、U-22プログラミング・コンテスト実行委員会は、2017年度に開催する「U-22プログラミング・コンテスト 2017」の応募要領を公開した。コンテストのキャッチフレーズは、「夢を動かせ。自由な創造力で未来をつかめ！」。]]></description>
+			<pubDate>Thu, 06 Apr 2017 13:12:09 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
