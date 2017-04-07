@@ -5,10 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>インテルとPFN、IoTデバイスへのAI実装を見据えて協業（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601062/</link>
-			<description><![CDATA[　米インテルとPreferred Networksは2017年4月6日、Preferred Networksの深層学習（ディープラーニング）フレームワークである「Chainer」の開発で協業すると発表した。]]></description>
-			<pubDate>Thu, 06 Apr 2017 21:28:37 +0900</pubDate>
+			<title>「クラウドが原因で止まっても謝る」とアーキテクトが実情明かす（クラウド障害 座談会）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033000111/040400003/</link>
+			<description><![CDATA[　パブリッククラウドの相次ぐ大規模障害を受けて、Amazon Web Services（AWS）に精通したアーキテクト2人を招いた座談会の後編。クラウドの障害に対してユーザー企業が取るべき対策について語ってもらった。]]></description>
+			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>浪江町におけるタブレットを利用したきずな再生・強化事業（情報処理学会デジタルプラクティス）</title>
@@ -95,18 +95,6 @@
 			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ヘビーユーザーは要チェック！「1日5時間まで使い放題」の格安SIM（伊藤浩一のモバイルライフ応援日記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/040300051/</link>
-			<description><![CDATA[　スマートフォンやタブレットの利用頻度が増える中で、モバイルユーザーの悩みの種は、月々の通信容量ではないでしょうか。そんななか「nuroモバイル」を提供するソニーネットワークコミュニケーションズは、ヘビーユーザー向けに、新しい料金プランをリリースしました。]]></description>
-			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「クラウドが原因で止まっても謝る」とアーキテクトが実情明かす（クラウド障害 座談会）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033000111/040400003/</link>
-			<description><![CDATA[　パブリッククラウドの相次ぐ大規模障害を受けて、Amazon Web Services（AWS）に精通したアーキテクト2人を招いた座談会の後編。クラウドの障害に対してユーザー企業が取るべき対策について語ってもらった。]]></description>
-			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>何でもかんでもPCでメモを取るのをやめませんか？（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/040400815/</link>
 			<description><![CDATA[　「orenznero（オレンズネロ）」が市場から消え、とにかく手に入らない。ぺんてるが2月に発売した、税抜き3000円の高級シャープペンシルだ。]]></description>
@@ -119,10 +107,10 @@
 			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>マイクロソフトが深層学習で日本語翻訳強化、Skypeやパワポで利用可能に（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601060/</link>
-			<description><![CDATA[　米マイクロソフトは2017年4月7日（日本時間）、翻訳サービス・APIの「Microsoft Translator」を活用したすべてのアプリで、日本語を10番目のサポート言語として追加すると発表した。「Skype翻訳」やPowerPointなどで、深層学習による音声・テキスト翻訳機能を利用できる。]]></description>
-			<pubDate>Fri, 07 Apr 2017 06:00:00 +0900</pubDate>
+			<title>ヘビーユーザーは要チェック！「1日5時間まで使い放題」の格安SIM（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/040300051/</link>
+			<description><![CDATA[　スマートフォンやタブレットの利用頻度が増える中で、モバイルユーザーの悩みの種は、月々の通信容量ではないでしょうか。そんななか「nuroモバイル」を提供するソニーネットワークコミュニケーションズは、ヘビーユーザー向けに、新しい料金プランをリリースしました。]]></description>
+			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ダイバーシティを的確に推進するには（下）（ダイバーシティを的確に推進するには）</title>
@@ -159,6 +147,12 @@
 <div></div>
 </div>
 ]]></description>
+			<pubDate>Fri, 07 Apr 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>マイクロソフトが深層学習で日本語翻訳強化、Skypeやパワポで利用可能に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601060/</link>
+			<description><![CDATA[　米マイクロソフトは2017年4月7日（日本時間）、翻訳サービス・APIの「Microsoft Translator」を活用したすべてのアプリで、日本語を10番目のサポート言語として追加すると発表した。「Skype翻訳」やPowerPointなどで、深層学習による音声・テキスト翻訳機能を利用できる。]]></description>
 			<pubDate>Fri, 07 Apr 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -264,6 +258,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040701069/</link>
 			<description><![CDATA[　米マイクロソフトは2017年4月7日、音声・テキストチャットツール「Skype」の翻訳機能を拡充したと発表した。新たに日本語の「リアルタイム会話翻訳」機能を追加。英語やフランス語、ドイツ語など9言語と日本語との間を同時通訳しながら会話できるようになった。]]></description>
 			<pubDate>Fri, 07 Apr 2017 14:33:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>三井住友カードが部署単位でデータ分析、AI活用の分析ツール「DataRobot」導入で（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040701072/</link>
+			<description><![CDATA[　三井住友カードは2017年4月7日、顧客情報や利用履歴を分析するため、米データロボットが開発した人工知能（AI）や機械学習を使うデータ分析プラットフォーム「DataRobot」を導入したと発表した。既に4月からマーケティングや与信管理といった業務で利用している。]]></description>
+			<pubDate>Fri, 07 Apr 2017 15:45:37 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
