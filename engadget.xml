@@ -5,27 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    新Fire TV Stickレビュー。4コアCPUと11ac対応で快適になったストリーミング動画端末
-</title>
-			<link>http://japanese.engadget.com/2017/04/05/new-fire-tv-stick/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/643137f68b9b91cd59da6b947d3f0f32/205129060/P4050005.JPG" />
-
-テレビのHDMI端子に接続する動画ストリーミング端末「Fire TV Stick」の新型が4月6日に発売されます。発売に先立ちAmazonから実機がEngadget編集部に到着したので、セットアップ手順、使い勝手などについてレビューします。
- ]]></description>
-			<pubDate>Thu, 06 Apr 2017 00:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>    S7 edgeユーザーが触れた Galaxy S8の魅力と課題：週刊モバイル通信 石野純也
-</title>
-			<link>http://japanese.engadget.com/2017/04/05/s7-edge-galaxy-s8/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/b146e2243301697a906c1be6f343b8cc/205129571/1.jpg" />
-　3月29日（現地時間）に、ニューヨークで、サムスン電子が2017年のフラッグシップモデルとなる「Galaxy S8」「Galaxy S8+」を発表しました。
-
-すでに速報やファーストインプレッションの記事はEngadgetにも多数掲載されているため、本連載では筆者ならではの視点から、この機種の魅力や、逆にここが足りないと感じた部分をお伝えしていきたいと思います。
- ]]></description>
-			<pubDate>Thu, 06 Apr 2017 05:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    スマホのプッシュ通知、思わず開くタイミング判明。ホッと一息を推定するロジック〜ヤフーと慶大ら研究
 </title>
 			<link>http://japanese.engadget.com/2017/04/05/yahoo/</link>
@@ -670,6 +649,47 @@ Engadget 日本版 YouTubeチャンネルより。ついに日本語に対応し
 実際に利用してみた感想は、現時点でもしっかりと会話が成立していること。誤認識している部分は随時画面上で確認できるので、もっと簡単な言い回しに変えればOKです。Skype翻訳は固定電話、携帯電話への通話でも利用できるので、海外通販サイトへの問い合わせにも活用できそうですね。
  ]]></description>
 			<pubDate>Fri, 07 Apr 2017 17:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    Ubuntuがスマホ撤退。独自UI開発終了でデスクトップはGNOME回帰、今後はIoT /AIほかに注力
+</title>
+			<link>http://japanese.engadget.com/2017/04/07/ubuntu-ui-gnome-iot-ai/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/7fc7dd859c7480af9044ae771299cebe/205138392/mainubu.jpg" />
+　
+デスクトップ向けLinuxディストリビューションとしては抜群の完成度を誇るUbuntuが、数年前より開発してきた独自UI「Unity」の開発を終了すると発表しました。デスクトップ向けのUbuntuが採用するUnityは2018年4月にリリース予定のUbuntu 18.04 LTSより、かつて採用していたGNOMEに戻ります。またUnity 8に最適化して開発していたUbuntu PhoneやUbuntu Tabletの開発も終了します。
+
+Ubuntuを開発するCanonicalのマーク・シャトルワースCEOは、Unity UIを開発してオープンソースコミュニティへと還元することが、フリーソフトウェアコミュニティや自由な開発を求めるモバイル機器メーカーの不満を打開できるだろうと考えてUnityの開発を続けてきたものの「実際のところ不満はそれほど大きくはなく、Unityはイノベーションというよりは分断要素として見られるようになってしまった」としており、Uniyが期待ほど市場に受け入れられなかったことを認めました。
+　
+
+　
+Ars TechnicaによればCanonicalはUbuntu Phone およびUbuntu Tabletの開発終了を認めたとのこと。一方で、シャトルワース氏はUbuntuがクラウドサービスやIoT方面では堅調に成果を上げていることを指摘しており、自動車、ロボット、ネットワークそして人工知能まで含む分野に、今後は投資を強化していくとしています。
+
+ただ、Unityの開発終了は、デスクトップ向けUbuntuユーザーの一部には歓迎されているかもしれません。というのも、UbuntuにUnityが採用されて以降、その動作の重さや扱いづらさ、安定性に不満を持つ人は多かったはず。特に現在のデスクトップ版Ubuntuに搭載されるUnity 7は不安定だという評判もよく見かけました。
+
+それがLinuxユーザーなら誰でも一度はさわったことがあるはずのGNOMEに戻ることで、少なくとも少しは軽く、そして使いやすくなると考えられます。
+
+ところで、Ubuntuには"フレーバー"と呼ばれる公式派生ディストリビューションが多数あります。その中にGNOMEをデフォルトで有効化したUbuntu GNOMEがあり、Unityがあまりに使いづらいという理由でこちらを選択していた人もいると思われます。
+
+本家のUbuntuが18.04 LTSからGNOMEを採用するのであれば、公式フレーバーであるUbuntu GNOMEの扱いがどうなるのかも気にな...いやまあ、本家がUbuntu GNOME化だけなら特に気にすることはなさそうです。
+
+ 
+ ]]></description>
+			<pubDate>Fri, 07 Apr 2017 18:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    子供のニンテンドースイッチ遊びをゆる～く見守る「みまもりSwitch」を1か月使ってみた。eショップ利用の落とし穴に注意
+</title>
+			<link>http://japanese.engadget.com/2017/04/07/switch-1-e/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/7142aa4aa59f14fe16e166da64271869/205138239/IMG_4144.jpg" />
+ニンテンドースイッチを購入して1ヵ月、わが家では子供たちが遊んでいます。前回の記事のとおり、ほぼ初めてのゲーム体験ということで、歯止めが効かないんじゃないかとちょっと心配しましたが、そこまでひどくもなく発売直後以外は、長くても1時間程度でやめています。
+遊ぶときもお伺いをたてているので、そのあたりはエライと思いました。
+
+とは言え遊びすぎのほか、SNSへの投稿、eショップなど、意図せずアクセスして利用してしまうのは親として心配です。
+そんな親心に配慮して、ニンテンドースイッチには、子供たちを見守る仕組みとして「みまもりSwitch」アプリが提供されています。これまでのゲーム機にはない、ニンテンドースイッチ用に導入された新たな取組です。このアプリは、ゲームをフレイする時間や何を遊んでいるのかなどを把握したり、SNSへの投稿やおともだちを制限したりする機能が搭載されています。
+
+実際にみまもりSwitchを1ヵ月使って見えてきた使い勝手や機能についてレビューします。
+ ]]></description>
+			<pubDate>Fri, 07 Apr 2017 19:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
