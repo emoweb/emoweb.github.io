@@ -5,24 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>残業10時間減に業界として取り組む、JISAが働き方改革宣言（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601056/</link>
-			<description><![CDATA[　JISAは2017年4月6日、「働き方改革宣言」を発表した。達成すべき労働時間短縮などの目標を示したうえ、JISA会員企業からの賛同を募る。JISAはこの取り組みについて業界団体として広報活動を行い、顧客からの理解、協力を得るように働きかける。]]></description>
-			<pubDate>Thu, 06 Apr 2017 18:09:12 +0900</pubDate>
-		</item>
-		<item>
-			<title>ロボが「おもてなし」するファミレスへ、ゼンショーHDが石黒研と共同研究（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601058/</link>
-			<description><![CDATA[　ゼンショーホールディングス（HD）は2017年4月6日、卓上ロボットを使ってファミリーレストランの接客をする実証実験を始めた。タッチパネルを通じた対話が可能な卓上ロボットを活用。商品の説明や注文の受付、会計といった「おもてなし」を担う。2020年の実用化を目指す。]]></description>
-			<pubDate>Thu, 06 Apr 2017 19:55:05 +0900</pubDate>
-		</item>
-		<item>
-			<title>「BS放送の先人の道をこれから歩く」、A-PABが左旋波の4K試験放送の説明会（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601059/</link>
-			<description><![CDATA[　放送サービス高度化推進協会（A-PAB）は2017年4月6日、東経110度CSの左旋円偏波（110度CS左旋）を使う4K試験放送の開局説明会を開催した。]]></description>
-			<pubDate>Thu, 06 Apr 2017 20:00:58 +0900</pubDate>
-		</item>
-		<item>
 			<title>IIJグローバル、英ボーダフォンのIoTデバイス用SIMなどを販売開始（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040601054/</link>
 			<description><![CDATA[　IIJグローバルソリューションズは2017年4月6日、英携帯電話大手ボーダフォンと再販契約を締結し、ボーダフォンのIoT向けグローバルSIM「Vodafone IoT SIM」を6月1日から提供開始すると発表した。]]></description>
@@ -47,6 +29,24 @@
 			<pubDate>Thu, 06 Apr 2017 21:28:37 +0900</pubDate>
 		</item>
 		<item>
+			<title>冗長化とか自分で試すと超楽しいじゃないですか！（すごいITインフラエンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800106/032800005/</link>
+			<description><![CDATA[　GMOインターネット 特命担当技術分析官の新里 祐教さん。どうやって現場力を磨いてきたのか。その生の声を聞く。]]></description>
+			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>なぜ急増？PMに転じて失敗するベテランSE（ダメPMな人たち）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700005/</link>
+			<description><![CDATA[　どの職業でも、向いている人、向いていない人がいる。システム構築のPMにも、もちろん向き不向きのタイプがある。特に、ベテランSEとして現場で活躍し、実直で誠実そうな人が、不向きなPMに転向して苦戦しているケースは多い。]]></description>
+			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>5万円以下で内蔵HDDは1TB！14型ノートNew Inspiron 14 3000（仕事で使えるU-5万円パソコン）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900079/030900001/</link>
+			<description><![CDATA[　デルの「New Inspiron 14 3000 エントリー」は、14型のノートパソコン。低価格帯のPCは小容量のSSDやeMMCを搭載することが多いが、New Inspiron 14 3000 エントリーは1TBの大容量HDDを搭載する。]]></description>
+			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>AppleとSpotifyはCDの「音圧戦争」を過去のものにするか？（山崎潤一郎のデジタル危険地帯）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/080600035/032800033/</link>
 			<description><![CDATA[　「Spotify」を始めとする幾つかのストリーミング系の音楽サービスが「ラウドネス基準」を導入し、音楽の音量を強制的に均一化（ノーマライズ）して音源を送出しているという情報がある。本格的なストリーミング配信時代を迎えた今、ラウドネス基準が音楽に与える影響や課題などを論じる。]]></description>
@@ -65,9 +65,9 @@
 			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>冗長化とか自分で試すと超楽しいじゃないですか！（すごいITインフラエンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032800106/032800005/</link>
-			<description><![CDATA[　GMOインターネット 特命担当技術分析官の新里 祐教さん。どうやって現場力を磨いてきたのか。その生の声を聞く。]]></description>
+			<title>2016年の国内サーバー市場は前年比12.8％減の4421億円（データは語る）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/072600158/040500040/</link>
+			<description><![CDATA[　2017年月3月27日から3月31日に公表された市場動向についてレポートする。IDC Japan「2016年 国内サーバー市場動向を発表」など3本を取り上げる。]]></description>
 			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,9 +89,9 @@
 			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ドローン専用ハイウエー、東京電力参入で空の覇権争いが激化（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040600922/</link>
-			<description><![CDATA[　東京電力ホールディングス（東京電力HD）とゼンリンがドローンの安全飛行を支援する新事業に乗り出す。2017年3月29日、その名も「ドローンハイウェイ構想」を発表した。]]></description>
+			<title>後悔しない格安スマホの選び方と端末3選［17年春］（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/040500299/</link>
+			<description><![CDATA[　この春に格安スマホを選ぶポイントを、通信会社・料金プランと端末それぞれ解説。おすすめの格安スマホも、通信会社と併せて紹介しよう。]]></description>
 			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,9 +101,9 @@
 			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>2016年の国内サーバー市場は前年比12.8％減の4421億円（データは語る）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/072600158/040500040/</link>
-			<description><![CDATA[　2017年月3月27日から3月31日に公表された市場動向についてレポートする。IDC Japan「2016年 国内サーバー市場動向を発表」など3本を取り上げる。]]></description>
+			<title>浪江町におけるタブレットを利用したきずな再生・強化事業（情報処理学会デジタルプラクティス）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/548422/040300123/</link>
+			<description><![CDATA[　福島県浪江町では，東日本大震災および福島第一原子力発電所の事故の影響で，長期および広範囲にわたる全町民の一時避難生活という前例のない状況におかれている．そのような状況の中で，町は町民にタブレット端末を配布することを決定した．]]></description>
 			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -131,27 +131,9 @@
 			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>後悔しない格安スマホの選び方と端末3選［17年春］（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/040500299/</link>
-			<description><![CDATA[　この春に格安スマホを選ぶポイントを、通信会社・料金プランと端末それぞれ解説。おすすめの格安スマホも、通信会社と併せて紹介しよう。]]></description>
-			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>浪江町におけるタブレットを利用したきずな再生・強化事業（情報処理学会デジタルプラクティス）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/548422/040300123/</link>
-			<description><![CDATA[　福島県浪江町では，東日本大震災および福島第一原子力発電所の事故の影響で，長期および広範囲にわたる全町民の一時避難生活という前例のない状況におかれている．そのような状況の中で，町は町民にタブレット端末を配布することを決定した．]]></description>
-			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>なぜ急増？PMに転じて失敗するベテランSE（ダメPMな人たち）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032700104/032700005/</link>
-			<description><![CDATA[　どの職業でも、向いている人、向いていない人がいる。システム構築のPMにも、もちろん向き不向きのタイプがある。特に、ベテランSEとして現場で活躍し、実直で誠実そうな人が、不向きなPMに転向して苦戦しているケースは多い。]]></description>
-			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>5万円以下で内蔵HDDは1TB！14型ノートNew Inspiron 14 3000（仕事で使えるU-5万円パソコン）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900079/030900001/</link>
-			<description><![CDATA[　デルの「New Inspiron 14 3000 エントリー」は、14型のノートパソコン。低価格帯のPCは小容量のSSDやeMMCを搭載することが多いが、New Inspiron 14 3000 エントリーは1TBの大容量HDDを搭載する。]]></description>
+			<title>ドローン専用ハイウエー、東京電力参入で空の覇権争いが激化（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040600922/</link>
+			<description><![CDATA[　東京電力ホールディングス（東京電力HD）とゼンリンがドローンの安全飛行を支援する新事業に乗り出す。2017年3月29日、その名も「ドローンハイウェイ構想」を発表した。]]></description>
 			<pubDate>Fri, 07 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -260,10 +242,28 @@
 			<pubDate>Fri, 07 Apr 2017 11:16:01 +0900</pubDate>
 		</item>
 		<item>
+			<title>システム管理者と情報管理者の権限を分離、内部犯行による情報漏洩を防ぐ新サービス（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040701066/</link>
+			<description><![CDATA[　セキュリティベンダーのZenmuTechは2017年4月7日、社員データへシステム管理者が勝手にアクセスできなくするセキュリティサービス「ZENMU for Meister」を開発した。]]></description>
+			<pubDate>Fri, 07 Apr 2017 12:04:57 +0900</pubDate>
+		</item>
+		<item>
 			<title>YouTube、視聴回数1万未満のチャンネルは広告非表示に（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/040701067/</link>
 			<description><![CDATA[　米Google傘下のYouTubeは現地時間2017年4月6日、ビデオコンテンツの収益化を支援するプログラム「YouTube Partner Program」の要件変更を発表した。同日より、総視聴回数が1万未満のチャンネルの動画には、広告が表示されなくなる。]]></description>
 			<pubDate>Fri, 07 Apr 2017 12:27:05 +0900</pubDate>
+		</item>
+		<item>
+			<title>1エクサ超のFPGAでニューラルネット翻訳、AIはクラウドパワー勝負に（インタビュー＆トーク）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/040700329/</link>
+			<description><![CDATA[　テキスト翻訳を含むマイクロソフトの研究開発と、翻訳サービスを支えるクラウドインフラについて、機械翻訳プロダクト戦略を担当するオリヴィエ・フォンタナAI＆Researchグループディレクターに聞いた。]]></description>
+			<pubDate>Fri, 07 Apr 2017 12:29:25 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windowsネットワーク関連の特集／コラム（ITproアーカイブス）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040700124/040700001/</link>
+			<description><![CDATA[ Windowsネットワーク関連の特集／コラムをまとめました。ITproアーカイブスは、ITpro内の記事のリンク集です。内容は随時更新します。]]></description>
+			<pubDate>Fri, 07 Apr 2017 13:35:56 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
