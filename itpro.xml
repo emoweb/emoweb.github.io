@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Google、事実検証情報を検索結果に表示　フェイクニュース対策で（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041001081/</link>
-			<description><![CDATA[　米Googleは現地時間2017年4月6日、フェイクニュース対策の新機能導入を発表した。検索エンジンと「Google News」において、検索結果が事実かどうか第三者機関による判断を表示する。]]></description>
-			<pubDate>Mon, 10 Apr 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>中国のハッカー集団、米ロビー団体を攻撃か（Computerworldニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041000355/</link>
 			<description><![CDATA[<div>
@@ -112,15 +106,21 @@
 			<pubDate>Mon, 10 Apr 2017 20:36:58 +0900</pubDate>
 		</item>
 		<item>
+			<title>送信元OSがわかってしまうTCPヘッダーの危険性（今どきTCP）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400002/</link>
+			<description><![CDATA[　TCPの役割や基本機能は仕様が策定された当初から変わらないが、プログラムの実装は様々な方向に分化してきた。OSによってヘッダーの中身が違ったり、データ配送を制御する方式の改良が進んだりしている。]]></description>
+			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>一挙公開！ 47都道府県「自治体セキュリティクラウド」落札企業（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040900925/</link>
 			<description><![CDATA[　47都道府県は「自治体情報セキュリティクラウド」の構築業務などの入札を、2016年度に実施した。日経コンピュータの調べで、落札した主な企業が判明した。目立つのは通信事業者系ベンダーや地域の計算センター事業者などだ。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>送信元OSがわかってしまうTCPヘッダーの危険性（今どきTCP）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400002/</link>
-			<description><![CDATA[　TCPの役割や基本機能は仕様が策定された当初から変わらないが、プログラムの実装は様々な方向に分化してきた。OSによってヘッダーの中身が違ったり、データ配送を制御する方式の改良が進んだりしている。]]></description>
+			<title>リスクを予防する方法（古いシステムの捨て方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/040300004/</link>
+			<description><![CDATA[　続いて、再構築プロジェクトの企画・計画段階で検討すべきリスク対策について説明する。それぞれについて、なぜそれが必要なのか、何をするのか、特記事項やポイントを説明しよう。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -136,15 +136,15 @@
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>クラウド導入、コストやセキュリティよりも内部統制が課題（クラウドの新常識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300002/</link>
-			<description><![CDATA[　クラウドの導入が進む中、導入を妨げる要因はユーザー・ベンダーともに「オンプレミスと同じ発想をクラウドに対してしていることだ」との指摘が多い。]]></description>
+			<title>ソーシャルレンディングの真価に疑義を抱かれないために　藤田雄一郎氏（主観俯瞰）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021000030/040700006/</link>
+			<description><![CDATA[　ソーシャルレンディングへの投資額は2017年、初めて1000億円に迫る見込みだ。ソーシャルレンディングとは数万円程度の少額から安定した資産運用をしたいと考える個人と、資金を借り入れて事業を拡大させたい企業とをインターネット上でマッチングするサービスを指す。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>リスクを予防する方法（古いシステムの捨て方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/040300004/</link>
-			<description><![CDATA[　続いて、再構築プロジェクトの企画・計画段階で検討すべきリスク対策について説明する。それぞれについて、なぜそれが必要なのか、何をするのか、特記事項やポイントを説明しよう。]]></description>
+			<title>全社一律の制度・ツールが働き方改革？そんなわけない（日経ITイノベーターズ講演＆白熱議論）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/040600002/</link>
+			<description><![CDATA[　「一律の規定で残業を認めないのはいかがなものか」「二つの施策で労働時間を大幅に削減できた」――。働き方についての熱いディスカッションは続いた。強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」が2016年9月28日に開催した定例会議での一幕だ。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -190,15 +190,9 @@
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ソーシャルレンディングの真価に疑義を抱かれないために　藤田雄一郎氏（主観俯瞰）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021000030/040700006/</link>
-			<description><![CDATA[　ソーシャルレンディングへの投資額は2017年、初めて1000億円に迫る見込みだ。ソーシャルレンディングとは数万円程度の少額から安定した資産運用をしたいと考える個人と、資金を借り入れて事業を拡大させたい企業とをインターネット上でマッチングするサービスを指す。]]></description>
-			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>全社一律の制度・ツールが働き方改革？そんなわけない（日経ITイノベーターズ講演＆白熱議論）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/040600002/</link>
-			<description><![CDATA[　「一律の規定で残業を認めないのはいかがなものか」「二つの施策で労働時間を大幅に削減できた」――。働き方についての熱いディスカッションは続いた。強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」が2016年9月28日に開催した定例会議での一幕だ。]]></description>
+			<title>クラウド導入、コストやセキュリティよりも内部統制が課題（クラウドの新常識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300002/</link>
+			<description><![CDATA[　クラウドの導入が進む中、導入を妨げる要因はユーザー・ベンダーともに「オンプレミスと同じ発想をクラウドに対してしていることだ」との指摘が多い。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -296,6 +290,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041101096/</link>
 			<description><![CDATA[　インドのオンライン小売り大手Flipkartは現地時間2017年4月10日、中国Tencent Holdings（騰訊控股）、米eBay、米Microsoftによる合計14億ドルの資金調達に成功したと発表した。また、eBayのインド事業であるeBay Indiaを買収する計画も明らかにした。]]></description>
 			<pubDate>Tue, 11 Apr 2017 12:48:13 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本ケーブルテレビ連盟が「女性活躍推進に向けた業界行動宣言」を発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041101097/</link>
+			<description><![CDATA[　日本ケーブルテレビ連盟（JCTA）は2017年4月10日、「ケーブルテレビ業界における女性活躍推進に向けた業界行動宣言」を発表した。男女が共に輝く多様な働き方の実現により業界としての競争力を高めることを目指す。]]></description>
+			<pubDate>Tue, 11 Apr 2017 15:12:33 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
