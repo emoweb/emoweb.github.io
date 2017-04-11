@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>あり得ないトラブルは意外と普通に起こる（脱出！ 暗闇プロジェクト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/032400061/</link>
+			<description><![CDATA[　今どきのプロジェクトの多くは問題探索型であり、先を見通せないなかで運営していかなければならない。この連載では、そうしたプロジェクトを「暗闇プロジェクト」と呼び、その種のプロジェクトを主導するマネジャーが持つべき心得や運営のヒントを事例とともに示している。今回から問題解決について取り上げる。]]></description>
+			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>一挙公開！ 47都道府県「自治体セキュリティクラウド」落札企業（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040900925/</link>
 			<description><![CDATA[　47都道府県は「自治体情報セキュリティクラウド」の構築業務などの入札を、2016年度に実施した。日経コンピュータの調べで、落札した主な企業が判明した。目立つのは通信事業者系ベンダーや地域の計算センター事業者などだ。]]></description>
@@ -59,15 +65,15 @@
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>サムスンGalaxy S8の新機能「Bixby」、AlexaやSiriを超えられるか（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/040400101/</link>
-			<description><![CDATA[　サムスン電子は米国時間の2017年3月29日、新スマートフォン「Galaxy S8」「Galaxy S8＋」を発表した。両機種の大きな特徴の1つが「Bixby」だ。人工知能（AI）を活用し、音声アシスタントを超えた機能でスマートフォンの利便性を高めるのが特徴だが、その実力はどれほどのものだろうか。]]></description>
+			<title>クラウド導入、コストやセキュリティよりも内部統制が課題（クラウドの新常識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300002/</link>
+			<description><![CDATA[　クラウドの導入が進む中、導入を妨げる要因はユーザー・ベンダーともに「オンプレミスと同じ発想をクラウドに対してしていることだ」との指摘が多い。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>あり得ないトラブルは意外と普通に起こる（脱出！ 暗闇プロジェクト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/032400061/</link>
-			<description><![CDATA[　今どきのプロジェクトの多くは問題探索型であり、先を見通せないなかで運営していかなければならない。この連載では、そうしたプロジェクトを「暗闇プロジェクト」と呼び、その種のプロジェクトを主導するマネジャーが持つべき心得や運営のヒントを事例とともに示している。今回から問題解決について取り上げる。]]></description>
+			<title>送信元OSがわかってしまうTCPヘッダーの危険性（今どきTCP）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400002/</link>
+			<description><![CDATA[　TCPの役割や基本機能は仕様が策定された当初から変わらないが、プログラムの実装は様々な方向に分化してきた。OSによってヘッダーの中身が違ったり、データ配送を制御する方式の改良が進んだりしている。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -83,15 +89,9 @@
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>クラウド導入、コストやセキュリティよりも内部統制が課題（クラウドの新常識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300002/</link>
-			<description><![CDATA[　クラウドの導入が進む中、導入を妨げる要因はユーザー・ベンダーともに「オンプレミスと同じ発想をクラウドに対してしていることだ」との指摘が多い。]]></description>
-			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>送信元OSがわかってしまうTCPヘッダーの危険性（今どきTCP）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400002/</link>
-			<description><![CDATA[　TCPの役割や基本機能は仕様が策定された当初から変わらないが、プログラムの実装は様々な方向に分化してきた。OSによってヘッダーの中身が違ったり、データ配送を制御する方式の改良が進んだりしている。]]></description>
+			<title>サムスンGalaxy S8の新機能「Bixby」、AlexaやSiriを超えられるか（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/040400101/</link>
+			<description><![CDATA[　サムスン電子は米国時間の2017年3月29日、新スマートフォン「Galaxy S8」「Galaxy S8＋」を発表した。両機種の大きな特徴の1つが「Bixby」だ。人工知能（AI）を活用し、音声アシスタントを超えた機能でスマートフォンの利便性を高めるのが特徴だが、その実力はどれほどのものだろうか。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -233,6 +233,12 @@
 			<pubDate>Tue, 11 Apr 2017 19:53:07 +0900</pubDate>
 		</item>
 		<item>
+			<title>マニュアルや手順書を作るだけでは新たな暗黙知になってしまう（技能伝承はITにお任せ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400117/040400003/</link>
+			<description><![CDATA[　時間を掛けて整備した作業手順書やマニュアル、顧客対応集。だが、いざ必要となったとき、どこを参照すればいいのかが分からず、結局、社内で活用されていない――。そんな悩みを抱える企業は多い。富士ゼロックスは文書管理システム「Apeos OEMASTER Evidence Tracker」で解決を図っている。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>文法に誤りのない天気予報原稿を自動作成、NTTデータのAI記者（ここまできたAI記者の実力）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400118/040600002/</link>
 			<description><![CDATA[　新聞やテレビ、ニュースサイトなどの媒体に掲載する記事を人工知能（AI）により自動作成するシステム、いわゆる「AI記者」の実用化が国内外で進んでいる。本特集では先行企業の事例から、現時点でAI記者がどれほどの力量を持っているのか明らかにする。今回はNTTデータの取り組みを見ていく。]]></description>
@@ -257,9 +263,9 @@
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>マニュアルや手順書を作るだけでは新たな暗黙知になってしまう（技能伝承はITにお任せ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400117/040400003/</link>
-			<description><![CDATA[　時間を掛けて整備した作業手順書やマニュアル、顧客対応集。だが、いざ必要となったとき、どこを参照すればいいのかが分からず、結局、社内で活用されていない――。そんな悩みを抱える企業は多い。富士ゼロックスは文書管理システム「Apeos OEMASTER Evidence Tracker」で解決を図っている。]]></description>
+			<title>ケアレスミスの原因を真面目に追求してもムダ（脱出！ 暗闇プロジェクト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/032400062/</link>
+			<description><![CDATA[　プロジェクトでは様々な課題や問題が発生する。特これらの課題や問題を全て解決するのは、まず不可能だ。課題や問題が残ったままだと、プロジェクトマネジャーの気は重くなる。「課題を一掃できれば、どれだけ気が楽になることか」。こう思うのも無理はない。]]></description>
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -323,12 +329,6 @@
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ケアレスミスの原因を真面目に追求してもムダ（脱出！ 暗闇プロジェクト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/032400062/</link>
-			<description><![CDATA[　プロジェクトでは様々な課題や問題が発生する。特これらの課題や問題を全て解決するのは、まず不可能だ。課題や問題が残ったままだと、プロジェクトマネジャーの気は重くなる。「課題を一掃できれば、どれだけ気が楽になることか」。こう思うのも無理はない。]]></description>
-			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>データアナリティクスでプロジェクトの成果を高めるには（中）（データアナリティクスでプロジェクトの成果を高めるには）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500002/</link>
 			<description><![CDATA[<div>
@@ -362,6 +362,12 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 12 Apr 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「事業部門にも高速ストレージを」、ピュア・ストレージが倍速化のオールフラッシュアレイ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041101105/</link>
+			<description><![CDATA[　ストレージ専業ベンダーのピュア・ストレージ・ジャパンは2017年4月11日、フラッシュメモリーのみで構成した高速ストレージ装置「FlashArray//X」を発売した。新設計のフラッシュメモリーモジュールによってデータ転送速度を最大2倍高速化。転送遅延は半減させた。]]></description>
+			<pubDate>Wed, 12 Apr 2017 07:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
