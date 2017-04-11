@@ -5,53 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>中国のハッカー集団、米ロビー団体を攻撃か（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041000355/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　中国のハッカー集団と見られるグループが、米国の通商関連のロビー団体のWebサイトに侵入していた形跡があることが分かった。米中両国が、互いの商品とサービスの輸入のあり方について方策を探る中での出来事だ。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041000355/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Gerd Altmann / Pixabay</div>
-</div>
-<p>
-　米セキュリティ企業Fidelis Cybersecurityの<a href="https://www.fidelissecurity.com/TradeSecret" target="_blank">ブログ記事</a>によると、2017年2月末から3月初めにかけて、全米外国貿易評議会（NFTC：National Foreign Trade Council）が、中国のハッキング集団「APT10」によるものと見られる「戦略的なWeb侵害」を受けていた。
-</p>
-<p>
-　NFTCは、オープンで公正な貿易に向けたロビー活動を展開している団体だ。<a href="http://www.nftc.org/default/general%20information/2017goalsandpriorities.pdf" target="_blank">2017年の活動方針</a>では、「中国市場へのアクセスを阻害して公正な貿易を損なっている中国の政策に対処する方法を見つけると同時に、両国の貿易関係で前向きな動きを推進する」という面に関して、Trump米大統領に協力する姿勢を示している。Trump大統領はフロリダ州で現地時間2017年4月6～7日、中国の習近平国家主席と首脳会談を行った。
-</p>
-<p>
-　NFTCに近い関係者の話によると、2月末～3月初めの攻撃を同団体はすぐに発見し、マルウエアを削除してWebサイト訪問者を保護するための策を講じた。
-</p>
-<p>
-　Fidelisのブログ記事によると、このWeb攻撃は、米国の貿易政策に注目している民間の主要企業をターゲットにした可能性が非常に高い。また、Fidelisの調査では、日本の官僚をターゲットにした同様の活動も見つかっている。
-</p>
-<p>
-　「日本に対するキャンペーンから導かれる関係性を踏まえると、この件に関与した犯人は『APT10』だった可能性が非常に高い」とFidelisは推定している。APT10とは、中国の著名なハッキング集団だ。
-</p>
-<p>
-　Fidelisは、NFTCが受けた攻撃を「Operation TradeSecret」と名付けた。この攻撃は、NFTCのWebサイトのうち、会議の参加登録に使うページなど、一部のページを訪れる利用者を標的としたもので、「Scanbox」という偵察用のマルウエアを仕掛けていた。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041000355/?ST=cm-network&P=2">Fidelisによると、Scanboxは、中国政府とつながりのあ...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041000355/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041000355/?ST=cm-network&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041000355/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 10 Apr 2017 10:20:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>今秋登場と噂の「iPhone 8」、出荷時期が数週間遅れる見通し（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041001082/</link>
 			<description><![CDATA[　米Appleが2017年秋に発売する次期iPhoneは、3種のモデルが用意される見通しだが、そのうちOLED（有機EL）ディスプレーを採用するモデルが顧客の手元に届くのは、予約受付から数週間後になりそうだと、Mac RumorsやBGRなどの米メディアが現地時間2017年4月7日までに伝えた。 ]]></description>
@@ -106,15 +59,21 @@
 			<pubDate>Mon, 10 Apr 2017 20:36:58 +0900</pubDate>
 		</item>
 		<item>
+			<title>一挙公開！ 47都道府県「自治体セキュリティクラウド」落札企業（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040900925/</link>
+			<description><![CDATA[　47都道府県は「自治体情報セキュリティクラウド」の構築業務などの入札を、2016年度に実施した。日経コンピュータの調べで、落札した主な企業が判明した。目立つのは通信事業者系ベンダーや地域の計算センター事業者などだ。]]></description>
+			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>送信元OSがわかってしまうTCPヘッダーの危険性（今どきTCP）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400002/</link>
 			<description><![CDATA[　TCPの役割や基本機能は仕様が策定された当初から変わらないが、プログラムの実装は様々な方向に分化してきた。OSによってヘッダーの中身が違ったり、データ配送を制御する方式の改良が進んだりしている。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>一挙公開！ 47都道府県「自治体セキュリティクラウド」落札企業（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040900925/</link>
-			<description><![CDATA[　47都道府県は「自治体情報セキュリティクラウド」の構築業務などの入札を、2016年度に実施した。日経コンピュータの調べで、落札した主な企業が判明した。目立つのは通信事業者系ベンダーや地域の計算センター事業者などだ。]]></description>
+			<title>全社一律の制度・ツールが働き方改革？そんなわけない（日経ITイノベーターズ講演＆白熱議論）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/040600002/</link>
+			<description><![CDATA[　「一律の規定で残業を認めないのはいかがなものか」「二つの施策で労働時間を大幅に削減できた」――。働き方についての熱いディスカッションは続いた。強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」が2016年9月28日に開催した定例会議での一幕だ。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -130,9 +89,9 @@
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ベテラン社員の代わりにAIが見積り手順を教えてくれる（技能伝承はITにお任せ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400117/040400002/</link>
-			<description><![CDATA[　山形県に本社をおくIBUKIは、金型製作を手がける社員数50人ほどの中小企業。メーカーから受けた見積もり依頼は全て、工場長ただ一人でこなす。他の社員では、正確に見積もるためのノウハウがないからだ。同社は工場長の知見をAIで形式知化し、他の社員でも短時間に正確に見積もりできる環境を整えた。]]></description>
+			<title>猿マネは役立たない、失敗できる環境を作り失敗から学べ（10人のIT部門が消滅～ひとり情シス顛末記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/040700014/</link>
+			<description><![CDATA[　ITインフラの運営に猿マネは禁物――。10人もいたIT部門のまさかの消滅で、たった一人のIT担当者になった著者が、IT環境の建て直しに挑む。この「ひとり情シス顛末記」は大評判になった分、読者から「どのようなインフラ環境で運営しているのか」との質問が殺到した。だが、著者はそうした質問には冷やかだ。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -142,9 +101,9 @@
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>全社一律の制度・ツールが働き方改革？そんなわけない（日経ITイノベーターズ講演＆白熱議論）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/040600002/</link>
-			<description><![CDATA[　「一律の規定で残業を認めないのはいかがなものか」「二つの施策で労働時間を大幅に削減できた」――。働き方についての熱いディスカッションは続いた。強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」が2016年9月28日に開催した定例会議での一幕だ。]]></description>
+			<title>クラウド導入、コストやセキュリティよりも内部統制が課題（クラウドの新常識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300002/</link>
+			<description><![CDATA[　クラウドの導入が進む中、導入を妨げる要因はユーザー・ベンダーともに「オンプレミスと同じ発想をクラウドに対してしていることだ」との指摘が多い。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -184,15 +143,9 @@
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>猿マネは役立たない、失敗できる環境を作り失敗から学べ（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/040700014/</link>
-			<description><![CDATA[　ITインフラの運営に猿マネは禁物――。10人もいたIT部門のまさかの消滅で、たった一人のIT担当者になった著者が、IT環境の建て直しに挑む。この「ひとり情シス顛末記」は大評判になった分、読者から「どのようなインフラ環境で運営しているのか」との質問が殺到した。だが、著者はそうした質問には冷やかだ。]]></description>
-			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>クラウド導入、コストやセキュリティよりも内部統制が課題（クラウドの新常識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300002/</link>
-			<description><![CDATA[　クラウドの導入が進む中、導入を妨げる要因はユーザー・ベンダーともに「オンプレミスと同じ発想をクラウドに対してしていることだ」との指摘が多い。]]></description>
+			<title>ベテラン社員の代わりにAIが見積り手順を教えてくれる（技能伝承はITにお任せ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400117/040400002/</link>
+			<description><![CDATA[　山形県に本社をおくIBUKIは、金型製作を手がける社員数50人ほどの中小企業。メーカーから受けた見積もり依頼は全て、工場長ただ一人でこなす。他の社員では、正確に見積もるためのノウハウがないからだ。同社は工場長の知見をAIで形式知化し、他の社員でも短時間に正確に見積もりできる環境を整えた。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -284,6 +237,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041101094/</link>
 			<description><![CDATA[　米Googleが韓国LG Displayに1兆ウォン以上（約1000億円）の出資を申し入れたと、韓国のElectronic Timesが関係者から得た情報として現地時間2017年4月10日に報じた。]]></description>
 			<pubDate>Tue, 11 Apr 2017 10:57:18 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows VistaとExchange Server 2007のサポートが終了（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041101095/</link>
+			<description><![CDATA[　2017年4月11日、Windows Vistaのサポートが終了する。マイクロソフトはVistaに対してセキュリティ更新プログラム、セキュリティ以外の更新プログラム、有償／無償のサポートオプションを提供しなくなり、サポート技術情報を更新しなくなる。]]></description>
+			<pubDate>Tue, 11 Apr 2017 12:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>インドEC大手にTencentやMSなど14億ドル出資、Amazonに対抗へ（ニュース）</title>
