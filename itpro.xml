@@ -11,12 +11,6 @@
 			<pubDate>Mon, 10 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>日本IBM、信金版のAPI接続共通基盤を構築（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041001085/</link>
-			<description><![CDATA[　日本IBMは2017年4月10日、しんきん情報システムセンターが計画するFinTech向け「オープンAPI共通基盤」構築を支援すると発表した。しんきんインターネットバンキングシステムとFinTech企業が提供する新サービスをつなげて、信用金庫の顧客が最新の金融サービスを利用できるようにする。]]></description>
-			<pubDate>Mon, 10 Apr 2017 12:49:19 +0900</pubDate>
-		</item>
-		<item>
 			<title>「Googleで男女間の著しい報酬格差」、米労働省が証言（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041001086/</link>
 			<description><![CDATA[「Googleで男女間の著しい報酬格差」、米労働省が証言]]></description>
@@ -53,6 +47,12 @@
 			<pubDate>Mon, 10 Apr 2017 20:36:58 +0900</pubDate>
 		</item>
 		<item>
+			<title>一挙公開！ 47都道府県「自治体セキュリティクラウド」落札企業（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040900925/</link>
+			<description><![CDATA[　47都道府県は「自治体情報セキュリティクラウド」の構築業務などの入札を、2016年度に実施した。日経コンピュータの調べで、落札した主な企業が判明した。目立つのは通信事業者系ベンダーや地域の計算センター事業者などだ。]]></description>
+			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>送信元OSがわかってしまうTCPヘッダーの危険性（今どきTCP）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400002/</link>
 			<description><![CDATA[　TCPの役割や基本機能は仕様が策定された当初から変わらないが、プログラムの実装は様々な方向に分化してきた。OSによってヘッダーの中身が違ったり、データ配送を制御する方式の改良が進んだりしている。]]></description>
@@ -65,9 +65,9 @@
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>一挙公開！ 47都道府県「自治体セキュリティクラウド」落札企業（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040900925/</link>
-			<description><![CDATA[　47都道府県は「自治体情報セキュリティクラウド」の構築業務などの入札を、2016年度に実施した。日経コンピュータの調べで、落札した主な企業が判明した。目立つのは通信事業者系ベンダーや地域の計算センター事業者などだ。]]></description>
+			<title>日本企業がDevOpsを生かすか殺すかはマネジャー次第（インタビュー＆トーク）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/040700330/</link>
+			<description><![CDATA[　日本企業でも導入機運が高まりつつあるDevOps。だが、活用しているのは一部の企業で、多くの企業はようやくスタートラインに立った段階だ。DevOpsを活用してビジネス面で価値をもたらすために、日本企業は何をすべきか。米マイクロソフトの牛尾 剛氏、楽天の川口 恭伸氏らDevOpsの識者に聞く。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ドコモの自転車で都内を走破、感じた「らしさ」と課題（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/040800818/</link>
-			<description><![CDATA[　ようやくコート無しで出歩ける季節になった。スギ花粉もだいぶ収まってきた。記者もちょうど、書き下ろしの書籍と雑誌の特集記事の執筆・編集作業が終わり、残業続きの日々からようやく解放された。よし、あれに挑戦してみよう――。]]></description>
+			<title>あり得ないトラブルは意外と普通に起こる（脱出！ 暗闇プロジェクト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/032400061/</link>
+			<description><![CDATA[　今どきのプロジェクトの多くは問題探索型であり、先を見通せないなかで運営していかなければならない。この連載では、そうしたプロジェクトを「暗闇プロジェクト」と呼び、その種のプロジェクトを主導するマネジャーが持つべき心得や運営のヒントを事例とともに示している。今回から問題解決について取り上げる。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>日本企業がDevOpsを生かすか殺すかはマネジャー次第（インタビュー＆トーク）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/040700330/</link>
-			<description><![CDATA[　日本企業でも導入機運が高まりつつあるDevOps。だが、活用しているのは一部の企業で、多くの企業はようやくスタートラインに立った段階だ。DevOpsを活用してビジネス面で価値をもたらすために、日本企業は何をすべきか。米マイクロソフトの牛尾 剛氏、楽天の川口 恭伸氏らDevOpsの識者に聞く。]]></description>
+			<title>猿マネは役立たない、失敗できる環境を作り失敗から学べ（10人のIT部門が消滅～ひとり情シス顛末記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/040700014/</link>
+			<description><![CDATA[　ITインフラの運営に猿マネは禁物――。10人もいたIT部門のまさかの消滅で、たった一人のIT担当者になった著者が、IT環境の建て直しに挑む。この「ひとり情シス顛末記」は大評判になった分、読者から「どのようなインフラ環境で運営しているのか」との質問が殺到した。だが、著者はそうした質問には冷やかだ。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -131,15 +131,9 @@
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>あり得ないトラブルは意外と普通に起こる（脱出！ 暗闇プロジェクト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/032400061/</link>
-			<description><![CDATA[　今どきのプロジェクトの多くは問題探索型であり、先を見通せないなかで運営していかなければならない。この連載では、そうしたプロジェクトを「暗闇プロジェクト」と呼び、その種のプロジェクトを主導するマネジャーが持つべき心得や運営のヒントを事例とともに示している。今回から問題解決について取り上げる。]]></description>
-			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>猿マネは役立たない、失敗できる環境を作り失敗から学べ（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/040700014/</link>
-			<description><![CDATA[　ITインフラの運営に猿マネは禁物――。10人もいたIT部門のまさかの消滅で、たった一人のIT担当者になった著者が、IT環境の建て直しに挑む。この「ひとり情シス顛末記」は大評判になった分、読者から「どのようなインフラ環境で運営しているのか」との質問が殺到した。だが、著者はそうした質問には冷やかだ。]]></description>
+			<title>ドコモの自転車で都内を走破、感じた「らしさ」と課題（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/040800818/</link>
+			<description><![CDATA[　ようやくコート無しで出歩ける季節になった。スギ花粉もだいぶ収まってきた。記者もちょうど、書き下ろしの書籍と雑誌の特集記事の執筆・編集作業が終わり、残業続きの日々からようやく解放された。よし、あれに挑戦してみよう――。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -255,6 +249,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041101098/</link>
 			<description><![CDATA[　ケイ・オプティコムとNECは2017年4月11日、NFV(ネットワーク機能仮想化技術）と10G-EPON技術を組み合わせた実証実験を2017年3月に実施、10Gbpsインターネット接続回線にvCPE(宅内通信機器の仮想化）を適用できることを確認したと発表した。]]></description>
 			<pubDate>Tue, 11 Apr 2017 16:23:08 +0900</pubDate>
+		</item>
+		<item>
+			<title>TIS、COBOLの大規模システムをJavaに自動変換する移行支援サービス（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041101100/</link>
+			<description><![CDATA[　TISは2017年4月11日、メインフレームで稼働するメガステップクラスの大規模アプリケーションを、オープン環境に移行するのを支援する「Xenlon～神龍 マイグレーションサービス 」を4月から順次提供開始すると発表した。習得率が減少し保守要員の確保が難しいCOBOLの大規模アプリケーションを、技術者の確保が容易なJavaに移行することで、運用コストを低減して運用継続性を担保する。]]></description>
+			<pubDate>Tue, 11 Apr 2017 17:23:19 +0900</pubDate>
 		</item>
 		<item>
 			<title>エデュアス、レノボ製タブレットなどを活用した学校向けICT導入支援ソリューション（ニュース）</title>
