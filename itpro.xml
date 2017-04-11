@@ -5,47 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>データアナリティクスでプロジェクトの成果を高めるには（上）（データアナリティクスでプロジェクトの成果を高めるには）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　あらゆる規模の企業が、機会探索、コスト削減、効率化、意思決定の強化と迅速化、そして最終的な顧客満足度向上を目指して、データアナリティクスを利用している。こうした動きによって、全社的な戦略が大いに実現され、プロジェクト、プログラム、ポートフォリオの各レベルでも変化が表れる。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　米GartnerのバイスプレジデントでアナリストのTed Friedman氏は、データとアナリティクスの利用に関して、以下の4つのトレンドが根本的な変化をもたらすと予測している。</p>
-
-<ul>
-
-<li>データアナリティクスは、業績を表すだけのものではなく、事業活動のかじ取りを担う存在となる。</li>
-<br>
-<li>データとアナリティクスが企業のアーキテクチャーにエンドツーエンドで組み込まれ、全社的な取り組みが生まれる。これには、EPMO（Enterprise Program Management Office）での戦略的なプロジェクト管理も含まれる。</li>
-<br>
-<li>企業幹部がデータとアナリティクスを経営戦略と事業成長に利用し、データやアナリティクスの担当者が新たな役割を担うようになる。</li>
-<br>
-<li>データによってプロジェクトの成果がどのように高まるかについてのインサイトをエキスパートが共有する。</li>
-
-</ul>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500001/?ST=cio-management&P=2">あらゆる規模の企業が、機会探索、コスト削減、効率...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500001/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500001/?ST=cio-management&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500001/?ST=cio-management&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 10 Apr 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Google、事実検証情報を検索結果に表示　フェイクニュース対策で（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041001081/</link>
 			<description><![CDATA[　米Googleは現地時間2017年4月6日、フェイクニュース対策の新機能導入を発表した。検索エンジンと「Google News」において、検索結果が事実かどうか第三者機関による判断を表示する。]]></description>
@@ -159,6 +118,12 @@
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>送信元OSがわかってしまうTCPヘッダーの危険性（今どきTCP）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400002/</link>
+			<description><![CDATA[　TCPの役割や基本機能は仕様が策定された当初から変わらないが、プログラムの実装は様々な方向に分化してきた。OSによってヘッダーの中身が違ったり、データ配送を制御する方式の改良が進んだりしている。]]></description>
+			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>SIerで落ちこぼれた私が「エンジニアのための会社」を立ち上げるに至ったワケ（越境エンジニア列伝）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/041000006/</link>
 			<description><![CDATA[　「ITに全く関係ない分野からITに飛び込んで活躍しているエンジニア」や「ITとIT以外の分野の境界を行き来しながら成果を上げているエンジニア」を「越境エンジニア」と名付け、1カ月に一人ずつインタビューを掲載する。今月取り上げるのは佐藤治夫氏。Pythonに特化したシステム開発会社であるビープラウドの創業者だ。今回は、SIerに就職してITに関わるようになってからビープラウドの設立に至るまでを聞いた。]]></description>
@@ -171,15 +136,15 @@
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>全社一律の制度・ツールが働き方改革？そんなわけない（日経ITイノベーターズ講演＆白熱議論）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/040600002/</link>
-			<description><![CDATA[　「一律の規定で残業を認めないのはいかがなものか」「二つの施策で労働時間を大幅に削減できた」――。働き方についての熱いディスカッションは続いた。強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」が2016年9月28日に開催した定例会議での一幕だ。]]></description>
+			<title>クラウド導入、コストやセキュリティよりも内部統制が課題（クラウドの新常識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300002/</link>
+			<description><![CDATA[　クラウドの導入が進む中、導入を妨げる要因はユーザー・ベンダーともに「オンプレミスと同じ発想をクラウドに対してしていることだ」との指摘が多い。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>送信元OSがわかってしまうTCPヘッダーの危険性（今どきTCP）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400002/</link>
-			<description><![CDATA[　TCPの役割や基本機能は仕様が策定された当初から変わらないが、プログラムの実装は様々な方向に分化してきた。OSによってヘッダーの中身が違ったり、データ配送を制御する方式の改良が進んだりしている。]]></description>
+			<title>リスクを予防する方法（古いシステムの捨て方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/040300004/</link>
+			<description><![CDATA[　続いて、再構築プロジェクトの企画・計画段階で検討すべきリスク対策について説明する。それぞれについて、なぜそれが必要なのか、何をするのか、特記事項やポイントを説明しよう。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -231,15 +196,9 @@
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>クラウド導入、コストやセキュリティよりも内部統制が課題（クラウドの新常識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300002/</link>
-			<description><![CDATA[　クラウドの導入が進む中、導入を妨げる要因はユーザー・ベンダーともに「オンプレミスと同じ発想をクラウドに対してしていることだ」との指摘が多い。]]></description>
-			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>リスクを予防する方法（古いシステムの捨て方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/040300004/</link>
-			<description><![CDATA[　続いて、再構築プロジェクトの企画・計画段階で検討すべきリスク対策について説明する。それぞれについて、なぜそれが必要なのか、何をするのか、特記事項やポイントを説明しよう。]]></description>
+			<title>全社一律の制度・ツールが働き方改革？そんなわけない（日経ITイノベーターズ講演＆白熱議論）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/040600002/</link>
+			<description><![CDATA[　「一律の規定で残業を認めないのはいかがなものか」「二つの施策で労働時間を大幅に削減できた」――。働き方についての熱いディスカッションは続いた。強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」が2016年9月28日に開催した定例会議での一幕だ。]]></description>
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -331,6 +290,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041101094/</link>
 			<description><![CDATA[　米Googleが韓国LG Displayに1兆ウォン以上（約1000億円）の出資を申し入れたと、韓国のElectronic Timesが関係者から得た情報として現地時間2017年4月10日に報じた。]]></description>
 			<pubDate>Tue, 11 Apr 2017 10:57:18 +0900</pubDate>
+		</item>
+		<item>
+			<title>インドEC大手にTencentやMSなど14億ドル出資、Amazonに対抗へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041101096/</link>
+			<description><![CDATA[　インドのオンライン小売り大手Flipkartは現地時間2017年4月10日、中国Tencent Holdings（騰訊控股）、米eBay、米Microsoftによる合計14億ドルの資金調達に成功したと発表した。また、eBayのインド事業であるeBay Indiaを買収する計画も明らかにした。]]></description>
+			<pubDate>Tue, 11 Apr 2017 12:48:13 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
