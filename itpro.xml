@@ -11,6 +11,18 @@
 			<pubDate>Tue, 11 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>3年以上放置されたMac Proをアップデート、本格的なモデルチェンジは？（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/041000040/</link>
+			<description><![CDATA[　米アップルが米国の記者に対して、Macに関するブリーフィングを実施したことが、2017年4月上旬に伝わってきた。アップルが将来の製品計画に関してブリーフィングを行うことはまれだ。プロユーザー向け製品に関して「説明が必要な状況である」との認識を反映したものと考えられる。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>TCPの輻輳制御アルゴリズム、どれが一番速い？（今どきTCP）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400003/</link>
+			<description><![CDATA[　TCPの重要な要素として、輻輳制御アルゴリズムがある。アルゴリズムは大きく、（1）パケットロスを観測するロスベース方式、（2）RTTを指標とする遅延ベース方式、（3）両方の方式を使い分けるハイブリッド方式──の3方式に分けられる。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>文法に誤りのない天気予報原稿を自動作成、NTTデータのAI記者（ここまできたAI記者の実力）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400118/040600002/</link>
 			<description><![CDATA[　新聞やテレビ、ニュースサイトなどの媒体に掲載する記事を人工知能（AI）により自動作成するシステム、いわゆる「AI記者」の実用化が国内外で進んでいる。本特集では先行企業の事例から、現時点でAI記者がどれほどの力量を持っているのか明らかにする。今回はNTTデータの取り組みを見ていく。]]></description>
@@ -41,9 +53,9 @@
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>3年以上放置されたMac Proをアップデート、本格的なモデルチェンジは？（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/041000040/</link>
-			<description><![CDATA[　米アップルが米国の記者に対して、Macに関するブリーフィングを実施したことが、2017年4月上旬に伝わってきた。アップルが将来の製品計画に関してブリーフィングを行うことはまれだ。プロユーザー向け製品に関して「説明が必要な状況である」との認識を反映したものと考えられる。]]></description>
+			<title>IoTアーキテクチャーは幻で虚ろである（ゼロから挑戦！IoT開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/041000003/</link>
+			<description><![CDATA[　IoT（インターネット・オブ・シングズ）システムの企画や要求で出てきた夢や希望を、より具体的な「絵」や「図」として描くのが、IoTアーキテクチャーである。だが、形になっていない企画や要求を絵にするのは、幻を描写するような難しさがある。]]></description>
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -92,18 +104,6 @@
 			<title>Pythonという“道具”にあえてこだわり開けた道（越境エンジニア列伝）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/041000007/</link>
 			<description><![CDATA[　「ITに全く関係ない分野からITに飛び込んで活躍しているエンジニア」や「ITとIT以外の分野の境界を行き来しながら成果を上げているエンジニア」を「越境エンジニア」と名付け、1カ月に一人ずつインタビューを掲載する。今月取り上げるのは佐藤治夫氏。Pythonに特化したシステム開発会社であるビープラウドの創業者だ。今回は、ビープラウドがPythonに特化した経緯や理由、リモートワークの全面採用などについて聞いた。]]></description>
-			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IoTアーキテクチャーは幻で虚ろである（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/041000003/</link>
-			<description><![CDATA[　IoT（インターネット・オブ・シングズ）システムの企画や要求で出てきた夢や希望を、より具体的な「絵」や「図」として描くのが、IoTアーキテクチャーである。だが、形になっていない企画や要求を絵にするのは、幻を描写するような難しさがある。]]></description>
-			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>TCPの輻輳制御アルゴリズム、どれが一番速い？（今どきTCP）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400003/</link>
-			<description><![CDATA[　TCPの重要な要素として、輻輳制御アルゴリズムがある。アルゴリズムは大きく、（1）パケットロスを観測するロスベース方式、（2）RTTを指標とする遅延ベース方式、（3）両方の方式を使い分けるハイブリッド方式──の3方式に分けられる。]]></description>
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -272,6 +272,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201120/</link>
 			<description><![CDATA[　インテルは2017年4月12日、関西電力など3社と共同でスマートホームの実証実験に取り組むと発表した。インテル製CPUを搭載したホームゲートウエイと環境センサーを関電の契約者100世帯の自宅に設置し、健康管理や保険、教育、小売といったサービスを契約者向けに提供する。]]></description>
 			<pubDate>Wed, 12 Apr 2017 19:43:44 +0900</pubDate>
+		</item>
+		<item>
+			<title>アズジェントがWeb無害化ツール2製品、ゲートウエイ用とWebサイト用（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201121/</link>
+			<description><![CDATA[　アズジェントは2017年4月12日、Webページの無害化ツール2製品を6月から提供すると発表した。Webページを画像に変換することで、アクセスしたパソコンが脆弱性を悪用した攻撃を受けるのを防げるとしている。]]></description>
+			<pubDate>Wed, 12 Apr 2017 20:57:06 +0900</pubDate>
+		</item>
+		<item>
+			<title>「AIが企業のブランドを作る」、アクセンチュアが調査レポート（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201123/</link>
+			<description><![CDATA[　アクセンチュアは2017年4月12日、調査レポート「Technology Vision 2017」について報道関係者向け説明会を開催した。新たなビジネスやサービスを創出したり、既存のビジネスモデルを破壊する最新技術とその影響について、5つのテーマに沿って紹介した。]]></description>
+			<pubDate>Wed, 12 Apr 2017 21:37:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
