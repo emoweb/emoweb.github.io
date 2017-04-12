@@ -5,81 +5,9 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>マニュアルや手順書を作るだけでは新たな暗黙知になってしまう（技能伝承はITにお任せ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400117/040400003/</link>
-			<description><![CDATA[　時間を掛けて整備した作業手順書やマニュアル、顧客対応集。だが、いざ必要となったとき、どこを参照すればいいのかが分からず、結局、社内で活用されていない――。そんな悩みを抱える企業は多い。富士ゼロックスは文書管理システム「Apeos OEMASTER Evidence Tracker」で解決を図っている。]]></description>
-			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>取材中にドローンが墜落、目撃したときに感じた寒気と使命（編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/040400030/</link>
-			<description><![CDATA[　ドローン（小型無人機）の墜落現場に居合わせた。2017年3月10日の取材中だった。ソフトバンクが実施した、北海道倶知安町のスキー場でドローンを飛ばす実験での出来事だ。]]></description>
-			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>5Gの導入シナリオがふに落ちないわけ（クロサカタツヤ 業界の先を読むICT千里眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/360592/040400038/</link>
-			<description><![CDATA[　今年のMobile World Congress 2017（MWC2017）は「谷間」の年だった。5G（第5世代移動通信システム）についても、マネタイズの可能性を伴ったユースケースと、それを前提とした導入や移行のロードマップを、各社ともまだ見定められていない印象を抱いた。]]></description>
-			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>3年以上放置されたMac Proをアップデート、本格的なモデルチェンジは？（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/041000040/</link>
-			<description><![CDATA[　米アップルが米国の記者に対して、Macに関するブリーフィングを実施したことが、2017年4月上旬に伝わってきた。アップルが将来の製品計画に関してブリーフィングを行うことはまれだ。プロユーザー向け製品に関して「説明が必要な状況である」との認識を反映したものと考えられる。]]></description>
-			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>TCPの輻輳制御アルゴリズム、どれが一番速い？（今どきTCP）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400003/</link>
-			<description><![CDATA[　TCPの重要な要素として、輻輳制御アルゴリズムがある。アルゴリズムは大きく、（1）パケットロスを観測するロスベース方式、（2）RTTを指標とする遅延ベース方式、（3）両方の方式を使い分けるハイブリッド方式──の3方式に分けられる。]]></description>
-			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>文法に誤りのない天気予報原稿を自動作成、NTTデータのAI記者（ここまできたAI記者の実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400118/040600002/</link>
-			<description><![CDATA[　新聞やテレビ、ニュースサイトなどの媒体に掲載する記事を人工知能（AI）により自動作成するシステム、いわゆる「AI記者」の実用化が国内外で進んでいる。本特集では先行企業の事例から、現時点でAI記者がどれほどの力量を持っているのか明らかにする。今回はNTTデータの取り組みを見ていく。]]></description>
-			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>“どこでも承認”、それが本当の働きやすさか？（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/040700003/</link>
-			<description><![CDATA[　フリーアドレスやテレワークなど、オフィス外で仕事することは今や珍しくない。しかし、それで本当に生産性が高まっているのか。強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」が2016年9月28日に開催した定例会議では、働き方改革の本質を突くディスカッションが繰り広げられた。]]></description>
-			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>新システムはパブリッククラウドが当たり前（クラウドの新常識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300003/</link>
-			<description><![CDATA[　クラウドの導入といってもプライベートクラウドが主流の日本企業。今後、クラウド導入のゴールはパブリッククラウドの活用というのが主流になりそうだ。同時にパブリッククラウドとプライベートクラウドを上手に使い分けるユーザーも登場している。]]></description>
-			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>どんなファイルもEvernoteの「ノートブック」に放り込む（春から始めるノート管理術）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000132/041100002/</link>
 			<description><![CDATA[　Evernoteは、クラウドベースのサービスで、情報はすべてクラウド側で保管する。しかも、Windowsなどのパソコン、AndroidやiOSといったスマートフォン、タブレットなど、多数のプラットフォーム向けにアプリが用意されており、どの環境でも比較的使いやすい。]]></description>
-			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Pythonという“道具”にあえてこだわり開けた道（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/041000007/</link>
-			<description><![CDATA[　「ITに全く関係ない分野からITに飛び込んで活躍しているエンジニア」や「ITとIT以外の分野の境界を行き来しながら成果を上げているエンジニア」を「越境エンジニア」と名付け、1カ月に一人ずつインタビューを掲載する。今月取り上げるのは佐藤治夫氏。Pythonに特化したシステム開発会社であるビープラウドの創業者だ。今回は、ビープラウドがPythonに特化した経緯や理由、リモートワークの全面採用などについて聞いた。]]></description>
-			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IoTアーキテクチャーは幻で虚ろである（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/041000003/</link>
-			<description><![CDATA[　IoT（インターネット・オブ・シングズ）システムの企画や要求で出てきた夢や希望を、より具体的な「絵」や「図」として描くのが、IoTアーキテクチャーである。だが、形になっていない企画や要求を絵にするのは、幻を描写するような難しさがある。]]></description>
-			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「誰が言うか」は「何を言うか」以上に大事（清水久三子の提案は誰が言うか）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900110/040500001/</link>
-			<description><![CDATA[　全く同じ内容の提案でも、「誰が言うか」によって、提案の採否は左右されます。提案を通したければ、「何を言うか」以上に、「誰が言うか」を磨く必要があるのです。]]></description>
-			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ついに決済市場の表舞台に立つNTTデータ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041000928/</link>
-			<description><![CDATA[　NTTデータが新たなスマホ決済サービスを2018年度上期をめどに開始する考えを明らかにした。クレジットカードの決済インフラ「CAFIS」を使うが、利用者はクレジットカードが無くても利用できる。]]></description>
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,9 +17,27 @@
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Word Lens（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/040400064/</link>
-			<description><![CDATA[　「Google翻訳」アプリで、カメラ映像内の外国語をほぼリアルタイムで翻訳して表示する機能。いちいち文字入力する手間が不要で、翻訳内容が画像に重ねて表示される。外国語の標識やメニュー、広告の内容把握に便利。]]></description>
+			<title>ついに決済市場の表舞台に立つNTTデータ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041000928/</link>
+			<description><![CDATA[　NTTデータが新たなスマホ決済サービスを2018年度上期をめどに開始する考えを明らかにした。クレジットカードの決済インフラ「CAFIS」を使うが、利用者はクレジットカードが無くても利用できる。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「誰が言うか」は「何を言うか」以上に大事（清水久三子の提案は誰が言うか）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900110/040500001/</link>
+			<description><![CDATA[　全く同じ内容の提案でも、「誰が言うか」によって、提案の採否は左右されます。提案を通したければ、「何を言うか」以上に、「誰が言うか」を磨く必要があるのです。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IoTアーキテクチャーは幻で虚ろである（ゼロから挑戦！IoT開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/041000003/</link>
+			<description><![CDATA[　IoT（インターネット・オブ・シングズ）システムの企画や要求で出てきた夢や希望を、より具体的な「絵」や「図」として描くのが、IoTアーキテクチャーである。だが、形になっていない企画や要求を絵にするのは、幻を描写するような難しさがある。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Pythonという“道具”にあえてこだわり開けた道（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/041000007/</link>
+			<description><![CDATA[　「ITに全く関係ない分野からITに飛び込んで活躍しているエンジニア」や「ITとIT以外の分野の境界を行き来しながら成果を上げているエンジニア」を「越境エンジニア」と名付け、1カ月に一人ずつインタビューを掲載する。今月取り上げるのは佐藤治夫氏。Pythonに特化したシステム開発会社であるビープラウドの創業者だ。今回は、ビープラウドがPythonに特化した経緯や理由、リモートワークの全面採用などについて聞いた。]]></description>
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,105 +47,58 @@
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>データアナリティクスでプロジェクトの成果を高めるには（中）（データアナリティクスでプロジェクトの成果を高めるには）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　あらゆる規模の企業が、機会探索、コスト削減、効率化、意思決定の強化と迅速化、そして最終的な顧客満足度向上を目指して、データアナリティクスを利用している。こうした動きによって、全社的な戦略が大いに実現され、プロジェクト、プログラム、ポートフォリオの各レベルでも変化が表れる。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500001/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　次は大学の例だ。オンライン大学の米ウェスタンガバナーズ大学でIR（Institutional Research）担当バイスプレジデントを務めるJason Levin氏から、データアナリティクスを活用してプロジェクトを成功させる方法について話を聞いた。「概念的に言うと、実施の正確度と有効性を含む測定計画があるのが、プロジェクトの成功にとって最も重要なデータだ」と同氏は言う。</p>
-
-<p>　Levin氏は、「実施していることが事前の意図と合致しているかどうかはどのように分かるか」「実施したことに効果があったかどうかはどのように分かるか」という疑問への答えを見つけることを勧める。さらにLevin氏は、同大学が実施の正確度と有効性をどのような方法で測定したかについて、次のように説明した。</p>
-
-<p>　実施の正確度に関しては、eラーニング教材で学生のセッションのログデータを分析したり、教職員に学生ノートでハッシュタグ表記を使わせたりなど、多種多様な方法を利用した。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500002/?ST=cio-management&P=2">実施の有効性に関しては次のように言う。「ランダム...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500002/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500002/?ST=cio-management&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500002/?ST=cio-management&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 12 Apr 2017 06:00:00 +0900</pubDate>
+			<title>新システムはパブリッククラウドが当たり前（クラウドの新常識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300003/</link>
+			<description><![CDATA[　クラウドの導入といってもプライベートクラウドが主流の日本企業。今後、クラウド導入のゴールはパブリッククラウドの活用というのが主流になりそうだ。同時にパブリッククラウドとプライベートクラウドを上手に使い分けるユーザーも登場している。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「事業部門にも高速ストレージを」、ピュア・ストレージが倍速化のオールフラッシュアレイ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041101105/</link>
-			<description><![CDATA[　ストレージ専業ベンダーのピュア・ストレージ・ジャパンは2017年4月11日、フラッシュメモリーのみで構成した高速ストレージ装置「FlashArray//X」を発売した。新設計のフラッシュメモリーモジュールによってデータ転送速度を最大2倍高速化。転送遅延は半減させた。]]></description>
-			<pubDate>Wed, 12 Apr 2017 07:00:00 +0900</pubDate>
+			<title>“どこでも承認”、それが本当の働きやすさか？（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/040700003/</link>
+			<description><![CDATA[　フリーアドレスやテレワークなど、オフィス外で仕事することは今や珍しくない。しかし、それで本当に生産性が高まっているのか。強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」が2016年9月28日に開催した定例会議では、働き方改革の本質を突くディスカッションが繰り広げられた。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>QualcommがAppleを反訴、半導体ライセンス料の問題で（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201106/</link>
-			<description><![CDATA[　米Qualcommは現地時間2017年4月11日、半導体ライセンスを巡り米Appleが同社を訴えている問題で、Appleを反訴したことを明らかにした。]]></description>
-			<pubDate>Wed, 12 Apr 2017 10:00:22 +0900</pubDate>
+			<title>文法に誤りのない天気予報原稿を自動作成、NTTデータのAI記者（ここまできたAI記者の実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400118/040600002/</link>
+			<description><![CDATA[　新聞やテレビ、ニュースサイトなどの媒体に掲載する記事を人工知能（AI）により自動作成するシステム、いわゆる「AI記者」の実用化が国内外で進んでいる。本特集では先行企業の事例から、現時点でAI記者がどれほどの力量を持っているのか明らかにする。今回はNTTデータの取り組みを見ていく。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>NSAが使っていたとされるハッキングツール、ハッカー集団が無料公開（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041200356/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　米国家安全保障局（NSA）が使っていたとされるエクスプロイトやマルウエアを収めたアーカイブを売りに出していたハッカー集団「Shadow Brokers」が、そのアーカイブの暗号化を解除するためのパスワードを2017年4月8日に無料で公開した。</p>
-
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041200356/ph01.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: IDGNS</div>
-</div>
-
-<p>　このアーカイブには、まだパッチが出ていない未知のエクスプロイト（ゼロデイ）が含まれているのではないかとセキュリティコミュニティーは予想していた。しかし、実際はそうではなかった。</p>
-
-<p>　研究者らがアーカイブの分析に着手したところ、技術的に興味深いエクスプロイトも一部にあるものの、既知の古い脆弱性が大多数だということが明らかになった。中には、実際に公開されている情報を基にしたと見られるエクスプロイトや、数年前のバージョンのソフトウエアを対象とするエクスプロイトもあった。</p>
-
-<p>　アーカイブを分析している研究者のMaksym Zaitsev氏は、「私がこれまでに検査したエクスプロイトはいずれも旧式だ」と話す。今のところ、重大なエクスプロイトの発見や確認はないという。</p>
-
-<p>　Zaitsev氏は、セキュリティコンサルティングやペネトレーションテストを行うフランスの企業に勤務しているが、今回の分析はプライベートの時間に行った。</p>
-
-<p>　リバースエンジニアのJulien Voisin氏も、Zaitsev氏と同様の見解を示している。Voisin氏は、今回のアーカイブに含まれているエクスプロイトやツールを洗い出して<a href="https://github.com/x0rz/EQGRP" target="_blank">取りまとめる</a>作業を、ネット上でx0rzの名で知られるセキュリティ研究者と共同で進めている。</p>
-
-<p>　Voisin氏からは、「どれも既にパッチが適用されているはずだ」とメールで説明があった。中には、過去の経緯という観点で興味深いエクスプロイトもあるものの、現時点でハッキングされる人はおそらくいないとVoisin氏は言う。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041200356/?ST=cm-network&P=2">今回公になった内容は、ユーザーに今すぐ危険をもたらすものではない...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041200356/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041200356/?ST=cm-network&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041200356/?ST=cm-network&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041200356/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 12 Apr 2017 10:13:52 +0900</pubDate>
+			<title>TCPの輻輳制御アルゴリズム、どれが一番速い？（今どきTCP）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400003/</link>
+			<description><![CDATA[　TCPの重要な要素として、輻輳制御アルゴリズムがある。アルゴリズムは大きく、（1）パケットロスを観測するロスベース方式、（2）RTTを指標とする遅延ベース方式、（3）両方の方式を使い分けるハイブリッド方式──の3方式に分けられる。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>2017年Q1の世界PC出荷台数は2.4％減に、2007年以来の低水準（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201107/</link>
-			<description><![CDATA[　米Gartnerが2017年4月11日に公表した世界のパソコン市場に関する調査（速報値）によると、同年第1四半期（1～3月）における世界出荷台数は6218万台となり、前年同期から2.4％減少した。]]></description>
-			<pubDate>Wed, 12 Apr 2017 10:14:15 +0900</pubDate>
+			<title>3年以上放置されたMac Proをアップデート、本格的なモデルチェンジは？（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/041000040/</link>
+			<description><![CDATA[　米アップルが米国の記者に対して、Macに関するブリーフィングを実施したことが、2017年4月上旬に伝わってきた。アップルが将来の製品計画に関してブリーフィングを行うことはまれだ。プロユーザー向け製品に関して「説明が必要な状況である」との認識を反映したものと考えられる。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>サイバー攻撃の「予兆」を事前に把握、SecureWorks Japanが新サービス（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201108/</link>
-			<description><![CDATA[　SecureWorks Japanは2017年4月11日、日本企業を標的としたサイバー攻撃や情報セキュリティの脅威をリアルタイムで監視し、攻撃リスクへの対処情報を提供する新サービス「エンタープライズ・ブランドサーベイランス」を開始したと発表した。]]></description>
-			<pubDate>Wed, 12 Apr 2017 10:35:42 +0900</pubDate>
+			<title>5Gの導入シナリオがふに落ちないわけ（クロサカタツヤ 業界の先を読むICT千里眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/360592/040400038/</link>
+			<description><![CDATA[　今年のMobile World Congress 2017（MWC2017）は「谷間」の年だった。5G（第5世代移動通信システム）についても、マネタイズの可能性を伴ったユースケースと、それを前提とした導入や移行のロードマップを、各社ともまだ見定められていない印象を抱いた。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>取材中にドローンが墜落、目撃したときに感じた寒気と使命（編集長の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/040400030/</link>
+			<description><![CDATA[　ドローン（小型無人機）の墜落現場に居合わせた。2017年3月10日の取材中だった。ソフトバンクが実施した、北海道倶知安町のスキー場でドローンを飛ばす実験での出来事だ。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>マニュアルや手順書を作るだけでは新たな暗黙知になってしまう（技能伝承はITにお任せ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400117/040400003/</link>
+			<description><![CDATA[　時間を掛けて整備した作業手順書やマニュアル、顧客対応集。だが、いざ必要となったとき、どこを参照すればいいのかが分からず、結局、社内で活用されていない――。そんな悩みを抱える企業は多い。富士ゼロックスは文書管理システム「Apeos OEMASTER Evidence Tracker」で解決を図っている。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Word Lens（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/040400064/</link>
+			<description><![CDATA[　「Google翻訳」アプリで、カメラ映像内の外国語をほぼリアルタイムで翻訳して表示する機能。いちいち文字入力する手間が不要で、翻訳内容が画像に重ねて表示される。外国語の標識やメニュー、広告の内容把握に便利。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Facebook、「Messenger」を介したグループ間送金を米国で開始（ニュース）</title>
@@ -296,6 +195,102 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201127/</link>
 			<description><![CDATA[　不動産情報サイト「LIFULL HOME'S」などを運営するLIFULL（旧社名ネクスト）は2017年4月12日、新たな事業戦略を発表した。不動産テックの新サービスとして、既存不動産市場の活性化を目的とした「LIFULL HOME'S 住宅評価」とグローバル市場における不動産相場の透明化を目指した「LIFULL HOME'S Price Index」を順次開始する。]]></description>
 			<pubDate>Wed, 12 Apr 2017 22:37:05 +0900</pubDate>
+		</item>
+		<item>
+			<title>特定の時間や場所でリマインド、Google Keepでシンプルに情報管理（春から始めるノート管理術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000132/041100003/</link>
+			<description><![CDATA[　Google Keepは、ノート情報管理が可能なクラウドサービスの一つで、シンプルなノートをベースに、Google得意の検索機能を組みあわせられるのが特徴だ。スマートフォン用アプリが用意されてるほか、Chrome用アプリやWebクリップ用のChrome拡張機能などもある。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ISDN終了に潜む落とし穴、すべての企業は再点検を（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041100930/</link>
+			<description><![CDATA[　NTT東西は2017年4月6日、INSネットのディジタル通信モードの提供終了時期を2024年初頭に後ろ倒しすると発表した。2025年頃に維持限界を迎える加入電話網（PSTN）をIP網に移行することに伴う措置で、これまでは「2020年度後半に終了予定」と案内していた。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>わずか10秒で原稿作成、日経のAI記者「決算サマリー」の衝撃（ここまできたAI記者の実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400118/041200003/</link>
+			<description><![CDATA[　日本経済新聞社は2017年1月、AI記者の利用を開始した。企業が開示した決算発表資料から業績データや要点を抽出して記事の体裁に整え、日経電子版などに掲載する「決算サマリー（Beta）」だ。10秒足らずで原稿を完成、1～2分程度でネットに掲載できる。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>急速に進むベンダーのIT部門離れ、デジタル化がもたらす構造変化の波（焦点を読む）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/041100082/</link>
+			<description><![CDATA[　「あなたが書いている『SIerの寿命はあと数年』という話、以前は珍説と笑っていたが、今は確実やって来る未来だと深刻に受け止めている」。SIerの幹部に会うと、真顔でこんな話をされることが増えた。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>無理に受注を増やすと「悪いお客さん」の連鎖が起こる（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/041100008/</link>
+			<description><![CDATA[「ITに全く関係ない分野からITに飛び込んで活躍しているエンジニア」や「ITとIT以外の分野の境界を行き来しながら成果を上げているエンジニア」を「越境エンジニア」と名付け、1カ月に一人ずつインタビューを掲載する。今月取り上げるのは佐藤治夫氏。Pythonに特化したシステム開発会社であるビープラウドの創業者だ。最終回である今回は、ビープラウドとコミュニティとの関係や同社に営業社員がいない理由などを聞いた。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ドコモが健康経営攻略に本腰、「短期間で効果」売りに目指す100億円（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041100931/</link>
+			<description><![CDATA[　NTTドコモが企業の「健康経営」需要の攻略を本格化する。企業の従業員に向け体質・体調改善を促す3種類のサービスを提供開始。政府の旗振りもあり健康経営が急速に広がるなか、ドコモのヘルスケア事業も個人向け主体から、個人向けと法人向けの両輪へと転換する。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>トラブルが相次いだ山手線新型車両E235系はその後どうなった？（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041100820/</link>
+			<description><![CDATA[　東京都心部を1周するJR山手線で、間もなく新型車両「E235系」が増備される。ここに至るまでの道のりは平たんではなかった。量産先行車は営業運転を開始した当日に相次いでトラブルを起こし、当日中に運転打ち切りになった。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「予算はこれで収めて」と言われたら、経営層に社内営業をかけよう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/040400008/</link>
+			<description><![CDATA[　「そんな対策は要らんだろう」。経営層から提案を却下されてしまったとき、セキュリティ担当者はどう反論すればいいのか。今回は、必要なセキュリティ対策の予算を確保する際に意識したいポイントを紹介する。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ボットネット“潜入捜査”で判明、1台のPCから毎月25万通のウイルスメール（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040700924/</link>
+			<description><![CDATA[　トレンドマイクロは、ボットネットを構成するウイルスを自社の検証用パソコンに感染させ、その挙動を半年にわたって調査した。いわばボットネットへの“潜入捜査”だ。その結果、ウイルスに感染した1台のパソコンから、1カ月当たり50種類以上のウイルスメールが25万通程度送られていることが明らかとなった。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>機器追加の際の作業を最小に抑えるZTP（ネットワーク管理を自動化せよ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030600067/041100002/</link>
+			<description><![CDATA[　ネットワーク管理の自動化技術の中で、最も多くのネットワークエンジニアが携わり、自動化によるメリットが大きい「機器管理」と「ネットワーク管理」。まずは、機器管理の構築フェーズにおける自動化の一つである「Zero Touch Provisioning」（ZTP）を紹介します。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「日本人は世界のIT企業で出世しない」と自分の記事を読んで気付き、一瞬考え込んだ（谷島の情識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/200088/041100034/</link>
+			<description><![CDATA[　グーグルやフェイスブック、アップルやマイクロソフト、オラクルやSAP、IBMやHPといったIT企業でCEO（最高経営責任者）に直接、業務報告している日本人は極めて少ない。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IT技術者は「日々提案」、仕事を自分で定義する（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/041100001/</link>
+			<description><![CDATA[　今回から始まる本コラムでは、「提案力」をテーマに、ITエンジニアの仕事力を高める方法を取り上げていく。筆者は現在、会社の代表を務めるが、元はITエンジニアでITアーキテクトの視点でコラムを書いたこともある。ここでは上流工程でのスキルが話題の中心になる。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>社員の「余計な忖度」、働き方改革の障壁に（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041000004/</link>
+			<description><![CDATA[　国会答弁の場で最近よく聞かれる「忖度（そんたく）」という言葉。強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」が2016年9月28日に開催した定例会議では、企業の生産性を下げる要因の一つとして、「余計な忖度」が話題になった。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「正しい情報が得られれば意思決定の精度は上がる」は大きな誤解（脱出！ 暗闇プロジェクト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/032400063/</link>
+			<description><![CDATA[　ある業界には、業界向けパッケージ製品を提供する大手ITベンダー2社ががっちり食い込んでいる。大手企業のほとんどは2社のうち、どちらかの製品を利用しており、新規参入の余地はないように思える。そんな状況のなか、ベンチャー企業T社がこの業界への参入を狙っていた。先端的な技術と充実した機能が売り物である。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>不可能を可能にする「パブクラ」、スケールしない「プラクラ」（クラウドの新常識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300004/</link>
+			<description><![CDATA[　実際にパブリッククラウドとプライベートクラウドの両社を利用するユーザーが増えてきた。両社を利用した経験から、それぞれのメリット・デメリットが見えてきている。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>iOSの「Siri」だけが使う特別なTCP（今どきTCP）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400004/</link>
+			<description><![CDATA[　TCPは、モバイル、Web、データセンターといった個別の利用場面に合わせ、分化する方向で進化を続けている。iOS 7では、音声アシスタント機能である「Siri」を利用するときだけ、「MPTCP」という新しいTCPの機能を使っている。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
