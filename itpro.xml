@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>GoogleがLG Displayに約1000億円の出資を提案か（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041101094/</link>
-			<description><![CDATA[　米Googleが韓国LG Displayに1兆ウォン以上（約1000億円）の出資を申し入れたと、韓国のElectronic Timesが関係者から得た情報として現地時間2017年4月10日に報じた。]]></description>
-			<pubDate>Tue, 11 Apr 2017 10:57:18 +0900</pubDate>
-		</item>
-		<item>
 			<title>Windows VistaとExchange Server 2007のサポートが終了（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041101095/</link>
 			<description><![CDATA[　2017年4月11日、Windows Vistaのサポートが終了する。マイクロソフトはVistaに対してセキュリティ更新プログラム、セキュリティ以外の更新プログラム、有償／無償のサポートオプションを提供しなくなり、サポート技術情報を更新しなくなる。]]></description>
@@ -59,6 +53,12 @@
 			<pubDate>Tue, 11 Apr 2017 19:53:07 +0900</pubDate>
 		</item>
 		<item>
+			<title>Word Lens（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/040400064/</link>
+			<description><![CDATA[　「Google翻訳」アプリで、カメラ映像内の外国語をほぼリアルタイムで翻訳して表示する機能。いちいち文字入力する手間が不要で、翻訳内容が画像に重ねて表示される。外国語の標識やメニュー、広告の内容把握に便利。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>どんなファイルもEvernoteの「ノートブック」に放り込む（春から始めるノート管理術）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000132/041100002/</link>
 			<description><![CDATA[　Evernoteは、クラウドベースのサービスで、情報はすべてクラウド側で保管する。しかも、Windowsなどのパソコン、AndroidやiOSといったスマートフォン、タブレットなど、多数のプラットフォーム向けにアプリが用意されており、どの環境でも比較的使いやすい。]]></description>
@@ -71,9 +71,9 @@
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Word Lens（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/040400064/</link>
-			<description><![CDATA[　「Google翻訳」アプリで、カメラ映像内の外国語をほぼリアルタイムで翻訳して表示する機能。いちいち文字入力する手間が不要で、翻訳内容が画像に重ねて表示される。外国語の標識やメニュー、広告の内容把握に便利。]]></description>
+			<title>新システムはパブリッククラウドが当たり前（クラウドの新常識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300003/</link>
+			<description><![CDATA[　クラウドの導入といってもプライベートクラウドが主流の日本企業。今後、クラウド導入のゴールはパブリッククラウドの活用というのが主流になりそうだ。同時にパブリッククラウドとプライベートクラウドを上手に使い分けるユーザーも登場している。]]></description>
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>文法に誤りのない天気予報原稿を自動作成、NTTデータのAI記者（ここまできたAI記者の実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400118/040600002/</link>
-			<description><![CDATA[　新聞やテレビ、ニュースサイトなどの媒体に掲載する記事を人工知能（AI）により自動作成するシステム、いわゆる「AI記者」の実用化が国内外で進んでいる。本特集では先行企業の事例から、現時点でAI記者がどれほどの力量を持っているのか明らかにする。今回はNTTデータの取り組みを見ていく。]]></description>
+			<title>Pythonという“道具”にあえてこだわり開けた道（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/041000007/</link>
+			<description><![CDATA[　「ITに全く関係ない分野からITに飛び込んで活躍しているエンジニア」や「ITとIT以外の分野の境界を行き来しながら成果を上げているエンジニア」を「越境エンジニア」と名付け、1カ月に一人ずつインタビューを掲載する。今月取り上げるのは佐藤治夫氏。Pythonに特化したシステム開発会社であるビープラウドの創業者だ。今回は、ビープラウドがPythonに特化した経緯や理由、リモートワークの全面採用などについて聞いた。]]></description>
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>新システムはパブリッククラウドが当たり前（クラウドの新常識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300003/</link>
-			<description><![CDATA[　クラウドの導入といってもプライベートクラウドが主流の日本企業。今後、クラウド導入のゴールはパブリッククラウドの活用というのが主流になりそうだ。同時にパブリッククラウドとプライベートクラウドを上手に使い分けるユーザーも登場している。]]></description>
+			<title>マニュアルや手順書を作るだけでは新たな暗黙知になってしまう（技能伝承はITにお任せ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400117/040400003/</link>
+			<description><![CDATA[　時間を掛けて整備した作業手順書やマニュアル、顧客対応集。だが、いざ必要となったとき、どこを参照すればいいのかが分からず、結局、社内で活用されていない――。そんな悩みを抱える企業は多い。富士ゼロックスは文書管理システム「Apeos OEMASTER Evidence Tracker」で解決を図っている。]]></description>
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -143,15 +143,9 @@
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Pythonという“道具”にあえてこだわり開けた道（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/041000007/</link>
-			<description><![CDATA[　「ITに全く関係ない分野からITに飛び込んで活躍しているエンジニア」や「ITとIT以外の分野の境界を行き来しながら成果を上げているエンジニア」を「越境エンジニア」と名付け、1カ月に一人ずつインタビューを掲載する。今月取り上げるのは佐藤治夫氏。Pythonに特化したシステム開発会社であるビープラウドの創業者だ。今回は、ビープラウドがPythonに特化した経緯や理由、リモートワークの全面採用などについて聞いた。]]></description>
-			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>マニュアルや手順書を作るだけでは新たな暗黙知になってしまう（技能伝承はITにお任せ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400117/040400003/</link>
-			<description><![CDATA[　時間を掛けて整備した作業手順書やマニュアル、顧客対応集。だが、いざ必要となったとき、どこを参照すればいいのかが分からず、結局、社内で活用されていない――。そんな悩みを抱える企業は多い。富士ゼロックスは文書管理システム「Apeos OEMASTER Evidence Tracker」で解決を図っている。]]></description>
+			<title>文法に誤りのない天気予報原稿を自動作成、NTTデータのAI記者（ここまできたAI記者の実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400118/040600002/</link>
+			<description><![CDATA[　新聞やテレビ、ニュースサイトなどの媒体に掲載する記事を人工知能（AI）により自動作成するシステム、いわゆる「AI記者」の実用化が国内外で進んでいる。本特集では先行企業の事例から、現時点でAI記者がどれほどの力量を持っているのか明らかにする。今回はNTTデータの取り組みを見ていく。]]></description>
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -260,6 +254,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201109/</link>
 			<description><![CDATA[　米Facebookは現地時間2017年4月11日、メッセージングアプリケーション「Messenger」にグループ間送金機能を追加したと発表した。同日より、米国のMessengerユーザーは、Android端末あるいはパソコンでグループ間の送金が行える。]]></description>
 			<pubDate>Wed, 12 Apr 2017 11:21:42 +0900</pubDate>
+		</item>
+		<item>
+			<title>ラクガキがプロ級イラストに早変わり、GoogleがAI活用お絵かきツール公開（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201110/</link>
+			<description><![CDATA[　米Googleは現地時間2017年4月11日、機械学習技術を利用したWebベースのお絵かきツール「AutoDraw」を発表した。]]></description>
+			<pubDate>Wed, 12 Apr 2017 12:23:45 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
