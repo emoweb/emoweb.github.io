@@ -11,55 +11,6 @@
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「Galaxy S8／S8＋」はAI音声アシスタントを非搭載で発売か（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041301130/</link>
-			<description><![CDATA[　韓国Samsung Electronicsが今月発売するスマートフォンの最新フラッグシップ機「Galaxy S8」および「Galaxy S8＋」は、購入後すぐには音声アシスタント機能が使えないらしい。同社が現地時間2017年4月11日の遅い時間に認めたとして、複数の米メディアが報じた。 ]]></description>
-			<pubDate>Thu, 13 Apr 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows 10 Creators Updateについての素朴なQ&amp;A（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/041300317/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　2016年10月の大々的な発表から5カ月以上の時をへて、「Windows 10 Creators Update」がついにリリースされた。待っただけの甲斐がある製品となっている。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/041300317/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Microsoft</div>
-</div>
-<p>
-　2016年8月の大型アップデート「Anniversary Update」の先例にならって、今回のCreators Updateも、Windows 10の核となるエクスペリエンスに微修正を加えつつ、便利な新機能を数多く搭載している。Windows 10 Creators Updateの詳しいレビューについては、PCWorldの<a href="http://www.pcworld.com/article/3181985/windows/windows-10-creators-update-review-gaming-inking-and-edge-win-mixed-reality-loses.html" target="_blank">別記事</a>をご覧いただくとして、ここではCreators Updateのもっと基本的な情報を、Q&A形式でざっくりと見ていくことにしよう。
-</p>
-<h4>
-Creators Updateの入手方法は？
-</h4>
-<p>
-　そのままじっと待ってみてほしい。Creators Updateは、2017年4月11日から一般ユーザー向けのリリースが始まった。Windows 10の通常のアップデートと同じように、標準の「Windows Update」のプロセスを通じて配信される。一般ユーザーがアップグレードをオプトアウトする方法は用意されていない。
-</p>
-<p>
-　ただし、配信が始まったその日に、すべてのユーザーの元にダウンロードされるわけではない。Anniversary Updateの時は、Windows 10ユーザーの80％が移行するまでに4カ月近くかかった。Microsoftは、Windows 10に適したスペックを持つ新しめのパソコンをまず優先する。配信を待ち切れない人は、<a href="https://www.microsoft.com/ja-jp/software-download/windows10" target="_blank">Microsoftのサイト</a>からダウンロードできる更新アシスタントを使って、Creators Updateのインストールを手動で開始することもできる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/041300317/?ST=cio-appli&P=2">Creators Updateの何がすごいのか？...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/041300317/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/041300317/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/041300317/?ST=cio-appli&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/041300317/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 13 Apr 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Apple、次期iPhoneの量産でつまずきか、Touch IDで問題に直面（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041301131/</link>
 			<description><![CDATA[　米Appleは今秋発売を予定している次期iPhoneに関して、生産上の問題に直面していると、複数の米メディアが現地時間2017年4月12日、アナリストの調査報告を引用して伝えた。これによりOLED（有機EL）ディスプレーを搭載する、次期iPhoneの上位モデルは出荷時期が大きくずれ込む可能性があるという。 ]]></description>
@@ -151,6 +102,12 @@ Creators Updateの入手方法は？
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>GoogleはTCPをCookieで高速化（今どきTCP）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400005/</link>
+			<description><![CDATA[　米グーグルは、WebサービスやモバイルOSのAndroidを事業の中心に据えているため、Webアクセスやモバイル端末向けにTCPを最適化する技術を活発に提案している。その1つが、「TCPファストオープン」（TFO）である。]]></description>
+			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>クラウド導入を決めたら、次はサーバーレス（クラウドの新常識）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300005/</link>
 			<description><![CDATA[　必要なときだけインスタンスを立ち上げて処理を実行する「サーバーレスアーキテクチャー」。2014年11月の「AWS Lambda」の登場から実際に利用する企業も少しずつ登場してきた。]]></description>
@@ -187,9 +144,9 @@ Creators Updateの入手方法は？
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>中国のコンビニはネットサービスの拠点になる！？（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/041300302/</link>
-			<description><![CDATA[　日本同様、コンビニは中国全土に普及しており、日々進化を遂げている。今回は中国の最新コンビニ事情を紹介しよう。]]></description>
+			<title>電子行政サービスに不満があったら声を上げよう（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041100819/</link>
+			<description><![CDATA[　新年度が始まったばかりでもあるので、代表的な電子行政サービスを紹介する。もし使い勝手に不満があれば、ぜひ各サービスの問い合わせ窓口などに声を届けてほしい。政府が電子行政サービスで「利用者目線での使い勝手」を重視する新方針を打ち出す準備を進めているので、利用者である国民にとっては大きなチャンスである。]]></description>
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -223,15 +180,9 @@ Creators Updateの入手方法は？
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>電子行政サービスに不満があったら声を上げよう（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041100819/</link>
-			<description><![CDATA[　新年度が始まったばかりでもあるので、代表的な電子行政サービスを紹介する。もし使い勝手に不満があれば、ぜひ各サービスの問い合わせ窓口などに声を届けてほしい。政府が電子行政サービスで「利用者目線での使い勝手」を重視する新方針を打ち出す準備を進めているので、利用者である国民にとっては大きなチャンスである。]]></description>
-			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>GoogleはTCPをCookieで高速化（今どきTCP）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400005/</link>
-			<description><![CDATA[　米グーグルは、WebサービスやモバイルOSのAndroidを事業の中心に据えているため、Webアクセスやモバイル端末向けにTCPを最適化する技術を活発に提案している。その1つが、「TCPファストオープン」（TFO）である。]]></description>
+			<title>中国のコンビニはネットサービスの拠点になる！？（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/041300302/</link>
+			<description><![CDATA[　日本同様、コンビニは中国全土に普及しており、日々進化を遂げている。今回は中国の最新コンビニ事情を紹介しよう。]]></description>
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -282,6 +233,12 @@ Creators Updateの入手方法は？
 </div>
 ]]></description>
 			<pubDate>Fri, 14 Apr 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソニー、短焦点プロジェクターの活用を提案するインテリアショップを出店（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041301143/</link>
+			<description><![CDATA[　ソニーは2017年4月13日、デザイン志向の製品群「Life Space UX」を家具や雑貨と組み合わせて展示・販売するインテリアショップ「Life Space Collection 表参道」を期間限定で出店すると発表した。]]></description>
+			<pubDate>Fri, 14 Apr 2017 07:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
