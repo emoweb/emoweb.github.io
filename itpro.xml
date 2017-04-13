@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>取材中にドローンが墜落、目撃したときに感じた寒気と使命（編集長の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/040400030/</link>
+			<description><![CDATA[　ドローン（小型無人機）の墜落現場に居合わせた。2017年3月10日の取材中だった。ソフトバンクが実施した、北海道倶知安町のスキー場でドローンを飛ばす実験での出来事だ。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>TCPの輻輳制御アルゴリズム、どれが一番速い？（今どきTCP）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400003/</link>
 			<description><![CDATA[　TCPの重要な要素として、輻輳制御アルゴリズムがある。アルゴリズムは大きく、（1）パケットロスを観測するロスベース方式、（2）RTTを指標とする遅延ベース方式、（3）両方の方式を使い分けるハイブリッド方式──の3方式に分けられる。]]></description>
@@ -65,9 +71,9 @@
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>マニュアルや手順書を作るだけでは新たな暗黙知になってしまう（技能伝承はITにお任せ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400117/040400003/</link>
-			<description><![CDATA[　時間を掛けて整備した作業手順書やマニュアル、顧客対応集。だが、いざ必要となったとき、どこを参照すればいいのかが分からず、結局、社内で活用されていない――。そんな悩みを抱える企業は多い。富士ゼロックスは文書管理システム「Apeos OEMASTER Evidence Tracker」で解決を図っている。]]></description>
+			<title>文法に誤りのない天気予報原稿を自動作成、NTTデータのAI記者（ここまできたAI記者の実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400118/040600002/</link>
+			<description><![CDATA[　新聞やテレビ、ニュースサイトなどの媒体に掲載する記事を人工知能（AI）により自動作成するシステム、いわゆる「AI記者」の実用化が国内外で進んでいる。本特集では先行企業の事例から、現時点でAI記者がどれほどの力量を持っているのか明らかにする。今回はNTTデータの取り組みを見ていく。]]></description>
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,22 +95,10 @@
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>取材中にドローンが墜落、目撃したときに感じた寒気と使命（編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/040400030/</link>
-			<description><![CDATA[　ドローン（小型無人機）の墜落現場に居合わせた。2017年3月10日の取材中だった。ソフトバンクが実施した、北海道倶知安町のスキー場でドローンを飛ばす実験での出来事だ。]]></description>
+			<title>マニュアルや手順書を作るだけでは新たな暗黙知になってしまう（技能伝承はITにお任せ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400117/040400003/</link>
+			<description><![CDATA[　時間を掛けて整備した作業手順書やマニュアル、顧客対応集。だが、いざ必要となったとき、どこを参照すればいいのかが分からず、結局、社内で活用されていない――。そんな悩みを抱える企業は多い。富士ゼロックスは文書管理システム「Apeos OEMASTER Evidence Tracker」で解決を図っている。]]></description>
 			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>文法に誤りのない天気予報原稿を自動作成、NTTデータのAI記者（ここまできたAI記者の実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400118/040600002/</link>
-			<description><![CDATA[　新聞やテレビ、ニュースサイトなどの媒体に掲載する記事を人工知能（AI）により自動作成するシステム、いわゆる「AI記者」の実用化が国内外で進んでいる。本特集では先行企業の事例から、現時点でAI記者がどれほどの力量を持っているのか明らかにする。今回はNTTデータの取り組みを見ていく。]]></description>
-			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ラクガキがプロ級イラストに早変わり、GoogleがAI活用お絵かきツール公開（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201110/</link>
-			<description><![CDATA[　米Googleは現地時間2017年4月11日、機械学習技術を利用したWebベースのお絵かきツール「AutoDraw」を発表した。]]></description>
-			<pubDate>Wed, 12 Apr 2017 12:23:45 +0900</pubDate>
 		</item>
 		<item>
 			<title>HPEが本社内に「次世代ミーティングルーム」開設、働き方改革を提案（ニュース）</title>
@@ -191,6 +185,12 @@
 			<pubDate>Wed, 12 Apr 2017 22:37:05 +0900</pubDate>
 		</item>
 		<item>
+			<title>米フィッシュミーが日本市場参入、フィッシング対策で初年度100社の導入目標（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201128/</link>
+			<description><![CDATA[　従業員教育などに利用できるフィッシング対策ソリューションを提供する米フィッシュミーは2017年4月12日、都内で記者会見を開き、日本市場に本格参入すると発表した。セキュリティ診断や不審メール訓練のサービスを提供するS＆J、およびNRIセキュアテクノロジーズの2社を国内における販売パートナーとして、主力製品である不審メール訓練用の「PhishME Simulator（フィッシュミー・シミュレーター）」など4製品をソリューションスイートして販売開始する。]]></description>
+			<pubDate>Wed, 12 Apr 2017 23:08:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>急速に進むベンダーのIT部門離れ、デジタル化がもたらす構造変化の波（焦点を読む）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/041100082/</link>
 			<description><![CDATA[　「あなたが書いている『SIerの寿命はあと数年』という話、以前は珍説と笑っていたが、今は確実やって来る未来だと深刻に受け止めている」。SIerの幹部に会うと、真顔でこんな話をされることが増えた。]]></description>
@@ -239,9 +239,9 @@
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「予算はこれで収めて」と言われたら、経営層に社内営業をかけよう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/040400008/</link>
-			<description><![CDATA[　「そんな対策は要らんだろう」。経営層から提案を却下されてしまったとき、セキュリティ担当者はどう反論すればいいのか。今回は、必要なセキュリティ対策の予算を確保する際に意識したいポイントを紹介する。]]></description>
+			<title>iOSの「Siri」だけが使う特別なTCP（今どきTCP）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400004/</link>
+			<description><![CDATA[　TCPは、モバイル、Web、データセンターといった個別の利用場面に合わせ、分化する方向で進化を続けている。iOS 7では、音声アシスタント機能である「Siri」を利用するときだけ、「MPTCP」という新しいTCPの機能を使っている。]]></description>
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -281,9 +281,9 @@
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>iOSの「Siri」だけが使う特別なTCP（今どきTCP）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400004/</link>
-			<description><![CDATA[　TCPは、モバイル、Web、データセンターといった個別の利用場面に合わせ、分化する方向で進化を続けている。iOS 7では、音声アシスタント機能である「Siri」を利用するときだけ、「MPTCP」という新しいTCPの機能を使っている。]]></description>
+			<title>「予算はこれで収めて」と言われたら、経営層に社内営業をかけよう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/040400008/</link>
+			<description><![CDATA[　「そんな対策は要らんだろう」。経営層から提案を却下されてしまったとき、セキュリティ担当者はどう反論すればいいのか。今回は、必要なセキュリティ対策の予算を確保する際に意識したいポイントを紹介する。]]></description>
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
