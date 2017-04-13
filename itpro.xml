@@ -5,10 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>「の陳述書」メールはウイルス付き、警視庁が警告（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041301129/</link>
-			<description><![CDATA[　警視庁と日本サイバー犯罪対策センター（JC3）は2017年4月12日、件名が「の陳述書」だったり、ファックスを装ったりした、ウイルスが添付されたメールが同日から拡散していると注意を呼び掛けている。]]></description>
-			<pubDate>Thu, 13 Apr 2017 09:15:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：トラブルが相次いだ山手線新型車両E235系はその後どうなった？（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041100820/?d14</link>
+			<description><![CDATA[　東京都心部を1周するJR山手線で、間もなく新型車両「E235系」が増備される。ここに至るまでの道のりは平たんではなかった。量産先行車は営業運転を開始した当日に相次いでトラブルを起こし、当日中に運転打ち切りになった。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>「Galaxy S8／S8＋」はAI音声アシスタントを非搭載で発売か（ニュース）</title>
@@ -145,6 +145,18 @@ Creators Updateの入手方法は？
 			<pubDate>Thu, 13 Apr 2017 20:19:31 +0900</pubDate>
 		</item>
 		<item>
+			<title>定額制SI、本当にうまくいってる？（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041300932/</link>
+			<description><![CDATA[　「問い合わせ件数が前年比で2倍のペース。2017年3月末時点で、2016年の問い合わせ総数の半分近くに達している」。ジョイゾーが手掛ける定額制SIサービスが好調だ。2016年は前年比で40％の伸びだったが、2017年に入ってそれがさらに加速している。同社の四宮靖隆 代表取締役社長は、加速度的に増える案件数にうれしい悲鳴を上げる。]]></description>
+			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>クラウド導入を決めたら、次はサーバーレス（クラウドの新常識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300005/</link>
+			<description><![CDATA[　必要なときだけインスタンスを立ち上げて処理を実行する「サーバーレスアーキテクチャー」。2014年11月の「AWS Lambda」の登場から実際に利用する企業も少しずつ登場してきた。]]></description>
+			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ノートやファイルを多層で整理、Office標準OneNoteの実力（春から始めるノート管理術）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000132/041200004/</link>
 			<description><![CDATA[　OneNoteは、マイクロソフト「Office」の1つとして提供されているソフトウエア。ここでは「Office 2016」に含まれる「OneNote 2016」を使って、ノート管理の実力を確認する。]]></description>
@@ -169,9 +181,9 @@ Creators Updateの入手方法は？
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>定額制SI、本当にうまくいってる？（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041300932/</link>
-			<description><![CDATA[　「問い合わせ件数が前年比で2倍のペース。2017年3月末時点で、2016年の問い合わせ総数の半分近くに達している」。ジョイゾーが手掛ける定額制SIサービスが好調だ。2016年は前年比で40％の伸びだったが、2017年に入ってそれがさらに加速している。同社の四宮靖隆 代表取締役社長は、加速度的に増える案件数にうれしい悲鳴を上げる。]]></description>
+			<title>NTT西日本「スタートアップ・ファクトリ」の事例研究（情報処理学会デジタルプラクティス）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/548422/040500124/</link>
+			<description><![CDATA[　大企業との共創を主眼においたアクセラレータのプログラム開発が進めば，国内のスタートアップ企業にとっては，早いタイミングで大企業からの資源動員（人・モノ・金・情報）を獲得できることにより，ビジネスを早期に一定規模に立ち上げる事業基盤を構築できる可能性が高まる．]]></description>
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -217,22 +229,59 @@ Creators Updateの入手方法は？
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>NTT西日本「スタートアップ・ファクトリ」の事例研究（情報処理学会デジタルプラクティス）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/548422/040500124/</link>
-			<description><![CDATA[　大企業との共創を主眼においたアクセラレータのプログラム開発が進めば，国内のスタートアップ企業にとっては，早いタイミングで大企業からの資源動員（人・モノ・金・情報）を獲得できることにより，ビジネスを早期に一定規模に立ち上げる事業基盤を構築できる可能性が高まる．]]></description>
-			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>クラウド導入を決めたら、次はサーバーレス（クラウドの新常識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300005/</link>
-			<description><![CDATA[　必要なときだけインスタンスを立ち上げて処理を実行する「サーバーレスアーキテクチャー」。2014年11月の「AWS Lambda」の登場から実際に利用する企業も少しずつ登場してきた。]]></description>
-			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>GoogleはTCPをCookieで高速化（今どきTCP）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400005/</link>
 			<description><![CDATA[　米グーグルは、WebサービスやモバイルOSのAndroidを事業の中心に据えているため、Webアクセスやモバイル端末向けにTCPを最適化する技術を活発に提案している。その1つが、「TCPファストオープン」（TFO）である。]]></description>
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>総務省、Struts2の脆弱性を突かれて2.3万人の個人情報流出か（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041401147/</link>
+			<description><![CDATA[　総務省は2017年4月13日、「地図による小地域分析（jSTAT MAP）」サイトから最大で2万3000人分の個人情報が流出した可能性があると公表した。サイトは4月11日正午に停止し、再開は未定という。]]></description>
+			<pubDate>Fri, 14 Apr 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>データアナリティクスでプロジェクトの成果を高めるには（下）（データアナリティクスでプロジェクトの成果を高めるには）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　あらゆる規模の企業が、機会探索、コスト削減、効率化、意思決定の強化と迅速化、そして最終的な顧客満足度向上を目指して、データアナリティクスを利用している。こうした動きによって、全社的な戦略が大いに実現され、プロジェクト、プログラム、ポートフォリオの各レベルでも変化が表れる。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500002/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500003/ph3.jpg" width="300" alt="" title=""></div></div>
+
+<p>　ウェスタンガバナーズ大学のJason Levin氏は次のように言う。「おそらく、現時点で最もうまくいったプロジェクトは、情意領域に沿って学生を教育するためのLeadership and Communicationというコースだ。疑似実験法を使って、定着率と単位累積を大幅に向上させることができた。その調査に基づいて、医療従事者を育成する学部の課程にこのコースを導入した。現在、月当たり約1000人の学生に提供している」</p>
+
+<p>　シカゴ・ブルズのKobe氏は、ファンレベルと商取引のインサイトを利用して、チケット購入者に対する最初の顧客セグメンテーションを実施することが、この1年間の最優先事項だったと話す。「セグメント全体の中で弱点がないかや、プロダクトポートフォリオにギャップがないかを理解したいと考えた」。その結果、若手プロフェッショナルとファミリーというセグメントのファンについて、拡大の機会を見いだしたという。そして、ファンレベルのインサイトを取り上げて、両セグメントのペルソナを拡充し、各部門が関係を築く方法を理解できるようにした。</p>
+
+<p>　さらにブルズは、こうしたカスタマーインサイトを利用して、以下を実現した。</p>
+<ul>
+<li>各セグメントをさらに拡大する機会を特定した。</li>
+<br>
+<li>各部門が戦略的計画を増強する中で、戦略・アナリティクス担当チームと各部門が組んで、成否を評価するための指標を確立できた。</li>
+<br>
+<li>若手プロフェッショナルをターゲットにした新しいチャリティーイベントを立案した。</li>
+<br>
+<li>チケット商品に変更を加え、ブルズのSnapchatコンテンツ作成への比重を強めた。</li>
+</ul>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500003/?ST=cio-management&P=2">データアナリティクスの限界は</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500003/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500003/?ST=cio-management&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500003/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 14 Apr 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
