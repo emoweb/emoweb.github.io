@@ -5,10 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>「日本の経営層はセキュリティ事故が我がことではない」、日本IBMが警鐘（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201125/</link>
-			<description><![CDATA[　日本IBMは2017年4月12日、セキュリティ事業の説明会を開いた。同社観測によれば2016年に世界で起きた情報漏洩件数は前年比5.6倍の40億件超で、1回の情報漏洩で負担する平均的コストは400万ドル（4億4000万円）だった。]]></description>
-			<pubDate>Wed, 12 Apr 2017 21:30:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：ケアレスミスの原因を真面目に追求してもムダ（脱出！ 暗闇プロジェクト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/032400062/?d13</link>
+			<description><![CDATA[　プロジェクトでは様々な課題や問題が発生する。特これらの課題や問題を全て解決するのは、まず不可能だ。課題や問題が残ったままだと、プロジェクトマネジャーの気は重くなる。「課題を一掃できれば、どれだけ気が楽になることか」。こう思うのも無理はない。]]></description>
+			<pubDate>Wed, 12 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>「AIが企業のブランドを作る」、アクセンチュアが調査レポート（ニュース）</title>
@@ -35,6 +35,12 @@
 			<pubDate>Wed, 12 Apr 2017 23:08:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>社員の「余計な忖度」、働き方改革の障壁に（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041000004/</link>
+			<description><![CDATA[　国会答弁の場で最近よく聞かれる「忖度（そんたく）」という言葉。強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」が2016年9月28日に開催した定例会議では、企業の生産性を下げる要因の一つとして、「余計な忖度」が話題になった。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ISDN終了に潜む落とし穴、すべての企業は再点検を（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041100930/</link>
 			<description><![CDATA[　NTT東西は2017年4月6日、INSネットのディジタル通信モードの提供終了時期を2024年初頭に後ろ倒しすると発表した。2025年頃に維持限界を迎える加入電話網（PSTN）をIP網に移行することに伴う措置で、これまでは「2020年度後半に終了予定」と案内していた。]]></description>
@@ -59,9 +65,9 @@
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>社員の「余計な忖度」、働き方改革の障壁に（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041000004/</link>
-			<description><![CDATA[　国会答弁の場で最近よく聞かれる「忖度（そんたく）」という言葉。強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」が2016年9月28日に開催した定例会議では、企業の生産性を下げる要因の一つとして、「余計な忖度」が話題になった。]]></description>
+			<title>トラブルが相次いだ山手線新型車両E235系はその後どうなった？（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041100820/</link>
+			<description><![CDATA[　東京都心部を1周するJR山手線で、間もなく新型車両「E235系」が増備される。ここに至るまでの道のりは平たんではなかった。量産先行車は営業運転を開始した当日に相次いでトラブルを起こし、当日中に運転打ち切りになった。]]></description>
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,15 +95,15 @@
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>無理に受注を増やすと「悪いお客さん」の連鎖が起こる（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/041100008/</link>
-			<description><![CDATA[「ITに全く関係ない分野からITに飛び込んで活躍しているエンジニア」や「ITとIT以外の分野の境界を行き来しながら成果を上げているエンジニア」を「越境エンジニア」と名付け、1カ月に一人ずつインタビューを掲載する。今月取り上げるのは佐藤治夫氏。Pythonに特化したシステム開発会社であるビープラウドの創業者だ。最終回である今回は、ビープラウドとコミュニティとの関係や同社に営業社員がいない理由などを聞いた。]]></description>
+			<title>「予算はこれで収めて」と言われたら、経営層に社内営業をかけよう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/040400008/</link>
+			<description><![CDATA[　「そんな対策は要らんだろう」。経営層から提案を却下されてしまったとき、セキュリティ担当者はどう反論すればいいのか。今回は、必要なセキュリティ対策の予算を確保する際に意識したいポイントを紹介する。]]></description>
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>トラブルが相次いだ山手線新型車両E235系はその後どうなった？（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041100820/</link>
-			<description><![CDATA[　東京都心部を1周するJR山手線で、間もなく新型車両「E235系」が増備される。ここに至るまでの道のりは平たんではなかった。量産先行車は営業運転を開始した当日に相次いでトラブルを起こし、当日中に運転打ち切りになった。]]></description>
+			<title>ボットネット“潜入捜査”で判明、1台のPCから毎月25万通のウイルスメール（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040700924/</link>
+			<description><![CDATA[　トレンドマイクロは、ボットネットを構成するウイルスを自社の検証用パソコンに感染させ、その挙動を半年にわたって調査した。いわばボットネットへの“潜入捜査”だ。その結果、ウイルスに感染した1台のパソコンから、1カ月当たり50種類以上のウイルスメールが25万通程度送られていることが明らかとなった。]]></description>
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -119,15 +125,9 @@
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「予算はこれで収めて」と言われたら、経営層に社内営業をかけよう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/040400008/</link>
-			<description><![CDATA[　「そんな対策は要らんだろう」。経営層から提案を却下されてしまったとき、セキュリティ担当者はどう反論すればいいのか。今回は、必要なセキュリティ対策の予算を確保する際に意識したいポイントを紹介する。]]></description>
-			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ボットネット“潜入捜査”で判明、1台のPCから毎月25万通のウイルスメール（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040700924/</link>
-			<description><![CDATA[　トレンドマイクロは、ボットネットを構成するウイルスを自社の検証用パソコンに感染させ、その挙動を半年にわたって調査した。いわばボットネットへの“潜入捜査”だ。その結果、ウイルスに感染した1台のパソコンから、1カ月当たり50種類以上のウイルスメールが25万通程度送られていることが明らかとなった。]]></description>
+			<title>無理に受注を増やすと「悪いお客さん」の連鎖が起こる（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/041100008/</link>
+			<description><![CDATA[「ITに全く関係ない分野からITに飛び込んで活躍しているエンジニア」や「ITとIT以外の分野の境界を行き来しながら成果を上げているエンジニア」を「越境エンジニア」と名付け、1カ月に一人ずつインタビューを掲載する。今月取り上げるのは佐藤治夫氏。Pythonに特化したシステム開発会社であるビープラウドの創業者だ。最終回である今回は、ビープラウドとコミュニティとの関係や同社に営業社員がいない理由などを聞いた。]]></description>
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -165,12 +165,6 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041301129/</link>
 			<description><![CDATA[　警視庁と日本サイバー犯罪対策センター（JC3）は2017年4月12日、件名が「の陳述書」だったり、ファックスを装ったりした、ウイルスが添付されたメールが同日から拡散していると注意を呼び掛けている。]]></description>
 			<pubDate>Thu, 13 Apr 2017 09:15:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「Galaxy S8／S8＋」はAI音声アシスタントを非搭載で発売か（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041301130/</link>
-			<description><![CDATA[　韓国Samsung Electronicsが今月発売するスマートフォンの最新フラッグシップ機「Galaxy S8」および「Galaxy S8＋」は、購入後すぐには音声アシスタント機能が使えないらしい。同社が現地時間2017年4月11日の遅い時間に認めたとして、複数の米メディアが報じた。 ]]></description>
-			<pubDate>Thu, 13 Apr 2017 10:10:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Windows 10 Creators Updateについての素朴なQ&amp;A（CIOニュース）</title>
@@ -216,6 +210,12 @@ Creators Updateの入手方法は？
 			<pubDate>Thu, 13 Apr 2017 10:10:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>「Galaxy S8／S8＋」はAI音声アシスタントを非搭載で発売か（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041301130/</link>
+			<description><![CDATA[　韓国Samsung Electronicsが今月発売するスマートフォンの最新フラッグシップ機「Galaxy S8」および「Galaxy S8＋」は、購入後すぐには音声アシスタント機能が使えないらしい。同社が現地時間2017年4月11日の遅い時間に認めたとして、複数の米メディアが報じた。 ]]></description>
+			<pubDate>Thu, 13 Apr 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>Apple、次期iPhoneの量産でつまずきか、Touch IDで問題に直面（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041301131/</link>
 			<description><![CDATA[　米Appleは今秋発売を予定している次期iPhoneに関して、生産上の問題に直面していると、複数の米メディアが現地時間2017年4月12日、アナリストの調査報告を引用して伝えた。これによりOLED（有機EL）ディスプレーを搭載する、次期iPhoneの上位モデルは出荷時期が大きくずれ込む可能性があるという。 ]]></description>
@@ -251,6 +251,12 @@ Creators Updateの入手方法は？
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041301136/</link>
 			<description><![CDATA[　VR（仮想現実）コンテンツ制作ベンチャーのLIFE STYLEは2017年4月13日、同分野のクリエーターを養成する専門講座を開設すると発表した。良質なコンテンツの作り手を増やすことでVR市場を活性化し、同社の事業拡大につなげる。]]></description>
 			<pubDate>Thu, 13 Apr 2017 15:59:48 +0900</pubDate>
+		</item>
+		<item>
+			<title>遠隔型の自動運転車が夏にも公道実験、警察庁が基準案（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041301137/</link>
+			<description><![CDATA[　警察庁は2017年4月13日、遠隔操作の自動運転車を公道で実証実験する際の取り扱いについて基準案を発表した。早ければ2017年夏から、一定の基準を満たせば特区内外にかかわらず全国各地で公道実験を認めるもので、一般車両と実験車両の混在も可能。]]></description>
+			<pubDate>Thu, 13 Apr 2017 16:26:50 +0900</pubDate>
 		</item>
 		<item>
 			<title>「1人1PC環境も、先生が足りない」、ルワンダのICT教育事情（ニュース）</title>
