@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>新会社NTTテクノクロス、2020年度に「NTTグループ外」売上高を250億円以上に（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201117/</link>
-			<description><![CDATA[　ＮＴＴテクノクロスは2017年4月12日、東京・品川の本社で会社設立記者会見を行った。同社は、2017年4月1日に旧NTTソフトウェアと旧NTTアイティが合併し、NTTアドバンステクノロジの音響・映像関連事業を統合して誕生した。]]></description>
-			<pubDate>Wed, 12 Apr 2017 18:02:29 +0900</pubDate>
-		</item>
-		<item>
 			<title>KCCSがIoT向け通信サービスの開業式、エリア展開や新製品計画をアピール（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201119/</link>
 			<description><![CDATA[　京セラコミュニケーションステム（KCCS）は2017年4月11日、IoT向けのネットワークを提供する「SIGFOXネットワークサービス」の開業式を開催した。]]></description>
@@ -59,6 +53,12 @@
 			<pubDate>Wed, 12 Apr 2017 23:08:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>特定の時間や場所でリマインド、Google Keepでシンプルに情報管理（春から始めるノート管理術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000132/041100003/</link>
+			<description><![CDATA[　Google Keepは、ノート情報管理が可能なクラウドサービスの一つで、シンプルなノートをベースに、Google得意の検索機能を組みあわせられるのが特徴だ。スマートフォン用アプリが用意されてるほか、Chrome用アプリやWebクリップ用のChrome拡張機能などもある。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>社員の「余計な忖度」、働き方改革の障壁に（日経ITイノベーターズ白熱議論＆講演）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041000004/</link>
 			<description><![CDATA[　国会答弁の場で最近よく聞かれる「忖度（そんたく）」という言葉。強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」が2016年9月28日に開催した定例会議では、企業の生産性を下げる要因の一つとして、「余計な忖度」が話題になった。]]></description>
@@ -71,9 +71,9 @@
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>特定の時間や場所でリマインド、Google Keepでシンプルに情報管理（春から始めるノート管理術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000132/041100003/</link>
-			<description><![CDATA[　Google Keepは、ノート情報管理が可能なクラウドサービスの一つで、シンプルなノートをベースに、Google得意の検索機能を組みあわせられるのが特徴だ。スマートフォン用アプリが用意されてるほか、Chrome用アプリやWebクリップ用のChrome拡張機能などもある。]]></description>
+			<title>機器追加の際の作業を最小に抑えるZTP（ネットワーク管理を自動化せよ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030600067/041100002/</link>
+			<description><![CDATA[　ネットワーク管理の自動化技術の中で、最も多くのネットワークエンジニアが携わり、自動化によるメリットが大きい「機器管理」と「ネットワーク管理」。まずは、機器管理の構築フェーズにおける自動化の一つである「Zero Touch Provisioning」（ZTP）を紹介します。]]></description>
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>急速に進むベンダーのIT部門離れ、デジタル化がもたらす構造変化の波（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/041100082/</link>
-			<description><![CDATA[　「あなたが書いている『SIerの寿命はあと数年』という話、以前は珍説と笑っていたが、今は確実やって来る未来だと深刻に受け止めている」。SIerの幹部に会うと、真顔でこんな話をされることが増えた。]]></description>
+			<title>iOSの「Siri」だけが使う特別なTCP（今どきTCP）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400004/</link>
+			<description><![CDATA[　TCPは、モバイル、Web、データセンターといった個別の利用場面に合わせ、分化する方向で進化を続けている。iOS 7では、音声アシスタント機能である「Siri」を利用するときだけ、「MPTCP」という新しいTCPの機能を使っている。]]></description>
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>機器追加の際の作業を最小に抑えるZTP（ネットワーク管理を自動化せよ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030600067/041100002/</link>
-			<description><![CDATA[　ネットワーク管理の自動化技術の中で、最も多くのネットワークエンジニアが携わり、自動化によるメリットが大きい「機器管理」と「ネットワーク管理」。まずは、機器管理の構築フェーズにおける自動化の一つである「Zero Touch Provisioning」（ZTP）を紹介します。]]></description>
+			<title>不可能を可能にする「パブクラ」、スケールしない「プラクラ」（クラウドの新常識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300004/</link>
+			<description><![CDATA[　実際にパブリッククラウドとプライベートクラウドの両社を利用するユーザーが増えてきた。両社を利用した経験から、それぞれのメリット・デメリットが見えてきている。]]></description>
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -143,15 +143,9 @@
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>iOSの「Siri」だけが使う特別なTCP（今どきTCP）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400004/</link>
-			<description><![CDATA[　TCPは、モバイル、Web、データセンターといった個別の利用場面に合わせ、分化する方向で進化を続けている。iOS 7では、音声アシスタント機能である「Siri」を利用するときだけ、「MPTCP」という新しいTCPの機能を使っている。]]></description>
-			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>不可能を可能にする「パブクラ」、スケールしない「プラクラ」（クラウドの新常識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300004/</link>
-			<description><![CDATA[　実際にパブリッククラウドとプライベートクラウドの両社を利用するユーザーが増えてきた。両社を利用した経験から、それぞれのメリット・デメリットが見えてきている。]]></description>
+			<title>急速に進むベンダーのIT部門離れ、デジタル化がもたらす構造変化の波（焦点を読む）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/041100082/</link>
+			<description><![CDATA[　「あなたが書いている『SIerの寿命はあと数年』という話、以前は珍説と笑っていたが、今は確実やって来る未来だと深刻に受け止めている」。SIerの幹部に会うと、真顔でこんな話をされることが増えた。]]></description>
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -256,6 +250,12 @@ Creators Updateの入手方法は？
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201118/</link>
 			<description><![CDATA[　日本マイクロソフトは2017年4月12日、パッケージを開発しているITベンダー向けにデータベース「SQL Server」の採用を促進する支援策を提供すると発表した。]]></description>
 			<pubDate>Thu, 13 Apr 2017 11:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Marbleの出前配達ロボット、Yelpのフードデリバリー事業がテスト導入（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041301134/</link>
+			<description><![CDATA[　ロボット開発のスタートアップである米Marbleが出前配達ロボットのテスト走行を開始した。同社が現地時間2017年4月12日に地域口コミ情報サイトの米Yelpとの提携を正式発表したとして、複数の米メディアが報じた。 ]]></description>
+			<pubDate>Thu, 13 Apr 2017 12:50:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
