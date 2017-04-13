@@ -5,119 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    自然な翻訳結果に驚きーー新生「Microsoft Translator」を使ってみました：週刊モバイル通信 石野純也
-</title>
-			<link>http://japanese.engadget.com/2017/04/11/microsoft-translator/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/7c24f06593243bdbd025385b6ab83bb4/205153831/3.jpg" />
-マイクロソフトは、4月7日、翻訳サービス「Microsoft Translator」の翻訳精度を向上させ、リアルタイム会話翻訳にも対応しました。
-
-これまでの統計的機械翻訳を刷新し、ニューラルネットワークを活用したエンジンが特徴。これによって、長文でも文章の構造を理解したうえでの翻訳が可能になり、出力される結果がより自然なものになります。
-
-深層学習を行っており、結果の10%程度が正誤の学習に使われるため、「使えば使うほど賢くなる」（日本マイクロソフト関係者）というのも、この方式のメリットと言えるでしょう。
-
-
-4月7日に大きく変わったMicrosoft Translator
-
-この技術を応用したサービスとして、Microsoft TranslatorアプリがiOS、Android、Windows向けに公開されているほか、4月7日から、「Skype翻訳」が開始されています。Skype翻訳に対応しているのはPCだけになりますが、あくまで発信側だけが対応していればよく、固定電話や携帯電話に対して発信した際にも、翻訳をかけることができます。
-
-動画：ついに日本語対応したSkype翻訳レビュー、10言語間で双方向翻訳、深層学習で使うほど精度が向上
-
-実際に試してみた限りでは、まだこちらの言葉を完ぺきに理解してくれるわけではありませんが、現時点でも、簡単な意思の疎通は図れます。こちらのサービスも深層学習で、今後どんどん賢くなっていくというため、将来が楽しみです。
-
-
-アプリの精度が上がったほか、Skype翻訳の提供も開始
-
-
-Skype翻訳もある程度の意思疎通が可能なほどの精度
-
-自分の記事を翻訳させてみた
-筆者がこのMicrosoft Translatorを使った際に、まず驚いたのが、その精度の高さです。物書きの常というべきか、最初に試したのが自分の原稿。ブラウザからMicrosoft Translatorの機能が使われているbing翻訳を開き、この連載の前回分の全文をコピペしたうえで、一気に翻訳をかけ、英語にしてみました。
-
-出力された結果を見てみると、非常に自然で、日本語では省略しがちな主語が、きちんと補われています。直訳ではなく、ある程度文脈を理解しているためでしょう。全文を載せるとさすがに長くなりすぎてしまうので、以下に、サンプルとして、冒頭の4段落ぶんの対訳を、そのまま載せてみました。
-
-
-bing翻訳で、前回の連載の冒頭を翻訳してみた
-
- 
-
-
-【元の文章】
-
-『3月29日（現地時間）に、ニューヨークで、サムスン電子が2017年のフラッグシップモデルとなる「Galaxy S8」「Galaxy S8+」を発表しました。
-
-すでに速報やファーストインプレッションの記事はEngadgetにも多数掲載されているため、本連載では筆者ならではの視点から、この機種の魅力や、逆にここが足りないと感じた部分をお伝えしていきたいと思います。
-
-最初に、筆者はGalaxy S8の先代となるGalaxy S7 edgeのドコモ版を、発売日に購入して1年近く使い続けてきました。このGalaxy S7 edgeも、エッジスクリーンがあって、大画面ながら持ちやすい端末でしたが、Galaxy S8はそれを大きく上回っていたのが印象的です。片手にすっぽり収まる感覚で、操作がよりスムーズになりそうだと思いました。
-
-しかもディスプレイは、Galaxy S7 edgeの5.5インチから対角で0.3インチも大きくなっています。これにはカラクリがあり、Galaxy S8、S8+は、18.5:9と縦長なディスプレイを搭載しています。Galaxy S7 edgeは16:9と一般的な比率のため、比較で言うと、縦方向に長くなっているというわけです。エッジスクリーンの角度をより鋭くしたことも相まって、横幅は68.1mmになりました。5.5インチのGalaxy S7 edgeより、4.5mmも短くなっています。』
-
-【Microsoft Translatorでの翻訳】
-
-『On March 29 (local time) in New York, Samsung announced the "Galaxy S8" and "Galaxy S8 +" as the flagship model for 2017.
-
-Since the article has already been published many on Engadget and first impressions, in this series from the author's unique point of view, I would like to tell you the charm of this model, and the part where I felt not enough to reverse.
-
-First, I purchased the DoCoMo version of Galaxy S7 Edge, which is the predecessor of Galaxy S8, and have been using it for nearly a year. Galaxy S7 Edge also has an edge screen, a large-screen and easy-to-hold terminal, but Galaxy S8 is impressive that surpassed it significantly. I thought that the operation was likely to become smoother in the sense that it completely fits in one hand.
-
-The display also has a larger 0.3-inch diagonal from 5.5 inches of Galaxy S7 Edge. It has a gizmo, Galaxy S8, S8 +, with 18.5:9 and a vertical display. Galaxy S7 Edge is a general ratio of 16:9, so in comparison, it is long in the vertical direction. The angle of the edge screen is also combined with sharper, and the horizontal width is 68.1 mm. 4.5 mm shorter than the 5.5-inch Galaxy S7 Edge.』
-
-まず感心したのが、「筆者はGalaxy S8の先代となるGalaxy S7 edgeのドコモ版を、発売日に購入して1年近く使い続けてきました」のくだりを、「I purchased the DoCoMo version of Galaxy S7 Edge, which is the predecessor of Galaxy S8, and have been using it for nearly a year」と自然に訳しているところ。
-
-英文では、「発売日に」というニュアンスは抜けてしまっていますが、「購入して1年近く使い続けてきました」という文章が、英語だとカンマで区切られ、「購入したこと」と「使い続けてきたこと」の2つが明確に分かれている点も、従来型のエンジンでは実現が難しかったポイントだと思います。
-
-また、「片手にすっぽり収まる感覚で、操作がよりスムーズになりそうだと思いました」は、日本語では一般的な、主語を省いた文章になります。「思いました」の対象はもちろん筆者である私ですが、翻訳後の英文では、これも自動的に補われて「I thought」という書き出しになっています。文脈をきちんと理解し、「思った」のが誰なのかをきちんと反映させているというわけです。
-
-残念ながら筆者は英語がネイティブレベルにできるわけではありません。英語力も、高校生のときに英検準一級を取ったのをピークに、どんどん落ちているのは海外出張のたびに感じるところで、なんとか維持するのに四苦八苦しています。
-
-そのため、翻訳後の文章が英語圏の人にとって、完ぺきかどうかまでは判定できません。ただ、結果を見る限り、単語レベルでの直訳ではなく、文章としてかなり自然に読むことができました。
-
-固有名詞については、もう少し改善の余地はありそうです。サンプルとして切り取った文では比較的正確に訳されていますが、「ドコモ」の訳が「DoCoMo」になっていて、これはブランドロゴ変更前の表記方法です。ドコモは英文のプレスリリースなどでは、大文字の「DOCOMO」を使っているため、惜しいといったところでしょうか。ドコモがロゴマークを変えたのは2008年のことで、もう9年ほど経っていますが、もしかしたら、学習に使った文章が古かったのかもしれません。
-コンパスが朗読するとは（笑）
-英訳についてはかなり使えそうなMicrosoft翻訳ですが、逆に、和訳はどうでしょうか。ここでも自分の記事を......といきたいところですが、残念ながら英語で公開している記事がないため、マイクロソフトのプレスリリースを翻訳してみました。
-
-翻訳したのは、こちらの文章の冒頭。マイクロソフトが、カシオとの特許ライセンス契約を結んだ英文のプレスリリースになります。この冒頭の、カシオのコメントまでを訳してみました。結果は、以下のとおりです。
-
-【元の英文】
-『On Monday, Microsoft Technology Licensing LLC and Casio Computer Co. Ltd. announced a new patent licensing agreement that includes broad coverage for smartwatch technologies. Casio's smartwatches, which include Casio's WSD-F10 and WSD-F20 Smart Outdoor Watch, enable modern personal connectivity, while also coming equipped with many sensors that support a complement of outdoor features such as activity monitoring, and altimeter, barometer and compass readings.
-
-"Casio's smartwatches combined with Microsoft's technology will help customers all over the world achieve more from their wearables," said Micky Minhas, head of Microsoft Technology Licensing LLC. "This is an outstanding partnership that builds on Microsoft's heritage of innovation in the technology powering personal wearables to boost Casio's best-in-class products in this space."
-
-"Casio is committed to creating innovative products for all our customers, and this partnership builds on our longstanding relationship with Microsoft that's covered products and solutions ranging from industrial handheld terminals to business information systems," said Hiroshi Okumura, general manager of Intellectual Property &amp; Legal Department of Casio.』
-
-【Microsoft Translatorでの翻訳】
-『月曜日に、マイクロソフトテクノロジーライセンス llc とカシオコンピュータ株式会社は、スマートウォッチ技術の広範なカバレッジを含む新しい特許ライセンス契約を発表した。カシオの wsd f10 と wsd-f20 スマートアウトドアウォッチを含むカシオの smartwatches は、近代的なパーソナル接続を有効にしながら、また、活動の監視などの屋外機能の補完をサポートする多くのセンサーを搭載して来て、高度計、バロメーターとコンパスの朗読。
-
-"カシオの smartwatches は、マイクロソフト社の技術と組み合わせることで、世界中の顧客は、彼らのウェアラブルからより多くを達成するのに役立ちます," ミッキーマイは言った, マイクロソフトテクノロジーライセンシング llc のヘッド."これは、この分野でのカシオの最高のクラスの製品を後押しするためにパーソナルウェアラブルに電力を供給する技術革新のマイクロソフトの遺産に基づいて構築された卓越したパートナーシップです。
-
-"カシオは、すべてのお客様のための革新的な製品を作成するためにコミットされ、このパートナーシップは、マイクロソフトとの長年の関係を構築し、製品やソリューションは、産業用ハンドヘルド端末からビジネス情報システムに至るまでのカバー、" 奥村博、知的財産権 &amp; カシオの法務部門の』
-
-こちらは、英訳に比べると、不自然な部分が目立ちます。たとえば、なぜか「smartwatches」を「スマートウォッチ」と訳しておらず、唐突に英単語が挟まれていたり、1段落目の最後が「バロメーターとコンパスの朗読」となっている部分も、意味が分かりません。コンパスが朗読するとは（笑）。
-
-固有名詞にも間違いがあります。日本語の名前は惜しいのですが、残念ながら正解ではありません。ここに無理やり漢字を当てはめる必要も、ないような気がします。
-
-ちなみに、日本マイクロソフトから送られてきた抄訳は以下の通り。やはり、人間が訳しただけあって、日本語としてスムーズに頭に入ってきます。
-
- 
-
-『マイクロソフトは本日、Microsoft Technology Licensing LLC とカシオ計算機株式会社が、スマートウオッチ関連の広範なテクノロジーを含む新たな特許ライセンス契約を締結したことを発表しました。Smart Outdoor Watch WSD-F10やWSD-F20といったカシオのスマートウオッチは、圧力センサー、方位センサー、加速度センサーなどのアウトドアで役立つセンサーを備えるとともに、スマートフォンとの連携により様々な情報を提供する最新のウェアラブル製品です。
-
-Microsoft Technology Licensingのプレジデントであるミッキー・ミンハス （Micky Minhas） は次のように述べています。「カシオのスマートウオッチとマイクロソフトのテクノロジーを組み合わせることで、世界中のお客様がますますウェアラブルを活用できるようになります。マイクロソフトのウェアラブル分野での長きにわたるテクノロジーイノベーションがカシオの業界最高クラスの製品を支援するという点で、まさに素晴らしいパートナーシップと言えるでしょう。」
-
-カシオ計算機の法務・知的財産統轄部知財渉外部部長の奥村寛氏は次のように述べています。「カシオはあらゆるお客様に向けて革新的な製品を提供することにコミットしています。今回の提携は、マイクロソフトと弊社の長期的関係に基づくものであり、産業向けハンドヘルド端末や企業情報システムなどの製品やソリューションもカバーするものです。」 』
-
-学習によって、さらに精度が上がっていくのが楽しみ
-とは言え、現状の翻訳レベルでも、とりあえず何を言っているのかは分かるレベルになっていて、英語が全く分からない人が、とりあえずザックリとした内容をつかむためには使えるでしょう。ざっと使って比較してみた限りでは、同じく深層学習を取り入れ精度が大幅に上がったGoogle翻訳にも、十分対抗できそうなレベルになっています。今後、学習によって、さらに精度が上がっていくのも、楽しみです。
-
-残念な点があるとすると、アプリのユーザーインターフェイスです。アプリで今回のような長文翻訳をしようとすると、文章が途中で途切れてしまい、結果をきちんと読むことができません。Android版については、他のアプリからの共有に対応していないため、Webサイトの全文翻訳といったようなことをする際には、コピー&amp;ペーストが必要になってしまうのも、要改善だと思ったポイントです。
-
-とは言え、こうしたユーザーインターフェイスも、翻訳精度とともに、今後よくなっていくはずです。現時点でも、スマホユーザーなら、とりあえずインストールしておいて損はないでしょう。
-
-
-Androidアプリは文字数制限が厳しく、アプリ連携もしないのが残念
- ]]></description>
-			<pubDate>Wed, 12 Apr 2017 11:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    手触りサラサラAirPods用シリコンケースがAmazonで20%オフ
 </title>
 			<link>http://japanese.engadget.com/2017/04/11/airpods-amazon-20/</link>
@@ -710,6 +597,34 @@ Engadget 日本版 YouTubeチャンネルより。Google Tango（AR）とDaydrea
 RAM8GB/ROM128GBモデルが9万9800円、RAM6GB/ROM64GBモデルが8万2800円と高価な端末ではありますが、ARとVRの両方を日常使いできるのは魅力的。MR（拡張現実）への対応も強く期待したいところです。発売は2017年夏予定。動画の尺は4分59秒です。
  ]]></description>
 			<pubDate>Thu, 13 Apr 2017 19:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    地下に強いau網、WiMAX 2＋ユーザーなら「タダ」に。LTEオプション無料化、要3年縛り
+</title>
+			<link>http://japanese.engadget.com/2017/04/13/au-wimax-2-lte-3/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/8ef184fe316e4c731a4f3fb5ea65f655/205160320/DSC06982.jpg" />
+
+3年契約なら、LTEオプション料が無料にーーそんなWiMAX 2＋の新料金プラン「UQ Flatツープラスギガ放題（3年）」および「UQ Flatツープラス （3年）」の提供を、UQが6月に開始します。
+
+LTEオプションは、WiMAX 2＋/au 4G LTEに両対応したモバイルルータで、au 4G LTE回線を利用するハイスピードプラスエリアモードを使えるプランです。月額料金は1005円（税別、以下同）。WiMAX 2＋が繋がりにくい地下街や、郊外部でも快適に通信できる点を売りにしています。
+
+6月より提供開始する「3年契約プラン」では、月額有料のLTEオプション料が無料に。月額料金は2年契約プランと同等です。
+
+
+
+つまり、3年縛り契約ならば、WiMAX 2＋に比べて繋がるエリアが圧倒的に広いau 4G LTE回線が、無料で使えるようになるわけです。
+
+
+
+UQの野坂章雄社長は、2017年1月の記者会見で次のようにコメントしていました。
+
+「WiMAXはどうしても地下街や地下鉄で弱いという声がある（中略）そんな時にLTEがあると便利だが、ハイスピードエリアモードを使うと別途1050円かかる。そこをなんとかしたい（中略）無料の範囲を一挙に拡大しようと思っている」（野坂社長 ※1月の記者会見時の発言）
+
+「地下で繋がらない」解決へ──WiMAX 2＋の『LTEオプション』無料拡大、新ルータも発表
+
+なお、更新月（契約満了月の末日もしくはその翌月）以外に解約した場合、契約解除料として最初の13か月間は1万9000円。14か月〜25か月目は1万4000円、26か月以降は9500円が発生します。LTEオプションを有料で契約していたほうが安かった...ということにもなりかねないため、解約のタイミングには注意が必要です。
+ ]]></description>
+			<pubDate>Thu, 13 Apr 2017 20:15:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
