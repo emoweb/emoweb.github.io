@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>スマートホームにもIAプロセッサ、インテルと関電など実証実験（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201120/</link>
-			<description><![CDATA[　インテルは2017年4月12日、関西電力など3社と共同でスマートホームの実証実験に取り組むと発表した。インテル製CPUを搭載したホームゲートウエイと環境センサーを関電の契約者100世帯の自宅に設置し、健康管理や保険、教育、小売といったサービスを契約者向けに提供する。]]></description>
-			<pubDate>Wed, 12 Apr 2017 19:43:44 +0900</pubDate>
-		</item>
-		<item>
-			<title>アズジェントがWeb無害化ツール2製品、ゲートウエイ用とWebサイト用（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201121/</link>
-			<description><![CDATA[　アズジェントは2017年4月12日、Webページの無害化ツール2製品を6月から提供すると発表した。Webページを画像に変換することで、アクセスしたパソコンが脆弱性を悪用した攻撃を受けるのを防げるとしている。]]></description>
-			<pubDate>Wed, 12 Apr 2017 20:57:06 +0900</pubDate>
-		</item>
-		<item>
 			<title>「日本の経営層はセキュリティ事故が我がことではない」、日本IBMが警鐘（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041201125/</link>
 			<description><![CDATA[　日本IBMは2017年4月12日、セキュリティ事業の説明会を開いた。同社観測によれば2016年に世界で起きた情報漏洩件数は前年比5.6倍の40億件超で、1回の情報漏洩で負担する平均的コストは400万ドル（4億4000万円）だった。]]></description>
@@ -47,6 +35,18 @@
 			<pubDate>Wed, 12 Apr 2017 23:08:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>ISDN終了に潜む落とし穴、すべての企業は再点検を（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041100930/</link>
+			<description><![CDATA[　NTT東西は2017年4月6日、INSネットのディジタル通信モードの提供終了時期を2024年初頭に後ろ倒しすると発表した。2025年頃に維持限界を迎える加入電話網（PSTN）をIP網に移行することに伴う措置で、これまでは「2020年度後半に終了予定」と案内していた。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>iOSの「Siri」だけが使う特別なTCP（今どきTCP）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400004/</link>
+			<description><![CDATA[　TCPは、モバイル、Web、データセンターといった個別の利用場面に合わせ、分化する方向で進化を続けている。iOS 7では、音声アシスタント機能である「Siri」を利用するときだけ、「MPTCP」という新しいTCPの機能を使っている。]]></description>
+			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>機器追加の際の作業を最小に抑えるZTP（ネットワーク管理を自動化せよ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030600067/041100002/</link>
 			<description><![CDATA[　ネットワーク管理の自動化技術の中で、最も多くのネットワークエンジニアが携わり、自動化によるメリットが大きい「機器管理」と「ネットワーク管理」。まずは、機器管理の構築フェーズにおける自動化の一つである「Zero Touch Provisioning」（ZTP）を紹介します。]]></description>
@@ -65,9 +65,9 @@
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ISDN終了に潜む落とし穴、すべての企業は再点検を（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041100930/</link>
-			<description><![CDATA[　NTT東西は2017年4月6日、INSネットのディジタル通信モードの提供終了時期を2024年初頭に後ろ倒しすると発表した。2025年頃に維持限界を迎える加入電話網（PSTN）をIP網に移行することに伴う措置で、これまでは「2020年度後半に終了予定」と案内していた。]]></description>
+			<title>急速に進むベンダーのIT部門離れ、デジタル化がもたらす構造変化の波（焦点を読む）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/041100082/</link>
+			<description><![CDATA[　「あなたが書いている『SIerの寿命はあと数年』という話、以前は珍説と笑っていたが、今は確実やって来る未来だと深刻に受け止めている」。SIerの幹部に会うと、真顔でこんな話をされることが増えた。]]></description>
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,9 +89,9 @@
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ボットネット“潜入捜査”で判明、1台のPCから毎月25万通のウイルスメール（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040700924/</link>
-			<description><![CDATA[　トレンドマイクロは、ボットネットを構成するウイルスを自社の検証用パソコンに感染させ、その挙動を半年にわたって調査した。いわばボットネットへの“潜入捜査”だ。その結果、ウイルスに感染した1台のパソコンから、1カ月当たり50種類以上のウイルスメールが25万通程度送られていることが明らかとなった。]]></description>
+			<title>無理に受注を増やすと「悪いお客さん」の連鎖が起こる（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/041100008/</link>
+			<description><![CDATA[「ITに全く関係ない分野からITに飛び込んで活躍しているエンジニア」や「ITとIT以外の分野の境界を行き来しながら成果を上げているエンジニア」を「越境エンジニア」と名付け、1カ月に一人ずつインタビューを掲載する。今月取り上げるのは佐藤治夫氏。Pythonに特化したシステム開発会社であるビープラウドの創業者だ。最終回である今回は、ビープラウドとコミュニティとの関係や同社に営業社員がいない理由などを聞いた。]]></description>
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,9 +101,9 @@
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>急速に進むベンダーのIT部門離れ、デジタル化がもたらす構造変化の波（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/041100082/</link>
-			<description><![CDATA[　「あなたが書いている『SIerの寿命はあと数年』という話、以前は珍説と笑っていたが、今は確実やって来る未来だと深刻に受け止めている」。SIerの幹部に会うと、真顔でこんな話をされることが増えた。]]></description>
+			<title>ドコモが健康経営攻略に本腰、「短期間で効果」売りに目指す100億円（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041100931/</link>
+			<description><![CDATA[　NTTドコモが企業の「健康経営」需要の攻略を本格化する。企業の従業員に向け体質・体調改善を促す3種類のサービスを提供開始。政府の旗振りもあり健康経営が急速に広がるなか、ドコモのヘルスケア事業も個人向け主体から、個人向けと法人向けの両輪へと転換する。]]></description>
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -125,21 +125,9 @@
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>無理に受注を増やすと「悪いお客さん」の連鎖が起こる（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/041100008/</link>
-			<description><![CDATA[「ITに全く関係ない分野からITに飛び込んで活躍しているエンジニア」や「ITとIT以外の分野の境界を行き来しながら成果を上げているエンジニア」を「越境エンジニア」と名付け、1カ月に一人ずつインタビューを掲載する。今月取り上げるのは佐藤治夫氏。Pythonに特化したシステム開発会社であるビープラウドの創業者だ。最終回である今回は、ビープラウドとコミュニティとの関係や同社に営業社員がいない理由などを聞いた。]]></description>
-			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ドコモが健康経営攻略に本腰、「短期間で効果」売りに目指す100億円（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041100931/</link>
-			<description><![CDATA[　NTTドコモが企業の「健康経営」需要の攻略を本格化する。企業の従業員に向け体質・体調改善を促す3種類のサービスを提供開始。政府の旗振りもあり健康経営が急速に広がるなか、ドコモのヘルスケア事業も個人向け主体から、個人向けと法人向けの両輪へと転換する。]]></description>
-			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iOSの「Siri」だけが使う特別なTCP（今どきTCP）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400004/</link>
-			<description><![CDATA[　TCPは、モバイル、Web、データセンターといった個別の利用場面に合わせ、分化する方向で進化を続けている。iOS 7では、音声アシスタント機能である「Siri」を利用するときだけ、「MPTCP」という新しいTCPの機能を使っている。]]></description>
+			<title>ボットネット“潜入捜査”で判明、1台のPCから毎月25万通のウイルスメール（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040700924/</link>
+			<description><![CDATA[　トレンドマイクロは、ボットネットを構成するウイルスを自社の検証用パソコンに感染させ、その挙動を半年にわたって調査した。いわばボットネットへの“潜入捜査”だ。その結果、ウイルスに感染した1台のパソコンから、1カ月当たり50種類以上のウイルスメールが25万通程度送られていることが明らかとなった。]]></description>
 			<pubDate>Thu, 13 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -257,6 +245,18 @@ Creators Updateの入手方法は？
 			<description><![CDATA[　シスコシステムズは2017年4月13日、資料のプレゼンテーションやホワイトボードなどの使い方ができる会議用の多機能型ディスプレイの新製品「Cisco Spark Board」を発表した。
 ]]></description>
 			<pubDate>Thu, 13 Apr 2017 14:04:13 +0900</pubDate>
+		</item>
+		<item>
+			<title>LIFE STYLEが360度VR動画クリエーターの養成講座、コンテンツ不足解消狙う（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041301136/</link>
+			<description><![CDATA[　VR（仮想現実）コンテンツ制作ベンチャーのLIFE STYLEは2017年4月13日、同分野のクリエーターを養成する専門講座を開設すると発表した。良質なコンテンツの作り手を増やすことでVR市場を活性化し、同社の事業拡大につなげる。]]></description>
+			<pubDate>Thu, 13 Apr 2017 15:59:48 +0900</pubDate>
+		</item>
+		<item>
+			<title>「1人1PC環境も、先生が足りない」、ルワンダのICT教育事情（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041301133/</link>
+			<description><![CDATA[　2017年4月11日、ルワンダにおける小学生向けプログラミング講座の報告会「PeaceTech最前線～ルワンダでの挑戦～」が行われた。]]></description>
+			<pubDate>Thu, 13 Apr 2017 16:40:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
