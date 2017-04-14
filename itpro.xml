@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>遠隔型の自動運転車が夏にも公道実験、警察庁が基準案（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041301137/</link>
-			<description><![CDATA[　警察庁は2017年4月13日、遠隔操作の自動運転車を公道で実証実験する際の取り扱いについて基準案を発表した。早ければ2017年夏から、一定の基準を満たせば特区内外にかかわらず全国各地で公道実験を認めるもので、一般車両と実験車両の混在も可能。]]></description>
-			<pubDate>Thu, 13 Apr 2017 16:26:50 +0900</pubDate>
-		</item>
-		<item>
 			<title>「1人1PC環境も、先生が足りない」、ルワンダのICT教育事情（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041301133/</link>
 			<description><![CDATA[　2017年4月11日、ルワンダにおける小学生向けプログラミング講座の報告会「PeaceTech最前線～ルワンダでの挑戦～」が行われた。]]></description>
@@ -59,6 +53,12 @@
 			<pubDate>Thu, 13 Apr 2017 21:48:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>韓国大統領選挙、候補のIT公約は「インダストリー4.0」「起業」が焦点（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/041200140/</link>
+			<description><![CDATA[　韓国では次期大統領選が2017年5月9日に行われる。早速、自分の関心事と大統領候補の公約をマッチングするサイトも登場した。候補者のIT公約を見ると「インダストリー4.0」と「起業」が焦点となっている。]]></description>
+			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>クラウド導入を決めたら、次はサーバーレス（クラウドの新常識）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300005/</link>
 			<description><![CDATA[　必要なときだけインスタンスを立ち上げて処理を実行する「サーバーレスアーキテクチャー」。2014年11月の「AWS Lambda」の登場から実際に利用する企業も少しずつ登場してきた。]]></description>
@@ -71,9 +71,9 @@
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>韓国大統領選挙、候補のIT公約は「インダストリー4.0」「起業」が焦点（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/041200140/</link>
-			<description><![CDATA[　韓国では次期大統領選が2017年5月9日に行われる。早速、自分の関心事と大統領候補の公約をマッチングするサイトも登場した。候補者のIT公約を見ると「インダストリー4.0」と「起業」が焦点となっている。]]></description>
+			<title>人間とAI記者が一緒に執筆、文章精度上げるウェザーニューズ（ここまできたAI記者の実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400118/041300004/</link>
+			<description><![CDATA[　数値を引用しながら書く原稿には人為的なミスが起こりやすい。正確さを期する必要がある箇所は人工知能（AI）が記述し、人間が文章全体を整えるーー。気象情報大手のウェザーニューズは2016年6月から、人間と「AI記者」が役割分担して原稿を仕上げる活用方法を実践している。]]></description>
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>2万円台ながら上質感も、Androidになった「VAIO Phone A」の実力は？（SIMフリースマートフォンを徹底レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/041300037/</link>
-			<description><![CDATA[　今回紹介するSIMフリースマートフォンは「VAIO Phone A」だ。昨年発売した、Windows 10 Mobileを搭載する「VAIO Phone Biz」のデザインはそのままに、OSをAndroidに入れ替えて通信機能をアップデートさせた製品である。]]></description>
+			<title>電子行政サービスに不満があったら声を上げよう（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041100819/</link>
+			<description><![CDATA[　新年度が始まったばかりでもあるので、代表的な電子行政サービスを紹介する。もし使い勝手に不満があれば、ぜひ各サービスの問い合わせ窓口などに声を届けてほしい。政府が電子行政サービスで「利用者目線での使い勝手」を重視する新方針を打ち出す準備を進めているので、利用者である国民にとっては大きなチャンスである。]]></description>
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>人間とAI記者が一緒に執筆、文章精度上げるウェザーニューズ（ここまできたAI記者の実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400118/041300004/</link>
-			<description><![CDATA[　数値を引用しながら書く原稿には人為的なミスが起こりやすい。正確さを期する必要がある箇所は人工知能（AI）が記述し、人間が文章全体を整えるーー。気象情報大手のウェザーニューズは2016年6月から、人間と「AI記者」が役割分担して原稿を仕上げる活用方法を実践している。]]></description>
+			<title>iPhoneは業界の「錯覚」を教えてくれた──グリー田中氏（iPhoneは世界をどう変えたか？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022400046/041200026/</link>
+			<description><![CDATA[　iPhoneが登場する3年前の2004年、「GREE」はSNSとして産声を上げた。パソコン、フィーチャーフォン、スマートフォンと世の中の主流となるデバイスの変遷とともに、成長を続けてきたグリー会長兼社長の田中良和氏にiPhoneが業界にもたらしたインパクトを聞く。]]></description>
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -137,22 +137,10 @@
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>電子行政サービスに不満があったら声を上げよう（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041100819/</link>
-			<description><![CDATA[　新年度が始まったばかりでもあるので、代表的な電子行政サービスを紹介する。もし使い勝手に不満があれば、ぜひ各サービスの問い合わせ窓口などに声を届けてほしい。政府が電子行政サービスで「利用者目線での使い勝手」を重視する新方針を打ち出す準備を進めているので、利用者である国民にとっては大きなチャンスである。]]></description>
+			<title>2万円台ながら上質感も、Androidになった「VAIO Phone A」の実力は？（SIMフリースマートフォンを徹底レビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/041300037/</link>
+			<description><![CDATA[　今回紹介するSIMフリースマートフォンは「VAIO Phone A」だ。昨年発売した、Windows 10 Mobileを搭載する「VAIO Phone Biz」のデザインはそのままに、OSをAndroidに入れ替えて通信機能をアップデートさせた製品である。]]></description>
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iPhoneは業界の「錯覚」を教えてくれた──グリー田中氏（iPhoneは世界をどう変えたか？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022400046/041200026/</link>
-			<description><![CDATA[　iPhoneが登場する3年前の2004年、「GREE」はSNSとして産声を上げた。パソコン、フィーチャーフォン、スマートフォンと世の中の主流となるデバイスの変遷とともに、成長を続けてきたグリー会長兼社長の田中良和氏にiPhoneが業界にもたらしたインパクトを聞く。]]></description>
-			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>総務省、Struts2の脆弱性を突かれて2.3万人の個人情報流出か（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041401147/</link>
-			<description><![CDATA[　総務省は2017年4月13日、「地図による小地域分析（jSTAT MAP）」サイトから最大で2万3000人分の個人情報が流出した可能性があると公表した。サイトは4月11日正午に停止し、再開は未定という。]]></description>
-			<pubDate>Fri, 14 Apr 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>データアナリティクスでプロジェクトの成果を高めるには（下）（データアナリティクスでプロジェクトの成果を高めるには）</title>
@@ -195,6 +183,12 @@
 <div></div>
 </div>
 ]]></description>
+			<pubDate>Fri, 14 Apr 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>総務省、Struts2の脆弱性を突かれて2.3万人の個人情報流出か（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041401147/</link>
+			<description><![CDATA[　総務省は2017年4月13日、「地図による小地域分析（jSTAT MAP）」サイトから最大で2万3000人分の個人情報が流出した可能性があると公表した。サイトは4月11日正午に停止し、再開は未定という。]]></description>
 			<pubDate>Fri, 14 Apr 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -264,6 +258,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041401151/</link>
 			<description><![CDATA[　米Microsoftは現地時間2017年4月13日、ゲームおよびデジタルエンターテインメントの展示会「Electronic Entertainment Expo（E3）」でハイエンドXboxゲーム機「Project Scorpio」（開発コード名）を正式披露すると発表した。]]></description>
 			<pubDate>Fri, 14 Apr 2017 12:26:35 +0900</pubDate>
+		</item>
+		<item>
+			<title>セールスフォースが国内2カ所目のデータセンターを稼働、AI機能強化へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041401154/</link>
+			<description><![CDATA[　セールスフォース・ドットコムは2017年4月14日、国内で2拠点目のデータセンターとなる神戸データセンターの稼働開始を発表した。サービス拡充や災害時のバックアップなどに利用する。2011年に稼働した東京地区と合わせて、関西地区との2拠点体制となる。]]></description>
+			<pubDate>Fri, 14 Apr 2017 13:42:32 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
