@@ -5,6 +5,24 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>GoogleはTCPをCookieで高速化（今どきTCP）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400005/</link>
+			<description><![CDATA[　米グーグルは、WebサービスやモバイルOSのAndroidを事業の中心に据えているため、Webアクセスやモバイル端末向けにTCPを最適化する技術を活発に提案している。その1つが、「TCPファストオープン」（TFO）である。]]></description>
+			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>韓国大統領選挙、候補のIT公約は「インダストリー4.0」「起業」が焦点（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/041200140/</link>
+			<description><![CDATA[　韓国では次期大統領選が2017年5月9日に行われる。早速、自分の関心事と大統領候補の公約をマッチングするサイトも登場した。候補者のIT公約を見ると「インダストリー4.0」と「起業」が焦点となっている。]]></description>
+			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>クラウド導入を決めたら、次はサーバーレス（クラウドの新常識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300005/</link>
+			<description><![CDATA[　必要なときだけインスタンスを立ち上げて処理を実行する「サーバーレスアーキテクチャー」。2014年11月の「AWS Lambda」の登場から実際に利用する企業も少しずつ登場してきた。]]></description>
+			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「ソフトバンクiPhone 7」は格安SIMでお得になるか？（週末スペシャル）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/041300303/</link>
 			<description><![CDATA[　ソフトバンクで「iPhone 7」「iPhone 7 Plus」を契約している人は、SIMロックを解除して格安SIMに乗り換えるべきだろうか？お得かどうかを試算した。]]></description>
@@ -35,9 +53,9 @@
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>定額制SI、本当にうまくいってる？（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041300932/</link>
-			<description><![CDATA[　「問い合わせ件数が前年比で2倍のペース。2017年3月末時点で、2016年の問い合わせ総数の半分近くに達している」。ジョイゾーが手掛ける定額制SIサービスが好調だ。2016年は前年比で40％の伸びだったが、2017年に入ってそれがさらに加速している。同社の四宮靖隆 代表取締役社長は、加速度的に増える案件数にうれしい悲鳴を上げる。]]></description>
+			<title>あの「東横イン」がフランクフルトに！　「いつもと同じ」部屋に泊まってみた（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/040800301/</link>
+			<description><![CDATA[　日本全国に展開するビジネスホテルチェーン「東横INN」（東横イン）が、ドイツ・フランクフルトに進出した。筆者は3月の「CeBIT 2017」取材のため、フランクフルトからドイツに入国。オープン2日後の2017年3月16日に実際に泊まることができたので、その体験をレポートする。]]></description>
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -47,9 +65,9 @@
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>GoogleはTCPをCookieで高速化（今どきTCP）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040400119/040400005/</link>
-			<description><![CDATA[　米グーグルは、WebサービスやモバイルOSのAndroidを事業の中心に据えているため、Webアクセスやモバイル端末向けにTCPを最適化する技術を活発に提案している。その1つが、「TCPファストオープン」（TFO）である。]]></description>
+			<title>スマホ落下防止用「リングホルダー」、使って分かった利点と欠点（青木恵美の信州ITラプソディ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/041300027/</link>
+			<description><![CDATA[　筆者は小型のスマートフォンを好んで使うが、ゆっくり情報を閲覧する際は大画面のスマートフォンを使いたい。でも大きいスマホは持ちづらいし落下が怖い。]]></description>
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -71,83 +89,10 @@
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>あの「東横イン」がフランクフルトに！　「いつもと同じ」部屋に泊まってみた（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/040800301/</link>
-			<description><![CDATA[　日本全国に展開するビジネスホテルチェーン「東横INN」（東横イン）が、ドイツ・フランクフルトに進出した。筆者は3月の「CeBIT 2017」取材のため、フランクフルトからドイツに入国。オープン2日後の2017年3月16日に実際に泊まることができたので、その体験をレポートする。]]></description>
+			<title>定額制SI、本当にうまくいってる？（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041300932/</link>
+			<description><![CDATA[　「問い合わせ件数が前年比で2倍のペース。2017年3月末時点で、2016年の問い合わせ総数の半分近くに達している」。ジョイゾーが手掛ける定額制SIサービスが好調だ。2016年は前年比で40％の伸びだったが、2017年に入ってそれがさらに加速している。同社の四宮靖隆 代表取締役社長は、加速度的に増える案件数にうれしい悲鳴を上げる。]]></description>
 			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>韓国大統領選挙、候補のIT公約は「インダストリー4.0」「起業」が焦点（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/041200140/</link>
-			<description><![CDATA[　韓国では次期大統領選が2017年5月9日に行われる。早速、自分の関心事と大統領候補の公約をマッチングするサイトも登場した。候補者のIT公約を見ると「インダストリー4.0」と「起業」が焦点となっている。]]></description>
-			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>スマホ落下防止用「リングホルダー」、使って分かった利点と欠点（青木恵美の信州ITラプソディ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/041300027/</link>
-			<description><![CDATA[　筆者は小型のスマートフォンを好んで使うが、ゆっくり情報を閲覧する際は大画面のスマートフォンを使いたい。でも大きいスマホは持ちづらいし落下が怖い。]]></description>
-			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>クラウド導入を決めたら、次はサーバーレス（クラウドの新常識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300005/</link>
-			<description><![CDATA[　必要なときだけインスタンスを立ち上げて処理を実行する「サーバーレスアーキテクチャー」。2014年11月の「AWS Lambda」の登場から実際に利用する企業も少しずつ登場してきた。]]></description>
-			<pubDate>Fri, 14 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>総務省、Struts2の脆弱性を突かれて2.3万人の個人情報流出か（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041401147/</link>
-			<description><![CDATA[　総務省は2017年4月13日、「地図による小地域分析（jSTAT MAP）」サイトから最大で2万3000人分の個人情報が流出した可能性があると公表した。サイトは4月11日正午に停止し、再開は未定という。]]></description>
-			<pubDate>Fri, 14 Apr 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>データアナリティクスでプロジェクトの成果を高めるには（下）（データアナリティクスでプロジェクトの成果を高めるには）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　あらゆる規模の企業が、機会探索、コスト削減、効率化、意思決定の強化と迅速化、そして最終的な顧客満足度向上を目指して、データアナリティクスを利用している。こうした動きによって、全社的な戦略が大いに実現され、プロジェクト、プログラム、ポートフォリオの各レベルでも変化が表れる。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500002/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500003/ph3.jpg" width="300" alt="" title=""></div></div>
-
-<p>　ウェスタンガバナーズ大学のJason Levin氏は次のように言う。「おそらく、現時点で最もうまくいったプロジェクトは、情意領域に沿って学生を教育するためのLeadership and Communicationというコースだ。疑似実験法を使って、定着率と単位累積を大幅に向上させることができた。その調査に基づいて、医療従事者を育成する学部の課程にこのコースを導入した。現在、月当たり約1000人の学生に提供している」</p>
-
-<p>　シカゴ・ブルズのKobe氏は、ファンレベルと商取引のインサイトを利用して、チケット購入者に対する最初の顧客セグメンテーションを実施することが、この1年間の最優先事項だったと話す。「セグメント全体の中で弱点がないかや、プロダクトポートフォリオにギャップがないかを理解したいと考えた」。その結果、若手プロフェッショナルとファミリーというセグメントのファンについて、拡大の機会を見いだしたという。そして、ファンレベルのインサイトを取り上げて、両セグメントのペルソナを拡充し、各部門が関係を築く方法を理解できるようにした。</p>
-
-<p>　さらにブルズは、こうしたカスタマーインサイトを利用して、以下を実現した。</p>
-<ul>
-<li>各セグメントをさらに拡大する機会を特定した。</li>
-<br>
-<li>各部門が戦略的計画を増強する中で、戦略・アナリティクス担当チームと各部門が組んで、成否を評価するための指標を確立できた。</li>
-<br>
-<li>若手プロフェッショナルをターゲットにした新しいチャリティーイベントを立案した。</li>
-<br>
-<li>チケット商品に変更を加え、ブルズのSnapchatコンテンツ作成への比重を強めた。</li>
-</ul>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500003/?ST=cio-management&P=2">データアナリティクスの限界は</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500003/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500003/?ST=cio-management&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/040500027/040500003/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 14 Apr 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソニー、短焦点プロジェクターの活用を提案するインテリアショップを出店（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041301143/</link>
-			<description><![CDATA[　ソニーは2017年4月13日、デザイン志向の製品群「Life Space UX」を家具や雑貨と組み合わせて展示・販売するインテリアショップ「Life Space Collection 表参道」を期間限定で出店すると発表した。]]></description>
-			<pubDate>Fri, 14 Apr 2017 07:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Windows 10 Creators Update、無料評価版の配布が始まる（Computerworldニュース）</title>
@@ -260,15 +205,33 @@
 			<pubDate>Fri, 14 Apr 2017 23:30:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>2年で2度の組織再編、日立東原改革は勝負の2年目に（日立 東原改革の正体）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000133/041000002/</link>
+			<description><![CDATA[　「いったん細かく分割して、再び統合したということ」。2016年4月と2017年4月に実施した機構改革を、日立製作所の東原敏昭社長兼CEO（最高経営責任者）はこう表現する。]]></description>
+			<pubDate>Mon, 17 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>企業のピンチをチャットが救う（チャットファースト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000001/</link>
+			<description><![CDATA[　企業での導入に向いたビジネスチャットの提供が日本で始まったのは2011年。それから7年目を迎え、企業導入は着実に広がっている。]]></description>
+			<pubDate>Mon, 17 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>伝えやすいカルチャーを作る、働き方改革の第一歩（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/033000003/</link>
+			<description><![CDATA[　働く母親の姿は、子供を育てる。それはいつの時代も変わらない。アクセンチュアの小野砂知子氏は、そのことを最近実感している。]]></description>
+			<pubDate>Mon, 17 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>もう笑えないマイナンバーとマイナンバーカードの混同（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041200821/</link>
 			<description><![CDATA[　世の中には、最後の一文字が違うだけで意味が全く異なる言葉がある。例えば、「被告」と「被告人」は使われる場面が違う。被告は民事訴訟で訴えられた側だ。被告人は、犯罪の嫌疑を受けて起訴された者で、こちらは刑事訴訟になる。]]></description>
 			<pubDate>Mon, 17 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>2年で2度の組織再編、日立東原改革は勝負の2年目に（日立 東原改革の正体）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000133/041000002/</link>
-			<description><![CDATA[　「いったん細かく分割して、再び統合したということ」。2016年4月と2017年4月に実施した機構改革を、日立製作所の東原敏昭社長兼CEO（最高経営責任者）はこう表現する。]]></description>
+			<title>ドラッカーは参考になるが、世界標準の経営学ではない（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041000005/</link>
+			<description><![CDATA[　どうすればイノベーションできるか――。世界中の経営学者が研究を重ねた結果、「世界標準」とも言える理論が構築されつつある。強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」が2016年7月22日に開催した定例会議で早稲田大学ビジネススクール准教授の入山章栄氏が講演した。]]></description>
 			<pubDate>Mon, 17 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -332,24 +295,6 @@
 			<pubDate>Mon, 17 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>企業のピンチをチャットが救う（チャットファースト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000001/</link>
-			<description><![CDATA[　企業での導入に向いたビジネスチャットの提供が日本で始まったのは2011年。それから7年目を迎え、企業導入は着実に広がっている。]]></description>
-			<pubDate>Mon, 17 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ドラッカーは参考になるが、世界標準の経営学ではない（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041000005/</link>
-			<description><![CDATA[　どうすればイノベーションできるか――。世界中の経営学者が研究を重ねた結果、「世界標準」とも言える理論が構築されつつある。強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」が2016年7月22日に開催した定例会議で早稲田大学ビジネススクール准教授の入山章栄氏が講演した。]]></description>
-			<pubDate>Mon, 17 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>伝えやすいカルチャーを作る、働き方改革の第一歩（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/033000003/</link>
-			<description><![CDATA[　働く母親の姿は、子供を育てる。それはいつの時代も変わらない。アクセンチュアの小野砂知子氏は、そのことを最近実感している。]]></description>
-			<pubDate>Mon, 17 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>「G Suite」対「Office 365」、激化する競争の行方は（上）（「G Suite」対「Office 365」、激化する競争の行方は）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/041200029/041200001/</link>
 			<description><![CDATA[<div>
@@ -382,6 +327,63 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 17 Apr 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>DeNAとヤマト運輸がオンデマンド宅配実験、18年中に自動運転も（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041701164/</link>
+			<description><![CDATA[　ディー・エヌ・エー（DeNA）とヤマト運輸は2017年4月16日、消費者が指定した日時や場所に荷物を配達するオンデマンド型の宅配サービス「ロボネコヤマト」の実証実験を、神奈川県藤沢市で17日から約1年間実施すると発表した。当初は友人運転の実験車両だが、2018年をめどに一部の配送区間で自動運転車を導入する計画だ。]]></description>
+			<pubDate>Mon, 17 Apr 2017 09:43:48 +0900</pubDate>
+		</item>
+		<item>
+			<title>Facebook、スパムや偽ニュースを生成する不正アカウントを特定（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041701165/</link>
+			<description><![CDATA[　米Facebookは現地時間2017年4月15日、不正行為を特定するシステムの強化により、広範なスパム活動を行ったアカウントを特定したと発表した。また4月13日には、フランスで3万以上の偽アカウントに対処したことを明らかにした。]]></description>
+			<pubDate>Mon, 17 Apr 2017 09:50:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スマートシティ向けIoT機器、今後10年で出荷台数は6倍に（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041700358/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　英市場調査会社IHS Markitの最新の予測によると、スマートシティの「スマート」の部分を開花させるIoTデバイスは、今後10年で6倍に増える見通しだ。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041700358/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　スマートシティでは、センサーやノードなどのIoTデバイスが、歩行者の流れや交通の検知、水質や大気汚染の測定などを担う。IHS Markitが2017年4月13日に発表したレポートによると、こうしたスマートシティ向けデバイスの世界全体での出荷台数は、2017年の2億200万台から、2026年には14億台まで増える。
+</p>
+<p>
+　IHS MarkitでスマートシティとIoTを担当するシニアアナリストで、今回のレポートの著者であるPablo Tomasi氏は次のように述べている。「スマートシティ市場の成長は続く。現在は断片化した状態にあるものの、すべてのプレーヤーに大きなチャンスがある」
+</p>
+<p>
+　「断片化」という言葉でTomasi氏が表しているのは、多種多様なプロジェクトの開発が世界中で進んでいることと、テクノロジー、各市場区分の参画企業、提供されている都市サービスの顔ぶれが多彩であることだ。
+</p>
+<p>
+　「範囲や規模、業種がさまざまに異なるプロジェクトが数多くあり、スマートシティはその中心に位置している。ただし、ソリューション、モデル、結果のテストが市場で続く中で、現在も依然として、パイロットプロジェクトが一般的だ」とTomasi氏は言う。
+</p>
+<p>
+　米IDCや米Gartnerなど、他の市場調査会社のアナリストも、Tomasi氏と同様の見方を示している。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041700358/?ST=cm-hardware&P=2">また、2017年2月に開催された「MobileWorldCong...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041700358/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041700358/?ST=cm-hardware&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041700358/?ST=cm-hardware&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041700358/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 17 Apr 2017 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
