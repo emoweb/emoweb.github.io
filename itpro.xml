@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>企業Webサイトに導入必須なHTTP/2の正体（検証！HTTP/2）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200137/041200001/</link>
+			<description><![CDATA[　インターネット上で広く使われているWebの基本プロトコルHTTP（Hyper Text Transfer Protocol）の最新版が2015年2月に正式な仕様として承認された「HTTP/2」だ。それまでの使われてきたHTTP/1.1から16年ぶりの改訂となった新仕様の主たる目的は高速化だ。]]></description>
+			<pubDate>Mon, 17 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>社内で技術に一番疎いのはIT部門、用済みへのカウントダウンが聞こえる（木村岳史の極言暴論！）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/041300135/</link>
 			<description><![CDATA[　大企業のIT部門のマネジャーに会った時のこと。「最新技術をシステムに生かさないのかって？ そんなの単なる自己満足。まずはエンドユーザーの視点に立たなきゃ」。その人はそうまくし立てた。それは、あまりに“懐かしい”反応だった。]]></description>
@@ -53,15 +59,15 @@
 			<pubDate>Mon, 17 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>［みずほFG］橋渡し人材がセキュリティの現場と経営の距離縮める（百社百様、我が社のCSIRT）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/080500167/041400009/</link>
-			<description><![CDATA[　みずほフィナンシャルグループがCSIRT「Mizuho Cyber Incident Response Team（Mizuho-CIRT）」を発足したのは2012年11月。発足と同時にCSIRTの集まりである日本コンピュータセキュリティインシデント対応チーム協議会（日本シーサート協議会、NCA）に加盟した。]]></description>
+			<title>営業事務センターにロボット、業務量1.2倍でも要員3割減（密着！オフィスロボ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200138/041200001/</link>
+			<description><![CDATA[　「午後6時だった終業時間を5時20分に変更」。オリックス・ビジネスセンター沖縄は、オフィスワークの見える化と改善を8年にわたり繰り返すことで、2015年4月、就業時間を短縮した。]]></description>
 			<pubDate>Mon, 17 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>企業Webサイトに導入必須なHTTP/2の正体（検証！HTTP/2）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200137/041200001/</link>
-			<description><![CDATA[　インターネット上で広く使われているWebの基本プロトコルHTTP（Hyper Text Transfer Protocol）の最新版が2015年2月に正式な仕様として承認された「HTTP/2」だ。それまでの使われてきたHTTP/1.1から16年ぶりの改訂となった新仕様の主たる目的は高速化だ。]]></description>
+			<title>IT企業幹部、「売れっ子」時代到来か！？（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041100929/</link>
+			<description><![CDATA[　IT企業の経営幹部がユーザー企業の幹部へと転身する動きが目立ってきた。象徴といえるのが、2017年4月1日付で日本マイクロソフト執行役員会長からパナソニック専務役員に転じた樋口泰行氏。6月29日の株主総会で代表取締役にも就く予定だ。]]></description>
 			<pubDate>Mon, 17 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -83,15 +89,9 @@
 			<pubDate>Mon, 17 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>営業事務センターにロボット、業務量1.2倍でも要員3割減（密着！オフィスロボ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200138/041200001/</link>
-			<description><![CDATA[　「午後6時だった終業時間を5時20分に変更」。オリックス・ビジネスセンター沖縄は、オフィスワークの見える化と改善を8年にわたり繰り返すことで、2015年4月、就業時間を短縮した。]]></description>
-			<pubDate>Mon, 17 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IT企業幹部、「売れっ子」時代到来か！？（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041100929/</link>
-			<description><![CDATA[　IT企業の経営幹部がユーザー企業の幹部へと転身する動きが目立ってきた。象徴といえるのが、2017年4月1日付で日本マイクロソフト執行役員会長からパナソニック専務役員に転じた樋口泰行氏。6月29日の株主総会で代表取締役にも就く予定だ。]]></description>
+			<title>［みずほFG］橋渡し人材がセキュリティの現場と経営の距離縮める（百社百様、我が社のCSIRT）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/080500167/041400009/</link>
+			<description><![CDATA[　みずほフィナンシャルグループがCSIRT「Mizuho Cyber Incident Response Team（Mizuho-CIRT）」を発足したのは2012年11月。発足と同時にCSIRTの集まりである日本コンピュータセキュリティインシデント対応チーム協議会（日本シーサート協議会、NCA）に加盟した。]]></description>
 			<pubDate>Mon, 17 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -228,6 +228,12 @@
 			<pubDate>Mon, 17 Apr 2017 21:39:06 +0900</pubDate>
 		</item>
 		<item>
+			<title>日陰の運用業務、クラウド導入で脚光浴びる（クラウドの新常識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300007/</link>
+			<description><![CDATA[　インフラの導入を短期化するメリットがあるクラウド。クラウドの導入が進むとITベンダー側の担当者の役割が大きく変わってくる。]]></description>
+			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>米500 Startupsが日本に本格上陸、「日本版シリコンバレーを作る」（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041700936/</link>
 			<description><![CDATA[　米有力ベンチャーキャピタル（VC）の500 Startupsが日本の起業家育成に本腰を入れる。神戸市と組んで「500 Startups Kobe Accelerator」を開催する。国内大手が開催する育成プログラムとどう違うのか、同VCのパートナーであるZafer Younis氏に聞いた。]]></description>
@@ -258,9 +264,9 @@
 			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>日陰の運用業務、クラウド導入で脚光浴びる（クラウドの新常識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300007/</link>
-			<description><![CDATA[　インフラの導入を短期化するメリットがあるクラウド。クラウドの導入が進むとITベンダー側の担当者の役割が大きく変わってくる。]]></description>
+			<title>間違った設計が起こす“逆”保守性向上（古いシステムの捨て方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/041000005/</link>
+			<description><![CDATA[　今回から、基幹系システムの再構築の現場を保守性の観点で見てきた筆者らが、保守性の向上が実現されない理由と、それを実現するための技法を紹介する。]]></description>
 			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -324,16 +330,42 @@
 			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>間違った設計が起こす“逆”保守性向上（古いシステムの捨て方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/041000005/</link>
-			<description><![CDATA[　今回から、基幹系システムの再構築の現場を保守性の観点で見てきた筆者らが、保守性の向上が実現されない理由と、それを実現するための技法を紹介する。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>赤いiPhoneの美しさに現ユーザーの“恨み節”が聞こえる（戸田覚のIT辛口研究所）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/040400112/</link>
 			<description><![CDATA[　iPhoneに新モデルが登場した。いや、新モデルと言ってもカラーバリエーションが追加されただけだ。iPhone以外のスマホでも新色が追加されることは珍しくないが、あまり話題にならない。iPhoneはカラバリが増えただけで一般のニュースにもなるのだから、凄まじい人気である。]]></description>
 			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIと機械学習の課題に対するMicrosoftの展望は（前）（AIと機械学習の課題に対するMicrosoftの展望は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/041200030/041200001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Microsoft、米Google、米IBMは、人工知能（AI）と機械学習（ML）を早期導入する企業を獲得するうえで、難しい問題に直面している。筆者は、米MIT Technology Review誌が2017年3月末に開催したカンファレンス「EmTech Digital」の際に、MicrosoftでAI研究を担当するコーポレートバイスプレジデントのPeter Lee氏から話を聞いた。Lee氏は、直面する問題にMicrosoftが今後どのように対処していくかという一端を明らかにした。
+</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/041200030/041200001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>
+　Lee氏はまず、MicrosoftのSatya Nadella CEO（最高経営責任者）に対して行ったのと同じ説明から入った。元リサーチエンジニアのNadella氏は、技術について手取り足取り説明してもらう必要はないものの、MicrosoftのAI部門の管轄下に入る業種の未来を動かしていくために使うフレームワークは理解する必要がある。Microsoftが新設したAI部門は大きな賭けだ。同社の4分の1にあたる6000人の社員が所属し、医療、教育、自動車、金融、小売など、主要な業界の事業が含まれる。AIの未来に対する実に大きな賭けである。
+</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041200030/041200001/?ST=cm-software&P=2">AIを3階層に分類</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041200030/041200001/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041200030/041200001/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041200030/041200001/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041200030/041200001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 18 Apr 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
