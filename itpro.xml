@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>NSAの監視ツール情報が新たに流出、「脆弱性は修正済み」とMicrosoft（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041701168/</link>
-			<description><![CDATA[　米Microsoftは現地時間2017年4月14日、「Shadow Brokers」を名乗るハッキンググループによって公開された攻撃手法が悪用するWindowsの脆弱性は、ほとんどが修正済みだと発表した。同社は最新バージョンへのアップデートをユーザーに呼びかけている。]]></description>
-			<pubDate>Mon, 17 Apr 2017 11:20:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Alphabetの生命科学事業がスマートウオッチを発表、医療研究に特化（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041701169/</link>
 			<description><![CDATA[　米Googleの親会社である米Alphabetの生命科学事業、米Verily Life Sciencesは現地時間2017年4月14日、医療研究用のスマートウオッチ「Verily Study Watch」を発表した。]]></description>
@@ -39,6 +33,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041701173/</link>
 			<description><![CDATA[　米マカフィーは2017年4月17日、同社が注目するセキュリティ関連の事件や、四半期ごとの脅威レポートについての説明会を開催した。米マカフィーのスコット・ジャーコフ氏は、「東京オリンピック・パラリンピックの会場となる日本は、今後標的になる恐れがある」とし、セキュリティ強化の必要性を強調した。]]></description>
 			<pubDate>Mon, 17 Apr 2017 21:39:06 +0900</pubDate>
+		</item>
+		<item>
+			<title>1500億円集めたVRベンチャーの謎（瀧口範子のシリコンバレー通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/041700097/</link>
+			<description><![CDATA[　バーチャルリアリティー（VR）流行の中で、まだかまだかと製品の発表が待たれる企業がある。既に13億9000万ドル（約1500億円）もの巨額の資金を集めたスタートアップの米Magic Leapだ。遅れる製品発表に、風呂敷を広げすぎではとの疑念も高まっている。]]></description>
+			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>赤いiPhoneの美しさに現ユーザーの“恨み節”が聞こえる（戸田覚のIT辛口研究所）</title>
@@ -71,9 +71,9 @@
 			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>1500億円集めたVRベンチャーの謎（瀧口範子のシリコンバレー通信）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/041700097/</link>
-			<description><![CDATA[　バーチャルリアリティー（VR）流行の中で、まだかまだかと製品の発表が待たれる企業がある。既に13億9000万ドル（約1500億円）もの巨額の資金を集めたスタートアップの米Magic Leapだ。遅れる製品発表に、風呂敷を広げすぎではとの疑念も高まっている。]]></description>
+			<title>4万円台のSIMフリータブレット「ZenPad 3S 10 LTE」はiPad対抗の大本命？（タブレット 2017春）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041300142/041300001/</link>
+			<description><![CDATA[　ASUSの「ZenPad 3S 10 LTE」は、9.7型のSIMフリーAndroidタブレット。大容量バッテリー、高解像度の液晶画面、LTE通信機能などを搭載しながら、税別の実勢価格は約4万3000円。コストパフォーマンスの高い製品だといえる。]]></description>
 			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,15 +89,15 @@
 			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>弱い人脈を持った“チャラ男”、イノベーションの鍵握る（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041000006/</link>
-			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年7月22日開催の定例会議では、早稲田大学ビジネススクール准教授の入山章栄氏が講演した。キーワードは「弱い人脈」。]]></description>
+			<title>頭を悩ませるIoTセキュリティ、業界をまたいだ指針づくりが始まる（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041300822/</link>
+			<description><![CDATA[　筆者は最近、IoT（インターネット・オブ・シングズ）をテーマとした日経コンピュータの特集に、執筆チームの1人として関わった。同特集でテーマの一つとなったのが、IoTのセキュリティ対策だ。]]></description>
 			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>4万円台のSIMフリータブレット「ZenPad 3S 10 LTE」はiPad対抗の大本命？（タブレット 2017春）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041300142/041300001/</link>
-			<description><![CDATA[　ASUSの「ZenPad 3S 10 LTE」は、9.7型のSIMフリーAndroidタブレット。大容量バッテリー、高解像度の液晶画面、LTE通信機能などを搭載しながら、税別の実勢価格は約4万3000円。コストパフォーマンスの高い製品だといえる。]]></description>
+			<title>成果を出しても会社は無視、つらすぎるIT担当者が目指す道（10人のIT部門が消滅～ひとり情シス顛末記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/041400015/</link>
+			<description><![CDATA[　10人いたIT部門が消滅し、たった一人で全社のIT環境を立て直した著者が、社内で何の評価も得られていないと知り、読者から「つらすぎる」との声が上がる。そんな“同情”の声に対して、著者は何と答えるのか。]]></description>
 			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -137,15 +137,9 @@
 			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>頭を悩ませるIoTセキュリティ、業界をまたいだ指針づくりが始まる（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041300822/</link>
-			<description><![CDATA[　筆者は最近、IoT（インターネット・オブ・シングズ）をテーマとした日経コンピュータの特集に、執筆チームの1人として関わった。同特集でテーマの一つとなったのが、IoTのセキュリティ対策だ。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>成果を出しても会社は無視、つらすぎるIT担当者が目指す道（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/041400015/</link>
-			<description><![CDATA[　10人いたIT部門が消滅し、たった一人で全社のIT環境を立て直した著者が、社内で何の評価も得られていないと知り、読者から「つらすぎる」との声が上がる。そんな“同情”の声に対して、著者は何と答えるのか。]]></description>
+			<title>弱い人脈を持った“チャラ男”、イノベーションの鍵握る（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041000006/</link>
+			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年7月22日開催の定例会議では、早稲田大学ビジネススクール准教授の入山章栄氏が講演した。キーワードは「弱い人脈」。]]></description>
 			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -254,6 +248,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041801181/</link>
 			<description><![CDATA[　経済産業省と大手コンビニエンスストア5社は2025年をめどに、国内全店舗で扱う全商品に、RFID技術を使ったICタグを導入する方針を固めた。レジ業務を効率化すると共に販売情報などと共有し、サプライチェーンを最適化できる仕組みづくりを目指す。]]></description>
 			<pubDate>Tue, 18 Apr 2017 12:56:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>ANAや電通など8社、セキュリティ強化に向けて55億円出資（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041801182/</link>
+			<description><![CDATA[　セキュリティ技術を提供するBlue Planet-worksは2017年4月18日、ANAホールディングスや電通などの国内企業8社から合計55億円を資金調達したと発表した。2017年6月よりセキュリティ製品の出荷を開始する予定。]]></description>
+			<pubDate>Tue, 18 Apr 2017 15:06:19 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
