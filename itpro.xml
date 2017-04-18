@@ -5,10 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：もう笑えないマイナンバーとマイナンバーカードの混同（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041200821/?d18</link>
-			<description><![CDATA[　世の中には、最後の一文字が違うだけで意味が全く異なる言葉がある。例えば、「被告」と「被告人」は使われる場面が違う。被告は民事訴訟で訴えられた側だ。被告人は、犯罪の嫌疑を受けて起訴された者で、こちらは刑事訴訟になる。]]></description>
-			<pubDate>Mon, 17 Apr 2017 05:00:00 +0900</pubDate>
+			<title>間違った設計が起こす“逆”保守性向上（古いシステムの捨て方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/041000005/</link>
+			<description><![CDATA[　今回から、基幹系システムの再構築の現場を保守性の観点で見てきた筆者らが、保守性の向上が実現されない理由と、それを実現するための技法を紹介する。]]></description>
+			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>大和ハウス、勤怠システムに「全業務」登録して残業削減（働き方改革最前線）</title>
@@ -95,18 +95,6 @@
 			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>スマートフォンで「Skype 翻訳」を使える日はいつ来るのか（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/041000102/</link>
-			<description><![CDATA[　マイクロソフトは2017年4月7日、Skypeで異なる言語でもリアルタイムに翻訳しながら会話できる「Skype 翻訳」が日本語に対応したと発表した。当初はパソコン向けに限られる。スマートフォンなどを活用し、いつでも音声によるリアルタイムな自動翻訳が利用できる日はいつ来るのだろうか。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>間違った設計が起こす“逆”保守性向上（古いシステムの捨て方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/041000005/</link>
-			<description><![CDATA[　今回から、基幹系システムの再構築の現場を保守性の観点で見てきた筆者らが、保守性の向上が実現されない理由と、それを実現するための技法を紹介する。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>日立はLumadaの実力を世界に示せるか（日立 東原改革の正体）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000133/041000003/</link>
 			<description><![CDATA[　日立製作所の東原敏昭社長兼CEO（最高経営責任者）が進める改革の成果を占う上で、外せないキーワードがある。「Lumada（ルマーダ）」だ。]]></description>
@@ -116,6 +104,12 @@
 			<title>米500 Startupsが日本に本格上陸、「日本版シリコンバレーを作る」（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041700936/</link>
 			<description><![CDATA[　米有力ベンチャーキャピタル（VC）の500 Startupsが日本の起業家育成に本腰を入れる。神戸市と組んで「500 Startups Kobe Accelerator」を開催する。国内大手が開催する育成プログラムとどう違うのか、同VCのパートナーであるZafer Younis氏に聞いた。]]></description>
+			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スマートフォンで「Skype 翻訳」を使える日はいつ来るのか（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/041000102/</link>
+			<description><![CDATA[　マイクロソフトは2017年4月7日、Skypeで異なる言語でもリアルタイムに翻訳しながら会話できる「Skype 翻訳」が日本語に対応したと発表した。当初はパソコン向けに限られる。スマートフォンなどを活用し、いつでも音声によるリアルタイムな自動翻訳が利用できる日はいつ来るのだろうか。]]></description>
 			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -266,6 +260,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041801189/</link>
 			<description><![CDATA[　東京急行電鉄は2017年4月18日、スタートアップ支援プログラムである「東急アクセラレートプログラム（TAP）2017」の第1回説明会を開催。同日から、交通やIoT・スマートホームなど全10分野の対象事業領域について、ベンチャー企業からの提案を募集する。]]></description>
 			<pubDate>Tue, 18 Apr 2017 21:52:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>東京エレクトロン、「おとり」によるセキュリティソリューションを販売へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041801190/</link>
+			<description><![CDATA[　東京エレクトロン デバイスは2017年4月18日、セキュリティ企業の米TrapX Security（以下TrapX）と販売代理店契約を結び、デコイ（おとり）を使った出口対策セキュリティソリューション「Deception GRID」を販売すると発表した。]]></description>
+			<pubDate>Tue, 18 Apr 2017 21:56:35 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
