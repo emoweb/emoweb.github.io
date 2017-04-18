@@ -5,152 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>間違った設計が起こす“逆”保守性向上（古いシステムの捨て方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/041000005/</link>
-			<description><![CDATA[　今回から、基幹系システムの再構築の現場を保守性の観点で見てきた筆者らが、保守性の向上が実現されない理由と、それを実現するための技法を紹介する。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>大和ハウス、勤怠システムに「全業務」登録して残業削減（働き方改革最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000135/041700006/</link>
-			<description><![CDATA[　大和ハウス工業は社員約1万5000人を対象に、勤怠のきめ細かい管理で長時間残業の削減を図っている。6年以上の取り組みで最も特徴的なのが、同社の勤怠システムにある「スケジュール登録」という項目だ。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「話が長い」と不満な上司、プロトタイピングと抽象化で簡潔に（脱・ザンネン社員）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/041300003/</link>
-			<description><![CDATA[　上司や顧客へ丁寧に説明しようと思うあまり、長々と話しすぎてはいないだろうか。丁寧な説明と長い説明は、必ずしもイコールではない。長すぎる説明は相手の不興を買う。相手の納得を得つつ簡潔に説明するには、開発生産性を高める「プロトタイピング」と、ものごとの概要を抜き出す「抽象化」のスキルを身に着けよう。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日陰の運用業務、クラウド導入で脚光浴びる（クラウドの新常識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300007/</link>
-			<description><![CDATA[　インフラの導入を短期化するメリットがあるクラウド。クラウドの導入が進むとITベンダー側の担当者の役割が大きく変わってくる。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>成果を出しても会社は無視、つらすぎるIT担当者が目指す道（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/041400015/</link>
-			<description><![CDATA[　10人いたIT部門が消滅し、たった一人で全社のIT環境を立て直した著者が、社内で何の評価も得られていないと知り、読者から「つらすぎる」との声が上がる。そんな“同情”の声に対して、著者は何と答えるのか。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>頭を悩ませるIoTセキュリティ、業界をまたいだ指針づくりが始まる（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041300822/</link>
-			<description><![CDATA[　筆者は最近、IoT（インターネット・オブ・シングズ）をテーマとした日経コンピュータの特集に、執筆チームの1人として関わった。同特集でテーマの一つとなったのが、IoTのセキュリティ対策だ。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>1500億円集めたVRベンチャーの謎（瀧口範子のシリコンバレー通信）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/041700097/</link>
-			<description><![CDATA[　バーチャルリアリティー（VR）流行の中で、まだかまだかと製品の発表が待たれる企業がある。既に13億9000万ドル（約1500億円）もの巨額の資金を集めたスタートアップの米Magic Leapだ。遅れる製品発表に、風呂敷を広げすぎではとの疑念も高まっている。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>セゾン情報システムズ、「質問さえできない雰囲気」をなくした（チャットファースト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000002/</link>
-			<description><![CDATA[　ITサービス準大手のセゾン情報システムズは経営改革の一環として、2016年5月からビジネスチャットの導入を進めている。改革の重要テーマの一つに掲げたのが「組織風土の改革」だ。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>赤いiPhoneの美しさに現ユーザーの“恨み節”が聞こえる（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/040400112/</link>
-			<description><![CDATA[　iPhoneに新モデルが登場した。いや、新モデルと言ってもカラーバリエーションが追加されただけだ。iPhone以外のスマホでも新色が追加されることは珍しくないが、あまり話題にならない。iPhoneはカラバリが増えただけで一般のニュースにもなるのだから、凄まじい人気である。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>データ活用の目玉、匿名加工情報はビジネスに使えるか（活用できる個人データの作り方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041300141/041600001/</link>
-			<description><![CDATA[　2017年5月30日、2015年改正個人情報保護法が全面施行となる。改正の狙いはプライバシーの保護と、個人データを扱うビジネスを両立することだ。第1回はデータ活用の目玉として新たに新設された「匿名加工情報」の使い方を解説する。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>1日4時間の単純作業に社長が悲鳴、そこでロボットが代行（密着！オフィスロボ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200138/041200002/</link>
-			<description><![CDATA[　人材サービスのウェルクスは、件当たり最低10分はかかるパソコン操作を、RPA（ロボティック・プロセス・オートメーション）の仕組みに代行させ、エラーが生じたときだけ担当者がチェックする。RPAは中堅中小企業にも広がっている。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>［SOMPO HD］橋渡し役に注力、現場の専門家はグローバルで外部調達（百社百様、我が社のCSIRT）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/080500167/041400010/</link>
-			<description><![CDATA[　国内外に子会社40社・連結従業員4万5972人を抱えるSOMPOホールディングスのセキュリティは8人で構成する「SOMPO HD CSIRT」が守っている。専門家不在でも大きな事故は起こっていない。橋渡し人材が現場と経営をうまくつないでいるからだ。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>弱い人脈を持った“チャラ男”、イノベーションの鍵握る（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041000006/</link>
-			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年7月22日開催の定例会議では、早稲田大学ビジネススクール准教授の入山章栄氏が講演した。キーワードは「弱い人脈」。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>4万円台のSIMフリータブレット「ZenPad 3S 10 LTE」はiPad対抗の大本命？（タブレット 2017春）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041300142/041300001/</link>
-			<description><![CDATA[　ASUSの「ZenPad 3S 10 LTE」は、9.7型のSIMフリーAndroidタブレット。大容量バッテリー、高解像度の液晶画面、LTE通信機能などを搭載しながら、税別の実勢価格は約4万3000円。コストパフォーマンスの高い製品だといえる。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Webの高速アクセスを1本のコネクションで実現（検証！HTTP/2）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200137/041200002/</link>
-			<description><![CDATA[　HTTP/2の正体を探るため、実際にどのようなやり取りをしているのかをパケットを見ながら確認して、その特徴を見ていこう。すると、TCPのコネクション数を大幅に減らしていることが分かった。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日立はLumadaの実力を世界に示せるか（日立 東原改革の正体）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000133/041000003/</link>
-			<description><![CDATA[　日立製作所の東原敏昭社長兼CEO（最高経営責任者）が進める改革の成果を占う上で、外せないキーワードがある。「Lumada（ルマーダ）」だ。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>米500 Startupsが日本に本格上陸、「日本版シリコンバレーを作る」（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041700936/</link>
-			<description><![CDATA[　米有力ベンチャーキャピタル（VC）の500 Startupsが日本の起業家育成に本腰を入れる。神戸市と組んで「500 Startups Kobe Accelerator」を開催する。国内大手が開催する育成プログラムとどう違うのか、同VCのパートナーであるZafer Younis氏に聞いた。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>スマートフォンで「Skype 翻訳」を使える日はいつ来るのか（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/041000102/</link>
-			<description><![CDATA[　マイクロソフトは2017年4月7日、Skypeで異なる言語でもリアルタイムに翻訳しながら会話できる「Skype 翻訳」が日本語に対応したと発表した。当初はパソコン向けに限られる。スマートフォンなどを活用し、いつでも音声によるリアルタイムな自動翻訳が利用できる日はいつ来るのだろうか。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIと機械学習の課題に対するMicrosoftの展望は（前）（AIと機械学習の課題に対するMicrosoftの展望は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/041200030/041200001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoft、米Google、米IBMは、人工知能（AI）と機械学習（ML）を早期導入する企業を獲得するうえで、難しい問題に直面している。筆者は、米MIT Technology Review誌が2017年3月末に開催したカンファレンス「EmTech Digital」の際に、MicrosoftでAI研究を担当するコーポレートバイスプレジデントのPeter Lee氏から話を聞いた。Lee氏は、直面する問題にMicrosoftが今後どのように対処していくかという一端を明らかにした。
-</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/041200030/041200001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>
-　Lee氏はまず、MicrosoftのSatya Nadella CEO（最高経営責任者）に対して行ったのと同じ説明から入った。元リサーチエンジニアのNadella氏は、技術について手取り足取り説明してもらう必要はないものの、MicrosoftのAI部門の管轄下に入る業種の未来を動かしていくために使うフレームワークは理解する必要がある。Microsoftが新設したAI部門は大きな賭けだ。同社の4分の1にあたる6000人の社員が所属し、医療、教育、自動車、金融、小売など、主要な業界の事業が含まれる。AIの未来に対する実に大きな賭けである。
-</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041200030/041200001/?ST=cm-software&P=2">AIを3階層に分類</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041200030/041200001/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041200030/041200001/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041200030/041200001/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041200030/041200001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 18 Apr 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Google、Android端末を巡る独占禁止訴訟でロシア当局と和解（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041801177/</link>
-			<description><![CDATA[　ロシアの連邦反独占庁（FAS）は現地時間2017年4月17日、米Googleに対する独占禁止法違反訴訟でGoogleと和解したと発表した。Googleは、ロシアのAndroid端末に競合の検索エンジンやアプリケーションをプリインストールできるようにすることなどで合意した。]]></description>
-			<pubDate>Tue, 18 Apr 2017 10:05:15 +0900</pubDate>
-		</item>
-		<item>
 			<title>インド政府が推進する電子決済、店頭での指紋決済に対応（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/041800318/</link>
 			<description><![CDATA[<div>
@@ -266,6 +120,121 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041801190/</link>
 			<description><![CDATA[　東京エレクトロン デバイスは2017年4月18日、セキュリティ企業の米TrapX Security（以下TrapX）と販売代理店契約を結び、デコイ（おとり）を使った出口対策セキュリティソリューション「Deception GRID」を販売すると発表した。]]></description>
 			<pubDate>Tue, 18 Apr 2017 21:56:35 +0900</pubDate>
+		</item>
+		<item>
+			<title>図解！東京センチュリー、三菱東京UFJ銀行のオフィスロボ（密着！オフィスロボ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200138/041200003/</link>
+			<description><![CDATA[　オフィスワークに潜むパソコンを使った定型作業の効率化に、RPAによるロボット化は役立つ。3回にわたって、導入企業のロボット適用事例を図解で紹介する。今回は、東京センチュリー、三菱東京UFJ銀行、三菱UFJ信託銀行、TMJの4社。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>イオンモバイルが初の専門店を八重洲にオープン、その狙いとは？（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/041700243/</link>
+			<description><![CDATA[　イオンリテールは2017年4月14日、格安SIMを展開する「イオンモバイル」初の専門店を、東京駅・八重洲地下街にオープンした。同じ八重洲地下街の別の店舗から移転した「AppBank Store」も併設する。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Android One（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/040400065/</link>
+			<description><![CDATA[　米グーグルとメーカーが協力して提供するスマートフォンの1ブランド。端末発売後18カ月間で最低1回のメジャーアップデートと、発売から最低2年間までの毎月のセキュリティアップデートが保証されている。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>LINE、社運賭けた音声AI「Clova」開発戦略の全貌を明かす（音声チャットボットの世界）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030700068/041700004/</link>
+			<description><![CDATA[　LINEは2017年3月2日、独自のクラウドAI（人工知能）基盤「Clova」の開発を発表した。2017年夏にはClova搭載のスマートスピーカー「WAVE」を日本と韓国で発売するほか、2017年冬にはスマートディスプレイ「FACE」の発売も予定している。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>［サイボウズ］CSIRTを出直し、5年でトップガン育成へ（百社百様、我が社のCSIRT）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/080500167/041800011/</link>
+			<description><![CDATA[　サイボウズは2011年8月、クラウド基盤「cybozu.com」を防御するため、CSIRTの「Cy-SIRT」を立ち上げた。2016年にCy-SIRTを改組し、全社のセキュリティを守るように役割を変えた。今は人材不足にあえぐが、5年計画の下、人材不足の解消とCSIRTの機能強化、そしてトップガン化を目指す。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>どう実現？JALのテレワークと残業削減（働き方改革最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000135/041800007/</link>
+			<description><![CDATA[　日本航空（JAL）は、東京・天王洲の本社に勤務する企画職を主な対象として「場所に縛られない働き方」と「残業半減」の二つの働き方改革に取り組んでいる。実現に向けて現場と人事部、経営トップの3者が連携し、複数の施策で改革を推進する。
+]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>3万円台になった新iPad、どんな人や用途なら「買い」か？（タブレット 2017春）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041300142/041700002/</link>
+			<description><![CDATA[　2017年3月に発表された「iPad」は、上位の「iPad Pro」と小型の「iPad mini 4」の中間を埋める機種である。従来のiPadより安価なのが魅力だ。最も低価格なWi-Fiモデルの32GBなら、3万7800円（税別の直販価格）で購入できる。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>追い込まれた富士通SPARCサーバー、最後の国産機は生き残れるか（北川 賢一のIT業界乱反射）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800200/041700017/</link>
+			<description><![CDATA[　前回の記事で、終焉に向かいつつある米インテルの64ビットプロセッサItaniumのことを書いた。そうしたら、驚いたことに、Itaniumと同じように消えゆく運命となりそうな国産64ビットRISCプロセッサと、それを搭載する世界最速の大型UNIXサーバーが富士通から発表された。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>若年層に人気のiPhone SE、次期iPhone 8は高級路線でいいのか（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/041600041/</link>
+			<description><![CDATA[　米アップルは2017年内に、1000ドルにも届くと言われる上位モデルの「iPhone 8」を発売するとの噂が広まっている。ディスプレーに有機ELを採用し、「iPhone 7 Plus」と同じようなサイズのきょう体にさらに大型のディスプレーを搭載するというモデルだ。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>今のインフラエンジニアは「プログラマ」だ（クラウドの新常識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300008/</link>
+			<description><![CDATA[　クラウド導入によってITエンジニアの業務内容が変わるのに伴い、ITエンジニアに求められるスキルも変わってくる。インフラエンジニアにはプログラミングの能力が欠かせなくなるなど、より上流へとシフトしていく]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ビースタイル、「会社を辞める」が減った（チャットファースト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000003/</link>
+			<description><![CDATA[　主婦に特化した「しゅふJOBスタッフィング」など、独自の人材派遣・求人サービスを提供するビースタイルはコミュニケーション活性化を軸とする改革を決意した。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>イノベーションの初手、古き良き“日本流”を復活（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041200007/</link>
+			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年7月22日開催の定例会議では、早稲田大学ビジネススクール准教授の入山章栄氏が講演。日本企業が忘れかけていることに目を向ければ、イノベーションはたやすい？]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>HTTP/2はどうしてコネクション一つで通信できるのか（検証！HTTP/2）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200137/041200003/</link>
+			<description><![CDATA[　HTTP/2ではレスポンスが帰ってくる前にリクエストを重ねて発行できる。そのために「ストリーム」と呼ぶ仮想的なパイクを用意する。どのレスポンスがどのリクエストと管理づけられているかを管理するためだ。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Android向けVPNアプリに情報漏洩リスク、安心して利用するためには？（ネットワーク・ホットトピックス）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/277462/041100057/</link>
+			<description><![CDATA[　オーストラリア連邦科学産業研究機構（CISRO）は2017年1月25日、Android向けVPNアプリの一部にプライバシー情報漏洩リスクが存在することについてブログで注意喚起した。調査対象の18%のアプリがデータを暗号化していなかったという。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>サイバーエージェント、「AbemaTV」黒字化へ布石（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041600933/</link>
+			<description><![CDATA[　サイバーエージェントが無料ネットテレビ「AbemaTV」の黒字化に向けて、着々と布石を打っている。主役は同社のエンジニア部門だ。2017年4月に見逃し視聴機能を追加。スマートフォンで見やすくするよう「縦持ち」視聴も可能にするなど、機能強化や品質改善を急ぐ。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソフトバンクがバンクを超える日（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041500823/</link>
+			<description><![CDATA[　ソフトバンクがその気になれば、銀行を凌ぐ金融サービス会社になれるのではないか――。筆者は最近、そんなことを考えている。同社のアプローチは、ある企業の成功と重なるものがある。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「IoTの提案力向上には2つの策がある」、日立社長（上）（日立 東原改革の正体）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000133/041800004/</link>
+			<description><![CDATA[　東芝が経営危機に瀕している今、日の丸・重電メーカーの代表として、日立製作所に対する期待はますます高まる。だが、米ゼネラル・エレクトリック（CE）や独シーメンスと伍していくには、IoTプラットフォーム事業のさらなる強化が必要だ。機構改革の狙いとIoT事業の強化策を東原敏昭社長兼CEO（最高経営責任者）が語る。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>本人の同意を得て個人データを流通、情報銀行の可能性を探る（活用できる個人データの作り方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041300141/041700002/</link>
+			<description><![CDATA[　前回は、本人の同意がなくてもビジネスでデータを活用できる「匿名加工情報」の扱い方を紹介した。それとは対照的に、あくまで本人の同意を得て個人データを流通させて活用できるようにする仕組みが「情報銀行」である。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>第15話  2つのタイプの質問を使いこなす（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/032300020/</link>
+			<description><![CDATA[　新入社員アキナの育成を、主任のアーサーに任せた舞子。だが、アーサーに今後の育成方針を尋ねても、何も答えられずにうつむいてしまう。「少しは先輩社員としての自覚を持って考えてほしいものだわ」とぼやく舞子だったが、ドラクエをプレイ中、自分の聞き方が適切でなかったことに気付いた。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
