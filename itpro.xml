@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：赤いiPhoneの美しさに現ユーザーの“恨み節”が聞こえる（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/040400112/?d19</link>
-			<description><![CDATA[　iPhoneに新モデルが登場した。いや、新モデルと言ってもカラーバリエーションが追加されただけだ。iPhone以外のスマホでも新色が追加されることは珍しくないが、あまり話題にならない。iPhoneはカラバリが増えただけで一般のニュースにもなるのだから、凄まじい人気である。]]></description>
-			<pubDate>Tue, 18 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ANAや電通など8社、セキュリティ強化に向けて55億円出資（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041801182/</link>
-			<description><![CDATA[　セキュリティ技術を提供するBlue Planet-worksは2017年4月18日、ANAホールディングスや電通などの国内企業8社から合計55億円を資金調達したと発表した。2017年6月よりセキュリティ製品の出荷を開始する予定。]]></description>
-			<pubDate>Tue, 18 Apr 2017 15:06:19 +0900</pubDate>
-		</item>
-		<item>
 			<title>ソースネクスト、家庭用プリンターで大判印刷できるソフト最新版（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041801183/</link>
 			<description><![CDATA[　ソースネクストは2017年4月18日、家庭用のA4プリンターで大判印刷できるソフト「ズバリ巨大プリント 2」を同日発売したと発表した。同社Webサイト上でダウンロード販売する。販売価格は3990円（税別）。]]></description>
@@ -59,6 +47,12 @@
 			<pubDate>Tue, 18 Apr 2017 21:56:35 +0900</pubDate>
 		</item>
 		<item>
+			<title>Android One（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/040400065/</link>
+			<description><![CDATA[　米グーグルとメーカーが協力して提供するスマートフォンの1ブランド。端末発売後18カ月間で最低1回のメジャーアップデートと、発売から最低2年間までの毎月のセキュリティアップデートが保証されている。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>イオンモバイルが初の専門店を八重洲にオープン、その狙いとは？（ITpro Report）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/041700243/</link>
 			<description><![CDATA[　イオンリテールは2017年4月14日、格安SIMを展開する「イオンモバイル」初の専門店を、東京駅・八重洲地下街にオープンした。同じ八重洲地下街の別の店舗から移転した「AppBank Store」も併設する。]]></description>
@@ -83,9 +77,9 @@
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Android One（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/040400065/</link>
-			<description><![CDATA[　米グーグルとメーカーが協力して提供するスマートフォンの1ブランド。端末発売後18カ月間で最低1回のメジャーアップデートと、発売から最低2年間までの毎月のセキュリティアップデートが保証されている。]]></description>
+			<title>LINE、社運賭けた音声AI「Clova」開発戦略の全貌を明かす（音声チャットボットの世界）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030700068/041700004/</link>
+			<description><![CDATA[　LINEは2017年3月2日、独自のクラウドAI（人工知能）基盤「Clova」の開発を発表した。2017年夏にはClova搭載のスマートスピーカー「WAVE」を日本と韓国で発売するほか、2017年冬にはスマートディスプレイ「FACE」の発売も予定している。]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,15 +95,15 @@
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ソフトバンクがバンクを超える日（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041500823/</link>
-			<description><![CDATA[　ソフトバンクがその気になれば、銀行を凌ぐ金融サービス会社になれるのではないか――。筆者は最近、そんなことを考えている。同社のアプローチは、ある企業の成功と重なるものがある。]]></description>
+			<title>HTTP/2はどうしてコネクション一つで通信できるのか（検証！HTTP/2）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200137/041200003/</link>
+			<description><![CDATA[　HTTP/2ではレスポンスが帰ってくる前にリクエストを重ねて発行できる。そのために「ストリーム」と呼ぶ仮想的なパイクを用意する。どのレスポンスがどのリクエストと管理づけられているかを管理するためだ。]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>LINE、社運賭けた音声AI「Clova」開発戦略の全貌を明かす（音声チャットボットの世界）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030700068/041700004/</link>
-			<description><![CDATA[　LINEは2017年3月2日、独自のクラウドAI（人工知能）基盤「Clova」の開発を発表した。2017年夏にはClova搭載のスマートスピーカー「WAVE」を日本と韓国で発売するほか、2017年冬にはスマートディスプレイ「FACE」の発売も予定している。]]></description>
+			<title>図解！東京センチュリー、三菱東京UFJ銀行のオフィスロボ（密着！オフィスロボ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200138/041200003/</link>
+			<description><![CDATA[　オフィスワークに潜むパソコンを使った定型作業の効率化に、RPAによるロボット化は役立つ。3回にわたって、導入企業のロボット適用事例を図解で紹介する。今回は、東京センチュリー、三菱東京UFJ銀行、三菱UFJ信託銀行、TMJの4社。]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -162,15 +156,9 @@
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>HTTP/2はどうしてコネクション一つで通信できるのか（検証！HTTP/2）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200137/041200003/</link>
-			<description><![CDATA[　HTTP/2ではレスポンスが帰ってくる前にリクエストを重ねて発行できる。そのために「ストリーム」と呼ぶ仮想的なパイクを用意する。どのレスポンスがどのリクエストと管理づけられているかを管理するためだ。]]></description>
-			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>図解！東京センチュリー、三菱東京UFJ銀行のオフィスロボ（密着！オフィスロボ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200138/041200003/</link>
-			<description><![CDATA[　オフィスワークに潜むパソコンを使った定型作業の効率化に、RPAによるロボット化は役立つ。3回にわたって、導入企業のロボット適用事例を図解で紹介する。今回は、東京センチュリー、三菱東京UFJ銀行、三菱UFJ信託銀行、TMJの4社。]]></description>
+			<title>ソフトバンクがバンクを超える日（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041500823/</link>
+			<description><![CDATA[　ソフトバンクがその気になれば、銀行を凌ぐ金融サービス会社になれるのではないか――。筆者は最近、そんなことを考えている。同社のアプローチは、ある企業の成功と重なるものがある。]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -261,6 +249,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041901193/</link>
 			<description><![CDATA[　米Appleは2017年に発売する次期iPhoneについて、さまざまなプロトタイプで試験を行っていると米Bloombergが現地時間2017年4月18日に伝えた。]]></description>
 			<pubDate>Wed, 19 Apr 2017 10:30:45 +0900</pubDate>
+		</item>
+		<item>
+			<title>IBMの17年Q1決算は売上高が市場予想を下回る、クラウドは好調（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041901195/</link>
+			<description><![CDATA[　米IBMが現地時間2017年4月18日に発表した同年第1四半期（1～3月）の決算は、売上高が181億5500万ドルで前年同期から2.8％減少し、20四半期連続の減収となった。]]></description>
+			<pubDate>Wed, 19 Apr 2017 11:28:04 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
