@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>ソースネクスト、家庭用プリンターで大判印刷できるソフト最新版（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041801183/</link>
-			<description><![CDATA[　ソースネクストは2017年4月18日、家庭用のA4プリンターで大判印刷できるソフト「ズバリ巨大プリント 2」を同日発売したと発表した。同社Webサイト上でダウンロード販売する。販売価格は3990円（税別）。]]></description>
-			<pubDate>Tue, 18 Apr 2017 17:42:51 +0900</pubDate>
-		</item>
-		<item>
 			<title>フリービット、クラウド型見守りサービスのOEM提供先を募集開始（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041801184/</link>
 			<description><![CDATA[　フリービットは2017年4月18日、個人利用から法人利用まで幅広い用途に対応するクラウド型見守りサービス「五感箱 ～SensorCube～」を発表した。同日から、同サービスのOEM提供および販売パートナーを募集開始した。フリービットは、同サービスのパートナー企業への提供を通じて、Health TechおよびIoTを市場におけるシェア拡大とサービス拡充を目指す。]]></description>
@@ -47,6 +41,12 @@
 			<pubDate>Tue, 18 Apr 2017 21:56:35 +0900</pubDate>
 		</item>
 		<item>
+			<title>LINE、社運賭けた音声AI「Clova」開発戦略の全貌を明かす（音声チャットボットの世界）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030700068/041700004/</link>
+			<description><![CDATA[　LINEは2017年3月2日、独自のクラウドAI（人工知能）基盤「Clova」の開発を発表した。2017年夏にはClova搭載のスマートスピーカー「WAVE」を日本と韓国で発売するほか、2017年冬にはスマートディスプレイ「FACE」の発売も予定している。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>Android One（Close Up Keyword）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/040400065/</link>
 			<description><![CDATA[　米グーグルとメーカーが協力して提供するスマートフォンの1ブランド。端末発売後18カ月間で最低1回のメジャーアップデートと、発売から最低2年間までの毎月のセキュリティアップデートが保証されている。]]></description>
@@ -77,9 +77,9 @@
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>LINE、社運賭けた音声AI「Clova」開発戦略の全貌を明かす（音声チャットボットの世界）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030700068/041700004/</link>
-			<description><![CDATA[　LINEは2017年3月2日、独自のクラウドAI（人工知能）基盤「Clova」の開発を発表した。2017年夏にはClova搭載のスマートスピーカー「WAVE」を日本と韓国で発売するほか、2017年冬にはスマートディスプレイ「FACE」の発売も予定している。]]></description>
+			<title>図解！東京センチュリー、三菱東京UFJ銀行のオフィスロボ（密着！オフィスロボ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200138/041200003/</link>
+			<description><![CDATA[　オフィスワークに潜むパソコンを使った定型作業の効率化に、RPAによるロボット化は役立つ。3回にわたって、導入企業のロボット適用事例を図解で紹介する。今回は、東京センチュリー、三菱東京UFJ銀行、三菱UFJ信託銀行、TMJの4社。]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>HTTP/2はどうしてコネクション一つで通信できるのか（検証！HTTP/2）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200137/041200003/</link>
-			<description><![CDATA[　HTTP/2ではレスポンスが帰ってくる前にリクエストを重ねて発行できる。そのために「ストリーム」と呼ぶ仮想的なパイクを用意する。どのレスポンスがどのリクエストと管理づけられているかを管理するためだ。]]></description>
+			<title>イノベーションの初手、古き良き“日本流”を復活（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041200007/</link>
+			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年7月22日開催の定例会議では、早稲田大学ビジネススクール准教授の入山章栄氏が講演。日本企業が忘れかけていることに目を向ければ、イノベーションはたやすい？]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>図解！東京センチュリー、三菱東京UFJ銀行のオフィスロボ（密着！オフィスロボ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200138/041200003/</link>
-			<description><![CDATA[　オフィスワークに潜むパソコンを使った定型作業の効率化に、RPAによるロボット化は役立つ。3回にわたって、導入企業のロボット適用事例を図解で紹介する。今回は、東京センチュリー、三菱東京UFJ銀行、三菱UFJ信託銀行、TMJの4社。]]></description>
+			<title>ソフトバンクがバンクを超える日（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041500823/</link>
+			<description><![CDATA[　ソフトバンクがその気になれば、銀行を凌ぐ金融サービス会社になれるのではないか――。筆者は最近、そんなことを考えている。同社のアプローチは、ある企業の成功と重なるものがある。]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -150,15 +150,9 @@
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>イノベーションの初手、古き良き“日本流”を復活（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041200007/</link>
-			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年7月22日開催の定例会議では、早稲田大学ビジネススクール准教授の入山章栄氏が講演。日本企業が忘れかけていることに目を向ければ、イノベーションはたやすい？]]></description>
-			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソフトバンクがバンクを超える日（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041500823/</link>
-			<description><![CDATA[　ソフトバンクがその気になれば、銀行を凌ぐ金融サービス会社になれるのではないか――。筆者は最近、そんなことを考えている。同社のアプローチは、ある企業の成功と重なるものがある。]]></description>
+			<title>HTTP/2はどうしてコネクション一つで通信できるのか（検証！HTTP/2）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200137/041200003/</link>
+			<description><![CDATA[　HTTP/2ではレスポンスが帰ってくる前にリクエストを重ねて発行できる。そのために「ストリーム」と呼ぶ仮想的なパイクを用意する。どのレスポンスがどのリクエストと管理づけられているかを管理するためだ。]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -255,6 +249,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041901195/</link>
 			<description><![CDATA[　米IBMが現地時間2017年4月18日に発表した同年第1四半期（1～3月）の決算は、売上高が181億5500万ドルで前年同期から2.8％減少し、20四半期連続の減収となった。]]></description>
 			<pubDate>Wed, 19 Apr 2017 11:28:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>Snapchatが新エフェクト、動画に3Dオブジェクトを追加可能に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041901197/</link>
+			<description><![CDATA[　フォトメッセージングサービス「Snapchat」を運営する米Snapは現地時間2017年4月18日、新たな加工フィルター「World Lenses」を発表した。]]></description>
+			<pubDate>Wed, 19 Apr 2017 12:41:21 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
