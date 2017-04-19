@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>NTTぷららと吉本興行、関西のテレビ局と連携し「大阪チャンネル」開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041801185/</link>
-			<description><![CDATA[　NTTぷららと吉本興業は2017年4月18日、関西のテレビ局と連携した映像配信サービス「大阪チャンネル」の提供を4月25日に開始すると発表した。]]></description>
-			<pubDate>Tue, 18 Apr 2017 17:58:36 +0900</pubDate>
-		</item>
-		<item>
 			<title>日テレNEWS24の無料ライブ配信を開始（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041801186/</link>
 			<description><![CDATA[　日本テレビ放送網は2017年4月18日、ニュース専門チャンネル「日テレNEWS24」のインターネットライブ配信を同日に開始したと発表した。]]></description>
@@ -33,6 +27,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041801190/</link>
 			<description><![CDATA[　東京エレクトロン デバイスは2017年4月18日、セキュリティ企業の米TrapX Security（以下TrapX）と販売代理店契約を結び、デコイ（おとり）を使った出口対策セキュリティソリューション「Deception GRID」を販売すると発表した。]]></description>
 			<pubDate>Tue, 18 Apr 2017 21:56:35 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソフトバンクがバンクを超える日（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041500823/</link>
+			<description><![CDATA[　ソフトバンクがその気になれば、銀行を凌ぐ金融サービス会社になれるのではないか――。筆者は最近、そんなことを考えている。同社のアプローチは、ある企業の成功と重なるものがある。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>第15話  2つのタイプの質問を使いこなす（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
@@ -71,9 +71,9 @@
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ソフトバンクがバンクを超える日（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/041500823/</link>
-			<description><![CDATA[　ソフトバンクがその気になれば、銀行を凌ぐ金融サービス会社になれるのではないか――。筆者は最近、そんなことを考えている。同社のアプローチは、ある企業の成功と重なるものがある。]]></description>
+			<title>HTTP/2はどうしてコネクション一つで通信できるのか（検証！HTTP/2）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200137/041200003/</link>
+			<description><![CDATA[　HTTP/2ではレスポンスが帰ってくる前にリクエストを重ねて発行できる。そのために「ストリーム」と呼ぶ仮想的なパイクを用意する。どのレスポンスがどのリクエストと管理づけられているかを管理するためだ。]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ビースタイル、「会社を辞める」が減った（チャットファースト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000003/</link>
-			<description><![CDATA[　主婦に特化した「しゅふJOBスタッフィング」など、独自の人材派遣・求人サービスを提供するビースタイルはコミュニケーション活性化を軸とする改革を決意した。]]></description>
+			<title>今のインフラエンジニアは「プログラマ」だ（クラウドの新常識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300008/</link>
+			<description><![CDATA[　クラウド導入によってITエンジニアの業務内容が変わるのに伴い、ITエンジニアに求められるスキルも変わってくる。インフラエンジニアにはプログラミングの能力が欠かせなくなるなど、より上流へとシフトしていく]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>HTTP/2はどうしてコネクション一つで通信できるのか（検証！HTTP/2）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200137/041200003/</link>
-			<description><![CDATA[　HTTP/2ではレスポンスが帰ってくる前にリクエストを重ねて発行できる。そのために「ストリーム」と呼ぶ仮想的なパイクを用意する。どのレスポンスがどのリクエストと管理づけられているかを管理するためだ。]]></description>
+			<title>イノベーションの初手、古き良き“日本流”を復活（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041200007/</link>
+			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年7月22日開催の定例会議では、早稲田大学ビジネススクール准教授の入山章栄氏が講演。日本企業が忘れかけていることに目を向ければ、イノベーションはたやすい？]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -138,15 +138,9 @@
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>今のインフラエンジニアは「プログラマ」だ（クラウドの新常識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300008/</link>
-			<description><![CDATA[　クラウド導入によってITエンジニアの業務内容が変わるのに伴い、ITエンジニアに求められるスキルも変わってくる。インフラエンジニアにはプログラミングの能力が欠かせなくなるなど、より上流へとシフトしていく]]></description>
-			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>イノベーションの初手、古き良き“日本流”を復活（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041200007/</link>
-			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年7月22日開催の定例会議では、早稲田大学ビジネススクール准教授の入山章栄氏が講演。日本企業が忘れかけていることに目を向ければ、イノベーションはたやすい？]]></description>
+			<title>ビースタイル、「会社を辞める」が減った（チャットファースト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000003/</link>
+			<description><![CDATA[　主婦に特化した「しゅふJOBスタッフィング」など、独自の人材派遣・求人サービスを提供するビースタイルはコミュニケーション活性化を軸とする改革を決意した。]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -255,6 +249,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041901198/</link>
 			<description><![CDATA[　丸紅は、発電所の運用コスト削減のため米ゼネラル・エレクトリック（GE）が提供するIoT（インターネット・オブ・シングズ）システム基盤「Predix」を導入する。]]></description>
 			<pubDate>Wed, 19 Apr 2017 13:21:05 +0900</pubDate>
+		</item>
+		<item>
+			<title>2017年はIT部門のターニングポイント、JUASが「企業IT動向調査2017」報告会開催（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041901199/</link>
+			<description><![CDATA[　日本情報システム・ユーザー協会（JUAS）は2017年4月19日、「企業IT動向調査2017」の報告会を開催した。JUASの宮下清常務理事は「ビジネスのデジタル化に向けIT部門が挑戦している姿が浮かび上がった」と調査結果を総評する。]]></description>
+			<pubDate>Wed, 19 Apr 2017 13:41:50 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
