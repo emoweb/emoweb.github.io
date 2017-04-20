@@ -11,6 +11,18 @@
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>次世代宅配「ロボネコヤマト」始動、配達員不足解消の切り札となるか（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041900939/</link>
+			<description><![CDATA[　宅配便最大手のヤマト運輸とディー・エヌ・エー（DeNA）が開発する次世代の宅配便サービス「ロボネコヤマト」。2017年4月17日からの実験では、10分刻みで配達時間を指定し任意の場所で荷物を受け取れる。2018年中をめどに自動運転技術も導入する方針。荷物の急増と運転手の人手不足という宅配サービスの課題の解消を目指す。]]></description>
+			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Java SE 9のProject Kulla、コンソールアプリケーションのためのJLine（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/041800036/</link>
+			<description><![CDATA[　これまで5回に渡ってProject Kullaが提供しているJShellについて紹介してきました。今回は少し趣向を変えて、JShellが使用しているライブラリーのJLineを紹介します。]]></description>
+			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>違反すると多額の制裁金、EUプライバシー保護規制との付き合い方（活用できる個人データの作り方）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041300141/041800003/</link>
 			<description><![CDATA[　改正個人情報保護法と並んで、欧州に拠点を持つ日本企業が対応を迫られているのが2018年5月25日から施行される予定の「EU一般データ保護規則（GDPR）」である。データ保護機関が企業に対して頻繁に制裁金を科している点が、日本との大きな違いだ。]]></description>
@@ -47,9 +59,9 @@
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>次世代宅配「ロボネコヤマト」始動、配達員不足解消の切り札となるか（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/041900939/</link>
-			<description><![CDATA[　宅配便最大手のヤマト運輸とディー・エヌ・エー（DeNA）が開発する次世代の宅配便サービス「ロボネコヤマト」。2017年4月17日からの実験では、10分刻みで配達時間を指定し任意の場所で荷物を受け取れる。2018年中をめどに自動運転技術も導入する方針。荷物の急増と運転手の人手不足という宅配サービスの課題の解消を目指す。]]></description>
+			<title>玄人もハマるネットワークループの罠（編集長の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/041300031/</link>
+			<description><![CDATA[　「ネットワークトラブルはなくならない。そして繰り返す」。その最たるものがネットワークループだ。ネットワークエンジニアの誰もが一度は経験するトラブルといっても過言ではない。]]></description>
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -110,18 +122,6 @@
 			<title>高速HTTP/2通信の利用には“スイッチ”が必要（検証！HTTP/2）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200137/041200004/</link>
 			<description><![CDATA[　Webサーバーは既存のHTTP/1.0やHTTP/1.1との互換性も確保し続けなければいけない。このため、対応しているWebサーバーであっても、HTTP/2で通信するにはどこかで「ここからHTTP/2でやり取りしますよ」というスイッチを明示する必要がある。]]></description>
-			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Java SE 9のProject Kulla、コンソールアプリケーションのためのJLine（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/041800036/</link>
-			<description><![CDATA[　これまで5回に渡ってProject Kullaが提供しているJShellについて紹介してきました。今回は少し趣向を変えて、JShellが使用しているライブラリーのJLineを紹介します。]]></description>
-			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>玄人もハマるネットワークループの罠（編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/041300031/</link>
-			<description><![CDATA[　「ネットワークトラブルはなくならない。そして繰り返す」。その最たるものがネットワークループだ。ネットワークエンジニアの誰もが一度は経験するトラブルといっても過言ではない。]]></description>
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -299,10 +299,22 @@
 			<pubDate>Thu, 20 Apr 2017 19:22:13 +0900</pubDate>
 		</item>
 		<item>
+			<title>レッドハットが事業戦略を発表、プライベートクラウドに成長余地あり（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042001225/</link>
+			<description><![CDATA[　レッドハット日本法人は2017年4月20日、新年度（2017年3月～2018年2月）の事業戦略を発表した。より成長の見込まれるクラウド事業を強化する。]]></description>
+			<pubDate>Thu, 20 Apr 2017 19:37:34 +0900</pubDate>
+		</item>
+		<item>
 			<title>日本HPが法人ノートPC新製品、プライバシーフィルターやスマホ連動ロックなど（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042001226/</link>
 			<description><![CDATA[　日本HPは2017年4月20日、東京都江東区の本社で法人向けPCのセキュリティ機能とPC新製品についての発表会を開催した。]]></description>
 			<pubDate>Thu, 20 Apr 2017 20:48:05 +0900</pubDate>
+		</item>
+		<item>
+			<title>カスペルスキーがITインフラ全体を監視できるソリューション、機械学習を活用（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042001227/</link>
+			<description><![CDATA[　カスペルスキーは2017年4月20日、同社のスレットインテリジェンスと人工知能（AI）の機械学習機能を活用し、企業や組織のITインフラ全体を総合的に監視する「Kaspersky Anti Targeted Attack Platform」の提供を開始したと発表した。]]></description>
+			<pubDate>Thu, 20 Apr 2017 21:38:08 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
