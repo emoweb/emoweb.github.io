@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>バッファロー、幅広いOSに対応するBluetooth 3.0対応モバイルキーボード（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041901203/</link>
-			<description><![CDATA[　バッファローは2017年4月19日、パソコン、スマホ・タブレットで幅広く使われるBluetooth 3.0に対応したモバイルワイヤレスキーボード「BSKBB500BK」を5月上旬から順次発売すると発表した。価格はオープン、予想実勢価格は6458円前後（税込み）。]]></description>
-			<pubDate>Wed, 19 Apr 2017 17:29:49 +0900</pubDate>
-		</item>
-		<item>
-			<title>アイ・オー・データ機器、マルチホップに対応したPLCアダプター（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041901204/</link>
-			<description><![CDATA[　アイ・オー・データ機器は2017年4月19日、端末同士が中継することで広いカバーエリアで安定性の高い通信が行える「HD-PLC」マルチホップに対応したPLCアダプター「PLC-HM240E」を同日から受注開始したと発表した。M2M通信などの用途に向く。]]></description>
-			<pubDate>Wed, 19 Apr 2017 17:35:40 +0900</pubDate>
-		</item>
-		<item>
 			<title>NEC、UPSを内蔵する小型サーバーを発売（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041901201/</link>
 			<description><![CDATA[　NECは2017年4月19日、同社のIAサーバ「Express5800シリーズ」の新製品「Express5800/T110i-S」を発売した。]]></description>
@@ -39,6 +27,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041901207/</link>
 			<description><![CDATA[　2017年4月19日、ソフトバンクグループがインドのモバイル決済大手「Paytm」の運営会社に10億ドル（約1100億円）超を出資する交渉に入ったと、英ロイターや英フィナンシャル・タイムズなど、複数の海外メディアが報じた。]]></description>
 			<pubDate>Wed, 19 Apr 2017 22:15:15 +0900</pubDate>
+		</item>
+		<item>
+			<title>「AirPods」の音楽再生はWi-Fiとの電波干渉で途切れるのか？（Wi-Fiのウソとホントを実証）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/041700016/</link>
+			<description><![CDATA[　ふと「AirPodsとiPhone 7を接続して音楽を聴いているとき、どんな感じで電波が出ているのだろう」ということが気になった。そこで、ラボで電波を可視化してみることにした。]]></description>
+			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「グローバル野武士集団を目指す」、日立社長（中）（日立 東原改革の正体）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000133/041800005/</link>
+			<description><![CDATA[　日立製作所が売上高10兆円を達成するには、オーガニックグロースだけでは難しく、M＆A（合併・買収）が不可欠である。日立製作所の東原敏昭社長兼CEO（最高経営責任者）が考えるM＆Aの方針とは。]]></description>
+			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ハードを知らないインフラエンジニアが増殖中（クラウドの新常識）</title>
@@ -71,9 +71,9 @@
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「AirPods」の音楽再生はWi-Fiとの電波干渉で途切れるのか？（Wi-Fiのウソとホントを実証）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/041700016/</link>
-			<description><![CDATA[　ふと「AirPodsとiPhone 7を接続して音楽を聴いているとき、どんな感じで電波が出ているのだろう」ということが気になった。そこで、ラボで電波を可視化してみることにした。]]></description>
+			<title>Java SE 9のProject Kulla、コンソールアプリケーションのためのJLine（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/041800036/</link>
+			<description><![CDATA[　これまで5回に渡ってProject Kullaが提供しているJShellについて紹介してきました。今回は少し趣向を変えて、JShellが使用しているライブラリーのJLineを紹介します。]]></description>
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>違反すると多額の制裁金、EUプライバシー保護規制との付き合い方（活用できる個人データの作り方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041300141/041800003/</link>
-			<description><![CDATA[　改正個人情報保護法と並んで、欧州に拠点を持つ日本企業が対応を迫られているのが2018年5月25日から施行される予定の「EU一般データ保護規則（GDPR）」である。データ保護機関が企業に対して頻繁に制裁金を科している点が、日本との大きな違いだ。]]></description>
+			<title>3rd、「プロジェクトが破滅する」を早期に察知（チャットファースト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000004/</link>
+			<description><![CDATA[　通販サイトの企画・構築を手掛ける3rdは、プロジェクトの問題点を早い段階で察知し、破綻の危険から救おうという発想でチャットソフトを活用している。]]></description>
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Java SE 9のProject Kulla、コンソールアプリケーションのためのJLine（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/041800036/</link>
-			<description><![CDATA[　これまで5回に渡ってProject Kullaが提供しているJShellについて紹介してきました。今回は少し趣向を変えて、JShellが使用しているライブラリーのJLineを紹介します。]]></description>
+			<title>玄人もハマるネットワークループの罠（編集長の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/041300031/</link>
+			<description><![CDATA[　「ネットワークトラブルはなくならない。そして繰り返す」。その最たるものがネットワークループだ。ネットワークエンジニアの誰もが一度は経験するトラブルといっても過言ではない。]]></description>
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -137,21 +137,9 @@
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>3rd、「プロジェクトが破滅する」を早期に察知（チャットファースト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000004/</link>
-			<description><![CDATA[　通販サイトの企画・構築を手掛ける3rdは、プロジェクトの問題点を早い段階で察知し、破綻の危険から救おうという発想でチャットソフトを活用している。]]></description>
-			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>玄人もハマるネットワークループの罠（編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/041300031/</link>
-			<description><![CDATA[　「ネットワークトラブルはなくならない。そして繰り返す」。その最たるものがネットワークループだ。ネットワークエンジニアの誰もが一度は経験するトラブルといっても過言ではない。]]></description>
-			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「グローバル野武士集団を目指す」、日立社長（中）（日立 東原改革の正体）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000133/041800005/</link>
-			<description><![CDATA[　日立製作所が売上高10兆円を達成するには、オーガニックグロースだけでは難しく、M＆A（合併・買収）が不可欠である。日立製作所の東原敏昭社長兼CEO（最高経営責任者）が考えるM＆Aの方針とは。]]></description>
+			<title>違反すると多額の制裁金、EUプライバシー保護規制との付き合い方（活用できる個人データの作り方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041300141/041800003/</link>
+			<description><![CDATA[　改正個人情報保護法と並んで、欧州に拠点を持つ日本企業が対応を迫られているのが2018年5月25日から施行される予定の「EU一般データ保護規則（GDPR）」である。データ保護機関が企業に対して頻繁に制裁金を科している点が、日本との大きな違いだ。]]></description>
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -257,10 +245,22 @@
 			<pubDate>Thu, 20 Apr 2017 11:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>Microsoft、タスク管理アプリ「To-Do」をプレビュー公開（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042001212/</link>
+			<description><![CDATA[　米Microsoftは現地時間2017年4月19日、日々の生活や仕事でやるべきことを整理および管理するアプリケーション「Microsoft To-Do」のプレビュー版を公開した。iPhone、Androidスマートフォン、Windows 10デバイス向けアプリケーションを無料でダウンロード可能。Webからもアクセスできる。 ]]></description>
+			<pubDate>Thu, 20 Apr 2017 11:50:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>PFUが業務用スキャナー新製品、給紙を確実にする新機能など搭載（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041901194/</link>
 			<description><![CDATA[　PFUは2017年4月20日、業務用のA3対応イメージスキャナの新機種「fi-7600/7700/7700S」を発表した。]]></description>
 			<pubDate>Thu, 20 Apr 2017 12:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>壁やテーブルがタッチ画面になる、ソニーモバイルのプロジェクター「Xperia Touch」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041701174/</link>
+			<description><![CDATA[　ソニーモバイルコミュニケーションズは2017年4月20日、「Xperiaスマートプロダクト」の新製品として「Xperia Touch」（G1109）を発表した。壁やテーブルに、タッチ操作できる画面を投影する家庭用プロジェクターだ。]]></description>
+			<pubDate>Thu, 20 Apr 2017 13:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
