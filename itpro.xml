@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>HTTP/2はどうしてコネクション一つで通信できるのか（検証！HTTP/2）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200137/041200003/</link>
+			<description><![CDATA[　HTTP/2ではレスポンスが帰ってくる前にリクエストを重ねて発行できる。そのために「ストリーム」と呼ぶ仮想的なパイクを用意する。どのレスポンスがどのリクエストと管理づけられているかを管理するためだ。]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>イノベーションの初手、古き良き“日本流”を復活（日経ITイノベーターズ白熱議論＆講演）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041200007/</link>
 			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年7月22日開催の定例会議では、早稲田大学ビジネススクール准教授の入山章栄氏が講演。日本企業が忘れかけていることに目を向ければ、イノベーションはたやすい？]]></description>
@@ -65,15 +71,15 @@
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>イオンモバイルが初の専門店を八重洲にオープン、その狙いとは？（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/041700243/</link>
-			<description><![CDATA[　イオンリテールは2017年4月14日、格安SIMを展開する「イオンモバイル」初の専門店を、東京駅・八重洲地下街にオープンした。同じ八重洲地下街の別の店舗から移転した「AppBank Store」も併設する。]]></description>
+			<title>若年層に人気のiPhone SE、次期iPhone 8は高級路線でいいのか（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/041600041/</link>
+			<description><![CDATA[　米アップルは2017年内に、1000ドルにも届くと言われる上位モデルの「iPhone 8」を発売するとの噂が広まっている。ディスプレーに有機ELを採用し、「iPhone 7 Plus」と同じようなサイズのきょう体にさらに大型のディスプレーを搭載するというモデルだ。]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>HTTP/2はどうしてコネクション一つで通信できるのか（検証！HTTP/2）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200137/041200003/</link>
-			<description><![CDATA[　HTTP/2ではレスポンスが帰ってくる前にリクエストを重ねて発行できる。そのために「ストリーム」と呼ぶ仮想的なパイクを用意する。どのレスポンスがどのリクエストと管理づけられているかを管理するためだ。]]></description>
+			<title>Android One（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/040400065/</link>
+			<description><![CDATA[　米グーグルとメーカーが協力して提供するスマートフォンの1ブランド。端末発売後18カ月間で最低1回のメジャーアップデートと、発売から最低2年間までの毎月のセキュリティアップデートが保証されている。]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -108,22 +114,10 @@
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>若年層に人気のiPhone SE、次期iPhone 8は高級路線でいいのか（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/041600041/</link>
-			<description><![CDATA[　米アップルは2017年内に、1000ドルにも届くと言われる上位モデルの「iPhone 8」を発売するとの噂が広まっている。ディスプレーに有機ELを採用し、「iPhone 7 Plus」と同じようなサイズのきょう体にさらに大型のディスプレーを搭載するというモデルだ。]]></description>
+			<title>イオンモバイルが初の専門店を八重洲にオープン、その狙いとは？（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/041700243/</link>
+			<description><![CDATA[　イオンリテールは2017年4月14日、格安SIMを展開する「イオンモバイル」初の専門店を、東京駅・八重洲地下街にオープンした。同じ八重洲地下街の別の店舗から移転した「AppBank Store」も併設する。]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Android One（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/040400065/</link>
-			<description><![CDATA[　米グーグルとメーカーが協力して提供するスマートフォンの1ブランド。端末発売後18カ月間で最低1回のメジャーアップデートと、発売から最低2年間までの毎月のセキュリティアップデートが保証されている。]]></description>
-			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Snapchatが新エフェクト、動画に3Dオブジェクトを追加可能に（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041901197/</link>
-			<description><![CDATA[　フォトメッセージングサービス「Snapchat」を運営する米Snapは現地時間2017年4月18日、新たな加工フィルター「World Lenses」を発表した。]]></description>
-			<pubDate>Wed, 19 Apr 2017 12:41:21 +0900</pubDate>
 		</item>
 		<item>
 			<title>丸紅がGE「Predix」を発電所に導入、海外展開も視野に（ニュース）</title>
@@ -186,6 +180,12 @@
 			<pubDate>Wed, 19 Apr 2017 22:15:15 +0900</pubDate>
 		</item>
 		<item>
+			<title>「先月の成果を天気で」、サイバーエージェントの活力生む社内アンケート（働き方改革最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000135/041900008/</link>
+			<description><![CDATA[　「先月のあなたの成果やパフォーマンスはいかがでしたか？　天気でお答えください」。直近3年間で売上高を約2倍、営業利益を3倍以上に高めるなど、好業績のサイバーエージェント。同社の成長を下支えするのが2種類の社内向けサイトと、適材適所の人材配置戦略だ。]]></description>
+			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「AirPods」の音楽再生はWi-Fiとの電波干渉で途切れるのか？（Wi-Fiのウソとホントを実証）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/041700016/</link>
 			<description><![CDATA[　ふと「AirPodsとiPhone 7を接続して音楽を聴いているとき、どんな感じで電波が出ているのだろう」ということが気になった。そこで、ラボで電波を可視化してみることにした。]]></description>
@@ -222,15 +222,15 @@
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「先月の成果を天気で」、サイバーエージェントの活力生む社内アンケート（働き方改革最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000135/041900008/</link>
-			<description><![CDATA[　「先月のあなたの成果やパフォーマンスはいかがでしたか？　天気でお答えください」。直近3年間で売上高を約2倍、営業利益を3倍以上に高めるなど、好業績のサイバーエージェント。同社の成長を下支えするのが2種類の社内向けサイトと、適材適所の人材配置戦略だ。]]></description>
+			<title>LTE付きで3万円台、コスパ抜群タブレット「MediaPad M3」（タブレット 2017春）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041300142/041700003/</link>
+			<description><![CDATA[　ファーウェイ・ジャパンの「MediaPad M3」は、8.4型のAndroidタブレット。8コアのCPUや4GBのメモリー、フルHD以上の高解像度液晶画面を搭載しつつ、Wi-Fiモデルなら2万円台後半、LTEモデルでも実勢価格が3万円台前半と、スペックの割に安くコストパフォーマンスが良い。]]></description>
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>図解！コンテンツ更新やデータ入力を自動化するオフィスロボ（密着！オフィスロボ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200138/041200004/</link>
-			<description><![CDATA[　RPAによるロボット化の適用事例をビジュアルに紹介する。エス・エム・エス、Genpact Japan、InfoDeliverといった企業における取り組みだ。]]></description>
+			<title>［ヤマハ発動機］リアル消防団員が率いるCSIRT、初期消火に徹する（百社百様、我が社のCSIRT）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/080500167/041800012/</link>
+			<description><![CDATA[　ヤマハ発動機のCSIRT「YMC-CSIRT」は2013年に設立された。クラウド型WAFの導入でインシデントが激減したのがきっかけだ。YMC-CSIRTはインシデントの初期消火に集中する仮想的なチームである。今、世代交代と機能強化に向けて、マニュアル整備を急ぐ。]]></description>
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -288,15 +288,9 @@
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>［ヤマハ発動機］リアル消防団員が率いるCSIRT、初期消火に徹する（百社百様、我が社のCSIRT）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/080500167/041800012/</link>
-			<description><![CDATA[　ヤマハ発動機のCSIRT「YMC-CSIRT」は2013年に設立された。クラウド型WAFの導入でインシデントが激減したのがきっかけだ。YMC-CSIRTはインシデントの初期消火に集中する仮想的なチームである。今、世代交代と機能強化に向けて、マニュアル整備を急ぐ。]]></description>
-			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>LTE付きで3万円台、コスパ抜群タブレット「MediaPad M3」（タブレット 2017春）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041300142/041700003/</link>
-			<description><![CDATA[　ファーウェイ・ジャパンの「MediaPad M3」は、8.4型のAndroidタブレット。8コアのCPUや4GBのメモリー、フルHD以上の高解像度液晶画面を搭載しつつ、Wi-Fiモデルなら2万円台後半、LTEモデルでも実勢価格が3万円台前半と、スペックの割に安くコストパフォーマンスが良い。]]></description>
+			<title>図解！コンテンツ更新やデータ入力を自動化するオフィスロボ（密着！オフィスロボ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200138/041200004/</link>
+			<description><![CDATA[　RPAによるロボット化の適用事例をビジュアルに紹介する。エス・エム・エス、Genpact Japan、InfoDeliverといった企業における取り組みだ。]]></description>
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -344,6 +338,44 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042001209/</link>
 			<description><![CDATA[　パルスセキュアジャパンは2017年4月19日、モバイル環境から社内システムなどと安全に通信するためのアプライアンス製品「Pulse Access Suite」シリーズの販売戦略説明会を開催した。]]></description>
 			<pubDate>Thu, 20 Apr 2017 09:40:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Facebook、VRの世界で友達と会えるアプリ「Spaces」を発表（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/042000319/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Facebookは現地時間2017年4月18日、VR（仮想現実）の世界で友達と楽しく過ごせる新アプリ「Spaces」を発表した。同社傘下の米Oculus VRのヘッドセット「Oculus Rift」で動作する。Spacesの世界では、各ユーザーがアバターで表現され、同じ空間を共有する没入型の環境の中で交流を楽しむことができる。
+</p>
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/042000319/ph.jpg" width="300" alt="" title=""></div></div>
+<p>
+　Spacesでは、仮想世界のテーブルを囲んで集ったり、3次元のお絵かきを共有したり、Oculus Riftの内蔵マイクを使って会話したりできる。また、Facebookのコンテンツライブラリにある360度の写真や動画の中に皆で入り込むこともできる。
+</p>
+<p>
+　Oculus Riftのヘッドセットを持っていない人も、Facebook Messengerのビデオ通話機能を使ってSpaces内の集まりに参加できる。Spacesの様子をスマートフォンで見ることができ、VR環境の中ではビデオ通話の映像が表示される。
+</p>
+<p>
+　Facebookは今回のSpacesでソーシャルVRに初めて進出した。ソーシャルネットワークとOculus VRのハードウエアを組み合わせることが持つ威力が、このSpacesからは分かる。例えば、互いに遠く離れた友達同士のグループでも、Spacesを使うと、直接会って遊んでいるかのような体験ができる。
+</p>
+<p>
+　FacebookとSpacesが連係している大きな強みの1つは、アバターの作成時に発揮される。Spacesは、コンピュータービジョンを使い、Facebookのユーザーのプロフィール写真に基づいて、その特徴を踏まえたアバターを提示する。したがって、本人にある程度似た、デジタル漫画風の分身が初めから得られる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/042000319/?ST=cio-social&P=2">また、印象を少し（あるいは大幅に）変えたい場合は...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/042000319/?ST=cio-social&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/042000319/?ST=cio-social&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/042000319/?ST=cio-social&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 20 Apr 2017 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
