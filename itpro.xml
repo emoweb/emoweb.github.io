@@ -11,6 +11,24 @@
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>違反すると多額の制裁金、EUプライバシー保護規制との付き合い方（活用できる個人データの作り方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041300141/041800003/</link>
+			<description><![CDATA[　改正個人情報保護法と並んで、欧州に拠点を持つ日本企業が対応を迫られているのが2018年5月25日から施行される予定の「EU一般データ保護規則（GDPR）」である。データ保護機関が企業に対して頻繁に制裁金を科している点が、日本との大きな違いだ。]]></description>
+			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>BPOサービス市場は2021年まで6%成長、人材不足やデジタル化で市場拡大（データは語る）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/072600158/041900042/</link>
+			<description><![CDATA[　2017年月4月10日から4月14日に公表された市場動向についてレポートする。IDC Japan「国内BPOサービス市場予測を発表」など3本を取り上げる。]]></description>
+			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>［ヤマハ発動機］リアル消防団員が率いるCSIRT、初期消火に徹する（百社百様、我が社のCSIRT）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/080500167/041800012/</link>
+			<description><![CDATA[　ヤマハ発動機のCSIRT「YMC-CSIRT」は2013年に設立された。クラウド型WAFの導入でインシデントが激減したのがきっかけだ。YMC-CSIRTはインシデントの初期消火に集中する仮想的なチームである。今、世代交代と機能強化に向けて、マニュアル整備を急ぐ。]]></description>
+			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>震災をきっかけに金融弱者向けFinTechを開発（出でよ！PeaceTechイノベーター）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200062/041800006/</link>
 			<description><![CDATA[　平和のためのテクノロジー利用である「PeaceTech」を体現している日本人経営者、2人目は桑原広充氏だ。]]></description>
@@ -41,9 +59,9 @@
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>違反すると多額の制裁金、EUプライバシー保護規制との付き合い方（活用できる個人データの作り方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041300141/041800003/</link>
-			<description><![CDATA[　改正個人情報保護法と並んで、欧州に拠点を持つ日本企業が対応を迫られているのが2018年5月25日から施行される予定の「EU一般データ保護規則（GDPR）」である。データ保護機関が企業に対して頻繁に制裁金を科している点が、日本との大きな違いだ。]]></description>
+			<title>専門知識は邪魔！？革新には“素人アイデア”を生かす（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041200008/</link>
+			<description><![CDATA[　創造的な製品やサービス、ビジネスモデルを考案するにはどうすればよいか。そのヒントを慶應義塾大学大学院の白坂成功准教授が、「日経ITイノベーターズ」が2016年10月19日に開催した定例会議で語った。お題は「事業創出に役立つイノベーティブデザイン方法論」。]]></description>
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,9 +107,9 @@
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>玄人もハマるネットワークループの罠（編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/041300031/</link>
-			<description><![CDATA[　「ネットワークトラブルはなくならない。そして繰り返す」。その最たるものがネットワークループだ。ネットワークエンジニアの誰もが一度は経験するトラブルといっても過言ではない。]]></description>
+			<title>高速HTTP/2通信の利用には“スイッチ”が必要（検証！HTTP/2）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200137/041200004/</link>
+			<description><![CDATA[　Webサーバーは既存のHTTP/1.0やHTTP/1.1との互換性も確保し続けなければいけない。このため、対応しているWebサーバーであっても、HTTP/2で通信するにはどこかで「ここからHTTP/2でやり取りしますよ」というスイッチを明示する必要がある。]]></description>
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,27 +119,9 @@
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>［ヤマハ発動機］リアル消防団員が率いるCSIRT、初期消火に徹する（百社百様、我が社のCSIRT）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/080500167/041800012/</link>
-			<description><![CDATA[　ヤマハ発動機のCSIRT「YMC-CSIRT」は2013年に設立された。クラウド型WAFの導入でインシデントが激減したのがきっかけだ。YMC-CSIRTはインシデントの初期消火に集中する仮想的なチームである。今、世代交代と機能強化に向けて、マニュアル整備を急ぐ。]]></description>
-			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>高速HTTP/2通信の利用には“スイッチ”が必要（検証！HTTP/2）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200137/041200004/</link>
-			<description><![CDATA[　Webサーバーは既存のHTTP/1.0やHTTP/1.1との互換性も確保し続けなければいけない。このため、対応しているWebサーバーであっても、HTTP/2で通信するにはどこかで「ここからHTTP/2でやり取りしますよ」というスイッチを明示する必要がある。]]></description>
-			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>BPOサービス市場は2021年まで6%成長、人材不足やデジタル化で市場拡大（データは語る）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/072600158/041900042/</link>
-			<description><![CDATA[　2017年月4月10日から4月14日に公表された市場動向についてレポートする。IDC Japan「国内BPOサービス市場予測を発表」など3本を取り上げる。]]></description>
-			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>専門知識は邪魔！？革新には“素人アイデア”を生かす（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041200008/</link>
-			<description><![CDATA[　創造的な製品やサービス、ビジネスモデルを考案するにはどうすればよいか。そのヒントを慶應義塾大学大学院の白坂成功准教授が、「日経ITイノベーターズ」が2016年10月19日に開催した定例会議で語った。お題は「事業創出に役立つイノベーティブデザイン方法論」。]]></description>
+			<title>玄人もハマるネットワークループの罠（編集長の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/041300031/</link>
+			<description><![CDATA[　「ネットワークトラブルはなくならない。そして繰り返す」。その最たるものがネットワークループだ。ネットワークエンジニアの誰もが一度は経験するトラブルといっても過言ではない。]]></description>
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -285,6 +285,24 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042001220/</link>
 			<description><![CDATA[　ヤフーは2017年4月20日、「Yahoo！ JAPAN」サービスへパスワードを使わずにログインする新たな認証方式を導入したと発表した。パスワードの代わりに、会員の携帯電話へSMSを使い数字6桁のワンタイムパスワード（確認コード）を送信する。]]></description>
 			<pubDate>Thu, 20 Apr 2017 16:33:19 +0900</pubDate>
+		</item>
+		<item>
+			<title>AWS、NoSQLのDynamoDBを10倍速化（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042001222/</link>
+			<description><![CDATA[　米Amazon Web Servicesは米サンフランシスコにおいて、現地時間の2017年4月18日、19日、「AWS Summit San Francisco 2017」を開催。19日の基調講演で米Amazon.comのバーナー・ボーガスCTOが新サービスや機能強化を発表した。]]></description>
+			<pubDate>Thu, 20 Apr 2017 17:59:48 +0900</pubDate>
+		</item>
+		<item>
+			<title>「ホロレンズで建設業をかっこよく」、日本MSと小柳建設がアプリ開発で連携（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042001223/</link>
+			<description><![CDATA[　日本マイクロソフト（MS）と小柳建設は2017年4月20日、シースルー型のHMD（ヘッドマウントディスプレイ）である「Microsoft HoloLens（ホロレンズ）」を建設業で活用するプロジェクト「Holostruction（ホロストラクション）」の推進で連携すると発表した。]]></description>
+			<pubDate>Thu, 20 Apr 2017 19:22:13 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本HPが法人ノートPC新製品、プライバシーフィルターやスマホ連動ロックなど（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042001226/</link>
+			<description><![CDATA[　日本HPは2017年4月20日、東京都江東区の本社で法人向けPCのセキュリティ機能とPC新製品についての発表会を開催した。]]></description>
+			<pubDate>Thu, 20 Apr 2017 20:48:05 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
