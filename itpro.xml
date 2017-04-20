@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>イノベーションの初手、古き良き“日本流”を復活（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041200007/</link>
+			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年7月22日開催の定例会議では、早稲田大学ビジネススクール准教授の入山章栄氏が講演。日本企業が忘れかけていることに目を向ければ、イノベーションはたやすい？]]></description>
+			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ビースタイル、「会社を辞める」が減った（チャットファースト）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000003/</link>
 			<description><![CDATA[　主婦に特化した「しゅふJOBスタッフィング」など、独自の人材派遣・求人サービスを提供するビースタイルはコミュニケーション活性化を軸とする改革を決意した。]]></description>
@@ -65,15 +71,15 @@
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Android One（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/040400065/</link>
-			<description><![CDATA[　米グーグルとメーカーが協力して提供するスマートフォンの1ブランド。端末発売後18カ月間で最低1回のメジャーアップデートと、発売から最低2年間までの毎月のセキュリティアップデートが保証されている。]]></description>
+			<title>HTTP/2はどうしてコネクション一つで通信できるのか（検証！HTTP/2）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200137/041200003/</link>
+			<description><![CDATA[　HTTP/2ではレスポンスが帰ってくる前にリクエストを重ねて発行できる。そのために「ストリーム」と呼ぶ仮想的なパイクを用意する。どのレスポンスがどのリクエストと管理づけられているかを管理するためだ。]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>イノベーションの初手、古き良き“日本流”を復活（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041200007/</link>
-			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年7月22日開催の定例会議では、早稲田大学ビジネススクール准教授の入山章栄氏が講演。日本企業が忘れかけていることに目を向ければ、イノベーションはたやすい？]]></description>
+			<title>LINE、社運賭けた音声AI「Clova」開発戦略の全貌を明かす（音声チャットボットの世界）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030700068/041700004/</link>
+			<description><![CDATA[　LINEは2017年3月2日、独自のクラウドAI（人工知能）基盤「Clova」の開発を発表した。2017年夏にはClova搭載のスマートスピーカー「WAVE」を日本と韓国で発売するほか、2017年冬にはスマートディスプレイ「FACE」の発売も予定している。]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -108,22 +114,10 @@
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>HTTP/2はどうしてコネクション一つで通信できるのか（検証！HTTP/2）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200137/041200003/</link>
-			<description><![CDATA[　HTTP/2ではレスポンスが帰ってくる前にリクエストを重ねて発行できる。そのために「ストリーム」と呼ぶ仮想的なパイクを用意する。どのレスポンスがどのリクエストと管理づけられているかを管理するためだ。]]></description>
+			<title>Android One（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/040400065/</link>
+			<description><![CDATA[　米グーグルとメーカーが協力して提供するスマートフォンの1ブランド。端末発売後18カ月間で最低1回のメジャーアップデートと、発売から最低2年間までの毎月のセキュリティアップデートが保証されている。]]></description>
 			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>LINE、社運賭けた音声AI「Clova」開発戦略の全貌を明かす（音声チャットボットの世界）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030700068/041700004/</link>
-			<description><![CDATA[　LINEは2017年3月2日、独自のクラウドAI（人工知能）基盤「Clova」の開発を発表した。2017年夏にはClova搭載のスマートスピーカー「WAVE」を日本と韓国で発売するほか、2017年冬にはスマートディスプレイ「FACE」の発売も予定している。]]></description>
-			<pubDate>Wed, 19 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IBMの17年Q1決算は売上高が市場予想を下回る、クラウドは好調（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041901195/</link>
-			<description><![CDATA[　米IBMが現地時間2017年4月18日に発表した同年第1四半期（1～3月）の決算は、売上高が181億5500万ドルで前年同期から2.8％減少し、20四半期連続の減収となった。]]></description>
-			<pubDate>Wed, 19 Apr 2017 11:28:04 +0900</pubDate>
 		</item>
 		<item>
 			<title>Snapchatが新エフェクト、動画に3Dオブジェクトを追加可能に（ニュース）</title>
@@ -192,6 +186,12 @@
 			<pubDate>Wed, 19 Apr 2017 22:15:15 +0900</pubDate>
 		</item>
 		<item>
+			<title>「AirPods」の音楽再生はWi-Fiとの電波干渉で途切れるのか？（Wi-Fiのウソとホントを実証）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/041700016/</link>
+			<description><![CDATA[　ふと「AirPodsとiPhone 7を接続して音楽を聴いているとき、どんな感じで電波が出ているのだろう」ということが気になった。そこで、ラボで電波を可視化してみることにした。]]></description>
+			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ハードを知らないインフラエンジニアが増殖中（クラウドの新常識）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040300116/040300009/</link>
 			<description><![CDATA[　ハードウエアやミドルウエアの設定はクリックのみで完了。クラウドを使いこなすITエンジニアが増えるのにしたがって、実際のサーバーやミドルウエアに触れたことがないエンジニアが増えている。新世代のクラウドエンジニアへの対処が課題になりつつある。]]></description>
@@ -228,9 +228,9 @@
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「AirPods」の音楽再生はWi-Fiとの電波干渉で途切れるのか？（Wi-Fiのウソとホントを実証）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/041700016/</link>
-			<description><![CDATA[　ふと「AirPodsとiPhone 7を接続して音楽を聴いているとき、どんな感じで電波が出ているのだろう」ということが気になった。そこで、ラボで電波を可視化してみることにした。]]></description>
+			<title>図解！コンテンツ更新やデータ入力を自動化するオフィスロボ（密着！オフィスロボ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200138/041200004/</link>
+			<description><![CDATA[　RPAによるロボット化の適用事例をビジュアルに紹介する。エス・エム・エス、Genpact Japan、InfoDeliverといった企業における取り組みだ。]]></description>
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -300,12 +300,6 @@
 			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>図解！コンテンツ更新やデータ入力を自動化するオフィスロボ（密着！オフィスロボ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200138/041200004/</link>
-			<description><![CDATA[　RPAによるロボット化の適用事例をビジュアルに紹介する。エス・エム・エス、Genpact Japan、InfoDeliverといった企業における取り組みだ。]]></description>
-			<pubDate>Thu, 20 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>AIと機械学習の課題に対するMicrosoftの展望は（後）（AIと機械学習の課題に対するMicrosoftの展望は）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/041200030/041200002/</link>
 			<description><![CDATA[<div>
@@ -344,6 +338,12 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 20 Apr 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>パルスセキュアが国内販売戦略、ジュニパー製品からのリプレース後押し（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042001209/</link>
+			<description><![CDATA[　パルスセキュアジャパンは2017年4月19日、モバイル環境から社内システムなどと安全に通信するためのアプライアンス製品「Pulse Access Suite」シリーズの販売戦略説明会を開催した。]]></description>
+			<pubDate>Thu, 20 Apr 2017 09:40:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
