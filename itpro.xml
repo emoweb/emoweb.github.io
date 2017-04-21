@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>AWS、NoSQLのDynamoDBを10倍速化（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042001222/</link>
-			<description><![CDATA[　米Amazon Web Servicesは米サンフランシスコにおいて、現地時間の2017年4月18日、19日、「AWS Summit San Francisco 2017」を開催。19日の基調講演で米Amazon.comのバーナー・ボーガスCTOが新サービスや機能強化を発表した。]]></description>
-			<pubDate>Thu, 20 Apr 2017 17:59:48 +0900</pubDate>
-		</item>
-		<item>
 			<title>「ホロレンズで建設業をかっこよく」、日本MSと小柳建設がアプリ開発で連携（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042001223/</link>
 			<description><![CDATA[　日本マイクロソフト（MS）と小柳建設は2017年4月20日、シースルー型のHMD（ヘッドマウントディスプレイ）である「Microsoft HoloLens（ホロレンズ）」を建設業で活用するプロジェクト「Holostruction（ホロストラクション）」の推進で連携すると発表した。]]></description>
@@ -53,6 +47,12 @@
 			<pubDate>Thu, 20 Apr 2017 22:05:36 +0900</pubDate>
 		</item>
 		<item>
+			<title>ビッグデータブームに踊らされないためには？東大の第一人者が指摘（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041300009/</link>
+			<description><![CDATA[　約20年間データマイニングを研究し、データの収集・分析によってビジネス機会を見つけ出す概念「チャンス発見学」を考案した東京大学工学部の大澤幸生教授。「日経ITイノベーターズ」が2016年1月25日に開催した定例会議で、「データ活用の本質」について講演した。「可能なところから実践する」ことの大切さを説く。]]></description>
+			<pubDate>Fri, 21 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>［千葉大学］重大インシデント教訓に抜本改革、大学初の挑戦次々と（百社百様、我が社のCSIRT）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/080500167/041900013/</link>
 			<description><![CDATA[　千葉大学は2016年4月、CSIRTである「C-csirt」を設立した。過去の重大インシデントを教訓にセキュリティチームを出直した。チップ眼を招き入れて強化しつつ、設立1年ながらも大学初の取り組みに積極的に取り組んでいる。]]></description>
@@ -71,9 +71,9 @@
 			<pubDate>Fri, 21 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ビッグデータブームに踊らされないためには？東大の第一人者が指摘（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041300009/</link>
-			<description><![CDATA[　約20年間データマイニングを研究し、データの収集・分析によってビジネス機会を見つけ出す概念「チャンス発見学」を考案した東京大学工学部の大澤幸生教授。「日経ITイノベーターズ」が2016年1月25日に開催した定例会議で、「データ活用の本質」について講演した。「可能なところから実践する」ことの大切さを説く。]]></description>
+			<title>2万円台で防水・防塵！初心者に優しいタブレット「LAVIE Tab S」（タブレット 2017春）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041300142/041700004/</link>
+			<description><![CDATA[　NECの「LAVIE Tab S」は8型のAndroidタブレットで、2万円台後半という実勢価格で販売されている。操作ガイドが豊富で、初心者にお薦めだ。]]></description>
 			<pubDate>Fri, 21 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -96,15 +96,15 @@
 			<pubDate>Fri, 21 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ラズパイでChromebookを簡単自作、「ChromiumRPI」（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/041900002/</link>
-			<description><![CDATA[　600円からのPCボード「Raspberry Pi」（ラズパイ）を、「ChromiumRPI」でChromebook風の小型PCに仕立てましょう。ChromiumRPIは、米GoogleのLinux OS「Chrome OS」のオープンソース版「Chromium OS」をラズパイ対応させたOSです。]]></description>
+			<title>「薄型モバイルバッテリー」の選び方とおすすめ5選（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/042000305/</link>
+			<description><![CDATA[　スマホの利用時間が増すにつれ、人気が増しているモバイルバッテリー。そのなかでも重ね持ちに便利な「スリム型」はどれがいいのか。厳選5モデルを紹介する。]]></description>
 			<pubDate>Fri, 21 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>2万円台で防水・防塵！初心者に優しいタブレット「LAVIE Tab S」（タブレット 2017春）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041300142/041700004/</link>
-			<description><![CDATA[　NECの「LAVIE Tab S」は8型のAndroidタブレットで、2万円台後半という実勢価格で販売されている。操作ガイドが豊富で、初心者にお薦めだ。]]></description>
+			<title>「大義や理念を失ったら日立はだめになる」、日立社長（下）（日立 東原改革の正体）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000133/041900006/</link>
+			<description><![CDATA[　米GE（ゼネラル・エレクトリック）や独シーメンスにあって、日立製作所にないものは何か。日立が大切にしていることは何か。日立の東原敏昭社長兼CEO（最高経営責任者）が本音を語った。]]></description>
 			<pubDate>Fri, 21 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -138,15 +138,9 @@
 			<pubDate>Fri, 21 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「薄型モバイルバッテリー」の選び方とおすすめ5選（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/042000305/</link>
-			<description><![CDATA[　スマホの利用時間が増すにつれ、人気が増しているモバイルバッテリー。そのなかでも重ね持ちに便利な「スリム型」はどれがいいのか。厳選5モデルを紹介する。]]></description>
-			<pubDate>Fri, 21 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「大義や理念を失ったら日立はだめになる」、日立社長（下）（日立 東原改革の正体）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000133/041900006/</link>
-			<description><![CDATA[　米GE（ゼネラル・エレクトリック）や独シーメンスにあって、日立製作所にないものは何か。日立が大切にしていることは何か。日立の東原敏昭社長兼CEO（最高経営責任者）が本音を語った。]]></description>
+			<title>ラズパイでChromebookを簡単自作、「ChromiumRPI」（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/041900002/</link>
+			<description><![CDATA[　600円からのPCボード「Raspberry Pi」（ラズパイ）を、「ChromiumRPI」でChromebook風の小型PCに仕立てましょう。ChromiumRPIは、米GoogleのLinux OS「Chrome OS」のオープンソース版「Chromium OS」をラズパイ対応させたOSです。]]></description>
 			<pubDate>Fri, 21 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -257,6 +251,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042101232/</link>
 			<description><![CDATA[　コニカミノルタは2017年4月19日に記者会見を開催し、2017年秋に発売する次世代複合機「Workplace Hub」の概要を説明した。IoT（インターネット・オブ・シングズ）端末のデータをクラウドに送らずオフィスで処理する「エッジコンピューティング」のエッジサーバーとして動作するという。]]></description>
 			<pubDate>Fri, 21 Apr 2017 14:42:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>シスコ、セキュリティ教育を学生に無償提供（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042101239/</link>
+			<description><![CDATA[　シスコシステムズは2017年4月21日、セキュリティ人材を育成するためのプログラム「サイバーセキュリティ スカラシップ」を発表した。同社のCTOを務める執行役員の濱田義之氏は、「日本におけるセキュリティ人材の枯渇は大きな問題。セキュリティ人材育成に協力するために立ち上げた」と経緯を説明する。]]></description>
+			<pubDate>Fri, 21 Apr 2017 16:24:04 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
