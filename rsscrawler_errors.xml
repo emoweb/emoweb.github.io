@@ -5,29 +5,17 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2017-04-23 00:09:09 +0900</title>
+			<title>2017-04-24 04:09:19 +0900</title>
 			<link> </link>
-			<description><![CDATA[<strong>gigazine</strong><br/><p>#&lt;OpenURI::HTTPError: 503 Service Unavailable&gt;
+			<description><![CDATA[<strong>itpro</strong><br/><p>#&lt;NoMethodError: undefined method `items&#39; for nil:NilClass&gt;
 in
-/usr/share/ruby/open-uri.rb:353:in `open_http&#39;
-/usr/share/ruby/open-uri.rb:709:in `buffer_open&#39;
-/usr/share/ruby/open-uri.rb:210:in `block in open_loop&#39;
-/usr/share/ruby/open-uri.rb:208:in `catch&#39;
-/usr/share/ruby/open-uri.rb:208:in `open_loop&#39;
-/usr/share/ruby/open-uri.rb:149:in `open_uri&#39;
-/usr/share/ruby/open-uri.rb:689:in `open&#39;
-/usr/share/ruby/open-uri.rb:697:in `read&#39;
-/usr/share/ruby/rss/parser.rb:103:in `normalize_rss&#39;
-/usr/share/ruby/rss/parser.rb:89:in `initialize&#39;
-/usr/share/ruby/rss/parser.rb:76:in `new&#39;
-/usr/share/ruby/rss/parser.rb:76:in `parse&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:61:in `get_feed&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:62:in `get_feed&#39;
 /data/src/rss_crawler/src/lib/rsspipe.rb:167:in `pipe_procedure&#39;
-/data/src/rss_crawler/src/pipes/simple_pipes.rb:11:in `block (2 levels) in &lt;top (required)&gt;&#39;
+/data/src/rss_crawler/src/pipes/itpro.rb:38:in `block in &lt;top (required)&gt;&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `call&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
-			<pubDate>Sun, 23 Apr 2017 00:09:09 +0900</pubDate>
+			<pubDate>Mon, 24 Apr 2017 04:09:19 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
