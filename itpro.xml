@@ -5,39 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Microsoft、単体版Officeから法人用OneDrive／Skypeへのアクセス要件を変更（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042400361/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftは現地時間2017年4月20日、「Office 365」のシステム要件の内容を一部変更することを発表した。「Office 2010」「Office 2013」「Office 2016」など、永続ライセンス版（スタンドアロン版）のOfficeから、法人向けサービスの「OneDrive for Business」「Skype for Business」にアクセスする場合について、メインストリームサポートの期間内のOfficeからのみアクセスを認めるという項目を要件に追加した。この新たな要件は2020年10月13日から有効になる。この日付は、Office 2016のメインストリームサポートの終了日と同じだ。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042400361/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Martyn Williams</div>
-</div>
-<p>
-　Microsoftの関係者は、Office 365を発表した2010年の時点で、顧客はクラウドへの移行を求めていると話していた。既存のスタンドアロン版Officeを利用しているユーザーの中には、2020年以降、Office 365に契約することが必要となるユーザーが出てきそうだ。
-</p>
-<p>
-　少なくとも筆者の職場では、Skypeに関しては個人用のアカウントを好んで使う人が多い。また、法人向けのOneDriveやSkypeを利用可能でも、実際には使っていないという企業も大いにあるだろう。だが、中小企業の経営者の方が、Microsoftのビジョンを受け入れてそうしたサービスを活用しつつ、スタンドアロン版のOfficeを業務に利用してきたのであれば、今回の決定は、突然見捨てられたような気分になるかもしれない。ExcelのスプレッドシートをすべてOneDrive for Businessに保存していた場合は、ファイルをダウンロードして個人用のOneDriveに移すか、あるいはMicrosoftの真の望みどおり、Office 365に契約する必要が生じる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042400361/?ST=cm-software&P=2">影響するサービスは</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042400361/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042400361/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042400361/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 24 Apr 2017 10:50:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：人騒がせな標的型攻撃訓練（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042000942/?d25</link>
+			<description><![CDATA[　複数の健康保険組合が2017年3月上旬、健康保険組合連合会（健保連）を装った不審なメールに関する注意喚起を出した。これだけ聞くとよくある話だが、実は単なる標的型攻撃メールの事件ではない。裏があった。]]></description>
+			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Appleが謎のAR製品開発中、リークされた社内文書が示唆（ニュース）</title>
@@ -136,6 +107,12 @@
 			<pubDate>Mon, 24 Apr 2017 22:10:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>ITスキル標準がデジタル時代に向け復権？！（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042100943/</link>
+			<description><![CDATA[　IT人材の分類や必要なスキル（能力）を整理した「ITスキル標準（ITSS）」が装いを新たに再登場した。名称は「ITSS＋（プラス）」。デジタル時代に求められるIT人材像や、その人材が担うタスク（業務）やスキルをまとめたもの。従来のITSSを補完する役割を果たす。]]></description>
+			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>［SQL DWの落とし穴］外部テーブルにデータ追加するたび手間発生（知って安心！AWS・Azureのつまずきポイント）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042100026/</link>
 			<description><![CDATA[　Azure SQL Data Warehouseには「PolyBase」という機能がある。Azure Blob Storageに格納したCSV（カンマ区切り）などのテキストファイルをそのまま外部テーブルとして読み込み、テーブルとして参照できる。]]></description>
@@ -166,9 +143,9 @@
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ITスキル標準がデジタル時代に向け復権？！（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042100943/</link>
-			<description><![CDATA[　IT人材の分類や必要なスキル（能力）を整理した「ITスキル標準（ITSS）」が装いを新たに再登場した。名称は「ITSS＋（プラス）」。デジタル時代に求められるIT人材像や、その人材が担うタスク（業務）やスキルをまとめたもの。従来のITSSを補完する役割を果たす。]]></description>
+			<title>誰もが無意識のうちに足を引っ張る（古いシステムの捨て方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/041700006/</link>
+			<description><![CDATA[　企業の基幹系システムを再構築する第一の目的は、“保守性”を向上することにある。保守性の向上は、案件実現のスピードアップやコスト削減につながる。今回は、アプリ開発者が頑張るだけでは、保守性の向上を実現できない実情を解説する。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -214,16 +191,44 @@
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>誰もが無意識のうちに足を引っ張る（古いシステムの捨て方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/041700006/</link>
-			<description><![CDATA[　企業の基幹系システムを再構築する第一の目的は、“保守性”を向上することにある。保守性の向上は、案件実現のスピードアップやコスト削減につながる。今回は、アプリ開発者が頑張るだけでは、保守性の向上を実現できない実情を解説する。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>グローバルプロジェクト成功の鍵は「小学生でも理解できる資料」（実録 グローバル化で変貌したIT部門）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033100114/033100002/</link>
 			<description><![CDATA[　この連載ではローカルITからグローバルITへの変革について、ブリティッシュ・アメリカン・タバコ・ジャパン（BATジャパン）のIT部門の経験を基に解説している。今回はプロジェクトマネジメントに焦点を当てる。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>CSOとCIOが語る、攻撃への対処法と愛用のセキュリティ製品（前）（CSOとCIOが語る、攻撃への対処法と愛用のセキュリティ製品）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/041800032/041800001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　企業のCIO（最高情報責任者）やCISO（最高情報セキュリティ責任者）に、心配で夜も眠れないようなサイバーセキュリティの脅威は何かと尋ねたら、さまざまな答えが返って来ることだろう。ソーシャルエンジニアリングを利用したフィッシングなどのハッキングもあれば、ユーザーのウエブサイトを乗っ取る忌まわしいランサムウエアもあれば、サービス拒否（DoS）攻撃もある。事業内容によっては、今言った項目をすべて挙げる人もいるかもしれない。
+</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800032/041800001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>
+　こうした脅威の影響で、サイバーセキュリティソフトウエアへの投資が増えている。国家の工作員やローンウルフ型の攻撃犯など、企業データへのアクセスを狙う各種の破壊者からデータを守るためのセキュリティソフトだ。狙いを定めた攻撃が1回でも命中したら、企業ネットワークへの侵入に成功されてしまうということを、ITリーダーたちは認識している。さらには、攻撃対象領域を減らすことと、万一攻撃を受けた場合に向けたインシデント対応の準備を整えておくことが、最善の道だと心得ている。
+</p>
+<p>
+　態勢を整えるには、人材とテクノロジーの両面で相当の投資が必要だ。米市場調査会社IDCの予測によると、サイバーセキュリティのソフトウエア/サービス/ハードウエアに対する企業の投資額は、2020年には世界全体で1016億ドルに達し、2016年の推定737億ドルに比べて38％増となる見通しだ。今回の記事では、2人のCSO（最高セキュリティ責任者）と1人のCIOから、それぞれの経験と、愛用のセキュリティソフトウエア製品について話を聞いた。戦略を立案するうえで参考にしてほしい。
+</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800032/041800001/?ST=cm-software&P=2">AonのCSO、Anthony Belfiore氏</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800032/041800001/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800032/041800001/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800032/041800001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 25 Apr 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
