@@ -5,56 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：「薄型モバイルバッテリー」の選び方とおすすめ5選（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/042000305/?d24</link>
-			<description><![CDATA[　スマホの利用時間が増すにつれ、人気が増しているモバイルバッテリー。そのなかでも重ね持ちに便利な「スリム型」はどれがいいのか。厳選5モデルを紹介する。]]></description>
-			<pubDate>Fri, 21 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows 10に新たな省電力機能、プレビュー版に搭載（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042100360/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftは、Windows 10の最新のプレビュー版に省電力機能「Power Throttling（仮称）」を実装したことを、現地時間2017年4月18日の<a href="https://blogs.windows.com/windowsexperience/2017/04/18/introducing-power-throttling/" target="_blank">ブログ記事</a>で発表した。最新プロセッサを搭載したノートパソコンでバッテリー消費量が11％減るとしている。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042100360/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Adam Patrick Murray</div>
-</div>
-<p>
-　この省電力機能は、4月14日リリースの「Windows 10 Insider Preview」（Build 16176）で有効になっており、パブリックベータプログラム「Insider Program」に参加しているユーザーが利用できる。
-</p>
-<p>
-　Insider Programのプログラムマネジメント担当ディレクター、Bill Karagounis氏は、今回のブログ記事で次のように説明している。「『Power Throttling』では、バックグラウンドの作業を処理する時は、最も省電力性が高いモードでCPUが動作する。作業は完了するが、その処理に費やすバッテリーは最小限に抑えられる」
-</p>
-<p>
-　Karagounis氏の説明によると、こうしてCPUの消費電力を抑える機能は、Windows 10に搭載した検出システムによって制御され、各アプリに応じて作動する。類似する他の技術と同じように、フォアグラウンドの処理（例えばアクティブなアプリ）や常時稼働型のアプリ（例えば音楽ストリーミングアプリ）を認識し、そのような処理にはプロセッサを自由に使わせる。一方、それ以外のアプリや、アプリ内の個別のプロセスのうちで「バックグラウンド」と認識した処理については、CPUの消費電力を制限する。例えば、高周波数でハイパワーの消費電力が多いモードにプロセッサを移行させない場合がある。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042100360/?ST=cm-software&P=2">PowerThrottlingは、米Intelの「SpeedSh...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042100360/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042100360/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042100360/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 21 Apr 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>中国でのスマホ利用時間は1日当たり1時間38分に、テレビの視聴時間に迫る（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042101234/</link>
-			<description><![CDATA[　米国市場調査会社のeMarketerが現地時間2017年4月20日に公表したリポートによると、2017年の中国における成人の1日当たりスマートフォン利用時間は1時間38分となり、同社が先に予測していた利用時間よりも7.4分増える見通し。]]></description>
-			<pubDate>Fri, 21 Apr 2017 10:37:57 +0900</pubDate>
-		</item>
-		<item>
 			<title>「Google Home」がマルチユーザー対応に、最大6人の声を識別（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042101235/</link>
 			<description><![CDATA[　米Googleは現地時間2017年4月20日、人工知能（AI）ベースのデジタルアシスタント「Google Assistant」を搭載したスピーカー「Google Home」が複数ユーザーに対応したと発表した。]]></description>
@@ -127,9 +77,21 @@
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>プレゼンの満足度はこれで上がる（松田次博 間違いだらけのネットワーク作り）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/230970/041700039/</link>
-			<description><![CDATA[　セミナーのプレゼンテーションは提案書のプレゼンと違って、単に伝えたい内容が聞き手に伝わればいいというものではない。「楽しい」「共感できる」といったエンターテインメントの要素がないと40分、時には120分という長時間のセミナーを飽きさせずに聞いてもらうことはできないし、満足度も高まらない。]]></description>
+			<title>サイバーエージェント、監視から運用までボット化（チャットファースト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000006/</link>
+			<description><![CDATA[　ネット広告や音楽配信事業などを展開するサイバーエージェントでは、部門が独自の判断でビジネスチャットを導入しており、チャットボットも各部門で必要なものを開発し活用している。中でも、主力のネット広告でサービス開発を担当するアドテク本部はボット活用が進んでいる。]]></description>
+			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>［SQL DWの落とし穴］大きいリソースの割り当てで遅くなる（知って安心！AWS・Azureのつまずきポイント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042000025/</link>
+			<description><![CDATA[　Microsoft Azureのデータウエアハウス「SQL Data Warehouse」には「リソースクラス」という概念がある。ユーザーに対して割り当てるリソース量だ。大きいリソースクラスを割り当てるほど、多くのメモリーを使用したクエリー実行が可能になる。]]></description>
+			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>［オリンパス］海外拠点とも脅威情報を共有、未然の事故防止に効果あり（百社百様、我が社のCSIRT）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/080500167/041900014/</link>
+			<description><![CDATA[　オリンパスは2015年6月、CSIRTである「OLYMPUS-CIRT」を発足させた。サイバー攻撃の高度化・巧妙化に対処するため、オリンパスグループ内でのインシデント（事故）情報の共有と、インシデントの早期で適切な対応をミッションとしている。]]></description>
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -139,9 +101,9 @@
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>［SQL DWの落とし穴］大きいリソースの割り当てで遅くなる（知って安心！AWS・Azureのつまずきポイント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042000025/</link>
-			<description><![CDATA[　Microsoft Azureのデータウエアハウス「SQL Data Warehouse」には「リソースクラス」という概念がある。ユーザーに対して割り当てるリソース量だ。大きいリソースクラスを割り当てるほど、多くのメモリーを使用したクエリー実行が可能になる。]]></description>
+			<title>セキュリティはやっぱり痛い目にあわないと…（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041800010/</link>
+			<description><![CDATA[　「どうする！？情報セキュリティ」――。強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」では、2016年3月25日の定期会合でずばりこのテーマでディスカッションした。]]></description>
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -205,21 +167,9 @@
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>［オリンパス］海外拠点とも脅威情報を共有、未然の事故防止に効果あり（百社百様、我が社のCSIRT）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/080500167/041900014/</link>
-			<description><![CDATA[　オリンパスは2015年6月、CSIRTである「OLYMPUS-CIRT」を発足させた。サイバー攻撃の高度化・巧妙化に対処するため、オリンパスグループ内でのインシデント（事故）情報の共有と、インシデントの早期で適切な対応をミッションとしている。]]></description>
-			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>サイバーエージェント、監視から運用までボット化（チャットファースト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000006/</link>
-			<description><![CDATA[　ネット広告や音楽配信事業などを展開するサイバーエージェントでは、部門が独自の判断でビジネスチャットを導入しており、チャットボットも各部門で必要なものを開発し活用している。中でも、主力のネット広告でサービス開発を担当するアドテク本部はボット活用が進んでいる。]]></description>
-			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>セキュリティはやっぱり痛い目にあわないと…（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041800010/</link>
-			<description><![CDATA[　「どうする！？情報セキュリティ」――。強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」では、2016年3月25日の定期会合でずばりこのテーマでディスカッションした。]]></description>
+			<title>プレゼンの満足度はこれで上がる（松田次博 間違いだらけのネットワーク作り）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/230970/041700039/</link>
+			<description><![CDATA[　セミナーのプレゼンテーションは提案書のプレゼンと違って、単に伝えたい内容が聞き手に伝わればいいというものではない。「楽しい」「共感できる」といったエンターテインメントの要素がないと40分、時には120分という長時間のセミナーを飽きさせずに聞いてもらうことはできないし、満足度も高まらない。]]></description>
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -267,6 +217,47 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042401247/</link>
 			<description><![CDATA[　英市場調査会社IHS Markitは現地時間2017年4月20日、 韓国Samsung Electronicsの最新スマートフォン「Galaxy S8」の実機を分解して調査した原価分析結果を発表した。希望小売価格約720ドル以上で販売される64Gバイトモデルについて、BOM（Bill of Material：部品表）に基づく部品コストを「301.60ドル」と見積もっている。]]></description>
 			<pubDate>Mon, 24 Apr 2017 10:40:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Microsoft、単体版Officeから法人用OneDrive／Skypeへのアクセス要件を変更（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042400361/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Microsoftは現地時間2017年4月20日、「Office 365」のシステム要件の内容を一部変更することを発表した。「Office 2010」「Office 2013」「Office 2016」など、永続ライセンス版（スタンドアロン版）のOfficeから、法人向けサービスの「OneDrive for Business」「Skype for Business」にアクセスする場合について、メインストリームサポートの期間内のOfficeからのみアクセスを認めるという項目を要件に追加した。この新たな要件は2020年10月13日から有効になる。この日付は、Office 2016のメインストリームサポートの終了日と同じだ。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042400361/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Martyn Williams</div>
+</div>
+<p>
+　Microsoftの関係者は、Office 365を発表した2010年の時点で、顧客はクラウドへの移行を求めていると話していた。既存のスタンドアロン版Officeを利用しているユーザーの中には、2020年以降、Office 365に契約することが必要となるユーザーが出てきそうだ。
+</p>
+<p>
+　少なくとも筆者の職場では、Skypeに関しては個人用のアカウントを好んで使う人が多い。また、法人向けのOneDriveやSkypeを利用可能でも、実際には使っていないという企業も大いにあるだろう。だが、中小企業の経営者の方が、Microsoftのビジョンを受け入れてそうしたサービスを活用しつつ、スタンドアロン版のOfficeを業務に利用してきたのであれば、今回の決定は、突然見捨てられたような気分になるかもしれない。ExcelのスプレッドシートをすべてOneDrive for Businessに保存していた場合は、ファイルをダウンロードして個人用のOneDriveに移すか、あるいはMicrosoftの真の望みどおり、Office 365に契約する必要が生じる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042400361/?ST=cm-software&P=2">影響するサービスは</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042400361/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042400361/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042400361/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 24 Apr 2017 10:50:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Appleが謎のAR製品開発中、リークされた社内文書が示唆（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042401248/</link>
+			<description><![CDATA[　米AppleがAR（拡張現実）関連の製品を開発しているという噂の真相を知る手がかりが、同社社内から漏れた文書の中から見つかったと米Gizmodoが現地時間2017年4月20日に報じた。 ]]></description>
+			<pubDate>Mon, 24 Apr 2017 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
