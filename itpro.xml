@@ -11,6 +11,24 @@
 			<pubDate>Fri, 21 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>サイバーエージェント、監視から運用までボット化（チャットファースト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000006/</link>
+			<description><![CDATA[　ネット広告や音楽配信事業などを展開するサイバーエージェントでは、部門が独自の判断でビジネスチャットを導入しており、チャットボットも各部門で必要なものを開発し活用している。中でも、主力のネット広告でサービス開発を担当するアドテク本部はボット活用が進んでいる。]]></description>
+			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>オフィスロボに向く業務は？（オフィスロボ導入、5つの疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900001/</link>
+			<description><![CDATA[　ロボット適用はどんな業務に向くのか。「処理量が多い」「プロセスが長い」「定期的に発生する」といった仕事にベストフィットする。]]></description>
+			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>成功するPMと失敗するPMは何が違うのか（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/042000083/</link>
+			<description><![CDATA[　イノベーションを動かす現場ではプロジェクトマネジメントがカギを握ります。ビジョナリーが望むような、ビジネスにイノベーションをもたらすプロジェクトには、強いプロジェクトマネジメントが常に欠かせません。]]></description>
+			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「ジャパンIT」から一転、1500人のグローバルIT組織の一員に（実録 グローバル化で変貌したIT部門）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033100114/033100001/</link>
 			<description><![CDATA[　この連載ではローカルITからグローバルITへの変革について、ブリティッシュ・アメリカン・タバコ・ジャパン（BATジャパン）のIT部門の経験を基に解説していく。連載でお伝えする内容が、ITのグローバル化に何らかの形で関わっている皆様の活動に一助になれば幸いである。]]></description>
@@ -35,9 +53,9 @@
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>サイバーエージェント、監視から運用までボット化（チャットファースト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000006/</link>
-			<description><![CDATA[　ネット広告や音楽配信事業などを展開するサイバーエージェントでは、部門が独自の判断でビジネスチャットを導入しており、チャットボットも各部門で必要なものを開発し活用している。中でも、主力のネット広告でサービス開発を担当するアドテク本部はボット活用が進んでいる。]]></description>
+			<title>人騒がせな標的型攻撃訓練（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042000942/</link>
+			<description><![CDATA[　複数の健康保険組合が2017年3月上旬、健康保険組合連合会（健保連）を装った不審なメールに関する注意喚起を出した。これだけ聞くとよくある話だが、実は単なる標的型攻撃メールの事件ではない。裏があった。]]></description>
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -92,24 +110,6 @@
 			<title>［SQL DWの落とし穴］大きいリソースの割り当てで遅くなる（知って安心！AWS・Azureのつまずきポイント）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042000025/</link>
 			<description><![CDATA[　Microsoft Azureのデータウエアハウス「SQL Data Warehouse」には「リソースクラス」という概念がある。ユーザーに対して割り当てるリソース量だ。大きいリソースクラスを割り当てるほど、多くのメモリーを使用したクエリー実行が可能になる。]]></description>
-			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>成功するPMと失敗するPMは何が違うのか（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/042000083/</link>
-			<description><![CDATA[　イノベーションを動かす現場ではプロジェクトマネジメントがカギを握ります。ビジョナリーが望むような、ビジネスにイノベーションをもたらすプロジェクトには、強いプロジェクトマネジメントが常に欠かせません。]]></description>
-			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>オフィスロボに向く業務は？（オフィスロボ導入、5つの疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900001/</link>
-			<description><![CDATA[　ロボット適用はどんな業務に向くのか。「処理量が多い」「プロセスが長い」「定期的に発生する」といった仕事にベストフィットする。]]></description>
-			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>人騒がせな標的型攻撃訓練（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042000942/</link>
-			<description><![CDATA[　複数の健康保険組合が2017年3月上旬、健康保険組合連合会（健保連）を装った不審なメールに関する注意喚起を出した。これだけ聞くとよくある話だが、実は単なる標的型攻撃メールの事件ではない。裏があった。]]></description>
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -236,6 +236,18 @@
 			<pubDate>Mon, 24 Apr 2017 15:47:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>プラネックス、OpenVPN専用のVPNルーター（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042401254/</link>
+			<description><![CDATA[　プラネックスコミュニケーションズは2017年4月24日、OpenVPN専用のVPNルーター「かんたんOpenVPN」（型番：VR500-OV1）を5月中旬頃発売すると発表した。参考価格（税別）は2万5000円（1年間の接続サービス料金を含む）。2年目以降の接続サービス料金は年額1万円。]]></description>
+			<pubDate>Mon, 24 Apr 2017 17:30:35 +0900</pubDate>
+		</item>
+		<item>
+			<title>サンワサプライ、Lightningに直付けできる録音マイク（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042401255/</link>
+			<description><![CDATA[　サンワサプライは2017年4月24日、iPhone/iPadに直付けして、CD音質を超える24bit/96kHzの録音ができる単一指向性録音マイク「iPhoneマイク 400-MC010」を同日発売したと発表した。]]></description>
+			<pubDate>Mon, 24 Apr 2017 17:51:55 +0900</pubDate>
+		</item>
+		<item>
 			<title>VDI環境で動画をスムーズに再生、デルのシンクライアントのエントリーモデル新製品（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042401256/</link>
 			<description><![CDATA[　デルは2017年4月24日、シンクライアント端末のエントリーモデルの新製品「Wyse 3040」を同日から販売すると発表した。クアッドコアの高性能なCPUを搭載し、スムーズな動画再生ができる。参考価格は3万4000円（税別）から。]]></description>
@@ -264,6 +276,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042401261/</link>
 			<description><![CDATA[　楽天は2017年4月24日、Jリーグの全所属クラブのグッズを販売する電子商取引（EC）サイトを7月中旬に立ち上げると発表した。楽天がECシステムの運営から物流、顧客サポートまで一括して代行する。]]></description>
 			<pubDate>Mon, 24 Apr 2017 20:23:10 +0900</pubDate>
+		</item>
+		<item>
+			<title>IT人材白書2017が公開、「デジタルビジネスの技術者が足りない」とIPA（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042401262/</link>
+			<description><![CDATA[　情報処理推進機構（IPA）は2017年4月24日、「IT人材白書2017」を公開した。2017年版は、「デジタルビジネス」を推進できるITエンジニアの必要性を強く打ち出した内容となった。]]></description>
+			<pubDate>Mon, 24 Apr 2017 21:15:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
