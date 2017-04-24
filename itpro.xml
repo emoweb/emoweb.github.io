@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>「5年でデータ処理基盤のリーダーに」、OSS専業のホートンワークスジャパン（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042101237/</link>
-			<description><![CDATA[　分散バッチ処理のHadoop製品を手がけるホートンワークスジャパンは2017年4月21日、事業説明会を開催した。この3月に同社の執行役員社長に就任した廣川裕司氏は今後5年間で国内パートナーを現在の12社から50社程度に増やすなどの成長戦略を語った。]]></description>
-			<pubDate>Fri, 21 Apr 2017 14:28:10 +0900</pubDate>
-		</item>
-		<item>
-			<title>コニカミノルタ、「エッジコンピューティング対応」の複合機を発売へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042101232/</link>
-			<description><![CDATA[　コニカミノルタは2017年4月19日に記者会見を開催し、2017年秋に発売する次世代複合機「Workplace Hub」の概要を説明した。IoT（インターネット・オブ・シングズ）端末のデータをクラウドに送らずオフィスで処理する「エッジコンピューティング」のエッジサーバーとして動作するという。]]></description>
-			<pubDate>Fri, 21 Apr 2017 14:42:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>シスコ、セキュリティ教育を学生に無償提供（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042101239/</link>
 			<description><![CDATA[　シスコシステムズは2017年4月21日、セキュリティ人材を育成するためのプログラム「サイバーセキュリティ スカラシップ」を発表した。同社のCTOを務める執行役員の濱田義之氏は、「日本におけるセキュリティ人材の枯渇は大きな問題。セキュリティ人材育成に協力するために立ち上げた」と経緯を説明する。]]></description>
@@ -59,6 +47,18 @@
 			<pubDate>Fri, 21 Apr 2017 20:11:35 +0900</pubDate>
 		</item>
 		<item>
+			<title>「ジャパンIT」から一転、1500人のグローバルIT組織の一員に（実録 グローバル化で変貌したIT部門）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033100114/033100001/</link>
+			<description><![CDATA[　この連載ではローカルITからグローバルITへの変革について、ブリティッシュ・アメリカン・タバコ・ジャパン（BATジャパン）のIT部門の経験を基に解説していく。連載でお伝えする内容が、ITのグローバル化に何らかの形で関わっている皆様の活動に一助になれば幸いである。]]></description>
+			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>［オリンパス］海外拠点とも脅威情報を共有、未然の事故防止に効果あり（百社百様、我が社のCSIRT）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/080500167/041900014/</link>
+			<description><![CDATA[　オリンパスは2015年6月、CSIRTである「OLYMPUS-CIRT」を発足させた。サイバー攻撃の高度化・巧妙化に対処するため、オリンパスグループ内でのインシデント（事故）情報の共有と、インシデントの早期で適切な対応をミッションとしている。]]></description>
+			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>サイバーエージェント、監視から運用までボット化（チャットファースト）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000006/</link>
 			<description><![CDATA[　ネット広告や音楽配信事業などを展開するサイバーエージェントでは、部門が独自の判断でビジネスチャットを導入しており、チャットボットも各部門で必要なものを開発し活用している。中でも、主力のネット広告でサービス開発を担当するアドテク本部はボット活用が進んでいる。]]></description>
@@ -71,9 +71,9 @@
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「ジャパンIT」から一転、1500人のグローバルIT組織の一員に（実録 グローバル化で変貌したIT部門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033100114/033100001/</link>
-			<description><![CDATA[　この連載ではローカルITからグローバルITへの変革について、ブリティッシュ・アメリカン・タバコ・ジャパン（BATジャパン）のIT部門の経験を基に解説していく。連載でお伝えする内容が、ITのグローバル化に何らかの形で関わっている皆様の活動に一助になれば幸いである。]]></description>
+			<title>開発、営業、3回の産休をへてマネジャーに（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/041100004/</link>
+			<description><![CDATA[　新卒で日本オラクルに入社した平井輝恵氏。オラクル一筋約20年。育児休暇を3回取得しながら、15年近くセールス部門で働き、2016年6月にサービスクラウドソリューション部部長に就いた。モーレツなキャリアウーマンなのか。その働きぶりは？]]></description>
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,9 +89,9 @@
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>本当に必要なB2Bマーケティング改革のポイント（日本を復活させるB2Bマーケティング）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000155/042000002/</link>
-			<description><![CDATA[　マーケティングの視点に立ちICTを使ってビジネスをクリエーションする取り組みについて考えることにしました。マーケティングオートメーション（MA）の導入や、ABM（Account Based Marketing）手法の習得などについては対応型の思考ではなく、創造的でかつ俯瞰的な視点で議論を展開したいと思います。]]></description>
+			<title>「海外でスマホを使って高額請求」、そんな悲劇を避けるには（海外スマホ術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041700145/042000004/</link>
+			<description><![CDATA[　まもなくGW。海外でスマートフォンを使いこなすポイントを説明する。今回のテーマは、海外旅行や出張の際の通信手段選びの基礎、主な通信手段を解説していく。]]></description>
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,9 +101,9 @@
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>開発、営業、3回の産休をへてマネジャーに（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/041100004/</link>
-			<description><![CDATA[　新卒で日本オラクルに入社した平井輝恵氏。オラクル一筋約20年。育児休暇を3回取得しながら、15年近くセールス部門で働き、2016年6月にサービスクラウドソリューション部部長に就いた。モーレツなキャリアウーマンなのか。その働きぶりは？]]></description>
+			<title>成功するPMと失敗するPMは何が違うのか（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/042000083/</link>
+			<description><![CDATA[　イノベーションを動かす現場ではプロジェクトマネジメントがカギを握ります。ビジョナリーが望むような、ビジネスにイノベーションをもたらすプロジェクトには、強いプロジェクトマネジメントが常に欠かせません。]]></description>
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -143,21 +143,9 @@
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「海外でスマホを使って高額請求」、そんな悲劇を避けるには（海外スマホ術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041700145/042000004/</link>
-			<description><![CDATA[　まもなくGW。海外でスマートフォンを使いこなすポイントを説明する。今回のテーマは、海外旅行や出張の際の通信手段選びの基礎、主な通信手段を解説していく。]]></description>
-			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>成功するPMと失敗するPMは何が違うのか（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/042000083/</link>
-			<description><![CDATA[　イノベーションを動かす現場ではプロジェクトマネジメントがカギを握ります。ビジョナリーが望むような、ビジネスにイノベーションをもたらすプロジェクトには、強いプロジェクトマネジメントが常に欠かせません。]]></description>
-			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>［オリンパス］海外拠点とも脅威情報を共有、未然の事故防止に効果あり（百社百様、我が社のCSIRT）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/080500167/041900014/</link>
-			<description><![CDATA[　オリンパスは2015年6月、CSIRTである「OLYMPUS-CIRT」を発足させた。サイバー攻撃の高度化・巧妙化に対処するため、オリンパスグループ内でのインシデント（事故）情報の共有と、インシデントの早期で適切な対応をミッションとしている。]]></description>
+			<title>本当に必要なB2Bマーケティング改革のポイント（日本を復活させるB2Bマーケティング）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000155/042000002/</link>
+			<description><![CDATA[　マーケティングの視点に立ちICTを使ってビジネスをクリエーションする取り組みについて考えることにしました。マーケティングオートメーション（MA）の導入や、ABM（Account Based Marketing）手法の習得などについては対応型の思考ではなく、創造的でかつ俯瞰的な視点で議論を展開したいと思います。]]></description>
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -258,6 +246,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042401250/</link>
 			<description><![CDATA[　米Amazon.com傘下のライブストリーミング配信事業「Twitch」は現地時間2017年4月21日、収益をクリエーターに分配する新たなプログラムを発表した。]]></description>
 			<pubDate>Mon, 24 Apr 2017 12:50:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Watsonでシステム開発支援、日本IBMが自動化ツールなど発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042401252/</link>
+			<description><![CDATA[　日本IBMは2017年4月24日、超高速開発ツールなどの製品群「Watsonを活用した次世代超高速開発」を発表した。開発メンバーが社内の関連文書やFAQを検索することを想定した、同社の人工知能システム「Watson」を基にしたチャットボット機能などを特徴とする。]]></description>
+			<pubDate>Mon, 24 Apr 2017 15:28:12 +0900</pubDate>
+		</item>
+		<item>
+			<title>テレワーク支援や重要インフラ強化など、マカフィーが日本での事業戦略を発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042301245/</link>
+			<description><![CDATA[　マカフィーは2017年4月21日、事業戦略説明会を開催した。2017年は、セキュリティ人材不足の解決、働き方改革の支援、IoT/公共インフラ分野への展開、の3つに注力する。]]></description>
+			<pubDate>Mon, 24 Apr 2017 15:47:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
