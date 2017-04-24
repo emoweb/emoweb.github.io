@@ -11,6 +11,12 @@
 			<pubDate>Fri, 21 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>韓国MVNOのシェアは11.4％、使わなかったデータ通信料金を割引（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/041800143/</link>
+			<description><![CDATA[　韓国の通信政策を担当する未来創造科学部の発表によると、2017年3月末時点で韓国のMVNO加入件数は701.7万件で全移動通信加入件数の11.4％を占めている。2011年7月から販売開始した韓国のMVNOは、2015年12月末時点で加入件数592万件（移動通信に占めるシェア10.2％）を突破し、そろそろ頭打ちではないかと言われていたが、料金プランの工夫や格安スマホの登場により、まだ増加し続けていた。]]></description>
+			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>サイバーエージェント、監視から運用までボット化（チャットファースト）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000006/</link>
 			<description><![CDATA[　ネット広告や音楽配信事業などを展開するサイバーエージェントでは、部門が独自の判断でビジネスチャットを導入しており、チャットボットも各部門で必要なものを開発し活用している。中でも、主力のネット広告でサービス開発を担当するアドテク本部はボット活用が進んでいる。]]></description>
@@ -47,9 +53,9 @@
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>韓国MVNOのシェアは11.4％、使わなかったデータ通信料金を割引（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/041800143/</link>
-			<description><![CDATA[　韓国の通信政策を担当する未来創造科学部の発表によると、2017年3月末時点で韓国のMVNO加入件数は701.7万件で全移動通信加入件数の11.4％を占めている。2011年7月から販売開始した韓国のMVNOは、2015年12月末時点で加入件数592万件（移動通信に占めるシェア10.2％）を突破し、そろそろ頭打ちではないかと言われていたが、料金プランの工夫や格安スマホの登場により、まだ増加し続けていた。]]></description>
+			<title>［SQL DWの落とし穴］大きいリソースの割り当てで遅くなる（知って安心！AWS・Azureのつまずきポイント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042000025/</link>
+			<description><![CDATA[　Microsoft Azureのデータウエアハウス「SQL Data Warehouse」には「リソースクラス」という概念がある。ユーザーに対して割り当てるリソース量だ。大きいリソースクラスを割り当てるほど、多くのメモリーを使用したクエリー実行が可能になる。]]></description>
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -104,12 +110,6 @@
 			<title>セキュリティはやっぱり痛い目にあわないと…（日経ITイノベーターズ白熱議論＆講演）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041800010/</link>
 			<description><![CDATA[　「どうする！？情報セキュリティ」――。強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」では、2016年3月25日の定期会合でずばりこのテーマでディスカッションした。]]></description>
-			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>［SQL DWの落とし穴］大きいリソースの割り当てで遅くなる（知って安心！AWS・Azureのつまずきポイント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042000025/</link>
-			<description><![CDATA[　Microsoft Azureのデータウエアハウス「SQL Data Warehouse」には「リソースクラス」という概念がある。ユーザーに対して割り当てるリソース量だ。大きいリソースクラスを割り当てるほど、多くのメモリーを使用したクエリー実行が可能になる。]]></description>
 			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -282,6 +282,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042401262/</link>
 			<description><![CDATA[　情報処理推進機構（IPA）は2017年4月24日、「IT人材白書2017」を公開した。2017年版は、「デジタルビジネス」を推進できるITエンジニアの必要性を強く打ち出した内容となった。]]></description>
 			<pubDate>Mon, 24 Apr 2017 21:15:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>DeNAと横浜市、金沢動物園内で一般向け自動運転バス試乗イベント（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042401263/</link>
+			<description><![CDATA[　ディー・エヌ・エー（DeNA）と横浜市は、2017年4月24日、自動運転社会を見据えた地域交通のあり方を検討する「無人運転サービス・AIを用いた地域交通課題解決プロジェクト」を開始した。4月27日、28日の2日間、神奈川県横浜市の金沢動物園にて実施する。]]></description>
+			<pubDate>Mon, 24 Apr 2017 22:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
