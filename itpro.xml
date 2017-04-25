@@ -5,10 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>プラネックス、OpenVPN専用のVPNルーター（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042401254/</link>
-			<description><![CDATA[　プラネックスコミュニケーションズは2017年4月24日、OpenVPN専用のVPNルーター「かんたんOpenVPN」（型番：VR500-OV1）を5月中旬頃発売すると発表した。参考価格（税別）は2万5000円（1年間の接続サービス料金を含む）。2年目以降の接続サービス料金は年額1万円。]]></description>
-			<pubDate>Mon, 24 Apr 2017 17:30:35 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：人騒がせな標的型攻撃訓練（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042000942/?d25</link>
+			<description><![CDATA[　複数の健康保険組合が2017年3月上旬、健康保険組合連合会（健保連）を装った不審なメールに関する注意喚起を出した。これだけ聞くとよくある話だが、実は単なる標的型攻撃メールの事件ではない。裏があった。]]></description>
+			<pubDate>Mon, 24 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>サンワサプライ、Lightningに直付けできる録音マイク（ニュース）</title>
@@ -59,15 +59,21 @@
 			<pubDate>Mon, 24 Apr 2017 22:10:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>ITダッシュボード（電子行政：キーワード）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/14/260942/041400015/</link>
+			<description><![CDATA[　ITダッシュボードとは、政府の府省ごとのIT投資の状況を、国民の誰もが横断的に確認・活用できるようにしたサイトです。各府省の情報システムの数や予算のほか、ITベンダーとの契約情報や、設定目標と進捗状況、さらに政府自らが評価した結果など、各種施策の状況を公開しています。]]></description>
+			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「当社のCISOはホワイトハッカーです」（日経ITイノベーターズ白熱議論＆講演）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041800011/</link>
 			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年3月25日の定期会合のテーマは「どうする！？情報セキュリティ」だ。CISOの役割が論点になった。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ITダッシュボード（電子行政：キーワード）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/14/260942/041400015/</link>
-			<description><![CDATA[　ITダッシュボードとは、政府の府省ごとのIT投資の状況を、国民の誰もが横断的に確認・活用できるようにしたサイトです。各府省の情報システムの数や予算のほか、ITベンダーとの契約情報や、設定目標と進捗状況、さらに政府自らが評価した結果など、各種施策の状況を公開しています。]]></description>
+			<title>立てれば分かる、「Mastodon」がはやるワケ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/042100826/</link>
+			<description><![CDATA[　Twitterのようなサイトを簡単に構築できる「Mastodon（マストドン）」がネットを騒がせている。数百ユーザー単位のミニTwitterが相互に連携する仕組みで、国内ユーザーは5万人を超えた。なぜここまで流行るのか。自分で構築してみれば一目瞭然だ。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,15 +95,15 @@
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>グローバルプロジェクト成功の鍵は「小学生でも理解できる資料」（実録 グローバル化で変貌したIT部門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033100114/033100002/</link>
-			<description><![CDATA[　この連載ではローカルITからグローバルITへの変革について、ブリティッシュ・アメリカン・タバコ・ジャパン（BATジャパン）のIT部門の経験を基に解説している。今回はプロジェクトマネジメントに焦点を当てる。]]></description>
+			<title>誰もが無意識のうちに足を引っ張る（古いシステムの捨て方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/041700006/</link>
+			<description><![CDATA[　企業の基幹系システムを再構築する第一の目的は、“保守性”を向上することにある。保守性の向上は、案件実現のスピードアップやコスト削減につながる。今回は、アプリ開発者が頑張るだけでは、保守性の向上を実現できない実情を解説する。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>立てれば分かる、「Mastodon」がはやるワケ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/042100826/</link>
-			<description><![CDATA[　Twitterのようなサイトを簡単に構築できる「Mastodon（マストドン）」がネットを騒がせている。数百ユーザー単位のミニTwitterが相互に連携する仕組みで、国内ユーザーは5万人を超えた。なぜここまで流行るのか。自分で構築してみれば一目瞭然だ。]]></description>
+			<title>大企業のIT部門も個人依存、属人化の何が悪い！（10人のIT部門が消滅～ひとり情シス顛末記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/042100016/</link>
+			<description><![CDATA[　IT部門が消滅し、たった一人のIT担当者が残された。この実話を当事者が語る「ひとり情シス顛末記」。セカンドシーズンでは読者の質問や批判に答えているが、今回の質問は「ひとりが本当に理想なのか。属人化するではないか」というツッコミだ。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -137,15 +143,9 @@
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>誰もが無意識のうちに足を引っ張る（古いシステムの捨て方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/041700006/</link>
-			<description><![CDATA[　企業の基幹系システムを再構築する第一の目的は、“保守性”を向上することにある。保守性の向上は、案件実現のスピードアップやコスト削減につながる。今回は、アプリ開発者が頑張るだけでは、保守性の向上を実現できない実情を解説する。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>大企業のIT部門も個人依存、属人化の何が悪い！（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/042100016/</link>
-			<description><![CDATA[　IT部門が消滅し、たった一人のIT担当者が残された。この実話を当事者が語る「ひとり情シス顛末記」。セカンドシーズンでは読者の質問や批判に答えているが、今回の質問は「ひとりが本当に理想なのか。属人化するではないか」というツッコミだ。]]></description>
+			<title>グローバルプロジェクト成功の鍵は「小学生でも理解できる資料」（実録 グローバル化で変貌したIT部門）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033100114/033100002/</link>
+			<description><![CDATA[　この連載ではローカルITからグローバルITへの変革について、ブリティッシュ・アメリカン・タバコ・ジャパン（BATジャパン）のIT部門の経験を基に解説している。今回はプロジェクトマネジメントに焦点を当てる。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -259,6 +259,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042501271/</link>
 			<description><![CDATA[　ぴあは2017年4月25日、同社が運営を受託している「B.LEAGUE」関連のWebサイトから最大約15万5000件の個人情報が流出した可能性があると発表した。原因は同サイトに使っている「Apache Struts2」の脆弱性。約3万2000件のクレジットカード情報も含まれるという。]]></description>
 			<pubDate>Tue, 25 Apr 2017 14:31:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>シスコCEO、トランプ政権の技術者ビザ厳格化に理解「本来の熟練者に使われるべき」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042501272/</link>
+			<description><![CDATA[　米シスコシステムズのチャック・ロビンス最高経営責任者（CEO）は2017年4月25日に東京都内で会見した。米トランプ政権が打ち出している技術者向けの就労ビザ「H-1B」の審査厳格化について「本来の意味で熟練度の高い人に利用されないといけない」と理解を示した。]]></description>
+			<pubDate>Tue, 25 Apr 2017 16:56:05 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
