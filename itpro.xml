@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Watsonでシステム開発支援、日本IBMが自動化ツールなど発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042401252/</link>
-			<description><![CDATA[　日本IBMは2017年4月24日、超高速開発ツールなどの製品群「Watsonを活用した次世代超高速開発」を発表した。開発メンバーが社内の関連文書やFAQを検索することを想定した、同社の人工知能システム「Watson」を基にしたチャットボット機能などを特徴とする。]]></description>
-			<pubDate>Mon, 24 Apr 2017 15:28:12 +0900</pubDate>
-		</item>
-		<item>
-			<title>DNP、デジタルマーケティング支援ツールをクラウドで提供（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042401253/</link>
-			<description><![CDATA[　大日本印刷（DNP）は2017年4月24日、企業のデジタルマーケティングを支援するソフトウエア製品「diip（ディープ）」をクラウドでも提供すると発表した。]]></description>
-			<pubDate>Mon, 24 Apr 2017 15:44:44 +0900</pubDate>
-		</item>
-		<item>
 			<title>テレワーク支援や重要インフラ強化など、マカフィーが日本での事業戦略を発表（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042301245/</link>
 			<description><![CDATA[　マカフィーは2017年4月21日、事業戦略説明会を開催した。2017年は、セキュリティ人材不足の解決、働き方改革の支援、IoT/公共インフラ分野への展開、の3つに注力する。]]></description>
@@ -83,6 +71,18 @@
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>「当社のCISOはホワイトハッカーです」（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041800011/</link>
+			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年3月25日の定期会合のテーマは「どうする！？情報セキュリティ」だ。CISOの役割が論点になった。]]></description>
+			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>LPWAで存在感が薄れつつあるビーコン、LINEが積極活用する理由とは（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/041700103/</link>
+			<description><![CDATA[　手軽にスマートフォンとリアルな場所をつないだO2O（Online to Offline）施策を手軽に実現できる手段して、かつて大きな注目を集めた「ビーコン」。LPWAなど新しいIoT通信方式の台頭によって最近では存在感が薄れてしまっている。なぜLINEはビーコンの積極活用に乗り出しているのだろうか。]]></description>
+			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ITスキル標準がデジタル時代に向け復権？！（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042100943/</link>
 			<description><![CDATA[　IT人材の分類や必要なスキル（能力）を整理した「ITスキル標準（ITSS）」が装いを新たに再登場した。名称は「ITSS＋（プラス）」。デジタル時代に求められるIT人材像や、その人材が担うタスク（業務）やスキルをまとめたもの。従来のITSSを補完する役割を果たす。]]></description>
@@ -95,15 +95,15 @@
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「何を学んでもらうかを明確に」、子どものプログラミング教育でCANVASが報告会（子どもたちにプログラミングを教えよう！イベントレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/499982/042000038/</link>
-			<description><![CDATA[　NPO法人CANVASが推進する「Programming for ALL」プロジェクトの目的は、子供たちのプログラミング学習機会を増やすこと。学校や地域での指導者研修会、実証事業やワークショップを通じて、多様な層への学習機会の提供モデルを確立する活動に取り組んだ、その成果報告会の概要をお伝えする。]]></description>
+			<title>大企業のIT部門も個人依存、属人化の何が悪い！（10人のIT部門が消滅～ひとり情シス顛末記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/042100016/</link>
+			<description><![CDATA[　IT部門が消滅し、たった一人のIT担当者が残された。この実話を当事者が語る「ひとり情シス顛末記」。セカンドシーズンでは読者の質問や批判に答えているが、今回の質問は「ひとりが本当に理想なのか。属人化するではないか」というツッコミだ。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>LPWAで存在感が薄れつつあるビーコン、LINEが積極活用する理由とは（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/041700103/</link>
-			<description><![CDATA[　手軽にスマートフォンとリアルな場所をつないだO2O（Online to Offline）施策を手軽に実現できる手段して、かつて大きな注目を集めた「ビーコン」。LPWAなど新しいIoT通信方式の台頭によって最近では存在感が薄れてしまっている。なぜLINEはビーコンの積極活用に乗り出しているのだろうか。]]></description>
+			<title>ボットが知らせる異変に看護士が急行、グッドライフケア（チャットファースト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000007/</link>
+			<description><![CDATA[　東京都と大阪府で訪問介護サービスなどを提供するグッドライフケアホールディングスは、被介護者の近況を共有するためにチャットを活用している。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -149,21 +149,9 @@
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>大企業のIT部門も個人依存、属人化の何が悪い！（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/042100016/</link>
-			<description><![CDATA[　IT部門が消滅し、たった一人のIT担当者が残された。この実話を当事者が語る「ひとり情シス顛末記」。セカンドシーズンでは読者の質問や批判に答えているが、今回の質問は「ひとりが本当に理想なのか。属人化するではないか」というツッコミだ。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ボットが知らせる異変に看護士が急行、グッドライフケア（チャットファースト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000007/</link>
-			<description><![CDATA[　東京都と大阪府で訪問介護サービスなどを提供するグッドライフケアホールディングスは、被介護者の近況を共有するためにチャットを活用している。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「当社のCISOはホワイトハッカーです」（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041800011/</link>
-			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年3月25日の定期会合のテーマは「どうする！？情報セキュリティ」だ。CISOの役割が論点になった。]]></description>
+			<title>「何を学んでもらうかを明確に」、子どものプログラミング教育でCANVASが報告会（子どもたちにプログラミングを教えよう！イベントレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/499982/042000038/</link>
+			<description><![CDATA[　NPO法人CANVASが推進する「Programming for ALL」プロジェクトの目的は、子供たちのプログラミング学習機会を増やすこと。学校や地域での指導者研修会、実証事業やワークショップを通じて、多様な層への学習機会の提供モデルを確立する活動に取り組んだ、その成果報告会の概要をお伝えする。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -255,10 +243,22 @@
 			<pubDate>Tue, 25 Apr 2017 10:35:41 +0900</pubDate>
 		</item>
 		<item>
+			<title>組織図にも顔写真、人材管理のカオナビが新機能（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042501266/</link>
+			<description><![CDATA[　人材管理のクラウドサービスを手掛けるカオナビは2017年4月25日、顔写真付きの組織図を作成する機能の提供を始めた。ツリー状の組織図上に従業員の顔写真を配置することで、名前だけよりも組織構造を理解しやすくなるという。]]></description>
+			<pubDate>Tue, 25 Apr 2017 11:39:20 +0900</pubDate>
+		</item>
+		<item>
 			<title>AppleがNASA出身者を複数採用か、自動運転テストやAR開発に（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042501267/</link>
 			<description><![CDATA[　米Appleの自動運転車プロジェクトの試験走行では、より経験豊富なエンジニアをテストドライバーとして乗車させるようだと、米Wall Street Journalが現地時間2017年4月24日に報じた。その中には米航空宇宙局（NASA）出身者などが含まれる。]]></description>
 			<pubDate>Tue, 25 Apr 2017 11:44:36 +0900</pubDate>
+		</item>
+		<item>
+			<title>LinkedInのユーザーが5億人を突破、求人数は1000万件以上（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042501270/</link>
+			<description><![CDATA[　ビジネスに特化したSNSを運営する米LinkedInは現地時間2017年4月24日、ユーザー数が5億人を突破したと発表した。]]></description>
+			<pubDate>Tue, 25 Apr 2017 12:42:38 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
