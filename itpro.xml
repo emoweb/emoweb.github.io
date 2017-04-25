@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>テレワーク支援や重要インフラ強化など、マカフィーが日本での事業戦略を発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042301245/</link>
-			<description><![CDATA[　マカフィーは2017年4月21日、事業戦略説明会を開催した。2017年は、セキュリティ人材不足の解決、働き方改革の支援、IoT/公共インフラ分野への展開、の3つに注力する。]]></description>
-			<pubDate>Mon, 24 Apr 2017 15:47:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>プラネックス、OpenVPN専用のVPNルーター（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042401254/</link>
 			<description><![CDATA[　プラネックスコミュニケーションズは2017年4月24日、OpenVPN専用のVPNルーター「かんたんOpenVPN」（型番：VR500-OV1）を5月中旬頃発売すると発表した。参考価格（税別）は2万5000円（1年間の接続サービス料金を含む）。2年目以降の接続サービス料金は年額1万円。]]></description>
@@ -65,15 +59,21 @@
 			<pubDate>Mon, 24 Apr 2017 22:10:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>「当社のCISOはホワイトハッカーです」（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041800011/</link>
+			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年3月25日の定期会合のテーマは「どうする！？情報セキュリティ」だ。CISOの役割が論点になった。]]></description>
+			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ITダッシュボード（電子行政：キーワード）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/14/260942/041400015/</link>
 			<description><![CDATA[　ITダッシュボードとは、政府の府省ごとのIT投資の状況を、国民の誰もが横断的に確認・活用できるようにしたサイトです。各府省の情報システムの数や予算のほか、ITベンダーとの契約情報や、設定目標と進捗状況、さらに政府自らが評価した結果など、各種施策の状況を公開しています。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「当社のCISOはホワイトハッカーです」（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041800011/</link>
-			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年3月25日の定期会合のテーマは「どうする！？情報セキュリティ」だ。CISOの役割が論点になった。]]></description>
+			<title>ボットが知らせる異変に看護士が急行、グッドライフケア（チャットファースト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000007/</link>
+			<description><![CDATA[　東京都と大阪府で訪問介護サービスなどを提供するグッドライフケアホールディングスは、被介護者の近況を共有するためにチャットを活用している。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>大企業のIT部門も個人依存、属人化の何が悪い！（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/042100016/</link>
-			<description><![CDATA[　IT部門が消滅し、たった一人のIT担当者が残された。この実話を当事者が語る「ひとり情シス顛末記」。セカンドシーズンでは読者の質問や批判に答えているが、今回の質問は「ひとりが本当に理想なのか。属人化するではないか」というツッコミだ。]]></description>
+			<title>立てれば分かる、「Mastodon」がはやるワケ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/042100826/</link>
+			<description><![CDATA[　Twitterのようなサイトを簡単に構築できる「Mastodon（マストドン）」がネットを騒がせている。数百ユーザー単位のミニTwitterが相互に連携する仕組みで、国内ユーザーは5万人を超えた。なぜここまで流行るのか。自分で構築してみれば一目瞭然だ。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ボットが知らせる異変に看護士が急行、グッドライフケア（チャットファースト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000007/</link>
-			<description><![CDATA[　東京都と大阪府で訪問介護サービスなどを提供するグッドライフケアホールディングスは、被介護者の近況を共有するためにチャットを活用している。]]></description>
+			<title>「何を学んでもらうかを明確に」、子どものプログラミング教育でCANVASが報告会（子どもたちにプログラミングを教えよう！イベントレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/499982/042000038/</link>
+			<description><![CDATA[　NPO法人CANVASが推進する「Programming for ALL」プロジェクトの目的は、子供たちのプログラミング学習機会を増やすこと。学校や地域での指導者研修会、実証事業やワークショップを通じて、多様な層への学習機会の提供モデルを確立する活動に取り組んだ、その成果報告会の概要をお伝えする。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -143,15 +143,9 @@
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>立てれば分かる、「Mastodon」がはやるワケ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/042100826/</link>
-			<description><![CDATA[　Twitterのようなサイトを簡単に構築できる「Mastodon（マストドン）」がネットを騒がせている。数百ユーザー単位のミニTwitterが相互に連携する仕組みで、国内ユーザーは5万人を超えた。なぜここまで流行るのか。自分で構築してみれば一目瞭然だ。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「何を学んでもらうかを明確に」、子どものプログラミング教育でCANVASが報告会（子どもたちにプログラミングを教えよう！イベントレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/499982/042000038/</link>
-			<description><![CDATA[　NPO法人CANVASが推進する「Programming for ALL」プロジェクトの目的は、子供たちのプログラミング学習機会を増やすこと。学校や地域での指導者研修会、実証事業やワークショップを通じて、多様な層への学習機会の提供モデルを確立する活動に取り組んだ、その成果報告会の概要をお伝えする。]]></description>
+			<title>大企業のIT部門も個人依存、属人化の何が悪い！（10人のIT部門が消滅～ひとり情シス顛末記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/042100016/</link>
+			<description><![CDATA[　IT部門が消滅し、たった一人のIT担当者が残された。この実話を当事者が語る「ひとり情シス顛末記」。セカンドシーズンでは読者の質問や批判に答えているが、今回の質問は「ひとりが本当に理想なのか。属人化するではないか」というツッコミだ。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -259,6 +253,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042501270/</link>
 			<description><![CDATA[　ビジネスに特化したSNSを運営する米LinkedInは現地時間2017年4月24日、ユーザー数が5億人を突破したと発表した。]]></description>
 			<pubDate>Tue, 25 Apr 2017 12:42:38 +0900</pubDate>
+		</item>
+		<item>
+			<title>またもStruts2で漏洩、ぴあ運営のB.LEAGUEサイトから流出したカード番号で被害（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042501271/</link>
+			<description><![CDATA[　ぴあは2017年4月25日、同社が運営を受託している「B.LEAGUE」関連のWebサイトから最大約15万5000件の個人情報が流出した可能性があると発表した。原因は同サイトに使っている「Apache Struts2」の脆弱性。約3万2000件のクレジットカード情報も含まれるという。]]></description>
+			<pubDate>Tue, 25 Apr 2017 14:31:04 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
