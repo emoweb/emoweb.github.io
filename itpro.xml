@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「対策を立てろ」は無能なマネジャーの常套句（脱出！ 暗闇プロジェクト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/032400060/?n26</link>
-			<description><![CDATA[　今どきのプロジェクトの多くは問題探索型であり、先を見通せないなかで運営していかなければならない。この連載では、そうしたプロジェクトを「暗闇プロジェクト」と呼び、その種のプロジェクトを主導するマネジャーが持つべき心得や運営のヒントを事例とともに示している。今回から問題解決について取り上げる。]]></description>
-			<pubDate>Mon, 10 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ビューン、マンション入居者が無料で雑誌・マンガ読み放題のサービス（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042501274/</link>
-			<description><![CDATA[　ビューンは2017年4月25日、マンションなど集合住宅のオーナー向けに、入居者に対して雑誌・マンガの読み放題を無料提供できる新サービス「ビューン読み放題マンション」を、2017年6月1日から提供開始すると発表した。導入料金は、集合住宅規模によって異なる。]]></description>
-			<pubDate>Tue, 25 Apr 2017 17:55:21 +0900</pubDate>
-		</item>
-		<item>
 			<title>PwCサイバー、運用委託先を踏み台に機密情報を盗む攻撃を報告（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042501277/</link>
 			<description><![CDATA[　PwCサイバーサービスは2017年4月25日、2016年後半から2017年初頭にかけて行われた新しいタイプのサイバー攻撃「クラウドホッパー作戦」について報告した。ユーザー企業のシステム運用を受託しているサービス事業者を踏み台にする攻撃である。]]></description>
@@ -59,6 +47,12 @@
 			<pubDate>Tue, 25 Apr 2017 20:13:18 +0900</pubDate>
 		</item>
 		<item>
+			<title>IDOM、「ガリバー」サイトでの商談成功率がチャットで2倍超に（チャットファースト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000008/</link>
+			<description><![CDATA[　中古車の買い取り・販売チェーン「ガリバー」などを展開するIDOMは、2016年1月にWebチャット機能で消費者の中古車探しを支援するサイト「クルマコネクト」を稼働させた。サイトから店舗に誘導した見込み客との商談成功率は、直接の来店客の約2.2倍に達するという。]]></description>
+			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>プライバシー保護とデータ活用の両立支援、NECが新組織で課題解決急ぐ（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042400945/</link>
 			<description><![CDATA[　NECは2017年4月、プライバシー保護とデータ活用の両立という顧客の課題を解決する「データ流通戦略室」を新設した。同社の顔認証技術などを顧客が導入する際に、法制度や倫理、社会の受容性など踏まえて、顧客に対してデータ活用の戦略立案や外部とのコミュニケーションなどを支援する。]]></description>
@@ -77,9 +71,9 @@
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>IDOM、「ガリバー」サイトでの商談成功率がチャットで2倍超に（チャットファースト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000008/</link>
-			<description><![CDATA[　中古車の買い取り・販売チェーン「ガリバー」などを展開するIDOMは、2016年1月にWebチャット機能で消費者の中古車探しを支援するサイト「クルマコネクト」を稼働させた。サイトから店舗に誘導した見込み客との商談成功率は、直接の来店客の約2.2倍に達するという。]]></description>
+			<title>［SQL DWの落とし穴］復元ポイントから作ったサーバーにログインできない（知って安心！AWS・Azureのつまずきポイント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042400028/</link>
+			<description><![CDATA[　マイクロソフトのクラウドMicrosoft Azureのデータウエアハウス（DWH）サービス「SQL Data Warehouse」では、復元ポイントからSQL Data Warehouseの新しいインスタンス（サーバー）を作成することができる。]]></description>
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,15 +95,15 @@
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>4K HDR（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/041300066/</link>
-			<description><![CDATA[　大型・薄型テレビの高級モデルで急速に普及しつつある「明るさ（輝度）」を拡大する技術。高精細な4Kテレビの付加機能として搭載され、より立体感のある映像を楽しめる。スマートフォンに搭載するケースも出てきた。]]></description>
+			<title>働き方改革の抵抗勢力、推進側が「正義」で反対派が「悪」ではない（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/040500816/</link>
+			<description><![CDATA[　働き方改革のリーダーが必ずぶつかる壁がある。社内の抵抗勢力だ。変革を起こそうとすれば抵抗は必ず発生する。その向き合い方のコツは相手への共感だ。]]></description>
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>［SQL DWの落とし穴］復元ポイントから作ったサーバーにログインできない（知って安心！AWS・Azureのつまずきポイント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042400028/</link>
-			<description><![CDATA[　マイクロソフトのクラウドMicrosoft Azureのデータウエアハウス（DWH）サービス「SQL Data Warehouse」では、復元ポイントからSQL Data Warehouseの新しいインスタンス（サーバー）を作成することができる。]]></description>
+			<title>RPAによる業務の自動化、実践する際のポイントは？（オフィスロボ導入、5つの疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900003/</link>
+			<description><![CDATA[　RPA（ロボティック・プロセス・オートメーション）により、業務を自動化（ロボット化）していくポイントはどこか？業務の詳細把握と人との「共存協業」がカギになる。]]></description>
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -149,22 +143,10 @@
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>働き方改革の抵抗勢力、推進側が「正義」で反対派が「悪」ではない（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/040500816/</link>
-			<description><![CDATA[　働き方改革のリーダーが必ずぶつかる壁がある。社内の抵抗勢力だ。変革を起こそうとすれば抵抗は必ず発生する。その向き合い方のコツは相手への共感だ。]]></description>
+			<title>4K HDR（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/041300066/</link>
+			<description><![CDATA[　大型・薄型テレビの高級モデルで急速に普及しつつある「明るさ（輝度）」を拡大する技術。高精細な4Kテレビの付加機能として搭載され、より立体感のある映像を楽しめる。スマートフォンに搭載するケースも出てきた。]]></description>
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>RPAによる業務の自動化、実践する際のポイントは？（オフィスロボ導入、5つの疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900003/</link>
-			<description><![CDATA[　RPA（ロボティック・プロセス・オートメーション）により、業務を自動化（ロボット化）していくポイントはどこか？業務の詳細把握と人との「共存協業」がカギになる。]]></description>
-			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「Ansibleは社内インフラを全て運用できる」、レッドハットが販売戦略を発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042501283/</link>
-			<description><![CDATA[　レッドハットは2017年4月25日、サーバーの設定・運用を自動化するツール「Ansible Tower by Red Hat」の販売戦略を発表した。システム開発の効率を高めるだけでなく、企業のシステム機器運用を自動化するツールとして売り込む。]]></description>
-			<pubDate>Wed, 26 Apr 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ランサムウエアの身代金、ビットコインはどこで買うべきか（中）（ランサムウエアの身代金、ビットコインはどこで買うべきか）</title>
@@ -201,6 +183,12 @@
 <div></div>
 </div>
 ]]></description>
+			<pubDate>Wed, 26 Apr 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「Ansibleは社内インフラを全て運用できる」、レッドハットが販売戦略を発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042501283/</link>
+			<description><![CDATA[　レッドハットは2017年4月25日、サーバーの設定・運用を自動化するツール「Ansible Tower by Red Hat」の販売戦略を発表した。システム開発の効率を高めるだけでなく、企業のシステム機器運用を自動化するツールとして売り込む。]]></description>
 			<pubDate>Wed, 26 Apr 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -253,6 +241,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042601286/</link>
 			<description><![CDATA[　米Appleは現地時間2017年4月25日、直営店「Apple Store」において、「Today at Apple」と総称する講座を提供すると発表した。]]></description>
 			<pubDate>Wed, 26 Apr 2017 10:44:50 +0900</pubDate>
+		</item>
+		<item>
+			<title>JAふくしま未来、エネルギーハーベスティングとLPWAで果樹の防霜対策（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042601287/</link>
+			<description><![CDATA[　ふくしま未来農業協同組合（JAふくしま未来）は、果樹の防霜対策を目的に、NTT東日本の圃場センシング技術「eセンシング For アグリ」を導入し、4月に運用を開始すると発表した。]]></description>
+			<pubDate>Wed, 26 Apr 2017 11:55:11 +0900</pubDate>
 		</item>
 		<item>
 			<title>Googleが新たな偽情報対策、アルゴリズム変更で低品質コンテンツを降格（ニュース）</title>
