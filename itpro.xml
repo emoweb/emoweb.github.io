@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>LPWAで存在感が薄れつつあるビーコン、LINEが積極活用する理由とは（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/041700103/</link>
+			<description><![CDATA[　手軽にスマートフォンとリアルな場所をつないだO2O（Online to Offline）施策を手軽に実現できる手段して、かつて大きな注目を集めた「ビーコン」。LPWAなど新しいIoT通信方式の台頭によって最近では存在感が薄れてしまっている。なぜLINEはビーコンの積極活用に乗り出しているのだろうか。]]></description>
+			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>誰もが無意識のうちに足を引っ張る（古いシステムの捨て方）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/041700006/</link>
 			<description><![CDATA[　企業の基幹系システムを再構築する第一の目的は、“保守性”を向上することにある。保守性の向上は、案件実現のスピードアップやコスト削減につながる。今回は、アプリ開発者が頑張るだけでは、保守性の向上を実現できない実情を解説する。]]></description>
@@ -59,15 +65,15 @@
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>［SQL DWの落とし穴］外部テーブルにデータ追加するたび手間発生（知って安心！AWS・Azureのつまずきポイント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042100026/</link>
-			<description><![CDATA[　Azure SQL Data Warehouseには「PolyBase」という機能がある。Azure Blob Storageに格納したCSV（カンマ区切り）などのテキストファイルをそのまま外部テーブルとして読み込み、テーブルとして参照できる。]]></description>
+			<title>オフィスロボの導入は誰がリードすればいい？（オフィスロボ導入、5つの疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900002/</link>
+			<description><![CDATA[　オフィスロボの導入主体はIT部門なのか、利用部門なのか？利用部門主体でも開発できるが、IT部門が担えば効率がアップする。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>LPWAで存在感が薄れつつあるビーコン、LINEが積極活用する理由とは（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/041700103/</link>
-			<description><![CDATA[　手軽にスマートフォンとリアルな場所をつないだO2O（Online to Offline）施策を手軽に実現できる手段して、かつて大きな注目を集めた「ビーコン」。LPWAなど新しいIoT通信方式の台頭によって最近では存在感が薄れてしまっている。なぜLINEはビーコンの積極活用に乗り出しているのだろうか。]]></description>
+			<title>「何を学んでもらうかを明確に」、子どものプログラミング教育でCANVASが報告会（子どもたちにプログラミングを教えよう！イベントレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/499982/042000038/</link>
+			<description><![CDATA[　NPO法人CANVASが推進する「Programming for ALL」プロジェクトの目的は、子供たちのプログラミング学習機会を増やすこと。学校や地域での指導者研修会、実証事業やワークショップを通じて、多様な層への学習機会の提供モデルを確立する活動に取り組んだ、その成果報告会の概要をお伝えする。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -83,22 +89,10 @@
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>オフィスロボの導入は誰がリードすればいい？（オフィスロボ導入、5つの疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900002/</link>
-			<description><![CDATA[　オフィスロボの導入主体はIT部門なのか、利用部門なのか？利用部門主体でも開発できるが、IT部門が担えば効率がアップする。]]></description>
+			<title>［SQL DWの落とし穴］外部テーブルにデータ追加するたび手間発生（知って安心！AWS・Azureのつまずきポイント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042100026/</link>
+			<description><![CDATA[　Azure SQL Data Warehouseには「PolyBase」という機能がある。Azure Blob Storageに格納したCSV（カンマ区切り）などのテキストファイルをそのまま外部テーブルとして読み込み、テーブルとして参照できる。]]></description>
 			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「何を学んでもらうかを明確に」、子どものプログラミング教育でCANVASが報告会（子どもたちにプログラミングを教えよう！イベントレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/499982/042000038/</link>
-			<description><![CDATA[　NPO法人CANVASが推進する「Programming for ALL」プロジェクトの目的は、子供たちのプログラミング学習機会を増やすこと。学校や地域での指導者研修会、実証事業やワークショップを通じて、多様な層への学習機会の提供モデルを確立する活動に取り組んだ、その成果報告会の概要をお伝えする。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AppleがNASA出身者を複数採用か、自動運転テストやAR開発に（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042501267/</link>
-			<description><![CDATA[　米Appleの自動運転車プロジェクトの試験走行では、より経験豊富なエンジニアをテストドライバーとして乗車させるようだと、米Wall Street Journalが現地時間2017年4月24日に報じた。その中には米航空宇宙局（NASA）出身者などが含まれる。]]></description>
-			<pubDate>Tue, 25 Apr 2017 11:44:36 +0900</pubDate>
 		</item>
 		<item>
 			<title>LinkedInのユーザーが5億人を突破、求人数は1000万件以上（ニュース）</title>
@@ -173,6 +167,12 @@
 			<pubDate>Tue, 25 Apr 2017 20:13:18 +0900</pubDate>
 		</item>
 		<item>
+			<title>富士通、Oracle Cloudで基幹システムを巻き取りへ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042400948/</link>
+			<description><![CDATA[　富士通と日本オラクルは2017年4月20日、富士通のクラウド「K5」からOracle Databaseが使えるPaaSの販売を始めた。富士通はOracle DBを強みに、企業がオンプレミスで運用している基幹系システムをK5へ巻き取る狙いだ。]]></description>
+			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>大学関係者をだます攻撃の調査で見つかった、複数の外交文書（辻伸弘の裏読みセキュリティ事件簿）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/012900025/042100039/</link>
 			<description><![CDATA[　大学関係者に、手続きしないと研究に使う科研費が繰り越せないという趣旨のメールが届く事件が発生した。調査をすると、首脳会談や慰安婦問題に関する書類が次々と見つかった。]]></description>
@@ -203,15 +203,15 @@
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>富士通、Oracle Cloudで基幹システムを巻き取りへ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042400948/</link>
-			<description><![CDATA[　富士通と日本オラクルは2017年4月20日、富士通のクラウド「K5」からOracle Databaseが使えるPaaSの販売を始めた。富士通はOracle DBを強みに、企業がオンプレミスで運用している基幹系システムをK5へ巻き取る狙いだ。]]></description>
+			<title>IDOM、「ガリバー」サイトでの商談成功率がチャットで2倍超に（チャットファースト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000008/</link>
+			<description><![CDATA[　中古車の買い取り・販売チェーン「ガリバー」などを展開するIDOMは、2016年1月にWebチャット機能で消費者の中古車探しを支援するサイト「クルマコネクト」を稼働させた。サイトから店舗に誘導した見込み客との商談成功率は、直接の来店客の約2.2倍に達するという。]]></description>
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>［SQL DWの落とし穴］復元ポイントから作ったサーバーにログインできない（知って安心！AWS・Azureのつまずきポイント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042400028/</link>
-			<description><![CDATA[　マイクロソフトのクラウドMicrosoft Azureのデータウエアハウス（DWH）サービス「SQL Data Warehouse」では、復元ポイントからSQL Data Warehouseの新しいインスタンス（サーバー）を作成することができる。]]></description>
+			<title>iPhone登場で僕がドコモでやるべきことは終わった。だから辞めた──ドワンゴ夏野氏（iPhoneは世界をどう変えたか？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022400046/042100030/</link>
+			<description><![CDATA[　iPhoneは今年で10周年を迎える。この10年の間、iPhoneは携帯電話業界に多大な影響を与えた。そのアップルがiPhoneを中心としたエコシステム作りの参考にしたと言われるのがiモードである。iモードの生みの親の一人であり、NTTドコモで立ち上げに関わった夏野剛氏に話を聞いた。]]></description>
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -263,15 +263,9 @@
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>iPhone登場で僕がドコモでやるべきことは終わった。だから辞めた──ドワンゴ夏野氏（iPhoneは世界をどう変えたか？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022400046/042100030/</link>
-			<description><![CDATA[　iPhoneは今年で10周年を迎える。この10年の間、iPhoneは携帯電話業界に多大な影響を与えた。そのアップルがiPhoneを中心としたエコシステム作りの参考にしたと言われるのがiモードである。iモードの生みの親の一人であり、NTTドコモで立ち上げに関わった夏野剛氏に話を聞いた。]]></description>
-			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IDOM、「ガリバー」サイトでの商談成功率がチャットで2倍超に（チャットファースト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000008/</link>
-			<description><![CDATA[　中古車の買い取り・販売チェーン「ガリバー」などを展開するIDOMは、2016年1月にWebチャット機能で消費者の中古車探しを支援するサイト「クルマコネクト」を稼働させた。サイトから店舗に誘導した見込み客との商談成功率は、直接の来店客の約2.2倍に達するという。]]></description>
+			<title>［SQL DWの落とし穴］復元ポイントから作ったサーバーにログインできない（知って安心！AWS・Azureのつまずきポイント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042400028/</link>
+			<description><![CDATA[　マイクロソフトのクラウドMicrosoft Azureのデータウエアハウス（DWH）サービス「SQL Data Warehouse」では、復元ポイントからSQL Data Warehouseの新しいインスタンス（サーバー）を作成することができる。]]></description>
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -316,6 +310,12 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 26 Apr 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Waymoが自動運転車の公開テスト、米アリゾナ州住民が対象（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042601284/</link>
+			<description><![CDATA[　米Googleの親会社Alphabetが設立した米Waymoは現地時間2017年4月24日、自動運転車の公開テストプログラム「Early Rider Program」を発表した。]]></description>
+			<pubDate>Wed, 26 Apr 2017 09:37:23 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
