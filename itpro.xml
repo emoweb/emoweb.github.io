@@ -5,100 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>ITスキル標準がデジタル時代に向け復権？！（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042100943/</link>
-			<description><![CDATA[　IT人材の分類や必要なスキル（能力）を整理した「ITスキル標準（ITSS）」が装いを新たに再登場した。名称は「ITSS＋（プラス）」。デジタル時代に求められるIT人材像や、その人材が担うタスク（業務）やスキルをまとめたもの。従来のITSSを補完する役割を果たす。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>［SQL DWの落とし穴］外部テーブルにデータ追加するたび手間発生（知って安心！AWS・Azureのつまずきポイント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042100026/</link>
-			<description><![CDATA[　Azure SQL Data Warehouseには「PolyBase」という機能がある。Azure Blob Storageに格納したCSV（カンマ区切り）などのテキストファイルをそのまま外部テーブルとして読み込み、テーブルとして参照できる。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>LPWAで存在感が薄れつつあるビーコン、LINEが積極活用する理由とは（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/041700103/</link>
-			<description><![CDATA[　手軽にスマートフォンとリアルな場所をつないだO2O（Online to Offline）施策を手軽に実現できる手段して、かつて大きな注目を集めた「ビーコン」。LPWAなど新しいIoT通信方式の台頭によって最近では存在感が薄れてしまっている。なぜLINEはビーコンの積極活用に乗り出しているのだろうか。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>誰もが無意識のうちに足を引っ張る（古いシステムの捨て方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/041700006/</link>
-			<description><![CDATA[　企業の基幹系システムを再構築する第一の目的は、“保守性”を向上することにある。保守性の向上は、案件実現のスピードアップやコスト削減につながる。今回は、アプリ開発者が頑張るだけでは、保守性の向上を実現できない実情を解説する。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「当社のCISOはホワイトハッカーです」（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041800011/</link>
-			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年3月25日の定期会合のテーマは「どうする！？情報セキュリティ」だ。CISOの役割が論点になった。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>グローバルプロジェクト成功の鍵は「小学生でも理解できる資料」（実録 グローバル化で変貌したIT部門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033100114/033100002/</link>
-			<description><![CDATA[　この連載ではローカルITからグローバルITへの変革について、ブリティッシュ・アメリカン・タバコ・ジャパン（BATジャパン）のIT部門の経験を基に解説している。今回はプロジェクトマネジメントに焦点を当てる。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ITダッシュボード（電子行政：キーワード）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/14/260942/041400015/</link>
-			<description><![CDATA[　ITダッシュボードとは、政府の府省ごとのIT投資の状況を、国民の誰もが横断的に確認・活用できるようにしたサイトです。各府省の情報システムの数や予算のほか、ITベンダーとの契約情報や、設定目標と進捗状況、さらに政府自らが評価した結果など、各種施策の状況を公開しています。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>大企業のIT部門も個人依存、属人化の何が悪い！（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/042100016/</link>
-			<description><![CDATA[　IT部門が消滅し、たった一人のIT担当者が残された。この実話を当事者が語る「ひとり情シス顛末記」。セカンドシーズンでは読者の質問や批判に答えているが、今回の質問は「ひとりが本当に理想なのか。属人化するではないか」というツッコミだ。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>立てれば分かる、「Mastodon」がはやるワケ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/042100826/</link>
-			<description><![CDATA[　Twitterのようなサイトを簡単に構築できる「Mastodon（マストドン）」がネットを騒がせている。数百ユーザー単位のミニTwitterが相互に連携する仕組みで、国内ユーザーは5万人を超えた。なぜここまで流行るのか。自分で構築してみれば一目瞭然だ。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>安さ重視なら、自分のSIMフリースマホに現地SIM（海外スマホ術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041700145/042000005/</link>
-			<description><![CDATA[　渡航先でプリペイドSIMを調達する方法もある。自力での作業や疑問解決が必要になるケースもあるが、通信コストをかなり抑えられるのが魅力だ。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ワイヤレスからPC対応まで！旬の変わり種バッテリーを検証（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/042200114/</link>
-			<description><![CDATA[　Pokemon GOブームで、モバイルバッテリーが売れに売れた。もう一時ほどの勢いこそないものの、バッテリーの人気は継続していて、新製品が続々と登場している。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>メインフレーム使い続ける住友生命、独自ブラウザーでセキュリティ強化（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042400946/</link>
-			<description><![CDATA[　住友生命保険が2018年春の全面稼働に向けて、社内の情報系システム基盤「あいキューブ基盤」の更改を進めている。独自の「セキュアブラウザー」を使うなどして、既存の基幹系システム資産を維持しつつ、利用環境を向上させるのがポイントだ。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>オフィスロボの導入は誰がリードすればいい？（オフィスロボ導入、5つの疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900002/</link>
-			<description><![CDATA[　オフィスロボの導入主体はIT部門なのか、利用部門なのか？利用部門主体でも開発できるが、IT部門が担えば効率がアップする。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「何を学んでもらうかを明確に」、子どものプログラミング教育でCANVASが報告会（子どもたちにプログラミングを教えよう！イベントレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/499982/042000038/</link>
-			<description><![CDATA[　NPO法人CANVASが推進する「Programming for ALL」プロジェクトの目的は、子供たちのプログラミング学習機会を増やすこと。学校や地域での指導者研修会、実証事業やワークショップを通じて、多様な層への学習機会の提供モデルを確立する活動に取り組んだ、その成果報告会の概要をお伝えする。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ボットが知らせる異変に看護士が急行、グッドライフケア（チャットファースト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000007/</link>
-			<description><![CDATA[　東京都と大阪府で訪問介護サービスなどを提供するグッドライフケアホールディングスは、被介護者の近況を共有するためにチャットを活用している。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>シスコCEO、トランプ政権の技術者ビザ厳格化に理解「本来の熟練者に使われるべき」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042501272/</link>
-			<description><![CDATA[　米シスコシステムズのチャック・ロビンス最高経営責任者（CEO）は2017年4月25日に東京都内で会見した。米トランプ政権が打ち出している技術者向けの就労ビザ「H-1B」の審査厳格化について「本来の意味で熟練度の高い人に利用されないといけない」と理解を示した。]]></description>
-			<pubDate>Tue, 25 Apr 2017 16:56:05 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「対策を立てろ」は無能なマネジャーの常套句（脱出！ 暗闇プロジェクト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/032400060/?n26</link>
+			<description><![CDATA[　今どきのプロジェクトの多くは問題探索型であり、先を見通せないなかで運営していかなければならない。この連載では、そうしたプロジェクトを「暗闇プロジェクト」と呼び、その種のプロジェクトを主導するマネジャーが持つべき心得や運営のヒントを事例とともに示している。今回から問題解決について取り上げる。]]></description>
+			<pubDate>Mon, 10 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>4Kで地上波とケーブルが連携、大分朝日放送制作の4K番組を愛媛CATVで放送へ（ニュース）</title>
@@ -155,6 +65,12 @@
 			<pubDate>Tue, 25 Apr 2017 20:13:18 +0900</pubDate>
 		</item>
 		<item>
+			<title>富士通、Oracle Cloudで基幹システムを巻き取りへ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042400948/</link>
+			<description><![CDATA[　富士通と日本オラクルは2017年4月20日、富士通のクラウド「K5」からOracle Databaseが使えるPaaSの販売を始めた。富士通はOracle DBを強みに、企業がオンプレミスで運用している基幹系システムをK5へ巻き取る狙いだ。]]></description>
+			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>100年来の事業がGEをまねて進化する（100年企業が本気でデジ変）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400159/042400001/</link>
 			<description><![CDATA[　創業100年を迎えようとしている米ピツニーボウズ。郵便物の発送に使う郵便料金計器のメーカーとして最大手の同社がいま、米GEの手法をまねてデジタル変革に挑んでいる。]]></description>
@@ -167,9 +83,9 @@
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>富士通、Oracle Cloudで基幹システムを巻き取りへ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042400948/</link>
-			<description><![CDATA[　富士通と日本オラクルは2017年4月20日、富士通のクラウド「K5」からOracle Databaseが使えるPaaSの販売を始めた。富士通はOracle DBを強みに、企業がオンプレミスで運用している基幹系システムをK5へ巻き取る狙いだ。]]></description>
+			<title>バックボーンを交換機からルーターに刷新、NTTが描く固定電話のIP化（どうする？固定電話のIP移行）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400164/042500001/</link>
+			<description><![CDATA[　NTTが2024年をめどに進める固定電話のIP化。大きく変わるのはNTT側の通信設備だ。全国に張り巡らせた交換機のネットワーク「PSTN（公衆電話交換回線網）」を、ルーターやサーバーで構成するIPネットワークに切り替える。固定電話のIP化はどのように進み、企業にどんな影響があるのだろうか。]]></description>
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -179,15 +95,15 @@
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>4K HDR（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/041300066/</link>
-			<description><![CDATA[　大型・薄型テレビの高級モデルで急速に普及しつつある「明るさ（輝度）」を拡大する技術。高精細な4Kテレビの付加機能として搭載され、より立体感のある映像を楽しめる。スマートフォンに搭載するケースも出てきた。]]></description>
+			<title>RPAによる業務の自動化、実践する際のポイントは？（オフィスロボ導入、5つの疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900003/</link>
+			<description><![CDATA[　RPA（ロボティック・プロセス・オートメーション）により、業務を自動化（ロボット化）していくポイントはどこか？業務の詳細把握と人との「共存協業」がカギになる。]]></description>
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>バックボーンを交換機からルーターに刷新、NTTが描く固定電話のIP化（どうする？固定電話のIP移行）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400164/042500001/</link>
-			<description><![CDATA[　NTTが2024年をめどに進める固定電話のIP化。大きく変わるのはNTT側の通信設備だ。全国に張り巡らせた交換機のネットワーク「PSTN（公衆電話交換回線網）」を、ルーターやサーバーで構成するIPネットワークに切り替える。固定電話のIP化はどのように進み、企業にどんな影響があるのだろうか。]]></description>
+			<title>IDOM、「ガリバー」サイトでの商談成功率がチャットで2倍超に（チャットファースト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000008/</link>
+			<description><![CDATA[　中古車の買い取り・販売チェーン「ガリバー」などを展開するIDOMは、2016年1月にWebチャット機能で消費者の中古車探しを支援するサイト「クルマコネクト」を稼働させた。サイトから店舗に誘導した見込み客との商談成功率は、直接の来店客の約2.2倍に達するという。]]></description>
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -245,22 +161,10 @@
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>RPAによる業務の自動化、実践する際のポイントは？（オフィスロボ導入、5つの疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900003/</link>
-			<description><![CDATA[　RPA（ロボティック・プロセス・オートメーション）により、業務を自動化（ロボット化）していくポイントはどこか？業務の詳細把握と人との「共存協業」がカギになる。]]></description>
+			<title>4K HDR（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/041300066/</link>
+			<description><![CDATA[　大型・薄型テレビの高級モデルで急速に普及しつつある「明るさ（輝度）」を拡大する技術。高精細な4Kテレビの付加機能として搭載され、より立体感のある映像を楽しめる。スマートフォンに搭載するケースも出てきた。]]></description>
 			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IDOM、「ガリバー」サイトでの商談成功率がチャットで2倍超に（チャットファースト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000008/</link>
-			<description><![CDATA[　中古車の買い取り・販売チェーン「ガリバー」などを展開するIDOMは、2016年1月にWebチャット機能で消費者の中古車探しを支援するサイト「クルマコネクト」を稼働させた。サイトから店舗に誘導した見込み客との商談成功率は、直接の来店客の約2.2倍に達するという。]]></description>
-			<pubDate>Wed, 26 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「Ansibleは社内インフラを全て運用できる」、レッドハットが販売戦略を発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042501283/</link>
-			<description><![CDATA[　レッドハットは2017年4月25日、サーバーの設定・運用を自動化するツール「Ansible Tower by Red Hat」の販売戦略を発表した。システム開発の効率を高めるだけでなく、企業のシステム機器運用を自動化するツールとして売り込む。]]></description>
-			<pubDate>Wed, 26 Apr 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ランサムウエアの身代金、ビットコインはどこで買うべきか（中）（ランサムウエアの身代金、ビットコインはどこで買うべきか）</title>
@@ -300,6 +204,12 @@
 			<pubDate>Wed, 26 Apr 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>「Ansibleは社内インフラを全て運用できる」、レッドハットが販売戦略を発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042501283/</link>
+			<description><![CDATA[　レッドハットは2017年4月25日、サーバーの設定・運用を自動化するツール「Ansible Tower by Red Hat」の販売戦略を発表した。システム開発の効率を高めるだけでなく、企業のシステム機器運用を自動化するツールとして売り込む。]]></description>
+			<pubDate>Wed, 26 Apr 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>Waymoが自動運転車の公開テスト、米アリゾナ州住民が対象（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042601284/</link>
 			<description><![CDATA[　米Googleの親会社Alphabetが設立した米Waymoは現地時間2017年4月24日、自動運転車の公開テストプログラム「Early Rider Program」を発表した。]]></description>
@@ -310,6 +220,39 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042601285/</link>
 			<description><![CDATA[　米Amazon.comは現地時間2017年4月24日、サードパーティーの事業者が、同社のeコマースサービス内でデジタルコンテンツを定期販売できるマーケットプレース「Subscribe with Amazon」を立ち上げたと発表した。]]></description>
 			<pubDate>Wed, 26 Apr 2017 10:11:30 +0900</pubDate>
+		</item>
+		<item>
+			<title>AppleのCEOがUberのCEOを叱責、2015年にアプリの規則違反で（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042600362/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　米Uber Technologiesの配車サービスのiOSアプリが、2015年に米AppleのApp Storeから締め出されそうになっていたことが明らかになった。米New York Timesの<a href="https://www.nytimes.com/2017/04/23/technology/travis-kalanick-pushes-uber-and-himself-to-the-precipice.html?_r=0" target="_blank">記事</a>によると、当時、AppleのTim Cook CEO（最高経営責任者）が、UberのTravis Kalanick CEOをカリフォルニア州クパチーノのApple本社に呼び出して叱責した。</p>
+
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042600362/ph01.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: freestocks.org</div>
+</div>
+
+<p>　UberがAppleとの間で苦境を招いた原因は何だったのだろうか。New York Timesの記事は当初、UberがiPhoneをトラッキングしていたと述べていたが、後に補足と修正を加え、「Uberアプリを削除して初期化した端末も含めて、iPhoneの識別と特定を行っていた」と説明している。Uberの話では、このような策を講じた理由は、中国で、盗難品のスマートフォンを使ってUberのアカウントを作成し、配車サービスを利用してはデバイスを初期化するという行為が繰り返されるのを不可能にするためだという。</p>
+
+<p>　米TechCrunchの<a href="https://techcrunch.com/2017/04/23/uber-responds-to-report-that-it-tracked-users-who-deleted-its-app/" target="_blank">記事</a>によると、Uberの広報担当者は次のように説明している。「Uberアプリを削除した個々の利用者やその場所をトラッキングすることは、当社は一切していない。New York Timesの記事で最後のほうに言及があるように、詐欺行為を防ぐ典型的な方法だ。不正利用者が、盗んだスマートフォンにUberアプリをインストールし、盗んだクレジットカードを登録して、高額の乗車を行ってから、スマートフォンを初期化するという手順を何度も繰り返すのを防ぐための方法である。また、疑わしいログインを検知してブロックし、Uber利用者のアカウントを守る目的でも、同様の手法を用いている。既知の常習犯がUberのネットワークに戻って来ようとした時に識別できることは、Uberと利用者の双方にとって重要なセキュリティ対策だ」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042600362/?ST=cm-cloud&P=2">Uberは、初期化した後の端末を具体的にどのような方法で追跡して...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042600362/?ST=cm-cloud&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042600362/?ST=cm-cloud&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042600362/?ST=cm-cloud&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 26 Apr 2017 10:22:46 +0900</pubDate>
 		</item>
 		<item>
 			<title>Apple、世界の直営店で学習講座「Today at Apple」を開始へ（ニュース）</title>
