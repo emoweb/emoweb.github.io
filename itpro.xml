@@ -11,6 +11,12 @@
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>パイプを活用して複雑な処理を1行で記述（安納順一のPowerShell Tips）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/042400004/</link>
+			<description><![CDATA[　PowerShellでコマンドを実行した結果は「オブジェクト」になる。このため、コマンドの実行結果を利用しやすい。オブジェクトの利用で活躍するのがパイプラインである。]]></description>
+			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>全店全商品にICタグ、人手不足のコンビニ大手がレジ革命（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042600952/</link>
 			<description><![CDATA[　コンビニエンスストアが、かつてない取り組みに挑戦しようとしている。全店舗で取り扱う全商品にICタグ（RFID）を付与し、深刻化する人手不足を解消しようというものだ。店舗でのレジ業務やサプライチェーンの効率化を目指す。]]></description>
@@ -65,9 +71,9 @@
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「当社には取られて困る情報はない」？経営層による3つの勘違い（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/041900010/</link>
-			<description><![CDATA[　「ウチには取られて困る情報はない」。経営層からこう断言されてしまったとき、セキュリティ担当者はどう食い下がればいいのか。今回は、攻撃者という敵をよく知ることで、効果的なセキュリティ対策をとれることを解説する。]]></description>
+			<title>スマホの次はバーチャルディスプレー、最後に電脳通信へたどり着く──ドワンゴ夏野氏（iPhoneは世界をどう変えたか？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022400046/042100031/</link>
+			<description><![CDATA[　iPhoneは今年で10周年を迎える。この10年の間、iPhoneは携帯電話業界に多大な影響を与えた。そのアップルがiPhoneを中心としたエコシステム作りの参考にしたと言われるのがiモードである。iモードの生みの親の一人であり、NTTドコモでiモード立ち上げに関わった夏野剛氏に話を聞いた。]]></description>
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,22 +107,10 @@
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>スマホの次はバーチャルディスプレー、最後に電脳通信へたどり着く──ドワンゴ夏野氏（iPhoneは世界をどう変えたか？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022400046/042100031/</link>
-			<description><![CDATA[　iPhoneは今年で10周年を迎える。この10年の間、iPhoneは携帯電話業界に多大な影響を与えた。そのアップルがiPhoneを中心としたエコシステム作りの参考にしたと言われるのがiモードである。iモードの生みの親の一人であり、NTTドコモでiモード立ち上げに関わった夏野剛氏に話を聞いた。]]></description>
+			<title>「当社には取られて困る情報はない」？経営層による3つの勘違い（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/041900010/</link>
+			<description><![CDATA[　「ウチには取られて困る情報はない」。経営層からこう断言されてしまったとき、セキュリティ担当者はどう食い下がればいいのか。今回は、攻撃者という敵をよく知ることで、効果的なセキュリティ対策をとれることを解説する。]]></description>
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>パイプを活用して複雑な処理を1行で記述（安納順一のPowerShell Tips）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/042400004/</link>
-			<description><![CDATA[　PowerShellでコマンドを実行した結果は「オブジェクト」になる。このため、コマンドの実行結果を利用しやすい。オブジェクトの利用で活躍するのがパイプラインである。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>創業97年の靴下メーカー、“初めてづくし”のデジタルマーケに挑戦（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042701305/</link>
-			<description><![CDATA[　靴下メーカーのナイガイは2017年4月27日、インターネット関連企業2社と共同で、新たなデジタルマーケティング施策を開始したと発表した。協業したのは、Q＆Aサイト「OKWAVE」を運営するオウケイウェイヴと、QRコード読み取りアプリなどの開発を手掛けるメディアシーク。]]></description>
-			<pubDate>Thu, 27 Apr 2017 17:22:57 +0900</pubDate>
 		</item>
 		<item>
 			<title>アーキサイト、USB Type-C専用マルチポートアダプターなど（ニュース）</title>
@@ -155,9 +149,15 @@
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>約40万社にシステム再点検が必要、EDIの「2024年問題」（どうする？固定電話のIP移行）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400164/042700003/</link>
-			<description><![CDATA[　NTTの最新計画では、固定電話のバックボーンをIP網に切り替える作業は2024年初頭に始まり1年後に完了する。ISDNや加入電話をデータ通信回線として利用している企業は、残り7年弱の間に自社システムの対応状況を把握し、対策を決めておく必要がある。]]></description>
+			<title>グローバル化がマーケティングITにもたらす意外な効果（実録 グローバル化で変貌したIT部門）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033100114/033100005/</link>
+			<description><![CDATA[　この連載ではローカルITからグローバルITへの変革について、ブリティッシュ・アメリカン・タバコ・ジャパン（BATジャパン）のIT部門の経験を基に解説している。今回は目先を変えて、BATにおけるマーケティングを支えるITの変遷を紹介したい。]]></description>
+			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Loco Partnersの高級宿予約サイト、若年層をチャットで吸引（チャットファースト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000010/</link>
+			<description><![CDATA[　高級宿泊施設の予約サイト「Relux」を運営するLoco Partnersは、若い顧客層を開拓するため、チャットを使ったマーケティングに着手した。]]></description>
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -293,16 +293,47 @@
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Loco Partnersの高級宿予約サイト、若年層をチャットで吸引（チャットファースト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000010/</link>
-			<description><![CDATA[　高級宿泊施設の予約サイト「Relux」を運営するLoco Partnersは、若い顧客層を開拓するため、チャットを使ったマーケティングに着手した。]]></description>
+			<title>約40万社にシステム再点検が必要、EDIの「2024年問題」（どうする？固定電話のIP移行）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400164/042700003/</link>
+			<description><![CDATA[　NTTの最新計画では、固定電話のバックボーンをIP網に切り替える作業は2024年初頭に始まり1年後に完了する。ISDNや加入電話をデータ通信回線として利用している企業は、残り7年弱の間に自社システムの対応状況を把握し、対策を決めておく必要がある。]]></description>
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>グローバル化がマーケティングITにもたらす意外な効果（実録 グローバル化で変貌したIT部門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033100114/033100005/</link>
-			<description><![CDATA[　この連載ではローカルITからグローバルITへの変革について、ブリティッシュ・アメリカン・タバコ・ジャパン（BATジャパン）のIT部門の経験を基に解説している。今回は目先を変えて、BATにおけるマーケティングを支えるITの変遷を紹介したい。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
+			<title>ランサムウエアの身代金、ビットコインはどこで買うべきか（下）（ランサムウエアの身代金、ビットコインはどこで買うべきか）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/041800031/041800003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　2016年にランサムウエアは10億ドル規模の産業に拡大した。身代金の支払いは、今やビットコイン経済の10％近くを占めている。被害に遭うのを防ぐためには、強固なエンドポイントセキュリティと効果的なバックアップが必要だ。だが、防御に失敗し、バックアップも不十分で、データを復旧するための試みもすべて不調に終わり、最終的に身代金を支払うしかなくなった場合、どうすればよいだろうか。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800031/041800002/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800031/041800003/ph3.jpg" width="300" alt="" title=""></div></div>
+
+<p>　また、セキュリティ侵害を受けたことの報告義務を回避しようとしている場合でも、身代金を支払うことは助けにならない。犯人側がデータを持っていることが分かっているからだ。</p>
+
+<p>　金を支払うべきではないもう1つの状況は、分散型サービス拒否（DDoS）攻撃を回避するための金だとBarak氏は言う。</p>
+
+<p>　「DDoS攻撃に対する金銭の要求は、ずいぶん前からあるが、その多くは詐欺だ」</p>
+
+<p>　カナダeSentireの創業者で最高セキュリティストラテジストのEldon Sprickerhoff氏は、ファイルを暗号化して身代金を要求するオーソドックスなランサムウエアといえども、金を支払わない方がよい相応の理由があると話す。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800031/041800003/?ST=cio-security&P=2">例えば、ハッカーがシステムの中に潜伏済みかもしれ...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800031/041800003/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800031/041800003/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800031/041800003/?ST=cio-security&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800031/041800003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 28 Apr 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
