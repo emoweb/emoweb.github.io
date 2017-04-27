@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>バッファロー、USB 3.1 Gen 1対応のポータブルSSD（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042601289/</link>
-			<description><![CDATA[　バッファローは2017年4月26日、USB 3.1 Gen 1対応のポータブルSSD「SSD-PLU3」シリーズを5月中旬から順次発売すると発表した。希望小売価格（税別）は、容量120GBが1万5000円、240GBが2万2100円、480GBが3万8900円。]]></description>
-			<pubDate>Wed, 26 Apr 2017 17:19:01 +0900</pubDate>
-		</item>
-		<item>
 			<title>サンワサプライ、電動で画面高さを変更できる60～84型ディスプレイスタンド（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042601290/</link>
 			<description><![CDATA[　サンワサプライは2017年4月26日、60～84型の液晶・プラズマディスプレーに対応し、電動で画面の位置を上下昇降できるディスプレースタンド「CR-PL24W」を同日発売したと発表した。標準価格（税込み）は26万4600円。]]></description>
@@ -53,6 +47,12 @@
 			<pubDate>Wed, 26 Apr 2017 20:43:08 +0900</pubDate>
 		</item>
 		<item>
+			<title>全店全商品にICタグ、人手不足のコンビニ大手がレジ革命（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042600952/</link>
+			<description><![CDATA[　コンビニエンスストアが、かつてない取り組みに挑戦しようとしている。全店舗で取り扱う全商品にICタグ（RFID）を付与し、深刻化する人手不足を解消しようというものだ。店舗でのレジ業務やサプライチェーンの効率化を目指す。]]></description>
+			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>終焉迎えるISDNのデータ通信、代替策は十分か？（どうする？固定電話のIP移行）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400164/042600002/</link>
 			<description><![CDATA[　固定電話のIP網への移行に伴い、NTTはISDNを使うデータ通信サービス「INSネット」の「ディジタル通信モード」も終了する。今もISDNを利用している顧客の声にどう対応していくか、NTT東日本の担当者に聞いた。]]></description>
@@ -77,9 +77,9 @@
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>全店全商品にICタグ、人手不足のコンビニ大手がレジ革命（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042600952/</link>
-			<description><![CDATA[　コンビニエンスストアが、かつてない取り組みに挑戦しようとしている。全店舗で取り扱う全商品にICタグ（RFID）を付与し、深刻化する人手不足を解消しようというものだ。店舗でのレジ業務やサプライチェーンの効率化を目指す。]]></description>
+			<title>特殊な米国の通信事情、ソフトバンクiPhoneなら「アメリカ放題」一択だが（海外スマホ術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041700145/042000002/</link>
+			<description><![CDATA[　米国のモバイルネットワークは世界的に見てかなり独自性が強く、国際ローミングや現地のプリペイドSIMを利用するうえで注意が必要なことが多い。米国でスマートフォンを利用する方法と注意点について説明しよう。]]></description>
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「当社には取られて困る情報はない」？経営層による3つの勘違い（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/041900010/</link>
-			<description><![CDATA[　「ウチには取られて困る情報はない」。経営層からこう断言されてしまったとき、セキュリティ担当者はどう食い下がればいいのか。今回は、攻撃者という敵をよく知ることで、効果的なセキュリティ対策をとれることを解説する。]]></description>
+			<title>ロボットで自動化する業務としない業務、どう見極める？（オフィスロボ導入、5つの疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900004/</link>
+			<description><![CDATA[　自動化する作業としない作業は、どうやって見極めるべきか？顧客の意見への対応やセキュリティに関わる作業は人に委ねたほうが安心だ。]]></description>
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>特殊な米国の通信事情、ソフトバンクiPhoneなら「アメリカ放題」一択だが（海外スマホ術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041700145/042000002/</link>
-			<description><![CDATA[　米国のモバイルネットワークは世界的に見てかなり独自性が強く、国際ローミングや現地のプリペイドSIMを利用するうえで注意が必要なことが多い。米国でスマートフォンを利用する方法と注意点について説明しよう。]]></description>
+			<title>スマホの次はバーチャルディスプレー、最後に電脳通信へたどり着く──ドワンゴ夏野氏（iPhoneは世界をどう変えたか？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022400046/042100031/</link>
+			<description><![CDATA[　iPhoneは今年で10周年を迎える。この10年の間、iPhoneは携帯電話業界に多大な影響を与えた。そのアップルがiPhoneを中心としたエコシステム作りの参考にしたと言われるのがiモードである。iモードの生みの親の一人であり、NTTドコモでiモード立ち上げに関わった夏野剛氏に話を聞いた。]]></description>
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -149,15 +149,9 @@
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ロボットで自動化する業務としない業務、どう見極める？（オフィスロボ導入、5つの疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900004/</link>
-			<description><![CDATA[　自動化する作業としない作業は、どうやって見極めるべきか？顧客の意見への対応やセキュリティに関わる作業は人に委ねたほうが安心だ。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>スマホの次はバーチャルディスプレー、最後に電脳通信へたどり着く──ドワンゴ夏野氏（iPhoneは世界をどう変えたか？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022400046/042100031/</link>
-			<description><![CDATA[　iPhoneは今年で10周年を迎える。この10年の間、iPhoneは携帯電話業界に多大な影響を与えた。そのアップルがiPhoneを中心としたエコシステム作りの参考にしたと言われるのがiモードである。iモードの生みの親の一人であり、NTTドコモでiモード立ち上げに関わった夏野剛氏に話を聞いた。]]></description>
+			<title>「当社には取られて困る情報はない」？経営層による3つの勘違い（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/041900010/</link>
+			<description><![CDATA[　「ウチには取られて困る情報はない」。経営層からこう断言されてしまったとき、セキュリティ担当者はどう食い下がればいいのか。今回は、攻撃者という敵をよく知ることで、効果的なセキュリティ対策をとれることを解説する。]]></description>
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -256,6 +250,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042701299/</link>
 			<description><![CDATA[　米Facebook傘下のInstagramは現地時間2017年4月26日、月間アクティブユーザー数（MAU）が7億人を突破したと発表した。「最後の1億人は最も短期間で達成した」と述べている。]]></description>
 			<pubDate>Thu, 27 Apr 2017 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>レシピは500万以上、音声で料理手順を指示する「Google Home」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042701301/</link>
+			<description><![CDATA[　米Googleは現地時間2017年4月26日、人工知能（AI）ベースのデジタルアシスタント「Google Assistant」を搭載したスピーカー「Google Home」に、料理手順を読み上げる機能を追加すると発表した。]]></description>
+			<pubDate>Thu, 27 Apr 2017 12:20:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
