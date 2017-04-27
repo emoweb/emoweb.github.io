@@ -11,6 +11,12 @@
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>「当社には取られて困る情報はない」？経営層による3つの勘違い（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/041900010/</link>
+			<description><![CDATA[　「ウチには取られて困る情報はない」。経営層からこう断言されてしまったとき、セキュリティ担当者はどう食い下がればいいのか。今回は、攻撃者という敵をよく知ることで、効果的なセキュリティ対策をとれることを解説する。]]></description>
+			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>パイプを活用して複雑な処理を1行で記述（安納順一のPowerShell Tips）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/042400004/</link>
 			<description><![CDATA[　PowerShellでコマンドを実行した結果は「オブジェクト」になる。このため、コマンドの実行結果を利用しやすい。オブジェクトの利用で活躍するのがパイプラインである。]]></description>
@@ -65,9 +71,9 @@
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>特殊な米国の通信事情、ソフトバンクiPhoneなら「アメリカ放題」一択だが（海外スマホ術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041700145/042000002/</link>
-			<description><![CDATA[　米国のモバイルネットワークは世界的に見てかなり独自性が強く、国際ローミングや現地のプリペイドSIMを利用するうえで注意が必要なことが多い。米国でスマートフォンを利用する方法と注意点について説明しよう。]]></description>
+			<title>ロボットで自動化する業務としない業務、どう見極める？（オフィスロボ導入、5つの疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900004/</link>
+			<description><![CDATA[　自動化する作業としない作業は、どうやって見極めるべきか？顧客の意見への対応やセキュリティに関わる作業は人に委ねたほうが安心だ。]]></description>
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,22 +107,10 @@
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ロボットで自動化する業務としない業務、どう見極める？（オフィスロボ導入、5つの疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900004/</link>
-			<description><![CDATA[　自動化する作業としない作業は、どうやって見極めるべきか？顧客の意見への対応やセキュリティに関わる作業は人に委ねたほうが安心だ。]]></description>
+			<title>特殊な米国の通信事情、ソフトバンクiPhoneなら「アメリカ放題」一択だが（海外スマホ術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041700145/042000002/</link>
+			<description><![CDATA[　米国のモバイルネットワークは世界的に見てかなり独自性が強く、国際ローミングや現地のプリペイドSIMを利用するうえで注意が必要なことが多い。米国でスマートフォンを利用する方法と注意点について説明しよう。]]></description>
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「当社には取られて困る情報はない」？経営層による3つの勘違い（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/041900010/</link>
-			<description><![CDATA[　「ウチには取られて困る情報はない」。経営層からこう断言されてしまったとき、セキュリティ担当者はどう食い下がればいいのか。今回は、攻撃者という敵をよく知ることで、効果的なセキュリティ対策をとれることを解説する。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>アーキサイト、USB Type-C専用マルチポートアダプターなど（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042701307/</link>
-			<description><![CDATA[　アーキサイトは2017年4月27日、モバイル用品ブランド「MOBO」から、USB Type-C専用マルチポートアダプター「Type-C Multi Port Adapter」を4月下旬、USB-LAN変換アダプター「USB to LAN Type-A＆C USB→LAN 変換アダプタ」を5月中旬に発売すると発表した。いずれも価格はオープン。]]></description>
-			<pubDate>Thu, 27 Apr 2017 17:46:13 +0900</pubDate>
 		</item>
 		<item>
 			<title>日本IBMのエリー・キーナン新社長、Watson Summitで初登壇（ニュース）</title>
@@ -143,21 +137,27 @@
 			<pubDate>Thu, 27 Apr 2017 21:11:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Chromecast Audioとコーデック選びで一変した「青木家のワイヤレス音楽史」（青木恵美の信州ITラプソディ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/042700028/</link>
-			<description><![CDATA[　筆者は音楽好きである。その音楽の聴き方は、時代とともに変わってきている。それが大きく変わったのは、iPodなどの音楽プレーヤーの登場だったと思う。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>グローバル化がマーケティングITにもたらす意外な効果（実録 グローバル化で変貌したIT部門）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033100114/033100005/</link>
 			<description><![CDATA[　この連載ではローカルITからグローバルITへの変革について、ブリティッシュ・アメリカン・タバコ・ジャパン（BATジャパン）のIT部門の経験を基に解説している。今回は目先を変えて、BATにおけるマーケティングを支えるITの変遷を紹介したい。]]></description>
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>Chromecast Audioとコーデック選びで一変した「青木家のワイヤレス音楽史」（青木恵美の信州ITラプソディ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/042700028/</link>
+			<description><![CDATA[　筆者は音楽好きである。その音楽の聴き方は、時代とともに変わってきている。それが大きく変わったのは、iPodなどの音楽プレーヤーの登場だったと思う。]]></description>
+			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>Loco Partnersの高級宿予約サイト、若年層をチャットで吸引（チャットファースト）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000010/</link>
 			<description><![CDATA[　高級宿泊施設の予約サイト「Relux」を運営するLoco Partnersは、若い顧客層を開拓するため、チャットを使ったマーケティングに着手した。]]></description>
+			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>約40万社にシステム再点検が必要、EDIの「2024年問題」（どうする？固定電話のIP移行）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400164/042700003/</link>
+			<description><![CDATA[　NTTの最新計画では、固定電話のバックボーンをIP網に切り替える作業は2024年初頭に始まり1年後に完了する。ISDNや加入電話をデータ通信回線として利用している企業は、残り7年弱の間に自社システムの対応状況を把握し、対策を決めておく必要がある。]]></description>
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -293,12 +293,6 @@
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>約40万社にシステム再点検が必要、EDIの「2024年問題」（どうする？固定電話のIP移行）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400164/042700003/</link>
-			<description><![CDATA[　NTTの最新計画では、固定電話のバックボーンをIP網に切り替える作業は2024年初頭に始まり1年後に完了する。ISDNや加入電話をデータ通信回線として利用している企業は、残り7年弱の間に自社システムの対応状況を把握し、対策を決めておく必要がある。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ランサムウエアの身代金、ビットコインはどこで買うべきか（下）（ランサムウエアの身代金、ビットコインはどこで買うべきか）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/041800031/041800003/</link>
 			<description><![CDATA[<div>
@@ -334,6 +328,12 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 28 Apr 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>NECの2016年度通期決算は減収減益、中期経営計画の撤回に新野社長「非常に残念」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042701311/</link>
+			<description><![CDATA[　NECは2017年4月27日、2017年3月期の通期決算を発表した。売上高は前年同期比5.7％減の2兆6650億円、営業利益は同54.2％減の418億円で減収減益となった。業績悪化を受けて2019年3月期を最終年度とする現中期経営計画について事実上の撤回を表明した。]]></description>
+			<pubDate>Fri, 28 Apr 2017 07:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
