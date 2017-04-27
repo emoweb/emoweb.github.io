@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>ソースネクストがロゼッタストーン語学製品の国内展開強化、AI翻訳機を年内発売（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042601291/</link>
-			<description><![CDATA[　ソースネクストは2017年4月26日、都内で製品発表会を開催し、ロゼッタストーン日本法人の子会社化や、今後の言語学習サービスの製品展開について発表した。]]></description>
-			<pubDate>Wed, 26 Apr 2017 17:34:35 +0900</pubDate>
-		</item>
-		<item>
 			<title>みずほFGがブロックチェーンを本番運用、貿易書類を電子化（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042601292/</link>
 			<description><![CDATA[　みずほフィナンシャルグループ（FG）は2017年4月26日、ブロックチェーンを実際の貿易取引に使うと発表した。紙媒体で管理していた貿易書類を電子化する。2017年6月の運用開始を目指す。]]></description>
@@ -39,6 +33,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042601296/</link>
 			<description><![CDATA[　シマンテックは2017年4月26日，2016年1～12月期におけるセキュリティ上の脅威を分析した「インターネットセキュリティ脅威レポート（ISTR）第22号」に関する説明会を開催。国家レベルの攻撃や身代金ウイルスの最新状況などに関する分析結果を明らかにした。]]></description>
 			<pubDate>Wed, 26 Apr 2017 20:43:08 +0900</pubDate>
+		</item>
+		<item>
+			<title>スマホの次はバーチャルディスプレー、最後に電脳通信へたどり着く──ドワンゴ夏野氏（iPhoneは世界をどう変えたか？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022400046/042100031/</link>
+			<description><![CDATA[　iPhoneは今年で10周年を迎える。この10年の間、iPhoneは携帯電話業界に多大な影響を与えた。そのアップルがiPhoneを中心としたエコシステム作りの参考にしたと言われるのがiモードである。iモードの生みの親の一人であり、NTTドコモでiモード立ち上げに関わった夏野剛氏に話を聞いた。]]></description>
+			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ライフネット生命、人は駄目だが「ボットなら話せる」（チャットファースト）</title>
@@ -71,9 +71,9 @@
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>スマホの次はバーチャルディスプレー、最後に電脳通信へたどり着く──ドワンゴ夏野氏（iPhoneは世界をどう変えたか？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022400046/042100031/</link>
-			<description><![CDATA[　iPhoneは今年で10周年を迎える。この10年の間、iPhoneは携帯電話業界に多大な影響を与えた。そのアップルがiPhoneを中心としたエコシステム作りの参考にしたと言われるのがiモードである。iモードの生みの親の一人であり、NTTドコモでiモード立ち上げに関わった夏野剛氏に話を聞いた。]]></description>
+			<title>「当社には取られて困る情報はない」？経営層による3つの勘違い（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/041900010/</link>
+			<description><![CDATA[　「ウチには取られて困る情報はない」。経営層からこう断言されてしまったとき、セキュリティ担当者はどう食い下がればいいのか。今回は、攻撃者という敵をよく知ることで、効果的なセキュリティ対策をとれることを解説する。]]></description>
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ウイルス感染の警告メールがニセモノ、文面に従うとウイルスに感染（辻伸弘の裏読みセキュリティ事件簿）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/012900025/042100040/</link>
-			<description><![CDATA[　セキュリティの業界団体を装って届いたメールには、ウイルス駆除方法が記されていた。その手順に従うとウイルスに感染する、という新しいタイプの攻撃を調査した。]]></description>
+			<title>パイプを活用して複雑な処理を1行で記述（安納順一のPowerShell Tips）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/042400004/</link>
+			<description><![CDATA[　PowerShellでコマンドを実行した結果は「オブジェクト」になる。このため、コマンドの実行結果を利用しやすい。オブジェクトの利用で活躍するのがパイプラインである。]]></description>
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「当社には取られて困る情報はない」？経営層による3つの勘違い（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/041900010/</link>
-			<description><![CDATA[　「ウチには取られて困る情報はない」。経営層からこう断言されてしまったとき、セキュリティ担当者はどう食い下がればいいのか。今回は、攻撃者という敵をよく知ることで、効果的なセキュリティ対策をとれることを解説する。]]></description>
+			<title>ロボットで自動化する業務としない業務、どう見極める？（オフィスロボ導入、5つの疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900004/</link>
+			<description><![CDATA[　自動化する作業としない作業は、どうやって見極めるべきか？顧客の意見への対応やセキュリティに関わる作業は人に委ねたほうが安心だ。]]></description>
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -137,15 +137,9 @@
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>パイプを活用して複雑な処理を1行で記述（安納順一のPowerShell Tips）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/042400004/</link>
-			<description><![CDATA[　PowerShellでコマンドを実行した結果は「オブジェクト」になる。このため、コマンドの実行結果を利用しやすい。オブジェクトの利用で活躍するのがパイプラインである。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ロボットで自動化する業務としない業務、どう見極める？（オフィスロボ導入、5つの疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900004/</link>
-			<description><![CDATA[　自動化する作業としない作業は、どうやって見極めるべきか？顧客の意見への対応やセキュリティに関わる作業は人に委ねたほうが安心だ。]]></description>
+			<title>ウイルス感染の警告メールがニセモノ、文面に従うとウイルスに感染（辻伸弘の裏読みセキュリティ事件簿）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/012900025/042100040/</link>
+			<description><![CDATA[　セキュリティの業界団体を装って届いたメールには、ウイルス駆除方法が記されていた。その手順に従うとウイルスに感染する、という新しいタイプの攻撃を調査した。]]></description>
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -256,6 +250,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042701302/</link>
 			<description><![CDATA[　スカパーJSATは2017年4月27日、OTTサービスの「スカパー！オンデマンド」において、4月25日にWebサイトでのユーザーインタフェース(UI)の完全リニューアルを行ったと発表した。]]></description>
 			<pubDate>Thu, 27 Apr 2017 13:36:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>メルカリが不正取引対策、現金など出品監視強化に人員倍増へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042701303/</link>
+			<description><![CDATA[　メルカリは2017年4月27日、現金の出品をはじめとする不正取引への対策を発表した。現行貨幣やパチンコ特殊景品の出品禁止、電子マネーなど不正利用につながる恐れのある出品の監視強化などが柱だ。監視や問い合わせ対応の要員も、現行の200人超の体制を2年以内に倍に増やす。]]></description>
+			<pubDate>Thu, 27 Apr 2017 16:29:52 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
