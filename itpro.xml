@@ -5,16 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>みずほFGがブロックチェーンを本番運用、貿易書類を電子化（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042601292/</link>
-			<description><![CDATA[　みずほフィナンシャルグループ（FG）は2017年4月26日、ブロックチェーンを実際の貿易取引に使うと発表した。紙媒体で管理していた貿易書類を電子化する。2017年6月の運用開始を目指す。]]></description>
-			<pubDate>Wed, 26 Apr 2017 17:49:14 +0900</pubDate>
-		</item>
-		<item>
-			<title>トリドールHD、「豚屋とん一」でスマホ事前注文・決済を開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042601293/</link>
-			<description><![CDATA[　トリドールホールディングス（HD）は、かつ丼・トンテキの専門店「豚屋とん一」にスマートフォンを使った事前注文・決済サービスを導入した。利用者は来店前に料理を注文し、来店すると待たずに料理を受け取れる。事前登録したクレジットカードで決済でき、食べ終えたら会計をせずに店を出られる。]]></description>
-			<pubDate>Wed, 26 Apr 2017 19:00:47 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：「対策を立てろ」は無能なマネジャーの常套句（脱出！ 暗闇プロジェクト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/032400060/?d27</link>
+			<description><![CDATA[　今どきのプロジェクトの多くは問題探索型であり、先を見通せないなかで運営していかなければならない。この連載では、そうしたプロジェクトを「暗闇プロジェクト」と呼び、その種のプロジェクトを主導するマネジャーが持つべき心得や運営のヒントを事例とともに示している。今回から問題解決について取り上げる。]]></description>
+			<pubDate>Mon, 10 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>HuluがMTVのインターネット向け新チャンネルを6月1日に配信開始（ニュース）</title>
@@ -33,6 +27,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042601296/</link>
 			<description><![CDATA[　シマンテックは2017年4月26日，2016年1～12月期におけるセキュリティ上の脅威を分析した「インターネットセキュリティ脅威レポート（ISTR）第22号」に関する説明会を開催。国家レベルの攻撃や身代金ウイルスの最新状況などに関する分析結果を明らかにした。]]></description>
 			<pubDate>Wed, 26 Apr 2017 20:43:08 +0900</pubDate>
+		</item>
+		<item>
+			<title>［Auroraの落とし穴］フェイルオーバー時に接続先が切り替わらない（知って安心！AWS・Azureのつまずきポイント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042600029/</link>
+			<description><![CDATA[　Amazon Web Servicesのリレーショナルデータベースサービス「Amazon Aurora」のデータベースクラスターでは、1台以上のレプリカがある場合、プライマリーインスタンスに障害が発生すると、自動的にレプリカのうち優先度の高い1台がプライマリーインスタンスに昇格する。]]></description>
+			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ウイルス感染の警告メールがニセモノ、文面に従うとウイルスに感染（辻伸弘の裏読みセキュリティ事件簿）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/012900025/042100040/</link>
+			<description><![CDATA[　セキュリティの業界団体を装って届いたメールには、ウイルス駆除方法が記されていた。その手順に従うとウイルスに感染する、という新しいタイプの攻撃を調査した。]]></description>
+			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>スマホの次はバーチャルディスプレー、最後に電脳通信へたどり着く──ドワンゴ夏野氏（iPhoneは世界をどう変えたか？）</title>
@@ -59,9 +65,9 @@
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>［Auroraの落とし穴］フェイルオーバー時に接続先が切り替わらない（知って安心！AWS・Azureのつまずきポイント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042600029/</link>
-			<description><![CDATA[　Amazon Web Servicesのリレーショナルデータベースサービス「Amazon Aurora」のデータベースクラスターでは、1台以上のレプリカがある場合、プライマリーインスタンスに障害が発生すると、自動的にレプリカのうち優先度の高い1台がプライマリーインスタンスに昇格する。]]></description>
+			<title>パイプを活用して複雑な処理を1行で記述（安納順一のPowerShell Tips）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/042400004/</link>
+			<description><![CDATA[　PowerShellでコマンドを実行した結果は「オブジェクト」になる。このため、コマンドの実行結果を利用しやすい。オブジェクトの利用で活躍するのがパイプラインである。]]></description>
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,15 +95,15 @@
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>日本オンリーのIT部門ではムリ！ 国をまたがるIT投資の最適化（実録 グローバル化で変貌したIT部門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033100114/033100004/</link>
-			<description><![CDATA[　この連載ではローカルITからグローバルITへの変革について、ブリティッシュ・アメリカン・タバコ・ジャパン（BATジャパン）のIT部門の経験を基に解説している。今回はBATでのグローバルITとローカルITの関係について説明する。]]></description>
+			<title>異世界のプロの技を堪能し新たな刺激！『バーレスクTOKYO』（六本木）（旨いもんと感動で仕事はうまくいく！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200063/042300003/</link>
+			<description><![CDATA[　第3回目は趣向をぐっと変えて、感動かつ刺激的なショーが楽しめる『バーレスクTOKYO』を紹介する。同店は文字通り、映画「バーレスク」の世界観をコンセプトにしたエンターテインメントショースペースだ。]]></description>
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>パイプを活用して複雑な処理を1行で記述（安納順一のPowerShell Tips）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/042400004/</link>
-			<description><![CDATA[　PowerShellでコマンドを実行した結果は「オブジェクト」になる。このため、コマンドの実行結果を利用しやすい。オブジェクトの利用で活躍するのがパイプラインである。]]></description>
+			<title>IBMが世界初「誰でも使える量子コンピュータ」を公開した真意とは（ゾクゾクする量子コンピュータ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400160/042500002/</link>
+			<description><![CDATA[　IBMが、量子コンピュータをクラウドサービスとして万人に提供する狙いは何か。IBM Reasrch サイエンス＆ソリューション担当バイスプレジデントのダリオ・ジル氏に聞いた。]]></description>
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -125,21 +131,9 @@
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>異世界のプロの技を堪能し新たな刺激！『バーレスクTOKYO』（六本木）（旨いもんと感動で仕事はうまくいく！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200063/042300003/</link>
-			<description><![CDATA[　第3回目は趣向をぐっと変えて、感動かつ刺激的なショーが楽しめる『バーレスクTOKYO』を紹介する。同店は文字通り、映画「バーレスク」の世界観をコンセプトにしたエンターテインメントショースペースだ。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IBMが世界初「誰でも使える量子コンピュータ」を公開した真意とは（ゾクゾクする量子コンピュータ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400160/042500002/</link>
-			<description><![CDATA[　IBMが、量子コンピュータをクラウドサービスとして万人に提供する狙いは何か。IBM Reasrch サイエンス＆ソリューション担当バイスプレジデントのダリオ・ジル氏に聞いた。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ウイルス感染の警告メールがニセモノ、文面に従うとウイルスに感染（辻伸弘の裏読みセキュリティ事件簿）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/012900025/042100040/</link>
-			<description><![CDATA[　セキュリティの業界団体を装って届いたメールには、ウイルス駆除方法が記されていた。その手順に従うとウイルスに感染する、という新しいタイプの攻撃を調査した。]]></description>
+			<title>日本オンリーのIT部門ではムリ！ 国をまたがるIT投資の最適化（実録 グローバル化で変貌したIT部門）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033100114/033100004/</link>
+			<description><![CDATA[　この連載ではローカルITからグローバルITへの変革について、ブリティッシュ・アメリカン・タバコ・ジャパン（BATジャパン）のIT部門の経験を基に解説している。今回はBATでのグローバルITとローカルITの関係について説明する。]]></description>
 			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -256,6 +250,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042701303/</link>
 			<description><![CDATA[　メルカリは2017年4月27日、現金の出品をはじめとする不正取引への対策を発表した。現行貨幣やパチンコ特殊景品の出品禁止、電子マネーなど不正利用につながる恐れのある出品の監視強化などが柱だ。監視や問い合わせ対応の要員も、現行の200人超の体制を2年以内に倍に増やす。]]></description>
 			<pubDate>Thu, 27 Apr 2017 16:29:52 +0900</pubDate>
+		</item>
+		<item>
+			<title>「AIは人間の良き部下であれ」、人工知能学会の山田誠二氏（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042701300/</link>
+			<description><![CDATA[　人工知能（AI）研究者の山田誠二氏は2017年4月26日、「ガートナー ITインフラストラクチャ ＆ データセンター サミット2017」の基調講演に登壇した。]]></description>
+			<pubDate>Thu, 27 Apr 2017 16:38:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>創業97年の靴下メーカー、“初めてづくし”のデジタルマーケに挑戦（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042701305/</link>
+			<description><![CDATA[　靴下メーカーのナイガイは2017年4月27日、インターネット関連企業2社と共同で、新たなデジタルマーケティング施策を開始したと発表した。協業したのは、Q＆Aサイト「OKWAVE」を運営するオウケイウェイヴと、QRコード読み取りアプリなどの開発を手掛けるメディアシーク。]]></description>
+			<pubDate>Thu, 27 Apr 2017 17:22:57 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
