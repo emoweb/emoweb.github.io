@@ -5,130 +5,22 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>ライフネット生命、人は駄目だが「ボットなら話せる」（チャットファースト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000009/</link>
-			<description><![CDATA[　ライフネット生命保険は、LINEの企業アカウントを活用してチャットで生命保険に関する相談ができるサービスを2016年7月に開始した。ボットが相手なら気軽に話せることから、20～30代の見込み客を獲得する狙い。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>特殊な米国の通信事情、ソフトバンクiPhoneなら「アメリカ放題」一択だが（海外スマホ術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041700145/042000002/</link>
-			<description><![CDATA[　米国のモバイルネットワークは世界的に見てかなり独自性が強く、国際ローミングや現地のプリペイドSIMを利用するうえで注意が必要なことが多い。米国でスマートフォンを利用する方法と注意点について説明しよう。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「当社には取られて困る情報はない」？経営層による3つの勘違い（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/041900010/</link>
-			<description><![CDATA[　「ウチには取られて困る情報はない」。経営層からこう断言されてしまったとき、セキュリティ担当者はどう食い下がればいいのか。今回は、攻撃者という敵をよく知ることで、効果的なセキュリティ対策をとれることを解説する。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>パイプを活用して複雑な処理を1行で記述（安納順一のPowerShell Tips）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/042400004/</link>
-			<description><![CDATA[　PowerShellでコマンドを実行した結果は「オブジェクト」になる。このため、コマンドの実行結果を利用しやすい。オブジェクトの利用で活躍するのがパイプラインである。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>全店全商品にICタグ、人手不足のコンビニ大手がレジ革命（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042600952/</link>
-			<description><![CDATA[　コンビニエンスストアが、かつてない取り組みに挑戦しようとしている。全店舗で取り扱う全商品にICタグ（RFID）を付与し、深刻化する人手不足を解消しようというものだ。店舗でのレジ業務やサプライチェーンの効率化を目指す。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>古巣IBMでの知見を生かして100年企業をデジタル化（100年企業が本気でデジ変）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400159/042400002/</link>
-			<description><![CDATA[　米ピツニーボウズで事業構造の転換を推し進めているのは、米IBM出身のマーク・ローテンバーグCEOだ。古巣である米IBMもサービス事業の転換をはかっているが、減収が止まらず道半ば。IBM出身のローテンバーグCEOは、ピツニーボウズで成果を出し始めた。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>終焉迎えるISDNのデータ通信、代替策は十分か？（どうする？固定電話のIP移行）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400164/042600002/</link>
-			<description><![CDATA[　固定電話のIP網への移行に伴い、NTTはISDNを使うデータ通信サービス「INSネット」の「ディジタル通信モード」も終了する。今もISDNを利用している顧客の声にどう対応していくか、NTT東日本の担当者に聞いた。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本オンリーのIT部門ではムリ！ 国をまたがるIT投資の最適化（実録 グローバル化で変貌したIT部門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033100114/033100004/</link>
-			<description><![CDATA[　この連載ではローカルITからグローバルITへの変革について、ブリティッシュ・アメリカン・タバコ・ジャパン（BATジャパン）のIT部門の経験を基に解説している。今回はBATでのグローバルITとローカルITの関係について説明する。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>［Auroraの落とし穴］フェイルオーバー時に接続先が切り替わらない（知って安心！AWS・Azureのつまずきポイント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042600029/</link>
-			<description><![CDATA[　Amazon Web Servicesのリレーショナルデータベースサービス「Amazon Aurora」のデータベースクラスターでは、1台以上のレプリカがある場合、プライマリーインスタンスに障害が発生すると、自動的にレプリカのうち優先度の高い1台がプライマリーインスタンスに昇格する。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>システム開発に「忖度」は無用、IT部門は業務改革の在るべき姿示せ（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/042500083/</link>
-			<description><![CDATA[　政界を揺るがす森友学園への国有地払い下げ問題で流行語になった感のある「忖度」。他人の心、気持ちを推し量ることをいう。ITベンダーが大手製造業に提案した際、相手のIT部門から「それは社長がウンと言わないだろう」「事業部門が抵抗するはず」などと逡巡する言葉をいくつも聞いた。まさに典型的な忖度だ。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>異世界のプロの技を堪能し新たな刺激！『バーレスクTOKYO』（六本木）（旨いもんと感動で仕事はうまくいく！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200063/042300003/</link>
-			<description><![CDATA[　第3回目は趣向をぐっと変えて、感動かつ刺激的なショーが楽しめる『バーレスクTOKYO』を紹介する。同店は文字通り、映画「バーレスク」の世界観をコンセプトにしたエンターテインメントショースペースだ。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>次の脅威は「ビジネスメール詐欺」、手口はまるでオレオレ詐欺（編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/042000032/</link>
-			<description><![CDATA[　ここにきて、また新たなサイバー攻撃の脅威が注目を集めている。「ビジネスメール詐欺」である。筆者は初めてビジネスメール詐欺という言葉を聞いたとき、「標的型攻撃メール」の話か、と思って聞き流しそうになった。しかしさにあらず。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ロボットで自動化する業務としない業務、どう見極める？（オフィスロボ導入、5つの疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900004/</link>
-			<description><![CDATA[　自動化する作業としない作業は、どうやって見極めるべきか？顧客の意見への対応やセキュリティに関わる作業は人に委ねたほうが安心だ。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>スマホの次はバーチャルディスプレー、最後に電脳通信へたどり着く──ドワンゴ夏野氏（iPhoneは世界をどう変えたか？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022400046/042100031/</link>
-			<description><![CDATA[　iPhoneは今年で10周年を迎える。この10年の間、iPhoneは携帯電話業界に多大な影響を与えた。そのアップルがiPhoneを中心としたエコシステム作りの参考にしたと言われるのがiモードである。iモードの生みの親の一人であり、NTTドコモでiモード立ち上げに関わった夏野剛氏に話を聞いた。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ニセ攻撃メールで訓練、“秒殺”されたセキュリティテストで本気出す（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/041800013/</link>
-			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」。2016年3月25日に開催した定期会合の議題は「どうする！？情報セキュリティ」だった。第三者による診断や標的型メールの訓練など、対策の実態を共有しあった。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ウイルス感染の警告メールがニセモノ、文面に従うとウイルスに感染（辻伸弘の裏読みセキュリティ事件簿）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/012900025/042100040/</link>
-			<description><![CDATA[　セキュリティの業界団体を装って届いたメールには、ウイルス駆除方法が記されていた。その手順に従うとウイルスに感染する、という新しいタイプの攻撃を調査した。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IBMが世界初「誰でも使える量子コンピュータ」を公開した真意とは（ゾクゾクする量子コンピュータ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400160/042500002/</link>
-			<description><![CDATA[　IBMが、量子コンピュータをクラウドサービスとして万人に提供する狙いは何か。IBM Reasrch サイエンス＆ソリューション担当バイスプレジデントのダリオ・ジル氏に聞いた。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>オラクルとマイクロソフトが火花、データベース緊急値下げ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042500951/</link>
-			<description><![CDATA[　日本オラクルと日本マイクロソフトがデータベース（DB）分野で、値引きやエンジニアの教育を軸にした新たな販売戦略を打ち出している。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>NRIの2017年3月期は小幅の増収増益、豪子会社寄与するも証券・保険向け不調（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042701309/</link>
-			<description><![CDATA[　野村総合研究所（NRI）は2017年3月期通期の連結決算を発表した。売上高は4245億4800万円（前年同期比0.7％増）、営業利益は585億1400万円（0.4％増）で、かろうじて増収増益を確保した。]]></description>
-			<pubDate>Thu, 27 Apr 2017 19:15:05 +0900</pubDate>
-		</item>
-		<item>
-			<title>ドコモが中期戦略発表、AIエージェントやFinTechなど重点事業に位置づけ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042701310/</link>
-			<description><![CDATA[　NTTドコモは2017年4月27日、向こう3年間の経営方針や重点的に取り組む応用分野などをまとめた「中期戦略2020 beyond宣言」を発表した。AIエージェントやFinTechサービス、ドローンサービス、エンタテインメントといった新領域を事業化する方針を示した。]]></description>
-			<pubDate>Thu, 27 Apr 2017 20:24:58 +0900</pubDate>
-		</item>
-		<item>
 			<title>Excelの見た目をそのままWebアプリにする「Forguncy」の新版（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042701304/</link>
 			<description><![CDATA[　グレープシティは2017年4月27日、Webアプリケーション構築ソフトの最新版「Forguncy 3」を発表した。Excelに近い機能と操作性を備えたWebアプリケーションを、プログラミング不要で構築できる。]]></description>
 			<pubDate>Thu, 27 Apr 2017 21:11:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>コストパフォーマンスの高さは抜群！「Moto G5 Plus」（SIMフリースマートフォンを徹底レビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/042600039/</link>
+			<description><![CDATA[　モトローラ・モビリティの「Moto G5 Plus」は、2016年に日本で発売され、デュアルSIMデュアルスタンバイ（DSDS）に対応したことで人気を集めた「Moto G4 Plus」の後継モデルだ。Gシリーズは、モトローラ製のスマートフォンの中で、最も販売台数が多い売れ筋のシリーズである。]]></description>
+			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ラズパイに入れるとスマートテレビになるOS「OSMC」を試す（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/042500005/</link>
+			<description><![CDATA[　動画や音楽を楽しめるマルチメディアOS「OSMC」で、600円からのPCボード「Raspberry Pi」（ラズパイ）をつないだテレビを“スマートTV”に仕立てられます。]]></description>
+			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Loco Partnersの高級宿予約サイト、若年層をチャットで吸引（チャットファースト）</title>
@@ -191,15 +83,15 @@
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>コストパフォーマンスの高さは抜群！「Moto G5 Plus」（SIMフリースマートフォンを徹底レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/042600039/</link>
-			<description><![CDATA[　モトローラ・モビリティの「Moto G5 Plus」は、2016年に日本で発売され、デュアルSIMデュアルスタンバイ（DSDS）に対応したことで人気を集めた「Moto G4 Plus」の後継モデルだ。Gシリーズは、モトローラ製のスマートフォンの中で、最も販売台数が多い売れ筋のシリーズである。]]></description>
+			<title>試してみよう！五月病にならないGWの過ごし方（GWスペシャル2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000154/042500004/</link>
+			<description><![CDATA[　五月病は、ゴールデンウイーク（GW）明けに発症する病気だ。うつ病に似たもので、抑うつや無気力、不安や焦りなどの症状が現れる。放っておくと出社できなくなることも。五月病にならないGWの過ごし方を、IT企業などで健康指導を行う保健師・金橋治美氏に聞いた。]]></description>
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>何問解ける？ 2017年1～4月のIT業界動向クイズ（GWスペシャル2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000154/042600005/</link>
-			<description><![CDATA[　クイズ形式で2017年1～4月のIT業界動向を振り返ってみましょう。ITベンダーの営業担当者や技術者、ユーザー企業のシステム部門などの方々が押さえておきたいトピックから出題します。全部で20問、あなたは何問答えられますか？]]></description>
+			<title>格安スマホで急増するトラブル　避けるための3か条（GWスペシャル2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000154/042500002/</link>
+			<description><![CDATA[　格安スマホ・格安SIMの契約についてトラブルが急増している。その原因と対策とは？]]></description>
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -209,9 +101,9 @@
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ラズパイに入れるとスマートテレビになるOS「OSMC」を試す（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/042500005/</link>
-			<description><![CDATA[　動画や音楽を楽しめるマルチメディアOS「OSMC」で、600円からのPCボード「Raspberry Pi」（ラズパイ）をつないだテレビを“スマートTV”に仕立てられます。]]></description>
+			<title>訓練メールなのに注意喚起で大騒ぎ、失敗しない標的型攻撃訓練の進め方（辻伸弘の裏読みセキュリティ事件簿）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/012900025/042100041/</link>
+			<description><![CDATA[　健康保険組合が続々と注意喚起を出した。「健康保険組合連合協会」という差出人のメールが届くという。しかし、そんな団体は存在しない。調査を開始した。]]></description>
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -269,21 +161,9 @@
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>格安スマホで急増するトラブル　避けるための3か条（GWスペシャル2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000154/042500002/</link>
-			<description><![CDATA[　格安スマホ・格安SIMの契約についてトラブルが急増している。その原因と対策とは？]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>訓練メールなのに注意喚起で大騒ぎ、失敗しない標的型攻撃訓練の進め方（辻伸弘の裏読みセキュリティ事件簿）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/012900025/042100041/</link>
-			<description><![CDATA[　健康保険組合が続々と注意喚起を出した。「健康保険組合連合協会」という差出人のメールが届くという。しかし、そんな団体は存在しない。調査を開始した。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>試してみよう！五月病にならないGWの過ごし方（GWスペシャル2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000154/042500004/</link>
-			<description><![CDATA[　五月病は、ゴールデンウイーク（GW）明けに発症する病気だ。うつ病に似たもので、抑うつや無気力、不安や焦りなどの症状が現れる。放っておくと出社できなくなることも。五月病にならないGWの過ごし方を、IT企業などで健康指導を行う保健師・金橋治美氏に聞いた。]]></description>
+			<title>何問解ける？ 2017年1～4月のIT業界動向クイズ（GWスペシャル2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000154/042600005/</link>
+			<description><![CDATA[　クイズ形式で2017年1～4月のIT業界動向を振り返ってみましょう。ITベンダーの営業担当者や技術者、ユーザー企業のシステム部門などの方々が押さえておきたいトピックから出題します。全部で20問、あなたは何問答えられますか？]]></description>
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -334,6 +214,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042801312/</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Fri, 28 Apr 2017 10:21:34 +0900</pubDate>
+		</item>
+		<item>
+			<title>スマホ市場拡大、けん引役は中国メーカー（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042801313/</link>
+			<description><![CDATA[　米IDCが現地時間2017年4月27日に公表した世界スマートフォン市場リポートによると、同年第1四半期（1～3月期）の出荷台数（速報値）は3億4740万台となり、 前年同期から4.3％増加した。]]></description>
+			<pubDate>Fri, 28 Apr 2017 11:08:27 +0900</pubDate>
+		</item>
+		<item>
+			<title>キーボード搭載スマホ「BlackBerry KEYone」が英国で先行販売、北米は5月（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042801315/</link>
+			<description><![CDATA[　カナダBlackBerryのライセンシーである中国TCL Communication Technologyは現地時間2017年4月27日、物理キーボード搭載のAndroidスマートフォン「BlackBerry KEYone」の北米投入について明らかにした。5月18日に予約受付を開始し、5月31日に正式発売する。また英国では、BlackBerry KEYoneの先行販売が始まった。]]></description>
+			<pubDate>Fri, 28 Apr 2017 11:25:24 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
