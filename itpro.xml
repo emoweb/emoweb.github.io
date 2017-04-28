@@ -5,10 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：オラクルとマイクロソフトが火花、データベース緊急値下げ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042500951/?d28</link>
-			<description><![CDATA[　日本オラクルと日本マイクロソフトがデータベース（DB）分野で、値引きやエンジニアの教育を軸にした新たな販売戦略を打ち出している。]]></description>
-			<pubDate>Thu, 27 Apr 2017 05:00:00 +0900</pubDate>
+			<title>試してみよう！五月病にならないGWの過ごし方（GWスペシャル2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000154/042500004/</link>
+			<description><![CDATA[　五月病は、ゴールデンウイーク（GW）明けに発症する病気だ。うつ病に似たもので、抑うつや無気力、不安や焦りなどの症状が現れる。放っておくと出社できなくなることも。五月病にならないGWの過ごし方を、IT企業などで健康指導を行う保健師・金橋治美氏に聞いた。]]></description>
+			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>訓練メールなのに注意喚起で大騒ぎ、失敗しない標的型攻撃訓練の進め方（辻伸弘の裏読みセキュリティ事件簿）</title>
@@ -131,15 +131,15 @@
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>100億個のシナプスで「量子脳」を作る、国産量子コンピュータの野望（ゾクゾクする量子コンピュータ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400160/042600003/</link>
-			<description><![CDATA[　10万個のニューロンと100億個のシナプスからなる「量子脳」を構築する──。これが、内閣府による「革新的研究開発推進プログラム（ImPACT）」で量子コンピュータの研究プロジェクトを率いるプログラム・マネージャー、山本喜久氏が掲げる目標だ。]]></description>
+			<title>［Auroraの落とし穴］読み込みエンドポイントで分散されない（知って安心！AWS・Azureのつまずきポイント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042600030/</link>
+			<description><![CDATA[　Amazon Web Servicesのリレーショナルデータベースサービス「Amazon Aurora」のデータベースクラスターは、プライマリーインスタンスとAuroraレプリカという2種類のインスタンスで構成される。 データベースクラスターへのアクセスには、クラスターエンドポイント、読み込みエンドポイント、インスタンスエンドポイントという三つのエンドポイントが用意されている。]]></description>
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>試してみよう！五月病にならないGWの過ごし方（GWスペシャル2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000154/042500004/</link>
-			<description><![CDATA[　五月病は、ゴールデンウイーク（GW）明けに発症する病気だ。うつ病に似たもので、抑うつや無気力、不安や焦りなどの症状が現れる。放っておくと出社できなくなることも。五月病にならないGWの過ごし方を、IT企業などで健康指導を行う保健師・金橋治美氏に聞いた。]]></description>
+			<title>Chromecast Audioとコーデック選びで一変した「青木家のワイヤレス音楽史」（青木恵美の信州ITラプソディ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/042700028/</link>
+			<description><![CDATA[　筆者は音楽好きである。その音楽の聴き方は、時代とともに変わってきている。それが大きく変わったのは、iPodなどの音楽プレーヤーの登場だったと思う。]]></description>
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -155,15 +155,9 @@
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>［Auroraの落とし穴］読み込みエンドポイントで分散されない（知って安心！AWS・Azureのつまずきポイント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042600030/</link>
-			<description><![CDATA[　Amazon Web Servicesのリレーショナルデータベースサービス「Amazon Aurora」のデータベースクラスターは、プライマリーインスタンスとAuroraレプリカという2種類のインスタンスで構成される。 データベースクラスターへのアクセスには、クラスターエンドポイント、読み込みエンドポイント、インスタンスエンドポイントという三つのエンドポイントが用意されている。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Chromecast Audioとコーデック選びで一変した「青木家のワイヤレス音楽史」（青木恵美の信州ITラプソディ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/042700028/</link>
-			<description><![CDATA[　筆者は音楽好きである。その音楽の聴き方は、時代とともに変わってきている。それが大きく変わったのは、iPodなどの音楽プレーヤーの登場だったと思う。]]></description>
+			<title>100億個のシナプスで「量子脳」を作る、国産量子コンピュータの野望（ゾクゾクする量子コンピュータ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400160/042600003/</link>
+			<description><![CDATA[　10万個のニューロンと100億個のシナプスからなる「量子脳」を構築する──。これが、内閣府による「革新的研究開発推進プログラム（ImPACT）」で量子コンピュータの研究プロジェクトを率いるプログラム・マネージャー、山本喜久氏が掲げる目標だ。]]></description>
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -338,6 +332,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042801328/</link>
 			<description><![CDATA[　日本航空（JAL）は2017年4月28日、2020年度を目標年度とする中期経営計画を発表した。ANAホールディングス（ANAHD）も同日、2016～20年度の予定で進行中の中期経営計画の改訂版を発表した。両社とも、ITを活用して新たな事業領域の開拓を進め増収につなげる姿勢を示している。]]></description>
 			<pubDate>Fri, 28 Apr 2017 21:20:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>米レッドハット、コンテナ基盤構築ソフト「OpenShift Container」の最新版（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042801319/</link>
+			<description><![CDATA[　米レッドハットは2017年4月13日、企業向けのコンテナ基盤構築ソフト「Red Hat OpenShift Container Platform」の最新版「3.5」の提供を開始した。Red Hat Enterprise Linux上にDockerコンテナとコンテナ運用自動化ツールなどを追加した。]]></description>
+			<pubDate>Sat, 29 Apr 2017 08:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
