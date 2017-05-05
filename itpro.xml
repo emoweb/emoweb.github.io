@@ -5,10 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：サイジニアなど、携帯アフィリエイトにレコメンド機能を搭載（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/article/NEWS/20091217/342323/?n05</link>
-			<description><![CDATA[　サイジニアとノッキングオンは2009年12月17日、携帯電話向けサイトのアフィリエイトサービスとして、サイトの内容や利用者に合った広告を表示するレコメンド機能が付いた「アフィリエイト広告レコメンドAPI」を開始すると発表した。すでにリクルートなど数社が広告出稿を決めている。]]></description>
-			<pubDate>Thu, 17 Dec 2009 17:11:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：ワイヤレスからPC対応まで！旬の変わり種バッテリーを検証（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/042200114/?n05</link>
+			<description><![CDATA[　Pokemon GOブームで、モバイルバッテリーが売れに売れた。もう一時ほどの勢いこそないものの、バッテリーの人気は継続していて、新製品が続々と登場している。]]></description>
+			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>「UberEATS」で人気店のカレーをデリバリーしてみた（GWスペシャル2017）</title>
@@ -149,9 +149,9 @@
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>オフィスロボを誤作動させないためのコツは？（オフィスロボ導入、5つの疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900005/</link>
-			<description><![CDATA[　稼働後の運用・保守はどうすべきか？1回作ったら放置はダメで、ロボットが使う「モノ」が変わったら欠かさずメンテナンスする。]]></description>
+			<title>［Auroraの落とし穴］読み込みエンドポイントで分散されない（知って安心！AWS・Azureのつまずきポイント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042600030/</link>
+			<description><![CDATA[　Amazon Web Servicesのリレーショナルデータベースサービス「Amazon Aurora」のデータベースクラスターは、プライマリーインスタンスとAuroraレプリカという2種類のインスタンスで構成される。 データベースクラスターへのアクセスには、クラスターエンドポイント、読み込みエンドポイント、インスタンスエンドポイントという三つのエンドポイントが用意されている。]]></description>
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -161,9 +161,9 @@
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>［Auroraの落とし穴］読み込みエンドポイントで分散されない（知って安心！AWS・Azureのつまずきポイント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042600030/</link>
-			<description><![CDATA[　Amazon Web Servicesのリレーショナルデータベースサービス「Amazon Aurora」のデータベースクラスターは、プライマリーインスタンスとAuroraレプリカという2種類のインスタンスで構成される。 データベースクラスターへのアクセスには、クラスターエンドポイント、読み込みエンドポイント、インスタンスエンドポイントという三つのエンドポイントが用意されている。]]></description>
+			<title>オフィスロボを誤作動させないためのコツは？（オフィスロボ導入、5つの疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900005/</link>
+			<description><![CDATA[　稼働後の運用・保守はどうすべきか？1回作ったら放置はダメで、ロボットが使う「モノ」が変わったら欠かさずメンテナンスする。]]></description>
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
