@@ -5,10 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：ワイヤレスからPC対応まで！旬の変わり種バッテリーを検証（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/042200114/?n05</link>
-			<description><![CDATA[　Pokemon GOブームで、モバイルバッテリーが売れに売れた。もう一時ほどの勢いこそないものの、バッテリーの人気は継続していて、新製品が続々と登場している。]]></description>
-			<pubDate>Tue, 25 Apr 2017 05:00:00 +0900</pubDate>
+			<title>［Auroraの落とし穴］読み込みエンドポイントで分散されない（知って安心！AWS・Azureのつまずきポイント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042600030/</link>
+			<description><![CDATA[　Amazon Web Servicesのリレーショナルデータベースサービス「Amazon Aurora」のデータベースクラスターは、プライマリーインスタンスとAuroraレプリカという2種類のインスタンスで構成される。 データベースクラスターへのアクセスには、クラスターエンドポイント、読み込みエンドポイント、インスタンスエンドポイントという三つのエンドポイントが用意されている。]]></description>
+			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>「UberEATS」で人気店のカレーをデリバリーしてみた（GWスペシャル2017）</title>
@@ -143,18 +143,6 @@
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>7割の製品はデザイン思考で、創業100年の米老舗（100年企業が本気でデジ変）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400159/042400003/</link>
-			<description><![CDATA[　ピツニーボウズにとって2020年は節目の年だ。1920年に創業してからちょうど100年目。同社のマーク・ローテンバーグCEOは「次の100年はITサービス企業に生まれ変わる」と意気込む。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>［Auroraの落とし穴］読み込みエンドポイントで分散されない（知って安心！AWS・Azureのつまずきポイント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042600030/</link>
-			<description><![CDATA[　Amazon Web Servicesのリレーショナルデータベースサービス「Amazon Aurora」のデータベースクラスターは、プライマリーインスタンスとAuroraレプリカという2種類のインスタンスで構成される。 データベースクラスターへのアクセスには、クラスターエンドポイント、読み込みエンドポイント、インスタンスエンドポイントという三つのエンドポイントが用意されている。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>100億個のシナプスで「量子脳」を作る、国産量子コンピュータの野望（ゾクゾクする量子コンピュータ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400160/042600003/</link>
 			<description><![CDATA[　10万個のニューロンと100億個のシナプスからなる「量子脳」を構築する──。これが、内閣府による「革新的研究開発推進プログラム（ImPACT）」で量子コンピュータの研究プロジェクトを率いるプログラム・マネージャー、山本喜久氏が掲げる目標だ。]]></description>
@@ -164,6 +152,12 @@
 			<title>オフィスロボを誤作動させないためのコツは？（オフィスロボ導入、5つの疑問）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900005/</link>
 			<description><![CDATA[　稼働後の運用・保守はどうすべきか？1回作ったら放置はダメで、ロボットが使う「モノ」が変わったら欠かさずメンテナンスする。]]></description>
+			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>7割の製品はデザイン思考で、創業100年の米老舗（100年企業が本気でデジ変）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400159/042400003/</link>
+			<description><![CDATA[　ピツニーボウズにとって2020年は節目の年だ。1920年に創業してからちょうど100年目。同社のマーク・ローテンバーグCEOは「次の100年はITサービス企業に生まれ変わる」と意気込む。]]></description>
 			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -356,6 +350,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/042500007/</link>
 			<description><![CDATA[　前回は、再構築のプロジェクトにおいて、アプリの設計担当者だけではなく、プロジェクトオーナーやプロジェクトマネジャーといった、プロジェクトの他の関係者も、意識に反し、保守性の実現に対して足を引っ張ってしまう現実を紹介してきた。今回は、高い保守性のための設計の本質に迫る。まず保守性の高いアプリとはどういうものかをはっきりさせ、そのための設計の方法を紹介する。]]></description>
 			<pubDate>Tue, 02 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日販「書店体験を変えるIoT」ハッカソン優秀作、都内2書店で早くも展開（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050201333/</link>
+			<description><![CDATA[　書籍取次大手の日本出版販売（日販）は2017年ゴールデンウイークに合わせて、傘下の2書店でIoT（インターネット・オブ・シングズ）を活用した新しい販促手法の実証実験を始めた。]]></description>
+			<pubDate>Sun, 07 May 2017 06:27:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
