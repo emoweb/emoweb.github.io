@@ -5,251 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>［Auroraの落とし穴］読み込みエンドポイントで分散されない（知って安心！AWS・Azureのつまずきポイント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/041400085/042600030/</link>
-			<description><![CDATA[　Amazon Web Servicesのリレーショナルデータベースサービス「Amazon Aurora」のデータベースクラスターは、プライマリーインスタンスとAuroraレプリカという2種類のインスタンスで構成される。 データベースクラスターへのアクセスには、クラスターエンドポイント、読み込みエンドポイント、インスタンスエンドポイントという三つのエンドポイントが用意されている。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「UberEATS」で人気店のカレーをデリバリーしてみた（GWスペシャル2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000154/042700006/</link>
-			<description><![CDATA[　世間はゴールデンウイークである。旅費も高いし混雑しているので、あえて外出しない、という人もいるだろう。そんな連休中は自宅で過ごすという人にお薦めしたいのが、「UberEATS（ウーバーイーツ）」だ。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Chromecast Audioとコーデック選びで一変した「青木家のワイヤレス音楽史」（青木恵美の信州ITラプソディ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/042700028/</link>
-			<description><![CDATA[　筆者は音楽好きである。その音楽の聴き方は、時代とともに変わってきている。それが大きく変わったのは、iPodなどの音楽プレーヤーの登場だったと思う。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>試してみよう！五月病にならないGWの過ごし方（GWスペシャル2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000154/042500004/</link>
-			<description><![CDATA[　五月病は、ゴールデンウイーク（GW）明けに発症する病気だ。うつ病に似たもので、抑うつや無気力、不安や焦りなどの症状が現れる。放っておくと出社できなくなることも。五月病にならないGWの過ごし方を、IT企業などで健康指導を行う保健師・金橋治美氏に聞いた。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>訓練メールなのに注意喚起で大騒ぎ、失敗しない標的型攻撃訓練の進め方（辻伸弘の裏読みセキュリティ事件簿）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/012900025/042100041/</link>
-			<description><![CDATA[　健康保険組合が続々と注意喚起を出した。「健康保険組合連合協会」という差出人のメールが届くという。しかし、そんな団体は存在しない。調査を開始した。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>コストパフォーマンスの高さは抜群！「Moto G5 Plus」（SIMフリースマートフォンを徹底レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/042600039/</link>
-			<description><![CDATA[　モトローラ・モビリティの「Moto G5 Plus」は、2016年に日本で発売され、デュアルSIMデュアルスタンバイ（DSDS）に対応したことで人気を集めた「Moto G4 Plus」の後継モデルだ。Gシリーズは、モトローラ製のスマートフォンの中で、最も販売台数が多い売れ筋のシリーズである。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ラズパイに入れるとスマートテレビになるOS「OSMC」を試す（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/042500005/</link>
-			<description><![CDATA[　動画や音楽を楽しめるマルチメディアOS「OSMC」で、600円からのPCボード「Raspberry Pi」（ラズパイ）をつないだテレビを“スマートTV”に仕立てられます。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>オシャレ空間でアイデア続出！“共創スペース”ってどんな所？（GWスペシャル2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000154/042400001/</link>
-			<description><![CDATA[　大手IT企業がここ数年の間で、社内外の人材が交流する“共創スペース”を続々と作っている。どんな特徴があるのか。NEC、SAPジャパン、アクセンチュア、日立製作所、富士通、日本IBMの共創スペースを見てみよう。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>GWはスマホでスポーツ観戦？ソフトバンク回線の格安SIMでDAZNを視聴（伊藤浩一のモバイルライフ応援日記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/042400054/</link>
-			<description><![CDATA[　DAZNを格安SIMで試してみました。利用したのは、2017年3月にサービスが始まった「b-mobile S 開幕SIM」です。「b-mobile S 開幕SIM」は、日本通信がソフトバンクの回線を使って提供するMVNOサービスです。ソフトバンク回線を使う点が新しく、注目を集めています。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「国境超えても同一料金」が間もなく実現、変わりゆく欧州のSIM事情（海外スマホ術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041700145/042000003/</link>
-			<description><![CDATA[　欧州ではSIMフリーのスマートフォンが広く使われており、MVNOもサービスを盛んに展開している。日本に比べてLTEのつながるエリアが狭いなど不便な点はあるものの、旅行者でもSIMカードを入手して活用しやすい地域といえる。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>スマホ選び、「大画面」が好きな顧客の特徴は？ （ 「次の一手」の効果を評価するビジネス分析術（実践編））</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/112900284/033000007/</link>
-			<description><![CDATA[　画面サイズやハイレゾ対応──。スマートフォンの様々な機能がどれだけ顧客に刺さるかをアンケート。結果を分析し、“刺さり度合い”を数値化します。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>サーバー無しでコードを実行する「サーバーレス化」、一筋縄ではいかない（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/042400827/</link>
-			<description><![CDATA[　仮想マシンを使わずコードを実行する「サーバーレス化」を採用するユーザー企業が増えている。普及に一役買っているのが、クラウドベンダーが提供するイベント駆動型コード実行サービスだ。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>印刷機能などを強化した「Ubuntu 17.04 Desktop」、インストールを全解説（Linuxインストール完全ガイド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042700173/042700001/</link>
-			<description><![CDATA[　初心者でも使いやすいLinux OSの「Ubuntu 17.04 Desktop」をインストールする方法を紹介します。必ずパソコンのデータをバックアップした上でお試しください。導入後の日本語化手法も併せて解説します。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本ではあり得ない、こんなに違う世界のネットワーク（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/042700244/</link>
-			<description><![CDATA[　筆者は、カンファレンスやワークショップに参加するため、月に1〜2回の頻度で海外に行きます。変化の著しい新興国や途上国について、筆者が見聞きしたり、現地のネットワーク技術者と交流したりして知ったネットワーク事情を紹介します。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>慎重さ際立つ日本のCEO、自社の成長見通しに自信を持つCEOは日本が14％で世界が38%（データは語る）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/072600158/042700043/</link>
-			<description><![CDATA[　2017年月4月17日から4月24日に公表された市場動向についてレポートする。PwC Japanグループ「PwC Japan、『第20回世界CEO意識調査 日本分析版』を発表」など3本を取り上げる。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>スマホ連携カラオケボックスは日本でも流行するか！？（GWスペシャル2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000154/042500003/</link>
-			<description><![CDATA[　中国のショッピングモールなどに、ガラス張りのカラオケボックスが続々と設置されている。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>格安スマホで急増するトラブル　避けるための3か条（GWスペシャル2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000154/042500002/</link>
-			<description><![CDATA[　格安スマホ・格安SIMの契約についてトラブルが急増している。その原因と対策とは？]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>何問解ける？ 2017年1～4月のIT業界動向クイズ（GWスペシャル2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000154/042600005/</link>
-			<description><![CDATA[　クイズ形式で2017年1～4月のIT業界動向を振り返ってみましょう。ITベンダーの営業担当者や技術者、ユーザー企業のシステム部門などの方々が押さえておきたいトピックから出題します。全部で20問、あなたは何問答えられますか？]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>アップル非公認でも信頼できる？安心を訴えるスマホ修理業者（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042600953/</link>
-			<description><![CDATA[　メーカー保証外でスマートフォンの第三者修理を手掛ける「街のスマホ修理店」の運営関係者の間で、米アップルの「方針転換」が話題になっている。保証規約に違反となる修理をしたiPhoneでも、場合によって保証サービスを適用したり有償の正規修理に応じたりするように、保証や修理の規定を変えたというのだ。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Loco Partnersの高級宿予約サイト、若年層をチャットで吸引（チャットファースト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000134/041000010/</link>
-			<description><![CDATA[　高級宿泊施設の予約サイト「Relux」を運営するLoco Partnersは、若い顧客層を開拓するため、チャットを使ったマーケティングに着手した。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>グローバル化がマーケティングITにもたらす意外な効果（実録 グローバル化で変貌したIT部門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/033100114/033100005/</link>
-			<description><![CDATA[　この連載ではローカルITからグローバルITへの変革について、ブリティッシュ・アメリカン・タバコ・ジャパン（BATジャパン）のIT部門の経験を基に解説している。今回は目先を変えて、BATにおけるマーケティングを支えるITの変遷を紹介したい。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>本格活用が始まるテレビ視聴ログ、広告のターゲット効果を実証（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042500949/</link>
-			<description><![CDATA[　改正個人情報保護法が2017年5月30日に施行されるのに伴い、放送分野では、総務省が「放送受信者等の個人情報の保護に関する指針」（いわゆる「放送分野ガイドライン」）の改正に向けた作業を進めている。まもなくTV視聴ログの本格活用が始まる見通し。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>約40万社にシステム再点検が必要、EDIの「2024年問題」（どうする？固定電話のIP移行）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400164/042700003/</link>
-			<description><![CDATA[　NTTの最新計画では、固定電話のバックボーンをIP網に切り替える作業は2024年初頭に始まり1年後に完了する。ISDNや加入電話をデータ通信回線として利用している企業は、残り7年弱の間に自社システムの対応状況を把握し、対策を決めておく必要がある。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>100億個のシナプスで「量子脳」を作る、国産量子コンピュータの野望（ゾクゾクする量子コンピュータ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400160/042600003/</link>
-			<description><![CDATA[　10万個のニューロンと100億個のシナプスからなる「量子脳」を構築する──。これが、内閣府による「革新的研究開発推進プログラム（ImPACT）」で量子コンピュータの研究プロジェクトを率いるプログラム・マネージャー、山本喜久氏が掲げる目標だ。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>オフィスロボを誤作動させないためのコツは？（オフィスロボ導入、5つの疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900148/041900005/</link>
-			<description><![CDATA[　稼働後の運用・保守はどうすべきか？1回作ったら放置はダメで、ロボットが使う「モノ」が変わったら欠かさずメンテナンスする。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>7割の製品はデザイン思考で、創業100年の米老舗（100年企業が本気でデジ変）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400159/042400003/</link>
-			<description><![CDATA[　ピツニーボウズにとって2020年は節目の年だ。1920年に創業してからちょうど100年目。同社のマーク・ローテンバーグCEOは「次の100年はITサービス企業に生まれ変わる」と意気込む。]]></description>
-			<pubDate>Fri, 28 Apr 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ランサムウエアの身代金、ビットコインはどこで買うべきか（下）（ランサムウエアの身代金、ビットコインはどこで買うべきか）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/041800031/041800003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　2016年にランサムウエアは10億ドル規模の産業に拡大した。身代金の支払いは、今やビットコイン経済の10％近くを占めている。被害に遭うのを防ぐためには、強固なエンドポイントセキュリティと効果的なバックアップが必要だ。だが、防御に失敗し、バックアップも不十分で、データを復旧するための試みもすべて不調に終わり、最終的に身代金を支払うしかなくなった場合、どうすればよいだろうか。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800031/041800002/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800031/041800003/ph3.jpg" width="300" alt="" title=""></div></div>
-
-<p>　また、セキュリティ侵害を受けたことの報告義務を回避しようとしている場合でも、身代金を支払うことは助けにならない。犯人側がデータを持っていることが分かっているからだ。</p>
-
-<p>　金を支払うべきではないもう1つの状況は、分散型サービス拒否（DDoS）攻撃を回避するための金だとBarak氏は言う。</p>
-
-<p>　「DDoS攻撃に対する金銭の要求は、ずいぶん前からあるが、その多くは詐欺だ」</p>
-
-<p>　カナダeSentireの創業者で最高セキュリティストラテジストのEldon Sprickerhoff氏は、ファイルを暗号化して身代金を要求するオーソドックスなランサムウエアといえども、金を支払わない方がよい相応の理由があると話す。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800031/041800003/?ST=cio-security&P=2">例えば、ハッカーがシステムの中に潜伏済みかもしれ...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800031/041800003/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800031/041800003/?ST=cio-security&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800031/041800003/?ST=cio-security&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/041800031/041800003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 28 Apr 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>NECの2016年度通期決算は減収減益、中期経営計画の撤回に新野社長「非常に残念」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042701311/</link>
-			<description><![CDATA[　NECは2017年4月27日、2017年3月期の通期決算を発表した。売上高は前年同期比5.7％減の2兆6650億円、営業利益は同54.2％減の418億円で減収減益となった。業績悪化を受けて2019年3月期を最終年度とする現中期経営計画について事実上の撤回を表明した。]]></description>
-			<pubDate>Fri, 28 Apr 2017 07:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows 10のCreators Update、手動更新を控えるようMSが要望（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042800363/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftは、「Windows 10 Creators Update」へのアップデートに関して、手動での更新は控えるよう要望した。「メディア作成ツール」や「Windows 10更新アシスタント」など、先進ユーザーのための手動更新の手段は、あくまで上級者のみが利用し、それ以外のユーザーは「Windows Update」で配信されるまで待つように勧めている。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042800363/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Brad Chacos/IDG</div>
-</div>
-<p>
-　Microsoftの<a href="https://blogs.windows.com/windowsexperience/2017/04/25/windows-10-creators-update-rollout-first-phase-update/" target="_blank">ブログ記事</a>によると、同社が手動更新を勧めない理由は、特定のハードウエア構成で問題が生じた場合、その問題を解消するまで更新をまってもらいたいからだ。Microsoftは問題をなるべく早く把握できるように、「Windows Insider Program」のプレビュー版を使ったフィードバックや、既にCreators Updateを導入したユーザーからの全般的なフィードバックを実行している。
-</p>
-<p>
-　ブログによれば、Microsoftは、Creators Updateの問題を把握したとき、少なくとも次の3つの策のいずれかを講じる。
-</p>
-<p>
-　1：問題を文書化し、解決策に関する情報を同社のフォーラムなどに掲載する<br>
-　2：Windows自体に修正を加えるか、あるいはハードウエアメーカーと協力してドライバーを更新する<br>
-　3：該当するデバイスにはWindows UpdateでCreators Updateが配信されないようブロックする
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042800363/?ST=cm-software&P=2">CreatorsUpdateで既に見つかった問題として、Broa...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042800363/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042800363/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042800363/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 28 Apr 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Microsoftの1～3月期決算は増収増益、Office関連とクラウドがけん引（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042801312/</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Fri, 28 Apr 2017 10:21:34 +0900</pubDate>
-		</item>
-		<item>
 			<title>スマホ市場拡大、けん引役は中国メーカー（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042801313/</link>
 			<description><![CDATA[　米IDCが現地時間2017年4月27日に公表した世界スマートフォン市場リポートによると、同年第1四半期（1～3月期）の出荷台数（速報値）は3億4740万台となり、 前年同期から4.3％増加した。]]></description>
@@ -356,6 +111,92 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050201333/</link>
 			<description><![CDATA[　書籍取次大手の日本出版販売（日販）は2017年ゴールデンウイークに合わせて、傘下の2書店でIoT（インターネット・オブ・シングズ）を活用した新しい販促手法の実証実験を始めた。]]></description>
 			<pubDate>Sun, 07 May 2017 06:27:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>パナソニックがAIとIoT軸に事業創造、「縦割り文化」を壊せるか（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042700956/</link>
+			<description><![CDATA[　パナソニックがAI（人工知能）やIoT（インターネット・オブ・シングズ）を軸にしたデジタル技術による事業創造に向け、新施策を打ち出した。中核を担うのが本社直轄の「ビジネスイノベーション本部」。四つの社内カンパニーの37事業部が持つ技術やノウハウを生かし、新たな事業を生み出す先導役を務める。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>“てんこもり”のOffice 365はどんなサービス？（Office 365 5つの疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400161/042700005/</link>
+			<description><![CDATA[　多数のクラウドサービスとPCに入れて使うソフトをまとめて提供する“てんこもり”のOffice 365。すべてを把握しているIT担当者は少ないだろう。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>パソコンの快適利用は最初が肝心！サインインやアプリ起動を見直す（操作も動作も劇的に速くなる！パソコン時短術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000136/042500007/</link>
+			<description><![CDATA[　パソコンの時短を考えるとき、まず目を付けるべきなのが、「頻度の多い操作」だ。毎日行う操作ほど、時間を短縮できれば効果も大きい。まずは、Windowsやアプリケーションの起動について考えてみよう。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「リスクを取らない企業は存在意義がない」、オリックス宮内義彦氏（上）（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/042700014/</link>
+			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」がサービスを開始した2015年11月。記念すべき第1回総会の基調講演にオリックスの宮内義彦氏が登壇した。日本を代表する名経営者の発言は今も色あせない。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>コアな仕事は何か？ 情シスの定常業務（永井昭弘のそれって丸投げ？ユーザー責任を斬る）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090600196/042500011/</link>
+			<description><![CDATA[　情報システム部門にとっての「定常業務」をざっと分類すると、「1.システムの運用・保守・維持管理」「2.IT資産管理」「3.ヘルプデスク」「4.次のシステム案件の企画・調査」「5.エンドユーザーのリテラシー教育」がある。これらのうち、コアにすべき仕事は何だろうか？]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>隙あらばキャッシュバック、懲りないソフトバンク（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/042600828/</link>
+			<description><![CDATA[　携帯電話の販売適正化に向け、総務省が「スマートフォンの端末購入補助の適正化に関するガイドライン」の適用を始めてから1年。携帯電話大手3社が行政指導や行政処分を受け、キャッシュバックはさすがに終息すると見られた。だが、年間最大の商戦期となる2017年3月には一部で復活した。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>自動運転時代、主役交代の足音（激変！クルマ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/042500001/</link>
+			<description><![CDATA[　AI（人工知能）、デジタル地図、音声認識、センサー――。様々な技術が急速に進化し、自動運転の実用化はもう目前まできている。モータリゼーション、すなわち自家用乗用車の普及は、世界の人々の生活を一変させた。それと同時に、自動車産業は巨大化。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IoT設計は「現実」と「理想」の二兎を追え（ゼロから挑戦！IoT開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/042700004/</link>
+			<description><![CDATA[　IoTのアーキテクチャーは、現状の製品やサービスの設計図としての役割だけでなく、将来に渡る未来予想図としての役割がある。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>車が財布になる！？韓国で「コネクティドカーコマース」登場間近（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/042600145/</link>
+			<description><![CDATA[　韓国のキャリアであるLGU＋とクレジットカード会社の信韓カード、ガソリンスタンドのGSカルテックス、スタートアップのOWiNの4社はこのほど、「コネクティドカーコマースアライアンス」を結成し、下半期からソウル市江南地区でサービスを開始すると発表した。4月20日にはソウル市内でセミナーを開催。コネクティドカーコマースの動向や具体的なサービス内容について説明した。
+
+]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「右脳」を使えないエンジニアは淘汰される！？（デザイン思考）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400165/042400001/</link>
+			<description><![CDATA[　これまで使われてきたロジカルシンキングやシステム思考は、論理やデジタル的に物事を捉える左脳型のアプローチ。これに対して本特集のテーマである「デザイン思考（Design Thinking）」は、感性やアナログ的に物事を捉える右脳型のアプローチだ。今、ITエンジニアにはロジカルシンキングやシステム思考に加えて、右脳型のデザイン思考が求められている。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>仕事の帰りが遅くなるのは「にんべん」がないからだ（午後6時に帰ろう！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041800147/041800001/</link>
+			<description><![CDATA[　我々が「仕事」と呼ぶ活動には、実は二つの要素が含まれている。「働き」と「動き」だ。字面は人偏が付くか付かないかだけだが、両者は大違い。午後6時に帰れるかどうかを左右する重要なポイントだ。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソフトバンク孫氏が記者にこっそり明かした、スプリントの投資成果（孫正義の有言実行、米スプリント復活の軌跡）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042100157/042400001/</link>
+			<description><![CDATA[　ソフトバンクグループの米携帯子会社スプリントの経営状況が急回復してきた。スプリントが3日に発表した2016年度（2017年3月期）決算の通期営業利益（米国会計基準）は黒字幅が増加。通信網を改善した結果、通信回線のデータ通信速度が向上して回線契約数が伸びた。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>デジタルマーケティング戦略策定の前にやっておくべき肝心なこと（経営者に読ませる「B2Bマーケティング攻略ガイド」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400162/042400001/</link>
+			<description><![CDATA[　もはや「B2Bマーケティングの重要性」を問う段階ではない――。筆者はそう考えている。にもかかわらず、「なぜ今、B2Bマーケティングが必要なのか？」という記事が雑誌やWebポータルで踊っている。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>3度の産休は良い充電期間に、自由な働き方を実践（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/041100005/</link>
+			<description><![CDATA[　日本オラクルのサービスクラウドソリューション部部長を務める平井輝恵氏。仕事と育児のバランスをどう取っているのだろうか。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
