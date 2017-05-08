@@ -5,24 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>J-LIS、マイナンバーカード発行システムのバージョンアップで不具合（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042801327/</link>
-			<description><![CDATA[　地方公共団体情報システム機構（J-LIS）は2017年4月28日、自治体がマイナンバーカードの交付に使うシステムのソフトウエアをバージョンアップした端末で不具合が発生したと明らかにした。ログを解析しながら原因を分析中で、早期に改修する予定という。]]></description>
-			<pubDate>Fri, 28 Apr 2017 20:15:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>JALとANAが「ITで増収」の姿勢鮮明に、新中計で（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042801328/</link>
-			<description><![CDATA[　日本航空（JAL）は2017年4月28日、2020年度を目標年度とする中期経営計画を発表した。ANAホールディングス（ANAHD）も同日、2016～20年度の予定で進行中の中期経営計画の改訂版を発表した。両社とも、ITを活用して新たな事業領域の開拓を進め増収につなげる姿勢を示している。]]></description>
-			<pubDate>Fri, 28 Apr 2017 21:20:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>米レッドハット、コンテナ基盤構築ソフト「OpenShift Container」の最新版（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042801319/</link>
-			<description><![CDATA[　米レッドハットは2017年4月13日、企業向けのコンテナ基盤構築ソフト「Red Hat OpenShift Container Platform」の最新版「3.5」の提供を開始した。Red Hat Enterprise Linux上にDockerコンテナとコンテナ運用自動化ツールなどを追加した。]]></description>
-			<pubDate>Sat, 29 Apr 2017 08:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>井上雅博ヤフー前代表取締役社長が死去（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042901329/</link>
 			<description><![CDATA[　ヤフーは2017年4月29日、井上雅博ヤフー前代表取締役社長が4月25日（日本時間4月26日）に米カリフォルニア州で交通事故のため死去したと発表した。60歳だった。通夜や葬儀、お別れの会は未定で、決まり次第公表する。]]></description>
@@ -47,15 +29,33 @@
 			<pubDate>Sun, 07 May 2017 06:27:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>IoT設計は「現実」と「理想」の二兎を追え（ゼロから挑戦！IoT開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/042700004/</link>
+			<description><![CDATA[　IoTのアーキテクチャーは、現状の製品やサービスの設計図としての役割だけでなく、将来に渡る未来予想図としての役割がある。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>“てんこもり”のOffice 365はどんなサービス？（Office 365 5つの疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400161/042700005/</link>
+			<description><![CDATA[　多数のクラウドサービスとPCに入れて使うソフトをまとめて提供する“てんこもり”のOffice 365。すべてを把握しているIT担当者は少ないだろう。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「右脳」を使えないエンジニアは淘汰される！？（デザイン思考）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400165/042400001/</link>
+			<description><![CDATA[　これまで使われてきたロジカルシンキングやシステム思考は、論理やデジタル的に物事を捉える左脳型のアプローチ。これに対して本特集のテーマである「デザイン思考（Design Thinking）」は、感性やアナログ的に物事を捉える右脳型のアプローチだ。今、ITエンジニアにはロジカルシンキングやシステム思考に加えて、右脳型のデザイン思考が求められている。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>仕事の帰りが遅くなるのは「にんべん」がないからだ（午後6時に帰ろう！）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041800147/041800001/</link>
 			<description><![CDATA[　我々が「仕事」と呼ぶ活動には、実は二つの要素が含まれている。「働き」と「動き」だ。字面は人偏が付くか付かないかだけだが、両者は大違い。午後6時に帰れるかどうかを左右する重要なポイントだ。]]></description>
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>IoT設計は「現実」と「理想」の二兎を追え（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/042700004/</link>
-			<description><![CDATA[　IoTのアーキテクチャーは、現状の製品やサービスの設計図としての役割だけでなく、将来に渡る未来予想図としての役割がある。]]></description>
+			<title>「リスクを取らない企業は存在意義がない」、オリックス宮内義彦氏（上）（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/042700014/</link>
+			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」がサービスを開始した2015年11月。記念すべき第1回総会の基調講演にオリックスの宮内義彦氏が登壇した。日本を代表する名経営者の発言は今も色あせない。]]></description>
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -97,18 +97,6 @@
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>パソコンの快適利用は最初が肝心！サインインやアプリ起動を見直す（操作も動作も劇的に速くなる！パソコン時短術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000136/042500007/</link>
-			<description><![CDATA[　パソコンの時短を考えるとき、まず目を付けるべきなのが、「頻度の多い操作」だ。毎日行う操作ほど、時間を短縮できれば効果も大きい。まずは、Windowsやアプリケーションの起動について考えてみよう。]]></description>
-			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「リスクを取らない企業は存在意義がない」、オリックス宮内義彦氏（上）（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/042700014/</link>
-			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」がサービスを開始した2015年11月。記念すべき第1回総会の基調講演にオリックスの宮内義彦氏が登壇した。日本を代表する名経営者の発言は今も色あせない。]]></description>
-			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>デジタルマーケティング戦略策定の前にやっておくべき肝心なこと（経営者に読ませる「B2Bマーケティング攻略ガイド」）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400162/042400001/</link>
 			<description><![CDATA[　もはや「B2Bマーケティングの重要性」を問う段階ではない――。筆者はそう考えている。にもかかわらず、「なぜ今、B2Bマーケティングが必要なのか？」という記事が雑誌やWebポータルで踊っている。]]></description>
@@ -121,22 +109,10 @@
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>“てんこもり”のOffice 365はどんなサービス？（Office 365 5つの疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400161/042700005/</link>
-			<description><![CDATA[　多数のクラウドサービスとPCに入れて使うソフトをまとめて提供する“てんこもり”のOffice 365。すべてを把握しているIT担当者は少ないだろう。]]></description>
+			<title>パソコンの快適利用は最初が肝心！サインインやアプリ起動を見直す（操作も動作も劇的に速くなる！パソコン時短術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000136/042500007/</link>
+			<description><![CDATA[　パソコンの時短を考えるとき、まず目を付けるべきなのが、「頻度の多い操作」だ。毎日行う操作ほど、時間を短縮できれば効果も大きい。まずは、Windowsやアプリケーションの起動について考えてみよう。]]></description>
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「右脳」を使えないエンジニアは淘汰される！？（デザイン思考）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400165/042400001/</link>
-			<description><![CDATA[　これまで使われてきたロジカルシンキングやシステム思考は、論理やデジタル的に物事を捉える左脳型のアプローチ。これに対して本特集のテーマである「デザイン思考（Design Thinking）」は、感性やアナログ的に物事を捉える右脳型のアプローチだ。今、ITエンジニアにはロジカルシンキングやシステム思考に加えて、右脳型のデザイン思考が求められている。]]></description>
-			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>教育向けOS「Windows 10 S」発表、ストアアプリのみの動作でセキュリティ確保（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050301334/</link>
-			<description><![CDATA[　米マイクロソフトは2017年5月2日（現地時間）、主に教育機関での利用を想定した新OS「Windows 10 S」を発表した。実行可能なアプリは、Windows向けアプリの配布サイト「Windows ストア」から入手したものに限定する。]]></description>
-			<pubDate>Mon, 08 May 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>気候変動が保険会社にもたらすリスク、IoTで緩和するには（上）（気候変動が保険会社にもたらすリスク、IoTで緩和するには）</title>
@@ -167,6 +143,12 @@
 <div></div>
 </div>
 ]]></description>
+			<pubDate>Mon, 08 May 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>教育向けOS「Windows 10 S」発表、ストアアプリのみの動作でセキュリティ確保（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050301334/</link>
+			<description><![CDATA[　米マイクロソフトは2017年5月2日（現地時間）、主に教育機関での利用を想定した新OS「Windows 10 S」を発表した。実行可能なアプリは、Windows向けアプリの配布サイト「Windows ストア」から入手したものに限定する。]]></description>
 			<pubDate>Mon, 08 May 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -236,10 +218,22 @@
 			<pubDate>Mon, 08 May 2017 16:38:24 +0900</pubDate>
 		</item>
 		<item>
+			<title>コクヨ、約60時間照射可能なグリーンレーザーポインター（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050801342/</link>
+			<description><![CDATA[　コクヨは2017年5月8日、単4形アルカリ乾電池2本で約60時間照射可能なグリーンレーザーポインター「ELP-GP30」を5月24日発売すると発表した。希望小売価格（税別）は4万円。]]></description>
+			<pubDate>Mon, 08 May 2017 18:16:01 +0900</pubDate>
+		</item>
+		<item>
 			<title>NECなど3社、LPガスの配送業務をIoTとAIで効率化へ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050801343/</link>
 			<description><![CDATA[　NECと京セラコミュニケーションシステム、ミツウロコクリエイティブソリューションズは2017年5月8日、IoTとAI技術を使ってLPガス配送業務の効率化に向けたサービスを開発すると発表した。]]></description>
 			<pubDate>Mon, 08 May 2017 18:19:31 +0900</pubDate>
+		</item>
+		<item>
+			<title>動作音がしない24ポートギガビットスイッチ、アライドテレシスが発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050801344/</link>
+			<description><![CDATA[　アライドテレシスは2017年5月8日、24ポートのギガビットイーサネットスイッチ「AT-GS920/24」を5月15日から出荷開始すると発表した。ネットワークループなどを未然に防ぐ機能を搭載し、止めないネットワークを支える内部電源型エッジスイッチに向く。標準価格（税別）は8万4000円、アカデミック版は7万5600円。]]></description>
+			<pubDate>Mon, 08 May 2017 18:22:03 +0900</pubDate>
 		</item>
 		<item>
 			<title>みずほ銀行の次期システムが今夏にも完成との報道、稼働は18年度以降（ニュース）</title>
@@ -252,6 +246,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050801346/</link>
 			<description><![CDATA[　岐阜県の大垣共立銀行は2017年5月6日、大型連休を利用して新しい勘定系システムへの移行を終えた。同日中に新システムでの休日窓口業務を、5月8日には全業務を開始。現時点で「全店で無事に稼働している」（大垣共立銀行）という。]]></description>
 			<pubDate>Mon, 08 May 2017 19:45:37 +0900</pubDate>
+		</item>
+		<item>
+			<title>NECがサイバー攻撃分析にAI導入、人が処理する警告を3割減に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050801341/</link>
+			<description><![CDATA[　NECは2017年5月8日、官公庁や企業のサイバー攻撃対策を支援する同社のサービス拠点「サイバーセキュリティ・ファクトリー」に人工知能（AI）を活用した脅威分析システムを導入したと発表した。]]></description>
+			<pubDate>Mon, 08 May 2017 20:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
