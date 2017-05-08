@@ -5,54 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：関数型プログラミングは本当に難しいのか（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/article/Watcher/20121001/426555/?n09</link>
-			<description><![CDATA[　2012年9月初頭、都内で開催された「函数プログラミングの集い 2012」というイベントに参加した。関数型プログラミング言語に関するイベントなのだが、その午前中の講演を聞いて、筆者は少々面食らった。電気通信大学 准教授の中野圭介氏による講演で、いきなり「『関数型言語』を使ってはいけない」との発言が飛び出したのだ。一体、どういうことか。]]></description>
-			<pubDate>Wed, 03 Oct 2012 00:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>井上雅博ヤフー前代表取締役社長が死去（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042901329/</link>
-			<description><![CDATA[　ヤフーは2017年4月29日、井上雅博ヤフー前代表取締役社長が4月25日（日本時間4月26日）に米カリフォルニア州で交通事故のため死去したと発表した。60歳だった。通夜や葬儀、お別れの会は未定で、決まり次第公表する。]]></description>
-			<pubDate>Sat, 29 Apr 2017 15:30:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>CTCの2017年3月期は過去最高業績、中期経営計画は未達予想（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050101330/</link>
-			<description><![CDATA[　伊藤忠テクノソリューションズ（CTC）は2017年5月1日、2017年3月期（2016年4～2017年3月）の連結業績を発表した。売上高は4078億4900万円（前年同期比4.1％増）、営業利益は311億2900万円（同11.4％増）だった。売上高と営業利益の両方で過去最高業績を記録した。]]></description>
-			<pubDate>Mon, 01 May 2017 17:36:40 +0900</pubDate>
-		</item>
-		<item>
-			<title>「知っていても間違えるシンドローム」の回避法（古いシステムの捨て方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/042500007/</link>
-			<description><![CDATA[　前回は、再構築のプロジェクトにおいて、アプリの設計担当者だけではなく、プロジェクトオーナーやプロジェクトマネジャーといった、プロジェクトの他の関係者も、意識に反し、保守性の実現に対して足を引っ張ってしまう現実を紹介してきた。今回は、高い保守性のための設計の本質に迫る。まず保守性の高いアプリとはどういうものかをはっきりさせ、そのための設計の方法を紹介する。]]></description>
-			<pubDate>Tue, 02 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日販「書店体験を変えるIoT」ハッカソン優秀作、都内2書店で早くも展開（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050201333/</link>
-			<description><![CDATA[　書籍取次大手の日本出版販売（日販）は2017年ゴールデンウイークに合わせて、傘下の2書店でIoT（インターネット・オブ・シングズ）を活用した新しい販促手法の実証実験を始めた。]]></description>
-			<pubDate>Sun, 07 May 2017 06:27:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「リスクを取らない企業は存在意義がない」、オリックス宮内義彦氏（上）（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/042700014/</link>
-			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」がサービスを開始した2015年11月。記念すべき第1回総会の基調講演にオリックスの宮内義彦氏が登壇した。日本を代表する名経営者の発言は今も色あせない。]]></description>
-			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>“てんこもり”のOffice 365はどんなサービス？（Office 365 5つの疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400161/042700005/</link>
-			<description><![CDATA[　多数のクラウドサービスとPCに入れて使うソフトをまとめて提供する“てんこもり”のOffice 365。すべてを把握しているIT担当者は少ないだろう。]]></description>
-			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「右脳」を使えないエンジニアは淘汰される！？（デザイン思考）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400165/042400001/</link>
-			<description><![CDATA[　これまで使われてきたロジカルシンキングやシステム思考は、論理やデジタル的に物事を捉える左脳型のアプローチ。これに対して本特集のテーマである「デザイン思考（Design Thinking）」は、感性やアナログ的に物事を捉える右脳型のアプローチだ。今、ITエンジニアにはロジカルシンキングやシステム思考に加えて、右脳型のデザイン思考が求められている。]]></description>
-			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>仕事の帰りが遅くなるのは「にんべん」がないからだ（午後6時に帰ろう！）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041800147/041800001/</link>
 			<description><![CDATA[　我々が「仕事」と呼ぶ活動には、実は二つの要素が含まれている。「働き」と「動き」だ。字面は人偏が付くか付かないかだけだが、両者は大違い。午後6時に帰れるかどうかを左右する重要なポイントだ。]]></description>
@@ -70,6 +22,24 @@
 			<description><![CDATA[　韓国のキャリアであるLGU＋とクレジットカード会社の信韓カード、ガソリンスタンドのGSカルテックス、スタートアップのOWiNの4社はこのほど、「コネクティドカーコマースアライアンス」を結成し、下半期からソウル市江南地区でサービスを開始すると発表した。4月20日にはソウル市内でセミナーを開催。コネクティドカーコマースの動向や具体的なサービス内容について説明した。
 
 ]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「右脳」を使えないエンジニアは淘汰される！？（デザイン思考）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400165/042400001/</link>
+			<description><![CDATA[　これまで使われてきたロジカルシンキングやシステム思考は、論理やデジタル的に物事を捉える左脳型のアプローチ。これに対して本特集のテーマである「デザイン思考（Design Thinking）」は、感性やアナログ的に物事を捉える右脳型のアプローチだ。今、ITエンジニアにはロジカルシンキングやシステム思考に加えて、右脳型のデザイン思考が求められている。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>“てんこもり”のOffice 365はどんなサービス？（Office 365 5つの疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400161/042700005/</link>
+			<description><![CDATA[　多数のクラウドサービスとPCに入れて使うソフトをまとめて提供する“てんこもり”のOffice 365。すべてを把握しているIT担当者は少ないだろう。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「リスクを取らない企業は存在意義がない」、オリックス宮内義彦氏（上）（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/042700014/</link>
+			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」がサービスを開始した2015年11月。記念すべき第1回総会の基調講演にオリックスの宮内義彦氏が登壇した。日本を代表する名経営者の発言は今も色あせない。]]></description>
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -119,43 +89,6 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400162/042400001/</link>
 			<description><![CDATA[　もはや「B2Bマーケティングの重要性」を問う段階ではない――。筆者はそう考えている。にもかかわらず、「なぜ今、B2Bマーケティングが必要なのか？」という記事が雑誌やWebポータルで踊っている。]]></description>
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>気候変動が保険会社にもたらすリスク、IoTで緩和するには（上）（気候変動が保険会社にもたらすリスク、IoTで緩和するには）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/042500033/042500001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　気候変動の経済的リスクにさらされるという面で、保険会社は最前線にいる。そのリスクを緩和するうえで、IoTが重要な構成要素の1つとなりつつある。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/042500033/042500001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　米非営利団体Ceresが2016年10月に発表したレポート「Insurer Climate Risk Disclosure Survey Report &amp; Scorecard：2016 Findings & Recommendations」の前書きで、ワシントン州保険監督官のMike Kreidler氏と、カリフォルニア州保険監督官のDave Jones氏は次のように述べている。「保険会社は、過去の損失記録に基づいて査定を進め、保険料を設定する。人間が予測できない気象の頻度はますます高まっている。天候パターンが変化し、被害の深刻さと範囲が拡大していることが、前代未聞の損失をもたらす災害につながっている。ハリケーンSandy、ミズーリ州ジョプリンを襲った巨大竜巻、ワシントン州オソで発生した地すべり、西部の州で起きた記録的地すべりのような事象では、過去のデータはあてにならない。2016年だけでも、米連邦緊急事態管理庁（FEMA）に報告された大規模災害宣言は、8月末の時点で31件に上る」</p>
-
-<p>　保険会社は、これまでもずっと、データを基にして動く企業だった。データを理解し、データに基づいて判断を下すことが、保険会社の中核事業の基盤だった。しかし、気候パターンが変化する中では、過去のデータに基づく予測は信頼性が揺らぎつつある。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/042500033/042500001/?ST=cio-management&P=2">「保険会社はアルゴリズムの質で収益を上げている。...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/042500033/042500001/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/042500033/042500001/?ST=cio-management&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/042500033/042500001/?ST=cio-management&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/042500033/042500001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 08 May 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>教育向けOS「Windows 10 S」発表、ストアアプリのみの動作でセキュリティ確保（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050301334/</link>
-			<description><![CDATA[　米マイクロソフトは2017年5月2日（現地時間）、主に教育機関での利用を想定した新OS「Windows 10 S」を発表した。実行可能なアプリは、Windows向けアプリの配布サイト「Windows ストア」から入手したものに限定する。]]></description>
-			<pubDate>Mon, 08 May 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Google Docsを悪用したフィッシング攻撃が発生、すでに対処済み（ニュース）</title>
@@ -258,6 +191,126 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050801341/</link>
 			<description><![CDATA[　NECは2017年5月8日、官公庁や企業のサイバー攻撃対策を支援する同社のサービス拠点「サイバーセキュリティ・ファクトリー」に人工知能（AI）を活用した脅威分析システムを導入したと発表した。]]></description>
 			<pubDate>Mon, 08 May 2017 20:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>わかりにくいOffice 365の料金プラン、かしこい契約方法は？（Office 365 5つの疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400161/042700006/</link>
+			<description><![CDATA[　Office 365の料金プランは、機能ごとに契約できる単品プランから複数の機能をまとめて使えるセットプランなど、豊富に用意されている。半面、ユーザーはどのプランを選んだらよいのかわかりにくくなっている。かしこく契約するにはどうしたらよいか。ポイントは、中小規模企業向けの“格安”プランの活用と、Office 365の販売パートナーが提供する独自サポートの利用だ。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>タレント マネジメント（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/041300067/</link>
+			<description><![CDATA[　社員のタレント（才能・資質）を的確に把握して企業経営に生かす管理方法。一人ひとりのキャリアを見極め、適材適所の人材配置や育成を通して戦略的成長につなげる。近年はそのためのITツールも登場している。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「RSA暗号は量子コンピュータで破られない」、生みの親が日本国際賞受賞で熱弁（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042700954/</link>
+			<description><![CDATA[　RSA暗号の共同発明で知られるアディ・シャミア教授が2017年4月、日本国際賞（Japan Prize）を受賞した。受賞会見でシャミア教授はIoTのセキュリティに警鐘を鳴らし、量子コンピュータの暗号解読能力にも言及した。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>eSIM（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/042700069/</link>
+			<description><![CDATA[　端末からの操作によって携帯回線の加入者情報（プロファイル）をネットワーク経由で書き込めるSIMカード、およびその仕組みのこと。遠隔で複数回線をまとめて管理でき、法人で端末を一括導入する場合などに便利。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IoT自販機2万台を全国展開、キリンとLINEに狙いを聞いた（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/050500959/</link>
+			<description><![CDATA[　キリンビバレッジバリューベンダー（KBV）とLINEは2017年4月から、IoT（インターネット・オブ・シングズ）機能を備えた新型自販機「Tappiness（タピネス）」の展開を始めた。1年後には全国で2万台まで増やす計画だ。両社の狙いは何か。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>失墜した米ベンチャー、セラノスが見せる驚きのしぶとさ（瀧口範子のシリコンバレー通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/050200099/</link>
+			<description><![CDATA[　しばらく忘れていた名前が、また最近世間を騒がせている。指先から採取した数滴の血液で検査ができるとうたった技術がイカサマであると判明し、評判が地に落ちた米セラノス（Theranos）だ。いまだに生き残っているしぶとさが驚きを集めている。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>終わらぬ要件定義、「カタログ」で決まる（岡大勝のプロジェクトお悩み相談室）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900109/042500002/</link>
+			<description><![CDATA[　システム開発の最難関工程と言われる要件定義は最近、さらに難しくなっているようです。デバイスやUI表現の多様化、次々と現れる新技術などの影響で、ユーザーの欲しいものが変化し続けるようになっているからです。こうした環境を踏まえ、最近はよく「カタログを使った要件定義」をおすすめしています。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>先生じゃなければ奴隷、客に代わり要件を定義するSIerの愚（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/050200137/</link>
+			<description><![CDATA[　IT部門が満足に要件定義もできなくなった。だからSIerが代わりに要件定義を行う。IT部門の劣化・素人化が進んだこともあり、SIerの技術者が要件定義を行うのは、今ではごく普通の話。だが、これは二重の意味で大きな間違いである。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>第4回　若いSEは「これ」をやれば誰でもITに強くなれる（三流SEにならないための20代SEへのエール）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/062100132/050100004/</link>
+			<description><![CDATA[　若いSEは仕事をしていると、誰しも「この製品の○○機能の使い方がよく分からない」「こうコーデイングしたが、うまくいかない」「パラメーターをこう設定したがうまく動かない」など、いろんな問題にぶつかる。時には上司や先輩SEに叱られることもある。そして誰しも「ITにもっと詳しくなりたい」と思う。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「あの人と頑張りたいと思ってもらえるか」、オリックス宮内義彦氏（中）（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/042700015/</link>
+			<description><![CDATA[　強い会社の変革者が集まり、本気で議論する「日経ITイノベーターズ」の第1回総会（2015年11月25日開催）でオリックスの宮内義彦氏が登壇。事業変革のリスクをいかにして取るかについて語った。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>すばやいファイル操作のポイントは「エクスプローラー」にあり（操作も動作も劇的に速くなる！パソコン時短術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000136/042300003/</link>
+			<description><![CDATA[　今回はまず、ファイルを素早く開くためのテクニックを紹介する。どれが一番ということではなく、ファイルの使用頻度などに応じた方法を選ぶことが大切だ。エクスプローラーの操作を楽にするテクニックも紹介する。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>保守局面でも保守性は劣化し続ける（古いシステムの捨て方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/042700008/</link>
+			<description><![CDATA[　本連載の後半から、再構築プロジェクトにおいて「保守性の向上」が実現されない理由と、それを実現するための技法を紹介してきた。最終回として、保守局面に入ってからの変更の繰り返しによる保守性の劣化を防ぎ、保守性を維持し、さらに向上させるための方法を紹介する。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>利用部門を思い通り動かすには、トランプ大統領の手口で（10人のIT部門が消滅～ひとり情シス顛末記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/042800017/</link>
+			<description><![CDATA[　10人いたIT部門が消滅し、たったひとり残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。この実話の当事者である著者が、読者から質問に答える。今回は、どうしたら利用部門に協力してもらえるか。著者の答えは“トランプ流”だ。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>残業チェックばかりではダメ！経営者がやるべき本当の「働き方改革」（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/042700829/</link>
+			<description><![CDATA[　残業を制限する、テレワークの環境を整備するといった「働き方改革」が盛んになっている。だが、現場の社員に行動を促す施策ばかりなのが気になる。こうした制度や仕組みの整備も結構だが、マネジメント層が働き方改革促進のためにやるべきことは他にあるのではないか。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソニーモバイルの仮想タッチスクリーン端末「Xperia Touch」の魅力と課題（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/042500104/</link>
+			<description><![CDATA[　ソニーモバイルコミュニケーションズが2017年4月20日に発表したスマートプロダクトの第2弾「Xperia Touch」。プロジェクターで投影した映像を直接タッチして操作できるという特徴的な機能を持つ。家族のコミュニケーションの在り方を変える狙いがあるようだが、課題はないのだろうか。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「プロジェクト成功で新聞一面を飾る」を想像せよ（デザイン思考）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400165/042400002/</link>
+			<description><![CDATA[　国内企業において新サービスの検討が行われる際、不思議なくらい自社のミッションや、大切にしている価値観についての議論が行われることが少ない。筆者らはこのことに問題意識があり、デザイン思考に独自のフェーズとして追加した。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>老舗自動車メーカーと新興IT企業、自動運転の実現に向け急接近（激変！クルマ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/042500002/</link>
+			<description><![CDATA[　自動車メーカーとIT企業の合従連衡が世界で激しい。自動車メーカーが、自動運転技術の開発を単独で手掛けることが難しくなっているからだ。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>長時間労働を生む“四重奏”を知っていますか？（午後6時に帰ろう！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041800147/041800002/</link>
+			<description><![CDATA[　IT部門やIT企業の職場でムダな「動き」を増やす原因は主に四つある。（1）目的が曖昧、（2）マルチタスク、（3）突発業務、（4）孤立状態だ。いわば、長時間労働を生む“四重奏”である。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソフトバンク孫氏の懐刀が米本社で怒りのちゃぶ台返し（孫正義の有言実行、米スプリント復活の軌跡）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042100157/042400002/</link>
+			<description><![CDATA[　ソフトバンクグループの孫正義社長は米携帯電話子会社スプリントの再建に向け、自ら同社のチーフネットワークオフィサー（CNO）に就いて通信網の品質改善に努めた。夜10時から深夜まで毎日のように電話会議を開き、技術陣たちと「バカヤロー」などと怒鳴りあいながら本音で議論を重ねた。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>カシオのPRO TREK Smartは着実に進化していた（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/042300115/</link>
+			<description><![CDATA[　ここ3～4年ほどスマートウオッチの動向をチェックしている。利用者は、着実に増えていると思う。とはいえ、それはほぼApple Watchに限ったことだ。Apple Watchは数え切れないほど見かけるが、Apple Watch以外のスマートウオッチを取材以外の場所で目撃したことは、2度しかない。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
