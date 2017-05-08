@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Apple、iPhoneで個人間送金できる独自サービス（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042801316/</link>
-			<description><![CDATA[　米Appleが米Venmoのような個人間送金サービスの計画を進めているらしいと、米Re/codeが現地時間2017年4月27日に報じた。Appleが、独自の個人間送金サービス導入に向けて決済業界の数社と話し合ったという。]]></description>
-			<pubDate>Fri, 28 Apr 2017 12:26:16 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソフトバンクと米ベンチャー企業が提携、AIを使った自動応答サービスを提供（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042801317/</link>
-			<description><![CDATA[　ソフトバンクは、企業のSNSを通じた顧客サポート業務やマーケティング活動を支援する新サービスの提供に向け、米ベンチャーのQnary（カーナリー）の日本法人と業務提携した。2017年5月からサービス提供を日米で順次開始する。]]></description>
-			<pubDate>Fri, 28 Apr 2017 12:53:29 +0900</pubDate>
-		</item>
-		<item>
 			<title>ユーザー企業が最も重視する技術はIoT――JUASが「企業IT動向調査」結果発表（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042801318/</link>
 			<description><![CDATA[　日本情報システム・ユーザー協会（JUAS）は2017年4月28日、「企業IT動向調査2017」の結果を発表した。IoT（インターネット・オブ・シングズ）やビッグデータなどビジネスのデジタル化を進めるための新規技術を重視する傾向が鮮明になった。]]></description>
@@ -107,6 +95,18 @@
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>仕事の帰りが遅くなるのは「にんべん」がないからだ（午後6時に帰ろう！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041800147/041800001/</link>
+			<description><![CDATA[　我々が「仕事」と呼ぶ活動には、実は二つの要素が含まれている。「働き」と「動き」だ。字面は人偏が付くか付かないかだけだが、両者は大違い。午後6時に帰れるかどうかを左右する重要なポイントだ。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>3度の産休は良い充電期間に、自由な働き方を実践（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/041100005/</link>
+			<description><![CDATA[　日本オラクルのサービスクラウドソリューション部部長を務める平井輝恵氏。仕事と育児のバランスをどう取っているのだろうか。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>デジタルマーケティング戦略策定の前にやっておくべき肝心なこと（経営者に読ませる「B2Bマーケティング攻略ガイド」）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400162/042400001/</link>
 			<description><![CDATA[　もはや「B2Bマーケティングの重要性」を問う段階ではない――。筆者はそう考えている。にもかかわらず、「なぜ今、B2Bマーケティングが必要なのか？」という記事が雑誌やWebポータルで踊っている。]]></description>
@@ -137,9 +137,9 @@
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ソフトバンク孫氏が記者にこっそり明かした、スプリントの投資成果（孫正義の有言実行、米スプリント復活の軌跡）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042100157/042400001/</link>
-			<description><![CDATA[　ソフトバンクグループの米携帯子会社スプリントの経営状況が急回復してきた。スプリントが3日に発表した2016年度（2017年3月期）決算の通期営業利益（米国会計基準）は黒字幅が増加。通信網を改善した結果、通信回線のデータ通信速度が向上して回線契約数が伸びた。]]></description>
+			<title>「右脳」を使えないエンジニアは淘汰される！？（デザイン思考）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400165/042400001/</link>
+			<description><![CDATA[　これまで使われてきたロジカルシンキングやシステム思考は、論理やデジタル的に物事を捉える左脳型のアプローチ。これに対して本特集のテーマである「デザイン思考（Design Thinking）」は、感性やアナログ的に物事を捉える右脳型のアプローチだ。今、ITエンジニアにはロジカルシンキングやシステム思考に加えて、右脳型のデザイン思考が求められている。]]></description>
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -169,21 +169,9 @@
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「右脳」を使えないエンジニアは淘汰される！？（デザイン思考）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400165/042400001/</link>
-			<description><![CDATA[　これまで使われてきたロジカルシンキングやシステム思考は、論理やデジタル的に物事を捉える左脳型のアプローチ。これに対して本特集のテーマである「デザイン思考（Design Thinking）」は、感性やアナログ的に物事を捉える右脳型のアプローチだ。今、ITエンジニアにはロジカルシンキングやシステム思考に加えて、右脳型のデザイン思考が求められている。]]></description>
-			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>仕事の帰りが遅くなるのは「にんべん」がないからだ（午後6時に帰ろう！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041800147/041800001/</link>
-			<description><![CDATA[　我々が「仕事」と呼ぶ活動には、実は二つの要素が含まれている。「働き」と「動き」だ。字面は人偏が付くか付かないかだけだが、両者は大違い。午後6時に帰れるかどうかを左右する重要なポイントだ。]]></description>
-			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>3度の産休は良い充電期間に、自由な働き方を実践（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/041100005/</link>
-			<description><![CDATA[　日本オラクルのサービスクラウドソリューション部部長を務める平井輝恵氏。仕事と育児のバランスをどう取っているのだろうか。]]></description>
+			<title>ソフトバンク孫氏が記者にこっそり明かした、スプリントの投資成果（孫正義の有言実行、米スプリント復活の軌跡）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042100157/042400001/</link>
+			<description><![CDATA[　ソフトバンクグループの米携帯子会社スプリントの経営状況が急回復してきた。スプリントが3日に発表した2016年度（2017年3月期）決算の通期営業利益（米国会計基準）は黒字幅が増加。通信網を改善した結果、通信回線のデータ通信速度が向上して回線契約数が伸びた。]]></description>
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -222,6 +210,18 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 08 May 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google Docsを悪用したフィッシング攻撃が発生、すでに対処済み（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050801335/</link>
+			<description><![CDATA[　米Googleは現地時間2017年5月5日、「Google Docs」の共有機能を悪用したフィッシング攻撃を確認したと発表した。連絡先情報が不正にアクセスされる危険性があるという。]]></description>
+			<pubDate>Mon, 08 May 2017 09:50:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>タブレット世界出荷台数、17年Q1は8.5％減、10四半期連続で前年割れ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050801336/</link>
+			<description><![CDATA[　米IDCが現地時間2017年5月4日までにまとめたタブレット端末市場のリポートによると、2017年第1四半期（1～3月月）の世界出荷台数（速報値、以下同様）は3620万台にとどまり、前年同期から8.5％減少した。タブレット端末の世界出荷台数は10四半期連続で前年割れとなった。]]></description>
+			<pubDate>Mon, 08 May 2017 10:20:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
