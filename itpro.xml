@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>泥沼化する“証明書抗争”の幕引きなるか、シマンテックがグーグルに逆提案（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042801325/</link>
-			<description><![CDATA[　米シマンテックは2017年4月26日（米国時間）、同社が発行するサーバー証明書（TLS/SSL証明書）の監査などを強化し、安全性や透明性を高めると公式ブログで明らかにした。米グーグルがシマンテック発行のサーバー証明書への信頼度を下げるとした提案を受けての対応だ。]]></description>
-			<pubDate>Fri, 28 Apr 2017 19:00:22 +0900</pubDate>
-		</item>
-		<item>
 			<title>無線LANの「ただ乗り」はやはり罪に問えない？有識者に聞く（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042800957/</link>
 			<description><![CDATA[　大手新聞社や通信社は2017年4月27日、無線LANの「ただ乗り」が無罪で電波法違反に当たらないとする判決が東京地裁で言い渡されたと一斉に報じた。報道によると、被告は身元を隠すため、他人の無線LANの暗号鍵を解読して利用。フィッシングの手口などでIDとパスワードを不正に入手し、金融機関サイトにアクセスして自分の口座に送金していたという。]]></description>
@@ -65,17 +59,23 @@
 			<pubDate>Sun, 07 May 2017 06:27:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>車が財布になる！？韓国で「コネクティドカーコマース」登場間近（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/042600145/</link>
+			<description><![CDATA[　韓国のキャリアであるLGU＋とクレジットカード会社の信韓カード、ガソリンスタンドのGSカルテックス、スタートアップのOWiNの4社はこのほど、「コネクティドカーコマースアライアンス」を結成し、下半期からソウル市江南地区でサービスを開始すると発表した。4月20日にはソウル市内でセミナーを開催。コネクティドカーコマースの動向や具体的なサービス内容について説明した。
+
+]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>仕事の帰りが遅くなるのは「にんべん」がないからだ（午後6時に帰ろう！）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041800147/041800001/</link>
 			<description><![CDATA[　我々が「仕事」と呼ぶ活動には、実は二つの要素が含まれている。「働き」と「動き」だ。字面は人偏が付くか付かないかだけだが、両者は大違い。午後6時に帰れるかどうかを左右する重要なポイントだ。]]></description>
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>車が財布になる！？韓国で「コネクティドカーコマース」登場間近（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/042600145/</link>
-			<description><![CDATA[　韓国のキャリアであるLGU＋とクレジットカード会社の信韓カード、ガソリンスタンドのGSカルテックス、スタートアップのOWiNの4社はこのほど、「コネクティドカーコマースアライアンス」を結成し、下半期からソウル市江南地区でサービスを開始すると発表した。4月20日にはソウル市内でセミナーを開催。コネクティドカーコマースの動向や具体的なサービス内容について説明した。
-
-]]></description>
+			<title>自動運転時代、主役交代の足音（激変！クルマ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/042500001/</link>
+			<description><![CDATA[　AI（人工知能）、デジタル地図、音声認識、センサー――。様々な技術が急速に進化し、自動運転の実用化はもう目前まできている。モータリゼーション、すなわち自家用乗用車の普及は、世界の人々の生活を一変させた。それと同時に、自動車産業は巨大化。]]></description>
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -97,15 +97,15 @@
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>IoT設計は「現実」と「理想」の二兎を追え（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/042700004/</link>
-			<description><![CDATA[　IoTのアーキテクチャーは、現状の製品やサービスの設計図としての役割だけでなく、将来に渡る未来予想図としての役割がある。]]></description>
+			<title>「右脳」を使えないエンジニアは淘汰される！？（デザイン思考）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400165/042400001/</link>
+			<description><![CDATA[　これまで使われてきたロジカルシンキングやシステム思考は、論理やデジタル的に物事を捉える左脳型のアプローチ。これに対して本特集のテーマである「デザイン思考（Design Thinking）」は、感性やアナログ的に物事を捉える右脳型のアプローチだ。今、ITエンジニアにはロジカルシンキングやシステム思考に加えて、右脳型のデザイン思考が求められている。]]></description>
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>自動運転時代、主役交代の足音（激変！クルマ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/042500001/</link>
-			<description><![CDATA[　AI（人工知能）、デジタル地図、音声認識、センサー――。様々な技術が急速に進化し、自動運転の実用化はもう目前まできている。モータリゼーション、すなわち自家用乗用車の普及は、世界の人々の生活を一変させた。それと同時に、自動車産業は巨大化。]]></description>
+			<title>コアな仕事は何か？ 情シスの定常業務（永井昭弘のそれって丸投げ？ユーザー責任を斬る）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090600196/042500011/</link>
+			<description><![CDATA[　情報システム部門にとっての「定常業務」をざっと分類すると、「1.システムの運用・保守・維持管理」「2.IT資産管理」「3.ヘルプデスク」「4.次のシステム案件の企画・調査」「5.エンドユーザーのリテラシー教育」がある。これらのうち、コアにすべき仕事は何だろうか？]]></description>
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -139,22 +139,10 @@
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「右脳」を使えないエンジニアは淘汰される！？（デザイン思考）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400165/042400001/</link>
-			<description><![CDATA[　これまで使われてきたロジカルシンキングやシステム思考は、論理やデジタル的に物事を捉える左脳型のアプローチ。これに対して本特集のテーマである「デザイン思考（Design Thinking）」は、感性やアナログ的に物事を捉える右脳型のアプローチだ。今、ITエンジニアにはロジカルシンキングやシステム思考に加えて、右脳型のデザイン思考が求められている。]]></description>
+			<title>IoT設計は「現実」と「理想」の二兎を追え（ゼロから挑戦！IoT開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/042700004/</link>
+			<description><![CDATA[　IoTのアーキテクチャーは、現状の製品やサービスの設計図としての役割だけでなく、将来に渡る未来予想図としての役割がある。]]></description>
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>コアな仕事は何か？ 情シスの定常業務（永井昭弘のそれって丸投げ？ユーザー責任を斬る）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090600196/042500011/</link>
-			<description><![CDATA[　情報システム部門にとっての「定常業務」をざっと分類すると、「1.システムの運用・保守・維持管理」「2.IT資産管理」「3.ヘルプデスク」「4.次のシステム案件の企画・調査」「5.エンドユーザーのリテラシー教育」がある。これらのうち、コアにすべき仕事は何だろうか？]]></description>
-			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>教育向けOS「Windows 10 S」発表、ストアアプリのみの動作でセキュリティ確保（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050301334/</link>
-			<description><![CDATA[　米マイクロソフトは2017年5月2日（現地時間）、主に教育機関での利用を想定した新OS「Windows 10 S」を発表した。実行可能なアプリは、Windows向けアプリの配布サイト「Windows ストア」から入手したものに限定する。]]></description>
-			<pubDate>Mon, 08 May 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>気候変動が保険会社にもたらすリスク、IoTで緩和するには（上）（気候変動が保険会社にもたらすリスク、IoTで緩和するには）</title>
@@ -185,6 +173,12 @@
 <div></div>
 </div>
 ]]></description>
+			<pubDate>Mon, 08 May 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>教育向けOS「Windows 10 S」発表、ストアアプリのみの動作でセキュリティ確保（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050301334/</link>
+			<description><![CDATA[　米マイクロソフトは2017年5月2日（現地時間）、主に教育機関での利用を想定した新OS「Windows 10 S」を発表した。実行可能なアプリは、Windows向けアプリの配布サイト「Windows ストア」から入手したものに限定する。]]></description>
 			<pubDate>Mon, 08 May 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -252,6 +246,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050801340/</link>
 			<description><![CDATA[　デジタルアーツは2017年5月8日、ゲートウエイ型で動作するセキュリティーソフト2製品について、標的型攻撃対策機能を追加した新バージョンを発表した。メールセキュリティーソフト「m-FILTER」の新版（Ver.5）と、Webセキュリティーソフト「i-FILTER」の新版（Ver.10）である。]]></description>
 			<pubDate>Mon, 08 May 2017 16:38:24 +0900</pubDate>
+		</item>
+		<item>
+			<title>みずほ銀行の次期システムが今夏にも完成との報道、稼働は18年度以降（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050801345/</link>
+			<description><![CDATA[　2017年5月2日、みずほ銀行の次期勘定系システムが今夏にも完成する見通しと一部メディアが報じた。同行は2016年11月に、同年末としていた開発完了時期を数カ月延期すると公表していた。]]></description>
+			<pubDate>Mon, 08 May 2017 18:41:10 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
