@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>ユーザー企業が最も重視する技術はIoT――JUASが「企業IT動向調査」結果発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042801318/</link>
-			<description><![CDATA[　日本情報システム・ユーザー協会（JUAS）は2017年4月28日、「企業IT動向調査2017」の結果を発表した。IoT（インターネット・オブ・シングズ）やビッグデータなどビジネスのデジタル化を進めるための新規技術を重視する傾向が鮮明になった。]]></description>
-			<pubDate>Fri, 28 Apr 2017 16:56:48 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソリトン、Office365やSalesforceを1画面で連携するクラウドサービス「ClearDeck」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042801320/</link>
-			<description><![CDATA[　ソリトンシステムズは2017年4月28日、クラウドサービス「ClearDeck」を同年5月から販売すると発表した。「Office365」や「Salesforce」「Box」といったクラウドサービスの機能を統合・連携して、一つのアプリケーションとして使えることが特徴。]]></description>
-			<pubDate>Fri, 28 Apr 2017 18:16:44 +0900</pubDate>
-		</item>
-		<item>
 			<title>富士通の2017年3月期決算は減収増益、構造改革は「投資先行期間を抜けた」（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/042801321/</link>
 			<description><![CDATA[　富士通は2017年4月28日、2017年3月期通期（2016年4月～2017年3月）の連結決算を発表した。売上高は4兆5096億円（前年同期比4.8％減）、営業利益は1288億円（同6.8％増）と減収増益だった。2017年3月期はビジネスモデル変革費用として447億円を投資した。]]></description>
@@ -77,6 +65,12 @@
 			<pubDate>Sat, 29 Apr 2017 15:30:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>CTCの2017年3月期は過去最高業績、中期経営計画は未達予想（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050101330/</link>
+			<description><![CDATA[　伊藤忠テクノソリューションズ（CTC）は2017年5月1日、2017年3月期（2016年4～2017年3月）の連結業績を発表した。売上高は4078億4900万円（前年同期比4.1％増）、営業利益は311億2900万円（同11.4％増）だった。売上高と営業利益の両方で過去最高業績を記録した。]]></description>
+			<pubDate>Mon, 01 May 2017 17:36:40 +0900</pubDate>
+		</item>
+		<item>
 			<title>「知っていても間違えるシンドローム」の回避法（古いシステムの捨て方）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/031300081/042500007/</link>
 			<description><![CDATA[　前回は、再構築のプロジェクトにおいて、アプリの設計担当者だけではなく、プロジェクトオーナーやプロジェクトマネジャーといった、プロジェクトの他の関係者も、意識に反し、保守性の実現に対して足を引っ張ってしまう現実を紹介してきた。今回は、高い保守性のための設計の本質に迫る。まず保守性の高いアプリとはどういうものかをはっきりさせ、そのための設計の方法を紹介する。]]></description>
@@ -89,21 +83,29 @@
 			<pubDate>Sun, 07 May 2017 06:27:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>3度の産休は良い充電期間に、自由な働き方を実践（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/041100005/</link>
+			<description><![CDATA[　日本オラクルのサービスクラウドソリューション部部長を務める平井輝恵氏。仕事と育児のバランスをどう取っているのだろうか。]]></description>
+			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>コアな仕事は何か？ 情シスの定常業務（永井昭弘のそれって丸投げ？ユーザー責任を斬る）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090600196/042500011/</link>
 			<description><![CDATA[　情報システム部門にとっての「定常業務」をざっと分類すると、「1.システムの運用・保守・維持管理」「2.IT資産管理」「3.ヘルプデスク」「4.次のシステム案件の企画・調査」「5.エンドユーザーのリテラシー教育」がある。これらのうち、コアにすべき仕事は何だろうか？]]></description>
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>仕事の帰りが遅くなるのは「にんべん」がないからだ（午後6時に帰ろう！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041800147/041800001/</link>
-			<description><![CDATA[　我々が「仕事」と呼ぶ活動には、実は二つの要素が含まれている。「働き」と「動き」だ。字面は人偏が付くか付かないかだけだが、両者は大違い。午後6時に帰れるかどうかを左右する重要なポイントだ。]]></description>
+			<title>車が財布になる！？韓国で「コネクティドカーコマース」登場間近（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/042600145/</link>
+			<description><![CDATA[　韓国のキャリアであるLGU＋とクレジットカード会社の信韓カード、ガソリンスタンドのGSカルテックス、スタートアップのOWiNの4社はこのほど、「コネクティドカーコマースアライアンス」を結成し、下半期からソウル市江南地区でサービスを開始すると発表した。4月20日にはソウル市内でセミナーを開催。コネクティドカーコマースの動向や具体的なサービス内容について説明した。
+
+]]></description>
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>3度の産休は良い充電期間に、自由な働き方を実践（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/041100005/</link>
-			<description><![CDATA[　日本オラクルのサービスクラウドソリューション部部長を務める平井輝恵氏。仕事と育児のバランスをどう取っているのだろうか。]]></description>
+			<title>ソフトバンク孫氏が記者にこっそり明かした、スプリントの投資成果（孫正義の有言実行、米スプリント復活の軌跡）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042100157/042400001/</link>
+			<description><![CDATA[　ソフトバンクグループの米携帯子会社スプリントの経営状況が急回復してきた。スプリントが3日に発表した2016年度（2017年3月期）決算の通期営業利益（米国会計基準）は黒字幅が増加。通信網を改善した結果、通信回線のデータ通信速度が向上して回線契約数が伸びた。]]></description>
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -161,24 +163,10 @@
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>車が財布になる！？韓国で「コネクティドカーコマース」登場間近（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/042600145/</link>
-			<description><![CDATA[　韓国のキャリアであるLGU＋とクレジットカード会社の信韓カード、ガソリンスタンドのGSカルテックス、スタートアップのOWiNの4社はこのほど、「コネクティドカーコマースアライアンス」を結成し、下半期からソウル市江南地区でサービスを開始すると発表した。4月20日にはソウル市内でセミナーを開催。コネクティドカーコマースの動向や具体的なサービス内容について説明した。
-
-]]></description>
+			<title>仕事の帰りが遅くなるのは「にんべん」がないからだ（午後6時に帰ろう！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041800147/041800001/</link>
+			<description><![CDATA[　我々が「仕事」と呼ぶ活動には、実は二つの要素が含まれている。「働き」と「動き」だ。字面は人偏が付くか付かないかだけだが、両者は大違い。午後6時に帰れるかどうかを左右する重要なポイントだ。]]></description>
 			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソフトバンク孫氏が記者にこっそり明かした、スプリントの投資成果（孫正義の有言実行、米スプリント復活の軌跡）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042100157/042400001/</link>
-			<description><![CDATA[　ソフトバンクグループの米携帯子会社スプリントの経営状況が急回復してきた。スプリントが3日に発表した2016年度（2017年3月期）決算の通期営業利益（米国会計基準）は黒字幅が増加。通信網を改善した結果、通信回線のデータ通信速度が向上して回線契約数が伸びた。]]></description>
-			<pubDate>Mon, 08 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>教育向けOS「Windows 10 S」発表、ストアアプリのみの動作でセキュリティ確保（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050301334/</link>
-			<description><![CDATA[　米マイクロソフトは2017年5月2日（現地時間）、主に教育機関での利用を想定した新OS「Windows 10 S」を発表した。実行可能なアプリは、Windows向けアプリの配布サイト「Windows ストア」から入手したものに限定する。]]></description>
-			<pubDate>Mon, 08 May 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>気候変動が保険会社にもたらすリスク、IoTで緩和するには（上）（気候変動が保険会社にもたらすリスク、IoTで緩和するには）</title>
@@ -212,6 +200,12 @@
 			<pubDate>Mon, 08 May 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>教育向けOS「Windows 10 S」発表、ストアアプリのみの動作でセキュリティ確保（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050301334/</link>
+			<description><![CDATA[　米マイクロソフトは2017年5月2日（現地時間）、主に教育機関での利用を想定した新OS「Windows 10 S」を発表した。実行可能なアプリは、Windows向けアプリの配布サイト「Windows ストア」から入手したものに限定する。]]></description>
+			<pubDate>Mon, 08 May 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>Google Docsを悪用したフィッシング攻撃が発生、すでに対処済み（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050801335/</link>
 			<description><![CDATA[　米Googleは現地時間2017年5月5日、「Google Docs」の共有機能を悪用したフィッシング攻撃を確認したと発表した。連絡先情報が不正にアクセスされる危険性があるという。]]></description>
@@ -222,6 +216,42 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050801336/</link>
 			<description><![CDATA[　米IDCが現地時間2017年5月4日までにまとめたタブレット端末市場のリポートによると、2017年第1四半期（1～3月月）の世界出荷台数（速報値、以下同様）は3620万台にとどまり、前年同期から8.5％減少した。タブレット端末の世界出荷台数は10四半期連続で前年割れとなった。]]></description>
 			<pubDate>Mon, 08 May 2017 10:20:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>FCC委員長、ネット中立性の規則撤回を目指す提案を発表（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/050800364/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米連邦通信委員会（FCC）のAjit Pai委員長は、2015年にFCCが定めたインターネット中立性の規則に関して、その根幹部分の撤回を目指す提案を現地時間2017年4月26日に発表した。その中には、規則の基本的な項目の維持／修正／撤廃に対するパブリックコメントを求めるとの内容も含まれている。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/050800364/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: IDG News Service</div>
+</div>
+<p>
+　FCCは、2015年に導入した規則で、ブロードバンド接続事業者を電気通信法（Telecommunications Act）の「Title II」に分類。幅広い規制が適用される通信サービスの一種と規定し、特定のWebコンテンツやサービスに対するアクセスを接続事業者が個別に遮断したり減速したりする行為を禁じた。今回のPai委員長の提案は、この規則を撤回することを目指したものだ。一方で、4月27日にFCCが公表した<a href="https://apps.fcc.gov/edocs_public/attachmatch/DOC-344614A1.pdf" target="_blank">提案の文言</a>には、一部の項目について、継続を検討する用意があることを示唆する内容も含まれている。
+</p>
+<p>
+　しかしながら、こうした規則を維持することに対して、共和党政権下のFCCがどの程度真剣なのかは定かでない。今回の提案では、民主党政権下のFCCが2015年に導入したネット中立性の規則について、「消費者に与える損害に関して数値化可能な証拠が実質的に存在しないにもかかわらず」規則を定めたとの文言がある。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/050800364/?ST=cm-cloud&P=2">4月27日の記者会見で、FCCの当局者は、今回の提案について、自...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/050800364/?ST=cm-cloud&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/050800364/?ST=cm-cloud&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/050800364/?ST=cm-cloud&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/050800364/?ST=cm-cloud&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 08 May 2017 10:50:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
