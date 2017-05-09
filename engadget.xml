@@ -5,37 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    インプレ：ソニー、LDAC対応ノイキャンBluetoothヘッドフォン MDR-1000X。つけたまま操作し環境音も聞ける
-</title>
-			<link>http://japanese.engadget.com/2017/05/04/sony-mdr-1000x/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/7f8962427ba57dcc3e9b4235d1ce1fdd/205212758/IMG_2517.JPG" />
-
-Engadget 日本版 YouTubeチャンネルより。ソニーのワイヤレスノイズキャンセリングヘッドフォン「MDR-1000X」のインプレッションをお届けします。
-
-ワイヤレスでもハイレゾ相当の音質をうたうLDACに対応。また、CDやMP3などの圧縮音源をアップスケールして高音質化するDSEE HXをサポート。右耳側のタッチ操作で再生や音量調整や曲送り曲戻しも可能と、かなりいたれりつくせりなノイズキャンセリングヘッドフォンになっています。価格は3万5000程度からあるようです。
-
-ソニー、ノイズキャンセル・LDAC対応ワイヤレスヘッドホン最上位MDR-1000X発表。ユーザー頭部に合わせ消音効果調整
-
-
-
-<p><a href="http://japanese.engadget.com/gallery/ldac-bluetooth-mdr-1000x/" title="ソニー、LDAC対応ノイキャンBluetoothヘッドフォン MDR-1000Xインプレ">【ギャラリー】ソニー、LDAC対応ノイキャンBluetoothヘッドフォン MDR-1000Xインプレ (11枚)</a></p>
-
- 
-
- ]]></description>
-			<pubDate>Fri, 05 May 2017 11:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>    春のヘッドホン祭2017で気になった製品や展示をチェック｡低価格なハイレゾDAP、音楽スタジオ発のモニターヘッドホン...
-</title>
-			<link>http://japanese.engadget.com/2017/05/04/2017-dap/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1152x768+0+0/resize/1200x800!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/60f08aad0d311c3ce3d09c0b1fba07bc/205227354/DSC_6070.jpg" />
-
-4月29～30日に中野サンプラザで開催された春のヘッドホン祭 2017は、今年も多数のメーカーが参加して多様なオーディオ製品を展示、新製品発表会もいくつか開催されるなど盛況でした。この記事では、それら展示のなかで気になった製品やシステムなどについてご紹介します。
- ]]></description>
-			<pubDate>Fri, 05 May 2017 11:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    ついに発売！任天堂Switch版「マリオカート」、うまくなるコツを元世界王者に聞いた
 </title>
 			<link>http://japanese.engadget.com/2017/05/05/switch/</link>
@@ -782,6 +751,47 @@ Google が手作りハードウェアと人工知能の橋渡しをするプロ�
 必要なパーツリストやドキュメントはプロジェクトページで無償公開されるほか、公式Raspberry Piマガジン MagPi 5月4日号の付録としても配布します。(定価5.99ポンド、約880円)。
  ]]></description>
 			<pubDate>Tue, 09 May 2017 11:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    なんでもタッチパネル化する塗料｢Electrick｣発表。電界トモグラフィ応用､単純低コストで実用化まもなく
+</title>
+			<link>http://japanese.engadget.com/2017/05/09/electrick/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/3f8d691c738caaab284a8922218c9a4b/205246246/mainelert.jpg" />
+　
+カーネギーメロン大学の未来インターフェース研究グループが、塗るだけで物体の表面がタッチパネル化する謎の塗料を発表しました。塗料はスプレー塗布も可能で、あらゆる場所にタッチ操作機能を低コストで供給できます。
+
+謎の塗料「Electrick」の正体は、カーボンを含む導電性スプレー塗料(または導電性材料とプラスチックの混合物)。スプレー塗布する方式であるため、どんな形状のものでもその表面をタッチパネル化できるのが大きな特徴です。
+　
+
+　
+とはいえ、ただ塗料を塗りたくっただけで物体がタッチパネル化できるというわけでも当然ありません、導電性をもたせた表面から信号を拾う原理は、電界トモグラフィー技術を利用しています。仕組みを大雑把に説明すると、まず複数の対となる電極を配置しておき、それらに順番に微弱電流を流します。そこへ指が触れると、そこから電流が逃げ出すために電圧が低下します。複数の対それぞれでの電圧の下がり具合を比較すれば、指が表面のどこに触れているかを把握できるということです。
+
+Electrikはマルチタッチ対応も「できなくはない」とのこと。ただし分解能が低いため、あまり近距離をタッチした場合は正しく認識できない可能性があります。
+
+　
+研究グループは動画でElectrikの可能性をわかりやすく解説しています。特にエレキギターを使った例では、ギターのボディにゴテゴテとスイッチやボリューム類を足すことなくフィルター変更やトレモロ機能を追加できることを示しています。
+
+また動画では自動車のハンドルにElectrickを塗布して特定の位置に触れて車内むけのアプリケーションと連動させる例も示しています。近年の自動車にはあらゆる機能ボタンが備わっていますが、これをスプレー塗料で代用できるとすれば、NARDIやMOMOといった社外ステアリングに交換しても、車内エンタメ機能をハンドル上で操作するといったことができそうです。
+　
+
+　
+さらに別の使い方を考えるなら、スマートフォンの保護ケースに機能を付加することも考えられます。特定の持ち方でカメラや指定したアプリを起動できれば便利そうです。
+
+研究グループのChris Harrison氏は、Elextrickは単純な仕組みなので、ノイズ対策など性能の最適化ができれば、1年足らずでElectrickを専用回路を収めたチップとともにパッケージ販売もしくはソフトウェア化できるだろうと述べています。
+ ]]></description>
+			<pubDate>Tue, 09 May 2017 13:06:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    ダイソンSupersonicヘアドライヤーに新モデル、熱と風量の範囲を日本人の髪向けに改良
+</title>
+			<link>http://japanese.engadget.com/2017/05/09/supersonic-4-5000/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/3084f8cf2f3c9c10143e77eebc2243e/205246296/dysondry.jpg" />
+
+ ダイソンがヘアドライヤーの新モデルを発表しました。名称はこれまでどおり「Dyson Supersonic ヘアドライヤー。
+
+髪が根本から吹っ飛ぶような速乾性はそのままに、低風量時には最高温度が78度から100度に、風がより弱くなったことで、スタイリングがしやすくなった改良モデルの位置付けです。
+ ]]></description>
+			<pubDate>Tue, 09 May 2017 13:31:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
