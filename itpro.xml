@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>デジタルアーツ、情報漏えい防止製品に標的型攻撃対策を追加（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050801340/</link>
-			<description><![CDATA[　デジタルアーツは2017年5月8日、ゲートウエイ型で動作するセキュリティーソフト2製品について、標的型攻撃対策機能を追加した新バージョンを発表した。メールセキュリティーソフト「m-FILTER」の新版（Ver.5）と、Webセキュリティーソフト「i-FILTER」の新版（Ver.10）である。]]></description>
-			<pubDate>Mon, 08 May 2017 16:38:24 +0900</pubDate>
-		</item>
-		<item>
-			<title>コクヨ、約60時間照射可能なグリーンレーザーポインター（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050801342/</link>
-			<description><![CDATA[　コクヨは2017年5月8日、単4形アルカリ乾電池2本で約60時間照射可能なグリーンレーザーポインター「ELP-GP30」を5月24日発売すると発表した。希望小売価格（税別）は4万円。]]></description>
-			<pubDate>Mon, 08 May 2017 18:16:01 +0900</pubDate>
-		</item>
-		<item>
 			<title>NECなど3社、LPガスの配送業務をIoTとAIで効率化へ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050801343/</link>
 			<description><![CDATA[　NECと京セラコミュニケーションシステム、ミツウロコクリエイティブソリューションズは2017年5月8日、IoTとAI技術を使ってLPガス配送業務の効率化に向けたサービスを開発すると発表した。]]></description>
@@ -45,6 +33,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050801341/</link>
 			<description><![CDATA[　NECは2017年5月8日、官公庁や企業のサイバー攻撃対策を支援する同社のサービス拠点「サイバーセキュリティ・ファクトリー」に人工知能（AI）を活用した脅威分析システムを導入したと発表した。]]></description>
 			<pubDate>Mon, 08 May 2017 20:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>わかりにくいOffice 365の料金プラン、かしこい契約方法は？（Office 365 5つの疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400161/042700006/</link>
+			<description><![CDATA[　Office 365の料金プランは、機能ごとに契約できる単品プランから複数の機能をまとめて使えるセットプランなど、豊富に用意されている。半面、ユーザーはどのプランを選んだらよいのかわかりにくくなっている。かしこく契約するにはどうしたらよいか。ポイントは、中小規模企業向けの“格安”プランの活用と、Office 365の販売パートナーが提供する独自サポートの利用だ。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「RSA暗号は量子コンピュータで破られない」、生みの親が日本国際賞受賞で熱弁（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042700954/</link>
+			<description><![CDATA[　RSA暗号の共同発明で知られるアディ・シャミア教授が2017年4月、日本国際賞（Japan Prize）を受賞した。受賞会見でシャミア教授はIoTのセキュリティに警鐘を鳴らし、量子コンピュータの暗号解読能力にも言及した。]]></description>
+			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>タレント マネジメント（Close Up Keyword）</title>
@@ -77,9 +77,9 @@
 			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>わかりにくいOffice 365の料金プラン、かしこい契約方法は？（Office 365 5つの疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400161/042700006/</link>
-			<description><![CDATA[　Office 365の料金プランは、機能ごとに契約できる単品プランから複数の機能をまとめて使えるセットプランなど、豊富に用意されている。半面、ユーザーはどのプランを選んだらよいのかわかりにくくなっている。かしこく契約するにはどうしたらよいか。ポイントは、中小規模企業向けの“格安”プランの活用と、Office 365の販売パートナーが提供する独自サポートの利用だ。]]></description>
+			<title>「プロジェクト成功で新聞一面を飾る」を想像せよ（デザイン思考）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400165/042400002/</link>
+			<description><![CDATA[　国内企業において新サービスの検討が行われる際、不思議なくらい自社のミッションや、大切にしている価値観についての議論が行われることが少ない。筆者らはこのことに問題意識があり、デザイン思考に独自のフェーズとして追加した。]]></description>
 			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>eSIM（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/042700069/</link>
-			<description><![CDATA[　端末からの操作によって携帯回線の加入者情報（プロファイル）をネットワーク経由で書き込めるSIMカード、およびその仕組みのこと。遠隔で複数回線をまとめて管理でき、法人で端末を一括導入する場合などに便利。]]></description>
+			<title>利用部門を思い通り動かすには、トランプ大統領の手口で（10人のIT部門が消滅～ひとり情シス顛末記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/042800017/</link>
+			<description><![CDATA[　10人いたIT部門が消滅し、たったひとり残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。この実話の当事者である著者が、読者から質問に答える。今回は、どうしたら利用部門に協力してもらえるか。著者の答えは“トランプ流”だ。]]></description>
 			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「プロジェクト成功で新聞一面を飾る」を想像せよ（デザイン思考）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400165/042400002/</link>
-			<description><![CDATA[　国内企業において新サービスの検討が行われる際、不思議なくらい自社のミッションや、大切にしている価値観についての議論が行われることが少ない。筆者らはこのことに問題意識があり、デザイン思考に独自のフェーズとして追加した。]]></description>
+			<title>残業チェックばかりではダメ！経営者がやるべき本当の「働き方改革」（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/042700829/</link>
+			<description><![CDATA[　残業を制限する、テレワークの環境を整備するといった「働き方改革」が盛んになっている。だが、現場の社員に行動を促す施策ばかりなのが気になる。こうした制度や仕組みの整備も結構だが、マネジメント層が働き方改革促進のためにやるべきことは他にあるのではないか。]]></description>
 			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -149,21 +149,9 @@
 			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>利用部門を思い通り動かすには、トランプ大統領の手口で（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/042800017/</link>
-			<description><![CDATA[　10人いたIT部門が消滅し、たったひとり残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。この実話の当事者である著者が、読者から質問に答える。今回は、どうしたら利用部門に協力してもらえるか。著者の答えは“トランプ流”だ。]]></description>
-			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>残業チェックばかりではダメ！経営者がやるべき本当の「働き方改革」（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/042700829/</link>
-			<description><![CDATA[　残業を制限する、テレワークの環境を整備するといった「働き方改革」が盛んになっている。だが、現場の社員に行動を促す施策ばかりなのが気になる。こうした制度や仕組みの整備も結構だが、マネジメント層が働き方改革促進のためにやるべきことは他にあるのではないか。]]></description>
-			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「RSA暗号は量子コンピュータで破られない」、生みの親が日本国際賞受賞で熱弁（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/042700954/</link>
-			<description><![CDATA[　RSA暗号の共同発明で知られるアディ・シャミア教授が2017年4月、日本国際賞（Japan Prize）を受賞した。受賞会見でシャミア教授はIoTのセキュリティに警鐘を鳴らし、量子コンピュータの暗号解読能力にも言及した。]]></description>
+			<title>eSIM（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/042700069/</link>
+			<description><![CDATA[　端末からの操作によって携帯回線の加入者情報（プロファイル）をネットワーク経由で書き込めるSIMカード、およびその仕組みのこと。遠隔で複数回線をまとめて管理でき、法人で端末を一括導入する場合などに便利。]]></description>
 			<pubDate>Tue, 09 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -214,6 +202,54 @@
 			<pubDate>Tue, 09 May 2017 10:02:34 +0900</pubDate>
 		</item>
 		<item>
+			<title>固定電話を持たない携帯のみの世帯が過半数に、米調査（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/050900322/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米国では、固定電話はついに当たり前の存在ではなくなった。米疾病管理予防センターが発表した<a href="https://www.cdc.gov/nchs/data/nhis/earlyrelease/wireless201705.pdf" target="_blank">調査結果</a>によると、米国の世帯のうち、固定電話を持っておらず携帯電話のみの世帯は、2016年下半期の時点で50.8％だった。前年同期の48.3％に比べて2.5ポイントの増加だ。
+</p>
+
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/050900322/telephone_rotary_dia-100007744-large.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: IDG News Service</div>
+</div>
+
+<p>
+　疾病管理予防センター（CDC）という政府機関が、電話の種類を調べていると聞くと、奇妙に思えるかもしれない。しかしこれには相応の理由がある。米国の4万世帯を対象としてCDCが毎年実施している「National Health Interview Survey」という対面調査の中に、所有している電話回線が固定電話か携帯電話かを尋ねる項目が2003年から加わった。CDCはこのデータから、固定電話を持たない人の健康状態と相関する有益な情報を得ることができる。
+</p>
+
+<h4>固定回線から携帯回線へ</h4>
+
+<p>
+　だが、健康状態との相関性だけでなく、携帯電話のみへと移行する世帯の動向を知るうえでも、CDCのこの調査は有益だ。Fortuneの<a href="http://fortune.com/2017/05/04/cut-landline-phone-service/" target="_blank">記事</a>にもあるとおり、今回の調査結果は、通信事業者各社の決算発表で固定電話回線の収入が減っている点と合致する。
+</p>
+<p>
+　モバイルデバイス、特にスマートフォンがこれだけ普及する中、多くの世帯は、果たして固定電話回線は残しておくだけの価値があるのか、という議論に必然的に直面する。固定電話を残しておくことに意味がある世帯もあるが、そうではない世帯はますます増えている。常に携帯電話を肌身離さず持っているのに、一体なぜ固定電話が必要なのか、ということになる。
+</p>
+<p>
+　費用も要因の1つだ。CDCの調査結果によると、25～34歳の成人と、住まいが賃貸の成人は、携帯電話のみの世帯の人がいずれも70％以上だった。また、貧困層の成人では66.3％、貧困に近い層の成人では59.0％が、携帯電話のみの世帯で、収入がもっと多い層の48.5％よりも割合が高かった。
+</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/050900322/?ST=cio-consumerit&P=2">固定回線と共に束縛も解放</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/050900322/?ST=cio-consumerit&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/050900322/?ST=cio-consumerit&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/050900322/?ST=cio-consumerit&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 09 May 2017 10:15:11 +0900</pubDate>
+		</item>
+		<item>
 			<title>音声アシスタント機器の米国シェア、Amazon Echoが7割超へ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050901348/</link>
 			<description><![CDATA[　米国の市場調査会社、eMarketerが現地時間2017年5月8日に公表した、音声アシスタント機器に関するリポートによると、これら機器の2017年における米国利用者数は、前年から128.9％増加し、3560万人に達する見通し。]]></description>
@@ -230,6 +266,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050901350/</link>
 			<description><![CDATA[　米Dell Technologiesは2017年5月8日（米国時間）、サーバーやストレージなどを従量課金で利用できる「コンサンプションモデル」と呼ぶ新制度や、第14世代の「PowerEdge」PCサーバーなどを発表した。同社は同日から米ラスベガスでカンファレンス「Dell EMC World」を開催している。]]></description>
 			<pubDate>Tue, 09 May 2017 10:56:20 +0900</pubDate>
+		</item>
+		<item>
+			<title>NECがソフトウエアのパートナー制度を一新、共同でビジネス創出へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/050901351/</link>
+			<description><![CDATA[　NECは2017年5月9日、ソフトウエアパートナー制度の一新を発表した。同日付で、パートナー制度の名称を「Partner Program for Software」から「NEC Software WORKS」に変更する。新しい制度では、パートナーとNECが共同でビジネスを創出する特典を追加する。]]></description>
+			<pubDate>Tue, 09 May 2017 11:55:37 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
