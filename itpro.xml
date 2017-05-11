@@ -11,22 +11,22 @@
 			<pubDate>Wed, 10 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>新生銀行がお金のデザインと業務提携へ、顧客にロボアド提供（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051001369/</link>
-			<description><![CDATA[　新生銀行は2017年5月9日、お金のデザインと業務提携することで基本合意したと発表した。今夏にも、同社のロボ・アドバイザーサービス「THEO」の取り扱いを始める。資本提携する可能性もあるという。]]></description>
-			<pubDate>Wed, 10 May 2017 19:36:57 +0900</pubDate>
-		</item>
-		<item>
-			<title>NTTデータの2017年3月期決算は増収増益、グローバル強化に向けて体制変革へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051001370/</link>
-			<description><![CDATA[　NTTデータは2017年5月10日、2017年3月期の通期決算を発表した。売上高は前年同期比7.3％増の1兆7324億円、営業利益は同16.1％増の1171億円で増収増益となった。]]></description>
-			<pubDate>Wed, 10 May 2017 21:06:33 +0900</pubDate>
-		</item>
-		<item>
 			<title>TISの2017年3月期決算は増収増益、活発なIT投資を受け（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051001372/</link>
 			<description><![CDATA[TISは2017年5月10日、2017年3月期通期の連結決算を発表した。売上高は前年同期比2.8%増の3933億9800万円、営業利益は同10.6%増の270億1900万円と増収増益だった。]]></description>
 			<pubDate>Wed, 10 May 2017 21:56:03 +0900</pubDate>
+		</item>
+		<item>
+			<title>新しいアイデアは分かってもらえない、良さが分かるシーンを描こう（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/042700002/</link>
+			<description><![CDATA[　顧客が優れたアイデアを持っていたとしても、自身で適切に表現できているとは限らない。そのままでは周囲に理解してもらいにくい。そこで、すばらしいアイデアが実現する世界を描き出してみせることが、提案力につながる。]]></description>
+			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>1日の仕事は付箋3枚でコントロールせよ（午後6時に帰ろう！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041800147/041800004/</link>
+			<description><![CDATA[　午後6時に帰るには、仕事量のコントロールが欠かせない。そこで自分専用のタスクボードと付箋紙を用意しよう。2時間分の仕事量を1枚の付箋紙に書き出し、付箋紙3枚分を1日の仕事量とする要領だ。]]></description>
+			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>「不安な期間をどれだけ短くできるか」、JTの大型M＆Aを推進した新貝氏の教訓（日経ITイノベーターズ白熱議論＆講演）</title>
@@ -59,9 +59,9 @@
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>新しいアイデアは分かってもらえない、良さが分かるシーンを描こう（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/042700002/</link>
-			<description><![CDATA[　顧客が優れたアイデアを持っていたとしても、自身で適切に表現できているとは限らない。そのままでは周囲に理解してもらいにくい。そこで、すばらしいアイデアが実現する世界を描き出してみせることが、提案力につながる。]]></description>
+			<title>毎日使うWebブラウザーとメールソフト、「自動化」で時短促進（操作も動作も劇的に速くなる！パソコン時短術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000136/042500005/</link>
+			<description><![CDATA[　インターネットを毎日利用するという人も多いことだろう。頻繁に使うWebブラウザーやメールソフトでよく使う機能は、できる限り自動化して時短に役立てよう。今回は、グーグルの「Chrome」とマイクロソフトの「Outlook 2016」を例に、インターネットの時短テクを紹介する。]]></description>
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,24 +95,6 @@
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Java SE 9で変わる言語仕様の勘所、Milling Project Coinとは（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/050800037/</link>
-			<description><![CDATA[　この2017年の7月にはJava SE 9がリリースされます。今回からはJava SE 9の言語仕様の変更や、コアライブラリの新機能について紹介していきます。今回は言語仕様の変更「Milling Project Coin」について紹介します。]]></description>
-			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>毎日使うWebブラウザーとメールソフト、「自動化」で時短促進（操作も動作も劇的に速くなる！パソコン時短術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000136/042500005/</link>
-			<description><![CDATA[　インターネットを毎日利用するという人も多いことだろう。頻繁に使うWebブラウザーやメールソフトでよく使う機能は、できる限り自動化して時短に役立てよう。今回は、グーグルの「Chrome」とマイクロソフトの「Outlook 2016」を例に、インターネットの時短テクを紹介する。]]></description>
-			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>米スプリント、ケチケチ大作戦で年2000億円削減（孫正義の有言実行、米スプリント復活の軌跡）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042100157/042400004/</link>
-			<description><![CDATA[　ソフトバンクグループの米携帯電話子会社スプリントの業績が回復した背景には年2000億円規模の全社的なコスト削減の取り組みもあった。米カンザス州郊外にあるスプリント本社のオフィス。ある時から無料で配られていた菓子や飲料が消えた。]]></description>
-			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Office 365の解約ってどれくらい大変？（Office 365 5つの疑問）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400161/050800009/</link>
 			<description><![CDATA[　クラウドサービスの利点の一つに、解約の容易さがある。月額課金で利用できるOffice 365も、解約の手続き自体は簡単だ。しかし、解約後90日でOffice 365上のデータは削除されてしまう。慌てないように、なるべく解約前にデータをバックアップしておこう。]]></description>
@@ -125,9 +107,15 @@
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>1日の仕事は付箋3枚でコントロールせよ（午後6時に帰ろう！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041800147/041800004/</link>
-			<description><![CDATA[　午後6時に帰るには、仕事量のコントロールが欠かせない。そこで自分専用のタスクボードと付箋紙を用意しよう。2時間分の仕事量を1枚の付箋紙に書き出し、付箋紙3枚分を1日の仕事量とする要領だ。]]></description>
+			<title>米スプリント、ケチケチ大作戦で年2000億円削減（孫正義の有言実行、米スプリント復活の軌跡）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042100157/042400004/</link>
+			<description><![CDATA[　ソフトバンクグループの米携帯電話子会社スプリントの業績が回復した背景には年2000億円規模の全社的なコスト削減の取り組みもあった。米カンザス州郊外にあるスプリント本社のオフィス。ある時から無料で配られていた菓子や飲料が消えた。]]></description>
+			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Java SE 9で変わる言語仕様の勘所、Milling Project Coinとは（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/050800037/</link>
+			<description><![CDATA[　この2017年の7月にはJava SE 9がリリースされます。今回からはJava SE 9の言語仕様の変更や、コアライブラリの新機能について紹介していきます。今回は言語仕様の変更「Milling Project Coin」について紹介します。]]></description>
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -265,6 +253,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/051100107/</link>
 			<description><![CDATA[　米Microsoftは2017年5月10日（米国時間）、新しいデータベース（DB）のクラウドサービス「Azure Cosmos DB」をMicrosoft Build 2017で発表した。Microsoft Azureの世界30カ所以上あるリージョンにデータを分散保存しながら、一貫性を保ってデータを利用できるという高い拡張性を持つのが特徴。]]></description>
 			<pubDate>Thu, 11 May 2017 16:45:22 +0900</pubDate>
+		</item>
+		<item>
+			<title>リコー、低コストのA4モノクロプリンター・複合機「RICOH SP 2200L」シリーズ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051101381/</link>
+			<description><![CDATA[　リコーは2017年5月11日、A4対応モノクロレーザープリンター「RICOH SP 2200L」および複合機「RICOH SP 2200SFL」を5月19日に発売すると発表した。基本機能だけを集約した低コストモデルで、A4縦送り毎分28枚のプリント速度と、製品寿命35万ページの耐久性能を両立した。価格はオープン。]]></description>
+			<pubDate>Thu, 11 May 2017 17:32:40 +0900</pubDate>
+		</item>
+		<item>
+			<title>サンワサプライ、手のひらサイズのMiracast対応モバイルプロジェクター（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051101382/</link>
+			<description><![CDATA[　サンワサプライは2017年5月11日、手のひらサイズでMiracast対応のモバイルプロジェクター「ワイヤレスモバイルプロジェクター（Miracast内蔵アンドロイドスマートフォン対応・200ルーメン・台形補正機能・バッテリー内蔵・HDMI搭載）400-PRJ022」を同日発売したと発表した。同社直販サイト「サンワダイレクト」限定製品で、直販価格は5万9074円（税別）。]]></description>
+			<pubDate>Thu, 11 May 2017 17:34:36 +0900</pubDate>
 		</item>
 		<item>
 			<title>KDDIとNHKが放送分野での映像配信高度化へ5Gの実証実験、まずは移動8K伝送（ニュース）</title>
