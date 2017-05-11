@@ -5,48 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Oracleの次なる一大事業、消費者情報を収益に（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051000365/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　米Oracleの今後を担う一大事業に、読者のあなたも関わっている可能性は大いにある。だが、Oracleがあなたに商品を売るわけではない。Oracleがあなたの情報を商品として売るという事業だ。「Oracle Data Cloud」の背景にあるのはそのような発想である。Oracle Data Cloudは、消費者や企業についての情報を膨大に蓄積している。</p>
-
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051000365/ph01.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Magdalena Petrova</div>
-</div>
-
-<p>　Oracleは、Web上の各所でユーザーをトラッキングし、またさまざまな提供元からデータを購入することで、Oracle Data Cloudを成立させている。その中にデータが取り込まれているユーザー本人は、自分がそのようなデータ収集にオプトインしたことに気づいてすらいないかもしれない。</p>
-
-<p>　Oracleが行う自動データ収集の対象に加わるにあたって、本人が参加を承認するための大きな赤い押しボタンの類いがあるわけではない。Oracle Data Cloudのユーザーデータの基盤は、サードパーティー企業のネットワークから提供されている。データの提供元は主に3種類に分かれる。1つ目はForbesやEdmundsのようなパブリッシャー（媒体社）、2つ目は小売りのロイヤルティプログラム、3つ目はExperianやIHSのような従来型のデータブローカーだ。</p>
-
-<p>　こうしたデータが積み重なり、1500万のデータソースから得た消費者のプロフィール50億件で構成されたデータベースとなっている。同じ人が複数のプロフィールを持っている場合もあるので、各プロフィールがそれぞれ特定の1人と一意に結び付くとは限らないが、OracleでData Cloudを担当するバイスプレジデントのEric Roza氏によると、同社が保持する情報は数十億人分に及ぶ。Oracleは、データサイエンスの手法を用いて、複数のブラウザー間での行動をマッチングする。したがって、企業が広告を配信する時に、スマートフォン、タブレット、パソコンのそれぞれで同じ広告を表示させることができる。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051000365/?ST=cm-industries&P=2">OracleはDataCloudを、同社の将来にとって重要な要素...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051000365/?ST=cm-industries&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051000365/?ST=cm-industries&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051000365/?ST=cm-industries&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051000365/?ST=cm-industries&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 10 May 2017 10:25:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>スカパーJSATがアンテナ共有衛星通信サービスを提供開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051001365/</link>
-			<description><![CDATA[　スカパーJSATは2017年5月10日、三菱地所が所有・管理する新丸の内ビルディングにおいて、4月1日から「アンテナ共有衛星通信サービス」の提供を開始したと発表した。]]></description>
-			<pubDate>Wed, 10 May 2017 12:16:45 +0900</pubDate>
-		</item>
-		<item>
 			<title>ファイルメーカー、モビリティやスケーラビリティを強化したFileMaker最新版（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051001366/</link>
 			<description><![CDATA[　ファイルメーカーは2017年5月10日、業務用アプリ開発実行環境の最新バージョン「FileMaker 16 プラットフォーム」を同日発売したと発表した。最新版では、ビジネスチームの迅速な課題解決に向けてモビリティやスケーラビリティなどの機能を強化した]]></description>
@@ -83,6 +41,18 @@
 			<pubDate>Wed, 10 May 2017 21:56:03 +0900</pubDate>
 		</item>
 		<item>
+			<title>「感情AI」の開発に注力、おもてなしを重視するトヨタ（激変！クルマ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/042500004/</link>
+			<description><![CDATA[　トヨタ自動車は自動運転の中核となる制御アルゴリズムの開発を競争領域とみなし、自ら中心になって取り組んでいる。加えて熱心なのが、クルマの乗員の“気持ち”を把握するAIの開発だ。]]></description>
+			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Ansibleでラクラク設定管理（ネットワーク管理を自動化せよ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030600067/050800003/</link>
+			<description><![CDATA[ネットワーク管理の自動化における設定フェーズでは、サービスに必要なコンフィグ（設定ファイル）を作成し、機器設定を反映させます。これらを「構成管理ツール」を使って自動化するのが一般的になっています。]]></description>
+			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>新しいアイデアは分かってもらえない、良さが分かるシーンを描こう（林浩一の“謳って踊れる”エンジニア）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/042700002/</link>
 			<description><![CDATA[　顧客が優れたアイデアを持っていたとしても、自身で適切に表現できているとは限らない。そのままでは周囲に理解してもらいにくい。そこで、すばらしいアイデアが実現する世界を描き出してみせることが、提案力につながる。]]></description>
@@ -101,9 +71,9 @@
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「感情AI」の開発に注力、おもてなしを重視するトヨタ（激変！クルマ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/042500004/</link>
-			<description><![CDATA[　トヨタ自動車は自動運転の中核となる制御アルゴリズムの開発を競争領域とみなし、自ら中心になって取り組んでいる。加えて熱心なのが、クルマの乗員の“気持ち”を把握するAIの開発だ。]]></description>
+			<title>脅威のビジネスメール詐欺、帰ってきたタイポスクワッティング（今日も誰かが狙われる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/050800001/</link>
+			<description><![CDATA[　取引先などをかたった偽のメールを企業の財務担当者に送付し、攻撃者の口座に金銭を振り込ませるビジネスメール詐欺（BEC）。BECでは、本物と似たドメインを実際に取得し、そのドメインのメールアドレスから詐欺メールを送信する手口がよく使われる。10年以上前に流行した「タイポスクワッティング」と同じ手口だ。]]></description>
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -119,9 +89,9 @@
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>あまりに危険なIoT、濃いコーヒーを飲まされる恐れ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/042700830/</link>
-			<description><![CDATA[　海外のニュースサイトは2017年3月下旬、ネットワークにつながる食洗機に脆弱性が見つかったと報じた。攻撃者に食洗機を乗っ取られて、皿を洗われてしまう危険性があるというのだ。2008年には、コーヒーメーカーの危険な脆弱性が報告されている。薄いコーヒーが好みでも、濃いコーヒーを飲まされる恐れがあったのだ。]]></description>
+			<title>オフショアよりも自動運転市場、ベトナムIT最大手FTPの新たな狙い（ベトナムIT最大手の野望）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050200178/050200002/</link>
+			<description><![CDATA[　FPTソフトウェアは、オフショア開発を主軸に成長を続けており、鈍化の兆しはみられない。それでも満足はしていない。デジタル事業を成長の柱に据え、ギアを上げ始めた。]]></description>
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -131,9 +101,9 @@
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>脅威のビジネスメール詐欺、帰ってきたタイポスクワッティング（今日も誰かが狙われる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/050800001/</link>
-			<description><![CDATA[　取引先などをかたった偽のメールを企業の財務担当者に送付し、攻撃者の口座に金銭を振り込ませるビジネスメール詐欺（BEC）。BECでは、本物と似たドメインを実際に取得し、そのドメインのメールアドレスから詐欺メールを送信する手口がよく使われる。10年以上前に流行した「タイポスクワッティング」と同じ手口だ。]]></description>
+			<title>米スプリント、ケチケチ大作戦で年2000億円削減（孫正義の有言実行、米スプリント復活の軌跡）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042100157/042400004/</link>
+			<description><![CDATA[　ソフトバンクグループの米携帯電話子会社スプリントの業績が回復した背景には年2000億円規模の全社的なコスト削減の取り組みもあった。米カンザス州郊外にあるスプリント本社のオフィス。ある時から無料で配られていた菓子や飲料が消えた。]]></description>
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -167,21 +137,9 @@
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>オフショアよりも自動運転市場、ベトナムIT最大手FTPの新たな狙い（ベトナムIT最大手の野望）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050200178/050200002/</link>
-			<description><![CDATA[　FPTソフトウェアは、オフショア開発を主軸に成長を続けており、鈍化の兆しはみられない。それでも満足はしていない。デジタル事業を成長の柱に据え、ギアを上げ始めた。]]></description>
-			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>米スプリント、ケチケチ大作戦で年2000億円削減（孫正義の有言実行、米スプリント復活の軌跡）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042100157/042400004/</link>
-			<description><![CDATA[　ソフトバンクグループの米携帯電話子会社スプリントの業績が回復した背景には年2000億円規模の全社的なコスト削減の取り組みもあった。米カンザス州郊外にあるスプリント本社のオフィス。ある時から無料で配られていた菓子や飲料が消えた。]]></description>
-			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Ansibleでラクラク設定管理（ネットワーク管理を自動化せよ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030600067/050800003/</link>
-			<description><![CDATA[ネットワーク管理の自動化における設定フェーズでは、サービスに必要なコンフィグ（設定ファイル）を作成し、機器設定を反映させます。これらを「構成管理ツール」を使って自動化するのが一般的になっています。]]></description>
+			<title>あまりに危険なIoT、濃いコーヒーを飲まされる恐れ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/042700830/</link>
+			<description><![CDATA[　海外のニュースサイトは2017年3月下旬、ネットワークにつながる食洗機に脆弱性が見つかったと報じた。攻撃者に食洗機を乗っ取られて、皿を洗われてしまう危険性があるというのだ。2008年には、コーヒーメーカーの危険な脆弱性が報告されている。薄いコーヒーが好みでも、濃いコーヒーを飲まされる恐れがあったのだ。]]></description>
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -295,6 +253,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051101377/</link>
 			<description><![CDATA[　アマネク・テレマティクスデザインは2017年5月11日、曲と一緒に、その曲に関連する位置情報を提供する「Musicジオ」を開始すると発表した。]]></description>
 			<pubDate>Thu, 11 May 2017 13:11:40 +0900</pubDate>
+		</item>
+		<item>
+			<title>スカパーJSATがLeoSatと戦略的パートナーシップ構築と出資に合意（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051101379/</link>
+			<description><![CDATA[　スカパーJSATは2017年5月11日、LeoSat Enterprises社と戦略的パートナーシップ構築と出資についての合意書を締結したと発表した。]]></description>
+			<pubDate>Thu, 11 May 2017 16:05:12 +0900</pubDate>
+		</item>
+		<item>
+			<title>「15年振りに最高益を更新」、東洋ビジネスエンジニアリングの2017年3月期決算（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051101380/</link>
+			<description><![CDATA[　東洋ビジネスエンジニアリング（B-EN-G）は2017年7月11日、2017年3月期の通期決算を発表した。連結売上高は前年同期比5.9％増の132億8900万円、連結営業利益は同34.6％増の7億1500万円だった。]]></description>
+			<pubDate>Thu, 11 May 2017 16:06:22 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
