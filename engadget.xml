@@ -5,37 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    カッターで11回切りつけても破けないバックパックのスリ防止機能が頼もしすぎる
-</title>
-			<link>http://japanese.engadget.com/2017/05/09/11/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/ce54e4bc0ba6050bc3192e81b560cf0c/205246194/PH01.JPG" />
-楽しい旅行を台無しにするのが盗難被害。どんなに注意していても盗難のプロに目をつけられた日には、大事な荷物を守るのは至難の業です。今回はスリなどの魔の手から大事なガジェット、財布、パスポートなどを守るのに役立つバックパックのレビューをお届けします。
- ]]></description>
-			<pubDate>Wed, 10 May 2017 12:30:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>    Apple Watchで睡眠追跡が可能に？アップルが睡眠トラッカーアプリのBedditを買収
-</title>
-			<link>http://japanese.engadget.com/2017/05/10/apple-watch-beddit/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/5b37e3eebb8283e116d8bb72c78c215d/205251359/mainaw.jpg" />
-　
-アップルが、睡眠トラッカーアプリを開発する企業Bedditを買収しました。目的としては、iOSデバイスおよびApple Watchへの機能の取り込みが考えられます。とくにApple Watchは活動量計としての機能を備えつつも、夜間は充電のために取り外されることが多く、睡眠追跡機能が手薄です。
-
-BedditはiOSのHealthKitと連携する睡眠追跡アプリで、ベッドに敷いた帯状のセンサーを使ってユーザーの睡眠の様子をトラッキング、スコア形式で分析できるようにします。取得可能なパラメーターは睡眠サイクル、心拍数、呼吸数、睡眠時間、睡眠深度、一晩に起きた回数、さらにはiPhone/iPadのマイクを使い、いびきのようすまでを取得可能です。
-　
-
-　
-アップルがBedditを買収したことで、今後その機能をiPhoneおよびApple Watchに取り込む可能性が高まります。もしそれが実現するならば、ユーザーは他の睡眠追跡アプリを使ったり、Apple Watch 以外のフィットネスバンドを装着する必要はなくなるかもしれません。
-
-ただ、現状ではApple Watchの電池持続時間は短く、単体の睡眠トラッカーとして使えるかといえば微妙なところ。Apple WatchがBedditの技術を有効活用するためには、超省電力モードを用意するなり、次世代以降のApple Watchの電池持続時間を大きく伸ばすなりする必要がありそうです。
-
-なお、Bedditの発表によると、すでにBedditアプリを利用しているユーザーの情報などは今後、アップルの個人情報保護方針に基づいて取り扱われるとのこと。記事執筆時点ではBedditアプリはまだ変わらずApp Storeから入手可能です。
-
- 
- ]]></description>
-			<pubDate>Wed, 10 May 2017 13:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    デジタル家電特化のフリマアプリ、ノジマが公開「nojimaフリマ」サービス開始
 </title>
 			<link>http://japanese.engadget.com/2017/05/10/nojima/</link>
@@ -606,6 +575,36 @@ Coming to #Windows10, Story Remix will help you find inspiration and explore new
 <p><a href="http://japanese.engadget.com/gallery/windows-mixed-reality-motion-controllers/" title="Windows Mixed Reality Motion Controllers">【ギャラリー】Windows Mixed Reality Motion Controllers (9枚)</a></p>
  ]]></description>
 			<pubDate>Fri, 12 May 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    ｢Windowsで動くLinux｣ことWSLにOpenSUSEとFedoraが追加。Windows Storeから導入可能に
+</title>
+			<link>http://japanese.engadget.com/2017/05/11/windows-linux-wsl-opensuse-fedora-windows-store/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/c15232a70180ff151429f88e4aadd581/205259770/mainwsl.jpg" />
+　
+マイクロソフトの開発者向けイベントBuild 2017より。マイクロソフトが、Windows 10で動作するLinuxシェルことWindows Subsystem for Linux (WSL)に、OpenSUSE および Fedora Linuxのサポートを追加することを発表しました。WSLではすでにUbuntuが対応していますが、対応ディストリビューションの拡大でユーザーは別のLinuxマシンや仮想マシン(VM)を用意する必要がなくなります。
+
+各ディストリビューションの導入は非常に簡単で、Windows 10を開発者モードに切り替えてから、Windows Storeを開き、各ディストリビューションをインストールするだけ。
+　
+
+　
+今回の措置は、DebiamベースのUbuntu、SlackwareベースのOpenSUSE、Red HatベースのFedoraが揃うことで、それぞれの流儀を好むインターネット上のオンラインサービス開発者たちをWindowsに引き込む有効な手段となることが考えられます。
+
+ちなみにマイクロソフトはこれまでにオープンソースの開発プラットフォームとして .Net core 1.0をLinuxおよびMacに、さらにはLinuxに対応するSQL Server 2017などを提供してきています。
+ ]]></description>
+			<pubDate>Fri, 12 May 2017 07:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    予告通りの299ドルで、Windows MRヘッドセット開発者版が米国とカナダで予約開始。出荷は8月
+</title>
+			<link>http://japanese.engadget.com/2017/05/11/299-windows-mr-8/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/f2cf2e184e4b6f47f15d49bd38599bde/205259876/WinMR_01_s.jpg" />
+マイクロソフトが米国シアトルで開催中の開発者向け会議『Build 2017』より。以前より同社が予告していたWindows Mixed Reality用ヘッドセットの開発者向けモデル予約が、ついに開始されました。
+
+今回の対象国は米国とカナダで、価格は最安価となるエイサー版が299ドル、高機能なHP版が329ドル。マイクロソフトが昨年10月予告した「299ドルから」の公約が果たされた格好です。なお原稿執筆時でのリリース日は、両モデルとも「8月」。
+<p><a href="http://japanese.engadget.com/gallery/windows-mixed-reality/" title="Windows Mixed Reality ヘッドセット（開発者版）予約開始">【ギャラリー】Windows Mixed Reality ヘッドセット（開発者版）予約開始 (13枚)</a></p>
+ ]]></description>
+			<pubDate>Fri, 12 May 2017 08:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
