@@ -5,6 +5,18 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>Windowsの設定をカスタマイズ、自分に合った快適操作を実現（操作も動作も劇的に速くなる！パソコン時短術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000136/042400004/</link>
+			<description><![CDATA[　個別のパソコン操作が素早くできるようになっても、Windows自体がもたついているようでは時短にならない。そこで今回は、使い勝手に合わせてWindows全般の設定を見直し、余分な機能をオフにする方法を説明する。]]></description>
+			<pubDate>Wed, 10 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AI自前主義のトヨタ、5年で1000億円超投資（激変！クルマ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/042500003/</link>
+			<description><![CDATA[　トヨタ自動車は自動運転や人工知能（AI）の開発で他社との提携や協業が少ない一方、グループ企業との連携を深めている。グループ企業との連携は当然に思えるが、トヨタはかねてグループ内で積極的に競わせることで競争力を高めてきた企業だ。グループ内で競争がない場合、トヨタ自らが競合部品を開発・生産し、競うことをいとわない。]]></description>
+			<pubDate>Wed, 10 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>アップル決算で突如登場した「ウエアラブル」カテゴリーは何を意味する？（米国発！ Appleニュースの読み解き方）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/050500043/</link>
 			<description><![CDATA[　米アップルは2017会計年度第2四半期（1～3月期）決算を発表した。iPhoneが比較的堅調、MacとiPadは明暗が分かれた。注目すべきは「その他の製品」のカテゴリーだ。]]></description>
@@ -47,15 +59,15 @@
 			<pubDate>Wed, 10 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「難しい」「できない」が口癖のエンジニアは危険（デザイン思考）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400165/042400003/</link>
-			<description><![CDATA[　筆者の経験上、ITエンジニアの多くは「アイデアを却下しない」という行動が苦手なようだ。目の前に出たアイデアに対して、すぐに「どのようにそれを実現させるか」を考え出す傾向がある。「こんなアイデアは実現できない！」「やったことがない！」と即座に否定することなく、ぜひ前向きに発想を生み出す対話の輪に加わるようにすることが大切だ。]]></description>
+			<title>ラズパイでケチケチ勤怠管理システム、Speeeが内製（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/050800960/</link>
+			<description><![CDATA[　会社のオフィスの出入り口にある打刻機のカードリーダーにSuicaやiPhone 7、Apple Watchをかざすだけで、従業員の出退勤時間が自動的に記録される。そんな勤怠管理システムをSpeeeが自社向けに開発した。特徴は、打刻機にラズパイを採用することで、機器のコストを大幅に下げた点だ。]]></description>
 			<pubDate>Wed, 10 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Windowsの設定をカスタマイズ、自分に合った快適操作を実現（操作も動作も劇的に速くなる！パソコン時短術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000136/042400004/</link>
-			<description><![CDATA[　個別のパソコン操作が素早くできるようになっても、Windows自体がもたついているようでは時短にならない。そこで今回は、使い勝手に合わせてWindows全般の設定を見直し、余分な機能をオフにする方法を説明する。]]></description>
+			<title>「Office 365を使って損する」って本当？（Office 365 5つの疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400161/050800008/</link>
+			<description><![CDATA[　Office 365に切り替えると損する場合がある。例えば、複数のユーザーで共用しているパソコンに入れてたOfficeスイートのライセンスを、Office 365の利用権に切り替えたときだ。]]></description>
 			<pubDate>Wed, 10 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -83,21 +95,9 @@
 			<pubDate>Wed, 10 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ラズパイでケチケチ勤怠管理システム、Speeeが内製（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/050800960/</link>
-			<description><![CDATA[　会社のオフィスの出入り口にある打刻機のカードリーダーにSuicaやiPhone 7、Apple Watchをかざすだけで、従業員の出退勤時間が自動的に記録される。そんな勤怠管理システムをSpeeeが自社向けに開発した。特徴は、打刻機にラズパイを採用することで、機器のコストを大幅に下げた点だ。]]></description>
-			<pubDate>Wed, 10 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「Office 365を使って損する」って本当？（Office 365 5つの疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400161/050800008/</link>
-			<description><![CDATA[　Office 365に切り替えると損する場合がある。例えば、複数のユーザーで共用しているパソコンに入れてたOfficeスイートのライセンスを、Office 365の利用権に切り替えたときだ。]]></description>
-			<pubDate>Wed, 10 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AI自前主義のトヨタ、5年で1000億円超投資（激変！クルマ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/042500003/</link>
-			<description><![CDATA[　トヨタ自動車は自動運転や人工知能（AI）の開発で他社との提携や協業が少ない一方、グループ企業との連携を深めている。グループ企業との連携は当然に思えるが、トヨタはかねてグループ内で積極的に競わせることで競争力を高めてきた企業だ。グループ内で競争がない場合、トヨタ自らが競合部品を開発・生産し、競うことをいとわない。]]></description>
+			<title>「難しい」「できない」が口癖のエンジニアは危険（デザイン思考）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400165/042400003/</link>
+			<description><![CDATA[　筆者の経験上、ITエンジニアの多くは「アイデアを却下しない」という行動が苦手なようだ。目の前に出たアイデアに対して、すぐに「どのようにそれを実現させるか」を考え出す傾向がある。「こんなアイデアは実現できない！」「やったことがない！」と即座に否定することなく、ぜひ前向きに発想を生み出す対話の輪に加わるようにすることが大切だ。]]></description>
 			<pubDate>Wed, 10 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -227,6 +227,18 @@
 			<pubDate>Wed, 10 May 2017 21:56:03 +0900</pubDate>
 		</item>
 		<item>
+			<title>「PaaSは滅ぶだろう」と語る米HPEの意図（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/050900964/</link>
+			<description><![CDATA[　米ヒューレット・パッカード・エンタープライズ（HPE）の新戦略は、オンプレミスやプライベートクラウドのシステムを運用・監視できるようにする「ハイブリッドITのシンプル化」だ。クラウド事業からの撤退に始まる戦略変更を経て、ハードウエアベンダーとしての強みが生かした成長を狙う。]]></description>
+			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「それはセキュリティ対策じゃない」、固定観念を捨ててもらおう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/042400011/</link>
+			<description><![CDATA[　「それはセキュリティ対策ではないだろう」。経営層からこう切り捨てられてしまったとき、セキュリティ担当者はどう再考を促せばいいのか。今回は、セキュリティとは無関係に見えるが、実はセキュリティ対策の一環として確実性や効率性を高める機能を紹介する。]]></description>
+			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>脅威のビジネスメール詐欺、帰ってきたタイポスクワッティング（今日も誰かが狙われる）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/050800001/</link>
 			<description><![CDATA[　取引先などをかたった偽のメールを企業の財務担当者に送付し、攻撃者の口座に金銭を振り込ませるビジネスメール詐欺（BEC）。BECでは、本物と似たドメインを実際に取得し、そのドメインのメールアドレスから詐欺メールを送信する手口がよく使われる。10年以上前に流行した「タイポスクワッティング」と同じ手口だ。]]></description>
@@ -251,9 +263,9 @@
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「PaaSは滅ぶだろう」と語る米HPEの意図（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/050900964/</link>
-			<description><![CDATA[　米ヒューレット・パッカード・エンタープライズ（HPE）の新戦略は、オンプレミスやプライベートクラウドのシステムを運用・監視できるようにする「ハイブリッドITのシンプル化」だ。クラウド事業からの撤退に始まる戦略変更を経て、ハードウエアベンダーとしての強みが生かした成長を狙う。]]></description>
+			<title>「不安な期間をどれだけ短くできるか」、JTの大型M＆Aを推進した新貝氏の教訓（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/042800017/</link>
+			<description><![CDATA[　積極的なM＆A（企業の合併・買収）で、急速にグローバル化を進めてきた日本たばこ産業（JT）。「日経ITイノベーターズ」の2016年9月28日の会合で、JTの大型海外M＆Aの計画、交渉、統合などを指揮した新貝康司代表取締役副社長が登壇し、大型M＆Aで得た教訓と大仕事を成し遂げるリーダーの心得について語った。]]></description>
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -317,18 +329,6 @@
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「それはセキュリティ対策じゃない」、固定観念を捨ててもらおう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/042400011/</link>
-			<description><![CDATA[　「それはセキュリティ対策ではないだろう」。経営層からこう切り捨てられてしまったとき、セキュリティ担当者はどう再考を促せばいいのか。今回は、セキュリティとは無関係に見えるが、実はセキュリティ対策の一環として確実性や効率性を高める機能を紹介する。]]></description>
-			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「不安な期間をどれだけ短くできるか」、JTの大型M＆Aを推進した新貝氏の教訓（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/042800017/</link>
-			<description><![CDATA[　積極的なM＆A（企業の合併・買収）で、急速にグローバル化を進めてきた日本たばこ産業（JT）。「日経ITイノベーターズ」の2016年9月28日の会合で、JTの大型海外M＆Aの計画、交渉、統合などを指揮した新貝康司代表取締役副社長が登壇し、大型M＆Aで得た教訓と大仕事を成し遂げるリーダーの心得について語った。]]></description>
-			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Microsoft対Apple、戦略は変われど戦いは続く（後）（Microsoft対Apple、戦略は変われど戦いは続く）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/042500034/042500002/</link>
 			<description><![CDATA[<div>
@@ -373,6 +373,18 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 11 May 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>トヨタ自動車とエヌビディアが自動運転システムの開発で協業（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051101373/</link>
+			<description><![CDATA[　GPU（画像処理プロセッサ）大手の米エヌビディアは2017年5月10日（現地時間）、自動運転の分野でトヨタ自動車との協業を発表した。トヨタ自動車は、エヌビディアの自動運転プラットフォーム「NVIDIA DRIVE PX」を搭載した自動運転システムを数年以内に市場に導入する。]]></description>
+			<pubDate>Thu, 11 May 2017 09:27:55 +0900</pubDate>
+		</item>
+		<item>
+			<title>Facebook、低品質ページに誘導する投稿の削減にAIを活用（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051101374/</link>
+			<description><![CDATA[　米Facebookは現地時間2017年5月10日、質の低いコンテンツの排除を目的としたアップデートを発表した。ニュースフィードにおいて、情報量が乏しく無関係な広告で埋め尽くされたWebページに誘導するリンクの表示優先度を下げる。]]></description>
+			<pubDate>Thu, 11 May 2017 09:50:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
