@@ -5,35 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    なんでもタッチパネル化する塗料｢Electrick｣発表。電界トモグラフィ応用､単純低コストで実用化まもなく
-</title>
-			<link>http://japanese.engadget.com/2017/05/09/electrick/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/3f8d691c738caaab284a8922218c9a4b/205246246/mainelert.jpg" />
-　
-カーネギーメロン大学の未来インターフェース研究グループが、塗るだけで物体の表面がタッチパネル化する謎の塗料を発表しました。塗料はスプレー塗布も可能で、あらゆる場所にタッチ操作機能を低コストで供給できます。
-
-謎の塗料「Electrick」の正体は、カーボンを含む導電性スプレー塗料(または導電性材料とプラスチックの混合物)。スプレー塗布する方式であるため、どんな形状のものでもその表面をタッチパネル化できるのが大きな特徴です。
-　
-
-　
-とはいえ、ただ塗料を塗りたくっただけで物体がタッチパネル化できるというわけでも当然ありません、導電性をもたせた表面から信号を拾う原理は、電界トモグラフィー技術を利用しています。仕組みを大雑把に説明すると、まず複数の対となる電極を配置しておき、それらに順番に微弱電流を流します。そこへ指が触れると、そこから電流が逃げ出すために電圧が低下します。複数の対それぞれでの電圧の下がり具合を比較すれば、指が表面のどこに触れているかを把握できるということです。
-
-Electrikはマルチタッチ対応も「できなくはない」とのこと。ただし分解能が低いため、あまり近距離をタッチした場合は正しく認識できない可能性があります。
-
-　
-研究グループは動画でElectrikの可能性をわかりやすく解説しています。特にエレキギターを使った例では、ギターのボディにゴテゴテとスイッチやボリューム類を足すことなくフィルター変更やトレモロ機能を追加できることを示しています。
-
-また動画では自動車のハンドルにElectrickを塗布して特定の位置に触れて車内むけのアプリケーションと連動させる例も示しています。近年の自動車にはあらゆる機能ボタンが備わっていますが、これをスプレー塗料で代用できるとすれば、NARDIやMOMOといった社外ステアリングに交換しても、車内エンタメ機能をハンドル上で操作するといったことができそうです。
-　
-
-　
-さらに別の使い方を考えるなら、スマートフォンの保護ケースに機能を付加することも考えられます。特定の持ち方でカメラや指定したアプリを起動できれば便利そうです。
-
-研究グループのChris Harrison氏は、Elextrickは単純な仕組みなので、ノイズ対策など性能の最適化ができれば、1年足らずでElectrickを専用回路を収めたチップとともにパッケージ販売もしくはソフトウェア化できるだろうと述べています。
- ]]></description>
-			<pubDate>Tue, 09 May 2017 13:06:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    ダイソンSupersonicヘアドライヤーに新モデル、熱と風量の範囲を日本人の髪向けに改良
 </title>
 			<link>http://japanese.engadget.com/2017/05/09/supersonic-4-5000/</link>
@@ -93,6 +64,19 @@ address RCE vuln &ndash; Defender will autoupdate. https://t.co/rzn5QWo6sV
 			<pubDate>Tue, 09 May 2017 16:15:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>    1Gbps LTE対応の「最強モバイルルータ」Nighthawk M1をネットギアが公開、16時間駆動バッテリーは交換も可能
+</title>
+			<link>http://japanese.engadget.com/2017/05/09/1gbps-lte-nighthawk-m1-16/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/93ab361b6f1b5cf3645c456e677cf8e8/205246881/NHawk-M1_01_s.jpg" />
+
+2017年5月9日、ネットワーク関連製品の大手メーカーであるネットギアが、日本向けの新製品発表を開催。その中で、最高1GbpsのLTE回線に対応したモバイルルーター『Nighthawk M1』をプレビューしました。
+
+特徴はもちろんその速度。LTEモデム部の理論上速度は、ソニーモバイル『Xperia XZ Premium』と同等の最高1Gbps（下り側）、上り側は150Mbps。チップセットにはクアルコムの『Snapdragon x16 LTE Modem』ことMDM9x50を採用します。
+<p><a href="http://japanese.engadget.com/gallery/1gbps-lte-nighthawk-m1-0/" title="ネットギア 1Gbps LTE対応モバイルルーター NightHawk M1">【ギャラリー】ネットギア 1Gbps LTE対応モバイルルーター NightHawk M1 (14枚)</a></p>
+ ]]></description>
+			<pubDate>Tue, 09 May 2017 18:01:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>    ｢Surface Pro 5なんてありません｣マイクロソフトのパノス・パナイ氏が発言。Pro新機種は劇的な進歩があったとき
 </title>
 			<link>http://japanese.engadget.com/2017/05/09/surface-pro-5-pro/</link>
@@ -106,19 +90,6 @@ Surfaceシリーズの生みの親、マイクロソフトのパノス・パナ�
 もしかするとSurface Pro 5はないにしても、現在の路線を踏襲しつつKaby Lake世代のCPUなどを採用して仕様を強化した「第2世代Surface Pro 4」が発表されるといったことは、あるのかもしれません。
 
 ちなみにマイクロソフトの上海イベントに関しては、開発中とうわさされる Surface Phone の話題も取り沙汰されています。ただ、こちらもイベントでの発表があるかと聞かれれば、微妙なところと言わざるをえない状況です。
- ]]></description>
-			<pubDate>Tue, 09 May 2017 18:01:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>    1Gbps LTE対応の「最強モバイルルータ」Nighthawk M1をネットギアが公開、16時間駆動バッテリーは交換も可能
-</title>
-			<link>http://japanese.engadget.com/2017/05/09/1gbps-lte-nighthawk-m1-16/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/93ab361b6f1b5cf3645c456e677cf8e8/205246881/NHawk-M1_01_s.jpg" />
-
-2017年5月9日、ネットワーク関連製品の大手メーカーであるネットギアが、日本向けの新製品発表を開催。その中で、最高1GbpsのLTE回線に対応したモバイルルーター『Nighthawk M1』をプレビューしました。
-
-特徴はもちろんその速度。LTEモデム部の理論上速度は、ソニーモバイル『Xperia XZ Premium』と同等の最高1Gbps（下り側）、上り側は150Mbps。チップセットにはクアルコムの『Snapdragon x16 LTE Modem』ことMDM9x50を採用します。
-<p><a href="http://japanese.engadget.com/gallery/1gbps-lte-nighthawk-m1-0/" title="ネットギア 1Gbps LTE対応モバイルルーター NightHawk M1">【ギャラリー】ネットギア 1Gbps LTE対応モバイルルーター NightHawk M1 (14枚)</a></p>
  ]]></description>
 			<pubDate>Tue, 09 May 2017 18:01:00 +0900</pubDate>
 		</item>
@@ -541,6 +512,23 @@ Icon社ではリードデザイナーとしてA5の設計開発を牽引、初�
 Icon Aircraft CEOのKirk Hawkins氏はKarkow氏とSever氏への追悼の言葉を述べるとともに、この事故を「壊滅的な損失」だとしています。
  ]]></description>
 			<pubDate>Thu, 11 May 2017 07:25:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    ソフトバンク、5月下旬からXperia、AQUOS、DIGNO順次発売。「だけじゃない」モデル発表予定（更新中）
+</title>
+			<link>http://japanese.engadget.com/2017/05/10/softbank2017summer/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/843d896479a32389db5c29bf5c00baf7/205256011/sbm.jpg" />
+
+ソフトバンクは、ソニーモバイル「Xperia XZs」、シャープ「AQUOS R」「AQUOS ea」、京セラ「DIGNO&reg; G」の4モデルを5月下旬以降に発売すると発表しました。このうちソニーモバイルとシャープのモデルはVoLTE（HD+）対応です。
+
+なお、ソフトバンク広報部によると、2017年の夏モデルは今回発表の4モデル以外にも予定しているとのこと。
+
+（更新中）
+
+ 
+
+ ]]></description>
+			<pubDate>Thu, 11 May 2017 10:45:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
