@@ -11,10 +11,10 @@
 			<pubDate>Wed, 10 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>TISの2017年3月期決算は増収増益、活発なIT投資を受け（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051001372/</link>
-			<description><![CDATA[TISは2017年5月10日、2017年3月期通期の連結決算を発表した。売上高は前年同期比2.8%増の3933億9800万円、営業利益は同10.6%増の270億1900万円と増収増益だった。]]></description>
-			<pubDate>Wed, 10 May 2017 21:56:03 +0900</pubDate>
+			<title>Ansibleでラクラク設定管理（ネットワーク管理を自動化せよ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030600067/050800003/</link>
+			<description><![CDATA[ネットワーク管理の自動化における設定フェーズでは、サービスに必要なコンフィグ（設定ファイル）を作成し、機器設定を反映させます。これらを「構成管理ツール」を使って自動化するのが一般的になっています。]]></description>
+			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>新しいアイデアは分かってもらえない、良さが分かるシーンを描こう（林浩一の“謳って踊れる”エンジニア）</title>
@@ -53,9 +53,9 @@
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Ansibleでラクラク設定管理（ネットワーク管理を自動化せよ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030600067/050800003/</link>
-			<description><![CDATA[ネットワーク管理の自動化における設定フェーズでは、サービスに必要なコンフィグ（設定ファイル）を作成し、機器設定を反映させます。これらを「構成管理ツール」を使って自動化するのが一般的になっています。]]></description>
+			<title>Dell、EMCのいいとこ取りで強力なパートナー制度を作った（インタビュー＆トーク）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/050900331/</link>
+			<description><![CDATA[　巨額買収で誕生した「Dell EMC」。新たなパートナー制度について、米Dell EMC グローバル チャネル担当プレジデントのジョン・バーン氏に聞いた。]]></description>
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,18 +95,6 @@
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Office 365の解約ってどれくらい大変？（Office 365 5つの疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400161/050800009/</link>
-			<description><![CDATA[　クラウドサービスの利点の一つに、解約の容易さがある。月額課金で利用できるOffice 365も、解約の手続き自体は簡単だ。しかし、解約後90日でOffice 365上のデータは削除されてしまう。慌てないように、なるべく解約前にデータをバックアップしておこう。]]></description>
-			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Dell、EMCのいいとこ取りで強力なパートナー制度を作った（インタビュー＆トーク）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/050900331/</link>
-			<description><![CDATA[　巨額買収で誕生した「Dell EMC」。新たなパートナー制度について、米Dell EMC グローバル チャネル担当プレジデントのジョン・バーン氏に聞いた。]]></description>
-			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>米スプリント、ケチケチ大作戦で年2000億円削減（孫正義の有言実行、米スプリント復活の軌跡）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042100157/042400004/</link>
 			<description><![CDATA[　ソフトバンクグループの米携帯電話子会社スプリントの業績が回復した背景には年2000億円規模の全社的なコスト削減の取り組みもあった。米カンザス州郊外にあるスプリント本社のオフィス。ある時から無料で配られていた菓子や飲料が消えた。]]></description>
@@ -116,6 +104,12 @@
 			<title>Java SE 9で変わる言語仕様の勘所、Milling Project Coinとは（最新Java情報局）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/050800037/</link>
 			<description><![CDATA[　この2017年の7月にはJava SE 9がリリースされます。今回からはJava SE 9の言語仕様の変更や、コアライブラリの新機能について紹介していきます。今回は言語仕様の変更「Milling Project Coin」について紹介します。]]></description>
+			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Office 365の解約ってどれくらい大変？（Office 365 5つの疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400161/050800009/</link>
+			<description><![CDATA[　クラウドサービスの利点の一つに、解約の容易さがある。月額課金で利用できるOffice 365も、解約の手続き自体は簡単だ。しかし、解約後90日でOffice 365上のデータは削除されてしまう。慌てないように、なるべく解約前にデータをバックアップしておこう。]]></description>
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -271,6 +265,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051101383/</link>
 			<description><![CDATA[　KDDIは2017年5月11日、NHK（日本放送協会）と共同で、次世代移動通信システム「5G」を活用して、放送分野における映像配信の高度化を推進するための実証実験を同月に開始すると発表した。]]></description>
 			<pubDate>Thu, 11 May 2017 17:37:30 +0900</pubDate>
+		</item>
+		<item>
+			<title>エッジのARM移行では標準化が重要、アドバンテックがIoTエッジサーバーの説明会（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051101385/</link>
+			<description><![CDATA[　アドバンテックは2017年5月11日、IoTプラットフォーム「エッジインテリジェンスサーバ EISシリーズ（以下、EIS）」の説明会を開催した。説明会では、日本法人の社長兼日本地区最高責任者のマイク小池氏が、IoTプラットフォームの普及に向けた同社の取り組みと「ELAA（Embedded Linux＆ Android Alliance）」の意義について説明した。]]></description>
+			<pubDate>Thu, 11 May 2017 22:13:48 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
