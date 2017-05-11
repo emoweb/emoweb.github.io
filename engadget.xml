@@ -5,37 +5,17 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    何もしなくても感染するWindows Defenderの脆弱性に修正パッチ公開。Windows 7以降はいますぐ適用を
+			<title>    1Gbps LTE対応の「最強モバイルルータ」Nighthawk M1をネットギアが公開、16時間駆動バッテリーは交換も可能
 </title>
-			<link>http://japanese.engadget.com/2017/05/09/windows-defender-windows-7/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/d42898c4a5a4b57042d7139f0fb59322/205246386/dims.jpg" />
+			<link>http://japanese.engadget.com/2017/05/09/1gbps-lte-nighthawk-m1-16/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/93ab361b6f1b5cf3645c456e677cf8e8/205246881/NHawk-M1_01_s.jpg" />
 
-Googleのゼロデイ攻撃撲滅チーム"Project Zero"が5月6日に公表した、Windows Defenderの「ド最悪なバグ」をマイクロソフトが修正しました。バグの内容は着信したメールまたはインスタントメッセージを開かずともマルウェアに感染しシステムを乗っ取られるという、まあとんでもないものです。
-　
+2017年5月9日、ネットワーク関連製品の大手メーカーであるネットギアが、日本向けの新製品発表を開催。その中で、最高1GbpsのLTE回線に対応したモバイルルーター『Nighthawk M1』をプレビューしました。
 
-
-.@natashenka Attack works against a default install, don't need to be on the same LAN, and it's wormable. 🔥
-- Tavis Ormandy (@taviso) 2017年5月6日
-
-
-　
-Google Project ZeroのTavis Ormandy氏によると、バグがあるのはWindows 7/ 8.1 /10、そしてRT(おそらくWindows 8も含まれると考えられるもののすでにサポート期間終了済)が備えるWindows Defenderのマルウェア対策エンジン。
-
-Windows Defenderでは一般的なセキュリティソフトウェア同様にシステム内の問題あるファイルを自動的に検出する機能を備えるものの、その機能に電子メールやメッセンジャーサービスに含まれるコードを実行させられる問題がありました。さらにそのバグを突けばマルウェアは自己複製し、ネットワークを通じて他の感染可能なWindowsマシンを探索、感染と複製を繰り返すというお決まりのパターンを実行できたとのことです。
-
-マイクロソフトの言い分ではWindows 8.1と10においてはControl Flow Guard機能によってシステムが悪用される可能性が"軽減"されるとのこと。とはいえユーザーの立場からすれば、感染の可能性がある以上はきちんとした修正パッチをさっさと提供することが望まれていました。Googleの公表から2日でリリースされた修正パッチは現在、Windows Updateから導入可能です。
-　
-
-
-Just released malware protection engine update to
-address RCE vuln &ndash; Defender will autoupdate. https://t.co/rzn5QWo6sV
-- Security Response (@msftsecresponse) 2017年5月9日
-
-　
-自動的にWindows Updateを適用する設定にしている人もそうでない人も、まずはいますぐパッチの適用を済ませたほうが良いでしょう。すでにパッチが当たっているかどうかは、Windows Defenderの設定からエンジンのバージョンが1.1.13704.0以上になっているかを確認してください。
-
+特徴はもちろんその速度。LTEモデム部の理論上速度は、ソニーモバイル『Xperia XZ Premium』と同等の最高1Gbps（下り側）、上り側は150Mbps。チップセットにはクアルコムの『Snapdragon x16 LTE Modem』ことMDM9x50を採用します。
+<p><a href="http://japanese.engadget.com/gallery/1gbps-lte-nighthawk-m1-0/" title="ネットギア 1Gbps LTE対応モバイルルーター NightHawk M1">【ギャラリー】ネットギア 1Gbps LTE対応モバイルルーター NightHawk M1 (14枚)</a></p>
  ]]></description>
-			<pubDate>Tue, 09 May 2017 16:15:00 +0900</pubDate>
+			<pubDate>Tue, 09 May 2017 18:01:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>    ｢Surface Pro 5なんてありません｣マイクロソフトのパノス・パナイ氏が発言。Pro新機種は劇的な進歩があったとき
@@ -51,19 +31,6 @@ Surfaceシリーズの生みの親、マイクロソフトのパノス・パナ�
 もしかするとSurface Pro 5はないにしても、現在の路線を踏襲しつつKaby Lake世代のCPUなどを採用して仕様を強化した「第2世代Surface Pro 4」が発表されるといったことは、あるのかもしれません。
 
 ちなみにマイクロソフトの上海イベントに関しては、開発中とうわさされる Surface Phone の話題も取り沙汰されています。ただ、こちらもイベントでの発表があるかと聞かれれば、微妙なところと言わざるをえない状況です。
- ]]></description>
-			<pubDate>Tue, 09 May 2017 18:01:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>    1Gbps LTE対応の「最強モバイルルータ」Nighthawk M1をネットギアが公開、16時間駆動バッテリーは交換も可能
-</title>
-			<link>http://japanese.engadget.com/2017/05/09/1gbps-lte-nighthawk-m1-16/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/93ab361b6f1b5cf3645c456e677cf8e8/205246881/NHawk-M1_01_s.jpg" />
-
-2017年5月9日、ネットワーク関連製品の大手メーカーであるネットギアが、日本向けの新製品発表を開催。その中で、最高1GbpsのLTE回線に対応したモバイルルーター『Nighthawk M1』をプレビューしました。
-
-特徴はもちろんその速度。LTEモデム部の理論上速度は、ソニーモバイル『Xperia XZ Premium』と同等の最高1Gbps（下り側）、上り側は150Mbps。チップセットにはクアルコムの『Snapdragon x16 LTE Modem』ことMDM9x50を採用します。
-<p><a href="http://japanese.engadget.com/gallery/1gbps-lte-nighthawk-m1-0/" title="ネットギア 1Gbps LTE対応モバイルルーター NightHawk M1">【ギャラリー】ネットギア 1Gbps LTE対応モバイルルーター NightHawk M1 (14枚)</a></p>
  ]]></description>
 			<pubDate>Tue, 09 May 2017 18:01:00 +0900</pubDate>
 		</item>
@@ -613,6 +580,16 @@ Twitterが他のコミュニケーション手段と異なるのは、不特定�
 
  ]]></description>
 			<pubDate>Thu, 11 May 2017 12:58:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    韓国で世界最大の自動運転車テスト都市「K-City」が10月にオープン。高速道路やバス専用車線なども完備
+</title>
+			<link>http://japanese.engadget.com/2017/05/11/k-city-10/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/a3587c82aa63fcca5ac7b7428f58fef2/205252627/00_41.jpg" />
+
+韓国のBusinessKoreaは、世界最大級の自動運転車用の走行実験施設「K-City」が、今年10月から運用開始することを伝えています。K-Cityは約110億ウォン（約11億円）が投入され、京畿道華城市に建設。約36万平方メートルの敷地内にてさまざまな環境で自動運転車のテストができるとのことです。
+ ]]></description>
+			<pubDate>Thu, 11 May 2017 13:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
