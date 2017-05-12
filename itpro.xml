@@ -5,6 +5,18 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>Dell、EMCのいいとこ取りで強力なパートナー制度を作った（インタビュー＆トーク）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/050900331/</link>
+			<description><![CDATA[　巨額買収で誕生した「Dell EMC」。新たなパートナー制度について、米Dell EMC グローバル チャネル担当プレジデントのジョン・バーン氏に聞いた。]]></description>
+			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>毎日使うWebブラウザーとメールソフト、「自動化」で時短促進（操作も動作も劇的に速くなる！パソコン時短術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000136/042500005/</link>
+			<description><![CDATA[　インターネットを毎日利用するという人も多いことだろう。頻繁に使うWebブラウザーやメールソフトでよく使う機能は、できる限り自動化して時短に役立てよう。今回は、グーグルの「Chrome」とマイクロソフトの「Outlook 2016」を例に、インターネットの時短テクを紹介する。]]></description>
+			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「それはセキュリティ対策じゃない」、固定観念を捨ててもらおう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/042400011/</link>
 			<description><![CDATA[　「それはセキュリティ対策ではないだろう」。経営層からこう切り捨てられてしまったとき、セキュリティ担当者はどう再考を促せばいいのか。今回は、セキュリティとは無関係に見えるが、実はセキュリティ対策の一環として確実性や効率性を高める機能を紹介する。]]></description>
@@ -47,9 +59,9 @@
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>新しいアイデアは分かってもらえない、良さが分かるシーンを描こう（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/042700002/</link>
-			<description><![CDATA[　顧客が優れたアイデアを持っていたとしても、自身で適切に表現できているとは限らない。そのままでは周囲に理解してもらいにくい。そこで、すばらしいアイデアが実現する世界を描き出してみせることが、提案力につながる。]]></description>
+			<title>Java SE 9で変わる言語仕様の勘所、Milling Project Coinとは（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/050800037/</link>
+			<description><![CDATA[　この2017年の7月にはJava SE 9がリリースされます。今回からはJava SE 9の言語仕様の変更や、コアライブラリの新機能について紹介していきます。今回は言語仕様の変更「Milling Project Coin」について紹介します。]]></description>
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -59,9 +71,9 @@
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Dell、EMCのいいとこ取りで強力なパートナー制度を作った（インタビュー＆トーク）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/050900331/</link>
-			<description><![CDATA[　巨額買収で誕生した「Dell EMC」。新たなパートナー制度について、米Dell EMC グローバル チャネル担当プレジデントのジョン・バーン氏に聞いた。]]></description>
+			<title>脅威のビジネスメール詐欺、帰ってきたタイポスクワッティング（今日も誰かが狙われる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/050800001/</link>
+			<description><![CDATA[　取引先などをかたった偽のメールを企業の財務担当者に送付し、攻撃者の口座に金銭を振り込ませるビジネスメール詐欺（BEC）。BECでは、本物と似たドメインを実際に取得し、そのドメインのメールアドレスから詐欺メールを送信する手口がよく使われる。10年以上前に流行した「タイポスクワッティング」と同じ手口だ。]]></description>
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,34 +101,10 @@
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Java SE 9で変わる言語仕様の勘所、Milling Project Coinとは（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/050800037/</link>
-			<description><![CDATA[　この2017年の7月にはJava SE 9がリリースされます。今回からはJava SE 9の言語仕様の変更や、コアライブラリの新機能について紹介していきます。今回は言語仕様の変更「Milling Project Coin」について紹介します。]]></description>
+			<title>新しいアイデアは分かってもらえない、良さが分かるシーンを描こう（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/042700002/</link>
+			<description><![CDATA[　顧客が優れたアイデアを持っていたとしても、自身で適切に表現できているとは限らない。そのままでは周囲に理解してもらいにくい。そこで、すばらしいアイデアが実現する世界を描き出してみせることが、提案力につながる。]]></description>
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>脅威のビジネスメール詐欺、帰ってきたタイポスクワッティング（今日も誰かが狙われる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/050800001/</link>
-			<description><![CDATA[　取引先などをかたった偽のメールを企業の財務担当者に送付し、攻撃者の口座に金銭を振り込ませるビジネスメール詐欺（BEC）。BECでは、本物と似たドメインを実際に取得し、そのドメインのメールアドレスから詐欺メールを送信する手口がよく使われる。10年以上前に流行した「タイポスクワッティング」と同じ手口だ。]]></description>
-			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>毎日使うWebブラウザーとメールソフト、「自動化」で時短促進（操作も動作も劇的に速くなる！パソコン時短術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000136/042500005/</link>
-			<description><![CDATA[　インターネットを毎日利用するという人も多いことだろう。頻繁に使うWebブラウザーやメールソフトでよく使う機能は、できる限り自動化して時短に役立てよう。今回は、グーグルの「Chrome」とマイクロソフトの「Outlook 2016」を例に、インターネットの時短テクを紹介する。]]></description>
-			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Amanekが音楽と一緒に位置情報を放送する「Musicジオ」開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051101377/</link>
-			<description><![CDATA[　アマネク・テレマティクスデザインは2017年5月11日、曲と一緒に、その曲に関連する位置情報を提供する「Musicジオ」を開始すると発表した。]]></description>
-			<pubDate>Thu, 11 May 2017 13:11:40 +0900</pubDate>
-		</item>
-		<item>
-			<title>「従来のSIだけでは破壊される」、富士通が危機感あらわに共創サービスを拡充（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051101378/</link>
-			<description><![CDATA[　　富士通は2017年5月11日、顧客と共にデジタルビジネスを創出する「共創サービス」の強化策について発表した。2016年5月に開始したサービス体系の中に、新たに三つのサービスメニューを追加した。]]></description>
-			<pubDate>Thu, 11 May 2017 15:36:47 +0900</pubDate>
 		</item>
 		<item>
 			<title>スカパーJSATがLeoSatと戦略的パートナーシップ構築と出資に合意（ニュース）</title>
@@ -161,6 +149,18 @@
 			<pubDate>Thu, 11 May 2017 22:13:48 +0900</pubDate>
 		</item>
 		<item>
+			<title>知るほどに怖くなる！？Struts2脆弱性のメカニズム（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051100966/</link>
+			<description><![CDATA[　フレームワーク「Apache Struts2」の脆弱性を原因とする情報流出が後を絶たない。その原因は、「任意のコードを実行される脆弱性」を生みやすいStruts2の内部構造にある。Struts2がどのような問題を抱え、どのように脆弱性が生まれるかを探った。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>2年前購入のスマホが便利に！Galaxy S6 edgeをAndroid 7.0にアップデート（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/042300053/</link>
+			<description><![CDATA[　筆者が所有しているau版のサムソン製「Galaxy S6 edge SCV31」に対して、Android 7.0へのアップデートがリリースされました。2年前の2015年4月に発売された機種で、アップデートされるかどうか不安だったのですが、アップデート予定のリストに入っており心待ちにしていました。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>WeChatをビッグデータ解析したら中国の行動様式が分かった（情総研レポート）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/042800051/</link>
 			<description><![CDATA[　中国の代表的なメッセージングアプリである「WeChat」（微信）。多くの中国人が大移動する春節（旧正月の新年）の期間には、微信をはじめ様々なスマホアプリが大いに活用される。そこで蓄積されたビッグデータを分析したレポートがいくつか報告されている。そこからは最新の行動様式が見て取れる。]]></description>
@@ -203,15 +203,15 @@
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>知るほどに怖くなる！？Struts2脆弱性のメカニズム（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051100966/</link>
-			<description><![CDATA[　フレームワーク「Apache Struts2」の脆弱性を原因とする情報流出が後を絶たない。その原因は、「任意のコードを実行される脆弱性」を生みやすいStruts2の内部構造にある。Struts2がどのような問題を抱え、どのように脆弱性が生まれるかを探った。]]></description>
+			<title>「賢い流用」がパソコン文書作成の効率化につながる（操作も動作も劇的に速くなる！パソコン時短術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000136/042500006/</link>
+			<description><![CDATA[　パソコンで文書を作成する手間を省くポイントは、一度入力したものをトコトン使い回すことだ。文書作成でよく使う文章やイラストがあるのなら、毎回入力するのは時間の無駄。登録機能を利用できないか確認しよう。]]></description>
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ロケット事情がさま変わり、ベゾスとマスクの狙いは？（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/050900306/</link>
-			<description><![CDATA[　米アマゾン・ドット・コムのジェフ・ベゾスCEO（最高経営責任者）、米テスラのイーロン・マスクCEOなど、IT企業やその経営者が力を入れている宇宙分野の技術開発。何が起きているのか、その最新動向をおさらいしよう。]]></description>
+			<title>ホンダも注目、インドネシアで急成長のバイクタクシー最新事情（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/050800245/</link>
+			<description><![CDATA[　東南アジアでは昔からバイクタクシーがよく利用されてきたが、スマホで簡単に呼べる新しいタイプのバイクタクシーがインドネシアで急成長している。Uberのバイク版といった位置付けのサービスだ。こうした動きは、製造業のビジネスモデルを変えつつあり、大手バイクメーカーのホンダも注目している。]]></description>
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -269,21 +269,9 @@
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ホンダも注目、インドネシアで急成長のバイクタクシー最新事情（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/050800245/</link>
-			<description><![CDATA[　東南アジアでは昔からバイクタクシーがよく利用されてきたが、スマホで簡単に呼べる新しいタイプのバイクタクシーがインドネシアで急成長している。Uberのバイク版といった位置付けのサービスだ。こうした動きは、製造業のビジネスモデルを変えつつあり、大手バイクメーカーのホンダも注目している。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>2年前購入のスマホが便利に！Galaxy S6 edgeをAndroid 7.0にアップデート（伊藤浩一のモバイルライフ応援日記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/042300053/</link>
-			<description><![CDATA[　筆者が所有しているau版のサムソン製「Galaxy S6 edge SCV31」に対して、Android 7.0へのアップデートがリリースされました。2年前の2015年4月に発売された機種で、アップデートされるかどうか不安だったのですが、アップデート予定のリストに入っており心待ちにしていました。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「賢い流用」がパソコン文書作成の効率化につながる（操作も動作も劇的に速くなる！パソコン時短術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000136/042500006/</link>
-			<description><![CDATA[　パソコンで文書を作成する手間を省くポイントは、一度入力したものをトコトン使い回すことだ。文書作成でよく使う文章やイラストがあるのなら、毎回入力するのは時間の無駄。登録機能を利用できないか確認しよう。]]></description>
+			<title>ロケット事情がさま変わり、ベゾスとマスクの狙いは？（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/050900306/</link>
+			<description><![CDATA[　米アマゾン・ドット・コムのジェフ・ベゾスCEO（最高経営責任者）、米テスラのイーロン・マスクCEOなど、IT企業やその経営者が力を入れている宇宙分野の技術開発。何が起きているのか、その最新動向をおさらいしよう。]]></description>
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -326,6 +314,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051201386/</link>
 			<description><![CDATA[　米Googleは現地時間2017年5月10日、仮想現実（VR）ゲーム開発の米Owlchemy Labsを買収したと発表した。Owlchemyも同日、Googleに加わることを公表したが、いずれも買収額などの詳細な条件については明らかにしていない。]]></description>
 			<pubDate>Fri, 12 May 2017 09:34:06 +0900</pubDate>
+		</item>
+		<item>
+			<title>「Windowsは全てのデバイスを愛している」、米MSがiOSやAndroidとの連携強化へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051201388/</link>
+			<description><![CDATA[　米Microsoftは2017年5月11日（米国時間）、開発者会議「Microsoft Build 2017」でモバイルデバイスに関する新しい戦略を打ち出した。WindowsとiOS、Androidをまたいで「コピー＆ペースト」ができる仕組みなどを2017年秋に提供する。]]></description>
+			<pubDate>Fri, 12 May 2017 09:56:40 +0900</pubDate>
+		</item>
+		<item>
+			<title>Amazonの「Prime Video」、ついにApple TVに登場か（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051201389/</link>
+			<description><![CDATA[　米Appleの映像配信端末「Apple TV」で、米Amazon.comの映像配信サービス「Prime Video」が利用可能になる見通しだと、米BuzzFeedが現地時間2017年5月11日に報じた。AppleとAmazon.comの間で何らかの話し合いがまとまった可能性があるという。]]></description>
+			<pubDate>Fri, 12 May 2017 09:56:46 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
