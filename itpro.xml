@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>「15年振りに最高益を更新」、東洋ビジネスエンジニアリングの2017年3月期決算（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051101380/</link>
-			<description><![CDATA[　東洋ビジネスエンジニアリング（B-EN-G）は2017年7月11日、2017年3月期の通期決算を発表した。連結売上高は前年同期比5.9％増の132億8900万円、連結営業利益は同34.6％増の7億1500万円だった。]]></description>
-			<pubDate>Thu, 11 May 2017 16:06:22 +0900</pubDate>
-		</item>
-		<item>
 			<title>米MS、「惑星規模」でスケールする「Azure Cosmos DB」を発表（シリコンバレーNextレポート）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/051100107/</link>
 			<description><![CDATA[　米Microsoftは2017年5月10日（米国時間）、新しいデータベース（DB）のクラウドサービス「Azure Cosmos DB」をMicrosoft Build 2017で発表した。Microsoft Azureの世界30カ所以上あるリージョンにデータを分散保存しながら、一貫性を保ってデータを利用できるという高い拡張性を持つのが特徴。]]></description>
@@ -39,6 +33,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051101385/</link>
 			<description><![CDATA[　アドバンテックは2017年5月11日、IoTプラットフォーム「エッジインテリジェンスサーバ EISシリーズ（以下、EIS）」の説明会を開催した。説明会では、日本法人の社長兼日本地区最高責任者のマイク小池氏が、IoTプラットフォームの普及に向けた同社の取り組みと「ELAA（Embedded Linux＆ Android Alliance）」の意義について説明した。]]></description>
 			<pubDate>Thu, 11 May 2017 22:13:48 +0900</pubDate>
+		</item>
+		<item>
+			<title>「Wi-Fiでハイレゾ音楽を飛ばす手軽な方法」を追求してみた（青木恵美の信州ITラプソディ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/051100029/</link>
+			<description><![CDATA[　YouTubeには多数の高音質動画のプレイリストがあり、パソコンなどでも結構な音質で楽しめる。筆者の仕事場のデスクトップPCには、ハイレゾ音楽対応のアンプがあり、バックグラウンド・ミュージックとしてそうした高音質プレイリストのお世話になっている。最近、これらを2階の居間でも楽しみたいと思うようになった。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>米全土で局地戦、小さな勝利を重ねる（孫正義の有言実行、米スプリント復活の軌跡）</title>
@@ -77,9 +77,9 @@
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「Wi-Fiでハイレゾ音楽を飛ばす手軽な方法」を追求してみた（青木恵美の信州ITラプソディ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/051100029/</link>
-			<description><![CDATA[　YouTubeには多数の高音質動画のプレイリストがあり、パソコンなどでも結構な音質で楽しめる。筆者の仕事場のデスクトップPCには、ハイレゾ音楽対応のアンプがあり、バックグラウンド・ミュージックとしてそうした高音質プレイリストのお世話になっている。最近、これらを2階の居間でも楽しみたいと思うようになった。]]></description>
+			<title>ロケット事情がさま変わり、ベゾスとマスクの狙いは？（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/050900306/</link>
+			<description><![CDATA[　米アマゾン・ドット・コムのジェフ・ベゾスCEO（最高経営責任者）、米テスラのイーロン・マスクCEOなど、IT企業やその経営者が力を入れている宇宙分野の技術開発。何が起きているのか、その最新動向をおさらいしよう。]]></description>
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ますます訳が分からない、SEはいったい何をする人？（編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/050800033/</link>
-			<description><![CDATA[「システムエンジニア（SE）って、よく分からないけど格好良さそうなので希望してみた」。1990年当時、友人のN君が金融機関の就職面接の後、言った言葉だ。あれから27年立つ今、SEという呼び名の職種は、定義や実態がまたよく分からなくなってきている。]]></description>
+			<title>「ジョブズ氏を目指す必要はない」、ポケモンGO生みの親ジョン・ハンケ氏（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/042800018/</link>
+			<description><![CDATA[　大ヒットゲーム「Pokemon GO（ポケモンGO）」がリリースされる3カ月前の2016年4月26日、開発元である米ナイアンティックのジョン・ハンケCEOが日経ITイノベーターズの会合で講演した。世界を代表するイノベーターが、自身の苦労談と「理想的なリーダーの姿」を語った。]]></description>
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ロケット事情がさま変わり、ベゾスとマスクの狙いは？（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/050900306/</link>
-			<description><![CDATA[　米アマゾン・ドット・コムのジェフ・ベゾスCEO（最高経営責任者）、米テスラのイーロン・マスクCEOなど、IT企業やその経営者が力を入れている宇宙分野の技術開発。何が起きているのか、その最新動向をおさらいしよう。]]></description>
+			<title>もう始まった！？登録セキスペのオンライン講習受けてみた（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/051000246/</link>
+			<description><![CDATA[　2017年度から始まった情報処理安全確保支援士制度の講習案内がもう届いた。この講習を受けないと、情報処理安全確保支援士の登録が取り消されてしまう。早速受講してみた。]]></description>
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -155,15 +155,9 @@
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「ジョブズ氏を目指す必要はない」、ポケモンGO生みの親ジョン・ハンケ氏（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/042800018/</link>
-			<description><![CDATA[　大ヒットゲーム「Pokemon GO（ポケモンGO）」がリリースされる3カ月前の2016年4月26日、開発元である米ナイアンティックのジョン・ハンケCEOが日経ITイノベーターズの会合で講演した。世界を代表するイノベーターが、自身の苦労談と「理想的なリーダーの姿」を語った。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>もう始まった！？登録セキスペのオンライン講習受けてみた（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/051000246/</link>
-			<description><![CDATA[　2017年度から始まった情報処理安全確保支援士制度の講習案内がもう届いた。この講習を受けないと、情報処理安全確保支援士の登録が取り消されてしまう。早速受講してみた。]]></description>
+			<title>ますます訳が分からない、SEはいったい何をする人？（編集長の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/050800033/</link>
+			<description><![CDATA[「システムエンジニア（SE）って、よく分からないけど格好良さそうなので希望してみた」。1990年当時、友人のN君が金融機関の就職面接の後、言った言葉だ。あれから27年立つ今、SEという呼び名の職種は、定義や実態がまたよく分からなくなってきている。]]></description>
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -259,6 +253,12 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 12 May 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>DeNAの2017年3月期決算はスマホゲーム成長で増益、キュレーション再開は未定（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051101384/</link>
+			<description><![CDATA[　ディー・エヌ・エー（DeNA）は2017年5月11日、2017年3月期通期の連結決算を発表した。売上高は前年同期比0.1%増の1438億600万円、営業利益は同17.0%増の231億7800万円だった。]]></description>
+			<pubDate>Fri, 12 May 2017 12:52:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
