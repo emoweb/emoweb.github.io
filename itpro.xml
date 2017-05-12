@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>「それはセキュリティ対策じゃない」、固定観念を捨ててもらおう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/042400011/</link>
+			<description><![CDATA[　「それはセキュリティ対策ではないだろう」。経営層からこう切り捨てられてしまったとき、セキュリティ担当者はどう再考を促せばいいのか。今回は、セキュリティとは無関係に見えるが、実はセキュリティ対策の一環として確実性や効率性を高める機能を紹介する。]]></description>
+			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>綺麗な資料よりも「寸劇」見せて周囲を巻き込む（デザイン思考）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400165/042400004/</link>
 			<description><![CDATA[　形のある製品を含むアイデアであれば、実際にユーザーが触れられるモックアップの作成を試みたい。サービスになるアイデアの場合、紙面上にイメージを描いたり、映像を作ったり、場合によっては寸劇（スキット）をしたりして、全体像を可視化する。]]></description>
@@ -59,15 +65,15 @@
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>毎日使うWebブラウザーとメールソフト、「自動化」で時短促進（操作も動作も劇的に速くなる！パソコン時短術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000136/042500005/</link>
-			<description><![CDATA[　インターネットを毎日利用するという人も多いことだろう。頻繁に使うWebブラウザーやメールソフトでよく使う機能は、できる限り自動化して時短に役立てよう。今回は、グーグルの「Chrome」とマイクロソフトの「Outlook 2016」を例に、インターネットの時短テクを紹介する。]]></description>
+			<title>開発ツールも「攻め」へ、マイクロソフトやIBM、NECが製品強化（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/050900963/</link>
+			<description><![CDATA[　米Microsoftの「Visual Studio」に代表される統合開発環境（IDE）が、「攻めのIT」と呼ばれるビジネス拡大に直結したアプリケーションを素早く開発できるよう機能を強化している。目玉は、クラウドサービスとの連携強化や、SPA（Single Page Application）の開発支援などの機能強化である。]]></description>
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「それはセキュリティ対策じゃない」、固定観念を捨ててもらおう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/042400011/</link>
-			<description><![CDATA[　「それはセキュリティ対策ではないだろう」。経営層からこう切り捨てられてしまったとき、セキュリティ担当者はどう再考を促せばいいのか。今回は、セキュリティとは無関係に見えるが、実はセキュリティ対策の一環として確実性や効率性を高める機能を紹介する。]]></description>
+			<title>あまりに危険なIoT、濃いコーヒーを飲まされる恐れ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/042700830/</link>
+			<description><![CDATA[　海外のニュースサイトは2017年3月下旬、ネットワークにつながる食洗機に脆弱性が見つかったと報じた。攻撃者に食洗機を乗っ取られて、皿を洗われてしまう危険性があるというのだ。2008年には、コーヒーメーカーの危険な脆弱性が報告されている。薄いコーヒーが好みでも、濃いコーヒーを飲まされる恐れがあったのだ。]]></description>
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,22 +101,10 @@
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>開発ツールも「攻め」へ、マイクロソフトやIBM、NECが製品強化（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/050900963/</link>
-			<description><![CDATA[　米Microsoftの「Visual Studio」に代表される統合開発環境（IDE）が、「攻めのIT」と呼ばれるビジネス拡大に直結したアプリケーションを素早く開発できるよう機能を強化している。目玉は、クラウドサービスとの連携強化や、SPA（Single Page Application）の開発支援などの機能強化である。]]></description>
+			<title>毎日使うWebブラウザーとメールソフト、「自動化」で時短促進（操作も動作も劇的に速くなる！パソコン時短術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000136/042500005/</link>
+			<description><![CDATA[　インターネットを毎日利用するという人も多いことだろう。頻繁に使うWebブラウザーやメールソフトでよく使う機能は、できる限り自動化して時短に役立てよう。今回は、グーグルの「Chrome」とマイクロソフトの「Outlook 2016」を例に、インターネットの時短テクを紹介する。]]></description>
 			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>あまりに危険なIoT、濃いコーヒーを飲まされる恐れ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/042700830/</link>
-			<description><![CDATA[　海外のニュースサイトは2017年3月下旬、ネットワークにつながる食洗機に脆弱性が見つかったと報じた。攻撃者に食洗機を乗っ取られて、皿を洗われてしまう危険性があるというのだ。2008年には、コーヒーメーカーの危険な脆弱性が報告されている。薄いコーヒーが好みでも、濃いコーヒーを飲まされる恐れがあったのだ。]]></description>
-			<pubDate>Thu, 11 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「300円のお買い上げになります」、NECが無人レジ用接客ロボットを日本MSと開発（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051101376/</link>
-			<description><![CDATA[　NECは、ロボットが買い物客に対し無人レジでの会計をサポートするシステムを開発した。2017年5月10日から開催している「2017 JapanITWeek春」の日本マイクロソフト（MS）ブースで参考出展している。]]></description>
-			<pubDate>Thu, 11 May 2017 12:44:17 +0900</pubDate>
 		</item>
 		<item>
 			<title>Amanekが音楽と一緒に位置情報を放送する「Musicジオ」開始（ニュース）</title>
@@ -167,6 +161,12 @@
 			<pubDate>Thu, 11 May 2017 22:13:48 +0900</pubDate>
 		</item>
 		<item>
+			<title>WeChatをビッグデータ解析したら中国の行動様式が分かった（情総研レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/042800051/</link>
+			<description><![CDATA[　中国の代表的なメッセージングアプリである「WeChat」（微信）。多くの中国人が大移動する春節（旧正月の新年）の期間には、微信をはじめ様々なスマホアプリが大いに活用される。そこで蓄積されたビッグデータを分析したレポートがいくつか報告されている。そこからは最新の行動様式が見て取れる。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>Azureが止まるとOffice 365は動かなくなる？（Office 365 5つの疑問）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400161/050800010/</link>
 			<description><![CDATA[　マイクロソフトのクラウドサービスといえば、Office 365のほかに「Microsoft Azure」が思い浮かぶ。2017年3月、日本国内でAzureの障害が複数回発生した。Azureで障害が発生したとき、Office 365に影響はなかったか。Office 365の販売パートナーに尋ねると、「Azureの障害でOffice 365が止まったという話はあまり聞いたことがない」という。ただ全くないというわけではない。Azureと連携する機能は、影響を受けてしまう。]]></description>
@@ -215,9 +215,9 @@
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>WeChatをビッグデータ解析したら中国の行動様式が分かった（情総研レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/042800051/</link>
-			<description><![CDATA[　中国の代表的なメッセージングアプリである「WeChat」（微信）。多くの中国人が大移動する春節（旧正月の新年）の期間には、微信をはじめ様々なスマホアプリが大いに活用される。そこで蓄積されたビッグデータを分析したレポートがいくつか報告されている。そこからは最新の行動様式が見て取れる。]]></description>
+			<title>トヨタの自動運転開発、カギ握るデンソーの協業作戦（激変！クルマ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/042500005/</link>
+			<description><![CDATA[　トヨタ自動車が進める自動運転開発を語る上で欠かせない会社がある。トヨタグループのデンソーだ。自動運転の世界で主導権を握るためには、センサーと認識技術の開発競争に勝たなければならない。デンソーは、トヨタグループ内でセンサーと認識技術の開発をリードしており、その取り組みに注目が集まる。]]></description>
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -287,12 +287,6 @@
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>トヨタの自動運転開発、カギ握るデンソーの協業作戦（激変！クルマ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/042500005/</link>
-			<description><![CDATA[　トヨタ自動車が進める自動運転開発を語る上で欠かせない会社がある。トヨタグループのデンソーだ。自動運転の世界で主導権を握るためには、センサーと認識技術の開発競争に勝たなければならない。デンソーは、トヨタグループ内でセンサーと認識技術の開発をリードしており、その取り組みに注目が集まる。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>気候変動が保険会社にもたらすリスク、IoTで緩和するには（下）（気候変動が保険会社にもたらすリスク、IoTで緩和するには）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/042500033/042500003/</link>
 			<description><![CDATA[<div>
@@ -326,6 +320,12 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 12 May 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google、人気VRゲーム「Job Simulator」の開発元を買収（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051201386/</link>
+			<description><![CDATA[　米Googleは現地時間2017年5月10日、仮想現実（VR）ゲーム開発の米Owlchemy Labsを買収したと発表した。Owlchemyも同日、Googleに加わることを公表したが、いずれも買収額などの詳細な条件については明らかにしていない。]]></description>
+			<pubDate>Fri, 12 May 2017 09:34:06 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
