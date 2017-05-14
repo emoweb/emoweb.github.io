@@ -5,9 +5,105 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>狭い机で楽々入力 割れるキーボード「BAROCCO」の実力（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/051100308/</link>
-			<description><![CDATA[　左右の2つのキーボードに分割して使える、変り種のキーボード「BAROCCO MD600」。この機構のおかげで、無理のない姿勢で楽にキー入力ができる。カスタマイズ機能も強力だ。]]></description>
+			<title>知るほどに怖くなる！？Struts2脆弱性のメカニズム（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051100966/</link>
+			<description><![CDATA[　フレームワーク「Apache Struts2」の脆弱性を原因とする情報流出が後を絶たない。その原因は、「任意のコードを実行される脆弱性」を生みやすいStruts2の内部構造にある。Struts2がどのような問題を抱え、どのように脆弱性が生まれるかを探った。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ラズパイがピュアオーディオに！OS「Volumio」を楽しむ（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/051000006/</link>
+			<description><![CDATA[　音楽ファイルの再生に特化したメディアプレーヤーOS「Volumio」を使うと、600円からのPCボード「Raspberry Pi」（ラズパイ）が音質重視のピュアオーディオ機器に生まれ変わります。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「賢い流用」がパソコン文書作成の効率化につながる（操作も動作も劇的に速くなる！パソコン時短術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000136/042500006/</link>
+			<description><![CDATA[　パソコンで文書を作成する手間を省くポイントは、一度入力したものをトコトン使い回すことだ。文書作成でよく使う文章やイラストがあるのなら、毎回入力するのは時間の無駄。登録機能を利用できないか確認しよう。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>もう始まった！？登録セキスペのオンライン講習受けてみた（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/051000246/</link>
+			<description><![CDATA[　2017年度から始まった情報処理安全確保支援士制度の講習案内がもう届いた。この講習を受けないと、情報処理安全確保支援士の登録が取り消されてしまう。早速受講してみた。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>どっちを選ぶ？ コンパクトでリッチなHUAWEI novaとコスパ抜群のnova lite（SIMフリースマートフォンを徹底レビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/051000040/</link>
+			<description><![CDATA[　今回レビューするのは、ファーウェイ製のHUAWEI novaとHUAWEI nova liteだ。実勢価格はnovaがnova liteよりも高く、novaが上位モデルであることは明らかだが、スペックを比べるとさほど差はない。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「ジョブズ氏を目指す必要はない」、ポケモンGO生みの親ジョン・ハンケ氏（日経ITイノベーターズ白熱議論＆講演）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/042800018/</link>
+			<description><![CDATA[　大ヒットゲーム「Pokemon GO（ポケモンGO）」がリリースされる3カ月前の2016年4月26日、開発元である米ナイアンティックのジョン・ハンケCEOが日経ITイノベーターズの会合で講演した。世界を代表するイノベーターが、自身の苦労談と「理想的なリーダーの姿」を語った。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>センサー普及で到来した「現代のカンブリア紀」（ICT研インサイト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000156/042100001/</link>
+			<description><![CDATA[　各種センサーの普及により、「人に関するデータ」が急増している。今後、それを活用したサービスが急拡大するだろう。そうしたサービスの爆発的な拡大を「現代のカンブリア紀の到来」と呼んでいる。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>2年前購入のスマホが便利に！Galaxy S6 edgeをAndroid 7.0にアップデート（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/042300053/</link>
+			<description><![CDATA[　筆者が所有しているau版のサムソン製「Galaxy S6 edge SCV31」に対して、Android 7.0へのアップデートがリリースされました。2年前の2015年4月に発売された機種で、アップデートされるかどうか不安だったのですが、アップデート予定のリストに入っており心待ちにしていました。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「デジタルではインドの先を行っている」、ベトナムIT最大手FPT会長（ベトナムIT最大手の野望）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050200178/050800003/</link>
+			<description><![CDATA[　「デジタルはこれからの15年を決める」――。ベトナムICT最大手FPTコーポレーションの会長で、同国のビル・ゲイツの異名を持つチュオン・ザー・ビン氏は、このように語る。ベトナムといえばオフショア開発の印象が強いが、自動運転などの最新技術への投資を盛んに進める。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>米全土で局地戦、小さな勝利を重ねる（孫正義の有言実行、米スプリント復活の軌跡）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042100157/042400005/</link>
+			<description><![CDATA[　コスト削減と通信網の改善によって戦うための体制を整えたソフトバンクグループの米携帯電話子会社スプリント。マルセロ・クラウレCEO（最高経営責任者）は2016年から新規顧客の獲得に向けた攻めの営業改革に乗り出した。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「Wi-Fiでハイレゾ音楽を飛ばす手軽な方法」を追求してみた（青木恵美の信州ITラプソディ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/051100029/</link>
+			<description><![CDATA[　YouTubeには多数の高音質動画のプレイリストがあり、パソコンなどでも結構な音質で楽しめる。筆者の仕事場のデスクトップPCには、ハイレゾ音楽対応のアンプがあり、バックグラウンド・ミュージックとしてそうした高音質プレイリストのお世話になっている。最近、これらを2階の居間でも楽しみたいと思うようになった。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ロケット事情がさま変わり、ベゾスとマスクの狙いは？（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/050900306/</link>
+			<description><![CDATA[　米アマゾン・ドット・コムのジェフ・ベゾスCEO（最高経営責任者）、米テスラのイーロン・マスクCEOなど、IT企業やその経営者が力を入れている宇宙分野の技術開発。何が起きているのか、その最新動向をおさらいしよう。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>クロネコヤマトの再配達、メールやLINEでゼロになる（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/051100307/</link>
+			<description><![CDATA[　通販などで届く荷物を受け取ろうにも、一人暮らしや共働き家庭では、日中は自宅に誰もいないケースも珍しくない。そこでヤマト運輸が提供している「宅急便」を便利に受け取るサービスを紹介する。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>トヨタの自動運転開発、カギ握るデンソーの協業作戦（激変！クルマ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/042500005/</link>
+			<description><![CDATA[　トヨタ自動車が進める自動運転開発を語る上で欠かせない会社がある。トヨタグループのデンソーだ。自動運転の世界で主導権を握るためには、センサーと認識技術の開発競争に勝たなければならない。デンソーは、トヨタグループ内でセンサーと認識技術の開発をリードしており、その取り組みに注目が集まる。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ホンダも注目、インドネシアで急成長のバイクタクシー最新事情（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/050800245/</link>
+			<description><![CDATA[　東南アジアでは昔からバイクタクシーがよく利用されてきたが、スマホで簡単に呼べる新しいタイプのバイクタクシーがインドネシアで急成長している。Uberのバイク版といった位置付けのサービスだ。こうした動きは、製造業のビジネスモデルを変えつつあり、大手バイクメーカーのホンダも注目している。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ますます訳が分からない、SEはいったい何をする人？（編集長の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/050800033/</link>
+			<description><![CDATA[「システムエンジニア（SE）って、よく分からないけど格好良さそうなので希望してみた」。1990年当時、友人のN君が金融機関の就職面接の後、言った言葉だ。あれから27年立つ今、SEという呼び名の職種は、定義や実態がまたよく分からなくなってきている。]]></description>
+			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>マイクロソフトとベリタス、EUデータ保護規則への対応支援に本腰（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051000965/</link>
+			<description><![CDATA[　マイクロソフトとベリタステクノロジーズは2017年4月、EU一般データ保護規則（GDPR）への対応支援サービスを公表した。自社の製品やクラウドサービスを利用する顧客企業がGDPRに対応する際の手間を削減するのが狙いだ。]]></description>
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -29,105 +125,9 @@
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>マイクロソフトとベリタス、EUデータ保護規則への対応支援に本腰（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051000965/</link>
-			<description><![CDATA[　マイクロソフトとベリタステクノロジーズは2017年4月、EU一般データ保護規則（GDPR）への対応支援サービスを公表した。自社の製品やクラウドサービスを利用する顧客企業がGDPRに対応する際の手間を削減するのが狙いだ。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ロケット事情がさま変わり、ベゾスとマスクの狙いは？（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/050900306/</link>
-			<description><![CDATA[　米アマゾン・ドット・コムのジェフ・ベゾスCEO（最高経営責任者）、米テスラのイーロン・マスクCEOなど、IT企業やその経営者が力を入れている宇宙分野の技術開発。何が起きているのか、その最新動向をおさらいしよう。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「Wi-Fiでハイレゾ音楽を飛ばす手軽な方法」を追求してみた（青木恵美の信州ITラプソディ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/051100029/</link>
-			<description><![CDATA[　YouTubeには多数の高音質動画のプレイリストがあり、パソコンなどでも結構な音質で楽しめる。筆者の仕事場のデスクトップPCには、ハイレゾ音楽対応のアンプがあり、バックグラウンド・ミュージックとしてそうした高音質プレイリストのお世話になっている。最近、これらを2階の居間でも楽しみたいと思うようになった。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>米全土で局地戦、小さな勝利を重ねる（孫正義の有言実行、米スプリント復活の軌跡）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042100157/042400005/</link>
-			<description><![CDATA[　コスト削減と通信網の改善によって戦うための体制を整えたソフトバンクグループの米携帯電話子会社スプリント。マルセロ・クラウレCEO（最高経営責任者）は2016年から新規顧客の獲得に向けた攻めの営業改革に乗り出した。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>知るほどに怖くなる！？Struts2脆弱性のメカニズム（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051100966/</link>
-			<description><![CDATA[　フレームワーク「Apache Struts2」の脆弱性を原因とする情報流出が後を絶たない。その原因は、「任意のコードを実行される脆弱性」を生みやすいStruts2の内部構造にある。Struts2がどのような問題を抱え、どのように脆弱性が生まれるかを探った。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>2年前購入のスマホが便利に！Galaxy S6 edgeをAndroid 7.0にアップデート（伊藤浩一のモバイルライフ応援日記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/042300053/</link>
-			<description><![CDATA[　筆者が所有しているau版のサムソン製「Galaxy S6 edge SCV31」に対して、Android 7.0へのアップデートがリリースされました。2年前の2015年4月に発売された機種で、アップデートされるかどうか不安だったのですが、アップデート予定のリストに入っており心待ちにしていました。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>センサー普及で到来した「現代のカンブリア紀」（ICT研インサイト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000156/042100001/</link>
-			<description><![CDATA[　各種センサーの普及により、「人に関するデータ」が急増している。今後、それを活用したサービスが急拡大するだろう。そうしたサービスの爆発的な拡大を「現代のカンブリア紀の到来」と呼んでいる。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「ジョブズ氏を目指す必要はない」、ポケモンGO生みの親ジョン・ハンケ氏（日経ITイノベーターズ白熱議論＆講演）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040500122/042800018/</link>
-			<description><![CDATA[　大ヒットゲーム「Pokemon GO（ポケモンGO）」がリリースされる3カ月前の2016年4月26日、開発元である米ナイアンティックのジョン・ハンケCEOが日経ITイノベーターズの会合で講演した。世界を代表するイノベーターが、自身の苦労談と「理想的なリーダーの姿」を語った。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>どっちを選ぶ？ コンパクトでリッチなHUAWEI novaとコスパ抜群のnova lite（SIMフリースマートフォンを徹底レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/051000040/</link>
-			<description><![CDATA[　今回レビューするのは、ファーウェイ製のHUAWEI novaとHUAWEI nova liteだ。実勢価格はnovaがnova liteよりも高く、novaが上位モデルであることは明らかだが、スペックを比べるとさほど差はない。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>もう始まった！？登録セキスペのオンライン講習受けてみた（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/051000246/</link>
-			<description><![CDATA[　2017年度から始まった情報処理安全確保支援士制度の講習案内がもう届いた。この講習を受けないと、情報処理安全確保支援士の登録が取り消されてしまう。早速受講してみた。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「賢い流用」がパソコン文書作成の効率化につながる（操作も動作も劇的に速くなる！パソコン時短術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000136/042500006/</link>
-			<description><![CDATA[　パソコンで文書を作成する手間を省くポイントは、一度入力したものをトコトン使い回すことだ。文書作成でよく使う文章やイラストがあるのなら、毎回入力するのは時間の無駄。登録機能を利用できないか確認しよう。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ラズパイがピュアオーディオに！OS「Volumio」を楽しむ（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/051000006/</link>
-			<description><![CDATA[　音楽ファイルの再生に特化したメディアプレーヤーOS「Volumio」を使うと、600円からのPCボード「Raspberry Pi」（ラズパイ）が音質重視のピュアオーディオ機器に生まれ変わります。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「デジタルではインドの先を行っている」、ベトナムIT最大手FPT会長（ベトナムIT最大手の野望）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050200178/050800003/</link>
-			<description><![CDATA[　「デジタルはこれからの15年を決める」――。ベトナムICT最大手FPTコーポレーションの会長で、同国のビル・ゲイツの異名を持つチュオン・ザー・ビン氏は、このように語る。ベトナムといえばオフショア開発の印象が強いが、自動運転などの最新技術への投資を盛んに進める。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ますます訳が分からない、SEはいったい何をする人？（編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/050800033/</link>
-			<description><![CDATA[「システムエンジニア（SE）って、よく分からないけど格好良さそうなので希望してみた」。1990年当時、友人のN君が金融機関の就職面接の後、言った言葉だ。あれから27年立つ今、SEという呼び名の職種は、定義や実態がまたよく分からなくなってきている。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ホンダも注目、インドネシアで急成長のバイクタクシー最新事情（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/050800245/</link>
-			<description><![CDATA[　東南アジアでは昔からバイクタクシーがよく利用されてきたが、スマホで簡単に呼べる新しいタイプのバイクタクシーがインドネシアで急成長している。Uberのバイク版といった位置付けのサービスだ。こうした動きは、製造業のビジネスモデルを変えつつあり、大手バイクメーカーのホンダも注目している。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>トヨタの自動運転開発、カギ握るデンソーの協業作戦（激変！クルマ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/042500005/</link>
-			<description><![CDATA[　トヨタ自動車が進める自動運転開発を語る上で欠かせない会社がある。トヨタグループのデンソーだ。自動運転の世界で主導権を握るためには、センサーと認識技術の開発競争に勝たなければならない。デンソーは、トヨタグループ内でセンサーと認識技術の開発をリードしており、その取り組みに注目が集まる。]]></description>
-			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>クロネコヤマトの再配達、メールやLINEでゼロになる（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/051100307/</link>
-			<description><![CDATA[　通販などで届く荷物を受け取ろうにも、一人暮らしや共働き家庭では、日中は自宅に誰もいないケースも珍しくない。そこでヤマト運輸が提供している「宅急便」を便利に受け取るサービスを紹介する。]]></description>
+			<title>狭い机で楽々入力 割れるキーボード「BAROCCO」の実力（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/051100308/</link>
+			<description><![CDATA[　左右の2つのキーボードに分割して使える、変り種のキーボード「BAROCCO MD600」。この機構のおかげで、無理のない姿勢で楽にキー入力ができる。カスタマイズ機能も強力だ。]]></description>
 			<pubDate>Fri, 12 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -265,6 +265,102 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051401395/</link>
 			<description><![CDATA[　情報処理推進機構（IPA）は2017年5月14日、緊急記者会見を開き、世界各国で感染が広がり、深刻な被害をもたらしているランサムウエアへの注意を呼びかけた。「月曜日の業務開始時、不審なメールを開かないように十分に注意して、トラブルを未然に防いでほしい」と訴えた。]]></description>
 			<pubDate>Sun, 14 May 2017 19:14:50 +0900</pubDate>
+		</item>
+		<item>
+			<title>Office 365の検索は複雑怪奇（ここがおかしい！？Office 365）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800180/050800002/</link>
+			<description><![CDATA[　メールボックスの整理を怠っていたら、必要なメールがなかなか見つからない。メールを使う上でありがちなトラブルだが、Office 365ではその複雑さに拍車が掛かっている。ローカルとクラウドのクライアントで検索の挙動が異なるからだ。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>チャンスは何度もやってくる？ムーアの法則で前向きに（若手情シスSEに送る幸せのヒント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/051200001/</link>
+			<description><![CDATA[　入社すると、社内のシステム化がかなり進んでいて、「先輩たちがほとんどやり尽くしてしまっているので、自分たちがやることはもう無さそうだ」と思っている方はいませんか？　そんなことはありません。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>自動運転市場の開拓に熱心な米IT、存在感なき日本IT（激変！クルマ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/042800008/</link>
+			<description><![CDATA[　米グーグル、米アップル、米エヌビディア、米インテル、中国百度（Baidu）…元々は自動車業界と縁のなかった大手IT企業が、続々と自動運転ビジネスに参入している。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IoT椅子で仕事はかどる、ダイキンとNECが共同研究（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051200968/</link>
+			<description><![CDATA[　AIとIoTで知的生産性を高めるオフィス空間を作る──。ダイキン工業とNECがユニークな共同研究を進めている。2017年春にダイキンの研究開発拠点「テクノロジー・イノベーションセンター（TIC）」（大阪府摂津市）に共同研究室を開設。データを収集・分析する活動をスタートさせた。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>社会システムをITで置き換えれば、多様な価値観が共存しやすく（出でよ！PeaceTechイノベーター）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200062/050100007/</link>
+			<description><![CDATA[　平和のためのテクノロジー利用である「PeaceTech」を体現している日本人経営者、3人目のゲストは河崎純真氏だ。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>働き方改革で「時間がなくて忙しい」は禁句（リクルートの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051000183/051000001/</link>
+			<description><![CDATA[　「時間がなくて忙しい」と言わず、時間を作りにいこう─。こんなスローガンを掲げて、働き方変革に取り組んでいるのが、リクルートマーケティングパートナーズだ。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>プログラムが“汚く”なる理由（プログラムを楽に綺麗にしよう）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900149/041900001/</link>
+			<description><![CDATA[　オフショアの増加やプロジェクトの短納期化、大規模化などプログラムの品質を低下させる要因が増加している。一方で継続的な機能拡張の必要性、セキュリティ脅威の増大などソースコードに求められる品質は高まっている。先進的な現場ではツールを活用したコードレビューの効率化に取り組んでいる]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>魅惑のC＃、デスクトップアプリやスマホ、サーバーサイドまで幅広く利用できる（魅惑のC＃）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200187/051200001/</link>
+			<description><![CDATA[　この連載では、数あるプログラミング言語の中から「C＃」を取り上げます。C＃は、2000年に発表されて以来、15年以上にも渡って進化を続けてきたプログラミング言語です。その特徴は多岐に渡り、この連載だけですべてを紹介するのは難しいかもしれません。ですが、プログラミング経験のある読者が、数多くのプログラミング言語の中から、C＃を選択する指針となるようなC＃の魅力を伝えていきたいと思います。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>韓国モバイルショッピングはAIレコメンドが基本、VRの買い物アプリも増加（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/051000146/</link>
+			<description><![CDATA[　韓国統計庁が2017年5月10日に公開した「2017年3月オンラインショッピング動向」によると、3月の取引額は6兆3257億ウォン（約6326億円）で過去最高額を記録した。オンラインショッピングの中でもスマートフォンを利用したモバイルショッピングの取引額が全体の59％を占めるほどに成長。モバイルショッピングで売れている商品カテゴリーは、幼児・児童用品、靴、食品・飲料、バッグの順だった。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>無知で未成熟な「AI脅威論」 3つの誤解と本当の課題（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/051000835/</link>
+			<description><![CDATA[　筆者は先月、総務省による人工知能（AI）開発ガイドライン素案策定の動きについて、Preferred Networks（PFN）最高戦略責任者の丸山宏氏による批判を紹介した。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>技術者が用の無い会社をとっとと辞めれば全てうまくいく（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/051100138/</link>
+			<description><![CDATA[　極言暴論を書き始めたころ、私は「内製原理主義者」の識者の日米比較論を木っ端微塵にした。日米比較論とは「米国では技術者の7割がユーザー企業にいてシステムを内製する。一方、日本では技術者の7割がITベンダーにいて、ユーザー企業は重要なシステムでもベンダーに丸投げする」というものだ。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>大企業や金融のIT投資が鈍化、中堅中小は投資に意欲的（企業ITの実態2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050900182/051000003/</link>
+			<description><![CDATA[　日本情報システム・ユーザー協会（JUAS）が実施した最新の調査結果をまとめた「企業IT動向調査2017」（概要は末尾）を基に、2017年度のIT戦略の重要テーマを5回にわたって紹介する。第1回はIT投資の動向について解説する。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「メンバーと何かを作り上げる」にやりがいと面白さ（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/050800006/</link>
+			<description><![CDATA[　農学部の大学院を卒業後、人と接する仕事を求めてNTTデータに入社。NTTデータのSEである二十軒悠里氏は、公共サービス系の顧客向けシステム開発の現場でリーダーを務める。大学時代に熱中していたチアリーディングのように、笑顔でチームをリードするのがモットーだ。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本にも中国にもキャズムは存在する（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/051000084/</link>
+			<description><![CDATA[　今年のゴールデンウイーク前に、久しぶりに大連のソフトウエアパークにあるNRI大連を訪問してきました。スタートしたときには1フロアの片側しかなかった狭いオフィスが今や3フロアになり、人数は500人体制に拡大しています。平均年齢は30歳前後、現地採用の役員はNRIグループでおそらく最年少役員になると思います。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>2024年に新しい電話サービスが始まる？（徹底検証！固定電話の未来）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100175/050100001/</link>
+			<description><![CDATA[　NTT東西は2017年4月6日、2024年初頭に始める「メタルIP電話」の提供条件を明らかにした。メタルIP電話とは、NTT東西が加入電話網（PSTN）のIP網への移行に伴って提供する電話サービスのこと。通話料の値下げでユーザーのメリットを改めて打ち出した格好だ。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>VPNサービスはコスト重視で選ぶと失敗する？（VPNの素朴な疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100001/</link>
+			<description><![CDATA[　VPNを構築するには、通信事業者のVPNサービスを利用する方法と、自分でVPNルーターを購入して構築する方法がある。自社の目的や重視する条件に合ったものを選ぼう。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
