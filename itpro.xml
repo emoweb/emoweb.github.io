@@ -5,151 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>15日の始業時に不審なメールを開かないで、IPAが世界的なランサムウエア攻撃に警告（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051401395/</link>
-			<description><![CDATA[　情報処理推進機構（IPA）は2017年5月14日、緊急記者会見を開き、世界各国で感染が広がり、深刻な被害をもたらしているランサムウエアへの注意を呼びかけた。「月曜日の業務開始時、不審なメールを開かないように十分に注意して、トラブルを未然に防いでほしい」と訴えた。]]></description>
-			<pubDate>Sun, 14 May 2017 19:14:50 +0900</pubDate>
-		</item>
-		<item>
-			<title>自動運転市場の開拓に熱心な米IT、存在感なき日本IT（激変！クルマ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/042800008/</link>
-			<description><![CDATA[　米グーグル、米アップル、米エヌビディア、米インテル、中国百度（Baidu）…元々は自動車業界と縁のなかった大手IT企業が、続々と自動運転ビジネスに参入している。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>技術者が用の無い会社をとっとと辞めれば全てうまくいく（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/051100138/</link>
-			<description><![CDATA[　極言暴論を書き始めたころ、私は「内製原理主義者」の識者の日米比較論を木っ端微塵にした。日米比較論とは「米国では技術者の7割がユーザー企業にいてシステムを内製する。一方、日本では技術者の7割がITベンダーにいて、ユーザー企業は重要なシステムでもベンダーに丸投げする」というものだ。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>2024年に新しい電話サービスが始まる？（徹底検証！固定電話の未来）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100175/050100001/</link>
-			<description><![CDATA[　NTT東西は2017年4月6日、2024年初頭に始める「メタルIP電話」の提供条件を明らかにした。メタルIP電話とは、NTT東西が加入電話網（PSTN）のIP網への移行に伴って提供する電話サービスのこと。通話料の値下げでユーザーのメリットを改めて打ち出した格好だ。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>プログラムが“汚く”なる理由（プログラムを楽に綺麗にしよう）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900149/041900001/</link>
-			<description><![CDATA[　オフショアの増加やプロジェクトの短納期化、大規模化などプログラムの品質を低下させる要因が増加している。一方で継続的な機能拡張の必要性、セキュリティ脅威の増大などソースコードに求められる品質は高まっている。先進的な現場ではツールを活用したコードレビューの効率化に取り組んでいる]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>VPNサービスはコスト重視で選ぶと失敗する？（VPNの素朴な疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100001/</link>
-			<description><![CDATA[　VPNを構築するには、通信事業者のVPNサービスを利用する方法と、自分でVPNルーターを購入して構築する方法がある。自社の目的や重視する条件に合ったものを選ぼう。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>働き方改革で「時間がなくて忙しい」は禁句（リクルートの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051000183/051000001/</link>
-			<description><![CDATA[　「時間がなくて忙しい」と言わず、時間を作りにいこう─。こんなスローガンを掲げて、働き方変革に取り組んでいるのが、リクルートマーケティングパートナーズだ。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>魅惑のC＃、デスクトップアプリやスマホ、サーバーサイドまで幅広く利用できる（魅惑のC＃）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200187/051200001/</link>
-			<description><![CDATA[　この連載では、数あるプログラミング言語の中から「C＃」を取り上げます。C＃は、2000年に発表されて以来、15年以上にも渡って進化を続けてきたプログラミング言語です。その特徴は多岐に渡り、この連載だけですべてを紹介するのは難しいかもしれません。ですが、プログラミング経験のある読者が、数多くのプログラミング言語の中から、C＃を選択する指針となるようなC＃の魅力を伝えていきたいと思います。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>チャンスは何度もやってくる？ムーアの法則で前向きに（若手情シスSEに送る幸せのヒント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/051200001/</link>
-			<description><![CDATA[　入社すると、社内のシステム化がかなり進んでいて、「先輩たちがほとんどやり尽くしてしまっているので、自分たちがやることはもう無さそうだ」と思っている方はいませんか？　そんなことはありません。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>社会システムをITで置き換えれば、多様な価値観が共存しやすく（出でよ！PeaceTechイノベーター）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200062/050100007/</link>
-			<description><![CDATA[　平和のためのテクノロジー利用である「PeaceTech」を体現している日本人経営者、3人目のゲストは河崎純真氏だ。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>大企業や金融のIT投資が鈍化、中堅中小は投資に意欲的（企業ITの実態2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050900182/051000003/</link>
-			<description><![CDATA[　日本情報システム・ユーザー協会（JUAS）が実施した最新の調査結果をまとめた「企業IT動向調査2017」（概要は末尾）を基に、2017年度のIT戦略の重要テーマを5回にわたって紹介する。第1回はIT投資の動向について解説する。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IoT椅子で仕事はかどる、ダイキンとNECが共同研究（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051200968/</link>
-			<description><![CDATA[　AIとIoTで知的生産性を高めるオフィス空間を作る──。ダイキン工業とNECがユニークな共同研究を進めている。2017年春にダイキンの研究開発拠点「テクノロジー・イノベーションセンター（TIC）」（大阪府摂津市）に共同研究室を開設。データを収集・分析する活動をスタートさせた。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>無知で未成熟な「AI脅威論」 3つの誤解と本当の課題（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/051000835/</link>
-			<description><![CDATA[　筆者は先月、総務省による人工知能（AI）開発ガイドライン素案策定の動きについて、Preferred Networks（PFN）最高戦略責任者の丸山宏氏による批判を紹介した。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本にも中国にもキャズムは存在する（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/051000084/</link>
-			<description><![CDATA[　今年のゴールデンウイーク前に、久しぶりに大連のソフトウエアパークにあるNRI大連を訪問してきました。スタートしたときには1フロアの片側しかなかった狭いオフィスが今や3フロアになり、人数は500人体制に拡大しています。平均年齢は30歳前後、現地採用の役員はNRIグループでおそらく最年少役員になると思います。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>韓国モバイルショッピングはAIレコメンドが基本、VRの買い物アプリも増加（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/051000146/</link>
-			<description><![CDATA[　韓国統計庁が2017年5月10日に公開した「2017年3月オンラインショッピング動向」によると、3月の取引額は6兆3257億ウォン（約6326億円）で過去最高額を記録した。オンラインショッピングの中でもスマートフォンを利用したモバイルショッピングの取引額が全体の59％を占めるほどに成長。モバイルショッピングで売れている商品カテゴリーは、幼児・児童用品、靴、食品・飲料、バッグの順だった。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Office 365の検索は複雑怪奇（ここがおかしい！？Office 365）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800180/050800002/</link>
-			<description><![CDATA[　メールボックスの整理を怠っていたら、必要なメールがなかなか見つからない。メールを使う上でありがちなトラブルだが、Office 365ではその複雑さに拍車が掛かっている。ローカルとクラウドのクライアントで検索の挙動が異なるからだ。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「メンバーと何かを作り上げる」にやりがいと面白さ（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/050800006/</link>
-			<description><![CDATA[　農学部の大学院を卒業後、人と接する仕事を求めてNTTデータに入社。NTTデータのSEである二十軒悠里氏は、公共サービス系の顧客向けシステム開発の現場でリーダーを務める。大学時代に熱中していたチアリーディングのように、笑顔でチームをリードするのがモットーだ。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>入社志望者に与えた印象が企業のブランドに及ぼす影響（上）（入社志望者に与えた印象が企業のブランドに及ぼす影響）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　インターネットは永遠だ。面白画像、ツイート、ブログ記事、PR、失言など、いったんネット上に公開されたら、決して消え去ることはない。この事実が何より重要なのは、企業の口コミ評価サイトに関してである。そう話すのは、米Future Workplaceのリサーチディレクター、Dan Schawbel氏だ。企業の口コミ評価サイトとは、企業各社の入社志望者や社員が、その会社に対する見解や感想、接触した時の体験談などを投稿するサイトである。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　Future Workplaceと、人事や採用に関する技術ソリューションを手がける米CareerArcは、企業側の616人と求職者側の438人の計1054人を対象とした調査「The Future of Recruiting」を実施した。その結果によると、求職者のうち、応募の前に企業のオンライン資産を訪問すると回答した人は61％で、2015年に比べて17％増えた。</p>
-
-<p>　また求職者は、応募前の現況把握として、他の応募者や現役社員の評価をますます頼りにしている。今回の調査結果によると、求職者の3人に1人は、以前勤務していた企業や応募先の企業についての否定的な評価を話したり投稿したりしたことがある。また、否定的な評価を目にした求職者の55％は、その会社に応募しないことを決めた。否定的な評価をネットに投稿した社員や求職者は、友人や同僚に評価を直接話しただけの人と比べると、自らの見解をソーシャルメディアでも拡散する可能性が66％高い。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900001/?ST=cio-social&P=2">求職者は、応募する会社の公式な姿勢よりも、他の応...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900001/?ST=cio-social&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900001/?ST=cio-social&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900001/?ST=cio-social&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900001/?ST=cio-social&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 15 May 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Apple、6月開催のWWDCでSiri搭載アシスタント機器など発表か（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051501396/</link>
-			<description><![CDATA[　米Appleは6月に開催する開発者会議で、アシスタントサービス「Siri」を利用できる単体機器など、新たなハードウエア製品を発表する見通しだと、9to5Mac、TechCrunch、BGRなどの米メディアが現地時間2017年5月13日までに報じた。 ]]></description>
-			<pubDate>Mon, 15 May 2017 09:20:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>世界規模のサイバー攻撃、「被害拡大に警戒を」当局が呼びかけ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051501397/</link>
-			<description><![CDATA[世界規模のサイバー攻撃、「被害拡大に警戒を」当局が呼びかけ]]></description>
-			<pubDate>Mon, 15 May 2017 10:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Trump米大統領、政府のセキュリティ強化に向けた大統領令に署名（Computerworldニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051500367/</link>
 			<description><![CDATA[<div>
@@ -271,6 +126,109 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051501408/</link>
 			<description><![CDATA[　みずほフィナンシャルグループ（FG）は2017年5月15日、決算会見後に開催した投資家向け説明会で、システム統合プロジェクトの総投資額が4000億円台半ばに膨らむ見通しであることを明らかにした。]]></description>
 			<pubDate>Mon, 15 May 2017 21:59:14 +0900</pubDate>
+		</item>
+		<item>
+			<title>自動運転の主役か？トヨタやアウディに接近するエヌビディア（激変！クルマ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/050900012/</link>
+			<description><![CDATA[　「クルマ×AI」の技術開発には複数の半導体企業が挑んでいる。なかでも急速に勢力を拡大しているのが米エヌビディアだ。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Office 365でネットワークが重くなる、回避策はある？（ここがおかしい！？Office 365）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800180/050900003/</link>
+			<description><![CDATA[　ビデオ会議やオンラインストレージのネットワーク帯域は十分なはず。それなのにネットワークが遅くなり、Office 365が使えなくなる――。意外な伏兵、予定表の共有機能がネットワークをダウンさせることがある。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>C＃でも基本中の基本、変数の型と演算子を覚える（魅惑のC＃）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200187/051200002/</link>
+			<description><![CDATA[　複雑なC＃プログラムを記述するには、文法を覚えなければなりません。第2回では、C＃言語の基礎である「型」や「演算子」、「分岐処理」を紹介します。C＃は、変数の宣言時に型付けを行うプログラミング言語です。このような言語を「強い型付けの言語」とも呼びます。
+]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>テレワーク利用制限を撤廃、リクルート子会社（リクルートの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051000183/051000002/</link>
+			<description><![CDATA[　リクルートマーケティングパートナーズは全社員がテレワークを利用できるよう人事制度を見直した。テレワーク導入企業でよく見かける「週2回まで」といった利用回数の上限はない。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>情シスSEの“特権”とは？まずは現場に足を運ぼう（若手情シスSEに送る幸せのヒント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/051500002/</link>
+			<description><![CDATA[　入社式後の集合研修で自社の製品や事業を説明されてもまだ実感は得られないもの。そんな皆さんには積極的に機会を作って現場に行くことをお勧めします。情シスにはそれが許される特権があるからです。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>リスクという「脅し」で経営は動く、後はプログラミングの出番（10人のIT部門が消滅～ひとり情シス顛末記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/051200018/</link>
+			<description><![CDATA[　IT部門が消滅し、たったひとり残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。当事者である著者が、読者から質問に答える。今回の問題は権限と責任。権限がなければ、IT投資もままならならず、責任だけを背負い込みかねないのだが…。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スマホの容量がいっぱいならワイヤレスストレージ、エレコム製は56gと超軽量（最新ワイヤレスストレージの実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200186/051200001/</link>
+			<description><![CDATA[　内蔵ストレージから待避したいデータを頻繁に読み書きするなら、ワイヤレスストレージが便利だ。ワイヤレスストレージは、パソコンやスマートフォン、タブレットからWi-Fiで接続できるストレージ。バッテリーを搭載しているので、電源を確保できない外出先でも活用しやすい。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>RPAが第2フェーズへ、AIと組み合わせた新サービスの実力は？（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051100967/</link>
+			<description><![CDATA[　ホワイトカラーの業務効率化の切り札として注目を集めている「RPA」。ITコンサルティングや人材教育などを手掛ける豆蔵はこのほど、RPAを人工知能（AI）と組み合わせる新サービスを開始した。「AI＋RPA」システムの導入コンサルティングや構築を支援する。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>プログラムを“美しく”する「SonarQube」とは（プログラムを楽に綺麗にしよう）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900149/041900002/</link>
+			<description><![CDATA[　プログラム品質を高めるには、コードレビューが有効だ。しかし、プロジェクトの規模が大きいとレビューアーの確保が難しくなる。この課題を解決する手段として「SonarQube」というツールが注目を集めている。レビュー作業の一部をシステムが代行するうえ、プログラムの品質を可視化してWebで共有できる。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>連載開始2年でスマートフォンのコミュニケーションはどう変わったのか（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/050800105/</link>
+			<description><![CDATA[　本連載がスタートしてから今回で100回目を迎える。この2年間でスマートフォンを取り巻くアプリやサービスは大きく変わった。どんな変化を遂げたのか、2回にわたって振り返る。今回はSNSなどのコミュニケーションサービスの在り方について見ていきたい。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>INSネット終了で困る業界はどこ？（徹底検証！固定電話の未来）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100175/050100002/</link>
+			<description><![CDATA[　NTT東西はこれまで、INSネットのディジタル通信モードの終了時期を「2020年度後半」と案内していたが、2024年初頭に後ろ倒しすると2017年4月6日に発表した。当面の対応策として、既存のISDN対応端末を継続利用できる「メタルIP電話上のデータ通信」（補完策）も2024年初頭に提供する予定である。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>デジタルビジネス創出、IT部門と事業部門の連携が成功の鍵（企業ITの実態2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050900182/050900001/</link>
+			<description><![CDATA[　IoTやAIを活用した「ビジネスのデジタル化」は、国内企業でどの程度進展しているのか。日本情報システム・ユーザー協会（JUAS）の「企業IT動向調査」の結果を基に、取り組みの進展度や取り組み内容、推進体制などを見ていく。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>さすがアップル純正アプリ、楽しいビデオが10分で作れる（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/050900116/</link>
+			<description><![CDATA[　アップルから新しい動画編集アプリ「Clips」が登場したので紹介しよう。このアプリは、短く楽しい動画を作成するのがコンセプトだ。インスタグラムなどSNSでの利用が主な想定のようだが、友人や家族にメールで送っても楽しいし、LINEにも貼り付けられる。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>固定IP料金をケチってインターネットVPNをどうして使えるの？（VPNの素朴な疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100002/</link>
+			<description><![CDATA[　インターネットVPNの構築では、各拠点を識別するグローバルアドレスが必要になる。このアドレスに固定アドレスを使うべきか、それとも動的アドレスでもよいのかは悩みがちなポイントだ。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>マイナンバーカード普及のカギ？ 誰も知らない「地域経済応援ポイント」（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/050900834/</link>
+			<description><![CDATA[　「地域経済応援ポイント」をご存じだろうか。9月以降に各地の自治体で実証事業が始まる。総務省はマイナンバーカードの普及・活用促進策の3本柱の一つに位置付けている。どのくらい魅力的なサービスなのだろうか。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スマートスピーカー（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/042700068/</link>
+			<description><![CDATA[　ネット接続機能と音声操作のアシスタント機能を持つスピーカー。スマホやパソコンの周辺機器として使うだけでなく、ユーザーの音声コマンドに応えて情報検索したり、連携する家電製品を操作したりできる。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>360度カメラ（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/050200070/</link>
+			<description><![CDATA[　複数のレンズを搭載し、シャッターを押すだけで全天球（上下左右360度）の静止画・動画が撮影できるカメラ。旅行先やイベントなどで新たなスナップ写真の楽しみ方を広げる。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
