@@ -5,64 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Windows 10 Fall Creators Update発表。以前の作業を全録するTimeline、デバイス間連携強化
-</title>
-			<link>http://japanese.engadget.com/2017/05/11/windows-10-fall-creators-update-timeline/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/b386018e94edeadae0817880003102e6/205259568/fallcreators.jpg" />
-　
-マイクロソフトの開発者向けイベントBuild 2017より。マイクロソフトがWindows 10向けの新たな大型アップデート Fall Creators Update を今年後半以降に提供すると発表しました。
-
-Fall Creators Updateはこの3月に提供を開始した最初のCreators Updateにつづく第2のCreators Update。発表された新機能としては、Office 365 Unified API 改め Microsoft Graph APIを活用し、WindowsのみならずiOS/Android他を含む複数デバイス間で作業を連携するCloud-powered Clipboard機能、ユーザーがPC上で行った作業を自動的に記録しておき、いつでも好きな時点まで遡って作業をやり直せるTimeline機能、また写真や動画を簡単に編集するRemix機能などが提供されます。
-
-なかでも特徴的なのはTimelineで、この機能を利用すると過去に実行していた作業状態がサムネイル形式で一覧表示され、そのなかから再開したい作業をクリックするだけでスムーズにその場面へと戻れるようになります。アプリケーションを切り替えたときにその時点の作業状態がそのまま保存されるようになっており、日にちを遡って再開することも可能です。
-
- 
-
-Introducing Timeline. Easily jump back in time to continue where you left off. #Windows10 #MSBuild pic.twitter.com/e3gxhXnp6W
-- Windows (@Windows) 2017年5月11日
-
-
-なお、Cortanaアプリを導入しているAndroidやiOSデバイスなどでも、Timelineに対応するアプリならデバイスをまたいで作業を続けるといった芸当もできるとのこと。
-
-これはmacOSが備えるバックアップ機能のTime Machineと、MacやiPhoneを密接に連携させるContinuityを組み合わせたかのような機能といえそうです。
-
- 
-
-Cortana will help you pick up where you left off, even as you switch from PC to phone. #Windows10 #MSBuild pic.twitter.com/71JsD5xtEh
-- Windows (@Windows) 2017年5月11日
-
-なお、Fall Creators Updateには新しいUIデザインFluent Design Systemが採用されます。Project Neonと呼ばれていたこのデザインは、UIにLight/Depth/Motion/Material/Scaleという5つの要素を視覚的に取り入れたもので、ユーザーの意識を適切なタイミングで適切なものに集中させる効果を備えるとのことです。
-
- 
-
-Introducing the Microsoft Fluent Design System! Draw the right focus to the right thing at the right time. #MSBuild pic.twitter.com/tzHRAb4Pm0
-- Windows Developer (@windowsdev) 2017年5月11日
-
-
- 
-
-Coming to #Windows10, Story Remix will help you find inspiration and explore new ways to create great stories. #MSBuild pic.twitter.com/xliM5Nnrcg
-- Windows (@Windows) 2017年5月11日
-
-
-(更新中)
- ]]></description>
-			<pubDate>Fri, 12 May 2017 05:45:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>    MR/VR用両手持ちモーションコントローラーをMSが発表、開発者向け価格はヘッドセット込みで399ドル
-</title>
-			<link>http://japanese.engadget.com/2017/05/11/mr-vr-ms-399/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/dbea27f628a316a15a24f62719fda38f/205259638/Win_Mot_Con_01_s.jpg" />
-マイクロソフトが、2017年中に発売予定のWindows用Mixed Reality（MR）/VRヘッドセットに向けたモーションコントローラー『Windows Mixed Reality Motion Controllers』を発表しました。
-先行して発表された同ヘッドセットとの組み合わせを前提とした、両手持ち型のモデルとなります。
-
-価格は、エイサーの開発者向けバージョンが、ヘッドセットとのバンドルで399ドル。同社の開発者向けヘッドセットは単体で299ドルのため、実質価格（差額）は100ドルとなります。
-<p><a href="http://japanese.engadget.com/gallery/windows-mixed-reality-motion-controllers/" title="Windows Mixed Reality Motion Controllers">【ギャラリー】Windows Mixed Reality Motion Controllers (9枚)</a></p>
- ]]></description>
-			<pubDate>Fri, 12 May 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    ニューヨーク州、自動運転車の公道テストを受け入れへ。2018年3月まで、厳しい冬と交通量でAIを進歩
 </title>
 			<link>http://japanese.engadget.com/2017/05/11/2018-3-ai/</link>
@@ -80,6 +22,19 @@ Coming to #Windows10, Story Remix will help you find inspiration and explore new
 
  
 
+ ]]></description>
+			<pubDate>Fri, 12 May 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    MR/VR用両手持ちモーションコントローラーをMSが発表、開発者向け価格はヘッドセット込みで399ドル
+</title>
+			<link>http://japanese.engadget.com/2017/05/11/mr-vr-ms-399/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/dbea27f628a316a15a24f62719fda38f/205259638/Win_Mot_Con_01_s.jpg" />
+マイクロソフトが、2017年中に発売予定のWindows用Mixed Reality（MR）/VRヘッドセットに向けたモーションコントローラー『Windows Mixed Reality Motion Controllers』を発表しました。
+先行して発表された同ヘッドセットとの組み合わせを前提とした、両手持ち型のモデルとなります。
+
+価格は、エイサーの開発者向けバージョンが、ヘッドセットとのバンドルで399ドル。同社の開発者向けヘッドセットは単体で299ドルのため、実質価格（差額）は100ドルとなります。
+<p><a href="http://japanese.engadget.com/gallery/windows-mixed-reality-motion-controllers/" title="Windows Mixed Reality Motion Controllers">【ギャラリー】Windows Mixed Reality Motion Controllers (9枚)</a></p>
  ]]></description>
 			<pubDate>Fri, 12 May 2017 06:00:00 +0900</pubDate>
 		</item>
@@ -601,6 +556,26 @@ The WannaCrypt Ransomware Attack &ndash; Here's All You Need To Know https://t.c
  
  ]]></description>
 			<pubDate>Mon, 15 May 2017 17:50:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    10.5インチの新 iPad Pro はWWDC発表、6月発売？ Siriスピーカーは「確率50%以上」(KGIアナリスト)
+</title>
+			<link>http://japanese.engadget.com/2017/05/15/10-5-ipad-pro-wwdc-6-siri-50-kgi/</link>
+			<description><![CDATA[     <img src="http://www.blogcdn.com/www.engadget.com/media/2010/04/ipad-launched-01-top.jpg" />
+
+米国時間6月5日から始まるアップルの開発者カンファレンス WWDC 2017 では、各OSやサービスのアップデートに加えて、うわさの新型 iPad Pro や新しいカテゴリの製品がデビューするかもしれません。
+
+アップル関連の予測で知られるアナリスト Ming-Chi Kuo 氏は、昨年から伝えている「10.5インチ iPad Pro」のWWDC発表を70%以上、アマゾン Echo のような「Siriスピーカー」初公開を50%以上の確率と見積もっています。(画像は2010年の初代iPad発売時)
+
+
+
+
+
+
+
+ 
+ ]]></description>
+			<pubDate>Mon, 15 May 2017 19:01:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
