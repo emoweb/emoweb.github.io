@@ -5,47 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>VMwareも参入、企業向けのIoTインフラ管理ソリューション（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051200366/</link>
-			<description><![CDATA[<div>
-<p>
-　IoTには管理上の悩みが本質的に付きものだと思う。何千何万という数の小型機器が都市や企業の広範囲に展開していることだけでも頭が痛い。加えて、ネットワーク接続や、エッジ部のゲートウェイなど、IoTデバイスを支える一連のインフラもある。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051200366/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Magdalena Petrova</div>
-</div>
-<p>
-　米General Electric（GE）、フィンランドNokia、米Cisco SystemsのJasper部門など、大手企業の中には、こうしたIoTの構成要素一式を運用していくための製品やサービスを提供しているところがある。そして、新たに米VMwareも、この課題に挑戦することになった。
-</p>
-<p>
-　VMwareは現地時間2017年5月9日、カンファレンス「Dell EMC World」の中で、新たなIoT管理ソリューション「VMware Pulse IoT Center」を発表した。企業がIoTインフラの展開、管理、セキュリティ対策に利用できる製品で、アプリケーションを含むIoTインフラ全体を管理できる。出荷開始は2017年中の予定で、価格はまだ明らかになっていない。
-</p>
-<p>
-　Pulse IoT Centerは、同社が既に販売している2種類のプラットフォームを活用している。デバイス管理用の既存製品「VMware AirWatch」と、インフラの監視やトラブルシューティング用の既存製品「vRealize Operations」だ。
-</p>
-<p>
-　IoTを機能させるためには、IT担当チームと運用担当チームの協力が欠かせない。Pulse IoT Centerでは、両チームの担当者が、単一のコンソールを使って、デバイスの視覚化や、インフラの分析とリアルタイム修正を行うことができる。また、ポリシーに基づいてアップデートやセキュリティパッチを無線通信経由で適用することもできる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051200366/?ST=cm-hardware&P=2">そのほか、セキュリティの脅威にさらされたデバイスからすべてのデー...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051200366/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051200366/?ST=cm-hardware&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051200366/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 12 May 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>DeNAの2017年3月期決算はスマホゲーム成長で増益、キュレーション再開は未定（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051101384/</link>
 			<description><![CDATA[　ディー・エヌ・エー（DeNA）は2017年5月11日、2017年3月期通期の連結決算を発表した。売上高は前年同期比0.1%増の1438億600万円、営業利益は同17.0%増の231億7800万円だった。]]></description>
@@ -88,6 +47,12 @@
 			<pubDate>Sun, 14 May 2017 19:14:50 +0900</pubDate>
 		</item>
 		<item>
+			<title>大企業や金融のIT投資が鈍化、中堅中小は投資に意欲的（企業ITの実態2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050900182/051000003/</link>
+			<description><![CDATA[　日本情報システム・ユーザー協会（JUAS）が実施した最新の調査結果をまとめた「企業IT動向調査2017」（概要は末尾）を基に、2017年度のIT戦略の重要テーマを5回にわたって紹介する。第1回はIT投資の動向について解説する。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>VPNサービスはコスト重視で選ぶと失敗する？（VPNの素朴な疑問）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100001/</link>
 			<description><![CDATA[　VPNを構築するには、通信事業者のVPNサービスを利用する方法と、自分でVPNルーターを購入して構築する方法がある。自社の目的や重視する条件に合ったものを選ぼう。]]></description>
@@ -106,9 +71,9 @@
 			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>大企業や金融のIT投資が鈍化、中堅中小は投資に意欲的（企業ITの実態2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050900182/051000003/</link>
-			<description><![CDATA[　日本情報システム・ユーザー協会（JUAS）が実施した最新の調査結果をまとめた「企業IT動向調査2017」（概要は末尾）を基に、2017年度のIT戦略の重要テーマを5回にわたって紹介する。第1回はIT投資の動向について解説する。]]></description>
+			<title>韓国モバイルショッピングはAIレコメンドが基本、VRの買い物アプリも増加（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/051000146/</link>
+			<description><![CDATA[　韓国統計庁が2017年5月10日に公開した「2017年3月オンラインショッピング動向」によると、3月の取引額は6兆3257億ウォン（約6326億円）で過去最高額を記録した。オンラインショッピングの中でもスマートフォンを利用したモバイルショッピングの取引額が全体の59％を占めるほどに成長。モバイルショッピングで売れている商品カテゴリーは、幼児・児童用品、靴、食品・飲料、バッグの順だった。]]></description>
 			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -130,15 +95,15 @@
 			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>技術者が用の無い会社をとっとと辞めれば全てうまくいく（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/051100138/</link>
-			<description><![CDATA[　極言暴論を書き始めたころ、私は「内製原理主義者」の識者の日米比較論を木っ端微塵にした。日米比較論とは「米国では技術者の7割がユーザー企業にいてシステムを内製する。一方、日本では技術者の7割がITベンダーにいて、ユーザー企業は重要なシステムでもベンダーに丸投げする」というものだ。]]></description>
+			<title>プログラムが“汚く”なる理由（プログラムを楽に綺麗にしよう）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900149/041900001/</link>
+			<description><![CDATA[　オフショアの増加やプロジェクトの短納期化、大規模化などプログラムの品質を低下させる要因が増加している。一方で継続的な機能拡張の必要性、セキュリティ脅威の増大などソースコードに求められる品質は高まっている。先進的な現場ではツールを活用したコードレビューの効率化に取り組んでいる]]></description>
 			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>韓国モバイルショッピングはAIレコメンドが基本、VRの買い物アプリも増加（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/051000146/</link>
-			<description><![CDATA[　韓国統計庁が2017年5月10日に公開した「2017年3月オンラインショッピング動向」によると、3月の取引額は6兆3257億ウォン（約6326億円）で過去最高額を記録した。オンラインショッピングの中でもスマートフォンを利用したモバイルショッピングの取引額が全体の59％を占めるほどに成長。モバイルショッピングで売れている商品カテゴリーは、幼児・児童用品、靴、食品・飲料、バッグの順だった。]]></description>
+			<title>日本にも中国にもキャズムは存在する（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/051000084/</link>
+			<description><![CDATA[　今年のゴールデンウイーク前に、久しぶりに大連のソフトウエアパークにあるNRI大連を訪問してきました。スタートしたときには1フロアの片側しかなかった狭いオフィスが今や3フロアになり、人数は500人体制に拡大しています。平均年齢は30歳前後、現地採用の役員はNRIグループでおそらく最年少役員になると思います。]]></description>
 			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -172,15 +137,9 @@
 			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>プログラムが“汚く”なる理由（プログラムを楽に綺麗にしよう）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900149/041900001/</link>
-			<description><![CDATA[　オフショアの増加やプロジェクトの短納期化、大規模化などプログラムの品質を低下させる要因が増加している。一方で継続的な機能拡張の必要性、セキュリティ脅威の増大などソースコードに求められる品質は高まっている。先進的な現場ではツールを活用したコードレビューの効率化に取り組んでいる]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本にも中国にもキャズムは存在する（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/051000084/</link>
-			<description><![CDATA[　今年のゴールデンウイーク前に、久しぶりに大連のソフトウエアパークにあるNRI大連を訪問してきました。スタートしたときには1フロアの片側しかなかった狭いオフィスが今や3フロアになり、人数は500人体制に拡大しています。平均年齢は30歳前後、現地採用の役員はNRIグループでおそらく最年少役員になると思います。]]></description>
+			<title>技術者が用の無い会社をとっとと辞めれば全てうまくいく（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/051100138/</link>
+			<description><![CDATA[　極言暴論を書き始めたころ、私は「内製原理主義者」の識者の日米比較論を木っ端微塵にした。日米比較論とは「米国では技術者の7割がユーザー企業にいてシステムを内製する。一方、日本では技術者の7割がITベンダーにいて、ユーザー企業は重要なシステムでもベンダーに丸投げする」というものだ。]]></description>
 			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -288,6 +247,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051501399/</link>
 			<description><![CDATA[　日本マイクロソフトは2017年5月15日、ランサムウエア「Wanna Crypt」亜種による世界同時多発攻撃に関する声明を発表した。同年3月に提供済みのバグ修正プログラムの適用を促し、サポート切れのWindows XP/8/Server 2003への救済措置を告知している。]]></description>
 			<pubDate>Mon, 15 May 2017 15:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>サイバーダインとワークスが業務資本提携、生体情報を健康管理に活用へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051501401/</link>
+			<description><![CDATA[　ワークスアプリケーションズと装着型ロボット開発のCYBERDYNE（サイバーダイン）は2017年5月15日、業務提携を発表した。]]></description>
+			<pubDate>Mon, 15 May 2017 16:35:16 +0900</pubDate>
 		</item>
 	</channel>
 </rss>

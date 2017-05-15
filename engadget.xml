@@ -5,29 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    マイクロソフトがWindows Store版iTunesを発表。Windows 10 Sにも対応、2017年内に提供予定
-</title>
-			<link>http://japanese.engadget.com/2017/05/11/windows-store-itunes-windows-10-s-2017/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/46863e48814d1b47d767507ba8e712dc/205259170/main.jpg" />
-マイクロソフトの開発者向けイベントBuild 2017より。アップルがWindows Store版iTunesを配信すると発表しました。
-
-アップルがWindows Storeにアプリケーションを供給するとは、これまで殆どの人が想像もしなかったとは思われます。ただ、マイクロソフトが先日発表した学生向けOS「Windows 10 S」は、Windows Storeストアアプリ以外のインストールができない制約があるため、アップルとしては将来の大口ユーザーになりうる学生にのiPhoneやiPadを使ってもらうためiTunesをWindows Storeさせる必要性が生じました。
-
-ともあれWindows StoreでiTunesが配信されることで、WindowsユーザーはiPhoneやiPadを同期・バックアップするために、もしくはApple Musicを再生するためにブラウザーでアップルのサイトを訪れ、ソフトをダウンロード、インストールする手間が省けるようになります。
-
-またすでにiPhone/iPad、Apple Musicを使っている学生も安心してWindows 10 S搭載PCを購入できるようになります。
-
-Windows Store版iTunesがデスクトップアプリ版とどう異なるかについてはマイクロソフトから言及はありませんでしたが、提供開始時期は2017年内とのこと。
-
- 
-
-iTunes is coming to the Windows Store by the end of this year. #MSBuild pic.twitter.com/WHM533S7Sv
-- Windows (@Windows) 2017年5月11日
-
- ]]></description>
-			<pubDate>Fri, 12 May 2017 04:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    Windows 10 Fall Creators Update発表。以前の作業を全録するTimeline、デバイス間連携強化
 </title>
 			<link>http://japanese.engadget.com/2017/05/11/windows-10-fall-creators-update-timeline/</link>
@@ -73,6 +50,19 @@ Coming to #Windows10, Story Remix will help you find inspiration and explore new
 			<pubDate>Fri, 12 May 2017 05:45:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>    MR/VR用両手持ちモーションコントローラーをMSが発表、開発者向け価格はヘッドセット込みで399ドル
+</title>
+			<link>http://japanese.engadget.com/2017/05/11/mr-vr-ms-399/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/dbea27f628a316a15a24f62719fda38f/205259638/Win_Mot_Con_01_s.jpg" />
+マイクロソフトが、2017年中に発売予定のWindows用Mixed Reality（MR）/VRヘッドセットに向けたモーションコントローラー『Windows Mixed Reality Motion Controllers』を発表しました。
+先行して発表された同ヘッドセットとの組み合わせを前提とした、両手持ち型のモデルとなります。
+
+価格は、エイサーの開発者向けバージョンが、ヘッドセットとのバンドルで399ドル。同社の開発者向けヘッドセットは単体で299ドルのため、実質価格（差額）は100ドルとなります。
+<p><a href="http://japanese.engadget.com/gallery/windows-mixed-reality-motion-controllers/" title="Windows Mixed Reality Motion Controllers">【ギャラリー】Windows Mixed Reality Motion Controllers (9枚)</a></p>
+ ]]></description>
+			<pubDate>Fri, 12 May 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>    ニューヨーク州、自動運転車の公道テストを受け入れへ。2018年3月まで、厳しい冬と交通量でAIを進歩
 </title>
 			<link>http://japanese.engadget.com/2017/05/11/2018-3-ai/</link>
@@ -90,19 +80,6 @@ Coming to #Windows10, Story Remix will help you find inspiration and explore new
 
  
 
- ]]></description>
-			<pubDate>Fri, 12 May 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>    MR/VR用両手持ちモーションコントローラーをMSが発表、開発者向け価格はヘッドセット込みで399ドル
-</title>
-			<link>http://japanese.engadget.com/2017/05/11/mr-vr-ms-399/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/dbea27f628a316a15a24f62719fda38f/205259638/Win_Mot_Con_01_s.jpg" />
-マイクロソフトが、2017年中に発売予定のWindows用Mixed Reality（MR）/VRヘッドセットに向けたモーションコントローラー『Windows Mixed Reality Motion Controllers』を発表しました。
-先行して発表された同ヘッドセットとの組み合わせを前提とした、両手持ち型のモデルとなります。
-
-価格は、エイサーの開発者向けバージョンが、ヘッドセットとのバンドルで399ドル。同社の開発者向けヘッドセットは単体で299ドルのため、実質価格（差額）は100ドルとなります。
-<p><a href="http://japanese.engadget.com/gallery/windows-mixed-reality-motion-controllers/" title="Windows Mixed Reality Motion Controllers">【ギャラリー】Windows Mixed Reality Motion Controllers (9枚)</a></p>
  ]]></description>
 			<pubDate>Fri, 12 May 2017 06:00:00 +0900</pubDate>
 		</item>
@@ -569,6 +546,61 @@ SNS投稿に最適化したというカメラは前後とも5MP。背面はデ�
 ただ、サムスンは今年始めTizen OS搭載のスマートフォン、スマートテレビ、スマートウォッチなどに合計40件以上もの脆弱性が見つかったとイスラエルの研究者から指摘されています。さらに問題は研究者が指摘に対するサムスンからの返答がないとしていた点。サムスンは研究者がセキュリティに関する講演でこのことについて言及したのを聞いてはじめて研究者に連絡したとのことで、Z4に搭載されるTizen 3.0のセキュリティ対策はどうなのかが少し気になるところです。
  ]]></description>
 			<pubDate>Mon, 15 May 2017 17:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    日本マイクロソフト､WannaCry対策ガイダンス公開｡Windows 10に影響なし､Defenderは最新定義で対応済
+</title>
+			<link>http://japanese.engadget.com/2017/05/15/wannacry-windows-10-defender/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/181181d795809a9b7ae85a1c403baeef/205267443/main2.jpg" />
+日本マイクロソフトが、世界的に猛威を振るうランサムウェア(身代金要求マルウェア)WannaCry(別名WannaCrypt)への対策ガイドラインを公開、ユーザーがWannaCry対策として取るべきアクションを解説しています。
+
+まずマイクロソフトが最初に求めているのは、WannaCryが突いてくるSMB v1 の脆弱性 (MS17-010) を塞ぐこと。既報のとおり、マイクロソフトは問題の大きさを考慮してWindows XPを含むサポート切れOSにもパッチを提供していますので、まだ修正プログラムを適用していない場合は速やかに適用することをすすめています。
+
+また「現時点では WannaCrypt で使用されている悪用コードは Windows 10 には無効であることを確認」しているとのこと。ただ今後はWannaCryの亜種が出現してくる可能性もあるため、セキュリティ関連の情報には常に注意しておくに越したことはありません。
+
+Windows Defenderに関しては米国時間5月12日にWanaCry対応の定義ファイルをリリース済みとのことなので、こちらの適用もしておくことでさらに安心が得られるはずです。一方、主要なセキュリティ対策ソフトメーカーもすでに対応する定義ファイルをリリース済みなので、いずれも自動もしくは手動でアップデートをしておくことをおすすめします。
+
+あとは心構えと言うか、基本中の基本とされる対策。身に覚えのない相手からの電子メールやその添付ファイルは安易に開かないこと。どうしても気になる場合は管理者や他の詳しいユーザーにアドバイスを受けることも大切です。
+
+なお、マイクロソフトは追加情報として脆弱性を塞ぐパッチMS17-010の適用ができない場合に手動でSMBv1を塞ぐ方法を解説しています。Windows 8.1およびServer 2012 R2を使用している場合は以下の手順で対策ができます。
+
+クライアント オペレーティング システムで:
+
+
+[コントロール パネル] を開き、[プログラム] をクリックし、次に [Windows の機能の有効化または無効化] をクリックします。
+Windows の設定画面で [SMB1.0/CIFS ファイル共有のサポート] のチェックボックスを "オフ" にし、[OK] をクリックしてウィンドウを閉じます。
+コンピューターを再起動します。
+
+
+
+
+サーバー オペレーティング システムで:
+
+
+[サーバーマネージャー] を開き、[管理] メニューをクリックし、[役割と機能の削除] を選択します。
+設定画面で [SMB1.0/CIFS ファイル共有のサポート] のチェックボックスを "オフ" にし、[OK] をクリックしてウィンドウを閉じます。
+コンピューターを再起動します。
+
+
+ 
+
+
+The WannaCrypt Ransomware Attack &ndash; Here's All You Need To Know https://t.co/nFLUApnEor#wannaCry #wannacrypt #wannacryptor #wannadecryptor pic.twitter.com/oawAMgSCIU
+- Intellitek (@IntelliTeK_AU) 2017年5月15日
+
+
+
+以下の記事もご参考に。
+
+・マイクロソフト、サポート切れのWindows XP他に「異例のセキュリティパッチ」公開。世界的にランサムウェア被害拡大中
+
+・マイクロソフト、WannaCry被害でNSA批判 「トマホークミサイルを盗まれたのと同じ」
+
+
+[Image : Twitter(Intellitek)]
+ 
+ ]]></description>
+			<pubDate>Mon, 15 May 2017 17:50:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
