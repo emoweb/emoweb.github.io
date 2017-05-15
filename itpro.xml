@@ -5,16 +5,28 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>日立の2017年3月期決算は減収減益、売上高の1割を「Lumada」が稼ぐ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051201394/</link>
-			<description><![CDATA[　日立製作所は2017年5月12日、2017年3月期通期（2016年4月～2017年3月）の連結決算を発表した。売上高は9兆1622億円（前年同期比8720億円減）、営業利益は5873億円（同475億円減）、営業利益率は6.4％（同0.1ポイント増）だった。]]></description>
-			<pubDate>Fri, 12 May 2017 20:52:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>15日の始業時に不審なメールを開かないで、IPAが世界的なランサムウエア攻撃に警告（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051401395/</link>
 			<description><![CDATA[　情報処理推進機構（IPA）は2017年5月14日、緊急記者会見を開き、世界各国で感染が広がり、深刻な被害をもたらしているランサムウエアへの注意を呼びかけた。「月曜日の業務開始時、不審なメールを開かないように十分に注意して、トラブルを未然に防いでほしい」と訴えた。]]></description>
 			<pubDate>Sun, 14 May 2017 19:14:50 +0900</pubDate>
+		</item>
+		<item>
+			<title>技術者が用の無い会社をとっとと辞めれば全てうまくいく（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/051100138/</link>
+			<description><![CDATA[　極言暴論を書き始めたころ、私は「内製原理主義者」の識者の日米比較論を木っ端微塵にした。日米比較論とは「米国では技術者の7割がユーザー企業にいてシステムを内製する。一方、日本では技術者の7割がITベンダーにいて、ユーザー企業は重要なシステムでもベンダーに丸投げする」というものだ。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>2024年に新しい電話サービスが始まる？（徹底検証！固定電話の未来）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100175/050100001/</link>
+			<description><![CDATA[　NTT東西は2017年4月6日、2024年初頭に始める「メタルIP電話」の提供条件を明らかにした。メタルIP電話とは、NTT東西が加入電話網（PSTN）のIP網への移行に伴って提供する電話サービスのこと。通話料の値下げでユーザーのメリットを改めて打ち出した格好だ。]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>プログラムが“汚く”なる理由（プログラムを楽に綺麗にしよう）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900149/041900001/</link>
+			<description><![CDATA[　オフショアの増加やプロジェクトの短納期化、大規模化などプログラムの品質を低下させる要因が増加している。一方で継続的な機能拡張の必要性、セキュリティ脅威の増大などソースコードに求められる品質は高まっている。先進的な現場ではツールを活用したコードレビューの効率化に取り組んでいる]]></description>
+			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>VPNサービスはコスト重視で選ぶと失敗する？（VPNの素朴な疑問）</title>
@@ -41,9 +53,9 @@
 			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>技術者が用の無い会社をとっとと辞めれば全てうまくいく（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/051100138/</link>
-			<description><![CDATA[　極言暴論を書き始めたころ、私は「内製原理主義者」の識者の日米比較論を木っ端微塵にした。日米比較論とは「米国では技術者の7割がユーザー企業にいてシステムを内製する。一方、日本では技術者の7割がITベンダーにいて、ユーザー企業は重要なシステムでもベンダーに丸投げする」というものだ。]]></description>
+			<title>社会システムをITで置き換えれば、多様な価値観が共存しやすく（出でよ！PeaceTechイノベーター）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200062/050100007/</link>
+			<description><![CDATA[　平和のためのテクノロジー利用である「PeaceTech」を体現している日本人経営者、3人目のゲストは河崎純真氏だ。]]></description>
 			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -92,24 +104,6 @@
 			<title>チャンスは何度もやってくる？ムーアの法則で前向きに（若手情シスSEに送る幸せのヒント）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/051200001/</link>
 			<description><![CDATA[　入社すると、社内のシステム化がかなり進んでいて、「先輩たちがほとんどやり尽くしてしまっているので、自分たちがやることはもう無さそうだ」と思っている方はいませんか？　そんなことはありません。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>プログラムが“汚く”なる理由（プログラムを楽に綺麗にしよう）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900149/041900001/</link>
-			<description><![CDATA[　オフショアの増加やプロジェクトの短納期化、大規模化などプログラムの品質を低下させる要因が増加している。一方で継続的な機能拡張の必要性、セキュリティ脅威の増大などソースコードに求められる品質は高まっている。先進的な現場ではツールを活用したコードレビューの効率化に取り組んでいる]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>2024年に新しい電話サービスが始まる？（徹底検証！固定電話の未来）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100175/050100001/</link>
-			<description><![CDATA[　NTT東西は2017年4月6日、2024年初頭に始める「メタルIP電話」の提供条件を明らかにした。メタルIP電話とは、NTT東西が加入電話網（PSTN）のIP網への移行に伴って提供する電話サービスのこと。通話料の値下げでユーザーのメリットを改めて打ち出した格好だ。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>社会システムをITで置き換えれば、多様な価値観が共存しやすく（出でよ！PeaceTechイノベーター）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200062/050100007/</link>
-			<description><![CDATA[　平和のためのテクノロジー利用である「PeaceTech」を体現している日本人経営者、3人目のゲストは河崎純真氏だ。]]></description>
 			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -225,6 +219,18 @@
 			<pubDate>Mon, 15 May 2017 16:35:16 +0900</pubDate>
 		</item>
 		<item>
+			<title>JVCケンウッド子会社、有線フルデジタル会議システム「PM-5000」を発売（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051501402/</link>
+			<description><![CDATA[　JVCケンウッド・公共産業システムは2017年5月15日、「JVCブランド」から、有線方式フルデジタル会議システム「PM-5000」シリーズを5月下旬に発売すると発表した。同時に、会議システムソフトウエア「jmee（ジェイミー）」も発売する。いずれも価格はオープン。]]></description>
+			<pubDate>Mon, 15 May 2017 17:48:15 +0900</pubDate>
+		</item>
+		<item>
+			<title>富士通、個人向けPC「FMV」シリーズからノート3機種と一体型1機種（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051501403/</link>
+			<description><![CDATA[　富士通および富士通クライアントコンピューティングは2017年5月15日、個人向けパソコン「FMV」シリーズの新製品として、15.6型ノート「LIFEBOOK AH」シリーズ3機種と、23.8型液晶一体型デスクトップ「ESPRIMO FH52/B2」を5月18日発売すると発表した。第7世代Coreプロセッサーを搭載するなど、基本性能を強化した。]]></description>
+			<pubDate>Mon, 15 May 2017 17:48:25 +0900</pubDate>
+		</item>
+		<item>
 			<title>国内襲い始めたWannaCry、日立やJR東など600カ所2000端末で感染（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051500971/</link>
 			<description><![CDATA[　2017年5月12日に発生した世界的なランサム（身代金）ウエア攻撃は週明けの日本に被害をもたらした。日本のインシデント（事故）情報を収集・対応するJPCERTコーディネーションセンターによれば5月13日正午時点で約600カ所、2000端末が感染したという。]]></description>
@@ -253,6 +259,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051501406/</link>
 			<description><![CDATA[　ローソンの玉塚元一会長は2017年5月15日、ハーツユナイテッドグループ（HUG）の社長就任に当たって会見した。HUGの主力事業であるソフトウエアデバッグ市場を、サーフィンに適した波立っている海に例えて「大きな成長戦略を描ける市場」と説明。デバッグ技術者の人材マネジメント、サービス体系化、営業力強化の3本柱に取り組む。]]></description>
 			<pubDate>Mon, 15 May 2017 20:14:03 +0900</pubDate>
+		</item>
+		<item>
+			<title>「日本はルーターに守られた」、WannaCry流行でトレンドマイクロが分析（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051501407/</link>
+			<description><![CDATA[　トレンドマイクロは2017年5月15日、世界規模で被害が相次いだランサムウエア「WannaCry（ワナクライ）」の説明会を開催した。5月12日から15日16時までに、同社の法人・個人ユーザーから175件の問い合わせと9件の被害報告があったという。]]></description>
+			<pubDate>Mon, 15 May 2017 21:16:58 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
