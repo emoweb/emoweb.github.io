@@ -5,18 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    予告通りの299ドルで、Windows MRヘッドセット開発者版が米国とカナダで予約開始。出荷は8月
-</title>
-			<link>http://japanese.engadget.com/2017/05/11/299-windows-mr-8/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/f2cf2e184e4b6f47f15d49bd38599bde/205259876/WinMR_01_s.jpg" />
-マイクロソフトが米国シアトルで開催中の開発者向け会議『Build 2017』より。以前より同社が予告していたWindows Mixed Reality用ヘッドセットの開発者向けモデル予約が、ついに開始されました。
-
-今回の対象国は米国とカナダで、価格は最安価となるエイサー版が299ドル、高機能なHP版が329ドル。マイクロソフトが昨年10月予告した「299ドルから」の公約が果たされた格好です。なお原稿執筆時でのリリース日は、両モデルとも「8月」。
-<p><a href="http://japanese.engadget.com/gallery/windows-mixed-reality/" title="Windows Mixed Reality ヘッドセット（開発者版）予約開始">【ギャラリー】Windows Mixed Reality ヘッドセット（開発者版）予約開始 (13枚)</a></p>
- ]]></description>
-			<pubDate>Fri, 12 May 2017 08:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    映画『BLAME!』VR体験がHTC VIVE用で登場。重力子放射線射出装置も撃てる！
 </title>
 			<link>http://japanese.engadget.com/2017/05/11/blame-vr/</link>
@@ -573,6 +561,28 @@ auは、4Gネットワークの下り最大通信速度を590Mbps（理論値、
  
  ]]></description>
 			<pubDate>Tue, 16 May 2017 12:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    WannaCryランサムウェアから北朝鮮ハッカーのコード見つかる。断定は時期尚早も、背景には国家的な関与？
+</title>
+			<link>http://japanese.engadget.com/2017/05/16/wannacry/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/b3c964a2383e6ca29b051d348a39a99/205270737/mainnk.jpg" />
+　
+日本でも大企業をはじめとして多くの感染被害があったと伝えられているWannaCryランサムウェアですが、依然として謎なのが、誰がそれを作ったのかということ。米国の諜報機関 NSA が流出させた EternalBlueのコードを利用したという情報は早くからあったものの、それ以外の出どころに関する情報はあまり出てきていませんでした。
+
+しかし、Googleのセキュリティ研究者Neel Mehtaが伝えたところによると、初期バージョンのWannaCryのコードには2015年にソニー・ピクチャーズのハッキングに使われたコードとの類似性があったとのこと。このハッキングの実行犯は北朝鮮のサイバー攻撃グループ「Lazarus」とされており、WannaCryにも北朝鮮が関与している可能性が出てきました。
+
+もちろん、WannaCryを作った何者かが「北」のコードを拝借したということも十分にありえます。ただ、カスペルスキーのセキュリティ専門家は、新しいバージョンのWannaCryからは当該部分のコードが削除されており、意図的に取り除いたとすれば少なくとも北の関与の可能性が高いのではないかと推測しています。
+
+また、WannaCryにはいずれのバージョンにも拡散を停止させるフラグ、いわゆるキルスイッチが含まれている一方で、身代金の入金を自動的に確認するしくみを備えていません。本当に金銭目的なのであれば、有効には機能していないと考えられます。むしろ業務停止などの被害拡大を狙う意図があるのかもしれません。
+
+もちろん、記事執筆時点でわかっているのはいずれも状況証拠であり、北朝鮮の関与というのも研究者たちの推測の域を出ていません。ただ、北かどうかはともかくWannaCryの向こう側には組織的ななにかがある可能性のほうが高いとは言えそうです。
+
+ちなみに、セキュリティ企業 Hemidal Securityの研究者はWannaCryからキルスイッチを取り除いた亜種Uiwixを発見したと発表しています。キルスイッチは、使われていないドメイン名を使う仕組みになっており、そのドメインを誰かが所有することで感染拡大を止めることができました。しかし、Uiwixではその手法が使えないことになります。とはいえ対策方法はこれまでどおりなので、慌てる必要はありません。
+
+WannaCry騒ぎが沈静化したとしても、コンピュータに脆弱性があるかぎり、ランサムウェアを含む悪意のあるソフトウェアの危険性は常にあります。会社では権限の問題もあるものの、せめて自分が使うPCぐらいはしっかりとパッチを当て、最新の状態に保っておきたいものです。
+ ]]></description>
+			<pubDate>Tue, 16 May 2017 14:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
