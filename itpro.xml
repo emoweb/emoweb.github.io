@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：無知で未成熟な「AI脅威論」 3つの誤解と本当の課題（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/051000835/?d16</link>
-			<description><![CDATA[　筆者は先月、総務省による人工知能（AI）開発ガイドライン素案策定の動きについて、Preferred Networks（PFN）最高戦略責任者の丸山宏氏による批判を紹介した。]]></description>
-			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ランサムウエア「WannaCry」が感染拡大した理由（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051500970/</link>
-			<description><![CDATA[　ランサムウエア「WannaCry」が世界中で被害をもたらしている。これだけ被害が大きくなっているのは、Windowsの脆弱性を突いて勝手に感染を拡大するため。このためセキュリティ更新プログラムを適用して脆弱性を解消するのが第一だ。]]></description>
-			<pubDate>Mon, 15 May 2017 15:21:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>「XPにも例外的にパッチ提供」、マイクロソフトがWannaCryで対処策（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051501399/</link>
 			<description><![CDATA[　日本マイクロソフトは2017年5月15日、ランサムウエア「Wanna Crypt」亜種による世界同時多発攻撃に関する声明を発表した。同年3月に提供済みのバグ修正プログラムの適用を促し、サポート切れのWindows XP/8/Server 2003への救済措置を告知している。]]></description>
@@ -45,12 +33,6 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051500971/</link>
 			<description><![CDATA[　2017年5月12日に発生した世界的なランサム（身代金）ウエア攻撃は週明けの日本に被害をもたらした。日本のインシデント（事故）情報を収集・対応するJPCERTコーディネーションセンターによれば5月13日正午時点で約600カ所、2000端末が感染したという。]]></description>
 			<pubDate>Mon, 15 May 2017 18:30:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ランサムウエア「WannaCry」関連記事（ITproアーカイブス）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040700124/051500002/</link>
-			<description><![CDATA[　ランサムウエア「WannaCry」関連の記事をまとめました。ITproアーカイブスは、ITpro内の記事のリンク集です。内容は随時更新します。]]></description>
-			<pubDate>Mon, 15 May 2017 19:00:54 +0900</pubDate>
 		</item>
 		<item>
 			<title>「ようやく完了がみえてきた」、みずほ銀行の次期システムで佐藤社長（ニュース）</title>
@@ -83,21 +65,33 @@
 			<pubDate>Mon, 15 May 2017 21:59:14 +0900</pubDate>
 		</item>
 		<item>
-			<title>360度カメラ（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/050200070/</link>
-			<description><![CDATA[　複数のレンズを搭載し、シャッターを押すだけで全天球（上下左右360度）の静止画・動画が撮影できるカメラ。旅行先やイベントなどで新たなスナップ写真の楽しみ方を広げる。]]></description>
-			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>自動運転の主役か？トヨタやアウディに接近するエヌビディア（激変！クルマ×AI 業界地図）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/050900012/</link>
 			<description><![CDATA[　「クルマ×AI」の技術開発には複数の半導体企業が挑んでいる。なかでも急速に勢力を拡大しているのが米エヌビディアだ。]]></description>
 			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>スマートスピーカー（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/042700068/</link>
-			<description><![CDATA[　ネット接続機能と音声操作のアシスタント機能を持つスピーカー。スマホやパソコンの周辺機器として使うだけでなく、ユーザーの音声コマンドに応えて情報検索したり、連携する家電製品を操作したりできる。]]></description>
+			<title>固定IP料金をケチってインターネットVPNをどうして使えるの？（VPNの素朴な疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100002/</link>
+			<description><![CDATA[　インターネットVPNの構築では、各拠点を識別するグローバルアドレスが必要になる。このアドレスに固定アドレスを使うべきか、それとも動的アドレスでもよいのかは悩みがちなポイントだ。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>360度カメラ（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/050200070/</link>
+			<description><![CDATA[　複数のレンズを搭載し、シャッターを押すだけで全天球（上下左右360度）の静止画・動画が撮影できるカメラ。旅行先やイベントなどで新たなスナップ写真の楽しみ方を広げる。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Office 365でネットワークが重くなる、回避策はある？（ここがおかしい！？Office 365）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800180/050900003/</link>
+			<description><![CDATA[　ビデオ会議やオンラインストレージのネットワーク帯域は十分なはず。それなのにネットワークが遅くなり、Office 365が使えなくなる――。意外な伏兵、予定表の共有機能がネットワークをダウンさせることがある。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>デジタルビジネス創出、IT部門と事業部門の連携が成功の鍵（企業ITの実態2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050900182/050900001/</link>
+			<description><![CDATA[　IoTやAIを活用した「ビジネスのデジタル化」は、国内企業でどの程度進展しているのか。日本情報システム・ユーザー協会（JUAS）の「企業IT動向調査」の結果を基に、取り組みの進展度や取り組み内容、推進体制などを見ていく。]]></description>
 			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -107,9 +101,9 @@
 			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Office 365でネットワークが重くなる、回避策はある？（ここがおかしい！？Office 365）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800180/050900003/</link>
-			<description><![CDATA[　ビデオ会議やオンラインストレージのネットワーク帯域は十分なはず。それなのにネットワークが遅くなり、Office 365が使えなくなる――。意外な伏兵、予定表の共有機能がネットワークをダウンさせることがある。]]></description>
+			<title>さすがアップル純正アプリ、楽しいビデオが10分で作れる（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/050900116/</link>
+			<description><![CDATA[　アップルから新しい動画編集アプリ「Clips」が登場したので紹介しよう。このアプリは、短く楽しい動画を作成するのがコンセプトだ。インスタグラムなどSNSでの利用が主な想定のようだが、友人や家族にメールで送っても楽しいし、LINEにも貼り付けられる。]]></description>
 			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -168,21 +162,9 @@
 			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>デジタルビジネス創出、IT部門と事業部門の連携が成功の鍵（企業ITの実態2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050900182/050900001/</link>
-			<description><![CDATA[　IoTやAIを活用した「ビジネスのデジタル化」は、国内企業でどの程度進展しているのか。日本情報システム・ユーザー協会（JUAS）の「企業IT動向調査」の結果を基に、取り組みの進展度や取り組み内容、推進体制などを見ていく。]]></description>
-			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>さすがアップル純正アプリ、楽しいビデオが10分で作れる（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/050900116/</link>
-			<description><![CDATA[　アップルから新しい動画編集アプリ「Clips」が登場したので紹介しよう。このアプリは、短く楽しい動画を作成するのがコンセプトだ。インスタグラムなどSNSでの利用が主な想定のようだが、友人や家族にメールで送っても楽しいし、LINEにも貼り付けられる。]]></description>
-			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>固定IP料金をケチってインターネットVPNをどうして使えるの？（VPNの素朴な疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100002/</link>
-			<description><![CDATA[　インターネットVPNの構築では、各拠点を識別するグローバルアドレスが必要になる。このアドレスに固定アドレスを使うべきか、それとも動的アドレスでもよいのかは悩みがちなポイントだ。]]></description>
+			<title>スマートスピーカー（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/042700068/</link>
+			<description><![CDATA[　ネット接続機能と音声操作のアシスタント機能を持つスピーカー。スマホやパソコンの周辺機器として使うだけでなく、ユーザーの音声コマンドに応えて情報検索したり、連携する家電製品を操作したりできる。]]></description>
 			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -281,6 +263,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051601409/</link>
 			<description><![CDATA[　米Googleの親会社Alphabetが設立した米Waymoと配車サービスの米Lyftが、自動運転車の開発に関して提携したと複数の海外メディアが現地時間2017年5月15日までに伝えた。]]></description>
 			<pubDate>Tue, 16 May 2017 10:12:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ランサムウエア「WannaCry」関連記事（ITproアーカイブス）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040700124/051500002/</link>
+			<description><![CDATA[　ランサムウエア「WannaCry」関連の記事をまとめました。ITproアーカイブスは、ITpro内の記事のリンク集です。内容は随時更新します。]]></description>
+			<pubDate>Tue, 16 May 2017 11:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Apple、多数の脆弱性に対処した「iOS 10.3.2」を公開（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051601410/</link>
+			<description><![CDATA[　米Appleは現地時間2017年5月15日、モバイルプラットフォームの最新アップデート「iOS 10.3.2」を公開した。目立った新機能の追加はなく、多数の不具合やセキュリティの問題を修正する。]]></description>
+			<pubDate>Tue, 16 May 2017 11:07:39 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
