@@ -11,22 +11,22 @@
 			<pubDate>Mon, 15 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>デバッグ市場は「波立っている」、ローソン玉塚会長がHUG社長就任で抱負（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051501406/</link>
-			<description><![CDATA[　ローソンの玉塚元一会長は2017年5月15日、ハーツユナイテッドグループ（HUG）の社長就任に当たって会見した。HUGの主力事業であるソフトウエアデバッグ市場を、サーフィンに適した波立っている海に例えて「大きな成長戦略を描ける市場」と説明。デバッグ技術者の人材マネジメント、サービス体系化、営業力強化の3本柱に取り組む。]]></description>
-			<pubDate>Mon, 15 May 2017 20:14:03 +0900</pubDate>
-		</item>
-		<item>
-			<title>「日本はルーターに守られた」、WannaCry流行でトレンドマイクロが分析（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051501407/</link>
-			<description><![CDATA[　トレンドマイクロは2017年5月15日、世界規模で被害が相次いだランサムウエア「WannaCry（ワナクライ）」の説明会を開催した。5月12日から15日16時までに、同社の法人・個人ユーザーから175件の問い合わせと9件の被害報告があったという。]]></description>
-			<pubDate>Mon, 15 May 2017 21:16:58 +0900</pubDate>
-		</item>
-		<item>
 			<title>みずほ銀行のシステム統合プロジェクト、投資額が4000億円台に膨らむ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051501408/</link>
 			<description><![CDATA[　みずほフィナンシャルグループ（FG）は2017年5月15日、決算会見後に開催した投資家向け説明会で、システム統合プロジェクトの総投資額が4000億円台半ばに膨らむ見通しであることを明らかにした。]]></description>
 			<pubDate>Mon, 15 May 2017 21:59:14 +0900</pubDate>
+		</item>
+		<item>
+			<title>固定IP料金をケチってインターネットVPNをどうして使えるの？（VPNの素朴な疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100002/</link>
+			<description><![CDATA[　インターネットVPNの構築では、各拠点を識別するグローバルアドレスが必要になる。このアドレスに固定アドレスを使うべきか、それとも動的アドレスでもよいのかは悩みがちなポイントだ。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>RPAが第2フェーズへ、AIと組み合わせた新サービスの実力は？（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051100967/</link>
+			<description><![CDATA[　ホワイトカラーの業務効率化の切り札として注目を集めている「RPA」。ITコンサルティングや人材教育などを手掛ける豆蔵はこのほど、RPAを人工知能（AI）と組み合わせる新サービスを開始した。「AI＋RPA」システムの導入コンサルティングや構築を支援する。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>スマートスピーカー（Close Up Keyword）</title>
@@ -59,9 +59,9 @@
 			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>固定IP料金をケチってインターネットVPNをどうして使えるの？（VPNの素朴な疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100002/</link>
-			<description><![CDATA[　インターネットVPNの構築では、各拠点を識別するグローバルアドレスが必要になる。このアドレスに固定アドレスを使うべきか、それとも動的アドレスでもよいのかは悩みがちなポイントだ。]]></description>
+			<title>リスクという「脅し」で経営は動く、後はプログラミングの出番（10人のIT部門が消滅～ひとり情シス顛末記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/051200018/</link>
+			<description><![CDATA[　IT部門が消滅し、たったひとり残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。当事者である著者が、読者から質問に答える。今回の問題は権限と責任。権限がなければ、IT投資もままならならず、責任だけを背負い込みかねないのだが…。]]></description>
 			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,24 +95,6 @@
 			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>情シスSEの“特権”とは？まずは現場に足を運ぼう（若手情シスSEに送る幸せのヒント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/051500002/</link>
-			<description><![CDATA[　入社式後の集合研修で自社の製品や事業を説明されてもまだ実感は得られないもの。そんな皆さんには積極的に機会を作って現場に行くことをお勧めします。情シスにはそれが許される特権があるからです。]]></description>
-			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>リスクという「脅し」で経営は動く、後はプログラミングの出番（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/051200018/</link>
-			<description><![CDATA[　IT部門が消滅し、たったひとり残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。当事者である著者が、読者から質問に答える。今回の問題は権限と責任。権限がなければ、IT投資もままならならず、責任だけを背負い込みかねないのだが…。]]></description>
-			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>INSネット終了で困る業界はどこ？（徹底検証！固定電話の未来）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100175/050100002/</link>
-			<description><![CDATA[　NTT東西はこれまで、INSネットのディジタル通信モードの終了時期を「2020年度後半」と案内していたが、2024年初頭に後ろ倒しすると2017年4月6日に発表した。当面の対応策として、既存のISDN対応端末を継続利用できる「メタルIP電話上のデータ通信」（補完策）も2024年初頭に提供する予定である。]]></description>
-			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>C＃でも基本中の基本、変数の型と演算子を覚える（魅惑のC＃）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200187/051200002/</link>
 			<description><![CDATA[　複雑なC＃プログラムを記述するには、文法を覚えなければなりません。第2回では、C＃言語の基礎である「型」や「演算子」、「分岐処理」を紹介します。C＃は、変数の宣言時に型付けを行うプログラミング言語です。このような言語を「強い型付けの言語」とも呼びます。
@@ -126,9 +108,15 @@
 			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>RPAが第2フェーズへ、AIと組み合わせた新サービスの実力は？（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051100967/</link>
-			<description><![CDATA[　ホワイトカラーの業務効率化の切り札として注目を集めている「RPA」。ITコンサルティングや人材教育などを手掛ける豆蔵はこのほど、RPAを人工知能（AI）と組み合わせる新サービスを開始した。「AI＋RPA」システムの導入コンサルティングや構築を支援する。]]></description>
+			<title>INSネット終了で困る業界はどこ？（徹底検証！固定電話の未来）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100175/050100002/</link>
+			<description><![CDATA[　NTT東西はこれまで、INSネットのディジタル通信モードの終了時期を「2020年度後半」と案内していたが、2024年初頭に後ろ倒しすると2017年4月6日に発表した。当面の対応策として、既存のISDN対応端末を継続利用できる「メタルIP電話上のデータ通信」（補完策）も2024年初頭に提供する予定である。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>情シスSEの“特権”とは？まずは現場に足を運ぼう（若手情シスSEに送る幸せのヒント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/051500002/</link>
+			<description><![CDATA[　入社式後の集合研修で自社の製品や事業を説明されてもまだ実感は得られないもの。そんな皆さんには積極的に機会を作って現場に行くことをお勧めします。情シスにはそれが許される特権があるからです。]]></description>
 			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -281,6 +269,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051601419/</link>
 			<description><![CDATA[　富士通は2017年5月16日、東京国際フォーラムで18日から開催する「富士通フォーラム2017」を報道関係者向けに先行公開し、法人向けスマートデバイスなどの最新事例を展示した。]]></description>
 			<pubDate>Tue, 16 May 2017 19:38:22 +0900</pubDate>
+		</item>
+		<item>
+			<title>富士通、対話の流れを自動学習するチャットサービスを7月にも発売（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051601420/</link>
+			<description><![CDATA[　富士通は2017年5月16日、コールセンターへの問い合わせに自動応答するチャットボットサービスを2017年度第2四半期（7～9月）に発売すると発表した。顧客からチャットで問い合わせが入ると、AIが自動で回答する。同社のAI「Zinrai」で対話の流れを学習することで自然に対話できるという。]]></description>
+			<pubDate>Tue, 16 May 2017 21:09:44 +0900</pubDate>
+		</item>
+		<item>
+			<title>PowerVision 水深30mまでの動作が可能な水中ロボット「PowerRay」を発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051601422/</link>
+			<description><![CDATA[　PowerVisionは2017年5月16日、水深30メートルまで潜れる水中ドローン「PowerRay」を発売すると発表した。同日から専用のWebサイトで予約を受付け、2017年6月中旬に発売する。併せて日本での営業拠点も設立する。]]></description>
+			<pubDate>Tue, 16 May 2017 22:39:33 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
