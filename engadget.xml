@@ -5,24 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ｢Windowsで動くLinux｣ことWSLにOpenSUSEとFedoraが追加。Windows Storeから導入可能に
-</title>
-			<link>http://japanese.engadget.com/2017/05/11/windows-linux-wsl-opensuse-fedora-windows-store/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/c15232a70180ff151429f88e4aadd581/205259770/mainwsl.jpg" />
-　
-マイクロソフトの開発者向けイベントBuild 2017より。マイクロソフトが、Windows 10で動作するLinuxシェルことWindows Subsystem for Linux (WSL)に、OpenSUSE および Fedora Linuxのサポートを追加することを発表しました。WSLではすでにUbuntuが対応していますが、対応ディストリビューションの拡大でユーザーは別のLinuxマシンや仮想マシン(VM)を用意する必要がなくなります。
-
-各ディストリビューションの導入は非常に簡単で、Windows 10を開発者モードに切り替えてから、Windows Storeを開き、各ディストリビューションをインストールするだけ。
-　
-
-　
-今回の措置は、DebiamベースのUbuntu、SlackwareベースのOpenSUSE、Red HatベースのFedoraが揃うことで、それぞれの流儀を好むインターネット上のオンラインサービス開発者たちをWindowsに引き込む有効な手段となることが考えられます。
-
-ちなみにマイクロソフトはこれまでにオープンソースの開発プラットフォームとして .Net core 1.0をLinuxおよびMacに、さらにはLinuxに対応するSQL Server 2017などを提供してきています。
- ]]></description>
-			<pubDate>Fri, 12 May 2017 07:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    予告通りの299ドルで、Windows MRヘッドセット開発者版が米国とカナダで予約開始。出荷は8月
 </title>
 			<link>http://japanese.engadget.com/2017/05/11/299-windows-mr-8/</link>
@@ -572,6 +554,25 @@ Engadget 日本版 YouTubeチャンネルより。ソニーが何を思ったか
 <p><a href="http://japanese.engadget.com/gallery/exclusive-iphone-8-renders-1/" title="「iPhone 8」リーク図面再現">【ギャラリー】「iPhone 8」リーク図面再現 (8枚)</a></p>
  ]]></description>
 			<pubDate>Tue, 16 May 2017 12:01:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    au網が下り590Mbpsに高速化。WiMAX 2＋とCA、東京・愛知・大阪の一部エリアから
+</title>
+			<link>http://japanese.engadget.com/2017/05/15/au-590mbps-wimax-2-ca/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/7c8ec53876a803c3807ae4ce5def929f/205267514/dims.jpeg" />
+
+auは、4Gネットワークの下り最大通信速度を590Mbps（理論値、以下同）に引き上げます。従来は370Mbps（WiMAX 2＋網は440Mbps）でした。
+
+当初の対応機種は WiMAX 2+ モバイルルータの Speed Wi-Fi NEXT W04の1機種のみ。5月16日配信のソフトウェアアップデートを適用することで、受信590Mbps通信を利用できます。
+
+高速化には、受信150Mbpsのau 4G LTEと、受信最大440MbpsWiMAX 2＋とのキャリアアグリゲーションを利用します。キャリアアグリゲーションは、複数の異なる周波数帯域を束ねることで、通信を高速化する技術。150Mbpsと440Mbpsを束ねることで、合計590Mbpsになるというわけです。
+
+590Mbps通信可能なエリアは東京都・愛知県・大阪府の一部エリアです。
+
+今後発売を予定するauの最新スマートフォンは、受信最大590Mbps通信に対応するとのこと。今年の夏モデルとして例年通りXperiaやGalaxyの新モデルが登場するとすれば、受信590Mbps通信に対応する可能性もありそうです。
+ 
+ ]]></description>
+			<pubDate>Tue, 16 May 2017 12:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
