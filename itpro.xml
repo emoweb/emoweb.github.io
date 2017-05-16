@@ -11,54 +11,6 @@
 			<pubDate>Mon, 15 May 2017 21:16:58 +0900</pubDate>
 		</item>
 		<item>
-			<title>仮想サーバーの3割はゾンビサーバー（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/051600324/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　最近発表された調査結果によると、物理サーバーの25％、仮想サーバーの30％は、ゾンビサーバーである。ここで言うゾンビサーバーとは、6カ月間にわたって動作実績がなかったサーバーのこと。
-</p>
-
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/051600324/industrial-iot-4-100710201-large.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-
-<p>
-　物理サーバーに関しては、ゾンビサーバーの問題はよく知られている。過去の調査でも、企業の物理サーバーの20～30％がゾンビサーバーとの結果が一貫して示されていた。だが、今回は仮想サーバーも調査対象となっている。
-</p>
-<p>
-　こうした仮想サーバーは、IT部門に膨大なコストをもたらしている可能性がある。仮想サーバーやその上で動くソフトウエアにライセンス料金を支払っている場合があるからだと調査担当者は言う。
-</p>
-<p>
-　また、物理サーバーと仮想サーバーのどちらにせよ、ゾンビサーバーは「招かれざるセキュリティリスク」をもたらす可能性があると、今回の調査報告は指摘している。パッチ適用やメンテナンスが行われていない場合があるからだ。
-</p>
-<p>
-　今回の<a href="http://anthesisgroup.com/wp-content/uploads/2017/03/Comatsoe-Servers-Redux-2017.pdf" target="_blank">調査報告</a>を発表したのは、米スタンフォード大学のリサーチフェロー、Jonathan Koomey氏と、コンサルティング会社Anthesis Groupのパートナー、Jon Taylor氏。
-</p>
-<p>
-　両氏は、電力消費の効率化ソフトウエアを手がけるカナダTSO Logicが収集したデータを使って、10カ所程度のデータセンターのサーバー約1万6000台を調査した。今回の調査は、両氏が以前実施した調査の最新版にあたる。前回の調査では、物理サーバーの30％がゾンビサーバーという結果だった。今回の結果が25％に下がったのは、調査対象が増えたことによるものかもしれない。
-</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/051600324/?ST=cio-appli&P=2">Taylor氏は取材に対し、稼働中のゾンビサーバ...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/051600324/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/051600324/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/051600324/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 16 May 2017 10:11:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Alphabet傘下のWaymoと配車サービスのLyft、自動運転車で提携（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051601409/</link>
 			<description><![CDATA[　米Googleの親会社Alphabetが設立した米Waymoと配車サービスの米Lyftが、自動運転車の開発に関して提携したと複数の海外メディアが現地時間2017年5月15日までに伝えた。]]></description>
@@ -143,9 +95,15 @@
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>オブジェクト指向プログラミングの基礎、クラスとオブジェクトを学ぶ（魅惑のC＃）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200187/051500003/</link>
-			<description><![CDATA[　前回は、C＃の基礎である型や演算子と、if文による分岐処理を学びました。今回は、C＃のプログラムの基本である「クラス」や「オブジェクト」を紹介します。]]></description>
+			<title>第16話  部下に背中を見せられているか？（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/041800021/</link>
+			<description><![CDATA[　部下に背中を見せられている管理者が減っているという。本来、管理職とはプレーヤーを束ねる役割であるはず。ところが、最近は管理職やリーダー職でありながら、メンバーと同列でのプレーも求められている。メンバーと肩を並べて日々の細かい仕事に追われてしまっている人が少なくない。]]></description>
+			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>インターネットVPNで起こしがちな三つのミス（VPNの素朴な疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100003/</link>
+			<description><![CDATA[　自前でインターネットVPNを構築すると、必要な設定をしたのに通信できないといったことがある。VPNの接続は確立しているのにpingコマンドなど実際の通信ができない場合、その原因のほとんどは設定ミスによるものだ。]]></description>
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -233,16 +191,44 @@
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>インターネットVPNで起こしがちな三つのミス（VPNの素朴な疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100003/</link>
-			<description><![CDATA[　自前でインターネットVPNを構築すると、必要な設定をしたのに通信できないといったことがある。VPNの接続は確立しているのにpingコマンドなど実際の通信ができない場合、その原因のほとんどは設定ミスによるものだ。]]></description>
+			<title>オブジェクト指向プログラミングの基礎、クラスとオブジェクトを学ぶ（魅惑のC＃）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200187/051500003/</link>
+			<description><![CDATA[　前回は、C＃の基礎である型や演算子と、if文による分岐処理を学びました。今回は、C＃のプログラムの基本である「クラス」や「オブジェクト」を紹介します。]]></description>
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>第16話  部下に背中を見せられているか？（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/041800021/</link>
-			<description><![CDATA[　部下に背中を見せられている管理者が減っているという。本来、管理職とはプレーヤーを束ねる役割であるはず。ところが、最近は管理職やリーダー職でありながら、メンバーと同列でのプレーも求められている。メンバーと肩を並べて日々の細かい仕事に追われてしまっている人が少なくない。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
+			<title>入社志望者に与えた印象が企業のブランドに及ぼす影響（中）（入社志望者に与えた印象が企業のブランドに及ぼす影響）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　インターネットは永遠だ。面白画像、ツイート、ブログ記事、PR、失言など、いったんネット上に公開されたら、決して消え去ることはない。この事実が何より重要なのは、企業の口コミ評価サイトに関してである。そう話すのは、米Future Workplaceのリサーチディレクター、Dan Schawbel氏だ。企業の口コミ評価サイトとは、企業各社の入社志望者や社員が、その会社に対する見解や感想、接触した時の体験談などを投稿するサイトである。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900001/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　今回の調査で回答した企業のうち、志望者エクスペリエンスは消費者の購買決定に影響し得るとの認識を示した企業は91％に上ったが、その影響を測定している企業は26％にとどまった。また、優秀な人材を引き寄せるうえで、企業のブランドと評判をうまく扱うことが重要だと考えている企業は99％だった一方、企業のブランドを守る部分に人事部門のリソースをあてている企業は45％にとどまった。</p>
+
+<h4>力のバランスが変化</h4>
+
+<p>　このように、企業から志望者や社員へと力のバランスが移っていることから、企業は、優秀な人材の獲得と維持を目指すうえで、アプローチのギアを変える必要がある。そう話すのは、CareerArcの会長でCEOのRobin D. Richards氏だ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900002/?ST=cio-social&P=2">「以前は、企業のブランドは、企業が自称するものだ...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900002/?ST=cio-social&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900002/?ST=cio-social&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900002/?ST=cio-social&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 17 May 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
