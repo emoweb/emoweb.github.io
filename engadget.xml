@@ -5,22 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Android版Netflix、root化端末へのインストール・更新不能に。導入済みでも番組ダウンロードに制限
-</title>
-			<link>http://japanese.engadget.com/2017/05/14/android-netflix-root/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/192cd0633db8ebe07cfd7b78643fbc5a/205267021/mainnf.jpg" />
-　
-Netflixが、root化したAndroidデバイスへはGoogle Playストアから再生アプリをインストール・アップデートできなくしました。すでに再生アプリがインストールしてある場合は、アップデートができなくなっています。Netflixといえばつい先ごろ、HDR映像に対応した最新版をリリースしたばかりです。
-
-Android情報サイトAndroid Policeによると、この措置はコピープロテクト方式の変更によるもので、最新版ではGoogleの動画DRM「Widevine」に対応しているとのこと。背景にはroot化したAndroidデバイスではNetflixで視聴のためにダウンロードした映像からコピープロテクトを解除するユーザーがいることがあるかもしれません。
-
-Netflixはroot化した端末ではアプリが動作しないと説明するものの、実際はapkなどを拾ってきてインストールすれば再生は可能な模様。またMagiskといった一部のツールでroot化した端末では影響を受けないとの報告もあります。
-
-ちなみに、root化した端末を識別して制限を加えるAndroidアプリはこれがはじめてではありません。知られているところでは、Android版ポケモンGOが、2016年9月の段階でroot化したAndroidデバイスをブロックしています。
- ]]></description>
-			<pubDate>Mon, 15 May 2017 12:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    動画：イーロン・マスクの地下トンネル輸送システム試験走行。完成すれば車で30分の距離を5分に短縮
 </title>
 			<link>http://japanese.engadget.com/2017/05/15/30-5/</link>
@@ -590,6 +574,28 @@ Apple Watchの次期バージョンでは血糖値の測定機能が導入され
  
  ]]></description>
 			<pubDate>Wed, 17 May 2017 16:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    アップル､新型MacBookとProをWWDC 2017で発表か。MacBook Airにも可能性(Bloomberg報道)
+</title>
+			<link>http://japanese.engadget.com/2017/05/17/macbook-pro-wwdc-2017-macbook-air-bloomberg/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/22972b0e01cade21121bd48854334a82/205276027/main.jpg" />
+6月5日に開催されるWWDC 2017での、アップルの出し物予想も徐々にヒートアップしてきた感がありますが、今度はMacBook およびMacBook Pro(あともしかしたらMacBook Air)に新モデルの発表があるかもしれないとのうわさが出ています。
+
+過去4年間、アップルは開発者向けカンファレンスであるWWDCでハードウェア製品を発表していませんが、今年は10.5インチiPad ProやSiri搭載スピーカーが出るのではないかと言われています。
+
+Bloombergの情報ソースによると、まずMacBook Proには第7世代(Kaby Lake)Coreプロセッサーを搭載、外部インターフェースに若干の変更が加えられるとのこと。一方12インチMacBookにも高速なインテルチップが搭載されるだろうとのことです。より高速、が何を指すのか直接の言葉がないものの、ここは第7世代Core i5もしくはi7の省電力版、Yシリーズだと考えられます。
+
+
+そして、消え行く運命とのうわさも絶えないMacBook Airについても、アップルが最新プロセッサーの搭載による強化を「検討している」と伝えられます。これには第7世代CoreプロセッサーのUシリーズが当てはまるはず。残念ながらユーザー切望のRetinaディスプレイ採用はなく、あくまでオーバーホールの範疇にとどまる見込みです。
+
+なお、もし本当にMacBook Airのアップデートが登場するならば、それは12インチMacBookがAirを使ってきたユーザーに代替製品として受け入れられていないことを意味するかもしれません。
+
+現行モデルでもMacBook Airは12インチMacBookに対して高速なCPU、多数のインターフェース、長時間駆動バッテリーを備え、それでいて3万円も安価です。周辺機器を使う場合もUSB-C対応機器がさほど普及していない現状を考えると、MacBook Airを選ぶ人はまだまだ一定数以上いるのかもしれません。
+
+全体的にはいずれのモデルも正常進化というか、プロセッサーを最新のものに載せ替える程度にとどまっている印象。これだとWWDCのキーノートで発表せずとも、その裏でオンラインのアップルストアがしれっと製品を入れ替えているパターンもありそうです。
+ ]]></description>
+			<pubDate>Wed, 17 May 2017 17:40:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
