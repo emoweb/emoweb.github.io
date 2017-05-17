@@ -5,16 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「日本はルーターに守られた」、WannaCry流行でトレンドマイクロが分析（速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051501407/?n17</link>
-			<description><![CDATA[　トレンドマイクロは2017年5月15日、世界規模で被害が相次いだランサムウエア「WannaCry（ワナクライ）」の説明会を開催した。5月12日から15日16時までに、同社の法人・個人ユーザーから175件の問い合わせと9件の被害報告があったという。]]></description>
-			<pubDate>Mon, 15 May 2017 21:16:58 +0900</pubDate>
-		</item>
-		<item>
-			<title>PowerVision 水深30mまでの動作が可能な水中ロボット「PowerRay」を発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051601422/</link>
-			<description><![CDATA[　PowerVisionは2017年5月16日、水深30メートルまで潜れる水中ドローン「PowerRay」を発売すると発表した。同日から専用のWebサイトで予約を受付け、2017年6月中旬に発売する。併せて日本での営業拠点も設立する。]]></description>
-			<pubDate>Tue, 16 May 2017 22:39:33 +0900</pubDate>
+			<title>プログラミング抜きの書籍制作なんて考えられない（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/051600009/</link>
+			<description><![CDATA[　今月紹介するのは鹿野桂一郎氏。オーム社で数々の技術書の編集に携わった後、独立してラムダノートという技術書の出版社を立ち上げた。同氏は、書籍の制作に使っている自動組版ツールを自ら開発するというエンジニアの顔も持つ。今回は、オーム社に入るまでの経緯とプログラミングで仕事の効率化を始めたきっかけを聞いた。]]></description>
+			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>IoT技術者はフルスタックのスーパーマンであるべき？（ゼロから挑戦！IoT開発）</title>
@@ -101,18 +95,6 @@
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>IT要員は増加傾向だが「IT部門は魅力的でない」と4分の3が回答（企業ITの実態2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050900182/051000002/</link>
-			<description><![CDATA[　IT人材の育成にどう取り組んでいくのかは、企業経営者、IT部門長にとっての大きな課題だろう。日本情報システム・ユーザー協会が実施した「企業IT動向調査2017」の結果を基に、各社の人材育成の現状を分析し、今後の人材育成戦略の方向性を見出していく。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>プログラミング抜きの書籍制作なんて考えられない（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/051600009/</link>
-			<description><![CDATA[　今月紹介するのは鹿野桂一郎氏。オーム社で数々の技術書の編集に携わった後、独立してラムダノートという技術書の出版社を立ち上げた。同氏は、書籍の制作に使っている自動組版ツールを自ら開発するというエンジニアの顔も持つ。今回は、オーム社に入るまでの経緯とプログラミングで仕事の効率化を始めたきっかけを聞いた。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>富士通がまたも職種転換、「デジタルイノベーター」の勝算（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051500969/</link>
 			<description><![CDATA[　富士通は顧客と共にデジタルビジネスを創る「共創」を新たな事業の柱に成長させようとしている。共創の推進役として、富士通が新しく規定した職種が「デジタルイノベーター」だ。]]></description>
@@ -122,6 +104,12 @@
 			<title>マイラインは存亡の危機にある？（徹底検証！固定電話の未来）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100175/050100003/</link>
 			<description><![CDATA[　今後の議論で最も紛糾が予想されるのは、マイラインの扱いである。NTT東西はサービスの廃止を要望している。一方、競合事業者はマイラインの廃止で顧客がNTT東西に流出してしまうことを懸念する。]]></description>
+			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IT要員は増加傾向だが「IT部門は魅力的でない」と4分の3が回答（企業ITの実態2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050900182/051000002/</link>
+			<description><![CDATA[　IT人材の育成にどう取り組んでいくのかは、企業経営者、IT部門長にとっての大きな課題だろう。日本情報システム・ユーザー協会が実施した「企業IT動向調査2017」の結果を基に、各社の人材育成の現状を分析し、今後の人材育成戦略の方向性を見出していく。]]></description>
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -262,6 +250,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701433/</link>
 			<description><![CDATA[　視聴行動分析サービスを提供するニールセン デジタルは2017年5月17日、新たに日本を含む世界23国・地域で「ニールセン デジタル広告視聴率（Nielsen Digital Ad Ratings）」によるTwitterモバイルキャンペーンの測定を開始したと発表した。]]></description>
 			<pubDate>Wed, 17 May 2017 18:05:54 +0900</pubDate>
+		</item>
+		<item>
+			<title>アジア・太平洋地域へのランサムウエア攻撃、大半が中国の13グループと発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701434/</link>
+			<description><![CDATA[　セキュリティ専業のファイア・アイは2017年5月17日、2016年のセキュリティ上の脅威を分析した年次レポート「Mandiant M-Trends 2017」を発表した。ランサムウエアの影で国家レベルの攻撃が増えているという。]]></description>
+			<pubDate>Wed, 17 May 2017 22:32:03 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
