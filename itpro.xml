@@ -11,160 +11,6 @@
 			<pubDate>Mon, 15 May 2017 21:16:58 +0900</pubDate>
 		</item>
 		<item>
-			<title>プログラミング抜きの書籍制作なんて考えられない（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/051600009/</link>
-			<description><![CDATA[　今月紹介するのは鹿野桂一郎氏。オーム社で数々の技術書の編集に携わった後、独立してラムダノートという技術書の出版社を立ち上げた。同氏は、書籍の制作に使っている自動組版ツールを自ら開発するというエンジニアの顔も持つ。今回は、オーム社に入るまでの経緯とプログラミングで仕事の効率化を始めたきっかけを聞いた。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IoT技術者はフルスタックのスーパーマンであるべき？（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/051500005/</link>
-			<description><![CDATA[　IoTシステムを設計するエンジニア、すなわちIoTアーキテクトには、どのような資質やスキルが求められるのだろうか。やはり、組み込み系とエンタープライズ系、そして人工知能やビッグデータなどの知識を合わせ持った、スーパーマンのようなフルスタックエンジニアが必要なのだろうか？]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ハード競争脱しソフト進化に徹したiPhone、iPad的ジレンマを回避できるか？（iPhoneは世界をどう変えたか？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022400046/051500032/</link>
-			<description><![CDATA[　iPhoneが登場して10年が過ぎた。現在のiPhoneや米アップルを取り巻く状況と、iPhone発表当時のそれとでは、あらゆる面での評価が正反対だった。「こんなものは売れない」と言われていたデバイスは、今や年間2億台を販売する存在となった。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>オブジェクト指向プログラミングの基礎、クラスとオブジェクトを学ぶ（魅惑のC＃）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200187/051500003/</link>
-			<description><![CDATA[　前回は、C＃の基礎である型や演算子と、if文による分岐処理を学びました。今回は、C＃のプログラムの基本である「クラス」や「オブジェクト」を紹介します。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>完全自動運転の本命か？エヌビディアの「エグゼビア」（激変！クルマ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/051200016/</link>
-			<description><![CDATA[　自動運転の世界で米エヌビディアが主役になれるかどうか。それを左右するのが、次世代画像処理プロセッサ「Xavier（エグゼビア）」だ。エヌビディアが提供している自動運転プラットフォーム「DRIVE PX」の車載ハードウエアの性能を高めること。これがXavierの役割である。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Office 365でメールが行方不明に、どうする！？（ここがおかしい！？Office 365）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800180/051300007/</link>
-			<description><![CDATA[　Office 365のメールは、ユーザーが受信するメールを自動で整理する。この自動振り分け機能が2016年11月に更新された。更新を知らずに使っていて、「メールが消えた」と混乱した人もいただろう。この機能が“肌に合わない”なら、いっそ無効にするのも手だ。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>誰よりも頼られるSEになるには？修行は現場で積む（若手情シスSEに送る幸せのヒント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/051600003/</link>
-			<description><![CDATA[　一般的にシステム開発プロジェクトでは利用部門にインタビューして業務目標と課題を抽出し、プロジェクト計画を作成します。具体的なシステム設計に入る段階では利用部署にヒアリングをして要件を定義していきます。ここで、私はいつも「もう一歩踏み込めないものか」と考えていました。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>第16話  部下に背中を見せられているか？（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/041800021/</link>
-			<description><![CDATA[　部下に背中を見せられている管理者が減っているという。本来、管理職とはプレーヤーを束ねる役割であるはず。ところが、最近は管理職やリーダー職でありながら、メンバーと同列でのプレーも求められている。メンバーと肩を並べて日々の細かい仕事に追われてしまっている人が少なくない。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>三つの掟で美しいプログラムは書ける（プログラムを楽に綺麗にしよう）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900149/041900003/</link>
-			<description><![CDATA[　実プロジェクトではどうSonarQubeを使うのか。導入に落とし穴はないのか―。筆者が経験したプロジェクトを例に説明しよう。対象のプロジェクトは、新規開発の受託案件。詳細設計から単体テストまでをオフショアの開発チームで行うものだった。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ビジネスメール詐欺、その巧妙さと恐ろしさ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051500972/</link>
-			<description><![CDATA[　業務メールに見せかけた偽のメールを使って金銭を振り込ませる「ビジネスメール詐欺（BEC）」の被害が増えている。被害に遭わないためには、手口を知ることが何よりも有効だ。その巧みな手口を解説する。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>インターネットVPNで起こしがちな三つのミス（VPNの素朴な疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100003/</link>
-			<description><![CDATA[　自前でインターネットVPNを構築すると、必要な設定をしたのに通信できないといったことがある。VPNの接続は確立しているのにpingコマンドなど実際の通信ができない場合、その原因のほとんどは設定ミスによるものだ。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>テレワークの成果は？社員に聞いたリクルート子会社（リクルートの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051000183/051000003/</link>
-			<description><![CDATA[　企業向け研修やコンサルティングを提供しているリクルートマネジメントソリューションズは、「オフィスワーカーの業務生産性向上」を目的に、テレワーク制度を導入している。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Android 6.0のVPN接続問題、見えてきた解決の道筋（ネットワーク・ホットトピックス）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/277462/050800058/</link>
-			<description><![CDATA[　Android 6.0以降にはIPsecにおけるSHA-256の取り扱いに不備があり、標準に準拠したVPNサーバーとIPsecで接続できないケースがある。同問題は1年半近く放置されてきたが、ようやく解決への道筋が見えてきた。同問題の詳細と、その解決方法などについて紹介する。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>スマホに充電できて安価なワイヤレスストレージ（最新ワイヤレスストレージの実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200186/051200002/</link>
-			<description><![CDATA[　ラトックシステムの「REX-WIFISD1H」は、モバイルバッテリーとしても利用できるワイヤレスストレージだ。本体にストレージは搭載しないため、SDカードかUSBメモリー、またはUSB接続のポータブルHDDを別途用意する。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>トヨタ生産方式は数百円センサーやiPadで進化する（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/050900833/</link>
-			<description><![CDATA[　「トヨタ生産方式は、iPadや、価格が数百円のセンサーといったITを使うことで、より一層進化できる」。製造現場のワークスタイル変革について取材していくなかで、記者はこう確信するようになった。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IT要員は増加傾向だが「IT部門は魅力的でない」と4分の3が回答（企業ITの実態2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050900182/051000002/</link>
-			<description><![CDATA[　IT人材の育成にどう取り組んでいくのかは、企業経営者、IT部門長にとっての大きな課題だろう。日本情報システム・ユーザー協会が実施した「企業IT動向調査2017」の結果を基に、各社の人材育成の現状を分析し、今後の人材育成戦略の方向性を見出していく。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>マイラインは存亡の危機にある？（徹底検証！固定電話の未来）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100175/050100003/</link>
-			<description><![CDATA[　今後の議論で最も紛糾が予想されるのは、マイラインの扱いである。NTT東西はサービスの廃止を要望している。一方、競合事業者はマイラインの廃止で顧客がNTT東西に流出してしまうことを懸念する。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>富士通がまたも職種転換、「デジタルイノベーター」の勝算（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051500969/</link>
-			<description><![CDATA[　富士通は顧客と共にデジタルビジネスを創る「共創」を新たな事業の柱に成長させようとしている。共創の推進役として、富士通が新しく規定した職種が「デジタルイノベーター」だ。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>入社志望者に与えた印象が企業のブランドに及ぼす影響（中）（入社志望者に与えた印象が企業のブランドに及ぼす影響）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　インターネットは永遠だ。面白画像、ツイート、ブログ記事、PR、失言など、いったんネット上に公開されたら、決して消え去ることはない。この事実が何より重要なのは、企業の口コミ評価サイトに関してである。そう話すのは、米Future Workplaceのリサーチディレクター、Dan Schawbel氏だ。企業の口コミ評価サイトとは、企業各社の入社志望者や社員が、その会社に対する見解や感想、接触した時の体験談などを投稿するサイトである。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900001/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　今回の調査で回答した企業のうち、志望者エクスペリエンスは消費者の購買決定に影響し得るとの認識を示した企業は91％に上ったが、その影響を測定している企業は26％にとどまった。また、優秀な人材を引き寄せるうえで、企業のブランドと評判をうまく扱うことが重要だと考えている企業は99％だった一方、企業のブランドを守る部分に人事部門のリソースをあてている企業は45％にとどまった。</p>
-
-<h4>力のバランスが変化</h4>
-
-<p>　このように、企業から志望者や社員へと力のバランスが移っていることから、企業は、優秀な人材の獲得と維持を目指すうえで、アプローチのギアを変える必要がある。そう話すのは、CareerArcの会長でCEOのRobin D. Richards氏だ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900002/?ST=cio-social&P=2">「以前は、企業のブランドは、企業が自称するものだ...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900002/?ST=cio-social&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900002/?ST=cio-social&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900002/?ST=cio-social&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 17 May 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>93％が「酔わず」、東急バスとフジテレビなど観光バス内でVR実証実験（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051601423/</link>
-			<description><![CDATA[　東急バスとフジテレビ、仮想現実（VR）ベンチャーのVRize（東京都港区）の3社は2017年5月16日、走行中の観光バスの車内でVR映像を視聴する実証実験を共同で実施したと発表した。長時間の移動中の娯楽提供や目的地の紹介などで活用する考えだ。]]></description>
-			<pubDate>Wed, 17 May 2017 07:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Google、Facebook、Appleらが主導するAI関連団体、ソニーやIntelも参加（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701424/</link>
-			<description><![CDATA[　人工知能（AI）の普及促進を目指す非営利組織「Partnership on AI to Benefit People and Society （Partnership on AI）」は現地時間2017年5月16日、新たなメンバーを発表した。]]></description>
-			<pubDate>Wed, 17 May 2017 09:28:44 +0900</pubDate>
-		</item>
-		<item>
 			<title>インドのスマホ市場、中国メーカーの出荷台数が過半に（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701425/</link>
 			<description><![CDATA[　米国の市場調査会社IDCが先ごろ公表したインドのスマートフォン市場に関するリポートによると、2017年第1四半期（1～3月）の同国における出荷台数は2700万台となり、前年同期から14.8％増加、前の四半期から4.7％増加した。]]></description>
@@ -262,6 +108,132 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701434/</link>
 			<description><![CDATA[　セキュリティ専業のファイア・アイは2017年5月17日、2016年のセキュリティ上の脅威を分析した年次レポート「Mandiant M-Trends 2017」を発表した。ランサムウエアの影で国家レベルの攻撃が増えているという。]]></description>
 			<pubDate>Wed, 17 May 2017 22:32:03 +0900</pubDate>
+		</item>
+		<item>
+			<title>通信大手3社の決算を検証、Y!mobileが示した圧倒的な強さ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051700973/</link>
+			<description><![CDATA[　通信大手3社の2017年3月期決算が出そろった。NTTとソフトバンクグループは為替の影響で減収となったものの、3社とも増益が目立った。主力の携帯電話事業は市場の成熟化や競争の同質化が顕著となってきたが、モバイル通信料収入の拡大や販売奨励金の削減、光回線の拡販で利益成長につなげている。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Office 365で文字化け、その回避策（ここがおかしい！？Office 365）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800180/051400008/</link>
+			<description><![CDATA[　WebブラウザーでOffice 365を利用していると、テキストファイルを開いたとき文字化けすることがある。原因は、そのファイルがWindowsアプリケーションでは一般的な文字コード、「Shift_JIS（シフトJIS）」で保存しているからだ。回避策はあるのだろうか。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>自動組版のために原書のデータをLISPのマクロでハック（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/051700010/</link>
+			<description><![CDATA[　今月紹介するのは鹿野桂一郎氏。オーム社で数々の技術書の編集に携わった後、独立してラムダノートという技術書の出版社を立ち上げた。同氏は、書籍の制作に使っている自動組版ツールを自ら開発するというエンジニアの顔も持つ。今回は、自動組版ツールがどのようにして生まれたかを聞いた。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>プロジェクトやスキルアップがうまくいかない？まずは「問題」と「課題」を使い分けよう（若手情シスSEに送る幸せのヒント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/051700004/</link>
+			<description><![CDATA[　システム構築プロジェクトでも事業の中期計画でも自分のスキルアップ計画でも、何かしらの計画を立てる時にはなりたい姿（to be）に向けての課題をまずは設定します。ただその課題設定は案外難しいものです。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>リクルート、IT人材採用にAI（リクルートの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051000183/051000004/</link>
+			<description><![CDATA[　「処理する案件が膨大な仕事があって、他の仕事に手が回らない」。リクルートホールディングスは人事業務の効率化に複数のクラウドサービスとAI（人工知能）を適用する。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IT会社新設ラッシュ、メガバンクの目論見（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051700975/</link>
+			<description><![CDATA[　メガバンクが金融業の枠を超え、IT関連サービスの領域に相次ぎ打って出た。SMFGは2017年5月に生体認証サービスを手がけるIT子会社を設立。みずほフィナンシャルグループ（FG）はビッグデータ分析などを手掛けるITサービス企業を2017年夏に新設する計画だ。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>インテルが自動運転に3兆円投資、捨て身の買収でエヌビディア追撃（激変！クルマ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/050900011/</link>
+			<description><![CDATA[　米インテルは、「捨て身」の一手を打った。自動運転の分野で存在感を高める米エヌビディアを追撃するためである。インテルは2017年3月、自動ブレーキシステム大手で自動運転技術を開発するイスラエルのモービルアイ（Mobileye）を約153億ドル（約1兆7000億円）で買収すると発表したのだ。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>C＃ではどうする？ 配列とコレクションで複数のデータをまとめて扱う（魅惑のC＃）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200187/051700004/</link>
+			<description><![CDATA[　この連載の第2回では変数、第3回ではクラスやオブジェクトを学びました。この第4回では、変数やオブジェクトといったデータをまとめて扱える仕組みを紹介します。それが「配列」と「コレクション」です。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ライムライトが国内CDN市場で攻勢、返金保証キャンペーンも（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701436/</link>
+			<description><![CDATA[　ライムライト・ネットワークス・ジャパンは2017年5月17日、プライベートネットワーク経由で配信されるコンテンツ・デリバリー・ネットワーク（CDN)「Limelight Orchestrate Platforrm」の機能を拡充して提供開始すると発表した。オンラインビデオのリバッファリングを削減するソフトウエア「EdgePrism」の機能を拡張したほか、さまざまなデバイスでIPv6やHTTP2での接続を可能とした。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「内部不正は会社の恥」、権限分離を経営層に説こう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/050800012/</link>
+			<description><![CDATA[　「内部不正は会社の恥。何としても防いでくれ」──経営層からこう懇願されてしまったとき、セキュリティ担当者は何をすればいいのだろうか。今回は内部不正のリスクを減らすための手法を解説する。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>4割がランサムウエア被害に、うち2割は対策強化予定なし（企業ITの実態2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050900182/051200004/</link>
+			<description><![CDATA[　日本情報システム・ユーザー協会（JUAS）が例年実施している「企業IT動向調査」の2016年度調査の結果を基に、企業のセキュリティ被害や対策の実態を見ていく。2016年もサイバー攻撃の脅威は増しており、偽装メールやランサムウエアが猛威をふるっている。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>固定発・携帯着の通話料が安くなる？（徹底検証！固定電話の未来）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100175/050100004/</link>
+			<description><![CDATA[　PSTNの移行問題は受け身的な議論が多い中、ユーザーのメリットが期待できるテーマが番号ポータビリティー（番ポ）と固定発・携帯着の通話料だ。番ポは携帯電話と同様の双方向が実現しそう。固定発・携帯着の通話料は低廉化が期待されている。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Wi-FiセキュリティがWEPだと、キケンなうえに遅くなる？（Wi-Fiのウソとホントを実証）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/051100017/</link>
+			<description><![CDATA[　Wi-FiのセキュリティにWEPを使うのは危険だ。WEPの暗号化を解析するツールが出回っており、数分あれば暗号化を解読することができてしまうためだ。そして、WEPの使用を避けるべき理由はもう1つ存在する。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ニコ動ニコ生の技術をフル活用、N高の授業とは？（教育ICT現場のリアル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/110400255/051500014/</link>
+			<description><![CDATA[　2016年4月に開校した学校法人角川ドワンゴ学園が運営するN高等学校。単位制の通信制（広域）高等学校で、当初から“ネットの高校”を掲げ、ICTの利活用を前提とした授業を展開。最新ツールの導入にも熱心だ。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Webアクセスが遅くなる時間帯を調査せよ（Wiresharkでトラブル解決）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122100310/050200004/</link>
+			<description><![CDATA[　システムの利用者から「Webアクセスが遅い」と言われたことがないだろうか。遅延は、物理層からアプリケーション層まで、様々なレイヤーで発生し得るため、単に遅いという証言だけでは原因を特定しにくい。そこでWiresharkを使って応答時間を調べ、遅くなっている状況を確認しよう。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>11ac対応の高速ワイヤレスストレージ、テレビ出力も（最新ワイヤレスストレージの実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200186/051500003/</link>
+			<description><![CDATA[　ASUS JAPANの「Travelair AC（WSD-A1）」は、32GBのフラッシュメモリーを搭載する。AndroidやiOSを搭載するスマートフォンやタブレット、パソコンのほかにKindle Fireでも利用できる。高速な802.11acを利用したWi-Fiアクセスが可能なのも特徴だ。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IT業界も過剰サービスは継続困難、ユーザー企業は現状を直視すべし（焦点を読む）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/051600084/</link>
+			<description><![CDATA[　宅配最大手のヤマト運輸がサービスレベルの引き下げを表明するなど、物流業界では人手不足が深刻化している。IT業界も他人事ではなく、しかも人材不足は一過性のものではない。日本は少子高齢化による人口減という構造問題を抱えているからだ。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>盗聴で逮捕され有罪になった“独裁者”から学んだ二つの事（谷島の情識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/200088/051400036/</link>
+			<description><![CDATA[　この3月、ある企業が消滅した。その企業の創業者は2003年12月、盗聴指示の疑いで逮捕され、翌年有罪判決を受けた。同氏の逮捕を受けて筆者が2003年に公開した二つの文章を読み直し、14年後に感じたことを書いてみた。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>“クラウドのようなもの”に落とし穴、IT部門は価値を生めるか（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/051500836/</link>
+			<description><![CDATA[　仮想化インフラで得られる恩恵の多くはコスト削減の範疇だ。コスト削減に力を入れすぎ、バリューをディスカッションする時間が失われたなら、自前インフラへの拘泥に反省点はある。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>VPNがやたら遅くなる理由（VPNの素朴な疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100004/</link>
+			<description><![CDATA[　インターネットVPN経由の通信が明らかに遅い場合、MTUの調整ができていないことがある。通信事業者のVPNサービスを利用していても、スループットが低いケースはある。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>第177回　IoT、ビッグデータ時代の自治体行政（その2） ――IoTと行財政改革（上山信一の「続・自治体改革の突破口」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/234646/050200034/</link>
+			<description><![CDATA[　前回は、センサーとデータ、通信技術の発達が自治体行政を大きく変える可能性があると紹介した。今回は特に行財政改革に与える影響を考えたい。行財政の将来を考える上で重要な要素といえば、「インフラ老朽化」と「人口の超高齢化」の2つである。くしくもIoTとビッグデータはこの2つの課題の解決に貢献しうる。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
