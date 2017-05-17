@@ -5,40 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    WannaCryランサムウェアから北朝鮮ハッカーのコード見つかる。断定は時期尚早も、背景には国家的な関与？
-</title>
-			<link>http://japanese.engadget.com/2017/05/16/wannacry/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/b3c964a2383e6ca29b051d348a39a99/205270737/mainnk.jpg" />
-　
-日本でも大企業をはじめとして多くの感染被害があったと伝えられているWannaCryランサムウェアですが、依然として謎なのが、誰がそれを作ったのかということ。米国の諜報機関 NSA が流出させた EternalBlueのコードを利用したという情報は早くからあったものの、それ以外の出どころに関する情報はあまり出てきていませんでした。
-
-しかし、Googleのセキュリティ研究者Neel Mehtaが伝えたところによると、初期バージョンのWannaCryのコードには2015年にソニー・ピクチャーズのハッキングに使われたコードとの類似性があったとのこと。このハッキングの実行犯は北朝鮮のサイバー攻撃グループ「Lazarus」とされており、WannaCryにも北朝鮮が関与している可能性が出てきました。
-
-もちろん、WannaCryを作った何者かが「北」のコードを拝借したということも十分にありえます。ただ、カスペルスキーのセキュリティ専門家は、新しいバージョンのWannaCryからは当該部分のコードが削除されており、意図的に取り除いたとすれば少なくとも北の関与の可能性が高いのではないかと推測しています。
-
-また、WannaCryにはいずれのバージョンにも拡散を停止させるフラグ、いわゆるキルスイッチが含まれている一方で、身代金の入金を自動的に確認するしくみを備えていません。本当に金銭目的なのであれば、有効には機能していないと考えられます。むしろ業務停止などの被害拡大を狙う意図があるのかもしれません。
-
-もちろん、記事執筆時点でわかっているのはいずれも状況証拠であり、北朝鮮の関与というのも研究者たちの推測の域を出ていません。ただ、北かどうかはともかくWannaCryの向こう側には組織的ななにかがある可能性のほうが高いとは言えそうです。
-
-ちなみに、セキュリティ企業 Hemidal Securityの研究者はWannaCryからキルスイッチを取り除いた亜種Uiwixを発見したと発表しています。キルスイッチは、使われていないドメイン名を使う仕組みになっており、そのドメインを誰かが所有することで感染拡大を止めることができました。しかし、Uiwixではその手法が使えないことになります。とはいえ対策方法はこれまでどおりなので、慌てる必要はありません。
-
-WannaCry騒ぎが沈静化したとしても、コンピュータに脆弱性があるかぎり、ランサムウェアを含む悪意のあるソフトウェアの危険性は常にあります。会社では権限の問題もあるものの、せめて自分が使うPCぐらいはしっかりとパッチを当て、最新の状態に保っておきたいものです。
- ]]></description>
-			<pubDate>Tue, 16 May 2017 14:30:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>    速報：「没入型フィッシング体験」ができる水中ドローンPowerRayが6月発売。動画撮影から魚群探知・誘導までOK
-</title>
-			<link>http://japanese.engadget.com/2017/05/16/powerray-6-ok/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/356b38fdf990750e401ca0166ec9ebb1/205270994/P-Ray_01_s.jpg" />
-中国のドローンメーカーPowerVision（パワービジョン)が、各種マリンレジャーに向けた水中ドローン『PowerRay』（パワーレイ）を発表しました。予約開始は5月16日（本日）からで、出荷予定は6月上旬からの予定。価格は16万8000円からです。
-
-同機は、個人向けに設計された、水中撮影や釣りに便利な各種機能を搭載したドローン。4K/30fpsでの水中動画撮影や静止画撮影をはじめ、ソナーユニットによる魚群探知、さらには照明による魚群誘導や釣り餌と釣り針の投下（オプション）を使っての釣りまでも可能な、多機能モデルです。
-<p><a href="http://japanese.engadget.com/gallery/powerray/" title="水中ドローン PowerRay">【ギャラリー】水中ドローン PowerRay (42枚)</a></p>
- ]]></description>
-			<pubDate>Tue, 16 May 2017 15:05:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    ユナイテッド航空、コクピット解錠コードを誤ってネット掲載。当座の対策は「目視で不審者でないか確認」
 </title>
 			<link>http://japanese.engadget.com/2017/05/16/United/</link>
@@ -537,6 +503,52 @@ Googleアシスタントが新たに覚えた言語は日本語のほかフラ�
 もうすぐ日本語でもニュースや天気予報、プロスポーツの試合結果などを壺型スピーカーに尋ねるだけで知ることができるようになりそうです。
  ]]></description>
 			<pubDate>Thu, 18 May 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    AIで世界を認識する新技術Google Lens発表。被写体の情報をその場で調べ、AR表示やアクションを実行
+</title>
+			<link>http://japanese.engadget.com/2017/05/17/ai-google-lens-ar/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/6522a6ec0ba4e3288bd5c9667b4dff2c/205278907/lens.jpg" />
+　
+Googleの開発者イベントGoogle I/O 2017より。GoogleがAIを活用したビジュアル検索機能Google Lensを発表しました。その機能はカメラで映し出した映像のなかにある物体を認識し、それが何か、またはそれに関する情報を検索してAR表示などで教えてくれるというもの。
+
+たとえば路傍に咲く花をカメラで映せば、その映像をリアルタイムにAIが認識し、何という名の花か説明をしてくれます。レストランの看板を映せば、その店の人気などの情報を知ることもできます。またWiFi設定が書かれたカードを読み取れば、その情報を解釈して自動的にスマートフォンをWiFi接続できます。
+
+さらにはコンサートの告知ポスターなどを移すことでカレンダーにその日程を書き込み、チケットの購入手配をするといった使い方までできるとのこと。
+
+ 
+
+
+With Google Lens, your smartphone camera won't just see what you see, but will also understand what you see to help you take action. #io17 pic.twitter.com/viOmWFjqk1
+- Google (@Google) 2017年5月17日
+
+
+
+発表の壇上では、たこ焼きと書かれた立て看板を撮影して４その文字情報を英語翻訳したり、そこからたこ焼きそのものサンプル画像を呼び出す様子を紹介していました。
+　
+
+　
+
+
+　
+ただ、たこ焼きを英語に翻訳と言いつつ提示したのが「"Takoyaki"かい」とか、「6個130円て、それタコ入っとんか?!」と思った人ももしかするといたかもしれません。
+
+Google LensはGoogleフォトで培ったAIによる画像認識の強化と、Googleアシスタントの音声認識AIを活用します。Googleのサンダー・ピチャイCEOは「機械学習とAIの世界を進化させるためにデータセンターをイチから再設計した」と語っています。
+ 
+ ]]></description>
+			<pubDate>Thu, 18 May 2017 06:15:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    Android Oの新機能が公開。動画ウィンドウやアプリアイコンからの通知確認、Chrorme以外での自動入力など
+</title>
+			<link>http://japanese.engadget.com/2017/05/17/android-o-chrorme/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/6ce1e910f7d186052033d41c675b344d/205280264/AndroidO_Func_01_s.jpg" />
+Googleの開発者会議、Google I/O 2017より。同イベントのキーノートにおける柱の一つは、やはり次期Androidとなる「Android O」でした。
+
+期待される正式名称の公開や、Pixel後継機などのハードウェア発表はなかったものの、目玉的な新機能を立て続けに紹介。また、開発者向けプレビューの2版目兼一般向けベータ版となる『O Developer Preview 2』の公開も開始しています。
+<p><a href="http://japanese.engadget.com/gallery/android-o-google-i-o-2017/" title="Android O 機能紹介 （Google I/O 2017）">【ギャラリー】Android O 機能紹介 （Google I/O 2017） (31枚)</a></p>
+ ]]></description>
+			<pubDate>Thu, 18 May 2017 06:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
