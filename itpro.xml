@@ -11,18 +11,6 @@
 			<pubDate>Mon, 15 May 2017 21:16:58 +0900</pubDate>
 		</item>
 		<item>
-			<title>Alphabet傘下のWaymoと配車サービスのLyft、自動運転車で提携（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051601409/</link>
-			<description><![CDATA[　米Googleの親会社Alphabetが設立した米Waymoと配車サービスの米Lyftが、自動運転車の開発に関して提携したと複数の海外メディアが現地時間2017年5月15日までに伝えた。]]></description>
-			<pubDate>Tue, 16 May 2017 10:12:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ランサムウエア「WannaCry」関連記事（ITproアーカイブス）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040700124/051500002/</link>
-			<description><![CDATA[　ランサムウエア「WannaCry」関連の記事をまとめました。ITproアーカイブスは、ITpro内の記事のリンク集です。内容は随時更新します。]]></description>
-			<pubDate>Tue, 16 May 2017 11:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Apple、多数の脆弱性に対処した「iOS 10.3.2」を公開（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051601410/</link>
 			<description><![CDATA[　米Appleは現地時間2017年5月15日、モバイルプラットフォームの最新アップデート「iOS 10.3.2」を公開した。目立った新機能の追加はなく、多数の不具合やセキュリティの問題を修正する。]]></description>
@@ -89,21 +77,33 @@
 			<pubDate>Tue, 16 May 2017 22:39:33 +0900</pubDate>
 		</item>
 		<item>
-			<title>完全自動運転の本命か？エヌビディアの「エグゼビア」（激変！クルマ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/051200016/</link>
-			<description><![CDATA[　自動運転の世界で米エヌビディアが主役になれるかどうか。それを左右するのが、次世代画像処理プロセッサ「Xavier（エグゼビア）」だ。エヌビディアが提供している自動運転プラットフォーム「DRIVE PX」の車載ハードウエアの性能を高めること。これがXavierの役割である。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>第16話  部下に背中を見せられているか？（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/041800021/</link>
 			<description><![CDATA[　部下に背中を見せられている管理者が減っているという。本来、管理職とはプレーヤーを束ねる役割であるはず。ところが、最近は管理職やリーダー職でありながら、メンバーと同列でのプレーも求められている。メンバーと肩を並べて日々の細かい仕事に追われてしまっている人が少なくない。]]></description>
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>オブジェクト指向プログラミングの基礎、クラスとオブジェクトを学ぶ（魅惑のC＃）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200187/051500003/</link>
+			<description><![CDATA[　前回は、C＃の基礎である型や演算子と、if文による分岐処理を学びました。今回は、C＃のプログラムの基本である「クラス」や「オブジェクト」を紹介します。]]></description>
+			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>完全自動運転の本命か？エヌビディアの「エグゼビア」（激変！クルマ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/051200016/</link>
+			<description><![CDATA[　自動運転の世界で米エヌビディアが主役になれるかどうか。それを左右するのが、次世代画像処理プロセッサ「Xavier（エグゼビア）」だ。エヌビディアが提供している自動運転プラットフォーム「DRIVE PX」の車載ハードウエアの性能を高めること。これがXavierの役割である。]]></description>
+			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>インターネットVPNで起こしがちな三つのミス（VPNの素朴な疑問）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100003/</link>
 			<description><![CDATA[　自前でインターネットVPNを構築すると、必要な設定をしたのに通信できないといったことがある。VPNの接続は確立しているのにpingコマンドなど実際の通信ができない場合、その原因のほとんどは設定ミスによるものだ。]]></description>
+			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ビジネスメール詐欺、その巧妙さと恐ろしさ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051500972/</link>
+			<description><![CDATA[　業務メールに見せかけた偽のメールを使って金銭を振り込ませる「ビジネスメール詐欺（BEC）」の被害が増えている。被害に遭わないためには、手口を知ることが何よりも有効だ。その巧みな手口を解説する。]]></description>
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -185,18 +185,6 @@
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ビジネスメール詐欺、その巧妙さと恐ろしさ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051500972/</link>
-			<description><![CDATA[　業務メールに見せかけた偽のメールを使って金銭を振り込ませる「ビジネスメール詐欺（BEC）」の被害が増えている。被害に遭わないためには、手口を知ることが何よりも有効だ。その巧みな手口を解説する。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>オブジェクト指向プログラミングの基礎、クラスとオブジェクトを学ぶ（魅惑のC＃）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200187/051500003/</link>
-			<description><![CDATA[　前回は、C＃の基礎である型や演算子と、if文による分岐処理を学びました。今回は、C＃のプログラムの基本である「クラス」や「オブジェクト」を紹介します。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>入社志望者に与えた印象が企業のブランドに及ぼす影響（中）（入社志望者に与えた印象が企業のブランドに及ぼす影響）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900002/</link>
 			<description><![CDATA[<div>
@@ -229,6 +217,18 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 17 May 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>93％が「酔わず」、東急バスとフジテレビなど観光バス内でVR実証実験（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051601423/</link>
+			<description><![CDATA[　東急バスとフジテレビ、仮想現実（VR）ベンチャーのVRize（東京都港区）の3社は2017年5月16日、走行中の観光バスの車内でVR映像を視聴する実証実験を共同で実施したと発表した。長時間の移動中の娯楽提供や目的地の紹介などで活用する考えだ。]]></description>
+			<pubDate>Wed, 17 May 2017 07:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google、Facebook、Appleらが主導するAI関連団体、ソニーやIntelも参加（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701424/</link>
+			<description><![CDATA[　人工知能（AI）の普及促進を目指す非営利組織「Partnership on AI to Benefit People and Society （Partnership on AI）」は現地時間2017年5月16日、新たなメンバーを発表した。]]></description>
+			<pubDate>Wed, 17 May 2017 09:28:44 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
