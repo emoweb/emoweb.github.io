@@ -5,16 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「日本はルーターに守られた」、WannaCry流行でトレンドマイクロが分析（速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051501407/?n17</link>
-			<description><![CDATA[　トレンドマイクロは2017年5月15日、世界規模で被害が相次いだランサムウエア「WannaCry（ワナクライ）」の説明会を開催した。5月12日から15日16時までに、同社の法人・個人ユーザーから175件の問い合わせと9件の被害報告があったという。]]></description>
-			<pubDate>Mon, 15 May 2017 21:16:58 +0900</pubDate>
-		</item>
-		<item>
-			<title>ニュータニックスがユーザー会を発足、「ハイブリッドクラウド時代が来ている」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051601411/</link>
-			<description><![CDATA[　ニュータニックス・ジャパンは2017年5月16日、パートナー企業や顧客企業が参加できるユーザー会を発足した。「ハイパーコンバージドインフラストラクチャー（HCI）」を試せる検証センターを使ったりユーザー事例を共有したりする。]]></description>
-			<pubDate>Tue, 16 May 2017 15:01:49 +0900</pubDate>
+			<title>いま、一番読まれている記事は：スマホの容量がいっぱいならワイヤレスストレージ、エレコム製は56gと超軽量（最新ワイヤレスストレージの実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200186/051200001/?n17</link>
+			<description><![CDATA[　内蔵ストレージから待避したいデータを頻繁に読み書きするなら、ワイヤレスストレージが便利だ。ワイヤレスストレージは、パソコンやスマートフォン、タブレットからWi-Fiで接続できるストレージ。バッテリーを搭載しているので、電源を確保できない外出先でも活用しやすい。]]></description>
+			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>「2018年度に放送の同時配信開始を計画」、WOWOWの田中社長が報告（ニュース）</title>
@@ -71,6 +65,12 @@
 			<pubDate>Tue, 16 May 2017 22:39:33 +0900</pubDate>
 		</item>
 		<item>
+			<title>オブジェクト指向プログラミングの基礎、クラスとオブジェクトを学ぶ（魅惑のC＃）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200187/051500003/</link>
+			<description><![CDATA[　前回は、C＃の基礎である型や演算子と、if文による分岐処理を学びました。今回は、C＃のプログラムの基本である「クラス」や「オブジェクト」を紹介します。]]></description>
+			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>完全自動運転の本命か？エヌビディアの「エグゼビア」（激変！クルマ×AI 業界地図）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/051200016/</link>
 			<description><![CDATA[　自動運転の世界で米エヌビディアが主役になれるかどうか。それを左右するのが、次世代画像処理プロセッサ「Xavier（エグゼビア）」だ。エヌビディアが提供している自動運転プラットフォーム「DRIVE PX」の車載ハードウエアの性能を高めること。これがXavierの役割である。]]></description>
@@ -83,9 +83,9 @@
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>オブジェクト指向プログラミングの基礎、クラスとオブジェクトを学ぶ（魅惑のC＃）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200187/051500003/</link>
-			<description><![CDATA[　前回は、C＃の基礎である型や演算子と、if文による分岐処理を学びました。今回は、C＃のプログラムの基本である「クラス」や「オブジェクト」を紹介します。]]></description>
+			<title>IoT技術者はフルスタックのスーパーマンであるべき？（ゼロから挑戦！IoT開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/051500005/</link>
+			<description><![CDATA[　IoTシステムを設計するエンジニア、すなわちIoTアーキテクトには、どのような資質やスキルが求められるのだろうか。やはり、組み込み系とエンタープライズ系、そして人工知能やビッグデータなどの知識を合わせ持った、スーパーマンのようなフルスタックエンジニアが必要なのだろうか？]]></description>
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>プログラミング抜きの書籍制作なんて考えられない（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/051600009/</link>
-			<description><![CDATA[　今月紹介するのは鹿野桂一郎氏。オーム社で数々の技術書の編集に携わった後、独立してラムダノートという技術書の出版社を立ち上げた。同氏は、書籍の制作に使っている自動組版ツールを自ら開発するというエンジニアの顔も持つ。今回は、オーム社に入るまでの経緯とプログラミングで仕事の効率化を始めたきっかけを聞いた。]]></description>
+			<title>誰よりも頼られるSEになるには？修行は現場で積む（若手情シスSEに送る幸せのヒント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/051600003/</link>
+			<description><![CDATA[　一般的にシステム開発プロジェクトでは利用部門にインタビューして業務目標と課題を抽出し、プロジェクト計画を作成します。具体的なシステム設計に入る段階では利用部署にヒアリングをして要件を定義していきます。ここで、私はいつも「もう一歩踏み込めないものか」と考えていました。]]></description>
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>IoT技術者はフルスタックのスーパーマンであるべき？（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/051500005/</link>
-			<description><![CDATA[　IoTシステムを設計するエンジニア、すなわちIoTアーキテクトには、どのような資質やスキルが求められるのだろうか。やはり、組み込み系とエンタープライズ系、そして人工知能やビッグデータなどの知識を合わせ持った、スーパーマンのようなフルスタックエンジニアが必要なのだろうか？]]></description>
+			<title>インターネットVPNで起こしがちな三つのミス（VPNの素朴な疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100003/</link>
+			<description><![CDATA[　自前でインターネットVPNを構築すると、必要な設定をしたのに通信できないといったことがある。VPNの接続は確立しているのにpingコマンドなど実際の通信ができない場合、その原因のほとんどは設定ミスによるものだ。]]></description>
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -167,15 +167,9 @@
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>誰よりも頼られるSEになるには？修行は現場で積む（若手情シスSEに送る幸せのヒント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/051600003/</link>
-			<description><![CDATA[　一般的にシステム開発プロジェクトでは利用部門にインタビューして業務目標と課題を抽出し、プロジェクト計画を作成します。具体的なシステム設計に入る段階では利用部署にヒアリングをして要件を定義していきます。ここで、私はいつも「もう一歩踏み込めないものか」と考えていました。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>インターネットVPNで起こしがちな三つのミス（VPNの素朴な疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100003/</link>
-			<description><![CDATA[　自前でインターネットVPNを構築すると、必要な設定をしたのに通信できないといったことがある。VPNの接続は確立しているのにpingコマンドなど実際の通信ができない場合、その原因のほとんどは設定ミスによるものだ。]]></description>
+			<title>プログラミング抜きの書籍制作なんて考えられない（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/051600009/</link>
+			<description><![CDATA[　今月紹介するのは鹿野桂一郎氏。オーム社で数々の技術書の編集に携わった後、独立してラムダノートという技術書の出版社を立ち上げた。同氏は、書籍の制作に使っている自動組版ツールを自ら開発するというエンジニアの顔も持つ。今回は、オーム社に入るまでの経緯とプログラミングで仕事の効率化を始めたきっかけを聞いた。]]></description>
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -229,6 +223,44 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701425/</link>
 			<description><![CDATA[　米国の市場調査会社IDCが先ごろ公表したインドのスマートフォン市場に関するリポートによると、2017年第1四半期（1～3月）の同国における出荷台数は2700万台となり、前年同期から14.8％増加、前の四半期から4.7％増加した。]]></description>
 			<pubDate>Wed, 17 May 2017 09:50:30 +0900</pubDate>
+		</item>
+		<item>
+			<title>ARM版Windows 10でVRヘッドセットは使えるか（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051700368/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　ARM版Windowsの登場が近づきつつある。米Microsoftは、現地時間2017年5月10～12日に開催した開発者会議「Build 2017」の中で、ARMプロセッサ搭載機でWindows 10のプロトタイプ版のデスクトップが動く様子を披露した。「Office」などのアプリケーションも動作する。製品は年内に登場する見通しだ。</p>
+
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051700368/ph01.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Microsoft</div>
+</div>
+
+<p>　ARM版Windows 10のデモは、Microsoftの動画コミュニティサイト「Channel 9」に掲載された<a href="https://channel9.msdn.com/Events/Build/2017/P4171" target="_blank">動画</a>でも見ることができる。この中でプレゼンターは、Microsoftが以前表明していた見解と同じように、ARM版Windowsではすべてのx86アプリケーションが動くと述べた。</p>
+
+<p>　Microsoftは、ARM版Windows 10はx86版と同じように使えると主張してきた。だが、不明な点も数多く残っている。その1つが、「Windows Mixed Reality（MR：複合現実）」のヘッドセットがARM版Windows 10でも動くのかどうかだ。</p>
+
+<p>　台湾Acerが2017年4月に開催したイベントの中で、Microsoftの広報担当者は、Windows MRのヘッドセットは今のところx86の命令セットのみをサポートするように構成されていると説明した。また同社は、Buildの中でも同様の姿勢をあらためて示した。</p>
+
+<p>　Microsoftによると、Windows MRのヘッドセットが動作するパソコンの最小システム要件は、Intelのデュアルコア版Core i5と、内蔵GPUのHD Graphics 620である。Windows MRのヘッドセットは、Acer、台湾ASUSTeK Computer、米Dell、中国Lenovo、米HPなどのパソコンメーカーが発売する予定だ。4月にAcerは、ヘッドセットの価格が299ドルからであると発表した。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051700368/?ST=cm-hardware&P=2">だが、ARMプロセッサを製造する米Qualcommの見解によれば...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051700368/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051700368/?ST=cm-hardware&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051700368/?ST=cm-hardware&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051700368/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 17 May 2017 10:18:41 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
