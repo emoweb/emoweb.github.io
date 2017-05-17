@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：スマホの容量がいっぱいならワイヤレスストレージ、エレコム製は56gと超軽量（最新ワイヤレスストレージの実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200186/051200001/?n17</link>
-			<description><![CDATA[　内蔵ストレージから待避したいデータを頻繁に読み書きするなら、ワイヤレスストレージが便利だ。ワイヤレスストレージは、パソコンやスマートフォン、タブレットからWi-Fiで接続できるストレージ。バッテリーを搭載しているので、電源を確保できない外出先でも活用しやすい。]]></description>
-			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「2018年度に放送の同時配信開始を計画」、WOWOWの田中社長が報告（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051601412/</link>
-			<description><![CDATA[　WOWOW 代表取締役社長の田中晃氏は2017年5月16日の決算発表会見で、新たに作成した「中期経営計画（2017年度～2020年度）」（2017年5月15日に発表）の内容を報告、この中で「2018年度に放送の同時配信開始を計画している」と述べた。]]></description>
-			<pubDate>Tue, 16 May 2017 15:41:27 +0900</pubDate>
-		</item>
-		<item>
 			<title>レノボジャパン、10.1型2in1タブレットPCのコンシューマーモデル（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051601414/</link>
 			<description><![CDATA[　レノボ・ジャパンは2017年5月16日、10.1型2in1タブレットPC「Lenovo ideapad Miix 320」のコンシューマー向けモデルを5月26日から販売開始すると発表した。主に初等教育向けを想定したコマーシャルモデルとして3月28日に発表した製品で、今回廉価なコンシューマーモデルを追加発売する。]]></description>
@@ -65,6 +53,12 @@
 			<pubDate>Tue, 16 May 2017 22:39:33 +0900</pubDate>
 		</item>
 		<item>
+			<title>IoT技術者はフルスタックのスーパーマンであるべき？（ゼロから挑戦！IoT開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/051500005/</link>
+			<description><![CDATA[　IoTシステムを設計するエンジニア、すなわちIoTアーキテクトには、どのような資質やスキルが求められるのだろうか。やはり、組み込み系とエンタープライズ系、そして人工知能やビッグデータなどの知識を合わせ持った、スーパーマンのようなフルスタックエンジニアが必要なのだろうか？]]></description>
+			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>オブジェクト指向プログラミングの基礎、クラスとオブジェクトを学ぶ（魅惑のC＃）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200187/051500003/</link>
 			<description><![CDATA[　前回は、C＃の基礎である型や演算子と、if文による分岐処理を学びました。今回は、C＃のプログラムの基本である「クラス」や「オブジェクト」を紹介します。]]></description>
@@ -83,9 +77,9 @@
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>IoT技術者はフルスタックのスーパーマンであるべき？（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/051500005/</link>
-			<description><![CDATA[　IoTシステムを設計するエンジニア、すなわちIoTアーキテクトには、どのような資質やスキルが求められるのだろうか。やはり、組み込み系とエンタープライズ系、そして人工知能やビッグデータなどの知識を合わせ持った、スーパーマンのようなフルスタックエンジニアが必要なのだろうか？]]></description>
+			<title>Android 6.0のVPN接続問題、見えてきた解決の道筋（ネットワーク・ホットトピックス）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/277462/050800058/</link>
+			<description><![CDATA[　Android 6.0以降にはIPsecにおけるSHA-256の取り扱いに不備があり、標準に準拠したVPNサーバーとIPsecで接続できないケースがある。同問題は1年半近く放置されてきたが、ようやく解決への道筋が見えてきた。同問題の詳細と、その解決方法などについて紹介する。]]></description>
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,15 +95,15 @@
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>インターネットVPNで起こしがちな三つのミス（VPNの素朴な疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100003/</link>
-			<description><![CDATA[　自前でインターネットVPNを構築すると、必要な設定をしたのに通信できないといったことがある。VPNの接続は確立しているのにpingコマンドなど実際の通信ができない場合、その原因のほとんどは設定ミスによるものだ。]]></description>
+			<title>テレワークの成果は？社員に聞いたリクルート子会社（リクルートの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051000183/051000003/</link>
+			<description><![CDATA[　企業向け研修やコンサルティングを提供しているリクルートマネジメントソリューションズは、「オフィスワーカーの業務生産性向上」を目的に、テレワーク制度を導入している。]]></description>
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Android 6.0のVPN接続問題、見えてきた解決の道筋（ネットワーク・ホットトピックス）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/277462/050800058/</link>
-			<description><![CDATA[　Android 6.0以降にはIPsecにおけるSHA-256の取り扱いに不備があり、標準に準拠したVPNサーバーとIPsecで接続できないケースがある。同問題は1年半近く放置されてきたが、ようやく解決への道筋が見えてきた。同問題の詳細と、その解決方法などについて紹介する。]]></description>
+			<title>プログラミング抜きの書籍制作なんて考えられない（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/051600009/</link>
+			<description><![CDATA[　今月紹介するのは鹿野桂一郎氏。オーム社で数々の技術書の編集に携わった後、独立してラムダノートという技術書の出版社を立ち上げた。同氏は、書籍の制作に使っている自動組版ツールを自ら開発するというエンジニアの顔も持つ。今回は、オーム社に入るまでの経緯とプログラミングで仕事の効率化を始めたきっかけを聞いた。]]></description>
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -161,15 +155,9 @@
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>テレワークの成果は？社員に聞いたリクルート子会社（リクルートの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051000183/051000003/</link>
-			<description><![CDATA[　企業向け研修やコンサルティングを提供しているリクルートマネジメントソリューションズは、「オフィスワーカーの業務生産性向上」を目的に、テレワーク制度を導入している。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>プログラミング抜きの書籍制作なんて考えられない（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/051600009/</link>
-			<description><![CDATA[　今月紹介するのは鹿野桂一郎氏。オーム社で数々の技術書の編集に携わった後、独立してラムダノートという技術書の出版社を立ち上げた。同氏は、書籍の制作に使っている自動組版ツールを自ら開発するというエンジニアの顔も持つ。今回は、オーム社に入るまでの経緯とプログラミングで仕事の効率化を始めたきっかけを聞いた。]]></description>
+			<title>インターネットVPNで起こしがちな三つのミス（VPNの素朴な疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100003/</link>
+			<description><![CDATA[　自前でインターネットVPNを構築すると、必要な設定をしたのに通信できないといったことがある。VPNの接続は確立しているのにpingコマンドなど実際の通信ができない場合、その原因のほとんどは設定ミスによるものだ。]]></description>
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -261,6 +249,12 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 17 May 2017 10:18:41 +0900</pubDate>
+		</item>
+		<item>
+			<title>オークマと日立、Lumada活用で多品種少量生産の効率を2倍に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701426/</link>
+			<description><![CDATA[工作機械のオークマと日立は2017年5月16日、協業を発表した。日立のIoT基盤「Lumada」を2017年3月に操業を一部開始したオークマの工場「Dream Site2（DS2）」へ導入する。]]></description>
+			<pubDate>Wed, 17 May 2017 11:59:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
