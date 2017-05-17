@@ -11,12 +11,6 @@
 			<pubDate>Mon, 15 May 2017 21:16:58 +0900</pubDate>
 		</item>
 		<item>
-			<title>Apple、多数の脆弱性に対処した「iOS 10.3.2」を公開（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051601410/</link>
-			<description><![CDATA[　米Appleは現地時間2017年5月15日、モバイルプラットフォームの最新アップデート「iOS 10.3.2」を公開した。目立った新機能の追加はなく、多数の不具合やセキュリティの問題を修正する。]]></description>
-			<pubDate>Tue, 16 May 2017 11:07:39 +0900</pubDate>
-		</item>
-		<item>
 			<title>ニュータニックスがユーザー会を発足、「ハイブリッドクラウド時代が来ている」（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051601411/</link>
 			<description><![CDATA[　ニュータニックス・ジャパンは2017年5月16日、パートナー企業や顧客企業が参加できるユーザー会を発足した。「ハイパーコンバージドインフラストラクチャー（HCI）」を試せる検証センターを使ったりユーザー事例を共有したりする。]]></description>
@@ -77,6 +71,12 @@
 			<pubDate>Tue, 16 May 2017 22:39:33 +0900</pubDate>
 		</item>
 		<item>
+			<title>完全自動運転の本命か？エヌビディアの「エグゼビア」（激変！クルマ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/051200016/</link>
+			<description><![CDATA[　自動運転の世界で米エヌビディアが主役になれるかどうか。それを左右するのが、次世代画像処理プロセッサ「Xavier（エグゼビア）」だ。エヌビディアが提供している自動運転プラットフォーム「DRIVE PX」の車載ハードウエアの性能を高めること。これがXavierの役割である。]]></description>
+			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>第16話  部下に背中を見せられているか？（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/041800021/</link>
 			<description><![CDATA[　部下に背中を見せられている管理者が減っているという。本来、管理職とはプレーヤーを束ねる役割であるはず。ところが、最近は管理職やリーダー職でありながら、メンバーと同列でのプレーも求められている。メンバーと肩を並べて日々の細かい仕事に追われてしまっている人が少なくない。]]></description>
@@ -89,21 +89,21 @@
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>完全自動運転の本命か？エヌビディアの「エグゼビア」（激変！クルマ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/051200016/</link>
-			<description><![CDATA[　自動運転の世界で米エヌビディアが主役になれるかどうか。それを左右するのが、次世代画像処理プロセッサ「Xavier（エグゼビア）」だ。エヌビディアが提供している自動運転プラットフォーム「DRIVE PX」の車載ハードウエアの性能を高めること。これがXavierの役割である。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>インターネットVPNで起こしがちな三つのミス（VPNの素朴な疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100003/</link>
-			<description><![CDATA[　自前でインターネットVPNを構築すると、必要な設定をしたのに通信できないといったことがある。VPNの接続は確立しているのにpingコマンドなど実際の通信ができない場合、その原因のほとんどは設定ミスによるものだ。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ビジネスメール詐欺、その巧妙さと恐ろしさ（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051500972/</link>
 			<description><![CDATA[　業務メールに見せかけた偽のメールを使って金銭を振り込ませる「ビジネスメール詐欺（BEC）」の被害が増えている。被害に遭わないためには、手口を知ることが何よりも有効だ。その巧みな手口を解説する。]]></description>
+			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>プログラミング抜きの書籍制作なんて考えられない（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/051600009/</link>
+			<description><![CDATA[　今月紹介するのは鹿野桂一郎氏。オーム社で数々の技術書の編集に携わった後、独立してラムダノートという技術書の出版社を立ち上げた。同氏は、書籍の制作に使っている自動組版ツールを自ら開発するというエンジニアの顔も持つ。今回は、オーム社に入るまでの経緯とプログラミングで仕事の効率化を始めたきっかけを聞いた。]]></description>
+			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IoT技術者はフルスタックのスーパーマンであるべき？（ゼロから挑戦！IoT開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/051500005/</link>
+			<description><![CDATA[　IoTシステムを設計するエンジニア、すなわちIoTアーキテクトには、どのような資質やスキルが求められるのだろうか。やはり、組み込み系とエンタープライズ系、そして人工知能やビッグデータなどの知識を合わせ持った、スーパーマンのようなフルスタックエンジニアが必要なのだろうか？]]></description>
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -173,15 +173,9 @@
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>プログラミング抜きの書籍制作なんて考えられない（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/051600009/</link>
-			<description><![CDATA[　今月紹介するのは鹿野桂一郎氏。オーム社で数々の技術書の編集に携わった後、独立してラムダノートという技術書の出版社を立ち上げた。同氏は、書籍の制作に使っている自動組版ツールを自ら開発するというエンジニアの顔も持つ。今回は、オーム社に入るまでの経緯とプログラミングで仕事の効率化を始めたきっかけを聞いた。]]></description>
-			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IoT技術者はフルスタックのスーパーマンであるべき？（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/051500005/</link>
-			<description><![CDATA[　IoTシステムを設計するエンジニア、すなわちIoTアーキテクトには、どのような資質やスキルが求められるのだろうか。やはり、組み込み系とエンタープライズ系、そして人工知能やビッグデータなどの知識を合わせ持った、スーパーマンのようなフルスタックエンジニアが必要なのだろうか？]]></description>
+			<title>インターネットVPNで起こしがちな三つのミス（VPNの素朴な疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100003/</link>
+			<description><![CDATA[　自前でインターネットVPNを構築すると、必要な設定をしたのに通信できないといったことがある。VPNの接続は確立しているのにpingコマンドなど実際の通信ができない場合、その原因のほとんどは設定ミスによるものだ。]]></description>
 			<pubDate>Wed, 17 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -229,6 +223,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701424/</link>
 			<description><![CDATA[　人工知能（AI）の普及促進を目指す非営利組織「Partnership on AI to Benefit People and Society （Partnership on AI）」は現地時間2017年5月16日、新たなメンバーを発表した。]]></description>
 			<pubDate>Wed, 17 May 2017 09:28:44 +0900</pubDate>
+		</item>
+		<item>
+			<title>インドのスマホ市場、中国メーカーの出荷台数が過半に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701425/</link>
+			<description><![CDATA[　米国の市場調査会社IDCが先ごろ公表したインドのスマートフォン市場に関するリポートによると、2017年第1四半期（1～3月）の同国における出荷台数は2700万台となり、前年同期から14.8％増加、前の四半期から4.7％増加した。]]></description>
+			<pubDate>Wed, 17 May 2017 09:50:30 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
