@@ -11,24 +11,6 @@
 			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ダイダン、IoTで施設の温度・照度を自分好みにする実証実験（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701428/</link>
-			<description><![CDATA[　施工大手のダイダン（大阪市）は2017年5月17日、IoT（インターネットオブシングス）を活用したスマートビル制御システムの実証実験を開始した。センサーで取得した照度や温度などの環境情報と施設利用者の位置情報をクラウドに集約し、照明や空調を動的に制御するものである。]]></description>
-			<pubDate>Wed, 17 May 2017 16:24:02 +0900</pubDate>
-		</item>
-		<item>
-			<title>富士通が新規参入の対話ロボットを披露、関連事業で売り上げ300億円へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701427/</link>
-			<description><![CDATA[　富士通は、ユニロボットと共同開発した対話ロボット「ユニボ」を、2017年5月18日から開催する富士通フォーラム2017に参考出展する。富士通のAI「Zinrai」を活用して開発した。音声による感情認識が可能で、より人間らしい会話ができることが特徴だ。]]></description>
-			<pubDate>Wed, 17 May 2017 17:14:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本生命がビッグデータで健康支援、保険×ITの「インシュアテック」へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701430/</link>
-			<description><![CDATA[　日本生命保険は2017年5月17日、野村総合研究所（NRI）、リクルートホールディングス（HD）と共同で健診や医療のビッグデータを使った健康増進サービスを始めると発表した。サービスを通じて集めた健診などのデータを分析して、新たな保険商品の開発をはじめとする保険事業の強化を図る。]]></description>
-			<pubDate>Wed, 17 May 2017 17:25:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>AI時代に必要なスキルは「対人関係力」と「創造力」、アデコが調査報告（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701429/</link>
 			<description><![CDATA[　AI時代で重要なスキルに「対人関係力」に加えて「創造力」──。総合人材サービス大手のアデコは2017年5月17日、上場企業の管理職に「重要なスキル」などを尋ねたアンケート調査結果を公表した。]]></description>
@@ -60,6 +42,24 @@
 			<pubDate>Wed, 17 May 2017 22:32:03 +0900</pubDate>
 		</item>
 		<item>
+			<title>Office 365で文字化け、その回避策（ここがおかしい！？Office 365）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800180/051400008/</link>
+			<description><![CDATA[　WebブラウザーでOffice 365を利用していると、テキストファイルを開いたとき文字化けすることがある。原因は、そのファイルがWindowsアプリケーションでは一般的な文字コード、「Shift_JIS（シフトJIS）」で保存しているからだ。回避策はあるのだろうか。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IT業界も過剰サービスは継続困難、ユーザー企業は現状を直視すべし（焦点を読む）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/051600084/</link>
+			<description><![CDATA[　宅配最大手のヤマト運輸がサービスレベルの引き下げを表明するなど、物流業界では人手不足が深刻化している。IT業界も他人事ではなく、しかも人材不足は一過性のものではない。日本は少子高齢化による人口減という構造問題を抱えているからだ。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>盗聴で逮捕され有罪になった“独裁者”から学んだ二つの事（谷島の情識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/200088/051400036/</link>
+			<description><![CDATA[　この3月、ある企業が消滅した。その企業の創業者は2003年12月、盗聴指示の疑いで逮捕され、翌年有罪判決を受けた。同氏の逮捕を受けて筆者が2003年に公開した二つの文章を読み直し、14年後に感じたことを書いてみた。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>第177回　IoT、ビッグデータ時代の自治体行政（その2） ――IoTと行財政改革（上山信一の「続・自治体改革の突破口」）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/234646/050200034/</link>
 			<description><![CDATA[　前回は、センサーとデータ、通信技術の発達が自治体行政を大きく変える可能性があると紹介した。今回は特に行財政改革に与える影響を考えたい。行財政の将来を考える上で重要な要素といえば、「インフラ老朽化」と「人口の超高齢化」の2つである。くしくもIoTとビッグデータはこの2つの課題の解決に貢献しうる。]]></description>
@@ -84,9 +84,9 @@
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Office 365で文字化け、その回避策（ここがおかしい！？Office 365）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800180/051400008/</link>
-			<description><![CDATA[　WebブラウザーでOffice 365を利用していると、テキストファイルを開いたとき文字化けすることがある。原因は、そのファイルがWindowsアプリケーションでは一般的な文字コード、「Shift_JIS（シフトJIS）」で保存しているからだ。回避策はあるのだろうか。]]></description>
+			<title>“クラウドのようなもの”に落とし穴、IT部門は価値を生めるか（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/051500836/</link>
+			<description><![CDATA[　仮想化インフラで得られる恩恵の多くはコスト削減の範疇だ。コスト削減に力を入れすぎ、バリューをディスカッションする時間が失われたなら、自前インフラへの拘泥に反省点はある。]]></description>
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -96,15 +96,15 @@
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>VPNがやたら遅くなる理由（VPNの素朴な疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100004/</link>
-			<description><![CDATA[　インターネットVPN経由の通信が明らかに遅い場合、MTUの調整ができていないことがある。通信事業者のVPNサービスを利用していても、スループットが低いケースはある。]]></description>
+			<title>Webアクセスが遅くなる時間帯を調査せよ（Wiresharkでトラブル解決）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122100310/050200004/</link>
+			<description><![CDATA[　システムの利用者から「Webアクセスが遅い」と言われたことがないだろうか。遅延は、物理層からアプリケーション層まで、様々なレイヤーで発生し得るため、単に遅いという証言だけでは原因を特定しにくい。そこでWiresharkを使って応答時間を調べ、遅くなっている状況を確認しよう。]]></description>
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>“クラウドのようなもの”に落とし穴、IT部門は価値を生めるか（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/051500836/</link>
-			<description><![CDATA[　仮想化インフラで得られる恩恵の多くはコスト削減の範疇だ。コスト削減に力を入れすぎ、バリューをディスカッションする時間が失われたなら、自前インフラへの拘泥に反省点はある。]]></description>
+			<title>11ac対応の高速ワイヤレスストレージ、テレビ出力も（最新ワイヤレスストレージの実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200186/051500003/</link>
+			<description><![CDATA[　ASUS JAPANの「Travelair AC（WSD-A1）」は、32GBのフラッシュメモリーを搭載する。AndroidやiOSを搭載するスマートフォンやタブレット、パソコンのほかにKindle Fireでも利用できる。高速な802.11acを利用したWi-Fiアクセスが可能なのも特徴だ。]]></description>
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -162,27 +162,9 @@
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Webアクセスが遅くなる時間帯を調査せよ（Wiresharkでトラブル解決）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122100310/050200004/</link>
-			<description><![CDATA[　システムの利用者から「Webアクセスが遅い」と言われたことがないだろうか。遅延は、物理層からアプリケーション層まで、様々なレイヤーで発生し得るため、単に遅いという証言だけでは原因を特定しにくい。そこでWiresharkを使って応答時間を調べ、遅くなっている状況を確認しよう。]]></description>
-			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>11ac対応の高速ワイヤレスストレージ、テレビ出力も（最新ワイヤレスストレージの実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200186/051500003/</link>
-			<description><![CDATA[　ASUS JAPANの「Travelair AC（WSD-A1）」は、32GBのフラッシュメモリーを搭載する。AndroidやiOSを搭載するスマートフォンやタブレット、パソコンのほかにKindle Fireでも利用できる。高速な802.11acを利用したWi-Fiアクセスが可能なのも特徴だ。]]></description>
-			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IT業界も過剰サービスは継続困難、ユーザー企業は現状を直視すべし（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/051600084/</link>
-			<description><![CDATA[　宅配最大手のヤマト運輸がサービスレベルの引き下げを表明するなど、物流業界では人手不足が深刻化している。IT業界も他人事ではなく、しかも人材不足は一過性のものではない。日本は少子高齢化による人口減という構造問題を抱えているからだ。]]></description>
-			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>盗聴で逮捕され有罪になった“独裁者”から学んだ二つの事（谷島の情識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/200088/051400036/</link>
-			<description><![CDATA[　この3月、ある企業が消滅した。その企業の創業者は2003年12月、盗聴指示の疑いで逮捕され、翌年有罪判決を受けた。同氏の逮捕を受けて筆者が2003年に公開した二つの文章を読み直し、14年後に感じたことを書いてみた。]]></description>
+			<title>VPNがやたら遅くなる理由（VPNの素朴な疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100004/</link>
+			<description><![CDATA[　インターネットVPN経由の通信が明らかに遅い場合、MTUの調整ができていないことがある。通信事業者のVPNサービスを利用していても、スループットが低いケースはある。]]></description>
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -235,10 +217,56 @@
 			<pubDate>Thu, 18 May 2017 09:30:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>iPhoneのインド生産始まる、狙いは価格引き下げとブランド構築か（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051801439/</link>
+			<description><![CDATA[　米Appleがかねて計画していた、iPhoneのインドにおける組み立て生産が始まったと、米Wall Street JournalやインドEconomic Timesなどの海外メディアが現地時間2017年5月18日までに報じた。]]></description>
+			<pubDate>Thu, 18 May 2017 09:40:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>複雑になった業務アプリを機能ごとに自動分割、富士通研が新技術を開発（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051801437/</link>
 			<description><![CDATA[　富士通研究所はこのほど、長年の保守で複雑になった業務アプリケーションの保守性を高める技術を開発した。2018年にも実用化し、対象言語はCOBOLとJavaからスタートする。]]></description>
 			<pubDate>Thu, 18 May 2017 09:58:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「Google Assistant」がiPhoneでも利用可能に、英語のみ対応（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051801440/</link>
+			<description><![CDATA[　米Googleは現地時間2017年5月17日、人工知能（AI）ベースのデジタルアシスタント「Google Assistant」を「iPhone」でも利用できるようにした。iOS版Google Assistantは「iOS 9.1」以降で利用できる。現時点で英語のみサポートする。 ]]></description>
+			<pubDate>Thu, 18 May 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Instagram、Snapchatで人気の顔フィルター機能をついに搭載（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/051800325/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Facebook傘下の米Instagramが、一定時間で投稿が消える「Stories」機能を導入したのは2016年8月だった。もともとは米Snapの「Snapchat」が考案した様式である。現在では、InstagramのStories機能は、1日当たりのアクティブユーザー数が2億人に達した。Instagramの独創性のなさには批判もあるものの、Storiesが成功しているのは間違いない。だが、Snapchatならではの楽しい機能がInstagramには1つ欠けていた。自分の顔を加工できるフィルターだ。しかし今回、それも過去の話となった。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/051800325/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Instagram</div>
+</div>
+<p>
+　Instagramは、現地時間2017年5月16日にバージョンアップしたアプリで、Storiesのカメラに顔フィルターの機能を搭載した。新しい顔マークのアイコンをタップすると、8種類のフィルターを使って顔を加工できる。間違いなく子供に受けそうなコアラとウサギのフィルターや、ティーンエージャー向けの花冠のフィルターなどがある。フィルターの種類はあまり多くないし、Snapchatのようにフィルターを定期的に更新するのかどうかも定かではないが、最初としては悪くない。フィルターは前面カメラと背面カメラのどちらの撮影でも使える。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/051800325/?ST=cio-appli&P=2">今回の新機能の目玉は顔フィルターだが、細かな新機...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/051800325/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/051800325/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/051800325/?ST=cio-appli&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/051800325/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 18 May 2017 10:40:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
