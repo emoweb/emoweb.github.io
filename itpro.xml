@@ -11,50 +11,6 @@
 			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ARM版Windows 10でVRヘッドセットは使えるか（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051700368/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　ARM版Windowsの登場が近づきつつある。米Microsoftは、現地時間2017年5月10～12日に開催した開発者会議「Build 2017」の中で、ARMプロセッサ搭載機でWindows 10のプロトタイプ版のデスクトップが動く様子を披露した。「Office」などのアプリケーションも動作する。製品は年内に登場する見通しだ。</p>
-
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051700368/ph01.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Microsoft</div>
-</div>
-
-<p>　ARM版Windows 10のデモは、Microsoftの動画コミュニティサイト「Channel 9」に掲載された<a href="https://channel9.msdn.com/Events/Build/2017/P4171" target="_blank">動画</a>でも見ることができる。この中でプレゼンターは、Microsoftが以前表明していた見解と同じように、ARM版Windowsではすべてのx86アプリケーションが動くと述べた。</p>
-
-<p>　Microsoftは、ARM版Windows 10はx86版と同じように使えると主張してきた。だが、不明な点も数多く残っている。その1つが、「Windows Mixed Reality（MR：複合現実）」のヘッドセットがARM版Windows 10でも動くのかどうかだ。</p>
-
-<p>　台湾Acerが2017年4月に開催したイベントの中で、Microsoftの広報担当者は、Windows MRのヘッドセットは今のところx86の命令セットのみをサポートするように構成されていると説明した。また同社は、Buildの中でも同様の姿勢をあらためて示した。</p>
-
-<p>　Microsoftによると、Windows MRのヘッドセットが動作するパソコンの最小システム要件は、Intelのデュアルコア版Core i5と、内蔵GPUのHD Graphics 620である。Windows MRのヘッドセットは、Acer、台湾ASUSTeK Computer、米Dell、中国Lenovo、米HPなどのパソコンメーカーが発売する予定だ。4月にAcerは、ヘッドセットの価格が299ドルからであると発表した。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051700368/?ST=cm-hardware&P=2">だが、ARMプロセッサを製造する米Qualcommの見解によれば...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051700368/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051700368/?ST=cm-hardware&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051700368/?ST=cm-hardware&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051700368/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 17 May 2017 10:18:41 +0900</pubDate>
-		</item>
-		<item>
-			<title>オークマと日立、Lumada活用で多品種少量生産の効率を2倍に（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701426/</link>
-			<description><![CDATA[工作機械のオークマと日立は2017年5月16日、協業を発表した。日立のIoT基盤「Lumada」を2017年3月に操業を一部開始したオークマの工場「Dream Site2（DS2）」へ導入する。]]></description>
-			<pubDate>Wed, 17 May 2017 11:59:14 +0900</pubDate>
-		</item>
-		<item>
 			<title>ダイダン、IoTで施設の温度・照度を自分好みにする実証実験（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701428/</link>
 			<description><![CDATA[　施工大手のダイダン（大阪市）は2017年5月17日、IoT（インターネットオブシングス）を活用したスマートビル制御システムの実証実験を開始した。センサーで取得した照度や温度などの環境情報と施設利用者の位置情報をクラウドに集約し、照明や空調を動的に制御するものである。]]></description>
@@ -104,6 +60,18 @@
 			<pubDate>Wed, 17 May 2017 22:32:03 +0900</pubDate>
 		</item>
 		<item>
+			<title>第177回　IoT、ビッグデータ時代の自治体行政（その2） ――IoTと行財政改革（上山信一の「続・自治体改革の突破口」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/234646/050200034/</link>
+			<description><![CDATA[　前回は、センサーとデータ、通信技術の発達が自治体行政を大きく変える可能性があると紹介した。今回は特に行財政改革に与える影響を考えたい。行財政の将来を考える上で重要な要素といえば、「インフラ老朽化」と「人口の超高齢化」の2つである。くしくもIoTとビッグデータはこの2つの課題の解決に貢献しうる。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>リクルート、IT人材採用にAI（リクルートの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051000183/051000004/</link>
+			<description><![CDATA[　「処理する案件が膨大な仕事があって、他の仕事に手が回らない」。リクルートホールディングスは人事業務の効率化に複数のクラウドサービスとAI（人工知能）を適用する。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>プロジェクトやスキルアップがうまくいかない？まずは「問題」と「課題」を使い分けよう（若手情シスSEに送る幸せのヒント）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/051700004/</link>
 			<description><![CDATA[　システム構築プロジェクトでも事業の中期計画でも自分のスキルアップ計画でも、何かしらの計画を立てる時にはなりたい姿（to be）に向けての課題をまずは設定します。ただその課題設定は案外難しいものです。]]></description>
@@ -128,15 +96,15 @@
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>第177回　IoT、ビッグデータ時代の自治体行政（その2） ――IoTと行財政改革（上山信一の「続・自治体改革の突破口」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/234646/050200034/</link>
-			<description><![CDATA[　前回は、センサーとデータ、通信技術の発達が自治体行政を大きく変える可能性があると紹介した。今回は特に行財政改革に与える影響を考えたい。行財政の将来を考える上で重要な要素といえば、「インフラ老朽化」と「人口の超高齢化」の2つである。くしくもIoTとビッグデータはこの2つの課題の解決に貢献しうる。]]></description>
-			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>VPNがやたら遅くなる理由（VPNの素朴な疑問）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100004/</link>
 			<description><![CDATA[　インターネットVPN経由の通信が明らかに遅い場合、MTUの調整ができていないことがある。通信事業者のVPNサービスを利用していても、スループットが低いケースはある。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>“クラウドのようなもの”に落とし穴、IT部門は価値を生めるか（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/051500836/</link>
+			<description><![CDATA[　仮想化インフラで得られる恩恵の多くはコスト削減の範疇だ。コスト削減に力を入れすぎ、バリューをディスカッションする時間が失われたなら、自前インフラへの拘泥に反省点はある。]]></description>
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -218,18 +186,6 @@
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>“クラウドのようなもの”に落とし穴、IT部門は価値を生めるか（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/051500836/</link>
-			<description><![CDATA[　仮想化インフラで得られる恩恵の多くはコスト削減の範疇だ。コスト削減に力を入れすぎ、バリューをディスカッションする時間が失われたなら、自前インフラへの拘泥に反省点はある。]]></description>
-			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>リクルート、IT人材採用にAI（リクルートの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051000183/051000004/</link>
-			<description><![CDATA[　「処理する案件が膨大な仕事があって、他の仕事に手が回らない」。リクルートホールディングスは人事業務の効率化に複数のクラウドサービスとAI（人工知能）を適用する。]]></description>
-			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>AIがもたらす効率化と職の創出（後）（AIがもたらす効率化と職の創出）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/050900036/050900002/</link>
 			<description><![CDATA[<div>
@@ -271,6 +227,18 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 18 May 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Googleの深層学習チップ「TPU」に第2世代、性能は180テラFlops（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051801438/</link>
+			<description><![CDATA[　米Googleは2017年5月17日に開幕した開発者会議「Google I/O」の基調講演で、同社の第2世代ディープラーニング（深層学習）専用チップ「Cloud TPU」を発表した。1秒間に180兆回の演算（180テラFlops）が可能で、チップ数十個でスーパーコンピュータ級の性能を発揮する。]]></description>
+			<pubDate>Thu, 18 May 2017 09:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>複雑になった業務アプリを機能ごとに自動分割、富士通研が新技術を開発（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051801437/</link>
+			<description><![CDATA[　富士通研究所はこのほど、長年の保守で複雑になった業務アプリケーションの保守性を高める技術を開発した。2018年にも実用化し、対象言語はCOBOLとJavaからスタートする。]]></description>
+			<pubDate>Thu, 18 May 2017 09:58:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
