@@ -5,19 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>アイ・オー・データ機器、プロジェクターの投影画面をタッチ操作できるユニット（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701431/</link>
-			<description><![CDATA[　アイ・オー・データ機器は2017年5月17日、ホワイトボードに取り付けると、プロジェクターで投影した画面をタッチ操作できる取り付け型タッチ化ユニット「てれたっち（DA-TOUCH-P）」を6月下旬に出荷開始すると発表した。希望小売価格（税別）は9万2000円。
-]]></description>
-			<pubDate>Wed, 17 May 2017 17:46:40 +0900</pubDate>
-		</item>
-		<item>
-			<title>サンワサプライ、有線LANアダプター搭載のUSBハブ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701432/</link>
-			<description><![CDATA[　サンワサプライは2017年5月16日、ギガビット対応有線LANアダプター機能を搭載した3ポートUSB 3.0ハブ「USB-3H301BK」を同日発売したと発表した。標準価格は5076円（税別）。]]></description>
-			<pubDate>Wed, 17 May 2017 17:58:09 +0900</pubDate>
-		</item>
-		<item>
 			<title>ニールセンが広告視聴率によるTwitter測定を新たに23国・地域で開始（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701433/</link>
 			<description><![CDATA[　視聴行動分析サービスを提供するニールセン デジタルは2017年5月17日、新たに日本を含む世界23国・地域で「ニールセン デジタル広告視聴率（Nielsen Digital Ad Ratings）」によるTwitterモバイルキャンペーンの測定を開始したと発表した。]]></description>
@@ -28,6 +15,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701434/</link>
 			<description><![CDATA[　セキュリティ専業のファイア・アイは2017年5月17日、2016年のセキュリティ上の脅威を分析した年次レポート「Mandiant M-Trends 2017」を発表した。ランサムウエアの影で国家レベルの攻撃が増えているという。]]></description>
 			<pubDate>Wed, 17 May 2017 22:32:03 +0900</pubDate>
+		</item>
+		<item>
+			<title>通信大手3社の決算を検証、Y!mobileが示した圧倒的な強さ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051700973/</link>
+			<description><![CDATA[　通信大手3社の2017年3月期決算が出そろった。NTTとソフトバンクグループは為替の影響で減収となったものの、3社とも増益が目立った。主力の携帯電話事業は市場の成熟化や競争の同質化が顕著となってきたが、モバイル通信料収入の拡大や販売奨励金の削減、光回線の拡販で利益成長につなげている。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>11ac対応の高速ワイヤレスストレージ、テレビ出力も（最新ワイヤレスストレージの実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200186/051500003/</link>
+			<description><![CDATA[　ASUS JAPANの「Travelair AC（WSD-A1）」は、32GBのフラッシュメモリーを搭載する。AndroidやiOSを搭載するスマートフォンやタブレット、パソコンのほかにKindle Fireでも利用できる。高速な802.11acを利用したWi-Fiアクセスが可能なのも特徴だ。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>“クラウドのようなもの”に落とし穴、IT部門は価値を生めるか（記者の眼）</title>
@@ -72,9 +71,9 @@
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>通信大手3社の決算を検証、Y!mobileが示した圧倒的な強さ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051700973/</link>
-			<description><![CDATA[　通信大手3社の2017年3月期決算が出そろった。NTTとソフトバンクグループは為替の影響で減収となったものの、3社とも増益が目立った。主力の携帯電話事業は市場の成熟化や競争の同質化が顕著となってきたが、モバイル通信料収入の拡大や販売奨励金の削減、光回線の拡販で利益成長につなげている。]]></description>
+			<title>VPNがやたら遅くなる理由（VPNの素朴な疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100004/</link>
+			<description><![CDATA[　インターネットVPN経由の通信が明らかに遅い場合、MTUの調整ができていないことがある。通信事業者のVPNサービスを利用していても、スループットが低いケースはある。]]></description>
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -90,9 +89,9 @@
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Webアクセスが遅くなる時間帯を調査せよ（Wiresharkでトラブル解決）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122100310/050200004/</link>
-			<description><![CDATA[　システムの利用者から「Webアクセスが遅い」と言われたことがないだろうか。遅延は、物理層からアプリケーション層まで、様々なレイヤーで発生し得るため、単に遅いという証言だけでは原因を特定しにくい。そこでWiresharkを使って応答時間を調べ、遅くなっている状況を確認しよう。]]></description>
+			<title>固定発・携帯着の通話料が安くなる？（徹底検証！固定電話の未来）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100175/050100004/</link>
+			<description><![CDATA[　PSTNの移行問題は受け身的な議論が多い中、ユーザーのメリットが期待できるテーマが番号ポータビリティー（番ポ）と固定発・携帯着の通話料だ。番ポは携帯電話と同様の双方向が実現しそう。固定発・携帯着の通話料は低廉化が期待されている。]]></description>
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -102,9 +101,9 @@
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>VPNがやたら遅くなる理由（VPNの素朴な疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100004/</link>
-			<description><![CDATA[　インターネットVPN経由の通信が明らかに遅い場合、MTUの調整ができていないことがある。通信事業者のVPNサービスを利用していても、スループットが低いケースはある。]]></description>
+			<title>Wi-FiセキュリティがWEPだと、キケンなうえに遅くなる？（Wi-Fiのウソとホントを実証）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/051100017/</link>
+			<description><![CDATA[　Wi-FiのセキュリティにWEPを使うのは危険だ。WEPの暗号化を解析するツールが出回っており、数分あれば暗号化を解読することができてしまうためだ。そして、WEPの使用を避けるべき理由はもう1つ存在する。]]></description>
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -138,21 +137,9 @@
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>固定発・携帯着の通話料が安くなる？（徹底検証！固定電話の未来）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100175/050100004/</link>
-			<description><![CDATA[　PSTNの移行問題は受け身的な議論が多い中、ユーザーのメリットが期待できるテーマが番号ポータビリティー（番ポ）と固定発・携帯着の通話料だ。番ポは携帯電話と同様の双方向が実現しそう。固定発・携帯着の通話料は低廉化が期待されている。]]></description>
-			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Wi-FiセキュリティがWEPだと、キケンなうえに遅くなる？（Wi-Fiのウソとホントを実証）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/051100017/</link>
-			<description><![CDATA[　Wi-FiのセキュリティにWEPを使うのは危険だ。WEPの暗号化を解析するツールが出回っており、数分あれば暗号化を解読することができてしまうためだ。そして、WEPの使用を避けるべき理由はもう1つ存在する。]]></description>
-			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>11ac対応の高速ワイヤレスストレージ、テレビ出力も（最新ワイヤレスストレージの実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200186/051500003/</link>
-			<description><![CDATA[　ASUS JAPANの「Travelair AC（WSD-A1）」は、32GBのフラッシュメモリーを搭載する。AndroidやiOSを搭載するスマートフォンやタブレット、パソコンのほかにKindle Fireでも利用できる。高速な802.11acを利用したWi-Fiアクセスが可能なのも特徴だ。]]></description>
+			<title>Webアクセスが遅くなる時間帯を調査せよ（Wiresharkでトラブル解決）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122100310/050200004/</link>
+			<description><![CDATA[　システムの利用者から「Webアクセスが遅い」と言われたことがないだろうか。遅延は、物理層からアプリケーション層まで、様々なレイヤーで発生し得るため、単に遅いという証言だけでは原因を特定しにくい。そこでWiresharkを使って応答時間を調べ、遅くなっている状況を確認しよう。]]></description>
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -261,6 +248,19 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701435/</link>
 			<description><![CDATA[　楽天のクチコミ就職情報サイト「みんなの就職活動日記（みん就）」と日経コンピュータ、日経BPイノベーションICT研究所が今年も「IT業界就職人気ランキング」の結果を発表。コンサルティング会社や総合研究所が人気で、ネット系企業は伸び悩んだ。]]></description>
 			<pubDate>Thu, 18 May 2017 12:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ロボットやAIを利用した教育ソリューションも登場──教育ITソリューションEXPO（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051801441/</link>
+			<description><![CDATA[　教育の情報化に関する国内最大の展示会「第8回 教育ITソリューションEXPO」（EDIX）が2017年5月17日、東京・江東区の東京国際展示場（ビッグサイト）で開幕した。期間は5月19日までの3日間。約800社が、ICT（情報通信技術）を活用した教育関係のソリューションを展示している。
+]]></description>
+			<pubDate>Thu, 18 May 2017 13:38:52 +0900</pubDate>
+		</item>
+		<item>
+			<title>LINEがセキュリティに関するカンファレンス、FIDOアライアンスへの加入を発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051801443/</link>
+			<description><![CDATA[　LINEは、2017年5月17日、コンピュータセキュリティなどを手掛ける米インタートラスト・テクノロジーズと共同で、セキュリティやプライバシーについてのカンファレンスを開催。LINEのセキュリティへの取り組みや、「FIDO Alliance」への加入を発表した。]]></description>
+			<pubDate>Thu, 18 May 2017 15:22:59 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
