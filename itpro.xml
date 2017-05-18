@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：スマホの容量がいっぱいならワイヤレスストレージ、エレコム製は56gと超軽量（最新ワイヤレスストレージの実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200186/051200001/?d18</link>
-			<description><![CDATA[　内蔵ストレージから待避したいデータを頻繁に読み書きするなら、ワイヤレスストレージが便利だ。ワイヤレスストレージは、パソコンやスマートフォン、タブレットからWi-Fiで接続できるストレージ。バッテリーを搭載しているので、電源を確保できない外出先でも活用しやすい。]]></description>
-			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AI時代に必要なスキルは「対人関係力」と「創造力」、アデコが調査報告（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701429/</link>
-			<description><![CDATA[　AI時代で重要なスキルに「対人関係力」に加えて「創造力」──。総合人材サービス大手のアデコは2017年5月17日、上場企業の管理職に「重要なスキル」などを尋ねたアンケート調査結果を公表した。]]></description>
-			<pubDate>Wed, 17 May 2017 17:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>アイ・オー・データ機器、プロジェクターの投影画面をタッチ操作できるユニット（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701431/</link>
 			<description><![CDATA[　アイ・オー・データ機器は2017年5月17日、ホワイトボードに取り付けると、プロジェクターで投影した画面をタッチ操作できる取り付け型タッチ化ユニット「てれたっち（DA-TOUCH-P）」を6月下旬に出荷開始すると発表した。希望小売価格（税別）は9万2000円。
@@ -40,6 +28,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701434/</link>
 			<description><![CDATA[　セキュリティ専業のファイア・アイは2017年5月17日、2016年のセキュリティ上の脅威を分析した年次レポート「Mandiant M-Trends 2017」を発表した。ランサムウエアの影で国家レベルの攻撃が増えているという。]]></description>
 			<pubDate>Wed, 17 May 2017 22:32:03 +0900</pubDate>
+		</item>
+		<item>
+			<title>“クラウドのようなもの”に落とし穴、IT部門は価値を生めるか（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/051500836/</link>
+			<description><![CDATA[　仮想化インフラで得られる恩恵の多くはコスト削減の範疇だ。コスト削減に力を入れすぎ、バリューをディスカッションする時間が失われたなら、自前インフラへの拘泥に反省点はある。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Office 365で文字化け、その回避策（ここがおかしい！？Office 365）</title>
@@ -84,9 +78,9 @@
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>“クラウドのようなもの”に落とし穴、IT部門は価値を生めるか（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/051500836/</link>
-			<description><![CDATA[　仮想化インフラで得られる恩恵の多くはコスト削減の範疇だ。コスト削減に力を入れすぎ、バリューをディスカッションする時間が失われたなら、自前インフラへの拘泥に反省点はある。]]></description>
+			<title>IT会社新設ラッシュ、メガバンクの目論見（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051700975/</link>
+			<description><![CDATA[　メガバンクが金融業の枠を超え、IT関連サービスの領域に相次ぎ打って出た。SMFGは2017年5月に生体認証サービスを手がけるIT子会社を設立。みずほフィナンシャルグループ（FG）はビッグデータ分析などを手掛けるITサービス企業を2017年夏に新設する計画だ。]]></description>
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -102,15 +96,15 @@
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>11ac対応の高速ワイヤレスストレージ、テレビ出力も（最新ワイヤレスストレージの実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200186/051500003/</link>
-			<description><![CDATA[　ASUS JAPANの「Travelair AC（WSD-A1）」は、32GBのフラッシュメモリーを搭載する。AndroidやiOSを搭載するスマートフォンやタブレット、パソコンのほかにKindle Fireでも利用できる。高速な802.11acを利用したWi-Fiアクセスが可能なのも特徴だ。]]></description>
+			<title>ニコ動ニコ生の技術をフル活用、N高の授業とは？（教育ICT現場のリアル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/110400255/051500014/</link>
+			<description><![CDATA[　2016年4月に開校した学校法人角川ドワンゴ学園が運営するN高等学校。単位制の通信制（広域）高等学校で、当初から“ネットの高校”を掲げ、ICTの利活用を前提とした授業を展開。最新ツールの導入にも熱心だ。]]></description>
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>IT会社新設ラッシュ、メガバンクの目論見（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051700975/</link>
-			<description><![CDATA[　メガバンクが金融業の枠を超え、IT関連サービスの領域に相次ぎ打って出た。SMFGは2017年5月に生体認証サービスを手がけるIT子会社を設立。みずほフィナンシャルグループ（FG）はビッグデータ分析などを手掛けるITサービス企業を2017年夏に新設する計画だ。]]></description>
+			<title>VPNがやたら遅くなる理由（VPNの素朴な疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100004/</link>
+			<description><![CDATA[　インターネットVPN経由の通信が明らかに遅い場合、MTUの調整ができていないことがある。通信事業者のVPNサービスを利用していても、スループットが低いケースはある。]]></description>
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -156,15 +150,9 @@
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ニコ動ニコ生の技術をフル活用、N高の授業とは？（教育ICT現場のリアル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/110400255/051500014/</link>
-			<description><![CDATA[　2016年4月に開校した学校法人角川ドワンゴ学園が運営するN高等学校。単位制の通信制（広域）高等学校で、当初から“ネットの高校”を掲げ、ICTの利活用を前提とした授業を展開。最新ツールの導入にも熱心だ。]]></description>
-			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>VPNがやたら遅くなる理由（VPNの素朴な疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100004/</link>
-			<description><![CDATA[　インターネットVPN経由の通信が明らかに遅い場合、MTUの調整ができていないことがある。通信事業者のVPNサービスを利用していても、スループットが低いケースはある。]]></description>
+			<title>11ac対応の高速ワイヤレスストレージ、テレビ出力も（最新ワイヤレスストレージの実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200186/051500003/</link>
+			<description><![CDATA[　ASUS JAPANの「Travelair AC（WSD-A1）」は、32GBのフラッシュメモリーを搭載する。AndroidやiOSを搭載するスマートフォンやタブレット、パソコンのほかにKindle Fireでも利用できる。高速な802.11acを利用したWi-Fiアクセスが可能なのも特徴だ。]]></description>
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -267,6 +255,12 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 18 May 2017 10:40:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>首位NTTデータを富士通が追う、「IT業界就職人気ランキング」結果発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701435/</link>
+			<description><![CDATA[　楽天のクチコミ就職情報サイト「みんなの就職活動日記（みん就）」と日経コンピュータ、日経BPイノベーションICT研究所が今年も「IT業界就職人気ランキング」の結果を発表。コンサルティング会社や総合研究所が人気で、ネット系企業は伸び悩んだ。]]></description>
+			<pubDate>Thu, 18 May 2017 12:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
