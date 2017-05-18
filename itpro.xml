@@ -11,10 +11,22 @@
 			<pubDate>Tue, 16 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>アジア・太平洋地域へのランサムウエア攻撃、大半が中国の13グループと発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701434/</link>
-			<description><![CDATA[　セキュリティ専業のファイア・アイは2017年5月17日、2016年のセキュリティ上の脅威を分析した年次レポート「Mandiant M-Trends 2017」を発表した。ランサムウエアの影で国家レベルの攻撃が増えているという。]]></description>
-			<pubDate>Wed, 17 May 2017 22:32:03 +0900</pubDate>
+			<title>盗聴で逮捕され有罪になった“独裁者”から学んだ二つの事（谷島の情識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/200088/051400036/</link>
+			<description><![CDATA[　この3月、ある企業が消滅した。その企業の創業者は2003年12月、盗聴指示の疑いで逮捕され、翌年有罪判決を受けた。同氏の逮捕を受けて筆者が2003年に公開した二つの文章を読み直し、14年後に感じたことを書いてみた。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「内部不正は会社の恥」、権限分離を経営層に説こう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/050800012/</link>
+			<description><![CDATA[　「内部不正は会社の恥。何としても防いでくれ」──経営層からこう懇願されてしまったとき、セキュリティ担当者は何をすればいいのだろうか。今回は内部不正のリスクを減らすための手法を解説する。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>4割がランサムウエア被害に、うち2割は対策強化予定なし（企業ITの実態2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050900182/051200004/</link>
+			<description><![CDATA[　日本情報システム・ユーザー協会（JUAS）が例年実施している「企業IT動向調査」の2016年度調査の結果を基に、企業のセキュリティ被害や対策の実態を見ていく。2016年もサイバー攻撃の脅威は増しており、偽装メールやランサムウエアが猛威をふるっている。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>プロジェクトやスキルアップがうまくいかない？まずは「問題」と「課題」を使い分けよう（若手情シスSEに送る幸せのヒント）</title>
@@ -53,9 +65,9 @@
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>盗聴で逮捕され有罪になった“独裁者”から学んだ二つの事（谷島の情識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/200088/051400036/</link>
-			<description><![CDATA[　この3月、ある企業が消滅した。その企業の創業者は2003年12月、盗聴指示の疑いで逮捕され、翌年有罪判決を受けた。同氏の逮捕を受けて筆者が2003年に公開した二つの文章を読み直し、14年後に感じたことを書いてみた。]]></description>
+			<title>固定発・携帯着の通話料が安くなる？（徹底検証！固定電話の未来）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100175/050100004/</link>
+			<description><![CDATA[　PSTNの移行問題は受け身的な議論が多い中、ユーザーのメリットが期待できるテーマが番号ポータビリティー（番ポ）と固定発・携帯着の通話料だ。番ポは携帯電話と同様の双方向が実現しそう。固定発・携帯着の通話料は低廉化が期待されている。]]></description>
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,15 +101,15 @@
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>自動組版のために原書のデータをLISPのマクロでハック（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/051700010/</link>
-			<description><![CDATA[　今月紹介するのは鹿野桂一郎氏。オーム社で数々の技術書の編集に携わった後、独立してラムダノートという技術書の出版社を立ち上げた。同氏は、書籍の制作に使っている自動組版ツールを自ら開発するというエンジニアの顔も持つ。今回は、自動組版ツールがどのようにして生まれたかを聞いた。]]></description>
+			<title>C＃ではどうする？ 配列とコレクションで複数のデータをまとめて扱う（魅惑のC＃）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200187/051700004/</link>
+			<description><![CDATA[　この連載の第2回では変数、第3回ではクラスやオブジェクトを学びました。この第4回では、変数やオブジェクトといったデータをまとめて扱える仕組みを紹介します。それが「配列」と「コレクション」です。]]></description>
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>4割がランサムウエア被害に、うち2割は対策強化予定なし（企業ITの実態2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050900182/051200004/</link>
-			<description><![CDATA[　日本情報システム・ユーザー協会（JUAS）が例年実施している「企業IT動向調査」の2016年度調査の結果を基に、企業のセキュリティ被害や対策の実態を見ていく。2016年もサイバー攻撃の脅威は増しており、偽装メールやランサムウエアが猛威をふるっている。]]></description>
+			<title>ライムライトが国内CDN市場で攻勢、返金保証キャンペーンも（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701436/</link>
+			<description><![CDATA[　ライムライト・ネットワークス・ジャパンは2017年5月17日、プライベートネットワーク経由で配信されるコンテンツ・デリバリー・ネットワーク（CDN)「Limelight Orchestrate Platforrm」の機能を拡充して提供開始すると発表した。オンラインビデオのリバッファリングを削減するソフトウエア「EdgePrism」の機能を拡張したほか、さまざまなデバイスでIPv6やHTTP2での接続を可能とした。]]></description>
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -119,27 +131,9 @@
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>C＃ではどうする？ 配列とコレクションで複数のデータをまとめて扱う（魅惑のC＃）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051200187/051700004/</link>
-			<description><![CDATA[　この連載の第2回では変数、第3回ではクラスやオブジェクトを学びました。この第4回では、変数やオブジェクトといったデータをまとめて扱える仕組みを紹介します。それが「配列」と「コレクション」です。]]></description>
-			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ライムライトが国内CDN市場で攻勢、返金保証キャンペーンも（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051701436/</link>
-			<description><![CDATA[　ライムライト・ネットワークス・ジャパンは2017年5月17日、プライベートネットワーク経由で配信されるコンテンツ・デリバリー・ネットワーク（CDN)「Limelight Orchestrate Platforrm」の機能を拡充して提供開始すると発表した。オンラインビデオのリバッファリングを削減するソフトウエア「EdgePrism」の機能を拡張したほか、さまざまなデバイスでIPv6やHTTP2での接続を可能とした。]]></description>
-			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「内部不正は会社の恥」、権限分離を経営層に説こう（社長に「よし、分かった」と言わせるセキュリティ会話術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/021400032/050800012/</link>
-			<description><![CDATA[　「内部不正は会社の恥。何としても防いでくれ」──経営層からこう懇願されてしまったとき、セキュリティ担当者は何をすればいいのだろうか。今回は内部不正のリスクを減らすための手法を解説する。]]></description>
-			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>固定発・携帯着の通話料が安くなる？（徹底検証！固定電話の未来）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100175/050100004/</link>
-			<description><![CDATA[　PSTNの移行問題は受け身的な議論が多い中、ユーザーのメリットが期待できるテーマが番号ポータビリティー（番ポ）と固定発・携帯着の通話料だ。番ポは携帯電話と同様の双方向が実現しそう。固定発・携帯着の通話料は低廉化が期待されている。]]></description>
+			<title>自動組版のために原書のデータをLISPのマクロでハック（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/051700010/</link>
+			<description><![CDATA[　今月紹介するのは鹿野桂一郎氏。オーム社で数々の技術書の編集に携わった後、独立してラムダノートという技術書の出版社を立ち上げた。同氏は、書籍の制作に使っている自動組版ツールを自ら開発するというエンジニアの顔も持つ。今回は、自動組版ツールがどのようにして生まれたかを聞いた。]]></description>
 			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -263,10 +257,28 @@
 			<pubDate>Thu, 18 May 2017 15:22:59 +0900</pubDate>
 		</item>
 		<item>
+			<title>ロジクール、ゲーミング技術を応用した一般向けメカニカルキーボード「K840」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051801445/</link>
+			<description><![CDATA[　ロジクールは2017年5月18日、ゲーミング製品で培った技術を応用した一般向けメカニカルキーボード「ロジクール メカニカル キーボードK840」を2017年6月1日に発売すると発表した。価格はオープン、同社直販「ロジクール オンラインストア」価格は9250円（税別）。]]></description>
+			<pubDate>Thu, 18 May 2017 17:01:27 +0900</pubDate>
+		</item>
+		<item>
+			<title>ZenmuTech、データ無意味化で情報漏洩を防ぐ「ZENMU for PC」最新版（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051801446/</link>
+			<description><![CDATA[　ZenmuTech（ゼンムテック）は2017年5月18日、データを無意味化することで、PCの紛失や盗難に遭っても情報漏洩にならない状態にするセキュリティソリューション「ZENMU（ゼンム）」のPC向け最新版「ZENMU for PC 3.2」を6月1日に販売開始すると発表した。]]></description>
+			<pubDate>Thu, 18 May 2017 17:05:19 +0900</pubDate>
+		</item>
+		<item>
 			<title>KDDIがIoTデータの「取引所」開設、購買やプローブ情報など販売（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051801444/</link>
 			<description><![CDATA[　KDDI（au）は2017年5月17日、IoT（インターネット・オブ・シングズ）のネットワークで取得したデータなどを分析するサービス群「KDDI IoT クラウド ～データマーケット～」を6月中旬に発売すると発表した。パートナー企業各社が収集したデータをKDDIがまとめて販売するのが特徴。]]></description>
 			<pubDate>Thu, 18 May 2017 17:14:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>富士通田中社長が講演、農業やスポーツ分野の最新の取り組み披露（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051801448/</link>
+			<description><![CDATA[　2017年5月18日、「富士通フォーラム2017」において、富士通の代表取締役の田中達也社長と執行役員常務CMOの阪井洋之氏が、ITを活用し顧客との新ビジネスを創出する「Digital Co-creation」について講演した。富士通の技術を農業、医薬、スポーツなどの分野で活用した事例を紹介した。]]></description>
+			<pubDate>Thu, 18 May 2017 19:06:27 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
