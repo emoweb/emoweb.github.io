@@ -5,16 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Googleの深層学習チップ「TPU」に第2世代、性能は180テラFlops（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051801438/</link>
-			<description><![CDATA[　米Googleは2017年5月17日に開幕した開発者会議「Google I/O」の基調講演で、同社の第2世代ディープラーニング（深層学習）専用チップ「Cloud TPU」を発表した。1秒間に180兆回の演算（180テラFlops）が可能で、チップ数十個でスーパーコンピュータ級の性能を発揮する。]]></description>
-			<pubDate>Thu, 18 May 2017 09:30:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>複雑になった業務アプリを機能ごとに自動分割、富士通研が新技術を開発（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051801437/</link>
-			<description><![CDATA[　富士通研究所はこのほど、長年の保守で複雑になった業務アプリケーションの保守性を高める技術を開発した。2018年にも実用化し、対象言語はCOBOLとJavaからスタートする。]]></description>
-			<pubDate>Thu, 18 May 2017 09:58:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：通信大手3社の決算を検証、Y!mobileが示した圧倒的な強さ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051700973/?d19</link>
+			<description><![CDATA[　通信大手3社の2017年3月期決算が出そろった。NTTとソフトバンクグループは為替の影響を大きく受けたものの、3社とも増益が目立った。主力の携帯電話事業は市場の成熟化や競争の同質化が顕著となってきたが、モバイル通信料収入の拡大や販売奨励金の削減、光回線の拡販で利益成長につなげている。]]></description>
+			<pubDate>Thu, 18 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>「Google Assistant」がiPhoneでも利用可能に、英語のみ対応（ニュース）</title>
@@ -100,6 +94,12 @@
 			<pubDate>Thu, 18 May 2017 19:06:27 +0900</pubDate>
 		</item>
 		<item>
+			<title>苦境の国内スマホメーカー　キャリア依存からの脱却（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/051700309/</link>
+			<description><![CDATA[　スマートフォンの実質0円販売の禁止や、SIMフリースマホ端末の拡大と海外メーカーの台頭などで、存在感を失っている日本メーカー。各社は生き残りをかけ、どのような戦略を取ろうとしているのか。]]></description>
+			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>Buildで見えたマイクロソフトの現実路線、非Windows対応を強化へ（シリコンバレーNextレポート）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/051700109/</link>
 			<description><![CDATA[　米マイクロソフトがLinuxやiOS、Androidへの傾斜を強めている。5月9日から11日まで米シアトルで開催した開発者会議「Microsoft Build 2017」で、同社の姿勢が鮮明となった。]]></description>
@@ -124,15 +124,15 @@
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>苦境の国内スマホメーカー　キャリア依存からの脱却（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/051700309/</link>
-			<description><![CDATA[　スマートフォンの実質0円販売の禁止や、SIMフリースマホ端末の拡大と海外メーカーの台頭などで、存在感を失っている日本メーカー。各社は生き残りをかけ、どのような戦略を取ろうとしているのか。]]></description>
+			<title>フランスからポップなデザインのスマートフォンTommyがやってきた（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/042800055/</link>
+			<description><![CDATA[　Wikoはフランスで人気のメーカーで、日本へは事業を展開する34カ国目として2017年に参入しました。日本法人のWiko Japanを設立し、第1弾として発売したのは「Tommy」というカジュアルな端末です。実際に使ってみました。]]></description>
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>海外に行くときのデータ通信、安く快適な方法は結局どれ？（塩田紳二のモバイルトレンド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/051800052/</link>
-			<description><![CDATA[　海外でもスマートフォンを使うと国内同様に便利なのですが、気になるのが通信料金。海外でのデータ通信にはいくつか方法があり、それぞれ一長一短という感じです。ここでは、それらについてまとめてみます。]]></description>
+			<title>AWSと自前のVPNでつなぐ方法ってある？（VPNの素朴な疑問）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100005/</link>
+			<description><![CDATA[　Amazon Virtual Private Cloudなどの仮想プライベートクラウドにインターネットVPN経由で接続することは可能だ。ただし、一般的な拠点間接続と同じ設定をしても接続できない。]]></description>
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -221,16 +221,43 @@
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>AWSと自前のVPNでつなぐ方法ってある？（VPNの素朴な疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100176/050100005/</link>
-			<description><![CDATA[　Amazon Virtual Private Cloudなどの仮想プライベートクラウドにインターネットVPN経由で接続することは可能だ。ただし、一般的な拠点間接続と同じ設定をしても接続できない。]]></description>
+			<title>海外に行くときのデータ通信、安く快適な方法は結局どれ？（塩田紳二のモバイルトレンド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/051800052/</link>
+			<description><![CDATA[　海外でもスマートフォンを使うと国内同様に便利なのですが、気になるのが通信料金。海外でのデータ通信にはいくつか方法があり、それぞれ一長一短という感じです。ここでは、それらについてまとめてみます。]]></description>
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>フランスからポップなデザインのスマートフォンTommyがやってきた（伊藤浩一のモバイルライフ応援日記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/042800055/</link>
-			<description><![CDATA[　Wikoはフランスで人気のメーカーで、日本へは事業を展開する34カ国目として2017年に参入しました。日本法人のWiko Japanを設立し、第1弾として発売したのは「Tommy」というカジュアルな端末です。実際に使ってみました。]]></description>
-			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
+			<title>入社志望者に与えた印象が企業のブランドに及ぼす影響（下）（入社志望者に与えた印象が企業のブランドに及ぼす影響）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　インターネットは永遠だ。面白画像、ツイート、ブログ記事、PR、失言など、いったんネット上に公開されたら、決して消え去ることはない。この事実が何より重要なのは、企業の口コミ評価サイトに関してである。そう話すのは、米Future Workplaceのリサーチディレクター、Dan Schawbel氏だ。企業の口コミ評価サイトとは、企業各社の入社志望者や社員が、その会社に対する見解や感想、接触した時の体験談などを投稿するサイトである。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900002/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900003/ph3.jpg" width="300" alt="" title=""></div></div>
+
+<p>　Wall Street Journal紙の情報としてRichards氏が話したところでは、企業が求人サイトで募集した働き口1つにつき、219人の応募者がいる。つまり、企業にとっては、その採用活動で受ける接触がうれしい経験となる志望者は1人なのに対し、その接触が嫌な経験となり得る志望者は218人いる。だが、そうなるかどうかは会社側の対応次第だとRichards氏は言う。</p>
+
+<p>　「私が志望者だったとして、3時間かけて履歴書を準備して、カバーレターを書き、この会社に応募して、そのことを皆に話し、自分が絶対適任だと思っていたとする。そこに会社側から連絡が来て、『あなたは不適任だ』と一刀両断にされたら、私としては、向こうの判断がおかしいとしか思えない。企業側は、こうした接触ではなく、もうひと頑張りして、応募者に敬意を表した礼儀正しいふるまいをしなくてはならない」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900003/?ST=cio-social&P=2">具体的にはどのような対応になるのだろうか。シンプ...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900003/?ST=cio-social&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900003/?ST=cio-social&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900003/?ST=cio-social&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/050900035/050900003/?ST=cio-social&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 19 May 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
