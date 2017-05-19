@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>LINEがセキュリティに関するカンファレンス、FIDOアライアンスへの加入を発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051801443/</link>
-			<description><![CDATA[　LINEは、2017年5月17日、コンピュータセキュリティなどを手掛ける米インタートラスト・テクノロジーズと共同で、セキュリティやプライバシーについてのカンファレンスを開催。LINEのセキュリティへの取り組みや、「FIDO Alliance」への加入を発表した。]]></description>
-			<pubDate>Thu, 18 May 2017 15:22:59 +0900</pubDate>
-		</item>
-		<item>
 			<title>ロジクール、ゲーミング技術を応用した一般向けメカニカルキーボード「K840」（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051801445/</link>
 			<description><![CDATA[　ロジクールは2017年5月18日、ゲーミング製品で培った技術を応用した一般向けメカニカルキーボード「ロジクール メカニカル キーボードK840」を2017年6月1日に発売すると発表した。価格はオープン、同社直販「ロジクール オンラインストア」価格は9250円（税別）。]]></description>
@@ -33,6 +27,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051801448/</link>
 			<description><![CDATA[　2017年5月18日、「富士通フォーラム2017」において、富士通の代表取締役の田中達也社長と執行役員常務CMOの阪井洋之氏が、ITを活用し顧客との新ビジネスを創出する「Digital Co-creation」について講演した。富士通の技術を農業、医薬、スポーツなどの分野で活用した事例を紹介した。]]></description>
 			<pubDate>Thu, 18 May 2017 19:06:27 +0900</pubDate>
+		</item>
+		<item>
+			<title>ラズパイNASを「OpenMediaVault」で作る（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/051700007/</link>
+			<description><![CDATA[　OpenMediaVaultは、ネットワーク経由でファイルを保存・共有できる「NAS」（Network Attached Storage）を構築できるLinuxディストリビューションです。市販のNASのように、Webブラウザーで利用できる管理画面から簡単に設定できます。]]></description>
+			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Predix売上倍増へ、GEキーパーソンが語る世界と日本の戦略（インタビュー＆トーク）</title>
@@ -77,9 +77,9 @@
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ラズパイNASを「OpenMediaVault」で作る（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/051700007/</link>
-			<description><![CDATA[　OpenMediaVaultは、ネットワーク経由でファイルを保存・共有できる「NAS」（Network Attached Storage）を構築できるLinuxディストリビューションです。市販のNASのように、Webブラウザーで利用できる管理画面から簡単に設定できます。]]></description>
+			<title>AIが配送計画を立案、「タウンワーク」が全国どこでも手に入るワケ（リクルートの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051000183/051000005/</link>
+			<description><![CDATA[　リクルートジョブズは、全国10万カ所に置く週刊フリーペーパーの効率的な配送計画の立案にAI（人工知能）を用いる。]]></description>
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -96,15 +96,15 @@
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>NTT東西のNGN、さらなるオープン化も問題は山積（徹底検証！固定電話の未来）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100175/050100005/</link>
-			<description><![CDATA[　PSTNのIP網への移行を受け、総務省はNGN（次世代ネットワーク）のオープン化に力を入れている。それに伴い、新たな課題も浮上しそうだ。]]></description>
+			<title>専門家が警告！ 人工知能システムのテストは「カオス」（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/050800832/</link>
+			<description><![CDATA[　AI/機械学習の活用が進むにつれて、一つの大きな問題が浮上する。システムのテストだ。「AI/機械学習システムのテストは非常に面倒（mess）だ。解決策を誰も見いだしていないと思う」。米メリーランド大学コンピュータサイエンス部門教授のアティフ・メモン氏はこう警鐘を鳴らす。]]></description>
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>AIが配送計画を立案、「タウンワーク」が全国どこでも手に入るワケ（リクルートの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051000183/051000005/</link>
-			<description><![CDATA[　リクルートジョブズは、全国10万カ所に置く週刊フリーペーパーの効率的な配送計画の立案にAI（人工知能）を用いる。]]></description>
+			<title>海外に行くときのデータ通信、安く快適な方法は結局どれ？（塩田紳二のモバイルトレンド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/051800052/</link>
+			<description><![CDATA[　海外でもスマートフォンを使うと国内同様に便利なのですが、気になるのが通信料金。海外でのデータ通信にはいくつか方法があり、それぞれ一長一短という感じです。ここでは、それらについてまとめてみます。]]></description>
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -156,15 +156,9 @@
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>専門家が警告！ 人工知能システムのテストは「カオス」（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/050800832/</link>
-			<description><![CDATA[　AI/機械学習の活用が進むにつれて、一つの大きな問題が浮上する。システムのテストだ。「AI/機械学習システムのテストは非常に面倒（mess）だ。解決策を誰も見いだしていないと思う」。米メリーランド大学コンピュータサイエンス部門教授のアティフ・メモン氏はこう警鐘を鳴らす。]]></description>
-			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>海外に行くときのデータ通信、安く快適な方法は結局どれ？（塩田紳二のモバイルトレンド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/051800052/</link>
-			<description><![CDATA[　海外でもスマートフォンを使うと国内同様に便利なのですが、気になるのが通信料金。海外でのデータ通信にはいくつか方法があり、それぞれ一長一短という感じです。ここでは、それらについてまとめてみます。]]></description>
+			<title>NTT東西のNGN、さらなるオープン化も問題は山積（徹底検証！固定電話の未来）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050100175/050100005/</link>
+			<description><![CDATA[　PSTNのIP網への移行を受け、総務省はNGN（次世代ネットワーク）のオープン化に力を入れている。それに伴い、新たな課題も浮上しそうだ。]]></description>
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -252,6 +246,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051801450/</link>
 			<description><![CDATA[　KDDIは2017年5月18日、第5世代移動通信システム（5G）を使った実証実験の様子を公開する報道関係者向け説明会を開いた。走行中のバスが搭載する車載端末に仮想現実（VR）用の映像データなどを伝送するデモを披露。同社が5Gの活用例を公開するのは初めてだ。]]></description>
 			<pubDate>Fri, 19 May 2017 12:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>OSS使う業務アプリの7割に脆弱性、米ブラック・ダックが警告（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/051901454/</link>
+			<description><![CDATA[　脆弱性監査を手がける米ブラック・ダック・ソフトウェアが2017年5月19日に公表した監査レポートによると、オープンソースソフトウエア（OSS）を利用する業務アプリケーションの67％に脆弱性があったという。]]></description>
+			<pubDate>Fri, 19 May 2017 14:19:15 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
