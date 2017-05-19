@@ -5,39 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    初代Xboxの傑作『ファントムダスト』リマスター版がWindows 10/ Xbox One向けに公開、基本無料
-</title>
-			<link>http://japanese.engadget.com/2017/05/16/xbox-windows-10-pc-xbox-one/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/d744450da41c7276c87ddeb48c1d29a/205275363/testaaaa_1024.jpg" />
-
-マイクロソフトのXboxマーケティング部門Aaron Greenberg氏は、リマスター版『ファントムダスト』が現地時間5月16日（日本時間5月17日）にXbox OneとWindows 10 PC向けにリリースされることをTwitterにて発表しました。価格は基本無料という太っ腹さです。
- ]]></description>
-			<pubDate>Wed, 17 May 2017 11:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>    自動ブレーキに車線キープ…  クルマの安全システム充実で、事故時には全損扱いが増える？
-</title>
-			<link>http://japanese.engadget.com/2017/05/16/more-safety-technology-means-more-totaled-cars/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/2c588312614445f575f63dc4fe843b5d/205250823/RTX1DUEZ.jpg" />
-最近のクルマには多数の先進安全システムが搭載されている。そのテクノロジーとは、衝突を回避または事故から生還する助けを意味する。しかし、そうしたシステムの拡大が、意外な結果を招いているという。先進安全システム搭載車で衝突事故に遭うと、保険会社は全損扱いにすることが多いというのだ。
- ]]></description>
-			<pubDate>Wed, 17 May 2017 12:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>    ドコモがSIMロック解除条件を緩和、一括なら即日・分割でも100日経過でOKに
-</title>
-			<link>http://japanese.engadget.com/2017/05/17/sim-100-ok/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/a07909cce2f61711e4a30a50a2ecbbe5/205271561/DSC01776%2B%281%29.jpg" />
-
-ドコモがSIMロック解除の条件緩和を発表しました。
-
-従来は原則として端末購入日から6か月以上経過していないと受付けなかったのに対して、5月24日からの変更後は、一括購入なら即日、分割でも100日経過で解除手続きができるようになります。
-
- 
- ]]></description>
-			<pubDate>Wed, 17 May 2017 13:40:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    Bragi｢The Dash Pro]発表｡リアルタイム翻訳、自動トレーニング追跡など新機能多数､スターキーによるカスタム版も
 </title>
 			<link>http://japanese.engadget.com/2017/05/17/bragi-the-dash-pro/</link>
@@ -423,6 +390,98 @@ MaBeeeは、単4乾電池に装着する単3乾電池型ジャケット。Blueto
 
  ]]></description>
 			<pubDate>Fri, 19 May 2017 11:35:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    まるで映画のようなハッキングが現実になった、NSA製ツール EternalBlue。ランサムウエア「WannaCry」まとめ
+</title>
+			<link>http://japanese.engadget.com/2017/05/18/nsa-eternalblue-wannacry/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/fc49e3d73afaf6f740c845dc9fd1efe/205285630/001.jpg" />
+
+​​​​​​世界で大きく被害が広がったランサムウエア「WannaCry」ですが、その拡散に一役買ったとみられるツールを開発したのが「NSA」（アメリカ国家安全保障局）とみられる点も、注目を浴びています。
+
+日本マイクロソフト､WannaCry対策ガイダンス公開｡Windows 10に影響なし､Defenderは最新定義で対応済
+マイクロソフト、WannaCry被害でNSA批判 「トマホークミサイルを盗まれたのと同じ」
+WannaCryランサムウェアから北朝鮮ハッカーのコード見つかる。断定は時期尚早も、背景には国家的な関与？
+マイクロソフト、サポート切れのWindows XP他に「異例のセキュリティパッチ」公開。世界的にランサムウェア被害拡大中
+
+
+映画やドラマの世界が現実に
+NSAといえば、CIAやFBIと並びアメリカの映画やドラマでも定番の存在です。典型的なイメージは、キーボードをカタカタと叩くだけで標的のシステムにあっさり侵入するといったものではないでしょうか。
+
+ITリテラシーの高い人なら「そんなにうまくいくわけないだろ」と突っ込むシーンですが、それを現実のものにしてしまうのがNSA製のツールです。NSAから流出した後、2017年4月にはThe Shadow BrokersによってGitHubに公開され、誰でも入手可能な状態になっています。
+問題は、NSAがこのツールを作った時期が少なくとも2013年より前とみられる点です。つまりNSAは、これまで数年間に渡って誰にも気付かれないまま、世界中の多数のWindows PCに静かに侵入していた可能性があります。
+
+そこから4年以上が経過したことで、現在のNSAはさらに強力なツールを保有しているのではないか、との疑念は高まります。マイクロソフトがNSAを名指しで非難したように、今後は政府機関に対する風当たりが強まるかもしれません。
+
+ 
+NSA仕込みの攻撃ツールとは？
+GitHubに公開されたツールには実行ファイルが含まれており、マルウェアとして検出される可能性が高いため、専用に隔離した検証環境以外では、興味本位にダウンロードしないほうがよいでしょう。
+
+
+GitHubに公開されたNSA製とみられるツール群
+
+その中身は、よくあるアングラツールとは趣を異にしています。アスキーアートによる装飾や「Decrypt0r」のようにアルファベットを置き換えるleet表現はみられません。その代わり、ソースコードには丁寧にコメントが付けられ、ファイルにはバージョン番号と見られる数字が付与されています。
+
+まるで会議室のホワイトボードで設計され、昼間のオフィスで書かれ、自動テストを経て、ビルドツールによって出力されたような仕上がりです。
+
+
+コーディング規則の存在が感じられるPythonスクリプト
+
+代表的なツールの詳細は、EternalBlueについて @zerosum0x0、DoublePulsarについてはCounterceptのブログにおいて詳細に解析されています。
+
+これらの解析から読み取れることは、標的へのアクセスや振る舞いにかなりの慎重さが感じられる点です。たとえばSMBの脆弱性を利用する「EternalBlue」は、ドライバが読み込まれたメモリ空間内の関数を置き換えるようにしてバックドアである「DoublePulsar」を送り込みます。
+
+
+実際にEternalBlueでバックドアを仕込んだWindows 7 SP1。目に見える変化はまったくない
+
+メモリ上にうまく忍び込んだDoublePulsarは、あたかもSMBの一部のように振る舞い、外部から送られてきたDLLコードをすでに存在する別のプロセスに注入します。目的を達成した後はメモリを消去して痕跡をほとんど残さないため、何の予備知識もなしに攻撃を検出することは、至難の業といってよいでしょう。
+
+すでに脆弱性への対策となるセキュリティパッチは3月に提供されており、Windows Updateを正しく実行していれば新たな攻撃を受けることはありません。ただし、パッチの適用が4月以降に遅れた場合は攻撃を受けた可能性があります。例外的にWindows XPにもパッチは提供されましたが、これはWannaCryの被害が拡大を始めた後でした。
+
+
+サポートが終了したデスクトップ版のWindows XPにもセキュリティパッチが提供された
+
+我々一般人ができる対策としては、常にセキュリティパッチを最新化すること、データはローカルだけに置かずバックアップやクラウドの利用を心がけること、必要のないポートは閉じること、などの基本を徹底することが重要といえます。
+
+ ]]></description>
+			<pubDate>Fri, 19 May 2017 12:20:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    80年代傑作ファンタジー「ダーククリスタル」の前日譚が制作発表。今秋撮影開始、Netflixで公開予定
+</title>
+			<link>http://japanese.engadget.com/2017/05/18/80-netflix/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/e152b629fe176ea1346ab74c73423f77/205285641/main.jpg" />
+ジム・ヘンソン・カンパニーがファンタジー映画の傑作「ダーククリスタル」の前日譚「The Dark Crystal: Age of Resistance」をドラマ化すると発表しました。Netflixで配信されるこの作品は全10話になる予定で、監督は映画「トランスポーター」や「タイタンの戦い」のルイ・ルテリエ。
+
+ダーククリスタルといえば、全編アニマトロニクスで制作された1982年(日本では1983年)公開のダークファンタジー作品。監督はマペット作家で「セサミストリート」「ラビリンス/魔王の迷宮」「ストーリーテラー」などを手がけたジム・ヘンソンと、クッキーモンスターの声や「スター・ウォーズ」のヨーダ役で知られるフランク・オズ(ブルース・ブラザースの冒頭で所持品を返却する看守役でも有名)が共同で務めました。
+
+新作シリーズは、オリジナル作の数年前が舞台。3人のゲルフリン族(主人公となるキャラクター)が、権力を握るスケクシス族の背後に潜む恐ろしい秘密に気づき、反乱を起こすための壮大な旅に出るというストーリーです。
+　
+
+　
+新作には大きな期待が集まるとは思われるものの、オリジナルを愛する人ほど、新作の出来に不安を感じる人もいるかもしれません。しかし今作はジム・ヘンソン・カンパニーの制作により、全編ではないにせよ当時と同様のアニマトロニクス技術を使っての制作になるとのこと。オリジナル作や「ラビリンス/魔王の迷宮」でコンセプトデザインを手がけたブライアン・フロードが今作でもデザイナーを務めるため、あの80年代ファンタジーが持つ独特の世界感の再現が大きく期待できます。
+
+ローリングストーン誌が伝えるところでは、撮影開始は今秋から。おそらくオウグラは出てくるにしても、ガーシムやランドストライダーなども登場するのか、新たなキャラクターがどのようになるのか、いまから惑星トラの幻想的な世界やそこに棲む種族たちとの再会が待ちきれません。
+
+下は「ダーククリスタル」の予告編
+
+
+ 
+
+ ]]></description>
+			<pubDate>Fri, 19 May 2017 12:45:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    Apple Pencilに比べて書き味は？ ソニーの新デジタルペーパー「DPT-RP1」実機インプレ
+</title>
+			<link>http://japanese.engadget.com/2017/05/18/apple-pencil-dpt-rp1/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1152x768+0+0/resize/1200x800!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/6caf689772d66d133b1613c709ef7546/205274946/DSC_6091.jpg" />
+
+5月17日(水)〜19日(金)の3日間、東京ビッグサイトにて、学校向けIT専門見本市「第8回 教育ITソリューションEXPO」が開幕。ソニーブースでは、ソニーが6月5日に発売するデジタルペーパー「DPT-RP1」に一足早くふれることができました。
+
+<p><a href="http://japanese.engadget.com/gallery/edix-sony/" title="EDIX_SONY">【ギャラリー】EDIX_SONY (22枚)</a></p>
+ ]]></description>
+			<pubDate>Fri, 19 May 2017 12:55:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
