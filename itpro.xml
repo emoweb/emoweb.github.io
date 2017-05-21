@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>技術を知っていれば自分でビジネスを作り出せる（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/051800011/</link>
+			<description><![CDATA[　今月紹介するのは鹿野桂一郎氏。オーム社で数々の技術書の編集に携わった後、独立してラムダノートという技術書の出版社を立ち上げた。同氏は、書籍の制作に使っている自動組版ツールを自ら開発するというエンジニアの顔も持つ。今回は、ラムダノート設立の経緯と同社の取り組みを聞いた。]]></description>
+			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>会議をうまく進行できない？まずは書記を買って出よう（若手情シスSEに送る幸せのヒント）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/051700005/</link>
 			<description><![CDATA[　SEとして打ち合わせや会議に出席する機会はこれから増えてきます。若手が会議の進行役（ファシリテーター）を任されるケースは多くはないですが、やってみるとなかなか思い通りには進められないものです。手っ取り早くスキルを高めるには書記の経験を積むのがおススメです。]]></description>
@@ -129,12 +135,6 @@
 			<title>モバイルバッテリーの選び方とおすすめ製品［17年版］（週末スペシャル）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/051700310/</link>
 			<description><![CDATA[　人気のデジタル製品となった「モバイルバッテリー」はどう選べばいいのか？　最新の選び方とおすすめ製品を解説する。]]></description>
-			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>技術を知っていれば自分でビジネスを作り出せる（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/051800011/</link>
-			<description><![CDATA[　今月紹介するのは鹿野桂一郎氏。オーム社で数々の技術書の編集に携わった後、独立してラムダノートという技術書の出版社を立ち上げた。同氏は、書籍の制作に使っている自動組版ツールを自ら開発するというエンジニアの顔も持つ。今回は、ラムダノート設立の経緯と同社の取り組みを聞いた。]]></description>
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -266,6 +266,12 @@
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>ビジネスチャットは本当に有効か（松田次博 間違いだらけのネットワーク作り）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/230970/051500040/</link>
+			<description><![CDATA[　最近、「ビジネスチャット」という言葉をよく目にするようになった。LINEのようなチャットツールを企業でも活用して、コミュニケーションの活性化や情報共有による生産性向上を狙おうと言うのだ。ビジネスチャットは本当に有効なのだろうか。]]></description>
+			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「最初は怖かったクラウド勉強会」、世界のAWSヒロインが明かす（クラウド女子）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600193/051800001/</link>
 			<description><![CDATA[　コミュニティ活動を牽引する人材として米AWSが認定する「AWSコミュニティヒーロー」。そのうちの一人が、2016年11月に認定された本田技研工業の多田歩美さん。HPC（高性能計算）分野でのAWS活用を、国内企業の先陣を切って推進してきた。]]></description>
@@ -326,16 +332,41 @@
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ビジネスチャットは本当に有効か（松田次博 間違いだらけのネットワーク作り）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/230970/051500040/</link>
-			<description><![CDATA[　最近、「ビジネスチャット」という言葉をよく目にするようになった。LINEのようなチャットツールを企業でも活用して、コミュニケーションの活性化や情報共有による生産性向上を狙おうと言うのだ。ビジネスチャットは本当に有効なのだろうか。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>会社でトイレ難民、救世主はIoT（IoTで快適オフィス）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051500190/051500001/</link>
 			<description><![CDATA[　IoTの技術を活用して、オフィス設備を社員が効率的に利用できる新サービスが相次いでいる。会議室やトイレの最新の空き状況がスマートフォンやPCで分かり、データ分析を通じて設備の配置などの最適化につなげる。IoTがオフィスの身近な悩みを解決し、快適な働き方につながる技術としても注目を集め始めた。]]></description>
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>退職する社員のデータ持ち出し、効果的な対抗策は（上）（退職する社員のデータ持ち出し、効果的な対抗策は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/051600037/051600001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　これまでも言い古されてきたとおり、企業にとって最も価値の高い資産である社員も、いつかは退職する時が来る。だが、最近発表されたセキュリティレポートによると、退職する社員と一緒に、価値の高い資産がほかにも失われてしまうことがある。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/051600037/051600001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　米Osterman Researchの調査によると、退職する社員に情報資産を持ち出された経験があり、データやナレッジの重大な損失につながったことがあると回答した企業は69％に上った。</p>
+
+<p>　データの損失は、いかなる形態であれ、企業に脅威をもたらす。このレポートによると、退職時に社員がデータを直接持ち出すケースのほかに、クラウドストレージなどの場所に企業データを保存していた社員が退職し、会社側がそのストレージを把握していなかったりアクセスできなかったりするケースも、問題の火種をはらんでいる。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/051600037/051600001/?ST=cio-security&P=2">他社に転職する社員のほか、人員削減が迫っているこ...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/051600037/051600001/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/051600037/051600001/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/051600037/051600001/?ST=cio-security&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/051600037/051600001/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 22 May 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
