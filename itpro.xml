@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>海外に行くときのデータ通信、安く快適な方法は結局どれ？（塩田紳二のモバイルトレンド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/051800052/</link>
+			<description><![CDATA[　海外でもスマートフォンを使うと国内同様に便利なのですが、気になるのが通信料金。海外でのデータ通信にはいくつか方法があり、それぞれ一長一短という感じです。ここでは、それらについてまとめてみます。]]></description>
+			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>モバイルバッテリーの選び方とおすすめ製品［17年版］（週末スペシャル）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/051700310/</link>
 			<description><![CDATA[　人気のデジタル製品となった「モバイルバッテリー」はどう選べばいいのか？　最新の選び方とおすすめ製品を解説する。]]></description>
@@ -66,15 +72,15 @@
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>フツーの社員は対象外？Office 365のサポート事情（ここがおかしい！？Office 365）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800180/050900006/</link>
-			<description><![CDATA[　Office 365にログインすると、見慣れないアイコンが増えていた。IT部門の社内サポートに尋ねると、わからないという返事。マイクロソフトのサポートデスクに連絡すると、エンドユーザーは対象でないと言われた。エンドユーザーがこうした状況に陥らないよう、IT部門は、エンドユーザー向けの社内サポート体制を整えておく必要がある。これが、Office 365の“お作法”だ。]]></description>
+			<title>Buildで見えたマイクロソフトの現実路線、非Windows対応を強化へ（シリコンバレーNextレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/051700109/</link>
+			<description><![CDATA[　米マイクロソフトがLinuxやiOS、Androidへの傾斜を強めている。5月9日から11日まで米シアトルで開催した開発者会議「Microsoft Build 2017」で、同社の姿勢が鮮明となった。]]></description>
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>海外に行くときのデータ通信、安く快適な方法は結局どれ？（塩田紳二のモバイルトレンド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/051800052/</link>
-			<description><![CDATA[　海外でもスマートフォンを使うと国内同様に便利なのですが、気になるのが通信料金。海外でのデータ通信にはいくつか方法があり、それぞれ一長一短という感じです。ここでは、それらについてまとめてみます。]]></description>
+			<title>ラズパイNASを「OpenMediaVault」で作る（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/051700007/</link>
+			<description><![CDATA[　OpenMediaVaultは、ネットワーク経由でファイルを保存・共有できる「NAS」（Network Attached Storage）を構築できるLinuxディストリビューションです。市販のNASのように、Webブラウザーで利用できる管理画面から簡単に設定できます。]]></description>
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -126,15 +132,9 @@
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Buildで見えたマイクロソフトの現実路線、非Windows対応を強化へ（シリコンバレーNextレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/051700109/</link>
-			<description><![CDATA[　米マイクロソフトがLinuxやiOS、Androidへの傾斜を強めている。5月9日から11日まで米シアトルで開催した開発者会議「Microsoft Build 2017」で、同社の姿勢が鮮明となった。]]></description>
-			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ラズパイNASを「OpenMediaVault」で作る（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/051700007/</link>
-			<description><![CDATA[　OpenMediaVaultは、ネットワーク経由でファイルを保存・共有できる「NAS」（Network Attached Storage）を構築できるLinuxディストリビューションです。市販のNASのように、Webブラウザーで利用できる管理画面から簡単に設定できます。]]></description>
+			<title>フツーの社員は対象外？Office 365のサポート事情（ここがおかしい！？Office 365）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800180/050900006/</link>
+			<description><![CDATA[　Office 365にログインすると、見慣れないアイコンが増えていた。IT部門の社内サポートに尋ねると、わからないという返事。マイクロソフトのサポートデスクに連絡すると、エンドユーザーは対象でないと言われた。エンドユーザーがこうした状況に陥らないよう、IT部門は、エンドユーザー向けの社内サポート体制を整えておく必要がある。これが、Office 365の“お作法”だ。]]></description>
 			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -260,15 +260,21 @@
 			<pubDate>Fri, 19 May 2017 18:29:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>「WannaCry」が悪用したというNSA製のバックドアツールを試した（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/051900247/</link>
+			<description><![CDATA[　ランサムウエアWannaCryでは、バックドアを仕込むツールが利用されたとされている。そこで、「EternalBlue」や「DoublePulsar」の名前で報じられる機会が増えているバックドアツールを実際に試してみた結果をレポートする。]]></description>
+			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>データ分析力を高めたい？データそのものに興味を持とう（若手情シスSEに送る幸せのヒント）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/051800006/</link>
 			<description><![CDATA[　情報システム部門はこれまでも様々な切り口でデータを抽出したり集計したりしていると思いますが、増え続けるデータ量に対してまだ活用する余地が大いに残っているはずです。データを“使いこなす”には分析力が必要なことは言うまでもありません。]]></description>
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「WannaCry」が悪用したというNSA製のバックドアツールを試した（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/051900247/</link>
-			<description><![CDATA[　ランサムウエアWannaCryでは、バックドアを仕込むツールが利用されたとされている。そこで、「EternalBlue」や「DoublePulsar」の名前で報じられる機会が増えているバックドアツールを実際に試してみた結果をレポートする。]]></description>
+			<title>韓国でもWannaCry被害、映画館やバス停の案内が中止に（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/051700147/</link>
+			<description><![CDATA[　世界中でランサムウエアによる被害が発生している。複数の報道によると、WannaCryという名前のランサムウエアが5月12日から世界150カ国に広がり、17日時点で20万件以上のデータが“人質”にされ、政府機関、企業、病院などで業務ができなくなっている。犯人たちはビットコインで身代金を払えば暗号化したデータを元に戻すと脅迫している。]]></description>
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -278,15 +284,15 @@
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>課長昇進前はネガティブに、悩みを晴らした一言とは？（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/050800007/</link>
-			<description><![CDATA[　SEとして順調に仕事を進め、課長代理になったNTTデータの二十軒悠里氏。だが課長に昇進する前は、自分の身の振り方について悩み、自分でも意外なほどネガティブになったという。]]></description>
+			<title>総務省、「無線LANただ乗り無罪」に苦しい反論（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051800978/</link>
+			<description><![CDATA[　大手新聞社などのメディアは「無線LANただ乗りは罪に問えない」と報じた。これに対し電波行政を担当する総務省は5月12日、「ただ乗りは無罪ではない」と電波法第109条に抵触する可能性があると反論した。]]></description>
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>韓国でもWannaCry被害、映画館やバス停の案内が中止に（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/051700147/</link>
-			<description><![CDATA[　世界中でランサムウエアによる被害が発生している。複数の報道によると、WannaCryという名前のランサムウエアが5月12日から世界150カ国に広がり、17日時点で20万件以上のデータが“人質”にされ、政府機関、企業、病院などで業務ができなくなっている。犯人たちはビットコインで身代金を払えば暗号化したデータを元に戻すと脅迫している。]]></description>
+			<title>専有クラウドはいずれ沈む泥舟（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/051800838/</link>
+			<description><![CDATA[　「ホステッドプライベートクラウド」「プライベートクラウド・アズ・ア・サービス」など呼び方はいくつもあるが、サーバーを1社で専有する専有クラウドの市場が拡大している。国内ではパブリッククラウドを上回るとの予想もある専有クラウドだが、はたして本当に成長するのだろうか。]]></description>
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -326,15 +332,9 @@
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>総務省、「無線LANただ乗り無罪」に苦しい反論（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051800978/</link>
-			<description><![CDATA[　大手新聞社などのメディアは「無線LANただ乗りは罪に問えない」と報じた。これに対し電波行政を担当する総務省は5月12日、「ただ乗りは無罪ではない」と電波法第109条に抵触する可能性があると反論した。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>専有クラウドはいずれ沈む泥舟（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/051800838/</link>
-			<description><![CDATA[　「ホステッドプライベートクラウド」「プライベートクラウド・アズ・ア・サービス」など呼び方はいくつもあるが、サーバーを1社で専有する専有クラウドの市場が拡大している。国内ではパブリッククラウドを上回るとの予想もある専有クラウドだが、はたして本当に成長するのだろうか。]]></description>
+			<title>課長昇進前はネガティブに、悩みを晴らした一言とは？（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/050800007/</link>
+			<description><![CDATA[　SEとして順調に仕事を進め、課長代理になったNTTデータの二十軒悠里氏。だが課長に昇進する前は、自分の身の振り方について悩み、自分でも意外なほどネガティブになったという。]]></description>
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -424,6 +424,12 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 22 May 2017 10:40:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ランサムウエア「WannaCry」関連記事（ITproアーカイブス）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040700124/051500002/</link>
+			<description><![CDATA[　ランサムウエア「WannaCry」関連の記事をまとめました。ITproアーカイブスは、ITpro内の記事のリンク集です。内容は随時更新します。]]></description>
+			<pubDate>Mon, 22 May 2017 15:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>

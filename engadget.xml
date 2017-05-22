@@ -5,18 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Apple Pencilに比べて書き味は？ ソニーの新デジタルペーパー「DPT-RP1」実機インプレ
-</title>
-			<link>http://japanese.engadget.com/2017/05/18/apple-pencil-dpt-rp1/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1152x768+0+0/resize/1200x800!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/6caf689772d66d133b1613c709ef7546/205274946/DSC_6091.jpg" />
-
-5月17日(水)〜19日(金)の3日間、東京ビッグサイトにて、学校向けIT専門見本市「第8回 教育ITソリューションEXPO」が開幕。ソニーブースでは、ソニーが6月5日に発売するデジタルペーパー「DPT-RP1」に一足早くふれることができました。
-
-<p><a href="http://japanese.engadget.com/gallery/edix-sony/" title="EDIX_SONY">【ギャラリー】EDIX_SONY (22枚)</a></p>
- ]]></description>
-			<pubDate>Fri, 19 May 2017 12:55:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    急な待ち合わせにはGoogleマップが便利　お互いの現在地を確認しあえます:Google Tips
 </title>
 			<link>http://japanese.engadget.com/2017/05/19/google-google-tips/</link>
@@ -580,6 +568,36 @@ iPhone同士で画像やデータを共有できる「AirDrop」。コントロ�
 <p><a href="http://japanese.engadget.com/gallery/iphone-27/" title="iPhoneの名前を“本名以外”に設定する方法">【ギャラリー】iPhoneの名前を“本名以外”に設定する方法 (5枚)</a></p>
  ]]></description>
 			<pubDate>Mon, 22 May 2017 14:45:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    複数インスタンスに対応したマストドン用WebクライアントをUEIとglucoseで作ってみた : 情熱のミーム　清水亮
+</title>
+			<link>http://japanese.engadget.com/2017/05/22/web-uei-glucose/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/4b979d829975fac0a31b254c2d66d97b/205275406/%3F%3F%3F%3F%3F%3F%3F%3F%3F+2017-05-17+11.31.13.png" />
+
+諸君はマストドンをやっているだろうか。
+この一ヶ月で世界的ブームとなったマストドンだが、一つだけ致命的に使いにくい問題がある。それはタイムラインだ。
+
+
+まず、マストドンのデフォルトのクライアントはそれなりに良く出来ている。それなりに良く出来てはいるのだが、いかんせん不自由すぎる。
+
+
+また、ダイレクトメッセージをもらっても通知欄で埋もれてしまう
+
+
+
+一番面倒なのは、ダイレクトメッセージとリプライが同じ人物から同時に来た場合だ(そういうケースはたまにある)。こうなるともうパズルである。
+
+そういうことにならないように、複数のインスタンスのローカルタイムラインを並べたり、全部つなげて一本のタイムラインにしたり、ダイレクトメッセージを個別に見れたりするためのユーザーインタフェースをglucoseと共同開発した。その名もNaumanni(ナウマン)。もちろんナウマン象からきている。
+
+
+
+すでに&alpha;版を公開しているので試してみてほしい。
+
+http://naumanni.com
+ 
+ ]]></description>
+			<pubDate>Mon, 22 May 2017 16:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
