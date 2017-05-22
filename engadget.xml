@@ -5,21 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    iPhone 7へのデータ引き継ぎはiTunesでより安全に。LINEトーク履歴などのバックアップも可能：iPhone Tips Best
-</title>
-			<link>http://japanese.engadget.com/2016/10/21/iphone-7-itunes-line-iphone-tips/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/22382dff7b563907333eab02dd571f9a/204488013/001.jpg" />
-※以前掲載したTipsのなかからとくに便利なものを厳選してお届けしています
-
-iPhone 7/Plus発売からおよそ1か月。昨今は発売当初は入手難だったPlusでも予約待ちが減ってきて「ようやく手元に届いた」という声が聞こえるようになってきました。新しいiPhoneに交換する場合、ほとんどの場合必須となるのが、現在使っているiPhoneからのデータ移行です。
-
-この際に便利なのが、Mac OSとWindowsで動作するパソコンソフト「iTunes」。これを使うと、iPhone内のほとんどのデータを新しい端末に移行できます。またデータのバックアップも可能で、さらにiCloudによるバックアップでは引き継げない、アプリのユーザーIDやパスワード、LINEのトーク履歴なども移行可能なのがメリットです。
-バックアップを取ったり、データを復元する際は、「iTunes」を起動してパソコンとiPhoneをUSBケーブルで接続します。ケーブルを使う必要はありますが、確実にデータを引き継げますよ。
-<p><a href="http://japanese.engadget.com/gallery/itunes-iphone-tips/" title="データ移行やバックアップは「iTunes」が絶対安全：iPhone Tips">【ギャラリー】データ移行やバックアップは「iTunes」が絶対安全：iPhone Tips (11枚)</a></p>
- ]]></description>
-			<pubDate>Fri, 19 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    Google、スマホVRを劇的に強化するSeurat発表。スター・ウォーズの映画級CGをリアルタイム描画
 </title>
 			<link>http://japanese.engadget.com/2017/05/18/google-vr-seurat-cg/</link>
@@ -605,6 +590,56 @@ iPhone 7/7 Plusでは、ホームボタンの仕様や強制終了にともな�
 拾いきれなかったニュースをダイジェスト形式でお伝えします。今回は「ホルモン産生する3Dプリント卵巣」、「ARMの脳内移植用プロセッサ」、「KIC 8462852で急激な減光現象が発生中」などをまとめました。
  ]]></description>
 			<pubDate>Mon, 22 May 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    AI自動運転レースRoborace用マシンの初走行は徐行運転。理由はAIのコース学習、それでもコースバリアに接触
+</title>
+			<link>http://japanese.engadget.com/2017/05/21/ai-roborace-ai/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/f9bce89d4486f89a9d5328fa60acc0b9/205292226/main.jpg" />
+
+2015年にシリーズ立ち上げを発表したAIロボットカーによる完全無人レース Roborace が、そのレースマシン「Robocar」をはじめてレース用コースで走らせました。舞台はフランスで開催されたフォーミュラEパリePrixの特設コースです。
+
+Roboraceはこれまで、LMPマシンを使った開発用車両「Devbot」を走行させたことはありますが、一般客の前でいちから製作した専用マシンを走らせるのは今回が初めてのことです。ただ今回は、動画を見ればわかるとおり走行というよりは人が歩くほどの速度で徐行していたというのが正しいかもしれません。
+
+
+Pit lane testing and a congratulations from @LucasdiGrassi. A great start to the day. #Roborace #ParisePrix pic.twitter.com/vclD8leUrF
+- Roborace (@roborace) 2017年5月20日
+
+　
+Robocarには各輪に出力300kWのモーターを搭載し、最終的に最高速度320km/hを超える性能を備えています。車重は約1000kgあり、これはF1などに比べてもかなりの重さ。おそらくは540kWというバッテリーの重量がかさんでいると考えられます。無人マシンであるため、当然コクピットやドライバー保護用のロールバーはなく、EVなのでエンジンにエアを取り入れるインテークもありません。一方で、ドライバーの代わりと務めるセンサー類としてLIDARセンサーx5、レーダーx2、超音波センサーx12、速度センサーx2、イメージセンサー(カメラ)x6、GNSS(GPSやGLONASSのこと)を搭載。それらの情報をまとめてNvidiaのDRIVE PX2が処理、マシンの操縦制御を行います。
+
+
+Congratulations @roborace ! 😉 #fia #FormulaE #ParisEprix #robocar pic.twitter.com/zEDFKxanCV
+- Geraldine Gaudy (@GeraldineGaudy) 2017年5月20日
+
+
+ 
+
+Roborace is on track!!! #FormulaE pic.twitter.com/P7o7Bj3L9X
+- MiniDrivers (@OfficialMinis) 2017年5月20日
+
+今回、なぜこのようにノロノロ走行となったのかについては、実は最初にマシンにコース上や周辺の情報を記憶させるセンシングモードをテストしていたから。それでも、コース幅の狭いコーナーではセーフバリアに接触して停止するなど、まだまだAIの学習はこれからと言った感じです。
+　
+
+
+Well that's not what you want. @roborace in the barrier. Driver OK though. pic.twitter.com/jGbpg78Bwp
+- Scott Mitchell (@ScottAutosport) 2017年5月20日
+
+　
+以前にデモ走行を披露したDevbotはかなりの速度で走行していたものの、やはり最終的にはコースバリアにぶつかって走行を終了していました。
+
+どちらの場合も、またいずれ開催されるだろう本番レースでも、Roboraceではクラッシュが発生するはずです。ただどんなに大事故が起ころうとも、ドライバーの安否を心配する必要がないのは良いところ。ただ、ドライバーが乗っていなければ観客や視聴者はどこに感情移入してレースを見ればよいかは気になるところではありますが。
+
+Roboraceは来週以降もテストを続け、AIの基本的能力を鍛えていくはずです。そこにレース参加チームによる独自のチューンナップが加わったとき、いざ本番でどれぐらい面白いレースが展開されるか、または壮大なラジコンレースになってしまうのかに注目したいところです。
+
+なお、RoboraceはTwitterで「テストは成功した」とツイートしているものの、高速走行の映像はなく、またコース上でのバリアへの接触についても触れていません。
+
+
+Robocar on track morning test. Success. #ParisePrix pic.twitter.com/4pL2yhBaPc
+- Roborace (@roborace) 2017年5月20日
+
+ ]]></description>
+			<pubDate>Mon, 22 May 2017 10:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
