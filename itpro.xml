@@ -5,84 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>ビジネスチャットは本当に有効か（松田次博 間違いだらけのネットワーク作り）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/230970/051500040/</link>
-			<description><![CDATA[　最近、「ビジネスチャット」という言葉をよく目にするようになった。LINEのようなチャットツールを企業でも活用して、コミュニケーションの活性化や情報共有による生産性向上を狙おうと言うのだ。ビジネスチャットは本当に有効なのだろうか。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>格安SIMの体感速度を上げるLinuxサーバー、Ziproxyで画像スリム化（格安SIMをOSSで快適にするワザ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600192/051600001/</link>
-			<description><![CDATA[　格安SIMを快適化するLinuxサーバーを構築します。今回は、Webサーバーからダウンロードする画像ファイルのサイズを削減できるZiproxyで、通信量を減らして体感速度を向上させます。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>会社でトイレ難民、救世主はIoT（IoTで快適オフィス）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051500190/051500001/</link>
-			<description><![CDATA[　IoTの技術を活用して、オフィス設備を社員が効率的に利用できる新サービスが相次いでいる。会議室やトイレの最新の空き状況がスマートフォンやPCで分かり、データ分析を通じて設備の配置などの最適化につなげる。IoTがオフィスの身近な悩みを解決し、快適な働き方につながる技術としても注目を集め始めた。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>専有クラウドはいずれ沈む泥舟（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/051800838/</link>
-			<description><![CDATA[　「ホステッドプライベートクラウド」「プライベートクラウド・アズ・ア・サービス」など呼び方はいくつもあるが、サーバーを1社で専有する専有クラウドの市場が拡大している。国内ではパブリッククラウドを上回るとの予想もある専有クラウドだが、はたして本当に成長するのだろうか。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>かんぽ生命のWatson、1年半かけて学ぶ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051900979/</link>
-			<description><![CDATA[　かんぽ生命保険は2017年3月21日から、保険金の支払い審査に日本IBMの人工知能（AI）「Watson」の適用を始めた]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>韓国でもWannaCry被害、映画館やバス停の案内が中止に（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/051700147/</link>
-			<description><![CDATA[　世界中でランサムウエアによる被害が発生している。複数の報道によると、WannaCryという名前のランサムウエアが5月12日から世界150カ国に広がり、17日時点で20万件以上のデータが“人質”にされ、政府機関、企業、病院などで業務ができなくなっている。犯人たちはビットコインで身代金を払えば暗号化したデータを元に戻すと脅迫している。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>課長昇進前はネガティブに、悩みを晴らした一言とは？（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/050800007/</link>
-			<description><![CDATA[　SEとして順調に仕事を進め、課長代理になったNTTデータの二十軒悠里氏。だが課長に昇進する前は、自分の身の振り方について悩み、自分でも意外なほどネガティブになったという。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本で「プログラマー養成キャンプ」を立ち上げる勝算は？（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/051800085/</link>
-			<description><![CDATA[　古くからの友人が、新しい会社をスタートさせようとしている若い外国人2人を紹介してくれました。カニさんとヤンさん。2人はDevOpsのためのプログラミングを教えるスクールを日本で立ち上げようとしているそうです。米国ではブートキャンプと呼ばれるプログラミングの学校がいくつも開校されています。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>総務省、「無線LANただ乗り無罪」に苦しい反論（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051800978/</link>
-			<description><![CDATA[　大手新聞社などのメディアは「無線LANただ乗りは罪に問えない」と報じた。これに対し電波行政を担当する総務省は5月12日、「ただ乗りは無罪ではない」と電波法第109条に抵触する可能性があると反論した。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「WannaCry」が悪用したというNSA製のバックドアツールを試した（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/051900247/</link>
-			<description><![CDATA[　ランサムウエアWannaCryでは、バックドアを仕込むツールが利用されたとされている。そこで、「EternalBlue」や「DoublePulsar」の名前で報じられる機会が増えているバックドアツールを実際に試してみた結果をレポートする。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>データ分析力を高めたい？データそのものに興味を持とう（若手情シスSEに送る幸せのヒント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/051800006/</link>
-			<description><![CDATA[　情報システム部門はこれまでも様々な切り口でデータを抽出したり集計したりしていると思いますが、増え続けるデータ量に対してまだ活用する余地が大いに残っているはずです。データを“使いこなす”には分析力が必要なことは言うまでもありません。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>空前の技術者不足、それでも転職しないのは臆病風に吹かれたか（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/051800139/</link>
-			<description><![CDATA[　今は空前の技術者不足で、技術系の転職サイトの求人倍率を見ても8倍前後の“高原状態”。まさに引く手あまたなのだが、どうもおかしい。これだけの売り手市場になるということは、単に技術者の絶対数の不足というだけではあるまい。多くの技術者が転職したがらないということではないのか。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「最初は怖かったクラウド勉強会」、世界のAWSヒロインが明かす（クラウド女子）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600193/051800001/</link>
-			<description><![CDATA[　コミュニティ活動を牽引する人材として米AWSが認定する「AWSコミュニティヒーロー」。そのうちの一人が、2016年11月に認定された本田技研工業の多田歩美さん。HPC（高性能計算）分野でのAWS活用を、国内企業の先陣を切って推進してきた。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>退職する社員のデータ持ち出し、効果的な対抗策は（上）（退職する社員のデータ持ち出し、効果的な対抗策は）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/051600037/051600001/</link>
 			<description><![CDATA[<div>
@@ -201,15 +123,21 @@
 			<pubDate>Mon, 22 May 2017 20:28:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>2年で“クラウド部長”になったNTTデータ女性社員（クラウド女子）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600193/051900003/</link>
+			<description><![CDATA[　ぶちょー（部長）――。NTTデータの安東沙織さんは、周囲から親しみを込めてこう呼ばれる。といっても、会社での肩書きではない。部長とは、米マイクロソフトのパブリッククラウドサービスAzureのユーザーコミュニティーJapan Azure User Group（JAZUG）女子部での役職だ。]]></description>
+			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>Struts2脆弱性事故のGMO-PGを直撃、事故報告書の疑問に答える（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052200980/</link>
 			<description><![CDATA[　東京都と住宅金融支援機構は3月、それぞれのクレジットカード払いサイトにあったStruts2の脆弱性を突かれ、合計40万超のカード情報を流出させた。両サイトを開発・運用していた決済代行事業者大手のGMOペイメントゲートウェイは5月1日、事故調査報告書を公開し、このほど対面取材に応じた。]]></description>
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>2年で“クラウド部長”になったNTTデータ女性社員（クラウド女子）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600193/051900003/</link>
-			<description><![CDATA[　ぶちょー（部長）――。NTTデータの安東沙織さんは、周囲から親しみを込めてこう呼ばれる。といっても、会社での肩書きではない。部長とは、米マイクロソフトのパブリッククラウドサービスAzureのユーザーコミュニティーJapan Azure User Group（JAZUG）女子部での役職だ。]]></description>
+			<title>「ブロックチェーンよりMac対応を」、法人ネット口座の悲しい現実（編集長の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/052200034/</link>
+			<description><![CDATA[　筆者は3年前、ある理由で法人インターネット口座を開いたことがある。おののいた後、すぐに利用をやめた。そこに広がっていたのは、1990年代から時が止まったのではないかと思われる、利便性の極めて低いウェブサイトだった。]]></description>
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -225,15 +153,15 @@
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>コネクテッドカー（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/050200071/</link>
-			<description><![CDATA[　常時通信によってネットワークと接続しながら新たな付加価値を生み出す次世代の自動車像。IoT（モノのインターネット）の普及により生まれた概念であり、自動車を1つの情報端末として捉えるのが特徴だ。]]></description>
+			<title>LPWA離陸に実証実験相次ぐ、豪雪地帯や山中でも通信OK（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052200982/</link>
+			<description><![CDATA[　IoTのセンサーネットワーク向けの新たな通信技術として注目されているLPWA（ローパワー・ワイドエリア）が、いよいよ離陸に向けて動き出している。2017年に入り、さまざまな場所・用途で商用化を見据えたLPWAの実証実験の動きが相次いでいるのだ。]]></description>
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「ブロックチェーンよりMac対応を」、法人ネット口座の悲しい現実（編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/052200034/</link>
-			<description><![CDATA[　筆者は3年前、ある理由で法人インターネット口座を開いたことがある。おののいた後、すぐに利用をやめた。そこに広がっていたのは、1990年代から時が止まったのではないかと思われる、利便性の極めて低いウェブサイトだった。]]></description>
+			<title>業務効率化が進まない？例えば交通費精算を無くしてみよう（若手情シスSEに送る幸せのヒント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/052100007/</link>
+			<description><![CDATA[　ITで企業の業績を拡大させるミッションを持つ情報システム部門には、業務効率化の観点が欠かせません。業務効率化では一般に、「間接業務を大幅に削減して直接業務（本来業務）の比率をアップさせよう！」といったキャッチフレーズを掲げてプロジェクトを進めます。]]></description>
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -279,15 +207,9 @@
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>LPWA離陸に実証実験相次ぐ、豪雪地帯や山中でも通信OK（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052200982/</link>
-			<description><![CDATA[　IoTのセンサーネットワーク向けの新たな通信技術として注目されているLPWA（ローパワー・ワイドエリア）が、いよいよ離陸に向けて動き出している。2017年に入り、さまざまな場所・用途で商用化を見据えたLPWAの実証実験の動きが相次いでいるのだ。]]></description>
-			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>業務効率化が進まない？例えば交通費精算を無くしてみよう（若手情シスSEに送る幸せのヒント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/052100007/</link>
-			<description><![CDATA[　ITで企業の業績を拡大させるミッションを持つ情報システム部門には、業務効率化の観点が欠かせません。業務効率化では一般に、「間接業務を大幅に削減して直接業務（本来業務）の比率をアップさせよう！」といったキャッチフレーズを掲げてプロジェクトを進めます。]]></description>
+			<title>コネクテッドカー（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/050200071/</link>
+			<description><![CDATA[　常時通信によってネットワークと接続しながら新たな付加価値を生み出す次世代の自動車像。IoT（モノのインターネット）の普及により生まれた概念であり、自動車を1つの情報端末として捉えるのが特徴だ。]]></description>
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -383,6 +305,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052301470/</link>
 			<description><![CDATA[　日本テラデータは2017年5月23日、同社が提供するデータウエアハウス（DWH）向けデータベース管理ソフト「Teradata データベース」に、新しいソフトウエアライセンス制度を導入すると発表。DWHシステムの稼働環境を移行する際、ライセンスの追加費用が発生しないようにする。]]></description>
 			<pubDate>Tue, 23 May 2017 14:40:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>NTT西日本がLoRaWAN「クラスB」対応の環境構築、大阪ガス・沖電気と実証実験（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052301473/</link>
+			<description><![CDATA[　NTT西日本は2017年5月23日、LPWAネットワークの事業開発の一環として、LoRaWANにおいて「クラスB」に対応した環境を日本で初めて構築し、実証実験においてクラスBの実現性を確認したと発表した。]]></description>
+			<pubDate>Tue, 23 May 2017 16:05:29 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
