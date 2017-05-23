@@ -11,45 +11,6 @@
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「シャドーデータ」のリスクを抑える7つの策（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052200370/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米通貨監督庁（OCC）のある職員が、退職を前にして、2個のUSBメモリーに1万件以上のデータをコピーした。この職員が退職したのは2015年11月だったが、OCCがこのデータ侵害に気づいたのは、翌2016年の9月になってからだった。発生から発見まで1年近くかかったことになる。結局OCCは、このUSBメモリーを取り戻すことはできなかった。
-</p>
-<h4>
-リスクにさらされるデータ
-</h4>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052200370/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: George Hodan</div>
-</div>
-<p>
-　機密データを社員がどのように扱っているかを会社側がきちんと監督していないとどうなるかは、この事例からも分かる。多くの企業では、こうした問題への対抗策として、未承認のアプリやデバイスを社員が使う「シャドーIT」を厳しく取り締まっている。
-</p>
-<p>
-　だが、たとえ承認済みのアプリケーションであっても、会社のデータをリスクにさらす行動を社員が取ることはあり得る。この問題は「シャドーデータ」と呼ばれる。クラウドアプリケーションの導入に理解を示す企業が増える中、承認済みのアプリケーションを含むすべてのアプリケーションを対象として、入念なセキュリティ対策、最適化、監視を徹底しなくてはならない。データへの統制を維持し、シャドーデータのリスクを減らすための策として、米OneLoginのシニアディレクター、Al Sargent氏は、以下の7項目を挙げている。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052200370/?ST=cm-software&P=2">機密性が高いデータは暗号化して保存する</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052200370/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052200370/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052200370/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052200370/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 22 May 2017 10:40:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ランサムウエア「WannaCry」関連記事（ITproアーカイブス）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040700124/051500002/</link>
 			<description><![CDATA[　ランサムウエア「WannaCry」関連の記事をまとめました。ITproアーカイブスは、ITpro内の記事のリンク集です。内容は随時更新します。]]></description>
@@ -80,6 +41,12 @@
 			<pubDate>Mon, 22 May 2017 20:28:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>なぜ「ひとり情シス」より「丸投げ」が低リスクと思うの？（10人のIT部門が消滅～ひとり情シス顛末記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/051900019/</link>
+			<description><![CDATA[　10人いたIT部門が消滅し、ひとり残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。この実話の当事者である著者が、読者から質問に答える。今回はITベンダーとの関わりについて。著者は「丸投げとお任せは違う」と言う。その真意とは？]]></description>
+			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>コネクテッドカー（Close Up Keyword）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/050200071/</link>
 			<description><![CDATA[　常時通信によってネットワークと接続しながら新たな付加価値を生み出す次世代の自動車像。IoT（モノのインターネット）の普及により生まれた概念であり、自動車を1つの情報端末として捉えるのが特徴だ。]]></description>
@@ -98,9 +65,9 @@
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>なぜ「ひとり情シス」より「丸投げ」が低リスクと思うの？（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/051900019/</link>
-			<description><![CDATA[　10人いたIT部門が消滅し、ひとり残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。この実話の当事者である著者が、読者から質問に答える。今回はITベンダーとの関わりについて。著者は「丸投げとお任せは違う」と言う。その真意とは？]]></description>
+			<title>連載開始2年でスマートフォンゲーム市場はどう変わったのか（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/051500106/</link>
+			<description><![CDATA[　スマートフォンの主要コンテンツとして君臨してきたゲーム。2年前の「モンスターストライク」「パズル＆ドラゴンズ」の最盛期から、社会現象となった「ポケモンGO」の大ヒット、そして任天堂など大手ゲーム会社の本格参入など、大きな変化の渦に巻き込まれている。ゲーム市場を取り巻く変化を振り返ってみたい。]]></description>
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -128,15 +95,15 @@
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ThinkPad X1 Yogaの2017新モデルは微妙な進化ぶり（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/051900117/</link>
-			<description><![CDATA[　ようやくThinkPad X1 Yogaの2017年モデルが販売されるようだ。もうそろそろ2017年も半ば。2017年モデルを購入して半年ほどで2018年がやってくるのは、気分的には複雑だ。2017年モデルは、2018年になると古く感じるものだ。]]></description>
+			<title>重いサイトはブロック、格安SIMへの負担をPrivoxyで軽減（格安SIMをOSSで快適にするワザ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600192/052100002/</link>
+			<description><![CDATA[　格安SIMの通信料を減らすには、自分にとって優先度の低い情報をなるべくダウンロードさせない仕組みが有効です。プライバシー保護が得意なプロキシーサーバー「Privoxy」で、不要なデータをフィルタリングするLinuxサーバーを構築してみましょう。]]></description>
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>連載開始2年でスマートフォンゲーム市場はどう変わったのか（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/051500106/</link>
-			<description><![CDATA[　スマートフォンの主要コンテンツとして君臨してきたゲーム。2年前の「モンスターストライク」「パズル＆ドラゴンズ」の最盛期から、社会現象となった「ポケモンGO」の大ヒット、そして任天堂など大手ゲーム会社の本格参入など、大きな変化の渦に巻き込まれている。ゲーム市場を取り巻く変化を振り返ってみたい。]]></description>
+			<title>AIに製造物責任は問えない、だから議論が必要だ（AIと倫理）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800199/052200001/</link>
+			<description><![CDATA[　特集「AIと倫理」の第1回となる本記事では、会議の構成員としてガイドライン策定を推進する立場を代表して、情報通信事業のコンサルタントであるクロサカタツヤ氏に、開発者の批判を率直にぶつけた。]]></description>
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -158,15 +125,9 @@
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>重いサイトはブロック、格安SIMへの負担をPrivoxyで軽減（格安SIMをOSSで快適にするワザ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600192/052100002/</link>
-			<description><![CDATA[　格安SIMの通信料を減らすには、自分にとって優先度の低い情報をなるべくダウンロードさせない仕組みが有効です。プライバシー保護が得意なプロキシーサーバー「Privoxy」で、不要なデータをフィルタリングするLinuxサーバーを構築してみましょう。]]></description>
-			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIに製造物責任は問えない、だから議論が必要だ（AIと倫理）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800199/052200001/</link>
-			<description><![CDATA[　特集「AIと倫理」の第1回となる本記事では、会議の構成員としてガイドライン策定を推進する立場を代表して、情報通信事業のコンサルタントであるクロサカタツヤ氏に、開発者の批判を率直にぶつけた。]]></description>
+			<title>ThinkPad X1 Yogaの2017新モデルは微妙な進化ぶり（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/051900117/</link>
+			<description><![CDATA[　ようやくThinkPad X1 Yogaの2017年モデルが販売されるようだ。もうそろそろ2017年も半ば。2017年モデルを購入して半年ほどで2018年がやってくるのは、気分的には複雑だ。2017年モデルは、2018年になると古く感じるものだ。]]></description>
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -292,6 +253,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052301478/</link>
 			<description><![CDATA[　NTTドコモは2017年5月23日、新たにケーブルテレビ事業者と協業して、「ドコモ光」上で映像サービスの提供（取次販売）を2017年6月1日に開始すると発表した。]]></description>
 			<pubDate>Tue, 23 May 2017 18:03:43 +0900</pubDate>
+		</item>
+		<item>
+			<title>「ログインの3割がなりすまし」、アカマイが最新の攻撃動向と対策を解説（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052301479/</link>
+			<description><![CDATA[　CDNサービスを提供するアカマイ・テクノロジーズは2017年5月23日、「2017年のセキュリティ記者説明会」を開催し、最新の攻撃動向と不正アクセスの脅威対策について解説した。]]></description>
+			<pubDate>Tue, 23 May 2017 19:49:50 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
