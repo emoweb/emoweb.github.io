@@ -5,6 +5,24 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>会社でトイレ難民、救世主はIoT（IoTで快適オフィス）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051500190/051500001/</link>
+			<description><![CDATA[　IoTの技術を活用して、オフィス設備を社員が効率的に利用できる新サービスが相次いでいる。会議室やトイレの最新の空き状況がスマートフォンやPCで分かり、データ分析を通じて設備の配置などの最適化につなげる。IoTがオフィスの身近な悩みを解決し、快適な働き方につながる技術としても注目を集め始めた。]]></description>
+			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>専有クラウドはいずれ沈む泥舟（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/051800838/</link>
+			<description><![CDATA[　「ホステッドプライベートクラウド」「プライベートクラウド・アズ・ア・サービス」など呼び方はいくつもあるが、サーバーを1社で専有する専有クラウドの市場が拡大している。国内ではパブリッククラウドを上回るとの予想もある専有クラウドだが、はたして本当に成長するのだろうか。]]></description>
+			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>かんぽ生命のWatson、1年半かけて学ぶ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051900979/</link>
+			<description><![CDATA[　かんぽ生命保険は2017年3月21日から、保険金の支払い審査に日本IBMの人工知能（AI）「Watson」の適用を始めた]]></description>
+			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>韓国でもWannaCry被害、映画館やバス停の案内が中止に（趙 章恩「Korea on the Web」）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/051700147/</link>
 			<description><![CDATA[　世界中でランサムウエアによる被害が発生している。複数の報道によると、WannaCryという名前のランサムウエアが5月12日から世界150カ国に広がり、17日時点で20万件以上のデータが“人質”にされ、政府機関、企業、病院などで業務ができなくなっている。犯人たちはビットコインで身代金を払えば暗号化したデータを元に戻すと脅迫している。]]></description>
@@ -29,9 +47,9 @@
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>空前の技術者不足、それでも転職しないのは臆病風に吹かれたか（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/051800139/</link>
-			<description><![CDATA[　今は空前の技術者不足で、技術系の転職サイトの求人倍率を見ても8倍前後の“高原状態”。まさに引く手あまたなのだが、どうもおかしい。これだけの売り手市場になるということは、単に技術者の絶対数の不足というだけではあるまい。多くの技術者が転職したがらないということではないのか。]]></description>
+			<title>「最初は怖かったクラウド勉強会」、世界のAWSヒロインが明かす（クラウド女子）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600193/051800001/</link>
+			<description><![CDATA[　コミュニティ活動を牽引する人材として米AWSが認定する「AWSコミュニティヒーロー」。そのうちの一人が、2016年11月に認定された本田技研工業の多田歩美さん。HPC（高性能計算）分野でのAWS活用を、国内企業の先陣を切って推進してきた。]]></description>
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -41,9 +59,9 @@
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>会社でトイレ難民、救世主はIoT（IoTで快適オフィス）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051500190/051500001/</link>
-			<description><![CDATA[　IoTの技術を活用して、オフィス設備を社員が効率的に利用できる新サービスが相次いでいる。会議室やトイレの最新の空き状況がスマートフォンやPCで分かり、データ分析を通じて設備の配置などの最適化につなげる。IoTがオフィスの身近な悩みを解決し、快適な働き方につながる技術としても注目を集め始めた。]]></description>
+			<title>格安SIMの体感速度を上げるLinuxサーバー、Ziproxyで画像スリム化（格安SIMをOSSで快適にするワザ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600192/051600001/</link>
+			<description><![CDATA[　格安SIMを快適化するLinuxサーバーを構築します。今回は、Webサーバーからダウンロードする画像ファイルのサイズを削減できるZiproxyで、通信量を減らして体感速度を向上させます。]]></description>
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -59,27 +77,9 @@
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「最初は怖かったクラウド勉強会」、世界のAWSヒロインが明かす（クラウド女子）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600193/051800001/</link>
-			<description><![CDATA[　コミュニティ活動を牽引する人材として米AWSが認定する「AWSコミュニティヒーロー」。そのうちの一人が、2016年11月に認定された本田技研工業の多田歩美さん。HPC（高性能計算）分野でのAWS活用を、国内企業の先陣を切って推進してきた。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>専有クラウドはいずれ沈む泥舟（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/051800838/</link>
-			<description><![CDATA[　「ホステッドプライベートクラウド」「プライベートクラウド・アズ・ア・サービス」など呼び方はいくつもあるが、サーバーを1社で専有する専有クラウドの市場が拡大している。国内ではパブリッククラウドを上回るとの予想もある専有クラウドだが、はたして本当に成長するのだろうか。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>格安SIMの体感速度を上げるLinuxサーバー、Ziproxyで画像スリム化（格安SIMをOSSで快適にするワザ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600192/051600001/</link>
-			<description><![CDATA[　格安SIMを快適化するLinuxサーバーを構築します。今回は、Webサーバーからダウンロードする画像ファイルのサイズを削減できるZiproxyで、通信量を減らして体感速度を向上させます。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>かんぽ生命のWatson、1年半かけて学ぶ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051900979/</link>
-			<description><![CDATA[　かんぽ生命保険は2017年3月21日から、保険金の支払い審査に日本IBMの人工知能（AI）「Watson」の適用を始めた]]></description>
+			<title>空前の技術者不足、それでも転職しないのは臆病風に吹かれたか（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/051800139/</link>
+			<description><![CDATA[　今は空前の技術者不足で、技術系の転職サイトの求人倍率を見ても8倍前後の“高原状態”。まさに引く手あまたなのだが、どうもおかしい。これだけの売り手市場になるということは、単に技術者の絶対数の不足というだけではあるまい。多くの技術者が転職したがらないということではないのか。]]></description>
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -201,6 +201,24 @@
 			<pubDate>Mon, 22 May 2017 20:28:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>AIに製造物責任は問えない、だから議論が必要だ（AIと倫理）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800199/052200001/</link>
+			<description><![CDATA[　特集「AIと倫理」の第1回となる本記事では、会議の構成員としてガイドライン策定を推進する立場を代表して、情報通信事業のコンサルタントであるクロサカタツヤ氏に、開発者の批判を率直にぶつけた。]]></description>
+			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ThinkPad X1 Yogaの2017新モデルは微妙な進化ぶり（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/051900117/</link>
+			<description><![CDATA[　ようやくThinkPad X1 Yogaの2017年モデルが販売されるようだ。もうそろそろ2017年も半ば。2017年モデルを購入して半年ほどで2018年がやってくるのは、気分的には複雑だ。2017年モデルは、2018年になると古く感じるものだ。]]></description>
+			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>コネクテッドカー（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/050200071/</link>
+			<description><![CDATA[　常時通信によってネットワークと接続しながら新たな付加価値を生み出す次世代の自動車像。IoT（モノのインターネット）の普及により生まれた概念であり、自動車を1つの情報端末として捉えるのが特徴だ。]]></description>
+			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「ブロックチェーンよりMac対応を」、法人ネット口座の悲しい現実（編集長の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/052200034/</link>
 			<description><![CDATA[　筆者は3年前、ある理由で法人インターネット口座を開いたことがある。おののいた後、すぐに利用をやめた。そこに広がっていたのは、1990年代から時が止まったのではないかと思われる、利便性の極めて低いウェブサイトだった。]]></description>
@@ -213,9 +231,9 @@
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>AIに製造物責任は問えない、だから議論が必要だ（AIと倫理）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800199/052200001/</link>
-			<description><![CDATA[　特集「AIと倫理」の第1回となる本記事では、会議の構成員としてガイドライン策定を推進する立場を代表して、情報通信事業のコンサルタントであるクロサカタツヤ氏に、開発者の批判を率直にぶつけた。]]></description>
+			<title>会議室が取れない---社員のイライラをIoTで解消（IoTで快適オフィス）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051500190/051800002/</link>
+			<description><![CDATA[　会議室のリアルタイムの空き状況を、IoTの技術を使って見える化するサービスが登場している。多くの企業が抱える、慢性的な会議室不足という悩みに応える。複数の社員が部屋を出入りするため、人感センサーなどを使い使用中かどうかを判別する。]]></description>
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -273,24 +291,6 @@
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ThinkPad X1 Yogaの2017新モデルは微妙な進化ぶり（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/051900117/</link>
-			<description><![CDATA[　ようやくThinkPad X1 Yogaの2017年モデルが販売されるようだ。もうそろそろ2017年も半ば。2017年モデルを購入して半年ほどで2018年がやってくるのは、気分的には複雑だ。2017年モデルは、2018年になると古く感じるものだ。]]></description>
-			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>会議室が取れない---社員のイライラをIoTで解消（IoTで快適オフィス）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051500190/051800002/</link>
-			<description><![CDATA[　会議室のリアルタイムの空き状況を、IoTの技術を使って見える化するサービスが登場している。多くの企業が抱える、慢性的な会議室不足という悩みに応える。複数の社員が部屋を出入りするため、人感センサーなどを使い使用中かどうかを判別する。]]></description>
-			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>コネクテッドカー（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/050200071/</link>
-			<description><![CDATA[　常時通信によってネットワークと接続しながら新たな付加価値を生み出す次世代の自動車像。IoT（モノのインターネット）の普及により生まれた概念であり、自動車を1つの情報端末として捉えるのが特徴だ。]]></description>
-			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>SRE（Systems Reliability Engineer）の必要性（前）（SRE（Systems Reliability Engineer）の必要性）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/051600038/051600001/</link>
 			<description><![CDATA[<div>
@@ -320,6 +320,57 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 23 May 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>欧州委、Googleの独禁法違反について数カ月以内に最終判断か（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052301468/</link>
+			<description><![CDATA[　欧州委員会（EU）は長年にわたる米Googleの独占禁止法違反調査にいよいよ結論を出すようだと、英Reutersが現地時間2017年5月22日に報じた。Googleは莫大な制裁金の支払いを命じられる可能性がある。]]></description>
+			<pubDate>Tue, 23 May 2017 09:44:35 +0900</pubDate>
+		</item>
+		<item>
+			<title>ARとVRの普及はソーシャルメディアが支える、米社リポート（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052301469/</link>
+			<description><![CDATA[　米国の市場調査会社、eMarketerが現地時間2017年5月22日に公表したAR（拡張現実）とVR（仮想現実）の利用実態に関する調査によると、同年の米国におけるARの利用者数は4000万人となり、前年から30.2％増加する見通し。]]></description>
+			<pubDate>Tue, 23 May 2017 09:54:44 +0900</pubDate>
+		</item>
+		<item>
+			<title>WindowsストアのLinux、「Windows 10 S」では使えず（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/052300326/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　Microsoftの新OS「Windows 10 S」では、Windowsストアから入手可能なアプリのみが動作する。ということは、同ストアからアプリとしてダウンロード可能になるLinuxディストリビューションも動作しそうに思えるが、実はそうではない。
+</p>
+
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/052300326/windows-10-s-splash-100720578-large.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Microsoft</div>
+</div>
+
+<p>
+　Microsoftの上級プログラムマネージャー、Rich Turner氏が2017年5月18日の<a href="https://blogs.msdn.microsoft.com/commandline/2017/05/18/will-linux-distros-run-on-windows-10-s/" target="_blank">公式ブログ記事</a>で行った説明によると、Windows 10 Sの安全な環境の外部で動作する「コマンドライン」アプリケーションについては、同社は意図的にブロックしている。
+</p>
+<p>
+　Microsoftの説明では、Windows 10 Sは、教育現場の生徒や、さらには一般ユーザーも含めて、Windows 10を利用する際のセキュリティをある程度強化する手段として開発された。Windows 10 Sでは、Microsoftの審査を経てストアで公開されているアプリのみが動く。発表の時点でMicrosoftは明言していなかったものの、こうしたアプリのうち、パソコンの低レベルの部分で動作するものは該当しない。例えば、デバッガー、ハードウエアへの明示的な書き込みを行うアプリケーション、システムレジストリーの改変を行うアプリケーションなどは含まれない。
+</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/052300326/?ST=cio-appli&P=2">だが、Linuxは低レベルで動作する。Windo...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/052300326/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/052300326/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/052300326/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 23 May 2017 10:24:07 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
