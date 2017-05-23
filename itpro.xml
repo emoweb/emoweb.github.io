@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>ビジネスチャットは本当に有効か（松田次博 間違いだらけのネットワーク作り）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/230970/051500040/</link>
+			<description><![CDATA[　最近、「ビジネスチャット」という言葉をよく目にするようになった。LINEのようなチャットツールを企業でも活用して、コミュニケーションの活性化や情報共有による生産性向上を狙おうと言うのだ。ビジネスチャットは本当に有効なのだろうか。]]></description>
+			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>格安SIMの体感速度を上げるLinuxサーバー、Ziproxyで画像スリム化（格安SIMをOSSで快適にするワザ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600192/051600001/</link>
 			<description><![CDATA[　格安SIMを快適化するLinuxサーバーを構築します。今回は、Webサーバーからダウンロードする画像ファイルのサイズを削減できるZiproxyで、通信量を減らして体感速度を向上させます。]]></description>
@@ -53,24 +59,6 @@
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「最初は怖かったクラウド勉強会」、世界のAWSヒロインが明かす（クラウド女子）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600193/051800001/</link>
-			<description><![CDATA[　コミュニティ活動を牽引する人材として米AWSが認定する「AWSコミュニティヒーロー」。そのうちの一人が、2016年11月に認定された本田技研工業の多田歩美さん。HPC（高性能計算）分野でのAWS活用を、国内企業の先陣を切って推進してきた。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ビジネスチャットは本当に有効か（松田次博 間違いだらけのネットワーク作り）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/230970/051500040/</link>
-			<description><![CDATA[　最近、「ビジネスチャット」という言葉をよく目にするようになった。LINEのようなチャットツールを企業でも活用して、コミュニケーションの活性化や情報共有による生産性向上を狙おうと言うのだ。ビジネスチャットは本当に有効なのだろうか。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>空前の技術者不足、それでも転職しないのは臆病風に吹かれたか（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/051800139/</link>
-			<description><![CDATA[　今は空前の技術者不足で、技術系の転職サイトの求人倍率を見ても8倍前後の“高原状態”。まさに引く手あまたなのだが、どうもおかしい。これだけの売り手市場になるということは、単に技術者の絶対数の不足というだけではあるまい。多くの技術者が転職したがらないということではないのか。]]></description>
-			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>「WannaCry」が悪用したというNSA製のバックドアツールを試した（ITpro Report）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/051900247/</link>
 			<description><![CDATA[　ランサムウエアWannaCryでは、バックドアを仕込むツールが利用されたとされている。そこで、「EternalBlue」や「DoublePulsar」の名前で報じられる機会が増えているバックドアツールを実際に試してみた結果をレポートする。]]></description>
@@ -80,6 +68,18 @@
 			<title>データ分析力を高めたい？データそのものに興味を持とう（若手情シスSEに送る幸せのヒント）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/051800006/</link>
 			<description><![CDATA[　情報システム部門はこれまでも様々な切り口でデータを抽出したり集計したりしていると思いますが、増え続けるデータ量に対してまだ活用する余地が大いに残っているはずです。データを“使いこなす”には分析力が必要なことは言うまでもありません。]]></description>
+			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>空前の技術者不足、それでも転職しないのは臆病風に吹かれたか（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/051800139/</link>
+			<description><![CDATA[　今は空前の技術者不足で、技術系の転職サイトの求人倍率を見ても8倍前後の“高原状態”。まさに引く手あまたなのだが、どうもおかしい。これだけの売り手市場になるということは、単に技術者の絶対数の不足というだけではあるまい。多くの技術者が転職したがらないということではないのか。]]></description>
+			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「最初は怖かったクラウド勉強会」、世界のAWSヒロインが明かす（クラウド女子）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600193/051800001/</link>
+			<description><![CDATA[　コミュニティ活動を牽引する人材として米AWSが認定する「AWSコミュニティヒーロー」。そのうちの一人が、2016年11月に認定された本田技研工業の多田歩美さん。HPC（高性能計算）分野でのAWS活用を、国内企業の先陣を切って推進してきた。]]></description>
 			<pubDate>Mon, 22 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -201,6 +201,12 @@
 			<pubDate>Mon, 22 May 2017 20:28:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>Struts2脆弱性事故のGMO-PGを直撃、事故報告書の疑問に答える（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052200980/</link>
+			<description><![CDATA[　東京都と住宅金融支援機構は3月、それぞれのクレジットカード払いサイトにあったStruts2の脆弱性を突かれ、合計40万超のカード情報を流出させた。両サイトを開発・運用していた決済代行事業者大手のGMOペイメントゲートウェイは5月1日、事故調査報告書を公開し、このほど対面取材に応じた。]]></description>
+			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>2年で“クラウド部長”になったNTTデータ女性社員（クラウド女子）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600193/051900003/</link>
 			<description><![CDATA[　ぶちょー（部長）――。NTTデータの安東沙織さんは、周囲から親しみを込めてこう呼ばれる。といっても、会社での肩書きではない。部長とは、米マイクロソフトのパブリッククラウドサービスAzureのユーザーコミュニティーJapan Azure User Group（JAZUG）女子部での役職だ。]]></description>
@@ -231,9 +237,9 @@
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Struts2脆弱性事故のGMO-PGを直撃、事故報告書の疑問に答える（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052200980/</link>
-			<description><![CDATA[　東京都と住宅金融支援機構は3月、それぞれのクレジットカード払いサイトにあったStruts2の脆弱性を突かれ、合計40万超のカード情報を流出させた。両サイトを開発・運用していた決済代行事業者大手のGMOペイメントゲートウェイは5月1日、事故調査報告書を公開し、このほど対面取材に応じた。]]></description>
+			<title>日立、業績成長に期待できるが「Lumadaが物足りない」（2016年度決算、辛口通信簿）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900201/052200004/</link>
+			<description><![CDATA[　日立製作所の2017年3月期通期決算は、事業再編で連結業績から外れた子会社の業績や為替変動の影響で減収減益だった。売上高は前年同期比8.7％減の9兆1622億円、営業利益は同7.5％減の5873億円だった。課題が残るが悪くなかった――。アナリストの評価はまずまずだ。]]></description>
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -243,15 +249,15 @@
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>業務効率化が進まない？例えば交通費精算を無くしてみよう（若手情シスSEに送る幸せのヒント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/052100007/</link>
-			<description><![CDATA[　ITで企業の業績を拡大させるミッションを持つ情報システム部門には、業務効率化の観点が欠かせません。業務効率化では一般に、「間接業務を大幅に削減して直接業務（本来業務）の比率をアップさせよう！」といったキャッチフレーズを掲げてプロジェクトを進めます。]]></description>
+			<title>重いサイトはブロック、格安SIMへの負担をPrivoxyで軽減（格安SIMをOSSで快適にするワザ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600192/052100002/</link>
+			<description><![CDATA[　格安SIMの通信料を減らすには、自分にとって優先度の低い情報をなるべくダウンロードさせない仕組みが有効です。プライバシー保護が得意なプロキシーサーバー「Privoxy」で、不要なデータをフィルタリングするLinuxサーバーを構築してみましょう。]]></description>
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>日立、業績成長に期待できるが「Lumadaが物足りない」（2016年度決算、辛口通信簿）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900201/052200004/</link>
-			<description><![CDATA[　日立製作所の2017年3月期通期決算は、事業再編で連結業績から外れた子会社の業績や為替変動の影響で減収減益だった。売上高は前年同期比8.7％減の9兆1622億円、営業利益は同7.5％減の5873億円だった。課題が残るが悪くなかった――。アナリストの評価はまずまずだ。]]></description>
+			<title>技適マークがないと、どうして電波を出しちゃダメなの？（すっきりわかる「技適」問題）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800198/051800001/</link>
+			<description><![CDATA[　通信機器に付いている技適マーク。これなければ原則、国内で電波を出すことさえ許されない。その理由を知っておこう。]]></description>
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -279,15 +285,9 @@
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>重いサイトはブロック、格安SIMへの負担をPrivoxyで軽減（格安SIMをOSSで快適にするワザ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600192/052100002/</link>
-			<description><![CDATA[　格安SIMの通信料を減らすには、自分にとって優先度の低い情報をなるべくダウンロードさせない仕組みが有効です。プライバシー保護が得意なプロキシーサーバー「Privoxy」で、不要なデータをフィルタリングするLinuxサーバーを構築してみましょう。]]></description>
-			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>技適マークがないと、どうして電波を出しちゃダメなの？（すっきりわかる「技適」問題）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800198/051800001/</link>
-			<description><![CDATA[　通信機器に付いている技適マーク。これなければ原則、国内で電波を出すことさえ許されない。その理由を知っておこう。]]></description>
+			<title>業務効率化が進まない？例えば交通費精算を無くしてみよう（若手情シスSEに送る幸せのヒント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/052100007/</link>
+			<description><![CDATA[　ITで企業の業績を拡大させるミッションを持つ情報システム部門には、業務効率化の観点が欠かせません。業務効率化では一般に、「間接業務を大幅に削減して直接業務（本来業務）の比率をアップさせよう！」といったキャッチフレーズを掲げてプロジェクトを進めます。]]></description>
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -371,6 +371,12 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 23 May 2017 10:24:07 +0900</pubDate>
+		</item>
+		<item>
+			<title>日立がメインフレームのハード製造を中止、AP8800Eの後継はIBM機ベース（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052301471/</link>
+			<description><![CDATA[　日立製作所と日本IBMは2017年5月23日、日立製メインフレーム「AP8800E」の後継機のハードウエアにIBM製メインフレーム「z Systems」を採用すると発表した。OSは日立製「VOS3」で機種名は未定。後継機を2018年度中に販売、2年程度はAP8800Eの製造と併売を継続する。]]></description>
+			<pubDate>Tue, 23 May 2017 13:49:36 +0900</pubDate>
 		</item>
 		<item>
 			<title>クラウド移行時の追加費用ゼロ、日本テラデータが新ソフトライセンス（ニュース）</title>
