@@ -5,36 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    複数インスタンスに対応したマストドン用WebクライアントをUEIとglucoseで作ってみた : 情熱のミーム　清水亮
-</title>
-			<link>http://japanese.engadget.com/2017/05/22/web-uei-glucose/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/4b979d829975fac0a31b254c2d66d97b/205275406/%3F%3F%3F%3F%3F%3F%3F%3F%3F+2017-05-17+11.31.13.png" />
-
-諸君はマストドンをやっているだろうか。
-この一ヶ月で世界的ブームとなったマストドンだが、一つだけ致命的に使いにくい問題がある。それはタイムラインだ。
-
-
-まず、マストドンのデフォルトのクライアントはそれなりに良く出来ている。それなりに良く出来てはいるのだが、いかんせん不自由すぎる。
-
-
-また、ダイレクトメッセージをもらっても通知欄で埋もれてしまう
-
-
-
-一番面倒なのは、ダイレクトメッセージとリプライが同じ人物から同時に来た場合だ(そういうケースはたまにある)。こうなるともうパズルである。
-
-そういうことにならないように、複数のインスタンスのローカルタイムラインを並べたり、全部つなげて一本のタイムラインにしたり、ダイレクトメッセージを個別に見れたりするためのユーザーインタフェースをglucoseと共同開発した。その名もNaumanni(ナウマン)。もちろんナウマン象からきている。
-
-
-
-すでに&alpha;版を公開しているので試してみてほしい。
-
-http://naumanni.com
- 
- ]]></description>
-			<pubDate>Mon, 22 May 2017 16:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    NVIDIA広報「釣りタイトルだけど...」 日経ビジネスに&amp;quot;謎の半導体メーカー&amp;quot;と扱われた件でコメント
 </title>
 			<link>http://japanese.engadget.com/2017/05/22/nvidia/</link>
@@ -542,20 +512,6 @@ Premium 4Gの受信最大速度は788Mbps、送信最大速度は50Mbps。バッ
 			<pubDate>Wed, 24 May 2017 11:30:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>    片手操作も余裕な4.7型スマホ、Galaxy Feelをドコモが発表。小型ながら3000mAhの大容量バッテリー
-</title>
-			<link>http://japanese.engadget.com/2017/05/23/4-7-galaxy-feel-3000mah/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/b831beadcba776c13b3324179b37c9b9/205302199/SC04J_01_s.jpg" />
-
-
-NTTドコモの2017年夏モデルの中でも、隠れた注目モデルと呼べそうな機種が、Galaxyのミドルレンジモデル『Galaxy Feel』（SC-04J）です。
-昨今では珍しくなりつつある4.7インチ画面をベースにしたコンパクトなモデル。片手でもしっかりと操作ができる点などを売りにします。
-
-発売予定は6月中旬。カラーリングはオパールピンクとムーンホワイト、インディゴブラックの3色展開です。
- ]]></description>
-			<pubDate>Wed, 24 May 2017 11:35:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    ドコモ版Xperia XZsは5月26日発売、画素数を追わない新カメラの魅力
 </title>
 			<link>http://japanese.engadget.com/2017/05/23/xperia-xzs-5-26-960fps/</link>
@@ -582,6 +538,20 @@ Premium 4Gの受信最大速度は500Mbps、上りは50Mbpsです。
 
 製品の詳細はこちらの記事もご覧ください
 触ってわかる優等生の魅力 -- ソニー最新スマホ「Xperia XZs」国内版レビュー
+ ]]></description>
+			<pubDate>Wed, 24 May 2017 11:35:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    片手操作も余裕な4.7型スマホ、Galaxy Feelをドコモが発表。小型ながら3000mAhの大容量バッテリー
+</title>
+			<link>http://japanese.engadget.com/2017/05/23/4-7-galaxy-feel-3000mah/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/b831beadcba776c13b3324179b37c9b9/205302199/SC04J_01_s.jpg" />
+
+
+NTTドコモの2017年夏モデルの中でも、隠れた注目モデルと呼べそうな機種が、Galaxyのミドルレンジモデル『Galaxy Feel』（SC-04J）です。
+昨今では珍しくなりつつある4.7インチ画面をベースにしたコンパクトなモデル。片手でもしっかりと操作ができる点などを売りにします。
+
+発売予定は6月中旬。カラーリングはオパールピンクとムーンホワイト、インディゴブラックの3色展開です。
  ]]></description>
 			<pubDate>Wed, 24 May 2017 11:35:00 +0900</pubDate>
 		</item>
@@ -650,6 +620,39 @@ Jamboard間の同期もできます
 Googleのクラウドアプリをガッツリ使っている企業や職場ならば、Jamboardを導入することでさらに業務を加速させられそう、一方、外回りが主体の営業職などには、移動中などの一息つきたい時間にも容赦なく会議への参加要請が飛んでくることになりそうです。
  ]]></description>
 			<pubDate>Wed, 24 May 2017 13:56:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    クリエイター向け一体型PC｢Surface Studio｣､6月15日に国内発売。英Microsoftが発売日告知
+</title>
+			<link>http://japanese.engadget.com/2017/05/24/pc-surface-studio-6-15-microsoft/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/2db01f8909a669817f3d1e82eb0a9083/205302437/ss.jpg" />
+
+昨年10月に発表され、12月に米国で発売となったSurface Studioの日本国内発売は、6月15日になるようです。
+
+速報：新型Surfaceは「Surface Studio」、タッチ＆ペン対応28型オールインワン。新入力デバイスSurfaceダイヤル対応
+
+日本Microsoftからの公式リリースは出ていないものの、英Microsoftが英国でのリリースを6月15日になると掲載。その中で、他にもオーストリア、フランス、ドイツ、オランダ、北欧、スイス、中国、香港、日本で6月15日に発売予定と伝えています。
+
+From June 15, it will be released in the UK, Austria, France, Germany, Netherlands, Nordics, Switzerland, China, Hong Kong and Japan.
+
+Surface Studioは28インチ4500 x 3000ピクセルのタッチ＆ペン対応のディスプレイを搭載したオールインワン・デスクトップPC。iMacのようなオールインワンPCとしてだけでなく、ディスプレイを20度まで倒すことが可能。Surface Penや、直接画面に乗せて使用するSurface Dialにも対応します。
+
+
+
+発表直後から日本国内での発売も示唆されていましたが、これまで具体的な日付は出ていませんでした。
+
+Surface Studioの国内発売は「準備中」─日本MSが明かす
+
+日本Microsoftは5月26日に「Microsoft Japan Surface Even」を開催します。Surface Studio国内発売の詳細は、その場で発表されるものと考えられます。また、昨日発表になったSurface Proの国内発売についても期待されるところです。
+LTE通信搭載可能な新Surface Pro発表、米国価格は799ドルから。バッテリー駆動はPro 4比で1.5倍に
+
+関連：
+
+Surface Studioは「液タブ」代替になるか？ ペンタブ歴20年のライターが斬る！（新Surface感想戦）
+
+Adobe MAX 2016：Surface StudioとSurface Dialのコンビはくるくる快適な操作感(笠原一輝)
+ ]]></description>
+			<pubDate>Wed, 24 May 2017 14:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
