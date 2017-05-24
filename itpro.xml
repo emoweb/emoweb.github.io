@@ -5,43 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>WindowsストアのLinux、「Windows 10 S」では使えず（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/052300326/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　Microsoftの新OS「Windows 10 S」では、Windowsストアから入手可能なアプリのみが動作する。ということは、同ストアからアプリとしてダウンロード可能になるLinuxディストリビューションも動作しそうに思えるが、実はそうではない。
-</p>
-
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/052300326/windows-10-s-splash-100720578-large.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Microsoft</div>
-</div>
-
-<p>
-　Microsoftの上級プログラムマネージャー、Rich Turner氏が2017年5月18日の<a href="https://blogs.msdn.microsoft.com/commandline/2017/05/18/will-linux-distros-run-on-windows-10-s/" target="_blank">公式ブログ記事</a>で行った説明によると、Windows 10 Sの安全な環境の外部で動作する「コマンドライン」アプリケーションについては、同社は意図的にブロックしている。
-</p>
-<p>
-　Microsoftの説明では、Windows 10 Sは、教育現場の生徒や、さらには一般ユーザーも含めて、Windows 10を利用する際のセキュリティをある程度強化する手段として開発された。Windows 10 Sでは、Microsoftの審査を経てストアで公開されているアプリのみが動く。発表の時点でMicrosoftは明言していなかったものの、こうしたアプリのうち、パソコンの低レベルの部分で動作するものは該当しない。例えば、デバッガー、ハードウエアへの明示的な書き込みを行うアプリケーション、システムレジストリーの改変を行うアプリケーションなどは含まれない。
-</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/052300326/?ST=cio-appli&P=2">だが、Linuxは低レベルで動作する。Windo...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/052300326/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/052300326/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/052300326/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 23 May 2017 10:24:07 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：Struts2脆弱性事故のGMO-PGを直撃、事故報告書の疑問に答える（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052200980/?d24</link>
+			<description><![CDATA[　東京都と住宅金融支援機構は3月、それぞれのクレジットカード払いサイトにあったStruts2の脆弱性を突かれ、合計40万超のカード情報を流出させた。両サイトを開発・運用していた決済代行事業者大手のGMOペイメントゲートウェイは5月1日、事故調査報告書を公開し、このほど対面取材に応じた。]]></description>
+			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>日立がメインフレームのハード製造を中止、AP8800Eの後継はIBM機ベース（ニュース）</title>
@@ -104,15 +71,21 @@
 			<pubDate>Tue, 23 May 2017 19:49:50 +0900</pubDate>
 		</item>
 		<item>
+			<title>AIを「汎用AI」と「専用AI」に分けるのは間違いだ（AIと倫理）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800199/052200003/</link>
+			<description><![CDATA[　特集「AIと倫理」第2回は、AIの開発ガイドラインや倫理規範を議論するうえで、そもそもAIという言葉をどう捉えればよいか、日立製作所のAI研究を率いる矢野氏の見解を紹介する。]]></description>
+			<pubDate>Wed, 24 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ソネット、ビッグローブ、ニフティ──ネット黎明期の主役がたどった曲折（プロバイダー大手の新たな旅立ち）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200204/052300001/</link>
 			<description><![CDATA[　ソニーモバイルコミュニケーションズの完全子会社となったソニーネットワークコミュニケーションズ（SNC、旧ソネット）、KDDIが買収したビッグローブ、家電量販店のノジマの傘下に入ったニフティ──。日本のインターネット黎明期を支えてきた立役者が、新たな親会社の下で再出発することになった曲折の経緯を振り返る。]]></description>
 			<pubDate>Wed, 24 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>AIを「汎用AI」と「専用AI」に分けるのは間違いだ（AIと倫理）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800199/052200003/</link>
-			<description><![CDATA[　特集「AIと倫理」第2回は、AIの開発ガイドラインや倫理規範を議論するうえで、そもそもAIという言葉をどう捉えればよいか、日立製作所のAI研究を率いる矢野氏の見解を紹介する。]]></description>
+			<title>怪しいサイトから格安SIMを守れ！squidGuardでフィルタリング（格安SIMをOSSで快適にするワザ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600192/052200003/</link>
+			<description><![CDATA[　格安SIMのサービス内容はシンプルです。携帯電話事業者なら当たり前のフィルタリング機能はほぼ提供されていません。そこで不適切なサイトをブロックするフィルタリングサーバーをLinuxで構築します。]]></description>
 			<pubDate>Wed, 24 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -122,15 +95,15 @@
 			<pubDate>Wed, 24 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>三菱ケミカルがデジタル変革の独自方法論、CDOは元IBM岩野和生氏（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051700976/</link>
-			<description><![CDATA[　「三菱ケミカルホールディングスをデジタル先進企業に変える。伝統的な大企業がデジタル化を果たした国内のモデルケースになってみせる」。2017年4月に三菱ケミカルホールディングス初のCDO（最高デジタル責任者）に就任した岩野和生氏はこう意気込む。]]></description>
+			<title>苦戦するドローンメーカー、3D Roboticsが路線転換（瀧口範子のシリコンバレー通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/052300100/</link>
+			<description><![CDATA[　「ピボット（Pivot）」は、よく知られたスタートアップ用語だ。当初計画していたビジネスモデルやテクノロジーがうまくいかないと判断したら、強みを残して方向転換を図るという意味である。現在必死にそのピボット中なのが、ドローン開発会社の米3D Roboticsだ。]]></description>
 			<pubDate>Wed, 24 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>怪しいサイトから格安SIMを守れ！squidGuardでフィルタリング（格安SIMをOSSで快適にするワザ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600192/052200003/</link>
-			<description><![CDATA[　格安SIMのサービス内容はシンプルです。携帯電話事業者なら当たり前のフィルタリング機能はほぼ提供されていません。そこで不適切なサイトをブロックするフィルタリングサーバーをLinuxで構築します。]]></description>
+			<title>海外で販売されるiPhoneを日本で使っていい理由（すっきりわかる「技適問題」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800198/051800002/</link>
+			<description><![CDATA[　技適マークは、スマホなどの無線機器本体に印刷されていたり、シールで貼られたりしている。ところが最近、こういった技適マークの表示がない端末が増えている。どうしてだろう。]]></description>
 			<pubDate>Wed, 24 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -188,15 +161,9 @@
 			<pubDate>Wed, 24 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>苦戦するドローンメーカー、3D Roboticsが路線転換（瀧口範子のシリコンバレー通信）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/052300100/</link>
-			<description><![CDATA[　「ピボット（Pivot）」は、よく知られたスタートアップ用語だ。当初計画していたビジネスモデルやテクノロジーがうまくいかないと判断したら、強みを残して方向転換を図るという意味である。現在必死にそのピボット中なのが、ドローン開発会社の米3D Roboticsだ。]]></description>
-			<pubDate>Wed, 24 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>海外で販売されるiPhoneを日本で使っていい理由（すっきりわかる「技適問題」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800198/051800002/</link>
-			<description><![CDATA[　技適マークは、スマホなどの無線機器本体に印刷されていたり、シールで貼られたりしている。ところが最近、こういった技適マークの表示がない端末が増えている。どうしてだろう。]]></description>
+			<title>三菱ケミカルがデジタル変革の独自方法論、CDOは元IBM岩野和生氏（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051700976/</link>
+			<description><![CDATA[　「三菱ケミカルホールディングスをデジタル先進企業に変える。伝統的な大企業がデジタル化を果たした国内のモデルケースになってみせる」。2017年4月に三菱ケミカルホールディングス初のCDO（最高デジタル責任者）に就任した岩野和生氏はこう意気込む。]]></description>
 			<pubDate>Wed, 24 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -281,6 +248,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052401483/</link>
 			<description><![CDATA[　フジテレビジョンは2017年5月24日、ニュースメディア「ホウドウキョク」のスマートフォン向けアプリの提供を同日に開始したと発表した。]]></description>
 			<pubDate>Wed, 24 May 2017 11:54:25 +0900</pubDate>
+		</item>
+		<item>
+			<title> NTT東日本、Wi-Fiを利用して農業・畜産の生産性向上などを図るIoTトライアル（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052401484/</link>
+			<description><![CDATA[　NTT東日本は、Wi-Fiを利用した農業・畜産IoTのトライアルを2017年5月23日に2件発表した。]]></description>
+			<pubDate>Wed, 24 May 2017 16:53:38 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
