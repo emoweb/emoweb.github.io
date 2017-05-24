@@ -5,38 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    身代金を払わないWannaCry解除ツール WannaKiwi 公開。XP～7対応､使用条件｢感染後再起動していないこと｣
-</title>
-			<link>http://japanese.engadget.com/2017/05/21/wannacry-wannakiwi-xp-7/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/d6a07e5cac5b350928283fb3f140ad9/205293019/main.jpg" />
-　
-フランスのセキュリティ研究者Benjamin Delpyが、猛威を奮ったランサムウェア(身代金要求マルウェア)WannaCryによってロックされてしまったWindowsのファイルを復旧できる方法を発見、公開しました。ただし、復旧のためには感染後一度もWindowsを再起動していないこと、またWannaCryの要求する身代金支払い期限(感染から1週間以内)が過ぎていないことが条件となります。
-
-対象になるのはWannaCryに感染したWindows XP～Windows 7。修正ツールはDelpyの手による"wannakiwi"と呼ばれるプログラムで、GitHubで公開されています。wannakiwiコンピューターのメモリー上から暗号化に使われる素数(Prime Numbers)を列挙して、復号用のキーを生成します(メモリー上にある素数は当然、再起動するとクリアされてしまいます)。
-
-なお、この手法はWindows XPのロック解除のためにAdrien Guinetが開発した"Wannakey"ツールの手法に基づくとのこと。
-
-WannaCryの感染拡大が始まってからすでに1週間以上が経過したため、初期に感染したコンピューターではすでに期限が経過してしまっています。それでも、その後になって感染したコンピューターについてはまだ間に合う可能性もあるはずです。
-
-また会社などでコンピューターを管理する立場にいる人、感染の可能性があるコンピューターを使っている人などは、言うまでもなくこうした情報を知っておくことが重要です。マルウェアはパッチで穴を塞がれれば、また別の穴を狙うような改変を受けたものが現れることが多いため、まだしばらくは警戒が必要です。
-
-WannaCryは5月12日以降、150か国以上、30万台以上のコンピューターに感染を拡大しました。その後感染コンピューターのほとんどがWindows 7だとする情報も流れたりしているものの、稼働するコンピューターの絶対数を考えればそれは当たり前のこと。感染の可能性があるのなら、7だろうがXPだろうが等しく対策すべきなのは言うまでもありません。
- ]]></description>
-			<pubDate>Mon, 22 May 2017 12:15:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>    あなたの本名バレてますよ！　AirDropで第三者に本名を知られない方法:iPhone Tips
-</title>
-			<link>http://japanese.engadget.com/2017/05/22/airdrop-iphone-tips/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/4c449ad1a372607512feca4612799e8c/205246946/main.jpg" />
-iPhone同士で画像やデータを共有できる「AirDrop」。コントロールセンターから「AirDrop」をオンにするだけでデータをやり取りできる手軽さから、活用している方も多いと思います。しかし、AirDropをオンにしていると、見ず知らずのユーザーに自分の本名がバレてしまうかもしれないってご存知でしたか？
-
-ここでは、iPhoneの名前にニックネームを登録することで、自分の名前をほかのユーザーに知られないようにする方法を紹介します。
-<p><a href="http://japanese.engadget.com/gallery/iphone-27/" title="iPhoneの名前を“本名以外”に設定する方法">【ギャラリー】iPhoneの名前を“本名以外”に設定する方法 (5枚)</a></p>
- ]]></description>
-			<pubDate>Mon, 22 May 2017 14:45:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    複数インスタンスに対応したマストドン用WebクライアントをUEIとglucoseで作ってみた : 情熱のミーム　清水亮
 </title>
 			<link>http://japanese.engadget.com/2017/05/22/web-uei-glucose/</link>
@@ -574,6 +542,20 @@ Premium 4Gの受信最大速度は788Mbps、送信最大速度は50Mbps。バッ
 			<pubDate>Wed, 24 May 2017 11:30:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>    片手操作も余裕な4.7型スマホ、Galaxy Feelをドコモが発表。小型ながら3000mAhの大容量バッテリー
+</title>
+			<link>http://japanese.engadget.com/2017/05/23/4-7-galaxy-feel-3000mah/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/b831beadcba776c13b3324179b37c9b9/205302199/SC04J_01_s.jpg" />
+
+
+NTTドコモの2017年夏モデルの中でも、隠れた注目モデルと呼べそうな機種が、Galaxyのミドルレンジモデル『Galaxy Feel』（SC-04J）です。
+昨今では珍しくなりつつある4.7インチ画面をベースにしたコンパクトなモデル。片手でもしっかりと操作ができる点などを売りにします。
+
+発売予定は6月中旬。カラーリングはオパールピンクとムーンホワイト、インディゴブラックの3色展開です。
+ ]]></description>
+			<pubDate>Wed, 24 May 2017 11:35:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>    ドコモ版Xperia XZsは5月26日発売、画素数を追わない新カメラの魅力
 </title>
 			<link>http://japanese.engadget.com/2017/05/23/xperia-xzs-5-26-960fps/</link>
@@ -604,20 +586,6 @@ Premium 4Gの受信最大速度は500Mbps、上りは50Mbpsです。
 			<pubDate>Wed, 24 May 2017 11:35:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>    片手操作も余裕な4.7型スマホ、Galaxy Feelをドコモが発表。小型ながら3000mAhの大容量バッテリー
-</title>
-			<link>http://japanese.engadget.com/2017/05/23/4-7-galaxy-feel-3000mah/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/b831beadcba776c13b3324179b37c9b9/205302199/SC04J_01_s.jpg" />
-
-
-NTTドコモの2017年夏モデルの中でも、隠れた注目モデルと呼べそうな機種が、Galaxyのミドルレンジモデル『Galaxy Feel』（SC-04J）です。
-昨今では珍しくなりつつある4.7インチ画面をベースにしたコンパクトなモデル。片手でもしっかりと操作ができる点などを売りにします。
-
-発売予定は6月中旬。カラーリングはオパールピンクとムーンホワイト、インディゴブラックの3色展開です。
- ]]></description>
-			<pubDate>Wed, 24 May 2017 11:35:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    念願のCNCフライスをついに注文……ただし、激安の中華CNCだがな
 </title>
 			<link>http://japanese.engadget.com/2017/05/23/cnc-cnc/</link>
@@ -644,6 +612,44 @@ docomo withが利用できるのは、中価格帯の「arrows Be」（一括税
 同プランは、arrows Be発売日の6月1日より申込受付を開始。加えて、2017年7月31日（月曜）までに「docomo with」を契約したユーザーを対象に抽選でdポイントが最大77,777ポイント当たる、「docomo withスタートキャンペーン」も実施します。
  ]]></description>
 			<pubDate>Wed, 24 May 2017 12:45:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    dtab＝廉価版イメージを破る高性能、8.4型2K画面の新dtab Compactをドコモが発表
+</title>
+			<link>http://japanese.engadget.com/2017/05/24/dtab-8-4-2k-dtab-compact/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/f1f21841f1762daf11ec12ec393ca308/205302382/main.jpg" />
+
+NTTドコモ2017年夏モデルのタブレット枠となるのが、ファーウェイ製の8.4インチAndroidタブレット『dtab Compact』（d-01J）です。発売日は5月25日、新規一括購入時の価格は4万5360円（税込)。端末購入サポートとして3万4992円の割引が入り、実質負担は1万368円となります。
+
+特徴は、これまでの廉価版タブレット的なdtabのイメージをいい意味で破る、基本仕様の高さ。画面解像度は2KことWQXGA（横長時2560&times;1600、アスペクト比16:10）で、SoCにはHiSiliconのKirin 950を搭載するなど、ファーウェイ『MediaPad M3』の兄弟モデル機的な仕様です。
+ ]]></description>
+			<pubDate>Wed, 24 May 2017 13:05:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    PCやスマホで書き込めるデジタル白板Google Jamboard､4999ドルで販売開始。遠隔から会議参加も可能
+</title>
+			<link>http://japanese.engadget.com/2017/05/24/pc-google-jamboard-4999/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/e3e0061f7478ef62f93b8732e2116a10/205302271/mainjabboard.jpg" />
+　
+Googleが、55インチ4Kディスプレイを備える会議用ホワイトボード、Jamboardの販売を開始しました。価格は4999ドル(約55万円)で、先に発売されたマイクロソフトの同種製品Surface Hub(55型)が8999ドル(約101万円)であることを考えると破格の安さです。
+
+数人が集まってあれこれ交わした議論を書き残すホワイトボードは、現在も多くの企業でバリバリ現役のアナログツール。なかには書かれた内容をスキャンしてプリントアウトできる製品があったり、普通のホワイトボードの隅に取り付けて、会議内容を画像ファイルとして出力できるアタッチメントなども製品化されています。
+
+一方、Jamboardの見た目はホワイトボードと言うよりは55型のタッチパネル搭載液晶ディスプレイ。しかしスタンドにはデジタルペンとイレーザーが置けるようになっています。
+
+
+JamboardはGoogleのビジネス向けクラウドグループウェアG Suiteの利用が前提となっており、このサービスを通じてJamboardの画面とPC、タブレットやスマートフォンの画面を同期して書き込んだり消したりできます。もちろん書き込んだ内容は保存可能で、いったん別の会議にその場を譲ったあとに、もとの議事内容を呼び出して議論を続けることも可能。
+
+タブレットやスマートフォンからも会議に参加できるということは、メンバー全員が会議室に揃う必要はなく、たとえば外出先から会議の経過をフォローしつつ、Jamboardに書き込むといった参加のしかたも可能。Googleのアプリに対応するファイルを呼び出すこともできます。
+
+
+Jamboard間の同期もできます
+
+注意点は、年額600ドルの管理費用がかかること。ただ、それでもSurface Hubに比べれば安いものかもしれません。
+
+Googleのクラウドアプリをガッツリ使っている企業や職場ならば、Jamboardを導入することでさらに業務を加速させられそう、一方、外回りが主体の営業職などには、移動中などの一息つきたい時間にも容赦なく会議への参加要請が飛んでくることになりそうです。
+ ]]></description>
+			<pubDate>Wed, 24 May 2017 13:56:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
