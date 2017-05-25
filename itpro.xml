@@ -11,18 +11,6 @@
 			<pubDate>Tue, 23 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>フジテレビが「ホウドウキョク」のスマホアプリの提供開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052401483/</link>
-			<description><![CDATA[　フジテレビジョンは2017年5月24日、ニュースメディア「ホウドウキョク」のスマートフォン向けアプリの提供を同日に開始したと発表した。]]></description>
-			<pubDate>Wed, 24 May 2017 11:54:25 +0900</pubDate>
-		</item>
-		<item>
-			<title> NTT東日本、Wi-Fiを利用して農業・畜産の生産性向上などを図るIoTトライアル（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052401484/</link>
-			<description><![CDATA[　NTT東日本は、Wi-Fiを利用した農業・畜産IoTのトライアルを2017年5月23日に2件発表した。]]></description>
-			<pubDate>Wed, 24 May 2017 16:53:38 +0900</pubDate>
-		</item>
-		<item>
 			<title>バッファロー、気象・航空レーダーの影響を受けない無線LANアクセスポイント（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052401485/</link>
 			<description><![CDATA[　バッファローは2017年5月24日、「DFS障害回避機能」や「干渉波自動回避機能」を搭載したIEEE802.11ac対応の法人向け無線LANアクセスポイント「WAPM-1266R」を7月中旬から順次販売開始すると発表した。]]></description>
@@ -53,6 +41,18 @@
 			<pubDate>Wed, 24 May 2017 21:55:44 +0900</pubDate>
 		</item>
 		<item>
+			<title>「Format-」コマンドで実行結果の出力を整形する（安納順一のPowerShell Tips）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800005/</link>
+			<description><![CDATA[　コマンドの出力は、そのままだと見にくかったり、必要な情報が含まれていなかったりする。そうした場合に必要な、出力を整形するテクニックを紹介しよう。]]></description>
+			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AI開発に法規制は不要、「ソフトロー」で統制すべきだ（AIと倫理）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800199/052400006/</link>
+			<description><![CDATA[　慶応義塾大学 法学部の大屋雄裕教授に、AI開発ガイドライン策定の狙いと、法哲学の視点から見た「AIと倫理」を巡る論点を聞いた。]]></description>
+			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ソフトバンクとの共同研究は着々！？ホンダが自前主義捨て自動運転開発（激変！クルマ×AI 業界地図）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/051900018/</link>
 			<description><![CDATA[　自動運転の中核技術といえる制御ソフトウエアの開発で、ホンダが米ウェイモと提携することを検討している。これは衝撃的なことだ。自前開発主義の強いホンダが、今までのこだわりと決別する意思を見せたともいえるからだ。ウェイモの案件以外でも、ホンダは協調戦略を加速している。]]></description>
@@ -65,9 +65,9 @@
 			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「Format-」コマンドで実行結果の出力を整形する（安納順一のPowerShell Tips）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800005/</link>
-			<description><![CDATA[　コマンドの出力は、そのままだと見にくかったり、必要な情報が含まれていなかったりする。そうした場合に必要な、出力を整形するテクニックを紹介しよう。]]></description>
+			<title>晴らせるかネットの闇、メルカリ現金出品やグノシー釣り記事（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052400985/</link>
+			<description><![CDATA[　フリマアプリ最大手のメルカリとニュースアプリのグノシーが、成長痛とも言える課題に直面している。メルカリには事実上の金銭やり取り狙いとみられる出品が続出し、運営元は対処に追われる。ニュースアプリのグノシーは利用者をだましてクリック数を稼ぐ「釣り記事」を防ぐ技術開発に乗り出した。]]></description>
 			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>東京五輪のITシステム、開発者が明かすその全貌（東京五輪のワクワクIT）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032200092/052300006/</link>
-			<description><![CDATA[　2020年の東京五輪まであと3年と迫った今、東京五輪向けのシステム構築プロジェクトはどのような状況にあるのか。プロジェクトを統括するフランスのIT企業Atosで東京五輪向けのプロジェクトを率いる担当者にプロジェクトの全貌と現状を聞いた。]]></description>
+			<title>GPUにAI機能、GTC2017に見るNVIDIAの戦略変化（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/052400248/</link>
+			<description><![CDATA[　米NVIDIAは、2017年5月9日から米国・サンノゼ市で「GPU Technology Conference（GTC） 2017」を開催した。これは同社が毎年開催している開発者向けのイベント。GPUや関連製品などの新製品の多くはここで披露されるため、同社の方向性を見るのに適したイベントといえる。]]></description>
 			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>晴らせるかネットの闇、メルカリ現金出品やグノシー釣り記事（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052400985/</link>
-			<description><![CDATA[　フリマアプリ最大手のメルカリとニュースアプリのグノシーが、成長痛とも言える課題に直面している。メルカリには事実上の金銭やり取り狙いとみられる出品が続出し、運営元は対処に追われる。ニュースアプリのグノシーは利用者をだましてクリック数を稼ぐ「釣り記事」を防ぐ技術開発に乗り出した。]]></description>
+			<title>我々はなぜ「導入事例」を信じてしまうのか（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/051800840/</link>
+			<description><![CDATA[　IT業界では「ソリューション」という言葉をよく使う。筆者はこの言葉をあまり使いたくない。]]></description>
 			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -125,22 +125,16 @@
 			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>GPUにAI機能、GTC2017に見るNVIDIAの戦略変化（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/052400248/</link>
-			<description><![CDATA[　米NVIDIAは、2017年5月9日から米国・サンノゼ市で「GPU Technology Conference（GTC） 2017」を開催した。これは同社が毎年開催している開発者向けのイベント。GPUや関連製品などの新製品の多くはここで披露されるため、同社の方向性を見るのに適したイベントといえる。]]></description>
+			<title>東京五輪のITシステム、開発者が明かすその全貌（東京五輪のワクワクIT）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032200092/052300006/</link>
+			<description><![CDATA[　2020年の東京五輪まであと3年と迫った今、東京五輪向けのシステム構築プロジェクトはどのような状況にあるのか。プロジェクトを統括するフランスのIT企業Atosで東京五輪向けのプロジェクトを率いる担当者にプロジェクトの全貌と現状を聞いた。]]></description>
 			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>我々はなぜ「導入事例」を信じてしまうのか（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/051800840/</link>
-			<description><![CDATA[　IT業界では「ソリューション」という言葉をよく使う。筆者はこの言葉をあまり使いたくない。]]></description>
-			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AI開発に法規制は不要、「ソフトロー」で統制すべきだ（AIと倫理）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800199/052400006/</link>
-			<description><![CDATA[　慶応義塾大学 法学部の大屋雄裕教授に、AI開発ガイドライン策定の狙いと、法哲学の視点から見た「AIと倫理」を巡る論点を聞いた。]]></description>
-			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
+			<title>「ずっと1500円引き」の新プラン、NTTドコモが2017年夏モデル（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052501490/</link>
+			<description><![CDATA[　NTTドコモは2017年5月24日、都内で2017年夏モデルの新製品・新サービス発表会を開催し、月額料金がずっと1500円引きになる新料金プランや、スマートフォンの新製品を7機種、さらに新サービスなどを一挙発表した。]]></description>
+			<pubDate>Thu, 25 May 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>SRE（Systems Reliability Engineer）の必要性（後）（SRE（Systems Reliability Engineer）の必要性）</title>
@@ -187,12 +181,6 @@
 <div></div>
 </div>
 ]]></description>
-			<pubDate>Thu, 25 May 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「ずっと1500円引き」の新プラン、NTTドコモが2017年夏モデル（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052501490/</link>
-			<description><![CDATA[　NTTドコモは2017年5月24日、都内で2017年夏モデルの新製品・新サービス発表会を開催し、月額料金がずっと1500円引きになる新料金プランや、スマートフォンの新製品を7機種、さらに新サービスなどを一挙発表した。]]></description>
 			<pubDate>Thu, 25 May 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -277,6 +265,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052501497/</link>
 			<description><![CDATA[　Dropbox Japanは2017年5月25日、新機能のPaperと、企業向け事業の概況について説明した。Paperを使うと、電話などで会議をしながら、チーム全体で「セミナー企画書」などの一つの文書を共有し、これを共同で編集できる。]]></description>
 			<pubDate>Thu, 25 May 2017 16:29:34 +0900</pubDate>
+		</item>
+		<item>
+			<title>「AIで通信品質を極限まで上げる」、米ミストのクラウド管理型無線LANシステム（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052501500/</link>
+			<description><![CDATA[　「無線LANに接続するデバイスや通信データ量は急増している。しかし、無線LANインフラの品質はそれに追いついていない。我々はこの問題を人工知能（AI）を使って解決する」。米ミストシステムズの共同創業者 兼 最高経営責任者（CEO）であるSujai Hajela氏は、同社が提供するクラウド管理型無線LANシステムをこう説明する。]]></description>
+			<pubDate>Thu, 25 May 2017 18:24:24 +0900</pubDate>
+		</item>
+		<item>
+			<title>テレビ東京などが世界卓球を同時配信（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052501501/</link>
+			<description><![CDATA[　テレビ東京とテレビ東京コミュニケーションズは2017年5月25日、テレビ東京での「世界卓球2017ドイツ」（ドイツで5月29日から6月5日まで開催）の放送に合わせて、放送と同時のネット配信を実施すると発表した。]]></description>
+			<pubDate>Thu, 25 May 2017 19:53:09 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
