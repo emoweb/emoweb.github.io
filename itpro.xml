@@ -5,36 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>AI人材に今すぐ投資すべき理由（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052400371/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　「AI（人工知能）に関与しない者は生きていけず、駆逐されていく」。米政府とつながりのある米競争力協議会（Council on Competitiveness）でシニアアドバイザーを務めるMark Minevich氏は、歯に衣着せずそう述べた。ラスベガスでのカンファレンス「Interop ITX」で現地時間2017年5月17日に開催された同氏のセッション「Rise of the Autonomous Enterprise」でのひとコマである。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052400371/ph01.jpg" width="300" alt="" title=""></div></div>
-
-<p>　Minevich氏は、AI技術を活用することで業界の様相を一変させた企業の例をいくつか挙げた。例えば、一人ひとりに向けたレコメンド機能の米Amazon.comや、電気自動車の米Teslaだ。「Teslaは、7億5000万マイル（約12億キロメートル）分のデータを蓄積することで、車のスマートさを高めた」とMinevich氏は話した。</p>
-
-<p>　良い知らせなのは、米国はAIで先頭を行く国の1つだと広く認識されていることだ。例えばシリコンバレーは、世界のどこよりも多くAIに投資し、また現在も投資が増えているとMinevich氏は言う。AIへの投資は、2016年は推計で25億ドル、2017年は倍の50億ドルになる見通しだ。Minevich氏は、コンサルティング大手AccentureやMcKinseyの予測を挙げたうえで、こう述べた。「AIは、1兆ドル規模の巨大な経済を生み、米国は莫大な利益を得る。なぜなら、米国は研究開発で先頭を行く国の1つだからだ」</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052400371/?ST=cm-software&P=2">悪い知らせは、AIを専門とする優秀な人材を見つけるのが難しいこと...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052400371/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052400371/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052400371/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052400371/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 24 May 2017 10:14:33 +0900</pubDate>
-		</item>
-		<item>
 			<title>Microsoft、新型Surface Proを6月発売へ、日本での発売は未定（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052401482/</link>
 			<description><![CDATA[　米Microsoftは現地時間2017年5月23日、タブレット端末「Surface Pro」の新モデルを発表した。現行モデル「Surface Pro 4」の後継となるが、名称は「Surface Pro」を採用している。]]></description>
@@ -83,6 +53,12 @@
 			<pubDate>Wed, 24 May 2017 21:55:44 +0900</pubDate>
 		</item>
 		<item>
+			<title>格安SIMを高速化！軽量プロキシーPolipo（格安SIMをOSSで快適にするワザ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600192/052300004/</link>
+			<description><![CDATA[　Web閲覧の高速化に機能を絞った個人利用向けのプロキシーサーバーが「Polipo」です。比較的非力なLinux環境で動かすのに適したプロキシーサーバーで、古いLinuxサーバーにインストールして格安SIMを高速化する用途に向いています。]]></description>
+			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「Format-」コマンドで実行結果の出力を整形する（安納順一のPowerShell Tips）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800005/</link>
 			<description><![CDATA[　コマンドの出力は、そのままだと見にくかったり、必要な情報が含まれていなかったりする。そうした場合に必要な、出力を整形するテクニックを紹介しよう。]]></description>
@@ -95,9 +71,9 @@
 			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>格安SIMを高速化！軽量プロキシーPolipo（格安SIMをOSSで快適にするワザ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600192/052300004/</link>
-			<description><![CDATA[　Web閲覧の高速化に機能を絞った個人利用向けのプロキシーサーバーが「Polipo」です。比較的非力なLinux環境で動かすのに適したプロキシーサーバーで、古いLinuxサーバーにインストールして格安SIMを高速化する用途に向いています。]]></description>
+			<title>Java SE 9の標準ライブラリ、java.utilのココが便利（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/052300039/</link>
+			<description><![CDATA[　Java 9 SEの標準ライブラリのうち、「java.util」モジュールにおける新機能を紹介します。比較的小さな規模の変更に留まっていますが、軽視していいわけではありません。開発の現場では役に立つものも多いはずです。]]></description>
 			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -119,15 +95,15 @@
 			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>晴らせるかネットの闇、メルカリ現金出品やグノシー釣り記事（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052400985/</link>
-			<description><![CDATA[　フリマアプリ最大手のメルカリとニュースアプリのグノシーが、成長痛とも言える課題に直面している。メルカリには事実上の金銭やり取り狙いとみられる出品が続出し、運営元は対処に追われる。ニュースアプリのグノシーは利用者をだましてクリック数を稼ぐ「釣り記事」を防ぐ技術開発に乗り出した。]]></description>
+			<title>MVNOに生き残りを賭ける専業プロバイダー、ビッグローブの奇策とは？（プロバイダー大手の新たな旅立ち）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200204/052400003/</link>
+			<description><![CDATA[　プロバイダー市場の飽和や競争激化、NECの戦略転換とともに流転の歴史をたどったビッグローブ。現在注力しているのがMVNO（仮想移動体通信事業者）サービスだ。MVNO事業を率いる中野雅昭執行役員常務と吉野宗壱モバイル事業部主任に戦略を聞いた。]]></description>
 			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Java SE 9の標準ライブラリ、java.utilのココが便利（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/052300039/</link>
-			<description><![CDATA[　Java 9 SEの標準ライブラリのうち、「java.util」モジュールにおける新機能を紹介します。比較的小さな規模の変更に留まっていますが、軽視していいわけではありません。開発の現場では役に立つものも多いはずです。]]></description>
+			<title>プロジェクト管理の第一歩でつまずく？PMBOKの前に読む最適な一冊はこれだ（若手情シスSEに送る幸せのヒント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/052100009/</link>
+			<description><![CDATA[　若手SEでもシステム開発プロジェクトに参画されている方は多いと思います。今のプロジェクト管理はおおよそPMBOK（プロジェクト・マネジメント・ボディ・オブ・ナレッジ、プロジェクト管理知識体系）という世界標準のガイドラインに乗っ取って進められるのが一般的になっています。]]></description>
 			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -161,16 +137,16 @@
 			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>MVNOに生き残りを賭ける専業プロバイダー、ビッグローブの奇策とは？（プロバイダー大手の新たな旅立ち）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200204/052400003/</link>
-			<description><![CDATA[　プロバイダー市場の飽和や競争激化、NECの戦略転換とともに流転の歴史をたどったビッグローブ。現在注力しているのがMVNO（仮想移動体通信事業者）サービスだ。MVNO事業を率いる中野雅昭執行役員常務と吉野宗壱モバイル事業部主任に戦略を聞いた。]]></description>
+			<title>晴らせるかネットの闇、メルカリ現金出品やグノシー釣り記事（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052400985/</link>
+			<description><![CDATA[　フリマアプリ最大手のメルカリとニュースアプリのグノシーが、成長痛とも言える課題に直面している。メルカリには事実上の金銭やり取り狙いとみられる出品が続出し、運営元は対処に追われる。ニュースアプリのグノシーは利用者をだましてクリック数を稼ぐ「釣り記事」を防ぐ技術開発に乗り出した。]]></description>
 			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>プロジェクト管理の第一歩でつまずく？PMBOKの前に読む最適な一冊はこれだ（若手情シスSEに送る幸せのヒント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/052100009/</link>
-			<description><![CDATA[　若手SEでもシステム開発プロジェクトに参画されている方は多いと思います。今のプロジェクト管理はおおよそPMBOK（プロジェクト・マネジメント・ボディ・オブ・ナレッジ、プロジェクト管理知識体系）という世界標準のガイドラインに乗っ取って進められるのが一般的になっています。]]></description>
-			<pubDate>Thu, 25 May 2017 05:00:00 +0900</pubDate>
+			<title>「ずっと1500円引き」の新プラン、NTTドコモが2017年夏モデル（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052501490/</link>
+			<description><![CDATA[　NTTドコモは2017年5月24日、都内で2017年夏モデルの新製品・新サービス発表会を開催し、月額料金がずっと1500円引きになる新料金プランや、スマートフォンの新製品を7機種、さらに新サービスなどを一挙発表した。]]></description>
+			<pubDate>Thu, 25 May 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>SRE（Systems Reliability Engineer）の必要性（後）（SRE（Systems Reliability Engineer）の必要性）</title>
@@ -217,12 +193,6 @@
 <div></div>
 </div>
 ]]></description>
-			<pubDate>Thu, 25 May 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「ずっと1500円引き」の新プラン、NTTドコモが2017年夏モデル（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052501490/</link>
-			<description><![CDATA[　NTTドコモは2017年5月24日、都内で2017年夏モデルの新製品・新サービス発表会を開催し、月額料金がずっと1500円引きになる新料金プランや、スマートフォンの新製品を7機種、さらに新サービスなどを一挙発表した。]]></description>
 			<pubDate>Thu, 25 May 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -295,6 +265,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052501494/</link>
 			<description><![CDATA[　ソフトバンクグループが、自動運転技術の獲得にアクセルを踏む。複数のメディアが2017年5月24日、同社が自動運転の中核技術を擁する米エヌビディアの株式を約4000億円分取得していると報じた。]]></description>
 			<pubDate>Thu, 25 May 2017 13:20:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Dropbox、働き方改革を支援する新機能「Paper」をデモ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052501497/</link>
+			<description><![CDATA[　Dropbox Japanは2017年5月25日、新機能のPaperと、企業向け事業の概況について説明した。Paperを使うと、電話などで会議をしながら、チーム全体で「セミナー企画書」などの一つの文書を共有し、これを共同で編集できる。]]></description>
+			<pubDate>Thu, 25 May 2017 16:29:34 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
