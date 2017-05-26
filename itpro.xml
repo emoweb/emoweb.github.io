@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>NRIセキュアテクノロジーズ、自動車のセキュリティ診断を開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052501496/</link>
-			<description><![CDATA[　NRIセキュアテクノロジーズは2017年5月25日、自動車やその搭載機器にサイバー攻撃への耐性があるかを検証するサービス「車両システムセキュリティ診断」の提供を始めた。]]></description>
-			<pubDate>Thu, 25 May 2017 14:35:18 +0900</pubDate>
-		</item>
-		<item>
-			<title>Dropbox、働き方改革を支援する新機能「Paper」をデモ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052501497/</link>
-			<description><![CDATA[　Dropbox Japanは2017年5月25日、新機能のPaperと、企業向け事業の概況について説明した。Paperを使うと、電話などで会議をしながら、チーム全体で「セミナー企画書」などの一つの文書を共有し、これを共同で編集できる。]]></description>
-			<pubDate>Thu, 25 May 2017 16:29:34 +0900</pubDate>
-		</item>
-		<item>
 			<title>リコー、電子黒板「RICOH Interactive Whiteboard」シリーズの新機種（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052501498/</link>
 			<description><![CDATA[　リコーは2017年5月25日、法人・教育分野向け電子黒板「RICOH Interactive Whiteboard」シリーズの新モデル2機種を発売すると発表した。前機種からUSBポートを増設し、新たにBluetooth機能を搭載した。価格はオープン、予想実勢価格は、画面サイズ65型の「RICOH Interactive Whiteboard D6510」が74万円前後、55型の「同 D5520」が54万円前後。6月12日に発売する。]]></description>
@@ -59,6 +47,18 @@
 			<pubDate>Thu, 25 May 2017 20:55:47 +0900</pubDate>
 		</item>
 		<item>
+			<title>不振のNEC、製造業向けは堅調も「予想以上に厳しい状況に」（2016年度決算、辛口通信簿）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900201/052500007/</link>
+			<description><![CDATA[　大手ITベンダーの2017年3月期の通期決算を基に辛口に採点する「2016年度決算、辛口通信簿」。最終回の第四回はNECだ。]]></description>
+			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>どう使う？格安SIMでプロキシーを使う手順をおさらい（格安SIMをOSSで快適にするワザ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600192/052400005/</link>
+			<description><![CDATA[　スマートフォンの携帯電話網とインターネットを通じて自宅のプロキシーサーバーを利用するには、スマートフォンだけでなく、プロキシーサーバーやブロードバンドルーターのネットワーク設定を変更する必要があります。]]></description>
+			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>システム運用は地味で嫌？システムの効果とは何かを教えよう（若手情シスSEに送る幸せのヒント）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/052500010/</link>
 			<description><![CDATA[　システムの運用業務は地味で、開発に比べて目立たない業務のように思われがちです。これは全くの誤解で、運用はとても大切で価値のある業務といえます。その理由はシステムの「運用」とは「システムの価値を提供し続ける業務」だからです。]]></description>
@@ -77,9 +77,9 @@
 			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>不振のNEC、製造業向けは堅調も「予想以上に厳しい状況に」（2016年度決算、辛口通信簿）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900201/052500007/</link>
-			<description><![CDATA[　大手ITベンダーの2017年3月期の通期決算を基に辛口に採点する「2016年度決算、辛口通信簿」。最終回の第四回はNECだ。]]></description>
+			<title>「100円スピーカー」は使える？ iPhoneとつないでみた（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/052400311/</link>
+			<description><![CDATA[　100均で販売されている小型スピーカーが面白い！iPhoneとつなげてどれぐらい使えるのか、検証した。]]></description>
 			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,9 +95,9 @@
 			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>パナソニックも熱視線？完全自動運転の一番乗りはテスラか（激変！クルマ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/052300021/</link>
-			<description><![CDATA[　世界で最も早く完全自動運転車を実用化――。それを実現する可能性が高いのが、電気自動車（EV）専業の新興自動車メーカーのテスラだ。2016年10月、同社のすべてのモデルに完全自動運転を実現するセンサーやハードウエアを搭載すると発表した。]]></description>
+			<title>海外スマホの格安SIM運用、外国人旅行者は合法（すっきりわかる「技適問題」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800198/051800004/</link>
+			<description><![CDATA[　技適未取得の海外スマホで格安SIMや無線LANの利用が、外国人旅行客に限って、認められた。2020年の東京五輪をひかえ、来日した外国人旅行客の違法状態を解消する法律改正があったからだ。]]></description>
 			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -107,9 +107,9 @@
 			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「100円スピーカー」は使える？ iPhoneとつないでみた（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/052400311/</link>
-			<description><![CDATA[　100均で販売されている小型スピーカーが面白い！iPhoneとつなげてどれぐらい使えるのか、検証した。]]></description>
+			<title>深層学習に使える！？インテルの新型メインメモリー（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052500989/</link>
+			<description><![CDATA[　米Intelは2017年5月16日（米国時間）、新型メモリー「Intel  persistent memory」を発表し、欧州SAPが米国で開催したイベント「Sapphire Now 2017」でデモを披露した。SSDより高速で、DRAMより大容量化しやすく、メインメモリーとしても動作する。大量データの高速処理が求められるディープラーニング（深層学習）の用途に期待を集めそうだ。]]></description>
 			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -149,21 +149,9 @@
 			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>海外スマホの格安SIM運用、外国人旅行者は合法（すっきりわかる「技適問題」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800198/051800004/</link>
-			<description><![CDATA[　技適未取得の海外スマホで格安SIMや無線LANの利用が、外国人旅行客に限って、認められた。2020年の東京五輪をひかえ、来日した外国人旅行客の違法状態を解消する法律改正があったからだ。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>深層学習に使える！？インテルの新型メインメモリー（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052500989/</link>
-			<description><![CDATA[　米Intelは2017年5月16日（米国時間）、新型メモリー「Intel  persistent memory」を発表し、欧州SAPが米国で開催したイベント「Sapphire Now 2017」でデモを披露した。SSDより高速で、DRAMより大容量化しやすく、メインメモリーとしても動作する。大量データの高速処理が求められるディープラーニング（深層学習）の用途に期待を集めそうだ。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>どう使う？格安SIMでプロキシーを使う手順をおさらい（格安SIMをOSSで快適にするワザ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600192/052400005/</link>
-			<description><![CDATA[　スマートフォンの携帯電話網とインターネットを通じて自宅のプロキシーサーバーを利用するには、スマートフォンだけでなく、プロキシーサーバーやブロードバンドルーターのネットワーク設定を変更する必要があります。]]></description>
+			<title>パナソニックも熱視線？完全自動運転の一番乗りはテスラか（激変！クルマ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/052300021/</link>
+			<description><![CDATA[　世界で最も早く完全自動運転車を実用化――。それを実現する可能性が高いのが、電気自動車（EV）専業の新興自動車メーカーのテスラだ。2016年10月、同社のすべてのモデルに完全自動運転を実現するセンサーやハードウエアを搭載すると発表した。]]></description>
 			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -272,6 +260,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052601508/</link>
 			<description><![CDATA[　物品の売買や契約のルールなど「債権」に関する民法の改正案が2017年5月26日、参議院本会議で可決・成立した。公布から3年以内に施行される。民法の改正はITに関する契約に様々な影響をもたらす。]]></description>
 			<pubDate>Fri, 26 May 2017 14:46:50 +0900</pubDate>
+		</item>
+		<item>
+			<title>DJI、ジェスチャーで操作できる小型ドローン「Spark」を発売（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052601509/</link>
+			<description><![CDATA[　ドローン専業のDJI JAPANは2017年5月26日、ブレ補正付きカメラ搭載の個人向けドローン「Spark」を発売した。搭載するカメラで認識した手ぶりで操作できる。重さは300gと同社最軽量ながら、上位機と同等の自律制御機能を備える。価格は6万5800円（税込み）から。]]></description>
+			<pubDate>Fri, 26 May 2017 14:53:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>マクドナルドと楽天が提携、全国2900店舗で楽天ポイントを使えるように（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052601510/</link>
+			<description><![CDATA[　日本マクドナルドと楽天は2017年5月26日、楽天のポイントサービス「楽天ポイントカード」で提携したと発表した。6月1日から、全国のマクドナルド約2900店舗でポイント（楽天スーパーポイント）をためたり使ったりできる。]]></description>
+			<pubDate>Fri, 26 May 2017 15:28:57 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
