@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>ソフトバンクが米エヌビディアに巨額出資か、自動運転にアクセル（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052501494/</link>
-			<description><![CDATA[　ソフトバンクグループが、自動運転技術の獲得にアクセルを踏む。複数のメディアが2017年5月24日、同社が自動運転の中核技術を擁する米エヌビディアの株式を約4000億円分取得していると報じた。]]></description>
-			<pubDate>Thu, 25 May 2017 13:20:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>NRIセキュアテクノロジーズ、自動車のセキュリティ診断を開始（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052501496/</link>
 			<description><![CDATA[　NRIセキュアテクノロジーズは2017年5月25日、自動車やその搭載機器にサイバー攻撃への耐性があるかを検証するサービス「車両システムセキュリティ診断」の提供を始めた。]]></description>
@@ -65,6 +59,12 @@
 			<pubDate>Thu, 25 May 2017 20:55:47 +0900</pubDate>
 		</item>
 		<item>
+			<title>システム運用は地味で嫌？システムの効果とは何かを教えよう（若手情シスSEに送る幸せのヒント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/052500010/</link>
+			<description><![CDATA[　システムの運用業務は地味で、開発に比べて目立たない業務のように思われがちです。これは全くの誤解で、運用はとても大切で価値のある業務といえます。その理由はシステムの「運用」とは「システムの価値を提供し続ける業務」だからです。]]></description>
+			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「無人」だから客が集まる、チャットボット接客が続々（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/052400843/</link>
 			<description><![CDATA[　小売業界では、販売スタッフの立っている場所で客が立ち寄りやすい店になるか、入りにくい雰囲気の店になるかが分かれるという。立ち寄りやすい店は店員の存在感をあまり感じさせない。この知恵がネットビジネスの分野でも生きようとしている。人に代わって最初に“接客”するのはチャットボットだ。]]></description>
@@ -83,9 +83,9 @@
 			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>システム運用は地味で嫌？システムの効果とは何かを教えよう（若手情シスSEに送る幸せのヒント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/052500010/</link>
-			<description><![CDATA[　システムの運用業務は地味で、開発に比べて目立たない業務のように思われがちです。これは全くの誤解で、運用はとても大切で価値のある業務といえます。その理由はシステムの「運用」とは「システムの価値を提供し続ける業務」だからです。]]></description>
+			<title>無料通信対象がSNSからゲーム、エンタメへ――MVNOのカウントフリーに興味津々（青木恵美の信州ITラプソディ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/052500030/</link>
+			<description><![CDATA[　以前、本コラムでMVNOの「カウントフリー」について紹介した。カウントフリーとは、特定のアプリに使われるパケットをカウントしないことである。こうしたカウントフリーのMVNOサービスが増えており、カウントフリーの対象も拡大してきているようだ。]]></description>
 			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,15 +101,15 @@
 			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>どう使う？格安SIMでプロキシーを使う手順をおさらい（格安SIMをOSSで快適にするワザ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600192/052400005/</link>
-			<description><![CDATA[　スマートフォンの携帯電話網とインターネットを通じて自宅のプロキシーサーバーを利用するには、スマートフォンだけでなく、プロキシーサーバーやブロードバンドルーターのネットワーク設定を変更する必要があります。]]></description>
+			<title>1万円台なのに意外とサクサク！激安スマホ「FLEAZ Que」（SIMフリースマートフォンを徹底レビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/052400041/</link>
+			<description><![CDATA[　コヴィア製のAndroidスマートフォン「FLEAZ Que」は、購入時の条件によっては1万円を切ることもある激安モデルだ。使ってみると「安かろう悪かろう」という予想を良い意味で裏切ってくれる。]]></description>
 			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>無料通信対象がSNSからゲーム、エンタメへ――MVNOのカウントフリーに興味津々（青木恵美の信州ITラプソディ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/052500030/</link>
-			<description><![CDATA[　以前、本コラムでMVNOの「カウントフリー」について紹介した。カウントフリーとは、特定のアプリに使われるパケットをカウントしないことである。こうしたカウントフリーのMVNOサービスが増えており、カウントフリーの対象も拡大してきているようだ。]]></description>
+			<title>「100円スピーカー」は使える？ iPhoneとつないでみた（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/052400311/</link>
+			<description><![CDATA[　100均で販売されている小型スピーカーが面白い！iPhoneとつなげてどれぐらい使えるのか、検証した。]]></description>
 			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -161,15 +161,9 @@
 			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>1万円台なのに意外とサクサク！激安スマホ「FLEAZ Que」（SIMフリースマートフォンを徹底レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/052400041/</link>
-			<description><![CDATA[　コヴィア製のAndroidスマートフォン「FLEAZ Que」は、購入時の条件によっては1万円を切ることもある激安モデルだ。使ってみると「安かろう悪かろう」という予想を良い意味で裏切ってくれる。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「100円スピーカー」は使える？ iPhoneとつないでみた（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/052400311/</link>
-			<description><![CDATA[　100均で販売されている小型スピーカーが面白い！iPhoneとつなげてどれぐらい使えるのか、検証した。]]></description>
+			<title>どう使う？格安SIMでプロキシーを使う手順をおさらい（格安SIMをOSSで快適にするワザ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600192/052400005/</link>
+			<description><![CDATA[　スマートフォンの携帯電話網とインターネットを通じて自宅のプロキシーサーバーを利用するには、スマートフォンだけでなく、プロキシーサーバーやブロードバンドルーターのネットワーク設定を変更する必要があります。]]></description>
 			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -272,6 +266,12 @@
 			<description><![CDATA[　キャンペーンという実験的な取り組みだが、radikoがNHKのラジオ番組を配信する。2017年5月26日に開催された総務省の「放送を巡る諸課題に関する検討会」でNHKが報告した。
 ]]></description>
 			<pubDate>Fri, 26 May 2017 12:41:45 +0900</pubDate>
+		</item>
+		<item>
+			<title>改正民法が成立、「瑕疵担保責任」などシステム開発契約に影響大（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052601508/</link>
+			<description><![CDATA[　物品の売買や契約のルールなど「債権」に関する民法の改正案が2017年5月26日、参議院本会議で可決・成立した。公布から3年以内に施行される。民法の改正はITに関する契約に様々な影響をもたらす。]]></description>
+			<pubDate>Fri, 26 May 2017 14:46:50 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
