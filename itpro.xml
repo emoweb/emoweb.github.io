@@ -5,196 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>パナソニックも熱視線？完全自動運転の一番乗りはテスラか（激変！クルマ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/052300021/</link>
-			<description><![CDATA[　世界で最も早く完全自動運転車を実用化――。それを実現する可能性が高いのが、電気自動車（EV）専業の新興自動車メーカーのテスラだ。2016年10月、同社のすべてのモデルに完全自動運転を実現するセンサーやハードウエアを搭載すると発表した。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「無人」だから客が集まる、チャットボット接客が続々（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/052400843/</link>
-			<description><![CDATA[　小売業界では、販売スタッフの立っている場所で客が立ち寄りやすい店になるか、入りにくい雰囲気の店になるかが分かれるという。立ち寄りやすい店は店員の存在感をあまり感じさせない。この知恵がネットビジネスの分野でも生きようとしている。人に代わって最初に“接客”するのはチャットボットだ。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>深層学習に使える！？インテルの新型メインメモリー（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052500989/</link>
-			<description><![CDATA[　米Intelは2017年5月16日（米国時間）、新型メモリー「Intel  persistent memory」を発表し、欧州SAPが米国で開催したイベント「Sapphire Now 2017」でデモを披露した。SSDより高速で、DRAMより大容量化しやすく、メインメモリーとしても動作する。大量データの高速処理が求められるディープラーニング（深層学習）の用途に期待を集めそうだ。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>テストは20万時間、東京五輪ITシステムの舞台裏（東京五輪のワクワクIT）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032200092/052400007/</link>
-			<description><![CDATA[　あと3年に迫った2020年の東京オリンピック・パラリンピック。「絶対に遅れることはできないし、稼働後の不具合も許されない」という五輪向けのシステムをどう構築しているのか。欧州Atosで東京五輪向けシステム構築プロジェクトを率いるセイレッシュ・チョーハン氏にプロジェクトマネジメントのポイントを聞いた。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ラズパイでも動く「CentOS」でRed Hatを学ぶ（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/052400008/</link>
-			<description><![CDATA[　CentOSは、米Red Hat社が開発する「Red Hat Enterprise Linux」互換の無償Linuxディストリビューションです。業務でも使われるCentOSを、4000円台の小型PCボートのRaspberry Pi（ラズパイ）でも学べます。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IoT市場を掘り起こす先兵になるニフティ、ソネット（プロバイダー大手の新たな旅立ち）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200204/052500004/</link>
-			<description><![CDATA[　専業プロバイダーとの連携を強め、IoT分野の事業を拡大するための先導役に据える──。ソニーネットワークコミュニケーションズ（SNC、旧ソネット）とニフティをそれぞれ子会社にしたソニーグループと家電量販店大手ノジマの狙いは明確だ。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「何が言いたいの？」とイラつく上司、「口癖分析」で上司が聞きたい説明を（脱・ザンネン社員）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/052200004/</link>
-			<description><![CDATA[　ザンネンな仕事の典型例が、「何を言いたいのか分からない」と上司に言わせてしまう説明だ。上司をいらつかせるばかりか、「仕事ができない人間」との印象を抱かれかねない。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>マイクロソフト、AIでOfficeを刷新（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052400986/</link>
-			<description><![CDATA[　米マイクロソフトは2017年5月に米国と日本で開催した開発者向け年次イベントで、新サービスや新機能を多岐にわたって発表した。重点的な強化ポイントは、AI（人工知能）、IoT（モノのインターネット）、データベースの三つ。なかでもAIについては、PowerPointなどに組み込んで、刷新といえる大きな機能強化を実現する。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>無料通信対象がSNSからゲーム、エンタメへ――MVNOのカウントフリーに興味津々（青木恵美の信州ITラプソディ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/052500030/</link>
-			<description><![CDATA[　以前、本コラムでMVNOの「カウントフリー」について紹介した。カウントフリーとは、特定のアプリに使われるパケットをカウントしないことである。こうしたカウントフリーのMVNOサービスが増えており、カウントフリーの対象も拡大してきているようだ。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>不振のNEC、製造業向けは堅調も「予想以上に厳しい状況に」（2016年度決算、辛口通信簿）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900201/052500007/</link>
-			<description><![CDATA[　大手ITベンダーの2017年3月期の通期決算を基に辛口に採点する「2016年度決算、辛口通信簿」。最終回の第四回はNECだ。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>脳から学べば汎用AIの実現は近い、開発を萎縮させない議論を（AIと倫理）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800199/052500007/</link>
-			<description><![CDATA[　ドワンゴ人工知能研究所の山川宏所長は、最新の脳神経科学の成果を取り込んだ、汎用AIの研究開発に取り組んでいる。実現する手法として提唱するのが、脳が持つ部位ごとの機能をコンピュータに模倣させ、各機能を連携させることで汎用性の高い知性を実現するという「全脳アーキテクチャ（WBA）」だ。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ロードマップは常に変化？Voltaに至るNVIDIAの軌跡とは（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/052400249/</link>
-			<description><![CDATA[　米NVIDIAが2017年5月9日から開催した「GPU Technology Conference（GTC） 2017」では、多くの発表があった。今回はこれまでの同社のロードマップを振り返りながら、戦略の変遷について見ていく。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>システム運用は地味で嫌？システムの効果とは何かを教えよう（若手情シスSEに送る幸せのヒント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/052500010/</link>
-			<description><![CDATA[　システムの運用業務は地味で、開発に比べて目立たない業務のように思われがちです。これは全くの誤解で、運用はとても大切で価値のある業務といえます。その理由はシステムの「運用」とは「システムの価値を提供し続ける業務」だからです。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>どう使う？格安SIMでプロキシーを使う手順をおさらい（格安SIMをOSSで快適にするワザ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051600192/052400005/</link>
-			<description><![CDATA[　スマートフォンの携帯電話網とインターネットを通じて自宅のプロキシーサーバーを利用するには、スマートフォンだけでなく、プロキシーサーバーやブロードバンドルーターのネットワーク設定を変更する必要があります。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>アマゾンの新5000円タブレット　本、動画、サブ機に最適（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/052400312/</link>
-			<description><![CDATA[　アマゾンは2017年5月17日、Fireタブレットの新モデルとして、7型の「Amazon Fire 7」と8型の「Amazon Fire HD 8」を発表した。Amazonプライムの会員なら4980円から購入できる。6月7日より出荷する。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>1万円台なのに意外とサクサク！激安スマホ「FLEAZ Que」（SIMフリースマートフォンを徹底レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/052400041/</link>
-			<description><![CDATA[　コヴィア製のAndroidスマートフォン「FLEAZ Que」は、購入時の条件によっては1万円を切ることもある激安モデルだ。使ってみると「安かろう悪かろう」という予想を良い意味で裏切ってくれる。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>海外スマホの格安SIM運用、外国人旅行者は合法（すっきりわかる「技適問題」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800198/051800004/</link>
-			<description><![CDATA[　技適未取得の海外スマホで格安SIMや無線LANの利用が、外国人旅行客に限って、認められた。2020年の東京五輪をひかえ、来日した外国人旅行客の違法状態を解消する法律改正があったからだ。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「100円スピーカー」は使える？ iPhoneとつないでみた（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/052400311/</link>
-			<description><![CDATA[　100均で販売されている小型スピーカーが面白い！iPhoneとつなげてどれぐらい使えるのか、検証した。]]></description>
-			<pubDate>Fri, 26 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>退職する社員のデータ持ち出し、効果的な対抗策は（下）（退職する社員のデータ持ち出し、効果的な対抗策は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/051600037/051600003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　これまでも言い古されてきたとおり、企業にとって最も価値の高い資産である社員も、いつかは退職する時が来る。だが、最近発表されたセキュリティレポートによると、退職する社員と一緒に、価値の高い資産がほかにも失われてしまうことがある。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/051600037/051600002/" target="_blank">前回</a>から続く）</p>
-
-<h4>厳格なポリシーと継続的な監視</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/051600037/051600003/ph3.jpg" width="300" alt="" title=""></div></div>
-
-<p>　厳格なポリシーを導入したうえで、企業データを継続的に監視することも必要だ。そうすれば、どの社員がどの程度の頻度でデータにアクセスしているかや、業務上の正当な理由があってアクセスしているのかどうかという疑問に答えを出すことができる。</p>
-
-<p>　さらに、セキュリティ専門家が企業に強く勧めるのは、パソコンの防御策をもっと積極的に講じることだ。例えば、社員がUSBメモリーにデータを書き込めないようにしたり、未許可のクラウドアプリケーションは利用を禁じたりする手がある。あるいは、個人メールの利用を制限する手もある。データファイルをメールに添付してGmailで送信することは、ついしがちだからだ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/051600037/051600003/?ST=cio-security&P=2">「ビッグブラザーになろうとするのではなく、壁を築...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/051600037/051600003/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/051600037/051600003/?ST=cio-security&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/051600037/051600003/?ST=cio-security&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/051600037/051600003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 26 May 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ケンタッキー州労災基金、ランサムウエア攻撃を回避（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052600372/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米ケンタッキー州労働者災害補償基金（KESA：Kentucky Workers' Compensation Fund）に、芸能ニュースが大好きな職員がいた。ニュースのリンクをクリックしては、最新のゴシップ記事を楽しんでいた。だがある日、不正なリンクをクリックしてしまった。下手すると、KESAが新聞の一面を飾りかねない事態になっていた。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052600372/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　KESAのシステム管理者、Rubyanne O'Bryan氏によると、このリンクを通じて感染したのは「CTB-Locker」というウイルスだった。リンクをクリックした職員は、O'Bryan氏が感染を指摘したとき、驚くことに「お前はランサムウエアに感染した」と高らかにうたう画面を最小化して作業していたという。
-</p>
-<p>
-　O'Bryan氏によると、このランサムウエアは、職員がアクセスできる共有ドライブの1つに拡散していた。.txtファイルと.docファイルを探し、暗号化と5桁の拡張子の付加を実行していた。しかしKESAは、米Zertoのソリューションを利用していたことから、7100人の加入者情報には影響を与えずに済んだ。
-</p>
-<p>
-　KESAの上級システムスペシャリスト、Russell Lynch氏によると、KESAでこのウイルスの餌食になったのは、既に発送済みの郵送物だけだった。完全制圧を発表するまでには2～3日を要したものの、この攻撃でユーザーに及んだ影響は一切なかった。
-</p>
-<p>
-　KESAでは、Zertoのソリューションを使って、離れた場所のネットワークにデータを数分でバックアップできる。その安心感があって、ランサムウエアの要求には目もくれなかったとO'Bryan氏は言う。リンクをクリックする直前の状態に復旧できた。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052600372/?ST=cm-network&P=2">KESAのデータは、300マイル（約480キロメートル）離れた2...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052600372/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052600372/?ST=cm-network&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052600372/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 26 May 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>2年連続で改正銀行法が国会成立、銀行にAPI公開の努力義務（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052500990/</link>
-			<description><![CDATA[　改正銀行法が2017年5月26日、参議院本会議で可決、成立した。2018年春にも施行される見通しだ。今回の改正法案では、銀行や信用金庫に対して、オープンAPI公開の努力義務を課す。]]></description>
-			<pubDate>Fri, 26 May 2017 10:20:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>MSのゲーム配信サービス、「Mixer」と名前を変えて新機能追加（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052601505/</link>
 			<description><![CDATA[　米Microsoftは2017年5月25日、同社が昨年買収したゲームストリーミングサービス「Beam」を、「Mixer」と名称を変えてリニューアルした。]]></description>
@@ -268,6 +78,36 @@
 			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>悩みも苦労もなく、順風満帆すぎるほうが怖い（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/051700008/</link>
+			<description><![CDATA[　技術力を武器に提案営業活動を長年続けているプロフェッショナル。それが日本IBMの竹田千恵氏だ。“ストレージ愛”にあふれる女性技術者として活躍し、2016年には社長賞を獲得した。]]></description>
+			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>2枚目の名刺のススメ、育児中の女性ITコンサルが理想のリュックを作るまで（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/052300842/</link>
+			<description><![CDATA[　2枚目の名刺は、人を大きく成長させる。そんな一人が横山加代子さんだ。IT企業に勤務しながら、「働く女性のためのビジネスリュック」を考案。クラウドファンディングで資金調達して、募集開始後すぐに目標額を集めたすご腕だ。さらに2歳のお子さんを育てる母親でもある。]]></description>
+			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ノートPCの画面、2インチ増はいくらの値引きに相当？（ 「次の一手」の効果を評価するビジネス分析術（実践編））</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/112900284/051000008/</link>
+			<description><![CDATA[　ノートPCの画面が2インチ増えると、値引きに換算してどれだけの価値を得たと顧客は感じられるか──。そんな見通しが立つ分析手法をご紹介します。]]></description>
+			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>活躍できるか不安？将来像のイメージこそ自分を高める（若手情シスSEに送る幸せのヒント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/052500011/</link>
+			<description><![CDATA[　若手SEの皆さんは自分自身が5年後、10年後にどんな場面でどう活躍しているかのイメージを持っていますか？「そんな先のことは考えたことがない」「そもそもイメージが湧かない」という方が多いのではないでしょうか。それでも将来の活躍イメージを持つようにしてみて下さい。それが成長のヒントです。]]></description>
+			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>猿まね大国ニッポンの転落、後進国化を暗示するITベンダーの惨状（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/052400140/</link>
+			<description><![CDATA[　少し前からIT業界の人と話していて、気になることがある。例えば「韓国のサムスン電子や中国のファーウェイはすごいね」といった話になると、必ず眉をひそめて「あんなの、米国の猿まねでしょ！」とムキになって言い返す人が増えてきたことだ。]]></description>
+			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>新人の日報メールで困った！評価を上げる書き方とは？（5分でわかる！ビジネスメール）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200140/052300004/</link>
 			<description><![CDATA[　セミナーの講演後、受講者から声をかけられた直井研究員。最前列に座り、熱心にメモをとっていた姿が印象的だった部品メーカーB社の係長である田中さん（39才）。明るい雰囲気の田中さんですが、今年入社した新人の日報メールに困っているそうです。]]></description>
@@ -280,9 +120,9 @@
 			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>IoTの主役争いが激化、「データ取引所」に賭けるKDDI（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052600991/</link>
-			<description><![CDATA[　KDDI（au）がIoT（インターネット・オブ・シングズ）事業を急拡大させている。通信モジュールや回線だけでなく、分析ツールやシステム構築なども含めてサービスの幅を広げ、顧客企業のIoT活用ニーズを漏らさず取り込む環境を整える。]]></description>
+			<title>ITが鳴らす号砲、人不足の建設産業に革命（誕生！インフラ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052300002/</link>
+			<description><![CDATA[　30年前と比べて生産性があまり改善していないと指摘される建設・インフラの現場。ここに新規参入者による“産業革命”が始まった。「i-Construction（アイ・コンストラクション）」と名付けて、1年ほど前から国土交通省が旗を振る取り組みが、そのけん引役だ。AI（人工知能）、ビッグデータなど先進的なITを活用し、現状の建設・インフラの現場を超効率的なものへと変身させようというわけだ。]]></description>
 			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -310,39 +150,9 @@
 			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ITが鳴らす号砲、人不足の建設産業に革命（誕生！インフラ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052300002/</link>
-			<description><![CDATA[　30年前と比べて生産性があまり改善していないと指摘される建設・インフラの現場。ここに新規参入者による“産業革命”が始まった。「i-Construction（アイ・コンストラクション）」と名付けて、1年ほど前から国土交通省が旗を振る取り組みが、そのけん引役だ。AI（人工知能）、ビッグデータなど先進的なITを活用し、現状の建設・インフラの現場を超効率的なものへと変身させようというわけだ。]]></description>
-			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>活躍できるか不安？将来像のイメージこそ自分を高める（若手情シスSEに送る幸せのヒント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/052500011/</link>
-			<description><![CDATA[　若手SEの皆さんは自分自身が5年後、10年後にどんな場面でどう活躍しているかのイメージを持っていますか？「そんな先のことは考えたことがない」「そもそもイメージが湧かない」という方が多いのではないでしょうか。それでも将来の活躍イメージを持つようにしてみて下さい。それが成長のヒントです。]]></description>
-			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>猿まね大国ニッポンの転落、後進国化を暗示するITベンダーの惨状（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/052400140/</link>
-			<description><![CDATA[　少し前からIT業界の人と話していて、気になることがある。例えば「韓国のサムスン電子や中国のファーウェイはすごいね」といった話になると、必ず眉をひそめて「あんなの、米国の猿まねでしょ！」とムキになって言い返す人が増えてきたことだ。]]></description>
-			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>2枚目の名刺のススメ、育児中の女性ITコンサルが理想のリュックを作るまで（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/052300842/</link>
-			<description><![CDATA[　2枚目の名刺は、人を大きく成長させる。そんな一人が横山加代子さんだ。IT企業に勤務しながら、「働く女性のためのビジネスリュック」を考案。クラウドファンディングで資金調達して、募集開始後すぐに目標額を集めたすご腕だ。さらに2歳のお子さんを育てる母親でもある。]]></description>
-			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>悩みも苦労もなく、順風満帆すぎるほうが怖い（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/051700008/</link>
-			<description><![CDATA[　技術力を武器に提案営業活動を長年続けているプロフェッショナル。それが日本IBMの竹田千恵氏だ。“ストレージ愛”にあふれる女性技術者として活躍し、2016年には社長賞を獲得した。]]></description>
-			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ノートPCの画面、2インチ増はいくらの値引きに相当？（ 「次の一手」の効果を評価するビジネス分析術（実践編））</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/112900284/051000008/</link>
-			<description><![CDATA[　ノートPCの画面が2インチ増えると、値引きに換算してどれだけの価値を得たと顧客は感じられるか──。そんな見通しが立つ分析手法をご紹介します。]]></description>
+			<title>IoTの主役争いが激化、「データ取引所」に賭けるKDDI（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052600991/</link>
+			<description><![CDATA[　KDDI（au）がIoT（インターネット・オブ・シングズ）事業を急拡大させている。通信モジュールや回線だけでなく、分析ツールやシステム構築なども含めてサービスの幅を広げ、顧客企業のIoT活用ニーズを漏らさず取り込む環境を整える。]]></description>
 			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -385,6 +195,68 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 29 May 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>2017年春商戦で何が起きた？MVNO4社が最新事情明かす（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052901517/</link>
+			<description><![CDATA[　MMDLaboは2017年5月26日、都内で「第5回 MMD研究所 MVNO勉強会」を報道関係者を対象に開催し、NTTコミュニケーションズ、ケイ・オプティコム、イオンリテール、LINEモバイルの4社が2017年春商戦やユーザー数などの実績、課題などについて最新情報を語った。]]></description>
+			<pubDate>Mon, 29 May 2017 09:54:20 +0900</pubDate>
+		</item>
+		<item>
+			<title>世界トップ棋士を制したGoogleの囲碁AI「AlphaGo」、引退へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052901518/</link>
+			<description><![CDATA[　米Googleは現地時間2017年5月27日、同社傘下の英DeepMindが開発した人工知能（AI）システム「AlphaGo」の“引退”を発表した。AlphaGoは同日、世界最強とされる中国のKe Jie（柯潔）棋士との3局目を制し、勝利を収めた。]]></description>
+			<pubDate>Mon, 29 May 2017 10:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Apple、AI専用プロセッサ「Apple Neural Engine」を開発か（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052901519/</link>
+			<description><![CDATA[　米Appleは、AI（人工知能）関連のタスクを行う専用のプロセッサを開発していると、米Bloombergが現地時間2017年5月26日に報じた。現在Appleはこのプロセッサを搭載した将来版iPhoneのプロトタイプで試験を行っていると、事情に詳しい関係者は話している。AppleはこれをiPhoneをはじめ、iPadも含む将来の同社製品に実装する計画という。 ]]></description>
+			<pubDate>Mon, 29 May 2017 10:15:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>サイバーセキュリティの投資対効果、説得の難しさ（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052900373/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　発生しないことへの投資対効果について取締役会に納得させるには、どうすればよいのだろうか。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052900373/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　この問いは新しいものではない。企業のITセキュリティ責任者が予算の正当性を訴える時には、この問いに絶えず直面している。予算の増額を求めている時には特にそうだ。サイバー侵害の可能性は高まる一方との調査結果がいくつも示される中、この問いに直面する機会は今後さらに増えるはずだ。米Gartnerが数年前から使っている有名な言葉で、「予防は無駄」というものもある。
+</p>
+<p>
+　米国時間2017年5月24日に開催されたシンポジウム「MIT Sloan CIO Symposium」のパネルディスカッション「Measuring ROI for Cybersecurity：Is it Real, or a Mirage」では、この問いに対していくつかの有効な答えが示された。その多くは、「what if（もし～したらどうなるか）」を重視している。
+</p>
+<p>
+　米連邦住宅抵当公庫のバイスプレジデント兼CISO（最高情報セキュリティ責任者）、Christopher Porter氏は、ひとまず計算してみることを答えの1つとして挙げた。例えば、100万人の顧客の信用情報のデータが侵害を受けるとした場合、信用情報の提供が仮に1人当たり年間20ドル分の価値にすぎなかったとしても、合計で2000万ドル分であり、「そこに訴訟費用などを加味すれば、概算の足掛かりになる」とPorter氏は話した。連邦住宅抵当公庫では「FAIR（Factor Analysis of Information Risk）」というモデルを使っているとのことだ。FAIR InstituteのWebサイトによると、FAIRとは、「リスクとは何か、リスクがどのように働くか、リスクをどのように定量化するかを規定するモデル」である。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052900373/?ST=cm-software&P=2">ランサムウエアは方程式が異なるが、付随するダウンタイムから算出で...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052900373/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052900373/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052900373/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 29 May 2017 10:40:34 +0900</pubDate>
+		</item>
+		<item>
+			<title>「1機種・1プランの強みを生かす」、トーンモバイルがシニア世代向け施策を強化（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052901520/</link>
+			<description><![CDATA[　トーンモバイルは2017年5月26日、同社が展開する「TSUTAYAのスマホ TONE」のシニア世代向け施策について発表した。]]></description>
+			<pubDate>Mon, 29 May 2017 10:40:57 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
