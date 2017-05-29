@@ -11,18 +11,6 @@
 			<pubDate>Fri, 26 May 2017 14:46:50 +0900</pubDate>
 		</item>
 		<item>
-			<title>マクドナルドと楽天が提携、全国2900店舗で楽天ポイントを使えるように（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052601510/</link>
-			<description><![CDATA[　日本マクドナルドと楽天は2017年5月26日、楽天のポイントサービス「楽天ポイントカード」で提携したと発表した。6月1日から、全国のマクドナルド約2900店舗でポイント（楽天スーパーポイント）をためたり使ったりできる。]]></description>
-			<pubDate>Fri, 26 May 2017 15:28:57 +0900</pubDate>
-		</item>
-		<item>
-			<title>ネットギア、4TB HDDを搭載したデスクトップ型NASの中小企業向けモデル（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052601512/</link>
-			<description><![CDATA[　ネットギアジャパンは2017年5月26日、ギガビットイーサネット搭載のデスクトップ型NAS「ReadyNAS 424」および「ReadyNAS 422」から、SATA 4TB HDDを標準搭載したビジネスユーザー向けモデルを同日から販売開始すると発表した。]]></description>
-			<pubDate>Fri, 26 May 2017 17:31:01 +0900</pubDate>
-		</item>
-		<item>
 			<title>格安スマホデビューのきっかけは男性「Webの情報」、女性「家族の紹介」（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052601513/</link>
 			<description><![CDATA[　NTTレゾナントは2017年5月26日、「格安スマホ」のニーズに関する調査結果を発表した。格安スマホユーザーに利用開始したきっかけについて聞いたところ、男性は48.8％がWeb（専門サイトなど）の情報、女性は34.0％が家族からの紹介という回答が上位になった。]]></description>
@@ -47,6 +35,18 @@
 			<pubDate>Fri, 26 May 2017 19:14:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>「5G」の主導権争いが激化、展示会でアピール合戦（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052600992/</link>
+			<description><![CDATA[　次世代高速通信規格「5G」をにらんだ国内大手キャリアの動きが本格化してきた。2017年5月24～26日に東京ビッグサイトで開催された展示会「ワイヤレス・テクノロジー・パーク2017」にNTTドコモとKDDIがブースを出展。来たるべき5G時代についていち早くアピールした。]]></description>
+			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>下りはドコモ最速、ソフトバンクの上りは「にわかに信じがたい結果」（携帯電話の実効速度問題を斬る）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052400211/052400001/</link>
+			<description><![CDATA[　携帯電話大手3社は携帯電話の実効速度を計測し、その結果を公表している。最近ではすっかり沈静化したが、LTEの高速化に伴い、各社が競い合うようにスピード自慢を展開。なぜか大手3社がそろって「ネットワークNo.1」を主張する不思議な状態になった。]]></description>
+			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>活躍できるか不安？将来像のイメージこそ自分を高める（若手情シスSEに送る幸せのヒント）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/052500011/</link>
 			<description><![CDATA[　若手SEの皆さんは自分自身が5年後、10年後にどんな場面でどう活躍しているかのイメージを持っていますか？「そんな先のことは考えたことがない」「そもそもイメージが湧かない」という方が多いのではないでしょうか。それでも将来の活躍イメージを持つようにしてみて下さい。それが成長のヒントです。]]></description>
@@ -59,9 +59,9 @@
 			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「5G」の主導権争いが激化、展示会でアピール合戦（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052600992/</link>
-			<description><![CDATA[　次世代高速通信規格「5G」をにらんだ国内大手キャリアの動きが本格化してきた。2017年5月24～26日に東京ビッグサイトで開催された展示会「ワイヤレス・テクノロジー・パーク2017」にNTTドコモとKDDIがブースを出展。来たるべき5G時代についていち早くアピールした。]]></description>
+			<title>「止まっていい」システムはない、クラウド時代の運用を改めて考える（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/052500086/</link>
+			<description><![CDATA[　動いているシステムはストップするリスクが必ずあります。絶対に止まらないシステムは存在しません。だからといって「止められないならクラウドは使うな」「謝って済むシステムにしかパブリッククラウドサービスを利用してはならない」などと言うのは極端すぎるのではないでしょうか。]]></description>
 			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,24 +95,6 @@
 			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ITが鳴らす号砲、人不足の建設産業に革命（誕生！インフラ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052300002/</link>
-			<description><![CDATA[　30年前と比べて生産性があまり改善していないと指摘される建設・インフラの現場。ここに新規参入者による“産業革命”が始まった。「i-Construction（アイ・コンストラクション）」と名付けて、1年ほど前から国土交通省が旗を振る取り組みが、そのけん引役だ。AI（人工知能）、ビッグデータなど先進的なITを活用し、現状の建設・インフラの現場を超効率的なものへと変身させようというわけだ。]]></description>
-			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「止まっていい」システムはない、クラウド時代の運用を改めて考える（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/052500086/</link>
-			<description><![CDATA[　動いているシステムはストップするリスクが必ずあります。絶対に止まらないシステムは存在しません。だからといって「止められないならクラウドは使うな」「謝って済むシステムにしかパブリッククラウドサービスを利用してはならない」などと言うのは極端すぎるのではないでしょうか。]]></description>
-			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IEとの相性に不満、企業が直面するOffice 365の長短（Office 365で泣き笑い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700195/051800001/</link>
-			<description><![CDATA[　従業員のアカウントやソフトウエアライセンスを管理しやすくなった。その一方で、一部のサービスを使う際に動作が遅いと感じる――。建設準大手である西松建設のIT担当者が、Office 365に対して感じている満足点と不満点を明かした。]]></description>
-			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>新人の日報メールで困った！評価を上げる書き方とは？（5分でわかる！ビジネスメール）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200140/052300004/</link>
 			<description><![CDATA[　セミナーの講演後、受講者から声をかけられた直井研究員。最前列に座り、熱心にメモをとっていた姿が印象的だった部品メーカーB社の係長である田中さん（39才）。明るい雰囲気の田中さんですが、今年入社した新人の日報メールに困っているそうです。]]></description>
@@ -125,9 +107,15 @@
 			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>下りはドコモ最速、ソフトバンクの上りは「にわかに信じがたい結果」（携帯電話の実効速度問題を斬る）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052400211/052400001/</link>
-			<description><![CDATA[　携帯電話大手3社は携帯電話の実効速度を計測し、その結果を公表している。最近ではすっかり沈静化したが、LTEの高速化に伴い、各社が競い合うようにスピード自慢を展開。なぜか大手3社がそろって「ネットワークNo.1」を主張する不思議な状態になった。]]></description>
+			<title>IEとの相性に不満、企業が直面するOffice 365の長短（Office 365で泣き笑い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700195/051800001/</link>
+			<description><![CDATA[　従業員のアカウントやソフトウエアライセンスを管理しやすくなった。その一方で、一部のサービスを使う際に動作が遅いと感じる――。建設準大手である西松建設のIT担当者が、Office 365に対して感じている満足点と不満点を明かした。]]></description>
+			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ITが鳴らす号砲、人不足の建設産業に革命（誕生！インフラ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052300002/</link>
+			<description><![CDATA[　30年前と比べて生産性があまり改善していないと指摘される建設・インフラの現場。ここに新規参入者による“産業革命”が始まった。「i-Construction（アイ・コンストラクション）」と名付けて、1年ほど前から国土交通省が旗を振る取り組みが、そのけん引役だ。AI（人工知能）、ビッグデータなど先進的なITを活用し、現状の建設・インフラの現場を超効率的なものへと変身させようというわけだ。]]></description>
 			<pubDate>Mon, 29 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -263,6 +251,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052901524/</link>
 			<description><![CDATA[　A10ネットワークスは2017年5月29日、クラウド上で動くソフトウエア型の負荷分散装置「Lightning ADC」を発表、同日提供を開始した。主要なパブリッククラウドサービスやVMwareの仮想環境上で動く。]]></description>
 			<pubDate>Mon, 29 May 2017 17:59:22 +0900</pubDate>
+		</item>
+		<item>
+			<title>2016年は14億件のデータが漏洩、ジェムアルト公表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052901525/</link>
+			<description><![CDATA[　データセキュリティ事業のジェムアルトは2017年5月29日、2016年に全世界で発生した情報漏洩事件の集計結果を公表し、企業がとるべき対策などを説明した。]]></description>
+			<pubDate>Mon, 29 May 2017 18:05:57 +0900</pubDate>
+		</item>
+		<item>
+			<title>ASUSが世界最薄のコンバーチブル機「ZenBook Flip S」などノートPC5機種を発表（COMPUTEX TAIPEI 2017レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900218/052900002/</link>
+			<description><![CDATA[　台湾ASUSTeK Computerは2017年5月29日、台北で「COMPUTEX TAIPEI 2017」に先駆けて製品発表会「THE EDGE OF BEYOND」を開催し、5機種のWindows 10搭載ノートPCの新製品を発表した。]]></description>
+			<pubDate>Mon, 29 May 2017 20:43:35 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
