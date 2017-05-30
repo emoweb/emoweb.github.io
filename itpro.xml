@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>2017年春商戦で何が起きた？MVNO4社が最新事情明かす（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052901517/</link>
-			<description><![CDATA[　MMDLaboは2017年5月26日、都内で「第5回 MMD研究所 MVNO勉強会」を報道関係者を対象に開催し、NTTコミュニケーションズ、ケイ・オプティコム、イオンリテール、LINEモバイルの4社が2017年春商戦やユーザー数などの実績、課題などについて最新情報を語った。]]></description>
-			<pubDate>Mon, 29 May 2017 09:54:20 +0900</pubDate>
-		</item>
-		<item>
-			<title>世界トップ棋士を制したGoogleの囲碁AI「AlphaGo」、引退へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052901518/</link>
-			<description><![CDATA[　米Googleは現地時間2017年5月27日、同社傘下の英DeepMindが開発した人工知能（AI）システム「AlphaGo」の“引退”を発表した。AlphaGoは同日、世界最強とされる中国のKe Jie（柯潔）棋士との3局目を制し、勝利を収めた。]]></description>
-			<pubDate>Mon, 29 May 2017 10:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Apple、AI専用プロセッサ「Apple Neural Engine」を開発か（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/052901519/</link>
 			<description><![CDATA[　米Appleは、AI（人工知能）関連のタスクを行う専用のプロセッサを開発していると、米Bloombergが現地時間2017年5月26日に報じた。現在Appleはこのプロセッサを搭載した将来版iPhoneのプロトタイプで試験を行っていると、事情に詳しい関係者は話している。AppleはこれをiPhoneをはじめ、iPadも含む将来の同社製品に実装する計画という。 ]]></description>
@@ -116,15 +104,27 @@
 			<pubDate>Tue, 30 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>問題に対する最初の打ち手は必ず失敗する（脱出！ 暗闇プロジェクト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/051500065/</link>
+			<description><![CDATA[　A社は沈滞ムードというか、全体に重苦しい空気に包まれている。特別な出来事が起きたり、業績が大きく落ち込んでいたりするわけではない。社員評価のやり方が原因だと考えられる。評価者を務めるP取締役と相性が合うかどうか。これで評価が決まるのである。]]></description>
+			<pubDate>Tue, 30 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>情シスSEは何に向き合って仕事すればいい？「インフォメーション」の言葉に答えがある（若手情シスSEに送る幸せのヒント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/052500012/</link>
+			<description><![CDATA[　若手SEの皆さんとは切っても切れない言葉が「IT（インフォメーションテクノロジー）」です。ITのうち「インフォメーション」を初めて「情報」と訳したのは森鴎外と言われています。情報化が進んだ今にして思えば、インフォメーションの訳語としてはなかなか適格だと思いませんか？]]></description>
+			<pubDate>Tue, 30 May 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「ひとり情シスはブラック職場だ」「いや、やり方次第で快適に働ける」（10人のIT部門が消滅～ひとり情シス顛末記）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/052500020/</link>
 			<description><![CDATA[　それってブラック職場じゃないのか――。IT部門が消滅し、一人残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。この実話の当事者である著者が、読者から質問に答える。今回は、ひとり情シスの労働環境だ。]]></description>
 			<pubDate>Tue, 30 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「仕様漏れ」に陥らない三つのワザ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/052500844/</link>
-			<description><![CDATA[　要件定義はとにかく難しい。炎上するプロジェクトはだいたい要件定義が失敗している。「この仕様は間違っている」「この項目がないのはおかしい」などと、プロジェクトの終わりが見えたころに指摘される。仕様書や要件定義書まで戻って変更して、設計・実装のやり直しに追われることになる。]]></description>
+			<title>紙とペンが好きな人が手書きノートをデジタル化するには？（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/052700118/</link>
+			<description><![CDATA[　パソコンやスマホが普及し、紙に文字を書く機会がどんどん減っている。僕が物書きになったおよそ30年前には、原稿を手で書いている人が大勢いた。今や原稿はすべてデータで納品するようになった。企画書など、ビジネスの書類でも手書きはほとんど見る機会がない。]]></description>
 			<pubDate>Tue, 30 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -134,9 +134,9 @@
 			<pubDate>Tue, 30 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>情シスSEは何に向き合って仕事すればいい？「インフォメーション」の言葉に答えがある（若手情シスSEに送る幸せのヒント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051100185/052500012/</link>
-			<description><![CDATA[　若手SEの皆さんとは切っても切れない言葉が「IT（インフォメーションテクノロジー）」です。ITのうち「インフォメーション」を初めて「情報」と訳したのは森鴎外と言われています。情報化が進んだ今にして思えば、インフォメーションの訳語としてはなかなか適格だと思いませんか？]]></description>
+			<title>2カ月かかる全国1500地点の調査、それでもやめない携帯大手3社（携帯電話の実効速度問題を斬る）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052400211/052400002/</link>
+			<description><![CDATA[　携帯電話大手3社は総務省ガイドラインに基づいた実効速度の計測に当たり、相当な労力を費やしている。計測場所は全国10都市の1500地点に達し、調査に2カ月程度かかる。資本力のある大手3社だからこそ成り立っていると言え、MVNO（仮想移動体通信事業者）に同様な調査を求めるのは酷な面がある。]]></description>
 			<pubDate>Tue, 30 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -188,21 +188,9 @@
 			<pubDate>Tue, 30 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>紙とペンが好きな人が手書きノートをデジタル化するには？（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/052700118/</link>
-			<description><![CDATA[　パソコンやスマホが普及し、紙に文字を書く機会がどんどん減っている。僕が物書きになったおよそ30年前には、原稿を手で書いている人が大勢いた。今や原稿はすべてデータで納品するようになった。企画書など、ビジネスの書類でも手書きはほとんど見る機会がない。]]></description>
-			<pubDate>Tue, 30 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>2カ月かかる全国1500地点の調査、それでもやめない携帯大手3社（携帯電話の実効速度問題を斬る）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052400211/052400002/</link>
-			<description><![CDATA[　携帯電話大手3社は総務省ガイドラインに基づいた実効速度の計測に当たり、相当な労力を費やしている。計測場所は全国10都市の1500地点に達し、調査に2カ月程度かかる。資本力のある大手3社だからこそ成り立っていると言え、MVNO（仮想移動体通信事業者）に同様な調査を求めるのは酷な面がある。]]></description>
-			<pubDate>Tue, 30 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>問題に対する最初の打ち手は必ず失敗する（脱出！ 暗闇プロジェクト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/051500065/</link>
-			<description><![CDATA[　A社は沈滞ムードというか、全体に重苦しい空気に包まれている。特別な出来事が起きたり、業績が大きく落ち込んでいたりするわけではない。社員評価のやり方が原因だと考えられる。評価者を務めるP取締役と相性が合うかどうか。これで評価が決まるのである。]]></description>
+			<title>「仕様漏れ」に陥らない三つのワザ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/052500844/</link>
+			<description><![CDATA[　要件定義はとにかく難しい。炎上するプロジェクトはだいたい要件定義が失敗している。「この仕様は間違っている」「この項目がないのはおかしい」などと、プロジェクトの終わりが見えたころに指摘される。仕様書や要件定義書まで戻って変更して、設計・実装のやり直しに追われることになる。]]></description>
 			<pubDate>Tue, 30 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -241,10 +229,50 @@
 			<pubDate>Tue, 30 May 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>WebサイトからWindows 7/8を簡単にクラッシュ可能なバグが見つかる（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/053000328/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　登場から間もなく8年になるWindows 7だが、パソコンのクラッシュにつながる滑稽なバグがいまだに見つかっている。Ars Technicaの<a href="https://arstechnica.co.uk/information-technology/2017/05/in-a-throwback-to-the-90s-ntfs-bug-lets-anyone-hang-or-crash-windows-7-8-1/" target="_blank">報道</a>によると、ロシア語サイトHabrhabr.ruが最近公開した<a href="https://habrahabr.ru/company/aladdinrd/blog/329166/" target="_blank">記事</a>で、そのようなバグの1つが明らかになった。ある条件を満たすWebサイトをWindowsで開くだけで、問題が起きるとのことだ。このバグは、Windows 7のほか、Windows VistaとWindows 8にもあるが、Windows 10にはない。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/053000328/windows7-yea-100254252-large.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: techedive via Flick</div>
+</div>
+<p>
+　この問題が発生する条件とは、サイト側で画像の保存ディレクトリの名前に「$MFT」という文字列を使っていることだけだ。Windowsは、「$MFT」という文字列は、パソコン上の特殊なメタデータファイルとしてのみ使うと想定している。そして、ディレクトリ名にこの文字列が使われていると、問題が発生し、パソコンの動作が遅くなって、ついにはハングしてしまう。そうなった場合、マシンを再起動するしか手がない。また場合によっては、あの忌まわしきブルースクリーンが出てしまうこともある。
+</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/053000328/?ST=cio-appli&P=2">サイト側のディレクトリ名で問題が発生</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/053000328/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/053000328/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/053000328/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 30 May 2017 10:05:16 +0900</pubDate>
+		</item>
+		<item>
 			<title>米政府、ノートPCの機内持込禁止を米国発着の全便に拡大か（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/053001527/</link>
 			<description><![CDATA[　米国土安全保障省（DHS）のJohn Kelly長官は現地時間2017年5月28日、米国発着の全国際便でノートパソコンの機内持込禁止を検討していることを明らかにしたと、複数の米メディアが報じた。]]></description>
 			<pubDate>Tue, 30 May 2017 10:09:37 +0900</pubDate>
+		</item>
+		<item>
+			<title>薄さ極めたノートPCを台北で一挙発表、ASUS新製品の詳細（COMPUTEX TAIPEI 2017レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900218/053000003/</link>
+			<description><![CDATA[　台湾ASUSTeK Computerは2017年5月29日、台北でノートPCの新製品5機種を発表した。発表会の展示会場には、ほかにもオールインワン型の新製品も並んだ。本記事では展示機の写真を中心に、展示内容をレポートする。]]></description>
+			<pubDate>Tue, 30 May 2017 10:50:21 +0900</pubDate>
 		</item>
 		<item>
 			<title>iPhone 8はベゼルレスデザイン、指紋認証はディスプレーに組み込みか（ニュース）</title>
