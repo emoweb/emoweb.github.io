@@ -5,88 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>コスモス、スパナ、コックローチ…グローバル分散DBが続々（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052900995/</link>
-			<description><![CDATA[　世界中のデータセンターにまたがってデータを分散配置する「グローバル分散データベース（DB）」が相次いでいる。マイクロソフトはCosmos（惑星）の名を冠したDBサービス「Azure Cosmos DB」、グーグルは「Google Cloud Spanner」を提供。オープンソースの「CockroachDB」も5月、正式版としてバージョン1.0をリリースした。]]></description>
-			<pubDate>Wed, 31 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>プロジェクト遅れを挽回！ 10の必須テクニック（脱出！ 暗闇プロジェクト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/051500066/</link>
-			<description><![CDATA[　プロジェクトで遅延が発生。上司から「早々に対策を打つように」との指示を受けた。さて、どんな策を打つべきか。教科書を見ても、役立ちそうな対策は見当たらない。特にアカデミックな色合いの強い書籍は「毒にも薬にもならない」策しか紹介していない。頼りになるのは現場のノウハウだ。]]></description>
-			<pubDate>Wed, 31 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>TIS役員「SIなど既存事業は半分に縮小、五輪まで持たない」（木村岳史がITベンダーの新事業を斬る！「共創」十番勝負）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000309/052900011/</link>
-			<description><![CDATA[　「共創」十番勝負TIS編の第2回目は、前企画本部副部長として新規事業の企画などに携わった中村清貴執行役員へのインタビューである。前回紹介した通り、TISにおけるベンチャー企業との共創はIT業界では特異な試みだが、それだけでTISのビジネスモデルの変革につながるかは疑問だ。]]></description>
-			<pubDate>Wed, 31 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>格安スマホの実効速度はどう測る？総務省による実証実験が始動へ（携帯電話の実効速度問題を斬る）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052400211/053000006/</link>
-			<description><![CDATA[　総務省が広告におけるMVNOの速度表示に重大な関心を払っている。速度計測方法を確立するための実証実験の予算を確保しており、2017年度中に業界団体が主体となって実験が行われる予定だ。その狙いは、MVNOも携帯電話大手と同様に、信頼できる実効速度を広告で打ち出せるよう後押しすることにある。]]></description>
-			<pubDate>Wed, 31 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>米国に周回遅れの日本VR市場、カギはコンテンツにあり（シリコンバレーVR通信）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052800216/052900001/</link>
-			<description><![CDATA[　シリコンバレーで日々、投資活動をする筆者が得た最新のVR（仮想現実）情報をお伝えする本連載。初回である今回は、眼鏡型の体験装置であるVRヘッドセットの現状を振り返りつつ、米国を中心にした世界のVRヘッドセットのトレンド、コンテンツ充実に向けた動きを紹介する。]]></description>
-			<pubDate>Wed, 31 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>開発者会議「WWDC 2017」でハード発表の噂、Mac新モデルは登場する？（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/052900044/</link>
-			<description><![CDATA[　米アップルは2017年6月5日から、カリフォルニア州サンノゼで、年次開発者会議「WWDC 2017（WWDC17）」を開催する。WWDCは開発者向けのイベントであり、ハードウエアに関する発表を期待するのは、本来の趣旨からずれている。しかし今回は、数々の新製品に関する噂が飛び交っている。]]></description>
-			<pubDate>Wed, 31 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>自動運転車を左右するデジタル地図、“八方美人”の行く末は？（激変！クルマ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/052800022/</link>
-			<description><![CDATA[　3次元測距センサー「LiDAR（ライダー）」と同等かそれ以上に、自動運転車のキーコンポーネントとして注目されているものがある。デジタル地図だ。]]></description>
-			<pubDate>Wed, 31 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>目から鱗の簡単サーバーレス、すぐやるべき（編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/052900036/</link>
-			<description><![CDATA[　米アマゾンウェブサービス（AWS）の「AWS Lambda（ラムダ）」といえば、ストレージにデータが書き込まれる、設定した時刻になる、といったイベントに基づいて、JavaScriptやPythonなどの比較的軽量なコードを実行するサービスだ。]]></description>
-			<pubDate>Wed, 31 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>“いきなり新ツール”のOffice 365、意外に早いサポート終了で困る（Office 365で泣き笑い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700195/052400003/</link>
-			<description><![CDATA[　ヤマハ発動機は、グローバルでOffeice 365を利用する大規模ユーザーだ。メールとスケジュールを使用しているユーザー数はグローバルで約3万。世界中どこでも利用できる点を評価する一方、突然の新ツール提供やサポート終了への対応に追われる。]]></description>
-			<pubDate>Wed, 31 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>故障や過負荷はもはや宿命、IoTの障害対応を学ぶ（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/052900006/</link>
-			<description><![CDATA[　　IoTシステムは、障害の原因になりそうなリスクにあふれている。今回は、複雑怪奇なIoTシステムの障害分析のコツと注意点を紹介する。]]></description>
-			<pubDate>Wed, 31 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>アクセンチュアの“あの数字”、国産の2倍に（知られざるアクセンチュア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200206/052600002/</link>
-			<description><![CDATA[　アクセンチュアの営業利益率は約15％。国内最大手である富士通とNTTデータのITサービス関連事業の約2.5倍に達する。]]></description>
-			<pubDate>Wed, 31 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「革新技術に1700以上のニーズ」石井国交相（誕生！インフラ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052600011/</link>
-			<description><![CDATA[　深刻な人材不足に備えて、国土交通省が推進するi-Construction（アイ・コンストラクション）。ITの活用などで建設現場の生産性を向上させる取り組みだ。]]></description>
-			<pubDate>Wed, 31 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「爪QR」は認知症患者を助けたか？（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/052800994/</link>
-			<description><![CDATA[　徘徊のおそれがある認知症患者の爪にQRコードのシールを貼る――。埼玉県入間市が2016年11月に開始した高齢者支援は大きな話題を呼んだ。開始から半年で認知症患者の家族30人から申請があり、シールを公布している。]]></description>
-			<pubDate>Wed, 31 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ワイモバイルがおサイフ対応の「Android One X1」など新製品を発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/053001530/</link>
-			<description><![CDATA[　ソフトバンクは2017年5月31日、「Y！mobile」（ワイモバイル）の夏モデル新製品としてスマートフォン、モバイルWi-Fiルーター、フィーチャーフォンをそれぞれ1機種ずつ発表した。]]></description>
-			<pubDate>Wed, 31 May 2017 09:30:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：紙とペンが好きな人が手書きノートをデジタル化するには？（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/052700118/?d01</link>
+			<description><![CDATA[　パソコンやスマホが普及し、紙に文字を書く機会がどんどん減っている。僕が物書きになったおよそ30年前には、原稿を手で書いている人が大勢いた。今や原稿はすべてデータで納品するようになった。企画書など、ビジネスの書類でも手書きはほとんど見る機会がない。]]></description>
+			<pubDate>Tue, 30 May 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Androidの生みの親、ベゼルレスのハイエンドスマホを発表（ニュース）</title>
@@ -262,6 +184,12 @@
 			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>建設の現場、AIの力で脱・ブラック（誕生！インフラ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052200001/</link>
+			<description><![CDATA[　建設・インフラの現場で、IT活用による産業革命が始まった。建設や維持管理の分野で、インフラの実務者が大きな期待を寄せているのがAI（人工知能）だ。]]></description>
+			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>FinTechの次は「アグリテック」？ 産官学が普及に向け団結（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/053100999/</link>
 			<description><![CDATA[　内閣府などは2017年5月15日、「農業データ連携基盤（データプラットフォーム）」を創設すると発表した。様々なITベンダーや農業機械メーカーのシステム間で農業に関わるデータを連携・共有しやすくして、農業と先進ITを組み合わせたアグリテックの普及を狙う。]]></description>
@@ -304,16 +232,48 @@
 			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>建設の現場、AIの力で脱・ブラック（誕生！インフラ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052200001/</link>
-			<description><![CDATA[　建設・インフラの現場で、IT活用による産業革命が始まった。建設や維持管理の分野で、インフラの実務者が大きな期待を寄せているのがAI（人工知能）だ。]]></description>
-			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>周囲の猛反対に合う案こそ本当の解決策（脱出！ 暗闇プロジェクト）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/051500067/</link>
 			<description><![CDATA[　パッケージソフト開発・販売のC社は、ユーザー企業のD社に製品を売り込むことに成功した。C社の役員がパッケージソフトの売り物である機能をD社の役員に見せたところ、役員がすっかり気に入り、受注につながった。ところがその機能は確かに便利だが、入力の手間が馬鹿にならないことが判明した。]]></description>
 			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>モバイルの主流化が企業アプリに及ぼす変化（後）（モバイルの主流化が企業アプリに及ぼす変化）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/052400040/052400002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　インターネットへのアクセスに使われているOSのシェアで、2017年3月にAndroidが米MicrosoftのWindowsを抜き、第1位となった。このデータを発表したのは、アイルランドのWebトラフィック分析企業StatCounterだ。
+</p>
+
+<p>
+（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/052400040/052400001/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/052400040/052400002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>
+　Microsoftの「Surface」や韓国Samsung Electronicsの「Slate」など、Windows搭載のタブレットですら、Microsoftのモバイルインタフェースの受けは良かった。だが、顕著だったのは、ExcelやWordなど、特定のアプリケーションに関しては、モバイルのインタフェースよりも、Microsoftが提供してきた従来型のデスクトップのインタフェースを好むユーザーが多かったことだ。
+</p>
+<p>
+　つまり、タブレットは、モバイルデバイスであるとはいえ、デスクトップパソコンやノートパソコンの代わりとして使われることが多い。また、モバイルOSのインタフェースで問題ない作業もあるものの、「旧来」のデスクトップOSのインタフェースの方が適している作業もある。
+</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/052400040/052400002/?ST=cm-software&P=2">シンプルで直感的な企業アプリへ</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/052400040/052400002/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/052400040/052400002/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/052400040/052400002/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/052400040/052400002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 01 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
