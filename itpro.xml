@@ -5,87 +5,15 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：紙とペンが好きな人が手書きノートをデジタル化するには？（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/052700118/?d01</link>
-			<description><![CDATA[　パソコンやスマホが普及し、紙に文字を書く機会がどんどん減っている。僕が物書きになったおよそ30年前には、原稿を手で書いている人が大勢いた。今や原稿はすべてデータで納品するようになった。企画書など、ビジネスの書類でも手書きはほとんど見る機会がない。]]></description>
-			<pubDate>Tue, 30 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AWS採用を前提に整備、シャドーITから始まったKDDIのクラウド統制（AWS Summit Tokyo 2017レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052600214/053100004/</link>
-			<description><![CDATA[　KDDIは2017年5月31日、アマゾン ウェブ サービス ジャパンのイベント「AWS Summit Tokyo 2017」で講演し、Amazon Web Services（AWS）をKDDIのシステム基盤として採用するために整備した統制方法を話した。]]></description>
-			<pubDate>Wed, 31 May 2017 20:36:04 +0900</pubDate>
-		</item>
-		<item>
-			<title>「YouTube Kids」が日本でスタート、「おしりたんてい」の独占配信も（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/053101553/</link>
-			<description><![CDATA[　米YouTubeは2017年5月31日、都内で記者説明会を開催し、「YouTube Kids」の日本での提供を開始すると発表した。YouTube Kidsは、YouTubeで提供されているコンテンツのうち、子ども向けや家庭向けにフィルタリングをしたコンテンツのみ配信するサービス。]]></description>
-			<pubDate>Wed, 31 May 2017 21:12:47 +0900</pubDate>
-		</item>
-		<item>
-			<title>NTTドコモがデータ分析で「SAP HANA」導入、顧客データを即時分析（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/053101555/</link>
-			<description><![CDATA[　SAPジャパンは2017年5月31日、NTTドコモがデータ分析基盤「SAP HANA」を採用したと発表した。これまで1～2週間をかけていた顧客データの分析を、現場レベルでリアルタイムに実施できるようになったという。]]></description>
-			<pubDate>Wed, 31 May 2017 21:46:14 +0900</pubDate>
-		</item>
-		<item>
-			<title>日立物流、しがらみから脱却しクラウドファーストに転換（AWS Summit Tokyo 2017レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052600214/053100005/</link>
-			<description><![CDATA[　日立物流は2017年5月31日、AWS Summit Tokyo 2017で講演し、AWSに触ったこともなかった2014年時点からクラウドファーストへと変化した軌跡を紹介した。]]></description>
-			<pubDate>Wed, 31 May 2017 21:48:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日立、Lumadaベースの多品種少量生産工場向けシステムを7月から外販（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/053101554/</link>
-			<description><![CDATA[　日立製作所は2017年5月31日、多品種少量生産工場向けにIoTプラットフォーム「Lumada」をベースとした「進捗・稼働監視システム」と「作業改善支援システム」の2つを、2017年7月から提供すると発表した。同社の「大みか事業所」で開発したシステムを外販する。]]></description>
-			<pubDate>Wed, 31 May 2017 22:40:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>周囲の猛反対に合う案こそ本当の解決策（脱出！ 暗闇プロジェクト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/051500067/</link>
-			<description><![CDATA[　パッケージソフト開発・販売のC社は、ユーザー企業のD社に製品を売り込むことに成功した。C社の役員がパッケージソフトの売り物である機能をD社の役員に見せたところ、役員がすっかり気に入り、受注につながった。ところがその機能は確かに便利だが、入力の手間が馬鹿にならないことが判明した。]]></description>
-			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>重要顧客への忖度は無用、TISの事業変革が成功する条件とは（木村岳史がITベンダーの新事業を斬る！「共創」十番勝負）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000309/053000012/</link>
-			<description><![CDATA[　「共創」十番勝負 TIS編の第3回は、ベンチャー企業の共創などを通じて人月商売からの脱却を目指すTISの取り組みを、「極言暴論」の木村の眼で斬る。「最もSIerらしいSIer」のTISが改革への道筋をつけられるかが、日本のIT業界の人月商売、多重下請け構造から脱却できるかどうかの試金石になる。]]></description>
-			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>FinTechの次は「アグリテック」？ 産官学が普及に向け団結（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/053100999/</link>
-			<description><![CDATA[　内閣府などは2017年5月15日、「農業データ連携基盤（データプラットフォーム）」を創設すると発表した。様々なITベンダーや農業機械メーカーのシステム間で農業に関わるデータを連携・共有しやすくして、農業と先進ITを組み合わせたアグリテックの普及を狙う。]]></description>
-			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Office 365の良い点残念な点、グーグルに乗り換えた会社が明かす（Office 365で泣き笑い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700195/053000005/</link>
-			<description><![CDATA[　不動産業のオープンハウスは、Office 365からグーグルのG Suiteに乗り換えた企業である。メールの使い勝手の良さには満足していたものの、同社はメールの数とサイズの大きい添付ファイルが多いためにメールボックス容量に上限があるOffice 365はニーズに合わなかった。]]></description>
-			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>年収2000万円は当たり前、ただし時給は…（知られざるアクセンチュア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200206/053000004/</link>
-			<description><![CDATA[　年収が1000万円に達するスピードが最も速い会社であると昔、雑誌に取り上げられたことがある――。あるアクセンチュアのOBはこう話す。]]></description>
-			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>基幹系の刷新でもIT部門は後回し、デジタル時代に問われる存在意義（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/053100085/</link>
-			<description><![CDATA[　最近、「IT部門に話を通すのは最後」という声を耳にすることが増えた。何らかの情報システムを導入する際、本来ならIT部門が主導すべきだが、事業部門などとITベンダーとの間で先に話が進む。導入がほぼ決まった段階で、ようやくIT部門に了承を求める。最近、そんなパターンのシステム導入が増えているようだ。]]></description>
-			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>建設の現場、AIの力で脱・ブラック（誕生！インフラ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052200001/</link>
-			<description><![CDATA[　建設・インフラの現場で、IT活用による産業革命が始まった。建設や維持管理の分野で、インフラの実務者が大きな期待を寄せているのがAI（人工知能）だ。]]></description>
-			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>仕様が正しく与えられれば「バグ無し」は可能だ（インタビュー＆トーク）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/053100334/</link>
 			<description><![CDATA[　オブジェクト指向技術を日本でいち早く紹介するなど、ソフトウエア開発の現場における品質向上にこだわり、「バグ無し」開発を追い続けるコンサルタント兼翻訳家の酒匂 寛氏。バグ無し開発の現状について聞いた。]]></description>
+			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>どうする？スマートフォンに押し寄せる巨大データ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/052600846/</link>
+			<description><![CDATA[　筆者はMVNO（仮想移動体通信事業者）のサービスを利用しているが、多くの携帯電話サービスと同様に月間の通信容量が決まっている。ルーターが不調のあいだは、通信容量の消費がいつも以上に気になると同時に、スマートフォンの利用は結構Wi-Fi接続頼みであることが分かった。]]></description>
 			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,9 +23,45 @@
 			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>どうする？スマートフォンに押し寄せる巨大データ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/052600846/</link>
-			<description><![CDATA[　筆者はMVNO（仮想移動体通信事業者）のサービスを利用しているが、多くの携帯電話サービスと同様に月間の通信容量が決まっている。ルーターが不調のあいだは、通信容量の消費がいつも以上に気になると同時に、スマートフォンの利用は結構Wi-Fi接続頼みであることが分かった。]]></description>
+			<title>建設の現場、AIの力で脱・ブラック（誕生！インフラ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052200001/</link>
+			<description><![CDATA[　建設・インフラの現場で、IT活用による産業革命が始まった。建設や維持管理の分野で、インフラの実務者が大きな期待を寄せているのがAI（人工知能）だ。]]></description>
+			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>基幹系の刷新でもIT部門は後回し、デジタル時代に問われる存在意義（焦点を読む）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/053100085/</link>
+			<description><![CDATA[　最近、「IT部門に話を通すのは最後」という声を耳にすることが増えた。何らかの情報システムを導入する際、本来ならIT部門が主導すべきだが、事業部門などとITベンダーとの間で先に話が進む。導入がほぼ決まった段階で、ようやくIT部門に了承を求める。最近、そんなパターンのシステム導入が増えているようだ。]]></description>
+			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>年収2000万円は当たり前、ただし時給は…（知られざるアクセンチュア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200206/053000004/</link>
+			<description><![CDATA[　年収が1000万円に達するスピードが最も速い会社であると昔、雑誌に取り上げられたことがある――。あるアクセンチュアのOBはこう話す。]]></description>
+			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Office 365の良い点残念な点、グーグルに乗り換えた会社が明かす（Office 365で泣き笑い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700195/053000005/</link>
+			<description><![CDATA[　不動産業のオープンハウスは、Office 365からグーグルのG Suiteに乗り換えた企業である。メールの使い勝手の良さには満足していたものの、同社はメールの数とサイズの大きい添付ファイルが多いためにメールボックス容量に上限があるOffice 365はニーズに合わなかった。]]></description>
+			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>FinTechの次は「アグリテック」？ 産官学が普及に向け団結（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/053100999/</link>
+			<description><![CDATA[　内閣府などは2017年5月15日、「農業データ連携基盤（データプラットフォーム）」を創設すると発表した。様々なITベンダーや農業機械メーカーのシステム間で農業に関わるデータを連携・共有しやすくして、農業と先進ITを組み合わせたアグリテックの普及を狙う。]]></description>
+			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>重要顧客への忖度は無用、TISの事業変革が成功する条件とは（木村岳史がITベンダーの新事業を斬る！「共創」十番勝負）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000309/053000012/</link>
+			<description><![CDATA[　「共創」十番勝負 TIS編の第3回は、ベンチャー企業の共創などを通じて人月商売からの脱却を目指すTISの取り組みを、「極言暴論」の木村の眼で斬る。「最もSIerらしいSIer」のTISが改革への道筋をつけられるかが、日本のIT業界の人月商売、多重下請け構造から脱却できるかどうかの試金石になる。]]></description>
+			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>周囲の猛反対に合う案こそ本当の解決策（脱出！ 暗闇プロジェクト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/051500067/</link>
+			<description><![CDATA[　パッケージソフト開発・販売のC社は、ユーザー企業のD社に製品を売り込むことに成功した。C社の役員がパッケージソフトの売り物である機能をD社の役員に見せたところ、役員がすっかり気に入り、受注につながった。ところがその機能は確かに便利だが、入力の手間が馬鹿にならないことが判明した。]]></description>
 			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -272,6 +236,84 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052600214/060100009/</link>
 			<description><![CDATA[　グリーは2017年6月1日、アマゾン ウェブ サービス ジャパン主催の年次イベント「AWS Summit Tokyo 2017」で講演し、同社がゲームやSNSなどのプラットフォームとして使っているAWSの運用ノウハウを解説した。]]></description>
 			<pubDate>Thu, 01 Jun 2017 21:46:39 +0900</pubDate>
+		</item>
+		<item>
+			<title>アクセンチュアの本社はない？（知られざるアクセンチュア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200206/053100005/</link>
+			<description><![CDATA[　アクセンチュアは世界120カ国以上にサービスを提供しているが、本社はどこにあるのか。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Office 365の豊富なツールに満足、障害時は「待つしかない」に不満（Office 365で泣き笑い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700195/052400004/</link>
+			<description><![CDATA[　竹中工務店は、本社とグループ会社で合計約1万4000人が使うメールサービスとしてOffice 365を利用している。工事現場や取引先などの外出先でOfficeファイルを閲覧できるので、ワークスタイル変革の助けになっているという。一方で、トラブルの影響範囲を掴みにくいなど、難しさも感じているようだ。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>マーケットリーダー宣言、顧客流出進むドコモの焦り（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/053101000/</link>
+			<description><![CDATA[　総務省が2016年4月以降、端末購入補助の適正化を進めた結果、これまでキャッシュバックなどの形で投入されていた販促費が大幅に減り、携帯電話大手3社の営業利益を押し上げた。総務省は販促費の削減分を料金下げに振り向けるとしていたが、物足りない印象だ。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ラズパイで“本物”のUNIXを味わえる「FreeBSD」（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/060100009/</link>
+			<description><![CDATA[　UNIXから派生し、米カリフォルニア大学バークレー校で開発された「BSD」をその祖先とするOS「FreeBSD」。高負荷時の安定性、堅牢性の高いアーキテクチャーを採用している点が特徴です。この本物のUNIXを、4000円台のPCボード「Raspberry Pi（ラズパイ）」で動かせます。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「AIファースト」に突き進む米グーグル、Google Homeは年内に日本上陸（シリコンバレーNextレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/053100110/</link>
+			<description><![CDATA[　新サービスの開発に人工知能（AI）を積極活用する「AIファースト」を掲げる米グーグルがその戦略を加速している。2017年5月17〜19日に米カリフォルニア州マウンテンビューの本社近郊で開いた開発者会議「Google I/O 2017」で、AIを活用した新しいアプリケーションを相次ぎ発表した。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>心が折れても立ち向かっていく方法（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/053000847/</link>
+			<description><![CDATA[　「心が折れる」という言い方がある。壁にぶつかり意欲を失った状態を指すらしい。何かのプロジェクトが難航し、出口が見えない状態で徹夜を強いられたら、意欲を失う危険がある。心が折れても立ち向かっていけるだろうか。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10 Fall Creators Updateでは何が変わるのか（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/053100250/</link>
+			<description><![CDATA[　マイクロソフトは、2017年4月11日から配布中の「Windows 10 Creators Update」（開発コード名はRed Stone 2、以下RS2）の次のアップデートとなる「Windows 10 Fall Creators Update」を2017年後半に出荷する予定だ。本記事では、Insider ProgramやBuild 2017での情報を基にWindows 10 Fall Creators Updateの概要を解説する。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>17時間通信で使い放題のモバイルWi-Fiルーター「ARIA 2」（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/053000057/</link>
+			<description><![CDATA[　FREETELのモバイルWi-Fiルーター「ARIA2」は、2300mAhのバッテリーを搭載し、17時間連続通信が可能になっています。さらに月額3980円で使い放題のプランが用意されています。試用レポートをお届けします。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>オンキヨーが発売　1.8m落下、水没でも壊れないスマホ（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/053100313/</link>
+			<description><![CDATA[　オンキヨー＆パイオニアマーケティグジャパンから耐衝撃・防水のSIMフリースマートフォン「S40」が登場。大型建築機器の「CAT」ブランドを冠した製品で、とにかく頑丈。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>アマゾンで一番人気の「落とし物発見器」が便利だった（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/053100314/</link>
+			<description><![CDATA[　スマホと連携して、モノを落とした場所を記録できる新デジタルガジェット「スマートタグ」。その一番人気の製品の特徴と良しあしを解説しよう。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>パソコンで会議を録音、録画するのに必要な機材とは？（塩田紳二のモバイルトレンド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/053100053/</link>
+			<description><![CDATA[　今回は、パソコンを使って会議の様子などを録音する方法を紹介します。「そんなの簡単」と思っていらっしゃるかもしれませんが、実際には雑音が入ってしまったり、音声が聞きづらくなってしまったりしがちです。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>音もグリグリ回って没入感100％、「VR音響」を実践してみた（山崎潤一郎のデジタル危険地帯）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/080600035/052400034/</link>
+			<description><![CDATA[　ともすれば映像にばかり注意が向くVRだが、最大限の没入感を得るためには、立体的に構築された「音」も大きな役割を果たしていることを忘れてはならない。視野がグリグリと連続的に変化しているのに、周囲の音がステレオのまま定位していたのではシラケテしまうではないか。VR映像には「VR音響」は必須なのだ。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>建設とAIは相思相愛！？今度こそ夢は叶うか（誕生！インフラ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052400004/</link>
+			<description><![CDATA[　社会インフラの建設・管理の領域で、AI（人工知能）が活躍し始めている。社会生活と経済活動を縁の下で支える土木・建築と、クルマの自動運転から医療、囲碁に至るまで何かと話題に事欠かないAI――。はたから見ればミスマッチなカップルのようにも見えるが、その実、両者は相思相愛だ。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
