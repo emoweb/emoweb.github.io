@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>経済産業省の石井芳明氏がクラウドやIoTを活用したベンチャーの重要性をCloud Days 名古屋で強調（Cloud Days 2017レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900220/053100008/</link>
-			<description><![CDATA[2017年5月31日、「Cloud Days 名古屋 2017」で、経済産業省新規産業室の新規事業調整官・石井芳明氏が、クラウドやIoT、ビッグデータ、AIなど新たな技術の進展により変わるビジネス環境とベンチャー企業の重要性、それとともに変わる経産省の取り組みを紹介した。]]></description>
-			<pubDate>Wed, 31 May 2017 15:35:35 +0900</pubDate>
-		</item>
-		<item>
 			<title>「100超のシステムを移行」、三菱東京UFJがAWS活用策明かす（AWS Summit Tokyo 2017レポート）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052600214/053100002/</link>
 			<description><![CDATA[　アマゾン ウェブ サービス ジャパンは2017年5月31日、開発者やユーザー、ベンダーを一堂に会したイベント「AWS Summit Tokyo 2017」の基調講演を実施した。]]></description>
@@ -107,6 +101,12 @@
 			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>建設の現場、AIの力で脱・ブラック（誕生！インフラ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052200001/</link>
+			<description><![CDATA[　建設・インフラの現場で、IT活用による産業革命が始まった。建設や維持管理の分野で、インフラの実務者が大きな期待を寄せているのがAI（人工知能）だ。]]></description>
+			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>日立がサーバーハード製造から完全撤退、開発はメインフレームOSだけ（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/053000998/</link>
 			<description><![CDATA[　日立製作所がサーバーのハードウエア製造から完全撤退することを決めた。販売中の大型メインフレーム「AP8800E」を最後に筐体の開発を中止する。]]></description>
@@ -137,18 +137,6 @@
 			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>どうする？スマートフォンに押し寄せる巨大データ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/052600846/</link>
-			<description><![CDATA[　筆者はMVNO（仮想移動体通信事業者）のサービスを利用しているが、多くの携帯電話サービスと同様に月間の通信容量が決まっている。ルーターが不調のあいだは、通信容量の消費がいつも以上に気になると同時に、スマートフォンの利用は結構Wi-Fi接続頼みであることが分かった。]]></description>
-			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>建設の現場、AIの力で脱・ブラック（誕生！インフラ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052200001/</link>
-			<description><![CDATA[　建設・インフラの現場で、IT活用による産業革命が始まった。建設や維持管理の分野で、インフラの実務者が大きな期待を寄せているのがAI（人工知能）だ。]]></description>
-			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Office 365の良い点残念な点、グーグルに乗り換えた会社が明かす（Office 365で泣き笑い）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700195/053000005/</link>
 			<description><![CDATA[　不動産業のオープンハウスは、Office 365からグーグルのG Suiteに乗り換えた企業である。メールの使い勝手の良さには満足していたものの、同社はメールの数とサイズの大きい添付ファイルが多いためにメールボックス容量に上限があるOffice 365はニーズに合わなかった。]]></description>
@@ -158,6 +146,12 @@
 			<title>FinTechの次は「アグリテック」？ 産官学が普及に向け団結（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/053100999/</link>
 			<description><![CDATA[　内閣府などは2017年5月15日、「農業データ連携基盤（データプラットフォーム）」を創設すると発表した。様々なITベンダーや農業機械メーカーのシステム間で農業に関わるデータを連携・共有しやすくして、農業と先進ITを組み合わせたアグリテックの普及を狙う。]]></description>
+			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>どうする？スマートフォンに押し寄せる巨大データ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/052600846/</link>
+			<description><![CDATA[　筆者はMVNO（仮想移動体通信事業者）のサービスを利用しているが、多くの携帯電話サービスと同様に月間の通信容量が決まっている。ルーターが不調のあいだは、通信容量の消費がいつも以上に気になると同時に、スマートフォンの利用は結構Wi-Fi接続頼みであることが分かった。]]></description>
 			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -266,6 +260,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060101560/</link>
 			<description><![CDATA[　地理情報システム（GIS）専業のマップマーケティングは2017年6月1日、災害時の事業継続計画（BCP）を検証できるシミュレーションソフト「TerraMap BCP」を発売した。地震や液状化などの被害想定から、企業の拠点や取引先、従業員の被災状況を予測。地図上で可視化して分析できる。]]></description>
 			<pubDate>Thu, 01 Jun 2017 14:00:31 +0900</pubDate>
+		</item>
+		<item>
+			<title>ベネフィット・ワン、eラーニングと対面研修の企業向け定額サービス（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060101561/</link>
+			<description><![CDATA[　ベネフィット・ワンは2017年6月1日、定額制の企業向け研修サービス「ベネアカデミー」を開始すると発表した。契約企業の社員は、動画教材によるeラーニングと対面型の研修を、種類や回数の制限なく受講できる。]]></description>
+			<pubDate>Thu, 01 Jun 2017 14:50:48 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
