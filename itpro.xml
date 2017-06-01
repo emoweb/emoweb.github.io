@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：紙とペンが好きな人が手書きノートをデジタル化するには？（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/052700118/?d01</link>
-			<description><![CDATA[　パソコンやスマホが普及し、紙に文字を書く機会がどんどん減っている。僕が物書きになったおよそ30年前には、原稿を手で書いている人が大勢いた。今や原稿はすべてデータで納品するようになった。企画書など、ビジネスの書類でも手書きはほとんど見る機会がない。]]></description>
-			<pubDate>Tue, 30 May 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>富士通が組立工程検討ソフトの新版、現場の改善をデータに即時反映（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/053001541/</link>
-			<description><![CDATA[　富士通は2017年5月30日、設計現場と生産現場をつなぎ、製品の組立工程の改善を支援するソフトウエア「FUJITSU Manufacturing Industry Solution VPS（Virtual Product and Process Simulator）」の新版を、6月1日より販売する。]]></description>
-			<pubDate>Wed, 31 May 2017 10:40:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>「世界のスマホ市場は2017年に回復し、2018年も勢い続く」米社予測（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/053101544/</link>
 			<description><![CDATA[　米IDCが現地時間2017年5月30日に公表したスマートフォン市場リポートによると、同年における世界の年間出荷台数は前年実績から3.0％増加する見通し。]]></description>
@@ -125,6 +113,12 @@
 			<pubDate>Wed, 31 May 2017 22:40:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>周囲の猛反対に合う案こそ本当の解決策（脱出！ 暗闇プロジェクト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/051500067/</link>
+			<description><![CDATA[　パッケージソフト開発・販売のC社は、ユーザー企業のD社に製品を売り込むことに成功した。C社の役員がパッケージソフトの売り物である機能をD社の役員に見せたところ、役員がすっかり気に入り、受注につながった。ところがその機能は確かに便利だが、入力の手間が馬鹿にならないことが判明した。]]></description>
+			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>年収2000万円は当たり前、ただし時給は…（知られざるアクセンチュア）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200206/053000004/</link>
 			<description><![CDATA[　年収が1000万円に達するスピードが最も速い会社であると昔、雑誌に取り上げられたことがある――。あるアクセンチュアのOBはこう話す。]]></description>
@@ -137,15 +131,15 @@
 			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>周囲の猛反対に合う案こそ本当の解決策（脱出！ 暗闇プロジェクト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/051500067/</link>
-			<description><![CDATA[　パッケージソフト開発・販売のC社は、ユーザー企業のD社に製品を売り込むことに成功した。C社の役員がパッケージソフトの売り物である機能をD社の役員に見せたところ、役員がすっかり気に入り、受注につながった。ところがその機能は確かに便利だが、入力の手間が馬鹿にならないことが判明した。]]></description>
+			<title>基幹系の刷新でもIT部門は後回し、デジタル時代に問われる存在意義（焦点を読む）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/053100085/</link>
+			<description><![CDATA[　最近、「IT部門に話を通すのは最後」という声を耳にすることが増えた。何らかの情報システムを導入する際、本来ならIT部門が主導すべきだが、事業部門などとITベンダーとの間で先に話が進む。導入がほぼ決まった段階で、ようやくIT部門に了承を求める。最近、そんなパターンのシステム導入が増えているようだ。]]></description>
 			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>建設の現場、AIの力で脱・ブラック（誕生！インフラ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052200001/</link>
-			<description><![CDATA[　建設・インフラの現場で、IT活用による産業革命が始まった。建設や維持管理の分野で、インフラの実務者が大きな期待を寄せているのがAI（人工知能）だ。]]></description>
+			<title>日立がサーバーハード製造から完全撤退、開発はメインフレームOSだけ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/053000998/</link>
+			<description><![CDATA[　日立製作所がサーバーのハードウエア製造から完全撤退することを決めた。販売中の大型メインフレーム「AP8800E」を最後に筐体の開発を中止する。]]></description>
 			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -173,15 +167,9 @@
 			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>日立がサーバーハード製造から完全撤退、開発はメインフレームOSだけ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/053000998/</link>
-			<description><![CDATA[　日立製作所がサーバーのハードウエア製造から完全撤退することを決めた。販売中の大型メインフレーム「AP8800E」を最後に筐体の開発を中止する。]]></description>
-			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>基幹系の刷新でもIT部門は後回し、デジタル時代に問われる存在意義（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/053100085/</link>
-			<description><![CDATA[　最近、「IT部門に話を通すのは最後」という声を耳にすることが増えた。何らかの情報システムを導入する際、本来ならIT部門が主導すべきだが、事業部門などとITベンダーとの間で先に話が進む。導入がほぼ決まった段階で、ようやくIT部門に了承を求める。最近、そんなパターンのシステム導入が増えているようだ。]]></description>
+			<title>建設の現場、AIの力で脱・ブラック（誕生！インフラ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052200001/</link>
+			<description><![CDATA[　建設・インフラの現場で、IT活用による産業革命が始まった。建設や維持管理の分野で、インフラの実務者が大きな期待を寄せているのがAI（人工知能）だ。]]></description>
 			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -221,6 +209,51 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 01 Jun 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Java 9のリリースが9月に延期へ、モジュール化への懸念に対処（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/060100329/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　「Java 9」のリリースは、予定されていた2017年7月27日から、結局延期されることになるようだ。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/060100329/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Tom Woodward</div>
+</div>
+<p>
+　米OracleのJavaプラットフォームグループでソフトウエア開発担当バイスプレジデントを務め、OpenJDKの理事会の議長でもあるGeorges Saab氏によると、Oracleは「Java 9 Standard Edition（SE）」のリリースを2017年9月まで延期することを提案した。モジュール化を巡って続いている議論に、Java 9の仕様確定を担うオープンソースコミュニティーが対処するためだという。
+</p>
+<p>
+　モジュール化は、Java Development Kit 9（JDK 9）の目玉機能の1つだ。Java Specification Request（JSR）376の「Java Platform Module System」として、承認に向けた手続きが進められてきた。しかしその仕様は、2017年5月のJava Executive Committeeの投票で否決された。反対票を投じたのは、米IBM、米Red Hat、米Twitterなど。開発者にとって支障が大きく、Javaコミュニティーが分断されるとの考えからだ。
+</p>
+<p>
+　JSR 376は、さらなる議論のために、Expert Groupに差し戻された。Saab氏によると、その後Expert Groupは、モジュール化を巡る懸念に対処することで合意した。だが、リリース予定日だった7月27日に間に合うようにJava 9を修正することは不可能だ。
+</p>
+<p>
+　Expert Groupが修正版のJSR 376をExecutive Committeeに提出して承認を得る際には、あらためて2週間の再投票期間が設けられる。JSR 376は、「Project Jigsaw」の機能を規定したもので、Javaをよりスケーラブルにするためのモジュール化を主眼としている。
+</p>
+<p>
+　修正版のJSR 376が想定どおり承認された暁には、それをJava 9 SEの正式版に実装する作業を進められる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/060100329/?ST=cio-appli&P=2">だが、Oracleは今後JavaSEのリリースの...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/060100329/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/060100329/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/060100329/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 01 Jun 2017 10:10:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>AppleのSiri搭載アシスタント機器は製造段階に、米通信社報道（ニュース）</title>
