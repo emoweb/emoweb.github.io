@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>重要顧客への忖度は無用、TISの事業変革が成功する条件とは（木村岳史がITベンダーの新事業を斬る！「共創」十番勝負）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000309/053000012/</link>
+			<description><![CDATA[　「共創」十番勝負 TIS編の第3回は、ベンチャー企業の共創などを通じて人月商売からの脱却を目指すTISの取り組みを、「極言暴論」の木村の眼で斬る。「最もSIerらしいSIer」のTISが改革への道筋をつけられるかが、日本のIT業界の人月商売、多重下請け構造から脱却できるかどうかの試金石になる。]]></description>
+			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>仕様が正しく与えられれば「バグ無し」は可能だ（インタビュー＆トーク）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/053100334/</link>
 			<description><![CDATA[　オブジェクト指向技術を日本でいち早く紹介するなど、ソフトウエア開発の現場における品質向上にこだわり、「バグ無し」開発を追い続けるコンサルタント兼翻訳家の酒匂 寛氏。バグ無し開発の現状について聞いた。]]></description>
@@ -47,21 +53,15 @@
 			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>FinTechの次は「アグリテック」？ 産官学が普及に向け団結（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/053100999/</link>
-			<description><![CDATA[　内閣府などは2017年5月15日、「農業データ連携基盤（データプラットフォーム）」を創設すると発表した。様々なITベンダーや農業機械メーカーのシステム間で農業に関わるデータを連携・共有しやすくして、農業と先進ITを組み合わせたアグリテックの普及を狙う。]]></description>
-			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>重要顧客への忖度は無用、TISの事業変革が成功する条件とは（木村岳史がITベンダーの新事業を斬る！「共創」十番勝負）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000309/053000012/</link>
-			<description><![CDATA[　「共創」十番勝負 TIS編の第3回は、ベンチャー企業の共創などを通じて人月商売からの脱却を目指すTISの取り組みを、「極言暴論」の木村の眼で斬る。「最もSIerらしいSIer」のTISが改革への道筋をつけられるかが、日本のIT業界の人月商売、多重下請け構造から脱却できるかどうかの試金石になる。]]></description>
-			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>周囲の猛反対に合う案こそ本当の解決策（脱出！ 暗闇プロジェクト）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/051500067/</link>
 			<description><![CDATA[　パッケージソフト開発・販売のC社は、ユーザー企業のD社に製品を売り込むことに成功した。C社の役員がパッケージソフトの売り物である機能をD社の役員に見せたところ、役員がすっかり気に入り、受注につながった。ところがその機能は確かに便利だが、入力の手間が馬鹿にならないことが判明した。]]></description>
+			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>FinTechの次は「アグリテック」？ 産官学が普及に向け団結（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/053100999/</link>
+			<description><![CDATA[　内閣府などは2017年5月15日、「農業データ連携基盤（データプラットフォーム）」を創設すると発表した。様々なITベンダーや農業機械メーカーのシステム間で農業に関わるデータを連携・共有しやすくして、農業と先進ITを組み合わせたアグリテックの普及を狙う。]]></description>
 			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -238,15 +238,21 @@
 			<pubDate>Thu, 01 Jun 2017 21:46:39 +0900</pubDate>
 		</item>
 		<item>
+			<title>Office 365の豊富なツールに満足、障害時は「待つしかない」に不満（Office 365で泣き笑い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700195/052400004/</link>
+			<description><![CDATA[　竹中工務店は、本社とグループ会社で合計約1万4000人が使うメールサービスとしてOffice 365を利用している。工事現場や取引先などの外出先でOfficeファイルを閲覧できるので、ワークスタイル変革の助けになっているという。一方で、トラブルの影響範囲を掴みにくいなど、難しさも感じているようだ。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>アクセンチュアの本社はない？（知られざるアクセンチュア）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200206/053100005/</link>
 			<description><![CDATA[　アクセンチュアは世界120カ国以上にサービスを提供しているが、本社はどこにあるのか。]]></description>
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Office 365の豊富なツールに満足、障害時は「待つしかない」に不満（Office 365で泣き笑い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700195/052400004/</link>
-			<description><![CDATA[　竹中工務店は、本社とグループ会社で合計約1万4000人が使うメールサービスとしてOffice 365を利用している。工事現場や取引先などの外出先でOfficeファイルを閲覧できるので、ワークスタイル変革の助けになっているという。一方で、トラブルの影響範囲を掴みにくいなど、難しさも感じているようだ。]]></description>
+			<title>音もグリグリ回って没入感100％、「VR音響」を実践してみた（山崎潤一郎のデジタル危険地帯）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/080600035/052400034/</link>
+			<description><![CDATA[　ともすれば映像にばかり注意が向くVRだが、最大限の没入感を得るためには、立体的に構築された「音」も大きな役割を果たしていることを忘れてはならない。視野がグリグリと連続的に変化しているのに、周囲の音がステレオのまま定位していたのではシラケテしまうではないか。VR映像には「VR音響」は必須なのだ。]]></description>
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -304,16 +310,51 @@
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>音もグリグリ回って没入感100％、「VR音響」を実践してみた（山崎潤一郎のデジタル危険地帯）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/080600035/052400034/</link>
-			<description><![CDATA[　ともすれば映像にばかり注意が向くVRだが、最大限の没入感を得るためには、立体的に構築された「音」も大きな役割を果たしていることを忘れてはならない。視野がグリグリと連続的に変化しているのに、周囲の音がステレオのまま定位していたのではシラケテしまうではないか。VR映像には「VR音響」は必須なのだ。]]></description>
-			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>建設とAIは相思相愛！？今度こそ夢は叶うか（誕生！インフラ×AI 業界地図）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052400004/</link>
 			<description><![CDATA[　社会インフラの建設・管理の領域で、AI（人工知能）が活躍し始めている。社会生活と経済活動を縁の下で支える土木・建築と、クルマの自動運転から医療、囲碁に至るまで何かと話題に事欠かないAI――。はたから見ればミスマッチなカップルのようにも見えるが、その実、両者は相思相愛だ。]]></description>
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>セキュリティ関連のスタートアップ、成功への鍵は（下）（セキュリティ関連のスタートアップ、成功への鍵は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/052400039/052400003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　起業は常に賭けである。だが、スタートアップでうまくいきそうな分野を選べと言われたら、きっとサイバーセキュリティを選ぶことだろう。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/052400039/052400002/" target="_blank">前回</a>から続く）</p>
+
+<h4>スタートアップが直面する課題</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/052400039/052400003/ph3.jpg" width="300" alt="" title=""></div></div>
+
+<p>　セキュリティ企業は数々の試練に直面する。限られたリソースで最も熱い市場に破壊的変化をもたらそうとしているスタートアップとあればなおさらだ。</p>
+
+<p>　PanaseerのWhitfield氏は、自らが直面している試練の1つとして、「優れたアイデアは真似されるのが常だ。違いが表れるのは、遂行の質だ」と話す。</p>
+
+<p>　Amadeus Capital Partnersのvan Someren氏も似た考えのようだ。「サイバーセキュリティでスタートアップが成功するための鍵は、重要な中心領域のいずれかでイノベーションを実現する点にある。古い問題の焼き直しではいけない」</p>
+
+<p>　同氏がとりわけ関心を示しているのは、AIと機械学習についてだが、「効能の証拠はほんのわずかだ」という。一方で、それ以上に同氏が関心を寄せているのは、データ・ディスカバリー・ツール、EU（欧州連合）データ保護規則（GDPR）のコンプライアンス・ツール、リスク分析、リスクモデリングを手がけるスタートアップだ。</p>
+
+<p>　また、自らの市場をきちんと理解しているスタートアップがあまりに少ないと同氏は話す。「どのような問題を解決しようとしているのか、市場規模はどこまで拡大しそうか、なぜこのチームが適切なのか、といった点についての簡潔な説明を、時間をかけて構築することが、決定的に重要だ」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/052400039/052400003/?ST=cio-security&P=2">Modi氏も同じ考えだ。「大半のスタートアップは...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/052400039/052400003/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/052400039/052400003/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/052400039/052400003/?ST=cio-security&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/052400039/052400003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 02 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
