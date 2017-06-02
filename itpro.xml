@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>巨大地震で止まる事業はどれ？ 地図で手軽にBCPを検証するソフトが登場（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060101560/</link>
-			<description><![CDATA[　地理情報システム（GIS）専業のマップマーケティングは2017年6月1日、災害時の事業継続計画（BCP）を検証できるシミュレーションソフト「TerraMap BCP」を発売した。地震や液状化などの被害想定から、企業の拠点や取引先、従業員の被災状況を予測。地図上で可視化して分析できる。]]></description>
-			<pubDate>Thu, 01 Jun 2017 14:00:31 +0900</pubDate>
-		</item>
-		<item>
-			<title>ベネフィット・ワン、eラーニングと対面研修の企業向け定額サービス（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060101561/</link>
-			<description><![CDATA[　ベネフィット・ワンは2017年6月1日、定額制の企業向け研修サービス「ベネアカデミー」を開始すると発表した。契約企業の社員は、動画教材によるeラーニングと対面型の研修を、種類や回数の制限なく受講できる。]]></description>
-			<pubDate>Thu, 01 Jun 2017 14:50:48 +0900</pubDate>
-		</item>
-		<item>
 			<title>UQモバイルが「UQ家族割」を発表、docomo withより安いとアピール（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060101563/</link>
 			<description><![CDATA[　　UQコミュニケーションズは2017年6月1日、都内で夏商戦に向けた発表会を開催し、「家族割」などの新サービスや2機種の新端末、6月8日から放映する新CMなどを発表した。]]></description>
@@ -77,6 +65,18 @@
 			<pubDate>Thu, 01 Jun 2017 21:46:39 +0900</pubDate>
 		</item>
 		<item>
+			<title>建設とAIは相思相愛！？今度こそ夢は叶うか（誕生！インフラ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052400004/</link>
+			<description><![CDATA[　社会インフラの建設・管理の領域で、AI（人工知能）が活躍し始めている。社会生活と経済活動を縁の下で支える土木・建築と、クルマの自動運転から医療、囲碁に至るまで何かと話題に事欠かないAI――。はたから見ればミスマッチなカップルのようにも見えるが、その実、両者は相思相愛だ。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10 Fall Creators Updateでは何が変わるのか（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/053100250/</link>
+			<description><![CDATA[　マイクロソフトは、2017年4月11日から配布中の「Windows 10 Creators Update」（開発コード名はRed Stone 2、以下RS2）の次のアップデートとなる「Windows 10 Fall Creators Update」を2017年後半に出荷する予定だ。本記事では、Insider ProgramやBuild 2017での情報を基にWindows 10 Fall Creators Updateの概要を解説する。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>17時間通信で使い放題のモバイルWi-Fiルーター「ARIA 2」（伊藤浩一のモバイルライフ応援日記）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/053000057/</link>
 			<description><![CDATA[　FREETELのモバイルWi-Fiルーター「ARIA2」は、2300mAhのバッテリーを搭載し、17時間連続通信が可能になっています。さらに月額3980円で使い放題のプランが用意されています。試用レポートをお届けします。]]></description>
@@ -89,9 +89,9 @@
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>アマゾンで一番人気の「落とし物発見器」が便利だった（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/053100314/</link>
-			<description><![CDATA[　スマホと連携して、モノを落とした場所を記録できる新デジタルガジェット「スマートタグ」。その一番人気の製品の特徴と良しあしを解説しよう。]]></description>
+			<title>ラズパイで“本物”のUNIXを味わえる「FreeBSD」（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/060100009/</link>
+			<description><![CDATA[　UNIXから派生し、米カリフォルニア大学バークレー校で開発された「BSD」をその祖先とするOS「FreeBSD」。高負荷時の安定性、堅牢性の高いアーキテクチャーを採用している点が特徴です。この本物のUNIXを、4000円台のPCボード「Raspberry Pi（ラズパイ）」で動かせます。]]></description>
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,9 +101,9 @@
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>建設とAIは相思相愛！？今度こそ夢は叶うか（誕生！インフラ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052400004/</link>
-			<description><![CDATA[　社会インフラの建設・管理の領域で、AI（人工知能）が活躍し始めている。社会生活と経済活動を縁の下で支える土木・建築と、クルマの自動運転から医療、囲碁に至るまで何かと話題に事欠かないAI――。はたから見ればミスマッチなカップルのようにも見えるが、その実、両者は相思相愛だ。]]></description>
+			<title>「AIファースト」に突き進む米グーグル、Google Homeは年内に日本上陸（シリコンバレーNextレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/053100110/</link>
+			<description><![CDATA[　新サービスの開発に人工知能（AI）を積極活用する「AIファースト」を掲げる米グーグルがその戦略を加速している。2017年5月17〜19日に米カリフォルニア州マウンテンビューの本社近郊で開いた開発者会議「Google I/O 2017」で、AIを活用した新しいアプリケーションを相次ぎ発表した。]]></description>
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -137,21 +137,9 @@
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ラズパイで“本物”のUNIXを味わえる「FreeBSD」（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/060100009/</link>
-			<description><![CDATA[　UNIXから派生し、米カリフォルニア大学バークレー校で開発された「BSD」をその祖先とするOS「FreeBSD」。高負荷時の安定性、堅牢性の高いアーキテクチャーを採用している点が特徴です。この本物のUNIXを、4000円台のPCボード「Raspberry Pi（ラズパイ）」で動かせます。]]></description>
-			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「AIファースト」に突き進む米グーグル、Google Homeは年内に日本上陸（シリコンバレーNextレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/053100110/</link>
-			<description><![CDATA[　新サービスの開発に人工知能（AI）を積極活用する「AIファースト」を掲げる米グーグルがその戦略を加速している。2017年5月17〜19日に米カリフォルニア州マウンテンビューの本社近郊で開いた開発者会議「Google I/O 2017」で、AIを活用した新しいアプリケーションを相次ぎ発表した。]]></description>
-			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows 10 Fall Creators Updateでは何が変わるのか（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/053100250/</link>
-			<description><![CDATA[　マイクロソフトは、2017年4月11日から配布中の「Windows 10 Creators Update」（開発コード名はRed Stone 2、以下RS2）の次のアップデートとなる「Windows 10 Fall Creators Update」を2017年後半に出荷する予定だ。本記事では、Insider ProgramやBuild 2017での情報を基にWindows 10 Fall Creators Updateの概要を解説する。]]></description>
+			<title>アマゾンで一番人気の「落とし物発見器」が便利だった（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/053100314/</link>
+			<description><![CDATA[　スマホと連携して、モノを落とした場所を記録できる新デジタルガジェット「スマートタグ」。その一番人気の製品の特徴と良しあしを解説しよう。]]></description>
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -263,6 +251,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060201573/</link>
 			<description><![CDATA[　シスコシステムズは2017年6月2日、「デジタル変革に向けたビジネスモデル」と題した説明会を開催した。同社はスイスのビジネススクールであるIMDと共同で、デジタル変革に関する研究と経営幹部向けワークショップを進めている。説明会ではその内容の要約を紹介した。]]></description>
 			<pubDate>Fri, 02 Jun 2017 14:42:43 +0900</pubDate>
+		</item>
+		<item>
+			<title>スタートアップ3社のCTO、米アマゾンのCTOを前にプレゼン（AWS Summit Tokyo 2017レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052600214/060200010/</link>
+			<description><![CDATA[　「Startup CTO Night with Amazon CTO」と題するセッションが2017年6月1日に開催された。スタートアップ3社のCTO（最高技術責任者）によるプレゼンテーションに対して、米アマゾン・ドット・コムのバーナー・ボーガスCTOがコメントするという内容だ。]]></description>
+			<pubDate>Fri, 02 Jun 2017 15:50:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「保証期間内で軽度のデータ復旧なら無償対応」、バッファローが価格破壊の深層語る（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060201574/</link>
+			<description><![CDATA[　バッファローは2017年6月2日、データ復旧事業参入に関する説明会を開いた。データ復旧施設の一部を報道陣向けに公開。その席上で、同社が「自社製品の保証期間内であれば、軽度の論理障害は無償で復旧する」という価格破壊を仕掛ける理由を語った。]]></description>
+			<pubDate>Fri, 02 Jun 2017 16:09:59 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
