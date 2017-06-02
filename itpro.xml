@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>ソフトバンクがインダストリアルIoTを手掛ける米OSIsoftに出資（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060101559/</link>
-			<description><![CDATA[　米OSIsoftは2017年5月31日（米国時間）、同社にソフトバンクグループが出資したと発表した。OSIsoftは1980年に設立したインダストリアルIoT（Internet of Things）分野のソフトウエアベンダーで、センサーデータをリアルタイムに収集・分析する「PI System」などを販売している。]]></description>
-			<pubDate>Thu, 01 Jun 2017 13:44:13 +0900</pubDate>
-		</item>
-		<item>
 			<title>巨大地震で止まる事業はどれ？ 地図で手軽にBCPを検証するソフトが登場（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060101560/</link>
 			<description><![CDATA[　地理情報システム（GIS）専業のマップマーケティングは2017年6月1日、災害時の事業継続計画（BCP）を検証できるシミュレーションソフト「TerraMap BCP」を発売した。地震や液状化などの被害想定から、企業の拠点や取引先、従業員の被災状況を予測。地図上で可視化して分析できる。]]></description>
@@ -83,6 +77,12 @@
 			<pubDate>Thu, 01 Jun 2017 21:46:39 +0900</pubDate>
 		</item>
 		<item>
+			<title>17時間通信で使い放題のモバイルWi-Fiルーター「ARIA 2」（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/053000057/</link>
+			<description><![CDATA[　FREETELのモバイルWi-Fiルーター「ARIA2」は、2300mAhのバッテリーを搭載し、17時間連続通信が可能になっています。さらに月額3980円で使い放題のプランが用意されています。試用レポートをお届けします。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>パソコンで会議を録音、録画するのに必要な機材とは？（塩田紳二のモバイルトレンド）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/053100053/</link>
 			<description><![CDATA[　今回は、パソコンを使って会議の様子などを録音する方法を紹介します。「そんなの簡単」と思っていらっしゃるかもしれませんが、実際には雑音が入ってしまったり、音声が聞きづらくなってしまったりしがちです。]]></description>
@@ -95,15 +95,15 @@
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Windows 10 Fall Creators Updateでは何が変わるのか（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/053100250/</link>
-			<description><![CDATA[　マイクロソフトは、2017年4月11日から配布中の「Windows 10 Creators Update」（開発コード名はRed Stone 2、以下RS2）の次のアップデートとなる「Windows 10 Fall Creators Update」を2017年後半に出荷する予定だ。本記事では、Insider ProgramやBuild 2017での情報を基にWindows 10 Fall Creators Updateの概要を解説する。]]></description>
+			<title>心が折れても立ち向かっていく方法（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/053000847/</link>
+			<description><![CDATA[　「心が折れる」という言い方がある。壁にぶつかり意欲を失った状態を指すらしい。何かのプロジェクトが難航し、出口が見えない状態で徹夜を強いられたら、意欲を失う危険がある。心が折れても立ち向かっていけるだろうか。]]></description>
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>17時間通信で使い放題のモバイルWi-Fiルーター「ARIA 2」（伊藤浩一のモバイルライフ応援日記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/053000057/</link>
-			<description><![CDATA[　FREETELのモバイルWi-Fiルーター「ARIA2」は、2300mAhのバッテリーを搭載し、17時間連続通信が可能になっています。さらに月額3980円で使い放題のプランが用意されています。試用レポートをお届けします。]]></description>
+			<title>建設とAIは相思相愛！？今度こそ夢は叶うか（誕生！インフラ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052400004/</link>
+			<description><![CDATA[　社会インフラの建設・管理の領域で、AI（人工知能）が活躍し始めている。社会生活と経済活動を縁の下で支える土木・建築と、クルマの自動運転から医療、囲碁に至るまで何かと話題に事欠かないAI――。はたから見ればミスマッチなカップルのようにも見えるが、その実、両者は相思相愛だ。]]></description>
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -149,15 +149,9 @@
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>心が折れても立ち向かっていく方法（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/053000847/</link>
-			<description><![CDATA[　「心が折れる」という言い方がある。壁にぶつかり意欲を失った状態を指すらしい。何かのプロジェクトが難航し、出口が見えない状態で徹夜を強いられたら、意欲を失う危険がある。心が折れても立ち向かっていけるだろうか。]]></description>
-			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>建設とAIは相思相愛！？今度こそ夢は叶うか（誕生！インフラ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/052400004/</link>
-			<description><![CDATA[　社会インフラの建設・管理の領域で、AI（人工知能）が活躍し始めている。社会生活と経済活動を縁の下で支える土木・建築と、クルマの自動運転から医療、囲碁に至るまで何かと話題に事欠かないAI――。はたから見ればミスマッチなカップルのようにも見えるが、その実、両者は相思相愛だ。]]></description>
+			<title>Windows 10 Fall Creators Updateでは何が変わるのか（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/053100250/</link>
+			<description><![CDATA[　マイクロソフトは、2017年4月11日から配布中の「Windows 10 Creators Update」（開発コード名はRed Stone 2、以下RS2）の次のアップデートとなる「Windows 10 Fall Creators Update」を2017年後半に出荷する予定だ。本記事では、Insider ProgramやBuild 2017での情報を基にWindows 10 Fall Creators Updateの概要を解説する。]]></description>
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -263,6 +257,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060201572/</link>
 			<description><![CDATA[　米アップルは現地時間2017年6月1日、プログラミング言語「Swift」を学習するためのアプリケーション「Swift Playgrounds」で、ロボットやドローンなどを制御できるようにすると発表した。]]></description>
 			<pubDate>Fri, 02 Jun 2017 13:23:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「3年で破壊が起こりトップ企業の4割は淘汰される」、シスコが大胆予測（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060201573/</link>
+			<description><![CDATA[　シスコシステムズは2017年6月2日、「デジタル変革に向けたビジネスモデル」と題した説明会を開催した。同社はスイスのビジネススクールであるIMDと共同で、デジタル変革に関する研究と経営幹部向けワークショップを進めている。説明会ではその内容の要約を紹介した。]]></description>
+			<pubDate>Fri, 02 Jun 2017 14:42:43 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
