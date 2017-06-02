@@ -11,12 +11,6 @@
 			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>クックパッド、料理写真の自動抽出を支える「機械学習基盤」を解説（AWS Summit Tokyo 2017レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052600214/060100007/</link>
-			<description><![CDATA[　クックパッドは2017年6月1日、アマゾン ウェブ サービス ジャパン主催の年次イベント「AWS Summit Tokyo 2017」で講演し、同社の研究開発を支えるAWS基盤について紹介した。]]></description>
-			<pubDate>Thu, 01 Jun 2017 18:45:16 +0900</pubDate>
-		</item>
-		<item>
 			<title>「AWSがIaaSというのは古い考え」、Amazon.comのボーガスCTOが強調（AWS Summit Tokyo 2017レポート）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052600214/060100008/</link>
 			<description><![CDATA[　米Amazon Web Services（AWS）の親会社である米Amazon.comでCTO（最高技術責任者）を務めるバーナー・ボーガス氏は「AWS Summit Tokyo 2017」の基調講演に登壇。最近のAWSの機能強化のポイントや、他社との差異化について講演した。]]></description>
@@ -53,15 +47,21 @@
 			<pubDate>Thu, 01 Jun 2017 21:46:39 +0900</pubDate>
 		</item>
 		<item>
+			<title>心が折れても立ち向かっていく方法（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/053000847/</link>
+			<description><![CDATA[　「心が折れる」という言い方がある。壁にぶつかり意欲を失った状態を指すらしい。何かのプロジェクトが難航し、出口が見えない状態で徹夜を強いられたら、意欲を失う危険がある。心が折れても立ち向かっていけるだろうか。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>アマゾンで一番人気の「落とし物発見器」が便利だった（週末スペシャル）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/053100314/</link>
 			<description><![CDATA[　スマホと連携して、モノを落とした場所を記録できる新デジタルガジェット「スマートタグ」。その一番人気の製品の特徴と良しあしを解説しよう。]]></description>
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>心が折れても立ち向かっていく方法（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/053000847/</link>
-			<description><![CDATA[　「心が折れる」という言い方がある。壁にぶつかり意欲を失った状態を指すらしい。何かのプロジェクトが難航し、出口が見えない状態で徹夜を強いられたら、意欲を失う危険がある。心が折れても立ち向かっていけるだろうか。]]></description>
+			<title>音もグリグリ回って没入感100％、「VR音響」を実践してみた（山崎潤一郎のデジタル危険地帯）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/080600035/052400034/</link>
+			<description><![CDATA[　ともすれば映像にばかり注意が向くVRだが、最大限の没入感を得るためには、立体的に構築された「音」も大きな役割を果たしていることを忘れてはならない。視野がグリグリと連続的に変化しているのに、周囲の音がステレオのまま定位していたのではシラケテしまうではないか。VR映像には「VR音響」は必須なのだ。]]></description>
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ラズパイで“本物”のUNIXを味わえる「FreeBSD」（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/060100009/</link>
-			<description><![CDATA[　UNIXから派生し、米カリフォルニア大学バークレー校で開発された「BSD」をその祖先とするOS「FreeBSD」。高負荷時の安定性、堅牢性の高いアーキテクチャーを採用している点が特徴です。この本物のUNIXを、4000円台のPCボード「Raspberry Pi（ラズパイ）」で動かせます。]]></description>
+			<title>Office 365の豊富なツールに満足、障害時は「待つしかない」に不満（Office 365で泣き笑い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700195/052400004/</link>
+			<description><![CDATA[　竹中工務店は、本社とグループ会社で合計約1万4000人が使うメールサービスとしてOffice 365を利用している。工事現場や取引先などの外出先でOfficeファイルを閲覧できるので、ワークスタイル変革の助けになっているという。一方で、トラブルの影響範囲を掴みにくいなど、難しさも感じているようだ。]]></description>
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>音もグリグリ回って没入感100％、「VR音響」を実践してみた（山崎潤一郎のデジタル危険地帯）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/080600035/052400034/</link>
-			<description><![CDATA[　ともすれば映像にばかり注意が向くVRだが、最大限の没入感を得るためには、立体的に構築された「音」も大きな役割を果たしていることを忘れてはならない。視野がグリグリと連続的に変化しているのに、周囲の音がステレオのまま定位していたのではシラケテしまうではないか。VR映像には「VR音響」は必須なのだ。]]></description>
+			<title>パソコンで会議を録音、録画するのに必要な機材とは？（塩田紳二のモバイルトレンド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/053100053/</link>
+			<description><![CDATA[　今回は、パソコンを使って会議の様子などを録音する方法を紹介します。「そんなの簡単」と思っていらっしゃるかもしれませんが、実際には雑音が入ってしまったり、音声が聞きづらくなってしまったりしがちです。]]></description>
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -119,15 +119,9 @@
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Office 365の豊富なツールに満足、障害時は「待つしかない」に不満（Office 365で泣き笑い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700195/052400004/</link>
-			<description><![CDATA[　竹中工務店は、本社とグループ会社で合計約1万4000人が使うメールサービスとしてOffice 365を利用している。工事現場や取引先などの外出先でOfficeファイルを閲覧できるので、ワークスタイル変革の助けになっているという。一方で、トラブルの影響範囲を掴みにくいなど、難しさも感じているようだ。]]></description>
-			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>パソコンで会議を録音、録画するのに必要な機材とは？（塩田紳二のモバイルトレンド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/053100053/</link>
-			<description><![CDATA[　今回は、パソコンを使って会議の様子などを録音する方法を紹介します。「そんなの簡単」と思っていらっしゃるかもしれませんが、実際には雑音が入ってしまったり、音声が聞きづらくなってしまったりしがちです。]]></description>
+			<title>ラズパイで“本物”のUNIXを味わえる「FreeBSD」（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/060100009/</link>
+			<description><![CDATA[　UNIXから派生し、米カリフォルニア大学バークレー校で開発された「BSD」をその祖先とするOS「FreeBSD」。高負荷時の安定性、堅牢性の高いアーキテクチャーを採用している点が特徴です。この本物のUNIXを、4000円台のPCボード「Raspberry Pi（ラズパイ）」で動かせます。]]></description>
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -269,6 +263,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060201576/</link>
 			<description><![CDATA[　IDC Japanは2017年6月2日、国内IT市場における産業分野別および企業規模別の2017～2021年の市場規模予測を発表した。2017年の国内IT市場規模は前年比2.0％増の14兆9891億円との見通しだった。]]></description>
 			<pubDate>Fri, 02 Jun 2017 18:05:11 +0900</pubDate>
+		</item>
+		<item>
+			<title>「AIは既に人間の脳の限界を超えている」、茂木健一郎氏（AWS Summit Tokyo 2017レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052600214/060200012/</link>
+			<description><![CDATA[　「シンギュラリティはもう来てしまっている」。脳科学者の茂木健一郎氏は2017年6月2日「AWS Summit Tokyo 2017」で講演した。AI（人工知能）は既に部分的に人間の能力を上回っているという見解を示した。]]></description>
+			<pubDate>Fri, 02 Jun 2017 18:36:53 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
