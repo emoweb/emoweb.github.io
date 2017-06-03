@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：年収2000万円は当たり前、ただし時給は…（知られざるアクセンチュア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200206/053000004/?d02</link>
-			<description><![CDATA[　年収が1000万円に達するスピードが最も速い会社であると昔、雑誌に取り上げられたことがある――。あるアクセンチュアのOBはこう話す。]]></description>
-			<pubDate>Thu, 01 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>NECプラットフォームズ、11ac無線LANルーター「Aterm」の低価格モデル（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060101565/</link>
-			<description><![CDATA[　NECプラットフォームズは2017年6月1日、IEEE 802.11ac対応無線LANルーターの2ストリームの標準モデル「Aterm WG1200HS2」および普及モデル「Aterm WF1200CR」を6月8日に発売すると発表した。価格はオープン。]]></description>
-			<pubDate>Thu, 01 Jun 2017 20:40:23 +0900</pubDate>
-		</item>
-		<item>
 			<title>日本MS、SAP向けベアメタルサービスなどAzureの機能を拡張（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060101566/</link>
 			<description><![CDATA[　日本マイクロソフトは2017年6月1日、クラウドサービス「Microsoft Azure」において大容量メモリーを搭載した仮想マシンインスタンスとベアメタル（物理サーバー）サービスを、2017年12月末までに提供開始すると発表した。]]></description>
@@ -41,6 +29,12 @@
 			<pubDate>Thu, 01 Jun 2017 21:46:39 +0900</pubDate>
 		</item>
 		<item>
+			<title>ラズパイで“本物”のUNIXを味わえる「FreeBSD」（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/060100009/</link>
+			<description><![CDATA[　UNIXから派生し、米カリフォルニア大学バークレー校で開発された「BSD」をその祖先とするOS「FreeBSD」。高負荷時の安定性、堅牢性の高いアーキテクチャーを採用している点が特徴です。この本物のUNIXを、4000円台のPCボード「Raspberry Pi（ラズパイ）」で動かせます。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>アマゾンで一番人気の「落とし物発見器」が便利だった（週末スペシャル）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/053100314/</link>
 			<description><![CDATA[　スマホと連携して、モノを落とした場所を記録できる新デジタルガジェット「スマートタグ」。その一番人気の製品の特徴と良しあしを解説しよう。]]></description>
@@ -59,9 +53,9 @@
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ラズパイで“本物”のUNIXを味わえる「FreeBSD」（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/060100009/</link>
-			<description><![CDATA[　UNIXから派生し、米カリフォルニア大学バークレー校で開発された「BSD」をその祖先とするOS「FreeBSD」。高負荷時の安定性、堅牢性の高いアーキテクチャーを採用している点が特徴です。この本物のUNIXを、4000円台のPCボード「Raspberry Pi（ラズパイ）」で動かせます。]]></description>
+			<title>Office 365の豊富なツールに満足、障害時は「待つしかない」に不満（Office 365で泣き笑い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700195/052400004/</link>
+			<description><![CDATA[　竹中工務店は、本社とグループ会社で合計約1万4000人が使うメールサービスとしてOffice 365を利用している。工事現場や取引先などの外出先でOfficeファイルを閲覧できるので、ワークスタイル変革の助けになっているという。一方で、トラブルの影響範囲を掴みにくいなど、難しさも感じているようだ。]]></description>
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,21 +95,15 @@
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「AIファースト」に突き進む米グーグル、Google Homeは年内に日本上陸（シリコンバレーNextレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/053100110/</link>
-			<description><![CDATA[　新サービスの開発に人工知能（AI）を積極活用する「AIファースト」を掲げる米グーグルがその戦略を加速している。2017年5月17〜19日に米カリフォルニア州マウンテンビューの本社近郊で開いた開発者会議「Google I/O 2017」で、AIを活用した新しいアプリケーションを相次ぎ発表した。]]></description>
-			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Office 365の豊富なツールに満足、障害時は「待つしかない」に不満（Office 365で泣き笑い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700195/052400004/</link>
-			<description><![CDATA[　竹中工務店は、本社とグループ会社で合計約1万4000人が使うメールサービスとしてOffice 365を利用している。工事現場や取引先などの外出先でOfficeファイルを閲覧できるので、ワークスタイル変革の助けになっているという。一方で、トラブルの影響範囲を掴みにくいなど、難しさも感じているようだ。]]></description>
-			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>オンキヨーが発売　1.8m落下、水没でも壊れないスマホ（週末スペシャル）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/053100313/</link>
 			<description><![CDATA[　オンキヨー＆パイオニアマーケティグジャパンから耐衝撃・防水のSIMフリースマートフォン「S40」が登場。大型建築機器の「CAT」ブランドを冠した製品で、とにかく頑丈。]]></description>
+			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「AIファースト」に突き進む米グーグル、Google Homeは年内に日本上陸（シリコンバレーNextレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/053100110/</link>
+			<description><![CDATA[　新サービスの開発に人工知能（AI）を積極活用する「AIファースト」を掲げる米グーグルがその戦略を加速している。2017年5月17〜19日に米カリフォルニア州マウンテンビューの本社近郊で開いた開発者会議「Google I/O 2017」で、AIを活用した新しいアプリケーションを相次ぎ発表した。]]></description>
 			<pubDate>Fri, 02 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -275,6 +263,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900218/060200007/</link>
 			<description><![CDATA[　台湾ASUSTeK Computerは2017年5月30日から6月3日まで台北で開催中の「COMPUTEX TAIPEI 2017」に大型のブースを出展した。ノートPCのほか、新製品ライブ機能に特化したスマートフォン「ZenFone」やタッチ操作できるプロジェクターなどを展示した。]]></description>
 			<pubDate>Fri, 02 Jun 2017 21:13:55 +0900</pubDate>
+		</item>
+		<item>
+			<title>AT＆TがBrocadeからルーターソフト「Vyatta」の資産を買収（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060301578/</link>
+			<description><![CDATA[　米AT＆Tは2017年6月2日（米国時間）、米Brocade Communications Systemsからネットワークソフトウエア「Vyatta」の資産などを買収すると発表した。AT＆Tが推進する「ネットワーク仮想化」の取り組みを加速するのが狙いだ。買収は2017年夏に完了する予定。]]></description>
+			<pubDate>Sat, 03 Jun 2017 17:07:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
