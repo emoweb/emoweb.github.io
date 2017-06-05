@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>New Education Expo 2017開幕、3Dスキャナー付きPCやプログラミング教材など展示（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060201570/</link>
-			<description><![CDATA[　教育関連の総合イベント「New Education Expo 2017 in 東京」が、2017年6月1日に東京・江東区有明で開幕した。会期は3日間で、約140社がICT（情報通信技術）活用教育に関連する製品やサービスを展示する。]]></description>
-			<pubDate>Fri, 02 Jun 2017 09:57:58 +0900</pubDate>
-		</item>
-		<item>
 			<title>機械学習で怪しいメールを検出、法人向けGmailがセキュリティ強化（Computerworldニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060200375/</link>
 			<description><![CDATA[<div>
@@ -122,21 +116,27 @@
 			<pubDate>Sat, 03 Jun 2017 17:07:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>「10人応援を頼んでも2人しか来ない」IT現場の悲鳴（人手不足を乗り切る）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900202/051900001/</link>
+			<description><![CDATA[　ITの現場で人手不足が顕著になっている。現場からは「パートナー企業に10人の応援を要請しても2、3人しか集まらない」「計画を立てた直後に中核メンバーを他のプロジェクトに取られた」といった悲鳴が上がる。だが、そんな逆境さえも前向きに捉え、人手不足を乗り切るリーダーも確かにいる。]]></description>
+			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>保育園が決まらず、「復帰できるか」と不安になったことも（わたしの働き方改革）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/051700009/</link>
 			<description><![CDATA[　子供を持つ働く女性にとって大切な存在といえば保育園。日本IBMの竹田千恵氏は過去、保育園探しに苦労したという。そんな彼女は今年から、女性が活躍しやすくなるような活動にも力を入れ始めた。]]></description>
 			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>逃げ出した猫を探す、追尾ミサイルの手法でBluetoothの限界に挑む（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/053100848/</link>
-			<description><![CDATA[　猫が家から逃げ出した──。猫を飼っている人にとって、けがや病気に次ぐ心配事だ。IoTが普及しつつある今、そんなときの備えになる技術的な対策は何か無いのだろうか。]]></description>
+			<title>コンサルは経営者になぜ会える？ IT部門とSIerの妄想の愚かさ（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/060100141/</link>
+			<description><![CDATA[　「コンサルタントが社長にあらぬことを吹き込むから……」。大企業の基幹系システムの刷新プロジェクトなどの際、システム部長らのボヤキの定番である。では、なぜコンサルタントは社長に会えたのか。その謎を解き明かそう。]]></description>
 			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「10人応援を頼んでも2人しか来ない」IT現場の悲鳴（人手不足を乗り切る）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900202/051900001/</link>
-			<description><![CDATA[　ITの現場で人手不足が顕著になっている。現場からは「パートナー企業に10人の応援を要請しても2、3人しか集まらない」「計画を立てた直後に中核メンバーを他のプロジェクトに取られた」といった悲鳴が上がる。だが、そんな逆境さえも前向きに捉え、人手不足を乗り切るリーダーも確かにいる。]]></description>
+			<title>気象予測をWatsonに“食わせて”儲けるIBM（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060101001/</link>
+			<description><![CDATA[　「既にユーザー企業との契約がいくつかある」。日本IBMの加藤陽一ワトソン事業部ビジネス推進部長兼The Weather Company担当は、2017年3月13日から国内で販売が始まった気象予測データ提供についてこう話した。サービス開始から2カ月の時点で、試験導入ではなく長期契約を想定した本格採用があったという。]]></description>
 			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -194,15 +194,9 @@
 			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>コンサルは経営者になぜ会える？ IT部門とSIerの妄想の愚かさ（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/060100141/</link>
-			<description><![CDATA[　「コンサルタントが社長にあらぬことを吹き込むから……」。大企業の基幹系システムの刷新プロジェクトなどの際、システム部長らのボヤキの定番である。では、なぜコンサルタントは社長に会えたのか。その謎を解き明かそう。]]></description>
-			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>気象予測をWatsonに“食わせて”儲けるIBM（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060101001/</link>
-			<description><![CDATA[　「既にユーザー企業との契約がいくつかある」。日本IBMの加藤陽一ワトソン事業部ビジネス推進部長兼The Weather Company担当は、2017年3月13日から国内で販売が始まった気象予測データ提供についてこう話した。サービス開始から2カ月の時点で、試験導入ではなく長期契約を想定した本格採用があったという。]]></description>
+			<title>逃げ出した猫を探す、追尾ミサイルの手法でBluetoothの限界に挑む（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/053100848/</link>
+			<description><![CDATA[　猫が家から逃げ出した──。猫を飼っている人にとって、けがや病気に次ぐ心配事だ。IoTが普及しつつある今、そんなときの備えになる技術的な対策は何か無いのだろうか。]]></description>
 			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -283,6 +277,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060501580/</link>
 			<description><![CDATA[　米国におけるGoogle Play利用者のアプリダウンロード数は、iPhone利用者のそれに比べて多い。しかしGoogle Play利用者のアプリに支出する金額は、iPhone利用者を下回っている。こうしたリポートをモバイルアプリのマーケティング会社、米Sensor Towerが現地時間2017年6月1日に公表した。]]></description>
 			<pubDate>Mon, 05 Jun 2017 10:50:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ビッグデータ独占防止の新指針、公取委が正式発表へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060501581/</link>
+			<description><![CDATA[　公正取引委員会がビッグデータの公正な流通や活用に向けた検討会の審議内容を2017年6月6日に公表することが分かった。]]></description>
+			<pubDate>Mon, 05 Jun 2017 11:28:43 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
