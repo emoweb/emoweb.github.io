@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>アップルのプログラミング教材「Swift Playgrounds」でロボットなど制御可能に（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060201572/</link>
-			<description><![CDATA[　米アップルは現地時間2017年6月1日、プログラミング言語「Swift」を学習するためのアプリケーション「Swift Playgrounds」で、ロボットやドローンなどを制御できるようにすると発表した。]]></description>
-			<pubDate>Fri, 02 Jun 2017 13:23:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>「3年で破壊が起こりトップ企業の4割は淘汰される」、シスコが大胆予測（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060201573/</link>
 			<description><![CDATA[　シスコシステムズは2017年6月2日、「デジタル変革に向けたビジネスモデル」と題した説明会を開催した。同社はスイスのビジネススクールであるIMDと共同で、デジタル変革に関する研究と経営幹部向けワークショップを進めている。説明会ではその内容の要約を紹介した。]]></description>
@@ -71,6 +65,18 @@
 			<pubDate>Sat, 03 Jun 2017 17:07:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>コンサルは経営者になぜ会える？ IT部門とSIerの妄想の愚かさ（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/060100141/</link>
+			<description><![CDATA[　「コンサルタントが社長にあらぬことを吹き込むから……」。大企業の基幹系システムの刷新プロジェクトなどの際、システム部長らのボヤキの定番である。では、なぜコンサルタントは社長に会えたのか。その謎を解き明かそう。]]></description>
+			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>保育園が決まらず、「復帰できるか」と不安になったことも（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/051700009/</link>
+			<description><![CDATA[　子供を持つ働く女性にとって大切な存在といえば保育園。日本IBMの竹田千恵氏は過去、保育園探しに苦労したという。そんな彼女は今年から、女性が活躍しやすくなるような活動にも力を入れ始めた。]]></description>
+			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>気象予測をWatsonに“食わせて”儲けるIBM（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060101001/</link>
 			<description><![CDATA[　「既にユーザー企業との契約がいくつかある」。日本IBMの加藤陽一ワトソン事業部ビジネス推進部長兼The Weather Company担当は、2017年3月13日から国内で販売が始まった気象予測データ提供についてこう話した。サービス開始から2カ月の時点で、試験導入ではなく長期契約を想定した本格採用があったという。]]></description>
@@ -89,15 +95,15 @@
 			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>本格普及間近のIoT、今できるセキュリティ対策は？（常識破りのIoTセキュリティ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900219/052900001/</link>
-			<description><![CDATA[　LPWAなどの普及を大きく加速させる技術によるインフラ整備によって、IoTは本格普及間近といってよいだろう。しかし、そのことを無邪気に喜んでばかりはいられない。なぜなら、IoT機器は既に攻撃者に狙われ始めているからだ。何の対策もせずにIoTの普及が進めば、被害は甚大なものになると想像するに難くない。]]></description>
+			<title>クラウド時代に存在感を増すITサービス企業（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/060100087/</link>
+			<description><![CDATA[　アクセンチュアがIBMの売り上げに迫るというITproの記事を読みました。記事はアクセンチュアの利益率がハードウエアベンダーと比較してはるかに高いことを指摘しています。ハードを中心としたIT業界が、クラウドやITサービスを中心とした業界へと変化していく過程を象徴する出来事ではないかと感じます。]]></description>
 			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>コンサルは経営者になぜ会える？ IT部門とSIerの妄想の愚かさ（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/060100141/</link>
-			<description><![CDATA[　「コンサルタントが社長にあらぬことを吹き込むから……」。大企業の基幹系システムの刷新プロジェクトなどの際、システム部長らのボヤキの定番である。では、なぜコンサルタントは社長に会えたのか。その謎を解き明かそう。]]></description>
+			<title>音声認識AIやLGペイ、韓国見本市の新技術が熱い（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/053100149/</link>
+			<description><![CDATA[　5月24日から27日まで、ソウル市COEX展示場で韓国最大規模のICT展示会「World It Show 2017」が開催された。今年の展示テーマは「ICT that transforms everything」、全てを変えるICTである。]]></description>
 			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -137,21 +143,9 @@
 			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>クラウド時代に存在感を増すITサービス企業（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/060100087/</link>
-			<description><![CDATA[　アクセンチュアがIBMの売り上げに迫るというITproの記事を読みました。記事はアクセンチュアの利益率がハードウエアベンダーと比較してはるかに高いことを指摘しています。ハードを中心としたIT業界が、クラウドやITサービスを中心とした業界へと変化していく過程を象徴する出来事ではないかと感じます。]]></description>
-			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>音声認識AIやLGペイ、韓国見本市の新技術が熱い（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/053100149/</link>
-			<description><![CDATA[　5月24日から27日まで、ソウル市COEX展示場で韓国最大規模のICT展示会「World It Show 2017」が開催された。今年の展示テーマは「ICT that transforms everything」、全てを変えるICTである。]]></description>
-			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>保育園が決まらず、「復帰できるか」と不安になったことも（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/051700009/</link>
-			<description><![CDATA[　子供を持つ働く女性にとって大切な存在といえば保育園。日本IBMの竹田千恵氏は過去、保育園探しに苦労したという。そんな彼女は今年から、女性が活躍しやすくなるような活動にも力を入れ始めた。]]></description>
+			<title>本格普及間近のIoT、今できるセキュリティ対策は？（常識破りのIoTセキュリティ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900219/052900001/</link>
+			<description><![CDATA[　LPWAなどの普及を大きく加速させる技術によるインフラ整備によって、IoTは本格普及間近といってよいだろう。しかし、そのことを無邪気に喜んでばかりはいられない。なぜなら、IoT機器は既に攻撃者に狙われ始めているからだ。何の対策もせずにIoTの普及が進めば、被害は甚大なものになると想像するに難くない。]]></description>
 			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -240,6 +234,12 @@
 			<pubDate>Mon, 05 Jun 2017 11:28:43 +0900</pubDate>
 		</item>
 		<item>
+			<title>キヤノンITS、Webアプリ自動生成ツール「Web Performer」最新版（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060501582/</link>
+			<description><![CDATA[　キヤノンITソリューションズは2017年6月5日、Webアプリケーション自動生成ツールの最新バージョン「Web Performer（ウェブパフォーマ）V2.1」を同日販売開始したと発表した。画面仕様の自動出力やデータ項目の管理など、開発工程全体の省力化に向けて機能強化を行った。]]></description>
+			<pubDate>Mon, 05 Jun 2017 17:21:53 +0900</pubDate>
+		</item>
+		<item>
 			<title>日本オラクルが社長交代、新社長はオラクル・ドイツから（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060501583/</link>
 			<description><![CDATA[　日本オラクルは2017年6月5日、同日付で社長交代を発表した。オラクル・ドイツのフランク・オーバーマイヤー氏が執行役 最高経営責任者（CEO）に就任する。]]></description>
@@ -250,6 +250,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060501584/</link>
 			<description><![CDATA[　産業技術総合研究所（産総研）は、エンルートと日立製作所、八千代エンジニヤリングと共同で、土砂災害時に地中に埋没した車両を空中から探査するシステムを開発した。産総研などが2017年6月5日に連名で発表した。]]></description>
 			<pubDate>Mon, 05 Jun 2017 17:28:57 +0900</pubDate>
+		</item>
+		<item>
+			<title>フリービット、働き方改革支援パッケージ「YourNet New Work Style」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060501585/</link>
+			<description><![CDATA[　フリービットは2017年6月5日、従業員の残業管理やテレワークを支援するITソリューションを組み合わせた“働き方改革支援”パッケージサービス「YourNet New Work Style」を発表した。同日から同サービスの提供および販売パートナーの募集を開始する。]]></description>
+			<pubDate>Mon, 05 Jun 2017 17:30:09 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
