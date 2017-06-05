@@ -5,51 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>機械学習で怪しいメールを検出、法人向けGmailがセキュリティ強化（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060200375/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Googleは、法人向けグループウエア「G Suite」に新たなセキュリティ機能を4つリリースした。Googleのサービスを巡っては、ロシアが関係するフィッシングと偽情報のキャンペーンで、Gmailを含むGoogleのサービスが使われたとのレポートを、カナダのトロント大学に拠点を置く研究機関Citizen Labが発表したばかりだ。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060200375/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Martyn Williams</div>
-</div>
-<p>
-　Googleは、今回追加したセキュリティ機能を紹介する<a href="https://www.blog.google/products/g-suite/keeping-your-company-data-safe-new-security-updates-gmail/" target="_blank">ブログ記事</a>の中で、Citizen Labのレポートには言及していない。だが、追加した防御機能の多くは、データやログイン情報を盗む典型的手法のフィッシングを撃退することを狙いとしている。
-</p>
-<p>
-　<a href="https://citizenlab.org/2017/05/tainted-leaks-disinformation-phish/" target="_blank">Citizen Labのレポート</a>によると、ロシアの関係者によるフィッシングと偽情報のキャンペーンでは、世界39カ国の200人以上が標的となった。
-</p>
-<p>
-　標的の中には、「ロシアの元首相、欧州やユーラシアの国の閣僚、大使、軍の高官、エネルギー企業のCEO（最高経営責任者）、市民団体のメンバーなど」が含まれていたとレポートは説明する。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060200375/?ST=cm-software&P=2">このキャンペーンで初期に送信されたメールのうち、CitizenL...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060200375/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060200375/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060200375/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060200375/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 02 Jun 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>VRヘッドセット市場が成長中、第1四半期の出荷台数は200万台超（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060201571/</link>
-			<description><![CDATA[　米IDCが現地時間2017年6月1日に公表したVR（仮想現実）とAR（拡張現実）のヘッドセット市場に関するリポートによると、同年第1四半期（1～3月）の世界出荷台数は228万台となり、前年同期から約70％増加した。]]></description>
-			<pubDate>Fri, 02 Jun 2017 10:19:58 +0900</pubDate>
-		</item>
-		<item>
 			<title>アップルのプログラミング教材「Swift Playgrounds」でロボットなど制御可能に（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060201572/</link>
 			<description><![CDATA[　米アップルは現地時間2017年6月1日、プログラミング言語「Swift」を学習するためのアプリケーション「Swift Playgrounds」で、ロボットやドローンなどを制御できるようにすると発表した。]]></description>
@@ -116,15 +71,27 @@
 			<pubDate>Sat, 03 Jun 2017 17:07:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>気象予測をWatsonに“食わせて”儲けるIBM（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060101001/</link>
+			<description><![CDATA[　「既にユーザー企業との契約がいくつかある」。日本IBMの加藤陽一ワトソン事業部ビジネス推進部長兼The Weather Company担当は、2017年3月13日から国内で販売が始まった気象予測データ提供についてこう話した。サービス開始から2カ月の時点で、試験導入ではなく長期契約を想定した本格採用があったという。]]></description>
+			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>逃げ出した猫を探す、追尾ミサイルの手法でBluetoothの限界に挑む（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/053100848/</link>
+			<description><![CDATA[　猫が家から逃げ出した──。猫を飼っている人にとって、けがや病気に次ぐ心配事だ。IoTが普及しつつある今、そんなときの備えになる技術的な対策は何か無いのだろうか。]]></description>
+			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「10人応援を頼んでも2人しか来ない」IT現場の悲鳴（人手不足を乗り切る）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900202/051900001/</link>
 			<description><![CDATA[　ITの現場で人手不足が顕著になっている。現場からは「パートナー企業に10人の応援を要請しても2、3人しか集まらない」「計画を立てた直後に中核メンバーを他のプロジェクトに取られた」といった悲鳴が上がる。だが、そんな逆境さえも前向きに捉え、人手不足を乗り切るリーダーも確かにいる。]]></description>
 			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>保育園が決まらず、「復帰できるか」と不安になったことも（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/051700009/</link>
-			<description><![CDATA[　子供を持つ働く女性にとって大切な存在といえば保育園。日本IBMの竹田千恵氏は過去、保育園探しに苦労したという。そんな彼女は今年から、女性が活躍しやすくなるような活動にも力を入れ始めた。]]></description>
+			<title>本格普及間近のIoT、今できるセキュリティ対策は？（常識破りのIoTセキュリティ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900219/052900001/</link>
+			<description><![CDATA[　LPWAなどの普及を大きく加速させる技術によるインフラ整備によって、IoTは本格普及間近といってよいだろう。しかし、そのことを無邪気に喜んでばかりはいられない。なぜなら、IoT機器は既に攻撃者に狙われ始めているからだ。何の対策もせずにIoTの普及が進めば、被害は甚大なものになると想像するに難くない。]]></description>
 			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -134,9 +101,9 @@
 			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>気象予測をWatsonに“食わせて”儲けるIBM（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060101001/</link>
-			<description><![CDATA[　「既にユーザー企業との契約がいくつかある」。日本IBMの加藤陽一ワトソン事業部ビジネス推進部長兼The Weather Company担当は、2017年3月13日から国内で販売が始まった気象予測データ提供についてこう話した。サービス開始から2カ月の時点で、試験導入ではなく長期契約を想定した本格採用があったという。]]></description>
+			<title>期待されるAR／VR市場、消費者向けエンタメから産業分野へ（US NEWSの裏を読む）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/200047/060200041/</link>
+			<description><![CDATA[　このほど米国の市場調査会社、eMarketerがまとめたAR（augmented reality、拡張現実）とVR（virtual reality、仮想現実）の米国における利用実態に関するリポートによると、2017年のARの利用者数は前年から30.2％増し、4000万人となる見通し。]]></description>
 			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -182,21 +149,9 @@
 			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>本格普及間近のIoT、今できるセキュリティ対策は？（常識破りのIoTセキュリティ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900219/052900001/</link>
-			<description><![CDATA[　LPWAなどの普及を大きく加速させる技術によるインフラ整備によって、IoTは本格普及間近といってよいだろう。しかし、そのことを無邪気に喜んでばかりはいられない。なぜなら、IoT機器は既に攻撃者に狙われ始めているからだ。何の対策もせずにIoTの普及が進めば、被害は甚大なものになると想像するに難くない。]]></description>
-			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>期待されるAR／VR市場、消費者向けエンタメから産業分野へ（US NEWSの裏を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/200047/060200041/</link>
-			<description><![CDATA[　このほど米国の市場調査会社、eMarketerがまとめたAR（augmented reality、拡張現実）とVR（virtual reality、仮想現実）の米国における利用実態に関するリポートによると、2017年のARの利用者数は前年から30.2％増し、4000万人となる見通し。]]></description>
-			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>逃げ出した猫を探す、追尾ミサイルの手法でBluetoothの限界に挑む（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/053100848/</link>
-			<description><![CDATA[　猫が家から逃げ出した──。猫を飼っている人にとって、けがや病気に次ぐ心配事だ。IoTが普及しつつある今、そんなときの備えになる技術的な対策は何か無いのだろうか。]]></description>
+			<title>保育園が決まらず、「復帰できるか」と不安になったことも（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/051700009/</link>
+			<description><![CDATA[　子供を持つ働く女性にとって大切な存在といえば保育園。日本IBMの竹田千恵氏は過去、保育園探しに苦労したという。そんな彼女は今年から、女性が活躍しやすくなるような活動にも力を入れ始めた。]]></description>
 			<pubDate>Mon, 05 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -283,6 +238,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060501581/</link>
 			<description><![CDATA[　公正取引委員会がビッグデータの公正な流通や活用に向けた検討会の審議内容を2017年6月6日に公表することが分かった。]]></description>
 			<pubDate>Mon, 05 Jun 2017 11:28:43 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本オラクルが社長交代、新社長はオラクル・ドイツから（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060501583/</link>
+			<description><![CDATA[　日本オラクルは2017年6月5日、同日付で社長交代を発表した。オラクル・ドイツのフランク・オーバーマイヤー氏が執行役 最高経営責任者（CEO）に就任する。]]></description>
+			<pubDate>Mon, 05 Jun 2017 17:25:25 +0900</pubDate>
+		</item>
+		<item>
+			<title>産総研などが災害による地中埋没車両の探査システムを開発（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060501584/</link>
+			<description><![CDATA[　産業技術総合研究所（産総研）は、エンルートと日立製作所、八千代エンジニヤリングと共同で、土砂災害時に地中に埋没した車両を空中から探査するシステムを開発した。産総研などが2017年6月5日に連名で発表した。]]></description>
+			<pubDate>Mon, 05 Jun 2017 17:28:57 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
