@@ -5,103 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>セキュアでレスポンスの良いIoTシステムを構築せよ！（ネットワークなんでも実験室　IoT編）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200224/060500002/</link>
-			<description><![CDATA[　IoTデバイスをインターネット経由で制御する場合、システムの構築方法によってはレスポンスが悪くなる。どうすればレスポンスを改善できるのか、調査した。]]></description>
-			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ITセキュリティが使えないIoTの世界、技術の違いを理解する（常識破りのIoTセキュリティ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900219/052900003/</link>
-			<description><![CDATA[　IoTはハードウエア、ソフトウエア、ネットワークなど、多くの部分でIT技術を用いている。従って、IoTセキュリティも、基本的な技術基盤はITセキュリティと共通となる。しかしIoTは、ITとは異なった様々な特性を持つ。このためITセキュリティをIoTセキュリティにそのまま適用できないことも多い。]]></description>
-			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>改正個人情報保護法施行に伴い、JIPDECなどが自主ルール策定（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060401002/</link>
-			<description><![CDATA[　日本情報経済社会推進協会（JIPDEC）や日本データ通信協会は改正個人情報保護法の全面施行に伴い、業界ごとの自主ルールとなる「個人情報保護指針」を認定個人情報保護団体として届け出た。改正法下での認定個人情報保護団体の役割に注目が集まりそうだ。]]></description>
-			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>2次から元請けに昇格した160人IT企業（下請けの逆襲）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700196/052900004/</link>
-			<description><![CDATA[　「死ぬまでやってくれる」――。当時、元請けのITベンダーからこう評されるほど「下請け精神」が染みついていたIT企業がある。社員約160人のシステムインテグレーター（SIer）、シナプスイノベーションだ。同社はSEを客先に常駐させるSES（システムエンジニアリングサービス）事業では自社に何も残らないと「元請け」になる決を固め、今では大手ベンダーを提案コンペで打ち負かす元請けSIerに昇格した。
-]]></description>
-			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>岐路に立つフードデリバリー、勝者と敗者を分けた要因は？（瀧口範子のシリコンバレー通信）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/060200102/</link>
-			<description><![CDATA[　米国で一時は熱狂的に受け入れられたスタートアップによるフードデリバリーのサービスが今、岐路に立たされている。中でも大きな壁に突き当たっているのは、自社でシェフやキッチンを抱えてきた事業者だ。消費者にとってお得なサービスだったが、採算は成り立っていなかったようだ。]]></description>
-			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>マストドン（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/051800073/</link>
-			<description><![CDATA[　一度に最大500文字のコメントを投稿できるTwitter似の分散型SNS。オープンソースのソフトを使い、誰でもサービス提供できる。特定のテーマに関心のあるユーザー向けのサービスが多数提供され、利用者が増加している。]]></description>
-			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>データ処理はロボットにお任せ、大手IT企業がRPAに商機（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060501003/</link>
-			<description><![CDATA[　人間のPC操作をソフトウエアで自動化する新技術「RPA（ロボティック・プロセス・オートメーション）」を導入しやすくする支援サービスが充実してきた。]]></description>
-			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>SSDでどれくらい速くなる？、ひと目で分かる手軽な計測ワザ（PC高速化に効く、今どきのSSD交換術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900221/060100002/</link>
-			<description><![CDATA[　「SSDは非常に高速なのでPCのパワーアップには最適だ」というが、本当のところはどうなのか、実際にどの程度の変化があるのかについて、疑問を持つユーザーもいるだろう。そこで今回は、いくつかの「ベンチマークテスト」アプリを使い、実際にHDDやSSDの性能を計測してみた。]]></description>
-			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>人手不足を解消する「よい手抜き」（人手不足を乗り切る）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900202/051900002/</link>
-			<description><![CDATA[　人手不足のプロジェクトを乗り切ったリーダーたちの“定跡” は、「よい手抜き」を考えてみること。例えば、工数の割にプロジェクトの目的達成にさほど影響しないタスクがある。こうしたやらずに済むタスクを見つけたら、手抜きをすればよい。]]></description>
-			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>衝撃の駅ナカ広告を見上げ、ムチャぶりの働き方改革について考えた（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/060100849/</link>
-			<description><![CDATA[　働き方改革ブームに戸惑う現場の、上司には言いづらい本音をうまく代弁しているなーー。JR品川駅で見かけた駅ナカ広告に筆者は思わず膝を打った。]]></description>
-			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>60兆円連合ジャーマン3、自動車とITの巨人が頂上決戦（激変！クルマ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/060200024/</link>
-			<description><![CDATA[　自動車業界で「ジャーマン3」と言われるフォルクスワーゲン（VW）グループのアウディとBMW、ダイムラー。3社が世界で畏怖されるのは、かねて世界に先駆けて新しい技術を採用し、自動車技術の“世界標準”を生み出し続けてきたからだ。]]></description>
-			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>担当者がダークサイドに堕ちたら、誰も悪意を見抜けない（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/060200021/</link>
-			<description><![CDATA[　IT部門が消滅し、一人残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。この実話の当事者である著者が、読者から質問に答える。もし担当者が悪意を持ったらどうなる。当事者である成瀬氏には答えにくい疑問だが、回答やいかに。]]></description>
-			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>南相馬市で原発事故の帰還支援、5G時代到来前にあるべき遠隔医療の姿とは（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/053000108/</link>
-			<description><![CDATA[　ベンチャー企業のメドレーとKDDIは2017年5月18日、福島県南相馬市の病院にタブレットを活用した遠隔診療を提供すると発表した。第5世代移動通信システム（5G）の特性が生かせる分野として注目される遠隔医療だが、現在のネットワーク環境で提供でき、なおかつニーズがある遠隔医療とはどのようなものなのだろうか。]]></description>
-			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>事例も人もソフトも徹底的にシェアするアクセンチュア（知られざるアクセンチュア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200206/060100007/</link>
-			<description><![CDATA[　アクセンチュアは全社の資源を全世界で徹底的に共有し、横展開している。ヒトやモノを共有して貸し借りするシェアリングエコノミーになぞらえて「シェアリング開発」といってもよいかもしれない。]]></description>
-			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iPadやSurface Proがクラムシェル型ノートになるキーボード、その実力（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/060300119/</link>
-			<description><![CDATA[　今回はタブレット用のキーボードをレビューする。リンクスインターナショナルが国内販売する「BRYDGE」シリーズキーボードは、iPad、iPad mini、Surface Pro 3もしくは4に対応するBluetoothキーボードだ。その最大の特徴は、タブレットに装着するとまるでクラムシェル型ノートのような外観になることだ。]]></description>
-			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Appleのスピーカー端末「HomePod」、AIよりも音楽を推す謎（シリコンバレーNextレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/060600111/</link>
-			<description><![CDATA[　2017年6月5日（米国時間）に開催された「WWDC 17」で米Appleは、事前の予想通り「Amazon Echo」対抗となるスピーカー端末「HomePod」を発表した。AI（人工知能）アシスタントを強調する競合に対して、AppleがHomePodで強調したのは音の良さだった。]]></description>
-			<pubDate>Tue, 06 Jun 2017 10:04:42 +0900</pubDate>
-		</item>
-		<item>
 			<title>Google、悪質広告のブロック機能をChromeに搭載へ（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/060600330/</link>
 			<description><![CDATA[<div>
@@ -234,6 +137,12 @@
 			<pubDate>Tue, 06 Jun 2017 22:03:21 +0900</pubDate>
 		</item>
 		<item>
+			<title>ソフトは倉庫でつくる？アクセンチュアの最新IoT拠点に初潜入（知られざるアクセンチュア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200206/053000003/</link>
+			<description><![CDATA[　IoTの技術による製造革新「インダストリー4.0」で先行するドイツ。第三の都市ミュンヘンの中心部から自動車で30分ほどの場所にある巨大な建物を訪れると「アクセンチュア」のロゴマークが目に入ってきた。中に足を踏み入れると、意外な光景があった。]]></description>
+			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>第17話  メンバーの声に耳を傾けているか？（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/042400028/</link>
 			<description><![CDATA[　成功しているリーダーは、ブルドーザーのような牽引力とカリスマ性を兼ね備えていることが多い。それゆえに、独善的、独裁的になりすぎてしまうこともあって、チームプレーが回らなくなってしまう。リーダーはときにメンバーの声に耳を傾け、意見や不満をくみ取る必要がある。]]></description>
@@ -270,9 +179,9 @@
 			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ソフトは倉庫でつくる？アクセンチュアの最新IoT拠点に初潜入（知られざるアクセンチュア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200206/053000003/</link>
-			<description><![CDATA[　IoTの技術による製造革新「インダストリー4.0」で先行するドイツ。第三の都市ミュンヘンの中心部から自動車で30分ほどの場所にある巨大な建物を訪れると「アクセンチュア」のロゴマークが目に入ってきた。中に足を踏み入れると、意外な光景があった。]]></description>
+			<title>大量のIoTデバイスでWi-Fiはパンクする（ネットワークなんでも実験室　IoT編）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200224/060500003/</link>
+			<description><![CDATA[　IoTセンサーの数を増やしていくと、ネットワークが混みあって通信できなくなるケースはあるのか。無線LANの場合を検証した。]]></description>
 			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -297,12 +206,6 @@
 			<title>アラフィフSEが最前線に、レガマイ特化で大手撃破（下請けの逆襲）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700196/060500006/</link>
 			<description><![CDATA[　「メーカーは高いから」――。ユーザー企業のシステム部長が漏らした言葉に、ロンググロウの田原（たはら）清社長は下請け脱出の確信を得た。メインフレーム上のアプリケーションをオープン系のサーバー上に移行させる「レガシーマイグレーション」に特化し、下請けSIerから元請けへと転身した。メインフレームに詳しいベテランエンジニアの採用など、体制面の整備が鍵となった。]]></description>
-			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>大量のIoTデバイスでWi-Fiはパンクする（ネットワークなんでも実験室　IoT編）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200224/060500003/</link>
-			<description><![CDATA[　IoTセンサーの数を増やしていくと、ネットワークが混みあって通信できなくなるケースはあるのか。無線LANの場合を検証した。]]></description>
 			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -345,6 +248,45 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060701602/</link>
 			<description><![CDATA[　米連邦通信委員会（FCC）がインターネット中立性に関する規則の見直しを図る中、米Amazon.comや米Mozillaをはじめとする技術企業や擁護団体などは、これに抗議する行動への参加を呼びかけるWebページを現地時間2017年6月6日までに開設した。]]></description>
 			<pubDate>Wed, 07 Jun 2017 10:07:40 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10で変わるEMM（エンタープライズモバイル管理）（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060700377/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　2015年7月に登場したWindows 10は、企業の環境でEMM（エンタープライズモバイル管理）を扱う方法について、各社に再考を促している。</p>
+
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060700377/ph01.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Microsoft</div>
+</div>
+
+<p>　Windows 10は、以前のバージョンにはなかったEMMの機能がある。企業がパソコンなどのWindows端末の展開や構成を行う時には、MDM（モバイルデバイス管理）のAPIや制御などを通じて、Microsoftが「Modern management」と呼ぶアプローチで管理できる。</p>
+
+<p>　Windows 10を搭載した業務用のノートパソコンやデスクトップパソコンで求められる、アプリケーションやシステムの基本的なプロビジョニング機能は、今では同OSのEMMの制御コンソールから行えるものが多い。米市場調査会社IDCでエンタープライズモビリティを担当するPhil Hochmuthプログラムディレクターはそう説明する。</p>
+
+<p>　したがって、最近のWindowsパソコンを利用している企業では、UEM（統合エンドポイント管理）として、統合型の管理ツールや、ポリシーと構成の統合プラットフォームを活用できるとHochmuth氏は言う。</p>
+
+<p>　「従来のWindows 7の環境を現在も大規模に展開している企業や、Win32/64のレガシーアプリケーションを数多く利用している企業は、パソコンのライフサイクル管理用やソフトウエア配布用の従来のツールが必要となる。Microsoft SCCM（System Center Configuration Manager）、Quest KACE、LANDESKなどだ」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060700377/?ST=cm-software&P=2">Windows10の新しいMDM機能は、Microsoftの「I...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060700377/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060700377/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060700377/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060700377/?ST=cm-software&P=4">4</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060700377/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 07 Jun 2017 10:14:47 +0900</pubDate>
 		</item>
 		<item>
 			<title>17年Q1世界のウエアラブル市場、XiaomiとAppleが首位に（ニュース）</title>
