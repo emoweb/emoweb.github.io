@@ -5,48 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Google、悪質広告のブロック機能をChromeに搭載へ（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/060600330/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Googleのウェブブラウザー「Chrome」は、ポップアップをブロックする機能をかなり前から搭載している。（その有効と無効を切り替える設定は、設定画面の奥深くにあるので、存在を知らないChromeユーザーも多いだろう）。そしてこのたび、Googleはついに、煩わしい広告のブロックにも本腰を入れようとしている。しかも、自社で配信している広告も対象に含む。
-</p>
-
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/060600330/pcw-chrome-primary-100724768-large.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Rob Schultz</div>
-</div>
-
-<p>
-　Googleで広告とコマース担当のシニアバイスプレジデントを務めるSridhar Ramaswamy氏は、現地時間2017年6月1日に<a href="https://blog.google/topics/journalism-news/building-better-web-everyone/" target="_blank">公式ブログ記事</a>を投稿した。この中で同氏は、「皆にとってよりよいウェブ」を実現する一環として、同社が広告を今後どのように扱うかについて、新たな方針の概略を示した。
-</p>
-<p>
-　記事によると、Googleは、ネット広告の改善を目指す業界団体Coalition for Better Adsに加盟した。Facebook、News Corporation、Unileverといった企業も加盟している団体だ。この団体は、広告の改善に向けた「Better Ads Standards」という標準を定めている。「消費者のために業界として広告を改善する方法について、データに基づく明確な指針を公表したものだ」とRamaswamy氏は説明している。
-</p>
-<p>
-　そして、Googleが行う改善の第一歩が、Chromeでの広告表示の方法だ。記事には次のように説明がある。「Coalition for Better Adsやその他の業界団体との対話を経て、Chromeでは2018年初頭から、Better Ads Standardsに準拠していないWebサイトの広告は表示しないようにする予定だ（Googleが所有または配信する広告も含む）」。この広告ブロッカーは、ユーザーが無効化できるオプションなのか、それともChromeの基盤にあるレンダリングエンジン「Blink」に組み込まれる機能なのかは定かでない。
-</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/060600330/?ST=cio-appli&P=2">また、米WallStreetJournalの</a><a...></a...></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/060600330/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/060600330/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/060600330/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 06 Jun 2017 10:05:15 +0900</pubDate>
-		</item>
-		<item>
 			<title>Amazonがスマホを開発中との報道、今度はインドなどの新興国向けか（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060601588/</link>
 			<description><![CDATA[　米Amazon.comがスマートフォンを開発していると複数の海外メディアが現地時間2017年6月5日までに報じた。現在開発中のスマートフォンはFire Phoneとは異なり、インドなどの新興国に向けるものという。]]></description>
@@ -143,6 +101,12 @@
 			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>大量のIoTデバイスでWi-Fiはパンクする（ネットワークなんでも実験室　IoT編）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200224/060500003/</link>
+			<description><![CDATA[　IoTセンサーの数を増やしていくと、ネットワークが混みあって通信できなくなるケースはあるのか。無線LANの場合を検証した。]]></description>
+			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>第17話  メンバーの声に耳を傾けているか？（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/042400028/</link>
 			<description><![CDATA[　成功しているリーダーは、ブルドーザーのような牽引力とカリスマ性を兼ね備えていることが多い。それゆえに、独善的、独裁的になりすぎてしまうこともあって、チームプレーが回らなくなってしまう。リーダーはときにメンバーの声に耳を傾け、意見や不満をくみ取る必要がある。]]></description>
@@ -173,15 +137,15 @@
 			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>端末に閉じたAI処理を重視するアップル、Siri搭載スピーカー「HomePod」が鍵（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/060500045/</link>
-			<description><![CDATA[　米アップルは人工知能（AI）に関連して、「WWDC 2017」でSiriによる音声操作に対応するスマートスピーカー「HomePod」を発表した。一方で、AI処理については、米グーグルや米エヌヴィディアなどとは根本的に異なるアプローチをとろうとしているようだ。]]></description>
+			<title>携帯電話の寡占が光回線市場に波及？総務省がセット割にメス（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060501005/</link>
+			<description><![CDATA[　総務省は2017年5月31日、携帯電話回線と光回線のセット割引の適正性を巡り、NTTドコモやソフトバンクを調査する方針を明らかにした。携帯電話大手が展開するセット販売は割引額が大きく、競合他社から「同じ土俵での競争は困難」との指摘が相次いだ。]]></description>
 			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>大量のIoTデバイスでWi-Fiはパンクする（ネットワークなんでも実験室　IoT編）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200224/060500003/</link>
-			<description><![CDATA[　IoTセンサーの数を増やしていくと、ネットワークが混みあって通信できなくなるケースはあるのか。無線LANの場合を検証した。]]></description>
+			<title>アラフィフSEが最前線に、レガマイ特化で大手撃破（下請けの逆襲）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700196/060500006/</link>
+			<description><![CDATA[　「メーカーは高いから」――。ユーザー企業のシステム部長が漏らした言葉に、ロンググロウの田原（たはら）清社長は下請け脱出の確信を得た。メインフレーム上のアプリケーションをオープン系のサーバー上に移行させる「レガシーマイグレーション」に特化し、下請けSIerから元請けへと転身した。メインフレームに詳しいベテランエンジニアの採用など、体制面の整備が鍵となった。]]></description>
 			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -197,15 +161,9 @@
 			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>携帯電話の寡占が光回線市場に波及？総務省がセット割にメス（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060501005/</link>
-			<description><![CDATA[　総務省は2017年5月31日、携帯電話回線と光回線のセット割引の適正性を巡り、NTTドコモやソフトバンクを調査する方針を明らかにした。携帯電話大手が展開するセット販売は割引額が大きく、競合他社から「同じ土俵での競争は困難」との指摘が相次いだ。]]></description>
-			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>アラフィフSEが最前線に、レガマイ特化で大手撃破（下請けの逆襲）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700196/060500006/</link>
-			<description><![CDATA[　「メーカーは高いから」――。ユーザー企業のシステム部長が漏らした言葉に、ロンググロウの田原（たはら）清社長は下請け脱出の確信を得た。メインフレーム上のアプリケーションをオープン系のサーバー上に移行させる「レガシーマイグレーション」に特化し、下請けSIerから元請けへと転身した。メインフレームに詳しいベテランエンジニアの採用など、体制面の整備が鍵となった。]]></description>
+			<title>端末に閉じたAI処理を重視するアップル、Siri搭載スピーカー「HomePod」が鍵（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/060500045/</link>
+			<description><![CDATA[　米アップルは人工知能（AI）に関連して、「WWDC 2017」でSiriによる音声操作に対応するスマートスピーカー「HomePod」を発表した。一方で、AI処理については、米グーグルや米エヌヴィディアなどとは根本的に異なるアプローチをとろうとしているようだ。]]></description>
 			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -293,6 +251,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060701603/</link>
 			<description><![CDATA[　米IDCが現地時間2017年6月5日に公表したウエアラブル機器市場に関するリポートによると、同年第1四半期（1～3月）における世界出荷台数は2470万台となり、前年同期から17.9％増加した。]]></description>
 			<pubDate>Wed, 07 Jun 2017 10:38:15 +0900</pubDate>
+		</item>
+		<item>
+			<title>ファーウェイ、新製品発表会で最新型スマホ「P10」など披露（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060701606/</link>
+			<description><![CDATA[　ファーウェイ・ジャパンは2017年6月6日、都内で新製品発表会を開催し、SIMロックフリーのスマートフォン「HUAWEI P10」シリーズ3機種と、スマートウオッチ「HUAWEI Watch 2」を発表した。]]></description>
+			<pubDate>Wed, 07 Jun 2017 12:30:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
