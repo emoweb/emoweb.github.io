@@ -5,6 +5,18 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>セキュアでレスポンスの良いIoTシステムを構築せよ！（ネットワークなんでも実験室　IoT編）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200224/060500002/</link>
+			<description><![CDATA[　IoTデバイスをインターネット経由で制御する場合、システムの構築方法によってはレスポンスが悪くなる。どうすればレスポンスを改善できるのか、調査した。]]></description>
+			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ITセキュリティが使えないIoTの世界、技術の違いを理解する（常識破りのIoTセキュリティ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900219/052900003/</link>
+			<description><![CDATA[　IoTはハードウエア、ソフトウエア、ネットワークなど、多くの部分でIT技術を用いている。従って、IoTセキュリティも、基本的な技術基盤はITセキュリティと共通となる。しかしIoTは、ITとは異なった様々な特性を持つ。このためITセキュリティをIoTセキュリティにそのまま適用できないことも多い。]]></description>
+			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>改正個人情報保護法施行に伴い、JIPDECなどが自主ルール策定（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060401002/</link>
 			<description><![CDATA[　日本情報経済社会推進協会（JIPDEC）や日本データ通信協会は改正個人情報保護法の全面施行に伴い、業界ごとの自主ルールとなる「個人情報保護指針」を認定個人情報保護団体として届け出た。改正法下での認定個人情報保護団体の役割に注目が集まりそうだ。]]></description>
@@ -48,15 +60,15 @@
 			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>iPadやSurface Proがクラムシェル型ノートになるキーボード、その実力（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/060300119/</link>
-			<description><![CDATA[　今回はタブレット用のキーボードをレビューする。リンクスインターナショナルが国内販売する「BRYDGE」シリーズキーボードは、iPad、iPad mini、Surface Pro 3もしくは4に対応するBluetoothキーボードだ。その最大の特徴は、タブレットに装着するとまるでクラムシェル型ノートのような外観になることだ。]]></description>
+			<title>衝撃の駅ナカ広告を見上げ、ムチャぶりの働き方改革について考えた（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/060100849/</link>
+			<description><![CDATA[　働き方改革ブームに戸惑う現場の、上司には言いづらい本音をうまく代弁しているなーー。JR品川駅で見かけた駅ナカ広告に筆者は思わず膝を打った。]]></description>
 			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>セキュアでレスポンスの良いIoTシステムを構築せよ！（ネットワークなんでも実験室　IoT編）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200224/060500002/</link>
-			<description><![CDATA[　IoTデバイスをインターネット経由で制御する場合、システムの構築方法によってはレスポンスが悪くなる。どうすればレスポンスを改善できるのか、調査した。]]></description>
+			<title>60兆円連合ジャーマン3、自動車とITの巨人が頂上決戦（激変！クルマ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/060200024/</link>
+			<description><![CDATA[　自動車業界で「ジャーマン3」と言われるフォルクスワーゲン（VW）グループのアウディとBMW、ダイムラー。3社が世界で畏怖されるのは、かねて世界に先駆けて新しい技術を採用し、自動車技術の“世界標準”を生み出し続けてきたからだ。]]></description>
 			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -78,72 +90,10 @@
 			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>衝撃の駅ナカ広告を見上げ、ムチャぶりの働き方改革について考えた（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/060100849/</link>
-			<description><![CDATA[　働き方改革ブームに戸惑う現場の、上司には言いづらい本音をうまく代弁しているなーー。JR品川駅で見かけた駅ナカ広告に筆者は思わず膝を打った。]]></description>
+			<title>iPadやSurface Proがクラムシェル型ノートになるキーボード、その実力（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/060300119/</link>
+			<description><![CDATA[　今回はタブレット用のキーボードをレビューする。リンクスインターナショナルが国内販売する「BRYDGE」シリーズキーボードは、iPad、iPad mini、Surface Pro 3もしくは4に対応するBluetoothキーボードだ。その最大の特徴は、タブレットに装着するとまるでクラムシェル型ノートのような外観になることだ。]]></description>
 			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>60兆円連合ジャーマン3、自動車とITの巨人が頂上決戦（激変！クルマ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/060200024/</link>
-			<description><![CDATA[　自動車業界で「ジャーマン3」と言われるフォルクスワーゲン（VW）グループのアウディとBMW、ダイムラー。3社が世界で畏怖されるのは、かねて世界に先駆けて新しい技術を採用し、自動車技術の“世界標準”を生み出し続けてきたからだ。]]></description>
-			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ITセキュリティが使えないIoTの世界、技術の違いを理解する（常識破りのIoTセキュリティ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900219/052900003/</link>
-			<description><![CDATA[　IoTはハードウエア、ソフトウエア、ネットワークなど、多くの部分でIT技術を用いている。従って、IoTセキュリティも、基本的な技術基盤はITセキュリティと共通となる。しかしIoTは、ITとは異なった様々な特性を持つ。このためITセキュリティをIoTセキュリティにそのまま適用できないことも多い。]]></description>
-			<pubDate>Tue, 06 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AMD、「EPYC」でデータセンター市場に再び挑む（前）（AMD、「EPYC」でデータセンター市場に再び挑む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/053100042/053100001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　テクノロジー界では、話の第2幕が始まることはあまりない。ましてや、第3幕は少ない。だが、それでも米AMDは歩みを続けている。
-</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/053100042/053100001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>
-　AMDは21世紀の初め、x86 CPUにもたらした3つの大変革でコンピューティング界を揺るがせた。マルチコアCPU、64ビットへの拡張、そして、フロントサイドバスではなくCPUにメモリーコントローラーを内蔵したことだ。
-</p>
-<p>
-　この結果、米Intelとの競争力が俄然高まり、市場シェアを獲得し始めた。それがとりわけ顕著だったのはサーバー市場である。AMDが最初に投入したサーバー市場向け製品は「Opteron」だった。
-</p>
-<p>
-　サーバー市場でのAMDのシェアはたちまち20％まで急上昇した。だがAMDは、2007年に発表したプロセッサ「Barcelona（開発コード名）」でつまずいた。あまりに多くを一度に目指しすぎたのだ。一方、息を吹き返したIntelは、順調な動きを見せた。米調査会社Mercury ResearchのDean McCarron氏によると、現在ではOpteronの市場シェアは1％に満たない。
-</p>
-<p>
-　AMDは、期待外れのプロセッサを携えて、長年にわたり日陰をさまよってきた。だが、新設計のコア「Zen」で、AMDへの関心は再び高まっている。Zenベースのパソコン向けプロセッサは、価格が3倍のトップブランドのIntelプロセッサと同等以上のパフォーマンスを持つ。
-</p>
-<p>
-　そして、サーバー向けの新プロセッサが「EPYC」だ。AMDのサーバー製品に対する関心がEPYCでよみがえることを同社は期待している。EPYCは、IntelのBroadwell-EP（開発コード名）世代の「Xeon E5 v4」プロセッサと真っ向から勝負する。
-</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/053100042/053100001/?ST=cm-hardware&P=2">EPYCは、32コアで最大64スレッドを実行できる。メモリーは8...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/053100042/053100001/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/053100042/053100001/?ST=cm-hardware&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/053100042/053100001/?ST=cm-hardware&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/053100042/053100001/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 06 Jun 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>WWDC詳報、10.5型iPad Proやスマートスピーカー「HomePod」を発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060601587/</link>
-			<description><![CDATA[　米アップルは2017年6月5日（現地時間）、カリフォルニア州サンノゼで開発者向けカンファレンス「WWDC 2017」を開催し、「iOS 11」などの新OSや、10.5型の新iPad Proやスマートスピーカー「HomePod」など多数の新デバイスを発表した。]]></description>
-			<pubDate>Tue, 06 Jun 2017 08:09:49 +0900</pubDate>
 		</item>
 		<item>
 			<title>Appleのスピーカー端末「HomePod」、AIよりも音楽を推す謎（シリコンバレーNextレポート）</title>
@@ -284,6 +234,18 @@
 			<pubDate>Tue, 06 Jun 2017 22:03:21 +0900</pubDate>
 		</item>
 		<item>
+			<title>第17話  メンバーの声に耳を傾けているか？（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/042400028/</link>
+			<description><![CDATA[　成功しているリーダーは、ブルドーザーのような牽引力とカリスマ性を兼ね備えていることが多い。それゆえに、独善的、独裁的になりすぎてしまうこともあって、チームプレーが回らなくなってしまう。リーダーはときにメンバーの声に耳を傾け、意見や不満をくみ取る必要がある。]]></description>
+			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ドイツ大手3社の自動運転競争、知られざる舞台裏（激変！クルマ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/060200025/</link>
+			<description><![CDATA[　高精度なデジタル地図を手掛けるヒア。同社を通じて“協調路線”を走るのが、アウディ、BMW、ダイムラーの独大手自動車メーカー3社である。その一方で、これらジャーマン3は自動運転車両の開発では激しく競い合う。協調と競争の使い分け。これが自動車開発で世界の先頭を走ってきたジャーマン3の姿だ。]]></description>
+			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>“七人の侍”を育てて人手不足に勝つ（人手不足を乗り切る）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900202/051900003/</link>
 			<description><![CDATA[　人手不足のプロジェクトでは、個々のメンバーに高い生産性が要求される。だからといって、エース級の人材を集めても、案外うまくいかない。高い生産性を実現する極意として、NTTデータの畔柳 健氏は「“七人の侍”を作る」と話す。]]></description>
@@ -344,18 +306,6 @@
 			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ドイツ大手3社の自動運転競争、知られざる舞台裏（激変！クルマ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/060200025/</link>
-			<description><![CDATA[　高精度なデジタル地図を手掛けるヒア。同社を通じて“協調路線”を走るのが、アウディ、BMW、ダイムラーの独大手自動車メーカー3社である。その一方で、これらジャーマン3は自動運転車両の開発では激しく競い合う。協調と競争の使い分け。これが自動車開発で世界の先頭を走ってきたジャーマン3の姿だ。]]></description>
-			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>第17話  メンバーの声に耳を傾けているか？（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/042400028/</link>
-			<description><![CDATA[　成功しているリーダーは、ブルドーザーのような牽引力とカリスマ性を兼ね備えていることが多い。それゆえに、独善的、独裁的になりすぎてしまうこともあって、チームプレーが回らなくなってしまう。リーダーはときにメンバーの声に耳を傾け、意見や不満をくみ取る必要がある。]]></description>
-			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>偽造音声でのなりすまし、実現は間近（中）（偽造音声でのなりすまし、実現は間近）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/053100041/053100002/</link>
 			<description><![CDATA[<div>
@@ -389,6 +339,18 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 07 Jun 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>FCCのネット中立性規則見直しに反発　Amazonなどが7月12日に抗議行動（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060701602/</link>
+			<description><![CDATA[　米連邦通信委員会（FCC）がインターネット中立性に関する規則の見直しを図る中、米Amazon.comや米Mozillaをはじめとする技術企業や擁護団体などは、これに抗議する行動への参加を呼びかけるWebページを現地時間2017年6月6日までに開設した。]]></description>
+			<pubDate>Wed, 07 Jun 2017 10:07:40 +0900</pubDate>
+		</item>
+		<item>
+			<title>17年Q1世界のウエアラブル市場、XiaomiとAppleが首位に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060701603/</link>
+			<description><![CDATA[　米IDCが現地時間2017年6月5日に公表したウエアラブル機器市場に関するリポートによると、同年第1四半期（1～3月）における世界出荷台数は2470万台となり、前年同期から17.9％増加した。]]></description>
+			<pubDate>Wed, 07 Jun 2017 10:38:15 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
