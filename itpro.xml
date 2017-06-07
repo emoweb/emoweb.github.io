@@ -5,24 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Amazonがスマホを開発中との報道、今度はインドなどの新興国向けか（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060601588/</link>
-			<description><![CDATA[　米Amazon.comがスマートフォンを開発していると複数の海外メディアが現地時間2017年6月5日までに報じた。現在開発中のスマートフォンはFire Phoneとは異なり、インドなどの新興国に向けるものという。]]></description>
-			<pubDate>Tue, 06 Jun 2017 10:38:12 +0900</pubDate>
-		</item>
-		<item>
-			<title>AppleのSiri搭載スマートスピーカー「HomePod」、米メディアの評価は？（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060601589/</link>
-			<description><![CDATA[　米Appleは現地時間2017年6月5日、「Siri」を搭載したスマートスピーカー「HomePod」を発表した。12月より、まず米国、英国、オーストラリアで販売を開始する。日本での発売については未定。]]></description>
-			<pubDate>Tue, 06 Jun 2017 10:54:38 +0900</pubDate>
-		</item>
-		<item>
-			<title>ベトナム首相、「IT産業とハイテク農業で関係強化を」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060601590/</link>
-			<description><![CDATA[　2017年6月6日、ベトナムのグエン・スアン・フック首相と日本企業との懇談会が開催された。フック首相は、「特にIT産業とハイテク農業の分野での参入を期待している」と語り、IT関連領域で日越の結びつきを強めたい考えを示した。]]></description>
-			<pubDate>Tue, 06 Jun 2017 11:51:05 +0900</pubDate>
-		</item>
-		<item>
 			<title>メディアキャストがデータ放送の必要機能をクラウド提供（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060601591/</link>
 			<description><![CDATA[　メディアキャストは2017年6月6日、データ放送を低コストで簡単に開始可能なクラウドサービスとして「DataCaster LimiC （データキャスター リミック）」を発表した。2017年7月の販売開始を予定する。]]></description>
@@ -95,15 +77,33 @@
 			<pubDate>Tue, 06 Jun 2017 22:03:21 +0900</pubDate>
 		</item>
 		<item>
+			<title>大量のIoTデバイスでWi-Fiはパンクする（ネットワークなんでも実験室　IoT編）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200224/060500003/</link>
+			<description><![CDATA[　IoTセンサーの数を増やしていくと、ネットワークが混みあって通信できなくなるケースはあるのか。無線LANの場合を検証した。]]></description>
+			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>PCのストレージ交換、フリーソフトで大事なデータをSSDに丸ごと引っ越し（PC高速化に効く、今どきのSSD交換術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900221/060500003/</link>
+			<description><![CDATA[　ノートPCのHDDをSSDに実際に交換するには、利用中のOSやアプリケーション、自分で作成したデータを移す作業が欠かせない。作業は難しいのか、それとも簡単にできるのか。今回は、ノートPCなどの内蔵ストレージを2.5インチSSDに交換する際の具体的な手順を紹介する。]]></description>
+			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>端末に閉じたAI処理を重視するアップル、Siri搭載スピーカー「HomePod」が鍵（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/060500045/</link>
+			<description><![CDATA[　米アップルは人工知能（AI）に関連して、「WWDC 2017」でSiriによる音声操作に対応するスマートスピーカー「HomePod」を発表した。一方で、AI処理については、米グーグルや米エヌヴィディアなどとは根本的に異なるアプローチをとろうとしているようだ。]]></description>
+			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ソフトは倉庫でつくる？アクセンチュアの最新IoT拠点に初潜入（知られざるアクセンチュア）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200206/053000003/</link>
 			<description><![CDATA[　IoTの技術による製造革新「インダストリー4.0」で先行するドイツ。第三の都市ミュンヘンの中心部から自動車で30分ほどの場所にある巨大な建物を訪れると「アクセンチュア」のロゴマークが目に入ってきた。中に足を踏み入れると、意外な光景があった。]]></description>
 			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>大量のIoTデバイスでWi-Fiはパンクする（ネットワークなんでも実験室　IoT編）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200224/060500003/</link>
-			<description><![CDATA[　IoTセンサーの数を増やしていくと、ネットワークが混みあって通信できなくなるケースはあるのか。無線LANの場合を検証した。]]></description>
+			<title>サーバー市場に参入、コニカミノルタの勝算（北川 賢一のIT業界乱反射）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800200/060100020/</link>
+			<description><![CDATA[　コニカミノルタがサーバービジネスを今秋にも世界で展開する。現在1200人のグローバル開発体制で製品の最終的な詰めの作業を進めている。]]></description>
 			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -125,9 +125,9 @@
 			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>PCのストレージ交換、フリーソフトで大事なデータをSSDに丸ごと引っ越し（PC高速化に効く、今どきのSSD交換術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900221/060500003/</link>
-			<description><![CDATA[　ノートPCのHDDをSSDに実際に交換するには、利用中のOSやアプリケーション、自分で作成したデータを移す作業が欠かせない。作業は難しいのか、それとも簡単にできるのか。今回は、ノートPCなどの内蔵ストレージを2.5インチSSDに交換する際の具体的な手順を紹介する。]]></description>
+			<title>携帯大手が「5G」前哨戦、潜在需要を掘り起こし（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060501004/</link>
+			<description><![CDATA[　国内の携帯大手は2017年5月から順次、現行のLTE/LTE-Advancedの後継となる「5G」の大規模な実証実験を始めた。多様な業種の大手企業と手を組んでいるのが特徴だ。東京オリンピック・パラリンピックが開催される2020年の商用化に先駆け、業種の垣根を越えて前哨戦がスタートした。]]></description>
 			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -146,24 +146,6 @@
 			<title>アラフィフSEが最前線に、レガマイ特化で大手撃破（下請けの逆襲）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700196/060500006/</link>
 			<description><![CDATA[　「メーカーは高いから」――。ユーザー企業のシステム部長が漏らした言葉に、ロンググロウの田原（たはら）清社長は下請け脱出の確信を得た。メインフレーム上のアプリケーションをオープン系のサーバー上に移行させる「レガシーマイグレーション」に特化し、下請けSIerから元請けへと転身した。メインフレームに詳しいベテランエンジニアの採用など、体制面の整備が鍵となった。]]></description>
-			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>携帯大手が「5G」前哨戦、潜在需要を掘り起こし（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060501004/</link>
-			<description><![CDATA[　国内の携帯大手は2017年5月から順次、現行のLTE/LTE-Advancedの後継となる「5G」の大規模な実証実験を始めた。多様な業種の大手企業と手を組んでいるのが特徴だ。東京オリンピック・パラリンピックが開催される2020年の商用化に先駆け、業種の垣根を越えて前哨戦がスタートした。]]></description>
-			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>サーバー市場に参入、コニカミノルタの勝算（北川 賢一のIT業界乱反射）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800200/060100020/</link>
-			<description><![CDATA[　コニカミノルタがサーバービジネスを今秋にも世界で展開する。現在1200人のグローバル開発体制で製品の最終的な詰めの作業を進めている。]]></description>
-			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>端末に閉じたAI処理を重視するアップル、Siri搭載スピーカー「HomePod」が鍵（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/060500045/</link>
-			<description><![CDATA[　米アップルは人工知能（AI）に関連して、「WWDC 2017」でSiriによる音声操作に対応するスマートスピーカー「HomePod」を発表した。一方で、AI処理については、米グーグルや米エヌヴィディアなどとは根本的に異なるアプローチをとろうとしているようだ。]]></description>
 			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -257,6 +239,24 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060701606/</link>
 			<description><![CDATA[　ファーウェイ・ジャパンは2017年6月6日、都内で新製品発表会を開催し、SIMロックフリーのスマートフォン「HUAWEI P10」シリーズ3機種と、スマートウオッチ「HUAWEI Watch 2」を発表した。]]></description>
 			<pubDate>Wed, 07 Jun 2017 12:30:02 +0900</pubDate>
+		</item>
+		<item>
+			<title>UR、IIJなど、温度予測を基にエアコンを自動制御（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060701609/</link>
+			<description><![CDATA[　独立行政法人都市再生機構（UR）、環境エネルギー総合研究所、一般財団法人日本気象協会、インターネットイニシアティブ（IIJ）、および中部電力は、2017年6月7日、温度や湿度の予測を基にAIやIoT技術でエアコンを制御、省エネ運転させる共同研究に取り組むと発表した。]]></description>
+			<pubDate>Wed, 07 Jun 2017 13:56:03 +0900</pubDate>
+		</item>
+		<item>
+			<title>著名ネット経営者が「ポスト・スマホ」を議論（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060701605/</link>
+			<description><![CDATA[　2017年6月6日に行われた「Infinity Ventures Summit 2017」の冒頭のセッションでは、「これからの10年」をテーマに、ネット業界の経営者が議論を交わした。]]></description>
+			<pubDate>Wed, 07 Jun 2017 14:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>外から見る日本のスタートアップ業界、投資家らが課題を指摘（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060701604/</link>
+			<description><![CDATA[　2017年6月6日に行われた「Infinity Ventures Summit 2017」では、「世界で活躍するスタートアップ企業をどうやって生み出すか」をテーマに国内外の投資家やイベント主催者が議論を交わした。]]></description>
+			<pubDate>Wed, 07 Jun 2017 14:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
