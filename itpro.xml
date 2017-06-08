@@ -11,12 +11,6 @@
 			<pubDate>Wed, 07 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>UR、IIJなど、温度予測を基にエアコンを自動制御（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060701609/</link>
-			<description><![CDATA[　独立行政法人都市再生機構（UR）、環境エネルギー総合研究所、一般財団法人日本気象協会、インターネットイニシアティブ（IIJ）、および中部電力は、2017年6月7日、温度や湿度の予測を基にAIやIoT技術でエアコンを制御、省エネ運転させる共同研究に取り組むと発表した。]]></description>
-			<pubDate>Wed, 07 Jun 2017 13:56:03 +0900</pubDate>
-		</item>
-		<item>
 			<title>外から見る日本のスタートアップ業界、投資家らが課題を指摘（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060701604/</link>
 			<description><![CDATA[　2017年6月6日に行われた「Infinity Ventures Summit 2017」では、「世界で活躍するスタートアップ企業をどうやって生み出すか」をテーマに国内外の投資家やイベント主催者が議論を交わした。]]></description>
@@ -59,6 +53,19 @@
 			<pubDate>Wed, 07 Jun 2017 20:38:41 +0900</pubDate>
 		</item>
 		<item>
+			<title>第178回　小池都政の行政改革－今までの「行革」を超えて－（上）（上山信一の「続・自治体改革の突破口」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/234646/053100035/</link>
+			<description><![CDATA[　小池都政は昨年来、オリンピック会場予算の見直し、卸売市場の移転問題、新年度の予算編成に忙殺されてきた。しかしその他の改革も着々と進みつつある。3月31日、都政改革本部は都庁では9年ぶりの行政改革の方針を示す「2020改革」の概要を明らかにした。筆者は特別顧問として同改革の設計に助言をしてきた。]]></description>
+			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Java SE 9の標準ライブラリ、ストリーム処理が使いやすく高速に（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/060500040/</link>
+			<description><![CDATA[　今回はJava SE 9のjava.baseモジュールに含まれる、ストリームに関する新機能を紹介します。Java SE 8で導入されたストリームは、Java SE 9でさらに使い勝手がよくなっています。実装の最適化も進んでおり、パフォーマンスの向上も図られています。
+]]></description>
+			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>Pythonを使ったネットワーク運用が簡単な理由（ネットワーク管理を自動化せよ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030600067/060600004/</link>
 			<description><![CDATA[　前回までは機器が持つ機能やパッケージツールを使った自動化を説明しました。今回は、より柔軟な運用要件に対応するために、スクリプト言語であるPythonを使った自動化を紹介します。]]></description>
@@ -71,9 +78,9 @@
 			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>第178回　小池都政の行政改革－今までの「行革」を超えて－（上）（上山信一の「続・自治体改革の突破口」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/234646/053100035/</link>
-			<description><![CDATA[　小池都政は昨年来、オリンピック会場予算の見直し、卸売市場の移転問題、新年度の予算編成に忙殺されてきた。しかしその他の改革も着々と進みつつある。3月31日、都政改革本部は都庁では9年ぶりの行政改革の方針を示す「2020改革」の概要を明らかにした。筆者は特別顧問として同改革の設計に助言をしてきた。]]></description>
+			<title>「シャドーIT」こそ輝き放つ、発言者のIT部門は陰の存在に（焦点を読む）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/060600086/</link>
+			<description><![CDATA[　今や多くの企業では、既存のIT部門と事業部門のデジタルチームという二つ（場合によってはそれ以上）のIT組織が並存している。IT部門が事業部門の取り組みをシャドーITと呼ぶのは、よしたほうがよい。さらに言えば、二つのIT組織はもっと協力・連携を図っていくべきなのだ。]]></description>
 			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,9 +96,9 @@
 			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>女性の部下に「できません」と言われた時、あなたはどうする？（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/060500851/</link>
-			<description><![CDATA[　「世の中の男性管理職に、声を大にして言いたいことがあるんですよ」。ある企業でIT部門を統括する女性役員に取材したときのことだ。ひょんなことから男性と女性の仕事に対する考え方の違いに話題が移った。]]></description>
+			<title>顧客に「ノー」と言えるアクセンチュア（知られざるアクセンチュア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200206/060700008/</link>
+			<description><![CDATA[　アクセンチュアはITを使って成長しようとする顧客企業を支援する。業務の効率化にとどまらず、本業に貢献する「攻め」のIT投資に応える。]]></description>
 			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,9 +108,9 @@
 			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「シャドーIT」こそ輝き放つ、発言者のIT部門は陰の存在に（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/060600086/</link>
-			<description><![CDATA[　今や多くの企業では、既存のIT部門と事業部門のデジタルチームという二つ（場合によってはそれ以上）のIT組織が並存している。IT部門が事業部門の取り組みをシャドーITと呼ぶのは、よしたほうがよい。さらに言えば、二つのIT組織はもっと協力・連携を図っていくべきなのだ。]]></description>
+			<title>コンピュータが「支配」する平和な社会の構築を目指す（出でよ！PeaceTechイノベーター）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200062/052200008/</link>
+			<description><![CDATA[　平和のためのテクノロジー利用である「PeaceTech」を体現している日本人経営者、5人目のゲストは篠原裕幸氏だ。ブロックチェーンの適用を手始めに、コンピュータにあらゆる判断を委ねた平和な世界の構築を目指している。]]></description>
 			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -143,22 +150,9 @@
 			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>顧客に「ノー」と言えるアクセンチュア（知られざるアクセンチュア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200206/060700008/</link>
-			<description><![CDATA[　アクセンチュアはITを使って成長しようとする顧客企業を支援する。業務の効率化にとどまらず、本業に貢献する「攻め」のIT投資に応える。]]></description>
-			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>コンピュータが「支配」する平和な社会の構築を目指す（出でよ！PeaceTechイノベーター）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200062/052200008/</link>
-			<description><![CDATA[　平和のためのテクノロジー利用である「PeaceTech」を体現している日本人経営者、5人目のゲストは篠原裕幸氏だ。ブロックチェーンの適用を手始めに、コンピュータにあらゆる判断を委ねた平和な世界の構築を目指している。]]></description>
-			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Java SE 9の標準ライブラリ、ストリーム処理が使いやすく高速に（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/060500040/</link>
-			<description><![CDATA[　今回はJava SE 9のjava.baseモジュールに含まれる、ストリームに関する新機能を紹介します。Java SE 8で導入されたストリームは、Java SE 9でさらに使い勝手がよくなっています。実装の最適化も進んでおり、パフォーマンスの向上も図られています。
-]]></description>
+			<title>女性の部下に「できません」と言われた時、あなたはどうする？（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/060500851/</link>
+			<description><![CDATA[　「世の中の男性管理職に、声を大にして言いたいことがあるんですよ」。ある企業でIT部門を統括する女性役員に取材したときのことだ。ひょんなことから男性と女性の仕事に対する考え方の違いに話題が移った。]]></description>
 			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -269,6 +263,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060801619/</link>
 			<description><![CDATA[　モバイル通信サービスやアクセサリー事業を展開するBroadLineは2017年6月8日、都内で発表会を開催し、世界約100カ国で利用できる香港GWiFi社のサービスに対応したモバイルWi-Fiルーター「G3000」を日本向けに発表した。]]></description>
 			<pubDate>Thu, 08 Jun 2017 16:05:12 +0900</pubDate>
+		</item>
+		<item>
+			<title>マウス、GeForce GTX 1050を搭載した17.3型ノートPC「m-Book W875」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060801620/</link>
+			<description><![CDATA[　マウスコンピューターは2017年6月8日、ノングレアの17.3型フルHD（1920×1080ドット）液晶と最新グラフィックス「GeForce GTX 1050」を搭載したハイスペックノートパソコン「m-Book W875」シリーズを同日発売したと発表した。]]></description>
+			<pubDate>Thu, 08 Jun 2017 17:07:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本エイサー、幅10cmの省スペース型デスクトップPC「Aspire XC」シリーズ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060801622/</link>
+			<description><![CDATA[　日本エイサーは2017年6月8日、幅10cmのスリムきょう体ながら4K出力に対応した省スペース型デスクトップパソコン「Aspire XC」シリーズ3機種を6月15日に販売開始すると発表した。IEEE 802.11a/b/g/n/ac対応無線LANを搭載し、煩わしい配線不要で場所を気にせず設置できる。]]></description>
+			<pubDate>Thu, 08 Jun 2017 17:17:04 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
