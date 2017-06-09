@@ -5,6 +5,24 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>女性の部下に「できません」と言われた時、あなたはどうする？（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/060500851/</link>
+			<description><![CDATA[　「世の中の男性管理職に、声を大にして言いたいことがあるんですよ」。ある企業でIT部門を統括する女性役員に取材したときのことだ。ひょんなことから男性と女性の仕事に対する考え方の違いに話題が移った。]]></description>
+			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>“正義のウイルス”出現！？脆弱なIoT機器を使用不能に（今日も誰かが狙われる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/060500003/</link>
+			<description><![CDATA[　IoT機器を狙うウイルスが多数出回っている。2016年9月には、「Mirai」ウイルスによるDDoS攻撃が大きな被害をもたらした。2017年3月には、Miraiと同じように感染を広げる「BrickerBot」ウイルスが確認された。BrickerBotの目的は「インターネットの化学療法」だという。]]></description>
+			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>PaaSの拡販が課題に、IBMクラウド「Bluemix」の今（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060501006/</link>
+			<description><![CDATA[　クラウドサービス全体を意味するブランド名であると同時に、アプリの開発・実行環境のPaaS（プラットフォーム・アズ・ア・サービス）でもある「Bluemix」。IBMがBluemixをブランド名にした狙いと日本でのBluemixの状況を整理する。]]></description>
+			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>元請け社員が「入社させてほしい」と懇願する下請けSIer（下請けの逆襲）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700196/060500005/</link>
 			<description><![CDATA[　かつての元請け社員が、「入社させてほしい」と懇願する中小システムインテグレーター（SIer）がある。従業員約100人のSIer・ケーエムケーワールドだ。同社は現在、大手が手を出していない特定分野で存在感を発揮し、下請けから脱却しつつある。今ではかつての元請けが羨む企業にませ成長した。]]></description>
@@ -47,9 +65,9 @@
 			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>女性の部下に「できません」と言われた時、あなたはどうする？（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/060500851/</link>
-			<description><![CDATA[　「世の中の男性管理職に、声を大にして言いたいことがあるんですよ」。ある企業でIT部門を統括する女性役員に取材したときのことだ。ひょんなことから男性と女性の仕事に対する考え方の違いに話題が移った。]]></description>
+			<title>Pythonを使ったネットワーク運用が簡単な理由（ネットワーク管理を自動化せよ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030600067/060600004/</link>
+			<description><![CDATA[　前回までは機器が持つ機能やパッケージツールを使った自動化を説明しました。今回は、より柔軟な運用要件に対応するために、スクリプト言語であるPythonを使った自動化を紹介します。]]></description>
 			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -87,24 +105,6 @@
 			<title>邪魔者扱いはもう卒業、SELinuxで守るIoTセキュリティ（IoT時代の最新SELinux入門）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052500001/</link>
 			<description><![CDATA[　Linuxのセキュリティ機能「SELinux」は組み込みからクラウドまで広く浸透し、今や避けては通れません。本連載では、SELinuxの役割と、IoT時代の活用法を実践的に紹介します。初回はまず、SELinuxとは一体どのような時に役立つのか見ていきます。]]></description>
-			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Pythonを使ったネットワーク運用が簡単な理由（ネットワーク管理を自動化せよ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030600067/060600004/</link>
-			<description><![CDATA[　前回までは機器が持つ機能やパッケージツールを使った自動化を説明しました。今回は、より柔軟な運用要件に対応するために、スクリプト言語であるPythonを使った自動化を紹介します。]]></description>
-			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>PaaSの拡販が課題に、IBMクラウド「Bluemix」の今（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060501006/</link>
-			<description><![CDATA[　クラウドサービス全体を意味するブランド名であると同時に、アプリの開発・実行環境のPaaS（プラットフォーム・アズ・ア・サービス）でもある「Bluemix」。IBMがBluemixをブランド名にした狙いと日本でのBluemixの状況を整理する。]]></description>
-			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>“正義のウイルス”出現！？脆弱なIoT機器を使用不能に（今日も誰かが狙われる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/060500003/</link>
-			<description><![CDATA[　IoT機器を狙うウイルスが多数出回っている。2016年9月には、「Mirai」ウイルスによるDDoS攻撃が大きな被害をもたらした。2017年3月には、Miraiと同じように感染を広げる「BrickerBot」ウイルスが確認された。BrickerBotの目的は「インターネットの化学療法」だという。]]></description>
 			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -235,15 +235,33 @@
 			<pubDate>Thu, 08 Jun 2017 18:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>デジカメの出番なし？ レンズもアプリも“ライカ”な「HUAWEI P10 Plus」（SIMフリースマートフォンを徹底レビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/060700042/</link>
+			<description><![CDATA[　今回、取り上げるSIMフリースマホは、2017年6月9日に発売されたファーウェイの「HUAWEI P10 Plus」だ。2016年に世界的なヒットを記録した「HUAWEI P9／P9 Plus」の後継機種で、引き続き老舗カメラメーカーの独ライカの技術協力を受けたカメラを搭載していることが最大の特徴だ。]]></description>
+			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「詰めが甘い」と嘆く上司、ネガティブ目線でツッコミに備える（脱・ザンネン社員）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/060600005/</link>
+			<description><![CDATA[　仕事ができる人ほど、どこに落とし穴があるかを常に考えて先手を打っている。情熱を注いで立てた企画でも、想定外の事態への目配りやデメリットの考慮が足りないと、上司から「詰めが甘い」の一言で終わりだ。物事をネガティブな視点からも検討する癖を身に付けよう。]]></description>
+			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ダウンロードフォルダーが危ない、「DLL読み込みの脆弱性」でウイルス感染（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060701007/</link>
+			<description><![CDATA[　Japan Vulnerability Notes（JVN）は2017年5月末、「DLL読み込み問題」という脆弱性が相次いで報告されているとして注意を呼びかけた。この脆弱性のあるインストーラーなどを実行すると、同じフォルダーに置かれた悪質なDLLファイルが勝手に実行される恐れがある。]]></description>
+			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>シスアドは復活できるのか（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/060800853/</link>
 			<description><![CDATA[　2017年6月3日、都内の大学にある会議スペース。50人ほどが参加した勉強会が開かれていた。参加者にはAIやビッグデータを学ぶという目的に加えて、ある共通した思いがあった。]]></description>
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>デジカメの出番なし？ レンズもアプリも“ライカ”な「HUAWEI P10 Plus」（SIMフリースマートフォンを徹底レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/060700042/</link>
-			<description><![CDATA[　今回、取り上げるSIMフリースマホは、2017年6月9日に発売されたファーウェイの「HUAWEI P10 Plus」だ。2016年に世界的なヒットを記録した「HUAWEI P9／P9 Plus」の後継機種で、引き続き老舗カメラメーカーの独ライカの技術協力を受けたカメラを搭載していることが最大の特徴だ。]]></description>
+			<title>グーグル参戦で競争激化のテレビ番組配信サービス（情総研レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/060200052/</link>
+			<description><![CDATA[　米グーグルのYouTubeが、有料のテレビ番組配信サービス「YouTube TV」を米国で開始した。「40チャンネル超で月35ドル」という破格のメニューは、CATV事業者やSVOD（Subscription Video On Demand）事業者にとっては脅威になりそうだ。]]></description>
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -253,9 +271,9 @@
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>グーグル参戦で競争激化のテレビ番組配信サービス（情総研レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/060200052/</link>
-			<description><![CDATA[　米グーグルのYouTubeが、有料のテレビ番組配信サービス「YouTube TV」を米国で開始した。「40チャンネル超で月35ドル」という破格のメニューは、CATV事業者やSVOD（Subscription Video On Demand）事業者にとっては脅威になりそうだ。]]></description>
+			<title>ユーザーはセキュリティを気にしない！ それでも安全なIoTデバイスを（常識破りのIoTセキュリティ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900219/060200006/</link>
+			<description><![CDATA[　JNSAのIoTセキュリティワーキンググループ（WG）は2016年6月に「コンシューマ向けIoTセキュリティガイド」を公開した。この資料には、ビジネス背景から技術解説を含めコンシューマーIoT機器を開発する企業や個人に知ってほしい事柄を盛り込んだ。まとめた経緯や要点を解説する。]]></description>
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -299,24 +317,6 @@
 			<title>ラズパイがミニPCになる「Ubuntu MATE」、Linuxデスクトップを堪能しよう（週末に遊べるラズパイ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/060800010/</link>
 			<description><![CDATA[　軽量なデスクトップLinuxとして親しまれる「Ubuntu MATE」は、4000円台のPCボード「Raspberry Pi」でも動作します。軽量なデスクトップ環境「MATE」を採用しており、通常のUbuntuよりも比較的軽快に動作します。]]></description>
-			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ユーザーはセキュリティを気にしない！ それでも安全なIoTデバイスを（常識破りのIoTセキュリティ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900219/060200006/</link>
-			<description><![CDATA[　JNSAのIoTセキュリティワーキンググループ（WG）は2016年6月に「コンシューマ向けIoTセキュリティガイド」を公開した。この資料には、ビジネス背景から技術解説を含めコンシューマーIoT機器を開発する企業や個人に知ってほしい事柄を盛り込んだ。まとめた経緯や要点を解説する。]]></description>
-			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「詰めが甘い」と嘆く上司、ネガティブ目線でツッコミに備える（脱・ザンネン社員）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/060600005/</link>
-			<description><![CDATA[　仕事ができる人ほど、どこに落とし穴があるかを常に考えて先手を打っている。情熱を注いで立てた企画でも、想定外の事態への目配りやデメリットの考慮が足りないと、上司から「詰めが甘い」の一言で終わりだ。物事をネガティブな視点からも検討する癖を身に付けよう。]]></description>
-			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ダウンロードフォルダーが危ない、「DLL読み込みの脆弱性」でウイルス感染（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060701007/</link>
-			<description><![CDATA[　Japan Vulnerability Notes（JVN）は2017年5月末、「DLL読み込み問題」という脆弱性が相次いで報告されているとして注意を呼びかけた。この脆弱性のあるインストーラーなどを実行すると、同じフォルダーに置かれた悪質なDLLファイルが勝手に実行される恐れがある。]]></description>
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -414,6 +414,24 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060901625/</link>
 			<description><![CDATA[　米Amazon.comがインドで計画している食料品のネット販売事業に関する認可が、まもなく下りる見通しとなった。これによりAmazon.comは今後5年間で5億ドルを投じ、インド全域にわたる食料品の物流ネットワークを構築する。]]></description>
 			<pubDate>Fri, 09 Jun 2017 10:39:14 +0900</pubDate>
+		</item>
+		<item>
+			<title>新型iPad Proは6月13日発売、ソフトバンクとKDDI（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060901626/</link>
+			<description><![CDATA[　ソフトバンクとKDDIは2017年6月9日、米アップルが「WWDC 2017」にて発表した新型iPad Pro（10.5インチおよび12.9インチ）を6月13日に発売するとそれぞれ発表した。既に両社とも自社のオンラインショップで予約受け付けを開始している。]]></description>
+			<pubDate>Fri, 09 Jun 2017 17:57:17 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソフトバンクC＆S、7980円で買えるSIMフリースマホ発売（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060901627/</link>
+			<description><![CDATA[　ソフトバンク コマース＆サービスは2017年6月8日、米国の携帯端末メーカーであるBLU（ブルー）社のSIMフリースマートフォンを取り扱い開始すると発表した。LTE対応の「GRAND X LTE」と、3G対応の「GRAND M」の2機種で、6月9日から予約開始した。]]></description>
+			<pubDate>Fri, 09 Jun 2017 18:05:41 +0900</pubDate>
+		</item>
+		<item>
+			<title>デルが「フレームレス」のデスクトップPC、AMDのRyzen搭載（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060901628/</link>
+			<description><![CDATA[　デルは2017年6月9日、都内で新製品発表会を開催し、米AMD製のCPUを採用したオールインワン型PCを2機種と、ゲーミングデスクトップ1機種を発表した。いずれも同日販売を開始した。]]></description>
+			<pubDate>Fri, 09 Jun 2017 19:05:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
