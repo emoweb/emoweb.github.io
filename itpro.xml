@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>ボタンひと押しで日用品が買えるAmazon Dash Button、使って分かった課題と期待（青木恵美の信州ITラプソディ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/060800031/</link>
+			<description><![CDATA[　本コラムでは、IoT（インターネット・オブ・シングズ）を母の介護に生かすといった取り組みを書いてきたが、生活をより効率的にすることにも活用したいと考えている。そうしたIoT機器の一つが、Amazon Dash Buttonだ。]]></description>
+			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>マイクロソフト「新Surface Pro」は買いなのか？（週末スペシャル）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/060700316/</link>
 			<description><![CDATA[　マイクロソフトが発表したSurface Proのフルモデルチェンジ版「New Surface Pro」。何が変わったのか？　そして買いなのか？　ライターのジャイアン鈴木氏が解説する。]]></description>
@@ -54,15 +60,15 @@
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ユーザーはセキュリティを気にしない！ それでも安全なIoTデバイスを（常識破りのIoTセキュリティ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900219/060200006/</link>
-			<description><![CDATA[　JNSAのIoTセキュリティワーキンググループ（WG）は2016年6月に「コンシューマ向けIoTセキュリティガイド」を公開した。この資料には、ビジネス背景から技術解説を含めコンシューマーIoT機器を開発する企業や個人に知ってほしい事柄を盛り込んだ。まとめた経緯や要点を解説する。]]></description>
+			<title>ダウンロードフォルダーが危ない、「DLL読み込みの脆弱性」でウイルス感染（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060701007/</link>
+			<description><![CDATA[　Japan Vulnerability Notes（JVN）は2017年5月末、「DLL読み込み問題」という脆弱性が相次いで報告されているとして注意を呼びかけた。この脆弱性のあるインストーラーなどを実行すると、同じフォルダーに置かれた悪質なDLLファイルが勝手に実行される恐れがある。]]></description>
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ボタンひと押しで日用品が買えるAmazon Dash Button、使って分かった課題と期待（青木恵美の信州ITラプソディ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/060800031/</link>
-			<description><![CDATA[　本コラムでは、IoT（インターネット・オブ・シングズ）を母の介護に生かすといった取り組みを書いてきたが、生活をより効率的にすることにも活用したいと考えている。そうしたIoT機器の一つが、Amazon Dash Buttonだ。]]></description>
+			<title>すべてのビジネスはコモディティー化との闘いだ（知られざるアクセンチュア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200206/060700009/</link>
+			<description><![CDATA[　ITサービス世界2位の企業として増収を6年続けるアクセンチュア。変革に意欲的な企業のIT支援にいち早く舵を切り、事業転換した決断が吉と出た。ピエール・ナンテルム会長兼CEO（最高経営責任者）に事業戦略を聞いた。]]></description>
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -78,15 +84,9 @@
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ダウンロードフォルダーが危ない、「DLL読み込みの脆弱性」でウイルス感染（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060701007/</link>
-			<description><![CDATA[　Japan Vulnerability Notes（JVN）は2017年5月末、「DLL読み込み問題」という脆弱性が相次いで報告されているとして注意を呼びかけた。この脆弱性のあるインストーラーなどを実行すると、同じフォルダーに置かれた悪質なDLLファイルが勝手に実行される恐れがある。]]></description>
-			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>すべてのビジネスはコモディティー化との闘いだ（知られざるアクセンチュア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200206/060700009/</link>
-			<description><![CDATA[　ITサービス世界2位の企業として増収を6年続けるアクセンチュア。変革に意欲的な企業のIT支援にいち早く舵を切り、事業転換した決断が吉と出た。ピエール・ナンテルム会長兼CEO（最高経営責任者）に事業戦略を聞いた。]]></description>
+			<title>ユーザーはセキュリティを気にしない！ それでも安全なIoTデバイスを（常識破りのIoTセキュリティ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900219/060200006/</link>
+			<description><![CDATA[　JNSAのIoTセキュリティワーキンググループ（WG）は2016年6月に「コンシューマ向けIoTセキュリティガイド」を公開した。この資料には、ビジネス背景から技術解説を含めコンシューマーIoT機器を開発する企業や個人に知ってほしい事柄を盛り込んだ。まとめた経緯や要点を解説する。]]></description>
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -204,6 +204,12 @@
 			<pubDate>Fri, 09 Jun 2017 19:05:17 +0900</pubDate>
 		</item>
 		<item>
+			<title>さらばウェルチ、GEが進める大転換（超巨大スタートアップGE）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/060900002/</link>
+			<description><![CDATA[　世界最大の重電メーカーである米ゼネラル・エレクトリック（GE）といえば、1990年代末に「20世紀最高のCEO（最高経営責任者）」とまで呼ばれたジャック・ウェルチ氏があまりにも有名だ。しかし今のGEが、ウェルチ時代とは真逆の会社になったことをご存じだろうか。]]></description>
+			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>基本設計は準委任契約、重くなるユーザー責任（永井昭弘のそれって丸投げ？ユーザー責任を斬る）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090600196/052200012/</link>
 			<description><![CDATA[　ベンダーとユーザー企業がシステム開発の契約を結ぶ場合、要件定義と受入テストは準委任契約、詳細設計から総合テストまでは一括で請負契約とするのが一般的であった。ところが、少し前から基本設計を準委任契約で提案するベンダーが増えている。ユーザーに主体的に参加してもらい、仕様を決めてもらう必要があるからだ。]]></description>
@@ -252,15 +258,15 @@
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>パソコンで動くAI、白黒写真を自然な色合いのカラー写真に（カンタンAI）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/060800001/</link>
-			<description><![CDATA[　白黒写真しか残っていないのに、自然なカラー写真として復元できるAIツールがある。早稲田大学の石川博教授らが開発した自動カラー化技術は、白黒とカラー写真の組み合わせを学習させた結果を基に色合いを“想像”して着色してくれる。公式サイトで試せるほか、自分のパソコンにインストールして動かせる。]]></description>
+			<title>ITシステムのモダナイゼーション、二つの落とし穴（モダナイ新潮流）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060500227/060500001/</link>
+			<description><![CDATA[　膨大なコストと時間を掛けてレガシーシステムのモダナイゼーションに取り組んでも、うまくいかないケースが少なくない。二つの落とし穴にハマりやすいからだ。一つは「メインフレームをベースにした日本型基幹システムへの理解不足」、もう一つが「無謀なモダナイゼーション計画」である。]]></description>
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>さらばウェルチ、GEが進める大転換（超巨大スタートアップGE）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/060900002/</link>
-			<description><![CDATA[　世界最大の重電メーカーである米ゼネラル・エレクトリック（GE）といえば、1990年代末に「20世紀最高のCEO（最高経営責任者）」とまで呼ばれたジャック・ウェルチ氏があまりにも有名だ。しかし今のGEが、ウェルチ時代とは真逆の会社になったことをご存じだろうか。]]></description>
+			<title>韓国キャリアと新政府が駆け引き、奨励金のからくり全公開も？（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/060800150/</link>
+			<description><![CDATA[　韓国で新たに発足した文在寅新政府は、移動通信キャリアに対して携帯電話の月額基本使用料を「0ウォン」にするよう求めている。これは毎月携帯電話の番号を維持するために必要な最低限の料金だ。]]></description>
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -276,15 +282,9 @@
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ITシステムのモダナイゼーション、二つの落とし穴（モダナイ新潮流）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060500227/060500001/</link>
-			<description><![CDATA[　膨大なコストと時間を掛けてレガシーシステムのモダナイゼーションに取り組んでも、うまくいかないケースが少なくない。二つの落とし穴にハマりやすいからだ。一つは「メインフレームをベースにした日本型基幹システムへの理解不足」、もう一つが「無謀なモダナイゼーション計画」である。]]></description>
-			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>韓国キャリアと新政府が駆け引き、奨励金のからくり全公開も？（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/060800150/</link>
-			<description><![CDATA[　韓国で新たに発足した文在寅新政府は、移動通信キャリアに対して携帯電話の月額基本使用料を「0ウォン」にするよう求めている。これは毎月携帯電話の番号を維持するために必要な最低限の料金だ。]]></description>
+			<title>パソコンで動くAI、白黒写真を自然な色合いのカラー写真に（カンタンAI）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/060800001/</link>
+			<description><![CDATA[　白黒写真しか残っていないのに、自然なカラー写真として復元できるAIツールがある。早稲田大学の石川博教授らが開発した自動カラー化技術は、白黒とカラー写真の組み合わせを学習させた結果を基に色合いを“想像”して着色してくれる。公式サイトで試せるほか、自分のパソコンにインストールして動かせる。]]></description>
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -387,6 +387,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061201631/</link>
 			<description><![CDATA[　Boxは2017年6月9日、第4回目となる年次イベント「Box World Tour Tokyo 2017」を東京・渋谷で開催した。「クラウドイノベーターパネルディスカッション」には、AGC 旭硝子 情報システム部長 伊藤 肇氏、丸紅 情報企画部長 徳田幸次氏、JFEスチール 理事　IT改革推進部長 新田 哲氏が登壇した。]]></description>
 			<pubDate>Mon, 12 Jun 2017 15:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「働き方改革はペーパーレス化から」、PFUがノウハウを提供する新サービス（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061201636/</link>
+			<description><![CDATA[　PFUは2017年6月12日、「オフィスドキュメントマネジメントサービス」を発表し、販売を開始した。]]></description>
+			<pubDate>Mon, 12 Jun 2017 18:07:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
