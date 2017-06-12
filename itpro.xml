@@ -5,6 +5,18 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>大規模システムの開発部隊は旧日本軍、“抗命”できない現場の悲惨（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/060800142/</link>
+			<description><![CDATA[　システム開発の際、SIerによって組成される開発部隊は、どのような組織なのか。「組織」と書いたが、プロジェクトチームなのでソリッドな組織ではない。だが実態は、階級制の“抗命”が許されない軍隊的組織である。その部隊に無能で意気地の無い司令官が乗っかると……。]]></description>
+			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「現状を変えてくれそう」という顧客の声が励みに（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/060800010/</link>
+			<description><![CDATA[　富士通に入社して以来、一貫して自動車業界を対象にしたITソリューションの営業畑を歩んできた吉江裕紀子氏。チームリーダーの仕事と子育てを両立させるため、日々どのようなことを意識して仕事に臨んでいるのか。]]></description>
+			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>さらばウェルチ、GEが進める大転換（超巨大スタートアップGE）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/060900002/</link>
 			<description><![CDATA[　世界最大の重電メーカーである米ゼネラル・エレクトリック（GE）といえば、1990年代末に「20世紀最高のCEO（最高経営責任者）」とまで呼ばれたジャック・ウェルチ氏があまりにも有名だ。しかし今のGEが、ウェルチ時代とは真逆の会社になったことをご存じだろうか。]]></description>
@@ -47,15 +59,15 @@
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>遅くてもつながればいい、それならLPWA（IoT通信の本命 LPWA）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500001/</link>
-			<description><![CDATA[　各種のデバイスからデータを集めて活用するIoT（Internet of Things）では、用途ごとに最適な通信を利用することが不可欠だ。デバイスを無線技術を使ってインターネットに接続する方法のうち、ここに来て急激に関心を集めているのが、LPWAである。]]></description>
+			<title>迫るサポート終了、Javaシステムは見直し必至（どうする？Java）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/060200001/</link>
+			<description><![CDATA[　企業向けシステムの開発言語として、Javaが使われるようになってから15年。これまで利用されてきたJavaの環境にサポート切れが押し寄せている。企業は今、Javaシステムの見直しが迫られている。]]></description>
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>大規模システムの開発部隊は旧日本軍、“抗命”できない現場の悲惨（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/060800142/</link>
-			<description><![CDATA[　システム開発の際、SIerによって組成される開発部隊は、どのような組織なのか。「組織」と書いたが、プロジェクトチームなのでソリッドな組織ではない。だが実態は、階級制の“抗命”が許されない軍隊的組織である。その部隊に無能で意気地の無い司令官が乗っかると……。]]></description>
+			<title>パソコンで動くAI、白黒写真を自然な色合いのカラー写真に（カンタンAI）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/060800001/</link>
+			<description><![CDATA[　白黒写真しか残っていないのに、自然なカラー写真として復元できるAIツールがある。早稲田大学の石川博教授らが開発した自動カラー化技術は、白黒とカラー写真の組み合わせを学習させた結果を基に色合いを“想像”して着色してくれる。公式サイトで試せるほか、自分のパソコンにインストールして動かせる。]]></description>
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -71,21 +83,9 @@
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>迫るサポート終了、Javaシステムは見直し必至（どうする？Java）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/060200001/</link>
-			<description><![CDATA[　企業向けシステムの開発言語として、Javaが使われるようになってから15年。これまで利用されてきたJavaの環境にサポート切れが押し寄せている。企業は今、Javaシステムの見直しが迫られている。]]></description>
-			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>パソコンで動くAI、白黒写真を自然な色合いのカラー写真に（カンタンAI）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/060800001/</link>
-			<description><![CDATA[　白黒写真しか残っていないのに、自然なカラー写真として復元できるAIツールがある。早稲田大学の石川博教授らが開発した自動カラー化技術は、白黒とカラー写真の組み合わせを学習させた結果を基に色合いを“想像”して着色してくれる。公式サイトで試せるほか、自分のパソコンにインストールして動かせる。]]></description>
-			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「現状を変えてくれそう」という顧客の声が励みに（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/060800010/</link>
-			<description><![CDATA[　富士通に入社して以来、一貫して自動車業界を対象にしたITソリューションの営業畑を歩んできた吉江裕紀子氏。チームリーダーの仕事と子育てを両立させるため、日々どのようなことを意識して仕事に臨んでいるのか。]]></description>
+			<title>遅くてもつながればいい、それならLPWA（IoT通信の本命 LPWA）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500001/</link>
+			<description><![CDATA[　各種のデバイスからデータを集めて活用するIoT（Internet of Things）では、用途ごとに最適な通信を利用することが不可欠だ。デバイスを無線技術を使ってインターネットに接続する方法のうち、ここに来て急激に関心を集めているのが、LPWAである。]]></description>
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -226,6 +226,18 @@
 			<pubDate>Mon, 12 Jun 2017 21:38:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>世界最強の将棋AIとの対局、いつでもどこでも（カンタンAI）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/061200002/</link>
+			<description><![CDATA[　人工知能（AI）の代表格「将棋AI」。そのAI同士が頂点を競った2017年の第27回世界コンピュータ将棋選手権（WCSC27）で1位に輝いたのが、瀧澤誠氏の「elmo」だ。この最先端の将棋AIはWindowsパソコンで簡単に試せる。]]></description>
+			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>クラウドから端末まで一網打尽、拠点内に侵攻するサービス事業者（先端企業ネットワーク SD-WAN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200002/</link>
+			<description><![CDATA[　SD-WANの登場によって、事業者とインテグレーターの領域がなくなろうとしている。事業者は拠点の内部に攻め込み、インテグレーターは拠点から外へと守備範囲を広げようとしている。]]></description>
+			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>新たなIoTサービス続々、日立・富士通・NECが製造業の商機拡大へ（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061001009/</link>
 			<description><![CDATA[　日立製作所、富士通、NECの大手ITベンダー各社が提供する、製造業向けデジタル化支援サービスが出そろった。いずれの企業もIoT（インターネット・オブ・シングズ）技術を事業の軸にし、強化する動きを見せている。自社内実践や他社との協業で積み上げた事例を汎用化し、拡大を加速していく狙いだ。]]></description>
@@ -244,9 +256,9 @@
 			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>世界最強の将棋AIとの対局、いつでもどこでも（カンタンAI）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/061200002/</link>
-			<description><![CDATA[　人工知能（AI）の代表格「将棋AI」。そのAI同士が頂点を競った2017年の第27回世界コンピュータ将棋選手権（WCSC27）で1位に輝いたのが、瀧澤誠氏の「elmo」だ。この最先端の将棋AIはWindowsパソコンで簡単に試せる。]]></description>
+			<title>月額料金が100円を切る、IoTに使いやすい無線通信（IoT通信の本命 LPWA）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500002/</link>
+			<description><![CDATA[　無線通信規格は、これまで主として高速性を追求してきた。その結果として、「遅くても遠くまで飛ぶ」という部分にぽっかり隙間ができていた。]]></description>
 			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -310,22 +322,46 @@
 			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>クラウドから端末まで一網打尽、拠点内に侵攻するサービス事業者（先端企業ネットワーク SD-WAN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200002/</link>
-			<description><![CDATA[　SD-WANの登場によって、事業者とインテグレーターの領域がなくなろうとしている。事業者は拠点の内部に攻め込み、インテグレーターは拠点から外へと守備範囲を広げようとしている。]]></description>
-			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>月額料金が100円を切る、IoTに使いやすい無線通信（IoT通信の本命 LPWA）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500002/</link>
-			<description><![CDATA[　無線通信規格は、これまで主として高速性を追求してきた。その結果として、「遅くても遠くまで飛ぶ」という部分にぽっかり隙間ができていた。]]></description>
-			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>比較表や事例にばかり頼らない、新しい製品選定のコツ（岡大勝のプロジェクトお悩み相談室）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900109/052200003/</link>
 			<description><![CDATA[　製品や技術の選定の際、多くの人は「製品比較表」を作成する。しかし製品比較表は機能の多さと価格の安さが過大評価されがち。といって先進事例の情報を集めても、どのように解釈するのかは難しい。そこで比較表や事例にばかり頼らないために、新しいコツを三つ紹介する。]]></description>
 			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「日本はストリーミングで世界のリーダーに」、米NBC Sports DigitalのCTO（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061201640/</link>
+			<description><![CDATA[　アカマイ・テクノロジーズは2017年6月12日、オリンピックやスーパーボウルなど世界的なスポーツイベントのストリーミング配信を手掛けてきた米NBC Sports DigitalのCTOであるEric Black氏の来日に伴う記者会見を開催した。]]></description>
+			<pubDate>Tue, 13 Jun 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>DevOpsの自動化ツール、Ansibleの人気の理由は（前）（DevOpsの自動化ツール、Ansibleの人気の理由は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　開発やDevOpsに携わっている人と自動化ツールの話をすると、「Chef」と「Puppet」の名が出てくることが多い。だが、この1年半ほどの間に、もう1つ別の名前も加わるようになった。「Ansible」だ。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　Ansibleとは、ソフトウエアのプロビジョニング、構成管理、アプリケーションのデプロイなどを自動化できるオープンソースの自動化エンジンだ。Ansibleという名前は、架空の通信デバイスに由来する。2013年にプロジェクトが立ち上がり、2015年には米Red Hatが買収した。買収額は推定で1億ドルを超える。</p>
+
+<p>　ChefやPuppetとよく似ているAnsibleだが、現時点ではもっぱら話題をさらっているように思える。StackShareのサイトで、ニーズが高いDevOpsツールのトップ5をざっと見てみると、求人情報の中で必須スキルとして名前が挙がっているツールという尺度では、Ansibleは「GitHub」「Docker」に続く第3位である。Red Hat自身、Ansibleの人気をうたう主張の裏づけに熱心だ。同社のJim Whitehurst CEO（最高経営責任者）が2017年3月に話したところでは、Red Hatの全案件のおよそ3分の1にAnsibleが含まれている。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700001/?ST=cm-software&P=2">では、Ansibleの何がそんなに魅力的なのだろうか。RedHa...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700001/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700001/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700001/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 13 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
