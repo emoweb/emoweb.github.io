@@ -5,6 +5,30 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>人月35万円の仕事を足がかりに上流コンサル総取り（下請けの逆襲）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700196/060600007/</link>
+			<description><![CDATA[　人月35万円。テスト実行を担うエンジニアの人月単価は、システム開発に参加するエンジニアの中でも特に低く抑えられてしまっている。低い単価でありながら、迫る納期を目の前に開発遅れのしわ寄せを一身に受ける。2005年創業のベンチャー企業SHIFTはこうしたテスト分野にあえて特化し、高い利益率を確保しながら急成長を遂げている。]]></description>
+			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ユーザーはセキュリティを気にしない！ それでも安全なIoTデバイスを（常識破りのIoTセキュリティ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900219/060200006/</link>
+			<description><![CDATA[　JNSAのIoTセキュリティワーキンググループ（WG）は2016年6月に「コンシューマ向けIoTセキュリティガイド」を公開した。この資料には、ビジネス背景から技術解説を含めコンシューマーIoT機器を開発する企業や個人に知ってほしい事柄を盛り込んだ。まとめた経緯や要点を解説する。]]></description>
+			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>対立やムチャブリはこう解決！ ITプロジェクトお悩み相談室（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/060700317/</link>
+			<description><![CDATA[　ITプロジェクトで起こりがちな当事者間の対立やムチャブリ。いかに解決していくか、悩んでいる人は少なくないでしょう。吉岡英幸氏が、対立やムチャブリへの対処策をQ＆A形式で解説します。]]></description>
+			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「家族で得する格安SIM」はどれがいい？［17年初夏］（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/060700315/</link>
+			<description><![CDATA[　大手携帯電話会社からの乗り換え需要に応えるべく、家族向けの料金プランやオプションを選べる格安SIMが増えてきた。家族向け格安SIM選びのポイントとおすすめを解説する。]]></description>
+			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ボタンひと押しで日用品が買えるAmazon Dash Button、使って分かった課題と期待（青木恵美の信州ITラプソディ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/060800031/</link>
 			<description><![CDATA[　本コラムでは、IoT（インターネット・オブ・シングズ）を母の介護に生かすといった取り組みを書いてきたが、生活をより効率的にすることにも活用したいと考えている。そうしたIoT機器の一つが、Amazon Dash Buttonだ。]]></description>
@@ -35,9 +59,9 @@
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>人月35万円の仕事を足がかりに上流コンサル総取り（下請けの逆襲）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700196/060600007/</link>
-			<description><![CDATA[　人月35万円。テスト実行を担うエンジニアの人月単価は、システム開発に参加するエンジニアの中でも特に低く抑えられてしまっている。低い単価でありながら、迫る納期を目の前に開発遅れのしわ寄せを一身に受ける。2005年創業のベンチャー企業SHIFTはこうしたテスト分野にあえて特化し、高い利益率を確保しながら急成長を遂げている。]]></description>
+			<title>すべてのビジネスはコモディティー化との闘いだ（知られざるアクセンチュア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200206/060700009/</link>
+			<description><![CDATA[　ITサービス世界2位の企業として増収を6年続けるアクセンチュア。変革に意欲的な企業のIT支援にいち早く舵を切り、事業転換した決断が吉と出た。ピエール・ナンテルム会長兼CEO（最高経営責任者）に事業戦略を聞いた。]]></description>
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -64,73 +88,6 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060701007/</link>
 			<description><![CDATA[　Japan Vulnerability Notes（JVN）は2017年5月末、「DLL読み込み問題」という脆弱性が相次いで報告されているとして注意を呼びかけた。この脆弱性のあるインストーラーなどを実行すると、同じフォルダーに置かれた悪質なDLLファイルが勝手に実行される恐れがある。]]></description>
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>すべてのビジネスはコモディティー化との闘いだ（知られざるアクセンチュア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052200206/060700009/</link>
-			<description><![CDATA[　ITサービス世界2位の企業として増収を6年続けるアクセンチュア。変革に意欲的な企業のIT支援にいち早く舵を切り、事業転換した決断が吉と出た。ピエール・ナンテルム会長兼CEO（最高経営責任者）に事業戦略を聞いた。]]></description>
-			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「家族で得する格安SIM」はどれがいい？［17年初夏］（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/060700315/</link>
-			<description><![CDATA[　大手携帯電話会社からの乗り換え需要に応えるべく、家族向けの料金プランやオプションを選べる格安SIMが増えてきた。家族向け格安SIM選びのポイントとおすすめを解説する。]]></description>
-			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>対立やムチャブリはこう解決！ ITプロジェクトお悩み相談室（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/060700317/</link>
-			<description><![CDATA[　ITプロジェクトで起こりがちな当事者間の対立やムチャブリ。いかに解決していくか、悩んでいる人は少なくないでしょう。吉岡英幸氏が、対立やムチャブリへの対処策をQ＆A形式で解説します。]]></description>
-			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ユーザーはセキュリティを気にしない！ それでも安全なIoTデバイスを（常識破りのIoTセキュリティ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900219/060200006/</link>
-			<description><![CDATA[　JNSAのIoTセキュリティワーキンググループ（WG）は2016年6月に「コンシューマ向けIoTセキュリティガイド」を公開した。この資料には、ビジネス背景から技術解説を含めコンシューマーIoT機器を開発する企業や個人に知ってほしい事柄を盛り込んだ。まとめた経緯や要点を解説する。]]></description>
-			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>偽造音声でのなりすまし、実現は間近（下）（偽造音声でのなりすまし、実現は間近）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/053100041/053100003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　攻撃者にパスワードを盗まれることはあっても、生体を盗まれることはないという前提が、テクノロジーの進展に伴って、確実なこととは言えなくなった。例えば、今や指紋は、ハッキングが絶対不可能な認証方法とは言い切れず、なりすましが可能である。そして声についても、同じことが言える日は近そうだ。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/053100041/053100002/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/053100041/053100003/ph3.jpg" width="300" alt="" title=""></div></div>
-
-<p>　認証技術の標準化団体FIDO AllianceのBrett McDowellエグゼクティブディレクターも次のように認める。「音声認識は偽生体提示攻撃に対して弱点がある。つまり、標的のユーザーの身体的特徴を示すサンプルを記録し、それを使って、本人をかたる複製物や、標的ユーザーの生体情報の偽物を作成する攻撃が考えられる」</p>
-
-<p>　また同氏は、ハッカーが生体情報を得ることは比較的簡単だと認める。「人は、手で触るものほぼすべてに指紋を残している。また、画像と音声のどちらも、本人が知らないうちに無断で記録することは簡単だ」</p>
-
-<p>　だがそれでも、生体認証は、効果的なセキュリティレイヤーの1つになり得ると同氏は言う。すなわち、FIDOの標準でも定めているとおり、「正規ユーザーの個人用デバイスを物理的に所有していなければ機能しない2段階のプロセスの1段階目のみに範囲を限定」していれば有効とのことだ。</p>
-
-<p>　この結果、「一元的認証」は終わりを告げることになりそうだ。この言葉を使ったのは、米HYPRのCEO、George Avetisov氏である。同氏が言う一元的認証とは、個人を識別する生体情報を1つのデータベースに保存しておき、「さまざまな人の生体情報が集まったコレクションに対して、認証要求のたびに個人の情報を照合する」ような方式のことだ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/053100041/053100003/?ST=cio-security&P=2">FIDOが推奨している非一元的なシステムの場合、...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/053100041/053100003/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/053100041/053100003/?ST=cio-security&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/053100041/053100003/?ST=cio-security&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/053100041/053100003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 09 Jun 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Yahoo!のインターネット事業売却、2000人超が削減の見込み（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/060901623/</link>
-			<description><![CDATA[　米Yahoo!は現地時間2017年6月8日、同日開催した臨時株主総会において、同社株主が米Verizon Communicationsへのインターネット事業売却を承認したと発表した。VerizonはYahoo!中核事業を獲得したのち傘下の米AOLと統合する計画を明らかにしている。]]></description>
-			<pubDate>Fri, 09 Jun 2017 10:08:38 +0900</pubDate>
 		</item>
 		<item>
 			<title>Appleの「Xcode 9」、ベータ版がついに公開（Computerworldニュース）</title>
@@ -204,6 +161,30 @@
 			<pubDate>Fri, 09 Jun 2017 19:05:17 +0900</pubDate>
 		</item>
 		<item>
+			<title>大規模システムの開発部隊は旧日本軍、“抗命”できない現場の悲惨（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/060800142/</link>
+			<description><![CDATA[　システム開発の際、SIerによって組成される開発部隊は、どのような組織なのか。「組織」と書いたが、プロジェクトチームなのでソリッドな組織ではない。だが実態は、階級制の“抗命”が許されない軍隊的組織である。その部隊に無能で意気地の無い司令官が乗っかると……。]]></description>
+			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「現状を変えてくれそう」という顧客の声が励みに（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/060800010/</link>
+			<description><![CDATA[　富士通に入社して以来、一貫して自動車業界を対象にしたITソリューションの営業畑を歩んできた吉江裕紀子氏。チームリーダーの仕事と子育てを両立させるため、日々どのようなことを意識して仕事に臨んでいるのか。]]></description>
+			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>YouTube TVが上陸する日、乱立する国内ネット動画配信は対抗できるか（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/060600251/</link>
+			<description><![CDATA[　東京放送ホールディングス、日本経済新聞社、テレビ東京ホールディングス、WOWOW、電通、博報堂DYメディアパートナーズは2017年5月23日、有料の動画配信サービスなどを主事業とする新会社「株式会社プレミアム・プラットフォーム・ジャパン」（仮称）を共同で設立することに合意した。]]></description>
+			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>韓国キャリアと新政府が駆け引き、奨励金のからくり全公開も？（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/060800150/</link>
+			<description><![CDATA[　韓国で新たに発足した文在寅新政府は、移動通信キャリアに対して携帯電話の月額基本使用料を「0ウォン」にするよう求めている。これは毎月携帯電話の番号を維持するために必要な最低限の料金だ。]]></description>
+			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>さらばウェルチ、GEが進める大転換（超巨大スタートアップGE）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/060900002/</link>
 			<description><![CDATA[　世界最大の重電メーカーである米ゼネラル・エレクトリック（GE）といえば、1990年代末に「20世紀最高のCEO（最高経営責任者）」とまで呼ばれたジャック・ウェルチ氏があまりにも有名だ。しかし今のGEが、ウェルチ時代とは真逆の会社になったことをご存じだろうか。]]></description>
@@ -228,9 +209,9 @@
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>通信大手、5Gの使い道アピール合戦（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060901008/</link>
-			<description><![CDATA[　通信大手各社が2020年の商用化を目指し開発中の第5世代携帯電話（5G）を巡り、具体的な用途を想定した実証実験のアピール合戦が早くも過熱している。]]></description>
+			<title>ITシステムのモダナイゼーション、二つの落とし穴（モダナイ新潮流）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060500227/060500001/</link>
+			<description><![CDATA[　膨大なコストと時間を掛けてレガシーシステムのモダナイゼーションに取り組んでも、うまくいかないケースが少なくない。二つの落とし穴にハマりやすいからだ。一つは「メインフレームをベースにした日本型基幹システムへの理解不足」、もう一つが「無謀なモダナイゼーション計画」である。]]></description>
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -246,9 +227,9 @@
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>大規模システムの開発部隊は旧日本軍、“抗命”できない現場の悲惨（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/060800142/</link>
-			<description><![CDATA[　システム開発の際、SIerによって組成される開発部隊は、どのような組織なのか。「組織」と書いたが、プロジェクトチームなのでソリッドな組織ではない。だが実態は、階級制の“抗命”が許されない軍隊的組織である。その部隊に無能で意気地の無い司令官が乗っかると……。]]></description>
+			<title>パソコンで動くAI、白黒写真を自然な色合いのカラー写真に（カンタンAI）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/060800001/</link>
+			<description><![CDATA[　白黒写真しか残っていないのに、自然なカラー写真として復元できるAIツールがある。早稲田大学の石川博教授らが開発した自動カラー化技術は、白黒とカラー写真の組み合わせを学習させた結果を基に色合いを“想像”して着色してくれる。公式サイトで試せるほか、自分のパソコンにインストールして動かせる。]]></description>
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -258,33 +239,9 @@
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ITシステムのモダナイゼーション、二つの落とし穴（モダナイ新潮流）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060500227/060500001/</link>
-			<description><![CDATA[　膨大なコストと時間を掛けてレガシーシステムのモダナイゼーションに取り組んでも、うまくいかないケースが少なくない。二つの落とし穴にハマりやすいからだ。一つは「メインフレームをベースにした日本型基幹システムへの理解不足」、もう一つが「無謀なモダナイゼーション計画」である。]]></description>
-			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>韓国キャリアと新政府が駆け引き、奨励金のからくり全公開も？（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/060800150/</link>
-			<description><![CDATA[　韓国で新たに発足した文在寅新政府は、移動通信キャリアに対して携帯電話の月額基本使用料を「0ウォン」にするよう求めている。これは毎月携帯電話の番号を維持するために必要な最低限の料金だ。]]></description>
-			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>YouTube TVが上陸する日、乱立する国内ネット動画配信は対抗できるか（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/060600251/</link>
-			<description><![CDATA[　東京放送ホールディングス、日本経済新聞社、テレビ東京ホールディングス、WOWOW、電通、博報堂DYメディアパートナーズは2017年5月23日、有料の動画配信サービスなどを主事業とする新会社「株式会社プレミアム・プラットフォーム・ジャパン」（仮称）を共同で設立することに合意した。]]></description>
-			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「現状を変えてくれそう」という顧客の声が励みに（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/060800010/</link>
-			<description><![CDATA[　富士通に入社して以来、一貫して自動車業界を対象にしたITソリューションの営業畑を歩んできた吉江裕紀子氏。チームリーダーの仕事と子育てを両立させるため、日々どのようなことを意識して仕事に臨んでいるのか。]]></description>
-			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>パソコンで動くAI、白黒写真を自然な色合いのカラー写真に（カンタンAI）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/060800001/</link>
-			<description><![CDATA[　白黒写真しか残っていないのに、自然なカラー写真として復元できるAIツールがある。早稲田大学の石川博教授らが開発した自動カラー化技術は、白黒とカラー写真の組み合わせを学習させた結果を基に色合いを“想像”して着色してくれる。公式サイトで試せるほか、自分のパソコンにインストールして動かせる。]]></description>
+			<title>通信大手、5Gの使い道アピール合戦（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060901008/</link>
+			<description><![CDATA[　通信大手各社が2020年の商用化を目指し開発中の第5世代携帯電話（5G）を巡り、具体的な用途を想定した実証実験のアピール合戦が早くも過熱している。]]></description>
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -389,10 +346,34 @@
 			<pubDate>Mon, 12 Jun 2017 15:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>トレンドマイクロのサーバーセキュリティ製品が「Google Cloud」に対応（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061201634/</link>
+			<description><![CDATA[　トレンドマイクロは2017年6月12日、総合サーバーセキュリティ対策製品「Trend Micro Deep Security」が、グーグルのクラウドサービス「Google Cloud Platform」に対応すると発表した。]]></description>
+			<pubDate>Mon, 12 Jun 2017 17:37:44 +0900</pubDate>
+		</item>
+		<item>
 			<title>「働き方改革はペーパーレス化から」、PFUがノウハウを提供する新サービス（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061201636/</link>
 			<description><![CDATA[　PFUは2017年6月12日、「オフィスドキュメントマネジメントサービス」を発表し、販売を開始した。]]></description>
 			<pubDate>Mon, 12 Jun 2017 18:07:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本HP、3Dスキャナー搭載のPCを国内で7月上旬に販売開始（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061201637/</link>
+			<description><![CDATA[　日本HPは2017年6月12日、3Dスキャナーを搭載した企業向けPC「Sprout Pro by HP G2」を発表した。7月上旬に国内で販売開始する。液晶ディスプレイがタッチ対応のオールインワンPCに、2D/3Dスキャナーやビデオカメラ、プロジェクターが一体型として組み込まれているのが特徴。]]></description>
+			<pubDate>Mon, 12 Jun 2017 19:47:21 +0900</pubDate>
+		</item>
+		<item>
+			<title>「IoTで収益化の考え方やビジネスモデルの変革を」とジェムアルト（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061201639/</link>
+			<description><![CDATA[　ジェムアルトは2017年6月12日、ハードウエアやソフトウエアの収益化についての説明会を開催した。オランダのジェムアルトのジャム・カーン ヴァイスプレジデントは、ハードウエア会社も単に製品を販売するだけのモデルから、ソフトウエア会社のような考え方でビジネスモデルを変革する重要性を訴えた。]]></description>
+			<pubDate>Mon, 12 Jun 2017 21:14:15 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソニー、文字盤やバンドを着せ替えできる電子ペーパー搭載ウオッチを発売（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061201635/</link>
+			<description><![CDATA[　ソニーは、文字盤とベルトのデザインを切り替えできる電子ペーパー搭載ディスプレイウオッチの新製品「FES Watch U（フェスウォッチ ユー）」を同日発売したと発表した。スマートフォンと連携し、好みの画像を使ってオリジナルデザインを作成できる。]]></description>
+			<pubDate>Mon, 12 Jun 2017 21:38:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
