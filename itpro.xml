@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>「詰めが甘い」と嘆く上司、ネガティブ目線でツッコミに備える（脱・ザンネン社員）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/060600005/</link>
+			<description><![CDATA[　仕事ができる人ほど、どこに落とし穴があるかを常に考えて先手を打っている。情熱を注いで立てた企画でも、想定外の事態への目配りやデメリットの考慮が足りないと、上司から「詰めが甘い」の一言で終わりだ。物事をネガティブな視点からも検討する癖を身に付けよう。]]></description>
+			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>人月35万円の仕事を足がかりに上流コンサル総取り（下請けの逆襲）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051700196/060600007/</link>
 			<description><![CDATA[　人月35万円。テスト実行を担うエンジニアの人月単価は、システム開発に参加するエンジニアの中でも特に低く抑えられてしまっている。低い単価でありながら、迫る納期を目の前に開発遅れのしわ寄せを一身に受ける。2005年創業のベンチャー企業SHIFTはこうしたテスト分野にあえて特化し、高い利益率を確保しながら急成長を遂げている。]]></description>
@@ -41,9 +47,9 @@
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>シスアドは復活できるのか（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/060800853/</link>
-			<description><![CDATA[　2017年6月3日、都内の大学にある会議スペース。50人ほどが参加した勉強会が開かれていた。参加者にはAIやビッグデータを学ぶという目的に加えて、ある共通した思いがあった。]]></description>
+			<title>グーグル参戦で競争激化のテレビ番組配信サービス（情総研レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/060200052/</link>
+			<description><![CDATA[　米グーグルのYouTubeが、有料のテレビ番組配信サービス「YouTube TV」を米国で開始した。「40チャンネル超で月35ドル」という破格のメニューは、CATV事業者やSVOD（Subscription Video On Demand）事業者にとっては脅威になりそうだ。]]></description>
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -53,9 +59,9 @@
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「詰めが甘い」と嘆く上司、ネガティブ目線でツッコミに備える（脱・ザンネン社員）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/060600005/</link>
-			<description><![CDATA[　仕事ができる人ほど、どこに落とし穴があるかを常に考えて先手を打っている。情熱を注いで立てた企画でも、想定外の事態への目配りやデメリットの考慮が足りないと、上司から「詰めが甘い」の一言で終わりだ。物事をネガティブな視点からも検討する癖を身に付けよう。]]></description>
+			<title>ダウンロードフォルダーが危ない、「DLL読み込みの脆弱性」でウイルス感染（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060701007/</link>
+			<description><![CDATA[　Japan Vulnerability Notes（JVN）は2017年5月末、「DLL読み込み問題」という脆弱性が相次いで報告されているとして注意を呼びかけた。この脆弱性のあるインストーラーなどを実行すると、同じフォルダーに置かれた悪質なDLLファイルが勝手に実行される恐れがある。]]></description>
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -78,57 +84,10 @@
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>グーグル参戦で競争激化のテレビ番組配信サービス（情総研レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/060200052/</link>
-			<description><![CDATA[　米グーグルのYouTubeが、有料のテレビ番組配信サービス「YouTube TV」を米国で開始した。「40チャンネル超で月35ドル」という破格のメニューは、CATV事業者やSVOD（Subscription Video On Demand）事業者にとっては脅威になりそうだ。]]></description>
+			<title>シスアドは復活できるのか（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/060800853/</link>
+			<description><![CDATA[　2017年6月3日、都内の大学にある会議スペース。50人ほどが参加した勉強会が開かれていた。参加者にはAIやビッグデータを学ぶという目的に加えて、ある共通した思いがあった。]]></description>
 			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ダウンロードフォルダーが危ない、「DLL読み込みの脆弱性」でウイルス感染（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060701007/</link>
-			<description><![CDATA[　Japan Vulnerability Notes（JVN）は2017年5月末、「DLL読み込み問題」という脆弱性が相次いで報告されているとして注意を呼びかけた。この脆弱性のあるインストーラーなどを実行すると、同じフォルダーに置かれた悪質なDLLファイルが勝手に実行される恐れがある。]]></description>
-			<pubDate>Fri, 09 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Appleの「Xcode 9」、ベータ版がついに公開（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060900378/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Appleは、macOS／iOS／tvOS／watchOS用アプリの統合開発環境「Xcode」の最新バージョン「Xcode 9」のベータ版を6月初めに公開した。今回のバージョンでは、ソースコードエディタやビルドシステムが新しくなったほか、最新のプログラミング言語「Swift 4」にも対応した。そのほか、デバッグ、リファクタリング、GPU対応、検索／置換の高速化に至るまで、さまざまな面で多数の改良が加わっている。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060900378/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: IDGNS</div>
-</div>
-<p>
-　Appleの説明によると、新しいソースコードエディタは、サイズが大きなファイルでもスクロールが高速になった。また、新しいソース管理ナビゲータでは、ワークスペースのブランチ、タグ、リモートリポジトリを確認でき、よく行う作業にアクセスしやすくなった。
-</p>
-<p>
-　Swiftに関しては、1つのコンパイラでSwift 3と4の両バージョンに対応。同じプロジェクトの中で両バージョンのターゲットを共にコンパイルできる。移行についても改良され、特定のターゲットのみをSwift 4に移行できる。このほか、ジェネリックコードの高速化や、コードサイズの抑制を実現した。
-</p>
-<p>
-　ビルドシステムに関しては、Swiftで開発した新しいビルドシステムをプレビューとして搭載した。Appleによると、このビルドシステムは信頼性が高く、プロジェクトの構成の問題を数多く捕捉でき、ビルドシステムのパフォーマンスが向上する。ただし、ここで言うパフォーマンスとは、コンパイラやリンカなど、他のツールは含まないとのことだ。この新しいビルドシステムは、現時点ではオプション扱いだが、将来のバージョンのXcodeではデフォルトになる。
-</p>
-<p>
-　デバッグについては、iOSデバイスやtvOSデバイスをワイヤレスでデバッグする機能が加わった。Appleのグラフィック技術「Metal」用の新しいデバッガもある。また、未定義の動作を検出する「Undefined Behavior Sanitizer」では、プログラムのクラッシュや予期せぬ動作、将来のバージョンのXcodeとの非互換性の原因となる箇所を見つけることができる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060900378/?ST=cm-software&P=2">GPU対応については、GPUフレームキャプチャとオーバーライドに...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060900378/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060900378/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060900378/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 09 Jun 2017 10:10:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ソフトバンク、ロボットベンチャーのボストン・ダイナミクスなど2社を買収へ（ニュース）</title>
@@ -161,15 +120,21 @@
 			<pubDate>Fri, 09 Jun 2017 19:05:17 +0900</pubDate>
 		</item>
 		<item>
+			<title>韓国キャリアと新政府が駆け引き、奨励金のからくり全公開も？（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/060800150/</link>
+			<description><![CDATA[　韓国で新たに発足した文在寅新政府は、移動通信キャリアに対して携帯電話の月額基本使用料を「0ウォン」にするよう求めている。これは毎月携帯電話の番号を維持するために必要な最低限の料金だ。]]></description>
+			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>大規模システムの開発部隊は旧日本軍、“抗命”できない現場の悲惨（木村岳史の極言暴論！）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/060800142/</link>
 			<description><![CDATA[　システム開発の際、SIerによって組成される開発部隊は、どのような組織なのか。「組織」と書いたが、プロジェクトチームなのでソリッドな組織ではない。だが実態は、階級制の“抗命”が許されない軍隊的組織である。その部隊に無能で意気地の無い司令官が乗っかると……。]]></description>
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「現状を変えてくれそう」という顧客の声が励みに（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/060800010/</link>
-			<description><![CDATA[　富士通に入社して以来、一貫して自動車業界を対象にしたITソリューションの営業畑を歩んできた吉江裕紀子氏。チームリーダーの仕事と子育てを両立させるため、日々どのようなことを意識して仕事に臨んでいるのか。]]></description>
+			<title>遅くてもつながればいい、それならLPWA（IoT通信の本命 LPWA）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500001/</link>
+			<description><![CDATA[　各種のデバイスからデータを集めて活用するIoT（Internet of Things）では、用途ごとに最適な通信を利用することが不可欠だ。デバイスを無線技術を使ってインターネットに接続する方法のうち、ここに来て急激に関心を集めているのが、LPWAである。]]></description>
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -179,9 +144,9 @@
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>韓国キャリアと新政府が駆け引き、奨励金のからくり全公開も？（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/060800150/</link>
-			<description><![CDATA[　韓国で新たに発足した文在寅新政府は、移動通信キャリアに対して携帯電話の月額基本使用料を「0ウォン」にするよう求めている。これは毎月携帯電話の番号を維持するために必要な最低限の料金だ。]]></description>
+			<title>通信大手、5Gの使い道アピール合戦（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060901008/</link>
+			<description><![CDATA[　通信大手各社が2020年の商用化を目指し開発中の第5世代携帯電話（5G）を巡り、具体的な用途を想定した実証実験のアピール合戦が早くも過熱している。]]></description>
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -233,15 +198,9 @@
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>遅くてもつながればいい、それならLPWA（IoT通信の本命 LPWA）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500001/</link>
-			<description><![CDATA[　各種のデバイスからデータを集めて活用するIoT（Internet of Things）では、用途ごとに最適な通信を利用することが不可欠だ。デバイスを無線技術を使ってインターネットに接続する方法のうち、ここに来て急激に関心を集めているのが、LPWAである。]]></description>
-			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>通信大手、5Gの使い道アピール合戦（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/060901008/</link>
-			<description><![CDATA[　通信大手各社が2020年の商用化を目指し開発中の第5世代携帯電話（5G）を巡り、具体的な用途を想定した実証実験のアピール合戦が早くも過熱している。]]></description>
+			<title>「現状を変えてくれそう」という顧客の声が励みに（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/060800010/</link>
+			<description><![CDATA[　富士通に入社して以来、一貫して自動車業界を対象にしたITソリューションの営業畑を歩んできた吉江裕紀子氏。チームリーダーの仕事と子育てを両立させるため、日々どのようなことを意識して仕事に臨んでいるのか。]]></description>
 			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -362,6 +321,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061201637/</link>
 			<description><![CDATA[　日本HPは2017年6月12日、3Dスキャナーを搭載した企業向けPC「Sprout Pro by HP G2」を発表した。7月上旬に国内で販売開始する。液晶ディスプレイがタッチ対応のオールインワンPCに、2D/3Dスキャナーやビデオカメラ、プロジェクターが一体型として組み込まれているのが特徴。]]></description>
 			<pubDate>Mon, 12 Jun 2017 19:47:21 +0900</pubDate>
+		</item>
+		<item>
+			<title>手軽に家全体をWi-Fiエリアに、TP-Linkが新製品（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061201638/</link>
+			<description><![CDATA[　ネットワーク機器メーカーのティーピーリンクジャパン（以下、TP-Link）は2017年6月12日、家庭向けWi-Fi機器の新製品「Deco M5」を発表した。]]></description>
+			<pubDate>Mon, 12 Jun 2017 21:10:20 +0900</pubDate>
 		</item>
 		<item>
 			<title>「IoTで収益化の考え方やビジネスモデルの変革を」とジェムアルト（ニュース）</title>
