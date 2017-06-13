@@ -5,16 +5,70 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：迫るサポート終了、Javaシステムは見直し必至（どうする？Java）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/060200001/?d13</link>
-			<description><![CDATA[　企業向けシステムの開発言語として、Javaが使われるようになってから15年。これまで利用されてきたJavaの環境にサポート切れが押し寄せている。企業は今、Javaシステムの見直しが迫られている。]]></description>
-			<pubDate>Mon, 12 Jun 2017 05:00:00 +0900</pubDate>
+			<title>SHOWROOM（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/060700076/</link>
+			<description><![CDATA[　ライブ配信サービス。アイドルやタレントらが生配信を行い、視聴者と濃密に交流できるスタイルが人気。「ギフティング」ではアイテムで演者を支援でき、“投げ銭”によるマネタイズモデルを確立した。]]></description>
+			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ソニー、文字盤やバンドを着せ替えできる電子ペーパー搭載ウオッチを発売（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061201635/</link>
-			<description><![CDATA[　ソニーは、文字盤とベルトのデザインを切り替えできる電子ペーパー搭載ディスプレイウオッチの新製品「FES Watch U（フェスウォッチ ユー）」を同日発売したと発表した。スマートフォンと連携し、好みの画像を使ってオリジナルデザインを作成できる。]]></description>
-			<pubDate>Mon, 12 Jun 2017 21:38:00 +0900</pubDate>
+			<title>ソニーのIoT玩具「toio」、おもちゃに最先端技術を活用する理由（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/060700109/</link>
+			<description><![CDATA[　ソニーが2017年6月1日に発表した玩具のプラットフォーム「toio（トイオ）」が、大きな注目を集めているようだ。様々なセンサー技術を活用して2つのキューブを制御し、柔軟性の高い遊び方ができる。ソニーはなぜ、玩具に最先端技術を活用したのだろうか。]]></description>
+			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Googleクラウドの切り札は機械学習、「専門家の才能も提供」と責任者（シリコンバレーNextレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/061100112/</link>
+			<description><![CDATA[　米Googleがクラウドサービス「Google Cloud Platform」利用拡大の切り札に据えているのが機械学習サービスだ。同サービスの開発責任者であるJia Li氏は「機械学習を誰もが利用できるものにすることに、大きなビジネスチャンスがある」と意気込む。]]></description>
+			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>月額料金が100円を切る、IoTに使いやすい無線通信（IoT通信の本命 LPWA）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500002/</link>
+			<description><![CDATA[　無線通信規格は、これまで主として高速性を追求してきた。その結果として、「遅くても遠くまで飛ぶ」という部分にぽっかり隙間ができていた。]]></description>
+			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>本当に日本は「フリーWi-Fi後進国」か（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061100855/</link>
+			<description><![CDATA[　「スマホをサカサにして撮ればいいんだよ」。先日、ある日本酒マニアの友人と酒を酌み交わしていたときに、こんな知恵を彼から授かった。]]></description>
+			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「新要件は後回し」がモダナイの新たな鉄則（モダナイ新潮流）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060500227/060500002/</link>
+			<description><![CDATA[　十分な現状分析を怠ってモダナイゼーションに失敗するユーザー企業がいる一方、完璧に現状を分析しようとして一歩も動けなくなる企業も多い。モダナイゼーションを現実的に進めるために、二つのステップに分けて作業を遂行することを推奨する。]]></description>
+			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>比較表や事例にばかり頼らない、新しい製品選定のコツ（岡大勝のプロジェクトお悩み相談室）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900109/052200003/</link>
+			<description><![CDATA[　製品や技術の選定の際、多くの人は「製品比較表」を作成する。しかし製品比較表は機能の多さと価格の安さが過大評価されがち。といって先進事例の情報を集めても、どのように解釈するのかは難しい。そこで比較表や事例にばかり頼らないために、新しいコツを三つ紹介する。]]></description>
+			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>3万円台でデュアルカメラとはお手頃スマホ、でも細部は…（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/060900120/</link>
+			<description><![CDATA[　SIMフリースマホは相変わらず人気で、利用者は増え続けているようだ。売れ筋製品のメーカーを見ると、ファーウェイ、ASUS、プラスワン・マーケティング、Motorola Mobilityあたりが上位を占めている。今回取り上げる「Blade V8」のメーカーZTEは、それに続く企業といえるだろう。]]></description>
+			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>クラウドから端末まで一網打尽、拠点内に侵攻するサービス事業者（先端企業ネットワーク SD-WAN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200002/</link>
+			<description><![CDATA[　SD-WANの登場によって、事業者とインテグレーターの領域がなくなろうとしている。事業者は拠点の内部に攻め込み、インテグレーターは拠点から外へと守備範囲を広げようとしている。]]></description>
+			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>今でも起こるトンネル崩落、悲劇の根絶をAIに託す（誕生！インフラ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/060900018/</link>
+			<description><![CDATA[　トンネル工事の現場は昔に比べると安全になったとはいえ、崩落による作業員の死亡事故が、今でも起こっている。この種の事故を根絶することは不可能なのか。準大手ゼネコンの安藤ハザマは、AI（人工知能）の力を借りることにした。]]></description>
+			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>夢はソロインテグレータの社会的認知と避暑地からの遠隔サポート（10人のIT部門が消滅～ひとり情シス顛末記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/060900022/</link>
+			<description><![CDATA[　10人もいたIT部門が消滅し、ただ一人残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。実話の当事者である著者が、読者から質問に答える。今回は、意外なほど多くの質問が寄せられた「将来の夢」について語ってもらった。]]></description>
+			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>新たなIoTサービス続々、日立・富士通・NECが製造業の商機拡大へ（ニュース解説）</title>
@@ -41,88 +95,16 @@
 			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>4年振りに「Java EE」の新版登場、「SE」は2カ月遅れに（どうする？Java）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/060200002/</link>
-			<description><![CDATA[　デスクトップ向けのJavaの標準仕様である「Java Standard Edition（SE）」企業向けJavaの「Java Enterprise Edition（EE）」の新版がともに2017年中に新版が登場する。新しいJava標準の特徴を押えよう。]]></description>
-			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ソフト開発のアウトソーシングを全面否定するGE（超巨大スタートアップGE）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/060900003/</link>
 			<description><![CDATA[　「アウトソーシングは敗者」――。リーマンショックをきっかけに「脱・製造業」路線から「製造業回帰」や「製造業デジタル化」へと大転換した米ゼネラル・エレクトリック（GE）。同社のジェフ・イメルト会長兼CEOは、ソフトウエアの内製化にも舵を切った。GEがなぜ内製を目指したのか。その理由を解説しよう。]]></description>
 			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>夢はソロインテグレータの社会的認知と避暑地からの遠隔サポート（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/060900022/</link>
-			<description><![CDATA[　10人もいたIT部門が消滅し、ただ一人残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。実話の当事者である著者が、読者から質問に答える。今回は、意外なほど多くの質問が寄せられた「将来の夢」について語ってもらった。]]></description>
+			<title>4年振りに「Java EE」の新版登場、「SE」は2カ月遅れに（どうする？Java）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/060200002/</link>
+			<description><![CDATA[　デスクトップ向けのJavaの標準仕様である「Java Standard Edition（SE）」企業向けJavaの「Java Enterprise Edition（EE）」の新版がともに2017年中に新版が登場する。新しいJava標準の特徴を押えよう。]]></description>
 			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>今でも起こるトンネル崩落、悲劇の根絶をAIに託す（誕生！インフラ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/060900018/</link>
-			<description><![CDATA[　トンネル工事の現場は昔に比べると安全になったとはいえ、崩落による作業員の死亡事故が、今でも起こっている。この種の事故を根絶することは不可能なのか。準大手ゼネコンの安藤ハザマは、AI（人工知能）の力を借りることにした。]]></description>
-			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>クラウドから端末まで一網打尽、拠点内に侵攻するサービス事業者（先端企業ネットワーク SD-WAN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200002/</link>
-			<description><![CDATA[　SD-WANの登場によって、事業者とインテグレーターの領域がなくなろうとしている。事業者は拠点の内部に攻め込み、インテグレーターは拠点から外へと守備範囲を広げようとしている。]]></description>
-			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>3万円台でデュアルカメラとはお手頃スマホ、でも細部は…（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/060900120/</link>
-			<description><![CDATA[　SIMフリースマホは相変わらず人気で、利用者は増え続けているようだ。売れ筋製品のメーカーを見ると、ファーウェイ、ASUS、プラスワン・マーケティング、Motorola Mobilityあたりが上位を占めている。今回取り上げる「Blade V8」のメーカーZTEは、それに続く企業といえるだろう。]]></description>
-			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>SHOWROOM（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/060700076/</link>
-			<description><![CDATA[　ライブ配信サービス。アイドルやタレントらが生配信を行い、視聴者と濃密に交流できるスタイルが人気。「ギフティング」ではアイテムで演者を支援でき、“投げ銭”によるマネタイズモデルを確立した。]]></description>
-			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>比較表や事例にばかり頼らない、新しい製品選定のコツ（岡大勝のプロジェクトお悩み相談室）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900109/052200003/</link>
-			<description><![CDATA[　製品や技術の選定の際、多くの人は「製品比較表」を作成する。しかし製品比較表は機能の多さと価格の安さが過大評価されがち。といって先進事例の情報を集めても、どのように解釈するのかは難しい。そこで比較表や事例にばかり頼らないために、新しいコツを三つ紹介する。]]></description>
-			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「新要件は後回し」がモダナイの新たな鉄則（モダナイ新潮流）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060500227/060500002/</link>
-			<description><![CDATA[　十分な現状分析を怠ってモダナイゼーションに失敗するユーザー企業がいる一方、完璧に現状を分析しようとして一歩も動けなくなる企業も多い。モダナイゼーションを現実的に進めるために、二つのステップに分けて作業を遂行することを推奨する。]]></description>
-			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>本当に日本は「フリーWi-Fi後進国」か（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061100855/</link>
-			<description><![CDATA[　「スマホをサカサにして撮ればいいんだよ」。先日、ある日本酒マニアの友人と酒を酌み交わしていたときに、こんな知恵を彼から授かった。]]></description>
-			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>月額料金が100円を切る、IoTに使いやすい無線通信（IoT通信の本命 LPWA）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500002/</link>
-			<description><![CDATA[　無線通信規格は、これまで主として高速性を追求してきた。その結果として、「遅くても遠くまで飛ぶ」という部分にぽっかり隙間ができていた。]]></description>
-			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Googleクラウドの切り札は機械学習、「専門家の才能も提供」と責任者（シリコンバレーNextレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/061100112/</link>
-			<description><![CDATA[　米Googleがクラウドサービス「Google Cloud Platform」利用拡大の切り札に据えているのが機械学習サービスだ。同サービスの開発責任者であるJia Li氏は「機械学習を誰もが利用できるものにすることに、大きなビジネスチャンスがある」と意気込む。]]></description>
-			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソニーのIoT玩具「toio」、おもちゃに最先端技術を活用する理由（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/060700109/</link>
-			<description><![CDATA[　ソニーが2017年6月1日に発表した玩具のプラットフォーム「toio（トイオ）」が、大きな注目を集めているようだ。様々なセンサー技術を活用して2つのキューブを制御し、柔軟性の高い遊び方ができる。ソニーはなぜ、玩具に最先端技術を活用したのだろうか。]]></description>
-			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「日本はストリーミングで世界のリーダーに」、米NBC Sports DigitalのCTO（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061201640/</link>
-			<description><![CDATA[　アカマイ・テクノロジーズは2017年6月12日、オリンピックやスーパーボウルなど世界的なスポーツイベントのストリーミング配信を手掛けてきた米NBC Sports DigitalのCTOであるEric Black氏の来日に伴う記者会見を開催した。]]></description>
-			<pubDate>Tue, 13 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>DevOpsの自動化ツール、Ansibleの人気の理由は（前）（DevOpsの自動化ツール、Ansibleの人気の理由は）</title>
@@ -152,6 +134,12 @@
 <div></div>
 </div>
 ]]></description>
+			<pubDate>Tue, 13 Jun 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「日本はストリーミングで世界のリーダーに」、米NBC Sports DigitalのCTO（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061201640/</link>
+			<description><![CDATA[　アカマイ・テクノロジーズは2017年6月12日、オリンピックやスーパーボウルなど世界的なスポーツイベントのストリーミング配信を手掛けてきた米NBC Sports DigitalのCTOであるEric Black氏の来日に伴う記者会見を開催した。]]></description>
 			<pubDate>Tue, 13 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -267,6 +255,72 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900220/061300015/</link>
 			<description><![CDATA[　2017年6月13日、ICTの総合展「Cloud Days 札幌 2017」に、人気女優の足立梨花さんが登場。自身が所属する「ホリプロ」で情報システム部長になったらという設定で、企業がデジタル変革でどう変わるかについて、野村総合研究所の上級コンサルタントである鈴木良介氏とトークセッションを行った。]]></description>
 			<pubDate>Tue, 13 Jun 2017 19:27:23 +0900</pubDate>
+		</item>
+		<item>
+			<title>IoTで活気づくデバッグ市場、ローソン玉塚氏が今飛び込む理由（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061301011/</link>
+			<description><![CDATA[　IoTの広がりを受け、デバッグ事業を手掛けるITベンダーが拡充策を相次いで打ち出している。ハーツユナイテッドグループはローソン会長だった玉塚元一氏を社長に招聘、同氏の人脈や経営力で業容拡大を図る。イー・ガーディアンはセキュリティ検査も同時に請け負い、総合力で勝負する。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>iOS 11やiPad Proなど目白押し、WWDCで「満額回答」をしたアップル（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/061300046/</link>
+			<description><![CDATA[　米アップルは2017年6月5日から9日までカリフォルニア州サンノゼで、世界開発者会議「WWDC 2017」を開催した。基調講演では、6つのテーマを紹介する盛りだくさんぶりで、各種OSとハードウエアのリリースに会場は沸いた。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>LPWAの無線通信、なぜ300kmも先まで届くのか（IoT通信の本命 LPWA）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500003/</link>
+			<description><![CDATA[　LPWAはいずれも、通信速度を遅くすることで、電波の到達距離を伸ばすのが基本だ。SIGFOXはさらに、二つの工夫で伝達距離を伸ばしている。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>塩漬けレガシーとマイクロサービスの意外な相性（モダナイ新潮流）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060500227/060500003/</link>
+			<description><![CDATA[　レガシーシステムのオープン化や最適化に成功しても、機能全体が一つの巨大化・複雑化したモノリシックな構造のままでは未来がない。小さなサービスを組み合わせてアプリケーションを構築する「マイクロサービス」を次の一手として採用すべきだ。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>線だけ描いたイラスト、AIが自動で色塗り（カンタンAI）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/061200003/</link>
+			<description><![CDATA[　線だけのイラストに人工知能（AI）が自然に色を付けてくれるのが「PaintsChainer」だ。公式サイトで試せるほか、Preferred Networksが開発した機械学習ライブラリである「Chainer」で動くプログラムや学習モデルを公開しており、パソコンでも動かせる。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Javaフレームワークの選択、「カギはマイクロサービス」（どうする？Java）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/061200003/</link>
+			<description><![CDATA[　今後もJavaは企業向けシステム開発に欠かせない言語であり続けるのか。日本に2人しかいない「Java Champion」の1人である日本マイクロソフトの寺田佳央氏に「企業向けシステムとJava」の今後について聞いた。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソフト内製化に不可欠な仕事、GEが引き抜いた男（超巨大スタートアップGE）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/060900004/</link>
+			<description><![CDATA[　米ゼネラル・エレクトリック（GE）が進めようとしていたのは、「インダストリアルインターネット」という新コンセプトを実現するためのソフトウエアの開発だ。どのような機能が必要なのかを、ソフトウエア開発部隊が自ら決める必要があった。しかし、それができる人材が社内に存在しなかったGEは、シリコンバレーからベテランのプロダクトマネジャーを採用し始めた。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>次期Androidのプレビュー版、驚きの新機能はないが着実な改善あり（ネットワーク・ホットトピックス）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/277462/060500059/</link>
+			<description><![CDATA[　米グーグルは2017年3月21日、「Android O」という開発コード名の次期版Androidの開発者向けプレビュー版を公開した。使い勝手を劇的に変えるような新機能はないが、着実な改善が見てとれる。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>プログラマーではない人がプログラミングを学ぶのは無駄なのか（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/060800854/</link>
+			<description><![CDATA[　個人が身に付けるべき技能として「プログラミング」が大きな注目を集めている。2020年からは小学校でのプログラミング教育が必修になる。プログラミング教育を大きな柱の一つに掲げたN高等学校（N高）も登場した。小中学生や高校生、あるいは社会人を対象にしたプログラミングスクールも盛んだ。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Office 365を快適に利用するためのWANとは？（先端企業ネットワーク SD-WAN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200003/</link>
+			<description><![CDATA[　「なぜOffice 365がコミュニケーションツールの候補に挙がっていないのか」──。今や経営層や事業責任者からこう言われることが珍しくないくらい、企業におけるOffice 365の導入意欲が急速に高まっている。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>プレゼンは「いつ買ったか」を言える服で勝負（清水久三子の提案は誰が言うか）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900110/052200003/</link>
+			<description><![CDATA[　報告や発表をする際には、その内容だけを見られているわけではありません。発表を聞く人は、発表者の立ち居振る舞いや雰囲気、つまりプレゼンスを見ています。そこで三つのポイントを意識して相手に与える印象を管理しましょう。（1）登場時の姿勢、（2）服装、（3）相手との距離感です。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
