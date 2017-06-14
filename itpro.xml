@@ -11,12 +11,6 @@
 			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Facebookが「インスタント記事」有料版導入か、メディアの不満に対応（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061301642/</link>
-			<description><![CDATA[　米Facebookは、パブリッシャーの記事コンテンツを、ニュースフィードに配信する「Instant Articles（インスタント記事）」について、利用者に課金する有料サブスクリプションサービスを検討していると、米Wall Street Journalが現地時間2017年6月12日に報じた。]]></description>
-			<pubDate>Tue, 13 Jun 2017 10:36:35 +0900</pubDate>
-		</item>
-		<item>
 			<title>Cloud Days 札幌開幕、29セッションのセミナーと展示を実施（Cloud Days 2017レポート）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900220/061300011/</link>
 			<description><![CDATA[　ICTの総合展「Cloud Days 札幌 2017」（主催：日経BP社）が2017年6月13日、札幌コンベンションセンター（札幌市白石区）で開幕した。59社が出展・協賛し、2日間にわたって29セッションに及ぶキーノートやセミナーを開講する。]]></description>
@@ -71,6 +65,12 @@
 			<pubDate>Tue, 13 Jun 2017 19:27:23 +0900</pubDate>
 		</item>
 		<item>
+			<title>IoTで活気づくデバッグ市場、ローソン玉塚氏が今飛び込む理由（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061301011/</link>
+			<description><![CDATA[　IoTの広がりを受け、デバッグ事業を手掛けるITベンダーが拡充策を相次いで打ち出している。ハーツユナイテッドグループはローソン会長だった玉塚元一氏を社長に招聘、同氏の人脈や経営力で業容拡大を図る。イー・ガーディアンはセキュリティ検査も同時に請け負い、総合力で勝負する。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>Office 365を快適に利用するためのWANとは？（先端企業ネットワーク SD-WAN）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200003/</link>
 			<description><![CDATA[　「なぜOffice 365がコミュニケーションツールの候補に挙がっていないのか」──。今や経営層や事業責任者からこう言われることが珍しくないくらい、企業におけるOffice 365の導入意欲が急速に高まっている。]]></description>
@@ -95,15 +95,15 @@
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>LPWAの無線通信、なぜ300kmも先まで届くのか（IoT通信の本命 LPWA）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500003/</link>
-			<description><![CDATA[　LPWAはいずれも、通信速度を遅くすることで、電波の到達距離を伸ばすのが基本だ。SIGFOXはさらに、二つの工夫で伝達距離を伸ばしている。]]></description>
+			<title>ソフト内製化に不可欠な仕事、GEが引き抜いた男（超巨大スタートアップGE）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/060900004/</link>
+			<description><![CDATA[　米ゼネラル・エレクトリック（GE）が進めようとしていたのは、「インダストリアルインターネット」という新コンセプトを実現するためのソフトウエアの開発だ。どのような機能が必要なのかを、ソフトウエア開発部隊が自ら決める必要があった。しかし、それができる人材が社内に存在しなかったGEは、シリコンバレーからベテランのプロダクトマネジャーを採用し始めた。]]></description>
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>IoTで活気づくデバッグ市場、ローソン玉塚氏が今飛び込む理由（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061301011/</link>
-			<description><![CDATA[　IoTの広がりを受け、デバッグ事業を手掛けるITベンダーが拡充策を相次いで打ち出している。ハーツユナイテッドグループはローソン会長だった玉塚元一氏を社長に招聘、同氏の人脈や経営力で業容拡大を図る。イー・ガーディアンはセキュリティ検査も同時に請け負い、総合力で勝負する。]]></description>
+			<title>Javaフレームワークの選択、「カギはマイクロサービス」（どうする？Java）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/061200003/</link>
+			<description><![CDATA[　今後もJavaは企業向けシステム開発に欠かせない言語であり続けるのか。日本に2人しかいない「Java Champion」の1人である日本マイクロソフトの寺田佳央氏に「企業向けシステムとJava」の今後について聞いた。]]></description>
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -125,15 +125,9 @@
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ソフト内製化に不可欠な仕事、GEが引き抜いた男（超巨大スタートアップGE）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/060900004/</link>
-			<description><![CDATA[　米ゼネラル・エレクトリック（GE）が進めようとしていたのは、「インダストリアルインターネット」という新コンセプトを実現するためのソフトウエアの開発だ。どのような機能が必要なのかを、ソフトウエア開発部隊が自ら決める必要があった。しかし、それができる人材が社内に存在しなかったGEは、シリコンバレーからベテランのプロダクトマネジャーを採用し始めた。]]></description>
-			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Javaフレームワークの選択、「カギはマイクロサービス」（どうする？Java）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/061200003/</link>
-			<description><![CDATA[　今後もJavaは企業向けシステム開発に欠かせない言語であり続けるのか。日本に2人しかいない「Java Champion」の1人である日本マイクロソフトの寺田佳央氏に「企業向けシステムとJava」の今後について聞いた。]]></description>
+			<title>LPWAの無線通信、なぜ300kmも先まで届くのか（IoT通信の本命 LPWA）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500003/</link>
+			<description><![CDATA[　LPWAはいずれも、通信速度を遅くすることで、電波の到達距離を伸ばすのが基本だ。SIGFOXはさらに、二つの工夫で伝達距離を伸ばしている。]]></description>
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -249,6 +243,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401654/</link>
 			<description><![CDATA[　カシオ計算機は2017年6月14日、Bluetooth搭載ストップウオッチ「HSB-100W」を6月16日に発売すると発表した。計測したラップタイムなどのデータをiPhoneに転送して専用アプリ上で管理できる。希望小売価格は8000円（税別）。]]></description>
 			<pubDate>Wed, 14 Jun 2017 17:10:05 +0900</pubDate>
+		</item>
+		<item>
+			<title>ネットギア、10Gイーサと60ベイ搭載の4UラックサイズNAS「ReadyNAS 4360X/4360S」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401655/</link>
+			<description><![CDATA[　ネットギアジャパンは、10Gイーサネットポート2基とインテル製サーバー向け最新CPU、大容量メモリーを搭載した4Uラックマウント型ネットワークストレージ（NAS）「ReadyNAS 4360X」および「同 4360S」を2017年6月8日発売した。いずれもディスクレスモデルで、顧客側で必要なスペックのHDDを必要な台数だけ用意するため、最小コストで運用開始できる。]]></description>
+			<pubDate>Wed, 14 Jun 2017 17:11:16 +0900</pubDate>
 		</item>
 		<item>
 			<title>日本語入力「Simeji」が音声入力に対応、バイドゥの音声認識AIを活用（ニュース）</title>
