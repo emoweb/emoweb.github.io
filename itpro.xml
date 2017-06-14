@@ -5,94 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>DevOpsの自動化ツール、Ansibleの人気の理由は（前）（DevOpsの自動化ツール、Ansibleの人気の理由は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　開発やDevOpsに携わっている人と自動化ツールの話をすると、「Chef」と「Puppet」の名が出てくることが多い。だが、この1年半ほどの間に、もう1つ別の名前も加わるようになった。「Ansible」だ。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　Ansibleとは、ソフトウエアのプロビジョニング、構成管理、アプリケーションのデプロイなどを自動化できるオープンソースの自動化エンジンだ。Ansibleという名前は、架空の通信デバイスに由来する。2013年にプロジェクトが立ち上がり、2015年には米Red Hatが買収した。買収額は推定で1億ドルを超える。</p>
-
-<p>　ChefやPuppetとよく似ているAnsibleだが、現時点ではもっぱら話題をさらっているように思える。StackShareのサイトで、ニーズが高いDevOpsツールのトップ5をざっと見てみると、求人情報の中で必須スキルとして名前が挙がっているツールという尺度では、Ansibleは「GitHub」「Docker」に続く第3位である。Red Hat自身、Ansibleの人気をうたう主張の裏づけに熱心だ。同社のJim Whitehurst CEO（最高経営責任者）が2017年3月に話したところでは、Red Hatの全案件のおよそ3分の1にAnsibleが含まれている。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700001/?ST=cm-software&P=2">では、Ansibleの何がそんなに魅力的なのだろうか。RedHa...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700001/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700001/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700001/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 13 Jun 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「日本はストリーミングで世界のリーダーに」、米NBC Sports DigitalのCTO（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061201640/</link>
-			<description><![CDATA[　アカマイ・テクノロジーズは2017年6月12日、オリンピックやスーパーボウルなど世界的なスポーツイベントのストリーミング配信を手掛けてきた米NBC Sports DigitalのCTOであるEric Black氏の来日に伴う記者会見を開催した。]]></description>
-			<pubDate>Tue, 13 Jun 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Google、衛星画像のAI分析で太陽光パネル設置状況を見える化（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061301641/</link>
-			<description><![CDATA[　米Googleは現地時間2017年6月12日、自宅屋根に太陽光パネルを設置すべきかどうか判断するのを支援する見積もりサービス「Project Sunroof」に、機械学習技術を利用した新機能「Data Explorer」を追加したと発表した。ユーザーは近隣の太陽光パネル導入状況を手軽に確認できる。]]></description>
-			<pubDate>Tue, 13 Jun 2017 10:05:29 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソフトバンク、ロボット企業の買収で新市場開拓に照準（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/061300332/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　ロボット開発企業を新たに買収したソフトバンクは、これでサービス産業やホームヘルパーの分野で新たな市場を開拓できるかもしれない。
-</p>
-
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/061300332/160623-spot-mini-3-100668120-orig_1.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Boston Dynamics</div>
-</div>
-
-<p>
-　接客サービスや話し相手として使われている同社のロボット「Pepper」は、いくぶん限界がある。腕を振ったり話したりといったこと以外はあまりできないからだ。
-</p>
-<p>
-　だが、現在ソフトバンクは、Boston Dynamicsが開発した犬サイズの四足歩行ロボット「BigDog」「Spot」が持つ、物を取って来たり荷物を運んだりという機能に目を向けている。
-</p>
-<p>
-　もともとISPや携帯キャリアの事業を手がけていたソフトバンクがロボット事業に参入したのは2014年。小さな人型ロボット「Pepper」「Nao」の開発元である仏Aldebaran Roboticsを買収した。
-</p>
-<p>
-　Aldebaranは、人間の感情を認識して反応する技術の開発で知られ、そのロボットは、高級ホテルや小売店の接客係というぴったりの仕事を見つけている。また、話の聞き役にもなることができ、医療、教育、老人介護などの分野で使われている。
-</p>
-<p>
-　だが、PepperやNaoでは、かばんや買い物品を運ぶことや、家の手伝いはできない。そこでBoston Dynamicsの出番だ。
-</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/061300332/?ST=cio-management&P=2">BostonDynamicsは、軍事用の荷物運搬...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/061300332/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/061300332/?ST=cio-management&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/061300332/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 13 Jun 2017 10:08:33 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：本当に日本は「フリーWi-Fi後進国」か（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061100855/?d14</link>
+			<description><![CDATA[　「スマホをサカサにして撮ればいいんだよ」。先日、ある日本酒マニアの友人と酒を酌み交わしていたときに、こんな知恵を彼から授かった。]]></description>
+			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Facebookが「インスタント記事」有料版導入か、メディアの不満に対応（ニュース）</title>
@@ -155,9 +71,27 @@
 			<pubDate>Tue, 13 Jun 2017 19:27:23 +0900</pubDate>
 		</item>
 		<item>
-			<title>Javaフレームワークの選択、「カギはマイクロサービス」（どうする？Java）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/061200003/</link>
-			<description><![CDATA[　今後もJavaは企業向けシステム開発に欠かせない言語であり続けるのか。日本に2人しかいない「Java Champion」の1人である日本マイクロソフトの寺田佳央氏に「企業向けシステムとJava」の今後について聞いた。]]></description>
+			<title>Office 365を快適に利用するためのWANとは？（先端企業ネットワーク SD-WAN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200003/</link>
+			<description><![CDATA[　「なぜOffice 365がコミュニケーションツールの候補に挙がっていないのか」──。今や経営層や事業責任者からこう言われることが珍しくないくらい、企業におけるOffice 365の導入意欲が急速に高まっている。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>iOS 11やiPad Proなど目白押し、WWDCで「満額回答」をしたアップル（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/061300046/</link>
+			<description><![CDATA[　米アップルは2017年6月5日から9日までカリフォルニア州サンノゼで、世界開発者会議「WWDC 2017」を開催した。基調講演では、6つのテーマを紹介する盛りだくさんぶりで、各種OSとハードウエアのリリースに会場は沸いた。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>プログラマーではない人がプログラミングを学ぶのは無駄なのか（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/060800854/</link>
+			<description><![CDATA[　個人が身に付けるべき技能として「プログラミング」が大きな注目を集めている。2020年からは小学校でのプログラミング教育が必修になる。プログラミング教育を大きな柱の一つに掲げたN高等学校（N高）も登場した。小中学生や高校生、あるいは社会人を対象にしたプログラミングスクールも盛んだ。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>塩漬けレガシーとマイクロサービスの意外な相性（モダナイ新潮流）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060500227/060500003/</link>
+			<description><![CDATA[　レガシーシステムのオープン化や最適化に成功しても、機能全体が一つの巨大化・複雑化したモノリシックな構造のままでは未来がない。小さなサービスを組み合わせてアプリケーションを構築する「マイクロサービス」を次の一手として採用すべきだ。]]></description>
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -167,9 +101,9 @@
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Office 365を快適に利用するためのWANとは？（先端企業ネットワーク SD-WAN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200003/</link>
-			<description><![CDATA[　「なぜOffice 365がコミュニケーションツールの候補に挙がっていないのか」──。今や経営層や事業責任者からこう言われることが珍しくないくらい、企業におけるOffice 365の導入意欲が急速に高まっている。]]></description>
+			<title>IoTで活気づくデバッグ市場、ローソン玉塚氏が今飛び込む理由（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061301011/</link>
+			<description><![CDATA[　IoTの広がりを受け、デバッグ事業を手掛けるITベンダーが拡充策を相次いで打ち出している。ハーツユナイテッドグループはローソン会長だった玉塚元一氏を社長に招聘、同氏の人脈や経営力で業容拡大を図る。イー・ガーディアンはセキュリティ検査も同時に請け負い、総合力で勝負する。]]></description>
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -197,27 +131,9 @@
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>塩漬けレガシーとマイクロサービスの意外な相性（モダナイ新潮流）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060500227/060500003/</link>
-			<description><![CDATA[　レガシーシステムのオープン化や最適化に成功しても、機能全体が一つの巨大化・複雑化したモノリシックな構造のままでは未来がない。小さなサービスを組み合わせてアプリケーションを構築する「マイクロサービス」を次の一手として採用すべきだ。]]></description>
-			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IoTで活気づくデバッグ市場、ローソン玉塚氏が今飛び込む理由（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061301011/</link>
-			<description><![CDATA[　IoTの広がりを受け、デバッグ事業を手掛けるITベンダーが拡充策を相次いで打ち出している。ハーツユナイテッドグループはローソン会長だった玉塚元一氏を社長に招聘、同氏の人脈や経営力で業容拡大を図る。イー・ガーディアンはセキュリティ検査も同時に請け負い、総合力で勝負する。]]></description>
-			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iOS 11やiPad Proなど目白押し、WWDCで「満額回答」をしたアップル（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/061300046/</link>
-			<description><![CDATA[　米アップルは2017年6月5日から9日までカリフォルニア州サンノゼで、世界開発者会議「WWDC 2017」を開催した。基調講演では、6つのテーマを紹介する盛りだくさんぶりで、各種OSとハードウエアのリリースに会場は沸いた。]]></description>
-			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>プログラマーではない人がプログラミングを学ぶのは無駄なのか（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/060800854/</link>
-			<description><![CDATA[　個人が身に付けるべき技能として「プログラミング」が大きな注目を集めている。2020年からは小学校でのプログラミング教育が必修になる。プログラミング教育を大きな柱の一つに掲げたN高等学校（N高）も登場した。小中学生や高校生、あるいは社会人を対象にしたプログラミングスクールも盛んだ。]]></description>
+			<title>Javaフレームワークの選択、「カギはマイクロサービス」（どうする？Java）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/061200003/</link>
+			<description><![CDATA[　今後もJavaは企業向けシステム開発に欠かせない言語であり続けるのか。日本に2人しかいない「Java Champion」の1人である日本マイクロソフトの寺田佳央氏に「企業向けシステムとJava」の今後について聞いた。]]></description>
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -327,6 +243,24 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401653/</link>
 			<description><![CDATA[　農機大手のクボタがサプライチェーン・マネジメント（SCM）システムを全面刷新することが2017年6月14日までに分かった。木股昌俊社長が日経コンピュータの取材で明らかにした。在庫水準の適正化やリードタイムの短縮によって経営基盤強化につなげる。]]></description>
 			<pubDate>Wed, 14 Jun 2017 16:12:05 +0900</pubDate>
+		</item>
+		<item>
+			<title>カシオ、iPhoneにデータ転送できるBluetooth搭載ストップウオッチ「HSB-100W」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401654/</link>
+			<description><![CDATA[　カシオ計算機は2017年6月14日、Bluetooth搭載ストップウオッチ「HSB-100W」を6月16日に発売すると発表した。計測したラップタイムなどのデータをiPhoneに転送して専用アプリ上で管理できる。希望小売価格は8000円（税別）。]]></description>
+			<pubDate>Wed, 14 Jun 2017 17:10:05 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本語入力「Simeji」が音声入力に対応、バイドゥの音声認識AIを活用（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401656/</link>
+			<description><![CDATA[　中国百度（バイドゥ）の日本法人は2017年6月14日、六本木の本社で記者発表会を開催し、日本語入力アプリ「Simeji」にバイドゥのAI技術を利用した音声入力機能を搭載することを発表した。]]></description>
+			<pubDate>Wed, 14 Jun 2017 17:22:34 +0900</pubDate>
+		</item>
+		<item>
+			<title>スカパーJSAT子会社がスマートコンタクトセンターの構築開始（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401657/</link>
+			<description><![CDATA[　スカパー・カスタマーリレーションズ（SPCC）は、スマートコンタクトセンターの構築を開始した。2017年度中の構築を目指して、「Salesforce Service Cloud」およびその関連プロダクトを導入して同センターの中核システムの一つであるオムニチャネル基盤とする。SPCCと同社の親会社であるスカパーJSATが2017年6月14日に発表した。Salesforce Service Cloudは、将来導入を予定している先端テクノロジー・システムやプロダクトのハブとしての機能も担う。]]></description>
+			<pubDate>Wed, 14 Jun 2017 17:49:20 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
