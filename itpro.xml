@@ -11,12 +11,6 @@
 			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Cloud Days 札幌開幕、29セッションのセミナーと展示を実施（Cloud Days 2017レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900220/061300011/</link>
-			<description><![CDATA[　ICTの総合展「Cloud Days 札幌 2017」（主催：日経BP社）が2017年6月13日、札幌コンベンションセンター（札幌市白石区）で開幕した。59社が出展・協賛し、2日間にわたって29セッションに及ぶキーノートやセミナーを開講する。]]></description>
-			<pubDate>Tue, 13 Jun 2017 12:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ファームノートの小林氏、クラウドとAI使った農業の経営力向上をCloud Days 札幌で講演（Cloud Days 2017レポート）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900220/061300013/</link>
 			<description><![CDATA[　2017年6月13日、「Cloud Days 札幌 2017」で、ファームノート代表取締役の小林晋也氏が、クラウドや人工知能（AI）を活用した農業の経営力向上について講演した。]]></description>
@@ -65,6 +59,12 @@
 			<pubDate>Tue, 13 Jun 2017 19:27:23 +0900</pubDate>
 		</item>
 		<item>
+			<title>Javaフレームワークの選択、「カギはマイクロサービス」（どうする？Java）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/061200003/</link>
+			<description><![CDATA[　今後もJavaは企業向けシステム開発に欠かせない言語であり続けるのか。日本に2人しかいない「Java Champion」の1人である日本マイクロソフトの寺田佳央氏に「企業向けシステムとJava」の今後について聞いた。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>IoTで活気づくデバッグ市場、ローソン玉塚氏が今飛び込む理由（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061301011/</link>
 			<description><![CDATA[　IoTの広がりを受け、デバッグ事業を手掛けるITベンダーが拡充策を相次いで打ち出している。ハーツユナイテッドグループはローソン会長だった玉塚元一氏を社長に招聘、同氏の人脈や経営力で業容拡大を図る。イー・ガーディアンはセキュリティ検査も同時に請け負い、総合力で勝負する。]]></description>
@@ -95,15 +95,15 @@
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ソフト内製化に不可欠な仕事、GEが引き抜いた男（超巨大スタートアップGE）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/060900004/</link>
-			<description><![CDATA[　米ゼネラル・エレクトリック（GE）が進めようとしていたのは、「インダストリアルインターネット」という新コンセプトを実現するためのソフトウエアの開発だ。どのような機能が必要なのかを、ソフトウエア開発部隊が自ら決める必要があった。しかし、それができる人材が社内に存在しなかったGEは、シリコンバレーからベテランのプロダクトマネジャーを採用し始めた。]]></description>
+			<title>次期Androidのプレビュー版、驚きの新機能はないが着実な改善あり（ネットワーク・ホットトピックス）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/277462/060500059/</link>
+			<description><![CDATA[　米グーグルは2017年3月21日、「Android O」という開発コード名の次期版Androidの開発者向けプレビュー版を公開した。使い勝手を劇的に変えるような新機能はないが、着実な改善が見てとれる。]]></description>
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Javaフレームワークの選択、「カギはマイクロサービス」（どうする？Java）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/061200003/</link>
-			<description><![CDATA[　今後もJavaは企業向けシステム開発に欠かせない言語であり続けるのか。日本に2人しかいない「Java Champion」の1人である日本マイクロソフトの寺田佳央氏に「企業向けシステムとJava」の今後について聞いた。]]></description>
+			<title>LPWAの無線通信、なぜ300kmも先まで届くのか（IoT通信の本命 LPWA）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500003/</link>
+			<description><![CDATA[　LPWAはいずれも、通信速度を遅くすることで、電波の到達距離を伸ばすのが基本だ。SIGFOXはさらに、二つの工夫で伝達距離を伸ばしている。]]></description>
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -119,15 +119,9 @@
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>次期Androidのプレビュー版、驚きの新機能はないが着実な改善あり（ネットワーク・ホットトピックス）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/277462/060500059/</link>
-			<description><![CDATA[　米グーグルは2017年3月21日、「Android O」という開発コード名の次期版Androidの開発者向けプレビュー版を公開した。使い勝手を劇的に変えるような新機能はないが、着実な改善が見てとれる。]]></description>
-			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>LPWAの無線通信、なぜ300kmも先まで届くのか（IoT通信の本命 LPWA）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500003/</link>
-			<description><![CDATA[　LPWAはいずれも、通信速度を遅くすることで、電波の到達距離を伸ばすのが基本だ。SIGFOXはさらに、二つの工夫で伝達距離を伸ばしている。]]></description>
+			<title>ソフト内製化に不可欠な仕事、GEが引き抜いた男（超巨大スタートアップGE）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/060900004/</link>
+			<description><![CDATA[　米ゼネラル・エレクトリック（GE）が進めようとしていたのは、「インダストリアルインターネット」という新コンセプトを実現するためのソフトウエアの開発だ。どのような機能が必要なのかを、ソフトウエア開発部隊が自ら決める必要があった。しかし、それができる人材が社内に存在しなかったGEは、シリコンバレーからベテランのプロダクトマネジャーを採用し始めた。]]></description>
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -261,6 +255,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401657/</link>
 			<description><![CDATA[　スカパー・カスタマーリレーションズ（SPCC）は、スマートコンタクトセンターの構築を開始した。2017年度中の構築を目指して、「Salesforce Service Cloud」およびその関連プロダクトを導入して同センターの中核システムの一つであるオムニチャネル基盤とする。SPCCと同社の親会社であるスカパーJSATが2017年6月14日に発表した。Salesforce Service Cloudは、将来導入を予定している先端テクノロジー・システムやプロダクトのハブとしての機能も担う。]]></description>
 			<pubDate>Wed, 14 Jun 2017 17:49:20 +0900</pubDate>
+		</item>
+		<item>
+			<title>キユーピー、グーグルの深層学習による原料検査で生産性2倍に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401658/</link>
+			<description><![CDATA[　キユーピーの荻野武生産本部次世代技術担当次長は、グーグルが2017年6月14日に開催したイベント「Google Cloud Next '17 in Tokyo」の報道関係者向けセッションに登壇。ディープラーニング（深層学習）を駆使した原料検査装置開発の取り組みを説明した。]]></description>
+			<pubDate>Wed, 14 Jun 2017 18:16:57 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
