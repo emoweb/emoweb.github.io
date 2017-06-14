@@ -11,12 +11,6 @@
 			<pubDate>Tue, 13 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ファームノートの小林氏、クラウドとAI使った農業の経営力向上をCloud Days 札幌で講演（Cloud Days 2017レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900220/061300013/</link>
-			<description><![CDATA[　2017年6月13日、「Cloud Days 札幌 2017」で、ファームノート代表取締役の小林晋也氏が、クラウドや人工知能（AI）を活用した農業の経営力向上について講演した。]]></description>
-			<pubDate>Tue, 13 Jun 2017 15:23:18 +0900</pubDate>
-		</item>
-		<item>
 			<title>共働きパパは電車でECを積極活用、jekiが調査（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061301643/</link>
 			<description><![CDATA[　交通広告などを手掛けるジェイアール東日本企画（jeki）は2017年6月13日、東京圏の共働き家族の実態調査の説明会を開いた。「共働きパパは通勤などで使う電車内や鉄道の駅構内で、スマホなどを使ったインターネットショッピングの利用率が高い」といった調査結果を公表した。]]></description>
@@ -65,6 +59,12 @@
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>LPWAの無線通信、なぜ300kmも先まで届くのか（IoT通信の本命 LPWA）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500003/</link>
+			<description><![CDATA[　LPWAはいずれも、通信速度を遅くすることで、電波の到達距離を伸ばすのが基本だ。SIGFOXはさらに、二つの工夫で伝達距離を伸ばしている。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>IoTで活気づくデバッグ市場、ローソン玉塚氏が今飛び込む理由（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061301011/</link>
 			<description><![CDATA[　IoTの広がりを受け、デバッグ事業を手掛けるITベンダーが拡充策を相次いで打ち出している。ハーツユナイテッドグループはローソン会長だった玉塚元一氏を社長に招聘、同氏の人脈や経営力で業容拡大を図る。イー・ガーディアンはセキュリティ検査も同時に請け負い、総合力で勝負する。]]></description>
@@ -95,24 +95,6 @@
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>次期Androidのプレビュー版、驚きの新機能はないが着実な改善あり（ネットワーク・ホットトピックス）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/277462/060500059/</link>
-			<description><![CDATA[　米グーグルは2017年3月21日、「Android O」という開発コード名の次期版Androidの開発者向けプレビュー版を公開した。使い勝手を劇的に変えるような新機能はないが、着実な改善が見てとれる。]]></description>
-			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>LPWAの無線通信、なぜ300kmも先まで届くのか（IoT通信の本命 LPWA）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500003/</link>
-			<description><![CDATA[　LPWAはいずれも、通信速度を遅くすることで、電波の到達距離を伸ばすのが基本だ。SIGFOXはさらに、二つの工夫で伝達距離を伸ばしている。]]></description>
-			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>線だけ描いたイラスト、AIが自動で色塗り（カンタンAI）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/061200003/</link>
-			<description><![CDATA[　線だけのイラストに人工知能（AI）が自然に色を付けてくれるのが「PaintsChainer」だ。公式サイトで試せるほか、Preferred Networksが開発した機械学習ライブラリである「Chainer」で動くプログラムや学習モデルを公開しており、パソコンでも動かせる。]]></description>
-			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>プレゼンは「いつ買ったか」を言える服で勝負（清水久三子の提案は誰が言うか）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900110/052200003/</link>
 			<description><![CDATA[　報告や発表をする際には、その内容だけを見られているわけではありません。発表を聞く人は、発表者の立ち居振る舞いや雰囲気、つまりプレゼンスを見ています。そこで三つのポイントを意識して相手に与える印象を管理しましょう。（1）登場時の姿勢、（2）服装、（3）相手との距離感です。]]></description>
@@ -122,6 +104,18 @@
 			<title>ソフト内製化に不可欠な仕事、GEが引き抜いた男（超巨大スタートアップGE）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/060900004/</link>
 			<description><![CDATA[　米ゼネラル・エレクトリック（GE）が進めようとしていたのは、「インダストリアルインターネット」という新コンセプトを実現するためのソフトウエアの開発だ。どのような機能が必要なのかを、ソフトウエア開発部隊が自ら決める必要があった。しかし、それができる人材が社内に存在しなかったGEは、シリコンバレーからベテランのプロダクトマネジャーを採用し始めた。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>線だけ描いたイラスト、AIが自動で色塗り（カンタンAI）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/061200003/</link>
+			<description><![CDATA[　線だけのイラストに人工知能（AI）が自然に色を付けてくれるのが「PaintsChainer」だ。公式サイトで試せるほか、Preferred Networksが開発した機械学習ライブラリである「Chainer」で動くプログラムや学習モデルを公開しており、パソコンでも動かせる。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>次期Androidのプレビュー版、驚きの新機能はないが着実な改善あり（ネットワーク・ホットトピックス）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/277462/060500059/</link>
+			<description><![CDATA[　米グーグルは2017年3月21日、「Android O」という開発コード名の次期版Androidの開発者向けプレビュー版を公開した。使い勝手を劇的に変えるような新機能はないが、着実な改善が見てとれる。]]></description>
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -261,6 +255,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401658/</link>
 			<description><![CDATA[　キユーピーの荻野武生産本部次世代技術担当次長は、グーグルが2017年6月14日に開催したイベント「Google Cloud Next '17 in Tokyo」の報道関係者向けセッションに登壇。ディープラーニング（深層学習）を駆使した原料検査装置開発の取り組みを説明した。]]></description>
 			<pubDate>Wed, 14 Jun 2017 18:16:57 +0900</pubDate>
+		</item>
+		<item>
+			<title>「Google Cloudの伸びは70％」、グーグルが日本攻略に手応え（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401659/</link>
+			<description><![CDATA[　グーグル日本法人は2017年6月14日、Google Cloudをテーマにしたイベント「Google Cloud Next'17 in Tokyo」を開催し、米グーグルでGoogle Cloud統括バイスプイレジデントを務めるダイアン・グリーン氏が基調講演に登壇した。]]></description>
+			<pubDate>Wed, 14 Jun 2017 19:40:43 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
