@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>「日本はストリーミングで世界のリーダーに」、米NBC Sports DigitalのCTO（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061201640/</link>
-			<description><![CDATA[　アカマイ・テクノロジーズは2017年6月12日、オリンピックやスーパーボウルなど世界的なスポーツイベントのストリーミング配信を手掛けてきた米NBC Sports DigitalのCTOであるEric Black氏の来日に伴う記者会見を開催した。]]></description>
-			<pubDate>Tue, 13 Jun 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>DevOpsの自動化ツール、Ansibleの人気の理由は（前）（DevOpsの自動化ツール、Ansibleの人気の理由は）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700001/</link>
 			<description><![CDATA[<div>
@@ -38,6 +32,12 @@
 <div></div>
 </div>
 ]]></description>
+			<pubDate>Tue, 13 Jun 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「日本はストリーミングで世界のリーダーに」、米NBC Sports DigitalのCTO（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061201640/</link>
+			<description><![CDATA[　アカマイ・テクノロジーズは2017年6月12日、オリンピックやスーパーボウルなど世界的なスポーツイベントのストリーミング配信を手掛けてきた米NBC Sports DigitalのCTOであるEric Black氏の来日に伴う記者会見を開催した。]]></description>
 			<pubDate>Tue, 13 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -155,15 +155,21 @@
 			<pubDate>Tue, 13 Jun 2017 19:27:23 +0900</pubDate>
 		</item>
 		<item>
-			<title>プログラマーではない人がプログラミングを学ぶのは無駄なのか（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/060800854/</link>
-			<description><![CDATA[　個人が身に付けるべき技能として「プログラミング」が大きな注目を集めている。2020年からは小学校でのプログラミング教育が必修になる。プログラミング教育を大きな柱の一つに掲げたN高等学校（N高）も登場した。小中学生や高校生、あるいは社会人を対象にしたプログラミングスクールも盛んだ。]]></description>
-			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Javaフレームワークの選択、「カギはマイクロサービス」（どうする？Java）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/061200003/</link>
 			<description><![CDATA[　今後もJavaは企業向けシステム開発に欠かせない言語であり続けるのか。日本に2人しかいない「Java Champion」の1人である日本マイクロソフトの寺田佳央氏に「企業向けシステムとJava」の今後について聞いた。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>LPWAの無線通信、なぜ300kmも先まで届くのか（IoT通信の本命 LPWA）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500003/</link>
+			<description><![CDATA[　LPWAはいずれも、通信速度を遅くすることで、電波の到達距離を伸ばすのが基本だ。SIGFOXはさらに、二つの工夫で伝達距離を伸ばしている。]]></description>
+			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Office 365を快適に利用するためのWANとは？（先端企業ネットワーク SD-WAN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200003/</link>
+			<description><![CDATA[　「なぜOffice 365がコミュニケーションツールの候補に挙がっていないのか」──。今や経営層や事業責任者からこう言われることが珍しくないくらい、企業におけるOffice 365の導入意欲が急速に高まっている。]]></description>
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -209,15 +215,9 @@
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>LPWAの無線通信、なぜ300kmも先まで届くのか（IoT通信の本命 LPWA）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500003/</link>
-			<description><![CDATA[　LPWAはいずれも、通信速度を遅くすることで、電波の到達距離を伸ばすのが基本だ。SIGFOXはさらに、二つの工夫で伝達距離を伸ばしている。]]></description>
-			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Office 365を快適に利用するためのWANとは？（先端企業ネットワーク SD-WAN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200003/</link>
-			<description><![CDATA[　「なぜOffice 365がコミュニケーションツールの候補に挙がっていないのか」──。今や経営層や事業責任者からこう言われることが珍しくないくらい、企業におけるOffice 365の導入意欲が急速に高まっている。]]></description>
+			<title>プログラマーではない人がプログラミングを学ぶのは無駄なのか（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/060800854/</link>
+			<description><![CDATA[　個人が身に付けるべき技能として「プログラミング」が大きな注目を集めている。2020年からは小学校でのプログラミング教育が必修になる。プログラミング教育を大きな柱の一つに掲げたN高等学校（N高）も登場した。小中学生や高校生、あるいは社会人を対象にしたプログラミングスクールも盛んだ。]]></description>
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -321,6 +321,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401651/</link>
 			<description><![CDATA[　KDDIは2017年6月14日、小田急電鉄にIoTを活用してトイレの空室状況を把握するソリューション「KDDI IoTクラウド ～トイレ空室管理～」が採用されたと発表した。小田急電鉄の公式スマートフォンアプリ「小田急アプリ」において、駅構内図で小田急線新宿駅の個室トイレの空き状況を確認できる。]]></description>
 			<pubDate>Wed, 14 Jun 2017 14:30:50 +0900</pubDate>
+		</item>
+		<item>
+			<title>［特報］クボタ、SCMシステムを全面刷新へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401653/</link>
+			<description><![CDATA[　農機大手のクボタがサプライチェーン・マネジメント（SCM）システムを全面刷新することが2017年6月14日までに分かった。木股昌俊社長が日経コンピュータの取材で明らかにした。在庫水準の適正化やリードタイムの短縮によって経営基盤強化につなげる。]]></description>
+			<pubDate>Wed, 14 Jun 2017 16:12:05 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
