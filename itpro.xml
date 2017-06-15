@@ -11,12 +11,6 @@
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>AppleのCook CEO、自動運転技術の開発計画について認める（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401650/</link>
-			<description><![CDATA[　米Appleが、自動運転車の技術を開発していることは、かねて伝えられていたが、同社のTim Cook最高経営責任者（CEO）はこのほど、初めて自動車市場に向けた同社の取り組みについて語った。]]></description>
-			<pubDate>Wed, 14 Jun 2017 10:25:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>第三者保守のリミニ、サポート対象にIBMやマイクロソフトのDB製品を追加（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061301648/</link>
 			<description><![CDATA[　日本リミニストリートは2017年6月14日、提供する保守サービスの対象製品を拡大すると発表した。新たに対象となるのは米IBMや米マイクロソフトが提供するデータベース（DB）など6製品。]]></description>
@@ -77,6 +71,12 @@
 			<pubDate>Wed, 14 Jun 2017 19:40:43 +0900</pubDate>
 		</item>
 		<item>
+			<title>マイクロサービスの副作用を乗り越える術（モダナイ新潮流）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060500227/060500004/</link>
+			<description><![CDATA[　筆者がモダナイゼーションの次の一手として推奨する手法のマイクロサービスだが、デメリットもある。例えば全体の整合性を確保しにくくなったり、運用が複雑になったりする恐れがある。しかし、デメリットの多くは乗り越えられる。]]></description>
+			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>機内Wi-Fi無料化で考えた、「ITで稼ぐJAL」への覚悟は本物か（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061400857/</link>
 			<description><![CDATA[　「国内地方マーケットにおける選好性向上に向けては、『機内Wi-Fiサービス』（公衆無線LAN）の無料化などで競合他社の一歩先を行く新しい機内環境の提供に努めていく」――。記者は、日本航空（JAL）の中期経営計画の説明会での発言が気になっていた。]]></description>
@@ -95,15 +95,15 @@
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>グーグルの芸術家AI、バッハ調の音楽を自動で作曲（カンタンAI）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/061300004/</link>
-			<description><![CDATA[　どこかで耳にしたバッハ調の曲を、AIが自動で作曲してくれる。そんな芸術領域に特化したAIを開発するプロジェクトが米グーグルの「Magenta」だ。“音楽の父”とも呼ばれるバッハの楽曲を学習させたAIのプログラムを公開している。]]></description>
+			<title>「ケーブルから漏れ出る電波でWi-Fi通信」は可能なのか？（Wi-Fiのウソとホントを実証）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/060900018/</link>
+			<description><![CDATA[　Wi-Fiは遮蔽物による影響を受けやすく、大型機械が多く存在する場所では電波強度がまだら模様のようになり、通信品質がばらつきやすい。こうした場所では、複数のAPを設置して電波強度がまだら模様のようにならないようにする。だがこの手法を使うと、多数のAPが必要となり手間もコストもかかる。]]></description>
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>マイクロサービスの副作用を乗り越える術（モダナイ新潮流）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060500227/060500004/</link>
-			<description><![CDATA[　筆者がモダナイゼーションの次の一手として推奨する手法のマイクロサービスだが、デメリットもある。例えば全体の整合性を確保しにくくなったり、運用が複雑になったりする恐れがある。しかし、デメリットの多くは乗り越えられる。]]></description>
+			<title>実証実験進むLoRaWAN、登山者の位置把握も（IoT通信の本命 LPWA）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500004/</link>
+			<description><![CDATA[　2015年末あたりから話題に上るようになったLoRaWAN。LoRaデバイスからLoRaゲートウエイにデータを伝える手順と、LoRaゲートウエイを通じてネットワークサーバーにデータを伝達するまでを規定している。]]></description>
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -143,15 +143,9 @@
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「ケーブルから漏れ出る電波でWi-Fi通信」は可能なのか？（Wi-Fiのウソとホントを実証）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/060900018/</link>
-			<description><![CDATA[　Wi-Fiは遮蔽物による影響を受けやすく、大型機械が多く存在する場所では電波強度がまだら模様のようになり、通信品質がばらつきやすい。こうした場所では、複数のAPを設置して電波強度がまだら模様のようにならないようにする。だがこの手法を使うと、多数のAPが必要となり手間もコストもかかる。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>実証実験進むLoRaWAN、登山者の位置把握も（IoT通信の本命 LPWA）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500004/</link>
-			<description><![CDATA[　2015年末あたりから話題に上るようになったLoRaWAN。LoRaデバイスからLoRaゲートウエイにデータを伝える手順と、LoRaゲートウエイを通じてネットワークサーバーにデータを伝達するまでを規定している。]]></description>
+			<title>グーグルの芸術家AI、バッハ調の音楽を自動で作曲（カンタンAI）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/061300004/</link>
+			<description><![CDATA[　どこかで耳にしたバッハ調の曲を、AIが自動で作曲してくれる。そんな芸術領域に特化したAIを開発するプロジェクトが米グーグルの「Magenta」だ。“音楽の父”とも呼ばれるバッハの楽曲を学習させたAIのプログラムを公開している。]]></description>
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -258,6 +252,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501666/</link>
 			<description><![CDATA[　インフォアジャパンは2017年6月15日、組立製造業に特化したSaaS型のクラウドERP「Infor CloudSuite Industrial Machinery」を、日本市場で提供開始した。価格（税別）は、月額約150万円から。]]></description>
 			<pubDate>Thu, 15 Jun 2017 16:56:23 +0900</pubDate>
+		</item>
+		<item>
+			<title>スマホ決済サービスのOrigami Pay、ローソンに導入へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501669/</link>
+			<description><![CDATA[　スマートフォン向け決済サービス「Origami Pay」を提供するOrigamiは2017年6月15日、ローソンと業務提携に関する基本合意書を締結したと発表した。]]></description>
+			<pubDate>Thu, 15 Jun 2017 18:37:50 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
