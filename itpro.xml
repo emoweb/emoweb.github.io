@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Verizon、Yahoo!中核事業買収を完了　AOLと統合し新会社「Oath」が誕生（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401649/</link>
-			<description><![CDATA[　米Verizon Communicationsは現地時間2017年6月13日、米Yahoo!のインターネット事業買収の手続きを完了したと発表した。獲得したYahoo!の資産を傘下の米AOLと統合し、新会社「Oath」を設立する。]]></description>
-			<pubDate>Wed, 14 Jun 2017 09:45:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Windows 10のプライバシー、中国政府版の方が上？（Computerworldニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/061400380/</link>
 			<description><![CDATA[<div>
@@ -115,6 +109,12 @@
 			<pubDate>Wed, 14 Jun 2017 19:40:43 +0900</pubDate>
 		</item>
 		<item>
+			<title>AWS事例を数十社が披露、サーバーレスシフトが鮮明に（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061301012/</link>
+			<description><![CDATA[　アマゾン ウェブ サービス ジャパンが開催する年次イベント「AWS Summit Tokyo 2017」では、数十の企業ユーザーが利用事例を披露。サーバーレスアーキテクチャーを実現するイベント駆動型コード実行サービス「AWS Lambda」の使いどころを、クックパッドやグリーが示した。]]></description>
+			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>わかりにくいSELinuxセキュリティの勘所を図で理解（IoT時代の最新SELinux入門）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052500002/</link>
 			<description><![CDATA[　SELinuxをどう設定・運用していくのかの前提知識として、SELinuxの機能と仕組みの理解が欠かせません。今回は、LinuxサーバーでSELinuxを使っていく上で重要な機能となる「TE」と「MCS」を図解します。]]></description>
@@ -127,15 +127,15 @@
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>マイクロサービスの副作用を乗り越える術（モダナイ新潮流）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060500227/060500004/</link>
-			<description><![CDATA[　筆者がモダナイゼーションの次の一手として推奨する手法のマイクロサービスだが、デメリットもある。例えば全体の整合性を確保しにくくなったり、運用が複雑になったりする恐れがある。しかし、デメリットの多くは乗り越えられる。]]></description>
+			<title>機内Wi-Fi無料化で考えた、「ITで稼ぐJAL」への覚悟は本物か（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061400857/</link>
+			<description><![CDATA[　「国内地方マーケットにおける選好性向上に向けては、『機内Wi-Fiサービス』（公衆無線LAN）の無料化などで競合他社の一歩先を行く新しい機内環境の提供に努めていく」――。記者は、日本航空（JAL）の中期経営計画の説明会での発言が気になっていた。]]></description>
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>AWS事例を数十社が披露、サーバーレスシフトが鮮明に（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061301012/</link>
-			<description><![CDATA[　アマゾン ウェブ サービス ジャパンが開催する年次イベント「AWS Summit Tokyo 2017」では、数十の企業ユーザーが利用事例を披露。サーバーレスアーキテクチャーを実現するイベント駆動型コード実行サービス「AWS Lambda」の使いどころを、クックパッドやグリーが示した。]]></description>
+			<title>本邦初の大規模SD-WANユーザーがついに登場？（先端企業ネットワーク SD-WAN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200004/</link>
+			<description><![CDATA[　今やSD-WANの意味するところは広範囲に及んでいる。SD-WANにまつわる様々な情報をQ＆A形式で紹介する。]]></description>
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -181,15 +181,9 @@
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>機内Wi-Fi無料化で考えた、「ITで稼ぐJAL」への覚悟は本物か（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061400857/</link>
-			<description><![CDATA[　「国内地方マーケットにおける選好性向上に向けては、『機内Wi-Fiサービス』（公衆無線LAN）の無料化などで競合他社の一歩先を行く新しい機内環境の提供に努めていく」――。記者は、日本航空（JAL）の中期経営計画の説明会での発言が気になっていた。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>本邦初の大規模SD-WANユーザーがついに登場？（先端企業ネットワーク SD-WAN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200004/</link>
-			<description><![CDATA[　今やSD-WANの意味するところは広範囲に及んでいる。SD-WANにまつわる様々な情報をQ＆A形式で紹介する。]]></description>
+			<title>マイクロサービスの副作用を乗り越える術（モダナイ新潮流）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060500227/060500004/</link>
+			<description><![CDATA[　筆者がモダナイゼーションの次の一手として推奨する手法のマイクロサービスだが、デメリットもある。例えば全体の整合性を確保しにくくなったり、運用が複雑になったりする恐れがある。しかし、デメリットの多くは乗り越えられる。]]></description>
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -284,6 +278,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501662/</link>
 			<description><![CDATA[　フジテレビジョンは2017年6月15日、データ放送機能で表示するL字画面にエリアごとに異なるメッセージを出す「エリアメッセージCM」を6月19日に放送すると発表した。]]></description>
 			<pubDate>Thu, 15 Jun 2017 12:09:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>コードキャンプが高校生向けプログラミング教育、トライと業務提携し展開（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501663/</link>
+			<description><![CDATA[　プログラミングスクール「CodeCamp」などを運営するコードキャンプは2017年6月15日、家庭教師派遣などを展開するトライグループと業務提携し、エンジニアを目指す高校生向けに実践的なプログラミング教育を施す「エンジニア・IT 起業家 育成講座」を提供すると発表した。]]></description>
+			<pubDate>Thu, 15 Jun 2017 15:24:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
