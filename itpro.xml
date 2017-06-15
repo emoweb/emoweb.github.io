@@ -11,30 +11,6 @@
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>第三者保守のリミニ、サポート対象にIBMやマイクロソフトのDB製品を追加（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061301648/</link>
-			<description><![CDATA[　日本リミニストリートは2017年6月14日、提供する保守サービスの対象製品を拡大すると発表した。新たに対象となるのは米IBMや米マイクロソフトが提供するデータベース（DB）など6製品。]]></description>
-			<pubDate>Wed, 14 Jun 2017 12:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「テレワークせざるを得ない社会になる」テレワークマネジメントの田澤氏、Cloud Days 札幌で講演（Cloud Days 2017レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900220/061400016/</link>
-			<description><![CDATA[　少子化や制約社員の増加といった変化に、テレワークによる生産性向上で対応を――。2017年6月13日、「Cloud Days 札幌 2017」でテレワークマネジメントの田澤由利氏が講演し、テレワークの有効性と企業への対応を呼びかけた。]]></description>
-			<pubDate>Wed, 14 Jun 2017 13:14:30 +0900</pubDate>
-		</item>
-		<item>
-			<title>「もう絶望しない」、トイレ空き状況がリアルタイムで分かる小田急線新宿駅（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401651/</link>
-			<description><![CDATA[　KDDIは2017年6月14日、小田急電鉄にIoTを活用してトイレの空室状況を把握するソリューション「KDDI IoTクラウド ～トイレ空室管理～」が採用されたと発表した。小田急電鉄の公式スマートフォンアプリ「小田急アプリ」において、駅構内図で小田急線新宿駅の個室トイレの空き状況を確認できる。]]></description>
-			<pubDate>Wed, 14 Jun 2017 14:30:50 +0900</pubDate>
-		</item>
-		<item>
-			<title>［特報］クボタ、SCMシステムを全面刷新へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401653/</link>
-			<description><![CDATA[　農機大手のクボタがサプライチェーン・マネジメント（SCM）システムを全面刷新することが2017年6月14日までに分かった。木股昌俊社長が日経コンピュータの取材で明らかにした。在庫水準の適正化やリードタイムの短縮によって経営基盤強化につなげる。]]></description>
-			<pubDate>Wed, 14 Jun 2017 16:12:05 +0900</pubDate>
-		</item>
-		<item>
 			<title>カシオ、iPhoneにデータ転送できるBluetooth搭載ストップウオッチ「HSB-100W」（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401654/</link>
 			<description><![CDATA[　カシオ計算機は2017年6月14日、Bluetooth搭載ストップウオッチ「HSB-100W」を6月16日に発売すると発表した。計測したラップタイムなどのデータをiPhoneに転送して専用アプリ上で管理できる。希望小売価格は8000円（税別）。]]></description>
@@ -71,6 +47,30 @@
 			<pubDate>Wed, 14 Jun 2017 19:40:43 +0900</pubDate>
 		</item>
 		<item>
+			<title>実証実験進むLoRaWAN、登山者の位置把握も（IoT通信の本命 LPWA）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500004/</link>
+			<description><![CDATA[　2015年末あたりから話題に上るようになったLoRaWAN。LoRaデバイスからLoRaゲートウエイにデータを伝える手順と、LoRaゲートウエイを通じてネットワークサーバーにデータを伝達するまでを規定している。]]></description>
+			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>名前解決にかかる時間を調べよ（Wiresharkでトラブル解決）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122100310/050800005/</link>
+			<description><![CDATA[　従業員から「Webアクセスが遅い」と言われた担当者。Wiresharkを使って名前解決にかかる時間を調べた。]]></description>
+			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Java EE 8はマイクロサービス推し、どこが良くなった？（どうする？Java）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/061400005/</link>
+			<description><![CDATA[　4年ぶりの新バージョンとなる「Java EE 8」、機能拡張の目玉はマイクロサービスの支援機能だ。機能拡張の狙いや、メリットを担当者に聞いた。]]></description>
+			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>グーグルの芸術家AI、バッハ調の音楽を自動で作曲（カンタンAI）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/061300004/</link>
+			<description><![CDATA[　どこかで耳にしたバッハ調の曲を、AIが自動で作曲してくれる。そんな芸術領域に特化したAIを開発するプロジェクトが米グーグルの「Magenta」だ。“音楽の父”とも呼ばれるバッハの楽曲を学習させたAIのプログラムを公開している。]]></description>
+			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>マイクロサービスの副作用を乗り越える術（モダナイ新潮流）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060500227/060500004/</link>
 			<description><![CDATA[　筆者がモダナイゼーションの次の一手として推奨する手法のマイクロサービスだが、デメリットもある。例えば全体の整合性を確保しにくくなったり、運用が複雑になったりする恐れがある。しかし、デメリットの多くは乗り越えられる。]]></description>
@@ -95,15 +95,15 @@
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「ケーブルから漏れ出る電波でWi-Fi通信」は可能なのか？（Wi-Fiのウソとホントを実証）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/060900018/</link>
-			<description><![CDATA[　Wi-Fiは遮蔽物による影響を受けやすく、大型機械が多く存在する場所では電波強度がまだら模様のようになり、通信品質がばらつきやすい。こうした場所では、複数のAPを設置して電波強度がまだら模様のようにならないようにする。だがこの手法を使うと、多数のAPが必要となり手間もコストもかかる。]]></description>
+			<title>「取引先にもデータを与えよ」、経産省がIoTで共用促す契約指針（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061401013/</link>
+			<description><![CDATA[　工場で集めたデータは全て工場主のもので、トラックや船舶の運行データは収集の主体である運送会社や海運会社に帰属する。“常識”と考えられてきた、こうした産業データの利用権限のあり方を問い直す動きが出てきた。]]></description>
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>実証実験進むLoRaWAN、登山者の位置把握も（IoT通信の本命 LPWA）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500004/</link>
-			<description><![CDATA[　2015年末あたりから話題に上るようになったLoRaWAN。LoRaデバイスからLoRaゲートウエイにデータを伝える手順と、LoRaゲートウエイを通じてネットワークサーバーにデータを伝達するまでを規定している。]]></description>
+			<title>GEのデジタル組織、「10対1」の法則（超巨大スタートアップGE）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/061000005/</link>
+			<description><![CDATA[　製造業のデジタル化に挑戦する米ゼネラル・エレクトリック（GE）。同社はデジタル化を実現する手段として、「リーンスタートアップ」や「アジャイル開発」「デザイン思考」といった「シリコンバレー流」を忠実に実践する。スタートアップに生まれ変わろうという経営トップの強い意志が、そこにはある。]]></description>
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -119,33 +119,9 @@
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「取引先にもデータを与えよ」、経産省がIoTで共用促す契約指針（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061401013/</link>
-			<description><![CDATA[　工場で集めたデータは全て工場主のもので、トラックや船舶の運行データは収集の主体である運送会社や海運会社に帰属する。“常識”と考えられてきた、こうした産業データの利用権限のあり方を問い直す動きが出てきた。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>GEのデジタル組織、「10対1」の法則（超巨大スタートアップGE）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/061000005/</link>
-			<description><![CDATA[　製造業のデジタル化に挑戦する米ゼネラル・エレクトリック（GE）。同社はデジタル化を実現する手段として、「リーンスタートアップ」や「アジャイル開発」「デザイン思考」といった「シリコンバレー流」を忠実に実践する。スタートアップに生まれ変わろうという経営トップの強い意志が、そこにはある。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Java EE 8はマイクロサービス推し、どこが良くなった？（どうする？Java）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/061400005/</link>
-			<description><![CDATA[　4年ぶりの新バージョンとなる「Java EE 8」、機能拡張の目玉はマイクロサービスの支援機能だ。機能拡張の狙いや、メリットを担当者に聞いた。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>名前解決にかかる時間を調べよ（Wiresharkでトラブル解決）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122100310/050800005/</link>
-			<description><![CDATA[　従業員から「Webアクセスが遅い」と言われた担当者。Wiresharkを使って名前解決にかかる時間を調べた。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>グーグルの芸術家AI、バッハ調の音楽を自動で作曲（カンタンAI）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/061300004/</link>
-			<description><![CDATA[　どこかで耳にしたバッハ調の曲を、AIが自動で作曲してくれる。そんな芸術領域に特化したAIを開発するプロジェクトが米グーグルの「Magenta」だ。“音楽の父”とも呼ばれるバッハの楽曲を学習させたAIのプログラムを公開している。]]></description>
+			<title>「ケーブルから漏れ出る電波でWi-Fi通信」は可能なのか？（Wi-Fiのウソとホントを実証）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/060900018/</link>
+			<description><![CDATA[　Wi-Fiは遮蔽物による影響を受けやすく、大型機械が多く存在する場所では電波強度がまだら模様のようになり、通信品質がばらつきやすい。こうした場所では、複数のAPを設置して電波強度がまだら模様のようにならないようにする。だがこの手法を使うと、多数のAPが必要となり手間もコストもかかる。]]></description>
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -254,10 +230,34 @@
 			<pubDate>Thu, 15 Jun 2017 16:56:23 +0900</pubDate>
 		</item>
 		<item>
+			<title>リコー、エントリーモデルのDLPプロジェクター「RICOH PJ WX2440」など3機種（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501667/</link>
+			<description><![CDATA[　リコーは2017年6月15日、エントリーモデルのプロジェクターの新製品「RICOH PJ WX2440/X2440/S2440」の3機種を6月30日に発売すると発表した。2015年2月に発売した「RICOH PJ WX2240/X2240/K111」の後継機種で、基本機能はそのままに入力インタフェースを強化した。価格はオープン。]]></description>
+			<pubDate>Thu, 15 Jun 2017 17:46:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>サンコー、前方映像と車内映像を同時録画できるGPSドライブレコーダー「Premier」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501668/</link>
+			<description><![CDATA[　サンコーは、前後にカメラを搭載し、前方映像と車内映像を同時に録画できる「高画質前後撮影GPSドライブレコーダーPremier」を2017年6月14日発売した。]]></description>
+			<pubDate>Thu, 15 Jun 2017 18:03:17 +0900</pubDate>
+		</item>
+		<item>
 			<title>スマホ決済サービスのOrigami Pay、ローソンに導入へ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501669/</link>
 			<description><![CDATA[　スマートフォン向け決済サービス「Origami Pay」を提供するOrigamiは2017年6月15日、ローソンと業務提携に関する基本合意書を締結したと発表した。]]></description>
 			<pubDate>Thu, 15 Jun 2017 18:37:50 +0900</pubDate>
+		</item>
+		<item>
+			<title>「明日あなたが狙われる」と予測できてこそAI、シマンテックのAI戦略（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501670/</link>
+			<description><![CDATA[　シマンテックは2017年6月15日、同社のセキュリティ製品/サービスにおける機械学習やAI技術の活用に関する説明会を開催した。未知の攻撃がネットワークやシステムに残した兆候の早期発見などに生かせる一方で、偽のデータで誤学習させる攻撃の標的にもなり得るという。]]></description>
+			<pubDate>Thu, 15 Jun 2017 19:41:53 +0900</pubDate>
+		</item>
+		<item>
+			<title>りそなグループ3行が法人営業にiPad1500台導入、提案書をその場で提示（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501671/</link>
+			<description><![CDATA[　りそなホールディングス傘下のりそな銀行と埼玉りそな銀行、近畿大阪銀行が、法人部門の渉外営業担当者約1500人にiPadを配備し、顧客への提案活動を効率化する取り組みを進めている。]]></description>
+			<pubDate>Thu, 15 Jun 2017 19:56:15 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
