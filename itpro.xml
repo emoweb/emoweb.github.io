@@ -11,129 +11,6 @@
 			<pubDate>Wed, 14 Jun 2017 18:16:57 +0900</pubDate>
 		</item>
 		<item>
-			<title>Java EE 8はマイクロサービス推し、どこが良くなった？（どうする？Java）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/061400005/</link>
-			<description><![CDATA[　4年ぶりの新バージョンとなる「Java EE 8」、機能拡張の目玉はマイクロサービスの支援機能だ。機能拡張の狙いや、メリットを担当者に聞いた。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>本邦初の大規模SD-WANユーザーがついに登場？（先端企業ネットワーク SD-WAN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200004/</link>
-			<description><![CDATA[　今やSD-WANの意味するところは広範囲に及んでいる。SD-WANにまつわる様々な情報をQ＆A形式で紹介する。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIがプロジェクト進捗を管理、工事写真を手掛かりに（誕生！インフラ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/060800017/</link>
-			<description><![CDATA[　工程管理は、品質管理や安全管理、原価管理と同様に、工事における重要な管理項目だ。一般的な工程管理は、技術者が現場を目で見て確認する。このアナログな作業をAI（人工知能）で合理化する技術の開発を進めているのが大手ゼネコンの大林組だ。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>わかりにくいSELinuxセキュリティの勘所を図で理解（IoT時代の最新SELinux入門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052500002/</link>
-			<description><![CDATA[　SELinuxをどう設定・運用していくのかの前提知識として、SELinuxの機能と仕組みの理解が欠かせません。今回は、LinuxサーバーでSELinuxを使っていく上で重要な機能となる「TE」と「MCS」を図解します。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「ケーブルから漏れ出る電波でWi-Fi通信」は可能なのか？（Wi-Fiのウソとホントを実証）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/060900018/</link>
-			<description><![CDATA[　Wi-Fiは遮蔽物による影響を受けやすく、大型機械が多く存在する場所では電波強度がまだら模様のようになり、通信品質がばらつきやすい。こうした場所では、複数のAPを設置して電波強度がまだら模様のようにならないようにする。だがこの手法を使うと、多数のAPが必要となり手間もコストもかかる。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「取引先にもデータを与えよ」、経産省がIoTで共用促す契約指針（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061401013/</link>
-			<description><![CDATA[　工場で集めたデータは全て工場主のもので、トラックや船舶の運行データは収集の主体である運送会社や海運会社に帰属する。“常識”と考えられてきた、こうした産業データの利用権限のあり方を問い直す動きが出てきた。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>実証実験進むLoRaWAN、登山者の位置把握も（IoT通信の本命 LPWA）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500004/</link>
-			<description><![CDATA[　2015年末あたりから話題に上るようになったLoRaWAN。LoRaデバイスからLoRaゲートウエイにデータを伝える手順と、LoRaゲートウエイを通じてネットワークサーバーにデータを伝達するまでを規定している。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AWS事例を数十社が披露、サーバーレスシフトが鮮明に（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061301012/</link>
-			<description><![CDATA[　アマゾン ウェブ サービス ジャパンが開催する年次イベント「AWS Summit Tokyo 2017」では、数十の企業ユーザーが利用事例を披露。サーバーレスアーキテクチャーを実現するイベント駆動型コード実行サービス「AWS Lambda」の使いどころを、クックパッドやグリーが示した。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>GEのデジタル組織、「10対1」の法則（超巨大スタートアップGE）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/061000005/</link>
-			<description><![CDATA[　製造業のデジタル化に挑戦する米ゼネラル・エレクトリック（GE）。同社はデジタル化を実現する手段として、「リーンスタートアップ」や「アジャイル開発」「デザイン思考」といった「シリコンバレー流」を忠実に実践する。スタートアップに生まれ変わろうという経営トップの強い意志が、そこにはある。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>グーグルの芸術家AI、バッハ調の音楽を自動で作曲（カンタンAI）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/061300004/</link>
-			<description><![CDATA[　どこかで耳にしたバッハ調の曲を、AIが自動で作曲してくれる。そんな芸術領域に特化したAIを開発するプロジェクトが米グーグルの「Magenta」だ。“音楽の父”とも呼ばれるバッハの楽曲を学習させたAIのプログラムを公開している。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>マイクロサービスの副作用を乗り越える術（モダナイ新潮流）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060500227/060500004/</link>
-			<description><![CDATA[　筆者がモダナイゼーションの次の一手として推奨する手法のマイクロサービスだが、デメリットもある。例えば全体の整合性を確保しにくくなったり、運用が複雑になったりする恐れがある。しかし、デメリットの多くは乗り越えられる。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>機内Wi-Fi無料化で考えた、「ITで稼ぐJAL」への覚悟は本物か（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061400857/</link>
-			<description><![CDATA[　「国内地方マーケットにおける選好性向上に向けては、『機内Wi-Fiサービス』（公衆無線LAN）の無料化などで競合他社の一歩先を行く新しい機内環境の提供に努めていく」――。記者は、日本航空（JAL）の中期経営計画の説明会での発言が気になっていた。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>名前解決にかかる時間を調べよ（Wiresharkでトラブル解決）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122100310/050800005/</link>
-			<description><![CDATA[　従業員から「Webアクセスが遅い」と言われた担当者。Wiresharkを使って名前解決にかかる時間を調べた。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>DevOpsの自動化ツール、Ansibleの人気の理由は（後）（DevOpsの自動化ツール、Ansibleの人気の理由は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　開発やDevOpsに携わっている人と自動化ツールの話をすると、「Chef」と「Puppet」の名が出てくることが多い。だが、この1年半ほどの間に、もう1つ別の名前も加わるようになった。「Ansible」だ。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700001/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　Delory氏は次のように言う。「どちらの手法も、それぞれ良しあしがあるが、スイッチやストレージアレイなどを扱うには、エージェントレスであるAnsibleの方が楽だ。サーバーという領域から外れたら、エージェントレスの手法の方が簡単だ。ネットワーキングやストレージのチームがAnsibleを好み、サーバーのチームがPuppetやChefを好むという状況が見られるとしたら、それが理由だ」。同じように、開発に従事する者はRuby製のPuppetやChefを好み、DevOpsに従事する者はPython製のAnsibleを好む。「DevOpsに従事する者は一般にPythonになじみがあるので、Ansibleの方を好む理由の1つであるのは間違いない」</p>
-
-<p>　だが、エージェントの制約を回避する方法はあるとDelory氏は言う。「ChefやPuppetに習熟していれば、思いどおりの制御は常に可能だ」。また、ChefやPuppetがエージェントを利用していることには理由がある。自動化の俊敏性がはるかに高いことだ。</p>
-
-<p>　Rusev氏は言う。「エージェントがあるということは、バグを含んでいるかもしれないコードがその分多いということだ。しかしAnsibleでは、エージェント式のシステムのような速度は得られない。何かを日常的に操作する必要がある場合なら、私はエージェント式のシステムの方を好む。その方がきびきび動くからだ」</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700002/?ST=cm-software&P=2">Rusev氏によると、Ansibleのパフォーマンスの問題は、扱...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700002/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700002/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700044/060700002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 15 Jun 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>FacebookのAI研究チーム、交渉能力を持つチャットボットを開発（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501660/</link>
-			<description><![CDATA[　米Facebookは現地時間2017年6月14日、同社の人工知能（AI）研究（FAIR：Facebook Artificial Intelligence Research）チームが交渉能力を持つ対話型AIボットを開発したと発表した。「ダイアログエージェント」と呼ぶ同ボット技術のソースコードと論文を公開している。 ]]></description>
-			<pubDate>Thu, 15 Jun 2017 10:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ベンチャー企業の「死の谷」克服を支援、Cloud Days 札幌で総務省が講演（Cloud Days 2017レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900220/061400017/</link>
-			<description><![CDATA[　2017年6月14日、ICTの総合展である「Cloud Days 札幌 2017」で、総務省北海道総合通信局の竹内友宏情報通信連携推進課長と、同事業の業務支援を担当する野村総合研究所のコンサルタントが講演し、ほとんどのICT関連ベンチャー企業が経験する「死の谷」の克服の支援について語った。]]></description>
-			<pubDate>Thu, 15 Jun 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Chromebookやラズパイで動くVisual Studio Codeが登場（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/061500333/</link>
 			<description><![CDATA[<div>
@@ -258,6 +135,102 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501674/</link>
 			<description><![CDATA[　ドローンを安全に運行するためのシステムである「無人航空機の運航管理システム」の研究開発に関する説明会を、2017年6月15日に国立研究開発法人の新エネルギー・産業技術総合開発研究機構（NEDO）が開催した。]]></description>
 			<pubDate>Thu, 15 Jun 2017 22:16:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>自腹レビュー、10.5インチ「iPad Pro」とJISキーボードを試す（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/061500252/</link>
+			<description><![CDATA[　米アップルが2017年6月5日（現地時間）に発表した「10.5インチiPad Pro」が、いよいよ日本でも発売された。従来の9.7インチモデルを置き換えるiPad Proとして、画面の大型化や高性能化など、期待通りのアップデートを果たした印象だ。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>古河電工の選択、IT子会社の生きる道（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061501015/</link>
+			<description><![CDATA[　古河電気工業がIT子会社を軸に、グループ全体のIT戦略の強化に乗り出す。IT子会社である古河インフォメーション・テクノロジー（FITEC）の発行済株式の51％を富士通に譲渡して業務提携を結ぶ。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>進化するSpring、「塩漬けJavaシステム」には不向き（どうする？Java）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/061500006/</link>
+			<description><![CDATA[　Spring Frameworkに加え、Spring BootやSpring Cloudなどを相次ぎ提供するJavaフレームワークのSpringは、今何を目指しているのか。開発を担うPivotalジャパンの担当者にSpringの進化の方向性などを聞いた。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>パソコンで会議を録音、録画するのに必要なソフトとは？（塩田紳二のモバイルトレンド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/061500054/</link>
+			<description><![CDATA[　PCで録音、録画する場合の環境整備や設定について解説します。特に録音では、レベルの設定が重要です。というのは、録音レベルが低いと音が小さくなって、後から聞きづらくなってしまうからです。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>SDNにはない、SD-WANの注目すべき新機能（先端企業ネットワーク SD-WAN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200005/</link>
+			<description><![CDATA[　SD-WANの製品やサービスが多様化している。ここでは代表的な機能として、「ゼロタッチプロビジョニング」「インターネットブレークアウト」「ハイブリッドWAN」「セグメンテーション/ マルチテナント」を解説する。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソフトバンクのIoT通信サービス、その強み（IoT通信の本命 LPWA）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500005/</link>
+			<description><![CDATA[　SIGFOXやLoRaWANと異なり、携帯電話事業者などが免許を取得してサービスを提供するのがNB-IoTだ。ライセンス帯を使うので一定以上の品質を保証できるのがメリットだという。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「米国はNASA。では日本は？」に答えてくれるグーグル発の辞書AI（カンタンAI）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/061500005/</link>
+			<description><![CDATA[　言葉と言葉の関係を表すデータベースを自動で構築できるAI技術「word2vec」。ある単語の意味を別の単語との関係で表す「分散表現」を機械学習で自動生成する。「東京」と「日本」の関係は、「パリ」に当てはめると「フランス」になる、といった意味の判定が可能だ。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>マイライン廃止はほぼ決まり、ささやかれる「NTT独占時代への回帰」（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061401014/</link>
+			<description><![CDATA[　総務省は、NTTの加入電話網（PSTN）が2025年頃に維持限界を迎えることを受け、IP網への円滑な移行に向けた議論を進めている。2017年6月7日開催の有識者会議では事業者間で意見が割れていたマイラインの扱いが議論され、廃止の方針がほぼ固まった。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>KDDIが「au HOME」7月下旬開始　IoTで防犯、月490円（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/061400319/</link>
+			<description><![CDATA[　KDDIが夏モデル発表会を実施しました。スマホ本体よりも注目だったのが、月額490円の低料金で提供される新しいIoTサービス「au HOME」です。自宅の防犯や子どもの見守りなど、次世代の便利なサービスが手軽に利用できます。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ロボットやPCに変身!?スマホ進化のカギを握る“合体”（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/061400318/</link>
+			<description><![CDATA[　スマートフォンが周辺機器などと“合体”することで機能を拡張するという流れが強まっている。スマートフォンの新たな進化の鍵となるのだろうか。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>悲しくて立てなくても走れ！（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061300856/</link>
+			<description><![CDATA[　6月2日に公開した『心が折れても立ち向かっていく方法』の続編をお届けする。難しいプロジェクトや仕事の渦中にあって、心が折れそうになり、悲しくて涙がこぼれそうになる時があるかもしれない。だが、それでもなんとか走っていかなければならない。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>セキュリティのないIoTは世界の害悪である（ゼロから挑戦！IoT開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/061400007/</link>
+			<description><![CDATA[　セキュリティ対策のないIoT（インターネット・オブ／シングズ）ほど迷惑なものはない。データを漏洩させたり、乗っ取られて攻撃側に回ったりと、つながっている世界に害悪を及ぼすからだ。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「年次評価」をやめたGEの意図（超巨大スタートアップGE）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/061000006/</link>
+			<description><![CDATA[　1年ごとに社員の下位10％を解雇するか配置換えする――。そんなとても厳しい人事制度を採用していた米ゼネラル・エレクトリック（GE）が2016年、年1回の人事評価を廃止した。「リーンスタートアップ」のために、GEは人事制度まで作り変えてしまったのだ。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ラズパイの「Fedora」OSで次世代Red Hatを予習する（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/061500011/</link>
+			<description><![CDATA[　4000円台のPCボード「Raspberry Pi（ラズパイ）」で、企業向けLinuxの新機能をいち早く知る。そんな“予習”に使えるLinuxディストリビューションが「Fedora」です。Fedoraはバージョン25から、ラズパイで動作するOSイメージを公式に提供しています。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>VRが起こす医療革命（シリコンバレーVR通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052800216/061100002/</link>
+			<description><![CDATA[　VR技術の応用分野として、いま最も活発なのが医療分野での応用だ。患者の治療支援や医師の教育、人体の精緻な3次元（3D）モデルを使った手術支援、脳とVRを結んだ難病患者の生活支援と、幅広い応用が進む。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ロースペックだが実力派！格安スマホ「FLEAZ Que」快適利用法（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/052400056/</link>
+			<description><![CDATA[　2台目スマートフォンの選択に悩んでいる方にお勧めの機種をご紹介します。コヴィア製の「FLEAZ Que」です。直販価格は税別1万3800円。お勧めは、格安のスマートフォンで省略されていることが多いジャイロセンサーとUSBホストを搭載していることです。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
