@@ -11,12 +11,6 @@
 			<pubDate>Wed, 14 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>カシオ、iPhoneにデータ転送できるBluetooth搭載ストップウオッチ「HSB-100W」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401654/</link>
-			<description><![CDATA[　カシオ計算機は2017年6月14日、Bluetooth搭載ストップウオッチ「HSB-100W」を6月16日に発売すると発表した。計測したラップタイムなどのデータをiPhoneに転送して専用アプリ上で管理できる。希望小売価格は8000円（税別）。]]></description>
-			<pubDate>Wed, 14 Jun 2017 17:10:05 +0900</pubDate>
-		</item>
-		<item>
 			<title>ネットギア、10Gイーサと60ベイ搭載の4UラックサイズNAS「ReadyNAS 4360X/4360S」（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401655/</link>
 			<description><![CDATA[　ネットギアジャパンは、10Gイーサネットポート2基とインテル製サーバー向け最新CPU、大容量メモリーを搭載した4Uラックマウント型ネットワークストレージ（NAS）「ReadyNAS 4360X」および「同 4360S」を2017年6月8日発売した。いずれもディスクレスモデルで、顧客側で必要なスペックのHDDを必要な台数だけ用意するため、最小コストで運用開始できる。]]></description>
@@ -47,6 +41,12 @@
 			<pubDate>Wed, 14 Jun 2017 19:40:43 +0900</pubDate>
 		</item>
 		<item>
+			<title>Java EE 8はマイクロサービス推し、どこが良くなった？（どうする？Java）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/061400005/</link>
+			<description><![CDATA[　4年ぶりの新バージョンとなる「Java EE 8」、機能拡張の目玉はマイクロサービスの支援機能だ。機能拡張の狙いや、メリットを担当者に聞いた。]]></description>
+			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>実証実験進むLoRaWAN、登山者の位置把握も（IoT通信の本命 LPWA）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500004/</link>
 			<description><![CDATA[　2015年末あたりから話題に上るようになったLoRaWAN。LoRaデバイスからLoRaゲートウエイにデータを伝える手順と、LoRaゲートウエイを通じてネットワークサーバーにデータを伝達するまでを規定している。]]></description>
@@ -59,9 +59,9 @@
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Java EE 8はマイクロサービス推し、どこが良くなった？（どうする？Java）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/061400005/</link>
-			<description><![CDATA[　4年ぶりの新バージョンとなる「Java EE 8」、機能拡張の目玉はマイクロサービスの支援機能だ。機能拡張の狙いや、メリットを担当者に聞いた。]]></description>
+			<title>GEのデジタル組織、「10対1」の法則（超巨大スタートアップGE）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/061000005/</link>
+			<description><![CDATA[　製造業のデジタル化に挑戦する米ゼネラル・エレクトリック（GE）。同社はデジタル化を実現する手段として、「リーンスタートアップ」や「アジャイル開発」「デザイン思考」といった「シリコンバレー流」を忠実に実践する。スタートアップに生まれ変わろうという経営トップの強い意志が、そこにはある。]]></description>
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,24 +95,6 @@
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「取引先にもデータを与えよ」、経産省がIoTで共用促す契約指針（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061401013/</link>
-			<description><![CDATA[　工場で集めたデータは全て工場主のもので、トラックや船舶の運行データは収集の主体である運送会社や海運会社に帰属する。“常識”と考えられてきた、こうした産業データの利用権限のあり方を問い直す動きが出てきた。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>GEのデジタル組織、「10対1」の法則（超巨大スタートアップGE）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/061000005/</link>
-			<description><![CDATA[　製造業のデジタル化に挑戦する米ゼネラル・エレクトリック（GE）。同社はデジタル化を実現する手段として、「リーンスタートアップ」や「アジャイル開発」「デザイン思考」といった「シリコンバレー流」を忠実に実践する。スタートアップに生まれ変わろうという経営トップの強い意志が、そこにはある。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>本邦初の大規模SD-WANユーザーがついに登場？（先端企業ネットワーク SD-WAN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200004/</link>
-			<description><![CDATA[　今やSD-WANの意味するところは広範囲に及んでいる。SD-WANにまつわる様々な情報をQ＆A形式で紹介する。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>AIがプロジェクト進捗を管理、工事写真を手掛かりに（誕生！インフラ×AI 業界地図）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/060800017/</link>
 			<description><![CDATA[　工程管理は、品質管理や安全管理、原価管理と同様に、工事における重要な管理項目だ。一般的な工程管理は、技術者が現場を目で見て確認する。このアナログな作業をAI（人工知能）で合理化する技術の開発を進めているのが大手ゼネコンの大林組だ。]]></description>
@@ -122,6 +104,18 @@
 			<title>「ケーブルから漏れ出る電波でWi-Fi通信」は可能なのか？（Wi-Fiのウソとホントを実証）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/060900018/</link>
 			<description><![CDATA[　Wi-Fiは遮蔽物による影響を受けやすく、大型機械が多く存在する場所では電波強度がまだら模様のようになり、通信品質がばらつきやすい。こうした場所では、複数のAPを設置して電波強度がまだら模様のようにならないようにする。だがこの手法を使うと、多数のAPが必要となり手間もコストもかかる。]]></description>
+			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>本邦初の大規模SD-WANユーザーがついに登場？（先端企業ネットワーク SD-WAN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200004/</link>
+			<description><![CDATA[　今やSD-WANの意味するところは広範囲に及んでいる。SD-WANにまつわる様々な情報をQ＆A形式で紹介する。]]></description>
+			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「取引先にもデータを与えよ」、経産省がIoTで共用促す契約指針（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061401013/</link>
+			<description><![CDATA[　工場で集めたデータは全て工場主のもので、トラックや船舶の運行データは収集の主体である運送会社や海運会社に帰属する。“常識”と考えられてきた、こうした産業データの利用権限のあり方を問い直す動きが出てきた。]]></description>
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -258,6 +252,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501671/</link>
 			<description><![CDATA[　りそなホールディングス傘下のりそな銀行と埼玉りそな銀行、近畿大阪銀行が、法人部門の渉外営業担当者約1500人にiPadを配備し、顧客への提案活動を効率化する取り組みを進めている。]]></description>
 			<pubDate>Thu, 15 Jun 2017 19:56:15 +0900</pubDate>
+		</item>
+		<item>
+			<title>グーグルがクラウドを売り込む黒子「Office of the CTO」を解説（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501672/</link>
+			<description><![CDATA[　グーグルは2017年6月15日、クラウドのイベント「Google Cloud Next '17 in Tokyo」の報道関係社向けセッションでパートナー企業のIT活用を支援するグーグルの組織「Office of the CTO」を解説した。]]></description>
+			<pubDate>Thu, 15 Jun 2017 20:49:36 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
