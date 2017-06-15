@@ -5,46 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：キユーピー、グーグルの深層学習による原料検査で生産性2倍に（速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061401658/?n16</link>
-			<description><![CDATA[　キユーピーの荻野武生産本部次世代技術担当次長は、グーグルが2017年6月14日に開催したイベント「Google Cloud Next '17 in Tokyo」の報道関係者向けセッションに登壇。ディープラーニング（深層学習）を駆使した原料検査装置開発の取り組みを説明した。]]></description>
-			<pubDate>Wed, 14 Jun 2017 18:16:57 +0900</pubDate>
-		</item>
-		<item>
-			<title>Chromebookやラズパイで動くVisual Studio Codeが登場（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/061500333/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftが公開している軽量のソースコードエディタ「Visual Studio Code」から派生したコミュニティビルド版を、開発者のJay Rodgers氏が主導する<a href="https://code.headmelted.com/" target="_blank">プロジェクト</a>が公開した。このコミュニティビルド版のVisual Studio Codeは、「Chromebook」や「Raspberry Pi」のほか、32ビットと64ビットのARMプロセッサを搭載したデバイスで動作する。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/061500333/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Gareth Halfacree / flickr</div>
-</div>
-<p>
-　このプロジェクトが公開したVisual Studio Codeは、通常のVisual Studio Codeよりもマイナーなプラットフォームを対象とした自動ビルド版だ。OSはLinuxとChrome OSをサポートし、パッケージはdeb形式とRPM形式で提供している。Raspberry Piをはじめ、ARMベースのデバイスを専門に扱うIoT開発者にとっては、プログラミング対象のデバイスでエディタが直接動くという点で、このバージョンは役立つはずだ。
-</p>
-<p>
-　このコミュニティビルド版でも、Visual Studio Code用の拡張機能は動作するはずとのことだ。「大まかな基準としては、ARMに非対応のネイティブコンポーネントを使っている拡張機能でなければ、他で動かした時と同じように動作するはずだ」とRodgers氏は言う。Visual Studio Code用の拡張機能には、各種言語のデバッグやテンプレート生成など、さまざまな機能を支援するものがある。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/061500333/?ST=cio-appli&P=2">Rodgers氏は、当初このプロジェクトを201...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/061500333/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/061500333/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/061500333/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 15 Jun 2017 10:20:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：機内Wi-Fi無料化で考えた、「ITで稼ぐJAL」への覚悟は本物か（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061400857/?d16</link>
+			<description><![CDATA[　「国内地方マーケットにおける選好性向上に向けては、『機内Wi-Fiサービス』（公衆無線LAN）の無料化などで競合他社の一歩先を行く新しい機内環境の提供に努めていく」――。記者は、日本航空（JAL）の中期経営計画の説明会での発言が気になっていた。]]></description>
+			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>2017年の世界IoT市場は、16.7％増の8000億ドル強に（ニュース）</title>
@@ -137,6 +101,12 @@
 			<pubDate>Thu, 15 Jun 2017 22:16:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>VRが起こす医療革命（シリコンバレーVR通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052800216/061100002/</link>
+			<description><![CDATA[　VR技術の応用分野として、いま最も活発なのが医療分野での応用だ。患者の治療支援や医師の教育、人体の精緻な3次元（3D）モデルを使った手術支援、脳とVRを結んだ難病患者の生活支援と、幅広い応用が進む。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>自腹レビュー、10.5インチ「iPad Pro」とJISキーボードを試す（ITpro Report）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/061500252/</link>
 			<description><![CDATA[　米アップルが2017年6月5日（現地時間）に発表した「10.5インチiPad Pro」が、いよいよ日本でも発売された。従来の9.7インチモデルを置き換えるiPad Proとして、画面の大型化や高性能化など、期待通りのアップデートを果たした印象だ。]]></description>
@@ -221,16 +191,43 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>VRが起こす医療革命（シリコンバレーVR通信）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052800216/061100002/</link>
-			<description><![CDATA[　VR技術の応用分野として、いま最も活発なのが医療分野での応用だ。患者の治療支援や医師の教育、人体の精緻な3次元（3D）モデルを使った手術支援、脳とVRを結んだ難病患者の生活支援と、幅広い応用が進む。]]></description>
-			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ロースペックだが実力派！格安スマホ「FLEAZ Que」快適利用法（伊藤浩一のモバイルライフ応援日記）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/052400056/</link>
 			<description><![CDATA[　2台目スマートフォンの選択に悩んでいる方にお勧めの機種をご紹介します。コヴィア製の「FLEAZ Que」です。直販価格は税別1万3800円。お勧めは、格安のスマートフォンで省略されていることが多いジャイロセンサーとUSBホストを搭載していることです。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>退役軍人をセキュリティ人材に、米企業が採用を拡大（下）（退役軍人をセキュリティ人材に、米企業が採用を拡大）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/060700043/060700003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　マネージドセキュリティサービスを手がける米Proficioは、サイバーセキュリティチームの人員を、現在の100人から、2018年末には450人以上まで増やす計画である。セキュリティ人材が不足している現在では、そのような増員はかなり大変だと考える企業が多いかもしれない。だが、Proficioの幹部は、セキュリティ人材の発掘に関して、宝の山を掘り当てたと考えている。その宝の山とは、本社にほど近いサンディエゴの基地に所属していた退役軍人たちである。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700043/060700002/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700043/060700003/ph3.jpg" width="300" alt="" title=""></div></div>
+
+<p>　米国土安全保障省は、退役軍人が無料で利用できるサイバーセキュリティトレーニングを、「<a href="https://niccs.us-cert.gov/training/federal-virtual-training-environment-fedvte" target="_blank">Federal Virtual Training Environment</a>」のサイトでオンライン講座として提供している。また、「<a href="https://niccs.us-cert.gov/formal-education/national-centers-academic-excellence-cae" target="_blank">National Centers of Academic Excellence</a>」を通じて提供しているサイバー関連の学位取得プログラムもある。このほか、大学などに入ってサイバーセキュリティの学位を取得する人が、卒業後に政府関連の仕事に就くのと引き換えに奨学金を得られる「<a href="http://www.sfs.opm.gov/" target="_blank">CyberCorps Scholarship for Service</a>」プログラムなど、選択肢は数多くある。</p>
+
+<p>　退役軍人がサイバーセキュリティの仕事をいざ探す段階になったら、軍での経験を的確に説明したり、採用を行っている企業とつながったりという面で、国土安全保障省のほかにも、役に立つアプリ、サイト、組織が増えつつある。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700043/060700003/?ST=cio-security&P=2">「退役軍人たちは、自分の経験を紙の上で効果的に説...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700043/060700003/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700043/060700003/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700043/060700003/?ST=cio-security&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/060700043/060700003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 16 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
