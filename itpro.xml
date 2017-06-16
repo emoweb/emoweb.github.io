@@ -11,12 +11,6 @@
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>HPEがハイパーコンバージドの「SimpliVity 380」、70％のデータ容量削減も（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501675/</link>
-			<description><![CDATA[　日本ヒューレット・パッカードは2017年6月15日、ハイパーコンバージドインフラストラクチャー（HCI）製品の「HPE SimpliVity 380」を提供開始すると発表した。同社が提供するHCI製品群で、データの重複排除や圧縮機能を初めて搭載。性能を高めた新製品の投入で市場シェアの拡大を狙う。]]></description>
-			<pubDate>Thu, 15 Jun 2017 21:27:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ソラコムがグーグルクラウドと連携、「IoTに必要なサービスがそろっている」（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501676/</link>
 			<description><![CDATA[　ソラコムは2017年6月15日、IoT通信プラットフォーム「SORACOM」の新機能として「Google Cloud Platform（GCP）」との連携を発表した。安川健太CTO（最高技術責任者）は「Google Cloud Next '17 in Tokyo」に登壇して新機能を紹介した。]]></description>
@@ -33,6 +27,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501674/</link>
 			<description><![CDATA[　ドローンを安全に運行するためのシステムである「無人航空機の運航管理システム」の研究開発に関する説明会を、2017年6月15日に国立研究開発法人の新エネルギー・産業技術総合開発研究機構（NEDO）が開催した。]]></description>
 			<pubDate>Thu, 15 Jun 2017 22:16:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>VRが起こす医療革命（シリコンバレーVR通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052800216/061100002/</link>
+			<description><![CDATA[　VR技術の応用分野として、いま最も活発なのが医療分野での応用だ。患者の治療支援や医師の教育、人体の精緻な3次元（3D）モデルを使った手術支援、脳とVRを結んだ難病患者の生活支援と、幅広い応用が進む。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ラズパイの「Fedora」OSで次世代Red Hatを予習する（週末に遊べるラズパイ）</title>
@@ -59,9 +59,9 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>VRが起こす医療革命（シリコンバレーVR通信）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052800216/061100002/</link>
-			<description><![CDATA[　VR技術の応用分野として、いま最も活発なのが医療分野での応用だ。患者の治療支援や医師の教育、人体の精緻な3次元（3D）モデルを使った手術支援、脳とVRを結んだ難病患者の生活支援と、幅広い応用が進む。]]></description>
+			<title>SDNにはない、SD-WANの注目すべき新機能（先端企業ネットワーク SD-WAN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200005/</link>
+			<description><![CDATA[　SD-WANの製品やサービスが多様化している。ここでは代表的な機能として、「ゼロタッチプロビジョニング」「インターネットブレークアウト」「ハイブリッドWAN」「セグメンテーション/ マルチテナント」を解説する。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,9 +89,9 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ロースペックだが実力派！格安スマホ「FLEAZ Que」快適利用法（伊藤浩一のモバイルライフ応援日記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/052400056/</link>
-			<description><![CDATA[　2台目スマートフォンの選択に悩んでいる方にお勧めの機種をご紹介します。コヴィア製の「FLEAZ Que」です。直販価格は税別1万3800円。お勧めは、格安のスマートフォンで省略されていることが多いジャイロセンサーとUSBホストを搭載していることです。]]></description>
+			<title>進化するSpring、「塩漬けJavaシステム」には不向き（どうする？Java）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/061500006/</link>
+			<description><![CDATA[　Spring Frameworkに加え、Spring BootやSpring Cloudなどを相次ぎ提供するJavaフレームワークのSpringは、今何を目指しているのか。開発を担うPivotalジャパンの担当者にSpringの進化の方向性などを聞いた。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,9 +101,9 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>SDNにはない、SD-WANの注目すべき新機能（先端企業ネットワーク SD-WAN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200005/</link>
-			<description><![CDATA[　SD-WANの製品やサービスが多様化している。ここでは代表的な機能として、「ゼロタッチプロビジョニング」「インターネットブレークアウト」「ハイブリッドWAN」「セグメンテーション/ マルチテナント」を解説する。]]></description>
+			<title>「年次評価」をやめたGEの意図（超巨大スタートアップGE）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/061000006/</link>
+			<description><![CDATA[　1年ごとに社員の下位10％を解雇するか配置換えする――。そんなとても厳しい人事制度を採用していた米ゼネラル・エレクトリック（GE）が2016年、年1回の人事評価を廃止した。「リーンスタートアップ」のために、GEは人事制度まで作り変えてしまったのだ。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -119,15 +119,9 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>進化するSpring、「塩漬けJavaシステム」には不向き（どうする？Java）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200226/061500006/</link>
-			<description><![CDATA[　Spring Frameworkに加え、Spring BootやSpring Cloudなどを相次ぎ提供するJavaフレームワークのSpringは、今何を目指しているのか。開発を担うPivotalジャパンの担当者にSpringの進化の方向性などを聞いた。]]></description>
-			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「年次評価」をやめたGEの意図（超巨大スタートアップGE）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/061000006/</link>
-			<description><![CDATA[　1年ごとに社員の下位10％を解雇するか配置換えする――。そんなとても厳しい人事制度を採用していた米ゼネラル・エレクトリック（GE）が2016年、年1回の人事評価を廃止した。「リーンスタートアップ」のために、GEは人事制度まで作り変えてしまったのだ。]]></description>
+			<title>ロースペックだが実力派！格安スマホ「FLEAZ Que」快適利用法（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/052400056/</link>
+			<description><![CDATA[　2台目スマートフォンの選択に悩んでいる方にお勧めの機種をご紹介します。コヴィア製の「FLEAZ Que」です。直販価格は税別1万3800円。お勧めは、格安のスマートフォンで省略されていることが多いジャイロセンサーとUSBホストを搭載していることです。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -246,6 +240,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061601683/</link>
 			<description><![CDATA[　電通は2017年6月16日、人工知能（AI）の学習手法の一つであるディープラーニング（深層学習）を用いることで、テレビ視聴率を予測できるシステム「SHAREST（β版）」（シェアレスト・ベータ版）を開発したと発表した。]]></description>
 			<pubDate>Fri, 16 Jun 2017 14:34:37 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google、Yahoo、Appleのフィッシングサイトが急増、ウェブルートの脅威レポート（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061601684/</link>
+			<description><![CDATA[　ウェブルートは2017年6月15日、2016年に発生したサイバー脅威の状況を分析した「ウェブルート 脅威レポート 2017」を公開し、都内で記者説明会を行った。説明会では、同社の製品・技術本部 シニアセールスエンジニア 中村 多希氏が登壇。今回のレポートは、「270億以上のURL」、「6億以上のドメイン」、「40億以上のIPアドレス」、「130億以上のファイルの振る舞い」、「5000万以上のモバイルアプリケーション」、「4000万以上の接続センサー」で構成される同社の脅威インテリジェンスプラットフォームで脅威情報を収集・分析した結果であると説明した。]]></description>
+			<pubDate>Fri, 16 Jun 2017 15:15:47 +0900</pubDate>
 		</item>
 		<item>
 			<title>「1年後にBIにAIを搭載」、米クリックのCTO明かす（ニュース）</title>
