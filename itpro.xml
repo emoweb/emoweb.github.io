@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>スマホ決済サービスのOrigami Pay、ローソンに導入へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501669/</link>
-			<description><![CDATA[　スマートフォン向け決済サービス「Origami Pay」を提供するOrigamiは2017年6月15日、ローソンと業務提携に関する基本合意書を締結したと発表した。]]></description>
-			<pubDate>Thu, 15 Jun 2017 18:37:50 +0900</pubDate>
-		</item>
-		<item>
-			<title>「明日あなたが狙われる」と予測できてこそAI、シマンテックのAI戦略（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501670/</link>
-			<description><![CDATA[　シマンテックは2017年6月15日、同社のセキュリティ製品/サービスにおける機械学習やAI技術の活用に関する説明会を開催した。未知の攻撃がネットワークやシステムに残した兆候の早期発見などに生かせる一方で、偽のデータで誤学習させる攻撃の標的にもなり得るという。]]></description>
-			<pubDate>Thu, 15 Jun 2017 19:41:53 +0900</pubDate>
-		</item>
-		<item>
 			<title>りそなグループ3行が法人営業にiPad1500台導入、提案書をその場で提示（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501671/</link>
 			<description><![CDATA[　りそなホールディングス傘下のりそな銀行と埼玉りそな銀行、近畿大阪銀行が、法人部門の渉外営業担当者約1500人にiPadを配備し、顧客への提案活動を効率化する取り組みを進めている。]]></description>
@@ -59,6 +47,18 @@
 			<pubDate>Thu, 15 Jun 2017 22:16:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>セキュリティのないIoTは世界の害悪である（ゼロから挑戦！IoT開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/061400007/</link>
+			<description><![CDATA[　セキュリティ対策のないIoT（インターネット・オブ／シングズ）ほど迷惑なものはない。データを漏洩させたり、乗っ取られて攻撃側に回ったりと、つながっている世界に害悪を及ぼすからだ。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>VRが起こす医療革命（シリコンバレーVR通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052800216/061100002/</link>
+			<description><![CDATA[　VR技術の応用分野として、いま最も活発なのが医療分野での応用だ。患者の治療支援や医師の教育、人体の精緻な3次元（3D）モデルを使った手術支援、脳とVRを結んだ難病患者の生活支援と、幅広い応用が進む。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ラズパイの「Fedora」OSで次世代Red Hatを予習する（週末に遊べるラズパイ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/061500011/</link>
 			<description><![CDATA[　4000円台のPCボード「Raspberry Pi（ラズパイ）」で、企業向けLinuxの新機能をいち早く知る。そんな“予習”に使えるLinuxディストリビューションが「Fedora」です。Fedoraはバージョン25から、ラズパイで動作するOSイメージを公式に提供しています。]]></description>
@@ -71,9 +71,9 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>セキュリティのないIoTは世界の害悪である（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/061400007/</link>
-			<description><![CDATA[　セキュリティ対策のないIoT（インターネット・オブ／シングズ）ほど迷惑なものはない。データを漏洩させたり、乗っ取られて攻撃側に回ったりと、つながっている世界に害悪を及ぼすからだ。]]></description>
+			<title>「米国はNASA。では日本は？」に答えてくれるグーグル発の辞書AI（カンタンAI）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/061500005/</link>
+			<description><![CDATA[　言葉と言葉の関係を表すデータベースを自動で構築できるAI技術「word2vec」。ある単語の意味を別の単語との関係で表す「分散表現」を機械学習で自動生成する。「東京」と「日本」の関係は、「パリ」に当てはめると「フランス」になる、といった意味の判定が可能だ。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,9 +89,9 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>KDDIが「au HOME」7月下旬開始　IoTで防犯、月490円（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/061400319/</link>
-			<description><![CDATA[　KDDIが夏モデル発表会を実施しました。スマホ本体よりも注目だったのが、月額490円の低料金で提供される新しいIoTサービス「au HOME」です。自宅の防犯や子どもの見守りなど、次世代の便利なサービスが手軽に利用できます。]]></description>
+			<title>「年次評価」をやめたGEの意図（超巨大スタートアップGE）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/061000006/</link>
+			<description><![CDATA[　1年ごとに社員の下位10％を解雇するか配置換えする――。そんなとても厳しい人事制度を採用していた米ゼネラル・エレクトリック（GE）が2016年、年1回の人事評価を廃止した。「リーンスタートアップ」のために、GEは人事制度まで作り変えてしまったのだ。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,9 +101,9 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「米国はNASA。では日本は？」に答えてくれるグーグル発の辞書AI（カンタンAI）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/061500005/</link>
-			<description><![CDATA[　言葉と言葉の関係を表すデータベースを自動で構築できるAI技術「word2vec」。ある単語の意味を別の単語との関係で表す「分散表現」を機械学習で自動生成する。「東京」と「日本」の関係は、「パリ」に当てはめると「フランス」になる、といった意味の判定が可能だ。]]></description>
+			<title>マイライン廃止はほぼ決まり、ささやかれる「NTT独占時代への回帰」（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061401014/</link>
+			<description><![CDATA[　総務省は、NTTの加入電話網（PSTN）が2025年頃に維持限界を迎えることを受け、IP網への円滑な移行に向けた議論を進めている。2017年6月7日開催の有識者会議では事業者間で意見が割れていたマイラインの扱いが議論され、廃止の方針がほぼ固まった。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -137,21 +137,9 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「年次評価」をやめたGEの意図（超巨大スタートアップGE）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/061000006/</link>
-			<description><![CDATA[　1年ごとに社員の下位10％を解雇するか配置換えする――。そんなとても厳しい人事制度を採用していた米ゼネラル・エレクトリック（GE）が2016年、年1回の人事評価を廃止した。「リーンスタートアップ」のために、GEは人事制度まで作り変えてしまったのだ。]]></description>
-			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>マイライン廃止はほぼ決まり、ささやかれる「NTT独占時代への回帰」（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061401014/</link>
-			<description><![CDATA[　総務省は、NTTの加入電話網（PSTN）が2025年頃に維持限界を迎えることを受け、IP網への円滑な移行に向けた議論を進めている。2017年6月7日開催の有識者会議では事業者間で意見が割れていたマイラインの扱いが議論され、廃止の方針がほぼ固まった。]]></description>
-			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>VRが起こす医療革命（シリコンバレーVR通信）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052800216/061100002/</link>
-			<description><![CDATA[　VR技術の応用分野として、いま最も活発なのが医療分野での応用だ。患者の治療支援や医師の教育、人体の精緻な3次元（3D）モデルを使った手術支援、脳とVRを結んだ難病患者の生活支援と、幅広い応用が進む。]]></description>
+			<title>KDDIが「au HOME」7月下旬開始　IoTで防犯、月490円（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/061400319/</link>
+			<description><![CDATA[　KDDIが夏モデル発表会を実施しました。スマホ本体よりも注目だったのが、月額490円の低料金で提供される新しいIoTサービス「au HOME」です。自宅の防犯や子どもの見守りなど、次世代の便利なサービスが手軽に利用できます。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -258,6 +246,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/061600253/</link>
 			<description><![CDATA[　2017年6月1日から3日にかけて、教育関連の総合イベント「New Education Expo 2017 in 東京」が開催された。「これからの大学生に必要な『情報活用能力』～教育機関は社会のニーズにどう応えるか～」と題したセミナーでは、3名のキーパーソンをゲストに迎え、取り組みの実践例を通じて“学生の情報活用能力の育成”について議論した。]]></description>
 			<pubDate>Fri, 16 Jun 2017 13:50:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「IoTやAI導入で製造業を変革する」、日立産業制御ソリューションズが事業方針説明会（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061601682/</link>
+			<description><![CDATA[　日立製作所の子会社で製造業向けITサービスをする日立産業制御ソリューションズは2017年6月16日、事業方針説明会を開いた。木村亨社長は「ソフトを売るプロダクト・アウト型のビジネスから脱却する」と目標を語った。]]></description>
+			<pubDate>Fri, 16 Jun 2017 14:26:06 +0900</pubDate>
+		</item>
+		<item>
+			<title>電通がAIを用いた放送前テレビ視聴率予測システム開発、まず関東で検証実施（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061601683/</link>
+			<description><![CDATA[　電通は2017年6月16日、人工知能（AI）の学習手法の一つであるディープラーニング（深層学習）を用いることで、テレビ視聴率を予測できるシステム「SHAREST（β版）」（シェアレスト・ベータ版）を開発したと発表した。]]></description>
+			<pubDate>Fri, 16 Jun 2017 14:34:37 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
