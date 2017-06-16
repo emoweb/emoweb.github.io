@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：機内Wi-Fi無料化で考えた、「ITで稼ぐJAL」への覚悟は本物か（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061400857/?d16</link>
-			<description><![CDATA[　「国内地方マーケットにおける選好性向上に向けては、『機内Wi-Fiサービス』（公衆無線LAN）の無料化などで競合他社の一歩先を行く新しい機内環境の提供に努めていく」――。記者は、日本航空（JAL）の中期経営計画の説明会での発言が気になっていた。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>フジテレビがCMでエリアごとに異なるメッセージ表示、6月19日に実施（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501662/</link>
-			<description><![CDATA[　フジテレビジョンは2017年6月15日、データ放送機能で表示するL字画面にエリアごとに異なるメッセージを出す「エリアメッセージCM」を6月19日に放送すると発表した。]]></description>
-			<pubDate>Thu, 15 Jun 2017 12:09:04 +0900</pubDate>
-		</item>
-		<item>
 			<title>コードキャンプが高校生向けプログラミング教育、トライと業務提携し展開（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501663/</link>
 			<description><![CDATA[　プログラミングスクール「CodeCamp」などを運営するコードキャンプは2017年6月15日、家庭教師派遣などを展開するトライグループと業務提携し、エンジニアを目指す高校生向けに実践的なプログラミング教育を施す「エンジニア・IT 起業家 育成講座」を提供すると発表した。]]></description>
@@ -95,21 +83,27 @@
 			<pubDate>Thu, 15 Jun 2017 22:16:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>VRが起こす医療革命（シリコンバレーVR通信）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052800216/061100002/</link>
-			<description><![CDATA[　VR技術の応用分野として、いま最も活発なのが医療分野での応用だ。患者の治療支援や医師の教育、人体の精緻な3次元（3D）モデルを使った手術支援、脳とVRを結んだ難病患者の生活支援と、幅広い応用が進む。]]></description>
-			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ロースペックだが実力派！格安スマホ「FLEAZ Que」快適利用法（伊藤浩一のモバイルライフ応援日記）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/052400056/</link>
 			<description><![CDATA[　2台目スマートフォンの選択に悩んでいる方にお勧めの機種をご紹介します。コヴィア製の「FLEAZ Que」です。直販価格は税別1万3800円。お勧めは、格安のスマートフォンで省略されていることが多いジャイロセンサーとUSBホストを搭載していることです。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>VRが起こす医療革命（シリコンバレーVR通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052800216/061100002/</link>
+			<description><![CDATA[　VR技術の応用分野として、いま最も活発なのが医療分野での応用だ。患者の治療支援や医師の教育、人体の精緻な3次元（3D）モデルを使った手術支援、脳とVRを結んだ難病患者の生活支援と、幅広い応用が進む。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>自腹レビュー、10.5インチ「iPad Pro」とJISキーボードを試す（ITpro Report）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/061500252/</link>
 			<description><![CDATA[　米アップルが2017年6月5日（現地時間）に発表した「10.5インチiPad Pro」が、いよいよ日本でも発売された。従来の9.7インチモデルを置き換えるiPad Proとして、画面の大型化や高性能化など、期待通りのアップデートを果たした印象だ。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ラズパイの「Fedora」OSで次世代Red Hatを予習する（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/061500011/</link>
+			<description><![CDATA[　4000円台のPCボード「Raspberry Pi（ラズパイ）」で、企業向けLinuxの新機能をいち早く知る。そんな“予習”に使えるLinuxディストリビューションが「Fedora」です。Fedoraはバージョン25から、ラズパイで動作するOSイメージを公式に提供しています。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -143,9 +137,9 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「米国はNASA。では日本は？」に答えてくれるグーグル発の辞書AI（カンタンAI）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/061500005/</link>
-			<description><![CDATA[　言葉と言葉の関係を表すデータベースを自動で構築できるAI技術「word2vec」。ある単語の意味を別の単語との関係で表す「分散表現」を機械学習で自動生成する。「東京」と「日本」の関係は、「パリ」に当てはめると「フランス」になる、といった意味の判定が可能だ。]]></description>
+			<title>「年次評価」をやめたGEの意図（超巨大スタートアップGE）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/061000006/</link>
+			<description><![CDATA[　1年ごとに社員の下位10％を解雇するか配置換えする――。そんなとても厳しい人事制度を採用していた米ゼネラル・エレクトリック（GE）が2016年、年1回の人事評価を廃止した。「リーンスタートアップ」のために、GEは人事制度まで作り変えてしまったのだ。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -179,15 +173,9 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「年次評価」をやめたGEの意図（超巨大スタートアップGE）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/061000006/</link>
-			<description><![CDATA[　1年ごとに社員の下位10％を解雇するか配置換えする――。そんなとても厳しい人事制度を採用していた米ゼネラル・エレクトリック（GE）が2016年、年1回の人事評価を廃止した。「リーンスタートアップ」のために、GEは人事制度まで作り変えてしまったのだ。]]></description>
-			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ラズパイの「Fedora」OSで次世代Red Hatを予習する（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/061500011/</link>
-			<description><![CDATA[　4000円台のPCボード「Raspberry Pi（ラズパイ）」で、企業向けLinuxの新機能をいち早く知る。そんな“予習”に使えるLinuxディストリビューションが「Fedora」です。Fedoraはバージョン25から、ラズパイで動作するOSイメージを公式に提供しています。]]></description>
+			<title>「米国はNASA。では日本は？」に答えてくれるグーグル発の辞書AI（カンタンAI）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/061500005/</link>
+			<description><![CDATA[　言葉と言葉の関係を表すデータベースを自動で構築できるAI技術「word2vec」。ある単語の意味を別の単語との関係で表す「分散表現」を機械学習で自動生成する。「東京」と「日本」の関係は、「パリ」に当てはめると「フランス」になる、といった意味の判定が可能だ。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -222,6 +210,12 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 16 Jun 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>LINE、会話できるAIスピーカーを1万5000円で発売（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061601678/</link>
+			<description><![CDATA[　LINEは2017年6月15日に開催した「LINE CONFERENCE 2017」で、人の呼びかけに自動応答する人工知能（AI）スピーカー「WAVE」の試作機を初披露した。]]></description>
+			<pubDate>Fri, 16 Jun 2017 10:07:29 +0900</pubDate>
 		</item>
 		<item>
 			<title>新Amazon DashはAlexa対応、家電のスイッチをオン／オフできる（ニュース）</title>
