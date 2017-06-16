@@ -11,18 +11,6 @@
 			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>グーグルがクラウドを売り込む黒子「Office of the CTO」を解説（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501672/</link>
-			<description><![CDATA[　グーグルは2017年6月15日、クラウドのイベント「Google Cloud Next '17 in Tokyo」の報道関係社向けセッションでパートナー企業のIT活用を支援するグーグルの組織「Office of the CTO」を解説した。]]></description>
-			<pubDate>Thu, 15 Jun 2017 20:49:36 +0900</pubDate>
-		</item>
-		<item>
-			<title>LINE、マイナポータルと連携（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501673/</link>
-			<description><![CDATA[　LINEは2017年6月15日、LINEとマイナポータルを連携させると発表した。連携は2017年中を予定している。]]></description>
-			<pubDate>Thu, 15 Jun 2017 21:11:12 +0900</pubDate>
-		</item>
-		<item>
 			<title>HPEがハイパーコンバージドの「SimpliVity 380」、70％のデータ容量削減も（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501675/</link>
 			<description><![CDATA[　日本ヒューレット・パッカードは2017年6月15日、ハイパーコンバージドインフラストラクチャー（HCI）製品の「HPE SimpliVity 380」を提供開始すると発表した。同社が提供するHCI製品群で、データの重複排除や圧縮機能を初めて搭載。性能を高めた新製品の投入で市場シェアの拡大を狙う。]]></description>
@@ -47,6 +35,18 @@
 			<pubDate>Thu, 15 Jun 2017 22:16:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>ラズパイの「Fedora」OSで次世代Red Hatを予習する（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/061500011/</link>
+			<description><![CDATA[　4000円台のPCボード「Raspberry Pi（ラズパイ）」で、企業向けLinuxの新機能をいち早く知る。そんな“予習”に使えるLinuxディストリビューションが「Fedora」です。Fedoraはバージョン25から、ラズパイで動作するOSイメージを公式に提供しています。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソフトバンクのIoT通信サービス、その強み（IoT通信の本命 LPWA）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500005/</link>
+			<description><![CDATA[　SIGFOXやLoRaWANと異なり、携帯電話事業者などが免許を取得してサービスを提供するのがNB-IoTだ。ライセンス帯を使うので一定以上の品質を保証できるのがメリットだという。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>マイライン廃止はほぼ決まり、ささやかれる「NTT独占時代への回帰」（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061401014/</link>
 			<description><![CDATA[　総務省は、NTTの加入電話網（PSTN）が2025年頃に維持限界を迎えることを受け、IP網への円滑な移行に向けた議論を進めている。2017年6月7日開催の有識者会議では事業者間で意見が割れていたマイラインの扱いが議論され、廃止の方針がほぼ固まった。]]></description>
@@ -65,9 +65,9 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ラズパイの「Fedora」OSで次世代Red Hatを予習する（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/061500011/</link>
-			<description><![CDATA[　4000円台のPCボード「Raspberry Pi（ラズパイ）」で、企業向けLinuxの新機能をいち早く知る。そんな“予習”に使えるLinuxディストリビューションが「Fedora」です。Fedoraはバージョン25から、ラズパイで動作するOSイメージを公式に提供しています。]]></description>
+			<title>自腹レビュー、10.5インチ「iPad Pro」とJISキーボードを試す（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/061500252/</link>
+			<description><![CDATA[　米アップルが2017年6月5日（現地時間）に発表した「10.5インチiPad Pro」が、いよいよ日本でも発売された。従来の9.7インチモデルを置き換えるiPad Proとして、画面の大型化や高性能化など、期待通りのアップデートを果たした印象だ。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「年次評価」をやめたGEの意図（超巨大スタートアップGE）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/061000006/</link>
-			<description><![CDATA[　1年ごとに社員の下位10％を解雇するか配置換えする――。そんなとても厳しい人事制度を採用していた米ゼネラル・エレクトリック（GE）が2016年、年1回の人事評価を廃止した。「リーンスタートアップ」のために、GEは人事制度まで作り変えてしまったのだ。]]></description>
+			<title>パソコンで会議を録音、録画するのに必要なソフトとは？（塩田紳二のモバイルトレンド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/061500054/</link>
+			<description><![CDATA[　PCで録音、録画する場合の環境整備や設定について解説します。特に録音では、レベルの設定が重要です。というのは、録音レベルが低いと音が小さくなって、後から聞きづらくなってしまうからです。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>自腹レビュー、10.5インチ「iPad Pro」とJISキーボードを試す（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/061500252/</link>
-			<description><![CDATA[　米アップルが2017年6月5日（現地時間）に発表した「10.5インチiPad Pro」が、いよいよ日本でも発売された。従来の9.7インチモデルを置き換えるiPad Proとして、画面の大型化や高性能化など、期待通りのアップデートを果たした印象だ。]]></description>
+			<title>SDNにはない、SD-WANの注目すべき新機能（先端企業ネットワーク SD-WAN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200005/</link>
+			<description><![CDATA[　SD-WANの製品やサービスが多様化している。ここでは代表的な機能として、「ゼロタッチプロビジョニング」「インターネットブレークアウト」「ハイブリッドWAN」「セグメンテーション/ マルチテナント」を解説する。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -125,21 +125,9 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>パソコンで会議を録音、録画するのに必要なソフトとは？（塩田紳二のモバイルトレンド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/061500054/</link>
-			<description><![CDATA[　PCで録音、録画する場合の環境整備や設定について解説します。特に録音では、レベルの設定が重要です。というのは、録音レベルが低いと音が小さくなって、後から聞きづらくなってしまうからです。]]></description>
-			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>SDNにはない、SD-WANの注目すべき新機能（先端企業ネットワーク SD-WAN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200005/</link>
-			<description><![CDATA[　SD-WANの製品やサービスが多様化している。ここでは代表的な機能として、「ゼロタッチプロビジョニング」「インターネットブレークアウト」「ハイブリッドWAN」「セグメンテーション/ マルチテナント」を解説する。]]></description>
-			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソフトバンクのIoT通信サービス、その強み（IoT通信の本命 LPWA）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052500213/052500005/</link>
-			<description><![CDATA[　SIGFOXやLoRaWANと異なり、携帯電話事業者などが免許を取得してサービスを提供するのがNB-IoTだ。ライセンス帯を使うので一定以上の品質を保証できるのがメリットだという。]]></description>
+			<title>「年次評価」をやめたGEの意図（超巨大スタートアップGE）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/061000006/</link>
+			<description><![CDATA[　1年ごとに社員の下位10％を解雇するか配置換えする――。そんなとても厳しい人事制度を採用していた米ゼネラル・エレクトリック（GE）が2016年、年1回の人事評価を廃止した。「リーンスタートアップ」のために、GEは人事制度まで作り変えてしまったのだ。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -264,6 +252,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061601685/</link>
 			<description><![CDATA[　「人工知能がデータ分析を支援して、より良い意思決定ができるようにBIツールを進化させていく」。クリックテック・ジャパンが2017年6月16日に開催した製品戦略説明会で、米本社のCTOはこう強調した。]]></description>
 			<pubDate>Fri, 16 Jun 2017 16:13:18 +0900</pubDate>
+		</item>
+		<item>
+			<title>ネットワン、クラウドへの接続経路と品質を可視化するサービス（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061601686/</link>
+			<description><![CDATA[　ネットワンシステムズは2017年6月16日、クラウドへのインターネット接続経路および品質を可視化する「クラウドアクセス可視化サービス」を6月30日から提供開始すると発表した。トラブルの原因を企業管理内外で切り分ける時間を大幅に短縮し、その影響地域や状況を把握できる。]]></description>
+			<pubDate>Fri, 16 Jun 2017 17:30:41 +0900</pubDate>
+		</item>
+		<item>
+			<title>ロジクール、新型iPad向けのキーボード付き二つ折り保護カバー「iK1052」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061601687/</link>
+			<description><![CDATA[　ロジクールは2017年6月15日、新型iPad向けの二つ折り保護カバーとスタンド付キーボードを兼ねた「ロジクール SLIM FOLIO iK1052 Bluetooth キーボード一体型ケース」を2017年6月22日から発売すると発表した。参考価格は1万2880円（税別）。]]></description>
+			<pubDate>Fri, 16 Jun 2017 17:41:44 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
