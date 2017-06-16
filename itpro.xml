@@ -5,30 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>コードキャンプが高校生向けプログラミング教育、トライと業務提携し展開（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501663/</link>
-			<description><![CDATA[　プログラミングスクール「CodeCamp」などを運営するコードキャンプは2017年6月15日、家庭教師派遣などを展開するトライグループと業務提携し、エンジニアを目指す高校生向けに実践的なプログラミング教育を施す「エンジニア・IT 起業家 育成講座」を提供すると発表した。]]></description>
-			<pubDate>Thu, 15 Jun 2017 15:24:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>インフォア、組立製造業に特化したSaaS型のクラウドERPを提供（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501666/</link>
-			<description><![CDATA[　インフォアジャパンは2017年6月15日、組立製造業に特化したSaaS型のクラウドERP「Infor CloudSuite Industrial Machinery」を、日本市場で提供開始した。価格（税別）は、月額約150万円から。]]></description>
-			<pubDate>Thu, 15 Jun 2017 16:56:23 +0900</pubDate>
-		</item>
-		<item>
-			<title>リコー、エントリーモデルのDLPプロジェクター「RICOH PJ WX2440」など3機種（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501667/</link>
-			<description><![CDATA[　リコーは2017年6月15日、エントリーモデルのプロジェクターの新製品「RICOH PJ WX2440/X2440/S2440」の3機種を6月30日に発売すると発表した。2015年2月に発売した「RICOH PJ WX2240/X2240/K111」の後継機種で、基本機能はそのままに入力インタフェースを強化した。価格はオープン。]]></description>
-			<pubDate>Thu, 15 Jun 2017 17:46:04 +0900</pubDate>
-		</item>
-		<item>
-			<title>サンコー、前方映像と車内映像を同時録画できるGPSドライブレコーダー「Premier」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501668/</link>
-			<description><![CDATA[　サンコーは、前後にカメラを搭載し、前方映像と車内映像を同時に録画できる「高画質前後撮影GPSドライブレコーダーPremier」を2017年6月14日発売した。]]></description>
-			<pubDate>Thu, 15 Jun 2017 18:03:17 +0900</pubDate>
-		</item>
-		<item>
 			<title>スマホ決済サービスのOrigami Pay、ローソンに導入へ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501669/</link>
 			<description><![CDATA[　スマートフォン向け決済サービス「Origami Pay」を提供するOrigamiは2017年6月15日、ローソンと業務提携に関する基本合意書を締結したと発表した。]]></description>
@@ -83,15 +59,39 @@
 			<pubDate>Thu, 15 Jun 2017 22:16:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>ラズパイの「Fedora」OSで次世代Red Hatを予習する（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/061500011/</link>
+			<description><![CDATA[　4000円台のPCボード「Raspberry Pi（ラズパイ）」で、企業向けLinuxの新機能をいち早く知る。そんな“予習”に使えるLinuxディストリビューションが「Fedora」です。Fedoraはバージョン25から、ラズパイで動作するOSイメージを公式に提供しています。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>悲しくて立てなくても走れ！（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061300856/</link>
+			<description><![CDATA[　6月2日に公開した『心が折れても立ち向かっていく方法』の続編をお届けする。難しいプロジェクトや仕事の渦中にあって、心が折れそうになり、悲しくて涙がこぼれそうになる時があるかもしれない。だが、それでもなんとか走っていかなければならない。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>セキュリティのないIoTは世界の害悪である（ゼロから挑戦！IoT開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/061400007/</link>
+			<description><![CDATA[　セキュリティ対策のないIoT（インターネット・オブ／シングズ）ほど迷惑なものはない。データを漏洩させたり、乗っ取られて攻撃側に回ったりと、つながっている世界に害悪を及ぼすからだ。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ロボットやPCに変身!?スマホ進化のカギを握る“合体”（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/061400318/</link>
+			<description><![CDATA[　スマートフォンが周辺機器などと“合体”することで機能を拡張するという流れが強まっている。スマートフォンの新たな進化の鍵となるのだろうか。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ロースペックだが実力派！格安スマホ「FLEAZ Que」快適利用法（伊藤浩一のモバイルライフ応援日記）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/052400056/</link>
 			<description><![CDATA[　2台目スマートフォンの選択に悩んでいる方にお勧めの機種をご紹介します。コヴィア製の「FLEAZ Que」です。直販価格は税別1万3800円。お勧めは、格安のスマートフォンで省略されていることが多いジャイロセンサーとUSBホストを搭載していることです。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>VRが起こす医療革命（シリコンバレーVR通信）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052800216/061100002/</link>
-			<description><![CDATA[　VR技術の応用分野として、いま最も活発なのが医療分野での応用だ。患者の治療支援や医師の教育、人体の精緻な3次元（3D）モデルを使った手術支援、脳とVRを結んだ難病患者の生活支援と、幅広い応用が進む。]]></description>
+			<title>KDDIが「au HOME」7月下旬開始　IoTで防犯、月490円（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/061400319/</link>
+			<description><![CDATA[　KDDIが夏モデル発表会を実施しました。スマホ本体よりも注目だったのが、月額490円の低料金で提供される新しいIoTサービス「au HOME」です。自宅の防犯や子どもの見守りなど、次世代の便利なサービスが手軽に利用できます。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,9 +101,9 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ラズパイの「Fedora」OSで次世代Red Hatを予習する（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/061500011/</link>
-			<description><![CDATA[　4000円台のPCボード「Raspberry Pi（ラズパイ）」で、企業向けLinuxの新機能をいち早く知る。そんな“予習”に使えるLinuxディストリビューションが「Fedora」です。Fedoraはバージョン25から、ラズパイで動作するOSイメージを公式に提供しています。]]></description>
+			<title>「米国はNASA。では日本は？」に答えてくれるグーグル発の辞書AI（カンタンAI）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/061500005/</link>
+			<description><![CDATA[　言葉と言葉の関係を表すデータベースを自動で構築できるAI技術「word2vec」。ある単語の意味を別の単語との関係で表す「分散表現」を機械学習で自動生成する。「東京」と「日本」の関係は、「パリ」に当てはめると「フランス」になる、といった意味の判定が可能だ。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -149,33 +149,9 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>KDDIが「au HOME」7月下旬開始　IoTで防犯、月490円（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/061400319/</link>
-			<description><![CDATA[　KDDIが夏モデル発表会を実施しました。スマホ本体よりも注目だったのが、月額490円の低料金で提供される新しいIoTサービス「au HOME」です。自宅の防犯や子どもの見守りなど、次世代の便利なサービスが手軽に利用できます。]]></description>
-			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ロボットやPCに変身!?スマホ進化のカギを握る“合体”（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/061400318/</link>
-			<description><![CDATA[　スマートフォンが周辺機器などと“合体”することで機能を拡張するという流れが強まっている。スマートフォンの新たな進化の鍵となるのだろうか。]]></description>
-			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>悲しくて立てなくても走れ！（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061300856/</link>
-			<description><![CDATA[　6月2日に公開した『心が折れても立ち向かっていく方法』の続編をお届けする。難しいプロジェクトや仕事の渦中にあって、心が折れそうになり、悲しくて涙がこぼれそうになる時があるかもしれない。だが、それでもなんとか走っていかなければならない。]]></description>
-			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>セキュリティのないIoTは世界の害悪である（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/061400007/</link>
-			<description><![CDATA[　セキュリティ対策のないIoT（インターネット・オブ／シングズ）ほど迷惑なものはない。データを漏洩させたり、乗っ取られて攻撃側に回ったりと、つながっている世界に害悪を及ぼすからだ。]]></description>
-			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「米国はNASA。では日本は？」に答えてくれるグーグル発の辞書AI（カンタンAI）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700229/061500005/</link>
-			<description><![CDATA[　言葉と言葉の関係を表すデータベースを自動で構築できるAI技術「word2vec」。ある単語の意味を別の単語との関係で表す「分散表現」を機械学習で自動生成する。「東京」と「日本」の関係は、「パリ」に当てはめると「フランス」になる、といった意味の判定が可能だ。]]></description>
+			<title>VRが起こす医療革命（シリコンバレーVR通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052800216/061100002/</link>
+			<description><![CDATA[　VR技術の応用分野として、いま最も活発なのが医療分野での応用だ。患者の治療支援や医師の教育、人体の精緻な3次元（3D）モデルを使った手術支援、脳とVRを結んだ難病患者の生活支援と、幅広い応用が進む。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -218,11 +194,70 @@
 			<pubDate>Fri, 16 Jun 2017 10:07:29 +0900</pubDate>
 		</item>
 		<item>
+			<title>Nokia、初の「ペタビット級」ルーターを発表（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/061600382/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　フィンランドNokiaや米Cisco Systemsは、インターネットトラフィックは今後約5年で3倍程度に増えると予測。Nokiaは、この状況は新たなハイエンドルーターを投入する絶好のタイミングだと考えた。新型ネットワークプロセッサ「FP4」を使って、ルーティングの処理能力を従来の6倍に高めたルーターや、10年前の古いルーター製品でも使えるラインカードを発売する。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/061600382/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Nokia/IDG News Service</div>
+</div>
+<p>
+　Nokiaの予測では、インターネットの総トラフィックは、2022年には月間330エクサバイト（3億3000万テラバイト）に達する。一方、Ciscoの予測では、2016年の月間96エクサバイトから年24％のペースで増え、2021年には月間278エクサバイトに達するとしている。
+</p>
+<p>
+　こうしたトラフィックの増加をもたらす要因としてNokiaが挙げているのは、クラウドサービス、5Gのモバイルネットワーク、IoTという3つだ。
+</p>
+<p>
+　Ciscoは、IoTのセキュリティに関する最近のレポートの中で、インターネット接続デバイスの数は2020年には500億に達すると予測している。一方Nokiaは、IoTデバイスの数について、2017年の120億から、2025年には1000億に達すると予測している。
+</p>
+<p>
+　こうした数百億以上のIoTデバイスを敵に回したくないのであれば、IoTデバイスが悪用されないように守ることが極めて重要だ。IoTデバイスの悪用は、既に問題となっている。この1～2年ほどの間に、膨大な数のネットワークカメラや家庭用ルーターが悪用され、分散型サービス拒否（DDoS）攻撃に使われている。Ciscoは、DDoS攻撃の件数について、2016年の約125万件から、2021年には310万件に増えると予測している。Nokiaの予測はさらに不安をかき立てるもので、2017年だけでも1000万件になるとしている。ただしこれは、サービス拒否を可能にするトラフィックの水準に関する定義の違いによるものかもしれない。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/061600382/?ST=cm-network&P=2">インターネットのトラフィックがこれだけ急激に増えてきたら、そのル...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/061600382/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/061600382/?ST=cm-network&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/061600382/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 16 Jun 2017 10:20:39 +0900</pubDate>
+		</item>
+		<item>
 			<title>新Amazon DashはAlexa対応、家電のスイッチをオン／オフできる（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061601679/</link>
 			<description><![CDATA[　米Amazon.comは現地時間2017年6月15日、家庭向けバーコードリーダー「Amazon Dash Wand With Alexa」を米国で発売した。商品パッケージのバーコードをスキャンすると、その商品が利用者のAmazonショッピングカートに入れる。音声アシスタントサービスのAlexaにも対応した。
 ]]></description>
 			<pubDate>Fri, 16 Jun 2017 10:26:21 +0900</pubDate>
+		</item>
+		<item>
+			<title>クラウドAI「Clova」をプラットフォームに、LINEが事業戦略（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061601680/</link>
+			<description><![CDATA[　LINEは2017年6月15日に開催した「LINE CONFERENCE 2017」で、クラウドAI「Clova」を活用した事業戦略を発表した。]]></description>
+			<pubDate>Fri, 16 Jun 2017 13:24:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Facebook、テロ関連コンテンツ対策にもAIを活用（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061601681/</link>
+			<description><![CDATA[　米Facebookは現地時間2017年6月15日、人工知能（AI）を利用して同社のSNSサービス上からテロ関連コンテンツを排除する取り組みについて明らかにした。]]></description>
+			<pubDate>Fri, 16 Jun 2017 13:39:30 +0900</pubDate>
+		</item>
+		<item>
+			<title>これからの大学生に必要な「情報活用能力」の育て方とは？（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/061600253/</link>
+			<description><![CDATA[　2017年6月1日から3日にかけて、教育関連の総合イベント「New Education Expo 2017 in 東京」が開催された。「これからの大学生に必要な『情報活用能力』～教育機関は社会のニーズにどう応えるか～」と題したセミナーでは、3名のキーパーソンをゲストに迎え、取り組みの実践例を通じて“学生の情報活用能力の育成”について議論した。]]></description>
+			<pubDate>Fri, 16 Jun 2017 13:50:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
