@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：機内Wi-Fi無料化で考えた、「ITで稼ぐJAL」への覚悟は本物か（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061400857/?d16</link>
-			<description><![CDATA[　「国内地方マーケットにおける選好性向上に向けては、『機内Wi-Fiサービス』（公衆無線LAN）の無料化などで競合他社の一歩先を行く新しい機内環境の提供に努めていく」――。記者は、日本航空（JAL）の中期経営計画の説明会での発言が気になっていた。]]></description>
-			<pubDate>Thu, 15 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソラコムがグーグルクラウドと連携、「IoTに必要なサービスがそろっている」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501676/</link>
-			<description><![CDATA[　ソラコムは2017年6月15日、IoT通信プラットフォーム「SORACOM」の新機能として「Google Cloud Platform（GCP）」との連携を発表した。安川健太CTO（最高技術責任者）は「Google Cloud Next '17 in Tokyo」に登壇して新機能を紹介した。]]></description>
-			<pubDate>Thu, 15 Jun 2017 21:50:52 +0900</pubDate>
-		</item>
-		<item>
 			<title>LINEがトヨタと協業、コネクテッドカーサービスの提供で（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501677/</link>
 			<description><![CDATA[　LINEは2017年6月15日に開催した事業戦略説明会イベント「LINE CONFERENCE 2017」において、コネクテッドカーサービスの提供でトヨタ自動車と協業基本合意を結んだと発表した。]]></description>
@@ -27,6 +15,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061501674/</link>
 			<description><![CDATA[　ドローンを安全に運行するためのシステムである「無人航空機の運航管理システム」の研究開発に関する説明会を、2017年6月15日に国立研究開発法人の新エネルギー・産業技術総合開発研究機構（NEDO）が開催した。]]></description>
 			<pubDate>Thu, 15 Jun 2017 22:16:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>SDNにはない、SD-WANの注目すべき新機能（先端企業ネットワーク SD-WAN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200005/</link>
+			<description><![CDATA[　SD-WANの製品やサービスが多様化している。ここでは代表的な機能として、「ゼロタッチプロビジョニング」「インターネットブレークアウト」「ハイブリッドWAN」「セグメンテーション/ マルチテナント」を解説する。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>VRが起こす医療革命（シリコンバレーVR通信）</title>
@@ -59,9 +53,9 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>SDNにはない、SD-WANの注目すべき新機能（先端企業ネットワーク SD-WAN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060200225/060200005/</link>
-			<description><![CDATA[　SD-WANの製品やサービスが多様化している。ここでは代表的な機能として、「ゼロタッチプロビジョニング」「インターネットブレークアウト」「ハイブリッドWAN」「セグメンテーション/ マルチテナント」を解説する。]]></description>
+			<title>KDDIが「au HOME」7月下旬開始　IoTで防犯、月490円（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/061400319/</link>
+			<description><![CDATA[　KDDIが夏モデル発表会を実施しました。スマホ本体よりも注目だったのが、月額490円の低料金で提供される新しいIoTサービス「au HOME」です。自宅の防犯や子どもの見守りなど、次世代の便利なサービスが手軽に利用できます。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,18 +95,6 @@
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「年次評価」をやめたGEの意図（超巨大スタートアップGE）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/061000006/</link>
-			<description><![CDATA[　1年ごとに社員の下位10％を解雇するか配置換えする――。そんなとても厳しい人事制度を採用していた米ゼネラル・エレクトリック（GE）が2016年、年1回の人事評価を廃止した。「リーンスタートアップ」のために、GEは人事制度まで作り変えてしまったのだ。]]></description>
-			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>KDDIが「au HOME」7月下旬開始　IoTで防犯、月490円（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/061400319/</link>
-			<description><![CDATA[　KDDIが夏モデル発表会を実施しました。スマホ本体よりも注目だったのが、月額490円の低料金で提供される新しいIoTサービス「au HOME」です。自宅の防犯や子どもの見守りなど、次世代の便利なサービスが手軽に利用できます。]]></description>
-			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>古河電工の選択、IT子会社の生きる道（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061501015/</link>
 			<description><![CDATA[　古河電気工業がIT子会社を軸に、グループ全体のIT戦略の強化に乗り出す。IT子会社である古河インフォメーション・テクノロジー（FITEC）の発行済株式の51％を富士通に譲渡して業務提携を結ぶ。]]></description>
@@ -122,6 +104,12 @@
 			<title>ロースペックだが実力派！格安スマホ「FLEAZ Que」快適利用法（伊藤浩一のモバイルライフ応援日記）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/052400056/</link>
 			<description><![CDATA[　2台目スマートフォンの選択に悩んでいる方にお勧めの機種をご紹介します。コヴィア製の「FLEAZ Que」です。直販価格は税別1万3800円。お勧めは、格安のスマートフォンで省略されていることが多いジャイロセンサーとUSBホストを搭載していることです。]]></description>
+			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「年次評価」をやめたGEの意図（超巨大スタートアップGE）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/060700230/061000006/</link>
+			<description><![CDATA[　1年ごとに社員の下位10％を解雇するか配置換えする――。そんなとても厳しい人事制度を採用していた米ゼネラル・エレクトリック（GE）が2016年、年1回の人事評価を廃止した。「リーンスタートアップ」のために、GEは人事制度まで作り変えてしまったのだ。]]></description>
 			<pubDate>Fri, 16 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -264,6 +252,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061601687/</link>
 			<description><![CDATA[　ロジクールは2017年6月15日、新型iPad向けの二つ折り保護カバーとスタンド付キーボードを兼ねた「ロジクール SLIM FOLIO iK1052 Bluetooth キーボード一体型ケース」を2017年6月22日から発売すると発表した。参考価格は1万2880円（税別）。]]></description>
 			<pubDate>Fri, 16 Jun 2017 17:41:44 +0900</pubDate>
+		</item>
+		<item>
+			<title>マクドナルドでシステム障害、dポイントと楽天ポイントが利用できず（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061601688/</link>
+			<description><![CDATA[　日本マクドナルドは2017年6月16日、商品購入時にNTTドコモの「dポイント」と楽天の「楽天スーパーポイント」が利用できない事象が発生していると発表した。ネットワークシステム交換時に不具合が発生し、「店舗のシステムの一部に不具合が生じた」（同社広報）という。]]></description>
+			<pubDate>Fri, 16 Jun 2017 23:27:10 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
