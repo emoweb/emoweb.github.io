@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>「IoTやAI導入で製造業を変革する」、日立産業制御ソリューションズが事業方針説明会（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061601682/</link>
-			<description><![CDATA[　日立製作所の子会社で製造業向けITサービスをする日立産業制御ソリューションズは2017年6月16日、事業方針説明会を開いた。木村亨社長は「ソフトを売るプロダクト・アウト型のビジネスから脱却する」と目標を語った。]]></description>
-			<pubDate>Fri, 16 Jun 2017 14:26:06 +0900</pubDate>
-		</item>
-		<item>
 			<title>電通がAIを用いた放送前テレビ視聴率予測システム開発、まず関東で検証実施（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061601683/</link>
 			<description><![CDATA[　電通は2017年6月16日、人工知能（AI）の学習手法の一つであるディープラーニング（深層学習）を用いることで、テレビ視聴率を予測できるシステム「SHAREST（β版）」（シェアレスト・ベータ版）を開発したと発表した。]]></description>
@@ -47,6 +41,12 @@
 			<pubDate>Fri, 16 Jun 2017 23:27:10 +0900</pubDate>
 		</item>
 		<item>
+			<title>東電のシステムトラブル、なぜ完全収束に1年かかったか？（東電、システムトラブルの真相）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400241/061500001/</link>
+			<description><![CDATA[　「必要なサービスを提供できないリスクも抱えている」――。電力小売りの全面自由化に向け、「託送業務システム」の開発に取り組んでいた東京電力。稼働開始まであと半年となった時点での山口博副社長のこの発言は、大きな波紋を呼んだ。]]></description>
+			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>“特別扱い”せず任せてくれる上司に感謝（わたしの働き方改革）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/060800011/</link>
 			<description><![CDATA[　富士通でITソリューションの営業を担当する吉江裕紀子氏。家庭の事情で、仕事を続けるべきかどうか少しだけ悩んだこともあるという。どのようにそれを払拭したのか。夫が単身赴任中の同氏が、これからのワークスタイルについて思うこと。]]></description>
@@ -59,9 +59,9 @@
 			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>東電のシステムトラブル、なぜ完全収束に1年かかったか？（東電、システムトラブルの真相）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400241/061500001/</link>
-			<description><![CDATA[　「必要なサービスを提供できないリスクも抱えている」――。電力小売りの全面自由化に向け、「託送業務システム」の開発に取り組んでいた東京電力。稼働開始まであと半年となった時点での山口博副社長のこの発言は、大きな波紋を呼んだ。]]></description>
+			<title>ビッグデータ独占防止に指針、「過剰規制」に危惧も（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061601016/</link>
+			<description><![CDATA[　公正取引委員会は2017年6月6日、ビッグデータの公正な流通や活用を促すため、不当なデータ収集などの行為に独占禁止法を適用する指針を公表した。]]></description>
 			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,9 +89,9 @@
 			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>日本が「世界で最後にイノベーションが起こる国」に成り下がる日（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/061300088/</link>
-			<description><![CDATA[　米国のIT企業を訪問するときには、日本のマーケットが独特のメカニズムを持っていることを説明するところから話を始めます。顧客の要求が強く、請負契約でシステム完成のコミットメントを求められる。ユーザー企業のIT体制が弱いのでベンダー側の負担が大きい。こうした点は確かに米国と異なると思います。]]></description>
+			<title>失敗と成功のあいだ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061500858/</link>
+			<description><![CDATA[　このところ、「これは失敗プロジェクトといっていいのだろうか」と、考え込んでしまう機会が増えた。かつては、「期限までに開発が完了しなかった」「稼働はしたものの不具合続き」といった開発プロジェクトなら、「失敗」といって差し支えなかった。]]></description>
 			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,9 +101,9 @@
 			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ビッグデータ独占防止に指針、「過剰規制」に危惧も（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061601016/</link>
-			<description><![CDATA[　公正取引委員会は2017年6月6日、ビッグデータの公正な流通や活用を促すため、不当なデータ収集などの行為に独占禁止法を適用する指針を公表した。]]></description>
+			<title>Googleの「Firebase」でリアルタイム掲示板を作ってみよう（前編）（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/032900065/</link>
+			<description><![CDATA[　掲示板などのWebアプリを作るには、プログラム以外にWebサーバーを準備したり、データベースにアクセスするプログラムを作る必要がありました。しかし、今はGoogleの「Firebase」がすべてを提供してくれます。今回はJavaScriptさえできれば、手軽にWebアプリを作って公開できるサービスFirebaseを紹介します。]]></description>
 			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -119,15 +119,9 @@
 			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>失敗と成功のあいだ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061500858/</link>
-			<description><![CDATA[　このところ、「これは失敗プロジェクトといっていいのだろうか」と、考え込んでしまう機会が増えた。かつては、「期限までに開発が完了しなかった」「稼働はしたものの不具合続き」といった開発プロジェクトなら、「失敗」といって差し支えなかった。]]></description>
-			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Googleの「Firebase」でリアルタイム掲示板を作ってみよう（前編）（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/032900065/</link>
-			<description><![CDATA[　掲示板などのWebアプリを作るには、プログラム以外にWebサーバーを準備したり、データベースにアクセスするプログラムを作る必要がありました。しかし、今はGoogleの「Firebase」がすべてを提供してくれます。今回はJavaScriptさえできれば、手軽にWebアプリを作って公開できるサービスFirebaseを紹介します。]]></description>
+			<title>日本が「世界で最後にイノベーションが起こる国」に成り下がる日（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/061300088/</link>
+			<description><![CDATA[　米国のIT企業を訪問するときには、日本のマーケットが独特のメカニズムを持っていることを説明するところから話を始めます。顧客の要求が強く、請負契約でシステム完成のコミットメントを求められる。ユーザー企業のIT体制が弱いのでベンダー側の負担が大きい。こうした点は確かに米国と異なると思います。]]></description>
 			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -236,6 +230,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061901694/</link>
 			<description><![CDATA[　マウスコンピューターは2017年6月19日、インテルCeleron N3450クアッドコアプロセッサーと120GB SSDを搭載した15.6型ノートパソコン「m-Book B503E」を発売したと発表した。アイドルグループ「乃木坂46」のメンバーが出演する新テレビCMで紹介しているモデルで、限定4000台の販売となる。直販価格は3万9800円（税別）。]]></description>
 			<pubDate>Mon, 19 Jun 2017 18:01:43 +0900</pubDate>
+		</item>
+		<item>
+			<title>サンワサプライ、自由に動く3関節の「モニターアーム」3種類（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061901695/</link>
+			<description><![CDATA[　サンワサプライは2017年6月19日、水平空間に対して大きく伸長し、自在に動かすことができる3関節アームを採用したモニターアーム3機種を同日発売すると発表した。VESA規格に準拠した液晶ディスプレイを取り付け可能。同社直販サイト「サンワダイレクト」限定製品。]]></description>
+			<pubDate>Mon, 19 Jun 2017 18:02:49 +0900</pubDate>
 		</item>
 		<item>
 			<title>「パナソニックにはプラットフォーマーにない強みがある」、樋口社長（ニュース）</title>
