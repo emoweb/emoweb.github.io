@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>セキュリティ診断が必要なサーバーを漏れなく洗い出す（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061600002/</link>
+			<description><![CDATA[　セキュリティ診断の第一歩は、診断すべきサーバーを洗い出すことだ。コマンドや検索サイトを駆使して、公開サーバーの情報を調べよう。]]></description>
+			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>Alexa（Close Up Keyword）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/060700077/</link>
 			<description><![CDATA[　米アマゾン・ドット・コムが提供するクラウドを介した音声認識サービス。2015年にプログラム開発用キットを公開し、「Skills」（アプリ）が爆発的に増加。次世代音声サービスの主役と目されている。]]></description>
@@ -53,28 +59,16 @@
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Googleの「Firebase」でリアルタイム掲示板を作ってみよう（後編）（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042000066/</link>
-			<description><![CDATA[　前回から、手軽にWebアプリを作って公開できる、Firebaseについて紹介しています。前回は、Firebaseを使って、リアルタイムに更新される掲示板を作ってみました。今回は、Firebaseが提供しているGoogleアカウントを利用したログイン機能を使って、掲示板を改良して実際にWebで公開してみます。]]></description>
-			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>セキュリティ診断が必要なサーバーを漏れなく洗い出す（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061600002/</link>
-			<description><![CDATA[　セキュリティ診断の第一歩は、診断すべきサーバーを洗い出すことだ。コマンドや検索サイトを駆使して、公開サーバーの情報を調べよう。]]></description>
-			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>10.5インチの新iPad Pro、一瞬も迷わず購入を決めた（戸田覚のIT辛口研究所）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/061700121/</link>
 			<description><![CDATA[　マイナーチェンジを繰り返していた感が強かった9.7インチのiPadだが、ついに10.5インチへと画面サイズが大きくなった。今回は、一瞬も迷うことなく購入を決め、実機が手元に届いたので、その理由と第一印象をお伝えしよう。]]></description>
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>VESAが「DisplayPort 1.4」最新情報を解説、USB Type-Cで普及加速へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061901700/</link>
-			<description><![CDATA[　米ビデオエレクトロニクス規格協会（VESA）は2017年6月19日、都内で記者説明会を開催し、「DisplayPort 1.4」の最新情報について解説した。]]></description>
-			<pubDate>Tue, 20 Jun 2017 06:00:00 +0900</pubDate>
+			<title>Googleの「Firebase」でリアルタイム掲示板を作ってみよう（後編）（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042000066/</link>
+			<description><![CDATA[　前回から、手軽にWebアプリを作って公開できる、Firebaseについて紹介しています。前回は、Firebaseを使って、リアルタイムに更新される掲示板を作ってみました。今回は、Firebaseが提供しているGoogleアカウントを利用したログイン機能を使って、掲示板を改良して実際にWebで公開してみます。]]></description>
+			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>退役軍人をITプロフェッショナルサービスに（前）（退役軍人をITプロフェッショナルサービスに）</title>
@@ -104,6 +98,12 @@
 <div></div>
 </div>
 ]]></description>
+			<pubDate>Tue, 20 Jun 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>VESAが「DisplayPort 1.4」最新情報を解説、USB Type-Cで普及加速へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061901700/</link>
+			<description><![CDATA[　米ビデオエレクトロニクス規格協会（VESA）は2017年6月19日、都内で記者説明会を開催し、「DisplayPort 1.4」の最新情報について解説した。]]></description>
 			<pubDate>Tue, 20 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -246,15 +246,21 @@
 			<pubDate>Tue, 20 Jun 2017 22:05:08 +0900</pubDate>
 		</item>
 		<item>
+			<title>ボットで実現する働き方改革（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061900862/</link>
+			<description><![CDATA[　安倍晋三首相の肝いりで始まった「働き方改革」。「ノー残業デー」など残業時間を減らす対策を打ち出している企業は多い。だが、いくら「残業するな」「早く帰れ」とケツを叩いても、かけ声だけで解決するほど問題は簡単ではない。その矛盾を解決する手段として、最近になって注目されているのが「チャットボット」だ。]]></description>
+			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>作ったものを喜んでもらえるのが「パクえ」誕生の原点（越境エンジニア列伝）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/062000012/</link>
 			<description><![CDATA[　今月取り上げるのは吉田雄哉氏。というよりも、パブリッククラウドの伝道師「吉田パクえ」氏と言ったほうがピンとくる人は多いかもしれない。日本マイクロソフトに転職し、現在は「Microsoft Azure」の導入支援を手掛けている。今回は、同氏がIT系に進むことになった原体験などを聞いた。]]></description>
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ボットで実現する働き方改革（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061900862/</link>
-			<description><![CDATA[　安倍晋三首相の肝いりで始まった「働き方改革」。「ノー残業デー」など残業時間を減らす対策を打ち出している企業は多い。だが、いくら「残業するな」「早く帰れ」とケツを叩いても、かけ声だけで解決するほど問題は簡単ではない。その矛盾を解決する手段として、最近になって注目されているのが「チャットボット」だ。]]></description>
+			<title>「光ファイバー通信の限界を超える」、東北大学の中沢教授（編集長インタビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/269807/051500042/</link>
+			<description><![CDATA[　スマートフォンやクラウドの利用が右肩上がりに増える中、光通信インフラには一層の性能向上が期待されている。研究開発の現場ではどんな技術革新が起こっているのか。30年以上にわたり光ファイバー通信の高度化に取り組んでいる東北大学の中沢教授に最新の成果と今後を聞いた。]]></description>
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -312,16 +318,43 @@
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「光ファイバー通信の限界を超える」、東北大学の中沢教授（編集長インタビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/269807/051500042/</link>
-			<description><![CDATA[　スマートフォンやクラウドの利用が右肩上がりに増える中、光通信インフラには一層の性能向上が期待されている。研究開発の現場ではどんな技術革新が起こっているのか。30年以上にわたり光ファイバー通信の高度化に取り組んでいる東北大学の中沢教授に最新の成果と今後を聞いた。]]></description>
-			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>第18話  2面で部下を評価できているか？（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/051200029/</link>
 			<description><![CDATA[　どんなにお金を稼いで良い武器や防具を買って身に着けても、経験値が低ければメンバーの体力や知力などのレベルが上がらず、強敵を打ち倒すことはできない。プレーヤーは、お金と経験値の両方に気を配る必要があるのだ。部下の評価でも、数字の実績だけでなく経験した内容にも目配りが必要だ。]]></description>
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>チップに対するハッキングが今後増える6つの理由（中）（チップに対するハッキングが今後増える6つの理由）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　米Intelのファームウエアで脆弱性が発見されたという発表が2017年5月初めにあった。筆者はこの一件を聞いて、数カ月前から記事で取り上げたいと考えていた話を思い出した。一言で言えば、チップやファームウエアはハッキングできる、という話だ。こうしたものや、関連するコントローラーチップには、ソフトウエアと同様の命令が組み込まれていて、セキュリティ上の脆弱な欠陥が存在することが多い。こうした欠陥の方が更新は難しい。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200001/" target="_blank">前回</a>から続く）</p>
+
+<h4>3：チップのプログラマーもセキュアなプログラミングはソフトウエアのプログラマー並みにお粗末</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　一般論として、セキュアなコードの書き方について、しかるべきトレーニングをプログラマーが受けていることはまれだ。セキュアなプログラミングが開発サイクル全体にとっていかに重要か、何十年にもわたって手痛い教訓があったにもかかわらず、それについてのトレーニングをほとんど（あるいはまったく）受けていないプログラマーが大半である。ハードウエア層に従事するプログラマーやチームが受けているトレーニングはさらに少ない。現時点でハードウエアはソフトウエアほど頻繁には攻撃を受けていないことから、総合的なリスクがソフトウエアより低いという点が背景の1つである。</p>
+
+<p>　こうしたトレーニング不足の結果、ハードウエアやファームウエアには、今すぐ攻撃されてもおかしくないバグがあふれている。チップのトランジスタや論理ゲートが増えるのと時を同じくして、ファームウエアに組み込まれる命令の数やコードの行数も増えている。他の要素がすべて同じだとしたら、コードの行数が増えるのに比例して、バグの数も増える。現在のチップには、簡単に攻撃できるバグがたくさんあるのは間違いない。Intelが発表した脆弱性の詳しい内容を見てみよう。認証のハッシュとしてどのような文字列を与えても、本物のハッシュと同じように機能し、完全な管理者権限が得られるという。ソフトウエアの欠陥でこれほどすさまじいものは、一度たりとも聞いたことがない気がする。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200002/?ST=cm-hardware&P=2">4：チップの同質化</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200002/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200002/?ST=cm-hardware&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200002/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 21 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
