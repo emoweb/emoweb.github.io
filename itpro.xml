@@ -5,90 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>「完璧」という日本の病、情報システムの現場の悲惨（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/061500143/</link>
-			<description><![CDATA[　日米のIT産業にここまで格差が生じると、人は奇妙だと思わなくなるらしい。だけど不思議だ。日本では付加価値の少ない労働集約産業であるのに対して、米国は新しい価値を続々と創り出す知識集約産業。日米のIT産業の“格”は天と地どころか、天と地底ぐらいの差がある。]]></description>
-			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>道路を舗装する匠の技、AIが習得し人材不足解消へ（誕生！インフラ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051900200/060900019/</link>
-			<description><![CDATA[　ドドドドドド――。地面を押し固める振動ローラーの轟音が鳴り響く。振動ローラーとは、道路の地面をローラーで圧し固める建設機械。今、振動ローラーを上手に操れる人材が徐々に減りつつある。その問題を解決するため、大成建設はAI（人工知能）に目を付けた。]]></description>
-			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Googleの「Firebase」でリアルタイム掲示板を作ってみよう（前編）（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/032900065/</link>
-			<description><![CDATA[　掲示板などのWebアプリを作るには、プログラム以外にWebサーバーを準備したり、データベースにアクセスするプログラムを作る必要がありました。しかし、今はGoogleの「Firebase」がすべてを提供してくれます。今回はJavaScriptさえできれば、手軽にWebアプリを作って公開できるサービスFirebaseを紹介します。]]></description>
-			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>悩ましい中高層オフィスビルの携帯電波対策（松田次博 間違いだらけのネットワーク作り）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/230970/061200041/</link>
-			<description><![CDATA[　先日、高層ビルのオフィスでモバイルシフト（モバイル回線主体で企業ネットワークを構築すること）について、X社の担当者と意見交換をした。4月に入ってから携帯電話がつながりにくくなり、NTTドコモが急きょ対策を打ったという。今回は多数のユーザーが集中する大規模オフィスでの電波不足の対策について述べる。]]></description>
-			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ビッグデータ独占防止に指針、「過剰規制」に危惧も（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061601016/</link>
-			<description><![CDATA[　公正取引委員会は2017年6月6日、ビッグデータの公正な流通や活用を促すため、不当なデータ収集などの行為に独占禁止法を適用する指針を公表した。]]></description>
-			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>インテル新メモリー「Optane」の本領発揮は2018年（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061601017/</link>
-			<description><![CDATA[　2017年6月16日にインテルが開催したメモリー事業に関する説明会で、米インテル幹部が「2018年に製造施設の一つをNANDからOptaneに切り替える」と宣言した。NANDは現在主流のフラッシュメモリー。Optaneは、DRAM並みの応答速度と不揮発性を兼ね備えたインテルの新メモリーだ。]]></description>
-			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>“特別扱い”せず任せてくれる上司に感謝（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/060800011/</link>
-			<description><![CDATA[　富士通でITソリューションの営業を担当する吉江裕紀子氏。家庭の事情で、仕事を続けるべきかどうか少しだけ悩んだこともあるという。どのようにそれを払拭したのか。夫が単身赴任中の同氏が、これからのワークスタイルについて思うこと。]]></description>
-			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>失敗と成功のあいだ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061500858/</link>
-			<description><![CDATA[　このところ、「これは失敗プロジェクトといっていいのだろうか」と、考え込んでしまう機会が増えた。かつては、「期限までに開発が完了しなかった」「稼働はしたものの不具合続き」といった開発プロジェクトなら、「失敗」といって差し支えなかった。]]></description>
-			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本が「世界で最後にイノベーションが起こる国」に成り下がる日（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/061300088/</link>
-			<description><![CDATA[　米国のIT企業を訪問するときには、日本のマーケットが独特のメカニズムを持っていることを説明するところから話を始めます。顧客の要求が強く、請負契約でシステム完成のコミットメントを求められる。ユーザー企業のIT体制が弱いのでベンダー側の負担が大きい。こうした点は確かに米国と異なると思います。]]></description>
-			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>自分でもできる！サーバーのセキュリティ診断（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061600001/</link>
-			<description><![CDATA[　サイバー攻撃による被害を最小限に抑えるには、日頃から企業ネットワークのセキュリティレベルを高めておくことが不可欠。そのために実施したいのが「セキュリティ診断」である。ユーザー企業の担当者でもある程度の調査はできる。]]></description>
-			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ARM、「Intelの盟友」に急接近（ARM 対 Intel）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400240/061500001/</link>
-			<description><![CDATA[　スマートフォン向けプロセッサで95％超のシェアを誇る半導体設計大手の英アームがエンタープライズ分野に再挑戦する。]]></description>
-			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>韓国でもAIスピーカー競争、「NUGU」はなぜ10万台も売れた？（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/061500151/</link>
-			<description><![CDATA[　最近、米国で「AIスピーカー」をめぐる競争が激しくなっている。Amazon、Googleに続いてAppleがHomePodを公開した。韓国も米国に負けないAIスピーカー激戦区である。]]></description>
-			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>東電のシステムトラブル、なぜ完全収束に1年かかったか？（東電、システムトラブルの真相）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400241/061500001/</link>
-			<description><![CDATA[　「必要なサービスを提供できないリスクも抱えている」――。電力小売りの全面自由化に向け、「託送業務システム」の開発に取り組んでいた東京電力。稼働開始まであと半年となった時点での山口博副社長のこの発言は、大きな波紋を呼んだ。]]></description>
-			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「攻めのIT経営」31社、問われる実行力（攻めのIT経営銘柄2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/061400001/</link>
-			<description><![CDATA[　攻めのIT経営銘柄2017に選ばれた企業は31社。いずれもAI、IoT、ビッグデータなど先進技術をビジネスに生かしている。国内最先端の事例は、先進技術の適用分野に悩む企業の参考になる。]]></description>
-			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>チップに対するハッキングが今後増える6つの理由（上）（チップに対するハッキングが今後増える6つの理由）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200001/</link>
 			<description><![CDATA[<div>
@@ -226,21 +142,27 @@
 			<pubDate>Mon, 19 Jun 2017 21:11:56 +0900</pubDate>
 		</item>
 		<item>
+			<title>10.5インチの新iPad Pro、一瞬も迷わず購入を決めた（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/061700121/</link>
+			<description><![CDATA[　マイナーチェンジを繰り返していた感が強かった9.7インチのiPadだが、ついに10.5インチへと画面サイズが大きくなった。今回は、一瞬も迷うことなく購入を決め、実機が手元に届いたので、その理由と第一印象をお伝えしよう。]]></description>
+			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>Alexa（Close Up Keyword）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/060700077/</link>
 			<description><![CDATA[　米アマゾン・ドット・コムが提供するクラウドを介した音声認識サービス。2015年にプログラム開発用キットを公開し、「Skills」（アプリ）が爆発的に増加。次世代音声サービスの主役と目されている。]]></description>
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ネガティブに考え、毒を吐くエンジニアに未来は来ない（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/061400023/</link>
-			<description><![CDATA[　IT部門が消滅し、一人残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。当事者である著者が読者から質問に答える。今回のテーマは「モチベーション」。評価が得られないひとり情シスで著者はなぜ前向きなのか、その秘密を聞く。]]></description>
+			<title>ARで堀り間違いをゼロに、部門間の壁もなくす（攻めのIT経営銘柄2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/061600002/</link>
+			<description><![CDATA[　都内の道路工事現場。リーダーらしき作業員がiPadを胸の前にかざしている。iPadの画面には内蔵カメラが写した工事現場の風景が表示されている。その風景画像は現実と1点だけ異なる部分があった。]]></description>
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>10.5インチの新iPad Pro、一瞬も迷わず購入を決めた（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/061700121/</link>
-			<description><![CDATA[　マイナーチェンジを繰り返していた感が強かった9.7インチのiPadだが、ついに10.5インチへと画面サイズが大きくなった。今回は、一瞬も迷うことなく購入を決め、実機が手元に届いたので、その理由と第一印象をお伝えしよう。]]></description>
+			<title>「本命」が年内にも上陸、注目集まる音声アシスタント（ICT研インサイト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000156/061200004/</link>
+			<description><![CDATA[　米国で普及し始めた音声アシスタント端末が、今年後半以降、続々と日本に上陸する。音声アシスタント市場は、まだ立ち上がったばかりで、多くのプレイヤーにチャンスがある。]]></description>
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -280,22 +202,10 @@
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ARで堀り間違いをゼロに、部門間の壁もなくす（攻めのIT経営銘柄2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/061600002/</link>
-			<description><![CDATA[　都内の道路工事現場。リーダーらしき作業員がiPadを胸の前にかざしている。iPadの画面には内蔵カメラが写した工事現場の風景が表示されている。その風景画像は現実と1点だけ異なる部分があった。]]></description>
+			<title>ネガティブに考え、毒を吐くエンジニアに未来は来ない（10人のIT部門が消滅～ひとり情シス顛末記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/061400023/</link>
+			<description><![CDATA[　IT部門が消滅し、一人残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。当事者である著者が読者から質問に答える。今回のテーマは「モチベーション」。評価が得られないひとり情シスで著者はなぜ前向きなのか、その秘密を聞く。]]></description>
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「本命」が年内にも上陸、注目集まる音声アシスタント（ICT研インサイト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000156/061200004/</link>
-			<description><![CDATA[　米国で普及し始めた音声アシスタント端末が、今年後半以降、続々と日本に上陸する。音声アシスタント市場は、まだ立ち上がったばかりで、多くのプレイヤーにチャンスがある。]]></description>
-			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>VESAが「DisplayPort 1.4」最新情報を解説、USB Type-Cで普及加速へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061901700/</link>
-			<description><![CDATA[　米ビデオエレクトロニクス規格協会（VESA）は2017年6月19日、都内で記者説明会を開催し、「DisplayPort 1.4」の最新情報について解説した。]]></description>
-			<pubDate>Tue, 20 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>退役軍人をITプロフェッショナルサービスに（前）（退役軍人をITプロフェッショナルサービスに）</title>
@@ -325,6 +235,12 @@
 <div></div>
 </div>
 ]]></description>
+			<pubDate>Tue, 20 Jun 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>VESAが「DisplayPort 1.4」最新情報を解説、USB Type-Cで普及加速へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061901700/</link>
+			<description><![CDATA[　米ビデオエレクトロニクス規格協会（VESA）は2017年6月19日、都内で記者説明会を開催し、「DisplayPort 1.4」の最新情報について解説した。]]></description>
 			<pubDate>Tue, 20 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -405,6 +321,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900220/062000019/</link>
 			<description><![CDATA[　2017年6月20日、ICTの総合展である「Cloud Days 九州 2017」で、福岡市に拠点を設けたスタートアップ企業など4社の責任者が登壇し、福岡進出の理由などについて語った。]]></description>
 			<pubDate>Tue, 20 Jun 2017 14:11:59 +0900</pubDate>
+		</item>
+		<item>
+			<title>「これ以上システムを内部で抱えられないからクラウド」、Cloud Days 九州で潤和会記念病院（Cloud Days 2017レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900220/062000020/</link>
+			<description><![CDATA[　2017年6月20日、ICTの総合展である「Cloud Days 九州 2017」で、潤和リハビリテーション振興財団の経営企画部IT管理室の服部正樹室長が、コミュニケーション改革のためにグーグルのSaaS型クラウドサービス「G Suite」を導入した経緯を説明した。]]></description>
+			<pubDate>Tue, 20 Jun 2017 15:38:35 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
