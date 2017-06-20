@@ -5,35 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>チップに対するハッキングが今後増える6つの理由（上）（チップに対するハッキングが今後増える6つの理由）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　米Intelのファームウエアで脆弱性が発見されたという発表が2017年5月初めにあった。筆者はこの一件を聞いて、数カ月前から記事で取り上げたいと考えていた話を思い出した。一言で言えば、チップやファームウエアはハッキングできる、という話だ。こうしたものや、関連するコントローラーチップには、ソフトウエアと同様の命令が組み込まれていて、セキュリティ上の脆弱な欠陥が存在することが多い。こうした欠陥の方が更新は難しい。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　ぜひ復唱してほしい。「チップやファームウエアは、パッチ適用の難易度が高いソフトウエアに等しい」。こうした理由などから、今後はファームウエアレベルやハードウエアレベルでのハッキングが増えていくと筆者は確信している。</p>
-
-<h4>1：今後はチップレベルで制御されるセキュリティが増える</h4>
-
-<p>　Trusted Computing Groupの取り組みを筆頭に、チップレベルで制御や実装が行われるセキュリティが増えている。大半のコンピューターが搭載しているTrusted Platform Module（TPM）チップや、OPALの自己暗号化ハードディスク、UEFI（Unified Extensible Firmware Interface）、Intel Virtualization Technology（Intel VT-x）やAMD Virtualization（AMD-V）のようなハードウエアベースの仮想化支援技術をはじめとして、チップベンダーやメーカーが提供しているチップ主導の技術やファームウエア主導の技術は無数にある。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200001/?ST=cm-hardware&P=2">チップレベルの機能を土台とするセキュリティはますます増えている。...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200001/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200001/?ST=cm-hardware&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200001/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 19 Jun 2017 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：「完璧」という日本の病、情報システムの現場の悲惨（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/061500143/?d20</link>
+			<description><![CDATA[　日米のIT産業にここまで格差が生じると、人は奇妙だと思わなくなるらしい。だけど不思議だ。日本では付加価値の少ない労働集約産業であるのに対して、米国は新しい価値を続々と創り出す知識集約産業。日米のIT産業の“格”は天と地どころか、天と地底ぐらいの差がある。]]></description>
+			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Amazon.com、高級スーパーチェーンWhole Foodsを約137億ドルで買収へ（ニュース）</title>
@@ -142,21 +117,27 @@
 			<pubDate>Mon, 19 Jun 2017 21:11:56 +0900</pubDate>
 		</item>
 		<item>
+			<title>ARで堀り間違いをゼロに、部門間の壁もなくす（攻めのIT経営銘柄2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/061600002/</link>
+			<description><![CDATA[　都内の道路工事現場。リーダーらしき作業員がiPadを胸の前にかざしている。iPadの画面には内蔵カメラが写した工事現場の風景が表示されている。その風景画像は現実と1点だけ異なる部分があった。]]></description>
+			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>10.5インチの新iPad Pro、一瞬も迷わず購入を決めた（戸田覚のIT辛口研究所）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/061700121/</link>
 			<description><![CDATA[　マイナーチェンジを繰り返していた感が強かった9.7インチのiPadだが、ついに10.5インチへと画面サイズが大きくなった。今回は、一瞬も迷うことなく購入を決め、実機が手元に届いたので、その理由と第一印象をお伝えしよう。]]></description>
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Alexa（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/060700077/</link>
-			<description><![CDATA[　米アマゾン・ドット・コムが提供するクラウドを介した音声認識サービス。2015年にプログラム開発用キットを公開し、「Skills」（アプリ）が爆発的に増加。次世代音声サービスの主役と目されている。]]></description>
+			<title>名だたる企業を味方に、5年先を読むアームの経営術（ARM 対 Intel）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400240/061500003/</link>
+			<description><![CDATA[　米ヒューレット・パッカード・エンタープライズ（HPE）や米マイクロソフトなど世界の名だたるIT企業を味方に付けて米インテル（Intel）の牙城に攻め入る英アーム（ARM）の強みは「水平分業」に徹してきたことに尽きる。]]></description>
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ARで堀り間違いをゼロに、部門間の壁もなくす（攻めのIT経営銘柄2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/061600002/</link>
-			<description><![CDATA[　都内の道路工事現場。リーダーらしき作業員がiPadを胸の前にかざしている。iPadの画面には内蔵カメラが写した工事現場の風景が表示されている。その風景画像は現実と1点だけ異なる部分があった。]]></description>
+			<title>ネガティブに考え、毒を吐くエンジニアに未来は来ない（10人のIT部門が消滅～ひとり情シス顛末記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/061400023/</link>
+			<description><![CDATA[　IT部門が消滅し、一人残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。当事者である著者が読者から質問に答える。今回のテーマは「モチベーション」。評価が得られないひとり情シスで著者はなぜ前向きなのか、その秘密を聞く。]]></description>
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -196,16 +177,16 @@
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>名だたる企業を味方に、5年先を読むアームの経営術（ARM 対 Intel）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400240/061500003/</link>
-			<description><![CDATA[　米ヒューレット・パッカード・エンタープライズ（HPE）や米マイクロソフトなど世界の名だたるIT企業を味方に付けて米インテル（Intel）の牙城に攻め入る英アーム（ARM）の強みは「水平分業」に徹してきたことに尽きる。]]></description>
+			<title>Alexa（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/060700077/</link>
+			<description><![CDATA[　米アマゾン・ドット・コムが提供するクラウドを介した音声認識サービス。2015年にプログラム開発用キットを公開し、「Skills」（アプリ）が爆発的に増加。次世代音声サービスの主役と目されている。]]></description>
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ネガティブに考え、毒を吐くエンジニアに未来は来ない（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/061400023/</link>
-			<description><![CDATA[　IT部門が消滅し、一人残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。当事者である著者が読者から質問に答える。今回のテーマは「モチベーション」。評価が得られないひとり情シスで著者はなぜ前向きなのか、その秘密を聞く。]]></description>
-			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
+			<title>VESAが「DisplayPort 1.4」最新情報を解説、USB Type-Cで普及加速へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061901700/</link>
+			<description><![CDATA[　米ビデオエレクトロニクス規格協会（VESA）は2017年6月19日、都内で記者説明会を開催し、「DisplayPort 1.4」の最新情報について解説した。]]></description>
+			<pubDate>Tue, 20 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>退役軍人をITプロフェッショナルサービスに（前）（退役軍人をITプロフェッショナルサービスに）</title>
@@ -235,12 +216,6 @@
 <div></div>
 </div>
 ]]></description>
-			<pubDate>Tue, 20 Jun 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>VESAが「DisplayPort 1.4」最新情報を解説、USB Type-Cで普及加速へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061901700/</link>
-			<description><![CDATA[　米ビデオエレクトロニクス規格協会（VESA）は2017年6月19日、都内で記者説明会を開催し、「DisplayPort 1.4」の最新情報について解説した。]]></description>
 			<pubDate>Tue, 20 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -327,6 +302,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900220/062000020/</link>
 			<description><![CDATA[　2017年6月20日、ICTの総合展である「Cloud Days 九州 2017」で、潤和リハビリテーション振興財団の経営企画部IT管理室の服部正樹室長が、コミュニケーション改革のためにグーグルのSaaS型クラウドサービス「G Suite」を導入した経緯を説明した。]]></description>
 			<pubDate>Tue, 20 Jun 2017 15:38:35 +0900</pubDate>
+		</item>
+		<item>
+			<title>JAL、国内線の機内Wi-Fiを完全無料化（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062001704/</link>
+			<description><![CDATA[　日本航空（JAL）は2017年6月20日、国内線の機内で提供している公衆無線LANによるインターネット接続サービスについて、同日から完全無料化すると発表した。国内線の幹線・地方路線で運航されている78機が対象となる。]]></description>
+			<pubDate>Tue, 20 Jun 2017 16:45:25 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
