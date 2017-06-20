@@ -11,18 +11,6 @@
 			<pubDate>Mon, 19 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>マウスコンピューター、乃木坂46起用の3万9800円限定ノートPC「m-Book B503E」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061901694/</link>
-			<description><![CDATA[　マウスコンピューターは2017年6月19日、インテルCeleron N3450クアッドコアプロセッサーと120GB SSDを搭載した15.6型ノートパソコン「m-Book B503E」を発売したと発表した。アイドルグループ「乃木坂46」のメンバーが出演する新テレビCMで紹介しているモデルで、限定4000台の販売となる。直販価格は3万9800円（税別）。]]></description>
-			<pubDate>Mon, 19 Jun 2017 18:01:43 +0900</pubDate>
-		</item>
-		<item>
-			<title>サンワサプライ、自由に動く3関節の「モニターアーム」3種類（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061901695/</link>
-			<description><![CDATA[　サンワサプライは2017年6月19日、水平空間に対して大きく伸長し、自在に動かすことができる3関節アームを採用したモニターアーム3機種を同日発売すると発表した。VESA規格に準拠した液晶ディスプレイを取り付け可能。同社直販サイト「サンワダイレクト」限定製品。]]></description>
-			<pubDate>Mon, 19 Jun 2017 18:02:49 +0900</pubDate>
-		</item>
-		<item>
 			<title>「パナソニックにはプラットフォーマーにない強みがある」、樋口社長（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061901696/</link>
 			<description><![CDATA[2017年6月19日、パナソニック コネクティッドソリューションズ社の樋口泰行社長はメディア向けに今後の事業方針についてあらためて説明した。]]></description>
@@ -50,6 +38,18 @@
 			<title>10.5インチの新iPad Pro、一瞬も迷わず購入を決めた（戸田覚のIT辛口研究所）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/061700121/</link>
 			<description><![CDATA[　マイナーチェンジを繰り返していた感が強かった9.7インチのiPadだが、ついに10.5インチへと画面サイズが大きくなった。今回は、一瞬も迷うことなく購入を決め、実機が手元に届いたので、その理由と第一印象をお伝えしよう。]]></description>
+			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>セキュリティ診断が必要なサーバーを漏れなく洗い出す（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061600002/</link>
+			<description><![CDATA[　セキュリティ診断の第一歩は、診断すべきサーバーを洗い出すことだ。コマンドや検索サイトを駆使して、公開サーバーの情報を調べよう。]]></description>
+			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Googleの「Firebase」でリアルタイム掲示板を作ってみよう（後編）（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042000066/</link>
+			<description><![CDATA[　前回から、手軽にWebアプリを作って公開できる、Firebaseについて紹介しています。前回は、Firebaseを使って、リアルタイムに更新される掲示板を作ってみました。今回は、Firebaseが提供しているGoogleアカウントを利用したログイン機能を使って、掲示板を改良して実際にWebで公開してみます。]]></description>
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -98,18 +98,6 @@
 			<title>「本命」が年内にも上陸、注目集まる音声アシスタント（ICT研インサイト）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000156/061200004/</link>
 			<description><![CDATA[　米国で普及し始めた音声アシスタント端末が、今年後半以降、続々と日本に上陸する。音声アシスタント市場は、まだ立ち上がったばかりで、多くのプレイヤーにチャンスがある。]]></description>
-			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Googleの「Firebase」でリアルタイム掲示板を作ってみよう（後編）（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042000066/</link>
-			<description><![CDATA[　前回から、手軽にWebアプリを作って公開できる、Firebaseについて紹介しています。前回は、Firebaseを使って、リアルタイムに更新される掲示板を作ってみました。今回は、Firebaseが提供しているGoogleアカウントを利用したログイン機能を使って、掲示板を改良して実際にWebで公開してみます。]]></description>
-			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>セキュリティ診断が必要なサーバーを漏れなく洗い出す（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061600002/</link>
-			<description><![CDATA[　セキュリティ診断の第一歩は、診断すべきサーバーを洗い出すことだ。コマンドや検索サイトを駆使して、公開サーバーの情報を調べよう。]]></description>
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -274,6 +262,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062001708/</link>
 			<description><![CDATA[　マウスコンピューターは2017年6月20日、AMD製ハイエンドCPU「AMD Ryzen 7 1700X」を搭載したミニタワー型デスクトップパソコン「LM-AG350XN1-SH5」を同日販売開始したと発表した。直販価格は16万9800円。]]></description>
 			<pubDate>Tue, 20 Jun 2017 21:21:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>モトローラがSIMフリースマホ「Moto Z2 Play」発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062001710/</link>
+			<description><![CDATA[　モトローラ・モビリティ・ジャパンは2017年6月20日、都内で新製品発表会を開催し、SIMロックフリースマートフォンの新製品「Moto Z2 Play」を発表した。6月29日に5万3800円（税別）で発売する。]]></description>
+			<pubDate>Tue, 20 Jun 2017 21:50:29 +0900</pubDate>
+		</item>
+		<item>
+			<title>クアルコムがVoice＆Music事業の説明会、「幅広いラインナップで変化に対応」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062001711/</link>
+			<description><![CDATA[　クアルコムジャパンは2017年6月20日、都内で同社のVoice＆Music事業に関する説明会を実施した。最新のオーディオ関連のトレンドとそれに対する製品を説明した。]]></description>
+			<pubDate>Tue, 20 Jun 2017 22:05:08 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
