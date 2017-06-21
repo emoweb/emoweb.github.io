@@ -5,6 +5,24 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>ネガティブに考え、毒を吐くエンジニアに未来は来ない（10人のIT部門が消滅～ひとり情シス顛末記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/061400023/</link>
+			<description><![CDATA[　IT部門が消滅し、一人残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。当事者である著者が読者から質問に答える。今回のテーマは「モチベーション」。評価が得られないひとり情シスで著者はなぜ前向きなのか、その秘密を聞く。]]></description>
+			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Googleの「Firebase」でリアルタイム掲示板を作ってみよう（後編）（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042000066/</link>
+			<description><![CDATA[　前回から、手軽にWebアプリを作って公開できる、Firebaseについて紹介しています。前回は、Firebaseを使って、リアルタイムに更新される掲示板を作ってみました。今回は、Firebaseが提供しているGoogleアカウントを利用したログイン機能を使って、掲示板を改良して実際にWebで公開してみます。]]></description>
+			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>10.5インチの新iPad Pro、一瞬も迷わず購入を決めた（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/061700121/</link>
+			<description><![CDATA[　マイナーチェンジを繰り返していた感が強かった9.7インチのiPadだが、ついに10.5インチへと画面サイズが大きくなった。今回は、一瞬も迷うことなく購入を決め、実機が手元に届いたので、その理由と第一印象をお伝えしよう。]]></description>
+			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>セキュリティ診断が必要なサーバーを漏れなく洗い出す（セキュリティ診断のイロハ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061600002/</link>
 			<description><![CDATA[　セキュリティ診断の第一歩は、診断すべきサーバーを洗い出すことだ。コマンドや検索サイトを駆使して、公開サーバーの情報を調べよう。]]></description>
@@ -29,9 +47,9 @@
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ARで堀り間違いをゼロに、部門間の壁もなくす（攻めのIT経営銘柄2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/061600002/</link>
-			<description><![CDATA[　都内の道路工事現場。リーダーらしき作業員がiPadを胸の前にかざしている。iPadの画面には内蔵カメラが写した工事現場の風景が表示されている。その風景画像は現実と1点だけ異なる部分があった。]]></description>
+			<title>個人データ活用シンポジウムに企業関係者が殺到、新たなビジネス狙う（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061600859/</link>
+			<description><![CDATA[　改正個人情報保護法の全面施行を直前に控えた2017年5月、「個人主導のデータ流通」をテーマにしたシンポジウムが都内で開かれ、企業関係者が詰めかけた。]]></description>
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -41,76 +59,16 @@
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ネガティブに考え、毒を吐くエンジニアに未来は来ない（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/061400023/</link>
-			<description><![CDATA[　IT部門が消滅し、一人残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」。当事者である著者が読者から質問に答える。今回のテーマは「モチベーション」。評価が得られないひとり情シスで著者はなぜ前向きなのか、その秘密を聞く。]]></description>
-			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>個人データ活用シンポジウムに企業関係者が殺到、新たなビジネス狙う（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061600859/</link>
-			<description><![CDATA[　改正個人情報保護法の全面施行を直前に控えた2017年5月、「個人主導のデータ流通」をテーマにしたシンポジウムが都内で開かれ、企業関係者が詰めかけた。]]></description>
-			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>名だたる企業を味方に、5年先を読むアームの経営術（ARM 対 Intel）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400240/061500003/</link>
 			<description><![CDATA[　米ヒューレット・パッカード・エンタープライズ（HPE）や米マイクロソフトなど世界の名だたるIT企業を味方に付けて米インテル（Intel）の牙城に攻め入る英アーム（ARM）の強みは「水平分業」に徹してきたことに尽きる。]]></description>
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>10.5インチの新iPad Pro、一瞬も迷わず購入を決めた（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/061700121/</link>
-			<description><![CDATA[　マイナーチェンジを繰り返していた感が強かった9.7インチのiPadだが、ついに10.5インチへと画面サイズが大きくなった。今回は、一瞬も迷うことなく購入を決め、実機が手元に届いたので、その理由と第一印象をお伝えしよう。]]></description>
+			<title>ARで堀り間違いをゼロに、部門間の壁もなくす（攻めのIT経営銘柄2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/061600002/</link>
+			<description><![CDATA[　都内の道路工事現場。リーダーらしき作業員がiPadを胸の前にかざしている。iPadの画面には内蔵カメラが写した工事現場の風景が表示されている。その風景画像は現実と1点だけ異なる部分があった。]]></description>
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Googleの「Firebase」でリアルタイム掲示板を作ってみよう（後編）（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042000066/</link>
-			<description><![CDATA[　前回から、手軽にWebアプリを作って公開できる、Firebaseについて紹介しています。前回は、Firebaseを使って、リアルタイムに更新される掲示板を作ってみました。今回は、Firebaseが提供しているGoogleアカウントを利用したログイン機能を使って、掲示板を改良して実際にWebで公開してみます。]]></description>
-			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>退役軍人をITプロフェッショナルサービスに（前）（退役軍人をITプロフェッショナルサービスに）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061200046/061200001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　米国では、優秀なテクノロジー人材の不足や、ITサービスを国内で調達するニーズの高まりに関して、数多くの企業が不満を漏らしている。そうした中、ITプロフェッショナルサービスやコンサルティングを手がける米Sharp Decisionsが、適任のプロフェッショナルの供給元として、退役軍人の活用に乗り出した。これまで見過ごされてきた供給元だと同社は考えている。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200046/061200001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　Sharp DecisionsのKaren Ross最高経営責任者（CEO）が「V.E.T.S.（Vocation, Education and Training for Service members）」プログラムを立ち上げたのは4年前だった。米軍から民間企業に移る退役軍人の失業率の高さと、頼りになるIT人材へのニーズという両方に対処したいとの思いからだった。「こうした退役軍人は、当社にとって特に貴重で、かつ未開発の人材供給元だと私は認識した。民間企業にも転用可能な技術スキルとノウハウを備えた、巨大な人材プールだ」とRoss氏は話す。</p>
-
-<p>　「米国企業の多くは、退役軍人の採用について野心的な目標を掲げており、理念としては立派だが、目標には達していない」。そこでSharp Decisionsは、退役軍人のオンボーディングに新たなやり方を取り入れることにした。ITサービスのブートキャンプでトレーニングを施したうえで、一団として展開するというものだ。軍に所属していた時に任務で展開されるのと同じような形だ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200046/061200001/?ST=cio-management&P=2">「『ブートキャンプ』が無事完了したら、退役軍人を...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200046/061200001/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200046/061200001/?ST=cio-management&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200046/061200001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 20 Jun 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>VESAが「DisplayPort 1.4」最新情報を解説、USB Type-Cで普及加速へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/061901700/</link>
-			<description><![CDATA[　米ビデオエレクトロニクス規格協会（VESA）は2017年6月19日、都内で記者説明会を開催し、「DisplayPort 1.4」の最新情報について解説した。]]></description>
-			<pubDate>Tue, 20 Jun 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Google、批判受けYouTubeのテロ関連対策を強化（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062001701/</link>
-			<description><![CDATA[　米Googleは現地時間2017年6月18日、動画共有サイトYouTubeにおけるテロ関連コンテンツの撲滅に向けた4つの取り組みを発表した。]]></description>
-			<pubDate>Tue, 20 Jun 2017 09:53:24 +0900</pubDate>
 		</item>
 		<item>
 			<title>Googleの言語「Go」、バージョン1.9の改良点（Computerworldニュース）</title>
@@ -252,6 +210,24 @@
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>アップルが描く「世界最大」戦略とは（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/062000047/</link>
+			<description><![CDATA[　米アップルの「WWDC 2017」が閉幕し、向こう1年間のアップルプラットフォームに関する技術的な方向性と、今後どんなアプリを開発することが可能か、という議論が活発になっている。数の論理が通用する戦略が見え隠れする。]]></description>
+			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>第18話  2面で部下を評価できているか？（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/051200029/</link>
+			<description><![CDATA[　どんなにお金を稼いで良い武器や防具を買って身に着けても、経験値が低ければメンバーの体力や知力などのレベルが上がらず、強敵を打ち倒すことはできない。プレーヤーは、お金と経験値の両方に気を配る必要があるのだ。部下の評価でも、数字の実績だけでなく経験した内容にも目配りが必要だ。]]></description>
+			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>iPhone/AndroidのWebアプリで位置情報（GPS）が分かる（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042100067/</link>
+			<description><![CDATA[　「ポケモンGO」のおかげで位置情報を利用したゲームが盛り上がってますが、位置情報をゲームでしか使わないのはもったいないです。最近では、大抵の人がスマホを持っているので、営業活動や現場管理に活用できれば便利です。そこでHTML5/JavaScriptから、スマホのGPSを利用する方法を紹介します。]]></description>
+			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>作ったものを喜んでもらえるのが「パクえ」誕生の原点（越境エンジニア列伝）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/062000012/</link>
 			<description><![CDATA[　今月取り上げるのは吉田雄哉氏。というよりも、パブリッククラウドの伝道師「吉田パクえ」氏と言ったほうがピンとくる人は多いかもしれない。日本マイクロソフトに転職し、現在は「Microsoft Azure」の導入支援を手掛けている。今回は、同氏がIT系に進むことになった原体験などを聞いた。]]></description>
@@ -306,24 +282,6 @@
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>アップルが描く「世界最大」戦略とは（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/062000047/</link>
-			<description><![CDATA[　米アップルの「WWDC 2017」が閉幕し、向こう1年間のアップルプラットフォームに関する技術的な方向性と、今後どんなアプリを開発することが可能か、という議論が活発になっている。数の論理が通用する戦略が見え隠れする。]]></description>
-			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iPhone/AndroidのWebアプリで位置情報（GPS）が分かる（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042100067/</link>
-			<description><![CDATA[　「ポケモンGO」のおかげで位置情報を利用したゲームが盛り上がってますが、位置情報をゲームでしか使わないのはもったいないです。最近では、大抵の人がスマホを持っているので、営業活動や現場管理に活用できれば便利です。そこでHTML5/JavaScriptから、スマホのGPSを利用する方法を紹介します。]]></description>
-			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>第18話  2面で部下を評価できているか？（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/051200029/</link>
-			<description><![CDATA[　どんなにお金を稼いで良い武器や防具を買って身に着けても、経験値が低ければメンバーの体力や知力などのレベルが上がらず、強敵を打ち倒すことはできない。プレーヤーは、お金と経験値の両方に気を配る必要があるのだ。部下の評価でも、数字の実績だけでなく経験した内容にも目配りが必要だ。]]></description>
-			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>チップに対するハッキングが今後増える6つの理由（中）（チップに対するハッキングが今後増える6つの理由）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200002/</link>
 			<description><![CDATA[<div>
@@ -355,6 +313,54 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 21 Jun 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>世界スパコンTOP500、「ミッドレンジ」の高性能化が続く（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062100384/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　世界のスーパーコンピューター（スパコン）の性能ランキングを年2回発表しているTOP500.orgは2017年6月19日、最新の「TOP500」の<a href="https://www.top500.org/lists/2017/06/" target="_blank">ランキング</a>を発表した。49回目となる今回のランキングは、上位の顔ぶれこそ前回（2016年11月）と変わらなかったものの、もっと下位に目を向けていくと、真の変化が見えてくる。</p>
+
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062100384/ph01.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Swiss National Supercomputing Center</div>
+</div>
+
+<p>　トップ2は前回と同じ中国勢だった。首位は「Sunway TaihuLight（神威太湖之光）」で93ペタFLOPS、第2位は「Tianhe-2（天河2号）」で33.9ペタFLOPSだ。（FLOPSは1秒当たりの浮動小数点演算回数、ペタは千兆）。</p>
+
+<p>　第3位にはスイスの「Piz Daint」（19.6ペタFLOPS）が入った。GPUを使ったアップグレードによって速度が約2倍になり、前回の第8位から大きく順位を上げた。この結果、前回の第3～7位のスパコンはそれぞれ1つずつ順位を下げた。米国で最速のスパコン「Titan」は今回は第4位だった。</p>
+
+<p>　トップ10だけを見た場合、前回のランキングとの違いは、Piz Daintが順位を上げたというこの1点のみだ。ここで話をやめたら、スパコンメーカーは寝ているのではないかと思う人もいるかもしれない。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062100384/?ST=cm-hardware&P=2">だが、もっと下位まで見ていくと、「ミッドレンジ」のスパコンで性能...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062100384/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062100384/?ST=cm-hardware&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062100384/?ST=cm-hardware&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062100384/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 21 Jun 2017 10:16:36 +0900</pubDate>
+		</item>
+		<item>
+			<title>Amazon.com、衣服の無料返品が可能な「Prime Wardrobe」開始へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101714/</link>
+			<description><![CDATA[　米Amazon.comは現地時間2017年6月20日、煩雑な手続きを必要とせずに、商品を無料で返品できる、衣料品のネット販売サービス「Prime Wardrobe」を、米国のPrime会員を対象に始めると発表した。]]></description>
+			<pubDate>Wed, 21 Jun 2017 11:14:01 +0900</pubDate>
+		</item>
+		<item>
+			<title>ホンダが工場など複数拠点でWannaCry感染、一部の生産に影響（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101713/</link>
+			<description><![CDATA[　ホンダが2017年6月18日夕方、世界の複数拠点でランサムウエア「WannaCry」に感染したことが日経コンピュータの取材で分かった。既に復旧しているが「一部の生産に影響があった」（広報）。]]></description>
+			<pubDate>Wed, 21 Jun 2017 11:20:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
