@@ -5,6 +5,18 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>WWDC 2017で見えたアップルの新戦略、iPhoneやiPadはiOS 11でどう変わる？（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/061300110/</link>
+			<description><![CDATA[　米国時間の2017年6月5〜9日に開催されたアップルの開発者向けイベント「WWDC 2017」。アップルの今後の戦略を見るうえで大きな意味を持つのは新しいiOS「iOS 11」だ。iPad向けの大幅な改良、個人間送金、ARなどにも対応する意欲的なアップデートで、アップルは何を目指すのだろうか。]]></description>
+			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>10.5インチの新iPad Pro、一瞬も迷わず購入を決めた（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/061700121/</link>
+			<description><![CDATA[　マイナーチェンジを繰り返していた感が強かった9.7インチのiPadだが、ついに10.5インチへと画面サイズが大きくなった。今回は、一瞬も迷うことなく購入を決め、実機が手元に届いたので、その理由と第一印象をお伝えしよう。]]></description>
+			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>個人データ活用シンポジウムに企業関係者が殺到、新たなビジネス狙う（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061600859/</link>
 			<description><![CDATA[　改正個人情報保護法の全面施行を直前に控えた2017年5月、「個人主導のデータ流通」をテーマにしたシンポジウムが都内で開かれ、企業関係者が詰めかけた。]]></description>
@@ -29,9 +41,9 @@
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Googleの「Firebase」でリアルタイム掲示板を作ってみよう（後編）（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042000066/</link>
-			<description><![CDATA[　前回から、手軽にWebアプリを作って公開できる、Firebaseについて紹介しています。前回は、Firebaseを使って、リアルタイムに更新される掲示板を作ってみました。今回は、Firebaseが提供しているGoogleアカウントを利用したログイン機能を使って、掲示板を改良して実際にWebで公開してみます。]]></description>
+			<title>名だたる企業を味方に、5年先を読むアームの経営術（ARM 対 Intel）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400240/061500003/</link>
+			<description><![CDATA[　米ヒューレット・パッカード・エンタープライズ（HPE）や米マイクロソフトなど世界の名だたるIT企業を味方に付けて米インテル（Intel）の牙城に攻め入る英アーム（ARM）の強みは「水平分業」に徹してきたことに尽きる。]]></description>
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -53,40 +65,28 @@
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>名だたる企業を味方に、5年先を読むアームの経営術（ARM 対 Intel）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400240/061500003/</link>
-			<description><![CDATA[　米ヒューレット・パッカード・エンタープライズ（HPE）や米マイクロソフトなど世界の名だたるIT企業を味方に付けて米インテル（Intel）の牙城に攻め入る英アーム（ARM）の強みは「水平分業」に徹してきたことに尽きる。]]></description>
+			<title>Googleの「Firebase」でリアルタイム掲示板を作ってみよう（後編）（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042000066/</link>
+			<description><![CDATA[　前回から、手軽にWebアプリを作って公開できる、Firebaseについて紹介しています。前回は、Firebaseを使って、リアルタイムに更新される掲示板を作ってみました。今回は、Firebaseが提供しているGoogleアカウントを利用したログイン機能を使って、掲示板を改良して実際にWebで公開してみます。]]></description>
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>10.5インチの新iPad Pro、一瞬も迷わず購入を決めた（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/061700121/</link>
-			<description><![CDATA[　マイナーチェンジを繰り返していた感が強かった9.7インチのiPadだが、ついに10.5インチへと画面サイズが大きくなった。今回は、一瞬も迷うことなく購入を決め、実機が手元に届いたので、その理由と第一印象をお伝えしよう。]]></description>
-			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>WWDC 2017で見えたアップルの新戦略、iPhoneやiPadはiOS 11でどう変わる？（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/061300110/</link>
-			<description><![CDATA[　米国時間の2017年6月5〜9日に開催されたアップルの開発者向けイベント「WWDC 2017」。アップルの今後の戦略を見るうえで大きな意味を持つのは新しいiOS「iOS 11」だ。iPad向けの大幅な改良、個人間送金、ARなどにも対応する意欲的なアップデートで、アップルは何を目指すのだろうか。]]></description>
-			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>マウスコンピューター、AMD Ryzen 7 1700X搭載のデスクトップPC（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062001708/</link>
-			<description><![CDATA[　マウスコンピューターは2017年6月20日、AMD製ハイエンドCPU「AMD Ryzen 7 1700X」を搭載したミニタワー型デスクトップパソコン「LM-AG350XN1-SH5」を同日販売開始したと発表した。直販価格は16万9800円。]]></description>
-			<pubDate>Tue, 20 Jun 2017 21:21:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>モトローラがSIMフリースマホ「Moto Z2 Play」発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062001710/</link>
-			<description><![CDATA[　モトローラ・モビリティ・ジャパンは2017年6月20日、都内で新製品発表会を開催し、SIMロックフリースマートフォンの新製品「Moto Z2 Play」を発表した。6月29日に5万3800円（税別）で発売する。]]></description>
-			<pubDate>Tue, 20 Jun 2017 21:50:29 +0900</pubDate>
 		</item>
 		<item>
 			<title>クアルコムがVoice＆Music事業の説明会、「幅広いラインナップで変化に対応」（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062001711/</link>
 			<description><![CDATA[　クアルコムジャパンは2017年6月20日、都内で同社のVoice＆Music事業に関する説明会を実施した。最新のオーディオ関連のトレンドとそれに対する製品を説明した。]]></description>
 			<pubDate>Tue, 20 Jun 2017 22:05:08 +0900</pubDate>
+		</item>
+		<item>
+			<title>最新技術とSI現場のギャップ、2017年度版「情報技術マップ」で浮き彫りに（北川 賢一のIT業界乱反射）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800200/061600021/</link>
+			<description><![CDATA[　　次々と新しい情報技術が出てくるものの、SIビジネス現場では手慣れた、枯れた技術を優先する──。こうした日本のユーザー企業とITサービス業界の保守的な行動パターンがJISA「情報技術マップ」の2017年版で浮き彫りとなった。]]></description>
+			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>アームを脅かすインテル以外の存在（ARM 対 Intel）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400240/061500004/</link>
+			<description><![CDATA[　データセンター分野への進出をたくらむアームだが、その道のりは険しい。ディープラーニング（深層学習）の活用が拡大し、GPU（グラフィックス処理プロセッサ）や深層学習専用チップなどの新たなプロセッサが台頭しているからだ。]]></description>
+			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ボットで実現する働き方改革（記者の眼）</title>
@@ -119,9 +119,9 @@
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>アップルが描く「世界最大」戦略とは（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/062000047/</link>
-			<description><![CDATA[　米アップルの「WWDC 2017」が閉幕し、向こう1年間のアップルプラットフォームに関する技術的な方向性と、今後どんなアプリを開発することが可能か、という議論が活発になっている。数の論理が通用する戦略が見え隠れする。]]></description>
+			<title>介護の悩み、IoTセンサーで撲滅（攻めのIT経営銘柄2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/061900004/</link>
+			<description><![CDATA[　「デジタル技術を使い、今までなかった介護サービスを実現する」。保険大手のSOMPOホールディングスの安田誠デジタル戦略部課長はこう言い切る。SOMPOグループの介護事業会社が進めているデジタル化プロジェクトのなかで、成果が見え始めたのが入居者の失禁を防ぐ排尿センサーの活用である。]]></description>
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -131,9 +131,9 @@
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>最新技術とSI現場のギャップ、2017年度版「情報技術マップ」で浮き彫りに（北川 賢一のIT業界乱反射）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800200/061600021/</link>
-			<description><![CDATA[　　次々と新しい情報技術が出てくるものの、SIビジネス現場では手慣れた、枯れた技術を優先する──。こうした日本のユーザー企業とITサービス業界の保守的な行動パターンがJISA「情報技術マップ」の2017年版で浮き彫りとなった。]]></description>
+			<title>Apple Payは世界でどこまで広がったのか（Apple Pay最新事情）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600245/061900001/</link>
+			<description><![CDATA[　Appleの開発者会議「WWDC17」では、Apple Payに関して新機能「個人間（P2P）送金」が発表されるなど、いくつかのアップデートがあった。また基調講演では紹介されなかったものの、iPhoneのNFC機能が一部公開され、NFCタグのType-1〜5がサポートされることとなった。]]></description>
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -149,21 +149,9 @@
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>介護の悩み、IoTセンサーで撲滅（攻めのIT経営銘柄2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/061900004/</link>
-			<description><![CDATA[　「デジタル技術を使い、今までなかった介護サービスを実現する」。保険大手のSOMPOホールディングスの安田誠デジタル戦略部課長はこう言い切る。SOMPOグループの介護事業会社が進めているデジタル化プロジェクトのなかで、成果が見え始めたのが入居者の失禁を防ぐ排尿センサーの活用である。]]></description>
-			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Apple Payは世界でどこまで広がったのか（Apple Pay最新事情）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600245/061900001/</link>
-			<description><![CDATA[　Appleの開発者会議「WWDC17」では、Apple Payに関して新機能「個人間（P2P）送金」が発表されるなど、いくつかのアップデートがあった。また基調講演では紹介されなかったものの、iPhoneのNFC機能が一部公開され、NFCタグのType-1〜5がサポートされることとなった。]]></description>
-			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>アームを脅かすインテル以外の存在（ARM 対 Intel）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400240/061500004/</link>
-			<description><![CDATA[　データセンター分野への進出をたくらむアームだが、その道のりは険しい。ディープラーニング（深層学習）の活用が拡大し、GPU（グラフィックス処理プロセッサ）や深層学習専用チップなどの新たなプロセッサが台頭しているからだ。]]></description>
+			<title>アップルが描く「世界最大」戦略とは（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/062000047/</link>
+			<description><![CDATA[　米アップルの「WWDC 2017」が閉幕し、向こう1年間のアップルプラットフォームに関する技術的な方向性と、今後どんなアプリを開発することが可能か、という議論が活発になっている。数の論理が通用する戦略が見え隠れする。]]></description>
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -312,6 +300,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101726/</link>
 			<description><![CDATA[　日本IBMは2017年6月21日、企業のセキュリティ対策を支援する「IBM X-Force IRIS」サービスの国内提供を開始した。マルウエア感染や情報漏洩といったインシデント（事故）発生の初動対応を、事前・事後の両面で専門家が支援する。]]></description>
 			<pubDate>Wed, 21 Jun 2017 18:20:07 +0900</pubDate>
+		</item>
+		<item>
+			<title>［特報］デンソーが量子コンピュータの応用研究開始、自動運転に活用か（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101727/</link>
+			<description><![CDATA[　自動車部品大手のデンソーが量子コンピュータの応用研究を進めていることが日経コンピュータの取材で2017年6月21日までに分かった。自動運転の支援など、大量の計算が必要な分野での利用を想定しているとみられる。人工知能（AI）などに続き、自動車メーカーや部品メーカーが競争力を高める目的で量子コンピュータの実験に取り組む動きが広がる可能性がある。]]></description>
+			<pubDate>Wed, 21 Jun 2017 18:24:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>徳島県、マイナンバーカードを職員証として利用開始（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101728/</link>
+			<description><![CDATA[　徳島県は2017年6月21日、マイナンバーカードを職員証として利用すると公表した。NECが「利用者ID登録システム」を納入したと発表した。NECによると、マイナンバーカードを職員証として利用するのは都道府県で初めて。]]></description>
+			<pubDate>Wed, 21 Jun 2017 19:18:47 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
