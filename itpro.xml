@@ -5,16 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>武雄市のケーブル局、防災行政無線の音声をテレビとスマホに同時自動配信（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101715/</link>
-			<description><![CDATA[　佐賀県武雄市などをサービスエリアとするケーブルテレビ事業者であるケーブルワンは2017年6月21日、武雄市が発する防災行政無線の音声情報を、コミュニティチャンネルのデータ放送とスマートフォンアプリに同時配信し、視聴者が繰り返し聞くことができるサービスを同日に開始したと発表した。]]></description>
-			<pubDate>Wed, 21 Jun 2017 11:29:36 +0900</pubDate>
-		</item>
-		<item>
-			<title>Google、機械学習を利用した求人検索機能を米国で提供（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101716/</link>
-			<description><![CDATA[　米Googleは現地時間2017年6月20日、求人情報を探しやすくする機能を米国で提供開始したと発表した。米国全土の国民を就職機会につなげたいとしている。]]></description>
-			<pubDate>Wed, 21 Jun 2017 12:48:56 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：10.5インチの新iPad Pro、一瞬も迷わず購入を決めた（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/061700121/?d22</link>
+			<description><![CDATA[　マイナーチェンジを繰り返していた感が強かった9.7インチのiPadだが、ついに10.5インチへと画面サイズが大きくなった。今回は、一瞬も迷うことなく購入を決め、実機が手元に届いたので、その理由と第一印象をお伝えしよう。]]></description>
+			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ホンダの狭山工場、WannaCry感染で1000台生産できず（ニュース）</title>
@@ -101,6 +95,18 @@
 			<pubDate>Wed, 21 Jun 2017 21:35:45 +0900</pubDate>
 		</item>
 		<item>
+			<title>動かしてわかるSELinuxセキュリティの基本（IoT時代の最新SELinux入門）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052500003/</link>
+			<description><![CDATA[　今回は、実際にLinuxディストリビューションを使ってSELinuxの動作を確認してみましょう。ここではRed Hat Enterprise Linux（RHEL）互換の「CentOS 7」を例に実践します。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>友人はどこにいる？位置をリアルタイムに地図表示しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042400068/</link>
+			<description><![CDATA[　前々回、Firebaseについて、前回、スマートフォンで位置情報を扱う方法について紹介しました。今回は、位置情報をFirebaseで共有して、友人が自分の近くにいるかどうかリアルタイムに確認するサービスを作ってみましょう。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>Java SE 9の非同期処理ライブラリ、新概念の「Reactive Streams」を学ぶ（最新Java情報局）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/061900041/</link>
 			<description><![CDATA[　Java SE 9の新機能としてはあまり目立ってはいませんが、非同期処理ライブラリの「Concurrency Utilities」では、「Reactive Streams」という新しい概念が導入されています。今回はReactive Streamsによるストリームデータ処理の基本を学びます。]]></description>
@@ -179,23 +185,48 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>友人はどこにいる？位置をリアルタイムに地図表示しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042400068/</link>
-			<description><![CDATA[　前々回、Firebaseについて、前回、スマートフォンで位置情報を扱う方法について紹介しました。今回は、位置情報をFirebaseで共有して、友人が自分の近くにいるかどうかリアルタイムに確認するサービスを作ってみましょう。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>動かしてわかるSELinuxセキュリティの基本（IoT時代の最新SELinux入門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052500003/</link>
-			<description><![CDATA[　今回は、実際にLinuxディストリビューションを使ってSELinuxの動作を確認してみましょう。ここではRed Hat Enterprise Linux（RHEL）互換の「CentOS 7」を例に実践します。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>変数の型は入力値で決まる、環境変数も簡単に操作（安納順一のPowerShell Tips）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800006/</link>
 			<description><![CDATA[　変数と環境変数の使い方を覚えよう。PowerShellでは変数の型は入力した値で決まるので、宣言する必要がない。WindowsなどのOSの環境変数を、通常の変数と同じように操作できるのも特徴だ。
 ]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>退役軍人をITプロフェッショナルサービスに（後）（退役軍人をITプロフェッショナルサービスに）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061200046/061200002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　米国では、優秀なテクノロジー人材の不足や、ITサービスを国内で調達するニーズの高まりに関して、数多くの企業が不満を漏らしている。そうした中、ITプロフェッショナルサービスやコンサルティングを手がける米Sharp Decisionsが、適任のプロフェッショナルの供給元として、退役軍人の活用に乗り出した。これまで見過ごされてきた供給元だと同社は考えている。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200046/061200001/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200046/061200002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　Harmonicでグローバルソフトウエア品質担当バイスプレジデントを務めるChris Pattinson氏は次のように言う。「当社は、プロフェッショナルかつ厳格で有能な人材を探していた。V.E.T.S.プログラムのおかげで、チームリーダーに支えられた技術系人材の一団に加わってもらうことができた。しかもV.E.T.S.では、メンバーのITスキルに磨きをかける技術トレーニングのブートキャンプを実施している」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200046/061200002/?ST=cio-management&P=2">その技術的な厳密さと実践的な手法は、職務の内容に...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200046/061200002/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200046/061200002/?ST=cio-management&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200046/061200002/?ST=cio-management&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200046/061200002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 22 Jun 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>地方版IoT推進ラボが集積する福岡県、Cloud Days 九州で3自治体が取り組みを紹介（Cloud Days 2017レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900220/062100023/</link>
+			<description><![CDATA[　ICTの総合展である「Cloud Days九州」に、福岡県、北九州市、福岡市の地方版IoT推進ラボ担当者が登壇し、それぞれの取り組み状況や課題について議論した。]]></description>
+			<pubDate>Thu, 22 Jun 2017 06:01:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
