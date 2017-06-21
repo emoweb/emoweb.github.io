@@ -5,6 +5,18 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>セキュリティ診断が必要なサーバーを漏れなく洗い出す（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061600002/</link>
+			<description><![CDATA[　セキュリティ診断の第一歩は、診断すべきサーバーを洗い出すことだ。コマンドや検索サイトを駆使して、公開サーバーの情報を調べよう。]]></description>
+			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Googleの「Firebase」でリアルタイム掲示板を作ってみよう（後編）（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042000066/</link>
+			<description><![CDATA[　前回から、手軽にWebアプリを作って公開できる、Firebaseについて紹介しています。前回は、Firebaseを使って、リアルタイムに更新される掲示板を作ってみました。今回は、Firebaseが提供しているGoogleアカウントを利用したログイン機能を使って、掲示板を改良して実際にWebで公開してみます。]]></description>
+			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>WWDC 2017で見えたアップルの新戦略、iPhoneやiPadはiOS 11でどう変わる？（佐野正弘が斬る！ニュースなアプリの裏側）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/061300110/</link>
 			<description><![CDATA[　米国時間の2017年6月5〜9日に開催されたアップルの開発者向けイベント「WWDC 2017」。アップルの今後の戦略を見るうえで大きな意味を持つのは新しいiOS「iOS 11」だ。iPad向けの大幅な改良、個人間送金、ARなどにも対応する意欲的なアップデートで、アップルは何を目指すのだろうか。]]></description>
@@ -59,22 +71,16 @@
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>セキュリティ診断が必要なサーバーを漏れなく洗い出す（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061600002/</link>
-			<description><![CDATA[　セキュリティ診断の第一歩は、診断すべきサーバーを洗い出すことだ。コマンドや検索サイトを駆使して、公開サーバーの情報を調べよう。]]></description>
-			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
+			<title>ライバル同士が白熱議論、完全自動運転の実現はいつか？（激変！クルマ×AI 業界地図）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/061900028/</link>
+			<description><![CDATA[　自動運転車が実現されるのはいつか？素朴な疑問について、自動車メーカーや自動車部品メーカーが一堂に会し議論。各社の見解を示した。]]></description>
+			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Googleの「Firebase」でリアルタイム掲示板を作ってみよう（後編）（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042000066/</link>
-			<description><![CDATA[　前回から、手軽にWebアプリを作って公開できる、Firebaseについて紹介しています。前回は、Firebaseを使って、リアルタイムに更新される掲示板を作ってみました。今回は、Firebaseが提供しているGoogleアカウントを利用したログイン機能を使って、掲示板を改良して実際にWebで公開してみます。]]></description>
-			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>クアルコムがVoice＆Music事業の説明会、「幅広いラインナップで変化に対応」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062001711/</link>
-			<description><![CDATA[　クアルコムジャパンは2017年6月20日、都内で同社のVoice＆Music事業に関する説明会を実施した。最新のオーディオ関連のトレンドとそれに対する製品を説明した。]]></description>
-			<pubDate>Tue, 20 Jun 2017 22:05:08 +0900</pubDate>
+			<title>アップルが描く「世界最大」戦略とは（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/062000047/</link>
+			<description><![CDATA[　米アップルの「WWDC 2017」が閉幕し、向こう1年間のアップルプラットフォームに関する技術的な方向性と、今後どんなアプリを開発することが可能か、という議論が活発になっている。数の論理が通用する戦略が見え隠れする。]]></description>
+			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>最新技術とSI現場のギャップ、2017年度版「情報技術マップ」で浮き彫りに（北川 賢一のIT業界乱反射）</title>
@@ -113,9 +119,9 @@
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「光ファイバー通信の限界を超える」、東北大学の中沢教授（編集長インタビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/269807/051500042/</link>
-			<description><![CDATA[　スマートフォンやクラウドの利用が右肩上がりに増える中、光通信インフラには一層の性能向上が期待されている。研究開発の現場ではどんな技術革新が起こっているのか。30年以上にわたり光ファイバー通信の高度化に取り組んでいる東北大学の中沢教授に最新の成果と今後を聞いた。]]></description>
+			<title>第18話  2面で部下を評価できているか？（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/051200029/</link>
+			<description><![CDATA[　どんなにお金を稼いで良い武器や防具を買って身に着けても、経験値が低ければメンバーの体力や知力などのレベルが上がらず、強敵を打ち倒すことはできない。プレーヤーは、お金と経験値の両方に気を配る必要があるのだ。部下の評価でも、数字の実績だけでなく経験した内容にも目配りが必要だ。]]></description>
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -125,9 +131,9 @@
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ライバル同士が白熱議論、完全自動運転の実現はいつか？（激変！クルマ×AI 業界地図）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042500166/061900028/</link>
-			<description><![CDATA[　自動運転車が実現されるのはいつか？素朴な疑問について、自動車メーカーや自動車部品メーカーが一堂に会し議論。各社の見解を示した。]]></description>
+			<title>iPhone/AndroidのWebアプリで位置情報（GPS）が分かる（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042100067/</link>
+			<description><![CDATA[　「ポケモンGO」のおかげで位置情報を利用したゲームが盛り上がってますが、位置情報をゲームでしか使わないのはもったいないです。最近では、大抵の人がスマホを持っているので、営業活動や現場管理に活用できれば便利です。そこでHTML5/JavaScriptから、スマホのGPSを利用する方法を紹介します。]]></description>
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -137,21 +143,9 @@
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>第18話  2面で部下を評価できているか？（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/051200029/</link>
-			<description><![CDATA[　どんなにお金を稼いで良い武器や防具を買って身に着けても、経験値が低ければメンバーの体力や知力などのレベルが上がらず、強敵を打ち倒すことはできない。プレーヤーは、お金と経験値の両方に気を配る必要があるのだ。部下の評価でも、数字の実績だけでなく経験した内容にも目配りが必要だ。]]></description>
-			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iPhone/AndroidのWebアプリで位置情報（GPS）が分かる（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042100067/</link>
-			<description><![CDATA[　「ポケモンGO」のおかげで位置情報を利用したゲームが盛り上がってますが、位置情報をゲームでしか使わないのはもったいないです。最近では、大抵の人がスマホを持っているので、営業活動や現場管理に活用できれば便利です。そこでHTML5/JavaScriptから、スマホのGPSを利用する方法を紹介します。]]></description>
-			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>アップルが描く「世界最大」戦略とは（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/062000047/</link>
-			<description><![CDATA[　米アップルの「WWDC 2017」が閉幕し、向こう1年間のアップルプラットフォームに関する技術的な方向性と、今後どんなアプリを開発することが可能か、という議論が活発になっている。数の論理が通用する戦略が見え隠れする。]]></description>
+			<title>「光ファイバー通信の限界を超える」、東北大学の中沢教授（編集長インタビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/269807/051500042/</link>
+			<description><![CDATA[　スマートフォンやクラウドの利用が右肩上がりに増える中、光通信インフラには一層の性能向上が期待されている。研究開発の現場ではどんな技術革新が起こっているのか。30年以上にわたり光ファイバー通信の高度化に取り組んでいる東北大学の中沢教授に最新の成果と今後を聞いた。]]></description>
 			<pubDate>Wed, 21 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -294,6 +288,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101723/</link>
 			<description><![CDATA[　フィンランドNokia（ノキア）は2017年6月21日、デジタルヘルスに特化した製品群を日本で発売すると発表した。ノキアブランドのコンシューマ製品を国内展開するのは、2008年に同社が携帯端末事業から撤退して以来となる。]]></description>
 			<pubDate>Wed, 21 Jun 2017 17:46:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>サンワサプライ、遠隔操作できるネットワークカメラロボ「アボットライリー」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101724/</link>
+			<description><![CDATA[　サンワサプライは2017年6月21日、スマートフォンやタブレットを使って外出先から遠隔操作できる移動式ネットワークカメラ「アボットライリー」（型番：RB-RILEY）を同日発売したと発表した。離れた場所にいるペットや子ども、高齢者の見守りや夜間の防犯対策などを想定した。価格はオープン、予想実勢価格（税別）は3万1800円前後。]]></description>
+			<pubDate>Wed, 21 Jun 2017 17:59:56 +0900</pubDate>
+		</item>
+		<item>
+			<title>バッファロー、名刺より小さいポータブルSSD「SSD-PMU3A」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101725/</link>
+			<description><![CDATA[　バッファローは2017年6月21日、名刺・カードサイズより小さいコンパクトサイズの外付型ポータブルSSD「SSD-PMU3A」シリーズを6月中旬に発売すると発表した。希望小売価格（税別）は、容量120GBが1万5400円、240GBが2万3200円、480GBが4万4500円。]]></description>
+			<pubDate>Wed, 21 Jun 2017 18:01:10 +0900</pubDate>
 		</item>
 		<item>
 			<title>日本IBM、セキュリティ被害の初動対応を支援する「X-Force IRIS」サービス（ニュース）</title>
