@@ -5,93 +5,15 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：10.5インチの新iPad Pro、一瞬も迷わず購入を決めた（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/061700121/?d22</link>
-			<description><![CDATA[　マイナーチェンジを繰り返していた感が強かった9.7インチのiPadだが、ついに10.5インチへと画面サイズが大きくなった。今回は、一瞬も迷うことなく購入を決め、実機が手元に届いたので、その理由と第一印象をお伝えしよう。]]></description>
-			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>中核システムをAWSクラウドに全面移行、鍵は内製化（ケーススタディに学ぶ、クラウド活用最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000001/</link>
-			<description><![CDATA[　「定額の聴き放題サービスやハイレゾリューション（ハイレゾ）配信など、音楽配信サービスの需要は急速に変化している。もはや既存のオンプレミス環境では対応できない」――。音楽配信の国内大手、レコチョクの松嶋陽太 事業システム推進部長はこう話す。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ネットで集めたデータはAI学習に使えるか？（AIと倫理）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800199/062000008/</link>
-			<description><![CDATA[　「企業内でディープラーニング（深層学習）を手掛けようにも、現状は手足を縛られているような状態だ」――。2017年5月24日、愛知県で開催された人工知能学会全国大会の公開セッションで、質問に立った企業の技術者が切実な声を挙げた。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>友人はどこにいる？位置をリアルタイムに地図表示しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042400068/</link>
-			<description><![CDATA[　前々回、Firebaseについて、前回、スマートフォンで位置情報を扱う方法について紹介しました。今回は、位置情報をFirebaseで共有して、友人が自分の近くにいるかどうかリアルタイムに確認するサービスを作ってみましょう。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIで13.5字要約に挑むヤフトピ、過去10年分30万件を機械学習（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062000863/</link>
-			<description><![CDATA[　人工知能（AI）で記事を自動作成する取り組みが各所で始まっている。この分野で情報収集する過程で、興味深い話を聞いた。ヤフー（Yahoo! JAPAN）がニュースの「トピックス（ヤフトピ）」でAIの活用を試行しているというのだ。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>セキュリティ診断、稼働中のサービスを探す前にやること（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900003/</link>
-			<description><![CDATA[　公開サーバーへの攻撃は、サーバー上で稼働するサービスに対して行われる。この稼働サービスを洗い出すのがポートスキャンだ。ただし、事前調整なくポートスキャンを実施すると、大きなトラブルに発展する恐れがある。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>元貸金業のCEO、スマホを使って農業の可視化に挑む（出でよ！PeaceTechイノベーター）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200062/061600011/</link>
-			<description><![CDATA[　平和のためのテクノロジー利用である「PeaceTech」を体現している日本人経営者、6人目のゲストは北浦健伍氏だ。カンボジアに渡り、スマートフォンを使った農業の可視化に取り組んでいる。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>繰り返される悲劇、「1億円あげます」メールの罠（今日も誰かが狙われる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/061900005/</link>
-			<description><![CDATA[　また、痛ましい事件が起きてしまった。長崎新聞は2017年6月上旬、偽のメールを使った詐欺事件を報じた。「あなたに1億円が当たりました」というメールを受け取った人が、手数料などの名目で総額120万円以上をだまし取られたという。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>グランプリはファナック、第11回 IT Japan Award受賞企業が決定（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062001023/</link>
-			<description><![CDATA[　ITベンダーやベンチャー企業、ライバル企業も巻き込み、多種多様な工作機械や産業用ロボットを連携させるIoT（インターネット・オブ・シングズ）の標準プラットフォームを作る―。優れたIT 活用事例を表彰する「ITJapan Award 2017」（主催：日経コンピュータ）の受賞企業が決まり、グランプリにはIoTを活用して製造業のビジネスモデル変革に挑むファナックが輝いた。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>鉄道の故障をIoTで予知、米パロアルト研と手を組むJR東日本（攻めのIT経営銘柄2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/061900003/</link>
-			<description><![CDATA[　「線路のどの場所で、どんな車両が、どんな故障を起こすのか。保守作業員が経験として蓄積してきた知識が、IoT（Internet of Things）技術によって裏付けされる時代になった」――。東日本旅客鉄道（JR東日本）で技術企画部長を務める横山 淳氏はこう強調する。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>パクえの「え」はなぜひらがななのか（越境エンジニア列伝）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/062100013/</link>
 			<description><![CDATA[　今月取り上げるのは吉田雄哉氏。パブリッククラウドの伝道師「吉田パクえ」氏と言ったほうがピンとくる人は多いかもしれない。現在は日本マイクロソフトで「Microsoft Azure」の導入支援を手掛けている。今回は、オープンソースやクラウドと出会って日本マイクロソフトに入社するまでを聞いた。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Java SE 9の非同期処理ライブラリ、新概念の「Reactive Streams」を学ぶ（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/061900041/</link>
-			<description><![CDATA[　Java SE 9の新機能としてはあまり目立ってはいませんが、非同期処理ライブラリの「Concurrency Utilities」では、「Reactive Streams」という新しい概念が導入されています。今回はReactive Streamsによるストリームデータ処理の基本を学びます。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>個人間送金サービスがApple Payに与えるインパクト（Apple Pay最新事情）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600245/062000002/</link>
-			<description><![CDATA[　Apple Payでは現在、「NFCを使った対面決済」「アプリ経由のオンライン決済」「Webブラウザ経由のオンライン決済」という3つの機能が提供されている。。そして今回、2017年秋に提供されるiOS 11において、4つめの機能である「個人間（P2P）送金」の提供が始まる。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「IT部門は目利きもできない」、悪評に克つには技術で遊べ（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/061900087/</link>
-			<description><![CDATA[　今も昔も変わらないIT部門の役割に「技術の目利き」がある。だが世の中の変化や技術の進化により、目利きする技術の中身や用途、目利きにかけられる時間などが変わった。その結果、多くのIT部門が「技術の目利きもできないのか」と経営者の怒りを買う事態となっている。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>動かしてわかるSELinuxセキュリティの基本（IoT時代の最新SELinux入門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052500003/</link>
-			<description><![CDATA[　今回は、実際にLinuxディストリビューションを使ってSELinuxの動作を確認してみましょう。ここではRed Hat Enterprise Linux（RHEL）互換の「CentOS 7」を例に実践します。]]></description>
+			<title>次に来るネットワーク技術、Interopの受賞製品を分析（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061601020/</link>
+			<description><![CDATA[　2017年6月7日～9日に開催された「Interop Tokyo 2017」。出展企業各社の製品、サービスを表彰する「Best of Show Award」では、1年間に発売または発表された製品/サービスを対象に審査し、表彰する。受賞した中から注目の新製品/サービスを紹介していこう。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -102,9 +24,81 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>次に来るネットワーク技術、Interopの受賞製品を分析（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061601020/</link>
-			<description><![CDATA[　2017年6月7日～9日に開催された「Interop Tokyo 2017」。出展企業各社の製品、サービスを表彰する「Best of Show Award」では、1年間に発売または発表された製品/サービスを対象に審査し、表彰する。受賞した中から注目の新製品/サービスを紹介していこう。]]></description>
+			<title>動かしてわかるSELinuxセキュリティの基本（IoT時代の最新SELinux入門）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052500003/</link>
+			<description><![CDATA[　今回は、実際にLinuxディストリビューションを使ってSELinuxの動作を確認してみましょう。ここではRed Hat Enterprise Linux（RHEL）互換の「CentOS 7」を例に実践します。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「IT部門は目利きもできない」、悪評に克つには技術で遊べ（焦点を読む）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/061900087/</link>
+			<description><![CDATA[　今も昔も変わらないIT部門の役割に「技術の目利き」がある。だが世の中の変化や技術の進化により、目利きする技術の中身や用途、目利きにかけられる時間などが変わった。その結果、多くのIT部門が「技術の目利きもできないのか」と経営者の怒りを買う事態となっている。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>個人間送金サービスがApple Payに与えるインパクト（Apple Pay最新事情）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600245/062000002/</link>
+			<description><![CDATA[　Apple Payでは現在、「NFCを使った対面決済」「アプリ経由のオンライン決済」「Webブラウザ経由のオンライン決済」という3つの機能が提供されている。。そして今回、2017年秋に提供されるiOS 11において、4つめの機能である「個人間（P2P）送金」の提供が始まる。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Java SE 9の非同期処理ライブラリ、新概念の「Reactive Streams」を学ぶ（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/061900041/</link>
+			<description><![CDATA[　Java SE 9の新機能としてはあまり目立ってはいませんが、非同期処理ライブラリの「Concurrency Utilities」では、「Reactive Streams」という新しい概念が導入されています。今回はReactive Streamsによるストリームデータ処理の基本を学びます。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>鉄道の故障をIoTで予知、米パロアルト研と手を組むJR東日本（攻めのIT経営銘柄2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/061900003/</link>
+			<description><![CDATA[　「線路のどの場所で、どんな車両が、どんな故障を起こすのか。保守作業員が経験として蓄積してきた知識が、IoT（Internet of Things）技術によって裏付けされる時代になった」――。東日本旅客鉄道（JR東日本）で技術企画部長を務める横山 淳氏はこう強調する。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>グランプリはファナック、第11回 IT Japan Award受賞企業が決定（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062001023/</link>
+			<description><![CDATA[　ITベンダーやベンチャー企業、ライバル企業も巻き込み、多種多様な工作機械や産業用ロボットを連携させるIoT（インターネット・オブ・シングズ）の標準プラットフォームを作る―。優れたIT 活用事例を表彰する「ITJapan Award 2017」（主催：日経コンピュータ）の受賞企業が決まり、グランプリにはIoTを活用して製造業のビジネスモデル変革に挑むファナックが輝いた。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>繰り返される悲劇、「1億円あげます」メールの罠（今日も誰かが狙われる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/061900005/</link>
+			<description><![CDATA[　また、痛ましい事件が起きてしまった。長崎新聞は2017年6月上旬、偽のメールを使った詐欺事件を報じた。「あなたに1億円が当たりました」というメールを受け取った人が、手数料などの名目で総額120万円以上をだまし取られたという。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>元貸金業のCEO、スマホを使って農業の可視化に挑む（出でよ！PeaceTechイノベーター）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200062/061600011/</link>
+			<description><![CDATA[　平和のためのテクノロジー利用である「PeaceTech」を体現している日本人経営者、6人目のゲストは北浦健伍氏だ。カンボジアに渡り、スマートフォンを使った農業の可視化に取り組んでいる。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>セキュリティ診断、稼働中のサービスを探す前にやること（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900003/</link>
+			<description><![CDATA[　公開サーバーへの攻撃は、サーバー上で稼働するサービスに対して行われる。この稼働サービスを洗い出すのがポートスキャンだ。ただし、事前調整なくポートスキャンを実施すると、大きなトラブルに発展する恐れがある。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIで13.5字要約に挑むヤフトピ、過去10年分30万件を機械学習（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062000863/</link>
+			<description><![CDATA[　人工知能（AI）で記事を自動作成する取り組みが各所で始まっている。この分野で情報収集する過程で、興味深い話を聞いた。ヤフー（Yahoo! JAPAN）がニュースの「トピックス（ヤフトピ）」でAIの活用を試行しているというのだ。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ネットで集めたデータはAI学習に使えるか？（AIと倫理）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800199/062000008/</link>
+			<description><![CDATA[　「企業内でディープラーニング（深層学習）を手掛けようにも、現状は手足を縛られているような状態だ」――。2017年5月24日、愛知県で開催された人工知能学会全国大会の公開セッションで、質問に立った企業の技術者が切実な声を挙げた。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>中核システムをAWSクラウドに全面移行、鍵は内製化（ケーススタディに学ぶ、クラウド活用最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000001/</link>
+			<description><![CDATA[　「定額の聴き放題サービスやハイレゾリューション（ハイレゾ）配信など、音楽配信サービスの需要は急速に変化している。もはや既存のオンプレミス環境では対応できない」――。音楽配信の国内大手、レコチョクの松嶋陽太 事業システム推進部長はこう話す。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>友人はどこにいる？位置をリアルタイムに地図表示しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042400068/</link>
+			<description><![CDATA[　前々回、Firebaseについて、前回、スマートフォンで位置情報を扱う方法について紹介しました。今回は、位置情報をFirebaseで共有して、友人が自分の近くにいるかどうかリアルタイムに確認するサービスを作ってみましょう。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -269,6 +263,90 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201744/</link>
 			<description><![CDATA[　メルカリは2017年6月22日、日本および米国のWeb版メルカリで、一部のユーザーの個人情報が他のユーザーから閲覧できる状態になっていたと発表した。]]></description>
 			<pubDate>Thu, 22 Jun 2017 22:16:19 +0900</pubDate>
+		</item>
+		<item>
+			<title>格安SIMのエンタメ系カウントフリーを先行試用してすごく気になったこと（青木恵美の信州ITラプソディ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/062200032/</link>
+			<description><![CDATA[　先日この連載で、エンタメ系のカウントフリーオプションを備えたMVNOサービス「LinksMate」を紹介した。サービス発表直後に開始した「先行申し込み」に応募したところSIMを入手できたので、使い心地や速度などをファーストインプレッションしてお伝えしたい。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>空飛ぶクルマの衝突事故、先進ITを生かしたバス会社の危機対応力（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062201025/</link>
+			<description><![CDATA[　バス運転手の目の前に、突如として飛び込む乗用車―――。多くのテレビ視聴者を釘付けにしたこの映像を、NHKは事故のわずか4時間半後に報道した。映像はバスの運行会社が提供したものだった。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本ではタブーな話題？AIの軍事利用（AIと倫理）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800199/062100009/</link>
+			<description><![CDATA[　人工知能（AI）と倫理を語る際、世界で頻繁に議論される一方、日本ではほとんど話題にならないテーマがある。AIを含む自律型システム（autonomous systems）の軍事利用という問題だ。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>賃貸住宅をIoT化、学習リモコンで利便性向上（攻めのIT経営銘柄2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/062100005/</link>
+			<description><![CDATA[　アパートの賃貸事業を手掛けるレオパレス21が、IoT（インターネット・オブ・シングズ）の活用に力を入れている。「テクノロジーを使って物件の付加価値を高め、他社と差異化する」。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>LINEはフェイスブックを追いかけている（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061900860/</link>
+			<description><![CDATA[　「LINEは米フェイスブックの後を追いかけている」――。2017年6月15日、LINE の年次イベント「LINE CONFERENCE 2017」を取材してそう強く感じた。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>グーグルが弱点克服、企業向けクラウドで追撃（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062101024/</link>
+			<description><![CDATA[　グーグル日本法人は2017年6月14～15日、Googleのクラウドサービスをテーマにしたイベントを開催。来日した米GoogleでGoogle Cloud シニア バイス プレジデントを務めるダイアン・グリーン氏は、日本市場向けのビジネスが好調に推移していることを説明した。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>トップ主導で「手作りIoT」、カイゼンに生かし2億円節約（ケーススタディに学ぶ、クラウド活用最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000002/</link>
+			<description><![CDATA[　「製造時間がいつもより3秒長い。何かあったのか」。経営トップが出張先から工場の担当者に電話で尋ねる。担当者が装置を確認したところ、通常は部品を作るのに39秒かかるところ、42秒になっている。すぐに対応し、事なきを得た。不具合に気づかずに製造を続けていたら、装置がストップしていたかもしれない──。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>セールストークが歓迎されてしまうのが日本のクラウドの現状（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/062200014/</link>
+			<description><![CDATA[　今月取り上げるのは吉田雄哉氏。パブリッククラウドの伝道師「吉田パクえ」氏と言ったほうがピンとくる人は多いかもしれない。現在は日本マイクロソフトで「Microsoft Azure」の導入支援を手掛けている。最終回の今回は、日本のクラウドユーザーの悩みやクラウドに対する思いなどについて聞いた。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>NFC開放から占うApple Payの未来（Apple Pay最新事情）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600245/062100003/</link>
+			<description><![CDATA[　WWDC17におけるApple Payの最大の話題は、新機能「個人間（P2P）送金」の提供だった。一方でiOSエコノミーの開発者らの間では、iOS 11で初めて「NFC（Near Field Communication）」機能の開放が行われて大きな話題になっている。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>稼働中ソフトの推定から脆弱性スキャンまで、Nmapを使ったセキュリティ診断（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900004/</link>
+			<description><![CDATA[　定番の「Nmap」を使って、セキュリティ診断対象のサーバーのポートスキャンを実施する。オープンポートを見つけ出し、不要なポートは閉じてしまおう。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ほぼ全面ディスプレイのGalaxy S8＋、実はスリムで持ちやすい（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/061300058/</link>
+			<description><![CDATA[　NTTドコモとauから注目のスマートフォン新製品が発売されました。サムスン電子のGalaxy S8とGalaxy S8＋です。ハイエンド機種であるため性能の高さも気になりますが、最大の見どころはほぼ全面ディスプレイのデザインでしょう。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>話題のSTEM教育をラズパイで！科学を学べる「Pi-Top OS」（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/061900012/</link>
+			<description><![CDATA[　4000円台の手のひらPC「Raspberry Pi（ラズパイ）」で、プログラミング言語のPythonや電子工作の基本などを学ぶ用途に特化したのが英シードの「pi-topOS」です。いわゆるSTEM教育用のコンテンツを搭載しているのが特徴で、ラズパイユーザーであれば無償で利用できます。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ロジクール、至高の新マウス　むしろアプリがすごかった（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062000320/</link>
+			<description><![CDATA[　ユーザー視点の辛口評価で好評の戸田覚氏が、ロジクールの高性能マウス「MX MASTER 2S」をレビューする。従来モデルからのマイナーチェンジにとどまるが、専用アプリの新機能に戸田氏は大感激！]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソニーはなぜ「新・電子ペーパー端末」を作ったのか？（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062000321/</link>
+			<description><![CDATA[　ソニーが新しく電子ペーパー端末「DPT-RP1」を発売した。手書き対応タブレットが普及するなかでなぜ発売したのか？真意を探った。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
