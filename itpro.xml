@@ -11,18 +11,6 @@
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ホンダの狭山工場、WannaCry感染で1000台生産できず（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101717/</link>
-			<description><![CDATA[　ホンダは2017年6月21日、世界の複数拠点がランサムウエア「WannaCry」に感染した影響で、狭山工場（埼玉県狭山市）で自動車1000台が生産できなかったと明らかにした。その他の感染拠点での影響は調査中という。]]></description>
-			<pubDate>Wed, 21 Jun 2017 12:54:22 +0900</pubDate>
-		</item>
-		<item>
-			<title>「地道なコスト抑制」、Cloud Days 九州でTOTOがクラウド全面移行のポイントを披露（Cloud Days 2017レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900220/062100022/</link>
-			<description><![CDATA[　2017年6月21日、ICTの総合展である「Cloud Days 九州 2017」（福岡国際会議場）の講演で、TOTOのクラウドへの全面移行の理由、移行で得られた効果や移行のポイントについて明らかにされた。]]></description>
-			<pubDate>Wed, 21 Jun 2017 13:37:14 +0900</pubDate>
-		</item>
-		<item>
 			<title>SBSホールディングスのシステム障害、ランサムウエアに感染するも現在は復旧（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101719/</link>
 			<description><![CDATA[　SBSホールディングスは2017年6月21日、前日の20日から発生していたシステム障害が21日の午前中にほぼ復旧したと発表した。]]></description>
@@ -95,15 +83,28 @@
 			<pubDate>Wed, 21 Jun 2017 21:35:45 +0900</pubDate>
 		</item>
 		<item>
-			<title>動かしてわかるSELinuxセキュリティの基本（IoT時代の最新SELinux入門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052500003/</link>
-			<description><![CDATA[　今回は、実際にLinuxディストリビューションを使ってSELinuxの動作を確認してみましょう。ここではRed Hat Enterprise Linux（RHEL）互換の「CentOS 7」を例に実践します。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>友人はどこにいる？位置をリアルタイムに地図表示しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042400068/</link>
 			<description><![CDATA[　前々回、Firebaseについて、前回、スマートフォンで位置情報を扱う方法について紹介しました。今回は、位置情報をFirebaseで共有して、友人が自分の近くにいるかどうかリアルタイムに確認するサービスを作ってみましょう。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「IT部門は目利きもできない」、悪評に克つには技術で遊べ（焦点を読む）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/061900087/</link>
+			<description><![CDATA[　今も昔も変わらないIT部門の役割に「技術の目利き」がある。だが世の中の変化や技術の進化により、目利きする技術の中身や用途、目利きにかけられる時間などが変わった。その結果、多くのIT部門が「技術の目利きもできないのか」と経営者の怒りを買う事態となっている。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>繰り返される悲劇、「1億円あげます」メールの罠（今日も誰かが狙われる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/061900005/</link>
+			<description><![CDATA[　また、痛ましい事件が起きてしまった。長崎新聞は2017年6月上旬、偽のメールを使った詐欺事件を報じた。「あなたに1億円が当たりました」というメールを受け取った人が、手数料などの名目で総額120万円以上をだまし取られたという。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>変数の型は入力値で決まる、環境変数も簡単に操作（安納順一のPowerShell Tips）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800006/</link>
+			<description><![CDATA[　変数と環境変数の使い方を覚えよう。PowerShellでは変数の型は入力した値で決まるので、宣言する必要がない。WindowsなどのOSの環境変数を、通常の変数と同じように操作できるのも特徴だ。
+]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -173,22 +174,9 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>繰り返される悲劇、「1億円あげます」メールの罠（今日も誰かが狙われる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/061900005/</link>
-			<description><![CDATA[　また、痛ましい事件が起きてしまった。長崎新聞は2017年6月上旬、偽のメールを使った詐欺事件を報じた。「あなたに1億円が当たりました」というメールを受け取った人が、手数料などの名目で総額120万円以上をだまし取られたという。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「IT部門は目利きもできない」、悪評に克つには技術で遊べ（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/061900087/</link>
-			<description><![CDATA[　今も昔も変わらないIT部門の役割に「技術の目利き」がある。だが世の中の変化や技術の進化により、目利きする技術の中身や用途、目利きにかけられる時間などが変わった。その結果、多くのIT部門が「技術の目利きもできないのか」と経営者の怒りを買う事態となっている。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>変数の型は入力値で決まる、環境変数も簡単に操作（安納順一のPowerShell Tips）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800006/</link>
-			<description><![CDATA[　変数と環境変数の使い方を覚えよう。PowerShellでは変数の型は入力した値で決まるので、宣言する必要がない。WindowsなどのOSの環境変数を、通常の変数と同じように操作できるのも特徴だ。
-]]></description>
+			<title>動かしてわかるSELinuxセキュリティの基本（IoT時代の最新SELinux入門）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052500003/</link>
+			<description><![CDATA[　今回は、実際にLinuxディストリビューションを使ってSELinuxの動作を確認してみましょう。ここではRed Hat Enterprise Linux（RHEL）互換の「CentOS 7」を例に実践します。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -227,6 +215,54 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900220/062100023/</link>
 			<description><![CDATA[　ICTの総合展である「Cloud Days九州」に、福岡県、北九州市、福岡市の地方版IoT推進ラボ担当者が登壇し、それぞれの取り組み状況や課題について議論した。]]></description>
 			<pubDate>Thu, 22 Jun 2017 06:01:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IntelがオリンピックのTOPスポンサーに、VRや5G技術などに注力（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201730/</link>
+			<description><![CDATA[　米Intelと国際オリンピック委員会（IOC）は現地時間2017年6月21日、長期的パートナー契約を結んだと発表した。IntelはIOCのスポンサーシッププログラム「The Olympic Partner（TOP）」に加わり、2020年の東京オリンピック競技大会を含む2024年まで最高位スポンサーを務める。]]></description>
+			<pubDate>Thu, 22 Jun 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>EU、ドローン飛行の安全性を確立する枠組みの青写真を公開（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062200385/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　欧州連合（EU）の欧州委員会（EC）は、欧州の空域で軽量ドローンの自律飛行を円滑に行えるようにすることを目指している。ロジスティクス、検査、農業などを手がける企業が恩恵を受けることになりそうだ。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062200385/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Peter Sayer</div>
+</div>
+<p>
+　ECは現地時間2017年6月16日、低空を飛ぶドローンの航行の安全性を高めるための枠組みである<a href="https://www.sesarju.eu/u-space-blueprint" target="_blank">「U-space」の青写真</a>を発表した。高度150メートル以下の空域でのドローン飛行に対して、EU全体で統一的に適用する規則を定める枠組みだ。
+</p>
+<p>
+　規則がシンプルになることは、仏エネルギー大手Engieのような多国籍企業にとっては歓迎だ。Engieは、パイプラインや建造物の検査を担うドローンや、高電圧の架空送電線の絶縁体である碍子（がいし）を洗浄するためのドローンの開発を進めている。
+</p>
+<p>
+　現在、フランス・パリのル・ブルジェでは、パリ航空ショーが開催されている。このショーの出展企業をはじめとする各社にとっても、EUで統一的な規則が定められることは、ドローンや関連サービスの開発をシンプルにする道筋となるはずだ。
+</p>
+<p>
+　ドローンの航空交通管理の自動化に向けた一環として、ECは2019年までに、ドローンとその運航元の登録制度と、ドローンの電子的識別の制度を導入する計画だ。また、ジオフェンシングも導入し、ドローンが自動回避しなくてはならない規制区域を登録したデータベースを構築する意向だ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062200385/?ST=cm-industries&P=2">U-spaceが定める規則は、現在のパッチワーク的な各国の規則に...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062200385/?ST=cm-industries&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062200385/?ST=cm-industries&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062200385/?ST=cm-industries&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062200385/?ST=cm-industries&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 22 Jun 2017 10:25:34 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
