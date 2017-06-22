@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：10.5インチの新iPad Pro、一瞬も迷わず購入を決めた（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/061700121/?d22</link>
-			<description><![CDATA[　マイナーチェンジを繰り返していた感が強かった9.7インチのiPadだが、ついに10.5インチへと画面サイズが大きくなった。今回は、一瞬も迷うことなく購入を決め、実機が手元に届いたので、その理由と第一印象をお伝えしよう。]]></description>
-			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>SBSホールディングスのシステム障害、ランサムウエアに感染するも現在は復旧（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101719/</link>
-			<description><![CDATA[　SBSホールディングスは2017年6月21日、前日の20日から発生していたシステム障害が21日の午前中にほぼ復旧したと発表した。]]></description>
-			<pubDate>Wed, 21 Jun 2017 15:18:32 +0900</pubDate>
-		</item>
-		<item>
 			<title>マックの障害が復旧、マルウエアの正体は「解析中」（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101720/</link>
 			<description><![CDATA[　日本マクドナルドは2017年6月21日、店舗システムで発生した障害が復旧したと発表した。障害の原因とみられるマルウエアについては、解析が完了していないため継続して解析を進める。]]></description>
@@ -83,15 +71,21 @@
 			<pubDate>Wed, 21 Jun 2017 21:35:45 +0900</pubDate>
 		</item>
 		<item>
+			<title>「IT部門は目利きもできない」、悪評に克つには技術で遊べ（焦点を読む）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/061900087/</link>
+			<description><![CDATA[　今も昔も変わらないIT部門の役割に「技術の目利き」がある。だが世の中の変化や技術の進化により、目利きする技術の中身や用途、目利きにかけられる時間などが変わった。その結果、多くのIT部門が「技術の目利きもできないのか」と経営者の怒りを買う事態となっている。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>友人はどこにいる？位置をリアルタイムに地図表示しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042400068/</link>
 			<description><![CDATA[　前々回、Firebaseについて、前回、スマートフォンで位置情報を扱う方法について紹介しました。今回は、位置情報をFirebaseで共有して、友人が自分の近くにいるかどうかリアルタイムに確認するサービスを作ってみましょう。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「IT部門は目利きもできない」、悪評に克つには技術で遊べ（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/061900087/</link>
-			<description><![CDATA[　今も昔も変わらないIT部門の役割に「技術の目利き」がある。だが世の中の変化や技術の進化により、目利きする技術の中身や用途、目利きにかけられる時間などが変わった。その結果、多くのIT部門が「技術の目利きもできないのか」と経営者の怒りを買う事態となっている。]]></description>
+			<title>Java SE 9の非同期処理ライブラリ、新概念の「Reactive Streams」を学ぶ（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/061900041/</link>
+			<description><![CDATA[　Java SE 9の新機能としてはあまり目立ってはいませんが、非同期処理ライブラリの「Concurrency Utilities」では、「Reactive Streams」という新しい概念が導入されています。今回はReactive Streamsによるストリームデータ処理の基本を学びます。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,16 +95,15 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>変数の型は入力値で決まる、環境変数も簡単に操作（安納順一のPowerShell Tips）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800006/</link>
-			<description><![CDATA[　変数と環境変数の使い方を覚えよう。PowerShellでは変数の型は入力した値で決まるので、宣言する必要がない。WindowsなどのOSの環境変数を、通常の変数と同じように操作できるのも特徴だ。
-]]></description>
+			<title>元貸金業のCEO、スマホを使って農業の可視化に挑む（出でよ！PeaceTechイノベーター）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200062/061600011/</link>
+			<description><![CDATA[　平和のためのテクノロジー利用である「PeaceTech」を体現している日本人経営者、6人目のゲストは北浦健伍氏だ。カンボジアに渡り、スマートフォンを使った農業の可視化に取り組んでいる。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Java SE 9の非同期処理ライブラリ、新概念の「Reactive Streams」を学ぶ（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/061900041/</link>
-			<description><![CDATA[　Java SE 9の新機能としてはあまり目立ってはいませんが、非同期処理ライブラリの「Concurrency Utilities」では、「Reactive Streams」という新しい概念が導入されています。今回はReactive Streamsによるストリームデータ処理の基本を学びます。]]></description>
+			<title>動かしてわかるSELinuxセキュリティの基本（IoT時代の最新SELinux入門）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052500003/</link>
+			<description><![CDATA[　今回は、実際にLinuxディストリビューションを使ってSELinuxの動作を確認してみましょう。ここではRed Hat Enterprise Linux（RHEL）互換の「CentOS 7」を例に実践します。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -168,15 +161,10 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>元貸金業のCEO、スマホを使って農業の可視化に挑む（出でよ！PeaceTechイノベーター）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200062/061600011/</link>
-			<description><![CDATA[　平和のためのテクノロジー利用である「PeaceTech」を体現している日本人経営者、6人目のゲストは北浦健伍氏だ。カンボジアに渡り、スマートフォンを使った農業の可視化に取り組んでいる。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>動かしてわかるSELinuxセキュリティの基本（IoT時代の最新SELinux入門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052500003/</link>
-			<description><![CDATA[　今回は、実際にLinuxディストリビューションを使ってSELinuxの動作を確認してみましょう。ここではRed Hat Enterprise Linux（RHEL）互換の「CentOS 7」を例に実践します。]]></description>
+			<title>変数の型は入力値で決まる、環境変数も簡単に操作（安納順一のPowerShell Tips）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800006/</link>
+			<description><![CDATA[　変数と環境変数の使い方を覚えよう。PowerShellでは変数の型は入力した値で決まるので、宣言する必要がない。WindowsなどのOSの環境変数を、通常の変数と同じように操作できるのも特徴だ。
+]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -263,6 +251,12 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 22 Jun 2017 10:25:34 +0900</pubDate>
+		</item>
+		<item>
+			<title>ウエアラブル機器の世界市場、2021年の市場規模は今年のほぼ2倍に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201731/</link>
+			<description><![CDATA[　米IDCが現地時間2017年3月20日に公表した世界のウエアラブル機器市場に関するリポートによると、今年（2017年）における世界出荷台数は前年の1億430万台から20.4％増加し、1億2550万台となる見通し。 これが今後5年間、年平均18.2％の成長率で伸び、2021年には今年のほぼ2倍となる2億4010万台に達すると、同社は見ている。]]></description>
+			<pubDate>Thu, 22 Jun 2017 11:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
