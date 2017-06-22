@@ -11,18 +11,6 @@
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>サンワサプライ、遠隔操作できるネットワークカメラロボ「アボットライリー」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101724/</link>
-			<description><![CDATA[　サンワサプライは2017年6月21日、スマートフォンやタブレットを使って外出先から遠隔操作できる移動式ネットワークカメラ「アボットライリー」（型番：RB-RILEY）を同日発売したと発表した。離れた場所にいるペットや子ども、高齢者の見守りや夜間の防犯対策などを想定した。価格はオープン、予想実勢価格（税別）は3万1800円前後。]]></description>
-			<pubDate>Wed, 21 Jun 2017 17:59:56 +0900</pubDate>
-		</item>
-		<item>
-			<title>バッファロー、名刺より小さいポータブルSSD「SSD-PMU3A」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101725/</link>
-			<description><![CDATA[　バッファローは2017年6月21日、名刺・カードサイズより小さいコンパクトサイズの外付型ポータブルSSD「SSD-PMU3A」シリーズを6月中旬に発売すると発表した。希望小売価格（税別）は、容量120GBが1万5400円、240GBが2万3200円、480GBが4万4500円。]]></description>
-			<pubDate>Wed, 21 Jun 2017 18:01:10 +0900</pubDate>
-		</item>
-		<item>
 			<title>日本IBM、セキュリティ被害の初動対応を支援する「X-Force IRIS」サービス（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101726/</link>
 			<description><![CDATA[　日本IBMは2017年6月21日、企業のセキュリティ対策を支援する「IBM X-Force IRIS」サービスの国内提供を開始した。マルウエア感染や情報漏洩といったインシデント（事故）発生の初動対応を、事前・事後の両面で専門家が支援する。]]></description>
@@ -47,6 +35,18 @@
 			<pubDate>Wed, 21 Jun 2017 21:35:45 +0900</pubDate>
 		</item>
 		<item>
+			<title>元貸金業のCEO、スマホを使って農業の可視化に挑む（出でよ！PeaceTechイノベーター）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200062/061600011/</link>
+			<description><![CDATA[　平和のためのテクノロジー利用である「PeaceTech」を体現している日本人経営者、6人目のゲストは北浦健伍氏だ。カンボジアに渡り、スマートフォンを使った農業の可視化に取り組んでいる。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>繰り返される悲劇、「1億円あげます」メールの罠（今日も誰かが狙われる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/061900005/</link>
+			<description><![CDATA[　また、痛ましい事件が起きてしまった。長崎新聞は2017年6月上旬、偽のメールを使った詐欺事件を報じた。「あなたに1億円が当たりました」というメールを受け取った人が、手数料などの名目で総額120万円以上をだまし取られたという。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>中核システムをAWSクラウドに全面移行、鍵は内製化（ケーススタディに学ぶ、クラウド活用最前線）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000001/</link>
 			<description><![CDATA[　「定額の聴き放題サービスやハイレゾリューション（ハイレゾ）配信など、音楽配信サービスの需要は急速に変化している。もはや既存のオンプレミス環境では対応できない」――。音楽配信の国内大手、レコチョクの松嶋陽太 事業システム推進部長はこう話す。]]></description>
@@ -65,9 +65,9 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>元貸金業のCEO、スマホを使って農業の可視化に挑む（出でよ！PeaceTechイノベーター）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200062/061600011/</link>
-			<description><![CDATA[　平和のためのテクノロジー利用である「PeaceTech」を体現している日本人経営者、6人目のゲストは北浦健伍氏だ。カンボジアに渡り、スマートフォンを使った農業の可視化に取り組んでいる。]]></description>
+			<title>Java SE 9の非同期処理ライブラリ、新概念の「Reactive Streams」を学ぶ（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/061900041/</link>
+			<description><![CDATA[　Java SE 9の新機能としてはあまり目立ってはいませんが、非同期処理ライブラリの「Concurrency Utilities」では、「Reactive Streams」という新しい概念が導入されています。今回はReactive Streamsによるストリームデータ処理の基本を学びます。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>セキュリティ診断、稼働中のサービスを探す前にやること（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900003/</link>
-			<description><![CDATA[　公開サーバーへの攻撃は、サーバー上で稼働するサービスに対して行われる。この稼働サービスを洗い出すのがポートスキャンだ。ただし、事前調整なくポートスキャンを実施すると、大きなトラブルに発展する恐れがある。]]></description>
+			<title>グランプリはファナック、第11回 IT Japan Award受賞企業が決定（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062001023/</link>
+			<description><![CDATA[　ITベンダーやベンチャー企業、ライバル企業も巻き込み、多種多様な工作機械や産業用ロボットを連携させるIoT（インターネット・オブ・シングズ）の標準プラットフォームを作る―。優れたIT 活用事例を表彰する「ITJapan Award 2017」（主催：日経コンピュータ）の受賞企業が決まり、グランプリにはIoTを活用して製造業のビジネスモデル変革に挑むファナックが輝いた。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Java SE 9の非同期処理ライブラリ、新概念の「Reactive Streams」を学ぶ（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/061900041/</link>
-			<description><![CDATA[　Java SE 9の新機能としてはあまり目立ってはいませんが、非同期処理ライブラリの「Concurrency Utilities」では、「Reactive Streams」という新しい概念が導入されています。今回はReactive Streamsによるストリームデータ処理の基本を学びます。]]></description>
+			<title>AIで13.5字要約に挑むヤフトピ、過去10年分30万件を機械学習（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062000863/</link>
+			<description><![CDATA[　人工知能（AI）で記事を自動作成する取り組みが各所で始まっている。この分野で情報収集する過程で、興味深い話を聞いた。ヤフー（Yahoo! JAPAN）がニュースの「トピックス（ヤフトピ）」でAIの活用を試行しているというのだ。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -126,21 +126,9 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>グランプリはファナック、第11回 IT Japan Award受賞企業が決定（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062001023/</link>
-			<description><![CDATA[　ITベンダーやベンチャー企業、ライバル企業も巻き込み、多種多様な工作機械や産業用ロボットを連携させるIoT（インターネット・オブ・シングズ）の標準プラットフォームを作る―。優れたIT 活用事例を表彰する「ITJapan Award 2017」（主催：日経コンピュータ）の受賞企業が決まり、グランプリにはIoTを活用して製造業のビジネスモデル変革に挑むファナックが輝いた。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIで13.5字要約に挑むヤフトピ、過去10年分30万件を機械学習（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062000863/</link>
-			<description><![CDATA[　人工知能（AI）で記事を自動作成する取り組みが各所で始まっている。この分野で情報収集する過程で、興味深い話を聞いた。ヤフー（Yahoo! JAPAN）がニュースの「トピックス（ヤフトピ）」でAIの活用を試行しているというのだ。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>繰り返される悲劇、「1億円あげます」メールの罠（今日も誰かが狙われる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/061900005/</link>
-			<description><![CDATA[　また、痛ましい事件が起きてしまった。長崎新聞は2017年6月上旬、偽のメールを使った詐欺事件を報じた。「あなたに1億円が当たりました」というメールを受け取った人が、手数料などの名目で総額120万円以上をだまし取られたという。]]></description>
+			<title>セキュリティ診断、稼働中のサービスを探す前にやること（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900003/</link>
+			<description><![CDATA[　公開サーバーへの攻撃は、サーバー上で稼働するサービスに対して行われる。この稼働サービスを洗い出すのがポートスキャンだ。ただし、事前調整なくポートスキャンを実施すると、大きなトラブルに発展する恐れがある。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -259,10 +247,22 @@
 			<pubDate>Thu, 22 Jun 2017 17:32:15 +0900</pubDate>
 		</item>
 		<item>
+			<title>スカパーJSATがダブルチューナー搭載4K放送受信機を7月20日に販売開始（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201739/</link>
+			<description><![CDATA[　スカパーJSATは2017年6月22日、現在スカパー！プレミアムサービスで展開している三つの4K放送チャンネルに対応する放送受信機の新機種である「TZ-WR4KP（パナソニック製）」の販売およびレンタルの受け付けを7月20日に開始すると発表した。]]></description>
+			<pubDate>Thu, 22 Jun 2017 18:17:02 +0900</pubDate>
+		</item>
+		<item>
 			<title>デルEMCがスケールアウトNAS「Isilon」新版、IOPS12倍など性能向上（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201740/</link>
 			<description><![CDATA[　デルとEMCジャパンは2017年6月21日、スケールアウト型NASストレージ「Isilon」の新版の出荷を始めた。既存製品やクラウドと組み合わせて一つのNASストレージのように使える。]]></description>
 			<pubDate>Thu, 22 Jun 2017 18:24:20 +0900</pubDate>
+		</item>
+		<item>
+			<title>警察庁がWannaCry亜種のレポート公開、感染に気付かず拡大の恐れ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201741/</link>
+			<description><![CDATA[　警察庁は2017年6月22日、ランサムウエア「WannaCry」のレポートを公開した。2017年6月初旬以降に発生した感染被害の多数がファイルを暗号化しないWannaCryの亜種によるものだった。]]></description>
+			<pubDate>Thu, 22 Jun 2017 19:25:29 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
