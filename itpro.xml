@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>元貸金業のCEO、スマホを使って農業の可視化に挑む（出でよ！PeaceTechイノベーター）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200062/061600011/</link>
+			<description><![CDATA[　平和のためのテクノロジー利用である「PeaceTech」を体現している日本人経営者、6人目のゲストは北浦健伍氏だ。カンボジアに渡り、スマートフォンを使った農業の可視化に取り組んでいる。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>パクえの「え」はなぜひらがななのか（越境エンジニア列伝）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/062100013/</link>
 			<description><![CDATA[　今月取り上げるのは吉田雄哉氏。パブリッククラウドの伝道師「吉田パクえ」氏と言ったほうがピンとくる人は多いかもしれない。現在は日本マイクロソフトで「Microsoft Azure」の導入支援を手掛けている。今回は、オープンソースやクラウドと出会って日本マイクロソフトに入社するまでを聞いた。]]></description>
@@ -60,15 +66,15 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>繰り返される悲劇、「1億円あげます」メールの罠（今日も誰かが狙われる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/061900005/</link>
-			<description><![CDATA[　また、痛ましい事件が起きてしまった。長崎新聞は2017年6月上旬、偽のメールを使った詐欺事件を報じた。「あなたに1億円が当たりました」というメールを受け取った人が、手数料などの名目で総額120万円以上をだまし取られたという。]]></description>
+			<title>中核システムをAWSクラウドに全面移行、鍵は内製化（ケーススタディに学ぶ、クラウド活用最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000001/</link>
+			<description><![CDATA[　「定額の聴き放題サービスやハイレゾリューション（ハイレゾ）配信など、音楽配信サービスの需要は急速に変化している。もはや既存のオンプレミス環境では対応できない」――。音楽配信の国内大手、レコチョクの松嶋陽太 事業システム推進部長はこう話す。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>元貸金業のCEO、スマホを使って農業の可視化に挑む（出でよ！PeaceTechイノベーター）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200062/061600011/</link>
-			<description><![CDATA[　平和のためのテクノロジー利用である「PeaceTech」を体現している日本人経営者、6人目のゲストは北浦健伍氏だ。カンボジアに渡り、スマートフォンを使った農業の可視化に取り組んでいる。]]></description>
+			<title>友人はどこにいる？位置をリアルタイムに地図表示しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042400068/</link>
+			<description><![CDATA[　前々回、Firebaseについて、前回、スマートフォンで位置情報を扱う方法について紹介しました。今回は、位置情報をFirebaseで共有して、友人が自分の近くにいるかどうかリアルタイムに確認するサービスを作ってみましょう。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -90,15 +96,9 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>中核システムをAWSクラウドに全面移行、鍵は内製化（ケーススタディに学ぶ、クラウド活用最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000001/</link>
-			<description><![CDATA[　「定額の聴き放題サービスやハイレゾリューション（ハイレゾ）配信など、音楽配信サービスの需要は急速に変化している。もはや既存のオンプレミス環境では対応できない」――。音楽配信の国内大手、レコチョクの松嶋陽太 事業システム推進部長はこう話す。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>友人はどこにいる？位置をリアルタイムに地図表示しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042400068/</link>
-			<description><![CDATA[　前々回、Firebaseについて、前回、スマートフォンで位置情報を扱う方法について紹介しました。今回は、位置情報をFirebaseで共有して、友人が自分の近くにいるかどうかリアルタイムに確認するサービスを作ってみましょう。]]></description>
+			<title>繰り返される悲劇、「1億円あげます」メールの罠（今日も誰かが狙われる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/061900005/</link>
+			<description><![CDATA[　また、痛ましい事件が起きてしまった。長崎新聞は2017年6月上旬、偽のメールを使った詐欺事件を報じた。「あなたに1億円が当たりました」というメールを受け取った人が、手数料などの名目で総額120万円以上をだまし取られたという。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -265,15 +265,21 @@
 			<pubDate>Thu, 22 Jun 2017 22:16:19 +0900</pubDate>
 		</item>
 		<item>
+			<title>空飛ぶクルマの衝突事故、先進ITを生かしたバス会社の危機対応力（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062201025/</link>
+			<description><![CDATA[　バス運転手の目の前に、突如として飛び込む乗用車―――。多くのテレビ視聴者を釘付けにしたこの映像を、NHKは事故のわずか4時間半後に報道した。映像はバスの運行会社が提供したものだった。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>格安SIMのエンタメ系カウントフリーを先行試用してすごく気になったこと（青木恵美の信州ITラプソディ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/062200032/</link>
 			<description><![CDATA[　先日この連載で、エンタメ系のカウントフリーオプションを備えたMVNOサービス「LinksMate」を紹介した。サービス発表直後に開始した「先行申し込み」に応募したところSIMを入手できたので、使い心地や速度などをファーストインプレッションしてお伝えしたい。]]></description>
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>空飛ぶクルマの衝突事故、先進ITを生かしたバス会社の危機対応力（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062201025/</link>
-			<description><![CDATA[　バス運転手の目の前に、突如として飛び込む乗用車―――。多くのテレビ視聴者を釘付けにしたこの映像を、NHKは事故のわずか4時間半後に報道した。映像はバスの運行会社が提供したものだった。]]></description>
+			<title>ロジクール、至高の新マウス　むしろアプリがすごかった（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062000320/</link>
+			<description><![CDATA[　ユーザー視点の辛口評価で好評の戸田覚氏が、ロジクールの高性能マウス「MX MASTER 2S」をレビューする。従来モデルからのマイナーチェンジにとどまるが、専用アプリの新機能に戸田氏は大感激！]]></description>
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -337,16 +343,45 @@
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ロジクール、至高の新マウス　むしろアプリがすごかった（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062000320/</link>
-			<description><![CDATA[　ユーザー視点の辛口評価で好評の戸田覚氏が、ロジクールの高性能マウス「MX MASTER 2S」をレビューする。従来モデルからのマイナーチェンジにとどまるが、専用アプリの新機能に戸田氏は大感激！]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ソニーはなぜ「新・電子ペーパー端末」を作ったのか？（週末スペシャル）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062000321/</link>
 			<description><![CDATA[　ソニーが新しく電子ペーパー端末「DPT-RP1」を発売した。手書き対応タブレットが普及するなかでなぜ発売したのか？真意を探った。]]></description>
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>チップに対するハッキングが今後増える6つの理由（下）（チップに対するハッキングが今後増える6つの理由）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　米Intelのファームウエアで脆弱性が発見されたという発表が2017年5月初めにあった。筆者はこの一件を聞いて、数カ月前から記事で取り上げたいと考えていた話を思い出した。一言で言えば、チップやファームウエアはハッキングできる、という話だ。こうしたものや、関連するコントローラーチップには、ソフトウエアと同様の命令が組み込まれていて、セキュリティ上の脆弱な欠陥が存在することが多い。こうした欠陥の方が更新は難しい。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200002/" target="_blank">前回</a>から続く）</p>
+
+<h4>5：ハードウエアのハッキングがますます一般的に</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200003/ph3.jpg" width="300" alt="" title=""></div></div>
+
+<p>　IoTによって、チップのハッキングや、従来のコンピューターとは似つかないモノのハッキングに関心を寄せるハッカーが増えている。IoTデバイスといえども、多数のチップでOSが動作する小型のコンピューターにすぎないということを、現在のハッカーは認識しつつあり、習得やハッキングを行っている。「Raspberry Pi」や「Arduino」など、ハードウエアキットを買ってきた親子が、開発やコンピューティングを行う事例もよくある。こうしたもろもろの動きから、何をどのような方法でハッキングできるかについて、人々の（そしてハッカーの）展望が広がりつつある。今後のハッカーは、ハードウエアやファームウエアをハッキングすることへの気後れがはるかに少ないはずだ。</p>
+
+<h4>6：ハードウエアはパッチ適用の頻度が低い</h4>
+
+<p>　ファームウエアやハードウエアに脆弱性があることは少なくないが、既知の脆弱性であっても、ベンダーがパッチを提供する頻度ははるかに低い。また、たとえベンダーがパッチを開発して提供していたとしても、大半のユーザーは適用しない。たいていは、ファームウエアやハードウエアに脆弱性の類いが存在するということをユーザーは認識すらしていない。たとえ認識していたとしても、きちんと配慮していない人がほとんどだ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200003/?ST=cm-hardware&P=2">例えば、この記事の冒頭で触れた、Intelのファームウエアの脆弱...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200003/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200003/?ST=cm-hardware&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200003/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 23 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
