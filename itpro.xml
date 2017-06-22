@@ -11,28 +11,28 @@
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>日本IBM、セキュリティ被害の初動対応を支援する「X-Force IRIS」サービス（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101726/</link>
-			<description><![CDATA[　日本IBMは2017年6月21日、企業のセキュリティ対策を支援する「IBM X-Force IRIS」サービスの国内提供を開始した。マルウエア感染や情報漏洩といったインシデント（事故）発生の初動対応を、事前・事後の両面で専門家が支援する。]]></description>
-			<pubDate>Wed, 21 Jun 2017 18:20:07 +0900</pubDate>
-		</item>
-		<item>
-			<title>［特報］デンソーが量子コンピュータの応用研究開始、自動運転に活用か（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101727/</link>
-			<description><![CDATA[　自動車部品大手のデンソーが量子コンピュータの応用研究を進めていることが日経コンピュータの取材で2017年6月21日までに分かった。自動運転の支援など、大量の計算が必要な分野での利用を想定しているとみられる。人工知能（AI）などに続き、自動車メーカーや部品メーカーが競争力を高める目的で量子コンピュータの実験に取り組む動きが広がる可能性がある。]]></description>
-			<pubDate>Wed, 21 Jun 2017 18:24:04 +0900</pubDate>
-		</item>
-		<item>
-			<title>徳島県、マイナンバーカードを職員証として利用開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101728/</link>
-			<description><![CDATA[　徳島県は2017年6月21日、マイナンバーカードを職員証として利用すると公表した。NECが「利用者ID登録システム」を納入したと発表した。NECによると、マイナンバーカードを職員証として利用するのは都道府県で初めて。]]></description>
-			<pubDate>Wed, 21 Jun 2017 19:18:47 +0900</pubDate>
-		</item>
-		<item>
 			<title>HPC向けの演算ボード「Radeon Instinct」、米AMDが正式発表（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101729/</link>
 			<description><![CDATA[　米AMDは2017年6月20日（米国時間）、米国テキサス州オースチンで開催した発表会において、HPC（ハイ・パフォーマンス・コンピューティング）用の演算ボード「Radeon Instinct」を発表した。MI25、MI8、MI6の3モデルある。深層学習（ディープラーニング）などでの利用を見込む。2017年7月に出荷する。]]></description>
 			<pubDate>Wed, 21 Jun 2017 21:35:45 +0900</pubDate>
+		</item>
+		<item>
+			<title>友人はどこにいる？位置をリアルタイムに地図表示しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042400068/</link>
+			<description><![CDATA[　前々回、Firebaseについて、前回、スマートフォンで位置情報を扱う方法について紹介しました。今回は、位置情報をFirebaseで共有して、友人が自分の近くにいるかどうかリアルタイムに確認するサービスを作ってみましょう。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIで13.5字要約に挑むヤフトピ、過去10年分30万件を機械学習（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062000863/</link>
+			<description><![CDATA[　人工知能（AI）で記事を自動作成する取り組みが各所で始まっている。この分野で情報収集する過程で、興味深い話を聞いた。ヤフー（Yahoo! JAPAN）がニュースの「トピックス（ヤフトピ）」でAIの活用を試行しているというのだ。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>セキュリティ診断、稼働中のサービスを探す前にやること（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900003/</link>
+			<description><![CDATA[　公開サーバーへの攻撃は、サーバー上で稼働するサービスに対して行われる。この稼働サービスを洗い出すのがポートスキャンだ。ただし、事前調整なくポートスキャンを実施すると、大きなトラブルに発展する恐れがある。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>元貸金業のCEO、スマホを使って農業の可視化に挑む（出でよ！PeaceTechイノベーター）</title>
@@ -53,9 +53,9 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>友人はどこにいる？位置をリアルタイムに地図表示しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042400068/</link>
-			<description><![CDATA[　前々回、Firebaseについて、前回、スマートフォンで位置情報を扱う方法について紹介しました。今回は、位置情報をFirebaseで共有して、友人が自分の近くにいるかどうかリアルタイムに確認するサービスを作ってみましょう。]]></description>
+			<title>鉄道の故障をIoTで予知、米パロアルト研と手を組むJR東日本（攻めのIT経営銘柄2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/061900003/</link>
+			<description><![CDATA[　「線路のどの場所で、どんな車両が、どんな故障を起こすのか。保守作業員が経験として蓄積してきた知識が、IoT（Internet of Things）技術によって裏付けされる時代になった」――。東日本旅客鉄道（JR東日本）で技術企画部長を務める横山 淳氏はこう強調する。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,18 +95,6 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>グランプリはファナック、第11回 IT Japan Award受賞企業が決定（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062001023/</link>
-			<description><![CDATA[　ITベンダーやベンチャー企業、ライバル企業も巻き込み、多種多様な工作機械や産業用ロボットを連携させるIoT（インターネット・オブ・シングズ）の標準プラットフォームを作る―。優れたIT 活用事例を表彰する「ITJapan Award 2017」（主催：日経コンピュータ）の受賞企業が決まり、グランプリにはIoTを活用して製造業のビジネスモデル変革に挑むファナックが輝いた。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIで13.5字要約に挑むヤフトピ、過去10年分30万件を機械学習（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062000863/</link>
-			<description><![CDATA[　人工知能（AI）で記事を自動作成する取り組みが各所で始まっている。この分野で情報収集する過程で、興味深い話を聞いた。ヤフー（Yahoo! JAPAN）がニュースの「トピックス（ヤフトピ）」でAIの活用を試行しているというのだ。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>変数の型は入力値で決まる、環境変数も簡単に操作（安納順一のPowerShell Tips）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800006/</link>
 			<description><![CDATA[　変数と環境変数の使い方を覚えよう。PowerShellでは変数の型は入力した値で決まるので、宣言する必要がない。WindowsなどのOSの環境変数を、通常の変数と同じように操作できるのも特徴だ。
@@ -120,15 +108,9 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>鉄道の故障をIoTで予知、米パロアルト研と手を組むJR東日本（攻めのIT経営銘柄2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/061900003/</link>
-			<description><![CDATA[　「線路のどの場所で、どんな車両が、どんな故障を起こすのか。保守作業員が経験として蓄積してきた知識が、IoT（Internet of Things）技術によって裏付けされる時代になった」――。東日本旅客鉄道（JR東日本）で技術企画部長を務める横山 淳氏はこう強調する。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>セキュリティ診断、稼働中のサービスを探す前にやること（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900003/</link>
-			<description><![CDATA[　公開サーバーへの攻撃は、サーバー上で稼働するサービスに対して行われる。この稼働サービスを洗い出すのがポートスキャンだ。ただし、事前調整なくポートスキャンを実施すると、大きなトラブルに発展する恐れがある。]]></description>
+			<title>グランプリはファナック、第11回 IT Japan Award受賞企業が決定（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062001023/</link>
+			<description><![CDATA[　ITベンダーやベンチャー企業、ライバル企業も巻き込み、多種多様な工作機械や産業用ロボットを連携させるIoT（インターネット・オブ・シングズ）の標準プラットフォームを作る―。優れたIT 活用事例を表彰する「ITJapan Award 2017」（主催：日経コンピュータ）の受賞企業が決まり、グランプリにはIoTを活用して製造業のビジネスモデル変革に挑むファナックが輝いた。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -247,6 +229,18 @@
 			<pubDate>Thu, 22 Jun 2017 17:32:15 +0900</pubDate>
 		</item>
 		<item>
+			<title>加賀ソルネット、「piccolo Dual」など拡張ステーションの新製品（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201737/</link>
+			<description><![CDATA[　加賀ソルネットは、PC周辺機器ブランド「j5create（ジェイファイブ・クリエイト）」から、デュアルディスプレイ対応のUSB 3.0接続ドッキングステーション3機種を2017年6月23日から順次発売する。3機種ともギガビットイーサネット、アナログRGB、HDMIを搭載し、最大2048×1152ドットの同時独立表示が可能。]]></description>
+			<pubDate>Thu, 22 Jun 2017 17:39:35 +0900</pubDate>
+		</item>
+		<item>
+			<title>リンクス、防災・災害時向け大容量モバイルバッテリー「enerpad AC-54K」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201738/</link>
+			<description><![CDATA[　リンクスインターナショナルは2017年6月22日、容量5万3600mAhの防災・災害時向けモバイルバッテリー「enerpad AC-54K」を2017年7月1日発売すると発表した。ACポート2基、USBポート2基、USB Type-Cポート1基を搭載する。希望小売価格は3万4800円（税込み）。]]></description>
+			<pubDate>Thu, 22 Jun 2017 17:55:06 +0900</pubDate>
+		</item>
+		<item>
 			<title>スカパーJSATがダブルチューナー搭載4K放送受信機を7月20日に販売開始（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201739/</link>
 			<description><![CDATA[　スカパーJSATは2017年6月22日、現在スカパー！プレミアムサービスで展開している三つの4K放送チャンネルに対応する放送受信機の新機種である「TZ-WR4KP（パナソニック製）」の販売およびレンタルの受け付けを7月20日に開始すると発表した。]]></description>
@@ -263,6 +257,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201741/</link>
 			<description><![CDATA[　警察庁は2017年6月22日、ランサムウエア「WannaCry」のレポートを公開した。2017年6月初旬以降に発生した感染被害の多数がファイルを暗号化しないWannaCryの亜種によるものだった。]]></description>
 			<pubDate>Thu, 22 Jun 2017 19:25:29 +0900</pubDate>
+		</item>
+		<item>
+			<title>キヤノン製複合機とプリンターにWannaCryの脆弱性の可能性（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201742/</link>
+			<description><![CDATA[　キヤノンマーケティングジャパンは2017年6月21日、キヤノン製のレーザー複合機とレーザープリンターのうち、一部の機種やプリントサーバーにランサムウエアWannaCryの影響を受ける可能性があると明らかにした。]]></description>
+			<pubDate>Thu, 22 Jun 2017 20:12:47 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
