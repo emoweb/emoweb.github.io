@@ -11,10 +11,16 @@
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>HPC向けの演算ボード「Radeon Instinct」、米AMDが正式発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101729/</link>
-			<description><![CDATA[　米AMDは2017年6月20日（米国時間）、米国テキサス州オースチンで開催した発表会において、HPC（ハイ・パフォーマンス・コンピューティング）用の演算ボード「Radeon Instinct」を発表した。MI25、MI8、MI6の3モデルある。深層学習（ディープラーニング）などでの利用を見込む。2017年7月に出荷する。]]></description>
-			<pubDate>Wed, 21 Jun 2017 21:35:45 +0900</pubDate>
+			<title>中核システムをAWSクラウドに全面移行、鍵は内製化（ケーススタディに学ぶ、クラウド活用最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000001/</link>
+			<description><![CDATA[　「定額の聴き放題サービスやハイレゾリューション（ハイレゾ）配信など、音楽配信サービスの需要は急速に変化している。もはや既存のオンプレミス環境では対応できない」――。音楽配信の国内大手、レコチョクの松嶋陽太 事業システム推進部長はこう話す。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ネットで集めたデータはAI学習に使えるか？（AIと倫理）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800199/062000008/</link>
+			<description><![CDATA[　「企業内でディープラーニング（深層学習）を手掛けようにも、現状は手足を縛られているような状態だ」――。2017年5月24日、愛知県で開催された人工知能学会全国大会の公開セッションで、質問に立った企業の技術者が切実な声を挙げた。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>友人はどこにいる？位置をリアルタイムに地図表示しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
@@ -47,9 +53,9 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>中核システムをAWSクラウドに全面移行、鍵は内製化（ケーススタディに学ぶ、クラウド活用最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000001/</link>
-			<description><![CDATA[　「定額の聴き放題サービスやハイレゾリューション（ハイレゾ）配信など、音楽配信サービスの需要は急速に変化している。もはや既存のオンプレミス環境では対応できない」――。音楽配信の国内大手、レコチョクの松嶋陽太 事業システム推進部長はこう話す。]]></description>
+			<title>グランプリはファナック、第11回 IT Japan Award受賞企業が決定（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062001023/</link>
+			<description><![CDATA[　ITベンダーやベンチャー企業、ライバル企業も巻き込み、多種多様な工作機械や産業用ロボットを連携させるIoT（インターネット・オブ・シングズ）の標準プラットフォームを作る―。優れたIT 活用事例を表彰する「ITJapan Award 2017」（主催：日経コンピュータ）の受賞企業が決まり、グランプリにはIoTを活用して製造業のビジネスモデル変革に挑むファナックが輝いた。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,12 +95,6 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>次に来るネットワーク技術、Interopの受賞製品を分析（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061601020/</link>
-			<description><![CDATA[　2017年6月7日～9日に開催された「Interop Tokyo 2017」。出展企業各社の製品、サービスを表彰する「Best of Show Award」では、1年間に発売または発表された製品/サービスを対象に審査し、表彰する。受賞した中から注目の新製品/サービスを紹介していこう。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>変数の型は入力値で決まる、環境変数も簡単に操作（安納順一のPowerShell Tips）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800006/</link>
 			<description><![CDATA[　変数と環境変数の使い方を覚えよう。PowerShellでは変数の型は入力した値で決まるので、宣言する必要がない。WindowsなどのOSの環境変数を、通常の変数と同じように操作できるのも特徴だ。
@@ -102,15 +102,9 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ネットで集めたデータはAI学習に使えるか？（AIと倫理）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800199/062000008/</link>
-			<description><![CDATA[　「企業内でディープラーニング（深層学習）を手掛けようにも、現状は手足を縛られているような状態だ」――。2017年5月24日、愛知県で開催された人工知能学会全国大会の公開セッションで、質問に立った企業の技術者が切実な声を挙げた。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>グランプリはファナック、第11回 IT Japan Award受賞企業が決定（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062001023/</link>
-			<description><![CDATA[　ITベンダーやベンチャー企業、ライバル企業も巻き込み、多種多様な工作機械や産業用ロボットを連携させるIoT（インターネット・オブ・シングズ）の標準プラットフォームを作る―。優れたIT 活用事例を表彰する「ITJapan Award 2017」（主催：日経コンピュータ）の受賞企業が決まり、グランプリにはIoTを活用して製造業のビジネスモデル変革に挑むファナックが輝いた。]]></description>
+			<title>次に来るネットワーク技術、Interopの受賞製品を分析（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061601020/</link>
+			<description><![CDATA[　2017年6月7日～9日に開催された「Interop Tokyo 2017」。出展企業各社の製品、サービスを表彰する「Best of Show Award」では、1年間に発売または発表された製品/サービスを対象に審査し、表彰する。受賞した中から注目の新製品/サービスを紹介していこう。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -263,6 +257,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201742/</link>
 			<description><![CDATA[　キヤノンマーケティングジャパンは2017年6月21日、キヤノン製のレーザー複合機とレーザープリンターのうち、一部の機種やプリントサーバーにランサムウエアWannaCryの影響を受ける可能性があると明らかにした。]]></description>
 			<pubDate>Thu, 22 Jun 2017 20:12:47 +0900</pubDate>
+		</item>
+		<item>
+			<title>「2年縛り」など契約時の説明が不十分、総務省が携帯3社に行政指導へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201743/</link>
+			<description><![CDATA[　総務省は2017年6月22日、契約時の料金プランや契約条件など説明が不十分だとして、携帯電話大手3社に対して行政指導を行う方針を明らかにした。]]></description>
+			<pubDate>Thu, 22 Jun 2017 21:43:43 +0900</pubDate>
+		</item>
+		<item>
+			<title>Web版メルカリで個人情報流出、システムの切り替え作業ミスで（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201744/</link>
+			<description><![CDATA[　メルカリは2017年6月22日、日本および米国のWeb版メルカリで、一部のユーザーの個人情報が他のユーザーから閲覧できる状態になっていたと発表した。]]></description>
+			<pubDate>Thu, 22 Jun 2017 22:16:19 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
