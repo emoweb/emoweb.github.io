@@ -11,12 +11,6 @@
 			<pubDate>Tue, 20 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ノキアが10年ぶりに国内コンシューマ市場へ、デジタルヘルスで再参入（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101723/</link>
-			<description><![CDATA[　フィンランドNokia（ノキア）は2017年6月21日、デジタルヘルスに特化した製品群を日本で発売すると発表した。ノキアブランドのコンシューマ製品を国内展開するのは、2008年に同社が携帯端末事業から撤退して以来となる。]]></description>
-			<pubDate>Wed, 21 Jun 2017 17:46:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>サンワサプライ、遠隔操作できるネットワークカメラロボ「アボットライリー」（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062101724/</link>
 			<description><![CDATA[　サンワサプライは2017年6月21日、スマートフォンやタブレットを使って外出先から遠隔操作できる移動式ネットワークカメラ「アボットライリー」（型番：RB-RILEY）を同日発売したと発表した。離れた場所にいるペットや子ども、高齢者の見守りや夜間の防犯対策などを想定した。価格はオープン、予想実勢価格（税別）は3万1800円前後。]]></description>
@@ -53,6 +47,12 @@
 			<pubDate>Wed, 21 Jun 2017 21:35:45 +0900</pubDate>
 		</item>
 		<item>
+			<title>中核システムをAWSクラウドに全面移行、鍵は内製化（ケーススタディに学ぶ、クラウド活用最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000001/</link>
+			<description><![CDATA[　「定額の聴き放題サービスやハイレゾリューション（ハイレゾ）配信など、音楽配信サービスの需要は急速に変化している。もはや既存のオンプレミス環境では対応できない」――。音楽配信の国内大手、レコチョクの松嶋陽太 事業システム推進部長はこう話す。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>友人はどこにいる？位置をリアルタイムに地図表示しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042400068/</link>
 			<description><![CDATA[　前々回、Firebaseについて、前回、スマートフォンで位置情報を扱う方法について紹介しました。今回は、位置情報をFirebaseで共有して、友人が自分の近くにいるかどうかリアルタイムに確認するサービスを作ってみましょう。]]></description>
@@ -71,9 +71,9 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>中核システムをAWSクラウドに全面移行、鍵は内製化（ケーススタディに学ぶ、クラウド活用最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000001/</link>
-			<description><![CDATA[　「定額の聴き放題サービスやハイレゾリューション（ハイレゾ）配信など、音楽配信サービスの需要は急速に変化している。もはや既存のオンプレミス環境では対応できない」――。音楽配信の国内大手、レコチョクの松嶋陽太 事業システム推進部長はこう話す。]]></description>
+			<title>個人間送金サービスがApple Payに与えるインパクト（Apple Pay最新事情）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600245/062000002/</link>
+			<description><![CDATA[　Apple Payでは現在、「NFCを使った対面決済」「アプリ経由のオンライン決済」「Webブラウザ経由のオンライン決済」という3つの機能が提供されている。。そして今回、2017年秋に提供されるiOS 11において、4つめの機能である「個人間（P2P）送金」の提供が始まる。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>繰り返される悲劇、「1億円あげます」メールの罠（今日も誰かが狙われる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/061900005/</link>
-			<description><![CDATA[　また、痛ましい事件が起きてしまった。長崎新聞は2017年6月上旬、偽のメールを使った詐欺事件を報じた。「あなたに1億円が当たりました」というメールを受け取った人が、手数料などの名目で総額120万円以上をだまし取られたという。]]></description>
+			<title>セキュリティ診断、稼働中のサービスを探す前にやること（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900003/</link>
+			<description><![CDATA[　公開サーバーへの攻撃は、サーバー上で稼働するサービスに対して行われる。この稼働サービスを洗い出すのがポートスキャンだ。ただし、事前調整なくポートスキャンを実施すると、大きなトラブルに発展する恐れがある。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>個人間送金サービスがApple Payに与えるインパクト（Apple Pay最新事情）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600245/062000002/</link>
-			<description><![CDATA[　Apple Payでは現在、「NFCを使った対面決済」「アプリ経由のオンライン決済」「Webブラウザ経由のオンライン決済」という3つの機能が提供されている。。そして今回、2017年秋に提供されるiOS 11において、4つめの機能である「個人間（P2P）送金」の提供が始まる。]]></description>
+			<title>Java SE 9の非同期処理ライブラリ、新概念の「Reactive Streams」を学ぶ（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/061900041/</link>
+			<description><![CDATA[　Java SE 9の新機能としてはあまり目立ってはいませんが、非同期処理ライブラリの「Concurrency Utilities」では、「Reactive Streams」という新しい概念が導入されています。今回はReactive Streamsによるストリームデータ処理の基本を学びます。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -138,15 +138,9 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>セキュリティ診断、稼働中のサービスを探す前にやること（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900003/</link>
-			<description><![CDATA[　公開サーバーへの攻撃は、サーバー上で稼働するサービスに対して行われる。この稼働サービスを洗い出すのがポートスキャンだ。ただし、事前調整なくポートスキャンを実施すると、大きなトラブルに発展する恐れがある。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Java SE 9の非同期処理ライブラリ、新概念の「Reactive Streams」を学ぶ（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/061900041/</link>
-			<description><![CDATA[　Java SE 9の新機能としてはあまり目立ってはいませんが、非同期処理ライブラリの「Concurrency Utilities」では、「Reactive Streams」という新しい概念が導入されています。今回はReactive Streamsによるストリームデータ処理の基本を学びます。]]></description>
+			<title>繰り返される悲劇、「1億円あげます」メールの罠（今日も誰かが狙われる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/061900005/</link>
+			<description><![CDATA[　また、痛ましい事件が起きてしまった。長崎新聞は2017年6月上旬、偽のメールを使った詐欺事件を報じた。「あなたに1億円が当たりました」というメールを受け取った人が、手数料などの名目で総額120万円以上をだまし取られたという。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -263,6 +257,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201736/</link>
 			<description><![CDATA[　楽天と、不動産情報サービスを手掛けるLIFULLは2017年6月22日、記者説明会を開催し、新会社「楽天LIFULL STAY」を設立して民泊事業に参入することを発表した。]]></description>
 			<pubDate>Thu, 22 Jun 2017 17:32:15 +0900</pubDate>
+		</item>
+		<item>
+			<title>デルEMCがスケールアウトNAS「Isilon」新版、IOPS12倍など性能向上（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201740/</link>
+			<description><![CDATA[　デルとEMCジャパンは2017年6月21日、スケールアウト型NASストレージ「Isilon」の新版の出荷を始めた。既存製品やクラウドと組み合わせて一つのNASストレージのように使える。]]></description>
+			<pubDate>Thu, 22 Jun 2017 18:24:20 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
