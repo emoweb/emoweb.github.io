@@ -5,16 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>日本ワムネットの「DIRECT! EXTREME」、UDPでデータ転送を7.8倍に高速化（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201733/</link>
-			<description><![CDATA[　日本ワムネットは2017年6月22日、大容量ファイルを高速伝送できるデータ転送サービス「DIRECT! EXTREME」を発表した。従来のサービスの転送技術を刷新し、米マイクロソフトのパブリッククラウド「Microsoft Azure」上で構築。実測で約7.8倍の高速化を実現したという。]]></description>
-			<pubDate>Thu, 22 Jun 2017 16:44:16 +0900</pubDate>
-		</item>
-		<item>
-			<title>博報堂、AI×鏡で広告の新しい形「AoT」を説明（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201734/</link>
-			<description><![CDATA[　博報堂のビジネスインキュベーション局スダラボでエグゼクティブ・クリエイティブディレクターを務める須田和博氏は、日本マイクロソフトが2017年6月22日に開催したイベント「AI×宣伝広告フォーラム」のセッションに登壇した。]]></description>
-			<pubDate>Thu, 22 Jun 2017 16:50:27 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：次に来るネットワーク技術、Interopの受賞製品を分析（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061601020/?d23</link>
+			<description><![CDATA[　2017年6月7日～9日に開催された「Interop Tokyo 2017」。出展企業各社の製品、サービスを表彰する「Best of Show Award」では、1年間に発売または発表された製品/サービスを対象に審査し、表彰する。受賞した中から注目の新製品/サービスを紹介していこう。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>楽天が民泊事業に参入でLIFULLと新会社、楽天会員を基盤に（ニュース）</title>
@@ -71,6 +65,18 @@
 			<pubDate>Thu, 22 Jun 2017 22:16:19 +0900</pubDate>
 		</item>
 		<item>
+			<title>トップ主導で「手作りIoT」、カイゼンに生かし2億円節約（ケーススタディに学ぶ、クラウド活用最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000002/</link>
+			<description><![CDATA[　「製造時間がいつもより3秒長い。何かあったのか」。経営トップが出張先から工場の担当者に電話で尋ねる。担当者が装置を確認したところ、通常は部品を作るのに39秒かかるところ、42秒になっている。すぐに対応し、事なきを得た。不具合に気づかずに製造を続けていたら、装置がストップしていたかもしれない──。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>話題のSTEM教育をラズパイで！科学を学べる「Pi-Top OS」（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/061900012/</link>
+			<description><![CDATA[　4000円台の手のひらPC「Raspberry Pi（ラズパイ）」で、プログラミング言語のPythonや電子工作の基本などを学ぶ用途に特化したのが英シードの「pi-topOS」です。いわゆるSTEM教育用のコンテンツを搭載しているのが特徴で、ラズパイユーザーであれば無償で利用できます。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ロジクール、至高の新マウス　むしろアプリがすごかった（週末スペシャル）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062000320/</link>
 			<description><![CDATA[　ユーザー視点の辛口評価で好評の戸田覚氏が、ロジクールの高性能マウス「MX MASTER 2S」をレビューする。従来モデルからのマイナーチェンジにとどまるが、専用アプリの新機能に戸田氏は大感激！]]></description>
@@ -89,15 +95,15 @@
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>セールストークが歓迎されてしまうのが日本のクラウドの現状（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/062200014/</link>
-			<description><![CDATA[　今月取り上げるのは吉田雄哉氏。パブリッククラウドの伝道師「吉田パクえ」氏と言ったほうがピンとくる人は多いかもしれない。現在は日本マイクロソフトで「Microsoft Azure」の導入支援を手掛けている。最終回の今回は、日本のクラウドユーザーの悩みやクラウドに対する思いなどについて聞いた。]]></description>
+			<title>LINEはフェイスブックを追いかけている（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061900860/</link>
+			<description><![CDATA[　「LINEは米フェイスブックの後を追いかけている」――。2017年6月15日、LINE の年次イベント「LINE CONFERENCE 2017」を取材してそう強く感じた。]]></description>
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>トップ主導で「手作りIoT」、カイゼンに生かし2億円節約（ケーススタディに学ぶ、クラウド活用最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000002/</link>
-			<description><![CDATA[　「製造時間がいつもより3秒長い。何かあったのか」。経営トップが出張先から工場の担当者に電話で尋ねる。担当者が装置を確認したところ、通常は部品を作るのに39秒かかるところ、42秒になっている。すぐに対応し、事なきを得た。不具合に気づかずに製造を続けていたら、装置がストップしていたかもしれない──。]]></description>
+			<title>グーグルが弱点克服、企業向けクラウドで追撃（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062101024/</link>
+			<description><![CDATA[　グーグル日本法人は2017年6月14～15日、Googleのクラウドサービスをテーマにしたイベントを開催。来日した米GoogleでGoogle Cloud シニア バイス プレジデントを務めるダイアン・グリーン氏は、日本市場向けのビジネスが好調に推移していることを説明した。]]></description>
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -137,21 +143,9 @@
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>LINEはフェイスブックを追いかけている（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061900860/</link>
-			<description><![CDATA[　「LINEは米フェイスブックの後を追いかけている」――。2017年6月15日、LINE の年次イベント「LINE CONFERENCE 2017」を取材してそう強く感じた。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>グーグルが弱点克服、企業向けクラウドで追撃（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062101024/</link>
-			<description><![CDATA[　グーグル日本法人は2017年6月14～15日、Googleのクラウドサービスをテーマにしたイベントを開催。来日した米GoogleでGoogle Cloud シニア バイス プレジデントを務めるダイアン・グリーン氏は、日本市場向けのビジネスが好調に推移していることを説明した。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>話題のSTEM教育をラズパイで！科学を学べる「Pi-Top OS」（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/061900012/</link>
-			<description><![CDATA[　4000円台の手のひらPC「Raspberry Pi（ラズパイ）」で、プログラミング言語のPythonや電子工作の基本などを学ぶ用途に特化したのが英シードの「pi-topOS」です。いわゆるSTEM教育用のコンテンツを搭載しているのが特徴で、ラズパイユーザーであれば無償で利用できます。]]></description>
+			<title>セールストークが歓迎されてしまうのが日本のクラウドの現状（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/062200014/</link>
+			<description><![CDATA[　今月取り上げるのは吉田雄哉氏。パブリッククラウドの伝道師「吉田パクえ」氏と言ったほうがピンとくる人は多いかもしれない。現在は日本マイクロソフトで「Microsoft Azure」の導入支援を手掛けている。最終回の今回は、日本のクラウドユーザーの悩みやクラウドに対する思いなどについて聞いた。]]></description>
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -254,6 +248,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301749/</link>
 			<description><![CDATA[　テーマパークの運営を手掛けるハウステンボスは2017年6月23日、300機のドローンを使ったライトショーを実施すると発表した。同様のショーは日本初だという。子会社でロボット開発を手掛けるhapi-robo stと米インテルの3社が共同で実施する。]]></description>
 			<pubDate>Fri, 23 Jun 2017 14:26:37 +0900</pubDate>
+		</item>
+		<item>
+			<title>NTTドコモが音声対応AIエージェントAPIをオープン化（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301750/</link>
+			<description><![CDATA[　NTTドコモは2017年6月23日、AIエージェントAPI（アプリケーションプログラミングインタフェース）のオープン化に関する説明会を開催した。小売り、金融、交通などの他社サービスと連携できるようにし、スマートフォンや家電など様々なデバイスを通じた新たなサービスを提供可能にする。]]></description>
+			<pubDate>Fri, 23 Jun 2017 16:24:26 +0900</pubDate>
+		</item>
+		<item>
+			<title>［特報］NTTがセキュリティ人材を3万人育成、2020年までの目標値の3倍達成（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201735/</link>
+			<description><![CDATA[　NTTがセキュリティ人材を3万人育成したことが日経コンピュータの取材で分かった。同社は2020年までにグループ全体で1万人を育成する計画を掲げていたが前倒しで達成。目標値の3倍以上を育成した。]]></description>
+			<pubDate>Fri, 23 Jun 2017 17:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
