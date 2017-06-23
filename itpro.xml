@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Sansanが名刺管理SNS「Eight」の新機能で転職求人市場に参入（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201732/</link>
-			<description><![CDATA[　名刺管理クラウドサービス大手のSansanは2017年6月22日、転職求人市場に参入すると発表した。名刺管理SNS「Eight」で、企業の人事担当者が転職のオファーをEightの利用者に送れる有償サービス「Talent Solution」を早ければ6月28日にも販売する。]]></description>
-			<pubDate>Thu, 22 Jun 2017 13:37:47 +0900</pubDate>
-		</item>
-		<item>
 			<title>日本ワムネットの「DIRECT! EXTREME」、UDPでデータ転送を7.8倍に高速化（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201733/</link>
 			<description><![CDATA[　日本ワムネットは2017年6月22日、大容量ファイルを高速伝送できるデータ転送サービス「DIRECT! EXTREME」を発表した。従来のサービスの転送技術を刷新し、米マイクロソフトのパブリッククラウド「Microsoft Azure」上で構築。実測で約7.8倍の高速化を実現したという。]]></description>
@@ -83,6 +77,12 @@
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>NFC開放から占うApple Payの未来（Apple Pay最新事情）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600245/062100003/</link>
+			<description><![CDATA[　WWDC17におけるApple Payの最大の話題は、新機能「個人間（P2P）送金」の提供だった。一方でiOSエコノミーの開発者らの間では、iOS 11で初めて「NFC（Near Field Communication）」機能の開放が行われて大きな話題になっている。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>格安SIMのエンタメ系カウントフリーを先行試用してすごく気になったこと（青木恵美の信州ITラプソディ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/062200032/</link>
 			<description><![CDATA[　先日この連載で、エンタメ系のカウントフリーオプションを備えたMVNOサービス「LinksMate」を紹介した。サービス発表直後に開始した「先行申し込み」に応募したところSIMを入手できたので、使い心地や速度などをファーストインプレッションしてお伝えしたい。]]></description>
@@ -95,15 +95,15 @@
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>話題のSTEM教育をラズパイで！科学を学べる「Pi-Top OS」（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/061900012/</link>
-			<description><![CDATA[　4000円台の手のひらPC「Raspberry Pi（ラズパイ）」で、プログラミング言語のPythonや電子工作の基本などを学ぶ用途に特化したのが英シードの「pi-topOS」です。いわゆるSTEM教育用のコンテンツを搭載しているのが特徴で、ラズパイユーザーであれば無償で利用できます。]]></description>
+			<title>トップ主導で「手作りIoT」、カイゼンに生かし2億円節約（ケーススタディに学ぶ、クラウド活用最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000002/</link>
+			<description><![CDATA[　「製造時間がいつもより3秒長い。何かあったのか」。経営トップが出張先から工場の担当者に電話で尋ねる。担当者が装置を確認したところ、通常は部品を作るのに39秒かかるところ、42秒になっている。すぐに対応し、事なきを得た。不具合に気づかずに製造を続けていたら、装置がストップしていたかもしれない──。]]></description>
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>NFC開放から占うApple Payの未来（Apple Pay最新事情）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600245/062100003/</link>
-			<description><![CDATA[　WWDC17におけるApple Payの最大の話題は、新機能「個人間（P2P）送金」の提供だった。一方でiOSエコノミーの開発者らの間では、iOS 11で初めて「NFC（Near Field Communication）」機能の開放が行われて大きな話題になっている。]]></description>
+			<title>空飛ぶクルマの衝突事故、先進ITを生かしたバス会社の危機対応力（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062201025/</link>
+			<description><![CDATA[　バス運転手の目の前に、突如として飛び込む乗用車―――。多くのテレビ視聴者を釘付けにしたこの映像を、NHKは事故のわずか4時間半後に報道した。映像はバスの運行会社が提供したものだった。]]></description>
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -149,15 +149,9 @@
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>トップ主導で「手作りIoT」、カイゼンに生かし2億円節約（ケーススタディに学ぶ、クラウド活用最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000002/</link>
-			<description><![CDATA[　「製造時間がいつもより3秒長い。何かあったのか」。経営トップが出張先から工場の担当者に電話で尋ねる。担当者が装置を確認したところ、通常は部品を作るのに39秒かかるところ、42秒になっている。すぐに対応し、事なきを得た。不具合に気づかずに製造を続けていたら、装置がストップしていたかもしれない──。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>空飛ぶクルマの衝突事故、先進ITを生かしたバス会社の危機対応力（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062201025/</link>
-			<description><![CDATA[　バス運転手の目の前に、突如として飛び込む乗用車―――。多くのテレビ視聴者を釘付けにしたこの映像を、NHKは事故のわずか4時間半後に報道した。映像はバスの運行会社が提供したものだった。]]></description>
+			<title>話題のSTEM教育をラズパイで！科学を学べる「Pi-Top OS」（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/061900012/</link>
+			<description><![CDATA[　4000円台の手のひらPC「Raspberry Pi（ラズパイ）」で、プログラミング言語のPythonや電子工作の基本などを学ぶ用途に特化したのが英シードの「pi-topOS」です。いわゆるSTEM教育用のコンテンツを搭載しているのが特徴で、ラズパイユーザーであれば無償で利用できます。]]></description>
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -254,6 +248,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301748/</link>
 			<description><![CDATA[　金融庁とオーストラリア証券投資委員会（ASIC）は2017年6月23日、日本とオーストラリアのFinTech企業をお互いに支援し合う協力体制を構築したと発表した。]]></description>
 			<pubDate>Fri, 23 Jun 2017 11:26:07 +0900</pubDate>
+		</item>
+		<item>
+			<title>夜空に光る300機のドローン、ハウステンボスが日本初のライトショー（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301749/</link>
+			<description><![CDATA[　テーマパークの運営を手掛けるハウステンボスは2017年6月23日、300機のドローンを使ったライトショーを実施すると発表した。同様のショーは日本初だという。子会社でロボット開発を手掛けるhapi-robo stと米インテルの3社が共同で実施する。]]></description>
+			<pubDate>Fri, 23 Jun 2017 14:26:37 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
