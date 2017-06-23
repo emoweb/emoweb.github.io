@@ -5,6 +5,18 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>鉄道の故障をIoTで予知、米パロアルト研と手を組むJR東日本（攻めのIT経営銘柄2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/061900003/</link>
+			<description><![CDATA[　「線路のどの場所で、どんな車両が、どんな故障を起こすのか。保守作業員が経験として蓄積してきた知識が、IoT（Internet of Things）技術によって裏付けされる時代になった」――。東日本旅客鉄道（JR東日本）で技術企画部長を務める横山 淳氏はこう強調する。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>グランプリはファナック、第11回 IT Japan Award受賞企業が決定（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062001023/</link>
+			<description><![CDATA[　ITベンダーやベンチャー企業、ライバル企業も巻き込み、多種多様な工作機械や産業用ロボットを連携させるIoT（インターネット・オブ・シングズ）の標準プラットフォームを作る―。優れたIT 活用事例を表彰する「ITJapan Award 2017」（主催：日経コンピュータ）の受賞企業が決まり、グランプリにはIoTを活用して製造業のビジネスモデル変革に挑むファナックが輝いた。]]></description>
+			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>中核システムをAWSクラウドに全面移行、鍵は内製化（ケーススタディに学ぶ、クラウド活用最前線）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000001/</link>
 			<description><![CDATA[　「定額の聴き放題サービスやハイレゾリューション（ハイレゾ）配信など、音楽配信サービスの需要は急速に変化している。もはや既存のオンプレミス環境では対応できない」――。音楽配信の国内大手、レコチョクの松嶋陽太 事業システム推進部長はこう話す。]]></description>
@@ -48,9 +60,9 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>個人間送金サービスがApple Payに与えるインパクト（Apple Pay最新事情）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600245/062000002/</link>
-			<description><![CDATA[　Apple Payでは現在、「NFCを使った対面決済」「アプリ経由のオンライン決済」「Webブラウザ経由のオンライン決済」という3つの機能が提供されている。。そして今回、2017年秋に提供されるiOS 11において、4つめの機能である「個人間（P2P）送金」の提供が始まる。]]></description>
+			<title>セキュリティ診断、稼働中のサービスを探す前にやること（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900003/</link>
+			<description><![CDATA[　公開サーバーへの攻撃は、サーバー上で稼働するサービスに対して行われる。この稼働サービスを洗い出すのがポートスキャンだ。ただし、事前調整なくポートスキャンを実施すると、大きなトラブルに発展する恐れがある。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -60,9 +72,9 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>鉄道の故障をIoTで予知、米パロアルト研と手を組むJR東日本（攻めのIT経営銘柄2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/061900003/</link>
-			<description><![CDATA[　「線路のどの場所で、どんな車両が、どんな故障を起こすのか。保守作業員が経験として蓄積してきた知識が、IoT（Internet of Things）技術によって裏付けされる時代になった」――。東日本旅客鉄道（JR東日本）で技術企画部長を務める横山 淳氏はこう強調する。]]></description>
+			<title>AIで13.5字要約に挑むヤフトピ、過去10年分30万件を機械学習（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062000863/</link>
+			<description><![CDATA[　人工知能（AI）で記事を自動作成する取り組みが各所で始まっている。この分野で情報収集する過程で、興味深い話を聞いた。ヤフー（Yahoo! JAPAN）がニュースの「トピックス（ヤフトピ）」でAIの活用を試行しているというのだ。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -84,34 +96,10 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>セキュリティ診断、稼働中のサービスを探す前にやること（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900003/</link>
-			<description><![CDATA[　公開サーバーへの攻撃は、サーバー上で稼働するサービスに対して行われる。この稼働サービスを洗い出すのがポートスキャンだ。ただし、事前調整なくポートスキャンを実施すると、大きなトラブルに発展する恐れがある。]]></description>
+			<title>個人間送金サービスがApple Payに与えるインパクト（Apple Pay最新事情）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600245/062000002/</link>
+			<description><![CDATA[　Apple Payでは現在、「NFCを使った対面決済」「アプリ経由のオンライン決済」「Webブラウザ経由のオンライン決済」という3つの機能が提供されている。。そして今回、2017年秋に提供されるiOS 11において、4つめの機能である「個人間（P2P）送金」の提供が始まる。]]></description>
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIで13.5字要約に挑むヤフトピ、過去10年分30万件を機械学習（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062000863/</link>
-			<description><![CDATA[　人工知能（AI）で記事を自動作成する取り組みが各所で始まっている。この分野で情報収集する過程で、興味深い話を聞いた。ヤフー（Yahoo! JAPAN）がニュースの「トピックス（ヤフトピ）」でAIの活用を試行しているというのだ。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>グランプリはファナック、第11回 IT Japan Award受賞企業が決定（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062001023/</link>
-			<description><![CDATA[　ITベンダーやベンチャー企業、ライバル企業も巻き込み、多種多様な工作機械や産業用ロボットを連携させるIoT（インターネット・オブ・シングズ）の標準プラットフォームを作る―。優れたIT 活用事例を表彰する「ITJapan Award 2017」（主催：日経コンピュータ）の受賞企業が決まり、グランプリにはIoTを活用して製造業のビジネスモデル変革に挑むファナックが輝いた。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>地方版IoT推進ラボが集積する福岡県、Cloud Days 九州で3自治体が取り組みを紹介（Cloud Days 2017レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052900220/062100023/</link>
-			<description><![CDATA[　ICTの総合展である「Cloud Days九州」に、福岡県、北九州市、福岡市の地方版IoT推進ラボ担当者が登壇し、それぞれの取り組み状況や課題について議論した。]]></description>
-			<pubDate>Thu, 22 Jun 2017 06:01:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IntelがオリンピックのTOPスポンサーに、VRや5G技術などに注力（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201730/</link>
-			<description><![CDATA[　米Intelと国際オリンピック委員会（IOC）は現地時間2017年6月21日、長期的パートナー契約を結んだと発表した。IntelはIOCのスポンサーシッププログラム「The Olympic Partner（TOP）」に加わり、2020年の東京オリンピック競技大会を含む2024年まで最高位スポンサーを務める。]]></description>
-			<pubDate>Thu, 22 Jun 2017 10:10:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>EU、ドローン飛行の安全性を確立する枠組みの青写真を公開（Computerworldニュース）</title>
@@ -234,21 +222,33 @@
 			<pubDate>Thu, 22 Jun 2017 22:16:19 +0900</pubDate>
 		</item>
 		<item>
-			<title>ロジクール、至高の新マウス　むしろアプリがすごかった（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062000320/</link>
-			<description><![CDATA[　ユーザー視点の辛口評価で好評の戸田覚氏が、ロジクールの高性能マウス「MX MASTER 2S」をレビューする。従来モデルからのマイナーチェンジにとどまるが、専用アプリの新機能に戸田氏は大感激！]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>空飛ぶクルマの衝突事故、先進ITを生かしたバス会社の危機対応力（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062201025/</link>
 			<description><![CDATA[　バス運転手の目の前に、突如として飛び込む乗用車―――。多くのテレビ視聴者を釘付けにしたこの映像を、NHKは事故のわずか4時間半後に報道した。映像はバスの運行会社が提供したものだった。]]></description>
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>格安SIMのエンタメ系カウントフリーを先行試用してすごく気になったこと（青木恵美の信州ITラプソディ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/062200032/</link>
-			<description><![CDATA[　先日この連載で、エンタメ系のカウントフリーオプションを備えたMVNOサービス「LinksMate」を紹介した。サービス発表直後に開始した「先行申し込み」に応募したところSIMを入手できたので、使い心地や速度などをファーストインプレッションしてお伝えしたい。]]></description>
+			<title>話題のSTEM教育をラズパイで！科学を学べる「Pi-Top OS」（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/061900012/</link>
+			<description><![CDATA[　4000円台の手のひらPC「Raspberry Pi（ラズパイ）」で、プログラミング言語のPythonや電子工作の基本などを学ぶ用途に特化したのが英シードの「pi-topOS」です。いわゆるSTEM教育用のコンテンツを搭載しているのが特徴で、ラズパイユーザーであれば無償で利用できます。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ロジクール、至高の新マウス　むしろアプリがすごかった（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062000320/</link>
+			<description><![CDATA[　ユーザー視点の辛口評価で好評の戸田覚氏が、ロジクールの高性能マウス「MX MASTER 2S」をレビューする。従来モデルからのマイナーチェンジにとどまるが、専用アプリの新機能に戸田氏は大感激！]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ほぼ全面ディスプレイのGalaxy S8＋、実はスリムで持ちやすい（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/061300058/</link>
+			<description><![CDATA[　NTTドコモとauから注目のスマートフォン新製品が発売されました。サムスン電子のGalaxy S8とGalaxy S8＋です。ハイエンド機種であるため性能の高さも気になりますが、最大の見どころはほぼ全面ディスプレイのデザインでしょう。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>稼働中ソフトの推定から脆弱性スキャンまで、Nmapを使ったセキュリティ診断（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900004/</link>
+			<description><![CDATA[　定番の「Nmap」を使って、セキュリティ診断対象のサーバーのポートスキャンを実施する。オープンポートを見つけ出し、不要なポートは閉じてしまおう。]]></description>
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -300,21 +300,9 @@
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>稼働中ソフトの推定から脆弱性スキャンまで、Nmapを使ったセキュリティ診断（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900004/</link>
-			<description><![CDATA[　定番の「Nmap」を使って、セキュリティ診断対象のサーバーのポートスキャンを実施する。オープンポートを見つけ出し、不要なポートは閉じてしまおう。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ほぼ全面ディスプレイのGalaxy S8＋、実はスリムで持ちやすい（伊藤浩一のモバイルライフ応援日記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/061300058/</link>
-			<description><![CDATA[　NTTドコモとauから注目のスマートフォン新製品が発売されました。サムスン電子のGalaxy S8とGalaxy S8＋です。ハイエンド機種であるため性能の高さも気になりますが、最大の見どころはほぼ全面ディスプレイのデザインでしょう。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>話題のSTEM教育をラズパイで！科学を学べる「Pi-Top OS」（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/061900012/</link>
-			<description><![CDATA[　4000円台の手のひらPC「Raspberry Pi（ラズパイ）」で、プログラミング言語のPythonや電子工作の基本などを学ぶ用途に特化したのが英シードの「pi-topOS」です。いわゆるSTEM教育用のコンテンツを搭載しているのが特徴で、ラズパイユーザーであれば無償で利用できます。]]></description>
+			<title>格安SIMのエンタメ系カウントフリーを先行試用してすごく気になったこと（青木恵美の信州ITラプソディ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/062200032/</link>
+			<description><![CDATA[　先日この連載で、エンタメ系のカウントフリーオプションを備えたMVNOサービス「LinksMate」を紹介した。サービス発表直後に開始した「先行申し込み」に応募したところSIMを入手できたので、使い心地や速度などをファーストインプレッションしてお伝えしたい。]]></description>
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -357,6 +345,48 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301746/</link>
 			<description><![CDATA[　米Googleは現地時間2017年6月22日、新しい仮想現実（VR）ビデオフォーマット「VR180」を発表した。360度ではなく、前方180度の立体（3D）映像体験に焦点を当てる。]]></description>
 			<pubDate>Fri, 23 Jun 2017 09:50:36 +0900</pubDate>
+		</item>
+		<item>
+			<title>車載コンピュータもソフトウエア定義になる、インテルが自動運転への取り組みを解説（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201745/</link>
+			<description><![CDATA[　インテルは2017年6月22日に報道関係者向けの説明会を開催し、同社の自動運転に対する取り組みを紹介した。インテルは自動運転を注力分野の一つに位置付けており、2017年1月には開発ツールを含むブランドとして「インテルGO」を発表している。]]></description>
+			<pubDate>Fri, 23 Jun 2017 10:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「CheerpJ」が間もなく公開、JavaアプリをJavaScriptのWebアプリに変換（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062300335/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　JavaのバイトコードをJavaScriptに変換してWebブラウザーで動かせるようにするコンパイラ「CheerpJ」を、英Learning Technologiesが間もなくリリースする。Javaのソースコードは不要で、バイトコードをJavaScriptに変換できる。LLVM/Clangと、同社が既にリリースしているC++からJavaScriptへのコンパイラ「Cheerp」をベースにしたもので、JavaとWeb開発を融合する製品だ。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062300335/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Shutterstock</div>
+</div>
+<p>
+　CheerpJでは、JavaのアプリケーションやライブラリをWebアプリケーションに変換でき、プラグインやJavaのインストールなしで動かすことができる。また、サーバーサイドのJavaコンポーネントをクライアントサイドのブラウザーベースのライブラリに変換できるほか、サーバーサイドのJavaScript環境「Node.js」向けとして、ネイティブなJavaのコードをプラットフォーム非依存のNode.js用コンポーネントに変換することもできる。
+</p>
+<p>
+　CheerpJは、JavaのバイトコードをJavaScriptに変換するオフラインのコンパイラに加えて、JavaScriptベースのJava実行環境と、動的なクラス生成をその場で行うオンザフライのコンパイラで構成されている。オンザフライのコンパイラはアプリケーションと共にデプロイする。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062300335/?ST=cio-appli&P=2">JavaとJavaScriptの間で双方向の相互...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062300335/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062300335/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062300335/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 23 Jun 2017 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
