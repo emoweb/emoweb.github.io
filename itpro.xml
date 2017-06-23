@@ -11,12 +11,6 @@
 			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>警察庁がWannaCry亜種のレポート公開、感染に気付かず拡大の恐れ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201741/</link>
-			<description><![CDATA[　警察庁は2017年6月22日、ランサムウエア「WannaCry」のレポートを公開した。2017年6月初旬以降に発生した感染被害の多数がファイルを暗号化しないWannaCryの亜種によるものだった。]]></description>
-			<pubDate>Thu, 22 Jun 2017 19:25:29 +0900</pubDate>
-		</item>
-		<item>
 			<title>キヤノン製複合機とプリンターにWannaCryの脆弱性の可能性（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201742/</link>
 			<description><![CDATA[　キヤノンマーケティングジャパンは2017年6月21日、キヤノン製のレーザー複合機とレーザープリンターのうち、一部の機種やプリントサーバーにランサムウエアWannaCryの影響を受ける可能性があると明らかにした。]]></description>
@@ -33,6 +27,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201744/</link>
 			<description><![CDATA[　メルカリは2017年6月22日、日本および米国のWeb版メルカリで、一部のユーザーの個人情報が他のユーザーから閲覧できる状態になっていたと発表した。]]></description>
 			<pubDate>Thu, 22 Jun 2017 22:16:19 +0900</pubDate>
+		</item>
+		<item>
+			<title>LINEはフェイスブックを追いかけている（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061900860/</link>
+			<description><![CDATA[　「LINEは米フェイスブックの後を追いかけている」――。2017年6月15日、LINE の年次イベント「LINE CONFERENCE 2017」を取材してそう強く感じた。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>話題のSTEM教育をラズパイで！科学を学べる「Pi-Top OS」（週末に遊べるラズパイ）</title>
@@ -53,9 +53,9 @@
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>LINEはフェイスブックを追いかけている（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061900860/</link>
-			<description><![CDATA[　「LINEは米フェイスブックの後を追いかけている」――。2017年6月15日、LINE の年次イベント「LINE CONFERENCE 2017」を取材してそう強く感じた。]]></description>
+			<title>稼働中ソフトの推定から脆弱性スキャンまで、Nmapを使ったセキュリティ診断（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900004/</link>
+			<description><![CDATA[　定番の「Nmap」を使って、セキュリティ診断対象のサーバーのポートスキャンを実施する。オープンポートを見つけ出し、不要なポートは閉じてしまおう。]]></description>
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,18 +95,6 @@
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ソニーはなぜ「新・電子ペーパー端末」を作ったのか？（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062000321/</link>
-			<description><![CDATA[　ソニーが新しく電子ペーパー端末「DPT-RP1」を発売した。手書き対応タブレットが普及するなかでなぜ発売したのか？真意を探った。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>稼働中ソフトの推定から脆弱性スキャンまで、Nmapを使ったセキュリティ診断（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900004/</link>
-			<description><![CDATA[　定番の「Nmap」を使って、セキュリティ診断対象のサーバーのポートスキャンを実施する。オープンポートを見つけ出し、不要なポートは閉じてしまおう。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>空飛ぶクルマの衝突事故、先進ITを生かしたバス会社の危機対応力（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062201025/</link>
 			<description><![CDATA[　バス運転手の目の前に、突如として飛び込む乗用車―――。多くのテレビ視聴者を釘付けにしたこの映像を、NHKは事故のわずか4時間半後に報道した。映像はバスの運行会社が提供したものだった。]]></description>
@@ -116,6 +104,12 @@
 			<title>格安SIMのエンタメ系カウントフリーを先行試用してすごく気になったこと（青木恵美の信州ITラプソディ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/062200032/</link>
 			<description><![CDATA[　先日この連載で、エンタメ系のカウントフリーオプションを備えたMVNOサービス「LinksMate」を紹介した。サービス発表直後に開始した「先行申し込み」に応募したところSIMを入手できたので、使い心地や速度などをファーストインプレッションしてお伝えしたい。]]></description>
+			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソニーはなぜ「新・電子ペーパー端末」を作ったのか？（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062000321/</link>
+			<description><![CDATA[　ソニーが新しく電子ペーパー端末「DPT-RP1」を発売した。手書き対応タブレットが普及するなかでなぜ発売したのか？真意を探った。]]></description>
 			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -260,6 +254,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301751/</link>
 			<description><![CDATA[　ラックと日本マイクロソフトは2017年6月23日、IDセキュリティの推進団体（イニシアティブ）「ID-based Security」を発足した。参加企業にIDを保護する技術やインシデント事例を教えたりする。]]></description>
 			<pubDate>Fri, 23 Jun 2017 19:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>富士通研がCT検査画像をAIで解析する新技術、検査時間を6分の1に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301757/</link>
+			<description><![CDATA[　富士通研究所は2017年6月23日、中国の富士通研究開発中心と共同で、CT検査で身体を撮影した画像データをAI（人工知能）で解析する技術を開発したと発表した。医師はこの技術を使うと、過去の患者の症例を調べる手間を減らせる。]]></description>
+			<pubDate>Fri, 23 Jun 2017 21:04:05 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
