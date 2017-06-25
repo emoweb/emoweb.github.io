@@ -5,114 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：次に来るネットワーク技術、Interopの受賞製品を分析（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/061601020/?d23</link>
-			<description><![CDATA[　2017年6月7日～9日に開催された「Interop Tokyo 2017」。出展企業各社の製品、サービスを表彰する「Best of Show Award」では、1年間に発売または発表された製品/サービスを対象に審査し、表彰する。受賞した中から注目の新製品/サービスを紹介していこう。]]></description>
-			<pubDate>Thu, 22 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>キヤノン製複合機とプリンターにWannaCryの脆弱性の可能性（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201742/</link>
-			<description><![CDATA[　キヤノンマーケティングジャパンは2017年6月21日、キヤノン製のレーザー複合機とレーザープリンターのうち、一部の機種やプリントサーバーにランサムウエアWannaCryの影響を受ける可能性があると明らかにした。]]></description>
-			<pubDate>Thu, 22 Jun 2017 20:12:47 +0900</pubDate>
-		</item>
-		<item>
-			<title>「2年縛り」など契約時の説明が不十分、総務省が携帯3社に行政指導へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201743/</link>
-			<description><![CDATA[　総務省は2017年6月22日、契約時の料金プランや契約条件など説明が不十分だとして、携帯電話大手3社に対して行政指導を行う方針を明らかにした。]]></description>
-			<pubDate>Thu, 22 Jun 2017 21:43:43 +0900</pubDate>
-		</item>
-		<item>
-			<title>Web版メルカリで個人情報流出、システムの切り替え作業ミスで（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062201744/</link>
-			<description><![CDATA[　メルカリは2017年6月22日、日本および米国のWeb版メルカリで、一部のユーザーの個人情報が他のユーザーから閲覧できる状態になっていたと発表した。]]></description>
-			<pubDate>Thu, 22 Jun 2017 22:16:19 +0900</pubDate>
-		</item>
-		<item>
-			<title>LINEはフェイスブックを追いかけている（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061900860/</link>
-			<description><![CDATA[　「LINEは米フェイスブックの後を追いかけている」――。2017年6月15日、LINE の年次イベント「LINE CONFERENCE 2017」を取材してそう強く感じた。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>話題のSTEM教育をラズパイで！科学を学べる「Pi-Top OS」（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/061900012/</link>
-			<description><![CDATA[　4000円台の手のひらPC「Raspberry Pi（ラズパイ）」で、プログラミング言語のPythonや電子工作の基本などを学ぶ用途に特化したのが英シードの「pi-topOS」です。いわゆるSTEM教育用のコンテンツを搭載しているのが特徴で、ラズパイユーザーであれば無償で利用できます。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>賃貸住宅をIoT化、学習リモコンで利便性向上（攻めのIT経営銘柄2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/062100005/</link>
-			<description><![CDATA[　アパートの賃貸事業を手掛けるレオパレス21が、IoT（インターネット・オブ・シングズ）の活用に力を入れている。「テクノロジーを使って物件の付加価値を高め、他社と差異化する」。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>トップ主導で「手作りIoT」、カイゼンに生かし2億円節約（ケーススタディに学ぶ、クラウド活用最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000002/</link>
-			<description><![CDATA[　「製造時間がいつもより3秒長い。何かあったのか」。経営トップが出張先から工場の担当者に電話で尋ねる。担当者が装置を確認したところ、通常は部品を作るのに39秒かかるところ、42秒になっている。すぐに対応し、事なきを得た。不具合に気づかずに製造を続けていたら、装置がストップしていたかもしれない──。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>稼働中ソフトの推定から脆弱性スキャンまで、Nmapを使ったセキュリティ診断（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900004/</link>
-			<description><![CDATA[　定番の「Nmap」を使って、セキュリティ診断対象のサーバーのポートスキャンを実施する。オープンポートを見つけ出し、不要なポートは閉じてしまおう。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本ではタブーな話題？AIの軍事利用（AIと倫理）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/051800199/062100009/</link>
-			<description><![CDATA[　人工知能（AI）と倫理を語る際、世界で頻繁に議論される一方、日本ではほとんど話題にならないテーマがある。AIを含む自律型システム（autonomous systems）の軍事利用という問題だ。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>セールストークが歓迎されてしまうのが日本のクラウドの現状（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/062200014/</link>
-			<description><![CDATA[　今月取り上げるのは吉田雄哉氏。パブリッククラウドの伝道師「吉田パクえ」氏と言ったほうがピンとくる人は多いかもしれない。現在は日本マイクロソフトで「Microsoft Azure」の導入支援を手掛けている。最終回の今回は、日本のクラウドユーザーの悩みやクラウドに対する思いなどについて聞いた。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>グーグルが弱点克服、企業向けクラウドで追撃（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062101024/</link>
-			<description><![CDATA[　グーグル日本法人は2017年6月14～15日、Googleのクラウドサービスをテーマにしたイベントを開催。来日した米GoogleでGoogle Cloud シニア バイス プレジデントを務めるダイアン・グリーン氏は、日本市場向けのビジネスが好調に推移していることを説明した。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ロジクール、至高の新マウス　むしろアプリがすごかった（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062000320/</link>
-			<description><![CDATA[　ユーザー視点の辛口評価で好評の戸田覚氏が、ロジクールの高性能マウス「MX MASTER 2S」をレビューする。従来モデルからのマイナーチェンジにとどまるが、専用アプリの新機能に戸田氏は大感激！]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>NFC開放から占うApple Payの未来（Apple Pay最新事情）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600245/062100003/</link>
-			<description><![CDATA[　WWDC17におけるApple Payの最大の話題は、新機能「個人間（P2P）送金」の提供だった。一方でiOSエコノミーの開発者らの間では、iOS 11で初めて「NFC（Near Field Communication）」機能の開放が行われて大きな話題になっている。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ほぼ全面ディスプレイのGalaxy S8＋、実はスリムで持ちやすい（伊藤浩一のモバイルライフ応援日記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/061300058/</link>
-			<description><![CDATA[　NTTドコモとauから注目のスマートフォン新製品が発売されました。サムスン電子のGalaxy S8とGalaxy S8＋です。ハイエンド機種であるため性能の高さも気になりますが、最大の見どころはほぼ全面ディスプレイのデザインでしょう。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>空飛ぶクルマの衝突事故、先進ITを生かしたバス会社の危機対応力（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062201025/</link>
-			<description><![CDATA[　バス運転手の目の前に、突如として飛び込む乗用車―――。多くのテレビ視聴者を釘付けにしたこの映像を、NHKは事故のわずか4時間半後に報道した。映像はバスの運行会社が提供したものだった。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>格安SIMのエンタメ系カウントフリーを先行試用してすごく気になったこと（青木恵美の信州ITラプソディ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/062200032/</link>
-			<description><![CDATA[　先日この連載で、エンタメ系のカウントフリーオプションを備えたMVNOサービス「LinksMate」を紹介した。サービス発表直後に開始した「先行申し込み」に応募したところSIMを入手できたので、使い心地や速度などをファーストインプレッションしてお伝えしたい。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソニーはなぜ「新・電子ペーパー端末」を作ったのか？（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062000321/</link>
-			<description><![CDATA[　ソニーが新しく電子ペーパー端末「DPT-RP1」を発売した。手書き対応タブレットが普及するなかでなぜ発売したのか？真意を探った。]]></description>
-			<pubDate>Fri, 23 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>チップに対するハッキングが今後増える6つの理由（下）（チップに対するハッキングが今後増える6つの理由）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061200045/061200003/</link>
 			<description><![CDATA[<div>
@@ -260,6 +152,108 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301757/</link>
 			<description><![CDATA[　富士通研究所は2017年6月23日、中国の富士通研究開発中心と共同で、CT検査で身体を撮影した画像データをAI（人工知能）で解析する技術を開発したと発表した。医師はこの技術を使うと、過去の患者の症例を調べる手間を減らせる。]]></description>
 			<pubDate>Fri, 23 Jun 2017 21:04:05 +0900</pubDate>
+		</item>
+		<item>
+			<title>東電システムの「コピー失敗」はなぜ起きたか（東電、システムトラブルの真相）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400241/061600002/</link>
+			<description><![CDATA[　東京電力パワーグリッドが2017年6月9日、システムの不具合や再発防止策などをまとめた報告書資料を公表した。東電PGは「これが（一連のトラブルの）総括となる」としている。2016年から続いていたシステムトラブルで、何が起きていたのか。その原因が見えてきた。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>FinTech推進へ手は緩めず、金融庁参事官が明かす「次の一手」　（Nikkei FinTech Conference 2017#2レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062500001/</link>
+			<description><![CDATA[　日経FinTechは2017年6月23日、都内で「Nikkei FinTech Conference 2017#2」を開催した。基調講演・対談には金融庁 総務企画局 信用制度参事官 井上 俊剛氏が登壇。「フィンテックの進展とその推進に向けた取組み」と題して講演した。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ドコモのスマホ料金、「高い説」と「実は相当安い説」の真相（スマホ料金の勘違い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062100001/</link>
+			<description><![CDATA[　続々と新しい料金プランを導入しているNTTドコモ。家族で加入するなら「月額280円からスマホが使える」としているが、その激安料金で使うにはどのような制約があるのか。あるいは、今はもう「ドコモは高い」という見方は勘違いになってしまっているのだろうか？]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「セキュリティの分からないSE」はもういらない？富士通の1万人計画（国内大手のセキュリティ人材育成）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062200001/</link>
+			<description><![CDATA[　富士通は2018年中に1万人のセキュリティ人材を育てる計画だ。重視するのは「セキュリティの分かるSE」の育成。2日間の教育コースを設けて急ピッチで育成を進める。専門家は攻撃と防御を疑似体験する装置「サイバーレンジ」使って育てている。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>HDDのデータ復旧、保証期間内“無料”の衝撃（HDDが壊れたら…）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062200001/</link>
+			<description><![CDATA[　「ハードディスクの故障は自己責任」という風潮に、PC周辺機器最大手のバッファローが切り込んだ。同社は2017年6月2日に、ストレージのデータ復旧事業に参入。同社製で保証期間内の機器であれば、軽度な障害を無償で修理するサービスを始めた。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ランサムウエア身代金に1億3000万円払った韓国IT企業、データは戻ったか（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/062200152/</link>
+			<description><![CDATA[　ランサムウエア被害が発生した韓国のWebホスティング会社「NAYANA」がデータを復元できるコードをもらうため、ハッカーに13億ウォン（約1億4000万円）のビットコインを支払った。この事件は「サイバー強盗にヒやられた」として、韓国だけでなく欧米のメディアでも大きく取り上げられている。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Amazon Echoはスピーカーにあらず、汎用コンピュータだ（AIスピーカー競争）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000250/062300001/</link>
+			<description><![CDATA[　米Googleが「Google Home」の2017年内の日本発売を発表したことから、日本でもユーザーの関心を集めつつある「AI（人工知能）スピーカー）」。その元祖である「Amazon Echo」を実際に使ってみると、これが単なるスピーカーではなく「汎用コンピュータ」であることが分かる。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>初のセキュリティ国家資格試験、「講習義務付け」で敬遠されたか？（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062201027/</link>
+			<description><![CDATA[　2017年6月21日、第1回「情報処理安全確保支援士試験」の受験者数や合格者などが発表された。「国内初のサイバーセキュリティの国家資格」という触れ込みがある一方で、有料の講習が義務付けられるなどの不安材料もあったが、受験者数はセスペ試験より若干少ない程度で、合格率はほぼ同じだった。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>職場の風通しの良さ、会話量をIoTで地図表示（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062301028/</link>
+			<description><![CDATA[　三井ホーム子会社でオフィスの設計などを手掛ける三井デザインテックが、ITを駆使した新ビジネスに乗り出す。日立ソリューションズと協業し、従業員の会話量を可視化するツール「インテリジェントサーベイ」の開発を始めると2017年5月19日に公表した。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>明らかになったLINEの戦略、アプリからAIへ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062201026/</link>
+			<description><![CDATA[　LINEが人工知能（AI）による新たな戦略を明らかにした。同社のクラウドAI「Clova」を、スマートフォンアプリに代わる新たなサービス基盤として構築する。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>どんなパソコンが感染したのか、WannaCryを再検証（辻伸弘の裏読みセキュリティ事件簿）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/012900025/062300042/</link>
+			<description><![CDATA[　猛威を振るうWannaCry。感染が急速に広まった5月中旬に様々な注意喚起が出たが、実際のところはどうだったのか。再検証してみた。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>LINEを「Google Apps Script」でコントロールしてみよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042500069/</link>
+			<description><![CDATA[　Googleのクラウドサービスのプログラミング環境が「Google Apps Script」。実はこのGoogle Apps ScriptとLINEを連携させると、とても便利。いろいろできますが、第一歩として「LINE Notify API」を使ってプログラムからメッセージを送ってみましょう。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>電子行政サービスは使いにくいままでよい、APIさえあればね（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062100864/</link>
+			<description><![CDATA[　官公庁や地方自治体の電子行政サービスは使いづらい――。こんな評判を耳にする。新経済連盟の春日美奈子氏は、「（サイト内で）自分がやりたい行政手続きを見つけることすら難しい」と語る。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「ビジネスの約束は厳守」とは愚かな思い込み、これで技術者は地獄に（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/062000144/</link>
+			<description><![CDATA[　日本人にはおかしな信念があって、それがビジネスにおいてマイナスに作用する。「約束した事は絶対に守らなければならない」という思い込みだ。多くの人が「約束は厳守」などという愚かな強迫観念にとらわれているのは、日本ぐらいではないか。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「人とは比べず自分と戦う」、仕事大好き女性SEの流儀（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/062100012/</link>
+			<description><![CDATA[　野村総合研究所（NRI）の上級SEを務める澁谷亜樹氏。入社以来、一貫して証券会社向けのITシステムの分野を歩んできた。NRI社内では、「常に高い目標を設定しながら仕事に取り組む社員」として一目を置かれる存在だ。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>契約システムでBRMSを活用したチューリッヒ生命、チェック自動化で査定時間を半減（ケーススタディに学ぶ、クラウド活用最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000003/</link>
+			<description><![CDATA[　チューリッヒ・ライフ・インシュアランス・カンパニー・リミテッド日本支店（チューリッヒ生命）では現在、「契約管理システム」の刷新プロジェクトが大詰めを迎えている。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本のIT業界に襲いかかるシリコンバレーの「デス・スター」（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/061300089/</link>
+			<description><![CDATA[　ベイエリアの先進的なIT会社を訪問してきました。訪問した企業は未上場のベンチャー企業からクラウドベンダー、ソフトウエアベンダー、さらにハードベンダーまで様々です。私の問題意識は一つ。はたして日本のITはどれくらい引き離されてしまったのか、ということです。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
