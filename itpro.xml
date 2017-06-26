@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Apple Musicの楽曲使用料引き下げか、Appleがレコード会社と協議中（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301747/</link>
-			<description><![CDATA[　米Appleがレコード会社各社と、音楽ストリーミングサービスの収益分配について協議していると、米Bloombergが現地時間2017年6月21日に報じた。]]></description>
-			<pubDate>Fri, 23 Jun 2017 10:56:44 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本とオーストラリアがFinTech企業の支援で協力（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301748/</link>
-			<description><![CDATA[　金融庁とオーストラリア証券投資委員会（ASIC）は2017年6月23日、日本とオーストラリアのFinTech企業をお互いに支援し合う協力体制を構築したと発表した。]]></description>
-			<pubDate>Fri, 23 Jun 2017 11:26:07 +0900</pubDate>
-		</item>
-		<item>
 			<title>夜空に光る300機のドローン、ハウステンボスが日本初のライトショー（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301749/</link>
 			<description><![CDATA[　テーマパークの運営を手掛けるハウステンボスは2017年6月23日、300機のドローンを使ったライトショーを実施すると発表した。同様のショーは日本初だという。子会社でロボット開発を手掛けるhapi-robo stと米インテルの3社が共同で実施する。]]></description>
@@ -53,15 +41,15 @@
 			<pubDate>Fri, 23 Jun 2017 18:46:29 +0900</pubDate>
 		</item>
 		<item>
-			<title>総務省、「e-Gov法令検索」をリニューアル、様々なアプリ開発を可能に（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301755/</link>
-			<description><![CDATA[　総務省は2017年6月23日、法令データベース「e-Gov法令検索」を6月26日午後にリニューアルすると発表した。独自の法令データベースを持たない中小企業も、法令データを利用して様々なアプリを開発できると見込んでいる。]]></description>
-			<pubDate>Fri, 23 Jun 2017 19:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ラックとMSがIDセキュリティの推進団体、「Azure利用は前提としない」（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301751/</link>
 			<description><![CDATA[　ラックと日本マイクロソフトは2017年6月23日、IDセキュリティの推進団体（イニシアティブ）「ID-based Security」を発足した。参加企業にIDを保護する技術やインシデント事例を教えたりする。]]></description>
+			<pubDate>Fri, 23 Jun 2017 19:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>総務省、「e-Gov法令検索」をリニューアル、様々なアプリ開発を可能に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301755/</link>
+			<description><![CDATA[　総務省は2017年6月23日、法令データベース「e-Gov法令検索」を6月26日午後にリニューアルすると発表した。独自の法令データベースを持たない中小企業も、法令データを利用して様々なアプリを開発できると見込んでいる。]]></description>
 			<pubDate>Fri, 23 Jun 2017 19:30:00 +0900</pubDate>
 		</item>
 		<item>
@@ -71,15 +59,27 @@
 			<pubDate>Fri, 23 Jun 2017 21:04:05 +0900</pubDate>
 		</item>
 		<item>
+			<title>日本のIT業界に襲いかかるシリコンバレーの「デス・スター」（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/061300089/</link>
+			<description><![CDATA[　ベイエリアの先進的なIT会社を訪問してきました。訪問した企業は未上場のベンチャー企業からクラウドベンダー、ソフトウエアベンダー、さらにハードベンダーまで様々です。私の問題意識は一つ。はたして日本のITはどれくらい引き離されてしまったのか、ということです。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>東電システムの「コピー失敗」はなぜ起きたか（東電、システムトラブルの真相）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400241/061600002/</link>
+			<description><![CDATA[　東京電力パワーグリッドが2017年6月9日、システムの不具合や再発防止策などをまとめた報告書資料を公表した。東電PGは「これが（一連のトラブルの）総括となる」としている。2016年から続いていたシステムトラブルで、何が起きていたのか。その原因が見えてきた。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>契約システムでBRMSを活用したチューリッヒ生命、チェック自動化で査定時間を半減（ケーススタディに学ぶ、クラウド活用最前線）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000003/</link>
 			<description><![CDATA[　チューリッヒ・ライフ・インシュアランス・カンパニー・リミテッド日本支店（チューリッヒ生命）では現在、「契約管理システム」の刷新プロジェクトが大詰めを迎えている。]]></description>
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>日本のIT業界に襲いかかるシリコンバレーの「デス・スター」（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/061300089/</link>
-			<description><![CDATA[　ベイエリアの先進的なIT会社を訪問してきました。訪問した企業は未上場のベンチャー企業からクラウドベンダー、ソフトウエアベンダー、さらにハードベンダーまで様々です。私の問題意識は一つ。はたして日本のITはどれくらい引き離されてしまったのか、ということです。]]></description>
+			<title>FinTech推進へ手は緩めず、金融庁参事官が明かす「次の一手」　（Nikkei FinTech Conference 2017#2レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062500001/</link>
+			<description><![CDATA[　日経FinTechは2017年6月23日、都内で「Nikkei FinTech Conference 2017#2」を開催した。基調講演・対談には金融庁 総務企画局 信用制度参事官 井上 俊剛氏が登壇。「フィンテックの進展とその推進に向けた取組み」と題して講演した。]]></description>
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,9 +89,9 @@
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「人とは比べず自分と戦う」、仕事大好き女性SEの流儀（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/062100012/</link>
-			<description><![CDATA[　野村総合研究所（NRI）の上級SEを務める澁谷亜樹氏。入社以来、一貫して証券会社向けのITシステムの分野を歩んできた。NRI社内では、「常に高い目標を設定しながら仕事に取り組む社員」として一目を置かれる存在だ。]]></description>
+			<title>どんなパソコンが感染したのか、WannaCryを再検証（辻伸弘の裏読みセキュリティ事件簿）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/012900025/062300042/</link>
+			<description><![CDATA[　猛威を振るうWannaCry。感染が急速に広まった5月中旬に様々な注意喚起が出たが、実際のところはどうだったのか。再検証してみた。]]></description>
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,9 +101,9 @@
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>FinTech推進へ手は緩めず、金融庁参事官が明かす「次の一手」　（Nikkei FinTech Conference 2017#2レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062500001/</link>
-			<description><![CDATA[　日経FinTechは2017年6月23日、都内で「Nikkei FinTech Conference 2017#2」を開催した。基調講演・対談には金融庁 総務企画局 信用制度参事官 井上 俊剛氏が登壇。「フィンテックの進展とその推進に向けた取組み」と題して講演した。]]></description>
+			<title>LINEを「Google Apps Script」でコントロールしてみよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042500069/</link>
+			<description><![CDATA[　Googleのクラウドサービスのプログラミング環境が「Google Apps Script」。実はこのGoogle Apps ScriptとLINEを連携させると、とても便利。いろいろできますが、第一歩として「LINE Notify API」を使ってプログラムからメッセージを送ってみましょう。]]></description>
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -155,28 +155,10 @@
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>どんなパソコンが感染したのか、WannaCryを再検証（辻伸弘の裏読みセキュリティ事件簿）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/012900025/062300042/</link>
-			<description><![CDATA[　猛威を振るうWannaCry。感染が急速に広まった5月中旬に様々な注意喚起が出たが、実際のところはどうだったのか。再検証してみた。]]></description>
+			<title>「人とは比べず自分と戦う」、仕事大好き女性SEの流儀（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/062100012/</link>
+			<description><![CDATA[　野村総合研究所（NRI）の上級SEを務める澁谷亜樹氏。入社以来、一貫して証券会社向けのITシステムの分野を歩んできた。NRI社内では、「常に高い目標を設定しながら仕事に取り組む社員」として一目を置かれる存在だ。]]></description>
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>LINEを「Google Apps Script」でコントロールしてみよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042500069/</link>
-			<description><![CDATA[　Googleのクラウドサービスのプログラミング環境が「Google Apps Script」。実はこのGoogle Apps ScriptとLINEを連携させると、とても便利。いろいろできますが、第一歩として「LINE Notify API」を使ってプログラムからメッセージを送ってみましょう。]]></description>
-			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>東電システムの「コピー失敗」はなぜ起きたか（東電、システムトラブルの真相）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400241/061600002/</link>
-			<description><![CDATA[　東京電力パワーグリッドが2017年6月9日、システムの不具合や再発防止策などをまとめた報告書資料を公表した。東電PGは「これが（一連のトラブルの）総括となる」としている。2016年から続いていたシステムトラブルで、何が起きていたのか。その原因が見えてきた。]]></description>
-			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>仏スタートアップが来日、「香りの目覚まし時計」や「スマートトイ」で日本上陸（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301758/</link>
-			<description><![CDATA[　フランス貿易投資庁-ビジネスフランスとオレンジ・ジャパンは2017年6月22日、フランスから来日したスタートアップ企業2社のピッチイベントを開催し、日本市場に向けてアピールした。]]></description>
-			<pubDate>Mon, 26 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>「地に足のついたIoTを提供する」、安川情報システムが経営方針発表（ニュース）</title>
@@ -218,10 +200,64 @@
 			<pubDate>Mon, 26 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>仏スタートアップが来日、「香りの目覚まし時計」や「スマートトイ」で日本上陸（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301758/</link>
+			<description><![CDATA[　フランス貿易投資庁-ビジネスフランスとオレンジ・ジャパンは2017年6月22日、フランスから来日したスタートアップ企業2社のピッチイベントを開催し、日本市場に向けてアピールした。]]></description>
+			<pubDate>Mon, 26 Jun 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>Google、無償版Gmailのメールスキャンを年内に停止へ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062601759/</link>
 			<description><![CDATA[　米Googleは現地時間2017年6月23日、Webメールサービス「Gmail」の無償版において広告のパーソナライズのために行っていたメール内容のスキャンを年内に停止すると発表した。]]></description>
 			<pubDate>Mon, 26 Jun 2017 09:50:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>豪電力会社をかたる大規模なフィッシング詐欺が発生（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062600386/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　オーストラリアで、電力・ガス会社EnergyAustraliaの名をかたる大規模なフィッシング詐欺のキャンペーンが確認された。豪セキュリティ企業MailGuardの<a href="http://www.mailguard.com.au/blog/dont-be-tempted-to-click-fake-energyaustralia-invoice" target="_blank">ブログ記事</a>によると、現地時間2017年6月20日、同国のメール利用者に宛てて、EnergyAustraliaになりすました悪質なメールが大量に届き始めた。オーストラリアでは、別の電力・ガス会社をかたるフィッシング詐欺も起きている。
+</p>
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062600386/ph.jpg" width="300" alt="" title=""></div></div>
+<p>
+　このフィッシングメールは、EnergyAustraliaからの料金請求を本物そっくりに装ったもので、料金の支払期限は数日後になっているという。
+</p>
+<p>
+　「メールごとに請求内容が別々になるよう、支払期限と金額はランダムに設定されている。検出を逃れるために犯人が取った戦術だ」とMailGuardのブログ記事にはある。
+</p>
+<p>
+　MailGuardによると、このメールには、危険性をはらんだペイロードが含まれている。請求書を表示するためのリンクをクリックすると、ZIPファイルがダウンロードされ、その中に悪質なJavaScriptファイルが入っている。
+</p>
+<p>
+　送信元のメールアドレスは「noreply @ energy agent . net」（実際には間のスペースはない）。このドメインは中国で6月19日に登録されていた。メールの送信が始まったのは6月20日の午前9時39分だという。
+</p>
+
+<p>
+　EnergyAustraliaは、6月初めにも、これとは別のメール詐欺について注意を促していた。同社は6月20日、今回のメール詐欺について、利用者に向けた告知文をWebサイトに掲載した。内容は以下のとおり。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062600386/?ST=cm-network&P=2">----EnergyAustraliaをかたる新たなメール詐欺が...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062600386/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062600386/?ST=cm-network&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062600386/?ST=cm-network&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062600386/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 26 Jun 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>メッセージングアプリをニュースメディアとして利用する人が急増中（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062601760/</link>
+			<description><![CDATA[　世界のほとんどの国では、ソーシャルメディアをニュース情報源としている人の数が、横ばいで推移している。その一方でメッセージングアプリをニュースメディアとして利用している人は増えている。こうしたリポートを英Reuters Institute for the Study of Journalismが、現地時間2017年6月22日に公表した。]]></description>
+			<pubDate>Mon, 26 Jun 2017 10:55:52 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
