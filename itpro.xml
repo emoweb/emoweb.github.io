@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>夜空に光る300機のドローン、ハウステンボスが日本初のライトショー（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301749/</link>
-			<description><![CDATA[　テーマパークの運営を手掛けるハウステンボスは2017年6月23日、300機のドローンを使ったライトショーを実施すると発表した。同様のショーは日本初だという。子会社でロボット開発を手掛けるhapi-robo stと米インテルの3社が共同で実施する。]]></description>
-			<pubDate>Fri, 23 Jun 2017 14:26:37 +0900</pubDate>
-		</item>
-		<item>
 			<title>NTTドコモが音声対応AIエージェントAPIをオープン化（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301750/</link>
 			<description><![CDATA[　NTTドコモは2017年6月23日、AIエージェントAPI（アプリケーションプログラミングインタフェース）のオープン化に関する説明会を開催した。小売り、金融、交通などの他社サービスと連携できるようにし、スマートフォンや家電など様々なデバイスを通じた新たなサービスを提供可能にする。]]></description>
@@ -41,15 +35,15 @@
 			<pubDate>Fri, 23 Jun 2017 18:46:29 +0900</pubDate>
 		</item>
 		<item>
-			<title>ラックとMSがIDセキュリティの推進団体、「Azure利用は前提としない」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301751/</link>
-			<description><![CDATA[　ラックと日本マイクロソフトは2017年6月23日、IDセキュリティの推進団体（イニシアティブ）「ID-based Security」を発足した。参加企業にIDを保護する技術やインシデント事例を教えたりする。]]></description>
-			<pubDate>Fri, 23 Jun 2017 19:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>総務省、「e-Gov法令検索」をリニューアル、様々なアプリ開発を可能に（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301755/</link>
 			<description><![CDATA[　総務省は2017年6月23日、法令データベース「e-Gov法令検索」を6月26日午後にリニューアルすると発表した。独自の法令データベースを持たない中小企業も、法令データを利用して様々なアプリを開発できると見込んでいる。]]></description>
+			<pubDate>Fri, 23 Jun 2017 19:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ラックとMSがIDセキュリティの推進団体、「Azure利用は前提としない」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301751/</link>
+			<description><![CDATA[　ラックと日本マイクロソフトは2017年6月23日、IDセキュリティの推進団体（イニシアティブ）「ID-based Security」を発足した。参加企業にIDを保護する技術やインシデント事例を教えたりする。]]></description>
 			<pubDate>Fri, 23 Jun 2017 19:30:00 +0900</pubDate>
 		</item>
 		<item>
@@ -57,6 +51,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301757/</link>
 			<description><![CDATA[　富士通研究所は2017年6月23日、中国の富士通研究開発中心と共同で、CT検査で身体を撮影した画像データをAI（人工知能）で解析する技術を開発したと発表した。医師はこの技術を使うと、過去の患者の症例を調べる手間を減らせる。]]></description>
 			<pubDate>Fri, 23 Jun 2017 21:04:05 +0900</pubDate>
+		</item>
+		<item>
+			<title>FinTech推進へ手は緩めず、金融庁参事官が明かす「次の一手」　（Nikkei FinTech Conference 2017#2レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062500001/</link>
+			<description><![CDATA[　日経FinTechは2017年6月23日、都内で「Nikkei FinTech Conference 2017#2」を開催した。基調講演・対談には金融庁 総務企画局 信用制度参事官 井上 俊剛氏が登壇。「フィンテックの進展とその推進に向けた取組み」と題して講演した。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>日本のIT業界に襲いかかるシリコンバレーの「デス・スター」（NRI楠真 強いITはココが違う）</title>
@@ -77,9 +77,9 @@
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>FinTech推進へ手は緩めず、金融庁参事官が明かす「次の一手」　（Nikkei FinTech Conference 2017#2レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062500001/</link>
-			<description><![CDATA[　日経FinTechは2017年6月23日、都内で「Nikkei FinTech Conference 2017#2」を開催した。基調講演・対談には金融庁 総務企画局 信用制度参事官 井上 俊剛氏が登壇。「フィンテックの進展とその推進に向けた取組み」と題して講演した。]]></description>
+			<title>LINEを「Google Apps Script」でコントロールしてみよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042500069/</link>
+			<description><![CDATA[　Googleのクラウドサービスのプログラミング環境が「Google Apps Script」。実はこのGoogle Apps ScriptとLINEを連携させると、とても便利。いろいろできますが、第一歩として「LINE Notify API」を使ってプログラムからメッセージを送ってみましょう。]]></description>
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>電子行政サービスは使いにくいままでよい、APIさえあればね（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062100864/</link>
-			<description><![CDATA[　官公庁や地方自治体の電子行政サービスは使いづらい――。こんな評判を耳にする。新経済連盟の春日美奈子氏は、「（サイト内で）自分がやりたい行政手続きを見つけることすら難しい」と語る。]]></description>
+			<title>明らかになったLINEの戦略、アプリからAIへ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062201026/</link>
+			<description><![CDATA[　LINEが人工知能（AI）による新たな戦略を明らかにした。同社のクラウドAI「Clova」を、スマートフォンアプリに代わる新たなサービス基盤として構築する。]]></description>
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>LINEを「Google Apps Script」でコントロールしてみよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042500069/</link>
-			<description><![CDATA[　Googleのクラウドサービスのプログラミング環境が「Google Apps Script」。実はこのGoogle Apps ScriptとLINEを連携させると、とても便利。いろいろできますが、第一歩として「LINE Notify API」を使ってプログラムからメッセージを送ってみましょう。]]></description>
+			<title>「人とは比べず自分と戦う」、仕事大好き女性SEの流儀（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/062100012/</link>
+			<description><![CDATA[　野村総合研究所（NRI）の上級SEを務める澁谷亜樹氏。入社以来、一貫して証券会社向けのITシステムの分野を歩んできた。NRI社内では、「常に高い目標を設定しながら仕事に取り組む社員」として一目を置かれる存在だ。]]></description>
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -149,22 +149,10 @@
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>明らかになったLINEの戦略、アプリからAIへ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062201026/</link>
-			<description><![CDATA[　LINEが人工知能（AI）による新たな戦略を明らかにした。同社のクラウドAI「Clova」を、スマートフォンアプリに代わる新たなサービス基盤として構築する。]]></description>
+			<title>電子行政サービスは使いにくいままでよい、APIさえあればね（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062100864/</link>
+			<description><![CDATA[　官公庁や地方自治体の電子行政サービスは使いづらい――。こんな評判を耳にする。新経済連盟の春日美奈子氏は、「（サイト内で）自分がやりたい行政手続きを見つけることすら難しい」と語る。]]></description>
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「人とは比べず自分と戦う」、仕事大好き女性SEの流儀（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/062100012/</link>
-			<description><![CDATA[　野村総合研究所（NRI）の上級SEを務める澁谷亜樹氏。入社以来、一貫して証券会社向けのITシステムの分野を歩んできた。NRI社内では、「常に高い目標を設定しながら仕事に取り組む社員」として一目を置かれる存在だ。]]></description>
-			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「地に足のついたIoTを提供する」、安川情報システムが経営方針発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301756/</link>
-			<description><![CDATA[　安川情報システムは2017年6月23日、経営方針説明会を開いた。2017年度からはスマートファクトリーやAIによるデータ分析などを提供する「IoTソリューション」、ERPを使った業務システムの構築や運用、保守を提供する「ビジネスソリューション」の二つを主力事業に据えるとした。]]></description>
-			<pubDate>Mon, 26 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>CISOの任命、何をどう進めるか（上）（CISOの任命、何をどう進めるか）</title>
@@ -197,6 +185,12 @@
 <div></div>
 </div>
 ]]></description>
+			<pubDate>Mon, 26 Jun 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「地に足のついたIoTを提供する」、安川情報システムが経営方針発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301756/</link>
+			<description><![CDATA[　安川情報システムは2017年6月23日、経営方針説明会を開いた。2017年度からはスマートファクトリーやAIによるデータ分析などを提供する「IoTソリューション」、ERPを使った業務システムの構築や運用、保守を提供する「ビジネスソリューション」の二つを主力事業に据えるとした。]]></description>
 			<pubDate>Mon, 26 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -258,6 +252,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062601760/</link>
 			<description><![CDATA[　世界のほとんどの国では、ソーシャルメディアをニュース情報源としている人の数が、横ばいで推移している。その一方でメッセージングアプリをニュースメディアとして利用している人は増えている。こうしたリポートを英Reuters Institute for the Study of Journalismが、現地時間2017年6月22日に公表した。]]></description>
 			<pubDate>Mon, 26 Jun 2017 10:55:52 +0900</pubDate>
+		</item>
+		<item>
+			<title>日立が社員の幸福感上げる実証実験、四半期後の営業成績と相関（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062601762/</link>
+			<description><![CDATA[　日立製作所は2017年6月26日、社員の幸福感を向上させるアドバイスを人工知能（AI）に提示させる実証実験の結果を発表した。営業部門の社員600人を対象に2016年6月から2016年10月にかけて実施したところ、幸福感の高さと四半期後の営業成績との相関が認められたという。]]></description>
+			<pubDate>Mon, 26 Jun 2017 13:17:07 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
