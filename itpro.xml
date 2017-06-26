@@ -5,42 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>「CheerpJ」が間もなく公開、JavaアプリをJavaScriptのWebアプリに変換（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062300335/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　JavaのバイトコードをJavaScriptに変換してWebブラウザーで動かせるようにするコンパイラ「CheerpJ」を、英Learning Technologiesが間もなくリリースする。Javaのソースコードは不要で、バイトコードをJavaScriptに変換できる。LLVM/Clangと、同社が既にリリースしているC++からJavaScriptへのコンパイラ「Cheerp」をベースにしたもので、JavaとWeb開発を融合する製品だ。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062300335/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Shutterstock</div>
-</div>
-<p>
-　CheerpJでは、JavaのアプリケーションやライブラリをWebアプリケーションに変換でき、プラグインやJavaのインストールなしで動かすことができる。また、サーバーサイドのJavaコンポーネントをクライアントサイドのブラウザーベースのライブラリに変換できるほか、サーバーサイドのJavaScript環境「Node.js」向けとして、ネイティブなJavaのコードをプラットフォーム非依存のNode.js用コンポーネントに変換することもできる。
-</p>
-<p>
-　CheerpJは、JavaのバイトコードをJavaScriptに変換するオフラインのコンパイラに加えて、JavaScriptベースのJava実行環境と、動的なクラス生成をその場で行うオンザフライのコンパイラで構成されている。オンザフライのコンパイラはアプリケーションと共にデプロイする。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062300335/?ST=cio-appli&P=2">JavaとJavaScriptの間で双方向の相互...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062300335/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062300335/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062300335/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 23 Jun 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Apple Musicの楽曲使用料引き下げか、Appleがレコード会社と協議中（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301747/</link>
 			<description><![CDATA[　米Appleがレコード会社各社と、音楽ストリーミングサービスの収益分配について協議していると、米Bloombergが現地時間2017年6月21日に報じた。]]></description>
@@ -107,15 +71,21 @@
 			<pubDate>Fri, 23 Jun 2017 21:04:05 +0900</pubDate>
 		</item>
 		<item>
+			<title>契約システムでBRMSを活用したチューリッヒ生命、チェック自動化で査定時間を半減（ケーススタディに学ぶ、クラウド活用最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000003/</link>
+			<description><![CDATA[　チューリッヒ・ライフ・インシュアランス・カンパニー・リミテッド日本支店（チューリッヒ生命）では現在、「契約管理システム」の刷新プロジェクトが大詰めを迎えている。]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>日本のIT業界に襲いかかるシリコンバレーの「デス・スター」（NRI楠真 強いITはココが違う）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/061300089/</link>
 			<description><![CDATA[　ベイエリアの先進的なIT会社を訪問してきました。訪問した企業は未上場のベンチャー企業からクラウドベンダー、ソフトウエアベンダー、さらにハードベンダーまで様々です。私の問題意識は一つ。はたして日本のITはどれくらい引き離されてしまったのか、ということです。]]></description>
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>契約システムでBRMSを活用したチューリッヒ生命、チェック自動化で査定時間を半減（ケーススタディに学ぶ、クラウド活用最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000003/</link>
-			<description><![CDATA[　チューリッヒ・ライフ・インシュアランス・カンパニー・リミテッド日本支店（チューリッヒ生命）では現在、「契約管理システム」の刷新プロジェクトが大詰めを迎えている。]]></description>
+			<title>「ビジネスの約束は厳守」とは愚かな思い込み、これで技術者は地獄に（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/062000144/</link>
+			<description><![CDATA[　日本人にはおかしな信念があって、それがビジネスにおいてマイナスに作用する。「約束した事は絶対に守らなければならない」という思い込みだ。多くの人が「約束は厳守」などという愚かな強迫観念にとらわれているのは、日本ぐらいではないか。]]></description>
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -125,15 +95,15 @@
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>東電システムの「コピー失敗」はなぜ起きたか（東電、システムトラブルの真相）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400241/061600002/</link>
-			<description><![CDATA[　東京電力パワーグリッドが2017年6月9日、システムの不具合や再発防止策などをまとめた報告書資料を公表した。東電PGは「これが（一連のトラブルの）総括となる」としている。2016年から続いていたシステムトラブルで、何が起きていたのか。その原因が見えてきた。]]></description>
+			<title>電子行政サービスは使いにくいままでよい、APIさえあればね（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062100864/</link>
+			<description><![CDATA[　官公庁や地方自治体の電子行政サービスは使いづらい――。こんな評判を耳にする。新経済連盟の春日美奈子氏は、「（サイト内で）自分がやりたい行政手続きを見つけることすら難しい」と語る。]]></description>
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「ビジネスの約束は厳守」とは愚かな思い込み、これで技術者は地獄に（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/062000144/</link>
-			<description><![CDATA[　日本人にはおかしな信念があって、それがビジネスにおいてマイナスに作用する。「約束した事は絶対に守らなければならない」という思い込みだ。多くの人が「約束は厳守」などという愚かな強迫観念にとらわれているのは、日本ぐらいではないか。]]></description>
+			<title>FinTech推進へ手は緩めず、金融庁参事官が明かす「次の一手」　（Nikkei FinTech Conference 2017#2レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062500001/</link>
+			<description><![CDATA[　日経FinTechは2017年6月23日、都内で「Nikkei FinTech Conference 2017#2」を開催した。基調講演・対談には金融庁 総務企画局 信用制度参事官 井上 俊剛氏が登壇。「フィンテックの進展とその推進に向けた取組み」と題して講演した。]]></description>
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -197,27 +167,21 @@
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>電子行政サービスは使いにくいままでよい、APIさえあればね（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062100864/</link>
-			<description><![CDATA[　官公庁や地方自治体の電子行政サービスは使いづらい――。こんな評判を耳にする。新経済連盟の春日美奈子氏は、「（サイト内で）自分がやりたい行政手続きを見つけることすら難しい」と語る。]]></description>
+			<title>東電システムの「コピー失敗」はなぜ起きたか（東電、システムトラブルの真相）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400241/061600002/</link>
+			<description><![CDATA[　東京電力パワーグリッドが2017年6月9日、システムの不具合や再発防止策などをまとめた報告書資料を公表した。東電PGは「これが（一連のトラブルの）総括となる」としている。2016年から続いていたシステムトラブルで、何が起きていたのか。その原因が見えてきた。]]></description>
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>FinTech推進へ手は緩めず、金融庁参事官が明かす「次の一手」　（Nikkei FinTech Conference 2017#2レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062500001/</link>
-			<description><![CDATA[　日経FinTechは2017年6月23日、都内で「Nikkei FinTech Conference 2017#2」を開催した。基調講演・対談には金融庁 総務企画局 信用制度参事官 井上 俊剛氏が登壇。「フィンテックの進展とその推進に向けた取組み」と題して講演した。]]></description>
-			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「地に足のついたIoTを提供する」、安川情報システムが経営方針発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301756/</link>
-			<description><![CDATA[　安川情報システムは2017年6月23日、経営方針説明会を開いた。2017年度からはスマートファクトリーやAIによるデータ分析などを提供する「IoTソリューション」、ERPを使った業務システムの構築や運用、保守を提供する「ビジネスソリューション」の二つを主力事業に据えるとした。]]></description>
-			<pubDate>Mon, 26 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>仏スタートアップが来日、「香りの目覚まし時計」や「スマートトイ」で日本上陸（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301758/</link>
 			<description><![CDATA[　フランス貿易投資庁-ビジネスフランスとオレンジ・ジャパンは2017年6月22日、フランスから来日したスタートアップ企業2社のピッチイベントを開催し、日本市場に向けてアピールした。]]></description>
+			<pubDate>Mon, 26 Jun 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「地に足のついたIoTを提供する」、安川情報システムが経営方針発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062301756/</link>
+			<description><![CDATA[　安川情報システムは2017年6月23日、経営方針説明会を開いた。2017年度からはスマートファクトリーやAIによるデータ分析などを提供する「IoTソリューション」、ERPを使った業務システムの構築や運用、保守を提供する「ビジネスソリューション」の二つを主力事業に据えるとした。]]></description>
 			<pubDate>Mon, 26 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -252,6 +216,12 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 26 Jun 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google、無償版Gmailのメールスキャンを年内に停止へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062601759/</link>
+			<description><![CDATA[　米Googleは現地時間2017年6月23日、Webメールサービス「Gmail」の無償版において広告のパーソナライズのために行っていたメール内容のスキャンを年内に停止すると発表した。]]></description>
+			<pubDate>Mon, 26 Jun 2017 09:50:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
