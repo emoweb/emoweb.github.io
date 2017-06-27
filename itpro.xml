@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>ドコモのスマホ料金、「高い説」と「実は相当安い説」の真相（スマホ料金の勘違い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062100001/</link>
+			<description><![CDATA[　続々と新しい料金プランを導入しているNTTドコモ。家族で加入するなら「月額280円からスマホが使える」としているが、その激安料金で使うにはどのような制約があるのか。あるいは、今はもう「ドコモは高い」という見方は勘違いになってしまっているのだろうか？]]></description>
+			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>明らかになったLINEの戦略、アプリからAIへ（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062201026/</link>
 			<description><![CDATA[　LINEが人工知能（AI）による新たな戦略を明らかにした。同社のクラウドAI「Clova」を、スマートフォンアプリに代わる新たなサービス基盤として構築する。]]></description>
@@ -59,15 +65,15 @@
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>日本のIT業界に襲いかかるシリコンバレーの「デス・スター」（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/061300089/</link>
-			<description><![CDATA[　ベイエリアの先進的なIT会社を訪問してきました。訪問した企業は未上場のベンチャー企業からクラウドベンダー、ソフトウエアベンダー、さらにハードベンダーまで様々です。私の問題意識は一つ。はたして日本のITはどれくらい引き離されてしまったのか、ということです。]]></description>
+			<title>LINEを「Google Apps Script」でコントロールしてみよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042500069/</link>
+			<description><![CDATA[　Googleのクラウドサービスのプログラミング環境が「Google Apps Script」。実はこのGoogle Apps ScriptとLINEを連携させると、とても便利。いろいろできますが、第一歩として「LINE Notify API」を使ってプログラムからメッセージを送ってみましょう。]]></description>
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ドコモのスマホ料金、「高い説」と「実は相当安い説」の真相（スマホ料金の勘違い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062100001/</link>
-			<description><![CDATA[　続々と新しい料金プランを導入しているNTTドコモ。家族で加入するなら「月額280円からスマホが使える」としているが、その激安料金で使うにはどのような制約があるのか。あるいは、今はもう「ドコモは高い」という見方は勘違いになってしまっているのだろうか？]]></description>
+			<title>「人とは比べず自分と戦う」、仕事大好き女性SEの流儀（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/062100012/</link>
+			<description><![CDATA[　野村総合研究所（NRI）の上級SEを務める澁谷亜樹氏。入社以来、一貫して証券会社向けのITシステムの分野を歩んできた。NRI社内では、「常に高い目標を設定しながら仕事に取り組む社員」として一目を置かれる存在だ。]]></description>
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,22 +101,10 @@
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>LINEを「Google Apps Script」でコントロールしてみよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042500069/</link>
-			<description><![CDATA[　Googleのクラウドサービスのプログラミング環境が「Google Apps Script」。実はこのGoogle Apps ScriptとLINEを連携させると、とても便利。いろいろできますが、第一歩として「LINE Notify API」を使ってプログラムからメッセージを送ってみましょう。]]></description>
+			<title>日本のIT業界に襲いかかるシリコンバレーの「デス・スター」（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/061300089/</link>
+			<description><![CDATA[　ベイエリアの先進的なIT会社を訪問してきました。訪問した企業は未上場のベンチャー企業からクラウドベンダー、ソフトウエアベンダー、さらにハードベンダーまで様々です。私の問題意識は一つ。はたして日本のITはどれくらい引き離されてしまったのか、ということです。]]></description>
 			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「人とは比べず自分と戦う」、仕事大好き女性SEの流儀（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/062100012/</link>
-			<description><![CDATA[　野村総合研究所（NRI）の上級SEを務める澁谷亜樹氏。入社以来、一貫して証券会社向けのITシステムの分野を歩んできた。NRI社内では、「常に高い目標を設定しながら仕事に取り組む社員」として一目を置かれる存在だ。]]></description>
-			<pubDate>Mon, 26 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>スタディストがリクルートなどから1.2億円調達、飲食・宿泊へ拡販（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062601763/</link>
-			<description><![CDATA[　電子マニュアル作成サービスのスタディストは2017年6月26日、リクルートホールディングス（HD）などから1億2000万円を調達したと発表した。併せて同社サービスの拡販に向けてリクルートHDと提携。飲食、宿泊を中心としたサービス業に売り込みを図る。]]></description>
-			<pubDate>Mon, 26 Jun 2017 16:03:54 +0900</pubDate>
 		</item>
 		<item>
 			<title>KDDIが毎月3回の特典プログラム「三太郎の日」CMを発表、他社との違い強調（ニュース）</title>
@@ -152,6 +146,12 @@
 			<title>シスコのヴィプテラ買収はSD-WANの「終わりの始まり」か（編集長の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/062300037/</link>
 			<description><![CDATA[　少し前の話題になるが、米シスコシステムズが現地時間5月1日に、ネットワークベンチャー企業であるヴィプテラ（Viptela）を、6億1000万ドルで買収する意向を明らかにしました。筆者も「ついに来たか」と実感しつつ、「いよいよ終わりの始まりか」とも思いました。]]></description>
+			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>レノボのデータセンター事業役員、「余計な遺産を持たないことが成功の秘訣」（インタビュー＆トーク）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/062200337/</link>
+			<description><![CDATA[　データセンター向け事業に力を入れる中国レノボ。2017年3月にデータセンター組織を再編し、グローバルで一貫した経営体制にすることで競争力を高める狙いだ。]]></description>
 			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -209,18 +209,6 @@
 			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>auのスマホ料金、「最安1GB」よりも「2GB」が得な理由（スマホ料金の勘違い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062200002/</link>
-			<description><![CDATA[　au（KDDI）のスマートフォン向け料金プランは、新旧が混在している。ほかの携帯電話事業者と同様の、通話がかけ放題となるサービス「カケホ」「スーパーカケホ」に加えて、通話定額が導入される前から提供している「LTEプラン」も選べることが特徴だ。またNTTドコモにはない、1GBのデータ定額サービスも用意されている。]]></description>
-			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>レノボのデータセンター事業役員、「余計な遺産を持たないことが成功の秘訣」（インタビュー＆トーク）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/062200337/</link>
-			<description><![CDATA[　データセンター向け事業に力を入れる中国レノボ。2017年3月にデータセンター組織を再編し、グローバルで一貫した経営体制にすることで競争力を高める狙いだ。]]></description>
-			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>馬鹿げたシナリオが面白い、多能工エンジニアになろう！（10人のIT部門が消滅～ひとり情シス顛末記）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/062200024/</link>
 			<description><![CDATA[　10人いたIT部門が消滅した製造業で、一人残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」も、今回が最終回。最後は、著者の思いのたけに熱く記してもらった。「みんな、多能工エンジニアになろう！日本を変えられるかもしれないぞ」]]></description>
@@ -230,6 +218,12 @@
 			<title>「Google Apps Script」を使って予定をLINEに通知しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042700070/</link>
 			<description><![CDATA[　前回、LINE Notify APIとGoogle Apps Scriptを利用して、LINEにメッセージを送信する方法を紹介しました。今回は、定期的なイベントをLINEで通知するプログラムを作ってみます。ここでは、定例会議の参加者にリマインダーを送るプログラムを作ってみます。]]></description>
+			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>auのスマホ料金、「最安1GB」よりも「2GB」が得な理由（スマホ料金の勘違い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062200002/</link>
+			<description><![CDATA[　au（KDDI）のスマートフォン向け料金プランは、新旧が混在している。ほかの携帯電話事業者と同様の、通話がかけ放題となるサービス「カケホ」「スーパーカケホ」に加えて、通話定額が導入される前から提供している「LTEプラン」も選べることが特徴だ。またNTTドコモにはない、1GBのデータ定額サービスも用意されている。]]></description>
 			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -358,6 +352,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062701780/</link>
 			<description><![CDATA[　マカフィーは2017年6月27日、報道関係者向け勉強会を開催し、2017年第1四半期における脅威動向や、マカフィーが注目するセキュリティインシデントについて解説した。取り上げたインシデントは、ランサムウエアのWannaCry、フランス大統領選挙を狙ったハッキング、ウクライナ電力網に対するハッキングの三つである。]]></description>
 			<pubDate>Tue, 27 Jun 2017 20:37:33 +0900</pubDate>
+		</item>
+		<item>
+			<title>今後3年でサイバー保険の市場規模は4倍の8000億円に、AIGグループ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062701781/</link>
+			<description><![CDATA[　AIGグループのAIU損害保険は2017年6月27日、グローバル企業が想定すべきサイバーリスクの最新事情と題した報道向けセミナーを開催した。]]></description>
+			<pubDate>Tue, 27 Jun 2017 21:08:46 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
