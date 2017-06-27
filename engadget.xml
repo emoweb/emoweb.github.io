@@ -5,26 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    LINE Payカードがポイント還元率4%にアップ。6月23日から3日間限定キャンペーン開催
-</title>
-			<link>http://japanese.engadget.com/2017/06/19/line-pay-4-6-23-3a/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/f4d19b1c47a6c5efc5351f3cfb87af07/205390314/IMG_5893.jpg" />
-6月23日から6月25日までの3日間、LINEのプリペイドカード「LINE Payカード」のポイント還元率が通常の2%から4%にアップするキャンペーンが開催されます。
-
-LINE Payカードは、スーパーやコンビニなど、国内外約3000万のJCB加盟店で、クレジットカードと同じように使えるプリペイドカードです。特徴は2％（通常時）という高還元率。決済金額の2%のLINEポイントが貯まり、1ポイント1円として利用可能。また、クレジットカードのような年齢制限や与信審査がなく、申し込んですぐに使えるのが特徴です。
-
-今回は6月23日〜25日の3日間にわたり、ポイントアップキャンペーンを開催。ポイント還元率が通常時の2%から4%へ2倍にアップします。対象は期間中にLINE Payカードで決済したユーザー全員で、1人あたり50万円までの決済が対象です。なお、ポイントアップ分の付与は7月中旬を予定します。
-
-LINE Payカードの詳細については、こちらの記事もご覧ください
-
-ポイント還元率2%、LINE Payカードを使ってみたら便利でお得だった
-LINE Pay、ローソン全店舗が「カードなし決済」に対応
-レジ待ちを解消？ ファミマが「次世代コンビニ」でLINEと提携、Amazon Goに対抗
-
- ]]></description>
-			<pubDate>Fri, 23 Jun 2017 09:20:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    EVのテスラが独自に音楽ストリーミングサービスを開始？車内エンタメ向けに主要レーベルと交渉中
 </title>
 			<link>http://japanese.engadget.com/2017/06/22/ev/</link>
@@ -759,6 +739,28 @@ Macが遂にVR対応。macOS Sierraの次は『High Sierra』、APFSファイル
  
  ]]></description>
 			<pubDate>Tue, 27 Jun 2017 10:45:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    害虫だけをレーザーで撃ち落とす｢Photonic Fence｣もうすぐ実用化。農作物を見えない電撃柵で保護
+</title>
+			<link>http://japanese.engadget.com/2017/06/26/photonic-fence/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/25511104042f27df981ba4b18fdb6c84/205417442/mainivl.jpg" />
+　
+元マイクロソフトCTO、ネイサン・マイアーボルド氏が設立したIntellectual Ventures Lab(IVL)が、飛んでくる害虫だけを識別して撃ち落とすレーザー機器「Photonic Fence」を、もうすぐ実用化します。2009年から開発を始めたPhotonic Fenceは現在、米農務省での実地検査中とのことで、承認が出ればまずは害虫被害に悩む農家向けに商品化する計画です。
+
+Photonic Fenceのすごいところは複数の光学測定器を使用して、飛んできた虫の羽ばたく周波数、形状、大きさ、対気速度(大気の流れとの相対速度)を測り、狙撃対象かどうかを判別できるところ。たとえば蚊のような小さな虫でもその雌雄までを判別可能です。
+　
+
+　
+検出距離は100mと長いうえ幅30m、高さ3mの射程範囲を備えるため、田畑をカバーするように配置すれば、まさに見えない電撃フェンスを構築できます。さらに毎秒20匹の速度で識別、狙撃が可能なため、IVLは虫が群れでやってきた場合でも99%は駆除できるとしています。
+
+IVLはPhotonic Fence開発の動機はアフリカ・サハラ砂漠周辺での公衆衛生の改善を目的としていました。しかし、開発中に米国ではミカンキジラミ被害が深刻化しており、フロリダでは過去15年で70%も柑橘類の生産量が減少していることを知り、現在はまず害虫被害に悩む農家に向けた商業プロジェクトへと進路変更しています。
+
+IVLは農務省の検査が問題なく完了し次第、いろいろな害虫に悩む農家に向けてPhotonic Fenceを売り出したいとしています。
+
+ちなみに、IVL共同設立者のマイアーボルド氏は料理研究の大家でもあり、科学的に料理を解説する2438ページ(英語版)の著作「Modernist Cuisine」シリーズを各国で出版しているほか、2011年にはTEDカンファレンスでも料理本出版のためにあらゆる調理器具を真っ二つにした話が好評を得ていました。
+ ]]></description>
+			<pubDate>Tue, 27 Jun 2017 12:25:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
