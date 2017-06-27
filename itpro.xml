@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>レノボのデータセンター事業役員、「余計な遺産を持たないことが成功の秘訣」（インタビュー＆トーク）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/062200337/</link>
+			<description><![CDATA[　データセンター向け事業に力を入れる中国レノボ。2017年3月にデータセンター組織を再編し、グローバルで一貫した経営体制にすることで競争力を高める狙いだ。]]></description>
+			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>AWSやグーグルを使い分け、マルチクラウドで開発者の士気高める（ケーススタディに学ぶ、クラウド活用最前線）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000004/</link>
 			<description><![CDATA[　「まさかグーグルが2位に食い込むとは思わなかった」。富士ゼロックスソリューション・サービス開発本部 ソリューション開発部 クラウド統括の黒須義一氏は、社内アンケートの結果に目を見張った。]]></description>
@@ -53,15 +59,15 @@
 			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「セキュリティを完全に体に染み込ませる」、NECの受注拡大作戦（国内大手のセキュリティ人材育成）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062600002/</link>
-			<description><![CDATA[　NECはグループで1万人以上のセキュリティ人材を育成済みだ。同社は2012年にサイバーセキュリティを成長領域に据え、2014年には2018年3月期までにセキュリティ人材を当時の600人から1200人に増員し、関連事業の売上高を当時の約2倍となる2500億円に引き上げる目標を立てた。]]></description>
+			<title>「Google Apps Script」を使って予定をLINEに通知しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042700070/</link>
+			<description><![CDATA[　前回、LINE Notify APIとGoogle Apps Scriptを利用して、LINEにメッセージを送信する方法を紹介しました。今回は、定期的なイベントをLINEで通知するプログラムを作ってみます。ここでは、定例会議の参加者にリマインダーを送るプログラムを作ってみます。]]></description>
 			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>レノボのデータセンター事業役員、「余計な遺産を持たないことが成功の秘訣」（インタビュー＆トーク）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/062200337/</link>
-			<description><![CDATA[　データセンター向け事業に力を入れる中国レノボ。2017年3月にデータセンター組織を再編し、グローバルで一貫した経営体制にすることで競争力を高める狙いだ。]]></description>
+			<title>auのスマホ料金、「最安1GB」よりも「2GB」が得な理由（スマホ料金の勘違い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062200002/</link>
+			<description><![CDATA[　au（KDDI）のスマートフォン向け料金プランは、新旧が混在している。ほかの携帯電話事業者と同様の、通話がかけ放題となるサービス「カケホ」「スーパーカケホ」に加えて、通話定額が導入される前から提供している「LTEプラン」も選べることが特徴だ。またNTTドコモにはない、1GBのデータ定額サービスも用意されている。]]></description>
 			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -77,15 +83,9 @@
 			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「Google Apps Script」を使って予定をLINEに通知しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042700070/</link>
-			<description><![CDATA[　前回、LINE Notify APIとGoogle Apps Scriptを利用して、LINEにメッセージを送信する方法を紹介しました。今回は、定期的なイベントをLINEで通知するプログラムを作ってみます。ここでは、定例会議の参加者にリマインダーを送るプログラムを作ってみます。]]></description>
-			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>auのスマホ料金、「最安1GB」よりも「2GB」が得な理由（スマホ料金の勘違い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062200002/</link>
-			<description><![CDATA[　au（KDDI）のスマートフォン向け料金プランは、新旧が混在している。ほかの携帯電話事業者と同様の、通話がかけ放題となるサービス「カケホ」「スーパーカケホ」に加えて、通話定額が導入される前から提供している「LTEプラン」も選べることが特徴だ。またNTTドコモにはない、1GBのデータ定額サービスも用意されている。]]></description>
+			<title>「セキュリティを完全に体に染み込ませる」、NECの受注拡大作戦（国内大手のセキュリティ人材育成）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062600002/</link>
+			<description><![CDATA[　NECはグループで1万人以上のセキュリティ人材を育成済みだ。同社は2012年にサイバーセキュリティを成長領域に据え、2014年には2018年3月期までにセキュリティ人材を当時の600人から1200人に増員し、関連事業の売上高を当時の約2倍となる2500億円に引き上げる目標を立てた。]]></description>
 			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -222,6 +222,12 @@
 			<pubDate>Tue, 27 Jun 2017 21:08:46 +0900</pubDate>
 		</item>
 		<item>
+			<title>東電が見抜けなかった不具合、システム子会社の「不在」が響く（東電、システムトラブルの真相）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400241/062300003/</link>
+			<description><![CDATA[　当初から稼働が危ぶまれていた、東京電力パワーグリッドの託送業務システム。どのような開発体制で進めていたのか。カギを握っていたのは、東電グループのシステム関連会社であるテプコシステムズの役割だった。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>スピード重視が招く弊害、Amazonクラウド（AWSの死角）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062600002/</link>
 			<description><![CDATA[　米アマゾン・ドット・コムのパブリッククラウド「Amazon Web Services（AWS）」のスピード感は、2006年のサービス開始から一貫している。新サービス投入や機能改善は、2016年の1年だけで1000件を超えたという]]></description>
@@ -240,9 +246,9 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>東電が見抜けなかった不具合、システム子会社の「不在」が響く（東電、システムトラブルの真相）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400241/062300003/</link>
-			<description><![CDATA[　当初から稼働が危ぶまれていた、東京電力パワーグリッドの託送業務システム。どのような開発体制で進めていたのか。カギを握っていたのは、東電グループのシステム関連会社であるテプコシステムズの役割だった。]]></description>
+			<title>乗務員に8600台のiPad持たせるJR西日本、ダイヤ乱れの影響を即把握（ケーススタディに学ぶ、クラウド活用最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000005/</link>
+			<description><![CDATA[　西日本旅客鉄道（JR西日本）は2017年度に西日本エリアで運行する全車両の乗務員を対象に計8600台のiPadを導入する。iPadには、いずれも独自に開発した「列車運行情報一覧アプリ」や、新幹線乗務員向け「幹在接続時刻表アプリ」を搭載する。全乗務員がiPadでアプリを活用し、正確な運行情報を乗客に迅速に案内できるようにする計画だ。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -300,16 +306,43 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>乗務員に8600台のiPad持たせるJR西日本、ダイヤ乱れの影響を即把握（ケーススタディに学ぶ、クラウド活用最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000005/</link>
-			<description><![CDATA[　西日本旅客鉄道（JR西日本）は2017年度に西日本エリアで運行する全車両の乗務員を対象に計8600台のiPadを導入する。iPadには、いずれも独自に開発した「列車運行情報一覧アプリ」や、新幹線乗務員向け「幹在接続時刻表アプリ」を搭載する。全乗務員がiPadでアプリを活用し、正確な運行情報を乗客に迅速に案内できるようにする計画だ。]]></description>
-			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Googleカレンダーの予定を毎朝LINEに通知しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042700071/</link>
 			<description><![CDATA[　ここ3回にわたって、LINE Notify APIとGoogle Apps Scriptを組み合わせて使う方法を紹介しています。前回は、定期的に会議の参加者にリマインダーを送るプログラムを作りましたが、今回は、Googleカレンダーの予定を取得して、その予定をLINEに通知するプログラムを作ってみましょう。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>CISOの任命、何をどう進めるか（中）（CISOの任命、何をどう進めるか）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　企業がCISO（最高情報セキュリティ責任者）を置かないのは、無謀に思えるかもしれないが、珍しいことではない。米Cybrary ITのレポート「2016 Cyber Security Job Trends」によると、CSO（最高セキュリティ責任者）やCISOを置いている企業は49％にすぎない。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900001/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　中小企業の中にも、思い切ってCISOを置いた企業がある。米自動車整備チェーンService King Collision Repair CentersのCIO、Derek Kramer氏は、2016年にAnil Varghese氏をCISOに任命したことで、既に数々の恩恵を受けているという。「直ちに、組織のポリシーを数多く定めることができた。先を見越したセキュリティプログラムやセキュリティ対策の推進と意識向上に早速つながった」</p>
+
+<p>　「こうして、従来よりセキュアな環境を直ちに構築できた。チームメートたちは、情報セキュリティに関するベストプラクティスへの意識が高まった。さらに当社は、自前のセキュリティ担当スタッフを確立しつつ、代表的なセキュリティ企業の数々とも提携して、消費者とビジネスパートナーのデータをすべて守るという面で先頭に立っている」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900002/?ST=cio-security&P=2">候補者選びのプロセス</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900002/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900002/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900002/?ST=cio-security&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900002/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 28 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
