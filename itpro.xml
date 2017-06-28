@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Amazon.com、機械翻訳技術を社外に貸し出すサービス検討中（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062701772/</link>
-			<description><![CDATA[　Amazon.comが、機械翻訳システムを社外の開発者などに貸し出すサービスを検討していると、米CNBCが現地時間2017年6月26日に報じた。]]></description>
-			<pubDate>Tue, 27 Jun 2017 10:50:07 +0900</pubDate>
-		</item>
-		<item>
 			<title>ヴイエムウェア、HCI需要増で専任の保守サポート部隊を7月立ち上げ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062701773/</link>
 			<description><![CDATA[　ヴイエムウェアは2017年6月27日、HCIの中核を成すソフト「VMware vSAN」について、直近の取り組みを説明した。2017年7月1日付で保守サポート部隊を再編し、vSANの専任チームを立ち上げる。]]></description>
@@ -59,6 +53,12 @@
 			<pubDate>Tue, 27 Jun 2017 21:08:46 +0900</pubDate>
 		</item>
 		<item>
+			<title>壊れてしまったハードディスク、「復活」までの手順とは（HDDが壊れたら…）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062600003/</link>
+			<description><![CDATA[　壊れたハードディスクのデータを救出してくれるデータ復旧サービス。どのような工程でデータを復旧するのかを知っておくと、復旧につながる情報を依頼時に効率よく伝えられる。データ復旧の現場を写真でレポートする。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「できない理由を完璧に言える」技術者は迷惑だ（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062300865/</link>
 			<description><![CDATA[　「イノベーションに必須の条件は何か」と聞かれたら、皆さんは何と答えるだろうか。ITを使った新規ビジネスやビジネスのデジタル化の取り組みなどを想定して考えてほしい。これだけは絶対に必要、まさに必須の条件とは何だろうか……。]]></description>
@@ -71,9 +71,9 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>壊れてしまったハードディスク、「復活」までの手順とは（HDDが壊れたら…）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062600003/</link>
-			<description><![CDATA[　壊れたハードディスクのデータを救出してくれるデータ復旧サービス。どのような工程でデータを復旧するのかを知っておくと、復旧につながる情報を依頼時に効率よく伝えられる。データ復旧の現場を写真でレポートする。]]></description>
+			<title>FinTechが切り拓く金融の未来、日本は今何をすべきか（Nikkei FinTech Conference 2017#2レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062700004/</link>
+			<description><![CDATA[　日経FinTechが2017年6月23日に都内で開催した「Nikkei FinTech Conference 2017#2」の基調講演・対談に日本銀行 決済機構局長 山岡浩巳氏が登壇した。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Google Lens（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/062100078/</link>
-			<description><![CDATA[　スマートフォンで撮影した映像を認識して、写っているものや場所に関する情報を表示する米グーグルのアプリの機能。花の映像からその花の名前や種類を、レストランの映像から料理の種類や口コミ評価を即座に表示する。]]></description>
+			<title>機械学習で変わるBIツール、データの関連性を自動発見（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062601031/</link>
+			<description><![CDATA[　企業の利用部門が自分でデータ分析をするためのBIツールである「セルフサービスBI」で、機械学習の活用が始まっている。エンドユーザーは専門家であるデータアナリストに比べると、システムや分析に詳しくない。これを補うように、機械学習が専門家のノウハウを肩代わりするのが、セルフサービスBIの新しい流れだ。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>FinTechが切り拓く金融の未来、日本は今何をすべきか（Nikkei FinTech Conference 2017#2レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062700004/</link>
-			<description><![CDATA[　日経FinTechが2017年6月23日に都内で開催した「Nikkei FinTech Conference 2017#2」の基調講演・対談に日本銀行 決済機構局長 山岡浩巳氏が登壇した。]]></description>
+			<title>IoTには必ずバグがある（ゼロから挑戦！IoT開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/062600008/</link>
+			<description><![CDATA[　単純なコーディングミスからインタフェースミスマッチまで、多様なバグがIoTに生息している。IoTシステムの仕様に未確定の部分があったり、構造や機能が複雑になったりすると、バグは飛躍的に増える。その種類も多様で、昆虫図鑑が作れるほどだ。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -137,15 +137,9 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>機械学習で変わるBIツール、データの関連性を自動発見（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062601031/</link>
-			<description><![CDATA[　企業の利用部門が自分でデータ分析をするためのBIツールである「セルフサービスBI」で、機械学習の活用が始まっている。エンドユーザーは専門家であるデータアナリストに比べると、システムや分析に詳しくない。これを補うように、機械学習が専門家のノウハウを肩代わりするのが、セルフサービスBIの新しい流れだ。]]></description>
-			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IoTには必ずバグがある（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/062600008/</link>
-			<description><![CDATA[　単純なコーディングミスからインタフェースミスマッチまで、多様なバグがIoTに生息している。IoTシステムの仕様に未確定の部分があったり、構造や機能が複雑になったりすると、バグは飛躍的に増える。その種類も多様で、昆虫図鑑が作れるほどだ。]]></description>
+			<title>Google Lens（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/062100078/</link>
+			<description><![CDATA[　スマートフォンで撮影した映像を認識して、写っているものや場所に関する情報を表示する米グーグルのアプリの機能。花の映像からその花の名前や種類を、レストランの映像から料理の種類や口コミ評価を即座に表示する。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -253,6 +247,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040700124/062800004/</link>
 			<description><![CDATA[　日本マクドナルドで2017年6月16日に発生した、dポイントなどが使えなくなるシステム障害について、関連記事をまとめました。ITproアーカイブスは、ITpro内の記事のリンク集です。内容は随時更新します。]]></description>
 			<pubDate>Wed, 28 Jun 2017 13:50:41 +0900</pubDate>
+		</item>
+		<item>
+			<title>［特報］日本郵政がPC12万台超を刷新へ、約70億円かけWindows 10全面導入（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801787/</link>
+			<description><![CDATA[　日本郵政グループが全国の郵便局などで使うPCを全面刷新することが2017年6月28日までに日経コンピュータの取材で分かった。現行のWindows 7搭載機を2019年ごろまでにWindows 10搭載機に置き換える。総台数は12万台を超える見通しで、端末調達額は総額70億円に達するもよう。]]></description>
+			<pubDate>Wed, 28 Jun 2017 15:37:43 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
