@@ -11,24 +11,6 @@
 			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>日立システムズの「音声こころ分析サービス」、“心の健康状態”を音声で分析（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062701775/</link>
-			<description><![CDATA[　日立システムズは2017年6月27日、音声から心の健康状態の変化を捉え、うつ病などのメンタル疾患の予防や未病の早期発見に役立てられる法人向けクラウドサービス「音声こころ分析サービス」を、同日から販売開始すると発表した。]]></description>
-			<pubDate>Tue, 27 Jun 2017 17:40:06 +0900</pubDate>
-		</item>
-		<item>
-			<title>［続報］メルカリが個人情報流出で新情報、実際は「有効期限0秒のキャッシュ」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062701776/</link>
-			<description><![CDATA[　メルカリは2017年6月27日、メルカリWeb版での個人情報流出に関して新たな情報を同社の技術ブログで公開した。CDNのキャッシュの動作について、CDNプロバイダーと仕様について確認し検証した結果だという。同月26日までの説明とは一部異なっている点があり、ブログエントリを加筆修正した。]]></description>
-			<pubDate>Tue, 27 Jun 2017 17:42:46 +0900</pubDate>
-		</item>
-		<item>
-			<title>LINEアプリのニュース配信機能に30媒体が新たに参画、動画配信にも対応（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062701778/</link>
-			<description><![CDATA[　LINEは2017年6月27日、同社が運営するニュースサービス「LINE NEWS」において、新たに30メディアが同日に「LINEアカウントメディア プラットフォーム」に参画したと発表した。これにより参画メディアは合計201メディアとなった。]]></description>
-			<pubDate>Tue, 27 Jun 2017 18:14:10 +0900</pubDate>
-		</item>
-		<item>
 			<title>ソニー、ディープラーニング開発を支援するフレームワークをオープンソース化（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062701779/</link>
 			<description><![CDATA[　ソニーは2017年6月27日、ディープラーニングのプログラム開発に使うフレームワーク「Neural Network Libraries」をオープンソースとして公開した。人工知能（AI）を活用したビジネスが活発化している中でオープンソース化し、フレームワークを強化する狙い。]]></description>
@@ -47,6 +29,24 @@
 			<pubDate>Tue, 27 Jun 2017 21:08:46 +0900</pubDate>
 		</item>
 		<item>
+			<title>壊れてしまったハードディスク、「復活」までの手順とは（HDDが壊れたら…）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062600003/</link>
+			<description><![CDATA[　壊れたハードディスクのデータを救出してくれるデータ復旧サービス。どのような工程でデータを復旧するのかを知っておくと、復旧につながる情報を依頼時に効率よく伝えられる。データ復旧の現場を写真でレポートする。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Googleカレンダーの予定を毎朝LINEに通知しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042700071/</link>
+			<description><![CDATA[　ここ3回にわたって、LINE Notify APIとGoogle Apps Scriptを組み合わせて使う方法を紹介しています。前回は、定期的に会議の参加者にリマインダーを送るプログラムを作りましたが、今回は、Googleカレンダーの予定を取得して、その予定をLINEに通知するプログラムを作ってみましょう。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>飛び交うドローンを交通整理、運航管理システムを3年で実用化へ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062601032/</link>
+			<description><![CDATA[　ドローンの本格活用を推進するため、運航管理システムを研究開発する国家プロジェクトが始動する。新エネルギー・産業技術総合開発機構（NEDO）が2017年6月15日、「無人航空機の運航管理システム」の研究開発に関する説明会を開催。ドローンを活用するための基盤となるシステムを3年間で開発し、実用化を目指す。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「できない理由を完璧に言える」技術者は迷惑だ（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062300865/</link>
 			<description><![CDATA[　「イノベーションに必須の条件は何か」と聞かれたら、皆さんは何と答えるだろうか。ITを使った新規ビジネスやビジネスのデジタル化の取り組みなどを想定して考えてほしい。これだけは絶対に必要、まさに必須の条件とは何だろうか……。]]></description>
@@ -59,9 +59,9 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>壊れてしまったハードディスク、「復活」までの手順とは（HDDが壊れたら…）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062600003/</link>
-			<description><![CDATA[　壊れたハードディスクのデータを救出してくれるデータ復旧サービス。どのような工程でデータを復旧するのかを知っておくと、復旧につながる情報を依頼時に効率よく伝えられる。データ復旧の現場を写真でレポートする。]]></description>
+			<title>マクドナルドはどうして障害原因が「WannaCryかも」と言ったのか（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062701034/</link>
+			<description><![CDATA[　日本マクドナルドは2017年6月19日、社内ネットワークにウイルスが侵入し、電子マネーによる決済やポイントサービスを利用できなくなったと公表した。ウイルスの正体を「WannaCryかもしれない」としたが、ランサムウエアであれば脅迫文ですぐに気付くはず。どうして「WannaCryかも」と言ったのか。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,9 +89,9 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>激化するクアルコムとの法廷闘争、アップルはチップ内製化で何を目指す？（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/062600048/</link>
-			<description><![CDATA[　米アップルは2017年6月19日（米国時間）、カリフォルニア州サンディエゴの連邦裁判所で、米クアルコム（Qualcomm）に対する訴訟を起こした。今回の訴訟は、合衆国憲法修正第1条（信教・表現の自由に関する条文）の侵害として起こされた。]]></description>
+			<title>スピード重視が招く弊害、Amazonクラウド（AWSの死角）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062600002/</link>
+			<description><![CDATA[　米アマゾン・ドット・コムのパブリッククラウド「Amazon Web Services（AWS）」のスピード感は、2006年のサービス開始から一貫している。新サービス投入や機能改善は、2016年の1年だけで1000件を超えたという]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,9 +101,9 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>マクドナルドはどうして障害原因が「WannaCryかも」と言ったのか（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062701034/</link>
-			<description><![CDATA[　日本マクドナルドは2017年6月19日、社内ネットワークにウイルスが侵入し、電子マネーによる決済やポイントサービスを利用できなくなったと公表した。ウイルスの正体を「WannaCryかもしれない」としたが、ランサムウエアであれば脅迫文ですぐに気付くはず。どうして「WannaCryかも」と言ったのか。]]></description>
+			<title>ソフトバンクのスマホ料金、実はこんな人に向いている（スマホ料金の勘違い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062300003/</link>
+			<description><![CDATA[　NTTドコモやau（KDDI）よりも業界参入が遅かったこともあり、料金施策にはアグレッシブな姿勢を示してきたソフトバンク。最近だと、昨年他社に先駆けて20GBと30GBの大容量プランを導入したことが記憶に新しい。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -113,27 +113,9 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>スピード重視が招く弊害、Amazonクラウド（AWSの死角）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062600002/</link>
-			<description><![CDATA[　米アマゾン・ドット・コムのパブリッククラウド「Amazon Web Services（AWS）」のスピード感は、2006年のサービス開始から一貫している。新サービス投入や機能改善は、2016年の1年だけで1000件を超えたという]]></description>
-			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソフトバンクのスマホ料金、実はこんな人に向いている（スマホ料金の勘違い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062300003/</link>
-			<description><![CDATA[　NTTドコモやau（KDDI）よりも業界参入が遅かったこともあり、料金施策にはアグレッシブな姿勢を示してきたソフトバンク。最近だと、昨年他社に先駆けて20GBと30GBの大容量プランを導入したことが記憶に新しい。]]></description>
-			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Googleカレンダーの予定を毎朝LINEに通知しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042700071/</link>
-			<description><![CDATA[　ここ3回にわたって、LINE Notify APIとGoogle Apps Scriptを組み合わせて使う方法を紹介しています。前回は、定期的に会議の参加者にリマインダーを送るプログラムを作りましたが、今回は、Googleカレンダーの予定を取得して、その予定をLINEに通知するプログラムを作ってみましょう。]]></description>
-			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>飛び交うドローンを交通整理、運航管理システムを3年で実用化へ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062601032/</link>
-			<description><![CDATA[　ドローンの本格活用を推進するため、運航管理システムを研究開発する国家プロジェクトが始動する。新エネルギー・産業技術総合開発機構（NEDO）が2017年6月15日、「無人航空機の運航管理システム」の研究開発に関する説明会を開催。ドローンを活用するための基盤となるシステムを3年間で開発し、実用化を目指す。]]></description>
+			<title>激化するクアルコムとの法廷闘争、アップルはチップ内製化で何を目指す？（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/062600048/</link>
+			<description><![CDATA[　米アップルは2017年6月19日（米国時間）、カリフォルニア州サンディエゴの連邦裁判所で、米クアルコム（Qualcomm）に対する訴訟を起こした。今回の訴訟は、合衆国憲法修正第1条（信教・表現の自由に関する条文）の侵害として起こされた。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -259,6 +241,24 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801790/</link>
 			<description><![CDATA[　アイ・オー・データ機器は2017年6月28日、デジタルカメラやスマートフォンの写真・動画をパソコンなしで直接保存できるフォトストレージ「Fotogenic（フォトジェニック）」を7月下旬に出荷開始すると発表した。価格はオープン、予想実勢価格（税別）は1万7800円前後。]]></description>
 			<pubDate>Wed, 28 Jun 2017 17:24:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>エレコム、ヘッドホン一体型のスマホ利用VRヘッドセット「P-VRGEH01」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801791/</link>
+			<description><![CDATA[　エレコムは、スマートフォンを利用したVRヘッドセットの新製品として、ヘッドホン一体型の「P-VRGEH01」シリーズと、イヤホン一体型の「P-VRGEI01」シリーズを2017年7月中旬に発売する。ヘッドホンやイヤホンを一体化することで没入感を高めた。]]></description>
+			<pubDate>Wed, 28 Jun 2017 17:25:36 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本IBMが「FinTech証券共通API」、API管理クラウドを拡販（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801792/</link>
+			<description><![CDATA[　日本IBMは2017年6月28日、証券会社向けのAPI（アプリケーション・プログラミング・インタフェース）を実装する仕様を定めたテンプレート「FinTech証券共通API」を発表した。]]></description>
+			<pubDate>Wed, 28 Jun 2017 17:47:11 +0900</pubDate>
+		</item>
+		<item>
+			<title>米AMDがGPUボード「Radeon Vega Frontier Edition」発表、機械学習でも性能発揮（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801793/</link>
+			<description><![CDATA[　米AMDは2017年6月27日（米国時間）、高性能グラフィックスボード「Radeon Vega Frontier Edition」を発表した。機械学習や複雑な画像処理に向けた製品で、同社が「Vega」と呼ぶアーキテクチャーを採用したGPU（Graphics Processing Unit）を搭載している。空冷タイプの米国での市場価格は999ドル。]]></description>
+			<pubDate>Wed, 28 Jun 2017 17:52:20 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
