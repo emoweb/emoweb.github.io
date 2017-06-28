@@ -11,22 +11,22 @@
 			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ソニー、ディープラーニング開発を支援するフレームワークをオープンソース化（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062701779/</link>
-			<description><![CDATA[　ソニーは2017年6月27日、ディープラーニングのプログラム開発に使うフレームワーク「Neural Network Libraries」をオープンソースとして公開した。人工知能（AI）を活用したビジネスが活発化している中でオープンソース化し、フレームワークを強化する狙い。]]></description>
-			<pubDate>Tue, 27 Jun 2017 18:48:24 +0900</pubDate>
-		</item>
-		<item>
-			<title>WannaCryに偽旗作戦の疑いあり、マカフィーが分析（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062701780/</link>
-			<description><![CDATA[　マカフィーは2017年6月27日、報道関係者向け勉強会を開催し、2017年第1四半期における脅威動向や、マカフィーが注目するセキュリティインシデントについて解説した。取り上げたインシデントは、ランサムウエアのWannaCry、フランス大統領選挙を狙ったハッキング、ウクライナ電力網に対するハッキングの三つである。]]></description>
-			<pubDate>Tue, 27 Jun 2017 20:37:33 +0900</pubDate>
-		</item>
-		<item>
 			<title>今後3年でサイバー保険の市場規模は4倍の8000億円に、AIGグループ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062701781/</link>
 			<description><![CDATA[　AIGグループのAIU損害保険は2017年6月27日、グローバル企業が想定すべきサイバーリスクの最新事情と題した報道向けセミナーを開催した。]]></description>
 			<pubDate>Tue, 27 Jun 2017 21:08:46 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google Lens（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/062100078/</link>
+			<description><![CDATA[　スマートフォンで撮影した映像を認識して、写っているものや場所に関する情報を表示する米グーグルのアプリの機能。花の映像からその花の名前や種類を、レストランの映像から料理の種類や口コミ評価を即座に表示する。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>激化するクアルコムとの法廷闘争、アップルはチップ内製化で何を目指す？（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/062600048/</link>
+			<description><![CDATA[　米アップルは2017年6月19日（米国時間）、カリフォルニア州サンディエゴの連邦裁判所で、米クアルコム（Qualcomm）に対する訴訟を起こした。今回の訴訟は、合衆国憲法修正第1条（信教・表現の自由に関する条文）の侵害として起こされた。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>壊れてしまったハードディスク、「復活」までの手順とは（HDDが壊れたら…）</title>
@@ -53,9 +53,9 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Google Lens（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/062100078/</link>
-			<description><![CDATA[　スマートフォンで撮影した映像を認識して、写っているものや場所に関する情報を表示する米グーグルのアプリの機能。花の映像からその花の名前や種類を、レストランの映像から料理の種類や口コミ評価を即座に表示する。]]></description>
+			<title>ソフトバンクのスマホ料金、実はこんな人に向いている（スマホ料金の勘違い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062300003/</link>
+			<description><![CDATA[　NTTドコモやau（KDDI）よりも業界参入が遅かったこともあり、料金施策にはアグレッシブな姿勢を示してきたソフトバンク。最近だと、昨年他社に先駆けて20GBと30GBの大容量プランを導入したことが記憶に新しい。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,27 +95,15 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>乗務員に8600台のiPad持たせるJR西日本、ダイヤ乱れの影響を即把握（ケーススタディに学ぶ、クラウド活用最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000005/</link>
-			<description><![CDATA[　西日本旅客鉄道（JR西日本）は2017年度に西日本エリアで運行する全車両の乗務員を対象に計8600台のiPadを導入する。iPadには、いずれも独自に開発した「列車運行情報一覧アプリ」や、新幹線乗務員向け「幹在接続時刻表アプリ」を搭載する。全乗務員がiPadでアプリを活用し、正確な運行情報を乗客に迅速に案内できるようにする計画だ。]]></description>
-			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソフトバンクのスマホ料金、実はこんな人に向いている（スマホ料金の勘違い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062300003/</link>
-			<description><![CDATA[　NTTドコモやau（KDDI）よりも業界参入が遅かったこともあり、料金施策にはアグレッシブな姿勢を示してきたソフトバンク。最近だと、昨年他社に先駆けて20GBと30GBの大容量プランを導入したことが記憶に新しい。]]></description>
-			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>IoTには必ずバグがある（ゼロから挑戦！IoT開発）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/062600008/</link>
 			<description><![CDATA[　単純なコーディングミスからインタフェースミスマッチまで、多様なバグがIoTに生息している。IoTシステムの仕様に未確定の部分があったり、構造や機能が複雑になったりすると、バグは飛躍的に増える。その種類も多様で、昆虫図鑑が作れるほどだ。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>激化するクアルコムとの法廷闘争、アップルはチップ内製化で何を目指す？（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/062600048/</link>
-			<description><![CDATA[　米アップルは2017年6月19日（米国時間）、カリフォルニア州サンディエゴの連邦裁判所で、米クアルコム（Qualcomm）に対する訴訟を起こした。今回の訴訟は、合衆国憲法修正第1条（信教・表現の自由に関する条文）の侵害として起こされた。]]></description>
+			<title>乗務員に8600台のiPad持たせるJR西日本、ダイヤ乱れの影響を即把握（ケーススタディに学ぶ、クラウド活用最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000005/</link>
+			<description><![CDATA[　西日本旅客鉄道（JR西日本）は2017年度に西日本エリアで運行する全車両の乗務員を対象に計8600台のiPadを導入する。iPadには、いずれも独自に開発した「列車運行情報一覧アプリ」や、新幹線乗務員向け「幹在接続時刻表アプリ」を搭載する。全乗務員がiPadでアプリを活用し、正確な運行情報を乗客に迅速に案内できるようにする計画だ。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -231,6 +219,12 @@
 			<pubDate>Wed, 28 Jun 2017 15:37:43 +0900</pubDate>
 		</item>
 		<item>
+			<title>アクロニスが企業向けバックアップソフト刷新、ランサムウエアから保護（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801788/</link>
+			<description><![CDATA[　アクロニス・ジャパンは2017年6月28日、企業向けバックアップソフト「Acronis Backup 12.5」を発売した。Oracle DBのオンラインバックアップや企業向けストレージとの連携といった基本機能を強化。ランサムウエアの検知・復旧機能を搭載するなどデータ保護に関する機能を取り込んだ。]]></description>
+			<pubDate>Wed, 28 Jun 2017 16:50:57 +0900</pubDate>
+		</item>
+		<item>
 			<title>PCスマホ所持設置だけでは費用負担求めず、NHK常時同時配信で答申案（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801789/</link>
 			<description><![CDATA[　NHKは2017年6月27日、ネットを利用した放送の常時同時配信に関連して、NHK受信料制度等検討委員会の答申案を公表するとともに意見の募集を開始した。常時同時配信とは、NHKが放送するテレビ番組を、原則としてそのまますべて放送と同時にインターネットを通じて配信することを指す。]]></description>
@@ -259,6 +253,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801793/</link>
 			<description><![CDATA[　米AMDは2017年6月27日（米国時間）、高性能グラフィックスボード「Radeon Vega Frontier Edition」を発表した。機械学習や複雑な画像処理に向けた製品で、同社が「Vega」と呼ぶアーキテクチャーを採用したGPU（Graphics Processing Unit）を搭載している。空冷タイプの米国での市場価格は999ドル。]]></description>
 			<pubDate>Wed, 28 Jun 2017 17:52:20 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIが採用面接を代行、支援サービス「SHaiN」開始へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801794/</link>
+			<description><![CDATA[　タレントアンドアセスメント（東京・港）は2017年6月28日、人工知能（AI）による採用面接支援サービス「SHaiN（シャイン）」を発表した。8月から求人企業による優先利用申し込みの受け付けを始める。料金は1面接当たり1万円前後を想定している。]]></description>
+			<pubDate>Wed, 28 Jun 2017 18:41:43 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
