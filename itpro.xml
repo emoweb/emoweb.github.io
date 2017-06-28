@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>Google Lens（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/062100078/</link>
+			<description><![CDATA[　スマートフォンで撮影した映像を認識して、写っているものや場所に関する情報を表示する米グーグルのアプリの機能。花の映像からその花の名前や種類を、レストランの映像から料理の種類や口コミ評価を即座に表示する。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>機械学習で変わるBIツール、データの関連性を自動発見（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062601031/</link>
 			<description><![CDATA[　企業の利用部門が自分でデータ分析をするためのBIツールである「セルフサービスBI」で、機械学習の活用が始まっている。エンドユーザーは専門家であるデータアナリストに比べると、システムや分析に詳しくない。これを補うように、機械学習が専門家のノウハウを肩代わりするのが、セルフサービスBIの新しい流れだ。]]></description>
@@ -59,15 +65,15 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Googleカレンダーの予定を毎朝LINEに通知しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042700071/</link>
-			<description><![CDATA[　ここ3回にわたって、LINE Notify APIとGoogle Apps Scriptを組み合わせて使う方法を紹介しています。前回は、定期的に会議の参加者にリマインダーを送るプログラムを作りましたが、今回は、Googleカレンダーの予定を取得して、その予定をLINEに通知するプログラムを作ってみましょう。]]></description>
+			<title>「できない理由を完璧に言える」技術者は迷惑だ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062300865/</link>
+			<description><![CDATA[　「イノベーションに必須の条件は何か」と聞かれたら、皆さんは何と答えるだろうか。ITを使った新規ビジネスやビジネスのデジタル化の取り組みなどを想定して考えてほしい。これだけは絶対に必要、まさに必須の条件とは何だろうか……。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Google Lens（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/062100078/</link>
-			<description><![CDATA[　スマートフォンで撮影した映像を認識して、写っているものや場所に関する情報を表示する米グーグルのアプリの機能。花の映像からその花の名前や種類を、レストランの映像から料理の種類や口コミ評価を即座に表示する。]]></description>
+			<title>壊れてしまったハードディスク、「復活」までの手順とは（HDDが壊れたら…）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062600003/</link>
+			<description><![CDATA[　壊れたハードディスクのデータを救出してくれるデータ復旧サービス。どのような工程でデータを復旧するのかを知っておくと、復旧につながる情報を依頼時に効率よく伝えられる。データ復旧の現場を写真でレポートする。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -83,15 +89,9 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「できない理由を完璧に言える」技術者は迷惑だ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062300865/</link>
-			<description><![CDATA[　「イノベーションに必須の条件は何か」と聞かれたら、皆さんは何と答えるだろうか。ITを使った新規ビジネスやビジネスのデジタル化の取り組みなどを想定して考えてほしい。これだけは絶対に必要、まさに必須の条件とは何だろうか……。]]></description>
-			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>壊れてしまったハードディスク、「復活」までの手順とは（HDDが壊れたら…）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062600003/</link>
-			<description><![CDATA[　壊れたハードディスクのデータを救出してくれるデータ復旧サービス。どのような工程でデータを復旧するのかを知っておくと、復旧につながる情報を依頼時に効率よく伝えられる。データ復旧の現場を写真でレポートする。]]></description>
+			<title>Googleカレンダーの予定を毎朝LINEに通知しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042700071/</link>
+			<description><![CDATA[　ここ3回にわたって、LINE Notify APIとGoogle Apps Scriptを組み合わせて使う方法を紹介しています。前回は、定期的に会議の参加者にリマインダーを送るプログラムを作りましたが、今回は、Googleカレンダーの予定を取得して、その予定をLINEに通知するプログラムを作ってみましょう。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -261,6 +261,12 @@
 			<pubDate>Wed, 28 Jun 2017 22:03:42 +0900</pubDate>
 		</item>
 		<item>
+			<title>脆弱性スキャナーでオープンポートを自動診断（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900005/</link>
+			<description><![CDATA[　脆弱性スキャナーを使えば、自動で脆弱性を調査できる。検出した脆弱性の危険度や対策方法もわかる。無償の脆弱性スキャナー「OpenVAS」を使った診断方法を解説する。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>WannaCryに襲われた日立、セキュリティ人材1万人の確保急ぐ（国内大手のセキュリティ人材育成）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062700003/</link>
 			<description><![CDATA[　日立製作所は2020年までにセキュリティ人材を1万人育成する計画だ。同社は2017年5月12日、WannaCryに感染し、メールや受発注が一時停止した。こうした事態を再発させないためにも、1000人の専門家に加え、一般社員から9000人のセキュリティ人材を育てる施策を急ぐ。]]></description>
@@ -321,16 +327,42 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>脆弱性スキャナーでオープンポートを自動診断（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900005/</link>
-			<description><![CDATA[　脆弱性スキャナーを使えば、自動で脆弱性を調査できる。検出した脆弱性の危険度や対策方法もわかる。無償の脆弱性スキャナー「OpenVAS」を使った診断方法を解説する。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Googleスプレッドシートで作った単語帳から毎日LINEに英単語を送ろう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/050100072/</link>
 			<description><![CDATA[　ここ4回にわたって、LINE Notify APIとGoogle Apps Scriptを組み合わせて使う方法を紹介しています。今回は、Googleスプレッドシートを参照して、毎日、覚えたい英単語をLINEに送るという仕組みを作ってみましょう。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IT部門を若返らせる逆メンター制度（後）（IT部門を若返らせる逆メンター制度）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　IT人材の不足を嘆くCIO（最高情報責任者）は多い。ストックオプションや福利厚生、目がくらむほどの給与で若手技術者を引き寄せられる企業ならいざ知らず、それ以外の企業では、IT部門が昔ながらのやり方で行き詰まっていることもある。その解決策の1つとして、とっておきの先生たちを活用して、ベテランのIT部員が時代に合った進化を遂げられるようトレーニングする方法がある。その先生役を務めるのは、ミレニアル世代の「デジタルネイティブ」だ。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900001/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　ソフトウエア開発を活性化して、優れた保険サービスの提供を目指すAflacの取り組みを支えるうえで、アジャイルの手法が役立つはずだとDavis氏は考えていた。だが、その実現のためには、IT部門の文化の思考様式を転換する必要がある。流儀が凝り固まっていたIT部門にとっては、新しい血とトレーニングを取り入れることがプラスになると考えられた。また同氏は、定年退職者の代わりとなる社員を大勢呼び込むことも必要としていた。「退職する社員への必要性より、もっと多くの見習いを迎える必要がある」とDavis氏は言う。</p>
+
+<p>　Davis氏は、かつて米General Electric（GE）でCIOを務めていた頃に参加した逆メンター制度にならって、見習社員が2年間にわたるローテーションでIT部員と協力していく制度を設けた。見習社員は数カ月ごとに別のチームへと渡り歩いてゆき、AflacのIT部門の職種、オペレーション、文化について、微妙な感覚をつかんでいった。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900002/?ST=cm-software&P=2">IT部門でリソースマネージャーを務め、逆メンター制度を取り仕切っ...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900002/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900002/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900002/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 29 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
