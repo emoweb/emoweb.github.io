@@ -5,16 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>ヴイエムウェア、HCI需要増で専任の保守サポート部隊を7月立ち上げ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062701773/</link>
-			<description><![CDATA[　ヴイエムウェアは2017年6月27日、HCIの中核を成すソフト「VMware vSAN」について、直近の取り組みを説明した。2017年7月1日付で保守サポート部隊を再編し、vSANの専任チームを立ち上げる。]]></description>
-			<pubDate>Tue, 27 Jun 2017 16:27:19 +0900</pubDate>
-		</item>
-		<item>
-			<title>レノボ、リモート管理機能を標準搭載した新サーバー「ThinkServer TS460」など（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062701774/</link>
-			<description><![CDATA[　レノボ・ジャパンは2017年6月27日、ハードウエアのリモート管理機能を搭載したサーバー新モデル「Lenovo ThinkServer TS460」および「同 RS160」を発表した。中小規模ビジネスやリモートオフィス、チェーン展開される小売店舗などに向く。]]></description>
-			<pubDate>Tue, 27 Jun 2017 17:39:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：メルカリの個人情報流出、陥った「no-cache」の罠（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062601030/?d28</link>
+			<description><![CDATA[　フリーマーケットサービスのメルカリで個人情報が流出する事故が起こった。iOS/Androidアプリ版ではなくWebアプリ版で発生。あるユーザーが自分の情報を表示しようとすると、他のユーザーの情報が表示されてしまうというものだ。いったい何が起こったかを解説する。]]></description>
+			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>日立システムズの「音声こころ分析サービス」、“心の健康状態”を音声で分析（ニュース）</title>
@@ -53,15 +47,27 @@
 			<pubDate>Tue, 27 Jun 2017 21:08:46 +0900</pubDate>
 		</item>
 		<item>
+			<title>「できない理由を完璧に言える」技術者は迷惑だ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062300865/</link>
+			<description><![CDATA[　「イノベーションに必須の条件は何か」と聞かれたら、皆さんは何と答えるだろうか。ITを使った新規ビジネスやビジネスのデジタル化の取り組みなどを想定して考えてほしい。これだけは絶対に必要、まさに必須の条件とは何だろうか……。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google Lens（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/062100078/</link>
+			<description><![CDATA[　スマートフォンで撮影した映像を認識して、写っているものや場所に関する情報を表示する米グーグルのアプリの機能。花の映像からその花の名前や種類を、レストランの映像から料理の種類や口コミ評価を即座に表示する。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>壊れてしまったハードディスク、「復活」までの手順とは（HDDが壊れたら…）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062600003/</link>
 			<description><![CDATA[　壊れたハードディスクのデータを救出してくれるデータ復旧サービス。どのような工程でデータを復旧するのかを知っておくと、復旧につながる情報を依頼時に効率よく伝えられる。データ復旧の現場を写真でレポートする。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「できない理由を完璧に言える」技術者は迷惑だ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062300865/</link>
-			<description><![CDATA[　「イノベーションに必須の条件は何か」と聞かれたら、皆さんは何と答えるだろうか。ITを使った新規ビジネスやビジネスのデジタル化の取り組みなどを想定して考えてほしい。これだけは絶対に必要、まさに必須の条件とは何だろうか……。]]></description>
+			<title>機械学習で変わるBIツール、データの関連性を自動発見（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062601031/</link>
+			<description><![CDATA[　企業の利用部門が自分でデータ分析をするためのBIツールである「セルフサービスBI」で、機械学習の活用が始まっている。エンドユーザーは専門家であるデータアナリストに比べると、システムや分析に詳しくない。これを補うように、機械学習が専門家のノウハウを肩代わりするのが、セルフサービスBIの新しい流れだ。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,15 +95,15 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>飛び交うドローンを交通整理、運航管理システムを3年で実用化へ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062601032/</link>
-			<description><![CDATA[　ドローンの本格活用を推進するため、運航管理システムを研究開発する国家プロジェクトが始動する。新エネルギー・産業技術総合開発機構（NEDO）が2017年6月15日、「無人航空機の運航管理システム」の研究開発に関する説明会を開催。ドローンを活用するための基盤となるシステムを3年間で開発し、実用化を目指す。]]></description>
+			<title>乗務員に8600台のiPad持たせるJR西日本、ダイヤ乱れの影響を即把握（ケーススタディに学ぶ、クラウド活用最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000005/</link>
+			<description><![CDATA[　西日本旅客鉄道（JR西日本）は2017年度に西日本エリアで運行する全車両の乗務員を対象に計8600台のiPadを導入する。iPadには、いずれも独自に開発した「列車運行情報一覧アプリ」や、新幹線乗務員向け「幹在接続時刻表アプリ」を搭載する。全乗務員がiPadでアプリを活用し、正確な運行情報を乗客に迅速に案内できるようにする計画だ。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>機械学習で変わるBIツール、データの関連性を自動発見（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062601031/</link>
-			<description><![CDATA[　企業の利用部門が自分でデータ分析をするためのBIツールである「セルフサービスBI」で、機械学習の活用が始まっている。エンドユーザーは専門家であるデータアナリストに比べると、システムや分析に詳しくない。これを補うように、機械学習が専門家のノウハウを肩代わりするのが、セルフサービスBIの新しい流れだ。]]></description>
+			<title>マクドナルドはどうして障害原因が「WannaCryかも」と言ったのか（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062701034/</link>
+			<description><![CDATA[　日本マクドナルドは2017年6月19日、社内ネットワークにウイルスが侵入し、電子マネーによる決済やポイントサービスを利用できなくなったと公表した。ウイルスの正体を「WannaCryかもしれない」としたが、ランサムウエアであれば脅迫文ですぐに気付くはず。どうして「WannaCryかも」と言ったのか。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -125,21 +131,9 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>乗務員に8600台のiPad持たせるJR西日本、ダイヤ乱れの影響を即把握（ケーススタディに学ぶ、クラウド活用最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000005/</link>
-			<description><![CDATA[　西日本旅客鉄道（JR西日本）は2017年度に西日本エリアで運行する全車両の乗務員を対象に計8600台のiPadを導入する。iPadには、いずれも独自に開発した「列車運行情報一覧アプリ」や、新幹線乗務員向け「幹在接続時刻表アプリ」を搭載する。全乗務員がiPadでアプリを活用し、正確な運行情報を乗客に迅速に案内できるようにする計画だ。]]></description>
-			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>マクドナルドはどうして障害原因が「WannaCryかも」と言ったのか（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062701034/</link>
-			<description><![CDATA[　日本マクドナルドは2017年6月19日、社内ネットワークにウイルスが侵入し、電子マネーによる決済やポイントサービスを利用できなくなったと公表した。ウイルスの正体を「WannaCryかもしれない」としたが、ランサムウエアであれば脅迫文ですぐに気付くはず。どうして「WannaCryかも」と言ったのか。]]></description>
-			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Google Lens（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/062100078/</link>
-			<description><![CDATA[　スマートフォンで撮影した映像を認識して、写っているものや場所に関する情報を表示する米グーグルのアプリの機能。花の映像からその花の名前や種類を、レストランの映像から料理の種類や口コミ評価を即座に表示する。]]></description>
+			<title>飛び交うドローンを交通整理、運航管理システムを3年で実用化へ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062601032/</link>
+			<description><![CDATA[　ドローンの本格活用を推進するため、運航管理システムを研究開発する国家プロジェクトが始動する。新エネルギー・産業技術総合開発機構（NEDO）が2017年6月15日、「無人航空機の運航管理システム」の研究開発に関する説明会を開催。ドローンを活用するための基盤となるシステムを3年間で開発し、実用化を目指す。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -253,6 +247,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801787/</link>
 			<description><![CDATA[　日本郵政グループが全国の郵便局などで使うPCを全面刷新することが2017年6月28日までに日経コンピュータの取材で分かった。現行のWindows 7搭載機を2019年ごろまでにWindows 10搭載機に置き換える。総台数は12万台を超える見通しで、端末調達額は総額70億円に達するもよう。]]></description>
 			<pubDate>Wed, 28 Jun 2017 15:37:43 +0900</pubDate>
+		</item>
+		<item>
+			<title>PCスマホ所持設置だけでは費用負担求めず、NHK常時同時配信で答申案（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801789/</link>
+			<description><![CDATA[　NHKは2017年6月27日、ネットを利用した放送の常時同時配信に関連して、NHK受信料制度等検討委員会の答申案を公表するとともに意見の募集を開始した。常時同時配信とは、NHKが放送するテレビ番組を、原則としてそのまますべて放送と同時にインターネットを通じて配信することを指す。]]></description>
+			<pubDate>Wed, 28 Jun 2017 17:04:02 +0900</pubDate>
+		</item>
+		<item>
+			<title>アイ・オー・データ、写真・動画を直接保存できるNAS「Fotogenic」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801790/</link>
+			<description><![CDATA[　アイ・オー・データ機器は2017年6月28日、デジタルカメラやスマートフォンの写真・動画をパソコンなしで直接保存できるフォトストレージ「Fotogenic（フォトジェニック）」を7月下旬に出荷開始すると発表した。価格はオープン、予想実勢価格（税別）は1万7800円前後。]]></description>
+			<pubDate>Wed, 28 Jun 2017 17:24:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
