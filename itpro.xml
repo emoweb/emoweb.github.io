@@ -5,79 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>IT部門を若返らせる逆メンター制度（前）（IT部門を若返らせる逆メンター制度）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　IT人材の不足を嘆くCIO（最高情報責任者）は多い。ストックオプションや福利厚生、目がくらむほどの給与で若手技術者を引き寄せられる企業ならいざ知らず、それ以外の企業では、IT部門が昔ながらのやり方で行き詰まっていることもある。その解決策の1つとして、とっておきの先生たちを活用して、ベテランのIT部員が時代に合った進化を遂げられるようトレーニングする方法がある。その先生役を務めるのは、ミレニアル世代の「デジタルネイティブ」だ。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　米保険会社AflacのCIO、Julia Davis氏は、この面で大きく前進する一歩として、逆メンター制度を創設した。ベテランのITスタッフと、大学の新卒者を中心とする「見習い」社員がペアを組む。Davis氏にインタビューしたところ、同氏が率いる470人の社員（平均年齢48歳）が、この逆メンター制度で恩恵を得ているという。ITサービスデリバリの現代化と変革を狙いとした、企業内の思考の融合だ。</p>
-
-<p>　「我々がテクノロジーを使って進めていることの考え方や習慣を転換させ、組織を変える必要がある。IT部門を御用聞きから脱却させ、ビジネス部門への助言や問題解決を担うパートナーにならなくてはならない」</p>
-
-<p>　変化のペースがますます加速し、業界の枠を超えたデジタル・ディスラプションが促される中、この問題に取り組んでいる企業は多い。CIOが探し求めているのは、モバイル、クラウド、ソーシャル、アナリティクスの最新ツールに精通し、アジャイルやDevOpsの手法でソフトウエアの開発／リリース／メンテナンスを行える人材だ。しかし、ITスタッフがレガシーシステムの経験ばかりを重ねていてデジタル能力が不足している従来型の企業では、こうしたスキルセットは足りていない。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900001/?ST=cm-software&P=2">そこで、デジタルに精通したミレニアル世代をメンターにしようという...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900001/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900001/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 27 Jun 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Intent-Based Networkingとは（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062700336/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Cisco Systemsは先日、「Intent-Based Networking」の市場に参入することを発表した。機械学習と高度な自動化を用いてネットワークを制御するこの技術によって、ネットワーク管理のあり方が一変する可能性があると同社は説明している。
-</p>
-
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062700336/networking-wan-100721069-large.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Gerd Altmann via Pixabay (CC0 Public Domain)</div>
-</div>
-
-<p>
-　だが、Intent-Based Networkingとは、一体どのようなものなのだろうか。
-</p>
-<p>
-　米Gartnerのリサーチバイスプレジデント、Andrew Lerner氏によると、Intent-Based Networking System（IBNS）は新しいものではなく、その元になる考え方は数年前からあった。ここへ来て何が変わったかというと、機械学習アルゴリズムの進化によって、IBNSがあと少しで現実という域まで到達したことだ。基本的には、IBNSとは、ネットワークがあるべき状態をネットワーク管理者が規定し、自動化されたネットワーク・オーケストレーション・ソフトウエアにそのポリシーを適用させるという考え方だ。
-</p>
-<p>
-　Lerner氏は、IBNSを取り上げたリサーチノートの中で次のように述べている。「IBNSは、現在のエンタープライズネットワークの管理のあり方とは一線を画している。現状では、変換は人手で、アルゴリズムによる検証もない。...IBNSは、刻々と変化するネットワークの状態の監視、特定、対処をリアルタイムで行う」
-</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062700336/?ST=cio-management&P=2">IBNSには次の4つの特徴があるとLerner氏...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062700336/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062700336/?ST=cio-management&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062700336/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 27 Jun 2017 10:08:40 +0900</pubDate>
-		</item>
-		<item>
 			<title>Alphabet傘下のWaymo、自動運転車の保守でレンタカー大手Avisと提携（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062701770/</link>
 			<description><![CDATA[　米Googleの親会社Alphabetが設立した米Waymoは、自動運転車の管理に関する米レンタカー大手Avis Budget Groupとの複数年にわたる提携を現地時間2017年6月26日に発表した。]]></description>
@@ -144,6 +71,18 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>「できない理由を完璧に言える」技術者は迷惑だ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062300865/</link>
+			<description><![CDATA[　「イノベーションに必須の条件は何か」と聞かれたら、皆さんは何と答えるだろうか。ITを使った新規ビジネスやビジネスのデジタル化の取り組みなどを想定して考えてほしい。これだけは絶対に必要、まさに必須の条件とは何だろうか……。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Uberをめぐる自動運転訴訟、渦中の人物の大胆な歩み（瀧口範子のシリコンバレー通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/062600103/</link>
+			<description><![CDATA[　注目を浴びていた起業家が足を踏み外す。シリコンバレーでは時折そうしたことが起きる。その最新例がアンソニー・レバンドウスキー氏だろう。米Alphabet傘下のWaymoが米Uber Technologiesを自動運転技術の機密盗用で提訴した事件のカギを握る人物で、2017年5月30日にUberから解雇された。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>激化するクアルコムとの法廷闘争、アップルはチップ内製化で何を目指す？（米国発！ Appleニュースの読み解き方）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/062600048/</link>
 			<description><![CDATA[　米アップルは2017年6月19日（米国時間）、カリフォルニア州サンディエゴの連邦裁判所で、米クアルコム（Qualcomm）に対する訴訟を起こした。今回の訴訟は、合衆国憲法修正第1条（信教・表現の自由に関する条文）の侵害として起こされた。]]></description>
@@ -156,15 +95,15 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>FinTechが切り拓く金融の未来、日本は今何をすべきか（Nikkei FinTech Conference 2017#2レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062700004/</link>
-			<description><![CDATA[　日経FinTechが2017年6月23日に都内で開催した「Nikkei FinTech Conference 2017#2」の基調講演・対談に日本銀行 決済機構局長 山岡浩巳氏が登壇した。]]></description>
+			<title>IoTには必ずバグがある（ゼロから挑戦！IoT開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/062600008/</link>
+			<description><![CDATA[　単純なコーディングミスからインタフェースミスマッチまで、多様なバグがIoTに生息している。IoTシステムの仕様に未確定の部分があったり、構造や機能が複雑になったりすると、バグは飛躍的に増える。その種類も多様で、昆虫図鑑が作れるほどだ。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Uberをめぐる自動運転訴訟、渦中の人物の大胆な歩み（瀧口範子のシリコンバレー通信）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/062600103/</link>
-			<description><![CDATA[　注目を浴びていた起業家が足を踏み外す。シリコンバレーでは時折そうしたことが起きる。その最新例がアンソニー・レバンドウスキー氏だろう。米Alphabet傘下のWaymoが米Uber Technologiesを自動運転技術の機密盗用で提訴した事件のカギを握る人物で、2017年5月30日にUberから解雇された。]]></description>
+			<title>壊れてしまったハードディスク、「復活」までの手順とは（HDDが壊れたら…）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062600003/</link>
+			<description><![CDATA[　壊れたハードディスクのデータを救出してくれるデータ復旧サービス。どのような工程でデータを復旧するのかを知っておくと、復旧につながる情報を依頼時に効率よく伝えられる。データ復旧の現場を写真でレポートする。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -210,21 +149,9 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>IoTには必ずバグがある（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/062600008/</link>
-			<description><![CDATA[　単純なコーディングミスからインタフェースミスマッチまで、多様なバグがIoTに生息している。IoTシステムの仕様に未確定の部分があったり、構造や機能が複雑になったりすると、バグは飛躍的に増える。その種類も多様で、昆虫図鑑が作れるほどだ。]]></description>
-			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>壊れてしまったハードディスク、「復活」までの手順とは（HDDが壊れたら…）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062600003/</link>
-			<description><![CDATA[　壊れたハードディスクのデータを救出してくれるデータ復旧サービス。どのような工程でデータを復旧するのかを知っておくと、復旧につながる情報を依頼時に効率よく伝えられる。データ復旧の現場を写真でレポートする。]]></description>
-			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「できない理由を完璧に言える」技術者は迷惑だ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062300865/</link>
-			<description><![CDATA[　「イノベーションに必須の条件は何か」と聞かれたら、皆さんは何と答えるだろうか。ITを使った新規ビジネスやビジネスのデジタル化の取り組みなどを想定して考えてほしい。これだけは絶対に必要、まさに必須の条件とは何だろうか……。]]></description>
+			<title>FinTechが切り拓く金融の未来、日本は今何をすべきか（Nikkei FinTech Conference 2017#2レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062700004/</link>
+			<description><![CDATA[　日経FinTechが2017年6月23日に都内で開催した「Nikkei FinTech Conference 2017#2」の基調講演・対談に日本銀行 決済機構局長 山岡浩巳氏が登壇した。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -310,10 +237,22 @@
 			<pubDate>Wed, 28 Jun 2017 10:34:16 +0900</pubDate>
 		</item>
 		<item>
+			<title>イオングループでクラウド決済「J-Mups」に障害、システム更改が原因か（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801785/</link>
+			<description><![CDATA[　JR東日本メカトロニクスと三菱UFJニコスが運営するクラウド決済システム「J-Mups」が、使えなくなる障害が起きていたことが明らかになった。2017年5月29日に障害が起こり、6月5日までに解消した。]]></description>
+			<pubDate>Wed, 28 Jun 2017 11:14:29 +0900</pubDate>
+		</item>
+		<item>
 			<title>456社が導入する国産RPAソフトの新版、ユーザックシステムが発売（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801784/</link>
 			<description><![CDATA[　ユーザックシステムは2017年6月28日、Webブラウザの操作を自動化するRPAソフト「Autoブラウザ名人」の新版を発売すると発表。開発を効率化する機能を追加したり、ライセンス体系を見直したりした。]]></description>
 			<pubDate>Wed, 28 Jun 2017 11:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>［特報］「WannaCry亜種に感染」、マクドナルド障害のマルウエア判明（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801786/</link>
+			<description><![CDATA[　日本マクドナルドの店舗システムで2017年6月16日から21日にかけて発生したシステム障害の原因が、「WannaCry（ワナクライ）」の亜種であることが日経コンピュータの取材で分かった。]]></description>
+			<pubDate>Wed, 28 Jun 2017 13:25:57 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
