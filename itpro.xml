@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Alphabet傘下のWaymo、自動運転車の保守でレンタカー大手Avisと提携（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062701770/</link>
-			<description><![CDATA[　米Googleの親会社Alphabetが設立した米Waymoは、自動運転車の管理に関する米レンタカー大手Avis Budget Groupとの複数年にわたる提携を現地時間2017年6月26日に発表した。]]></description>
-			<pubDate>Tue, 27 Jun 2017 10:24:20 +0900</pubDate>
-		</item>
-		<item>
 			<title>Amazon.com、機械翻訳技術を社外に貸し出すサービス検討中（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062701772/</link>
 			<description><![CDATA[　Amazon.comが、機械翻訳システムを社外の開発者などに貸し出すサービスを検討していると、米CNBCが現地時間2017年6月26日に報じた。]]></description>
@@ -65,15 +59,21 @@
 			<pubDate>Tue, 27 Jun 2017 21:08:46 +0900</pubDate>
 		</item>
 		<item>
+			<title>「できない理由を完璧に言える」技術者は迷惑だ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062300865/</link>
+			<description><![CDATA[　「イノベーションに必須の条件は何か」と聞かれたら、皆さんは何と答えるだろうか。ITを使った新規ビジネスやビジネスのデジタル化の取り組みなどを想定して考えてほしい。これだけは絶対に必要、まさに必須の条件とは何だろうか……。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>東電が見抜けなかった不具合、システム子会社の「不在」が響く（東電、システムトラブルの真相）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400241/062300003/</link>
 			<description><![CDATA[　当初から稼働が危ぶまれていた、東京電力パワーグリッドの託送業務システム。どのような開発体制で進めていたのか。カギを握っていたのは、東電グループのシステム関連会社であるテプコシステムズの役割だった。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「できない理由を完璧に言える」技術者は迷惑だ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062300865/</link>
-			<description><![CDATA[　「イノベーションに必須の条件は何か」と聞かれたら、皆さんは何と答えるだろうか。ITを使った新規ビジネスやビジネスのデジタル化の取り組みなどを想定して考えてほしい。これだけは絶対に必要、まさに必須の条件とは何だろうか……。]]></description>
+			<title>壊れてしまったハードディスク、「復活」までの手順とは（HDDが壊れたら…）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062600003/</link>
+			<description><![CDATA[　壊れたハードディスクのデータを救出してくれるデータ復旧サービス。どのような工程でデータを復旧するのかを知っておくと、復旧につながる情報を依頼時に効率よく伝えられる。データ復旧の現場を写真でレポートする。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>IoTには必ずバグがある（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/062600008/</link>
-			<description><![CDATA[　単純なコーディングミスからインタフェースミスマッチまで、多様なバグがIoTに生息している。IoTシステムの仕様に未確定の部分があったり、構造や機能が複雑になったりすると、バグは飛躍的に増える。その種類も多様で、昆虫図鑑が作れるほどだ。]]></description>
+			<title>Google Lens（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/062100078/</link>
+			<description><![CDATA[　スマートフォンで撮影した映像を認識して、写っているものや場所に関する情報を表示する米グーグルのアプリの機能。花の映像からその花の名前や種類を、レストランの映像から料理の種類や口コミ評価を即座に表示する。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>壊れてしまったハードディスク、「復活」までの手順とは（HDDが壊れたら…）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062600003/</link>
-			<description><![CDATA[　壊れたハードディスクのデータを救出してくれるデータ復旧サービス。どのような工程でデータを復旧するのかを知っておくと、復旧につながる情報を依頼時に効率よく伝えられる。データ復旧の現場を写真でレポートする。]]></description>
+			<title>FinTechが切り拓く金融の未来、日本は今何をすべきか（Nikkei FinTech Conference 2017#2レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062700004/</link>
+			<description><![CDATA[　日経FinTechが2017年6月23日に都内で開催した「Nikkei FinTech Conference 2017#2」の基調講演・対談に日本銀行 決済機構局長 山岡浩巳氏が登壇した。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -143,15 +143,9 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Google Lens（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/062100078/</link>
-			<description><![CDATA[　スマートフォンで撮影した映像を認識して、写っているものや場所に関する情報を表示する米グーグルのアプリの機能。花の映像からその花の名前や種類を、レストランの映像から料理の種類や口コミ評価を即座に表示する。]]></description>
-			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>FinTechが切り拓く金融の未来、日本は今何をすべきか（Nikkei FinTech Conference 2017#2レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062700004/</link>
-			<description><![CDATA[　日経FinTechが2017年6月23日に都内で開催した「Nikkei FinTech Conference 2017#2」の基調講演・対談に日本銀行 決済機構局長 山岡浩巳氏が登壇した。]]></description>
+			<title>IoTには必ずバグがある（ゼロから挑戦！IoT開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/062600008/</link>
+			<description><![CDATA[　単純なコーディングミスからインタフェースミスマッチまで、多様なバグがIoTに生息している。IoTシステムの仕様に未確定の部分があったり、構造や機能が複雑になったりすると、バグは飛躍的に増える。その種類も多様で、昆虫図鑑が作れるほどだ。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -253,6 +247,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801786/</link>
 			<description><![CDATA[　日本マクドナルドの店舗システムで2017年6月16日から21日にかけて発生したシステム障害の原因が、「WannaCry（ワナクライ）」の亜種であることが日経コンピュータの取材で分かった。]]></description>
 			<pubDate>Wed, 28 Jun 2017 13:25:57 +0900</pubDate>
+		</item>
+		<item>
+			<title>「マクドナルドのシステム障害」関連記事（ITproアーカイブス）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040700124/062800004/</link>
+			<description><![CDATA[　日本マクドナルドで2017年6月16日に発生した、dポイントなどが使えなくなるシステム障害について、関連記事をまとめました。ITproアーカイブスは、ITpro内の記事のリンク集です。内容は随時更新します。]]></description>
+			<pubDate>Wed, 28 Jun 2017 13:50:41 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
