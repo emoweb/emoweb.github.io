@@ -5,90 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>メルカリの個人情報流出、陥った「no-cache」の罠（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062601030/</link>
-			<description><![CDATA[　フリーマーケットサービスのメルカリで個人情報が流出する事故が起こった。iOS/Androidアプリ版ではなくWebアプリ版で発生。あるユーザーが自分の情報を表示しようとすると、他のユーザーの情報が表示されてしまうというものだ。いったい何が起こったかを解説する。]]></description>
-			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「セキュリティを完全に体に染み込ませる」、NECの受注拡大作戦（国内大手のセキュリティ人材育成）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062600002/</link>
-			<description><![CDATA[　NECはグループで1万人以上のセキュリティ人材を育成済みだ。同社は2012年にサイバーセキュリティを成長領域に据え、2014年には2018年3月期までにセキュリティ人材を当時の600人から1200人に増員し、関連事業の売上高を当時の約2倍となる2500億円に引き上げる目標を立てた。]]></description>
-			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>レノボのデータセンター事業役員、「余計な遺産を持たないことが成功の秘訣」（インタビュー＆トーク）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/062200337/</link>
-			<description><![CDATA[　データセンター向け事業に力を入れる中国レノボ。2017年3月にデータセンター組織を再編し、グローバルで一貫した経営体制にすることで競争力を高める狙いだ。]]></description>
-			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AWSやグーグルを使い分け、マルチクラウドで開発者の士気高める（ケーススタディに学ぶ、クラウド活用最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000004/</link>
-			<description><![CDATA[　「まさかグーグルが2位に食い込むとは思わなかった」。富士ゼロックスソリューション・サービス開発本部 ソリューション開発部 クラウド統括の黒須義一氏は、社内アンケートの結果に目を見張った。]]></description>
-			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>なぜハードディスクは壊れてしまうのか（HDDが壊れたら…）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062600002/</link>
-			<description><![CDATA[　「ハードディスクからファイルが読み取れなくなった」。ユーザーから見て同じように見えるデータ消失の背後では、精密機械のハードウエアからOSやファイルを構成するデータといったソフトウエアまで、様々な破損が起きている。データ復旧の事前知識として、どうやってデータは“消える”のかを見ていこう。]]></description>
-			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>クラウドAIを打ち出すLINE社、戦略の要は「LINEのアプリレス化」（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/061900111/</link>
-			<description><![CDATA[　メッセンジャーアプリ「LINE」を提供するLINE社は2017年6月15日、LINEの戦略発表イベント「LINE CONFERENCE 2017」を開いた。同社の戦略を見るうえで大きなポイントとなるのは、LINEが他のアプリを必要としない「アプリレス」な環境を作り上げようとしていることだ。]]></description>
-			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ヤマハはどうしてSIPサーバーをひっそり復活させたのか（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062301029/</link>
-			<description><![CDATA[　ヤマハは2017年6月、同社のWebサイトにSIPサーバー「YSL-V810」の製品情報を追加した。同社は2014年9月にSIPサーバーの販売を終了しており、約3年ぶりの復活させた。しかし、新製品なのにプレスリリースを出していない。どうしてひっそり発表したのか、その秘密を探る。]]></description>
-			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>メガバンク3行のFinTech責任者そろい踏み　エコシステムの将来徹底討論（Nikkei FinTech Conference 2017#2レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062600003/</link>
-			<description><![CDATA[　日経FinTechが都内で開催した「Nikkei FinTech Conference 2017#2」では、「3メガバンクが明かす、金融エコシステムの将来像」と題したパネルディスカッションが開かれた。]]></description>
-			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>シスコのヴィプテラ買収はSD-WANの「終わりの始まり」か（編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/062300037/</link>
-			<description><![CDATA[　少し前の話題になるが、米シスコシステムズが現地時間5月1日に、ネットワークベンチャー企業であるヴィプテラ（Viptela）を、6億1000万ドルで買収する意向を明らかにしました。筆者も「ついに来たか」と実感しつつ、「いよいよ終わりの始まりか」とも思いました。]]></description>
-			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>執念さえ感じるGalaxy S8とS8+のデザインに感服した（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/062500122/</link>
-			<description><![CDATA[　毎年この時期になると、各社からスマホの新モデルが続々登場する。今シーズンの目玉は、なんといっても韓国サムスン製の「Galaxy S8」と「Galaxy S8+」だろう。ベゼルを極端に狭く設計しており、見るからに「今までのスマホとは違うぞ」と思わせる。]]></description>
-			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>馬鹿げたシナリオが面白い、多能工エンジニアになろう！（10人のIT部門が消滅～ひとり情シス顛末記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100400218/062200024/</link>
-			<description><![CDATA[　10人いたIT部門が消滅した製造業で、一人残されたIT担当者の奮闘を描いた「ひとり情シス顛末記」も、今回が最終回。最後は、著者の思いのたけに熱く記してもらった。「みんな、多能工エンジニアになろう！日本を変えられるかもしれないぞ」]]></description>
-			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「Google Apps Script」を使って予定をLINEに通知しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042700070/</link>
-			<description><![CDATA[　前回、LINE Notify APIとGoogle Apps Scriptを利用して、LINEにメッセージを送信する方法を紹介しました。今回は、定期的なイベントをLINEで通知するプログラムを作ってみます。ここでは、定例会議の参加者にリマインダーを送るプログラムを作ってみます。]]></description>
-			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>auのスマホ料金、「最安1GB」よりも「2GB」が得な理由（スマホ料金の勘違い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062200002/</link>
-			<description><![CDATA[　au（KDDI）のスマートフォン向け料金プランは、新旧が混在している。ほかの携帯電話事業者と同様の、通話がかけ放題となるサービス「カケホ」「スーパーカケホ」に加えて、通話定額が導入される前から提供している「LTEプラン」も選べることが特徴だ。またNTTドコモにはない、1GBのデータ定額サービスも用意されている。]]></description>
-			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>体験レポ、Amazon Echoで買い物をしてみた（AIスピーカー競争）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000250/062500002/</link>
-			<description><![CDATA[　米Amazon.comのAI（人工知能）スピーカー「Amazon Echo」では、音声を使って「Amazon.com」での買い物ができる。音声アシスタントの「Amazon Alexa」に「ミネラルウォーターを注文して」などと話しかけるだけだ。シリコンバレー駐在記者がその使い勝手を試した。]]></description>
-			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>IT部門を若返らせる逆メンター制度（前）（IT部門を若返らせる逆メンター制度）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900001/</link>
 			<description><![CDATA[<div>
@@ -222,21 +138,33 @@
 			<pubDate>Tue, 27 Jun 2017 21:08:46 +0900</pubDate>
 		</item>
 		<item>
+			<title>東電が見抜けなかった不具合、システム子会社の「不在」が響く（東電、システムトラブルの真相）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400241/062300003/</link>
+			<description><![CDATA[　当初から稼働が危ぶまれていた、東京電力パワーグリッドの託送業務システム。どのような開発体制で進めていたのか。カギを握っていたのは、東電グループのシステム関連会社であるテプコシステムズの役割だった。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>激化するクアルコムとの法廷闘争、アップルはチップ内製化で何を目指す？（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/062600048/</link>
+			<description><![CDATA[　米アップルは2017年6月19日（米国時間）、カリフォルニア州サンディエゴの連邦裁判所で、米クアルコム（Qualcomm）に対する訴訟を起こした。今回の訴訟は、合衆国憲法修正第1条（信教・表現の自由に関する条文）の侵害として起こされた。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>飛び交うドローンを交通整理、運航管理システムを3年で実用化へ（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062601032/</link>
 			<description><![CDATA[　ドローンの本格活用を推進するため、運航管理システムを研究開発する国家プロジェクトが始動する。新エネルギー・産業技術総合開発機構（NEDO）が2017年6月15日、「無人航空機の運航管理システム」の研究開発に関する説明会を開催。ドローンを活用するための基盤となるシステムを3年間で開発し、実用化を目指す。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「できない理由を完璧に言える」技術者は迷惑だ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062300865/</link>
-			<description><![CDATA[　「イノベーションに必須の条件は何か」と聞かれたら、皆さんは何と答えるだろうか。ITを使った新規ビジネスやビジネスのデジタル化の取り組みなどを想定して考えてほしい。これだけは絶対に必要、まさに必須の条件とは何だろうか……。]]></description>
+			<title>FinTechが切り拓く金融の未来、日本は今何をすべきか（Nikkei FinTech Conference 2017#2レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062700004/</link>
+			<description><![CDATA[　日経FinTechが2017年6月23日に都内で開催した「Nikkei FinTech Conference 2017#2」の基調講演・対談に日本銀行 決済機構局長 山岡浩巳氏が登壇した。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>東電が見抜けなかった不具合、システム子会社の「不在」が響く（東電、システムトラブルの真相）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061400241/062300003/</link>
-			<description><![CDATA[　当初から稼働が危ぶまれていた、東京電力パワーグリッドの託送業務システム。どのような開発体制で進めていたのか。カギを握っていたのは、東電グループのシステム関連会社であるテプコシステムズの役割だった。]]></description>
+			<title>Uberをめぐる自動運転訴訟、渦中の人物の大胆な歩み（瀧口範子のシリコンバレー通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/062600103/</link>
+			<description><![CDATA[　注目を浴びていた起業家が足を踏み外す。シリコンバレーでは時折そうしたことが起きる。その最新例がアンソニー・レバンドウスキー氏だろう。米Alphabet傘下のWaymoが米Uber Technologiesを自動運転技術の機密盗用で提訴した事件のカギを握る人物で、2017年5月30日にUberから解雇された。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -294,21 +222,9 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>FinTechが切り拓く金融の未来、日本は今何をすべきか（Nikkei FinTech Conference 2017#2レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062700004/</link>
-			<description><![CDATA[　日経FinTechが2017年6月23日に都内で開催した「Nikkei FinTech Conference 2017#2」の基調講演・対談に日本銀行 決済機構局長 山岡浩巳氏が登壇した。]]></description>
-			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Uberをめぐる自動運転訴訟、渦中の人物の大胆な歩み（瀧口範子のシリコンバレー通信）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/062600103/</link>
-			<description><![CDATA[　注目を浴びていた起業家が足を踏み外す。シリコンバレーでは時折そうしたことが起きる。その最新例がアンソニー・レバンドウスキー氏だろう。米Alphabet傘下のWaymoが米Uber Technologiesを自動運転技術の機密盗用で提訴した事件のカギを握る人物で、2017年5月30日にUberから解雇された。]]></description>
-			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>激化するクアルコムとの法廷闘争、アップルはチップ内製化で何を目指す？（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/062600048/</link>
-			<description><![CDATA[　米アップルは2017年6月19日（米国時間）、カリフォルニア州サンディエゴの連邦裁判所で、米クアルコム（Qualcomm）に対する訴訟を起こした。今回の訴訟は、合衆国憲法修正第1条（信教・表現の自由に関する条文）の侵害として起こされた。]]></description>
+			<title>「できない理由を完璧に言える」技術者は迷惑だ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062300865/</link>
+			<description><![CDATA[　「イノベーションに必須の条件は何か」と聞かれたら、皆さんは何と答えるだろうか。ITを使った新規ビジネスやビジネスのデジタル化の取り組みなどを想定して考えてほしい。これだけは絶対に必要、まさに必須の条件とは何だろうか……。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -345,6 +261,43 @@
 			<pubDate>Wed, 28 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>Googleのリサーチ責任者、「説明可能なAI」の価値に疑問符（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062800387/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　機械学習やAI（人工知能）がますます普及する中で、その内部過程を人間に分かる形で説明するよう求める声が高まっている。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062800387/ph01.jpg" width="300" alt="" title=""></div></div>
+
+<p>　ディープラーニング、ニューラルネットワーク、確率的グラフィカルモデルをはじめ、各種の機械学習アーキテクチャーは、医療診断や融資審査など、人生を左右する決定でも使われつつあるが、その内部の仕組みは、ますます複雑で分かりにくくなっている。</p>
+
+<p>　こうした機械学習の手法は、自ら進歩していくものが多い。その結果、内部の仕組みを明らかにすることはいっそう難しくなる。「ブラックボックス」化しているとの声は、科学者や政府、そして不安を抱いている市民から増えつつある。</p>
+
+<p>　一部の人は、こうした機械学習のシステムは自らの意思決定のプロセスを明らかにする必要があると主張し、専門家以外に対する「説明可能性」を備える必要があるとしている。XAI（Explainable Artificial Intelligence：説明可能な人工知能）というアプローチだ。</p>
+
+<p>　だがここへ来て、ブラックボックスの開放を目指す取り組みが障壁にぶつかった。おそらく世界最大のAI企業である米Googleのリサーチ担当ディレクター、Peter Norvig氏が、説明可能なAIの価値に疑問を投げかけたのだ。</p>
+
+<p>　Norvig氏が指摘したのは、結局のところ人間だって自分の意思決定について説明するのはあまり上手ではない、ということだ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062800387/?ST=cm-industries&P=2">最先端の心理学</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062800387/?ST=cm-industries&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062800387/?ST=cm-industries&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062800387/?ST=cm-industries&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062800387/?ST=cm-industries&P=4">4</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062800387/?ST=cm-industries&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 28 Jun 2017 10:08:29 +0900</pubDate>
+		</item>
+		<item>
 			<title>新たなランサムウエア攻撃が世界で拡大中、「WannaCry」より危険との声も（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801782/</link>
 			<description><![CDATA[　コンピュータ上のデータを人質にとり、身代金の支払いを要求するランサムウエアの新たな攻撃が世界規模で広がっている。5月に猛威を振るった「WannaCry」より危険だと指摘する声もある。]]></description>
@@ -355,6 +308,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801783/</link>
 			<description><![CDATA[　米Facebookは現地時間2017年6月27日、月間アクティブユーザー数（MAU）が、20億人に達したと発表した。]]></description>
 			<pubDate>Wed, 28 Jun 2017 10:34:16 +0900</pubDate>
+		</item>
+		<item>
+			<title>456社が導入する国産RPAソフトの新版、ユーザックシステムが発売（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801784/</link>
+			<description><![CDATA[　ユーザックシステムは2017年6月28日、Webブラウザの操作を自動化するRPAソフト「Autoブラウザ名人」の新版を発売すると発表。開発を効率化する機能を追加したり、ライセンス体系を見直したりした。]]></description>
+			<pubDate>Wed, 28 Jun 2017 11:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
