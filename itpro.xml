@@ -11,6 +11,12 @@
 			<pubDate>Mon, 26 Jun 2017 20:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>乗務員に8600台のiPad持たせるJR西日本、ダイヤ乱れの影響を即把握（ケーススタディに学ぶ、クラウド活用最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000005/</link>
+			<description><![CDATA[　西日本旅客鉄道（JR西日本）は2017年度に西日本エリアで運行する全車両の乗務員を対象に計8600台のiPadを導入する。iPadには、いずれも独自に開発した「列車運行情報一覧アプリ」や、新幹線乗務員向け「幹在接続時刻表アプリ」を搭載する。全乗務員がiPadでアプリを活用し、正確な運行情報を乗客に迅速に案内できるようにする計画だ。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「できない理由を完璧に言える」技術者は迷惑だ（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062300865/</link>
 			<description><![CDATA[　「イノベーションに必須の条件は何か」と聞かれたら、皆さんは何と答えるだろうか。ITを使った新規ビジネスやビジネスのデジタル化の取り組みなどを想定して考えてほしい。これだけは絶対に必要、まさに必須の条件とは何だろうか……。]]></description>
@@ -47,9 +53,9 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>乗務員に8600台のiPad持たせるJR西日本、ダイヤ乱れの影響を即把握（ケーススタディに学ぶ、クラウド活用最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/022000037/022000005/</link>
-			<description><![CDATA[　西日本旅客鉄道（JR西日本）は2017年度に西日本エリアで運行する全車両の乗務員を対象に計8600台のiPadを導入する。iPadには、いずれも独自に開発した「列車運行情報一覧アプリ」や、新幹線乗務員向け「幹在接続時刻表アプリ」を搭載する。全乗務員がiPadでアプリを活用し、正確な運行情報を乗客に迅速に案内できるようにする計画だ。]]></description>
+			<title>IoTには必ずバグがある（ゼロから挑戦！IoT開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/062600008/</link>
+			<description><![CDATA[　単純なコーディングミスからインタフェースミスマッチまで、多様なバグがIoTに生息している。IoTシステムの仕様に未確定の部分があったり、構造や機能が複雑になったりすると、バグは飛躍的に増える。その種類も多様で、昆虫図鑑が作れるほどだ。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -92,12 +98,6 @@
 			<title>スピード重視が招く弊害、Amazonクラウド（AWSの死角）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062600002/</link>
 			<description><![CDATA[　米アマゾン・ドット・コムのパブリッククラウド「Amazon Web Services（AWS）」のスピード感は、2006年のサービス開始から一貫している。新サービス投入や機能改善は、2016年の1年だけで1000件を超えたという]]></description>
-			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IoTには必ずバグがある（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/062600008/</link>
-			<description><![CDATA[　単純なコーディングミスからインタフェースミスマッチまで、多様なバグがIoTに生息している。IoTシステムの仕様に未確定の部分があったり、構造や機能が複雑になったりすると、バグは飛躍的に増える。その種類も多様で、昆虫図鑑が作れるほどだ。]]></description>
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -259,6 +259,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801795/</link>
 			<description><![CDATA[　経済産業省は2017年6月28日、クレジットカード会社のAPI（アプリケーション・プログラミング・インタフェース）連携について検討する「クレジットカードデータ利用に係るAPI連携に関する検討会」の中間報告書を公表した。]]></description>
 			<pubDate>Wed, 28 Jun 2017 19:46:23 +0900</pubDate>
+		</item>
+		<item>
+			<title>IPAが感染拡大するランサムウエアの対策を呼びかけ、日本では被害確認なし（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801796/</link>
+			<description><![CDATA[　情報処理推進機構（IPA）は2017年6月28日、欧州で感染被害が拡大しているランサムウエア「Petya」の対策を呼びかけるWebページを公開した。日本での被害は確認されていないが、今後は攻撃が発生する可能性があるという。]]></description>
+			<pubDate>Wed, 28 Jun 2017 22:03:42 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
