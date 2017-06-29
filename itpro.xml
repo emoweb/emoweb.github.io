@@ -11,36 +11,6 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>アクロニスが企業向けバックアップソフト刷新、ランサムウエアから保護（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801788/</link>
-			<description><![CDATA[　アクロニス・ジャパンは2017年6月28日、企業向けバックアップソフト「Acronis Backup 12.5」を発売した。Oracle DBのオンラインバックアップや企業向けストレージとの連携といった基本機能を強化。ランサムウエアの検知・復旧機能を搭載するなどデータ保護に関する機能を取り込んだ。]]></description>
-			<pubDate>Wed, 28 Jun 2017 16:50:57 +0900</pubDate>
-		</item>
-		<item>
-			<title>PCスマホ所持設置だけでは費用負担求めず、NHK常時同時配信で答申案（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801789/</link>
-			<description><![CDATA[　NHKは2017年6月27日、ネットを利用した放送の常時同時配信に関連して、NHK受信料制度等検討委員会の答申案を公表するとともに意見の募集を開始した。常時同時配信とは、NHKが放送するテレビ番組を、原則としてそのまますべて放送と同時にインターネットを通じて配信することを指す。]]></description>
-			<pubDate>Wed, 28 Jun 2017 17:04:02 +0900</pubDate>
-		</item>
-		<item>
-			<title>アイ・オー・データ、写真・動画を直接保存できるNAS「Fotogenic」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801790/</link>
-			<description><![CDATA[　アイ・オー・データ機器は2017年6月28日、デジタルカメラやスマートフォンの写真・動画をパソコンなしで直接保存できるフォトストレージ「Fotogenic（フォトジェニック）」を7月下旬に出荷開始すると発表した。価格はオープン、予想実勢価格（税別）は1万7800円前後。]]></description>
-			<pubDate>Wed, 28 Jun 2017 17:24:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>エレコム、ヘッドホン一体型のスマホ利用VRヘッドセット「P-VRGEH01」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801791/</link>
-			<description><![CDATA[　エレコムは、スマートフォンを利用したVRヘッドセットの新製品として、ヘッドホン一体型の「P-VRGEH01」シリーズと、イヤホン一体型の「P-VRGEI01」シリーズを2017年7月中旬に発売する。ヘッドホンやイヤホンを一体化することで没入感を高めた。]]></description>
-			<pubDate>Wed, 28 Jun 2017 17:25:36 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本IBMが「FinTech証券共通API」、API管理クラウドを拡販（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801792/</link>
-			<description><![CDATA[　日本IBMは2017年6月28日、証券会社向けのAPI（アプリケーション・プログラミング・インタフェース）を実装する仕様を定めたテンプレート「FinTech証券共通API」を発表した。]]></description>
-			<pubDate>Wed, 28 Jun 2017 17:47:11 +0900</pubDate>
-		</item>
-		<item>
 			<title>米AMDがGPUボード「Radeon Vega Frontier Edition」発表、機械学習でも性能発揮（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801793/</link>
 			<description><![CDATA[　米AMDは2017年6月27日（米国時間）、高性能グラフィックスボード「Radeon Vega Frontier Edition」を発表した。機械学習や複雑な画像処理に向けた製品で、同社が「Vega」と呼ぶアーキテクチャーを採用したGPU（Graphics Processing Unit）を搭載している。空冷タイプの米国での市場価格は999ドル。]]></description>
@@ -65,6 +35,36 @@
 			<pubDate>Wed, 28 Jun 2017 22:03:42 +0900</pubDate>
 		</item>
 		<item>
+			<title>インドIT大手が米クラウド専業を買収した理由（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062801036/</link>
+			<description><![CDATA[　米アピリオが、事業戦略の転換を図っている。米セールスフォース・ドットコムなどのクラウドサービスを活用したシステム開発で実績を積んできたが、インドのIT大手ウィプロが買収。今後は、ウィプログループのクラウド事業の牽引役としての役割を果たす。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Googleスプレッドシートで作った単語帳から毎日LINEに英単語を送ろう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/050100072/</link>
+			<description><![CDATA[　ここ4回にわたって、LINE Notify APIとGoogle Apps Scriptを組み合わせて使う方法を紹介しています。今回は、Googleスプレッドシートを参照して、毎日、覚えたい英単語をLINEに送るという仕組みを作ってみましょう。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>脆弱性スキャナーでオープンポートを自動診断（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900005/</link>
+			<description><![CDATA[　脆弱性スキャナーを使えば、自動で脆弱性を調査できる。検出した脆弱性の危険度や対策方法もわかる。無償の脆弱性スキャナー「OpenVAS」を使った診断方法を解説する。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>コンテナのセキュリティ保護、SELinuxはどう役立つか（IoT時代の最新SELinux入門）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052600004/</link>
+			<description><![CDATA[　前回までに、SELinuxの主な機能として「TE（Type Enforcement）」を紹介しました。TEでは、プロセスに「ドメイン」を、ファイルに「タイプ」を付与します。セキュリティポリシーには、「ドメインがどんなタイプにどんなアクセスができるのか？」というルールが記載されています。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本進出が決まったAIスピーカー「Google Home」、その強み（AIスピーカー競争）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000250/062800003/</link>
+			<description><![CDATA[　AIファースト。コンピュータのユーザーインタフェース（UI）を、従来のタッチパネルやキーボードなどからAI（人工知能）に置き換えようという米Googleの戦略だ。日本でも年内の発売が決まったAIスピーカーの「Google Home」は、生活のあらゆるシーンにGoogleのAIを広げる第一歩となるものだ。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ワイモバイルの料金プランは本当に「格安」なのか？（スマホ料金の勘違い）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062300004/</link>
 			<description><![CDATA[　MVNOや格安SIMが注目を集める中で、いま最も新規ユーザーを獲得していると言われているのがY!mobile（ワイモバイル）だ。ワイモバイルはMVNOではなく、自ら通信インフラを所有する通信事業者である。]]></description>
@@ -83,9 +83,9 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>始動した地銀のFinTech戦略、各行の個性の違い浮き彫りに（Nikkei FinTech Conference 2017#2レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062800005/</link>
-			<description><![CDATA[　FinTechによって大きな変革の節目を迎える金融業界。しかし、FinTechの捉え方や対応態勢、戦略は各社で同じではない。特に、地方を基盤とする地銀の対応は個性があるようだ。]]></description>
+			<title>WannaCryに襲われた日立、セキュリティ人材1万人の確保急ぐ（国内大手のセキュリティ人材育成）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062700003/</link>
+			<description><![CDATA[　日立製作所は2020年までにセキュリティ人材を1万人育成する計画だ。同社は2017年5月12日、WannaCryに感染し、メールや受発注が一時停止した。こうした事態を再発させないためにも、1000人の専門家に加え、一般社員から9000人のセキュリティ人材を育てる施策を急ぐ。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,39 +101,9 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>インドIT大手が米クラウド専業を買収した理由（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062801036/</link>
-			<description><![CDATA[　米アピリオが、事業戦略の転換を図っている。米セールスフォース・ドットコムなどのクラウドサービスを活用したシステム開発で実績を積んできたが、インドのIT大手ウィプロが買収。今後は、ウィプログループのクラウド事業の牽引役としての役割を果たす。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>WannaCryに襲われた日立、セキュリティ人材1万人の確保急ぐ（国内大手のセキュリティ人材育成）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062700003/</link>
-			<description><![CDATA[　日立製作所は2020年までにセキュリティ人材を1万人育成する計画だ。同社は2017年5月12日、WannaCryに感染し、メールや受発注が一時停止した。こうした事態を再発させないためにも、1000人の専門家に加え、一般社員から9000人のセキュリティ人材を育てる施策を急ぐ。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>コンテナのセキュリティ保護、SELinuxはどう役立つか（IoT時代の最新SELinux入門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052600004/</link>
-			<description><![CDATA[　前回までに、SELinuxの主な機能として「TE（Type Enforcement）」を紹介しました。TEでは、プロセスに「ドメイン」を、ファイルに「タイプ」を付与します。セキュリティポリシーには、「ドメインがどんなタイプにどんなアクセスができるのか？」というルールが記載されています。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Googleスプレッドシートで作った単語帳から毎日LINEに英単語を送ろう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/050100072/</link>
-			<description><![CDATA[　ここ4回にわたって、LINE Notify APIとGoogle Apps Scriptを組み合わせて使う方法を紹介しています。今回は、Googleスプレッドシートを参照して、毎日、覚えたい英単語をLINEに送るという仕組みを作ってみましょう。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>脆弱性スキャナーでオープンポートを自動診断（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900005/</link>
-			<description><![CDATA[　脆弱性スキャナーを使えば、自動で脆弱性を調査できる。検出した脆弱性の危険度や対策方法もわかる。無償の脆弱性スキャナー「OpenVAS」を使った診断方法を解説する。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本進出が決まったAIスピーカー「Google Home」、その強み（AIスピーカー競争）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000250/062800003/</link>
-			<description><![CDATA[　AIファースト。コンピュータのユーザーインタフェース（UI）を、従来のタッチパネルやキーボードなどからAI（人工知能）に置き換えようという米Googleの戦略だ。日本でも年内の発売が決まったAIスピーカーの「Google Home」は、生活のあらゆるシーンにGoogleのAIを広げる第一歩となるものだ。]]></description>
+			<title>始動した地銀のFinTech戦略、各行の個性の違い浮き彫りに（Nikkei FinTech Conference 2017#2レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062800005/</link>
+			<description><![CDATA[　FinTechによって大きな変革の節目を迎える金融業界。しかし、FinTechの捉え方や対応態勢、戦略は各社で同じではない。特に、地方を基盤とする地銀の対応は個性があるようだ。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -264,6 +234,36 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901806/</link>
 			<description><![CDATA[　東京エレクトロンデバイスは2017年6月29日、仮想化技術を用いたクラウド環境をサイバー攻撃などから守って安全に運用するためのセキュリティーソフト「APEIRO」を発表、同日販売を開始した。]]></description>
 			<pubDate>Thu, 29 Jun 2017 17:32:30 +0900</pubDate>
+		</item>
+		<item>
+			<title>サンワサプライのUSBエクステンダー「USB-EXSET2」、100m先のUSB機器を接続可能（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901807/</link>
+			<description><![CDATA[　サンワサプライは2017年6月29日、パソコンとUSB接続機器間を最大100mまで延長できる4ポートハブ付きUSB2.0エクステンダー「USB-EXSET2」を同日発売したと発表した。標準価格は8万6184円（税込み）。]]></description>
+			<pubDate>Thu, 29 Jun 2017 17:46:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>ミラクル・リナックス、監視統合ソフト「MIRACLE Hatohol Enterprise」最新版（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901808/</link>
+			<description><![CDATA[　ミラクル・リナックスは2017年6月29日、複数の運用管理ツールを統合する企業向け監視統合ソフトウエアの最新版「MIRACLE Hatohol Enterprise v2.1」を2017年6月30日から提供開始すると発表した。]]></description>
+			<pubDate>Thu, 29 Jun 2017 17:58:48 +0900</pubDate>
+		</item>
+		<item>
+			<title>ネットアップ、同社初のハイパーコンバージド「NetApp HCI」を10月に国内発売（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901810/</link>
+			<description><![CDATA[　ネットアップは2017年6月29日、同社初のハイパーコンバージドインフラストラクチャーを、日本国内では10月下旬に発売する予定だと明らかにした。]]></description>
+			<pubDate>Thu, 29 Jun 2017 20:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>医薬情報担当者の説明をSiri音声認識で支援、フェリング・ファーマ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901811/</link>
+			<description><![CDATA[　フェリング・ファーマ（東京・港）は2017年6月28日、iPadとAI（人工知能）音声認識エンジンを使ったMR （医薬情報担当者）向けの支援ツールを導入したことを発表した。]]></description>
+			<pubDate>Thu, 29 Jun 2017 20:06:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>総務省がブロックチェーン実証実験、複数の役場を回らず電子手続き（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901812/</link>
+			<description><![CDATA[　総務省がブロックチェーンの実証実験を始める。共有するデータの範囲や採用するブロックチェーンの種類など、構築するシステムの使い勝手や構築と運用のコストなどを検証する。2017年度中に検証を始め、2018年度中をめどにブロックチェーンの具体的な利用計画を作る。]]></description>
+			<pubDate>Thu, 29 Jun 2017 20:11:49 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
