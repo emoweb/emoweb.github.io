@@ -5,6 +5,18 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>WannaCryに襲われた日立、セキュリティ人材1万人の確保急ぐ（国内大手のセキュリティ人材育成）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062700003/</link>
+			<description><![CDATA[　日立製作所は2020年までにセキュリティ人材を1万人育成する計画だ。同社は2017年5月12日、WannaCryに感染し、メールや受発注が一時停止した。こうした事態を再発させないためにも、1000人の専門家に加え、一般社員から9000人のセキュリティ人材を育てる施策を急ぐ。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>始動した地銀のFinTech戦略、各行の個性の違い浮き彫りに（Nikkei FinTech Conference 2017#2レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062800005/</link>
+			<description><![CDATA[　FinTechによって大きな変革の節目を迎える金融業界。しかし、FinTechの捉え方や対応態勢、戦略は各社で同じではない。特に、地方を基盤とする地銀の対応は個性があるようだ。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>Googleスプレッドシートで作った単語帳から毎日LINEに英単語を送ろう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/050100072/</link>
 			<description><![CDATA[　ここ4回にわたって、LINE Notify APIとGoogle Apps Scriptを組み合わせて使う方法を紹介しています。今回は、Googleスプレッドシートを参照して、毎日、覚えたい英単語をLINEに送るという仕組みを作ってみましょう。]]></description>
@@ -41,9 +53,9 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>AWSとAzure、戦いの舞台はNoSQLへ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062801035/</link>
-			<description><![CDATA[　パブリッククラウドサービス2強である、米アマゾン・ドット・コムのAmazon Web Services（AWS）と米マイクロソフトのMicrosoft AzureがNoSQLデータベースの分野で激しいサービス競争を繰り広げている。]]></description>
+			<title>ファミマ社長が半日をグーグルに割いた意味（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062600866/</link>
+			<description><![CDATA[　米アマゾン・ウェブ・サービスと米グーグルが企業向けシステム市場で「大人」になった。クラウド活用は今まさに転換点を迎えている――。両社のそれぞれの日本法人が2017年6月に相次ぎ開催した年次イベントに参加して、記者はそう感じた。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -53,40 +65,16 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>WannaCryに襲われた日立、セキュリティ人材1万人の確保急ぐ（国内大手のセキュリティ人材育成）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062700003/</link>
-			<description><![CDATA[　日立製作所は2020年までにセキュリティ人材を1万人育成する計画だ。同社は2017年5月12日、WannaCryに感染し、メールや受発注が一時停止した。こうした事態を再発させないためにも、1000人の専門家に加え、一般社員から9000人のセキュリティ人材を育てる施策を急ぐ。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ファミマ社長が半日をグーグルに割いた意味（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062600866/</link>
-			<description><![CDATA[　米アマゾン・ウェブ・サービスと米グーグルが企業向けシステム市場で「大人」になった。クラウド活用は今まさに転換点を迎えている――。両社のそれぞれの日本法人が2017年6月に相次ぎ開催した年次イベントに参加して、記者はそう感じた。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>HDDが壊れた瞬間どうする？覚えておきたい初動（HDDが壊れたら…）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062800004/</link>
 			<description><![CDATA[　「大事なデータが消えた」。壊れたハードディスクを前に、呆然としている暇はない。一刻も早くPCの電源を落とすのが、データ復旧へ望みをつなげるための近道だ。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>始動した地銀のFinTech戦略、各行の個性の違い浮き彫りに（Nikkei FinTech Conference 2017#2レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062800005/</link>
-			<description><![CDATA[　FinTechによって大きな変革の節目を迎える金融業界。しかし、FinTechの捉え方や対応態勢、戦略は各社で同じではない。特に、地方を基盤とする地銀の対応は個性があるようだ。]]></description>
+			<title>AWSとAzure、戦いの舞台はNoSQLへ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062801035/</link>
+			<description><![CDATA[　パブリッククラウドサービス2強である、米アマゾン・ドット・コムのAmazon Web Services（AWS）と米マイクロソフトのMicrosoft AzureがNoSQLデータベースの分野で激しいサービス競争を繰り広げている。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ヤマト総研、RFIDでトラック納品の待ち時間を短縮（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901802/</link>
-			<description><![CDATA[　ヤマトホールディングスは2017年6月29日、トラックの入庫時間を調整できる車両予約システムと、RFIDを利用してトラックの納品業務を管理する仕組みを開発したと発表した。ライオンとの実証実験を7月3日に開始する。]]></description>
-			<pubDate>Thu, 29 Jun 2017 13:11:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>一つの歴史が終わる、Yahoo!がディレクトリ型検索を終了（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901803/</link>
-			<description><![CDATA[　ヤフーは2017年6月29日、ディレクトリ型検索サービスである「Yahoo!カテゴリ」の提供を、2018年3月29日をもって終了すると発表した。1996年の同社創業時の主力サービスが姿を消すことになる。]]></description>
-			<pubDate>Thu, 29 Jun 2017 13:25:26 +0900</pubDate>
 		</item>
 		<item>
 			<title>カブドットコム証券にDDoS攻撃、検知から約38分後にブロック（ニュース）</title>
@@ -149,6 +137,18 @@
 			<pubDate>Thu, 29 Jun 2017 22:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>ラズパイがシンクライアント端末に！専用OS「RPi-TC」を試す（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/062900013/</link>
+			<description><![CDATA[　4000円台のボードPC「Raspberry Pi（ラズパイ）」を、リモートから別PCのデスクトップを利用するシンクライアント端末として利用できるOSが「RPi-TC」です。リモートデスクトップ機能を有効にしたWindows PCなどのデスクトップをネットワーク経由で操作できます。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>iPhoneからAndroidへ　データはどう移行すればいい？（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062700323/</link>
+			<description><![CDATA[　格安スマホとしても取り扱いが多いAndroidスマホに、iPhoneから乗り換えるとき、データをどう移行すればいいのだろうか？　詳しく解説しよう。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「消費者への説明はまだ不十分」、総務省が携帯大手3社を指導（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062901038/</link>
 			<description><![CDATA[　総務省は6月28日、重要事項の説明が不十分だったとして、携帯電話大手3社に近く行政指導を行った。販売スタッフが費やす接客時間は長くなり、現場の負担感は増している。携帯電話販売の現場では、どのようなことが起こっているのか。]]></description>
@@ -191,9 +191,9 @@
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ラズパイがシンクライアント端末に！専用OS「RPi-TC」を試す（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/062900013/</link>
-			<description><![CDATA[　4000円台のボードPC「Raspberry Pi（ラズパイ）」を、リモートから別PCのデスクトップを利用するシンクライアント端末として利用できるOSが「RPi-TC」です。リモートデスクトップ機能を有効にしたWindows PCなどのデスクトップをネットワーク経由で操作できます。]]></description>
+			<title>紛失防止タグで傘も見つかる？ 東京メトロが実証実験　（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062700322/</link>
+			<description><![CDATA[　東京メトロは2017年6月19日、紛失防止タグ「MAMORIO」を使った忘れ物自動通知サービスの実証実験を飯田橋駅構内のお忘れ物総合取扱所、銀座線渋谷駅、丸ノ内線池袋駅、有楽町線新木場駅で開始した。]]></description>
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -251,22 +251,51 @@
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>紛失防止タグで傘も見つかる？ 東京メトロが実証実験　（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062700322/</link>
-			<description><![CDATA[　東京メトロは2017年6月19日、紛失防止タグ「MAMORIO」を使った忘れ物自動通知サービスの実証実験を飯田橋駅構内のお忘れ物総合取扱所、銀座線渋谷駅、丸ノ内線池袋駅、有楽町線新木場駅で開始した。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iPhoneからAndroidへ　データはどう移行すればいい？（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062700323/</link>
-			<description><![CDATA[　格安スマホとしても取り扱いが多いAndroidスマホに、iPhoneから乗り換えるとき、データをどう移行すればいいのだろうか？　詳しく解説しよう。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>映像鑑賞にお薦め！10型タブレット「MediaPad M3 Lite 10」（伊藤浩一のモバイルライフ応援日記）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/061400059/</link>
 			<description><![CDATA[　Media Pad M3 Lite 10は、約10.1型、WUXGA（1920×1000ピクセル）の画面を持つAndroidタブレットです。筆者が注目したのは、充実したサウンドシステムです。]]></description>
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本郵便でシステム障害、ローソン1万2300店舗で新サービスの発送できず（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001813/</link>
+			<description><![CDATA[　日本郵便は2017年6月29日、20日に新たに始めた「e発送サービス」に関するシステム障害が発生したと明らかにした。28日午後4時ごろ、ローソン店舗設置の端末「Loppi」で送り状の印刷ができなくなり、荷物の発送ができない状態が続いているという。]]></description>
+			<pubDate>Fri, 30 Jun 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>CISOの任命、何をどう進めるか（下）（CISOの任命、何をどう進めるか）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　企業がCISO（最高情報セキュリティ責任者）を置かないのは、無謀に思えるかもしれないが、珍しいことではない。米Cybrary ITのレポート「2016 Cyber Security Job Trends」によると、CSO（最高セキュリティ責任者）やCISOを置いている企業は49％にすぎない。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900002/" target="_blank">前回</a>から続く）</p>
+
+<h4>CISOの候補者</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900003/ph3.jpg" width="300" alt="" title=""></div></div>
+
+<p>　CISOの候補者の側が選考プロセスの一歩を踏み出す時には、また別の難しさがある。候補者が警戒するのは、マーケティング主導の見掛け倒しの仕事や、荒廃地を任されて、変化の担い手になれないことだ。かつてCitiのCISOを務めたKatz氏は、現在は米Security Risk Solutionsのオーナーである。Katz氏は、ますます戦略的になっていく職務に足を踏み入れられるかどうかをまず決断する必要があると話す。苦労して身に付けた技術スキルを脇へ置いて、これまで教わったことのないソフトスキルの構築へと進む意欲があるかどうかだ。</p>
+
+<p>　その答えがイエスで、その役職に興味とやりがいの両方を感じる候補者は、通勤や報酬より先に、その企業と文化を熟考せよとKatz氏は言う。また、その仕事が戦術的なのか、技術的なのか、戦略的なのかを尋ねることや、マーケティングや啓発の仕事が最大で半分を占めそうな職務に対処できるかどうかを問うことも必要だと同氏は話す。さらには、システムインテグレーターなどのつながりを生かして、相手の企業についてもっと探り出すことを同氏は強く勧め、自ら調査するよう促す。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900003/?ST=cio-security&P=2">SerenovaのClark氏も同様の見解だ。自...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900003/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900003/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900003/?ST=cio-security&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 30 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
