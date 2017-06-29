@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Facebook、ユーザー数が20億人に到達、新興国市場で急伸（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801783/</link>
-			<description><![CDATA[　米Facebookは現地時間2017年6月27日、月間アクティブユーザー数（MAU）が、20億人に達したと発表した。]]></description>
-			<pubDate>Wed, 28 Jun 2017 10:34:16 +0900</pubDate>
-		</item>
-		<item>
-			<title>イオングループでクラウド決済「J-Mups」に障害、システム更改が原因か（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801785/</link>
-			<description><![CDATA[　JR東日本メカトロニクスと三菱UFJニコスが運営するクラウド決済システム「J-Mups」が、使えなくなる障害が起きていたことが明らかになった。2017年5月29日に障害が起こり、6月5日までに解消した。]]></description>
-			<pubDate>Wed, 28 Jun 2017 11:14:29 +0900</pubDate>
-		</item>
-		<item>
 			<title>456社が導入する国産RPAソフトの新版、ユーザックシステムが発売（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801784/</link>
 			<description><![CDATA[　ユーザックシステムは2017年6月28日、Webブラウザの操作を自動化するRPAソフト「Autoブラウザ名人」の新版を発売すると発表。開発を効率化する機能を追加したり、ライセンス体系を見直したりした。]]></description>
@@ -95,15 +83,27 @@
 			<pubDate>Wed, 28 Jun 2017 22:03:42 +0900</pubDate>
 		</item>
 		<item>
+			<title>ファミマ社長が半日をグーグルに割いた意味（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062600866/</link>
+			<description><![CDATA[　米アマゾン・ウェブ・サービスと米グーグルが企業向けシステム市場で「大人」になった。クラウド活用は今まさに転換点を迎えている――。両社のそれぞれの日本法人が2017年6月に相次ぎ開催した年次イベントに参加して、記者はそう感じた。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AWSとAzure、戦いの舞台はNoSQLへ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062801035/</link>
+			<description><![CDATA[　パブリッククラウドサービス2強である、米アマゾン・ドット・コムのAmazon Web Services（AWS）と米マイクロソフトのMicrosoft AzureがNoSQLデータベースの分野で激しいサービス競争を繰り広げている。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ワイモバイルの料金プランは本当に「格安」なのか？（スマホ料金の勘違い）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062300004/</link>
 			<description><![CDATA[　MVNOや格安SIMが注目を集める中で、いま最も新規ユーザーを獲得していると言われているのがY!mobile（ワイモバイル）だ。ワイモバイルはMVNOではなく、自ら通信インフラを所有する通信事業者である。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ファミマ社長が半日をグーグルに割いた意味（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062600866/</link>
-			<description><![CDATA[　米アマゾン・ウェブ・サービスと米グーグルが企業向けシステム市場で「大人」になった。クラウド活用は今まさに転換点を迎えている――。両社のそれぞれの日本法人が2017年6月に相次ぎ開催した年次イベントに参加して、記者はそう感じた。]]></description>
+			<title>始動した地銀のFinTech戦略、各行の個性の違い浮き彫りに（Nikkei FinTech Conference 2017#2レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062800005/</link>
+			<description><![CDATA[　FinTechによって大きな変革の節目を迎える金融業界。しかし、FinTechの捉え方や対応態勢、戦略は各社で同じではない。特に、地方を基盤とする地銀の対応は個性があるようだ。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -125,15 +125,15 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>WannaCryに襲われた日立、セキュリティ人材1万人の確保急ぐ（国内大手のセキュリティ人材育成）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062700003/</link>
-			<description><![CDATA[　日立製作所は2020年までにセキュリティ人材を1万人育成する計画だ。同社は2017年5月12日、WannaCryに感染し、メールや受発注が一時停止した。こうした事態を再発させないためにも、1000人の専門家に加え、一般社員から9000人のセキュリティ人材を育てる施策を急ぐ。]]></description>
+			<title>HDDが壊れた瞬間どうする？覚えておきたい初動（HDDが壊れたら…）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062800004/</link>
+			<description><![CDATA[　「大事なデータが消えた」。壊れたハードディスクを前に、呆然としている暇はない。一刻も早くPCの電源を落とすのが、データ復旧へ望みをつなげるための近道だ。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>AWSとAzure、戦いの舞台はNoSQLへ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062801035/</link>
-			<description><![CDATA[　パブリッククラウドサービス2強である、米アマゾン・ドット・コムのAmazon Web Services（AWS）と米マイクロソフトのMicrosoft AzureがNoSQLデータベースの分野で激しいサービス競争を繰り広げている。]]></description>
+			<title>インドIT大手が米クラウド専業を買収した理由（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062801036/</link>
+			<description><![CDATA[　米アピリオが、事業戦略の転換を図っている。米セールスフォース・ドットコムなどのクラウドサービスを活用したシステム開発で実績を積んできたが、インドのIT大手ウィプロが買収。今後は、ウィプログループのクラウド事業の牽引役としての役割を果たす。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -149,21 +149,9 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>HDDが壊れた瞬間どうする？覚えておきたい初動（HDDが壊れたら…）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062800004/</link>
-			<description><![CDATA[　「大事なデータが消えた」。壊れたハードディスクを前に、呆然としている暇はない。一刻も早くPCの電源を落とすのが、データ復旧へ望みをつなげるための近道だ。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>始動した地銀のFinTech戦略、各行の個性の違い浮き彫りに（Nikkei FinTech Conference 2017#2レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062800005/</link>
-			<description><![CDATA[　FinTechによって大きな変革の節目を迎える金融業界。しかし、FinTechの捉え方や対応態勢、戦略は各社で同じではない。特に、地方を基盤とする地銀の対応は個性があるようだ。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>インドIT大手が米クラウド専業を買収した理由（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062801036/</link>
-			<description><![CDATA[　米アピリオが、事業戦略の転換を図っている。米セールスフォース・ドットコムなどのクラウドサービスを活用したシステム開発で実績を積んできたが、インドのIT大手ウィプロが買収。今後は、ウィプログループのクラウド事業の牽引役としての役割を果たす。]]></description>
+			<title>WannaCryに襲われた日立、セキュリティ人材1万人の確保急ぐ（国内大手のセキュリティ人材育成）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062700003/</link>
+			<description><![CDATA[　日立製作所は2020年までにセキュリティ人材を1万人育成する計画だ。同社は2017年5月12日、WannaCryに感染し、メールや受発注が一時停止した。こうした事態を再発させないためにも、1000人の専門家に加え、一般社員から9000人のセキュリティ人材を育てる施策を急ぐ。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -258,6 +246,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801798/</link>
 			<description><![CDATA[　日立製作所は2017年6月29日、ITサービス運用の継続的な改善を支援する「「IT運用最適化サービス」を6月30日に販売開始すると発表した。SaaS型のITサービスマネジメント「ServiceNow」と、日立の統合システム運用管理ソフト「JP1」を連携するテンプレートを提供する。]]></description>
 			<pubDate>Thu, 29 Jun 2017 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ヤマト総研、RFIDでトラック納品の待ち時間を短縮（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901802/</link>
+			<description><![CDATA[　ヤマトホールディングスは2017年6月29日、トラックの入庫時間を調整できる車両予約システムと、RFIDを利用してトラックの納品業務を管理する仕組みを開発したと発表した。ライオンとの実証実験を7月3日に開始する。]]></description>
+			<pubDate>Thu, 29 Jun 2017 13:11:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>一つの歴史が終わる、Yahoo!がディレクトリ型検索を終了（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901803/</link>
+			<description><![CDATA[　ヤフーは2017年6月29日、ディレクトリ型検索サービスである「Yahoo!カテゴリ」の提供を、2018年3月29日をもって終了すると発表した。1996年の同社創業時の主力サービスが姿を消すことになる。]]></description>
+			<pubDate>Thu, 29 Jun 2017 13:25:26 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
