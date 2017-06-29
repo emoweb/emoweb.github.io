@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>456社が導入する国産RPAソフトの新版、ユーザックシステムが発売（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801784/</link>
-			<description><![CDATA[　ユーザックシステムは2017年6月28日、Webブラウザの操作を自動化するRPAソフト「Autoブラウザ名人」の新版を発売すると発表。開発を効率化する機能を追加したり、ライセンス体系を見直したりした。]]></description>
-			<pubDate>Wed, 28 Jun 2017 11:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>［特報］「WannaCry亜種に感染」、マクドナルド障害のマルウエア判明（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801786/</link>
 			<description><![CDATA[　日本マクドナルドの店舗システムで2017年6月16日から21日にかけて発生したシステム障害の原因が、「WannaCry（ワナクライ）」の亜種であることが日経コンピュータの取材で分かった。]]></description>
@@ -83,6 +77,12 @@
 			<pubDate>Wed, 28 Jun 2017 22:03:42 +0900</pubDate>
 		</item>
 		<item>
+			<title>始動した地銀のFinTech戦略、各行の個性の違い浮き彫りに（Nikkei FinTech Conference 2017#2レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062800005/</link>
+			<description><![CDATA[　FinTechによって大きな変革の節目を迎える金融業界。しかし、FinTechの捉え方や対応態勢、戦略は各社で同じではない。特に、地方を基盤とする地銀の対応は個性があるようだ。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ファミマ社長が半日をグーグルに割いた意味（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062600866/</link>
 			<description><![CDATA[　米アマゾン・ウェブ・サービスと米グーグルが企業向けシステム市場で「大人」になった。クラウド活用は今まさに転換点を迎えている――。両社のそれぞれの日本法人が2017年6月に相次ぎ開催した年次イベントに参加して、記者はそう感じた。]]></description>
@@ -95,15 +95,15 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ワイモバイルの料金プランは本当に「格安」なのか？（スマホ料金の勘違い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062300004/</link>
-			<description><![CDATA[　MVNOや格安SIMが注目を集める中で、いま最も新規ユーザーを獲得していると言われているのがY!mobile（ワイモバイル）だ。ワイモバイルはMVNOではなく、自ら通信インフラを所有する通信事業者である。]]></description>
+			<title>「早い・安い・多い」が裏目？AWSユーザーの意外な苦悩（AWSの死角）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062600001/</link>
+			<description><![CDATA[　サービスアップデートのサイクルが早く、度重なる値下げを実施し、豊富なサービスを抱える――。これらは米アマゾン ウェブ サービス（AWS）の強みといえるが、強みであるがゆえにユーザー企業から苦悩の声も上がっている。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>始動した地銀のFinTech戦略、各行の個性の違い浮き彫りに（Nikkei FinTech Conference 2017#2レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062800005/</link>
-			<description><![CDATA[　FinTechによって大きな変革の節目を迎える金融業界。しかし、FinTechの捉え方や対応態勢、戦略は各社で同じではない。特に、地方を基盤とする地銀の対応は個性があるようだ。]]></description>
+			<title>WannaCryに襲われた日立、セキュリティ人材1万人の確保急ぐ（国内大手のセキュリティ人材育成）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062700003/</link>
+			<description><![CDATA[　日立製作所は2020年までにセキュリティ人材を1万人育成する計画だ。同社は2017年5月12日、WannaCryに感染し、メールや受発注が一時停止した。こうした事態を再発させないためにも、1000人の専門家に加え、一般社員から9000人のセキュリティ人材を育てる施策を急ぐ。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -143,15 +143,9 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「早い・安い・多い」が裏目？AWSユーザーの意外な苦悩（AWSの死角）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062600001/</link>
-			<description><![CDATA[　サービスアップデートのサイクルが早く、度重なる値下げを実施し、豊富なサービスを抱える――。これらは米アマゾン ウェブ サービス（AWS）の強みといえるが、強みであるがゆえにユーザー企業から苦悩の声も上がっている。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>WannaCryに襲われた日立、セキュリティ人材1万人の確保急ぐ（国内大手のセキュリティ人材育成）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062700003/</link>
-			<description><![CDATA[　日立製作所は2020年までにセキュリティ人材を1万人育成する計画だ。同社は2017年5月12日、WannaCryに感染し、メールや受発注が一時停止した。こうした事態を再発させないためにも、1000人の専門家に加え、一般社員から9000人のセキュリティ人材を育てる施策を急ぐ。]]></description>
+			<title>ワイモバイルの料金プランは本当に「格安」なのか？（スマホ料金の勘違い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062300004/</link>
+			<description><![CDATA[　MVNOや格安SIMが注目を集める中で、いま最も新規ユーザーを獲得していると言われているのがY!mobile（ワイモバイル）だ。ワイモバイルはMVNOではなく、自ら通信インフラを所有する通信事業者である。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -258,6 +252,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901803/</link>
 			<description><![CDATA[　ヤフーは2017年6月29日、ディレクトリ型検索サービスである「Yahoo!カテゴリ」の提供を、2018年3月29日をもって終了すると発表した。1996年の同社創業時の主力サービスが姿を消すことになる。]]></description>
 			<pubDate>Thu, 29 Jun 2017 13:25:26 +0900</pubDate>
+		</item>
+		<item>
+			<title>カブドットコム証券にDDoS攻撃、検知から約38分後にブロック（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901804/</link>
+			<description><![CDATA[　ネット証券会社のカブドットコム証券は2017年6月29日、DDoS（分散型サービス拒否）攻撃を受け、取引サイトなどがアクセスしづらい状況になったと発表した。アクセスしづらい状況が続いたのは午前9時2分頃から午前9時38分頃までの36分間程度にとどまり、既に復旧しているという。]]></description>
+			<pubDate>Thu, 29 Jun 2017 16:39:22 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
