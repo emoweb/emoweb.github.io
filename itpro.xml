@@ -11,12 +11,6 @@
 			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>米AMDがGPUボード「Radeon Vega Frontier Edition」発表、機械学習でも性能発揮（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801793/</link>
-			<description><![CDATA[　米AMDは2017年6月27日（米国時間）、高性能グラフィックスボード「Radeon Vega Frontier Edition」を発表した。機械学習や複雑な画像処理に向けた製品で、同社が「Vega」と呼ぶアーキテクチャーを採用したGPU（Graphics Processing Unit）を搭載している。空冷タイプの米国での市場価格は999ドル。]]></description>
-			<pubDate>Wed, 28 Jun 2017 17:52:20 +0900</pubDate>
-		</item>
-		<item>
 			<title>AIが採用面接を代行、支援サービス「SHaiN」開始へ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801794/</link>
 			<description><![CDATA[　タレントアンドアセスメント（東京・港）は2017年6月28日、人工知能（AI）による採用面接支援サービス「SHaiN（シャイン）」を発表した。8月から求人企業による優先利用申し込みの受け付けを始める。料金は1面接当たり1万円前後を想定している。]]></description>
@@ -35,6 +29,12 @@
 			<pubDate>Wed, 28 Jun 2017 22:03:42 +0900</pubDate>
 		</item>
 		<item>
+			<title>脆弱性スキャナーでオープンポートを自動診断（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900005/</link>
+			<description><![CDATA[　脆弱性スキャナーを使えば、自動で脆弱性を調査できる。検出した脆弱性の危険度や対策方法もわかる。無償の脆弱性スキャナー「OpenVAS」を使った診断方法を解説する。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>インドIT大手が米クラウド専業を買収した理由（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062801036/</link>
 			<description><![CDATA[　米アピリオが、事業戦略の転換を図っている。米セールスフォース・ドットコムなどのクラウドサービスを活用したシステム開発で実績を積んできたが、インドのIT大手ウィプロが買収。今後は、ウィプログループのクラウド事業の牽引役としての役割を果たす。]]></description>
@@ -47,9 +47,9 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>脆弱性スキャナーでオープンポートを自動診断（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900005/</link>
-			<description><![CDATA[　脆弱性スキャナーを使えば、自動で脆弱性を調査できる。検出した脆弱性の危険度や対策方法もわかる。無償の脆弱性スキャナー「OpenVAS」を使った診断方法を解説する。]]></description>
+			<title>始動した地銀のFinTech戦略、各行の個性の違い浮き彫りに（Nikkei FinTech Conference 2017#2レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062800005/</link>
+			<description><![CDATA[　FinTechによって大きな変革の節目を迎える金融業界。しかし、FinTechの捉え方や対応態勢、戦略は各社で同じではない。特に、地方を基盤とする地銀の対応は個性があるようだ。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -98,12 +98,6 @@
 			<title>HDDが壊れた瞬間どうする？覚えておきたい初動（HDDが壊れたら…）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062800004/</link>
 			<description><![CDATA[　「大事なデータが消えた」。壊れたハードディスクを前に、呆然としている暇はない。一刻も早くPCの電源を落とすのが、データ復旧へ望みをつなげるための近道だ。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>始動した地銀のFinTech戦略、各行の個性の違い浮き彫りに（Nikkei FinTech Conference 2017#2レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062800005/</link>
-			<description><![CDATA[　FinTechによって大きな変革の節目を迎える金融業界。しかし、FinTechの捉え方や対応態勢、戦略は各社で同じではない。特に、地方を基盤とする地銀の対応は個性があるようだ。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -264,6 +258,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901812/</link>
 			<description><![CDATA[　総務省がブロックチェーンの実証実験を始める。共有するデータの範囲や採用するブロックチェーンの種類など、構築するシステムの使い勝手や構築と運用のコストなどを検証する。2017年度中に検証を始め、2018年度中をめどにブロックチェーンの具体的な利用計画を作る。]]></description>
 			<pubDate>Thu, 29 Jun 2017 20:11:49 +0900</pubDate>
+		</item>
+		<item>
+			<title>米AMD、企業PC向けCPU「Ryzen Pro」の詳細を公開（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801797/</link>
+			<description><![CDATA[　米AMDは2017年6月29日（米国時間）、企業PC向けCPUとしてラインアップを予告していた「Ryzen Pro」の詳細を公開した。]]></description>
+			<pubDate>Thu, 29 Jun 2017 22:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>

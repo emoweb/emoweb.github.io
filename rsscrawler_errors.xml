@@ -5,7 +5,7 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2017-06-29 21:12:03 +0900</title>
+			<title>2017-06-29 22:12:06 +0900</title>
 			<link> </link>
 			<description><![CDATA[<strong>forest_impress</strong><br/><p>#&lt;Errno::ECONNRESET: Connection reset by peer&gt;
 in
@@ -38,34 +38,8 @@ in
 /data/src/rss_crawler/src/pipes/simple_pipes.rb:11:in `block (2 levels) in &lt;top (required)&gt;&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `call&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
-/data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p><br/><br/><strong>techon</strong><br/><p>#&lt;Errno::ETIMEDOUT: Connection timed out - connect(2)&gt;
-in
-/usr/share/ruby/net/http.rb:878:in `initialize&#39;
-/usr/share/ruby/net/http.rb:878:in `open&#39;
-/usr/share/ruby/net/http.rb:878:in `block in connect&#39;
-/usr/share/ruby/timeout.rb:52:in `timeout&#39;
-/usr/share/ruby/net/http.rb:877:in `connect&#39;
-/usr/share/ruby/net/http.rb:862:in `do_start&#39;
-/usr/share/ruby/net/http.rb:851:in `start&#39;
-/usr/share/ruby/open-uri.rb:313:in `open_http&#39;
-/usr/share/ruby/open-uri.rb:709:in `buffer_open&#39;
-/usr/share/ruby/open-uri.rb:210:in `block in open_loop&#39;
-/usr/share/ruby/open-uri.rb:208:in `catch&#39;
-/usr/share/ruby/open-uri.rb:208:in `open_loop&#39;
-/usr/share/ruby/open-uri.rb:149:in `open_uri&#39;
-/usr/share/ruby/open-uri.rb:689:in `open&#39;
-/usr/share/ruby/open-uri.rb:697:in `read&#39;
-/usr/share/ruby/rss/parser.rb:103:in `normalize_rss&#39;
-/usr/share/ruby/rss/parser.rb:89:in `initialize&#39;
-/usr/share/ruby/rss/parser.rb:76:in `new&#39;
-/usr/share/ruby/rss/parser.rb:76:in `parse&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:61:in `get_feed&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:167:in `pipe_procedure&#39;
-/data/src/rss_crawler/src/pipes/techon.rb:58:in `block in &lt;top (required)&gt;&#39;
-/data/src/rss_crawler/src/rss_crawler.rb:44:in `call&#39;
-/data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
-			<pubDate>Thu, 29 Jun 2017 21:12:03 +0900</pubDate>
+			<pubDate>Thu, 29 Jun 2017 22:12:06 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
