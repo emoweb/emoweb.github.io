@@ -5,10 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>［特報］「WannaCry亜種に感染」、マクドナルド障害のマルウエア判明（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801786/</link>
-			<description><![CDATA[　日本マクドナルドの店舗システムで2017年6月16日から21日にかけて発生したシステム障害の原因が、「WannaCry（ワナクライ）」の亜種であることが日経コンピュータの取材で分かった。]]></description>
-			<pubDate>Wed, 28 Jun 2017 13:25:57 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：「できない理由を完璧に言える」技術者は迷惑だ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062300865/?d29</link>
+			<description><![CDATA[　「イノベーションに必須の条件は何か」と聞かれたら、皆さんは何と答えるだろうか。ITを使った新規ビジネスやビジネスのデジタル化の取り組みなどを想定して考えてほしい。これだけは絶対に必要、まさに必須の条件とは何だろうか……。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>「マクドナルドのシステム障害」関連記事（ITproアーカイブス）</title>
@@ -77,6 +77,12 @@
 			<pubDate>Wed, 28 Jun 2017 22:03:42 +0900</pubDate>
 		</item>
 		<item>
+			<title>「早い・安い・多い」が裏目？AWSユーザーの意外な苦悩（AWSの死角）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062600001/</link>
+			<description><![CDATA[　サービスアップデートのサイクルが早く、度重なる値下げを実施し、豊富なサービスを抱える――。これらは米アマゾン ウェブ サービス（AWS）の強みといえるが、強みであるがゆえにユーザー企業から苦悩の声も上がっている。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>始動した地銀のFinTech戦略、各行の個性の違い浮き彫りに（Nikkei FinTech Conference 2017#2レポート）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062800005/</link>
 			<description><![CDATA[　FinTechによって大きな変革の節目を迎える金融業界。しかし、FinTechの捉え方や対応態勢、戦略は各社で同じではない。特に、地方を基盤とする地銀の対応は個性があるようだ。]]></description>
@@ -89,15 +95,15 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>AWSとAzure、戦いの舞台はNoSQLへ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062801035/</link>
-			<description><![CDATA[　パブリッククラウドサービス2強である、米アマゾン・ドット・コムのAmazon Web Services（AWS）と米マイクロソフトのMicrosoft AzureがNoSQLデータベースの分野で激しいサービス競争を繰り広げている。]]></description>
+			<title>日本進出が決まったAIスピーカー「Google Home」、その強み（AIスピーカー競争）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000250/062800003/</link>
+			<description><![CDATA[　AIファースト。コンピュータのユーザーインタフェース（UI）を、従来のタッチパネルやキーボードなどからAI（人工知能）に置き換えようという米Googleの戦略だ。日本でも年内の発売が決まったAIスピーカーの「Google Home」は、生活のあらゆるシーンにGoogleのAIを広げる第一歩となるものだ。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「早い・安い・多い」が裏目？AWSユーザーの意外な苦悩（AWSの死角）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062600001/</link>
-			<description><![CDATA[　サービスアップデートのサイクルが早く、度重なる値下げを実施し、豊富なサービスを抱える――。これらは米アマゾン ウェブ サービス（AWS）の強みといえるが、強みであるがゆえにユーザー企業から苦悩の声も上がっている。]]></description>
+			<title>ワイモバイルの料金プランは本当に「格安」なのか？（スマホ料金の勘違い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062300004/</link>
+			<description><![CDATA[　MVNOや格安SIMが注目を集める中で、いま最も新規ユーザーを獲得していると言われているのがY!mobile（ワイモバイル）だ。ワイモバイルはMVNOではなく、自ら通信インフラを所有する通信事業者である。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -137,15 +143,9 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>日本進出が決まったAIスピーカー「Google Home」、その強み（AIスピーカー競争）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000250/062800003/</link>
-			<description><![CDATA[　AIファースト。コンピュータのユーザーインタフェース（UI）を、従来のタッチパネルやキーボードなどからAI（人工知能）に置き換えようという米Googleの戦略だ。日本でも年内の発売が決まったAIスピーカーの「Google Home」は、生活のあらゆるシーンにGoogleのAIを広げる第一歩となるものだ。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ワイモバイルの料金プランは本当に「格安」なのか？（スマホ料金の勘違い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062300004/</link>
-			<description><![CDATA[　MVNOや格安SIMが注目を集める中で、いま最も新規ユーザーを獲得していると言われているのがY!mobile（ワイモバイル）だ。ワイモバイルはMVNOではなく、自ら通信インフラを所有する通信事業者である。]]></description>
+			<title>AWSとAzure、戦いの舞台はNoSQLへ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062801035/</link>
+			<description><![CDATA[　パブリッククラウドサービス2強である、米アマゾン・ドット・コムのAmazon Web Services（AWS）と米マイクロソフトのMicrosoft AzureがNoSQLデータベースの分野で激しいサービス競争を繰り広げている。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -258,6 +258,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901804/</link>
 			<description><![CDATA[　ネット証券会社のカブドットコム証券は2017年6月29日、DDoS（分散型サービス拒否）攻撃を受け、取引サイトなどがアクセスしづらい状況になったと発表した。アクセスしづらい状況が続いたのは午前9時2分頃から午前9時38分頃までの36分間程度にとどまり、既に復旧しているという。]]></description>
 			<pubDate>Thu, 29 Jun 2017 16:39:22 +0900</pubDate>
+		</item>
+		<item>
+			<title>ロシアで猛威のPetyaで分かった、セキュリティ会社の不確かさ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062901039/</link>
+			<description><![CDATA[　2017年6月27日にウクライナやロシアを中心に大規模なシステム障害を引き起こしたランサムウエア「新型Petya」。各国のCERTやベンダーの多くが、「メール添付による感染」を指摘していたした。ところが、その多くは28日以降、「メール添付による感染は見つかってない」となっている。]]></description>
+			<pubDate>Thu, 29 Jun 2017 17:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
