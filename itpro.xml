@@ -5,33 +5,9 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：「できない理由を完璧に言える」技術者は迷惑だ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062300865/?d29</link>
-			<description><![CDATA[　「イノベーションに必須の条件は何か」と聞かれたら、皆さんは何と答えるだろうか。ITを使った新規ビジネスやビジネスのデジタル化の取り組みなどを想定して考えてほしい。これだけは絶対に必要、まさに必須の条件とは何だろうか……。]]></description>
-			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIが採用面接を代行、支援サービス「SHaiN」開始へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801794/</link>
-			<description><![CDATA[　タレントアンドアセスメント（東京・港）は2017年6月28日、人工知能（AI）による採用面接支援サービス「SHaiN（シャイン）」を発表した。8月から求人企業による優先利用申し込みの受け付けを始める。料金は1面接当たり1万円前後を想定している。]]></description>
-			<pubDate>Wed, 28 Jun 2017 18:41:43 +0900</pubDate>
-		</item>
-		<item>
-			<title>経産省、カード会社のAPI連携時のルールや手順について中間報告（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801795/</link>
-			<description><![CDATA[　経済産業省は2017年6月28日、クレジットカード会社のAPI（アプリケーション・プログラミング・インタフェース）連携について検討する「クレジットカードデータ利用に係るAPI連携に関する検討会」の中間報告書を公表した。]]></description>
-			<pubDate>Wed, 28 Jun 2017 19:46:23 +0900</pubDate>
-		</item>
-		<item>
-			<title>IPAが感染拡大するランサムウエアの対策を呼びかけ、日本では被害確認なし（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801796/</link>
-			<description><![CDATA[　情報処理推進機構（IPA）は2017年6月28日、欧州で感染被害が拡大しているランサムウエア「Petya」の対策を呼びかけるWebページを公開した。日本での被害は確認されていないが、今後は攻撃が発生する可能性があるという。]]></description>
-			<pubDate>Wed, 28 Jun 2017 22:03:42 +0900</pubDate>
-		</item>
-		<item>
-			<title>脆弱性スキャナーでオープンポートを自動診断（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900005/</link>
-			<description><![CDATA[　脆弱性スキャナーを使えば、自動で脆弱性を調査できる。検出した脆弱性の危険度や対策方法もわかる。無償の脆弱性スキャナー「OpenVAS」を使った診断方法を解説する。]]></description>
+			<title>Googleスプレッドシートで作った単語帳から毎日LINEに英単語を送ろう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/050100072/</link>
+			<description><![CDATA[　ここ4回にわたって、LINE Notify APIとGoogle Apps Scriptを組み合わせて使う方法を紹介しています。今回は、Googleスプレッドシートを参照して、毎日、覚えたい英単語をLINEに送るという仕組みを作ってみましょう。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -41,15 +17,9 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Googleスプレッドシートで作った単語帳から毎日LINEに英単語を送ろう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/050100072/</link>
-			<description><![CDATA[　ここ4回にわたって、LINE Notify APIとGoogle Apps Scriptを組み合わせて使う方法を紹介しています。今回は、Googleスプレッドシートを参照して、毎日、覚えたい英単語をLINEに送るという仕組みを作ってみましょう。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>始動した地銀のFinTech戦略、各行の個性の違い浮き彫りに（Nikkei FinTech Conference 2017#2レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062800005/</link>
-			<description><![CDATA[　FinTechによって大きな変革の節目を迎える金融業界。しかし、FinTechの捉え方や対応態勢、戦略は各社で同じではない。特に、地方を基盤とする地銀の対応は個性があるようだ。]]></description>
+			<title>脆弱性スキャナーでオープンポートを自動診断（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900005/</link>
+			<description><![CDATA[　脆弱性スキャナーを使えば、自動で脆弱性を調査できる。検出した脆弱性の危険度や対策方法もわかる。無償の脆弱性スキャナー「OpenVAS」を使った診断方法を解説する。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,97 +71,10 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>IT部門を若返らせる逆メンター制度（後）（IT部門を若返らせる逆メンター制度）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　IT人材の不足を嘆くCIO（最高情報責任者）は多い。ストックオプションや福利厚生、目がくらむほどの給与で若手技術者を引き寄せられる企業ならいざ知らず、それ以外の企業では、IT部門が昔ながらのやり方で行き詰まっていることもある。その解決策の1つとして、とっておきの先生たちを活用して、ベテランのIT部員が時代に合った進化を遂げられるようトレーニングする方法がある。その先生役を務めるのは、ミレニアル世代の「デジタルネイティブ」だ。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900001/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　ソフトウエア開発を活性化して、優れた保険サービスの提供を目指すAflacの取り組みを支えるうえで、アジャイルの手法が役立つはずだとDavis氏は考えていた。だが、その実現のためには、IT部門の文化の思考様式を転換する必要がある。流儀が凝り固まっていたIT部門にとっては、新しい血とトレーニングを取り入れることがプラスになると考えられた。また同氏は、定年退職者の代わりとなる社員を大勢呼び込むことも必要としていた。「退職する社員への必要性より、もっと多くの見習いを迎える必要がある」とDavis氏は言う。</p>
-
-<p>　Davis氏は、かつて米General Electric（GE）でCIOを務めていた頃に参加した逆メンター制度にならって、見習社員が2年間にわたるローテーションでIT部員と協力していく制度を設けた。見習社員は数カ月ごとに別のチームへと渡り歩いてゆき、AflacのIT部門の職種、オペレーション、文化について、微妙な感覚をつかんでいった。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900002/?ST=cm-software&P=2">IT部門でリソースマネージャーを務め、逆メンター制度を取り仕切っ...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900002/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900002/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900002/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900048/061900002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 29 Jun 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Google、「Photos」の共有機能強化を今週開始　AIベースの共有提案など（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901799/</link>
-			<description><![CDATA[　米Googleは現地時間2017年6月28日、画像管理サービス「Google Photos」の共有機能の強化について明らかにした。先月の年次開発者会議「Google I/O」で発表した「Suggested Sharing」機能と「Shared Libraries」機能を、今週よりAndroidとiOS向けアプリケーション、およびWeb版で実装する。]]></description>
-			<pubDate>Thu, 29 Jun 2017 09:47:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>EU、Googleに巨額の制裁金、検索結果で自社サービスを優遇（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062900337/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Googleが、検索エンジン市場での支配的立場を濫用して、自社のショッピング比較サービスを不正に優遇したとして、欧州連合（EU）の欧州委員会（EC）は現地時間2017年6月27日、同社に24億2000万ユーロ（約27億2000万ドル）の制裁金を科すことを決めた。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062900337/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: European Commission</div>
-</div>
-<p>
-　この結果、Googleの検索結果に関して、米国とEU圏内で表示の仕方の違いがいっそう大きくなる可能性もある。
-</p>
-<p>
-　ECはGoogleに対し、この行為を90日以内にやめるよう命じた。それまでに対応しなかった場合、違反状態が1日続くごとに、親会社の米Alphabetが世界全体で1日に上げる平均売上高の最大5％に当たる制裁金を追加で科すとしている。
-</p>
-<p>
-　今回ECは、Googleが自らの検索サービスを使って、自社のショッピング比較サービス「Google Shopping」を目立たせている方法が問題だとした。（Google Shoppingは、以前は「Google Product Search」、その前は「Froogle」という名前だった）。
-</p>
-<p>
-　Googleは、通常の検索結果の上部にある目立つ場所に、自社のGoogle Shoppingの結果を表示し、競合するショッピング比較サービスよりも優位に扱ったとECは主張。競合するサービスは、最も上位のものでも、通常の検索結果の中で、平均で4ページ目にやっと表示されたとしている。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062900337/?ST=cio-management&P=2">「したがって、競合サービスがクリックされる可能性...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062900337/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062900337/?ST=cio-management&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062900337/?ST=cio-management&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062900337/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 29 Jun 2017 10:20:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>2020年までにモバイル加入者は7.5億人増加、インドと中国が大半占める（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901801/</link>
-			<description><![CDATA[　2020年末までの3年半の間に、世界で新たにモバイルサービスに加入する人の数は7億5300万人に上るが、そのうちインドと中国の2カ国だけでこの数のほぼ半数を占める。こうしたリポートを、モバイル通信事業者の国際業界団体GSMAが2017年6月28日に公表した。]]></description>
-			<pubDate>Thu, 29 Jun 2017 10:50:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ServiceNowとJP1を密連携、「IT運用最適化サービス」を日立が開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801798/</link>
-			<description><![CDATA[　日立製作所は2017年6月29日、ITサービス運用の継続的な改善を支援する「「IT運用最適化サービス」を6月30日に販売開始すると発表した。SaaS型のITサービスマネジメント「ServiceNow」と、日立の統合システム運用管理ソフト「JP1」を連携するテンプレートを提供する。]]></description>
-			<pubDate>Thu, 29 Jun 2017 11:10:00 +0900</pubDate>
+			<title>始動した地銀のFinTech戦略、各行の個性の違い浮き彫りに（Nikkei FinTech Conference 2017#2レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062800005/</link>
+			<description><![CDATA[　FinTechによって大きな変革の節目を迎える金融業界。しかし、FinTechの捉え方や対応態勢、戦略は各社で同じではない。特に、地方を基盤とする地銀の対応は個性があるようだ。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ヤマト総研、RFIDでトラック納品の待ち時間を短縮（ニュース）</title>
@@ -264,6 +147,126 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801797/</link>
 			<description><![CDATA[　米AMDは2017年6月29日（米国時間）、企業PC向けCPUとしてラインアップを予告していた「Ryzen Pro」の詳細を公開した。]]></description>
 			<pubDate>Thu, 29 Jun 2017 22:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「消費者への説明はまだ不十分」、総務省が携帯大手3社を指導（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062901038/</link>
+			<description><![CDATA[　総務省は6月28日、重要事項の説明が不十分だったとして、携帯電話大手3社に近く行政指導を行った。販売スタッフが費やす接客時間は長くなり、現場の負担感は増している。携帯電話販売の現場では、どのようなことが起こっているのか。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「叱られても今が楽しい」、下請けからAWS技術者に転身――アイレット北條氏の場合（デキるエンジニアが転職する理由）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030700072/062000003/</link>
+			<description><![CDATA[　主にオンプレミス環境でのインフラ構築を手掛けていた北條慎一氏。顧客企業のためになるシステムを、直接提案したいという思いから、AWS上でのシステム構築を手掛けるアイレットに転職した。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>国内最大のセキュリティ人材抱えるNTT、3万人の活かし方（国内大手のセキュリティ人材育成）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062900004/</link>
+			<description><![CDATA[　NTTは2017年3月、グループ内のセキュリティ人材が3万人を突破した。発端は2014年秋に鵜浦博夫社長が「2500人いる国内のセキュリティ人材を2020年までに1万人まで増やす」と目標を掲げたこと。その目標を2016年夏に達成し、以降もたゆまず育成を続けている。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>2週間使い込んで分かったiPad Pro 10.5、スペックで語れない進化ポイントが随所に（戸田覚の読みごたえ重視の超辛口レビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/042700108/062900013/</link>
+			<description><![CDATA[　iPad Proの新モデルが登場した。従来は9.7インチだった液晶サイズが10.5インチへと大型化しているのが最大の特徴だ。持ちやすさやポケットへの収まりを重視するスマホとは違い、タブレットは多少のサイズの差ならあまり気にせずに利用できる。実際に使ってみた感想を中心にまとめて行こう。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>フェイスブック仕込みの光ディスク、パナソニックが磁気テープの置き換え狙う（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062901037/</link>
+			<description><![CDATA[　長期保存に使うアーカイブストレージの主役である磁気テープ。その市場をうかがうのが、パナソニックがソニーと共同開発した光ディスク「freeze-ray」だ。クラウド界の巨人、米フェイスブックのデータセンターを足がかりに、1兆円市場を狙う。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>インシュアテックに揺れる保険業界、大手2社の本音（Nikkei FinTech Conference 2017#2レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062900006/</link>
+			<description><![CDATA[　日経FinTechが2017年6月23日に都内で開催した「Nikkei FinTech Conference 2017#2」では、進化したテクノロジーが保険業界に与えるインパクトをテーマにしたパネルディスカッションが行われた。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AWSの“民業圧迫”、パートナーはついていけるか（AWSの死角）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062800003/</link>
+			<description><![CDATA[　AWSサービスの成熟や高度化は、これまでSIベンダーが仕事としてきた領域を削り取る。AWSがイノベーションに邁進するほど、付いていけなくなるパートナーが増える。AWSを支えてきたパートナーが今、AWSによる“民業圧迫”の影におびやかされている。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ラズパイがシンクライアント端末に！専用OS「RPi-TC」を試す（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/062900013/</link>
+			<description><![CDATA[　4000円台のボードPC「Raspberry Pi（ラズパイ）」を、リモートから別PCのデスクトップを利用するシンクライアント端末として利用できるOSが「RPi-TC」です。リモートデスクトップ機能を有効にしたWindows PCなどのデスクトップをネットワーク経由で操作できます。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>次のWindows 10では仕事の続きをスマホでできる？（塩田紳二のモバイルトレンド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/062800055/</link>
+			<description><![CDATA[　Windows 10 Ver.1703こと「Createors Update（Red Stone2、RS2）」の配布が2017年4月に始まり、5月には次のアップデートとなる「Fall Creators Update（RS3）」が発表されました。Windows 10はどうなるのでしょうか？]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>誤消去したハードディスク上のデータ、フリーソフトで救出できる？（HDDが壊れたら…）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062900005/</link>
+			<description><![CDATA[　誤操作によるファイルの消失は、ハードディスク自体が正常であれば無償のフリーソフトでも対処できる。一般にファイルを消去しても消すのは管理情報だけで、ファイルの実体は残るからだ。ただ理解せずに使うと、本来なら復元できたいたはずのデータを失いかねない。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>2大AIスピーカーを試して分かった、Amazon EchoとGoogle Homeの違い（AIスピーカー競争）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000250/062800004/</link>
+			<description><![CDATA[　AI（人工知能）スピーカー市場をリードする米Amazon.comの「Amazon Echo」と、それを追従する米Googleの「Google Home」。市場ではAmazon Echoが圧倒的に優勢だが、Google Homeに勝ち目はあるのか。実際に両方の製品を試した。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>新人をつぶしていませんか？やってはいけないOJTと6月病対策（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/062700255/</link>
+			<description><![CDATA[　「最近、新人の表情が暗い」「教えているのにできるようにならない」。そうした新人育成に関する悩みは、実は“やってはいけないOJT”をやってしまっているからかもしれない。最悪の場合、新人は配属先の現場になじめず、仕事にもついて行けないと感じて、心身の不調に陥る。「6月病」などと呼ばれる問題だ。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>NuAns NEO ［Reloaded］のAndroidスマホへの変身は大正解！（SIMフリースマートフォンを徹底レビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/062800043/</link>
+			<description><![CDATA[　トリニティが開発・販売する「NuAns NEO [Reloaded]」は、多彩な本体と/背面カバーで着せ替えを楽しめることで注目を集めた「NuAns NEO」の後継機だ。OSをWindows MobileからAndroidに替え、ハードもパワーアップ。全方位で楽しめる1台に生まれ変わった。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>年商の6割超は直接受注、Watson専任チームを作った中堅ソフト会社（インタビュー＆トーク）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/062800338/</link>
+			<description><![CDATA[　大手IT企業経由ではない「自主」案件の売り上げが年商の6割強――。中堅ソフト会社のNCS&Aは自主ビジネスの拡大に力を入れる。どう取り組んでいるのか。松木謙吾社長に聞いた。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>政治のゴタゴタに埋もれた国家IT戦略、「官民データ利活用社会」って何だ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062800868/</link>
+			<description><![CDATA[　改正組織犯罪処罰法や獣医学部の新設を巡る問題で終盤国会が混乱したあおりを受けてほとんど報道されなかったが、2017年5月30日に新しい国家IT戦略が閣議決定された。その一部は成長戦略「未来投資戦略2017」と「骨太の方針」にも盛り込まれ、6月9日に閣議決定された。今後の政府や自治体の電子行政の方向性を指し示す主要な項目をピックアップしておこう。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>サーバー脆弱性を根本対策できる三つのパターン（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900006/</link>
+			<description><![CDATA[　脆弱性スキャナーによる調査で脆弱性が見つかったら、危険度や影響度を考慮して対策する。根本対策は、三つのパターンに分類できる。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>UQ mobileの料金、競合MVNOよりも安い？（スマホ料金の勘違い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062400005/</link>
+			<description><![CDATA[　UQ mobileの料金プランは一見シンプルだが、2つの通話プランから選べるという独自性も備えている。自分の使い方に合ったプランを選ぶポイントを伝授しよう。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>紛失防止タグで傘も見つかる？ 東京メトロが実証実験　（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062700322/</link>
+			<description><![CDATA[　東京メトロは2017年6月19日、紛失防止タグ「MAMORIO」を使った忘れ物自動通知サービスの実証実験を飯田橋駅構内のお忘れ物総合取扱所、銀座線渋谷駅、丸ノ内線池袋駅、有楽町線新木場駅で開始した。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>iPhoneからAndroidへ　データはどう移行すればいい？（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062700323/</link>
+			<description><![CDATA[　格安スマホとしても取り扱いが多いAndroidスマホに、iPhoneから乗り換えるとき、データをどう移行すればいいのだろうか？　詳しく解説しよう。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>映像鑑賞にお薦め！10型タブレット「MediaPad M3 Lite 10」（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/061400059/</link>
+			<description><![CDATA[　Media Pad M3 Lite 10は、約10.1型、WUXGA（1920×1000ピクセル）の画面を持つAndroidタブレットです。筆者が注目したのは、充実したサウンドシステムです。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
