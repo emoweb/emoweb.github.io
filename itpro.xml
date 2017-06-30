@@ -11,6 +11,18 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>Googleスプレッドシートで作った単語帳から毎日LINEに英単語を送ろう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/050100072/</link>
+			<description><![CDATA[　ここ4回にわたって、LINE Notify APIとGoogle Apps Scriptを組み合わせて使う方法を紹介しています。今回は、Googleスプレッドシートを参照して、毎日、覚えたい英単語をLINEに送るという仕組みを作ってみましょう。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>コンテナのセキュリティ保護、SELinuxはどう役立つか（IoT時代の最新SELinux入門）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052600004/</link>
+			<description><![CDATA[　前回までに、SELinuxの主な機能として「TE（Type Enforcement）」を紹介しました。TEでは、プロセスに「ドメイン」を、ファイルに「タイプ」を付与します。セキュリティポリシーには、「ドメインがどんなタイプにどんなアクセスができるのか？」というルールが記載されています。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>脆弱性スキャナーでオープンポートを自動診断（セキュリティ診断のイロハ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900005/</link>
 			<description><![CDATA[　脆弱性スキャナーを使えば、自動で脆弱性を調査できる。検出した脆弱性の危険度や対策方法もわかる。無償の脆弱性スキャナー「OpenVAS」を使った診断方法を解説する。]]></description>
@@ -35,9 +47,9 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>WannaCryに襲われた日立、セキュリティ人材1万人の確保急ぐ（国内大手のセキュリティ人材育成）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062700003/</link>
-			<description><![CDATA[　日立製作所は2020年までにセキュリティ人材を1万人育成する計画だ。同社は2017年5月12日、WannaCryに感染し、メールや受発注が一時停止した。こうした事態を再発させないためにも、1000人の専門家に加え、一般社員から9000人のセキュリティ人材を育てる施策を急ぐ。]]></description>
+			<title>ファミマ社長が半日をグーグルに割いた意味（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062600866/</link>
+			<description><![CDATA[　米アマゾン・ウェブ・サービスと米グーグルが企業向けシステム市場で「大人」になった。クラウド活用は今まさに転換点を迎えている――。両社のそれぞれの日本法人が2017年6月に相次ぎ開催した年次イベントに参加して、記者はそう感じた。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -59,34 +71,10 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ファミマ社長が半日をグーグルに割いた意味（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062600866/</link>
-			<description><![CDATA[　米アマゾン・ウェブ・サービスと米グーグルが企業向けシステム市場で「大人」になった。クラウド活用は今まさに転換点を迎えている――。両社のそれぞれの日本法人が2017年6月に相次ぎ開催した年次イベントに参加して、記者はそう感じた。]]></description>
+			<title>WannaCryに襲われた日立、セキュリティ人材1万人の確保急ぐ（国内大手のセキュリティ人材育成）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062700003/</link>
+			<description><![CDATA[　日立製作所は2020年までにセキュリティ人材を1万人育成する計画だ。同社は2017年5月12日、WannaCryに感染し、メールや受発注が一時停止した。こうした事態を再発させないためにも、1000人の専門家に加え、一般社員から9000人のセキュリティ人材を育てる施策を急ぐ。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>コンテナのセキュリティ保護、SELinuxはどう役立つか（IoT時代の最新SELinux入門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052600004/</link>
-			<description><![CDATA[　前回までに、SELinuxの主な機能として「TE（Type Enforcement）」を紹介しました。TEでは、プロセスに「ドメイン」を、ファイルに「タイプ」を付与します。セキュリティポリシーには、「ドメインがどんなタイプにどんなアクセスができるのか？」というルールが記載されています。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Googleスプレッドシートで作った単語帳から毎日LINEに英単語を送ろう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/050100072/</link>
-			<description><![CDATA[　ここ4回にわたって、LINE Notify APIとGoogle Apps Scriptを組み合わせて使う方法を紹介しています。今回は、Googleスプレッドシートを参照して、毎日、覚えたい英単語をLINEに送るという仕組みを作ってみましょう。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ミラクル・リナックス、監視統合ソフト「MIRACLE Hatohol Enterprise」最新版（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901808/</link>
-			<description><![CDATA[　ミラクル・リナックスは2017年6月29日、複数の運用管理ツールを統合する企業向け監視統合ソフトウエアの最新版「MIRACLE Hatohol Enterprise v2.1」を2017年6月30日から提供開始すると発表した。]]></description>
-			<pubDate>Thu, 29 Jun 2017 17:58:48 +0900</pubDate>
-		</item>
-		<item>
-			<title>ネットアップ、同社初のハイパーコンバージド「NetApp HCI」を10月に国内発売（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901810/</link>
-			<description><![CDATA[　ネットアップは2017年6月29日、同社初のハイパーコンバージドインフラストラクチャーを、日本国内では10月下旬に発売する予定だと明らかにした。]]></description>
-			<pubDate>Thu, 29 Jun 2017 20:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>医薬情報担当者の説明をSiri音声認識で支援、フェリング・ファーマ（ニュース）</title>
@@ -113,6 +101,18 @@
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>映像鑑賞にお薦め！10型タブレット「MediaPad M3 Lite 10」（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/061400059/</link>
+			<description><![CDATA[　Media Pad M3 Lite 10は、約10.1型、WUXGA（1920×1000ピクセル）の画面を持つAndroidタブレットです。筆者が注目したのは、充実したサウンドシステムです。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>年商の6割超は直接受注、Watson専任チームを作った中堅ソフト会社（インタビュー＆トーク）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/062800338/</link>
+			<description><![CDATA[　大手IT企業経由ではない「自主」案件の売り上げが年商の6割強――。中堅ソフト会社のNCS&Aは自主ビジネスの拡大に力を入れる。どう取り組んでいるのか。松木謙吾社長に聞いた。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>AWSの“民業圧迫”、パートナーはついていけるか（AWSの死角）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062800003/</link>
 			<description><![CDATA[　AWSサービスの成熟や高度化は、これまでSIベンダーが仕事としてきた領域を削り取る。AWSがイノベーションに邁進するほど、付いていけなくなるパートナーが増える。AWSを支えてきたパートナーが今、AWSによる“民業圧迫”の影におびやかされている。]]></description>
@@ -125,9 +125,9 @@
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>NuAns NEO ［Reloaded］のAndroidスマホへの変身は大正解！（SIMフリースマートフォンを徹底レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/062800043/</link>
-			<description><![CDATA[　トリニティが開発・販売する「NuAns NEO [Reloaded]」は、多彩な本体と/背面カバーで着せ替えを楽しめることで注目を集めた「NuAns NEO」の後継機だ。OSをWindows MobileからAndroidに替え、ハードもパワーアップ。全方位で楽しめる1台に生まれ変わった。]]></description>
+			<title>2大AIスピーカーを試して分かった、Amazon EchoとGoogle Homeの違い（AIスピーカー競争）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000250/062800004/</link>
+			<description><![CDATA[　AI（人工知能）スピーカー市場をリードする米Amazon.comの「Amazon Echo」と、それを追従する米Googleの「Google Home」。市場ではAmazon Echoが圧倒的に優勢だが、Google Homeに勝ち目はあるのか。実際に両方の製品を試した。]]></description>
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -137,9 +137,9 @@
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>年商の6割超は直接受注、Watson専任チームを作った中堅ソフト会社（インタビュー＆トーク）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/062800338/</link>
-			<description><![CDATA[　大手IT企業経由ではない「自主」案件の売り上げが年商の6割強――。中堅ソフト会社のNCS&Aは自主ビジネスの拡大に力を入れる。どう取り組んでいるのか。松木謙吾社長に聞いた。]]></description>
+			<title>新人をつぶしていませんか？やってはいけないOJTと6月病対策（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/062700255/</link>
+			<description><![CDATA[　「最近、新人の表情が暗い」「教えているのにできるようにならない」。そうした新人育成に関する悩みは、実は“やってはいけないOJT”をやってしまっているからかもしれない。最悪の場合、新人は配属先の現場になじめず、仕事にもついて行けないと感じて、心身の不調に陥る。「6月病」などと呼ばれる問題だ。]]></description>
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -209,22 +209,16 @@
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>2大AIスピーカーを試して分かった、Amazon EchoとGoogle Homeの違い（AIスピーカー競争）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000250/062800004/</link>
-			<description><![CDATA[　AI（人工知能）スピーカー市場をリードする米Amazon.comの「Amazon Echo」と、それを追従する米Googleの「Google Home」。市場ではAmazon Echoが圧倒的に優勢だが、Google Homeに勝ち目はあるのか。実際に両方の製品を試した。]]></description>
+			<title>NuAns NEO ［Reloaded］のAndroidスマホへの変身は大正解！（SIMフリースマートフォンを徹底レビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/062800043/</link>
+			<description><![CDATA[　トリニティが開発・販売する「NuAns NEO [Reloaded]」は、多彩な本体と/背面カバーで着せ替えを楽しめることで注目を集めた「NuAns NEO」の後継機だ。OSをWindows MobileからAndroidに替え、ハードもパワーアップ。全方位で楽しめる1台に生まれ変わった。]]></description>
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>新人をつぶしていませんか？やってはいけないOJTと6月病対策（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/062700255/</link>
-			<description><![CDATA[　「最近、新人の表情が暗い」「教えているのにできるようにならない」。そうした新人育成に関する悩みは、実は“やってはいけないOJT”をやってしまっているからかもしれない。最悪の場合、新人は配属先の現場になじめず、仕事にもついて行けないと感じて、心身の不調に陥る。「6月病」などと呼ばれる問題だ。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>映像鑑賞にお薦め！10型タブレット「MediaPad M3 Lite 10」（伊藤浩一のモバイルライフ応援日記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/061400059/</link>
-			<description><![CDATA[　Media Pad M3 Lite 10は、約10.1型、WUXGA（1920×1000ピクセル）の画面を持つAndroidタブレットです。筆者が注目したのは、充実したサウンドシステムです。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+			<title>日本郵便でシステム障害、ローソン1万2300店舗で新サービスの発送できず（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001813/</link>
+			<description><![CDATA[　日本郵便は2017年6月29日、20日に新たに始めた「e発送サービス」に関するシステム障害が発生したと明らかにした。28日午後4時ごろ、ローソン店舗設置の端末「Loppi」で送り状の印刷ができなくなり、荷物の発送ができない状態が続いているという。]]></description>
+			<pubDate>Fri, 30 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>CISOの任命、何をどう進めるか（下）（CISOの任命、何をどう進めるか）</title>
@@ -259,12 +253,6 @@
 <div></div>
 </div>
 ]]></description>
-			<pubDate>Fri, 30 Jun 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本郵便でシステム障害、ローソン1万2300店舗で新サービスの発送できず（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001813/</link>
-			<description><![CDATA[　日本郵便は2017年6月29日、20日に新たに始めた「e発送サービス」に関するシステム障害が発生したと明らかにした。28日午後4時ごろ、ローソン店舗設置の端末「Loppi」で送り状の印刷ができなくなり、荷物の発送ができない状態が続いているという。]]></description>
 			<pubDate>Fri, 30 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -328,6 +316,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001817/</link>
 			<description><![CDATA[　イオンがグループ約4万5000台のクライアントPCをWindows 10に移行中であることが分かった。日本マイクロソフトが2017年6月30日、Windows 10の法人向けビジネスに関する記者説明会で最新事例として紹介した。]]></description>
 			<pubDate>Fri, 30 Jun 2017 17:30:34 +0900</pubDate>
+		</item>
+		<item>
+			<title>クラウドエースとF5、Google Cloud Platformのセキュリティを強化（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001819/</link>
+			<description><![CDATA[　クラウドエースとF5ネットワークスジャパンは2017年6月30日、協業すると発表した。クラウドエースが提供する米グーグルのクラウドサービス「Google Cloud Platform」の導入支援サービスで、F5のWebアプリケーションファイアウォール（WAF）製品が利用可能になったと発表した。]]></description>
+			<pubDate>Fri, 30 Jun 2017 17:38:33 +0900</pubDate>
+		</item>
+		<item>
+			<title>ドコモショップ丸の内店、IoT製品の体験コーナーなど新設しリニューアル（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001821/</link>
+			<description><![CDATA[　NTTドコモは2017年6月30日、全国に約2400店舗あるドコモショップの旗振り役である「旗艦店」として、ドコモショップ丸の内店をリニューアルオープンした。IoT製品の体験コーナーや、広いスペースを活用した季節に合った展示などで、顧客サービスを充実させる狙いだ。]]></description>
+			<pubDate>Fri, 30 Jun 2017 18:02:09 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
