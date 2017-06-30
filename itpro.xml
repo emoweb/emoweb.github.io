@@ -5,6 +5,18 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>インドIT大手が米クラウド専業を買収した理由（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062801036/</link>
+			<description><![CDATA[　米アピリオが、事業戦略の転換を図っている。米セールスフォース・ドットコムなどのクラウドサービスを活用したシステム開発で実績を積んできたが、インドのIT大手ウィプロが買収。今後は、ウィプログループのクラウド事業の牽引役としての役割を果たす。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>脆弱性スキャナーでオープンポートを自動診断（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900005/</link>
+			<description><![CDATA[　脆弱性スキャナーを使えば、自動で脆弱性を調査できる。検出した脆弱性の危険度や対策方法もわかる。無償の脆弱性スキャナー「OpenVAS」を使った診断方法を解説する。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>日本進出が決まったAIスピーカー「Google Home」、その強み（AIスピーカー競争）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000250/062800003/</link>
 			<description><![CDATA[　AIファースト。コンピュータのユーザーインタフェース（UI）を、従来のタッチパネルやキーボードなどからAI（人工知能）に置き換えようという米Googleの戦略だ。日本でも年内の発売が決まったAIスピーカーの「Google Home」は、生活のあらゆるシーンにGoogleのAIを広げる第一歩となるものだ。]]></description>
@@ -35,15 +47,15 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Googleスプレッドシートで作った単語帳から毎日LINEに英単語を送ろう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/050100072/</link>
-			<description><![CDATA[　ここ4回にわたって、LINE Notify APIとGoogle Apps Scriptを組み合わせて使う方法を紹介しています。今回は、Googleスプレッドシートを参照して、毎日、覚えたい英単語をLINEに送るという仕組みを作ってみましょう。]]></description>
+			<title>「早い・安い・多い」が裏目？AWSユーザーの意外な苦悩（AWSの死角）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062600001/</link>
+			<description><![CDATA[　サービスアップデートのサイクルが早く、度重なる値下げを実施し、豊富なサービスを抱える――。これらは米アマゾン ウェブ サービス（AWS）の強みといえるが、強みであるがゆえにユーザー企業から苦悩の声も上がっている。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>インドIT大手が米クラウド専業を買収した理由（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062801036/</link>
-			<description><![CDATA[　米アピリオが、事業戦略の転換を図っている。米セールスフォース・ドットコムなどのクラウドサービスを活用したシステム開発で実績を積んできたが、インドのIT大手ウィプロが買収。今後は、ウィプログループのクラウド事業の牽引役としての役割を果たす。]]></description>
+			<title>ワイモバイルの料金プランは本当に「格安」なのか？（スマホ料金の勘違い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062300004/</link>
+			<description><![CDATA[　MVNOや格安SIMが注目を集める中で、いま最も新規ユーザーを獲得していると言われているのがY!mobile（ワイモバイル）だ。ワイモバイルはMVNOではなく、自ら通信インフラを所有する通信事業者である。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -59,34 +71,10 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「早い・安い・多い」が裏目？AWSユーザーの意外な苦悩（AWSの死角）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062600001/</link>
-			<description><![CDATA[　サービスアップデートのサイクルが早く、度重なる値下げを実施し、豊富なサービスを抱える――。これらは米アマゾン ウェブ サービス（AWS）の強みといえるが、強みであるがゆえにユーザー企業から苦悩の声も上がっている。]]></description>
+			<title>Googleスプレッドシートで作った単語帳から毎日LINEに英単語を送ろう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/050100072/</link>
+			<description><![CDATA[　ここ4回にわたって、LINE Notify APIとGoogle Apps Scriptを組み合わせて使う方法を紹介しています。今回は、Googleスプレッドシートを参照して、毎日、覚えたい英単語をLINEに送るという仕組みを作ってみましょう。]]></description>
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ワイモバイルの料金プランは本当に「格安」なのか？（スマホ料金の勘違い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062300004/</link>
-			<description><![CDATA[　MVNOや格安SIMが注目を集める中で、いま最も新規ユーザーを獲得していると言われているのがY!mobile（ワイモバイル）だ。ワイモバイルはMVNOではなく、自ら通信インフラを所有する通信事業者である。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>脆弱性スキャナーでオープンポートを自動診断（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900005/</link>
-			<description><![CDATA[　脆弱性スキャナーを使えば、自動で脆弱性を調査できる。検出した脆弱性の危険度や対策方法もわかる。無償の脆弱性スキャナー「OpenVAS」を使った診断方法を解説する。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>セグメントを細かく分けてクラウドを守る、TEDのセキュリティー製品「APEIRO」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901806/</link>
-			<description><![CDATA[　東京エレクトロンデバイスは2017年6月29日、仮想化技術を用いたクラウド環境をサイバー攻撃などから守って安全に運用するためのセキュリティーソフト「APEIRO」を発表、同日販売を開始した。]]></description>
-			<pubDate>Thu, 29 Jun 2017 17:32:30 +0900</pubDate>
-		</item>
-		<item>
-			<title>サンワサプライのUSBエクステンダー「USB-EXSET2」、100m先のUSB機器を接続可能（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901807/</link>
-			<description><![CDATA[　サンワサプライは2017年6月29日、パソコンとUSB接続機器間を最大100mまで延長できる4ポートハブ付きUSB2.0エクステンダー「USB-EXSET2」を同日発売したと発表した。標準価格は8万6184円（税込み）。]]></description>
-			<pubDate>Thu, 29 Jun 2017 17:46:09 +0900</pubDate>
 		</item>
 		<item>
 			<title>ミラクル・リナックス、監視統合ソフト「MIRACLE Hatohol Enterprise」最新版（ニュース）</title>
@@ -119,15 +107,27 @@
 			<pubDate>Thu, 29 Jun 2017 22:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>UQ mobileの料金、競合MVNOよりも安い？（スマホ料金の勘違い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062400005/</link>
+			<description><![CDATA[　UQ mobileの料金プランは一見シンプルだが、2つの通話プランから選べるという独自性も備えている。自分の使い方に合ったプランを選ぶポイントを伝授しよう。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AWSの“民業圧迫”、パートナーはついていけるか（AWSの死角）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062800003/</link>
+			<description><![CDATA[　AWSサービスの成熟や高度化は、これまでSIベンダーが仕事としてきた領域を削り取る。AWSがイノベーションに邁進するほど、付いていけなくなるパートナーが増える。AWSを支えてきたパートナーが今、AWSによる“民業圧迫”の影におびやかされている。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ラズパイがシンクライアント端末に！専用OS「RPi-TC」を試す（週末に遊べるラズパイ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/062900013/</link>
 			<description><![CDATA[　4000円台のボードPC「Raspberry Pi（ラズパイ）」を、リモートから別PCのデスクトップを利用するシンクライアント端末として利用できるOSが「RPi-TC」です。リモートデスクトップ機能を有効にしたWindows PCなどのデスクトップをネットワーク経由で操作できます。]]></description>
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>映像鑑賞にお薦め！10型タブレット「MediaPad M3 Lite 10」（伊藤浩一のモバイルライフ応援日記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/061400059/</link>
-			<description><![CDATA[　Media Pad M3 Lite 10は、約10.1型、WUXGA（1920×1000ピクセル）の画面を持つAndroidタブレットです。筆者が注目したのは、充実したサウンドシステムです。]]></description>
+			<title>NuAns NEO ［Reloaded］のAndroidスマホへの変身は大正解！（SIMフリースマートフォンを徹底レビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/062800043/</link>
+			<description><![CDATA[　トリニティが開発・販売する「NuAns NEO [Reloaded]」は、多彩な本体と/背面カバーで着せ替えを楽しめることで注目を集めた「NuAns NEO」の後継機だ。OSをWindows MobileからAndroidに替え、ハードもパワーアップ。全方位で楽しめる1台に生まれ変わった。]]></description>
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -137,9 +137,9 @@
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>UQ mobileの料金、競合MVNOよりも安い？（スマホ料金の勘違い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062400005/</link>
-			<description><![CDATA[　UQ mobileの料金プランは一見シンプルだが、2つの通話プランから選べるという独自性も備えている。自分の使い方に合ったプランを選ぶポイントを伝授しよう。]]></description>
+			<title>年商の6割超は直接受注、Watson専任チームを作った中堅ソフト会社（インタビュー＆トーク）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/062800338/</link>
+			<description><![CDATA[　大手IT企業経由ではない「自主」案件の売り上げが年商の6割強――。中堅ソフト会社のNCS&Aは自主ビジネスの拡大に力を入れる。どう取り組んでいるのか。松木謙吾社長に聞いた。]]></description>
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -221,28 +221,10 @@
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>NuAns NEO ［Reloaded］のAndroidスマホへの変身は大正解！（SIMフリースマートフォンを徹底レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/062800043/</link>
-			<description><![CDATA[　トリニティが開発・販売する「NuAns NEO [Reloaded]」は、多彩な本体と/背面カバーで着せ替えを楽しめることで注目を集めた「NuAns NEO」の後継機だ。OSをWindows MobileからAndroidに替え、ハードもパワーアップ。全方位で楽しめる1台に生まれ変わった。]]></description>
+			<title>映像鑑賞にお薦め！10型タブレット「MediaPad M3 Lite 10」（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/061400059/</link>
+			<description><![CDATA[　Media Pad M3 Lite 10は、約10.1型、WUXGA（1920×1000ピクセル）の画面を持つAndroidタブレットです。筆者が注目したのは、充実したサウンドシステムです。]]></description>
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>年商の6割超は直接受注、Watson専任チームを作った中堅ソフト会社（インタビュー＆トーク）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/062800338/</link>
-			<description><![CDATA[　大手IT企業経由ではない「自主」案件の売り上げが年商の6割強――。中堅ソフト会社のNCS&Aは自主ビジネスの拡大に力を入れる。どう取り組んでいるのか。松木謙吾社長に聞いた。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AWSの“民業圧迫”、パートナーはついていけるか（AWSの死角）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062800003/</link>
-			<description><![CDATA[　AWSサービスの成熟や高度化は、これまでSIベンダーが仕事としてきた領域を削り取る。AWSがイノベーションに邁進するほど、付いていけなくなるパートナーが増える。AWSを支えてきたパートナーが今、AWSによる“民業圧迫”の影におびやかされている。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本郵便でシステム障害、ローソン1万2300店舗で新サービスの発送できず（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001813/</link>
-			<description><![CDATA[　日本郵便は2017年6月29日、20日に新たに始めた「e発送サービス」に関するシステム障害が発生したと明らかにした。28日午後4時ごろ、ローソン店舗設置の端末「Loppi」で送り状の印刷ができなくなり、荷物の発送ができない状態が続いているという。]]></description>
-			<pubDate>Fri, 30 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>CISOの任命、何をどう進めるか（下）（CISOの任命、何をどう進めるか）</title>
@@ -277,6 +259,12 @@
 <div></div>
 </div>
 ]]></description>
+			<pubDate>Fri, 30 Jun 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本郵便でシステム障害、ローソン1万2300店舗で新サービスの発送できず（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001813/</link>
+			<description><![CDATA[　日本郵便は2017年6月29日、20日に新たに始めた「e発送サービス」に関するシステム障害が発生したと明らかにした。28日午後4時ごろ、ローソン店舗設置の端末「Loppi」で送り状の印刷ができなくなり、荷物の発送ができない状態が続いているという。]]></description>
 			<pubDate>Fri, 30 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -328,6 +316,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001815/</link>
 			<description><![CDATA[　米Amazon.comが同社の音声アシスタント機器「Echo」シリーズを2017年の年末ごろにインド市場に投入すると、同国の経済紙Economic Timesが2017年6月29日に報じた。インド版のEchoでは当初、英語のアシスタントサービスが提供されるが、その後アップデートが施され、ヒンディー語、タミル語、マラーティー語が利用できるようになる見通し。]]></description>
 			<pubDate>Fri, 30 Jun 2017 10:29:41 +0900</pubDate>
+		</item>
+		<item>
+			<title>楽天生命がインシュアテック研究組織、AIで保険商品開発へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001816/</link>
+			<description><![CDATA[　楽天生命保険は2017年6月30日、保険業務をITで変革する「インシュアテック」に関する研究組織を7月1日付で設立すると発表した。人工知能（AI）やデータ分析の技術を活用し、生保の新商品やサービスの開発や保険申込み手順の効率化に取り組む。]]></description>
+			<pubDate>Fri, 30 Jun 2017 16:43:58 +0900</pubDate>
+		</item>
+		<item>
+			<title>イオン、4万5000台のPCをWindows 10に移行（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001817/</link>
+			<description><![CDATA[　イオンがグループ約4万5000台のクライアントPCをWindows 10に移行中であることが分かった。日本マイクロソフトが2017年6月30日、Windows 10の法人向けビジネスに関する記者説明会で最新事例として紹介した。]]></description>
+			<pubDate>Fri, 30 Jun 2017 17:30:34 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
