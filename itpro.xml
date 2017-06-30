@@ -5,6 +5,30 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>WannaCryに襲われた日立、セキュリティ人材1万人の確保急ぐ（国内大手のセキュリティ人材育成）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062700003/</link>
+			<description><![CDATA[　日立製作所は2020年までにセキュリティ人材を1万人育成する計画だ。同社は2017年5月12日、WannaCryに感染し、メールや受発注が一時停止した。こうした事態を再発させないためにも、1000人の専門家に加え、一般社員から9000人のセキュリティ人材を育てる施策を急ぐ。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ワイモバイルの料金プランは本当に「格安」なのか？（スマホ料金の勘違い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062300004/</link>
+			<description><![CDATA[　MVNOや格安SIMが注目を集める中で、いま最も新規ユーザーを獲得していると言われているのがY!mobile（ワイモバイル）だ。ワイモバイルはMVNOではなく、自ら通信インフラを所有する通信事業者である。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「早い・安い・多い」が裏目？AWSユーザーの意外な苦悩（AWSの死角）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062600001/</link>
+			<description><![CDATA[　サービスアップデートのサイクルが早く、度重なる値下げを実施し、豊富なサービスを抱える――。これらは米アマゾン ウェブ サービス（AWS）の強みといえるが、強みであるがゆえにユーザー企業から苦悩の声も上がっている。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>始動した地銀のFinTech戦略、各行の個性の違い浮き彫りに（Nikkei FinTech Conference 2017#2レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062800005/</link>
+			<description><![CDATA[　FinTechによって大きな変革の節目を迎える金融業界。しかし、FinTechの捉え方や対応態勢、戦略は各社で同じではない。特に、地方を基盤とする地銀の対応は個性があるようだ。]]></description>
+			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>インドIT大手が米クラウド専業を買収した理由（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062801036/</link>
 			<description><![CDATA[　米アピリオが、事業戦略の転換を図っている。米セールスフォース・ドットコムなどのクラウドサービスを活用したシステム開発で実績を積んできたが、インドのIT大手ウィプロが買収。今後は、ウィプログループのクラウド事業の牽引役としての役割を果たす。]]></description>
@@ -53,46 +77,28 @@
 			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>始動した地銀のFinTech戦略、各行の個性の違い浮き彫りに（Nikkei FinTech Conference 2017#2レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062800005/</link>
-			<description><![CDATA[　FinTechによって大きな変革の節目を迎える金融業界。しかし、FinTechの捉え方や対応態勢、戦略は各社で同じではない。特に、地方を基盤とする地銀の対応は個性があるようだ。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+			<title>サーバー脆弱性を根本対策できる三つのパターン（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900006/</link>
+			<description><![CDATA[　脆弱性スキャナーによる調査で脆弱性が見つかったら、危険度や影響度を考慮して対策する。根本対策は、三つのパターンに分類できる。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「早い・安い・多い」が裏目？AWSユーザーの意外な苦悩（AWSの死角）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062600001/</link>
-			<description><![CDATA[　サービスアップデートのサイクルが早く、度重なる値下げを実施し、豊富なサービスを抱える――。これらは米アマゾン ウェブ サービス（AWS）の強みといえるが、強みであるがゆえにユーザー企業から苦悩の声も上がっている。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+			<title>誤消去したハードディスク上のデータ、フリーソフトで救出できる？（HDDが壊れたら…）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062900005/</link>
+			<description><![CDATA[　誤操作によるファイルの消失は、ハードディスク自体が正常であれば無償のフリーソフトでも対処できる。一般にファイルを消去しても消すのは管理情報だけで、ファイルの実体は残るからだ。ただ理解せずに使うと、本来なら復元できたいたはずのデータを失いかねない。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ワイモバイルの料金プランは本当に「格安」なのか？（スマホ料金の勘違い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062300004/</link>
-			<description><![CDATA[　MVNOや格安SIMが注目を集める中で、いま最も新規ユーザーを獲得していると言われているのがY!mobile（ワイモバイル）だ。ワイモバイルはMVNOではなく、自ら通信インフラを所有する通信事業者である。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+			<title>NuAns NEO ［Reloaded］のAndroidスマホへの変身は大正解！（SIMフリースマートフォンを徹底レビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/062800043/</link>
+			<description><![CDATA[　トリニティが開発・販売する「NuAns NEO [Reloaded]」は、多彩な本体と/背面カバーで着せ替えを楽しめることで注目を集めた「NuAns NEO」の後継機だ。OSをWindows MobileからAndroidに替え、ハードもパワーアップ。全方位で楽しめる1台に生まれ変わった。]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>WannaCryに襲われた日立、セキュリティ人材1万人の確保急ぐ（国内大手のセキュリティ人材育成）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062700003/</link>
-			<description><![CDATA[　日立製作所は2020年までにセキュリティ人材を1万人育成する計画だ。同社は2017年5月12日、WannaCryに感染し、メールや受発注が一時停止した。こうした事態を再発させないためにも、1000人の専門家に加え、一般社員から9000人のセキュリティ人材を育てる施策を急ぐ。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>医薬情報担当者の説明をSiri音声認識で支援、フェリング・ファーマ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901811/</link>
-			<description><![CDATA[　フェリング・ファーマ（東京・港）は2017年6月28日、iPadとAI（人工知能）音声認識エンジンを使ったMR （医薬情報担当者）向けの支援ツールを導入したことを発表した。]]></description>
-			<pubDate>Thu, 29 Jun 2017 20:06:09 +0900</pubDate>
-		</item>
-		<item>
-			<title>総務省がブロックチェーン実証実験、複数の役場を回らず電子手続き（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062901812/</link>
-			<description><![CDATA[　総務省がブロックチェーンの実証実験を始める。共有するデータの範囲や採用するブロックチェーンの種類など、構築するシステムの使い勝手や構築と運用のコストなどを検証する。2017年度中に検証を始め、2018年度中をめどにブロックチェーンの具体的な利用計画を作る。]]></description>
-			<pubDate>Thu, 29 Jun 2017 20:11:49 +0900</pubDate>
-		</item>
-		<item>
-			<title>米AMD、企業PC向けCPU「Ryzen Pro」の詳細を公開（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/062801797/</link>
-			<description><![CDATA[　米AMDは2017年6月29日（米国時間）、企業PC向けCPUとしてラインアップを予告していた「Ryzen Pro」の詳細を公開した。]]></description>
-			<pubDate>Thu, 29 Jun 2017 22:00:00 +0900</pubDate>
+			<title>次のWindows 10では仕事の続きをスマホでできる？（塩田紳二のモバイルトレンド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/062800055/</link>
+			<description><![CDATA[　Windows 10 Ver.1703こと「Createors Update（Red Stone2、RS2）」の配布が2017年4月に始まり、5月には次のアップデートとなる「Fall Creators Update（RS3）」が発表されました。Windows 10はどうなるのでしょうか？]]></description>
+			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>UQ mobileの料金、競合MVNOよりも安い？（スマホ料金の勘違い）</title>
@@ -125,15 +131,15 @@
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>2大AIスピーカーを試して分かった、Amazon EchoとGoogle Homeの違い（AIスピーカー競争）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000250/062800004/</link>
-			<description><![CDATA[　AI（人工知能）スピーカー市場をリードする米Amazon.comの「Amazon Echo」と、それを追従する米Googleの「Google Home」。市場ではAmazon Echoが圧倒的に優勢だが、Google Homeに勝ち目はあるのか。実際に両方の製品を試した。]]></description>
+			<title>政治のゴタゴタに埋もれた国家IT戦略、「官民データ利活用社会」って何だ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062800868/</link>
+			<description><![CDATA[　改正組織犯罪処罰法や獣医学部の新設を巡る問題で終盤国会が混乱したあおりを受けてほとんど報道されなかったが、2017年5月30日に新しい国家IT戦略が閣議決定された。その一部は成長戦略「未来投資戦略2017」と「骨太の方針」にも盛り込まれ、6月9日に閣議決定された。今後の政府や自治体の電子行政の方向性を指し示す主要な項目をピックアップしておこう。]]></description>
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>サーバー脆弱性を根本対策できる三つのパターン（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900006/</link>
-			<description><![CDATA[　脆弱性スキャナーによる調査で脆弱性が見つかったら、危険度や影響度を考慮して対策する。根本対策は、三つのパターンに分類できる。]]></description>
+			<title>紛失防止タグで傘も見つかる？ 東京メトロが実証実験　（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062700322/</link>
+			<description><![CDATA[　東京メトロは2017年6月19日、紛失防止タグ「MAMORIO」を使った忘れ物自動通知サービスの実証実験を飯田橋駅構内のお忘れ物総合取扱所、銀座線渋谷駅、丸ノ内線池袋駅、有楽町線新木場駅で開始した。]]></description>
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -185,40 +191,10 @@
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>政治のゴタゴタに埋もれた国家IT戦略、「官民データ利活用社会」って何だ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062800868/</link>
-			<description><![CDATA[　改正組織犯罪処罰法や獣医学部の新設を巡る問題で終盤国会が混乱したあおりを受けてほとんど報道されなかったが、2017年5月30日に新しい国家IT戦略が閣議決定された。その一部は成長戦略「未来投資戦略2017」と「骨太の方針」にも盛り込まれ、6月9日に閣議決定された。今後の政府や自治体の電子行政の方向性を指し示す主要な項目をピックアップしておこう。]]></description>
+			<title>2大AIスピーカーを試して分かった、Amazon EchoとGoogle Homeの違い（AIスピーカー競争）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000250/062800004/</link>
+			<description><![CDATA[　AI（人工知能）スピーカー市場をリードする米Amazon.comの「Amazon Echo」と、それを追従する米Googleの「Google Home」。市場ではAmazon Echoが圧倒的に優勢だが、Google Homeに勝ち目はあるのか。実際に両方の製品を試した。]]></description>
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>紛失防止タグで傘も見つかる？ 東京メトロが実証実験　（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062700322/</link>
-			<description><![CDATA[　東京メトロは2017年6月19日、紛失防止タグ「MAMORIO」を使った忘れ物自動通知サービスの実証実験を飯田橋駅構内のお忘れ物総合取扱所、銀座線渋谷駅、丸ノ内線池袋駅、有楽町線新木場駅で開始した。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>次のWindows 10では仕事の続きをスマホでできる？（塩田紳二のモバイルトレンド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/062800055/</link>
-			<description><![CDATA[　Windows 10 Ver.1703こと「Createors Update（Red Stone2、RS2）」の配布が2017年4月に始まり、5月には次のアップデートとなる「Fall Creators Update（RS3）」が発表されました。Windows 10はどうなるのでしょうか？]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>誤消去したハードディスク上のデータ、フリーソフトで救出できる？（HDDが壊れたら…）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062900005/</link>
-			<description><![CDATA[　誤操作によるファイルの消失は、ハードディスク自体が正常であれば無償のフリーソフトでも対処できる。一般にファイルを消去しても消すのは管理情報だけで、ファイルの実体は残るからだ。ただ理解せずに使うと、本来なら復元できたいたはずのデータを失いかねない。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>NuAns NEO ［Reloaded］のAndroidスマホへの変身は大正解！（SIMフリースマートフォンを徹底レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/062800043/</link>
-			<description><![CDATA[　トリニティが開発・販売する「NuAns NEO [Reloaded]」は、多彩な本体と/背面カバーで着せ替えを楽しめることで注目を集めた「NuAns NEO」の後継機だ。OSをWindows MobileからAndroidに替え、ハードもパワーアップ。全方位で楽しめる1台に生まれ変わった。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本郵便でシステム障害、ローソン1万2300店舗で新サービスの発送できず（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001813/</link>
-			<description><![CDATA[　日本郵便は2017年6月29日、20日に新たに始めた「e発送サービス」に関するシステム障害が発生したと明らかにした。28日午後4時ごろ、ローソン店舗設置の端末「Loppi」で送り状の印刷ができなくなり、荷物の発送ができない状態が続いているという。]]></description>
-			<pubDate>Fri, 30 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>CISOの任命、何をどう進めるか（下）（CISOの任命、何をどう進めるか）</title>
@@ -253,6 +229,12 @@
 <div></div>
 </div>
 ]]></description>
+			<pubDate>Fri, 30 Jun 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本郵便でシステム障害、ローソン1万2300店舗で新サービスの発送できず（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001813/</link>
+			<description><![CDATA[　日本郵便は2017年6月29日、20日に新たに始めた「e発送サービス」に関するシステム障害が発生したと明らかにした。28日午後4時ごろ、ローソン店舗設置の端末「Loppi」で送り状の印刷ができなくなり、荷物の発送ができない状態が続いているという。]]></description>
 			<pubDate>Fri, 30 Jun 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -318,16 +300,40 @@
 			<pubDate>Fri, 30 Jun 2017 17:30:34 +0900</pubDate>
 		</item>
 		<item>
+			<title>デル、「ひとり情シス」向けにクラウドサービス販売開始（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001818/</link>
+			<description><![CDATA[　デルは2017年6月30日、クラウドサービスを手掛けるラクス、カゴヤ・ジャパン、エックスサーバーと協業し、中堅企業向けにクラウドサービスの販売を始めた。]]></description>
+			<pubDate>Fri, 30 Jun 2017 17:31:21 +0900</pubDate>
+		</item>
+		<item>
 			<title>クラウドエースとF5、Google Cloud Platformのセキュリティを強化（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001819/</link>
 			<description><![CDATA[　クラウドエースとF5ネットワークスジャパンは2017年6月30日、協業すると発表した。クラウドエースが提供する米グーグルのクラウドサービス「Google Cloud Platform」の導入支援サービスで、F5のWebアプリケーションファイアウォール（WAF）製品が利用可能になったと発表した。]]></description>
 			<pubDate>Fri, 30 Jun 2017 17:38:33 +0900</pubDate>
 		</item>
 		<item>
+			<title>カルソニックカンセイ、「Cisco DNA」の実証実験をユニアデックスと（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001820/</link>
+			<description><![CDATA[　カルソニックカンセイとユニアデックスは2017年6月30日、カルソニックカンセイの次世代IT基盤を見据えたネットワークの最適化とIT運用効率化について、米シスコシステムズの「Cisco DNA」を使った実証実験を2017年7月から始めると発表した。運用コスト削減を見込む]]></description>
+			<pubDate>Fri, 30 Jun 2017 17:47:56 +0900</pubDate>
+		</item>
+		<item>
 			<title>ドコモショップ丸の内店、IoT製品の体験コーナーなど新設しリニューアル（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001821/</link>
 			<description><![CDATA[　NTTドコモは2017年6月30日、全国に約2400店舗あるドコモショップの旗振り役である「旗艦店」として、ドコモショップ丸の内店をリニューアルオープンした。IoT製品の体験コーナーや、広いスペースを活用した季節に合った展示などで、顧客サービスを充実させる狙いだ。]]></description>
 			<pubDate>Fri, 30 Jun 2017 18:02:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>［続報］日本郵便の「e発送サービス」障害、全面復旧は週明け以降に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001822/</link>
+			<description><![CDATA[　日本郵便の「e発送サービス」で2017年6月28日から発生しているシステム障害について、日本郵便は2017年6月30日夕方時点で原因を特定できていないと明らかにした。ローソン店舗から発送できなくなっている。]]></description>
+			<pubDate>Fri, 30 Jun 2017 18:39:57 +0900</pubDate>
+		</item>
+		<item>
+			<title>Jリーグとドコモが協力、AR/VRでサッカー観戦をよりリアルに（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001823/</link>
+			<description><![CDATA[　JリーグとNTTドコモは2017年6月30日、顧客向けサービス開発などで協力する「トップパートナー契約」を締結したと発表した。AR（拡張現実）やVR（仮想現実）などを使ったサービス開発を進めるほか、全国約2400店舗のドコモショップとJリーグが連携したサービス提供を見据えて協力する。]]></description>
+			<pubDate>Fri, 30 Jun 2017 19:34:08 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
