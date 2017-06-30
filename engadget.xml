@@ -5,38 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    スマホから直に取込めるフォトストレージ｢Fotogenic｣、アイ･オーが発表。USB充電やInstagram投稿も可能
-</title>
-			<link>http://japanese.engadget.com/2017/06/28/fotogenic-usb-instagram/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/3f483c04441543454411bb121f4f14d7/205422393/main.jpg" />
-
-アイ・オー・データ機器が、スマートフォンに保存してある写真のバックアップと充電を同時にこなすNAS製品「Fotogenic」を発表しました。
-
-スマートフォンやデータの入ったSDカードを接続するだけで写真・動画のバックアップが可能、対応するテレビで写真や動画を視聴できるメディアサーバー機能を搭載するほか、インターネット経由で写真を共有する機能も備えます。
-
-Fotogenicそのものは三角柱型をしたNASですが、天面にはUSB端子およびSDカードスロットを備え、USB端子にはiPhoneやAndroidデバイスを接続すれば撮影した写真や動画ファイルを自動的にバックアップします。デジタルカメラ製品で撮影したデータも、SDカードをスロットに差し込めばすべてバックアップでき、1台で家庭のほぼ全ての写真や動画を保管することが可能です。RAW形式のデータもバックアップできるので、あとからPC/Macを使って現像・加工ができます。なお、天面にはマグネット固定式の上蓋が付属します。
-
-スマートフォンには専用アプリ「Fotogenic」を用意しており、保管した写真をや動画の視聴が可能。アプリで表示中の写真をInstagramへ投稿する機能も備えます。
-
-SNSを使わず直接友人などに3日間の期限付きで写真を共有することも可能。何かのイベントなどで撮影した写真を言ったんメディアにコピーしたり、印刷して手渡しする手間が省けます。家庭内ではメディアサーバーとして機能し、対応するテレビなどで写真・動画の視聴が可能、PC/Macからも利用できます。
-
-<p><a href="http://japanese.engadget.com/gallery/i-o-data-fotogenic/" title="I-O DATA Fotogenic">【ギャラリー】I-O DATA Fotogenic (6枚)</a></p>
-
-気になるのはストレージ容量が1TBしかラインナップされていないところ。とくにスマートフォンは4K解像度での動画撮影も搭載しつつあり、小さなお子さんがいる家庭のように写真や動画を大量に撮影・保存する場合などには、少々心もとなく思う場合も出てきそう。容量に関しては、今後のラインナップ拡充に期待したいところです。
-
-Fotogenicの発売時期は7月下旬。オープン価格ですが、税抜きの予想実売価格は1万7800円。
-
-似た用途の製品としてバッファローの「おもいでばこ」シリーズがありますが、FotogenicはWiFiやBluetoothといった無線機能を省略、価格面での競争力を強化しています。ちなみに、Fotogenicには写真や動画だけでなく、MP3やFLAC、WAV、DSF、DFFといったオーディオファイルの保管も可能です。
-
- 
-
-
- 
-
- ]]></description>
-			<pubDate>Wed, 28 Jun 2017 16:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    写真を撮って即査定、アイテムをお金に換えるアプリ「CASH」は借金のイメージを変える？ 
 </title>
 			<link>http://japanese.engadget.com/2017/06/28/cash/</link>
@@ -698,6 +666,25 @@ Gmailには、メールを返信できない期間を設定して、定型文を
 <p><a href="http://japanese.engadget.com/gallery/gmail-1/" title="Gmailで「不在通知」を設定する方法">【ギャラリー】Gmailで「不在通知」を設定する方法 (6枚)</a></p>
  ]]></description>
 			<pubDate>Fri, 30 Jun 2017 11:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    アップル、macOS High Sierraのパブリックベータ配信開始。次期OSが誰でも試せます
+</title>
+			<link>http://japanese.engadget.com/2017/06/29/macos-high-sierra-os/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/5c5d41be5710635002b26c42791b8c12/205417299/nyamu.jpg" />
+アップルが、macOS High Sierraのパブリックベータ版を公開しました。Apple Beta Software Program に登録すれば誰でもインストールでき、大きく改善された最新OSを一足早く試せます。
+
+MacBookとiMacが2009年以降のモデル。MacBook AirとPro、Mac miniとMac Proが2010年以降のモデルで利用できます。
+
+今回のバージョンアップでは、機能追加というよりも、内部処理の改善に重点を置いています。例えば新ファイルシステム「APFS」によるファイル操作の速度向上や、HEVCコーデック動画への対応など。さらに「Metal for VR」としてVRヘッドセットへの対応も果たしました。
+
+詳細はこちらの記事もご覧ください。
+
+Macが遂にVR対応。macOS Sierraの次は『High Sierra』、APFSファイルシステム標準化など新機能多数
+
+なおパブリックベータ版は、誰でもインストールできるとはいえあくまでバグ修正目的のベータ版。不具合が発生することもあり、アップルは導入前にバックアップを取ることを推奨しています。
+ ]]></description>
+			<pubDate>Fri, 30 Jun 2017 12:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
