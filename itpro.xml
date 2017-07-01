@@ -5,76 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>WannaCryに襲われた日立、セキュリティ人材1万人の確保急ぐ（国内大手のセキュリティ人材育成）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062700003/</link>
-			<description><![CDATA[　日立製作所は2020年までにセキュリティ人材を1万人育成する計画だ。同社は2017年5月12日、WannaCryに感染し、メールや受発注が一時停止した。こうした事態を再発させないためにも、1000人の専門家に加え、一般社員から9000人のセキュリティ人材を育てる施策を急ぐ。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ファミマ社長が半日をグーグルに割いた意味（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062600866/</link>
-			<description><![CDATA[　米アマゾン・ウェブ・サービスと米グーグルが企業向けシステム市場で「大人」になった。クラウド活用は今まさに転換点を迎えている――。両社のそれぞれの日本法人が2017年6月に相次ぎ開催した年次イベントに参加して、記者はそう感じた。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>HDDが壊れた瞬間どうする？覚えておきたい初動（HDDが壊れたら…）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062800004/</link>
-			<description><![CDATA[　「大事なデータが消えた」。壊れたハードディスクを前に、呆然としている暇はない。一刻も早くPCの電源を落とすのが、データ復旧へ望みをつなげるための近道だ。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ワイモバイルの料金プランは本当に「格安」なのか？（スマホ料金の勘違い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062300004/</link>
-			<description><![CDATA[　MVNOや格安SIMが注目を集める中で、いま最も新規ユーザーを獲得していると言われているのがY!mobile（ワイモバイル）だ。ワイモバイルはMVNOではなく、自ら通信インフラを所有する通信事業者である。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「早い・安い・多い」が裏目？AWSユーザーの意外な苦悩（AWSの死角）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062600001/</link>
-			<description><![CDATA[　サービスアップデートのサイクルが早く、度重なる値下げを実施し、豊富なサービスを抱える――。これらは米アマゾン ウェブ サービス（AWS）の強みといえるが、強みであるがゆえにユーザー企業から苦悩の声も上がっている。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>始動した地銀のFinTech戦略、各行の個性の違い浮き彫りに（Nikkei FinTech Conference 2017#2レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062800005/</link>
-			<description><![CDATA[　FinTechによって大きな変革の節目を迎える金融業界。しかし、FinTechの捉え方や対応態勢、戦略は各社で同じではない。特に、地方を基盤とする地銀の対応は個性があるようだ。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>インドIT大手が米クラウド専業を買収した理由（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062801036/</link>
-			<description><![CDATA[　米アピリオが、事業戦略の転換を図っている。米セールスフォース・ドットコムなどのクラウドサービスを活用したシステム開発で実績を積んできたが、インドのIT大手ウィプロが買収。今後は、ウィプログループのクラウド事業の牽引役としての役割を果たす。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Googleスプレッドシートで作った単語帳から毎日LINEに英単語を送ろう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/050100072/</link>
-			<description><![CDATA[　ここ4回にわたって、LINE Notify APIとGoogle Apps Scriptを組み合わせて使う方法を紹介しています。今回は、Googleスプレッドシートを参照して、毎日、覚えたい英単語をLINEに送るという仕組みを作ってみましょう。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>コンテナのセキュリティ保護、SELinuxはどう役立つか（IoT時代の最新SELinux入門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052600004/</link>
-			<description><![CDATA[　前回までに、SELinuxの主な機能として「TE（Type Enforcement）」を紹介しました。TEでは、プロセスに「ドメイン」を、ファイルに「タイプ」を付与します。セキュリティポリシーには、「ドメインがどんなタイプにどんなアクセスができるのか？」というルールが記載されています。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>脆弱性スキャナーでオープンポートを自動診断（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900005/</link>
-			<description><![CDATA[　脆弱性スキャナーを使えば、自動で脆弱性を調査できる。検出した脆弱性の危険度や対策方法もわかる。無償の脆弱性スキャナー「OpenVAS」を使った診断方法を解説する。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本進出が決まったAIスピーカー「Google Home」、その強み（AIスピーカー競争）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000250/062800003/</link>
-			<description><![CDATA[　AIファースト。コンピュータのユーザーインタフェース（UI）を、従来のタッチパネルやキーボードなどからAI（人工知能）に置き換えようという米Googleの戦略だ。日本でも年内の発売が決まったAIスピーカーの「Google Home」は、生活のあらゆるシーンにGoogleのAIを広げる第一歩となるものだ。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AWSとAzure、戦いの舞台はNoSQLへ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062801035/</link>
-			<description><![CDATA[　パブリッククラウドサービス2強である、米アマゾン・ドット・コムのAmazon Web Services（AWS）と米マイクロソフトのMicrosoft AzureがNoSQLデータベースの分野で激しいサービス競争を繰り広げている。]]></description>
-			<pubDate>Thu, 29 Jun 2017 05:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：Googleカレンダーの予定を毎朝LINEに通知しよう（クジラ飛行机「仕事に役立つJavaScript入門」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/112000106/042700071/?n01</link>
+			<description><![CDATA[　ここ3回にわたって、LINE Notify APIとGoogle Apps Scriptを組み合わせて使う方法を紹介しています。前回は、定期的に会議の参加者にリマインダーを送るプログラムを作りましたが、今回は、Googleカレンダーの予定を取得して、その予定をLINEに通知するプログラムを作ってみましょう。]]></description>
+			<pubDate>Wed, 28 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>誤消去したハードディスク上のデータ、フリーソフトで救出できる？（HDDが壊れたら…）</title>
@@ -179,9 +113,9 @@
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>国内最大のセキュリティ人材抱えるNTT、3万人の活かし方（国内大手のセキュリティ人材育成）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062900004/</link>
-			<description><![CDATA[　NTTは2017年3月、グループ内のセキュリティ人材が3万人を突破した。発端は2014年秋に鵜浦博夫社長が「2500人いる国内のセキュリティ人材を2020年までに1万人まで増やす」と目標を掲げたこと。その目標を2016年夏に達成し、以降もたゆまず育成を続けている。]]></description>
+			<title>ラズパイがシンクライアント端末に！専用OS「RPi-TC」を試す（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/062900013/</link>
+			<description><![CDATA[　4000円台のボードPC「Raspberry Pi（ラズパイ）」を、リモートから別PCのデスクトップを利用するシンクライアント端末として利用できるOSが「RPi-TC」です。リモートデスクトップ機能を有効にしたWindows PCなどのデスクトップをネットワーク経由で操作できます。]]></description>
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -191,9 +125,9 @@
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ラズパイがシンクライアント端末に！専用OS「RPi-TC」を試す（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/062900013/</link>
-			<description><![CDATA[　4000円台のボードPC「Raspberry Pi（ラズパイ）」を、リモートから別PCのデスクトップを利用するシンクライアント端末として利用できるOSが「RPi-TC」です。リモートデスクトップ機能を有効にしたWindows PCなどのデスクトップをネットワーク経由で操作できます。]]></description>
+			<title>国内最大のセキュリティ人材抱えるNTT、3万人の活かし方（国内大手のセキュリティ人材育成）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062900004/</link>
+			<description><![CDATA[　NTTは2017年3月、グループ内のセキュリティ人材が3万人を突破した。発端は2014年秋に鵜浦博夫社長が「2500人いる国内のセキュリティ人材を2020年までに1万人まで増やす」と目標を掲げたこと。その目標を2016年夏に達成し、以降もたゆまず育成を続けている。]]></description>
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
