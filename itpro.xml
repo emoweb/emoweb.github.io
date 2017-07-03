@@ -11,50 +11,6 @@
 			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>目玉機能のはずが否決されたJava 9のモジュール化、再投票でやっと可決（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/063000388/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　Javaの次期バージョン「Java 9」の目玉機能の1つで、賛否が大きく分かれていたモジュール化の機能が、再び前進を始めそうだ。この機能の仕様に関してJava Community Process（JCP）のExecutive Committee（EC）が実施していた投票が、再投票の末に可決された。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/063000388/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　モジュール化の仕様「Java Specification Request（JSR）376：Java Platform Module System」は、承認に向けた手続きがJCPのECで進められている。このうち、パブリックレビューの承認に関する再投票が2017年6月26日に終了し、賛成24、反対0、棄権1で可決という結果になった。
-</p>
-<p>
-　2017年5月8日に終了した最初の投票の時は、この案がもたらす混乱への懸念や、コンセンサス不足への懸念から、賛成10、反対13で否決されていた。モジュール化の機能を搭載して登場する予定だった「Java Development Kit（JDK）9」は、この否決の影響で、リリース日が2017年7月27日から9月21日に延期となっていた。
-</p>
-<p>
-　最初の投票の後、懸念に対処するための作業が進められた結果、米IBMなど、最初の投票で反対票を投じた企業が、今回の投票では賛成に回った。IBMは投票の際に次のようにコメントしている。「当社は、このJPMS（Java Platform Module System）が新しいJava SEプラットフォームアーキテクチャーの強固な基盤だと認識しており、当社の顧客やコミュニティからのフィードバックと経験を交えて、これを土台としていく予定だ」
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/063000388/?ST=cm-software&P=2">前回は反対票を投じた米RedHatは、今回の再投票では棄権した。...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/063000388/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/063000388/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/063000388/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 30 Jun 2017 10:05:48 +0900</pubDate>
-		</item>
-		<item>
-			<title>Amazon.com、音声アシスタント「Echo」をインド市場に投入か（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001815/</link>
-			<description><![CDATA[　米Amazon.comが同社の音声アシスタント機器「Echo」シリーズを2017年の年末ごろにインド市場に投入すると、同国の経済紙Economic Timesが2017年6月29日に報じた。インド版のEchoでは当初、英語のアシスタントサービスが提供されるが、その後アップデートが施され、ヒンディー語、タミル語、マラーティー語が利用できるようになる見通し。]]></description>
-			<pubDate>Fri, 30 Jun 2017 10:29:41 +0900</pubDate>
-		</item>
-		<item>
 			<title>楽天生命がインシュアテック研究組織、AIで保険商品開発へ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001816/</link>
 			<description><![CDATA[　楽天生命保険は2017年6月30日、保険業務をITで変革する「インシュアテック」に関する研究組織を7月1日付で設立すると発表した。人工知能（AI）やデータ分析の技術を活用し、生保の新商品やサービスの開発や保険申込み手順の効率化に取り組む。]]></description>
@@ -121,21 +77,33 @@
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ARで保険調査、ベテランが若手に遠隔指示（VR最新事例）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900268/062900001/</link>
-			<description><![CDATA[　SOMPOホールディングス（HD）傘下で住宅リフォーム事業を担うフレッシュハウスは、損害保険ジャパン日本興亜と連携してスマートグラスとARを使った業務改善を進めている。]]></description>
-			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>調査でわかった！ネットワークトラブルが起こるワケ（ネットワークトラブル奮闘記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000248/062000001/</link>
-			<description><![CDATA[　企業のシステム担当者にとって、頭を悩ますのがネットワークトラブル。従業員から「インターネットにつながらない」「ファイルサーバーにアクセスできない」「メールを送信できない」など、様々な声が飛び込んでくる。トラブルの原因は何か。どう対処しているのか。アンケートの結果から実態を探った。]]></description>
+			<title>格安サービスは不安、やっぱり終わったAmazonの無制限ストレージ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061900861/</link>
+			<description><![CDATA[　定額料金で容量無制限をうたうオンラインストレージサービスが、また一つ姿を消した。米アマゾン・ドット・コムが年額59.99ドルで提供していた「Amazon Cloud Drive」の無制限プランだ。]]></description>
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>グローバル再編の勝算、脱・内弁慶を目指すNTTデータ（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/063001041/</link>
 			<description><![CDATA[　NTTデータは2017年7月1日付でグローバル経営を統括する新組織「グローバルマーケティング本部」を本社組織として設立した。グループの連携や経営の効率化を促進する。]]></description>
+			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ARで保険調査、ベテランが若手に遠隔指示（VR最新事例）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900268/062900001/</link>
+			<description><![CDATA[　SOMPOホールディングス（HD）傘下で住宅リフォーム事業を担うフレッシュハウスは、損害保険ジャパン日本興亜と連携してスマートグラスとARを使った業務改善を進めている。]]></description>
+			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>BCCで送るべきところをCCで送ってしまった！（5分でわかる！ビジネスメール）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200140/062300006/</link>
+			<description><![CDATA[　ビジネスメール研究所の所長として、メールの研究に精を出す平野所長。研究員として、日夜、メールの研究という名の修行に励む直井研究員。これまで、数々のメールの問題、事件を解決してきた。]]></description>
+			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>エンジニアの転職、年収倍増は当たり前？（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062800869/</link>
+			<description><![CDATA[　エンジニアの転職市場が活況を呈している。業界最大手のリクルートキャリアによると、2017年5月末のエンジニアの有効求人倍率（1人当たりの求人件数）は3.27倍と、前年同期の2.31倍から大きく跳ね上がった。背景にはエンジニアの需要増と人手不足があり、年収が倍増する転職組も現われている。]]></description>
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -193,21 +161,9 @@
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>BCCで送るべきところをCCで送ってしまった！（5分でわかる！ビジネスメール）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200140/062300006/</link>
-			<description><![CDATA[　ビジネスメール研究所の所長として、メールの研究に精を出す平野所長。研究員として、日夜、メールの研究という名の修行に励む直井研究員。これまで、数々のメールの問題、事件を解決してきた。]]></description>
-			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>エンジニアの転職、年収倍増は当たり前？（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062800869/</link>
-			<description><![CDATA[　エンジニアの転職市場が活況を呈している。業界最大手のリクルートキャリアによると、2017年5月末のエンジニアの有効求人倍率（1人当たりの求人件数）は3.27倍と、前年同期の2.31倍から大きく跳ね上がった。背景にはエンジニアの需要増と人手不足があり、年収が倍増する転職組も現われている。]]></description>
-			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>格安サービスは不安、やっぱり終わったAmazonの無制限ストレージ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061900861/</link>
-			<description><![CDATA[　定額料金で容量無制限をうたうオンラインストレージサービスが、また一つ姿を消した。米アマゾン・ドット・コムが年額59.99ドルで提供していた「Amazon Cloud Drive」の無制限プランだ。]]></description>
+			<title>調査でわかった！ネットワークトラブルが起こるワケ（ネットワークトラブル奮闘記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000248/062000001/</link>
+			<description><![CDATA[　企業のシステム担当者にとって、頭を悩ますのがネットワークトラブル。従業員から「インターネットにつながらない」「ファイルサーバーにアクセスできない」「メールを送信できない」など、様々な声が飛び込んでくる。トラブルの原因は何か。どう対処しているのか。アンケートの結果から実態を探った。]]></description>
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -293,6 +249,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070301827/</link>
 			<description><![CDATA[　家電製品などの保証書の情報を管理するクラウドサービスを手掛けるWarrantee（ワランティ）は2017年7月3日、スマートフォンを使って1日単位で加入できる損害保険サービスを発表した。東京海上日動火災保険など4社と協業。デジタルカメラや家電製品に1日当たり数十円からの負担で保険をかけられる。]]></description>
 			<pubDate>Mon, 03 Jul 2017 15:13:37 +0900</pubDate>
+		</item>
+		<item>
+			<title>中国発スマホ決済WeChat Pay、日本向けサービス強化でライバル追撃（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070301828/</link>
+			<description><![CDATA[　中国テンセントホールディングス（騰訊控股）は2017年7月3日、QRコードを使ったスマートフォン向け決済サービス「WeChat Pay（微信支付）」の日本企業向けサービス強化策を説明した。]]></description>
+			<pubDate>Mon, 03 Jul 2017 17:06:30 +0900</pubDate>
+		</item>
+		<item>
+			<title>［特報］ソフトバンクがRPA参入（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070301829/</link>
+			<description><![CDATA[　ソフトバンクがRPA（ロボティック・プロセス・オートメーション）関連サービスに参入することが、日経コンピュータの調べで分かった。RPAとは、PCを使った業務データの入力やコピーといった定型的な事務作業を企業が効率化すること。こうした取り組みを進める企業の需要を狙う。]]></description>
+			<pubDate>Mon, 03 Jul 2017 17:57:26 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
