@@ -5,167 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>サーバー脆弱性を根本対策できる三つのパターン（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/061900006/</link>
-			<description><![CDATA[　脆弱性スキャナーによる調査で脆弱性が見つかったら、危険度や影響度を考慮して対策する。根本対策は、三つのパターンに分類できる。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>映像鑑賞にお薦め！10型タブレット「MediaPad M3 Lite 10」（伊藤浩一のモバイルライフ応援日記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/061400059/</link>
-			<description><![CDATA[　Media Pad M3 Lite 10は、約10.1型、WUXGA（1920×1000ピクセル）の画面を持つAndroidタブレットです。筆者が注目したのは、充実したサウンドシステムです。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AWSの“民業圧迫”、パートナーはついていけるか（AWSの死角）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600260/062800003/</link>
-			<description><![CDATA[　AWSサービスの成熟や高度化は、これまでSIベンダーが仕事としてきた領域を削り取る。AWSがイノベーションに邁進するほど、付いていけなくなるパートナーが増える。AWSを支えてきたパートナーが今、AWSによる“民業圧迫”の影におびやかされている。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ラズパイがシンクライアント端末に！専用OS「RPi-TC」を試す（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/062900013/</link>
-			<description><![CDATA[　4000円台のボードPC「Raspberry Pi（ラズパイ）」を、リモートから別PCのデスクトップを利用するシンクライアント端末として利用できるOSが「RPi-TC」です。リモートデスクトップ機能を有効にしたWindows PCなどのデスクトップをネットワーク経由で操作できます。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「叱られても今が楽しい」、下請けからAWS技術者に転身――アイレット北條氏の場合（デキるエンジニアが転職する理由）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030700072/062000003/</link>
-			<description><![CDATA[　主にオンプレミス環境でのインフラ構築を手掛けていた北條慎一氏。顧客企業のためになるシステムを、直接提案したいという思いから、AWS上でのシステム構築を手掛けるアイレットに転職した。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「消費者への説明はまだ不十分」、総務省が携帯大手3社を指導（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062901038/</link>
-			<description><![CDATA[　総務省は6月28日、重要事項の説明が不十分だったとして、携帯電話大手3社に近く行政指導を行った。販売スタッフが費やす接客時間は長くなり、現場の負担感は増している。携帯電話販売の現場では、どのようなことが起こっているのか。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iPhoneからAndroidへ　データはどう移行すればいい？（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062700323/</link>
-			<description><![CDATA[　格安スマホとしても取り扱いが多いAndroidスマホに、iPhoneから乗り換えるとき、データをどう移行すればいいのだろうか？　詳しく解説しよう。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>新人をつぶしていませんか？やってはいけないOJTと6月病対策（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/062700255/</link>
-			<description><![CDATA[　「最近、新人の表情が暗い」「教えているのにできるようにならない」。そうした新人育成に関する悩みは、実は“やってはいけないOJT”をやってしまっているからかもしれない。最悪の場合、新人は配属先の現場になじめず、仕事にもついて行けないと感じて、心身の不調に陥る。「6月病」などと呼ばれる問題だ。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>紛失防止タグで傘も見つかる？ 東京メトロが実証実験　（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/062700322/</link>
-			<description><![CDATA[　東京メトロは2017年6月19日、紛失防止タグ「MAMORIO」を使った忘れ物自動通知サービスの実証実験を飯田橋駅構内のお忘れ物総合取扱所、銀座線渋谷駅、丸ノ内線池袋駅、有楽町線新木場駅で開始した。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>インシュアテックに揺れる保険業界、大手2社の本音（Nikkei FinTech Conference 2017#2レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062500258/062900006/</link>
-			<description><![CDATA[　日経FinTechが2017年6月23日に都内で開催した「Nikkei FinTech Conference 2017#2」では、進化したテクノロジーが保険業界に与えるインパクトをテーマにしたパネルディスカッションが行われた。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>フェイスブック仕込みの光ディスク、パナソニックが磁気テープの置き換え狙う（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062901037/</link>
-			<description><![CDATA[　長期保存に使うアーカイブストレージの主役である磁気テープ。その市場をうかがうのが、パナソニックがソニーと共同開発した光ディスク「freeze-ray」だ。クラウド界の巨人、米フェイスブックのデータセンターを足がかりに、1兆円市場を狙う。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>政治のゴタゴタに埋もれた国家IT戦略、「官民データ利活用社会」って何だ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062800868/</link>
-			<description><![CDATA[　改正組織犯罪処罰法や獣医学部の新設を巡る問題で終盤国会が混乱したあおりを受けてほとんど報道されなかったが、2017年5月30日に新しい国家IT戦略が閣議決定された。その一部は成長戦略「未来投資戦略2017」と「骨太の方針」にも盛り込まれ、6月9日に閣議決定された。今後の政府や自治体の電子行政の方向性を指し示す主要な項目をピックアップしておこう。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>年商の6割超は直接受注、Watson専任チームを作った中堅ソフト会社（インタビュー＆トーク）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/062800338/</link>
-			<description><![CDATA[　大手IT企業経由ではない「自主」案件の売り上げが年商の6割強――。中堅ソフト会社のNCS&Aは自主ビジネスの拡大に力を入れる。どう取り組んでいるのか。松木謙吾社長に聞いた。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>2大AIスピーカーを試して分かった、Amazon EchoとGoogle Homeの違い（AIスピーカー競争）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000250/062800004/</link>
-			<description><![CDATA[　AI（人工知能）スピーカー市場をリードする米Amazon.comの「Amazon Echo」と、それを追従する米Googleの「Google Home」。市場ではAmazon Echoが圧倒的に優勢だが、Google Homeに勝ち目はあるのか。実際に両方の製品を試した。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>UQ mobileの料金、競合MVNOよりも安い？（スマホ料金の勘違い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000251/062400005/</link>
-			<description><![CDATA[　UQ mobileの料金プランは一見シンプルだが、2つの通話プランから選べるという独自性も備えている。自分の使い方に合ったプランを選ぶポイントを伝授しよう。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>次のWindows 10では仕事の続きをスマホでできる？（塩田紳二のモバイルトレンド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/062800055/</link>
-			<description><![CDATA[　Windows 10 Ver.1703こと「Createors Update（Red Stone2、RS2）」の配布が2017年4月に始まり、5月には次のアップデートとなる「Fall Creators Update（RS3）」が発表されました。Windows 10はどうなるのでしょうか？]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>NuAns NEO ［Reloaded］のAndroidスマホへの変身は大正解！（SIMフリースマートフォンを徹底レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/062800043/</link>
-			<description><![CDATA[　トリニティが開発・販売する「NuAns NEO [Reloaded]」は、多彩な本体と/背面カバーで着せ替えを楽しめることで注目を集めた「NuAns NEO」の後継機だ。OSをWindows MobileからAndroidに替え、ハードもパワーアップ。全方位で楽しめる1台に生まれ変わった。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>国内最大のセキュリティ人材抱えるNTT、3万人の活かし方（国内大手のセキュリティ人材育成）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200255/062900004/</link>
-			<description><![CDATA[　NTTは2017年3月、グループ内のセキュリティ人材が3万人を突破した。発端は2014年秋に鵜浦博夫社長が「2500人いる国内のセキュリティ人材を2020年までに1万人まで増やす」と目標を掲げたこと。その目標を2016年夏に達成し、以降もたゆまず育成を続けている。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>誤消去したハードディスク上のデータ、フリーソフトで救出できる？（HDDが壊れたら…）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062100253/062900005/</link>
-			<description><![CDATA[　誤操作によるファイルの消失は、ハードディスク自体が正常であれば無償のフリーソフトでも対処できる。一般にファイルを消去しても消すのは管理情報だけで、ファイルの実体は残るからだ。ただ理解せずに使うと、本来なら復元できたいたはずのデータを失いかねない。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>2週間使い込んで分かったiPad Pro 10.5、スペックで語れない進化ポイントが随所に（戸田覚の読みごたえ重視の超辛口レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/042700108/062900013/</link>
-			<description><![CDATA[　iPad Proの新モデルが登場した。従来は9.7インチだった液晶サイズが10.5インチへと大型化しているのが最大の特徴だ。持ちやすさやポケットへの収まりを重視するスマホとは違い、タブレットは多少のサイズの差ならあまり気にせずに利用できる。実際に使ってみた感想を中心にまとめて行こう。]]></description>
-			<pubDate>Fri, 30 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本郵便でシステム障害、ローソン1万2300店舗で新サービスの発送できず（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001813/</link>
-			<description><![CDATA[　日本郵便は2017年6月29日、20日に新たに始めた「e発送サービス」に関するシステム障害が発生したと明らかにした。28日午後4時ごろ、ローソン店舗設置の端末「Loppi」で送り状の印刷ができなくなり、荷物の発送ができない状態が続いているという。]]></description>
-			<pubDate>Fri, 30 Jun 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>CISOの任命、何をどう進めるか（下）（CISOの任命、何をどう進めるか）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　企業がCISO（最高情報セキュリティ責任者）を置かないのは、無謀に思えるかもしれないが、珍しいことではない。米Cybrary ITのレポート「2016 Cyber Security Job Trends」によると、CSO（最高セキュリティ責任者）やCISOを置いている企業は49％にすぎない。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900002/" target="_blank">前回</a>から続く）</p>
-
-<h4>CISOの候補者</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900003/ph3.jpg" width="300" alt="" title=""></div></div>
-
-<p>　CISOの候補者の側が選考プロセスの一歩を踏み出す時には、また別の難しさがある。候補者が警戒するのは、マーケティング主導の見掛け倒しの仕事や、荒廃地を任されて、変化の担い手になれないことだ。かつてCitiのCISOを務めたKatz氏は、現在は米Security Risk Solutionsのオーナーである。Katz氏は、ますます戦略的になっていく職務に足を踏み入れられるかどうかをまず決断する必要があると話す。苦労して身に付けた技術スキルを脇へ置いて、これまで教わったことのないソフトスキルの構築へと進む意欲があるかどうかだ。</p>
-
-<p>　その答えがイエスで、その役職に興味とやりがいの両方を感じる候補者は、通勤や報酬より先に、その企業と文化を熟考せよとKatz氏は言う。また、その仕事が戦術的なのか、技術的なのか、戦略的なのかを尋ねることや、マーケティングや啓発の仕事が最大で半分を占めそうな職務に対処できるかどうかを問うことも必要だと同氏は話す。さらには、システムインテグレーターなどのつながりを生かして、相手の企業についてもっと探り出すことを同氏は強く勧め、自ら調査するよう促す。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900003/?ST=cio-security&P=2">SerenovaのClark氏も同様の見解だ。自...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900003/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900003/?ST=cio-security&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900003/?ST=cio-security&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/061900047/061900003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 30 Jun 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Instagram、AIで不快コメントやスパムを遮断するツールを導入（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001814/</link>
 			<description><![CDATA[　米Facebook傘下のInstagramは2017年6月29日、人工知能（AI）を利用して不快なコメントやスパムを遮断するフィルターの導入を明らかにした。機械学習技術を使って、Instagramを安全な自己表現の場として維持することを目指す。]]></description>
@@ -276,21 +115,27 @@
 			<pubDate>Fri, 30 Jun 2017 20:06:51 +0900</pubDate>
 		</item>
 		<item>
-			<title>調査でわかった！ネットワークトラブルが起こるワケ（ネットワークトラブル奮闘記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000248/062000001/</link>
-			<description><![CDATA[　企業のシステム担当者にとって、頭を悩ますのがネットワークトラブル。従業員から「インターネットにつながらない」「ファイルサーバーにアクセスできない」「メールを送信できない」など、様々な声が飛び込んでくる。トラブルの原因は何か。どう対処しているのか。アンケートの結果から実態を探った。]]></description>
-			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ARで保険調査、ベテランが若手に遠隔指示（VR最新事例）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900268/062900001/</link>
 			<description><![CDATA[　SOMPOホールディングス（HD）傘下で住宅リフォーム事業を担うフレッシュハウスは、損害保険ジャパン日本興亜と連携してスマートグラスとARを使った業務改善を進めている。]]></description>
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>調査でわかった！ネットワークトラブルが起こるワケ（ネットワークトラブル奮闘記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000248/062000001/</link>
+			<description><![CDATA[　企業のシステム担当者にとって、頭を悩ますのがネットワークトラブル。従業員から「インターネットにつながらない」「ファイルサーバーにアクセスできない」「メールを送信できない」など、様々な声が飛び込んでくる。トラブルの原因は何か。どう対処しているのか。アンケートの結果から実態を探った。]]></description>
+			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>グローバル再編の勝算、脱・内弁慶を目指すNTTデータ（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/063001041/</link>
 			<description><![CDATA[　NTTデータは2017年7月1日付でグローバル経営を統括する新組織「グローバルマーケティング本部」を本社組織として設立した。グループの連携や経営の効率化を促進する。]]></description>
+			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本型失敗の典型、客の意向を忖度し炎上するITベンダーの悲惨（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/062900145/</link>
+			<description><![CDATA[　2017年上期で一番話題となった流行語は何かと聞かれれば、多くの人が「忖度（そんたく）」を挙げるはずだ。悪いイメージと共に広まったため、「忖度しているとロクなことにはならないぞ」といった具合に使う。そんなロクでもないことをやっているのが、我らがIT業界だ。]]></description>
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -324,9 +169,9 @@
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>発売やめるメーカーも、超高速Wi-Fi「11ad」に存在感なし（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062901040/</link>
-			<description><![CDATA[　無線LANで現在主に使われているIEEE 802.11ac。その次にもう一つ、60GHz帯を利用する802.11adという規格が国内で使用可能になっている。だが日本で使えるようになった2015年11月から1年半あまりが経過した現在も、802.11ad対応製品は増える気配がない。]]></description>
+			<title>子供が熱を出したらどうする？仕事との両立に奮闘する女性SE（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/062100013/</link>
+			<description><![CDATA[　野村総合研究所（NRI）の上級SEである澁谷亜樹氏は、2人の子供を抱えながら働く。幼少の子供を持つ働く女性にとって悩ましいのは、急な発熱だ。そんなとき、澁谷氏はどう動くのか。]]></description>
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -360,15 +205,9 @@
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>子供が熱を出したらどうする？仕事との両立に奮闘する女性SE（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/062100013/</link>
-			<description><![CDATA[　野村総合研究所（NRI）の上級SEである澁谷亜樹氏は、2人の子供を抱えながら働く。幼少の子供を持つ働く女性にとって悩ましいのは、急な発熱だ。そんなとき、澁谷氏はどう動くのか。]]></description>
-			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本型失敗の典型、客の意向を忖度し炎上するITベンダーの悲惨（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/062900145/</link>
-			<description><![CDATA[　2017年上期で一番話題となった流行語は何かと聞かれれば、多くの人が「忖度（そんたく）」を挙げるはずだ。悪いイメージと共に広まったため、「忖度しているとロクなことにはならないぞ」といった具合に使う。そんなロクでもないことをやっているのが、我らがIT業界だ。]]></description>
+			<title>発売やめるメーカーも、超高速Wi-Fi「11ad」に存在感なし（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062901040/</link>
+			<description><![CDATA[　無線LANで現在主に使われているIEEE 802.11ac。その次にもう一つ、60GHz帯を利用する802.11adという規格が国内で使用可能になっている。だが日本で使えるようになった2015年11月から1年半あまりが経過した現在も、802.11ad対応製品は増える気配がない。]]></description>
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -442,6 +281,12 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 03 Jul 2017 10:20:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>働き方改革はRPAやAIで、日立ソリューションズが支援サービス（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070201826/</link>
+			<description><![CDATA[　日立ソリューションズは2017年7月3日、RPA（ロボティック・プロセス・オートメーション）やAI（人工知能）を活用して働き方改革を支援する「ワークスタイル変革ソリューション」を4日から提供すると発表した。]]></description>
+			<pubDate>Mon, 03 Jul 2017 13:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
