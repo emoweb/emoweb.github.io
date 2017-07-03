@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Instagram、AIで不快コメントやスパムを遮断するツールを導入（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/063001814/</link>
-			<description><![CDATA[　米Facebook傘下のInstagramは2017年6月29日、人工知能（AI）を利用して不快なコメントやスパムを遮断するフィルターの導入を明らかにした。機械学習技術を使って、Instagramを安全な自己表現の場として維持することを目指す。]]></description>
-			<pubDate>Fri, 30 Jun 2017 09:48:51 +0900</pubDate>
-		</item>
-		<item>
 			<title>目玉機能のはずが否決されたJava 9のモジュール化、再投票でやっと可決（Computerworldニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/063000388/</link>
 			<description><![CDATA[<div>
@@ -121,21 +115,27 @@
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>日本型失敗の典型、客の意向を忖度し炎上するITベンダーの悲惨（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/062900145/</link>
+			<description><![CDATA[　2017年上期で一番話題となった流行語は何かと聞かれれば、多くの人が「忖度（そんたく）」を挙げるはずだ。悪いイメージと共に広まったため、「忖度しているとロクなことにはならないぞ」といった具合に使う。そんなロクでもないことをやっているのが、我らがIT業界だ。]]></description>
+			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>調査でわかった！ネットワークトラブルが起こるワケ（ネットワークトラブル奮闘記）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000248/062000001/</link>
 			<description><![CDATA[　企業のシステム担当者にとって、頭を悩ますのがネットワークトラブル。従業員から「インターネットにつながらない」「ファイルサーバーにアクセスできない」「メールを送信できない」など、様々な声が飛び込んでくる。トラブルの原因は何か。どう対処しているのか。アンケートの結果から実態を探った。]]></description>
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>グローバル再編の勝算、脱・内弁慶を目指すNTTデータ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/063001041/</link>
-			<description><![CDATA[　NTTデータは2017年7月1日付でグローバル経営を統括する新組織「グローバルマーケティング本部」を本社組織として設立した。グループの連携や経営の効率化を促進する。]]></description>
+			<title>格安サービスは不安、やっぱり終わったAmazonの無制限ストレージ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061900861/</link>
+			<description><![CDATA[　定額料金で容量無制限をうたうオンラインストレージサービスが、また一つ姿を消した。米アマゾン・ドット・コムが年額59.99ドルで提供していた「Amazon Cloud Drive」の無制限プランだ。]]></description>
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>日本型失敗の典型、客の意向を忖度し炎上するITベンダーの悲惨（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/062900145/</link>
-			<description><![CDATA[　2017年上期で一番話題となった流行語は何かと聞かれれば、多くの人が「忖度（そんたく）」を挙げるはずだ。悪いイメージと共に広まったため、「忖度しているとロクなことにはならないぞ」といった具合に使う。そんなロクでもないことをやっているのが、我らがIT業界だ。]]></description>
+			<title>発売やめるメーカーも、超高速Wi-Fi「11ad」に存在感なし（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062901040/</link>
+			<description><![CDATA[　無線LANで現在主に使われているIEEE 802.11ac。その次にもう一つ、60GHz帯を利用する802.11adという規格が国内で使用可能になっている。だが日本で使えるようになった2015年11月から1年半あまりが経過した現在も、802.11ad対応製品は増える気配がない。]]></description>
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -199,15 +199,9 @@
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>格安サービスは不安、やっぱり終わったAmazonの無制限ストレージ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/061900861/</link>
-			<description><![CDATA[　定額料金で容量無制限をうたうオンラインストレージサービスが、また一つ姿を消した。米アマゾン・ドット・コムが年額59.99ドルで提供していた「Amazon Cloud Drive」の無制限プランだ。]]></description>
-			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>発売やめるメーカーも、超高速Wi-Fi「11ad」に存在感なし（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062901040/</link>
-			<description><![CDATA[　無線LANで現在主に使われているIEEE 802.11ac。その次にもう一つ、60GHz帯を利用する802.11adという規格が国内で使用可能になっている。だが日本で使えるようになった2015年11月から1年半あまりが経過した現在も、802.11ad対応製品は増える気配がない。]]></description>
+			<title>グローバル再編の勝算、脱・内弁慶を目指すNTTデータ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/063001041/</link>
+			<description><![CDATA[　NTTデータは2017年7月1日付でグローバル経営を統括する新組織「グローバルマーケティング本部」を本社組織として設立した。グループの連携や経営の効率化を促進する。]]></description>
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -287,6 +281,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070201826/</link>
 			<description><![CDATA[　日立ソリューションズは2017年7月3日、RPA（ロボティック・プロセス・オートメーション）やAI（人工知能）を活用して働き方改革を支援する「ワークスタイル変革ソリューション」を4日から提供すると発表した。]]></description>
 			<pubDate>Mon, 03 Jul 2017 13:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スマホから1日単位の損害保険、Warranteeが東京海上日動らと（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070301827/</link>
+			<description><![CDATA[　家電製品などの保証書の情報を管理するクラウドサービスを手掛けるWarrantee（ワランティ）は2017年7月3日、スマートフォンを使って1日単位で加入できる損害保険サービスを発表した。東京海上日動火災保険など4社と協業。デジタルカメラや家電製品に1日当たり数十円からの負担で保険をかけられる。]]></description>
+			<pubDate>Mon, 03 Jul 2017 15:13:37 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
