@@ -5,14 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ついに東京上陸を果たした「プルーム・テック」をアイコスユーザーがレビューしてみる
-</title>
-			<link>http://japanese.engadget.com/2017/06/30/PloomTECHReview/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/c5968ebc49aad17dde102f7677bab9c2/205431391/15.JPG" />加熱式タバコの新勢力である「プルーム・テック」が、6月29日、ついに東京での販売が開始されました。それを記念して「プルーム・テックってどんなもの？」という人に向けてアイコスユーザーである筆者がレビューしてみます。
- ]]></description>
-			<pubDate>Fri, 30 Jun 2017 16:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    米ナイキ、米Amazonでの直接販売を試験的に開始。直販サイトも売り上げ倍増、ネット販売注力へ
 </title>
 			<link>http://japanese.engadget.com/2017/06/30/amazon/</link>
@@ -620,6 +612,28 @@ QCY Q29（ガジェットマート）
  
  ]]></description>
 			<pubDate>Tue, 04 Jul 2017 11:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    うわさ：iPhone 8はTouch ID非搭載、3D顔認証採用？ ディスプレイ埋め込み指紋センサには技術的課題
+</title>
+			<link>http://japanese.engadget.com/2017/07/03/iphone-8-touch-id-3d/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/b265d9991e02771c8e46efec4444f92e/205440182/main.jpg" />
+
+WWDC 2017が終わって、少し沈静化していた次期iPhoneのうわさ話に新たな情報が加わっています。アップル製品の予測でおなじみKGIセキュリティのアナリストMing-Chi Kuo氏がによると、iPhone 8(仮)にはOLEDディスプレイ下に指紋認証のTouch ID機能が組み込まれないとのこと。一方でBloombergは高精度な3D顔認証機能が搭載されると伝えています。
+
+Kuo氏の情報提供者は、ディスプレイの下層にTouch IDを埋め込むには指紋読み取りの精度低下といった技術的課題があり、現時点では画面内の下層ホームボタンはTouch ID技術をサポートしない」と語ったとのこと。このためKuo氏は、おそらく製品にはTouch IDセンサーが搭載されないだろうと報告しています。
+
+ただ、AppleInsiderはKuo氏の報告に対してチップサプライヤーのTSMCなどの情報では依然としてTouch IDがiPhoneに含まれると考えられることを指摘しています。
+
+では、仮にTouch IDが次期iPhoneに搭載されないと仮定した場合、ユーザー認証はどうなるのかが気になります。Bloombergは別の情報筋からの話として、次期iPhoneには「驚異的な精度と速度」でユーザーの顔をスキャンする3Dセンサーが搭載されるだろうと伝えました。
+
+この3Dセンサーは、たとえiPhoneがテーブルの上に置かれた状態であっても、そばにいるユーザーの顔をわずか数百ミリ秒で読み取り、ロックを解除できるとのこと。またユーザーの顔を3Dで認識するため、写真を使ってセンサーを騙すことも実質的に不可能であり、Touch IDよりも高いセキュリティを確保できるとされます。また、Bloombergは顔認証と組み合わせるのか補助的に使うのかは不明ながら、眼(虹彩?)による認証機能もテスト中だとしています。
+
+その他の次期iPhoneに関するうわさは、ホームボタンを廃した全画面デザイン、10nmプロセスで製造される高速なプロセッサー、AI関連タスク用チップ搭載などいずれもこれまでに紹介された情報を踏襲しています。ただひとつ、iPad Pro の ProMotionディスプレイ技術がOLEDディスプレイの iPhone にも採用される、との情報が加わっています。
+
+ちなみに、Touch IDがなくなると主張するMing-Chi Kuo氏も、2017年1月の段階で将来のiPhoneへの顔認証機能の搭載を予測していました。Touch IDが残ろうがなくなろうが、うわさのように3D顔認証機能が搭載されるなら、これまでのように濡れ手で認証できないといった事もなくなり、より簡単にロック解除できるようになりそうです。
+ ]]></description>
+			<pubDate>Tue, 04 Jul 2017 12:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
