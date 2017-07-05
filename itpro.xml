@@ -5,87 +5,9 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：女性の部下に「できません」と言われた時、あなたはどうする？（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/060500851/?d05</link>
-			<description><![CDATA[　「世の中の男性管理職に、声を大にして言いたいことがあるんですよ」。ある企業でIT部門を統括する女性役員に取材したときのことだ。ひょんなことから男性と女性の仕事に対する考え方の違いに話題が移った。]]></description>
-			<pubDate>Thu, 08 Jun 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>情報処理安全確保支援士試験、受験してみてネガティブ意見にもの申す（編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/062900038/</link>
-			<description><![CDATA[　筆者は4月16日、情報処理安全確保支援士試験を受験した。自信がなかったので合格発表は見ないぐらいのつもりだったが、やはり気になって発表とほぼ同時にサイトで確認した。結果はといえば、なんとか合格していた。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Wi-Fiの「つながらない！」「遅い！」を解消しよう（速くて切れないWi-Fi）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061900247/062100003/</link>
-			<description><![CDATA[　無線LANは電波が目に見えないことや、周囲の環境により通信の状態がかなり左右されやすいこともあり「つながらない」「つながりにくい」「遅い」といった問題が発生すると原因を特定しにくい。問題が発生したときは、まずは無線LANルーターや子機の設定を見直し、状況が改善するか試みてみよう。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>不正を暴く「資金の噴水」、送金先を可視化（データ分析は芸術だ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700263/062700003/</link>
-			<description><![CDATA[　このアートの原題は、「Funding Fountains（資金の噴水）」。中国の大手銀行の依頼で、顧客企業の送金取引データを分析。送金取引の状況を可視化したものです。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>WELQ問題にも懲りないまとめサイト、続くいたちごっこ（WELQ問題の波紋）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070400273/070400001/</link>
-			<description><![CDATA[　ネット上の情報をまとめたキュレーションサイトを巡って、コンテンツの作り手と質の低い記事を減らそうとする事業者のいたちごっこが続いている。2017年2月、「質の低いサイトの検索順位を落とす」としてグーグルが検索アルゴリズムを変えたが、効果は限定的だ。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows版Linuxからいつもの「メモ帳」を起動しよう（どう使う？Windows版Linux）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700262/070300003/</link>
-			<description><![CDATA[　Windows版Liunxの「Windows Subsystem for Linux（WSL）」は、単なるLinux互換環境ではない。Linux環境を活用しながら、テキストファイルをWindowsの「メモ帳」などで編集する、といった使い分けが可能だ。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>VR販促でマンション成約率を10ポイント改善（VR最新事例）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900268/063000004/</link>
-			<description><![CDATA[　大和ハウス工業が手掛ける沖縄県豊見城市の分譲マンションだ。全2棟204戸のうち、2016年9月から始まった2棟目の販売でVRを使ったところ、成約率（歩留まり）が1棟目の約25％から35％程度まで高まったという]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>雑誌休刊前にアスクル社長に尋ねたかった火災からの復活、その答えとは？（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062700867/</link>
-			<description><![CDATA[　アスクルは2017年2月、BtoC事業「LOHACO（ロハコ）」の主力物流センターで火災が発生し、SCM（サプライチェーン管理）が機能不全に陥った。岩田彰一郎代表取締役社長兼CEO（最高経営責任者）はSCMの立て直しに奔走。3月の会見で宣言した「ロハコの9月末、完全復活」はなるか。岩田社長を直撃した。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>第19話  「転職の神殿」に行く…のはまだ早い！？（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/051200030/</link>
-			<description><![CDATA[　誰でも一度は、転職を考えたことがあるだろう。だが、安易な転職はリスクを伴う。とりわけ短期間での転職は、自分のキャリアやスキルダウンになることもあり、そもそも相手に受け入れてもらえない可能性が高い。とはいえ、転職を検討することで自分に足りないものを見い出すなど気付きも得られる。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ハイパーコンバージドで出遅れたレッドハット、ニュータニックスに対抗できるか（北川 賢一のIT業界乱反射）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800200/070300022/</link>
 			<description><![CDATA[　サーバー市場が伸び悩むなかで、つい3四半期前まで倍々ゲームで伸長してきたサーバー分野がある。「ハイパーコンバージドシステム」がそれだ。米ニュータニックスがこの市場のリーダーと目されている。この急成長市場にオープンソースソリューションのプロバイダーである米レッドハットが進出すると2017年6月末に発表した。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>グーグルがOffice 365に挑戦状、働き方改革へG Suite強化（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070401046/</link>
-			<description><![CDATA[　グーグルが日本でクラウド型グループウエア「G Suite」の巻き返しに動き出した。業務支援機能を強化し、ホワイトカラーの定型作業を効率化する。働き方改革の機運が高まる日本で、「Office 365」を擁しシェア首位の日本マイクロソフトに挑む。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>米欧中では過熱する量子コンピュータ投資、見劣りする日本（量子コンピュータ頂上決戦）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900267/062900002/</link>
-			<description><![CDATA[　米国で量子コンピュータの研究に多額の投資が集まり始めた。量子コンピュータのスタートアップ企業である米リゲッティ・コンピューティングは2017年3月に6400万ドル（約70億円）の資金調達に成功した。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>アマゾンは何と戦っているのか（クロサカタツヤ 業界の先を読むICT千里眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/360592/062900040/</link>
-			<description><![CDATA[　米アマゾン・ドット・コムが、自然・有機食品小売り大手の米ホールフーズ・マーケットを、総額137億ドルで買収すると発表した。ホールフーズは2015年時点で合計400を超える店舗を擁し、消費者から多くの支持を集めるグルメ・オーガニックフード販売店の一大ブランドである。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>BBルーターが不正アドレス配布、MACアドレスたどり機器特定（ネットワークトラブル奮闘記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000248/062000003/</link>
-			<description><![CDATA[　管理者が気付かないうちに、不正なDHCP応答をばらまくDHCPサーバーが稼働していた。ネットワーク機器のMACアドレステーブルなどを丹念に調べ、原因を特定した。]]></description>
 			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,9 +17,27 @@
 			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>カメラとしてのiPhoneを確固たるものにするiOS 11の進化（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/070400049/</link>
-			<description><![CDATA[　米アップルは「WWDC 2017」で発表したiPhone/iPad向けの次期ソフトウエア「iOS 11」のパブリックプレビュー版を公開した。あくまで自己責任で使う必要があるが、秋にリリースされるソフトウエア体験を先取りできる。]]></description>
+			<title>BBルーターが不正アドレス配布、MACアドレスたどり機器特定（ネットワークトラブル奮闘記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000248/062000003/</link>
+			<description><![CDATA[　管理者が気付かないうちに、不正なDHCP応答をばらまくDHCPサーバーが稼働していた。ネットワーク機器のMACアドレステーブルなどを丹念に調べ、原因を特定した。]]></description>
+			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>アマゾンは何と戦っているのか（クロサカタツヤ 業界の先を読むICT千里眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/360592/062900040/</link>
+			<description><![CDATA[　米アマゾン・ドット・コムが、自然・有機食品小売り大手の米ホールフーズ・マーケットを、総額137億ドルで買収すると発表した。ホールフーズは2015年時点で合計400を超える店舗を擁し、消費者から多くの支持を集めるグルメ・オーガニックフード販売店の一大ブランドである。]]></description>
+			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>米欧中では過熱する量子コンピュータ投資、見劣りする日本（量子コンピュータ頂上決戦）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900267/062900002/</link>
+			<description><![CDATA[　米国で量子コンピュータの研究に多額の投資が集まり始めた。量子コンピュータのスタートアップ企業である米リゲッティ・コンピューティングは2017年3月に6400万ドル（約70億円）の資金調達に成功した。]]></description>
+			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>グーグルがOffice 365に挑戦状、働き方改革へG Suite強化（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070401046/</link>
+			<description><![CDATA[　グーグルが日本でクラウド型グループウエア「G Suite」の巻き返しに動き出した。業務支援機能を強化し、ホワイトカラーの定型作業を効率化する。働き方改革の機運が高まる日本で、「Office 365」を擁しシェア首位の日本マイクロソフトに挑む。]]></description>
 			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -107,91 +47,58 @@
 			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ベストプラクティスでIT部門を失敗に導く方法（中）（ベストプラクティスでIT部門を失敗に導く方法）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/062700049/062700002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　業界で「ベストプラクティス」と称されている手法を取り入れたことが、IT部門にとって失敗につながるケースは多々ある。恐らくは、その仕事を初めて手がける人が、うかつに取り入れてしまうケースだ。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/062700049/062700001/" target="_blank">前回</a>から続く）</p>
-
-<h4>5：投資対効果を強く要求する</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/062700049/062700002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　重要なプロジェクトに予算を回したくないのなら、ITガバナンスの手続き上、金銭的に明確な投資対効果が必要だと主張するとよい。そうすれば、衰退への道を進むのはほぼ確実だ。業務部門の成果の質とスピードを高めるテクノロジーには資金が投じられないし、顧客満足度の向上につながるプロジェクト（売上アップと営業コスト削減につながるが、それをIT部門が実証できないもの）は、それを提案した者と共に、幹部から物笑いの種になる。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/062700049/062700002/?ST=cio-management&P=2">6：ITプロジェクトにチャーターを策定する</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/062700049/062700002/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/062700049/062700002/?ST=cio-management&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/062700049/062700002/?ST=cio-management&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/062700049/062700002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 05 Jul 2017 06:00:00 +0900</pubDate>
+			<title>第19話  「転職の神殿」に行く…のはまだ早い！？（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/051200030/</link>
+			<description><![CDATA[　誰でも一度は、転職を考えたことがあるだろう。だが、安易な転職はリスクを伴う。とりわけ短期間での転職は、自分のキャリアやスキルダウンになることもあり、そもそも相手に受け入れてもらえない可能性が高い。とはいえ、転職を検討することで自分に足りないものを見い出すなど気付きも得られる。]]></description>
+			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>量子コンピューティングの新手法、カナダの研究チームが開発（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/070500390/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　量子コンピューティングの主要な構成要素を、独自のフォトニクスチップと通信機器用の既製部品を使って実現する新たな手法を、カナダの研究チームが考案した。</p>
-
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/070500390/ph01.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: IBM Research</div>
-</div>
-
-<p>　この研究チームが開発したフォトニクスチップは、複数の色を重ね合わせた量子もつれ状態の光子のペアを生成できる。このペアは、2つの「qudit」（量子計算の情報の単位）として操作でき、それぞれが10個の値を取ることができる。</p>
-
-<p>　古典コンピュータは複数の値に対して順番に操作を行う。一方、量子コンピュータは、変数が取り得るすべての値を同時に表すことができ、計算の最後で「正解」に収束する。コンピューティングのすべての問題にこの手法が役立つわけではないが、さまざまな形式の暗号化を解読する際に必要となる、大きな数の因数分解では特に有効だ。</p>
-
-<p>　量子コンピュータの基盤として値を保持する要素は、本質的に不安定で、連携して機能させるためには、もつれ（エンタングルメント）というプロセスで結び付ける必要がある。計算を実行する間、すべてをもつれ状態に維持して機能させるのは、要素の数が増えるほど難しくなる。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/070500390/?ST=cm-hardware&P=2">量子計算の要素のうちで最も基本的なのは、2次元の量子ビットで、2...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/070500390/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/070500390/?ST=cm-hardware&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/070500390/?ST=cm-hardware&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/070500390/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 05 Jul 2017 10:25:26 +0900</pubDate>
+			<title>雑誌休刊前にアスクル社長に尋ねたかった火災からの復活、その答えとは？（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062700867/</link>
+			<description><![CDATA[　アスクルは2017年2月、BtoC事業「LOHACO（ロハコ）」の主力物流センターで火災が発生し、SCM（サプライチェーン管理）が機能不全に陥った。岩田彰一郎代表取締役社長兼CEO（最高経営責任者）はSCMの立て直しに奔走。3月の会見で宣言した「ロハコの9月末、完全復活」はなるか。岩田社長を直撃した。]]></description>
+			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>NECが働き方を“可視化”するサービス、1ID当たり月額500円（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070501845/</link>
-			<description><![CDATA[　NECは2017年7月5日、クラウド活用して社員の就労状況を可視化する「働き方見える化サービス」を開始した。勤務申請・承認といったワークフローや、社員の在席情報の確認、実際の勤務実態のグラフ表示などができる。]]></description>
-			<pubDate>Wed, 05 Jul 2017 11:00:00 +0900</pubDate>
+			<title>VR販促でマンション成約率を10ポイント改善（VR最新事例）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900268/063000004/</link>
+			<description><![CDATA[　大和ハウス工業が手掛ける沖縄県豊見城市の分譲マンションだ。全2棟204戸のうち、2016年9月から始まった2棟目の販売でVRを使ったところ、成約率（歩留まり）が1棟目の約25％から35％程度まで高まったという]]></description>
+			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>CCJグループのケーブルテレビ3社が地域BWAの免許を取得（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070501846/</link>
-			<description><![CDATA[　CCJグループのケーブルテレビ3社は、相次いで地域BWAの免許を取得した。]]></description>
-			<pubDate>Wed, 05 Jul 2017 11:43:33 +0900</pubDate>
+			<title>Windows版Linuxからいつもの「メモ帳」を起動しよう（どう使う？Windows版Linux）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700262/070300003/</link>
+			<description><![CDATA[　Windows版Liunxの「Windows Subsystem for Linux（WSL）」は、単なるLinux互換環境ではない。Linux環境を活用しながら、テキストファイルをWindowsの「メモ帳」などで編集する、といった使い分けが可能だ。]]></description>
+			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「コマツは自ら破壊的イノベーションを起こす」、コマツの野路会長（IT Japan 2017 速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070500001/</link>
-			<description><![CDATA[　「破壊的イノベーションは異業種から起こることが多いが、コマツは自ら破壊していく」――。2017年7月5日、都内で開催された「IT Japan 2017」（日経BP社主催）の基調講演に、コマツの野路國夫会長が登壇した。]]></description>
-			<pubDate>Wed, 05 Jul 2017 13:21:51 +0900</pubDate>
+			<title>WELQ問題にも懲りないまとめサイト、続くいたちごっこ（WELQ問題の波紋）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070400273/070400001/</link>
+			<description><![CDATA[　ネット上の情報をまとめたキュレーションサイトを巡って、コンテンツの作り手と質の低い記事を減らそうとする事業者のいたちごっこが続いている。2017年2月、「質の低いサイトの検索順位を落とす」としてグーグルが検索アルゴリズムを変えたが、効果は限定的だ。]]></description>
+			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>不正を暴く「資金の噴水」、送金先を可視化（データ分析は芸術だ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700263/062700003/</link>
+			<description><![CDATA[　このアートの原題は、「Funding Fountains（資金の噴水）」。中国の大手銀行の依頼で、顧客企業の送金取引データを分析。送金取引の状況を可視化したものです。]]></description>
+			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Wi-Fiの「つながらない！」「遅い！」を解消しよう（速くて切れないWi-Fi）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061900247/062100003/</link>
+			<description><![CDATA[　無線LANは電波が目に見えないことや、周囲の環境により通信の状態がかなり左右されやすいこともあり「つながらない」「つながりにくい」「遅い」といった問題が発生すると原因を特定しにくい。問題が発生したときは、まずは無線LANルーターや子機の設定を見直し、状況が改善するか試みてみよう。]]></description>
+			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>情報処理安全確保支援士試験、受験してみてネガティブ意見にもの申す（編集長の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/062900038/</link>
+			<description><![CDATA[　筆者は4月16日、情報処理安全確保支援士試験を受験した。自信がなかったので合格発表は見ないぐらいのつもりだったが、やはり気になって発表とほぼ同時にサイトで確認した。結果はといえば、なんとか合格していた。]]></description>
+			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>カメラとしてのiPhoneを確固たるものにするiOS 11の進化（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/070400049/</link>
+			<description><![CDATA[　米アップルは「WWDC 2017」で発表したiPhone/iPad向けの次期ソフトウエア「iOS 11」のパブリックプレビュー版を公開した。あくまで自己責任で使う必要があるが、秋にリリースされるソフトウエア体験を先取りできる。]]></description>
+			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>バッファロー、HDD故障予測サービス「みまもり合図」を無償提供（ニュース）</title>
@@ -289,6 +196,102 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070500010/</link>
 			<description><![CDATA[　「当社が採用した新卒8人のうち、7人は外国籍だ」ーー。2017年7月5日、「IT Japan 2017」（日経BP社主催）で登壇したHDEの小椋一宏代表取締役社長は、同社の人材獲得がグローバルに展開している現状を明かした。]]></description>
 			<pubDate>Wed, 05 Jul 2017 21:09:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>クラウドソーシングの反省、WELQ問題再発を防げるか（WELQ問題の波紋）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070400273/070500002/</link>
+			<description><![CDATA[　低質なまとめ記事を量産する場の一つとなっていたのがクラウドソーシングだ。クラウドソーシングサービス最大手のクラウドワークスとランサーズはWELQ問題の発覚後、相次いで品質改善策を打ち出した。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>量子コンピュータ実用化は目前、有識者が示す普及への道（量子コンピュータ頂上決戦）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900267/070400003/</link>
+			<description><![CDATA[　量子コンピュータの学会「Adiabatic Quantum Computing Conference 2017（AQC 2017）」が2017年6月26日～29日、リクルートホールディングス本社（東京・千代田）で開催された。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>途上国を悩ます「貧困の根源」の根絶に挑む（出でよ！PeaceTechイノベーター）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200062/061200010/</link>
+			<description><![CDATA[　平和のためのテクノロジー利用である「PeaceTech」を体現している日本人経営者、7人目のゲストは原丈人氏だ。貧困の原因となる食料から教育、金融制度まで総合的な支援活動を推進する。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>“55歳ショック”の緩和を狙う富士通、50代SEを集めて新会社（どうする？50代SE）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200254/070500004/</link>
+			<description><![CDATA[　富士通は2015年10月、SI事業で管理職を務めた55歳以上のSEを集めた新会社「富士通クオリティ＆ウィズダム（FJQW）」を設立した。富士通本体の人事制度とは独立した“特区”として新会社を設立して、今までより55歳以上のSEを厚遇できる場を作った。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「WindowsでX」、定番GUIがWindows版Linuxで動く（どう使う？Windows版Linux）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700262/070400004/</link>
+			<description><![CDATA[　米マイクロソフト純正のLinux互換環境「Windows Subsystem for Linux」の主目的は、Linuxを使ったシステム開発に携わるWindowsユーザーの支援。このため標準ではGUI環境を含まない。しかしLinux「互換」だけに、GUIツールの利用も可能だ。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>平均寿命3年のハードディスク、故障予知サービスで買い替え進むか（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070401045/</link>
+			<description><![CDATA[　壊れかけのハードディスクに引導を渡す。そんなサービスが登場した。バッファローが7月5日に提供を始めた「みまもり合図」は、ハードディスクの状態をクラウドで監視して故障を予測。ユーザーにバックアップやデータ移行を促す。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Java SE 9のライブラリ、java.langパッケージの新機能（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/063000042/</link>
+			<description><![CDATA[　今回は、java.baseモジュールの中でもJavaのライブラリのベースとなる「java.lang」パッケージの新機能、文字列処理の効率化と「Process API」について紹介します。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>利用したがっているのは誰？「060」見直しで憶測広がる（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070401047/</link>
+			<description><![CDATA[　総務省は2017年6月23日、「060」で始まる電話番号に関する規則などを改正する省令案を公表した。「060番号が携帯電話に開放される」という認識が広がっているが、厳密には開放が決まったわけではない。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>音声認識は世界を変えるのか？ サービス提供者が討論（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/070400258/</link>
+			<description><![CDATA[　2017年6月29日、イベント「Smartphone and Beyond 2017」が大阪市内で開催された。同イベントは“注目技術とスマートフォンの連携によって生み出される近未来を展望する”ことをテーマとし、今回は話題の音声認識技術を取り上げた。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>新たな脅威？リンクにマウスを当てると感染するウイルスが出現（今日も誰かが狙われる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/070400006/</link>
+			<description><![CDATA[　2017年6月中旬、セキュリティベンダーなどは、新たな感染手法を持つウイルスが出現したとして注意を呼びかけた。攻撃者が送ってきたファイル中のリンクにマウスカーソルを当てるとウイルスに感染にするというのだ。だが、慌てる必要はない。マウスカーソルを当てる“だけ”では決して感染しないからだ。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>速度が遅いWi-Fiをもっと速くするコツ（速くて切れないWi-Fi）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061900247/062600004/</link>
+			<description><![CDATA[　無線LANは電波が目に見えないため、速度低下の原因をつかみにくい。そこで今回は、原因を探るためにチェックすべきポイントを整理していく。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「クラウド導入の銭失い」を脱する、これでコストは3割削れる！（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062900873/</link>
+			<description><![CDATA[　クラウドを導入したユーザー企業への取材で、欠かせないテーマがコストだ。パブリッククラウドの場合、オンプレミス（自社所有）環境と比べて初期投資額が抑えやすく、空調設備などを自前で整える必要も無い。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>作品名は「嵐の目」、サッチャー英元首相をめぐるネット炎上（データ分析は芸術だ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700263/062700004/</link>
+			<description><![CDATA[　このアートのタイトルは「Eye Of The Storm（嵐の目）」。サッチャー支持派と、サッチャー反対派が互いにツイート攻撃する様子を、アナリティクスで可視化したものです。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>VRが「一生に一度の買い物」の迷いを払う（VR最新事例）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900268/063000005/</link>
+			<description><![CDATA[　不動産情報サービス大手のLIFULL（ライフル、旧ネクスト）は住宅メーカーなどに向け、VRを使った建て売り住宅の販促支援ツール「GRID VRICK」を開発、2016年5月から提供を始めた。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>パケットが遠回りして遅くなる、通信を徹底分析して解決（ネットワークトラブル奮闘記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000248/062000004/</link>
+			<description><![CDATA[　社内ネットワークが遅いという不具合が発生した。ネットワークコマンドやパケットキャプチャーを実行して、不具合の原因を突き止めた。原因は無線LANアクセスポイントだった。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>SELinuxのセキュリティ設定を理解する3つのポイント（IoT時代の最新SELinux入門）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052600005/</link>
+			<description><![CDATA[　前回までに試したように、SELinuxによってアクセスが拒否されて初めてSELinuxが役に立っていると分かるケースが大半です。そこで、今回から、あらかじめSELinuxの効果を把握しておく方法を紹介していきます。まずは前提知識として、セキュリティポリシーの構成要素を解説します。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
