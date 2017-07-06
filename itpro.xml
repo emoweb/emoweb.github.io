@@ -5,108 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Windows版Linuxからいつもの「メモ帳」を起動しよう（どう使う？Windows版Linux）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700262/070300003/</link>
-			<description><![CDATA[　Windows版Liunxの「Windows Subsystem for Linux（WSL）」は、単なるLinux互換環境ではない。Linux環境を活用しながら、テキストファイルをWindowsの「メモ帳」などで編集する、といった使い分けが可能だ。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ハイパーコンバージドで出遅れたレッドハット、ニュータニックスに対抗できるか（北川 賢一のIT業界乱反射）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800200/070300022/</link>
-			<description><![CDATA[　サーバー市場が伸び悩むなかで、つい3四半期前まで倍々ゲームで伸長してきたサーバー分野がある。「ハイパーコンバージドシステム」がそれだ。米ニュータニックスがこの市場のリーダーと目されている。この急成長市場にオープンソースソリューションのプロバイダーである米レッドハットが進出すると2017年6月末に発表した。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「藤井聡太4段はAIネイティブ世代だ」、人工知能学会長の山田誠二氏（インタビュー＆トーク）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/070400339/</link>
-			<description><![CDATA[　AIブームはますます過熱している。期待が高まる一方で誤解も見られるようになってきた。ブームに踊らされずにビジネスで活用する上でのポイントは何か。国立情報学研究所教授で人工知能学会長を務める山田誠二氏に話を聞いた。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>BBルーターが不正アドレス配布、MACアドレスたどり機器特定（ネットワークトラブル奮闘記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000248/062000003/</link>
-			<description><![CDATA[　管理者が気付かないうちに、不正なDHCP応答をばらまくDHCPサーバーが稼働していた。ネットワーク機器のMACアドレステーブルなどを丹念に調べ、原因を特定した。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>アマゾンは何と戦っているのか（クロサカタツヤ 業界の先を読むICT千里眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/360592/062900040/</link>
-			<description><![CDATA[　米アマゾン・ドット・コムが、自然・有機食品小売り大手の米ホールフーズ・マーケットを、総額137億ドルで買収すると発表した。ホールフーズは2015年時点で合計400を超える店舗を擁し、消費者から多くの支持を集めるグルメ・オーガニックフード販売店の一大ブランドである。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>米欧中では過熱する量子コンピュータ投資、見劣りする日本（量子コンピュータ頂上決戦）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900267/062900002/</link>
-			<description><![CDATA[　米国で量子コンピュータの研究に多額の投資が集まり始めた。量子コンピュータのスタートアップ企業である米リゲッティ・コンピューティングは2017年3月に6400万ドル（約70億円）の資金調達に成功した。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>グーグルがOffice 365に挑戦状、働き方改革へG Suite強化（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070401046/</link>
-			<description><![CDATA[　グーグルが日本でクラウド型グループウエア「G Suite」の巻き返しに動き出した。業務支援機能を強化し、ホワイトカラーの定型作業を効率化する。働き方改革の機運が高まる日本で、「Office 365」を擁しシェア首位の日本マイクロソフトに挑む。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本勢が省エネスパコンで上位独占、AI開発に弾み（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070301043/</link>
-			<description><![CDATA[　スーパーコンピュータの省エネ性能ランキング「Green500」が2017年6月19日に発表され、日本勢が首位～4位までを独占した。いずれもディープラーニング（深層学習）をはじめとしたAI（人工知能）演算の用途を見据えたもの。企業が画像・音声認識や対話システムなどのAI技術を開発するうえで心強い味方になりそうだ。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>第19話  「転職の神殿」に行く…のはまだ早い！？（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/051200030/</link>
-			<description><![CDATA[　誰でも一度は、転職を考えたことがあるだろう。だが、安易な転職はリスクを伴う。とりわけ短期間での転職は、自分のキャリアやスキルダウンになることもあり、そもそも相手に受け入れてもらえない可能性が高い。とはいえ、転職を検討することで自分に足りないものを見い出すなど気付きも得られる。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>雑誌休刊前にアスクル社長に尋ねたかった火災からの復活、その答えとは？（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062700867/</link>
-			<description><![CDATA[　アスクルは2017年2月、BtoC事業「LOHACO（ロハコ）」の主力物流センターで火災が発生し、SCM（サプライチェーン管理）が機能不全に陥った。岩田彰一郎代表取締役社長兼CEO（最高経営責任者）はSCMの立て直しに奔走。3月の会見で宣言した「ロハコの9月末、完全復活」はなるか。岩田社長を直撃した。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>情報処理安全確保支援士試験、受験してみてネガティブ意見にもの申す（編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/062900038/</link>
-			<description><![CDATA[　筆者は4月16日、情報処理安全確保支援士試験を受験した。自信がなかったので合格発表は見ないぐらいのつもりだったが、やはり気になって発表とほぼ同時にサイトで確認した。結果はといえば、なんとか合格していた。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>カメラとしてのiPhoneを確固たるものにするiOS 11の進化（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/070400049/</link>
-			<description><![CDATA[　米アップルは「WWDC 2017」で発表したiPhone/iPad向けの次期ソフトウエア「iOS 11」のパブリックプレビュー版を公開した。あくまで自己責任で使う必要があるが、秋にリリースされるソフトウエア体験を先取りできる。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>WELQ問題にも懲りないまとめサイト、続くいたちごっこ（WELQ問題の波紋）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070400273/070400001/</link>
-			<description><![CDATA[　ネット上の情報をまとめたキュレーションサイトを巡って、コンテンツの作り手と質の低い記事を減らそうとする事業者のいたちごっこが続いている。2017年2月、「質の低いサイトの検索順位を落とす」としてグーグルが検索アルゴリズムを変えたが、効果は限定的だ。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>不正を暴く「資金の噴水」、送金先を可視化（データ分析は芸術だ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700263/062700003/</link>
-			<description><![CDATA[　このアートの原題は、「Funding Fountains（資金の噴水）」。中国の大手銀行の依頼で、顧客企業の送金取引データを分析。送金取引の状況を可視化したものです。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Wi-Fiの「つながらない！」「遅い！」を解消しよう（速くて切れないWi-Fi）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061900247/062100003/</link>
-			<description><![CDATA[　無線LANは電波が目に見えないことや、周囲の環境により通信の状態がかなり左右されやすいこともあり「つながらない」「つながりにくい」「遅い」といった問題が発生すると原因を特定しにくい。問題が発生したときは、まずは無線LANルーターや子機の設定を見直し、状況が改善するか試みてみよう。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>VR販促でマンション成約率を10ポイント改善（VR最新事例）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900268/063000004/</link>
-			<description><![CDATA[　大和ハウス工業が手掛ける沖縄県豊見城市の分譲マンションだ。全2棟204戸のうち、2016年9月から始まった2棟目の販売でVRを使ったところ、成約率（歩留まり）が1棟目の約25％から35％程度まで高まったという]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「クラウドで日本の労働生産性を高める」、日本オラクルの杉原氏（IT Japan 2017 速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070500002/</link>
-			<description><![CDATA[　日本オラクルで取締役会長を務める杉原博茂氏は2017年7月5日、「IT Japan 2017」で講演し、労働生産性を高める手段としてのクラウドサービスについて解説した。 ]]></description>
-			<pubDate>Wed, 05 Jul 2017 14:41:59 +0900</pubDate>
-		</item>
-		<item>
 			<title>AIで悪質案件を検出、クラウドワークスがWELQ問題で対策（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070501847/</link>
 			<description><![CDATA[　クラウドソーシング大手のクラウドワークスが悪質な業務依頼案件を人工知能（AI）で自動検知する仕組みを導入することが2017年7月5日、日経コンピュータの取材で分かった。独自開発した機械学習エンジンを使い、利用規約違反や報酬が極端に低い案件を9割の精度で自動検出。人間の目視も組み合わせて削除する。]]></description>
@@ -126,15 +24,15 @@
 			<pubDate>Wed, 05 Jul 2017 16:22:23 +0900</pubDate>
 		</item>
 		<item>
-			<title>IoT端末使い外出先で救急対応、セコムが新サービス（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070501849/</link>
-			<description><![CDATA[　セコムは2017年7月5日、リストバンド型のIoT端末を使って救急対応サービスなどを提供する「セコム・マイドクターウォッチ」を同年7月7日に開始すると発表した。]]></description>
-			<pubDate>Wed, 05 Jul 2017 17:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ファーウェイが初のノートPC「MateBook X」を発表、「価格競争よりイノベーションを」（ITpro Report）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/070500259/</link>
 			<description><![CDATA[　華為技術日本（ファーウェイ・ジャパン）は2017年7月4日、都内で新製品発表会を開催し、Windows PC製品「MateBook」シリーズの新モデルを発表した。]]></description>
+			<pubDate>Wed, 05 Jul 2017 17:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IoT端末使い外出先で救急対応、セコムが新サービス（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070501849/</link>
+			<description><![CDATA[　セコムは2017年7月5日、リストバンド型のIoT端末を使って救急対応サービスなどを提供する「セコム・マイドクターウォッチ」を同年7月7日に開始すると発表した。]]></description>
 			<pubDate>Wed, 05 Jul 2017 17:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -201,6 +99,12 @@
 			<title>クラウドソーシングの反省、WELQ問題再発を防げるか（WELQ問題の波紋）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070400273/070500002/</link>
 			<description><![CDATA[　低質なまとめ記事を量産する場の一つとなっていたのがクラウドソーシングだ。クラウドソーシングサービス最大手のクラウドワークスとランサーズはWELQ問題の発覚後、相次いで品質改善策を打ち出した。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>SELinuxのセキュリティ設定を理解する3つのポイント（IoT時代の最新SELinux入門）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052600005/</link>
+			<description><![CDATA[　前回までに試したように、SELinuxによってアクセスが拒否されて初めてSELinuxが役に立っていると分かるケースが大半です。そこで、今回から、あらかじめSELinuxの効果を把握しておく方法を紹介していきます。まずは前提知識として、セキュリティポリシーの構成要素を解説します。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -282,12 +186,6 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>SELinuxのセキュリティ設定を理解する3つのポイント（IoT時代の最新SELinux入門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052600005/</link>
-			<description><![CDATA[　前回までに試したように、SELinuxによってアクセスが拒否されて初めてSELinuxが役に立っていると分かるケースが大半です。そこで、今回から、あらかじめSELinuxの効果を把握しておく方法を紹介していきます。まずは前提知識として、セキュリティポリシーの構成要素を解説します。]]></description>
-			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Symantecが目指すのはサイバーセキュリティ界のAmazon（後）（Symantecが目指すのはサイバーセキュリティ界のAmazon）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/062700050/062700002/</link>
 			<description><![CDATA[<div>
@@ -318,6 +216,41 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 06 Jul 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>欧州議会、修理しやすい電子機器の開発を促すための決議を採択（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/070600339/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　電子機器は簡単に修理できる丈夫な製品でなくてはならず、その促進や義務づけのための法令が必要である——欧州連合（EU）の欧州議会で現地時間2017年7月4日、そのような内容の決議が、賛成662、反対32で採択された。</p>
+
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/070600339/ph01.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Peter Sayer/IDG</div>
+</div>
+
+<p>　欧州議会としては、消費者向けの電子機器やソフトウエアの「計画的陳腐化」を終わらせたいと考えている。ITの普及に伴って、計画的陳腐化はビジネス手法としても広く使われている。</p>
+
+<p>　今回の決議の中には、韓国Samsung Electronicsのスマートフォン「Galaxy Note7」が起こした大失敗の再来を防ぐのに役立ちそうな内容もある。バッテリーは、安全上の理由で本体に固定せざるを得ない場合を除いて、着脱可能でなくてはならないという項目だ。数百万台に及ぶデバイス本体のリコールや修理ではなく、不具合があるバッテリーの交換だけで済んだとしたら、Samsungの仕事ははるかに単純になったはずだ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/070600339/?ST=cio-consumerit&P=2">また、本体が故障した時に、予備部品の調達や修理を...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/070600339/?ST=cio-consumerit&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/070600339/?ST=cio-consumerit&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/070600339/?ST=cio-consumerit&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/070600339/?ST=cio-consumerit&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 06 Jul 2017 10:11:24 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
