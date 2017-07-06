@@ -11,24 +11,6 @@
 			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「エッジを重視するIoTで世界の生産現場を支える」、ファナックの松原氏（IT Japan 2017 速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070500006/</link>
-			<description><![CDATA[　「ものづくりを日本から変える。これを合言葉に、製造現場の新しいインフラ作りを進めたい」――。2017年7月5日、「IT Japan 2017」（日経BP社主催）の特別講演に登壇したファナック 取締役専務執行役員の松原俊介研究統括本部長はこう述べた。同社は「IT Japan Award 2017」でグランプリを受賞している。]]></description>
-			<pubDate>Wed, 05 Jul 2017 17:39:01 +0900</pubDate>
-		</item>
-		<item>
-			<title>「いかにデジタルシフトするかを考える経営者が増えている」、日本ユニシスの齊藤CMO（IT Japan 2017 速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070500005/</link>
-			<description><![CDATA[　「いかにデジタルシフトしていくかを考える経営者が増えている」――。2017年7月5日、都内で開催された「IT Japan 2017」に日本ユニシスの齊藤昇常務執行役員 CMOが登壇した。]]></description>
-			<pubDate>Wed, 05 Jul 2017 18:11:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ドコモがキッザニアに「ロボット研究開発センター」、子供にロボットプログラミング体験（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070501853/</link>
-			<description><![CDATA[　NTTドコモは2017年7月5日、KCJ GROUPが運営する子供向け職業・社会体験施設「キッザニア」で7日から展開する新たなドコモパビリオン「ロボット研究開発センター」の見学会を開催した。ロボット研究開発センターはロボットプログラミングの体験施設。子供たちに研究・開発やプログラミングに興味・関心を持ってもらうことを狙う。キッザニア東京で7日から、キッザニア甲子園で7月10日から利用できる。]]></description>
-			<pubDate>Wed, 05 Jul 2017 19:03:00 +0900</pubDate>
-		</item>
-		<item>
 			<title> 「業務をITに置き換えるしかない」、NRI桑津氏（IT Japan 2017 速報）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070500009/</link>
 			<description><![CDATA[　「このままでは人口減で事業を継続できない。業務をITに置き換えるしかない」。こう話すのは野村総合研究所（NRI）の桑津浩太郎未来創発センター長研究理事だ。2017年7月5日に「IT Japan 2017」（日経BP社主催）で講演した。]]></description>
@@ -59,15 +41,33 @@
 			<pubDate>Wed, 05 Jul 2017 21:09:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>新たな脅威？リンクにマウスを当てると感染するウイルスが出現（今日も誰かが狙われる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/070400006/</link>
+			<description><![CDATA[　2017年6月中旬、セキュリティベンダーなどは、新たな感染手法を持つウイルスが出現したとして注意を呼びかけた。攻撃者が送ってきたファイル中のリンクにマウスカーソルを当てるとウイルスに感染にするというのだ。だが、慌てる必要はない。マウスカーソルを当てる“だけ”では決して感染しないからだ。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>作品名は「嵐の目」、サッチャー英元首相をめぐるネット炎上（データ分析は芸術だ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700263/062700004/</link>
+			<description><![CDATA[　このアートのタイトルは「Eye Of The Storm（嵐の目）」。サッチャー支持派と、サッチャー反対派が互いにツイート攻撃する様子を、アナリティクスで可視化したものです。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Java SE 9のライブラリ、java.langパッケージの新機能（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/063000042/</link>
+			<description><![CDATA[　今回は、java.baseモジュールの中でもJavaのライブラリのベースとなる「java.lang」パッケージの新機能、文字列処理の効率化と「Process API」について紹介します。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>クラウドソーシングの反省、WELQ問題再発を防げるか（WELQ問題の波紋）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070400273/070500002/</link>
 			<description><![CDATA[　低質なまとめ記事を量産する場の一つとなっていたのがクラウドソーシングだ。クラウドソーシングサービス最大手のクラウドワークスとランサーズはWELQ問題の発覚後、相次いで品質改善策を打ち出した。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>新たな脅威？リンクにマウスを当てると感染するウイルスが出現（今日も誰かが狙われる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/070400006/</link>
-			<description><![CDATA[　2017年6月中旬、セキュリティベンダーなどは、新たな感染手法を持つウイルスが出現したとして注意を呼びかけた。攻撃者が送ってきたファイル中のリンクにマウスカーソルを当てるとウイルスに感染にするというのだ。だが、慌てる必要はない。マウスカーソルを当てる“だけ”では決して感染しないからだ。]]></description>
+			<title>音声認識は世界を変えるのか？ サービス提供者が討論（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/070400258/</link>
+			<description><![CDATA[　2017年6月29日、イベント「Smartphone and Beyond 2017」が大阪市内で開催された。同イベントは“注目技術とスマートフォンの連携によって生み出される近未来を展望する”ことをテーマとし、今回は話題の音声認識技術を取り上げた。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,9 +89,9 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>利用したがっているのは誰？「060」見直しで憶測広がる（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070401047/</link>
-			<description><![CDATA[　総務省は2017年6月23日、「060」で始まる電話番号に関する規則などを改正する省令案を公表した。「060番号が携帯電話に開放される」という認識が広がっているが、厳密には開放が決まったわけではない。]]></description>
+			<title>「WindowsでX」、定番GUIがWindows版Linuxで動く（どう使う？Windows版Linux）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700262/070400004/</link>
+			<description><![CDATA[　米マイクロソフト純正のLinux互換環境「Windows Subsystem for Linux」の主目的は、Linuxを使ったシステム開発に携わるWindowsユーザーの支援。このため標準ではGUI環境を含まない。しかしLinux「互換」だけに、GUIツールの利用も可能だ。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,9 +101,9 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>音声認識は世界を変えるのか？ サービス提供者が討論（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/070400258/</link>
-			<description><![CDATA[　2017年6月29日、イベント「Smartphone and Beyond 2017」が大阪市内で開催された。同イベントは“注目技術とスマートフォンの連携によって生み出される近未来を展望する”ことをテーマとし、今回は話題の音声認識技術を取り上げた。]]></description>
+			<title>平均寿命3年のハードディスク、故障予知サービスで買い替え進むか（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070401045/</link>
+			<description><![CDATA[　壊れかけのハードディスクに引導を渡す。そんなサービスが登場した。バッファローが7月5日に提供を始めた「みまもり合図」は、ハードディスクの状態をクラウドで監視して故障を予測。ユーザーにバックアップやデータ移行を促す。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -131,27 +131,9 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「WindowsでX」、定番GUIがWindows版Linuxで動く（どう使う？Windows版Linux）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700262/070400004/</link>
-			<description><![CDATA[　米マイクロソフト純正のLinux互換環境「Windows Subsystem for Linux」の主目的は、Linuxを使ったシステム開発に携わるWindowsユーザーの支援。このため標準ではGUI環境を含まない。しかしLinux「互換」だけに、GUIツールの利用も可能だ。]]></description>
-			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>平均寿命3年のハードディスク、故障予知サービスで買い替え進むか（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070401045/</link>
-			<description><![CDATA[　壊れかけのハードディスクに引導を渡す。そんなサービスが登場した。バッファローが7月5日に提供を始めた「みまもり合図」は、ハードディスクの状態をクラウドで監視して故障を予測。ユーザーにバックアップやデータ移行を促す。]]></description>
-			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>作品名は「嵐の目」、サッチャー英元首相をめぐるネット炎上（データ分析は芸術だ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700263/062700004/</link>
-			<description><![CDATA[　このアートのタイトルは「Eye Of The Storm（嵐の目）」。サッチャー支持派と、サッチャー反対派が互いにツイート攻撃する様子を、アナリティクスで可視化したものです。]]></description>
-			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Java SE 9のライブラリ、java.langパッケージの新機能（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/063000042/</link>
-			<description><![CDATA[　今回は、java.baseモジュールの中でもJavaのライブラリのベースとなる「java.lang」パッケージの新機能、文字列処理の効率化と「Process API」について紹介します。]]></description>
+			<title>利用したがっているのは誰？「060」見直しで憶測広がる（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070401047/</link>
+			<description><![CDATA[　総務省は2017年6月23日、「060」で始まる電話番号に関する規則などを改正する省令案を公表した。「060番号が携帯電話に開放される」という認識が広がっているが、厳密には開放が決まったわけではない。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -258,6 +240,25 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070601860/</link>
 			<description><![CDATA[　WOWOWは2017年7月6日、同社の子会社であるIMAGICAティーヴィの社名および運営チャンネルの名称を10月1日に変更すると発表した。]]></description>
 			<pubDate>Thu, 06 Jul 2017 17:05:28 +0900</pubDate>
+		</item>
+		<item>
+			<title>「AIは労働者を、ブロックチェーンは管理者を代替する」、早稲田大学の野口悠紀雄氏（IT Japan 2017 速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070600012/</link>
+			<description><![CDATA[　「人工知能（AI）は労働者を、ブロックチェーンは管理者を代替する」――。2017年7月6日、「IT Japan 2017」（日経BP社主催）の基調講演に立った野口悠紀雄氏はこのように述べ、普及しつつあるブロックチェーンの特徴を解説した。野口氏は、早稲田大学ファイナンス総合研究所顧問や一橋大学名誉教授を務めている。]]></description>
+			<pubDate>Thu, 06 Jul 2017 20:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>サッポロがNRIのAI導入、社内の問い合わせ対応を45％削減（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070601861/</link>
+			<description><![CDATA[　サッポロホールディングスは、野村総合研究所（NRI）の人工知能（AI）システム「TRAINA（トレイナ）」を同年末までに本格導入する。間接部門に対するグループ内からの問い合わせ対応をAIに代行させる。実証実験では問い合わせの45％をAIが回答できることを確認した。]]></description>
+			<pubDate>Thu, 06 Jul 2017 20:51:22 +0900</pubDate>
+		</item>
+		<item>
+			<title>残業ゼロも売上アップも譲らない、ランクアップの岩崎裕美子氏（IT Japan 2017 速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070600015/</link>
+			<description><![CDATA[　社員はほぼ全員残業ゼロ。それにもかかわらず、2005年に創業して以来、2006年から10年間、売上が右肩上がりの会社がある。化粧品会社のランクアップだ。2017年7月6日に開催された「IT Japan 2017」に同社の岩崎裕美子代表取締役が登壇。「社員が残業しない」会社を作った経緯と、売上高を伸ばし続けられた秘訣について語った。
+]]></description>
+			<pubDate>Thu, 06 Jul 2017 21:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
