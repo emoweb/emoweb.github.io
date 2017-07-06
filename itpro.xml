@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>赤外線カメラで暗闇も見えるHMD、ドローン専業のスカイロボットが開発（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070501850/</link>
-			<description><![CDATA[　産業用ドローンを手がけるスカイロボットは2017年7月5日、赤外線カメラ付きのヘッド・マウント・ディスプレイ（HMD）「Boson/スカイスカウターIR」を発表した。暗視が可能な超小型赤外線カメラを搭載しつつ、頭に装着する機材の重量を285gに抑えた。警備や警察・消防などでの採用を狙う。]]></description>
-			<pubDate>Wed, 05 Jul 2017 16:09:28 +0900</pubDate>
-		</item>
-		<item>
 			<title>「AI/IoT時代の脅威に従来・先進手法の融合で対処」、トレンドマイクロの大三川氏（IT Japan 2017 速報）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070500004/</link>
 			<description><![CDATA[　トレンドマイクロで取締役副社長を務める大三川彰彦氏は2017年7月5日、「IT Japan 2017」で講演し、日本のセキュリティの実態と、企業に必要な防御策について解説した。
@@ -18,15 +12,15 @@
 			<pubDate>Wed, 05 Jul 2017 16:22:23 +0900</pubDate>
 		</item>
 		<item>
-			<title>IoT端末使い外出先で救急対応、セコムが新サービス（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070501849/</link>
-			<description><![CDATA[　セコムは2017年7月5日、リストバンド型のIoT端末を使って救急対応サービスなどを提供する「セコム・マイドクターウォッチ」を同年7月7日に開始すると発表した。]]></description>
-			<pubDate>Wed, 05 Jul 2017 17:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ファーウェイが初のノートPC「MateBook X」を発表、「価格競争よりイノベーションを」（ITpro Report）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/070500259/</link>
 			<description><![CDATA[　華為技術日本（ファーウェイ・ジャパン）は2017年7月4日、都内で新製品発表会を開催し、Windows PC製品「MateBook」シリーズの新モデルを発表した。]]></description>
+			<pubDate>Wed, 05 Jul 2017 17:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IoT端末使い外出先で救急対応、セコムが新サービス（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070501849/</link>
+			<description><![CDATA[　セコムは2017年7月5日、リストバンド型のIoT端末を使って救急対応サービスなどを提供する「セコム・マイドクターウォッチ」を同年7月7日に開始すると発表した。]]></description>
 			<pubDate>Wed, 05 Jul 2017 17:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -90,21 +84,27 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>VRが「一生に一度の買い物」の迷いを払う（VR最新事例）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900268/063000005/</link>
+			<description><![CDATA[　不動産情報サービス大手のLIFULL（ライフル、旧ネクスト）は住宅メーカーなどに向け、VRを使った建て売り住宅の販促支援ツール「GRID VRICK」を開発、2016年5月から提供を始めた。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>“55歳ショック”の緩和を狙う富士通、50代SEを集めて新会社（どうする？50代SE）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200254/070500004/</link>
 			<description><![CDATA[　富士通は2015年10月、SI事業で管理職を務めた55歳以上のSEを集めた新会社「富士通クオリティ＆ウィズダム（FJQW）」を設立した。富士通本体の人事制度とは独立した“特区”として新会社を設立して、今までより55歳以上のSEを厚遇できる場を作った。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>SELinuxのセキュリティ設定を理解する3つのポイント（IoT時代の最新SELinux入門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052600005/</link>
-			<description><![CDATA[　前回までに試したように、SELinuxによってアクセスが拒否されて初めてSELinuxが役に立っていると分かるケースが大半です。そこで、今回から、あらかじめSELinuxの効果を把握しておく方法を紹介していきます。まずは前提知識として、セキュリティポリシーの構成要素を解説します。]]></description>
+			<title>「クラウド導入の銭失い」を脱する、これでコストは3割削れる！（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062900873/</link>
+			<description><![CDATA[　クラウドを導入したユーザー企業への取材で、欠かせないテーマがコストだ。パブリッククラウドの場合、オンプレミス（自社所有）環境と比べて初期投資額が抑えやすく、空調設備などを自前で整える必要も無い。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>VRが「一生に一度の買い物」の迷いを払う（VR最新事例）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900268/063000005/</link>
-			<description><![CDATA[　不動産情報サービス大手のLIFULL（ライフル、旧ネクスト）は住宅メーカーなどに向け、VRを使った建て売り住宅の販促支援ツール「GRID VRICK」を開発、2016年5月から提供を始めた。]]></description>
+			<title>Java SE 9のライブラリ、java.langパッケージの新機能（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/063000042/</link>
+			<description><![CDATA[　今回は、java.baseモジュールの中でもJavaのライブラリのベースとなる「java.lang」パッケージの新機能、文字列処理の効率化と「Process API」について紹介します。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -168,15 +168,9 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「クラウド導入の銭失い」を脱する、これでコストは3割削れる！（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062900873/</link>
-			<description><![CDATA[　クラウドを導入したユーザー企業への取材で、欠かせないテーマがコストだ。パブリッククラウドの場合、オンプレミス（自社所有）環境と比べて初期投資額が抑えやすく、空調設備などを自前で整える必要も無い。]]></description>
-			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Java SE 9のライブラリ、java.langパッケージの新機能（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/063000042/</link>
-			<description><![CDATA[　今回は、java.baseモジュールの中でもJavaのライブラリのベースとなる「java.lang」パッケージの新機能、文字列処理の効率化と「Process API」について紹介します。]]></description>
+			<title>SELinuxのセキュリティ設定を理解する3つのポイント（IoT時代の最新SELinux入門）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052600005/</link>
+			<description><![CDATA[　前回までに試したように、SELinuxによってアクセスが拒否されて初めてSELinuxが役に立っていると分かるケースが大半です。そこで、今回から、あらかじめSELinuxの効果を把握しておく方法を紹介していきます。まずは前提知識として、セキュリティポリシーの構成要素を解説します。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -252,6 +246,12 @@
 			<description><![CDATA[　「ITの技術革新がデジタルイノベーションという形に表れている」。新日鉄住金ソリューションズの謝敷 宗敬代表取締役社長は、2017年7月5日に「IT Japan 2017」（日経BP社主催）で「 ヒトとITが創り出す新たな『現場』」と題した講演を行った。
 ]]></description>
 			<pubDate>Thu, 06 Jul 2017 11:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「感動する顧客体験がビジネスの成否を決める」、セールスフォースの山賀氏（IT Japan 2017 速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070600013/</link>
+			<description><![CDATA[　「ビジネスの成否を分けるポイントの一つは、感動する顧客体験を提供できるかどうかだ」――。セールスフォース・ドットコムで専務執行役員デジタルイノベーション事業統括を努める山賀裕二氏は2017年7月6日、「IT Japan 2017」（日経BP社主催）で講演し、商品サービス開発における顧客体験の重要性について解説した。 ]]></description>
+			<pubDate>Thu, 06 Jul 2017 14:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
