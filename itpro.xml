@@ -5,28 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：Windows版Linuxが身近に、数クリックでLinuxが学べる（どう使う？Windows版Linux）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700262/062700001/?n06</link>
-			<description><![CDATA[　Windows 10ユーザーであれば、数クリックでLinuxユーザーになれる。米マイクロソフトがWindows版Linuxと言える「Windows Subsystem for Linux」を組み込んだからだ。どの程度の手間で、WindowsユーザーがLinuxに入門できるのか。実際に試してみよう。]]></description>
-			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ファーウェイが初のノートPC「MateBook X」を発表、「価格競争よりイノベーションを」（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/070500259/</link>
-			<description><![CDATA[　華為技術日本（ファーウェイ・ジャパン）は2017年7月4日、都内で新製品発表会を開催し、Windows PC製品「MateBook」シリーズの新モデルを発表した。]]></description>
-			<pubDate>Wed, 05 Jul 2017 17:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IoT端末使い外出先で救急対応、セコムが新サービス（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070501849/</link>
-			<description><![CDATA[　セコムは2017年7月5日、リストバンド型のIoT端末を使って救急対応サービスなどを提供する「セコム・マイドクターウォッチ」を同年7月7日に開始すると発表した。]]></description>
-			<pubDate>Wed, 05 Jul 2017 17:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソラコムのIoT向け通信サービスが大幅拡充へ、Sigfoxに対応（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070501851/</link>
-			<description><![CDATA[　IoTプラットフォーム「SORACOM」などのサービスを提供するソラコムは2017年7月5日、カンファレンス「SORACOM Conference “Discovery” 2017」で、IoT向け無線通信技術であるLPWAを用いたサービスの拡充を発表した。]]></description>
-			<pubDate>Wed, 05 Jul 2017 17:12:28 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：グーグルがOffice 365に挑戦状、働き方改革へG Suite強化（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070401046/?d06</link>
+			<description><![CDATA[　グーグルが日本でクラウド型グループウエア「G Suite」の巻き返しに動き出した。業務支援機能を強化し、ホワイトカラーの定型作業を効率化する。働き方改革の機運が高まる日本で、「Office 365」を擁しシェア首位の日本マイクロソフトに挑む。]]></description>
+			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>「エッジを重視するIoTで世界の生産現場を支える」、ファナックの松原氏（IT Japan 2017 速報）</title>
@@ -83,15 +65,33 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>新たな脅威？リンクにマウスを当てると感染するウイルスが出現（今日も誰かが狙われる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/070400006/</link>
+			<description><![CDATA[　2017年6月中旬、セキュリティベンダーなどは、新たな感染手法を持つウイルスが出現したとして注意を呼びかけた。攻撃者が送ってきたファイル中のリンクにマウスカーソルを当てるとウイルスに感染にするというのだ。だが、慌てる必要はない。マウスカーソルを当てる“だけ”では決して感染しないからだ。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>速度が遅いWi-Fiをもっと速くするコツ（速くて切れないWi-Fi）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061900247/062600004/</link>
+			<description><![CDATA[　無線LANは電波が目に見えないため、速度低下の原因をつかみにくい。そこで今回は、原因を探るためにチェックすべきポイントを整理していく。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「クラウド導入の銭失い」を脱する、これでコストは3割削れる！（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062900873/</link>
+			<description><![CDATA[　クラウドを導入したユーザー企業への取材で、欠かせないテーマがコストだ。パブリッククラウドの場合、オンプレミス（自社所有）環境と比べて初期投資額が抑えやすく、空調設備などを自前で整える必要も無い。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>VRが「一生に一度の買い物」の迷いを払う（VR最新事例）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900268/063000005/</link>
 			<description><![CDATA[　不動産情報サービス大手のLIFULL（ライフル、旧ネクスト）は住宅メーカーなどに向け、VRを使った建て売り住宅の販促支援ツール「GRID VRICK」を開発、2016年5月から提供を始めた。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Java SE 9のライブラリ、java.langパッケージの新機能（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/063000042/</link>
-			<description><![CDATA[　今回は、java.baseモジュールの中でもJavaのライブラリのベースとなる「java.lang」パッケージの新機能、文字列処理の効率化と「Process API」について紹介します。]]></description>
+			<title>利用したがっているのは誰？「060」見直しで憶測広がる（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070401047/</link>
+			<description><![CDATA[　総務省は2017年6月23日、「060」で始まる電話番号に関する規則などを改正する省令案を公表した。「060番号が携帯電話に開放される」という認識が広がっているが、厳密には開放が決まったわけではない。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,9 +101,9 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「クラウド導入の銭失い」を脱する、これでコストは3割削れる！（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062900873/</link>
-			<description><![CDATA[　クラウドを導入したユーザー企業への取材で、欠かせないテーマがコストだ。パブリッククラウドの場合、オンプレミス（自社所有）環境と比べて初期投資額が抑えやすく、空調設備などを自前で整える必要も無い。]]></description>
+			<title>音声認識は世界を変えるのか？ サービス提供者が討論（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/070400258/</link>
+			<description><![CDATA[　2017年6月29日、イベント「Smartphone and Beyond 2017」が大阪市内で開催された。同イベントは“注目技術とスマートフォンの連携によって生み出される近未来を展望する”ことをテーマとし、今回は話題の音声認識技術を取り上げた。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -149,27 +149,9 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>利用したがっているのは誰？「060」見直しで憶測広がる（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070401047/</link>
-			<description><![CDATA[　総務省は2017年6月23日、「060」で始まる電話番号に関する規則などを改正する省令案を公表した。「060番号が携帯電話に開放される」という認識が広がっているが、厳密には開放が決まったわけではない。]]></description>
-			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>音声認識は世界を変えるのか？ サービス提供者が討論（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/070400258/</link>
-			<description><![CDATA[　2017年6月29日、イベント「Smartphone and Beyond 2017」が大阪市内で開催された。同イベントは“注目技術とスマートフォンの連携によって生み出される近未来を展望する”ことをテーマとし、今回は話題の音声認識技術を取り上げた。]]></description>
-			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>新たな脅威？リンクにマウスを当てると感染するウイルスが出現（今日も誰かが狙われる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/070400006/</link>
-			<description><![CDATA[　2017年6月中旬、セキュリティベンダーなどは、新たな感染手法を持つウイルスが出現したとして注意を呼びかけた。攻撃者が送ってきたファイル中のリンクにマウスカーソルを当てるとウイルスに感染にするというのだ。だが、慌てる必要はない。マウスカーソルを当てる“だけ”では決して感染しないからだ。]]></description>
-			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>速度が遅いWi-Fiをもっと速くするコツ（速くて切れないWi-Fi）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061900247/062600004/</link>
-			<description><![CDATA[　無線LANは電波が目に見えないため、速度低下の原因をつかみにくい。そこで今回は、原因を探るためにチェックすべきポイントを整理していく。]]></description>
+			<title>Java SE 9のライブラリ、java.langパッケージの新機能（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/063000042/</link>
+			<description><![CDATA[　今回は、java.baseモジュールの中でもJavaのライブラリのベースとなる「java.lang」パッケージの新機能、文字列処理の効率化と「Process API」について紹介します。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -257,6 +239,25 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070601858/</link>
 			<description><![CDATA[　NTTコミュニケーションズは2017年7月6日、Dockerコンテナサービスを開始すると発表した。同社クラウドサービス「Enterprise Cloud」のメニューとして2017年10月に提供開始する。]]></description>
 			<pubDate>Thu, 06 Jul 2017 15:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「保守費を削減すればイノベーションにお金を使える」、日本リミニストリートの脇阪氏（IT Japan 2017 速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070600014/</link>
+			<description><![CDATA[　「新しいビジネスモデルが破壊を起こす。ソフトウエアの保守費用を削減すれば、イノベーションに使えるお金を確保できる」――。日本リミニストリートで北東アジア統括ジェネラルマネージャー兼日本支社長を務める脇阪順雄氏が2017年7月6日、「IT Japan 2017」（日経BP社主催）で講演した。 
+]]></description>
+			<pubDate>Thu, 06 Jul 2017 16:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>会員CSIRTは230超、多過ぎて「顔が見えない」弊害も――日本シーサート協議会の10年（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070601859/</link>
+			<description><![CDATA[　「日本シーサート協議会の設立から10年。会員組織は、発足時の6組織から236組織まで増えた。増えるのはうれしいが、会員組織の『顔が見えない』という弊害が生じている」。日本シーサート協議会（NCA）の寺田真敏運営委員長は2017年7月6日、NCAの現状について説明した。]]></description>
+			<pubDate>Thu, 06 Jul 2017 16:56:06 +0900</pubDate>
+		</item>
+		<item>
+			<title>IMAGICAティーヴィが社名変更、10月から「WOWOWプラス」に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070601860/</link>
+			<description><![CDATA[　WOWOWは2017年7月6日、同社の子会社であるIMAGICAティーヴィの社名および運営チャンネルの名称を10月1日に変更すると発表した。]]></description>
+			<pubDate>Thu, 06 Jul 2017 17:05:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>

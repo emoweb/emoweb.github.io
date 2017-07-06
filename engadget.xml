@@ -5,58 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Galaxyスマホの指紋センサでWindows 10へログイン可能に。Android 6.0以降に対応
-</title>
-			<link>http://japanese.engadget.com/2017/07/04/galaxy-windows-10-android-6-0/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/91b36e7fe86211a414c0907f3281c705/205440163/dims.jpg" />
-
-スマートフォンとPCを連携させるSamsungのアプリ Samsung Flowがアップデートし、スマホの指紋センサで Windows 10 へのログインができるようになりました。
-
-この機能、従来はGalaxy TabPro Sなどサムスン製PCのみに提供されていました。Windows 10には生体認証を使ったログイン機能 Windows Helloがありますが、Samsung Flowがこれを代替する形です。
-
-
-
-利用できるのは、Android 6.0以降で指紋センサを搭載したSamsung製Android端末。Galaxy S8、S8+、S7、S7 Edge、S6、S6 Edge、Note 5などが該当します。Windows側は、Windows 10 Creators update以降（15063.413）が対応しており、こちらにも専用アプリが必要です。
-
-ログインする以外にも、スマートフォンの通知をPCに表示したり、PCのインターネット接続が必要な場合に、自動的にスマートフォンのテザリングが開始される機能も提供されます。
-
-Galaxy S8 / S8+には虹彩認証も搭載されていますが、利用できるのは指紋認証のみ。指紋センサが正面にあるGalaxy S6やS7では机上に置いた状態でも使いやすいのですが、背面にあるGalaxy S8は、ログイン時に端末を持たなければいけないのが若干面倒です。
-
-ただ、端末のロックを解除した状態でPCの近くに置いておくと自動的にログインする「簡単にロック解除」も設定可能。これを利用すると端末のロックを解除したタイミングでPCにログインするので、疑似的に虹彩認証や顔認証も利用できます。スマートフォンを覗き込むのと手に持つのと、どちらが便利かという話ではありますが。
- ]]></description>
-			<pubDate>Tue, 04 Jul 2017 13:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>    Surface対抗の2in1「MateBook E」、ファーウェイが7月7日発売決定。9万2800円〜
-</title>
-			<link>http://japanese.engadget.com/2017/07/04/surface-2in1-matebook-e-7-7-9-2800/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/3043a37d07e2d40d8c4aa40e15ee0fca/205440349/huawei.jpg" />
-ファーウェイは、Windows 10搭載の2 in 1「MateBook E」を7月7日に発売します。
-
-初代MateBookの後継機にあたる本モデル。プロセッサをSkyLakeからKabyLake（Core i5 Yシリーズ）に刷新したことで、CPU性能が14％、GPU性能が13％向上したといいます。
-
-ディスプレイサイズは12インチ、解像度は2160 x 1440。指紋認証センサーも側面に引き続き搭載しています。
-
-最大の変更点はキーボードカバーです。本体同梱となり、スタンドの角度も、従来の2段階から160&deg;の範囲で無段階に設定できるようになりました。
-
-これを実現するスタンドのシャフトは、一見華奢で耐久性が心配になります。しかしファーウェイの担当者によれば、1万回以上テストして、金属疲労を起こさない構造であるとのこと。
-
-
-打鍵感も大きく改善。キーピッチの広いアイソレーションキーボードを採用し、さらにタッチパッドの面積は約14%拡大しています。前述の通りキーボードが同梱になったことと合わせ、PCとしての使い勝手を改善させています。なお、キーボードカバーは初代MateBookとは互換性がありません。一方、スタイラスのMate Panは前モデルと互換性があります。
-
-バッテリー連続駆動時間は9時間。初代MateBookでは不可だったモバイルバッテリーでも充電できるようになりました。
-
-本体サイズは278.8mm x 194,1mm。厚さは6.9mm。重さはキーボードを外した状態で690g、キーボード付きの状態で1.1kgとなります。
-
-日本向けのカラーバリエーションは、シャンパンゴールドとチタニウムグレーの2色展開です。
-
-7月7日に発売予定。価格は税別9万2800円〜です。
-
-（更新中）
- ]]></description>
-			<pubDate>Tue, 04 Jul 2017 15:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    12インチMacBookそっくりの「MateBook X」、ファーウェイが7月7日発売 14万6800円〜
 </title>
 			<link>http://japanese.engadget.com/2017/07/04/12-macbook-matebook-x-7-7-14-6800/</link>
@@ -714,6 +662,46 @@ SMSを使った架空請求、消費者庁が注意喚起
 この他、「事業者等の名前に聞き覚えがあるからといって安易に信用せず、話の内容等をよく確認しましょう」と呼びかけているほか、「こうしたSMSに記載されている電話番号には絶対に電話しないようにしましょう」と注意喚起しています。
  ]]></description>
 			<pubDate>Thu, 06 Jul 2017 16:40:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    VR/ARメガネなしに立体的な映像を操れるNo-logram。画像解析と深度センサーで人の位置に合わせ映像生成
+</title>
+			<link>http://japanese.engadget.com/2017/07/06/vr-ar-no-logram/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/12f79f2db7b09e90cfd83a36fcf97c0f/205447546/main.gif" />
+フランスのヴィジュアル・アーティストJoanie Lemercierが、ヘッドセット不要で立体視可能なホログラム...ではない、本人いわく「No-logram」を発表しました。映画「スター・ウォーズ」でR2-D2が映し出すホログラム映像システムや、「マイノリティ・リポート」でトム・クルーズ扮するジョン・アンダートンが操るコンピューターの空中投影UIに影響を受けたインスタレーションとのこと。
+
+このシステムは、ARやVRのようでありながらヘッドセットを必要とせず、ホログラムを浮かび上がらせる透過型スクリーンも使いません。さらに3Dのように見える映像も実際には2Dのものです。
+
+その実現方法は、大雑把に言えば深度センサーと画像解析技術を組み合わせて見る人の視点を算出し、動きを予測して映像を合成、水煙を使った見えないスクリーンとなるエリアにボリュームプロジェクション(容積投影)を行っているとのこと。あらかじめ用意した2D映像を映し出すだけのホログラムとはまったく異なる技術であり、誤解を生じさせないために、No-logramという造語で表現されます。
+　
+
+　
+Lemercierが生みだす映像は幾何学的な模様や自然界に見られる反復的形状、様々なスケールにおける宇宙の姿などが特徴。No-logramでもそれは同様で「容積投影技術は現実世界に疑問を投げかけ、その認識に修正を加えることができる素晴らしい媒体だ」とLemercierは説明します。
+
+現在、Lemercierは大掛かりなフェスティバルなどの依頼のために公共の場で使えるNo-logramインスタレーションシステムを開発中とのこと。たとえば暑い夏、地下街などのちょっとした広場に設置すれば、足を止めてしばし日常から解脱する感覚を味わえるかもしれません。
+
+[Image : Joanie Lemercier]
+
+ 
+ ]]></description>
+			<pubDate>Thu, 06 Jul 2017 17:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    ASUSが「ZenFone 4 Max」発表、2眼カメラと5000mAhバッテリー搭載
+</title>
+			<link>http://japanese.engadget.com/2017/07/06/asus-zenfone-4-max-2-5000mah/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/d01b79ca8b2b4f75c46552bd2fac758d/205447763/name.jpg" />
+ASUSは新型スマートフォン「ZenFone 4 Max」をロシアで発表しました。特徴は、ダブルレンズカメラ。そして、5000mAhの大容量バッテリーの搭載など。
+
+主な仕様は、5.5インチ 1920 x 1080ディスプレイ、Snapdragon 430またはSnapdragon 425プロセッサ、3GB RAM、16/32GBのストレージ容量、256GBまでのmicroSD外部ストレージなど。
+
+背面カメラはiPhone 7 PlusやLG V20 Proと同様のダブルレンズ仕様。1300万画素の標準レンズの横に、画角120&deg;の広角レンズを備えます。さらに、公称0.03秒で合焦するオートフォーカスや、光学式手ぶれ補正の搭載も売りにします。。インカメラは800万画素で、画角140&deg;とこちらも広角。インカメ側にLEDも備え、暗い場所でも明るい自撮りを撮影できます。
+
+バッテリーは5000mAh。公称のバッテリーの持ちは、LTEの連続待受で46日。Wi-Fi接続時の連続ブラウジングで連続26時間、ビデオの連続再生時間で22時間。また、ZenFone 3 Maxと同様に、他のモバイル機器を充電するモバイルバッテリー機能も備えます。
+
+（更新中）
+ ]]></description>
+			<pubDate>Thu, 06 Jul 2017 17:50:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
