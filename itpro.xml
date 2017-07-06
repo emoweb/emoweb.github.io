@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>いま、一番読まれている記事は：Windows版Linuxが身近に、数クリックでLinuxが学べる（どう使う？Windows版Linux）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700262/062700001/?n06</link>
+			<description><![CDATA[　Windows 10ユーザーであれば、数クリックでLinuxユーザーになれる。米マイクロソフトがWindows版Linuxと言える「Windows Subsystem for Linux」を組み込んだからだ。どの程度の手間で、WindowsユーザーがLinuxに入門できるのか。実際に試してみよう。]]></description>
+			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ファーウェイが初のノートPC「MateBook X」を発表、「価格競争よりイノベーションを」（ITpro Report）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/070500259/</link>
 			<description><![CDATA[　華為技術日本（ファーウェイ・ジャパン）は2017年7月4日、都内で新製品発表会を開催し、Windows PC製品「MateBook」シリーズの新モデルを発表した。]]></description>
@@ -71,15 +77,15 @@
 			<pubDate>Wed, 05 Jul 2017 21:09:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>VRが「一生に一度の買い物」の迷いを払う（VR最新事例）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900268/063000005/</link>
-			<description><![CDATA[　不動産情報サービス大手のLIFULL（ライフル、旧ネクスト）は住宅メーカーなどに向け、VRを使った建て売り住宅の販促支援ツール「GRID VRICK」を開発、2016年5月から提供を始めた。]]></description>
-			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>クラウドソーシングの反省、WELQ問題再発を防げるか（WELQ問題の波紋）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070400273/070500002/</link>
 			<description><![CDATA[　低質なまとめ記事を量産する場の一つとなっていたのがクラウドソーシングだ。クラウドソーシングサービス最大手のクラウドワークスとランサーズはWELQ問題の発覚後、相次いで品質改善策を打ち出した。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>VRが「一生に一度の買い物」の迷いを払う（VR最新事例）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900268/063000005/</link>
+			<description><![CDATA[　不動産情報サービス大手のLIFULL（ライフル、旧ネクスト）は住宅メーカーなどに向け、VRを使った建て売り住宅の販促支援ツール「GRID VRICK」を開発、2016年5月から提供を始めた。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,9 +101,9 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>速度が遅いWi-Fiをもっと速くするコツ（速くて切れないWi-Fi）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061900247/062600004/</link>
-			<description><![CDATA[　無線LANは電波が目に見えないため、速度低下の原因をつかみにくい。そこで今回は、原因を探るためにチェックすべきポイントを整理していく。]]></description>
+			<title>「クラウド導入の銭失い」を脱する、これでコストは3割削れる！（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062900873/</link>
+			<description><![CDATA[　クラウドを導入したユーザー企業への取材で、欠かせないテーマがコストだ。パブリッククラウドの場合、オンプレミス（自社所有）環境と比べて初期投資額が抑えやすく、空調設備などを自前で整える必要も無い。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -161,9 +167,9 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「クラウド導入の銭失い」を脱する、これでコストは3割削れる！（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062900873/</link>
-			<description><![CDATA[　クラウドを導入したユーザー企業への取材で、欠かせないテーマがコストだ。パブリッククラウドの場合、オンプレミス（自社所有）環境と比べて初期投資額が抑えやすく、空調設備などを自前で整える必要も無い。]]></description>
+			<title>速度が遅いWi-Fiをもっと速くするコツ（速くて切れないWi-Fi）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061900247/062600004/</link>
+			<description><![CDATA[　無線LANは電波が目に見えないため、速度低下の原因をつかみにくい。そこで今回は、原因を探るためにチェックすべきポイントを整理していく。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
