@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>AIで悪質案件を検出、クラウドワークスがWELQ問題で対策（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070501847/</link>
-			<description><![CDATA[　クラウドソーシング大手のクラウドワークスが悪質な業務依頼案件を人工知能（AI）で自動検知する仕組みを導入することが2017年7月5日、日経コンピュータの取材で分かった。独自開発した機械学習エンジンを使い、利用規約違反や報酬が極端に低い案件を9割の精度で自動検出。人間の目視も組み合わせて削除する。]]></description>
-			<pubDate>Wed, 05 Jul 2017 15:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>赤外線カメラで暗闇も見えるHMD、ドローン専業のスカイロボットが開発（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070501850/</link>
 			<description><![CDATA[　産業用ドローンを手がけるスカイロボットは2017年7月5日、赤外線カメラ付きのヘッド・マウント・ディスプレイ（HMD）「Boson/スカイスカウターIR」を発表した。暗視が可能な超小型赤外線カメラを搭載しつつ、頭に装着する機材の重量を285gに抑えた。警備や警察・消防などでの採用を狙う。]]></description>
@@ -24,15 +18,15 @@
 			<pubDate>Wed, 05 Jul 2017 16:22:23 +0900</pubDate>
 		</item>
 		<item>
-			<title>ファーウェイが初のノートPC「MateBook X」を発表、「価格競争よりイノベーションを」（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/070500259/</link>
-			<description><![CDATA[　華為技術日本（ファーウェイ・ジャパン）は2017年7月4日、都内で新製品発表会を開催し、Windows PC製品「MateBook」シリーズの新モデルを発表した。]]></description>
-			<pubDate>Wed, 05 Jul 2017 17:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>IoT端末使い外出先で救急対応、セコムが新サービス（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070501849/</link>
 			<description><![CDATA[　セコムは2017年7月5日、リストバンド型のIoT端末を使って救急対応サービスなどを提供する「セコム・マイドクターウォッチ」を同年7月7日に開始すると発表した。]]></description>
+			<pubDate>Wed, 05 Jul 2017 17:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ファーウェイが初のノートPC「MateBook X」を発表、「価格競争よりイノベーションを」（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/070500259/</link>
+			<description><![CDATA[　華為技術日本（ファーウェイ・ジャパン）は2017年7月4日、都内で新製品発表会を開催し、Windows PC製品「MateBook」シリーズの新モデルを発表した。]]></description>
 			<pubDate>Wed, 05 Jul 2017 17:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -90,21 +84,27 @@
 			<pubDate>Wed, 05 Jul 2017 21:09:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>“55歳ショック”の緩和を狙う富士通、50代SEを集めて新会社（どうする？50代SE）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200254/070500004/</link>
-			<description><![CDATA[　富士通は2015年10月、SI事業で管理職を務めた55歳以上のSEを集めた新会社「富士通クオリティ＆ウィズダム（FJQW）」を設立した。富士通本体の人事制度とは独立した“特区”として新会社を設立して、今までより55歳以上のSEを厚遇できる場を作った。]]></description>
-			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>クラウドソーシングの反省、WELQ問題再発を防げるか（WELQ問題の波紋）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070400273/070500002/</link>
 			<description><![CDATA[　低質なまとめ記事を量産する場の一つとなっていたのがクラウドソーシングだ。クラウドソーシングサービス最大手のクラウドワークスとランサーズはWELQ問題の発覚後、相次いで品質改善策を打ち出した。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>“55歳ショック”の緩和を狙う富士通、50代SEを集めて新会社（どうする？50代SE）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200254/070500004/</link>
+			<description><![CDATA[　富士通は2015年10月、SI事業で管理職を務めた55歳以上のSEを集めた新会社「富士通クオリティ＆ウィズダム（FJQW）」を設立した。富士通本体の人事制度とは独立した“特区”として新会社を設立して、今までより55歳以上のSEを厚遇できる場を作った。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>SELinuxのセキュリティ設定を理解する3つのポイント（IoT時代の最新SELinux入門）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052600005/</link>
 			<description><![CDATA[　前回までに試したように、SELinuxによってアクセスが拒否されて初めてSELinuxが役に立っていると分かるケースが大半です。そこで、今回から、あらかじめSELinuxの効果を把握しておく方法を紹介していきます。まずは前提知識として、セキュリティポリシーの構成要素を解説します。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>VRが「一生に一度の買い物」の迷いを払う（VR最新事例）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900268/063000005/</link>
+			<description><![CDATA[　不動産情報サービス大手のLIFULL（ライフル、旧ネクスト）は住宅メーカーなどに向け、VRを使った建て売り住宅の販促支援ツール「GRID VRICK」を開発、2016年5月から提供を始めた。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -138,9 +138,9 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Java SE 9のライブラリ、java.langパッケージの新機能（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/063000042/</link>
-			<description><![CDATA[　今回は、java.baseモジュールの中でもJavaのライブラリのベースとなる「java.lang」パッケージの新機能、文字列処理の効率化と「Process API」について紹介します。]]></description>
+			<title>作品名は「嵐の目」、サッチャー英元首相をめぐるネット炎上（データ分析は芸術だ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700263/062700004/</link>
+			<description><![CDATA[　このアートのタイトルは「Eye Of The Storm（嵐の目）」。サッチャー支持派と、サッチャー反対派が互いにツイート攻撃する様子を、アナリティクスで可視化したものです。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -174,15 +174,9 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>作品名は「嵐の目」、サッチャー英元首相をめぐるネット炎上（データ分析は芸術だ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700263/062700004/</link>
-			<description><![CDATA[　このアートのタイトルは「Eye Of The Storm（嵐の目）」。サッチャー支持派と、サッチャー反対派が互いにツイート攻撃する様子を、アナリティクスで可視化したものです。]]></description>
-			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>VRが「一生に一度の買い物」の迷いを払う（VR最新事例）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900268/063000005/</link>
-			<description><![CDATA[　不動産情報サービス大手のLIFULL（ライフル、旧ネクスト）は住宅メーカーなどに向け、VRを使った建て売り住宅の販促支援ツール「GRID VRICK」を開発、2016年5月から提供を始めた。]]></description>
+			<title>Java SE 9のライブラリ、java.langパッケージの新機能（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/063000042/</link>
+			<description><![CDATA[　今回は、java.baseモジュールの中でもJavaのライブラリのベースとなる「java.lang」パッケージの新機能、文字列処理の効率化と「Process API」について紹介します。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -251,6 +245,13 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 06 Jul 2017 10:11:24 +0900</pubDate>
+		</item>
+		<item>
+			<title>「IoX」が新しい働く現場を創造する、新日鉄住金ソリューションズ謝敷氏（IT Japan 2017 速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070600011/</link>
+			<description><![CDATA[　「ITの技術革新がデジタルイノベーションという形に表れている」。新日鉄住金ソリューションズの謝敷 宗敬代表取締役社長は、2017年7月5日に「IT Japan 2017」（日経BP社主催）で「 ヒトとITが創り出す新たな『現場』」と題した講演を行った。
+]]></description>
+			<pubDate>Thu, 06 Jul 2017 11:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
