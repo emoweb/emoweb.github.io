@@ -5,13 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>「AI/IoT時代の脅威に従来・先進手法の融合で対処」、トレンドマイクロの大三川氏（IT Japan 2017 速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070500004/</link>
-			<description><![CDATA[　トレンドマイクロで取締役副社長を務める大三川彰彦氏は2017年7月5日、「IT Japan 2017」で講演し、日本のセキュリティの実態と、企業に必要な防御策について解説した。
-]]></description>
-			<pubDate>Wed, 05 Jul 2017 16:22:23 +0900</pubDate>
-		</item>
-		<item>
 			<title>ファーウェイが初のノートPC「MateBook X」を発表、「価格競争よりイノベーションを」（ITpro Report）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/070500259/</link>
 			<description><![CDATA[　華為技術日本（ファーウェイ・ジャパン）は2017年7月4日、都内で新製品発表会を開催し、Windows PC製品「MateBook」シリーズの新モデルを発表した。]]></description>
@@ -78,15 +71,21 @@
 			<pubDate>Wed, 05 Jul 2017 21:09:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>VRが「一生に一度の買い物」の迷いを払う（VR最新事例）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900268/063000005/</link>
+			<description><![CDATA[　不動産情報サービス大手のLIFULL（ライフル、旧ネクスト）は住宅メーカーなどに向け、VRを使った建て売り住宅の販促支援ツール「GRID VRICK」を開発、2016年5月から提供を始めた。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>クラウドソーシングの反省、WELQ問題再発を防げるか（WELQ問題の波紋）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070400273/070500002/</link>
 			<description><![CDATA[　低質なまとめ記事を量産する場の一つとなっていたのがクラウドソーシングだ。クラウドソーシングサービス最大手のクラウドワークスとランサーズはWELQ問題の発覚後、相次いで品質改善策を打ち出した。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>VRが「一生に一度の買い物」の迷いを払う（VR最新事例）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900268/063000005/</link>
-			<description><![CDATA[　不動産情報サービス大手のLIFULL（ライフル、旧ネクスト）は住宅メーカーなどに向け、VRを使った建て売り住宅の販促支援ツール「GRID VRICK」を開発、2016年5月から提供を始めた。]]></description>
+			<title>Java SE 9のライブラリ、java.langパッケージの新機能（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/063000042/</link>
+			<description><![CDATA[　今回は、java.baseモジュールの中でもJavaのライブラリのベースとなる「java.lang」パッケージの新機能、文字列処理の効率化と「Process API」について紹介します。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -96,15 +95,15 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「クラウド導入の銭失い」を脱する、これでコストは3割削れる！（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062900873/</link>
-			<description><![CDATA[　クラウドを導入したユーザー企業への取材で、欠かせないテーマがコストだ。パブリッククラウドの場合、オンプレミス（自社所有）環境と比べて初期投資額が抑えやすく、空調設備などを自前で整える必要も無い。]]></description>
+			<title>速度が遅いWi-Fiをもっと速くするコツ（速くて切れないWi-Fi）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061900247/062600004/</link>
+			<description><![CDATA[　無線LANは電波が目に見えないため、速度低下の原因をつかみにくい。そこで今回は、原因を探るためにチェックすべきポイントを整理していく。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Java SE 9のライブラリ、java.langパッケージの新機能（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/063000042/</link>
-			<description><![CDATA[　今回は、java.baseモジュールの中でもJavaのライブラリのベースとなる「java.lang」パッケージの新機能、文字列処理の効率化と「Process API」について紹介します。]]></description>
+			<title>SELinuxのセキュリティ設定を理解する3つのポイント（IoT時代の最新SELinux入門）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052600005/</link>
+			<description><![CDATA[　前回までに試したように、SELinuxによってアクセスが拒否されて初めてSELinuxが役に立っていると分かるケースが大半です。そこで、今回から、あらかじめSELinuxの効果を把握しておく方法を紹介していきます。まずは前提知識として、セキュリティポリシーの構成要素を解説します。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -162,15 +161,9 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>速度が遅いWi-Fiをもっと速くするコツ（速くて切れないWi-Fi）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061900247/062600004/</link>
-			<description><![CDATA[　無線LANは電波が目に見えないため、速度低下の原因をつかみにくい。そこで今回は、原因を探るためにチェックすべきポイントを整理していく。]]></description>
-			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>SELinuxのセキュリティ設定を理解する3つのポイント（IoT時代の最新SELinux入門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052600005/</link>
-			<description><![CDATA[　前回までに試したように、SELinuxによってアクセスが拒否されて初めてSELinuxが役に立っていると分かるケースが大半です。そこで、今回から、あらかじめSELinuxの効果を把握しておく方法を紹介していきます。まずは前提知識として、セキュリティポリシーの構成要素を解説します。]]></description>
+			<title>「クラウド導入の銭失い」を脱する、これでコストは3割削れる！（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/062900873/</link>
+			<description><![CDATA[　クラウドを導入したユーザー企業への取材で、欠かせないテーマがコストだ。パブリッククラウドの場合、オンプレミス（自社所有）環境と比べて初期投資額が抑えやすく、空調設備などを自前で整える必要も無い。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -252,6 +245,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070600013/</link>
 			<description><![CDATA[　「ビジネスの成否を分けるポイントの一つは、感動する顧客体験を提供できるかどうかだ」――。セールスフォース・ドットコムで専務執行役員デジタルイノベーション事業統括を努める山賀裕二氏は2017年7月6日、「IT Japan 2017」（日経BP社主催）で講演し、商品サービス開発における顧客体験の重要性について解説した。 ]]></description>
 			<pubDate>Thu, 06 Jul 2017 14:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>NTTコミュニケーションズ、Dockerコンテナサービスを10月に開始（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070601858/</link>
+			<description><![CDATA[　NTTコミュニケーションズは2017年7月6日、Dockerコンテナサービスを開始すると発表した。同社クラウドサービス「Enterprise Cloud」のメニューとして2017年10月に提供開始する。]]></description>
+			<pubDate>Thu, 06 Jul 2017 15:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
