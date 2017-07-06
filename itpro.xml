@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：グーグルがOffice 365に挑戦状、働き方改革へG Suite強化（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070401046/?d06</link>
-			<description><![CDATA[　グーグルが日本でクラウド型グループウエア「G Suite」の巻き返しに動き出した。業務支援機能を強化し、ホワイトカラーの定型作業を効率化する。働き方改革の機運が高まる日本で、「Office 365」を擁しシェア首位の日本マイクロソフトに挑む。]]></description>
-			<pubDate>Wed, 05 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title> 「業務をITに置き換えるしかない」、NRI桑津氏（IT Japan 2017 速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070500009/</link>
-			<description><![CDATA[　「このままでは人口減で事業を継続できない。業務をITに置き換えるしかない」。こう話すのは野村総合研究所（NRI）の桑津浩太郎未来創発センター長研究理事だ。2017年7月5日に「IT Japan 2017」（日経BP社主催）で講演した。]]></description>
-			<pubDate>Wed, 05 Jul 2017 19:15:45 +0900</pubDate>
-		</item>
-		<item>
 			<title>パナソニック、堅牢ノートのタフブックに12型の着脱型2in1モデル「CF-33」（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070501852/</link>
 			<description><![CDATA[　パナソニックは2017年7月5日、堅牢ノートパソコン「タフブック」の新機種として、12型液晶ディスプレイを搭載した「CF-33」を発表した。ノートパソコン、タブレット端末のいずれとしても使える、いわゆる着脱型2in1の機構とした。予想実売価格は税抜き43万円前後。]]></description>
@@ -39,6 +27,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070500010/</link>
 			<description><![CDATA[　「当社が採用した新卒8人のうち、7人は外国籍だ」ーー。2017年7月5日、「IT Japan 2017」（日経BP社主催）で登壇したHDEの小椋一宏代表取締役社長は、同社の人材獲得がグローバルに展開している現状を明かした。]]></description>
 			<pubDate>Wed, 05 Jul 2017 21:09:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>音声認識は世界を変えるのか？ サービス提供者が討論（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/070400258/</link>
+			<description><![CDATA[　2017年6月29日、イベント「Smartphone and Beyond 2017」が大阪市内で開催された。同イベントは“注目技術とスマートフォンの連携によって生み出される近未来を展望する”ことをテーマとし、今回は話題の音声認識技術を取り上げた。]]></description>
+			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>新たな脅威？リンクにマウスを当てると感染するウイルスが出現（今日も誰かが狙われる）</title>
@@ -65,9 +59,9 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>音声認識は世界を変えるのか？ サービス提供者が討論（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/070400258/</link>
-			<description><![CDATA[　2017年6月29日、イベント「Smartphone and Beyond 2017」が大阪市内で開催された。同イベントは“注目技術とスマートフォンの連携によって生み出される近未来を展望する”ことをテーマとし、今回は話題の音声認識技術を取り上げた。]]></description>
+			<title>SELinuxのセキュリティ設定を理解する3つのポイント（IoT時代の最新SELinux入門）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052600005/</link>
+			<description><![CDATA[　前回までに試したように、SELinuxによってアクセスが拒否されて初めてSELinuxが役に立っていると分かるケースが大半です。そこで、今回から、あらかじめSELinuxの効果を把握しておく方法を紹介していきます。まずは前提知識として、セキュリティポリシーの構成要素を解説します。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,15 +95,15 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>平均寿命3年のハードディスク、故障予知サービスで買い替え進むか（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070401045/</link>
-			<description><![CDATA[　壊れかけのハードディスクに引導を渡す。そんなサービスが登場した。バッファローが7月5日に提供を始めた「みまもり合図」は、ハードディスクの状態をクラウドで監視して故障を予測。ユーザーにバックアップやデータ移行を促す。]]></description>
+			<title>パケットが遠回りして遅くなる、通信を徹底分析して解決（ネットワークトラブル奮闘記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000248/062000004/</link>
+			<description><![CDATA[　社内ネットワークが遅いという不具合が発生した。ネットワークコマンドやパケットキャプチャーを実行して、不具合の原因を突き止めた。原因は無線LANアクセスポイントだった。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>SELinuxのセキュリティ設定を理解する3つのポイント（IoT時代の最新SELinux入門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/052600005/</link>
-			<description><![CDATA[　前回までに試したように、SELinuxによってアクセスが拒否されて初めてSELinuxが役に立っていると分かるケースが大半です。そこで、今回から、あらかじめSELinuxの効果を把握しておく方法を紹介していきます。まずは前提知識として、セキュリティポリシーの構成要素を解説します。]]></description>
+			<title>利用したがっているのは誰？「060」見直しで憶測広がる（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070401047/</link>
+			<description><![CDATA[　総務省は2017年6月23日、「060」で始まる電話番号に関する規則などを改正する省令案を公表した。「060番号が携帯電話に開放される」という認識が広がっているが、厳密には開放が決まったわけではない。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -125,15 +119,9 @@
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>パケットが遠回りして遅くなる、通信を徹底分析して解決（ネットワークトラブル奮闘記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000248/062000004/</link>
-			<description><![CDATA[　社内ネットワークが遅いという不具合が発生した。ネットワークコマンドやパケットキャプチャーを実行して、不具合の原因を突き止めた。原因は無線LANアクセスポイントだった。]]></description>
-			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>利用したがっているのは誰？「060」見直しで憶測広がる（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070401047/</link>
-			<description><![CDATA[　総務省は2017年6月23日、「060」で始まる電話番号に関する規則などを改正する省令案を公表した。「060番号が携帯電話に開放される」という認識が広がっているが、厳密には開放が決まったわけではない。]]></description>
+			<title>平均寿命3年のハードディスク、故障予知サービスで買い替え進むか（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070401045/</link>
+			<description><![CDATA[　壊れかけのハードディスクに引導を渡す。そんなサービスが登場した。バッファローが7月5日に提供を始めた「みまもり合図」は、ハードディスクの状態をクラウドで監視して故障を予測。ユーザーにバックアップやデータ移行を促す。]]></description>
 			<pubDate>Thu, 06 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -259,6 +247,12 @@
 			<description><![CDATA[　社員はほぼ全員残業ゼロ。それにもかかわらず、2005年に創業して以来、2006年から10年間、売上が右肩上がりの会社がある。化粧品会社のランクアップだ。2017年7月6日に開催された「IT Japan 2017」に同社の岩崎裕美子代表取締役が登壇。「社員が残業しない」会社を作った経緯と、売上高を伸ばし続けられた秘訣について語った。
 ]]></description>
 			<pubDate>Thu, 06 Jul 2017 21:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「プラットフォーマーになれなくてもAIを武器にした戦い方はいくらでもある」、日本IBMの池田氏（IT Japan 2017 速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070600017/</link>
+			<description><![CDATA[　「グーグルやアマゾンのようなプラットフォーマーになれなくても、AIを武器にした戦い方はいくらでもある」――。「IT Japan 2017」に日本IBMグローバル・ビジネス・サービス事業本部 戦略コンサルティング＆デザイン統括の池田和明執行役員が登壇。人工知能（AI）を武器にした企業の競争力強化について講演した。]]></description>
+			<pubDate>Thu, 06 Jul 2017 23:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
