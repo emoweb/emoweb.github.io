@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>NTTコミュニケーションズ、Dockerコンテナサービスを10月に開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070601858/</link>
-			<description><![CDATA[　NTTコミュニケーションズは2017年7月6日、Dockerコンテナサービスを開始すると発表した。同社クラウドサービス「Enterprise Cloud」のメニューとして2017年10月に提供開始する。]]></description>
-			<pubDate>Thu, 06 Jul 2017 15:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>「保守費を削減すればイノベーションにお金を使える」、日本リミニストリートの脇阪氏（IT Japan 2017 速報）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070600014/</link>
 			<description><![CDATA[　「新しいビジネスモデルが破壊を起こす。ソフトウエアの保守費用を削減すれば、イノベーションに使えるお金を確保できる」――。日本リミニストリートで北東アジア統括ジェネラルマネージャー兼日本支社長を務める脇阪順雄氏が2017年7月6日、「IT Japan 2017」（日経BP社主催）で講演した。 
@@ -55,6 +49,12 @@
 			<pubDate>Thu, 06 Jul 2017 23:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>今ならまだ「試行錯誤が許される」、小学校のプログラミング教育（教育ICT現場のリアル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/110400255/070400016/</link>
+			<description><![CDATA[　2020年度に全面実施される小学校の次期学習指導要領。その総則には「児童がプログラミングを体験しながら、コンピュータに意図した処理を行わせるための論理的思考力を身に付けるための学習活動」を計画的に実施する旨が明記されている。小学校でどのようにしてプログラミング教育をするかが差し迫った課題となっている。]]></description>
+			<pubDate>Fri, 07 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>JR東日本、VRで電車事故を疑似体験（VR最新事例）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062900268/063000006/</link>
 			<description><![CDATA[　JR東日本はVRを使って、「電車にひかれる」「高所から転落する」といった「あり得ない」体験を通して、従業員に安全意識を徹底させている。1年かけて約1200人の従業員に事故を疑似体験させる計画だ。]]></description>
@@ -79,9 +79,9 @@
 			<pubDate>Fri, 07 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>今ならまだ「試行錯誤が許される」、小学校のプログラミング教育（教育ICT現場のリアル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/110400255/070400016/</link>
-			<description><![CDATA[　2020年度に全面実施される小学校の次期学習指導要領。その総則には「児童がプログラミングを体験しながら、コンピュータに意図した処理を行わせるための論理的思考力を身に付けるための学習活動」を計画的に実施する旨が明記されている。小学校でどのようにしてプログラミング教育をするかが差し迫った課題となっている。]]></description>
+			<title>そのIT資格、本当に価値がありますか？（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/063000874/</link>
+			<description><![CDATA[　実務に必要な知識の習得や、保有するスキルの証明手段として役立つとされるIT関連の資格。今、その価値が問われている。クラウドの台頭といった技術動向の変化を背景に、受験者が増える資格がある一方、従来は定番とされていたにもかかわらず、最近は存在感が薄れた資格も見受けられる。]]></description>
 			<pubDate>Fri, 07 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -97,15 +97,15 @@
 			<pubDate>Fri, 07 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ラズパイでデジタル看板を自作するなら「Screenly」（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/070500014/</link>
-			<description><![CDATA[　駅や街を彩る大画面のデジタルサイネージ。静止画や動画、Webサイトなどをスケジュールに沿って再生するのが主な機能です。そのデジタルサイネージ端末をラズパイで簡単に作れるのが専用OSの「Screenly Open Source Edition（OSE）」です。]]></description>
+			<title>Windows版Linuxでエンジニア必修「AWS」「GitHub」を即体験（どう使う？Windows版Linux）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700262/070500005/</link>
+			<description><![CDATA[　Windowsで使えるLinux互換環境「Windows Subsystem for Linux（WSL）」は、Linux前提の開発環境をWindowsで扱いやすくするためのもの。その代表格である「Amazon Web Services（AWS）」と「GitHub」をWSLで体験してみよう。]]></description>
 			<pubDate>Fri, 07 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>そのIT資格、本当に価値がありますか？（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/063000874/</link>
-			<description><![CDATA[　実務に必要な知識の習得や、保有するスキルの証明手段として役立つとされるIT関連の資格。今、その価値が問われている。クラウドの台頭といった技術動向の変化を背景に、受験者が増える資格がある一方、従来は定番とされていたにもかかわらず、最近は存在感が薄れた資格も見受けられる。]]></description>
+			<title>スマホがWi-Fiルーターになる「テザリング」、大量通信の落とし穴（速くて切れないWi-Fi）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061900247/062600005/</link>
+			<description><![CDATA[　テザリングは、スマートフォンのインターネット接続をPCやタブレットといった別の機器で利用できるよう橋渡しする機能だ。スマートフォンが広く普及し、パケット通信が定額になった頃から広く使われるようになった。]]></description>
 			<pubDate>Fri, 07 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -151,15 +151,9 @@
 			<pubDate>Fri, 07 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Windows版Linuxでエンジニア必修「AWS」「GitHub」を即体験（どう使う？Windows版Linux）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062700262/070500005/</link>
-			<description><![CDATA[　Windowsで使えるLinux互換環境「Windows Subsystem for Linux（WSL）」は、Linux前提の開発環境をWindowsで扱いやすくするためのもの。その代表格である「Amazon Web Services（AWS）」と「GitHub」をWSLで体験してみよう。]]></description>
-			<pubDate>Fri, 07 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>スマホがWi-Fiルーターになる「テザリング」、大量通信の落とし穴（速くて切れないWi-Fi）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061900247/062600005/</link>
-			<description><![CDATA[　テザリングは、スマートフォンのインターネット接続をPCやタブレットといった別の機器で利用できるよう橋渡しする機能だ。スマートフォンが広く普及し、パケット通信が定額になった頃から広く使われるようになった。]]></description>
+			<title>ラズパイでデジタル看板を自作するなら「Screenly」（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/070500014/</link>
+			<description><![CDATA[　駅や街を彩る大画面のデジタルサイネージ。静止画や動画、Webサイトなどをスケジュールに沿って再生するのが主な機能です。そのデジタルサイネージ端末をラズパイで簡単に作れるのが専用OSの「Screenly Open Source Edition（OSE）」です。]]></description>
 			<pubDate>Fri, 07 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -256,6 +250,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070701863/</link>
 			<description><![CDATA[　住友化学の土佐泰夫IT推進部理事は2017年7月6日、アマゾン ウェブ サービス ジャパンが開催した企業向けセミナー「SAP on AWS最新動向セミナー」に登壇した。欧州SAP製のERPをAmazon Web Services（AWS）上に移行する事例を紹介した。]]></description>
 			<pubDate>Fri, 07 Jul 2017 14:05:53 +0900</pubDate>
+		</item>
+		<item>
+			<title>2050年にCO2排出量を実質ゼロへ、NECが環境経営方針を策定（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070701864/</link>
+			<description><![CDATA[　NECは2017年7月7日、環境経営の一環として、気候変動対策指針を策定したと発表した。2050年に自社の事業活動による二酸化炭素（CO2）の排出量を、実質ゼロにしていくとしている。]]></description>
+			<pubDate>Fri, 07 Jul 2017 16:20:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
