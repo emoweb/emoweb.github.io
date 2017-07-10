@@ -11,12 +11,6 @@
 			<pubDate>Fri, 07 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「AIやMRによる働き方改革がビジネスを変える」、日本マイクロソフトの平野社長（IT Japan 2017 速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070700026/</link>
-			<description><![CDATA[　「人工知能（AI）やMR（複合現実）などのデジタル技術によって、時間の使い方や現場での働き方、仕事の進め方を変革できる」――。日本マイクロソフトの平野拓也社長は2017年7月7日、「IT Japan 2017」（日経BP社主催）で講演し、働き方変革におけるデジタル変革の重要性について解説した。]]></description>
-			<pubDate>Fri, 07 Jul 2017 19:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>「挑戦に失敗はつきもの。そこから何を学ぶかが次につながる」、アルピニスト野口健氏（IT Japan 2017 速報）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070700030/</link>
 			<description><![CDATA[　「挑戦にはリスクがあり、苦しみがつきまとう」。アルピニストの野口健氏は2017年7月7日、「IT Japan 2017」（主催：日経BP社）の特別講演「目標を持って生きることのすばらしさ」で、自らの半生を振り返り、そう語った。]]></description>
@@ -27,6 +21,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/070701865/</link>
 			<description><![CDATA[　日本航空（JAL）は2017年7月6日、旅客系システムの切り替え日を2017年11月16日にすると発表した。現行システムのうち、米IBM製のメインフレーム上で稼働している予約・発券処理やチェックイン処理などを、スペインのアマデウスが提供するクラウドサービス「Altea（アルテア）」へ移行させる。]]></description>
 			<pubDate>Fri, 07 Jul 2017 21:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>JINSや東急ハンズなどが実践、サーバーレスの効用（サーバーレスの実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000249/070700006/</link>
+			<description><![CDATA[　常時稼働のサーバー（仮想マシン）を極力使わずにシステム基盤を構築する「サーバーレスアーキテクチャー」が、クラウドサービスを利用するユーザー企業の間で注目を集めている。例えばジンズがIoT向けのシステムに、また毎日放送は動画配信のシステムに採用した。]]></description>
+			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>古巣のシステムを使わない、元富士通SE「第二の人生」（農業 4.0）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000269/063000001/</link>
+			<description><![CDATA[　新千歳空港から車で1時間。北海道栗山町でトマトやピーマン、小麦を栽培する自ゆう耕場の堀田一司代表は10棟のビニールハウスの様子を事務所のPCやスマートフォンでチェックするのが日課だ。]]></description>
+			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Amazon.com、外資規制が厳しいインドで初の自前eコマース開始へ（US NEWSの裏を読む）</title>
@@ -53,9 +59,9 @@
 			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>JINSや東急ハンズなどが実践、サーバーレスの効用（サーバーレスの実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000249/070700006/</link>
-			<description><![CDATA[　常時稼働のサーバー（仮想マシン）を極力使わずにシステム基盤を構築する「サーバーレスアーキテクチャー」が、クラウドサービスを利用するユーザー企業の間で注目を集めている。例えばジンズがIoT向けのシステムに、また毎日放送は動画配信のシステムに採用した。]]></description>
+			<title>市民同士が監視？韓国で広がる「通報アプリ」（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/070600156/</link>
+			<description><![CDATA[　韓国ではスマートフォンが普及し始めた2010年あたりから、政府機関と自治体が開発した「不便届け」というジャンルのアプリが登場した。駐車違反、危険運転、ゴミが指定の場所以外に捨ててある、お店がドアを開けっぱなしにして冷房を使っている（電気の無駄使いなので過怠料最大約30万円）といった生活の中で起きた不便を通報するアプリ（通報アプリ）である。]]></description>
 			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,24 +95,6 @@
 			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>外部委託から内製へ、新事業のシステム開発速度を高めるガリバー（攻めのIT経営銘柄2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/070600007/</link>
-			<description><![CDATA[　「新規事業や新サービスを次々と生み出し、日々サービス改善を続けている。そのために、事業部門と一体となったシステム開発体制を実現した」。中古車の買い取りと販売を手掛けるIDOMのIT部門であるTeamXの菱沼大チームリーダーはこう語る。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>市民同士が監視？韓国で広がる「通報アプリ」（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/070600156/</link>
-			<description><![CDATA[　韓国ではスマートフォンが普及し始めた2010年あたりから、政府機関と自治体が開発した「不便届け」というジャンルのアプリが登場した。駐車違反、危険運転、ゴミが指定の場所以外に捨ててある、お店がドアを開けっぱなしにして冷房を使っている（電気の無駄使いなので過怠料最大約30万円）といった生活の中で起きた不便を通報するアプリ（通報アプリ）である。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>4万7000人の健康を把握する富士フイルム、匿名化してビッグデータ解析（働き方改革最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000135/070600010/</link>
-			<description><![CDATA[　富士フイルムや富士ゼロックスなどを傘下に持つ富士フイルムホールディングスが取り組むのは、社員の健康の見える化だ。社員の健康関連情報を集約する統合データベースを2015年度に導入し、2016年度は連結ベースで約4万3000人が利用。最終的には約4万7000人のデータを取り込む計画だ。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>タコ壺に籠もっていない？情シスは外に出よう（永井昭弘のそれって丸投げ？ユーザー責任を斬る）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090600196/062300014/</link>
 			<description><![CDATA[　某大手企業の元CIOは、事業部門から情報システム部門に異動したときに、情シス部員の内向きの思考と行動に驚いたという。「まるでタコ壺に入って、しかも底の方にへばりついているようだ」とその様子を表現した。]]></description>
@@ -119,15 +107,21 @@
 			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>古巣のシステムを使わない、元富士通SE「第二の人生」（農業 4.0）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000269/063000001/</link>
-			<description><![CDATA[　新千歳空港から車で1時間。北海道栗山町でトマトやピーマン、小麦を栽培する自ゆう耕場の堀田一司代表は10棟のビニールハウスの様子を事務所のPCやスマートフォンでチェックするのが日課だ。]]></description>
+			<title>4万7000人の健康を把握する富士フイルム、匿名化してビッグデータ解析（働き方改革最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000135/070600010/</link>
+			<description><![CDATA[　富士フイルムや富士ゼロックスなどを傘下に持つ富士フイルムホールディングスが取り組むのは、社員の健康の見える化だ。社員の健康関連情報を集約する統合データベースを2015年度に導入し、2016年度は連結ベースで約4万3000人が利用。最終的には約4万7000人のデータを取り込む計画だ。]]></description>
 			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「すべてが無料化する『限界費用ゼロ社会』、企業も変革を」、シグマクシスの柴沼氏（IT Japan 2017 速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070700027/</link>
-			<description><![CDATA[　コンサルティング企業のシグマクシスでマネージングディレクター SXキャピタル 取締役を務める柴沼俊一氏は2017年7月7日、「IT Japan 2017」（日経BP社主催）に登壇。「Future Society 来るべき『限界費用ゼロ社会』に向けて」というテーマで講演した。]]></description>
+			<title>外部委託から内製へ、新事業のシステム開発速度を高めるガリバー（攻めのIT経営銘柄2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/070600007/</link>
+			<description><![CDATA[　「新規事業や新サービスを次々と生み出し、日々サービス改善を続けている。そのために、事業部門と一体となったシステム開発体制を実現した」。中古車の買い取りと販売を手掛けるIDOMのIT部門であるTeamXの菱沼大チームリーダーはこう語る。]]></description>
+			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「練習は裏切る。データで客観的に分析すべき」、室伏広治氏（IT Japan 2017 速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070700029/</link>
+			<description><![CDATA[　「スポーツではただ練習を繰り返すだけでなく、客観的に分析するべきだ」。ハンマー投げで有名な室伏広治氏は2017年7月7日、「IT Japan 2017」（日経BP社主催）の特別講演でこう訴えた。題目は「超える力」。]]></description>
 			<pubDate>Mon, 10 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -161,15 +155,15 @@
 			<pubDate>Mon, 10 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「時価総額上位は今や、オープンソース活用企業」、レッドハット望月社長（IT Japan 2017 速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070700024/</link>
-			<description><![CDATA[　「イノベーションへの道筋は、オープンソースが支える」、レッドハットの望月弘一代表取締役社長]]></description>
+			<title>「すべてが無料化する『限界費用ゼロ社会』、企業も変革を」、シグマクシスの柴沼氏（IT Japan 2017 速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070700027/</link>
+			<description><![CDATA[　コンサルティング企業のシグマクシスでマネージングディレクター SXキャピタル 取締役を務める柴沼俊一氏は2017年7月7日、「IT Japan 2017」（日経BP社主催）に登壇。「Future Society 来るべき『限界費用ゼロ社会』に向けて」というテーマで講演した。]]></description>
 			<pubDate>Mon, 10 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「練習は裏切る。データで客観的に分析すべき」、室伏広治氏（IT Japan 2017 速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070700029/</link>
-			<description><![CDATA[　「スポーツではただ練習を繰り返すだけでなく、客観的に分析するべきだ」。ハンマー投げで有名な室伏広治氏は2017年7月7日、「IT Japan 2017」（日経BP社主催）の特別講演でこう訴えた。題目は「超える力」。]]></description>
+			<title>「時価総額上位は今や、オープンソース活用企業」、レッドハット望月社長（IT Japan 2017 速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070700024/</link>
+			<description><![CDATA[　「イノベーションへの道筋は、オープンソースが支える」、レッドハットの望月弘一代表取締役社長]]></description>
 			<pubDate>Mon, 10 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -252,6 +246,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071001872/</link>
 			<description><![CDATA[　EC（電子商取引）サイトの「Amazon.co.jp」で2017年7月10日午後6時10分ごろ、トップページにつながりにくい状態が発生した。同ページにアクセスしようとすると「お探しのページは見つかりませんでした」「リクエストの処理中にエラーが発生」などと表示。買い物などができない状態が続いている。]]></description>
 			<pubDate>Mon, 10 Jul 2017 18:20:15 +0900</pubDate>
+		</item>
+		<item>
+			<title>「デジタル時代、インテリジェンスはかつてないほど重要に」、NTTデータ岩本社長（IT Japan 2017 速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070700028/</link>
+			<description><![CDATA[　「デジタル時代に起こるインパクトは、恐竜時代絶滅を引き起こした隕石衝突のようなもの」。NTTデータの代表取締役社長の岩本敏男氏は2017年7月7日、「IT Japan 2017」（日経BP社主催）で、「デジタル時代に求められる経営の着想」と題した講演で、これから起こるであろう社会の変化をこう表現した。]]></description>
+			<pubDate>Mon, 10 Jul 2017 21:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>発見率は98％、大腸がん内視鏡検査の画像をAIが判定（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071001874/</link>
+			<description><![CDATA[　国立がん研究センターとNECは2017年7月10日、AI（人工知能）を使って内視鏡検査の画像を認識するシステムを開発したと発表した。大腸の内視鏡検査で撮影した画像を、ディープラーニング（深層学習）技術を使って判定。人間の医者よりも高い精度で検知できる。]]></description>
+			<pubDate>Mon, 10 Jul 2017 21:09:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
