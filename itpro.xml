@@ -5,126 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：スマホがWi-Fiルーターになる「テザリング」、大量通信の落とし穴（速くて切れないWi-Fi）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061900247/062600005/?d11</link>
-			<description><![CDATA[　テザリングは、スマートフォンのインターネット接続をPCやタブレットといった別の機器で利用できるよう橋渡しする機能だ。スマートフォンが広く普及し、パケット通信が定額になった頃から広く使われるようになった。]]></description>
-			<pubDate>Fri, 07 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>人月商売は「人売り」業？  SIerの商品とは何なのか（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/070500146/</link>
-			<description><![CDATA[　人月商売のITベンダーはいったい何を売っているのであろうか。SIerがシステム開発を請け負ったり、下請けITベンダーが特定機能の開発を請け負ったりしても、もちろん完成したシステムや機能自体が商品というわけではない。その価値に見合う形でカネを受け取っているわけではないからだ。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>DAZNなど相次ぐ動画配信でどうなる？多チャンネルサービス（メディア時評）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/264607/062700006/</link>
-			<description><![CDATA[　筆者は毎年、NHK放送技術研究所の技研公開に足を運び、8K映像を自分の目で確認している。2017年も技研公開イベントが5月下旬に開催されたが、世界的にみてもテレビ映像の再現性という点において、その画質は最高峰のものであり、毎年技術進化の成果も出てきていると実感できた。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Surface Pro対抗なるか？ファーウェイ2-in-1PC「MateBook E」を試す（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/070600260/</link>
-			<description><![CDATA[　ファーウェイ・ジャパンが2017年7月4日に発表したWindows PC「MateBook」シリーズの新製品のうち、着脱型2-in-1の後継モデルとして登場したのが「MateBook E」だ。前モデルとの違いを中心に、製品のファーストインプレッションをお届けしたい。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>離脱しそうな顧客をAIが見つける、大和証券が商談成功率を2.7倍に（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/070601051/</link>
-			<description><![CDATA[　大和証券はAIを活用して顧客に商品を提案する仕組みを拡大している。CRMシステムにAIを使って作成したアドバイスを表示。アドバイスの種類はこの半年間で約2.5倍に増えた。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>タコ壺に籠もっていない？情シスは外に出よう（永井昭弘のそれって丸投げ？ユーザー責任を斬る）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090600196/062300014/</link>
-			<description><![CDATA[　某大手企業の元CIOは、事業部門から情報システム部門に異動したときに、情シス部員の内向きの思考と行動に驚いたという。「まるでタコ壺に入って、しかも底の方にへばりついているようだ」とその様子を表現した。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>これをやると被害拡大？間違いだらけの初動対応（企業セキュリティ、七つの鉄則）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200257/062600002/</link>
-			<description><![CDATA[　インシデントが身近な存在になると、CSIRT機能の有無にかかわらず、どんな組織でもインシデント発生時の「初動対応」をそつなく実施できることが欠かせなくなってくる。特に、初動対応における「被害拡大防止」と「証拠保全」の2点を実施できるか否かで、その後の影響や結果が大きく異なってくる。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>侵入されても認証情報は盗ませない、Windows 10の「Credential Guard」（Windows 10のセキュリティ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600259/062600001/</link>
-			<description><![CDATA[　Windows 10の「Credential Guard」は、重要な認証情報などを保護するための新機能。コンピュータの管理者権限を攻撃者やウイルスに盗まれたとしても、認証情報を盗まれないようにする。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>JINSや東急ハンズなどが実践、サーバーレスの効用（サーバーレスの実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000249/070700006/</link>
-			<description><![CDATA[　常時稼働のサーバー（仮想マシン）を極力使わずにシステム基盤を構築する「サーバーレスアーキテクチャー」が、クラウドサービスを利用するユーザー企業の間で注目を集めている。例えばジンズがIoT向けのシステムに、また毎日放送は動画配信のシステムに採用した。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>5Gの実証実験が本格化、キャリアが仕掛ける「高度な警備」（5Gしかできないこと）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300271/070300001/</link>
-			<description><![CDATA[　いよいよ本格化してきた実証実験を中心に5Gの現状を見ていく。まだ5Gならではのユースケースは少ないが、警備などの分野では確かに期待の声がある。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>古巣のシステムを使わない、元富士通SE「第二の人生」（農業 4.0）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000269/063000001/</link>
-			<description><![CDATA[　新千歳空港から車で1時間。北海道栗山町でトマトやピーマン、小麦を栽培する自ゆう耕場の堀田一司代表は10棟のビニールハウスの様子を事務所のPCやスマートフォンでチェックするのが日課だ。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>市民同士が監視？韓国で広がる「通報アプリ」（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/070600156/</link>
-			<description><![CDATA[　韓国ではスマートフォンが普及し始めた2010年あたりから、政府機関と自治体が開発した「不便届け」というジャンルのアプリが登場した。駐車違反、危険運転、ゴミが指定の場所以外に捨ててある、お店がドアを開けっぱなしにして冷房を使っている（電気の無駄使いなので過怠料最大約30万円）といった生活の中で起きた不便を通報するアプリ（通報アプリ）である。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>外部委託から内製へ、新事業のシステム開発速度を高めるガリバー（攻めのIT経営銘柄2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/070600007/</link>
-			<description><![CDATA[　「新規事業や新サービスを次々と生み出し、日々サービス改善を続けている。そのために、事業部門と一体となったシステム開発体制を実現した」。中古車の買い取りと販売を手掛けるIDOMのIT部門であるTeamXの菱沼大チームリーダーはこう語る。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>グーグルが「ID管理」にエンジニア2000人を充てている理由（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/070600091/</link>
-			<description><![CDATA[　ID管理、アクセス管理というと、とても専門性の高い分野だという印象を持たれると思います。実際、ID管理はとても奥深い専門領域です。野村総合研究所（NRI）にID管理・アクセス管理の専門家がどれほどいるか、実際に調べたわけではありませんが、従業員1万人の1％にも満たないのではないかと思います。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>格安スマホは「事業許可制」にすべきだった（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/070400876/</link>
-			<description><![CDATA[　格安スマホを展開するMVNO（仮想移動体通信事業者）は事業許可制にすべきだった――。先日、慶應義塾大学政策・メディア研究科の夏野剛・特別招聘教授にこのような指摘を受け、思わず考え込んでしまった。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Amazon.com、外資規制が厳しいインドで初の自前eコマース開始へ（US NEWSの裏を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/200047/070400042/</link>
-			<description><![CDATA[　Amazon.comはようやくインドで、自前のeコマース事業を展開できることになりそうだ。米Wall Street Journaなどの海外メディアの報道によると、Amazon.comがインドで計画している食料品のネット販売事業に関する認可が、このほど下りる見通しになった。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>4万7000人の健康を把握する富士フイルム、匿名化してビッグデータ解析（働き方改革最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000135/070600010/</link>
-			<description><![CDATA[　富士フイルムや富士ゼロックスなどを傘下に持つ富士フイルムホールディングスが取り組むのは、社員の健康の見える化だ。社員の健康関連情報を集約する統合データベースを2015年度に導入し、2016年度は連結ベースで約4万3000人が利用。最終的には約4万7000人のデータを取り込む計画だ。]]></description>
-			<pubDate>Mon, 10 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「時価総額上位は今や、オープンソース活用企業」、レッドハット望月社長（IT Japan 2017 速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070700024/</link>
-			<description><![CDATA[　「イノベーションへの道筋は、オープンソースが支える」、レッドハットの望月弘一代表取締役社長]]></description>
-			<pubDate>Mon, 10 Jul 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「すべてが無料化する『限界費用ゼロ社会』、企業も変革を」、シグマクシスの柴沼氏（IT Japan 2017 速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070700027/</link>
-			<description><![CDATA[　コンサルティング企業のシグマクシスでマネージングディレクター SXキャピタル 取締役を務める柴沼俊一氏は2017年7月7日、「IT Japan 2017」（日経BP社主催）に登壇。「Future Society 来るべき『限界費用ゼロ社会』に向けて」というテーマで講演した。]]></description>
-			<pubDate>Mon, 10 Jul 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「練習は裏切る。データで客観的に分析すべき」、室伏広治氏（IT Japan 2017 速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070700029/</link>
-			<description><![CDATA[　「スポーツではただ練習を繰り返すだけでなく、客観的に分析するべきだ」。ハンマー投げで有名な室伏広治氏は2017年7月7日、「IT Japan 2017」（日経BP社主催）の特別講演でこう訴えた。題目は「超える力」。]]></description>
-			<pubDate>Mon, 10 Jul 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>マイクロサービス、7つの強みと5つのハードル（上）（マイクロサービス、7つの強みと5つのハードル）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300001/</link>
 			<description><![CDATA[<div>
@@ -152,6 +32,24 @@
 <div></div>
 </div>
 ]]></description>
+			<pubDate>Mon, 10 Jul 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「練習は裏切る。データで客観的に分析すべき」、室伏広治氏（IT Japan 2017 速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070700029/</link>
+			<description><![CDATA[　「スポーツではただ練習を繰り返すだけでなく、客観的に分析するべきだ」。ハンマー投げで有名な室伏広治氏は2017年7月7日、「IT Japan 2017」（日経BP社主催）の特別講演でこう訴えた。題目は「超える力」。]]></description>
+			<pubDate>Mon, 10 Jul 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「すべてが無料化する『限界費用ゼロ社会』、企業も変革を」、シグマクシスの柴沼氏（IT Japan 2017 速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070700027/</link>
+			<description><![CDATA[　コンサルティング企業のシグマクシスでマネージングディレクター SXキャピタル 取締役を務める柴沼俊一氏は2017年7月7日、「IT Japan 2017」（日経BP社主催）に登壇。「Future Society 来るべき『限界費用ゼロ社会』に向けて」というテーマで講演した。]]></description>
+			<pubDate>Mon, 10 Jul 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「時価総額上位は今や、オープンソース活用企業」、レッドハット望月社長（IT Japan 2017 速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300272/070700024/</link>
+			<description><![CDATA[　「イノベーションへの道筋は、オープンソースが支える」、レッドハットの望月弘一代表取締役社長]]></description>
 			<pubDate>Mon, 10 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -254,6 +152,18 @@
 			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>クラウド分析でWindows 10パソコンの異常を検知、「Defender ATP」（Windows 10のセキュリティ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600259/062600002/</link>
+			<description><![CDATA[　Windows 10では、攻撃者やウイルスによる侵入をいち早く検知する「Windows Defender ATP」が追加された。Windows 10に標準で実装された「エンドポイント動作センサー」がパソコンの情報を収集し、クラウドに送信する。]]></description>
+			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>外付けキーボードとの組み合わせ、これぞ2in1パソコンの真価（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/070800124/</link>
+			<description><![CDATA[　ノートパソコンとタブレットを兼用できる2in1パソコンが人気だ。しかし、せっかくの2in1パソコンをノートパソコンとしてだけ使うのはもったいない。ということで、今回は2in1パソコンの新しい使い方を提案してみたい。]]></description>
+			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>激化するサンフランシスコ市内の渋滞、原因はUberやLyft？（瀧口範子のシリコンバレー通信）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/062600105/</link>
 			<description><![CDATA[　サンフランシスコ市内の交通渋滞が深刻化している。同市交通局によると、市内での車の動きは以前よりも30％遅くなっているという。こうした渋滞の原因とされているのが「Uber」や「Lyft」などの配車サービスだ。]]></description>
@@ -290,9 +200,9 @@
 			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ANAがIoT実験でつかんだ手応えと課題、空港備品を丸ごと管理（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071001054/</link>
-			<description><![CDATA[　全日本空輸（ANA）が羽田空港で車いすやベビーカーをビーコンで管理する実証実験を、NTTドコモと共同で実施した。ANAが目指すのは空港内に散らばる無数の備品をIoTを使って丸ごと管理し、「備品を探しに行く」作業をなくして業務効率を高めることだ。]]></description>
+			<title>ストレージ専用機、終わりの始まりか？（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071001053/</link>
+			<description><![CDATA[　ストレージ製品を手掛ける大手各社が、ハイパーコンバージドインフラストラクチャーの新製品や機能強化を相次いで発表した。稼ぎ頭であるSANストレージ専用機の領域を浸食しかねない製品に、ストレージ大手各社が自ら本腰を入れてきた格好だ。]]></description>
 			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -320,21 +230,9 @@
 			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ストレージ専用機、終わりの始まりか？（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071001053/</link>
-			<description><![CDATA[　ストレージ製品を手掛ける大手各社が、ハイパーコンバージドインフラストラクチャーの新製品や機能強化を相次いで発表した。稼ぎ頭であるSANストレージ専用機の領域を浸食しかねない製品に、ストレージ大手各社が自ら本腰を入れてきた格好だ。]]></description>
-			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>外付けキーボードとの組み合わせ、これぞ2in1パソコンの真価（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/070800124/</link>
-			<description><![CDATA[　ノートパソコンとタブレットを兼用できる2in1パソコンが人気だ。しかし、せっかくの2in1パソコンをノートパソコンとしてだけ使うのはもったいない。ということで、今回は2in1パソコンの新しい使い方を提案してみたい。]]></description>
-			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>クラウド分析でWindows 10パソコンの異常を検知、「Defender ATP」（Windows 10のセキュリティ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600259/062600002/</link>
-			<description><![CDATA[　Windows 10では、攻撃者やウイルスによる侵入をいち早く検知する「Windows Defender ATP」が追加された。Windows 10に標準で実装された「エンドポイント動作センサー」がパソコンの情報を収集し、クラウドに送信する。]]></description>
+			<title>ANAがIoT実験でつかんだ手応えと課題、空港備品を丸ごと管理（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071001054/</link>
+			<description><![CDATA[　全日本空輸（ANA）が羽田空港で車いすやベビーカーをビーコンで管理する実証実験を、NTTドコモと共同で実施した。ANAが目指すのは空港内に散らばる無数の備品をIoTを使って丸ごと管理し、「備品を探しに行く」作業をなくして業務効率を高めることだ。]]></description>
 			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -369,6 +267,59 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 11 Jul 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日野とトヨタ、物流の効率化へIoT実験を共同実施（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071101875/</link>
+			<description><![CDATA[　日野自動車はトヨタ自動車と共同で、IoT（インターネット・オブ・シングズ）を活用して物流を効率化する実証実験を進めている。]]></description>
+			<pubDate>Tue, 11 Jul 2017 10:03:18 +0900</pubDate>
+		</item>
+		<item>
+			<title>米英らの諜報同盟「Five Eyes」、情報開示を求める訴訟が発生（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071100392/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米国、英国、オーストラリア、カナダ、ニュージーランドの5カ国は、情報収集活動に関して、「Five Eyes」という同盟を結んでいる。そのFive Eyesが、世界の人々に対するスパイ行為をしやすくするための対応をインターネット企業に求めた。これに対し、プライバシー擁護団体らは、暗号を弱体化することに懸念を表明する書簡を関係閣僚に送付。さらに、その中の1つの団体が、Five Eyesの協定の内容を明らかにするよう求める訴訟を、米国の裁判所に起こした。
+</p>
+
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071100392/digital_key.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Peter Sayer</div>
+</div>
+
+<p>
+　Five Eyesは、同盟の結成から71年になる。この間に世の中は大きく変化した。情報傍受の対象となる人々は、電話で会話するだけではない。スマートフォンや検索エンジン、電子メールも利用するし、フィットネストラッカーから上がるデータもある。諜報機関が得られるデータは豊富だ。
+</p>
+<p>
+　だが、データ暗号化技術の利用が広がっていることから、諜報機関としては、衛星通信や海底通信ケーブルで伝送されるデータの傍受が難しくなっている。そこで、2017年6月下旬にカナダで会合を開いたFive Eyesの5カ国の代表者は、テロリストや犯罪者が通信の隠匿に利用している暗号化の無効化を目指す政府機関の活動に協力するよう、ISP（インターネット・サービス・プロバイダー）や機器メーカーに要求した。
+</p>
+<p>
+　この動きを受けて、市民的自由を擁護する83の団体らは、2017年6月30日、Five Eyes参加を所管とする閣僚5人に宛てて書簡を送った。通信システムのセキュリティの弱体化ではなく強化を訴える内容の書簡だ。
+</p>
+<p>
+　「テクノロジーとしての暗号化は、害より利益の方がはるかに大きい」と書簡にはある。
+</p>
+<p>
+　だが、この書簡に名を連ねた団体のうち、英プライバシー擁護団体Privacy Internationalは、暗号化に余計な手出しをしないよう書面で主張するだけでは収まらなかった。
+</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071100392/?ST=cm-network&P=2">同団体は米国時間2017年7月6日、FiveEyesに関する文書...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071100392/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071100392/?ST=cm-network&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071100392/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 11 Jul 2017 10:06:14 +0900</pubDate>
 		</item>
 		<item>
 			<title>富士通がSIMフリースマホ「arrows M04」発表、高めの年齢層を意識（ニュース）</title>
