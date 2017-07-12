@@ -5,6 +5,30 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>サーバーレスが盛り上がる二つの事情（サーバーレスの実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000249/062000001/</link>
+			<description><![CDATA[　サーバーレスアーキテクチャーが広がってきた背景は大きく二つある。一つは、突発的に大量の処理が発生するシステムが増えてきたこと。もう一つは、APIで扱いやすいクラウドのサービスが充実してきたことだ。]]></description>
+			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>有機ELテレビ（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/070400081/</link>
+			<description><![CDATA[　自発光する有機ELパネルを使用するテレビ。次世代テレビとして注目を集めている。2017年に入り、東芝、ソニー、パナソニックと国内大手メーカーが続々参入する一方で、価格の高さが普及の課題となっている。]]></description>
+			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>これだけ知っていればいい、三つの「デジタル化の本質」（経営者に読ませる「B2Bマーケティング攻略ガイド」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400162/062300002/</link>
+			<description><![CDATA[　「デジタル化」「デジタルトランスフォーメーション」「デジタルマーケティング」――。こんな言葉が声高に叫ばれている。しかしそれらの本質をきちんと理解している経営者は少ない。いや、少ないどころか、ほとんどいないと言ってもいい。]]></description>
+			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「変えてみなはれ」、サントリー流働き方改革のナカミ（働き方改革最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000135/070700011/</link>
+			<description><![CDATA[　ナカミ改革元年――。2016年に残業時間を1割減らし、有給休暇取得率を1.3倍に高めたサントリーホールディングスは、2017年の働き方改革をこう位置付ける。]]></description>
+			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>バンドを替えれば腕時計がスマートウォッチに、ソニー「wena wrist」は成功するか（佐野正弘が斬る！ニュースなアプリの裏側）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/070300113/</link>
 			<description><![CDATA[　ソニーは2017年7月3日、電子マネー機能を搭載した腕時計用レザーバンド「wena wrist leather」を12月下旬に発売すると発表した。ヘッドではなくバンドでスマートウォッチ化を実現するwena wrist leatherには新しい可能性を感じる一方で、スマートウォッチの進化としては大きな課題もあるように見える。]]></description>
@@ -35,9 +59,9 @@
 			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>利益出にくい専有クラウド、それでも提供するIT企業の思惑（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/070600877/</link>
-			<description><![CDATA[　少し前の記者の眼でとあるサービスを「専有クラウド」と名付け、ユーザーはサービスを使い続けるメリットがなさそうだと論じた。追加で取材をしたところ、どうやらサービスを運営する事業者にとってもメリットが少なさそうだと分かった。]]></description>
+			<title>外付けキーボードとの組み合わせ、これぞ2in1パソコンの真価（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/070800124/</link>
+			<description><![CDATA[　ノートパソコンとタブレットを兼用できる2in1パソコンが人気だ。しかし、せっかくの2in1パソコンをノートパソコンとしてだけ使うのはもったいない。ということで、今回は2in1パソコンの新しい使い方を提案してみたい。]]></description>
 			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -65,126 +89,10 @@
 			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>外付けキーボードとの組み合わせ、これぞ2in1パソコンの真価（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/070800124/</link>
-			<description><![CDATA[　ノートパソコンとタブレットを兼用できる2in1パソコンが人気だ。しかし、せっかくの2in1パソコンをノートパソコンとしてだけ使うのはもったいない。ということで、今回は2in1パソコンの新しい使い方を提案してみたい。]]></description>
+			<title>利益出にくい専有クラウド、それでも提供するIT企業の思惑（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/070600877/</link>
+			<description><![CDATA[　少し前の記者の眼でとあるサービスを「専有クラウド」と名付け、ユーザーはサービスを使い続けるメリットがなさそうだと論じた。追加で取材をしたところ、どうやらサービスを運営する事業者にとってもメリットが少なさそうだと分かった。]]></description>
 			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「変えてみなはれ」、サントリー流働き方改革のナカミ（働き方改革最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000135/070700011/</link>
-			<description><![CDATA[　ナカミ改革元年――。2016年に残業時間を1割減らし、有給休暇取得率を1.3倍に高めたサントリーホールディングスは、2017年の働き方改革をこう位置付ける。]]></description>
-			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>これだけ知っていればいい、三つの「デジタル化の本質」（経営者に読ませる「B2Bマーケティング攻略ガイド」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042400162/062300002/</link>
-			<description><![CDATA[　「デジタル化」「デジタルトランスフォーメーション」「デジタルマーケティング」――。こんな言葉が声高に叫ばれている。しかしそれらの本質をきちんと理解している経営者は少ない。いや、少ないどころか、ほとんどいないと言ってもいい。]]></description>
-			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>有機ELテレビ（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/070400081/</link>
-			<description><![CDATA[　自発光する有機ELパネルを使用するテレビ。次世代テレビとして注目を集めている。2017年に入り、東芝、ソニー、パナソニックと国内大手メーカーが続々参入する一方で、価格の高さが普及の課題となっている。]]></description>
-			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>サーバーレスが盛り上がる二つの事情（サーバーレスの実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000249/062000001/</link>
-			<description><![CDATA[　サーバーレスアーキテクチャーが広がってきた背景は大きく二つある。一つは、突発的に大量の処理が発生するシステムが増えてきたこと。もう一つは、APIで扱いやすいクラウドのサービスが充実してきたことだ。]]></description>
-			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>プロジェクトマネジメントでありがちな8つの誤り（前）（プロジェクトマネジメントでありがちな8つの誤り）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/070300052/070300001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　この記事では、プロジェクトマネージャーが犯しがちな誤りとその回避方法について、企業のIT担当幹部やプロジェクトマネジメントの専門家の話を元にまとめていく。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300052/070300001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　プロジェクトの数と同じだけ、マネジメントの不始末はある。IT幹部の多くはそう繰り返す。実際、プロジェクト管理ソフトを使っていたとしても、ITプロジェクトが予定より大幅に長引いて予算をオーバーしてしまうことは多々ある。</p>
-
-<p>　まったく同じプロジェクトは2つとないが、プロジェクトに悪影響を及ぼして破綻へと導きかねない問題は、共通点がかなり多い。優秀なプロジェクトマネージャーといえども、複雑な大規模プロジェクトと格闘する時や、変更要求の嵐に襲われた時には、ミスを犯すことがある。</p>
-
-<p>　この記事では、プロジェクトマネージャーが犯しがちな誤りとその回避方法について、企業のIT担当幹部やプロジェクトマネジメントの専門家の話を元にまとめていく。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300052/070300001/?ST=cio-management&P=2">誤り1：チーム全体の顔合わせや目標設定を最初にし...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300052/070300001/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300052/070300001/?ST=cio-management&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300052/070300001/?ST=cio-management&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300052/070300001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 11 Jul 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日野とトヨタ、物流の効率化へIoT実験を共同実施（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071101875/</link>
-			<description><![CDATA[　日野自動車はトヨタ自動車と共同で、IoT（インターネット・オブ・シングズ）を活用して物流を効率化する実証実験を進めている。]]></description>
-			<pubDate>Tue, 11 Jul 2017 10:03:18 +0900</pubDate>
-		</item>
-		<item>
-			<title>米英らの諜報同盟「Five Eyes」、情報開示を求める訴訟が発生（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071100392/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米国、英国、オーストラリア、カナダ、ニュージーランドの5カ国は、情報収集活動に関して、「Five Eyes」という同盟を結んでいる。そのFive Eyesが、世界の人々に対するスパイ行為をしやすくするための対応をインターネット企業に求めた。これに対し、プライバシー擁護団体らは、暗号を弱体化することに懸念を表明する書簡を関係閣僚に送付。さらに、その中の1つの団体が、Five Eyesの協定の内容を明らかにするよう求める訴訟を、米国の裁判所に起こした。
-</p>
-
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071100392/digital_key.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Peter Sayer</div>
-</div>
-
-<p>
-　Five Eyesは、同盟の結成から71年になる。この間に世の中は大きく変化した。情報傍受の対象となる人々は、電話で会話するだけではない。スマートフォンや検索エンジン、電子メールも利用するし、フィットネストラッカーから上がるデータもある。諜報機関が得られるデータは豊富だ。
-</p>
-<p>
-　だが、データ暗号化技術の利用が広がっていることから、諜報機関としては、衛星通信や海底通信ケーブルで伝送されるデータの傍受が難しくなっている。そこで、2017年6月下旬にカナダで会合を開いたFive Eyesの5カ国の代表者は、テロリストや犯罪者が通信の隠匿に利用している暗号化の無効化を目指す政府機関の活動に協力するよう、ISP（インターネット・サービス・プロバイダー）や機器メーカーに要求した。
-</p>
-<p>
-　この動きを受けて、市民的自由を擁護する83の団体らは、2017年6月30日、Five Eyes参加を所管とする閣僚5人に宛てて書簡を送った。通信システムのセキュリティの弱体化ではなく強化を訴える内容の書簡だ。
-</p>
-<p>
-　「テクノロジーとしての暗号化は、害より利益の方がはるかに大きい」と書簡にはある。
-</p>
-<p>
-　だが、この書簡に名を連ねた団体のうち、英プライバシー擁護団体Privacy Internationalは、暗号化に余計な手出しをしないよう書面で主張するだけでは収まらなかった。
-</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071100392/?ST=cm-network&P=2">同団体は米国時間2017年7月6日、FiveEyesに関する文書...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071100392/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071100392/?ST=cm-network&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071100392/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 11 Jul 2017 10:06:14 +0900</pubDate>
-		</item>
-		<item>
-			<title>富士通がSIMフリースマホ「arrows M04」発表、高めの年齢層を意識（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071101876/</link>
-			<description><![CDATA[　富士通コネクテッドテクノロジーズは2017年7月10日、汐留本社で新製品発表会を開催し、SIMロックフリースマートフォンの新製品「arrows M04」を発表した。]]></description>
-			<pubDate>Tue, 11 Jul 2017 10:36:03 +0900</pubDate>
 		</item>
 		<item>
 			<title>Office 365にWindows 10を組み合わせた「Microsoft 365」、ターゲットは中小企業（ニュース）</title>
@@ -241,15 +149,39 @@
 			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>すかいらーくが2カ月で開発したセルフレジ、会計時間を半分に（すごいレジ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000270/071000002/</link>
+			<description><![CDATA[　最新のITを駆使したレジは、名称や外観はもちろん、用途も使い方も店舗によって様々だ。そんな中から今回は、すかいらーくが導入したセルフレジを紹介する。]]></description>
+			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ようやくオフライン機能が強化されたAndroid版Chrome最新版（ネットワーク・ホットトピックス）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/277462/070500060/</link>
+			<description><![CDATA[　2016年12月にリリースされたバージョン55以降のWebブラウザー「Google Chrome for Android」は、事前にダウンロードしておいたWebページや画像、動画などをオフライン時に表示できる。2017年4月にリリースされたバージョン58では、このオフライン機能が強化された。]]></description>
+			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>iPhone 8では指紋センサーが廃止に？ 顔認証に変わる可能性も（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/071000050/</link>
+			<description><![CDATA[　米アップルは毎年9月に新型iPhoneを発売する。今年は「iPhone10周年」という節目に当たり、特別なモデルが用意されるとの期待が高まっている。そのiPhoneについて、新しいセキュリティシステムを導入する可能性を指摘する報道がある。]]></description>
+			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>黒船襲来、アマゾンが頼るeスポーツ企業（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071101055/</link>
+			<description><![CDATA[　ゲーム動画のネット配信を手掛ける世界最大手、米Twitch（ツイッチ）が今冬以降、日本市場の攻略を本格化する。様々な特典が受けられ、海外で好評を得ている追加サービスなどを順次日本に投入する。同社は米アマゾン・ドット・コムの子会社。対戦型のゲームをスポーツ競技のように楽しむ「eスポーツ」の人気が高まるなか、日本での勢力拡大を図る。]]></description>
+			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>5Gへの提言、私ならこう使う（5Gしかできないこと）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300271/070300003/</link>
 			<description><![CDATA[　5Gへの期待や不満を、自動車、医療、IoTの識者に聞いた。]]></description>
 			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>新規事業でマーケティング自動化、富士フイルムが営業効率10倍へ（攻めのIT経営銘柄2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/071100008/</link>
-			<description><![CDATA[　富士フイルムホールディングスは、マーケティング活動の効率化を実現するため全社で共通のITシステムを構築。2016年4月以降順次、事業部門に展開した。最も効果の出たケースでは、商談までの期間と工数を10分の1に短縮できたという。]]></description>
+			<title>しらけたワークショップ、“箔付け”で意欲を引き出そう（清水久三子の提案は誰が言うか）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900110/062600005/</link>
+			<description><![CDATA[　多くの人が一堂に会して意見を出し合うワークショップのような場では、より多くの参加者に積極的な姿勢を持ってもらう必要があります。そのためには、相手のプレゼンスに注目しましょう。相手が前向きに話せるように「あなたのプレゼンスを尊重していますよ」と伝えるわけです。]]></description>
 			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -259,9 +191,9 @@
 			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>すかいらーくが2カ月で開発したセルフレジ、会計時間を半分に（すごいレジ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000270/071000002/</link>
-			<description><![CDATA[　最新のITを駆使したレジは、名称や外観はもちろん、用途も使い方も店舗によって様々だ。そんな中から今回は、すかいらーくが導入したセルフレジを紹介する。]]></description>
+			<title>適性クイズで社員の性格を共有、相互理解で働きやすい職場に（働き方改革最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000135/070700012/</link>
+			<description><![CDATA[　市場調査やコンサルティング業務を手掛けるMS＆Consultingでは、社員だけでなく新卒の採用活動でも人材の見える化に取り組んでいる。使うITツールは、ミライセルフが開発した人工知能（AI）を使った求人・求職マッチングサービス「mitsucari」の主要機能である「適性クイズ」だ。]]></description>
 			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -283,33 +215,9 @@
 			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>しらけたワークショップ、“箔付け”で意欲を引き出そう（清水久三子の提案は誰が言うか）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900110/062600005/</link>
-			<description><![CDATA[　多くの人が一堂に会して意見を出し合うワークショップのような場では、より多くの参加者に積極的な姿勢を持ってもらう必要があります。そのためには、相手のプレゼンスに注目しましょう。相手が前向きに話せるように「あなたのプレゼンスを尊重していますよ」と伝えるわけです。]]></description>
-			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ようやくオフライン機能が強化されたAndroid版Chrome最新版（ネットワーク・ホットトピックス）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/277462/070500060/</link>
-			<description><![CDATA[　2016年12月にリリースされたバージョン55以降のWebブラウザー「Google Chrome for Android」は、事前にダウンロードしておいたWebページや画像、動画などをオフライン時に表示できる。2017年4月にリリースされたバージョン58では、このオフライン機能が強化された。]]></description>
-			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iPhone 8では指紋センサーが廃止に？ 顔認証に変わる可能性も（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/071000050/</link>
-			<description><![CDATA[　米アップルは毎年9月に新型iPhoneを発売する。今年は「iPhone10周年」という節目に当たり、特別なモデルが用意されるとの期待が高まっている。そのiPhoneについて、新しいセキュリティシステムを導入する可能性を指摘する報道がある。]]></description>
-			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>適性クイズで社員の性格を共有、相互理解で働きやすい職場に（働き方改革最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000135/070700012/</link>
-			<description><![CDATA[　市場調査やコンサルティング業務を手掛けるMS＆Consultingでは、社員だけでなく新卒の採用活動でも人材の見える化に取り組んでいる。使うITツールは、ミライセルフが開発した人工知能（AI）を使った求人・求職マッチングサービス「mitsucari」の主要機能である「適性クイズ」だ。]]></description>
-			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>黒船襲来、アマゾンが頼るeスポーツ企業（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071101055/</link>
-			<description><![CDATA[　ゲーム動画のネット配信を手掛ける世界最大手、米Twitch（ツイッチ）が今冬以降、日本市場の攻略を本格化する。様々な特典が受けられ、海外で好評を得ている追加サービスなどを順次日本に投入する。同社は米アマゾン・ドット・コムの子会社。対戦型のゲームをスポーツ競技のように楽しむ「eスポーツ」の人気が高まるなか、日本での勢力拡大を図る。]]></description>
+			<title>新規事業でマーケティング自動化、富士フイルムが営業効率10倍へ（攻めのIT経営銘柄2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/071100008/</link>
+			<description><![CDATA[　富士フイルムホールディングスは、マーケティング活動の効率化を実現するため全社で共通のITシステムを構築。2016年4月以降順次、事業部門に展開した。最も効果の出たケースでは、商談までの期間と工数を10分の1に短縮できたという。]]></description>
 			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -416,6 +324,12 @@
 			<pubDate>Wed, 12 Jul 2017 16:35:46 +0900</pubDate>
 		</item>
 		<item>
+			<title>Raspberry Pi Zero Wが技適を通過、4カ月遅れで日本上陸へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071201888/</link>
+			<description><![CDATA[　電子部品商社のケイエスワイは2017年7月12日、無線LAN搭載の小型PCボード「Raspberry Pi Zero W」を同年7月18日に発売すると発表した。当初は3月中旬の販売開始を予定していたが、電波法に基づく技術基準適合証明等の認証が未取得だったため、発売を延期していた。]]></description>
+			<pubDate>Wed, 12 Jul 2017 17:46:24 +0900</pubDate>
+		</item>
+		<item>
 			<title>クラウドAIを利用して自動運転車を守るシステム、パナソニックが2020年をメドに販売（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071201889/</link>
 			<description><![CDATA[　パナソニックは、自動運転車をサイバー攻撃から守る新技術を開発し、この技術を利用した車載システムを販売する見込みであることが日経NETWORKの取材でわかった。同社は自動運転車の普及が進むのは2020年頃と見ており、2020年をメドに自動車メーカー向けに販売する。]]></description>
@@ -426,6 +340,24 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071201890/</link>
 			<description><![CDATA[　レノボ・エンタープライズ・ソリューションズは2017年7月12日、サーバーやストレージ製品の新ブランド2種を発表した。複数に分かれていたブランドを簡素にして、データセンター事業者向けや中小企業向けといった製品ラインナップの位置付けをより明確にした。]]></description>
 			<pubDate>Wed, 12 Jul 2017 19:04:11 +0900</pubDate>
+		</item>
+		<item>
+			<title>ハネウェルが「IoT航空機」デモ飛行、気象情報共有や故障予測にデータ活用（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071201891/</link>
+			<description><![CDATA[　米ハネウェルは2017年7月12日、インターネット接続機能を備えた試験用航空機のデモフライトを実施した。乗客向けにインターネット接続サービスを提供するほか、機体の主要部品に取り付けたセンサーの測定値をリアルタイムに地上へ伝送し、気象情報の共有や故障予測にも活用できるとする。]]></description>
+			<pubDate>Wed, 12 Jul 2017 19:15:16 +0900</pubDate>
+		</item>
+		<item>
+			<title>パラレルスが「Parallels RAS16」を発表、VDIやモバイル向け機能を強化（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071201893/</link>
+			<description><![CDATA[　パラレルスは2017年7月12日、都内で記者発表会を開催し、仮想デスクトップやアプリケーションの配信ソリューション「Parallels Remote Application Server バージョン16」（以下Parallels RAS）を国内向けに発表した。8月1日より提供を開始する。]]></description>
+			<pubDate>Wed, 12 Jul 2017 20:04:43 +0900</pubDate>
+		</item>
+		<item>
+			<title>ハワイアンズモールのクレジットカード情報流出、原因はOpneSSLの脆弱性「HeartBleed」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071201895/</link>
+			<description><![CDATA[　観光施設「スパリゾートハワイアンズ」で知られる常磐興産は2017年7月12日、同社のショッピングサイト「ハワイアンズモール」で、最大6860件のクレジットカード情報が流出した可能性があると発表した。原因は、システムで利用していたSSL/TLSライブラリである「OpenSSL」の脆弱性「HeartBleed」である。]]></description>
+			<pubDate>Wed, 12 Jul 2017 20:28:18 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
