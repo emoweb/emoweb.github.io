@@ -5,6 +5,18 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>ストレージ専用機、終わりの始まりか？（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071001053/</link>
+			<description><![CDATA[　ストレージ製品を手掛ける大手各社が、ハイパーコンバージドインフラストラクチャーの新製品や機能強化を相次いで発表した。稼ぎ頭であるSANストレージ専用機の領域を浸食しかねない製品に、ストレージ大手各社が自ら本腰を入れてきた格好だ。]]></description>
+			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>利益出にくい専有クラウド、それでも提供するIT企業の思惑（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/070600877/</link>
+			<description><![CDATA[　少し前の記者の眼でとあるサービスを「専有クラウド」と名付け、ユーザーはサービスを使い続けるメリットがなさそうだと論じた。追加で取材をしたところ、どうやらサービスを運営する事業者にとってもメリットが少なさそうだと分かった。]]></description>
+			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>サーバーレスが盛り上がる二つの事情（サーバーレスの実力）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000249/062000001/</link>
 			<description><![CDATA[　サーバーレスアーキテクチャーが広がってきた背景は大きく二つある。一つは、突発的に大量の処理が発生するシステムが増えてきたこと。もう一つは、APIで扱いやすいクラウドのサービスが充実してきたことだ。]]></description>
@@ -47,15 +59,15 @@
 			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>クラウド分析でWindows 10パソコンの異常を検知、「Defender ATP」（Windows 10のセキュリティ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600259/062600002/</link>
-			<description><![CDATA[　Windows 10では、攻撃者やウイルスによる侵入をいち早く検知する「Windows Defender ATP」が追加された。Windows 10に標準で実装された「エンドポイント動作センサー」がパソコンの情報を収集し、クラウドに送信する。]]></description>
+			<title>胎動する「農業4.0」、クボタやソフトバンクが熱視線（農業 4.0）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000269/063000002/</link>
+			<description><![CDATA[　FinTech、インダストリー 4.0──。金融や製造など様々な分野で先端ITを活用した業界変革の機運が高まるなか、日本で急速に脚光を浴びつつあるのが農業分野でのIT活用、アグリテック（Agritech）だ。農業機械メーカーやITベンダー、ベンチャー企業もアグリテックの活用に意欲を見せる。]]></description>
 			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ストレージ専用機、終わりの始まりか？（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071001053/</link>
-			<description><![CDATA[　ストレージ製品を手掛ける大手各社が、ハイパーコンバージドインフラストラクチャーの新製品や機能強化を相次いで発表した。稼ぎ頭であるSANストレージ専用機の領域を浸食しかねない製品に、ストレージ大手各社が自ら本腰を入れてきた格好だ。]]></description>
+			<title>生卵を割らないように袋詰め、ローソン「レジレボ」の気遣い（すごいレジ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000270/071000001/</link>
+			<description><![CDATA[　コンビニのレジに、最新のロボティクス技術や無線技術の導入が始まった。ローソンとパナソニックが、実験店舗「ローソンパナソニック前店」に、新しく開発したレジを導入した。その名も「レジロボ」だ。]]></description>
 			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -77,34 +89,10 @@
 			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>胎動する「農業4.0」、クボタやソフトバンクが熱視線（農業 4.0）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000269/063000002/</link>
-			<description><![CDATA[　FinTech、インダストリー 4.0──。金融や製造など様々な分野で先端ITを活用した業界変革の機運が高まるなか、日本で急速に脚光を浴びつつあるのが農業分野でのIT活用、アグリテック（Agritech）だ。農業機械メーカーやITベンダー、ベンチャー企業もアグリテックの活用に意欲を見せる。]]></description>
+			<title>クラウド分析でWindows 10パソコンの異常を検知、「Defender ATP」（Windows 10のセキュリティ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600259/062600002/</link>
+			<description><![CDATA[　Windows 10では、攻撃者やウイルスによる侵入をいち早く検知する「Windows Defender ATP」が追加された。Windows 10に標準で実装された「エンドポイント動作センサー」がパソコンの情報を収集し、クラウドに送信する。]]></description>
 			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>生卵を割らないように袋詰め、ローソン「レジレボ」の気遣い（すごいレジ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000270/071000001/</link>
-			<description><![CDATA[　コンビニのレジに、最新のロボティクス技術や無線技術の導入が始まった。ローソンとパナソニックが、実験店舗「ローソンパナソニック前店」に、新しく開発したレジを導入した。その名も「レジロボ」だ。]]></description>
-			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>利益出にくい専有クラウド、それでも提供するIT企業の思惑（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/070600877/</link>
-			<description><![CDATA[　少し前の記者の眼でとあるサービスを「専有クラウド」と名付け、ユーザーはサービスを使い続けるメリットがなさそうだと論じた。追加で取材をしたところ、どうやらサービスを運営する事業者にとってもメリットが少なさそうだと分かった。]]></description>
-			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Office 365にWindows 10を組み合わせた「Microsoft 365」、ターゲットは中小企業（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071101877/</link>
-			<description><![CDATA[　米Microsoftは2017年7月9日（米国時間）、「Office 365」や「Windows 10」、セキュリティ管理サービスなどを組み合わせた新しいクラウドサービス「Microsoft 365」を発表した。]]></description>
-			<pubDate>Tue, 11 Jul 2017 11:21:52 +0900</pubDate>
-		</item>
-		<item>
-			<title>ERPの業務を自動化、アビームがRPAの新サービス（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071101878/</link>
-			<description><![CDATA[　アビームコンサルティングは2017年7月11日、ERPによる業務処理をソフトウエアで自動化するサービスを始めた。PCを使った定型的な事務作業を自動化する技術RPAを活用。欧州SAP製ERPを使った業務の数値チェックやデータ登録といった作業を自動的に実行し、事務作業の負担を軽減する。]]></description>
-			<pubDate>Tue, 11 Jul 2017 15:43:13 +0900</pubDate>
 		</item>
 		<item>
 			<title>スイッチオンでクラウドを使う、ニュータニックスがDR自動化サービス（ニュース）</title>
@@ -146,6 +134,18 @@
 			<title>業務と個人の領域を分離して守る、Windows 10の情報漏洩防止機能「WIP」（Windows 10のセキュリティ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600259/062600003/</link>
 			<description><![CDATA[　Windows 10では、ユーザーのうっかりミスなどによる情報漏洩を防ぐ新機能「Windows Information Protection」（WIP）を備えた。データとアプリケーションを、ビジネス（組織）とパーソナル（個人）の二つの領域に分離する。]]></description>
+			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>アマゾン、生鮮スーパー1兆5000億円買収の勝算（シリコンバレーNextレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/071100114/</link>
+			<description><![CDATA[　米アマゾン・ドット・コムが137億ドル（約1兆5000億円）を投じる巨額買収で、ネット通販とリアル店舗を融合させるオムニチャネル戦略を加速する。買収するのは高級スーパーチェーンの米ホールフーズ・マーケット。生鮮食料品を即時配送して、アマゾンが力を注ぐ生鮮食品の宅配サービスを強化するとみられる。]]></description>
+			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>新規事業でマーケティング自動化、富士フイルムが営業効率10倍へ（攻めのIT経営銘柄2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/071100008/</link>
+			<description><![CDATA[　富士フイルムホールディングスは、マーケティング活動の効率化を実現するため全社で共通のITシステムを構築。2016年4月以降順次、事業部門に展開した。最も効果の出たケースでは、商談までの期間と工数を10分の1に短縮できたという。]]></description>
 			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -197,27 +197,15 @@
 			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>サーバーレスにするとアプリ開発が大変に！？（サーバーレスの実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000249/062000002/</link>
-			<description><![CDATA[　サーバーレスアーキテクチャーでシステムを構築すると、アプリケーションの開発、システムの運用ともに、一般的なシステムと大きく変わる。例えば開発は実装箇所が少ないため、工数が下がりそうにも思える。だが実際には増える傾向にある。]]></description>
-			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>アマゾン、生鮮スーパー1兆5000億円買収の勝算（シリコンバレーNextレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/071100114/</link>
-			<description><![CDATA[　米アマゾン・ドット・コムが137億ドル（約1兆5000億円）を投じる巨額買収で、ネット通販とリアル店舗を融合させるオムニチャネル戦略を加速する。買収するのは高級スーパーチェーンの米ホールフーズ・マーケット。生鮮食料品を即時配送して、アマゾンが力を注ぐ生鮮食品の宅配サービスを強化するとみられる。]]></description>
-			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>メルカリのセキュリティ事故から想う「生涯一エンジニア」（編集長の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/070600040/</link>
 			<description><![CDATA[　6月22日、フリーマーケットサービスのメルカリでセキュリティの事故が発生した。ユーザーの個人情報が誤ってサーバーにキャッシュされ、他のユーザーに表示されてしまう、といったものだ。この事故に対し驚いたのは、メルカリの対応が速かったことだ。]]></description>
 			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>新規事業でマーケティング自動化、富士フイルムが営業効率10倍へ（攻めのIT経営銘柄2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/071100008/</link>
-			<description><![CDATA[　富士フイルムホールディングスは、マーケティング活動の効率化を実現するため全社で共通のITシステムを構築。2016年4月以降順次、事業部門に展開した。最も効果の出たケースでは、商談までの期間と工数を10分の1に短縮できたという。]]></description>
+			<title>サーバーレスにするとアプリ開発が大変に！？（サーバーレスの実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000249/062000002/</link>
+			<description><![CDATA[　サーバーレスアーキテクチャーでシステムを構築すると、アプリケーションの開発、システムの運用ともに、一般的なシステムと大きく変わる。例えば開発は実装箇所が少ないため、工数が下がりそうにも思える。だが実際には増える傾向にある。]]></description>
 			<pubDate>Wed, 12 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -348,10 +336,22 @@
 			<pubDate>Wed, 12 Jul 2017 19:15:16 +0900</pubDate>
 		</item>
 		<item>
+			<title>西松建設が低コスト・省電力のインフラ監視システムを開発（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071201892/</link>
+			<description><![CDATA[　西松建設は2017年7月12日、導入と運用が手軽で安価なインフラ監視システムを開発したと発表した。2017年内に仕様を固め、2018年内の実用化を目指す。]]></description>
+			<pubDate>Wed, 12 Jul 2017 19:37:16 +0900</pubDate>
+		</item>
+		<item>
 			<title>パラレルスが「Parallels RAS16」を発表、VDIやモバイル向け機能を強化（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071201893/</link>
 			<description><![CDATA[　パラレルスは2017年7月12日、都内で記者発表会を開催し、仮想デスクトップやアプリケーションの配信ソリューション「Parallels Remote Application Server バージョン16」（以下Parallels RAS）を国内向けに発表した。8月1日より提供を開始する。]]></description>
 			<pubDate>Wed, 12 Jul 2017 20:04:43 +0900</pubDate>
+		</item>
+		<item>
+			<title>「セキュリティ対策に優先順位を」、ガートナーのリサーチ バイス プレジデント（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071201894/</link>
+			<description><![CDATA[　米調査会社のガートナーでリサーチ バイス プレジデントを務めるアール・パーキンス氏は2017年7月12日、「ガートナー セキュリティ＆リスク・マネジメント サミット 2017」の講演で注目すべきサイバーセキュリティの変化ついて解説した。]]></description>
+			<pubDate>Wed, 12 Jul 2017 20:22:15 +0900</pubDate>
 		</item>
 		<item>
 			<title>ハワイアンズモールのクレジットカード情報流出、原因はOpneSSLの脆弱性「HeartBleed」（ニュース）</title>
