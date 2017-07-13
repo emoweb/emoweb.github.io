@@ -5,51 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：外付けキーボードとの組み合わせ、これぞ2in1パソコンの真価（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/070800124/?d13</link>
-			<description><![CDATA[　ノートパソコンとタブレットを兼用できる2in1パソコンが人気だ。しかし、せっかくの2in1パソコンをノートパソコンとしてだけ使うのはもったいない。ということで、今回は2in1パソコンの新しい使い方を提案してみたい。]]></description>
-			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>マイクロサービス、7つの強みと5つのハードル（中）（マイクロサービス、7つの強みと5つのハードル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　この記事では、次なるアプリケーション開発プロジェクトでマイクロサービスを検討すべき7つの理由と、成功のために乗り越えるべき5つのハードルについて見ていく。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300001/" target="_blank">前回</a>から続く）</p>
-
-<h4>1：レジリエンシーの向上</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　マイクロサービスでは、アプリケーション全体を細かく分け、それぞれが別個の存在として機能する複数のサービスに分散化する。障害の影響が単一のサービスや機能にとどまらないモノリシックなアーキテクチャーとは違って、障害の影響は最小限に抑えられる。いくつかのシステムを保守のために停止したとしても、ユーザーは気づかない。</p>
-
-<h4>2：スケーラビリティの向上</h4>
-
-<p>　マイクロサービスで鍵となる特徴がスケーラビリティだ。サービスがそれぞれ別個の構成要素であることから、1つの機能やサービスをスケールアップする時でも、アプリケーション全体をスケールアップする必要はない。ビジネスクリティカルなサービスを複数のサーバーにデプロイして可用性やパフォーマンスを高めても、他のサービスのパフォーマンスには影響しない。</p>
-
-<h4>3：目的に合った道具を選べる</h4>
-
-<p>　マイクロサービスの場合、特定のベンダーに縛られる必要はない。目的に合った道具を適材適所で柔軟に活用できる。使用する言語、フレームワーク、付随サービスが異なっていても、サービス同士をアプリケーション内で簡単に連携できる。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300002/?ST=cm-software&P=2">4：リリースまでの期間を短縮</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300002/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300002/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 12 Jul 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>今もはびこるWindows XP、直ちに追放を（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/071200341/</link>
 			<description><![CDATA[<div>
@@ -168,21 +123,27 @@
 			<pubDate>Wed, 12 Jul 2017 21:53:46 +0900</pubDate>
 		</item>
 		<item>
+			<title>良い提案書は提出した後も働き続ける（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/062600005/</link>
+			<description><![CDATA[　「提案書は内容が良ければ、紙1枚でも通るんだ」と豪語した人がいる。筆者が仕事をしたことのある会社の取締役だ。彼の指揮下の提案チームの一員として、紙1枚の提案書を作成したことがある。提案金額は3000万円くらいだった。驚いたことに、結局その提案は通ったのである。]]></description>
+			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ランサムウエアに見る構造問題、IT部門の「独自」と「ひとり」の抜本解決を（焦点を読む）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/071100088/</link>
 			<description><![CDATA[　最近のランサム（身代金）ウエア騒動をはじめ、サイバー攻撃で企業が被害を受けるたびに、IT関係者からは「OSなどに最新のパッチを当てていないのが問題」との指摘が出る。正論だが、当事者のIT部門に言わせれば、「それができれば苦労はしない」だろう。]]></description>
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>小泉進次郎氏も強調、「Made by Japan」目指せ（農業 4.0）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000269/063000004/</link>
-			<description><![CDATA[　アグリテックの取り組みを「点」から「面」に広げ、日本の農業が成長していくためには世界市場の開拓が欠かせない。期待されているのが、ITを利用して熟練農家のノウハウを知的財産として海外に展開する、一種のライセンスビジネスだ。]]></description>
+			<title>ネットワークの「完全自動運転」への道（ネットワーク管理を自動化せよ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030600067/071100006/</link>
+			<description><![CDATA[　この連載ですぐに試せる自動化ツールを紹介しました、将来はネットワーク自動化の範囲が広がる可能性があります。その際に、ツールの実際の動作を把握したうえで自動化に取り組むのは重要です。大切なのは、「何を自動化したいか」というイメージを持ち、すぐにできるところから始めてみることです。]]></description>
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>良い提案書は提出した後も働き続ける（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/062600005/</link>
-			<description><![CDATA[　「提案書は内容が良ければ、紙1枚でも通るんだ」と豪語した人がいる。筆者が仕事をしたことのある会社の取締役だ。彼の指揮下の提案チームの一員として、紙1枚の提案書を作成したことがある。提案金額は3000万円くらいだった。驚いたことに、結局その提案は通ったのである。]]></description>
+			<title>図解！サーバーレスの全面採用の姿（サーバーレスの実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000249/062000003/</link>
+			<description><![CDATA[　サーバーレスアーキテクチャーの特徴を生かし、システムを構築する企業は増えている。アイレットが構築・運用を手掛ける毎日放送の動画配信サイト「MBS動画イズム444」の事例を紹介しよう。]]></description>
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -240,15 +201,9 @@
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ネットワークの「完全自動運転」への道（ネットワーク管理を自動化せよ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030600067/071100006/</link>
-			<description><![CDATA[　この連載ですぐに試せる自動化ツールを紹介しました、将来はネットワーク自動化の範囲が広がる可能性があります。その際に、ツールの実際の動作を把握したうえで自動化に取り組むのは重要です。大切なのは、「何を自動化したいか」というイメージを持ち、すぐにできるところから始めてみることです。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>図解！サーバーレスの全面採用の姿（サーバーレスの実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000249/062000003/</link>
-			<description><![CDATA[　サーバーレスアーキテクチャーの特徴を生かし、システムを構築する企業は増えている。アイレットが構築・運用を手掛ける毎日放送の動画配信サイト「MBS動画イズム444」の事例を紹介しよう。]]></description>
+			<title>小泉進次郎氏も強調、「Made by Japan」目指せ（農業 4.0）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000269/063000004/</link>
+			<description><![CDATA[　アグリテックの取り組みを「点」から「面」に広げ、日本の農業が成長していくためには世界市場の開拓が欠かせない。期待されているのが、ITを利用して熟練農家のノウハウを知的財産として海外に展開する、一種のライセンスビジネスだ。]]></description>
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -333,6 +288,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071301898/</link>
 			<description><![CDATA[　日本HPは2017年7月13日、コンシューマー向けPCの製品ラインアップを刷新し、プレミアムからエントリーモデルまで新製品を一挙発表した。新製品は2-in-1を含むノートPCが7機種、デスクトップPCが1機種。7月13日以降、日本HPの直販サイトなどで順次販売を開始する。]]></description>
 			<pubDate>Thu, 13 Jul 2017 11:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スキャリティが分散ストレージソフト新版、マルチクラウド機能はOSSで公開（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071301899/</link>
+			<description><![CDATA[　分散ストレージを手がけるスキャリティ・ジャパンは2017年7月13日、スケールアウト型の分散ストレージソフトの新版「Scality RING7」の提供を始めた。バージョニング機能や保存場所を指定する機能を追加。セキュリティ被害からの復旧や意図しないデータの持ち出しなどを防げるという。]]></description>
+			<pubDate>Thu, 13 Jul 2017 15:29:08 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
