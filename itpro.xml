@@ -5,52 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>今もはびこるWindows XP、直ちに追放を（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/071200341/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　英Daily Telegraph紙に、こんな見出しの記事が出た。「空母クイーンエリザベス、旧式のWindows XPを搭載か、サイバー攻撃に懸念」。ぎょっとする見出しだが、実は間違いだった。英国のこの最新空母がWindows XPを搭載しているのではなく、この空母の建造に携わった請負業者がWindows XPを使っていたとのことだ。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/071200341/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Microsoft</div>
-</div>
-<p>
-　一方で、米海軍は、今もWindows XPのサポート契約を結んでおり、少なくとも今年一杯は続く。つまり、米軍はいまだにXPのシステムを利用している可能性が高い。
-</p>
-<p>
-　この話に対して筆者がただ言えるのは、まさに愚の骨頂、という一言だ。
-</p>
-<p>
-　「壊れていないのなら直すな」という格言であれば、筆者も守っている。だが率直に言おう。XPは壊れている。
-</p>
-<p>
-　Windows XPは、通常のサポート期間が2014年4月に終了した。確かに、Microsoftは最近、ランサムウエアの蔓延を受けて、XPのパッチを一般向けにあらためて提供する動きを見せた。だが、同社が今後も防御策を講じてくれると本気で思うだろうか。筆者にはそうは思えない。
-</p>
-<p>
-　筆者自身、サポートが続いていた当時は、Windows XPを大いに気に入っていた。だが、サポート終了はもう3年以上も前だ。実のところ、1日目から決して安全ではなかった。Windows 10でないとしても、Windows 7に移行してしかるべき時である。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/071200341/?ST=cio-security&P=2">さすがに、いい加減にしておこう。いまだにXPを使...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/071200341/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/071200341/?ST=cio-security&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/071200341/?ST=cio-security&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/071200341/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 12 Jul 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>メディアキャスト、高度BS放送のデータサービス用コンテンツエミュレータ開発（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071201885/</link>
 			<description><![CDATA[　メディアキャストは2017年7月12日、2018年12月に開始予定の高度広帯域衛星デジタル放送（高度BS）におけるデータコンテンツサービスのコンテンツ動作検証を行うエミュレーションソフトウエアを開発したと発表した。開発した試作版は、「ケーブル技術ショー2017」の同社ブースで初公開する。]]></description>
@@ -123,6 +77,12 @@
 			<pubDate>Wed, 12 Jul 2017 21:53:46 +0900</pubDate>
 		</item>
 		<item>
+			<title>図解！サーバーレスの全面採用の姿（サーバーレスの実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000249/062000003/</link>
+			<description><![CDATA[　サーバーレスアーキテクチャーの特徴を生かし、システムを構築する企業は増えている。アイレットが構築・運用を手掛ける毎日放送の動画配信サイト「MBS動画イズム444」の事例を紹介しよう。]]></description>
+			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>良い提案書は提出した後も働き続ける（林浩一の“謳って踊れる”エンジニア）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/062600005/</link>
 			<description><![CDATA[　「提案書は内容が良ければ、紙1枚でも通るんだ」と豪語した人がいる。筆者が仕事をしたことのある会社の取締役だ。彼の指揮下の提案チームの一員として、紙1枚の提案書を作成したことがある。提案金額は3000万円くらいだった。驚いたことに、結局その提案は通ったのである。]]></description>
@@ -135,15 +95,15 @@
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ネットワークの「完全自動運転」への道（ネットワーク管理を自動化せよ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030600067/071100006/</link>
-			<description><![CDATA[　この連載ですぐに試せる自動化ツールを紹介しました、将来はネットワーク自動化の範囲が広がる可能性があります。その際に、ツールの実際の動作を把握したうえで自動化に取り組むのは重要です。大切なのは、「何を自動化したいか」というイメージを持ち、すぐにできるところから始めてみることです。]]></description>
+			<title>いずれIoTは空気になる（ゼロから挑戦！IoT開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/071100009/</link>
+			<description><![CDATA[　IoTとはインターネットにモノがつながっていることを指す。この形態に目新しさはないが、「IoT」という魔法の言葉があてがわれたことで、注目を集めた。]]></description>
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>図解！サーバーレスの全面採用の姿（サーバーレスの実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000249/062000003/</link>
-			<description><![CDATA[　サーバーレスアーキテクチャーの特徴を生かし、システムを構築する企業は増えている。アイレットが構築・運用を手掛ける毎日放送の動画配信サイト「MBS動画イズム444」の事例を紹介しよう。]]></description>
+			<title>小泉進次郎氏も強調、「Made by Japan」目指せ（農業 4.0）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000269/063000004/</link>
+			<description><![CDATA[　アグリテックの取り組みを「点」から「面」に広げ、日本の農業が成長していくためには世界市場の開拓が欠かせない。期待されているのが、ITを利用して熟練農家のノウハウを知的財産として海外に展開する、一種のライセンスビジネスだ。]]></description>
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -195,15 +155,9 @@
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>いずれIoTは空気になる（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/071100009/</link>
-			<description><![CDATA[　IoTとはインターネットにモノがつながっていることを指す。この形態に目新しさはないが、「IoT」という魔法の言葉があてがわれたことで、注目を集めた。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>小泉進次郎氏も強調、「Made by Japan」目指せ（農業 4.0）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000269/063000004/</link>
-			<description><![CDATA[　アグリテックの取り組みを「点」から「面」に広げ、日本の農業が成長していくためには世界市場の開拓が欠かせない。期待されているのが、ITを利用して熟練農家のノウハウを知的財産として海外に展開する、一種のライセンスビジネスだ。]]></description>
+			<title>ネットワークの「完全自動運転」への道（ネットワーク管理を自動化せよ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030600067/071100006/</link>
+			<description><![CDATA[　この連載ですぐに試せる自動化ツールを紹介しました、将来はネットワーク自動化の範囲が広がる可能性があります。その際に、ツールの実際の動作を把握したうえで自動化に取り組むのは重要です。大切なのは、「何を自動化したいか」というイメージを持ち、すぐにできるところから始めてみることです。]]></description>
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -294,6 +248,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071301899/</link>
 			<description><![CDATA[　分散ストレージを手がけるスキャリティ・ジャパンは2017年7月13日、スケールアウト型の分散ストレージソフトの新版「Scality RING7」の提供を始めた。バージョニング機能や保存場所を指定する機能を追加。セキュリティ被害からの復旧や意図しないデータの持ち出しなどを防げるという。]]></description>
 			<pubDate>Thu, 13 Jul 2017 15:29:08 +0900</pubDate>
+		</item>
+		<item>
+			<title>ARでアイドルと一緒に踊れる、フジテレビがドコモと5Gの体験機会（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071301900/</link>
+			<description><![CDATA[　フジテレビジョンは2017年7月13日、NTTドコモが2020年の商用サービス開始を目指す第5世代移動通信方式（5G）を活用したAR（拡張現実）体験を2017年8月開催の音楽イベントで提供すると発表した。NTTドコモと協力する。]]></description>
+			<pubDate>Thu, 13 Jul 2017 15:44:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
