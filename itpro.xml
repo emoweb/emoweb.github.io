@@ -5,6 +5,18 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>工場に1000個のIoT機器で働きぶりを記録、旭硝子（働き方改革最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000135/070700013/</link>
+			<description><![CDATA[　「見える化を機にメールの読み書きなどの作業時間を短縮し、本来業務の研究開発に充てる時間を増やしたいと思うようになった」。旭硝子化学品カンパニー開発部新規材料グループの高尾清貴氏はこう話す。高尾氏らオフィス部門の社員は現在、業務用スマートフォンで業務内容を記録している。]]></description>
+			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>カレーパンやメロンパン、瞬時に見分けるAIレジ（すごいレジ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000270/071100003/</link>
+			<description><![CDATA[　ピーターパンが2016年11月にオープンした「ピーターパンJr.ペリエ千葉エキナカ店」。レジに目をやると、普通のレジとは外見が違う。オーバーヘッド型スキャナーのような形状だ。これは、ベーカリー専用のレジ「BakeryScan」である。]]></description>
+			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>図解！サーバーレスの全面採用の姿（サーバーレスの実力）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000249/062000003/</link>
 			<description><![CDATA[　サーバーレスアーキテクチャーの特徴を生かし、システムを構築する企業は増えている。アイレットが構築・運用を手掛ける毎日放送の動画配信サイト「MBS動画イズム444」の事例を紹介しよう。]]></description>
@@ -35,9 +47,9 @@
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ランサムウエアに見る構造問題、IT部門の「独自」と「ひとり」の抜本解決を（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/071100088/</link>
-			<description><![CDATA[　最近のランサム（身代金）ウエア騒動をはじめ、サイバー攻撃で企業が被害を受けるたびに、IT関係者からは「OSなどに最新のパッチを当てていないのが問題」との指摘が出る。正論だが、当事者のIT部門に言わせれば、「それができれば苦労はしない」だろう。]]></description>
+			<title>パスワードの弱点克服、Windows 10の「Microsoft Passport」（Windows 10のセキュリティ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600259/062600004/</link>
+			<description><![CDATA[　Windows 10の新しいユーザー認証「Microsoft Passport」の特徴は、ユーザーとデバイス間と、デバイスとサーバー間の認証を分離したこと。これにより、デバイスに入力したパスワードなどの認証情報がネットワークを流れることを防ぐ。]]></description>
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -47,9 +59,9 @@
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>工場に1000個のIoT機器で働きぶりを記録、旭硝子（働き方改革最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000135/070700013/</link>
-			<description><![CDATA[　「見える化を機にメールの読み書きなどの作業時間を短縮し、本来業務の研究開発に充てる時間を増やしたいと思うようになった」。旭硝子化学品カンパニー開発部新規材料グループの高尾清貴氏はこう話す。高尾氏らオフィス部門の社員は現在、業務用スマートフォンで業務内容を記録している。]]></description>
+			<title>Wi-Fiで「実測1Gbps超え」は本当に可能か？（Wi-Fiのウソとホントを実証）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/071000019/</link>
+			<description><![CDATA[　無線LAN規格のIEEE 802.11acは、登場当初からギガビット級の通信が可能な仕様だった。だが無線LANの通信が実測で1Gbpsを超えられるかどうかを試したことがある人は少ないのではないだろうか。そこで今回は802.11acの第一世代のアクセスポイントを使って最大速度を実測してみた。]]></description>
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -71,21 +83,9 @@
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>パスワードの弱点克服、Windows 10の「Microsoft Passport」（Windows 10のセキュリティ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600259/062600004/</link>
-			<description><![CDATA[　Windows 10の新しいユーザー認証「Microsoft Passport」の特徴は、ユーザーとデバイス間と、デバイスとサーバー間の認証を分離したこと。これにより、デバイスに入力したパスワードなどの認証情報がネットワークを流れることを防ぐ。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>カレーパンやメロンパン、瞬時に見分けるAIレジ（すごいレジ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000270/071100003/</link>
-			<description><![CDATA[　ピーターパンが2016年11月にオープンした「ピーターパンJr.ペリエ千葉エキナカ店」。レジに目をやると、普通のレジとは外見が違う。オーバーヘッド型スキャナーのような形状だ。これは、ベーカリー専用のレジ「BakeryScan」である。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Wi-Fiで「実測1Gbps超え」は本当に可能か？（Wi-Fiのウソとホントを実証）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/071000019/</link>
-			<description><![CDATA[　無線LAN規格のIEEE 802.11acは、登場当初からギガビット級の通信が可能な仕様だった。だが無線LANの通信が実測で1Gbpsを超えられるかどうかを試したことがある人は少ないのではないだろうか。そこで今回は802.11acの第一世代のアクセスポイントを使って最大速度を実測してみた。]]></description>
+			<title>ランサムウエアに見る構造問題、IT部門の「独自」と「ひとり」の抜本解決を（焦点を読む）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/071100088/</link>
+			<description><![CDATA[　最近のランサム（身代金）ウエア騒動をはじめ、サイバー攻撃で企業が被害を受けるたびに、IT関係者からは「OSなどに最新のパッチを当てていないのが問題」との指摘が出る。正論だが、当事者のIT部門に言わせれば、「それができれば苦労はしない」だろう。]]></description>
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -196,6 +196,18 @@
 			<pubDate>Thu, 13 Jul 2017 19:31:25 +0900</pubDate>
 		</item>
 		<item>
+			<title>旅行にも必携？テーブルタップについて考えてみた（塩田紳二のモバイルトレンド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/071200056/</link>
+			<description><![CDATA[　通常の外出では電源を気にする必要はあまりないのですが、旅行や出張などでホテルに宿泊するといった場合、ホテルでの作業や持っている機器の充電のために、どうしても複数のコンセントを使いたくなります。]]></description>
+			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>iMac 27インチ 5Kモデル自腹レビュー、Apple独自路線の罠でFireWire機器は全滅（山崎潤一郎のデジタル危険地帯）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/080600035/071000036/</link>
+			<description><![CDATA[　前編では、導入に至る経緯を紹介した後、新しいiMacの高速起動に驚嘆しつつも、起動音の廃止に落胆したところまでを紹介した。後編では、新iMacの処理速度やUSB-Cポートの互換性について取り上げる。また、起動音廃止に関して、Apple製品に詳しいITジャーナリストの林信行氏の意見も聞いたので、付加情報として紹介しよう。]]></description>
+			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ラズパイで脆弱性を調査、セキュリティ検査が可能な「Kali Linux」（週末に遊べるラズパイ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/071200015/</link>
 			<description><![CDATA[　コンピュータに潜むセキュリティ上の脆弱性をあぶり出してくれる専用OSが「Kali Linux」です。4000円台のPCボード「Raspberry Pi（ラズパイ）」で動かせば、テスト対象を実際に攻撃して脆弱性を検出する「ペネトレーションテスト」ツールをすぐ使えます。]]></description>
@@ -220,9 +232,9 @@
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>旅行にも必携？テーブルタップについて考えてみた（塩田紳二のモバイルトレンド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/071200056/</link>
-			<description><![CDATA[　通常の外出では電源を気にする必要はあまりないのですが、旅行や出張などでホテルに宿泊するといった場合、ホテルでの作業や持っている機器の充電のために、どうしても複数のコンセントを使いたくなります。]]></description>
+			<title>動画配信に活路を求める通信事業者、YouTubeなど既存ポータルに勝てるか（情総研レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/071000054/</link>
+			<description><![CDATA[　米国の通信事業者VerizonのCEOであるLowell McAdam氏はComcastやディズニー、CBSなどCATVやコンテンツホルダー、メディアとの合併について前向きに検討していると、ブルームバーグが2017年4月18日に伝えた。米国で通信事業者がメディア企業に秋波を送っているようだが、通信事業者がメディア企業と事業統合することにメリットはあるのだろうか。]]></description>
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -280,22 +292,55 @@
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>iMac 27インチ 5Kモデル自腹レビュー、Apple独自路線の罠でFireWire機器は全滅（山崎潤一郎のデジタル危険地帯）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/080600035/071000036/</link>
-			<description><![CDATA[　前編では、導入に至る経緯を紹介した後、新しいiMacの高速起動に驚嘆しつつも、起動音の廃止に落胆したところまでを紹介した。後編では、新iMacの処理速度やUSB-Cポートの互換性について取り上げる。また、起動音廃止に関して、Apple製品に詳しいITジャーナリストの林信行氏の意見も聞いたので、付加情報として紹介しよう。]]></description>
-			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>動画配信に活路を求める通信事業者、YouTubeなど既存ポータルに勝てるか（情総研レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/071000054/</link>
-			<description><![CDATA[　米国の通信事業者VerizonのCEOであるLowell McAdam氏はComcastやディズニー、CBSなどCATVやコンテンツホルダー、メディアとの合併について前向きに検討していると、ブルームバーグが2017年4月18日に伝えた。米国で通信事業者がメディア企業に秋波を送っているようだが、通信事業者がメディア企業と事業統合することにメリットはあるのだろうか。]]></description>
-			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Windows 10の「Device Guard」、信頼できるコードだけ実行してウイルス感染を防ぐ（Windows 10のセキュリティ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600259/062600005/</link>
 			<description><![CDATA[　Windows 10の「Device Guard」は、信頼できるコードだけを実行する新機能。署名があるコードや、ホワイトリストで許可したコードのみ実行する。これによりウイルス感染などを防ぐ。]]></description>
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>デルEMCがPowerEdgeサーバー新版、インテルのスケーラブル・プロセッサー搭載（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071301903/</link>
+			<description><![CDATA[　デルとEMCジャパンは2017年7月13日、サーバーマシンの新製品「第14世代Dell EMC PowerEdgeサーバー」を発表した。七つのモデルで構成し、このうち5モデルを同日に提供開始した。]]></description>
+			<pubDate>Fri, 14 Jul 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>マイクロサービス、7つの強みと5つのハードル（下）（マイクロサービス、7つの強みと5つのハードル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　この記事では、次なるアプリケーション開発プロジェクトでマイクロサービスを検討すべき7つの理由と、成功のために乗り越えるべき5つのハードルについて見ていく。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300002/" target="_blank">前回</a>から続く）</p>
+
+<h4>マイクロサービスが合わない企業も</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300003/ph3.jpg" width="300" alt="" title=""></div></div>
+
+<p>　マイクロサービスを取り入れた企業は、大きな価値を手にしている。その事実に目をつぶる企業は、時代に取り残されることになるかもしれない。しかし、いくらマイクロサービスが有望そうに見えても、そのアーキテクチャーをすべての企業が活用できるわけではない。マイクロサービスを使いこなせるだけの能力があるかどうか確認しておこう。ここからは、企業が注意すべき点を見ていく。</p>
+
+<h4>1：迅速なプロビジョニングとアプリのデプロイに対応できる備えが必要</h4>
+
+<p>　インクリメンタル開発と継続的デリバリーを行うマイクロサービスは、実践する企業にとって常に備えが必要だ。マイクロサービスを最大限に活用するうえで必要なペースについて行けるよう、リソースのプロビジョニングが直ちに可能でなくてはならない。サーバーのプロビジョニングに、数日間、数週間、数カ月間という期間がかかるようでは、大きな問題に直面するのは必至だ。また、新しいサービスやアプリケーションのデプロイも、同じように迅速にできなくてはならない。</p>
+
+<h4>2：確実なモニタリングが不可欠</h4>
+
+<p>　マイクロサービスでは、各サービスが基盤とする言語、プラットフォーム、APIがそれぞれ異なる。また、マイクロサービスのプロジェクトの場合、複数のチームがそれぞれ別々の構成要素に同時に取り組むのを仕切っていくことになる。こうしたことから、インフラ全体への目配りとマネジメントを効果的に行うために、確実なモニタリングが必要だ。サービスで障害が発生したことやマシンがダウンしたことを把握できなければ、生じた問題を直ちに突き止めることは不可能だ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300003/?ST=cm-software&P=2">3：DevOpsの文化を受け入れる</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300003/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300003/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300003/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 14 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
