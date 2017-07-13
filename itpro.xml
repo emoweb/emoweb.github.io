@@ -11,12 +11,6 @@
 			<pubDate>Tue, 11 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「日本のセキュリティ報道は個人情報漏洩に偏りすぎている」、経産省 伊東氏が苦言（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071201886/</link>
-			<description><![CDATA[　「サーバー攻撃では多種多様な被害が出ている。しかし、実際に報道されるのは個人情報漏洩ばかりだ」。2017年7月12日から14日にかけて開催されているイベント「ガートナー セキュリティ＆リスク・マネジメント サミット 2017」で、経済産業省の伊東寛サイバーセキュリティ・情報化審議官がサイバー攻撃の動向について講演。その中で、冒頭に示したような警鐘を鳴らした。]]></description>
-			<pubDate>Wed, 12 Jul 2017 14:53:13 +0900</pubDate>
-		</item>
-		<item>
 			<title>4K配信や視聴データ活用の実証事業が全国各地で展開へ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071201887/</link>
 			<description><![CDATA[　総務省は2017年7月12日、ブロードバンドを活用した新たな放送サービスの高度化に向けた技術課題の検証を行うための実証事業公募の選定結果を発表した。総務省は請負主体の三菱総合研究所を通じて放送事業者などを対象に公募を実施していた。]]></description>
@@ -83,6 +77,12 @@
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>いずれIoTは空気になる（ゼロから挑戦！IoT開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/071100009/</link>
+			<description><![CDATA[　IoTとはインターネットにモノがつながっていることを指す。この形態に目新しさはないが、「IoT」という魔法の言葉があてがわれたことで、注目を集めた。]]></description>
+			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>図解！サーバーレスの全面採用の姿（サーバーレスの実力）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000249/062000003/</link>
 			<description><![CDATA[　サーバーレスアーキテクチャーの特徴を生かし、システムを構築する企業は増えている。アイレットが構築・運用を手掛ける毎日放送の動画配信サイト「MBS動画イズム444」の事例を紹介しよう。]]></description>
@@ -95,15 +95,15 @@
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>雑誌は26年の歴史に終止符打つも、デジタル変革はこれからも続く（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/070300875/</link>
-			<description><![CDATA[　日経情報ストラテジーが2017年6月末発行の2017年8月号で休刊となった。1992年4月に創刊して以降、26年にわたり「経営革新にITを活かす」をテーマに、経営や事業にITを活用する企業事例を数多く紹介してきた。]]></description>
+			<title>絶妙？いや微妙、KDDIの新料金プラン（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071201060/</link>
+			<description><![CDATA[　KDDI（au）は、「auピタットプラン」と「auフラットプラン」と呼ぶ新料金プランの提供を2017年7月14日に始める。どちらも端末購入補助を受けられない代わりに毎月の通信料金を安くした「分離プラン」に当たる。]]></description>
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>いずれIoTは空気になる（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/071100009/</link>
-			<description><![CDATA[　IoTとはインターネットにモノがつながっていることを指す。この形態に目新しさはないが、「IoT」という魔法の言葉があてがわれたことで、注目を集めた。]]></description>
+			<title>ランサムウエアに見る構造問題、IT部門の「独自」と「ひとり」の抜本解決を（焦点を読む）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/071100088/</link>
+			<description><![CDATA[　最近のランサム（身代金）ウエア騒動をはじめ、サイバー攻撃で企業が被害を受けるたびに、IT関係者からは「OSなどに最新のパッチを当てていないのが問題」との指摘が出る。正論だが、当事者のIT部門に言わせれば、「それができれば苦労はしない」だろう。]]></description>
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -149,15 +149,9 @@
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>絶妙？いや微妙、KDDIの新料金プラン（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071201060/</link>
-			<description><![CDATA[　KDDI（au）は、「auピタットプラン」と「auフラットプラン」と呼ぶ新料金プランの提供を2017年7月14日に始める。どちらも端末購入補助を受けられない代わりに毎月の通信料金を安くした「分離プラン」に当たる。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ランサムウエアに見る構造問題、IT部門の「独自」と「ひとり」の抜本解決を（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/071100088/</link>
-			<description><![CDATA[　最近のランサム（身代金）ウエア騒動をはじめ、サイバー攻撃で企業が被害を受けるたびに、IT関係者からは「OSなどに最新のパッチを当てていないのが問題」との指摘が出る。正論だが、当事者のIT部門に言わせれば、「それができれば苦労はしない」だろう。]]></description>
+			<title>雑誌は26年の歴史に終止符打つも、デジタル変革はこれからも続く（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/070300875/</link>
+			<description><![CDATA[　日経情報ストラテジーが2017年6月末発行の2017年8月号で休刊となった。1992年4月に創刊して以降、26年にわたり「経営革新にITを活かす」をテーマに、経営や事業にITを活用する企業事例を数多く紹介してきた。]]></description>
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -260,6 +254,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071301901/</link>
 			<description><![CDATA[　サイボウズスタートアップス（Cstap）は2017年7月13日、サイボウズの業務アプリケーション構築クラウドサービスである「kintone」のWebフォーム機能を強化するサービス「フォームブリッジ」の提供を始めた。条件分岐を伴うアンケートといった複雑なWebフォームをプログラミング不要で作成できる。]]></description>
 			<pubDate>Thu, 13 Jul 2017 19:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「銀のさら」寿司を宅配ロボがお届け、ZMPが実証実験（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071301902/</link>
+			<description><![CDATA[　自動運転技術を開発するZMPは2017年7月13日、歩道を自動走行する宅配ロボット「CarriRo Delivery（キャリロデリバリー）」を発表した。宅配サービス事業者と実証実験に取り組む方針で、第1弾として宅配寿司「銀のさら」を運営するライドオン・エクスプレスと8月にも実証実験に臨む。]]></description>
+			<pubDate>Thu, 13 Jul 2017 19:31:25 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
