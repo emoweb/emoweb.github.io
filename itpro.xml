@@ -11,42 +11,6 @@
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ハイパーコンバージェンスとは（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071300393/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　ハイパーコンバージェンスとは、ストレージ、コンピューティング、ネットワーキングを1つのシステムに統合するITフレームワークだ。データセンターの複雑さを抑えてスケーラビリティを高めることを狙いとしている。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071300393/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　その考え方に基づくハイパーコンバージドインフラのプラットフォームは、コンピューティングを仮想化するためのハイパーバイザー、ソフトウエア・デファインド・ストレージ（SDS：Software-Defined Storage）、仮想化されたネットワークで構成され、標準的な汎用サーバーで動くのが一般的だ。マルチノードのクラスタ構成を実現して、コンピューティングリソースやストレージリソースを共有プールとして構築することにより、リソースを効率的に活用できる。
-</p>
-<p>
-　汎用的なハードウエアを利用していることから、従来のエンタープライズストレージのインフラよりも柔軟で管理しやすい。サポートも単一のベンダーから受けられる。企業がデータセンターの最新化に着手する時に、ハイパーコンバージドインフラを採用すれば、オンプレミスでハードウエアを自社の管理下に置いたままで、パブリッククラウドインフラと同様の俊敏性を得られる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071300393/?ST=cm-network&P=2">ハイパーコンバージドインフラとコンバージドインフラの違いは</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071300393/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071300393/?ST=cm-network&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071300393/?ST=cm-network&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/071300393/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 13 Jul 2017 09:50:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>日本HPが2-in-1やクラムシェルなど個人向けPCを一挙発表（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071301898/</link>
 			<description><![CDATA[　日本HPは2017年7月13日、コンシューマー向けPCの製品ラインアップを刷新し、プレミアムからエントリーモデルまで新製品を一挙発表した。新製品は2-in-1を含むノートPCが7機種、デスクトップPCが1機種。7月13日以降、日本HPの直販サイトなどで順次販売を開始する。]]></description>
@@ -77,6 +41,12 @@
 			<pubDate>Thu, 13 Jul 2017 19:31:25 +0900</pubDate>
 		</item>
 		<item>
+			<title>ラズパイで脆弱性を調査、セキュリティ検査が可能な「Kali Linux」（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/071200015/</link>
+			<description><![CDATA[　コンピュータに潜むセキュリティ上の脆弱性をあぶり出してくれる専用OSが「Kali Linux」です。4000円台のPCボード「Raspberry Pi（ラズパイ）」で動かせば、テスト対象を実際に攻撃して脆弱性を検出する「ペネトレーションテスト」ツールをすぐ使えます。]]></description>
+			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>7980円からの激安スマホ「BLU」、全米人気は日本で通じるか（SIMフリースマートフォンを徹底レビュー）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/071200044/</link>
 			<description><![CDATA[　米国で人気の激安スマホが日本に上陸した。LTE対応の「GRAND X LTE」と3G対応の「GRAND M」だ。前者は1万2800円、後者は7980円と、SIMフリースマホの中では“最安値”と言ってもいい価格を実現している。日本のユーザーにとってはどうか。使い勝手を検証した。]]></description>
@@ -101,9 +71,9 @@
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ラズパイで脆弱性を調査、セキュリティ検査が可能な「Kali Linux」（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/071200015/</link>
-			<description><![CDATA[　コンピュータに潜むセキュリティ上の脆弱性をあぶり出してくれる専用OSが「Kali Linux」です。4000円台のPCボード「Raspberry Pi（ラズパイ）」で動かせば、テスト対象を実際に攻撃して脆弱性を検出する「ペネトレーションテスト」ツールをすぐ使えます。]]></description>
+			<title>iMac 27インチ 5Kモデル自腹レビュー、Apple独自路線の罠でFireWire機器は全滅（山崎潤一郎のデジタル危険地帯）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/080600035/071000036/</link>
+			<description><![CDATA[　前編では、導入に至る経緯を紹介した後、新しいiMacの高速起動に驚嘆しつつも、起動音の廃止に落胆したところまでを紹介した。後編では、新iMacの処理速度やUSB-Cポートの互換性について取り上げる。また、起動音廃止に関して、Apple製品に詳しいITジャーナリストの林信行氏の意見も聞いたので、付加情報として紹介しよう。]]></description>
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -125,15 +95,15 @@
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「食わず嫌い」をなくせるか？導入率13％のテレワーク（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071201058/</link>
-			<description><![CDATA[　政府は働き方改革を進める一環で2017年7月24日を「テレワーク・デイ」に設定した。ITを使ってオフィス以外で仕事を進めるテレワークの一斉試行を全国の企業に呼び掛けている。始業から午前10時30分ごろまでの間、在宅勤務やカフェなどで仕事をする「モバイルワーク」などの体験を促す。]]></description>
+			<title>「攻めのIT経営銘柄」に選ばれると株価は上がるか？（攻めのIT経営銘柄2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/071200009/</link>
+			<description><![CDATA[　経済産業省と東京証券取引所が選定する「攻めのIT経営銘柄」。2015年から毎年実施しており、2017年で3回目だ。どんな企業が選ばれているのか。業種ごとに違いはあるのか。経産省の担当者に聞いた。]]></description>
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>iMac 27インチ 5Kモデル自腹レビュー、Apple独自路線の罠でFireWire機器は全滅（山崎潤一郎のデジタル危険地帯）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/080600035/071000036/</link>
-			<description><![CDATA[　前編では、導入に至る経緯を紹介した後、新しいiMacの高速起動に驚嘆しつつも、起動音の廃止に落胆したところまでを紹介した。後編では、新iMacの処理速度やUSB-Cポートの互換性について取り上げる。また、起動音廃止に関して、Apple製品に詳しいITジャーナリストの林信行氏の意見も聞いたので、付加情報として紹介しよう。]]></description>
+			<title>「分かりにくい」「変わらない」、5Gへの苦言（5Gしかできないこと）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300271/070300004/</link>
+			<description><![CDATA[　5Gへの期待や不満を、モバイルの識者に聞きました。]]></description>
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -167,22 +137,10 @@
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「攻めのIT経営銘柄」に選ばれると株価は上がるか？（攻めのIT経営銘柄2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/071200009/</link>
-			<description><![CDATA[　経済産業省と東京証券取引所が選定する「攻めのIT経営銘柄」。2015年から毎年実施しており、2017年で3回目だ。どんな企業が選ばれているのか。業種ごとに違いはあるのか。経産省の担当者に聞いた。]]></description>
+			<title>「食わず嫌い」をなくせるか？導入率13％のテレワーク（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071201058/</link>
+			<description><![CDATA[　政府は働き方改革を進める一環で2017年7月24日を「テレワーク・デイ」に設定した。ITを使ってオフィス以外で仕事を進めるテレワークの一斉試行を全国の企業に呼び掛けている。始業から午前10時30分ごろまでの間、在宅勤務やカフェなどで仕事をする「モバイルワーク」などの体験を促す。]]></description>
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「分かりにくい」「変わらない」、5Gへの苦言（5Gしかできないこと）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300271/070300004/</link>
-			<description><![CDATA[　5Gへの期待や不満を、モバイルの識者に聞きました。]]></description>
-			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>デルEMCがPowerEdgeサーバー新版、インテルのスケーラブル・プロセッサー搭載（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071301903/</link>
-			<description><![CDATA[　デルとEMCジャパンは2017年7月13日、サーバーマシンの新製品「第14世代Dell EMC PowerEdgeサーバー」を発表した。七つのモデルで構成し、このうち5モデルを同日に提供開始した。]]></description>
-			<pubDate>Fri, 14 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>マイクロサービス、7つの強みと5つのハードル（下）（マイクロサービス、7つの強みと5つのハードル）</title>
@@ -221,6 +179,12 @@
 <div></div>
 </div>
 ]]></description>
+			<pubDate>Fri, 14 Jul 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>デルEMCがPowerEdgeサーバー新版、インテルのスケーラブル・プロセッサー搭載（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071301903/</link>
+			<description><![CDATA[　デルとEMCジャパンは2017年7月13日、サーバーマシンの新製品「第14世代Dell EMC PowerEdgeサーバー」を発表した。七つのモデルで構成し、このうち5モデルを同日に提供開始した。]]></description>
 			<pubDate>Fri, 14 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -296,6 +260,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071401909/</link>
 			<description><![CDATA[　ベリタステクノロジーズは2017年7月14日、コンテナ型仮想化ソフト「Docker」向けの分散ストレージソフト「Veritas HyperScale for Containers」の提供を始めた。Dockerコンテナの処理量やデータ量に応じて追加する物理サーバーの数を必要最小限に抑えられる。]]></description>
 			<pubDate>Fri, 14 Jul 2017 16:33:06 +0900</pubDate>
+		</item>
+		<item>
+			<title>可視光通信でARコンテンツを表示、テレビ朝日が宝探しイベント（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071401910/</link>
+			<description><![CDATA[　テレビ朝日は「テレビ朝日・六本木ヒルズ 夏祭り SUMMER STATION」の開催期間中（2017年7月15日～8月27日）に、AR技術を活用した宝探しイベントを実施する。イベント本番に先立ち、7月14日にプレス体験会を行った。]]></description>
+			<pubDate>Fri, 14 Jul 2017 17:54:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
