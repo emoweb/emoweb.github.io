@@ -11,12 +11,6 @@
 			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>スキャリティが分散ストレージソフト新版、マルチクラウド機能はOSSで公開（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071301899/</link>
-			<description><![CDATA[　分散ストレージを手がけるスキャリティ・ジャパンは2017年7月13日、スケールアウト型の分散ストレージソフトの新版「Scality RING7」の提供を始めた。バージョニング機能や保存場所を指定する機能を追加。セキュリティ被害からの復旧や意図しないデータの持ち出しなどを防げるという。]]></description>
-			<pubDate>Thu, 13 Jul 2017 15:29:08 +0900</pubDate>
-		</item>
-		<item>
 			<title>ARでアイドルと一緒に踊れる、フジテレビがドコモと5Gの体験機会（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071301900/</link>
 			<description><![CDATA[　フジテレビジョンは2017年7月13日、NTTドコモが2020年の商用サービス開始を目指す第5世代移動通信方式（5G）を活用したAR（拡張現実）体験を2017年8月開催の音楽イベントで提供すると発表した。NTTドコモと協力する。]]></description>
@@ -33,6 +27,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071301902/</link>
 			<description><![CDATA[　自動運転技術を開発するZMPは2017年7月13日、歩道を自動走行する宅配ロボット「CarriRo Delivery（キャリロデリバリー）」を発表した。宅配サービス事業者と実証実験に取り組む方針で、第1弾として宅配寿司「銀のさら」を運営するライドオン・エクスプレスと8月にも実証実験に臨む。]]></description>
 			<pubDate>Thu, 13 Jul 2017 19:31:25 +0900</pubDate>
+		</item>
+		<item>
+			<title>「分かりにくい」「変わらない」、5Gへの苦言（5Gしかできないこと）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300271/070300004/</link>
+			<description><![CDATA[　5Gへの期待や不満を、モバイルの識者に聞きました。]]></description>
+			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>本当にシリーズ下位モデル？コスパ抜群「HUAWEI P10 lite」をレビュー（伊藤浩一のモバイルライフ応援日記）</title>
@@ -65,9 +65,9 @@
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「分かりにくい」「変わらない」、5Gへの苦言（5Gしかできないこと）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300271/070300004/</link>
-			<description><![CDATA[　5Gへの期待や不満を、モバイルの識者に聞きました。]]></description>
+			<title>「食わず嫌い」をなくせるか？導入率13％のテレワーク（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071201058/</link>
+			<description><![CDATA[　政府は働き方改革を進める一環で2017年7月24日を「テレワーク・デイ」に設定した。ITを使ってオフィス以外で仕事を進めるテレワークの一斉試行を全国の企業に呼び掛けている。始業から午前10時30分ごろまでの間、在宅勤務やカフェなどで仕事をする「モバイルワーク」などの体験を促す。]]></description>
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>有力IT企業がスマートスピーカーに注力する理由とは？（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/071200327/</link>
-			<description><![CDATA[　米Amazon.comに続いて米Google、米Appleが立て続けに、音声で操作するスマートスピーカーを発表。なぜ今、スマートスピーカーなのか？]]></description>
+			<title>Windows 10の「Device Guard」、信頼できるコードだけ実行してウイルス感染を防ぐ（Windows 10のセキュリティ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600259/062600005/</link>
+			<description><![CDATA[　Windows 10の「Device Guard」は、信頼できるコードだけを実行する新機能。署名があるコードや、ホワイトリストで許可したコードのみ実行する。これによりウイルス感染などを防ぐ。]]></description>
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「食わず嫌い」をなくせるか？導入率13％のテレワーク（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071201058/</link>
-			<description><![CDATA[　政府は働き方改革を進める一環で2017年7月24日を「テレワーク・デイ」に設定した。ITを使ってオフィス以外で仕事を進めるテレワークの一斉試行を全国の企業に呼び掛けている。始業から午前10時30分ごろまでの間、在宅勤務やカフェなどで仕事をする「モバイルワーク」などの体験を促す。]]></description>
+			<title>「攻めのIT経営銘柄」に選ばれると株価は上がるか？（攻めのIT経営銘柄2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/071200009/</link>
+			<description><![CDATA[　経済産業省と東京証券取引所が選定する「攻めのIT経営銘柄」。2015年から毎年実施しており、2017年で3回目だ。どんな企業が選ばれているのか。業種ごとに違いはあるのか。経産省の担当者に聞いた。]]></description>
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -125,22 +125,10 @@
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Windows 10の「Device Guard」、信頼できるコードだけ実行してウイルス感染を防ぐ（Windows 10のセキュリティ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600259/062600005/</link>
-			<description><![CDATA[　Windows 10の「Device Guard」は、信頼できるコードだけを実行する新機能。署名があるコードや、ホワイトリストで許可したコードのみ実行する。これによりウイルス感染などを防ぐ。]]></description>
+			<title>有力IT企業がスマートスピーカーに注力する理由とは？（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/071200327/</link>
+			<description><![CDATA[　米Amazon.comに続いて米Google、米Appleが立て続けに、音声で操作するスマートスピーカーを発表。なぜ今、スマートスピーカーなのか？]]></description>
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「攻めのIT経営銘柄」に選ばれると株価は上がるか？（攻めのIT経営銘柄2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061300233/071200009/</link>
-			<description><![CDATA[　経済産業省と東京証券取引所が選定する「攻めのIT経営銘柄」。2015年から毎年実施しており、2017年で3回目だ。どんな企業が選ばれているのか。業種ごとに違いはあるのか。経産省の担当者に聞いた。]]></description>
-			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>デルEMCがPowerEdgeサーバー新版、インテルのスケーラブル・プロセッサー搭載（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071301903/</link>
-			<description><![CDATA[　デルとEMCジャパンは2017年7月13日、サーバーマシンの新製品「第14世代Dell EMC PowerEdgeサーバー」を発表した。七つのモデルで構成し、このうち5モデルを同日に提供開始した。]]></description>
-			<pubDate>Fri, 14 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>マイクロサービス、7つの強みと5つのハードル（下）（マイクロサービス、7つの強みと5つのハードル）</title>
@@ -179,6 +167,12 @@
 <div></div>
 </div>
 ]]></description>
+			<pubDate>Fri, 14 Jul 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>デルEMCがPowerEdgeサーバー新版、インテルのスケーラブル・プロセッサー搭載（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071301903/</link>
+			<description><![CDATA[　デルとEMCジャパンは2017年7月13日、サーバーマシンの新製品「第14世代Dell EMC PowerEdgeサーバー」を発表した。七つのモデルで構成し、このうち5モデルを同日に提供開始した。]]></description>
 			<pubDate>Fri, 14 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -266,6 +260,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071401911/</link>
 			<description><![CDATA[　C Channelは2017年7月14日、サマンサタバサジャパンリミテッドの商品を自社の動画ECサイトで発売した。モデルが商品を紹介する動画をスマートフォン向けに配信。視聴者は動画内から商品を購入できる。視聴者の購入意欲が高い動画ECを拡充する。]]></description>
 			<pubDate>Fri, 14 Jul 2017 18:31:45 +0900</pubDate>
+		</item>
+		<item>
+			<title>訪日客向けのSIM販売は4.8%増の110万枚で足踏み、総務省が発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071401913/</link>
+			<description><![CDATA[　総務省は2017年7月14日、2016年度における訪日外国人向けのプリペイドSIMの発行数が110万9000枚だったと発表した。2015年度の105万8000枚から4.8％増にとどまった。]]></description>
+			<pubDate>Fri, 14 Jul 2017 20:21:11 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
