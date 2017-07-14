@@ -5,125 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>ネットワークの「完全自動運転」への道（ネットワーク管理を自動化せよ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030600067/071100006/</link>
-			<description><![CDATA[　この連載ですぐに試せる自動化ツールを紹介しました、将来はネットワーク自動化の範囲が広がる可能性があります。その際に、ツールの実際の動作を把握したうえで自動化に取り組むのは重要です。大切なのは、「何を自動化したいか」というイメージを持ち、すぐにできるところから始めてみることです。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>パスワードの弱点克服、Windows 10の「Microsoft Passport」（Windows 10のセキュリティ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600259/062600004/</link>
-			<description><![CDATA[　Windows 10の新しいユーザー認証「Microsoft Passport」の特徴は、ユーザーとデバイス間と、デバイスとサーバー間の認証を分離したこと。これにより、デバイスに入力したパスワードなどの認証情報がネットワークを流れることを防ぐ。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>小泉進次郎氏も強調、「Made by Japan」目指せ（農業 4.0）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000269/063000004/</link>
-			<description><![CDATA[　アグリテックの取り組みを「点」から「面」に広げ、日本の農業が成長していくためには世界市場の開拓が欠かせない。期待されているのが、ITを利用して熟練農家のノウハウを知的財産として海外に展開する、一種のライセンスビジネスだ。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Wi-Fiで「実測1Gbps超え」は本当に可能か？（Wi-Fiのウソとホントを実証）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/071000019/</link>
-			<description><![CDATA[　無線LAN規格のIEEE 802.11acは、登場当初からギガビット級の通信が可能な仕様だった。だが無線LANの通信が実測で1Gbpsを超えられるかどうかを試したことがある人は少ないのではないだろうか。そこで今回は802.11acの第一世代のアクセスポイントを使って最大速度を実測してみた。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>工場に1000個のIoT機器で働きぶりを記録、旭硝子（働き方改革最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041000135/070700013/</link>
-			<description><![CDATA[　「見える化を機にメールの読み書きなどの作業時間を短縮し、本来業務の研究開発に充てる時間を増やしたいと思うようになった」。旭硝子化学品カンパニー開発部新規材料グループの高尾清貴氏はこう話す。高尾氏らオフィス部門の社員は現在、業務用スマートフォンで業務内容を記録している。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>カレーパンやメロンパン、瞬時に見分けるAIレジ（すごいレジ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000270/071100003/</link>
-			<description><![CDATA[　ピーターパンが2016年11月にオープンした「ピーターパンJr.ペリエ千葉エキナカ店」。レジに目をやると、普通のレジとは外見が違う。オーバーヘッド型スキャナーのような形状だ。これは、ベーカリー専用のレジ「BakeryScan」である。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>図解！サーバーレスの全面採用の姿（サーバーレスの実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000249/062000003/</link>
-			<description><![CDATA[　サーバーレスアーキテクチャーの特徴を生かし、システムを構築する企業は増えている。アイレットが構築・運用を手掛ける毎日放送の動画配信サイト「MBS動画イズム444」の事例を紹介しよう。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>良い提案書は提出した後も働き続ける（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/062600005/</link>
-			<description><![CDATA[　「提案書は内容が良ければ、紙1枚でも通るんだ」と豪語した人がいる。筆者が仕事をしたことのある会社の取締役だ。彼の指揮下の提案チームの一員として、紙1枚の提案書を作成したことがある。提案金額は3000万円くらいだった。驚いたことに、結局その提案は通ったのである。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>絶妙？いや微妙、KDDIの新料金プラン（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071201060/</link>
-			<description><![CDATA[　KDDI（au）は、「auピタットプラン」と「auフラットプラン」と呼ぶ新料金プランの提供を2017年7月14日に始める。どちらも端末購入補助を受けられない代わりに毎月の通信料金を安くした「分離プラン」に当たる。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ランサムウエアに見る構造問題、IT部門の「独自」と「ひとり」の抜本解決を（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/071100088/</link>
-			<description><![CDATA[　最近のランサム（身代金）ウエア騒動をはじめ、サイバー攻撃で企業が被害を受けるたびに、IT関係者からは「OSなどに最新のパッチを当てていないのが問題」との指摘が出る。正論だが、当事者のIT部門に言わせれば、「それができれば苦労はしない」だろう。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>いずれIoTは空気になる（ゼロから挑戦！IoT開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030900077/071100009/</link>
-			<description><![CDATA[　IoTとはインターネットにモノがつながっていることを指す。この形態に目新しさはないが、「IoT」という魔法の言葉があてがわれたことで、注目を集めた。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>SELinuxでWebサーバーをどこまで守れるのか（IoT時代の最新SELinux入門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/071200006/</link>
-			<description><![CDATA[　SELinuxが実際に何をしているのかの真相に迫るため、セキュリティポリシーを分析してみましょう。攻撃をいくつかのパターンに分け、封じ込めの仕組みを紹介していきます。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>SNS投稿の効果を測る、JALが新システム（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071101057/</link>
-			<description><![CDATA[　日本航空（JAL）は2017年7月中にも、米ドーモが提供するクラウドベースのセルフサービスBIツール「Domo（ドーモ）」の本格運用を始める。SNS向けに発信した自社情報の効果測定に使うもので、複数のSNSからの効果測定データをDomoのダッシュボードに集約して表示し、効果測定の効率を大幅に高める。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>雑誌は26年の歴史に終止符打つも、デジタル変革はこれからも続く（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/070300875/</link>
-			<description><![CDATA[　日経情報ストラテジーが2017年6月末発行の2017年8月号で休刊となった。1992年4月に創刊して以降、26年にわたり「経営革新にITを活かす」をテーマに、経営や事業にITを活用する企業事例を数多く紹介してきた。]]></description>
-			<pubDate>Thu, 13 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>プロジェクトマネジメントでありがちな8つの誤り（後）（プロジェクトマネジメントでありがちな8つの誤り）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/070300052/070300002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　この記事では、プロジェクトマネージャーが犯しがちな誤りとその回避方法について、企業のIT担当幹部やプロジェクトマネジメントの専門家の話を元にまとめていく。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300052/070300001/" target="_blank">前回</a>から続く）</p>
-
-<h4>誤り5：チームメンバーと定期的なコミュニケーションを取っていない</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300052/070300002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　「プロジェクトマネジメントを成功させるには絶え間ないコミュニケーションが重要、と聞いた時に、異を唱える人はいないだろうが、いざプロジェクトが動き始めると、チームと顔を合わせたり、主要なステークホルダーに最新の状況を伝えたりという機会を逃すことになりやすい」。そう話すのは、勤務時間管理アプリを手がける米Timesheet Mobileの社長、Bob Drainville氏だ。</p>
-
-<p>　「定例的なミーティングの基盤をきちんと確立し、そのミーティングに誰が参加するかや、ほかに誰の関与が必要かを明確にしておくことは、軌道から外れないために有益だ」。また、その人数を適切に定めておくことの重要性も同氏は強調する。「人数が多すぎると、参加者が節々で意見を述べなくてはならないという気になって、先へ進まなくなる可能性がある」との理由からだ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300052/070300002/?ST=cio-management&P=2">誤り6：変更で収拾がつかなくなる</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300052/070300002/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300052/070300002/?ST=cio-management&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300052/070300002/?ST=cio-management&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300052/070300002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 13 Jul 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>スマホアプリで「手ぶらゴルフ」、GDOがバッグ預かりサービス（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071201897/</link>
 			<description><![CDATA[　ゴルフダイジェスト・オンライン（GDO）は2017年7月13日、ゴルフクラブの預かり・配送サービスを同日に始める。利用者はスマートフォンを使って配送を予約すると、プレー日に合わせてゴルフ場へバッグ一式が届く。プレー後は再びGDOへ預けるため、利用者は手ぶらでゴルフを楽しめる。]]></description>
@@ -196,6 +77,18 @@
 			<pubDate>Thu, 13 Jul 2017 19:31:25 +0900</pubDate>
 		</item>
 		<item>
+			<title>親譲りの「借金王」となったPepper君、打開策はあるか（編集長の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/071300041/</link>
+			<description><![CDATA[　ソフトバンクグループでヒト型ロボット「Pepper」を開発・販売するソフトバンクロボティクスが、2017年3月末時点で314億円の債務超過だったことが話題になっている。ソフトバンクの有価証券報告書を基に日本経済新聞が2017年7月12日に報じた。]]></description>
+			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IOSを25年ぶりに全面刷新、米シスコ提唱の「直感ネットワーク」とは（シリコンバレーNextレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/071000113/</link>
+			<description><![CDATA[　ネットワークエンジニアの仕事を人工知能（AI）が置き換える──。ネットワーク機器大手の米シスコシステムズは2017年6月26〜28日に米国ラスベガスで開催したイベント「Cisco Live 2017」で、新しい企業ネットワークの仕組み「インチュイティブネットワーク」を発表した。]]></description>
+			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>本当にシリーズ下位モデル？コスパ抜群「HUAWEI P10 lite」をレビュー（伊藤浩一のモバイルライフ応援日記）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/070800060/</link>
 			<description><![CDATA[　HUAWEI P10 liteは、ダブルレンズカメラは搭載されていないものの、その他の機能と性能はローエンド機種の域を超え、ミドルレンジ機種として十分なものだと言えるでしょう。またミドルレンジ機種としては価格が安めである点も注目どころだと思います。]]></description>
@@ -208,9 +101,9 @@
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>親譲りの「借金王」となったPepper君、打開策はあるか（編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/071300041/</link>
-			<description><![CDATA[　ソフトバンクグループでヒト型ロボット「Pepper」を開発・販売するソフトバンクロボティクスが、2017年3月末時点で314億円の債務超過だったことが話題になっている。ソフトバンクの有価証券報告書を基に日本経済新聞が2017年7月12日に報じた。]]></description>
+			<title>要注意！サーバーレス四つの落とし穴（サーバーレスの実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000249/062000004/</link>
+			<description><![CDATA[　サーバーレスアーキテクチャーは、サーバーありのシステムと異なる特徴がいくつもある。システムを構築する際にも、サーバーありのシステムとは別の注意点がある。主なものは四つだ。]]></description>
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -226,9 +119,9 @@
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>iMac 27インチ 5Kモデル自腹レビュー、Apple独自路線の罠でFireWire機器は全滅（山崎潤一郎のデジタル危険地帯）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/080600035/071000036/</link>
-			<description><![CDATA[　前編では、導入に至る経緯を紹介した後、新しいiMacの高速起動に驚嘆しつつも、起動音の廃止に落胆したところまでを紹介した。後編では、新iMacの処理速度やUSB-Cポートの互換性について取り上げる。また、起動音廃止に関して、Apple製品に詳しいITジャーナリストの林信行氏の意見も聞いたので、付加情報として紹介しよう。]]></description>
+			<title>「分かりにくい」「変わらない」、5Gへの苦言（5Gしかできないこと）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300271/070300004/</link>
+			<description><![CDATA[　5Gへの期待や不満を、モバイルの識者に聞きました。]]></description>
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -238,9 +131,9 @@
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>要注意！サーバーレス四つの落とし穴（サーバーレスの実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062000249/062000004/</link>
-			<description><![CDATA[　サーバーレスアーキテクチャーは、サーバーありのシステムと異なる特徴がいくつもある。システムを構築する際にも、サーバーありのシステムとは別の注意点がある。主なものは四つだ。]]></description>
+			<title>ATM？コインロッカー？ジーユーが導入した風変わりなレジ（すごいレジ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000270/071200004/</link>
+			<description><![CDATA[　東京の銀座5丁目にあるGU（ジーユー）銀座店。開店と同時に、「すごいレジ」は、この店舗の1、3、5階フロアにある。2017年4月に本格導入を発表したセルフレジだ。]]></description>
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -280,21 +173,9 @@
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「分かりにくい」「変わらない」、5Gへの苦言（5Gしかできないこと）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070300271/070300004/</link>
-			<description><![CDATA[　5Gへの期待や不満を、モバイルの識者に聞きました。]]></description>
-			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ATM？コインロッカー？ジーユーが導入した風変わりなレジ（すごいレジ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/063000270/071200004/</link>
-			<description><![CDATA[　東京の銀座5丁目にあるGU（ジーユー）銀座店。開店と同時に、「すごいレジ」は、この店舗の1、3、5階フロアにある。2017年4月に本格導入を発表したセルフレジだ。]]></description>
-			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IOSを25年ぶりに全面刷新、米シスコ提唱の「直感ネットワーク」とは（シリコンバレーNextレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/071000113/</link>
-			<description><![CDATA[　ネットワークエンジニアの仕事を人工知能（AI）が置き換える──。ネットワーク機器大手の米シスコシステムズは2017年6月26〜28日に米国ラスベガスで開催したイベント「Cisco Live 2017」で、新しい企業ネットワークの仕組み「インチュイティブネットワーク」を発表した。]]></description>
+			<title>iMac 27インチ 5Kモデル自腹レビュー、Apple独自路線の罠でFireWire機器は全滅（山崎潤一郎のデジタル危険地帯）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/080600035/071000036/</link>
+			<description><![CDATA[　前編では、導入に至る経緯を紹介した後、新しいiMacの高速起動に驚嘆しつつも、起動音の廃止に落胆したところまでを紹介した。後編では、新iMacの処理速度やUSB-Cポートの互換性について取り上げる。また、起動音廃止に関して、Apple製品に詳しいITジャーナリストの林信行氏の意見も聞いたので、付加情報として紹介しよう。]]></description>
 			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -397,6 +278,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071401906/</link>
 			<description><![CDATA[　東急ハンズは2017年9月末にも、全ての社内システムをパブリッククラウドへ移行し、社内サーバーを撤廃する。ネットベンチャーなどを除けば、パブリッククラウドだけで社内システムを運用する企業は珍しい。]]></description>
 			<pubDate>Fri, 14 Jul 2017 15:11:33 +0900</pubDate>
+		</item>
+		<item>
+			<title>IBMのRDBは「Db2」ブランドに統合、互換性を高める（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071401908/</link>
+			<description><![CDATA[　日本IBMは2017年7月14日、IBMのデータベース製品の報道関係者とITアナリスト向け説明会を開いた。2017年6月22日（ドイツ現地時間）に米IBMが発表したデータベース製品のブランド名「Db2」などを解説した。]]></description>
+			<pubDate>Fri, 14 Jul 2017 15:54:51 +0900</pubDate>
+		</item>
+		<item>
+			<title>税務相談を無料で、ギークスがフリーランスの働き方改革を後押し（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071401907/</link>
+			<description><![CDATA[　ギークスは2017年7月14日、フリーランスが電子メールで何度でも無料で税務相談ができるサービスを始めた。専門知識が必要な税務処理の負担を軽減し、個人の独立や起業といった働き方改革を後押しする。]]></description>
+			<pubDate>Fri, 14 Jul 2017 16:15:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
