@@ -5,49 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>デルEMCがPowerEdgeサーバー新版、インテルのスケーラブル・プロセッサー搭載（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071301903/</link>
-			<description><![CDATA[　デルとEMCジャパンは2017年7月13日、サーバーマシンの新製品「第14世代Dell EMC PowerEdgeサーバー」を発表した。七つのモデルで構成し、このうち5モデルを同日に提供開始した。]]></description>
-			<pubDate>Fri, 14 Jul 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>マイクロサービス、7つの強みと5つのハードル（下）（マイクロサービス、7つの強みと5つのハードル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　この記事では、次なるアプリケーション開発プロジェクトでマイクロサービスを検討すべき7つの理由と、成功のために乗り越えるべき5つのハードルについて見ていく。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300002/" target="_blank">前回</a>から続く）</p>
-
-<h4>マイクロサービスが合わない企業も</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300003/ph3.jpg" width="300" alt="" title=""></div></div>
-
-<p>　マイクロサービスを取り入れた企業は、大きな価値を手にしている。その事実に目をつぶる企業は、時代に取り残されることになるかもしれない。しかし、いくらマイクロサービスが有望そうに見えても、そのアーキテクチャーをすべての企業が活用できるわけではない。マイクロサービスを使いこなせるだけの能力があるかどうか確認しておこう。ここからは、企業が注意すべき点を見ていく。</p>
-
-<h4>1：迅速なプロビジョニングとアプリのデプロイに対応できる備えが必要</h4>
-
-<p>　インクリメンタル開発と継続的デリバリーを行うマイクロサービスは、実践する企業にとって常に備えが必要だ。マイクロサービスを最大限に活用するうえで必要なペースについて行けるよう、リソースのプロビジョニングが直ちに可能でなくてはならない。サーバーのプロビジョニングに、数日間、数週間、数カ月間という期間がかかるようでは、大きな問題に直面するのは必至だ。また、新しいサービスやアプリケーションのデプロイも、同じように迅速にできなくてはならない。</p>
-
-<h4>2：確実なモニタリングが不可欠</h4>
-
-<p>　マイクロサービスでは、各サービスが基盤とする言語、プラットフォーム、APIがそれぞれ異なる。また、マイクロサービスのプロジェクトの場合、複数のチームがそれぞれ別々の構成要素に同時に取り組むのを仕切っていくことになる。こうしたことから、インフラ全体への目配りとマネジメントを効果的に行うために、確実なモニタリングが必要だ。サービスで障害が発生したことやマシンがダウンしたことを把握できなければ、生じた問題を直ちに突き止めることは不可能だ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300003/?ST=cm-software&P=2">3：DevOpsの文化を受け入れる</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300003/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300003/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/070300051/070300003/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 14 Jul 2017 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：ファーウェイの新PC　3:2の液晶に最高の評価を（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/071200326/?d18</link>
+			<description><![CDATA[　ユーザー視点の辛口評価で好評の戸田覚氏が、ファーウェイのモバイルノート「MateBook X」をレビューする。戸田氏が考えるファーウェイ製品ならではの魅力とは？]]></description>
+			<pubDate>Fri, 14 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Microsoft、数千人を削減してクラウドに注力（CIOニュース）</title>
@@ -148,6 +109,12 @@
 			<pubDate>Sat, 15 Jul 2017 15:31:35 +0900</pubDate>
 		</item>
 		<item>
+			<title>2395人の声から読み解くビジネスメールの“使われ方”（5分でわかる！ビジネスメール）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200140/062300007/</link>
+			<description><![CDATA[　ビジネスメール研究所の所長として、メールの研究に精を出す平野所長。研究員として、日夜、メールの研究という名の修行に励む直井研究員。これまで、数々のメールの問題、事件を解決してきた。平野所長と直井研究員がアドバイスします。]]></description>
+			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>宝くじが当たったら、私を「re:Invent」に連れてって（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/071200880/</link>
 			<description><![CDATA[　海外ベンダー主催の年次イベントでは、新たな戦略、製品が派手な演出で発表される。こうした取材はこの10年で15回を数える。とりわけ印象に残るのが、2年前に初参加したAWS（Amazon Web Services）のイベント「AWS re:Invent 2015」だ。]]></description>
@@ -160,15 +127,15 @@
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>2395人の声から読み解くビジネスメールの“使われ方”（5分でわかる！ビジネスメール）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200140/062300007/</link>
-			<description><![CDATA[　ビジネスメール研究所の所長として、メールの研究に精を出す平野所長。研究員として、日夜、メールの研究という名の修行に励む直井研究員。これまで、数々のメールの問題、事件を解決してきた。平野所長と直井研究員がアドバイスします。]]></description>
+			<title>AR/VR/動画はB2Bデジタルマーケティングをどう変えるのか（日本を復活させるB2Bマーケティング）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000155/062300004/</link>
+			<description><![CDATA[　2017年3月10日～18日に、米国テキサス州オースティンで開催された「サウス・バイ・サウス・ウェスト（SXSW）2017」をB2Bの視点から報告します。今回は、SXSWが得意とするAR（拡張現実）/VR（仮想現実）/動画（映像）について報告します。]]></description>
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>UIの改善を急ぐ、データ分析ベンチャーの勝算（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071301063/</link>
-			<description><![CDATA[　3人の日本人が米国のシリコンバレーで起業した、米トレジャーデータ。データウエアハウス（DWH）のクラウドサービスを出発点に、資生堂やSUBARUなど幅広い業種にユーザーを広げつつある。7月投入の新サービス「CDP」を皮切りに、企業のデータを“宝の山”に変えるデータ活用の領域に踏み出す。]]></description>
+			<title>ネットワーク スライシング（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/070400082/</link>
+			<description><![CDATA[　2020年に商用提供を開始する第5世代移動通信システム（5G）の効率的運用を図り、それぞれのサービス領域に合わせて最適化したネットワークを提供する技術。仮想的にネットワークを細分化して実現する。]]></description>
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -256,16 +223,43 @@
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ネットワーク スライシング（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/070400082/</link>
-			<description><![CDATA[　2020年に商用提供を開始する第5世代移動通信システム（5G）の効率的運用を図り、それぞれのサービス領域に合わせて最適化したネットワークを提供する技術。仮想的にネットワークを細分化して実現する。]]></description>
+			<title>UIの改善を急ぐ、データ分析ベンチャーの勝算（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071301063/</link>
+			<description><![CDATA[　3人の日本人が米国のシリコンバレーで起業した、米トレジャーデータ。データウエアハウス（DWH）のクラウドサービスを出発点に、資生堂やSUBARUなど幅広い業種にユーザーを広げつつある。7月投入の新サービス「CDP」を皮切りに、企業のデータを“宝の山”に変えるデータ活用の領域に踏み出す。]]></description>
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>AR/VR/動画はB2Bデジタルマーケティングをどう変えるのか（日本を復活させるB2Bマーケティング）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000155/062300004/</link>
-			<description><![CDATA[　2017年3月10日～18日に、米国テキサス州オースティンで開催された「サウス・バイ・サウス・ウェスト（SXSW）2017」をB2Bの視点から報告します。今回は、SXSWが得意とするAR（拡張現実）/VR（仮想現実）/動画（映像）について報告します。]]></description>
-			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
+			<title>Java 9への道、現在の状況は（前）（Java 9への道、現在の状況は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　「Java」の新バージョン「Java SE 9」は、開発者に大きなメリットをもたらすはずだ。ただし、まだリリースには至っていない。本記事執筆時点では、リリース予定日は2017年9月21日となっている。今回の新バージョンには、モジュール化、AOT（Ahead-Of-Time：事前）コンパイルの実験的機能、REPL（Read-Eval-Print Loop）など、多数の新機能が搭載される。</p>
+
+<h4>モジュール化への反対が解消</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　［この項は2017年6月28日追記］Java 9の目玉機能の1つで、賛否が大きく分かれていたモジュール化の機能が、再び前進を始めそうだ。この機能の仕様に関してJava Community Process（JCP）のExecutive Committee（EC）が実施していた投票が、再投票の末に可決された。</p>
+
+<p>　モジュール化の仕様「Java Specification Request（JSR）376：Java Platform Module System」は、承認に向けた手続きがJCPのECで進められている。このうち、パブリックレビューの承認に関する再投票が2017年6月26日に終了し、賛成24、反対0、棄権1で可決という結果になった。</p>
+
+<p>　この結果、Java 9にはモジュール化の機能が搭載されることになる。現在のリリース予定日である9月21日に間に合うはずである。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000001/?ST=cm-software&P=2">リリースを妨げる重大なバグ以外は修正を保留</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000001/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000001/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 18 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
