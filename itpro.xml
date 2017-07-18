@@ -5,24 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>富士通とイオンなど9社、富士通従業員を対象に「情報銀行」の実証実験（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071401904/</link>
-			<description><![CDATA[　富士通やイオンなどは2017年7月14日、2017年8月中旬から「情報銀行」の実証実験を約2カ月間行うと発表した。]]></description>
-			<pubDate>Fri, 14 Jul 2017 14:30:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>［特報］東急ハンズが9月にも社内サーバーを完全撤廃、全システムをクラウドへ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071401906/</link>
-			<description><![CDATA[　東急ハンズは2017年9月末にも、全ての社内システムをパブリッククラウドへ移行し、社内サーバーを撤廃する。ネットベンチャーなどを除けば、パブリッククラウドだけで社内システムを運用する企業は珍しい。]]></description>
-			<pubDate>Fri, 14 Jul 2017 15:11:33 +0900</pubDate>
-		</item>
-		<item>
-			<title>IBMのRDBは「Db2」ブランドに統合、互換性を高める（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071401908/</link>
-			<description><![CDATA[　日本IBMは2017年7月14日、IBMのデータベース製品の報道関係者とITアナリスト向け説明会を開いた。2017年6月22日（ドイツ現地時間）に米IBMが発表したデータベース製品のブランド名「Db2」などを解説した。]]></description>
-			<pubDate>Fri, 14 Jul 2017 15:54:51 +0900</pubDate>
-		</item>
-		<item>
 			<title>税務相談を無料で、ギークスがフリーランスの働き方改革を後押し（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071401907/</link>
 			<description><![CDATA[　ギークスは2017年7月14日、フリーランスが電子メールで何度でも無料で税務相談ができるサービスを始めた。専門知識が必要な税務処理の負担を軽減し、個人の独立や起業といった働き方改革を後押しする。]]></description>
@@ -59,6 +41,24 @@
 			<pubDate>Sat, 15 Jul 2017 15:31:35 +0900</pubDate>
 		</item>
 		<item>
+			<title>宝くじが当たったら、私を「re:Invent」に連れてって（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/071200880/</link>
+			<description><![CDATA[　海外ベンダー主催の年次イベントでは、新たな戦略、製品が派手な演出で発表される。こうした取材はこの10年で15回を数える。とりわけ印象に残るのが、2年前に初参加したAWS（Amazon Web Services）のイベント「AWS re:Invent 2015」だ。]]></description>
+			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ITの職場は1.8倍も高ストレス（心が折れない現場）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071100278/071100001/</link>
+			<description><![CDATA[　ITスキル研究フォーラム（iSRF）が2015年6～8月に実施した調査では、「高ストレス状態」に当てはまるITエンジニアの割合が、一般平均の約1.8倍。この状況を放置していると、心が折れるメンバーが出かねない。メンバーの心に注目した働き方改革が必要だ。]]></description>
+			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>優れたデータサイエンティストを囲い込む、SOMPOの珍しい中途採用策（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071301062/</link>
+			<description><![CDATA[　SOMPOホールディングスがデジタルハリウッドと共同開催したデータサイエンティスト養成講座が7月7日、3カ月の受講期間を終えて終了した。SOMPOは優秀な卒業生を中途採用する狙い。中途採用策としては必ずしも効率が良いわけではないが、人材以外にも得るものがあるという。]]></description>
+			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>UIの改善を急ぐ、データ分析ベンチャーの勝算（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071301063/</link>
 			<description><![CDATA[　3人の日本人が米国のシリコンバレーで起業した、米トレジャーデータ。データウエアハウス（DWH）のクラウドサービスを出発点に、資生堂やSUBARUなど幅広い業種にユーザーを広げつつある。7月投入の新サービス「CDP」を皮切りに、企業のデータを“宝の山”に変えるデータ活用の領域に踏み出す。]]></description>
@@ -77,9 +77,9 @@
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>宝くじが当たったら、私を「re:Invent」に連れてって（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/071200880/</link>
-			<description><![CDATA[　海外ベンダー主催の年次イベントでは、新たな戦略、製品が派手な演出で発表される。こうした取材はこの10年で15回を数える。とりわけ印象に残るのが、2年前に初参加したAWS（Amazon Web Services）のイベント「AWS re:Invent 2015」だ。]]></description>
+			<title>「人月商売の市場は半減」とSIer経営幹部が予想する大量失業の時代（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/071200147/</link>
+			<description><![CDATA[　人月商売のIT業界では、2020年代に半数以上の技術者が失業する可能性がある――。SIerの経営幹部の間では、今やこの予測は“常識”となりつつある。「SIerの経営幹部からそんな話を聞いたことがないぞ」と不審に思う読者がいるかもしれない。もちろん、彼らがそんな危ない話をするわけがない。]]></description>
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -89,9 +89,9 @@
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ネットワーク スライシング（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/070400082/</link>
-			<description><![CDATA[　2020年に商用提供を開始する第5世代移動通信システム（5G）の効率的運用を図り、それぞれのサービス領域に合わせて最適化したネットワークを提供する技術。仮想的にネットワークを細分化して実現する。]]></description>
+			<title>ネットワークエンジニアは死なない（松田次博 間違いだらけのネットワーク作り）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/230970/071300043/</link>
+			<description><![CDATA[　先日、久しぶりに八重洲ブックセンター（東京・中央）に行った。5階の理工学書売場にネットワーク関係の書籍がある。2000 年頃の最盛期にはネットワーク関係の書籍は大きな書棚が4つか5つ並んでいたものだ。今では書棚半分ほどである。ネットワークの世界は縮んでしまい、それを仕事とするネットワークエンジニアは絶滅危惧種なのだろうか。]]></description>
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -101,9 +101,9 @@
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「人月商売の市場は半減」とSIer経営幹部が予想する大量失業の時代（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/071200147/</link>
-			<description><![CDATA[　人月商売のIT業界では、2020年代に半数以上の技術者が失業する可能性がある――。SIerの経営幹部の間では、今やこの予測は“常識”となりつつある。「SIerの経営幹部からそんな話を聞いたことがないぞ」と不審に思う読者がいるかもしれない。もちろん、彼らがそんな危ない話をするわけがない。]]></description>
+			<title>消費者に魅力が理解されないIoT、スマートホームにみる販売施策の工夫とは（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/071100114/</link>
+			<description><![CDATA[　IoTは法人向けの分野では大きな盛り上がりを見せつつあるものの、コンシューマー向けとなると現状、関心は決して高いとはいえない状況にある。そうした状況を打開し家庭にIoTを広めるためには、デバイスやネットワーク面の取り組みだけでなく、コンシューマーに使ってもらいやすくするための販売面での工夫が必要なのではないだろうか。]]></description>
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -155,27 +155,9 @@
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ネットワークエンジニアは死なない（松田次博 間違いだらけのネットワーク作り）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/230970/071300043/</link>
-			<description><![CDATA[　先日、久しぶりに八重洲ブックセンター（東京・中央）に行った。5階の理工学書売場にネットワーク関係の書籍がある。2000 年頃の最盛期にはネットワーク関係の書籍は大きな書棚が4つか5つ並んでいたものだ。今では書棚半分ほどである。ネットワークの世界は縮んでしまい、それを仕事とするネットワークエンジニアは絶滅危惧種なのだろうか。]]></description>
-			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ITの職場は1.8倍も高ストレス（心が折れない現場）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071100278/071100001/</link>
-			<description><![CDATA[　ITスキル研究フォーラム（iSRF）が2015年6～8月に実施した調査では、「高ストレス状態」に当てはまるITエンジニアの割合が、一般平均の約1.8倍。この状況を放置していると、心が折れるメンバーが出かねない。メンバーの心に注目した働き方改革が必要だ。]]></description>
-			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>優れたデータサイエンティストを囲い込む、SOMPOの珍しい中途採用策（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071301062/</link>
-			<description><![CDATA[　SOMPOホールディングスがデジタルハリウッドと共同開催したデータサイエンティスト養成講座が7月7日、3カ月の受講期間を終えて終了した。SOMPOは優秀な卒業生を中途採用する狙い。中途採用策としては必ずしも効率が良いわけではないが、人材以外にも得るものがあるという。]]></description>
-			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>消費者に魅力が理解されないIoT、スマートホームにみる販売施策の工夫とは（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/071100114/</link>
-			<description><![CDATA[　IoTは法人向けの分野では大きな盛り上がりを見せつつあるものの、コンシューマー向けとなると現状、関心は決して高いとはいえない状況にある。そうした状況を打開し家庭にIoTを広めるためには、デバイスやネットワーク面の取り組みだけでなく、コンシューマーに使ってもらいやすくするための販売面での工夫が必要なのではないだろうか。]]></description>
+			<title>ネットワーク スライシング（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/070400082/</link>
+			<description><![CDATA[　2020年に商用提供を開始する第5世代移動通信システム（5G）の効率的運用を図り、それぞれのサービス領域に合わせて最適化したネットワークを提供する技術。仮想的にネットワークを細分化して実現する。]]></description>
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -257,6 +239,24 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 18 Jul 2017 11:03:36 +0900</pubDate>
+		</item>
+		<item>
+			<title>マネースクウェア・ジャパン、Webページへの攻撃で情報漏えいの可能性（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071801918/</link>
+			<description><![CDATA[　マネースクウェア・ジャパンは2017年7月17日、Webページへのサイバー攻撃によって顧客情報が漏えいした可能性があると発表した。ITproの問い合わせに対しては「Webページに脆弱性があったとは認識していない」と答えた。]]></description>
+			<pubDate>Tue, 18 Jul 2017 11:26:21 +0900</pubDate>
+		</item>
+		<item>
+			<title>AssetView for MacOSのサーバー側モジュールにファイル流出やSQLインジェクションの脆弱性（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071801919/</link>
+			<description><![CDATA[　JPCERTコーディネーションセンター（JPCERT/CC）は2017年7月14日、ハンモックが提供するIT統合管理ソフトウエア「AssetView for MacOS」のサーバー側モジュールである「ファイル転送Webサービス」に二つの脆弱性が存在するとJapan Vulnerability Notes（JVN）で発表した。]]></description>
+			<pubDate>Tue, 18 Jul 2017 11:37:08 +0900</pubDate>
+		</item>
+		<item>
+			<title>OSKが発売35年のERPを刷新、ワークフローと統合へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071801920/</link>
+			<description><![CDATA[　OSKは、同社が開発・販売するERP（統合基幹業務システム）パッケージの新製品「SMILE V」の提供を2017年9月28日に開始する。]]></description>
+			<pubDate>Tue, 18 Jul 2017 11:57:56 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
