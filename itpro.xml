@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>税務相談を無料で、ギークスがフリーランスの働き方改革を後押し（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071401907/</link>
-			<description><![CDATA[　ギークスは2017年7月14日、フリーランスが電子メールで何度でも無料で税務相談ができるサービスを始めた。専門知識が必要な税務処理の負担を軽減し、個人の独立や起業といった働き方改革を後押しする。]]></description>
-			<pubDate>Fri, 14 Jul 2017 16:15:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ベリタスが遊休サーバーを減らす分散ストレージソフト、Dockerに最適化（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071401909/</link>
 			<description><![CDATA[　ベリタステクノロジーズは2017年7月14日、コンテナ型仮想化ソフト「Docker」向けの分散ストレージソフト「Veritas HyperScale for Containers」の提供を始めた。Dockerコンテナの処理量やデータ量に応じて追加する物理サーバーの数を必要最小限に抑えられる。]]></description>
@@ -39,6 +33,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071501915/</link>
 			<description><![CDATA[　米Uber Technologiesの投資家や取締役会が、Uberの株式の一部をソフトバンクグループなどに売却する検討をしていると、米Bloombergが2017年7月14日（米国時間）に報じた。]]></description>
 			<pubDate>Sat, 15 Jul 2017 15:31:35 +0900</pubDate>
+		</item>
+		<item>
+			<title>「人月商売の市場は半減」とSIer経営幹部が予想する大量失業の時代（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/071200147/</link>
+			<description><![CDATA[　人月商売のIT業界では、2020年代に半数以上の技術者が失業する可能性がある――。SIerの経営幹部の間では、今やこの予測は“常識”となりつつある。「SIerの経営幹部からそんな話を聞いたことがないぞ」と不審に思う読者がいるかもしれない。もちろん、彼らがそんな危ない話をするわけがない。]]></description>
+			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>宝くじが当たったら、私を「re:Invent」に連れてって（記者の眼）</title>
@@ -77,9 +77,9 @@
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「人月商売の市場は半減」とSIer経営幹部が予想する大量失業の時代（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/071200147/</link>
-			<description><![CDATA[　人月商売のIT業界では、2020年代に半数以上の技術者が失業する可能性がある――。SIerの経営幹部の間では、今やこの予測は“常識”となりつつある。「SIerの経営幹部からそんな話を聞いたことがないぞ」と不審に思う読者がいるかもしれない。もちろん、彼らがそんな危ない話をするわけがない。]]></description>
+			<title>消費者に魅力が理解されないIoT、スマートホームにみる販売施策の工夫とは（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/071100114/</link>
+			<description><![CDATA[　IoTは法人向けの分野では大きな盛り上がりを見せつつあるものの、コンシューマー向けとなると現状、関心は決して高いとはいえない状況にある。そうした状況を打開し家庭にIoTを広めるためには、デバイスやネットワーク面の取り組みだけでなく、コンシューマーに使ってもらいやすくするための販売面での工夫が必要なのではないだろうか。]]></description>
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>米ヤフー買収のAOLが日本でも「Oath」に統合、専門サイト束ね「広告で相乗効果」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071401914/</link>
-			<description><![CDATA[　米通信大手のベライゾン・コミュニケーションズ傘下でネット事業を手掛ける米AOL日本法人のOath Japan（旧AOLプラットフォームズ・ジャパン）は2017年7月14日に事業説明会を開き、2社に分かれていた日本事業を8月に1社に統合すると発表した。]]></description>
+			<title>スマホで加入、国内初のオンデマンド損保（AIとIoTで保険も進化）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071300286/071300001/</link>
+			<description><![CDATA[　スマホから1日単位で加入できる損害保険、健康状態に応じて加入後も料率が変動する生命保険──。保険をITで変革する「インシュアテック」の取り組みが熱を帯び始めた。]]></description>
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>消費者に魅力が理解されないIoT、スマートホームにみる販売施策の工夫とは（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/071100114/</link>
-			<description><![CDATA[　IoTは法人向けの分野では大きな盛り上がりを見せつつあるものの、コンシューマー向けとなると現状、関心は決して高いとはいえない状況にある。そうした状況を打開し家庭にIoTを広めるためには、デバイスやネットワーク面の取り組みだけでなく、コンシューマーに使ってもらいやすくするための販売面での工夫が必要なのではないだろうか。]]></description>
+			<title>ネットワーク スライシング（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/070400082/</link>
+			<description><![CDATA[　2020年に商用提供を開始する第5世代移動通信システム（5G）の効率的運用を図り、それぞれのサービス領域に合わせて最適化したネットワークを提供する技術。仮想的にネットワークを細分化して実現する。]]></description>
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -149,15 +149,9 @@
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>スマホで加入、国内初のオンデマンド損保（AIとIoTで保険も進化）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071300286/071300001/</link>
-			<description><![CDATA[　スマホから1日単位で加入できる損害保険、健康状態に応じて加入後も料率が変動する生命保険──。保険をITで変革する「インシュアテック」の取り組みが熱を帯び始めた。]]></description>
-			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ネットワーク スライシング（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/070400082/</link>
-			<description><![CDATA[　2020年に商用提供を開始する第5世代移動通信システム（5G）の効率的運用を図り、それぞれのサービス領域に合わせて最適化したネットワークを提供する技術。仮想的にネットワークを細分化して実現する。]]></description>
+			<title>米ヤフー買収のAOLが日本でも「Oath」に統合、専門サイト束ね「広告で相乗効果」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071401914/</link>
+			<description><![CDATA[　米通信大手のベライゾン・コミュニケーションズ傘下でネット事業を手掛ける米AOL日本法人のOath Japan（旧AOLプラットフォームズ・ジャパン）は2017年7月14日に事業説明会を開き、2社に分かれていた日本事業を8月に1社に統合すると発表した。]]></description>
 			<pubDate>Tue, 18 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -251,6 +245,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071801919/</link>
 			<description><![CDATA[　JPCERTコーディネーションセンター（JPCERT/CC）は2017年7月14日、ハンモックが提供するIT統合管理ソフトウエア「AssetView for MacOS」のサーバー側モジュールである「ファイル転送Webサービス」に二つの脆弱性が存在するとJapan Vulnerability Notes（JVN）で発表した。]]></description>
 			<pubDate>Tue, 18 Jul 2017 11:37:08 +0900</pubDate>
+		</item>
+		<item>
+			<title>「FOMOとYOLOの精神で臨め」、WiL伊佐山氏が起業家予備軍にエール（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/071800261/</link>
+			<description><![CDATA[　経済産業省が主催する起業家育成プログラム「始動 Next Innovator」の第3期が、2017年7月14日にスタートした。今回の選抜者は126人で、大企業比率が3分の2を占めるのは例年に近いが、女性の比率が25％と過去最高となったのが特徴という。]]></description>
+			<pubDate>Tue, 18 Jul 2017 11:51:51 +0900</pubDate>
 		</item>
 		<item>
 			<title>OSKが発売35年のERPを刷新、ワークフローと統合へ（ニュース）</title>
