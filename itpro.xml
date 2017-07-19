@@ -5,39 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Java 9への道、現在の状況は（前）（Java 9への道、現在の状況は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　「Java」の新バージョン「Java SE 9」は、開発者に大きなメリットをもたらすはずだ。ただし、まだリリースには至っていない。本記事執筆時点では、リリース予定日は2017年9月21日となっている。今回の新バージョンには、モジュール化、AOT（Ahead-Of-Time：事前）コンパイルの実験的機能、REPL（Read-Eval-Print Loop）など、多数の新機能が搭載される。</p>
-
-<h4>モジュール化への反対が解消</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　［この項は2017年6月28日追記］Java 9の目玉機能の1つで、賛否が大きく分かれていたモジュール化の機能が、再び前進を始めそうだ。この機能の仕様に関してJava Community Process（JCP）のExecutive Committee（EC）が実施していた投票が、再投票の末に可決された。</p>
-
-<p>　モジュール化の仕様「Java Specification Request（JSR）376：Java Platform Module System」は、承認に向けた手続きがJCPのECで進められている。このうち、パブリックレビューの承認に関する再投票が2017年6月26日に終了し、賛成24、反対0、棄権1で可決という結果になった。</p>
-
-<p>　この結果、Java 9にはモジュール化の機能が搭載されることになる。現在のリリース予定日である9月21日に間に合うはずである。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000001/?ST=cm-software&P=2">リリースを妨げる重大なバグ以外は修正を保留</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000001/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000001/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 18 Jul 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>共用オフィス運営のWeWorkが上陸、ソフトバンクと共同出資会社（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071801916/</link>
 			<description><![CDATA[　ソフトバンクグループは2017年7月18日、コワーキングスペース（共用オフィス）運営の世界大手WeWorkと共同出資会社を設立すると発表した。両社で50％ずつ出資し、日本法人WeWork Japanを設立する。]]></description>
@@ -140,6 +107,12 @@
 			<pubDate>Wed, 19 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>携帯大手の料金、ユーザーの4割超が不満（検証 通信市場）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070700276/070700002/</link>
+			<description><![CDATA[　総務省が2017年7月4日に公表した2016年度の通信市場の検証結果（案）では、携帯電話大手3社の契約数に占めるMVNO（仮想移動体通信事業者）の比率が新たに明らかとなった。利用者アンケートでは、MVNOへの不満がそれほど高くないことも判明した。]]></description>
+			<pubDate>Wed, 19 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>エンジニアが転職で重視すること、男女で大きな差（エンジニア転職意識調査）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/071400002/</link>
 			<description><![CDATA[　エンジニアは、転職の際に何を重視するのか。日経BP社の技術系媒体が実施した「エンジニア転職意識調査」の結果から、エンジニアならではの“重視ポイント”が見えてきた。]]></description>
@@ -158,15 +131,15 @@
 			<pubDate>Wed, 19 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>アップルが中国にデータセンター開設、メッセージ開示要求にノーと言えるか（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/071400051/</link>
-			<description><![CDATA[　米アップルはクラウドサービスを提供するデータセンターを自前で用意している。同社はそんなデータセンターを中国に開設した。中国は米国に次ぐ第二の市場に成長しており、その中国にデータの拠点を置くことは確かに理にかなっている。しかしこのニュースから伝わってくる文脈は、合理性とは異なっていた。]]></description>
+			<title>数千人の人員整理も？、米Microsoft営業部門再編の真相（シリコンバレーNextレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/071800115/</link>
+			<description><![CDATA[　2017年7月11日（米国時間）に開催された「Microsoft Inspire 2017」2日目の基調講演では、あるスライドが映し出されると来場者が一斉にスマートフォンのカメラを向け始めた。]]></description>
 			<pubDate>Wed, 19 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>携帯大手の料金、ユーザーの4割超が不満（検証 通信市場）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070700276/070700002/</link>
-			<description><![CDATA[　総務省が2017年7月4日に公表した2016年度の通信市場の検証結果（案）では、携帯電話大手3社の契約数に占めるMVNO（仮想移動体通信事業者）の比率が新たに明らかとなった。利用者アンケートでは、MVNOへの不満がそれほど高くないことも判明した。]]></description>
+			<title>いまだに意気軒高な京スパコン、世代交代はどうなる？（北川 賢一のIT業界乱反射）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800200/071200023/</link>
+			<description><![CDATA[　スーパーコンピューター「京」は4つの世界ランキングのうち今なお2冠を制し、意気軒昂のようだ。京は、文部科学省と理化学研究所（理研）から委託を受けて富士通が開発したスパコンである。2011年11月にスパコンTOP500で世界最速を獲得し、2012年9月から神戸の理化学研究所計算科学研究機構で共同利用に供されている。]]></description>
 			<pubDate>Wed, 19 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -206,16 +179,16 @@
 			<pubDate>Wed, 19 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>数千人の人員整理も？、米Microsoft営業部門再編の真相（シリコンバレーNextレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/071800115/</link>
-			<description><![CDATA[　2017年7月11日（米国時間）に開催された「Microsoft Inspire 2017」2日目の基調講演では、あるスライドが映し出されると来場者が一斉にスマートフォンのカメラを向け始めた。]]></description>
+			<title>アップルが中国にデータセンター開設、メッセージ開示要求にノーと言えるか（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/071400051/</link>
+			<description><![CDATA[　米アップルはクラウドサービスを提供するデータセンターを自前で用意している。同社はそんなデータセンターを中国に開設した。中国は米国に次ぐ第二の市場に成長しており、その中国にデータの拠点を置くことは確かに理にかなっている。しかしこのニュースから伝わってくる文脈は、合理性とは異なっていた。]]></description>
 			<pubDate>Wed, 19 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>いまだに意気軒高な京スパコン、世代交代はどうなる？（北川 賢一のIT業界乱反射）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800200/071200023/</link>
-			<description><![CDATA[　スーパーコンピューター「京」は4つの世界ランキングのうち今なお2冠を制し、意気軒昂のようだ。京は、文部科学省と理化学研究所（理研）から委託を受けて富士通が開発したスパコンである。2011年11月にスパコンTOP500で世界最速を獲得し、2012年9月から神戸の理化学研究所計算科学研究機構で共同利用に供されている。]]></description>
-			<pubDate>Wed, 19 Jul 2017 05:00:00 +0900</pubDate>
+			<title>VRで英会話学習の理解度を向上、イーオンがアプリ開発（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071801925/</link>
+			<description><![CDATA[　英会話教室運営のイーオンは2017年7月18日、VR（仮想現実）技術を活用したスマートフォン向け学習アプリ「英語でおもてなしガイド（VR対応）」の提供を始めた。]]></description>
+			<pubDate>Wed, 19 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>一元的なデータアナリティクスチームの効能（前）（一元的なデータアナリティクスチームの効能）</title>
@@ -246,12 +219,6 @@
 <div></div>
 </div>
 ]]></description>
-			<pubDate>Wed, 19 Jul 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>VRで英会話学習の理解度を向上、イーオンがアプリ開発（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071801925/</link>
-			<description><![CDATA[　英会話教室運営のイーオンは2017年7月18日、VR（仮想現実）技術を活用したスマートフォン向け学習アプリ「英語でおもてなしガイド（VR対応）」の提供を始めた。]]></description>
 			<pubDate>Wed, 19 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -314,6 +281,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800290/071900001/</link>
 			<description><![CDATA[　宗像大社宮司の葦津敬之氏は2017年7月19日、インバウンド市場の総合展示会「インバウンド・ジャパン2017」で「『神宿る島』宗像・沖ノ島と関連遺産群」の世界遺産への登録決定までの取り組みを語った。]]></description>
 			<pubDate>Wed, 19 Jul 2017 15:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>シスコがネット自動化戦略「直感ネットワーク」を国内展開、8月から順次提供（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071901932/</link>
+			<description><![CDATA[　シスコシステムズは2017年7月19日、同社が提唱するネットワークの自動化コンセプト「The Network. Intuitive.（直感的なネットワーク）」の国内戦略を発表した。ソフトウエアでネットワークを柔軟に管理するSDNやクラウド連携などで管理を自動化する。同年8月から順次提供を始める。]]></description>
+			<pubDate>Wed, 19 Jul 2017 16:18:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
