@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>若手のやる気に火を付ける「6人プログラミング」（心が折れない現場）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071100278/071100002/</link>
+			<description><![CDATA[　ITエンジニア経験が数年程度の若手メンバーは一般に、仕事で貢献したいという意欲が高い。ただし、スキル不足でつまずきやすく、うまく解決できないと急速にモチベーションを下げ、心が折れてしまう。リーダーは、若手のメンバーにタスクに取り組んでもらうだけでなく、短期間でスキルを高める機会を提供したい。]]></description>
+			<pubDate>Wed, 19 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「植物の知性」は炎上プロジェクトを救えるか？（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/071200879/</link>
 			<description><![CDATA[　植物に知性はあるか？ こう聞かれると、多くの人は「そうは思わない」と答えるのではないか。脳による知的活動の基となるのが知性であり、脳を持たない植物に知性があるとは思えない、と考えるのが自然だろう。『植物は〈知性〉をもっている』の著者であるマンクーゾ氏らはこの考え方に異を唱える。]]></description>
@@ -59,24 +65,6 @@
 			<pubDate>Wed, 19 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>DNSが使えなくなるトラブル、9月19日に発生する恐れ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071401064/</link>
-			<description><![CDATA[　DNSはインターネットの名前解決を担う重要なシステムだ。ところが、2017年9月19日にDNSのトラブルが発生する恐れが浮上している。そのキーになるのが「DNSSEC」（DNS SECurity extensions）という技術だ。]]></description>
-			<pubDate>Wed, 19 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>若手のやる気に火を付ける「6人プログラミング」（心が折れない現場）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071100278/071100002/</link>
-			<description><![CDATA[　ITエンジニア経験が数年程度の若手メンバーは一般に、仕事で貢献したいという意欲が高い。ただし、スキル不足でつまずきやすく、うまく解決できないと急速にモチベーションを下げ、心が折れてしまう。リーダーは、若手のメンバーにタスクに取り組んでもらうだけでなく、短期間でスキルを高める機会を提供したい。]]></description>
-			<pubDate>Wed, 19 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「菓子パンレビューの仕事」から始め、LSI開発でセキュリティを学ぶ（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/071800015/</link>
-			<description><![CDATA[　今月取り上げるのは、ソフトウエアの脆弱性を見つけて報告する「バグハンター」として知られる西村宗晃氏。今回は、Webデザイナーからキャリアを始め、セキュリティと出会うことになるLSI技術者になるまでを聞いた。]]></description>
-			<pubDate>Wed, 19 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>1000億枚のコンビニICタグ、誰が付けるか（コンビニ革命）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071300285/071300002/</link>
 			<description><![CDATA[　コンビニエンスストア大手5社が合意した「コンビニ電子タグ1000億枚宣言」。商品の製造時点でICタグを貼り付けるとなれば、そのコストはメーカーが負担することになる。メーカーはどのように受け止めているのか。]]></description>
@@ -89,41 +77,16 @@
 			<pubDate>Wed, 19 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>一元的なデータアナリティクスチームの効能（前）（一元的なデータアナリティクスチームの効能）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/071000053/071000001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　データが新たな石油だとしたら、今はその海で溺れないように悪戦苦闘している企業が大半だ。しかし、米半導体メーカーMicron Technologyは違う。Micronは、専門家が未来の工場と呼ぶ製造現場の青写真を作り上げた。製品に関するデータと、製造用設備に関するデータの両方をソフトウエアで分析し、ほぼ全面的に自動化する工場だ。一元的なデータマネジメント戦略と機械学習ソフトウエアを融合することによって、効率の悪いプロセスに伴う無駄を減らし、累積歩留を高め、製品化に要する期間を短縮する。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000053/071000001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　「当社の場合、製造現場にある機械や、サプライチェーンネットワーク、その他の部分から、膨大なデータが得られる。したがって、予測分析と処方的分析に至るうえで競争上の優位性がある」と、MicronのTrevor Schulze最高情報責任者（CIO）は言う。同氏は、売上高の拡大を求めてデータとアナリティクスを利用するチームを結成した。</p>
-
-<p>　近年、利用可能なデータの量は爆発的に増えたものの、大半の企業は、売上高や利益の増加という面では、得られるはずの価値のごく一部しかつかめていない。米McKinsey & Companyの調査部門、McKinsey Global Instituteが2017年5月に発表したレポートによると、500人以上の企業幹部に対し、データとアナリティクスの構想に関して設定した目標の達成度を尋ねたところ、「多少はうまくいった」という回答にとどまった人が85％を超えた。一方で、Micronは成果を上げている。アナリティクス戦略を組織的に刷新したおかげだ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000053/071000001/?ST=cio-management&P=2">「データの文化」を形成</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000053/071000001/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000053/071000001/?ST=cio-management&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000053/071000001/?ST=cio-management&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000053/071000001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 19 Jul 2017 06:00:00 +0900</pubDate>
+			<title>「菓子パンレビューの仕事」から始め、LSI開発でセキュリティを学ぶ（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/071800015/</link>
+			<description><![CDATA[　今月取り上げるのは、ソフトウエアの脆弱性を見つけて報告する「バグハンター」として知られる西村宗晃氏。今回は、Webデザイナーからキャリアを始め、セキュリティと出会うことになるLSI技術者になるまでを聞いた。]]></description>
+			<pubDate>Wed, 19 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>VRで英会話学習の理解度を向上、イーオンがアプリ開発（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071801925/</link>
-			<description><![CDATA[　英会話教室運営のイーオンは2017年7月18日、VR（仮想現実）技術を活用したスマートフォン向け学習アプリ「英語でおもてなしガイド（VR対応）」の提供を始めた。]]></description>
-			<pubDate>Wed, 19 Jul 2017 06:00:00 +0900</pubDate>
+			<title>DNSが使えなくなるトラブル、9月19日に発生する恐れ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071401064/</link>
+			<description><![CDATA[　DNSはインターネットの名前解決を担う重要なシステムだ。ところが、2017年9月19日にDNSのトラブルが発生する恐れが浮上している。そのキーになるのが「DNSSEC」（DNS SECurity extensions）という技術だ。]]></description>
+			<pubDate>Wed, 19 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>IBMの新型メインフレーム、データの全面的な暗号化が可能（Computerworldニュース）</title>
@@ -253,6 +216,12 @@
 			<pubDate>Wed, 19 Jul 2017 23:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>とにかく画面が縦長なGalaxy S8+、買って満足できるスマホか？（戸田覚の読みごたえ重視の超辛口レビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/042700108/071800014/</link>
+			<description><![CDATA[　「Galaxy S8+」を購入して2週間ほど経過した。話題のモデルなので注目している読者も少なくないだろう。今回は、しばらく使い込んで分かった満足度や、予想外だった点を紹介していこう。]]></description>
+			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>コンテナ乗っ取りの脅威、SELinuxでどこまで守れる？（IoT時代の最新SELinux入門）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/071800007/</link>
 			<description><![CDATA[　前回に続いて、SELinuxを利用したセキュリティ分析を実践していきます。今回は、仮想化環境の一つである「コンテナ」が乗っ取られた場合の被害の分析です。]]></description>
@@ -265,9 +234,9 @@
 			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>とにかく画面が縦長なGalaxy S8+、買って満足できるスマホか？（戸田覚の読みごたえ重視の超辛口レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/042700108/071800014/</link>
-			<description><![CDATA[　「Galaxy S8+」を購入して2週間ほど経過した。話題のモデルなので注目している読者も少なくないだろう。今回は、しばらく使い込んで分かった満足度や、予想外だった点を紹介していこう。]]></description>
+			<title>コンビニのおでんにICタグは貼れるのか（コンビニ革命）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071300285/071700003/</link>
+			<description><![CDATA[　コンビニエンスストアの商品にICタグを貼り付ける――。大手5社が目指す取り組みは、いかにも高いハードルのように感じられる。全ての商品に、本当にICタグを貼れるのだろうか。]]></description>
 			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -332,16 +301,41 @@
 			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>コンビニのおでんにICタグは貼れるのか（コンビニ革命）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071300285/071700003/</link>
-			<description><![CDATA[　コンビニエンスストアの商品にICタグを貼り付ける――。大手5社が目指す取り組みは、いかにも高いハードルのように感じられる。全ての商品に、本当にICタグを貼れるのだろうか。]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>動的割り当てなのに同じアドレスを使い続けるDHCPの仕組み（Wiresharkでトラブル解決）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122100310/050800006/</link>
 			<description><![CDATA[　今回取り上げるDHCPは、クライアントにIPアドレスを動的に割り当てるプロトコルだ。このため、IPアドレスが突然変わったり、再起動したら別のIPアドレスが割り当てられたりすると思われがちだが、実際は同じIPアドレスを使い続けることが多い。Wiresharkを使って確認しよう。]]></description>
 			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Java 9への道、現在の状況は（後）（Java 9への道、現在の状況は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　「Java」の新バージョン「Java SE 9」は、開発者に大きなメリットをもたらすはずだ。ただし、まだリリースには至っていない。本記事執筆時点では、リリース予定日は2017年9月21日となっている。今回の新バージョンには、モジュール化、AOT（Ahead-Of-Time：事前）コンパイルの実験的機能、REPL（Read-Eval-Print Loop）など、多数の新機能が搭載される。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000001/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　モジュール化により、ランタイムでJDKの一部のみをいくつかの方法でコンパイルできるようになる。だが、実際のコーディングに関しては、モジュール化はさほど大きな意味は持たないかもしれない。Java関連のソフトウエアを手がける米Azul SystemsのGil Tene最高技術責任者（CTO）は、「人々のコーディングの方法を変えるという面や、コーディングの習慣や生産性を変えるという面では、モジュール化はあまり大きな寄与はしないと思う」と話している。一方、OracleでJavaプラットフォームグループのチーフアーキテクトを務め、長年にわたってモジュール化を熱心に唱えてきたMark Reinhold氏は、今から2年近く前の時点で、Jigsawは「重大な変化」だと述べていた。</p>
+
+<p>　開発者が最終的にモジュール化を有益と思うかどうかはともかく、Java 9にモジュール化が搭載されるのはほぼ確実だ。Oracleは現時点で、モジュール化の計画を巡ってJavaコミュニティの他の勢力と関係を修復することや、Java 9がついにモジュール化に対応することについて、楽観的な見方を示している。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000002/?ST=cm-software&P=2">数々の新機能を搭載</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000002/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000002/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 20 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
