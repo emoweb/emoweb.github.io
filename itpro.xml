@@ -5,170 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：DNSが使えなくなるトラブル、9月19日に発生する恐れ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071401064/?d20</link>
-			<description><![CDATA[　DNSはインターネットの名前解決を担う重要なシステムだ。ところが、2017年9月19日にDNSのトラブルが発生する恐れが浮上している。そのキーになるのが「DNSSEC」（DNS SECurity extensions）という技術だ。]]></description>
-			<pubDate>Wed, 19 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>脆弱性を追い求める「バグハンター」になったワケ（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/071800016/</link>
-			<description><![CDATA[　今月取り上げるのは、ソフトウエアの脆弱性を見つけて報告する「バグハンター」として知られる西村宗晃氏。今回は、セキュリティを専門にしようと決心したところからバグハンターになるまでの経緯を聞いた。]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>第20話  ある日突然、パタっとならないように…（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/061500031/</link>
-			<description><![CDATA[　ドラクエでは、モンスターから攻撃されると体力（HP）を消費し、呪文（魔法）を唱えると魔力（MP）を消費する。いずれも残量がゼロになると死んでしまったり、呪文を唱えられなくなったりする。プレーヤーは、メンバーのHPやMPがゼロにならないよう気を配る必要がある。同じことは現実世界にも当てはまる。]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ランサムウエアで“復権”するワーム、金儲けのツールに（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/071200881/</link>
-			<description><![CDATA[　Windowsなどの脆弱性を突いて、インターネット経由で感染を急速に広げるウイルス「ワーム」。近年では鳴りを潜めているが、“復権”する可能性がある。WannaCryの出現により、ランサムウエアと組み合わせれば、金もうけのツールになることが明らかになったからだ。]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Java SE 9、API以外の新機能で知っておきたいこと（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/070300043/</link>
-			<description><![CDATA[　今回はちょっと趣向を変えて、API以外に知っておきたい新機能や変更について紹介します。バージョン表記や非推奨APIの明確化、javacコマンドやJavadocといったものです。]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IoTでも稼げない予感、GEのイメルト退任から読む未来（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/071800089/</link>
-			<description><![CDATA[　米GEのジェフ・イメルトCEOの退任発表には驚かされた。「インダストリアル・インターネット」を旗印にビジネスのデジタル化を推進する名経営者に、いったい何が起こったのか。ただ唐突感があるのは日本から見ているからであり、米国では「退任は当然」と受け止められているようだ。]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Microsoftが進める「AI民主化」の中身（徹底解剖！Azure 2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200281/071900003/</link>
-			<description><![CDATA[　AI（人工知能）を民主化する――。米Microsoftのサティア・ナデラCEO（最高経営責任者）は頻繁にそう語る。専門家がいない一般企業でも最新のAIを活用できるよう、Microsoftが手助けするという意味だ。競合も多いAIクラウド市場でMicrosoftの強みは何なのか。米ワシントン州レドモンドの同社本社での取材から探った。]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>携帯大手の寡占が光回線にも、SoftBank Airは100万件突破（検証 通信市場）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070700276/070700003/</link>
-			<description><![CDATA[　総務省が2017年7月4日に公表した2016年度の通信市場の検証結果（案）のうち、今回はNTT東西が展開する光回線の卸提供サービス「光コラボレーションモデル」（光コラボ）に焦点を当てる。]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>健康になるほど保険料が安くなるカラクリ（AIとIoTで保険も進化）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071300286/071300003/</link>
-			<description><![CDATA[　あなたの健康年齢は43歳です。実年齢は48歳ですから、保険料は下がります――。第一生命ホールディングスの100％子会社であるネオファースト生命保険が2016年12月に発売した「カラダ革命」が好調だ。]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>コンビニのおでんにICタグは貼れるのか（コンビニ革命）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071300285/071700003/</link>
-			<description><![CDATA[　コンビニエンスストアの商品にICタグを貼り付ける――。大手5社が目指す取り組みは、いかにも高いハードルのように感じられる。全ての商品に、本当にICタグを貼れるのだろうか。]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「資格を生かせる」を重視、建築・土木エンジニアの転職（エンジニア転職意識調査）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/071800006/</link>
-			<description><![CDATA[　同じエンジニアでも、職種によって転職時に重視するものは異なる。日経BP社が実施した「エンジニア転職意識調査」の結果から、建築・土木技術者は「保有資格を生かせる」ことを重視する人が多いと分かった。
-]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「iモード以来のチャレンジ」、ドコモの対話AIはSiriを超えるか？（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071801065/</link>
-			<description><![CDATA[　「顧客とのコミュニケーションをいかに円滑にするかは、当社にとって一丁目一番地の生業と言える。iモード以来のチャレンジだと捉えている」。NTTドコモの秋永和計イノベーション統括部クラウドソリューション担当課長は対話AI（人工知能）「AIエージェント」についてこう語る。]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>とにかく画面が縦長なGalaxy S8+、買って満足できるスマホか？（戸田覚の読みごたえ重視の超辛口レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/042700108/071800014/</link>
-			<description><![CDATA[　「Galaxy S8+」を購入して2週間ほど経過した。話題のモデルなので注目している読者も少なくないだろう。今回は、しばらく使い込んで分かった満足度や、予想外だった点を紹介していこう。]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>活気づく動画配信サービスを支えるCDN、UDPを推すAkamaiの狙い（メディアビジネス最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/379554/071300025/</link>
-			<description><![CDATA[　国内外を問わず、多くの放送局、メディア企業が動画配信サービスに乗り出している。また、各動画配信サービスで提供される動画の画質向上に合わせてビットレートが高速化し、ユーザー数の規模も拡大している。]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>動的割り当てなのに同じアドレスを使い続けるDHCPの仕組み（Wiresharkでトラブル解決）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122100310/050800006/</link>
-			<description><![CDATA[　今回取り上げるDHCPは、クライアントにIPアドレスを動的に割り当てるプロトコルだ。このため、IPアドレスが突然変わったり、再起動したら別のIPアドレスが割り当てられたりすると思われがちだが、実際は同じIPアドレスを使い続けることが多い。Wiresharkを使って確認しよう。]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>コンテナ乗っ取りの脅威、SELinuxでどこまで守れる？（IoT時代の最新SELinux入門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/071800007/</link>
-			<description><![CDATA[　前回に続いて、SELinuxを利用したセキュリティ分析を実践していきます。今回は、仮想化環境の一つである「コンテナ」が乗っ取られた場合の被害の分析です。]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Java 9への道、現在の状況は（後）（Java 9への道、現在の状況は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　「Java」の新バージョン「Java SE 9」は、開発者に大きなメリットをもたらすはずだ。ただし、まだリリースには至っていない。本記事執筆時点では、リリース予定日は2017年9月21日となっている。今回の新バージョンには、モジュール化、AOT（Ahead-Of-Time：事前）コンパイルの実験的機能、REPL（Read-Eval-Print Loop）など、多数の新機能が搭載される。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000001/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　モジュール化により、ランタイムでJDKの一部のみをいくつかの方法でコンパイルできるようになる。だが、実際のコーディングに関しては、モジュール化はさほど大きな意味は持たないかもしれない。Java関連のソフトウエアを手がける米Azul SystemsのGil Tene最高技術責任者（CTO）は、「人々のコーディングの方法を変えるという面や、コーディングの習慣や生産性を変えるという面では、モジュール化はあまり大きな寄与はしないと思う」と話している。一方、OracleでJavaプラットフォームグループのチーフアーキテクトを務め、長年にわたってモジュール化を熱心に唱えてきたMark Reinhold氏は、今から2年近く前の時点で、Jigsawは「重大な変化」だと述べていた。</p>
-
-<p>　開発者が最終的にモジュール化を有益と思うかどうかはともかく、Java 9にモジュール化が搭載されるのはほぼ確実だ。Oracleは現時点で、モジュール化の計画を巡ってJavaコミュニティの他の勢力と関係を修復することや、Java 9がついにモジュール化に対応することについて、楽観的な見方を示している。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000002/?ST=cm-software&P=2">数々の新機能を搭載</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000002/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000002/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071000054/071000002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 20 Jul 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「Microsoft 365 Business」でアップグレードしたWin10ライセンス、解約後も有効（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072000344/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　米Microsoftが先日発表した企業向けサービス「Microsoft 365 Business」で、無償プレビュー版の期間中に「Windows 10 Pro」へのアップグレードライセンスを入手すると、後で有償のサブスクリプションに移行しなかった場合でも、そのライセンスは引き続き有効であることが、Microsoftへの取材から明らかになった。</p>
-
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072000344/ph01.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Blair Hanley Frank</div>
-</div>
-
-<p>　また、有償版のMicrosoft 365に移行した後で、サブスクリプションのキャンセルや解約を行った場合も同様で、アップグレードしたWindows 10のライセンスは引き続き有効となる。</p>
-
-<p>　Microsoft 365 Businessは、Windows 10とOffice 365が統合されたサービスで、料金は1ユーザー当たり月額20ドル。プレビュー版は2017年8月2日に提供開始の予定だ。このプレビュー版をはじめとする同サービスについて、Microsoftの広報担当者に問い合わせたところ、「Windows 10にアップグレードしたライセンスはお客様がそのまま保持できる」とメールで回答があった。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072000344/?ST=cio-appli&P=2">このことから考えると、同社にとってMicroso...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072000344/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072000344/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072000344/?ST=cio-appli&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072000344/?ST=cio-appli&P=4">4</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072000344/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 20 Jul 2017 09:59:18 +0900</pubDate>
-		</item>
-		<item>
 			<title>「中国のAPT10が重大な脅威に」、ファイア・アイがスパイグループの活動状況を報告（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072001938/</link>
 			<description><![CDATA[　ファイア・アイは2017年7月19日、都内で記者説明会を開催し、中国のサイバー・スパイ・グループ「APT10」の活動状況などに関する調査結果を発表した。APT10は2017年の初頭に日本の官公庁や製造業、メディア、エンターテインメント企業を標的とした攻撃を展開。ファイア・]]></description>
@@ -257,6 +93,108 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800290/072000010/</link>
 			<description><![CDATA[　「旅行者の80％が、まずはインターネットで情報を収集している」――。2017年7月20日、「インバウンド・ジャパン2017」（主催：日経BP社）の講演で登壇したトリップアドバイザーの牧野友衛代表取締役はこのように切り出し、旅行クチコミサイトを運営する中で見えたインバウンドの現状や、旅行者が書き込むクチコミの活用について紹介した。]]></description>
 			<pubDate>Thu, 20 Jul 2017 21:42:56 +0900</pubDate>
+		</item>
+		<item>
+			<title>米大学はノートPCが必須、デジタルツールを駆使してこそ得られるものがある（教育ICT現場のリアル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/110400255/071800017/</link>
+			<description><![CDATA[　大学におけるパソコンの必携化が進む中、米国においてはノートパソコンは必須であり、「ICT環境の整備が大学の競争力に直結する」と米国の有力公立大学であるクレムソン大学で副学長およびCIOを務めた現・教授のジェームス・R・ボタム氏は述べる。同氏に米国の大学における情報リテラシー教育などを聞いた。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>5千円札1枚で入手したお手軽タブレットの実力は？ 「Fire 7タブレット」新モデルを自腹レビュー（青木恵美の信州ITラプソディ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/072000034/</link>
+			<description><![CDATA[　居間のテレビにはAmazonのFire TVが接続してあるのだが、これがとても快適で、階下の事務所でもFire TVと同じコンテンツが気軽に楽しめたらいいな、と思うようになった。そこで浮かんだアイデアが、アマゾンのタブレットを使うことだった。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>5G建機、大林組が遠隔操作へ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071201059/</link>
+			<description><![CDATA[　建設大手の大林組はKDDIやNECと共同で2017年9月に5G（第5世代移動通信システム）を使った実証実験を始める。離れた場所から建設機械を操作する「遠隔施工」に役立てる。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>マイクロソフトのAzure Stack、AI使えず拡張性にも難あり？（徹底解剖！Azure 2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200281/072000004/</link>
+			<description><![CDATA[　「Microsoft Azure」と同じ仕様のプライベートクラウドを実現できる「Azure Stack」がいよいよ出荷される。米Microsoftは2017年7月から同製品の受注を開始し、9月から出荷を開始する。MSが切り札として位置付けるAzure Stackは、パブリッククラウドをユーザー企業社内に「延長」する存在だ。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>トヨタがブロックチェーンに触手を伸ばす理由（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/071800882/</link>
+			<description><![CDATA[　自動運転や人工知能（AI）の研究を手掛けるトヨタの米子会社が、Ethereum（イーサリアム）の企業連合に参加――。2017年5月、ブロックチェーン技術を含む分散台帳技術（DLT：distributed ledger technology）の未来を占う上で興味深いニュースが飛び出した。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>保険会社はプラットフォームに進化する（AIとIoTで保険も進化）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071300286/071300004/</link>
+			<description><![CDATA[　被保険者が禁煙活動や日々の運動で成果を上げたら、その見返りに保険料を割り引いたり、様々な特典を与えたりする――。住友生命保険は、こんな保険商品の開発を進めている。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>光回線は安くならない？卸料金の適正性を検証へ（検証 通信市場）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/070700276/070700004/</link>
+			<description><![CDATA[　総務省が公表した2016年度の通信市場の検証結果（案）では、光回線の料金の低廉化が進展していない点を問題提起した。中でもNTT東西が展開する「光コラボレーションモデル」は卸料金を値下げするインセンティブが働かず、低廉化を期待できない状況と結論付けた。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>“やらされ仕事”でもIT部員のやる気が出る独自通貨（心が折れない現場）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071100278/071100004/</link>
+			<description><![CDATA[　ユーザー企業のIT部門に所属するITエンジニアは、ともすると利用部門の要求の対処に追われがち。やらされ仕事ばかりでは、モチベーションも下がってしまう。逆にITエンジニア側から利用部門に提案するなど、自発的に仕事を進める動きが増えれば、チームのモチベーションは自然に高まる。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>社内を擬似攻撃して問題を洗い出す「レッドチーム」を立ち上げ（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/071900017/</link>
+			<description><![CDATA[　今月取り上げるのは、ソフトウエアの脆弱性を見つけて報告する「バグハンター」として知られる西村宗晃氏。今回は、社内システムを擬似的に攻撃してセキュリティ上の問題を洗い出す「レッドチーム」の立ち上げなど、リクルートテクノロジーズでの取り組みを聞いた。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>電子・機械系エンジニアは「やりがい」、転職で重視すること（エンジニア転職意識調査）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/071900007/</link>
+			<description><![CDATA[　日経BP社が実施した「エンジニア転職意識調査」の結果から、電子・機械系エンジニアは他の職種より「やりがい」を重視する人が多いことが分かった。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>トヨタとチームラボが作った「Mobilmo」で思わず童心に返る（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/071900262/</link>
+			<description><![CDATA[　トヨタとチームラボが共同で開発した知育アプリケーション「Mobilmo（モビルモ）」が2017年7月14日に配信を始めた。回転する車輪やロケット風のエンジンなどを組み合わせて、自分で操作するロボットを作成。舞台となる惑星を探検したり、他のユーザーにアピールしたりする。実際に遊んでみると、その奥深さに驚く。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Linuxの手作り感を体験、ラズパイ版「Arch Linux」（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/071900016/</link>
+			<description><![CDATA[　必要最小限の環境から好みに応じてカスタマイズする硬派なOSとして人気の「Arch Linux」。600円台からのPCボード「Raspberry Pi（ラズパイ）」シリーズで動作するOSイメージが公式提供されています。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>JANコード消滅！？コンビニICタグで勃発する「ある問題」（コンビニ革命）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071300285/071800004/</link>
+			<description><![CDATA[　コンビニエンスストア大手5社が取り扱う商品にICタグを貼付し、店頭や物流業務の効率化を推進しようとしている。この「個品管理」を実現するうえで難題となりそうなのが、コード問題だ。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「発想が貧困」とぼやく上司　「アイデアオープンソース」で豊かに（脱・ザンネン社員）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/071300006/</link>
+			<description><![CDATA[　あの人はなぜ次々に新しいアイデアが浮かぶのだろう―。同僚や先輩、取引先に対して、こんな感想を抱いたことはないだろうか。豊かな発想を生み出すには、原料となる豊かな情報を取り入れることが欠かせない。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>戸田覚が夏に手放せない！ iPhoneアプリ厳選5（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/071900329/</link>
+			<description><![CDATA[　ユーザー視点の辛口評価で好評の戸田覚氏が、愛用のiPhoneアプリを紹介する。レジャーや海外旅行で役に立つ、夏にこそ入れておきたいアプリを選んだ。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>新Surface ProはCore i5で8GBモデルが買い（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/071900328/</link>
+			<description><![CDATA[　マイクロソフトの人気Windowsタブレット「Surface Pro」シリーズの新モデルが登場した。従来モデルからの改良点を中心に、どんな人に向いているのか、どのモデルを買うべきかチェックしてみた。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スタイリッシュで頑丈なiPhoneケースはいかが？（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/071400061/</link>
+			<description><![CDATA[　スマホケースは、多くのスマートフォンユーザーにとって必須アイテムの一つと言えるでしょう。筆者も、できればスマホケースを使いたいと考えています。その理由はいくつかあります。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
