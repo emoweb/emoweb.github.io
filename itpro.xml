@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>コマツ、ドコモ、SAPジャパンなど4社がIoT新会社を10月に設立（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071901927/</link>
-			<description><![CDATA[　コマツとNTTドコモ、SAPジャパン、オプティムは2017年7月19日、建設分野でのIoT（インターネット・オブ・シングズ）の活用を狙ったシステム構築基盤「LANDLOG（ランドログ）」を共同で企画、運用すると発表した。]]></description>
-			<pubDate>Wed, 19 Jul 2017 12:59:03 +0900</pubDate>
-		</item>
-		<item>
 			<title>[特報]米WeWorkが日本の共用オフィスを早期に40カ所へ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/071901930/</link>
 			<description><![CDATA[　コワーキングスペース（共用オフィス）運営の世界大手、米WeWorkが日本の拠点を早期に40カ所程度開設することが2017年7月19日、日経コンピュータの取材で分かった。]]></description>
@@ -89,15 +83,21 @@
 			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>とにかく画面が縦長なGalaxy S8+、買って満足できるスマホか？（戸田覚の読みごたえ重視の超辛口レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/042700108/071800014/</link>
-			<description><![CDATA[　「Galaxy S8+」を購入して2週間ほど経過した。話題のモデルなので注目している読者も少なくないだろう。今回は、しばらく使い込んで分かった満足度や、予想外だった点を紹介していこう。]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>「iモード以来のチャレンジ」、ドコモの対話AIはSiriを超えるか？（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071801065/</link>
 			<description><![CDATA[　「顧客とのコミュニケーションをいかに円滑にするかは、当社にとって一丁目一番地の生業と言える。iモード以来のチャレンジだと捉えている」。NTTドコモの秋永和計イノベーション統括部クラウドソリューション担当課長は対話AI（人工知能）「AIエージェント」についてこう語る。]]></description>
+			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Java SE 9、API以外の新機能で知っておきたいこと（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/070300043/</link>
+			<description><![CDATA[　今回はちょっと趣向を変えて、API以外に知っておきたい新機能や変更について紹介します。バージョン表記や非推奨APIの明確化、javacコマンドやJavadocといったものです。]]></description>
+			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>活気づく動画配信サービスを支えるCDN、UDPを推すAkamaiの狙い（メディアビジネス最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/379554/071300025/</link>
+			<description><![CDATA[　国内外を問わず、多くの放送局、メディア企業が動画配信サービスに乗り出している。また、各動画配信サービスで提供される動画の画質向上に合わせてビットレートが高速化し、ユーザー数の規模も拡大している。]]></description>
 			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -162,15 +162,9 @@
 			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Java SE 9、API以外の新機能で知っておきたいこと（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/070300043/</link>
-			<description><![CDATA[　今回はちょっと趣向を変えて、API以外に知っておきたい新機能や変更について紹介します。バージョン表記や非推奨APIの明確化、javacコマンドやJavadocといったものです。]]></description>
-			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>活気づく動画配信サービスを支えるCDN、UDPを推すAkamaiの狙い（メディアビジネス最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/379554/071300025/</link>
-			<description><![CDATA[　国内外を問わず、多くの放送局、メディア企業が動画配信サービスに乗り出している。また、各動画配信サービスで提供される動画の画質向上に合わせてビットレートが高速化し、ユーザー数の規模も拡大している。]]></description>
+			<title>とにかく画面が縦長なGalaxy S8+、買って満足できるスマホか？（戸田覚の読みごたえ重視の超辛口レビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/042700108/071800014/</link>
+			<description><![CDATA[　「Galaxy S8+」を購入して2週間ほど経過した。話題のモデルなので注目している読者も少なくないだろう。今回は、しばらく使い込んで分かった満足度や、予想外だった点を紹介していこう。]]></description>
 			<pubDate>Thu, 20 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -245,6 +239,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072001938/</link>
 			<description><![CDATA[　ファイア・アイは2017年7月19日、都内で記者説明会を開催し、中国のサイバー・スパイ・グループ「APT10」の活動状況などに関する調査結果を発表した。APT10は2017年の初頭に日本の官公庁や製造業、メディア、エンターテインメント企業を標的とした攻撃を展開。ファイア・]]></description>
 			<pubDate>Thu, 20 Jul 2017 10:45:23 +0900</pubDate>
+		</item>
+		<item>
+			<title>中国EC市場攻略には政策理解が必要、アイスタイル吉田氏（インバウンド・ジャパン2017レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800290/071900005/</link>
+			<description><![CDATA[世界最大のEC（電子商取引）市場、中国。同市場の攻略には政府の政策への理解が必要だ――。中国istyle China 董事長兼総経理の吉田直史氏は2017年7月19日、「インバウンド・ジャパン 2017」（主催：日経BP社）に登壇し、中国EC市場について講演した。同社は、化粧品情報サイトを手がけるアイスタイルの中国法人だ。]]></description>
+			<pubDate>Thu, 20 Jul 2017 15:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
