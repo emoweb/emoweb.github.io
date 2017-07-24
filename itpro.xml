@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>社内を擬似攻撃して問題を洗い出す「レッドチーム」を立ち上げ（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/071900017/</link>
+			<description><![CDATA[　今月取り上げるのは、ソフトウエアの脆弱性を見つけて報告する「バグハンター」として知られる西村宗晃氏。今回は、社内システムを擬似的に攻撃してセキュリティ上の問題を洗い出す「レッドチーム」の立ち上げなど、リクルートテクノロジーズでの取り組みを聞いた。]]></description>
+			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>“やらされ仕事”でもIT部員のやる気が出る独自通貨（心が折れない現場）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071100278/071100004/</link>
 			<description><![CDATA[　ユーザー企業のIT部門に所属するITエンジニアは、ともすると利用部門の要求の対処に追われがち。やらされ仕事ばかりでは、モチベーションも下がってしまう。逆にITエンジニア側から利用部門に提案するなど、自発的に仕事を進める動きが増えれば、チームのモチベーションは自然に高まる。]]></description>
@@ -59,15 +65,15 @@
 			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>5G建機、大林組が遠隔操作へ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071201059/</link>
-			<description><![CDATA[　建設大手の大林組はKDDIやNECと共同で2017年9月に5G（第5世代移動通信システム）を使った実証実験を始める。離れた場所から建設機械を操作する「遠隔施工」に役立てる。]]></description>
+			<title>保険会社はプラットフォームに進化する（AIとIoTで保険も進化）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071300286/071300004/</link>
+			<description><![CDATA[　被保険者が禁煙活動や日々の運動で成果を上げたら、その見返りに保険料を割り引いたり、様々な特典を与えたりする――。住友生命保険は、こんな保険商品の開発を進めている。]]></description>
 			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>社内を擬似攻撃して問題を洗い出す「レッドチーム」を立ち上げ（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/071900017/</link>
-			<description><![CDATA[　今月取り上げるのは、ソフトウエアの脆弱性を見つけて報告する「バグハンター」として知られる西村宗晃氏。今回は、社内システムを擬似的に攻撃してセキュリティ上の問題を洗い出す「レッドチーム」の立ち上げなど、リクルートテクノロジーズでの取り組みを聞いた。]]></description>
+			<title>新Surface ProはCore i5で8GBモデルが買い（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/071900328/</link>
+			<description><![CDATA[　マイクロソフトの人気Windowsタブレット「Surface Pro」シリーズの新モデルが登場した。従来モデルからの改良点を中心に、どんな人に向いているのか、どのモデルを買うべきかチェックしてみた。]]></description>
 			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +101,9 @@
 			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>保険会社はプラットフォームに進化する（AIとIoTで保険も進化）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071300286/071300004/</link>
-			<description><![CDATA[　被保険者が禁煙活動や日々の運動で成果を上げたら、その見返りに保険料を割り引いたり、様々な特典を与えたりする――。住友生命保険は、こんな保険商品の開発を進めている。]]></description>
-			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>新Surface ProはCore i5で8GBモデルが買い（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/071900328/</link>
-			<description><![CDATA[　マイクロソフトの人気Windowsタブレット「Surface Pro」シリーズの新モデルが登場した。従来モデルからの改良点を中心に、どんな人に向いているのか、どのモデルを買うべきかチェックしてみた。]]></description>
+			<title>5G建機、大林組が遠隔操作へ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/071201059/</link>
+			<description><![CDATA[　建設大手の大林組はKDDIやNECと共同で2017年9月に5G（第5世代移動通信システム）を使った実証実験を始める。離れた場所から建設機械を操作する「遠隔施工」に役立てる。]]></description>
 			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -244,6 +244,12 @@
 			<pubDate>Fri, 21 Jul 2017 23:17:07 +0900</pubDate>
 		</item>
 		<item>
+			<title>危機は回避できるのか？ ビットコイン分裂騒動を整理する（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072101067/</link>
+			<description><![CDATA[　仮想通貨ビットコインの分裂騒動が大きく報じられている。一連の騒動を聞いて「仮想通貨の分裂騒動とは？」「どんな影響があるのか？」と疑問に思う人は多いだろう。分裂騒動が起こった背景、問題の根幹である「UASF」というキーワードの意味、そして今後何が起こるのか解説する。]]></description>
+			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>なぜなぜ先生がIT企業の分析を赤字添削、「後ろから読み返して」（なぜなぜ分析でミス撲滅）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071000277/071000001/</link>
 			<description><![CDATA[　NTTコムウェアの東日本支店はなぜなぜ分析の導入で、2016年度にヒューマンエラーに起因する重大なミスがゼロになった。研修講師によるなぜなぜ分析の赤字添削を通じ、受講者はコツをつかんでいく。]]></description>
@@ -256,15 +262,15 @@
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>危機は回避できるのか？ ビットコイン分裂騒動を整理する（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072101067/</link>
-			<description><![CDATA[　仮想通貨ビットコインの分裂騒動が大きく報じられている。一連の騒動を聞いて「仮想通貨の分裂騒動とは？」「どんな影響があるのか？」と疑問に思う人は多いだろう。分裂騒動が起こった背景、問題の根幹である「UASF」というキーワードの意味、そして今後何が起こるのか解説する。]]></description>
+			<title>地位が低いと感じている？ITエンジニアの転職観（エンジニア転職意識調査）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/071900008/</link>
+			<description><![CDATA[　IT系エンジニアは、転職時に他の職種よりも「社内でのエンジニアの地位」を気にしている人が多い。日経BP社が実施した「エンジニア転職意識調査」の結果で明らかになった。]]></description>
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>カード再発行で実感した日本のFinTechの問題点（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/071400092/</link>
-			<description><![CDATA[　不覚にも財布を紛失してしまいました。いろいろ探してみましたが、見つかりません。意を決してカードの紛失処理を始めました。紛失処理と再発行の手続きをしてみると、クレジットカード会社と銀行、さらに同じ銀行でもそれぞれに対応が随分違っていることに気づきました。]]></description>
+			<title>桁違いの性能でハードディスクに取って代わるSSD（今さら聞けないストレージ技術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600261/062800003/</link>
+			<description><![CDATA[　今どきのストレージ装置が備える注目技術や基礎技術を取り上げ、図解を使って解説していきます。今回は、いまやストレージの記憶媒体としてハードディスクにとって変わりつつある「フラッシュメモリー」を取り上げます。]]></description>
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -317,15 +323,9 @@
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>桁違いの性能でハードディスクに取って代わるSSD（今さら聞けないストレージ技術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600261/062800003/</link>
-			<description><![CDATA[　今どきのストレージ装置が備える注目技術や基礎技術を取り上げ、図解を使って解説していきます。今回は、いまやストレージの記憶媒体としてハードディスクにとって変わりつつある「フラッシュメモリー」を取り上げます。]]></description>
-			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>地位が低いと感じている？ITエンジニアの転職観（エンジニア転職意識調査）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/071900008/</link>
-			<description><![CDATA[　IT系エンジニアは、転職時に他の職種よりも「社内でのエンジニアの地位」を気にしている人が多い。日経BP社が実施した「エンジニア転職意識調査」の結果で明らかになった。]]></description>
+			<title>カード再発行で実感した日本のFinTechの問題点（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/071400092/</link>
+			<description><![CDATA[　不覚にも財布を紛失してしまいました。いろいろ探してみましたが、見つかりません。意を決してカードの紛失処理を始めました。紛失処理と再発行の手続きをしてみると、クレジットカード会社と銀行、さらに同じ銀行でもそれぞれに対応が随分違っていることに気づきました。]]></description>
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -364,6 +364,41 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800290/072300016/</link>
 			<description><![CDATA[　海外からの観光客獲得のためにデジタル技術をどう活用すべきか－－。2017年7月21日に開催された「インバウンド・ジャパン 2017」のテーマセッション「デジタル解析と外国人視点で高めるインバウンド力 ～Diamond Route Japanの事例より」では、その答えを探るヒントが示された。]]></description>
 			<pubDate>Mon, 24 Jul 2017 07:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google、初の人材採用支援サービス「Google Hire」を発表（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/072400397/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Googleは現地時間2017年7月18日、同社初の人材採用支援サービス「Google Hire」を発表した。米国の中堅中小企業向けのサービスで、候補者への連絡、面接のスケジューリング、応募全般の管理などの機能を持つ。
+</p>
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/072400397/ph.jpg" width="300" alt="" title=""></div></div>
+<p>
+　同社は2017年6月、求人検索機能「Google for Jobs」を米国で開始している。職を探している人が、LinkedIn、Careerbuilder、Glassdoorなど、各種の求人情報サイトで公開されている情報を検索できる機能だ。今回発表となったGoogle Hireはこれに続くもので、人材を採用する企業側が利用するサービスである。
+</p>
+<p>
+　Google Hireでは、個別の職種の要件に応じて、質問、コーディングテスト、オンサイトでのプレゼンテーションなど、採用プロセスをカスタマイズできる。また、Googleカレンダーとの連携が可能で、空き時間の枠に面接の予定をドラッグ＆ドロップで設定でき、面接案内の送信や質問の設定なども行える。
+</p>
+<p>
+　ビジネスの観点では、Google Hireが目指しているのは、採用プロセスの効率性と透明性を高めて、応募者、採用担当者、採用責任者のそれぞれのエクスペリエンスを向上することだ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/072400397/?ST=cm-cloud&P=2">このサービスは、Gmail、Googleカレンダー、Google...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/072400397/?ST=cm-cloud&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/072400397/?ST=cm-cloud&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/072400397/?ST=cm-cloud&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/072400397/?ST=cm-cloud&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 24 Jul 2017 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
