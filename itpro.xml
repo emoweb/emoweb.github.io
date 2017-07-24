@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>2回3回と執拗な標的型攻撃メール、被害を最小限に抑えるには？（企業セキュリティ、七つの鉄則）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200257/071200006/</link>
+			<description><![CDATA[　標的型攻撃メールは厄介で恐ろしい。標的とされた企業のIDやメールアドレス、個人情報といった換金できる情報や重要機密などを窃取しようという、攻撃者の「明確な意志」があるためだ。標的型攻撃メールの被害を最小限に抑えるヒントを紹介していこう。]]></description>
+			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>地位が低いと感じている？ITエンジニアの転職観（エンジニア転職意識調査）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/071900008/</link>
 			<description><![CDATA[　IT系エンジニアは、転職時に他の職種よりも「社内でのエンジニアの地位」を気にしている人が多い。日経BP社が実施した「エンジニア転職意識調査」の結果で明らかになった。]]></description>
@@ -53,15 +59,16 @@
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>第二新卒のウソ、ホント（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072101066/</link>
-			<description><![CDATA[　人手不足が切迫感を増している。日本商工会議所の調査によると、中小の情報通信・情報サービス業では62.3％が人手不足と回答しており、全産業平均を上回る。こうした中で注目が高まっているのが、社会人経験3年未満で転職する「第二新卒」だ。]]></description>
+			<title>こんなにあるぞ働き方改革ツール、Web会議からウエアラブルまで（今どきの働き方改革ツール）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800289/072000002/</link>
+			<description><![CDATA[　ここ数カ月の間に「働き方改革支援」をうたったソフトウエアやサービス、ハードウエアが相次ぎ登場している。いったいどのようなジャンルの製品が、どのような働き方改革に効くと言っているのか。まずは働き方改革ツールの全体像を見てみよう。
+]]></description>
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>2回3回と執拗な標的型攻撃メール、被害を最小限に抑えるには？（企業セキュリティ、七つの鉄則）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200257/071200006/</link>
-			<description><![CDATA[　標的型攻撃メールは厄介で恐ろしい。標的とされた企業のIDやメールアドレス、個人情報といった換金できる情報や重要機密などを窃取しようという、攻撃者の「明確な意志」があるためだ。標的型攻撃メールの被害を最小限に抑えるヒントを紹介していこう。]]></description>
+			<title>AWS、Azure、Googleと全方位、NTTコム“百貨店クラウド”の思惑（3大クラウドの売り方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800287/072000001/</link>
+			<description><![CDATA[　AWS、Azureに加え、Googleとの協業を発表したNTTコミュニケーションズ。“百貨店”の様相を呈してきたEnterprise Cloudの勝算を探った。]]></description>
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -77,16 +84,9 @@
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>こんなにあるぞ働き方改革ツール、Web会議からウエアラブルまで（今どきの働き方改革ツール）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800289/072000002/</link>
-			<description><![CDATA[　ここ数カ月の間に「働き方改革支援」をうたったソフトウエアやサービス、ハードウエアが相次ぎ登場している。いったいどのようなジャンルの製品が、どのような働き方改革に効くと言っているのか。まずは働き方改革ツールの全体像を見てみよう。
-]]></description>
-			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AWS、Azure、Googleと全方位、NTTコム“百貨店クラウド”の思惑（3大クラウドの売り方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800287/072000001/</link>
-			<description><![CDATA[　AWS、Azureに加え、Googleとの協業を発表したNTTコミュニケーションズ。“百貨店”の様相を呈してきたEnterprise Cloudの勝算を探った。]]></description>
+			<title>第二新卒のウソ、ホント（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072101066/</link>
+			<description><![CDATA[　人手不足が切迫感を増している。日本商工会議所の調査によると、中小の情報通信・情報サービス業では62.3％が人手不足と回答しており、全産業平均を上回る。こうした中で注目が高まっているのが、社会人経験3年未満で転職する「第二新卒」だ。]]></description>
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -222,6 +222,12 @@
 			<pubDate>Mon, 24 Jul 2017 21:34:31 +0900</pubDate>
 		</item>
 		<item>
+			<title>費用の6割が戻る！ どうなるIT資格取得の給付金制度（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072000883/</link>
+			<description><![CDATA[　IT関連の資格取得講座を受講する場合、2017年10月以降、費用の補助を受けられるケースが増える。「教育訓練給付制度」の対象講座の指定要件緩和によって、対象講座の拡大が見込まれるからだ。]]></description>
+			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>テレワーク、四つのポイントを知っていますか？（今どきの働き方改革ツール）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800289/072400003/</link>
 			<description><![CDATA[　働き方改革の中でも、情報システムの活用なしには実現できないのがテレワークだ。テレワークは「情報通信技術（ICT）を活用し、時間や場所を有効に活用できる柔軟な働き方」を指す。テレワークの導入に必要なのはどのようなツールなのかを明らかにする。]]></description>
@@ -234,9 +240,9 @@
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>費用の6割が戻る！ どうなるIT資格取得の給付金制度（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072000883/</link>
-			<description><![CDATA[　IT関連の資格取得講座を受講する場合、2017年10月以降、費用の補助を受けられるケースが増える。「教育訓練給付制度」の対象講座の指定要件緩和によって、対象講座の拡大が見込まれるからだ。]]></description>
+			<title>大ブームから1年、ポケモンGOは“オワコン”なのか（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/071900115/</link>
+			<description><![CDATA[　2016年7月の配信直後から大ブームとなり、様々な社会現象をもたらした米ナイアンティックの「ポケモンGO」。あれから約1年が経過した現在、当時のようなブームは見られなくなっていることから“オワコン”（終わったコンテンツ）化を指摘する声も聞かれるようになった。だが本当にそうなのだろうか。]]></description>
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -294,16 +300,41 @@
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>大ブームから1年、ポケモンGOは“オワコン”なのか（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/071900115/</link>
-			<description><![CDATA[　2016年7月の配信直後から大ブームとなり、様々な社会現象をもたらした米ナイアンティックの「ポケモンGO」。あれから約1年が経過した現在、当時のようなブームは見られなくなっていることから“オワコン”（終わったコンテンツ）化を指摘する声も聞かれるようになった。だが本当にそうなのだろうか。]]></description>
-			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Compute Card（Close Up Keyword）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/071900083/</link>
 			<description><![CDATA[　米インテルが提唱するクレジットカードサイズのコンピューティングプラットフォーム。教育現場で複数生徒のPC環境を素早く切り替えたり、IT家電製品のPC部分をアップグレードしたりなどの使い方を見込んでいる。]]></description>
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ビールの無断サービスを防げ、売上と提供量をIoTで照合（前）（ビールの無断サービスを防げ、売上と提供量をIoTで照合）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/071800056/071800001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　物を売る商売にとって、店頭の商品が原因不明で消えるのは悪夢である。そして飲食業の場合、店員がビールをサービスしすぎることが損失の原因となる場合もある。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800056/071800001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　米Buffalo Wild Wings（BWW）は、多彩なフレーバーのソースで味わうバッファローウィングと地ビールで知られるレストランチェーンだ。同社は、外食業界で広く見られる問題を抑えるための先進的なIoTソリューションを導入した。その問題とは、バーテンダーが気前よくビールをサービスしたり、会計にきちんと計上しなかったりすることで生じる損失である。こうした昔ながらの不正による損失は、平均的なバーでビール樽1本当たり24パイント（約11リットル）に上る。</p>
+
+<p>　だがBWWは違う。「Beerboard」というシステムを使って、ビールの「目減り」を抑えている。バーテンダーが常連客にビールをおごったり、支払いをレジではなく自分の懐に入れたりすることによる損失を減らせるシステムだ。このシステムは、ESB（Enterprise Service Bus）とAPI、そして「流量計」を活用する。この結果、失われていたはずのビールの売上を取り戻すことができている。データは嘘をつかない。得意客にビールをこっそり振る舞うバーテンダーも、Beerboardをだますことは不可能だ。</p>
+
+<p>　BWWのSantiago Abraham最高情報責任者（CIO）は次のように言う。「フランチャイズ加盟店も歓迎している。注いだ分と売れた分を照合して可視化できるのは大きいからだ。注ぎすぎにせよ、おごりにせよ、さまざまな行為について洞察を得ることができ、バーでビールのオペレーションがうまく回っているかどうかを判断できる」。Abraham氏は2016年11月に米Royal Caribbean CruisesからBWWに移ってきた。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800056/071800001/?ST=cm-hardware&P=2">売上と注出量を照合</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800056/071800001/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800056/071800001/?ST=cm-hardware&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800056/071800001/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 25 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
