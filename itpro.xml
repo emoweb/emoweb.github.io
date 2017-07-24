@@ -11,12 +11,6 @@
 			<pubDate>Fri, 21 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ファームウエアを攻撃する「PDOS」を防御、HPEがサーバーを「Gen10」に刷新（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072101956/</link>
-			<description><![CDATA[　日本ヒューレット・パッカード（HPE）は2017年7月20日、x86サーバーの新シリーズ「HPE Generation10（Gen10）サーバー　プラットフォーム」を発表した。今後増加すると見込まれるサーバー機器のファームウエアに対するサイバー攻撃への対策として、ファームウエアの改ざんを検知したり、自動で正常な状態に戻す機能などを盛り込んだ。]]></description>
-			<pubDate>Fri, 21 Jul 2017 11:09:04 +0900</pubDate>
-		</item>
-		<item>
 			<title>工場やインフラのサイバー防御力を鍛える、DNPがセキュリティ演習事業を拡充（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072101957/</link>
 			<description><![CDATA[　大日本印刷（DNP）は2017年7月21日、セキュリティ研修サービス「サイバー・インシデントレスポンス・マネジメントコース（CIRM） 産業制御系 基礎」を同年9月に開始すると発表した。イスラエルの2社が共同開発した訓練システムを使い、産業制御システムへのセキュリティ攻撃と対策を演習形式で学べる。]]></description>
@@ -77,6 +71,12 @@
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>サムスンに不利な記事を掲載せず？韓国ポータル大手の疑惑広がる（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/072000158/</link>
+			<description><![CDATA[　韓国のハンギョレ新聞は2017年7月19日、最大手ポータルサイトのNAVERとDAUMが、サムスン電子のイ・ジェヨン副会長に不利な内容の記事がポータルニュースのメイン画面に掲示されないようにしていたと報道した。サムスン電子とNAVER、DAUMは「そのような事実はない」と反論。それでもオンラインコミュニティでは「やっぱり」「そうだと思った」などと批判的な書き込みが多かった。]]></description>
+			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>地位が低いと感じている？ITエンジニアの転職観（エンジニア転職意識調査）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/071900008/</link>
 			<description><![CDATA[　IT系エンジニアは、転職時に他の職種よりも「社内でのエンジニアの地位」を気にしている人が多い。日経BP社が実施した「エンジニア転職意識調査」の結果で明らかになった。]]></description>
@@ -95,16 +95,15 @@
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>こんなにあるぞ働き方改革ツール、Web会議からウエアラブルまで（今どきの働き方改革ツール）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800289/072000002/</link>
-			<description><![CDATA[　ここ数カ月の間に「働き方改革支援」をうたったソフトウエアやサービス、ハードウエアが相次ぎ登場している。いったいどのようなジャンルの製品が、どのような働き方改革に効くと言っているのか。まずは働き方改革ツールの全体像を見てみよう。
-]]></description>
+			<title>銀行窓口での対応時間、QR伝票で3分に（QRコード大増殖）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072000296/072100002/</link>
+			<description><![CDATA[　西日本シティ銀行は、QRコードで窓口業務の混雑を一変させた。入出金や振り込み、納税、両替の手続き時に窓口へ提出する伝票をWebサイトで作成できる「伝票作成WEBサービス」がそれだ。窓口の取引1件当たりの処理時間を4割減らし、月末に頻発していた振り込みの着金遅延も解消した。]]></description>
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>サムスンに不利な記事を掲載せず？韓国ポータル大手の疑惑広がる（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/072000158/</link>
-			<description><![CDATA[　韓国のハンギョレ新聞は2017年7月19日、最大手ポータルサイトのNAVERとDAUMが、サムスン電子のイ・ジェヨン副会長に不利な内容の記事がポータルニュースのメイン画面に掲示されないようにしていたと報道した。サムスン電子とNAVER、DAUMは「そのような事実はない」と反論。それでもオンラインコミュニティでは「やっぱり」「そうだと思った」などと批判的な書き込みが多かった。]]></description>
+			<title>第二新卒のウソ、ホント（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072101066/</link>
+			<description><![CDATA[　人手不足が切迫感を増している。日本商工会議所の調査によると、中小の情報通信・情報サービス業では62.3％が人手不足と回答しており、全産業平均を上回る。こうした中で注目が高まっているのが、社会人経験3年未満で転職する「第二新卒」だ。]]></description>
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -144,15 +143,10 @@
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>銀行窓口での対応時間、QR伝票で3分に（QRコード大増殖）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072000296/072100002/</link>
-			<description><![CDATA[　西日本シティ銀行は、QRコードで窓口業務の混雑を一変させた。入出金や振り込み、納税、両替の手続き時に窓口へ提出する伝票をWebサイトで作成できる「伝票作成WEBサービス」がそれだ。窓口の取引1件当たりの処理時間を4割減らし、月末に頻発していた振り込みの着金遅延も解消した。]]></description>
-			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>第二新卒のウソ、ホント（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072101066/</link>
-			<description><![CDATA[　人手不足が切迫感を増している。日本商工会議所の調査によると、中小の情報通信・情報サービス業では62.3％が人手不足と回答しており、全産業平均を上回る。こうした中で注目が高まっているのが、社会人経験3年未満で転職する「第二新卒」だ。]]></description>
+			<title>こんなにあるぞ働き方改革ツール、Web会議からウエアラブルまで（今どきの働き方改革ツール）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800289/072000002/</link>
+			<description><![CDATA[　ここ数カ月の間に「働き方改革支援」をうたったソフトウエアやサービス、ハードウエアが相次ぎ登場している。いったいどのようなジャンルの製品が、どのような働き方改革に効くと言っているのか。まずは働き方改革ツールの全体像を見てみよう。
+]]></description>
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -256,6 +250,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800290/072300017/</link>
 			<description><![CDATA[　国内で20万に達するともいわれる神社仏閣を観光資源としてどう活用し、その魅力を外国人観光客にどう伝えるか。都内で2017年7月21日まで開催された「インバウンド・ジャパン 2017」では、「神社仏閣インバウンドの未来 ～伊勢市モデルの可能性」と題したパネルディスカッションが最終日に開かれ、伊勢市や神社本庁などのキーパーソンがパネリストとして登壇した。]]></description>
 			<pubDate>Mon, 24 Jul 2017 17:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>小池都知事が最先端のツールを体験、「東京テレワーク推進センター」が開設（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072401966/</link>
+			<description><![CDATA[　東京都は2017年7月24日、テレワークの推進で悩みを抱える企業に対して支援サービスなどを提供する「東京テレワーク推進センター」を開設した。開所式に参加した小池百合子 東京都知事は、「テレワークは働き方改革の起爆剤」と強調した。]]></description>
+			<pubDate>Mon, 24 Jul 2017 18:20:04 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
