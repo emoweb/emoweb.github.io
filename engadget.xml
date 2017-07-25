@@ -5,25 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    アップル､Siriとドウェイン･ジョンソン主演の映画をYouTubeで公開。音声AI大活躍のアクションSF超大作？
-</title>
-			<link>http://japanese.engadget.com/2017/07/23/youtube-siri/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/f72faa45f0593499293443c5953cf35d/205502962/maindwe.jpg" />
-プロレスラーにしてハリウッドスターの"ザ・ロック"ことドウェイン・ジョンソンが、AppleのYouTubeチャンネルで動画「The Rock x Siri」を公開するとツイートしました。ドウェイン・ジョンソンはそのツイートで、この動画が「ビッグで、クールで、セクシーで、funnest(おそらく"楽しい"の最上級)なムービーだ」とだけ内容を説明。さらにFacebookへの投稿では「みんなが外に飛び出して、なにかを成し遂げる勇気を持ってもらうためにこの映画を作った」と付け加えています。
-
-投稿の添付画像には、iPhoneを手にキメ顔のザ・ロック、そしてその周辺には車、飛行機、人工衛星と地球、そして何やら怪しい多脚ロボットの姿が描かれています。しかしこれだけだと何がなんなのかさっぱりわかりません。ただ、ドウェイン・ジョンソンとSiriが主役ということで安易に想像すれば次々と降りかかる事件やトラブルをジョンソンがいちいちSiriにどうすればよいか訪ねてはそのとおりにして問題をクリアしていくといった話が思い浮かびそうです。
-
-アップルは6月のWWDCで初のスマートスピーカー製品HomePodを発表、米国他で12月に発売するとしており、当然それにもSiriが搭載されます。この段階でハリウッドスターとSiriを大フィーチャーしたスペシャルムービーで、アップル謹製音声AIアシスタントの印象をアップしておくのは、重要なことかもしれません。
-
-なお、アップルはこれまでPlanet of the Appsなどの動画コンテンツはApple Musicを通じて公開しており、映画レンタルなどはiTunesを使っています。しかし今回はなぜかYouTubeチャンネルでの公開。アップルの製品を持たず、iTunesも使っていない人たちへも広くリーチしたい意図があるのかもしれません。
-
- 
-
-[Image : Dwayne Johnson, Twitter]
- ]]></description>
-			<pubDate>Mon, 24 Jul 2017 09:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    ベルロイの「SIMが入る財布」は、SIMが入るという以外にも便利で機能的だった
 </title>
 			<link>http://japanese.engadget.com/2017/07/23/sim-sim/</link>
@@ -735,6 +716,27 @@ Canvaはオーストラリアのベンチャー企業が手がけたデザイン
  
  ]]></description>
 			<pubDate>Tue, 25 Jul 2017 23:25:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    Adobe、Flashの2020年末廃止を発表。HTML5やWebGL、WebAssemblyへの移行を推奨
+</title>
+			<link>http://japanese.engadget.com/2017/07/25/adobe-flash-2020-html5-webgl-webassembly/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/c2b49c93c750af671e994db5fc75237f/205509953/mainfl.jpg" />
+Adobeが、Flashのサポートを2020年で終了すると発表しました。理由はすでにFlashの利用が大幅に減ってきているため。2020年末にはFlash Playerのアップデートと配布を中止し、既存のFlashコンテンツを新しくオープンなフォーマットに移行するようコンテンツ制作者に勧めるとのこと。
+
+この発表を受けてGoogle、Facebook、アップル、マイクロソフト、MozillaがそれぞれAdobeとのFlashサポートに関する発表を行いました。
+
+実質的には、もうウェブ上においてFlashが必要な場面はかなり少なくなっています。Chromeブラウザーの統計では、2014年にはまだ80%あったFlash使用サイトは現在では17%にまで低下したとされます。また上記5社の提供するサービスやブラウザーもFlashからHTML5への移行をほぼ完了しています。
+
+Flashの"終わりの始まり"は、やはり2007年にアップルのスティーブ・ジョブズが公開した文書「Thoughts on Flash」と言えるでしょう。ジョブズはFlashがAdobeの方針によって管理されるプロプライエタリ―な技術であることを指摘し、そのパフォーマンスやすでにオープンな代替技術があることを理由にして、あの手この手でFlash対応を迫るAdobeの主張を退け続けました。結果、Adobeは2011年にはモバイル向けFlashの開発終了宣言をするに至っています。
+
+一方、デスクトップ向けのウェブブラウザー方面では以後もしばらくの間はFlashが活躍していましたが、2015年以降、MozillaのFirefoxがFlashの標準対応を終了し、macOSのSafariや、マイクロソフトのEdge、GoogleのChromeブラウザーもHTML5をデフォルトで使用するようになりました。
+
+Adobe自身、すでにFlashへのこだわりを捨てており、しばらく前からHTML5やWebAssemblyへの移行を推進するようになっていました。2015年の暮れにはオーサリングソフトのFlash ProfessiolnalをAnimate CCに改名し、FlashをHTML5に変換する開発者のコンテンツ制作の主軸をHTML5に移行させる対応をとっています。
+
+最近では、Flashの名前が出るのは脆弱性の話題ばかりになりました。Flashの終了は、マクロメディア(Shockwave)時代を知るようなベテラン開発者/ユーザーにとっては感慨深いものもあるかもしれませんが、オープンソース支持者や最近のFlashしか知らない人たち、そして企業のセキュリティ管理者からすれば「やっとか」といった感想が最初に出てくる話かもしれません。
+ ]]></description>
+			<pubDate>Wed, 26 Jul 2017 05:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
