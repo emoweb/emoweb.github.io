@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>危機は回避できるのか？ ビットコイン分裂騒動を整理する（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072101067/</link>
+			<description><![CDATA[　仮想通貨ビットコインの分裂騒動が大きく報じられている。一連の騒動を聞いて「仮想通貨の分裂騒動とは？」「どんな影響があるのか？」と疑問に思う人は多いだろう。分裂騒動が起こった背景、問題の根幹である「UASF」というキーワードの意味、そして今後何が起こるのか解説する。]]></description>
+			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>銀行窓口での対応時間、QR伝票で3分に（QRコード大増殖）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072000296/072100002/</link>
 			<description><![CDATA[　西日本シティ銀行は、QRコードで窓口業務の混雑を一変させた。入出金や振り込み、納税、両替の手続き時に窓口へ提出する伝票をWebサイトで作成できる「伝票作成WEBサービス」がそれだ。窓口の取引1件当たりの処理時間を4割減らし、月末に頻発していた振り込みの着金遅延も解消した。]]></description>
@@ -54,15 +60,15 @@
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>なぜなぜ先生がIT企業の分析を赤字添削、「後ろから読み返して」（なぜなぜ分析でミス撲滅）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071000277/071000001/</link>
-			<description><![CDATA[　NTTコムウェアの東日本支店はなぜなぜ分析の導入で、2016年度にヒューマンエラーに起因する重大なミスがゼロになった。研修講師によるなぜなぜ分析の赤字添削を通じ、受講者はコツをつかんでいく。]]></description>
+			<title>AWS、Azure、Googleと全方位、NTTコム“百貨店クラウド”の思惑（3大クラウドの売り方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800287/072000001/</link>
+			<description><![CDATA[　AWS、Azureに加え、Googleとの協業を発表したNTTコミュニケーションズ。“百貨店”の様相を呈してきたEnterprise Cloudの勝算を探った。]]></description>
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>危機は回避できるのか？ ビットコイン分裂騒動を整理する（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072101067/</link>
-			<description><![CDATA[　仮想通貨ビットコインの分裂騒動が大きく報じられている。一連の騒動を聞いて「仮想通貨の分裂騒動とは？」「どんな影響があるのか？」と疑問に思う人は多いだろう。分裂騒動が起こった背景、問題の根幹である「UASF」というキーワードの意味、そして今後何が起こるのか解説する。]]></description>
+			<title>新機能「Windows Timeline」を支えるMicrosoft GraphとProject Romeとは（次のWindows 10を読み解く「Microsoft Graph」と「Project Rome」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100298/072100001/</link>
+			<description><![CDATA[　今後のWindowsのアップデートでは、新機能「Windows Timeline」が搭載される予定だ。それを支えているのが「Microsoft Graph」と「Project Rome」だ。これらは一体何なのか。Fall Creators Update以降のWindowsの方向性を読み解くために、Microsoft GraphとProject Romeを解説する。]]></description>
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -78,15 +84,9 @@
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>AWS、Azure、Googleと全方位、NTTコム“百貨店クラウド”の思惑（3大クラウドの売り方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800287/072000001/</link>
-			<description><![CDATA[　AWS、Azureに加え、Googleとの協業を発表したNTTコミュニケーションズ。“百貨店”の様相を呈してきたEnterprise Cloudの勝算を探った。]]></description>
-			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>新機能「Windows Timeline」を支えるMicrosoft GraphとProject Romeとは（次のWindows 10を読み解く「Microsoft Graph」と「Project Rome」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100298/072100001/</link>
-			<description><![CDATA[　今後のWindowsのアップデートでは、新機能「Windows Timeline」が搭載される予定だ。それを支えているのが「Microsoft Graph」と「Project Rome」だ。これらは一体何なのか。Fall Creators Update以降のWindowsの方向性を読み解くために、Microsoft GraphとProject Romeを解説する。]]></description>
+			<title>なぜなぜ先生がIT企業の分析を赤字添削、「後ろから読み返して」（なぜなぜ分析でミス撲滅）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071000277/071000001/</link>
+			<description><![CDATA[　NTTコムウェアの東日本支店はなぜなぜ分析の導入で、2016年度にヒューマンエラーに起因する重大なミスがゼロになった。研修講師によるなぜなぜ分析の赤字添削を通じ、受講者はコツをつかんでいく。]]></description>
 			<pubDate>Mon, 24 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -222,6 +222,12 @@
 			<pubDate>Mon, 24 Jul 2017 21:34:31 +0900</pubDate>
 		</item>
 		<item>
+			<title>テレワーク、四つのポイントを知っていますか？（今どきの働き方改革ツール）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800289/072400003/</link>
+			<description><![CDATA[　働き方改革の中でも、情報システムの活用なしには実現できないのがテレワークだ。テレワークは「情報通信技術（ICT）を活用し、時間や場所を有効に活用できる柔軟な働き方」を指す。テレワークの導入に必要なのはどのようなツールなのかを明らかにする。]]></description>
+			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「Graphエクスプローラー」でMicrosoft Graphを試してみる（次のWindows 10を読み解く「Microsoft Graph」と「Project Rome」）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100298/072400002/</link>
 			<description><![CDATA[　Microsoft Graphは、APIセットであり、ソフトウエアの開発経験がないと、理解は簡単ではない。しかし、マイクロソフトは、Microsoft Graphの利用を助けるために、Webブラウザーから、Microsoft Graphを動作させる「Graphエクスプローラー」とサンプルのアカウントとクラウドデータを提供している。まずは、これを使ってみる。]]></description>
@@ -240,15 +246,15 @@
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>テレワーク、四つのポイントを知っていますか？（今どきの働き方改革ツール）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800289/072400003/</link>
-			<description><![CDATA[　働き方改革の中でも、情報システムの活用なしには実現できないのがテレワークだ。テレワークは「情報通信技術（ICT）を活用し、時間や場所を有効に活用できる柔軟な働き方」を指す。テレワークの導入に必要なのはどのようなツールなのかを明らかにする。]]></description>
-			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>フラッシュメモリーに書き込みと消去回数の制限がある理由（今さら聞けないストレージ技術）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600261/062800004/</link>
 			<description><![CDATA[　大容量ストレージの記憶媒体として一般的に使われるNAND型フラッシュメモリーの構造を見ていきます。フラッシュメモリーはセルの集合体で、このセルがデジタルデータの0と1を管理する重要な部分です。]]></description>
+			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Compute Card（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/071900083/</link>
+			<description><![CDATA[　米インテルが提唱するクレジットカードサイズのコンピューティングプラットフォーム。教育現場で複数生徒のPC環境を素早く切り替えたり、IT家電製品のPC部分をアップグレードしたりなどの使い方を見込んでいる。]]></description>
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -297,12 +303,6 @@
 			<title>最大手ヤマトの挑戦（宅配ピンチ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100301/072300002/</link>
 			<description><![CDATA[　配達現場の負荷をできるだけ減らしながら、消費者に荷物を届ける最終段階のサービスレベルをどこまで維持できるか。最大手ヤマト運輸は「神様」に相応の負担を促し、ベンチャー企業は深夜・早朝限定の配送サービスに挑む。]]></description>
-			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Compute Card（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/071900083/</link>
-			<description><![CDATA[　米インテルが提唱するクレジットカードサイズのコンピューティングプラットフォーム。教育現場で複数生徒のPC環境を素早く切り替えたり、IT家電製品のPC部分をアップグレードしたりなどの使い方を見込んでいる。]]></description>
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -380,6 +380,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072501972/</link>
 			<description><![CDATA[　東京急行電鉄は2017年7月25日、新しいIoTの世界の創造を目指し、他社と共同で企業連合の「コネクティッドホーム アライアンス」を同日に設立したと発表した。]]></description>
 			<pubDate>Tue, 25 Jul 2017 15:24:31 +0900</pubDate>
+		</item>
+		<item>
+			<title>企業の4割はオンプレミスでデータを管理、日本テラデータが調査（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072501973/</link>
+			<description><![CDATA[　日本テラデータは2017年7月25日、米国や日本、ドイツなど9カ国の大手企業の経営者900人を対象に実施した、クラウド活用の調査結果を発表した。]]></description>
+			<pubDate>Tue, 25 Jul 2017 16:36:32 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
