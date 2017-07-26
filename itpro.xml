@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>フラッシュメモリーに書き込みと消去回数の制限がある理由（今さら聞けないストレージ技術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600261/062800004/</link>
+			<description><![CDATA[　大容量ストレージの記憶媒体として一般的に使われるNAND型フラッシュメモリーの構造を見ていきます。フラッシュメモリーはセルの集合体で、このセルがデジタルデータの0と1を管理する重要な部分です。]]></description>
+			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ネットで行政手続き、当たり前に！？（本格始動なるか！？ マイナンバー制度）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800288/071800001/</link>
 			<description><![CDATA[　マイナンバー制度は、これまで面倒だった行政手続きをインターネットでいつでもどこからでもすぐできるようにする。ただ、仕組みを理解しないと複雑なのも事実。まずは2017年7月に試験運用がスタートした情報連携とマイナポータルについて説明しよう。]]></description>
@@ -41,9 +47,9 @@
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>費用の6割が戻る！ どうなるIT資格取得の給付金制度（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072000883/</link>
-			<description><![CDATA[　IT関連の資格取得講座を受講する場合、2017年10月以降、費用の補助を受けられるケースが増える。「教育訓練給付制度」の対象講座の指定要件緩和によって、対象講座の拡大が見込まれるからだ。]]></description>
+			<title>国内最大級のAzure部隊1500人、クラウドSIに賭けるNEC（3大クラウドの売り方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800287/072100002/</link>
+			<description><![CDATA[　2017年6月、NECと日本マイクロソフトは「クラウド領域における戦略協業の強化」を発表。一方でNECは2017年度、AWS（Amazon Web Service）の最上位コンサルティングパートナー「プレミアコンサルティングパートナー」へ昇格している。AWSとAzureの関連ビジネスで、着実に売上を積んでいく構えだ。]]></description>
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -53,9 +59,9 @@
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>フラッシュメモリーに書き込みと消去回数の制限がある理由（今さら聞けないストレージ技術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600261/062800004/</link>
-			<description><![CDATA[　大容量ストレージの記憶媒体として一般的に使われるNAND型フラッシュメモリーの構造を見ていきます。フラッシュメモリーはセルの集合体で、このセルがデジタルデータの0と1を管理する重要な部分です。]]></description>
+			<title>20代エンジニアは「社風」や「休日」を気にする（エンジニア転職意識調査）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/071400003/</link>
+			<description><![CDATA[　20代では、転職時に「社風・社内の雰囲気」を重視すると回答した人が2人に1人（50％）に上った。他の年代を大きく上回る。]]></description>
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -77,55 +83,10 @@
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>国内最大級のAzure部隊1500人、クラウドSIに賭けるNEC（3大クラウドの売り方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800287/072100002/</link>
-			<description><![CDATA[　2017年6月、NECと日本マイクロソフトは「クラウド領域における戦略協業の強化」を発表。一方でNECは2017年度、AWS（Amazon Web Service）の最上位コンサルティングパートナー「プレミアコンサルティングパートナー」へ昇格している。AWSとAzureの関連ビジネスで、着実に売上を積んでいく構えだ。]]></description>
+			<title>費用の6割が戻る！ どうなるIT資格取得の給付金制度（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072000883/</link>
+			<description><![CDATA[　IT関連の資格取得講座を受講する場合、2017年10月以降、費用の補助を受けられるケースが増える。「教育訓練給付制度」の対象講座の指定要件緩和によって、対象講座の拡大が見込まれるからだ。]]></description>
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>20代エンジニアは「社風」や「休日」を気にする（エンジニア転職意識調査）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/071400003/</link>
-			<description><![CDATA[　20代では、転職時に「社風・社内の雰囲気」を重視すると回答した人が2人に1人（50％）に上った。他の年代を大きく上回る。]]></description>
-			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>.NET Coreの新バージョン、Linux版もPGOで高速化（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072500345/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftは、.NETをオープンソース化したクロスプラットフォームのソフトウエア開発／実行環境の次期バージョン「.NET Core 2.0」に関して、PGO（ガイド付き最適化のプロファイル）をLinux x64環境の内部コンポーネントに適用することを明らかにした。
-</p>
-
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072500345/100515-microsoft-linux-100619799-large.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Microsoft </div>
-</div>
-
-<p>
-　MicrosoftのBertrand Le Roy氏とDaniel Podder氏は、.NET Core 2.0のPGO採用について解説する<a href="https://blogs.msdn.microsoft.com/dotnet/2017/07/20/profile-guided-optimization-in-net-core-2-0/" target="_blank">公式ブログ記事</a>を公開。その説明によると、PGOは、C++コンパイラが生成するコードを高速化するネイティブコンパイル技術で、2段階のステップで最適化を行う。1つは、コードを実際に動かして実行時の情報を収集するトレーニング実行のステップ。もう1つは、トレーニング実行で収集した情報に基づいて最適化を加えたコードを生成するビルドのステップだ。
-</p>
-<p>
-　.NET Core 2.0では、PGOによる最適化がWindows x86とLinux x64の両プラットフォームに適用される。Windows x64環境については、「.NET Core 1.1」で既にPGOが適用されている。またWindowsベースの「.NET Framework」では、長年にわたってPGOが使われてきた。
-</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072500345/?ST=cio-appli&P=2">両氏のブログ記事によると、Linuxでは、エコシ...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072500345/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072500345/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072500345/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 25 Jul 2017 09:59:37 +0900</pubDate>
 		</item>
 		<item>
 			<title>業界の垣根越え革新的な「暮らしのIoT」実現目指す、東急電鉄などが企業連合（ニュース）</title>
@@ -158,6 +119,12 @@
 			<pubDate>Tue, 25 Jul 2017 21:45:35 +0900</pubDate>
 		</item>
 		<item>
+			<title>老舗企業の破綻が示す、ウエアラブル市場の競争激化（瀧口範子のシリコンバレー通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/072400106/</link>
+			<description><![CDATA[　ウエアラブルデバイス市場が刻々と変化を遂げている。新たな会社が次々と参入する一方で古いプレーヤーが淘汰され、市場が大きく刷新されているのだ。最近では1999年創業の老舗的存在だった米ジョーボーン（Jawbone）の破綻が伝えられている。]]></description>
+			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>フラッシュメモリーの寿命を伸ばすSSDの仕組み（今さら聞けないストレージ技術）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600261/062800005/</link>
 			<description><![CDATA[　フラッシュメモリーはセルの書き込み回数や消去回数に上限値があります。フラッシュメモリーを記憶媒体とするSSDでは、限られた書き込み/消去回数を前提に、ストレージの寿命を伸ばす仕組みが重要になります。]]></description>
@@ -170,15 +137,15 @@
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>評判の悪かった「マイナポータル」、気になる使い勝手（本格始動なるか！？ マイナンバー制度）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800288/071800002/</link>
-			<description><![CDATA[　2017年1月にログイン可能になったマイナポータルは秋ごろの本格稼働時に使い勝手が大幅に改善する見込みだ。電子行政の窓口としてIE以外の主なWebブラウザーを利用できるようにする。]]></description>
+			<title>自己完結では日本のIoTは負ける（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072500887/</link>
+			<description><![CDATA[　日本市場で普及し始めたIoT（Internet of Things）のサービスや製品の現状に対し、危機感を訴える声が強まっている。「日本では1社で完結したバラバラのIoTやビッグデータのシステムが乱立している。このままでは海外勢に負ける」。NTTの鵜浦博夫社長は日本のIoTが抱える問題点をこう語る。]]></description>
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>老舗企業の破綻が示す、ウエアラブル市場の競争激化（瀧口範子のシリコンバレー通信）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/072400106/</link>
-			<description><![CDATA[　ウエアラブルデバイス市場が刻々と変化を遂げている。新たな会社が次々と参入する一方で古いプレーヤーが淘汰され、市場が大きく刷新されているのだ。最近では1999年創業の老舗的存在だった米ジョーボーン（Jawbone）の破綻が伝えられている。]]></description>
+			<title>バックアップも効果なし、「個人情報を流出させる」と脅すランサムウエア（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501072/</link>
+			<description><![CDATA[　マカフィーは2017年7月中旬、スマートフォンに保存されている写真や個人情報を流出させると脅すランサムウエアが出現したとして注意を呼びかけた。一般的なランサムウエア対策であるバックアップが通用しない。]]></description>
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -236,15 +203,9 @@
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>自己完結では日本のIoTは負ける（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072500887/</link>
-			<description><![CDATA[　日本市場で普及し始めたIoT（Internet of Things）のサービスや製品の現状に対し、危機感を訴える声が強まっている。「日本では1社で完結したバラバラのIoTやビッグデータのシステムが乱立している。このままでは海外勢に負ける」。NTTの鵜浦博夫社長は日本のIoTが抱える問題点をこう語る。]]></description>
-			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>バックアップも効果なし、「個人情報を流出させる」と脅すランサムウエア（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501072/</link>
-			<description><![CDATA[　マカフィーは2017年7月中旬、スマートフォンに保存されている写真や個人情報を流出させると脅すランサムウエアが出現したとして注意を呼びかけた。一般的なランサムウエア対策であるバックアップが通用しない。]]></description>
+			<title>評判の悪かった「マイナポータル」、気になる使い勝手（本格始動なるか！？ マイナンバー制度）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800288/071800002/</link>
+			<description><![CDATA[　2017年1月にログイン可能になったマイナポータルは秋ごろの本格稼働時に使い勝手が大幅に改善する見込みだ。電子行政の窓口としてIE以外の主なWebブラウザーを利用できるようにする。]]></description>
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -374,6 +335,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601986/</link>
 			<description><![CDATA[　パナソニックは2017年7月26日、家庭向けの新たな製品やサービスを生み出すプロジェクト「HomeX」を新設したと発表した。既存の家電製品、住宅設備、住宅の枠組みを超え、IoTなどの技術も取り入れ、長期的な視点で今までにない製品やサービスを研究・開発する意向だ。]]></description>
 			<pubDate>Wed, 26 Jul 2017 19:30:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>NECがGPUボードを搭載可能な新サーバー、CPUは最新Xeon（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601987/</link>
+			<description><![CDATA[　NECは2017年7月25日、同社のPCサーバー「Express5800シリーズ」の新製品を発表した。CPUに「Xeon Processor Scalable Family」を採用。GPUボードも搭載できる。]]></description>
+			<pubDate>Wed, 26 Jul 2017 20:00:13 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
