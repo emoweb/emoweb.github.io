@@ -5,6 +5,18 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>ホームIoTをいち早く展開、IFTTT登録でさらに便利に（メディアビジネス最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/379554/071800026/</link>
+			<description><![CDATA[　家の中の各種装置・機器と、手持ちのスマートデバイスを相互に連携させて多様なIoTサービスを展開する動きが様々な形で具体化している。中でも先行したのが、東急沿線でケーブルテレビ事業を展開するイッツ・コミュニケーションズ（イッツコム）の「インテリジェントホーム」である。]]></description>
+			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Compute Card（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/071900083/</link>
+			<description><![CDATA[　米インテルが提唱するクレジットカードサイズのコンピューティングプラットフォーム。教育現場で複数生徒のPC環境を素早く切り替えたり、IT家電製品のPC部分をアップグレードしたりなどの使い方を見込んでいる。]]></description>
+			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>費用の6割が戻る！ どうなるIT資格取得の給付金制度（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072000883/</link>
 			<description><![CDATA[　IT関連の資格取得講座を受講する場合、2017年10月以降、費用の補助を受けられるケースが増える。「教育訓練給付制度」の対象講座の指定要件緩和によって、対象講座の拡大が見込まれるからだ。]]></description>
@@ -41,15 +53,15 @@
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「Graphエクスプローラー」でMicrosoft Graphを試してみる（次のWindows 10を読み解く「Microsoft Graph」と「Project Rome」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100298/072400002/</link>
-			<description><![CDATA[　Microsoft Graphは、APIセットであり、ソフトウエアの開発経験がないと、理解は簡単ではない。しかし、マイクロソフトは、Microsoft Graphの利用を助けるために、Webブラウザーから、Microsoft Graphを動作させる「Graphエクスプローラー」とサンプルのアカウントとクラウドデータを提供している。まずは、これを使ってみる。]]></description>
+			<title>国内最大級のAzure部隊1500人、クラウドSIに賭けるNEC（3大クラウドの売り方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800287/072100002/</link>
+			<description><![CDATA[　2017年6月、NECと日本マイクロソフトは「クラウド領域における戦略協業の強化」を発表。一方でNECは2017年度、AWS（Amazon Web Service）の最上位コンサルティングパートナー「プレミアコンサルティングパートナー」へ昇格している。AWSとAzureの関連ビジネスで、着実に売上を積んでいく構えだ。]]></description>
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ホームIoTをいち早く展開、IFTTT登録でさらに便利に（メディアビジネス最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/379554/071800026/</link>
-			<description><![CDATA[　家の中の各種装置・機器と、手持ちのスマートデバイスを相互に連携させて多様なIoTサービスを展開する動きが様々な形で具体化している。中でも先行したのが、東急沿線でケーブルテレビ事業を展開するイッツ・コミュニケーションズ（イッツコム）の「インテリジェントホーム」である。]]></description>
+			<title>フラッシュメモリーに書き込みと消去回数の制限がある理由（今さら聞けないストレージ技術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600261/062800004/</link>
+			<description><![CDATA[　大容量ストレージの記憶媒体として一般的に使われるNAND型フラッシュメモリーの構造を見ていきます。フラッシュメモリーはセルの集合体で、このセルがデジタルデータの0と1を管理する重要な部分です。]]></description>
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -71,21 +83,9 @@
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>国内最大級のAzure部隊1500人、クラウドSIに賭けるNEC（3大クラウドの売り方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800287/072100002/</link>
-			<description><![CDATA[　2017年6月、NECと日本マイクロソフトは「クラウド領域における戦略協業の強化」を発表。一方でNECは2017年度、AWS（Amazon Web Service）の最上位コンサルティングパートナー「プレミアコンサルティングパートナー」へ昇格している。AWSとAzureの関連ビジネスで、着実に売上を積んでいく構えだ。]]></description>
-			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>フラッシュメモリーに書き込みと消去回数の制限がある理由（今さら聞けないストレージ技術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600261/062800004/</link>
-			<description><![CDATA[　大容量ストレージの記憶媒体として一般的に使われるNAND型フラッシュメモリーの構造を見ていきます。フラッシュメモリーはセルの集合体で、このセルがデジタルデータの0と1を管理する重要な部分です。]]></description>
-			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Compute Card（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/071900083/</link>
-			<description><![CDATA[　米インテルが提唱するクレジットカードサイズのコンピューティングプラットフォーム。教育現場で複数生徒のPC環境を素早く切り替えたり、IT家電製品のPC部分をアップグレードしたりなどの使い方を見込んでいる。]]></description>
+			<title>「Graphエクスプローラー」でMicrosoft Graphを試してみる（次のWindows 10を読み解く「Microsoft Graph」と「Project Rome」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100298/072400002/</link>
+			<description><![CDATA[　Microsoft Graphは、APIセットであり、ソフトウエアの開発経験がないと、理解は簡単ではない。しかし、マイクロソフトは、Microsoft Graphの利用を助けるために、Webブラウザーから、Microsoft Graphを動作させる「Graphエクスプローラー」とサンプルのアカウントとクラウドデータを提供している。まずは、これを使ってみる。]]></description>
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -189,6 +189,18 @@
 			<pubDate>Tue, 25 Jul 2017 21:45:35 +0900</pubDate>
 		</item>
 		<item>
+			<title>将来のヒューマンエラーを共有する「ヒヤリハット支店発表会」とは？（なぜなぜ分析でミス撲滅）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071000277/071000002/</link>
+			<description><![CDATA[　NTTコムウェアの東日本支店は、重大なミスに至る前の「ヒヤリハット事象」に対して、なぜなぜ分析を取り入れた。結果、ヒューマンエラーを未然に防ぐことに成功した。]]></description>
+			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ランサムウエアの被害件数5倍に、浮き彫りになった危機意識の低さ（ランサムウエア　脅される日本企業）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072500308/072500001/</link>
+			<description><![CDATA[　ある日突然、データを操作できなくなり、PCの画面一面には「元に戻したければ金を払え」との脅迫文が―。データを暗号化して解除費用を要求すランサムウエアの仕業だ。世界的なサイバー脅威は、危機意識の無い日本企業を狙っている。]]></description>
+			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>EPYCはどこに勝算があるのか、AMDのサーバー戦略を振り返る（EPYCでインテルに挑むAMD）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072300305/072300001/</link>
 			<description><![CDATA[　米AMDはサーバー向け新型CPU「EPYC」を2017年6月20日に発表、同日より出荷を開始している。EPYCは、性能重視のサーバー向けとして演算コアの設計を一新した、AMDとしては久々に力の入ったCPUだ。AMDが、なぜ改めてサーバー市場に新製品を出したのか、これまでの経緯を含めて解説する。]]></description>
@@ -213,9 +225,9 @@
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>将来のヒューマンエラーを共有する「ヒヤリハット支店発表会」とは？（なぜなぜ分析でミス撲滅）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071000277/071000002/</link>
-			<description><![CDATA[　NTTコムウェアの東日本支店は、重大なミスに至る前の「ヒヤリハット事象」に対して、なぜなぜ分析を取り入れた。結果、ヒューマンエラーを未然に防ぐことに成功した。]]></description>
+			<title>宅配ボックスが歩いてくる（宅配ピンチ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100301/072300003/</link>
+			<description><![CDATA[　ITを活用した常識破りの宅配方式で過剰サービス問題に挑む企業はほかにもある。2017年5月設立のMagicalMove。ソフトバンクグループで新規事業を手掛けるSBイノベンチャーが設立した。]]></description>
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -225,15 +237,15 @@
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>URLで機能を指定するMicrosoft Graph、マイクロソフトのサービスにアクセス（次のWindows 10を読み解く「Microsoft Graph」と「Project Rome」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100298/072500003/</link>
-			<description><![CDATA[　Microsoft Graphでは、URLで機能を指定する。このURLには、現在のところ、正式版であるv1.0系と、ベータ版の大きく2種類がある。基本的には、ベータ版は、v1.0のURLを含み、さらにいくつかの「機能カテゴリ」が追加されている。これをまとめたのが下の表である。]]></description>
+			<title>ドコモのAIエージェント、スピーカーを提供しない理由（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501070/</link>
+			<description><![CDATA[　米Amazon.comの「Amazon Echo」をはじめ、米Googleの「Google Home」や米Appleの「HomePod」などでにわかに注目が高まってきたAI（人工知能）スピーカー。NTTドコモの動向が注目されていたが、AIスピーカーの提供予定はないという。]]></description>
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ランサムウエアの被害件数5倍に、浮き彫りになった危機意識の低さ（ランサムウエア　脅される日本企業）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072500308/072500001/</link>
-			<description><![CDATA[　ある日突然、データを操作できなくなり、PCの画面一面には「元に戻したければ金を払え」との脅迫文が―。データを暗号化して解除費用を要求すランサムウエアの仕業だ。世界的なサイバー脅威は、危機意識の無い日本企業を狙っている。]]></description>
+			<title>自己完結では日本のIoTは負ける（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072500887/</link>
+			<description><![CDATA[　日本市場で普及し始めたIoT（Internet of Things）のサービスや製品の現状に対し、危機感を訴える声が強まっている。「日本では1社で完結したバラバラのIoTやビッグデータのシステムが乱立している。このままでは海外勢に負ける」。NTTの鵜浦博夫社長は日本のIoTが抱える問題点をこう語る。]]></description>
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -261,21 +273,9 @@
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ドコモのAIエージェント、スピーカーを提供しない理由（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501070/</link>
-			<description><![CDATA[　米Amazon.comの「Amazon Echo」をはじめ、米Googleの「Google Home」や米Appleの「HomePod」などでにわかに注目が高まってきたAI（人工知能）スピーカー。NTTドコモの動向が注目されていたが、AIスピーカーの提供予定はないという。]]></description>
-			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>自己完結では日本のIoTは負ける（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072500887/</link>
-			<description><![CDATA[　日本市場で普及し始めたIoT（Internet of Things）のサービスや製品の現状に対し、危機感を訴える声が強まっている。「日本では1社で完結したバラバラのIoTやビッグデータのシステムが乱立している。このままでは海外勢に負ける」。NTTの鵜浦博夫社長は日本のIoTが抱える問題点をこう語る。]]></description>
-			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>宅配ボックスが歩いてくる（宅配ピンチ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100301/072300003/</link>
-			<description><![CDATA[　ITを活用した常識破りの宅配方式で過剰サービス問題に挑む企業はほかにもある。2017年5月設立のMagicalMove。ソフトバンクグループで新規事業を手掛けるSBイノベンチャーが設立した。]]></description>
+			<title>URLで機能を指定するMicrosoft Graph、マイクロソフトのサービスにアクセス（次のWindows 10を読み解く「Microsoft Graph」と「Project Rome」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100298/072500003/</link>
+			<description><![CDATA[　Microsoft Graphでは、URLで機能を指定する。このURLには、現在のところ、正式版であるv1.0系と、ベータ版の大きく2種類がある。基本的には、ベータ版は、v1.0のURLを含み、さらにいくつかの「機能カテゴリ」が追加されている。これをまとめたのが下の表である。]]></description>
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -353,6 +353,12 @@
 			<pubDate>Wed, 26 Jul 2017 10:10:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>ネット起因の児童被害が増加の一途、業界を挙げて対策に本腰（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601979/</link>
+			<description><![CDATA[　グリーやサイバーエージェント、ディー・エヌ・エー（DeNA）、フェイスブック ジャパン、ミクシィ、LINEなどのネット事業者は2017年7月26日、共同で「青少年ネット利用環境整備協議会」を設立したと発表した。]]></description>
+			<pubDate>Wed, 26 Jul 2017 15:47:54 +0900</pubDate>
+		</item>
+		<item>
 			<title>IoT機器のセキュリティを強化、サイバートラストなど4社が統合管理基盤（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601978/</link>
 			<description><![CDATA[　サイバートラスト、ソフトバンク・テクノロジー、ミラクル・リナックスは2017年7月26日、IoT機器のセキュリティを強化する統合管理基盤の提供を目的とした基本合意書を米ラムバスと締結したと発表した。提供開始は2017年秋を予定している。具体的な提供形態については検討中という。]]></description>
@@ -363,6 +369,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601980/</link>
 			<description><![CDATA[　米アドビシステムズは2017年7月25日（現地時間）、同社が開発している「Flash」のサポートを2020年までに終了すると発表した。2020年末に、Flash形式のコンテンツを再生する「Flash Player」のアップデートと配布を停止する。]]></description>
 			<pubDate>Wed, 26 Jul 2017 16:12:52 +0900</pubDate>
+		</item>
+		<item>
+			<title>「他社の外付けIoTとは違う」、日本オラクルがクラウドERPの新版（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601981/</link>
+			<description><![CDATA[　日本オラクルは2017年7月26日、クラウド型のERP（統合基幹業務システム）サービス「Oracle ERP Cloud」の最新版となる「R13」の提供を始めたと明らかにした。]]></description>
+			<pubDate>Wed, 26 Jul 2017 16:22:15 +0900</pubDate>
 		</item>
 		<item>
 			<title>「Hulu」運営のHJホールディングスが第三者割当増資（ニュース）</title>
