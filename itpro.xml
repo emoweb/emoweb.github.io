@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>自己完結では日本のIoTは負ける（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072500887/</link>
+			<description><![CDATA[　日本市場で普及し始めたIoT（Internet of Things）のサービスや製品の現状に対し、危機感を訴える声が強まっている。「日本では1社で完結したバラバラのIoTやビッグデータのシステムが乱立している。このままでは海外勢に負ける」。NTTの鵜浦博夫社長は日本のIoTが抱える問題点をこう語る。]]></description>
+			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>評判の悪かった「マイナポータル」、気になる使い勝手（本格始動なるか！？ マイナンバー制度）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800288/071800002/</link>
 			<description><![CDATA[　2017年1月にログイン可能になったマイナポータルは秋ごろの本格稼働時に使い勝手が大幅に改善する見込みだ。電子行政の窓口としてIE以外の主なWebブラウザーを利用できるようにする。]]></description>
@@ -59,15 +65,15 @@
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>当初は通信障害も、自治体情報セキュリティクラウドの実情（議論白熱！セキュリティクラウド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072400306/072400001/</link>
-			<description><![CDATA[　都道府県CIOフォーラムは、第14回春季会合を2月7日・8日の2日間、東京都内で開催した。初日は、一部自治体で移行が始まった自治体情報セキュリティクラウドについて、議論が交わされた。]]></description>
+			<title>EPYCはどこに勝算があるのか、AMDのサーバー戦略を振り返る（EPYCでインテルに挑むAMD）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072300305/072300001/</link>
+			<description><![CDATA[　米AMDはサーバー向け新型CPU「EPYC」を2017年6月20日に発表、同日より出荷を開始している。EPYCは、性能重視のサーバー向けとして演算コアの設計を一新した、AMDとしては久々に力の入ったCPUだ。AMDが、なぜ改めてサーバー市場に新製品を出したのか、これまでの経緯を含めて解説する。]]></description>
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>自己完結では日本のIoTは負ける（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072500887/</link>
-			<description><![CDATA[　日本市場で普及し始めたIoT（Internet of Things）のサービスや製品の現状に対し、危機感を訴える声が強まっている。「日本では1社で完結したバラバラのIoTやビッグデータのシステムが乱立している。このままでは海外勢に負ける」。NTTの鵜浦博夫社長は日本のIoTが抱える問題点をこう語る。]]></description>
+			<title>フラッシュメモリーの寿命を伸ばすSSDの仕組み（今さら聞けないストレージ技術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600261/062800005/</link>
+			<description><![CDATA[　フラッシュメモリーはセルの書き込み回数や消去回数に上限値があります。フラッシュメモリーを記憶媒体とするSSDでは、限られた書き込み/消去回数を前提に、ストレージの寿命を伸ばす仕組みが重要になります。]]></description>
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -83,22 +89,10 @@
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>EPYCはどこに勝算があるのか、AMDのサーバー戦略を振り返る（EPYCでインテルに挑むAMD）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072300305/072300001/</link>
-			<description><![CDATA[　米AMDはサーバー向け新型CPU「EPYC」を2017年6月20日に発表、同日より出荷を開始している。EPYCは、性能重視のサーバー向けとして演算コアの設計を一新した、AMDとしては久々に力の入ったCPUだ。AMDが、なぜ改めてサーバー市場に新製品を出したのか、これまでの経緯を含めて解説する。]]></description>
+			<title>当初は通信障害も、自治体情報セキュリティクラウドの実情（議論白熱！セキュリティクラウド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072400306/072400001/</link>
+			<description><![CDATA[　都道府県CIOフォーラムは、第14回春季会合を2月7日・8日の2日間、東京都内で開催した。初日は、一部自治体で移行が始まった自治体情報セキュリティクラウドについて、議論が交わされた。]]></description>
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>フラッシュメモリーの寿命を伸ばすSSDの仕組み（今さら聞けないストレージ技術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600261/062800005/</link>
-			<description><![CDATA[　フラッシュメモリーはセルの書き込み回数や消去回数に上限値があります。フラッシュメモリーを記憶媒体とするSSDでは、限られた書き込み/消去回数を前提に、ストレージの寿命を伸ばす仕組みが重要になります。]]></description>
-			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>アドビが2020年末にFlash Player配布を停止へ、20年以上の歴史に幕（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601980/</link>
-			<description><![CDATA[　米アドビシステムズは2017年7月25日（現地時間）、同社が開発している「Flash」のサポートを2020年までに終了すると発表した。2020年末に、Flash形式のコンテンツを再生する「Flash Player」のアップデートと配布を停止する。]]></description>
-			<pubDate>Wed, 26 Jul 2017 16:12:52 +0900</pubDate>
 		</item>
 		<item>
 			<title>「他社の外付けIoTとは違う」、日本オラクルがクラウドERPの新版（ニュース）</title>
@@ -179,6 +173,13 @@
 			<pubDate>Wed, 26 Jul 2017 22:16:42 +0900</pubDate>
 		</item>
 		<item>
+			<title>AMDのEPYC、サーバー向けとしてどこが「すごい」のか（EPYCでインテルに挑むAMD）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072300305/072600002/</link>
+			<description><![CDATA[　前回はEPYCの位置付けをご紹介した。今回は、そのEPYCはどれほどの競争力を持ちえる構造なのかを解説する。2017年3月に発表したRyzenと今回のEPYC、8月に発売される16コア／32スレッドの「ThreadRipper」と、AMDは3つのZenコアベースのCPUを投入する。これらが搭載しているダイ（半導体本体）は完全に同じだ。
+]]></description>
+			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>［特報］ドコモが「＋d」提携先を1000社に拡大へ、吉沢社長が意欲（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601993/</link>
 			<description><![CDATA[　NTTドコモが人工知能（AI）や5G（第5世代移動通信システム）などの提携先を1000社超に拡大することが2017年7月27日までにわかった。吉沢和弘社長が日経コンピュータの取材で明らかにした。]]></description>
@@ -209,10 +210,9 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>AMDのEPYC、サーバー向けとしてどこが「すごい」のか（EPYCでインテルに挑むAMD）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072300305/072600002/</link>
-			<description><![CDATA[　前回はEPYCの位置付けをご紹介した。今回は、そのEPYCはどれほどの競争力を持ちえる構造なのかを解説する。2017年3月に発表したRyzenと今回のEPYC、8月に発売される16コア／32スレッドの「ThreadRipper」と、AMDは3つのZenコアベースのCPUを投入する。これらが搭載しているダイ（半導体本体）は完全に同じだ。
-]]></description>
+			<title>複数のデータを一つの変数にして、格納する配列を使いこなす（安納順一のPowerShell Tips）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800007/</link>
+			<description><![CDATA[　PowerShellのより高度な変数の使い方を覚えよう。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -276,16 +276,40 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>複数のデータを一つの変数にして、格納する配列を使いこなす（安納順一のPowerShell Tips）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800007/</link>
-			<description><![CDATA[　PowerShellのより高度な変数の使い方を覚えよう。]]></description>
-			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>シェアリングエコノミーが突破口に（宅配ピンチ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100301/072300004/</link>
 			<description><![CDATA[　人や自動車などの空き時間を共有するシェアリングエコノミーの波が物流業界にも及びつつある。PCやスマートフォンで受けたスポット配送の依頼を、中小の運送会社と直接マッチングさせるサービスが相次ぎ登場。長年続く多重下請け構造を揺さぶり、人手不足の突破口を開く。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ビールの無断サービスを防げ、売上と提供量をIoTで照合（後）（ビールの無断サービスを防げ、売上と提供量をIoTで照合）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/071800056/071800002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　物を売る商売にとって、店頭の商品が原因不明で消えるのは悪夢である。そして飲食業の場合、店員がビールをサービスしすぎることが損失の原因となる場合もある。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800056/071800001/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800056/071800002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　米Gartnerのアナリスト、Mark O'Neill氏は次のように言う。「APIへの密な依存で痛い目にあった企業の事例を我々は目にしている。予告なしに変更が加わるAPI、突然廃止になるAPI、使用料金が跳ね上がるAPIへの依存によるものだ。仲介役の層を置くことは賢明な方法だ。想定外の事態があった時に、APIを利用する側に影響を及ぼさないためのワンクッションになるし、将来的に別の選択肢を与えることもできるからだ」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800056/071800002/?ST=cm-hardware&P=2">BWWの各店鋪で、ビールの円滑な提供と、無料サービスの抑止を、M...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800056/071800002/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800056/071800002/?ST=cm-hardware&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800056/071800002/?ST=cm-hardware&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800056/071800002/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 27 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
