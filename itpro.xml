@@ -5,6 +5,24 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>「Graphエクスプローラー」でMicrosoft Graphを試してみる（次のWindows 10を読み解く「Microsoft Graph」と「Project Rome」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100298/072400002/</link>
+			<description><![CDATA[　Microsoft Graphは、APIセットであり、ソフトウエアの開発経験がないと、理解は簡単ではない。しかし、マイクロソフトは、Microsoft Graphの利用を助けるために、Webブラウザーから、Microsoft Graphを動作させる「Graphエクスプローラー」とサンプルのアカウントとクラウドデータを提供している。まずは、これを使ってみる。]]></description>
+			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>費用の6割が戻る！ どうなるIT資格取得の給付金制度（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072000883/</link>
+			<description><![CDATA[　IT関連の資格取得講座を受講する場合、2017年10月以降、費用の補助を受けられるケースが増える。「教育訓練給付制度」の対象講座の指定要件緩和によって、対象講座の拡大が見込まれるからだ。]]></description>
+			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>分かりにくい匿名加工情報、JIPDECが事例集で活用促進（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072401068/</link>
+			<description><![CDATA[　日本情報経済社会推進協会（JIPDEC）は2017年7月7日、改正個人情報保護法で企業などのデータ活用を促す目玉として導入された「匿名加工情報」の事例集を公表した。認定個人情報保護団体の一つとして、会員企業のデータ活用を促したい考えだ。]]></description>
+			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>フラッシュメモリーに書き込みと消去回数の制限がある理由（今さら聞けないストレージ技術）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600261/062800004/</link>
 			<description><![CDATA[　大容量ストレージの記憶媒体として一般的に使われるNAND型フラッシュメモリーの構造を見ていきます。フラッシュメモリーはセルの集合体で、このセルがデジタルデータの0と1を管理する重要な部分です。]]></description>
@@ -35,9 +53,9 @@
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ホームIoTをいち早く展開、IFTTT登録でさらに便利に（メディアビジネス最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/379554/071800026/</link>
-			<description><![CDATA[　家の中の各種装置・機器と、手持ちのスマートデバイスを相互に連携させて多様なIoTサービスを展開する動きが様々な形で具体化している。中でも先行したのが、東急沿線でケーブルテレビ事業を展開するイッツ・コミュニケーションズ（イッツコム）の「インテリジェントホーム」である。]]></description>
+			<title>最大手ヤマトの挑戦（宅配ピンチ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100301/072300002/</link>
+			<description><![CDATA[　配達現場の負荷をできるだけ減らしながら、消費者に荷物を届ける最終段階のサービスレベルをどこまで維持できるか。最大手ヤマト運輸は「神様」に相応の負担を促し、ベンチャー企業は深夜・早朝限定の配送サービスに挑む。]]></description>
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -65,46 +83,10 @@
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>最大手ヤマトの挑戦（宅配ピンチ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100301/072300002/</link>
-			<description><![CDATA[　配達現場の負荷をできるだけ減らしながら、消費者に荷物を届ける最終段階のサービスレベルをどこまで維持できるか。最大手ヤマト運輸は「神様」に相応の負担を促し、ベンチャー企業は深夜・早朝限定の配送サービスに挑む。]]></description>
+			<title>ホームIoTをいち早く展開、IFTTT登録でさらに便利に（メディアビジネス最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/379554/071800026/</link>
+			<description><![CDATA[　家の中の各種装置・機器と、手持ちのスマートデバイスを相互に連携させて多様なIoTサービスを展開する動きが様々な形で具体化している。中でも先行したのが、東急沿線でケーブルテレビ事業を展開するイッツ・コミュニケーションズ（イッツコム）の「インテリジェントホーム」である。]]></description>
 			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>分かりにくい匿名加工情報、JIPDECが事例集で活用促進（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072401068/</link>
-			<description><![CDATA[　日本情報経済社会推進協会（JIPDEC）は2017年7月7日、改正個人情報保護法で企業などのデータ活用を促す目玉として導入された「匿名加工情報」の事例集を公表した。認定個人情報保護団体の一つとして、会員企業のデータ活用を促したい考えだ。]]></description>
-			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「Graphエクスプローラー」でMicrosoft Graphを試してみる（次のWindows 10を読み解く「Microsoft Graph」と「Project Rome」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100298/072400002/</link>
-			<description><![CDATA[　Microsoft Graphは、APIセットであり、ソフトウエアの開発経験がないと、理解は簡単ではない。しかし、マイクロソフトは、Microsoft Graphの利用を助けるために、Webブラウザーから、Microsoft Graphを動作させる「Graphエクスプローラー」とサンプルのアカウントとクラウドデータを提供している。まずは、これを使ってみる。]]></description>
-			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>費用の6割が戻る！ どうなるIT資格取得の給付金制度（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072000883/</link>
-			<description><![CDATA[　IT関連の資格取得講座を受講する場合、2017年10月以降、費用の補助を受けられるケースが増える。「教育訓練給付制度」の対象講座の指定要件緩和によって、対象講座の拡大が見込まれるからだ。]]></description>
-			<pubDate>Tue, 25 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>業界の垣根越え革新的な「暮らしのIoT」実現目指す、東急電鉄などが企業連合（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072501972/</link>
-			<description><![CDATA[　東京急行電鉄は2017年7月25日、新しいIoTの世界の創造を目指し、他社と共同で企業連合の「コネクティッドホーム アライアンス」を同日に設立したと発表した。]]></description>
-			<pubDate>Tue, 25 Jul 2017 15:24:31 +0900</pubDate>
-		</item>
-		<item>
-			<title>企業の4割はオンプレミスでデータを管理、日本テラデータが調査（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072501973/</link>
-			<description><![CDATA[　日本テラデータは2017年7月25日、米国や日本、ドイツなど9カ国の大手企業の経営者900人を対象に実施した、クラウド活用の調査結果を発表した。]]></description>
-			<pubDate>Tue, 25 Jul 2017 16:36:32 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソフトバンク・テクノロジーに不正アクセス、4071社の情報が流出の可能性（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072501974/</link>
-			<description><![CDATA[　ソフトバンク・テクノロジーは2017年7月24日、同社が保有する保守契約管理システムの検証サーバに対する不正アクセスが確認されたと発表した。]]></description>
-			<pubDate>Tue, 25 Jul 2017 18:49:58 +0900</pubDate>
 		</item>
 		<item>
 			<title>TONEが新スマホ発表、「夜10時以降使えない」子供向け機能も（ニュース）</title>
@@ -119,6 +101,24 @@
 			<pubDate>Tue, 25 Jul 2017 21:45:35 +0900</pubDate>
 		</item>
 		<item>
+			<title>バックアップも効果なし、「個人情報を流出させる」と脅すランサムウエア（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501072/</link>
+			<description><![CDATA[　マカフィーは2017年7月中旬、スマートフォンに保存されている写真や個人情報を流出させると脅すランサムウエアが出現したとして注意を呼びかけた。一般的なランサムウエア対策であるバックアップが通用しない。]]></description>
+			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ドコモのAIエージェント、スピーカーを提供しない理由（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501070/</link>
+			<description><![CDATA[　米Amazon.comの「Amazon Echo」をはじめ、米Googleの「Google Home」や米Appleの「HomePod」などでにわかに注目が高まってきたAI（人工知能）スピーカー。NTTドコモの動向が注目されていたが、AIスピーカーの提供予定はないという。]]></description>
+			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>評判の悪かった「マイナポータル」、気になる使い勝手（本格始動なるか！？ マイナンバー制度）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800288/071800002/</link>
+			<description><![CDATA[　2017年1月にログイン可能になったマイナポータルは秋ごろの本格稼働時に使い勝手が大幅に改善する見込みだ。電子行政の窓口としてIE以外の主なWebブラウザーを利用できるようにする。]]></description>
+			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>老舗企業の破綻が示す、ウエアラブル市場の競争激化（瀧口範子のシリコンバレー通信）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060200138/072400106/</link>
 			<description><![CDATA[　ウエアラブルデバイス市場が刻々と変化を遂げている。新たな会社が次々と参入する一方で古いプレーヤーが淘汰され、市場が大きく刷新されているのだ。最近では1999年創業の老舗的存在だった米ジョーボーン（Jawbone）の破綻が伝えられている。]]></description>
@@ -131,9 +131,9 @@
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>クラウドベンダーKDDI、Google活用でデータ解析に注力（3大クラウドの売り方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800287/072400003/</link>
-			<description><![CDATA[　2017年6月、KDDIはGoogleのクラウド「Google Cloud Platform（GCP）」のパートナーになると発表。2017年1月には、AWSのSIなどを手掛けるアイレットの子会社化を発表。ここにきて、KDDIがクラウドベンダーとして存在感を増してきた。]]></description>
+			<title>宅配ボックスが歩いてくる（宅配ピンチ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100301/072300003/</link>
+			<description><![CDATA[　ITを活用した常識破りの宅配方式で過剰サービス問題に挑む企業はほかにもある。2017年5月設立のMagicalMove。ソフトバンクグループで新規事業を手掛けるSBイノベンチャーが設立した。]]></description>
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -143,9 +143,9 @@
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>バックアップも効果なし、「個人情報を流出させる」と脅すランサムウエア（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501072/</link>
-			<description><![CDATA[　マカフィーは2017年7月中旬、スマートフォンに保存されている写真や個人情報を流出させると脅すランサムウエアが出現したとして注意を呼びかけた。一般的なランサムウエア対策であるバックアップが通用しない。]]></description>
+			<title>URLで機能を指定するMicrosoft Graph、マイクロソフトのサービスにアクセス（次のWindows 10を読み解く「Microsoft Graph」と「Project Rome」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100298/072500003/</link>
+			<description><![CDATA[　Microsoft Graphでは、URLで機能を指定する。このURLには、現在のところ、正式版であるv1.0系と、ベータ版の大きく2種類がある。基本的には、ベータ版は、v1.0のURLを含み、さらにいくつかの「機能カテゴリ」が追加されている。これをまとめたのが下の表である。]]></description>
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -185,27 +185,9 @@
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>宅配ボックスが歩いてくる（宅配ピンチ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100301/072300003/</link>
-			<description><![CDATA[　ITを活用した常識破りの宅配方式で過剰サービス問題に挑む企業はほかにもある。2017年5月設立のMagicalMove。ソフトバンクグループで新規事業を手掛けるSBイノベンチャーが設立した。]]></description>
-			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>URLで機能を指定するMicrosoft Graph、マイクロソフトのサービスにアクセス（次のWindows 10を読み解く「Microsoft Graph」と「Project Rome」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100298/072500003/</link>
-			<description><![CDATA[　Microsoft Graphでは、URLで機能を指定する。このURLには、現在のところ、正式版であるv1.0系と、ベータ版の大きく2種類がある。基本的には、ベータ版は、v1.0のURLを含み、さらにいくつかの「機能カテゴリ」が追加されている。これをまとめたのが下の表である。]]></description>
-			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ドコモのAIエージェント、スピーカーを提供しない理由（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501070/</link>
-			<description><![CDATA[　米Amazon.comの「Amazon Echo」をはじめ、米Googleの「Google Home」や米Appleの「HomePod」などでにわかに注目が高まってきたAI（人工知能）スピーカー。NTTドコモの動向が注目されていたが、AIスピーカーの提供予定はないという。]]></description>
-			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>評判の悪かった「マイナポータル」、気になる使い勝手（本格始動なるか！？ マイナンバー制度）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800288/071800002/</link>
-			<description><![CDATA[　2017年1月にログイン可能になったマイナポータルは秋ごろの本格稼働時に使い勝手が大幅に改善する見込みだ。電子行政の窓口としてIE以外の主なWebブラウザーを利用できるようにする。]]></description>
+			<title>クラウドベンダーKDDI、Google活用でデータ解析に注力（3大クラウドの売り方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800287/072400003/</link>
+			<description><![CDATA[　2017年6月、KDDIはGoogleのクラウド「Google Cloud Platform（GCP）」のパートナーになると発表。2017年1月には、AWSのSIなどを手掛けるアイレットの子会社化を発表。ここにきて、KDDIがクラウドベンダーとして存在感を増してきた。]]></description>
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -341,6 +323,24 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601987/</link>
 			<description><![CDATA[　NECは2017年7月25日、同社のPCサーバー「Express5800シリーズ」の新製品を発表した。CPUに「Xeon Processor Scalable Family」を採用。GPUボードも搭載できる。]]></description>
 			<pubDate>Wed, 26 Jul 2017 20:00:13 +0900</pubDate>
+		</item>
+		<item>
+			<title>工場IoTの安定稼働に向け、国内7社がアライアンスを結成（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601988/</link>
+			<description><![CDATA[　オムロンと国際電気通信基礎技術研究所、サンリツオートメイション、情報通信研究機構、NEC、富士通、村田機械は2017年7月26日、工場内IoTの活用を促進する「フレキシブルファクトリパートナーアライアンス」を結成した。]]></description>
+			<pubDate>Wed, 26 Jul 2017 20:28:56 +0900</pubDate>
+		</item>
+		<item>
+			<title>シマンテックが東京SOCを拡大、五輪見据えた新設備を初披露（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601989/</link>
+			<description><![CDATA[　シマンテックは2017年7月26日、東京セキュリティオペレーションセンター（SOC）を拡大したと発表した。SOCは同社セキュリティサービスの司令塔となる施設。2020年の東京オリンピック（五輪）を狙う攻撃を見据え、フロア面積を広げてセキュリティ人材を数名増員。40人体制で監視・分析に当たる。]]></description>
+			<pubDate>Wed, 26 Jul 2017 20:32:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>LINEが料理宅配に再挑戦、自社インフラから外部システム・配送網活用へ転換（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601990/</link>
+			<description><![CDATA[　LINEは2017年7月26日、料理の注文・宅配サービス「LINEデリマ」を開始すると発表した。同社は料理宅配サービス「出前館」を運営する夢の街創造委員会の株式の20％を保有しており、LINEデリマも出前館のサービスインフラを活用した形で提供する。]]></description>
+			<pubDate>Wed, 26 Jul 2017 21:18:54 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
