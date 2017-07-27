@@ -5,6 +5,18 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>バックアップも効果なし、「個人情報を流出させる」と脅すランサムウエア（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501072/</link>
+			<description><![CDATA[　マカフィーは2017年7月中旬、スマートフォンに保存されている写真や個人情報を流出させると脅すランサムウエアが出現したとして注意を呼びかけた。一般的なランサムウエア対策であるバックアップが通用しない。]]></description>
+			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>当初は通信障害も、自治体情報セキュリティクラウドの実情（議論白熱！セキュリティクラウド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072400306/072400001/</link>
+			<description><![CDATA[　都道府県CIOフォーラムは、第14回春季会合を2月7日・8日の2日間、東京都内で開催した。初日は、一部自治体で移行が始まった自治体情報セキュリティクラウドについて、議論が交わされた。]]></description>
+			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>自己完結では日本のIoTは負ける（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072500887/</link>
 			<description><![CDATA[　日本市場で普及し始めたIoT（Internet of Things）のサービスや製品の現状に対し、危機感を訴える声が強まっている。「日本では1社で完結したバラバラのIoTやビッグデータのシステムが乱立している。このままでは海外勢に負ける」。NTTの鵜浦博夫社長は日本のIoTが抱える問題点をこう語る。]]></description>
@@ -47,15 +59,15 @@
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ドコモのAIエージェント、スピーカーを提供しない理由（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501070/</link>
-			<description><![CDATA[　米Amazon.comの「Amazon Echo」をはじめ、米Googleの「Google Home」や米Appleの「HomePod」などでにわかに注目が高まってきたAI（人工知能）スピーカー。NTTドコモの動向が注目されていたが、AIスピーカーの提供予定はないという。]]></description>
+			<title>将来のヒューマンエラーを共有する「ヒヤリハット支店発表会」とは？（なぜなぜ分析でミス撲滅）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071000277/071000002/</link>
+			<description><![CDATA[　NTTコムウェアの東日本支店は、重大なミスに至る前の「ヒヤリハット事象」に対して、なぜなぜ分析を取り入れた。結果、ヒューマンエラーを未然に防ぐことに成功した。]]></description>
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>バックアップも効果なし、「個人情報を流出させる」と脅すランサムウエア（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501072/</link>
-			<description><![CDATA[　マカフィーは2017年7月中旬、スマートフォンに保存されている写真や個人情報を流出させると脅すランサムウエアが出現したとして注意を呼びかけた。一般的なランサムウエア対策であるバックアップが通用しない。]]></description>
+			<title>ランサムウエアの被害件数5倍に、浮き彫りになった危機意識の低さ（ランサムウエア　脅される日本企業）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072500308/072500001/</link>
+			<description><![CDATA[　ある日突然、データを操作できなくなり、PCの画面一面には「元に戻したければ金を払え」との脅迫文が―。データを暗号化して解除費用を要求すランサムウエアの仕業だ。世界的なサイバー脅威は、危機意識の無い日本企業を狙っている。]]></description>
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -77,34 +89,10 @@
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>将来のヒューマンエラーを共有する「ヒヤリハット支店発表会」とは？（なぜなぜ分析でミス撲滅）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071000277/071000002/</link>
-			<description><![CDATA[　NTTコムウェアの東日本支店は、重大なミスに至る前の「ヒヤリハット事象」に対して、なぜなぜ分析を取り入れた。結果、ヒューマンエラーを未然に防ぐことに成功した。]]></description>
+			<title>ドコモのAIエージェント、スピーカーを提供しない理由（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501070/</link>
+			<description><![CDATA[　米Amazon.comの「Amazon Echo」をはじめ、米Googleの「Google Home」や米Appleの「HomePod」などでにわかに注目が高まってきたAI（人工知能）スピーカー。NTTドコモの動向が注目されていたが、AIスピーカーの提供予定はないという。]]></description>
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ランサムウエアの被害件数5倍に、浮き彫りになった危機意識の低さ（ランサムウエア　脅される日本企業）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072500308/072500001/</link>
-			<description><![CDATA[　ある日突然、データを操作できなくなり、PCの画面一面には「元に戻したければ金を払え」との脅迫文が―。データを暗号化して解除費用を要求すランサムウエアの仕業だ。世界的なサイバー脅威は、危機意識の無い日本企業を狙っている。]]></description>
-			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>当初は通信障害も、自治体情報セキュリティクラウドの実情（議論白熱！セキュリティクラウド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072400306/072400001/</link>
-			<description><![CDATA[　都道府県CIOフォーラムは、第14回春季会合を2月7日・8日の2日間、東京都内で開催した。初日は、一部自治体で移行が始まった自治体情報セキュリティクラウドについて、議論が交わされた。]]></description>
-			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「他社の外付けIoTとは違う」、日本オラクルがクラウドERPの新版（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601981/</link>
-			<description><![CDATA[　日本オラクルは2017年7月26日、クラウド型のERP（統合基幹業務システム）サービス「Oracle ERP Cloud」の最新版となる「R13」の提供を始めたと明らかにした。]]></description>
-			<pubDate>Wed, 26 Jul 2017 16:22:15 +0900</pubDate>
-		</item>
-		<item>
-			<title>「Hulu」運営のHJホールディングスが第三者割当増資（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601982/</link>
-			<description><![CDATA[　日本テレビ放送網は2017年7月26日、連結子会社で動画配信サービス「Hulu」を運営するHJホールディングスが、米Huluとヤフー、東宝、読売テレビ放送、中京テレビ放送を引受先とする第三者割当増資を7月に実施したと発表した。]]></description>
-			<pubDate>Wed, 26 Jul 2017 16:23:52 +0900</pubDate>
 		</item>
 		<item>
 			<title>Wi-Fi AllianceがWi-Fiの最新状況を説明、「2020年も重要な基盤技術、接続性はさらに向上」（ニュース）</title>
@@ -173,6 +161,18 @@
 			<pubDate>Wed, 26 Jul 2017 22:16:42 +0900</pubDate>
 		</item>
 		<item>
+			<title>工事進行基準は廃止、受託ソフトの会計処理に新基準（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501071/</link>
+			<description><![CDATA[　日本の会計基準を作成する企業会計基準委員会（ASBJ）は2017年7月20日、企業の売上高に関する会計処理を定める「収益認識基準」の草案を公開した。これまで受託ソフトウエア開発に適用されていた工事進行基準を定めた基準が廃止になるため、ITベンダーの会計処理に影響がある。]]></description>
+			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「冷房を効かせたければ金払え」、IoT狙うランサムウエア（今日も誰かが狙われる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/072500007/</link>
+			<description><![CDATA[　「IoTを狙うランサムウエアが出現する」――。誰しもが言いそうなことだ。だが2016年の時点で、エアコンのコントローラーを乗っ取るランサムウエアの実証コードが作られている。感染すると、猛暑日にエアコンから熱風しか出てこなくなる恐れがある。いくらでも“身代金”を払ってしまいそうだ。]]></description>
+			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>AMDのEPYC、サーバー向けとしてどこが「すごい」のか（EPYCでインテルに挑むAMD）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072300305/072600002/</link>
 			<description><![CDATA[　前回はEPYCの位置付けをご紹介した。今回は、そのEPYCはどれほどの競争力を持ちえる構造なのかを解説する。2017年3月に発表したRyzenと今回のEPYC、8月に発売される16コア／32スレッドの「ThreadRipper」と、AMDは3つのZenコアベースのCPUを投入する。これらが搭載しているダイ（半導体本体）は完全に同じだ。
@@ -204,9 +204,9 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>工事進行基準は廃止、受託ソフトの会計処理に新基準（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501071/</link>
-			<description><![CDATA[　日本の会計基準を作成する企業会計基準委員会（ASBJ）は2017年7月20日、企業の売上高に関する会計処理を定める「収益認識基準」の草案を公開した。これまで受託ソフトウエア開発に適用されていた工事進行基準を定めた基準が廃止になるため、ITベンダーの会計処理に影響がある。]]></description>
+			<title>シェアリングエコノミーが突破口に（宅配ピンチ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100301/072300004/</link>
+			<description><![CDATA[　人や自動車などの空き時間を共有するシェアリングエコノミーの波が物流業界にも及びつつある。PCやスマートフォンで受けたスポット配送の依頼を、中小の運送会社と直接マッチングさせるサービスが相次ぎ登場。長年続く多重下請け構造を揺さぶり、人手不足の突破口を開く。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -270,18 +270,6 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「冷房を効かせたければ金払え」、IoT狙うランサムウエア（今日も誰かが狙われる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/072500007/</link>
-			<description><![CDATA[　「IoTを狙うランサムウエアが出現する」――。誰しもが言いそうなことだ。だが2016年の時点で、エアコンのコントローラーを乗っ取るランサムウエアの実証コードが作られている。感染すると、猛暑日にエアコンから熱風しか出てこなくなる恐れがある。いくらでも“身代金”を払ってしまいそうだ。]]></description>
-			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>シェアリングエコノミーが突破口に（宅配ピンチ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100301/072300004/</link>
-			<description><![CDATA[　人や自動車などの空き時間を共有するシェアリングエコノミーの波が物流業界にも及びつつある。PCやスマートフォンで受けたスポット配送の依頼を、中小の運送会社と直接マッチングさせるサービスが相次ぎ登場。長年続く多重下請け構造を揺さぶり、人手不足の突破口を開く。]]></description>
-			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ビールの無断サービスを防げ、売上と提供量をIoTで照合（後）（ビールの無断サービスを防げ、売上と提供量をIoTで照合）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/071800056/071800002/</link>
 			<description><![CDATA[<div>
@@ -310,6 +298,45 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 27 Jul 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Adobe、Flashのサポートを2020年末で終了（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072700346/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　米Adobe Systemsは現地時間2017年7月25日、「Flash Player」の更新や配布を2020年末で終了することを発表した。リッチメディアを実現するプロプライエタリなプラグインの必要性が減っていることを踏まえると、当然の措置と考えられる。</p>
+
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072700346/ph01.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: wezlo</div>
+</div>
+
+<p>　既存のFlashコンテンツは、「HTML5」「WebGL」「WebAssembly」など、新しいオープンな標準規格に移行することが求められる。Adobeは、同日付けの公式ブログ記事の中で、こうした標準規格が成熟し、Flashが先鞭をつけた機能を実現できる域に達したと述べたうえで、「現在、ブラウザー開発元の大半は、かつてプラグインが提供していた機能をブラウザー自体に内蔵する動きを進め、プラグインを廃止しつつある」と説明している。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072700346/?ST=cio-appli&P=2">また同社は、HTML5をはじめとする新しいWeb...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072700346/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072700346/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072700346/?ST=cio-appli&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072700346/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 27 Jul 2017 10:07:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>米Facebookがインターネット防衛に総額100万ドルの賞金、米選挙の防衛も支援（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072701996/</link>
+			<description><![CDATA[　米Facebookの最高セキュリティ責任者であるAlex Stamos氏は2017年7月26日（米国時間）、「Black Hat 2017」の基調講演で同社がインターネット全体のセキュリティ強化や、米国の選挙システムに対するサイバー攻撃の防衛に貢献する姿勢を示した。]]></description>
+			<pubDate>Thu, 27 Jul 2017 10:41:01 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
