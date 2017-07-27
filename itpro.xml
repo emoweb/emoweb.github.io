@@ -11,24 +11,6 @@
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>NECがGPUボードを搭載可能な新サーバー、CPUは最新Xeon（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601987/</link>
-			<description><![CDATA[　NECは2017年7月25日、同社のPCサーバー「Express5800シリーズ」の新製品を発表した。CPUに「Xeon Processor Scalable Family」を採用。GPUボードも搭載できる。]]></description>
-			<pubDate>Wed, 26 Jul 2017 20:00:13 +0900</pubDate>
-		</item>
-		<item>
-			<title>工場IoTの安定稼働に向け、国内7社がアライアンスを結成（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601988/</link>
-			<description><![CDATA[　オムロンと国際電気通信基礎技術研究所、サンリツオートメイション、情報通信研究機構、NEC、富士通、村田機械は2017年7月26日、工場内IoTの活用を促進する「フレキシブルファクトリパートナーアライアンス」を結成した。]]></description>
-			<pubDate>Wed, 26 Jul 2017 20:28:56 +0900</pubDate>
-		</item>
-		<item>
-			<title>シマンテックが東京SOCを拡大、五輪見据えた新設備を初披露（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601989/</link>
-			<description><![CDATA[　シマンテックは2017年7月26日、東京セキュリティオペレーションセンター（SOC）を拡大したと発表した。SOCは同社セキュリティサービスの司令塔となる施設。2020年の東京オリンピック（五輪）を狙う攻撃を見据え、フロア面積を広げてセキュリティ人材を数名増員。40人体制で監視・分析に当たる。]]></description>
-			<pubDate>Wed, 26 Jul 2017 20:32:04 +0900</pubDate>
-		</item>
-		<item>
 			<title>LINEが料理宅配に再挑戦、自社インフラから外部システム・配送網活用へ転換（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601990/</link>
 			<description><![CDATA[　LINEは2017年7月26日、料理の注文・宅配サービス「LINEデリマ」を開始すると発表した。同社は料理宅配サービス「出前館」を運営する夢の街創造委員会の株式の20％を保有しており、LINEデリマも出前館のサービスインフラを活用した形で提供する。]]></description>
@@ -53,6 +35,24 @@
 			<pubDate>Wed, 26 Jul 2017 22:16:42 +0900</pubDate>
 		</item>
 		<item>
+			<title>ビットコインで荒稼ぎ、身代金集めに攻撃者が選んだインフラ（ランサムウエア　脅される日本企業）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072500308/072500002/</link>
+			<description><![CDATA[　稼ぎたいが捕まりたくない―。ランサムウエアに群がるサイバー攻撃者の狙いは共通だ。身を隠しながら世界中から身代金を集めるインフラにランサムウエア攻撃者が選んだのが仮想通貨「ビットコイン」だ。]]></description>
+			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>SELinuxでトラブル発生！ Apache、Zabbixを動かす回避術（IoT時代の最新SELinux入門）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/072500008/</link>
+			<description><![CDATA[　今回はいよいよSELinuxのトラブル対処に踏み込みます。SELinuxが原因でうまく動作しない実際の症状を例に挙げて、その対処法を紹介していきます。]]></description>
+			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>給与にこだわる、40代技術者の転職（エンジニア転職意識調査）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/072100009/</link>
+			<description><![CDATA[　転職時に給与を重視する人は世代を問わず多いが、その中でも40代が86％と最多だった。スキルや経験を重ねてきた自分を正当に評価してほしい、との思いが感じられる。]]></description>
+			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>工事進行基準は廃止、受託ソフトの会計処理に新基準（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501071/</link>
 			<description><![CDATA[　日本の会計基準を作成する企業会計基準委員会（ASBJ）は2017年7月20日、企業の売上高に関する会計処理を定める「収益認識基準」の草案を公開した。これまで受託ソフトウエア開発に適用されていた工事進行基準を定めた基準が廃止になるため、ITベンダーの会計処理に影響がある。]]></description>
@@ -72,9 +72,9 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ビットコインで荒稼ぎ、身代金集めに攻撃者が選んだインフラ（ランサムウエア　脅される日本企業）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072500308/072500002/</link>
-			<description><![CDATA[　稼ぎたいが捕まりたくない―。ランサムウエアに群がるサイバー攻撃者の狙いは共通だ。身を隠しながら世界中から身代金を集めるインフラにランサムウエア攻撃者が選んだのが仮想通貨「ビットコイン」だ。]]></description>
+			<title>いつかはOffice 365が「実験の場」に、ヤンマーが目指す情報共有（Office 365使いこなし術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800291/071900001/</link>
+			<description><![CDATA[　ヤンマーがOffice 365の導入を始めたのは2014年12月。その後1年8カ月かけて導入を進め、現在は支社・グループ企業を含む国内39社と海外の40社、22カ国で1万5000人が利用している。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -96,15 +96,15 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ソフトバンク「10兆円ファンド」に集う同志の素顔（ソフトバンクはジェントルマン）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600311/072600001/</link>
-			<description><![CDATA[　ソフトバンクグループの孫正義社長が率いる「10兆円ファンド」構想が動き始めた。人工知能やロボット、衛星インターネットなど、孫社長が有望とみる新興ITベンチャー企業に相次いで出資。出資するだけでなく孫社長の個性で起業家たちと人脈を築き、「同志的結合」（孫社長）を形成する。]]></description>
+			<title>問題端末をどう見つける？VDIやADの活用法を自治体が議論（議論白熱！セキュリティクラウド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072400306/072400002/</link>
+			<description><![CDATA[　都道府県CIOフォーラムは、第14回春季会合を2月7日・8日の2日間、東京都内で開催した。初日は、一部自治体で移行が始まった自治体情報セキュリティクラウドに関連して、CSIRTなどの運用体制のあり方や端末運用について議論した。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>いつかはOffice 365が「実験の場」に、ヤンマーが目指す情報共有（Office 365使いこなし術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800291/071900001/</link>
-			<description><![CDATA[　ヤンマーがOffice 365の導入を始めたのは2014年12月。その後1年8カ月かけて導入を進め、現在は支社・グループ企業を含む国内39社と海外の40社、22カ国で1万5000人が利用している。]]></description>
+			<title>コマツが自前主義を捨てる、ドコモらと建設クラウド提供へ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072601074/</link>
+			<description><![CDATA[　建設機械メーカーのコマツとNTTドコモ、SAPジャパン、オプティムは2017年10月に建設事業者向けクラウドサービス「LANDLOG（ランドログ）」の提供を始める。4社が出資する新会社を同月に設立して事業を展開する。新会社の出資比率は今後詰める。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -138,27 +138,9 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>問題端末をどう見つける？VDIやADの活用法を自治体が議論（議論白熱！セキュリティクラウド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072400306/072400002/</link>
-			<description><![CDATA[　都道府県CIOフォーラムは、第14回春季会合を2月7日・8日の2日間、東京都内で開催した。初日は、一部自治体で移行が始まった自治体情報セキュリティクラウドに関連して、CSIRTなどの運用体制のあり方や端末運用について議論した。]]></description>
-			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>コマツが自前主義を捨てる、ドコモらと建設クラウド提供へ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072601074/</link>
-			<description><![CDATA[　建設機械メーカーのコマツとNTTドコモ、SAPジャパン、オプティムは2017年10月に建設事業者向けクラウドサービス「LANDLOG（ランドログ）」の提供を始める。4社が出資する新会社を同月に設立して事業を展開する。新会社の出資比率は今後詰める。]]></description>
-			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>SELinuxでトラブル発生！ Apache、Zabbixを動かす回避術（IoT時代の最新SELinux入門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/072500008/</link>
-			<description><![CDATA[　今回はいよいよSELinuxのトラブル対処に踏み込みます。SELinuxが原因でうまく動作しない実際の症状を例に挙げて、その対処法を紹介していきます。]]></description>
-			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>給与にこだわる、40代技術者の転職（エンジニア転職意識調査）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/072100009/</link>
-			<description><![CDATA[　転職時に給与を重視する人は世代を問わず多いが、その中でも40代が86％と最多だった。スキルや経験を重ねてきた自分を正当に評価してほしい、との思いが感じられる。]]></description>
+			<title>ソフトバンク「10兆円ファンド」に集う同志の素顔（ソフトバンクはジェントルマン）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600311/072600001/</link>
+			<description><![CDATA[　ソフトバンクグループの孫正義社長が率いる「10兆円ファンド」構想が動き始めた。人工知能やロボット、衛星インターネットなど、孫社長が有望とみる新興ITベンチャー企業に相次いで出資。出資するだけでなく孫社長の個性で起業家たちと人脈を築き、「同志的結合」（孫社長）を形成する。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -249,10 +231,28 @@
 			<pubDate>Thu, 27 Jul 2017 12:44:59 +0900</pubDate>
 		</item>
 		<item>
+			<title>富士ゼロックス、物体表面のパターンを識別する画像処理技術「Yoctrace」を提供開始（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072701999/</link>
+			<description><![CDATA[　富士ゼロックスは2017年7月27日、工業製品などの物体表面を画像認識で一意に識別できる技術「Yoctrace」を開発し、印刷業などを対象にライセンス提供を始めると発表した。]]></description>
+			<pubDate>Thu, 27 Jul 2017 17:19:19 +0900</pubDate>
+		</item>
+		<item>
 			<title>みずほ銀行 システム統合／システム障害　関連記事（ITproアーカイブス）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040700124/072700005/</link>
 			<description><![CDATA[　みずほ銀行システム統合やシステムトラブルに関連する記事をまとめました。2002年の発足時からの記事があります。ITproアーカイブスは、ITpro内の記事のリンク集です。内容は随時更新します。]]></description>
 			<pubDate>Thu, 27 Jul 2017 17:27:50 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本IBMが新型メインフレーム「z14」の説明会、サイバー攻撃対策に暗号化機能（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072702000/</link>
+			<description><![CDATA[　日本IBMは2017年7月27日、新型メインフレーム「z14」の説明会を開催した。z14から搭載したデータを暗号化するOS機能やストレージのデータ入出力性能向上などを紹介した。z14の出荷予定は9月13日だ。]]></description>
+			<pubDate>Thu, 27 Jul 2017 19:05:44 +0900</pubDate>
+		</item>
+		<item>
+			<title>消費者庁がソフトバンクに措置命令、Apple Watchのおとり広告告示で（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072702001/</link>
+			<description><![CDATA[　消費者庁は2017年7月27日、ソフトバンクが2016年11月に実施したキャンペーンの広告表示が景品表示法の第5条第3号に違反（「おとり広告告示」に該当）するとして、同社に再発防止を求める措置命令を出した。]]></description>
+			<pubDate>Thu, 27 Jul 2017 19:18:49 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
