@@ -11,10 +11,16 @@
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>GMOクラウド、スマホ介して自動車を遠隔診断するサービスを開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601994/</link>
-			<description><![CDATA[　GMOクラウドは2017年7月26日、自動車車両の状態情報をスマートフォンの回線を経由してクラウドに送り、車両状態の自動解析や遠隔診断ができるサービスの開始を発表した。]]></description>
-			<pubDate>Wed, 26 Jul 2017 22:16:42 +0900</pubDate>
+			<title>工事進行基準は廃止、受託ソフトの会計処理に新基準（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501071/</link>
+			<description><![CDATA[　日本の会計基準を作成する企業会計基準委員会（ASBJ）は2017年7月20日、企業の売上高に関する会計処理を定める「収益認識基準」の草案を公開した。これまで受託ソフトウエア開発に適用されていた工事進行基準を定めた基準が廃止になるため、ITベンダーの会計処理に影響がある。]]></description>
+			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>複数のデータを一つの変数にして、格納する配列を使いこなす（安納順一のPowerShell Tips）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800007/</link>
+			<description><![CDATA[　PowerShellのより高度な変数の使い方を覚えよう。]]></description>
+			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>富士通クラウド、MSとの「A5」経て「K5ファースト」へ（3大クラウドの売り方）</title>
@@ -54,9 +60,9 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>工事進行基準は廃止、受託ソフトの会計処理に新基準（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501071/</link>
-			<description><![CDATA[　日本の会計基準を作成する企業会計基準委員会（ASBJ）は2017年7月20日、企業の売上高に関する会計処理を定める「収益認識基準」の草案を公開した。これまで受託ソフトウエア開発に適用されていた工事進行基準を定めた基準が廃止になるため、ITベンダーの会計処理に影響がある。]]></description>
+			<title>国や自治体、マイナンバー制度で「縦割り」を崩せるか（本格始動なるか？マイナンバー制度）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800288/072500005/</link>
+			<description><![CDATA[　マイナンバー制度の本格運用に向けた整備は着々と進んでいる。問題は制度の普及・拡大に向けて、国や自治体が業務を変革できるかどうかだ。制度を意味あるものにしていくには、国や自治体の業務の進め方を変えて縦割りを打開していく姿勢が欠かせない。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -90,9 +96,9 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Microsoft GraphはどうやってJSONでデータをやり取りしているのか（次のWindows 10を読み解く「Microsoft Graph」と「Project Rome」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100298/072500004/</link>
-			<description><![CDATA[　Microsoft Graphは、HTTPを使ったいわゆる「Web API」で、RESTful（レストフル）でJSONを返すという今では一般的な構造だ。Microsoft Graphでは、URLで指定されたリソースとメソッドの組み合わせでAPIを実現している。例えば、GETメソッドを使うことで、指定されたリソースが持つ情報が応答本文として戻ってくる。]]></description>
+			<title>［特報］ドコモが「＋d」提携先を1000社に拡大へ、吉沢社長が意欲（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601993/</link>
+			<description><![CDATA[　NTTドコモが人工知能（AI）や5G（第5世代移動通信システム）などの提携先を1000社超に拡大することが2017年7月27日までにわかった。吉沢和弘社長が日経コンピュータの取材で明らかにした。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -102,27 +108,15 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>複数のデータを一つの変数にして、格納する配列を使いこなす（安納順一のPowerShell Tips）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800007/</link>
-			<description><![CDATA[　PowerShellのより高度な変数の使い方を覚えよう。]]></description>
-			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>［特報］ドコモが「＋d」提携先を1000社に拡大へ、吉沢社長が意欲（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601993/</link>
-			<description><![CDATA[　NTTドコモが人工知能（AI）や5G（第5世代移動通信システム）などの提携先を1000社超に拡大することが2017年7月27日までにわかった。吉沢和弘社長が日経コンピュータの取材で明らかにした。]]></description>
-			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>テレワークに立ちはだかる「三つの壁」を乗り越えよう（今どきの働き方改革ツール）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800289/072600004/</link>
 			<description><![CDATA[　実際にテレワークを始めてみると、多くの企業が直面する三つの壁がある。最近、続々と登場したテレワーク支援ツールを活用し、この壁を乗り越えよう。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>国や自治体、マイナンバー制度で「縦割り」を崩せるか（本格始動なるか？マイナンバー制度）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800288/072500005/</link>
-			<description><![CDATA[　マイナンバー制度の本格運用に向けた整備は着々と進んでいる。問題は制度の普及・拡大に向けて、国や自治体が業務を変革できるかどうかだ。制度を意味あるものにしていくには、国や自治体の業務の進め方を変えて縦割りを打開していく姿勢が欠かせない。]]></description>
+			<title>Microsoft GraphはどうやってJSONでデータをやり取りしているのか（次のWindows 10を読み解く「Microsoft Graph」と「Project Rome」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100298/072500004/</link>
+			<description><![CDATA[　Microsoft Graphは、HTTPを使ったいわゆる「Web API」で、RESTful（レストフル）でJSONを返すという今では一般的な構造だ。Microsoft Graphでは、URLで指定されたリソースとメソッドの組み合わせでAPIを実現している。例えば、GETメソッドを使うことで、指定されたリソースが持つ情報が応答本文として戻ってくる。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -253,6 +247,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072702004/</link>
 			<description><![CDATA[　NTTドコモは2017年7月27日、2017年4～6月期決算を発表した。営業収益（売上高に相当）が前年同期比2.5％増の1兆1367億円、営業利益が同7％減の2783億円で増収減益となった。決算会見で吉沢和弘社長は「減益は計画通りで年間予想に対しては順調に推移している」と語った。]]></description>
 			<pubDate>Thu, 27 Jul 2017 21:05:39 +0900</pubDate>
+		</item>
+		<item>
+			<title>富士通の2017年4～6月期決算は増収増益、SI事業は過去最高水準（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072702006/</link>
+			<description><![CDATA[富士通は2017年7月27日、2017年4～6月期の連結決算を発表した。売上高は前年同期比2.5％増の9226億円、営業利益は同186億円増と49億円の黒字で、増収増益となった。]]></description>
+			<pubDate>Thu, 27 Jul 2017 21:19:42 +0900</pubDate>
+		</item>
+		<item>
+			<title>「キャッシュレス決済4割」に向けpayWave拡大へ、Visa日本法人（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072702005/</link>
+			<description><![CDATA[　ビザ・ワールドワイド・ジャパン（Visa）は2017年7月27日、日本市場戦略に関する報道陣向け説明会を開催した。安渕聖司代表取締役は、伝統的に現金志向が強いとされる日本で決済のキャッシュレス化を進める方針を示した。]]></description>
+			<pubDate>Thu, 27 Jul 2017 22:14:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
