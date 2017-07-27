@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>アフラックと日立、がんの早期発見に向けたサービス提供で協業開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601985/</link>
-			<description><![CDATA[　アフラックと日立製作所は2017年7月26日、がんの早期発見・早期治療を実現するサービス提供に向けて、同年8月1日から協業を開始すると発表した。]]></description>
-			<pubDate>Wed, 26 Jul 2017 18:26:31 +0900</pubDate>
-		</item>
-		<item>
 			<title>パナソニック、家庭向け製品・サービス再設計のプロジェクトを発足（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601986/</link>
 			<description><![CDATA[　パナソニックは2017年7月26日、家庭向けの新たな製品やサービスを生み出すプロジェクト「HomeX」を新設したと発表した。既存の家電製品、住宅設備、住宅の枠組みを超え、IoTなどの技術も取り入れ、長期的な視点で今までにない製品やサービスを研究・開発する意向だ。]]></description>
@@ -59,6 +53,12 @@
 			<pubDate>Wed, 26 Jul 2017 22:16:42 +0900</pubDate>
 		</item>
 		<item>
+			<title>「冷房を効かせたければ金払え」、IoT狙うランサムウエア（今日も誰かが狙われる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/072500007/</link>
+			<description><![CDATA[　「IoTを狙うランサムウエアが出現する」――。誰しもが言いそうなことだ。だが2016年の時点で、エアコンのコントローラーを乗っ取るランサムウエアの実証コードが作られている。感染すると、猛暑日にエアコンから熱風しか出てこなくなる恐れがある。いくらでも“身代金”を払ってしまいそうだ。]]></description>
+			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>AMDのEPYC、サーバー向けとしてどこが「すごい」のか（EPYCでインテルに挑むAMD）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072300305/072600002/</link>
 			<description><![CDATA[　前回はEPYCの位置付けをご紹介した。今回は、そのEPYCはどれほどの競争力を持ちえる構造なのかを解説する。2017年3月に発表したRyzenと今回のEPYC、8月に発売される16コア／32スレッドの「ThreadRipper」と、AMDは3つのZenコアベースのCPUを投入する。これらが搭載しているダイ（半導体本体）は完全に同じだ。
@@ -78,9 +78,9 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「冷房を効かせたければ金払え」、IoT狙うランサムウエア（今日も誰かが狙われる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/072500007/</link>
-			<description><![CDATA[　「IoTを狙うランサムウエアが出現する」――。誰しもが言いそうなことだ。だが2016年の時点で、エアコンのコントローラーを乗っ取るランサムウエアの実証コードが作られている。感染すると、猛暑日にエアコンから熱風しか出てこなくなる恐れがある。いくらでも“身代金”を払ってしまいそうだ。]]></description>
+			<title>富士通クラウド、MSとの「A5」経て「K5ファースト」へ（3大クラウドの売り方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800287/072500004/</link>
+			<description><![CDATA[　富士通とマイクロソフトは2017年2月、両社で提供してきたクラウドサービス「A5」の看板を下ろした。富士通は、他社クラウドを連携する一方で、自社クラウド「K5」の充実を急ぐ。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -96,15 +96,15 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>日立のIoT、9000億円で感じた疑問（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072000885/</link>
-			<description><![CDATA[　日立製作所は2017年5月の決算会見で、成長戦略の中核である「Lumada」の売上高を9000億円と明らかにした。しかし、その内訳には二つの事業があるのだという。]]></description>
+			<title>いつかはOffice 365が「実験の場」に、ヤンマーが目指す情報共有（Office 365使いこなし術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800291/071900001/</link>
+			<description><![CDATA[　ヤンマーがOffice 365の導入を始めたのは2014年12月。その後1年8カ月かけて導入を進め、現在は支社・グループ企業を含む国内39社と海外の40社、22カ国で1万5000人が利用している。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>富士通クラウド、MSとの「A5」経て「K5ファースト」へ（3大クラウドの売り方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800287/072500004/</link>
-			<description><![CDATA[　富士通とマイクロソフトは2017年2月、両社で提供してきたクラウドサービス「A5」の看板を下ろした。富士通は、他社クラウドを連携する一方で、自社クラウド「K5」の充実を急ぐ。]]></description>
+			<title>［特報］ドコモが「＋d」提携先を1000社に拡大へ、吉沢社長が意欲（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601993/</link>
+			<description><![CDATA[　NTTドコモが人工知能（AI）や5G（第5世代移動通信システム）などの提携先を1000社超に拡大することが2017年7月27日までにわかった。吉沢和弘社長が日経コンピュータの取材で明らかにした。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -156,15 +156,9 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>いつかはOffice 365が「実験の場」に、ヤンマーが目指す情報共有（Office 365使いこなし術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800291/071900001/</link>
-			<description><![CDATA[　ヤンマーがOffice 365の導入を始めたのは2014年12月。その後1年8カ月かけて導入を進め、現在は支社・グループ企業を含む国内39社と海外の40社、22カ国で1万5000人が利用している。]]></description>
-			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>［特報］ドコモが「＋d」提携先を1000社に拡大へ、吉沢社長が意欲（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601993/</link>
-			<description><![CDATA[　NTTドコモが人工知能（AI）や5G（第5世代移動通信システム）などの提携先を1000社超に拡大することが2017年7月27日までにわかった。吉沢和弘社長が日経コンピュータの取材で明らかにした。]]></description>
+			<title>日立のIoT、9000億円で感じた疑問（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072000885/</link>
+			<description><![CDATA[　日立製作所は2017年5月の決算会見で、成長戦略の中核である「Lumada」の売上高を9000億円と明らかにした。しかし、その内訳には二つの事業があるのだという。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -247,6 +241,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072701995/</link>
 			<description><![CDATA[　みずほ銀行が構築している新しい勘定系システムについて、2018年秋にも切り替えを始める方向で検討していることが日経コンピュータの取材で2017年7月27日までに分かった。]]></description>
 			<pubDate>Thu, 27 Jul 2017 12:19:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>CCJ、グループのケーブル3社提供の公衆Wi-Fi相互接続アプリを投入（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072701998/</link>
+			<description><![CDATA[　CCJは2017年7月25日、グループのシー・ティー・ワイ（CTY、本社：三重県四日市市）、エヌ・シィ・ティ（NCT、本社：新潟県長岡市）、ケーブルネット鈴鹿（CNS、本社：三重県鈴鹿市）の3社が提供する公衆Wi-Fiサービスの相互接続アプリ「CCJコネクト」をリリースしたと発表した。]]></description>
+			<pubDate>Thu, 27 Jul 2017 12:44:59 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
