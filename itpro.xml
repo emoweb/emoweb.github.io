@@ -11,12 +11,6 @@
 			<pubDate>Wed, 26 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>LINEが料理宅配に再挑戦、自社インフラから外部システム・配送網活用へ転換（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601990/</link>
-			<description><![CDATA[　LINEは2017年7月26日、料理の注文・宅配サービス「LINEデリマ」を開始すると発表した。同社は料理宅配サービス「出前館」を運営する夢の街創造委員会の株式の20％を保有しており、LINEデリマも出前館のサービスインフラを活用した形で提供する。]]></description>
-			<pubDate>Wed, 26 Jul 2017 21:18:54 +0900</pubDate>
-		</item>
-		<item>
 			<title>KDDIがIoT向け通信「LTE-M」の屋外実験、NB-IoT方式含め年度内に商用化（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601991/</link>
 			<description><![CDATA[　KDDIは2017年7月26日、LTE（Long Term Evolution）をベースにしたIoT（Internet of Things）向け通信方式「LTE-M（Machine）」の屋外実証実験を始めたと発表した。7月18日から福島県福島市内で始めたほか、8月上旬からグループの沖縄セルラー電話と協力して沖縄県那覇市内でも実験を始める。]]></description>
@@ -33,6 +27,13 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601994/</link>
 			<description><![CDATA[　GMOクラウドは2017年7月26日、自動車車両の状態情報をスマートフォンの回線を経由してクラウドに送り、車両状態の自動解析や遠隔診断ができるサービスの開始を発表した。]]></description>
 			<pubDate>Wed, 26 Jul 2017 22:16:42 +0900</pubDate>
+		</item>
+		<item>
+			<title>AMDのEPYC、サーバー向けとしてどこが「すごい」のか（EPYCでインテルに挑むAMD）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072300305/072600002/</link>
+			<description><![CDATA[　前回はEPYCの位置付けをご紹介した。今回は、そのEPYCはどれほどの競争力を持ちえる構造なのかを解説する。2017年3月に発表したRyzenと今回のEPYC、8月に発売される16コア／32スレッドの「ThreadRipper」と、AMDは3つのZenコアベースのCPUを投入する。これらが搭載しているダイ（半導体本体）は完全に同じだ。
+]]></description>
+			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ビットコインで荒稼ぎ、身代金集めに攻撃者が選んだインフラ（ランサムウエア　脅される日本企業）</title>
@@ -65,10 +66,9 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>AMDのEPYC、サーバー向けとしてどこが「すごい」のか（EPYCでインテルに挑むAMD）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072300305/072600002/</link>
-			<description><![CDATA[　前回はEPYCの位置付けをご紹介した。今回は、そのEPYCはどれほどの競争力を持ちえる構造なのかを解説する。2017年3月に発表したRyzenと今回のEPYC、8月に発売される16コア／32スレッドの「ThreadRipper」と、AMDは3つのZenコアベースのCPUを投入する。これらが搭載しているダイ（半導体本体）は完全に同じだ。
-]]></description>
+			<title>コマツが自前主義を捨てる、ドコモらと建設クラウド提供へ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072601074/</link>
+			<description><![CDATA[　建設機械メーカーのコマツとNTTドコモ、SAPジャパン、オプティムは2017年10月に建設事業者向けクラウドサービス「LANDLOG（ランドログ）」の提供を始める。4社が出資する新会社を同月に設立して事業を展開する。新会社の出資比率は今後詰める。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -96,15 +96,15 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>問題端末をどう見つける？VDIやADの活用法を自治体が議論（議論白熱！セキュリティクラウド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072400306/072400002/</link>
-			<description><![CDATA[　都道府県CIOフォーラムは、第14回春季会合を2月7日・8日の2日間、東京都内で開催した。初日は、一部自治体で移行が始まった自治体情報セキュリティクラウドに関連して、CSIRTなどの運用体制のあり方や端末運用について議論した。]]></description>
+			<title>国や自治体、マイナンバー制度で「縦割り」を崩せるか（本格始動なるか？マイナンバー制度）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800288/072500005/</link>
+			<description><![CDATA[　マイナンバー制度の本格運用に向けた整備は着々と進んでいる。問題は制度の普及・拡大に向けて、国や自治体が業務を変革できるかどうかだ。制度を意味あるものにしていくには、国や自治体の業務の進め方を変えて縦割りを打開していく姿勢が欠かせない。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>コマツが自前主義を捨てる、ドコモらと建設クラウド提供へ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072601074/</link>
-			<description><![CDATA[　建設機械メーカーのコマツとNTTドコモ、SAPジャパン、オプティムは2017年10月に建設事業者向けクラウドサービス「LANDLOG（ランドログ）」の提供を始める。4社が出資する新会社を同月に設立して事業を展開する。新会社の出資比率は今後詰める。]]></description>
+			<title>ソフトバンク「10兆円ファンド」に集う同志の素顔（ソフトバンクはジェントルマン）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600311/072600001/</link>
+			<description><![CDATA[　ソフトバンクグループの孫正義社長が率いる「10兆円ファンド」構想が動き始めた。人工知能やロボット、衛星インターネットなど、孫社長が有望とみる新興ITベンチャー企業に相次いで出資。出資するだけでなく孫社長の個性で起業家たちと人脈を築き、「同志的結合」（孫社長）を形成する。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -132,15 +132,9 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>国や自治体、マイナンバー制度で「縦割り」を崩せるか（本格始動なるか？マイナンバー制度）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800288/072500005/</link>
-			<description><![CDATA[　マイナンバー制度の本格運用に向けた整備は着々と進んでいる。問題は制度の普及・拡大に向けて、国や自治体が業務を変革できるかどうかだ。制度を意味あるものにしていくには、国や自治体の業務の進め方を変えて縦割りを打開していく姿勢が欠かせない。]]></description>
-			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソフトバンク「10兆円ファンド」に集う同志の素顔（ソフトバンクはジェントルマン）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600311/072600001/</link>
-			<description><![CDATA[　ソフトバンクグループの孫正義社長が率いる「10兆円ファンド」構想が動き始めた。人工知能やロボット、衛星インターネットなど、孫社長が有望とみる新興ITベンチャー企業に相次いで出資。出資するだけでなく孫社長の個性で起業家たちと人脈を築き、「同志的結合」（孫社長）を形成する。]]></description>
+			<title>問題端末をどう見つける？VDIやADの活用法を自治体が議論（議論白熱！セキュリティクラウド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072400306/072400002/</link>
+			<description><![CDATA[　都道府県CIOフォーラムは、第14回春季会合を2月7日・8日の2日間、東京都内で開催した。初日は、一部自治体で移行が始まった自治体情報セキュリティクラウドに関連して、CSIRTなどの運用体制のあり方や端末運用について議論した。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -253,6 +247,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072702001/</link>
 			<description><![CDATA[　消費者庁は2017年7月27日、ソフトバンクが2016年11月に実施したキャンペーンの広告表示が景品表示法の第5条第3号に違反（「おとり広告告示」に該当）するとして、同社に再発防止を求める措置命令を出した。]]></description>
 			<pubDate>Thu, 27 Jul 2017 19:18:49 +0900</pubDate>
+		</item>
+		<item>
+			<title>クラウド会計裁判でマネーフォワードが勝訴、「意義はあった」とfreeeの佐々木社長（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072702002/</link>
+			<description><![CDATA[　2017年7月27日、クラウド会計ソフトを巡る特許権を侵害したとしてfreeeがマネーフォワードを提訴していた裁判の第一審判決が出た。東京地方裁判所は、freeeが求めていた差し止め請求を棄却。マネーフォワードが勝訴した。]]></description>
+			<pubDate>Thu, 27 Jul 2017 19:39:59 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
