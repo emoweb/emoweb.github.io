@@ -5,6 +5,18 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>工事進行基準は廃止、受託ソフトの会計処理に新基準（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501071/</link>
+			<description><![CDATA[　日本の会計基準を作成する企業会計基準委員会（ASBJ）は2017年7月20日、企業の売上高に関する会計処理を定める「収益認識基準」の草案を公開した。これまで受託ソフトウエア開発に適用されていた工事進行基準を定めた基準が廃止になるため、ITベンダーの会計処理に影響がある。]]></description>
+			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>シェアリングエコノミーが突破口に（宅配ピンチ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100301/072300004/</link>
+			<description><![CDATA[　人や自動車などの空き時間を共有するシェアリングエコノミーの波が物流業界にも及びつつある。PCやスマートフォンで受けたスポット配送の依頼を、中小の運送会社と直接マッチングさせるサービスが相次ぎ登場。長年続く多重下請け構造を揺さぶり、人手不足の突破口を開く。]]></description>
+			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>ビットコインで荒稼ぎ、身代金集めに攻撃者が選んだインフラ（ランサムウエア　脅される日本企業）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072500308/072500002/</link>
 			<description><![CDATA[　稼ぎたいが捕まりたくない―。ランサムウエアに群がるサイバー攻撃者の狙いは共通だ。身を隠しながら世界中から身代金を集めるインフラにランサムウエア攻撃者が選んだのが仮想通貨「ビットコイン」だ。]]></description>
@@ -54,15 +66,15 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>複数のデータを一つの変数にして、格納する配列を使いこなす（安納順一のPowerShell Tips）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800007/</link>
-			<description><![CDATA[　PowerShellのより高度な変数の使い方を覚えよう。]]></description>
+			<title>［特報］ドコモが「＋d」提携先を1000社に拡大へ、吉沢社長が意欲（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601993/</link>
+			<description><![CDATA[　NTTドコモが人工知能（AI）や5G（第5世代移動通信システム）などの提携先を1000社超に拡大することが2017年7月27日までにわかった。吉沢和弘社長が日経コンピュータの取材で明らかにした。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>工事進行基準は廃止、受託ソフトの会計処理に新基準（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501071/</link>
-			<description><![CDATA[　日本の会計基準を作成する企業会計基準委員会（ASBJ）は2017年7月20日、企業の売上高に関する会計処理を定める「収益認識基準」の草案を公開した。これまで受託ソフトウエア開発に適用されていた工事進行基準を定めた基準が廃止になるため、ITベンダーの会計処理に影響がある。]]></description>
+			<title>「冷房を効かせたければ金払え」、IoT狙うランサムウエア（今日も誰かが狙われる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/072500007/</link>
+			<description><![CDATA[　「IoTを狙うランサムウエアが出現する」――。誰しもが言いそうなことだ。だが2016年の時点で、エアコンのコントローラーを乗っ取るランサムウエアの実証コードが作られている。感染すると、猛暑日にエアコンから熱風しか出てこなくなる恐れがある。いくらでも“身代金”を払ってしまいそうだ。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -96,34 +108,10 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>［特報］ドコモが「＋d」提携先を1000社に拡大へ、吉沢社長が意欲（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601993/</link>
-			<description><![CDATA[　NTTドコモが人工知能（AI）や5G（第5世代移動通信システム）などの提携先を1000社超に拡大することが2017年7月27日までにわかった。吉沢和弘社長が日経コンピュータの取材で明らかにした。]]></description>
+			<title>複数のデータを一つの変数にして、格納する配列を使いこなす（安納順一のPowerShell Tips）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800007/</link>
+			<description><![CDATA[　PowerShellのより高度な変数の使い方を覚えよう。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「冷房を効かせたければ金払え」、IoT狙うランサムウエア（今日も誰かが狙われる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/072500007/</link>
-			<description><![CDATA[　「IoTを狙うランサムウエアが出現する」――。誰しもが言いそうなことだ。だが2016年の時点で、エアコンのコントローラーを乗っ取るランサムウエアの実証コードが作られている。感染すると、猛暑日にエアコンから熱風しか出てこなくなる恐れがある。いくらでも“身代金”を払ってしまいそうだ。]]></description>
-			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>シェアリングエコノミーが突破口に（宅配ピンチ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100301/072300004/</link>
-			<description><![CDATA[　人や自動車などの空き時間を共有するシェアリングエコノミーの波が物流業界にも及びつつある。PCやスマートフォンで受けたスポット配送の依頼を、中小の運送会社と直接マッチングさせるサービスが相次ぎ登場。長年続く多重下請け構造を揺さぶり、人手不足の突破口を開く。]]></description>
-			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIを利用した競合分析を20万円で、メタデータが新サービス（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072701997/</link>
-			<description><![CDATA[　メタデータはAIを利用した競合分析に基づくレポート作成サービスの提供を始めた。アンケートの自由回答やツイッターのつぶやきなどから、競合に対する強みや弱みを可視化した「ポジショニングマップ」をAIで作成。その結果を基に同社がレポートを作成する。20万円と低料金なのが特徴だ。]]></description>
-			<pubDate>Thu, 27 Jul 2017 11:51:05 +0900</pubDate>
-		</item>
-		<item>
-			<title>［特報］みずほ銀行のシステム統合、2018年秋にも切り替え開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072701995/</link>
-			<description><![CDATA[　みずほ銀行が構築している新しい勘定系システムについて、2018年秋にも切り替えを始める方向で検討していることが日経コンピュータの取材で2017年7月27日までに分かった。]]></description>
-			<pubDate>Thu, 27 Jul 2017 12:19:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>CCJ、グループのケーブル3社提供の公衆Wi-Fi相互接続アプリを投入（ニュース）</title>
@@ -186,6 +174,18 @@
 			<pubDate>Thu, 27 Jul 2017 22:14:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>合体スマホ「Moto Z2 Play」が薄く軽く、5万円でもお買い得？（SIMフリースマートフォンを徹底レビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/072600045/</link>
+			<description><![CDATA[　今回紹介するSIMフリースマートフォンは、モトローラ・モビリティ製の「Moto Z2 Play」だ。「Moto Z」シリーズは、同社のフラッグシップに位置付けられるモデル。「Moto Mods」という別売のモジュールを装着して、機能を拡張できることがセールスポイントだ。]]></description>
+			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>トラブルのいきさつ、登場人物と出来事をこう結ぶと見えてくる（なぜなぜ分析でミス撲滅）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071000277/071000003/</link>
+			<description><![CDATA[　NTTコムウェアの東日本支店がなぜなぜ分析のノウハウのなかで目を付けたのが「いきさつフロー図」である。登場人物と時系列に沿った出来事を線で結ぶと、ミスの原因が浮き彫りになる。]]></description>
+			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>立地も施設開発もデータが命、共用オフィスのWeWork（ソフトバンクはジェントルマン）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600311/072700002/</link>
 			<description><![CDATA[　ソフトバンクグループが最近出資した企業の中でも異彩を放つのが、コワーキングスペース（共用オフィス）運営の世界大手WeWork（ウィーワーク）だ。2018年初めにもサービスを始める日本法人代表に就任するクリス・ヒル氏に、日本での戦略を聞いた。]]></description>
@@ -216,9 +216,9 @@
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>合体スマホ「Moto Z2 Play」が薄く軽く、5万円でもお買い得？（SIMフリースマートフォンを徹底レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/072600045/</link>
-			<description><![CDATA[　今回紹介するSIMフリースマートフォンは、モトローラ・モビリティ製の「Moto Z2 Play」だ。「Moto Z」シリーズは、同社のフラッグシップに位置付けられるモデル。「Moto Mods」という別売のモジュールを装着して、機能を拡張できることがセールスポイントだ。]]></description>
+			<title>ドローン宅配には高いハードル（宅配ピンチ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100301/072300005/</link>
+			<description><![CDATA[　荷物の急増や人手不足で日本の物流業界から悲鳴が上がる中、官民が中長期的な対策として力を入れているのがドローン（小型無人機）を使った宅配サービスだ。]]></description>
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -288,22 +288,55 @@
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>トラブルのいきさつ、登場人物と出来事をこう結ぶと見えてくる（なぜなぜ分析でミス撲滅）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071000277/071000003/</link>
-			<description><![CDATA[　NTTコムウェアの東日本支店がなぜなぜ分析のノウハウのなかで目を付けたのが「いきさつフロー図」である。登場人物と時系列に沿った出来事を線で結ぶと、ミスの原因が浮き彫りになる。]]></description>
-			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ドローン宅配には高いハードル（宅配ピンチ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100301/072300005/</link>
-			<description><![CDATA[　荷物の急増や人手不足で日本の物流業界から悲鳴が上がる中、官民が中長期的な対策として力を入れているのがドローン（小型無人機）を使った宅配サービスだ。]]></description>
-			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>破竹の勢いのNetflix、次はどこに向うのか（情総研レポート）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/071200055/</link>
 			<description><![CDATA[　契約数が1億件のマイルストーンに到達したNetflix。米国単体の契約数も5,000万件を突破した。今から20年前に創業し、DVD郵送サービスから始まった同社は、破竹の勢いで従来のTV・映画を含む動画とその周辺の市場に破壊的創造をもたらし続けている。同社はこの先どこに向かうのだろうか。]]></description>
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ファーウェイが事業説明会、「AIチップセットを世界で最初にスマホに搭載したい」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072702007/</link>
+			<description><![CDATA[　中国ファーウェイは2017年7月27日、コンシューマー事業部門の2017年上半期（2017年1月〜6月）の業績を発表した。記者会見は中国で開催され、世界各国の報道関係者向けに中継された。]]></description>
+			<pubDate>Fri, 28 Jul 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>医療機器のセキュリティ、危険をもたらす5つの機能（下）（医療機器のセキュリティ、危険をもたらす5つの機能）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/071800055/071800003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　大半の医療機器は、物理的な安全性という面ではしっかりしていて、稼働開始から長年にわたって何の不具合もなく完璧に動作するが、インターネットを使った悪質な攻撃に対するセキュリティという面では、恐ろしいほど脆弱だ。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800055/071800002/" target="_blank">前回</a>から続く）</p>
+
+<h4>3：商用のOSとソフトウエア</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800055/071800003/ph3.jpg" width="300" alt="" title=""></div></div>
+
+<p>　Domas氏が指摘するのは、最近特に猛威をふるったランサムウエア兼ワームの「WannaCry」についてだ。WannaCryは医療機器をターゲットにしたものではなかった。病院を標的としている面は何もなかった。それにもかかわらず、いったん侵入を許したら、多数の病院が影響を受けた。</p>
+
+<p>　「この種の攻撃は、脆弱なものは何でも探す。脆弱な機器を認識して攻撃した」</p>
+
+<p>　また、個別の医療機器が仮に攻撃を受けなかったとしても、病院のシステムの中身をすべて暗号化されたら、診察や治療のための機器がすべて停止に追い込まれるかもしれない。</p>
+
+<p>　加えて、医療機関で使っているシステムは旧式の場合もある。トレンドマイクロの調査によると、SHODANで判明した機器の中には、いまだに「Windows XP」で動いているものが3％強あった。同OSはMicrosoftが既にサポートを終了しているので、セキュリティ更新プログラムが提供されない。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800055/071800003/?ST=cio-security&P=2">4：患者データの保持</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800055/071800003/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800055/071800003/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800055/071800003/?ST=cio-security&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/071800055/071800003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 28 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
