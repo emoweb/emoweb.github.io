@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>みずほ銀行 システム統合／システム障害　関連記事（ITproアーカイブス）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/040700124/072700005/</link>
-			<description><![CDATA[　みずほ銀行システム統合やシステムトラブルに関連する記事をまとめました。2002年の発足時からの記事があります。ITproアーカイブスは、ITpro内の記事のリンク集です。内容は随時更新します。]]></description>
-			<pubDate>Thu, 27 Jul 2017 17:27:50 +0900</pubDate>
-		</item>
-		<item>
 			<title>日本IBMが新型メインフレーム「z14」の説明会、サイバー攻撃対策に暗号化機能（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072702000/</link>
 			<description><![CDATA[　日本IBMは2017年7月27日、新型メインフレーム「z14」の説明会を開催した。z14から搭載したデータを暗号化するOS機能やストレージのデータ入出力性能向上などを紹介した。z14の出荷予定は9月13日だ。]]></description>
@@ -53,6 +47,12 @@
 			<pubDate>Thu, 27 Jul 2017 22:14:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>これからのモバイルアプリは「深層学習付き」になる？（塩田紳二のモバイルトレンド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/072600057/</link>
+			<description><![CDATA[　どうも世間では、7月22日に放送されたNHKのAI（人工知能）についての番組が話題になっているようです。恐らく、AIについて誤解があるのではないでしょうか。]]></description>
+			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「WannaCryの登場は予測できた」、ファーウェイのセキュリティCTOが語る（インタビュー＆トーク）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/072700341/</link>
 			<description><![CDATA[　「ファイアウオールや攻撃検知を超え、システムの設計段階からセキュリティを組み込む『Security3.0』が必要だ――」。トビアス・ゴンドロム氏は、2017年7月14日に米ガートナーが都内で開催したイベント「セキュリティ ＆ リスク・マネジメント サミット 2017」でこのように語った。]]></description>
@@ -83,9 +83,9 @@
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>これからのモバイルアプリは「深層学習付き」になる？（塩田紳二のモバイルトレンド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/072600057/</link>
-			<description><![CDATA[　どうも世間では、7月22日に放送されたNHKのAI（人工知能）についての番組が話題になっているようです。恐らく、AIについて誤解があるのではないでしょうか。]]></description>
+			<title>IBMメインフレーム、「15年に一度の大型アップデート」（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072701075/</link>
+			<description><![CDATA[　日本IBMは2017年9月13日、大型メインフレームの新機種「z14」の出荷を始める。暗号化機能などセキュリティ面を大幅に強化したのが特徴だ。サイバー攻撃対策を急ぐ企業の需要を取り込み、需要減の逆風に挑む。]]></description>
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>テストで欠陥を見逃す、たった三つの要因（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072400886/</link>
-			<description><![CDATA[　デジタル化が進むほど、システムの品質はビジネスと直結するようになる。止まったり、間違った結果を返したりするバグがあると、ビジネスに直接ダメージを与えてしまう。こうした欠陥を見つけ出し、品質を確保する関門となるのがテストだ。ただ、十分なテストを実施できているかどうか、実のところ心許ない。]]></description>
+			<title>「新iPad Pro」をiPad mini愛用者が使い込んだら……（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/072500330/</link>
+			<description><![CDATA[　iPad miniの愛用者が10.5インチiPad Proに乗り換えたら、仕事のスタイルはどう変わったのか？　自腹で購入したライターの伊藤朝輝氏が、手書き機能やテキスト入力を中心にレポートする。]]></description>
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>IBMメインフレーム、「15年に一度の大型アップデート」（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072701075/</link>
-			<description><![CDATA[　日本IBMは2017年9月13日、大型メインフレームの新機種「z14」の出荷を始める。暗号化機能などセキュリティ面を大幅に強化したのが特徴だ。サイバー攻撃対策を急ぐ企業の需要を取り込み、需要減の逆風に挑む。]]></description>
+			<title>この高齢者は誰？爪に貼るQRコードですぐに分かる（QRコード大増殖）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072000296/072700004/</link>
+			<description><![CDATA[　埼玉県入間市は認知症の高齢者の徘徊対策として、QRコードを印刷したシールを2016年11月から該当する高齢者に無償配布している。これまでに約40人が利用した。「爪Qシール」と呼ばれるこのシールは縦横1センチメートル角ほどで、手または足の爪に貼り付ける。]]></description>
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -161,16 +161,16 @@
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「新iPad Pro」をiPad mini愛用者が使い込んだら……（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/072500330/</link>
-			<description><![CDATA[　iPad miniの愛用者が10.5インチiPad Proに乗り換えたら、仕事のスタイルはどう変わったのか？　自腹で購入したライターの伊藤朝輝氏が、手書き機能やテキスト入力を中心にレポートする。]]></description>
+			<title>テストで欠陥を見逃す、たった三つの要因（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072400886/</link>
+			<description><![CDATA[　デジタル化が進むほど、システムの品質はビジネスと直結するようになる。止まったり、間違った結果を返したりするバグがあると、ビジネスに直接ダメージを与えてしまう。こうした欠陥を見つけ出し、品質を確保する関門となるのがテストだ。ただ、十分なテストを実施できているかどうか、実のところ心許ない。]]></description>
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>この高齢者は誰？爪に貼るQRコードですぐに分かる（QRコード大増殖）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072000296/072700004/</link>
-			<description><![CDATA[　埼玉県入間市は認知症の高齢者の徘徊対策として、QRコードを印刷したシールを2016年11月から該当する高齢者に無償配布している。これまでに約40人が利用した。「爪Qシール」と呼ばれるこのシールは縦横1センチメートル角ほどで、手または足の爪に貼り付ける。]]></description>
-			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
+			<title>ファーウェイが事業説明会、「AIチップセットを世界で最初にスマホに搭載したい」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072702007/</link>
+			<description><![CDATA[　中国ファーウェイは2017年7月27日、コンシューマー事業部門の2017年上半期（2017年1月〜6月）の業績を発表した。記者会見は中国で開催され、世界各国の報道関係者向けに中継された。]]></description>
+			<pubDate>Fri, 28 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>医療機器のセキュリティ、危険をもたらす5つの機能（下）（医療機器のセキュリティ、危険をもたらす5つの機能）</title>
@@ -209,12 +209,6 @@
 <div></div>
 </div>
 ]]></description>
-			<pubDate>Fri, 28 Jul 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ファーウェイが事業説明会、「AIチップセットを世界で最初にスマホに搭載したい」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072702007/</link>
-			<description><![CDATA[　中国ファーウェイは2017年7月27日、コンシューマー事業部門の2017年上半期（2017年1月〜6月）の業績を発表した。記者会見は中国で開催され、世界各国の報道関係者向けに中継された。]]></description>
 			<pubDate>Fri, 28 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -263,6 +257,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/072800116/</link>
 			<description><![CDATA[　米Tesla Motorsの「モデルS」に遠隔攻撃ができる脆弱性があることを発見した中国Tencentのセキュリティ研究者が2017年7月27日（米国時間）、開催中の「Black Hat 2017」でその手法の詳細を解説した。車載情報端末の脆弱性やファームウエアアップグレードの脆弱な仕組みが攻撃を可能にしていたことが判明した。]]></description>
 			<pubDate>Fri, 28 Jul 2017 11:19:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>経産省、不正競争防止法改正でデータ無断利用に歯止め検討（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072802008/</link>
+			<description><![CDATA[　経済産業省は企業が会員向けや売買のために作成したデータの不正取得や流通の防止を目的に不正競争防止法を改正する。2017年7月27日に産業構造審議会の不正競争防止小委員会で検討を始め、次期通常国会に改正案を提出する。]]></description>
+			<pubDate>Fri, 28 Jul 2017 15:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
