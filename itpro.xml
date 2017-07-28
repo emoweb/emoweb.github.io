@@ -11,18 +11,6 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>消費者庁がソフトバンクに措置命令、Apple Watchのおとり広告告示で（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072702001/</link>
-			<description><![CDATA[　消費者庁は2017年7月27日、ソフトバンクが2016年11月に実施したキャンペーンの広告表示が景品表示法の第5条第3号に違反（「おとり広告告示」に該当）するとして、同社に再発防止を求める措置命令を出した。]]></description>
-			<pubDate>Thu, 27 Jul 2017 19:18:49 +0900</pubDate>
-		</item>
-		<item>
-			<title>クラウド会計裁判でマネーフォワードが勝訴、「意義はあった」とfreeeの佐々木社長（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072702002/</link>
-			<description><![CDATA[　2017年7月27日、クラウド会計ソフトを巡る特許権を侵害したとしてfreeeがマネーフォワードを提訴していた裁判の第一審判決が出た。東京地方裁判所は、freeeが求めていた差し止め請求を棄却。マネーフォワードが勝訴した。]]></description>
-			<pubDate>Thu, 27 Jul 2017 19:39:59 +0900</pubDate>
-		</item>
-		<item>
 			<title>えひめFreeWi-Fiの愛媛CATV運営エリアで認証手続きの事業者間連携開始（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072702003/</link>
 			<description><![CDATA[　公衆無線LAN認証管理機構（Wi-Cert）は2017年7月27日、愛媛CATVが運営する「えひめFreeWi-FiのグループB」（愛媛CATV方式）のアクセスポイントにおいて、Web-APIの運用が開始されたと発表した。]]></description>
@@ -45,6 +33,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072702005/</link>
 			<description><![CDATA[　ビザ・ワールドワイド・ジャパン（Visa）は2017年7月27日、日本市場戦略に関する報道陣向け説明会を開催した。安渕聖司代表取締役は、伝統的に現金志向が強いとされる日本で決済のキャッシュレス化を進める方針を示した。]]></description>
 			<pubDate>Thu, 27 Jul 2017 22:14:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>トラブルのいきさつ、登場人物と出来事をこう結ぶと見えてくる（なぜなぜ分析でミス撲滅）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071000277/071000003/</link>
+			<description><![CDATA[　NTTコムウェアの東日本支店がなぜなぜ分析のノウハウのなかで目を付けたのが「いきさつフロー図」である。登場人物と時系列に沿った出来事を線で結ぶと、ミスの原因が浮き彫りになる。]]></description>
+			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>デバイスをまたいで処理を続けるProject Romeの中身（次のWindows 10を読み解く「Microsoft Graph」と「Project Rome」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100298/072700005/</link>
+			<description><![CDATA[　Project Romeは、Microsoft Graphを利用して作られたマルチプラットフォーム対応のAPIセットだ。Windows 10の今後のアップデートで搭載予定の「Windows Timeline」は、このProject Romeをベースに作られている。]]></description>
+			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>立地も施設開発もデータが命、共用オフィスのWeWork（ソフトバンクはジェントルマン）</title>
@@ -77,9 +77,9 @@
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>トラブルのいきさつ、登場人物と出来事をこう結ぶと見えてくる（なぜなぜ分析でミス撲滅）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071000277/071000003/</link>
-			<description><![CDATA[　NTTコムウェアの東日本支店がなぜなぜ分析のノウハウのなかで目を付けたのが「いきさつフロー図」である。登場人物と時系列に沿った出来事を線で結ぶと、ミスの原因が浮き彫りになる。]]></description>
+			<title>テストで欠陥を見逃す、たった三つの要因（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072400886/</link>
+			<description><![CDATA[　デジタル化が進むほど、システムの品質はビジネスと直結するようになる。止まったり、間違った結果を返したりするバグがあると、ビジネスに直接ダメージを与えてしまう。こうした欠陥を見つけ出し、品質を確保する関門となるのがテストだ。ただ、十分なテストを実施できているかどうか、実のところ心許ない。]]></description>
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>スマホ技術で革新　ファーウェイのPCは日本で売れるか（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/072500331/</link>
-			<description><![CDATA[　SIMフリースマートフォン市場で人気のファーウェイがパソコン市場へ本格参入した。「Huawei MateBook E」に加え、新たに「Huawei MateBook X」を投入した。同社の強みはパソコン市場でどのように生かされているのか。]]></description>
+			<title>マイナンバー防御策が自治体の「働き方改革」を変えた（議論白熱！セキュリティクラウド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072400306/072400003/</link>
+			<description><![CDATA[　政府が推進する「働き方改革」は自治体には大きな課題となる。「ネットワーク強じん化」では、庁内ネットワークとインターネットとの分離などが求められ、ワークスタイル変革や庁内事務の利便性への影響が避けられない。]]></description>
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>テストで欠陥を見逃す、たった三つの要因（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072400886/</link>
-			<description><![CDATA[　デジタル化が進むほど、システムの品質はビジネスと直結するようになる。止まったり、間違った結果を返したりするバグがあると、ビジネスに直接ダメージを与えてしまう。こうした欠陥を見つけ出し、品質を確保する関門となるのがテストだ。ただ、十分なテストを実施できているかどうか、実のところ心許ない。]]></description>
+			<title>50代エンジニア、転職に新しさを求めず？（エンジニア転職意識調査）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/072400010/</link>
+			<description><![CDATA[　50代エンジニアにとっての転職は、新しいスキルや経験を得られる挑戦よりも、これまでの蓄積を生かせるかが大事――。日経BP社の技術系媒体が実施した「エンジニア転職意識調査」から、そんな傾向が見えてきた。]]></description>
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -149,22 +149,16 @@
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>マイナンバー防御策が自治体の「働き方改革」を変えた（議論白熱！セキュリティクラウド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072400306/072400003/</link>
-			<description><![CDATA[　政府が推進する「働き方改革」は自治体には大きな課題となる。「ネットワーク強じん化」では、庁内ネットワークとインターネットとの分離などが求められ、ワークスタイル変革や庁内事務の利便性への影響が避けられない。]]></description>
+			<title>スマホ技術で革新　ファーウェイのPCは日本で売れるか（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/072500331/</link>
+			<description><![CDATA[　SIMフリースマートフォン市場で人気のファーウェイがパソコン市場へ本格参入した。「Huawei MateBook E」に加え、新たに「Huawei MateBook X」を投入した。同社の強みはパソコン市場でどのように生かされているのか。]]></description>
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>50代エンジニア、転職に新しさを求めず？（エンジニア転職意識調査）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/072400010/</link>
-			<description><![CDATA[　50代エンジニアにとっての転職は、新しいスキルや経験を得られる挑戦よりも、これまでの蓄積を生かせるかが大事――。日経BP社の技術系媒体が実施した「エンジニア転職意識調査」から、そんな傾向が見えてきた。]]></description>
-			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>デバイスをまたいで処理を続けるProject Romeの中身（次のWindows 10を読み解く「Microsoft Graph」と「Project Rome」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100298/072700005/</link>
-			<description><![CDATA[　Project Romeは、Microsoft Graphを利用して作られたマルチプラットフォーム対応のAPIセットだ。Windows 10の今後のアップデートで搭載予定の「Windows Timeline」は、このProject Romeをベースに作られている。]]></description>
-			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
+			<title>ファーウェイが事業説明会、「AIチップセットを世界で最初にスマホに搭載したい」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072702007/</link>
+			<description><![CDATA[　中国ファーウェイは2017年7月27日、コンシューマー事業部門の2017年上半期（2017年1月〜6月）の業績を発表した。記者会見は中国で開催され、世界各国の報道関係者向けに中継された。]]></description>
+			<pubDate>Fri, 28 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>医療機器のセキュリティ、危険をもたらす5つの機能（下）（医療機器のセキュリティ、危険をもたらす5つの機能）</title>
@@ -203,12 +197,6 @@
 <div></div>
 </div>
 ]]></description>
-			<pubDate>Fri, 28 Jul 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ファーウェイが事業説明会、「AIチップセットを世界で最初にスマホに搭載したい」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072702007/</link>
-			<description><![CDATA[　中国ファーウェイは2017年7月27日、コンシューマー事業部門の2017年上半期（2017年1月〜6月）の業績を発表した。記者会見は中国で開催され、世界各国の報道関係者向けに中継された。]]></description>
 			<pubDate>Fri, 28 Jul 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -265,10 +253,22 @@
 			<pubDate>Fri, 28 Jul 2017 15:30:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>ヤフーの2017年4～6月期は増収増益、ソフトバンク連携でEC取扱高増（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072802009/</link>
+			<description><![CDATA[　ヤフーは2017年7月28日、2017年4～6月期の連結決算を発表した。売上高は前年同期比4.1％増の2127億2900万円、営業利益は同2.6％増の522億900万円と増収増益だった。]]></description>
+			<pubDate>Fri, 28 Jul 2017 17:02:11 +0900</pubDate>
+		</item>
+		<item>
 			<title>マネースクウェアの情報漏洩は最大11万件超と判明、丸1年不正アクセスに気づかず（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072802010/</link>
 			<description><![CDATA[　マネースクウェア・ジャパンは2017年7月26日、不正アクセスにより最大11万件超の顧客情報が漏洩した可能性があると発表した。2017年7月13日に不正アクセスを検知して調査したところ、1年前の2016年7月以降断続的に不正アクセスを受けていたことが判明したとしている。]]></description>
 			<pubDate>Fri, 28 Jul 2017 17:14:25 +0900</pubDate>
+		</item>
+		<item>
+			<title>マクドナルドで再びポイントや電子マネー使用不能に、WannaCryとは無関係（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072802012/</link>
+			<description><![CDATA[　日本マクドナルドは2017年7月28日、同月27～28日に商品購入時のdポイントや楽天スーパーポイントの利用、電子マネーを使った決済と、宅配サービス「マックデリバリー」が不能になるトラブルが発生したと発表した。]]></description>
+			<pubDate>Fri, 28 Jul 2017 18:12:03 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
