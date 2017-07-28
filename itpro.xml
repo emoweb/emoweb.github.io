@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>「冷房を効かせたければ金払え」、IoT狙うランサムウエア（今日も誰かが狙われる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/072500007/</link>
+			<description><![CDATA[　「IoTを狙うランサムウエアが出現する」――。誰しもが言いそうなことだ。だが2016年の時点で、エアコンのコントローラーを乗っ取るランサムウエアの実証コードが作られている。感染すると、猛暑日にエアコンから熱風しか出てこなくなる恐れがある。いくらでも“身代金”を払ってしまいそうだ。]]></description>
+			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>工事進行基準は廃止、受託ソフトの会計処理に新基準（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072501071/</link>
 			<description><![CDATA[　日本の会計基準を作成する企業会計基準委員会（ASBJ）は2017年7月20日、企業の売上高に関する会計処理を定める「収益認識基準」の草案を公開した。これまで受託ソフトウエア開発に適用されていた工事進行基準を定めた基準が廃止になるため、ITベンダーの会計処理に影響がある。]]></description>
@@ -66,15 +72,15 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>［特報］ドコモが「＋d」提携先を1000社に拡大へ、吉沢社長が意欲（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601993/</link>
-			<description><![CDATA[　NTTドコモが人工知能（AI）や5G（第5世代移動通信システム）などの提携先を1000社超に拡大することが2017年7月27日までにわかった。吉沢和弘社長が日経コンピュータの取材で明らかにした。]]></description>
+			<title>日立のIoT、9000億円で感じた疑問（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072000885/</link>
+			<description><![CDATA[　日立製作所は2017年5月の決算会見で、成長戦略の中核である「Lumada」の売上高を9000億円と明らかにした。しかし、その内訳には二つの事業があるのだという。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「冷房を効かせたければ金払え」、IoT狙うランサムウエア（今日も誰かが狙われる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/072500007/</link>
-			<description><![CDATA[　「IoTを狙うランサムウエアが出現する」――。誰しもが言いそうなことだ。だが2016年の時点で、エアコンのコントローラーを乗っ取るランサムウエアの実証コードが作られている。感染すると、猛暑日にエアコンから熱風しか出てこなくなる恐れがある。いくらでも“身代金”を払ってしまいそうだ。]]></description>
+			<title>複数のデータを一つの変数にして、格納する配列を使いこなす（安納順一のPowerShell Tips）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800007/</link>
+			<description><![CDATA[　PowerShellのより高度な変数の使い方を覚えよう。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -102,22 +108,10 @@
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>日立のIoT、9000億円で感じた疑問（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072000885/</link>
-			<description><![CDATA[　日立製作所は2017年5月の決算会見で、成長戦略の中核である「Lumada」の売上高を9000億円と明らかにした。しかし、その内訳には二つの事業があるのだという。]]></description>
+			<title>［特報］ドコモが「＋d」提携先を1000社に拡大へ、吉沢社長が意欲（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072601993/</link>
+			<description><![CDATA[　NTTドコモが人工知能（AI）や5G（第5世代移動通信システム）などの提携先を1000社超に拡大することが2017年7月27日までにわかった。吉沢和弘社長が日経コンピュータの取材で明らかにした。]]></description>
 			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>複数のデータを一つの変数にして、格納する配列を使いこなす（安納順一のPowerShell Tips）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/050800007/</link>
-			<description><![CDATA[　PowerShellのより高度な変数の使い方を覚えよう。]]></description>
-			<pubDate>Thu, 27 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>CCJ、グループのケーブル3社提供の公衆Wi-Fi相互接続アプリを投入（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072701998/</link>
-			<description><![CDATA[　CCJは2017年7月25日、グループのシー・ティー・ワイ（CTY、本社：三重県四日市市）、エヌ・シィ・ティ（NCT、本社：新潟県長岡市）、ケーブルネット鈴鹿（CNS、本社：三重県鈴鹿市）の3社が提供する公衆Wi-Fiサービスの相互接続アプリ「CCJコネクト」をリリースしたと発表した。]]></description>
-			<pubDate>Thu, 27 Jul 2017 12:44:59 +0900</pubDate>
 		</item>
 		<item>
 			<title>富士ゼロックス、物体表面のパターンを識別する画像処理技術「Yoctrace」を提供開始（ニュース）</title>
@@ -174,6 +168,12 @@
 			<pubDate>Thu, 27 Jul 2017 22:14:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>ドローン宅配には高いハードル（宅配ピンチ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100301/072300005/</link>
+			<description><![CDATA[　荷物の急増や人手不足で日本の物流業界から悲鳴が上がる中、官民が中長期的な対策として力を入れているのがドローン（小型無人機）を使った宅配サービスだ。]]></description>
+			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>合体スマホ「Moto Z2 Play」が薄く軽く、5万円でもお買い得？（SIMフリースマートフォンを徹底レビュー）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/072600045/</link>
 			<description><![CDATA[　今回紹介するSIMフリースマートフォンは、モトローラ・モビリティ製の「Moto Z2 Play」だ。「Moto Z」シリーズは、同社のフラッグシップに位置付けられるモデル。「Moto Mods」という別売のモジュールを装着して、機能を拡張できることがセールスポイントだ。]]></description>
@@ -216,15 +216,15 @@
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ドローン宅配には高いハードル（宅配ピンチ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100301/072300005/</link>
-			<description><![CDATA[　荷物の急増や人手不足で日本の物流業界から悲鳴が上がる中、官民が中長期的な対策として力を入れているのがドローン（小型無人機）を使った宅配サービスだ。]]></description>
+			<title>破竹の勢いのNetflix、次はどこに向うのか（情総研レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/071200055/</link>
+			<description><![CDATA[　契約数が1億件のマイルストーンに到達したNetflix。米国単体の契約数も5,000万件を突破した。今から20年前に創業し、DVD郵送サービスから始まった同社は、破竹の勢いで従来のTV・映画を含む動画とその周辺の市場に破壊的創造をもたらし続けている。同社はこの先どこに向かうのだろうか。]]></description>
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>IBMメインフレーム、「15年に一度の大型アップデート」（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072701075/</link>
-			<description><![CDATA[　日本IBMは2017年9月13日、大型メインフレームの新機種「z14」の出荷を始める。暗号化機能などセキュリティ面を大幅に強化したのが特徴だ。サイバー攻撃対策を急ぐ企業の需要を取り込み、需要減の逆風に挑む。]]></description>
+			<title>身代金支払いは最後の手段、ランサムウエアから守る手は（ランサムウエア　脅される日本企業）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072500308/072500003/</link>
+			<description><![CDATA[　ランサムウエアの感染を100%防ぐのは不可能だ。まずは感染リスクを抑える「設定変更」と「バックアップ」を徹底し、それでも感染した場合に備え、利用部門や経営層も巻き込んだ訓練を積む。安易に支払わず、攻撃者を遠ざける対策を進めたい。]]></description>
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -282,15 +282,9 @@
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>身代金支払いは最後の手段、ランサムウエアから守る手は（ランサムウエア　脅される日本企業）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072500308/072500003/</link>
-			<description><![CDATA[　ランサムウエアの感染を100%防ぐのは不可能だ。まずは感染リスクを抑える「設定変更」と「バックアップ」を徹底し、それでも感染した場合に備え、利用部門や経営層も巻き込んだ訓練を積む。安易に支払わず、攻撃者を遠ざける対策を進めたい。]]></description>
-			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>破竹の勢いのNetflix、次はどこに向うのか（情総研レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/071200055/</link>
-			<description><![CDATA[　契約数が1億件のマイルストーンに到達したNetflix。米国単体の契約数も5,000万件を突破した。今から20年前に創業し、DVD郵送サービスから始まった同社は、破竹の勢いで従来のTV・映画を含む動画とその周辺の市場に破壊的創造をもたらし続けている。同社はこの先どこに向かうのだろうか。]]></description>
+			<title>IBMメインフレーム、「15年に一度の大型アップデート」（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/072701075/</link>
+			<description><![CDATA[　日本IBMは2017年9月13日、大型メインフレームの新機種「z14」の出荷を始める。暗号化機能などセキュリティ面を大幅に強化したのが特徴だ。サイバー攻撃対策を急ぐ企業の需要を取り込み、需要減の逆風に挑む。]]></description>
 			<pubDate>Fri, 28 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -337,6 +331,47 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 28 Jul 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Chrome最新版、MacBook ProのTouch Barに対応（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/072800400/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Googleは現地時間2017年7月25日、Webブラウザー「Chrome」の最新版であるバージョン60を、Windows／macOS／Linux向けにリリースした。macOS版では、米Appleの新型ノートパソコン「MacBook Pro」の「Touch Bar」をサポートした。また、オンライン決済用の新たなAPIに対応したほか、40件のセキュリティ脆弱性を修正した。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/072800400/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Rob Schultz</div>
+</div>
+<p>
+　Chromeはバックグラウンドで自動更新されるので、ほとんどのユーザーはChromeを再起動するだけで最新版になる。手動で更新するには、ウインドウの右上にある縦3点メニューから、「ヘルプ」を選んで「Google Chromeについて」を開く。最新版であればそのバージョン名が表示され、最新版でなければ更新が始まる。更新が終了するとChromeの再起動を促される。
+</p>
+<p>
+　Googleは、Chromeを6～7週間ごとに更新する。前回のバージョン59は、約7週間前の2017年6月5日に登場した。
+</p>
+<p>
+　バージョン60で新しく提供された機能の多くは、サイト開発者やアプリ開発者を対象とした内部的な機能だ。唯一の例外が、MacBook Proで使えるTouch Barのサポートである。
+</p>
+<p>
+　Appleが2016年10月に発表したMacBook Proは、13インチと15インチの上位モデルが従来のファンクションキーに代えてTouch Barを搭載している。キーボード上部にあるタッチ式のOLED（有機EL）ディスプレイだ。この部分の表示や役割は、使用中のアプリに応じて動的に変わる。当初、Touch Barをサポートしていたのは、「マップ」などのApple製アプリだったが、その後、米Adobe Systemsの「Photoshop」や米Microsoftの「Office」など、サードパーティーのアプリもいくつか追随した。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/072800400/?ST=cm-software&P=2">Apple自身のWebブラウザー「Safari」は、当初からTo...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/072800400/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/072800400/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/072800400/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 28 Jul 2017 10:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
