@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>経産省、不正競争防止法改正でデータ無断利用に歯止め検討（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072802008/</link>
-			<description><![CDATA[　経済産業省は企業が会員向けや売買のために作成したデータの不正取得や流通の防止を目的に不正競争防止法を改正する。2017年7月27日に産業構造審議会の不正競争防止小委員会で検討を始め、次期通常国会に改正案を提出する。]]></description>
-			<pubDate>Fri, 28 Jul 2017 15:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ヤフーの2017年4～6月期は増収増益、ソフトバンク連携でEC取扱高増（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/072802009/</link>
 			<description><![CDATA[　ヤフーは2017年7月28日、2017年4～6月期の連結決算を発表した。売上高は前年同期比4.1％増の2127億2900万円、営業利益は同2.6％増の522億900万円と増収増益だった。]]></description>
@@ -59,6 +53,12 @@
 			<pubDate>Fri, 28 Jul 2017 21:44:50 +0900</pubDate>
 		</item>
 		<item>
+			<title>どうする、クラウドの“野良サーバー”（編集長の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/072500042/</link>
+			<description><![CDATA[　ユーザー企業がパブリッククラウドサービスを導入し、システム部門（インフラ運用担当者やセキュリティ担当者）が利用可能なOSやミドルウエア、データ暗号化、管理用タグなどの全社ルールを定めたうえで、各事業部門にその範囲で仮想マシンを自由に使わせると、決まって生じる問題がある。]]></description>
+			<pubDate>Mon, 31 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>国内初の「アマゾン・ロボティクス・チャレンジ」、ロボットが棚入れ棚出し競う（アマゾン・ロボティクス・チャレンジ報告）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072700317/072700001/</link>
 			<description><![CDATA[　ロボットが自ら考えているかのように箱の中の商品を探し、別の箱に移していく──。2017年7月27日〜30日、世界をリードするロボットの競技会「アマゾン・ロボティクス・チャレンジ」が愛知県名古屋市で開かれた。世界10の国・地域から16チームが参加し、賞金総額25万ドルを争った。]]></description>
@@ -83,9 +83,9 @@
 			<pubDate>Mon, 31 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>どうする、クラウドの“野良サーバー”（編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/072500042/</link>
-			<description><![CDATA[　ユーザー企業がパブリッククラウドサービスを導入し、システム部門（インフラ運用担当者やセキュリティ担当者）が利用可能なOSやミドルウエア、データ暗号化、管理用タグなどの全社ルールを定めたうえで、各事業部門にその範囲で仮想マシンを自由に使わせると、決まって生じる問題がある。]]></description>
+			<title>悩ましい、オープンデータを推進する意義（議論白熱！セキュリティクラウド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072400306/072400004/</link>
+			<description><![CDATA[　都道府県CIOフォーラムでは、官民データ活用推進基本法の議員立法で中核的な役割を果たした、ふくだ峰之衆議院議員が講演。これに対し、活発に質問が寄せられた。]]></description>
 			<pubDate>Mon, 31 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Mon, 31 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>車載IoTで徘徊運転をキャッチ（健康IoT）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100303/072600001/</link>
-			<description><![CDATA[　オリックス自動車が2017年2月に始めた「Ever Drive」は高齢ドライバーをIoTで見守るサービスだ。第3世代携帯電話（3G）とGPSを内蔵した車載機を高齢者の自家用車に装着。GPSで取得した走行ルートの履歴と自動車の速度データを記録し、家族がスマートフォンやPCで参照できるようにした。]]></description>
+			<title>経営層はIT部門に期待ゼロ、三流部署から逃げ出すべし（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/072700149/</link>
+			<description><![CDATA[　「木村さん、変だと思わない？」 大企業のIT部門の人がこんなふうにボヤキ始めた。何の話かと言うとCIOの“格”のことだ。CIOはその企業も含め多くの企業で、ヒラの執行役員に留め置かれている。「ITの重要性が高まっているのに、なぜCIOは“偉く”ならないんでしょうね」とボヤキはしばらく続いた。]]></description>
 			<pubDate>Mon, 31 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>悩ましい、オープンデータを推進する意義（議論白熱！セキュリティクラウド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072400306/072400004/</link>
-			<description><![CDATA[　都道府県CIOフォーラムでは、官民データ活用推進基本法の議員立法で中核的な役割を果たした、ふくだ峰之衆議院議員が講演。これに対し、活発に質問が寄せられた。]]></description>
+			<title>ARの本命はモバイル、アップルにグーグルやフェイスブックが競い合う（シリコンバレーVR通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052800216/072600004/</link>
+			<description><![CDATA[　AR分野の本命はスマートフォンを使った「モバイルAR」である可能性が高いと筆者は感じている。既に世の中にあるスマホを、ソフトウエアの力でAR対応デバイスに変えることができるからだ。直近の数カ月で米フェイスブック、米スナップ、米グーグル、米アップルがそれぞれ発表した内容は、その可能性を感じさせるものだった。]]></description>
 			<pubDate>Mon, 31 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -161,15 +161,9 @@
 			<pubDate>Mon, 31 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>経営層はIT部門に期待ゼロ、三流部署から逃げ出すべし（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/072700149/</link>
-			<description><![CDATA[　「木村さん、変だと思わない？」 大企業のIT部門の人がこんなふうにボヤキ始めた。何の話かと言うとCIOの“格”のことだ。CIOはその企業も含め多くの企業で、ヒラの執行役員に留め置かれている。「ITの重要性が高まっているのに、なぜCIOは“偉く”ならないんでしょうね」とボヤキはしばらく続いた。]]></description>
-			<pubDate>Mon, 31 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ARの本命はモバイル、アップルにグーグルやフェイスブックが競い合う（シリコンバレーVR通信）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052800216/072600004/</link>
-			<description><![CDATA[　AR分野の本命はスマートフォンを使った「モバイルAR」である可能性が高いと筆者は感じている。既に世の中にあるスマホを、ソフトウエアの力でAR対応デバイスに変えることができるからだ。直近の数カ月で米フェイスブック、米スナップ、米グーグル、米アップルがそれぞれ発表した内容は、その可能性を感じさせるものだった。]]></description>
+			<title>車載IoTで徘徊運転をキャッチ（健康IoT）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100303/072600001/</link>
+			<description><![CDATA[　オリックス自動車が2017年2月に始めた「Ever Drive」は高齢ドライバーをIoTで見守るサービスだ。第3世代携帯電話（3G）とGPSを内蔵した車載機を高齢者の自家用車に装着。GPSで取得した走行ルートの履歴と自動車の速度データを記録し、家族がスマートフォンやPCで参照できるようにした。]]></description>
 			<pubDate>Mon, 31 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -256,6 +250,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/073102017/</link>
 			<description><![CDATA[　住信SBIネット銀行は「Teradata Data Warehouse Appliance（Teradata）」を導入し、2017年5月に本稼働を開始した。同年7月31日に日本テラデータが発表した。]]></description>
 			<pubDate>Mon, 31 Jul 2017 11:05:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>［特報］ローソンが新銀行の勘定系に三菱UFJの共同システム導入へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/073102019/</link>
+			<description><![CDATA[　ローソンが設立準備を進める新銀行の勘定系システムに三菱東京UFJ銀行が地銀向けに提供する共同システムを導入する方針を固めたことが日経コンピュータの取材で2017年7月31日までに分かった。]]></description>
+			<pubDate>Mon, 31 Jul 2017 13:41:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
