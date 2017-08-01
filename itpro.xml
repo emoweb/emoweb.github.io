@@ -5,34 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>クラウドコンピューティングの真の意味（上）（クラウドコンピューティングの真の意味）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/072400057/072400001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　クラウドコンピューティングの「クラウド（雲）」という言葉は、ネットワーク図の中でインターネットを雲の絵で表していたことに由来する。そのイメージのとおり、クラウドコンピューティングというと、最も一般的な意味では、クラウド事業者のデータセンターで動くワークロードを、別の場所からインターネット経由で利用することを表す。いわゆる「パブリッククラウド」のモデルだ。米Amazon.comのAmazon Web Services（AWS）、米Salesforce.comのCRM（顧客管理）システム、米GoogleのGoogle Cloud Platformは、いずれもこうした一般的な意味で言うクラウドコンピューティングに該当する。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400057/072400001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　だが、クラウドコンピューティングをもっと厳密に表現すれば、データセンターのリソースをソフトウエア定義のプールとして仮想化して、一元的に管理することを意味する。こちらは、パブリッククラウド事業者がサービスをどのように動かすかという観点に沿った技術的な定義だ。この稼働方法の大きなメリットは俊敏性だ。すなわち、コンピューティング、ストレージ、ネットワークのリソースを抽象化して、必要に応じてワークロードに適用し、構築済みの多種多様なサービスを利用できることである。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400057/072400001/?ST=cm-cloud&P=2">ユーザー企業から見ると、パブリッククラウドは、新たな機能をオンデ...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400057/072400001/?ST=cm-cloud&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400057/072400001/?ST=cm-cloud&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400057/072400001/?ST=cm-cloud&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400057/072400001/?ST=cm-cloud&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 31 Jul 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>稼働率の数字の罠、クラウドベンダーがうたう「99.5％」は本当か？（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/073100347/</link>
 			<description><![CDATA[<div>
@@ -151,21 +123,27 @@
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>「段取りが悪い」とこぼす部長　「タイムボックス」で時間重視に（脱・ザンネン社員）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/071300007/</link>
+			<description><![CDATA[　いつも忙しくしているだけの人と仕事ができる人の違いはどこにあるのか。重要なポイントが、段取りと手際の良さだ。とにかく目の前の仕事から片付けていくのも大事だが、時間は有限。]]></description>
+			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>収益力ランキング：利益率45％、不動の首位のオービック（ITサービス企業業績・給与ランキング2017）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600312/072700002/</link>
 			<description><![CDATA[　収益力（売上高営業利益率）ランキングも作成した。首位はオービック。長年にわたり不動のトップだ。営業利益率は45.3％と2位以下に大差をつけた。2017年度の営業利益率は46.2％と、さらなる収益力の成長を見込む。]]></description>
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ネイティブアプリ全盛の今、ブラウザーゲームに力を入れるヤフーの思惑（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/072400116/</link>
-			<description><![CDATA[　ヤフーは2017年7月18日、アプリではなくWebブラウザーを活用した新しいゲームプラットフォーム「ゲームプラス」を開始した。スマートフォンではアプリによるゲームが全盛の中にあって、ヤフーがブラウザーゲームのプラットフォームを立ち上げるに至った背景には何があるのだろうか。]]></description>
+			<title>ピークやDDoSの対策に有効なCDN、クラウド連携や価格下落でお手軽度向上（徹底解説CDN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100002/</link>
+			<description><![CDATA[　CDNサービスは、料金が高い、導入しにくいといったイメージが強い。ところが、ここ2、3年で状況は大きく変化した。]]></description>
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「段取りが悪い」とこぼす部長　「タイムボックス」で時間重視に（脱・ザンネン社員）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/071300007/</link>
-			<description><![CDATA[　いつも忙しくしているだけの人と仕事ができる人の違いはどこにあるのか。重要なポイントが、段取りと手際の良さだ。とにかく目の前の仕事から片付けていくのも大事だが、時間は有限。]]></description>
+			<title>アマゾン・ロボティクス・チャレンジ、日本勢1位は初参加のNAIST-Panasonicチーム（アマゾン・ロボティクス・チャレンジ報告）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072700317/073100003/</link>
+			<description><![CDATA[　2017年7月27〜30日に開催したロボットの競技会「アマゾン・ロボティクス・チャレンジ」には日本から4チームが参加した。NAIST-Panasonicチームは初参加ながら日本勢で唯一決勝ラウンドに出場した。]]></description>
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -223,15 +201,9 @@
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ピークやDDoSの対策に有効なCDN、クラウド連携や価格下落でお手軽度向上（徹底解説CDN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100002/</link>
-			<description><![CDATA[　CDNサービスは、料金が高い、導入しにくいといったイメージが強い。ところが、ここ2、3年で状況は大きく変化した。]]></description>
-			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>アマゾン・ロボティクス・チャレンジ、日本勢1位は初参加のNAIST-Panasonicチーム（アマゾン・ロボティクス・チャレンジ報告）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072700317/073100003/</link>
-			<description><![CDATA[　2017年7月27〜30日に開催したロボットの競技会「アマゾン・ロボティクス・チャレンジ」には日本から4チームが参加した。NAIST-Panasonicチームは初参加ながら日本勢で唯一決勝ラウンドに出場した。]]></description>
+			<title>ネイティブアプリ全盛の今、ブラウザーゲームに力を入れるヤフーの思惑（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/072400116/</link>
+			<description><![CDATA[　ヤフーは2017年7月18日、アプリではなくWebブラウザーを活用した新しいゲームプラットフォーム「ゲームプラス」を開始した。スマートフォンではアプリによるゲームが全盛の中にあって、ヤフーがブラウザーゲームのプラットフォームを立ち上げるに至った背景には何があるのだろうか。]]></description>
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -309,6 +281,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080102033/</link>
 			<description><![CDATA[　ソニーネットワークコミュニケーションズは2017年8月1日、記者発表会を開催し、MVNOサービス「nuroモバイル」の新サービスを発表した。データが足りないときに翌月分を前借りできる「データ前借り」、深夜の時間帯のみ無制限に使える「深夜割」などを発表した。]]></description>
 			<pubDate>Tue, 01 Aug 2017 13:27:07 +0900</pubDate>
+		</item>
+		<item>
+			<title>2020年にクラウドシェア1位、日本MSが3カ年目標示す（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080102034/</link>
+			<description><![CDATA[　日本マイクロソフトは2017年8月1日、7月1日に始まった同社新会計年度（2018年度）の経営方針を説明した。平野拓也社長は2020年に向けた3カ年目標として、パブリッククラウド市場でシェア1位を掲げた。]]></description>
+			<pubDate>Tue, 01 Aug 2017 14:57:52 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
