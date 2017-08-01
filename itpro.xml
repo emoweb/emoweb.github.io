@@ -11,24 +11,6 @@
 			<pubDate>Mon, 31 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>［特報］ローソンが新銀行の勘定系に三菱UFJの共同システム導入へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/073102019/</link>
-			<description><![CDATA[　ローソンが設立準備を進める新銀行の勘定系システムに三菱東京UFJ銀行が地銀向けに提供する共同システムを導入する方針を固めたことが日経コンピュータの取材で2017年7月31日までに分かった。]]></description>
-			<pubDate>Mon, 31 Jul 2017 13:41:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>東北新社がスカパー・エンターテイメントなど3社から衛星放送事業を承継へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/073102020/</link>
-			<description><![CDATA[　東北新社は2017年7月28日、同日開催の取締役会において、衛星放送事業者3社の東経110度CS放送事業を承継することを決議したと発表した。]]></description>
-			<pubDate>Mon, 31 Jul 2017 13:57:12 +0900</pubDate>
-		</item>
-		<item>
-			<title>より柔軟な働き方に改革、NTTコムウェアが今夏の施策を公表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/073102021/</link>
-			<description><![CDATA[　NTTコムウェアは2017年7月31日、自社の働き方改革の取り組みについて記者説明会を開催した。2017年7月から9月にかけて、従来の勤務制度をより柔軟に活用する施策を講じていることを明かした。]]></description>
-			<pubDate>Mon, 31 Jul 2017 17:36:29 +0900</pubDate>
-		</item>
-		<item>
 			<title>SAP S/4HANAを中堅企業へ、NTTデータグループ会社が提供（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/073102024/</link>
 			<description><![CDATA[　NTTデータ グローバルソリューションズは2017年7月31日、小売や商社、外食業界の中堅企業に向けたクラウドサービス「GBMT（Global Business Model for Trading Company） Cloud with SAP S/4HANA」の提供を始めたと発表した。]]></description>
@@ -72,6 +54,24 @@
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>AWSのRedshift Spectrum、知っておきたいデータ分析基盤の仕組み（AWS ビッグデータ基盤の実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072700316/072700003/</link>
+			<description><![CDATA[　米Amazon Web Servicesが2017年4月に一般提供を開始した、ビッグデータ分析の新しいクラウドサービス「Amazon Redshift Spectrum」。安価に利用でき、データ容量の上限を無くせる、運用が容易になるといった特徴を持つ。これらの特徴を実現する仕組みを解説する。]]></description>
+			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ホワイトボードの文字まで検索、会議をあとから振り返るならEvernote（会議に役立つ！PC活用のワザ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100304/072700004/</link>
+			<description><![CDATA[　デジタルノートサービスのEvernoteは、細かく分類することを基本としていない。議事録として書いたノートを整理せず、まとめてEvernoteに放り込み、後で検索して探し出すという使い方を前提としている。]]></description>
+			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>収益力ランキング：利益率45％、不動の首位のオービック（ITサービス企業業績・給与ランキング2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600312/072700002/</link>
+			<description><![CDATA[　収益力（売上高営業利益率）ランキングも作成した。首位はオービック。長年にわたり不動のトップだ。営業利益率は45.3％と2位以下に大差をつけた。2017年度の営業利益率は46.2％と、さらなる収益力の成長を見込む。]]></description>
+			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>日立や東電が使うIoTの老舗、OSIsoftはレガシーと最新ITをつなぐ（ソフトバンクはジェントルマン）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600311/073100004/</link>
 			<description><![CDATA[　2017年5月31日（米国時間）にソフトバンクグループから出資を受けたと発表した米OSIsoft。同社は1980年の創業からデータ収集と分析のソフトウエアを製造業向けに提供してきた。]]></description>
@@ -90,9 +90,9 @@
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「段取りが悪い」とこぼす部長　「タイムボックス」で時間重視に（脱・ザンネン社員）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/071300007/</link>
-			<description><![CDATA[　いつも忙しくしているだけの人と仕事ができる人の違いはどこにあるのか。重要なポイントが、段取りと手際の良さだ。とにかく目の前の仕事から片付けていくのも大事だが、時間は有限。]]></description>
+			<title>Amazon PollyでAIアナウンサー、AWS機械学習がじわり浸透（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/073101077/</link>
+			<description><![CDATA[　アマゾン ウェブ サービス ジャパンは2017年7月31日、同社がAmazon Web Services（AWS）で提供する機械学習サービス「Amazon Polly」と「Rekognition」について、国内における最新の導入事例を紹介した。]]></description>
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -102,9 +102,9 @@
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>収益力ランキング：利益率45％、不動の首位のオービック（ITサービス企業業績・給与ランキング2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600312/072700002/</link>
-			<description><![CDATA[　収益力（売上高営業利益率）ランキングも作成した。首位はオービック。長年にわたり不動のトップだ。営業利益率は45.3％と2位以下に大差をつけた。2017年度の営業利益率は46.2％と、さらなる収益力の成長を見込む。]]></description>
+			<title>思わず膝を打った！すぐに使えるExcel便利ワザ（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/072800133/</link>
+			<description><![CDATA[　今回は、Excelの便利な機能を5つ紹介する。これらのテクニックは、書籍を執筆するにあたっての取材で知ったもので、僕自身も知ったときには思わず膝を打った。Excelの便利ワザは記事や書籍をよく見るが、まだまだ知らないものがあるものだ。]]></description>
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -132,27 +132,9 @@
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Amazon PollyでAIアナウンサー、AWS機械学習がじわり浸透（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/073101077/</link>
-			<description><![CDATA[　アマゾン ウェブ サービス ジャパンは2017年7月31日、同社がAmazon Web Services（AWS）で提供する機械学習サービス「Amazon Polly」と「Rekognition」について、国内における最新の導入事例を紹介した。]]></description>
-			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>思わず膝を打った！すぐに使えるExcel便利ワザ（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/072800133/</link>
-			<description><![CDATA[　今回は、Excelの便利な機能を5つ紹介する。これらのテクニックは、書籍を執筆するにあたっての取材で知ったもので、僕自身も知ったときには思わず膝を打った。Excelの便利ワザは記事や書籍をよく見るが、まだまだ知らないものがあるものだ。]]></description>
-			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AWSのRedshift Spectrum、知っておきたいデータ分析基盤の仕組み（AWS ビッグデータ基盤の実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072700316/072700003/</link>
-			<description><![CDATA[　米Amazon Web Servicesが2017年4月に一般提供を開始した、ビッグデータ分析の新しいクラウドサービス「Amazon Redshift Spectrum」。安価に利用でき、データ容量の上限を無くせる、運用が容易になるといった特徴を持つ。これらの特徴を実現する仕組みを解説する。]]></description>
-			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ホワイトボードの文字まで検索、会議をあとから振り返るならEvernote（会議に役立つ！PC活用のワザ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100304/072700004/</link>
-			<description><![CDATA[　デジタルノートサービスのEvernoteは、細かく分類することを基本としていない。議事録として書いたノートを整理せず、まとめてEvernoteに放り込み、後で検索して探し出すという使い方を前提としている。]]></description>
+			<title>「段取りが悪い」とこぼす部長　「タイムボックス」で時間重視に（脱・ザンネン社員）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/071300007/</link>
+			<description><![CDATA[　いつも忙しくしているだけの人と仕事ができる人の違いはどこにあるのか。重要なポイントが、段取りと手際の良さだ。とにかく目の前の仕事から片付けていくのも大事だが、時間は有限。]]></description>
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -254,6 +236,24 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080102037/</link>
 			<description><![CDATA[　日本IBMは2017年8月1日、アプリケーション性能管理（APM）ツール「IBM Cloud Application Performance Management」の提供を開始した。アプリケーションの応答を監視して性能低下を検知する。性能低下の原因を切り分ける機能も持つ。]]></description>
 			<pubDate>Tue, 01 Aug 2017 17:03:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>「Jp+w2st0pass16%」この複雑なパスワードはどう作る？（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080102038/</link>
+			<description><![CDATA[　JPCERTコーディネーションセンターは2017年8月1日、パスワードの正しい使い方を呼びかけるキャンペーン「STOP!!パスワード使い回し!!」を開始した。Webサイトごとに異なるパスワードを設定し、推測されづらい複雑なパスワードを設定するように呼びかける。]]></description>
+			<pubDate>Tue, 01 Aug 2017 18:43:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>VAIO新社長が経営方針を説明、中国再進出やVR新事業など発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080102039/</link>
+			<description><![CDATA[　VAIOは2017年8月1日、都内で経営方針説明会を開催し、7月に会社設立から3周年を迎えた同社について、中国市場への進出やVRソリューション事業への参入など新たな事業戦略を発表した。]]></description>
+			<pubDate>Tue, 01 Aug 2017 18:53:30 +0900</pubDate>
+		</item>
+		<item>
+			<title>他人の名前で標的型攻撃の訓練をするな、IPAがポイント解説を公開（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080102041/</link>
+			<description><![CDATA[　実在する他組織の名前を標的型攻撃メール訓練で勝手に使ってはならない――。独立行政法人情報処理推進機構（IPA）は2017年7月31日、「組織における標的型攻撃メール訓練は実施目的を明確に」と題した文書を公開。標的型攻撃メール訓練で気を付けるべきポイントを解説している。]]></description>
+			<pubDate>Tue, 01 Aug 2017 19:12:58 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
