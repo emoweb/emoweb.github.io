@@ -5,29 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Androidスマホに直挿し全天球 カメラ「720C100」 フロンティアが発売。直販価格7980円（税抜）
-</title>
-			<link>http://japanese.engadget.com/2017/07/30/android-720c100-7980/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/861191ddc8e8a5c9bc06a5dd4c1bfb67/205522003/%3F%3F%3F%3F%3F%3F%3F%3F%3F+2017-07-29+19.27.54.png" />
-
-BTOパソコンのフロンティア（インパースネット）は、Androidスマートフォンに直接接続できる全天球カメラ「720C100」を発売しました。直販サイトでの価格は7980円（税抜）。
-
-720C100は、USB OTG対応のAndroidスマートフォンに直接接続可能な全天球カメラ。専用アプリ「VPai」を使って利用します。
-
-2つのレンズで360度（全天球）をカバー、動画は1920 x 960ドット / 25fps、または2048 x 1024ドット / 25fpsでの撮影に対応。スマートフォンの性能によってはフレームレートが落ちる模様。静止画は400万画素相当。
-
-<p><a href="http://japanese.engadget.com/gallery/720c100/" title="全天球 カメラ「720C100」">【ギャラリー】全天球 カメラ「720C100」 (5枚)</a></p>
-
-映像はパノラマモードや、いわゆるリトルプラネットなどで表示可能。動画撮影や静止画撮影だけでなく、FacebookやTwitter、YouTubeなどのライブ配信もサポートしています。
-
-Type-Cコネクタ、MicroUSBコネクタを同梱。大きさ41 x 41 x 42mmで、重さは約36g。ボディカラーはブラック、ホワイト、ブルーの3種類。
-
- 
-
- ]]></description>
-			<pubDate>Sun, 30 Jul 2017 18:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    『ホリエモンロケット』打ち上げ失敗、堀江氏「貴重なデータが取れた」とリベンジ誓う
 </title>
 			<link>http://japanese.engadget.com/2017/07/30/rocket/</link>
@@ -696,6 +673,20 @@ TechCrunch Japanでは午後に玉川CEOへのインタビューを行い、続�
 （TechCrunch Japanからの転載）
  ]]></description>
 			<pubDate>Wed, 02 Aug 2017 09:45:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    IoTで「農業効率化」目指す実証実験、KDDIが開始。畑の外気温・湿度・含水率等を可視化
+</title>
+			<link>http://japanese.engadget.com/2017/08/01/iot-kddi/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/84da935486b22ca7bb2cf3bd8036028b/205527883/%3F%3F%3F%3F%3F%3F%3F%3F%3F+2017-08-01+18.39.53.png" />
+
+KDDIやシスコなどは、IoTを活用した農業効率化の実証実験を北海道で開始しました。IoT向け無線通信「LoRaWAN」を活用。センサーで取得した各種情報をもとに、「種まき」「水やり」といった農作業を最適化。廃棄ロスの削減など農作物の効率供給を目指すとしています。
+
+この実証実験では、低コスト・低消費電力で広域をカバーするIoT向け無線通信「LoRaWAN」を活用。露地栽培で重要な「外気温」や「湿度」、「土中の温度」や「含水率」等をIoTセンサーで測定し、リアルタイムで可視化します。それに基づいて、最適な出荷時期の把握や、水やりなどの農作業を最適化することで、大根等の農作物の効率供給を目指すとしています。
+
+また、従来の農業は属人的で暗黙知であったといい、知識・技術の継承に課題があったといいます。一方、IoTを使えば、農作物育成に関する知識・技術のデータ化および蓄積が可能に。これを体系化することで「後継者育成課題の解決」に貢献するとしているほか、AIを使った農業の自動化にも役立ちそうです。
+ ]]></description>
+			<pubDate>Wed, 02 Aug 2017 11:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>

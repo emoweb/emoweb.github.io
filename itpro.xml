@@ -5,6 +5,24 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>ネイティブアプリ全盛の今、ブラウザーゲームに力を入れるヤフーの思惑（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/072400116/</link>
+			<description><![CDATA[　ヤフーは2017年7月18日、アプリではなくWebブラウザーを活用した新しいゲームプラットフォーム「ゲームプラス」を開始した。スマートフォンではアプリによるゲームが全盛の中にあって、ヤフーがブラウザーゲームのプラットフォームを立ち上げるに至った背景には何があるのだろうか。]]></description>
+			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Amazon PollyでAIアナウンサー、AWS機械学習がじわり浸透（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/073101077/</link>
+			<description><![CDATA[　アマゾン ウェブ サービス ジャパンは2017年7月31日、同社がAmazon Web Services（AWS）で提供する機械学習サービス「Amazon Polly」と「Rekognition」について、国内における最新の導入事例を紹介した。]]></description>
+			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「段取りが悪い」とこぼす部長　「タイムボックス」で時間重視に（脱・ザンネン社員）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/071300007/</link>
+			<description><![CDATA[　いつも忙しくしているだけの人と仕事ができる人の違いはどこにあるのか。重要なポイントが、段取りと手際の良さだ。とにかく目の前の仕事から片付けていくのも大事だが、時間は有限。]]></description>
+			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>オープンデータ2.0（電子行政：キーワード）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/14/260942/071200016/</link>
 			<description><![CDATA[　「オープンデータ2.0」とは、政府が2012年に「電子行政オープンデータ戦略」を打ち出して以来、政府や自治体が推進してきたオープンデータ施策について、より具体的な社会課題の解決や利活用を促進することに重点を移した新しい取り組みの総称です。]]></description>
@@ -35,9 +53,9 @@
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>日立や東電が使うIoTの老舗、OSIsoftはレガシーと最新ITをつなぐ（ソフトバンクはジェントルマン）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600311/073100004/</link>
-			<description><![CDATA[　2017年5月31日（米国時間）にソフトバンクグループから出資を受けたと発表した米OSIsoft。同社は1980年の創業からデータ収集と分析のソフトウエアを製造業向けに提供してきた。]]></description>
+			<title>ホワイトボードの文字まで検索、会議をあとから振り返るならEvernote（会議に役立つ！PC活用のワザ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100304/072700004/</link>
+			<description><![CDATA[　デジタルノートサービスのEvernoteは、細かく分類することを基本としていない。議事録として書いたノートを整理せず、まとめてEvernoteに放り込み、後で検索して探し出すという使い方を前提としている。]]></description>
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -47,9 +65,9 @@
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ネイティブアプリ全盛の今、ブラウザーゲームに力を入れるヤフーの思惑（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/072400116/</link>
-			<description><![CDATA[　ヤフーは2017年7月18日、アプリではなくWebブラウザーを活用した新しいゲームプラットフォーム「ゲームプラス」を開始した。スマートフォンではアプリによるゲームが全盛の中にあって、ヤフーがブラウザーゲームのプラットフォームを立ち上げるに至った背景には何があるのだろうか。]]></description>
+			<title>AWSのRedshift Spectrum、知っておきたいデータ分析基盤の仕組み（AWS ビッグデータ基盤の実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072700316/072700003/</link>
+			<description><![CDATA[　米Amazon Web Servicesが2017年4月に一般提供を開始した、ビッグデータ分析の新しいクラウドサービス「Amazon Redshift Spectrum」。安価に利用でき、データ容量の上限を無くせる、運用が容易になるといった特徴を持つ。これらの特徴を実現する仕組みを解説する。]]></description>
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -71,46 +89,10 @@
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ホワイトボードの文字まで検索、会議をあとから振り返るならEvernote（会議に役立つ！PC活用のワザ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100304/072700004/</link>
-			<description><![CDATA[　デジタルノートサービスのEvernoteは、細かく分類することを基本としていない。議事録として書いたノートを整理せず、まとめてEvernoteに放り込み、後で検索して探し出すという使い方を前提としている。]]></description>
+			<title>日立や東電が使うIoTの老舗、OSIsoftはレガシーと最新ITをつなぐ（ソフトバンクはジェントルマン）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600311/073100004/</link>
+			<description><![CDATA[　2017年5月31日（米国時間）にソフトバンクグループから出資を受けたと発表した米OSIsoft。同社は1980年の創業からデータ収集と分析のソフトウエアを製造業向けに提供してきた。]]></description>
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Amazon PollyでAIアナウンサー、AWS機械学習がじわり浸透（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/073101077/</link>
-			<description><![CDATA[　アマゾン ウェブ サービス ジャパンは2017年7月31日、同社がAmazon Web Services（AWS）で提供する機械学習サービス「Amazon Polly」と「Rekognition」について、国内における最新の導入事例を紹介した。]]></description>
-			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AWSのRedshift Spectrum、知っておきたいデータ分析基盤の仕組み（AWS ビッグデータ基盤の実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072700316/072700003/</link>
-			<description><![CDATA[　米Amazon Web Servicesが2017年4月に一般提供を開始した、ビッグデータ分析の新しいクラウドサービス「Amazon Redshift Spectrum」。安価に利用でき、データ容量の上限を無くせる、運用が容易になるといった特徴を持つ。これらの特徴を実現する仕組みを解説する。]]></description>
-			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「段取りが悪い」とこぼす部長　「タイムボックス」で時間重視に（脱・ザンネン社員）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/071300007/</link>
-			<description><![CDATA[　いつも忙しくしているだけの人と仕事ができる人の違いはどこにあるのか。重要なポイントが、段取りと手際の良さだ。とにかく目の前の仕事から片付けていくのも大事だが、時間は有限。]]></description>
-			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ビットコインの分裂迫る、取引所は送金一時停止などで備え（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080102031/</link>
-			<description><![CDATA[　2017年8月1日夜に、仮想通貨「ビットコイン（Bitcoin）」が分裂する可能性が高まっている。ビットコインの取引所は、ビットコインに関する一部サービスの一時的な停止や、分岐先である「ビットコインキャッシュ（Bitcoin Cash）」の提供準備を実施して、状況を見守っている。]]></description>
-			<pubDate>Tue, 01 Aug 2017 11:39:36 +0900</pubDate>
-		</item>
-		<item>
-			<title>nuroモバイルがMVNO初の「データ前借り」を開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080102033/</link>
-			<description><![CDATA[　ソニーネットワークコミュニケーションズは2017年8月1日、記者発表会を開催し、MVNOサービス「nuroモバイル」の新サービスを発表した。データが足りないときに翌月分を前借りできる「データ前借り」、深夜の時間帯のみ無制限に使える「深夜割」などを発表した。]]></description>
-			<pubDate>Tue, 01 Aug 2017 13:27:07 +0900</pubDate>
-		</item>
-		<item>
-			<title>2020年にクラウドシェア1位、日本MSが3カ年目標示す（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080102034/</link>
-			<description><![CDATA[　日本マイクロソフトは2017年8月1日、7月1日に始まった同社新会計年度（2018年度）の経営方針を説明した。平野拓也社長は2020年に向けた3カ年目標として、パブリッククラウド市場でシェア1位を掲げた。]]></description>
-			<pubDate>Tue, 01 Aug 2017 14:57:52 +0900</pubDate>
 		</item>
 		<item>
 			<title>ヤフー、ジャパンネット銀行を連結子会社化（ニュース）</title>
@@ -173,6 +155,24 @@
 			<pubDate>Tue, 01 Aug 2017 21:42:32 +0900</pubDate>
 		</item>
 		<item>
+			<title>Office 365の使い方をあの手この手で全社展開、オリックス（Office 365使いこなし術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800291/072600003/</link>
+			<description><![CDATA[　オリックスグループでは約1万5000人が、メールや予定表の用途でOffice 365を使っている。使いこなすには同社の業務改革室の地道な取り組みが鍵となっている。]]></description>
+			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>今度はAndroid Payだけで、西へ向かってどこまで行けるか試してみた（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072700888/</link>
+			<description><![CDATA[　先日、少し古いAndroidスマートフォンのホーム画面を見ていて、Android Payをほとんど使っていないことに気が付いた。半年前にApple Payだけでどのくらい遠くまで行けるかを試したので、今回はAndroid Payで同じ実験をしてみようと思いついた。]]></description>
+			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「アップルの3つの国内工場」発言、トランプ大統領は米国生産を諦めない（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/073100052/</link>
+			<description><![CDATA[　Wall Street Journalに掲載されたトランプ大統領へのインタビューは驚きを持って受け止められた。「アップルのティム・クックCEOがアメリカに大規模な工場を3つ作る」と話したからだ。]]></description>
+			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>介護者の巡回をエアコンが肩代わり（健康IoT）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100303/072600003/</link>
 			<description><![CDATA[　「職員の負担が減った」。パナソニック子会社のパナソニック エイジフリーが運営するサービス付き高齢者住宅（サ高住）では職員の安堵する声が聞こえるようになった。パナソニックが2016年10月に商用化した「エアコンみまもりサービス」の効果だ。]]></description>
@@ -191,15 +191,15 @@
 			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Office 365の使い方をあの手この手で全社展開、オリックス（Office 365使いこなし術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800291/072600003/</link>
-			<description><![CDATA[　オリックスグループでは約1万5000人が、メールや予定表の用途でOffice 365を使っている。使いこなすには同社の業務改革室の地道な取り組みが鍵となっている。]]></description>
+			<title>高速通信を実現するCDNが効率よくデータを配信する工夫（徹底解説CDN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100003/</link>
+			<description><![CDATA[　CDNサービスでは、ユーザーは最寄りの配信サーバーからデータをダウンロードできる。では、どうやって配信サーバーにファイルを振り分けているのか。その方法は、ミラー型とキャッシュ型に分類できる。]]></description>
 			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>データ分析の準備をAIで自動化、米GEのIoT基盤「Predix」（シリコンバレーNextレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/080100117/</link>
-			<description><![CDATA[　センサーデータを分析する際に最も手間がかかるのは、データの「種類」や「関係性」を見極める作業だ。米General Electric（GE）はインダストリアルIoT（Internet of Things）のプラットフォームである「Predix」に、こうした作業を自動化するAI（人工知能）を追加する。データ分析における「手作業」を減らすことで、センサーデータの活用を促進する狙いだ。]]></description>
+			<title>「Windows 7の9割はChromebookへ移行する」、東急ハンズ（Windows 7はいつやめる？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600315/073100002/</link>
+			<description><![CDATA[　東急ハンズのCIO（最高情報責任者）である長谷川秀樹執行役員は、「Windows 7のサポート終了までにChromebookへの置き換えを進める」と宣言する。社内に約1750台あるWindows PCの9割程度、を米グーグルのChrome OSを搭載したChromebookに置き換える方針だ。]]></description>
 			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -251,27 +251,9 @@
 			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「Windows 7の9割はChromebookへ移行する」、東急ハンズ（Windows 7はいつやめる？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600315/073100002/</link>
-			<description><![CDATA[　東急ハンズのCIO（最高情報責任者）である長谷川秀樹執行役員は、「Windows 7のサポート終了までにChromebookへの置き換えを進める」と宣言する。社内に約1750台あるWindows PCの9割程度、を米グーグルのChrome OSを搭載したChromebookに置き換える方針だ。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「アップルの3つの国内工場」発言、トランプ大統領は米国生産を諦めない（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/073100052/</link>
-			<description><![CDATA[　Wall Street Journalに掲載されたトランプ大統領へのインタビューは驚きを持って受け止められた。「アップルのティム・クックCEOがアメリカに大規模な工場を3つ作る」と話したからだ。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>今度はAndroid Payだけで、西へ向かってどこまで行けるか試してみた（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072700888/</link>
-			<description><![CDATA[　先日、少し古いAndroidスマートフォンのホーム画面を見ていて、Android Payをほとんど使っていないことに気が付いた。半年前にApple Payだけでどのくらい遠くまで行けるかを試したので、今回はAndroid Payで同じ実験をしてみようと思いついた。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>高速通信を実現するCDNが効率よくデータを配信する工夫（徹底解説CDN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100003/</link>
-			<description><![CDATA[　CDNサービスでは、ユーザーは最寄りの配信サーバーからデータをダウンロードできる。では、どうやって配信サーバーにファイルを振り分けているのか。その方法は、ミラー型とキャッシュ型に分類できる。]]></description>
+			<title>データ分析の準備をAIで自動化、米GEのIoT基盤「Predix」（シリコンバレーNextレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/080100117/</link>
+			<description><![CDATA[　センサーデータを分析する際に最も手間がかかるのは、データの「種類」や「関係性」を見極める作業だ。米General Electric（GE）はインダストリアルIoT（Internet of Things）のプラットフォームである「Predix」に、こうした作業を自動化するAI（人工知能）を追加する。データ分析における「手作業」を減らすことで、センサーデータの活用を促進する狙いだ。]]></description>
 			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -311,6 +293,52 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080202047/</link>
 			<description><![CDATA[　KDDIは格安IoT（インターネット・オブ・シングズ）通信サービスのベンチャー、ソラコムを買収する。買収額は200億円のもよう。]]></description>
 			<pubDate>Wed, 02 Aug 2017 09:19:33 +0900</pubDate>
+		</item>
+		<item>
+			<title>米Amazonが米BLU製格安スマホを販売停止、ユーザー情報を中国へ送信（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080202046/</link>
+			<description><![CDATA[　米Amazon.comが2017年7月31日（米国時間）までに、米BLU Products製のAndroidスマートフォンの販売を停止した。BLU製スマホが採用するファームウエアがユーザーの個人情報を中国のサーバーに無断で送信していたことが分かったため。]]></description>
+			<pubDate>Wed, 02 Aug 2017 09:50:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>MicrosoftのiOS用キーボードアプリ「Word Flow」、公開を終了（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/080200348/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　iOS 9以降、iPhone用のキーボードアプリで最高の一品は、米Appleのライバルとしては最も古株である米Microsoftの「Word Flow」だった。これは公然の秘密だ。しかし、このアプリをまだ持っていなかった人は、ダウンロードの機会を既に逸してしまった。</p>
+
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/080200348/ph01.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: IDG</div>
+</div>
+
+<p>　Word Flowは、Windows Phoneで人気の高いキーボードを、MicrosoftがiOS版の無料アプリとしてリリースしたもの。その驚きのリリースから、まだ1年ほどしかたっていない。実験的なプロジェクトを扱う「Microsoft Garage」から生まれたこのキーボードの狙いは、高速入力の実現だ。スワイプによる入力に対応し、扇形にキーが並んだ独特の片手入力モードを備えている。このアプリは、iOSの高速入力の様相を変える存在となり、すぐにチャートのトップに躍り出た。</p>
+
+<p>　だが、このアプリは当初からあくまで実験という位置づけだった。そして、Microsoft GarageのサイトにあるWord Flowの<a href="https://www.microsoft.com/en-us/garage/profiles/word-flow-keyboard/" target="_blank">プロダクトページ</a>によると、その実験は「完了」したそうだ。App StoreでWord Flowは既に入手できなくなっている。おそらく、今後はサポートやアップデートもない。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/080200348/?ST=cio-appli&P=2">しかし、これでMicrosoftがiOS用のキー...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/080200348/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/080200348/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/080200348/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 02 Aug 2017 10:06:06 +0900</pubDate>
+		</item>
+		<item>
+			<title>Win10で需要増、キヤノンITSが汎用機エミュレーター「TCPLink」の新版（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080102032/</link>
+			<description><![CDATA[　キヤノンITソリューションズ（キヤノンITS）は2017年8月2日、メインフレームの端末エミュレーター「TCPLink Enterprise Server」の新版を発表した。Windows Server 2016に対応したほか、暗号化通信ライブラリーを一新し、セキュリティの強度をアップした。]]></description>
+			<pubDate>Wed, 02 Aug 2017 10:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
