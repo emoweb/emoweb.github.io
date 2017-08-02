@@ -5,72 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    AMD Radeon Pro SSG に Premiere Proが対応、PCで8Kリアルタイム動画編集を実現
-</title>
-			<link>http://japanese.engadget.com/2017/07/30/amd-radeon-pro-ssg-premiere-pro-pc-8k/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/b2976510a11e65a0b8c1adfabc78f863/205523755/08.jpg" />
-Radeon Pro SSG＋Dell 8Kモニター＋Adobeソフトで8Kのリアルタイム編集が可能に
-
-AMDは現地時間7月30日から開催中の SIGGRAPH 2017で、最新GPUアーキテクチャ Vega 採用のプロフェッショナル向け（ワークステーション向け）GPU 『Radeon Pro』シリーズ2製品を発表した。
-
-1つは倍精度の浮動小数点演算で12.3TFLOPSの性能を持つRadeon Pro WX9100で、DisplayPort1.4に対応し4Kディスプレイ6枚への出力を可能としている。
-
-　そしてもう1つが、GPUにフラッシュメモリを一体化した Radeon Pro SSGの新製品だ。
-
-AMDが昨年のSIGGRAPHで発表したRadeon Pro SSGは、GPUが演算や描画のためにデータを展開するフレームバッファに、通常のDRAMに加えてフラッシュメモリ（具体的にはNVMe SSD）を搭載する。
-
-
-Radeon Pro SSG
-
-　DRAMは高速で、GPUがデータをメモリから読み込む待ち時間(レイテンシ)が短く、高速に描画できるというメリットがある。しかし、容量としては多くても16GBほどで、大量のデータを展開したい用途にはあまり向いていない。
-
-そこでDRAMに加えて、比較的低速ながらテラバイト級の容量を持つSSDを搭載することで、例えば8Kビデオのような大容量のデータをメモリに展開して処理したい場合に、より高速に処理できるようにしている。
-
-　AMDが昨年公開した資料によれば、8Kの非圧縮ビデオの処理を行う場合、一般的なビデオカードでは30fps(秒間30コマ)にも届かない17fps程度で、リアルタイム編集には無理がある。対する Radeon Pro SSGの場合には92fpsに達し、リアルタイム編集でもかなり余裕を実現できる。
-
-　今回AMDが発表したのはこのRadeon Pro SSGの新モデルで、GPUがRadeon Pro WX9100と同じVegaベースに強化され、NVMe SSDの容量が1TBから2TBに増量された。SSDの速度は書き込みが最大6GB/秒、読み込みは最大8GB/秒となっている。
-
-
-Dellの8K/31.5型の液晶ディスプレイ UP3218K、AMD Radeon Pro SSGに、AdobeのPremiere Proを組み合わせることで、8Kのリアルタイム編集がPCで可能になる
-
-　それに加えて、今回は新たにAdobeのCreative Cloudの動画編集ツールであるPremiere Pro CCと、After Effect CCが、Radeon Pro SSGの内蔵SSDを利用するためのSSG APIに対応し、8Kの動画をリアルタイムに編集することができるようになったことが明らかにされた。
-
-　Dellから8K/31.5型の液晶ディスプレイ"UP3218K"が既に日本でも販売されており、それとRadeon Pro SSG、Premiere Pro CC/After Effect CCを組み合わせることで、PCで8Kリアルタイム編集が可能になる。
-
-モニターの価格などを考えると、三桁万円の投資になるが、それでも民生機だけでここまでできるようになったインパクトは大きい。
-
-デル、8K / 31.5型液晶モニタを49万8800円で発売。「実物に匹敵する」表示訴求
-
-　8K動画の編集に取り組んでみたい人はUP3218K、Radeon Pro SSG、Premiere Pro CC/After Effect CCの組み合わせに要注目だ。
-
-このほか AMD は、コンシューマー向けの Vega アーキテクチャ採用製品 Radeon RX Vega 64 / 56 も正式発表している。
-
-AMD Radeon RX Vega 64 / 56詳細発表。GeForce 1080 / 1070超えで同等価格
- ]]></description>
-			<pubDate>Mon, 31 Jul 2017 11:31:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>    ドコモ、テザリング料を実質廃止。無料キャンペーンを「期限を定めずに延長」
-</title>
-			<link>http://japanese.engadget.com/2017/07/30/docomo/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/86c532a94bc8e2727732fded335c06e6/205523860/DSC00361.jpg" />
-NTTドコモは、20GB以上の大容量プラン「ウルトラパック」「ウルトラシェアパック」のテザリング利用料金の無料キャンペーンを「終了期限を定めずに延長する」と発表しました。当初の期限である2018年4月1日以降も、月額1000円（税別）の追加料金不要でテザリングを利用できます。
-
-対象となるプランは、ウルトラシェアパック100、ウルトラシェアパック50、ウルトラシェアパック30、ウルトラデータLLパック、ウルトラデータLパック、ウルトラビジネスシェアパック100、ウルトラビジネスシェアパック50、ウルトラビジネスシェアパック30です。
-
-20GB以上の大容量プランのテザリング手数料を巡っては、使い放題ではない「20GB」「30GB」の買い切りにも関わらず、別途1000円を徴収するのはおかしいとの批判がありました。
-
-2017年3月期決算説明会でテザリング手数料について語る吉澤和弘社長
-
-ドコモの吉澤和弘社長は、2017年4月の決算説明会で、テザリング手数料について「マーケットリーダーを宣言したように、実態を見ながら引き続き、お得が見えるようにいろいろな意味で検討していきたい」と変更に前向きなコメントを残していました。今回の「期限を定めない」無料キャンペーンの延長は、テザリング手数料の実質廃止と捉えることもできそうです。
-
-なお、auの田中孝司社長も「さすがに1000円はあれだよね...」とテザリング手数料廃止に前向きなコメントを残しています。au・ソフトバンクは揃って2018年3月末まで無料化していますが、今後の追従に期待したいところです。
-
-
- ]]></description>
-			<pubDate>Mon, 31 Jul 2017 11:50:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    Surfaceでも使えるワコム製スタイラス「Bamboo Ink」、8980円で発売。Windows 10に特化
 </title>
 			<link>http://japanese.engadget.com/2017/07/31/surface-bamboo-ink-8980-windows-10/</link>
@@ -606,6 +540,48 @@ Daydream View ヘッドセットを使うことで、Galaxy S8 / S8+ でも、Go
  
  ]]></description>
 			<pubDate>Wed, 02 Aug 2017 15:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    ソフトバンクのiPhoneユーザー向け「音声通話付き」格安SIM、日本通信が8月16日発売
+</title>
+			<link>http://japanese.engadget.com/2017/08/02/iphone-sim-sim/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/6648fcaacc633aaf4fe0189eb0a798bb/205530887/name.jpg" />
+ソフトバンクのiPhoneユーザー向け格安SIM（MVNO）に、待望の音声通話付きが登場します。日本通信は、ソフトバンク網利用の音声通話付き格安SIM（nanoSIM）を8月16日に発売すると発表しました。
+
+日本通信は2017年春より、ソフトバンク網利用のデータ専用SIMを販売してきました。今回、ソフトバンク側と音声サービスの提供に合意したことにより、音声通話付きSIMの販売を開始するとのこと。新製品の詳細は別途案内するとしているものの、ソフトバンクのiPhoneユーザーは、SIMロック解除なしで日本通信の音声通話付き格安SIMを利用できることになります。
+
+格安SIM（MVNO）に関しては、NTTドコモ回線を借り受けて提供するサービスが一般的。ソフトバンクユーザーが利用するには、端末のSIMロックを解除する必要がありました。一方、新たにサービスを開始するソフトバンク網利用の音声付き格安SIMは、ソフトバンクの端末ならSIMロック解除不要で利用可能。ソフトバンクユーザーが格安SIMに移行しやすくなるメリットがあります。
+
+：関連
+ソフトバンクのMVNOを始める日本通信。強気な目標に勝算はあるのか：週刊モバイル通信 石野純也
+ ]]></description>
+			<pubDate>Wed, 02 Aug 2017 16:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    ASUSが「ZenFone 4」の本体デザインを公開。デュアルカメラ搭載、台湾で8月17日発表へ
+</title>
+			<link>http://japanese.engadget.com/2017/08/02/zenfone-4-8-17/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/831173ed59e5e5a4d6fdce033da9b3de/205530900/zenfone4.jpg" />
+ASUSが8月17日に次期フラッグシップとなるZenFone 4の発表会を台湾で開催すると発表しました。発表会は日本時間の15時30分から。Facebookのコメントでは、発表会後すぐに予約を開始するとしていますが、発売日は不明です。
+
+ZenFone 4シリーズとしては、一足早くZenFone 4 Maxがロシアで発表済みですが、ZenFone 4、ZenFone 4 Maxのほか、セルフィに特化したZenFone S（Selfie）、最上位機種となるZenFone 4 Proの存在が噂されています。
+
+ASUSが「ZenFone 4 Max」発表、2眼カメラと5000mAhバッテリー搭載
+ZenFone 4がまもなく発売、ASUSは世界シェア10位に入れるか
+
+
+今回、ZenFone 4の発表会に合わせ、アジア太平洋地域のブランドアンバサダーに韓国の俳優　Gong Yoo氏が就任したことも発表されています。そして彼が手にしているのが、ZenFone 4のようです。発表済みのZenFone 4 Maxとは違い、ZenFoneシリーズでおなじみの同心円のデザインとデュアルカメラが特徴的。
+
+また、ASUSは、以前にもデュアルカメラを示唆するティザーを投稿していました。ZenFone 4シリーズすべてがデュアルカメラを搭載するのかはわかりませんが、力を入れているポイントなのは間違いありません。
+
+ 
+
+
+ZenFone 4の仕様に関する噂はほとんど出ていませんが、最上位のZenFone 4 Proについては、5.7インチ QHDディスプレイでSnapdragon 835、6GBのRAMを搭載すると伝えられています。
+
+ 
+ ]]></description>
+			<pubDate>Wed, 02 Aug 2017 16:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
