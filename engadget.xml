@@ -5,32 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ポケモンGO、シカゴの大失態で夏イベントを一部延期。詫び野生レアで埋め合わせ
-</title>
-			<link>http://japanese.engadget.com/2017/07/30/go/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/293fcedf48c44b6b767c4a52b9ea615f/205511080/mainp.jpg" />
-ポケモンGOの運営ナイアンティックが、この夏に欧州で予定していたリアルイベントの一部を秋まで延期することを明らかにしました。理由は「可能な限り、最善のゲームプレイ体験を保証するため」。
-
-延期されるのは8月5日にコペンハーゲンとプラハ、8月12日にストックホルムとアムステルダムで開催予定だったポケモン Safari Zoneイベント。いずれも秋まで、今後改めて公表する日程まで延期します。
-
-この2日間4都市以外に欧州で予定しているリアルイベント(フランス、スペイン、ドイツ)や、8月14日に横浜で開催予定の「ピカチュウだけじゃない ピカチュウ大発生チュウ！」に(今のところ)変更はありません。
-
-
- 
- ]]></description>
-			<pubDate>Mon, 31 Jul 2017 07:43:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>    イーロン・マスク氏、地下に潜るカーエレベーターを試運転。トンネル輸送システムは実現する？
-</title>
-			<link>http://japanese.engadget.com/2017/07/30/ceo/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/886942dcdc3e2e6585df2c262594cbec/205514024/main.gif" />
-穴掘り企業The Boring Companyが、スペースX本社と道向かいにある駐車場の間に開通したトンネル第1号に、自動車用エレベーターを設置しました。CEOのイーロン・マスク氏はInstagram(インスタグラム)にその動作する様子を動画で投稿しています。
-　
- ]]></description>
-			<pubDate>Mon, 31 Jul 2017 08:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    スマホの次は『家』が通信。月490円のホームIoT「au HOME」開始、ドアの開閉・子の帰宅も通知
 </title>
 			<link>http://japanese.engadget.com/2017/07/30/490-iot-au-home/</link>
@@ -721,6 +695,42 @@ nuroモバイルは、他社にないプランとして、「5時間プラン」
  
  ]]></description>
 			<pubDate>Wed, 02 Aug 2017 12:45:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    Microsoft、Windows 10に視線追跡機能を追加。Insider Previewで提供中
+</title>
+			<link>http://japanese.engadget.com/2017/08/02/microsoft-windows-10-insider-preview/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/801f43c8ad0198c49a1c95920c5843d4/205530716/dims.jpg" />
+Microsoftがアイトラッキング（視線追跡）技術を利用し、PCを操作可能にする「Eye Control」をWindows 10に組み込む計画を発表しました。
+
+
+
+ALS（筋萎縮性側索硬化症）などの神経疾患を患っている場合、体を自由に動かすことができずPCの操作は困難です。そうした患者に向けたアイトラッキングを使った文字入力装置はすでに病院などで利用されていますが、特殊なソフトウェアや装置が必要なうえ、できることも限られています。
+
+これに対し、MicrosoftのEye Controlでは主にゲーム向けのアイトラッキング装置を開発しているTobiiと提携。特殊なデバイスではなく、市販のものを利用します。機能面では、文字入力以外にマウス操作も可能。さらに入力したテキストの読み上げにも対応するなどコミュニケーションもサポートします。これまでWindowsのアクセサビリティ（簡単操作）は視覚障害を持つ人向けに文字や配色を変更したり、文字を読み上げたりするものが主でしたが、Eye Controlはこれに新しい操作体系を追加する形です。
+
+Microsoftが視線追跡による操作に取り組み始めたのは、2014年に開催した「One Week Hackathon」のこと。このハッカソンで、ALSを患っていた元NFLプレーヤーのスティーブ・グリーソン氏の要望を受けたチームがアイトラッキング技術で操作できる車椅子を製作し優勝。これがきっかけとなり、アイトラッキング技術の可能性を探るResarchチームが発足、今回の発表に繋がります。
+
+Eye ControlはWindows 10 Insider Previewを通じ、すでに利用可能です。ただ、先に書いた通りTobiiのアイトラッキングデバイスが必要。現在は「Eye Tracker 4C」しか使用できませんが、まもなくTobiiの他のデバイス（Tobii Dynavox PCEye Mini、PCEye Plus、EyeMobile Plus、I-series）でも利用可能になる予定です。なお、セットアップ方法はTobiiがブログで公開しています。
+
+Eye Controlが正式にリリースされるのがいつなのかはわかりませんが、近い将来、ALS患者のみならず、体の不自由な人にとって重要な操作方法となりそうです。
+
+
+
+
+ 
+ ]]></description>
+			<pubDate>Wed, 02 Aug 2017 13:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    Googleのキーボードアプリ「Gboard」、iOS版がYouTubeとGoogle Mapsに対応
+</title>
+			<link>http://japanese.engadget.com/2017/08/02/google-gboard-ios-youtube-google-maps/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/8e44af9f9bf798e2a27943ae3fd381b0/205530738/gboard2.png" />
+7月31日、GoogleはiOS用のキーボードアプリ「Gboard」をアップデートし、3つの新機能を追加したと発表しました。これらはiOS版のみに限られ、Android版にも同様のアップデートが実施されるかどうかは今のところ不明です。
+
+ ]]></description>
+			<pubDate>Wed, 02 Aug 2017 14:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
