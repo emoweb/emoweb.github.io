@@ -11,6 +11,12 @@
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>下降傾向のIBMメインフレーム、「全面的暗号化」は奏功するか（北川 賢一のIT業界乱反射）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800200/073100024/</link>
+			<description><![CDATA[　米IBMが2017年7月18日、前年同期から4.7％減となる2017年度第2四半期（4〜6月）の決算を発表、売り上げ減少の記録を連続21四半期へとさらに引き延ばした。しかし、同時にIBMは、5年も下向き続きの運勢を上向かせるために、1950年代からおなじみの大黒柱に頼ることも発表した。それが謎めいた黒いモノリス風の外観を持つメインフレーム「IBM z14」である。]]></description>
+			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>35億円の追加支出に開発遅れも、マイナンバーの情報連携システム（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/080101078/</link>
 			<description><![CDATA[　会計検査院は2017年7月26日、マイナンバー制度で行政機関などが個人情報をやりとりするための情報連携システムについて報告書を公表した。]]></description>
@@ -53,15 +59,15 @@
 			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>下降傾向のIBMメインフレーム、「全面的暗号化」は奏功するか（北川 賢一のIT業界乱反射）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800200/073100024/</link>
-			<description><![CDATA[　米IBMが2017年7月18日、前年同期から4.7％減となる2017年度第2四半期（4〜6月）の決算を発表、売り上げ減少の記録を連続21四半期へとさらに引き延ばした。しかし、同時にIBMは、5年も下向き続きの運勢を上向かせるために、1950年代からおなじみの大黒柱に頼ることも発表した。それが謎めいた黒いモノリス風の外観を持つメインフレーム「IBM z14」である。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ビデオ会議をまるごと保存、無料Skypeで録画する方法とは（会議に役立つ！PC活用のワザ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100304/073100005/</link>
 			<description><![CDATA[　最近は、在宅勤務の社員や他拠点とビデオ会議を開く企業が増えているようだ。そうしたビデオ会議でよく活用されているツールの1つが、マイクロソフトが企業ユーザー向けに提供する「Skype for Business」である。]]></description>
+			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「転職は恥ずかしい」と思うエンジニアの割合（エンジニア転職意識調査）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/072800013/</link>
+			<description><![CDATA[　一昔前は、一つの会社を勤め上げることが望ましいとされ、転職を恥ずかしいと捉える風潮もあった。日経BP社の技術系媒体が実施した「エンジニア転職意識調査」の結果を見る限り、それは過去のものといえる。]]></description>
 			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -98,12 +104,6 @@
 			<title>第21話　呪文を使ってスマートに戦おう～業務効率化（その1）（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/062300032/</link>
 			<description><![CDATA[　マニュアル化やパターン化は、人が考える作業を省いてくれる。作業者はとりあえずマニュアル通りの動きをすればよい。人の判断をはさむ余地がない。ドラクエでいえば、便利な「呪文」のようなものだ。しかし、マニュアルに頼ってばかりいると、人間の「考える機会」が奪われ、想定外の事象への対応力が失われる。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「転職は恥ずかしい」と思うエンジニアの割合（エンジニア転職意識調査）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/072800013/</link>
-			<description><![CDATA[　一昔前は、一つの会社を勤め上げることが望ましいとされ、転職を恥ずかしいと捉える風潮もあった。日経BP社の技術系媒体が実施した「エンジニア転職意識調査」の結果を見る限り、それは過去のものといえる。]]></description>
 			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -233,21 +233,27 @@
 			<pubDate>Wed, 02 Aug 2017 20:24:49 +0900</pubDate>
 		</item>
 		<item>
-			<title>CDNがパブリックDNSを使っても最寄りサーバーを判断できる理由（徹底解説CDN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100004/</link>
-			<description><![CDATA[　CDNサービスでは、DNSを利用して、ユーザーのアクセスを最寄りのサーバーに振り分けている。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>パソコン内蔵カメラじゃ無理？会議の様子を録画・録音する（会議に役立つ！PC活用のワザ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100304/072400002/</link>
 			<description><![CDATA[　ノートパソコン内蔵のWebカメラは、会議にはあまり向いていない。レンズが狭角で、パソコンの正面に座っている人のバストアップを撮影するのにちょうど良いものの、会議室の雰囲気やホワイトボードに記載された資料などを写すには視野が足りない。]]></description>
 			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>CDNがパブリックDNSを使っても最寄りサーバーを判断できる理由（徹底解説CDN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100004/</link>
+			<description><![CDATA[　CDNサービスでは、DNSを利用して、ユーザーのアクセスを最寄りのサーバーに振り分けている。]]></description>
+			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>給与ランキング：野村総研と三菱総研が1000万円超、富士通は800万円割る（ITサービス企業業績・給与ランキング2017）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600312/072700004/</link>
 			<description><![CDATA[　上場企業が公開する2016年度の有価証券報告書を基に、事業の成果に対して企業が従業員に支払う給与をランキングにした。コンピュータメーカーの日立製作所、富士通、NECと上場している外資系ITベンダーの日本オラクルも参考値として組み込んだ。取締役の平均報酬額も調べた。]]></description>
+			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>尿量センサーが介護の質を底上げ（健康IoT）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100303/072600004/</link>
+			<description><![CDATA[　介護施設運営大手のSOMPOケアネクストは2017年10月までに、同社が運営する全国115カ所の有料老人ホームの浴室や各居室に複数のセンサーを導入し終える計画だ。入居者のプライバシーを守りつつ職員の生産性を高める効果が出ているという。]]></description>
 			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -290,12 +296,6 @@
 			<title>技術者の転職はキャリアアップにつながるか？（エンジニア転職意識調査）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/073100014/</link>
 			<description><![CDATA[　果たして転職はキャリアアップにつながるのか。日経BP社の技術系媒体が実施した「エンジニア転職意識調査」では、7割超がキャリアアップにつながると考えていることが分かった。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>尿量センサーが介護の質を底上げ（健康IoT）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100303/072600004/</link>
-			<description><![CDATA[　介護施設運営大手のSOMPOケアネクストは2017年10月までに、同社が運営する全国115カ所の有料老人ホームの浴室や各居室に複数のセンサーを導入し終える計画だ。入居者のプライバシーを守りつつ職員の生産性を高める効果が出ているという。]]></description>
 			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -383,6 +383,12 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 03 Aug 2017 10:08:38 +0900</pubDate>
+		</item>
+		<item>
+			<title>DeNAと小学館がデジタルメディア新会社、「MERY」ブランドを継続へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080302057/</link>
+			<description><![CDATA[　ディー・エヌ・エー（DeNA）と小学館は2017年8月3日、デジタルメディア事業を運営する共同出資会社を設立すると発表した。小学館の記事作成とDeNAのシステム構築・運用、それぞれのノウハウを持ち寄る。新しく開設するメディアサイトには「MERY」の名称を引き継ぐ。]]></description>
+			<pubDate>Thu, 03 Aug 2017 19:02:50 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
