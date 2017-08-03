@@ -11,6 +11,18 @@
 			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>試して分かった、AWSの新データ分析基盤Redshift Spectrumの落とし穴（AWS ビッグデータ基盤の実力）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072700316/073100004/</link>
+			<description><![CDATA[　米Amazon Web Services（AWS）が2017年4月に発表した、ビッグデータ分析の新サービス「Amazon Redshift Spectrum」。リクルートテクノロジーズが他社に先駆けて実施した検証内容と、検証結果から分かった活用ノウハウや落とし穴を紹介する。]]></description>
+			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「Windows 7の9割はChromebookへ移行する」、東急ハンズ（Windows 7はいつやめる？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600315/073100002/</link>
+			<description><![CDATA[　東急ハンズのCIO（最高情報責任者）である長谷川秀樹執行役員は、「Windows 7のサポート終了までにChromebookへの置き換えを進める」と宣言する。社内に約1750台あるWindows PCの9割程度、を米グーグルのChrome OSを搭載したChromebookに置き換える方針だ。]]></description>
+			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>下降傾向のIBMメインフレーム、「全面的暗号化」は奏功するか（北川 賢一のIT業界乱反射）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800200/073100024/</link>
 			<description><![CDATA[　米IBMが2017年7月18日、前年同期から4.7％減となる2017年度第2四半期（4〜6月）の決算を発表、売り上げ減少の記録を連続21四半期へとさらに引き延ばした。しかし、同時にIBMは、5年も下向き続きの運勢を上向かせるために、1950年代からおなじみの大黒柱に頼ることも発表した。それが謎めいた黒いモノリス風の外観を持つメインフレーム「IBM z14」である。]]></description>
@@ -47,15 +59,15 @@
 			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>試して分かった、AWSの新データ分析基盤Redshift Spectrumの落とし穴（AWS ビッグデータ基盤の実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072700316/073100004/</link>
-			<description><![CDATA[　米Amazon Web Services（AWS）が2017年4月に発表した、ビッグデータ分析の新サービス「Amazon Redshift Spectrum」。リクルートテクノロジーズが他社に先駆けて実施した検証内容と、検証結果から分かった活用ノウハウや落とし穴を紹介する。]]></description>
+			<title>高速通信を実現するCDNが効率よくデータを配信する工夫（徹底解説CDN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100003/</link>
+			<description><![CDATA[　CDNサービスでは、ユーザーは最寄りの配信サーバーからデータをダウンロードできる。では、どうやって配信サーバーにファイルを振り分けているのか。その方法は、ミラー型とキャッシュ型に分類できる。]]></description>
 			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「Windows 7の9割はChromebookへ移行する」、東急ハンズ（Windows 7はいつやめる？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600315/073100002/</link>
-			<description><![CDATA[　東急ハンズのCIO（最高情報責任者）である長谷川秀樹執行役員は、「Windows 7のサポート終了までにChromebookへの置き換えを進める」と宣言する。社内に約1750台あるWindows PCの9割程度、を米グーグルのChrome OSを搭載したChromebookに置き換える方針だ。]]></description>
+			<title>第21話　呪文を使ってスマートに戦おう～業務効率化（その1）（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/062300032/</link>
+			<description><![CDATA[　マニュアル化やパターン化は、人が考える作業を省いてくれる。作業者はとりあえずマニュアル通りの動きをすればよい。人の判断をはさむ余地がない。ドラクエでいえば、便利な「呪文」のようなものだ。しかし、マニュアルに頼ってばかりいると、人間の「考える機会」が奪われ、想定外の事象への対応力が失われる。]]></description>
 			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -98,18 +110,6 @@
 			<title>Office 365の使い方をあの手この手で全社展開、オリックス（Office 365使いこなし術）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800291/072600003/</link>
 			<description><![CDATA[　オリックスグループでは約1万5000人が、メールや予定表の用途でOffice 365を使っている。使いこなすには同社の業務改革室の地道な取り組みが鍵となっている。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>第21話　呪文を使ってスマートに戦おう～業務効率化（その1）（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/062300032/</link>
-			<description><![CDATA[　マニュアル化やパターン化は、人が考える作業を省いてくれる。作業者はとりあえずマニュアル通りの動きをすればよい。人の判断をはさむ余地がない。ドラクエでいえば、便利な「呪文」のようなものだ。しかし、マニュアルに頼ってばかりいると、人間の「考える機会」が奪われ、想定外の事象への対応力が失われる。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>高速通信を実現するCDNが効率よくデータを配信する工夫（徹底解説CDN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100003/</link>
-			<description><![CDATA[　CDNサービスでは、ユーザーは最寄りの配信サーバーからデータをダウンロードできる。では、どうやって配信サーバーにファイルを振り分けているのか。その方法は、ミラー型とキャッシュ型に分類できる。]]></description>
 			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -239,9 +239,21 @@
 			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>技術者の転職はキャリアアップにつながるか？（エンジニア転職意識調査）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/073100014/</link>
+			<description><![CDATA[　果たして転職はキャリアアップにつながるのか。日経BP社の技術系媒体が実施した「エンジニア転職意識調査」では、7割超がキャリアアップにつながると考えていることが分かった。]]></description>
+			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>CDNがパブリックDNSを使っても最寄りサーバーを判断できる理由（徹底解説CDN）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100004/</link>
 			<description><![CDATA[　CDNサービスでは、DNSを利用して、ユーザーのアクセスを最寄りのサーバーに振り分けている。]]></description>
+			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>鳴り物入りのマイクロソフト「Azure Stack」、誰向けか？（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/080101081/</link>
+			<description><![CDATA[　米マイクロソフトのクラウドサービスAzureの一部機能をオンプレミス環境で提供するアプライアンス製品「Azure Stack」が、2015年の発表から2年を経てついに登場する。出荷開始は2017年9月上旬の予定だ。早くも販売戦略を巡ってマイクロソフトとパートナー企業の間で隔たりが見られる。]]></description>
 			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -284,18 +296,6 @@
 			<title>鳥取大・東芝チーム「ロボット開発は初めて」、アマゾン・ロボティクス・チャレンジ（アマゾン・ロボティクス・チャレンジ報告）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072700317/080100005/</link>
 			<description><![CDATA[　2017年7月27日～30日に開催されたロボットの競技会「アマゾン・ロボティクス・チャレンジ」では、ロボット開発における総合力が問われた。鳥取大学、東芝、東芝インフラシステムズ社の合同チーム（Team T2）は初参加ながら健闘したチームの一つだ。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>鳴り物入りのマイクロソフト「Azure Stack」、誰向けか？（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/080101081/</link>
-			<description><![CDATA[　米マイクロソフトのクラウドサービスAzureの一部機能をオンプレミス環境で提供するアプライアンス製品「Azure Stack」が、2015年の発表から2年を経てついに登場する。出荷開始は2017年9月上旬の予定だ。早くも販売戦略を巡ってマイクロソフトとパートナー企業の間で隔たりが見られる。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>技術者の転職はキャリアアップにつながるか？（エンジニア転職意識調査）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/073100014/</link>
-			<description><![CDATA[　果たして転職はキャリアアップにつながるのか。日経BP社の技術系媒体が実施した「エンジニア転職意識調査」では、7割超がキャリアアップにつながると考えていることが分かった。]]></description>
 			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -389,6 +389,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080302057/</link>
 			<description><![CDATA[　ディー・エヌ・エー（DeNA）と小学館は2017年8月3日、デジタルメディア事業を運営する共同出資会社を設立すると発表した。小学館の記事作成とDeNAのシステム構築・運用、それぞれのノウハウを持ち寄る。新しく開設するメディアサイトには「MERY」の名称を引き継ぐ。]]></description>
 			<pubDate>Thu, 03 Aug 2017 19:02:50 +0900</pubDate>
+		</item>
+		<item>
+			<title>NTTデータの2017年4～6月期決算、米デルのITサービス部門譲り受けで増収増益（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080302058/</link>
+			<description><![CDATA[　NTTデータは2017年8月3日、2017年4～6月期の連結決算を発表した。売上高は前年同期比37.8％増の5404億円、営業利益は同27.6％増の221億円だった。]]></description>
+			<pubDate>Thu, 03 Aug 2017 20:53:22 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソフトバンクグループ、中小企業向け融資の米カベージに275億円を出資へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080302060/</link>
+			<description><![CDATA[　オンライン融資を手掛けるFinTechスタートアップの米カベージは現地時間の2017年8月3日、ソフトバンクグループの子会社から2億5000万ドル（約275億円）の投資を受けることで合意したと発表した。]]></description>
+			<pubDate>Thu, 03 Aug 2017 21:20:54 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
