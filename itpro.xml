@@ -5,240 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：思わず膝を打った！すぐに使えるExcel便利ワザ（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/072800133/?d03</link>
-			<description><![CDATA[　今回は、Excelの便利な機能を5つ紹介する。これらのテクニックは、書籍を執筆するにあたっての取材で知ったもので、僕自身も知ったときには思わず膝を打った。Excelの便利ワザは記事や書籍をよく見るが、まだまだ知らないものがあるものだ。]]></description>
-			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「アップルの3つの国内工場」発言、トランプ大統領は米国生産を諦めない（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/073100052/</link>
-			<description><![CDATA[　Wall Street Journalに掲載されたトランプ大統領へのインタビューは驚きを持って受け止められた。「アップルのティム・クックCEOがアメリカに大規模な工場を3つ作る」と話したからだ。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>試して分かった、AWSの新データ分析基盤Redshift Spectrumの落とし穴（AWS ビッグデータ基盤の実力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072700316/073100004/</link>
-			<description><![CDATA[　米Amazon Web Services（AWS）が2017年4月に発表した、ビッグデータ分析の新サービス「Amazon Redshift Spectrum」。リクルートテクノロジーズが他社に先駆けて実施した検証内容と、検証結果から分かった活用ノウハウや落とし穴を紹介する。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「Windows 7の9割はChromebookへ移行する」、東急ハンズ（Windows 7はいつやめる？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600315/073100002/</link>
-			<description><![CDATA[　東急ハンズのCIO（最高情報責任者）である長谷川秀樹執行役員は、「Windows 7のサポート終了までにChromebookへの置き換えを進める」と宣言する。社内に約1750台あるWindows PCの9割程度、を米グーグルのChrome OSを搭載したChromebookに置き換える方針だ。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>下降傾向のIBMメインフレーム、「全面的暗号化」は奏功するか（北川 賢一のIT業界乱反射）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800200/073100024/</link>
-			<description><![CDATA[　米IBMが2017年7月18日、前年同期から4.7％減となる2017年度第2四半期（4〜6月）の決算を発表、売り上げ減少の記録を連続21四半期へとさらに引き延ばした。しかし、同時にIBMは、5年も下向き続きの運勢を上向かせるために、1950年代からおなじみの大黒柱に頼ることも発表した。それが謎めいた黒いモノリス風の外観を持つメインフレーム「IBM z14」である。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>35億円の追加支出に開発遅れも、マイナンバーの情報連携システム（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/080101078/</link>
-			<description><![CDATA[　会計検査院は2017年7月26日、マイナンバー制度で行政機関などが個人情報をやりとりするための情報連携システムについて報告書を公表した。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>データ分析の準備をAIで自動化、米GEのIoT基盤「Predix」（シリコンバレーNextレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/080100117/</link>
-			<description><![CDATA[　センサーデータを分析する際に最も手間がかかるのは、データの「種類」や「関係性」を見極める作業だ。米General Electric（GE）はインダストリアルIoT（Internet of Things）のプラットフォームである「Predix」に、こうした作業を自動化するAI（人工知能）を追加する。データ分析における「手作業」を減らすことで、センサーデータの活用を促進する狙いだ。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>定型作業を自動化するRPA、クラウドでロボットが動くサービスも（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/080101079/</link>
-			<description><![CDATA[　大手から新興まで、IT企業が続々とRPAに参入している。NEC、NTTデータ・ビズインテグラル、NTTデータイントラマートがそれぞれRPAツールや導入支援サービスを発表。ERPやBPMと連携し、全社規模のRPA導入を支援する。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>第21話　呪文を使ってスマートに戦おう～業務効率化（その1）（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/062300032/</link>
-			<description><![CDATA[　マニュアル化やパターン化は、人が考える作業を省いてくれる。作業者はとりあえずマニュアル通りの動きをすればよい。人の判断をはさむ余地がない。ドラクエでいえば、便利な「呪文」のようなものだ。しかし、マニュアルに頼ってばかりいると、人間の「考える機会」が奪われ、想定外の事象への対応力が失われる。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>成長性ランキング：BPO企業が高成長、今期はNTTデータが18.9％増（ITサービス企業業績・給与ランキング2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600312/072700003/</link>
-			<description><![CDATA[　大手ITサービス企業の成長性（売上高伸び率）も比較した。2016年度に二桁の伸び率を記録したのは2社のみ。2017年度予想でも二桁の伸び率を見込むのは2社と、大手ITサービス企業の成長は小休止の様子。技術者不足が深刻化する各社は案件数を増やしにくく、売上高を大きく伸ばせずにいる。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>今度はAndroid Payだけで、西へ向かってどこまで行けるか試してみた（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/072700888/</link>
-			<description><![CDATA[　先日、少し古いAndroidスマートフォンのホーム画面を見ていて、Android Payをほとんど使っていないことに気が付いた。半年前にApple Payだけでどのくらい遠くまで行けるかを試したので、今回はAndroid Payで同じ実験をしてみようと思いついた。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Office 365の使い方をあの手この手で全社展開、オリックス（Office 365使いこなし術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071800291/072600003/</link>
-			<description><![CDATA[　オリックスグループでは約1万5000人が、メールや予定表の用途でOffice 365を使っている。使いこなすには同社の業務改革室の地道な取り組みが鍵となっている。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ビデオ会議をまるごと保存、無料Skypeで録画する方法とは（会議に役立つ！PC活用のワザ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100304/073100005/</link>
-			<description><![CDATA[　最近は、在宅勤務の社員や他拠点とビデオ会議を開く企業が増えているようだ。そうしたビデオ会議でよく活用されているツールの1つが、マイクロソフトが企業ユーザー向けに提供する「Skype for Business」である。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「転職は恥ずかしい」と思うエンジニアの割合（エンジニア転職意識調査）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/072800013/</link>
-			<description><![CDATA[　一昔前は、一つの会社を勤め上げることが望ましいとされ、転職を恥ずかしいと捉える風潮もあった。日経BP社の技術系媒体が実施した「エンジニア転職意識調査」の結果を見る限り、それは過去のものといえる。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>3位スタートもトラブルで敗退、三菱電機らの合同チーム（アマゾン・ロボティクス・チャレンジ報告）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072700317/073100004/</link>
-			<description><![CDATA[　三菱電機と中部大学、中京大学の合同チーム「MC^2」はアマゾン・ロボティクス・チャレンジの初回大会から参加している。2017年7月28日の競技初日は3位と好調な滑り出しだったが、競技2日目に想定外のトラブルに見舞われ敗退した。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>介護者の巡回をエアコンが肩代わり（健康IoT）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100303/072600003/</link>
-			<description><![CDATA[　「職員の負担が減った」。パナソニック子会社のパナソニック エイジフリーが運営するサービス付き高齢者住宅（サ高住）では職員の安堵する声が聞こえるようになった。パナソニックが2016年10月に商用化した「エアコンみまもりサービス」の効果だ。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「寝る時間がもったいない」、孫社長が目指す世界とは（ソフトバンクはジェントルマン）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600311/080100005/</link>
-			<description><![CDATA[　「この6、7年で世の中は決定的に変わった。この先はさらにすごい変革がやってくる。寝る時間ももったいなく、胸を躍らせている。ワクワクするような時代に生まれてきたことを幸運に思う」。ソフトバンクグループの孫正義社長は目を輝かせながらこう語る。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>高速通信を実現するCDNが効率よくデータを配信する工夫（徹底解説CDN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100003/</link>
-			<description><![CDATA[　CDNサービスでは、ユーザーは最寄りの配信サーバーからデータをダウンロードできる。では、どうやって配信サーバーにファイルを振り分けているのか。その方法は、ミラー型とキャッシュ型に分類できる。]]></description>
-			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>クラウドコンピューティングの真の意味（中）（クラウドコンピューティングの真の意味）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/072400057/072400002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　クラウドコンピューティングの「クラウド（雲）」という言葉は、ネットワーク図の中でインターネットを雲の絵で表していたことに由来する。そのイメージのとおり、クラウドコンピューティングというと、最も一般的な意味では、クラウド事業者のデータセンターで動くワークロードを、別の場所からインターネット経由で利用することを表す。いわゆる「パブリッククラウド」のモデルだ。米Amazon.comのAmazon Web Services（AWS）、米Salesforce.comのCRM（顧客管理）システム、米GoogleのGoogle Cloud Platformは、いずれもこうした一般的な意味で言うクラウドコンピューティングに該当する。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400057/072400001/" target="_blank">前回</a>から続く）</p>
-
-<h4>FaaS（Functions as a Service）</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400057/072400002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　サーバーレスコンピューティングをクラウドで具現化したFaaSは、PaaSに抽象化レイヤーをさらに加えたもので、開発者は自ら開発するコードより下のスタックについて一切関知しない。つまり、仮想サーバー、コンテナ、アプリケーションランタイムなどをいじくり回す必要はない。特定の機能のみを持つコードのブロックをアップロードし、特定のイベント（例えばフォームの送信やファイルのアップロード）が発生した時に起動するように設定する。主要なクラウドサービスはいずれも、IaaS上で動くFaaSに対応している。例えば、「AWS Lambda」「Azure Functions」「Google Cloud Functions」「IBM OpenWhisk」などがある。FaaSを使うアプリケーションならではのメリットは、イベントが発生するまではIaaSのリソースを消費しないことから、使用量に応じた課金を抑えられることだ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400057/072400002/?ST=cm-cloud&P=2">プライベートクラウド</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400057/072400002/?ST=cm-cloud&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400057/072400002/?ST=cm-cloud&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400057/072400002/?ST=cm-cloud&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400057/072400002/?ST=cm-cloud&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 02 Aug 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>KDDIがソラコムを200億円で買収との報道、IoT事業拡充へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080202047/</link>
-			<description><![CDATA[　KDDIは格安IoT（インターネット・オブ・シングズ）通信サービスのベンチャー、ソラコムを買収する。買収額は200億円のもよう。]]></description>
-			<pubDate>Wed, 02 Aug 2017 09:19:33 +0900</pubDate>
-		</item>
-		<item>
-			<title>米Amazonが米BLU製格安スマホを販売停止、ユーザー情報を中国へ送信（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080202046/</link>
-			<description><![CDATA[　米Amazon.comが2017年7月31日（米国時間）までに、米BLU Products製のAndroidスマートフォンの販売を停止した。BLU製スマホが採用するファームウエアがユーザーの個人情報を中国のサーバーに無断で送信していたことが分かったため。]]></description>
-			<pubDate>Wed, 02 Aug 2017 09:50:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>MicrosoftのiOS用キーボードアプリ「Word Flow」、公開を終了（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/080200348/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　iOS 9以降、iPhone用のキーボードアプリで最高の一品は、米Appleのライバルとしては最も古株である米Microsoftの「Word Flow」だった。これは公然の秘密だ。しかし、このアプリをまだ持っていなかった人は、ダウンロードの機会を既に逸してしまった。</p>
-
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/080200348/ph01.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: IDG</div>
-</div>
-
-<p>　Word Flowは、Windows Phoneで人気の高いキーボードを、MicrosoftがiOS版の無料アプリとしてリリースしたもの。その驚きのリリースから、まだ1年ほどしかたっていない。実験的なプロジェクトを扱う「Microsoft Garage」から生まれたこのキーボードの狙いは、高速入力の実現だ。スワイプによる入力に対応し、扇形にキーが並んだ独特の片手入力モードを備えている。このアプリは、iOSの高速入力の様相を変える存在となり、すぐにチャートのトップに躍り出た。</p>
-
-<p>　だが、このアプリは当初からあくまで実験という位置づけだった。そして、Microsoft GarageのサイトにあるWord Flowの<a href="https://www.microsoft.com/en-us/garage/profiles/word-flow-keyboard/" target="_blank">プロダクトページ</a>によると、その実験は「完了」したそうだ。App StoreでWord Flowは既に入手できなくなっている。おそらく、今後はサポートやアップデートもない。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/080200348/?ST=cio-appli&P=2">しかし、これでMicrosoftがiOS用のキー...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/080200348/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/080200348/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/080200348/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 02 Aug 2017 10:06:06 +0900</pubDate>
-		</item>
-		<item>
-			<title>Win10で需要増、キヤノンITSが汎用機エミュレーター「TCPLink」の新版（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080102032/</link>
-			<description><![CDATA[　キヤノンITソリューションズ（キヤノンITS）は2017年8月2日、メインフレームの端末エミュレーター「TCPLink Enterprise Server」の新版を発表した。Windows Server 2016に対応したほか、暗号化通信ライブラリーを一新し、セキュリティの強度をアップした。]]></description>
-			<pubDate>Wed, 02 Aug 2017 10:30:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>消防庁、V-ALERT利用の災害情報伝達高度化事業を加古川市で実施（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080202048/</link>
-			<description><![CDATA[　総務省消防庁は、加古川市と協力してV-Lowマルチメディア放送を利用した「戸別受信機等での災害情報伝達手段に係る実証事業」を2017年9月から11月に実施する。近畿ブロックでV-Lowマルチメディア放送放送を提供する大阪マルチメディア放送は、この実証事業の実施に協力する。]]></description>
-			<pubDate>Wed, 02 Aug 2017 13:26:32 +0900</pubDate>
-		</item>
-		<item>
-			<title>N高が通学コースにプログラマ養成の「プログラミング クラス」を開設（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080202049/</link>
-			<description><![CDATA[　カドカワ傘下の角川ドワンゴ学園が運営する「N高等学校」（N高）は2017年8月2日、同校代々木キャンパスの通学コースにおいて、プログラミングを重点的に学習する「プログラミング クラス」を2018年4月に開設すると発表した。]]></description>
-			<pubDate>Wed, 02 Aug 2017 17:07:43 +0900</pubDate>
-		</item>
-		<item>
-			<title>ドリーム・アーツが次期サービス「ひびき」をAzure上に構築（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080202050/</link>
-			<description><![CDATA[　ドリーム・アーツは2017年8月2日、2018年3月から提供予定の次期サービス「ひびき」の基盤として米マイクロソフトのクラウドサービス「Microsoft Azure」を採用すると発表した。]]></description>
-			<pubDate>Wed, 02 Aug 2017 17:38:29 +0900</pubDate>
-		</item>
-		<item>
-			<title>世界に通じるIoTプラットフォームを目指す、KDDIがソラコム買収を正式発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080202051/</link>
-			<description><![CDATA[　KDDIは2017年8月2日、IoT（Internet of Things）向けの通信サービスを提供するソラコムを連結子会社化すると正式に発表した。8月下旬までにKDDIはソラコムの株式の取得を目指す。]]></description>
-			<pubDate>Wed, 02 Aug 2017 17:48:33 +0900</pubDate>
-		</item>
-		<item>
-			<title>事業部門でPaaS需要が高まる、パイプドビッツが説明（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080202053/</link>
-			<description><![CDATA[　パイプドビッツは2017年8月2日、PaaS（プラットフォーム・アズ・ア・サービス）事業の戦略説明会で事業部門によるシステム開発需要が高まっていると話した。]]></description>
-			<pubDate>Wed, 02 Aug 2017 20:18:02 +0900</pubDate>
-		</item>
-		<item>
-			<title>スマホでチェックイン、国内のシェラトンやウェスティンの一部で開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080202054/</link>
-			<description><![CDATA[　米マリオット・インターナショナルは2017年8月1日、6月から米国内を中心に展開しているスマートフォン（スマホ）アプリを使ったチェックイン／チェックアウトサービス「SPG Mobile Check-In」について、日本国内の「シェラトン」「ウェスティン」の一部ホテルで利用可能にしたと発表した。]]></description>
-			<pubDate>Wed, 02 Aug 2017 20:24:49 +0900</pubDate>
-		</item>
-		<item>
-			<title>技術者の転職はキャリアアップにつながるか？（エンジニア転職意識調査）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/073100014/</link>
-			<description><![CDATA[　果たして転職はキャリアアップにつながるのか。日経BP社の技術系媒体が実施した「エンジニア転職意識調査」では、7割超がキャリアアップにつながると考えていることが分かった。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>パソコン内蔵カメラじゃ無理？会議の様子を録画・録音する（会議に役立つ！PC活用のワザ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100304/072400002/</link>
 			<description><![CDATA[　ノートパソコン内蔵のWebカメラは、会議にはあまり向いていない。レンズが狭角で、パソコンの正面に座っている人のバストアップを撮影するのにちょうど良いものの、会議室の雰囲気やホワイトボードに記載された資料などを写すには視野が足りない。]]></description>
@@ -248,6 +14,12 @@
 			<title>給与ランキング：野村総研と三菱総研が1000万円超、富士通は800万円割る（ITサービス企業業績・給与ランキング2017）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600312/072700004/</link>
 			<description><![CDATA[　上場企業が公開する2016年度の有価証券報告書を基に、事業の成果に対して企業が従業員に支払う給与をランキングにした。コンピュータメーカーの日立製作所、富士通、NECと上場している外資系ITベンダーの日本オラクルも参考値として組み込んだ。取締役の平均報酬額も調べた。]]></description>
+			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>技術者の転職はキャリアアップにつながるか？（エンジニア転職意識調査）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/073100014/</link>
+			<description><![CDATA[　果たして転職はキャリアアップにつながるのか。日経BP社の技術系媒体が実施した「エンジニア転職意識調査」では、7割超がキャリアアップにつながると考えていることが分かった。]]></description>
 			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -275,6 +47,12 @@
 			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>鳴り物入りのマイクロソフト「Azure Stack」、誰向けか？（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/080101081/</link>
+			<description><![CDATA[　米マイクロソフトのクラウドサービスAzureの一部機能をオンプレミス環境で提供するアプライアンス製品「Azure Stack」が、2015年の発表から2年を経てついに登場する。出荷開始は2017年9月上旬の予定だ。早くも販売戦略を巡ってマイクロソフトとパートナー企業の間で隔たりが見られる。]]></description>
+			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>10.5型iPad Pro自腹レビュー、120Hzのヌルヌル感はRetina以来の衝撃だった（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/073100891/</link>
 			<description><![CDATA[　発売開始直後の2017年6月6日に10.5インチiPad Proを予約し、翌週6月13日に無事に手元に届いた。2年前に発売された旧12.9インチiPad Proの買い足しになる。12.9インチiPad Proと比較しつつ、新型10.5インチiPad Proの一カ月半の使用感をお伝えしよう。]]></description>
@@ -290,12 +68,6 @@
 			<title>「Windows 10移行とSurface2000台導入で働き方改革」、日清食品HD（Windows 7はいつやめる？）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600315/080100003/</link>
 			<description><![CDATA[　日清食品ホールディングス（HD）は2017年8月3日までに、社内の標準PCとして日本マイクロソフトのタブレットPC「Surfaceシリーズ」を全面導入する方針を固めたことが、日経コンピュータの取材で分かった。約2000台をWindows 10搭載のSurfaceに置き換える。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>鳴り物入りのマイクロソフト「Azure Stack」、誰向けか？（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/080101081/</link>
-			<description><![CDATA[　米マイクロソフトのクラウドサービスAzureの一部機能をオンプレミス環境で提供するアプライアンス製品「Azure Stack」が、2015年の発表から2年を経てついに登場する。出荷開始は2017年9月上旬の予定だ。早くも販売戦略を巡ってマイクロソフトとパートナー企業の間で隔たりが見られる。]]></description>
 			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -407,6 +179,96 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080302061/</link>
 			<description><![CDATA[　シスコシステムズは2017年8月3日、2021年までの世界のIPトラフィックを予測した「Cisco Visual Networking Index」の結果の詳細について記者説明会を行った。世界のIPトラフィックの年間平均成長率（CAGR）は24％で、日本は26％と高い伸びを続けると予測。世界のIPトラフィックは2021年に2016年の3倍に当たる年間3.3ゼタバイトに達し、ゼタバイト時代が到来するという。]]></description>
 			<pubDate>Thu, 03 Aug 2017 22:19:55 +0900</pubDate>
+		</item>
+		<item>
+			<title>ずっと使っているWindows Phoneの行く末が気になる（青木恵美の信州ITラプソディ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/080300035/</link>
+			<description><![CDATA[　スマートフォンとPCのOSが同じベンダーのものであれば、連携もよりスムーズにいくのではないかと考えるようになり、2012年頃からメインで使っているWindows PCとWindows Phoneの組み合わせを断続的に試している。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>iPadやPCが久しぶりの復調、米IT大手の2017年4～6月期決算（シリコンバレーNextレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/080300118/</link>
+			<description><![CDATA[　長らく不振に陥っていた米Appleの「iPad」や米Intelのパソコン向け半導体が復調している。米IT大手が2016年7月末から8月頭にかけて発表した17年4～6月期決算では、各社の業績に力強さが増していることが分かる。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「睡眠負債ゼロ」を目指してセンサー導入（健康IoT）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100303/072600005/</link>
+			<description><![CDATA[　JR西日本は全63拠点の7300人の運転士・車掌を対象に、睡眠時間や眠りの質を測定する仕組みを2018年3月までに本格導入することを計画中だ。乗務員の眠気に着目し、集中力を高めて事故などのトラブルを減らす狙いだ。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>XPの反省生かすイオン、Windows 7サポート切れの4年前から準備（Windows 7はいつやめる？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600315/080200004/</link>
+			<description><![CDATA[　イオングループは2017年6月、総合スーパー「イオン」など主要業態の本部・店舗で稼働するPC約4万8000台について、現行のWindows 7搭載PCからWindows 10搭載PCへの置き換えを始めた。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>自宅LANにリモートアクセス、「PiVPN」とラズパイで簡単に（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/080200018/</link>
+			<description><![CDATA[　外出先で自宅のLANにアクセスしたい。そんなときに便利なのがVPN（Virtual Private Network）です。自動設定ツール「PiVPN」を使うと、ラズパイで簡単にVPNサーバーを構築できます。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>自宅で眠っているソフトバンクのセルラー版iPadに復活のチャンス！？（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/080200062/</link>
+			<description><![CDATA[　スマートフォンやSIMを挿して使える（セルラー版の）タブレットが普及し始めてから、それなりの時間が経過していますので、機種変更や買い増しをした人も増えていると思います。その結果、自宅に眠っている古いスマートフォンやタブレットも多いのではないでしょうか。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>個人のブランドバックも貸し借り　ラクサス人気の秘訣（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/080200334/</link>
+			<description><![CDATA[　女性の間でファッションのシェアリングサービスが広まっている。2015年にブランドバッグのサービスを開始した「ラクサス」の人気とは？その背景と人気の秘訣に迫る。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>格安スマホ　落とし穴にはまらないサイトの読み方（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/080200333/</link>
+			<description><![CDATA[　店舗を持たない格安スマホ・格安SIMの通信会社において、ウェブサイトは重要な情報源だ。格安スマホや格安SIMの契約を検討する上で、特に注目すべきポイントは？]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>サーバーに大事なことは「PARIS」にあり（インタビュー＆トーク）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/080200343/</link>
+			<description><![CDATA[　サーバーマシンを手がけるコンピュータメーカーは、何を重視して製品を開発し、どこで競合他社との差別化を図っているのか。「PowerEdge」サーバーの最新世代（14世代）を発売した米Dell EMCのペンディカンティ氏に聞いた。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title> WannaCryに感染していないのにシステムが止まった話（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/080100892/</link>
+			<description><![CDATA[　「あんまり騒がないでくださいよ」。あるユーザー企業のセキュリティ専門家と会った時、こう言われた。世界中が泣かされたランサム（身代金）ウエア「WannaCry（ワナクライ）」の報道によって、社内システムが使えなくなったというのだ。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「メイドカフェでノマドワーク」が働き方改革の切り札ってホント？（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/080200332/</link>
+			<description><![CDATA[　「メイドカフェ」と聞いて、どんなイメージが思い浮かぶだろうか。「お帰りなさいませ、ご主人様」といった独特のセリフ、あるいはオムライスにケチャップで文字を書いてくれるサービスなどをイメージする人が多いかもしれない。ところが、「メイドカフェこそが仕事をする場として最適」と主張しているエンジニアがいる。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>転職で給与アップ、技術者の期待度（エンジニア転職意識調査）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/073100015/</link>
+			<description><![CDATA[　エンジニアの多くは、転職による給与アップには期待を抱いていない――。日経BP社の技術系媒体が実施した「エンジニア転職意識調査」からは、そんな実態が浮かび上がった。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>どんな会議でも手軽にプレゼン、モバイルプロジェクター選び（会議に役立つ！PC活用のワザ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100304/072400001/</link>
+			<description><![CDATA[　大きな画面を映すのに便利なのがプロジェクターだ。プロジェクターを使うと、会議室の壁が巨大スクリーンになる。こうした大きな画面でプレゼンテーションをすれば、相手に内容やポイントを伝えやすい。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>CDNでセキュリティ対策、サイトのTLS/SSL対応にも使える（徹底解説CDN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100005/</link>
+			<description><![CDATA[　ファイル配信のためだけでなく、セキュリティを高めるためにCDNを利用するケースが増えている。利用する機能は、DDoS攻撃対策やTLS/SSL対応だ。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>インターネットの代名詞だった米ヤフー、どこでつまずいたのか（情総研レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/072400056/</link>
+			<description><![CDATA[　2017年6月13日、米国の通信事業者ベライゾンは米ヤフーの中核事業の買収手続きを完了したと発表した。ネット創生期に登場し、かつては「インターネットの代名詞」とまで言われたヤフーはどこでつまずいてしまったのか。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
