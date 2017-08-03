@@ -5,10 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：増え続ける50代SE、減る20代と30代（どうする？50代SE）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200254/062900002/?n03</link>
-			<description><![CDATA[　人手不足に陥っているIT業界は採用による補充を急ぐが、労働人口の減少で新卒採用や中途採用では補いきれない。がぜん注目が集まっているのが、社内の50代SEの活性化だ。]]></description>
-			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：思わず膝を打った！すぐに使えるExcel便利ワザ（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/072800133/?d03</link>
+			<description><![CDATA[　今回は、Excelの便利な機能を5つ紹介する。これらのテクニックは、書籍を執筆するにあたっての取材で知ったもので、僕自身も知ったときには思わず膝を打った。Excelの便利ワザは記事や書籍をよく見るが、まだまだ知らないものがあるものだ。]]></description>
+			<pubDate>Tue, 01 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>35億円の追加支出に開発遅れも、マイナンバーの情報連携システム（ニュース解説）</title>
@@ -65,9 +65,9 @@
 			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>高速通信を実現するCDNが効率よくデータを配信する工夫（徹底解説CDN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100003/</link>
-			<description><![CDATA[　CDNサービスでは、ユーザーは最寄りの配信サーバーからデータをダウンロードできる。では、どうやって配信サーバーにファイルを振り分けているのか。その方法は、ミラー型とキャッシュ型に分類できる。]]></description>
+			<title>3位スタートもトラブルで敗退、三菱電機らの合同チーム（アマゾン・ロボティクス・チャレンジ報告）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072700317/073100004/</link>
+			<description><![CDATA[　三菱電機と中部大学、中京大学の合同チーム「MC^2」はアマゾン・ロボティクス・チャレンジの初回大会から参加している。2017年7月28日の競技初日は3位と好調な滑り出しだったが、競技2日目に想定外のトラブルに見舞われ敗退した。]]></description>
 			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -107,9 +107,9 @@
 			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>3位スタートもトラブルで敗退、三菱電機らの合同チーム（アマゾン・ロボティクス・チャレンジ報告）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072700317/073100004/</link>
-			<description><![CDATA[　三菱電機と中部大学、中京大学の合同チーム「MC^2」はアマゾン・ロボティクス・チャレンジの初回大会から参加している。2017年7月28日の競技初日は3位と好調な滑り出しだったが、競技2日目に想定外のトラブルに見舞われ敗退した。]]></description>
+			<title>高速通信を実現するCDNが効率よくデータを配信する工夫（徹底解説CDN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100003/</link>
+			<description><![CDATA[　CDNサービスでは、ユーザーは最寄りの配信サーバーからデータをダウンロードできる。では、どうやって配信サーバーにファイルを振り分けているのか。その方法は、ミラー型とキャッシュ型に分類できる。]]></description>
 			<pubDate>Wed, 02 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -233,15 +233,15 @@
 			<pubDate>Wed, 02 Aug 2017 20:24:49 +0900</pubDate>
 		</item>
 		<item>
-			<title>パソコン内蔵カメラじゃ無理？会議の様子を録画・録音する（会議に役立つ！PC活用のワザ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100304/072400002/</link>
-			<description><![CDATA[　ノートパソコン内蔵のWebカメラは、会議にはあまり向いていない。レンズが狭角で、パソコンの正面に座っている人のバストアップを撮影するのにちょうど良いものの、会議室の雰囲気やホワイトボードに記載された資料などを写すには視野が足りない。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>CDNがパブリックDNSを使っても最寄りサーバーを判断できる理由（徹底解説CDN）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100004/</link>
 			<description><![CDATA[　CDNサービスでは、DNSを利用して、ユーザーのアクセスを最寄りのサーバーに振り分けている。]]></description>
+			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>パソコン内蔵カメラじゃ無理？会議の様子を録画・録音する（会議に役立つ！PC活用のワザ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100304/072400002/</link>
+			<description><![CDATA[　ノートパソコン内蔵のWebカメラは、会議にはあまり向いていない。レンズが狭角で、パソコンの正面に座っている人のバストアップを撮影するのにちょうど良いものの、会議室の雰囲気やホワイトボードに記載された資料などを写すには視野が足りない。]]></description>
 			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -251,9 +251,9 @@
 			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>尿量センサーが介護の質を底上げ（健康IoT）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100303/072600004/</link>
-			<description><![CDATA[　介護施設運営大手のSOMPOケアネクストは2017年10月までに、同社が運営する全国115カ所の有料老人ホームの浴室や各居室に複数のセンサーを導入し終える計画だ。入居者のプライバシーを守りつつ職員の生産性を高める効果が出ているという。]]></description>
+			<title>10.5型iPad Pro自腹レビュー、120Hzのヌルヌル感はRetina以来の衝撃だった（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/073100891/</link>
+			<description><![CDATA[　発売開始直後の2017年6月6日に10.5インチiPad Proを予約し、翌週6月13日に無事に手元に届いた。2年前に発売された旧12.9インチiPad Proの買い足しになる。12.9インチiPad Proと比較しつつ、新型10.5インチiPad Proの一カ月半の使用感をお伝えしよう。]]></description>
 			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -293,9 +293,9 @@
 			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>10.5型iPad Pro自腹レビュー、120Hzのヌルヌル感はRetina以来の衝撃だった（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/073100891/</link>
-			<description><![CDATA[　発売開始直後の2017年6月6日に10.5インチiPad Proを予約し、翌週6月13日に無事に手元に届いた。2年前に発売された旧12.9インチiPad Proの買い足しになる。12.9インチiPad Proと比較しつつ、新型10.5インチiPad Proの一カ月半の使用感をお伝えしよう。]]></description>
+			<title>尿量センサーが介護の質を底上げ（健康IoT）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100303/072600004/</link>
+			<description><![CDATA[　介護施設運営大手のSOMPOケアネクストは2017年10月までに、同社が運営する全国115カ所の有料老人ホームの浴室や各居室に複数のセンサーを導入し終える計画だ。入居者のプライバシーを守りつつ職員の生産性を高める効果が出ているという。]]></description>
 			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
