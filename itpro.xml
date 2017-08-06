@@ -5,200 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：増え続ける50代SE、減る20代と30代（どうする？50代SE）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200254/062900002/?n06</link>
-			<description><![CDATA[　人手不足に陥っているIT業界は採用による補充を急ぐが、労働人口の減少で新卒採用や中途採用では補いきれない。がぜん注目が集まっているのが、社内の50代SEの活性化だ。]]></description>
-			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>技術者の転職はキャリアアップにつながるか？（エンジニア転職意識調査）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/073100014/</link>
-			<description><![CDATA[　果たして転職はキャリアアップにつながるのか。日経BP社の技術系媒体が実施した「エンジニア転職意識調査」では、7割超がキャリアアップにつながると考えていることが分かった。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>鳥取大・東芝チーム「ロボット開発は初めて」、アマゾン・ロボティクス・チャレンジ（アマゾン・ロボティクス・チャレンジ報告）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072700317/080100005/</link>
-			<description><![CDATA[　2017年7月27日～30日に開催されたロボットの競技会「アマゾン・ロボティクス・チャレンジ」では、ロボット開発における総合力が問われた。鳥取大学、東芝、東芝インフラシステムズ社の合同チーム（Team T2）は初参加ながら健闘したチームの一つだ。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>給与ランキング：野村総研と三菱総研が1000万円超、富士通は800万円割る（ITサービス企業業績・給与ランキング2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600312/072700004/</link>
-			<description><![CDATA[　上場企業が公開する2016年度の有価証券報告書を基に、事業の成果に対して企業が従業員に支払う給与をランキングにした。コンピュータメーカーの日立製作所、富士通、NECと上場している外資系ITベンダーの日本オラクルも参考値として組み込んだ。取締役の平均報酬額も調べた。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>SELinuxで今どきのログ収集サーバーを守る（IoT時代の最新SELinux入門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/080100009/</link>
-			<description><![CDATA[　前回、SELinuxのアクセス拒否が原因で起きる問題を、ApacheやZabixなどの事例を見ながら確認しました。今回はさらに進んで、SELinuxの機能により、新たにアプリケーションに特定のドメインを作成して制御する方法を紹介します。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>CDNがパブリックDNSを使っても最寄りサーバーを判断できる理由（徹底解説CDN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100004/</link>
-			<description><![CDATA[　CDNサービスでは、DNSを利用して、ユーザーのアクセスを最寄りのサーバーに振り分けている。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>パソコン内蔵カメラじゃ無理？会議の様子を録画・録音する（会議に役立つ！PC活用のワザ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100304/072400002/</link>
-			<description><![CDATA[　ノートパソコン内蔵のWebカメラは、会議にはあまり向いていない。レンズが狭角で、パソコンの正面に座っている人のバストアップを撮影するのにちょうど良いものの、会議室の雰囲気やホワイトボードに記載された資料などを写すには視野が足りない。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>10.5型iPad Pro自腹レビュー、120Hzのヌルヌル感はRetina以来の衝撃だった（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/073100891/</link>
-			<description><![CDATA[　発売開始直後の2017年6月6日に10.5インチiPad Proを予約し、翌週6月13日に無事に手元に届いた。2年前に発売された旧12.9インチiPad Proの買い足しになる。12.9インチiPad Proと比較しつつ、新型10.5インチiPad Proの一カ月半の使用感をお伝えしよう。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「Windows 10移行とSurface2000台導入で働き方改革」、日清食品HD（Windows 7はいつやめる？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600315/080100003/</link>
-			<description><![CDATA[　日清食品ホールディングス（HD）は2017年8月3日までに、社内の標準PCとして日本マイクロソフトのタブレットPC「Surfaceシリーズ」を全面導入する方針を固めたことが、日経コンピュータの取材で分かった。約2000台をWindows 10搭載のSurfaceに置き換える。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>買収した海外子会社の不始末相次ぐ、グローバル化に資するITに本腰を（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/080200090/</link>
-			<description><![CDATA[　「経営課題は何か」。日本企業の経営者に尋ねると、必ずと言ってよいほど二つの答えが返ってくる。イノベーションとグローバル化である。もちろん、個々の企業の置かれた状況によって、いろいろなバリエーションがあるが、煎じ詰めればこの二つに集約される。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>尿量センサーが介護の質を底上げ（健康IoT）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100303/072600004/</link>
-			<description><![CDATA[　介護施設運営大手のSOMPOケアネクストは2017年10月までに、同社が運営する全国115カ所の有料老人ホームの浴室や各居室に複数のセンサーを導入し終える計画だ。入居者のプライバシーを守りつつ職員の生産性を高める効果が出ているという。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>鳴り物入りのマイクロソフト「Azure Stack」、誰向けか？（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/080101081/</link>
-			<description><![CDATA[　米マイクロソフトのクラウドサービスAzureの一部機能をオンプレミス環境で提供するアプライアンス製品「Azure Stack」が、2015年の発表から2年を経てついに登場する。出荷開始は2017年9月上旬の予定だ。早くも販売戦略を巡ってマイクロソフトとパートナー企業の間で隔たりが見られる。]]></description>
-			<pubDate>Thu, 03 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>情報セキュリティアナリストの職務記述書（後）（情報セキュリティアナリストの職務記述書）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/072400058/072400002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　セキュリティ関連の職種では、その職務の内容や、何を求められているかが本人にきちんと伝わることが、成功への鍵だ。その第一歩となるのが、綿密なジョブディスクリプション（職務記述書）である。採用にあたっての重要な基準となるし、人材を採用した後も、その仕事ぶりを評価するための参照先となる。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400058/072400001/" target="_blank">前回</a>から続く）</p>
-
-<h4>資格と学歴</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400058/072400002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　資格や学歴については、企業によって方針が異なることがある。確かな技能があれば資格や学位は問わないという企業もあるかもしれないし、採用の際に資格や学位を足切りに使う企業もあるかもしれない。</p>
-
-<p>　資格の要件として、例えば次のようなものが考えられる。</p>
-
-<ul>
-<li>CISSP（Certified Information Systems Security Professional）</li>
-<li>CISM（Certified Information Security Manager）</li>
-<li>CISA（Certified Information Systems Auditor）</li>
-<li>CRISC（Certified in Risk and Information Systems Control）</li>
-<li>CEH（Certified Ethical Hacker）</li>
-<li>GIAC（Global Information Assurance Certification）</li>
-<li>米Microsoftや米Cisco Systemsなどが実施しているベンダー資格</li>
-</ul>
-
-<p>　また、学歴の要件については、下は高卒から、上は情報システムのMBAまで幅広い。大半の企業は、コンピューター科学やサイバーセキュリティといった専攻分野の大卒の学位を要件としている。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400058/072400002/?ST=cio-security&P=2">業種ごとの要件</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400058/072400002/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400058/072400002/?ST=cio-security&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400058/072400002/?ST=cio-security&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/072400058/072400002/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 03 Aug 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>仮想通貨による資金調達が加速？国内初ICO支援サービスの中身（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/080101080/</link>
-			<description><![CDATA[　テックビューロは2017年8月3日、企業が独自の仮想通貨を発行することで資金を調達する「ICO（Initial Coin Offering）」を支援するサービス「COMSA」を始めると発表した。]]></description>
-			<pubDate>Thu, 03 Aug 2017 08:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Appleの4～6月期決算は絶好調、iPadがけん引（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/080300402/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　新型iPhoneの登場がなくても、米Appleの決算は絶好調だ。同社が現地時間2017年8月1日に発表した2017会計年度第3四半期（2017年4～6月期）の決算は、売上高が454億ドル、純利益が87億ドル、1株当たり純利益が1.67ドルだった。</p>
-
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/080300402/ph01.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: IDG</div>
-</div>
-
-<p>　iPhoneの出荷台数は約4100万台。前期（2017年1～3月期）の約5070万台よりは減ったが、前年同期（2016年4～6月期）の4000万台強よりは若干増えた。</p>
-
-<p>　大きな驚きだったのがiPadだ。2017年6月の「WWDC」で発表された10.5インチの新型iPad Proの登場もあって、iPadの出荷台数は約1140万台となった。前期比では約30％増、前年同期比では約15％増で、ホリデーシーズン以外の四半期としては2年以上ぶりの好調な結果だ。一方で、iPadの売上高は前年同期比で約2％しか増えていない。つまり、低価格のモデルが人気を集めた可能性が考えられる。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/080300402/?ST=cm-hardware&P=2">今回の決算発表を受けて、Appleの株価は5％以上の急上昇となっ...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/080300402/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/080300402/?ST=cm-hardware&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/080300402/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 03 Aug 2017 10:08:38 +0900</pubDate>
-		</item>
-		<item>
-			<title>DeNAと小学館がデジタルメディア新会社、「MERY」ブランドを継続へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080302057/</link>
-			<description><![CDATA[　ディー・エヌ・エー（DeNA）と小学館は2017年8月3日、デジタルメディア事業を運営する共同出資会社を設立すると発表した。小学館の記事作成とDeNAのシステム構築・運用、それぞれのノウハウを持ち寄る。新しく開設するメディアサイトには「MERY」の名称を引き継ぐ。]]></description>
-			<pubDate>Thu, 03 Aug 2017 19:02:50 +0900</pubDate>
-		</item>
-		<item>
-			<title>NTTデータの2017年4～6月期決算、米デルのITサービス部門譲り受けで増収増益（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080302058/</link>
-			<description><![CDATA[　NTTデータは2017年8月3日、2017年4～6月期の連結決算を発表した。売上高は前年同期比37.8％増の5404億円、営業利益は同27.6％増の221億円だった。]]></description>
-			<pubDate>Thu, 03 Aug 2017 20:53:22 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソフトバンクグループ、中小企業向け融資の米カベージに275億円を出資へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080302060/</link>
-			<description><![CDATA[　オンライン融資を手掛けるFinTechスタートアップの米カベージは現地時間の2017年8月3日、ソフトバンクグループの子会社から2億5000万ドル（約275億円）の投資を受けることで合意したと発表した。]]></description>
-			<pubDate>Thu, 03 Aug 2017 21:20:54 +0900</pubDate>
-		</item>
-		<item>
-			<title>シスコの世界IPトラフィック予測、2021年にはインターネットはゼタバイト時代へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080302061/</link>
-			<description><![CDATA[　シスコシステムズは2017年8月3日、2021年までの世界のIPトラフィックを予測した「Cisco Visual Networking Index」の結果の詳細について記者説明会を行った。世界のIPトラフィックの年間平均成長率（CAGR）は24％で、日本は26％と高い伸びを続けると予測。世界のIPトラフィックは2021年に2016年の3倍に当たる年間3.3ゼタバイトに達し、ゼタバイト時代が到来するという。]]></description>
-			<pubDate>Thu, 03 Aug 2017 22:19:55 +0900</pubDate>
-		</item>
-		<item>
-			<title>自宅LANにリモートアクセス、「PiVPN」とラズパイで簡単に（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/080200018/</link>
-			<description><![CDATA[　外出先で自宅のLANにアクセスしたい。そんなときに便利なのがVPN（Virtual Private Network）です。自動設定ツール「PiVPN」を使うと、ラズパイで簡単にVPNサーバーを構築できます。]]></description>
-			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>転職で給与アップ、技術者の期待度（エンジニア転職意識調査）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/073100015/</link>
-			<description><![CDATA[　エンジニアの多くは、転職による給与アップには期待を抱いていない――。日経BP社の技術系媒体が実施した「エンジニア転職意識調査」からは、そんな実態が浮かび上がった。]]></description>
-			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>XPの反省生かすイオン、Windows 7サポート切れの4年前から準備（Windows 7はいつやめる？）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600315/080200004/</link>
 			<description><![CDATA[　イオングループは2017年6月、総合スーパー「イオン」など主要業態の本部・店舗で稼働するPC約4万8000台について、現行のWindows 7搭載PCからWindows 10搭載PCへの置き換えを始めた。]]></description>
@@ -211,57 +17,27 @@
 			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>転職で給与アップ、技術者の期待度（エンジニア転職意識調査）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/073100015/</link>
+			<description><![CDATA[　エンジニアの多くは、転職による給与アップには期待を抱いていない――。日経BP社の技術系媒体が実施した「エンジニア転職意識調査」からは、そんな実態が浮かび上がった。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>自宅LANにリモートアクセス、「PiVPN」とラズパイで簡単に（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/080200018/</link>
+			<description><![CDATA[　外出先で自宅のLANにアクセスしたい。そんなときに便利なのがVPN（Virtual Private Network）です。自動設定ツール「PiVPN」を使うと、ラズパイで簡単にVPNサーバーを構築できます。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>自宅で眠っているソフトバンクのセルラー版iPadに復活のチャンス！？（伊藤浩一のモバイルライフ応援日記）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/080200062/</link>
 			<description><![CDATA[　スマートフォンやSIMを挿して使える（セルラー版の）タブレットが普及し始めてから、それなりの時間が経過していますので、機種変更や買い増しをした人も増えていると思います。その結果、自宅に眠っている古いスマートフォンやタブレットも多いのではないでしょうか。]]></description>
 			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ずっと使っているWindows Phoneの行く末が気になる（青木恵美の信州ITラプソディ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/080300035/</link>
-			<description><![CDATA[　スマートフォンとPCのOSが同じベンダーのものであれば、連携もよりスムーズにいくのではないかと考えるようになり、2012年頃からメインで使っているWindows PCとWindows Phoneの組み合わせを断続的に試している。]]></description>
-			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iPadやPCが久しぶりの復調、米IT大手の2017年4～6月期決算（シリコンバレーNextレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/080300118/</link>
-			<description><![CDATA[　長らく不振に陥っていた米Appleの「iPad」や米Intelのパソコン向け半導体が復調している。米IT大手が2016年7月末から8月頭にかけて発表した17年4～6月期決算では、各社の業績に力強さが増していることが分かる。]]></description>
-			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「睡眠負債ゼロ」を目指してセンサー導入（健康IoT）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100303/072600005/</link>
-			<description><![CDATA[　JR西日本は全63拠点の7300人の運転士・車掌を対象に、睡眠時間や眠りの質を測定する仕組みを2018年3月までに本格導入することを計画中だ。乗務員の眠気に着目し、集中力を高めて事故などのトラブルを減らす狙いだ。]]></description>
-			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title> WannaCryに感染していないのにシステムが止まった話（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/080100892/</link>
-			<description><![CDATA[　「あんまり騒がないでくださいよ」。あるユーザー企業のセキュリティ専門家と会った時、こう言われた。世界中が泣かされたランサム（身代金）ウエア「WannaCry（ワナクライ）」の報道によって、社内システムが使えなくなったというのだ。]]></description>
-			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「メイドカフェでノマドワーク」が働き方改革の切り札ってホント？（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/080200332/</link>
-			<description><![CDATA[　「メイドカフェ」と聞いて、どんなイメージが思い浮かぶだろうか。「お帰りなさいませ、ご主人様」といった独特のセリフ、あるいはオムライスにケチャップで文字を書いてくれるサービスなどをイメージする人が多いかもしれない。ところが、「メイドカフェこそが仕事をする場として最適」と主張しているエンジニアがいる。]]></description>
-			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>CDNでセキュリティ対策、サイトのTLS/SSL対応にも使える（徹底解説CDN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100005/</link>
-			<description><![CDATA[　ファイル配信のためだけでなく、セキュリティを高めるためにCDNを利用するケースが増えている。利用する機能は、DDoS攻撃対策やTLS/SSL対応だ。]]></description>
-			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>個人のブランドバックも貸し借り　ラクサス人気の秘訣（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/080200334/</link>
-			<description><![CDATA[　女性の間でファッションのシェアリングサービスが広まっている。2015年にブランドバッグのサービスを開始した「ラクサス」の人気とは？その背景と人気の秘訣に迫る。]]></description>
-			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>格安スマホ　落とし穴にはまらないサイトの読み方（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/080200333/</link>
-			<description><![CDATA[　店舗を持たない格安スマホ・格安SIMの通信会社において、ウェブサイトは重要な情報源だ。格安スマホや格安SIMの契約を検討する上で、特に注目すべきポイントは？]]></description>
+			<title>インターネットの代名詞だった米ヤフー、どこでつまずいたのか（情総研レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/072400056/</link>
+			<description><![CDATA[　2017年6月13日、米国の通信事業者ベライゾンは米ヤフーの中核事業の買収手続きを完了したと発表した。ネット創生期に登場し、かつては「インターネットの代名詞」とまで言われたヤフーはどこでつまずいてしまったのか。]]></description>
 			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -271,9 +47,51 @@
 			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>インターネットの代名詞だった米ヤフー、どこでつまずいたのか（情総研レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/072400056/</link>
-			<description><![CDATA[　2017年6月13日、米国の通信事業者ベライゾンは米ヤフーの中核事業の買収手続きを完了したと発表した。ネット創生期に登場し、かつては「インターネットの代名詞」とまで言われたヤフーはどこでつまずいてしまったのか。]]></description>
+			<title>格安スマホ　落とし穴にはまらないサイトの読み方（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/080200333/</link>
+			<description><![CDATA[　店舗を持たない格安スマホ・格安SIMの通信会社において、ウェブサイトは重要な情報源だ。格安スマホや格安SIMの契約を検討する上で、特に注目すべきポイントは？]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>個人のブランドバックも貸し借り　ラクサス人気の秘訣（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/080200334/</link>
+			<description><![CDATA[　女性の間でファッションのシェアリングサービスが広まっている。2015年にブランドバッグのサービスを開始した「ラクサス」の人気とは？その背景と人気の秘訣に迫る。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ずっと使っているWindows Phoneの行く末が気になる（青木恵美の信州ITラプソディ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/080300035/</link>
+			<description><![CDATA[　スマートフォンとPCのOSが同じベンダーのものであれば、連携もよりスムーズにいくのではないかと考えるようになり、2012年頃からメインで使っているWindows PCとWindows Phoneの組み合わせを断続的に試している。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「メイドカフェでノマドワーク」が働き方改革の切り札ってホント？（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/080200332/</link>
+			<description><![CDATA[　「メイドカフェ」と聞いて、どんなイメージが思い浮かぶだろうか。「お帰りなさいませ、ご主人様」といった独特のセリフ、あるいはオムライスにケチャップで文字を書いてくれるサービスなどをイメージする人が多いかもしれない。ところが、「メイドカフェこそが仕事をする場として最適」と主張しているエンジニアがいる。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title> WannaCryに感染していないのにシステムが止まった話（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/080100892/</link>
+			<description><![CDATA[　「あんまり騒がないでくださいよ」。あるユーザー企業のセキュリティ専門家と会った時、こう言われた。世界中が泣かされたランサム（身代金）ウエア「WannaCry（ワナクライ）」の報道によって、社内システムが使えなくなったというのだ。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「睡眠負債ゼロ」を目指してセンサー導入（健康IoT）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100303/072600005/</link>
+			<description><![CDATA[　JR西日本は全63拠点の7300人の運転士・車掌を対象に、睡眠時間や眠りの質を測定する仕組みを2018年3月までに本格導入することを計画中だ。乗務員の眠気に着目し、集中力を高めて事故などのトラブルを減らす狙いだ。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>iPadやPCが久しぶりの復調、米IT大手の2017年4～6月期決算（シリコンバレーNextレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/080300118/</link>
+			<description><![CDATA[　長らく不振に陥っていた米Appleの「iPad」や米Intelのパソコン向け半導体が復調している。米IT大手が2016年7月末から8月頭にかけて発表した17年4～6月期決算では、各社の業績に力強さが増していることが分かる。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>CDNでセキュリティ対策、サイトのTLS/SSL対応にも使える（徹底解説CDN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100005/</link>
+			<description><![CDATA[　ファイル配信のためだけでなく、セキュリティを高めるためにCDNを利用するケースが増えている。利用する機能は、DDoS攻撃対策やTLS/SSL対応だ。]]></description>
 			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -360,6 +178,102 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080402063/</link>
 			<description><![CDATA[　Preferred Networks（PFN）は2017年8月4日、トヨタ自動車から約105億円の出資を受けた。]]></description>
 			<pubDate>Fri, 04 Aug 2017 15:06:33 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10とChromebookを併用、“節税”狙うフジテック（Windows 7はいつやめる？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600315/080300005/</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>オヤジ化するSIerとIT部門、中堅・若手に待ち受ける悲惨な未来（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/080300150/</link>
+			<description><![CDATA[　SIerやユーザー企業のIT部門で少子高齢化ならぬ「少“若”高齢化」問題が顕在化してきた。特に大手のSIerや大企業のIT部門で50代のシニア技術者の割合が増え続けているのだ。シニア技術者は男性が大半のため、SIerやIT部門の「オヤジ化問題」と言ってもよい。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「植物工場」で作った野菜を食べない日はない（野菜テック）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200283/071900001/</link>
+			<description><![CDATA[　業種・業態を問わず、IoTやAIといった先進ITを活用する動きが始まっている。植物工場はその一つだ。野菜テックの導入に挑む2社の経営トップへのインタビューを中心に、植物工場におけるIT活用最前線を見ていく。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>大手を本気にさせた格安スマホ、分離プランの引き金に（MVNO振興策の功罪）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/073100320/073100001/</link>
+			<description><![CDATA[　NTTドコモとKDDI（au）が2017年6～7月に相次ぎ打ち出した新料金プラン。単純な「値下げ」と捉える向きは多いが、本質は「携帯電話大手が端末と回線が一体となった現行の販売モデルからの脱却に向け、大きくかじを切った」ことにある。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「持てる者」と「持たざる者」のクラウド戦争（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/080300094/</link>
+			<description><![CDATA[　クラウドサービスが「AWS一人勝ち」の状態にあるのは誰しも認めるところです。どの程度一人勝ちなのでしょうか。かつてのPCの世界ではマイクロソフトが一人勝ちでした。今のAWSがあの時代のWindowsと同じくらい一人勝ちだとしたら、AzureやGCPを使う人はかなり変わっていることになります。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スイッチ使用率、シスコが3部門で首位独占（ネット機器 不満足度調査）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080100322/080100001/</link>
+			<description><![CDATA[　スイッチ部門では、「アクセススイッチ」「フロアスイッチ」「レイヤー 3スイッチ」という三つのジャンルに分けて、主に使っている機器ベンダーの回答を得た。使用率では、シスコシステムズが3部門で1位を独占した。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>攻撃者の立場で考えよう、ハッキングゲーム「Hacknet」で腕試し（ゲームでITを学ぼう）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080200325/080300001/</link>
+			<description><![CDATA[　「君の助けが必要だ」。Bitを名乗る人物からのメールに従ってサーバーやPCをハッキングすることで、ある陰謀の謎を解く情報を集めていく。そんなハッキング体験を架空のインターネットを舞台に味わえるゲームが「Hacknet」だ。UNIX風コマンドを駆使する内容で、コマンド入門にも役立つ。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>結果にコミット？CRMで売り上げ10億円増を狙うRIZAP（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/080301082/</link>
+			<description><![CDATA[　フィットネスジム運営などを手掛けるRIZAPグループは2017年10月をメドにCRM（顧客関係管理）システムを本格稼働する。蓄積したデータを分析することで、顧客ごとに最適な商品・サービスを提案。顧客満足度と顧客一人当たり売上高を向上させる考えだ。新システムの導入後1年間で10億円の売り上げ増を見込む。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ファミマが110億円かけてPOSレジ刷新、「客層ボタン」を廃止（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/080301083/</link>
+			<description><![CDATA[　ファミリーマートは2017年7月末から「次世代POS（販売時点情報管理）レジ」の導入を始めた。全国の約1万8000店に順次展開し、2018年2月までに導入を終える。POSレジを全面刷新するのは約11年ぶりだ。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>転職すれば幸せになると思いますか？（エンジニア転職意識調査）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071200282/080300016/</link>
+			<description><![CDATA[　「転職すれば、『今よりもやりがい・幸せを感じられる』と思いますか」。「エンジニア転職意識調査」では、「はい」が58.6％と「いいえ」をやや上回った。「はい」の割合が最も少ないのは40代だった。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>韓国スマホ銀行「カカオバンク」登場、大手行・地銀に広がる危機感（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/080300160/</link>
+			<description><![CDATA[　日本でも無料メッセンジャーアプリ「LINE」を使って、送金や料理の配達を依頼するなど、何でもメッセンジャーで解決できる時代になりつつある。韓国でもメッセンジャーをベースにした無店舗銀行が営業を開始し、その便利さから口座開設数が急増している。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「ブロックチェーンは思うほど早くは来ない」、MITメディアラボ所長が語った未来（THE NEW CONTEXT CONFERENCE 2017 TOKYOレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300326/080300001/</link>
+			<description><![CDATA[　デジタルガレージは2017年7月25日～26日、都内で自社イベント「THE NEW CONTEXT CONFERENCE 2017 TOKYO」を開催した。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>クルマの進化についていけない！販売店の悩みを「万脳手帳」で解決（トヨタのお店が欲しいIT）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072000295/072000001/</link>
+			<description><![CDATA[　神奈川トヨタ自動車などを傘下に持つKTグループが一風変わったIT展示会を開催した。KTグループは今実現したいことをトヨタ関係者やIT企業などに披露する場を設けた。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「それだ！」と経営層がほれ込む解決策は役に立たない（脱出！ 暗闇プロジェクト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/072700068/</link>
+			<description><![CDATA[　先が見えない暗闇プロジェクトで生じる問題を解決しようと、いくら労力をかけても奏功しないケースは多々ある。特に注意したいのは、経営層が「それだ！」とほれ込むような策だ。そのやり方が実際の問題解決に役立つことは、残念ながらまずあり得ない。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>年上の部下が言うことを聞かない時、あなたはどうする？（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/080200893/</link>
+			<description><![CDATA[　あの人に動いてもらうにはどうしたらいいのか――。変革を伴うITプロジェクトのリーダーは、技術的な課題だけでなく人間的な問題に悩むことが多い。立場や部門の異なる相手が思うように動かない場合の対処策について、「そんな考え方があったか！」と思う方策を最近聞いた。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>提案書は求めるのは4社まで、理由は二つ（永井昭弘のそれって丸投げ？ユーザー責任を斬る）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090600196/072600015/</link>
+			<description><![CDATA[　筆者が提案依頼書（RFP）の作成やベンダー選定のコンサルティングを実施する際、お客様である発注者には「RFPを提示するベンダーは4社以内にしましょう」とお願いしている。これには二つの大きな意味がある。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
