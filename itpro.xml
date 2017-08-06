@@ -5,6 +5,18 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>昨日、一番読まれた記事は：増え続ける50代SE、減る20代と30代（どうする？50代SE）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062200254/062900002/?d07</link>
+			<description><![CDATA[　人手不足に陥っているIT業界は採用による補充を急ぐが、労働人口の減少で新卒採用や中途採用では補いきれない。がぜん注目が集まっているのが、社内の50代SEの活性化だ。]]></description>
+			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>サーバーに大事なことは「PARIS」にあり（インタビュー＆トーク）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/080200343/</link>
+			<description><![CDATA[　サーバーマシンを手がけるコンピュータメーカーは、何を重視して製品を開発し、どこで競合他社との差別化を図っているのか。「PowerEdge」サーバーの最新世代（14世代）を発売した米Dell EMCのペンディカンティ氏に聞いた。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>XPの反省生かすイオン、Windows 7サポート切れの4年前から準備（Windows 7はいつやめる？）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600315/080200004/</link>
 			<description><![CDATA[　イオングループは2017年6月、総合スーパー「イオン」など主要業態の本部・店舗で稼働するPC約4万8000台について、現行のWindows 7搭載PCからWindows 10搭載PCへの置き換えを始めた。]]></description>
@@ -41,15 +53,15 @@
 			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>サーバーに大事なことは「PARIS」にあり（インタビュー＆トーク）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/080200343/</link>
-			<description><![CDATA[　サーバーマシンを手がけるコンピュータメーカーは、何を重視して製品を開発し、どこで競合他社との差別化を図っているのか。「PowerEdge」サーバーの最新世代（14世代）を発売した米Dell EMCのペンディカンティ氏に聞いた。]]></description>
-			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>格安スマホ　落とし穴にはまらないサイトの読み方（週末スペシャル）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/080200333/</link>
 			<description><![CDATA[　店舗を持たない格安スマホ・格安SIMの通信会社において、ウェブサイトは重要な情報源だ。格安スマホや格安SIMの契約を検討する上で、特に注目すべきポイントは？]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>CDNでセキュリティ対策、サイトのTLS/SSL対応にも使える（徹底解説CDN）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100005/</link>
+			<description><![CDATA[　ファイル配信のためだけでなく、セキュリティを高めるためにCDNを利用するケースが増えている。利用する機能は、DDoS攻撃対策やTLS/SSL対応だ。]]></description>
 			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -86,12 +98,6 @@
 			<title>iPadやPCが久しぶりの復調、米IT大手の2017年4～6月期決算（シリコンバレーNextレポート）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/080300118/</link>
 			<description><![CDATA[　長らく不振に陥っていた米Appleの「iPad」や米Intelのパソコン向け半導体が復調している。米IT大手が2016年7月末から8月頭にかけて発表した17年4～6月期決算では、各社の業績に力強さが増していることが分かる。]]></description>
-			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>CDNでセキュリティ対策、サイトのTLS/SSL対応にも使える（徹底解説CDN）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100302/072100005/</link>
-			<description><![CDATA[　ファイル配信のためだけでなく、セキュリティを高めるためにCDNを利用するケースが増えている。利用する機能は、DDoS攻撃対策やTLS/SSL対応だ。]]></description>
 			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -180,6 +186,12 @@
 			<pubDate>Fri, 04 Aug 2017 15:06:33 +0900</pubDate>
 		</item>
 		<item>
+			<title>スイッチ使用率、シスコが3部門で首位独占（ネット機器 不満足度調査）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080100322/080100001/</link>
+			<description><![CDATA[　スイッチ部門では、「アクセススイッチ」「フロアスイッチ」「レイヤー 3スイッチ」という三つのジャンルに分けて、主に使っている機器ベンダーの回答を得た。使用率では、シスコシステムズが3部門で1位を独占した。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>Windows 10とChromebookを併用、“節税”狙うフジテック（Windows 7はいつやめる？）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600315/080300005/</link>
 			<description><![CDATA[]]></description>
@@ -210,9 +222,9 @@
 			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>スイッチ使用率、シスコが3部門で首位独占（ネット機器 不満足度調査）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080100322/080100001/</link>
-			<description><![CDATA[　スイッチ部門では、「アクセススイッチ」「フロアスイッチ」「レイヤー 3スイッチ」という三つのジャンルに分けて、主に使っている機器ベンダーの回答を得た。使用率では、シスコシステムズが3部門で1位を独占した。]]></description>
+			<title>年上の部下が言うことを聞かない時、あなたはどうする？（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/080200893/</link>
+			<description><![CDATA[　あの人に動いてもらうにはどうしたらいいのか――。変革を伴うITプロジェクトのリーダーは、技術的な課題だけでなく人間的な問題に悩むことが多い。立場や部門の異なる相手が思うように動かない場合の対処策について、「そんな考え方があったか！」と思う方策を最近聞いた。]]></description>
 			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -264,16 +276,41 @@
 			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>年上の部下が言うことを聞かない時、あなたはどうする？（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/080200893/</link>
-			<description><![CDATA[　あの人に動いてもらうにはどうしたらいいのか――。変革を伴うITプロジェクトのリーダーは、技術的な課題だけでなく人間的な問題に悩むことが多い。立場や部門の異なる相手が思うように動かない場合の対処策について、「そんな考え方があったか！」と思う方策を最近聞いた。]]></description>
-			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>提案書は求めるのは4社まで、理由は二つ（永井昭弘のそれって丸投げ？ユーザー責任を斬る）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090600196/072600015/</link>
 			<description><![CDATA[　筆者が提案依頼書（RFP）の作成やベンダー選定のコンサルティングを実施する際、お客様である発注者には「RFPを提示するベンダーは4社以内にしましょう」とお願いしている。これには二つの大きな意味がある。]]></description>
 			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>行政機関の公開データをセキュリティ人材の獲得に生かす方法（前）（行政機関の公開データをセキュリティ人材の獲得に生かす方法）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/073100059/073100001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　現在のシリコンバレーでは、Lyft、Airbnb、Facebook、Googleなど、きら星のごとき企業を相手にサイバーセキュリティ人材の獲得競争を繰り広げなくてはならず、当地でITビジネスを成長させていくのは厄介である。そう話すのは、米OneLoginの人事担当バイスプレジデント、Mai Ton氏だ。クラウド型のID／アクセス管理サービスを手がける同社にとって、厳しい現実と言える。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/073100059/073100001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　加えて、サイバーセキュリティ人材の不足が、状況に拍車をかけている。米Cybersecurity Venturesによると、サイバーセキュリティ人材の欠員は、2016年の100万から、2021年には350万まで増える見通しだ。</p>
+
+<p>　OneLoginは、人材確保のために、サイバーセキュリティのスキルを持つ技術者が大勢いる米国内の別の都市に、事業の一部を移すことを検討した。同社の人事担当幹部たちは、これまでの常識から考えて、エンジニアを見つけやすいのはシアトルやニューヨークだろうと思っていた。だが、公開されているデータを調べてみたところ、「実はそうではないことが分かった」とTon氏は言う。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/073100059/073100001/?ST=cio-security&P=2">米労働統計局が公開しているデータツールをはじめ、...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/073100059/073100001/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/073100059/073100001/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/073100059/073100001/?ST=cio-security&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/073100059/073100001/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 07 Aug 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
