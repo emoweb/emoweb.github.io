@@ -11,6 +11,12 @@
 			<pubDate>Mon, 03 Jul 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>自宅LANにリモートアクセス、「PiVPN」とラズパイで簡単に（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/080200018/</link>
+			<description><![CDATA[　外出先で自宅のLANにアクセスしたい。そんなときに便利なのがVPN（Virtual Private Network）です。自動設定ツール「PiVPN」を使うと、ラズパイで簡単にVPNサーバーを構築できます。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>iPadやPCが久しぶりの復調、米IT大手の2017年4～6月期決算（シリコンバレーNextレポート）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/080300118/</link>
 			<description><![CDATA[　長らく不振に陥っていた米Appleの「iPad」や米Intelのパソコン向け半導体が復調している。米IT大手が2016年7月末から8月頭にかけて発表した17年4～6月期決算では、各社の業績に力強さが増していることが分かる。]]></description>
@@ -47,15 +53,15 @@
 			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>自宅LANにリモートアクセス、「PiVPN」とラズパイで簡単に（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/080200018/</link>
-			<description><![CDATA[　外出先で自宅のLANにアクセスしたい。そんなときに便利なのがVPN（Virtual Private Network）です。自動設定ツール「PiVPN」を使うと、ラズパイで簡単にVPNサーバーを構築できます。]]></description>
-			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>自宅で眠っているソフトバンクのセルラー版iPadに復活のチャンス！？（伊藤浩一のモバイルライフ応援日記）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/080200062/</link>
 			<description><![CDATA[　スマートフォンやSIMを挿して使える（セルラー版の）タブレットが普及し始めてから、それなりの時間が経過していますので、機種変更や買い増しをした人も増えていると思います。その結果、自宅に眠っている古いスマートフォンやタブレットも多いのではないでしょうか。]]></description>
+			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「メイドカフェでノマドワーク」が働き方改革の切り札ってホント？（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/080200332/</link>
+			<description><![CDATA[　「メイドカフェ」と聞いて、どんなイメージが思い浮かぶだろうか。「お帰りなさいませ、ご主人様」といった独特のセリフ、あるいはオムライスにケチャップで文字を書いてくれるサービスなどをイメージする人が多いかもしれない。ところが、「メイドカフェこそが仕事をする場として最適」と主張しているエンジニアがいる。]]></description>
 			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -86,12 +92,6 @@
 			<title>ずっと使っているWindows Phoneの行く末が気になる（青木恵美の信州ITラプソディ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/080300035/</link>
 			<description><![CDATA[　スマートフォンとPCのOSが同じベンダーのものであれば、連携もよりスムーズにいくのではないかと考えるようになり、2012年頃からメインで使っているWindows PCとWindows Phoneの組み合わせを断続的に試している。]]></description>
-			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「メイドカフェでノマドワーク」が働き方改革の切り札ってホント？（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/080200332/</link>
-			<description><![CDATA[　「メイドカフェ」と聞いて、どんなイメージが思い浮かぶだろうか。「お帰りなさいませ、ご主人様」といった独特のセリフ、あるいはオムライスにケチャップで文字を書いてくれるサービスなどをイメージする人が多いかもしれない。ところが、「メイドカフェこそが仕事をする場として最適」と主張しているエンジニアがいる。]]></description>
 			<pubDate>Fri, 04 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -186,6 +186,12 @@
 			<pubDate>Fri, 04 Aug 2017 15:06:33 +0900</pubDate>
 		</item>
 		<item>
+			<title>大手を本気にさせた格安スマホ、分離プランの引き金に（MVNO振興策の功罪）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/073100320/073100001/</link>
+			<description><![CDATA[　NTTドコモとKDDI（au）が2017年6～7月に相次ぎ打ち出した新料金プラン。単純な「値下げ」と捉える向きは多いが、本質は「携帯電話大手が端末と回線が一体となった現行の販売モデルからの脱却に向け、大きくかじを切った」ことにある。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「持てる者」と「持たざる者」のクラウド戦争（NRI楠真 強いITはココが違う）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/080300094/</link>
 			<description><![CDATA[　クラウドサービスが「AWS一人勝ち」の状態にあるのは誰しも認めるところです。どの程度一人勝ちなのでしょうか。かつてのPCの世界ではマイクロソフトが一人勝ちでした。今のAWSがあの時代のWindowsと同じくらい一人勝ちだとしたら、AzureやGCPを使う人はかなり変わっていることになります。]]></description>
@@ -222,15 +228,15 @@
 			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>大手を本気にさせた格安スマホ、分離プランの引き金に（MVNO振興策の功罪）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/073100320/073100001/</link>
-			<description><![CDATA[　NTTドコモとKDDI（au）が2017年6～7月に相次ぎ打ち出した新料金プラン。単純な「値下げ」と捉える向きは多いが、本質は「携帯電話大手が端末と回線が一体となった現行の販売モデルからの脱却に向け、大きくかじを切った」ことにある。]]></description>
-			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>「それだ！」と経営層がほれ込む解決策は役に立たない（脱出！ 暗闇プロジェクト）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/120500119/072700068/</link>
 			<description><![CDATA[　先が見えない暗闇プロジェクトで生じる問題を解決しようと、いくら労力をかけても奏功しないケースは多々ある。特に注意したいのは、経営層が「それだ！」とほれ込むような策だ。そのやり方が実際の問題解決に役立つことは、残念ながらまずあり得ない。]]></description>
+			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>攻撃者の立場で考えよう、ハッキングゲーム「Hacknet」で腕試し（ゲームでITを学ぼう）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080200325/080300001/</link>
+			<description><![CDATA[　「君の助けが必要だ」。Bitを名乗る人物からのメールに従ってサーバーやPCをハッキングすることで、ある陰謀の謎を解く情報を集めていく。そんなハッキング体験を架空のインターネットを舞台に味わえるゲームが「Hacknet」だ。UNIX風コマンドを駆使する内容で、コマンド入門にも役立つ。]]></description>
 			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -273,12 +279,6 @@
 			<title>「ブロックチェーンは思うほど早くは来ない」、MITメディアラボ所長が語った未来（THE NEW CONTEXT CONFERENCE 2017 TOKYOレポート）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300326/080300001/</link>
 			<description><![CDATA[　デジタルガレージは2017年7月25日～26日、都内で自社イベント「THE NEW CONTEXT CONFERENCE 2017 TOKYO」を開催した。]]></description>
-			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>攻撃者の立場で考えよう、ハッキングゲーム「Hacknet」で腕試し（ゲームでITを学ぼう）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080200325/080300001/</link>
-			<description><![CDATA[　「君の助けが必要だ」。Bitを名乗る人物からのメールに従ってサーバーやPCをハッキングすることで、ある陰謀の謎を解く情報を集めていく。そんなハッキング体験を架空のインターネットを舞台に味わえるゲームが「Hacknet」だ。UNIX風コマンドを駆使する内容で、コマンド入門にも役立つ。]]></description>
 			<pubDate>Mon, 07 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -356,6 +356,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080702064/</link>
 			<description><![CDATA[　丸井グループは2017年8月7日、仮想通貨ビットコイン（Bitcoin）の試験導入を東京・新宿の「新宿マルイ アネックス」店で始めた。期間は同年10月末までの約3カ月。試験導入で利便性向上の効果を見極め、全店で導入するか検討する。]]></description>
 			<pubDate>Mon, 07 Aug 2017 14:05:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>NEC、国内電力事業者向けスマートエネルギーソリューションを提供（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080702068/</link>
+			<description><![CDATA[　NECは2017年8月7日、2020年の国内送配電分離を見据え、サクラメント電力公社（SMUD）、SpaceTime Insightと協業し、国内電力事業者向けスマートエネルギーソリューションの提供を開始したと発表した。送配電事業者向けに「設備管理高度化ソリューション」を提供し、今年度中に1件の受注獲得を目指す。]]></description>
+			<pubDate>Mon, 07 Aug 2017 18:51:49 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
