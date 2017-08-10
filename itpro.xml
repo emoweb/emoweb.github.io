@@ -11,12 +11,6 @@
 			<pubDate>Tue, 08 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>日本通信がソフトバンク回線活用の格安SIM、音声通話対応で月2450円から（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080902082/</link>
-			<description><![CDATA[　日本通信は2017年8月9日、ソフトバンク回線を活用した格安SIM「b-mobile S スマホ電話SIM」の提供を8月16日に始めると発表した。ソフトバンク回線を活用した格安SIMはこれまで、データ通信サービスだけの提供にとどまっていたが、新たに音声通話に対応した。]]></description>
-			<pubDate>Wed, 09 Aug 2017 15:41:18 +0900</pubDate>
-		</item>
-		<item>
 			<title>LTE回線使い機内Wi-Fi、ドコモとANAなど実証実験（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080902083/</link>
 			<description><![CDATA[　NTTドコモ、海上・港湾・航空技術研究所電子航法研究所（ENRI）、ジャムコ、全日本空輸（ANA）、パナソニックは2017年8月8日、LTE方式の通信技術を応用した地対空通信方式による機内無線LAN（Wi-Fi）の実証実験に成功したと発表した。]]></description>
@@ -39,6 +33,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/080902087/</link>
 			<description><![CDATA[　NECは2017年8月9日、同社の府中事業場においてレーダー衛星「ASNARO-2」の機体を報道関係者に公開した。]]></description>
 			<pubDate>Wed, 09 Aug 2017 21:07:44 +0900</pubDate>
+		</item>
+		<item>
+			<title>「デフォルトじゃないブラウザー」の開発者大集合！Webの未来を語る（夏休みスペシャル 2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300327/080700002/</link>
+			<description><![CDATA[　「デフォルトじゃないブラウザー」の開発者が一堂に会してWebの未来を語るというイベントが2017年6月30日に開かれた。]]></description>
+			<pubDate>Thu, 10 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>「上から目線」と「儲かりまっか」がオープンイノベーションを失敗させる（記者の眼）</title>
@@ -77,9 +77,9 @@
 			<pubDate>Thu, 10 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「デフォルトじゃないブラウザー」の開発者大集合！Webの未来を語る（夏休みスペシャル 2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300327/080700002/</link>
-			<description><![CDATA[　「デフォルトじゃないブラウザー」の開発者が一堂に会してWebの未来を語るというイベントが2017年6月30日に開かれた。]]></description>
+			<title>AI音声アシスタントを巡る新たな戦い（情総研レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/080700058/</link>
+			<description><![CDATA[　米アマゾン・ドット・コムが音声アシスタント搭載スピーカー「Amazon Echo」を市場投入したのは2014年秋のこと。そこから遅れること約2年、米グーグルが同製品の対抗馬となる「Google Home」の販売を開始した。また、グーグル以外の企業も類似の製品展開を始めている。各製品の特徴と各社の狙いを解説する。]]></description>
 			<pubDate>Thu, 10 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -95,15 +95,15 @@
 			<pubDate>Thu, 10 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Java SE 9はAPI実験の場をIncubator Modulesで提供、第1弾はHTTP/2 Client（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/080700044/</link>
-			<description><![CDATA[　Java SE 9では、今までのJavaでは考えられなかった機構が取り入れられました。Java SE 8までは非公式に行われていた実験的なAPIの実装を、Java SE 9では「JEP 11: Incubator Modules」として公式にできるようになったのです。]]></description>
+			<title>新たな脆弱性、SELinuxで守れるかテスト（IoT時代の最新SELinux入門）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/080800010/</link>
+			<description><![CDATA[　前回はSELinuxの機能を利用したドメインを作成し、制御する方法を紹介しました。この際、ポリシーを追加し、許可の要/不要を吟味しました。今回はこのポリシーをより詳しく解析していきましょう。]]></description>
 			<pubDate>Thu, 10 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>AI音声アシスタントを巡る新たな戦い（情総研レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/080700058/</link>
-			<description><![CDATA[　米アマゾン・ドット・コムが音声アシスタント搭載スピーカー「Amazon Echo」を市場投入したのは2014年秋のこと。そこから遅れること約2年、米グーグルが同製品の対抗馬となる「Google Home」の販売を開始した。また、グーグル以外の企業も類似の製品展開を始めている。各製品の特徴と各社の狙いを解説する。]]></description>
+			<title>エンジニアが知っておきたい夏バテ撃退法（夏休みスペシャル 2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300327/080700003/</link>
+			<description><![CDATA[　暑い日が続く2017年の夏。「夏バテ気味だ」と感じる読者は多いかもしれない。なかには猛暑で体力を奪われ、食欲が落ちている人もいるだろう。そこでこの夏休みスペシャルでは、IT企業でエンジニア向けの保健指導を務める金橋治美氏（保健師）に、夏バテを解消する夏休みの有意義な過ごし方を聞いた。]]></description>
 			<pubDate>Thu, 10 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -155,15 +155,9 @@
 			<pubDate>Thu, 10 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>新たな脆弱性、SELinuxで守れるかテスト（IoT時代の最新SELinux入門）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900153/080800010/</link>
-			<description><![CDATA[　前回はSELinuxの機能を利用したドメインを作成し、制御する方法を紹介しました。この際、ポリシーを追加し、許可の要/不要を吟味しました。今回はこのポリシーをより詳しく解析していきましょう。]]></description>
-			<pubDate>Thu, 10 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>エンジニアが知っておきたい夏バテ撃退法（夏休みスペシャル 2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300327/080700003/</link>
-			<description><![CDATA[　暑い日が続く2017年の夏。「夏バテ気味だ」と感じる読者は多いかもしれない。なかには猛暑で体力を奪われ、食欲が落ちている人もいるだろう。そこでこの夏休みスペシャルでは、IT企業でエンジニア向けの保健指導を務める金橋治美氏（保健師）に、夏バテを解消する夏休みの有意義な過ごし方を聞いた。]]></description>
+			<title>Java SE 9はAPI実験の場をIncubator Modulesで提供、第1弾はHTTP/2 Client（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/080700044/</link>
+			<description><![CDATA[　Java SE 9では、今までのJavaでは考えられなかった機構が取り入れられました。Java SE 8までは非公式に行われていた実験的なAPIの実装を、Java SE 9では「JEP 11: Incubator Modules」として公式にできるようになったのです。]]></description>
 			<pubDate>Thu, 10 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -251,6 +245,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/081002090/</link>
 			<description><![CDATA[　ローソンは2017年8月10日、全国約1万3000店のPOS（販売時点情報管理）レジを刷新すると発表した。11月1日から順次導入する。店舗の生産性を向上させるとともにスタッフの負担を軽減し、人手不足に対応する狙いがある。]]></description>
 			<pubDate>Thu, 10 Aug 2017 18:27:32 +0900</pubDate>
+		</item>
+		<item>
+			<title>GEヘルスケア、Predixを活用して医療機関データを分析するコンサルサービス（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/081002091/</link>
+			<description><![CDATA[　GEヘルスケア・ジャパンは2017年8月10日、「Applied Intelligence 医療データ分析サービス」の販売を開始した。米GEのIoT基盤「Predix」を活用して医療機関が保有するデータを分析し、経営上の課題を可視化して改善を支援するコンサルティングサービスを提供する。]]></description>
+			<pubDate>Thu, 10 Aug 2017 18:51:48 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
