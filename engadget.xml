@@ -5,27 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    FirefoxがWebVRに正式対応｡Oculus Rift / HTC VIVEでブラウザー向けVRコンテンツ再生
-</title>
-			<link>http://japanese.engadget.com/2017/08/08/firefox-webvr-oculus-rift-htc-vive-vr/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/dacd27f64aad9664bc639aa3799189fe/205548073/mainvr.jpg" />
-Mozillaが、8月8日公開のデスクトップ版Firefoxブラウザーの最新版 Firefox 55 で WebVR に正式対応すると発表しました。Firefoxは2015年にはNightly版でWebVRに仮対応していましたが、ようやく正式版でもOculus RiftやHTC ViVEを使ってWebVRコンテンツを楽しめるようになります。
-
-WebVRはもともとMozillaに所属していたVladimir Vukicevicらがその構想を打ち出し、開発を始めた技術。ところがその後VukicevicがゲームエンジンのUnityに移ったことでFirefoxでの開発は停滞することになりました。
-
-そして、最近のVR/ARの急成長ぶりは御存知のとおり。Daydreamヘッドセットを持つGoogleは今年2月にChromeブラウザーをWebVRに対応させ、Holorlensを擁するマイクロソフトも4月にEdgeブラウザーを対応させています。
-
-本来なら"本家"だったはずのMozillaはやや遅れたものの、7月中旬には開発ロードマップでFirefox 55でのWebVR対応を明らかにしており、ようやく8月8日にリリースの運びとなりました。
-
-Firefox 55はWebVRの他にも任意のエリア/表示エリア全体/ページ全体を手軽に取得できるスクリーンショット機能を標準搭載したほか、マルチスレッド動作を司るe10sの微調整、さらにインストーラーの64bit化など細かい修正を含みます。
-
-ただし、スクリーンショット機能は8月8日配布のFirefox 55すべてには含まれず、徐々にユーザーを拡大するロールアウト方式の提供になるとのこと。すでにスクリーンショットの拡張機能を利用している人は、組み込みのスクリーンショットが来るまで、そのまま使い続けるのが正解です。
-　
-
- ]]></description>
-			<pubDate>Wed, 09 Aug 2017 05:26:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    iPhone 8(仮)の画像が流出(タフ系ケース付き)。やはりホームボタンなし､凹型ベゼルレスになる？
 </title>
 			<link>http://japanese.engadget.com/2017/08/08/iphone-8/</link>
@@ -541,6 +520,17 @@ Androidスマホと接続して使用するタイプではありますが、LINK
 今回ソフトバンクからLINKとU11の実機を借用したので、セットアップから実際のVR体験までをレビューいたします！
  ]]></description>
 			<pubDate>Fri, 11 Aug 2017 05:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    LG次期旗艦スマホV30はF1.6レンズと有機EL画面搭載。本体発表前に2通の公式文書で特徴を公開
+</title>
+			<link>http://japanese.engadget.com/2017/08/10/lg-v30-f1-6-el-2/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/f3a5d7dd524ef41c469645a6c9949299/205555540/LG-V30-Crystal-Clear-Lens.jpg" />
+韓国のLG Electronicsが次期フラッグシップスマートフォンLG V30に、スマートフォンとしては最高クラスの明るさとなるF1.6のレンズを採用すると発表。プレスリリースを公開しています。
+
+レンズのF値とは、焦点距離を有効口径で割った値。この値が小さいほどレンズを通る光量が多くなり、明るい写真を撮ることができます。新開発のCrystal Clear Lensを採用することで実現したF1.6のレンズは、従来のF1.8のレンズと比べて25%多くの光をセンサーに送れるとのこと。
+ ]]></description>
+			<pubDate>Fri, 11 Aug 2017 06:45:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
