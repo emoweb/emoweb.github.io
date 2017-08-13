@@ -5,7 +5,7 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2017-08-13 23:09:11 +0900</title>
+			<title>2017-08-14 00:09:21 +0900</title>
 			<link> </link>
 			<description><![CDATA[<strong>wired</strong><br/><p>#&lt;RuntimeError: redirection forbidden: http://wired.jp/feed/ -&gt; https://wired.jp/feed/&gt;
 in
@@ -22,33 +22,8 @@ in
 /data/src/rss_crawler/src/pipes/wired.rb:70:in `block in &lt;top (required)&gt;&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `call&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
-/data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p><br/><br/><strong>gigazine</strong><br/><p>#&lt;SocketError: getaddrinfo: Name or service not known&gt;
-in
-/usr/share/ruby/net/http.rb:878:in `initialize&#39;
-/usr/share/ruby/net/http.rb:878:in `open&#39;
-/usr/share/ruby/net/http.rb:878:in `block in connect&#39;
-/usr/share/ruby/timeout.rb:52:in `timeout&#39;
-/usr/share/ruby/net/http.rb:877:in `connect&#39;
-/usr/share/ruby/net/http.rb:862:in `do_start&#39;
-/usr/share/ruby/net/http.rb:851:in `start&#39;
-/usr/share/ruby/net/http.rb:1373:in `request&#39;
-/usr/share/ruby/net/http.rb:1131:in `get&#39;
-/data/src/rss_crawler/src/lib/httputil.rb:64:in `request&#39;
-/data/src/rss_crawler/src/lib/httputil.rb:82:in `get&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:328:in `page_access&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:258:in `get_description&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:230:in `block in fetch&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:236:in `call&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:236:in `block in fetch&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:234:in `each&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:234:in `each_with_index&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:234:in `fetch&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:183:in `pipe_procedure&#39;
-/data/src/rss_crawler/src/pipes/simple_pipes.rb:11:in `block (2 levels) in &lt;top (required)&gt;&#39;
-/data/src/rss_crawler/src/rss_crawler.rb:44:in `call&#39;
-/data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
-			<pubDate>Sun, 13 Aug 2017 23:09:11 +0900</pubDate>
+			<pubDate>Mon, 14 Aug 2017 00:09:21 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
