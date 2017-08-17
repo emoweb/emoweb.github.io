@@ -5,25 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    サーバ級PC向けWindows 10 Pro for Workstation発表。ReFSや永続メモリもサポート
-</title>
-			<link>http://japanese.engadget.com/2017/08/15/pc-windows-10-pro-for-workstation-refs/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/7a6556914df4171844ebc19a897c983f/205567086/win10profirworkstations.jpg" />
-米Microsoftは現地時間の8月10日、Windows 10 Proの上位版となるWindows 10 Pro for Workstationsを発表しました。Windows Insiderからのフィードバックを参考に、企業の基幹システムで利用されるようなサーバーグレードの機能をサポートし、ミッションクリティカルなシナリオでも利用できるよう設計されたバージョンとのこと。
-
-ファイルシステムとしてWindows Sever 2012で導入された、データの復旧性や耐障害性に優れたReFS(Resilient file system)に対応するほか、通常のDRAMとは別にバックアップ用の不揮発性メモリを搭載する永続メモリ NVDIMM-Nをサポート。不意の電源断でもメモリ内容を保護することが可能です。
-
-また、SMB Directと呼ばれるデータ共有機能に対応。 こちらもWindows Sever 2012以降で利用できる機能ですが、ローカルのCPUに負荷を掛けず、大きなデータを高速に共有できます。ただし、Remote Direct Memory Access (RDMA) に対応したネットワークアダプタが必要となります。
-
-このほか、Windows 10 Proでは2CPU、メモリ最大2TBまでしかサポートしていませんでしたが、Windows 10 Pro for Workstationsでは4CPU、メモリ最大6TBまで拡張。よりハイエンドな構成を利用可能になります。
-
-従来よりハイエンドな構成を利用可能になり、サーバーグレードの機能をサポートするとはいえ、名前からわかる通り、あくまでもクライアント向けのOSです。サーバー向けの最新OSはWindows Server 2016のままとなります。ちなみにWindows Server 2016では64CPU、メモリ最大24TBをサポートしています。
-
-Windows 10 Pro for Workstationsは、今秋予定されている大型アップデート Fall Creators Updateの一部として提供予定となっています。
- ]]></description>
-			<pubDate>Tue, 15 Aug 2017 15:39:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    ポケモンGO、逃した伝説のポケモン獲得チャンス。フリーザー・ファイヤー・サンダーにルギアが揃い踏み再登場
 </title>
 			<link>http://japanese.engadget.com/2017/08/15/go/</link>
@@ -521,6 +502,26 @@ Google Homeは今夏日本でも発売されることが発表済み。
 そういった際に便利なスマートフォン（AndroidとiOS）用アプリが、ヤフーが提供する「Yahoo! 天気」。新機能として、落雷の可能性やその激しさが確認できる新機能「雷レーダー」を搭載ました。従来から定評ある、雨雲の動きがわかる機能「雨雲レーダー」と合わせると、判断がぐっと楽になります。
  ]]></description>
 			<pubDate>Fri, 18 Aug 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    サムスン･Foxconnが高速無線通信技術｢Kiss｣を支援。60GHz帯使用で映画の転送も数秒
+</title>
+			<link>http://japanese.engadget.com/2017/08/17/foxconn-kiss-60ghz/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/538a917bca60f4904cf11fdbad94f068/205576292/mainkesa.jpg" />
+Keyssaなる企業が、新高速無線通信規格「Kiss」の普及に取り組む「Connected World構想」を発表、サムスンやFoxconnといったモバイル企業の支援を獲得したと発表しました。Keyssaにはすでにインテルやドルビー研究所、iPodの発明で知られるトニー・ファデル、さらにEssensial Phoneを発表したばかりのPlayground Global("Androidの父"ことアンディ・ルービンの会社)らが投資しています。
+
+Kissは、互いに対応する機器を数cm程度の非常に近い場所に置くことで、映画などの「ギガビットサイズの」データ転送をものの数秒で完了できると謳います。Keyssaは2016年にインテルとともに対応するチップの開発を発表済みで、たとえば2-in-1のタブレット側とベース側の通信を最大5Gbps(USB 3.1 Gen 1相当の速度)でワイヤレス化できるとしていました。
+
+今回のサムスンおよびFoxconnによる支援は、Kiss技術の守備範囲ををスマートフォンからスマートホーム機器、さらに自動車内での利用にまで拡大する可能性を示します。その用途としては、PCとスマートフォン間での同期/データ転送の高速化や、テレビの傍にスマートフォンを置いて高画質の映画を再生したりといったことが挙げられています。
+
+KeyssaはKiss技術に関してすでに250以上の特許を取得済みだと主張していることから、プロプライエタリなこの技術のライセンス提供を計画していると考えられます。
+
+ただ、Kissの技術はミリ波(EHF)帯を使用するため、電波の指向性が強いうえに到達範囲はほぼ同一室内に限られます。このため期待する通信速度を得るには機器同士をほぼくっつけるような距離まで近づけなければいけません。
+
+さらに、同じEHF帯を使い同じような用途を想定する通信技術として、WiFiアライアンスによるIEEE 802.11ad(WiGig)があるため、Kiss技術がどこまで業界に広く採用されるようになるかは予測が難しいところ。サムスンや(iPhoneを製造する)Foxconnが支援に付いたとはいえ、実際に機器に組み込まれるかどうかは、結局のところコスト次第になるかもしれません
+[Image : Keyssa]
+ ]]></description>
+			<pubDate>Fri, 18 Aug 2017 07:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
