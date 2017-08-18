@@ -5,29 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    「乗換はこの駅でいいの!?」の不安解消、Googleマップの乗換通知機能を活用しよう：Google Tips
-</title>
-			<link>http://japanese.engadget.com/2017/08/15/google-google-tips/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/d82e1c91e495ee6b43fcde2bbe5585e7/205519181/main.jpg" />
-電車で慣れない場所に出かける際、手放せないのが各種の乗り換え案内機能。昨今では、Googleマップでこの機能を使っている、という方も多いかと思います。
-しかしルートを事前に調べていても、いざ電車に乗っていると「乗換駅を間違えていないだろうか......?」と不安になってしまうことはないでしょうか。とくに乗り慣れていない路線であればなおさらでしょう。
-
-そうした際に心強いのが、Googleマップアプリに搭載された通知機能です。電車での乗換ルートを調べたあと通知をオンにすることで、乗換駅に到着するタイミングを教えてくれます。これなら、はじめて訪れる場所でも乗換駅を間違えず、また不安も軽減されます。
-<p><a href="http://japanese.engadget.com/gallery/google-18/" title="Googleマップで乗換タイミングを通知する方法">【ギャラリー】Googleマップで乗換タイミングを通知する方法 (5枚)</a></p>
- ]]></description>
-			<pubDate>Wed, 16 Aug 2017 11:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>    これは「刺さる」ルックス。箱形ボディに最新ユニットを備えたEVトラックを米Bollinger Motorsが発表
-</title>
-			<link>http://japanese.engadget.com/2017/08/15/ev-bollinger-motors/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/c1e4a2d69ef3972a72a2fea9ee3e9679/205529305/hss-storage-midas-78988108b059e27b3f9b5c2debcdf5bf-205510259-1.jpg" />
-長年にわたる開発と数ヶ月の宣伝活動の末、Bollinger Motorsは完全電気駆動のスポーツ・ユーティリティ・トラック「B1」を同社の本拠地、ニューヨークで発表した。B1について誰もが真っ先に気になることは、同車に搭載された最新の電動パワートレインではなく、クラシックな箱形の外観だろう。
-<p><a href="http://japanese.engadget.com/gallery/bollinger-motors-b1-0/" title="Bollinger Motors B1">【ギャラリー】Bollinger Motors B1 (47枚)</a></p>
- ]]></description>
-			<pubDate>Wed, 16 Aug 2017 12:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>    新しいコンビニの形？ 米アマゾン、注文して２分以内に受け取り可能な「Instant Pickup」を開始
 </title>
 			<link>http://japanese.engadget.com/2017/08/16/instant-pickup/</link>
@@ -515,6 +492,63 @@ iPhone標準の「カレンダー」アプリでは、スケジュールを分�
 
  ]]></description>
 			<pubDate>Fri, 18 Aug 2017 13:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    iOS 11ベータ版から｢SOS機能｣みつかる。Touch ID無効化でロック解除強要を回避可能に
+</title>
+			<link>http://japanese.engadget.com/2017/08/18/ios-11-sos-touch-id/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/40fd958d5ad9c16a2d98963255cf227/205577106/mainip.jpg" />
+この秋にやってくるiOS 11には、Touch IDを一時的に無効化する「SOS機能」が搭載されることがわかりました。この機能はiPhoneのロックボタンを5回続けて押すと呼び出すことができ、緊急通報(米国では電話番号911)するか、Touch IDを一時的に無効化するかを選択できるとのこと。もし、Touch IDを無効化した場合は、パスコ―ドを入力するまでTouch IDによるロック解除ができなくなる仕組みです。
+
+
+
+iOS 11 is a game-changer for Touch ID. Press power button rapidly 5 times and it opens the 2nd screen, but it also forces passphrase entry! pic.twitter.com/uvWbM04lyk
+- Kia&rlm;☆ (@alt_kia) 2017年8月17日
+
+
+
+この機能は、米サンバーナーディーノ銃乱射事件犯が所持していたiPhoneのロック解除に協力するしないでFBIとアップルの攻防になったことを思い出させるものです。実際、発見したユーザーのツイートに対するリアクションの中には「Cop Buttonだ」という指摘があり、海外のIT系ニュースサイトはこの表現を取り上げています。
+
+ 
+
+
+it's a cop button
+
+I love it
+- squirrelbutts (@keisisqrl) 2017年8月17日
+
+
+
+また、最近は米国に入国する際にスマートフォンやPCの内部データの開示を求められるケースも起こっています。iOS 11はこうした状況の変化への対応策としてTouch IDの無効化機能を追加したのかもしれません。米国では現状、警察による指紋認証を使ったロック解除要求は合法でも、パスコード入力の要求は認められません。このためミシガン州警察などはユーザーの指を3DプリントしてTouch IDによるロック解除を試みたりしていました。
+
+iOS 11はまだベータ版ですが、SOS機能はすでに機能するため、ひとたび有効化すれば、パスコードを入力するまではTouch IDは機能しないことが確認できるとのこと。
+
+なお、この秋に発表される見込みのiPhone 8(仮)には新しく顔認証機能が搭載されるともっぱらの噂であり、今年買い換えを検討しているユーザーはさらにロック解除が手軽になることが予想されています。
+[Image : ymgerman/Getty]
+ ]]></description>
+			<pubDate>Fri, 18 Aug 2017 13:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>    プールでApple Watch、シリコンバンドならOKに。東急スポーツオアシスが解禁
+</title>
+			<link>http://japanese.engadget.com/2017/08/18/apple-watch-ok/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/fbb3f9658319ee16f05496db4148afc1/205577064/img11502943080.jpg" />
+
+フィットネスクラブを運営する東急スポーツオアシスは、全店のプールで「Apple Watch」を含むウェアラブルデバイスを解禁しました。
+
+Apple Watchは、アップルが開発したスマートウォッチです。最新のSeries 2では50m防水に対応し、プールや海での水泳に対応。ワークアウトの「プールスイミングメニュー」を選択すれば、泳ぎのペースや距離。クロール・背泳ぎ・平泳ぎ・バタフライといった泳法も記録できます。
+
+一方で、いざ購入したものの、日本では装着したまま泳げるプールが殆どないという課題がありました。
+
+東急スポーツオアシスによると、従来は「安全面の理由」からApple Watchを禁止にしていましたが、専用のシリコンバンドの使用を条件に解禁。その理由について「ユーザーからの要望」そして「ウェアラブルデバイスの進化」を鑑みたとしています。
+
+
+
+また、Apple Watchを活用した各種プログラムも用意。外出先でも運動レッスンが受けられるApple Watchアプリの「WEBGYM」を提供するほか、入会時にApple Watchがセットになった「Oasis Device member」も展開します。
+
+今後、スポーツクラブや公営のプールで、ウェアラブルデバイス解禁の流れが広がることに期待したいところです。
+ ]]></description>
+			<pubDate>Fri, 18 Aug 2017 14:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
