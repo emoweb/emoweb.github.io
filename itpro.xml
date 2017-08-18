@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>Chromebookは本当に企業で使えるか？（Windows 7はいつやめる？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600315/080800007/</link>
+			<description><![CDATA[　一部の企業は、Windows 7からChromebookへの移行を計画している。だがChromebookはWindows PCに比べてまだ実績に乏しい。企業が採用しても大丈夫なのか。グーグルの担当者に話を聞いた。]]></description>
+			<pubDate>Thu, 10 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>アンテナが2つあればWi-Fiの速度は2倍になる？（Wi-Fiのウソとホントを実証）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/080700020/</link>
 			<description><![CDATA[　5GHz帯のWi-Fiを利用する機会が増えている状況のなかで、5GHz帯を2つ利用できるAPが登場している。従来の「2.4GHz帯/5GHz帯デュアルバンド」に加えて、もう一つ5GHz帯を送信できる「トライバンド対応AP」や、デュアルバンド対応APのアンテナを「5GHz帯/5GHz帯」で利用する「デュアルバンド5G対応AP」がある。]]></description>
@@ -107,18 +113,6 @@
 			<pubDate>Thu, 10 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>HTMLやCSSを100問特訓！パズルゲーム「Super Markup Man」（ゲームでITを学ぼう）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080200325/080900004/</link>
-			<description><![CDATA[　デタラメに書かれたWebページを、正しい状態に直していくアクションパズルゲームが「Super Markup Man」だ。Webページを記述する「HTML」や「CSS」を模したブロックを、プレイヤーが持ち運んで並び替える。徐々に複雑になる問題を解いていくと、基本的な構文が身に付く作りになっている。]]></description>
-			<pubDate>Thu, 10 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Chromebookは本当に企業で使えるか？（Windows 7はいつやめる？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072600315/080800007/</link>
-			<description><![CDATA[　一部の企業は、Windows 7からChromebookへの移行を計画している。だがChromebookはWindows PCに比べてまだ実績に乏しい。企業が採用しても大丈夫なのか。グーグルの担当者に話を聞いた。]]></description>
-			<pubDate>Thu, 10 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>IT大手4社の4〜6月期決算、通年では「働き方改革特需」のプラス効果に期待（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/080801087/</link>
 			<description><![CDATA[　国産IT大手4社の2017年4〜6月期連結決算が2017年8月3日に出そろった。富士通とNEC、NTTデータは増収増益、日立製作所は減収増益と4社とも増益だった。]]></description>
@@ -128,6 +122,12 @@
 			<title>無線LAN AP使用率1位はバッファロー、不満はパフォーマンス（ネット機器 不満足度調査）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080100322/080100004/</link>
 			<description><![CDATA[　無線LAN部門では、「無線LANアクセスポイント」と「無線LANコントローラー」の二つのジャンルに分けて回答してもらった。アクセスポイントの使用率1位はバッファロー、2位はシスコシステムズだった。]]></description>
+			<pubDate>Thu, 10 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>HTMLやCSSを100問特訓！パズルゲーム「Super Markup Man」（ゲームでITを学ぼう）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080200325/080900004/</link>
+			<description><![CDATA[　デタラメに書かれたWebページを、正しい状態に直していくアクションパズルゲームが「Super Markup Man」だ。Webページを記述する「HTML」や「CSS」を模したブロックを、プレイヤーが持ち運んで並び替える。徐々に複雑になる問題を解いていくと、基本的な構文が身に付く作りになっている。]]></description>
 			<pubDate>Thu, 10 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -229,6 +229,12 @@
 			<pubDate>Thu, 17 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>そんなのあった？ あなたが知らない懐かしPDA（夏休みスペシャル 2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300327/080900011/</link>
+			<description><![CDATA[　2000年前後、PDA（パーソナル・デジタル・アシスタント）と呼ばれる機器が世界的に大きな流行になったことを覚えているだろうか。今回は、この時期に登場した数々のPDAの中から、読者のみなさんがあまりご存じでなさそうな「場末のPDA」を紹介する。]]></description>
+			<pubDate>Thu, 17 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>屋内トレで夏を乗り切る、無料ヨガアプリの実力（夏休みスペシャル 2017）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300327/080900008/</link>
 			<description><![CDATA[　いよいよ夏休み。ひと息ついて、秋から年末にかけての忙しい時期に備えて、エネルギーチャージをしておきたいところだ。それに向けて大事になってくるのが、体のメンテナンスである。そこで今回は、ストレッチやヨガを自宅で実施するための無料iPhoneアプリから、3つを厳選して紹介したい。]]></description>
@@ -241,21 +247,15 @@
 			<pubDate>Thu, 17 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ITスキルが上がるゲーム4選、セキュリティからWeb制作まで（夏休みスペシャル 2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300327/080900010/</link>
-			<description><![CDATA[　仕事の疲れを癒やしながら、ITスキルが向上する。そんなゲームが人気を集めている。ITに造詣の深い作者が上手にデフォルメを加えているので、気軽にITスキルを身に付けられるのが特徴だ。夏休みにぴったりな、数時間でプレイし終わるもの、奥が深く一生遊べそうなものまで、4つのゲームを紹介する。]]></description>
-			<pubDate>Thu, 17 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>1984年のラップトップをばらして眺めて、30年間の進化をかみしめた（夏休みスペシャル 2017）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300327/081000012/</link>
 			<description><![CDATA[　まだ、Windowsの影すらない頃、「モバイルPC」は大変なシロモノだった。江戸時代の拷問に正座した膝の上に平たい石を載せる「石抱（いしだき）」というものがあるが、初期のノート型PC、いわゆる「ラップトップ」は、そんな感じだった。大きく重い昔のラップトップ、IBM PC互換機のラップトップマシン「Data General One（DG One）」を紹介する。]]></description>
 			<pubDate>Thu, 17 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>そんなのあった？ あなたが知らない懐かしPDA（夏休みスペシャル 2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300327/080900011/</link>
-			<description><![CDATA[　2000年前後、PDA（パーソナル・デジタル・アシスタント）と呼ばれる機器が世界的に大きな流行になったことを覚えているだろうか。今回は、この時期に登場した数々のPDAの中から、読者のみなさんがあまりご存じでなさそうな「場末のPDA」を紹介する。]]></description>
+			<title>ITスキルが上がるゲーム4選、セキュリティからWeb制作まで（夏休みスペシャル 2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300327/080900010/</link>
+			<description><![CDATA[　仕事の疲れを癒やしながら、ITスキルが向上する。そんなゲームが人気を集めている。ITに造詣の深い作者が上手にデフォルメを加えているので、気軽にITスキルを身に付けられるのが特徴だ。夏休みにぴったりな、数時間でプレイし終わるもの、奥が深く一生遊べそうなものまで、4つのゲームを紹介する。]]></description>
 			<pubDate>Thu, 17 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
@@ -275,6 +275,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/081802096/</link>
 			<description><![CDATA[　データホライゾンとNTTドコモは、食用豚の生産管理コスト削減を目指し、IoT（インターネット・オブ・シングズ）の仕組みを活用した業務効率化の実証実験を2017年9月に開始する。]]></description>
 			<pubDate>Fri, 18 Aug 2017 15:25:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ASUSがZenFone 4発表会、「2つのカメラは1つよりも優れている」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/081802097/</link>
+			<description><![CDATA[　台湾ASUSTeK Computerは2017年8月17日、台湾・台北で新製品発表会「WE LOVE PHOTO」を開催し、「ZenFone 4」を発表した。発表会にはZenFone 4のブランドアンバサダーに起用された韓国の人気俳優コン・ユさんが登場した。]]></description>
+			<pubDate>Fri, 18 Aug 2017 17:23:04 +0900</pubDate>
 		</item>
 		<item>
 			<title>個人の価値を売買できる「VALU」の法的な位置づけは？（ニュース解説）</title>
