@@ -385,5 +385,35 @@
 ]]></description>
 			<pubDate>Fri, 25 Aug 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>TCPを高速化する新アルゴリズム「BBR」、Googleが開発（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082500407/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Googleは、インターネットトラフィックのトランスポートプロトコルとして標準的に使われているTCPを高速化するために、新しい輻輳（ふくそう）制御アルゴリズム「BBR（Bottleneck Bandwidth and Round-trip propagation time）」を開発した。ネットワーク接続の伝送速度とラウンドトリップ時間の測定値に基づいて、データを送出するペースを最適化し、輻輳時の処理を効率化する方式だとしている。
+</p>
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082500407/ph.jpg" width="300" alt="" title=""></div></div>
+<p>
+　Googleはすでに、YouTubeのトラフィックの高速化にBBRを利用している。2017年7月には、同社のクラウドサービス「Google Cloud Platform」もBBRに対応した。以前から高度な最適化を施していたYouTubeのトラフィックにBBRを導入した結果、世界全体で平均4％、国によっては14％以上もスループットが向上したと同社は説明する。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082500407/?ST=cm-network&P=2">TCPの高速化</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082500407/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082500407/?ST=cm-network&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082500407/?ST=cm-network&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082500407/?ST=cm-network&P=4">4</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082500407/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 25 Aug 2017 09:50:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
