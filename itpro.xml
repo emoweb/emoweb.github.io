@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>グレープシティがExcel風Webアプリのライブラリ拡充、ガントチャート表現など可能に（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082402131/</link>
-			<description><![CDATA[　グレープシティは2017年8月24日、Microsoft Excel風のWebアプリケーションを構築できるJavaScriptライブラリの新版「SpreadJS」を発表した。従来の表計算機能のライブラリに、カレンダーやガントチャートなどのUI部品を追加した。同年9月27日に発売する。]]></description>
-			<pubDate>Thu, 24 Aug 2017 17:31:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本マイクロソフトが米オフィス家具大手と協業、「クリエイティブ スペース」共同展開（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082402132/</link>
-			<description><![CDATA[　日本マイクロソフトと米国のオフィス家具メーカーであるスチールケースは2017年8月24日、ITを駆使して社員が創造性を発揮しやすいオフィス環境を提案するサービス「クリエイティブ スペース」を共同展開すると発表した。]]></description>
-			<pubDate>Thu, 24 Aug 2017 20:19:17 +0900</pubDate>
-		</item>
-		<item>
 			<title>コンピュータの歴史は、集中と分散の“繰り返し”なのか？（記者の眼）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/082100901/</link>
 			<description><![CDATA[　コンピュータの歴史は集中と分散の繰り返しである――。最近、こんな言説を再び耳にするようになった。これまで「クラウド」へと集中を続けていたコンピュータが、今後は「エッジコンピューティング」の台頭に伴い分散に向かう、という主張だ。]]></description>
@@ -248,6 +236,84 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082602145/</link>
 			<description><![CDATA[　米グーグルは2017年8月25日昼ごろ国内で発生した大規模な通信障害について、同社によるネットワーク誤設定が原因であったことを認め、8月26日、謝罪した。]]></description>
 			<pubDate>Sat, 26 Aug 2017 22:50:48 +0900</pubDate>
+		</item>
+		<item>
+			<title>働き方改革、労働組合を巻き込むことが大切（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/073100015/</link>
+			<description><![CDATA[　ネットワンシステムズのワークスタイル変革チームマネージャーを務める手塚千佳氏。自社や自身の経験を踏まえて様々な企業を支援する中で見えてきた、働き方改革成功のポイントとは――。]]></description>
+			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>証券分野ではどのようにFinTechに取り組めばよい？（FinTechを理解するQ＆A）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300328/080300006/</link>
+			<description><![CDATA[　銀行と同様、証券ビジネスでもAPIを活用したプラットフォーム型のビジネスモデルを追求するという戦略が成り立ちます。]]></description>
+			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スマートメーターから自作アプリで電力量を取得しよう（IoTで火が付くITエンジニア魂）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/060800123/082400010/</link>
+			<description><![CDATA[　スマートメーターは電力会社が検針を遠隔で行うために用意されたものだが、宅内からも情報を取得できる。それぞれ技術方式が異なり、電力会社が情報を取得する方式を「Aルート」、宅内から情報を取得する方式を「Bルート」と呼ぶ。今回はBルートから消費電力情報をリアルタイムに取り出す方法を紹介しよう。]]></description>
+			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>SIerは下請けベンダーを切り捨てるしか生きる道はないぞ（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/082400153/</link>
+			<description><![CDATA[　記事のタイトルを見て「そりゃ当然だろ」と冷やかに受け取る読者もいれば、「何をひどいことを言っているんだ」と憤慨する読者もいるかもしれない。だが、私が書く内容は、皆さんがこのタイトルから想像しているものとは別の話だ。ただし技術者に「ひどいこと」が起こるのは避けられない。]]></description>
+			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>主戦場は宇宙、日本に必要なのはお金と覚悟（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/082000900/</link>
+			<description><![CDATA[　情報通信研究機構（NICT）が宇宙と地表との間の衛星量子通信に成功した。衛星量子通信が実用化すれば、大陸をまたがるような長距離の間で「絶対に破られない」強固な暗号通信が可能になる。]]></description>
+			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>エンジニアリングを制するもの、クラウドを制す（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/082400096/</link>
+			<description><![CDATA[　クラウドの世界で何が何でもキャズムを越えるぞと決心しているように見えるのは、AWSとグーグルです。ここ数年で日本法人の陣容を大幅に拡大してきたAWSは、陣容拡大のペースをますます上げています。対照的に、ハードベンダーは人材の草刈り場の様相を呈しています。]]></description>
+			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>喧嘩をワイガヤでなくす！？ 話題の「モブプログラミング」（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/082301098/</link>
+			<description><![CDATA[　新たなソフトウエア開発スタイルが国内外で注目を集めている。4～5人の開発者が集まって1つのプログラムを作る「モブプログラミング（Mob Programming）」だ。モブプログラミング体験イベントに参加し、実際に経験してみた。その模様をリポートする。]]></description>
+			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>デザイナーとは違う！ユーザー体験を改革するUXディレクター（新・ITエンジニア図鑑）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100297/080100005/</link>
+			<description><![CDATA[　アプリケーションやWebサービスの企画や設計を通じ、ユーザー体験を改革するのが、UX（ユーザーエクスペリエンス）ディレクターだ。デザイナーやシステム導入を担当するITエンジニアと連携し、顧客の生産性向上や業務効率化を支援する。]]></description>
+			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>停滞した定例会議、できるプロマネが魔法のA4用紙で活性化（できるプロマネの道具箱）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071900293/071900006/</link>
+			<description><![CDATA[　週1回の定例会議を活性化するため、NECソリューションイノベータの岡部裕之氏は「アジェンダシート」と呼ぶ、A4用紙に両面印刷した会議資料を作成している。]]></description>
+			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>韓国政府が携帯料金の値下げ決行、Galaxy Note8の予約販売は延期に（趙 章恩「Korea on the Web」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/082400162/</link>
+			<description><![CDATA[　韓国の科学技術情報通信部（部は省）は2017年8月23日、新たな電気通信事業法改定案のパブリックコメントを出した。同改定案は、SKテレコムが月2万ウォン（約2000円）で音声通話200～210分、データ通信1GB～1.3GBの「普遍料金プラン」を提供するもの。SKテレコムは市場シェア50％を超えるキャリアであり、インパクトは大きい。]]></description>
+			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>システムのダウンタイム、2010年代に入って6日を突破してしまった（徹底分析 システムトラブル1098件）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/081000340/081700004/</link>
+			<description><![CDATA[　トラブルによってシステムがダウンしている時間を年代別に分析すると、ダウン時間が長時間化していることが分かった。]]></description>
+			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「利用できない場合がある」「個人の感想」、広告の極小表記に警鐘（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/082300903/</link>
+			<description><![CDATA[　商品やサービスの割引料金を大きな文字で強調して消費者を引きつけておきながら、目立たない小さな文字で割引対象外となる場合を表示する――。そんな広告手法に消費者庁が警鐘を鳴らしている。]]></description>
+			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>米グーグルの設定ミス、なぜ日本の大規模ネット障害を引き起こしたのか？（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/082701101/</link>
+			<description><![CDATA[　日本国内で発生した大規模な通信障害について、米グーグルが原因となる誤設定があったと謝罪した。わずか8分間の「誤設定」が、日本の通信インフラを揺るがせたのはなぜなのか。そして再発の恐れはないのか。]]></description>
+			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
