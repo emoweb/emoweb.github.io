@@ -5,29 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    通信障害発生、KDDIやOCN、任天堂ら障害を報告。Switchなどに影響（更新中）
-</title>
-			<link>http://japanese.engadget.com/2017/08/25/kddi-ocn-switch/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/686b91ee7b6b8304a742e6b60b9a4/205599499/%3F%3F%3F%3F%3F%3F%3F%3F%3F+2017-08-25+14.10.43.png" />
-
-
-現在、各通信サービスに障害が発生している模様です。これによりネットサービスやアプリ、ゲームなど通信を使った各サービスに接続できない、繋がりにくいといった影響が出ている模様。KDDIやOCN、任天堂などが障害を案内しています。
-
-OCNでは12時45分には通信障害の復旧報をあげ、OCNの設備には異常はなかったとしています。復旧報が出る一方で、楽天証券では、広域なネットワーク障害が現在も発生しているとアナウンスしています。さくらインターネットでも状況を報告しており「複数の上位回線キャリアにて障害が発生」と発表しています。
-
-通信の渋滞が起こることを輻輳と言いますが、繋がらない/繋がりにくい状態になると障害が障害を呼ぶ自体になりがちです。不要な通信は少し時間をおいてから確認した方がよさそうです。また、Twitterの障害報告を見る限り影響は広範にわたるものの、他の回線に切り替えると通信できる場合もあるようです。（更新中）
-
-サービス故障回復のおしらせ（OCN）
-障害情報（KDDI）
-サポート情報（さくら）
-障害発生状況（任天堂）
-ログインしづらい状況が発生しています（楽天証券）
-ネットワーク障害（Twitter）
-
- ]]></description>
-			<pubDate>Fri, 25 Aug 2017 01:23:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    ニコンが捉えた宇宙からのタイムラプス、NASAにニコンD5を53台供給
 </title>
 			<link>http://japanese.engadget.com/2017/08/25/nasa-d5-53/</link>
@@ -801,6 +778,21 @@ Appleは、新型iPhoneが従来モデルよりかなり高額になることを
  
  ]]></description>
 			<pubDate>Mon, 28 Aug 2017 10:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    デルのMRヘッドセット『Visor』公開。350ドルでSteam VRも対応のWindows Mixed Reality端末
+</title>
+			<link>http://japanese.engadget.com/2017/08/28/mr-visor-350-steam-vr-windows-mixed-reality/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/40676ffdfa078237af8f5a7f8254dae6/205608734/visor.jpg" />
+
+欧州のIT見本市 IFA を控えて、デルが Windows Mixed Reality 対応のヘッドセット『Dell Visor』を公開しました。
+
+単体で350ドル、ハンドコントローラ付属450ドルと安価でありながら、Steam VRを含むVR(仮想現実)やAR(拡張現実)、マイクロソフトの提唱する MR(複合現実)コンテンツに対応。
+
+バイザーの名のとおり、装着したままレンズ部分を跳ね上げて視界を確保できる構造です。
+ 
+ ]]></description>
+			<pubDate>Mon, 28 Aug 2017 17:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
