@@ -5,233 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>コンピュータの歴史は、集中と分散の“繰り返し”なのか？（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/082100901/</link>
-			<description><![CDATA[　コンピュータの歴史は集中と分散の繰り返しである――。最近、こんな言説を再び耳にするようになった。これまで「クラウド」へと集中を続けていたコンピュータが、今後は「エッジコンピューティング」の台頭に伴い分散に向かう、という主張だ。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>VRまでこなすSIMフリースマホ「ZenFone AR」、超ハイエンド機の実力は？（SIMフリースマートフォンを徹底レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/082000046/</link>
-			<description><![CDATA[　今回レビューするSIMフリースマートフォンは、ASUSが2017年6月に発売した「ZenFone AR（ZS571KL）」だ。その名の通り、AR機能をセールスポイントとするモデル。米グーグルが開発したARプラットフォーム「Tango」やVRサービス「Daydream」に対応するハイエンド機だ。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>自動車とJavaScriptで通信、ブラウザーにスピードメーターを表示する（IoTで火が付くITエンジニア魂）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/060800123/081600009/</link>
-			<description><![CDATA[　今回扱うデバイスは自動車だ。「OBD-II」をご存じだろうか。自動車のECU（電子制御ユニット、自動車の中にあるコンピュータ）の自己診断の規格のことだ。JavaScriptを使ってOBD-IIを利用しながら車載情報を取り出してみよう。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>WeWorkが提供するコワーキングスペース、「不動産×ICT」ビジネスの可能性（情総研レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/072700057/</link>
-			<description><![CDATA[　コワーキングスペースがにわかに注目を集めている。一見、新しいビジネスとは思えないコワーキングスペースが今なぜ注目されるのだろうか。従来型のレンタルオフィスビジネスを比較しながら、その理由を探る。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>格安スマホの店舗増加　どんなサービスが受けられる？（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/082100336/</link>
-			<description><![CDATA[　オンライン契約が中心だった「格安スマホ」や「格安SIM」だが、最近は実店舗を構える通信会社も増えてきた。ショップ店頭ではどんなサービスが受けられるのだろうか。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「0 SIM」の次は「前借り」「深夜」で攻める「nuroモバイル」（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/082100337/</link>
-			<description><![CDATA[　500MBまで0円で利用できる「0 SIM」など独自のモバイル通信サービスを提供する「nuroモバイル」。今回新たに「データ前借り」「深夜割プラン」を発表した。狙いはどこにあるのか。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>スマートコントラクトとはなんですか？（FinTechを理解するQ＆A）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300328/080300005/</link>
-			<description><![CDATA[　マシン語によって書かれた契約をいい、プログラムの実行がすなわち契約の履行となるという姿を想定しています。分散型台帳技術のプログラマブルな性質を利用すると、帳簿の更新を条件づけることで分散型台帳技術はスマートコントラクトを実装する有力な方法と目されています。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>判明した残念な事実、システム全面ダウンが再び増加（徹底分析 システムトラブル1098件）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/081000340/081700003/</link>
-			<description><![CDATA[　システムが全面ダウンする割合は再び増加している――。本誌調査の結果、意外な事実が明らかになった。システムがほぼ全ての機能を停止させる全面ダウンの割合は、情報技術の進化や運用ノウハウの蓄積によって2000年代まで順調に減少していたが、ここに来て増加に転じているのだ。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ダメなのは「自分は技術を理解していない」と理解しない経営者（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/082400020/</link>
-			<description><![CDATA[　今月取り上げるのは、ウェルスナビ 代表取締役CEOの柴山和久氏。同氏は、プログラミングを一から学び、提供したいサービスのプロトタイプを自ら作って起業した。最終回である今回は、経営者として技術やエンジニアにどう向き合うかを聞いた。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「スマホから離れた場所にあるPCの電源をオンにできるか」を試してみた（青木恵美の信州ITラプソディ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/082300036/</link>
-			<description><![CDATA[　先日、Windows Phoneのことを書いたコラムで、スマートフォンからPCへのリモート接続が便利で重宝しているという話をした。しかし当たり前のことだが、PCの電源が入っていないとリモート接続はできない。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>敏腕プロマネはチャットボットに叱ってもらう（できるプロマネの道具箱）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071900293/071900005/</link>
-			<description><![CDATA[　インテックの松山浩明氏はチャットツール「Slack」を使って、システム監視のアラート通知を自動化している。これにより、24時間の障害対応を最小の時間でこなせるようにした。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ラズパイを知育PCに、ゲームでコンピュータを学ぶ「Kano OS」（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/082300019/</link>
-			<description><![CDATA[　小型PCボード「Raspberry Pi（ラズパイ）」でプログラミングや電子工作を学べるLinux OSが「Kano OS」です。ゲームを作る「Make Pong」、Linuxコマンドを駆使するゲーム「Terminal Quest」といった、大人でも楽しめる教育ソフトを搭載しています。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>無線LANやワイヤレスマウスが不安定、その原因がUSB 3.xな謎（USBの謎）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080800335/082300005/</link>
-			<description><![CDATA[　無線LANが原因不明の切断を繰り返す。ワイヤレスマウスでポインターの動きがぎこちない――。USB接続の周辺機器を利用している場合は、USB 3.xのコネクタやケーブルが発するノイズの影響を受けているかもしれない。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>モバイルパソコン、すでに軽さは“正義”ではない？（塩田紳二のモバイルトレンド）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/082300058/</link>
-			<description><![CDATA[　パソコンを買い換えようと思い立ちました。今回は、その条件を考えてみようと思います。パソコンをとりまく状況の変化は大きく、「良いモバイルPC」の条件も変わりつつあります。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ロシア人窃盗犯「メガカーダー」が逮捕された理由（シリコンバレーNextレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/082400124/</link>
-			<description><![CDATA[　小売店などのPOSシステムにマルウエアを仕掛けては、合計170万件ものクレジットカード番号を盗んだとして、懲役27年の有罪判決が下ったロシア人ハッカーがいる。彼が有罪になった背景には、なんと「パスワードの使い回し」があった。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>VALU騒動で注目されたICOの法的位置づけは？関心高まる新資金調達手法（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/082401099/</link>
-			<description><![CDATA[　ブロックチェーン上で仮想的なコイン（トークン）を発行して資金を調達するICO（Initial Coin Offering）が過熱している。瞬時に数十億～数百億円を調達する例が相次いでいる。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>これから取得したいIT資格、一番人気はあの新資格（いる資格、いらない資格）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/073100321/081000004/</link>
-			<description><![CDATA[　セキュリティ関連の資格保有者数は、「情報処理安全確保支援士」と「情報セキュリティマネジメント」の二つがほかを大きく引き離して1位と2位だった。役立ち度も高い。今後取得したい資格としては、上記2資格に加えてCISSPが回答数を伸ばした。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>LPWA製品は6つ、サービスは4つに分類して目利きしよう（LPWA最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080400331/082300004/</link>
-			<description><![CDATA[　LPWAの製品・サービスは続々と登場してきている。2017年始の時点では実証実験で用いるPoC製品が目立っていたが、最近は本番環境で使う製品も増えている。]]></description>
-			<pubDate>Fri, 25 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソーシャルインテリジェンス：ソーシャルデータをビジネスに生かすには（下）（ソーシャルインテリジェンス：ソーシャルデータをビジネスに生かすには）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/080700061/080700003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　今の時代、ほとんどの企業は、Facebook、Twitter、LinkedIn、Snapchat、Instagramなどのソーシャルメディアプラットフォームを利用している。しかし、そのアカウントから得たデータや、ソーシャルメディアを幅広くカバーするソーシャルリスニングツールから集めたデータを、行動につながるインテリジェンスへと自動で変換する方法について、多くの企業は依然として理解できていない。これは少々驚きだ。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/080700061/080700002/" target="_blank">前回</a>から続く）</p>
-
-<h4>ソーシャルインテリジェンスとITインフラの連携</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/080700061/080700003/ph3.jpg" width="300" alt="" title=""></div></div>
-
-<p>　GartnerのSussin氏は、ソーシャルインテリジェンスに関する成果が少ないことに苛立ちを感じている。ソーシャルプラットフォーム利用者の声を集めるソーシャルリスニングを企業が始めた頃は、ソーシャルデータを有効活用するためのテクノロジーがなかったのは確かだが、今ではテクノロジーがある。ソーシャルプラットフォームから得た非構造化データと、従来のシステムから得た構造化データを融合してインテリジェンスを引き出すことが可能だと、同氏は話す。</p>
-
-<p>　だが、同氏の認識としては、企業各社は依然として、Oracle、Salesforce、Microsoft Dynamicsなどのエンタープライズシステムで利用できるソーシャル機能のモジュールを活用しておらず、獲得した「いいね」の数などのソーシャルデータをTableauに突っ込んでいるだけだ。「インテリジェントな情報を得ていない。それがプラスになっていないのは確実だ」</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/080700061/080700003/?ST=cio-social&P=2">融合が見られないのは、社内のサイロ化のせいである...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/080700061/080700003/?ST=cio-social&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/080700061/080700003/?ST=cio-social&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/080700061/080700003/?ST=cio-social&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/080700061/080700003/?ST=cio-social&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 25 Aug 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>TCPを高速化する新アルゴリズム「BBR」、Googleが開発（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082500407/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Googleは、インターネットトラフィックのトランスポートプロトコルとして標準的に使われているTCPを高速化するために、新しい輻輳（ふくそう）制御アルゴリズム「BBR（Bottleneck Bandwidth and Round-trip propagation time）」を開発した。ネットワーク接続の伝送速度とラウンドトリップ時間の測定値に基づいて、データを送出するペースを最適化し、輻輳時の処理を効率化する方式だとしている。
-</p>
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082500407/ph.jpg" width="300" alt="" title=""></div></div>
-<p>
-　Googleはすでに、YouTubeのトラフィックの高速化にBBRを利用している。2017年7月には、同社のクラウドサービス「Google Cloud Platform」もBBRに対応した。以前から高度な最適化を施していたYouTubeのトラフィックにBBRを導入した結果、世界全体で平均4％、国によっては14％以上もスループットが向上したと同社は説明する。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082500407/?ST=cm-network&P=2">TCPの高速化</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082500407/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082500407/?ST=cm-network&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082500407/?ST=cm-network&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082500407/?ST=cm-network&P=4">4</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082500407/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 25 Aug 2017 09:50:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「ドコモ光タイプC」第2弾、提携ケーブルテレビ事業者に近鉄ケーブルとNCTが追加（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082502133/</link>
-			<description><![CDATA[　NTTドコモは2017年8月25日、近鉄ケーブルネットワーク（KCN）やエヌ・シィ・ティ（NCT）と、卸FTTHサービスとインターネット接続サービスの協業に関する業務提携契約を締結したと発表した。両社は2017年9月1日から「ドコモ光タイプC」の提携ケーブルテレビ事業者となる。]]></description>
-			<pubDate>Fri, 25 Aug 2017 13:48:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>NTTコムのOCNで通信障害、NTT東西やKDDI含め「設備に異常なし」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082502134/</link>
-			<description><![CDATA[　NTTコミュニケーションズは2017年8月25日、同社が運営するインターネット接続事業「OCN」で、基幹回線の「バックボーン」に通信の一部が断続的に利用できない状況が発生したと発表した。]]></description>
-			<pubDate>Fri, 25 Aug 2017 14:05:45 +0900</pubDate>
-		</item>
-		<item>
-			<title>［続報］モバイルSuicaにメルカリ、ネット接続障害が広がる（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082502135/</link>
-			<description><![CDATA[　日本で広範囲にわたるインターネット接続障害が発生した。NTTコミュニケーションズやKDDIなど主要なキャリアのバックボーンで2017年8月25日昼過ぎに発生した障害が原因とみられる。]]></description>
-			<pubDate>Fri, 25 Aug 2017 15:39:50 +0900</pubDate>
-		</item>
-		<item>
-			<title>［続報］大規模通信障害でNTTコムとKDDI、「大量の経路変動で通信が不安定に」と発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082502136/</link>
-			<description><![CDATA[　NTTコミュニケーションズとKDDIは2017年8月25日、同日昼ごろに発生した大規模な通信障害について、「バックボーンの経路情報が影響したものである」と発表した。]]></description>
-			<pubDate>Fri, 25 Aug 2017 15:43:54 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソフトバンクC&amp;Sが不動産賃貸契約を電子化、マイナンバーカードも活用へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082502138/</link>
-			<description><![CDATA[　ソフトバンク コマース＆サービス（ソフトバンクC&S）は2017年8月25日、不動産賃貸契約専用の電子契約サービス「IMAoS（イマオス）」を9月1日から提供すると発表した。]]></description>
-			<pubDate>Fri, 25 Aug 2017 17:32:32 +0900</pubDate>
-		</item>
-		<item>
-			<title>［続報］OCNの通信障害、米グーグルによる誤った経路情報の大量送信が原因か（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082502137/</link>
-			<description><![CDATA[　2017年8月25日、NTTコミュニケーションズ（NTTコム）のインターネット接続サービス「OCN」で発生した通信障害に関して、インターネット通信関連の識者は大量の経路情報が誤って流れたことが原因ではないかとの見方を示した。]]></description>
-			<pubDate>Fri, 25 Aug 2017 18:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>NECと三井住友FGが協業、AIとRPAによる業務受託を10月に開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082502140/</link>
-			<description><![CDATA[　NECと三井住友フィナンシャルグループは2017年8月25日、BPO事業で協業すると発表した。AIやRPAといった技術を生かしたBPOサービスを開発。金融をはじめとする様々な業種に提供する。人手に頼りがちだったBPOサービスの生産性を高めて、同事業を拡大する。]]></description>
-			<pubDate>Fri, 25 Aug 2017 19:27:15 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本HP、デザイン重視のPOS端末「ElitePOS」を発売（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082502141/</link>
-			<description><![CDATA[　日本HPは2017年8月25日、デザイン性を重視したPOSシステム「HP ElitePOS」を発売した。タッチパネル液晶一体型PCを中心に、スタンドを兼ねたプリンター、外部インタフェースを配した台座などを組み合わせて使うモジュール型の設計を採用した。]]></description>
-			<pubDate>Fri, 25 Aug 2017 19:33:02 +0900</pubDate>
-		</item>
-		<item>
-			<title>［続報］JR東日本「モバイルSuica」の障害は解消、KDDI回線が原因（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082502142/</link>
-			<description><![CDATA[　東日本旅客鉄道（JR東日本）は2017年8月25日の午後0時24分から午後5時ごろまで、一部のネットサービスが利用しにくくなるシステム障害が発生していたと明らかにした。同社はKDDIの企業向けネット接続サービスを利用。KDDIで発生した全国的なネット接続障害が原因だと見ている。]]></description>
-			<pubDate>Fri, 25 Aug 2017 20:21:39 +0900</pubDate>
-		</item>
-		<item>
 			<title>米グーグルが大規模通信障害で謝罪、「ネットワークの誤設定によるもの」（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082602145/</link>
 			<description><![CDATA[　米グーグルは2017年8月25日昼ごろ国内で発生した大規模な通信障害について、同社によるネットワーク誤設定が原因であったことを認め、8月26日、謝罪した。]]></description>
@@ -412,6 +185,78 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082802147/</link>
 			<description><![CDATA[　NTTコミュニケーションズ、NECなどIT企業6社は2017年8月28日、ITアーキテクトやインフラエンジニアの育成を目的とする協議会「高度ITアーキテクト育成協議会」を設立し、活動を開始したと発表した。協議会の理事長には、慶應義塾大学の村井純環境情報学部長が就任した。]]></description>
 			<pubDate>Mon, 28 Aug 2017 20:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ドコモとフジテレビの5G実証実験、「アイドル×AR」に見る普及への大きな課題（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/081700119/</link>
+			<description><![CDATA[　次世代モバイル通信方式「5G」を活用したサービスの創出に向けた取り組みを進めているNTTドコモ。同社は8月4日に開いたアイドルのライブイベント「TOKYO IDOL FESTIVAL 2017」で、ARを活用した5Gの実証実験とプロモーションを披露した。同イベントから見えてくる5Gの普及に向けた課題とは何だろうか。]]></description>
+			<pubDate>Tue, 29 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ファーウェイ（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/080900086/</link>
+			<description><![CDATA[　中国・深圳（セン）市に本社を置くグローバルIT企業。18万人以上の社員を擁し、世界のスマホで3位の市場シェアを誇る。日本国内ではスマホやパソコンなど、一般消費者向けの端末事業で存在感を強めている。]]></description>
+			<pubDate>Tue, 29 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>仮想通貨を用いたサービスと金融規制はどのような関係に？（FinTechを理解するQ＆A）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300328/080300007/</link>
+			<description><![CDATA[　仮想通貨を「資金移動」「決済」「資金調達」のどの用途で利用するかによって異なります。]]></description>
+			<pubDate>Tue, 29 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>パン・チルト・ズームも可能、Webカメラを自作アプリで操作しよう（IoTで火が付くITエンジニア魂）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/060800123/082400011/</link>
+			<description><![CDATA[　最近は「IoT（Internet of Things）×セキュリティ」として、防犯カメラが話題だ。今回は、ネットワーク接続した防犯カメラをNode.jsで操作するアプリを作ってみる。]]></description>
+			<pubDate>Tue, 29 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>できるプロマネの金曜日、マインドマップでタスクを洗い出す（できるプロマネの道具箱）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071900293/071900007/</link>
+			<description><![CDATA[　複数のプロジェクトが同時並行で進むとタスクが入り乱れる。日本タタ・コンサルタンシー・サービシズの小島英剛氏は、マインドマップと手帳でタスクの整理整頓をしている。]]></description>
+			<pubDate>Tue, 29 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>バブル状態の「ICO」、新たな資金調達に必要なルール作り（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/082801102/</link>
+			<description><![CDATA[　資金調達のイノベーションとされるICOが抱える問題点と、課題を克服する道筋について考える必要がある。]]></description>
+			<pubDate>Tue, 29 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>捲土重来期すマイクロソフトの二刀流戦略（シリコンバレーVR通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052800216/082400005/</link>
+			<description><![CDATA[　スマートフォン時代は一敗地にまみれた米マイクロソフトが、来るVR（仮想現実）とAR（拡張現実）の時代に捲土重来を期す。市場の先を見据えた、したたかな二刀流の戦略がその要だ。]]></description>
+			<pubDate>Tue, 29 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>プロマネの上位職？アジャイル開発の鍵握るスクラムマスター（新・ITエンジニア図鑑）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100297/080100006/</link>
+			<description><![CDATA[　新サービスの開発など、あらかじめ要件を定められないプロジェクトでは、アジャイル開発が定着している。その手法の一つ「スクラム」がデファクトスタンダードとなっている。そのプロセスを“回す”役割がスクラムマスターだ。]]></description>
+			<pubDate>Tue, 29 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>脳を使う究極のインタフェース、ビジネス展開は可能？（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/082500907/</link>
+			<description><![CDATA[　脳科学を活用したこれらの技術が2017年になってにわかに注目を集めている。]]></description>
+			<pubDate>Tue, 29 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>パソコンもモバイルバッテリーで充電する時代になった（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/082500136/</link>
+			<description><![CDATA[　スマートフォンのバッテリー切れを懸念してか、モバイルバッテリーを持ち歩いている人をよく見かける。もちろん僕自身もそうしている。大変便利なだけに、それに比べて不自由さを感じるのが、パソコンだ。]]></description>
+			<pubDate>Tue, 29 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>大規模ネット障害になっても不思議じゃない？「BGP」の仕組みとリスク（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/082801106/</link>
+			<description><![CDATA[　米グーグルによるネットワークシステムの設定ミスが引き金になって、NTTコミュニケーションズやKDDIなどのサービスに障害が発生した。独立したネットワークの集合体であるインターネットにおいて、どうしてグーグルの設定ミスが他社に波及したのか。]]></description>
+			<pubDate>Tue, 29 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>農業ITの主役は大麻！？（日本とどこが違う？AgTech最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/082500346/082700001/</link>
+			<description><![CDATA[　「農場見学の行き先が、まさか大麻の『植物工場』だとは思わなかった…」。植物栽培用の特殊フイルムを開発する日本企業、メビオールの吉岡浩副社長は、米カリフォルニア州サリナス市で開催された「AgTech Summit」の会場で驚きの体験を語った。]]></description>
+			<pubDate>Tue, 29 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
