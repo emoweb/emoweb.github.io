@@ -5,16 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    トヨタ、ミラーを利用し死角を減らす。「Aピラーが透けて見える」技術の特許申請
-</title>
-			<link>http://japanese.engadget.com/2017/08/27/toyota/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/6bb051505a88df09479510a8b0b35c1b/205595590/toyota.jpg" />
-クルマ好きにとって、曲がりくねった峠道をどこまでも愛車で走ることほど心が癒される時はないだろう。我々は多数の様々なクルマを試乗してきたが、一部の車種に視界的な問題を感じることが時々ある。
-特にフロントガラスが極端に傾斜しているスポーティなクルマでは、Aピラーの太さがまちまちで視界をひどく遮ることがあるのだ。特に左曲りの急カーブでは（右側通行の米国の場合）、ピラーで前方が確認しづらくなることは珍しくない。これは苛立たしいだけでなく、クルマが向かう先が見えないのは危険でもある。トヨタはおそらく、このような危険を減らすために、透けて見えるAピラーの特許を申請したのだろう。
- ]]></description>
-			<pubDate>Sun, 27 Aug 2017 17:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    SpaceX独自の宇宙服が公開･アンタレスの高精細画像･歩行障害持つ子供用ロボット外骨格 #egjp 週末版92
 </title>
 			<link>http://japanese.engadget.com/2017/08/27/spacex-egjp-92/</link>
@@ -848,6 +838,21 @@ Apple Storeで小学生たちがムービー制作に挑戦
 今回、筆者もやっとの思いで入手できたので、満を持してレビューしてみたいと思います。既にお使いの方も、入手できなくて悔しい思いをしている人も是非！
  ]]></description>
 			<pubDate>Tue, 29 Aug 2017 08:01:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Google ARCore発表。普通のスマホ向け拡張現実プラットフォーム
+</title>
+			<link>http://japanese.engadget.com/2017/08/29/google-arcore-sdk/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/8a937836e22be701d5dacdc86b5458f7/205612795/arcoretop.jpg" />
+
+Google がAndroidのためのARプラットフォーム ARCore を発表しました。
+
+ARCore は、仮想のキャラクターやデータを現実世界に重ねあわせてみせる Argumented Reality、拡張現実アプリやサービスを実現するための標準プラットフォーム。
+
+Google は3Dセンサを使うARプラットフォーム Tango を2014年から推進してきましたが、ARCoreは特別なセンサ類を必要とせず、通常のカメラとモーションセンサを内蔵する多数のAndroidスマートフォンで動くため、Google ではプレビュー期間中に1億台の対応端末を目標に掲げるなど、対応端末の多さとスケールを強調しています。
+ 
+ ]]></description>
+			<pubDate>Tue, 29 Aug 2017 18:51:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
