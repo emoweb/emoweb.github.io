@@ -5,176 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>働き方改革、労働組合を巻き込むことが大切（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/073100015/</link>
-			<description><![CDATA[　ネットワンシステムズのワークスタイル変革チームマネージャーを務める手塚千佳氏。自社や自身の経験を踏まえて様々な企業を支援する中で見えてきた、働き方改革成功のポイントとは――。]]></description>
-			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>証券分野ではどのようにFinTechに取り組めばよい？（FinTechを理解するQ＆A）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300328/080300006/</link>
-			<description><![CDATA[　銀行と同様、証券ビジネスでもAPIを活用したプラットフォーム型のビジネスモデルを追求するという戦略が成り立ちます。]]></description>
-			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>スマートメーターから自作アプリで電力量を取得しよう（IoTで火が付くITエンジニア魂）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/060800123/082400010/</link>
-			<description><![CDATA[　スマートメーターは電力会社が検針を遠隔で行うために用意されたものだが、宅内からも情報を取得できる。それぞれ技術方式が異なり、電力会社が情報を取得する方式を「Aルート」、宅内から情報を取得する方式を「Bルート」と呼ぶ。今回はBルートから消費電力情報をリアルタイムに取り出す方法を紹介しよう。]]></description>
-			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>SIerは下請けベンダーを切り捨てるしか生きる道はないぞ（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/082400153/</link>
-			<description><![CDATA[　記事のタイトルを見て「そりゃ当然だろ」と冷やかに受け取る読者もいれば、「何をひどいことを言っているんだ」と憤慨する読者もいるかもしれない。だが、私が書く内容は、皆さんがこのタイトルから想像しているものとは別の話だ。ただし技術者に「ひどいこと」が起こるのは避けられない。]]></description>
-			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>主戦場は宇宙、日本に必要なのはお金と覚悟（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/082000900/</link>
-			<description><![CDATA[　情報通信研究機構（NICT）が宇宙と地表との間の衛星量子通信に成功した。衛星量子通信が実用化すれば、大陸をまたがるような長距離の間で「絶対に破られない」強固な暗号通信が可能になる。]]></description>
-			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>エンジニアリングを制するもの、クラウドを制す（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/082400096/</link>
-			<description><![CDATA[　クラウドの世界で何が何でもキャズムを越えるぞと決心しているように見えるのは、AWSとグーグルです。ここ数年で日本法人の陣容を大幅に拡大してきたAWSは、陣容拡大のペースをますます上げています。対照的に、ハードベンダーは人材の草刈り場の様相を呈しています。]]></description>
-			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>喧嘩をワイガヤでなくす！？ 話題の「モブプログラミング」（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/082301098/</link>
-			<description><![CDATA[　新たなソフトウエア開発スタイルが国内外で注目を集めている。4～5人の開発者が集まって1つのプログラムを作る「モブプログラミング（Mob Programming）」だ。モブプログラミング体験イベントに参加し、実際に経験してみた。その模様をリポートする。]]></description>
-			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>デザイナーとは違う！ユーザー体験を改革するUXディレクター（新・ITエンジニア図鑑）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100297/080100005/</link>
-			<description><![CDATA[　アプリケーションやWebサービスの企画や設計を通じ、ユーザー体験を改革するのが、UX（ユーザーエクスペリエンス）ディレクターだ。デザイナーやシステム導入を担当するITエンジニアと連携し、顧客の生産性向上や業務効率化を支援する。]]></description>
-			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>停滞した定例会議、できるプロマネが魔法のA4用紙で活性化（できるプロマネの道具箱）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071900293/071900006/</link>
-			<description><![CDATA[　週1回の定例会議を活性化するため、NECソリューションイノベータの岡部裕之氏は「アジェンダシート」と呼ぶ、A4用紙に両面印刷した会議資料を作成している。]]></description>
-			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>韓国政府が携帯料金の値下げ決行、Galaxy Note8の予約販売は延期に（趙 章恩「Korea on the Web」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/549762/082400162/</link>
-			<description><![CDATA[　韓国の科学技術情報通信部（部は省）は2017年8月23日、新たな電気通信事業法改定案のパブリックコメントを出した。同改定案は、SKテレコムが月2万ウォン（約2000円）で音声通話200～210分、データ通信1GB～1.3GBの「普遍料金プラン」を提供するもの。SKテレコムは市場シェア50％を超えるキャリアであり、インパクトは大きい。]]></description>
-			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>システムのダウンタイム、2010年代に入って6日を突破してしまった（徹底分析 システムトラブル1098件）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/081000340/081700004/</link>
-			<description><![CDATA[　トラブルによってシステムがダウンしている時間を年代別に分析すると、ダウン時間が長時間化していることが分かった。]]></description>
-			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「利用できない場合がある」「個人の感想」、広告の極小表記に警鐘（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/082300903/</link>
-			<description><![CDATA[　商品やサービスの割引料金を大きな文字で強調して消費者を引きつけておきながら、目立たない小さな文字で割引対象外となる場合を表示する――。そんな広告手法に消費者庁が警鐘を鳴らしている。]]></description>
-			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>米グーグルの設定ミス、なぜ日本の大規模ネット障害を引き起こしたのか？（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/082701101/</link>
-			<description><![CDATA[　日本国内で発生した大規模な通信障害について、米グーグルが原因となる誤設定があったと謝罪した。わずか8分間の「誤設定」が、日本の通信インフラを揺るがせたのはなぜなのか。そして再発の恐れはないのか。]]></description>
-			<pubDate>Mon, 28 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>デザイン思考をCIOが生かすための秘策は（上）（デザイン思考をCIOが生かすための秘策は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/081700063/081700001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　デジタルトランスフォーメーションを成功させるための重要な要素の1つとして、デザイン思考が浮上しつつある。だが、デザイン思考とは何なのだろうか。そして、先進的な最高情報責任者（CIO）たちは、事業価値を高めるために、デザイン思考のパワーをどのように生かしているのだろうか。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/081700063/081700001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　デザイン思考とは、プロダクト開発のアプローチの1つで、ビジネス面と技術面のニーズを結び付けて、人々が必要とするものを実現するという考え方である。そう話すのは、米Accentureのマーケティング部門、Accenture Interactiveが2013年に買収した英デザインコンサルティング企業Fjordでマネージングディレクターを務めるShelley Evenson氏だ。デザイン思考の核心は、人間の体験（エクスペリエンス）を取り入れることだ。例えば、顧客の意見を取り込むテクノロジー開発手法を用いて、新しいプロダクトやサービスを生み出していく。</p>
-
-<p>　こうしたイノベーションの理念は、ソフトウエアベンダー発で近年広まったもので、製品やサービスのデジタル化を目指す旧来の企業でも広がりつつある。人間中心設計としても知られるデザイン思考は、今や企業のIT戦略で重要な要素になったとの声がCIOからも聞かれる。</p>
-
-<p>　米ネット証券会社TD AmeritradeのCIO、Vijay Sankaran氏は、「デザイン思考は圧倒的だ」と話す。同社にとってデザイン思考は、ロボアドバイザーやチャットボットなど、営業収益を増やすための顧客対応用テクノロジーを追求するうえで欠かせない手段になった。同社がアジャイルソフトウエア開発の手法へと進む中、開発中のアプリケーションの顧客体験を視覚化するうえで、デザイン思考はSankaran氏のチームにとって助けとなってきた。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/081700063/081700001/?ST=cio-appli&P=2">デザイン思考がIT部門にもたらす変革</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/081700063/081700001/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/081700063/081700001/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/081700063/081700001/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 28 Aug 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>パラレルス、Mac上でWindowsアプリを使える「Parallels Desktop 13 for Mac」販売（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082502143/</link>
-			<description><![CDATA[　パラレルスは2017年8月25日、Mac上でWindowsアプリケーションを動作させるソフトの新版「Parallels Desktop 13 for Mac」の販売を開始した。特徴は今後リリース予定のmacOS High Sierraと、今秋にWindows 10で搭載予定の新機能に対応したこと。]]></description>
-			<pubDate>Mon, 28 Aug 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Google、Chrome OSの法人向けプログラムを刷新（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082800408/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Googleは、「Chrome OS」を利用する企業向けのサブスクリプションプログラムを「Chrome Enterprise」と改称し、新たな機能を追加した。ライバルの米MicrosoftやWindowsに法人分野で対抗する有望な競争相手として同OSを位置づけるための布石だ。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082800408/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Stephen Sauer/IDG</div>
-</div>
-<p>
-　Chrome Enterpriseは、2014年に「Chromebooks for Work」として始まった企業向けのサブスクリプションプログラムを刷新したもの。従来と同様、パソコンやキオスク端末をはじめとするChrome OSデバイスを統制したいと考えている企業のためのプログラムとなっている。社員に供与されるデバイスやBYODポリシーのもとで持ち込まれるデバイスを対象とし、利用料は1台当たり年50ドルだ。
-</p>
-<p>
-　Chrome Enterpriseでは、Chromebooks for Workで提供されていた基本的な管理機能に、2つの重要な新機能が加わった。1つは、企業の認証基盤として事実上の標準であるMicrosoftの「Active Directory」に対応したこと。もう1つは、トップクラスのEMM（Enterprise Mobility Management）プラットフォームとの連携が可能になり、まずは米VMwareの「Workspace ONE」をサポートしたことだ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082800408/?ST=cm-software&P=2">それ以外にChromeEnterpriseに加えられた機能強化は...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082800408/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082800408/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082800408/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082800408/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 28 Aug 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>作業者の安全をICT技術で支援、NTT西日本が鹿島建設と実証実験（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082802146/</link>
-			<description><![CDATA[　NTT西日本は、安全に働ける職場環境の実現を目指し、2017年8月よりバイタルデータと位置情報などを活用した作業者安全支援サービスの実証実験を開始すると発表した。鹿島建設の協力を得て、実環境でのシステム有用性を検証し、早期の実用化を目指す。2017年8月25日に発表した。]]></description>
-			<pubDate>Mon, 28 Aug 2017 12:34:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>PCI DSS需要も取り込む、日本オラクルがインフラ製品戦略を発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082802148/</link>
-			<description><![CDATA[　日本オラクルは2017年8月28日、垂直統合型システムやサーバー、データベースアプライアンス（単機能サーバー）、ストレージを含むITインフラ製品について戦略説明会を開いた。このなかで、セキュリティ関連ビジネスを強化したり、ストレージやサーバーで新製品を投入したりすることを明かした。]]></description>
-			<pubDate>Mon, 28 Aug 2017 19:30:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ウインドリバーが「VxWorks」OSを強化、IoT自動化の基盤ソフトをオプション提供（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082802149/</link>
-			<description><![CDATA[　組み込み向けOS大手のウインドリバーは2017年8月28日、同社OSの「VxWorks」に関する説明会を開催した。同年8月末に、IoT機器の制御などを自動化できる米グリーンウェーブ・システムズの「AXON Predict」をVxWorksの開発環境に統合するという。]]></description>
-			<pubDate>Mon, 28 Aug 2017 19:42:26 +0900</pubDate>
-		</item>
-		<item>
 			<title>IoTの基盤エンジニアを育てる協議会、NTTコムなど6社が設立（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082802147/</link>
 			<description><![CDATA[　NTTコミュニケーションズ、NECなどIT企業6社は2017年8月28日、ITアーキテクトやインフラエンジニアの育成を目的とする協議会「高度ITアーキテクト育成協議会」を設立し、活動を開始したと発表した。協議会の理事長には、慶應義塾大学の村井純環境情報学部長が就任した。]]></description>
@@ -361,6 +191,60 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/082400345/082900002/</link>
 			<description><![CDATA[　米ヴイエムウェアは2017年8月28日（米国時間）、仮想化環境やクラウドで稼働するアプリ向けの新セキュリティ対策「VMware AppDefense」の提供を開始した。従来のセキュリティ対策のモデルを転換。「攻撃者の不正操作を見張るのではなく、アプリが“本来の稼働状態（Intended State）”にあるかどうかを監視することで、対策の効率化を図った」。]]></description>
 			<pubDate>Tue, 29 Aug 2017 21:50:32 +0900</pubDate>
+		</item>
+		<item>
+			<title>スタートアップ企業との協業で陥りやすい失敗は？（FinTechを理解するQ＆A）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300328/080300008/</link>
+			<description><![CDATA[　日本の伝統的な大企業の場合、スタートアップ企業との協業における資金拠出の意味を取り違えてしまうことで失敗するケースが散見されます。自らの資金拠出の意味を正しく理解し、成果物や収益のシェアについて目線のあった議論を交わすことが重要です。]]></description>
+			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>専用アプリは不要、Webブラウザーからデバイスを操作（IoTで火が付くITエンジニア魂）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/060800123/082400012/</link>
+			<description><![CDATA[　Bluetooth Low Energy（BLE）を扱う「Web Bluetooth」と呼ばれるAPIを使って、Webブラウザーからデバイスを操作できるアプリを作ってみよう。ネイティブアプリが不要になるので、誰でも使えるようになる。]]></description>
+			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>儲かる戦略をITとセットで描く、デジタルマーケティングディレクターとは？（新・ITエンジニア図鑑）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100297/080100007/</link>
+			<description><![CDATA[　ITを使って顧客とのエンゲージメントを強めたり、直に新たなサービスを提供したりする――。マーケティングがITを活用することで従来と全く違ったレベルで実現できるいま、それを専門的に支援するデジタルマーケティングエンジニアが重要になっている。]]></description>
+			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>クラウド事業の苦しみを克服したオラクル、ハード事業はどこへ行く（北川 賢一のIT業界乱反射）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800200/082500025/</link>
+			<description><![CDATA[　米オラクルの事業再編に伴う苦しみが、どうやら峠を越えたようである。売り上げの「カニバル」（共食い）が避けられず、「先行き不透明である」と疑問符を投げかけられてきたオラクルのクラウドビジネスだったが、直近1年間の急速な移行の結果、間もなく利益を上げられる見通しを投資家たちがほぼ確信したと見られるからだ。]]></description>
+			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>テレワークを実践してみて分かった、働き方改革の課題（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/082101096/</link>
+			<description><![CDATA[　働き方改革を進める政府が2017年7月24日に設定したキャンペーン「テレワーク・デイ」。637社がITを使い、オフィス以外の場で働くテレワークを試した。「仕事に集中できる」という実感を得た一方で、「仕事は会社でするもの」という社員の固定観念の打破といった課題も浮き彫りになった。]]></description>
+			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「VALU」という問題児は革命児に変貌できるのか？（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/082400906/</link>
+			<description><![CDATA[　「想定の約10倍だ」――。筆者がVALUを設立した小川晃平氏を訪ねたのは、2017年6月19日のこと。同社は20日間で2万人のユーザーを獲得していた。ところが小川氏は、手放しで喜んでいるようには見えなかった。]]></description>
+			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「これはレタスか雑草か？」、草むしりはロボットにお任せ（日本とどこが違う？AgTech最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/082500346/082800002/</link>
+			<description><![CDATA[　米国のAgTechが日本と比べて進んでいるポイントの一つに、米国では「雑草などの駆除を自動化するロボット」が既に実現していることが挙げられる。先駆者がシリコンバレーに本拠を置くAgTechスタートアップ米Blue River Technologyだ。]]></description>
+			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>SAPが注力する新ソフト「Leonardo」、ERPに次ぐ柱となるか（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/082801105/</link>
+			<description><![CDATA[　ERP（統合基幹業務システム）パッケージ最大手の欧州SAPは2017年後半にかけて、新たなソフトウエア製品群「SAP Leonardo」関連のサービス提供を加速する。LeonardoはIoTやAI、ビッグデータ処理などに必要な機能を提供する製品群。同社はERPに続く2つ目の事業の柱として注力する構えだ。]]></description>
+			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>著名エディターアプリ開発者の苦悩、売り切りかアプリ内購読か（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/082900055/</link>
+			<description><![CDATA[　筆者はMacやiPadで、「Ulysses」というテキストエディターアプリを利用している。クラウド同期型でクロスプラットフォーム対応する。筆者にとっては必需品となっている。]]></description>
+			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
