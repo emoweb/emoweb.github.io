@@ -282,5 +282,43 @@
 ]]></description>
 			<pubDate>Tue, 29 Aug 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>「オンプレ運用をAWSに持ち込む」、VMware Cloud on AWS提供開始（VMworld 2017 USレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/082400345/082900001/</link>
+			<description><![CDATA[　基調講演に、米ヴイエムウェアのパット・ゲルシンガーCEO（最高経営責任者）が登壇。最も注目を集めたのは、VMware製品をAWS（Amazon Web Services）上でオンデマンド提供する「VMware Cloud on AWS」の提供開始だ。]]></description>
+			<pubDate>Tue, 29 Aug 2017 09:03:30 +0900</pubDate>
+		</item>
+		<item>
+			<title>Node.jsの新たなフォーク、内部対立が原因か（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/082900354/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　JavaScript実行環境「Node.js」からフォークした新たなプロジェクト「Ayo.js」が立ち上がった。Node.jsの技術運営委員会（TSC：Technical Steering Committee）のメンバーの言動がNode.jsコミュニティで反発を招いたことが契機となった。
+</p>
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/082900354/ph.jpg" width="300" alt="" title=""></div></div>
+<p>
+　Ayo.jsのGitHubリポジトリでREADMEを見ると、Ayo.jsはGoogle ChromeのJavaScriptエンジンV8を基盤とするJavaScript実行環境で、イベントドリブンのノンブロッキングI/Oモデルにより軽量で効率的だとの説明がある。この説明は、Node.jsのものとまったく同じだ。実際、このREADMEには、現時点でAyo.jsのドキュメントはNode.jsのリポジトリへの参照がまだ多いとの注意書きがある。
+</p>
+<p>
+　2015年にNode.jsからフォークした「IO.js」は、Node.jsの技術的な方向性を巡る不一致から発生した（その後Node.jsに再統合）。一方、今回のAyo.jsは、技術的な不一致というよりは、コミュニティの内部対立から発生したフォークのようだ。反発を招いたのは、TSCの委員の1人で、Node.js関連企業NodeSourceのChief Node Officerを務めるRod Vagg氏だ。同氏がある記事を紹介したツイートが、行動規範に異を唱える内容で扇動的だとして、Node.jsコミュニティのメンバーの怒りを買った。また、同氏がNode.jsのモデレーションプロセスに干渉したとの指摘も上がっていた。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/082900354/?ST=cio-appli&P=2">Node.jsのTSCは、Vagg氏の辞任を求め...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/082900354/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/082900354/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/082900354/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 29 Aug 2017 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
