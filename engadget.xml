@@ -5,27 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    シャツの「アイロンがけ」もこなす7980円の乾燥機、本日発売
-</title>
-			<link>http://japanese.engadget.com/2017/08/28/7980/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/54a181208a01ea9af9eddeeb8c7ff478/205606269/DITE9i-UQAAy4iz.jpg" />
-
-サンコーレアモノショップは、シャツのシワを伸ばす簡易乾燥機「アイロンいら〜ず」を本日（8月28日）に発売しました。価格は税込7980円です。
-
-アイロンいら〜ずは、シャツに特化した簡易乾燥機です。乾燥とシワ伸ばしを同時にこなすことで、家事の時短化を達成できるとうたいます。
-
-
-
-
-使い方としては、まず洗濯脱水したシャツを付属の乾燥バッグにかけます。あとは電源をいれるだけ。乾燥バッグが温風で充満し膨らむことで、最短30分でシャツの乾燥とシワ伸ばしが完了するとのこと。
-
-詳細はこちらの記事をご覧ください
-
-シャツの「アイロンがけ」もこなす7980円の乾燥機、8月28日発売
- ]]></description>
-			<pubDate>Mon, 28 Aug 2017 03:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Hyperloopポッド開発コンペ､時速325kmでミュンヘン工科大学が優勝｡イーロン･マスク｢音速も夢じゃない｣
 </title>
 			<link>http://japanese.engadget.com/2017/08/28/hyperloop-325km/</link>
@@ -711,6 +690,24 @@ Androidバージョンは6.0。Wi-Fiは802.11 b/g/n/、テザリング、Wi-Fi D
 とはいえ、補完機能や強調表示などもきちんと搭載されたコードエディタが使え、遠隔でもいわゆるペアプログラミングができるのは、便利なことにちがいありません。HTMLやCSSに対応すれば、ウェブ制作の現場でも仕事の効率化に貢献しそうです。そのためには、ぜひともプレビューで終わらず、正式版にまでこぎつけてほしい機能です。
  ]]></description>
 			<pubDate>Wed, 30 Aug 2017 02:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Google Play､300超のAndroidアプリを一斉削除｡DDoS攻撃の踏み台、ランサムウェア化
+</title>
+			<link>http://japanese.engadget.com/2017/08/30/google-play-300-android-ddos/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/8d5b5f2faa67716a381fb37d778317ac/205613470/maingp.jpg" />
+　
+Googleが、Google PlayからAndroid用アプリ300本を一斉に削除しました。理由は、スマートフォンを踏み台として特定のサービスへDDoS攻撃を仕掛けるマルウェアWireXに利用されていたため。WireXはランサムウェアとして動作するケースも確認されています。
+
+WireXの活動が確認され始めたのは8月2日ごろとされ8月17日には複数のコンテンツプロバイダーや配信網のサービスを使えなくするに至りました。コンテンツ配信網のひとつAkamaiは、攻撃に利用されている端末の1つを特定し、問題解決のために複数の同業他社およびGoogleと連携し、問題に対処しました。
+
+またGoogleはアプリストアのGoogle Playを精査し、ファイルマネージャーアプリや着メロ編集アプリなどおよそ300本がWireXが仕込まれているのを確認。すべてをストアから削除しました。
+
+Googleの声明によると、Google Playでの対処だけでなく、すでにスマートフォンにインストールされているWireX感染アプリについても、デバイスから削除するアクションを起こしているとのこと。ただ問題のあるアプリはすでに100か国以上の7万台を超えるAndroidデバイスに拡散してしまっているため、すべての削除が完了するにはそれなりの期間がかかる見通し。
+
+問題のアプリのなかには、スマートフォンをロックして身代金を要求するランサムウェアとして動作するものも報告されていることから、Androidユーザーは用心のためインストールしているアプリが今もGoogle Playで配布されているか、確認しておくほうが良いかもしれません。
+ ]]></description>
+			<pubDate>Wed, 30 Aug 2017 03:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
