@@ -11,145 +11,6 @@
 			<pubDate>Tue, 29 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>スタートアップ企業との協業で陥りやすい失敗は？（FinTechを理解するQ＆A）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300328/080300008/</link>
-			<description><![CDATA[　日本の伝統的な大企業の場合、スタートアップ企業との協業における資金拠出の意味を取り違えてしまうことで失敗するケースが散見されます。自らの資金拠出の意味を正しく理解し、成果物や収益のシェアについて目線のあった議論を交わすことが重要です。]]></description>
-			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>専用アプリは不要、Webブラウザーからデバイスを操作（IoTで火が付くITエンジニア魂）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/060800123/082400012/</link>
-			<description><![CDATA[　Bluetooth Low Energy（BLE）を扱う「Web Bluetooth」と呼ばれるAPIを使って、Webブラウザーからデバイスを操作できるアプリを作ってみよう。ネイティブアプリが不要になるので、誰でも使えるようになる。]]></description>
-			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>儲かる戦略をITとセットで描く、デジタルマーケティングディレクターとは？（新・ITエンジニア図鑑）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100297/080100007/</link>
-			<description><![CDATA[　ITを使って顧客とのエンゲージメントを強めたり、直に新たなサービスを提供したりする――。マーケティングがITを活用することで従来と全く違ったレベルで実現できるいま、それを専門的に支援するデジタルマーケティングエンジニアが重要になっている。]]></description>
-			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>クラウド事業の苦しみを克服したオラクル、ハード事業はどこへ行く（北川 賢一のIT業界乱反射）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800200/082500025/</link>
-			<description><![CDATA[　米オラクルの事業再編に伴う苦しみが、どうやら峠を越えたようである。売り上げの「カニバル」（共食い）が避けられず、「先行き不透明である」と疑問符を投げかけられてきたオラクルのクラウドビジネスだったが、直近1年間の急速な移行の結果、間もなく利益を上げられる見通しを投資家たちがほぼ確信したと見られるからだ。]]></description>
-			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>テレワークを実践してみて分かった、働き方改革の課題（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/082101096/</link>
-			<description><![CDATA[　働き方改革を進める政府が2017年7月24日に設定したキャンペーン「テレワーク・デイ」。637社がITを使い、オフィス以外の場で働くテレワークを試した。「仕事に集中できる」という実感を得た一方で、「仕事は会社でするもの」という社員の固定観念の打破といった課題も浮き彫りになった。]]></description>
-			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「VALU」という問題児は革命児に変貌できるのか？（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/082400906/</link>
-			<description><![CDATA[　「想定の約10倍だ」――。筆者がVALUを設立した小川晃平氏を訪ねたのは、2017年6月19日のこと。同社は20日間で2万人のユーザーを獲得していた。ところが小川氏は、手放しで喜んでいるようには見えなかった。]]></description>
-			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「これはレタスか雑草か？」、草むしりはロボットにお任せ（日本とどこが違う？AgTech最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/082500346/082800002/</link>
-			<description><![CDATA[　米国のAgTechが日本と比べて進んでいるポイントの一つに、米国では「雑草などの駆除を自動化するロボット」が既に実現していることが挙げられる。先駆者がシリコンバレーに本拠を置くAgTechスタートアップ米Blue River Technologyだ。]]></description>
-			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>SAPが注力する新ソフト「Leonardo」、ERPに次ぐ柱となるか（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/082801105/</link>
-			<description><![CDATA[　ERP（統合基幹業務システム）パッケージ最大手の欧州SAPは2017年後半にかけて、新たなソフトウエア製品群「SAP Leonardo」関連のサービス提供を加速する。LeonardoはIoTやAI、ビッグデータ処理などに必要な機能を提供する製品群。同社はERPに続く2つ目の事業の柱として注力する構えだ。]]></description>
-			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>著名エディターアプリ開発者の苦悩、売り切りかアプリ内購読か（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/082900055/</link>
-			<description><![CDATA[　筆者はMacやiPadで、「Ulysses」というテキストエディターアプリを利用している。クラウド同期型でクロスプラットフォーム対応する。筆者にとっては必需品となっている。]]></description>
-			<pubDate>Wed, 30 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>デザイン思考をCIOが生かすための秘策は（中）（デザイン思考をCIOが生かすための秘策は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/081700063/081700002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　デジタルトランスフォーメーションを成功させるための重要な要素の1つとして、デザイン思考が浮上しつつある。だが、デザイン思考とは何なのだろうか。そして、先進的な最高情報責任者（CIO）たちは、事業価値を高めるために、デザイン思考のパワーをどのように生かしているのだろうか。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/081700063/081700001/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/081700063/081700002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　また、デジタルウオレットを巡る争いで、Apple Pay、Mint、PayPalなどのサービスがシェアを獲得する中、その状況を目にした金融機関がデジタル化を余儀なくされているのも、この考え方によるものだとEvenson氏は言う。加えて同氏は、Microsoftのような古参のソフトウエアベンダーにもデザイン思考が浸透する様子を目にしてきたと話す。Evenson氏は2009～2011年にMicrosoftでユーザー・エクスペリエンス・デザイン・マネージャーを務めていた。Evenson氏がMicrosoftに入社した頃は、プロダクトマネジメントに引き渡す前のソフトウエアの開発とテストに比重が置かれていたが、同氏が退社する頃には、Microsoftはソフトウエアの開発プロセスにデザインを取り入れていた。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/081700063/081700002/?ST=cio-appli&P=2">企業の基盤にテクノロジーがますます組み込まれてい...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/081700063/081700002/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/081700063/081700002/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/081700063/081700002/?ST=cio-appli&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/081700063/081700002/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 30 Aug 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>富士通クラウド「K5」、「VMware Cloud Foundation」を提供へ（VMworld 2017 USレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/082400345/083000003/</link>
-			<description><![CDATA[　富士通と米ヴイエムウェアは2017年8月29日、クラウド分野の協業をグローバルで拡大すると発表した。富士通は2017年度第4四半期（2018年1～3月）から、同社クラウドサービス「FUJITSU Cloud Service K5」上で、VMwareのクラウド基盤ソフト「VMware Cloud Foundation」の提供を始める。]]></description>
-			<pubDate>Wed, 30 Aug 2017 06:01:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>EUからの個人データ移転、ブレグジットの影響は（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/083000409/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　欧州連合（EU）では、2018年に大きく変わるのデータ保護規則への準備が進められている。だが、EU市民の個人データを他国に移している企業にとって、心配の種はほかにもある。英国のEU離脱への対応だ。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/083000409/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Cédric Puisney</div>
-</div>
-<p>
-　現地時間2017年8月28日に再び始まる英国とEUの離脱交渉では、企業がEU域内の個人データを英国に移転することを離脱後も可能にする法的根拠についても話し合われる見通しだ。
-</p>
-<p>
-　企業が、その顧客や従業員など、EU市民の個人データを第三国に移す場合、EUのデータ保護法と同等の水準のプライバシー保護が確保されていると欧州委員会（EC）が認定した国や地域でなくてはならない（これを「十分性認定」という）。この決まりは、EU一般データ保護規則（GDPR）の適用が始まる2018年5月25日以降も変わらない。警察や司法機関が扱うデータについては、別のデータ保護指令が定められており、そちらも2018年5月までに法制化が完了する。
-</p>
-<p>
-　こうした状況の中、世界各国の企業は、英国のEU離脱が及ぼす影響に対しても準備を進めていかなくてはならない。特に、EU市民の個人データの保管や処理に際して、データを英国に（あるいは英国経由で第三国に）送っている企業だ。
-</p>
-<p>
-　現在の予定では、英国は2019年3月29日をもってEUから離脱する。特段の合意や協定が別途結ばれない限り、EU域内の個人データを英国に移すことはできなくなる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/083000409/?ST=cm-industries&P=2">英国政府は、EU離脱後の同国の法令が十分なプライバシー保護を確保...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/083000409/?ST=cm-industries&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/083000409/?ST=cm-industries&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/083000409/?ST=cm-industries&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/083000409/?ST=cm-industries&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 30 Aug 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「2019年までに国内20万店舗へ展開」、スマホ決済Origamiが戦略会見（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/083002156/</link>
-			<description><![CDATA[　Origamiは2017年8月29日、都内の本社で「Origami Open House Media Session」を開催し、スマートフォン決済サービス「Origami Pay」を中心とした同社の事業の現状と今後の方向性について説明した。]]></description>
-			<pubDate>Wed, 30 Aug 2017 10:15:35 +0900</pubDate>
-		</item>
-		<item>
 			<title>日立、IoTアプリ開発を支援する「イベント駆動型フレームワーク」を販売開始（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/082602144/</link>
 			<description><![CDATA[　日立製作所は2017年8月30日、イベント駆動型フレームワーク「Hitachi Application Framework/Event Driven Computing（HAF/EDC）」を9月1日に販売開始すると発表した。大量データの高速処理が必要なIoT（Internet of Things）アプリの開発を支援するソフトであり、同社のIoTプラットフォーム「Lumada」の実行管理基盤としても位置づけられる。]]></description>
@@ -371,6 +232,36 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/083002160/</link>
 			<description><![CDATA[　ロジクールは2017年8月31日、同社の最上位機となるワイヤレス型キーボード「KX1000s マルチデバイス ワイヤレス キーボード」（愛称はCRAFT）を発表した。米アドビシステムズや米マイクロソフトの一部ソフトの作業効率を改善する「CROWN」と呼ぶ操作ダイヤルを左上に設けたのが特徴。]]></description>
 			<pubDate>Thu, 31 Aug 2017 16:01:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>WILLERとKDDIがVR提供、高速バス車内で歌手が女性ファンに「好きだよ」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/083102165/</link>
+			<description><![CDATA[　高速バス・鉄道運営のWILLERとKDDIは2017年8月31日、ライブ会場へ直行するバスの車内でVR（仮想現実）コンテンツを楽しめる新サービス「ライブバスVR」の提供を始めると発表した。]]></description>
+			<pubDate>Thu, 31 Aug 2017 18:20:16 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIを応用した高精細3D地図、NTTデータが発売（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/083102166/</link>
+			<description><![CDATA[　NTTデータは2017年8月31日、衛星画像を活用した高精細の3次元（3D）地図の提供サービス「AW3D 全世界デジタル3D地図」に、新メニュー「高精細3D都市データ」を追加し、9月1日に販売を開始すると発表した。特徴は、人工知能（AI）を応用して作成した新しいタイプの地図データを提供すること。]]></description>
+			<pubDate>Thu, 31 Aug 2017 19:50:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>育休中にもキャリアが積める、パーソルHDの「ママボラン」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/083102167/</link>
+			<description><![CDATA[　パーソルホールディングスは2017年8月31日、育休中に働きたい個人と企業をマッチングするサービス「ママボラン」を始めた。企業の働き方改革と育休取得者の復職を支援するという。]]></description>
+			<pubDate>Thu, 31 Aug 2017 20:09:20 +0900</pubDate>
+		</item>
+		<item>
+			<title>サムスンがスマートウオッチ「Gear Sport」を発表、IoTデバイスと接続可能に（IFA 2017レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/082900352/083100004/</link>
+			<description><![CDATA[　韓国サムスン電子は2017年8月30日（現地時間）、ドイツ・ベルリンでの「IFA 2017」に合わせてプレスカンファレンスを開催し、ウエアラブルや家電の新製品を発表した。]]></description>
+			<pubDate>Thu, 31 Aug 2017 20:21:32 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソニーモバイルが最新スマホ「Xperia XZ1」シリーズ、AR機能を搭載（IFA 2017レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/082900352/083100005/</link>
+			<description><![CDATA[　ソニーモバイルコミュニケーションズは2017年8月31日（現地時間）、ドイツ・ベルリンで開催されている「IFA 2017」に合わせてプレスカンファレンスを開催し、スマートフォンの新製品「Xperia XZ1」など3機種を発表した。]]></description>
+			<pubDate>Thu, 31 Aug 2017 20:24:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
