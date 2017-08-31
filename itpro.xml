@@ -5,54 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：パソコンもモバイルバッテリーで充電する時代になった（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/082500136/?d31</link>
-			<description><![CDATA[　スマートフォンのバッテリー切れを懸念してか、モバイルバッテリーを持ち歩いている人をよく見かける。もちろん僕自身もそうしている。大変便利なだけに、それに比べて不自由さを感じるのが、パソコンだ。]]></description>
-			<pubDate>Tue, 29 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ベルリンで「IFA 2017」が開幕、AIプロセッサーや最新PCに注目（IFA 2017レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/082900352/083000002/</link>
-			<description><![CDATA[　2017年9月1日（現地時間）、ドイツ・ベルリンで国際コンシューマー・エレクトロニクスショー「IFA 2017」が開幕する。]]></description>
-			<pubDate>Wed, 30 Aug 2017 11:21:43 +0900</pubDate>
-		</item>
-		<item>
-			<title>日立ソリューションズ、秘文のランサムウエア対策を強化（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/083002158/</link>
-			<description><![CDATA[　日立ソリューションズは8月30日、情報漏洩対策製品「秘文」シリーズ内の2製品を強化すると発表した。大流行しているマルウエアからデータを守るための強化で、管理している文書に対する不正なアクセスや暗号化などを防止する。]]></description>
-			<pubDate>Wed, 30 Aug 2017 12:36:24 +0900</pubDate>
-		</item>
-		<item>
-			<title>企業向けKubernetes「Pivotal Container Services」が登場（VMworld 2017 USレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/082400345/083000004/</link>
-			<description><![CDATA[　米Pivotal Softwareと米VMwareは2017年8月29日（米国時間）、コンテナ管理ツール「Pivotal Container Services（PKS）」を発表した。Dockerコンテナ管理ツール「Kubernetes」をベースにVMware vSphere用に最適化。vSphereに組み込まれているVMware NSXを使い、ネットワークレベルでコンテナのセキュリティを確保できるようにした。]]></description>
-			<pubDate>Wed, 30 Aug 2017 13:40:26 +0900</pubDate>
-		</item>
-		<item>
-			<title>長崎県諫早市が「土砂崩れ予知IoT」試験導入、含水量センサーのみで危険度を判定（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/083002159/</link>
-			<description><![CDATA[　長崎県諫早市は、土砂災害の危険が高い市内の斜面に、IoT（インターネット・オブ・シングズ）を使って土砂災害の予兆を検知するシステムを試験導入した。NECが開発した、斜面の土砂の含水量から斜面崩壊の危険度を算出するアルゴリズムを採用したのが特徴。同社が2017年8月30日に発表した。]]></description>
-			<pubDate>Wed, 30 Aug 2017 15:47:57 +0900</pubDate>
-		</item>
-		<item>
-			<title>「ヘッドマウントのVRは壁にぶち当たるのが早かった」──ゲーム開発者の会議「CEDEC 2017」でVR論盛り上がる（CEDEC 2017レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/083000354/083000001/</link>
-			<description><![CDATA[　コンピュータエンターテインメント協会（CESA）が主催するコンピュータゲーム開発者の会議「CEDEC 2017」が2017年8月30日、横浜市のパシフィコ横浜で開幕した。今日から3日間の開催で、今回で19回目となる。]]></description>
-			<pubDate>Wed, 30 Aug 2017 17:19:10 +0900</pubDate>
-		</item>
-		<item>
-			<title>砂がぬるぬる新感覚のユーザーインタフェース、「CEDEC 2017」でものつくり大学が展示（CEDEC 2017レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/083000354/083000002/</link>
-			<description><![CDATA[　ユーザーインタフェース（UI）はゲームで最も重要な要素の一つ。2017年8月30日から開催されたゲーム開発者向けの会議「CEDEC 2017」で、ものつくり大学非常勤講師の的場やすし氏は、UIに「砂」の利用を提案していた。]]></description>
-			<pubDate>Wed, 30 Aug 2017 18:42:09 +0900</pubDate>
-		</item>
-		<item>
-			<title>TISが企業のITシステムを一括管理する運用サービス拠点を公開（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/083002162/</link>
-			<description><![CDATA[　TISは2017年8月30日、顧客企業が利用するクラウドやオンプレミスといったITシステムを一括して管理する拠点「MSCC（Managed Service Control Center）」を見学可能な施設として開設した。]]></description>
-			<pubDate>Wed, 30 Aug 2017 20:51:41 +0900</pubDate>
-		</item>
-		<item>
 			<title>APIとはなんですか？（FinTechを理解するQ＆A）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300328/080300009/</link>
 			<description><![CDATA[　次世代の銀行ビジネスモデルの制度的基盤となるオープンバンキング構想を実現するうえでカギとなる技術の一つです。銀行をプラットフォームとして、サードパーティーとの間でアプリを通じて安全なデータ連携を実現することで、金融サービスの利便性の飛躍的な向上が期待されています。]]></description>
@@ -262,6 +214,84 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/083102169/</link>
 			<description><![CDATA[　米AMDは2017年8月31日（米国時間）、企業PC向けCPUの「Ryzen PRO」を正式に発表した。AMDは以前から製品投入を予告しており、6月29日には仕様を公開していた。8コア／16スレッドのRyzen 7 PRO 1700/1700Xなど6モデルある。「GuardMI」と呼ぶ、セキュリティ機能を備える。]]></description>
 			<pubDate>Thu, 31 Aug 2017 22:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>決済・送金についての金融規制の全体像を知りたい（FinTechを理解するQ＆A）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300328/080300010/</link>
+			<description><![CDATA[　送金（為替取引）は銀行法や資金決済法の下で金融規制がかかる一方で、決済は必ずしも金融規制がかかりません。]]></description>
+			<pubDate>Fri, 01 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スポーツに特化したスマートウォッチ「HUAWEI WATCH2」がイイ（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/082500064/</link>
+			<description><![CDATA[　スマートウォッチの進化が始まっています。スマートフォンとの連携のない状況でも活用できる端末が、各社からリリースされ始めました。OSの進化によって、スマートウォッチ上で単独で稼働するアプリが登場し始めたのです。]]></description>
+			<pubDate>Fri, 01 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Appleが映像配信にテコ入れ、「一人負け」から脱却なるか（US NEWSの裏を読む）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/200047/082900044/</link>
+			<description><![CDATA[　先ごろ米Appleが、オリジナルの映像作品の調達、制作費用として、今後1年間で約10億ドル（約1100億円）を投じる計画だと伝えられ、話題になった。]]></description>
+			<pubDate>Fri, 01 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>怪しいサイトをラズパイでブロック、「DansGuardian」でWebフィルタリング（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/083100020/</link>
+			<description><![CDATA[　自分で避けたいサイト、他人に見せたくないサイト。小型PC「Raspberry Pi（ラズパイ）」と危険なサイトや不適切なサイトへのアクセスを遮断してくれる「DansGuardian」を組み合わせると、条件に合ったサイトをブロックするWebフィルタリングサーバーに仕立てられます。]]></description>
+			<pubDate>Fri, 01 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>MacBook Airはもう古い　5年後に後悔しないMac選び（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/083000339/</link>
+			<description><![CDATA[　ノート型Macといえば、極薄ノートのお手本となったMacBook Airが現在でも一番人気となっています。コストパフォーマンスの高さも評価できますが、5年使うことを考えると残念ながらベストバイとはいえません。]]></description>
+			<pubDate>Fri, 01 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>電源オフだと使えないiPhone　電子マネー素朴な疑問（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/083000338/</link>
+			<description><![CDATA[　タッチすることで、買い物をしたり公共交通機関に乗車できたりするスマホの電子マネー対応。実際に利用している人でもよくわかっていない素朴な疑問に答える。]]></description>
+			<pubDate>Fri, 01 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>大企業やVCが熱視線、AgTechスタートアップ30社（日本とどこが違う？AgTech最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/082500346/083100004/</link>
+			<description><![CDATA[　米国のAgTechの主役は、やはりスタートアップだ。AgTechに特化したベンチャーキャピタル（VC）やアクセラレーターがスタートアップをサポートしている。農業分野の大企業もVCを通じて、AgTechスタートアップとの連携を図っている。]]></description>
+			<pubDate>Fri, 01 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>火災現場や未来の工場を3次元で魅せる、VRエンジニア（新・ITエンジニア図鑑）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100297/080100009/</link>
+			<description><![CDATA[　火災への対応や高所からの落下など、現実世界では体験が難しいコンテンツを、顧客の要望に応じて作り上げるのがVRエンジニアだ。イラストを描き、顧客とイメージを共有してプロジェクトを進めたり、操作感を重視したりする、といった特徴がある。]]></description>
+			<pubDate>Fri, 01 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>できるプロマネ、仲間とゲーム感覚でタスクを洗い出す（できるプロマネの道具箱）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071900293/071900009/</link>
+			<description><![CDATA[　タスクの洗い出し、スケジュール作成作業にメンバーを巻き込むため、オープンストリームの岡本浩一氏はふせん紙や模造紙、プランニングポーカーといった、アナログな道具を活用する。]]></description>
+			<pubDate>Fri, 01 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>新卒採用担当はWatson、ソフトバンクの割り切りと手応え（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/082401100/</link>
+			<description><![CDATA[　「事務作業に割く時間が4分の1になった」。ソフトバンクの新卒採用を担当する中村彰太人材採用部採用企画課課長が破顔する。同社は新卒採用のエントリーシートの合否判定に、米IBMの人工知能（AI）である「IBM Watson」を利用している。]]></description>
+			<pubDate>Fri, 01 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「天下り過ぎ」のススメ（編集長の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/083100044/</link>
+			<description><![CDATA[　日本銀行から出向し、金融庁の総務企画局企画課で信用制度参事官室企画官を務めた神田潤一氏が民間企業へと転じる。スタートアップ業界と国の間で求められる媒介役が今、求められている。]]></description>
+			<pubDate>Fri, 01 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スマホのAmazonアプリにダッシュボタンが出現、いつもの商品をお手軽注文（青木恵美の信州ITラプソディ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/083100037/</link>
+			<description><![CDATA[　以前本連載で、Amazonのデバイス「Dash Button」（ダッシュボタン）について書いた。Dash Buttonは、ストックが切れそうな頃にボタンを押せば商品が届くという小型デバイスだ。]]></description>
+			<pubDate>Fri, 01 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>OCNはとばっちり、米グーグルによる大規模ネット障害の真相（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/083101108/</link>
+			<description><![CDATA[　2017年8月25日に日本国内で発生した大規模なネット障害。米グーグルが誤って経路情報を大量に送信したことが引き金となった。とはいえ、今回の一件は不可解なことが多い。国内の3大通信事業者のうち、ネット障害が見られたのはNTTコミュニケーションズとKDDI。関係者や有識者への取材から障害の具体像が見えてきた。]]></description>
+			<pubDate>Fri, 01 Sep 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
