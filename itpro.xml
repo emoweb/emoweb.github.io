@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：パソコンもモバイルバッテリーで充電する時代になった（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/082500136/?d31</link>
-			<description><![CDATA[　スマートフォンのバッテリー切れを懸念してか、モバイルバッテリーを持ち歩いている人をよく見かける。もちろん僕自身もそうしている。大変便利なだけに、それに比べて不自由さを感じるのが、パソコンだ。]]></description>
-			<pubDate>Tue, 29 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>スタートアップ企業との協業で陥りやすい失敗は？（FinTechを理解するQ＆A）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300328/080300008/</link>
 			<description><![CDATA[　日本の伝統的な大企業の場合、スタートアップ企業との協業における資金拠出の意味を取り違えてしまうことで失敗するケースが散見されます。自らの資金拠出の意味を正しく理解し、成果物や収益のシェアについて目線のあった議論を交わすことが重要です。]]></description>
@@ -334,6 +328,12 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 31 Aug 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>VMware Cloud on AWSが船出、NRIやリコーが早期導入（VMworld 2017 USレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/082400345/083100006/</link>
+			<description><![CDATA[　VMworld 2017で発表された新サービス「VMware Cloud on AWS」。オンプレミス（自社所有）環境とパブリッククラウドでそれぞれ大きなシェアを持つVMwareとAWS（Amazon Web Services）が手を組んだインパクトは大きい。VMware Cloud on AWSを使い、現段階でユーザーは何が出来るのか見ていこう。]]></description>
+			<pubDate>Thu, 31 Aug 2017 11:25:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
