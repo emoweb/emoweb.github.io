@@ -11,42 +11,6 @@
 			<pubDate>Thu, 31 Aug 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Googleのスマホ用AR技術、「Tango」から「ARCore」に（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/083100355/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　この1年ほどの間、拡張現実（AR）に関する米Googleの上昇志向は実に控えめで、同社のARプラットフォーム「Tango」に対応したスマートフォンは2機種しか出ていない。しかも、うち1機種は数カ月前に発売されたばかりだ。だがGoogleは現地時間2017年8月29日、それ以外の大多数のAndroidスマートフォンでもTangoと同じようなAR機能を使えるようにする新しいSDK「ARCore」を発表し、開発者向けプレビュー版を公開した。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/083100355/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Michael Simon/IDG</div>
-</div>
-<p>
-　ARCoreは、米Appleの「ARKit」と同様、特別なハードウエアを搭載していない端末でAR機能を実現する。現時点でプレビュー版の動作対象はスマートフォン「Pixel」と「Galaxy S8」（OSは「Android 7.0 Nougat」以上）に限られているが、Googleはプレビュー版が終了するまでの年内に1億台のデバイスでARCoreを動かすことを目標に掲げており、韓国Samsung Electronics、中国Huawei Technologies、韓国LG Electronics、台湾ASUSTeK Computerなどの端末メーカーと協力を進めている。
-</p>
-<p>
-　現実問題として、ARCoreの登場は、ASUSと、同社が発売したばかりのTango対応スマートフォン「Zenfone AR」にとっては、製品の持ち味が色あせる残念な知らせかもしれない。だが、それ以外の皆にとっては良い知らせだ。特別なハードウエアが不要という点だけを取っても、ARは仮想現実（VR）よりはるかに興味深いプラットフォームだ。加えて、日常的な用途という面でも、ARの方が実用的だ。完全な没入感があるVRヘッドセットは、AR以上に度肝を抜く要素があるかもしれないが、現実世界の風景に重ね合わせる形で、計測、買い物、移動などを行える実用性に関しては、ARの方が上を行く。Pokemon Goにとどまらず、膨大な数のユーザーに本物のARを使えるようにすることで、Googleはこのプラットフォームを急速に前進させる。単なる余興の域を越える日も近いはずだ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/083100355/?ST=cio-appli&P=2">新たな現実へ</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/083100355/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/083100355/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/083100355/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 31 Aug 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>VMware Cloud on AWSが船出、NRIやリコーが早期導入（VMworld 2017 USレポート）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/082400345/083100006/</link>
 			<description><![CDATA[　VMworld 2017で発表された新サービス「VMware Cloud on AWS」。オンプレミス（自社所有）環境とパブリッククラウドでそれぞれ大きなシェアを持つVMwareとAWS（Amazon Web Services）が手を組んだインパクトは大きい。VMware Cloud on AWSを使い、現段階でユーザーは何が出来るのか見ていこう。]]></description>
@@ -288,6 +252,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/090102173/</link>
 			<description><![CDATA[　日本マイクロソフトは2017年9月1日、パートナー向けのイベント「Japan Partner Conference 2017 Tokyo」を開催「八つに分かれていたパートナー関連部門を一つに集約した」としてパートナー事業本部の設立を説明など、パートナー支援策を発表した。]]></description>
 			<pubDate>Fri, 01 Sep 2017 17:18:26 +0900</pubDate>
+		</item>
+		<item>
+			<title>人が外に出れば世界は変わる──CEDEC 2017でポケモンGOのNianticが講演（CEDEC 2017レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/083000354/090100004/</link>
+			<description><![CDATA[　ゲーム開発者会議「CEDEC 2017」で、ポケモンGOの立ち上げに参加した米Nianticの川島優志氏と、開発を指揮した野村達雄氏が基調講演に登壇、Nianticの理念やARについての考えなどを紹介した。]]></description>
+			<pubDate>Fri, 01 Sep 2017 18:15:47 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
