@@ -5,66 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>APIとはなんですか？（FinTechを理解するQ＆A）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080300328/080300009/</link>
-			<description><![CDATA[　次世代の銀行ビジネスモデルの制度的基盤となるオープンバンキング構想を実現するうえでカギとなる技術の一つです。銀行をプラットフォームとして、サードパーティーとの間でアプリを通じて安全なデータ連携を実現することで、金融サービスの利便性の飛躍的な向上が期待されています。]]></description>
-			<pubDate>Thu, 31 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>JALがカード会社に挑戦状、ドイツの海外出張精算クラウドの総販売代理店に（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/082801103/</link>
-			<description><![CDATA[　日本航空（JAL）は2017年8月3日、海外出張費を精算するクラウドサービスを手がける独エアプラスと提携した。同社は欧米を中心に60カ国に進出して取扱高1兆8000億円を誇る大手。今回、JALが総販売代理店となり日本市場に初参入する。]]></description>
-			<pubDate>Thu, 31 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本企業のIT投資額が大幅上昇、わずか3カ月で激変した理由とは（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/082900092/</link>
-			<description><![CDATA[　日本企業が2017年度のIT投資額を大幅に上積みする――。日銀が四半期ごとに実施している「日銀短観」の2017年6月調査がちょっとしたサプライズだった。調査項目の一つに「ソフトウェア投資額」があり、そこには驚きの数字が記載されている。]]></description>
-			<pubDate>Thu, 31 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>現場に出向いて観察が信条、ロボットエンジニア（新・ITエンジニア図鑑）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100297/080100008/</link>
-			<description><![CDATA[　ロボット向けにアプリケーションを開発するロボットエンジニア。利用シーンを想定して台本を書き、ロボットの仕草によって与える印象などを考えながら開発する。相次ぎ新しい人型ロボットが登場するなど、技術進化の激しい分野だ。]]></description>
-			<pubDate>Thu, 31 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>富士通は「出島」でNECは「2階」、脱・人月商売は技術者の隔離から（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/081800899/</link>
-			<description><![CDATA[　SIビジネスはまもなく衰亡する――。私は「極言暴論」などの記事で一貫して主張してきた。当初ITベンダーの多くは「SIへのニーズが無くなるわけがない」と歯牙にもかけなかったが、最近では「あなたの言うとおり」と言い出し、新ビジネスの創出に本気になっている。その深い理由を説明しよう。]]></description>
-			<pubDate>Thu, 31 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>できるプロマネはOneNoteで思考過程をレビューする（できるプロマネの道具箱）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/071900293/071900008/</link>
-			<description><![CDATA[　ウルシステムズの植田 淳氏は米Microsoftのデジタルノートアプリケーション「OneNote」をチームで活用する。ドキュメントを作るメンバーの思考過程を把握するためだ。]]></description>
-			<pubDate>Thu, 31 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IoTはJavaScriptがあればいつでも実現できる（IoTで火が付くITエンジニア魂）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/060800123/082400013/</link>
-			<description><![CDATA[　JavaScriptだけで操作できるマイコンボードやビーコンが相次ぎ登場し、JavaScriptだけでIoTを実現できるようになってきた。JavaScriptで操作できるマイコンボードやビーコンを紹介しよう。]]></description>
-			<pubDate>Thu, 31 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>便利なウイルス検査サイト、知っておきたい情報漏洩リスク（今日も誰かが狙われる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/082400009/</link>
-			<description><![CDATA[　無料で利用できるウイルス検査サイト「VirusTotal」は便利だが、業務に関係するファイルをアップロードするのは禁物だ。VirusTotalの有料サービスのユーザーなら、誰がアップロードしたファイルであっても自由に入手できるからだ。業務ファイルをアップロードすると情報漏洩につながる恐れがある。]]></description>
-			<pubDate>Thu, 31 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>軍用ドローンが農場で活躍（日本とどこが違う？AgTech最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/082500346/082800003/</link>
-			<description><![CDATA[　日本で農業用ドローンというと「マルチローター機」の印象が強い。それに対して米国では、より飛行範囲が広い「固定翼機」にも期待が集まっている。しかも米国の農業ドローンには、日本ではありえない「意外な過去」がある。]]></description>
-			<pubDate>Thu, 31 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>成果主義と年功序列、給与はどちらが高いか（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/082901107/</link>
-			<description><![CDATA[　能力・成果主義と年功序列。IT人材にとって、どちらの人事評価制度の給与水準が高いのだろうか――。この実態を把握するのに役立つ調査結果を、経済産業省と情報処理推進機構（IPA）が2017年8月21日に公表した。]]></description>
-			<pubDate>Thu, 31 Aug 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>デジタルトランスフォーメーションの核心はディスラプション（後）（デジタルトランスフォーメーションの核心はディスラプション）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/081700064/081700002/</link>
 			<description><![CDATA[<div>
@@ -366,6 +306,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/083002161/</link>
 			<description><![CDATA[　乾電池の形状をしたIoT（インターネット・オブ・シングズ）製品「MaBeee（マビー）」の開発を手掛けるノバルスは2017年9月1日から、BtoB事業を本格的に開始する。生活雑貨や家電、住宅設備メーカーなど向けに製品のIoT化を支援する。]]></description>
 			<pubDate>Fri, 01 Sep 2017 11:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>CEDEC AWARDS 2017の最優秀賞が決定（CEDEC 2017レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/083000354/090100003/</link>
+			<description><![CDATA[　ゲーム開発者向けの会議「CEDEC 2017」の2日目である2017年8月31日）に、技術面から開発者の功績を称える「CEDEC AWARDS 2017」の発表・授賞式が行われた。「エンジニアリング」「ビジュアル・アーツ」など4部門それぞれに最優秀賞が発表され、既に発表されていた特別賞と著述賞の授賞式が行われた。]]></description>
+			<pubDate>Fri, 01 Sep 2017 12:04:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソネットの通信障害、原因は「中継機器への大量アクセス」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/090102172/</link>
+			<description><![CDATA[　2017年8月31日22時ごろ、ソニーネットワークコミュニケーションズが提供する通信接続サービス「So-net」で障害が発生し、ユーザーはインターネットにつながりにくくなった。障害の原因は、「中継機器への大量アクセス」としている。]]></description>
+			<pubDate>Fri, 01 Sep 2017 12:46:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
