@@ -320,5 +320,37 @@
 			<description><![CDATA[　中国ファーウェイは2017年9月2日、ドイツ・ベルリンで開催中の「IFA 2017」の基調講演において、最新SoC「Kirin 970」を発表した。このKirin 970を搭載したスマートフォンである「Mate 10」シリーズを、10月16日に発表することも明らかにした。]]></description>
 			<pubDate>Mon, 04 Sep 2017 06:10:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>TypeScript 2.5の新機能（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/090400411/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　JavaScriptに型付けなどの拡張を加えたスーパーセットとして広く使われている米Microsoftの言語「TypeScript」に、新バージョン2.5が登場した。今回のバージョンでは、try／catch文で受け取るエラーの記述やコンパイラの機能などに関して改良が加わった。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/090400411/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Mira DeShazer (CC0)</div>
+</div>
+<p>
+　TypeScript 2.5のtry／catch文では、catch節のパラメーターを省略できるようになった。MicrosoftでTypeScript担当のプログラムマネージャーを務めるDaniel Rosenwasser氏の説明によると、何らかのエラーで処理が失敗する可能性がある箇所で、エラーの種類は問わずに対処したい場合に、catch節でエラーを受け取るパラメーターの記述を完全に省くことができる。ECMAScriptで提案されているのと同様の方式だ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/090400411/?ST=cm-software&P=2">そのほか、TypeScript2.5には次のような新機能がある。...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/090400411/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/090400411/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/090400411/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 04 Sep 2017 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
