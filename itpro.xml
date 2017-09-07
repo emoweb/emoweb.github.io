@@ -11,49 +11,6 @@
 			<pubDate>Wed, 06 Sep 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>タニウムがEDR特化の新製品、ウイルス感染の検知から対応を迅速に（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/090602184/</link>
-			<description><![CDATA[　タニウムは2017年9月5日、エンドポイント管理ツールの新製品「Tanium Threat Response」の提供開始を発表した。新製品ではセキュリティ関連機能をパッケージ化した。端末の不正な挙動を検知して、その後の対応を迅速に実施する「EDR」と呼ばれる製品の一つとなる。]]></description>
-			<pubDate>Wed, 06 Sep 2017 09:30:55 +0900</pubDate>
-		</item>
-		<item>
-			<title>2017年Q2のエンタープライズSaaS市場、Microsoftが引き続き首位（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/090600412/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米市場調査会社Synergy Research Groupが発表した調査結果によると、2017年第2四半期のエンタープライズSaaS市場は、米Microsoftが首位の座を守った。米LinkedInを買収したことが、同四半期のMicrosoftの売上高の伸びを後押しした。
-</p>
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/090600412/ph.jpg" width="300" alt="" title=""></div></div>
-<p>
-　2017年第2四半期のエンタープライズSaaS市場の売上高は、世界全体で150億ドル近くに達し、前年同期と比べ31％増加した。アプリケーションの区分ごとに見ると、伸びが最も大きかったのはコラボレーションだった。
-</p>
-<p>
-　ベンダー別で見た場合、1年前に米Salesforceを抜いて首位に立ったMicrosoftが引き続きリードを広げた。両社の後ろを、米Adobe Systems、米Oracle、独SAPが追っている。このほか、米ADP、米IBM、米Workday、米Intuit、米Cisco Systems、米Google、米ServiceNowが上位に入った。
-</p>
-<p>
-　「注目に値するのは、この市場が依然として大きく断片化していて、主なセグメントのそれぞれで首位のベンダーが異なることだ」と、Synergy Research GroupのJohn Dinsdale主席アナリストは言う。
-</p>
-<p>
-　主要SaaSベンダーのうちで、全体の伸び率が著しかった企業は、Oracle、Microsoft、Googleだった。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/090600412/?ST=cm-software&P=2">現在のエンタープライズSaaS市場はさまざまな面で成熟した。しか...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/090600412/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/090600412/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/090600412/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 06 Sep 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Struts 2にまたも深刻な脆弱性、至急対応を（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/090602186/</link>
 			<description><![CDATA[　Apacheソフトウエア財団は米国時間2017年9月5日、JavaのWebアプリケーションフレームワーク「Apache Struts 2」の脆弱性を公表した。IPAやJPCERT/CCが注意喚起を公開している。危険度は最高の「Critical」である。至急の対策が必要だ。]]></description>
@@ -286,6 +243,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/090702199/</link>
 			<description><![CDATA[　日本NCRは2017年9月7日、設置面積を抑えたセルフレジ「NCRフレックスセルフ」やPOS端末「NCR RealPOS XR7J」など3製品を発表した。セルフレジは、商品スキャンと決済、決済のみなど、利用場面に応じた構成が可能。POS端末は従来分かれていたプリンターなどを一体化した。]]></description>
 			<pubDate>Thu, 07 Sep 2017 17:17:50 +0900</pubDate>
+		</item>
+		<item>
+			<title>「LinuxはIBMが育てた。次はブロックチェーンだ」、10月にPaaSとして提供開始（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/090702200/</link>
+			<description><![CDATA[　日本アイ・ビー・エム（日本IBM）は2017年9月7日、クラウドサービス「IBM Cloud」の上でPaaS（Platform as a Service）として提供するブロックチェーンサービス「IBM Blockchain Platform」を同年10月に開始すると発表した。オープンソースのブロックチェーンフレームワーク「Hyperledger Fabric 1.0」を基盤として利用する。]]></description>
+			<pubDate>Thu, 07 Sep 2017 17:25:54 +0900</pubDate>
+		</item>
+		<item>
+			<title>東急建設、気象庁データを活用した「都市河川監視システム」を開発（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/090702201/</link>
+			<description><![CDATA[　東急建設は2017年9月7日、中央大学理工学部の山田正教授と共同で、気象庁が提供している数値予報データを活用した「都市河川監視システム」を開発したと発表した。工事関係者らが局地的な集中豪雨による都市型水害に迅速な対応ができるという。]]></description>
+			<pubDate>Thu, 07 Sep 2017 17:32:16 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
