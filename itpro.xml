@@ -5,48 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：OCNはとばっちり、米グーグルによる大規模ネット障害の真相（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/083101108/?n10</link>
-			<description><![CDATA[　2017年8月25日に日本国内で発生した大規模なネット障害。米グーグルが誤って経路情報を大量に送信したことが引き金となった。とはいえ、今回の一件は不可解なことが多い。国内の3大通信事業者のうち、ネット障害が見られたのはNTTコミュニケーションズとKDDI。関係者や有識者への取材から障害の具体像が見えてきた。]]></description>
-			<pubDate>Fri, 01 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>米PMIが知識体系の新版「PMBOKガイド 第6版」を発行、アジャイルを取り込む（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/090702198/</link>
-			<description><![CDATA[　米PMI（Project Management Institute）は2017年9月6日（米国時間）、プロジェクトマネジメントの知識体系「PMBOK（Project Management Body Of Knowledge）ガイド」の改訂版である第6版を発行した。]]></description>
-			<pubDate>Thu, 07 Sep 2017 15:30:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本NCRがレジ製品群を刷新、設置面積を抑えたセルフレジ「フレックスセルフ」など（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/090702199/</link>
-			<description><![CDATA[　日本NCRは2017年9月7日、設置面積を抑えたセルフレジ「NCRフレックスセルフ」やPOS端末「NCR RealPOS XR7J」など3製品を発表した。セルフレジは、商品スキャンと決済、決済のみなど、利用場面に応じた構成が可能。POS端末は従来分かれていたプリンターなどを一体化した。]]></description>
-			<pubDate>Thu, 07 Sep 2017 17:17:50 +0900</pubDate>
-		</item>
-		<item>
-			<title>「LinuxはIBMが育てた。次はブロックチェーンだ」、10月にPaaSとして提供開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/090702200/</link>
-			<description><![CDATA[　日本アイ・ビー・エム（日本IBM）は2017年9月7日、クラウドサービス「IBM Cloud」の上でPaaS（Platform as a Service）として提供するブロックチェーンサービス「IBM Blockchain Platform」を同年10月に開始すると発表した。オープンソースのブロックチェーンフレームワーク「Hyperledger Fabric 1.0」を基盤として利用する。]]></description>
-			<pubDate>Thu, 07 Sep 2017 17:25:54 +0900</pubDate>
-		</item>
-		<item>
-			<title>東急建設、気象庁データを活用した「都市河川監視システム」を開発（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/090702201/</link>
-			<description><![CDATA[　東急建設は2017年9月7日、中央大学理工学部の山田正教授と共同で、気象庁が提供している数値予報データを活用した「都市河川監視システム」を開発したと発表した。工事関係者らが局地的な集中豪雨による都市型水害に迅速な対応ができるという。]]></description>
-			<pubDate>Thu, 07 Sep 2017 17:32:16 +0900</pubDate>
-		</item>
-		<item>
-			<title>5Gを使い毎時190km超でハンドオーバーに成功、KDDIとサムスンが共同実験（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/090702202/</link>
-			<description><![CDATA[　KDDIは2017年9月7日、5G（第5世代移動通信システム）の実用化に向けた韓国サムスン電子との共同実験で、時速190km超で移動する走行車両と2つの基地局との間で通信相手を切り替える「ハンドオーバー」に成功したと発表した。5Gのハンドオーバー性能を検証する実験としては世界最速での成功という。]]></description>
-			<pubDate>Thu, 07 Sep 2017 18:14:34 +0900</pubDate>
-		</item>
-		<item>
-			<title>ウイルスバスターの最新版はXGenの技術と機械学習機能を搭載（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/090702203/</link>
-			<description><![CDATA[　トレンドマイクロは2017年9月7日、個人向け統合セキュリティソフト「ウイルスバスター」シリーズの最新版を発表した。オンライン販売は同日（7日）17時から、店頭パッケージ販売は14日から開始する。ウイルスバスターシリーズの目標ユーザー数は1800万人で昨年と変わらない。]]></description>
-			<pubDate>Thu, 07 Sep 2017 19:34:38 +0900</pubDate>
-		</item>
-		<item>
 			<title>マイクロソフトのモバイル回帰はあり得るか（情総研レポート）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/090100059/</link>
 			<description><![CDATA[　IT大手の競争の軸はAIに移りつつあり、もはやOS──デスクトップOSはもとより、モバイルOSの分野における競争も下火になってきている。しかし、ここへ来て、モバイルデバイスの分野においてマイクロソフトが新たにプレゼンスを示せる素地が整い始めた兆しもある。本稿では、マイクロソフトを取り巻く最近の状況をまとめつつ、同社がこの分野で復権を果たす可能性を分析する。]]></description>
@@ -272,6 +230,72 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/090802211/</link>
 			<description><![CDATA[　情報通信研究機構（NICT）は2017年9月8日、記者会見を開いて9月6日に確認した太陽フレアが国内に及ぼす影響を説明した。9月8日午後5時時点で国内の通信やGPS（全地球測位システム）に悪影響が発生した事実を「確認していない」とした。]]></description>
 			<pubDate>Fri, 08 Sep 2017 19:48:01 +0900</pubDate>
+		</item>
+		<item>
+			<title>意外と難しいエンドユーザー研修、いつ誰が何をやるべき？（永井昭弘のそれって丸投げ？ユーザー責任を斬る）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090600196/082300016/</link>
+			<description><![CDATA[　システムに追加した機能や、従来版との違いをエンドユーザーに理解してもらう研修は、実施のタイミングや誰がどこで教えるのかといった段取りが案外と難しい。「たかが研修」と甘く見ないほうがよい。]]></description>
+			<pubDate>Mon, 11 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>脆弱性は攻撃者が「発明」するからなくならない（ソフトに脆弱性が生まれるワケ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090100359/090100001/</link>
+			<description><![CDATA[　ソフトウエアの「脆弱性」が原因で大きなセキュリティ事故が起こる事例が後を絶たない。そのため、ソフトの開発者は脆弱性をなくすために日々努力している。それでもなくならないのは、攻撃者が脆弱性を「発明」しているからだ。]]></description>
+			<pubDate>Mon, 11 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>木村の暴論に拍手喝采なら技術者は自ら動け、誰も助けてくれないぞ（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/090700155/</link>
+			<description><![CDATA[　「極言暴論」を書き始めてから既に3年半が経過した。ITベンダーやIT部門の問題点や悪行の数々を、様々な角度からズバッと斬り捨ててきたのだが、多くの技術者の皆さんが拍手喝采してくれた。感謝を込めてこの記事を贈る。]]></description>
+			<pubDate>Mon, 11 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>二拓で決めるマネジメントに明日はない（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/090700098/</link>
+			<description><![CDATA[　ITの世界では輝かしい理想の姿をもてはやし、「そこへ行かなければ明日はない」とする二択の論調が以前からよく見られます。どうも私たち日本人は、こういう二拓が大好きなのではないかと思えてなりません。]]></description>
+			<pubDate>Mon, 11 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>事務作業5倍速で手応え、日本生命がRPAの範囲拡大へ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/090601114/</link>
+			<description><![CDATA[　RPA導入で先行した生保最大手が次の挑戦を始める。PC作業の自動化に加え、不要な業務の削減を狙う。新たな使い道が確立されれば、RPAの普及が一段と進みそうだ。]]></description>
+			<pubDate>Mon, 11 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ブチ切れない技術、怒りやイライラと上手に付き合う（ブチ切れないリーダー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090400363/090400001/</link>
+			<description><![CDATA[　怒りをコントロールできず“ブチ切れる”リーダーが居ると、チームにはイライラした雰囲気が漂う。そんなチームは居心地が悪く、生産性が低い。怒りをコントロールするスキル「アンガーマネジメント」を使って、リーダーが率先して変わろう。]]></description>
+			<pubDate>Mon, 11 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIは新種のウイルスを検知できるか?（セキュリティ大実験室 2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090600370/090600001/</link>
+			<description><![CDATA[　既知のウイルスの特徴（シグネチャ）を用いたシグネチャ検査では、新種のウイルスを検知できないことが多い。では、サンドボックス解析やAI機能はどうだろうか。]]></description>
+			<pubDate>Mon, 11 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>3社の共通点、デジタル変革の定石（世界一流企業の凄いデジタル変革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080700332/082200001/</link>
+			<description><![CDATA[　デジタル技術を活用した計画的かつ創発的な変革である「デジタル変革（デジタルトランスフォーメーション）」に挑む企業が相次ぎ登場している。この連載では国内外の一流企業の事例を基に、デジタル変革を進めるうえでの要諦を探る。]]></description>
+			<pubDate>Mon, 11 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ボットを働き方改革に生かせるか（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/090600914/</link>
+			<description><![CDATA[　人材派遣大手のパソナグループは2017年6月、働き方改革を進めるため、社内ITのサポートデスク業務にチャットボットを導入した。それから約3カ月、チャットボットが働き方改革に役立つという確かな手応えを感じている。ただ、成果を出すまでには苦労が少なからずあった。]]></description>
+			<pubDate>Mon, 11 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>災害でネット不通、安価なバックアップ回線を使おう（PCの災害対策を見直そう）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/082800348/090800005/</link>
+			<description><![CDATA[　災害発生時、停電などの電源供給に関するトラブルが起こると、社内や自宅のインターネット接続回線は利用できなくなってしまう。しかし、スマートフォンがあればテザリング機能を利用してインターネットに接続し、最新情報をチェックしたり重要な作業を継続したりできる。]]></description>
+			<pubDate>Mon, 11 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>差異化が難しいサイネージ、一体化で拡販（ハード不況でもなぜ売れる？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/082800349/090800004/</link>
+			<description><![CDATA[　デジタルサイネージの市場は規模が年々拡大している。自治体の観光・インバウンド向けや交通機関、医療機関など、幅広い分野や用途で導入が進んでいる。国内外のメーカーがしのぎを削る中、NECはIT企業ならではのアプローチで拡販に取り組む。]]></description>
+			<pubDate>Mon, 11 Sep 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
