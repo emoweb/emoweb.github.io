@@ -5,25 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    PC/Mac版Googleドライブ / フォトアプリが終了､代替アプリ移行を推奨｡G Suite利用者には新機能提供へ
-</title>
-			<link>http://japanese.engadget.com/2017/09/07/pc-mac-google-g-suite/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/33d69e896f82fb2418c949df508eee39/205642818/main.jpg" />
-Googleが、Mac/PC向けのGoogleドライブアプリおよびGoogleフォトアプリのサポートを12月11日で終了すると発表しました。Googleはすでに両者を統一した「バックアップと同期」というアプリを提供しているため、こちらへの移行を推奨しています。またビジネス向けのG Suiteユーザーには、新たにGoogle Drive File Streamアプリ機能が正式に提供されます。
-
-
-「バックアップと同期」アプリでは、その名前のとおり、PCのローカルにあるフォルダ、USBメモリー、SDカードなどのストレージからクラウド上へのファイルのバックアップや動機が可能で、GoogleドライブとGoogleフォト両方に対応しています。
-
-Google Drive File Streamは長らくベータ版として提供されていたものでGoogleドライブにあるファイルをクラウドからストリーミングする機能。要するに、ローカルとの同期をすることなく、クラウド上のファイルをローカルと同様に扱う機能です。この機能によってユーザーはローカルドライブの容量を気にすることなくファイルを扱えるため、グループでファイルを共有しつつ作業する用途などに適しています。
-
-もし、古いGoogleドライブやGoogleフォトアプリを使い続けている場合は、12月11日でGoogleによるアプリのサポートが終了します。また2018年3月12日にはアプリが使えなくなるとのこと。まだこれらのアプリを使い続けている人は、忘れないうちに切り替えておくことをおすすめします。
-
-Google、新ツール「Backup and Sync」発表。Googleドライブへの任意フォルダのバックアップに対応
-
- ]]></description>
-			<pubDate>Thu, 07 Sep 2017 23:20:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    汚れたApple Watchよ蘇れ！ シャープの「超音波ウォッシャー」はウーブンナイロンのケアに必須の存在だった
 </title>
 			<link>http://japanese.engadget.com/2017/09/08/apple-watch/</link>
@@ -541,6 +522,27 @@ iPhone X: 3GB
 
  ]]></description>
 			<pubDate>Sun, 10 Sep 2017 22:45:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    インテル、2017年内にWiGig対応製品の出荷を終了。60GHz帯はワイヤレスVRに集中へ
+</title>
+			<link>http://japanese.engadget.com/2017/09/11/2017-wigig-60ghz-vr/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/d62697ac98ec886e4aebb1a4b160614d/205650850/wgg.jpg" />
+インテルが、2017年内にWiGig(802.11ad)対応の60GHz帯WiFiデバイスの生産を終了すると発表しました。今後はWiGig開発で得た技術をワイヤレスVRヘッドセットに活用するとしています。
+
+WiGigとは、60GHzという高い周波数帯を使い、近距離で最高8Gbpsの高速通信を目指す無線通信規格。しかし電波には、周波数が高くなるにつれ単位時間あたりのデータ量を増やせる一方で、障害物を透過したり長距離伝送が困難になる特性があります。WiGigも現在普及している802.11acまでの一般的なWiFi規格を置き換えるものではく、一部メーカーのノートPC用ワイヤレスドッキングステーションや一部のWiFiルーター、あとはせいぜいオプション用の基板などでWiGig対応の製品が数種類出回っている程度です。
+
+もちろん、インテルがWiGig技術の活路をVR方面に見出したことによって、今後WiFiの高速化が止まるというわけではありません。すでに2017年前半には、802.11acに対し、スループットが最大で4倍にまで高速化する次世代規格802.11axのサンプル出荷が始まっており、IFAではこれに対応する2.4/5GHz帯のWiFiルーターが発表されました。
+
+インテルは、2017年5月にHTCとの提携による802.11ad対応のViveヘッドセットを製造することを発表済みで、こちらは継続していく方針です。
+
+マイクロソフトのARヘッドセットHololensは、無線規格として802.11acを採用しています。一方、2月末から3月初めに開催されたMWC 2017では、30GHz～300GHzのミリ波帯を使ったVRヘッドセットのサンプルが幾つか出展されており、VR/ARヘッドセットのワイヤレス化への需要の高まりがうかがえます。
+
+また、FacebookのOculusは単体HMDを開発するSanta Cruzプロジェクトを進めており、AMDもミリ波帯の技術を持つ企業を買収するなど、今後はVR界隈の無線化が一気に進みそうな気配です。
+
+ちなみに、60GHz帯の高速無線通信規格としては、サムスンやFoxconnらがスマートフォンの同期や大容量の動画ファイルの転送などに向くとする「Kiss」への支援を8月に打ち出しています。Kiss規格を推進する企業Keyssaにはインテルや元Googleで現Essential Phone CEOのアンディ・ルービンらが投資しています。
+ ]]></description>
+			<pubDate>Mon, 11 Sep 2017 00:50:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
