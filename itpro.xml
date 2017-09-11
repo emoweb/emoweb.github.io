@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：OCNはとばっちり、米グーグルによる大規模ネット障害の真相（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/083101108/?d11</link>
-			<description><![CDATA[　2017年8月25日に日本国内で発生した大規模なネット障害。米グーグルが誤って経路情報を大量に送信したことが引き金となった。とはいえ、今回の一件は不可解なことが多い。国内の3大通信事業者のうち、ネット障害が見られたのはNTTコミュニケーションズとKDDI。関係者や有識者への取材から障害の具体像が見えてきた。]]></description>
-			<pubDate>Fri, 01 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>マイクロソフトのモバイル回帰はあり得るか（情総研レポート）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/090100059/</link>
 			<description><![CDATA[　IT大手の競争の軸はAIに移りつつあり、もはやOS──デスクトップOSはもとより、モバイルOSの分野における競争も下火になってきている。しかし、ここへ来て、モバイルデバイスの分野においてマイクロソフトが新たにプレゼンスを示せる素地が整い始めた兆しもある。本稿では、マイクロソフトを取り巻く最近の状況をまとめつつ、同社がこの分野で復権を果たす可能性を分析する。]]></description>
@@ -333,6 +327,47 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 11 Sep 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google、社内ネットワークをクラウドに拡張する新サービスを発表（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/091100414/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Googleは、企業のオンプレミスネットワークを「Google Cloud Platform（GCP）」に拡張するための新たな接続サービス「Dedicated Interconnect」を発表した。企業にとっては、ハイブリッドインフラを構築する際の選択肢が増える。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/091100414/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Magdalena Petrova</div>
+</div>
+<p>
+　Dedicated Interconnectでは、Googleのクラウドインフラ上のサーバーを、企業ネットワークのプライベートアドレス空間の一部として扱える。例えば金融サービスや映像編集など、処理能力をスケールアップする必要性とデータをプライベートネットワーク上に維持する必要性の両方を満たさなくてはならない業種の企業に役立つと、Dedicated Interconnect担当のJohn Veizadesプロダクトマネージャーは説明する。
+</p>
+<p>
+　オンプレミスネットワークとGCPの間は10Gb/sの回線で直接接続する。複数の回線を使えば、スループットや可用性を向上できる。
+</p>
+<p>
+　これまでは、こうしたプライベート接続を実現するには、企業ネットワークに専用のVPN装置を設置して、暗号化したトラフィックをパブリックインターネット経由でやりとりする必要があった。Googleは、こうしたIPsec VPN接続にも引き続き対応しているが、そちらはデータの転送量が少ない企業（トンネル当たり最大3Gb/s）での導入を勧めている。
+</p>
+<p>
+　Googleが今回発表したDedicated Interconnectと同様の接続サービスとしては、すでに米Amazon Web Services（AWS）の「AWS Direct Connect」、米Microsoftの「Azure ExpressRoute」がある。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/091100414/?ST=cm-cloud&P=2">DedicatedInterconnectの料金は、10Gb接続...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/091100414/?ST=cm-cloud&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/091100414/?ST=cm-cloud&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/091100414/?ST=cm-cloud&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 11 Sep 2017 10:10:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>過半の14部門で首位交代、「顧客満足度調査 2017-2018」結果発表（ニュース）</title>
