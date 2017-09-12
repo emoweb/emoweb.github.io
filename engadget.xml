@@ -5,20 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ドコモ通信網の中枢公開、未来の災害対策にドローンや船上基地局。巨大ディスプレイ並ぶまるで怪獣映画の司令室
-</title>
-			<link>http://japanese.engadget.com/2017/09/09/docomo-noc/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/8a7238b0bcd30ab3b343a8f17438d8e6/205613455/P8290083.JPG" />
-
-この夏、NTTドコモは報道機関向けに東京品川のネットワークオペレーションセンター（NOC）を公開し、災害時のネットワーク復旧対策について語りました。NOCのあるドコモ品川ビルは東日本エリアのドコモネットワークの遠隔監視やさまざまな措置をする拠点でもあります。
-
-体育館ほどの広さのNOCには、壁面に60インチディスプレイが縦4枚 x 横9枚の36枚、対面にも2&times;9=18枚が並べられています。数十名分あるデスクにもそれぞれ数台のディスプレイ、キーボード、マウス、連絡用の電話などが置かれ、オペレーターたちが通信に異常がないか日々監視しています。
-
-ここはまるで怪獣映画やパニック映画などに出てくる司令室のよう。24時間携帯電話がつながるようにと努力している迫力が、オペレーターの背中越しにヒシヒシと伝わります。
- ]]></description>
-			<pubDate>Sat, 09 Sep 2017 21:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    新iPhoneは『iPhone X』『iPhone 8 / 8 Plus』、iOS 11 GMリークから判明
 </title>
 			<link>http://japanese.engadget.com/2017/09/09/iphone-iphone-x-iphone-8-8-plus-ios-11-gm/</link>
@@ -514,6 +500,28 @@ There's confusion about me saying 3-core A10X for Apple TV 4K - it's 3+3, like o
 左からIT推進部事務員の鈴木殻氏、IT推進部課長代理の山田聖氏
  ]]></description>
 			<pubDate>Mon, 11 Sep 2017 20:40:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    太陽フレアで「GPS誤差が増大していた」国土地理院が発表。スマホ・カーナビに影響
+</title>
+			<link>http://japanese.engadget.com/2017/09/12/gps/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/a0831f2d4c243e92f481c1d63b42d239/205655626/dims.jpeg" />
+2017年9月6日（日本時間）に発生した太陽フレアにより、9月8日のGPSの誤差が最大で3倍増大していたと国土地理院が発表しました。
+
+太陽フレアからの荷電粒子が地球に到達した9月8日の日中に、茨城県つくば市の電子基準点におけるGPS誤差が最大で約3倍増大していたとのこと。
+
+具体的には、フレアの到達前日と前々日のGPS誤差は、南北・東西方向で&plusmn;2メートル程度、上下方向で5m程度でしたが、9月8日の日中は南北で&plusmn;7m、東西で&plusmn;3m、上下で&plusmn;15m程度に増加していました。（いずれも最大値）
+
+
+誤差の大きさや時間帯は地域によって変わるとしているものの「当該時間帯においてカーナビやスマホなどを用いてGPS測位を行った場合には、大きな誤差を生じた可能性がある」（国土地理院）としています。
+太陽フレアとは
+太陽フレアは、太陽の黒点周辺で起こる大規模な爆発現象のこと。ひとたま発生すると、膨大な電磁波が地球に放出されるほか、爆発の数日後には荷電粒子が到達し、無線通信を妨害する恐れがあると言われています。
+
+直近では、9月6日に発生した太陽フレアの影響で、9月8日の日中に高エネルギー荷電粒子が地球に到達。また、本日9月12日にも、9月11日に発生した太陽フレアによる荷電粒子が到達する見通しで、通信障害などが危惧されています。
+
+（image：LoganArt）
+ ]]></description>
+			<pubDate>Tue, 12 Sep 2017 00:40:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
