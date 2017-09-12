@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>1000倍の太陽フレアは想定より8時間早く地球到達、NICT「通信やGPSに影響無し」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/090802211/</link>
-			<description><![CDATA[　情報通信研究機構（NICT）は2017年9月8日、記者会見を開いて9月6日に確認した太陽フレアが国内に及ぼす影響を説明した。9月8日午後5時時点で国内の通信やGPS（全地球測位システム）に悪影響が発生した事実を「確認していない」とした。]]></description>
-			<pubDate>Fri, 08 Sep 2017 19:48:01 +0900</pubDate>
-		</item>
-		<item>
 			<title>意外と難しいエンドユーザー研修、いつ誰が何をやるべき？（永井昭弘のそれって丸投げ？ユーザー責任を斬る）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090600196/082300016/</link>
 			<description><![CDATA[　システムに追加した機能や、従来版との違いをエンドユーザーに理解してもらう研修は、実施のタイミングや誰がどこで教えるのかといった段取りが案外と難しい。「たかが研修」と甘く見ないほうがよい。]]></description>
@@ -318,6 +312,12 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 12 Sep 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>北海道の一部でドコモのエリアメール届かない不具合、Jアラート未達で判明（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/091202217/</link>
+			<description><![CDATA[　NTTドコモは2017年9月12日、同社の携帯電話契約者が北海道の一部地域でエリアメールを受信できていなったことが判明したと発表した。富士通製の無線設備の特定機種（BS3002形）が実装する配信ソフトの不具合が原因。]]></description>
+			<pubDate>Tue, 12 Sep 2017 12:30:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
