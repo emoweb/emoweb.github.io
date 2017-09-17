@@ -5,70 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Wi-Fiは次世代の802.11axに期待、セキュリティは「オンで当たり前」に（インタビュー＆トーク）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/091100344/</link>
-			<description><![CDATA[　Wi-Fi Allianceのマーケティング担当バイス プレジデントのロビンソン氏に、マネージドのWi-Fiネットワークに向けた「Wi-Fi CERTIFIED Vantage」プログラムや、今後期待するWi-Fi関連技術などについて聞いた。]]></description>
-			<pubDate>Thu, 14 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>もしランサムウエアの支払いがAmazonギフト券だったら（今日も誰かが狙われる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/050800181/090600010/</link>
-			<description><![CDATA[　Amazonギフト券のようなプリペイドカードによる支払いを要求する詐欺が増えている。警察庁によれば、前年同期比で3倍以上発生しているという。警視庁は、「『プリペイド買ってきて』と言われたら、詐欺を疑ってください」とまで言っている。気を付けよう。]]></description>
-			<pubDate>Thu, 14 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>若手技術者の「失われた5年」、みずほ銀のシステム統合に透ける基幹系問題（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/091200093/</link>
-			<description><![CDATA[　「あの案件が終わると多くの技術者が戻ってくるが、あてがう仕事が無い」。大手ITベンダーの幹部が思わずつぶやいた言葉を思い出した。あの案件とは、みずほ銀行の勘定系システムの統合プロジェクトのことだ。]]></description>
-			<pubDate>Thu, 14 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>技術を軽視するIT業界には萌えられない（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/091100915/</link>
-			<description><![CDATA[　「萌えるSE残酷物語」がコンセプトのライトノベル『なれる！SE』（アスキー・メディアワークス発行）が2017年8月、16巻目にしてシリーズ本編完結を迎えた。ITproでもたびたび採り上げており、ご存じの方も多いだろう。]]></description>
-			<pubDate>Thu, 14 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>一気にCATVは再編、映像サービスを巡って競争が激化（激動の米国通信業界）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090400362/090400003/</link>
-			<description><![CDATA[　米国では、NetflixやHuluに代表されるOTT（Over The Top）のビデオサービスの台頭により、CATV事業者の再編が進んだ。一方、通信大手も携帯電話市場の飽和を受け、映像をはじめとした新たな収益源の開拓を急ぐ。ビデオサービスの市場を巡って競争が激化しており、さらなる再編が進むとの観測が高まっている。]]></description>
-			<pubDate>Thu, 14 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>スマホの画面、何メートル先から盗み見できるか？（セキュリティ大実験室 2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090600370/090600004/</link>
-			<description><![CDATA[　悪意を持つ第三者があなたの画面をのぞき見しているかもしれない。離れた場所のスマホやパソコンの画面に表示された文字を、どこまで読み取れるか実験してみた。]]></description>
-			<pubDate>Thu, 14 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ブチ切れないために知っておきたい怒りの正体（ブチ切れないリーダー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090400363/090400004/</link>
-			<description><![CDATA[　人は自分の理想、願望、欲求に沿った出来事や相手の言動を期待する。アンガーマネジメントでは、理想、願望、欲求をまとめて「べき」と呼ぶ。自分の思う「べき」が裏切られるたびに怒っていると、周囲からは「怒りっぽい接しにくい人」と思われてしまう。]]></description>
-			<pubDate>Thu, 14 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Struts2の脆弱性、いまだに見つかる本当の理由（ソフトに脆弱性が生まれるワケ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090100359/090100004/</link>
-			<description><![CDATA[　ソフトウエアの脆弱性が悪用された実例として、Webアプリケーションフレームワーク「Struts2」の脆弱性について見ていこう。2017年3月9日に公開された「S2-045」というStruts2の脆弱性が原因で、2017年3月以降、多くの情報漏洩事件が起こっている。]]></description>
-			<pubDate>Thu, 14 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>トランシーバーはもう古い？ANAが空港業務にビジネスチャット（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/091301120/</link>
-			<description><![CDATA[　全日本空輸（ANA）は空港業務でビジネスチャットを核とした業務改革を実施した。コミュニケーションの基盤をトランシーバーや携帯電話などの音声からチャットに移行することで効率性と正確性を上げたほか、各部門の権限も見直し迅速な情報共有や判断ができるようにした。]]></description>
-			<pubDate>Thu, 14 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本から米国のドローンを操作、グーグル出資のベンチャーの目論見（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/091101119/</link>
-			<description><![CDATA[　太平洋を越えて遠隔からドローンを操縦できるサービスを提供するケープ・プロダクションズが日経コンピュータの取材に応えた。]]></description>
-			<pubDate>Thu, 14 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ホームボタン廃止のiPhone X、顔認証「Face ID」で次の10年を作れるか（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/091300057/</link>
-			<description><![CDATA[　米アップルは現地時間2017年9月12日（日本時間13日未明）、「iPhone X」などの新製品を発表した。iPhone 8の「派生モデル」と見ることもできるが、未来のiPhoneの姿を示す新機軸を盛り込んでいると筆者は考えた。]]></description>
-			<pubDate>Thu, 14 Sep 2017 05:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：丸紅がアマゾンへ全面移行（News ＆ Trend）</title>
+			<link>http://itpro.nikkeibp.co.jp/article/COLUMN/20140214/536786/?n17</link>
+			<description><![CDATA[　丸紅が2014年4月から、米アマゾン・ウェブ・サービスが提供するIaaS（インフラストラクチャー・アズ・ア・サービス）である「Amazon Web Services（AWS）」への全面移行を開始する（図）。本社だけでなく全世界のグループ会社も含めて、業務システムの全ITインフラをAWSに移行する計画で、最終的にはグループ全体で500台のサーバーをAWSに移す考えだ。丸紅のような大企業がAWSへの全面移行を決めるのは異例のことである。]]></description>
+			<pubDate>Tue, 25 Feb 2014 04:50:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ソニーネットがソフト開発支援クラウドを世界展開、新会社「Rocro」でテストなど自動化（ニュース）</title>
