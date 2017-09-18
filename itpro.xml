@@ -5,36 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「staticおじさん」はなぜ自信満々なのか（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/122100450/?n18</link>
-			<description><![CDATA[「staticおじさん」という言葉をご存じでしょうか。「static」というのは、Javaのstaticメソッドのことです。Javaでメソッドを呼び出すときにはクラスからインスタンスを生成してインスタンスのメソッドを呼び出すのが普通です。一方、staticメソッドはインスタンスを生成しなくてもクラスから直接呼び出せます。このため、オブジェクト指向プログラミングを理解していない古いタイプのプログラマは、Javaでもstaticメソッドを多用します。これを揶揄して「staticおじさん」と呼ぶのです。]]></description>
-			<pubDate>Fri, 25 Dec 2015 00:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソニーネットがソフト開発支援クラウドを世界展開、新会社「Rocro」でテストなど自動化（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/091402243/</link>
-			<description><![CDATA[　ソニーネットワークコミュニケーションズは2017年9月14日、ソフト開発者の定常作業を自動化するクラウドサービスを手がける100％子会社「Rocro」の設立を発表した。同日付で品質テストやドキュメント作成を自動化する「Rocro」サービスの試験提供を始めた。]]></description>
-			<pubDate>Thu, 14 Sep 2017 15:57:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>暮らしのIoTを検討する企業連合、トヨタやNECなど新たに47社が参加（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/091402244/</link>
-			<description><![CDATA[　暮らしのIoT（インターネット・オブ・シングズ）を検討する企業連合である「コネクティッドホーム アライアンス」は2017年9月14日、新たに47社が加わり参加企業が77社となったと発表した。]]></description>
-			<pubDate>Thu, 14 Sep 2017 18:22:13 +0900</pubDate>
-		</item>
-		<item>
-			<title>高密度Wi-Fiで複数のライブ映像を配信、TBSとドコモが技術検証（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/091402245/</link>
-			<description><![CDATA[　TBSテレビとNTTドコモは2017年9月14日、「東レ パン パシフィック オープンテニストーナメント2017」において、TBSなどが開発・運営するマルチアングルライブ映像配信技術「Live Multi Viewing」と、NTTドコモが設計・構築する「高密度Wi-Fi」を活用した技術検証を実施すると発表した。]]></description>
-			<pubDate>Thu, 14 Sep 2017 19:06:13 +0900</pubDate>
-		</item>
-		<item>
-			<title>デロイト トーマツ リスクサービス、セキュリティ人材の育成プログラム（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/091402246/</link>
-			<description><![CDATA[　デロイト トーマツ リスクサービスは2017年9月14日、サイバーセキュリティ人材の育成プログラム「デロイト サイバーアカデミー」を始めると発表した。企業ごとに異なる状況に応じて「コンサルティングサービス＋アカデミー」の機能を効果的に提供する点を売り物にする。]]></description>
-			<pubDate>Thu, 14 Sep 2017 20:46:22 +0900</pubDate>
-		</item>
-		<item>
 			<title>GE、グーグルに学ぶデジタル変革を持続できる組織の在り方（世界一流企業の凄いデジタル改革）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080700332/082200003/</link>
 			<description><![CDATA[　価値創造サイクルの仕組みを実現すれば、企業はデジタル化を活用した新たなビジネスを継続的に生み出せるようになるとは限らない。「新しい技術を使って何かできないか」などとシーズ先行のアプローチを取ると、すぐに行き詰まってしまう可能性が高い。]]></description>
@@ -276,6 +246,102 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/091502262/</link>
 			<description><![CDATA[　KDDI（au）は2017年9月15日、同日発表したiPhone 8/8 Plusの実質負担額を引き下げた。端末購入補助（毎月割）の積み増しにより、実質負担額は新規/機種変更で3720円（155円×24回）、MNP（モバイル番号ポータビリティー）で2400円（100円×24回）、それぞれ下がった。]]></description>
 			<pubDate>Fri, 15 Sep 2017 21:58:13 +0900</pubDate>
+		</item>
+		<item>
+			<title>リモートワークで失敗しないための三つの準備（岡大勝のプロジェクトお悩み相談室）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900109/082300009/</link>
+			<description><![CDATA[　いかに柔軟な働き方の風土がある職場でも、「今日からリモートワークのメンバーが参加します」と、準備なしで既存チームに参画させると不幸を生むだけです。リモートワークを成功させる三つのポイントを紹介します。]]></description>
+			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIチップと5Gに重点、2018年度概算要求（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/091301121/</link>
+			<description><![CDATA[　国の2018年度予算の概算要求はAI向け半導体や量子コンピュータなど野心的な分野が目立つ。普及が進まないマイナンバーカードのテコ入れ策も。企業や社会のデジタル化を後押しして、成果につなげられるか。]]></description>
+			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「システム障害は絶対に起こしてはならぬ」と叫ぶ馬鹿に付ける薬（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/091400156/</link>
+			<description><![CDATA[　「馬鹿に付ける薬はない」ということわざがある。思慮が足らず物事の道理が分からない人は救いようがないとの意味だが、「システム障害は絶対に起こしてはならぬ」と声高に叫ぶような馬鹿に付ける薬はないのだろうか。]]></description>
+			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本IBMが首位に、接戦を制す（日経コンピュータ顧客満足度調査 2017-2018）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091500382/091500001/</link>
+			<description><![CDATA[　「メーカー」部門は日本IBMが首位となった。「サービスの品質」、「担当者のスキル」、「対応力」が、いずれも全社平均より5ポイント以上高かった。]]></description>
+			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>分厚い文書は過去の遺物、約8000の現行法令をデジタル検索（戦後初！行政・司法IT改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090500367/090500001/</link>
+			<description><![CDATA[　法令の作成や審査から活用までをデジタルデータとプロセスで一気につなぐ取り組みが進む。企業は自社の業務に関係する法令を抜き出すなど独自アプリを開発しやすくなった。「分厚い法令文書」は過去のものになりつつある。]]></description>
+			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>あなたはどのくらいかかる？メールの作成平均時間は6分（5分でわかる！ビジネスメール）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200140/080700010/</link>
+			<description><![CDATA[　「ビジネスメール実態調査2017」の結果をもとに、メール処理のスピードが仕事に与える影響について話し合う、平野所長と直井研究員。調査結果について、読者からさまざまな質問が届いたようです。]]></description>
+			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>SIベンダーの強さを決める「体力」（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/091400099/</link>
+			<description><![CDATA[　SIベンダーの体力は比較的よく話題に上ります。最も体力があるのはいわゆるメインフレーマの4社です。民間の案件ではあまり耳にしませんが、公共案件ではNTTグループの体力が群を抜いています。NRIは残念ながら「体力がありますね」とほめられることはあまりありません。]]></description>
+			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>テレワークするなら「週イチ水曜日」がおススメ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/091100916/</link>
+			<description><![CDATA[　「テレワークはやってみれば良さが分かるが、やってみるまでの敷居は高い」。初めてテレワークに取り組んだ企業を取材してこんな印象を持った。その敷居を乗り越えられそうな一策がある。「週イチ水曜テレワーク」だ。]]></description>
+			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>クラウド戦国時代、グーグルがAWSにじわり迫る（クラウド・エッジ戦国時代）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090600369/090600001/</link>
+			<description><![CDATA[　IoTの時代に入り、クラウド戦線に異変が起こっている。首位のAWSからグーグルのクラウドに乗り換える企業が目立ち、エッジの分野ではトヨタ自動車やコマツが参戦。ユーザー企業も巻き込み、王者不在の乱戦状態だ。]]></description>
+			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>作ることに勝る勉強法はない、フロントエンドエンジニア（新・ITエンジニア図鑑）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100297/083100013/</link>
+			<description><![CDATA[　Webブラウザーで動作するフロントエンドアプリの開発に特化しているのがフロントエンドエンジニアだ。HTML/JavaScriptでアプリ的な動きが求められるようになり、重要性が増している。Webブラウザーの機能に加え、DBなどシステム全体を理解する必要がある。]]></description>
+			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>我が社のWebサイトは大丈夫？DoS攻撃への耐性を調べる手法（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/091100008/</link>
+			<description><![CDATA[　DoS攻撃は、インターネットに公開されているWebサイトやメールサーバーなどに大量の通信パケットを送ったり、ソフトウエアの脆弱性を悪用したりして、サービスをまともに使えなくする。自社のシステムのDoS攻撃への耐性を調べてみよう。]]></description>
+			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>iPhone Xに想う、愛しのホームボタンとの別れ（「iPhone X」は買いか？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091300375/091500002/</link>
+			<description><![CDATA[　iPhone Xは、とんでもなく素晴らしいですね。ベゼルレスの狭額縁デザインで、ほぼ前面全てがディスプレイ。頑なに10年間守ってきたホームボタンを廃止しました。まさに「iPhone革命」と呼びたくなるようなデザインです。]]></description>
+			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>富士通エフサスが急浮上、2位以下に大差（日経コンピュータ顧客満足度調査 2017-2018）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091500382/091500002/</link>
+			<description><![CDATA[　「情報サービス会社」部門の1位は前回4位だった富士通エフサス。利用料金や予算の順守度を尋ねた「コスト」、サービスの納期回答や納期順守度に関する「納期」をはじめ、全項目で全社平均より5ポイント以上高いスコアを獲得した。]]></description>
+			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>沖縄の「IoTごみ箱」実証実験、浮き彫りになったLPWAビジネスの課題（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/091100122/</link>
+			<description><![CDATA[　KDDIと沖縄セルラーは、2017年9月2日から8日にかけて、沖縄県那覇市でIoT向けLTE規格「LTE-M」（Cat-M1）を活用し、繁華街に設置したごみ箱のごみの量を遠隔監視する「IoTごみ箱」の実証実験を実施した。この実証実験から、IoTをビジネスにつなげるための方策と課題を探る。]]></description>
+			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「終わった」と思っていたトラックボールに新モデルとは（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/091700139/</link>
+			<description><![CDATA[　僕はトラックボールが大好きで、メインマシンでもトラックボールを利用していた時期があった。その昔はノートパソコンでも、タッチパッドではなくてトラックボールを搭載しているのが当たり前の時代があった。今にして思うと不思議なことに、ノートパソコンに大きなボールが仕込まれていた。]]></description>
+			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>2度延期したみずほ銀行のシステム統合、「9合目」にたどり着けた理由（ITシステムのダイエット術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091500378/091500001/</link>
+			<description><![CDATA[　総費用は東京スカイツリー7基分──。みずほ銀行の勘定系再構築プロジェクトのゴールがようやく見えてきた。経営統合から15年、「また失敗する」など批判的な見方があるなか「9合目」までたどり着いたのには理由があった。]]></description>
+			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
