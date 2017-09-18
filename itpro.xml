@@ -343,5 +343,35 @@
 			<description><![CDATA[　総費用は東京スカイツリー7基分──。みずほ銀行の勘定系再構築プロジェクトのゴールがようやく見えてきた。経営統合から15年、「また失敗する」など批判的な見方があるなか「9合目」までたどり着いたのには理由があった。]]></description>
 			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>パスワードの安全性確保、現実的な規則は（前）（パスワードの安全性確保、現実的な規則は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　米国立標準技術研究所（NIST）が、パスワードに関するガイドラインを改訂した。従来のガイドラインは、英数字と記号を組み合わせることや、パスワードを定期的に変更することを推奨しており、セキュリティ専門家からは批判が上がっていた。やっとのことで行われた改訂は、前向きに受け止められている。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　筆者は、この新しいガイドラインを読んで、ごく一般的な攻撃への備えが十分でないことに驚いた。簡単に言うと、このガイドラインでは、認証にパスワードだけを使っているユーザーたち、つまり現時点で大多数にあたるであろうアカウントが、これまでより脆弱になってしまう。</p>
+
+<p>　このガイドラインでは、パスワードに焦点を当てているのは文書全体の一部分のみで、それ以外の大部分は、パスワード以外の認証手段（例えばトークン認証）を取り上げている。パスワードのみを使った認証は、レベルの低いアカウントに関してのみ認めている。一般論としては、パスワードのみの認証にするかどうかはリスクに基づいて決めることだが、現実には、パスワードのみに頼っているアカウントが大半だ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100001/?ST=cm-software&P=2">パスワードの強度</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100001/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100001/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100001/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 19 Sep 2017 06:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
