@@ -5,41 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Windows 10 Fall Creators Update、プライバシー設定を一部改良（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/091500416/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　Windows 10は、登場以来ずっと、プライバシーに関する懸念が付きまとっていた。米Microsoftの各種サービスにユーザーを取り込もうとする作りになっている上に、デバイスの基本的な利用統計情報（テレメトリデータ）がMicrosoftに送信されるのを止める方法もないだけに、こうした懸念は何ら意外ではない。だが、現在同社は、懸念を和らげる取り組みに力を入れている。そして、10月にリリースする大型アップデート「Windows 10 Fall Creators Update」では、プライバシー設定に改良を加えることを、現地時間2017年9月13日の公式ブログ記事で明らかにした。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/091500416/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Dan Masaoka</div>
-</div>
-<p>
-　4月に登場した「Creators Update」は、セットアップの際のプライバシー設定の説明が分かりやすくなったものの、制約もあった。Fall Creators Updateではその部分に改良が加わり、プライバシーに関する声明を設定の段階で参照できる。
-</p>
-<p>
-　とはいえ、法律のような言い回しが延々と続く文書の全文など、ほとんどの人はわざわざ通読しない。そこで、プライバシー設定画面の中で、詳細情報にジャンプするリンクを使って、位置情報、音声認識、診断、エクスペリエンスのカスタマイズ、広告の扱い方に関する個別の項目を直接見られるようになる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/091500416/?ST=cm-software&P=2">また、FallCreatorsUpdateは、アプリごとのアクセ...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/091500416/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/091500416/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/091500416/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 15 Sep 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>作業時間10分の1に、富士通研がデータ前処理を自動化する技術を開発（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/091502249/</link>
 			<description><![CDATA[　富士通研究所は、データを分析しやすいよう整形したり、不足するデータを補ったりする前処理を自動化する技術を開発した。]]></description>
@@ -286,6 +251,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/091902267/</link>
 			<description><![CDATA[　米アマゾン ウェブ サービス（AWS）は2017年9月18日（米国時間）、仮想マシンサービス「Amazon EC2（Elastic Compute Cloud）」において、Linuxインスタンスの課金を1秒単位にすると発表した。]]></description>
 			<pubDate>Tue, 19 Sep 2017 15:00:33 +0900</pubDate>
+		</item>
+		<item>
+			<title>AWS、東京リージョンで「AWS Greengrass」の提供を開始（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/091902268/</link>
+			<description><![CDATA[　アマゾン ウェブ サービス ジャパンは2017年9月19日、東京リージョンで「AWS Greengrass」の提供を2017年9月21日から開始すると発表した。]]></description>
+			<pubDate>Tue, 19 Sep 2017 15:03:35 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
