@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Equifaxの最大1億4300万人分の情報漏洩、原因は半年前のStruts2脆弱性（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/091502248/</link>
-			<description><![CDATA[　米国の大手信用情報会社Equifaxは2017年9月13日（米国時間）、9月6日に公表した個人情報漏洩事件の原因はApache Struts2の脆弱性だったと発表した。事件では、米国やカナダ、英国の顧客1億4300万人分の個人情報が漏洩した可能性があるとしている。]]></description>
-			<pubDate>Fri, 15 Sep 2017 09:41:31 +0900</pubDate>
-		</item>
-		<item>
 			<title>Windows 10 Fall Creators Update、プライバシー設定を一部改良（Computerworldニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/091500416/</link>
 			<description><![CDATA[<div>
@@ -286,6 +280,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/091902266/</link>
 			<description><![CDATA[　ソフトバンクグループは2017年9月19日、10兆円規模の投資ファンド「SoftBank Vision Fund」（SVF）を通じ、チャットツール「Slack」を手掛ける米スラック・テクノロジーズに出資したことを明らかにした。スラック・テクノロジーズの今回の調達額は2億5000万ドル（約280億円）。]]></description>
 			<pubDate>Tue, 19 Sep 2017 14:18:28 +0900</pubDate>
+		</item>
+		<item>
+			<title>AWS、仮想マシンEC2の課金を1秒単位に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/091902267/</link>
+			<description><![CDATA[　米アマゾン ウェブ サービス（AWS）は2017年9月18日（米国時間）、仮想マシンサービス「Amazon EC2（Elastic Compute Cloud）」において、Linuxインスタンスの課金を1秒単位にすると発表した。]]></description>
+			<pubDate>Tue, 19 Sep 2017 15:00:33 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
