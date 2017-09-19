@@ -373,5 +373,37 @@
 ]]></description>
 			<pubDate>Tue, 19 Sep 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>Bluetoothの脆弱性「BlueBorne」、数十億台のデバイスに影響（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/091900361/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米セキュリティ企業Armis Labsは現地時間2017年9月12日、Bluetoothの脆弱性「BlueBorne」の情報を公開した。パソコンやスマートフォン、IoT機器などのデバイスが、Bluetooth接続を通じて不正にアクセスされる恐れがあるという。この脆弱性は、同社が4月に発見したもので、米Googleや米Microsoftなど、関係するOSの開発元は、すでに更新プログラムを公開している。
+</p>
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/091900361/ph.jpg" width="300" alt="" title=""></div></div>
+<p>
+　BlueBorneを使った攻撃は、標的のデバイスとペアリングする必要はない。また、標的のデバイスが検出可能モードになっていなくても攻撃できる。Armis LabsがBlueBorneに関してこれまでに特定したゼロデイ脆弱性は8件ある。
+</p>
+<p>
+　BlueBorneは、Android、Linux、Windows、iOS（バージョン9.3.5以前）、tvOS（バージョン7.2.2以前）の各OSで動作するすべてのデバイスに影響し、Bluetoothのバージョンは関係しない。Armis Labsの推計では、該当するデバイスは80億台を超える。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/091900361/?ST=cio-security&P=2">BlueBorneは、他の種類の攻撃手法と違って...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/091900361/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/091900361/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/091900361/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 19 Sep 2017 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
