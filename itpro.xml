@@ -101,80 +101,6 @@
 			<pubDate>Tue, 19 Sep 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>パスワードの安全性確保、現実的な規則は（前）（パスワードの安全性確保、現実的な規則は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　米国立標準技術研究所（NIST）が、パスワードに関するガイドラインを改訂した。従来のガイドラインは、英数字と記号を組み合わせることや、パスワードを定期的に変更することを推奨しており、セキュリティ専門家からは批判が上がっていた。やっとのことで行われた改訂は、前向きに受け止められている。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　筆者は、この新しいガイドラインを読んで、ごく一般的な攻撃への備えが十分でないことに驚いた。簡単に言うと、このガイドラインでは、認証にパスワードだけを使っているユーザーたち、つまり現時点で大多数にあたるであろうアカウントが、これまでより脆弱になってしまう。</p>
-
-<p>　このガイドラインでは、パスワードに焦点を当てているのは文書全体の一部分のみで、それ以外の大部分は、パスワード以外の認証手段（例えばトークン認証）を取り上げている。パスワードのみを使った認証は、レベルの低いアカウントに関してのみ認めている。一般論としては、パスワードのみの認証にするかどうかはリスクに基づいて決めることだが、現実には、パスワードのみに頼っているアカウントが大半だ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100001/?ST=cm-software&P=2">パスワードの強度</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100001/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100001/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100001/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 19 Sep 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IIJ、アラート対応を約97％自動化できるサービスを開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/091902263/</link>
-			<description><![CDATA[　インターネットイニシアティブ（IIJ）はシステム運用のアラート対応を約97％自動化できるサービスを2017年10月2日から提供する。]]></description>
-			<pubDate>Tue, 19 Sep 2017 10:04:30 +0900</pubDate>
-		</item>
-		<item>
-			<title>Bluetoothの脆弱性「BlueBorne」、数十億台のデバイスに影響（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/091900361/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米セキュリティ企業Armis Labsは現地時間2017年9月12日、Bluetoothの脆弱性「BlueBorne」の情報を公開した。パソコンやスマートフォン、IoT機器などのデバイスが、Bluetooth接続を通じて不正にアクセスされる恐れがあるという。この脆弱性は、同社が4月に発見したもので、米Googleや米Microsoftなど、関係するOSの開発元は、すでに更新プログラムを公開している。
-</p>
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/091900361/ph.jpg" width="300" alt="" title=""></div></div>
-<p>
-　BlueBorneを使った攻撃は、標的のデバイスとペアリングする必要はない。また、標的のデバイスが検出可能モードになっていなくても攻撃できる。Armis LabsがBlueBorneに関してこれまでに特定したゼロデイ脆弱性は8件ある。
-</p>
-<p>
-　BlueBorneは、Android、Linux、Windows、iOS（バージョン9.3.5以前）、tvOS（バージョン7.2.2以前）の各OSで動作するすべてのデバイスに影響し、Bluetoothのバージョンは関係しない。Armis Labsの推計では、該当するデバイスは80億台を超える。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/091900361/?ST=cio-security&P=2">BlueBorneは、他の種類の攻撃手法と違って...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/091900361/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/091900361/?ST=cio-security&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/091900361/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 19 Sep 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「ストーリーテリング」を活用するPR会社に出資、朝日放送子会社（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/091902265/</link>
-			<description><![CDATA[　朝日放送のグループ会社であるABCドリームベンチャーズは2017年9月19日、自社で運用するコーポレート・ベンチャーキャピタル・ファンドを通じて、PRサービス会社のPR Tableに出資したと発表した。出資時期は2017年9月としている。]]></description>
-			<pubDate>Tue, 19 Sep 2017 12:08:59 +0900</pubDate>
-		</item>
-		<item>
 			<title>ソフトバンクの10兆円ファンド、米スラックに約280億円を出資（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/091902266/</link>
 			<description><![CDATA[　ソフトバンクグループは2017年9月19日、10兆円規模の投資ファンド「SoftBank Vision Fund」（SVF）を通じ、チャットツール「Slack」を手掛ける米スラック・テクノロジーズに出資したことを明らかにした。スラック・テクノロジーズの今回の調達額は2億5000万ドル（約280億円）。]]></description>
@@ -371,6 +297,12 @@
 			<pubDate>Wed, 20 Sep 2017 16:04:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>AIが旅行先を推薦、NTTレゾナントがgoo旅行にチャットボット導入（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092002275/</link>
+			<description><![CDATA[　NTTレゾナントは2017年9月20日、同社が提供する旅行比較サイト「goo旅行」において、チャットボットでの対話を通じてユーザーに旅行先を推薦するサービスの提供を開始した。]]></description>
+			<pubDate>Wed, 20 Sep 2017 16:32:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>数時間後に混むエリアはどこ？ ドコモが18年度にも滞在人数の予測技術を実用化（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092002276/</link>
 			<description><![CDATA[　NTTドコモは2017年9月20日、日本国内を250～500メートル四方に区切ったメッシュごとに、数時間後の滞在人数を予測する技術「近未来人数予測」を開発したと発表した。観光地の混雑緩和や大規模イベント会場周辺の警備員の配置最適化などへの活用を想定している。]]></description>
@@ -393,6 +325,30 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092002279/</link>
 			<description><![CDATA[　radikoは2017年9月20日、ラジコでのNHKラジオの実験的な配信を10月2日正午をメドに開始すると発表した。同サービスでのNHKラジオの配信は初の試みという。]]></description>
 			<pubDate>Wed, 20 Sep 2017 17:56:38 +0900</pubDate>
+		</item>
+		<item>
+			<title>ピクセラ光をスタート、IP-STBやVODのパック商品とセットで最安値を設定（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092002280/</link>
+			<description><![CDATA[　ピクセラは2017年9月20日、NTT東西の光コラボレーションモデルに基づく新サービス「ピクセラ光」を開始すると発表した。同日にサービスの受付を開始した。]]></description>
+			<pubDate>Wed, 20 Sep 2017 18:04:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>わずか400台のボットネットから75GbpsのDDoS攻撃、アカマイが注意呼びかけ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092002281/</link>
+			<description><![CDATA[　アカマイ・テクノロジーズは2017年9月20日、2017年4～6月のインターネットにおけるセキュリティ動向について発表した。小規模なボットネットでも大規模なDDoS（分散型サービス拒否）攻撃を仕掛ける例が出ていることなどに注意を呼びかけた。]]></description>
+			<pubDate>Wed, 20 Sep 2017 18:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「PaaSもIaaSも一律料金で使い放題」、米Oracleがクラウドで3つの新施策（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092002282/</link>
+			<description><![CDATA[　米Oracleは2017年9月19日（米国現地時間）、同社のクラウドサービス「Oracle Cloud」の新たな利用促進策を発表した。]]></description>
+			<pubDate>Wed, 20 Sep 2017 18:48:53 +0900</pubDate>
+		</item>
+		<item>
+			<title>PFNが「民間で国内最大級」のスパコンを稼働、深層学習の研究開発を加速（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092002283/</link>
+			<description><![CDATA[　Preferred Networks（PFN）は2017年9月20日、深層学習（多層のニューラルネットによる機械学習）の研究開発に使うスーパーコンピュータを構築し、同月に稼働させたと発表した。]]></description>
+			<pubDate>Wed, 20 Sep 2017 19:08:55 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
