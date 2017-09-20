@@ -5,31 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    完全自動運転の実現で、クルマのヘッドライトは不要に？ アウディが新コンセプト公開
-</title>
-			<link>http://japanese.engadget.com/2017/09/17/aicon/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/6e8352c18ee4c5b56fef282f3398dfd1/205670322/269-1.jpg" /><p><a href="http://japanese.engadget.com/gallery/audi-aicon-concept-frankfurt-2017-0/" title="Audi Aicon Concept: Frankfurt 2017">【ギャラリー】Audi Aicon Concept: Frankfurt 2017 (6枚)</a></p>
-すぐそこまで来ている未来、それは自律運転。これがアウディの「Aicon（アイコン）」コンセプトに込められたメッセージだ。もちろん車名は人工知能を意味する「AI」と「icon」を組み合わせたのだろう。
-
-薬用ドロップのような形をした4ドアの車体は４座だが、実際には２人で乗ることを想定している。完全電動で、そして大きい。全長5,444mm、ホイールベース3,470mmは、 同社の高級セダン「A8」のロング・バージョンよりも大きい。実際、Aiconには巨大な26インチのタイヤが装着されているが、それがちょうどよい大きさに見える。
- ]]></description>
-			<pubDate>Sun, 17 Sep 2017 22:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    【徹底比較】iPhone ⅩとGalaxy Note 8は両方買わざるを得ないと思う理由
-</title>
-			<link>http://japanese.engadget.com/2017/09/18/iphone-galaxy-note-8/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/8c57336baa1c41d0aa5c67eddfcdaa0f/205670303/IMG_1091.jpg" />
-Appleとサムスンのフラッグシップモデル「iPhone Ⅹ」と「Galaxy Note 8」が出そろいました。出落ち感ハンパない記事タイトルで恐縮ですが、本記事では両機種のスペックを細かくチェックしつつ、どちらを購入するべきかシミュレーションしてみます。
-
-関連記事: iPhone Xのナゾを実機で解決
-関連記事: Galaxy Note 8 海外版レビュー
-
-
- ]]></description>
-			<pubDate>Mon, 18 Sep 2017 00:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    テスラ､15分で完了するEV電池交換システムを特許出願｡車載可能､リフト搭載で
 </title>
 			<link>http://japanese.engadget.com/2017/09/18/15-ev/</link>
@@ -531,6 +506,71 @@ Instagram時代の正方形アナログカメラ「Lomo'Instant Square」 、ク
  
  ]]></description>
 			<pubDate>Wed, 20 Sep 2017 01:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    iOS11で多くのゲームが忘却の彼方へ。あのFlappy Birdも動作せず
+</title>
+			<link>http://japanese.engadget.com/2017/09/20/ios11-flappy-bird/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/ca913d60dd77acd96487f14cb1321d40/205685917/2017-09-20-ios11-app-compatibility-p1050674.jpg" />
+AppleのiOSが一般公開された。iOS 11はiPadのユーザーには非常に大きなアップデートとなる。お気に入りのアプリを登録したドックがシステム全体で使えるようになり、全体に使い勝手がmacOSに近づく。ただしiPhoneユーザーの場合、改良はARKitによるAR〔拡張現実〕フレームワークのサポートなど主として目に見えない部分が中心になる。
+
+一部のアプリはすでにこのAR機能を利用している。ロンドン生まれの乗換案内アプリ、Citymapperがそうだ。ただしユーザーはこの機能が「フラットな面がない地下鉄の中では表示できない。ギミックだ」と批判的だが...
+
+iOS11 day begins. First app to update with #AR for me - Citymapper. Not enough (empty) flat surfaces on a tube train. Gimmick #ARKit pic.twitter.com/tpNf6lE7kD
+- Ian Fogg (@ianfogg42) 2017年9月19日
+
+すでに繰り返し紹介されているように新しい絵文字が追加され、コントロール・センターにはお気に入りのショートカットが追加できるようになった。
+
+しかしiOS 11にアップデートするとデジタル歴史の忘却の彼方に消えてしまうアプリがある。すべての古い32ビット・アプリはiOS 11では動作しない。つまり多くのデータが袋小路に入りこんで出てこられないことになる。
+
+Some of my favorite iOS games ever will be lost. Dungeon Raid, Flappy Bird, 15 Coins, Puzzle Restorer, ASYNC Corp... https://t.co/iBL9m3w3PD
+- Andy Baio (@waxpancake) 2017年9月19日
+お気に入りのiOSゲームが動かなくなった。Dungeon Raid、Flappy Bird、15 Coins、Puzzle Restorer、ASYNC Corp...
+
+Flappy Birdといえばあまりの中毒性にゲーム開発者が公開を停止したので知られるゲームだ。しかし本当にデジタル世界から消えるときが来たらしい。
+
+そこで新しいOSにアップデートする前に既存のアプリがiOS 11と互換性があるかどうかをチェックしておこう。Settings &gt; General &gt; About &gt; Applications に互換性のないアプリが表示される〔日本版注〕。開発者が将来改修すれば別だが、そうでなければアウトだ。iOS 11は互換性のないアプリを削除するようなことはないが、起動しない。
+
+iPadユーザーが多くのゲームが動かなくなったと報じている。
+
+I have about 50 apps that are still 32-bit on my phone. Flight Control makes me really sad for some reason (haven't played it in years).
+- Sean Harding (@sharding) 2017年9月19日
+
+しかし、EufloriaのようにiOS 11で作動するようにアップデートされたアプリもある。
+
+Great! Eufloria updates to keep working on iOS11 - Remember all old 32bit apps are incompatible. Includes many classics #iOS11 pic.twitter.com/rEhF3PIMBG
+- Ian Fogg (@ianfogg42) 2017年9月19日
+
+
+「卵を割らずにオムレツは作れない」ということわざもある。新しいものを手に入れるには多少の不便をしのぶ必要があるようだ。
+
+〔日本版〕この部分は日本語版では「設定-&gt;一般-&gt;about-&gt;App」のようになるはずだが、訳者のiPadではabout-&gt;appが表示されない。ネットをチェックすると「32ビット・アプリをインストールしていない場合、この階層が表示されない。問題となるアプリをインストールしていないので作動には問題ない」という意味の情報があった。手元にiPhoneがないためiPadとの作動の差異は未確認。iPadのiOS 11へのアップデートは問題なく完了し、1つを除いてすべてのアプリが作動した。
+
+関連：
+
+iOS 11で使えなくなる32bitアプリは約18万7千本、うち約3万8千本がゲームアプリとの推計
+
+
+ 
+ ]]></description>
+			<pubDate>Wed, 20 Sep 2017 01:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    バイク用ARヘルメットのSkullyが新会社として復活。クラウドファンディング出資者への対応は明らかにせず
+</title>
+			<link>http://japanese.engadget.com/2017/09/20/ar-skully/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/3ed771e2506feeea5fcbff22307ec04f/205685845/mainskly.jpg" />
+バイク用ARヘルメットのクラウドファンディングで大成功しながら、製品化の道半ばで破産したSkully, Inc.が、Skully Technologiesに名前を変えて復活しました。新会社を設立したのは、旧Skullyの経営陣ではなく、世界で様々な産業技術ベンチャーに関わり成功を収めてきたというビジネスマンIvan Contreras氏。Ivan氏は「Skullyの宿命を成し遂げることを目的としてSkullyの資産を取得した」としています。
+
+Ivan氏はメールにて「Skully Technologiesは、すでに存在しないSkully, Inc.の顧客に対して正式な義務を追うものではありませんが、このヘルメットには世界中から多数のエンスージアストが寄与しており、彼らがそれを受け取れなかったことに失望しています。我々はその権利を守ることで、それを正す決意です」としています。
+
+ただ、この「正す決意」という表現はSkully Technologiesのウェブサイトにもキャッチコピー的に使われているものの、具体性のない言葉なせいか、我々が期待するものとそれが果たして合っているのかが気になるところではあります。
+
+実際、記事執筆時点では1500ドルのAR-1ヘルメットに出資した人たちに対する具体的な提案などはなく、もしかするとまったく期待とは別のことを「決意」している可能性も考えられます。
+
+とはいえ、各種インフォメーションを表示可能なHUD内蔵ヘルメットに夢をみた人たちにとっては、それが復活するかもしれないという点は間違いなく朗報です。Skully Technologiesは「まもなくより多くのアップデートをお知らせする予定」としており、今後AR-1が再び製品化に向かって走り始めるなら、もはや諦めるしかなかった出資者にも望みが出てくるはずです。
+ ]]></description>
+			<pubDate>Wed, 20 Sep 2017 02:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
