@@ -77,12 +77,6 @@
 			<pubDate>Wed, 20 Sep 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>三菱UFJフィナンシャル、RPAなどで9500人分の労働量を削減へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092002272/</link>
-			<description><![CDATA[　三菱UFJフィナンシャル・グループは、PCの定型作業を自動化する技術であるRPA（ロボティック・プロセス・オートメーション）などを使って、オフィスワークの効率化を本格的に進める。]]></description>
-			<pubDate>Wed, 20 Sep 2017 13:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>サイバーリンクが動画編集ソフトの新版、360度カメラ対応を強化（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092002273/</link>
 			<description><![CDATA[　サイバーリンクは2017年9月19日、ビデオ編集ソフトの新版「PowerDirector 16」と写真編集ソフトの新版「PhotoDirector 9」を発表した。]]></description>
@@ -308,6 +302,44 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092102289/</link>
 			<description><![CDATA[　ASUS JAPANは2017年9月20日、SIMロックフリースマートフォンの最新モデル「ZenFone 4」シリーズの詳細について、説明会を開催した。]]></description>
 			<pubDate>Thu, 21 Sep 2017 08:34:38 +0900</pubDate>
+		</item>
+		<item>
+			<title>「CoffeeScript 2」登場、近年のJavaScript仕様に対応（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/092100362/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　Web開発者向け言語「CoffeeScript」が「CoffeeScript 2」へとメジャーバージョンアップを果たした。CoffeeScriptは、開発したコードがJavaScriptに変換されるシンプルな言語。新バージョンは、近年のJavaScriptの新しい仕様に対応したことが主な変更点だ。
+</p>
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/092100362/ph.jpg" width="300" alt="" title=""></div></div>
+<p>
+　CoffeeScript 2は4月にベータ版となり、このたび正式リリースされた。このバージョンでは、近年のJavaScript仕様（ECMAScript 2015以降）の構文に基づくコードが生成されるようになった。例えばCoffeeScriptの「class」は、JavaScriptの「class」キーワードを使ったコードに変換される。
+</p>
+<p>
+　このほかCoffeeScript 2では、非同期関数のサポート、オブジェクト分割代入の新しい構文のサポート、JavaScriptの中にXMLの要素を記述する「JSX」のサポートなどが追加された。
+</p>
+<p>
+　CoffeeScript 2で開発チームが目指していたことは主に2つある。1つは、CoffeeScriptをプロジェクトに採用するうえで妨げとなりかねない、最近のJavaScript仕様との非互換性をなくすこと。もう1つは、旧バージョンとの互換性を最大限に維持することだ。
+</p>
+<p>
+　新機能の実現にあたって、1.xバージョンとの互換性に影響する変更はごくわずかだったと開発チームは説明している。以前は、ECMAScript 2015以降の仕様に準拠するために、CoffeeScript 2では互換性に影響する変更が発生しそうだとの懸念が開発チームから報告されていた。だが現在の説明では、「現行のCoffeeScriptプロジェクトの大半は、アップグレードの際にリファクタリングはほとんど（あるいはまったく）必要ないはず」とのことだ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/092100362/?ST=cio-appli&P=2">開発チームによると、今回のバージョンアップが互換...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/092100362/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/092100362/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/092100362/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 21 Sep 2017 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
