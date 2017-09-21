@@ -5,24 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：iPhone Xを手に入れた時の妄想が止まらない、でも8は買わない（「iPhone X」は買いか？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091300375/091900003/?d21</link>
-			<description><![CDATA[　iPhoneは毎年買い替えており、最新機種を発売日に手に入れている。今年もその流れに従って購入するつもりだ。ただ正式名称が「iPhone X（テン）」だったことに驚いた。もちろん「X」と呼ぶ噂は耳に入っていたが、個人的には「X」になる可能性はないだろうと思っていたからだ。]]></description>
-			<pubDate>Wed, 20 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>法人向けECサイト「Amazon Business」が国内提供開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092002287/</link>
-			<description><![CDATA[　アマゾンジャパンは2017年9月20日、法人・個人事業主向けのEC（電子商取引）サイト「Amazon Business」を日本で提供開始した。請求書払いや見積書の作成、承認ルールの設定といった日本独自の機能を備える。]]></description>
-			<pubDate>Wed, 20 Sep 2017 20:11:10 +0900</pubDate>
-		</item>
-		<item>
-			<title>富士通研究所、AIの推定の根拠を説明できる技術を開発（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092002288/</link>
-			<description><![CDATA[　富士通研究所は2017年9月20日、人工知能（AI）の推定の過程や根拠となる文献などを説明できる新技術である「説明可能なAI」を開発したと発表した。2018年度に富士通のAI技術「FUJITSU Human Centric AI Zinrai」での実用化を予定する。]]></description>
-			<pubDate>Wed, 20 Sep 2017 20:20:10 +0900</pubDate>
-		</item>
-		<item>
 			<title>攻撃者が狙うシステムの弱点は5つ（セキュリティ診断のイロハ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/091100010/</link>
 			<description><![CDATA[　攻撃者は、システムにどこか1カ所脆弱な部分を見つければ、そこを攻撃してくる。守る側は攻撃者の視点に立って、自分たちのシステムに弱点がないかを検証する必要がある。]]></description>
@@ -274,6 +256,90 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092102303/</link>
 			<description><![CDATA[　シスコシステムズの日本法人は、2017年6月に発表したIoT（インターネット・オブ・シングス）向けのプラットフォーム製品「Cisco Kinetic」を日本で年内に提供を始めると発表した。2017年9月21日に開いたIoTに関する記者説明会で明らかにした。]]></description>
 			<pubDate>Thu, 21 Sep 2017 21:02:31 +0900</pubDate>
+		</item>
+		<item>
+			<title>知らないと損をする、フィッシング撲滅の切り札「DMARC」（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/091500919/</link>
+			<description><![CDATA[　メールソフトの送信者名欄などに表示される「送信者アドレス」は、送信者が設定できる情報なので信用してはいけない。詐称されていることがある。だが、新しい迷惑メール対策技術「DMARC」の登場により、その常識が変わろうとしている。]]></description>
+			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>店奥までの誘導客を2割増やす、エッジで店内動画を分析（クラウド・エッジ戦国時代）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090600369/090600004/</link>
+			<description><![CDATA[　福岡県福岡市のトライアルホールディングスは2017年中にエッジコンピューティングを活用した新システムを本格導入する。ディスカウントストアであるトライアルカンパニーの親会社である。]]></description>
+			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>KDDIとソフトバンク、出資動向で分かる戦略の違い（情総研レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/091300060/</link>
+			<description><![CDATA[　KDDIとソフトバンクは、成長領域と思われる事業分野への出資を積極的に推進している。その背景と出資動向から、両社の戦略の方向性を分析する。]]></description>
+			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>SSDへの交換で「待たされノートPC」が爆速に（青木恵美の信州ITラプソディ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/091400038/</link>
+			<description><![CDATA[　自分好みにセットアップしたノートPCを最初は喜んで使っていたが、だんだん使うのがおっくうになってしまった。Windowsの起動やスリープからの復帰、アプリの起動、Windows Updateなどの待ち時間が長く、なかなか作業が思ったようにできないためだ。]]></description>
+			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>引く手あまたのセキュリティエンジニア、攻撃手法や国際規格の事情通（新・ITエンジニア図鑑）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100297/083100016/</link>
+			<description><![CDATA[　セキュリティエンジニアの役割は、システムの設計にかかわる上流工程からインシデント対応まで幅広い。事故が起こったら、迅速に状況を把握するスキルが必要。一方で、数多くある業界ごとの規約を理解し、適切に設計するスキルも求められる。]]></description>
+			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>インパクト不足のiPhone X、気になるのはLTE搭載のApple Watch Series 3（「iPhone X」は買いか？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091300375/092000006/</link>
+			<description><![CDATA[　蓋を開けてみると、「iPhone 8」「iPhone 8 Plus」そして「iPhone X」が発売されることが正式に発表されたわけだ。では今年、筆者は新iPhoneを購入するのかというと、現在のところは見送りの方向に気持ちが傾いているのが正直なところである。その理由は“キラー”となる要素が不在、あるいは成熟しきっていないと感じたためだ。]]></description>
+			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>7800円の最安級スマホ「g06＋」、Jアラート対応の気配り端末だった（SIMフリースマートフォンを徹底レビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/092000048/</link>
+			<description><![CDATA[　2017年7月31日に発売された「g06＋」。NTTレゾナントが「gooのスマホ」というブランドで発売するモデルで、直販でOCNモバイルONEに加入する場合は7800円（税別）で入手できる。日本最安値のSIMフリースマホと言える本機を1週間試用し、実際の使い勝手をチェックしてみた。]]></description>
+			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ラズパイが自宅Dropboxになる「NextCloudPi」（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/092100023/</link>
+			<description><![CDATA[　手のひらサイズで4000円台のPCボード「Raspberry Pi（ラズパイ）」をDropbox風のオンラインストレージとして使えるようになるLinux OSが「NextCloudPi」です。公式のラズパイ向けOSイメージがあるため、書き込むだけで簡単に導入できます。]]></description>
+			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本にも続々上陸、「次世代スマホ」の注目株は？（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/092000344/</link>
+			<description><![CDATA[　ドイツ・ベルリンで開催された家電・ITの総合見本市イベント「IFA 2017」では、いくつかの海外メーカーがスマートフォン新機種を発表した。今後、日本に上陸するのはどれか。]]></description>
+			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>物流ピンチを商機に、三井不動産がロボット倉庫（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/092001126/</link>
+			<description><![CDATA[　三井不動産は2017年9月13日、倉庫業務を効率化するためのIT関連設備・機器、システムなどを紹介するショールームを千葉県船橋市の同社倉庫内に新設した。自動倉庫システムなど、ITを活用した16種類の設備や機器類を実演展示。コンサルティングも提供して物流業者や荷主企業の取り込みを図る考えだ。]]></description>
+			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>COBOLやVB6との決別、初手は不良資産の一掃（ITシステムのダイエット術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091500378/092000005/</link>
+			<description><![CDATA[　COBOLアプリケーションをJavaで書き直すなど、新たな開発言語で再構築する「リライト」は、業務仕様を基本的に変えない。リライトの際は、既存資産から不要資産をいかに取り除くかが、スリム化のポイントとなる。]]></description>
+			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>狙われやすいセキュリティの弱点、攻撃者の手法で見つける（セキュリティ診断のイロハ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/091100011/</link>
+			<description><![CDATA[　攻撃者に狙われやすいCMS（コンテンツ・マネジメント・システム）の脆弱性を、専用の脆弱性ツールで診断してみよう。狙われやすいWebコンテンツは、Googleの検索演算子を駆使して見つけることができる。]]></description>
+			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Microsoft Officeが最近ややこしい、どう選ぶのが得？（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/092000345/</link>
+			<description><![CDATA[　最近のマイクロソフトオフィスは種類が多いうえに、ライセンスの内容がバラバラで大変ややこしい。それぞれどう違うのか、ここでまとめて整理しよう。]]></description>
+			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IT人材が転職で重視すること、経産省調査で分かった上位11項目（IT人材の給与）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090400366/091800003/</link>
+			<description><![CDATA[　IT人材が転職時に最も重視する項目は「給与・報酬」である――。こんな結果が経済産業省の調査によって得られた。]]></description>
+			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
