@@ -5,90 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>最終回　呪文を使ってスマートに戦おう～業務効率化（その3）（ドラクエが教えてくれたチームマネジメント～最強のパーティーを作る！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/081800177/080100034/</link>
-			<description><![CDATA[　ドラクエで自分より弱いザコキャラを寄せ付けなくする便利な呪文「トヘロス」。無駄な戦いを排除できる。仕事もある程度慣れてきたら、無駄な戦い（＝仕事）を減らす工夫を考えよう。]]></description>
-			<pubDate>Wed, 20 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>デジタル変革へようやく重い腰上げる司法（戦後初！行政・司法IT改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090500367/090500002/</link>
-			<description><![CDATA[　政府は行政だけでなく司法のデジタル化も進めようとしている。現状では海外に比べて後れを取っており、対策が急務だ。ビジネス環境の国際評価が下がり続ける事態を立て直す必要がある。国の競争力の引き上げに向け、官民の実行力が問われている。]]></description>
-			<pubDate>Wed, 20 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>メルカリは「3週間で1つ作る」、サーバーサイドエンジニアの重責（新・ITエンジニア図鑑）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100297/083100014/</link>
-			<description><![CDATA[　サーバー側アプリケーションの開発に特化するのがサーバーサイドエンジニアだ。サーバーサイドエンジニアがAPIを作り、フロントエンドの技術者がそれを利用する。DBの構築やAPIの作成が主な役割だ。]]></description>
-			<pubDate>Wed, 20 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「軒を貸して母屋に引き込む」AWS、危うい二人三脚の胸算用（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/091400918/</link>
-			<description><![CDATA[　VMwareとAWS（Amazon Web Services）が約1年をかけて提供にこぎつけた新サービス「VMware Cloud on AWS」。オンプレミス環境にあるVMwareベースのシステムを、AWSへ改変の手間無く移行できる。ただ手は結んでも、両社が見る夢は異なる。]]></description>
-			<pubDate>Wed, 20 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ヘルプデスク担当はWatson、3カ月学習させた外資系製薬会社（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/091401124/</link>
-			<description><![CDATA[　企業のIT部門で、人工知能（AI）を使った業務効率化が始まっている。製薬会社のノボ ノルディスク ファーマは2017年7月、ITの使い方など社員からの問い合わせにAIを使って応対する社内システムを稼働させた。]]></description>
-			<pubDate>Wed, 20 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>LINEの「WAVE」、ガッカリしたが今後に期待（山崎潤一郎のデジタル危険地帯）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/080600035/091200038/</link>
-			<description><![CDATA[　LINEのスマートスピーカー「WAVE」の先行体験版を使い始めてから約10日が経過した。で、その評価はというと、正直言って期待外れ。AmazonやGoogleの同種の製品に負けてほしくないという日本人としての思いが強すぎるのか、先行体験版と割り切ってはいるものの、大きく膨らんだ期待の前にガッカリ感が先行してしまった。ただ、考えようによっては、これからの伸び代がたっぷりと確保されているわけだ。]]></description>
-			<pubDate>Wed, 20 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>DoS攻撃対策の松竹梅、完全防御はムリでも守りは必要（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/091100009/</link>
-			<description><![CDATA[　脆弱性を悪用するDoS攻撃への耐性は、脆弱性スキャナーや、攻撃コードを使った手動診断が可能なツールなどを使って、ある程度の調査ができる。DoS攻撃への対策は、費用対効果を考慮して、リスク低減を図ることが重要だ。]]></description>
-			<pubDate>Wed, 20 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>COBOL撤廃の伊藤忠と20年ぶりに全面刷新する東ガス、共通の課題（ITシステムのダイエット術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091500378/091900002/</link>
-			<description><![CDATA[　東京ガスは1998年に刷新したCIS（顧客情報システム）を20年ぶりに全面刷新する。狙いはデジタルビジネスの推進だ。]]></description>
-			<pubDate>Wed, 20 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>盛り上がるエッジコンピューティング、トヨタが開発に着手（クラウド・エッジ戦国時代）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090600369/090600002/</link>
-			<description><![CDATA[　クラウドの戦線はデータセンターを飛び出し、工場やオフィスなどにも及んでいる。センサーやカメラなどのデバイスや中間サーバーといったクラウドの端（エッジ）でデータを処理したり管理したりする例が急増している。IoTの時代は大量データを一段と高速に処理する必要があるため、エッジコンピューティングに期待がかかる。]]></description>
-			<pubDate>Wed, 20 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>FPGAは普通のプロセッサと何が違うのか（FPGAって何？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091500377/091900001/</link>
-			<description><![CDATA[　数年前から、FPGAに高い関心が集まりつつある。FPGAそのものは1980年代に初めて製品が登場しているから、もう30年ほどの歴史になるが、人気が上がり始めたのは2010年あたりからになる。これにはいくつかの理由がある。今回はFPGAの特徴と、利用が広がった理由を解説する。]]></description>
-			<pubDate>Wed, 20 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>転職すれば上がる？ITエンジニアの給与実態（IT人材の給与）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090400366/091000002/</link>
-			<description><![CDATA[　転職後に給与が上がるITエンジニアの割合は年々右肩上がりに増えている――。リクルートキャリアが2017年7月に公表した指標「転職時の賃金変動状況」によってこんな結果が得られた。]]></description>
-			<pubDate>Wed, 20 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iPhone Xを手に入れた時の妄想が止まらない、でも8は買わない（「iPhone X」は買いか？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091300375/091900003/</link>
-			<description><![CDATA[　iPhoneは毎年買い替えており、最新機種を発売日に手に入れている。今年もその流れに従って購入するつもりだ。ただ正式名称が「iPhone X（テン）」だったことに驚いた。もちろん「X」と呼ぶ噂は耳に入っていたが、個人的には「X」になる可能性はないだろうと思っていたからだ。]]></description>
-			<pubDate>Wed, 20 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>サイバーリンクが動画編集ソフトの新版、360度カメラ対応を強化（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092002273/</link>
-			<description><![CDATA[　サイバーリンクは2017年9月19日、ビデオ編集ソフトの新版「PowerDirector 16」と写真編集ソフトの新版「PhotoDirector 9」を発表した。]]></description>
-			<pubDate>Wed, 20 Sep 2017 13:33:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>OLAPの「Essbase」をクラウド化、日本オラクルが提供開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092002274/</link>
-			<description><![CDATA[　日本オラクルは2017年9月20日、OLAP（オンライン分析処理）サーバー「Oracle Essbase」のクラウドサービスの提供を開始した。データ分析機能を提供するクラウドサービス「Oracle Analytics Cloud」の一部として提供する。]]></description>
-			<pubDate>Wed, 20 Sep 2017 16:04:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>AIが旅行先を推薦、NTTレゾナントがgoo旅行にチャットボット導入（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092002275/</link>
 			<description><![CDATA[　NTTレゾナントは2017年9月20日、同社が提供する旅行比較サイト「goo旅行」において、チャットボットでの対話を通じてユーザーに旅行先を推薦するサービスの提供を開始した。]]></description>
@@ -340,6 +256,18 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 21 Sep 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>狙われる産業制御システム、NTTセキュリティが対策サービスを開始（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092102290/</link>
+			<description><![CDATA[　NTTセキュリティは2017年9月20日、工場やプラント、電力、ガスといった産業制御システム向けのセキュリティ対策サービス「IT/OT（Operational Technologies）統合セキュリティサービス」を始めたと発表した。]]></description>
+			<pubDate>Thu, 21 Sep 2017 13:26:43 +0900</pubDate>
+		</item>
+		<item>
+			<title>富士通SSL、マカフィー製品を活用したマルウエア対策サービス（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092102291/</link>
+			<description><![CDATA[　富士通ソーシアルサイエンスラボラトリ（富士通SSL）は2017年9月21日、企業向けのマルウエア対策サービス「マルウェア検知・拡散防止サービス」の販売を始めた。]]></description>
+			<pubDate>Thu, 21 Sep 2017 14:14:25 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
