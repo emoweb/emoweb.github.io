@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>AIが旅行先を推薦、NTTレゾナントがgoo旅行にチャットボット導入（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092002275/</link>
-			<description><![CDATA[　NTTレゾナントは2017年9月20日、同社が提供する旅行比較サイト「goo旅行」において、チャットボットでの対話を通じてユーザーに旅行先を推薦するサービスの提供を開始した。]]></description>
-			<pubDate>Wed, 20 Sep 2017 16:32:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>数時間後に混むエリアはどこ？ ドコモが18年度にも滞在人数の予測技術を実用化（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092002276/</link>
-			<description><![CDATA[　NTTドコモは2017年9月20日、日本国内を250～500メートル四方に区切ったメッシュごとに、数時間後の滞在人数を予測する技術「近未来人数予測」を開発したと発表した。観光地の混雑緩和や大規模イベント会場周辺の警備員の配置最適化などへの活用を想定している。]]></description>
-			<pubDate>Wed, 20 Sep 2017 17:00:55 +0900</pubDate>
-		</item>
-		<item>
 			<title>ソフトバンクがeSIMの運用を開始、Apple Watch Series 3から適用（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092002277/</link>
 			<description><![CDATA[　ソフトバンクは2017年9月20日、携帯電話網との接続に必要な情報を遠隔から書き換える「eSIMプラットフォーム」の運用を9月22日に始めると発表した。同日に発売する「Apple Watch Series 3 Cellularモデル」から適用する。]]></description>
@@ -268,6 +256,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092102291/</link>
 			<description><![CDATA[　富士通ソーシアルサイエンスラボラトリ（富士通SSL）は2017年9月21日、企業向けのマルウエア対策サービス「マルウェア検知・拡散防止サービス」の販売を始めた。]]></description>
 			<pubDate>Thu, 21 Sep 2017 14:14:25 +0900</pubDate>
+		</item>
+		<item>
+			<title>人気のPC最適化ソフト「CCleaner」にマルウエア混入、正規のデジタル署名で配布（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092102292/</link>
+			<description><![CDATA[　JPCERTコーディネーションセンター（JPCERT/CC）は2017年9月20日、無償のPC最適化ツール「CCleaner」にマルウエアが混入していた件について注意を促した。同年8月15日から9月12日に配布したCCleanerにマルウエアの混入が認められたという。]]></description>
+			<pubDate>Thu, 21 Sep 2017 14:17:57 +0900</pubDate>
+		</item>
+		<item>
+			<title>ランサムウエアの感染トップはやはり「WannaCry」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092102293/</link>
+			<description><![CDATA[　トレンドマイクロは2017年9月21日、国内外のセキュリティ動向を調査した報告書「2017年上半期セキュリティラウンドアップ」を公開した。最大のトピックはランサムウエアの脅威だ。特に5月中旬に猛威を振るった「WannaCry」が目立った。]]></description>
+			<pubDate>Thu, 21 Sep 2017 14:25:06 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
