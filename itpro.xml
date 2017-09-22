@@ -5,140 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>攻撃者が狙うシステムの弱点は5つ（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/091100010/</link>
-			<description><![CDATA[　攻撃者は、システムにどこか1カ所脆弱な部分を見つければ、そこを攻撃してくる。守る側は攻撃者の視点に立って、自分たちのシステムに弱点がないかを検証する必要がある。]]></description>
-			<pubDate>Thu, 21 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>35カ国中26位の日本、ビジネス環境ランキングで下降する理由（戦後初！行政・司法IT改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090500367/090500003/</link>
-			<description><![CDATA[　日本政府はなぜ未来投資戦略に司法のIT化を盛り込んだのか。IT化の遅れが日本の国際的な評価を下げる主な要因となっていると考えられるからだ。]]></description>
-			<pubDate>Thu, 21 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IT人材の給与、年功はどれくらい重視されているか（IT人材の給与）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090400366/090800001/</link>
-			<description><![CDATA[　企業がIT人材の給与を決定する際、在籍年数や年齢を重視しているか、それともITスキルや仕事の成果を重視しているのか。経済産業省が2017年8月21日に公開した実態調査の結果から、個人と企業の認識にギャップがみられることが分かった。]]></description>
-			<pubDate>Thu, 21 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>エッジコンピューティング、近くで処理する利点は3つ（クラウド・エッジ戦国時代）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090600369/090600003/</link>
-			<description><![CDATA[　「エッジの陣取り合戦が始まる」。NECの岡山義光 IoT基盤開発本部 技術部長は武者震いする。IoTが普及すればするほど、大量のデータが発生するセンサーなどに近いエッジでデータを処理する必要に迫られる。]]></description>
-			<pubDate>Thu, 21 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iPhone Xを選ぶ5つの理由（「iPhone X」は買いか？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091300375/091900004/</link>
-			<description><![CDATA[　iPhone Xは、最近はiPhoneとAndroidスマートフォンの2台持ちが当たり前になっていた筆者にとって「買わない理由が見当たらない」1台だ。2台持ちに至っていた不便さを、ホームボタンの廃止や顔認証の導入で一気に解消してくれる。]]></description>
-			<pubDate>Thu, 21 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>多重下請けの問題をITで解決、ただし建設業界での話（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/091500920/</link>
-			<description><![CDATA[　「建設業界はIT業界と似ている」。ここ最近、建設業界向けのサービスを提供するベンチャー企業を取材すると、こんなコメントを聞くことが多くなった。]]></description>
-			<pubDate>Thu, 21 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Java SE 9の実験的API、HTTP/2 ClientでHTTP/2の高速化手法を知る（最新Java情報局）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/091500047/</link>
-			<description><![CDATA[　前回まで、Java SE 9の実験的API「HTTP/2 Client」について、HTTP/1.1の範囲の機能を紹介してきました。しかしその名称の通り、最も重要な機能と言えるのがHTTP/2のサポートです。今回はHTTP/2に特有の機能を紹介していきます。]]></description>
-			<pubDate>Thu, 21 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>無名のBIツール、旬のスタートアップがこぞって採用する理由（シリコンバレーNextレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/092000129/</link>
-			<description><![CDATA[　日本では全くの無名だが、シリコンバレーでは米Lyftや米Squareなど旬のスタートアップがこぞって利用しているBI（Business Intelligence）ツールがある。米カリフォルニア州サンタクルーズに拠点を置くスタートアップの米Lookerが手掛ける製品だ。]]></description>
-			<pubDate>Thu, 21 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>仕様書を書いている余裕なし、クラウドエンジニア（新・ITエンジニア図鑑）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100297/083100015/</link>
-			<description><![CDATA[　クラウドサービスを使って、要件に最適なインフラを構築するクラウドエンジニア。クラウドサービスに精通しているのはもちろん、ユーザーの要求を理解して提案する能力も欠かせない。設計から開発まで極めて短期に進むことがクラウドを利用した開発の特徴だ。]]></description>
-			<pubDate>Thu, 21 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>次に狙うのはFinTech、出遅れたNTTドコモは巻き返せるか（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/091901125/</link>
-			<description><![CDATA[　NTTドコモが2017年4月に打ち出した中期経営戦略「beyond宣言」。多くの宣言は既存の取り組みの延長線上で目新しさを欠く中、ひときわ目立ったのが、FinTechサービスへの意気込みだ。]]></description>
-			<pubDate>Thu, 21 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iPhone 8／iPhone Xでラインアップが30種から半減、その狙いとは？（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/091900058/</link>
-			<description><![CDATA[　米アップルは2017年9月12日（現地時間）に発表イベントを開催し、iPhoneシリーズを刷新した。今回は、アップルが2017年秋にそろえたiPhoneラインアップについて読み解く。]]></description>
-			<pubDate>Thu, 21 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日清や日立造船の決意、会議体で廃止業務を決定（ITシステムのダイエット術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091500378/092000003/</link>
-			<description><![CDATA[　パッケージ活用、自社開発、旧資産の活用など基幹系刷新の手法は様々。だが、不要な業務やソフトを削ってシステムをスリムにするという目的は共通する。先行して挑んだ7社の「ダイエット術」を探ると、成功に向けた勘所が見えてきた。]]></description>
-			<pubDate>Thu, 21 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>FPGAはどうやって機能を組み替えるのか（FPGAって何？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091500377/092000002/</link>
-			<description><![CDATA[　FPGAは、端的に言えばSRAMと配線の塊と言っても間違いではない。SRAMとはランダムアクセス可能なメモリーの一種で、記憶保持のための動作を必要としない点が特徴だ。なぜ、SRAMを使って回路が作れるのか、といったFPGAの本質的な話を今回は解説する。]]></description>
-			<pubDate>Thu, 21 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>エンタはITで進化する、eスポーツ配信で日本一に（インタビュー＆トーク）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/092000347/</link>
-			<description><![CDATA[　テレビゲームをスポーツ競技のように楽しむeスポーツが急速に盛り上がりを見せている。eスポーツ事業に国内で最も力を入れる企業の1社が、スマートフォン向け広告を手掛けるCyberZだ。なぜ、スマホ広告企業がeスポーツを手掛けるのか。同社の山内隆裕社長に狙いと戦略を聞いた。]]></description>
-			<pubDate>Thu, 21 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「CoffeeScript 2」登場、近年のJavaScript仕様に対応（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/092100362/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　Web開発者向け言語「CoffeeScript」が「CoffeeScript 2」へとメジャーバージョンアップを果たした。CoffeeScriptは、開発したコードがJavaScriptに変換されるシンプルな言語。新バージョンは、近年のJavaScriptの新しい仕様に対応したことが主な変更点だ。
-</p>
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/092100362/ph.jpg" width="300" alt="" title=""></div></div>
-<p>
-　CoffeeScript 2は4月にベータ版となり、このたび正式リリースされた。このバージョンでは、近年のJavaScript仕様（ECMAScript 2015以降）の構文に基づくコードが生成されるようになった。例えばCoffeeScriptの「class」は、JavaScriptの「class」キーワードを使ったコードに変換される。
-</p>
-<p>
-　このほかCoffeeScript 2では、非同期関数のサポート、オブジェクト分割代入の新しい構文のサポート、JavaScriptの中にXMLの要素を記述する「JSX」のサポートなどが追加された。
-</p>
-<p>
-　CoffeeScript 2で開発チームが目指していたことは主に2つある。1つは、CoffeeScriptをプロジェクトに採用するうえで妨げとなりかねない、最近のJavaScript仕様との非互換性をなくすこと。もう1つは、旧バージョンとの互換性を最大限に維持することだ。
-</p>
-<p>
-　新機能の実現にあたって、1.xバージョンとの互換性に影響する変更はごくわずかだったと開発チームは説明している。以前は、ECMAScript 2015以降の仕様に準拠するために、CoffeeScript 2では互換性に影響する変更が発生しそうだとの懸念が開発チームから報告されていた。だが現在の説明では、「現行のCoffeeScriptプロジェクトの大半は、アップグレードの際にリファクタリングはほとんど（あるいはまったく）必要ないはず」とのことだ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/092100362/?ST=cio-appli&P=2">開発チームによると、今回のバージョンアップが互換...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/092100362/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/092100362/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/092100362/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 21 Sep 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>狙われる産業制御システム、NTTセキュリティが対策サービスを開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092102290/</link>
-			<description><![CDATA[　NTTセキュリティは2017年9月20日、工場やプラント、電力、ガスといった産業制御システム向けのセキュリティ対策サービス「IT/OT（Operational Technologies）統合セキュリティサービス」を始めたと発表した。]]></description>
-			<pubDate>Thu, 21 Sep 2017 13:26:43 +0900</pubDate>
-		</item>
-		<item>
-			<title>富士通SSL、マカフィー製品を活用したマルウエア対策サービス（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092102291/</link>
-			<description><![CDATA[　富士通ソーシアルサイエンスラボラトリ（富士通SSL）は2017年9月21日、企業向けのマルウエア対策サービス「マルウェア検知・拡散防止サービス」の販売を始めた。]]></description>
-			<pubDate>Thu, 21 Sep 2017 14:14:25 +0900</pubDate>
-		</item>
-		<item>
 			<title>人気のPC最適化ソフト「CCleaner」にマルウエア混入、正規のデジタル署名で配布（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092102292/</link>
 			<description><![CDATA[　JPCERTコーディネーションセンター（JPCERT/CC）は2017年9月20日、無償のPC最適化ツール「CCleaner」にマルウエアが混入していた件について注意を促した。同年8月15日から9月12日に配布したCCleanerにマルウエアの混入が認められたという。]]></description>
@@ -372,6 +238,24 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 22 Sep 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソフトバンクが「iPhone 8」発売イベント開催、ゲストに上戸 彩さんら登場（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092202307/</link>
+			<description><![CDATA[　ソフトバンクは2017年9月22日、東京・銀座にある同社の旗艦ショップ「ソフトバンク銀座」で、アップルのスマートフォン最新モデル「iPhone 8／iPhone 8 Plus」と「Apple Watch Series 3」の発売セレモニーを開催した。]]></description>
+			<pubDate>Fri, 22 Sep 2017 11:00:19 +0900</pubDate>
+		</item>
+		<item>
+			<title>50GBプランへの追随は「まあいいかな」、KDDI田中社長がiPhone8料金でソフトバンクをチクリ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092202308/</link>
+			<description><![CDATA[　KDDI（au）は2017年9月22日、米アップルのスマートフォン（スマホ）新機種「iPhone 8」「同 Plus」の発売セレモニーを実施した。田中孝司社長はiPhone 8向け料金について、「『auの料金は安いよね』と言える」と自信を示した。]]></description>
+			<pubDate>Fri, 22 Sep 2017 11:01:35 +0900</pubDate>
+		</item>
+		<item>
+			<title>ドコモがiPhoneの発売イベント、4CC CAによる高速化を検討（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092202309/</link>
+			<description><![CDATA[　NTTドコモは2017年9月22日、「iPhone 8/8 Plus」「Apple Watch Series 3」の発売イベントを開いた。イベントに登場した吉沢和弘社長はiPhone 8/8 Plusについて、高速化を図る「4CC CA」への対応を検討していることを明らかにした。]]></description>
+			<pubDate>Fri, 22 Sep 2017 11:28:12 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
