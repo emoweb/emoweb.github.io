@@ -89,59 +89,6 @@
 			<pubDate>Thu, 21 Sep 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>パスワードの安全性確保、現実的な規則は（後）（パスワードの安全性確保、現実的な規則は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　米国立標準技術研究所（NIST）が、パスワードに関するガイドラインを改訂した。従来のガイドラインは、英数字と記号を組み合わせることや、パスワードを定期的に変更することを推奨しており、セキュリティ専門家からは批判が上がっていた。やっとのことで行われた改訂は、前向きに受け止められている。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100001/" target="_blank">前回</a>から続く）</p>
-
-<h4>現実的なパスワードポリシーは</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　筆者としては、実用的なパスワードポリシーを実現するための妥当なアプローチとして、次のような項目を提案したい。</p>
-
-<ul>
-<li>すべてのアカウントに多要素認証を導入する。</li>
-<li>パスワードセキュリティの意識向上運動を実施して、パスワードの使い回しや書き留めを控えさせる。また、多要素認証で使うデバイスやパスワードを守るよう社員に指導する。</li>
-<li>ユーザーが選んだパスワードはどれでも使えるようにする。</li>
-</ul>
-
-<p>　多要素認証を導入しない場合については、次のように提案したい。</p>
-
-<ul>
-<li>今後もパスワードの定期的な変更を義務づける。</li>
-<li>推測可能なパスワードを防ぐためのNISTのガイドラインを実践する。</li>
-<li>パスワードでのログインの試行回数に上限を設ける。</li>
-<li>意識向上運動を実施し、強力でも覚えやすいパスワードの作り方、パスワードの使い回し防止、パスワードの漏えい防止、フィッシングの防御にスポットを当てる。</li>
-<li>パスワードで記号の使用を義務づけない場合は、同等の水準のセキュリティを確保できるよう、長めのパスワードを義務づける。</li>
-</ul>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100002/?ST=cm-software&P=2">パスワードのリセット</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100002/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100002/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091100070/091100002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 21 Sep 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ASUSが「ZenFone 4」の詳細を説明、デュアルカメラで撮影能力が進化（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092102289/</link>
-			<description><![CDATA[　ASUS JAPANは2017年9月20日、SIMロックフリースマートフォンの最新モデル「ZenFone 4」シリーズの詳細について、説明会を開催した。]]></description>
-			<pubDate>Thu, 21 Sep 2017 08:34:38 +0900</pubDate>
-		</item>
-		<item>
 			<title>「CoffeeScript 2」登場、近年のJavaScript仕様に対応（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/092100362/</link>
 			<description><![CDATA[<div>
@@ -381,6 +328,50 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092202306/</link>
 			<description><![CDATA[　大手旅行代理店のエイチ・アイ・エス（H.I.S.）は2017年9月21日、仮想通貨「ビットコイン（Bitcoin）」を使った旅行商品の決済サービスを同年9月23日から開始すると発表した。]]></description>
 			<pubDate>Fri, 22 Sep 2017 09:31:59 +0900</pubDate>
+		</item>
+		<item>
+			<title>総務省、「マイキープラットフォーム」の運用を9月25日から開始（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092102305/</link>
+			<description><![CDATA[　総務省は2017年9月21日、マイナンバーカードを活用して公共施設の利用カードを1枚にまとめられる「マイキープラットフォーム」の運用を9月25日から開始すると発表した。]]></description>
+			<pubDate>Fri, 22 Sep 2017 10:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>FacebookのPHP／Hack実行環境「HHVM」、今後は対象をHackに限定へ（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092200418/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　PHPの高速実行環境として米Facebookが開発した「HHVM（Hip Hop Virtual Machine）」が、PHPの最新メジャーバージョン「PHP 7」をターゲットから外す方針を明らかにした。今後は、PHPの派生言語「Hack」に対象を絞る。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092200418/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　「PHP 5」に関しては、HHVMの次回のLTS（長期サポート版）であるバージョン3.24（2018年初めに登場予定）が、PHP 5を正式にサポートする最後のバージョンとなる。
+</p>
+<p>
+　HHVM開発チームの公式ブログ記事には次のように説明がある。「PHP 7とHackの両方をサポートしようとすると、望ましくない妥協が両方の側面で生じる。我々は、PHPからの分離をさらに進める意向だ。PHPの設計の最初期からある大きな死角すべてに責を負う必要をなくし、Hackを素晴らしいものにしていくためだ」
+</p>
+<p>
+　PHP 7は、PHP 5の後継バージョンだ（PHP 6はリリースされなかった）。PHP 5からの変化はかなり大きく、いくつかの挙動が変わっていて、その中には旧バージョンとの互換性がないものもある。PHP 7がPHP 5から離れていこうとする中、HHVMも同じように離れていきたいというのが開発チームの望みだ。「したがって、今後HHVMはPHP 7をターゲットにする意向はない。派生元のPHPから解放された状態で、HackをWeb開発用の優秀な言語にしていくという明確な道筋がHHVMチームにはあると我々は信じている」
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092200418/?ST=cm-software&P=2">Facebookはここ何年も、HHVMをほぼHackの実行にのみ...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092200418/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092200418/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092200418/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 22 Sep 2017 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
