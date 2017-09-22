@@ -5,24 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>ランサムウエアの感染トップはやはり「WannaCry」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092102293/</link>
-			<description><![CDATA[　トレンドマイクロは2017年9月21日、国内外のセキュリティ動向を調査した報告書「2017年上半期セキュリティラウンドアップ」を公開した。最大のトピックはランサムウエアの脅威だ。特に5月中旬に猛威を振るった「WannaCry」が目立った。]]></description>
-			<pubDate>Thu, 21 Sep 2017 14:25:06 +0900</pubDate>
-		</item>
-		<item>
-			<title>ホワイトハッカーを育成、DNPが訓練コース開設（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092102294/</link>
-			<description><![CDATA[　大日本印刷は2017年9月20日、ホワイトハッカーを育成する訓練コース「サーティファイド・サイバー・オフェンス・プロフェッショナルコース　ホワイトハッカー」の開設を発表した。同年10月11日から開始する。イスラエルの防衛関連企業が開発した訓練システムを活用する。]]></description>
-			<pubDate>Thu, 21 Sep 2017 15:18:56 +0900</pubDate>
-		</item>
-		<item>
-			<title>FX事業者などを狙ったDDoS攻撃が多発、外為どっとコムや東洋証券が被害（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092102295/</link>
-			<description><![CDATA[　FX（外国為替証拠金取引）事業者や仮想通貨取引所を狙ったDDoS（分散型サービス妨害）攻撃が多発している。本誌の調べによると、2017年9月21日までに、FX事業者の外為どっとコムやマネーパートナーズ、証券会社の東洋証券などが被害を受けている。]]></description>
-			<pubDate>Thu, 21 Sep 2017 16:27:33 +0900</pubDate>
-		</item>
-		<item>
 			<title>機械学習を簡単に、日本IBMが新しい分析システムを発売（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092102296/</link>
 			<description><![CDATA[　日本IBMは2017年9月21日、新しい分析システム「IBM Integrated Analytics System」を9月28日に発売すると発表した。データを格納すれば、すぐに機械学習を使った分析ができることが特徴だ。]]></description>
@@ -256,6 +238,24 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092202310/</link>
 			<description><![CDATA[　Cylance Japanは2017年9月22日、米消費者信用情報会社Equifaxで米国時間9月7日に発生した大規模情報漏洩事件について解説するブログ（米Cylanceが公開した記事の抄訳版）を公開した。ブログでは「消費者にとって史上最悪の情報漏洩である」と解説している。]]></description>
 			<pubDate>Fri, 22 Sep 2017 13:12:20 +0900</pubDate>
+		</item>
+		<item>
+			<title>2017年「検索リスクの高い有名人」1位はアヴリル・ラヴィーン氏、マカフィー調査（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092202311/</link>
+			<description><![CDATA[　マカフィーは2017年9月22日、2017年版「インターネット検索で最もリスクの高い有名人」の調査結果を発表した。]]></description>
+			<pubDate>Fri, 22 Sep 2017 14:43:24 +0900</pubDate>
+		</item>
+		<item>
+			<title>さくら、無効化されるシマンテック証明書の更新方法を12月1日以降に案内（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092102302/</link>
+			<description><![CDATA[　さくらインターネットは2017年9月21日、米シマンテックのSSLサーバー証明書の更新方法を12月1日以降に案内すると発表した。Chromeで]]></description>
+			<pubDate>Fri, 22 Sep 2017 16:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>カブドットコムが口座開設アプリ、マイナンバーカードでペーパーレス（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092202312/</link>
+			<description><![CDATA[　カブドットコム証券は2017年9月22日、口座開設専用のスマートフォンアプリを9月下旬に公開すると発表した。年内にもNFC（近距離無線通信）機能とマイナンバーカードの公的個人認証サービス（JPKI）を利用して、完全ペーパーレスで口座開設ができる機能を導入する。]]></description>
+			<pubDate>Fri, 22 Sep 2017 16:15:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
