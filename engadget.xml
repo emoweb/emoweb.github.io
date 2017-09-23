@@ -5,27 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    iOS 11のコントロールセンターはWiFi/Bluetoothをオフにせず。完全オフは｢設定｣から
-</title>
-			<link>http://japanese.engadget.com/2017/09/21/ios-11-wifi-bluetooth/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/f4d86ed8ec1af0b0a00001d1f9d8ebf3/205690568/maincc.jpg" />
-先日リリースされたばかりのiOS 11の注目機能のひとつに、大幅に改良されたコントロールセンターがあります。画面下からスワイプで引き出すその機能はiOS 10までに比べると大幅に多機能化されています。
-
-それら機能の中でも比較的使う頻度が多そうな機能がWiFiやBluetoothのオン/オフ機能。この機能の挙動が、iOS 10までとiOS 11で微妙に変わっていることがわかりました。
-
-iOS 11のコントロールセンターでWiFiやBluetoothをオンにすると、画面最上部のステータスバーにそれらのアイコンが表示され、有効になったことがわかります。一方、コントロールセンターでそれらをオフにした場合、すでに接続している機器からはiPhoneが切断されステータスバーからは消えるものの、設定画面で確認するとWiFi/Bluetooth機能はオフにはなっていないことがわかります。
-
-これはバグなどではなくアップルが意図的にそうしていることがドキュメントに記されています。アップルの説明によるとコントロールセンターでWiFiやBluetoothをオフにした場合は従来の「オフ」ではなく、「未接続」状態になるとのこと。たとえばBluetoothスピーカーやイヤホンを使っていたのをすぐに切断したい場合などは、コントロールセンターで未接続にすれば良いということです。
-
-この状態はコントロールセンターのアイコン(青ベタ/グレー/タスキがけ)で見分けられるほか、アイコンを長押しして表示される詳細画面では注釈(オン/未接続/オフ)も表示されます。
-
-いったん未接続状態にすれば、以後はWiFi/Bluetooth機器に自動で再接続することはありません。ただ、ふたたびコントロールセンターで明示的にオンにしたり、設定画面から接続操作を実行、またはiPhoneを再起動した場合は、再びBluetoothがオンの状態になります。あと、なぜか翌朝の5時になった場合も自動的にオンになるとのこと。これは朝の通勤や通学時に設定をせずともAirPodsなどをすぐに使えるようにするためかもしれません。
-
-おそらくは良かれと思っての変更と考えられるものの、コントロールセンターで「未接続」状態にしただけではApple Watch、Instant Hotspot、Apple Pencilとの接続や、Handoff など連係機能は生きたままであり、完全にWiFiやBluetoothをオフにしないのに、画面でそれを見分けられないのは少々不安です。つい最近にはBluetooth経由でスマートフォンを乗っ取るハッキング手法も発見されています。WiFi/Bluetoothを完全にオフにしたいなら、手間が増えるものの設定画面からをオフにするほかありません。
- ]]></description>
-			<pubDate>Thu, 21 Sep 2017 04:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    iPhone 8で「総務省指定 MIC/KS」の刻印なくなる。理由は？
 </title>
 			<link>http://japanese.engadget.com/2017/09/21/iphone-8-mic-ks/</link>
@@ -686,6 +665,15 @@ ANUBIS はPS3 / Xbox 360向けにもHDリマスターされており、今回は
 
  ]]></description>
 			<pubDate>Fri, 22 Sep 2017 17:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    iPhone 8 / Plusは「すべらない」iPhoneに──ガラスの質感、カメラの進化をチェック
+</title>
+			<link>http://japanese.engadget.com/2017/09/22/iphone-8-plus-iphone/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/c4bdb03fc2ce08476eb654165860bf62/205691151/DSC08703.jpg" />
+iPhone 8 / 8 Plusがついに発売されました。いざ実機に触ってみると、「（7から）代わり映えしない」という当初の印象が大きく覆りました。
+ ]]></description>
+			<pubDate>Fri, 22 Sep 2017 20:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
