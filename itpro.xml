@@ -5,88 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>知らないと損をする、フィッシング撲滅の切り札「DMARC」（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/091500919/</link>
-			<description><![CDATA[　メールソフトの送信者名欄などに表示される「送信者アドレス」は、送信者が設定できる情報なので信用してはいけない。詐称されていることがある。だが、新しい迷惑メール対策技術「DMARC」の登場により、その常識が変わろうとしている。]]></description>
-			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>店奥までの誘導客を2割増やす、エッジで店内動画を分析（クラウド・エッジ戦国時代）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090600369/090600004/</link>
-			<description><![CDATA[　福岡県福岡市のトライアルホールディングスは2017年中にエッジコンピューティングを活用した新システムを本格導入する。ディスカウントストアであるトライアルカンパニーの親会社である。]]></description>
-			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>KDDIとソフトバンク、出資動向で分かる戦略の違い（情総研レポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/091300060/</link>
-			<description><![CDATA[　KDDIとソフトバンクは、成長領域と思われる事業分野への出資を積極的に推進している。その背景と出資動向から、両社の戦略の方向性を分析する。]]></description>
-			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>SSDへの交換で「待たされノートPC」が爆速に（青木恵美の信州ITラプソディ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/042700098/091400038/</link>
-			<description><![CDATA[　自分好みにセットアップしたノートPCを最初は喜んで使っていたが、だんだん使うのがおっくうになってしまった。Windowsの起動やスリープからの復帰、アプリの起動、Windows Updateなどの待ち時間が長く、なかなか作業が思ったようにできないためだ。]]></description>
-			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>引く手あまたのセキュリティエンジニア、攻撃手法や国際規格の事情通（新・ITエンジニア図鑑）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100297/083100016/</link>
-			<description><![CDATA[　セキュリティエンジニアの役割は、システムの設計にかかわる上流工程からインシデント対応まで幅広い。事故が起こったら、迅速に状況を把握するスキルが必要。一方で、数多くある業界ごとの規約を理解し、適切に設計するスキルも求められる。]]></description>
-			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>インパクト不足のiPhone X、気になるのはLTE搭載のApple Watch Series 3（「iPhone X」は買いか？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091300375/092000006/</link>
-			<description><![CDATA[　蓋を開けてみると、「iPhone 8」「iPhone 8 Plus」そして「iPhone X」が発売されることが正式に発表されたわけだ。では今年、筆者は新iPhoneを購入するのかというと、現在のところは見送りの方向に気持ちが傾いているのが正直なところである。その理由は“キラー”となる要素が不在、あるいは成熟しきっていないと感じたためだ。]]></description>
-			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>7800円の最安級スマホ「g06＋」、Jアラート対応の気配り端末だった（SIMフリースマートフォンを徹底レビュー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/092000048/</link>
-			<description><![CDATA[　2017年7月31日に発売された「g06＋」。NTTレゾナントが「gooのスマホ」というブランドで発売するモデルで、直販でOCNモバイルONEに加入する場合は7800円（税別）で入手できる。日本最安値のSIMフリースマホと言える本機を1週間試用し、実際の使い勝手をチェックしてみた。]]></description>
-			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ラズパイが自宅Dropboxになる「NextCloudPi」（週末に遊べるラズパイ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/092100023/</link>
-			<description><![CDATA[　手のひらサイズで4000円台のPCボード「Raspberry Pi（ラズパイ）」をDropbox風のオンラインストレージとして使えるようになるLinux OSが「NextCloudPi」です。公式のラズパイ向けOSイメージがあるため、書き込むだけで簡単に導入できます。]]></description>
-			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本にも続々上陸、「次世代スマホ」の注目株は？（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/092000344/</link>
-			<description><![CDATA[　ドイツ・ベルリンで開催された家電・ITの総合見本市イベント「IFA 2017」では、いくつかの海外メーカーがスマートフォン新機種を発表した。今後、日本に上陸するのはどれか。]]></description>
-			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>物流ピンチを商機に、三井不動産がロボット倉庫（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/092001126/</link>
-			<description><![CDATA[　三井不動産は2017年9月13日、倉庫業務を効率化するためのIT関連設備・機器、システムなどを紹介するショールームを千葉県船橋市の同社倉庫内に新設した。自動倉庫システムなど、ITを活用した16種類の設備や機器類を実演展示。コンサルティングも提供して物流業者や荷主企業の取り込みを図る考えだ。]]></description>
-			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>COBOLやVB6との決別、初手は不良資産の一掃（ITシステムのダイエット術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091500378/092000005/</link>
-			<description><![CDATA[　COBOLアプリケーションをJavaで書き直すなど、新たな開発言語で再構築する「リライト」は、業務仕様を基本的に変えない。リライトの際は、既存資産から不要資産をいかに取り除くかが、スリム化のポイントとなる。]]></description>
-			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>狙われやすいセキュリティの弱点、攻撃者の手法で見つける（セキュリティ診断のイロハ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/061600244/091100011/</link>
-			<description><![CDATA[　攻撃者に狙われやすいCMS（コンテンツ・マネジメント・システム）の脆弱性を、専用の脆弱性ツールで診断してみよう。狙われやすいWebコンテンツは、Googleの検索演算子を駆使して見つけることができる。]]></description>
-			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Microsoft Officeが最近ややこしい、どう選ぶのが得？（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/092000345/</link>
-			<description><![CDATA[　最近のマイクロソフトオフィスは種類が多いうえに、ライセンスの内容がバラバラで大変ややこしい。それぞれどう違うのか、ここでまとめて整理しよう。]]></description>
-			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IT人材が転職で重視すること、経産省調査で分かった上位11項目（IT人材の給与）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090400366/091800003/</link>
-			<description><![CDATA[　IT人材が転職時に最も重視する項目は「給与・報酬」である――。こんな結果が経済産業省の調査によって得られた。]]></description>
-			<pubDate>Fri, 22 Sep 2017 05:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：iPhone Xを選ぶ5つの理由（「iPhone X」は買いか？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091300375/091900004/?d25</link>
+			<description><![CDATA[　iPhone Xは、最近はiPhoneとAndroidスマートフォンの2台持ちが当たり前になっていた筆者にとって「買わない理由が見当たらない」1台だ。2台持ちに至っていた不便さを、ホームボタンの廃止や顔認証の導入で一気に解消してくれる。]]></description>
+			<pubDate>Thu, 21 Sep 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>プロジェクトマネジメントに欠かせない7つのスキル（後）（プロジェクトマネジメントに欠かせない7つのスキル）</title>
@@ -334,6 +256,42 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/092200391/092200001/</link>
 			<description><![CDATA[　「この10年で最大規模となるプラットフォームの進化だ」。インテルは、7月に開催した製品発表会で新しいサーバー向けCPU「Xeonスケーラブル・プロセッサー」について、そう表現した。今回から新たに「Platinum」「Gold」「Silver」「Bronze」というサブブランドを導入。一気に51モデルを投入した。世代交代を迎えた新Xeonは、これまでと何が違うのか。]]></description>
 			<pubDate>Mon, 25 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>データマイニングとは何か（上）（データマイニングとは何か）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　データマイニングとは、自動化されたプロセスで巨大なデータセットを精査して、傾向やパターンを見極めたり、関係を立証したりすることである。その目的は、ビジネス上の問題を解決することや、データ分析を通じて新たな機会を生み出すことにある。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　現在、企業が収集する情報は増加の一途をたどっている。そのデータソースも、Webサイト、エンタープライズアプリケーション、ソーシャルメディア、モバイルデバイス、そしてますます増えるIoTと、あらゆる種類に及ぶ。</p>
+
+<p>　こうした情報から本物のビジネス価値を引き出すにはどうすればよいのだろうか。これは大きな課題である。そこで大いに力となるのがデータマイニングだ。データマイニングとは、自動化されたプロセスで巨大なデータセットを精査して、傾向やパターンを見極めたり、関係を立証したりすることである。その目的は、ビジネス上の問題を解決することや、データ分析を通じて新たな機会を生み出すことにある。</p>
+
+<p>　データに目を向けて、これまでに何が起きたかを把握することによって、現時点で賢明な行動を取れるというだけではない。データマイニングのツールや手法を使うと、今後何が起きるかを予測して、それに応じて行動し、来たるべきトレンドを生かすことができる。</p>
+
+<p>　IT業界でデータマイニングという言葉は非常に広い意味で使われている。一般には、データの収集、抽出、格納、分析など、各種の大規模データ処理を表すことが多い。また、人工知能（AI）、機械学習、ビジネスインテリジェンスなど、意思決定を支援するアプリケーションやテクノロジーを含む場合もある。</p>
+
+<p>　データマイニングは、製品開発、セールス、マーケティング、遺伝子学、サイバネティクスをはじめ、ビジネスや研究のさまざまな分野で使われている。データマイニングと予測分析を組み合わせて正しく活用すれば、こうした手法を利用していない競合他社より、かなり優位に立つことができる。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900001/?ST=cio-management&P=2">データマイニングがもたらすビジネス価値</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900001/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900001/?ST=cio-management&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 25 Sep 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
