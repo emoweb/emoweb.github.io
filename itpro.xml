@@ -5,50 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>FacebookのPHP／Hack実行環境「HHVM」、今後は対象をHackに限定へ（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092200418/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　PHPの高速実行環境として米Facebookが開発した「HHVM（Hip Hop Virtual Machine）」が、PHPの最新メジャーバージョン「PHP 7」をターゲットから外す方針を明らかにした。今後は、PHPの派生言語「Hack」に対象を絞る。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092200418/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　「PHP 5」に関しては、HHVMの次回のLTS（長期サポート版）であるバージョン3.24（2018年初めに登場予定）が、PHP 5を正式にサポートする最後のバージョンとなる。
-</p>
-<p>
-　HHVM開発チームの公式ブログ記事には次のように説明がある。「PHP 7とHackの両方をサポートしようとすると、望ましくない妥協が両方の側面で生じる。我々は、PHPからの分離をさらに進める意向だ。PHPの設計の最初期からある大きな死角すべてに責を負う必要をなくし、Hackを素晴らしいものにしていくためだ」
-</p>
-<p>
-　PHP 7は、PHP 5の後継バージョンだ（PHP 6はリリースされなかった）。PHP 5からの変化はかなり大きく、いくつかの挙動が変わっていて、その中には旧バージョンとの互換性がないものもある。PHP 7がPHP 5から離れていこうとする中、HHVMも同じように離れていきたいというのが開発チームの望みだ。「したがって、今後HHVMはPHP 7をターゲットにする意向はない。派生元のPHPから解放された状態で、HackをWeb開発用の優秀な言語にしていくという明確な道筋がHHVMチームにはあると我々は信じている」
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092200418/?ST=cm-software&P=2">Facebookはここ何年も、HHVMをほぼHackの実行にのみ...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092200418/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092200418/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092200418/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 22 Sep 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソフトバンクが「iPhone 8」発売イベント開催、ゲストに上戸 彩さんら登場（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092202307/</link>
-			<description><![CDATA[　ソフトバンクは2017年9月22日、東京・銀座にある同社の旗艦ショップ「ソフトバンク銀座」で、アップルのスマートフォン最新モデル「iPhone 8／iPhone 8 Plus」と「Apple Watch Series 3」の発売セレモニーを開催した。]]></description>
-			<pubDate>Fri, 22 Sep 2017 11:00:19 +0900</pubDate>
-		</item>
-		<item>
 			<title>50GBプランへの追随は「まあいいかな」、KDDI田中社長がiPhone8料金でソフトバンクをチクリ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092202308/</link>
 			<description><![CDATA[　KDDI（au）は2017年9月22日、米アップルのスマートフォン（スマホ）新機種「iPhone 8」「同 Plus」の発売セレモニーを実施した。田中孝司社長はiPhone 8向け料金について、「『auの料金は安いよね』と言える」と自信を示した。]]></description>
@@ -289,6 +245,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092502320/</link>
 			<description><![CDATA[　インターネットサービスを提供するさくらインターネットは2017年9月25日、外部からのDoS攻撃で同社のレンタルサーバーに接続できなくなる障害が発生したと発表した。]]></description>
 			<pubDate>Mon, 25 Sep 2017 14:05:26 +0900</pubDate>
+		</item>
+		<item>
+			<title>オファー段階で年収保証、IoTやAIに特化の転職サービス「moffers」が開始（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092502321/</link>
+			<description><![CDATA[　リクルートキャリアは2017年9月25日、IoT、自動運転、AIなどの先端技術に特化した転職支援サービス「moffers」を開始した。特徴は「年収保証型オファー」を提供する点。企業が面接への参加を求職者に依頼する際、年収の提示を必須としている。提示された年収の9割以上を保証する。]]></description>
+			<pubDate>Mon, 25 Sep 2017 15:07:17 +0900</pubDate>
+		</item>
+		<item>
+			<title>ママ向けQ＆Aアプリ「ママリ」が有償サービス、「au契約者以外でも収益拡大」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092502322/</link>
+			<description><![CDATA[　KDDI（au）とKDDIグループのコネヒトは2017年9月25日、妊娠や育児中の母親向けQ＆Aアプリ「ママリ」の会員向け有料サービス「ママリプレミアム」を発表した。検索した質問をアクセス数やお気に入り登録数などを基に表示する「人気順検索」やコンビニや通販サービスなどの割り引きクーポンが使える。]]></description>
+			<pubDate>Mon, 25 Sep 2017 15:45:54 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
