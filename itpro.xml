@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：ANAや電通など8社、セキュリティ強化に向けて55億円出資（速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/041801182/?n27</link>
-			<description><![CDATA[　セキュリティ技術を提供するBlue Planet-worksは2017年4月18日、ANAホールディングスや電通などの国内企業8社から合計55億円を資金調達したと発表した。2017年6月よりセキュリティ製品の出荷を開始する予定。]]></description>
-			<pubDate>Tue, 18 Apr 2017 15:06:19 +0900</pubDate>
-		</item>
-		<item>
 			<title>PaaSが進化、もっと安く手離れ良く（クラウド・エッジ戦国時代）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090600369/090600006/</link>
 			<description><![CDATA[　DeNAの菅原賢太グループマネジャーは同社の米国子会社でグーグルのPaaSを全面採用した経験から、任天堂とのスマホ向けゲーム開発でもグーグルのPaaSを導入した。]]></description>
@@ -265,6 +259,84 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092602346/</link>
 			<description><![CDATA[　インテルは2017年9月26日、デスクトップPC向けの新CPU「第8世代Coreプロセッサー（開発コード名：Coffee Lake-S）」に関する説明会を開催した。一般的なPCで使われるCore-i7／i5／i3のCPUコアを2個増やし、4～6コアに増やした。2017年第4四半期に出荷する。]]></description>
 			<pubDate>Tue, 26 Sep 2017 19:36:39 +0900</pubDate>
+		</item>
+		<item>
+			<title>本気のiPhone Xは2年後に登場、Touch IDの復活もあるか（「iPhone X」は買いか？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091300375/092200008/</link>
+			<description><![CDATA[　筆者のiPhone Xに対する評価は割と辛辣だ。筆者が購入を見送るというだけでなく、「とにかく新しもの好きで最先端の製品を持っていないと気が済まないユーザー」「iOSアプリ開発者」という2つの層に該当しないのなら購入をお勧めしない。]]></description>
+			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Webアプリの脆弱性、機械学習で自動検出する新技術（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/092501132/</link>
+			<description><![CDATA[　機械学習を利用して、Webサイトが抱えるクロスサイトスクリプティング（XSS）の脆弱性を自動検出する技術が登場した。Webサイト側でXSSへの対策を施していても、それをかいくぐって攻撃するパターンまで見つけてくれる。]]></description>
+			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AWS対抗のSAP特化型クラウド、台風の目となるか（クラウド・エッジ戦国時代）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090600369/090600007/</link>
+			<description><![CDATA[　特定用途に特化してAWSに対抗するベンダーもある。米バーチャストリームは欧州SAP製アプリに特化したクラウドを手掛ける。伊藤忠テクノソリューションズ（CTC）が「CUVICmc2」の名前でバーチャストリーム製のクラウドを2016年8月から運用。]]></description>
+			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「家電好き」だけが受け入れるIoTでは意味がない（インタビュー＆トーク）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/092000348/</link>
+			<description><![CDATA[　NECパーソナルコンピュータ（NECPC）の発表したIoT基盤「plusbenlly」について、事業の狙いや背景をNECPCとレノボ・ジャパンの社長を兼任し一体経営を進める留目真伸社長に聞いた。]]></description>
+			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>短納期時代に重用される、PM兼SEという仕事（新・ITエンジニア図鑑）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100297/083100019/</link>
+			<description><![CDATA[　エンタープライズ系の開発現場でも、新たな技術の波が押し寄せる。短納期が求められ、開発メンバーは少人数に絞られる。そんな中でリーダーの立ち位置にいるエンジニアは、従来のPMやSEといった縦割りの役割では表現できない業務をこなすことが求められている。]]></description>
+			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>パスワードが公開された公衆無線LAN、暗号化されていても盗聴できる？（セキュリティ大実験室 2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090600370/091100008/</link>
+			<description><![CDATA[　WEPだと盗聴される危険性が高いが、WPAやWPA2なら安心だと思っている人は少なくないだろう。ただ、WPAやWPA2の無料Wi-Fiサービスでも、安全だろうか。検証してみた。]]></description>
+			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>クラウド移行の手軽さ訴求、AWSとヴイエムウェアが大企業囲い込みへ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/092501134/</link>
+			<description><![CDATA[　AWSの「弱点」を補う新サービスをヴイエムウェアが始めた。AWSはオンプレミスの顧客の取り込みを目指す。一方のヴイエムウェアはIBMとも提携拡大、全方位でソフト拡販を狙う。]]></description>
+			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ハードウエア事業で失敗続きのグーグル、HTC買収は吉と出るか？（北川 賢一のIT業界乱反射）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800200/092500027/</link>
+			<description><![CDATA[　2012年に125億ドル（当時の為替レートで1兆円）で買収した会社をわずか2年後に4分の1の29億1000万ドルで売却するという、経営史に残る失策をしでかした米アルファベット傘下のグーグルは2017年9月21日、こともあろうに同種の事業を11億ドル（約1230億円）で買収した。]]></description>
+			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>PMBOK第6版、プロマネ必見の新ビジネス文書2つ（ポイント分析 PMBOK第6版）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091900386/092200004/</link>
+			<description><![CDATA[　PMBOK（Project Management Body Of Knowledge）ガイド第6版は、第3章を「プロジェクトマネジャーの役割」に当て、プロジェクトマネジャーに求められる3つのコンピテンシー（能力）を記述している。3つの能力のうち、注目すべきは戦略的及びビジネスのマネジメントだ。ものづくりにとどまらず、経営戦略やビジネスを理解してプロジェクトを運営することを求めている。]]></description>
+			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「日本の弱点は復元力のなさ」、齋藤ウィリアム浩幸氏（インタビュー＆トーク）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/092500350/</link>
+			<description><![CDATA[　日本企業に必要なのは「レジリエンス（復元力）」、そして「安全・安心こそ日本の輸出産業」と語る内閣府参与、経済産業省参与の齋藤ウィリアム浩幸氏。日本が置かれたICT、そしてサイバーセキュリティの現状についての考えやビジョンを聞いた。]]></description>
+			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「デザイン能力がないデザイナー」だけど、圧倒的な企画力で突き抜ける（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/092500021/</link>
+			<description><![CDATA[　今月取り上げるのは、一般向けの投資サービスを手掛けるFinTechベンチャーの「FOLIO」でCDO（Chief Design Officer）を務める広野萌（ひろのはじめ）氏。デザイナーの立場から同社のサービス開発をリードしている。今回は、パソコンに触れるようになったきっかけから前職のヤフーでの取り組みまでを聞いた。]]></description>
+			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>文系女子高生をどん底から救ったプログラミングの魅力（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/092500922/</link>
+			<description><![CDATA[　「プログラミングの魅力を知って、大学進学も取りやめてエンジニアの道を選んだ」という19歳の河野湖々さん。人生のどん底にいたときにプログラミングに出合い、強烈な感動を覚えたことが人生の転機になった。]]></description>
+			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>暗号化をハードで超高速処理、新Xeonの外側で強化された機能（新型Xeonは何が変わったか）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/092200391/092600003/</link>
+			<description><![CDATA[　インテルの新しいサーバー向けCPU、Xeonスケーラブル・プロセッサーは、これまで分かれていた製品ラインアップを統合し、「Platinum」「Gold」「Silver」「Bronze」というサブブランドを新たに設けた。今回は、新しいXeonのプラットフォームがどうなったのかを解説する。]]></description>
+			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
