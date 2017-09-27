@@ -5,17 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    海外版iPhone 8を入手、日本版との違いは？
-</title>
-			<link>http://japanese.engadget.com/2017/09/25/iphone-8/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/f6d675db6e0652828b7febfc581518b/205701878/22017090_10208253687739319_935614726_o.jpg" />
-EXPANSYS JAPANで販売が開始された海外版iPhone 8のお話です。SIMフリー版がAppleから公式にリリースされている現代において、ほとんどの方には意味のない情報かもしれませんが、細かい違いこそ好物という方も多そうなので。あまり書くこともないのですが、一部の方はリスキーの続きとお考えください。
-
-
- ]]></description>
-			<pubDate>Mon, 25 Sep 2017 07:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    1978年の今日、初の日本語ワープロが発表されました：今日は何の日？
 </title>
 			<link>http://japanese.engadget.com/2017/09/25/1978/</link>
@@ -603,6 +592,28 @@ OLEDの量産開始は「2019年度」
 なお高付加価値市場で主流になりつつあるOLEDの量産開始については「2019年度」と前回発表から据え置き。iPhoneが一部機種からOLEDへの移行を進める中では、遅すぎるようにも思えますが、それまでの繋ぎとしてFULL ACTIVEを訴求したい狙いも透けて見えます。
  ]]></description>
 			<pubDate>Wed, 27 Sep 2017 02:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    「Office 2019」は2018年後半リリース、クラウド主体に移行できない環境にも最新機能を提供
+</title>
+			<link>http://japanese.engadget.com/2017/09/27/office-2019-2018/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/3defbd5527945c966f9e4c18623653d1/205708891/main.jpg" />
+マイクロソフトが米オーランドで開催中のイベント Microsoft Igniteにて、オフィススイートの最新版Office 2019を2018年後半にリリースすると発表しました。プレビュー版は2018年中頃に提供開始となる見込み。
+
+特に注目はExcelで、新しい数式やグラフ機能にくわえ、Bing APIを利用してインターネットから情報と取り込むことも可能になります。さらにExcelで情報を分析するために作成した機械学習モデルを利用したり、JavaScriptを使用してのデータ操作やサードパーティのサービスまたはAPIからデータを取り込むと行ったことが可能になるとのこと。
+
+一方、PowerPonintではモーフィングとズームのようなビジュアルアニメーション機能が追加され、さらに磨きがかったプレゼンを制作可能になるとしています。
+
+マイクロソフトは、Igniteの目玉としてクラウド連携機能の強化を掲げていますが、Officeユーザーには完全にクラウドに移行しない(できない)人々がいることも理解かつ重要視しているため、サブスクリプション型のOffice 365に統一するのでなく、ライセンス買い切り型のOffice 2019を準備しているとのこと。
+
+Office 2019にはWord /Excel /PowerPoint /Outlookといった昔ながらのアプリケーションに加え、Exchange /SharePoint /Skype for Businessといったサーバーを介するサービスが含まれます。
+
+なお、今回の発表で紹介された機能強化はまだほんのさわり程度。マイクロソフトは今後数か月のうちにOffice 2019の詳細を公表するとしています。
+
+ 
+
+ ]]></description>
+			<pubDate>Wed, 27 Sep 2017 03:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
