@@ -5,24 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    動画：3つのスマホはこれだけ違う、ASUS ZenFone 4を動画で比較。価格は4.3〜9万円、アナタは何を重視する？
-</title>
-			<link>http://japanese.engadget.com/2017/09/25/3-asus-zenfone-4-4-3-9/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/fe415a1b7ce58df012b25d3d3933a6c7/205699927/zf4.jpg" />
-Engadget 日本版 YouTubeチャンネルより。ASUSから発売されたばかりのZenFone 4、ZenFone 4 Selfie Proを借りたので、10月発売予定のZenFone 4 Proも含めて端末選びのポイントを動画で比較します。
-
-なお、このレビューとは別件ですが、ZenFone 4が抽選で当たるプレゼント企画もやっているのでよろしかったらどうぞ。
-
- 
-
-動画：ASUS ZenFone 4 プレゼントします！Engadget 日本版 Twitter &amp; YouTube連動企画
-ASUS「ZenFone 4」国内発表｡ 標準､自撮りの2モデルが9月23日発売､Proモデルは10月下旬
-ZenFone 4 実機レビュー。デュアルカメラにくわえ強力なサウンド調整機能に好感
-
- ]]></description>
-			<pubDate>Mon, 25 Sep 2017 23:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    BOSE初の完全無線イヤホンSoundSport Freeは国内11月17日発売、2万7000円
 </title>
 			<link>http://japanese.engadget.com/2017/09/25/bose-soundsport-free-11-17-2-7000/</link>
@@ -631,6 +613,30 @@ Xperia XZ Compactの詳細レビューについては、くんこく氏に引き
 価格は色やメモリ構成などのエディションに応じて249~299米ドル（28,000円~33,600円）を予定。2018年にクラウドファンディングサイトIndeigogoで予約スタートとされ、本当に発売されそうです。
  ]]></description>
 			<pubDate>Wed, 27 Sep 2017 05:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    倍速化うたう｢Firefox Quantum｣ベータ版公開｡超高速CSSエンジンやUIなど改良多数､正式版は11月14日
+</title>
+			<link>http://japanese.engadget.com/2017/09/27/2-firefox-quantum-css-ui-11-14/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/365ddbf5ec18e0b0a5c72ef5357413fe/205709226/FQ.png" />
+
+Mozillaがデスクトップ版ウェブブラウザー「Firefox Quantum」を発表しました。本来ならFirefox 57と呼ばれる予定だったものの、大幅なパフォーマンス向上をユーザーに広く伝えるために改名したとのこと。まだベータ版ながら、Firefox QuantumはこれまでのFirefoxに比べて2倍速く、メモリ消費をChromeより30%少なくし、他のソフトウェアへの影響も少ないとその優位性をアピールしています。
+
+2倍という高速化は、Rust言語を用いて開発した超高速CSSエンジン、使用しているタブにアクティブに優先順位を割当て、さらにマルチコア/マルチプロセスへの対応といった技術の組み合わせによって実現しているとのこと。さらにMozillaはここ数か月間で468もの問題修正を加えたとしています。
+
+UIにも新しくPhotonとコード名を付けられた新UIを採用。タブのデザインは角丸からスクエアに、操作に合わせて一部アイコンはアニメーションし、ライブラリー機能ではブックマークや"あとで読む"機能のPocket、履歴などへのアクセスを容易にしたとのこと。
+
+そして、Firefoxブラウザーを使っていく上でもっとも目にするアイコンデザインも、約4年ぶりに刷新。明るくメリハリのある色合いとともに、狐の尻尾のボリュームが増したデザインに変わりました。
+
+Firefox Quantum正式版のリリース日は11月14日。公式ページに登録すれば、利用可能になったときに通知を受け取ることができます。またすでにベータ版が公開済みで、誰でもダウンロードして試せます。
+
+ 
+
+
+
+[Image : Mozilla]
+ ]]></description>
+			<pubDate>Wed, 27 Sep 2017 05:30:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
