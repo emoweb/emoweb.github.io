@@ -274,5 +274,41 @@
 			<description><![CDATA[　日本マイクロソフトは2017年9月12日、2017年秋に提供予定のWindows 10のアップデート（Fall Creators Update）において、ゼロデイ脆弱性の“特効薬”として知られる「EMET（エメット）」をWindows 10に標準装備することを明らかにした。]]></description>
 			<pubDate>Fri, 29 Sep 2017 05:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>データマイニングとは何か（下）（データマイニングとは何か）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　データマイニングとは、自動化されたプロセスで巨大なデータセットを精査して、傾向やパターンを見極めたり、関係を立証したりすることである。その目的は、ビジネス上の問題を解決することや、データ分析を通じて新たな機会を生み出すことにある。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900002/" target="_blank">前回</a>から続く）</p>
+
+<h4>データマイニングのリスクと課題</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900003/ph3.jpg" width="300" alt="" title=""></div></div>
+
+<p>　データマイニングには、特有のリスクや課題がある。機密情報や個人識別可能情報が対象に含まれるテクノロジーでは常に言えるように、セキュリティとプライバシーが特に大きな懸念だ。</p>
+
+<p>　根本的な部分で言うと、マイニングの対象データは、完全かつ正確で信頼できるデータでなくてはならない。結局のところ、こうしたデータは、ビジネス上の重大な意思決定に使ったり、あるいは、各方面（一般大衆、規制当局者、投資家、ビジネスパートナー）との意思疎通に使うことも多いからだ。また、現代的な形式のデータには、新しい種類のテクノロジーが必要だ。例えば、各種の分散コンピューティング環境のデータセットの統合（いわゆるビッグデータ統合）を行うためのテクノロジーや、従来より複雑なデータ（画像、動画、時間データ、空間データなど）を扱うためのテクノロジーだ。</p>
+
+<p>　正しいデータを取得して、マイニングできるようにまとめ上げたとしても、IT部門の課題はそれで終わりではない。クラウド、ストレージ、ネットワークの各システムが、データマイニングツールのハイパフォーマンスな処理を支えられるようでなくてはならない。また、データマイニングで得られた情報は、多種多様なユーザーが行動の基盤にしたり解釈したりすることが想定され、そうしたユーザーに向けて明確に提示しなくてはならない。必要となるのは、データサイエンスや関連分野のスキルを持つ人材だ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900003/?ST=cio-management&P=2">プライバシーの観点では、人々が何をしたか、何を買...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900003/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900003/?ST=cio-management&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900003/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 29 Sep 2017 06:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
