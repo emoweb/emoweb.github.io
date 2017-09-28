@@ -5,176 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>本気のiPhone Xは2年後に登場、Touch IDの復活もあるか（「iPhone X」は買いか？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091300375/092200008/</link>
-			<description><![CDATA[　筆者のiPhone Xに対する評価は割と辛辣だ。筆者が購入を見送るというだけでなく、「とにかく新しもの好きで最先端の製品を持っていないと気が済まないユーザー」「iOSアプリ開発者」という2つの層に該当しないのなら購入をお勧めしない。]]></description>
-			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Webアプリの脆弱性、機械学習で自動検出する新技術（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/092501132/</link>
-			<description><![CDATA[　機械学習を利用して、Webサイトが抱えるクロスサイトスクリプティング（XSS）の脆弱性を自動検出する技術が登場した。Webサイト側でXSSへの対策を施していても、それをかいくぐって攻撃するパターンまで見つけてくれる。]]></description>
-			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AWS対抗のSAP特化型クラウド、台風の目となるか（クラウド・エッジ戦国時代）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090600369/090600007/</link>
-			<description><![CDATA[　特定用途に特化してAWSに対抗するベンダーもある。米バーチャストリームは欧州SAP製アプリに特化したクラウドを手掛ける。伊藤忠テクノソリューションズ（CTC）が「CUVICmc2」の名前でバーチャストリーム製のクラウドを2016年8月から運用。]]></description>
-			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「家電好き」だけが受け入れるIoTでは意味がない（インタビュー＆トーク）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/092000348/</link>
-			<description><![CDATA[　NECパーソナルコンピュータ（NECPC）の発表したIoT基盤「plusbenlly」について、事業の狙いや背景をNECPCとレノボ・ジャパンの社長を兼任し一体経営を進める留目真伸社長に聞いた。]]></description>
-			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>短納期時代に重用される、PM兼SEという仕事（新・ITエンジニア図鑑）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/072100297/083100019/</link>
-			<description><![CDATA[　エンタープライズ系の開発現場でも、新たな技術の波が押し寄せる。短納期が求められ、開発メンバーは少人数に絞られる。そんな中でリーダーの立ち位置にいるエンジニアは、従来のPMやSEといった縦割りの役割では表現できない業務をこなすことが求められている。]]></description>
-			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>パスワードが公開された公衆無線LAN、暗号化されていても盗聴できる？（セキュリティ大実験室 2017）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090600370/091100008/</link>
-			<description><![CDATA[　WEPだと盗聴される危険性が高いが、WPAやWPA2なら安心だと思っている人は少なくないだろう。ただ、WPAやWPA2の無料Wi-Fiサービスでも、安全だろうか。検証してみた。]]></description>
-			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>クラウド移行の手軽さ訴求、AWSとヴイエムウェアが大企業囲い込みへ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/092501134/</link>
-			<description><![CDATA[　AWSの「弱点」を補う新サービスをヴイエムウェアが始めた。AWSはオンプレミスの顧客の取り込みを目指す。一方のヴイエムウェアはIBMとも提携拡大、全方位でソフト拡販を狙う。]]></description>
-			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ハードウエア事業で失敗続きのグーグル、HTC買収は吉と出るか？（北川 賢一のIT業界乱反射）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800200/092500027/</link>
-			<description><![CDATA[　2012年に125億ドル（当時の為替レートで1兆円）で買収した会社をわずか2年後に4分の1の29億1000万ドルで売却するという、経営史に残る失策をしでかした米アルファベット傘下のグーグルは2017年9月21日、こともあろうに同種の事業を11億ドル（約1230億円）で買収した。]]></description>
-			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>PMBOK第6版、プロマネ必見の新ビジネス文書2つ（ポイント分析 PMBOK第6版）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091900386/092200004/</link>
-			<description><![CDATA[　PMBOK（Project Management Body Of Knowledge）ガイド第6版は、第3章を「プロジェクトマネジャーの役割」に当て、プロジェクトマネジャーに求められる3つのコンピテンシー（能力）を記述している。3つの能力のうち、注目すべきは戦略的及びビジネスのマネジメントだ。ものづくりにとどまらず、経営戦略やビジネスを理解してプロジェクトを運営することを求めている。]]></description>
-			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「日本の弱点は復元力のなさ」、齋藤ウィリアム浩幸氏（インタビュー＆トーク）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/092500350/</link>
-			<description><![CDATA[　日本企業に必要なのは「レジリエンス（復元力）」、そして「安全・安心こそ日本の輸出産業」と語る内閣府参与、経済産業省参与の齋藤ウィリアム浩幸氏。日本が置かれたICT、そしてサイバーセキュリティの現状についての考えやビジョンを聞いた。]]></description>
-			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「デザイン能力がないデザイナー」だけど、圧倒的な企画力で突き抜ける（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/092500021/</link>
-			<description><![CDATA[　今月取り上げるのは、一般向けの投資サービスを手掛けるFinTechベンチャーの「FOLIO」でCDO（Chief Design Officer）を務める広野萌（ひろのはじめ）氏。デザイナーの立場から同社のサービス開発をリードしている。今回は、パソコンに触れるようになったきっかけから前職のヤフーでの取り組みまでを聞いた。]]></description>
-			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>文系女子高生をどん底から救ったプログラミングの魅力（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/092500922/</link>
-			<description><![CDATA[　「プログラミングの魅力を知って、大学進学も取りやめてエンジニアの道を選んだ」という19歳の河野湖々さん。人生のどん底にいたときにプログラミングに出合い、強烈な感動を覚えたことが人生の転機になった。]]></description>
-			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>暗号化をハードで超高速処理、新Xeonの外側で強化された機能（新型Xeonは何が変わったか）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/092200391/092600003/</link>
-			<description><![CDATA[　インテルの新しいサーバー向けCPU、Xeonスケーラブル・プロセッサーは、これまで分かれていた製品ラインアップを統合し、「Platinum」「Gold」「Silver」「Bronze」というサブブランドを新たに設けた。今回は、新しいXeonのプラットフォームがどうなったのかを解説する。]]></description>
-			<pubDate>Wed, 27 Sep 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>うつ病改善にスマホアプリは効果的？豪研究チームが調査結果を発表（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092700420/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　うつ病を治療するための手段としてスマートフォンアプリが効果的であることを実証する調査結果を、オーストラリアの研究チームが発表した。
-</p>
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092700420/ph.jpg" width="300" alt="" title=""></div></div>
-<p>
-　この調査を行ったのは、オーストラリアの国立機関であるNational Institute of Complementary Medicine（NICM）と、同国のメンタルヘルス関連の非営利機関であるBlack Dog Instituteの研究者らのチームで、米ハーバード・メディカルスクールと英マンチェスター大学の研究者も協力した。研究チームは、スマートフォンを使って心理的介入を行う22種類のアプリについて、18件の試験結果を分析した。
-</p>
-<p>
-　試験対象者は、18～59歳の合計3400人余り。メンタルヘルスの状態は、重度のうつ病、軽度～中等度のうつ病、双極性障害、不安障害、不眠症など、多岐にわたる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092700420/?ST=cm-software&P=2">分析結果によると、マインドフルネス、認知行動療法、気分のモニタリ...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092700420/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092700420/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092700420/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092700420/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 27 Sep 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>メルカリでアクセス障害発生、「短時間だからユーザーに案内しない」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092702347/</link>
-			<description><![CDATA[　フリーマーケットサービスの「メルカリ」は2017年9月26日21時半頃、サービスのWebページにアクセスできない障害が発生した。22時前に障害は解消。20分ほどの間、商品の閲覧や購入、取引の確認などができなかった。]]></description>
-			<pubDate>Wed, 27 Sep 2017 12:06:49 +0900</pubDate>
-		</item>
-		<item>
-			<title>EMCジャパン、サイバー攻撃調査を効率化する製品の新版を発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092702348/</link>
-			<description><![CDATA[　EMCジャパンは2017年9月27日、サイバー攻撃のインシデント調査を効率化する製品「RSA NetWitness Logs」「RSA NetWitness Packets」の最新版であるバージョン11を発売すると発表した。新版は、より視覚的に理解しやすいインタフェースや、クラウドにも対応した点が特徴だ。]]></description>
-			<pubDate>Wed, 27 Sep 2017 16:17:01 +0900</pubDate>
-		</item>
-		<item>
-			<title>AI機械学習に特化した新会社を設立、フジテレビグループのCVCなど3社（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092702349/</link>
-			<description><![CDATA[　フジテレビグループのコーポレートベンチャーキャピタル（CVC）であるフジ・スタートアップ・ベンチャーズと、トランスコスモス、チームラボの3社は2017年9月27日、AI（人工知能）に不可欠な機械学習に特化したサービスを提供する新会社を共同で設立し、AIコンサルティング事業を同日に開始したと発表した。新会社の名称はマシンラーニング・ソリューションズ（MLS）である。]]></description>
-			<pubDate>Wed, 27 Sep 2017 17:04:58 +0900</pubDate>
-		</item>
-		<item>
-			<title>北洋銀行でシステム障害、ネットワーク機器の障害で窓口業務が1時間半できず（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092702350/</link>
-			<description><![CDATA[　北洋銀行は2017年9月27日、同日午前9時55分から11時35分までシステム障害が発生したことを明らかにした。原因はネットワーク機器の障害としている。]]></description>
-			<pubDate>Wed, 27 Sep 2017 17:35:45 +0900</pubDate>
-		</item>
-		<item>
-			<title>グーグルのクラウドが1秒単位課金へ、AWS発表から8日後に「先手」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092702351/</link>
-			<description><![CDATA[　米グーグルは2017年9月26日（米国時間）、公式ブログで同社のクラウド「Google Cloud Platform（GCP）」の仮想マシンサービスを1秒単位の課金に変更すると発表した。同日から適用した。従来は1分単位の課金だった。]]></description>
-			<pubDate>Wed, 27 Sep 2017 17:38:48 +0900</pubDate>
-		</item>
-		<item>
-			<title>シスコがシステム管理クラウド「Cisco Intersight」を発表、将来はAIで自律運用も（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092602344/</link>
-			<description><![CDATA[　シスコシステムズは2017年9月26日、システム管理のパブリッククラウドサービス「Cisco Intersight」を発表した。サーバー、ネットワーク、統合管理ツールを統合した装置「Cisco UCS」と、ハイパーコンバージドインフラストラクチャーと統合管理ツールを搭載した装置「Cisco HyperFlex」をクラウド側から管理できる。]]></description>
-			<pubDate>Wed, 27 Sep 2017 18:09:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows 10に移行できないPCが分かる統合監視ソフト、レイクサイドが国内提供（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092702352/</link>
-			<description><![CDATA[　PCやサーバーの統合監視ソフトを手掛ける米レイクサイド ソフトウェアは2017年9月27日、日本法人を設立したと発表した。数万超のPCの利用状況を1000以上の指標で監視・分析可能な「SysTrack」を同日から国内提供する。クライアント管理ソフトが未導入の官公庁や企業、数万超のPC監視が必要な大企業などの採用を見込む。]]></description>
-			<pubDate>Wed, 27 Sep 2017 18:09:24 +0900</pubDate>
-		</item>
-		<item>
-			<title>自律的に動作する自己学習型プロセッサー「Loihi」、米インテルが開発（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092702353/</link>
-			<description><![CDATA[　米インテルは2017年9月25日（米国時間）、同社が「自己学習型」と呼ぶ新しいプロセッサを開発中であることを明らかにした。開発コード名は「Loihi」。インテルの14nmプロセス技術で製造する。2018年前半に主要な大学や研究機関に対してLoihiの試作チップを提供するという。]]></description>
-			<pubDate>Wed, 27 Sep 2017 18:46:53 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIで眠気や感情を高精度判定、パナソニックがセンシング技術を開発（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092702354/</link>
-			<description><![CDATA[　パナソニックは2017年9月27日、AI（人工知能）技術を使って人の体調や感情を高精度に判定できるセンシング技術を開発したと発表した。人の顔を捉えるカメラ画像などから眠気や温冷感のほか、喜びや怒りなどの感情も判定できる。]]></description>
-			<pubDate>Wed, 27 Sep 2017 19:17:04 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本IBMがWatson拡販に本腰、パッケージ化で導入期間とコストを3分の2に（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092702355/</link>
-			<description><![CDATA[　日本IBMは2017年9月27日、同社の人工知能（AI）である「IBM Watson」（Watson）をパッケージ化したサービスを10月11日に提供開始すると発表した。同社はWatsonの導入期間とコストは3分の2になるとみている。また日本IBMのパートナー経由でも販売を始め、拡販を目指す。]]></description>
-			<pubDate>Wed, 27 Sep 2017 19:49:35 +0900</pubDate>
-		</item>
-		<item>
 			<title>第181回　市場移転問題、なぜ拙速な判断は賢くないのか？（下）（上山信一の「続・自治体改革の突破口」）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/234646/080900038/</link>
 			<description><![CDATA[　6月20日、小池東京都知事は市場移転問題について会見し、結論を「築地は守る。豊洲は活（い）かす」というキーワードで示した。今回は、当日のプレゼンテーション資料や市場問題プロジェクチーム（PT）、市場のあり方戦略本部の資料も手掛かりに、その本質を整理してみたい。]]></description>
@@ -371,6 +201,78 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092802362/</link>
 			<description><![CDATA[　東京大学 数理・情報教育研究センター、NEC、三井住友フィナンシャルサービス、新日鉄住金ソリューションズは2017年9月28日、データサイエンス人材を育成する共同事業体の設立を発表した。]]></description>
 			<pubDate>Thu, 28 Sep 2017 20:42:26 +0900</pubDate>
+		</item>
+		<item>
+			<title>iPhone 8／Xスペック徹底比較　ライバルより重い？（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/092500346/</link>
+			<description><![CDATA[　新しい「iPhone X」や「iPhone 8/8 Plus」の実力はいかほどか？　そのスペックを徹底的に比較しました。]]></description>
+			<pubDate>Fri, 29 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10がまた大型アップデート　その内容は？（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/092500347/</link>
+			<description><![CDATA[　Windows 10の大型アップデート「Windows 10 Fall Creators Update」が2017年10月17日より提供開始される。その主要な内容を解説しよう。]]></description>
+			<pubDate>Fri, 29 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>経営陣にデザイナーがいないのは絶対におかしい（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/092700023/</link>
+			<description><![CDATA[　今月取り上げるのは、一般向けの投資サービスを手掛けるFinTechベンチャーの「FOLIO」でCDO（Chief Design Officer）を務める広野萌（ひろのはじめ）氏。最終回である今回は、FOLIOでの取り組みやデザインに対する考えを聞いた。]]></description>
+			<pubDate>Fri, 29 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>生産終了報道が相次ぐWiGigは滅んでしまうのか？（塩田紳二のモバイルトレンド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/092700060/</link>
+			<description><![CDATA[　9月になって、米インテルがWiGigデバイスの生産を終了するというニュースが飛び込んできました。確かに現行のWiGig製品のいくつかに関して、インテルから生産終了の通知が出ているようです。ただ全WiGig製品ではなく、初期に開発した製品のいくつかが年内に生産終了になる、ということのようです。]]></description>
+			<pubDate>Fri, 29 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ラズパイがチューン済みWordPressサーバーになる「PressPi」（週末に遊べるラズパイ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041900152/092700024/</link>
+			<description><![CDATA[　4000円台と安価ながら1.2GHz動作のクアッドコアCPUを搭載するPCボード「Raspberry Pi（ラズパイ）」。そのラズパイを人気のブログサーバー「WordPress」専用機に仕立てられるのが「PressPi」です。]]></description>
+			<pubDate>Fri, 29 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>最新クラウドは使えるか、VMware Cloud on AWSを野村総研が検証（AWSが目指す万能インフラ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/092100389/092800003/</link>
+			<description><![CDATA[　2017年8月にスタートした「VMware Cloud on AWS」。ヴイエムウェア製品をAWSのデータセンターから提供する新サービスの実用性は、ユーザー企業やSIベンダーにとって気になるところ。サービス開始に先駆けて、ベータプログラムでサービスを検証したNRIの評価を紹介する。]]></description>
+			<pubDate>Fri, 29 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>いつもSiriと口げんかしている我が家の娘が「LINE WAVE」に話しかけたら（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/092500066/</link>
+			<description><![CDATA[　最近はAI（人工知能）が話題になっており、AIを搭載したスマートスピーカーが複数、発売される予定です。世界市場では、既に発売された製品もあります。ところで、スマートスピーカーとは何でしょうか？]]></description>
+			<pubDate>Fri, 29 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>会社のパソコンから不適切なWebサイトにアクセス、社名はバレる？（セキュリティ大実験室 2017）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090600370/091100010/</link>
+			<description><![CDATA[　IPアドレスを基にアクセス元の住所や会社名を簡単に特定できるのだろうか。実験してみた。]]></description>
+			<pubDate>Fri, 29 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>失敗の全責任はユーザー側に、旭川医大とNTT東の裁判で逆転判決（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/092501136/</link>
+			<description><![CDATA[　システム開発の失敗を巡り、旭川医科大学とNTT東日本が争う訴訟。控訴審判決は一審から一転、失敗の全責任はユーザー企業にあると認めた。ベンダーは「追加開発要望を拒絶する義務」までは負わないと判断した。]]></description>
+			<pubDate>Fri, 29 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>北朝鮮やランサムウエア、サイバー攻撃リスクとどう向き合う（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/092600924/</link>
+			<description><![CDATA[　社会、企業を取り巻くサイバーセキュリティ環境が劇的に変化している。ほんの数カ月前の状況と比べても、サイバー攻撃のリスクや脅威は比較にならないほど大きくなってしまった。リアリティーのあるBCPとしてサイバーセキュリティ対策を組み込むことが待ったなしの情勢だ。]]></description>
+			<pubDate>Fri, 29 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>PMBOK第6版の注目ポイント、有識者が斬る（ポイント分析 PMBOK第6版）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091900386/092700006/</link>
+			<description><![CDATA[　5年ぶりの改訂となったPMBOKガイド第6版。従来にない大きな改訂だけに、プロジェクトマネジメントのプロはどう受け止めているのか。大手・中堅のIT企業、ユーザー企業、大学関係者など、4人の有識者に聞いた。]]></description>
+			<pubDate>Fri, 29 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ゼロデイ脆弱性の特効薬を標準搭載、Windows 10秋アップデート（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/092801140/</link>
+			<description><![CDATA[　日本マイクロソフトは2017年9月12日、2017年秋に提供予定のWindows 10のアップデート（Fall Creators Update）において、ゼロデイ脆弱性の“特効薬”として知られる「EMET（エメット）」をWindows 10に標準装備することを明らかにした。]]></description>
+			<pubDate>Fri, 29 Sep 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
