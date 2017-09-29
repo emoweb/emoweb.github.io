@@ -310,5 +310,40 @@
 ]]></description>
 			<pubDate>Fri, 29 Sep 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>Firefoxの新バージョン「Quantum」、エンジン刷新で約2倍に高速化（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092900421/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Mozillaは2017年9月26日、Webブラウザー「Firefox」の新バージョンであるFirefox 57のベータ版を公開した。以前からの予告どおりエンジンに改良を加え、デザインを一新した今回のバージョンには、「Firefox Quantum」という名前が付いている。
+</p>
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092900421/ph.jpg" width="300" alt="" title=""></div></div>
+<p>
+　MozillaでFirefoxのプロダクト開発責任者を務めるNick Nguyen氏は、2017年9月26日の公式ブログ記事で、「一新したFirefoxのベータ版をリリースする。このFirefoxは、エンジンを完全に作り直して現代化した」と述べている。このバージョンは、正式にはFirefox 57だが、今回加わった変更の重要性を伝えるためにQuantumという名前を付けたとのことだ。
+</p>
+<p>
+　Firefoxの各バージョンは、これまでずっと番号だけが付いていた。名前が付いたのはこれが初めてだ。
+</p>
+<p>
+　Firefox Quantumは、レンダリングエンジンを改良し、特にCSSレイアウトエンジンが新しくなった。このCSSエンジンは、Mozillaの研究チームが開発したプログラミング言語「Rust」で作られている。CPUのマルチコアを使った並列処理を活用することで、速度が大幅に向上したとNguyen氏は説明する。Rust製のコンポーネントはほかにもある。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092900421/?ST=cm-software&P=2">Nguyen氏によると、「FirefoxQuantumは去年のF...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092900421/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092900421/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092900421/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092900421/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 29 Sep 2017 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
