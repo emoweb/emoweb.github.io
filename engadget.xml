@@ -5,48 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    倍速化うたう｢Firefox Quantum｣ベータ版公開｡超高速CSSエンジンやUIなど改良多数､正式版は11月14日
-</title>
-			<link>http://japanese.engadget.com/2017/09/27/2-firefox-quantum-css-ui-11-14/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/365ddbf5ec18e0b0a5c72ef5357413fe/205709226/FQ.png" />
-
-Mozillaがデスクトップ版ウェブブラウザー「Firefox Quantum」を発表しました。本来ならFirefox 57と呼ばれる予定だったものの、大幅なパフォーマンス向上をユーザーに広く伝えるために改名したとのこと。まだベータ版ながら、Firefox QuantumはこれまでのFirefoxに比べて2倍速く、メモリ消費をChromeより30%少なくし、他のソフトウェアへの影響も少ないとその優位性をアピールしています。
-
-2倍という高速化は、Rust言語を用いて開発した超高速CSSエンジン、使用しているタブにアクティブに優先順位を割当て、さらにマルチコア/マルチプロセスへの対応といった技術の組み合わせによって実現しているとのこと。さらにMozillaはここ数か月間で468もの問題修正を加えたとしています。
-
-UIにも新しくPhotonとコード名を付けられた新UIを採用。タブのデザインは角丸からスクエアに、操作に合わせて一部アイコンはアニメーションし、ライブラリー機能ではブックマークや"あとで読む"機能のPocket、履歴などへのアクセスを容易にしたとのこと。
-
-そして、Firefoxブラウザーを使っていく上でもっとも目にするアイコンデザインも、約4年ぶりに刷新。明るくメリハリのある色合いとともに、狐の尻尾のボリュームが増したデザインに変わりました。
-
-Firefox Quantum正式版のリリース日は11月14日。公式ページに登録すれば、利用可能になったときに通知を受け取ることができます。またすでにベータ版が公開済みで、誰でもダウンロードして試せます。
-
- 
-
-
-
-[Image : Mozilla]
- ]]></description>
-			<pubDate>Wed, 27 Sep 2017 05:30:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    ツイッターがテスト中の280字ツイートを誰でも試せる方法が見つかる
-</title>
-			<link>http://japanese.engadget.com/2017/09/27/280/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/2f5118310041b6a559a59da8361a719e/205708438/140_VS_JPN.jpg.img.fullhd.medium.jpg" />
-
-
-
-Twitterが唐突に開始した280字ツイートを、誰でも試せる方法が見つかりました。
-
-現在一部でテスト中の280字ツイートは、「言語によって同じ文字数で表現できる内容が違う」という理由で、11年以上続いてきた140字制限を2倍に緩和する施策。
-
-漢字が使えて一文字の情報量が多いという理由で日中韓は除外されており、それ以外の言語の一部ユーザー限定でテストが始まった状況です。
-
- 
- ]]></description>
-			<pubDate>Wed, 27 Sep 2017 06:34:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    1979年の今日、PC-8001が発売されました：今日は何の日？
 </title>
 			<link>http://japanese.engadget.com/2017/09/27/1979-pc-8001/</link>
@@ -414,6 +372,30 @@ au、iPhone 8に格安プラン提供。月1980円〜の「ピタットプラン
 WhatsAppは9月25日前後から使用不可能となっており、事実上の遮断状態に。一方のWeChatに関しては、プライバシーポリシーの改訂で、ユーザーの個人情報を中国政府と共有することがある旨を公開しています。
  ]]></description>
 			<pubDate>Fri, 29 Sep 2017 04:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Googleのスマートジャケット、洗濯は最大10回までと判明。お値段350ドル
+</title>
+			<link>http://japanese.engadget.com/2017/09/29/google-10-350/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/e0535aa19206b1f26cdd195d5ca7b7a8/205043965/dscf3281-1.jpg" />
+Google とリーバイスが共同開発したスマートジャケット「The Levi's Commuter x Jacquard by Google Trucker Jacket」は、洗濯できる回数が「最大10回まで」であることが判明しました。
+
+「リーバイス コミューター(略)トラッカージャケット」は自転車乗りをターゲットとした、袖口をタッチしてスマホが操作できるデニム生地のジャケット。
+
+本来は汗や汚れを想定した丈夫な普段着ですが、スマートジャケット版は導電繊維製の袖口部分が洗濯に弱く、電子機器部分を必ず取り外したうえで、洗濯に耐えるのは「最大で10回、状況によって異なる」とサポートページに記されています。
+ ]]></description>
+			<pubDate>Fri, 29 Sep 2017 04:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    悪戦苦闘を乗り越え、中華CNCついに動く。長期間を要した犯人探しと対策の経緯をお伝えします
+</title>
+			<link>http://japanese.engadget.com/2017/09/29/cnc/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/442d1b664135dc83582e087feecad9c9/205713416/00.PNG" />
+ここ最近、数回にわたってあれやこれやとしてきた中華CNC。なんとか組みあがったところまではいきましたが、動作確認をしたところ途中で止まることが判明しました。
+
+悪い期待を裏切らないというか、予想通りというか......まー、最初から問題なく動くとは考えていませんでしたけどね。ということで原因を探りつつ、対策していきました。
+ ]]></description>
+			<pubDate>Fri, 29 Sep 2017 05:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
