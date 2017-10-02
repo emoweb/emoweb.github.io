@@ -5,77 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>データマイニングとは何か（下）（データマイニングとは何か）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　データマイニングとは、自動化されたプロセスで巨大なデータセットを精査して、傾向やパターンを見極めたり、関係を立証したりすることである。その目的は、ビジネス上の問題を解決することや、データ分析を通じて新たな機会を生み出すことにある。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900002/" target="_blank">前回</a>から続く）</p>
-
-<h4>データマイニングのリスクと課題</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900003/ph3.jpg" width="300" alt="" title=""></div></div>
-
-<p>　データマイニングには、特有のリスクや課題がある。機密情報や個人識別可能情報が対象に含まれるテクノロジーでは常に言えるように、セキュリティとプライバシーが特に大きな懸念だ。</p>
-
-<p>　根本的な部分で言うと、マイニングの対象データは、完全かつ正確で信頼できるデータでなくてはならない。結局のところ、こうしたデータは、ビジネス上の重大な意思決定に使ったり、あるいは、各方面（一般大衆、規制当局者、投資家、ビジネスパートナー）との意思疎通に使うことも多いからだ。また、現代的な形式のデータには、新しい種類のテクノロジーが必要だ。例えば、各種の分散コンピューティング環境のデータセットの統合（いわゆるビッグデータ統合）を行うためのテクノロジーや、従来より複雑なデータ（画像、動画、時間データ、空間データなど）を扱うためのテクノロジーだ。</p>
-
-<p>　正しいデータを取得して、マイニングできるようにまとめ上げたとしても、IT部門の課題はそれで終わりではない。クラウド、ストレージ、ネットワークの各システムが、データマイニングツールのハイパフォーマンスな処理を支えられるようでなくてはならない。また、データマイニングで得られた情報は、多種多様なユーザーが行動の基盤にしたり解釈したりすることが想定され、そうしたユーザーに向けて明確に提示しなくてはならない。必要となるのは、データサイエンスや関連分野のスキルを持つ人材だ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900003/?ST=cio-management&P=2">プライバシーの観点では、人々が何をしたか、何を買...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900003/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900003/?ST=cio-management&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/091900071/091900003/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 29 Sep 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Firefoxの新バージョン「Quantum」、エンジン刷新で約2倍に高速化（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092900421/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Mozillaは2017年9月26日、Webブラウザー「Firefox」の新バージョンであるFirefox 57のベータ版を公開した。以前からの予告どおりエンジンに改良を加え、デザインを一新した今回のバージョンには、「Firefox Quantum」という名前が付いている。
-</p>
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092900421/ph.jpg" width="300" alt="" title=""></div></div>
-<p>
-　MozillaでFirefoxのプロダクト開発責任者を務めるNick Nguyen氏は、2017年9月26日の公式ブログ記事で、「一新したFirefoxのベータ版をリリースする。このFirefoxは、エンジンを完全に作り直して現代化した」と述べている。このバージョンは、正式にはFirefox 57だが、今回加わった変更の重要性を伝えるためにQuantumという名前を付けたとのことだ。
-</p>
-<p>
-　Firefoxの各バージョンは、これまでずっと番号だけが付いていた。名前が付いたのはこれが初めてだ。
-</p>
-<p>
-　Firefox Quantumは、レンダリングエンジンを改良し、特にCSSレイアウトエンジンが新しくなった。このCSSエンジンは、Mozillaの研究チームが開発したプログラミング言語「Rust」で作られている。CPUのマルチコアを使った並列処理を活用することで、速度が大幅に向上したとNguyen氏は説明する。Rust製のコンポーネントはほかにもある。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092900421/?ST=cm-software&P=2">Nguyen氏によると、「FirefoxQuantumは去年のF...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092900421/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092900421/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092900421/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092900421/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 29 Sep 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ビットコインを狙った北朝鮮の攻撃観測、ファイア・アイが解説（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/092902363/</link>
 			<description><![CDATA[　ファイア・アイは2017年9月29日、北朝鮮と思われる攻撃者によるビットコインを狙ったサイバー攻撃が観測されている、と解説するブログ記事を公開した。同社のブログでは「北朝鮮への国際制裁が高まる中、国家または平壌のエリート層の資金調達目的で遂行されたと考えられる」としている。]]></description>
@@ -311,10 +240,22 @@
 			<pubDate>Mon, 02 Oct 2017 13:34:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>愛媛CATV、えひめFreeWi-FiでWeb-API方式に加えNTT方式にも対応の実証実験（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100202375/</link>
+			<description><![CDATA[　スマートフォン向けアプリケーション「えひめFreeWi-Fi接続アプリ」をリリースしている愛媛CATVは、Web-API方式への対応に加えて、実証実験としてえひめFreeWi-Fi グループA方式（NTT方式）への対応を、Android版から開始した。]]></description>
+			<pubDate>Mon, 02 Oct 2017 14:26:49 +0900</pubDate>
+		</item>
+		<item>
 			<title>AIスピーカー「Amazon Echo」と「同Alexa」、年内に日本上陸（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100202376/</link>
 			<description><![CDATA[　アマゾンジャパンは2017年10月2日、AI（人工知能）スピーカーの「Amazon Echo」と、同スピーカーが搭載する音声認識サービスの「Amazon Alexa」を2017年内に日本で提供開始すると発表した。]]></description>
 			<pubDate>Mon, 02 Oct 2017 14:30:51 +0900</pubDate>
+		</item>
+		<item>
+			<title>自動学習するセキュリティ技術、重要インフラ向けに日立が開発（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100202378/</link>
+			<description><![CDATA[　新エネルギー・産業技術総合開発機構（NEDO）と日立製作所は2017年10月2日、電力やガス、鉄道といった重要インフラ向けの新たなセキュリティ技術の開発に成功したと発表した。]]></description>
+			<pubDate>Mon, 02 Oct 2017 16:37:37 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
