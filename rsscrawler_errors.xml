@@ -5,7 +5,7 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2017-10-04 02:09:28 +0900</title>
+			<title>2017-10-04 03:09:27 +0900</title>
 			<link> </link>
 			<description><![CDATA[<strong>wired</strong><br/><p>#&lt;RuntimeError: redirection forbidden: http://wired.jp/feed/ -&gt; https://wired.jp/feed/&gt;
 in
@@ -23,10 +23,10 @@ in
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p><br/><br/><strong>engadget</strong><br/><p>#&lt;RSS::NotWellFormedError: This is not well formed XML
 Declarations can only occur in the doctype declaration.
-Line: 93
-Position: 12467
+Line: 84
+Position: 14170
 Last 80 unconsumed characters:
-&lt;![CDATA[     &lt;img src=&quot;http://o.aolcdn.com/hss/storage/midas/e2dcfb481ad85cfad9f&gt;
+&lt;![CDATA[     &lt;img src=&quot;http://o.aolcdn.com/hss/storage/midas/5a33bd33b8a8b42f63e&gt;
 in
 /home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/rexmlparser.rb:20:in `rescue in _parse&#39;
 /home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/rexmlparser.rb:17:in `_parse&#39;
@@ -68,7 +68,7 @@ in
 /data/src/rss_crawler/src/pipes/simple_pipes.rb:11:in `block (2 levels) in &lt;top (required)&gt;&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
-			<pubDate>Wed, 04 Oct 2017 02:09:28 +0900</pubDate>
+			<pubDate>Wed, 04 Oct 2017 03:09:27 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
