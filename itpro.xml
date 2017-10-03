@@ -332,5 +332,58 @@
 ]]></description>
 			<pubDate>Tue, 03 Oct 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>ソフトバンクが誤請求、「月月割」が適用されず（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100302383/</link>
+			<description><![CDATA[　ソフトバンクは2017年10月3日、携帯電話の一部利用料金を誤請求していたことを発表した。原因はシステムの不具合という。]]></description>
+			<pubDate>Tue, 03 Oct 2017 09:13:59 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google、フルマネージドIoTサービス「Cloud IoT Core」をパブリックベータに（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100300365/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Googleは現地時間2017年9月27日、多数のIoTデバイスの接続と管理を安全に行うためのフルマネージドサービス「Cloud IoT Core」をパブリックベータ版としてリリースしたことを発表した。
+</p>
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100300365/ph.jpg" width="300" alt="" title=""></div></div>
+<p>
+　Cloud IoT Coreは、IoTデータの収集、処理、分析、視覚化を「Google Cloud Platform」でリアルタイムで行うための包括的なソリューションだ。Googleは、2017年5月にCloud IoT Coreを発表し、プライベートベータ版として提供していた。そして今回、パブリックベータ段階への移行に伴い、新機能をいくつか加えた。
+</p>
+<h4>
+Cloud IoT Coreの新機能
+</h4>
+<p>
+　特に先進的な新機能の1つが、デバイスの鍵の検証だ。認証局（CA）が署名したデバイス鍵をユーザー企業が登録して、Cloud IoT Coreが行う認証プロセスに適用できる。
+</p>
+<p>
+　これにより、例えばデバイスメーカーは、オフラインの状態でデバイスをプロビジョニングしたうえで、CA証明書と公開鍵をCloud IoT Coreに登録するという使い方が可能になる。
+</p>
+<p>
+　運輸や公益事業などを手がける企業に最適なこのサービスを使うことで、広範囲に展開する膨大なIoTデバイスの接続と管理が簡単になる。
+</p>
+<p>
+　IoTの産業利用では、セキュリティが依然として主な懸念の1つであるだけに、Googleがセキュリティ機能について大きく取り上げるのは自然なことだ。
+</p>
+<p>
+　新機能の2つ目は、IoTデバイスやゲートウエイとHTTPで接続できるようになったことだ。Google Cloud Platformに大量のデータを容易に取り込むのに役立つ。標準のMQTTプロトコルも引き続きサポートしている。ユーザー企業としては、アナリティクスシステムに不可欠なデータソースを利用して、オペレーションに関するすべてのデータを生かすことで、さまざまな変化にリアルタイムで対応しやすくなる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100300365/?ST=cio-cloud&P=2">新機能の3つ目は、IoTデバイスの最新の状態をい...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100300365/?ST=cio-cloud&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100300365/?ST=cio-cloud&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100300365/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 03 Oct 2017 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
