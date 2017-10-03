@@ -11,51 +11,6 @@
 			<pubDate>Mon, 02 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>UbuntuのCanonical、視線の先はIoT（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/100200422/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　Mark Shuttleworth氏が英Canonicalを創業したのは2004年のことだ。当時は、デスクトップOSとしての「Ubuntu」の利用を促進するというシンプルな発想が同社を支えていた。それから14年近くが経ち、状況がかなり複雑化する中で、現在のCanonicalはIoT市場に視線を向けている。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/100200422/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　オープンソースソフトウエアのベンダーとして著名なCanonicalは、現在もデスクトップLinuxの看板を掲げているものの、同社の真のビジネスはクラウドにある。主要なパブリッククラウドのLinuxインスタンスの約60％はUbuntuだと、同社はうたう。そして今後は、テクノロジー分野で次に活気があふれているIoTで名を上げたいと同社は願っている。
-</p>
-<p>
-　CanonicalでデバイスとIoT担当のエグゼクティブバイスプレジデントを務めるMike Bell氏に話を聞くと、企業がIoTデバイス向けのソフトウエア開発に乗り出す中で、Canonicalにとって追い風となる動きが見られるという。各社は、サーバー向けやデスクトップ向けのディストリビューションをスリムダウンして組み込み機器向けのソフトウエアに変えつつある。Ubuntuはよく知られていてなじみがあるフレームワークであることから、出発点として自然な選択肢だ。
-</p>
-<p>
-　「市場は拡大しつつある。当社が参入するべきであることは、いわば考えるまでもない決断だった。だが、単にOSをスリムダウンするだけでは不十分だと思った。そこで、組み込み機器が直面している主な課題に焦点を当てた。例えばセキュリティだ」
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/100200422/?ST=cm-hardware&P=2">セキュリティはIoTの課題として広く認知されている。そこにはさま...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/100200422/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/100200422/?ST=cm-hardware&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/100200422/?ST=cm-hardware&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/100200422/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 02 Oct 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IT業界の人材はどの分野が一番足りてない？技術者の転職について13日に講演（ITpro EXPO 2017見どころ解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090800372/100200009/</link>
-			<description><![CDATA[　東京ビッグサイトで2017年10月11日から10月13日まで「ITpro EXPO 2017」が開催される。3日目の午後3時からは、会場内ステージ「メインシアター」で転職に関する講演を実施する予定だ。登壇するのはパソナ パソナキャリアカンパニー人材紹介事業部門 IT統括部キャリアアドバイザーの遠山 有子氏と、日経HRメディア営業部マネージャー日経TECHキャリア担当の松本 恭子氏だ。]]></description>
-			<pubDate>Mon, 02 Oct 2017 10:24:11 +0900</pubDate>
-		</item>
-		<item>
 			<title>RPA大手の米UiPathが日本語サポート開始、日本語版の教育サービスも拡充へ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100202371/</link>
 			<description><![CDATA[　RPAツール大手の米UiPath日本法人は2017年10月2日、日本語による顧客サポートを始めた。製品の機能や操作方法などを電子メールを通じて日本語で尋ねることができる。人手不足解消や労働生産性向上に向けて注目が高まるRPAの需要を取り込む。]]></description>
@@ -304,6 +259,18 @@ Cloud IoT Coreの新機能
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100302390/</link>
 			<description><![CDATA[　博報堂DYメディアパートナーズが提供するラジオ番組などを無料で聴取できる音声コンテンツ配信プラットフォームアプリ「ラジオクラウド」は、コンテンツ配信社をこれまでの11社から64社へと2017年10月2日に大幅に拡大した。]]></description>
 			<pubDate>Tue, 03 Oct 2017 17:40:12 +0900</pubDate>
+		</item>
+		<item>
+			<title>Java環境なしでマイナンバーカード利用可能に、内閣府がアドオン提供（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100302391/</link>
+			<description><![CDATA[　内閣府番号制度担当室は2017年10月2日までに、マイナポータルなどの行政サービスでマイナンバーカードを使えるようにするブラウザー用アドオン「マイナポータルAP」を一部公開した。]]></description>
+			<pubDate>Tue, 03 Oct 2017 18:27:29 +0900</pubDate>
+		</item>
+		<item>
+			<title>JALとSBIがFinTech事業で合弁設立、2018年度にプリペイドカード発行（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100302393/</link>
+			<description><![CDATA[　日本航空（JAL）とSBIホールディングスは2017年10月3日、FinTech事業を手がける共同出資会社を設立したと発表した。共同事業の第1弾として2018年度には国際ブランドのプリペイドカードを発行するほか、人工知能（AI）による資産配分の支援サービスなども検討している。]]></description>
+			<pubDate>Tue, 03 Oct 2017 19:16:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
