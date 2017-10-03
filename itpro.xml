@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>昨日、一番読まれた記事は：失敗の全責任はユーザー側に、旭川医大とNTT東の裁判で逆転判決（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/092501136/?d04</link>
+			<description><![CDATA[　システム開発の失敗を巡り、旭川医科大学とNTT東日本が争う訴訟。控訴審判決は一審から一転、失敗の全責任はユーザー企業にあると認めた。ベンダーは「追加開発要望を拒絶する義務」までは負わないと判断した。]]></description>
+			<pubDate>Fri, 29 Sep 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>イーサリアム（Close Up Keyword）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/090500090/</link>
 			<description><![CDATA[　分散型台帳技術であるブロックチェーンを利用したプラットフォーム。プラットフォーム内で流通する仮想通貨「イーサ（Ether）」が、ビットコインに次ぐ世界第2位の時価総額を記録し、仮想通貨の新勢力として注目されている。]]></description>
@@ -300,6 +306,44 @@ Cloud IoT Coreの新機能
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/090800372/100300017/</link>
 			<description><![CDATA[　東京ビッグサイトで2017年10月11日から10月13日まで「ITpro EXPO 2017」が開催される。3日目の午後1時からは、会場内ステージ「メインシアター」で、クラウド時代のデータベース（DB）の選び方についての講演を実施する予定だ。日経SYSTEMS編集部の島田優子記者が登壇する。]]></description>
 			<pubDate>Wed, 04 Oct 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ビジネスインテリジェンスが今後のデータ戦略で果たす役割は（中）（ビジネスインテリジェンスが今後のデータ戦略で果たす役割は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/092500073/092500002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　今回の記事では、現在のアナリティクスでBIがどのカテゴリーに位置しているかに加え、ツールの変化、戦術の変化、社員のニーズの変化に伴ってBAがどのように進化しているかを見ていこう。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500073/092500001/" target="_blank">前回</a>から続く）</p>
+
+<h4>BAの入り口としてのBI</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500073/092500002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+
+<p>　レポート作成ソリューションなどのBIツールは、現在も企業で果たせる役割はある。だが、BIツールの能力には限りがあるとアナリストらは言う。</p>
+
+<p>　戦略コンサルティングファームの米Bain ＆ Companyが2017年に発表した「Six IT Design Rules for Digital Transformation」によると、ITリーダーを対象として同社が実施した調査では、パフォーマンスレポートの生成に3社以上からアナリティクス製品を導入しているIT部門が半数を超えるという結果が出た。「最高情報責任者（CIO）は、個別のデータソースから、インフラ全体をカバーできる単一のアナリティクスエンジンへと、連携と統合を早急に実現した方がよい」と同社は指摘する。</p>
+
+<p>　それ以上に重要な点は、新しいビジネスチャンスや成長につながるような、核心に迫るデータ分析がBIツールで実現できないことだと専門家らは言う。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500073/092500002/?ST=cio-management&P=2">「BIは売上やイノベーションを促していない」。そ...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500073/092500002/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500073/092500002/?ST=cio-management&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500073/092500002/?ST=cio-management&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500073/092500002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 04 Oct 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
