@@ -5,98 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>スクラムマスターの仕事・資格・収入（前）（スクラムマスターの仕事・資格・収入）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/092500074/092500001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　スクラムは、ソフトウエア開発などのプロジェクトでアジャイルのプロセスを実践するための強力なフレームワークとして盛んに導入されている。短期間の作業の反復（スプリント）と毎日のミーティング（デイリースクラム）を行いながら、プロジェクトにおける個別の部分への取り組みを連続的に繰り返し、プロジェクト全体の完了まで進めていく。スクラムで鍵となる役割には、スクラムマスター、プロダクトオーナー、チームメンバーの3つがある。</p>
-
-<h4>スクラムマスターとは</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500074/092500001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　スクラムマスターは、スクラムチームのリーダーとしてプロジェクトを支え、チームとプロダクトオーナーを指導して、チームメンバーにすべてのプラクティスを確実に履行させる。アジャイル開発プロセスのすべての面に対処するだけでなく、会社、プロダクトオーナー、チーム、個人の各レベルに向けて、次のような役割を果たす。</p>
-
-<ul>
-<li>会社レベル：創造的、生産的、協力的で安全な開発環境を構築し、多角的なコラボレーションを実現する。</li>
-<br>
-<li>プロダクトオーナーレベル：円滑なプランニングを促し、プロダクトオーナーがスクラムの手法やプラクティスを理解して遵守できるよう支える。</li>
-<br>
-<li>チームレベル：指導、コーチング、支援、ファシリテーションを行い、チームが前進していく中で直面する障害を取り除くよう支える。</li>
-<br>
-<li>個人レベル：個人の取り組みを支援し、発生する問題に対処し、障害を取り除くことで、個人のフォーカスと生産性を支える。</li>
-</ul>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500074/092500001/?ST=cm-software&P=2">スクラムマスターの研修と認定資格</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500074/092500001/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500074/092500001/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500074/092500001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 03 Oct 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソフトバンクが誤請求、「月月割」が適用されず（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100302383/</link>
-			<description><![CDATA[　ソフトバンクは2017年10月3日、携帯電話の一部利用料金を誤請求していたことを発表した。原因はシステムの不具合という。]]></description>
-			<pubDate>Tue, 03 Oct 2017 09:13:59 +0900</pubDate>
-		</item>
-		<item>
-			<title>Google、フルマネージドIoTサービス「Cloud IoT Core」をパブリックベータに（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100300365/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Googleは現地時間2017年9月27日、多数のIoTデバイスの接続と管理を安全に行うためのフルマネージドサービス「Cloud IoT Core」をパブリックベータ版としてリリースしたことを発表した。
-</p>
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100300365/ph.jpg" width="300" alt="" title=""></div></div>
-<p>
-　Cloud IoT Coreは、IoTデータの収集、処理、分析、視覚化を「Google Cloud Platform」でリアルタイムで行うための包括的なソリューションだ。Googleは、2017年5月にCloud IoT Coreを発表し、プライベートベータ版として提供していた。そして今回、パブリックベータ段階への移行に伴い、新機能をいくつか加えた。
-</p>
-<h4>
-Cloud IoT Coreの新機能
-</h4>
-<p>
-　特に先進的な新機能の1つが、デバイスの鍵の検証だ。認証局（CA）が署名したデバイス鍵をユーザー企業が登録して、Cloud IoT Coreが行う認証プロセスに適用できる。
-</p>
-<p>
-　これにより、例えばデバイスメーカーは、オフラインの状態でデバイスをプロビジョニングしたうえで、CA証明書と公開鍵をCloud IoT Coreに登録するという使い方が可能になる。
-</p>
-<p>
-　運輸や公益事業などを手がける企業に最適なこのサービスを使うことで、広範囲に展開する膨大なIoTデバイスの接続と管理が簡単になる。
-</p>
-<p>
-　IoTの産業利用では、セキュリティが依然として主な懸念の1つであるだけに、Googleがセキュリティ機能について大きく取り上げるのは自然なことだ。
-</p>
-<p>
-　新機能の2つ目は、IoTデバイスやゲートウエイとHTTPで接続できるようになったことだ。Google Cloud Platformに大量のデータを容易に取り込むのに役立つ。標準のMQTTプロトコルも引き続きサポートしている。ユーザー企業としては、アナリティクスシステムに不可欠なデータソースを利用して、オペレーションに関するすべてのデータを生かすことで、さまざまな変化にリアルタイムで対応しやすくなる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100300365/?ST=cio-cloud&P=2">新機能の3つ目は、IoTデバイスの最新の状態をい...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100300365/?ST=cio-cloud&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100300365/?ST=cio-cloud&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100300365/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 03 Oct 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>米グーグル、有料記事への無料アクセス要件「First Click Free」を撤廃（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100302385/</link>
 			<description><![CDATA[　米グーグルは2017年10月2日（米国現地時間）までに、ニュース記事の有料や会員制の閲覧制限付きコンテンツについて、1日最低3件の無料記事を提供するよう求める「First Click Free」を撤廃すると公表した。]]></description>
@@ -325,6 +233,24 @@ Cloud IoT Coreの新機能
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100402396/</link>
 			<description><![CDATA[　国立研究開発法人物質・材料研究機構（NIMS）など7機関は2017年10月4日、嗅覚IoT（インターネット・オブ・シングズ）センサーの実証実験を行う「MMSフォーラム」を2017年11月1日に発足すると発表した。]]></description>
 			<pubDate>Wed, 04 Oct 2017 15:03:27 +0900</pubDate>
+		</item>
+		<item>
+			<title>メ～テレ子会社のCVCが初出資、第一号案件は保育園・幼稚園向けサービス会社（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100402397/</link>
+			<description><![CDATA[　名古屋テレビ放送（メ～テレ）は2017年10月4日、同社の子会社でコーポレートベンチャーキャピタル（CVC）の名古屋テレビ・ベンチャーズが保育園・幼稚園の社会的課題を解決するサービスを提供する企業である「ユニファ」に出資したと発表した。2017年4月の名古屋テレビ・ベンチャーズ設立後、 初の出資となる。]]></description>
+			<pubDate>Wed, 04 Oct 2017 15:05:19 +0900</pubDate>
+		</item>
+		<item>
+			<title>トヨタと日立が2工場で実証実験、IoTを利用して品質改善（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100402398/</link>
+			<description><![CDATA[　トヨタ自動車と日立製作所は2017年10月4日、IoTプラットフォームを活用した高効率生産モデルの構築に向けた「協創」の開始を発表した。車両生産を担当する高岡工場と、ユニット（エンジン）の生産を担当する上郷工場で実証実験を行う。ともに愛知県豊田市内にある。]]></description>
+			<pubDate>Wed, 04 Oct 2017 15:57:14 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本CA、クラウド対応した特権IDアクセス管理製品を提供開始（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100402399/</link>
+			<description><![CDATA[　日本CAは2017年10月4日、特権IDアクセス管理製品スイート「CA Privileged Access Management」の提供開始を発表した。中核製品のCA Privileged Access Managerを使うと、特権IDの利用を管理したり、セッションを録画したりする。]]></description>
+			<pubDate>Wed, 04 Oct 2017 16:23:30 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
