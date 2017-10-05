@@ -312,5 +312,40 @@
 			<description><![CDATA[　筆者は長野の松本に在住し本コラム「信州ITラプソディ 」を執筆しているが、読者の方から「松本から情報を発信していて、なぜ山雅のことを書かないの？」と言われることがある。山雅とは、日本プロサッカーリーグ（Jリーグ）に加盟している松本山雅FCのことだ。]]></description>
 			<pubDate>Fri, 06 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>ビジネスインテリジェンスが今後のデータ戦略で果たす役割は（下）（ビジネスインテリジェンスが今後のデータ戦略で果たす役割は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/092500073/092500003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　今回の記事では、現在のアナリティクスでBIがどのカテゴリーに位置しているかに加え、ツールの変化、戦術の変化、社員のニーズの変化に伴ってBAがどのように進化しているかを見ていこう。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500073/092500002/" target="_blank">前回</a>から続く）</p>
+
+<h4>BIとアナリティクスの境界があいまいに</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500073/092500003/ph3.jpg" width="300" alt="" title=""></div></div>
+
+<p>　アドバンストアナリティクスにおいても、例えばモデリングなどに関して、データプロフェッショナルが果たす役割は依然として非常に大きいが、関与の度合いはビジネスケースによって異なるとMyers氏は言う。例えば、クレジットカード詐欺の検出に使われるアドバンストアナリティクスの場合はスピードが求められるため、データサイエンティストがシステムへのクエリを行うのではなく、教師なしのモデルがよりどころとなる。</p>
+
+<p>　またMyers氏によると、企業は一般に出来合いのBI製品や商用のアドバンストアナリティクス製品を導入するが、機械学習やAIの機能で必要なものは自前のデータプロフェッショナルに開発させることが多い。市場にパッケージ製品がまだないとの理由からだ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500073/092500003/?ST=cio-management&P=2">だが、既存のBIプラットフォームや、それ以外に導...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500073/092500003/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500073/092500003/?ST=cio-management&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500073/092500003/?ST=cio-management&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/092500073/092500003/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 06 Oct 2017 06:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
