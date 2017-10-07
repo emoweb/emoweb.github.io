@@ -5,57 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：圏外の山奥になぜWi-Fiが必要なのか（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/100200927/?d06</link>
-			<description><![CDATA[　常磐線の高萩駅から車で山間部へ向かい、海が見えるダムとして知られる花貫ダムを超えさらに奥へ入った場所に2017年8月、キャンプ施設がオープンした。だがこのキャンプ場、携帯電話の電波がソフトバンクしか届かない。]]></description>
-			<pubDate>Thu, 05 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Oracle、「自動運転」の自律型データベースを発表（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100500366/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Oracleは、サンフランシスコで開催中のイベント「Oracle OpenWorld」で、「世界初の自律型データベースクラウド」とうたう「Oracle Autonomous Database Cloud」を発表した。現地時間2017年10月1日の基調講演には、同社の創業者で最高技術責任者（CTO）のLarry Ellison氏が登壇し、この製品を紹介。サイバーセキュリティの脅威を防ぐために自動でパッチを適用する機能があることなどを説明した。
-</p>
-<h4>
-人的作業が不要に
-</h4>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100500366/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: IDG</div>
-</div>
-<p>
-　Oracleが発表した自律型データベースは、その名のとおり、いわばデータベースの自動運転だ。データベース管理者が作業しなくても、チューニング、プロビジョニング、パッチ適用を自動で行う。「人的作業がなくなれば、人的ミスもなくなる」とEllison氏は言う。
-</p>
-<p>
-　Oracleによると、自動化されたセキュリティシステムを使って、新たに出現した脅威を直ちに自動検知し、それに応じてデータベースにパッチを適用する。「サイバーセキュリティでとてつもなく重大な盗難はデータの盗難だ。そして、皆さんのデータを保存するのに最も安全な場所はOracleデータベースだ」とEllison氏は述べたs。
-</p>
-<p>
-　人間が制御する場合に比べると、人間による操作を待って遅れが生じたり、その後にダウンタイム時間が発生したりしないことを、Ellison氏は挙げた。稼働を続けたままで、セキュリティシステムが直ちに対応できるからだ。
-</p>
-<p>
-　Oracle Autonomous Database Cloudは、Oracle Databaseの新バージョン「Oracle 18c」を基盤とし、99.995％の可用性をうたっている。「これからは操縦ミスはない。なぜなら操縦士が必要ないからだ。計画停止や計画外停止は年間30分未満だ」とEllison氏は話した。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100500366/?ST=cio-cloud&P=2">AWSに対する優位性を強調</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100500366/?ST=cio-cloud&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100500366/?ST=cio-cloud&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100500366/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 05 Oct 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>TrackRが日本市場に本格参入、「モノがなくなることがない社会を目指す」（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100502406/</link>
 			<description><![CDATA[　Bluetoothを利用して落とし物を追跡できるIoT機器を手掛けるTrackRは2017年10月4日、都内で記者説明会を開き、日本市場に本格参入すると表明した。同日から「TrackR pixel」の販売を始めた。販売店舗や製品は順次拡充していく予定である。]]></description>
@@ -302,6 +251,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100602420/</link>
 			<description><![CDATA[　楽天とローソンは2017年10月6日、福島県南相馬市においてローソンの移動販売車と楽天のドローンを組み合わせた商品配送の試験運用を開始すると発表した。]]></description>
 			<pubDate>Fri, 06 Oct 2017 17:49:11 +0900</pubDate>
+		</item>
+		<item>
+			<title>国内最速、産総研のAIスパコンを富士通が約50億円で受注（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100702421/</link>
+			<description><![CDATA[　富士通は、産業技術総合研究所（産総研）が導入するAI（人工知能）専用スーパーコンピュータを受注した。受注額は約50億円。米インテルのCPUを2個と米エヌビディアのGPUを4個搭載したサーバーを1088台並べる。理論上の演算性能は国内最速の37ペタFLOPS（1秒間に3京7000兆回）に達する。]]></description>
+			<pubDate>Sat, 07 Oct 2017 14:25:06 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
