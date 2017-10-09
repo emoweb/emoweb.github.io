@@ -270,5 +270,41 @@
 			<description><![CDATA[　北陸先端科学技術大学院大学（JAIST）が2015年から3年間の予定で開設している、サイバーレンジのオープンソースソフトウエア（OSS）化に取り組む研究開発講座「サイバーレンジ構成学」を3年間延長することが分かった。]]></description>
 			<pubDate>Tue, 10 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>機械学習を自動化する機械学習プロジェクト6選（前）（機械学習を自動化する機械学習プロジェクト6選）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　機械学習のそもそもの目的が、これまで人間の判断を仰いでいた作業を自動化することにあるのだとしたら、機械学習に伴う面倒な作業も、機械学習を使って自動化できないのだろうか。今回は、先頭を走る自動機械学習ツールを6種類紹介する。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　機械学習のパワーを享受するためには、面倒な手作業が避けられない部分がある。必要なスキル、ツール、ハードウエア、データがそろったとしても、機械学習モデルの構築や調整は一筋縄では行かない。</p>
+
+<p>　だが、機械学習のそもそもの目的が、これまで人間の判断を仰いでいた作業を自動化することにあるのだとしたら、機械学習に伴う面倒な作業も、機械学習を使って自動化できないのだろうか。</p>
+
+<p>　その答えを端的に言えば、条件付きのイエスである。自動機械学習（AML：Automated Machine Learning）と総称される手法を使えば、モデルを構築する際に必要な作業や、モデルに調整を加えて精度を高めていく際の作業を減らすことができる。</p>
+
+<p>　自動機械学習はまだ初期段階だ。現時点では、互いにつながりのない種々雑多なテクノロジーとして実装されている。しかし、機械学習に精通していない平均的なビジネスユーザーを想定した製品化に向けて、急速に形になりつつある。</p>
+
+<p>　ここでは、先頭を走る自動機械学習ツールを6種類紹介する。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200001/?ST=cm-software&P=2">auto-sklearnとAuto-WEKA</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200001/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200001/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200001/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 10 Oct 2017 06:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
