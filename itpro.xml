@@ -306,5 +306,50 @@
 ]]></description>
 			<pubDate>Tue, 10 Oct 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>Firefox、Windows XPとVistaのサポートを2018年6月で終了へ（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101000367/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Mozillaは現地時間2017年10月4日、Webブラウザー「Firefox」のセキュリティアップデートについて、「Windows XP」と「Windows Vista」のサポートを2018年6月で完全に終了することを公式ブログ記事で発表した。Firefoxの歴史に一区切りがつくことになる。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101000367/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Magdalena Petrova</div>
+</div>
+<p>
+　米Microsoftの両OS自体に対するサポートは、XPが2014年4月、Vistaが2017年4月にすでに終了している。サポートを終了したバージョンのWindowsは、Microsoftからセキュリティ更新プログラムが提供されなくなる。だが、サードパーティーの中には、こうしたバージョンのWindowsについても、自社製アプリケーションのサポートを継続する場合がある。
+</p>
+<p>
+　Mozillaは2016年12月、XPとVistaで動作するFirefoxについて、延長サポート版（ESR：Extended Support Release）に自動で移行すると発表した。ESRとは、新機能の搭載や性能向上などのメジャーアップデートをおよそ1年に1回実施し、それ以外は約6週間ごとにセキュリティ修正のマイナーアップデートのみを行う、企業や教育機関向けのエディションだ。同社は2017年3月に、XPおよびVistaでFirefoxを使っているユーザーをESRのバージョン32に移行した。
+</p>
+<p>
+　今回Mozillaが、XPとVista向けサポートを2018年6月で終了するとしたのは、ESRバージョン52のサポート期間と関連している。現時点で、ESR 52は最後のセキュリティアップデートの予定日が2018年5月1日となっている。その次のESRは、同年6月26日にアップデートが提供され、こちらがXPとVistaをサポートしないバージョンとみられる。つまり、XPやVistaで動作するFirefoxは、2018年6月26日までは攻撃に対する防御が提供されていることになる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101000367/?ST=cio-appli&P=2">Firefoxユーザーの中に、XPやVistaの...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101000367/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101000367/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101000367/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 10 Oct 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>グループウエア「desknet&#39;s NEO」が新版、アプリ開発機能を追加（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100502408/</link>
+			<description><![CDATA[　ネオジャパンは2017年10月10日、グループウエア「desknet's NEO」の新版となる「V4.0」を発表した。desknet's NEOからアプリ開発基盤「AppSuite」を利用できるようになった。]]></description>
+			<pubDate>Tue, 10 Oct 2017 11:05:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
