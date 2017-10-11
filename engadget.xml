@@ -5,26 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    iPhone 8にiPhone 7用の液晶保護ガラスを貼ってはいけない
-</title>
-			<link>http://japanese.engadget.com/2017/10/06/iphone-8-iphone-7/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/14f4502ba95859ed07c5670deefaacf7/205732763/IMG_0069.jpg" />
-両面ガラスになったiPhone 8。ガラスの強度が増したとはいえ、保護は必須です。アナタはガラス派ですか？ それともフィルム派？
- ]]></description>
-			<pubDate>Fri, 06 Oct 2017 20:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    AndroidとWindows 10を連携しやすくする「Microsoft Launcher」プレビュー版が公開
-</title>
-			<link>http://japanese.engadget.com/2017/10/06/android-windows-10-microsoft-launcher/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/72090ad2eec85f2f94c85585ab8d6173/205742382/MS+Launcher.jpeg" />
-米Microsoftは10月5日（現地時間）Android用アプリ「Microsoft Launcher」のプレビュー版を公開しました。
-
-これはホーム画面を使いやすくするランチャーアプリの一種ですが、特徴はWindows PCとAndroid端末の連携をしやすくすること。10月17日に予定されるWindows 10のアップデート「Fall Creators Update」での新機能「Continue on PC」もサポートしています。
- ]]></description>
-			<pubDate>Fri, 06 Oct 2017 22:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    『スーパーマリオオデッセイ』発売記念トレーラー、全米5都市を横断ツアー。新能力「キャプチャー」をあしらった特別仕様
 </title>
 			<link>http://japanese.engadget.com/2017/10/07/5/</link>
@@ -703,6 +683,53 @@ DRIVE PX PEGASUSの発売時期は2018年半ばごろとのこと。早ければ
 手書きならではの「スラスラとした書き心地」と、デジタルならではの「スマートさ」を融合した電子ノート製品が、更に進化して登場しました。
  ]]></description>
 			<pubDate>Wed, 11 Oct 2017 02:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    動画：ファーウェイ最新スマホ「honor 9」ハンズオン。この冬一番の注目、これはセカンドマシンじゃない！
+</title>
+			<link>http://japanese.engadget.com/2017/10/11/honor-9/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/a50f0d23435b17f4da819f317f4b700/205751013/EG171001_mov1.jpg" />
+
+Engadget 日本版 YouTubeチャンネルより。デュアルカメラを搭載し、光り輝く本体仕上げの「honor 9」をさっそくいじってみました。「工芸品のように美しい3Dカーブのガラスボディ 」と言われるボディはこれまでのファーウェイ端末の概念を打ち崩す美しさ。honorシリーズと言うとミッドレンジという印象もありますが、honor 9はチップセットにハイシリコンのKirin 960を搭載するハイエンド端末。同社のフラッグシップモデル「P10」にかなり近いスペックです。動作も早く、独自UIのEMUIも快適に動いてくれます。
+
+そして目玉は背面のデュアルカメラ。P10同様に2000万画素のモノクロと1200万画素のカラーを搭載。ワイドアパチャー機能でボケの調整も自在。新たに3Dクリエーター機能も加わり、自分の顔を簡易3Dスキャンしアバターなどに使うことも可能。この機能はP10には無く、honor 9が一歩リード。若い世代をターゲットにした端末だけに、カメラ機能も差別化されています。P10を買うかMate 9を買うか、あるいはhonor 9を買うか。贅沢な悩みができるほどファーウェイ製品のラインナップが着々と強化されています。
+
+
+
+ ]]></description>
+			<pubDate>Wed, 11 Oct 2017 02:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Google Home Miniに常時録音してしまうバグ発覚、すでに修正済みで製品版には影響なし
+</title>
+			<link>http://japanese.engadget.com/2017/10/11/google-home-mini/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/37cf1dcffb5b9eb7685dc628ebf55cd1/205753860/dims.jpg" />
+Googleが10月4日（日本時間10月5日）に発表した新しいスマートスピーカー「Google Home Mini」に、意図せず周囲の音を録音し、Googleのサーバーに送信してしまう不具合が見つかりました。なお、不具合自体はすでに修正済みです。
+速報：Google Home Mini発表、49ドルでGoogleアシスタントが使える普及型スマートスピーカー
+
+Google Home Miniは、米国では10月18日、日本では23日に発売されますが、発表会当日にメディア向けにレビュー用として配布されていました。
+
+不具合を発見したのは、このレビュー端末を利用していたAndroid PoliceのArtem Russakovskii氏。同氏によると、距離のあるテレビの音声に反応しているのを不審に思い、Googleアシスタントに何を話しかけ、どのような対応をしたのかが一覧できる「マイアクティビティ」を確認。すると、ほぼ常時、録音が行われ、その音声がアップロードされているのを発見したとのこと。
+
+Googleが調査したとこと、原因はGoogle Home Mini上部にあるタッチパネルの誤動作と判明。もとの仕様では、上部を長押しするとホットワード（「OK Google」や「ねぇ Google」）を言わずにGoogleアシスタントが起動します。この機能が誤動作することで、Googleアシスタントが常時起動し、音声コマンドの入力待ちになっていたとのことです。
+
+Googleアシスタントは、設定で明示的にオフにしない限り、入力した音声をGoogleのサーバーにアップロードするのは仕様です（アップロードされたものは「マイアクティビティ」から確認可能）。
+
+
+
+このため、Googleアシスタントが入力待ちで起動し、タイムアウトもしくは理解できないコマンドとして処理されるのを繰り返し、結果として数千の音声ファイルがアップロードされてしまいました。
+
+Googleは報告を受けた翌日（10月7日）には、問題に対応するアップデートを実施。対応方法は、上部長押しによる起動の削除です。
+
+また、この問題が発生するのはイベント時に配布された早期リリース版のGoogle Home Miniだけであり、事前予約でこれから出荷される製品は影響を受けないとしています。
+
+スマートスピーカーとプライバシーの問題は以前から指摘されていることですが、あらためて考えさせられる問題となりました。なお、Googleは報告を受けてから問題のGoogle Home Miniを回収するまで約3時間、そして翌時にはアップデートを行うスピード対応を実施。プライバシー問題を重く受け止めていると感じさせます。
+
+英語のオンラインマニュアルには「temporarily disabled」との記載があるので、削除された機能はいずれ復活すると思います。また、同じ機能は発売中のGoogle Homeにも搭載されています（こちらでの不具合は報告されていません）。
+
+ 
+ ]]></description>
+			<pubDate>Wed, 11 Oct 2017 03:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
