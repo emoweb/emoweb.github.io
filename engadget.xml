@@ -5,38 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    BlackBerryの新スマホ｢Motion｣画像が流出｡物理キーなしも長時間駆動など『らしさ』保持
-</title>
-			<link>http://japanese.engadget.com/2017/10/06/blackberry-motion/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/43993c0e0ca7ed8989a0b37c192deed8/205740966/mainbbm.jpg" />
-
-中国TCLが発売を予告していたBlackBerryの防水スマートフォン「Motion」の画像が流出しました。情報の出どころは、スマートフォンの新製品情報に詳しい@evleaksことEvan Blass氏。
-
-TCLはBlackBerryブランドからAndroidスマートフォンKEYoneを発表し、ハードウェアキーボードを備えるそのデザインでかつてのBlackBerryファンからも一定の支持を得ています。一方、今回画像が出てきたMotionはハードウェアキーを備えない、いわば"普通のAndroidスマートフォン"です。
-
-しかし、EvanBlassはすでに新スマートフォンが仮想キーボードを備えることを伝えており、TCLはこの端末がIP67防水防塵に対応することを明らかにしています。
-
-しかし今回はじめて明らかになったのは、Kryptonになると言われていたこのスマートフォンの名前が、製品では「Motion」という名になるだろうということ。とはいえKEYoneの場合も、発表前の段階ではMercuryと呼ばれていたので、これもとりたてて騒ぐことでもないのかもしれません。
-
-
-Goodbye, Krypton.
-
-Hello, BlackBerry Motion pic.twitter.com/lBsdpORHW4
-- Evan Blass (@evleaks) 2017年10月5日
-
-画像に見るMotionの特徴は、とにかくオーソドックスなスマートフォンのスタイルをしているところ。Galaxy S8の登場前後からトレンドになりつつある超狭額縁全面タッチパネルなスマートフォンとは一線を画しつつ、それでいて扱いやすそうな形状をしています。ディスプレイ下中央にはホームボタンがあり、人によっては重要な3.5mmステレオミニのイヤホン端子も備えています。
-
-あまりに"普通のスマートフォン"らしいデザインは、ハードキーこそがBlackBerryのアイデンティティと信じる方々の支持は得にくいかもしれません。しかしセキュリティソフトウェアや26時間も駆動するバッテリーといったBlackBerryらしい特長もMotionには備わっています。
-
-記事執筆時点で漏れ伝わる情報からは、これ以上の詳細な仕様はわかりません。しかし、TCLがiPhoneやGalaxyのユーザーが乗り換えるだろうと豪語するこの製品が10月の発売を予想されていることを考えれば、そう待たずとも明らかになるはずです。
-
-なお、少し気が早いものの気になるのは国内発売があるかどうか。KEYoneやPrivは代理店から発売されているため、Motionもまずは正式発表を待って、そのあとでの朗報を待ちたいところです。
-
-[Image : Evan Blass]
- ]]></description>
-			<pubDate>Fri, 06 Oct 2017 05:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    2003年の今日、PSXが発表されました：今日は何の日？
 </title>
 			<link>http://japanese.engadget.com/2017/10/06/2003-psx/</link>
@@ -718,6 +686,27 @@ VRといえば、ヘッドマウントディスプレイ（HMD）を装着して
 KDDI総合研究所によると、同技術はVRの臨場感向上だけでなく、監視カメラで任意の部分の音を明瞭にしたい場合などにも活用できるとしています。
  ]]></description>
 			<pubDate>Wed, 11 Oct 2017 00:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    NVIDIA､完全自動運転を実現するAIコンピュータ｢DRIVE PX PEGASUS｣発表。命令処理能力は秒間320兆回
+</title>
+			<link>http://japanese.engadget.com/2017/10/11/nvidia-ai-drive-px-pegasus-320/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/d6401d0ad3999f4b361239b00a1bc415/205753827/dpp.jpg" />
+NVIDIAが、独ミュンヘンで開催されている「GPU Technology Conference Europe 2017(GTC Europe 2017)」で、自動運転レベル5(完全自動運転)に対応するAI搭載コンピューター「DRIVE PX PEGASUS」を発表しました。
+
+このコンピューターは新開発のXavierチップx2とさらに5月に発表したばかりのVoltaの次世代とされるチップx2を搭載、そのディープラーニング演算能力は320 TOPSとのこと。TOPSとはtrillion operations per secondの略で、1秒間に320兆回の命令を処理できる能力。自動運転機能を搭載する車に多く採用されるDRIVE PX 2に対しては15倍の処理能力にあたります。
+
+現在の市販車、またテストされている自動運転車は0～5までが規定される自動運転レベルの第2段階、レベル2がほとんどで、それ以上となると早い時期から自動運転機能開発を進めてきた独アウディが、2018年にレベル3対応の市販車を発売すると発表している程度。
+
+しかし、DRIVE PX PEGASUSは飛躍的な性能向上によってステアリングやペダルすら必要のない完全自動運転をのレベル5にまで対応可能な能力を備えるとされます。さらに処理能力だけでなく、レベル5対応のために搭載数が増えるであろうLiDARや短距離/長距離レーダーをはじめとする多数のセンサー入出力を備えることで、トランクスペースを消費せずに高性能な自動運転処理を可能とします。
+
+NVIDIAによると、すでに25社を超えるパートナーがNVIDIA製コンピューターを搭載して、完全自動運転タクシーの開発に取り組んでいるとのこと。たとえばドイツの郵便企業ドイツポストDHLは、2018年に現行モデルのDRIVE PXを搭載した自動運転トラックの実用化を目指しています。
+
+このトラックは積荷を配送先まで運び、従業員がトラックから荷物を届け終わって座席に戻るまでその場できちんと待機してから次の配送先に向かうことができるとのこと。増え続けるオンラインショッピングへの対応で疲弊する配送ドライバーの負担を大きく軽減することが期待されます。
+
+DRIVE PX PEGASUSの発売時期は2018年半ばごろとのこと。早ければその年の終わりから2019年には、一切の操作を必要としない自動車が公道に現れるかもしれません。
+ ]]></description>
+			<pubDate>Wed, 11 Oct 2017 00:30:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
