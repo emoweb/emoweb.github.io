@@ -11,18 +11,6 @@
 			<pubDate>Wed, 11 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>パナソニック、PC使用時間やログで働き方改革を支援するソリューションなど展示（ITpro EXPO 2017速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101100024/</link>
-			<description><![CDATA[　パナソニックは2017年10月11日から13日まで東京ビッグサイトで開催している「ITpro EXPO 2017」で、オフィスと現場の働き方改革ソリューションを展示している。自社イベントを除くと初展示という。]]></description>
-			<pubDate>Wed, 11 Oct 2017 15:29:23 +0900</pubDate>
-		</item>
-		<item>
-			<title>Office 365とG Suiteを使いやすく、機能拡張アドオンをピーエスシーがデモ展示（ITpro EXPO 2017速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101100025/</link>
-			<description><![CDATA[　ピーエスシーは2017年10月11日から13日まで東京ビッグサイトで開催している「ITpro EXPO 2017」で、Office 365やG Suiteに追加し、それらの機能を手軽に利用できるようにするアドオンシステム「Coo Kai（クーカイ）」を展示する。]]></description>
-			<pubDate>Wed, 11 Oct 2017 15:37:45 +0900</pubDate>
-		</item>
-		<item>
 			<title>AIで社内手続きの負担を軽減、tdiの「手続きNavi」（ITpro EXPO 2017速報）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101100026/</link>
 			<description><![CDATA[　情報技術開発（tdi）は2017年10月11日～13日まで東京ビッグサイトで開催している「ITpro EXPO 2017」で、社内手続き案内システム「手続きNavi」を展示している。]]></description>
@@ -201,6 +189,48 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/100200404/100200003/</link>
 			<description><![CDATA[　重要なステークホルダー（利害関係者）が期待通りに動いてくれない。これもまた、プロジェクトマネジャーやリーダーの悩みの種だ。ITプロジェクトを成功させるために、ステークホルダーが動きやすい環境を用意することが求められる。]]></description>
 			<pubDate>Thu, 12 Oct 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>機械学習を自動化する機械学習プロジェクト6選（後）（機械学習を自動化する機械学習プロジェクト6選）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　機械学習のそもそもの目的が、これまで人間の判断を仰いでいた作業を自動化することにあるのだとしたら、機械学習に伴う面倒な作業も、機械学習を使って自動化できないのだろうか。今回は、先頭を走る自動機械学習ツールを6種類紹介する。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200001/" target="_blank">前回</a>から続く）</p>
+
+<h4>H2O.aiのDriverless AI</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　専門家でない人向けに機械学習のハードルを下げることを目指した製品としては、米H2O.aiの「<a href="https://www.h2o.ai/driverless-ai/" target="_blank">Driverless AI</a>」もある。「Tableau」などの製品になじみがあるビジネスユーザーが、機械学習アルゴリズムを完璧にマスターすることなくデータから洞察を得たいと考えている場合に適した製品だ。</p>
+
+<p>　Prodigyと同様に、Driverless AIもWebベースのUIで操作できる。解を得るためにデータセットの目的変数を1つ以上選択すると、システムがその答えを提示する。結果はインタラクティブなグラフで表示され、分かりやすい説明が付いている。</p>
+
+<p>　Prodigyとは違って、Driverless AIはプロプライエタリな製品だ。H2O.aiのスタックの多くはオープンソースだが、この製品は違う。技術系以外のユーザーに機械学習を使ってもらう手段として、オープンソーススタックではなく商用製品が中心となるかもしれない兆候の1つだ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200002/?ST=cm-software&P=2">GoogleのAutoMLとVizier</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200002/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200002/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200002/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 12 Oct 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>システム刷新に失敗した京都市、ITベンダーと契約解除で訴訟の可能性も（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/101101158/</link>
+			<description><![CDATA[　京都市は2017年10月11日、基幹業務システムの刷新プロジェクトについて、バッチ処理プログラムの移行業務を委託していたシステムズとの業務委託契約を解除した。作業の遅れで京都市は既に稼働時期を2017年1月から2018年1月に延期していたが、それがさらに遅れて2020年になる見込みである。新システムの稼働時期は、当初の予定よりも3年以上の遅れとなりそうだ。]]></description>
+			<pubDate>Thu, 12 Oct 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
