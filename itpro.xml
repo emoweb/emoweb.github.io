@@ -11,117 +11,6 @@
 			<pubDate>Wed, 11 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>機械学習を自動化する機械学習プロジェクト6選（後）（機械学習を自動化する機械学習プロジェクト6選）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　機械学習のそもそもの目的が、これまで人間の判断を仰いでいた作業を自動化することにあるのだとしたら、機械学習に伴う面倒な作業も、機械学習を使って自動化できないのだろうか。今回は、先頭を走る自動機械学習ツールを6種類紹介する。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200001/" target="_blank">前回</a>から続く）</p>
-
-<h4>H2O.aiのDriverless AI</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　専門家でない人向けに機械学習のハードルを下げることを目指した製品としては、米H2O.aiの「<a href="https://www.h2o.ai/driverless-ai/" target="_blank">Driverless AI</a>」もある。「Tableau」などの製品になじみがあるビジネスユーザーが、機械学習アルゴリズムを完璧にマスターすることなくデータから洞察を得たいと考えている場合に適した製品だ。</p>
-
-<p>　Prodigyと同様に、Driverless AIもWebベースのUIで操作できる。解を得るためにデータセットの目的変数を1つ以上選択すると、システムがその答えを提示する。結果はインタラクティブなグラフで表示され、分かりやすい説明が付いている。</p>
-
-<p>　Prodigyとは違って、Driverless AIはプロプライエタリな製品だ。H2O.aiのスタックの多くはオープンソースだが、この製品は違う。技術系以外のユーザーに機械学習を使ってもらう手段として、オープンソーススタックではなく商用製品が中心となるかもしれない兆候の1つだ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200002/?ST=cm-software&P=2">GoogleのAutoMLとVizier</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200002/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200002/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200002/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/100200076/100200002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 12 Oct 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>システム刷新に失敗した京都市、ITベンダーと契約解除で訴訟の可能性も（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/101101158/</link>
-			<description><![CDATA[　京都市は2017年10月11日、基幹業務システムの刷新プロジェクトについて、バッチ処理プログラムの移行業務を委託していたシステムズとの業務委託契約を解除した。作業の遅れで京都市は既に稼働時期を2017年1月から2018年1月に延期していたが、それがさらに遅れて2020年になる見込みである。新システムの稼働時期は、当初の予定よりも3年以上の遅れとなりそうだ。]]></description>
-			<pubDate>Thu, 12 Oct 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows更新で一部法人に不具合、ログインできなくなる恐れ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101202431/</link>
-			<description><![CDATA[　日本マイクロソフトは2017年10月12日、10月11日に公開した更新プログラムで一部に不具合が発生していることを明らかにした。法人ユーザーのうち、Windows Server Update Services（WSUS）を利用している一部で発生している。一般消費者での不具合の発生は確認されていない。]]></description>
-			<pubDate>Thu, 12 Oct 2017 10:00:31 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows 10の最初の機能アップグレード、10月10日でサポートを終了（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101200368/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftは、Windows 10の最初の機能アップグレードとして2015年11月にリリースした「バージョン1511」のサポートを、2017年10月10日をもって終了した。この日リリースしたセキュリティ更新プログラムが、バージョン1511に向けた最後の更新プログラムとなる。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101200368/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　Windows 10のバージョン番号は「yymm」の形式となっている。バージョン1511のサポート終了予定について、同社はこれまでに何度か告知した。Microsoftのサイトに掲載されている「<a href="https://support.microsoft.com/ja-jp/help/13853/windows-lifecycle-fact-sheet" target="_blank">Windowsライフサイクルのファクトシート</a>」には、各バージョンのサポート終了日が明記されている。
-</p>
-<p>
-　バージョン1511のサポートが終了した10月10日は、Microsoft製品のセキュリティ更新プログラムが提供される月例パッチのリリース日にあたる。Windows 10のこれまでのバージョンは、サポート終了日がいずれも月例パッチの提供日と合致している。バージョン1511の次の「Anniversary Update（バージョン1607）」は、今のところサポート終了予定が「2018年3月（仮）」と記載されている。実際にこの月でサポートが終了するとしたら、やはり月例パッチ提供日である2018年3月13日になると見て間違いなさそうだ。
-</p>
-<p>
-　Microsoftは、「Windows as a Service」と呼ぶ更新モデルの一環として、Windows 10の機能アップグレードのサポート期間を1年半と説明し、OSの定期的な更新（見方によってはひっきりなしの更新）をユーザーに求めてきた。機能アップグレードのリリースは年2回。したがって、半年ごとのアップグレードにためらいを感じる人は、機能アップグレードの適用を2バージョン連続でパスしたら、その先にはサポート終了が待っている。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101200368/?ST=cio-security&P=2">だが実際には、バージョン1511は、2015年1...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101200368/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101200368/?ST=cio-security&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101200368/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 12 Oct 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ライザップが国内133店舗にクラウド展開、ドリーム・アーツのサービス導入（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100502414/</link>
-			<description><![CDATA[　ライザップは2017年10月から順次、国内133の店舗でクラウドサービスを導入し、店舗運営に利用する。多店舗チェーン運営を支援するクラウドサービス「Shopらん」を提供するドリーム・アーツが10月12日に発表した。]]></description>
-			<pubDate>Thu, 12 Oct 2017 11:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>TOKYO MXがエムキャスで独自編成のトライアル、同時配信以外の時間帯で（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101202432/</link>
-			<description><![CDATA[　東京メトロポリタンテレビジョン（TOKYO MX）は2017年10月11日、番組リアルタイム配信サービス「エムキャス」のチャンネル「TOKYO MX１」で、オリジナル編成のトライアルを同日に開始すると発表した。2017年11月11日までの期間限定で実施する。]]></description>
-			<pubDate>Thu, 12 Oct 2017 11:26:45 +0900</pubDate>
-		</item>
-		<item>
-			<title>社員の行動履歴から情報漏洩リスクを検知、ディー・オー・エスがエルテスと連携で（ITpro EXPO 2017速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101200054/</link>
-			<description><![CDATA[　ディー・オー・エスは2017年10月13日まで東京ビッグサイトで開催中の「ITpro EXPO 2017」に、情報漏洩を未然に防ぐシステム「SS1 Risk Analyzer」を出展した。蓄積した社員の操作ログを分析して情報漏洩の兆候を検知する。]]></description>
-			<pubDate>Thu, 12 Oct 2017 13:06:55 +0900</pubDate>
-		</item>
-		<item>
-			<title>産総研の人工知能技術コンソーシアム、10年先や15年先の活用イメージを議論（ITpro EXPO 2017速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101200055/</link>
-			<description><![CDATA[　産業技術総合研究所は、2017年10月11日から13日まで東京ビッグサイトで開催中の「ITpro EXPO 2017」で、人工知能（AI）をテーマに複数のワーキンググループ（WG）を運営する「人工知能技術コンソーシアム」の取り組みを展示している。]]></description>
-			<pubDate>Thu, 12 Oct 2017 13:18:20 +0900</pubDate>
-		</item>
-		<item>
 			<title>名刺管理Sansan、ABMに向けた情報管理の利点をアピール（ITpro EXPO 2017速報）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101200057/</link>
 			<description><![CDATA[　名刺管理のクラウドサービスを提供するSansanは、2017年10月11日〜13日まで開催している「ITpro EXPO 2017」で、法人向け名刺管理サービス「Sansan」を展示している。]]></description>
@@ -260,10 +149,58 @@
 			<pubDate>Thu, 12 Oct 2017 16:55:30 +0900</pubDate>
 		</item>
 		<item>
+			<title>テレワークするならポリシ－の徹底を、シマンテックとマクニカが対策サービス（ITpro EXPO 2017速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101200078/</link>
+			<description><![CDATA[　シマンテックとマクニカネットワークスは2017年10月11日から13日まで東京ビッグサイトで開催している「ITpro EXPO 2017」で、シマンテック製品を展示。「WSS（Symantec Cloud Web Security Service）」などの製品をアピールした。]]></description>
+			<pubDate>Thu, 12 Oct 2017 17:03:36 +0900</pubDate>
+		</item>
+		<item>
+			<title>SCSKがセキュリティ製品を強化、クラウドからドローンまで（ITpro EXPO 2017速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101200079/</link>
+			<description><![CDATA[　SCSKは2017年10月11日から13日にかけて東京ビッグサイトで開催している「ITpro EXPO 2017」に出展。「次世代セキュリティ」をテーマに、同社が取り扱いを強化するクラウドセキュリティ対策製品「Netskope」やSIEM（Security Information Event Management）製品「ArcSight UBA」などを紹介している。]]></description>
+			<pubDate>Thu, 12 Oct 2017 17:06:13 +0900</pubDate>
+		</item>
+		<item>
 			<title>医療機関向け予約システムで不正アクセス、約60万人の個人情報が流出した可能性（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101202434/</link>
 			<description><![CDATA[　医薬品や医療機器の販売を手掛けるほくやく・竹山ホールディングスは2017年10月11日、子会社が運営する医療機関向け予約システムが不正アクセスを受け、約60万人の個人情報が流出した可能性があると発表した。]]></description>
 			<pubDate>Thu, 12 Oct 2017 17:16:35 +0900</pubDate>
+		</item>
+		<item>
+			<title>「米国はABM一色」、シンフォニーマーケティングの庭山氏（ITpro EXPO 2017速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101200080/</link>
+			<description><![CDATA[　シンフォニーマーケティングの庭山一郎代表取締役は2017年10月12日、東京ビッグサイトで開催中の「ITpro EXPO 2017」の特別講演に登壇し、BtoBマーケティングにおけるABM（アカウントベースドマーケティング）をテーマに講演した。]]></description>
+			<pubDate>Thu, 12 Oct 2017 17:24:30 +0900</pubDate>
+		</item>
+		<item>
+			<title>コンピューター総合研究所の行動監視システム、牛の転倒や発情を早期に発見（ITpro EXPO 2017速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101200074/</link>
+			<description><![CDATA[　コンピューター総合研究所は2017年10月11日から13日まで、東京ビッグサイトで開催している「ITpro EXPO 2017」で、畜産農家向けの牛の行動監視システム「MOH-CAL」（もーかる）を展示している。]]></description>
+			<pubDate>Thu, 12 Oct 2017 17:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>カスペルスキー、Windows OSとアプリの脆弱性管理ソフトを展示（ITpro EXPO 2017速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101200081/</link>
+			<description><![CDATA[　カスペルスキーは、2017年10月11日から13日まで東京ビッグサイトで開催中の「ITpro EXPO 2017」で、脆弱性管理ソフトや仮想化環境向けのウイルス対策ソフトを展示している。]]></description>
+			<pubDate>Thu, 12 Oct 2017 17:45:19 +0900</pubDate>
+		</item>
+		<item>
+			<title>NTTデータがRPAソフト「WinActor」を展示、目玉は集中管理とサーバー対応（ITpro EXPO 2017速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101200082/</link>
+			<description><![CDATA[　NTTデータは、2017年10月13日まで東京ビッグサイトで開催中の「ITpro EXPO 2017」に、パソコンの定型操作を自動化する国産のRPAソフト「WinActor」を展示している。実際にどのようにRPAソフトが動いて仕事を自動化してくれるのか――。それをこの目で確かめたいという来場者で賑わいを見せていた。]]></description>
+			<pubDate>Thu, 12 Oct 2017 18:01:10 +0900</pubDate>
+		</item>
+		<item>
+			<title>アルファーテック、最大100拠点に同時接続できるWeb会議システム（ITpro EXPO 2017速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101200083/</link>
+			<description><![CDATA[　アルファーテックは2017年10月13日まで東京ビッグサイトで開催中の「ITpro EXPO 2017」で、クラウド型Web会議システム「VM2@alpha」と最大100拠点程度までの同時接続が可能なWeb会議システム「VML@alpha」を出展している。]]></description>
+			<pubDate>Thu, 12 Oct 2017 18:04:35 +0900</pubDate>
+		</item>
+		<item>
+			<title>機械学習で故障時期を予測、ユニアデックスの「設備診断エンジン」（ITpro EXPO 2017速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101200084/</link>
+			<description><![CDATA[　ユニアデックスは2017年10月13日まで東京ビッグサイトで開催中の「ITpro EXPO」で、ITオートメーション、コミュニケーション、セキュリティ、クラウド＆ITアウトソーシング、「IoT-AI-Robot」の5分野に関連するソリューションを展示している。]]></description>
+			<pubDate>Thu, 12 Oct 2017 18:12:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
