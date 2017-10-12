@@ -5,24 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：Windows版Linuxの導入でつまずかない方法（今さら聞けない Windows版Linuxの疑問 ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/100300411/101000003/?n12</link>
-			<description><![CDATA[　10月17日に一般提供が始まる「Windows 10 Fall Creators Update」は、Linux互換環境「Windows Subsystem for Linux」を正式に搭載する。Windowsストアから簡単にLinux OSを導入できる機能だが、つまずきやすい落とし穴がある。]]></description>
-			<pubDate>Wed, 11 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>プラント設備の制御をAIで、NTTコムが横河電機と共同開発（ITpro EXPO 2017速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101100028/</link>
-			<description><![CDATA[　NTTコミュニケーションズは2017年10月11日に始まった「ITpro EXPO 2017」で、ビジネスにAI（人工知能）を適用するための製品やサービスを紹介。様々なAIの具体的な活用例を展示した。]]></description>
-			<pubDate>Wed, 11 Oct 2017 15:59:56 +0900</pubDate>
-		</item>
-		<item>
-			<title>カメラを向けるとガイダンス出現、東芝情報システムのARマニュアルとARナビ（ITpro EXPO 2017速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101100029/</link>
-			<description><![CDATA[　東京ビッグサイトの「ITpro EXPO 2017」会場で、東芝情報システムがAR（拡張現実）技術をふんだんに盛り込んだマニュアル／ナビゲーション作成システムのプレビューを実施している。]]></description>
-			<pubDate>Wed, 11 Oct 2017 16:10:26 +0900</pubDate>
-		</item>
-		<item>
 			<title>情報工房、ランサムウエア対策にも効くセキュリティソフト（ITpro EXPO 2017速報）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101100030/</link>
 			<description><![CDATA[　ネットワーク関連のシステム構築やコンサルティングを手掛ける情報工房は2017年10月11日から13日まで東京ビッグサイトで開催している「ITpro EXPO 2017」で、セキュリティ対策ソフト「Digital Guardian」を展示している。同社によればランサムウエア対策にも有効だという。]]></description>
@@ -221,6 +203,12 @@
 			<pubDate>Thu, 12 Oct 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>Windows更新で一部法人に不具合、ログインできなくなる恐れ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101202431/</link>
+			<description><![CDATA[　日本マイクロソフトは2017年10月12日、10月11日に公開した更新プログラムで一部に不具合が発生していることを明らかにした。法人ユーザーのうち、Windows Server Update Services（WSUS）を利用している一部で発生している。一般消費者での不具合の発生は確認されていない。]]></description>
+			<pubDate>Thu, 12 Oct 2017 10:00:31 +0900</pubDate>
+		</item>
+		<item>
 			<title>Windows 10の最初の機能アップグレード、10月10日でサポートを終了（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101200368/</link>
 			<description><![CDATA[<div>
@@ -264,6 +252,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100502414/</link>
 			<description><![CDATA[　ライザップは2017年10月から順次、国内133の店舗でクラウドサービスを導入し、店舗運営に利用する。多店舗チェーン運営を支援するクラウドサービス「Shopらん」を提供するドリーム・アーツが10月12日に発表した。]]></description>
 			<pubDate>Thu, 12 Oct 2017 11:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>TOKYO MXがエムキャスで独自編成のトライアル、同時配信以外の時間帯で（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101202432/</link>
+			<description><![CDATA[　東京メトロポリタンテレビジョン（TOKYO MX）は2017年10月11日、番組リアルタイム配信サービス「エムキャス」のチャンネル「TOKYO MX１」で、オリジナル編成のトライアルを同日に開始すると発表した。2017年11月11日までの期間限定で実施する。]]></description>
+			<pubDate>Thu, 12 Oct 2017 11:26:45 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
