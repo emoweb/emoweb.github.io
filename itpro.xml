@@ -5,40 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>AIに追い出され編集長がクビになる日（編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/100300050/</link>
-			<description><![CDATA[　人工知能（AI）の普及が進んでいる。囲碁や将棋でプロに勝つだけでなく、コールセンターに寄せられた顧客の質問に回答したり、工場設備の故障やサイバー攻撃の兆候を検知したりと、様々な事例が出てきている。今後どこまで広がっていくのか、日経コンピュータに掲載した記事などの事実を基に、AIとの対話を想像してみた。]]></description>
-			<pubDate>Thu, 12 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>なりすましメールを見抜ける新技術、DMARCの優れた3点（迷惑メール撲滅の切り札）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/100400412/100400003/</link>
-			<description><![CDATA[　送信ドメイン認証のSPFとDKIMの普及が進んでいるが、これらだけでは不十分なケースがある。DMARCを利用すれば、SPF/DKIMの弱点を補えるとともに、新たな認証の仕組みを導入できる。]]></description>
-			<pubDate>Thu, 12 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>優秀なシステムほど恐ろしい、たまの緊急事態に対処できず（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/101000095/</link>
-			<description><![CDATA[　読者のみなさんに簡単な問題を出したい。「トラブルが半年に一度発生するシステムと、5年に一度しか発生しないシステムでは、どちらが深刻な事態になるか」。まずは最近発生した事件について見たうえで、答えについて検討してみたい。]]></description>
-			<pubDate>Thu, 12 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>コマツだけじゃない、深層学習とエッジを使った新たな建機IoT（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/100301149/</link>
-			<description><![CDATA[　「KOMTRAX」に代表される建機のIoT（インターネット・オブ・シングズ）は、コマツのような大手企業の専売特許ではない。中堅の東空販売などは深層学習と「エッジ」を駆使した仕組みを開発した。]]></description>
-			<pubDate>Thu, 12 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windowsで動くLinux、プログラムの互換性は大丈夫か（今さら聞けない Windows版Linuxの疑問 ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/100300411/101100004/</link>
-			<description><![CDATA[　Windows 10でLinuxのプログラムが改変なしにそのまま動かせるLinux互換環境「Windows Subsystem for Linux（WSL）」。その互換性は、WSLがどこまでLinuxカーネルとして振る舞えるかにかかっている。]]></description>
-			<pubDate>Thu, 12 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>プロジェクトメンバーの相性を見極める、独自チャートで失敗を予防（IT人材に足りない巻き込む力）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/100200404/100200003/</link>
-			<description><![CDATA[　重要なステークホルダー（利害関係者）が期待通りに動いてくれない。これもまた、プロジェクトマネジャーやリーダーの悩みの種だ。ITプロジェクトを成功させるために、ステークホルダーが動きやすい環境を用意することが求められる。]]></description>
-			<pubDate>Thu, 12 Oct 2017 05:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：Windows版Linuxの導入でつまずかない方法（今さら聞けない Windows版Linuxの疑問 ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/100300411/101000003/?d12</link>
+			<description><![CDATA[　10月17日に一般提供が始まる「Windows 10 Fall Creators Update」は、Linux互換環境「Windows Subsystem for Linux」を正式に搭載する。Windowsストアから簡単にLinux OSを導入できる機能だが、つまずきやすい落とし穴がある。]]></description>
+			<pubDate>Wed, 11 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>機械学習を自動化する機械学習プロジェクト6選（後）（機械学習を自動化する機械学習プロジェクト6選）</title>
@@ -264,6 +234,36 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101200072/</link>
 			<description><![CDATA[　2017年10月12日、経済産業省 商務情報政策局 審議官の前田 泰宏氏は東京ビッグサイトで開催中の「ITpro EXPO 2017」にて「2020年に向け変貌する情報セキュリティと企業に求められる対応」と題した特別講演を行った。]]></description>
 			<pubDate>Thu, 12 Oct 2017 15:42:58 +0900</pubDate>
+		</item>
+		<item>
+			<title>関西の気風でCOBOLの悩みを解決？ データプロセスが展示会で傾聴（ITpro EXPO 2017速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101200073/</link>
+			<description><![CDATA[　展示会にはつきものの、製品やサービスの展示がない。目に入るのは、「関西傾聴」ののれんと巨大なたこ焼きのオブジェ、そして着流しの説明員。一風変わったブースを出展しているのは、関西の独立系システムインテグレータであるデータプロセスだ。]]></description>
+			<pubDate>Thu, 12 Oct 2017 16:18:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>バラクーダ、SD-WANとランサム対策に着目したセキュリティ機器（ITpro EXPO 2017速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101200075/</link>
+			<description><![CDATA[　バラクーダネットワークスジャパンは、2017年10月11日から13日まで東京ビッグサイトで開催している「ITpro EXPO 2017」で、次世代ファイアウォール機器やデータバックアップ専用装置などセキュリティ機器群をパネル展示している。]]></description>
+			<pubDate>Thu, 12 Oct 2017 16:34:30 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソフォスがランサムウエア対策機能を持つセキュリティソフトをデモ（ITpro EXPO 2017速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101200076/</link>
+			<description><![CDATA[　ソフォスは2017年10月13日まで東京ビッグサイトで開催中の「ITpro EXPO 2017」で、企業向けセキュリティソフト「Intercept X」と、ファイアウォール装置「XG Firewall」を展示している。]]></description>
+			<pubDate>Thu, 12 Oct 2017 16:39:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ユーザックシステム、RPAソフトで業務を自動化する体験コーナー（ITpro EXPO 2017速報）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101200077/</link>
+			<description><![CDATA[　ユーザックシステムは、2017年10月13日まで東京ビッグサイトで開催中の「ITpro EXPO 2017」で、同社のRPA（Robotic Process Automation）ソフトを出展している。自動化したい業務フローをプログラミングレスで設定できる機能などを、来場者がパソコンで体験できるコーナーも用意されている。]]></description>
+			<pubDate>Thu, 12 Oct 2017 16:55:30 +0900</pubDate>
+		</item>
+		<item>
+			<title>医療機関向け予約システムで不正アクセス、約60万人の個人情報が流出した可能性（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101202434/</link>
+			<description><![CDATA[　医薬品や医療機器の販売を手掛けるほくやく・竹山ホールディングスは2017年10月11日、子会社が運営する医療機関向け予約システムが不正アクセスを受け、約60万人の個人情報が流出した可能性があると発表した。]]></description>
+			<pubDate>Thu, 12 Oct 2017 17:16:35 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
