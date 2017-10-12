@@ -11,18 +11,6 @@
 			<pubDate>Wed, 11 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>AIで社内手続きの負担を軽減、tdiの「手続きNavi」（ITpro EXPO 2017速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101100026/</link>
-			<description><![CDATA[　情報技術開発（tdi）は2017年10月11日～13日まで東京ビッグサイトで開催している「ITpro EXPO 2017」で、社内手続き案内システム「手続きNavi」を展示している。]]></description>
-			<pubDate>Wed, 11 Oct 2017 15:45:36 +0900</pubDate>
-		</item>
-		<item>
-			<title>10分セミナーを1日20回以上開催、日本マイクロソフトがSurfaceを紹介（ITpro EXPO 2017速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101100027/</link>
-			<description><![CDATA[　2017年10月11日から東京ビッグサイトで始まった「ITpro EXPO 2017」。日本マイクロソフトは自社のブースで、タブレット型やデスクトップ型など様々な形態の端末からなる「Microsoft Surface」シリーズを展示している。]]></description>
-			<pubDate>Wed, 11 Oct 2017 15:54:16 +0900</pubDate>
-		</item>
-		<item>
 			<title>プラント設備の制御をAIで、NTTコムが横河電機と共同開発（ITpro EXPO 2017速報）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101100028/</link>
 			<description><![CDATA[　NTTコミュニケーションズは2017年10月11日に始まった「ITpro EXPO 2017」で、ビジネスにAI（人工知能）を適用するための製品やサービスを紹介。様々なAIの具体的な活用例を展示した。]]></description>
@@ -231,6 +219,51 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/101101158/</link>
 			<description><![CDATA[　京都市は2017年10月11日、基幹業務システムの刷新プロジェクトについて、バッチ処理プログラムの移行業務を委託していたシステムズとの業務委託契約を解除した。作業の遅れで京都市は既に稼働時期を2017年1月から2018年1月に延期していたが、それがさらに遅れて2020年になる見込みである。新システムの稼働時期は、当初の予定よりも3年以上の遅れとなりそうだ。]]></description>
 			<pubDate>Thu, 12 Oct 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10の最初の機能アップグレード、10月10日でサポートを終了（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101200368/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Microsoftは、Windows 10の最初の機能アップグレードとして2015年11月にリリースした「バージョン1511」のサポートを、2017年10月10日をもって終了した。この日リリースしたセキュリティ更新プログラムが、バージョン1511に向けた最後の更新プログラムとなる。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101200368/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　Windows 10のバージョン番号は「yymm」の形式となっている。バージョン1511のサポート終了予定について、同社はこれまでに何度か告知した。Microsoftのサイトに掲載されている「<a href="https://support.microsoft.com/ja-jp/help/13853/windows-lifecycle-fact-sheet" target="_blank">Windowsライフサイクルのファクトシート</a>」には、各バージョンのサポート終了日が明記されている。
+</p>
+<p>
+　バージョン1511のサポートが終了した10月10日は、Microsoft製品のセキュリティ更新プログラムが提供される月例パッチのリリース日にあたる。Windows 10のこれまでのバージョンは、サポート終了日がいずれも月例パッチの提供日と合致している。バージョン1511の次の「Anniversary Update（バージョン1607）」は、今のところサポート終了予定が「2018年3月（仮）」と記載されている。実際にこの月でサポートが終了するとしたら、やはり月例パッチ提供日である2018年3月13日になると見て間違いなさそうだ。
+</p>
+<p>
+　Microsoftは、「Windows as a Service」と呼ぶ更新モデルの一環として、Windows 10の機能アップグレードのサポート期間を1年半と説明し、OSの定期的な更新（見方によってはひっきりなしの更新）をユーザーに求めてきた。機能アップグレードのリリースは年2回。したがって、半年ごとのアップグレードにためらいを感じる人は、機能アップグレードの適用を2バージョン連続でパスしたら、その先にはサポート終了が待っている。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101200368/?ST=cio-security&P=2">だが実際には、バージョン1511は、2015年1...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101200368/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101200368/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101200368/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 12 Oct 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ライザップが国内133店舗にクラウド展開、ドリーム・アーツのサービス導入（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/100502414/</link>
+			<description><![CDATA[　ライザップは2017年10月から順次、国内133の店舗でクラウドサービスを導入し、店舗運営に利用する。多店舗チェーン運営を支援するクラウドサービス「Shopらん」を提供するドリーム・アーツが10月12日に発表した。]]></description>
+			<pubDate>Thu, 12 Oct 2017 11:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
