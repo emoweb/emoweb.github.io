@@ -11,41 +11,6 @@
 			<pubDate>Thu, 12 Oct 2017 06:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>企業のIoT導入が急拡大、セキュリティへの懸念は低下（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101300426/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　企業でのIoTの導入が急速に拡大している。英Vodafone Groupが2017年9月に発表した調査レポート「IoT Barometer 2017/18」によると、あらゆる業種でIoTの導入が急増しており、その用途は多岐にわたる。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101300426/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　この調査は、企業でITの意思決定に携わっている上級幹部1278人を対象に実施したもの。調査結果によると、この1年間でIoTソリューションの導入や利用を増やした企業は84％だった。自社で利用しているネット接続機器の数は、1万台以上との回答が12％で、5万台以上との回答も6％あった。
-</p>
-<p>
-　導入の多さからも分かるように、企業各社はIoTに確実な手応えを感じている。IoTの導入で明確な効果があったと答えた企業は実に95％で、既存の収入源の拡大や新たな収入源の開拓につながったとした企業が過半数に上った。IoTに効果があったと考えている企業の88％が、過去1年間でIoTへの投資を増やしているのもうなずける。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101300426/?ST=cm-network&P=2">IoTの導入は、これまでは主に大企業が先行していたが、今回の結果...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101300426/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101300426/?ST=cm-network&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101300426/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 13 Oct 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>「製品性能だけでは差別化できない」、ブリヂストン三枝氏（ITpro EXPO 2017速報）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101300096/</link>
 			<description><![CDATA[　ブリヂストン 執行役員 CDO・デジタルソリューションセンター担当の三枝 幸夫氏は2017年10月13日、東京ビッグサイトで行われている「ITpro EXPO 2017」にて「ブリヂストン、デジタル変革の挑戦～生産革新から新サービス創出まで」と題した基調講演を行った。]]></description>
@@ -230,6 +195,36 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/092800400/101200002/</link>
 			<description><![CDATA[　「英大文字、小文字、数字、記号をすべて使う」。パスワードの設定にこうした規則を課すWebサイトや社内システムは多い。しかし、規則は思ったような効果がないどころか、逆にセキュリティレベルを落とす結果になっていた。]]></description>
 			<pubDate>Mon, 16 Oct 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>検出をすり抜ける脅威、ファイルレス攻撃が増加（上）（検出をすり抜ける脅威、ファイルレス攻撃が増加）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　「この種の攻撃は毎日見られる。何かしらすり抜けてくる。何らかの種類のエクスプロイトや、未知のランサムウエアだ。当社がネットワークやエンドポイントの防御で阻止したものがいくつかある」。米Samsung Research AmericaのSteven Lentz最高セキュリティ責任者（CSO）がこのように懸念しているのは、「ファイルレス攻撃」と呼ばれる手法だ。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　ファイルレス攻撃は、ゼロフットプリント攻撃、マクロ攻撃、非マルウエア攻撃と称されることもある。ユーザーのコンピューターにソフトウエアをインストールする行動を伴わないことから、ウイルス対策ツールによる検出をすり抜ける可能性が他の攻撃より高い。また、承認されたアプリケーションのみのインストールを認めるホワイトリストも役に立たない。マシンにインストール済みで承認リストに入っているアプリケーションを利用するからだ。</p>
+
+<p>　だが、「ファイルレス」「ゼロフットプリント」「非マルウエア」といった表現は、厳密には正確ではない。ユーザーによる不正な添付ファイルのダウンロードを利用することが多く、またコンピューター上のしかるべき場所を見ると痕跡が残っている。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000001/?ST=cm-network&P=2">「完全にゼロフットプリントのマルウエアは、本当の意味では存在しな...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000001/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000001/?ST=cm-network&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000001/?ST=cm-network&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000001/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 16 Oct 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
