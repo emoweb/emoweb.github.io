@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>業務マニュアルを20カ国語に自動翻訳、コニカミノルタの「AiLingual」（ITpro EXPO 2017速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101300109/</link>
-			<description><![CDATA[　コニカミノルタは2017年10月11日から13日まで、東京ビッグサイトで開催している「ITpro EXPO 2017」で、業務マニュアルを翻訳するクラウドサービス「AiLingual」（アイリンガル）を展示している。]]></description>
-			<pubDate>Fri, 13 Oct 2017 18:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>スカパーJSAT、衛星画像を活用したデータ分析技術（ITpro EXPO 2017速報）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101300111/</link>
 			<description><![CDATA[　通信衛星事業を手掛けるスカパーJSATは2017年10月13日まで東京ビッグサイトで開催された「ITpro EXPO 2017」に出展。同社が日本で提供を検討する衛星画像を使ったデータ分析技術を紹介した。]]></description>
@@ -249,6 +243,42 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/101400143/</link>
 			<description><![CDATA[　個人的な話で恐縮だが、360度カメラに結構ハマっている。旅行などでも利用しているのだが、プレゼンの様子を記録するなど仕事にも役立っている。周囲の全てを撮影できるという、普通のカメラやビデオの映像とはまた違うメリットが、数多くある。]]></description>
 			<pubDate>Tue, 17 Oct 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ビジネス目標に沿ったIT管理を実現するITSM（前）（ビジネス目標に沿ったIT管理を実現するITSM）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/101000078/101000001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　ITサービスマネジメント（ITSM）とは、顧客指向のITサービスの実装、改善、サポートを管理することであり、そのためのポリシー、プロセス、手順の集まりである。ハードウエアやネットワーク、システムに主眼を置いている各種のITマネジメント手法とは違い、顧客に向けて提供するITサービスを常にビジネス目標に沿って改善していくことを目指す。</p>
+
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000078/101000001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　ITSMの範疇に含まれるITマネジメントフレームワークはいくつかあり、一元的なシステムや分散システムに適用できる。医療、政府機関、テクノロジーなど、特定の業種や分野に固有のITニーズに対処するフレームワークもある。ITSMを利用している企業では、ITはテクノロジーを管理する部門のことではなくサービスを意味し、価値あるサービスを顧客に提供することに焦点を当てている。</p>
+
+<h4>ITSMの用途</h4>
+
+<p>　ITSMには、ITサービスや顧客サービスの手法に関してマネジメントの標準を確立するためのさまざまなフレームワークがある。ISO 9000、ITIL（Information Technology Infrastructure Library）、ISO/IECなど、標準として広く使われているフレームワークのほか、品質管理、ソフトウエアエンジニアリング、情報セキュリティマネジメントに関するフレームワークがある。</p>
+
+<p>　肝心なのは、ITSMに何ができるかというより、ITSMに分類されるフレームワークを使って何ができるかだ。フレームワークに従うことで、サービス指向のIT部門の体制や構造が整い、ITの目標をビジネスのニーズや目標に合致させることができる。特に顧客指向の企業で、こうした動きが進んでいる。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000078/101000001/?ST=cio-management&P=2">ITSMとITILの違い</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000078/101000001/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000078/101000001/?ST=cio-management&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000078/101000001/?ST=cio-management&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000078/101000001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 17 Oct 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
