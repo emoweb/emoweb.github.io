@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>スカパーJSAT、衛星画像を活用したデータ分析技術（ITpro EXPO 2017速報）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101300111/</link>
-			<description><![CDATA[　通信衛星事業を手掛けるスカパーJSATは2017年10月13日まで東京ビッグサイトで開催された「ITpro EXPO 2017」に出展。同社が日本で提供を検討する衛星画像を使ったデータ分析技術を紹介した。]]></description>
-			<pubDate>Fri, 13 Oct 2017 18:32:42 +0900</pubDate>
-		</item>
-		<item>
 			<title>最近のエンジニア転職事情は？　パソナキャリアと日経HRが講演で疑問に回答（ITpro EXPO 2017速報）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101000415/101300112/</link>
 			<description><![CDATA[　2017年10月13日、東京ビッグサイトで開催した「ITpro EXPO 2017」で、「分野でこんなに違う求人事情～エンジニア転職の今～」と題した講演が行われた。講演には、パソナ パソナキャリアカンパニーの遠山 有子氏と、日経HRの松本 恭子氏が登壇した。]]></description>
@@ -279,6 +273,45 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 17 Oct 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Webブラウザーの攻撃ブロックテスト、EdgeがChromeやFirefoxを上回る（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101700427/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　フィッシング攻撃やソーシャルエンジニアリング型マルウエア（SEM）攻撃に対するWebブラウザーの防御能力を調べるテストで、Windows 10のデフォルトブラウザーである米Microsoftの「Edge」が、米Googleの「Chrome」や米Mozillaの「Firefox」を上回った。これは、米セキュリティテスト企業NSS Labsが現地時間2017年10月13日に発表したもの。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101700427/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Microsoft</div>
+</div>
+<p>
+　テスト結果によると、Edgeは、フィッシング詐欺サイトの92％、SEM攻撃の100％を自動的にブロックした。この数字は、ChromeとFirefoxを大きく上回っている。2番手のChromeは、フィッシング攻撃のブロックが74％、SEM攻撃のブロックが88％だった。Firefoxはどちらも3番手で、それぞれ61％と70％にとどまった。
+</p>
+<p>
+　SEM攻撃にはさまざまな手法があるが、ユーザーを騙して悪質なコードをダウンロードさせる点が共通している。「Facebook」や「Twitter」といったSNSのリンクを使ったり、利用中のパソコンで感染などの問題が見つかったとする偽の警告をブラウザー内に表示したりといった手口が見られる。
+</p>
+<p>
+　Microsoftのブラウザーがトップとなった今回の結果は、NSS Labsのテスト結果を以前からウォッチしてきた者にとっては意外ではない。これまでも同社のテストでは、あの由緒ある「Internet Explorer（IE）」がマルウエアの防御能力で第1位を獲得することがたびたびあった。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101700427/?ST=cm-network&P=2">Webブラウザーは、クラウドベースのサービスを利用してサイトを判...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101700427/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101700427/?ST=cm-network&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101700427/?ST=cm-network&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101700427/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 17 Oct 2017 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
