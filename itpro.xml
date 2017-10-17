@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>昨日、一番読まれた記事は：Excel方眼紙がはびこる理由、「神Excelはおかしい」と声を上げよ（Excel方眼紙の是非を問う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101200421/101200001/?d18</link>
+			<description><![CDATA[　表計算ソフトのMicrosoft Excelを方眼紙に見立ててワープロのように使う「Excel方眼紙」。その是非を問う公開討論会が2017年9月30日に開かれた。否定派と肯定派の講演と、パネルディスカッション、来場者の質疑応答と、その内容は示唆に富む。初回は、否定派による講演録。]]></description>
+			<pubDate>Mon, 16 Oct 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>青少年インターネット環境整備法（Close Up Keyword）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/092000092/</link>
 			<description><![CDATA[　18歳未満の青少年が利用する携帯電話機にフィルタリングサービスの適用を義務付ける法律。2017年6月の改正で、スマートフォンやタブレットなども対象となり、代理店やメーカーへの義務項目が追加された。]]></description>
@@ -270,6 +276,44 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/101600936/</link>
 			<description><![CDATA[　インターネットへの「信頼」が、数年前と比べてますます失われている――。あくまで筆者の個人的な感覚だが、そんな思いを強くしている。]]></description>
 			<pubDate>Wed, 18 Oct 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>検出をすり抜ける脅威、ファイルレス攻撃が増加中（中）（検出をすり抜ける脅威、ファイルレス攻撃が増加）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　「この種の攻撃は毎日見られる。何かしらすり抜けてくる。何らかの種類のエクスプロイトや、未知のランサムウエアだ。当社がネットワークやエンドポイントの防御で阻止したものがいくつかある」。米Samsung Research AmericaのSteven Lentz最高セキュリティ責任者（CSO）がこのように懸念しているのは、「ファイルレス攻撃」と呼ばれる手法だ。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000001/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　攻撃者からすると、標的のコンピューターに新しいソフトウエアをインストールするのは、注意を引いてしまう可能性が高い。「攻撃先のコンピューターにファイルを置かないとしたら、詮索を受ける度合いはどのくらいになるだろうか。だからこそ、ファイルレス攻撃やインメモリ攻撃を選ぶ方が、破壊力がずっと大きい。検知の目がはるかに少なくなり、攻撃がはるかにうまくいく」</p>
+
+<p>　また、機能面でも遜色はなく、「ペイロードはまったく同じだ」とViscuso氏は話す。例えば、ランサムウエア攻撃を仕掛けたい場合に、バイナリファイルをインストールしなくても、PowerShellを使う手がある。「新しいソフトウエアをインストールして実行できることはすべて、PowerShellでも可能だ。インメモリやPowerShellで行える攻撃に制限はない」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000002/?ST=cm-network&P=2">ファイルレス攻撃が増えているとの報告は、米McAfeeからも上が...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000002/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000002/?ST=cm-network&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000002/?ST=cm-network&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000002/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 18 Oct 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本HPが商用VR市場の開拓に意欲、新ワークステーションで攻勢（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101702457/</link>
+			<description><![CDATA[　日本HPは2017年10月17日、VR（仮想現実）に関する事業説明会を開催した。米HP パーソナルシステムズ ワークステーション＆シンクライアントビジネス担当 バイスプレジデント兼ゼネラルマネージャーのファビア・ガルシア氏は「商用VR分野に大きな機会がある」とし、VRコンテンツの作成から活用まで一貫した環境を提供すると説明。商用VR市場の開拓に意欲を示した。]]></description>
+			<pubDate>Wed, 18 Oct 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
