@@ -11,45 +11,6 @@
 			<pubDate>Mon, 16 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Webブラウザーの攻撃ブロックテスト、EdgeがChromeやFirefoxを上回る（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101700427/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　フィッシング攻撃やソーシャルエンジニアリング型マルウエア（SEM）攻撃に対するWebブラウザーの防御能力を調べるテストで、Windows 10のデフォルトブラウザーである米Microsoftの「Edge」が、米Googleの「Chrome」や米Mozillaの「Firefox」を上回った。これは、米セキュリティテスト企業NSS Labsが現地時間2017年10月13日に発表したもの。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101700427/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Microsoft</div>
-</div>
-<p>
-　テスト結果によると、Edgeは、フィッシング詐欺サイトの92％、SEM攻撃の100％を自動的にブロックした。この数字は、ChromeとFirefoxを大きく上回っている。2番手のChromeは、フィッシング攻撃のブロックが74％、SEM攻撃のブロックが88％だった。Firefoxはどちらも3番手で、それぞれ61％と70％にとどまった。
-</p>
-<p>
-　SEM攻撃にはさまざまな手法があるが、ユーザーを騙して悪質なコードをダウンロードさせる点が共通している。「Facebook」や「Twitter」といったSNSのリンクを使ったり、利用中のパソコンで感染などの問題が見つかったとする偽の警告をブラウザー内に表示したりといった手口が見られる。
-</p>
-<p>
-　Microsoftのブラウザーがトップとなった今回の結果は、NSS Labsのテスト結果を以前からウォッチしてきた者にとっては意外ではない。これまでも同社のテストでは、あの由緒ある「Internet Explorer（IE）」がマルウエアの防御能力で第1位を獲得することがたびたびあった。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101700427/?ST=cm-network&P=2">Webブラウザーは、クラウドベースのサービスを利用してサイトを判...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101700427/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101700427/?ST=cm-network&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101700427/?ST=cm-network&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101700427/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 17 Oct 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ファーウェイがフラグシップスマホ「Mate 10」、日本ではMate 10 Proを発売（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101702447/</link>
 			<description><![CDATA[　中国ファーウェイは2017年10月16日、ドイツ・ミュンヘンで新製品発表会を開催し、SIMロックフリースマートフォン「HUAWEI Mate 10」シリーズをグローバル向けに発表した。]]></description>
@@ -298,6 +259,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101802462/</link>
 			<description><![CDATA[　日本マイクロソフトは2017年10月18日、同17日（米国時間）に一般提供を始めたWindows 10の大型アップデート「Windows 10 Fall Creators Update」の説明会を実施した。目玉機能としてMR（Mixed Reality＝複合現実）を挙げた。]]></description>
 			<pubDate>Wed, 18 Oct 2017 16:29:33 +0900</pubDate>
+		</item>
+		<item>
+			<title>トレンドマイクロの不正侵入防御、Wikipediaへのアクセスを誤って遮断（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101802463/</link>
+			<description><![CDATA[　トレンドマイクロは2017年10月18日、同社の不正侵入防御システム「TippingPoint」において、設定ミスによりインターネット上の百科事典「Wikipedia」（ウィキペディア）へのアクセスを遮断する症状が発生していることを明らかにした。トラブルは10月16日から発生し、10月18日時点でまだ継続中だ。]]></description>
+			<pubDate>Wed, 18 Oct 2017 18:17:49 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
