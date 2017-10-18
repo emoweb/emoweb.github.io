@@ -278,5 +278,61 @@
 			<description><![CDATA[　10月1日から5日間、世界最大のJava開発者会議「JavaOne」が開催されました。キーノートや500近くのセッションなどを通じて、Javaの最新情報に触れることのできる5日間となりました。このJavaOneの模様を2回にわたってお伝えします。今回はキーノートセッションを中心にレポートします。]]></description>
 			<pubDate>Thu, 19 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>ビジネス目標に沿ったIT管理を実現するITSM（後）（ビジネス目標に沿ったIT管理を実現するITSM）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/101000078/101000002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　ITサービスマネジメント（ITSM）とは、顧客指向のITサービスの実装、改善、サポートを管理することであり、そのためのポリシー、プロセス、手順の集まりである。ハードウエアやネットワーク、システムに主眼を置いている各種のITマネジメント手法とは違い、顧客に向けて提供するITサービスを常にビジネス目標に沿って改善していくことを目指す。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000078/101000001/" target="_blank">前回</a>から続く）</p>
+
+<h4>ITSMのプロセスの捉え方</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000078/101000002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　IT部門には、テクノロジーのみに主眼を置いたプロセスは以前からあった。しかしITSMでは、ITとビジネスの目標を統合するために、ITの観点でプロセスを捉える従来の意識から転換が必要となる。それによって、サービスとしてのITがビジネスの軸だという考え方を強化できる。</p>
+
+<p>　具体的には、従来のIT部門とは次のような点で異なる。</p>
+
+<ul>
+<li>プロセスに主眼：テクノロジーに主眼を置くのではなく、ビジネスレベルでプロセスについて考える</li>
+<br>
+<li>予防的：「火消し」という捉え方ではなく、ビジネス側で予防的に対処する</li>
+<br>
+<li>事前対応的：事後対応的なIT施策ではなく、事前対応的な戦略に変える</li>
+<br>
+<li>顧客：ユーザーではなく顧客と捉える</li>
+<br>
+<li>分散型で外部調達：一元型のIT部門ですべてを組織内でこなすのではなく、外部ソースを利用した分散型に変える</li>
+<br>
+<li>統合型で全社的：IT部門のサイロ化をなくし、孤立を解消していく</li>
+<br>
+<li>繰り返し可能で構造的：その場しのぎの施策ではなく、プロセスを標準化して構造を確立する</li>
+<br>
+<li>公式なベストプラクティス：非公式のポリシーに従うのではなく、プロセスを確立して全員の足並みをそろえる</li>
+<br>
+<li>ビジネスの観点：ITだけのニーズを考えるのではなく、ビジネスニーズをトータルで考える</li>
+<br>
+<li>サービス指向：従来のようなオペレーション主体のIT施策ではなく、顧客へのサービスに主眼を置く</li>
+</ul>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000078/101000002/?ST=cio-management&P=2">ITSMのツール</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000078/101000002/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000078/101000002/?ST=cio-management&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000078/101000002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 19 Oct 2017 06:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
