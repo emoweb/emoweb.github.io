@@ -5,41 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    サムスン、eSIM内蔵の追跡タグ Connect Tag発表。NB-IoTとGPSに対応し正確な位置情報を把握可能
-</title>
-			<link>http://japanese.engadget.com/2017/10/17/esim-connect-tag-nb-iot-gps/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/add672a5d068dcaf7ddbfd40f35372d3/205772905/Samsung-Connect-Tag_1.jpg" />
-SamsungがIoT向け通信技術「NB-IoT」を搭載した追跡タグ 「Connect Tag」を発表しました。
-
-日本でもBluetoothで通信し、財布やカバンに入れておくことで置忘れ防止、紛失時の所在確認を行うMAMORIOなどの追跡タグが増えてきていますが、Connect Tagがそれらと大きく違うのは、eSIMを内蔵し、IoT向けのLTE規格「NB-IoT」および「Cat.M1」に対応する点です。
-
-NB-IoTは上り63Kbps/下り28Kbps、Cat.M1のほうも上下ともに1Mbps程度と通信速度は低速ですが、その分帯域に負荷をかけず、1つの基地局に大量の機器を登録できるというIoT時代の通信仕様です。
-
-
-
-これらの通信規格は、国内でもソフトバンクやKDDIが実証実験を行っています。ただSamsungによれば、民生品としては、NB-IoTやCat.M1を利用する初めての製品とのことです。
-　
-「1兆個のデバイスがネットに繋がる社会に対応」──ソフトバンク、IoT専用の超低速LTE網を全国展開
-
-通信するゴミ箱、沖縄で実証実験。「回収コスト」削減狙いKDDIがLTE-M活用
-
-Bluetoothタグの場合、スマートフォンから離れてしまうと自前で通信は行えず、位置情報も最後に接続できた場所を確認できるのみ。それに対し、低速とはいえLTE網を使った通信を行えるため、GPSやWi-Fiを用いた位置計測（WPS）と組み合わせることで屋内外問わず正確な位置を把握し、追跡可能なのが強みです。
-
-具体的な用途としては、たとえば子供に持たせたりペットの首輪などに付けておけば、迷子の心配が少なくなる、カギなどに付けて紛失防止といった事が考えられます。また子どもに持たせる場合は迷子になったときにConnect Tagのボタンを押せば、自分から位置情報を発信することもできるため小学生ぐらいの子を持つ親世代には重宝しそうです。
-
-ほかには、SmasungのSmartThingsと連携して子供が自宅や学校などの設定したエリア内に入ると通知したり、夕方暗くなってからの帰宅時に、自動でアプローチの明かりをつけたりといったことができます。
-
-Connect Tagのサイズは42.1 mm四方で厚みは11.9mm。重さは25gでIP68の防水性能も備えます。300mAhのバッテリーを搭載し、一回の充電で約7日間使用できます。
-
-
-
-Connect Tagはまず韓国内で数か月以内に発売、その後ほかの地域でも販売するとのこと。価格はまだ発表されていません。
-
-NB-IoTやCat.M1を利用するには基地局側の対応が必要で、かつeSIMとなるとキャリアの協力が不可欠です。このまま日本に持ってきてもすぐに使えるものではありませんが、自前で通信し位置情報を発信できるという点では、Bluetooth方式のタグよりも魅力的。置き忘れ防止タグやキッズケータイといった製品は今後こういったeSIM内蔵のIoT機器にシフトしていくかもしれません。
- ]]></description>
-			<pubDate>Tue, 17 Oct 2017 21:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    iOS版Googleマップ、テスト中のカロリー表示機能を取下げ。「摂食障害者への配慮に欠ける」と批判
 </title>
 			<link>http://japanese.engadget.com/2017/10/17/ios-google/</link>
@@ -550,6 +515,18 @@ Xperia XZsと比較すると薄くなったイメージが強い「Xperia XZ1」
  
  ]]></description>
 			<pubDate>Wed, 18 Oct 2017 20:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    「ギガが減って大変」の前に。LINEアプリ設定の見直しで、普段から通信容量を節約：iPhone Tips
+</title>
+			<link>http://japanese.engadget.com/2017/10/18/line-iphone-tips/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/a0515a7d73e9b7b1da9b7b35d9364b57/205682141/main.jpg" />
+iPhoneを使っている多くの方が意識しているであろう、データ通信容量のやりくり。動画を見る回数を減らすなどの使い方で調整されている方も多いでしょうが、一方でアプリの使い方を見直すことで無駄な容量を節約できることも多くあります。
+
+今回は、昨今多くの方で使用頻度が高いLINEアプリに焦点を当て、トーク画面上に送る写真画質の変更や、動画の自動再生を制限することで、データ消費量を減らす方法を紹介します。
+<p><a href="http://japanese.engadget.com/gallery/line-11/" title="LINEのデータ通信量を節約する方法">【ギャラリー】LINEのデータ通信量を節約する方法 (7枚)</a></p>
+ ]]></description>
+			<pubDate>Wed, 18 Oct 2017 22:30:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
