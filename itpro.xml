@@ -71,50 +71,6 @@
 			<pubDate>Wed, 18 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>検出をすり抜ける脅威、ファイルレス攻撃が増加中（中）（検出をすり抜ける脅威、ファイルレス攻撃が増加）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　「この種の攻撃は毎日見られる。何かしらすり抜けてくる。何らかの種類のエクスプロイトや、未知のランサムウエアだ。当社がネットワークやエンドポイントの防御で阻止したものがいくつかある」。米Samsung Research AmericaのSteven Lentz最高セキュリティ責任者（CSO）がこのように懸念しているのは、「ファイルレス攻撃」と呼ばれる手法だ。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000001/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　攻撃者からすると、標的のコンピューターに新しいソフトウエアをインストールするのは、注意を引いてしまう可能性が高い。「攻撃先のコンピューターにファイルを置かないとしたら、詮索を受ける度合いはどのくらいになるだろうか。だからこそ、ファイルレス攻撃やインメモリ攻撃を選ぶ方が、破壊力がずっと大きい。検知の目がはるかに少なくなり、攻撃がはるかにうまくいく」</p>
-
-<p>　また、機能面でも遜色はなく、「ペイロードはまったく同じだ」とViscuso氏は話す。例えば、ランサムウエア攻撃を仕掛けたい場合に、バイナリファイルをインストールしなくても、PowerShellを使う手がある。「新しいソフトウエアをインストールして実行できることはすべて、PowerShellでも可能だ。インメモリやPowerShellで行える攻撃に制限はない」</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000002/?ST=cm-network&P=2">ファイルレス攻撃が増えているとの報告は、米McAfeeからも上が...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000002/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000002/?ST=cm-network&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000002/?ST=cm-network&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101000079/101000002/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 18 Oct 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本HPが商用VR市場の開拓に意欲、新ワークステーションで攻勢（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101702457/</link>
-			<description><![CDATA[　日本HPは2017年10月17日、VR（仮想現実）に関する事業説明会を開催した。米HP パーソナルシステムズ ワークステーション＆シンクライアントビジネス担当 バイスプレジデント兼ゼネラルマネージャーのファビア・ガルシア氏は「商用VR分野に大きな機会がある」とし、VRコンテンツの作成から活用まで一貫した環境を提供すると説明。商用VR市場の開拓に意欲を示した。]]></description>
-			<pubDate>Wed, 18 Oct 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows 10 Fall Creators Updateが一般提供に、MRやスマホ連携など強化（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101802458/</link>
-			<description><![CDATA[　米マイクロソフトは2017年10月17日（米国時間）、Windows 10の大型アップデート「Windows 10 Fall Creators Update」の一般提供を始めた。Windows Updateで順次配信するほか、同社サイトで提供する更新ツールで手動更新できる。]]></description>
-			<pubDate>Wed, 18 Oct 2017 08:49:21 +0900</pubDate>
-		</item>
-		<item>
 			<title>Wi-Fi暗号化プロトコルの脆弱性「KRACK」、パッチ適用等で対策を（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101800370/</link>
 			<description><![CDATA[<div>
@@ -409,10 +365,22 @@
 			<pubDate>Thu, 19 Oct 2017 16:13:57 +0900</pubDate>
 		</item>
 		<item>
+			<title>ソフトバンクがRPA事業を11月に開始、「ロボットやAIと並ぶ柱」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101902474/</link>
+			<description><![CDATA[　ソフトバンクは2017年10月19日、PCの定型作業を自動化するRPA事業に乗り出すと発表した。RPAツールなどを取り扱うRPAホールディングス（東京・港）の協力を得て、RPAソリューション「SynchRoid（シンクロイド）」の提供を2017年11月1日に始める。]]></description>
+			<pubDate>Thu, 19 Oct 2017 16:37:29 +0900</pubDate>
+		</item>
+		<item>
 			<title>ドコモの2017冬春モデル詳報、人気の「docomo with」は全5機種に（ITpro Report）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/101900276/</link>
 			<description><![CDATA[　NTTドコモは2017年10月18日に開催した新製品発表会で、2017-2018年冬春モデルの新製品を発表した。スマートフォン11機種、タブレット2機種の合計13機種に加え、2機種に新色を追加した。]]></description>
 			<pubDate>Thu, 19 Oct 2017 17:18:54 +0900</pubDate>
+		</item>
+		<item>
+			<title>ERPの「JD Edwards」をOracle Cloudへ、ジェクシードが移行支援サービス（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101902475/</link>
+			<description><![CDATA[　ジェクシードは2017年10月19日、米Oracleのパブリッククラウドサービス「Oracle Cloud」の販売を始めると発表した。ERPパッケージ「JD Edwards」をOracle Cloudに移行する「JDE Oracle Cloud 移行おまかせパック」を提供する。]]></description>
+			<pubDate>Thu, 19 Oct 2017 17:39:16 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
