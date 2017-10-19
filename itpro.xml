@@ -71,50 +71,6 @@
 			<pubDate>Wed, 18 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Wi-Fi暗号化プロトコルの脆弱性「KRACK」、パッチ適用等で対策を（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101800370/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　Wi-Fiの暗号化プロトコル「WPA2（Wi-Fi Protected Access II）」に脆弱性が見つかった。発見者のMathy Vanhoef氏は、この脆弱性を「KRACK」と名づけ、詳しい情報を公開した。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101800370/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Christiaan Colen</div>
-</div>
-<p>
-　KRACKの脆弱性を突く攻撃は、暗号化によって保護されている現在のWi-Fiネットワークすべてに効力がある。言い換えると、KRACKはWi-Fiをサポートしているすべてのデバイスに影響する可能性が高い。特定の製品や実装に関する脆弱性ではなく、Wi-Fiの標準そのものに内在する脆弱性だからだ。
-</p>
-<p>
-　KRACKを発見したVanhoef氏は、ベルギーのルーヴェン・カトリック大学のimec-DistriNet Research Groupに所属する研究者だ。同氏がこの脆弱性について詳細を公開したのは2017年10月16日だ。
-</p>
-<p>
-　また、米コンピュータ緊急事態対策チーム（US-CERT）は、数カ月前の時点で、この問題が主に影響する関係先に向けて、次のような内容を通達していた。
-</p>
-<p>
-　「US-CERTは、WPA2のセキュリティプロトコルで4ウェイハンドシェイクに鍵管理の脆弱性が存在することを確認した。この脆弱性では、復号化、パケットリプレー、TCPのコネクションハイジャック、HTTPのコンテンツインジェクションなどの影響が生じる」
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101800370/?ST=cio-security&P=2">この脆弱性はプロトコルレベルの問題であることから...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101800370/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101800370/?ST=cio-security&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101800370/?ST=cio-security&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101800370/?ST=cio-security&P=4">4</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/101800370/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 18 Oct 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>電通と博報堂が米DataRobotと契約、機械学習プラットフォームを活用（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101802459/</link>
 			<description><![CDATA[　電通デジタルと博報堂DYホールディングスはそれぞれ、米DataRobot社とパートナー契約を締結したと2017年10月17日に発表した。両社は、DataRobot社の機械学習プラットフォーム「DataRobot」を用いたマーケティングソリューションの提供を開始する。]]></description>
@@ -381,6 +337,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101902475/</link>
 			<description><![CDATA[　ジェクシードは2017年10月19日、米Oracleのパブリッククラウドサービス「Oracle Cloud」の販売を始めると発表した。ERPパッケージ「JD Edwards」をOracle Cloudに移行する「JDE Oracle Cloud 移行おまかせパック」を提供する。]]></description>
 			<pubDate>Thu, 19 Oct 2017 17:39:16 +0900</pubDate>
+		</item>
+		<item>
+			<title>NRIが開発プロジェクトの支援サービス、働き方改革にも効果（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101902476/</link>
+			<description><![CDATA[　野村総合研究所は2017年10月19日、開発プロジェクトにおける作業の品質向上や効率化を支援するサービス「aslead」の提供を開始したと発表した。主にユーザー企業のシステム子会社など、システム開発に携わるユーザーに向けて提供する。]]></description>
+			<pubDate>Thu, 19 Oct 2017 18:45:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
