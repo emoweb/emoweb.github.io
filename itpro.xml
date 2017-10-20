@@ -59,44 +59,6 @@
 			<pubDate>Thu, 19 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Qualcommが5Gモデムの接続実験に成功、2019年に5Gスマホが登場へ（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101900428/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Qualcommは、昨年発表したモデムチップセット「Snapdragon X50」を使った5G（第5世代移動通信システム）の接続実験に成功したことを、香港で開催中のイベント「4G/5G Summit」において発表した。また、同社初となる5Gスマートフォンのリファレンスデザインを披露した。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101900428/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Martyn Williams</div>
-</div>
-<p>
-　この接続実験は、米サンディエゴで実施したもの。28GHz帯のミリ波（mmWave）を利用し、複数の100MHz幅のキャリアを束ねて1Gbps超の速度を達成した。5Gに関してはさまざまな話題が出ているが、今回Qualcommが接続実験に成功したことで、ついに製品化が見えてきた。
-</p>
-<p>
-　Snapdragon X50モデムを搭載した5Gスマートフォンが登場するのは2019年上半期との見通しを同社は示している。2019年末までには5Gスマートフォンを購入して高速接続を堪能できることになりそうだ。筆者が住んでいる英国では、英情報通信庁（Ofcom）が5Gの登場を2020年と見込んでいたが、それより早い。
-</p>
-<p>
-　5Gの実用化に一歩近づく今回の実験で、「次世代の携帯技術が前進した」とQualcommは述べている。5Gの登場は、いわば電気の到来と同じようなもので、無制限のデータ利用への道を開くものになると同社は言う。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101900428/?ST=cm-wireless&P=2">5Gでは、速度だけでなく信頼性も高まり、混雑した場所でスマートフ...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101900428/?ST=cm-wireless&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101900428/?ST=cm-wireless&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101900428/?ST=cm-wireless&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 19 Oct 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>AppleとGEがIoTで提携、iOS用Predix SDKを公開へ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/101902469/</link>
 			<description><![CDATA[　米Appleと米General Electric（GE）は2017年10月18日（米国時間）、IoT（Internet of Things）のアプリケーション開発で提携すると発表した。GEのインダストリアルIoTプラットフォーム「Predix」と連携する「iOS」用アプリを開発するSDK（ソフトウエア開発キット）を2017年10月26日に公開する。]]></description>
@@ -307,6 +269,46 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/101900277/</link>
 			<description><![CDATA[　中国ファーウェイが2017年10月16日に発表した「HUAWEI Mate 10」シリーズは、最新SoC「Kirin 970」を搭載した最新フラグシップモデルだ。今回発表された新製品のうち、上位モデルの「Mate 10 Pro」は日本での発売も予定されている。]]></description>
 			<pubDate>Fri, 20 Oct 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>EUと米国のプライバシーシールド、「苦情が少なすぎる」と欧州委は懸念（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102000371/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　欧州から米国に個人情報を移して処理することを認める枠組み「プライバシーシールド」について、欧州連合（EU）の執行機関である欧州委員会（EC）の当局者は、苦情を申し立てる人がもっと出てもよいのではないかと考えている。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102000371/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: (c) European Union, 2016</div>
+</div>
+<p>
+　プライバシーシールドは、2015年に欧州司法裁判所で無効と判断された「セーフハーバー協定」に代わる新たな枠組みとして、2016年に導入された。この枠組みに基づいて企業各社が欧州から米国へ転送しているデータは、何十億ドルという価値に相当するものとみられる。
+</p>
+<p>
+　プライバシーシールドには、米国企業による個人情報の扱いに対してEU市民が懸念を抱いた時のために、苦情の申し立てについて定めた条項がある。EU市民は、当該企業、紛争解決機関、米国のデータ保護当局、自国のデータ保護当局のいずれかに苦情を申し立てることができる。
+</p>
+<p>
+　だが、現地時間2017年10月18日に会見したECの法務担当委員、Vera Jourova氏によると、プライバシーシールドの導入から1年が経過し、数千万単位や億単位の人々の個人情報が米国に移転された現在でも、苦情申し立ては実質的にゼロだという。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102000371/?ST=cio-security&P=2">よい兆候だと思う人もいるかもしれないが、Jour...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102000371/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102000371/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102000371/?ST=cio-security&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102000371/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 20 Oct 2017 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
