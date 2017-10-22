@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>昨日、一番読まれた記事は：「日本は電子マネーのプラットフォームが多すぎる」、楽天の三木谷氏（「Rakuten FinTech Conference 2017」レポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101200420/101300004/?d23</link>
+			<description><![CDATA[　ビッグデータ、IoT（インターネット・オブ・シングズ）、人工知能（AI）などデジタルテクノロジーによるイノベーションは社会をどう変えていくのか。2017年9月27日に楽天が主催した「Rakuten FinTech Conference 2017」では「イノベーションが切り開く未来」と題したパネルディスカッションを開催した。]]></description>
+			<pubDate>Thu, 19 Oct 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>IT業界が期待する新たな営業手法、インサイドセールス（情総研レポート）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/278383/101000062/</link>
 			<description><![CDATA[　勤務先に名前も聞いたことのない会社から電話が入る。出てみるとマンションなどの不動産投資の勧誘だった──。　電話で営業というと、あまり良いイメージがないのは筆者だけではないだろう。だが、こうした手法が姿を変え、今や米国で営業の代表的手段となった。それが「インサイドセールス」だ。]]></description>
@@ -297,6 +303,40 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091200374/101700001/</link>
 			<description><![CDATA[　筆者は約30年にわたってメインフレームのシステムをオープン系ハードウエアに移行する作業に携わってきた。過去にはメーカー系のSIerなど複数のITベンダーを渡り歩いた。この間、どうしようもない「塩漬けシステム」を数多く見聞きしてきた。なぜそのようなシステムが出来てしまうのか。実例を基に分析する。]]></description>
 			<pubDate>Mon, 23 Oct 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ERPシステムの選定と導入でありがちな11の誤り（上）（ERPシステムの選定と導入でありがちな11の誤り）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/101600080/101600001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　今回の記事では、ERPシステムの選定・展開・実装の際に犯しやすい11の大きな過ちを紹介する。ERPに関するこうしたミスは高くつく可能性があるので、どうすれば防げるかを押さえておこう。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600080/101600001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　現在のERP（統合基幹業務システム）は、オンプレミス型やSaaS型、さらには特定業種向けのシステムなど、これまでにないほど多彩な種類がある。システムの選定を担う意思決定者が、自社にとって特に重要な機能は何かを検討しようとしても、選択肢の多さに圧倒されてしまうかもしれない。そこで、この複雑な状況の中でERPシステムを選ぶ時に注意すべき点について、ERPに精通した各氏に話を聞いた。</p>
+
+<h4>1：要件の取りまとめをしっかり行っていない</h4>
+
+<p>　米コンサルティング会社Cloud Technology Partnersのバイスプレジデントで主席アーキテクトのEd Featherston氏は次のように言う。「実にありがちで、ついしそうになるのが、既存のビジネスプロセスをそっくりそのままERPシステムで自動化しようとすることだ。発想としては、そうなるのも無理はないと思う。しかし実際には、ERPの要件取りまとめの一環として、ビジネスプロセスの分析に時間と労力をかけることが絶対に必要だ。新しいERPシステムを導入する時は、ビジネスプロセスの見極めや改善、再設計のチャンスだ。まずいプロセスを自動化しても、まずいプロセスのままで速度が上がるだけだ」</p>
+
+<p>　エンタープライズ向けクラウドソリューションを手がける米Knoa SoftwareのBrian Berns最高経営責任者（CEO）も同様の見解だ。「新しいERPソリューションへの移行を始める前に、ソフトウエアの利用に関する重大な課題や難点を確認し、重要なプロセスを細かく検討するといったことを怠る企業が多すぎる。時代遅れで効率が悪い複雑なプロセスを、新しいプラットフォームにそのまま移行するのではなく、必要な修正をあらかじめ加えられるよう、ビジネスクリティカルな問題を移行の前に特定して対処する必要がある」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600080/101600001/?ST=cio-appli&P=2">2：意思決定プロセスに全部門のエンドユーザーを交...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600080/101600001/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600080/101600001/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600080/101600001/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 23 Oct 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
