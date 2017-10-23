@@ -5,20 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    新たなスーファミ互換機 Super Nt 発表。実機カセットや周辺機器もそのまま使用可能
-</title>
-			<link>http://japanese.engadget.com/2017/10/19/super-nt-rom/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/41047206ef22e0aee8a39f640dedc73e/205781110/SuperNT1.jpeg" />
-
-国内では任天堂公式のミニスーパーファミコン、『ニンテンドークラシックミニ スーパーファミコン』の品薄が今なお続いていますが、海外で新たなスーパーファミコン互換機「Super Nt」が発表されました。
-
-開発・販売するのは、以前も初代ファミコン互換機「Nt Mini」を送り出したAnalogue社。任天堂のミニスーパーファミコンは内蔵ソフトのみが遊べる製品ですが、Super Nt ではスーファミおよびSNES（海外版スーファミ）のROMカートリッジや、マウスなどを含めたオリジナルの周辺機器をそのまま使うことが可能です。
-
-価格はコントローラーは別売りで189.99ドル（約21500円）。同社のサイトにて予約受付中です。
- ]]></description>
-			<pubDate>Thu, 19 Oct 2017 18:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    MS最上位マウス Surface Precision Mouse発表。Bluetoothで3台シームレス接続、大型ホイールに6ボタンの高機能マウス
 </title>
 			<link>http://japanese.engadget.com/2017/10/19/ms-surface-precision-mouse-6-3-bluetooth/</link>
@@ -522,6 +508,17 @@ GoogleはiOS用のWebブラウザ「Chrome for iOS」を更新し、最新のバ
 マイクロソフトが、10月17日より配信開始したWindows 10 Fall Creators Update(FCU)に、ゲーム向けの新機能True Playを搭載しました。この機能はWindowsのシステムレベルで動作し、不正(チート)行為を検出します。
  ]]></description>
 			<pubDate>Sun, 22 Oct 2017 22:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    光回線を地震センサーにする技術、スタンフォード大学が開発。複数の地震波を見分けて送信
+</title>
+			<link>http://japanese.engadget.com/2017/10/22/stanford/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/649dc3f99beb96937b753d8d5f0725aa/205790558/stf.jpg" />
+地震を検知するには、日本では一般的に市役所などの敷地内にひっそりと設置されている地震計が用いられています。しかし、未来の地震検出はいまよりも遥かに数多く、いたるところで"センサーネットワーク"を構築しているかもしれません。
+
+米スタンフォード大学の研究チームが開発した地震検出のしくみでは、センサーとしてインターネットやその他の通信回線に使われている光ファイバーを使用します。
+ ]]></description>
+			<pubDate>Sun, 22 Oct 2017 23:20:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
