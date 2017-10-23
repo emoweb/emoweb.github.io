@@ -338,5 +338,46 @@
 ]]></description>
 			<pubDate>Mon, 23 Oct 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>Facebook、競合状態検出ツール「RacerD」を公開（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102300429/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Facebookは、競合状態という古くからの問題に対処するためのツール「RacerD」を、同社がオープンソースで提供している静的コード解析ツール「Infer」の一部として公開した。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102300429/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Roborace</div>
+</div>
+<p>
+　Facebookのリサーチサイエンティストで、RacerDの共同開発者の1人であるSam Blackshear氏によると、これまでプロトタイプ段階だったRacerDは、Facebookのオープンソースのコードベースで特別なオプションを通じてのみ利用できた。今回、プロトタイプ段階を終了したことにより、Inferを使った静的コード解析でバグを発見する際に、RacerDによる検出がデフォルトで実行されるようになった。現時点で、RacerDはJavaのコードにのみ対応しているが、C++をはじめとする他の言語にも対象を拡大する計画だ。
+</p>
+<p>
+　プログラムの中で並行して動いている複数の処理が同じデータに同時にアクセスしようとすることで矛盾が生じるのが競合状態だ。こうした並行処理のエラーは、デバッグが困難な場合があり、再現自体が難しいこともある。これは約50年にわたってコンピューティングの大きな問題だったと、RacerD共同開発者でInferチームのリサーチサイエンティストであるPeter O'Hearn氏は話す。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102300429/?ST=cm-software&P=2">Facebookは、実際のAndroid版Facebookアプリ...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102300429/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102300429/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102300429/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 23 Oct 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日立が「生産計画を自動生成するAI」を提供開始、新日鉄住金と実証実験（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/102002490/</link>
+			<description><![CDATA[　日立製作所は2017年10月23日、生産計画や配車計画といった計画を自動作成して計画業務を効率化する「Hitachi AI Technology/計画最適化サービス」を10月24日から提供開始すると発表した。現在、第1号として新日鉄住金と実証実験を進めている。]]></description>
+			<pubDate>Mon, 23 Oct 2017 11:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
