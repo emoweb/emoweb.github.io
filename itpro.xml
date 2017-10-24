@@ -258,5 +258,41 @@
 			<description><![CDATA[　米マイクロソフトが2017年10月10日に実施したWindowsの定期更新で、企業内で更新プログラムの配信を管理するシステム「Windows Server Update Services」（WSUS）向けの更新ファイルを誤配信したために、適用したWindows 10が起動不能になるトラブルが発生した。IT担当者はどう回避すれば良かったか。]]></description>
 			<pubDate>Wed, 25 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>ERPシステムの選定と導入でありがちな11の誤り（中）（ERPシステムの選定と導入でありがちな11の誤り）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/101600080/101600002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　今回の記事では、ERPシステムの選定・展開・実装の際に犯しやすい11の大きな過ちを紹介する。ERPに関するこうしたミスは高くつく可能性があるので、どうすれば防げるかを押さえておこう。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600080/101600001/" target="_blank">前回</a>から続く）</p>
+
+<h4>4：オンプレミス型とクラウド型のそれぞれの長所と短所を比較検討していない</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600080/101600002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　オンプレミス型とクラウド型のどちらのERPソリューションにするかを決める前に、いくつかの要素を検討する必要がある。そう話すのは、経理や在庫管理向けのERPソフトウエアを手がけるカナダBlue Link AssociatesのMark Canes社長だ。「例えばクラウド型の場合、適切なインターネット接続が必要で、支払いはサブスクリプション方式となる。リモートワーク社員への対応といったメリットがある。一方、オンプレミス型の場合、社内環境に最新のサーバーとハードウエアを用意して、専任のITスタッフを配置する必要があり、大規模な初期費用がかかるが、ERPソフトウエアを自前のサーバーで動かしたい場合に適している」</p>
+
+<p>　米ITコンサルティング会社Information Services Group（ISG）のパートナー、Nathan Frey氏は次のように言う。「ERPを新たに導入するプラットフォームとして、SaaSが急速に優勢となりつつある。ERPの導入に苦労した経験がある企業や、これまでERP環境の維持管理に手こずっていた企業にとって、SaaSは理想的なソリューションに思えるかもしれない。確かに、SaaSにはさまざまなメリットがある。しかし、SaaSにすることで組織が新たに直面し得る課題も理解する必要がある」</p>
+
+<p>　Frey氏の説明では、SaaSソリューションはカスタマイズできないので、ユーザーとしては、ソフトウエアに合わせてビジネスプロセスを変えざるを得ない。「こうしたビジネスプロセスの変更は、レガシーシステムとの連携に影響することが多く、変更管理に関する懸念の範囲が広がるかもしれない。また、特有の機能要件や業界固有の要件がある企業では、導入するSaaS型システムに備わっていない機能が必要な時のために、回避策やサードパーティー製ソフトウエア、あるいはその他の手段を通じて、対処のための仕組みや方法が求められる」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600080/101600002/?ST=cio-appli&P=2">5：特定業種向けのERPソリューションを検討対象...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600080/101600002/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600080/101600002/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600080/101600002/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 25 Oct 2017 06:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
