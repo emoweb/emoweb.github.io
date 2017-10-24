@@ -65,47 +65,6 @@
 			<pubDate>Mon, 23 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Facebook、競合状態検出ツール「RacerD」を公開（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102300429/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Facebookは、競合状態という古くからの問題に対処するためのツール「RacerD」を、同社がオープンソースで提供している静的コード解析ツール「Infer」の一部として公開した。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102300429/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Roborace</div>
-</div>
-<p>
-　Facebookのリサーチサイエンティストで、RacerDの共同開発者の1人であるSam Blackshear氏によると、これまでプロトタイプ段階だったRacerDは、Facebookのオープンソースのコードベースで特別なオプションを通じてのみ利用できた。今回、プロトタイプ段階を終了したことにより、Inferを使った静的コード解析でバグを発見する際に、RacerDによる検出がデフォルトで実行されるようになった。現時点で、RacerDはJavaのコードにのみ対応しているが、C++をはじめとする他の言語にも対象を拡大する計画だ。
-</p>
-<p>
-　プログラムの中で並行して動いている複数の処理が同じデータに同時にアクセスしようとすることで矛盾が生じるのが競合状態だ。こうした並行処理のエラーは、デバッグが困難な場合があり、再現自体が難しいこともある。これは約50年にわたってコンピューティングの大きな問題だったと、RacerD共同開発者でInferチームのリサーチサイエンティストであるPeter O'Hearn氏は話す。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102300429/?ST=cm-software&P=2">Facebookは、実際のAndroid版Facebookアプリ...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102300429/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102300429/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102300429/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 23 Oct 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日立が「生産計画を自動生成するAI」を提供開始、新日鉄住金と実証実験（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/102002490/</link>
-			<description><![CDATA[　日立製作所は2017年10月23日、生産計画や配車計画といった計画を自動作成して計画業務を効率化する「Hitachi AI Technology/計画最適化サービス」を10月24日から提供開始すると発表した。現在、第1号として新日鉄住金と実証実験を進めている。]]></description>
-			<pubDate>Mon, 23 Oct 2017 11:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>「ビジネスプロセス管理との融合がカギ」、日本IBMがRPAツール出荷（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/102002486/</link>
 			<description><![CDATA[　日本IBMは2017年10月20日、PCを使った定型業務を自動化するRPA（ロボティック・プロセス・オートメーション）ツールの新製品「IBM Robotic Process Automation with Automation Anywhere」の出荷を開始した。]]></description>
@@ -340,6 +299,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/102402507/</link>
 			<description><![CDATA[　KDDIは2017年10月24日、SD-WANサービス「KDDI SD-Network Platform」を同年12月5日から提供すると発表した。顧客企業の拠点内に敷設済みのインターネット回線またはVPN回線に専用機器を取り付けることで、簡単にSD-WAN環境を構築し運用開始できるとする。]]></description>
 			<pubDate>Tue, 24 Oct 2017 19:05:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>コマツ、ドコモなどが設立のランドログ、ビジネス戦略を明かす（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/102402505/</link>
+			<description><![CDATA[　建設機械大手のコマツなど4社が設立したランドログの井川甲作代表取締役社長は2017年10月24日、SAPジャパン開催のイベント「SAP Leonardo Executive Summit」で講演した。同社がビジネスモデルを来場者に語った。]]></description>
+			<pubDate>Tue, 24 Oct 2017 20:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本生命が最新型メインフレーム「IBM z14」採用、ハードウエア暗号を評価（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/102402508/</link>
+			<description><![CDATA[　日本IBMは2017年10月24日、最新のメインフレーム「IBM z14」が日本生命保険に採用されたと発表した。国内金融機関における初の採用例になるという。日本生命は2018年5月から運用を始める予定だ。]]></description>
+			<pubDate>Tue, 24 Oct 2017 20:21:46 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
