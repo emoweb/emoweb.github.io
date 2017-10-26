@@ -368,5 +368,48 @@
 ]]></description>
 			<pubDate>Thu, 26 Oct 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>高速ストレージを実現するIntel VROC、数々の制約は解消されず（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102600373/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Intelは、数カ月前の発表からさまざまな議論と臆測を呼んでいたストレージ機能「Intel VROC（Virtual RAID on CPU）」に関して、現地時間2017年10月23日、いくつかの情報を明らかにした。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102600373/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Gordon Mah Ung</div>
+</div>
+<p>
+　VROCは、X299チップセット搭載マザーボードがサポートするストレージ機能として、2017年5月に「COMPUTEX 2017」で発表された。複数のNVMe／PCIe対応SSDをCPUに直接接続して、ブート可能なRAIDアレイを構築できるというもの。ごく簡単に言えば、超高速のストレージを実現する機能だ。
+</p>
+<p>
+　ただし、VROCにはいくつかの制約がある。1つ目は、Intel製のSSDしか使えないこと。2つ目は、Skylake-XアーキテクチャのCPUにのみ対応していること。3つ目は、マザーボード上でこの機能を有効にするために、専用のドングル（ハードウエアキー）を購入する必要があることだ。
+</p>
+<p>
+　さらに今回、新たな注意点が明らかになった。PCWorldがIntelから受けた説明によると、VROCのハードウエアキーは、X299マザーボードへのバンドル、あるいはIntel製SSDへのバンドルという2つの形でしか提供されないとのことだ。
+</p>
+<p>
+　つまり、VROCを有効にするためのハードウエアキーは、消費者に向けた単体販売は行われない。ただし、VROCに対応したX299マザーボードやパソコンをすでに購入したユーザーへの対応方法は、マザーボードメーカーやパソコンメーカーに任せるとIntelは話している。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102600373/?ST=cio-consumerit&P=2">VROCキーの正式な価格については、単体販売がな...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102600373/?ST=cio-consumerit&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102600373/?ST=cio-consumerit&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102600373/?ST=cio-consumerit&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102600373/?ST=cio-consumerit&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 26 Oct 2017 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
