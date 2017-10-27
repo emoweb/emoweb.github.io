@@ -5,122 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>同じ処理を繰り返してデータを集計処理する（安納順一のPowerShell Tips）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/122000308/091300013/</link>
-			<description><![CDATA[　マウスやタッチの操作に比べて、PowerShellのコマンドレット（コマンド）を使う最大のメリットは、同じ処理を効率的に繰り返せる点だ。代表的な三つの方法を紹介しよう。]]></description>
-			<pubDate>Thu, 26 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「私はコボラー」、若者の希望を摘み取ってはいけない（どんづまりから見上げた空 ～ 我がITサバイバル年代記）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/112000266/101200019/</link>
-			<description><![CDATA[　2年弱続けてきたこの連載も、今回で最終回である。最終回は、今のIT業界について、思うところを書いていきたい。]]></description>
-			<pubDate>Thu, 26 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>クラウドは儲かる、オラクルの業績で分かった「たった1つの条件」（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/102000944/</link>
-			<description><![CDATA[　クラウドは儲かるのか、儲からないのか――。米OracleのMark Hurd CEO（最高経営責任者）は2017年10月の投資家向け説明会で、クラウドは利益率でオンプレミスに劣るが、利益額ではオンプレミスを上回るという見解を示した。クラウド事業者の「損して得取る」戦略を、数字を元に紐解いてみよう。]]></description>
-			<pubDate>Thu, 26 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>フェイスブックの自由な朝食、人気は和食（すごい社食）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100300217/101700009/</link>
-			<description><![CDATA[　フェイスブック ジャパンの本社オフィスは、東京・六本木にある。平日は午前8時から11時頃まで、パン類やごはん、フルーツ、スムージーなどを、11時頃からは野菜スティックやサラダ、おにぎりなどを提供。月～金曜日の11時30分～13時に、メニューに沿った昼の軽食を提供している。]]></description>
-			<pubDate>Thu, 26 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Wantedlyを使ってウォンテッドリーに転職、自身の体験から「良いサービスになる」と確信（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/102500025/</link>
-			<description><![CDATA[　今月取り上げるのは、ビジネスSNS「Wantedly」を提供するウォンテッドリーの最高技術責任者（CTO）である川崎禎紀氏。今回は、ウォンテッドリーを知ったきっかけや入社の経緯を聞いた。]]></description>
-			<pubDate>Thu, 26 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>バブル期にSEを救ったITツール、塩漬けシステムの温床に（どうしようもない塩漬けシステム）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/091200374/101900003/</link>
-			<description><![CDATA[　「COBOL本数1万本、1000万ステップのバッチ処理をオープン環境へ移行したいのだが、実現できるか」。筆者の元には、メインフレーム上のアプリケーションを移行する相談がよく持ちかけられる。しかし、プログラムの本数はそれほど問題にならない。ネックになるのは独自技術で作られたアプリケーションだ。]]></description>
-			<pubDate>Thu, 26 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIの暴走を防ぐデータガバナンスとは（ソフトウエア、それが問題だ　Software Matters）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090800199/102300009/</link>
-			<description><![CDATA[　AI（人工知能）は今、3回目のブームだそうである。機械学習や深層学習（ディープラーニング）など、以前は存在しなかった技術がブレークスルーを起こしつつある。今回のブームにおける重要な変化は、AIが人間から教わらなくても、収集されたデータから自ら学習するようになったことである。]]></description>
-			<pubDate>Thu, 26 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>イーサリアム提唱した若き天才、「ICOはOSSの資金問題を解決できる」（世界を揺さぶるICO）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/102300433/102400002/</link>
-			<description><![CDATA[　ビットコインに次ぐ時価総額の仮想通貨「Ether」を発行する「Ethereum（イーサリアム）」の提唱者で若干23歳のヴィタリック・ブテリン（Vitalik Buterin）氏は、「ICOには多大なメリットがある」としつつ、「成熟するまでに時間を要する」と話す。]]></description>
-			<pubDate>Thu, 26 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AWSとAzureを同時活用、先端技術を駆使したボットで番宣（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/101901172/</link>
-			<description><![CDATA[　自然な言葉でユーザーと対話するチャット（会話）ボット。米アップルの「Siri」、米グーグルの「Googleアシスタント」、米マイクロソフトの「Cortana」などスマートフォンやPCの機能の一つとして提供されてきたが、企業のマーケティングへの応用が始まっている。]]></description>
-			<pubDate>Thu, 26 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Watsonはこう育てる、JALがチャットボットにAI活用（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/102401178/</link>
-			<description><![CDATA[　日本航空（JAL）は日本IBMのAIである「IBM Watson」を使って、顧客からのハワイに関する質問に答えるチャットボット「マカナちゃん」を提供している。どうチャットボットを「育てた」のか。経緯を追った。]]></description>
-			<pubDate>Thu, 26 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>5Gで世の中どう変わる？（何がすごいの？「5G」5つの疑問）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/092200393/092200004/</link>
-			<description><![CDATA[　「5Gを使って基地局経由の車車間通信の遅延を10ミリ秒に抑えられれば、車間距離が5mほどの短さでも安全に隊列走行できる」。ソフトバンクの吉野仁 先端技術開発室 担当部長は力説する。]]></description>
-			<pubDate>Thu, 26 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>子供のスマホ利用を保護者が管理、Googleの「Family Link」の使い方（後）（子供のスマホ利用を保護者が管理、Googleの「Family Link」の使い方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/101600081/101600002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　子供は、自分専用のスマートフォンが欲しいと思っている。たとえテキストメッセージの送り方や電話のかけ方を知らなくても、ママやパパと同じように、動画やゲームを楽しみたいと思っている。そして、子供がスマートフォンを使いすぎないよう管理することが難しいのは、親として共通の悩みである。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600081/101600001/" target="_blank">前回</a>から続く）</p>
-
-<h4>子供用Androidデバイスのセットアップ</h4>
-
-<p>　ファミリーグループと子供用アカウントを作成できたら、次は子供用デバイスのセットアップだ。スマートフォンかタブレットのうち、Android 7.0（Nougat）以降を搭載した端末でなくてはならないので、選択肢は比較的限られている。保護者用の既存のデバイスで子供用のアカウントを作ったうえで、子供用デバイスにFamily Linkアプリをインストールし、子供用のGoogleアカウントでサインインする。セットアップが完了すると、保護者側のデバイスがそれを自動的に認識し、子供用と保護者用のデバイスがリンクされる。</p>
-
-<div>
-<div>
-<div><a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600081/101600002/?SS=cmimgview&FD=-652795730" target="_blank"><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600081/101600002/ph3.jpg?__scale=w:500,h:441&_sh=0e05b0e107" width="500" height="441" alt=""></a></div>
-<div>Family Linkをセットアップすると、リンクされたデバイスが自動で検出される</div>
-<div>Credit: Greenbot</div>
-<div>[画像のクリックで拡大表示]</div>
-</div>
-</div>
-
-<p>　別の子供をファミリーグループに追加するには、保護者用デバイスでFamily Linkアプリを開いて、同じ手順を繰り返せばよい（子供用のアカウントは1人目とは別のものを作成する）。こうして、子供たち全員のセットアップが完了したら、あとは細かな設定に入っていく。保護者用デバイスも子供用デバイスも、インストールしたFamily Linkアプリは同じものだが、役割は大きく異なる。</p>
-
-<div>
-<div>
-<div><a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600081/101600002/?SS=cmimgview&FD=-651872209" target="_blank"><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600081/101600002/ph4.jpg?__scale=w:500,h:441&_sh=02a0f50fa0" width="500" height="441" alt=""></a></div>
-<div>両方のデバイスにFamily Linkアプリをインストールする。設定の変更は保護者用デバイスでのみ可能</div>
-<div>Credit: Greenbot</div>
-<div>[画像のクリックで拡大表示]</div>
-</div>
-</div>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600081/101600002/?ST=cm-wireless&P=2">アプリのブロックとダウンロードの承認</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600081/101600002/?ST=cm-wireless&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600081/101600002/?ST=cm-wireless&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600081/101600002/?ST=cm-wireless&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/101600081/101600002/?ST=cm-wireless&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 26 Oct 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>高速ストレージを実現するIntel VROC、数々の制約は解消されず（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102600373/</link>
 			<description><![CDATA[<div>
@@ -401,6 +285,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/102702540/</link>
 			<description><![CDATA[　地図情報サービスの蘭TomTom Internationalとゼンリン、ゼンリンデータコムの3社は2017年10月27日、国内での協業に合意したと発表した。]]></description>
 			<pubDate>Fri, 27 Oct 2017 13:38:17 +0900</pubDate>
+		</item>
+		<item>
+			<title>10万社が使うカスタマーサポートツール、「理想はデンマーク家具」（インタビュー＆トーク）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/102700352/</link>
+			<description><![CDATA[　デンマークを発祥とする米ゼンデスクはカスタマーサポート分野のクラウドサービスを手掛けている。重視してきたのは、デンマーク家具のように使いやすいソフトウエアサービスだ。]]></description>
+			<pubDate>Fri, 27 Oct 2017 14:28:37 +0900</pubDate>
+		</item>
+		<item>
+			<title>ドコモの2017年4～9月期決算、増収減益は「計画通り」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/102702541/</link>
+			<description><![CDATA[　NTTドコモは2017年10月26日、2017年4～9月期連結決算（米国会計基準）を発表した。売上高は前年同期比0.5％増の2兆3001億円、営業利益は同6.3％減の5488億円と増収減益だった。]]></description>
+			<pubDate>Fri, 27 Oct 2017 16:20:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
