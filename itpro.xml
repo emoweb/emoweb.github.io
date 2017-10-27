@@ -5,53 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>高速ストレージを実現するIntel VROC、数々の制約は解消されず（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102600373/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Intelは、数カ月前の発表からさまざまな議論と臆測を呼んでいたストレージ機能「Intel VROC（Virtual RAID on CPU）」に関して、現地時間2017年10月23日、いくつかの情報を明らかにした。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102600373/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Gordon Mah Ung</div>
-</div>
-<p>
-　VROCは、X299チップセット搭載マザーボードがサポートするストレージ機能として、2017年5月に「COMPUTEX 2017」で発表された。複数のNVMe／PCIe対応SSDをCPUに直接接続して、ブート可能なRAIDアレイを構築できるというもの。ごく簡単に言えば、超高速のストレージを実現する機能だ。
-</p>
-<p>
-　ただし、VROCにはいくつかの制約がある。1つ目は、Intel製のSSDしか使えないこと。2つ目は、Skylake-XアーキテクチャのCPUにのみ対応していること。3つ目は、マザーボード上でこの機能を有効にするために、専用のドングル（ハードウエアキー）を購入する必要があることだ。
-</p>
-<p>
-　さらに今回、新たな注意点が明らかになった。PCWorldがIntelから受けた説明によると、VROCのハードウエアキーは、X299マザーボードへのバンドル、あるいはIntel製SSDへのバンドルという2つの形でしか提供されないとのことだ。
-</p>
-<p>
-　つまり、VROCを有効にするためのハードウエアキーは、消費者に向けた単体販売は行われない。ただし、VROCに対応したX299マザーボードやパソコンをすでに購入したユーザーへの対応方法は、マザーボードメーカーやパソコンメーカーに任せるとIntelは話している。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102600373/?ST=cio-consumerit&P=2">VROCキーの正式な価格については、単体販売がな...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102600373/?ST=cio-consumerit&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102600373/?ST=cio-consumerit&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102600373/?ST=cio-consumerit&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/102600373/?ST=cio-consumerit&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 26 Oct 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>東京モーターショー開幕、クルマ×ITが続々（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/102601180/</link>
-			<description><![CDATA[　第45回東京モーターショーが2017年10月27日、東京ビッグサイト（東京都江東区）で開幕する。音声対話できる人工知能（AI）や自動運転など、自動車産業とITの関係が一層密接になっていることをうかがわせる展示が相次いでいるのが特徴だ。]]></description>
-			<pubDate>Thu, 26 Oct 2017 16:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：「私はコボラー」、若者の希望を摘み取ってはいけない（どんづまりから見上げた空 ～ 我がITサバイバル年代記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/112000266/101200019/?d27</link>
+			<description><![CDATA[　2年弱続けてきたこの連載も、今回で最終回である。最終回は、今のIT業界について、思うところを書いていきたい。]]></description>
+			<pubDate>Thu, 26 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>サムスンが「Galaxy Note8」発売イベント、3年ぶりのNote新機種（ニュース）</title>
@@ -297,6 +254,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/102702541/</link>
 			<description><![CDATA[　NTTドコモは2017年10月26日、2017年4～9月期連結決算（米国会計基準）を発表した。売上高は前年同期比0.5％増の2兆3001億円、営業利益は同6.3％減の5488億円と増収減益だった。]]></description>
 			<pubDate>Fri, 27 Oct 2017 16:20:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ヤフーの2017年4～9月期は増収、投資拡大で減益（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/102702542/</link>
+			<description><![CDATA[　ヤフーは2017年10月27日、2017年4～9月期の連結決算を発表した。売上高は前年同期比4.5％増の4280億2200万円、営業利益は同5.4％減の949億7800万円と増収減益だった。]]></description>
+			<pubDate>Fri, 27 Oct 2017 16:48:59 +0900</pubDate>
+		</item>
+		<item>
+			<title>「ランサムウエアBad Rabbitは脆弱性を利用」、トレンドマイクロの追加調査で明らかに（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/102702543/</link>
+			<description><![CDATA[　トレンドマイクロは2017年10月27日、ランサムウエア「Bad Rabbit」に関する追加調査の結果、Windowsの脆弱性を利用していると見解を修正した。]]></description>
+			<pubDate>Fri, 27 Oct 2017 16:54:37 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
