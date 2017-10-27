@@ -348,5 +348,47 @@
 			<description><![CDATA[　モトローラ・モビリティ・ジャパンは2017年10月26日、新製品発表会を開催し、SIMロックフリースマートフォンの新製品「Moto X4」と、拡張モジュール「Moto Mods」のラインアップを2種類発表した。]]></description>
 			<pubDate>Fri, 27 Oct 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>バイナリコードでWebアプリを高速化、WebAssemblyの今後の機能は（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102700431/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　「WebAssembly」は、Webアプリケーションの高速化を目的としたバイナリコードのフォーマットだ。Webブラウザ上で動くアプリケーションを、パソコンとモバイルデバイスの両方で高速化する。ロードマップのとおり進めば、今後は、ガベージコレクション、マルチスレッド、デバッグ、SIMD（Single Instruction／Multiple Data）などの機能を強化していく予定だ。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102700431/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　WebAssemblyは、負荷のかかる処理をブラウザ上でJavaScriptより高速に実行するための低水準のフォーマットとして、2015年に華々しく登場した。WebAssemblyが定めているバイナリコードのフォーマットは、小さなサイズで伝送でき、読み込みが速く、JavaScriptよりパフォーマンスに優れている。WebベースのCADプログラム、3Dモデル、演算処理、ゲームなどのアプリケーションで役立つものと考えられる。
+</p>
+<p>
+　今後WebAssemblyで搭載が計画されている機能には次のようなものがある。
+</p>
+<h4>
+ガベージコレクション
+</h4>
+<p>
+　複数の言語に対応するうえで、マネージドオブジェクトの割り当てと操作をWebAssemblyのコードから効率的に行うためにガベージコレクションが必要だと、米GoogleでChromeを担当するソフトウエアエンジニアでWebAssemblyチームのDeepti Gandluri氏は言う。ガベージコレクションは、現在、WebAssemblyのロードマップで提案の段階にある。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102700431/?ST=cm-software&P=2">スレッド</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102700431/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102700431/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102700431/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102700431/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 27 Oct 2017 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
