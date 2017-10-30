@@ -83,48 +83,6 @@
 			<pubDate>Fri, 27 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>バイナリコードでWebアプリを高速化、WebAssemblyの今後の機能は（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102700431/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　「WebAssembly」は、Webアプリケーションの高速化を目的としたバイナリコードのフォーマットだ。Webブラウザ上で動くアプリケーションを、パソコンとモバイルデバイスの両方で高速化する。ロードマップのとおり進めば、今後は、ガベージコレクション、マルチスレッド、デバッグ、SIMD（Single Instruction／Multiple Data）などの機能を強化していく予定だ。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102700431/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　WebAssemblyは、負荷のかかる処理をブラウザ上でJavaScriptより高速に実行するための低水準のフォーマットとして、2015年に華々しく登場した。WebAssemblyが定めているバイナリコードのフォーマットは、小さなサイズで伝送でき、読み込みが速く、JavaScriptよりパフォーマンスに優れている。WebベースのCADプログラム、3Dモデル、演算処理、ゲームなどのアプリケーションで役立つものと考えられる。
-</p>
-<p>
-　今後WebAssemblyで搭載が計画されている機能には次のようなものがある。
-</p>
-<h4>
-ガベージコレクション
-</h4>
-<p>
-　複数の言語に対応するうえで、マネージドオブジェクトの割り当てと操作をWebAssemblyのコードから効率的に行うためにガベージコレクションが必要だと、米GoogleでChromeを担当するソフトウエアエンジニアでWebAssemblyチームのDeepti Gandluri氏は言う。ガベージコレクションは、現在、WebAssemblyのロードマップで提案の段階にある。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102700431/?ST=cm-software&P=2">スレッド</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102700431/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102700431/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102700431/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/102700431/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 27 Oct 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>アイカ工業がファイル改ざんの痕跡を確認、Bad Rabbit拡散の可能性強まる（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/102702539/</link>
 			<description><![CDATA[　アイカ工業のWebサイトが攻撃を受けた疑いがある問題で、同社はWebサーバーのファイルに改ざんされた痕跡が見つかったと発表した。Webページにその旨を記したうえで引き続き閉鎖中だ。]]></description>
@@ -375,6 +333,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/103002554/</link>
 			<description><![CDATA[　JR東海とJR西日本は2017年10月30日、東海道・山陽新幹線（東京駅～博多駅）の訪日外国人向けネット予約サービス「Tokaido Sanyo Shinkansen Internet Reservation Service」を始めた。]]></description>
 			<pubDate>Mon, 30 Oct 2017 18:58:53 +0900</pubDate>
+		</item>
+		<item>
+			<title>内閣官房、「官民ラウンドテーブル」でオープンデータのニーズ掘り起こしへ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/103002555/</link>
+			<description><![CDATA[　内閣官房情報通信技術（IT）総合戦略室は2017年10月30日、2018年1月から3月にかけて企業などにオープンデータの活用を促す「官民ラウンドテーブル」を開催すると公表した。]]></description>
+			<pubDate>Mon, 30 Oct 2017 20:45:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
