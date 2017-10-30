@@ -336,5 +336,50 @@
 ]]></description>
 			<pubDate>Mon, 30 Oct 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>ランサムウエア「Bad Rabbit」の概略（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/103000432/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　新種のランサムウエア「Bad Rabbit」は、ウクライナやロシアの企業や機関を中心に感染が確認され、その名が知られるようになっている。この記事では、Bad Rabbitの基本的な情報をまとめた。
+</p>
+<h4>
+概略
+</h4>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/103000432/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Martyn Williams</div>
+</div>
+<p>
+　ランサムウエアBad Rabbitは、通信社InterfaxをはじめとするロシアのWebサイトに感染したほか、ウクライナの空港や首都キエフの地下鉄も被害を受け、警察が捜査を進めている。米国のUS-CERTは、Bad Rabbitの報告は世界中の数多くの国から上がっていると説明している。
+</p>
+<p>
+　ランサムウエアとは、コンピューターを使えないようロックをかけて、解除してほしければ金を払えと要求する悪質なソフトウエアだ。ランサムウエア自体は新しい現象ではないが、今年「WannaCry」や「Petya」が世界中で大規模な混乱をもたらしたことで、ランサムウエアという言葉は人々の心に刻み込まれた。
+</p>
+<p>
+　Bad Rabbitは、コンピューターを暗号化し、0.05ビットコイン（現時点の相場で300ドル弱）の支払いを要求する。
+</p>
+<p>
+　この金額は、Bad Rabbitに感染した企業や機関の規模によっては「はした金」だろう。つまり犯人たちは、支払わないことのメリットよりデメリットの方が大きいと被害者が考えることを当てにして、数撃てば当たる式の作戦を展開しているものと推測される。もちろん、金を支払ったからといって、データが元に戻る保証はない。また、これまでのランサムウエアでは、被害者がやむなく要求に応じた後に、結局は警察などの法執行機関の介入により支払いの完了を阻まれたとする事例の報告もある。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/103000432/?ST=cm-software&P=2">仕組み</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/103000432/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/103000432/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/103000432/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/103000432/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 30 Oct 2017 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
