@@ -65,55 +65,6 @@
 			<pubDate>Tue, 31 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Pythonのディストリビューション「Anaconda」、バージョン5.0が登場（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/103100374/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　Pythonのディストリビューションの1つである「Anaconda」が5.0にバージョンアップした。科学技術計算、データサイエンス、統計分析、機械学習などを扱うための環境を構築できるディストリビューションのメジャーバージョンアップだ。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/103100374/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　2017年10月25日にバージョン5.0.1がリリースされた。完成当初の5.0.0と比べ、小さなバグ修正のほか、サポートするR言語のアップデートなどの改良が加わっている。
-</p>
-<h4>
-無償でダウンロード可能
-</h4>
-<p>
-　Anacondaには、無償版の「Anaconda Distribution」と、サポートが付く有償版の「Anaconda Enterprise」がある。無償版は<a href="https://www.anaconda.com/distribution/" target="_blank">Anacondaのサイト</a>から直接ダウンロードして利用できる。有償版を利用する場合は、米Anaconda（旧称Continuum Analytics）のセールスチームに問い合わせる必要がある。
-</p>
-
-<h4>
-全面的なリビルドでパフォーマンスを向上
-</h4>
-<p>
-　Anaconda 5.0のLinux版とmacOS版は、それぞれ新しいコンパイラ（Linux版はGCC 7.2、macOS版はClang 4.0.1）で全面的にリビルドされている。CentOS 6やOS X Mavericks（10.9）といった古いバージョンのOSでAnacondaを利用するユーザーも、パフォーマンス向上などのメリットを享受できる。
-</p>
-<p>
-　また、Anaconda 5.0では、パッケージマネージャ「conda」を通じて提供されるPythonパッケージにも、新しいコンパイラを使ったリビルド版が用意された。ただし当面は、従来版のパッケージとは別のインストールチャネルで提供されている。今後、最適化された新しいパッケージが増え、ユーザーの間でこうしたパッケージの試用が進んできたら、いずれはこちらのチャネルをデフォルトにする計画だ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/103100374/?ST=cio-appli&P=2">conda-forgeのレシピを基盤に</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/103100374/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/103100374/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/103100374/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 31 Oct 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ソフトバンクがSprintとT-Mobileの統合協議を打ち切りか、一部報道（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/103102558/</link>
 			<description><![CDATA[　ソフトバンクグループは、米国で携帯電話事業を展開する子会社の米Sprintについて、米T-Mobile USとの経営統合に向けた協議を打ち切る方針を固めたと日本経済新聞が2017年10月31日に報じた。]]></description>
@@ -298,6 +249,43 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/102300433/102700004/</link>
 			<description><![CDATA[　日経FinTechは2017年10月17日、読者限定の「Exclusive seminar」を開催した。DCMベンチャーズでインベストメント・ヴァイス・プレジデントを務める原 健一郎氏が、ICOの仕組みやチェックポイント、課題について解説した。]]></description>
 			<pubDate>Wed, 01 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>CIOが就任直後に気をつけるべき10カ条（後）（CIOが就任直後に気をつけるべき10カ条）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/102300082/102300002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　新任CIOへの移行に関しては、すべてのケースに適用できる万能の攻略法はない。だが、この5年間で約200人のCIOの就任を支えてきたDeloitteの最近の調査報告では、この重大な移行に直面するITリーダーに向けて、10カ条のヒントを提示している。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/102300082/102300001/" target="_blank">前回</a>から続く）</p>
+
+<h4>6：顧客、パートナー、サプライヤーと接触する</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/102300082/102300002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　かつては、CIOの時間はバックオフィス業務に費やされていた。しかし、このデジタル時代には、顧客対応の目標の比重が増す。バリューチェーンを構成する各部分と接触することで、CIOは企業の一幹部というだけではないと示せる。また、価値提供でテクノロジーが果たす役割を適切に評価できるようになる。「5～8年前なら、CIOに外向きの役割への期待はなかった。しかし今では、事業を展開している市場の変化を理解すべしという圧力がある」（Kark氏）</p>
+
+<h4>7：手早く得られる成果を探す</h4>
+
+<p>　ITリーダーとしての能力を示すことは、早い段階で信頼を獲得するうえでプラスに働く。例えば、Kark氏が携わったあるCIOは、全社規模の新しい無線ネットワークを数カ月で構築し、以前から社員が不満に感じていた問題を解決した。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/102300082/102300002/?ST=cio-management&P=2">8：早期の支持を勝ち取る</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/102300082/102300002/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/102300082/102300002/?ST=cio-management&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/102300082/102300002/?ST=cio-management&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/102300082/102300002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 01 Nov 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
