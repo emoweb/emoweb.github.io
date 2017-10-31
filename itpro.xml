@@ -77,57 +77,6 @@
 			<pubDate>Mon, 30 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ランサムウエア「Bad Rabbit」の概略（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/103000432/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　新種のランサムウエア「Bad Rabbit」は、ウクライナやロシアの企業や機関を中心に感染が確認され、その名が知られるようになっている。この記事では、Bad Rabbitの基本的な情報をまとめた。
-</p>
-<h4>
-概略
-</h4>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/103000432/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Martyn Williams</div>
-</div>
-<p>
-　ランサムウエアBad Rabbitは、通信社InterfaxをはじめとするロシアのWebサイトに感染したほか、ウクライナの空港や首都キエフの地下鉄も被害を受け、警察が捜査を進めている。米国のUS-CERTは、Bad Rabbitの報告は世界中の数多くの国から上がっていると説明している。
-</p>
-<p>
-　ランサムウエアとは、コンピューターを使えないようロックをかけて、解除してほしければ金を払えと要求する悪質なソフトウエアだ。ランサムウエア自体は新しい現象ではないが、今年「WannaCry」や「Petya」が世界中で大規模な混乱をもたらしたことで、ランサムウエアという言葉は人々の心に刻み込まれた。
-</p>
-<p>
-　Bad Rabbitは、コンピューターを暗号化し、0.05ビットコイン（現時点の相場で300ドル弱）の支払いを要求する。
-</p>
-<p>
-　この金額は、Bad Rabbitに感染した企業や機関の規模によっては「はした金」だろう。つまり犯人たちは、支払わないことのメリットよりデメリットの方が大きいと被害者が考えることを当てにして、数撃てば当たる式の作戦を展開しているものと推測される。もちろん、金を支払ったからといって、データが元に戻る保証はない。また、これまでのランサムウエアでは、被害者がやむなく要求に応じた後に、結局は警察などの法執行機関の介入により支払いの完了を阻まれたとする事例の報告もある。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/103000432/?ST=cm-software&P=2">仕組み</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/103000432/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/103000432/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/103000432/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/103000432/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 30 Oct 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>金融のデジタル化を促進、NRIと日本マイクロソフトが業界団体（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/103002549/</link>
-			<description><![CDATA[　野村総合研究所（NRI）と日本マイクロソフトは、2017年10月30日、金融業のデジタル変革を支援する業界団体「金融デジタルイノベーションコンソーシアム」を11月1日付で設立すると発表した。]]></description>
-			<pubDate>Mon, 30 Oct 2017 14:33:04 +0900</pubDate>
-		</item>
-		<item>
 			<title>Salesforceでリース業界特化型CRM提供、アビームコンサルティング（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/103002550/</link>
 			<description><![CDATA[　アビームコンサルティングは2017年10月30日から、リース・販売金融業界に特化したCRM（カスタマー・リレーションシップ・マネジメント）導入支援サービス「リース・販売金融業界向け顧客接点強化ソリューション」の提供を始めた。価格は1000万円程度から。2018年3月末までに5件の導入を目指す。]]></description>
@@ -380,6 +329,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/103102567/</link>
 			<description><![CDATA[　「AI（人工知能）は2020年までに180万の仕事を消すが、230万の新たな雇用を創出する」。米ガートナーのデイヴィッド・ウィリス氏は2017年10月31日、東京・品川で開催している「Gartner Symposium/ITxpo 2017」のメディア限定セッションでこう発言した。]]></description>
 			<pubDate>Tue, 31 Oct 2017 19:11:10 +0900</pubDate>
+		</item>
+		<item>
+			<title>ローソンの「e発送サービス」再開、日本郵便のシステム障害発生から4カ月ぶり（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/103102568/</link>
+			<description><![CDATA[　日本郵便とローソンは2017年10月31日、システム障害のため停止していたローソン店舗での「e発送サービス」の取り扱いを再開した。6月28日のシステム障害発生以来停止が続いていたが、約4カ月ぶりに復旧した。]]></description>
+			<pubDate>Tue, 31 Oct 2017 19:30:41 +0900</pubDate>
+		</item>
+		<item>
+			<title>メルマガ開封率アップへ、ユミルリンクがメール配信システム「Cuenote FC」新版（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/103102569/</link>
+			<description><![CDATA[　ソフトウエア開発のユミルリンクは2017年10月31日、メルマガなどを配信するためのシステム「Cuenote FC」の新バージョンの提供を始めた。受信者のメールアプリの一覧画面にタイトルとともに表示する文章を任意に設定できるようにして、画面の小さいスマホ向けでも内容をアピールしやすくした。]]></description>
+			<pubDate>Tue, 31 Oct 2017 20:06:50 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
