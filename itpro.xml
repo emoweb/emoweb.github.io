@@ -293,5 +293,66 @@
 ]]></description>
 			<pubDate>Tue, 31 Oct 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>Pythonのディストリビューション「Anaconda」、バージョン5.0が登場（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/103100374/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　Pythonのディストリビューションの1つである「Anaconda」が5.0にバージョンアップした。科学技術計算、データサイエンス、統計分析、機械学習などを扱うための環境を構築できるディストリビューションのメジャーバージョンアップだ。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/103100374/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　2017年10月25日にバージョン5.0.1がリリースされた。完成当初の5.0.0と比べ、小さなバグ修正のほか、サポートするR言語のアップデートなどの改良が加わっている。
+</p>
+<h4>
+無償でダウンロード可能
+</h4>
+<p>
+　Anacondaには、無償版の「Anaconda Distribution」と、サポートが付く有償版の「Anaconda Enterprise」がある。無償版は<a href="https://www.anaconda.com/distribution/" target="_blank">Anacondaのサイト</a>から直接ダウンロードして利用できる。有償版を利用する場合は、米Anaconda（旧称Continuum Analytics）のセールスチームに問い合わせる必要がある。
+</p>
+
+<h4>
+全面的なリビルドでパフォーマンスを向上
+</h4>
+<p>
+　Anaconda 5.0のLinux版とmacOS版は、それぞれ新しいコンパイラ（Linux版はGCC 7.2、macOS版はClang 4.0.1）で全面的にリビルドされている。CentOS 6やOS X Mavericks（10.9）といった古いバージョンのOSでAnacondaを利用するユーザーも、パフォーマンス向上などのメリットを享受できる。
+</p>
+<p>
+　また、Anaconda 5.0では、パッケージマネージャ「conda」を通じて提供されるPythonパッケージにも、新しいコンパイラを使ったリビルド版が用意された。ただし当面は、従来版のパッケージとは別のインストールチャネルで提供されている。今後、最適化された新しいパッケージが増え、ユーザーの間でこうしたパッケージの試用が進んできたら、いずれはこちらのチャネルをデフォルトにする計画だ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/103100374/?ST=cio-appli&P=2">conda-forgeのレシピを基盤に</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/103100374/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/103100374/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/103100374/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 31 Oct 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日立が「JP1」新版、SAP HANAやAWSを構成管理の対象に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/103102556/</link>
+			<description><![CDATA[　日立製作所は2017年10月31日、統合システム運用管理の新版「JP1 V11.5」を11月1日に販売開始すると発表した。]]></description>
+			<pubDate>Tue, 31 Oct 2017 11:05:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AI活用し販促シナリオを最適化、日立がサービス開始（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/103102557/</link>
+			<description><![CDATA[　日立製作所は2017年10月31日、AI（人工知能）を活用し販促シナリオの設計、評価、改善を自動化する「マーケティングオートメーションサービス」の提供開始を発表した。]]></description>
+			<pubDate>Tue, 31 Oct 2017 11:05:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
