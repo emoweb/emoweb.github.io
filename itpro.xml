@@ -5,199 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：S8+購入を激しく後悔させるGalaxy Note 8（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/102500145/?n01</link>
-			<description><![CDATA[　2017年春に、「Galaxy 8」と「同 8+」が登場したのは記憶に新しいが、さらに10月半ばには上位モデルとなる「Galaxy Note 8」がリリースされた。これこそ、発火で問題になった「Galaxy Note 7」の後継モデルということになる。]]></description>
-			<pubDate>Tue, 31 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>従来比2倍高速なブラウザー「Firefox Quantum」、11月14日に登場（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/103102575/</link>
-			<description><![CDATA[　Mozillaは2017年10月31日、WebブラウザーFirefoxの次期バージョンに関する記者説明会を開催し、従来比で2倍高速化を図った「Firefox Quantum」をリリースすると発表した。同社が注力してきたブラウザー高速化プロジェクト「Project Quantum」に基づくもので、リリース日は11月14日だ。]]></description>
-			<pubDate>Tue, 31 Oct 2017 21:30:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>専業主婦でもスキルは失われない、「忍耐力」も武器になる（わたしの働き方改革）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/101600017/</link>
-			<description><![CDATA[　16年間のブランクを経て再就職した、サイボウズの江原なおみ氏。広報担当として取材の調整や立ち会いをするなど、忙しい日々を送っている。仕事をする上では、過去の会社員経験だけでなく、専業主婦時代に身に付いた「忍耐力」が生きているという。]]></description>
-			<pubDate>Wed, 01 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AWSとAzureで学ぶクラウドネットワーク構築の勘所（トラブル事例から学ぶクラウドネットワーク設計）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101700426/102000003/</link>
-			<description><![CDATA[　パブリッククラウドへの接続にインターネットを使わず、VPNによる「閉域接続」を利用するケースが増えている。閉域接続の仕組みは簡単で、クラウドサービス事業者のゲートウエイと通信事業者のゲートウエイを接続する。Microsoft Azureとの接続に使う「ExpressRoute」や、Amazon Web Services（AWS）との接続に使う「Direct Connect」が閉域接続の代表例だ。]]></description>
-			<pubDate>Wed, 01 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>上司に響く企画、「タテヨコ発想法」でアイデア書き込む（脱・ザンネン社員）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/101600013/</link>
-			<description><![CDATA[　小さく生んで大きく育てるのは、新規事業を成功させる王道だ。最初は好調でも、同じ商品、同じ儲け方だけだといずれ行き詰まる。事業のアイデアを考える際には、できる限り広がりを持たせたい。水平と垂直の2軸で「タテヨコ」の発想法を身に付けよう。]]></description>
-			<pubDate>Wed, 01 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>まもなく成長の限界、アマゾンなんか怖くない！（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/102700948/</link>
-			<description><![CDATA[　あらかじめ断っておくが、タイトルの「アマゾン」はAWSのことではない。“祖業”であるEC事業のほうである。今、アマゾンのECサイトは絶好調で、成長の限界など来るはずがないように思えるが、少なくとも日本においては限界がはっきりと見えている。]]></description>
-			<pubDate>Wed, 01 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>第1と第2を仮想統合、SOMPOと三井物産のIT部門改革（IT部門改革の最新事情）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/102500442/102500003/</link>
-			<description><![CDATA[　基幹系システムなど守りのITを担う「第1のIT部門」と、攻めのITを担う「第2のIT部門」。2つのIT部門を独立させたままにする企業はまだまだ多い。統合はしないまでも、IoTの時代を生き抜くには密接な連携が不可欠だ。SOMPOホールディングスと三井物産は互いの機能を補完する「仮想統合」の道を選んだ。]]></description>
-			<pubDate>Wed, 01 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IoT機器の電源確保に悩まなくていい！？ドコモがeDRXを国内初（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/102601181/</link>
-			<description><![CDATA[　NTTドコモは2017年10月2日、同社のIoT向けLTEサービスに新技術「eDRX」（extended Discontinuous Reception）を導入した。国内では初となる。eDRXはIoT機器が通信する際の消費電力を低減する通信技術。東京都市部で開始し、2017年度内に全国のLTEエリアに広げる予定だ。]]></description>
-			<pubDate>Wed, 01 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ARKitの進化の先に何がある？ 「Apple Glass」の登場に期待（山崎潤一郎のデジタル危険地帯）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/080600035/102500040/</link>
-			<description><![CDATA[　iOS 11からAR（Augmented Reality、拡張現実）分野に参戦したApple。前編に続き後編では、同社のARフレームワーク「ARKit」は何ができて、何ができないのかを検証しつつ、ARKitがもたらすARの将来について考察する。]]></description>
-			<pubDate>Wed, 01 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iPhone Xで注目の「Face ID」、認証方式の世代交代は起こるか（米国発！ Appleニュースの読み解き方）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/102000063/</link>
-			<description><![CDATA[　米アップルは、最新版のiPhone Xで、これまで5年間搭載してきた指紋認証「Touch ID」を顔認証「Face ID」に切り替えた。Face IDに一度触れてしまうと、こちらのほうが良いとしか思えなくなる。]]></description>
-			<pubDate>Wed, 01 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>巨大化するSAPとオラクルのR&amp;D拠点、20年かけて世界2位に（潜入！世界IT大手の頭脳）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/102000431/102500003/</link>
-			<description><![CDATA[　SAPとオラクルはそれぞれ戦略商材の開発拠点をインドに設けている。いずれの拠点も各社にとって世界で2番目の規模となる。]]></description>
-			<pubDate>Wed, 01 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>RPAツール、主要5製品を比較分析（ゼロから分かるRPA）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080700333/101900003/</link>
-			<description><![CDATA[　RPAツールは国産、海外製を合わせて約40種類近くに上ると言われている。それぞれ共通する特徴や独自の特徴を備えており、利用者が自社のニーズに適するツールを選ぶのは容易でない。今回は代表的な5つの製品を取り上げて内容を見ていく。]]></description>
-			<pubDate>Wed, 01 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>データベースの常識を打ち破る！？Oracle DBとSQL Serverの新版（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/103001183/</link>
-			<description><![CDATA[　日本オラクルと日本マイクロソフトが2017年10月から12月にかけて相次ぎ、データベース（DB）ソフトの新版の提供を始める。日本オラクルは新版の「Oracle Database 18c」で「データベース管理者不要」を打ち出し、運用の自動化を実施する。]]></description>
-			<pubDate>Wed, 01 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「Officeソフトとクラウドがあればたいていのことはできる」、学校IT（学校ITに必要なコト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/102600448/102600003/</link>
-			<description><![CDATA[　「ICTは子供たちのためになる」。いち早くICTを導入した学校の取り組みが予算が限られる中で今も続いているのは、現場の教員たちに確信があるからだ。調べる力、発表する力など、子供たちの様々な能力が育っている。]]></description>
-			<pubDate>Wed, 01 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>これまでとは異なる恐怖、最新型ランサムウエアの常識（ランサムウエア対処の鉄則）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/102600453/103100003/</link>
-			<description><![CDATA[　ユーザーのデータや企業が提供するネットワークサービスを“人質”に金銭を要求するランサム型攻撃。特に「ランサムウエア」と呼ぶウイルスを使った攻撃に、多くの企業が多大な被害を受けている。ランサムウエアの被害が目立ち始めた2015年と比べ、最新のランサムウエアは対処方法が大きく異なっている。]]></description>
-			<pubDate>Wed, 01 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>価値あるICOはこう見抜け、VCが教える4大秘訣（世界を揺さぶるICO）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/102300433/102700004/</link>
-			<description><![CDATA[　日経FinTechは2017年10月17日、読者限定の「Exclusive seminar」を開催した。DCMベンチャーズでインベストメント・ヴァイス・プレジデントを務める原 健一郎氏が、ICOの仕組みやチェックポイント、課題について解説した。]]></description>
-			<pubDate>Wed, 01 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>CIOが就任直後に気をつけるべき10カ条（後）（CIOが就任直後に気をつけるべき10カ条）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/102300082/102300002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　新任CIOへの移行に関しては、すべてのケースに適用できる万能の攻略法はない。だが、この5年間で約200人のCIOの就任を支えてきたDeloitteの最近の調査報告では、この重大な移行に直面するITリーダーに向けて、10カ条のヒントを提示している。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/102300082/102300001/" target="_blank">前回</a>から続く）</p>
-
-<h4>6：顧客、パートナー、サプライヤーと接触する</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/102300082/102300002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　かつては、CIOの時間はバックオフィス業務に費やされていた。しかし、このデジタル時代には、顧客対応の目標の比重が増す。バリューチェーンを構成する各部分と接触することで、CIOは企業の一幹部というだけではないと示せる。また、価値提供でテクノロジーが果たす役割を適切に評価できるようになる。「5～8年前なら、CIOに外向きの役割への期待はなかった。しかし今では、事業を展開している市場の変化を理解すべしという圧力がある」（Kark氏）</p>
-
-<h4>7：手早く得られる成果を探す</h4>
-
-<p>　ITリーダーとしての能力を示すことは、早い段階で信頼を獲得するうえでプラスに働く。例えば、Kark氏が携わったあるCIOは、全社規模の新しい無線ネットワークを数カ月で構築し、以前から社員が不満に感じていた問題を解決した。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/102300082/102300002/?ST=cio-management&P=2">8：早期の支持を勝ち取る</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/102300082/102300002/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/102300082/102300002/?ST=cio-management&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/102300082/102300002/?ST=cio-management&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/102300082/102300002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 01 Nov 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ウイルス保管容疑でセキュリティ企業ディアイティの社員逮捕、同社は反論（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110102576/</link>
-			<description><![CDATA[　京都府警サイバー犯罪対策課などは2017年10月31日、ファイル共有ソフト「Share」の利用者から情報を流出させるウイルスを業務用PCに保管したとして、セキュリティ企業ディアイティの社員を不正指令電磁的記録（ウイルス）保管容疑で逮捕した。]]></description>
-			<pubDate>Wed, 01 Nov 2017 09:49:18 +0900</pubDate>
-		</item>
-		<item>
-			<title>Appleのワイヤレス充電器「AirPower」、現時点で分かっていること（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/110100433/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Appleが発売するワイヤレス充電器「AirPower」では、「iPhone」「Apple Watch」「AirPods」をケーブルなしで充電でき、充電ケーブルのゴチャゴチャが解消される。Appleは、「iPhone 8」と「iPhone X」を発表した2017年9月のイベントの中でAirPowerも披露したものの、詳細については明らかにしなかった。今回の記事では、現時点で分かっている情報をQ&A形式でまとめる。
-</p>
-<h4>
-AirPowerとは何か？
-</h4>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/110100433/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Apple</div>
-</div>
-<p>
-　AirPowerは、Appleが新たにリリースするワイヤレス充電器だ。ワイヤレス充電器は複数の製品がすでに市販されているが、iPhone 8とiPhone Xが出るまでは、iPhoneでワイヤレス充電器を使うには、端末に特別なケースを装着する必要があった。
-</p>
-<p>
-　AirPowerなら、充電ケーブルも特別なケースも必要ない。iPhone 8やiPhone XをAirPowerの上に置くだけで充電が始まる。
-</p>
-<h4>
-AirPowerの使い方と仕組みは？
-</h4>
-<p>
-　AirPowerを使うには、机やテーブルなど、端末を充電したい場所にAirPowerを置き、コンセントにつなぐ。あとは、充電したいデバイスを、正面が上になる向きで置くだけだ。
-</p>
-<p>
-　少しだけ技術的な話をすると、AirPowerのワイヤレス充電は、電磁誘導を使ってデバイスに電力を送る仕組みだ。AirPowerの上にデバイスを置くと、AirPowerとの間で「ハンドシェイク」のやりとり（互換性や充電容量などのチェック）が行われ、すべてのチェックにパスしたら充電が始まる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/110100433/?ST=cm-hardware&P=2">AirPowerで充電できるのはどのiPhoneか？</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/110100433/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/110100433/?ST=cm-hardware&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/110100433/?ST=cm-hardware&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/110100433/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 01 Nov 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>CRM協議会がベストプラクティス賞を発表、16企業・団体が受賞（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110102577/</link>
-			<description><![CDATA[　顧客中心主義経営の普及と高度化に取り組んでいる一般社団法人CRM協議会は2017年11月1日、「2017 CRMベストプラクティス賞」の受賞企業・団体16組と、「2017 CRM奨励賞」受賞企業1組を発表した。]]></description>
-			<pubDate>Wed, 01 Nov 2017 10:32:39 +0900</pubDate>
-		</item>
-		<item>
 			<title>データセンター間の光通信をホワイトボックスススイッチで、NTTと台湾中華電信が実験（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110102578/</link>
 			<description><![CDATA[　NTTは2017年10月31日、同社と台湾の中華電信 電信研究院が、データセンター間の光通信ネットワークにホワイトボックススイッチとオープンソースソフトウエアを適用する共同実験を開始すると発表した。]]></description>
@@ -274,6 +81,120 @@ AirPowerの使い方と仕組みは？
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110102589/</link>
 			<description><![CDATA[　日本マイクロソフトは2017年11月1日、法人向けにLTE対応のタブレット端末「Microsoft Surface Pro」2機種を発表した。同日から販売代理店を通じて受注を開始し、12月8日から順次出荷する。参考価格は12万9800円（税別）から。]]></description>
 			<pubDate>Wed, 01 Nov 2017 20:30:51 +0900</pubDate>
+		</item>
+		<item>
+			<title>中国VRの主役は「アーケード」、専業会社が形作るガラパゴス（シリコンバレーVR通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052800216/101600009/</link>
+			<description><![CDATA[　消費者向け市場は盛り上がりを欠く一方、気軽に楽しめるスペースが街角に目立つ。その光景は1980年代の日本のゲームセンターのようだ。熱気はVRの本場、米国にも伝わりつつある。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>オールフラッシュストレージは非機能要件で選ぶ（今さら聞けないストレージ技術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/062600261/102400011/</link>
+			<description><![CDATA[　オールフラッシュストレージの市場では、既存のストレージベンダーと、新鋭のフラッシュストレージベンダーがしのぎを削っています。それぞれの製品の特徴を理解して選択する必要があります。また製品の差異化要素として重要なのは、非機能要件です。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>失敗しないOffice 365のつなぎ方（トラブル事例から学ぶクラウドネットワーク設計）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101700426/102000004/</link>
+			<description><![CDATA[　クラウドへのVPN接続はIaaSのほかにも、Office 365に代表されるSaaSでも利用できる。ただし注意すべきポイントはIaaSの場合と大きく異なる。今回はOffice 365を例にとり、SaaS/PaaSでVPN接続を使う際のネットワーク設計を解説する。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ベンチャーキャピタルの目にICOはどう映っているのか（世界を揺さぶるICO）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/102300433/102700005/</link>
+			<description><![CDATA[　日経FinTechは2017年10月17日、読者限定の「Exclusive seminar」を開催した。DCMベンチャーズでインベストメント・ヴァイス・プレジデントを務める原 健一郎氏が、ICOの仕組みやチェックポイント、課題について解説した。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>再び問われるIT部門の存在意義、今CIOがすべきこと（IT部門改革の最新事情）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/102500442/102500004/</link>
+			<description><![CDATA[　統合か、連携か、それ以外か──。IT部門改革の解は複数あるが、成功のカギはただ一つ。変化を恐れず、挑戦を続けるところにある。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>バッテリー駆動PCをどうしても作る必要があった、ThinkPad誕生秘話（塩田紳二のモバイルトレンド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/102400062/</link>
+			<description><![CDATA[　ノートパソコンとして有名な「ThinkPad」。その開発プロジェクトに当初から関わっていたレノボ・ジャパン取締役副社長の内藤在正氏に、最初のThinkPadが産まれるまでの話を聞きました。その後編です。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>2画面スマホ「M」の背景にあるドコモのしたたかな戦略（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/102700357/</link>
+			<description><![CDATA[　NTTドコモが、折り畳み式の2画面スマートフォン「M」を発表した。このチャレンジングなモデルが開発された背景には、ドコモのしたたかな戦略があった。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>7型液晶の超小型パソコンは用途がなくても欲しくなる（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/102700356/</link>
+			<description><![CDATA[　ユーザー視点の辛口評価で好評の戸田覚氏が、話題の超小型パソコン「GPD Pocket」をレビューする。スマートフォンが当たり前となったいまどき、この製品の出番はあるのか!?]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>キッチンでいつでも料理、クックパッドの「社食」事情（すごい社食）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/100300217/102300010/</link>
+			<description><![CDATA[　料理レシピの投稿・検索サービスを手掛けるクックパッドには、「社員食堂」はない。その代わりに同社らしく、「社員共用キッチン」を設けている。東京・恵比寿にある同社の受付に足を運ぶと、そのすぐ隣にある「キッチン＆ラウンジ」が目に入る。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本企業から属人化したノウハウが散逸、AIより業務の標準化が先だ（焦点を読む）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/103100096/</link>
+			<description><![CDATA[　業務プロセスや業務ノウハウの属人化は日本企業の大きな問題点―― 。人は何度も同じ指摘を受けていると、だんだん麻痺してしまうものらしい。「属人化」を日本企業固有の「病」のように思い込む人が意外に多い。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ロボットライダーは世界チャンピオンに勝てるのか？（編集長の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/16/110700001/103000051/</link>
+			<description><![CDATA[　筆者が足しげく通っていた20数年前に比べると、東京モーターショーは地味になっていた。それでも筆者は、今回のモーターショーに足を運んでワクワクすることができた。クルマの世界でITの活躍する場が広がっていることを、自分の目で実感することができたからだ。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「どこまで我慢できるか」、学校IT整備の最低ライン（学校ITに必要なコト）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/102600448/102600004/</link>
+			<description><![CDATA[　有識者会議は、学習者用端末の必要台数として「3クラスに対して1クラス分」との目安を示した。これは、過去の様々な実践を通じて蓄積された知見を基に導き出された値だった。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>心理学者も働くハイテク研究開発拠点、インド4000人体制のアクセンチュア（潜入！世界IT大手の頭脳）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/102000431/102500004/</link>
+			<description><![CDATA[　アクセンチュアが2017年7月にインド最大のIT集積地バンガロールに開設した「アクセンチュア・イノベーション・ハブ」は、同社の戦略を体現する拠点だ。同社はAIやIoTなど新分野の事業を拡大しており、それらの売上比率を2017年度（2016年9月～2017年8月）時点で約50％にまで引き上げた。イノベーション・ハブは顧客に対して、新分野のサービスを試行してもらい導入を促す場となっている。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>企業で使えるスマートスピーカー、国産勢がAmazon Echo対抗（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/103001184/</link>
+			<description><![CDATA[　凸版印刷とTISは2017年10月24日、人工知能（AI）を搭載するスマートスピーカーを金融機関に提供することを目指して協業した。米アマゾンドットコムのや米グーグルなどの一般向けスピーカーではなく、「業務用」をうたう製品を利用する。主に3つの理由がある。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>インフラは怪物級？Microsoft Azure（シリコンバレーNextレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/110100133/</link>
+			<description><![CDATA[　メモリーを4テラバイト搭載するモンスターマシン、バックアップ専用の巨大ストレージ――。米Microsoftのクラウドサービス「Microsoft Azure」の内部は、従来型のデータセンターとは大きくかけ離れた姿に進化している。Azure部門のCTOが、その「凄い中身」の一端を明らかにした。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Suicaの残高不足も分かる、iPhone標準の「マップ」に欠点は見当たらない（あなたが知らないiPhone）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/103000461/103100001/</link>
+			<description><![CDATA[　ビジネスでもプライベートでも必携のツールとなりつつあるiPhone。この連載では、長く使っている人でも気付いていない、iPhone標準の機能や、標準アプリの知られざる便利機能を紹介する。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>JavaOne 2017レポート、要注目のProject JigsawとVector APIをコードで理解（最新Java情報局）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120700278/103000050/</link>
+			<description><![CDATA[　JavaOne 2017レポートの2回目は、筆者が聴講したセッションのうち興味深かったものを2つレポートします。Java SE 9の注目機能である「Project Jigsaw」と、今後の「Project Panama」で提供される「Vector API」です。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ビッグデータで保険料や与信枠が個別に変わる（世界を動かす「100の技術」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/103100470/103100001/</link>
+			<description><![CDATA[　2018年以降、消費者ごとに商品やサービスの価格が変わるようになる。人の行動や体調、好み、さらには信用情報まで記録し、人工知能も活用して解析していく。ビッグデータによって新たな価値を届ける時代が幕を開ける。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>サイバー攻撃をプロバイダーは止められるか、総務省の意欲（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/110101186/</link>
+			<description><![CDATA[　総務省は2017年10月26日、サイバー攻撃の対策などを議論する有識者会議「円滑なインターネット利用環境の確保に関する検討会」を開催した。会合の名称からは狙いが分かりにくいが、「サイバー攻撃を一斉遮断」といった報道が出ていたものだ。]]></description>
+			<pubDate>Thu, 02 Nov 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
