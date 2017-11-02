@@ -5,24 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：S8+購入を激しく後悔させるGalaxy Note 8（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/102500145/?d02</link>
-			<description><![CDATA[　2017年春に、「Galaxy 8」と「同 8+」が登場したのは記憶に新しいが、さらに10月半ばには上位モデルとなる「Galaxy Note 8」がリリースされた。これこそ、発火で問題になった「Galaxy Note 7」の後継モデルということになる。]]></description>
-			<pubDate>Tue, 31 Oct 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>“仮想留学”で英語力アップ、観光人材も育成――北海道2大学の挑戦（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/103100279/</link>
-			<description><![CDATA[　ICTを活用した教育に関する研究発表と交流のイベント「PCカンファレンス北海道2017」では、インターネットを使った仮想留学体験や観光分野の人材育成など、大学の取り組みが発表された。]]></description>
-			<pubDate>Wed, 01 Nov 2017 12:55:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>GMOインターネットから漏えいの個人情報、Amazonの電子書籍として販売される（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110102579/</link>
-			<description><![CDATA[　2017年11月1日昼ごろ、アマゾンジャパンの電子書籍販売サイト「Kindleストア」に、GMOインターネットから漏えいしたとされる個人情報が販売されていたことがわかった。販売ページは14時ごろ削除され、現在はアクセスできない。]]></description>
-			<pubDate>Wed, 01 Nov 2017 13:40:45 +0900</pubDate>
-		</item>
-		<item>
 			<title>オークファンがネットプライスを買収、法人在庫の流動化を促進へ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110102580/</link>
 			<description><![CDATA[　オークファンは2017年11月1日、EC（電子商取引）事業を展開するネットプライスを8800万円で買収すると発表した。ネットプライスは1999年に事業を開始した老舗のECサイトで、BEENOSが100％の株式を保有していた。オークファンは現在、法人在庫の流動化市場に注力しており、約250万人の登録会員を持つネットプライスを販路の一つとして活用できるようになる。]]></description>
@@ -229,6 +211,51 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110102590/</link>
 			<description><![CDATA[　ソニーは2017年10月31日、本社で新製品発表会を開催し、犬型ロボットの新製品「aibo（アイボ）」を発表した。従来のAIBOと比べてaiboの最大の進化ポイントとして「AI」を挙げた。]]></description>
 			<pubDate>Thu, 02 Nov 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Microsoft、Office 365ユーザー向けにOutlookの機能と容量を強化（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/110200375/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Microsoftは現地時間2017年10月30日、メールサービス「Outlook.com」に関して、サブスクリプションサービス「Office 365 Home」「同 Personal」の加入者に追加サービスを提供することを発表した。セキュリティ機能の強化、広告の非表示、メールボックスの容量増加が含まれる。Office 365 Homeに加入している場合は、加入者本人のほか最大4人のユーザーにも利用可能にする。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/110200375/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Microsoft</div>
+</div>
+<p>
+　セキュリティに関しては、Outlook.comの通常のスパムフィルタやマルウエアフィルタに加えて、添付ファイルのスキャン機能と、ユーザーがメール内でクリックするリンクのリアルタイムチェック機能を提供する。それに加えて、広告は表示されなくなり、メールボックスの容量は、米Googleの無料版Gmailと同じ15Gバイトだったのが50Gバイトに増える。
+</p>
+<p>
+　また、Office 365 Homeの加入者は、本人以外に最大4つのOutlookアカウントに対して、この追加サービスを適用できる。家族で利用しているユーザーにとっての魅力を高める策だ。
+</p>
+<p>
+　新たなセキュリティ機能は、メールに記載されている悪質なリンクや、マルウエアが埋め込まれた添付ファイルに対する防御を強化する。ユーザーがクリックしたリンクに危険性が確認された場合、赤い警告画面が大きく表示され、リンク先への移動がブロックされる（警告を無視してリンク先へ移動する選択肢もある）。また、危険な添付ファイルが検出された場合は、ユーザーが誤って開くことがないよう、自動で削除される。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/110200375/?ST=cio-appli&P=2">今回の追加サービスは、Office365Home...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/110200375/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/110200375/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/110200375/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 02 Nov 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>新電力ベンチャーのLooopがICO、仮想通貨のマイニング事業に参入（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110202591/</link>
+			<description><![CDATA[　新電力ベンチャーのLooopは2017年11月2日、クリプトマイニングジャパン（CMJ）、仮想通貨取引所運営のテックビューロと業務提携し、仮想通貨の採掘（マイニング）事業に参入すると発表した。]]></description>
+			<pubDate>Thu, 02 Nov 2017 11:55:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
