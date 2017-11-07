@@ -5,31 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    スマホ動画もピンマイクで音録、iPhone向けBluetoothマイク「Smart Mike」レビュー。見かけによらず便利過ぎ
-</title>
-			<link>http://japanese.engadget.com/2017/11/05/iphone-bluetooth-smart-mike/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/b986c5db924c9a80ab8602845119af95/205833257/20171103_202217.jpg" />
-
-Engadget 日本版 YouTubeチャンネルより。お借りしたアピロスのiPhone向けBluetoothマイク「Smart Mike」が非常に便利だったので動画でお伝えします。
-
-製品をごく簡単に説明すると、Bluetooth接続のiPhone専用ピンマイク（ラベリアマイク）です。その特徴は、動画撮影時にiPhone本体のマイクで収録した音と合成し、軽装備ながら音をしっかり収録する撮影に対応できる点です。
-
- 
-
-iPhoneだけの動画撮影では、周囲の環境音の影響を受けてうまく声が拾えないこともあります。これまで有線のラベリアマイクを使って撮影していましたが、有線では物理的な制約が多く、取材スタイルが限定されることもありました。
-
-Smart Mikeはそんな課題をあっさり解決。使ってすぐに「こりゃ楽だわ！」と思った次第。音ずれもするようでそこは今後の課題かと思いますが、現時点の性能でもケーブルレスで音が録れる利便性の方が私は優りました。
-
-<p><a href="http://japanese.engadget.com/gallery/smart-mike/" title="Smart Mike">【ギャラリー】Smart Mike (4枚)</a></p>
-
-クリップが付属した本体には8GBのフラッシュメモリを内蔵。専用iPhoneアプリで撮影を開始すると音声はSmart Mike本体に記録され、撮影終了後にiPhoneとSmart MikeをWi-Fi接続して音声データを収録します。連続2時間の録音が可能で、24時間記録できます。収録音声はモノラルとステレオから選べ、録音方式は48KHz/16bitのWav形式（Linear PCM）。価格は1万6200円です。
-
-
-
- ]]></description>
-			<pubDate>Sun, 05 Nov 2017 08:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    2009年の今日、ガラスでも使えるDarkfieldセンサー搭載マウスが発売されました：今日は何の日？
 </title>
 			<link>http://japanese.engadget.com/2017/11/05/2009-darkfield/</link>
@@ -564,6 +539,32 @@ iPhone Xで取得されるユーザーの顔データにアプリ開発者がア
 アップルはFace IDについては顔データを暗号化した上で端末内に保存しているとしていますが、同報告によればアプリ開発者はユーザーの許可を得て「特定の顔データ」にアクセスできるとのことです。
  ]]></description>
 			<pubDate>Tue, 07 Nov 2017 02:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    格安SIMのIIJ、国際データローミングを3月提供。ピクト表示も「docomo」→「IIJ」に
+</title>
+			<link>http://japanese.engadget.com/2017/11/07/sim-iij-3-iij-docomo/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/344f8d0d49034c76968a63d5aaa08b7d/205838341/IMG_9939.jpg" />
+格安SIM（MVNO）の「IIJmio」などを手がけるIIJは11月7日、事業説明会を開催し、国際データローミングを2018年3月をめどに提供すると発表しました。
+
+
+▲フルMVNOの解説スライド
+
+国際データローミングの提供は、MVNOサービスの「フルMVNO」化によるもの。従来のMVNOは、MNOから貸与されたSIMをユーザーに配布したり、MNOの加入者管理システムを間借りして利用していました。一方のフルMVNOでは、独自にSIMカードを発行したり、独自の加入者管理システムを保有可能に。さらに、国内外のさまざまなネットワークに接続できるなど、自由度が格段に向上するといいます。
+
+2018年3月をめどに開始する国際データローミングは、このフルMVNOの仕組みを取り入れ、IIJmioとは別のSIMでサービスを提供予定。1枚のSIMで国内と海外の両方でデータ通信が利用できます。なお料金体系は従量制となる見通しで、「ドコモのワールドウィングよりは安くなる」といいます。
+
+
+▲アンテナピクト表示はIIJに
+
+なお、同SIMは独自に発行したSIMカードを利用するため、アンテナピクト表示は「docomo」や「au」ではなく「IIJ」になる予定。
+
+なお、既存の格安SIMサービス「IIJmio」は2018年3月の段階でもフルMVNO化せず、したがって現時点で国際データローミングを提供する予定もないとしています。IIJは「フルMVNOサービス」にeSIMなどが使える利点があることを活かし、主に法人向けに展開するとしています。
+
+ 
+
+ ]]></description>
+			<pubDate>Tue, 07 Nov 2017 02:50:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
