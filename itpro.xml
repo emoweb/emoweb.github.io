@@ -11,56 +11,6 @@
 			<pubDate>Sat, 04 Nov 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Microsoft、次世代HoloLens向けAIチップを他製品にも展開へ（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/110600434/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftは、拡張現実（AR）ヘッドセット「HoloLens」の次世代版に搭載するAIチップを、HoloLens以外のハードウエアにも展開する意向だ。おそらくはパソコンや他社製デバイスに搭載されることになる。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/110600434/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Microsoft</div>
-</div>
-<p>
-　Microsoftでデバイス部門のトップを務めるPanos Panay氏は、米CNBCのインタビューで、次世代版HoloLensに向けたAIチップの開発を続けていることを明らかにしている。
-</p>
-<p>
-　現行のHoloLensは、これまでのところはパートナー企業に向けた販売が中心だ。Panay氏によると、当初の10カ国に加えて、欧州の29カ国でも新たにHoloLensを発売する。中国は最初の10カ国に入っていたが、ロシアとインドは現時点でまだ発売国に入っていない。
-</p>
-<p>
-　Microsoftは、新しいAIチップを開発していることを7月に明らかにしたが、このチップが担う機能は定かではなかった。現行のHoloLensなどで使われている従来型の手法は、既存のクラウドコンピューティングの構造を拡張するものであるのに対し、同社が開発を目指しているのは、オンラインでもオフラインでも使える、もっと独立したチップだというのが当時の説明だった。Panay氏は今回のインタビューで同様の見解を示しているように思える。
-</p>
-<p>
-　また、Microsoftのハードウエア製品のラインナップの中で、この新しいAIチップが他の製品にも使われるのかどうかを尋ねられたPanay氏は「イエス」と答えている。
-</p>
-<p>
-　目下のところ、米Amazon.comや米Apple、米Googleは、スマートフォンや家庭用デバイスを強力にするための重要なピースとしてAIを捉えているが、Microsoftは当然、パソコンの知能を高めることにも重きを置いている。Windows Phoneが事実上の終焉を迎える中、米HPや米Dellなど、パートナーのハードウエア企業を盛り立てられるかは、依然としてMicrosoftにかかっている。パソコンが賢くなることは、その助けになる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/110600434/?ST=cm-hardware&P=2">HoloLensはまだ健在</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/110600434/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/110600434/?ST=cm-hardware&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/110600434/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 06 Nov 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IchigoJam向けビジュアルプログラミング環境、大阪工大が披露（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/110600281/</link>
-			<description><![CDATA[　2020年度から小学校でプログラミング教育が必修になることが決まり、教育現場ではどのような授業をすればよいのか、不安と関心が高まりつつある。2017年10月28～29日に開催された「PCカンファレンス北海道2017」でも、プログラミング教育に関する研究発表やワークショップが実施された。]]></description>
-			<pubDate>Mon, 06 Nov 2017 10:37:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Webブラウザーをクラウドで動かす、無害化ソフトのメカニズム（ITpro Report）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/110600283/</link>
 			<description><![CDATA[　アシストが2017年11月2日に発表した「Ericom Shield」は、Webブラウザーを社内ネットワークと分離して利用できるというソフトウエアだ。プロキシとして動作し、マルウエアなど悪意のあるWebコンテンツを無害化できることが特徴になる。]]></description>
@@ -301,6 +251,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110702611/</link>
 			<description><![CDATA[　シマンテックは2017年11月7日、企業向けエンドポイントセキュリティ製品の新版「Endpoint Security for the Cloud Generation」を発売した。偽のPC環境をおとりにして攻撃を反らすディセプション（欺き）や攻撃の痕跡を収集するEDRなどの機能を統合した。]]></description>
 			<pubDate>Tue, 07 Nov 2017 18:58:40 +0900</pubDate>
+		</item>
+		<item>
+			<title>IIJの「フルMVNO」は2018年3月末までに開始、法人やIoTを主眼に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110702612/</link>
+			<description><![CDATA[　インターネットイニシアティブ（IIJ）は2017年11月7日、MVNO事業に関する説明会を開催。「フルMVNO」サービスを2018年3月末までに開始することや、長期利用者向けの特典プログラムなどを説明した。]]></description>
+			<pubDate>Tue, 07 Nov 2017 20:07:20 +0900</pubDate>
+		</item>
+		<item>
+			<title>NECが企業向けWindowsタブレット新版、デジタイザーペンを内蔵可能に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110702613/</link>
+			<description><![CDATA[　NECは2017年11月7日、企業向けタブレットPCの新版「VersaPro タイプVT」を発売した。厚さ11.9mmの本体にデジタイザーペンを内蔵するホルダーを設けたほか、ドック機能付きキーボードとの固定機構を強化。持ち運びやノートPC形態時の使い勝手を向上させた。]]></description>
+			<pubDate>Tue, 07 Nov 2017 20:14:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
