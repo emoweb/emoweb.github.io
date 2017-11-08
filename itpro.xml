@@ -5,126 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Slack（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/101800095/</link>
-			<description><![CDATA[　米スラック・テクノロジーズが提供するビジネス向けチャットサービス。SNSのように気軽にメッセージをやり取りできる。部署やプロジェクト単位でグループを作り、コミュニケーションやファイル共有ができる。]]></description>
-			<pubDate>Tue, 07 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ランサムウエアをなめてはいけない、本当の恐ろしさ（脅威増すサイバー攻撃の正体）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/102700456/110100003/</link>
-			<description><![CDATA[　「お金を払えば復元できるから、ランサムウエアはそんなに怖くない」――。そんな印象を持っている人もいるだろう。だが、ランサムウエアは怖い。今までのウイルスが実現できなかった、「一般のユーザーから広くお金を奪う」というスキームを確立したからだ。]]></description>
-			<pubDate>Tue, 07 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>LPWAの規格とサービス事業者の関係、増えるSigfoxの引き合い（広がるLPWA）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/102600454/103100003/</link>
-			<description><![CDATA[　無線通信規格「Sigfox」の商用サービスを2017年2月に始めた京セラコミュニケーションシステム（KCCS）。端末から基地局へ信号を送信する際に必要なRFモジュールが世界的に値下がりしたことで、Sigfoxに対応する端末の開発が加速しているという。]]></description>
-			<pubDate>Tue, 07 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>論文のお手伝いは、いたしません（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/110200106/</link>
-			<description><![CDATA[　フェイスブックのマーク・ザッカーバーグCEO（最高経営責任者）が母校ハーバード大学の卒業式に登壇して話したスピーチが大きな話題を集めました。こうした話を聞くにつけ、米国企業の大学や学生に対する期待の大きさを実感します。]]></description>
-			<pubDate>Tue, 07 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>国内でも関心高まるQRコード、スマートフォン決済の起爆剤となり得るか（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/103000129/</link>
-			<description><![CDATA[　中国で「Alipay」や「WeChat Pay」など、QRコードを用いたスマートフォン決済の人気が上がっている。こうしたことから、QRコード決済に対する関心が国内でも日増しに高まっているようだ。確かに導入ハードルの低さや利用の手軽さなど、QRコード決済には多くのメリットがあるが、一方でデメリットがあることも忘れてはならない。はたしてQRコードは日本国内でスマートフォン決済を普及させる起爆剤となり得るのだろうか。]]></description>
-			<pubDate>Tue, 07 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windowsが動く極小PC「LattePanda」、2年遅れでも独走のワケ（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/110200951/</link>
-			<description><![CDATA[　フル機能のWindowsが動く、中国DFRobotの名刺大PCボード「Latte Panda」。2017年9月に技適を取得し、2年遅れで日本に上陸した。古びた仕様に見えるかと思えばさにあらず。登場時よりむしろ存在感を高めている。]]></description>
-			<pubDate>Tue, 07 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>年表で読み解く、オラクルのクラウド戦略（反攻オラクルの勝算）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/102400435/102400002/</link>
-			<description><![CDATA[　オラクルのクラウド移行が成功しつつある要因として、技術面ではAWSや米マイクロソフトに対抗できる「スケーラブルなIaaS」（ラリー・エリソン会長）を実現できた点が大きい。]]></description>
-			<pubDate>Tue, 07 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>データ入力だけじゃない、IBMとソフトバンクがRPAの新サービス（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/110201188/</link>
-			<description><![CDATA[　定型業務にとどまらない、より高度なRPA活用サービスが登場した。人工知能（AI）との連携を段階的に強化。業務プロセスの課題を指摘して改善策まで示すことを目指す。]]></description>
-			<pubDate>Tue, 07 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「止まらない心臓」が登場、課題は高額医療費（世界を動かす「100の技術」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/103100470/103100002/</link>
-			<description><![CDATA[　心臓の機能不全（心不全）を防ぐ医療デバイスと治療手法が幾つも開発され、寿命を延ばすことが可能になりつつある。弱った心臓の一部を代替するデバイスや植え込み型の補助人工心臓も登場している。課題はどれも高額であることだ。]]></description>
-			<pubDate>Tue, 07 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「セクハラされています」、若手女性SEからこんな相談を受けたら（職場のトラブル相談室）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/092000388/102900004/</link>
-			<description><![CDATA[　大きな問題に至っていないケースを含めて、社内にはセクハラが存在するもの。大事なのは「当事者間の問題」として周りが見て見ぬふりをしないこと。男女雇用機会均等法の配慮義務があるリーダーは、事実確認をしっかりとし、適切な対策を講じなければならない。]]></description>
-			<pubDate>Tue, 07 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>同じSSDでも速さはこんなに違う！2018年のPCストレージを理解（2018年型PCの最新スペック解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110100473/110600002/</link>
-			<description><![CDATA[　PCのストレージは、2017年に入ってからは比較的落ち着いているものの、デバイスとインターフェイスの両面で進化が続いている。現在の状況を見ていく。]]></description>
-			<pubDate>Tue, 07 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iPhone Xはあらゆるスマホを凌駕する完成度だ（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/110400146/</link>
-			<description><![CDATA[　やっと登場したiPhone Xは、もはや想像を完全に凌駕する完成度で、この素晴らしさは筆舌に尽くしがたい。価格は高いが、それ以上の価値は間違いなくある。今回は、3日間ほど使ったインプレッションを述べていこう。]]></description>
-			<pubDate>Tue, 07 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「電子教科書」の将来性は？ 実践事例を基に専門家らが議論（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/110600282/</link>
-			<description><![CDATA[　コンピュータを活用した教育に関するイベント「2017 九州PCカンファレンスin 北九州」が開催された。大学での導入が広がりつつある「電子教科書」に関するシンポジウムなどが開かれた。]]></description>
-			<pubDate>Tue, 07 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>20億円投じて生産管理システムを刷新、江崎グリコが目指すこと（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/110601191/</link>
-			<description><![CDATA[　江崎グリコはサプライチェーン全体で需要予測データを共有し、生産や販売などの各部門が一貫した計画の下で動ける仕組みを築く。30年来の生産ラインを見える化するため現場の業務も見直す。]]></description>
-			<pubDate>Tue, 07 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIと機械学習で変わるCIOの役割（前）（AIと機械学習で変わるCIOの役割）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　機械学習と人工知能（AI）によって、世の中はかつてないスピードで変わりつつある。自動運転車、自然言語処理、チェスの名人と勝負できるコンピューターを人々が手にする日も近い。だが、機械学習やAIは広まっているものの、企業のITに巨大なインパクトをもたらすところまでは至っていない。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　ITサービスマネジメントを手がける米ServiceNowは、企業のITでAIがどのような状況にあるかを調べるために、世界11カ国で25業種の企業の最高情報責任者（CIO）500人以上を対象とした調査を実施し、その結果を「The Global CIO Point of View」にまとめ、報告した。調査結果のデータとその意味について理解するために、ServiceNowの最高イノベーション責任者、Dave Wright氏にインタビューした。</p>
-
-<p class="bpquestion">CIOの役割はどのように変わったか。</p>
-
-<p>　現在のCIOに課せられている課題は、わずか数年前と比べても著しく違う。少し前までは、CIOの任務は、自社の技術インフラを維持することだった。しかし、現在のCIOは、経営陣のパートナーという立場にあり、自社が業界をリードするためにテクノロジーをどのように活用すればよいかを探る任務が課せられている。例えば、社員のスキルの拡充、ビジネスプロセスの再設計、デジタルトランスフォーメーションの促進などが該当する。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000001/?ST=cm-software&P=2">ITプロフェッショナルの中には、機械学習やAIによる自動化を、</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000001/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000001/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000001/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 07 Nov 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>SalesforceとGoogleが戦略提携、ITインフラにGCPを採用（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110702602/</link>
-			<description><![CDATA[　米Salesforce.comと米Googleは2017年11月7日（米国時間）、クラウドサービスに関して戦略提携すると発表した。]]></description>
-			<pubDate>Tue, 07 Nov 2017 07:16:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：Excel方眼紙がはびこる理由、「神Excelはおかしい」と声を上げよ（Excel方眼紙の是非を問う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/101200421/101200001/?d08</link>
+			<description><![CDATA[　表計算ソフトのMicrosoft Excelを方眼紙に見立ててワープロのように使う「Excel方眼紙」。その是非を問う公開討論会が2017年9月30日に開かれた。否定派と肯定派の講演と、パネルディスカッション、来場者の質疑応答と、その内容は示唆に富む。初回は、否定派による講演録。]]></description>
+			<pubDate>Mon, 16 Oct 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Cisco、ビデオ会議のAI音声アシスタント「Spark Assistant」を発表（CIOニュース）</title>
@@ -401,6 +285,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110802621/</link>
 			<description><![CDATA[　NECは2017年11月8日、顧客企業のデジタル変革を支援する体制を強化すると発表した。データ分析やビジネスモデル提案などができる専門人材を2018年度中に1000人に増やすほか、顧客企業のデジタル変革を支えるソフトウエアやサービスを拡充する。同日に記者会見した榎本亮執行役員兼CMOは「デジタル変革はIT業界にとって追い風。従来型のシステム構築事業の減少を補って余りある新事業を生み出せる」と述べた。]]></description>
 			<pubDate>Wed, 08 Nov 2017 16:12:10 +0900</pubDate>
+		</item>
+		<item>
+			<title>スマートスピーカーAmazon Echoが11月13日の週に発売、5980円から（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110802619/</link>
+			<description><![CDATA[　アマゾンジャパンは2017年11月8日、スマートスピーカー「Amazon Echo」シリーズの日本語対応版の発売を発表した。一般向けの発売開始は2017年11月13日の週を予定している。]]></description>
+			<pubDate>Wed, 08 Nov 2017 17:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本マイクロソフト、三菱ふそうトラック・バスのデジタル変革をIoTで支援（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110802622/</link>
+			<description><![CDATA[　日本マイクロソフトは2017年11月8日、三菱ふそうトラック・バスのデジタル変革を支援すると発表した。三菱ふそうトラック・バスはマイクロソフトのチャットボットを社内ヘルプデスクに導入するほか、マイクロソフトのIoT（インターネット・オブ・シングズ）サービスを活用してトラックやバスの運行管理システムを構築した。車両の設計やメンテナンス業務への「HoloLens」の導入も検討する。]]></description>
+			<pubDate>Wed, 08 Nov 2017 17:21:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
