@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>昨日、一番読まれた記事は：Windowsが動く極小PC「LattePanda」、2年遅れでも独走のワケ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/110200951/?d09</link>
+			<description><![CDATA[　フル機能のWindowsが動く、中国DFRobotの名刺大PCボード「Latte Panda」。2017年9月に技適を取得し、2年遅れで日本に上陸した。古びた仕様に見えるかと思えばさにあらず。登場時よりむしろ存在感を高めている。]]></description>
+			<pubDate>Tue, 07 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>IoTを全国に展開しやすく、通信大手3社が2018年春にもセルラーLPWA（広がるLPWA）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/102600454/103100004/</link>
 			<description><![CDATA[　NTTドコモとKDDI、ソフトバンクの携帯大手3社は、LoRa方式のLPWAとセルラーLPWAと総称されるLTE派生の複数の方式を提供する方針だ。さらにKDDIは関係が深いKCCSのSigfoxも取り扱う。]]></description>
@@ -279,6 +285,37 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110200479/110800002/</link>
 			<description><![CDATA[ 　「iPhone 8」発売から遅れること3週間、ようやく「iPhone X」が発売された。似になっているのは、顔認証システムの「Face ID」と、ホームボタンが廃止されたことによるUI（ユーザー・インタフェース）の変更が、使い勝手にどれだけ影響するかだ。]]></description>
 			<pubDate>Thu, 09 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIと機械学習で変わるCIOの役割（後）（AIと機械学習で変わるCIOの役割）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　機械学習と人工知能（AI）によって、世の中はかつてないスピードで変わりつつある。自動運転車、自然言語処理、チェスの名人と勝負できるコンピューターを人々が手にする日も近い。だが、機械学習やAIは広まっているものの、企業のITに巨大なインパクトをもたらすところまでは至っていない。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000001/" target="_blank">前回</a>から続く）</p>
+
+<p class="bpquestion">調査結果によると、サイバーセキュリティは、現時点で完全な自動化に至っている度合いが最も高く、完全に自動化していると回答した人は全体の24％だった。さらに、2020年の予想では、完全に自動化されているとの回答が70％と群を抜いて多い。この結果を予想していたか。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　これは完全に理にかなっている。これまでの自動化はどのような方法だったかというと、「この場合にはこうする」という形の規則がハードコーディングされたデシジョンツリーだった。状況が複雑化した現在は、ハードコーディングからは脱しつつあり、処理を進める中で規則を書き直す必要がある。とりわけセキュリティは影響が甚大であることから、その必要性が特に大きい。データセットを処理して規則を書き直すスピードは、人間より機械の方がずっと速い。こう考えてみよう。悪党たちがこぞって機械学習を利用してマルウエアを開発しているとなったら、その対抗策に機械学習を利用するのは筋が通っている。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000002/?ST=cm-software&P=2">機械学習の導入を妨げている障壁として人材不足を挙げた人は47％</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000002/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000002/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 09 Nov 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
