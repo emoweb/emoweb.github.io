@@ -11,46 +11,6 @@
 			<pubDate>Tue, 07 Nov 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>データアナリティクスを謎で終わらせないために（中）（データアナリティクスを謎で終わらせないために）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/103000084/103000002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　公然と認める人はほとんどいないだろうが、企業のIT幹部たちからすると、データアナリティクスは依然として、なんだか謎めいた技法だ。よく分からない考え方や不可思議な手法に満ちている。そう見られている一方で、データアナリティクスが確かな技法として強力な武器になることは、幾度となく実証されている。生産性、効率、売上、利益など、ビジネスの主要な指標や目標の大幅な改善につながることが多い。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000084/103000001/" target="_blank">前回</a>から続く）</p>
-
-<h4>方向性を定める</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000084/103000002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　大企業がアナリティクスの取り組みを進める時に、独立したアナリティクス担当部門なりIT部門なりの下に取り組みを一元化すべきなのか、それとも、個々のビジネス部門に分散すべきなのかについては、専門家各氏の見解は分かれている。IT部門は、アナリティクスの取り組みの母体というよりは、アナリティクスの支持や技術支援という役割に最適だという考え方は、多くの人に共通している。「データアナリティクスを1つの部門の中にサイロ化すべき理由はない。むしろ、会社全体で発展を促すべきスキルセットだ」とJohnston氏は言う。</p>
-
-<p>　データサイエンスは急速に発展している分野であるだけに、複数のチームが協力し合い、互いに学んでいけば、非常に大きな恩恵が得られるというのが、Johnston氏は意見だ。良い意味での張り合いがチーム間で多少あったとしてもだ。「チームが違えば物事の進め方も違う。したがって、自分たちのビジネス環境にとって最適な手法を、より的確に探り当てていく面で、フィールド全体の探索のスピードが上がる。チーム間でメンバーを入れ替えていけば、こうしたアイデアの相互交流はいっそう促進される」</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000084/103000002/?ST=cio-management&P=2">アナリティクスに関する取り組みの先導や調整を組織...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000084/103000002/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000084/103000002/?ST=cio-management&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000084/103000002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 08 Nov 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>佐賀県立高校、2018年度新入生からPCを無償貸与する方針（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110802614/</link>
-			<description><![CDATA[　佐賀県教育委員会は2017年11月7日、2018年度以降に県立高等学校に入学する生徒に対して、1人1台のパソコンを無償で貸与する方針を明らかにした。2018年度予算への反映を目指す。公立高等学校の全生徒へのパソコンの無償貸与を実現すれば、都道府県では初めて。]]></description>
-			<pubDate>Wed, 08 Nov 2017 09:56:44 +0900</pubDate>
-		</item>
-		<item>
 			<title>英国議会、電話システムをSkype for Businessに移行中（Computerworldニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/110800435/</link>
 			<description><![CDATA[<div>
@@ -327,6 +287,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110902629/</link>
 			<description><![CDATA[　リバーベッドテクノロジーは2017年11月9日、SD-WAN製品「SteelConnect」のバージョン2.9にウイルス対策やクラウド監査（CASB）などの統合セキュリティ機能を追加した。米ZscalerのセキュリティSaaS「Zscaler」と連携し、管理画面から容易に設定できる。]]></description>
 			<pubDate>Thu, 09 Nov 2017 17:27:48 +0900</pubDate>
+		</item>
+		<item>
+			<title>QualcommのARMサーバーSoC「Centriq 2400」、Xeonに性能で迫る（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110902630/</link>
+			<description><![CDATA[　米Qualcommは2017年11月8日（米国時間）、英Armのアーキテクチャを採用したサーバー用SoC「Centriq 2400」の出荷を開始した。QualcommのPaul Jacobs会長は米サンノゼで開催した記者会見で、米Intelの「Xeon」に挑戦する姿勢を見せた。]]></description>
+			<pubDate>Thu, 09 Nov 2017 18:03:17 +0900</pubDate>
+		</item>
+		<item>
+			<title>中京テレビ、テレビの未来創造をテーマにイノベーションプログラム開始（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/110902631/</link>
+			<description><![CDATA[　中京テレビ放送とサムライインキュベートは2017年11月9日、テレビの未来を創造するオープンイノベーションプログラム「CHUKYO-TV INNOVATION PROGRAM」を開始したと発表した。]]></description>
+			<pubDate>Thu, 09 Nov 2017 18:31:34 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
