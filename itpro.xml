@@ -317,5 +317,52 @@
 ]]></description>
 			<pubDate>Thu, 09 Nov 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>iOS 11、大文字「I」が勝手に化けるバグが発生（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/110900377/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　iPhoneで実に奇妙なバグの報告が上がっている。最新版のiOS 11をインストール済みの一部の端末で、大文字の「I」を正しく入力できない場合があるというもの。例えば、英文で「I」（私）という単語が入ったメッセージを送ろうとすると、その部分が「A [?]」になるという。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/110900377/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Adam Patrick Murray/IDG</div>
+</div>
+<p>
+　このバグは、iOS 11.1の自動修正エンジンに関する不具合だ。大文字の「I」を入力すると、大文字の「A」と、判読不能なUnicodeの符号に変わってしまう。深刻さの度合いはかなり低いとはいえ、少なくとも迷惑なバグではある。しかも、まれな現象というわけではない。Twitterを見てみると、有名人が気づかずに「A [?]」と投稿している例が至るところで確認できる。
+</p>
+<p>
+　もちろんAppleは、この問題の修正に取り組んでいる。米Wall Street Journalの記事によると、このバグは今週中のiOSのアップデートで修正される可能性がある。iOS 11.2のパブリックベータ2ではこの問題は発生しないので、アップデートの正式リリースが今週なかったとしても、少なくとも11.2の正式版が出た時点では直っているはずだ。
+</p>
+<p>
+　また、当面の回避策もある。このバグによって大文字の「I」が勝手に変換されてしまう場合は、次の3つのいずれかの方法で対処できる。
+</p>
+<ul>
+<li>自動修正をオフにする
+</li>
+<li>入力時の自動修正候補の中で、一番左の項目を選択して、大文字の「I」をそのままにする。大文字の「I」を入力するたびにこの操作を行う必要があるので、面倒に思えるかもしれない
+</li>
+<li>小文字の「i」を大文字の「I」に変換するユーザ辞書を設定する
+</li>
+</ul>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/110900377/?ST=cio-appli&P=2">3つ目に挙げたユーザ辞書とは、例えば「OMW」と...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/110900377/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/110900377/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/110900377/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 09 Nov 2017 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
