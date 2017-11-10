@@ -71,37 +71,6 @@
 			<pubDate>Thu, 09 Nov 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>AIと機械学習で変わるCIOの役割（後）（AIと機械学習で変わるCIOの役割）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　機械学習と人工知能（AI）によって、世の中はかつてないスピードで変わりつつある。自動運転車、自然言語処理、チェスの名人と勝負できるコンピューターを人々が手にする日も近い。だが、機械学習やAIは広まっているものの、企業のITに巨大なインパクトをもたらすところまでは至っていない。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000001/" target="_blank">前回</a>から続く）</p>
-
-<p class="bpquestion">調査結果によると、サイバーセキュリティは、現時点で完全な自動化に至っている度合いが最も高く、完全に自動化していると回答した人は全体の24％だった。さらに、2020年の予想では、完全に自動化されているとの回答が70％と群を抜いて多い。この結果を予想していたか。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　これは完全に理にかなっている。これまでの自動化はどのような方法だったかというと、「この場合にはこうする」という形の規則がハードコーディングされたデシジョンツリーだった。状況が複雑化した現在は、ハードコーディングからは脱しつつあり、処理を進める中で規則を書き直す必要がある。とりわけセキュリティは影響が甚大であることから、その必要性が特に大きい。データセットを処理して規則を書き直すスピードは、人間より機械の方がずっと速い。こう考えてみよう。悪党たちがこぞって機械学習を利用してマルウエアを開発しているとなったら、その対抗策に機械学習を利用するのは筋が通っている。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000002/?ST=cm-software&P=2">機械学習の導入を妨げている障壁として人材不足を挙げた人は47％</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000002/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000002/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/103000085/103000002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 09 Nov 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>iOS 11、大文字「I」が勝手に化けるバグが発生（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/110900377/</link>
 			<description><![CDATA[<div>
@@ -363,6 +332,36 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111002638/</link>
 			<description><![CDATA[　東京急行電鉄は2017年11月10日、東急線の運行情報を米アマゾン・ドット・コムの音声認識サービス「Amazon Alexa」で確認できるようにすると発表した。11月13日から情報の提供を開始する。]]></description>
 			<pubDate>Fri, 10 Nov 2017 19:28:33 +0900</pubDate>
+		</item>
+		<item>
+			<title>政府、日本年金機構がマイナンバー制度で情報連携できる政令を閣議決定（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111002640/</link>
+			<description><![CDATA[　政府は2017年11月10日、日本年金機構がマイナンバー制度で情報連携ができるようにする政令を閣議決定した。]]></description>
+			<pubDate>Fri, 10 Nov 2017 19:45:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ニチイ学館とNEC、AI活用した高齢者介護・自立支援サービスで共同研究（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111002641/</link>
+			<description><![CDATA[　介護サービスや生活支援サービスを手がけるニチイ学館とNECは2017年11月10日、医療・介護分野における業務提携に合意したと発表した。]]></description>
+			<pubDate>Fri, 10 Nov 2017 19:48:12 +0900</pubDate>
+		</item>
+		<item>
+			<title>ナビタイムがログ分析基盤を刷新、「Amazon Athena」を採用（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111002639/</link>
+			<description><![CDATA[　ナビタイムジャパンは2017年11月10日、ログデータ分析用のシステム基盤を刷新し、Amazon Web Services（AWS）のデータ分析向けサービス「Amazon Athena」を採用したことを明らかにした。]]></description>
+			<pubDate>Fri, 10 Nov 2017 20:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ディープラーニングの画像認識ベンチで世界最速、PFNが分散処理の最適化に工夫（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111002642/</link>
+			<description><![CDATA[　Preferred Networksは2017年11月10日、ディープラーニング（深層学習）の学習速度で世界最速を実現したと発表した。ベンチマークとなる画像認識の深層学習アルゴリズム「ResNet-50」の学習を15分で終え、初めて20分を切った。]]></description>
+			<pubDate>Fri, 10 Nov 2017 20:12:03 +0900</pubDate>
+		</item>
+		<item>
+			<title>NTTの2017年4～9月期決算は増収増益、海外クラウドの統合も発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111002643/</link>
+			<description><![CDATA[　NTTは2017年11月10日、2017年4～9月期連結決算（米国会計基準）を発表した。売上高は前年同期比2.5％増の5兆6648億円、営業利益は同5.3％増の9752億円と、増収増益だった。通期予想に対する進捗率は売上高が48.2％、営業利益が61.3％と好調に推移している。]]></description>
+			<pubDate>Fri, 10 Nov 2017 20:22:30 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
