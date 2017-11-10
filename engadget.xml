@@ -5,35 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Google、AirDropの似のファイル共有機能を持つ「Files Go」をテスト中
-</title>
-			<link>http://japanese.engadget.com/2017/11/08/google-airdrop-files-go/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/d39698a61d15844c7d1fb06ab8ddbd45/205842138/dims.jpg" />
-Googleは新興国向けに動作が軽く、データ通信も抑えたGoogle検索の軽量版「Search Lite」やAndroidそのものを軽量化し、低スペック端末でも快適に動作するAndroid Goなどを開発していますが、次のターゲットはストレージ管理サービスになるようです。
-
-9to5Googleによると、Googleは「Files Go」アプリを新興国向けにテストしているようです。早期アクセスプログラム、つまりクローズドベータで提供されているため、大多数の人はGoogle Playからはダウンロードできません。
-
-9to5Googleが掲載しているスクリーンシットを見ると、アプリのキャッシュ削除などによるストレージ容量の解放や、画像や動画を含む各種のファイルの一元管理が行えるようです。
-
-また、ネットワークが不安定な新興国向けということもあり、インターネットを介さずにファイルのやり取りが可能な機能も含まれています。AppleがiOSやMacで利用できるAirDropと同様の仕組みです。
-
- 
-iPhoneで撮った写真を手軽に共有できるAirDropは、連絡先やWebサイトの交換もできる：iPhone Tips
-
-
-アプリはGoogle Playからダウンロードすることができませんが、APKMirrorに登録済み。試しにインストールしてみたところ、ファイル転送のセッションの確立はBluetoothで行い、転送そのものはWi-Fiで行われました（受信側が送信側にWiFiダイレクトで接続）。この辺りの仕組みもAirDropと同じです（なお、APKMirrorはあくまでも野良アプリなので、試される場合はリスクがある点をご留意ください）。
-
-送信側、受信側ともにFiles Goをインストールしていなければならないのが、OS標準のAirDropとは違う点ですが、今後Android Goに組み込まれる可能性もありそうです。
-
-Files Goが新興国以外でも利用可能になるのかはわかりませんが、使えれば便利な機能だけに今後の展開に期待したいところです。
-
-
- 
-
- ]]></description>
-			<pubDate>Wed, 08 Nov 2017 02:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    アマゾン、4000万曲が月780円で聴き放題「Music Unlimited」  Echoユーザーは月380円
 </title>
 			<link>http://japanese.engadget.com/2017/11/08/4000-780-music-unlimited-echo-380/</link>
@@ -369,6 +340,24 @@ AirDrop、Files Go、そしてNear Shareと3社から同じような機能が出
 NASAが、大型宇宙ロケットSpace Launch System(SLS)の打ち上げ体制を2019年内に整えると発表しました。プロジェクト管理者のロバート・ライトフット氏は「設計製造上の問題によって2020年半ばに見直される可能性はあるものの、2019年12月までにすべての準備を終えたい」としています。
  ]]></description>
 			<pubDate>Fri, 10 Nov 2017 02:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>Sponsored By Galaxy :     5分でわかるGalaxy Note8降臨祭「待ってました！それだけに尽きるんです」あふれる気持ちを動画でどうぞ
+</title>
+			<link>http://japanese.engadget.com/pr/galaxy-note8-event/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/acc9b4565c0e2c63e549e124c9b3d06b/205825489/galaxynote8.jpg" />
+
+Engadget 日本版では10月28日(土)、雨模様の都内にてGalaxy Note8の発売記念イベント『Galaxy Note8降臨祭』を開催しました。参加希望者多数により、やむなく抽選とさせていただいた今回の催し。ところが当日はまさかの雨。果たして本当にたくさん来てくれるのだろうか、といった不安もよぎりました。
+
+しかし、そんな心配をよそに始まってみれば満員御礼、大入り札止めの大盛況。皆様、ありがとうございました。
+
+待っていた！--という参加者たちの言葉からもわかる通り、Galaxy Noteシリーズはアツいファンの支持を得ています。イベントではそんなファンに応えるかのように、Galaxyの「中の人」がカタログには記載のない、ぶっちゃけトークを展開。もっとよく知りたい、じっくり触って納得したい、そんな参加者の前のめりな気持ちにみたされた充実のイベントの模様をまとめました。それでは5分弱の動画をご覧下さい。
+ 
+
+
+
+ ]]></description>
+			<pubDate>Fri, 10 Nov 2017 03:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
