@@ -5,33 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    MicrosoftもAirDrop似の機能「Near Share」をテスト中。Insider Previewで提供開始
-</title>
-			<link>http://japanese.engadget.com/2017/11/10/microsoft-airdrop-near-share/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/df1ea8c1d37a2e31d47f8ce3958bbed8/205849356/nearshare.jpg" />
-つい先日、GoogleがAirDropに似たファイル共有機能を持つ「Files Go」をテスト中との情報が出ていましたが、Microsoftも同様にBluetooth経由で近くのPCにファイルを共有できる「Near Share」を公開しました。現在、Windows InsiderのFast Ringで提供されているWindows 10 Insider Prevuew Build 17035で利用可能です。
-
- 
-Google、AirDrop似のファイル共有機能を持つ「Files Go」をテスト中
-
-「Near Share」を使うには、送信側と受信側、どちらもWindows 10でBuild 17035以上が必要。送信したいファイルを右クリックし「共有」を選ぶとBluetoothの範囲内にある対応したPCが表示されるので、それを選ぶだけです。受信側が受け入れると送信が行われます。
-
-
-
-機能を試せていないので、AirDropやGoのようにセッションの確立にBluetoothを使い、送信そのものはWi-Fiで行うのか、送信までBluetoothで行うのかはわかりません。
-
-Microsoftでは上司との打ち合わせ中に表示しているレポートを素早く送信したり、兄弟とソファに座っていて、相手の作っているMinecraftのスクリーンキャプチャを送ってもらいたいときなどに使えるとしています。このシュチエーションであればメールでの送受信でもさして困らない気がしますが、外出先での打ち合わせやネット環境が不安定な場合には便利に使えそうです。
-
-AirDrop、Files Go、そしてNear Shareと3社から同じような機能が出てきましたが、できればそれぞれに互換を持たせてほしいところです。
-
-なお、Insider Prevuew Build 17035では、Near Shareのほか、Edgeでタブ毎にオーディオをミュート出来る機能や、Windows Updateが使う帯域の制限なども追加されています。
-
-
-
- ]]></description>
-			<pubDate>Fri, 10 Nov 2017 01:45:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    有人で深宇宙目指すSLSロケット、2019年にも初飛行準備完了へ。まずは無人で2020年打上げ予定
 </title>
 			<link>http://japanese.engadget.com/2017/11/10/nasa-2019-sls/</link>
@@ -741,6 +714,27 @@ LINEは、Android / iOSアプリの最新版（バージョン7.15.0）を公開
 　
  ]]></description>
 			<pubDate>Mon, 13 Nov 2017 04:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    マクドナルドがクレカ決済に対応、11月20日から。NFC決済は2018年上期に
+</title>
+			<link>http://japanese.engadget.com/2017/11/13/11-20-nfc-2018/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/481b3b0bf0a23d4e562509ce279cd80/205856064/IMG_1104+%281%29.jpg" />
+日本マクドナルドは、11月20日よりクレジットカードによる決済サービスを導入すると発表しました。
+
+対応するブランドは「VISA「Mastercard」「JCB・JCB PREMO」「ダイナース」「ディスカバー」「アメリカン・エキスプレス」の6つ。また、電子マネーの「QUICPay+」にも新たに対応するとしています。
+
+マクドナルドではこれまで、電子マネーの「iD」「WAON」「楽天Edy」「nanaco」「Suica」等の電子マネーを利用することができました。今回、この選択肢にクレジットカード決済が加わります。
+
+また2018年上期をめどに、NFC（FeliCa以外）による決済サービスも導入するとのこと。対応サービスは「Visa payWave」「Mastercard コンタクトレス」「J/Speedy」「American Express Contactless」の4種類
+
+現金を持ち歩かない「キャッシュレス」の利便性が認知されはじめるなか、多様な決済手段への対応は、時代の流れに則した動きと言えそうです。
+ 
+
+関連
+連載：モバイル決済最前線
+ ]]></description>
+			<pubDate>Mon, 13 Nov 2017 05:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
