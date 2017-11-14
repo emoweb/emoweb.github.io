@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>ディープラーニングの画像認識ベンチで世界最速、PFNが分散処理の最適化に工夫（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111002642/</link>
-			<description><![CDATA[　Preferred Networksは2017年11月10日、ディープラーニング（深層学習）の学習速度で世界最速を実現したと発表した。ベンチマークとなる画像認識の深層学習アルゴリズム「ResNet-50」の学習を15分で終え、初めて20分を切った。]]></description>
-			<pubDate>Fri, 10 Nov 2017 20:12:03 +0900</pubDate>
-		</item>
-		<item>
-			<title>NTTの2017年4～9月期決算は増収増益、海外クラウドの統合も発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111002643/</link>
-			<description><![CDATA[　NTTは2017年11月10日、2017年4～9月期連結決算（米国会計基準）を発表した。売上高は前年同期比2.5％増の5兆6648億円、営業利益は同5.3％増の9752億円と、増収増益だった。通期予想に対する進捗率は売上高が48.2％、営業利益が61.3％と好調に推移している。]]></description>
-			<pubDate>Fri, 10 Nov 2017 20:22:30 +0900</pubDate>
-		</item>
-		<item>
 			<title>アカマイ、ボットの不正ログインを検知・遮断する「Bot Manager Premier」を発売（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111002644/</link>
 			<description><![CDATA[　アカマイ・テクノロジーズは2017年11月10日、アクセス制御ツールの新版「Bot Manager Premier」を同日から発売すると発表した。Webサイトやスマホアプリに対する操作を分析し、ボットによる不正ログインの試行のみを検知して遮断する。利用料は個別見積もり。]]></description>
@@ -282,6 +270,54 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 14 Nov 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>寒いとiPhone Xの画面が反応しない現象、アップデートで修正へ（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111400378/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　この冬は、「iPhone X」の顔認証機能「Face ID」の強みが歴然とする。すなわち、手袋をしたままでもロックを解除できることだ。指紋センサー「Touch ID」とは違う重要なメリットの1つである。そう考えると、iPhone Xは寒い時に頼りになりそうに思えるかもしれない。だが、その考えに水を差す現象が起きる可能性がある。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111400378/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: IDG</div>
+</div>
+<p>
+　最近、寒いところに出た時にiPhone Xの画面がタッチ操作に反応しなくなるという不満の声が、ごく一部のユーザーからソーシャルメディアに上がり始めた。代表的な事例は、Redditの<a href="https://www.reddit.com/r/iphone/comments/7bnann/iphone_x_screen_not_responsive_in_the_cold/" target="_blank">スレッド</a>に報告がある。
+</p>
+<p>
+　この問題は、決して多数のiPhone Xで発生しているわけではない。例えば、最近カナダはかなり冷え込んだものの、画面は正常に動いていると報告したユーザーが大勢を占めた。この問題に見舞われているユーザーの数を正確に把握するのは難しいが、ソーシャルメディアの反応からすると、非常にまれな現象と見られる。
+</p>
+<p>
+　米Appleは、Apple系情報サイトThe Loopの問い合わせに対し、問題を認め、今後のソフトウエアアップデートでの修正を約束している。
+</p>
+<p>
+　同社はThe Loopに送った声明で、「寒い環境へ急速に移った時に、iPhone Xの画面が一時的にタッチに反応しなくなる事例があることを認識している。画面は数秒で完全に反応する状態に戻る。これは今後のソフトウエアアップデートで対処する」と述べた。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111400378/?ST=cio-consumerit&P=2">ソフトウエアアップデートが出るまでの間にこの問題...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111400378/?ST=cio-consumerit&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111400378/?ST=cio-consumerit&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111400378/?ST=cio-consumerit&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 14 Nov 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ニトリHD、日中台でタレントマネジメントシステム導入（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111402650/</link>
+			<description><![CDATA[　ニトリホールディングス（ニトリHD）は、日本国内と中国・台湾の各グループ会社でタレントマネジメントシステムを導入した。勤怠や面談の履歴など人事関連の情報をシステムに集約し、適性のある従業員を迅速に異動・昇進させることを狙う。]]></description>
+			<pubDate>Tue, 14 Nov 2017 11:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
