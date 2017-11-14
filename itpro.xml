@@ -71,111 +71,6 @@
 			<pubDate>Mon, 13 Nov 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>セルフサービスBIの5つの落とし穴（上）（セルフサービスBIの5つの落とし穴）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/110600086/110600001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　数多くのメリットがあるセルフサービスBIだが、思わぬ落とし穴にはまり込んで対応を余儀なくされる場合もあるという。ここでは、セルフサービスBI戦略に伴って生じる副作用を5つ紹介する。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/110600086/110600001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　近年はセルフサービスBI（ビジネスインテリジェンス）の導入が増えている。アイルランドの市場調査会社Research and Marketsが2016年11月に発表したレポート「Self-Service BI Market - Global Forecast to 2021」によると、2021年の世界市場規模は73億1000万ドルに達し、2016年に比べ倍増する見通しだ。</p>
-
-<p>　セルフサービスBIのメリットは明らかなように思える。従来のBIは遅くて融通がきかないと見られがちなのに対し、セルフサービスBIは使いやすくて小回りがきくとされる。業務ユーザーは必要とするデータとインサイト（洞察）を、必要とするタイミングで自ら把握できる。従来のBIではボトルネックになりがちだったIT部門に頼る必要がない。したがって、これまでよりチャンスを生かしやすく、問題にも素早く対応できる。</p>
-
-<p>　ビッグデータ向けのBIプラットフォームを手がける米国のスタートアップ、AtScaleの創業者で最高経営責任者（CEO）のDave Mariani氏に話を聞いた。数多くのメリットがあるセルフサービスBIだが、思わぬ落とし穴にはまり込んで対応を余儀なくされる場合もあるという。同氏はかつて米Yahoo!に在籍し、広告主向けアナリティクスのエンジニアリング担当バイスプレジデントや、開発／ユーザーデータ／アナリティクス担当バイスプレジデントを務める中で、そのような落とし穴を直接経験してきた。</p>
-
-<p>　ここからは、セルフサービスBI戦略に伴って生じる副作用を5つ紹介する。こうした副作用による落とし穴は回避したいところだ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/110600086/110600001/?ST=cio-appli&P=2">1．ビジネス指標が混沌とする</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/110600086/110600001/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/110600086/110600001/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/110600086/110600001/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 13 Nov 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Salesforceの投資部門、Will.i.am氏のスタートアップに出資（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111300437/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Salesforce.comの投資部門Salesforce Venturesが、2017年3月に米スタートアップi.am+の8900万ドルの投資ラウンドに参加していたと、報じられた。i.am+とは、音楽グループBlack Eyed Peasのリーダーとして有名なWill.i.am氏が2013年に設立した企業だ。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111300437/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Creative Commons Photo: nicolas genin</div>
-</div>
-<p>
-　i.am+は、ヘッドホン、カメラ、ウエアラブルデバイスなど、もともとは主にコンシューマー向けハードウエア製品を手がけていたが、最近では、企業向けのAI（人工知能）音声アシスタント「Omega」の開発にも進出している。2016年以降、音声インタフェースに強い関心を示し、同年5月に機械学習技術を手がけるイスラエルSensiyaを買収していた（買収額は非公表）。
-</p>
-<p>
-　今回の出資の報道が出たのは、Salesforce.comの年次カンファレンス「Dreamforce 2017」が開幕した現地時間2017年11月6日だった。Computerworld UKはDreamforceの期間中、この出資について、Salesforce VenturesのMatt Garrattバイスプレジデントから話を聞いた。
-</p>
-<p>
-　Garratt氏によれば、「しばらく前に出資を始めた」とのことだ。「我々がウエアラブルの取り組みを発表した頃だ。i.am+は、初期のウエアラブルデバイスと当社のSalesforceプラットフォームを使って、数多くの面白いことに取り組んでいた。そして現在では、コンシューマー向けアプリケーションと企業向けアプリケーションの両方で、音声を使ったやりとりについて興味深い取り組みを進めている」
-</p>
-<p>
-　すでに市場に投入されている主要なAIアシスタントは、いずれも超大手のIT企業が手がけている。米Amazon.comの「Alexa」、米Microsoftの「Cortana」、米Googleの「Googleアシスタント」、米Appleの「Siri」などだ。こうしたAIアシスタントにi.am+が張り合って勝利することは想像しがたい。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111300437/?ST=cm-software&P=2">だがGarratt氏は動じない。「i.am+の競争相手は大物だが...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111300437/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111300437/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111300437/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 13 Nov 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>東北新社、映像業界のクラウドサービスを目指し、ねこじゃらしと業務提携（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111302646/</link>
-			<description><![CDATA[　東北新社は2017年11月10日、広告・放送・映像業界においてクラウドサービスの開発と普及促進を目的に、ねこじゃらしと業務提携したと発表した。]]></description>
-			<pubDate>Mon, 13 Nov 2017 10:48:18 +0900</pubDate>
-		</item>
-		<item>
-			<title>メタデータ連携でテレビ放送トピックを声で記録、HAROiDがAmazon Alexa対応（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111302647/</link>
-			<description><![CDATA[　HAROiDは2017年11月13日、スマートスピーカーを活用し、テレビ視聴しながら声だけで番組で紹介されているモノや場所をクリップしてくれる新しいテレビ視聴体験を提供すると発表した。]]></description>
-			<pubDate>Mon, 13 Nov 2017 11:00:40 +0900</pubDate>
-		</item>
-		<item>
-			<title>三井住友FGと三井住友銀、RPA活用で40万時間分の業務量削減を発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111302648/</link>
-			<description><![CDATA[　三井住友フィナンシャルグループと三井住友銀行は2017年11月13日、RPA（ロボティック・プロセス・オートメーション）による自動化で約200業務、40万時間分の業務量削減を実現したと発表した。]]></description>
-			<pubDate>Mon, 13 Nov 2017 19:44:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>アビーム、RPAを活用してテレビ朝日の業務改革を支援（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111302649/</link>
-			<description><![CDATA[　アビームコンサルティングは2017年11月13日、RPA（ロボティック・プロセス・オートメーション）を活用してテレビ朝日の業務改革を支援したと発表した。]]></description>
-			<pubDate>Mon, 13 Nov 2017 20:34:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>世界4位に躍進、国内ベンチャーPEZY製スパコンが存在感（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/111301198/</link>
-			<description><![CDATA[　全世界で稼働中のスーパーコンピュータ（スパコン）の演算性能を集計するTOP500プロジェクトは2017年11月13日、最新の演算性能ランキングを発表した。日本のスパコンベンチャーPEZY Computingが開発し、海洋研究開発機構（JAMSTEC）に設置したスパコン「暁光」が4位に浮上した。]]></description>
-			<pubDate>Mon, 13 Nov 2017 23:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>マイニング（Close Up Keyword）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/101800096/</link>
 			<description><![CDATA[　仮想通貨の信頼性を担保する「ブロックチェーン」を検証したり更新したりする作業のこと。こつこつ作業して時々報酬として仮想通貨を得られる様子が採掘作業を連想させることから、マイニング（採掘）と呼ばれる。]]></description>
@@ -384,6 +279,60 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111402665/</link>
 			<description><![CDATA[　欧州エアバスは2017年11月14日、米マイクロソフトのゴーグル型端末「HoloLens」（ホロレンズ）で動作する、航空整備士向けの訓練アプリのプロトタイプ版を開発したと発表した。開発には、同様の訓練アプリを2016年に試作した日本航空（JAL）も協力している。]]></description>
 			<pubDate>Tue, 14 Nov 2017 20:37:44 +0900</pubDate>
+		</item>
+		<item>
+			<title>ディスプレイとカメラの評価が抜群に高いiPhone X（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/111400064/</link>
+			<description><![CDATA[　米アップルが2017年11月3日に発売した「iPhone X」は、有機ELディスプレイの採用をはじめ、10年間採用してきたホームボタンの廃止、指紋認証の「Touch ID」から顔認証の「Face ID」に変更と、同社にとって数多くの「初」を搭載した製品となった。]]></description>
+			<pubDate>Wed, 15 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>繁忙期なんて怖くない！？星野リゾートやSansanのピーク対応力（大型IT投資は時代遅れ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110700494/110800003/</link>
+			<description><![CDATA[　満員電車や交通渋滞は代替手段に乏しく、利用者は不本意でも使わざるを得ない。だが、一般のサービス業でピーク対応がまずければ顧客が離れ売り上げに響いてくる。業務プロセスや仕事の分担方法などを見直してピーク対応力を高める3社を紹介しよう。]]></description>
+			<pubDate>Wed, 15 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>あいまい契約が引き起こす争い、セコム損保と富士通のシステム裁判（システム裁判回顧録）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110700489/110700003/</link>
+			<description><![CDATA[　大型のシステム構築案件では、契約があいまいなままプロジェクトがスタートしてしまうことが少なくない。その結果システム裁判に至ったケースの一つが、セコム損害保険（セコム損保）と富士通によるシステム裁判である。]]></description>
+			<pubDate>Wed, 15 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>働き方改革をするなら「小人の靴屋」のようなITを活用せよ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/110900955/</link>
+			<description><![CDATA[　グリム童話に「小人の靴屋」という話がある。働き方改革をIT活用で進める企業に取材しているなかで、異なる2社で同じこの話を偶然聞く機会があった。]]></description>
+			<pubDate>Wed, 15 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>大失速の格安スマホ、総務省の次の一手（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/111301201/</link>
+			<description><![CDATA[　通信大手3社の2017年4～9月期連結決算はそろって増収増益だった。主力の携帯電話事業では顧客の流動性が大幅に低下。大手3社を苦しめていた格安スマホはここにきて失速が著しい。総務省が近々予定する有識者会議でどのような支援策を打ち出すかが注目となる。]]></description>
+			<pubDate>Wed, 15 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>サイバー攻撃の犯人は誰？知る必要はあるのか（有識者座談会 セキュリティの非常識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110900508/111300003/</link>
+			<description><![CDATA[　セキュリティ業界では、常識だと思われているが実はそうではない「セキュリティの非常識」がたくさんある。今回のテーマは、「攻撃者が誰なのかは重要か」だ。]]></description>
+			<pubDate>Wed, 15 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「定年後は開発に500時間かけても怒られない」、もう一人の82歳アプリ開発者（80歳からのプログラミング）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110800498/111400003/</link>
+			<description><![CDATA[　2017年10月26日に開催されたシニアプログラミングのイベントでは、もう一人の82歳のアプリ開発者である鈴木富司さんもiPhoneアプリ開発について発表した。キーワードは「生涯現役」だ。]]></description>
+			<pubDate>Wed, 15 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ザンネンな企画を回避、「3段階アプローチシート」を使おう（脱・ザンネン社員）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/101600015/</link>
+			<description><![CDATA[　新しい提案には拒否反応が返ってくるのが世の常だ。斬新な企画であるほど、周到な準備と計画が欠かせない。段階を経て関係者に納得してもらうアプローチ方法を身に付けよう。]]></description>
+			<pubDate>Wed, 15 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ディープラーニングにもセキュリティ問題、AIをだます手口に注意（シリコンバレーNextレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/111400137/</link>
+			<description><![CDATA[　ディープラーニング（深層学習）にもセキュリティ問題が存在する。データからルールを導き出す「訓練」に使用するデータに不正なものを紛れ込ませたり、認識に用いるデータにある種のノイズを加えたりすることで、AI（人工知能）に誤検出させようとする。AIの信頼性に関わる問題だけに、米Googleなどが対策に動き出している。]]></description>
+			<pubDate>Wed, 15 Nov 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
