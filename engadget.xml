@@ -5,16 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ラスベガスの自動運転バス、運行初日わずか1時間で接触事故。迫るトラックを回避できず
-</title>
-			<link>http://japanese.engadget.com/2017/11/12/1/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/75fb96c950aa1a241a4d04069c8bc731/205855564/main.jpg" />
-米ラスベガスで1年間の試験的な運用を開始した自動運転のシャトルバスが、その初日、走り始めてわずか1時間少々でトラックとの接触事故に遭遇しました。8人の乗客には怪我はありません。バスを開発したフランスのスタートアップNavyaは、その原因はトラック運転手の不注意によるものだとしています。
- 
- ]]></description>
-			<pubDate>Sun, 12 Nov 2017 21:10:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    PR:スマートスピーカーや注目のスタートアップを知る、TechCrunch Tokyoは今週開催
 </title>
 			<link>http://japanese.engadget.com/2017/11/12/pr-techcrunch-tokyo/</link>
@@ -396,6 +386,27 @@ Bloombergによるとこの新しい3Dセンサーは来年のiPhoneには間に
  
  ]]></description>
 			<pubDate>Tue, 14 Nov 2017 20:05:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Firefox Quantum正式版が公開、「処理速度2倍」でChromeブラウザーに対抗
+</title>
+			<link>http://japanese.engadget.com/2017/11/14/firefox-quantum-2-chrome/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/6c7f0bcca5179758ca9f2392afe0d53a/205862413/dims.jpeg" />
+Mozillaは、従来比2倍のパフォーマンス向上をうたうFirefox Quantum世代のウェブブラウザー「Firefox 57」を公開しました。
+
+Firefox Quantumは、Mozillaが「量子的飛躍を遂げた」と胸を張るFirefox OSの最新バージョンです。Speedometer 2.0ベンチマークにおいて、半年前のFirefoxと比較して処理性能が2倍に。また、メモリ効率ではグーグルChromeとの比較で30%も上回っているといいます。
+
+さらに、タブを大量に開く際の挙動も改善。1691個もの膨大なタブを一斉に開く実験では、従来バージョンでは8分近くを要したのに対し、Firefox Quantumでは15秒にまで短縮したといいます。
+
+「Quantumがなぜ速いのか。それは、新たなマルチプロセスアーキテクチャを導入したからです。Chromeと比較すると、同じ数のウェブページのロードでも処理が少なくて済みます。また、メモリ消費も少なく、多くのメモリを占有し、パフォーマンスに悪影響を与えるといった他ブラウザの実例も回避できます」（Firefox ジェフ・グリフィス氏）
+
+ 
+
+インターフェイスも『Photon UI』に刷新し、「無駄を極力排した」というデザインを採用。具体的には、新たなアニメーションを導入したほか、ブックマークやPocket、履歴やダウンロード、スクリーンショットなどのアイテムに迅速にアクセスできる仕組みも整えたといいます。その他、ブラウザーのクラッシュ率を10％減少させ、アドネットワークを弾くプライバシー保護機能も充実させたといいます。
+
+なおFirefox 57以降、Quantumに非対応のアドオンは利用不可に。この影響についてFirefox担当者は「現時点で対応アドオンは5000以上揃っている」と、問題視しない姿勢を示します。
+ ]]></description>
+			<pubDate>Tue, 14 Nov 2017 21:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>

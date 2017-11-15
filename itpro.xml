@@ -370,5 +370,44 @@
 ]]></description>
 			<pubDate>Wed, 15 Nov 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>Google、アクセシビリティAPIの利用基準を厳格化、人気アプリの機能にも影響か（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111500438/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　Androidスマートフォンを選ぶ理由の1つとして特に大きいのは、機能を好きなように改変できる手段が大量にあることだ。たとえroot化まではしなくとも、Androidの使い勝手を大きく高められる機能追加や改良のためのアプリが、Play Storeにはたくさんある。だが、米GoogleがAPIの利用基準を厳格化することで、そのような状況に終止符が打たれるかもしれない。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111500438/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Michael Kan</div>
+</div>
+<p>
+　Googleは、アクセシビリティサービス（ユーザー補助機能）のAPIがさまざまなアプリで広く使われている現状を終わらせるための準備を進めている。同社は、アクセシビリティサービスを本来の用途以外で利用しているアプリをPlay Storeから締め出す可能性があることを、広範囲のアプリ開発者に向けてメールで通達した。この件は、Android情報サイトのAndroid Policeが2017年11月12日の記事で最初に報じた。
+</p>
+<p>
+　今回の通達で同社は、アクセシビリティサービスの用途について、体が不自由なユーザーがAndroid端末やアプリを利用するのを支援する目的に限られると説明。今後30日以内にその用途を明確にしないアプリは、該当する機能を削除もしくは変更しない限り、締め出しの対象になり得るとした。さらに、「いかなる性質の違反であれ、繰り返し違反が行われた場合、デベロッパーアカウントの停止と調査を行う。さらに、関連するGoogleアカウントを停止する可能性もある」と述べている。
+</p>
+
+<p>
+　そのようなアプリの締め出しは、自分がAndroidを使ううえでは関係ない、と読者の皆さんは思うかもしれない。しかし、皆さんのお気に入りのアプリがアクセシビリティサービスを利用して使い勝手を高めている可能性は十二分にある。例えば「LastPass」は、保存したパスワードをWebサイトやアプリに自動入力する用途でアクセシビリティサービスを使っている。「Universal Copy」は、通常ならコピーできないアプリ上の文字列をコピーする用途で使っている。ほかにも、アクセシビリティサービスを使っているアプリは実に多い。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111500438/?ST=cm-software&P=2">だからといって、お気に入りのアプリの目玉機能がなくなると決まった...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111500438/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111500438/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111500438/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 15 Nov 2017 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
