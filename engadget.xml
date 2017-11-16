@@ -5,29 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    2005年の今日、初めてeneloopが発売されました：今日は何の日？
-</title>
-			<link>http://japanese.engadget.com/2017/11/14/2005-eneloop/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/da125cce3390fa2e24f8f3ba4009bcbd/205856124/00.jpg" />
-おもなできごと
-・1983年11月14日、3代目の南極観測船となる「しらせ」が第25次南極地域観測のため初出港
-・2005年11月14日、三洋電機（現：パナソニック）が自然放電の少ないNi-MH充電池「エネループ」を発売
-・2006年11月14日、マイクロソフトが音楽プレーヤー「Zune」を米国で発売
-・2008年11月14日、Leadtekが東芝SpursEngine搭載の画像処理ボード「WinFast PxVC1100」を発売
- ]]></description>
-			<pubDate>Tue, 14 Nov 2017 00:45:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    宇宙国家アスガルディア、ついに「領土」打上げ～軌道投入。衛星に憲法と30万人の国民名簿乗せ地球を周回
-</title>
-			<link>http://japanese.engadget.com/2017/11/14/30/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/e5df7df11336b52ffe1481a80213163c/205859210/mainasgd.jpg" />
-　
-11月12日、初の宇宙国家を自称する団体「アスガルディア」が"領土"ともいえる人工衛星を軌道へ打ち上げました。この極小衛星にはアスガルディア憲法、国家シンボル、そして"国民"として登録した30万人以上の登録情報が搭載されています。
- ]]></description>
-			<pubDate>Tue, 14 Nov 2017 01:15:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    家中のGoogle Homeに「全館放送」できるブロードキャスト機能、提供開始。まず英語圏から
 </title>
 			<link>http://japanese.engadget.com/2017/11/14/google-home/</link>
@@ -389,6 +366,29 @@ LINEは11月16日、メッセージの「送信取消」機能を2017年12月以
 なお「送信取消」機能の実装を前に、11月16日から11月24日までの期間『#LINE 誤爆 Black FRIDAY』 キャンペーンを開催。LINE を誤送信した体験談（黒歴史）をユーザーから募集し、そのリツイート数を競うというものです。詳細はホームページをご覧ください。
  ]]></description>
 			<pubDate>Wed, 15 Nov 2017 21:32:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Amazon EchoとGoogle HomeにBluetoothの脆弱性。遠隔コード実行、情報漏れetc...すでに修正済み
+</title>
+			<link>http://japanese.engadget.com/2017/11/15/amazon-echo-google-home-bluetooth-etc/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/7b3452da59d5a104c0b0845d906538a8/205866307/dims.jpg" />
+セキュリティ企業のArmisが発見した"BlueBone"と呼ばれるBluetoothの脆弱性は、短時間でスマートフォンやPCなどモバイル機器へ連鎖的にマルウェアを拡散できるほどの深刻さを伴っていました。しかし、問題は発見後すみやかにアップルやマイクロソフト、GoogleといったIT巨人たちに報告され、9月に公表されたときにはほとんどのモバイル機器で問題は修正されていました。
+
+ただ、すべてのBluetoothデバイスで問題が修正されているわけではなかったようです。ArmisはスマートスピーカーのAmazon EchoとGoogle Homeにも、同様の脆弱性が残っていたことを明らかにしました。
+ ]]></description>
+			<pubDate>Wed, 15 Nov 2017 22:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    ついに出た!? iQOSとglo本体でテスト済、加熱式タバコ用USB充電ケーブルをSSAが発表
+</title>
+			<link>http://japanese.engadget.com/2017/11/15/iqos-glo-usb-ssa/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/25293ad6fcabba318666f30563c52236/205866315/SSA_Tobacco_Ccable_01.jpg" />
+PCやスマートフォン関連の各種ケーブルを手がけるエスエスエーサービス（SSA）が、加熱式タバコiQOSとgloで動作テスト済みと謳うUSB急速充電ケーブル『SU2-MC15IG』『SU2-MC80IG』を発表しました。ありそうでなかった「iQOSとglo検証済のUSB充電ケーブル」です。
+
+両モデルの違いは長さで、前者は15cm、後者は80cm。価格は双方ともオープンプライス。
+iQOSとgloの本体はもともと一般的なUSB充電ケーブルも使え、またスターターキットにはUSBケーブルも含まれることから、ともすれば出オチ感も受ける両製品。しかしメーカーが用途を謳うだけではなく、しっかりと急速充電のテストが完了しているというのは、安心できるところではあります。
+ ]]></description>
+			<pubDate>Wed, 15 Nov 2017 22:35:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
