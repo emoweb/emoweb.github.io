@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>マクドナルドが全国2900店でカード決済開始、2018年には海外Apple Pay対応も（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111402664/</link>
-			<description><![CDATA[　日本マクドナルドは2017年11月13日、全国のマクドナルド約2900店舗で、クレジットカード決済を始めると発表した。開始日は11月20日。新たに使えるようになるのは、Visa、Mastercard、JCB、ダイナース、ディスカバー、アメリカン・エキスプレスブランドのクレジットカード。]]></description>
-			<pubDate>Tue, 14 Nov 2017 20:29:28 +0900</pubDate>
-		</item>
-		<item>
 			<title>エアバスがHoloLens用の整備士訓練アプリ開発、JALが協力（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111402665/</link>
 			<description><![CDATA[　欧州エアバスは2017年11月14日、米マイクロソフトのゴーグル型端末「HoloLens」（ホロレンズ）で動作する、航空整備士向けの訓練アプリのプロトタイプ版を開発したと発表した。開発には、同様の訓練アプリを2016年に試作した日本航空（JAL）も協力している。]]></description>
@@ -289,6 +283,45 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 16 Nov 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>iPhoneの背面カメラ、ARを強化する3Dセンサーを2019年に搭載か（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111600379/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　「iPhone X」の次期モデルを巡るうわさに早くも飽きてきた人もいるかもしれないが、今度は、来年ではなく2019年モデルのiPhoneの新機能に光を当てる報道が米Bloombergから出た。背面カメラに3Dセンサーを搭載することで、iPhoneをAR（拡張現実）の原動力にするというものだ。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111600379/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Roman Loyola</div>
+</div>
+<p>
+　今年登場したiPhone Xは、先進的な「TrueDepth」カメラを前面に搭載し、顔認証やアニ文字の機能を実現している。数万個のドットをユーザーの顔に投射して、顔の深度マップを作成し、ユーザー本人の顔の形状を判別する仕組みだ。だが、Bloombergの記事によると、米Appleが背面カメラへの搭載に向けて開発を進めているセンサーは、それよりはるかに高度なものだという。
+</p>
+<p>
+　「背面に搭載する計画のセンサーは、周囲の物体からレーザーが跳ね返って来る時間を算出するToF（Time of Flight）手法により、周囲の状況の3次元画像を作成する」と記事は説明している。ToFカメラは、高度なアルゴリズムを使って距離マッピングや距離画像の処理を行うことで、顔だけでなく状況全体を把握する。
+</p>
+<p>
+　こうしたカメラの用途として最も明白なのはARだろう。AppleのTim Cook最高経営責任者（CEO）は、ARへの熱意をたびたび表明してきた。Appleは2019年までにARヘッドセットを完成させる計画だと最近報じられた。その時期は、今回の背面カメラの話とも合致する。Cook氏は2016年に、ARについて次のように話していた。「ARはしばらくかかりそうだ。かなり難しい技術的課題がいくつかあるからだ。だが間違いなく現れる。大々的に現れる。そうなった時には、一体我々はARなしでどうやって生きてきたのかと不思議に思うようになる」
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111600379/?ST=cio-consumerit&P=2">レーザーを使った背面カメラのうわさが出たのは今回...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111600379/?ST=cio-consumerit&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111600379/?ST=cio-consumerit&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111600379/?ST=cio-consumerit&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 16 Nov 2017 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
