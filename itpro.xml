@@ -332,5 +332,58 @@
 			<description><![CDATA[　米スラック・テクノロジーズはビジネスチャットサービス「Slack」の日本語版を2017年11月17日午前10時に開始した。メニューを全て日本語化したほか、「メッセージ送信ボタン」を設けるなど、独自のユーザーインタフェースの改変も施した。]]></description>
 			<pubDate>Fri, 17 Nov 2017 10:05:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>機械学習ライブラリTensorFlow 1.4の変更点は（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111700439/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　「TensorFlow」は、ニューラルネットワークを簡単に実装するための汎用的なフレームワークだ。米Googleが自らの成果物を機械学習とデータサイエンスの世界に向けて公開した。登場は比較的最近の話だが、その強力な抽象化と使いやすさから、機械学習向けの一般的なプラットフォームとしてすでに広く導入されている。
+</p>
+<h4>
+TensorFlow 1.4のコアAPIの追加
+</h4>
+<p>
+TensorFlow Keras API
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111700439/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　TensorFlow 1.4では、特に大きな変更として、コアAPIに2つの重要な要素が追加された。1つはKeras API（tf.keras）だ。Kerasは、TensorFlowより前に登場したニューラルネットワークライブラリだが、急速に取って代わられつつある。tf.kerasを使うことで、Kerasを利用しているソフトウエアをTensorFlowに移行できる。今後もずっとKerasのインタフェースを使う形で移行することも、TensorFlowをネイティブに使うようにソフトウエアを手直しする前段階として移行することも可能だ。
+</p>
+<p>
+TensorFlow Dataset API
+</p>
+<p>
+　TensorFlowのコアAPIに加わったもう1つの重要な要素がDataset API（tf.data）だ。もともとはコントリビュートされたAPI（tf.contrib.data）だったが、今回正式にサポートされた。Dataset APIでは、入力パイプラインの作成と再利用のための一連の抽象化手段が提供されている。いくつかのデータソースから集める複雑なデータセットにも対応でき、必要に応じて各要素に変換を加えられる。また、データセットへの繰り返し処理に応じた個別の関数も持つことができる。例えば、データセットに対する複数のトレーニングで、それぞれ別の動作が必要な場合に対応できる。
+</p>
+<h4>
+TensorFlow Dataset APIの互換性の問題
+</h4>
+<p>
+　従来のバージョンのTensorFlowでコントリビュート版のDataset APIをすでに利用していた場合は、今回のコアAPI版と完全に互換ではないことに注意が必要だ。変更点は多くはないが、一般的に使う重要な関数への変更が大半であることから、既存のコードが動かなくなる可能性はそれなりにある。
+</p>
+<p>
+　例えば、これまでtf.contrib.data.rejection_resample()やtf.contrib.data.Iterator.from_dataset()を使っていたのなら、どちらも変更が加わっている。前者はシグネチャが変わり、後者は関数自体がなくなってDataset.make_initializable_iterator()に代わった。そのほか、TensorFlowの<a href="https://github.com/tensorflow/tensorflow/blob/r1.4/tensorflow/contrib/data/README.md" target="_blank">ドキュメント</a>にも、tf.contrib.dataからtf.dataへの移行に伴う変更点の説明がある。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111700439/?ST=cm-software&P=2">利便性の向上</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111700439/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111700439/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111700439/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 17 Nov 2017 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
