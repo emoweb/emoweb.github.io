@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>新会長に日立中西会長報道、経団連は「公式公表していない」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111602675/</link>
-			<description><![CDATA[　2017年11月16日、一部の新聞で「日本経済団体連合会（経団連）の新会長に、日立製作所の中西宏明会長が就任」と報道されている。これに対し経団連は同日、「後任人事については公式公表していない」とコメントしている。]]></description>
-			<pubDate>Thu, 16 Nov 2017 11:09:46 +0900</pubDate>
-		</item>
-		<item>
 			<title>JALの基幹システムが予定通り刷新、運航に影響なし（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111602676/</link>
 			<description><![CDATA[　日本航空（JAL）は2017年11月15日夜から16日朝にかけて、旅客系の基幹業務システム刷新を予定通り実施した。新システムでの運航初日となった11月16日は、ほぼ平常通りに運航している。]]></description>
@@ -272,6 +266,12 @@ TensorFlow Dataset APIの互換性の問題
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111702689/</link>
 			<description><![CDATA[　米グーグルの日本法人は2019年に日本法人本社を現在の六本木から渋谷に移転すると発表した。グーグルの持ち株会社である米アルファベットの最高財務責任者（CFO）であるRuth Porat氏が2017年11月17日に都内で会見し明らかにしたもの。9年ぶりの渋谷復帰となる。]]></description>
 			<pubDate>Fri, 17 Nov 2017 13:19:15 +0900</pubDate>
+		</item>
+		<item>
+			<title>シャープのロボット掃除機「COCOROBO」に脆弱性、のぞき見の危険性も（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111702692/</link>
+			<description><![CDATA[　シャープのロボット掃除機「COCOROBO（ココロボ）」に脆弱性があることが、2017年11月16日に分かった。同一の無線LANを使う第三者によって、ロボットに搭載されるカメラから室内をのぞき見されたり個人情報を閲覧・変更されたりする可能性がある。]]></description>
+			<pubDate>Fri, 17 Nov 2017 14:16:42 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
