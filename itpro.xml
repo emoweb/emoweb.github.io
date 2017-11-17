@@ -5,45 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>iPhoneの背面カメラ、ARを強化する3Dセンサーを2019年に搭載か（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111600379/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　「iPhone X」の次期モデルを巡るうわさに早くも飽きてきた人もいるかもしれないが、今度は、来年ではなく2019年モデルのiPhoneの新機能に光を当てる報道が米Bloombergから出た。背面カメラに3Dセンサーを搭載することで、iPhoneをAR（拡張現実）の原動力にするというものだ。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111600379/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Roman Loyola</div>
-</div>
-<p>
-　今年登場したiPhone Xは、先進的な「TrueDepth」カメラを前面に搭載し、顔認証やアニ文字の機能を実現している。数万個のドットをユーザーの顔に投射して、顔の深度マップを作成し、ユーザー本人の顔の形状を判別する仕組みだ。だが、Bloombergの記事によると、米Appleが背面カメラへの搭載に向けて開発を進めているセンサーは、それよりはるかに高度なものだという。
-</p>
-<p>
-　「背面に搭載する計画のセンサーは、周囲の物体からレーザーが跳ね返って来る時間を算出するToF（Time of Flight）手法により、周囲の状況の3次元画像を作成する」と記事は説明している。ToFカメラは、高度なアルゴリズムを使って距離マッピングや距離画像の処理を行うことで、顔だけでなく状況全体を把握する。
-</p>
-<p>
-　こうしたカメラの用途として最も明白なのはARだろう。AppleのTim Cook最高経営責任者（CEO）は、ARへの熱意をたびたび表明してきた。Appleは2019年までにARヘッドセットを完成させる計画だと最近報じられた。その時期は、今回の背面カメラの話とも合致する。Cook氏は2016年に、ARについて次のように話していた。「ARはしばらくかかりそうだ。かなり難しい技術的課題がいくつかあるからだ。だが間違いなく現れる。大々的に現れる。そうなった時には、一体我々はARなしでどうやって生きてきたのかと不思議に思うようになる」
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111600379/?ST=cio-consumerit&P=2">レーザーを使った背面カメラのうわさが出たのは今回...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111600379/?ST=cio-consumerit&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111600379/?ST=cio-consumerit&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/111600379/?ST=cio-consumerit&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 16 Nov 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>新会長に日立中西会長報道、経団連は「公式公表していない」（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111602675/</link>
 			<description><![CDATA[　2017年11月16日、一部の新聞で「日本経済団体連合会（経団連）の新会長に、日立製作所の中西宏明会長が就任」と報道されている。これに対し経団連は同日、「後任人事については公式公表していない」とコメントしている。]]></description>
@@ -305,6 +266,12 @@ TensorFlow Dataset APIの互換性の問題
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111702688/</link>
 			<description><![CDATA[　経済産業省は2017年11月16日、「サイバーセキュリティ経営ガイドライン」の改訂版を公開した。サイバー攻撃の手口が巧妙化し、予防だけではサイバーリスクへの対策が不十分である背景を踏まえ、サイバー攻撃の検知や攻撃された場合の対処を強化するなどの記載を加えた。]]></description>
 			<pubDate>Fri, 17 Nov 2017 12:03:06 +0900</pubDate>
+		</item>
+		<item>
+			<title>「お帰りなさい」、グーグル日本本社の渋谷移転を発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111702689/</link>
+			<description><![CDATA[　米グーグルの日本法人は2019年に日本法人本社を現在の六本木から渋谷に移転すると発表した。グーグルの持ち株会社である米アルファベットの最高財務責任者（CFO）であるRuth Porat氏が2017年11月17日に都内で会見し明らかにしたもの。9年ぶりの渋谷復帰となる。]]></description>
+			<pubDate>Fri, 17 Nov 2017 13:19:15 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
