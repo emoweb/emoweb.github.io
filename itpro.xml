@@ -5,48 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「遅くて使いものにならない」という光回線への声、定額制も限界か（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/110800954/?n19</link>
-			<description><![CDATA[　あまり話題になっていないが、インターネット接続事業者（プロバイダー）の提供する光回線サービスが「遅くて使いものにならない」という声が一部で出ている。「モバイル回線のほうがまだまし」とさえ言われるほどだ。]]></description>
-			<pubDate>Mon, 13 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>フレッツ・テレビなど、BS右旋4K放送に2018年12月1日から対応、左旋は検討中（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111602678/</link>
-			<description><![CDATA[　スカパーJSATおよびNTT東日本、NTT西日本の3社は2017年11月16日、BS右旋4K放送について、「フレッツ・テレビ」などのFTTHサービスで2018年12月1日の提供開始を予定すると発表した。]]></description>
-			<pubDate>Thu, 16 Nov 2017 15:53:44 +0900</pubDate>
-		</item>
-		<item>
-			<title>エクストリーム ネットワークス、「相次ぐ買収も顧客の投資を重視」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111602679/</link>
-			<description><![CDATA[　エクストリーム ネットワークスは2017年11月16日、米国本社の幹部による説明会を開き、事業方針などを説明した。]]></description>
-			<pubDate>Thu, 16 Nov 2017 15:58:19 +0900</pubDate>
-		</item>
-		<item>
-			<title>アクセンチュア、金融機関向けにデジタル変革支援の新サービス（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111602681/</link>
-			<description><![CDATA[　アクセンチュアは2017年11月16日、金融機関向けにデジタル変革を支援する新サービスを始めると発表した。デジタル化に向けたIT基盤の構築・活用支援サービスと、デジタル化による業務変革を支援するコンサルティングサービスの2つだ。]]></description>
-			<pubDate>Thu, 16 Nov 2017 16:49:38 +0900</pubDate>
-		</item>
-		<item>
-			<title>NTT西日本など、LPWAを活用した産業廃棄物の収集効率化の実証実験（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111602682/</link>
-			<description><![CDATA[　NTT西日本グループは2017年11月15日、京都府が公募する「平成29年度スマート・センサー活用リサイクル促進モデル効果検証等事業」の事業者に採択されたと発表した。LPWAネットワークや各種センサーを活用し、産業廃棄物の効率的な収集を検証する実証実験を京都府内で始めた。]]></description>
-			<pubDate>Thu, 16 Nov 2017 17:04:58 +0900</pubDate>
-		</item>
-		<item>
-			<title>大量文書を内容で分類・検索、AIベンチャーのCogent Labsが開発（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111602684/</link>
-			<description><![CDATA[　AI（人工知能）ベンチャーのCogent Labsは大量の文書を内容や表現で分類したり意味検索したりできる文書解析システム「Kaidoku」を開発した。今後、医療や法務、苦情処理など大量の文書を保有する企業に活用を提案し、実業務での実証実験に取り組む。]]></description>
-			<pubDate>Thu, 16 Nov 2017 19:24:21 +0900</pubDate>
-		</item>
-		<item>
-			<title>KDDIがセルラーLPWAを2018年1月に商用化、月40～200円（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111602685/</link>
-			<description><![CDATA[　KDDI（au）は2017年11月16日、LPWA（ローパワー・ワイドエリア）方式の通信サービス「KDDI IoTコネクト LPWA」を2018年1月に始めると発表した。主にIoT（インターネット・オブ・シングズ）向けに、LTEより低速ながら大幅に低コストな通信手段としての利用を見込む。]]></description>
-			<pubDate>Thu, 16 Nov 2017 19:53:30 +0900</pubDate>
-		</item>
-		<item>
 			<title>進化が止まらないiPhoneの「メモ」、書類や音声もとりあえず保存（あなたが知らないiPhone）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/103000461/111400002/</link>
 			<description><![CDATA[　当初はテキストのちょっとしたメモ情報しか扱えないシンプルなアプリだったiPhone標準の「メモ」アプリ。実は多機能なデジタルノートアプリに進化しているのをご存じだろうか。]]></description>
@@ -278,6 +236,84 @@ TensorFlow Dataset APIの互換性の問題
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111702694/</link>
 			<description><![CDATA[　日本HPは2017年11月17日、都内で新製品発表会を開催し、個人向け・法人向けのプレミアムPCの新製品を発表した。個人向けノートPCとしてはフラグシップ製品の2機種を、法人向けでは3機種を発表した。]]></description>
 			<pubDate>Fri, 17 Nov 2017 19:58:11 +0900</pubDate>
+		</item>
+		<item>
+			<title>生産性向上の鍵は「賢く」「一緒に」働く（岡大勝のプロジェクトお悩み相談室）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900109/102600011/</link>
+			<description><![CDATA[　あなたは開発プロジェクトで行われるメンバーの活動は「生産労働」と「知的労働」のどちらだと思いますか。正解は「知的労働」です。生産性を向上させる際も、知的労働ならではのアプローチが求められます。]]></description>
+			<pubDate>Mon, 20 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>断っても来る！しつこい営業メールには厳しい態度で（5分でわかる！ビジネスメール）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/041200140/102600014/</link>
+			<description><![CDATA[　断ったはずの会社から再び営業メールが届いた。読むと前回と同じ内容のよう。「この前、私が断ったのに！」と直井研究員。そのとき平野所長のメガネがキラリと光った。]]></description>
+			<pubDate>Mon, 20 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>システム開発トラブルで訴訟が頻発、失敗の5大要因（システム開発トラブルに見舞われたら…）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110600484/110700001/</link>
+			<description><![CDATA[　システム開発トラブルの類型と、トラブルが発生する主な理由について説明する。]]></description>
+			<pubDate>Mon, 20 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>マイクロサービスの最難関、どうするDB分割？（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/111400957/</link>
+			<description><![CDATA[　マイクロサービスの活用事例が日本でも増えている。全日本空輸（ANA）や楽天トラベル、モノタロウなどがメリットを享受している。半面、既存システムからの移行は一筋縄では行かない。]]></description>
+			<pubDate>Mon, 20 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>技術者転職の不安、「しつこい電話」「職場バレ」は大丈夫か（人材不足の今こそ知りたい、技術者転職の「超基本」）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/111400519/111400002/</link>
+			<description><![CDATA[　転職サイトに登録すると「仕事中もスカウトの電話が掛かってくるのでは」「在籍中の企業に、自分が転職を考えていることがばれてしまうのでは」といった不安を覚える人もいる。こうした不安の声に、日経HRの松本恭子マネジャーが答える。]]></description>
+			<pubDate>Mon, 20 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ISDN機器やモデムはいつまで使えるか、固定電話のIP網移行スケジュールが確定（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/111601208/</link>
+			<description><![CDATA[　NTT東日本とNTT西日本は2017年10月17日、固定電話のIP網移行のスケジュールを公表した。2024年1月からIP網への切り替えを開始し、2025年1月に完了する。固定電話をIP網に移行するのは、従来の固定電話網を構成する中継交換機と信号交換機が2025年ごろに維持限界を迎えるからだ。]]></description>
+			<pubDate>Mon, 20 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>人月商売の滅亡近し、SIerの「オヤジ化作戦」に勝ち目はあるか（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/111500166/</link>
+			<description><![CDATA[　日本のIT業界で高齢化が進んでいるのは周知のとおりだ。もう少し正確に言うと、少“若”高齢化。特に大手SIerでは50代のシニア技術者の割合が増え続け、若手技術者の割合がどんどん減っている。技術者の高齢化はSIerには由々しき事態に思えるが、実はそうではない。]]></description>
+			<pubDate>Mon, 20 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>せっかくのiPhoneも、iCloudにバックアップできず閉口する（PCやスマホでイライラしてませんか？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/111400522/111600002/</link>
+			<description><![CDATA[　僕はiPhoneを気に入っていて、毎日肌身離さず持ち歩いている。ところが、よく使うからこそ不満を感じることも少なくない。ちょうどこの記事を執筆する少し前に、最新モデル「iPhone X」が発売された。でも今回言及する不満点は相変わらずなので、残念だ。]]></description>
+			<pubDate>Mon, 20 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>セキュリティ会社の社員逮捕、ウイルス拡散が疑われるも残る疑問（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/111701209/</link>
+			<description><![CDATA[　情報セキュリティ会社ディアイティの社員が逮捕された。情報漏洩監視サービスの操作端末にウイルスを保管した疑いだ。逮捕容疑には専門家が疑問を呈し、業界の萎縮を懸念する声も挙がる。]]></description>
+			<pubDate>Mon, 20 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>よかれと思ったが裏目に、部下に嫌われる言動（だから部下に嫌われる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110900506/110900001/</link>
+			<description><![CDATA[　自分は「部下思い」だと思っているのに、部下から嫌われている上司がいる。その原因の多くは、「公平感の欠如」「納得感の欠如」「方向感の欠如」「信頼感の欠如」によるものだ。]]></description>
+			<pubDate>Mon, 20 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>東京五輪では100％接続を目指す、通信インフラ整備が急加速（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/111501205/</link>
+			<description><![CDATA[　訪日外国人、あるいは海外から多数の観客や大会関係者などが訪れる東京オリンピックを見据えた通信インフラの整備が本格化しそうだ。契機となりそうなのが、「東京 2020 オリンピック・パラリンピック競技大会に向けた携帯電話の通信環境整備ガイドライン」だ。]]></description>
+			<pubDate>Mon, 20 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>信頼維持の仕組みが崩れ不信広がる、インターネット30年目の実態（インターネット再生計画）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/111000513/111000001/</link>
+			<description><![CDATA[　利用者一人ひとりが主役になって維持してきたネットの信頼が、風前の灯火だ。拡大した市場が悪意を引きつけ、今や善意を覆い隠す。生活、ビジネス、社会の基盤として、ネットは成長していけるのか。]]></description>
+			<pubDate>Mon, 20 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>PCの操作を丸ごと録画、社内不正を防ぐ番人システム（不正防止に役立つシステム）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110900505/111500002/</link>
+			<description><![CDATA[　従業員のPCを監視して不正行為を見つけ出すソフトは、PC操作を見張る監視カメラのようなものだ。PC上で行われる不正行為を見つけ出し、証拠として利用できるようにする。従業員への牽制としてうまく働けば、未然に防げる可能性もある。]]></description>
+			<pubDate>Mon, 20 Nov 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
