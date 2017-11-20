@@ -5,26 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ビジネスチャット「Slack」に日本語版が登場、誤送信防止などローカライズが充実
-</title>
-			<link>http://japanese.engadget.com/2017/11/16/slack/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/24c069dbacda4438db93aba3756aa7aa/205869895/Slack_JP_Desktop.jpg" />
-ソフトバンクなども出資するビジネスチャットの「Slack」に日本語版が登場しました。WEB・PC・モバイル版ともに、言語＆地域設定に加わった「日本語」を選ぶことで利用できます。
-
-Slack Technologiesは米国・サンフランシスコに拠点を置くスタートアップ企業です。2014年2月にビジネスチャットの「Slack」を公開して以降、業務内のコミュニケーションコストを減らせる点、そして様々なITツールと連携できる点が評価され、日本でもIT企業を中心に採用が拡大。すでに日本は「米国・英国に次ぐ世界第3位の市場」と担当者は語ります。
-
-今回登場した日本語版の特徴は、単にメニューを翻訳しただけでなく、日本向けのローカライズを充実させた点。英語版では「Enter」を押すことでメッセージを送信できましたが、日本語版では「送信ボタン」をクリックするか「Command」+「Enter」を押さないとメッセージが送信されない仕様に変更。（設定で元に戻せる）これは、漢字変換を多用する日本の文字入力環境に配慮し、誤送信を防ぐための工夫だといいます。
-
-さらに、カスタマーサポートやヘルプデスク、そしてウェブサイトから製品トライアルの申し込みにいたるまで、かなり細かいレベルで日本語化。利用料金の日本円建てでの支払いも可能になり、請求書も日本円で管理できるといいます。
-
-
-
-
-このタイミングで日本語化した理由については「全社で導入するにあたって、日本語化されていないというのはありえない」というエンタープライズ顧客からの強い要望があったとのこと。今回Slackは日本法人として「Slack Japan株式会社」を設立し、日本展開を加速したい考えです。
- ]]></description>
-			<pubDate>Thu, 16 Nov 2017 20:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    太陽系から11光年、温暖な地球型惑星「Ross 128 b」を発見。放射線の影響少なく、表面温度-60～20℃
 </title>
 			<link>http://japanese.engadget.com/2017/11/16/11-ross-128-b-60-20/</link>
@@ -621,6 +601,17 @@ Xperia XZ1、同Compactに対するソニーが基本的に好きな人の率直
 
  ]]></description>
 			<pubDate>Mon, 20 Nov 2017 01:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    銃乱射犯iPhoneのハックにFBIが失敗か。保存データへのアクセス求めアップルに捜査令状
+</title>
+			<link>http://japanese.engadget.com/2017/11/20/fbi-iphone/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/7f5fd3b96516b091ce64ed53900ced43/205876675/iPhone.jpeg" />
+今年11月5日午前（日本時間6日未明）にアメリカ・テキサス州で26人が死亡した銃乱射事件につき、テキサス・レンジャー（同州独自の法執行官）がアップルに対してiPhone SE内のデータとiCloudアカウントにアクセスを要求する捜査令状を出していたことが明らかになりました。
+
+アップルは当初、テキサス当局と共同で捜査しているFBIに協力を申し出たものの、FBIはこれに応じず、自力でのロック解除を試みたものの、失敗したようです。
+ ]]></description>
+			<pubDate>Mon, 20 Nov 2017 03:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
