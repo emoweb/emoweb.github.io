@@ -5,143 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：「遅くて使いものにならない」という光回線への声、定額制も限界か（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/110800954/?d20</link>
-			<description><![CDATA[　あまり話題になっていないが、インターネット接続事業者（プロバイダー）の提供する光回線サービスが「遅くて使いものにならない」という声が一部で出ている。「モバイル回線のほうがまだまし」とさえ言われるほどだ。]]></description>
-			<pubDate>Mon, 13 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>セルフサービスBIの5つの落とし穴（下）（セルフサービスBIの5つの落とし穴）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/110600086/110600003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　数多くのメリットがあるセルフサービスBIだが、思わぬ落とし穴にはまり込んで対応を余儀なくされる場合もあるという。ここでは、セルフサービスBI戦略に伴って生じる副作用を5つ紹介する。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/110600086/110600002/" target="_blank">前回</a>から続く）</p>
-
-<h4>4．規模の拡大が難しい</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/110600086/110600003/ph3.jpg" width="300" alt="" title=""></div></div>
-
-<p>　セルフサービスBIが登場した理由の1つは、業務部門の俊敏性を高めるためだ。従来、業務部門がビジネスチャンスを生かすために必要としているデータやインサイトをIT部門が提供するには、長い時間を要していた。セルフサービスBIは、業務部門が必要とするデータやインサイトを必要なタイミングで提供するのがうたい文句だ。そして多くの点では、そのうたい文句どおりの働きをしてきた。だが、BIの取り組みの規模を拡大する必要が生じたとたん、課題が見えてくる。</p>
-
-<p>　Aziza氏は次のように言う。「IT部門の対応を待つより、セルフサービスの方が速い。だがそれでは、ビッグデータを小さく考えている。個別の社員や業務部門のレベルではうまくいくが、ニーズに合わせた規模の拡大ができなくなるのは時間の問題だ」</p>
-
-<p>　またMariani氏はこう説明する。「IT部門は、目の前の問題だけの解決を目指している多くの業務部門よりも長期的な考えを持ち、未来についてよく考えている。だが、一元的なモデルに対して業務部門が嫌悪感を示すのは、待たされるのが嫌という理由と、業務部門が必要とするものをIT部門は妥当な期間内にきっと提供できないだろうという不信感からだ。Yahoo!では、ディスプレイ広告について把握するための新しいディメンションを1つ追加するのに1カ月かかった。業務部門は1カ月も待てない」</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/110600086/110600003/?ST=cio-appli&P=2">例えば、衣料品の小売企業であれば、セルフサービス...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/110600086/110600003/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/110600086/110600003/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/110600086/110600003/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 17 Nov 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ビジネスチャット「Slack」が本格上陸、日本語版を提供開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111602686/</link>
-			<description><![CDATA[　米スラック・テクノロジーズはビジネスチャットサービス「Slack」の日本語版を2017年11月17日午前10時に開始した。メニューを全て日本語化したほか、「メッセージ送信ボタン」を設けるなど、独自のユーザーインタフェースの改変も施した。]]></description>
-			<pubDate>Fri, 17 Nov 2017 10:05:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>機械学習ライブラリTensorFlow 1.4の変更点は（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111700439/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　「TensorFlow」は、ニューラルネットワークを簡単に実装するための汎用的なフレームワークだ。米Googleが自らの成果物を機械学習とデータサイエンスの世界に向けて公開した。登場は比較的最近の話だが、その強力な抽象化と使いやすさから、機械学習向けの一般的なプラットフォームとしてすでに広く導入されている。
-</p>
-<h4>
-TensorFlow 1.4のコアAPIの追加
-</h4>
-<p>
-TensorFlow Keras API
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111700439/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　TensorFlow 1.4では、特に大きな変更として、コアAPIに2つの重要な要素が追加された。1つはKeras API（tf.keras）だ。Kerasは、TensorFlowより前に登場したニューラルネットワークライブラリだが、急速に取って代わられつつある。tf.kerasを使うことで、Kerasを利用しているソフトウエアをTensorFlowに移行できる。今後もずっとKerasのインタフェースを使う形で移行することも、TensorFlowをネイティブに使うようにソフトウエアを手直しする前段階として移行することも可能だ。
-</p>
-<p>
-TensorFlow Dataset API
-</p>
-<p>
-　TensorFlowのコアAPIに加わったもう1つの重要な要素がDataset API（tf.data）だ。もともとはコントリビュートされたAPI（tf.contrib.data）だったが、今回正式にサポートされた。Dataset APIでは、入力パイプラインの作成と再利用のための一連の抽象化手段が提供されている。いくつかのデータソースから集める複雑なデータセットにも対応でき、必要に応じて各要素に変換を加えられる。また、データセットへの繰り返し処理に応じた個別の関数も持つことができる。例えば、データセットに対する複数のトレーニングで、それぞれ別の動作が必要な場合に対応できる。
-</p>
-<h4>
-TensorFlow Dataset APIの互換性の問題
-</h4>
-<p>
-　従来のバージョンのTensorFlowでコントリビュート版のDataset APIをすでに利用していた場合は、今回のコアAPI版と完全に互換ではないことに注意が必要だ。変更点は多くはないが、一般的に使う重要な関数への変更が大半であることから、既存のコードが動かなくなる可能性はそれなりにある。
-</p>
-<p>
-　例えば、これまでtf.contrib.data.rejection_resample()やtf.contrib.data.Iterator.from_dataset()を使っていたのなら、どちらも変更が加わっている。前者はシグネチャが変わり、後者は関数自体がなくなってDataset.make_initializable_iterator()に代わった。そのほか、TensorFlowの<a href="https://github.com/tensorflow/tensorflow/blob/r1.4/tensorflow/contrib/data/README.md" target="_blank">ドキュメント</a>にも、tf.contrib.dataからtf.dataへの移行に伴う変更点の説明がある。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111700439/?ST=cm-software&P=2">利便性の向上</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111700439/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111700439/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/111700439/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 17 Nov 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ビッグデータ活用の経営支援システム、医療経営コンサルのGHC-Jが発売（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111702687/</link>
-			<description><![CDATA[　医療経営のコンサルティングを行うグローバルヘルスコンサルティング・ジャパン（GHC-J）は2017年11月16日、大病院向け医療ビッグデータ分析システム「病院ダッシュボードχ（カイ）」を発売すると発表した。]]></description>
-			<pubDate>Fri, 17 Nov 2017 11:51:21 +0900</pubDate>
-		</item>
-		<item>
-			<title>経産省のサイバーセキュリティ経営ガイドライン改訂、攻撃検知と復旧への備えを追加（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111702688/</link>
-			<description><![CDATA[　経済産業省は2017年11月16日、「サイバーセキュリティ経営ガイドライン」の改訂版を公開した。サイバー攻撃の手口が巧妙化し、予防だけではサイバーリスクへの対策が不十分である背景を踏まえ、サイバー攻撃の検知や攻撃された場合の対処を強化するなどの記載を加えた。]]></description>
-			<pubDate>Fri, 17 Nov 2017 12:03:06 +0900</pubDate>
-		</item>
-		<item>
-			<title>「お帰りなさい」、グーグル日本本社の渋谷移転を発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111702689/</link>
-			<description><![CDATA[　米グーグルの日本法人は2019年に日本法人本社を現在の六本木から渋谷に移転すると発表した。グーグルの持ち株会社である米アルファベットの最高財務責任者（CFO）であるRuth Porat氏が2017年11月17日に都内で会見し明らかにしたもの。9年ぶりの渋谷復帰となる。]]></description>
-			<pubDate>Fri, 17 Nov 2017 13:19:15 +0900</pubDate>
-		</item>
-		<item>
-			<title>シャープのロボット掃除機「COCOROBO」に脆弱性、のぞき見の危険性も（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111702692/</link>
-			<description><![CDATA[　シャープのロボット掃除機「COCOROBO（ココロボ）」に脆弱性があることが、2017年11月16日に分かった。同一の無線LANを使う第三者によって、ロボットに搭載されるカメラから室内をのぞき見されたり個人情報を閲覧・変更されたりする可能性がある。]]></description>
-			<pubDate>Fri, 17 Nov 2017 14:16:42 +0900</pubDate>
-		</item>
-		<item>
-			<title>NTTネオメイトがLoRaWAN「クラスB」商用化、アズビル金門経由でLPガス会社に展開（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111702693/</link>
-			<description><![CDATA[　NTTネオメイトは2017年11月17日、LPWAネットワーク「LoRaWAN」において、双方向通信を実現する「クラスB」通信の商用提供を同日に開始したと発表した。「クラスB」通信の商用提供は世界初という。]]></description>
-			<pubDate>Fri, 17 Nov 2017 16:42:41 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本HP、プレミアムノートPC「HP Spectre 13」や2-in-1型ワークステーションなど発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111702694/</link>
-			<description><![CDATA[　日本HPは2017年11月17日、都内で新製品発表会を開催し、個人向け・法人向けのプレミアムPCの新製品を発表した。個人向けノートPCとしてはフラグシップ製品の2機種を、法人向けでは3機種を発表した。]]></description>
-			<pubDate>Fri, 17 Nov 2017 19:58:11 +0900</pubDate>
-		</item>
-		<item>
 			<title>生産性向上の鍵は「賢く」「一緒に」働く（岡大勝のプロジェクトお悩み相談室）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900109/102600011/</link>
 			<description><![CDATA[　あなたは開発プロジェクトで行われるメンバーの活動は「生産労働」と「知的労働」のどちらだと思いますか。正解は「知的労働」です。生産性を向上させる際も、知的労働ならではのアプローチが求められます。]]></description>
@@ -345,6 +208,90 @@ Workday Cloud Platformとは
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/112002701/</link>
 			<description><![CDATA[　クラウド専門のシステム開発などを手がけるアピリオは2017年11月20日、米セールスフォース・ドットコムの業種特化型のアプリケーション開発プラットフォーム「Salesforce Lightning Bolt」を応用したアプリケーションの国内提供を開始すると発表した。]]></description>
 			<pubDate>Mon, 20 Nov 2017 18:47:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>量子コンピューター（Close Up Keyword）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/110900097/</link>
+			<description><![CDATA[　量子力学の原理を応用したコンピューター。理論上、超高速の演算能力を持つとされ、次世代のコンピューターといわれている。近年は米グーグル、米IBM、米マイクロソフトなどが注目し、開発競争が盛んになっている。]]></description>
+			<pubDate>Tue, 21 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「機能は現状のままで」は危険、システム刷新を失敗に陥れる禁句（システム開発トラブルに見舞われたら…）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110600484/110700002/</link>
+			<description><![CDATA[　既存のレガシーシステムを新システムにリプレース（置き換え）する。近年の基幹システム刷新プロジェクトの多くはこのパターンだ。]]></description>
+			<pubDate>Tue, 21 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>部下からの有給休暇の申請、上司は断れる？（職場のトラブル相談室）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/092000388/110600005/</link>
+			<description><![CDATA[　最近は少ないメンバーで多くの業務をこなす職場が多い。だがあるとき部下のメンバーから、長期休暇の申請があったらどう答えるか。実は会社や上司には拒否する権利はない。こんなときに知っておきたい対応策を紹介しよう。]]></description>
+			<pubDate>Tue, 21 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>不正会計は防げる、怪しいデータ操作をAIで自動検知（不正防止に役立つシステム）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110900505/111500001/</link>
+			<description><![CDATA[　会計データの改ざんなどを通して、わざと業績や財政状況をよく見せようとする不正会計。それを防ぐための様々な機能をERP（統合基幹業務システム）製品は備えている。]]></description>
+			<pubDate>Tue, 21 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>偽ニュースの蔓延を防ぐ、スマートニュースの一手（インターネット再生計画）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/111000513/111600004/</link>
+			<description><![CDATA[　自民党と公明党からなる与党が3分の2を超える議席を獲得して幕を閉じた先の衆院選。選挙戦の裏で、民主主義を揺るがしかねないフェイク（偽）情報を見破る戦いが繰り広げられていた。]]></description>
+			<pubDate>Tue, 21 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>あなたの仕事の振り方は大丈夫？部下から不公平と思われる駄目なやり方（だから部下に嫌われる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110900506/110900002/</link>
+			<description><![CDATA[　部下に嫌われる原因の一つ目は、公平感の欠如である。上司はすべての部下を公平に扱っているつもりでも、部下には上司のちょっとした言動がえこひいきや差別のように映ることが少なくない。]]></description>
+			<pubDate>Tue, 21 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>自分に言い訳をしてでも購入したくなる新Kindle Oasis（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/111800148/</link>
+			<description><![CDATA[　僕が今欲しくて仕方がないのが、「Kindle Oasis」だ。電子ペーパーを採用した電子書籍専用端末で、「なぜ今どき白黒のタブレットを欲しがるのか」と思う人もいるようだ。]]></description>
+			<pubDate>Tue, 21 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Androidで物足りないのはアプリ、やっぱりiPhoneに及ばない（PCやスマホでイライラしてませんか？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/111400522/111600003/</link>
+			<description><![CDATA[　Androidスマートフォン（スマホ）やタブレットを使っていると、どうしてもiPhoneやiPadと比べてしまう。「iPhoneならできるのに…」と思うわけだ。僕は常にiPhoneとAndroidスマホを持ち歩いている。だからこそ感じるイライラや物足りなさ、そしてその解消法を探っていこう。]]></description>
+			<pubDate>Tue, 21 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>過去最大の買収から半年、インドで見たNTTデータ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/111500959/</link>
+			<description><![CDATA[　「まだデルだったころのストラップを使っているんです」。2017年10月上旬、筆者はインド南西に位置するチェンナイでNTTデータの現地子会社の取材をしていた。]]></description>
+			<pubDate>Tue, 21 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>資生堂やパナソニックがAIベンチャー買収、「アクハイヤー」で技術者獲得を急ぐ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/111701210/</link>
+			<description><![CDATA[　1人ひとりにもっと合ったメークを提供する――。こうした狙いの下、資生堂が米国でITベンチャーを買収した。獲得したAI人材を生かすマネジメント力が求められる。]]></description>
+			<pubDate>Tue, 21 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本で出遅れた米アマゾンの「Alexa」、米国での圧倒的な実績を生かせるか（佐野正弘が斬る！ニュースなアプリの裏側）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/111400131/</link>
+			<description><![CDATA[　米アマゾン・ドット・コムの日本法人であるアマゾンジャパンは2017年11月8日、音声アシスタント「Amazon Alexa」とスマートスピーカー「Amazon Echo」の記者発表会を開いた。265種類もの豊富な「スキル」や、月額390円から利用できる音楽配信サービス「Amazon Music Unlimited」など、米国での豊富な実績を基にしたサービスの充実度でライバルを圧倒しようとしているアマゾンだが、発表内容からは不安要素も見え隠れする。]]></description>
+			<pubDate>Tue, 21 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>北朝鮮が韓国のATMをハッキング、高まるサイバー攻撃力（サイバー攻撃を読み解く）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110800501/111700001/</link>
+			<description><![CDATA[　2017年9月に韓国警察庁より興味深い報告書が公表されたのをご存知だろうかだろうか。報告書によれば、北朝鮮のサイバー攻撃グループが韓国国内のATM（現金自動預け払い機）をハッキングし、金銭を不正に引き出したという。]]></description>
+			<pubDate>Tue, 21 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Apple出身者が作るAI調理家電、食材に最適なレシピを提案（シリコンバレーNextレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/111900139/</link>
+			<description><![CDATA[　シリコンバレーでは今、調理家電の世界でもAI（人工知能）革命が進行中だ。米Juneが販売する「June Intelligent Oven」は米NVIDIAのGPU（画像処理半導体）を搭載し、ディープラーニング（深層学習）ベースの画像認識AIが食材の種類や焼き加減を識別。プロ並みの調理を実現するという。]]></description>
+			<pubDate>Tue, 21 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>主役は新型の買い物カート！？ジーユーが店舗とECのいいとこ取り（アパレル 仕立て直し）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/111300514/111500001/</link>
+			<description><![CDATA[　国内アパレル最大手であるファーストリテイリング傘下の格安衣料品店「ジーユー」が同ブランド最大規模の店舗を2017年9月15日に開業した。既存店を改装し、面積を約2倍に拡張、標準店の2倍近い商品数をそろえた。それだけではない。改装後に大きく変わったのがデジタル活用だ。]]></description>
+			<pubDate>Tue, 21 Nov 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
