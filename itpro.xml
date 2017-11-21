@@ -285,5 +285,40 @@
 			<description><![CDATA[　組織不正の事後調査によく使われるのが、デジタルフォレンジックという技術だ。PCのハードディスクドライブ（HDD）や携帯電話・スマートフォンのメモリーなどのデジタル媒体を対象に実施するデータ抽出や分析などの科学捜査を指す。]]></description>
 			<pubDate>Wed, 22 Nov 2017 05:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>位置情報をビジネスに活用、ジオフェンシングとは（後）（位置情報をビジネスに活用、ジオフェンシングとは）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/111300088/111300002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　ジオフェンシングとは、位置情報を使ったサービスの一種だ。GPS、RFID（無線ICタグ）、Wi-Fi、携帯データ通信などを使い、特定の場所の周りに仮想的な境界（ジオフェンス）を設け、モバイルデバイスやRFIDタグがその境界内に入ったとき、あるいは境界から出た時に、アプリなどのソフトウエアで所定のアクションを実行する。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/111300088/111300001/" target="_blank">前回</a>から続く）</p>
+
+<h4>ジオフェンシングの用途</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/111300088/111300002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　モバイルデバイスがますます広まる中、ジオフェンシングは数多くの企業で標準的に使われるようになっている。対象となるエリアを定めたら、そこから先の活用法には無限の可能性が考えられる。特にマーケティングやソーシャルメディアでは、ジオフェンシングは広く利用されている。</p>
+
+<p>　小売業やサービス業であれば、競合他社の店鋪の周辺にジオフェンスを設定し、その近辺に来た人にプッシュ通知を送って、ライバル店ではなく自店への来店を促すところもあるはずだ。また、自店に入店した利用者にプッシュ通知でクーポンを届けることもできる。スーパーマーケットのアプリであれば、車で近くを通りがかった人に通知を送って来店を促すように設定しているところもあるかもしれない。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/111300088/111300002/?ST=cio-appli&P=2">このほか、ジオフェンシングの一般的な用途には次の...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/111300088/111300002/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/111300088/111300002/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/111300088/111300002/?ST=cio-appli&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/111300088/111300002/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 22 Nov 2017 06:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
