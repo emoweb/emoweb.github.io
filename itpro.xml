@@ -11,57 +11,6 @@
 			<pubDate>Fri, 17 Nov 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>マイクロソフトがOSSシフトを鮮明に、AzureのLinux利用率6割狙う（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/112002696/</link>
-			<description><![CDATA[　日本マイクロソフトは2017年11月17日、同社のパブリッククラウド「Microsoft Azure」上のOSS戦略を発表した。AzureにおけるOSSベースのビッグデータ分析や人工知能（AI）の利用を、企業のデジタル変革を提案する専任部隊の設置などで促進する。]]></description>
-			<pubDate>Mon, 20 Nov 2017 09:17:33 +0900</pubDate>
-		</item>
-		<item>
-			<title>Workdayがプラットフォームを開放へ、独自アプリの開発が可能に（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112000440/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米クラウドサービスWorkdayのAneel Bhusri最高経営責任者（CEO）は、2005年の創業から今日まで、「Workdayはいつプラットフォームを開放するのか？」という質問を顧客企業から絶えず受けてきたと、2017年7月の公式ブログ記事で述べていた。そしてこのたび、その時期が2018年であることが明らかになった。プラットフォームの開放は「2005年の創業以来最も重要な動きの1つ」だと同氏は言う。
-</p>
-<h4>
-Workday Cloud Platformとは
-</h4>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112000440/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: IDG</div>
-</div>
-<p>
-　これまでSaaS企業として進んできた同社は、「Workday Cloud Platform」でPaaSに参入する。このプラットフォームでは、同社が提供するAPIを使ってカスタムアプリや拡張機能を開発し、Workdayのアプリケーション（人財管理、財務、プランニング）やその基盤のデータモデルと連携できる。
-</p>
-<p>
-　スペインのバルセロナで現地時間2017年11月14～16日に同社が開催したイベント「Workday Rising」の中で、チーフ・テクノロジー・アーキテクトのJon Ruggiero氏は、Workdayのクラウド上で業務アプリケーションの設計、構築、管理を行うための手段を顧客企業に提供することが狙いだと説明した。
-</p>
-<p>
-　このプラットフォーム上で構築するすべてのアプリは、Workdayの構成可能なセキュリティで保護されており、ツールチェーンの依存関係がない。すべてのデータは顧客に属し、データ使用料金も発生しない。
-</p>
-<p>
-　正式リリース後は、開発者向けの新サイト「cloud.workday.com」を通じて、オープンなRESTful API、ドキュメント、参照用アプリを利用できる。このコミュニティサイトには、リソースやアプリを管理するための開発者用コンソールや、APIの探索ツールもある。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112000440/?ST=cm-cloud&P=2">高度な機能を利用した開発も可能だ。Workdayは、機械学習のア...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112000440/?ST=cm-cloud&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112000440/?ST=cm-cloud&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112000440/?ST=cm-cloud&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112000440/?ST=cm-cloud&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 20 Nov 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Genpact Japanがデジタルトランスフォーメーション支援、RPAに「頭脳」持たす（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/111902695/</link>
 			<description><![CDATA[　Genpact Japanは企業のデジタルトランスフォーメーションを支援するAI基盤の提供を予定している。]]></description>
@@ -293,6 +242,18 @@ Workday Cloud Platformとは
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/112102709/</link>
 			<description><![CDATA[　カナダのブラックベリーは2017年11月21日、自動車などの装置に向けたソフトウエアソリューションである「BlackBerry QNX」の説明会を開き、事業戦略などを紹介した。]]></description>
 			<pubDate>Tue, 21 Nov 2017 17:56:59 +0900</pubDate>
+		</item>
+		<item>
+			<title>日立のセキュリティ担当、WannaCry感染の反省を語る（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/112102710/</link>
+			<description><![CDATA[　一般社団法人サイバーリスク情報センターは2017年11月21日、産業横断サイバーセキュリティ人材育成検討会の第2回懇談会を開催した。検討会の活動を紹介したほか、日立製作所、住友化学によるサイバーセキュリティへの取り組みを紹介する講演を実施した。]]></description>
+			<pubDate>Tue, 21 Nov 2017 19:49:27 +0900</pubDate>
+		</item>
+		<item>
+			<title>セールスフォースが協業向け情報基盤「Quip コラボレーションプラットフォーム」を発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/112102711/</link>
+			<description><![CDATA[　セールスフォース・ドットコムは2017年11月21日、企業における各種プロジェクトなどチーム作業の生産性を高める「Quip コラボレーションプラットフォーム」を提供開始すると発表した。]]></description>
+			<pubDate>Tue, 21 Nov 2017 19:54:49 +0900</pubDate>
 		</item>
 		<item>
 			<title>ジャストシステムの通信教育「スマイルゼミ」がプログラミング学習に対応へ（ニュース）</title>
