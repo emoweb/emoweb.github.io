@@ -320,5 +320,40 @@
 ]]></description>
 			<pubDate>Wed, 22 Nov 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>12月発売のiMac Pro、iPhone 7と同じA10チップを搭載か（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112200441/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Appleが12月に発売を予定している「iMac Pro」は、Macの中で圧倒的に最速のマシンになる。CPUはIntel Xeonで最大18コア、GPUはRadeon Vega、RAMは最大128Gバイトで、できないことはあまりないはずだ。ところが、Appleのコードの解析で知られる開発者のSteven Troughton-Smith氏が最近発見したところによると、このiMac Proには、「iPhone 7」が搭載しているのと同じ自社製チップ「A10 Fusion」が搭載されるようだ。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112200441/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Roman Loyola</div>
+</div>
+<p>
+　Troughton-Smith氏は、Appleの新しいソフトウエア「BridgeOS 2.0」を入手して解析した。おそらく、今度のiMac Proに搭載されるものと見られる。今年の夏に「HomePod」のファームウエアが公開された時は、「iPhone X」についての情報がいろいろと明らかになったが、今回のBridgeOSからは、そこまで多くの新情報は得られなかった。しかし、それでも非常に興味深い話がいくつか含まれている。その中でも特に重要なのが、A10 Fusionへの言及があることだ。
+</p>
+<p>
+　iPhoneを高みに引き上げている切り札の1つが、Appleが自ら設計したチップだ。そうなると、いつかMacBookも自前のチップで動かそうと同社が考えるのは必然に思える。実際、「iPhone 8」や同Xが搭載しているチップ「A11 Bionic」は、ワークロードによっては、最新の13インチの「MacBook Pro」に匹敵する速度をたたき出す。iMac ProにA10 Fusionチップが搭載されても、おそらく大半の人々はその存在を気にも留めないだろうが、これによりAppleは、x86プロセッサを使わないMacの開発に一歩近づくことになる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112200441/?ST=cm-hardware&P=2">自社製チップに転換か</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112200441/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112200441/?ST=cm-hardware&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112200441/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 22 Nov 2017 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
