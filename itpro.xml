@@ -77,41 +77,6 @@
 			<pubDate>Wed, 22 Nov 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>12月発売のiMac Pro、iPhone 7と同じA10チップを搭載か（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112200441/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Appleが12月に発売を予定している「iMac Pro」は、Macの中で圧倒的に最速のマシンになる。CPUはIntel Xeonで最大18コア、GPUはRadeon Vega、RAMは最大128Gバイトで、できないことはあまりないはずだ。ところが、Appleのコードの解析で知られる開発者のSteven Troughton-Smith氏が最近発見したところによると、このiMac Proには、「iPhone 7」が搭載しているのと同じ自社製チップ「A10 Fusion」が搭載されるようだ。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112200441/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Roman Loyola</div>
-</div>
-<p>
-　Troughton-Smith氏は、Appleの新しいソフトウエア「BridgeOS 2.0」を入手して解析した。おそらく、今度のiMac Proに搭載されるものと見られる。今年の夏に「HomePod」のファームウエアが公開された時は、「iPhone X」についての情報がいろいろと明らかになったが、今回のBridgeOSからは、そこまで多くの新情報は得られなかった。しかし、それでも非常に興味深い話がいくつか含まれている。その中でも特に重要なのが、A10 Fusionへの言及があることだ。
-</p>
-<p>
-　iPhoneを高みに引き上げている切り札の1つが、Appleが自ら設計したチップだ。そうなると、いつかMacBookも自前のチップで動かそうと同社が考えるのは必然に思える。実際、「iPhone 8」や同Xが搭載しているチップ「A11 Bionic」は、ワークロードによっては、最新の13インチの「MacBook Pro」に匹敵する速度をたたき出す。iMac ProにA10 Fusionチップが搭載されても、おそらく大半の人々はその存在を気にも留めないだろうが、これによりAppleは、x86プロセッサを使わないMacの開発に一歩近づくことになる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112200441/?ST=cm-hardware&P=2">自社製チップに転換か</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112200441/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112200441/?ST=cm-hardware&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112200441/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 22 Nov 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>東京空港交通、リムジンバス全401両で無料公衆無線LANサービスを12月に開始（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/112202715/</link>
 			<description><![CDATA[　東京空港交通とワイヤ・アンド・ワイヤレスは2017年11月21日、東京空港交通のリムジンバス全401両（路線バス364両と貸切バス37両）で12月1日から無料の公衆無線LANサービス「Limousine Bus Free WiFi」を開始すると発表した。]]></description>
@@ -322,6 +287,49 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 24 Nov 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IoTのセキュリティはネットワークから（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/112400381/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　エンタープライズIoTのセキュリティの実現においては、機器メーカーやネットワーク事業者から、ベンダー、ユーザー企業に至るまで、IoTに携わるすべての当事者が重要な役割を担っている——カンファレンス「Security of Things World USA 2017」でそのような話が出た。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/112400381/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　「すべてのIoTデバイスを理解する鍵は、デバイスがネットワーク化されていることにある」。現地時間2017年11月17日の基調講演で、米Palo Alto Networksのシニア・ビジネス・デベロップメント・マネージャー、Jamison Utter氏はこう述べる。「キッチンに置かれたトースターのような、単なる1つのモノではなく、ネットワークに参加する。そのことがビジネスに価値を還元する」
+</p>
+<p>
+　「メディアはコンシューマー分野に大きく注目する。記事を読んだりニュースを見たりするのは一般の人々だからだ。一方で、そのコンシューマー向けデバイスの製造工場が及ぼす影響のことは考えていない。その工場には1万や2万という数のロボットやセンサーがある。それらはすべてIoTであり、製造を支えている」
+</p>
+<p>
+　IoTにセキュリティの問題があることはよく知られている。Utter氏はそれを、Windows 95の例になぞらえる。Windows 95は悪名高いセキュリティ問題に苦しめられた。その大きな理由は、最初からセキュリティを考えた設計になっていなかったことだ。
+</p>
+<p>
+　「いま我々が手にしているのは、極めて単純化されたOSだ。それが、極めて単純化されたハードウエアで動く。セキュリティを考えた設計にはなっていない。Windows 95と同じだ」
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/112400381/?ST=cio-security&P=2">セキュリティは皆の責務</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/112400381/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/112400381/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/112400381/?ST=cio-security&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/112400381/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 24 Nov 2017 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
