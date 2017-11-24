@@ -5,13 +5,6 @@
 		<link>https://forest.watch.impress.co.jp</link>
 		<description>Windows用オンラインソフトの専門サイト。 関連ニュースも提供。</description>
 		<item>
-			<title>【マンガ】第31話 フリーランスのススメ（その19）～著作権を味方につけろ！（前編）～【ライフハックで行こう！ ―Think IT edition―】</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/5b5069fa340dd606e41b0cd16eb24420?ul=k_INw5akhYJI6K850xRiUeReDfuPPWum4.T53KHhZK140JJXLjFR6_lKyTls4X8B.5KqUcNM5D6EtGRXNJQTyR54Hv59ZYoFZpam.lA2_YjvctWgX</link>
-			<description><![CDATA[<p>ベルリン在住のイラストレーター（兼漫画家）、高田ゲンキが送るコミックエッセイ『ライフハックで行こう！』、Think ITにて好評連載中のコミックエッセイの第31話です！
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/5b5069fa340dd606e41b0cd16eb24420"/></p>]]></description>
-			<pubDate>Tue, 21 Nov 2017 08:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>超多機能ファイラー「As/R」v8.8.0.0が公開、DLLプリロード攻撃への対策を盛り込む／「Windows 10 Fall Creators Update」環境下で発生する不具合への対策も追加</title>
 			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/a38c9edbaeeb7fffe4d6dbc6d8f5e275?ul=1T4hc.BW6fc5z4DHA0IK1BVpDyfX6VlZV.OfYwIOY.wQV6MNZC.BzbUanqHlbDhnpWE90AfuBr9ACNECyBIjvBY.sWXi</link>
 			<description><![CDATA[<p>　ファイル管理ソフト「As/R」の最新版v8.8.0.0が、18日に公開された。本バージョンではDLLプリロード攻撃への対策が盛り込まれた。すべてのコマンドが対象になっており、“Windows Update”が適用されている環境のみ脆弱性対策モードに切り替わるという。
@@ -171,6 +164,13 @@
 			<description><![CDATA[<p>　Mozillaは23日（米国時間）、メールソフト「Thunderbird」の最新安定版v52.5.0を公開した。今回のアップデートでは、アメリカのケーブルTV・携帯電話サービス会社Charter（Spectrum）のIMAPサービスに対するサポートを強化しているという。
 <img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/58fa7e9043655ed4e6169036c7e4e861"/></p>]]></description>
 			<pubDate>Fri, 24 Nov 2017 10:14:13 +0900</pubDate>
+		</item>
+		<item>
+			<title>Intel製CPUに特権の昇格の脆弱性、公式チェックツールがWindows/Linux向けに公開／Windows版にはコマンドライン版に加えGUI版が提供される</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/c7cc2a4af2826fdf2fe70722047b6885?ul=sGFpsB1pccAGtdIU0loLV4mop9BKJHwHNxnkQHRb4oSJQBrR1cA95RqgmiPFwPkAuUOIK7jM2UuB2gpDXLdTzyYkVtUe</link>
+			<description><![CDATA[<p>　米Intel Corporationは、「Intel-SA-00086 Detection Tool」をWindows/Linux向けにリリースした。同社は20日（現地時間）、同社製CPUに特権の昇格の脆弱性（INTEL-SA-00086）が存在することを明らかにしているが（参考記事）、本ツールを利用すれば現在利用しているシステムがその影響を受けるかどうかを簡単にチェックすることができる。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/c7cc2a4af2826fdf2fe70722047b6885"/></p>]]></description>
+			<pubDate>Fri, 24 Nov 2017 11:31:26 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
