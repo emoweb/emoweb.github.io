@@ -5,20 +5,6 @@
 		<link>https://forest.watch.impress.co.jp</link>
 		<description>Windows用オンラインソフトの専門サイト。 関連ニュースも提供。</description>
 		<item>
-			<title>ソニーが提供する「Media Go」「Music Center for PC」のインストーラーに脆弱性／最悪の場合、インストーラーを実行している権限で任意のコードを実行される可能性</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/a55c9729eb4adcde0687cd65bfe3e7f2?ul=kEaSaHJcLMAE7YmLqD526USHgVltDDQRlGq8xYi88YfF22V6dKyHiWsQ2DE34rLWJEzXGElz9YlwP00.OITjZqiECKDj</link>
-			<description><![CDATA[<p>　脆弱性ポータルサイト“JVN”は21日、ソニーグループが提供するメディア管理ソフト「Media Go」および「Music Center for PC」のインストーラーに脆弱性が存在することを明らかにした。DLLを読み込む際の検索パスに問題があり、同一フォルダーに存在する特定のDLLを読み込んでしまう恐れがあるという。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/a55c9729eb4adcde0687cd65bfe3e7f2"/></p>]]></description>
-			<pubDate>Tue, 21 Nov 2017 15:09:30 +0900</pubDate>
-		</item>
-		<item>
-			<title>縦長の画像を見やすく表示「Twitter画像自動拡大フィルタ」 ～Chrome/Firefox両対応／画像を別タブで開くことも。オリジナル画像を原寸大で表示したい場合に役立つ【レビュー】</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/84ec002d7ebeda079015248f1727f65e?ul=nfrSk79jcVFjIB4BaH8QCUjNnZyfLPkKuOqC4b8vCT7RJQOUNcKT6Jo790KKsGaDANi_mwbrnFMTT3IN1pAPB8VTTYg2</link>
-			<description><![CDATA[<p>　「Twitter画像自動拡大フィルタ」は、“Twitter”のツイートに添付されている画像を見やすくする「Google Chrome」「Firefox」向け拡張機能。それぞれ“Chrome ウェブストア”“Firefox Add-ons”から無償でダウンロードできる。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/84ec002d7ebeda079015248f1727f65e"/></p>]]></description>
-			<pubDate>Wed, 22 Nov 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>一時ファイルや“ごみ箱”の中身を自動削除！　空き容量の監視人“ストレージ センサー”【いまさら聞けないWindows 10のTips】</title>
 			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/68e020e8a875577389a9ddacaf94663a?ul=eUi8PFJa0cskd7YRQ41.4lgdIAxW7.S6PeU0hHBLqDZERbXy2b0QQqp5lZw8.xfJrMREnQQYy1oz_GJXlIIpWMxTb67LzI_5X8Gba9UdiSQk_w3dA</link>
 			<description><![CDATA[<p>　度重なるアップデートによって、次第に使いやすさを向上させつつある「Windows 10」。普段、何気なく使っているかもしれませんが、いつのまにか追加された新機能や知らずに過ごしていた便利な機能、隠れた機能なども存在します。本連載では、そんな知っておくと便利なWindows 10のTipsを紹介します。
@@ -164,6 +150,13 @@
 			<description><![CDATA[<p>
 <img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/36a511f1ceaae6626dbdb2bc2b1d5c03"/></p>]]></description>
 			<pubDate>Fri, 24 Nov 2017 18:41:44 +0900</pubDate>
+		</item>
+		<item>
+			<title>爆破や炎も自由自在！　特撮効果を使ったビデオを「フォト」で作る【いまさら聞けないWindows 10のTips】</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/9e95a24910e977ed50fc62ae6da20d0d?ul=JW5a1dNKx6eOphJG64kC7T35GLL6t00I42PNRQlFZbUacaA9138VbnB44Hvr3DZtEPqrhxDS5.om3G4EWT_3VULiF1uqSfSVIpKq.cA50yAOEGQ2s</link>
+			<description><![CDATA[<p>　Windows 10に搭載されている「フォト」アプリは、写真の表示や編集をするためのアプリですが、実はビデオの編集機能も搭載しています（「Fall Creators Update」以降）。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/9e95a24910e977ed50fc62ae6da20d0d"/></p>]]></description>
+			<pubDate>Mon, 27 Nov 2017 06:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
