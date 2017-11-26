@@ -295,5 +295,42 @@
 			<description><![CDATA[　米国のITベンダーで、顧客サポートこそが最強の営業活動なのだという認識が広がっている。クラウドの普及によってITベンダーのビジネスが従来の「売り切り型」から「サブスクリプション（購読）型」へと変化したことが背景にある。それに伴いサポート部門の名称も変わり始めた。]]></description>
 			<pubDate>Mon, 27 Nov 2017 05:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>量子暗号は銀の弾丸にあらず（上）（量子暗号は銀の弾丸にあらず）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　量子暗号とは、量子力学の原理を利用して、意図した受信者以外には絶対に読まれないようにメッセージを暗号化するための手法だ。複数の状態を持つ量子の性質と、気づかれずに傍受することが不可能な性質を利用する。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　製陶技術を守ろうとしたアッシリア人や、「Enigma」で軍事機密を守ろうとしたドイツ人など、暗号化は太古の昔から今日まで使われてきた。だが現在、暗号化技術はかつてない脅威にさらされている。そこで、今後のデータ保護手段として量子暗号に希望を託している人々がいる。</p>
+
+<p>　従来の暗号化は、メッセージやファイルなど、2進数（0か1）のデータをある場所から別の場所へ送信する際に、対称鍵か非対称鍵を使って暗号化と復号を行う。AES（Advanced Encryption Standard）などの対称鍵暗号の場合は、暗号化と復号に同じ鍵を使う。RSAなどの非対称暗号の場合は、ペアの関係にある2つの鍵（公開鍵と秘密鍵）を使い、周知の公開鍵で暗号化したデータを、受信者のみが知る秘密鍵で復号する。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000001/?ST=cio-security&P=2">Diffie-Hellman、RSA、楕円曲線暗...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000001/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000001/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000001/?ST=cio-security&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000001/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 27 Nov 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>［特報］すかいらーく、100億円超投じ店舗運営システム全面刷新へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/112202722/</link>
+			<description><![CDATA[　すかいらーくが100億円強を投じて店舗運営の情報システムを全面刷新することが分かった。日経コンピュータの取材で同社谷真社長が明らかにした。2018年7月から来店客が使う注文システムや店員向けの食材発注・在庫管理システムなどを「ガスト」「バーミヤン」など約3000店で順次刷新する。]]></description>
+			<pubDate>Mon, 27 Nov 2017 06:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
