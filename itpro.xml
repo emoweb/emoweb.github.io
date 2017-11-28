@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>昨日、一番読まれた記事は：iPhone Xはどこが良くてどこが悪いか、1カ月使っての結論（戸田覚の読みごたえ重視の超辛口レビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/042700108/112400015/?d29</link>
+			<description><![CDATA[　「iPhone X」が登場し、そろそろ1カ月になる。これまでファーストインプレッションとしてのレビュー記事は何本か書いた。今回は、その決定版ということで、しばらく使い込んだからこそ分かったiPhone Xの良い点、悪い点を徹底的に紹介していく。]]></description>
+			<pubDate>Mon, 27 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>eスポーツ（Close Up Keyword）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/110900098/</link>
 			<description><![CDATA[　コンピューターゲームをスポーツの一種とする考え方。格闘ゲームやシューティングゲームを中心に世界的に広まりつつある。2022年開催のアジア競技大会で正式種目に採用され、スポーツとしての認知度も高まっている。]]></description>
@@ -289,6 +295,49 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/112701221/</link>
 			<description><![CDATA[　富士通が人工知能（AI）などを活用して、システム開発プロセスの改革に本腰を入れ始めた。AIなどを活用した業務支援ツール群「KIWare」を体系化し、2017年11月から現場のプロジェクトに本格適用を開始。開発の作業品質を高め、SEの働き方改革にもつなげる狙いだ。]]></description>
 			<pubDate>Wed, 29 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>量子暗号は銀の弾丸にあらず（中）（量子暗号は銀の弾丸にあらず）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　量子暗号とは、量子力学の原理を利用して、意図した受信者以外には絶対に読まれないようにメッセージを暗号化するための手法だ。複数の状態を持つ量子の性質と、気づかれずに傍受することが不可能な性質を利用する。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000001/" target="_blank">前回</a>から続く）</p>
+
+<h4>量子暗号は量子鍵配送</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　英サリー大学コンピューティング学部の客員教授、Alan Woodward氏は、量子暗号は誤解されていると話す。実際には量子鍵配送（QKD）という意味で使われていると同氏は言う。QKDは、情報理論的に安全な方法で鍵配送問題を解決する。QKDにおいて、ごく微細な量子スケールで送られる光子は、縦横の偏光を持ち得るが、「観測や測定を行うと、量子状態が乱される」。その基盤にあるのは、量子物理学の「量子複製不可能定理」だとWoodward氏は説明する。</p>
+
+<p>　「誤りの度合いを見ると、状態が乱されたことが分かるので、その伝達は信用しない」。こうして鍵が渡せたら、あとは対称鍵暗号に立ち返ることができる。つまりQKDの本質は公開鍵基盤（PKI）の代替だ。</p>
+
+<p>　QKDのポテンシャルは非常に大きいとBuchanan氏は言う。「現状では、エンドツーエンドの配送で通信を物理レベルで適切に保護していない。Wi-Fiのセキュリティは無線チャネルにのみ適用される。通信のセキュリティを維持するには、VPNやSSLを使った別のトンネリング手法を重ねることになる。量子暗号では、SSLやVPNを使わなくても、エンドツーエンドの接続全体を完全に保護できる」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000002/?ST=cio-security&P=2">QKDの用途</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000002/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000002/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000002/?ST=cio-security&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000002/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 29 Nov 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>カメラや翻訳にAIを活用、ファーウェイがMate 10 Proを国内発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/112802749/</link>
+			<description><![CDATA[　華為技術日本（ファーウェイ・ジャパン）は2017年11月28日、SIMロックフリースマートフォンの新製品2機種とタブレット1機種を発表。AIの演算処理に特化したプロセッサーを搭載する「Mate 10 Pro」などを披露した。]]></description>
+			<pubDate>Wed, 29 Nov 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
