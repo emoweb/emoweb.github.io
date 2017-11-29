@@ -11,40 +11,6 @@
 			<pubDate>Mon, 27 Nov 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>大規模開発に適した言語、TypeScriptとは何か（前）（大規模開発に適した言語、TypeScriptとは何か）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　TypeScriptは、JavaScriptの代替言語の1つだ。その生みの親は、Turbo PascalやC#の考案者でもあるAnders Hejlsberg氏。同氏が率いる形で米Microsoftが立ち上げた重要なプロジェクトは、すでに恩恵をもたらし、今後に向けて着実に前進している。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　21世紀にJavaScriptが主流のプログラミング言語の1つとして台頭したことについて、歴史家が回顧するとしたら、米国のDonald Rumsfeld元国防長官の言葉を引用することになるかもしれない。「戦争を始める時は現有戦力で向かう。あればいいのにと思う戦力ではない」という言葉だ。</p>
-
-<p>　ますます多くのプログラマが、JavaScriptという現有戦力で戦いに挑んでいる。だが、クライアントサイドとサーバーサイドの両方で、これまで以上に野心的な戦いに臨むための一軍を送り込んでいるはずなのに、気が付けばJavaScriptそのものと格闘している。</p>
-
-<p>　チームで大規模なプログラムを開発して、内部モジュールと外部ライブラリの複雑な連携を高度なツールで管理するような用途は、JavaScriptが元来意図していたものではない。こうしたチーム開発では、JavaやC#のような強い型付け言語が以前から好まれていたが、これらの言語の仮想マシンは、ブラウザに居場所を見つけられなかった。JavaScriptの代替言語や拡張言語が、至る所に存在するJavaScript仮想マシンをターゲットにすることは、当然の流れだった。</p>
-
-<p>　TypeScriptは、JavaScriptの代替言語の1つだ。その生みの親は、Turbo PascalやC#の考案者でもあるAnders Hejlsberg氏。同氏が率いる形で米Microsoftが立ち上げた重要なプロジェクトは、すでに恩恵をもたらし、今後に向けて着実に前進している。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000001/?ST=cm-software&P=2">TypeScriptの第一歩は簡単</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000001/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000001/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000001/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 28 Nov 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Salesforce、8～10月期決算の伸びの背景は業種別製品（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/112800382/</link>
 			<description><![CDATA[<div>
@@ -331,6 +297,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/112902757/</link>
 			<description><![CDATA[　米Amazon Web Services（AWS）は2017年11月28日（米国時間）、IaaS（Infrastructure as a Services）である「Amazon Web Services」に、ソフトウエアを載せない素の物理マシンのサービス「ベアメタルインスタンス」を追加すると発表した。ユーザーはOSやハイパーバイザー、コンテナ仮想化ソフトウエアなどを自由にインストールできる。]]></description>
 			<pubDate>Wed, 29 Nov 2017 16:11:54 +0900</pubDate>
+		</item>
+		<item>
+			<title>電通がRPA導入、2017年内に400業務を自動化へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/112902758/</link>
+			<description><![CDATA[　電通がRPAを導入して2017年末までに合計400件の業務を自動化することが、2017年11月29日までに分かった。2019年末までには約10倍となる2500件の自動化を目指す。]]></description>
+			<pubDate>Wed, 29 Nov 2017 19:22:38 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
