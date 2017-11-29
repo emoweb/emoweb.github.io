@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>昨日、一番読まれた記事は：iPhone Xはどこが良くてどこが悪いか、1カ月使っての結論（戸田覚の読みごたえ重視の超辛口レビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/042700108/112400015/?d30</link>
+			<description><![CDATA[　「iPhone X」が登場し、そろそろ1カ月になる。これまでファーストインプレッションとしてのレビュー記事は何本か書いた。今回は、その決定版ということで、しばらく使い込んだからこそ分かったiPhone Xの良い点、悪い点を徹底的に紹介していく。]]></description>
+			<pubDate>Mon, 27 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>6000億円で50社買収のNTTデータ、リストラせずに世界トップ5入りできるか（NTTデータ 常識破りの海外戦略）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110700495/110800001/</link>
 			<description><![CDATA[　「グローバルでトップ5を目指す」――。今期（2017年度）の売上高を2兆円と見込む、ITサービス分野で断トツの国内最大手であるNTTデータ。岩本敏男社長は2012年6月の社長就任以来、決算発表などの場で何度となく中長期的な目標をこう宣言してきた。]]></description>
@@ -315,6 +321,46 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/112800965/</link>
 			<description><![CDATA[　「南武線での求人広告の次は、六本木ヒルズだと思いました」。露骨な表現で話題を集めたトヨタ自動車の求人広告が場所を変えて復活した。注目したいのは、南武線の時からトヨタのエンジニア獲得戦略が変化したと考えられることだ。]]></description>
 			<pubDate>Thu, 30 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>大規模開発に適した言語、TypeScriptとは何か（後）（大規模開発に適した言語、TypeScriptとは何か）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　TypeScriptは、JavaScriptの代替言語の1つだ。その生みの親は、Turbo PascalやC#の考案者でもあるAnders Hejlsberg氏。同氏が率いる形で米Microsoftが立ち上げた重要なプロジェクトは、すでに恩恵をもたらし、今後に向けて着実に前進している。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000001/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　「型のオン／オフを切り替えるスイッチではなく、ダイヤルを手にしている」とHejlsberg氏は説明する。段階的に取り組みを進めることで、段階的に見返りが得られる。アノテーションを加えると、コードに対する開発者本人の判断力が高まるし、その判断を支えるツールの自動支援機能を強化できる。</p>
+
+<p>　また、可能であれば型を推論するようTypeScriptのコンパイラが試みることから得られる相乗効果もある。例えば、関数の戻り値が文字列だと指定した場合、コンパイラは、その関数の結果を保持する変数も文字列型だと判断できる。たとえその変数に文字列型のアノテーションを指定していなかったとしてもだ。後でその変数に数値を代入しようとすると、コンパイラが警告を出す。</p>
+
+<p>　筆者の場合は、最初にTypeScriptに取り組んだ時には、コードのプリミティブ型をすべてチェックしたうえで、プリミティブ型で構成されるJavaScriptのオブジェクトにならった簡単なクラスを作成してみた。こうした複数のメンバーを持つオブジェクトに型アノテーションを追加したところ、Visual Studioでそのメンバーがコード補完の対象となった。これらのオブジェクトをパラメータとして受け取ったり返したりする関数は、自己記述的かつ自己検査的になった。このコード認識もプログラム全体に反映される。JavaScriptでは、戻り値を変数に代入する時に、それが想定した型なのかどうかは自明ではない。こうした不確実性は、大きな混乱とエラーを生む。そういう状況は避けたいところだ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000002/?ST=cm-software&P=2">TypeScriptとテスト</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000002/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000002/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000002/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 30 Nov 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「ルートユーザを無効にする」と危険！macOSに管理者権限悪用の脆弱性（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/113002766/</link>
+			<description><![CDATA[　JPCERTコーディネーションセンター（JPCERT/CC）は2017年11月29日、米アップルが提供するPC向けOS「macOS High Sierra」に重大な脆弱性があるとして注意喚起を発した。管理者アカウントを悪用される可能性があるという。]]></description>
+			<pubDate>Thu, 30 Nov 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
