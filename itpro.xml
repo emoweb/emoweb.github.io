@@ -5,53 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Microsoft、ExcelとPowerPointの無料ビューワー提供を来春終了（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112900443/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftは、ExcelとPowerPointのファイル用の無料ビューワー「Excel Viewer」「PowerPoint Viewer」の提供を2018年4月で終了することを発表した。これらは、Officeアプリケーションの本体がなくてもファイルの内容を閲覧できるビューワーとして提供されていた。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112900443/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Blair Hanley Frank</div>
-</div>
-<p>
-　2017年11月16日の同社公式ブログ記事には次のように説明がある。「Excel Viewer、PowerPoint Viewer、PowerPoint Viewer 2007、Office互換機能パックは、2018年4月で廃止する。その時点から、ダウンロードができなくなり、セキュリティ更新プログラムも配信されなくなる」
-</p>
-<p>
-　同社は、Wordファイル用の無料ビューワー「Word Viewer」についても、今月（2017年11月）で廃止することを1年前に発表していた。だが、本記事を執筆している2017年11月27日現在では、Word Viewerは<a href="https://www.microsoft.com/ja-jp/download/details.aspx?id=4">ダウンロード可能</a>な状態にある。
-</p>
-<p>
-　これらのビューワーをインストールしていると、Office本体のアプリケーションがなくても、Wordの文書、Excelのスプレッドシート、PowerPointのプレゼンテーションを開いて、閲覧や印刷ができる。職場でできるだけ大勢による共同作業を可能にすることを狙いとしていた。
-</p>
-<p>
-　Microsoftがこれらのビューワーの原型をリリースしたのは20世紀の終わりだったが、Office 2007に相当するバージョンで開発は実質的に停止していた（ただし、脆弱性に対処するセキュリティパッチはその後も提供されていた）。そして、2010年に「Office Online」が登場し、さらにモバイル版のOfficeアプリもリリースされたことで、多くの人にとってビューワーは不要となった。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112900443/?ST=cm-software&P=2">廃止までの期間が短いことを考えると、利用者は別の選択肢を見つける...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112900443/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112900443/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/112900443/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 29 Nov 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AWSがメッセージングの「Amazon MQ」発表、OSS「ActiveMQ」のクラウド版（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/112902752/</link>
-			<description><![CDATA[　米Amazon Web Services（AWS）は2017年11月28日（米国時間）、分散システムを連携するメッセージングソフトウエアのクラウドサービス「Amazon MQ」を発表した。OSS（オープンソースソフトウエア）の「Apache ActiveMQ」をAWSが運用してクラウドのサービスとして提供する。]]></description>
-			<pubDate>Wed, 29 Nov 2017 10:58:20 +0900</pubDate>
-		</item>
-		<item>
 			<title>日本通信、ソフトバンク回線を活用した格安SIMの機能を拡充（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/112902753/</link>
 			<description><![CDATA[　日本通信は2017年11月29日、ソフトバンク回線を活用する格安SIMの機能を拡充した。高速通信の上限を15Gバイトに拡大し、5G～15Gバイトの範囲（1Gバイト単位）でユーザーが毎月の上限を自由に設定できるようにした。]]></description>
@@ -296,6 +249,18 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 30 Nov 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>コクヨ、持ち出し端末をタブレットからノートPCに切り替え（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/113002769/</link>
+			<description><![CDATA[　横河レンタ・リースは2017年11月30日、コクヨとコクヨグループにデータレスPCを実現するソフト「Flex Work Place Passage」を導入したと発表した。このソフトは、PCローカルに対するデータ読み書き処理を、すべてファイルサーバーにリダイレクトする。]]></description>
+			<pubDate>Thu, 30 Nov 2017 12:37:21 +0900</pubDate>
+		</item>
+		<item>
+			<title>ネットワーク障害の「静かな予兆」をAI検知、JCB系の日本カードネット（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/113002772/</link>
+			<description><![CDATA[　日本カードネットワーク（CARDNET）は2017年12月1日からAI（人工知能）によるネットワーク監視システムの試験運用を始めると発表した。4月に発生した大規模システム障害の再発防止策の一環。]]></description>
+			<pubDate>Thu, 30 Nov 2017 13:38:51 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
