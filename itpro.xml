@@ -11,49 +11,6 @@
 			<pubDate>Mon, 27 Nov 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>量子暗号は銀の弾丸にあらず（中）（量子暗号は銀の弾丸にあらず）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　量子暗号とは、量子力学の原理を利用して、意図した受信者以外には絶対に読まれないようにメッセージを暗号化するための手法だ。複数の状態を持つ量子の性質と、気づかれずに傍受することが不可能な性質を利用する。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000001/" target="_blank">前回</a>から続く）</p>
-
-<h4>量子暗号は量子鍵配送</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　英サリー大学コンピューティング学部の客員教授、Alan Woodward氏は、量子暗号は誤解されていると話す。実際には量子鍵配送（QKD）という意味で使われていると同氏は言う。QKDは、情報理論的に安全な方法で鍵配送問題を解決する。QKDにおいて、ごく微細な量子スケールで送られる光子は、縦横の偏光を持ち得るが、「観測や測定を行うと、量子状態が乱される」。その基盤にあるのは、量子物理学の「量子複製不可能定理」だとWoodward氏は説明する。</p>
-
-<p>　「誤りの度合いを見ると、状態が乱されたことが分かるので、その伝達は信用しない」。こうして鍵が渡せたら、あとは対称鍵暗号に立ち返ることができる。つまりQKDの本質は公開鍵基盤（PKI）の代替だ。</p>
-
-<p>　QKDのポテンシャルは非常に大きいとBuchanan氏は言う。「現状では、エンドツーエンドの配送で通信を物理レベルで適切に保護していない。Wi-Fiのセキュリティは無線チャネルにのみ適用される。通信のセキュリティを維持するには、VPNやSSLを使った別のトンネリング手法を重ねることになる。量子暗号では、SSLやVPNを使わなくても、エンドツーエンドの接続全体を完全に保護できる」</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000002/?ST=cio-security&P=2">QKDの用途</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000002/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000002/?ST=cio-security&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000002/?ST=cio-security&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000002/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 29 Nov 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>カメラや翻訳にAIを活用、ファーウェイがMate 10 Proを国内発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/112802749/</link>
-			<description><![CDATA[　華為技術日本（ファーウェイ・ジャパン）は2017年11月28日、SIMロックフリースマートフォンの新製品2機種とタブレット1機種を発表。AIの演算処理に特化したプロセッサーを搭載する「Mate 10 Pro」などを披露した。]]></description>
-			<pubDate>Wed, 29 Nov 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>VMware Cloud on AWSの機能が拡充、vMotionやAWS Direct Connectに対応（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/112902751/</link>
 			<description><![CDATA[　米VMwareと米Amazon Web Servicesは2017年11月28日（米国時間）、「VMware Cloud on AWS」の機能を強化し、仮想マシンを無停止で移動する「vMotion」やクラウドとオンプレミスを専用線で接続する「AWS Direct Connect」などに対応したと発表した。]]></description>
@@ -295,6 +252,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/113002767/</link>
 			<description><![CDATA[　アドバンスト・メディアは2017年11月29日、独自開発の音声認識・入力技術を活用し、営業日報や業務報告書を音声入力で作成できるソフトウエア「AmiVoice Ex7 Business」の発売を発表した。]]></description>
 			<pubDate>Thu, 30 Nov 2017 08:17:57 +0900</pubDate>
+		</item>
+		<item>
+			<title>macOSの脆弱性修正パッチ公開、説明は「なるべく早くインストール」だけ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/113002768/</link>
+			<description><![CDATA[　米アップルは2017年11月30日、OS「macOS High Sierra」の重大な脆弱性を修正するセキュリティパッチを公開した。同OSの「App Store」というアプリの「アップデート」からインストールできる。]]></description>
+			<pubDate>Thu, 30 Nov 2017 08:37:19 +0900</pubDate>
 		</item>
 		<item>
 			<title>小中学校で「MESH」や「Sphero」を活用した先進授業を公開（ITpro Report）</title>
