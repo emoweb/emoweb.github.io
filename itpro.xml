@@ -5,44 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>大規模開発に適した言語、TypeScriptとは何か（後）（大規模開発に適した言語、TypeScriptとは何か）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　TypeScriptは、JavaScriptの代替言語の1つだ。その生みの親は、Turbo PascalやC#の考案者でもあるAnders Hejlsberg氏。同氏が率いる形で米Microsoftが立ち上げた重要なプロジェクトは、すでに恩恵をもたらし、今後に向けて着実に前進している。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000001/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　「型のオン／オフを切り替えるスイッチではなく、ダイヤルを手にしている」とHejlsberg氏は説明する。段階的に取り組みを進めることで、段階的に見返りが得られる。アノテーションを加えると、コードに対する開発者本人の判断力が高まるし、その判断を支えるツールの自動支援機能を強化できる。</p>
-
-<p>　また、可能であれば型を推論するようTypeScriptのコンパイラが試みることから得られる相乗効果もある。例えば、関数の戻り値が文字列だと指定した場合、コンパイラは、その関数の結果を保持する変数も文字列型だと判断できる。たとえその変数に文字列型のアノテーションを指定していなかったとしてもだ。後でその変数に数値を代入しようとすると、コンパイラが警告を出す。</p>
-
-<p>　筆者の場合は、最初にTypeScriptに取り組んだ時には、コードのプリミティブ型をすべてチェックしたうえで、プリミティブ型で構成されるJavaScriptのオブジェクトにならった簡単なクラスを作成してみた。こうした複数のメンバーを持つオブジェクトに型アノテーションを追加したところ、Visual Studioでそのメンバーがコード補完の対象となった。これらのオブジェクトをパラメータとして受け取ったり返したりする関数は、自己記述的かつ自己検査的になった。このコード認識もプログラム全体に反映される。JavaScriptでは、戻り値を変数に代入する時に、それが想定した型なのかどうかは自明ではない。こうした不確実性は、大きな混乱とエラーを生む。そういう状況は避けたいところだ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000002/?ST=cm-software&P=2">TypeScriptとテスト</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000002/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000002/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000002/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000091/112000002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 30 Nov 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「ルートユーザを無効にする」と危険！macOSに管理者権限悪用の脆弱性（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/113002766/</link>
-			<description><![CDATA[　JPCERTコーディネーションセンター（JPCERT/CC）は2017年11月29日、米アップルが提供するPC向けOS「macOS High Sierra」に重大な脆弱性があるとして注意喚起を発した。管理者アカウントを悪用される可能性があるという。]]></description>
-			<pubDate>Thu, 30 Nov 2017 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：南武線の次は「六本木や外国人」、AI技術者の争奪戦が拡がる（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/112800965/?d01</link>
+			<description><![CDATA[　「南武線での求人広告の次は、六本木ヒルズだと思いました」。露骨な表現で話題を集めたトヨタ自動車の求人広告が場所を変えて復活した。注目したいのは、南武線の時からトヨタのエンジニア獲得戦略が変化したと考えられることだ。]]></description>
+			<pubDate>Thu, 30 Nov 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>営業日報作成時間を3分の1に、アドバンスト・メディアが音声入力ソフト（ニュース）</title>
@@ -261,6 +227,50 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/113000053/</link>
 			<description><![CDATA[　今回紹介するSIMフリースマートフォンは、ファーウェイ製の「honor 9」。同社が「HUAWEI」とは別にオンライン専用のブランドとして展開しているモデルだ。前モデルのhonor 8より1万円以上高い価格設定は妥当なのか。質感やカメラ、操作性の仕上がりを判断すべく1週間ほど使ってみた。]]></description>
 			<pubDate>Fri, 01 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>量子暗号は銀の弾丸にあらず（下）（量子暗号は銀の弾丸にあらず）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　量子暗号とは、量子力学の原理を利用して、意図した受信者以外には絶対に読まれないようにメッセージを暗号化するための手法だ。複数の状態を持つ量子の性質と、気づかれずに傍受することが不可能な性質を利用する。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000002/" target="_blank">前回</a>から続く）</p>
+
+<h4>現実的な問題と国の干渉</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000003/ph3.jpg" width="300" alt="" title=""></div></div>
+
+<p>　ただし、情報セキュリティにとって量子暗号は必ずしも銀の弾丸ではない。Woodward氏が挙げるのは、ノイズが多い荒れた領域で誤り率が高まって信頼性が下がることや、QKDで必要な単一光子を発生する際の技術的な課題だ。また、光ファイバーベースのQKDは、伝送距離に限りがあることから、中継器が必要となり、その部分が弱点になる。</p>
+
+<p>　Buchanan氏はインフラの問題も指摘する。ブロードバンドの光ファイバーがエンドツーエンドで必要となる点だ。「エンドツーエンドの光ファイバーシステムが整うまで、まだ先は長い。通信チャネルのラストワンマイルは依然として銅線であることも多い。加えて、ハイブリッド通信システムを相互接続することから、エンドツーエンドの接続で物理的な通信チャネルを保護できない」</p>
+
+<p>　そのほか最近では、ベルの定理に関するセキュリティ問題を発見した研究者もいる。また、政府の関与も油断ならない。結局のところ、現代の政治家は暗号化を理解しておらず、政府機関はエンドツーエンドの暗号化を破ることをもくろみ、大手IT企業のバックドアを好んでいる。</p>
+
+<p>　そう考えると、英国の国立サイバーセキュリティセンターが、最近のレポートでQKDについて次のように否定的な結論を示しているのは、意外なことではないかもしれない。「QKDは実用上の根本的制約があり、セキュリティ問題の大部分に対処しておらず、また攻撃の可能性という面で十分に理解されていない。これとは対照的に、耐量子計算機暗号の公開鍵暗号は、現実の通信システムを未来の量子コンピュータの脅威から守るうえで、はるかに効果的な対策となるように思える」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000003/?ST=cio-security&P=2">暗号化の未来はハイブリッドか</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000003/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000003/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112000090/112000003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 01 Dec 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>JINSの会員制共用オフィスがオープン、参考にしたのは神社仏閣（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/113002780/</link>
+			<description><![CDATA[　眼鏡販売大手のジンズ（JINS）は2017年11月30日、12月1日にオープンする会員制共用オフィス「Think Lab」（シンクラボ）の内覧会を開催した。]]></description>
+			<pubDate>Fri, 01 Dec 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
