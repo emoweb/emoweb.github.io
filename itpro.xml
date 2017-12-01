@@ -5,18 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：南武線の次は「六本木や外国人」、AI技術者の争奪戦が拡がる（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/112800965/?d01</link>
-			<description><![CDATA[　「南武線での求人広告の次は、六本木ヒルズだと思いました」。露骨な表現で話題を集めたトヨタ自動車の求人広告が場所を変えて復活した。注目したいのは、南武線の時からトヨタのエンジニア獲得戦略が変化したと考えられることだ。]]></description>
-			<pubDate>Thu, 30 Nov 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>営業日報作成時間を3分の1に、アドバンスト・メディアが音声入力ソフト（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/113002767/</link>
-			<description><![CDATA[　アドバンスト・メディアは2017年11月29日、独自開発の音声認識・入力技術を活用し、営業日報や業務報告書を音声入力で作成できるソフトウエア「AmiVoice Ex7 Business」の発売を発表した。]]></description>
-			<pubDate>Thu, 30 Nov 2017 08:17:57 +0900</pubDate>
-		</item>
-		<item>
 			<title>macOSの脆弱性修正パッチ公開、説明は「なるべく早くインストール」だけ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/113002768/</link>
 			<description><![CDATA[　米アップルは2017年11月30日、OS「macOS High Sierra」の重大な脆弱性を修正するセキュリティパッチを公開した。同OSの「App Store」というアプリの「アップデート」からインストールできる。]]></description>
@@ -271,6 +259,44 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/113002780/</link>
 			<description><![CDATA[　眼鏡販売大手のジンズ（JINS）は2017年11月30日、12月1日にオープンする会員制共用オフィス「Think Lab」（シンクラボ）の内覧会を開催した。]]></description>
 			<pubDate>Fri, 01 Dec 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>SD-WANは2018年にメインストリームへ（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/120100444/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　SD-WAN（Software-Defined WAN）が業界に浸透しつつある。2017年は新技術という存在だったのが、2018年はメインストリームに移ろうとしている。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/120100444/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　米市場調査会社IDCの予測によると、SD-WAN関連の売上高は、2018年は23億ドルに達し、2021年には80億ドルを超える。年平均成長率は69％だ。同社のネットワーク担当アナリスト、Brad Casemore氏は次のように言う。「2017年は、SD-WANのアーリーアダプターが多く見られた。例えば2～3カ所の拠点に限定した導入だ。最近では、導入がかなり大規模化している。急上昇への転換点に達しつつあるのが分かる」
+</p>
+<p>
+　支社、支店、営業所などのブランチオフィスを持つ企業でSD-WANの導入が一般化するのに伴って、さらに大きな変化が起きそうだと専門家らは言う。
+</p>
+<p>
+　「SD-WAN 1.0から2.0の段階に移りつつある」。そう話すのは、米Doyle ResearchのLee Doyle氏だ。SD-WAN 1.0の主眼はハイブリッドWANだった。すなわち、MPLS接続やインターネット接続を集約化して、回線コストの削減とパフォーマンスの向上を目指すことだった。「SD-WAN 2.0の主眼は、マルチテナント、管理と監視の向上、そしてセキュリティの強化だ」。SD-WAN 2.0では、WANだけの範疇を越えて、ブランチオフィス全体のSoftware-Defined化に進むとDoyle氏は言う。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/120100444/?ST=cm-network&P=2">ブランチオフィスの変化</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/120100444/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/120100444/?ST=cm-network&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/120100444/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 01 Dec 2017 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
