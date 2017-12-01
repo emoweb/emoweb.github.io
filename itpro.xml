@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>macOSの脆弱性修正パッチ公開、説明は「なるべく早くインストール」だけ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/113002768/</link>
-			<description><![CDATA[　米アップルは2017年11月30日、OS「macOS High Sierra」の重大な脆弱性を修正するセキュリティパッチを公開した。同OSの「App Store」というアプリの「アップデート」からインストールできる。]]></description>
-			<pubDate>Thu, 30 Nov 2017 08:37:19 +0900</pubDate>
-		</item>
-		<item>
 			<title>小中学校で「MESH」や「Sphero」を活用した先進授業を公開（ITpro Report）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/112900287/</link>
 			<description><![CDATA[　日本教育工学協会（JAET）は2017年11月24日～25日、「第43回 全日本教育工学研究協議会全国大会 和歌山大会」を開催した。和歌山市内にある中学校と小学校で公開された授業をレポートする。]]></description>
@@ -297,6 +291,12 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 01 Dec 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AWSが「Alexa for Business」発表、オフィスで音声アシスタントが利用可能に（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120102781/</link>
+			<description><![CDATA[　米Amazon Web Services（AWS）は2017年11月30日（米国時間）、音声アシスタント「Alexa」をオフィスで利用するためのサービス「Alexa for Business」を発表した。Alexaを搭載するデバイスを一元管理したり、自社専用の「スキル」を開発してデプロイしたりできるようになる。]]></description>
+			<pubDate>Fri, 01 Dec 2017 11:25:10 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
