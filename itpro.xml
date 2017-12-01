@@ -5,56 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>小中学校で「MESH」や「Sphero」を活用した先進授業を公開（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/112900287/</link>
-			<description><![CDATA[　日本教育工学協会（JAET）は2017年11月24日～25日、「第43回 全日本教育工学研究協議会全国大会 和歌山大会」を開催した。和歌山市内にある中学校と小学校で公開された授業をレポートする。]]></description>
-			<pubDate>Thu, 30 Nov 2017 09:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>2018年のiPad、薄型ベゼルでFace IDとA11Xチップを搭載か（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/113000383/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　現在のタブレット市場は、「iPad」とその他大勢という構図だ。特に高価格帯の市場では米Appleが優位に立っている。その覇権を守るために、同社は絶えず新機軸を打ち出してきた。12.9インチの新型「iPad Pro」の発売や、「Apple Pencil」「ProMotion」といった新しいテクノロジーの投入などだ。
-</p>
-<p>
-　一方で、iPadの基本的なデザインは、ここ数年は大きな変化がなかった。しかし2018年は、久々にiPadのデザインが一新されて、がらりと変わるかもしれない。
-</p>
-<h4>
-新型iPadを巡る最新の噂
-</h4>
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/113000383/ph.jpg" width="300" alt="" title=""></div></div>
-<p>
-　最近のiPadが搭載しているAシリーズのチップは、その前年に登場したiPhoneのチップと同じアーキテクチャーの新型版となっている。例えば、「iPhone 7」と「iPhone 7 Plus」のチップ「A10」は、CPUが高性能コア2つと高効率コア2つ、GPUは6コア、RAMは最大3Gバイト。一方、翌年のiPad Proのチップ「A10X」は、CPUは同アーキテクチャーの高性能コアが3つと高効率コアが3つ、GPUは12コア、RAMは最大4Gバイトというスペックだ。
-</p>
-<p>
-　同様に、2018年に登場するiPadの上位モデルは、「iPhone 8」と「iPhone X」のチップ「A11 Bionic」を基にした「A11X」というチップを搭載するものと見られる。
-</p>
-<p>
-　中国のサイトMyDriversは、2017年11月14日の記事で、Appleのサプライチェーンの関係者から得た情報として、A11Xのスペックを報じている。それによると、A11XのCPUコアは、高性能コアが3つ（A11は2つ）、高効率コアが5つ（A11は4つ）。製造は台湾TSMCで、新しい7nmプロセス技術を採用するという。A11は、現時点で最先端の10nmプロセス技術で製造されている。
-</p>
-<p>
-　記事には説明はないが、もちろんRAMとGPUコアも増えるはずだ。そうでなければ逆に奇妙だ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/113000383/?ST=cio-consumerit&P=2">薄型ベゼルでFace IDを搭載するもOLEDは...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/113000383/?ST=cio-consumerit&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/113000383/?ST=cio-consumerit&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/113000383/?ST=cio-consumerit&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 30 Nov 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>コクヨ、持ち出し端末をタブレットからノートPCに切り替え（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/113002769/</link>
 			<description><![CDATA[　横河レンタ・リースは2017年11月30日、コクヨとコクヨグループにデータレスPCを実現するソフト「Flex Work Place Passage」を導入したと発表した。このソフトは、PCローカルに対するデータ読み書き処理を、すべてファイルサーバーにリダイレクトする。]]></description>
@@ -297,6 +247,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120102781/</link>
 			<description><![CDATA[　米Amazon Web Services（AWS）は2017年11月30日（米国時間）、音声アシスタント「Alexa」をオフィスで利用するためのサービス「Alexa for Business」を発表した。Alexaを搭載するデバイスを一元管理したり、自社専用の「スキル」を開発してデプロイしたりできるようになる。]]></description>
 			<pubDate>Fri, 01 Dec 2017 11:25:10 +0900</pubDate>
+		</item>
+		<item>
+			<title>MSがサポート終了の「Office 2007」にパッチを提供（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120102782/</link>
+			<description><![CDATA[　日本マイクロソフトは2017年11月中に2回、10月10日サポートが終了した「Office 2007」向けのパッチを公開した。パッチは、Microsoft Officeに付属する数式エディターの脆弱性に対する修正プログラムとなる]]></description>
+			<pubDate>Fri, 01 Dec 2017 12:29:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
