@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>コクヨ、持ち出し端末をタブレットからノートPCに切り替え（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/113002769/</link>
-			<description><![CDATA[　横河レンタ・リースは2017年11月30日、コクヨとコクヨグループにデータレスPCを実現するソフト「Flex Work Place Passage」を導入したと発表した。このソフトは、PCローカルに対するデータ読み書き処理を、すべてファイルサーバーにリダイレクトする。]]></description>
-			<pubDate>Thu, 30 Nov 2017 12:37:21 +0900</pubDate>
-		</item>
-		<item>
 			<title>AWS、KubernetesのマネージドサービスやAI関連の新サービス発表（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/113002771/</link>
 			<description><![CDATA[　米Amazon Web Services（AWS）は2017年11月29日（米国時間）、年次カンファレンス「AWS re:Invent」の基調講演を実施。コンテナやAI（人工知能）関連など、多数の新サービスを発表した。]]></description>
@@ -253,6 +247,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120102782/</link>
 			<description><![CDATA[　日本マイクロソフトは2017年11月中に2回、10月10日サポートが終了した「Office 2007」向けのパッチを公開した。パッチは、Microsoft Officeに付属する数式エディターの脆弱性に対する修正プログラムとなる]]></description>
 			<pubDate>Fri, 01 Dec 2017 12:29:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>FutureOneがERPデータのバックアップサービス、2020年までに1000社提供へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120102784/</link>
+			<description><![CDATA[　システム開発などを手掛けるFutureOneは2017年12月1日、ERP（統合基幹業務システム）のデータをクラウド上のストレージにバックアップするサービス「FutureOne CloudBackup」の提供を始めると発表した。地震などの災害時にシステムが保有するデータの消失を防ぐ。]]></description>
+			<pubDate>Fri, 01 Dec 2017 15:06:11 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
