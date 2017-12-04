@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>日本IBM、セキュリティ事業責任者にソフォス元社長の纐纈氏が就任（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120102785/</link>
-			<description><![CDATA[　日本IBMは2017年12月1日、執行役員IBMセキュリティー事業本部長に纐纈昌嗣氏が就任したと発表した。IBMのセキュリティ事業の責任者となる。]]></description>
-			<pubDate>Fri, 01 Dec 2017 16:08:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>楽天モバイルが140万回線突破の背景を説明、FREETEL事業承継も（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120102786/</link>
 			<description><![CDATA[　楽天は2017年12月1日、格安スマホ事業「楽天モバイル」の事業説明会を開催し、事業の最新状況やプラスワン・マーケティングから事業承継した「FREETEL」について説明した。]]></description>
@@ -264,6 +258,38 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110600485/110600002/</link>
 			<description><![CDATA[　スマートスピーカーやAIチャットボットなどを活用するシステムを一般に「対話システム」と呼ぶ。対話システムは、実は大きく二つのタイプに分かれる。「タスク指向対話」のシステムと「非タスク指向対話」のシステムである。]]></description>
 			<pubDate>Tue, 05 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ロシアのスパイがKasperskyのソフトを利用？一般ユーザーが取るべき策は（前）（ロシアのスパイがKasperskyのソフトを利用？一般ユーザーが取るべき策は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/112700093/112700001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　ロシアのモスクワに本社を置くKaspersky Labのウイルス対策製品が、ロシアのスパイ活動に使われたとの報道があった。ロシア政府が米国の情報機関の機密情報を盗み出す目的でKasperskyのソフトウエアを利用したという。世界中に4億人いるKaspersky製品のユーザーにとって、心穏やかではない知らせだ。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700093/112700001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　この件が再認識させてくれるのは、パソコンを守ってくれるものとして我々が信頼しているセキュリティ製品は、ある意味でフルアクセス権を持つということだ。米Rendition Infosecの創業者で社長のJake Williams氏は次のように言う。「クラウドベースのウイルス対策製品は、ファイルの削除や改変を行い得るし、その能力がある。新しいプロセスの起動や、既存のプロセスの終了が可能だ」</p>
+
+<p>　パソコンをハッキングされることはそれ自体が災難だ。ましてや、その際にウイルス対策ソフトが使われるとしたらまさに大惨事だ。「ウイルス対策製品をつかさどる者がユーザーのためを思っていないとしたら、間違いなく損害を与えることが可能だ。全体の様相を見るとそのことが明らかになる」とWilliams氏は言う。</p>
+
+<p>　Kasperskyのウイルス対策ソフトが牙をむくことは起こり得ると分かったところで、次なる疑問は、ユーザーに打てる手はあるのかどうかだ。セキュリティ専門家らの話から探っていこう。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700093/112700001/?ST=cm-software&P=2">Kasperskyとロシアの活動を巡る報道の経緯</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700093/112700001/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700093/112700001/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700093/112700001/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700093/112700001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 05 Dec 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
