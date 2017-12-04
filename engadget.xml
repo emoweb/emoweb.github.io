@@ -5,61 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Google MapがiPhone Xに最適化、画面を目一杯使えて視認性向上
-</title>
-			<link>http://japanese.engadget.com/2017/11/30/google-map-iphone-x/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/4e7fd761cc83966e58575693f9316361/205910183/img.png" />
-iOS版「Google Map」がiPhone Xの縦長解像度をサポートしました。App Storeから最新バージョンに更新することで利用できます。
-
-iPhone Xはアスペクト比2.16：1（縦：横）の縦長有機ELディスプレイを搭載しますが、これを目一杯利用するにはアプリ側の最適化が必要。最適化されていないアプリでは上下に黒帯が表示されてしまい、せっかくの大画面を活用することができません。
-
-今回、Google MapがiPhone Xに最適化されたことで、縦長のディスプレイを目一杯使って地図を表示可能に。上下に黒帯が表示されていた従来バージョンに比べて、視認性が格段に向上しています。
-
-なお、「Gmail」などは依然としてiPhone Xの解像度には対応していません。
- ]]></description>
-			<pubDate>Thu, 30 Nov 2017 23:15:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    Google、スマートカメラを自作する「Vision Kit」を発表。スマートスピーカーに続くAIYプロジェクト第2弾
-</title>
-			<link>http://japanese.engadget.com/2017/11/30/google-vision-kit-aiy-2/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/ca8b9142229141a472efc3740615d348/205910120/dims.jpg" />
-GoogleのAIYプロジェクトは、AIを手軽に利用できるようにしたMakerコミュニティ向けのプロジェクト。その第1弾製品、手作りのスマートスピーカーキットのAIY Voice Kitは、5月に公式Raspberry Piマガジンの付録として配布、11月から日本国内でも販売が開始されました。
-
- 
-Google、会話AIキットを雑誌付録で配布。Raspberry Piで何でも喋らせる「AIユアセルフ」キット
-
-AIスピーカー自作キット「AIY Projects Voice Kit」11月に3000円で国内販売、別途ラズパイが必要
-
-そのAIYプロジェクトの第2弾として、AIY Vision Kitが発表されました。スマートスピーカーの次は画像認識を行うスマートカメラです。
-
-Voice Kitと同様に段ボール製の外装を持つVision Kitの中身は、Raspberry Pi Zero W向けのアクセサリーボードであるVisionBonnet、アーケードスタイルのボタン、ピエゾスピーカー、マクロ・ワイドレンズ、ケーブル類や三脚用の金具など。
-
-Vision Kitの本体ともいえるVisionBonnetには、Intelの視覚処理装置（VPU） Movidius MA2450を搭載。毎秒30プレームで動作し、ほぼリアルタイムの画像処理が可能としています。
-
-
-
-なお、Vision Kitにはカメラそのものは含まれておらず、別途Raspberry Pi Camera V2のほか、Raspberry Pi Zero W、SDカード、電源アダプタが必要です。
-
-
-
-Vision Kitにはすぐに利用可能なよう、以下の3パターンのニューラルネットワークモデルも付属します。
-
-1000種類のオブジェクトを認識するMobileNetsに基づいたモデル
-顔を検出し、「悲しみ」から「笑い」に至る喜びの度合いを評価するモデル
-犬、猫、人を識別するモデル
-
-これらのモデルを使った画像認識は、ネットワークに接続することなく、デバイス上で処理が可能。また、独自モデルを製作するためのTensorFlowコードとコンパイラも付属します。
-
-実際のところ、Vision Kitを使い何ができるのかですが、そこは製作者のアイデア次第。Googleでは「ホットドックやそれ以外かを判別プログラム」「ドアの前を人が通ったら音楽を鳴らす」「犬が帰ってきたら、犬用のドアを開ける」などの例を挙げています。
-
-米国では、すでにMicro Centerで予約を開始しており、価格は44.99ドル（約5000円）。12月31日に発売予定です。残念ながら日本への発送には非対応。
-
-近いうちに、Voice Kit同様に日本での発売を期待したいところです。
- ]]></description>
-			<pubDate>Thu, 30 Nov 2017 23:30:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    米政府機関から「DJI製ドローンの機密スパイ行為」主張する書類。DJIは後にネット遮断モードを提供済み
 </title>
 			<link>http://japanese.engadget.com/2017/12/01/dji-dji/</link>
@@ -537,6 +482,29 @@ Neil Young + Promise of the Realの新作アルバム「The Visitors」を発表
 なお今回の申し立てにより「とりかえ〜る」「特別買取りサービス」「PREMIUM端末補償」「FREETEL Coin」の利用受け付けは停止するとのこと。その他サービス展開については、スポンサー候補であるMAYA SYSTEMなどとの協議の上、速やかに告知するとしています。
  ]]></description>
 			<pubDate>Mon, 04 Dec 2017 00:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    洗濯物たたみ機『ランドロイド』、発売延期は「苦手な衣類が見つかった」から。2018年度には発売したい
+</title>
+			<link>http://japanese.engadget.com/2017/12/04/2018/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/14e2d2a3f7b2abb5aef0afc782f096f4/205898902/IMG_1112.jpg" />
+
+2017年の出荷予定だった全自動衣類折りたたみ機「ランドロイド（laundroid）」ですが、その発売が"2018年度内"に延期されたのは9月のことでした。その理由について、開発元のセブンドリーマーズの阪根信一氏（代表取締役社長）が語りました。
+ ]]></description>
+			<pubDate>Mon, 04 Dec 2017 00:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Boseの電磁サスペンション技術「Project Sound」、自動車技術ベンチャーClearMotionが買収
+</title>
+			<link>http://japanese.engadget.com/2017/12/04/bose-project-sound-clearmotion/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/f9df4156e94ff396cb509ca504de3652/205893021/bose-clearmotion-project-sound.jpg" />
+音響メーカーのボーズ社は1980年代から、"プロジェクト・サウンド"というコードネームで、電磁力モーターを使用した自動車用サスペンションの開発に取り組んできた。各車輪に取り付けたモーターがサスペンションの可動域で緩衝の役目を果たし、オイルを使用したダンパーよりも素早く動くという技術だ。
+
+以前ご紹介した動画では、これを搭載する試験用車両が波打つ路面で安定したボディコントロールを見せ、障害物を飛び越えている様子も確認できる。だが、コスト、サイズ、複雑さ、重量などの懸念から、今までこれを採用した自動車メーカーはなかった。
+
+ところが先日、クリアモーションという会社がこの技術をボーズから買収したと発表。いずれプロジェクト・サウンドを搭載するクルマを路上で見ることができるようになるかもしれない。
+ ]]></description>
+			<pubDate>Mon, 04 Dec 2017 01:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
