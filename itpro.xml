@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>昨日、一番読まれた記事は：「遅くて使いものにならない」という光回線への声、定額制も限界か（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/110800954/?d06</link>
+			<description><![CDATA[　あまり話題になっていないが、インターネット接続事業者（プロバイダー）の提供する光回線サービスが「遅くて使いものにならない」という声が一部で出ている。「モバイル回線のほうがまだまし」とさえ言われるほどだ。]]></description>
+			<pubDate>Mon, 13 Nov 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>スキル（Close Up Keyword）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/112200099/</link>
 			<description><![CDATA[　米アマゾン・ドット・コムの音声アシスタント「Alexa」向けの拡張機能。サードパーティの参入で対応機能が増えている。米グーグルも同社の音声アシスタント向けに同様の拡張機能の仕組みを提供している]]></description>
@@ -300,6 +306,49 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/112700540/112900003/</link>
 			<description><![CDATA[　本特集ではここまで、CPUのマルチコア化の最新動向を紹介してきた。今回からは、マルチコアCPUのラインアップを見ていく。まずはインテルのCPU製品群だ。]]></description>
 			<pubDate>Wed, 06 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>クラウドへの移行でありがちな10の過ち（中）（クラウドへの移行でありがちな10の過ち）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/112700092/112700002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　クラウドに移行することで、企業として確実なメリットを手に入れ、損失や訴訟沙汰と無縁でいたいのであれば、ありがちな失策は避けたいところだ。今回の記事では、よくある失策を10個紹介する。
+</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700092/112700001/" target="_blank">前回</a>から続く）</p>
+
+<h4>4．クラウドサービス事業者がすべて対処してくれると思い込んでいる</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700092/112700002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　トップクラスのクラウドサービス事業者を利用する企業は、大企業であれ中小企業であれ、Fortune 50クラスの企業のITスタッフに匹敵するオペレーション能力を手にすることになる。そう話すのは、Cloud Security Alliance（CSA）のTop Threats Working Groupで共同委員長を務めているコンサルタントのJon-Michael C. Brook氏だ。</p>
+
+<p>　だが、責任共有モデルの考え方では、クラウド事業者が責任を負うのは、事業者が自ら制御できる部分のみで、主にサービスインフラの構成要素だ。展開、保守、セキュリティ対策の適用など、ユーザー企業が実行および管理するタスクは多くある。</p>
+
+<p>　「事前に時間をとって、利用するクラウドのベストプラクティス集に目を通し、クラウドのデザインパターンを守り、自分たちが負う任務を理解することだ。クラウドサービス事業者が何から何まで面倒を見てくれると思い込んではいけない」とBrook氏は助言している。</p>
+
+<h4>5．クラウドへの移行方式は「リフト＆シフト」で決まりだと思っている。</h4>
+
+<p>　戦略やアーキテクチャーに関する選択を誤ると、コストを抑えられるというクラウドのメリットはすぐに消える恐れがある。既存の社内システムを仮想化したイメージをクラウドサービス事業者のインフラにそのまま上げる「リフト＆シフト」方式は、管理が比較的ラクだが、長期的に見ると費用対効果やリスクの面で難があるかもしれない。</p>
+
+<p>　「リフト＆シフト方式は、スケールアップやスケールダウンをオンデマンドで行える柔軟なスケーラビリティを無視している。全体の中には、そっくりそのまま移行することが適しているシステムもあるかもしれないが、エンタープライズアーキテクチャーをクラウドサービス事業者に丸ごと上げるのは、費用がかさんで効率も悪い。クラウド向けにアーキテクチャーを再設計する時間を事前に投じれば、大きな恩恵が得られる」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700092/112700002/?ST=cio-cloud&P=2">6．サービスのパフォーマンスを監視していない</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700092/112700002/?ST=cio-cloud&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700092/112700002/?ST=cio-cloud&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700092/112700002/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 06 Dec 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
