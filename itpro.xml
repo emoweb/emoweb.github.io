@@ -5,42 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>iPhoneが12月2日以降に突然再起動する不具合、iOS 11.2で修正（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/120500384/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　iPhoneユーザーにとっては、まるでY2K問題の再来だ。2017年12月2日の午前0時を過ぎたとたん、iPhoneが原因不明の再起動やクラッシュを繰り返すという現象が、数多く発生した。この現象は、「iOS 11.1.2」をインストール済みのデバイスで発生する。なお、問題を修正するアップデートも既に提供されている。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/120500384/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: IDG</div>
-</div>
-<p>
-　このバグは、iOSのローカル通知の機能に関係している。ローカル通知とは、端末上で行われる通知で、米Appleのプッシュ通知サービスを使うリモート通知とは別だ。ローカル通知を使うアプリとリモート通知を使うアプリを見分けるのは簡単ではないが、例えば瞑想アプリ「Headspace」は、リラックスや呼吸についてのリマインダーにローカル通知を使っている。今回のバグは、ローカル通知を使っているアプリのどれもが再起動の原因となり得る。
-</p>
-<p>
-　この事態を受けてAppleは、iOSのメジャーアップデートである「iOS 11.2」を深夜にリリースした。今回のバグ修正に加え、個人間送金機能「Apple Pay Cash」や、「iPhone 8」と「iPhone X」の高速ワイヤレス充電に対応したほか、さまざまな不具合の修正やビジュアル面の変更が加わっている。「iOS 11.2 beta 6」のリリースはその前日で、「同beta 5」から数日しかたっていなかった。おそらくAppleは、今回のバグを受けて、iOS 11.2のリリースを早めたものと推測される。iOSのメジャーアップデートを土曜の未明にリリースすることは通常はないからだ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/120500384/?ST=cio-appli&P=2">12月2日に目覚めたらiPhoneがクラッシュし...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/120500384/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/120500384/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/120500384/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 05 Dec 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>PEZY社長がNEDO助成金詐欺で逮捕の報道、独自プロセッサ開発で支援受ける（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120502792/</link>
 			<description><![CDATA[　スパコン開発ベンチャーPEZY Computingの齊藤元章社長ら2人を、経済産業省が管轄する新エネルギー・産業技術総合開発機構（NEDO）の助成金約4億円を不正に受給したとして東京地検特捜部が逮捕したと、複数の報道機関が報じた。]]></description>
@@ -323,6 +287,12 @@ Groovy 3.0に搭載予定の新機能
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120602805/</link>
 			<description><![CDATA[　「セキュリティリスクの管理策は多岐にわたる。関係者全員が役割を分担して有機的に動くためには全体像を共有して優先順位を付けながら取り組む必要がある」。三菱UFJフィナンシャル・グループ（MUFG）の大日向隆之サイバーセキュリティ推進室長は2017年12月6日、都内で開催された「第3回 情報セキュリティマネジメントSummit」（主催：日経コンピュータ）でこう語った。]]></description>
 			<pubDate>Wed, 06 Dec 2017 13:08:27 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本通信がiPad用データ通信SIMを発表、月額190円から（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120602806/</link>
+			<description><![CDATA[　日本通信は2017年12月6日、月額料金が190円からのiPad用データ通信サービス「b-mobile S 190 Pad SIM」を発表した。12月8日に提供を始める。]]></description>
+			<pubDate>Wed, 06 Dec 2017 14:50:41 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
