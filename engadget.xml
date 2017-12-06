@@ -5,18 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    iOS 11の「マップ」はVRツアーに対応！　世界の都市をiPhoneひとつで散策しよう:iPhone Tips
-</title>
-			<link>http://japanese.engadget.com/2017/12/03/ios-11-vr-iphone-iphone-tips/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/9c24b8563c59c015f1c66b4c9f235466/205899021/main.jpg" />
-iPhoneの「マップ」アプリには、航空写真を3D表示する「Flyover」という機能が搭載されています。iOS 11ではこの機能が大幅に進化。iPhone 6s以降の機種では、自分の動きに合わせて景色が拡大していく機能や、表示した都市の主要スポットをツアー感覚で巡れるVR機能も搭載しています。
-
-目的地までの経路を調べるだけでなく、その土地を"楽しむ"ツールとして「マップ」を使ってみませんか？
-<p><a href="http://japanese.engadget.com/gallery/vr-7/" title="「マップ」でVR体験を楽しもう">【ギャラリー】「マップ」でVR体験を楽しもう (5枚)</a></p>
- ]]></description>
-			<pubDate>Sun, 03 Dec 2017 16:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    Panasonicのスピーカーがなんだかお値段以上ですごい : 情熱のミーム 清水亮
 </title>
 			<link>http://japanese.engadget.com/2017/12/03/panasonic/</link>
@@ -633,6 +621,45 @@ SFシリーズ「スタートレック」の新作映画に、クエンティン
 ▲Snapdragon 845
  ]]></description>
 			<pubDate>Tue, 05 Dec 2017 16:15:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    サクサク感は？ Windows 10なのにスマホCPUで「常識外れの電池持ち」HP ENVY x2インプレ
+</title>
+			<link>http://japanese.engadget.com/2017/12/05/windows-10-835-hp-envy-x2/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/d491a34072a70fcfdeca68097bc00870/205924103/DSC09813.jpg" />
+ハワイで開催中のQualcomm Snapdragon Tech Summitより。クアルコムは、スマホ用SoCのSnapdragon 835をWindows 10 PCに転用することで、丸1日を超える連続駆動時間、そして1Gbpsクラスのセルラー接続を実現する「Always Connected PC」を猛アピールしています。
+
+スマホ用SoCを搭載したPCの使い勝手は実際どうなのか、会場にて実機を触る機会がありましたのでレポートします。
+
+
+▲Snapdrgaon 835を搭載したHP ENVY x2
+
+こちらが「HP ENVY x2」です。12.3インチ 1920 x 1200解像度のタッチ液晶を搭載した2 in 1で、Surfaceシリーズのようにキーボードを外してタブレットとしても利用可能。キーボードカバーはスタンドを兼ねており、傾きを110〜150度の範囲で無段階に調整できます。
+
+最大の特徴は、チップセットに「Snapdragon 835」を搭載する点。ARMベースのSoCではありますが、x86エミュレーションでWindows 10 SまたはWindows 10 Proがフルに動作します。なお出荷時OSはWindows 10 Sですが、10 Proにもアップグレード可能。同SoCを採用したことにより、バッテリー連続駆動時間は20時間（動画再生）と、丸2日持つ電池持ちを売りにします。RAMは8GB。
+
+
+▲キーボードを外せばタブレットとしても使える
+
+
+▲本体は6.9mmとiPhone 8よりも薄い
+
+▲1GbpsまでのLTE接続に対応する
+
+Snapdragonで動いているとは思えないサクサク感
+
+さて、ここで気になるのが動作速度です。Snapdragon 835はハイエンドのAndroidスマートフォン向けSoCとはいえ、所詮はスマホ向け。同SoCでフルWindows 10を、しかもエミュレーションで動かしていると聞くと、どうしてもサクサク動くかなどのパフォーマンスが心配になります。
+
+
+▲Snapdragon 835を8コアとして認識
+
+結論から言うと、PowerPointやWord、Excel、ウェブブラウザなどの試用においては、Snapdragon 835とは信じられないほど機敏に動作。アプリの起動・終了もサクサクでした。一般的にロースペックのPCにありがちなもっさり感を微塵も感じません。（会場ではベンチマークが禁止されていたのは残念なところ）
+
+なお搭載OSはWindows 10 Sだったので、これがWindows 10 Proだったり、ヘビーなアプリ、例えばPhotospohopなどではどうなのか気になる所ではありますが、一般的なライトユーザーの利用では動作速度に問題なさそう。むしろ、これほど快適に動くWindows 10マシンで20時間超の連続駆動時間が実現できているとなると、PCの電池持ちに対する常識が変わりそうです。
+
+なお「HP ENVY x2」は2018年春に発売予定。日本での発売予定は明かされていません。
+ ]]></description>
+			<pubDate>Tue, 05 Dec 2017 21:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
