@@ -259,6 +259,12 @@ Groovy 3.0に搭載予定の新機能
 			<pubDate>Wed, 06 Dec 2017 19:58:58 +0900</pubDate>
 		</item>
 		<item>
+			<title>「2017年は“普通の企業”のAWS活用が進んだ」、E-JAWS友岡会長（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120602814/</link>
+			<description><![CDATA[　パブリッククラウド「Amazon Web Services（AWS）」の日本におけるユーザー団体であるE-JAWS（Enterprise-Japan AWS user group、イージョーズ）は2017年12月6日、メディア向けの活動報告会を開催した。]]></description>
+			<pubDate>Wed, 06 Dec 2017 20:55:29 +0900</pubDate>
+		</item>
+		<item>
 			<title>毎月1億人が利用する謎の写真SNS、女子中高生の間で人気沸騰中（ITpro Report）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/120400289/</link>
 			<description><![CDATA[　カルチュア・コンビニエンス・クラブ（CCC）の子会社が、「PicsArt」を開発する米ピクスアートへの出資を検討していることが明らかになった。PicsArtは国内ではほとんど知られていないが、実は月間1億人超が利用するSNSだ。]]></description>
@@ -350,6 +356,46 @@ Groovy 3.0に搭載予定の新機能
 </div>
 ]]></description>
 			<pubDate>Thu, 07 Dec 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>VMware、NSX-T 2.1を発表、クラウドとコンテナに照準（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/120700385/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米VMwareは現地時間2017年12月5日、ネットワーク仮想化製品「NSX-T」のバージョン2.1をリリースした。クラウドネイティブのアプリケーションやコンテナベースのアプリケーションで求められるネットワーク要件への対応強化を目指している。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/120700385/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: StockSnap</div>
+</div>
+<p>
+　ネットワーク製品のベンダーは、従来のデータセンターやキャンパスネットワークのみならず、アプリケーション開発のペースが速いクラウド環境での運用にもますます適応できるよう、自動化のためのツールを進化させつつある。今回の動きはその最新の事例だ。
+</p>
+<p>
+　SDN（Software Defined Networking）を実現するVMwareのネットワーク仮想化製品には、「NSX」と「NSX-T」の2種類がある。このうち、広く導入されているのはNSXで、仮想化ソフトウエアスイート「VMware vSphere」や、広範に使われているハイパーバイザー「ESXi」に対応している。
+</p>
+<p>
+　もう一方のNSX-Tは、2016年に発表された。「KVM（Kernel-based Virtual Machine）」など、ESXi以外のハイパーバイザーをサポートし、パブリッククラウドやプライベートクラウド環境での利用を念頭に置いている。その後、コンテナのネットワーキングにも対応した。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/120700385/?ST=cio-cloud&P=2">そしてVMwareは今週、米PivotalSof...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/120700385/?ST=cio-cloud&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/120700385/?ST=cio-cloud&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/120700385/?ST=cio-cloud&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/120700385/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 07 Dec 2017 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
