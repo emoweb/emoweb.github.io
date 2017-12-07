@@ -11,127 +11,6 @@
 			<pubDate>Wed, 06 Dec 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>クラウドへの移行でありがちな10の過ち（中）（クラウドへの移行でありがちな10の過ち）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/112700092/112700002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　クラウドに移行することで、企業として確実なメリットを手に入れ、損失や訴訟沙汰と無縁でいたいのであれば、ありがちな失策は避けたいところだ。今回の記事では、よくある失策を10個紹介する。
-</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700092/112700001/" target="_blank">前回</a>から続く）</p>
-
-<h4>4．クラウドサービス事業者がすべて対処してくれると思い込んでいる</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700092/112700002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　トップクラスのクラウドサービス事業者を利用する企業は、大企業であれ中小企業であれ、Fortune 50クラスの企業のITスタッフに匹敵するオペレーション能力を手にすることになる。そう話すのは、Cloud Security Alliance（CSA）のTop Threats Working Groupで共同委員長を務めているコンサルタントのJon-Michael C. Brook氏だ。</p>
-
-<p>　だが、責任共有モデルの考え方では、クラウド事業者が責任を負うのは、事業者が自ら制御できる部分のみで、主にサービスインフラの構成要素だ。展開、保守、セキュリティ対策の適用など、ユーザー企業が実行および管理するタスクは多くある。</p>
-
-<p>　「事前に時間をとって、利用するクラウドのベストプラクティス集に目を通し、クラウドのデザインパターンを守り、自分たちが負う任務を理解することだ。クラウドサービス事業者が何から何まで面倒を見てくれると思い込んではいけない」とBrook氏は助言している。</p>
-
-<h4>5．クラウドへの移行方式は「リフト＆シフト」で決まりだと思っている。</h4>
-
-<p>　戦略やアーキテクチャーに関する選択を誤ると、コストを抑えられるというクラウドのメリットはすぐに消える恐れがある。既存の社内システムを仮想化したイメージをクラウドサービス事業者のインフラにそのまま上げる「リフト＆シフト」方式は、管理が比較的ラクだが、長期的に見ると費用対効果やリスクの面で難があるかもしれない。</p>
-
-<p>　「リフト＆シフト方式は、スケールアップやスケールダウンをオンデマンドで行える柔軟なスケーラビリティを無視している。全体の中には、そっくりそのまま移行することが適しているシステムもあるかもしれないが、エンタープライズアーキテクチャーをクラウドサービス事業者に丸ごと上げるのは、費用がかさんで効率も悪い。クラウド向けにアーキテクチャーを再設計する時間を事前に投じれば、大きな恩恵が得られる」</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700092/112700002/?ST=cio-cloud&P=2">6．サービスのパフォーマンスを監視していない</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700092/112700002/?ST=cio-cloud&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700092/112700002/?ST=cio-cloud&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700092/112700002/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 06 Dec 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ジャストシステムが新製品発表会、新ATOKは深層学習で入力ミスを自動修復（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120602803/</link>
-			<description><![CDATA[　ジャストシステムは2017年12月5日、都内で新製品発表会を開催し、日本語ワープロソフト「一太郎2018」や日本語入力システム「ATOK」の最新バージョンを発表した。一太郎2018は2018年2月9日に発売する。]]></description>
-			<pubDate>Wed, 06 Dec 2017 10:06:03 +0900</pubDate>
-		</item>
-		<item>
-			<title>JVM上で動く動的言語Groovy、2018年のロードマップは（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/120600446/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　Java仮想マシン（JVM）上で動く古参言語「Groovy」のロードマップでは、Java 8のラムダ式やJava 9のモジュール機能への対応など、いくつかの機能強化が予定されている。Groovyは、Javaと密接なつながりがある言語ながら、コンパイル時の変換やマクロの記述など、追加的な機能を備えている。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/120600446/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Garry Knight</div>
-</div>
-<p>
-　Groovyの開発を管理する米Apache Software Foundationは、2018年に次のような形でGroovyのアップグレードを予定している。
-</p>
-<ul>
-<li>バージョン2.5：Java 7以降用として2018年初めに登場予定。
-</li>
-<li>バージョン2.6と3.0：両者とも、あと1年ほどで登場する予定で、現在はアルファ版。バージョン2.6はJava 7用、バージョン3.0はJava 8／9用で、どちらも同じような機能を持つ。
-</li>
-</ul>
-<h4>
-Groovy 3.0に搭載予定の新機能
-</h4>
-<p>
-　Groovy 3.0では、次のような新機能や強化が予定されている。
-</p>
-<ul>
-<li>Java 8のラムダ式とメソッド参照をサポート。
-</li>
-<li>Java 9のJVMで実行でき、サポート外の可能性がある機能の警告が出ない。
-</li>
-<li>JVM上でGroovyをモジュールとして呼び出し可能。モジュールに対応していない従来のクラスパスではなく、Java 9のモジュールパスを使う。この機能のサポートのレベルはまだ結論に至っていない。
-</li>
-<li>これまでより柔軟な新しいパーサー「Parrot」を搭載。このパーサーが新たな構文や言語機能をサポート。
-</li>
-<li>繰り返し処理を記述する際に、Javaの標準的なスタイルのdo／whileループをサポート。
-</li>
-<li>マクロ機能により、コンパイル時の変換を実装するための選択肢が拡大。
-</li>
-<li>Javaスタイルの配列初期化に対応。
-</li>
-<li>同一性比較のための演算子など、新しい演算子を追加。
-
-<p>
-　Java 7用のGroovy 2.6も、同じような機能を搭載する予定だ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/120600446/?ST=cm-software&P=2">Groovy 2.5に搭載予定の新機能</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/120600446/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/120600446/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/120600446/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</li>
-</ul>
-</div>
-]]></description>
-			<pubDate>Wed, 06 Dec 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>クアルコムが常時接続PCを紹介、Snapdragon搭載のモバイルPC新製品も発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120602804/</link>
-			<description><![CDATA[　米クアルコムは米国ハワイで開催中のイベント「Snapdragon Tech Summit」で、常時接続PC（Always Connected PC）に関する取り組みを説明した。]]></description>
-			<pubDate>Wed, 06 Dec 2017 11:28:21 +0900</pubDate>
-		</item>
-		<item>
 			<title>「全体像を共有し優先順位付けを」、MUFGが明かすセキュリティ管理の勘所（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120602805/</link>
 			<description><![CDATA[　「セキュリティリスクの管理策は多岐にわたる。関係者全員が役割を分担して有機的に動くためには全体像を共有して優先順位を付けながら取り組む必要がある」。三菱UFJフィナンシャル・グループ（MUFG）の大日向隆之サイバーセキュリティ推進室長は2017年12月6日、都内で開催された「第3回 情報セキュリティマネジメントSummit」（主催：日経コンピュータ）でこう語った。]]></description>
@@ -365,6 +244,30 @@ Groovy 3.0に搭載予定の新機能
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120702822/</link>
 			<description><![CDATA[　東京証券取引所におけるシャープ株式の上場市場が2017年12月7日、2部から1部に指定替えされ、同日午前に記念セレモニーが開催された。同社は2016年3月期に債務超過に陥り、同年8月に1部から2部へ指定替えされており、1年4カ月ぶりの1部復帰となった。]]></description>
 			<pubDate>Thu, 07 Dec 2017 16:18:43 +0900</pubDate>
+		</item>
+		<item>
+			<title>CS利用の高高度無人航空機の通信実験、地上通信不可でもドローン飛行実現へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120702823/</link>
+			<description><![CDATA[　新エネルギー・産業技術総合開発機構（NEDO）とスカパーJSATは2017年12月7日、通信衛星と目視外ドローンをつなぐ中継基地として導入を想定している高高度無人航空機の飛行・通信実験を実施したと発表した。]]></description>
+			<pubDate>Thu, 07 Dec 2017 17:10:39 +0900</pubDate>
+		</item>
+		<item>
+			<title>カメラに映像データを残さない、IPAがネットワークカメラ運用チェックシート公開（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120702824/</link>
+			<description><![CDATA[　IPAは2017年12月7日、ネットワークカメラ導入時のセキュリティチェックに使えるリストを公開した。内閣サイバーセキュリティセンターのサイバーセキュリティ戦略本部が2016年8月31日に決定した「政府機関の情報セキュリティ対策のための統一基準」に準じたチェックリストになっている。]]></description>
+			<pubDate>Thu, 07 Dec 2017 18:49:45 +0900</pubDate>
+		</item>
+		<item>
+			<title>ローソンが無人レジ、ICタグ駆使し深夜の人手不足解消へ、2018年春から店舗で実証（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120702825/</link>
+			<description><![CDATA[　ローソンは2017年12月7日、同社が10月に東京都内に開設した次世代店舗の実験施設「オープンイノベーションセンター」のメディア向け内覧会を開催した。白石卓也センター長は「無人レジの活用で、1人体制にできないかと考えている」と説明した。]]></description>
+			<pubDate>Thu, 07 Dec 2017 18:52:26 +0900</pubDate>
+		</item>
+		<item>
+			<title>ドローンが屋内を飛行して残業監視、NTT東などが非GPS環境下で定期巡回サービス（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120702826/</link>
+			<description><![CDATA[　大成、ブルーイノベーション、NTT東日本の千葉事業部の3者は2017年12月7日、屋内ドローンを利用した社員健康管理サービスと位置づける「T-FREND」の試行サービスを2018年4月に、同年10月から本サービスを開始すると発表した。同日、会見を行いデモ飛行を披露した。]]></description>
+			<pubDate>Thu, 07 Dec 2017 19:19:53 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
