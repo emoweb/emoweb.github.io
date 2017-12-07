@@ -5,20 +5,6 @@
 		<link>https://forest.watch.impress.co.jp</link>
 		<description>Windows用オンラインソフトの専門サイト。 関連ニュースも提供。</description>
 		<item>
-			<title>“Qiita”のためのMarkdownアプリ「Kobito」の提供とユーザーサポートが年内で終了／オープンソースプロジェクトとしては存続</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/9b15d3e334da89bacdd310929a5fcf41?ul=dRISOq1P9ua8YJwSuf7rkVQWqvgO1sRQCDHMvwtMSfLKHeG_MZWWFfAcHj7bvcD7_PFvGMBZetlKaZvaKKJbFUal.rO7</link>
-			<description><![CDATA[<p>　プログラマー向けの技術情報共有サイト“Qiita”を運営するIncrements（株）は4日、情報記録・共有ソフト「Kobito for Windows」「Kobito for Mac」の提供とユーザーサポートを終了する計画を明らかにした。今後は“Qiita”“Qiita:Team”のオンラインエディターの改善に注力するという。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/9b15d3e334da89bacdd310929a5fcf41"/></p>]]></description>
-			<pubDate>Tue, 05 Dec 2017 08:24:49 +0900</pubDate>
-		</item>
-		<item>
-			<title>大幅なパフォーマンスの改善を図った「Visual Studio 2017」v15.5が公開／「Visual Studio for Mac」v7.3も同時リリース</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/537fe542690358ffc7279e097c5a0e18?ul=S0RLWs4QX7pL7VPzMLkow0SGJ4STft_O7adC1KHITAhW9OSruWMqkhKbDWvMX5KMl0y0M45PCnIwUwHxxbtt16c.6KgT</link>
-			<description><![CDATA[<p>　米Microsoft Corporationは4日（現地時間）、統合開発環境「Visual Studio 2017」の最新版v15.5を公開した。現在、同社のWebサイトからダウンロード可能。［ツール］－［拡張機能と更新プログラム］ダイアログからアップデートすることもできる。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/537fe542690358ffc7279e097c5a0e18"/></p>]]></description>
-			<pubDate>Tue, 05 Dec 2017 11:27:14 +0900</pubDate>
-		</item>
-		<item>
 			<title>“WSL”でバックグラウンドタスクがサポート ～Windows 10の次期機能更新「RS4」で／バックグラウンドタスクのサポートに付随していくつかの機能改善も</title>
 			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/59bedef275e322d06f98afc83a1c6cd6?ul=lq6ykmwK0T0eP0lDdzGEmiyjGoIj4H6fMbTQ8oNiYp2o2XUEONwzNyj7cQp6Q3BCb_.WL9OtAWzjcKiJlx9mnRT1dFMw</link>
 			<description><![CDATA[<p>　米Microsoft Corporationは4日（現地時間）、“Windows Subsystem for Linux（WSL）”がバックグラウンドタスクをサポートしたことを明らかにした。「Windows 10 Insider Preview」Build 17046以降のビルドで利用できるという。
@@ -150,6 +136,20 @@
 			<description><![CDATA[<p>　米Googleは6日（日本時間）、日本語検索におけるWebページの評価方法をアップデートしたことを発表した。これは医療や健康に関する検索結果の改善を意図したもので、医療従事者や医療機関から提供されるより信頼性の高い、有益な情報が上位に表示されやすくなるとのこと。医療・健康に関連する検索のおよそ60％に影響するという。
 <img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/46bed955298388a0a2895fb5bcf92c7e"/></p>]]></description>
 			<pubDate>Thu, 07 Dec 2017 10:43:14 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 7/Server 2008 R2の更新で“0x80248015”エラーが発生する問題は解消／“Microsoft Update”サイトに起因。依然エラーが解消しない場合の対策も公開</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/303d19973c8ed80909745aecd905eab3?ul=R5U7zkGaZrkyh0fiqAQPDFBr0HCsuBWLO1kiXOh5E2AgrqyCG4o_TTHgpQdEo86TYtMewzP9GnpdkgGMBWLl2eV2ZW9m</link>
+			<description><![CDATA[<p>　日本マイクロソフト（株）は7日、“Microsoft Update”の不具合が解消されたことを発表した。Windows 7およびWindows Server 2008 R2以前の環境で4日以降、“Microsoft Update”の実行時に“0x80248015”エラーが発生していたが、“Microsoft Update”サイトの修正が5日午後1時に完了したことで問題は解決されたという。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/303d19973c8ed80909745aecd905eab3"/></p>]]></description>
+			<pubDate>Thu, 07 Dec 2017 11:57:53 +0900</pubDate>
+		</item>
+		<item>
+			<title>「Windows Template Studio」v1.5が公開 ～UWPの雛形を作成するVisual Studio拡張機能／［共有］機能とマルチウィンドウがサポート、ローカライゼーションも進む</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/30070d7e7e25c03c7a8413fd0beefff4?ul=n9S36hiqYSTihay2UvVBc.4HOU_32Vtbzi_ZGSQ1PWLFdXePMtrPjn_RwFUIJr9396QnaTOBNGUQzSLQf5TunbZB25H5</link>
+			<description><![CDATA[<p>　米Microsoft Corporationは6日（現地時間）、「Visual Studio 2017」向け拡張機能「Windows Template Studio」の最新版v1.5を公開した。現在、“Visual Studio Marketplace”から無償でダウンロードできる。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/30070d7e7e25c03c7a8413fd0beefff4"/></p>]]></description>
+			<pubDate>Thu, 07 Dec 2017 12:29:58 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
