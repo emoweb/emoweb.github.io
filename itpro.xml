@@ -5,45 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>ロシアのスパイがKasperskyのソフトを利用？一般ユーザーが取るべき策は（後）（ロシアのスパイがKasperskyのソフトを利用？一般ユーザーが取るべき策は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/112700093/112700002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　ロシアのモスクワに本社を置くKaspersky Labのウイルス対策製品が、ロシアのスパイ活動に使われたとの報道があった。ロシア政府が米国の情報機関の機密情報を盗み出す目的でKasperskyのソフトウエアを利用したという。世界中に4億人いるKaspersky製品のユーザーにとって、心穏やかではない知らせだ。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700093/112700001/" target="_blank">前回</a>から続く）</p>
-
-<h4>個人ユーザーが取るべき策は</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700093/112700002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　Kasperskyがロシアの情報機関に自ら協力した共犯者なのかどうかは、分からないままで終わるかもしれない。そうした中で、1人の個人ユーザーとしてできることといえば、パソコンのセキュリティの基本を忠実に守ることと、自らの「脅威モデル」、すなわち日常的なパソコンユーザーとして現実的に直面する脅威を理解することだ。インフラ建設プロジェクトに携わるエンジニアや、研究専門の科学者、あるいはジャーナリストといった人々であれば、ロシアのスパイにパソコンを探られることも、その人の脅威モデルに含まれるとWilliams氏は言う。そうした人は、Kasperskyの製品を避けた方がよいかもしれない。</p>
-
-<p>　しかし一方で、ロシアの情報機関は、ごく普通の米国人の家族写真や日記には興味がないのが現実だ。Williams氏もTwitterへの投稿で指摘したように、パソコンショップに持ち込んだパソコンの修理担当者がデータを盗むリスクの方が、Kasperskyなどのソフトウエアを通じてロシアの情報機関がデータを盗むリスクよりも大きい。</p>
-
-<p>　「個人的には、Kasperskyは一般のユーザーにとって脅威ではないと思っている」とSerper氏は話す。</p>
-
-<p>　またWilliams氏は、一般ユーザーの大半については、Kaspersky製品の使用を取りやめるよう勧める気はない。同氏の家族や友人にも、Kasperskyを削除するよう勧めてはいない。「ただし、仮に私が新品のパソコンを買ったばかりだとして、Kasperskyをインストールすべきかどうか考えるとしたら、果たしてインストールすると決めるかどうか分からない」とWilliams氏は言う。</p>
-
-<p>　同氏がそう話す理由は、スパイ行為を巡る懸念だけではない。現在の対立を踏まえて、米国市場でKasperskyの行く末がどうなるのかという疑問も理由だと説明する。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700093/112700002/?ST=cm-software&P=2">どのような決断を下すにせよ、ウイルス対策を一切やめるという選択は...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700093/112700002/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700093/112700002/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/112700093/112700002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 07 Dec 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>PEZY社長逮捕、スパコンの旗手に何が起きたのか（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/120701236/</link>
 			<description><![CDATA[　スパコン開発ベンチャーPEZY Computingの齊藤元章社長ら2人を東京地検特捜部が2017年12月5日に逮捕してから2日。逮捕容疑となった助成金の不正受給とはどのようなものだったのか、今も情報が錯綜している。スパコン技術の旗手と呼ばれた同社に何があったのか。]]></description>
@@ -337,6 +298,12 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 08 Dec 2017 10:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>送信元を偽装できる脆弱性Mailsploit、30以上のメールソフトに影響（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120802829/</link>
+			<description><![CDATA[　複数のメールクライアントに共通の脆弱性が見つかった。「Mailsploit」という脆弱性で、悪意のあるユーザーが、送信者のアドレスを偽装したメールを送信できる。影響を受けるメールソフトは、「Microsoft Outlook 2016」や「Mozzila Thunderbird」など、30以上に及ぶ。]]></description>
+			<pubDate>Fri, 08 Dec 2017 10:41:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,41 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    キットカット販売機、12月からオフィスへ。Sigfox通信で発注する「キットカット たのめるくん」 開発
-</title>
-			<link>http://japanese.engadget.com/2017/12/06/sigfox-12/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/a078665eeefa37b043d0bdda35b332d9/205924587/%3F%3F%3F%3F%3F%3F%3F%3F%3F+2017-12-06+15.47.30.png" />
-
-あらゆるものに通信が盛り込まれるIoTの時代は、キットカットだってIoTで簡単発注できちゃいます。京セラ系のKCCSモバイルエンジニアリング（KCME）とACCESSは、Sigfoxを使ったオフィス向けキットカット発注システム「キットカット たのめるくん」を開発しました。ネスレ日本は12月中旬からネスカフェアンバサダー向けに提供を開始します。
-
-
-
-低消費電力で広域エリアに通信網を作るLPWA網（Low Power Wide Area Network、LPWAN）。センシング機器を中心としたIoTのうねりをより大きなものにする通信技術といえます。
-
-そうし技術のいくつかあるIoT向けの通信規格の1つがSigfoxで。免許不要で100Mbps程度の通信が可能で、国内では京セラコミュニケーションシステム（KCCS）が唯一の提供会社となっています。Sigfoxはパートナー企業同士で扱う規格であるのに対し、同じくLPWANのLoRaはオープンな規格。
-
- 
-広いエリアを超低消費電力で通信したい、ワガママなIoTセンシングの世界〜LPWAをざっくり解説してみました
-
-
-「キットカット たのめるくん」はSigfox対応のボタンデバイスで、オフィス内のキットカットが少なくなった際に押すと、自動的に発注できるというもの。いわばキットカット専用Amazon Dashボタンといったところ。
-
-今回のシステムで採用するSigfoxの通信デバイスは、温度センサーや加速度センサーなども搭載された一体型端末。ただし「キットカット たのめるくん」では発注ボタンとしてのみ機能しています。
-
-
-
-
-KCMEの担当者によると、ネスレ日本がSigfoxを評価したのは、通信環境を用意することなく安価に提供できる点だったそう。ネスレでは2018年末までに1万オフィスでの導入を見込んでいます。
-
-
-「たった100bps」の通信網、京セラが全国展開へ─『ビッグデータを安価に集める手段が必要』と社長語る
-
-
- 
- ]]></description>
-			<pubDate>Wed, 06 Dec 2017 02:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    22時間バッテリーで約6万円台のWindows 10 PC「ASUS NovaGo」、1Gbps LTEにも対応
 </title>
 			<link>http://japanese.engadget.com/2017/12/06/22-6-windows-10-pc-asus-novago-1gbps-lte/</link>
@@ -407,6 +372,19 @@ Snapdragon 845は、2018年のフラグシップAndroidスマートフォンに�
  
  ]]></description>
 			<pubDate>Thu, 07 Dec 2017 21:05:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    検索結果が残らないSafariの「プライベートタブ」　iOS 11なら切り替えがとても便利に:iPhone Tips
+</title>
+			<link>http://japanese.engadget.com/2017/12/07/safari-ios-11-iphone-tips/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/111e16e7a3b1a11d9bde85be6ef895be/205898950/main.jpg" />
+
+Safariで「プライベートタブ」を開くと、閲覧履歴や検索履歴を残さずにウェブページを閲覧できます。友達にiPhoneを貸したり、友達からiPhoneを借りたりするときに役立ちます。
+
+これはiPhoneに以前から搭載されていた機能ですが、iOS 11のリリースによって「プライベートタブ」への切り替えが簡単にできるようになりました。Safariのスマートな活用に生かしましょう。
+<p><a href="http://japanese.engadget.com/gallery/ios-11-0/" title="iOS 11で「プライベートタブ」を活用する方法">【ギャラリー】iOS 11で「プライベートタブ」を活用する方法 (5枚)</a></p>
+ ]]></description>
+			<pubDate>Thu, 07 Dec 2017 21:30:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
