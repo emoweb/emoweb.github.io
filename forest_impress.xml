@@ -5,13 +5,6 @@
 		<link>https://forest.watch.impress.co.jp</link>
 		<description>Windows用オンラインソフトの専門サイト。 関連ニュースも提供。</description>
 		<item>
-			<title>“Raspberry Pi”などで利用可能、ARM用Linux向け「Vivaldi」がリリース／デスクトップ版「Vivaldi」にビルトインされている多くの機能が利用可能</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/3a78b62cab7af64f16ae646271f02c25?ul=OLSW46P5OIYSC3Jx.Jhb63rhyHjGIJHjPtHpLKjDueiEo9ft5k.NGnmeksoLWnjQ3Lvh7beSiIsQxgr5R6F36foAnWw4</link>
-			<description><![CDATA[<p>　ノルウェーのVivaldi Technologies ASは5日（現地時間）、ARMベースのLinux向け「Vivaldi」をリリースした。“Raspberry Pi”などで利用できるという。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/3a78b62cab7af64f16ae646271f02c25"/></p>]]></description>
-			<pubDate>Wed, 06 Dec 2017 12:25:05 +0900</pubDate>
-		</item>
-		<item>
 			<title>モリサワ、スタンダード版「BIZ UDゴシック」「BIZ UD明朝」の提供を一時停止／フォント同期ツールのインストールが一部環境で正常に完了しないため</title>
 			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/8d9bcf33e3b7242b28199624fe81d9b6?ul=htwVa28.T8.AW6qeWQNYF.GKryb5n2n2o49k0PhNPGdxQP03_KPee1XEw1JPdxPMVtyB33VBlTPu7V6F1m5KrXrZGhIU</link>
 			<description><![CDATA[<p>　（株）モリサワは6日、スタンダード版「BIZ UDゴシック」「BIZ UD明朝」の提供を一時停止することを明らかにした。同社によると、フォント同期ツール「TypeSquare Desktop Manager」のインストールが一部環境で正常に完了しない問題が確認されたという。
@@ -157,6 +150,13 @@
 			<description><![CDATA[<p>　米Appleは6日（現地時間）、「iOS 11.2」で修正された脆弱性の内容を発表した。CVE番号ベースで14件の脆弱性が修正されている。最悪の場合、任意のコードを実行される恐れがあるため、できるだけ早いアップデートを心掛けたい。
 <img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/049d25a025eba5546c9b10c179ad504f"/></p>]]></description>
 			<pubDate>Fri, 08 Dec 2017 12:54:14 +0900</pubDate>
+		</item>
+		<item>
+			<title>「Fall Creators Update」でGetPixel/SetPixel関数が遅くなる問題 ～一部アプリの動作速度に影響／現時点での有効な回避策は確認されていない</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/4dc234f41dcd1ce7a52386c3fd121134?ul=2dIBFLGDnQ4i_LDVhMm9O3gNL8hqLJNesbelgQbAz6vxQdmvvPg.Cu0opNE3kDIF2djAGMMoErmRA0Xo2hB3a3mfX5pb</link>
+			<description><![CDATA[<p>　日本マイクロソフト（株）は8日、、「Windows 10 Fall Creators Update」環境で“GetPixel”および“SetPixel”関数の処理速度が以前のバージョンのWindows 10に比べて著しく遅くなる問題が発生していることを明らかにした。現時点での有効な回避策は確認されていないという。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/4dc234f41dcd1ce7a52386c3fd121134"/></p>]]></description>
+			<pubDate>Fri, 08 Dec 2017 13:55:08 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
