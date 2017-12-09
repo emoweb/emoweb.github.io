@@ -5,16 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Apple TVに「Amazonプライム・ビデオ」アプリが追加、第3世代以降で視聴可能
-</title>
-			<link>http://japanese.engadget.com/2017/12/06/apple-tv-amazon-3/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/e84518a33e06fde33e7dca51e6dba641/205928127/atvam.jpg" />
-Apple TV向けOSのtvOS11.2がリリースされました。これに伴い、第3世代以降のApple TVにアマゾンの動画ストリーミングサービス「Amazon プライム・ビデオ」アプリが用意され、インストール可能となっています。
- 
- ]]></description>
-			<pubDate>Wed, 06 Dec 2017 22:05:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    ポルシェCEO、フラッグシップモデル「911」のPHV版を開発中と発言。発売は2023年頃？
 </title>
 			<link>http://japanese.engadget.com/2017/12/06/ceo-911-phv-2023/</link>
@@ -441,6 +431,42 @@ Google HomeやAmazon Echo、そしてSonyやオンキョーなどもGoogleアシ
 ・2016年12月9日、ファーウェイが低価格なSIMフリーAndroidタブレット「HUAWEI MediaPad T2 8 Pro」を発売
  ]]></description>
 			<pubDate>Fri, 08 Dec 2017 15:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    「充電は週1で十分」なWindows 10ノートが2018年に続々登場、スマホSoCで電池持ち革命
+</title>
+			<link>http://japanese.engadget.com/2017/12/08/1-windows-10-2018-soc/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/e8585f462f071e9e061f704aaf854141/205933920/DSC09816.jpg" />
+ノートPCのバッテリー持ちに関する常識が2018年に大きく変わりそうです。
+
+それは、スマートフォン向けSoC（CPUやGPUなどを1チップ化したもの）を転用したWindows PCが2018年初旬より続々登場するため。この、「Windows on ARM」は、ARMアーキテクチャで動作しますが、x86エミュレーションにより、通常のWindows 10アプリを利用できます。
+
+スマートフォン向けSoCをPCに使う利点は、なんといっても省電力性の高さです。2018年初旬にクアルコムのスマートフォン向けSoC「Snapdragon 835」を採用するWindows 10 PCがHPとASUSから登場しますが、連続バッテリー駆動時間はいずれも20時間超（連続動画再生）。「10時間」がバッテリーが長持ちする一つの基準となっている現状では、まさに常識外れのバッテリー持続時間で、「フルで使っても2日」「日常的な利用なら充電は週一で十分」（関係者）だといいます。
+
+
+▲Snapdragon 835で22時間連続駆動の2 in 1「HP ENVY x2」
+
+関連：
+サクサク感は？ Windows 10なのにスマホCPUで「常識外れの電池持ち」HP ENVY x2インプレ
+
+
+▲22時間の連続駆動と1Gbps LTEを売りにする「ASUS NovaGo」
+
+関連：
+22時間バッテリーで約6万円台のWindows 10 PC「ASUS NovaGo」、1Gbps LTEにも対応
+
+
+▲バッテリー駆動時間（連続動画再生）で他のアーキテクチャを圧倒
+
+また、スマートフォン向けSoCを採用する2つ目の利点が、セルラーとの親和性です。Snapdragon 835には、1Gbps通信が可能なLTEモデム「Snapdragon X16」が統合されており、eSIMまたは物理SIMを利用することで、1Gbpsの高速LTEが利用できます。連続待受時間も「1か月」だといい、スマートフォン水準のセルラー常時接続性をPCに付与できます。クアルコムはこれを「Always Connected PC」としてアピールします。
+
+なお、アプリはx86エミュレーションで動作するため、動作速度が心配になる方も多いでしょう。実機に触れた範囲では、Microsoft OfficeやEdgeブラウザは快適に動作していました。業務用途やゲームヘビーなアプリケーションは苦手だと思われますが、マイクロソフトが公開したデモでは、Photoshopなども実用的に動作するとされています。
+
+Snapdragon 835を搭載したPCは、2018年前半にASUS・Lenovo・HPから登場。その後、Snapdragon 845を採用したPCが2018年後半以降、各ベンダーから続々登場する見通しです。つまり、2018年にはARMベースのWindows 10 PCが続々登場し、PCのバッテリー持ちに関する常識が大きく変わりそうです。
+
+ 
+ ]]></description>
+			<pubDate>Fri, 08 Dec 2017 20:30:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
