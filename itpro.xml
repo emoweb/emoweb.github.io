@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>改正銀行法を満たすセキュリティやコンプライアンスをコードで実装、AWSの新基盤（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120802831/</link>
-			<description><![CDATA[　アマゾン ウェブ サービス ジャパンは2017年12月8日、FinTech企業がクラウド環境のAWS（Amazon Web Services）を利用する際にセキュリティを確保できるようにする「AWS Fintechリファレンス・アーキテクチャー 日本語版」を発表した。]]></description>
-			<pubDate>Fri, 08 Dec 2017 17:43:40 +0900</pubDate>
-		</item>
-		<item>
 			<title>Amazonが「サイバーマンデーセール」を開始、渋谷にポップアップストアもオープン（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120802833/</link>
 			<description><![CDATA[　アマゾンジャパンは2017年12月8日、東京・渋谷で「サイバーマンデーセール」に関する説明会を開催し、同日午後6時から開始する同セールについて説明した。]]></description>
@@ -269,6 +263,39 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/542472/120800018/</link>
 			<description><![CDATA[　久しぶりに「極言暴論スペシャル」をお届けする。今回は、ユーザー企業のIT部門から丸投げされていたシステムの保守運用業務からITベンダーが撤退する動きにについて、読者アンケート調査結果について報告する。その結果は、多くのIT部門にとって背筋が凍るようなものとなった。]]></description>
 			<pubDate>Tue, 12 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ウエアラブルデバイスの「キラーアプリ」は仮想アシスタント、そのワケは（前）（ウエアラブルデバイスの「キラーアプリ」は仮想アシスタント、そのワケは）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/120400095/120400001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　「スタートレック」は正しかった。今後我々は、コンピューターとやりとりする時は、主に話しかけて操作するようになる。だが、いつでもすぐにやりとりするためには、そのコンピューターを我々が身に付けていなくてはならない。つまり、筆者が言いたいのは、今後はウエアラブルデバイスで動く仮想アシスタントが欠かせなくなるということだ。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400095/120400001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　技術者たちは、仮想アシスタントとウエアラブルデバイスのいずれでも態度が分かれる。これらが大好きで頼りきっている人もいれば、無関心な人もいる。</p>
+
+<p>　こうした状況からすると、仮想アシスタントとウエアラブルデバイスを組み合わせて使うのがコンピューティングの未来だなんて、ありそうにないと思うかもしれない。だが、そうなる兆候は既にある。</p>
+
+<p>　ひとまず筆者の話にお付き合いいただきたい。このコラムを読み終える頃には、そのシナリオがいかに必然的か、はっきりお分かりになるはずだ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400095/120400001/?ST=cm-software&P=2">携帯型スマートスピーカーとしてのウエアラブルデバイス</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400095/120400001/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400095/120400001/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400095/120400001/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400095/120400001/?ST=cm-software&P=4">4</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400095/120400001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 12 Dec 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
