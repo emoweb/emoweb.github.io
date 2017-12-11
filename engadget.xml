@@ -5,19 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    「スマート時計バンド」ソニーwena wristが3機種に進化。装着感向上、最上位機は有機EL画面も搭載
-</title>
-			<link>http://japanese.engadget.com/2017/12/07/wena-wrist-pro-el/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fff0e188f96c339e6aabb1246c1334510%2F205929214%2F01.jpg&client=a1acac3e1b3290917d92&signature=ec6b1968bc1b9366e42a25c9388f255e7afec498" />
-ソニーは、スマートウォッチ機能内蔵腕時計バンド「wena wrist」の最新モデル3機種「wena wrist pro」、「wena wrist active」、「wena wrist leather」を発表しました。
-現行モデルと同じく、バンド側にスマートウォッチとしての機能を持っているため、市販腕時計のバンドを付け替えることでスマートウォッチにできる点が特徴。
-
-2代目となる3モデルのうち、wena wrist proおよび同activeは、腕時計のバンド部分に電子マネー機能、通知機能、活動ログ機能を搭載。バックル部分には連携したデバイスの通知内容を表示する有機ELディスプレイも搭載しています。
-<p><a href="http://japanese.engadget.com/gallery/wena-wrist-pro-active-leather/" title="wena wrist pro/active/leather">【ギャラリー】wena wrist pro/active/leather (24枚)</a></p>
- ]]></description>
-			<pubDate>Thu, 07 Dec 2017 16:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    自律飛行ドローンで残業社員を監視・警告するサービス、2018年に商用化へ
 </title>
 			<link>http://japanese.engadget.com/2017/12/07/2018/</link>
@@ -526,6 +513,29 @@ au&times;TRANSFORMERS PROJECTは、クラウドファンディングで始まっ
  
  ]]></description>
 			<pubDate>Mon, 11 Dec 2017 02:10:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    5Gスマートフォンは2019年に登場、クアルコムが見通し
+</title>
+			<link>http://japanese.engadget.com/2017/12/11/5g-2019/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/53651bbd1e591c4987ad76cc9bd7db11/205938486/DSC00064.jpg" />
+「5G対応プレミアムスマートフォンは2019年に登場する見通し」──半導体大手のクアルコムは、ハワイで開催したSnapdragon Tech Summitで改めてそうアピールしました。
+
+5Gは、10Gbps級の高速大容量、かつ1ms級の低遅延を特色とする次世代移動通信技術です。
+
+現行のLTE（4G）もギガビットLTE（1Gbpsに迫る受信最大979Mbps）の商用サービスが開始。さらに受信最大1.2Gbps通信が可能なSnapdragon 845搭載スマートフォンが2018年前半に登場するなど、順調に高速化が進んでいます。一方で、1.2Gbpsを実現するには、4x4 MIMOと256QAMを組み合わせても3キャリア（計60MHz幅）が必要。帯域幅を潤沢に確保しているキャリアはさほど多くなく、Wi-Fiの5GHz帯とのアグリゲートも可能とはいえ、LTEの高速化は限界に近づいているわけです。
+
+そこで登場するのが5Gです。LTEは最大20MHz幅までを1キャリアとして扱うのに対し、5Gでは最大100MHz幅を1キャリアとして扱います。これを実現するために、3.5GHz帯から6GHz帯までのSub-6GHz帯、および24GHz以上のミリ波と呼ばれる周波数帯を活用します。
+
+なお、周波数は高ければ高いほど、広い帯域幅をとれるため通信の高速化に有利な反面、遠くまで電波が届きにくいという特性があります。
+
+
+
+こういった特性もあり、5G登場後も当面はLTEをベースとしつつ、トラフィックが集中する都市部を中心に5Gエリアが構築される見通し。これを「NSA方式」（ノンスタンドアロン：5G単独ではなくLTEと併用）方式と呼び、年内に標準化が完了。2019年には商用サービス開始が可能となる見通しです。
+
+クアルコムがことし2月に発表した世界初の5G商用モデム「Snapdragon X50」は、Sub-6GHz帯とミリ派、そしてギガビットLTEに対応。クアルコムは「同モデムを搭載したbプレミアムスマートフォンが2019年に搭載する」との見通しを示しています。インテルも5Gモデム「XMM 8060」を発表しており、各社が商用サービス開始に向け各社がしのぎを削っています。
+ ]]></description>
+			<pubDate>Mon, 11 Dec 2017 03:15:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
