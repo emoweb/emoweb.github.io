@@ -322,5 +322,46 @@
 ]]></description>
 			<pubDate>Mon, 11 Dec 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>プラスチックの装置とWi-Fi電波で情報を伝達、電源不要の新技術を米大学が考案（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/121100448/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米ワシントン大学の研究チームが、3Dプリンターで出力したプラスチック製の装置を使ってワイヤレスで情報を伝達する技術を開発した。周囲のWi-Fi電波を利用して情報を伝える。装置に電源や電子回路は必要ない。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/121100448/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: IDG</div>
+</div>
+<p>
+　この装置は、「後方散乱」という現象を利用する仕組みだ。周囲のWi-Fi電波を吸収するか反射するかによって、0か1かを伝える。Wi-Fiレシーバー側で、こうした反射のパターンに埋め込まれている情報を解読する。
+</p>
+<p>
+　研究論文の共著者の1人で、ワシントン大学電気工学部の博士課程に在籍するVikram Iyer氏は次のように話す。「我々が目指したのは、家庭用の3Dプリンターでそのまま出力できる装置を使って、他の機器に有益な情報を送信することだった。だが、Wi-Fiを使った無線通信をプラスチックだけでどのように実現するかは大きな課題だ。これまで誰も実現できていなかった」
+</p>
+<p>
+　3Dプリンターで出力するこの装置は、<a href="http://printedwifi.cs.washington.edu/models.html" target="_blank">CADモデル</a>が公開されている。装置の核になるのは、渦巻ばねにつながったスイッチだ。プラスチックのギアの作用によって、導電性フィラメントでできたアンテナとスイッチが接触する。
+</p>
+<p>
+　ボタンを押したり、液体を流したり、ノブを回したりといった物理的動作が発生した時に、それに伴うギアの回転と渦巻ばねの働きによって、導電スイッチがアンテナと断続的に接触したり離れたりし、電波の反射が変わる。ギアの歯の幅とパターンに応じて、アンテナが接触する長さが変わることから、反射される電波にもパターンが生まれる。そのパターンをWi-Fiレシーバーで解読する。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/121100448/?ST=cm-wireless&P=2">研究チームの論文には次のように説明がある。「こうした機能によって...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/121100448/?ST=cm-wireless&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/121100448/?ST=cm-wireless&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/121100448/?ST=cm-wireless&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 11 Dec 2017 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
