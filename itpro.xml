@@ -299,5 +299,43 @@ Go 1.10ベータの改良点
 			<description><![CDATA[　ITサービス大手5社の役員は、どのくらいの報酬を得ているのか。最大手であるNEC、日立製作所、富士通の平均役員報酬には、かなりばらつきがあったが、NTTデータや野村総合研究所などはどうか。]]></description>
 			<pubDate>Wed, 13 Dec 2017 05:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>2018年の情報セキュリティ界を席巻する5つの脅威（中）（2018年の情報セキュリティ界を席巻する5つの脅威）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/120400094/120400002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　2017年はデータ流出がひどい年だったと思っているのなら、2018年はさらに要注意だ。サイバーセキュリティや情報リスクマネジメントに関する活動を行っている英情報セキュリティ推進団体Information Security Forum（ISF）は、データ流出の件数が増え、影響も深刻化すると予測している。その大きな要因には、2018年に企業が直面するであろう5つの重要な脅威がある。グローバルに猛威をふるうセキュリティ脅威だ。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400094/120400001/" target="_blank">前回</a>から続く）</p>
+
+<h4>IoT</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400094/120400002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　企業でIoTデバイスの導入が進みつつあるが、多くのIoTデバイスはセキュリティを考慮した設計になっていない。しかも、急速に発展するIoTのエコシステムの中で、透明性がなくなりつつあるという点にISFは警鐘を鳴らす。あいまいな契約条件に基づいて、本人たちが意図しなかった形で個人データを利用することが可能となっている。企業がIoTを導入する場合、どのような情報が自社のネットワークから流れ出ているのか、あるいは、スマートフォンやスマートテレビなどのデバイスがどのようなデータを秘密裏に取得して転送しているのかを把握することは、一筋縄ではいかない。</p>
+
+<p>　実際にデータ流出が起きた場合や、透明性への違反が明らかになった場合には、企業が規制当局や顧客から責任を問われる可能性が高い。また最悪の事態になれば、産業用制御システムに組み込まれているIoTデバイスのセキュリティ侵害が、けがや死亡につながる恐れもある。</p>
+
+<p>　「メーカー側の観点からすると、ユーザーの利用パターンを把握したり、その人への理解を深めたりといったことは間違いなく重要だ。しかしその結果、攻撃手段がかつてないほど広がっている」とDurbin氏は言う。</p>
+
+<p>　「デバイスに制御されるのではなく、自分たちが制御するために、どのようにセキュリティを施せばよいだろうか。この部分で意識の高まりがこれまでより見られることになりそうだ」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400094/120400002/?ST=cio-security&P=2">サプライチェーン</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400094/120400002/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400094/120400002/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400094/120400002/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 13 Dec 2017 06:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
