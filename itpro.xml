@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Amazonが「サイバーマンデーセール」を開始、渋谷にポップアップストアもオープン（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120802833/</link>
-			<description><![CDATA[　アマゾンジャパンは2017年12月8日、東京・渋谷で「サイバーマンデーセール」に関する説明会を開催し、同日午後6時から開始する同セールについて説明した。]]></description>
-			<pubDate>Fri, 08 Dec 2017 19:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>新元号は2019年5月1日からの見通し、富士通は「洗い出しとテストの負荷が大きい」（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/120802832/</link>
 			<description><![CDATA[　政府は2017年12月8日、天皇陛下の退位日を2019年4月30日に定める政令を閣議決定した。「平成」の元号は平成31年までとなり、2019年5月1日以降は新元号に変わる。元号の変更に伴い、システムの修正が必要になる]]></description>
@@ -296,6 +290,64 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 12 Dec 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>GoogleのGo言語、1.10ベータの改良点（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121200386/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　プログラミング言語「Go」の開発チームが、Go 1.10のベータ版をリリースした。Goは、米Googleが開発し広く使われているオープンソースの言語で、1.10は次期バージョンだ。
+</p>
+<h4>
+Go 1.10ベータの改良点
+</h4>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121200386/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Bill Selak</div>
+</div>
+<p>
+　Go 1.10は、コンパイラツールチェーンやパフォーマンスに改良が加わっているが、言語自体に本質的な変更はない。
+</p>
+<p>
+　Go 1.10の正式版は2018年2月にリリースされる予定だ。現時点のベータ版では、次のような改良や新機能が実装されている。
+</p>
+<ul>
+<li>コンパイラが生成するコードのパフォーマンスが、サポートしているアーキテクチャ全体で向上した。
+</li>
+<li>ガベージコレクタの高速化、生成されるコードの向上、コアライブラリの最適化により、プログラムの動作が若干速くなった。
+</li>
+<li>バイナリに記録されるDWARF形式のデバッグ情報に関して、定数値の記録や、行番号情報の正確性向上などの改良が加わった。
+</li>
+<li>linux/ppc64leで、cgoコマンドを使用するプログラムに外部リンクが必要となった。</li>
+<li>go buildコマンドで、古いパッケージの判断基準が、ソースファイルの中身、指定したビルドフラグ、コンパイル済みパッケージ内のメタデータとなった。更新日時は考慮されない。
+</li>
+<li>go installコマンドでは、コマンドラインで示したパッケージとコマンドのみがインストールされるようになった。依存するパッケージのインストールを強制するには、go install -iフラグを使用する必要がある。
+</li>
+<li>メソッド式の文法で、任意の型の式をレシーバとして使えるように構文が緩和されたことで、コンパイラの既存の動作と合致した。
+</li>
+<li>go testコマンドのテスト結果がキャッシュされるようになった。
+</li>
+<li>unicodeパッケージが、Unicode 9.0から10.0にバージョンアップした。ビットコインの通貨記号や、新しい絵文字56個など、8518文字が加わっている。
+</li>
+</ul>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121200386/?ST=cio-appli&P=2">Go 1.10ベータのダウンロード</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121200386/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121200386/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121200386/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 12 Dec 2017 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
