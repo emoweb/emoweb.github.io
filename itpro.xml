@@ -5,176 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>発注者は「分かる設計書」を求めるべきだ（永井昭弘のそれって丸投げ？ユーザー責任を斬る）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/090600196/112400019/</link>
-			<description><![CDATA[　発注者はどのような設計書をベンダーに作ってもらうのか、あるいは一緒に作るのか、議論すべきであろう。「納品物のための設計書」になってしまってはいけない。]]></description>
-			<pubDate>Mon, 11 Dec 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>RPAツール12製品を分析、選び方のポイント（本番RPA）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/113000549/120100004/</link>
-			<description><![CDATA[　RPA導入の第一歩は、自社に最適なツール選びにある。人手のPC操作をソフトロボに「記録」させ、ロボに仕事を「実行」させる。記録と実行を担うRPAツールが、この半年で一気に充実してきた。]]></description>
-			<pubDate>Mon, 11 Dec 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>脱人月商売を目指すベンダーに未来が見えない本当の理由（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/120700169/</link>
-			<description><![CDATA[　人月商売には先が無い――。ITベンダーの経営幹部もようやく自分たちを取り巻く状況のヤバさに気付いたようで、新規事業の創出に取り組み始めた。「極言暴論」で人月商売の問題点や先の無さを説いてきた私としては、基本的に大歓迎だ。だが、日本のITベンダーには超えられそうもない壁が待ち受けている。]]></description>
-			<pubDate>Mon, 11 Dec 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>相手を怒らせてしまう7つのパターン（だから相手を怒らせる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/120400554/120600001/</link>
-			<description><![CDATA[　「俺は要員の話をしているんだ！コストの話なんてしていない」――。SIベンダーのユー・エス・イーでシステム提案などを手掛ける宮原祐司氏（営業戦略推進本部 副本部長）は、かつてユーザー企業のシステム部長をひどく怒らせた経験がある。]]></description>
-			<pubDate>Mon, 11 Dec 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>デジタル変革は、石の上にも半年！？（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/120500972/</link>
-			<description><![CDATA[　少し気が早いが2017年を振り返ってみたい。この1年間、特に私が感じたのは「デジタルトランスフォーメーション（デジタル変革）に取り組む企業が急増した」ということだ。]]></description>
-			<pubDate>Mon, 11 Dec 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ロボットが嗅覚をもつ日は近い？NECなどが専用センサーとAIで匂い判別（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/113001226/</link>
-			<description><![CDATA[　クラウド上に「匂い判別モデル」を構築する新発想の嗅覚センサーが登場した。AIとIoTの技術を活用するのが特徴だ。NECなどが標準化を目指して実証実験に乗り出す。]]></description>
-			<pubDate>Mon, 11 Dec 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>訪日中国人を取り返す、第一交通と中国滴滴が提携（和製タクシー、ウーバーに勝てるか）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/120200552/120400001/</link>
-			<description><![CDATA[　需要減が続き、違法な「白タク」も横行するなど先行き不透明なタクシー業界。国内大手の第一交通産業は中国の配車アプリ大手滴滴出行との提携を決めた。国内で配車アプリをいち早く開発した日本交通は独自の道を行く。]]></description>
-			<pubDate>Mon, 11 Dec 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>LAN構築に使える100均グッズ（100均グッズでネットワーク管理）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/120600562/120700001/</link>
-			<description><![CDATA[　100円ショップでは、他店で数倍の価格で販売されているような商品も置いてある。こうした100均グッズ（100円ショップの商品）の中から、LANケーブルやそのケーブル配線に使えそうな商品を一気に紹介していこう。]]></description>
-			<pubDate>Mon, 11 Dec 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>この世からABテストはなくせる、アドビが目指すAIの世界（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/120801237/</link>
-			<description><![CDATA[　米アドビシステムズが「AI（人工知能）企業」への道を着々と歩んでいる。クリエーティブからマーケティング分析まで、デザインの入口と出口を押さえる同社が考えるAIとは何か。]]></description>
-			<pubDate>Mon, 11 Dec 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>いまどきのスマホなら当たり前、VoLTEって何？（VoLTEの謎）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/120700564/120700001/</link>
-			<description><![CDATA[　「VoLTE（ボルテ）」とは、スマートフォン（スマホ）や携帯電話のLTEネットワーク上で音声通話を実現するための標準規格です。スマートフォンを使っている人の多くが、実は既にお世話になっている音声通話技術がVoLTEです。]]></description>
-			<pubDate>Mon, 11 Dec 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ITサービス大手5社の年収を比較、ケタ違いの野村総研（IT企業の給与は上がったのか）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/113000548/120800005/</link>
-			<description><![CDATA[　深刻な人手不足と言われる中、IT企業の給与はどのように変化しているのか。IT企業大手の年間平均給与や役員報酬から、その実態を探る。取り上げるのは、2016年度売上高のトップ5社、NTTデータ、キヤノンマーケティングジャパン、大塚商会、野村総合研究所、伊藤忠テクノソリューションズだ。]]></description>
-			<pubDate>Mon, 11 Dec 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>2018年の情報セキュリティ界を席巻する5つの脅威（上）（2018年の情報セキュリティ界を席巻する5つの脅威）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/120400094/120400001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　2017年はデータ流出がひどい年だったと思っているのなら、2018年はさらに要注意だ。サイバーセキュリティや情報リスクマネジメントに関する活動を行っている英情報セキュリティ推進団体Information Security Forum（ISF）は、データ流出の件数が増え、影響も深刻化すると予測している。その大きな要因には、2018年に企業が直面するであろう5つの重要な脅威がある。グローバルに猛威をふるうセキュリティ脅威だ。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400094/120400001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　「現時点で最大級の信頼を得ている企業や組織であっても、現在の情報セキュリティの脅威の範囲とペースを考えると、その信ぴょう性と評判に危険が迫りつつある」と、ISFのマネージングディレクター、Steve Durbin氏は言う。「2018年は、脅威がますます巧妙化し、標的の弱点に合わせてカスタマイズされた脅威や、既に導入されている防御策を踏まえて変容する脅威が見られるはずだ。最近はリスクがますます高まっている」</p>
-
-<p>　データ流出の発生回数と共に、流出するデータの件数も増えるとDurbin氏は言う。その結果2018年は、あらゆる規模の企業にとって、攻撃に伴って生じるコストがこれまでよりずっと増す。ネットワークのクリーンアップや顧客への連絡など、従来も生じていた類いのコストに加えて、訴訟の原告の増加など、新たに生じるコストもある。腹を立てた消費者が、政府にデータ保護法の強化を強く求め、それに伴うコストも発生するとISFは予測している。</p>
-
-<p>　ISFでは、こうした変化を加速する要因として、2018年に企業が直面するグローバルなセキュリティの脅威を5つ挙げている。</p>
-
-<ul>
-<li>Crime-as-a-Service（CaaS）：サイバー犯罪用のツールやサービスが拡大</li>
-<br>
-<li>IoT：未対処のリスクが増加</li>
-<br>
-<li>サプライチェーン：最も弱い環への注視が必要</li>
-<br>
-<li>法令：重要な資産の管理がいっそう複雑化</li>
-<br>
-<li>取締役会の期待の不一致：重大なインシデントで不一致が表面化</li>
-<br>
-</ul>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400094/120400001/?ST=cio-security&P=2">Crime-as-a-Service（CaaS）...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400094/120400001/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400094/120400001/?ST=cio-security&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/120400094/120400001/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 11 Dec 2017 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>プラスチックの装置とWi-Fi電波で情報を伝達、電源不要の新技術を米大学が考案（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/121100448/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米ワシントン大学の研究チームが、3Dプリンターで出力したプラスチック製の装置を使ってワイヤレスで情報を伝達する技術を開発した。周囲のWi-Fi電波を利用して情報を伝える。装置に電源や電子回路は必要ない。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/121100448/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: IDG</div>
-</div>
-<p>
-　この装置は、「後方散乱」という現象を利用する仕組みだ。周囲のWi-Fi電波を吸収するか反射するかによって、0か1かを伝える。Wi-Fiレシーバー側で、こうした反射のパターンに埋め込まれている情報を解読する。
-</p>
-<p>
-　研究論文の共著者の1人で、ワシントン大学電気工学部の博士課程に在籍するVikram Iyer氏は次のように話す。「我々が目指したのは、家庭用の3Dプリンターでそのまま出力できる装置を使って、他の機器に有益な情報を送信することだった。だが、Wi-Fiを使った無線通信をプラスチックだけでどのように実現するかは大きな課題だ。これまで誰も実現できていなかった」
-</p>
-<p>
-　3Dプリンターで出力するこの装置は、<a href="http://printedwifi.cs.washington.edu/models.html" target="_blank">CADモデル</a>が公開されている。装置の核になるのは、渦巻ばねにつながったスイッチだ。プラスチックのギアの作用によって、導電性フィラメントでできたアンテナとスイッチが接触する。
-</p>
-<p>
-　ボタンを押したり、液体を流したり、ノブを回したりといった物理的動作が発生した時に、それに伴うギアの回転と渦巻ばねの働きによって、導電スイッチがアンテナと断続的に接触したり離れたりし、電波の反射が変わる。ギアの歯の幅とパターンに応じて、アンテナが接触する長さが変わることから、反射される電波にもパターンが生まれる。そのパターンをWi-Fiレシーバーで解読する。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/121100448/?ST=cm-wireless&P=2">研究チームの論文には次のように説明がある。「こうした機能によって...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/121100448/?ST=cm-wireless&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/121100448/?ST=cm-wireless&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/121100448/?ST=cm-wireless&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 11 Dec 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ふくおかFGがロボットアドバイザー「THEO＋」とAPI連携、追加入金を手軽に（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/121102834/</link>
-			<description><![CDATA[　ふくおかフィナンシャルグループ（FG）傘下のiBankマーケティングは2017年12月11日、収支管理アプリ「Wallet＋」に機能を追加し、お金のデザインが手掛けるロボットアドバイザー（ロボアド）サービス「THEO＋」への追加入金などを可能にすると発表した。]]></description>
-			<pubDate>Mon, 11 Dec 2017 16:02:34 +0900</pubDate>
-		</item>
-		<item>
-			<title>「WannaCryを知らないIT担当者が5割超」、マカフィーのセキュリティ調査（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/121102835/</link>
-			<description><![CDATA[　マカフィーは2017年12月11日、2017年の10大セキュリティ事件ランキングを発表した。国内の経営者やIT担当者、一般従業員など1552人を対象にマカフィーが挙げたセキュリティ事件に対する認知率を調査。1位はワーム型のランサムウエア「WannaCry」の36.7％で、4割未満に留まった。]]></description>
-			<pubDate>Mon, 11 Dec 2017 18:45:23 +0900</pubDate>
-		</item>
-		<item>
-			<title>楽天LIFULLが民泊でBooking.comと提携、インバウンド需要を拡大（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/121102836/</link>
-			<description><![CDATA[　楽天グループの楽天LIFULL STAYとオランダBooking.comは2017年12月11日、都内で共同記者発表会を開催し、民泊事業における業務提携を発表した。]]></description>
-			<pubDate>Mon, 11 Dec 2017 20:26:50 +0900</pubDate>
-		</item>
-		<item>
 			<title>VPN（Close Up Keyword）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/112200101/</link>
 			<description><![CDATA[　インターネット上にデータを暗号化した安全な経路を作る仕組み。主に企業で重要な情報をやり取りするために利用されてきた。最近は個人利用者が公衆無線LANを使う際に盗み見対策として利用することも多い。]]></description>
@@ -396,6 +226,78 @@ Go 1.10ベータの改良点
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/121202845/</link>
 			<description><![CDATA[　日本空港ビルデングは2017年12月12日、羽田空港の旅客ターミナル内でロボットの実証実験を12月13日から2018年2月9日にかけて実施すると発表した。ロボットの技術検証プロジェクト「Haneda Robotics Lab」の一環で、実証実験は2016年に続き2回目。]]></description>
 			<pubDate>Tue, 12 Dec 2017 20:40:10 +0900</pubDate>
+		</item>
+		<item>
+			<title>誰がやっても成功するビジネス企画を作るには（脱・ザンネン社員）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/120400018/</link>
+			<description><![CDATA[　「このビジネス企画は誰が手掛けても上手くいきそうか」をしっかり考え、それらを満たす「仕組み」を企画に組み込む。そうしてこそ、成功率の高い企画を作り上げることができる。]]></description>
+			<pubDate>Wed, 13 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>事前にやってはいけない、RPA導入を決定したら（本番RPA）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/113000549/120100005/</link>
+			<description><![CDATA[　「うちもRPAを導入するから、君が責任者になってくれ。よろしく」。ある日、こう告げられたらどうするか。明日からRPA推進責任者になっても慌てないよう、取材を通じて見えてきた成功への勘所をまとめた。]]></description>
+			<pubDate>Wed, 13 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIタクシーの日本交通が収益拡大に自信、労務改善も（和製タクシー、ウーバーに勝てるか）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/120200552/120400003/</link>
+			<description><![CDATA[　日本交通はタクシー配車アプリ「全国タクシー」の提携先を全国に広げるだけでなく、提携先を含めた収益アップも図ろうとしている。300万人がダウンロードした「全国タクシー」アプリのシステムは客層や乗車履歴といった大量のデータを保持している。このビッグデータを活用した新サービスの準備を進めているのだ。]]></description>
+			<pubDate>Wed, 13 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>FREETELショックにドコモショック、生き残る格安スマホはどれだ？（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/120801238/</link>
+			<description><![CDATA[　「FREETEL」ブランドで格安スマホ事業を展開していたプラスワン・マーケティングは通信事業を楽天に譲渡し、再起を目指した端末事業でも資金繰りが悪化して民事再生法の適用を申請した。格安スマホは今後どうなるのだろうか。]]></description>
+			<pubDate>Wed, 13 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>VoLTE対応スマホ、その恩恵を受けられないとき（VoLTEの謎）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/120700564/120700003/</link>
+			<description><![CDATA[　スマートフォン（スマホ）のユーザーとして気になるのは、自分が通話しているときに、果たしてVoLTE（ボルテ）を使っているのかどうかでしょう。対応スマホでも常にVoLTEでつながるとは限りません。]]></description>
+			<pubDate>Wed, 13 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「融通の利かないヤツ」と相手が怒る、SEにありがちな言動（だから相手を怒らせる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/120400554/120600003/</link>
+			<description><![CDATA[　相手を怒らせるパターンの1つが「できる」「できない」の二者択一で物事を考える「ビット型」だ。プロジェクトのコミュニケーション形成を専門とする、NTTデータの角谷恭一氏（技術開発本部 IT活用推進センタ 課長）は「多忙なITエンジニアに特に目立つ言動」と指摘する。原因として、忙しい中で引き受けるのが面倒、責任を取りたくないなどの意識がある。]]></description>
+			<pubDate>Wed, 13 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>店舗決済端末のICクレジット対応、義務付けも目立つ遅れ（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/121101240/</link>
+			<description><![CDATA[　改正割賦販売法の施行日が2018年6月1日に決まった。クレジットカード加盟店はICカード決済対応を義務付けられる。セキュリティ強化のための改正だが、大手の対応は遅れ気味だ。]]></description>
+			<pubDate>Wed, 13 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>お寺に生まれて僧侶の修行をし、オープンソースにたどり着いた（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/121100027/</link>
+			<description><![CDATA[　今月取り上げるのは、料理を作る人と食べる人をつなぐマッチングサービス「KitchHike」を運営するキッチハイクの共同代表/最高技術責任者（CTO）である藤崎祥見氏。今回は、お寺に生まれ、僧侶として1年間修行した後、オープンソースにかかわるようになった経緯などを聞いた。]]></description>
+			<pubDate>Wed, 13 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>データサイエンティストはもう不要？ JAL渋谷直正氏に届いた「挑戦状」（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/121100975/</link>
+			<description><![CDATA[　「『渋谷さん、データサイエンティストはもう要らなくなるらしいよ』。社内でそんな話を聞いて、本当だろうかと話半分で詳細を聞いてみたところ、その内容に衝撃を受けた」。そう語るのは、日本航空（JAL）でデータサイエンティストとして活躍するWeb販売部 1to1マーケティンググループの渋谷直正氏。]]></description>
+			<pubDate>Wed, 13 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>変質する米国FinTech、デジタルトランスフォーメーションの内幕（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/121100110/</link>
+			<description><![CDATA[　「FinTechベンチャーは散々ですよ。かなり厳しいと思います。金融で他人のお金を預かるには信用が必要ですが、ベンチャーには超えられない壁なんです」。ニューヨークで会ったFinTechベンチャーの元経営者はそう語りました。]]></description>
+			<pubDate>Wed, 13 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>システム保守運用の崩壊、ベンダー「客に泣きつかれたが撤退を決断」（極言暴論スペシャル！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/542472/121200019/</link>
+			<description><![CDATA[　理不尽な要求を繰り返すユーザー企業を見限り、システムの保守運用業務から手を引いたITベンダーの関係者のコメントは辛らつだ。アンケート調査を基に保守運用からの撤退の動きについて、その広がりや背景を分析する。今回は、具体的な撤退事例や意見を寄せたITベンダー関係者の声を中心に紹介する。]]></description>
+			<pubDate>Wed, 13 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>NTTデータと野村総研の役員報酬、どれくらいか（IT企業の給与は上がったのか）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/113000548/121000007/</link>
+			<description><![CDATA[　ITサービス大手5社の役員は、どのくらいの報酬を得ているのか。最大手であるNEC、日立製作所、富士通の平均役員報酬には、かなりばらつきがあったが、NTTデータや野村総合研究所などはどうか。]]></description>
+			<pubDate>Wed, 13 Dec 2017 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
