@@ -83,82 +83,6 @@
 			<pubDate>Tue, 12 Dec 2017 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>GoogleのGo言語、1.10ベータの改良点（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121200386/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　プログラミング言語「Go」の開発チームが、Go 1.10のベータ版をリリースした。Goは、米Googleが開発し広く使われているオープンソースの言語で、1.10は次期バージョンだ。
-</p>
-<h4>
-Go 1.10ベータの改良点
-</h4>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121200386/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Bill Selak</div>
-</div>
-<p>
-　Go 1.10は、コンパイラツールチェーンやパフォーマンスに改良が加わっているが、言語自体に本質的な変更はない。
-</p>
-<p>
-　Go 1.10の正式版は2018年2月にリリースされる予定だ。現時点のベータ版では、次のような改良や新機能が実装されている。
-</p>
-<ul>
-<li>コンパイラが生成するコードのパフォーマンスが、サポートしているアーキテクチャ全体で向上した。
-</li>
-<li>ガベージコレクタの高速化、生成されるコードの向上、コアライブラリの最適化により、プログラムの動作が若干速くなった。
-</li>
-<li>バイナリに記録されるDWARF形式のデバッグ情報に関して、定数値の記録や、行番号情報の正確性向上などの改良が加わった。
-</li>
-<li>linux/ppc64leで、cgoコマンドを使用するプログラムに外部リンクが必要となった。</li>
-<li>go buildコマンドで、古いパッケージの判断基準が、ソースファイルの中身、指定したビルドフラグ、コンパイル済みパッケージ内のメタデータとなった。更新日時は考慮されない。
-</li>
-<li>go installコマンドでは、コマンドラインで示したパッケージとコマンドのみがインストールされるようになった。依存するパッケージのインストールを強制するには、go install -iフラグを使用する必要がある。
-</li>
-<li>メソッド式の文法で、任意の型の式をレシーバとして使えるように構文が緩和されたことで、コンパイラの既存の動作と合致した。
-</li>
-<li>go testコマンドのテスト結果がキャッシュされるようになった。
-</li>
-<li>unicodeパッケージが、Unicode 9.0から10.0にバージョンアップした。ビットコインの通貨記号や、新しい絵文字56個など、8518文字が加わっている。
-</li>
-</ul>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121200386/?ST=cio-appli&P=2">Go 1.10ベータのダウンロード</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121200386/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121200386/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121200386/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 12 Dec 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>塩野義製薬がアクセンチュアに7年間のITアウトソーシング、人材交流も進める（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/121202837/</link>
-			<description><![CDATA[　塩野義製薬は2017年12月12日、アクセンチュアとITアウトソーシング契約を締結したと発表した。契約期間は7年間。「今回のアウトソーシングでITシステムの保守・運用コストを削減し、創薬ビジネスのデジタル化に振り向けたい」と塩野義製薬の澤田拓子取締役上席執行役員は語った。]]></description>
-			<pubDate>Tue, 12 Dec 2017 14:52:21 +0900</pubDate>
-		</item>
-		<item>
-			<title>ネット銀行狙うウイルス「DreamBot」の被害が急増、警察庁などが注意喚起（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/121202839/</link>
-			<description><![CDATA[　警察庁は2017年12月11日、ネット銀行のユーザーIDやパスワードを不正に取得するウイルス「DreamBot」の被害が国内で急増していると発表した。2017年7～9月までは1カ月当たり20件程度だったのが、同年10月以降は70件程度に達したという。]]></description>
-			<pubDate>Tue, 12 Dec 2017 16:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>米国のテレビ接続端末普及率は12ポイント増、ニールセン デジタルが発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/121202840/</link>
-			<description><![CDATA[　視聴行動分析サービスを提供するニールセン デジタルは2017年12月12日、米国のテレビやパソコン、モバイルなどのメディアの視聴状況をまとめた「ニールセン トータルオーディエンスレポート2017年第2四半期版」を発表した。]]></description>
-			<pubDate>Tue, 12 Dec 2017 16:35:26 +0900</pubDate>
-		</item>
-		<item>
 			<title>「メール詐欺対策にDMARCを」、プルーフポイントが新サービス（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/121202841/</link>
 			<description><![CDATA[　日本プルーフポイントは2017年12月12日、メールのなりすましを防止するサービスの提供を始めたと発表した。なりすましかどうかを検証するインターネット標準の仕組み「DMARC」に対応するソフトウエアと、運用支援サービスを組み合わせて提供する。業務メールのやり取りに巧妙に入り込んで別口座に送金するようにだます「ビジネスメール詐欺」の対策に有効なサービスと位置付ける。価格は非公表。NECや双日システムズなどのパートナーを通じて販売する。]]></description>
@@ -382,6 +306,12 @@ Go 1.10ベータの改良点
 			<pubDate>Wed, 13 Dec 2017 18:19:34 +0900</pubDate>
 		</item>
 		<item>
+			<title>HPE、最大48TBのインメモリーコンピューティング用サーバー「Superdome Flex」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/121302852/</link>
+			<description><![CDATA[　日本ヒューレット・パッカード（HPE）は2017年12月13日、インメモリーコンピューティング用のサーバー新製品「HPE Superdome Flex」を発表し、販売を開始した。]]></description>
+			<pubDate>Wed, 13 Dec 2017 19:03:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>創業者不在のPEZYグループ、スパコンで世界3位相当を達成（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/121302853/</link>
 			<description><![CDATA[　スパコン開発ベンチャーのPEZY Computingとグループ企業のExaScalerは2017年12月13日、両社が共同開発したスパコン「暁光（Gyoukou）」について、2017年11月の演算性能ランキング「TOP500」で世界3位相当を達成したことを明らかにした。]]></description>
@@ -392,6 +322,24 @@ Go 1.10ベータの改良点
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/121302854/</link>
 			<description><![CDATA[　東日本旅客鉄道（JR東日本）とDeNAは2017年12月13日、レンタカーの無人貸し出しサービスの実証実験を共同で始めると発表した。サービスの提供基盤は、DeNAの個人間カーシェアリングサービス「Anyca」のスマートフォン（スマホ）アプリと車載端末を使う。]]></description>
 			<pubDate>Wed, 13 Dec 2017 19:20:25 +0900</pubDate>
+		</item>
+		<item>
+			<title>トヨタとパナソニックが次世代車載電池で協業へ、「100年に1度の変革期に挑む」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/121302855/</link>
+			<description><![CDATA[　トヨタ自動車とパナソニックは2017年12月13日、車載用電池事業における協業について検討を開始すると発表した。同日、合意書を締結し、トヨタの豊田章男社長とパナソニックの津賀一宏社長が東京都内で記者会見を開いた。]]></description>
+			<pubDate>Wed, 13 Dec 2017 19:40:19 +0900</pubDate>
+		</item>
+		<item>
+			<title>「2018年は攻撃者も費用対効果を追求」、カスペルスキーのセキュリティ脅威予測（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/121302856/</link>
+			<description><![CDATA[　カスペルスキーは2017年12月13日、2018年のAPT攻撃動向に関する記者説明会を開催した。APT攻撃は、特定の企業や個人を狙って目的達成まで侵入を続ける高度な標的型攻撃。2018年は、攻撃者グループが攻撃対象を精査してなるべく安価な攻撃ツールを利用するなど、手口の高度化と費用対効果を両立させる攻撃が激化するという。]]></description>
+			<pubDate>Wed, 13 Dec 2017 19:54:30 +0900</pubDate>
+		</item>
+		<item>
+			<title>富士通やTISなど11社、「AIビジネス推進コンソーシアム」を設立（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/121302857/</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Wed, 13 Dec 2017 20:48:19 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
