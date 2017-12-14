@@ -5,26 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    バス運転手の「異常」をカメラが自動検知、小湊鉄道・KDDIが実証実験
-</title>
-			<link>http://japanese.engadget.com/2017/12/12/kddi/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/2ff05ed4dc5f4c012e5baa4e998354c2/205942056/DSC00209.jpg" />
-
-小湊鉄道とKDDIは、カメラの画像認識技術でバス運転手の異常の検知し、危険運転を予防する「危険運転予防システム」の実証実験を行いました。
-
-「危険運転予防システム」は、運転席前方に設置したカメラ、およびクラウドサーバーにより、運転手の姿勢や表情をリアルタイム計測するシステムです。運転手の姿勢が規定を範囲を超えると「姿勢の異常」として検知。さらに、口角情報から驚きや怒りといった「感情の異常」までも検知できるといいます。これらと車速・位置情報を重ね合わせることで、「ヒヤリ・ハット」につながる可能性のある事象の時刻や位置を特定できるといいます。
-
-「『なぜ驚きの表情をしたの？』（指導員）『バイクが割り込んできたので...』（運転手） といった具合に、これまでマンパワーに依存しており、かつ網羅性に乏しかった運転中の指導教育を、より正確な電子データをもとに行えます」と小湊鉄道バス部次長の小杉直氏は語ります。
-
-
-
-なお従来も、メガネ型センサーでバス運転手の異常を検知する試みはありました。一方の本システムは画像認識を利用するため、「センサーを身につけるストレスをなくすことができる」（KDDI ビジネスIoT企画部の原田圭吾氏）メリットがあるといいます。
-
-この実証実験は2017年5月14日から5月31日の間、小湊鉄道の路線バスで実施。その結果、13日間で290件もの異常を検知し、それらが固有の時間帯に偏っている可能性があることを把握したとのこと。KDDIは今回の実証実験の結果をｍとおに、商用化に向けてさらなる改善を重ねるとしています。
- ]]></description>
-			<pubDate>Tue, 12 Dec 2017 00:30:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    アナログ文字盤で心拍計内蔵スマートウォッチ「Steel HR」をノキアが12月15日発売
 </title>
 			<link>http://japanese.engadget.com/2017/12/12/steel-hr-12-15/</link>
@@ -428,6 +408,18 @@ Engadget日本版では現在、事実関係を楽天広報部に問い合わせ
 本製品のサイズは、約W45&times;D34&times;H98mmで重量は約108gです。
  ]]></description>
 			<pubDate>Thu, 14 Dec 2017 00:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    GoogleアシスタントがAndroid 5.0搭載スマホをサポート。米国ではタブレットでも利用可能に
+</title>
+			<link>http://japanese.engadget.com/2017/12/14/google-android-5-0/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/f55ee147d0c499a565564239d582bd21/205951908/mainga.jpg" />
+Googleが、音声AIアシスタント「Googleアシスタント」のサポートをAndroid 5.0 Lollipopを搭載するスマートフォンに拡大すると発表しました。合わせてAndroid 7.0 Nougat以降のタブレットもサポートします。
+
+スマートフォン上でのGoogleアシスタントは、2016年10月に初代Pixel上で利用可能になり、今年の初めにはAndroid 6.0 Marshmallowまで拡大されました。今回の発表により、対象がAndroid 5.0 Lollipopまで拡大します。
+ 
+ ]]></description>
+			<pubDate>Thu, 14 Dec 2017 01:30:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
