@@ -5,52 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>Microsoft、量子コンピューティング向け開発キットを公開（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121400387/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftは現地時間2017年12月11日、量子コンピューター向けプログラムの開発キット「Quantum Development Kit」のプレビュー版を公開した。<a href="https://www.microsoft.com/en-us/quantum/development-kit" target="_blank">同社サイト</a>からダウンロードできる。量子コンピューティング革命の中で開発者の力になるツールだとしている。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121400387/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: IDG</div>
-</div>
-<p>
-　この開発キットは3つの要素から成る。（1）量子コンピューティング用のプログラミング言語「Q#」、（2）量子コンピューティングのシミュレーター（ローカルとAzure）、（3）量子コンピューティング向けコードのライブラリやサンプルだ。
-</p>
-<p>
-　Q#は、量子ビット用のネイティブな型体系や演算子などを備えた高水準のプログラミング言語で、Visual Studioと完全に統合されている。
-</p>
-<p>
-　シミュレーターは、Q#で開発した量子アルゴリズムやソリューションをテストするためのもの。ローカルのシミュレーターは、ユーザーの開発システム上で動作し、Visual Studioの中から使える。ブレークポイントの設定やコードへのステップインなど、完全なデバッグをサポートしている。
-</p>
-<p>
-　Azure上で動くシミュレーターは、クラウドベースで拡張性があり、40量子ビットを超える量子コンピューターの動作をシミュレートできる。また、量子コンピューターで動作するコードの最適化や、必要なリソースのコストの判断に役立つトレースシミュレーターも開発キットに含まれる。
-</p>
-<p>
-　さらに、Q#のサンプルコードやライブラリ、チュートリアル、コード部品も利用できる。量子分野の精鋭が開発したとのことだ。これらのサンプルやライブラリは<a href="https://github.com/microsoft/quantum" target="_blank">GitHub</a>で公開されている。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121400387/?ST=cio-appli&P=2">Microsoftで量子コンピューティングの主席...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121400387/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121400387/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121400387/?ST=cio-appli&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121400387/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 14 Dec 2017 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>NECと日立と富士通、セキュリティ専門家2000人を共同育成へ（ニュース解説）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/121301244/</link>
 			<description><![CDATA[　NECと日立製作所、富士通の3社は2017年12月14日、セキュリティ専門家の人材モデル定義と育成に共同で取り組むと発表した。サイバー攻撃が増加するといわれる2020年の東京オリンピック・パラリンピック開催に向けて、現在の2倍以上となる2000人強を育成する計画だ。]]></description>
@@ -300,6 +254,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/121502871/</link>
 			<description><![CDATA[　米ヒューレット・パッカード・エンタープライズ（HPE）傘下の米アルバは2017年12月15日、多層防御のセキュリティ製品群を体系化したフレームワーク「Aruba 360 Secure Fabric」を日本で提供すると発表した。セキュリティ関連の製品やサービスを提供するパートナー企業と組み、複数のベンダー製品を連携させる。]]></description>
 			<pubDate>Fri, 15 Dec 2017 15:32:25 +0900</pubDate>
+		</item>
+		<item>
+			<title>「スパコン『京』をPCで」、デルが20年後を予測（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/121502873/</link>
+			<description><![CDATA[　デルは2017年12月15日、PCの最上位ブランド「Precision」について発売20周年記念セミナーを都内のホテルで開催した。20年後には現在のスーパーコンピューター「京」並みの性能をPCで実現できるという見通しを語った。]]></description>
+			<pubDate>Fri, 15 Dec 2017 16:32:54 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
