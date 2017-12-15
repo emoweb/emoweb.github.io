@@ -5,15 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    803ppiの高精細VR専用液晶をジャパンディスプレイが開発：VR情報局
-</title>
-			<link>http://japanese.engadget.com/2017/12/12/803ppi-vr-vr/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/79a1a0247410dd3423bfbc652ee12112/205944056/PH01.jpg" />
-ジャパンディスプレイ（以下JDI）は12月12日、803ppiの高精細VR専用液晶ディスプレイを発表しました。本製品は2018年の量産化を目指しており、また2018年上期には1000ppiを超えるVR専用液晶ディスプレイの開発も完了する予定とのことです。
- ]]></description>
-			<pubDate>Tue, 12 Dec 2017 22:55:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    LINE、メッセージの「送信取消」機能を提供開始。24時間以内なら未読･既読問わず取り消し可能に
 </title>
 			<link>http://japanese.engadget.com/2017/12/13/line-24/</link>
@@ -514,6 +505,17 @@ GeekBench4 マルチ
 メイン機としてはもちろん、モバイルバッテリ代わりのサブ機としても活用出来そうな端末と感じました。
  ]]></description>
 			<pubDate>Thu, 14 Dec 2017 21:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Google、AIを太陽系外惑星発見プロセスに応用。機械学習で「見逃していた惑星」を複数発見
+</title>
+			<link>http://japanese.engadget.com/2017/12/14/google-ai/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/ebd138a44eddf5c8c2835f9febf28751/205955059/main.gif" />
+Googleの研究者がAIを使って太陽系外惑星を発見する方法を開発しています。"トランジット法"と呼ばれる手法に機械学習を組み合わせ、ケプラーが取得した140億ものデータポイントのなかから、より高い精度で惑星の検出を試みます。
+
+トランジット法とは、一定の明るさを発する恒星と、それを観測する観測者との間を物体が通過したときに起こる明るさの低下を調べて、惑星を発見する方法のこと。
+ ]]></description>
+			<pubDate>Thu, 14 Dec 2017 22:50:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
