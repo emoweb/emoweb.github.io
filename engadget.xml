@@ -5,17 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    もっと賢い公共インフラを5G通信とIoTで──ソフトバンクがインフラ設計大手と業務提携
-</title>
-			<link>http://japanese.engadget.com/2017/12/14/5g-iot/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/a0620ad5e65e6210d3a92096047c2a8b/205952289/DSC00340.jpg" />
-次世代移動通信「5G」で公共インフラを最適化する──。そんな目標を掲げ、ソフトバンクとインフラ設計大手のパシフィックコンサルタンツが業務提携を発表しました。
-
-多数のIoTセンサーで得た情報を5Gで集約。これをAI（人工知能）で分析し、よりスマートな公共インフラの設計・開発に活かすことを目標とします。
- ]]></description>
-			<pubDate>Thu, 14 Dec 2017 05:30:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    学生チームがヴァン・アレン帯発見以来60年の謎を解明。キューブサットで内帯の高エネルギー電子生成を確認
 </title>
 			<link>http://japanese.engadget.com/2017/12/14/60/</link>
@@ -540,6 +529,19 @@ LINEは、「お年玉付き年賀スタンプ」を12月26日に発売します
 ちなみに、LINEがお年玉スタンプを販売するのは2016年末に続いてのこと。2017年5月には「グリーンウィーク」キャンペーンも実施しており、従来は郵便が担っていた時候の挨拶もネット上のつながりにおいてはLINE代用がすすみそうです。
  ]]></description>
 			<pubDate>Sun, 17 Dec 2017 21:45:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    マルウェア「Triton」で工場制御システムが乗っ取られる事例が発生。安全装置作動し操業が一時停止
+</title>
+			<link>http://japanese.engadget.com/2017/12/17/triton/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/2a1bf41e95c8bd0580f13133b18a320/205961095/maintri.jpg" />
+情報セキュリティ製品を取り扱うFireEyeが、自社のセキュリティサービスを提供している中東の企業に対して外部からのハッキングがあり、コンピューター制御の工場操業システムが停止させられたと報告しました。
+
+ハッキングに使用されたのはTritonと呼ばれるマルウェアで、一般に発電所や自家発設備で使用されるSchneider ElectricのTriconexセーフティテクノロジーが稼働するワークステーションを遠隔操作可能状態に陥れました。
+ 
+
+ ]]></description>
+			<pubDate>Sun, 17 Dec 2017 22:20:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
