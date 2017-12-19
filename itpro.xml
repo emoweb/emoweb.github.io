@@ -300,5 +300,50 @@
 ]]></description>
 			<pubDate>Tue, 19 Dec 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>楽天とビックカメラが提携、新サイトでヨドバシ追い上げへ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/121902884/</link>
+			<description><![CDATA[　楽天とビックカメラは2017年12月19日、共同出資会社を設立すると発表した。2018年4月に家電のEC（電子商取引）サイトを新たに立ち上げる。]]></description>
+			<pubDate>Tue, 19 Dec 2017 09:44:23 +0900</pubDate>
+		</item>
+		<item>
+			<title>Chrome 64ベータ版、ビデオの自動再生をミュートする機能（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121900388/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　音が出る動画広告の自動再生に嫌悪感を覚える人には、米GoogleのWebブラウザー「Chrome」の新機能が助けとなる。「Chrome 64」では、一部のサイトで動画のポップアップがブロックされる。また、サイトから出る音を完全にオフにする設定も可能だ。たとえ動画が再生されたとしても、音が出なければ、びっくりさせられる心配はない。この機能を搭載したChrome 64は現在ベータ版で、2018年1月に正式リリースされる予定だ。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121900388/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Mark Hachman / IDG</div>
+</div>
+<p>
+　Chrome 64は、ポップアップブロッカーを強化している。悪質なポップアップ広告が予期せず表示されたり、別のサイトに勝手に飛ばされたりといった挙動を自動でブロックする。また、Chrome 64には、コンテンツやメディアの種類ごとにどのような動作を許可するかを、サイト別に設定できる機能もある。
+</p>
+<p>
+　各サイトで許可する動作の設定は、URLバーの左端にある鍵アイコンの部分から行える。少々矛盾しているのは、前バージョンの「Chrome 62」から、現行の「Chrome 63」、そしてChrome 64ベータへと移っていく間に、サイトごとに設定できる項目がむしろ粗くなっていることだ。例えば、以前はマイクの使用やMIDIの再生といった項目をここで設定できたが、Chrome 63ではFlashやCookieなどの項目に絞られた。そしてChrome 64では、Flash、ポップアップ、サウンドという3つの項目のみになっている。どういうわけか、サイトごとのサウンドの設定は、Chrome 64で初めて可能になった。
+</p>
+<p>
+　この新しい設定では、Flashやサウンドを許可するかブロック（ミュート）するかをサイトごとに指定できる。特に指定しない場合は、全サイト向けの共通設定がデフォルトで適用される。この設定で、動画の再生は必ずしもブロックされないが、自動でミュートさせることはできる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121900388/?ST=cio-appli&P=2">動画の再生に使われる技術はサイトごとにさまざまだ...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121900388/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121900388/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/121900388/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 19 Dec 2017 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
