@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>昨日、一番読まれた記事は：コンビニのレジで消え行く「例のボタン」、セブンだけ残した理由（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/121700978/?d21</link>
+			<description><![CDATA[　2017年の大型IT投資として注目されるのが、コンビニエンスストア大手3社のPOS（販売時点情報管理）レジ刷新である。ファミリーマートが2017年7月から、セブン-イレブン・ジャパンが10月から、ローソンが11月から順次レジの置き換えを進めている。]]></description>
+			<pubDate>Tue, 19 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>「ウーバーとは心情的に組めない」、日本交通川鍋会長の決意（和製タクシー、ウーバーに勝てるか）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/120200552/120400006/</link>
 			<description><![CDATA[　アプリや人工知能（AI）、デジタルサイネージなどITでタクシーを武装し、生き残りをかける日本交通。インタビューの後半は世界と日本のタクシー業界の動向を川鍋一朗会長に尋ねた。]]></description>
@@ -270,6 +276,39 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/122000981/</link>
 			<description><![CDATA[　大谷翔平選手が米大リーグのエンゼルスに入団することが決まった。大リーグというと、日本のプロ野球にもまして契約金や年俸が高いイメージがある。しかし今回の大谷選手の契約では、それほど大きな金額は動いていないという。]]></description>
 			<pubDate>Thu, 21 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>脆弱性管理、先進的なツールの特徴は（後）（脆弱性管理、先進的なツールの特徴は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/121100097/121100002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　脆弱性管理という重要なテーマに対して、先進的なツールがどのように対処しているか、4種類の脆弱性管理ツールを見ていこう。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121100097/121100001/" target="_blank">前回</a>から続く）</p>
+
+<h4>2．Crossbow</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/121100097/121100002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　攻撃が最大の防御となる場合もある。これは、米セキュリティ企業SCYTHEが脆弱性評価プラットフォーム「Crossbow」を開発するうえで土台となった考え方だ。Crossbowは仮想脅威のサンドボックスで、SaaSかオンプレミスのいずれかの形で導入する。管理者は、これまでに実際に起きた攻撃（WannaCry、Goldeneye、Haxdoorなど）を読み込んで展開したり、新しい脅威を一から作成したりできる。こうして用意した脅威を対象のネットワークに送り込むことで、脆弱性を精査できる。</p>
+
+<p>　Crossbowは、CSO.comがこれまでにレビューで取り上げた防御プログラムの中でも特に危険なものかもしれない。Crossbowで読み込みや作成を行える攻撃はすべて本物で、過去に数々の企業でサイバーセキュリティの防御を打ち破ってきた実際の手法と戦術を使っている。ペイロードだけは無力化されているが、その部分すら選択可能だ。つまりCrossbowは、脆弱性への接触、テスト、管理を行うツールとして世に出ている中でも最もリアルだ。トータルで見ると、Crossbowは、軍隊で言えば机上演習よりは実弾演習にずっと近い。Crossbowが放つ仮想脅威は本物だからだ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121100097/121100002/?ST=cm-software&P=2">3．Risk Fabric</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121100097/121100002/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121100097/121100002/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121100097/121100002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 21 Dec 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
