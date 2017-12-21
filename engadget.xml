@@ -5,34 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    サムスンが新スマホGalaxy A8 / A8+発表、縦長OLEDにフロント2眼カメラのハイミドル機
-</title>
-			<link>http://japanese.engadget.com/2017/12/19/galaxy-a8-a8-oled-2/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/d9d046c7f3917a2f74318c7f23f99038/205967758/galaxya8.jpg" />
-SamsungがGalaxyS8、S8+と同様のデザインを採用したハイミドル端末、Galaxy A8(2018)、A8+(2018)を発表しました。
-
-ディスプレイは18.5:9のInfinity Display（OLED方式）を採用。解像度は2220x1080。Galaxy S8と共通のデザインにも見えますが、側面は湾曲したエッジディスプレイにはなっていません。なお、ディスプレイサイズはA8が5.6インチ、A8+が6.0インチです。
-
-最大の特徴はフロント側のデュアルカメラ。1600万画素+800万画素の構成でどちらもF1.9。Galaxy Note 8のリアカメラのように標準、望遠（クローズアップ）を切り替えて使うようになっており、ボケ味を調整できるLive Focusにも対応します。
-
-背面カメラはシングル仕様で1600万画素 F1.7。S8やNote 8ではカメラのすぐ横にあり、間違ってカメラを触ってしまうとの不満が多かった指紋センサは下側に配置されています。
-
-
-
-
-その他主な仕様は、SoCは2.2GHz Dual + 1.6GHz HexaのOcta Core。型番は示されていませんが、未発表のExynos 7885のようです。RAMはA8が4GB、A8+が4GBと6GB。ストレージはどちらも32GB/64GB。バッテリー容量はA8が3000mAh、A8+が3500mAhとなっています。
-
-また、IP68の防水防塵性能を備えるほか、Aシリーズとして初めて、SamsungのVRゴーグル Gear VRにも対応します。
-
-Androidのバージョンは7.1.1に留まりますが、Galaxy S8やNote8もまだAndroid 8.0 Oreoにはアップデートが行われていないので、仕方がないところでしょうか。
-
-発売は2018年1月の予定。価格は未発表ですが、仕様をみると5万円～6万円程度にはなりそうです。未発表のSoCも含め、1月のCESで詳細な発表があるものと考えられます。
-
-なお、Galaxy A8と言えば、2015年にはauからSCV32として発売されたこともあります。その後、海外ではGalaxy A8(2016)もリリースされていますが、こちらは国内未発売。S8ほどのハイエンドモデルはいらない・手が出ないけれど同様のデザインで、普段使いに十分なハイスペック端末が欲しい層には人気が出そうなだけに、国内での販売も期待したいところです。
- ]]></description>
-			<pubDate>Tue, 19 Dec 2017 21:45:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    ファーウェイ旗艦スマホ「Mate 10 Pro」を徹底解説：週刊モバイル通信 石野純也
 </title>
 			<link>http://japanese.engadget.com/2017/12/19/mate-10-pro/</link>
@@ -619,6 +591,18 @@ Twitter：https://twitter.com/T_ELECTRICS
 オンラインショップ：http://store.shopping.yahoo.co.jp/ftk-tsutayaelectrics/
  ]]></description>
 			<pubDate>Thu, 21 Dec 2017 04:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Linux版Spotifyアプリ、Snapパッケージ化でインストールがかんたんに。自動アップデートも対応
+</title>
+			<link>http://japanese.engadget.com/2017/12/21/linux-spotify-snap/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/f8fe8ed1146160ec512576be7e1cb1d1/205972178/sptf.png" />
+　
+LinuxディストリビューションUbuntuを開発するCanonicalが、音楽ストリーミングサービスSpotifyのLinux用クライアントアプリをSnapパッケージ化しました。
+
+Snapとは、ディストリビューションの垣根を取り払ってかんたんにそれぞれに対応するアプリケーションを導入可能にする新しいパッケージシステムで、UbuntuだけでなくDebian、Fedora、openSUSE、Arch Linux、Linux Mintなど様々なディストリビューションが対応しています。
+ ]]></description>
+			<pubDate>Thu, 21 Dec 2017 05:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
