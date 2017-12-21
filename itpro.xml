@@ -268,5 +268,41 @@
 			<description><![CDATA[　まだLinuxが生まれてから2年ほどだった、1993年に登場した最古参のLinuxディストリビューションが「Slackware」です。シンプルさが信条のOSで、600円台からの小型PC「Raspberry Pi（ラズパイ）」にピッタリなOSです。]]></description>
 			<pubDate>Fri, 22 Dec 2017 05:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>デジタルディスラプションで投資を拡大、CIOとしての取り組みは（下）（デジタルディスラプションで投資を拡大、CIOとしての取り組みは）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/121100096/121100003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　今回の記事では、一線級のCIOがイノベーションを促進するために行っている取り組みについて数例を紹介する。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121100096/121100002/" target="_blank">前回</a>から続く）</p>
+
+<h4>農作物の栽培をデータサイエンスで最適化</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/121100096/121100003/ph3.jpg" width="300" alt="" title=""></div></div>
+
+<p>　農業とハイテクは不釣り合いな組み合わせに思えるかもしれないが、米Monsantoはその認識を打ち破ろうとしている。同社CIOのJames Swanson氏は、トウモロコシなどの農作物の栽培に最適な条件を正確に突き止めるための分析プラットフォーム「science@scale」を立ち上げた。Forbes CIO Nextのイベントに登場したSwanson氏の話によると、このシステムは、種子の遺伝的特徴、気候、水、土壌、栄養などの特性について、数百万のデータポイントに対するシミュレーションを実行する。</p>
+
+<p>　science@scaleは、米Amazon.comの「Amazon Web Services（AWS）」や、米Googleの機械学習ライブラリ「TensorFlow」などのテクノロジーを活用して、以前なら何カ月もかかったシミュレーションを数分で処理し、1700万ドルの売上増につなげている。Swanson氏はMonsantoの姿勢を「オーダーメイド医療」になぞらえた。それぞれの顧客が手がける農作物の栽培について、最善の種子、条件、土壌を個別に見極めるための支援を行う。現在同社は、10メートル四方の農地のレベルで最適な栽培条件を突き止めることができる。「これはほんの出発点だ。得られる情報が増えるにつれて、ますます成果が上がっていく」とSwanson氏は言う。</p>
+
+<p>　Swanson氏によると、理想的には、トウモロコシの生産量を1エーカー当たり185ブッシェルから500ブッシェル近くまで増やすのがMonsantoの目標だ。「地球上で最古の産業が、テクノロジーとデータサイエンスで変わりつつある」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121100096/121100003/?ST=cio-management&P=2">起業家精神で鉄道会社の事業を多角化</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121100096/121100003/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121100096/121100003/?ST=cio-management&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121100096/121100003/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 22 Dec 2017 06:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
