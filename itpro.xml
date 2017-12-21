@@ -310,5 +310,44 @@
 ]]></description>
 			<pubDate>Thu, 21 Dec 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>Go言語のコードをJavaScriptに変換する「Joy」（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122100389/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Googleが開発したGo言語（Golang）をWebプログラミングに使いたいと考えている開発者は、オープンソースのコンパイラ「Joy」を試してみてもよいかもしれない。現在はベータ段階で、本番環境向けの正式版には至っていないが、Goで作成したコードをJavaScriptに変換できる。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122100389/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　Joyプロジェクトの説明によると、このコンパイラでは、Goの流儀のコードをJavaScript（ECMAScript 3）のコードに変換し、どのブラウザでも動かせるようになる。（ロードマップでは、ECMAScript 5のコードへの対応にも言及している）。また、JavaScript開発者がGoの型システムやツールを使うこともできる。Joyプロジェクトを立ち上げたMatthew Mueller氏によると、Joyのトランスレータの開発は9割程度まで完了している。
+</p>
+<p>
+　今後のロードマップでは、Goから変換できるJavaScriptのバリエーションの拡大や、汎用性のあるバイナリフォーマット「WebAssembly」への変換に対応する計画などが示されている。また、JavaScriptのUIライブラリ「React」や、その代替ライブラリである「Preact」のサポートも予定している。
+</p>
+<p>
+　Joyコンパイラは、Goのコードをパースして抽象構文木（AST：Abstract Syntax Tree）を生成し、インデックスの処理をへて、依存関係グラフを作成する。そして、GoのASTをJavaScriptのASTに変換したうえで、JavaScriptのコードを生成する。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122100389/?ST=cio-appli&P=2">Joyのダウンロード方法</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122100389/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122100389/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122100389/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 21 Dec 2017 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
