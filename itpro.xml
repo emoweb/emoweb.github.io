@@ -327,5 +327,53 @@
 ]]></description>
 			<pubDate>Mon, 25 Dec 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>W3Cが「HTML 5.2」を勧告、変更点は（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/122500454/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　Web技術の標準化団体World Wide Web Consortium（W3C）は2017年12月14日、「HTML 5.2」を勧告とした。HTML5の中心をなす正式な仕様の最新版だ。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/122500454/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　HTML 5.2の仕様は、Webページの構造について定めている。今回のバージョンアップでは、セキュリティやオンライン決済に関する機能が強化されたほか、新機能を追加し、不備の修正などが行われた。また、モダンWebプラットフォームで不要と考えられる機能が廃止となった。
+</p>
+<h4>
+HTML 5.2の新機能と変更点
+</h4>
+<p>
+　HTML 5.2の主な新機能は次のとおりだ。
+</p>
+<ul>
+<li>Content Security Policyへの対応。Webページがリソースの取得や実行を行う際に、使用を認めるリソース提供元をWeb開発者が制御するための仕組みを利用できる。また、セキュリティに関するその他の判断もカバーしている。開発するアプリケーションの防御を固め、クロスサイトスクリプティングなど、コンテンツを埋め込まれるタイプの脆弱性のリスクを軽減できる。
+</li>
+<li>Payment Request APIへの対応。Web上で商品やサービスを販売する際に、最小限の手間で決済手段を提供できるように標準化されたAPIを利用できる。ブラウザーは、決済の当事者（売り手、買い手、決済手段提供者）の仲立ちとして機能する。Web上の決済を扱いやすくして、リスクを軽減することを狙いとしたAPIだ。
+</li>
+<li>リッチ・インターネット・アプリケーションのアクセシビリティ。障がいを持つ人々に対して、優れたユーザーエクスペリエンスを提供できる。アクセシビリティと相互運用性を高めるためのフレームワークが用意されている。
+</li>
+<li>main要素の定義の更新。現代のレスポンシブデザインのパターンに対応できるようになった。
+</li>
+</ul>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/122500454/?ST=cm-software&P=2">HTML5.2で廃止された主な機能は次のとおり。showModa...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/122500454/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/122500454/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/122500454/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 25 Dec 2017 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
