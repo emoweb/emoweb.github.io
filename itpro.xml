@@ -269,5 +269,35 @@ HTML 5.2の新機能と変更点
 			<description><![CDATA[　Mobileye153億ドル、NeuroDerm11億ドル、Plarium5億ドル、Gigya3.5億ドル、Enzymotec1.68億ドル――。 2017年に買収されたイスラエル企業の金額トップ5だ。大きな買収がイスラエルで起こっている背景にはスタートアップ企業の多さがある。]]></description>
 			<pubDate>Tue, 26 Dec 2017 05:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>境界セキュリティの再定義、未来はハイブリッド（前）（境界セキュリティの再定義、未来はハイブリッド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/121800099/121800001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　境界防御の考え方は、サーバーそのものと同じくらい古い。その言葉から連想されるのは、施錠された部屋の中で「ENIAC」の大きさのマシンが音を立てて動いていて、ファイアウォールで外の世界と隔てられている様子だ。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800099/121800001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　しかし、米中央情報局（CIA）の職員でもない限り、皆さんの現実は、そのイメージとはおそらく違うだろう。今では、保護の対象となるデータがクラウド上に置かれていて、世界各地のノートパソコンや携帯電話との間を行き交っている。あるいは、外からはAPIの接続があり、中からはメールの送出がある。あらゆる場所にデータが存在するとなると、セキュリティもあらゆる場所になくてはならない。実際のサーバーを連想する人間からすると、果たして境界なるものは今も存在するのだろうかという気にならざるを得ない。</p>
+
+<p>　「（境界というのは）極めて限定された見方だ。Wi-Fiとクラウドの世界では成立しない」。そう話すのは、クラウドID管理の米OktaでAPIの問題解決を担うKeith Casey氏だ。同氏は複数のスタートアップでアドバイザーも務めている。「これまでずっと頼りにしてきた境界を、今では頼れない。必然的に状況が異なる。以前であれば、回線で物理的につながった社内ネットワークに接続していれば、セキュリティプロトコルが適用されていると言うことができた。会社のネットワークに物理的にアクセスできる人は信頼できた」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800099/121800001/?ST=cm-network&P=2">クラウドがなかった頃は、こうした境界防御に加えて、アンチウイルス...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800099/121800001/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800099/121800001/?ST=cm-network&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800099/121800001/?ST=cm-network&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800099/121800001/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 26 Dec 2017 06:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
