@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>サンスターと富士通、IoT歯ブラシと歯科医院をクラウドで連携し予防歯科（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/122502914/</link>
-			<description><![CDATA[　サンスターと富士通は2017年12月25日、歯ブラシに取り付けるセンサーと、歯科医院向けのクラウドサービスを連携させた新サービスを2018年1月末に始めると発表した。歯みがきの回数や時間を把握できるサンスターのセンサー「G・U・M PLAY（ガム・プレイ）」と、患者がパソコンやスマートフォンで検査結果を閲覧できる富士通の歯科医院向けクラウドサービスを連携させる。日常の歯みがきの状況に応じて歯科医院が患者を指導できるようにして、虫歯や歯周病にならないための「予防歯科」の定着をめざす。]]></description>
-			<pubDate>Mon, 25 Dec 2017 18:17:11 +0900</pubDate>
-		</item>
-		<item>
 			<title>教師データなしで学習、サプライチェーンを効率化するAIを日立が開発（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/122502915/</link>
 			<description><![CDATA[　日立製作所は2017年12月25日、教師データなしで人工知能（AI）がデータを生成し学習するAIを開発したと発表した。実用例としてサプライチェーンにおける在庫の適正化などを挙げる。ソースコードを日立グループ内に公開することで、同社が提供する製造や小売、金融といった業界向けのサービスを強化する狙いだ。]]></description>
@@ -262,6 +256,44 @@ Fireタブレットはウイルスに感染しないのか？
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/122500112/</link>
 			<description><![CDATA[　「やっぱり、我が社もボヨヨンですかね」。エレクトロニクス業界のコンサルタントとして飛び回っていた20代の頃、ある大手素材メーカーの部長が私に尋ねた質問です。私が彼に説明していたのは、エレクトロニクス産業と素材産業の違いについてです。]]></description>
 			<pubDate>Wed, 27 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>SaaS型のTBMがCIOにもたらす価値（後）（SaaS型のTBMがCIOにもたらす価値）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/121800098/121800002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　企業の最高情報責任者（CIO）は、生産コストに照らしてITサービスの価値を定量化することに長年苦労してきた。経済性に関するこうしたブラックボックスは、IT部門と業務部門の間に不信をもたらす。業務を支えるデジタル機能の導入をIT部門が進める中で、両者の溝は広がっている。そこで、Technology Business Management（TBM）を取り入れるCIOが増えつつある。ITサービスの価値を立証することを狙いとした統制だ。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800098/121800001/" target="_blank">前回</a>から続く）</p>
+
+<h4>振り子の揺り戻しにTBMで対応</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800098/121800002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　米石油大手Chevronの技術・戦略およびサービス担当ゼネラルマネージャー、Amy Absher氏は、2012年当時、気分上々だった。事業は好調で、全社で人員を採用していた。しかも、Absher氏は変革によって10億ドル以上の価値を達成したところだった。アプリケーションの数を1万4000から5000に絞り込み、またプロジェクトポートフォリオを30％減らした。</p>
+
+<p>　だがその後、循環の波がある石油・ガス業界ではよくあることながら、振り子が逆方向に振れた。市場の風向きが変わり、ITコストは急増した。Absher氏は、Ciscoの当時のCIO、Rebecca Jacoby氏の助言に従って、Apptioを採用することを決めた。消費しているITコストやサービスの透明性を高めるためだ。Absher氏は「彼女（Jacoby氏）はマネジメントシステムに関して詳しく説明し、上下の変動に対応できるように、そして透明性とアカウンタビリティの仕組みを手にできるようにしてくれた」と話す。</p>
+
+<p>　Absher氏はまず、大規模なユーティリティやERP（統合基幹業務システム）を統制している中央のIT部門にApptioを導入した。さらにその後、拡大する業務ニーズを支えるイノベーションの創出を目指して各種部門に組み込まれているITグループにも導入した。2014年には、各業務部門が利用したITサービス、ハードウエア、ソフトウエアのコストを示す同社初のチャージバックモデルを構築した。</p>
+
+<p>　「我々が何より優先していたのは、透明性を高めることと、課金や回収について、より生産的な対話を可能にすることだ。消費しているものにかかっているコストを皆が理解できるようになる」とAbsher氏は言う。いずれは、ITの部分だけでなく、サービス全体のコストを分析するうえでApptioが力になることをAbsher氏は願っている。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800098/121800002/?ST=cio-management&P=2">経済的な透明性</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800098/121800002/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800098/121800002/?ST=cio-management&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800098/121800002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 27 Dec 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
