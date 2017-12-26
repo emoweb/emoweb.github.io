@@ -299,5 +299,53 @@ HTML 5.2の新機能と変更点
 ]]></description>
 			<pubDate>Tue, 26 Dec 2017 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>AmazonのFireタブレットにウイルス対策アプリは必要か？（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122600390/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　よく尋ねられる質問の1つとして、米Amazon.comのタブレット「Fire」にウイルス対策ソフトをインストールする必要はあるか、というものがある。（「Kindle Fire」とも呼ばれているタブレットだが、Amazonは数年前にその製品名から「Kindle」という部分をなくした）。
+</p>
+<p>
+　質問への答えを簡潔に言えば、インストールする必要はない。しかし、ユーザーに攻撃の手が及ばないということではない。危険を避けるための注意点を説明していこう。
+</p>
+<h4>
+Fireタブレットはウイルスに感染しないのか？
+</h4>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122600390/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: IDG</div>
+</div>
+<p>
+　技術的には、Fireタブレットも感染の可能性はある。しかし、サイバー犯罪者はWindows向けのマルウエアの作成に何より労力を注ぐことが多い。Windowsは何億という数のパソコンで動いているからだ。それに比べたら、Fireタブレットの数は非常に少ない。したがって、サイバー犯罪者からすると、Fireユーザーを標的にする動機はほとんどない。
+</p>
+<p>
+　しかも、Amazonのアプリストアからのみアプリをインストールしている限り、ウイルスが埋め込まれたアプリがタブレットに入り込む可能性は極めて低い。
+</p>
+<p>
+　また、仮にそのようなアプリがあったとしても、端末上のファイルや、カメラやマイクなどのハードウエアに対して、自由にアクセスできるわけではない。アプリをインストールする際にアクセス権限を与えなければ、こうしたアクセスはいずれも不可能である。納得がいかない場合や、アプリを完全には信用できない場合は、アクセス権限を与えないことだ。
+</p>
+<p>
+　さらに、Fireタブレットは自動でアップデートされるので、最も安全であるべき最新版のソフトウエアが随時インストールされる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122600390/?ST=cio-security&P=2">では、何に注意が必要なのか？</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122600390/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122600390/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122600390/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 26 Dec 2017 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
