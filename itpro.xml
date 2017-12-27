@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>KDDI・ゼンリン・富士通、 自動運転向け地図の生成・配信で実証実験（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/122602918/</link>
-			<description><![CDATA[　KDDIとゼンリン、富士通は2017年12月26日、2018年1月から自動運転で用いる「ダイナミックマップ」の生成に必須となる大容量データの情報収集と、自動運転車両へのダイナミックマップ配信技術の実証実験を開始することで合意したと発表した。]]></description>
-			<pubDate>Tue, 26 Dec 2017 16:18:23 +0900</pubDate>
-		</item>
-		<item>
 			<title>2020年を見据えた新製品も、パナソニックが平昌冬季五輪に製品納入（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/122602919/</link>
 			<description><![CDATA[　パナソニックは2017年12月26日、2018年2月に開催される韓国・平昌（ピョンチャン）冬季五輪に向けた同社製品の納入予定を明らかにした。開会式・閉会式向けに高輝度レーザー光源プロジェクターを始めとしたオペレーションシステムを納入する。]]></description>
@@ -260,6 +254,38 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/120300553/122600013/</link>
 			<description><![CDATA[　2017年に急増したボードゲームカフェ。しかし未経験の人にはまだまだ「入りにくい居酒屋」という認識らしい。この記事では、「支払いが難しそう」「メニューがよく分からない」「ボードゲームできないと入れない」という誤解を解消してもらい、年末年始に仲間を誘って「デビュー」を果たすのにお勧めのお店を紹介する。]]></description>
 			<pubDate>Thu, 28 Dec 2017 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>境界セキュリティの再定義、未来はハイブリッド（後）（境界セキュリティの再定義、未来はハイブリッド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/121800099/121800002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　境界防御の考え方は、サーバーそのものと同じくらい古い。その言葉から連想されるのは、施錠された部屋の中で「ENIAC」の大きさのマシンが音を立てて動いていて、ファイアウォールで外の世界と隔てられている様子だ。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800099/121800001/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800099/121800002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　今では、すべてのものが境界の内側にあるわけではないし、そうあるべきではないとWilson氏は認める。例えば、学内の劇場のチケット発券には、あるベンダーが提供するSaaSを利用しており、独自のセキュリティを備えている。また、学生が使うメールも境界の内側にはない。今から4年前に、米MicrosoftのOffice 365に移行した。さらに、中間に位置するさまざまな情報がある。例えば、同大学のWebサイト（centre.edu）のコードなどだ。</p>
+
+<p>　このサイトについてWilson氏は、「世界に向けて発信しているもの以外は何もない。ここに関して重要なのは、（データをひそかに抽出されるのを防ぐことではなく）ハッキングを受けないことだ」と話す。最終的には、大半のデータはハイブリッドシステムで保護されており、クラウド経由でアクセスする物理サーバーに置かれている。これらのサーバーには、オンプレミスの境界防御があり、さらに内部防御で接続を保護している。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800099/121800002/?ST=cm-network&P=2">Casey氏に言わせれば、こうした手法は、境界が変わりつつある証...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800099/121800002/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800099/121800002/?ST=cm-network&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800099/121800002/?ST=cm-network&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/121800099/121800002/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 28 Dec 2017 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
