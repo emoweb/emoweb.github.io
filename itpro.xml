@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>2020年を見据えた新製品も、パナソニックが平昌冬季五輪に製品納入（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/122602919/</link>
-			<description><![CDATA[　パナソニックは2017年12月26日、2018年2月に開催される韓国・平昌（ピョンチャン）冬季五輪に向けた同社製品の納入予定を明らかにした。開会式・閉会式向けに高輝度レーザー光源プロジェクターを始めとしたオペレーションシステムを納入する。]]></description>
-			<pubDate>Tue, 26 Dec 2017 17:54:27 +0900</pubDate>
-		</item>
-		<item>
 			<title>富士通が音声AIアシスタント「ふくまろ」、個人向けPCに搭載へ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/122602920/</link>
 			<description><![CDATA[　富士通グループは2017年12月26日、個人向けPC「FMVシリーズ」の新製品を発表した。新機能として、独自開発のAIアシスタントの「ふくまろ」を搭載する。]]></description>
@@ -286,6 +280,43 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 28 Dec 2017 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google、Androidアプリに新バージョンAPIへの対応を義務づけ（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122800391/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Googleは、Androidアプリの開発者に向けて、「Google Playストア」におけるアプリ登録のポリシーを一部変更する計画を明らかにした。ただし、Androidの断片化問題に対する特効薬にはなりそうにない。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122800391/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Thinkstock/Android</div>
+</div>
+<p>
+　Googleは、2017年12月19日の公式ブログ記事で、Playストアへのアプリ登録のポリシーに関して、2018年以降に3つの点を変更することを発表した。1つ目は、新しいバージョンのAndroidのAPIレベルをターゲットにするよう、新規アプリと更新版アプリに義務づけるというもの。アプリのコードが新バージョンのAndroidをターゲットにしていなければPlayストアに登録できない。
+</p>
+<p>
+　2つ目は、Playストアで公開するAndroidアプリの配布パッケージ（APK）の一つひとつに、小さなセキュリティメタデータを付加して、正規のアプリであることの証明を強化するという変更だ。これは2018年初めから適用する。3つ目は、ネイティブライブラリを使用する新規アプリと更新版アプリについて、32ビット版に加えて64ビット版の提供を義務づける。この変更は2019年8月から適用する。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122800391/?ST=cio-appli&P=2">米Appleが「AppStore」に厳格なポリシ...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122800391/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122800391/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122800391/?ST=cio-appli&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/122800391/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 28 Dec 2017 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
