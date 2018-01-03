@@ -5,24 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：大手IT企業が新元号対応に動く、焦点は「合字」の扱い（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/122001253/?n03</link>
-			<description><![CDATA[　平成が31年で終わり、2019年に新たな元号が施行されることが決まった。日本マイクロソフトをはじめ大手ITベンダーは影響調査に動き出した。元号の表記に使う「合字」対応など特有の作業が必要になる。]]></description>
-			<pubDate>Fri, 22 Dec 2017 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>富士通が音声AIアシスタント「ふくまろ」、個人向けPCに搭載へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/122602920/</link>
-			<description><![CDATA[　富士通グループは2017年12月26日、個人向けPC「FMVシリーズ」の新製品を発表した。新機能として、独自開発のAIアシスタントの「ふくまろ」を搭載する。]]></description>
-			<pubDate>Tue, 26 Dec 2017 19:39:08 +0900</pubDate>
-		</item>
-		<item>
-			<title>オプティムがIT農業に本格参入、ドローン無償・収穫買い取りで農家と収益分配（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/122602921/</link>
-			<description><![CDATA[　IoT（インターネット・オブ・シングス）やモバイル関連のITベンチャーであるオプティムはドローンやIoT、AI（人工知能）を駆使した低農薬作物の栽培に参入したい農家向けの支援プログラムを発表した。参加した農家にドローンなどのシステム一式を無償で提供し、収穫物も全数をオプティムが買い取る。]]></description>
-			<pubDate>Tue, 26 Dec 2017 20:38:49 +0900</pubDate>
-		</item>
-		<item>
 			<title>「日本企業はシステムに金をかけすぎ」、ワークスアプリケーションズCEO（下）（経営の本音）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/113000287/112400039/</link>
 			<description><![CDATA[　新たな投資ファンドが筆頭株主になり、財務基盤を整えたというERP（統合基幹業務システム）専業のワークスアプリケーションズ。牧野正幸CEOは、AIを搭載したERP新製品「HUE」を武器に打倒SAP、オラクルを目指す。]]></description>
@@ -323,6 +305,48 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 28 Dec 2017 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ランサムウエアとワームがまさかの合体、強力な集金ツールがネットを襲う（新春 編集長の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/120500556/121900001/</link>
+			<description><![CDATA[　2017年も様々なセキュリティインシデントが発生した。その中で最も印象に残ったのは、ランサムウエア「WannaCry」の出現だった。ランサムウエアとワームの性質を併せ持つWannaCryは、新たな攻撃スキームの可能性を示してしまった。2018年も同様のウイルスが出現する可能性が高い。]]></description>
+			<pubDate>Thu, 04 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「言葉は違えど課題は同じ」、米国スタートアップが国内CTOに指南（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/122700306/</link>
+			<description><![CDATA[　グローバル市場の攻略は、国内企業にとって大きなテーマである。言語や商習慣の違い、時差など多くのハードルがある。2017年12月12日と13日に開催された、ネット事業推進企業のCTO（最高技術責任者）向けイベントでは、グローバル市場を狙う企業にとって興味深いやり取りが交わされた。]]></description>
+			<pubDate>Thu, 04 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「中小企業のセキュリティをAIで守る」、英ソフォスCEO（インタビュー＆トーク）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/122700357/</link>
+			<description><![CDATA[　1985年創業の老舗セキュリティベンダーである英ソフォス（Sophos）。2017年2月に機械学習を生かしたシグネチャレスのエンドポイントセキュリティ製品が強みの米インビンシア（Invincea）を買収し、ソフォス製品との統合を進めている。クリス・ヘイゲルマンCEOに、2018年の戦略を聞いた。]]></description>
+			<pubDate>Thu, 04 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>2018年はTTP-Sで決まり（新春 編集長の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/120500556/122500003/</link>
+			<description><![CDATA[　イノベーション、デジタル変革、攻めのIT――。「もう聞き飽きた」との声が聞こえてきそうだが、2018年もITpro読者は、これらのテーマに引き続き挑まねばならない。全ての企業が生き残りをかけて取り組むべきことが、デジタル化であるからだ。では2018年、イノベーションやデジタル変革をどう進めればいいのか。]]></description>
+			<pubDate>Thu, 04 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>システム開発現場の「価値観」激変に備えよ（新春 編集長の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/120500556/122500006/</link>
+			<description><![CDATA[　2018年も企業のデジタルシフトは加速する。そうしたユーザーの動向は当然、システムを開発する現場にも影響する。まず、システムを開発するときの現場の「価値観」が変わる。ここでいう価値観の変化とは、システム開発において重視する項目の優先順位が変わるという意味だ。]]></description>
+			<pubDate>Thu, 04 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIで受験生の学習効率を高める、リクルートが「スタディサプリ」を強化（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/122801262/</link>
+			<description><![CDATA[　この科目はこの単元にこの順番で取り組んでください――。リクルートは生徒ごとに適した学習方法をAIが指南するサービスを始める。画一から個別へと教え方の常識が変わる可能性が出てきた。]]></description>
+			<pubDate>Thu, 04 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>新春ITクイズ、「MOSUPC」の次に来る英文字は？（新春 編集長の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/120500556/122500004/</link>
+			<description><![CDATA[　アルファベットの並び順から規則性を見抜いて次に来る文字を当てるクイズがある。そこで新春ITクイズ。「MOSUPC」に続く英文字はなんでしょう。ヒントはIT業界の動作プラットフォームの変遷である。]]></description>
+			<pubDate>Thu, 04 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
