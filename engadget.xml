@@ -5,17 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    インテルやARM､AMDのCPUに脆弱性、機密情報が漏れる可能性。PCやスマホのアップデートを推奨
-</title>
-			<link>http://japanese.engadget.com/2018/01/04/arm-amd-cpu-pc/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/7b6386f3ee3f3d37403c2d0ef10714bc/205998772/mainintel.jpg" />
-インテルは2017年11月にCPUの不具合から遠隔操作される脆弱性を公表、その解決に取り組んでいます。しかし今度はインテル製CPUだけでなくARMやAMDなどのCPU製品にまで影響するセキュリティ上の問題が見つかりました。
-
-これはCPUが備える先読み命令実行機能の問題を突くことで、OSが直接使用するカーネルメモリーとして保護されるはずの領域に、一般のプログラムからある程度アクセスできてしまうというもの。インテルだけでなく、ARMやAMDといった各社のプロセッサーでに影響があると報告されており、特にインテル製CPUの場合は約20年前から問題が存在していたとされます。
- ]]></description>
-			<pubDate>Thu, 04 Jan 2018 10:30:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    2010年の今日、Nexus Oneが発表されました：今日は何の日？
 </title>
 			<link>http://japanese.engadget.com/2018/01/04/2010-nexus-one/</link>
@@ -534,6 +523,23 @@ Nanoと比べた際の強化点は、4K動画対応など基本性能の強化�
 ・2009年1月9日、マイクロソフトが「Windows 7」の&beta;版を一般提供開始
  ]]></description>
 			<pubDate>Mon, 08 Jan 2018 15:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    ソニー Xperia XA2 Ultra発表。デュアル前面カメラ採用、6インチ大画面の新世代Xperia
+</title>
+			<link>http://japanese.engadget.com/2018/01/08/xperia-xa2-ultra-6-xperia/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/46786be9c99f7b914f53ba54c2235eae/206010708/xa2ultra.jpg" />
+
+米国ラスベガスの家電・IT見本市 CES 2018 を直前に、ソニーが Xperia スマートフォンの新モデル Xperia XA2 / XA2 Ultra / L2 を発表しました。
+
+Xperia XA2 Ultra は、超縦長ではない16:9の6インチ大画面と、自撮りに特化したフロントデュアルカメラが特徴の製品。
+
+前面カメラは片方が8M画素センサ、F2.4レンズの広角120度でグループセルフィー用、もう片方は16M画素、F2.0で光学手ブレ補正対応、ISO 6400まで。明るくない場所でもきれいに撮る担当です。
+
+
+<p><a href="http://japanese.engadget.com/gallery/xperia-xa2-ultra-press-images-0/" title="Xperia XA2 Ultra">【ギャラリー】Xperia XA2 Ultra (10枚)</a></p><p><a href="http://japanese.engadget.com/gallery/xperia-xa2-press-images-0/" title="Xperia XA2">【ギャラリー】Xperia XA2 (8枚)</a></p>
+ ]]></description>
+			<pubDate>Mon, 08 Jan 2018 16:47:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
