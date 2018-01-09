@@ -5,13 +5,6 @@
 		<link>https://forest.watch.impress.co.jp</link>
 		<description>Windows用オンラインソフトの専門サイト。 関連ニュースも提供。</description>
 		<item>
-			<title>【Excel】セルに「10人」や「40個」と入力したら集計できなくなった！エクセルで単位をつけたまま数値を計算するテク【いまさら聞けないExcelの使い方講座】</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/d236a9817585063eb1af7b304b0122eb?ul=uQC7EESV1Wm56o5v62nyyNaeDBIGU3zCmoIaXBXamfauDbG225D1hp6cNYyJtUnXT6V7QHjq5jloOQYB71DHJbSyXhmWLUL4LMhX9uIejn15OVyyx</link>
-			<description><![CDATA[<p>　Excelを使った業務の中で、「10人」や「40個」のように単位をつけたままデータを表示したいと思ったことはないでしょうか。でも、1つのセルに「40」という数値と「個」という文字列を一緒に入力してしまうと、入力値は文字列と判断されてしまい、数式などを用いて計算することはできないですよね（①）。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/d236a9817585063eb1af7b304b0122eb"/></p>]]></description>
-			<pubDate>Fri, 05 Jan 2018 06:50:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>オフィス統合環境「Apache OpenOffice」の最新版v4.1.5が公開／いくつかのリグレッション修正にフォーカスしたメンテナンス更新、脆弱性の修正はなし</title>
 			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/c18887e9a91668fdac4b0a9f5779841e?ul=LOQpkfpPqAGWUUMl4ByXrEUfwNB7H2lHI2Dc3ciF.qcFq3Nfura5GqIwJLPhF194QO1iYHez2lscrasWO8zip4yPRcrl</link>
 			<description><![CDATA[<p>　The Apache Software Foundationは12月30日（米国時間）、オープンソースのオフィス統合環境「Apache OpenOffice」v4.1.5を公開した。本バージョンは、いくつかの機能後退（リグレッション）の修正にフォーカスしたメンテナンスアップデートとなっている。
@@ -136,6 +129,13 @@
 			<description><![CDATA[<p>　文書や写真など、「Microsoft Edge」でダウンロードしたファイルは、標準では“ダウンロード”フォルダーに保存されます。
 <img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/b5192d781290870bff3c95284f8b2e1c"/></p>]]></description>
 			<pubDate>Wed, 10 Jan 2018 06:25:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【Excel】共有した進捗表を編集しようとしたらロックされていた！チームのメンバー同士でブックを同時編集するテク【いまさら聞けないExcelの使い方講座】</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/744875f3d6cf561823047ec9ce5780f9?ul=49J1UHN1ZJs4vr1nKUKJf_wSnRJdOVStO_C3J20cmfpZqbKUQlvhsCYO.x7vFkBH3oz1aqIdHdVHqp3A3byJlqRT8NHcDkWb9Oof.6tSlgj4LOQe0</link>
+			<description><![CDATA[<p>　進捗表などの資料をネットワーク上でチームメンバーと共有することはよくありますよね。各メンバーが、プロジェクトや担当業務の状況を進捗表に書き込んでいくといった管理を行うことも多いと思います。自分の担当分の情報を更新したいのに、いつも誰かがブックを開いているため、ブックがロックされていて（①）、なかなか編集できずに困った経験はありませんか。特に相手が上司だったりすると「早くファイルを閉じてください」とは言いづらいですよね。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/744875f3d6cf561823047ec9ce5780f9"/></p>]]></description>
+			<pubDate>Wed, 10 Jan 2018 06:55:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
