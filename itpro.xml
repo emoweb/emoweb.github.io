@@ -5,54 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>ランサムウエアとワームがまさかの合体、強力な集金ツールがネットを襲う（新春 編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/120500556/121900001/</link>
-			<description><![CDATA[　2017年も様々なセキュリティインシデントが発生した。その中で最も印象に残ったのは、ランサムウエア「WannaCry」の出現だった。ランサムウエアとワームの性質を併せ持つWannaCryは、新たな攻撃スキームの可能性を示してしまった。2018年も同様のウイルスが出現する可能性が高い。]]></description>
-			<pubDate>Thu, 04 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「言葉は違えど課題は同じ」、米国スタートアップが国内CTOに指南（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/122700306/</link>
-			<description><![CDATA[　グローバル市場の攻略は、国内企業にとって大きなテーマである。言語や商習慣の違い、時差など多くのハードルがある。2017年12月12日と13日に開催された、ネット事業推進企業のCTO（最高技術責任者）向けイベントでは、グローバル市場を狙う企業にとって興味深いやり取りが交わされた。]]></description>
-			<pubDate>Thu, 04 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「中小企業のセキュリティをAIで守る」、英ソフォスCEO（インタビュー＆トーク）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/122700357/</link>
-			<description><![CDATA[　1985年創業の老舗セキュリティベンダーである英ソフォス（Sophos）。2017年2月に機械学習を生かしたシグネチャレスのエンドポイントセキュリティ製品が強みの米インビンシア（Invincea）を買収し、ソフォス製品との統合を進めている。クリス・ヘイゲルマンCEOに、2018年の戦略を聞いた。]]></description>
-			<pubDate>Thu, 04 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>2018年はTTP-Sで決まり（新春 編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/120500556/122500003/</link>
-			<description><![CDATA[　イノベーション、デジタル変革、攻めのIT――。「もう聞き飽きた」との声が聞こえてきそうだが、2018年もITpro読者は、これらのテーマに引き続き挑まねばならない。全ての企業が生き残りをかけて取り組むべきことが、デジタル化であるからだ。では2018年、イノベーションやデジタル変革をどう進めればいいのか。]]></description>
-			<pubDate>Thu, 04 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>システム開発現場の「価値観」激変に備えよ（新春 編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/120500556/122500006/</link>
-			<description><![CDATA[　2018年も企業のデジタルシフトは加速する。そうしたユーザーの動向は当然、システムを開発する現場にも影響する。まず、システムを開発するときの現場の「価値観」が変わる。ここでいう価値観の変化とは、システム開発において重視する項目の優先順位が変わるという意味だ。]]></description>
-			<pubDate>Thu, 04 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIで受験生の学習効率を高める、リクルートが「スタディサプリ」を強化（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/122801262/</link>
-			<description><![CDATA[　この科目はこの単元にこの順番で取り組んでください――。リクルートは生徒ごとに適した学習方法をAIが指南するサービスを始める。画一から個別へと教え方の常識が変わる可能性が出てきた。]]></description>
-			<pubDate>Thu, 04 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>新春ITクイズ、「MOSUPC」の次に来る英文字は？（新春 編集長の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/120500556/122500004/</link>
-			<description><![CDATA[　アルファベットの並び順から規則性を見抜いて次に来る文字を当てるクイズがある。そこで新春ITクイズ。「MOSUPC」に続く英文字はなんでしょう。ヒントはIT業界の動作プラットフォームの変遷である。]]></description>
-			<pubDate>Thu, 04 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>グーグルがCPU脆弱性の詳細を明らかに、Intel・AMD・ARMが対象（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/010402924/</link>
-			<description><![CDATA[　米グーグルは2018年1月3日（米国時間）、プロセッサ（CPU）に関わるセキュリティの脆弱性を明らかにした。米AMD、英アーム、米インテルの特定のCPUを含む多数のCPUが対象になるという。]]></description>
-			<pubDate>Thu, 04 Jan 2018 17:20:40 +0900</pubDate>
-		</item>
-		<item>
 			<title>インテル、CPUの脆弱性に「AMDやアームとともに対応」（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/010402925/</link>
 			<description><![CDATA[　米インテルは米国時間の2018年1月3日、CPUに脆弱性が見つかったことを受けて、他のCPUメーカーやOSベンダーと協力して解決に当たっているとの声明を発表した。インテルは「より多くのソフトウエアやファームウエアの更新版を利用できる来週にこの問題を公表する予定だった」と説明している。]]></description>
@@ -266,6 +218,55 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 09 Jan 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>コワーキングスペースのWeWork、Alexa for Businessを入念にテスト中（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/010900392/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　人気が高い音声アシスタントの法人向けバージョンとして、米Amazon.comのAmazon Web Services（AWS）が2017年11月に発表した「Alexa for Business」。その発表時点で、導入企業の1社として名前が挙がったのが、コワーキングスペースを運営する米WeWorkだ。WeWorkの企業価値は200億ドルと評され、スタートアップなどから支持を集めている。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/010900392/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Derek Walter</div>
+</div>
+<p>
+　WeWorkはまず、Alexaを社内で試験導入し、Alexaの「スキル」の開発を進めている。スタンドアロンのアプリケーションや、バックエンドのシステムと連携する部分の開発だ。いずれは、コワーキングスペースの利用者が、会議室の設備の制御、空き状況の確認、分析の読み上げといった要求を、Alexaを通じて行えるようになる。
+</p>
+<p>
+　Amazon.comのWerner Vogels最高技術責任者（CTO）は、2017年11月のカンファレンス「AWS re:Invent」の基調講演で、Alexa for Businessがあれば会議IDを入力する必要がなくなると説明した。どの会議室を使っているのかをAlexaが把握しているからだ。構想上は、「Alexa、会議を始めて」のように話しかけるだけで、Alexaがビデオ会議の機材を立ち上げ、電話会議につないで、議事進行できる。
+</p>
+<p>
+　WeWorkは、Alexaを使ったシステムの試験導入を3カ月ほど前に始めた。具体的には、ニューヨークのチェルシーにある本社で、Alexa搭載の小型円形スマートスピーカー「Echo Dot」を会議室に設置した。
+</p>
+<p>
+　WeWorkでプロダクトリサーチの責任者を務めるJosh Emig氏は、Computerworld UKの取材に対して次のように語った。「ロールアウトにあたって、Echo Dotは最もハードルが低く手軽だった。多数購入して、あまり労力をかけることなく会議室に設置し、ネットワーク化したインタフェースを立ち上げられる」
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/010900392/?ST=cio-consumerit&P=2">音声アシスタントが比較的普及してきた現在だが、米...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/010900392/?ST=cio-consumerit&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/010900392/?ST=cio-consumerit&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/010900392/?ST=cio-consumerit&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/010900392/?ST=cio-consumerit&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 09 Jan 2018 09:51:52 +0900</pubDate>
+		</item>
+		<item>
+			<title>レノボがSnapdragon搭載のWindows機「Miix 630」などを発表（CES 2018）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/122800595/010900003/</link>
+			<description><![CDATA[　中国レノボは2018年1月9日（現地時間）から米ラスベガスで開催される「CES 2018」に合わせて、Snapdragonを搭載したWindows PCや「ThinkPad X1」シリーズの新製品を発表した。]]></description>
+			<pubDate>Tue, 09 Jan 2018 10:08:59 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
