@@ -5,10 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>NECが英ITサービス企業を700億円で買収、過去2番目の規模（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/010902933/</link>
-			<description><![CDATA[　NECは2018年1月9日、英国のITサービス企業であるノースゲート・パブリック・サービス（NPS）を約713億円で買収すると発表した。成長の柱に据えるセーフティ事業の拡大を目指す。]]></description>
-			<pubDate>Tue, 09 Jan 2018 19:43:19 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d11</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>サムスンがテレビや冷蔵庫にも独自AI、「あらゆるデバイスを音声操作可能に」（CES 2018）</title>
@@ -259,6 +259,40 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/011001268/</link>
 			<description><![CDATA[　フリマアプリ最大手のメルカリがフリマ以外にも成長の道を求め始めた。相次ぐ新サービスを可能にするのが同社の技術戦略だ。2年で5倍に急拡大したエンジニア組織をテコに人工知能（AI）などの技術開発を加速。フリマにとどまらない競争力強化へ「テックカンパニー」としての基盤を固めを急ぐ。]]></description>
 			<pubDate>Thu, 11 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>カード情報のセキュリティ基準PCI DSSへの準拠に潜む真の問題は（後）（カード情報のセキュリティ基準PCI DSSへの準拠に潜む真の問題は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/122500101/122500002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　米Verizonは、PCI DSS（Payment Card Industry Data Security Standard）への準拠についての年次報告「Payment Security Report」を9年にわたって公開している。この間、全体の傾向はずっと同じだった。すなわち、PCI DSSに準拠していない企業は多く、また準拠している企業でも、審査を受けてからしばらくすると、非準拠の状態に戻ってしまうところが多い。IT組織がPCI DSSへの準拠に苦労している原因は、知識や技術の不足ではない。熟達度の問題だ。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/122500101/122500001/" target="_blank">前回</a>から続く）</p>
+
+<h4>レジリエンスと堅牢性</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/122500101/122500002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　van Oosten氏によると、2010～2016年に発生したクレジットカード類のデータ侵害をVerizonが300件近く調査したところ、侵害が発生した時点でPCI DSSに完全に準拠していた企業は1つもなかった。かつては準拠していたのに、その状態を維持できていなかった企業はあった。多くの場合、PCI DSSに準拠することを達成目標と捉えていて、プロセスと捉えていなかったのが理由だ。</p>
+
+<p>　PCI DSSへの準拠によって会社がセキュアになるわけではないとvan Oosten氏は言う。PCI DSSへの準拠とは、1～2週間の審査期間内に、準拠していないとの証拠が見つからなかったという話にすぎない。一方、包括的なセキュリティプログラムの一環として、統制項目の持続可能性とレジリエンスを加味している企業は、実際にうまく対応できるとvan Oosten氏は言う。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/122500101/122500002/?ST=cm-network&P=2">例えば、ある企業がネットワークのセグメント化を適切に行っていると...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/122500101/122500002/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/122500101/122500002/?ST=cm-network&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/122500101/122500002/?ST=cm-network&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/122500101/122500002/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 11 Jan 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
