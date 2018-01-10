@@ -5,20 +5,6 @@
 		<link>https://forest.watch.impress.co.jp</link>
 		<description>Windows用オンラインソフトの専門サイト。 関連ニュースも提供。</description>
 		<item>
-			<title>Mozilla、「Firefox」v57.0.4を公開 ～CPU脆弱性“Meltdown”“Spectre”へ対策／v57.0.3ではバックグラウンドタブのクラッシュレポートが無断送信される問題を修正</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/90f497eed8c7282723d3e2eddc296549?ul=jrhDJrNJk21H0.w29PNq1WPxduZrqB8DyKjixSbdWp7oOyGGIaIHL94eUYlYQssFutxSaZ943LO0175iHTp6i7xSxYZM</link>
-			<description><![CDATA[<p>　Mozillaは4日（米国時間）、Webブラウザー「Firefox」の最新安定版v57.0.4を公開した。本バージョンではGoogleの“Project Zero”が公表したCPUの脆弱性“Meltdown”“Spectre”への対策が盛り込まれている。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/90f497eed8c7282723d3e2eddc296549"/></p>]]></description>
-			<pubDate>Fri, 05 Jan 2018 14:38:57 +0900</pubDate>
-		</item>
-		<item>
-			<title>Google、CPU脆弱性“Meltdown”“Spectre”の緩和策を「Google Chrome 64」へ導入／オプションの“厳密なサイト分離”機能もサイドチャンネル攻撃対策として有効</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/5778b2755eb6e13a4769bfa8a68eaa54?ul=mtzDLEmd82Tfu_0TMsVyn2VVJZACtL6UQAx7tutUg54M7vpNCuPfv9z_wrgR_W9j68RBF1fax69fsMq1Lwy6DsA_aM8c</link>
-			<description><![CDATA[<p>　米Googleは3日（現地時間、以下同）、公式ブログ“Google Online Security Blog”で、同社製品に対するCPU脆弱性“Meltdown”“Spectre”の影響を明らかにした。「Google Chrome」の場合、今月23日前後に正式リリースが予定されている「Google Chrome 64」のJavaScriptエンジン「V8」に攻撃の緩和策が導入されているという。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/5778b2755eb6e13a4769bfa8a68eaa54"/></p>]]></description>
-			<pubDate>Fri, 05 Jan 2018 15:40:47 +0900</pubDate>
-		</item>
-		<item>
 			<title>「Opera 50」が正式公開、ビットコインの採掘を防止する機能を広告ブロッカーに統合／“Chromecast”のビルトイン対応、VR 360度ビデオ機能の強化、PDF保存機能なども</title>
 			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/77aa2c30815f4af74d30848ae66b7702?ul=qNY9SYWmBMaKbPoQwbnGwXZZsCCsL_8zd1DBnUqR4T2Z_Lq69Sht.HcgKybD8jEFWc6yHdDusocmyMIZuRFh_WhQptvQ</link>
 			<description><![CDATA[<p>　ノルウェーのOpera Software ASAは4日（現地時間）、デスクトップ向けWebブラウザー「Opera」の最新安定版「Opera 50」を正式公開した。バージョン“50”という節目を迎えた今回のアップデートでは、暗号通貨“Bitcoin（ビットコイン）”のマイニング（採掘）を防止する機能を新たに導入。“Chromecast”がビルトインでサポートされるなど、さまざまな機能改善が施されている。
@@ -136,6 +122,13 @@
 			<description><![CDATA[<p>　米Microsoftは8日（現地時間）、「Microsoft Outlook」の使い方を解説したチートシートを日本語を含む37カ国語で公開したことを明らかにした。当初は英語版のみだったが、ITプロ向けカンファレンス“Microsoft Ignite”で注目を集めたことをうけ、「Microsoft Office」のインターナショナルチームによるローカライズが行われたのだという。
 <img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/8728e24fa5c3f2c731be4a0ad8a4f33e"/></p>]]></description>
 			<pubDate>Wed, 10 Jan 2018 11:49:33 +0900</pubDate>
+		</item>
+		<item>
+			<title>Microsoft、2018年1月のセキュリティ更新プログラムを公開／“Meltdown”“Spectre”脆弱性パッチは前倒し配信、先にウイルス対策ソフトの更新を</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/52862e1d4f28b6af09384e3c65bc3f95?ul=JVlUCyQ4HEul8VYet8KLwkDEi.0_G.639hH6jGHmBAIDyjf8kBZJV_2ZbKYUUmU8jxZ8z47hSenSSF90iwwFE_C8Vzos</link>
+			<description><![CDATA[<p>　米Microsoft Corporationは9日（現地時間、以下同）、2018年1月のセキュリティ更新プログラムを公開した。現在、“Windows Update”や“Microsoft Update Catalog”から入手できる。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/52862e1d4f28b6af09384e3c65bc3f95"/></p>]]></description>
+			<pubDate>Wed, 10 Jan 2018 14:14:36 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
