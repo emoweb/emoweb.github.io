@@ -5,20 +5,6 @@
 		<link>https://forest.watch.impress.co.jp</link>
 		<description>Windows用オンラインソフトの専門サイト。 関連ニュースも提供。</description>
 		<item>
-			<title>オフィス統合環境「Apache OpenOffice」の最新版v4.1.5が公開／いくつかのリグレッション修正にフォーカスしたメンテナンス更新、脆弱性の修正はなし</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/c18887e9a91668fdac4b0a9f5779841e?ul=LOQpkfpPqAGWUUMl4ByXrEUfwNB7H2lHI2Dc3ciF.qcFq3Nfura5GqIwJLPhF194QO1iYHez2lscrasWO8zip4yPRcrl</link>
-			<description><![CDATA[<p>　The Apache Software Foundationは12月30日（米国時間）、オープンソースのオフィス統合環境「Apache OpenOffice」v4.1.5を公開した。本バージョンは、いくつかの機能後退（リグレッション）の修正にフォーカスしたメンテナンスアップデートとなっている。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/c18887e9a91668fdac4b0a9f5779841e"/></p>]]></description>
-			<pubDate>Fri, 05 Jan 2018 11:31:29 +0900</pubDate>
-		</item>
-		<item>
-			<title>“投機的実行”機能を備えるCPUに脆弱性、Windows向けのセキュリティパッチが緊急公開／ウイルス対策ソフトと互換性には注意</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/78a22c68394c8a1e3cb9692aa6a6eaeb?ul=bcR.GvHqzimrqfayZ.Wpgmben5.6tilQPyJez6rwivGirkk8MXCw2ClBWYUBDRVOpc2cdVXQe0ZaRrbNlqayN_WPuYtS</link>
-			<description><![CDATA[<p>　米Microsoftは3日（現地時間）、Windows向けのセキュリティ更新プログラムを公開した。本更新プログラムはGoogleの“Project Zero”が公表したCPUの脆弱性への対処を含んだものだが、扱いには注意が必要だ。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/78a22c68394c8a1e3cb9692aa6a6eaeb"/></p>]]></description>
-			<pubDate>Fri, 05 Jan 2018 13:45:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Mozilla、「Firefox」v57.0.4を公開 ～CPU脆弱性“Meltdown”“Spectre”へ対策／v57.0.3ではバックグラウンドタブのクラッシュレポートが無断送信される問題を修正</title>
 			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/90f497eed8c7282723d3e2eddc296549?ul=jrhDJrNJk21H0.w29PNq1WPxduZrqB8DyKjixSbdWp7oOyGGIaIHL94eUYlYQssFutxSaZ943LO0175iHTp6i7xSxYZM</link>
 			<description><![CDATA[<p>　Mozillaは4日（米国時間）、Webブラウザー「Firefox」の最新安定版v57.0.4を公開した。本バージョンではGoogleの“Project Zero”が公表したCPUの脆弱性“Meltdown”“Spectre”への対策が盛り込まれている。
@@ -136,6 +122,13 @@
 			<description><![CDATA[<p>　進捗表などの資料をネットワーク上でチームメンバーと共有することはよくありますよね。各メンバーが、プロジェクトや担当業務の状況を進捗表に書き込んでいくといった管理を行うことも多いと思います。自分の担当分の情報を更新したいのに、いつも誰かがブックを開いているため、ブックがロックされていて（①）、なかなか編集できずに困った経験はありませんか。特に相手が上司だったりすると「早くファイルを閉じてください」とは言いづらいですよね。
 <img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/744875f3d6cf561823047ec9ce5780f9"/></p>]]></description>
 			<pubDate>Wed, 10 Jan 2018 06:55:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windowsの“Meltdown”“Spectre”パッチでトラブル、AMDデバイスへの提供が一時停止／Windowsが起動できなくなる問題が報告される</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/16dd9848bc82cc0ff91605055a6e1940?ul=g2gOHFVbi6cinYf7hyyRTTA8ZflwmFBXiIjAw2kp0YaAT2X6eMCiyEFD8AVorWv6gaCZNV84ZURxuX145Bxt4OvAnBss</link>
+			<description><![CDATA[<p>　米Microsoftは9日（現地時間、以下同）、“Meltdown”“Spectre”脆弱性への緩和策として配信しているWindowsのセキュリティ更新プログラムをAMDベースのシステムへ適用するとWindowsが起動できなくなる問題が報告されていることを明らかにした。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/16dd9848bc82cc0ff91605055a6e1940"/></p>]]></description>
+			<pubDate>Wed, 10 Jan 2018 10:48:35 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
