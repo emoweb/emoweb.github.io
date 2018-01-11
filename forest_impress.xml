@@ -5,13 +5,6 @@
 		<link>https://forest.watch.impress.co.jp</link>
 		<description>Windows用オンラインソフトの専門サイト。 関連ニュースも提供。</description>
 		<item>
-			<title>Apple、「iOS 11.2.2」を公開 ～CPU脆弱性“Spectre”の影響を緩和／“Meltdown”は「iOS 11.2」で対策済み</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/7c6190d8e882b199f4af100ad013833e?ul=j1xXz2b6dEGuLFiWUE3Mk9tMk7e94RR5hrtVCtNzDV8IY1IA5t8LwWykbzz.G6SedahIe0G1zQVRMLFBzNsx4PiS9Fwa</link>
-			<description><![CDATA[<p>　米Appleは8日（現地時間）、「iOS 11.2.2」を公開した。「Safari」と「WebKit」に対する“Spectre”脆弱性の緩和策が含まれているという。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/7c6190d8e882b199f4af100ad013833e"/></p>]]></description>
-			<pubDate>Tue, 09 Jan 2018 11:16:10 +0900</pubDate>
-		</item>
-		<item>
 			<title>「Waterfox」v56.0.2が公開、「Firefox」のCPU脆弱性修正を取り込む／マルチプロセス技術“e10s”と非互換の拡張機能を導入した環境では“e10s”が無効化</title>
 			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/2b1afd65af7b4fc3e6f90bcb591b063c?ul=9Ts0tzfEr9kn1GD1UxQcXyriWo72pP4P3dT2N7yhYQIUKlO72CfkD4xwoVtWfZg7.nf8glEMXY5PEusO3SPha0tD9ORp</link>
 			<description><![CDATA[<p>　「Firefox」派生ブラウザー「Waterfox」の最新版v56.0.2が、7日に公開された。Windows/Mac/Linuxに対応するフリーソフトで、現在本ソフトの公式サイトからダウンロードできる。
@@ -129,6 +122,13 @@
 			<description><![CDATA[<p>　脆弱性ポータルサイト“JVN”は11日、解凍・圧縮ソフト「Lhaplus」v1.73 およびそれ以前に脆弱性が存在することを公表した。ZIP64形式ファイルの展開処理に検証不備があり、ユーザーの意図しないファイルが生成する可能性があるという。
 <img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/15bb3d92768aea7630850bee7e7fb286"/></p>]]></description>
 			<pubDate>Thu, 11 Jan 2018 13:42:10 +0900</pubDate>
+		</item>
+		<item>
+			<title>Excelファイルから個人情報を検索・除去 ～「エクセルのお供：アテンダント」v4.90／意図しない個人情報漏洩を防止。検索条件を指定できるので細かいニーズにも対応できる</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/2ae6204c637581ebfe79f409bb0185b9?ul=s1gzL4S7_9S4Uq61a8p7RBHj.cpsaRChDyHT4hL1T7AFz7Flx50XCa6DAmr_CIIlCz0awk3MJAYZbmqiclH_D.pKeC4g</link>
+			<description><![CDATA[<p>　（有）オズ システムは11日、よく使う「Microsoft Excel」ブックの一括処理をまとめたツール「エクセルのお供：アテンダント」の最新版v4.90を公開した。本バージョンの目玉は、“個人情報等一覧置換削除”機能が追加されたこと。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/2ae6204c637581ebfe79f409bb0185b9"/></p>]]></description>
+			<pubDate>Thu, 11 Jan 2018 15:41:52 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
