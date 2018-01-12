@@ -332,5 +332,41 @@
 			<description><![CDATA[　GREEでCFO（最高経営責任者）を務めた青柳直樹氏がメルカリの新会社、メルペイの代表として戻ってきた。金融関連の新規事業を手掛けること以外、明らかになっていなかったメルペイの構想を日経FinTechに初めて明かした。]]></description>
 			<pubDate>Fri, 12 Jan 2018 10:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>NVIDIA、最新ドライバでCPU脆弱性「Spectre」に対処（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011200457/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米NVIDIAは1月初め、GeForceシリーズのグラフィックカードに向けて、「Game Readyドライバ」の新バージョンをリリースした。さまざまな新機能を搭載したバージョンアップというのが表向きの説明だ。「CES 2018」で発表された強化内容は、例えば、ゲーム画面にフィルタを適用する「FreeStyle」機能の搭載、スクリーンショットを撮影する「Ansel」機能の改良、Fortnite／Crossout／Elexに対応した「ShadowPlay Highlights」機能などだ。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011200457/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Brad Chacos/IDG</div>
+</div>
+<p>
+　だが、このドライバ更新は、ひそかに別の目的を兼ねている。ハッカーからデータを守るという目的だ。NVIDIAは今回のアップデートで、年明けからコンピュータ界を揺るがせている重大な脆弱性「Spectre」に対処するための修正を施している。
+</p>
+<p>
+　Spectreは、コンピュータのCPUが行う「投機的実行」の処理方法を悪用する。OSのカーネル内で本来は保護されているはずのデータを読み取られる可能性がある。姉妹関係にある脆弱性「Meltdown」と似ているが、OSのパッチで解決できる可能性があるMeltdownに比べると、Spectreの方が対処が難しい。Spectreに影響し得るアプリケーションに対して、各ソフトウエアベンダーが個別に修正を施す必要があるからだ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011200457/?ST=cm-hardware&P=2">NVIDIAは、同社のGPUのグラフィックドライバが、CPUの脆...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011200457/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011200457/?ST=cm-hardware&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011200457/?ST=cm-hardware&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011200457/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 12 Jan 2018 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
