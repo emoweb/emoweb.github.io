@@ -5,40 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>カード情報のセキュリティ基準PCI DSSへの準拠に潜む真の問題は（後）（カード情報のセキュリティ基準PCI DSSへの準拠に潜む真の問題は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/122500101/122500002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　米Verizonは、PCI DSS（Payment Card Industry Data Security Standard）への準拠についての年次報告「Payment Security Report」を9年にわたって公開している。この間、全体の傾向はずっと同じだった。すなわち、PCI DSSに準拠していない企業は多く、また準拠している企業でも、審査を受けてからしばらくすると、非準拠の状態に戻ってしまうところが多い。IT組織がPCI DSSへの準拠に苦労している原因は、知識や技術の不足ではない。熟達度の問題だ。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/122500101/122500001/" target="_blank">前回</a>から続く）</p>
-
-<h4>レジリエンスと堅牢性</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/122500101/122500002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　van Oosten氏によると、2010～2016年に発生したクレジットカード類のデータ侵害をVerizonが300件近く調査したところ、侵害が発生した時点でPCI DSSに完全に準拠していた企業は1つもなかった。かつては準拠していたのに、その状態を維持できていなかった企業はあった。多くの場合、PCI DSSに準拠することを達成目標と捉えていて、プロセスと捉えていなかったのが理由だ。</p>
-
-<p>　PCI DSSへの準拠によって会社がセキュアになるわけではないとvan Oosten氏は言う。PCI DSSへの準拠とは、1～2週間の審査期間内に、準拠していないとの証拠が見つからなかったという話にすぎない。一方、包括的なセキュリティプログラムの一環として、統制項目の持続可能性とレジリエンスを加味している企業は、実際にうまく対応できるとvan Oosten氏は言う。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/122500101/122500002/?ST=cm-network&P=2">例えば、ある企業がネットワークのセグメント化を適切に行っていると...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/122500101/122500002/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/122500101/122500002/?ST=cm-network&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/122500101/122500002/?ST=cm-network&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/122500101/122500002/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 11 Jan 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>レノボがスタンドアロン型のDaydreamヘッドセット、VR撮影用デジカメも（CES 2018）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/122800595/011100009/</link>
 			<description><![CDATA[　中国レノボは2018年1月9日（現地時間）、米ラスベガスで開催中の「CES 2018」においてプレスカンファレンスを開催し、スタンドアロン型のDaydreamデバイスやMoto Modsなどの新製品を発表した。]]></description>
@@ -313,6 +279,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/122800595/011200017/</link>
 			<description><![CDATA[　米国ラスベガスで開催中のCES 2018では、AI（人工知能）を使ったスマートスピーカーで米アマゾン・ドット・コムと米グーグルが火花を散らす中、着々と中国がその市場を狙っている姿が鮮明となった。]]></description>
 			<pubDate>Fri, 12 Jan 2018 13:20:45 +0900</pubDate>
+		</item>
+		<item>
+			<title>「再起動の問題に対処する」、インテルが顧客からの指摘受け（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011202945/</link>
+			<description><![CDATA[　米インテルは2018年1月11日（米国時間）、ファームウエアの更新後にシステムの再起動の頻度が増えたとする顧客からの指摘を受けて、「問題に迅速に対処する」との声明を発表した。]]></description>
+			<pubDate>Fri, 12 Jan 2018 13:47:32 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
