@@ -5,20 +5,6 @@
 		<link>https://forest.watch.impress.co.jp</link>
 		<description>Windows用オンラインソフトの専門サイト。 関連ニュースも提供。</description>
 		<item>
-			<title>【Excel】共有した進捗表を編集しようとしたらロックされていた！チームのメンバー同士でブックを同時編集するテク【いまさら聞けないExcelの使い方講座】</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/744875f3d6cf561823047ec9ce5780f9?ul=49J1UHN1ZJs4vr1nKUKJf_wSnRJdOVStO_C3J20cmfpZqbKUQlvhsCYO.x7vFkBH3oz1aqIdHdVHqp3A3byJlqRT8NHcDkWb9Oof.6tSlgj4LOQe0</link>
-			<description><![CDATA[<p>　進捗表などの資料をネットワーク上でチームメンバーと共有することはよくありますよね。各メンバーが、プロジェクトや担当業務の状況を進捗表に書き込んでいくといった管理を行うことも多いと思います。自分の担当分の情報を更新したいのに、いつも誰かがブックを開いているため、ブックがロックされていて（①）、なかなか編集できずに困った経験はありませんか。特に相手が上司だったりすると「早くファイルを閉じてください」とは言いづらいですよね。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/744875f3d6cf561823047ec9ce5780f9"/></p>]]></description>
-			<pubDate>Wed, 10 Jan 2018 06:55:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windowsの“Meltdown”“Spectre”パッチでトラブル、AMDデバイスへの提供が一時停止／Windowsが起動できなくなる問題が報告される</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/16dd9848bc82cc0ff91605055a6e1940?ul=g2gOHFVbi6cinYf7hyyRTTA8ZflwmFBXiIjAw2kp0YaAT2X6eMCiyEFD8AVorWv6gaCZNV84ZURxuX145Bxt4OvAnBss</link>
-			<description><![CDATA[<p>　米Microsoftは9日（現地時間、以下同）、“Meltdown”“Spectre”脆弱性への緩和策として配信しているWindowsのセキュリティ更新プログラムをAMDベースのシステムへ適用するとWindowsが起動できなくなる問題が報告されていることを明らかにした。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/16dd9848bc82cc0ff91605055a6e1940"/></p>]]></description>
-			<pubDate>Wed, 10 Jan 2018 10:48:35 +0900</pubDate>
-		</item>
-		<item>
 			<title>ITプロの間で好評を博した「Outlook」マニュアルが日本語を含む37カ国語で公開／便利な使い方をスクリーンショット付きでコンパクトに。Web版やモバイル版も網羅</title>
 			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/8728e24fa5c3f2c731be4a0ad8a4f33e?ul=D1XWmWgY_4Odts7ip4UlkfAVi3hokS9HzVhA.VwXhMgyLmuBFPxNMwuqcG3zfWqBcDxVUD7cAfS6Cyf54S98kLy1lm8F</link>
 			<description><![CDATA[<p>　米Microsoftは8日（現地時間）、「Microsoft Outlook」の使い方を解説したチートシートを日本語を含む37カ国語で公開したことを明らかにした。当初は英語版のみだったが、ITプロ向けカンファレンス“Microsoft Ignite”で注目を集めたことをうけ、「Microsoft Office」のインターナショナルチームによるローカライズが行われたのだという。
@@ -150,6 +136,20 @@
 			<description><![CDATA[<p>　米Microsoftは11日（現地時間）、「Windows 10 Fall Creators Update（バージョン 1709）」が全世界、すべての互換デバイスで利用可能になったことを発表した。
 <img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/ad0f1239cf819e18a10c6960a8b3ec21"/></p>]]></description>
 			<pubDate>Fri, 12 Jan 2018 11:25:07 +0900</pubDate>
+		</item>
+		<item>
+			<title>「VMware Workstation」「VMware Fusion」が更新、“Spectre”脆弱性への緩和策が施される／VMware NATサービスに存在する解放後メモリ利用と整数オーバーフローの脆弱性も修正</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/09c95c43ddc862ecf4f62b077e02598b?ul=74eJWwnhMYpMYRV8IhRYfsEUTUvFIXKDCxEFqILmKVoxwKvNM34IpkwXOt0eb1mNbK4B1nJ4dg3kBGHwVwtzSGFfLRgQ</link>
+			<description><![CDATA[<p>　米VMware, Inc.は9日（現地時間）、「VMware Workstation」の最新版v14.1.1/12.5.9を公開した。現在、同社のWebサイトからダウンロード可能。今回のアップデートでは、先日公表された投機的実行機能を備えるCPUの脆弱性への緩和策が施されているという。Mac向けの「VMware Fusion」でも同様の対策が施されており、更新版のv10.1.1/8.5.10が利用可能。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/09c95c43ddc862ecf4f62b077e02598b"/></p>]]></description>
+			<pubDate>Fri, 12 Jan 2018 11:50:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>3Dモデリングソフト「Blender」に未修正の脆弱性が複数存在 ～Talosが指摘／出自の怪しいファイルは開かないように注意が必要</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/5c09c07d0d84181066695c44277d48f7?ul=GqiYTGAmXKjLOSsMdQ84EmGVhg8VLTzIQtmZbRFMo0gosyYR6b5pAzp_laApPhFRp555xadmfx_OPV4TngwcB_l6_9LP</link>
+			<description><![CDATA[<p>　米Ciscoのセキュリティ部門Talosは11日（現地時間）、オープンソースの3Dモデリングソフト「Blender」に未修正の脆弱性が複数存在することを明らかにした。「Blender」の開発元に修正を提案したが拒否されたため、開示に踏み切ったという。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/5c09c07d0d84181066695c44277d48f7"/></p>]]></description>
+			<pubDate>Fri, 12 Jan 2018 12:19:33 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
