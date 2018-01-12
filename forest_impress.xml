@@ -5,20 +5,6 @@
 		<link>https://forest.watch.impress.co.jp</link>
 		<description>Windows用オンラインソフトの専門サイト。 関連ニュースも提供。</description>
 		<item>
-			<title>ITプロの間で好評を博した「Outlook」マニュアルが日本語を含む37カ国語で公開／便利な使い方をスクリーンショット付きでコンパクトに。Web版やモバイル版も網羅</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/8728e24fa5c3f2c731be4a0ad8a4f33e?ul=D1XWmWgY_4Odts7ip4UlkfAVi3hokS9HzVhA.VwXhMgyLmuBFPxNMwuqcG3zfWqBcDxVUD7cAfS6Cyf54S98kLy1lm8F</link>
-			<description><![CDATA[<p>　米Microsoftは8日（現地時間）、「Microsoft Outlook」の使い方を解説したチートシートを日本語を含む37カ国語で公開したことを明らかにした。当初は英語版のみだったが、ITプロ向けカンファレンス“Microsoft Ignite”で注目を集めたことをうけ、「Microsoft Office」のインターナショナルチームによるローカライズが行われたのだという。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/8728e24fa5c3f2c731be4a0ad8a4f33e"/></p>]]></description>
-			<pubDate>Wed, 10 Jan 2018 11:49:33 +0900</pubDate>
-		</item>
-		<item>
-			<title>Microsoft、2018年1月のセキュリティ更新プログラムを公開／“Meltdown”“Spectre”脆弱性パッチは前倒し配信、先にウイルス対策ソフトの更新を</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/52862e1d4f28b6af09384e3c65bc3f95?ul=JVlUCyQ4HEul8VYet8KLwkDEi.0_G.639hH6jGHmBAIDyjf8kBZJV_2ZbKYUUmU8jxZ8z47hSenSSF90iwwFE_C8Vzos</link>
-			<description><![CDATA[<p>　米Microsoft Corporationは9日（現地時間、以下同）、2018年1月のセキュリティ更新プログラムを公開した。現在、“Windows Update”や“Microsoft Update Catalog”から入手できる。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/52862e1d4f28b6af09384e3c65bc3f95"/></p>]]></description>
-			<pubDate>Wed, 10 Jan 2018 14:14:36 +0900</pubDate>
-		</item>
-		<item>
 			<title>Opera、CPU脆弱性“Meltdown”の影響を緩和する方法を案内 ～対策版は今月末公開／“厳密なサイト分離”と呼ばれるオプション機能が有効</title>
 			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/0b271520d1a7d30acf9f27f38bbb21d3?ul=hVhCZ3xIZv4.qz7own1S9SRZtZ7CkIQ4GwsKI1.s4KC7XcL5a8HQuVeYQ2XB72F5c5HDk2Qxs74KdS7plrjd21XQ_LpL</link>
 			<description><![CDATA[<p>　ノルウェーのOpera Softwareは4日（現地時間）、公式ブログ“Opera Security”を更新した。「Opera」に対するCPU脆弱性“Meltdown”の影響を緩和する方法がアナウンスされている。
@@ -150,6 +136,20 @@
 			<description><![CDATA[<p>　米Ciscoのセキュリティ部門Talosは11日（現地時間）、オープンソースの3Dモデリングソフト「Blender」に未修正の脆弱性が複数存在することを明らかにした。「Blender」の開発元に修正を提案したが拒否されたため、開示に踏み切ったという。
 <img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/5c09c07d0d84181066695c44277d48f7"/></p>]]></description>
 			<pubDate>Fri, 12 Jan 2018 12:19:33 +0900</pubDate>
+		</item>
+		<item>
+			<title>言語パックをストアから入手可能に ～「Windows 10 Insider Preview」Build 17074／「Microsoft Edge」に数多くの改善。“Quiet Hours”や“Near Share”にも注目</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/bd3ef6ade35e15bb8c58f2590403fef8?ul=5_AbX.kzzHejtBMwIUCgUQNT4x9CjkbBzNqSIfhijJI0wb7E9fwotJ2cPTKLTZSEyQwkF6xa8RUasjTqPuhJ_bgu0xQg</link>
+			<description><![CDATA[<p>　米Microsoftは11日（現地時間）、PC版「Windows 10 Insider Preview」Build 17074を“Windows Insider Program”の“Fast”リングの参加ユーザーに対して公開した。すでに「Windows 10 Insider Preview」を導入済みの場合は“Windows Update”から最新ビルドへ更新できる。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/bd3ef6ade35e15bb8c58f2590403fef8"/></p>]]></description>
+			<pubDate>Fri, 12 Jan 2018 15:03:33 +0900</pubDate>
+		</item>
+		<item>
+			<title>Ashampoo、CPU脆弱性“Spectre”“Meltdown”のGUIチェックツールを無償公開／ライブラリの導入やインストール処理は不要、起動するだけで手軽に結果が得られる</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/a556deb11889b1fce1ccbc5fd9c6a056?ul=khSo6muqv2bvQmeZglshawrU5yPQCeOoGIHlpzfh4nUTXq3as3n3G_8BgEKOlRIaUKnFcMorkPXv1XFuD_Z8i8hqMX79</link>
+			<description><![CDATA[<p>　独Ashampooは10日（現地時間）、「Ashampoo Spectre Meltdown CPU Checker」を無償公開した。利用中のシステムがCPU脆弱性“Spectre”“Meltdown”の影響を受けるかどうかをGUIで手軽に確認できる。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/a556deb11889b1fce1ccbc5fd9c6a056"/></p>]]></description>
+			<pubDate>Fri, 12 Jan 2018 15:39:04 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
