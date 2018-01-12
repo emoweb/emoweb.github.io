@@ -5,72 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>オラクルが「素晴らしいディナー」を用意したらしい、あなたは食べますか（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/122700988/</link>
-			<description><![CDATA[　これまでオンプレミスのシステム構築を主力としていたITベンダーも、クラウドシフトが避けられなくなってきた。日本オラクルのフランク・オーバーマイヤーCEOは「当社は非常に素晴らしいディナーを用意してパートナーを招待している」と強調。それを選らぶかどうかは「パートナー次第」と話す。]]></description>
-			<pubDate>Thu, 11 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>スタックでスイッチを冗長化するのが主流に、機器トラブルに備え（スイッチ使いこなしの新常識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/122200591/122200003/</link>
-			<description><![CDATA[　端末の台数が200～500台の中規模のネットワークでは、万一の機器のトラブルに備えるために「スイッチの冗長化」が重要である。]]></description>
-			<pubDate>Thu, 11 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>経営者に現場が見えない、不正であばかれた日本企業の構造問題（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/122700101/</link>
-			<description><![CDATA[　「経営判断に必要な情報は全て現場にあると思っている。大本の現場を見ないと駄目だ」。6年前に東レの日覚昭広社長にインタビューした際、「経営判断に役立つ情報が見られるシステムが必要では」と私が問うと、日覚社長はこう答えた。ところが最近、東レも含め日本企業の現場がおかしい。]]></description>
-			<pubDate>Thu, 11 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ネットが遅いと感じたらまず診断、意図しない通信をしているかも？（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/122400003/</link>
-			<description><![CDATA[　日ごろ何気なく使っていたネットワークある日突然遅くなった、あるいは全くつながらない状況に陥ったら、ネットワークの状況を確認し、接続先の再設定や設定の変更にる改善を試みよう。スッキリとしたネットワーク環境が整うはずだ。]]></description>
-			<pubDate>Thu, 11 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ブレーク必至のITインフラ技術、メモリー指向アーキテクチャーとは？（2018年のITインフラ大胆予測）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/122600592/122800006/</link>
-			<description><![CDATA[　「メモリー指向アーキテクチャー」は、全てのデータをメモリー上に持って処理する想定のアーキテクチャーである。近年、システム性能を高める上でデータへのアクセス速度が課題となっており、その解決策として期待を集める。]]></description>
-			<pubDate>Thu, 11 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「企画がありきたり」とぼやく上司、組み合わせ発想法で突破する（脱・ザンネン社員）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/010900021/</link>
-			<description><![CDATA[　他の商品やサービスと差異化できていない、ありきたりの企画はビジネスでは通用しない。オリジナリティーの高い発想を量産するには、複数の課題を組み合わせ、新たなアイデアに結びつける発想法が有効だ。]]></description>
-			<pubDate>Thu, 11 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>声による暗証番号の認識で苦戦、三菱UFJニコスのAlexaスキル（Echoアプリ開発の先人に学ぶ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/122800597/010900003/</link>
-			<description><![CDATA[　クレジットカード大手の三菱UFJニコスが提供するAmazon Echo向けアプリ（Alexaスキル）は、請求額と支払日、ポイント残高を音声で伝えるもの。このアプリを起動時すると、4ケタの暗証番号の発声が求められる。三菱UFJニコスが開発で苦労したのは、暗証番号の認識だった。]]></description>
-			<pubDate>Thu, 11 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>法改正を控え、教育関係者が知っておきたい著作権侵害リスク（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/010900308/</link>
-			<description><![CDATA[　早ければ2018年にも、デジタル教材を授業用にネットで配信する際の著作権処理を不要にする法改正が実施される見込みだ。ただし、法律が認める教材の利用範囲には制約がある。こうした制約を教職員が正しく理解していないと、意図せずに著作権を侵害することになりかねない。]]></description>
-			<pubDate>Thu, 11 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>社内の反対押し切ってサーバーレス化、富士フイルムのソフト開発子会社（SEが知っておくべきサーバーレス）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110700490/112200003/</link>
-			<description><![CDATA[　「社内から大反対されたが、覚悟を決めてサーバーレス化やアジャイル型の開発手法の採用に踏み切った」――。富士フイルムソフトウエア サービス本部 アドバンストソリューショングループ イメージワークスチームの佐藤力チーム長は、IT基盤刷新プロジェクトをこう振り返る。]]></description>
-			<pubDate>Thu, 11 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「スタートアップなくして新事業なし」は2018年も続く（ICT研インサイト）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/042000156/010500007/</link>
-			<description><![CDATA[　2018年も、国内外のスタートアップ企業の動向から目が離せない。コンシューマー向け展示会のCESやモバイルの祭典MWCなど歴史ある展示会も、スタートアップ企業の勢いを取り込むことに躍起になっている。]]></description>
-			<pubDate>Thu, 11 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIでフリマ以外を伸ばす、メルカリの新たなシステム開発指針（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/011001268/</link>
-			<description><![CDATA[　フリマアプリ最大手のメルカリがフリマ以外にも成長の道を求め始めた。相次ぐ新サービスを可能にするのが同社の技術戦略だ。2年で5倍に急拡大したエンジニア組織をテコに人工知能（AI）などの技術開発を加速。フリマにとどまらない競争力強化へ「テックカンパニー」としての基盤を固めを急ぐ。]]></description>
-			<pubDate>Thu, 11 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>カード情報のセキュリティ基準PCI DSSへの準拠に潜む真の問題は（後）（カード情報のセキュリティ基準PCI DSSへの準拠に潜む真の問題は）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/122500101/122500002/</link>
 			<description><![CDATA[<div>
@@ -373,6 +307,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011202944/</link>
 			<description><![CDATA[　米ヴイエムウェアは2018年1月9日（米国時間）、「vSphere」などの仮想化ソフトの更新版を公開した。3日に公表されたCPUの投機的実行機能が抱える脆弱性への対策の一環。ハイパーバイザー上のゲストOSが実行するプロセス間で不正にデータを読み出せてしまう問題を軽減する。]]></description>
 			<pubDate>Fri, 12 Jan 2018 12:04:53 +0900</pubDate>
+		</item>
+		<item>
+			<title>CESのAIセクションは「中国主役」が鮮明（CES 2018）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/122800595/011200017/</link>
+			<description><![CDATA[　米国ラスベガスで開催中のCES 2018では、AI（人工知能）を使ったスマートスピーカーで米アマゾン・ドット・コムと米グーグルが火花を散らす中、着々と中国がその市場を狙っている姿が鮮明となった。]]></description>
+			<pubDate>Fri, 12 Jan 2018 13:20:45 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
