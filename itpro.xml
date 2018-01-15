@@ -266,5 +266,35 @@
 			<description><![CDATA[　2017年末に発生した三菱UFJニコスのシステム障害の影響で、愛知県瀬戸市などの自治体が市税や国民健康保険料などの納付を確認できない状況に陥った。日経コンピュータの取材で2018年1月15日までに分かった。一部の自治体ではまだ税の納付が確認できておらず、納税証明書を納税者に発送できていない。]]></description>
 			<pubDate>Tue, 16 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>セキュリティはオールインワンよりベストオブブリードで（前）（セキュリティはオールインワンよりベストオブブリードで）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/010900103/010900001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　オールインワン型のサイバー・セキュリティ・プラットフォームとベストオブブリードでは、どちらがよいのか。この議論の答えはベストオブブリードで決まりだ。問題は、予算的に利用できるツールはいくつなのかという点と、利用するソフトウエアがセキュリティを重視した設計になっているかどうかである。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900103/010900001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　そもそも、ベストオブブリードでは、複数のセキュリティプログラムを購入して組み合わせることになる。一つひとつは別個のツールで、個別の問題を解決することを得意としている。例えば、APIゲートウェイの防御は米Forum Systemsの製品、ログの統合管理は米Splunkの製品、誰がいつどのデータにアクセスできるかを統制するID管理は米Oktaの製品といった具合だ。各ベンダーの製品は、自社のセキュリティスタックにそれぞれ異なる機能をもたらす。あとはIT部門が、いわばジェンガのように各プラットフォームをうまくまとめ上げ、企業データを守るための計画に穴がないことを願う。</p>
+
+<p>　もう1つの選択肢であるオールインワンでは、統合型の包括的なプラットフォームを購入（あるいは構築）することになる。しかし、オールインワンと呼ぶにせよ呼ばないにせよ、すべての企業データを単一のソフトウエアだけでしっかりと守ることはできない。その理由は、文化と予算だ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900103/010900001/?ST=cm-software&P=2">オールインワンのセキュリティプラットフォームの問題</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900103/010900001/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900103/010900001/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900103/010900001/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900103/010900001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 16 Jan 2018 06:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
