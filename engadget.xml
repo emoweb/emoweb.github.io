@@ -5,21 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    動画：謎のスマートヘッドフォンVINCIを試す。Amazon Alexa対応、装着すると見えない画面付きat CES2018
-</title>
-			<link>http://japanese.engadget.com/2018/01/13/vinci-amazon-alexa-at-ces2018/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/ad9d3e1f071bc9b2a8a48773e55f244f/206027754/2018-01-13-%282%29.jpg" />
-
-
-Engadget 日本版 YouTubeチャンネルより。米国CES 2018の会場から弓月ひろみがお伝えします。VINCIは、自然言語処理に対応したスマートヘッドフォン。装着した耳の外側にディスプレイを備えますが、「Hi Vinci」で音声コントロールが可能です。
-
-WiFiおよび3Gで通信可能。SpotifyやSoundCloud、Amazon Musicなどのストリーミングで音楽が楽しめ、本体には16GBのストレージもあります。2016年にKickstarterに登場し、現在はAmazon.comでも購入可能。価格は149.77ドル。
-
- 
- ]]></description>
-			<pubDate>Sat, 13 Jan 2018 20:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    Jabraから完全無線イヤホン｢Elite Active 65t｣、｢Elite 65t｣。ノイズキャンセルに加え音声アシスタント対応
 </title>
 			<link>http://japanese.engadget.com/2018/01/13/jabra-elite-active-65t-elite-65t/</link>
@@ -664,6 +649,35 @@ aiboを見るやいなや、「aiboちゃんかわいいい！」となでまく
 米デトロイトで開催の北米国際自動車ショー(NAIAS)より。カナダBlackBerryが、自動車用コンピューターのセキュリティスキャンツール「Jarvis」を発表しました。コネクテッドカーと呼ばれるネット接続性を有する自動車を始め、自動運転システム搭載車などの複雑化するプログラムコードをスキャンし、脆弱性をみつけ出すクラウドベースのツールです。
  ]]></description>
 			<pubDate>Tue, 16 Jan 2018 03:01:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Google HomeやChromecastの使用でWi-Fiが切れるなどの不具合。ルーターメーカー各社がファームウェア更新
+</title>
+			<link>http://japanese.engadget.com/2018/01/16/google-home-chromecast-wi-fi/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/cf44620ba17a5cc86a75cd5c5e14b708/206033389/IMG_4761.jpg" />
+日本でも発売が開始され、利用している人も増えているGoogle Home。Google Home Miniは昨年10月の発売以来、1秒に1台以上のペースで売れているとの発表もありましたが、そんなGoogle HomeやChromecastなどのGoogle Cast対応デバイスと最新Androidの組み合わせが原因で、一部のルーターにインターネット接続ができない、Wi-Fiが不通になるなどの不具合が発生しているようです。
+
+この問題、昨年10月ごろから各メーカーのフォーラムなどで報告されており、少なくともAsus、Linksys、Netgear、TP-Link、Synologyの製品で発生が確認されているとのこと。
+
+常に問題が起きているわけではなく、たまに発生しルーターを再起動すれば復旧するため、あまり大きな問題としては取り上げられていなかったようですが、先週、TP-LinkがGoogle HomeやChromecastなどが使うmDNSパケットに原因があるとの調査結果を報告しました。
+
+YouTubeやGoogle Play MusicなどのGoogle Cast対応アプリは、ChromecastやGoogle Homeなどと接続を維持するため、mDNS（マルチキャストDNS）という仕組みを使います。このmDNSのパケットは通常20秒間隔で送信されているそうですが、デバイス（Android端末）がスリープから復帰する際に短時間で10万パケット以上を送信するケースが確認できたとのこと。スリープしている時間が長いほどパケット量が多くなるそうです。
+
+これにより、ルーターによってはパケットを処理しきれずにハングアップやネットワークの切断などの問題が発生しているとしています。
+
+すでにTP-LinkやNetgear、Linksysなどがこの問題に対応したファームウェアをリリース済み。Googleも問題を認識して修正作業を行っていると9to5Googleに話しています。
+
+ 
+関連リンク: TP-Link、Netgear、Linksys
+
+発端となっているTP-LinkのArcher C1200は日本でも販売されていますし、他社のルーターを使っていても「もしかして」と思うことがあれば、対応ファームが出ていないか確認してみてください。
+
+なお、Google Home Help Forumでは、Android端末の「設定 &gt; Google &gt; キャストメディアの制御」をオフにする、あるいはGoogle Play開発者サービスのベータ版（11.9.73)をインストールすることで、この問題を回避できるとの報告も上がっています。対応ファームが出ていない場合は試してみる価値はあるかもしれません。
+
+ 
+関連リンク: Google Home Help Forum、Google Play開発者サービス&beta;（11.9.73)
+ ]]></description>
+			<pubDate>Tue, 16 Jan 2018 04:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
