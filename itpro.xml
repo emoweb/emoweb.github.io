@@ -296,5 +296,44 @@
 ]]></description>
 			<pubDate>Tue, 16 Jan 2018 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>AMD、「Spectre」対策のアップデートを提供へ、ただし適用は任意（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/011600394/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　現代のあらゆるコンピューター、スマートフォン、タブレットに影響する重大なCPU脆弱性「Spectre」に関して、米AMDは現地時間2018年1月11日、同社CPU向けにファームウエアアップデートを提供することを明らかにした。だが、米Intelが早急にリリースしたアップデートとは違って、緊急性の高いインストール必須のパッチという扱いではない。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/011600394/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Gordon Mah Ung/IDG</div>
+</div>
+<p>
+　Spectreと「Meltdown」の情報が公表された1月3日の時点で、AMDは、同社CPUにはMeltdownの脆弱性はないと表明した。またSpectreの2種類の脆弱性のうち、バリアント1については、OSやソフトウエアのアップデートで解決できると説明。バリアント2については、「AMDはアーキテクチャーが異なることから、悪用のリスクはゼロに近い」と述べていた。
+</p>
+<p>
+　そして今回の発表でも、同社のMark Papermaster最高技術責任者（CTO）は、「当社としては、AMDプロセッサのアーキテクチャーでは、バリアント2の悪用は難しいと考えている」と説明しているが、その一方で、脅威を緩和するためのパッチを提供することを明らかにした。
+</p>
+<p>
+　AMDは、「Ryzen」「EPYC」の各プロセッサに対応するマイクロコードのアップデートを、これを発表した1月11日の週から、パートナー企業に向けてリリースする。このアップデートの適用は「任意」だとしている。旧世代のプロセッサ向けのアップデートも今後提供する。Intelと同じで、AMDのアップデートも、利用者がAMDから直接入手することはできない。パソコンやマザーボードのメーカーのサポートページからダウンロードする必要がある。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/011600394/?ST=cio-security&P=2">だが、このアップデートは、あわてて適用しない方が...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/011600394/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/011600394/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/011600394/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 16 Jan 2018 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
