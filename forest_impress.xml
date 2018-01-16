@@ -5,13 +5,6 @@
 		<link>https://forest.watch.impress.co.jp</link>
 		<description>Windows用オンラインソフトの専門サイト。 関連ニュースも提供。</description>
 		<item>
-			<title>3Dモデリングソフト「Blender」に未修正の脆弱性が複数存在 ～Talosが指摘／出自の怪しいファイルは開かないように注意が必要</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/5c09c07d0d84181066695c44277d48f7?ul=GqiYTGAmXKjLOSsMdQ84EmGVhg8VLTzIQtmZbRFMo0gosyYR6b5pAzp_laApPhFRp555xadmfx_OPV4TngwcB_l6_9LP</link>
-			<description><![CDATA[<p>　米Ciscoのセキュリティ部門Talosは11日（現地時間）、オープンソースの3Dモデリングソフト「Blender」に未修正の脆弱性が複数存在することを明らかにした。「Blender」の開発元に修正を提案したが拒否されたため、開示に踏み切ったという。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/5c09c07d0d84181066695c44277d48f7"/></p>]]></description>
-			<pubDate>Fri, 12 Jan 2018 12:19:33 +0900</pubDate>
-		</item>
-		<item>
 			<title>言語パックをストアから入手可能に ～「Windows 10 Insider Preview」Build 17074／「Microsoft Edge」に数多くの改善。“Quiet Hours”や“Near Share”にも注目</title>
 			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/bd3ef6ade35e15bb8c58f2590403fef8?ul=5_AbX.kzzHejtBMwIUCgUQNT4x9CjkbBzNqSIfhijJI0wb7E9fwotJ2cPTKLTZSEyQwkF6xa8RUasjTqPuhJ_bgu0xQg</link>
 			<description><![CDATA[<p>　米Microsoftは11日（現地時間）、PC版「Windows 10 Insider Preview」Build 17074を“Windows Insider Program”の“Fast”リングの参加ユーザーに対して公開した。すでに「Windows 10 Insider Preview」を導入済みの場合は“Windows Update”から最新ビルドへ更新できる。
@@ -136,6 +129,13 @@
 			<description><![CDATA[<p>　米Appleの“WebKit”開発チームは15日（現地時間）、Webブラウザー向けのベンチマーク“Speedometer 2.0”を発表した。約4年ぶりのメジャーアップデートとなる。
 <img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/f80ed635b1d16b5bb1722931a49353ad"/></p>]]></description>
 			<pubDate>Tue, 16 Jan 2018 16:07:28 +0900</pubDate>
+		</item>
+		<item>
+			<title>オープンソースのVPNソフト「SoftEther VPN」に脆弱性、修正版が公開／任意のコードの実行や不正侵入を招く深刻なものではないが、クラッシュにつながる恐れ</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/2a72f8de6333a1d840d171653a58ac76?ul=BDagfD9Xmcgb9uc37_8F8BO9GPYtbfNJS27M6J_FAJ1IfbRAokFGqhB.6o6AHImA5LFmzwDtZDkhFNtxyWU6uRsQA2bR</link>
+			<description><![CDATA[<p>　オープンソースで開発されているVPNソフト「SoftEther VPN」の最新版v4.25 Build 9656 RTMが、15日に公開された。本バージョンでは、脆弱性とクラッシュにつながる恐れのある不具合が修正されている。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/2a72f8de6333a1d840d171653a58ac76"/></p>]]></description>
+			<pubDate>Tue, 16 Jan 2018 18:25:56 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
