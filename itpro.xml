@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>「負担軽減策を実施」「料額は据え置き」、NHKが次期経営計画で受信料の方針（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011602962/</link>
-			<description><![CDATA[　日本放送協会（NHK）は2018年1月16日、2018年度からの3カ年（2018～2020年度）を対象にした経営計画（次期経営計画）を発表した。]]></description>
-			<pubDate>Tue, 16 Jan 2018 19:49:28 +0900</pubDate>
-		</item>
-		<item>
 			<title>「このツアーが良いまろ」、富士通が独自AI「ふくまろ」とPC新製品（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011602963/</link>
 			<description><![CDATA[　富士通クライアントコンピューティングは2018年1月16日、都内でPCの新製品発表会を開催し、富士通のAI技術を利用したアシスタント「ふくまろ」や法人向けPCの新製品を発表した。]]></description>
@@ -256,6 +250,38 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/011700031/</link>
 			<description><![CDATA[　今月取り上げるのは村上原野氏。縄文土器にインスピレーションを受けた創作を行っている陶芸家だ。同時にC++に詳しいプログラマーとしても知られている。今回は、メタプログラミングと縄文アートに取り組む理由などを聞いた。]]></description>
 			<pubDate>Thu, 18 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>セキュリティはオールインワンよりベストオブブリードで（後）（セキュリティはオールインワンよりベストオブブリードで）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/010900103/010900002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　オールインワン型のサイバー・セキュリティ・プラットフォームとベストオブブリードでは、どちらがよいのか。この議論の答えはベストオブブリードで決まりだ。問題は、予算的に利用できるツールはいくつなのかという点と、利用するソフトウエアがセキュリティを重視した設計になっているかどうかである。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900103/010900001/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900103/010900002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　Wilson氏が確認するのは、「データをどのように保存しているか」「どの程度の頻度でOSにパッチを適用しているか」「セキュリティ上のその他のベストプラクティスにどのように従っているか」といった点だ。答えが得られなければ、業務向けの中核機能がどれだけ素晴らしいSaaSプラットフォームであろうと契約はしない。「過去5年間に公表された大規模なセキュリティ侵害を振り返って、詳しい原因に目を向けてみると、ほぼすべての事例が、ベストプラクティスに従っていないことによって起きている。システムをアップデートしていなかったり、デフォルトのパスワードがそのままになっていたりなど、どれも比較的シンプルな原因だ。そういった点は、既に教訓として身に付いてはいないのだろうか」</p>
+
+<p>　SaaSは今後もなくならないし、IT部門に話を通さない営業担当者はこの先も残る。「IT部門には内緒」というそのアプローチは、現在ではチャットボットの導入に関しても見られる。それが現在のベンダーの文化だ。また、仮にそういう形態ではなく、センターカレッジと同じように、IT部門が購買や契約を一元的に管理していたとしても、SaaSが存在する限り、企業データがクラウドの隅々を行き来し、どこで流出が起きてもおかしくない。データ侵害が起こり得るすべての場所で侵害を回避したいのなら、そろそろ、個別のSaaSプログラムのセキュリティ機能も、自社のセキュリティスタックの一部と捉えるべき時かもしれない。本当のオールインワンのプラットフォームはもはや存在しない。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900103/010900002/?ST=cm-software&P=2">ベストオブブリードのツールでリソースを最大限に活用</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900103/010900002/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900103/010900002/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900103/010900002/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900103/010900002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 18 Jan 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
