@@ -5,20 +5,6 @@
 		<link>https://forest.watch.impress.co.jp</link>
 		<description>Windows用オンラインソフトの専門サイト。 関連ニュースも提供。</description>
 		<item>
-			<title>特定Wi-Fi・アプリ利用時に“Windows Update”を抑止「Windows10 設定変更ツール」v1.5／バックグラウンドタスクの生存を監視するプログラムも追加して信頼性を向上させる</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/cf4c5dcf1518ef8e163021eb7c9c7291?ul=dEwCWkCjTDhag9SO5eoGTDeewz0rlLAhlA4XPQ9wyhJTXp23yh_IwepaIaHWWbJ3q1_V1Z4HzneHglDvcJ3iDmhK5fWm</link>
-			<description><![CDATA[<p>　通常は変更できないWindows 10の設定を変更できるツール「Windows10 設定変更ツール」の最新版v1.5が、14日に公開された。本バージョンには“特定のWi-Fi接続中のみWindows Updateを禁止する”機能や“特定のプログラム実行中のみWindows Updateを禁止する”機能が新たに実装された。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/cf4c5dcf1518ef8e163021eb7c9c7291"/></p>]]></description>
-			<pubDate>Mon, 15 Jan 2018 14:19:18 +0900</pubDate>
-		</item>
-		<item>
-			<title>『関先生が教える　世界一わかりやすい　英単語の授業』が50％OFF！Kindleストアで英語学習書籍のセール開催中／『世界の非ネイティブエリートがやっている英語勉強法』は342円【Book Watch/セール情報】</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/d1c476853176ef3b1bd6fef7e0bcd54c?ul=k_otQ8amRWOI6a.m2xtTcyRMo46PPd25k.P09NHqUJd40o7MCX0sEIyWFmsQTKh8mYiXFB7BQdXIYdtyRrcns5gGPxkn7A2TqyluyQap.wgF2ccnp</link>
-			<description><![CDATA[<p>
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/d1c476853176ef3b1bd6fef7e0bcd54c"/></p>]]></description>
-			<pubDate>Mon, 15 Jan 2018 17:47:29 +0900</pubDate>
-		</item>
-		<item>
 			<title>キーボード・マウス操作を記録して自動化できるフリーソフト「Mouse Recorder Premium」／“指定したピクセルが特定の色になるまで待つ”アクションで画面の読み込み待機が可能【レビュー】</title>
 			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/d833950f05b04c203c06c505801f4c83?ul=QxIxyhF9PqhCSFwzEFLNPZLJmaCbHb1QKnWKqFMkrQGw3aYYAmGehguuKOY7L6SBxKvvf8TKDUG8J3mW291h5VNiAfxv</link>
 			<description><![CDATA[<p>　「Mouse Recorder Premium」は、キーボード・マウス操作を記録・編集・再生するツール。Windows 7/8/10に対応するフリーソフトで、本ソフトの公式サイトからダウンロードできる。
@@ -136,6 +122,13 @@
 			<description><![CDATA[<p>　米Emurasoftは17日（日本時間）、定番テキストエディター「EmEditor Professional」v17.4.0を公開した。本バージョンでは、選択範囲のみの置換・検索に関するオプションが拡充。正規表現エンジン“Boost.Regex”のバージョンがv1.66.0へと更新された。
 <img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/ddae3871030361a791569703c054fb75"/></p>]]></description>
 			<pubDate>Thu, 18 Jan 2018 11:12:36 +0900</pubDate>
+		</item>
+		<item>
+			<title>定例外のWindows更新でAMDシステムが起動不能になる問題、修正パッチの配信が開始／Windows 10 Version 1703/1607とServer 2016向け、それ以外も間もなく対応の見込み</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/698c89c495af892b0afae73e15a80d10?ul=ZrcVpEfj.3_v6CSQR5BLKWXMpsYOwb2mudkXDtt7dV51nrrR3XF5aROV5DSE.EaR2JFRSw.yBomkWnegcKXfWXhYPnc9</link>
+			<description><![CDATA[<p>　米Microsoftは17日（現地時間）、「Windows 10 バージョン 1703」「Windows 10 バージョン 1607」「Windows Server 2016」向けの更新プログラム（KB4057144、KB4057142）を新たに公開した。“Meltdown”“Spectre”脆弱性への緩和策として定例外で配信したセキュリティ更新プログラムが原因でAMDベースのシステムが起動不能になる問題が解決されている。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/698c89c495af892b0afae73e15a80d10"/></p>]]></description>
+			<pubDate>Thu, 18 Jan 2018 15:29:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
