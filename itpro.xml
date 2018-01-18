@@ -5,187 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>システムの機能を分かりやすく説明するには、ダメな文章と修正方法（納得させる文章）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/100600413/100600003/</link>
-			<description><![CDATA[　事実の記述で大事なのは、個人の意見や評価を混ぜないことだ。システム機能の説明（事実の記述）を書く場合を例に、物事を「正確に、分かりやすく」書くコツを三つ紹介する。]]></description>
-			<pubDate>Wed, 17 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>空港は怪しい人だらけ、本物のテロリストをあぶり出すIT競争（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/122300985/</link>
-			<description><![CDATA[　誰でも出入りできる空港ロビーで不審者や不審物を検知するのは容易ではない。テロ防止に向けたIT活用が急務になっている。]]></description>
-			<pubDate>Wed, 17 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>官民データ活用推進基本法で自治体のIT計画はどう変わる？（都道府県CIOフォーラム報告 第15回年次総会）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121500582/121500003/</link>
-			<description><![CDATA[　都道府県CIOフォーラム第15回年次総会は、2017年8月24日と25日の2日間開催された。2日目午前は、官民データ活用推進基本法で規定された都道府県計画の策定の方法を議論した。]]></description>
-			<pubDate>Wed, 17 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「サル軍団」にシステム障害を起こさせる、Netflixの驚異的なトラブル撲滅法（AWS最先進ユーザーNetflix）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/122800596/010500003/</link>
-			<description><![CDATA[　世界に1億人超のユーザーを抱えるネット動画配信サービス大手の米Netflix。同社にとってシステムの安定稼働は極めて重要だ。システムの耐障害性を高めるために、Netflixはわざと本番環境の障害を起こすという驚くべき手法を採用している。]]></description>
-			<pubDate>Wed, 17 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>企業でも格安スマホ、MVNOが力を入れる法人向けサービスの中身（危機迫るMVNO 次の一手）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/010900607/010900003/</link>
-			<description><![CDATA[　MVNOが個人向け格安スマホに続く第2の柱として手掛けているのが法人向けの格安スマホだ。法人向け格安スマホには、個人向けとは異なる機能や特徴がある。]]></description>
-			<pubDate>Wed, 17 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>気鋭の縄文陶芸家はなぜC++のエキスパートなのか（越境エンジニア列伝）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/011600030/</link>
-			<description><![CDATA[　今月取り上げるのは村上原野氏。縄文土器にインスピレーションを受けた創作を行っている陶芸家だ。C++に詳しいプログラマーとしても知られている。今回は、縄文文化に深く影響を受けた生い立ちやプログラミングとの出会いなどを聞いた。]]></description>
-			<pubDate>Wed, 17 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ハイタッチからノータッチへ、変わるIT営業（NRI楠真 強いITはココが違う）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/011500114/</link>
-			<description><![CDATA[　年末年始と挨拶まわりに忙しい季節です。日本の企業文化に根付いている年始の挨拶まわりは、トップ営業にとって重要なタイミングです。ところが、あるITベンダーの営業がこんなことを言っていました。「米国の本社からは、ハイタッチどころかノータッチで営業しろって言われているんですよ」]]></description>
-			<pubDate>Wed, 17 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIで与信審査、弥生の会計データを活用して即日融資（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/010901267/</link>
-			<description><![CDATA[　中小企業が弥生の会計ソフトで作成した会計データをアップロードすると、融資の可否を自動で判断してくれるサービスが2017年12月に登場した。人工知能（AI）技術を活用することで従来よりも融資のハードルを下げる。]]></description>
-			<pubDate>Wed, 17 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>生産ラインからワナまで、明日からすぐIoTを始めよう（IoTラクラク実践術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011000609/011500004/</link>
-			<description><![CDATA[　SaaS型の「出来合い」のIoTサービスが注目を集めている。センサー、ゲートウェイ、そしてセンサーから取得したデータを活用したクラウドサービスなどが一体化して、開発の手間が省けるだけでなく、非機能要件の実装も考慮する必要がなくなるからだ。]]></description>
-			<pubDate>Wed, 17 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>現在もニーズがある旧来のプログラミングスキル9選（中）（現在もニーズがある旧来のプログラミングスキル9選）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　Computerworldは、企業のIT幹部196人を対象とした調査で、レガシープラットフォームについて尋ねた。現在も利用し、人材を雇っているレガシープラットフォームは何かという質問だ。今回の記事では、その回答で挙がった9種類のプラットフォームや言語を紹介する。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900001/" target="_blank">前回</a>から続く）</p>
-
-<h4>COBOL</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　COBOL（Common Business-Oriented Language）は、事務処理用に設計されたプログラミング言語として1959年に誕生した。COBOL製のさまざまなレガシーシステムが現在も稼働している。最近のモダンプログラミング言語に次第に取って代わられつつあるとはいえ、レガシーシステムを保守する必要性は今もある。COBOLはもともと、Grace Hopper氏が開発したプログラミング言語を基にして開発された。そのことから、Hopper氏は業界で「COBOLのおばあちゃん」と呼ばれている。</p>
-
-<p>　COBOLが誕生した背景の1つは、可搬性があるデータ処理用のプログラミング言語を米国防総省向けに開発することだった。同省は、コンピューターメーカーにCOBOLへの対応を促した。それもあって、COBOLは長年にわたって存続してきた。現在COBOLが特に使われているのは、金融業界や政府部門のシステム、企業の基幹システムなどだ。調査結果では、現在も利用しているレガシープラットフォームとしてCOBOLを挙げた人は9％だった。COBOLのスキルを持つ人材としては、主にプログラマや開発者が考えられる。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900002/?ST=cio-appli&P=2">アセンブリ言語</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900002/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900002/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900002/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 17 Jan 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IoTのセキュリティ、白馬の騎士求む（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011700459/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　企業ネットワークにとってIoTデバイスは今後も深刻な脅威である。そのことは、IT界の方々にはあらためて言うまでもない。猛威をふるったボットネット「Mirai」のおかげだ。しかし、世界中でMiraiが大きく報じられてから1年以上がたった現在でも、IoTのセキュリティはほとんど構想の段階にとどまっており、現実とはなっていない。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011700459/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　こうした領域の問題に関して、米市場調査会社Frost＆SullivanのIoTリサーチディレクター、Dilip Sarangan氏は、政府が介入することに賛成だと主張する。IoTのセキュリティは、デバイスメーカー、ネットワーク事業者、ソフトウエア開発企業など、数多くの企業に責任が分散していることから、包括的な標準について業界として進展を図るのが難しく、「最低要件を言い渡せる存在は、残念ながら米国政府しかない」というのが同氏の意見だ。
-</p>
-<p>
-　包括的な標準の策定が難しいのは、IoTソリューションは構成要素が多いうえ、各要素を管理する企業や組織が別々で、しかも外部に管理を委ねている場合もあるということに関係している。例えば、A社が提供する医療機器が、B社の管理するネットワークに接続し、その上で稼働するアプリケーションは、もともとはC社が開発したもので、D社のクラウド上に置かれている、といった形だ。
-</p>
-<p>
-　「エンドツーエンドのIoTセキュリティを実現するかのような話を皆がしているが、本当は実現のしようがない。IoTソリューションには、当人が制御できない要素が多い」とSarangan氏は述べる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011700459/?ST=cm-network&P=2">ネットワークの可視性</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011700459/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011700459/?ST=cm-network&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011700459/?ST=cm-network&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011700459/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 17 Jan 2018 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>NECが10万円強のモバイルノートPCを発表、学生のPC離れにターゲット（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011702964/</link>
-			<description><![CDATA[　NECパーソナルコンピュータは2018年1月16日、都内で新製品発表会を開催し、学生などをターゲットにしたモバイルノートPC「LAVIE Note Mobile」の新モデルなどを発表した。]]></description>
-			<pubDate>Wed, 17 Jan 2018 12:28:41 +0900</pubDate>
-		</item>
-		<item>
-			<title>ドコモがQR決済に4月参入、利用開始時の利便性でLINE・楽天を追撃（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011702965/</link>
-			<description><![CDATA[　NTTドコモは2018年1月17日、2次元バーコード（QRコード）を使った決済サービス「d払い」を同年4月に始めると発表した。決済代金を携帯電話の利用料に合算して精算する仕組みを採ることで利用開始時の申し込みを不要にするほか、18歳未満も利用可能にするなど利便性を高め、先行するLINEや楽天を追う。]]></description>
-			<pubDate>Wed, 17 Jan 2018 14:42:14 +0900</pubDate>
-		</item>
-		<item>
-			<title>IDC Japanが働き方改革ICT市場を予測、2021年には2兆6000億円へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011702966/</link>
-			<description><![CDATA[　IDC Japanは2018年1月17日、国内の働き方改革関連ICT市場について分野別予測を発表した。「ソフトウエア」「ITサービス／ビジネスサービス」の2分野について、2016〜2021年の年間平均成長率がそれぞれ11.9％、19.8％と、順調に伸びると予測する。]]></description>
-			<pubDate>Wed, 17 Jan 2018 14:44:48 +0900</pubDate>
-		</item>
-		<item>
-			<title>「M-1グランプリ」の順位予想投票システム、ヤフー傘下2社がAWS上に構築（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011702967/</link>
-			<description><![CDATA[　ヤフーグループのシナジーマーケティングとGYAOは2018年1月17日、テレビ朝日系列が2017年12月3日に放映した漫才コンクール番組「M-1グランプリ2017」の順位予想企画「GYAO!三連単順位予想キャンペーン」のシステム基盤を構築したと発表した。]]></description>
-			<pubDate>Wed, 17 Jan 2018 15:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ドローン映像で農産物育成を可視化、スカパーJSAT子会社が新サービス（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011702968/</link>
-			<description><![CDATA[　スカパーJSAT子会社の衛星ネットワーク（SNET）は2018年1月17日、ドローンの撮影映像を活用して農産物の育成状況を可視化する「SNET画像処理クラウドサービス」の提供を開始したと発表した。]]></description>
-			<pubDate>Wed, 17 Jan 2018 15:44:32 +0900</pubDate>
-		</item>
-		<item>
-			<title>シスコが中小企業向け製品で攻勢、価格帯を見直し「平均10％安く」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011702969/</link>
-			<description><![CDATA[　シスコシステムズは2018年1月17日、日本の中小企業向けに提供する製品ブランド「Cisco Start」について戦略説明会を開いた。働き方改革のIT投資需要を追い風に、従来より安価に製品を提供するなど攻勢をかける。]]></description>
-			<pubDate>Wed, 17 Jan 2018 15:59:25 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIで100メートル後方の車両も検出、三菱電機が電子ミラーの新技術（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011702970/</link>
-			<description><![CDATA[　三菱電機は2018年1月17日、電子ミラー向けの物体認識技術を開発したと発表した。車載向けの一般的なマイクロコントローラー（マイコン）で、100メートル後方の車両をリアルタイムで検出できる。撮影画像内の目立つ領域に処理を絞り込む手法と、ディープラーニング（深層学習）の組み合わせで実現した。]]></description>
-			<pubDate>Wed, 17 Jan 2018 16:52:56 +0900</pubDate>
-		</item>
-		<item>
-			<title>30支店のエースが修理の技を競う、NTT東日本が現場力向上フォーラム開催（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011702972/</link>
-			<description><![CDATA[　NTT東日本は2018年1月17日から18日まで、東京都調布市入間町の同社研修センターで「現場力向上フォーラム」を開催している。技能競技会や展示を通じて、技能系社員のスキル継承やノウハウの水平展開を行うのが目的だ。ロボットやAIを使った設備保全の新しい取り組みも紹介している。]]></description>
-			<pubDate>Wed, 17 Jan 2018 17:26:43 +0900</pubDate>
-		</item>
-		<item>
-			<title>楽天が携帯電話事業の新会社、「楽天モバイルネットワーク」を設立（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011702973/</link>
-			<description><![CDATA[　楽天が携帯電話事業への新規参入を目指す新会社「楽天モバイルネットワーク」を1月10日付で設立したことが、ITproの調べで2018年1月17日に分かった。]]></description>
-			<pubDate>Wed, 17 Jan 2018 18:05:03 +0900</pubDate>
-		</item>
-		<item>
 			<title>JR北海道が「スマホ定期券」、無人駅でも購入可能（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011702974/</link>
 			<description><![CDATA[　北海道旅客鉄道（JR北海道）は2018年1月17日、一部路線でスマートフォン画面を定期券として使う「スマホ定期券」を導入すると発表した。利用開始は2018年4月1日から。石北本線西留辺蘂（にしるべしべ）～網走間と、釧網本線網走～緑間で導入する。]]></description>
@@ -364,6 +183,79 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011802983/</link>
 			<description><![CDATA[　EduLabは2018年1月18日、人工知能（AI）を活用して手書き文字をデータに変換するサービスを始めた。活字を対象にしたOCR（光学的文字認識）や決まったマス目内の文字を認識する既存技術と違い、形や文字間隔にばらつきがある手書き文字でも9割以上の精度で認識できる。]]></description>
 			<pubDate>Thu, 18 Jan 2018 20:57:37 +0900</pubDate>
+		</item>
+		<item>
+			<title>データ通信だけじゃない、MVNOが目指す「フルMVNO」という世界（危機迫るMVNO 次の一手）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/010900607/010900005/</link>
+			<description><![CDATA[　一部のMVNOが目指しているのが「フルMVNO」だ。フルMVNOとは、これまでの枠を超えた“準キャリア”とも言える新しい形のMVNOを実現して大手に対抗していこうという構想を指す言葉だ。]]></description>
+			<pubDate>Fri, 19 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スマートスピーカーClova Friends、子供たちが喜ぶ理由と怒る理由（伊藤浩一のモバイルライフ応援日記）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100117/010900076/</link>
+			<description><![CDATA[　2017年はアマゾンやグーグル、LINEなどがスマートスピーカーをリリースし始め、「スマートスピーカー元年」と呼べる年だったと思います。そんな中、LINEが年末の12月8日にユニークな機種をリリースしました。「Clova Friends」です。]]></description>
+			<pubDate>Fri, 19 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Siriが本を読み聞かせてくれる？iPhoneの読み上げ機能で得した気分に（あなたが知らないiPhone）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/103000461/011600006/</link>
+			<description><![CDATA[　電車やバスでの移動中のちょっとした時間に、スマートフォンやタブレット端末で電子書籍を読んでいる人をよく見かける。つり革につかまって立っているときにも、片手で操作できるのがいいのだろう。ただ長時間となると、スマートフォンを持つのも面倒になることはないだろうか。]]></description>
+			<pubDate>Fri, 19 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>自動運転を支える日本版GPS、実証実験に期待すること（日本版GPSの全貌）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/111500524/011500004/</link>
+			<description><![CDATA[　自動運転の世界においても、測位にみちびきを用いた実証実験が増えている。例えば三菱電機は、みちびきのセンチメータ級測位補強サービス（CLAS）を測位に用いた自動運転車「xAUTO」の実証実験を、山陽自動車道の一部区間で進めている。
+]]></description>
+			<pubDate>Fri, 19 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>苦境に陥るMVNO　総務省は再活性化できるのか（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/011800382/</link>
+			<description><![CDATA[　2017年12月、総務省はモバイル市場の活性化を目的とした有識者会議を発足させた。キャリアの施策によって顧客獲得が難しくなったMVNOの支援策とも言えるが、そもそもでMVNOを苦境に陥れたのは総務省ではないだろうか。]]></description>
+			<pubDate>Fri, 19 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ARM版Windows 10、Always Connected PCがやってくる（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/011800381/</link>
+			<description><![CDATA[　新しい技術が次々と登場してくるデジタル業界。デジタル機器や周辺機器を選ぶときに失敗しないように、聞き慣れない言葉を耳にしたらまずその概要を知っておこう。今回は、2018年のパソコン界で話題を集めそうな、ARM版Windows 10。]]></description>
+			<pubDate>Fri, 19 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>RPAの開発と運用、従来のSIとは大違い（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/011200993/</link>
+			<description><![CDATA[　PCの繰り返し作業をソフトウエアロボットで自動化する「RPA」。取材を重ねていくなかで「RPAの開発や運用は従来の業務システムと比べると大きく違う」という気づきを得た。]]></description>
+			<pubDate>Fri, 19 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>行政サービスの100％デジタル化、課題は102万の外字統合（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/011501275/</link>
+			<description><![CDATA[　政府が「行政サービスの100％デジタル化」の基本方針を決定した。戸籍情報システムをオンライン化するなどして、紙の添付書類を全廃する。102万字もの外字を統合できるかが最大の課題だ。]]></description>
+			<pubDate>Fri, 19 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>政策立案・決定にAIは使えるか、自治体担当者の議論白熱（都道府県CIOフォーラム報告 第15回年次総会）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121500582/121500005/</link>
+			<description><![CDATA[　第15回を迎えた都道府県CIOフォーラムの年次総会（2017年8月24日と25日に開催）。事前アンケートでは、AI活用への期待として、「定型事務・単純事務の自動化」「一次窓口の支援」「政策の企画・評価の支援」などが上位に挙がった。]]></description>
+			<pubDate>Fri, 19 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>陶芸家兼C++プログラマーが「中３女子」を名乗る理由（越境エンジニア列伝）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030300065/011700032/</link>
+			<description><![CDATA[　今月取り上げるのは村上原野氏。縄文土器にインスピレーションを受けた創作を行っている陶芸家だ。同時にC++に詳しいプログラマーとしても知られている。最終回の今回は、縄文アートやプログラミングに対する思いなどを聞いた。]]></description>
+			<pubDate>Fri, 19 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スクラムできる対話能力の高い人を望む、Sansanのエンジニア採用（中途採用するならこんな人）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011200612/011600001/</link>
+			<description><![CDATA[　法人向け名刺管理サービスを手掛けるSansanが個人向けに展開する名刺アプリ「Eight」。現在、機能強化に向けてさらなるエンジニアの募集を実施している。Eight事業部 開発統括責任者を務める宍倉功一氏に、採用したいエンジニア像や面接で重視するポイント、入社後の役割などについて聞いた。]]></description>
+			<pubDate>Fri, 19 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>CES 2018で感じた5つのインパクト（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/011800309/</link>
+			<description><![CDATA[　2018年1月9日～12日に米国ラスベガスで開催された家電見本市「CES 2018」。スタートアップ企業を中心とした取材から、「CESと縁のなかった企業の参入」「国対抗のイノベーション競争」など5つのトピックスを紹介する。]]></description>
+			<pubDate>Fri, 19 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
