@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>「このツアーが良いまろ」、富士通が独自AI「ふくまろ」とPC新製品（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011602963/</link>
-			<description><![CDATA[　富士通クライアントコンピューティングは2018年1月16日、都内でPCの新製品発表会を開催し、富士通のAI技術を利用したアシスタント「ふくまろ」や法人向けPCの新製品を発表した。]]></description>
-			<pubDate>Tue, 16 Jan 2018 21:20:13 +0900</pubDate>
-		</item>
-		<item>
 			<title>システムの機能を分かりやすく説明するには、ダメな文章と修正方法（納得させる文章）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/100600413/100600003/</link>
 			<description><![CDATA[　事実の記述で大事なのは、個人の意見や評価を混ぜないことだ。システム機能の説明（事実の記述）を書く場合を例に、物事を「正確に、分かりやすく」書くコツを三つ紹介する。]]></description>
@@ -282,6 +276,12 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 18 Jan 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>レッドハット、マイクロサービスアプリの開発・実行環境を発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011802975/</link>
+			<description><![CDATA[　レッドハットは2018年1月17日、クラウドネイティブなサービス開発に特化した軽量な実行環境（ランタイム）「Red Hat Openshift Application Runtimes」を提供開始したと発表した。企業向けハイブリッドクラウド、コンテナアプリケーション分野で富士通との協業を強化し、2018年3月から「FUJITSU　Cloud Service K5」上で「Red Hat OpenShift Container Platform」を提供開始することも明らかにした。]]></description>
+			<pubDate>Thu, 18 Jan 2018 08:48:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
