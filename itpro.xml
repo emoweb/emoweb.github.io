@@ -5,10 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>JR北海道が「スマホ定期券」、無人駅でも購入可能（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011702974/</link>
-			<description><![CDATA[　北海道旅客鉄道（JR北海道）は2018年1月17日、一部路線でスマートフォン画面を定期券として使う「スマホ定期券」を導入すると発表した。利用開始は2018年4月1日から。石北本線西留辺蘂（にしるべしべ）～網走間と、釧網本線網走～緑間で導入する。]]></description>
-			<pubDate>Wed, 17 Jan 2018 19:35:03 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：「サル軍団」にシステム障害を起こさせる、Netflixの驚異的なトラブル撲滅法（AWS最先進ユーザーNetflix）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/122800596/010500003/?d19</link>
+			<description><![CDATA[　世界に1億人超のユーザーを抱えるネット動画配信サービス大手の米Netflix。同社にとってシステムの安定稼働は極めて重要だ。システムの耐障害性を高めるために、Netflixはわざと本番環境の障害を起こすという驚くべき手法を採用している。]]></description>
+			<pubDate>Wed, 17 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Googleが「Cloud AutoML」発表、専門家不要でAIをカスタマイズ（ニュース）</title>
@@ -256,6 +256,46 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/011800309/</link>
 			<description><![CDATA[　2018年1月9日～12日に米国ラスベガスで開催された家電見本市「CES 2018」。スタートアップ企業を中心とした取材から、「CESと縁のなかった企業の参入」「国対抗のイノベーション競争」など5つのトピックスを紹介する。]]></description>
 			<pubDate>Fri, 19 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>現在もニーズがある旧来のプログラミングスキル9選（下）（現在もニーズがある旧来のプログラミングスキル9選）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　Computerworldは、企業のIT幹部196人を対象とした調査で、レガシープラットフォームについて尋ねた。現在も利用し、人材を雇っているレガシープラットフォームは何かという質問だ。今回の記事では、その回答で挙がった9種類のプラットフォームや言語を紹介する。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900002/" target="_blank">前回</a>から続く）</p>
+
+<h4>DelphiとObject Pascal</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900003/ph3.jpg" width="300" alt="" title=""></div></div>
+
+<p>　DelphiとObject Pascalは密接につながっている。Pascalベースのプログラミング言語であるObject PascalをDelphiで使うという関係だ。Object Pascalは使いやすい高水準のプログラミング言語であるのに対し、Pascalは汎用的な低水準のプログラミング言語を指向している。Object Pascalは1990年代に開発され、1995年にWindows 3.1向けとしてリリースされた後、複数のバージョンやバリエーション、別言語の登場へとつながった。</p>
+
+<p>　調査結果では、現在も利用しているレガシープラットフォームとしてDelphiとObject Pascalを挙げたのは3％にとどまった。Delphiのスキルを持つ人材は、ソフトウエア開発者、エンジニア、プログラマらに見つかる可能性が高い。</p>
+
+<h4>Fortran</h4>
+
+<p>　Fortran（Formula Translation）は、科学技術計算のアルゴリズム向けに設計されたプログラミング言語だ。航空宇宙工学、機械工学、ソフトウエア工学などの分野でエンジニアや数学者らが主に利用している。今回の記事で挙げた中では最も古い言語だ。1950年代にIBMが開発した後、数十年にわたって、気象予測や計算物理学をはじめとする高性能コンピューティングの処理で主流のプログラミング言語だった。</p>
+
+<p>　今回の調査で、現在も利用しているレガシープラットフォームとしてFortranを挙げたのは3％にとどまった。しかし、ベテランのITワーカーの転職や退職が進めば、状況は変わるかもしれない。旧来のスキルを持つ候補者を探している企業もあるかもしれないので、履歴書やLinkedInのプロフィールには、念のためこうしたスキルも記載しておくとよい。Fortranのスキルを持つ人材は、ソフトウエアエンジニア、航空宇宙系エンジニア、機械系エンジニアらの間で見つかりそうだ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900003/?ST=cio-appli&P=2">REXX</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900003/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900003/?ST=cio-appli&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900003/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 19 Jan 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
