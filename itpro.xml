@@ -297,5 +297,42 @@
 			<description><![CDATA[　中古不動産流通業サービス「Renosy」を手掛けるジーエーテクノロジーズは2018年1月19日、ITを活用し不動産物件を顧客に提案する業務を効率化したと発表した。]]></description>
 			<pubDate>Fri, 19 Jan 2018 09:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>AlibabaとMicrosoftのAI、読解力テストで人間を上回る（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011900460/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　中国Alibaba Groupと米Microsoftが開発した人工知能（AI）のモデルが、米スタンフォード大学のデータセット「Stanford Question Answering Dataset（SQuAD）」を使った読解力テストで、人間を上回るスコアを出した。このテストでAIのスコアが人間を上回ったのは初めて。
+</p>
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011900460/ph.jpg" width="300" alt="" title=""></div></div>
+<p>
+　SQuADは、Wikipediaの記事500件以上を基にした一連の質問で構成されており、それらの記事の中で答えを見つけられるようになっている。Alibabaが開発したディープニューラルネットワークのモデルは、このテストの「ExactMatch（EM）」のスコアが82.440で、人間のスコア（82.304）を上回った。Microsoftの同様のモデルも、82.650というスコアを出した。
+</p>
+<p>
+　SQuADのテスト結果のランキングを見ると、Google、IBM Research、Facebook AI Research、Salesforce Research、Tencent、Samsungなど、AI研究で名をはせる大手企業の研究部門が並んでいる。その中で、AlibabaとMicrosoftは、いずれも第1位としてランクされているが、両社とも、人間を初めて超えたのは自分たちだと主張している。
+</p>
+<p>
+　ランキング表では、Microsoftのスコアの登録日は2018年1月3日、Alibabaはその2日後の1月5日となっているが、Alibabaは、これらの日付はモデルを提出した日であり、テスト結果が登録された日ではないと説明している。
+</p>
+<p>
+　Alibabaの研究部門Institute of Data Science and Technologies（iDST）で自然言語処理のチーフサイエンティストを務めるLuo Si氏は、次のような声明を出した。「読解で機械が人間を超えるという重要な節目を目撃できたことは大変な栄誉だ。自然言語処理の研究がこの1年で大きく進展したことに興奮を覚えている。近い将来、我々のモデル構築の手法をコミュニティーと共有し、またこの技術を顧客向けに提供するのが楽しみだ」
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011900460/?ST=cm-software&P=2">一方、Microsoftの研究拠点の1つであるMicrosoft...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011900460/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011900460/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011900460/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 19 Jan 2018 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
