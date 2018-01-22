@@ -5,46 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>現在もニーズがある旧来のプログラミングスキル9選（下）（現在もニーズがある旧来のプログラミングスキル9選）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　Computerworldは、企業のIT幹部196人を対象とした調査で、レガシープラットフォームについて尋ねた。現在も利用し、人材を雇っているレガシープラットフォームは何かという質問だ。今回の記事では、その回答で挙がった9種類のプラットフォームや言語を紹介する。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900002/" target="_blank">前回</a>から続く）</p>
-
-<h4>DelphiとObject Pascal</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900003/ph3.jpg" width="300" alt="" title=""></div></div>
-
-<p>　DelphiとObject Pascalは密接につながっている。Pascalベースのプログラミング言語であるObject PascalをDelphiで使うという関係だ。Object Pascalは使いやすい高水準のプログラミング言語であるのに対し、Pascalは汎用的な低水準のプログラミング言語を指向している。Object Pascalは1990年代に開発され、1995年にWindows 3.1向けとしてリリースされた後、複数のバージョンやバリエーション、別言語の登場へとつながった。</p>
-
-<p>　調査結果では、現在も利用しているレガシープラットフォームとしてDelphiとObject Pascalを挙げたのは3％にとどまった。Delphiのスキルを持つ人材は、ソフトウエア開発者、エンジニア、プログラマらに見つかる可能性が高い。</p>
-
-<h4>Fortran</h4>
-
-<p>　Fortran（Formula Translation）は、科学技術計算のアルゴリズム向けに設計されたプログラミング言語だ。航空宇宙工学、機械工学、ソフトウエア工学などの分野でエンジニアや数学者らが主に利用している。今回の記事で挙げた中では最も古い言語だ。1950年代にIBMが開発した後、数十年にわたって、気象予測や計算物理学をはじめとする高性能コンピューティングの処理で主流のプログラミング言語だった。</p>
-
-<p>　今回の調査で、現在も利用しているレガシープラットフォームとしてFortranを挙げたのは3％にとどまった。しかし、ベテランのITワーカーの転職や退職が進めば、状況は変わるかもしれない。旧来のスキルを持つ候補者を探している企業もあるかもしれないので、履歴書やLinkedInのプロフィールには、念のためこうしたスキルも記載しておくとよい。Fortranのスキルを持つ人材は、ソフトウエアエンジニア、航空宇宙系エンジニア、機械系エンジニアらの間で見つかりそうだ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900003/?ST=cio-appli&P=2">REXX</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900003/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900003/?ST=cio-appli&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/010900102/010900003/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 19 Jan 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ジーエーテクノロジーズ、自社ツールで不動産の提案業務を省力化（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011802977/</link>
 			<description><![CDATA[　中古不動産流通業サービス「Renosy」を手掛けるジーエーテクノロジーズは2018年1月19日、ITを活用し不動産物件を顧客に提案する業務を効率化したと発表した。]]></description>
@@ -317,6 +277,35 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/011900995/</link>
 			<description><![CDATA[　「パッチの適用は様子見している。別の問題が起きても困ってしまうからだ」。あるシステム運用企業の社長はこう打ち明けます。2018年1月3日に明らかになったCPUの脆弱性問題。IT各社は急いで修正パッチなどの対策を公開しましたが、この対策が思わぬ余波を引き起こしています。]]></description>
 			<pubDate>Tue, 23 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>サーバーレスはクラウドコンピューティングの未来か（前）（サーバーレスはクラウドコンピューティングの未来か）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　クラウドは多くの企業に恵みをもたらした。各社の最高情報責任者（CIO）は、自前のサーバーを減らしたり、場合によっては自前のデータセンターを閉じたりという選択ができるようになった。代わりに、急成長するクラウド市場のさまざまなベンダーから、コンピューティングの処理能力、ストレージ、各種ツールを借りて使用する。だが、一部のCIOは、もっと効率的に処理能力を借りる方法に期待を寄せている。クラウドアーキテクチャの設計や管理は重荷となることが多い。こうした重荷を回避しようとCIOが採用しつつあるのが「サーバーレス」だ。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　通常のクラウドコンピューティングの場合、リソースを割り当てて稼働したインスタンスは、アプリケーションや機能に対する要求があった時だけ処理を行い、それ以外はアイドル状態で待機している。一方、サーバーレスコンピューティングは、特定のイベントが発生した時だけリソースがプロビジョニングされる。イベント駆動型コンピューティングの典型例がIoTだ。センサーを搭載したデバイスは、トリガーにその場で反応する。そして、ユーザーがスマートフォンでモバイルアプリにアクセスすると（これがイベント）、クラウド上の仮想マシンがその情報を取得して提供する。</p>
+
+<p>　サーバーレスは「FaaS（Function as a Service）」とも呼ばれる。開発者はコードの開発にのみ意識を向けることができ、そのコードが稼働するサーバーについて心配する必要がない。米New York TimesのNick Rockwell最高技術責任者（CTO）は、クラウドが前進していく中で、次の一区間を担う走者はサーバーレスになると確信している。「サーバーレスでは、プロダクトの信頼性と拡張性の両方を実現できる。経済面で長期的に見ると、はるかに優位で、はるかに低コストで、はるかに効率的な方法になる」とRockwell氏は話す。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500001/?ST=cm-software&P=2">クラウドへの移行をへてサーバーレスへ</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500001/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500001/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 23 Jan 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
