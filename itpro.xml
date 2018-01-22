@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>CCC AIRが4K・HDR映像まで対応したHDMIスティック型STBを販売（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011802981/</link>
-			<description><![CDATA[　CCC AIRは2018年1月18日、4K・HDR10の映像まで対応したHDMIスティック型STBの販売を同日に開始した。テレビのHDMI端子に指し込み、LANケーブルあるいは無線LANにネットにつなぐことで、様々なアプリから映画・スポーツ・音楽などをテレビ画面で楽しめる。]]></description>
-			<pubDate>Thu, 18 Jan 2018 19:34:04 +0900</pubDate>
-		</item>
-		<item>
 			<title>mineoが独自調達したiPhone 7を発売、回線数は3月末に100万件に（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011802982/</link>
 			<description><![CDATA[　ケイ・オプティコムは2018年1月18日、MVNOサービス「mineo」に関する事業説明会を開催し、国内SIMフリー版「iPhone 7」の発売など新施策について説明した。mineoの最新状況について、「100万回線を目指し、順調に推移している。現在は約90万回線だ」と好調を語った。]]></description>
@@ -286,6 +280,44 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 22 Jan 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Firefox、今後の新機能は暗号化接続にのみ対応（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012200461/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Mozillaは現地時間2018年1月15日、ブラウザー「Firefox」に今後搭載する新機能のうち、Web通信が関係する機能について、ブラウザーとサーバーの間で全トラフィックを暗号化する「安全なコンテキスト（secure contexts）」にのみ対応することを発表した。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012200461/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Rob Schultz</div>
+</div>
+<p>
+　MozillaのエンジニアであるAnne van Kesteren氏は、公式ブログ記事の中で、「今後、Web通信が関係する新機能はすべて、安全なコンテキストに限定するものとする。これは即時施行する」と説明したうえで、対象となる機能について、「IDLで定義された既存オブジェクトの拡張、新しいCSSプロパティ、新しいHTTPレスポンスヘッダといったものから、もっと大きなWebVRのような機能に至るまで、あらゆる機能が該当する」とした。
+</p>
+<p>
+　安全なコンテキストの仕様は、Web技術の標準化団体World Wide Web Consortium（W3C）が勧告に向けた策定を進めている。仕様の中には、安全なコンテキストの趣旨について次のような記述がある。「機密データまたは私的データにアクセスするアプリケーションコードは、データの完全性を保証する認証済み通信路を使用して、秘匿伝送が行われるものとする」
+</p>
+<p>
+　つまりは、トラフィックを暗号化する必要があるということだ。ブラウザーとサーバーの間で、セキュアでないトラフィックをハッカーに傍受される中間者攻撃を防ぐためである。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012200461/?ST=cm-software&P=2">今後は、Firefoxに新たに導入される新機能のうち、ブラウザー...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012200461/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012200461/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012200461/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 22 Jan 2018 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
