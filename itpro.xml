@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>NTTドコモとNTTデータ北陸がエリアメール誤送信、「政府発表」の文面で48通（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012202993/</link>
-			<description><![CDATA[　NTTドコモは2018年1月19日、「政府発表」「緊急警報」「総務省消防庁」と記載のあるエリアメールを、同日昼の約1時間に48回にわたって繰り返し誤送信していたことを明らかにした。]]></description>
-			<pubDate>Mon, 22 Jan 2018 14:42:13 +0900</pubDate>
-		</item>
-		<item>
 			<title>インフラをコーディングして労働環境を改善、IaC活用研究会が発足（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012202994/</link>
 			<description><![CDATA[　TISは2018年1月22日、「Infrastructure as Code（IaC）」の推進団体「IaC活用研究会」の設立を発表した。IaCはプログラミングによってインフラ管理を効率化する手法だ。]]></description>
@@ -253,6 +247,39 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/122800598/122800003/</link>
 			<description><![CDATA[　Webフロントエンドの開発で近年、最も人気が高いフレームワークといえば「Angular」だろう。Angularは当初、「AngularJS」と呼ばれており、SPAの開発に必要なあらゆる機能を詰め込んだフルスタックなフレームワークだ。]]></description>
 			<pubDate>Wed, 24 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>CRMとマーケティングオートメーション、その違いは（中）（CRMとマーケティングオートメーション、その違いは）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/011500104/011500002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　マーケティングオートメーションシステムとCRM（顧客関係管理）システムは、リードやコンタクト、顧客企業を扱うという点で、守備範囲が重なり合っているように思える。両者を巡る話は、あいまいさや分かりにくさには事欠かない（理由の一端は、おかしなブランディングにある）。その結果、論点がつかみにくくなっている。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500104/011500001/" target="_blank">前回</a>から続く）</p>
+
+<h4>CRMとSFA</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500104/011500002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　ここまでの説明から分かる通り、マーケティングオートメーションシステムとCRMシステムは実はあまり似ていない。マーケティングオートメーションの基盤がメールの一斉配信だとすると、CRMの基盤はSFA（営業支援）だ。いずれのシステムも、リード、コンタクト、顧客企業を扱うが、それぞれが機能する前後関係が大きく異なる。マーケティングオートメーションのユーザーは、もっぱらリードに主眼を置く。これに対し、SFAのユーザーにとってリードが重要なのは短い間だけだ。成果を残すセールス担当者は、その後さらに、案件（オポチュニティ）を扱ったり、コンタクト（有望見込み客として選別や転換が行われたリード）と話をしたりすることになる。SFAのユーザーは、一般的なマーケティング担当者とは大きく異なる生き物だ。セールスチームとマーケティングチームが互いに反目していることも多々ある。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500104/011500002/?ST=cio-management&P=2">CRMシステムは、次のようなセールスプロセスに対...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500104/011500002/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500104/011500002/?ST=cio-management&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500104/011500002/?ST=cio-management&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500104/011500002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 24 Jan 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
