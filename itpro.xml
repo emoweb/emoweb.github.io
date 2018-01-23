@@ -5,129 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>トレーニングで若手エンジニアは育たない、発信とつながりの場を作ろう（岡大勝のプロジェクトお悩み相談室）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900109/010500013/</link>
-			<description><![CDATA[　若手には「会社は複数ある所属コミュニティの1つ」という考え方が広がりつつあります。若手のモチベーションを高め、スキルアップを促進させるには、3つの施策を段階的に実施するのが効果的です。]]></description>
-			<pubDate>Mon, 22 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>デジタル化に疲れた、「お代は見てのお帰り」では辛い（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/011600994/</link>
-			<description><![CDATA[　デジタルシフトは2018年も多くの日本企業にとって重点テーマ。しかし、AIやIoTにチャレンジしてみたが成果はいまひとつと、デジタル化の疲れを訴える声が聞こえてくる。提案やPoC（概念検証）の無償提供がSIベンダーの負担になっているのが一因だ。]]></description>
-			<pubDate>Mon, 22 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IBMのWatson、「人工知能」とは別モノ？（IBM Watsonの真実）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011000608/011000001/</link>
-			<description><![CDATA[　今のAIブームを技術面で牽引しているのが深層学習（ディープラーニング）だとすれば、ビジネス向け製品／サービスではWatsonだと言っても過言ではない。この2年で機能や販売形態が大きく変化していることもあり、全体像を捉えにくい。様々な側面からWatsonの現状を明らかにしていく。]]></description>
-			<pubDate>Mon, 22 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>馬鹿に付ける薬があった！　システム障害を絶対に起こす猿を見習え（木村岳史の極言暴論！）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/011700174/</link>
-			<description><![CDATA[　実に面白かった。何の事かと言うと、米国の動画配信サービス大手、Netflixの「サル軍団」の記事だ。カオスモンキーたちがわざとシステムに障害を発生させて、技術者に対処させる。日本企業には「システム障害は絶対に起こしてはならない」という愚か者が多いので、そうした連中にはぜひ読んでもらい。]]></description>
-			<pubDate>Mon, 22 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Webフロントエンド開発の主役、SPAの仕組み（3分でわかるJavaScript開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/122800598/122800001/</link>
-			<description><![CDATA[　フロントエンドWebのアーキテクチャーが変貌している。フロントエンドWeb技術には欠かせない「SPA」について解説しよう。]]></description>
-			<pubDate>Mon, 22 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「MUFGショック」、基幹系をクラウドで動かすが常識に（基幹系もクラウドへ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/010400601/010400001/</link>
-			<description><![CDATA[　基幹系も含めて「全てのシステムをクラウドへ」と考える企業が相次ぎ登場している。こうした動きを受け、クラウドベンダーも基幹系を乗せるためのサービスを拡充中だ。]]></description>
-			<pubDate>Mon, 22 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>脆弱なWPA2は消える、WPA3登場で進化する無線LANセキュリティ（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/011901279/</link>
-			<description><![CDATA[　2018年は、無線LANが大きく変わる年になる。無線LANのセキュリティ規格であるWPA（Wi-Fi Protected Access）の新版「WPA3」が2018年後半に公開されるからだ。現在広く使われているWPA2以来、14年ぶりの大改訂となる。]]></description>
-			<pubDate>Mon, 22 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>CRMとマーケティングオートメーション、その違いは（上）（CRMとマーケティングオートメーション、その違いは）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/011500104/011500001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　マーケティングオートメーションシステムとCRM（顧客関係管理）システムは、リードやコンタクト、顧客企業を扱うという点で、守備範囲が重なり合っているように思える。両者を巡る話は、あいまいさや分かりにくさには事欠かない（理由の一端は、おかしなブランディングにある）。その結果、論点がつかみにくくなっている。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500104/011500001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　まずは、セールスとマーケティングの役割の違いを明確にしておこう。両者の定義をごちゃ混ぜにしている企業は信じられないほど多い。筆者は典型的なマーケティング畑の人間だ（実際、上場企業のマーケティング担当シニアバイスプレジデントを務めた経歴を持つ）。そこで筆者としては次のように言っておきたい。すなわち、マーケティングのうちアウトバウンドの部分（マーケティングオートメーションが携わる部分）については、適切なメッセージを適切なプロスペクトに届けることに主眼を置く必要がある。そして、しかるべき水準の興味を示して反応を返した人々を、選別の対象としてセールスに引き渡す。一方、そのような反応を示さなかった人々は、育成や「リマーケティング」の対象としてマーケティングオートメーションシステムに残す。また、アウトバウンドマーケティングは、既存顧客のケアにも関係する。顧客ロイヤリティを育みリピートを促すための対応だ。</p>
-
-<p>　多くの企業では、マーケティングチームの人間は、電話対応やリードの選別は行わず、セールスサイクルにも関与しない。したがって、セールスチームとは違って、成果を測る指標は売上ではない。指標で主眼となるのは、反応を返した人の数と質だ。パイプラインの総価値もこれに含まれる（受注に至った数ではなく、案件化した数として表れる）。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500104/011500001/?ST=cio-management&P=2">マーケティングオートメーションとは</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500104/011500001/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500104/011500001/?ST=cio-management&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500104/011500001/?ST=cio-management&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500104/011500001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 22 Jan 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Firefox、今後の新機能は暗号化接続にのみ対応（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012200461/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Mozillaは現地時間2018年1月15日、ブラウザー「Firefox」に今後搭載する新機能のうち、Web通信が関係する機能について、ブラウザーとサーバーの間で全トラフィックを暗号化する「安全なコンテキスト（secure contexts）」にのみ対応することを発表した。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012200461/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Rob Schultz</div>
-</div>
-<p>
-　MozillaのエンジニアであるAnne van Kesteren氏は、公式ブログ記事の中で、「今後、Web通信が関係する新機能はすべて、安全なコンテキストに限定するものとする。これは即時施行する」と説明したうえで、対象となる機能について、「IDLで定義された既存オブジェクトの拡張、新しいCSSプロパティ、新しいHTTPレスポンスヘッダといったものから、もっと大きなWebVRのような機能に至るまで、あらゆる機能が該当する」とした。
-</p>
-<p>
-　安全なコンテキストの仕様は、Web技術の標準化団体World Wide Web Consortium（W3C）が勧告に向けた策定を進めている。仕様の中には、安全なコンテキストの趣旨について次のような記述がある。「機密データまたは私的データにアクセスするアプリケーションコードは、データの完全性を保証する認証済み通信路を使用して、秘匿伝送が行われるものとする」
-</p>
-<p>
-　つまりは、トラフィックを暗号化する必要があるということだ。ブラウザーとサーバーの間で、セキュアでないトラフィックをハッカーに傍受される中間者攻撃を防ぐためである。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012200461/?ST=cm-software&P=2">今後は、Firefoxに新たに導入される新機能のうち、ブラウザー...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012200461/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012200461/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012200461/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 22 Jan 2018 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>中国No.1スマホ「OPPO」が日本上陸、「R11s」発売へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012202991/</link>
-			<description><![CDATA[　中国OPPOの日本法人であるOPPO Japanは2018年1月22日、日本市場に参入し、SIMロックフリースマートフォン「R11s」を発売することを明らかにした。]]></description>
-			<pubDate>Mon, 22 Jan 2018 12:07:19 +0900</pubDate>
-		</item>
-		<item>
-			<title>Famiポートでシステム障害、フリマサイト出品物の発送処理できず（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012202992/</link>
-			<description><![CDATA[　ユニー・ファミリーマートホールディングス（HD）は2018年1月22日、傘下のコンビニ大手ファミリーマート店内のキオスク端末「Famiポート」の一部機能に1月21日夜からシステム障害が発生していることを明らかにした。復旧のめどは1月22日正午時点で立っていない。]]></description>
-			<pubDate>Mon, 22 Jan 2018 12:26:08 +0900</pubDate>
-		</item>
-		<item>
 			<title>NTTドコモとNTTデータ北陸がエリアメール誤送信、「政府発表」の文面で48通（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012202993/</link>
 			<description><![CDATA[　NTTドコモは2018年1月19日、「政府発表」「緊急警報」「総務省消防庁」と記載のあるエリアメールを、同日昼の約1時間に48回にわたって繰り返し誤送信していたことを明らかにした。]]></description>
@@ -316,6 +193,66 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012303001/</link>
 			<description><![CDATA[　日本テラデータは2018年1月23日、2018年の経営方針を発表した。EC（電子商取引）と自動車産業に特化した事業部門を新設し、業種ごとに専門性の高い営業体制を敷く。]]></description>
 			<pubDate>Tue, 23 Jan 2018 19:47:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>間違い多発？落とし穴の多い改正割販法対応（カード決済はこう変わる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/010400600/010400001/</link>
+			<description><![CDATA[　インターネットショッピングでの代金支払いや店舗での買い物を支えるクレジットカード。そのクレジットカードを支える仕組みが変わろうとしている。一般消費者の目線では、2020年をめどにクレジットカードを使う時の本人確認方法が従来の署名から暗証番号の入力に段階的に変わっていく見込みである。]]></description>
+			<pubDate>Wed, 24 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>障害が発生する前提で備える、クラウドのトラブル対処の考え方（基幹系もクラウドへ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/010400601/010400003/</link>
+			<description><![CDATA[　基幹系をクラウドに乗せる際に最も重要なのは障害対応だ。クラウドは必ず障害が発生するという前提で、障害からの復旧に注力しよう。]]></description>
+			<pubDate>Wed, 24 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>アップルがバッテリー問題で露呈した対話不足（米国発！ Appleニュースの読み解き方）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/082600184/011700066/</link>
+			<description><![CDATA[　米アップルは忙しい年末年始を過ごした。2017年12月2日から発生した「再起動問題」（通知バグ）に関して「iOS 11.2」を前倒して配信したほか、年末にはiOSが旧モデルのiPhoneのパフォーマンスに制限をかける機能が問題となった。]]></description>
+			<pubDate>Wed, 24 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>CPU脆弱性で性能低下、ラズパイ／LattePandaはどうなる？（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/011900996/</link>
+			<description><![CDATA[　CPUの高速化機能の間隙を突いた脆弱性「Meltdown／Spectre」で、PCメーカーやOSベンダーが緩和策を施し始めた。気になるのは人気のIoTデバイス、Raspberry Pi（ラズパイ）や中国DFRobotの「LattePanda」といったPCボード製品の動向だ。]]></description>
+			<pubDate>Wed, 24 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本が勘違いするカスタマーエクスペリエンス（NRI楠真 強いITはココが違う）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/060800143/012300115/</link>
+			<description><![CDATA[　米国の企業にとって「カスタマーエクスペリエンスを向上」はデジタル時代の重要なマーケティング戦略です。日本でも「顧客本位の営業」という話はどこでも聞かれます。でも日本の「顧客本位」はただひたすら「お客様は神様です」という話で、ペコペコするばかりです。]]></description>
+			<pubDate>Wed, 24 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>パナソニックがシリコンバレーに「工場」を新設、そこで作るもの（シリコンバレーNextレポート）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/012100151/</link>
+			<description><![CDATA[　パナソニックが2017年に、新しい「工場」を米シリコンバレーに開設したのをご存じだろうか。同社が「Panasonic β」と呼ぶ新組織は、宇宙船のような外観をした米Appleの新本社オフィスの向かいにあり、パナソニックによる「イノベーション量産化のマザー工場」と位置付けられている。]]></description>
+			<pubDate>Wed, 24 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>テストケースの記述、システム開発現場でバラバラになる理由（駄目なテストの回避策）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110200480/011800006/</link>
+			<description><![CDATA[　設計者ごとに異なるテストケースを作成していて、記載粒度が異なっていたり、テスト対象機能やテスト条件に抜け漏れがあったりする――。システム開発現場でよくある困った光景だ。]]></description>
+			<pubDate>Wed, 24 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>投資家だけが知っている2018年のVR／AR業界（シリコンバレーVR通信）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/052800216/011200015/</link>
+			<description><![CDATA[　資金や人的資源を提供して起業家を支援する投資家たち。流行や技術に敏感な彼らの動きは業界の先行きを示す指標にもなる。2015年ごろから活発になったVR/AR分野への投資から2018年の動向を読む。]]></description>
+			<pubDate>Wed, 24 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Watsonを選んだユーザー、背景に深刻なビジネス課題（IBM Watsonの真実）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011000608/011000003/</link>
+			<description><![CDATA[　この特集は米IBMの人工知能（AI）システム「Watson」の現状を様々な角度から探っている。今回はWatsonを導入したユーザーとして、フォーラムエンジニアリング、金沢工業大学、みずほ銀行の事例を取り上げる。深刻化するビジネス課題に取り組むための道具としてWatsonを選んだ。]]></description>
+			<pubDate>Wed, 24 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Webフロント開発で人気、フレームワーク「Angular」を押さえる（3分でわかるJavaScript開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/122800598/122800003/</link>
+			<description><![CDATA[　Webフロントエンドの開発で近年、最も人気が高いフレームワークといえば「Angular」だろう。Angularは当初、「AngularJS」と呼ばれており、SPAの開発に必要なあらゆる機能を詰め込んだフルスタックなフレームワークだ。]]></description>
+			<pubDate>Wed, 24 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
