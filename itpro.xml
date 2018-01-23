@@ -5,49 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>AlibabaとMicrosoftのAI、読解力テストで人間を上回る（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011900460/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　中国Alibaba Groupと米Microsoftが開発した人工知能（AI）のモデルが、米スタンフォード大学のデータセット「Stanford Question Answering Dataset（SQuAD）」を使った読解力テストで、人間を上回るスコアを出した。このテストでAIのスコアが人間を上回ったのは初めて。
-</p>
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011900460/ph.jpg" width="300" alt="" title=""></div></div>
-<p>
-　SQuADは、Wikipediaの記事500件以上を基にした一連の質問で構成されており、それらの記事の中で答えを見つけられるようになっている。Alibabaが開発したディープニューラルネットワークのモデルは、このテストの「ExactMatch（EM）」のスコアが82.440で、人間のスコア（82.304）を上回った。Microsoftの同様のモデルも、82.650というスコアを出した。
-</p>
-<p>
-　SQuADのテスト結果のランキングを見ると、Google、IBM Research、Facebook AI Research、Salesforce Research、Tencent、Samsungなど、AI研究で名をはせる大手企業の研究部門が並んでいる。その中で、AlibabaとMicrosoftは、いずれも第1位としてランクされているが、両社とも、人間を初めて超えたのは自分たちだと主張している。
-</p>
-<p>
-　ランキング表では、Microsoftのスコアの登録日は2018年1月3日、Alibabaはその2日後の1月5日となっているが、Alibabaは、これらの日付はモデルを提出した日であり、テスト結果が登録された日ではないと説明している。
-</p>
-<p>
-　Alibabaの研究部門Institute of Data Science and Technologies（iDST）で自然言語処理のチーフサイエンティストを務めるLuo Si氏は、次のような声明を出した。「読解で機械が人間を超えるという重要な節目を目撃できたことは大変な栄誉だ。自然言語処理の研究がこの1年で大きく進展したことに興奮を覚えている。近い将来、我々のモデル構築の手法をコミュニティーと共有し、またこの技術を顧客向けに提供するのが楽しみだ」
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011900460/?ST=cm-software&P=2">一方、Microsoftの研究拠点の1つであるMicrosoft...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011900460/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011900460/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/011900460/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 19 Jan 2018 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>イッツコム、契約者に月額900円のスマホ向けSIM提供（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011902984/</link>
-			<description><![CDATA[　イッツ・コミュニケーションズ（イッツコム）は2018年1月19日、同社のサービス契約者にスマホ向け音声通話対応SIMカードを提供する「イッツコム スマホ」サービスを開始する。]]></description>
-			<pubDate>Fri, 19 Jan 2018 11:55:12 +0900</pubDate>
-		</item>
-		<item>
 			<title>賞味期限が近い商品を買うとポイント付与、NTTドコモが食品ロス削減に向けた実証実験（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/011902986/</link>
 			<description><![CDATA[　NTTドコモは2018年1月19日、東京都中央区の生鮮コンビニ「miniピアゴ入船1丁目店」において、賞味期限や消費期限が近くなった商品を購入した消費者にdポイントや楽天Edyのポイントを付与する仕組み「EcoBuy」の実証実験を始めた。]]></description>
@@ -306,6 +263,52 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012202995/</link>
 			<description><![CDATA[　三菱地所、綜合警備保障（ALSOK）とPKSHA Technologyは2018年1月22日から東京都千代田区の新丸の内ビルディングで、深層学習による画像解析を活用した「新たなおもてなしサービス」の実証実験を開始し、実際のデモ画像を報道陣に公開した。]]></description>
 			<pubDate>Tue, 23 Jan 2018 10:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Facebook、企業向けSNS「Workplace」を料金変更、大型導入はコスト高に（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012300396/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Facebookは現地時間2018年1月19日、企業向けSNS「Workplace」の有償版の料金体系を変更した。ユーザー数が多い場合、従来の料金より割高になる。新規に導入する顧客に適用される。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012300396/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Facebook</div>
+</div>
+<p>
+　Workplaceは、Facebookが2016年10月に正式リリースした。英Royal Bank of Scotlandをはじめとする大企業でベータ版のトライアルを1年半にわたって続けた末のリリースだった。現在では、世界で3万以上の企業や組織が採用している。最近も、米Walmartや英Virgin Atlanticなどの大手企業が新たに導入した。Virgin Atlanticでは、7000人の社員が利用している。
+</p>
+<p>
+　Workplaceには、無料のStandard版（2017年4月開始）と有料のPremium版の2種類がある。Premium版は、管理者による統制や、サードパーティーのサービスとの連携など、大企業向けの追加的な機能を備えている。これまで、Premium版は階段状の料金体系で、大規模な導入になるほど負担が軽くなっていた。具体的には、アクティブユーザーが最初の1000人までは1人当たり月3ドル、続く9000人は1人当たり月2ドル、それ以降は1人当たり月1ドルだった。
+</p>
+<p>
+　だが今回、この料金体系が変わり、人数にかかわらず、アクティブユーザー1人当たり3ドルとなった。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012300396/?ST=cio-social&P=2">Facebookの広報担当者は次のように話してい...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012300396/?ST=cio-social&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012300396/?ST=cio-social&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012300396/?ST=cio-social&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012300396/?ST=cio-social&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 23 Jan 2018 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>NEC、数十億円投じて全結合型量子アニーリングマシン開発へ（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012302997/</link>
+			<description><![CDATA[　NECは2018年1月23日、組み合わせ最適化問題を高速に解ける新方式の量子アニーリングマシンについて、シミュレーションなどで基本動作を実証したと発表した。2018年内に半導体による基本素子（量子ビット）を作成し、2023年までに数十億円を投じて2000～3000量子ビット規模のマシンを実用化する。]]></description>
+			<pubDate>Tue, 23 Jan 2018 10:24:58 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
