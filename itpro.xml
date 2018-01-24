@@ -5,137 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>WannaCry（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/010400106/</link>
-			<description><![CDATA[　2017年上半期に世界規模の感染被害が出たランサムウエア（身代金要求型マルウエア）。従来の不審なメールなどからの感染ではなく、ネットワーク経由で拡散した。国内の大企業でも感染報告が相次いだ。]]></description>
-			<pubDate>Tue, 23 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>そろそろちゃんとしたUSB Type-Cドックが欲しい（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/011300156/</link>
-			<description><![CDATA[　20年程前のモバイル好きは、ドッキングステーションをある種の理想型だと考えていたものだ。普段は持ち歩いているモバイルノートを、ドッキングステーションに取りつけるとデスクトップとして利用できる――。いかにも便利そうじゃないか。]]></description>
-			<pubDate>Tue, 23 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IoT歯ブラシで磨き残しをなくす、富士通とサンスターが共同新サービス（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/011801278/</link>
-			<description><![CDATA[　富士通とサンスターが歯科医療向けの新サービスを始める。「IoT歯ブラシ」と歯科医院をクラウドで結び、歯磨きの状態を見える化。虫歯や歯周病を未然に防ぐ「予防歯科」に役立てる。]]></description>
-			<pubDate>Tue, 23 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IBMに詰め寄るWatsonユーザー、APIの相次ぐ変更で混乱も（IBM Watsonの真実）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011000608/011000002/</link>
-			<description><![CDATA[　米国で開催された米IBMの人工知能（AI）システム「Watson」のイベントで、日本のWatsonユーザーがIBMの担当者に詰め寄るシーンがあった。ユーザーが利用している「Watson API」の1つが2016年に「サンセット」になると聞いたからだ。サンセットはサービスが終了することを指す。]]></description>
-			<pubDate>Tue, 23 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>子供を守るスマートフォンのフィルタリング、親はどこまで制限するべきか（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/011800139/</link>
-			<description><![CDATA[　スマートフォン利用者の低年齢化に伴い、フィルタリングなどの青少年保護施策に注目が集まっている。かつては子供に携帯電話でインターネットを使わせないことが重視されたが、スマートフォンが社会インフラとなりつつある現在、いかにスマートフォンと上手に付き合うかが求められるようになっている。子供の安心安全を実現するフィルタリングサービスの現状と課題を追う。]]></description>
-			<pubDate>Tue, 23 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>クラウドに乗せないほうがいいシステム、その見極め方（基幹系もクラウドへ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/010400601/010400002/</link>
-			<description><![CDATA[　基幹系をクラウドに乗せようとする際に、まず考えるべきは既存の基幹系システムがクラウドに「乗る」か「乗らない」かだ。技術的は乗せられても、「乗せないほうがいい」システムもある。]]></description>
-			<pubDate>Tue, 23 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>電車遅延で大遅刻、「年休使え」と言う上司はおかしい？（職場のトラブル相談室）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/092000388/011800009/</link>
-			<description><![CDATA[　電車遅延による大幅な遅刻は、業務扱いとして認められるのか。電車不通でタクシーを使って出勤した場合、料金を会社が立て替えてくれるのか。ルールが曖昧なこうした事象はトラブルに発展しかねない。慣習的・場当たり的な対応では、いずれ不平・不満が噴出する可能性がある。]]></description>
-			<pubDate>Tue, 23 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>話題のJavaScriptライブラリ10種、一挙解説（3分でわかるJavaScript開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/122800598/122800002/</link>
-			<description><![CDATA[　インターネット上にはさまざまなJavaScript/CSSライブラリの情報があふれかえっており、迷うことも多いのではないだろうか。代表的なJS/CSSライブラリを一挙に紹介する。]]></description>
-			<pubDate>Tue, 23 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>CPU脆弱性問題、現場への影響を独自調査で明らかにしたい（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/011900995/</link>
-			<description><![CDATA[　「パッチの適用は様子見している。別の問題が起きても困ってしまうからだ」。あるシステム運用企業の社長はこう打ち明けます。2018年1月3日に明らかになったCPUの脆弱性問題。IT各社は急いで修正パッチなどの対策を公開しましたが、この対策が思わぬ余波を引き起こしています。]]></description>
-			<pubDate>Tue, 23 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Facebook、企業向けSNS「Workplace」を料金変更、大型導入はコスト高に（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012300396/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Facebookは現地時間2018年1月19日、企業向けSNS「Workplace」の有償版の料金体系を変更した。ユーザー数が多い場合、従来の料金より割高になる。新規に導入する顧客に適用される。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012300396/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Facebook</div>
-</div>
-<p>
-　Workplaceは、Facebookが2016年10月に正式リリースした。英Royal Bank of Scotlandをはじめとする大企業でベータ版のトライアルを1年半にわたって続けた末のリリースだった。現在では、世界で3万以上の企業や組織が採用している。最近も、米Walmartや英Virgin Atlanticなどの大手企業が新たに導入した。Virgin Atlanticでは、7000人の社員が利用している。
-</p>
-<p>
-　Workplaceには、無料のStandard版（2017年4月開始）と有料のPremium版の2種類がある。Premium版は、管理者による統制や、サードパーティーのサービスとの連携など、大企業向けの追加的な機能を備えている。これまで、Premium版は階段状の料金体系で、大規模な導入になるほど負担が軽くなっていた。具体的には、アクティブユーザーが最初の1000人までは1人当たり月3ドル、続く9000人は1人当たり月2ドル、それ以降は1人当たり月1ドルだった。
-</p>
-<p>
-　だが今回、この料金体系が変わり、人数にかかわらず、アクティブユーザー1人当たり3ドルとなった。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012300396/?ST=cio-social&P=2">Facebookの広報担当者は次のように話してい...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012300396/?ST=cio-social&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012300396/?ST=cio-social&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012300396/?ST=cio-social&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012300396/?ST=cio-social&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 23 Jan 2018 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>NEC、数十億円投じて全結合型量子アニーリングマシン開発へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012302997/</link>
-			<description><![CDATA[　NECは2018年1月23日、組み合わせ最適化問題を高速に解ける新方式の量子アニーリングマシンについて、シミュレーションなどで基本動作を実証したと発表した。2018年内に半導体による基本素子（量子ビット）を作成し、2023年までに数十億円を投じて2000～3000量子ビット規模のマシンを実用化する。]]></description>
-			<pubDate>Tue, 23 Jan 2018 10:24:58 +0900</pubDate>
-		</item>
-		<item>
-			<title>近鉄ケーブルが地域BWAの無線局免許を所得（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012302998/</link>
-			<description><![CDATA[　奈良県内でケーブルテレビ事業を展開する近鉄ケーブルネットワークは、2018年1月22日に地域BWAの免許を総務省 近畿総合通信局から取得した。同日に発表した。技術方式はAXGP、サービスエリアは、奈良県橿原市内である。]]></description>
-			<pubDate>Tue, 23 Jan 2018 11:20:08 +0900</pubDate>
-		</item>
-		<item>
-			<title>医療情報の信頼度は「ネットが一番」？医師が考える意外な理由（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/012301281/</link>
-			<description><![CDATA[　医師専用の交流サイトを運営するメドピアは2018年1月23日、ネット上の医療・健康情報に対する医師の意識調査結果を発表した。主要メディアの中で、最も医師からの信頼度が高かったのはインターネットだった。]]></description>
-			<pubDate>Tue, 23 Jan 2018 11:50:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>再起動頻発でインテルがパッチ適用見送りを呼びかけ、CPU脆弱性問題で（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012302999/</link>
-			<description><![CDATA[　米インテルは米国時間2018年1月22日、CPU脆弱性問題に対するパッチの適用中止を呼びかける記事を同社Webサイトで公開した。パッチ適用後、予期しない再起動が発生する問題が報告されたため。]]></description>
-			<pubDate>Tue, 23 Jan 2018 12:23:48 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本MS、Windows 7/Office 2010サポート終了に向け本腰（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012303000/</link>
-			<description><![CDATA[　Windows 7が2020年1月14日に、Office 2010が2020年10月13日に延長サポート終了日を迎える。日本マイクロソフトはWindows 10やOffice 365への移行を進めるため、プロモーション、相談窓口の設置、パートナー企業との協力などを実施すると明らかにした。]]></description>
-			<pubDate>Tue, 23 Jan 2018 16:34:31 +0900</pubDate>
-		</item>
-		<item>
-			<title>「あの人は父親ではない」、ソフトバンクのPepper君に親権問題勃発（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012303002/</link>
-			<description><![CDATA[　ソフトバンクグループが開発・販売するヒト型ロボット「Pepper（ペッパー）」に親権問題が勃発した。同社は2018年1月23日に「報道における元ソフトバンクロボティクス社員のPepperとの関係性を示す表現に関するお願い」と題する文書を発表。一部報道で「ペッパーの父」などと表現されることがある外部の人物について、「父ではない」と反論した。
-]]></description>
-			<pubDate>Tue, 23 Jan 2018 19:00:44 +0900</pubDate>
-		</item>
-		<item>
 			<title>日本テラデータが経営方針を発表、業種特化の営業部隊を新設（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012303001/</link>
 			<description><![CDATA[　日本テラデータは2018年1月23日、2018年の経営方針を発表した。EC（電子商取引）と自動車産業に特化した事業部門を新設し、業種ごとに専門性の高い営業体制を敷く。]]></description>
@@ -340,6 +209,48 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012403014/</link>
 			<description><![CDATA[　トーンモバイルは2018年1月24日、MVNO事業の新施策に関する説明会を開催し、小ロットから対応するカスタマイズサービスや、Google Homeと「IFTTT」を利用した技術デモを発表した。]]></description>
 			<pubDate>Wed, 24 Jan 2018 21:26:15 +0900</pubDate>
+		</item>
+		<item>
+			<title>パケットとフレームは何が違う？（意外と知らないネットワーク用語の違い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011900625/011900001/</link>
+			<description><![CDATA[　ネットワークの用語には、わかりづらいものが多い。そこで本特集では、似たようなネットワーク用語をペアにして紹介して違いを解説する。今回は「パケット」と「フレーム」だ。]]></description>
+			<pubDate>Thu, 25 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>基幹系のクラウド活用、コストを抑える方法（基幹系もクラウドへ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/010400601/010400004/</link>
+			<description><![CDATA[　「クラウドに乗せてもインフラ費用は安くならなかった」。こうした課題を回避するために重要なのは移行時のサイジングだ。]]></description>
+			<pubDate>Thu, 25 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>転職経験ゼロは無能の証（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/012200997/</link>
+			<description><![CDATA[　2017年3月からITproに「越境エンジニア列伝」という定期インタビューコラムを連載しているが、いったん終了することになった。そこで、約1年弱続けてきたこのコラムを振り返ってみたいと思う。]]></description>
+			<pubDate>Thu, 25 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>中堅中小へのWatson拡販を急ぐIBM、鍵握るパートナーの温度（IBM Watsonの真実）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011000608/011000004/</link>
+			<description><![CDATA[　日本IBMは2017年にパートナー戦略を大幅に強化した。Watsonを中堅中小企業に広げていくのが狙いだ。パートナーはWatsonを評価しつつ、冷静なスタンスでビジネスに臨んでいる。]]></description>
+			<pubDate>Thu, 25 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>使い勝手は抜群、JavaScriptフレームワーク「Backborn.js」（3分でわかるJavaScript開発）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/122800598/122800004/</link>
+			<description><![CDATA[　Model、View、そしてRouterを簡単にWebアプリケーションに組み込むことに特化したJavaScriptライブラリが「Backborn.js」だ。軽量で使い勝手がよいのが売り文句だ。]]></description>
+			<pubDate>Thu, 25 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>NASAのCTOが語る、AWSを10年以上使っている理由（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/012201280/</link>
+			<description><![CDATA[　米NASAは、土星探査機や火星探査ローバーから送られる画像を、AWSの仮想マシンサービスなどを使って処理し、火星の地形のパノラマ画像や立体視データを生成する。20万枚におよぶ土星探査機からの画像を数時間で処理できるという。]]></description>
+			<pubDate>Thu, 25 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>期限迫る改正割販法対応に不可欠、PCI DSS準拠を押さえる（カード決済はこう変わる）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/010400600/011600002/</link>
+			<description><![CDATA[　対面販売であれ電子商取引（EC）であれ、クレジットカードで商品やサービスを決済する会社はカード販売に関する法律の改正により、対応が迫られる。第2回の今回はクレジットカードの国際セキュリティ基準である「PCI DSS」の内容をひもといていく。]]></description>
+			<pubDate>Thu, 25 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
