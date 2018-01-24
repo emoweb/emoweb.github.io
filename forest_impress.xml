@@ -5,20 +5,6 @@
 		<link>https://forest.watch.impress.co.jp</link>
 		<description>Windows用オンラインソフトの専門サイト。 関連ニュースも提供。</description>
 		<item>
-			<title>Talosが指摘した「Blender」の脆弱性は修正へ ～修正を拒否したとの表現には反論も／今月中にもリリースされる見込みの「Blender」v2.79aで修正</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/369144993ef6fc09ee962911eda22b27?ul=tMQVyhfhbpKCR5h8hZ9ofFZZUxfoXlZG71VZkw4Qw1jMnqGqg_r_hlBD.b6QxeVqz2rOVovtQ6X3rFwvnGpQPq5I4wuf</link>
-			<description><![CDATA[<p>　米Ciscoのセキュリティ部門Talosによって「Blender」に未修正の脆弱性が存在することを指摘された件に関して、オランダのBlender Foundationは18日（現地時間）、修正を進めていることを明らかにした。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/369144993ef6fc09ee962911eda22b27"/></p>]]></description>
-			<pubDate>Fri, 19 Jan 2018 17:15:10 +0900</pubDate>
-		</item>
-		<item>
-			<title>『天才たちの日課』が59％OFF！ Kindleストアでエッセイや随筆の半額セール／『働く君に伝えたい「お金」の教養　人生を変える５つの特別講義』は702円【Book Watch/セール情報】</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/987868a0669e2170b291444e1efc30cf?ul=mZR50YCnjRYzZ37tFP4Y3X1dXkRKrQar7rNPrydezHzEAm9T5V_ofII8D44Xw7VnmSISMqaLIUtE4lxk01nq.YqosPAV7saUT_PZSvCoYXAtujfm9</link>
-			<description><![CDATA[<p>
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/987868a0669e2170b291444e1efc30cf"/></p>]]></description>
-			<pubDate>Fri, 19 Jan 2018 18:21:45 +0900</pubDate>
-		</item>
-		<item>
 			<title>チュートリアルビデオの作成に最適なデスクトップ動画キャプチャーソフト「WinCam」／スクリーンショットツール「WinSnap」の兄弟アプリ。シームレスな使い勝手を継承【レビュー】</title>
 			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/bd01104cf59b4f96d14b6aeaef79c696?ul=A8IMOC9Sq9T6tcuRAAfKW.iXXbdgku4fJ0XsxjymQi73sUbCmg5pkgAI7IXa1_rWbz8l9PDkV5sUSWb6bUE8VW.yCy5j</link>
 			<description><![CDATA[<p>　「WinCam」は、簡易編集機能を備えたデスクトップの動画キャプチャーツール。64bit版を含むWindows 8/10に対応する価格29.95米ドルのシェアウェアで、開発元のWebサイトからダウンロード可能。試用期間中はキャプチャーしたビデオの左上にライセンスの購入を促すラベルが挿入される。
@@ -122,6 +108,20 @@
 			<description><![CDATA[<p>株式会社ワコムは、1月23日、AndroidとiOS双方に対応する極細スタイラスペン「Bamboo Tip」を発売すると発表した。ワコムストアでの価格は6,280円（税抜）。1月26日（金）より ワコムストア および一部家電量販店にて販売を開始する。
 <img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/63e127f0eb98f628344375af5fcd4dde"/></p>]]></description>
 			<pubDate>Wed, 24 Jan 2018 07:20:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Mozilla、「Firefox 58」を正式公開 ～OMTPとJSBCの導入でパフォーマンス向上を図る／スクリーンショットツールにはクリップボードへコピーする機能を追加。脆弱性の修正も</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/739ba9f844308306c81f3746b8deeac6?ul=mwr4Z.p_EguqQcwOxQocfeEzx76yvFjEBd06bmisLCfZLWv1GaTCV9XoI9IfGlJ1eYTSSzbGldqiByWF._N_Fma4.lNZ</link>
+			<description><![CDATA[<p>　Mozillaは23日（米国時間）、「Firefox 58」を正式公開した。今回のアップデートは、パフォーマンスの改善がメイン。Windows版で“Off-Main-Thread Painting”と呼ばれるレンダリングの高速化技術が導入されたほか、新しいJavaScriptのキャッシュ手法“Startup Bytecode Cache”の採用によりページの読み込み時間がさらに短縮されているという。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/739ba9f844308306c81f3746b8deeac6"/></p>]]></description>
+			<pubDate>Wed, 24 Jan 2018 08:52:01 +0900</pubDate>
+		</item>
+		<item>
+			<title>Apple、「macOS High Sierra 10.13.3」を公開 ～旧版OSにも“Meltdown”緩和策を提供／「macOS High Sierra」ではCVE番号ベースで16件が修正される</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/7622c25c63ce3d50fd58de2297515401?ul=LtO165AyCS_QvWOkt5VQPMq6mad4rJ7xKC.ayFtABCUuDmjNR9b2BzMm2kACwXuNirbbz_NmsMLSS1dDT3VThMzWTPi7</link>
+			<description><![CDATA[<p>　米Apple Inc.は23日（現地時間）、「macOS High Sierra 10.13.3」を公開した。「メッセージ」アプリで会話の順序が一時的に乱れる問題が修正されたほか、複数の脆弱性が修正されている。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/7622c25c63ce3d50fd58de2297515401"/></p>]]></description>
+			<pubDate>Wed, 24 Jan 2018 09:05:27 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
