@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>インフラをコーディングして労働環境を改善、IaC活用研究会が発足（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012202994/</link>
-			<description><![CDATA[　TISは2018年1月22日、「Infrastructure as Code（IaC）」の推進団体「IaC活用研究会」の設立を発表した。IaCはプログラミングによってインフラ管理を効率化する手法だ。]]></description>
-			<pubDate>Mon, 22 Jan 2018 16:17:05 +0900</pubDate>
-		</item>
-		<item>
 			<title>NTTデータ、社内システムが「WannaCry 2.0」亜種に感染するも駆除完了と公表（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012202996/</link>
 			<description><![CDATA[　NTTデータは2018年1月22日、社内システムが1月5日にランサムウエアに感染したものの、22日までにランサムウエアの完全駆除を完了したと公表した。感染したランサムウエアは「WannaCry 2.0」の亜種。]]></description>
@@ -280,6 +274,41 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 24 Jan 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Intel、Spectreに対処する現行パッチのインストール中止を呼びかけ（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012400462/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Intelは現地時間2018年1月22日、深刻なCPU脆弱性「Spectre」に対処するパッチとして1月初めにリリースしたファームウエアアップデートについて、インストールを中止するようユーザーらに呼びかけた。これは、一部のシステムで再起動の増加や性能低下などの重大な問題を招いていることを受けての発表で、更新版のパッチのリリースを待つよう促している。現行のファームウエアアップデートの問題は、2017年発売のCPUを搭載したパソコンにも及んでいる。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012400462/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Google/Natascha Eibl</div>
+</div>
+<p>
+　IntelのNavin Shenoyエグゼクティブバイスプレジデントは、同社サイトにこの日掲載した文章の中で、再起動の問題について、「『Broadwell』と『Haswell』の両プラットフォームに関して、根本原因を特定し、解決策の展開に向けて着実に進んでいる」と説明し、「現行アップデートは、想定を超える頻度の再起動や、その他の予期せぬ動作が発生するおそれがあることから、OEM、クラウドサービス事業者、システム製造業者、ソフトウエアベンダー、エンドユーザーに対し、導入を中止するようお勧めする」とした。
+</p>
+<p>
+　これまでIntelは、再起動が増加するリスクにかかわらずアップデートをインストールするよう勧めていたが、この日の発表でその姿勢を翻した。Shenoy氏が名前を挙げたのはBroadwellとHaswellだけだが、同社の「<a href="https://newsroom.intel.com/wp-content/uploads/sites/11/2018/01/microcode-update-guidance.pdf" target="_blank">Microcode Revision Guidance</a>」によると、この問題はもっと新しい世代のCPUにも該当する。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012400462/?ST=cm-hardware&P=2">Intelは、2013年発売のHaswellと2014年発売のB...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012400462/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012400462/?ST=cm-hardware&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012400462/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 24 Jan 2018 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
