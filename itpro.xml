@@ -5,10 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>日本テラデータが経営方針を発表、業種特化の営業部隊を新設（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012303001/</link>
-			<description><![CDATA[　日本テラデータは2018年1月23日、2018年の経営方針を発表した。EC（電子商取引）と自動車産業に特化した事業部門を新設し、業種ごとに専門性の高い営業体制を敷く。]]></description>
-			<pubDate>Tue, 23 Jan 2018 19:47:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：そろそろちゃんとしたUSB Type-Cドックが欲しい（戸田覚のIT辛口研究所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/011300156/?d25</link>
+			<description><![CDATA[　20年程前のモバイル好きは、ドッキングステーションをある種の理想型だと考えていたものだ。普段は持ち歩いているモバイルノートを、ドッキングステーションに取りつけるとデスクトップとして利用できる――。いかにも便利そうじゃないか。]]></description>
+			<pubDate>Tue, 23 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>間違い多発？落とし穴の多い改正割販法対応（カード決済はこう変わる）</title>
@@ -251,6 +251,41 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/010400600/011600002/</link>
 			<description><![CDATA[　対面販売であれ電子商取引（EC）であれ、クレジットカードで商品やサービスを決済する会社はカード販売に関する法律の改正により、対応が迫られる。第2回の今回はクレジットカードの国際セキュリティ基準である「PCI DSS」の内容をひもといていく。]]></description>
 			<pubDate>Thu, 25 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>サーバーレスはクラウドコンピューティングの未来か（後）（サーバーレスはクラウドコンピューティングの未来か）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　クラウドは多くの企業に恵みをもたらした。各社の最高情報責任者（CIO）は、自前のサーバーを減らしたり、場合によっては自前のデータセンターを閉じたりという選択ができるようになった。代わりに、急成長するクラウド市場のさまざまなベンダーから、コンピューティングの処理能力、ストレージ、各種ツールを借りて使用する。だが、一部のCIOは、もっと効率的に処理能力を借りる方法に期待を寄せている。クラウドアーキテクチャの設計や管理は重荷となることが多い。こうした重荷を回避しようとCIOが採用しつつあるのが「サーバーレス」だ。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500001/" target="_blank">前回</a>から続く）</p>
+
+<h4>サーバーレスのポテンシャル</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　こうしてRockwell氏は、サーバーレスへの関心を高めつつある。サーバーレスになれば、アイドル状態のインスタンスという問題は意味を持たない。事前に定義したイベントが発生した時に、関数を実行するように作成したコードが起動し、サーバーレスプラットフォームが処理をこなす。ユーザー企業は、関数の実行回数を事前にクラウドベンダーに申告しておく必要はない。関数が実行されるたびに料金が発生するが、その額は1回の実行につき1セントにも満たない。</p>
+
+<p>　これまでのクラウドで、アイドル状態のインスタンスによって無駄が生じていたことを踏まえると、サーバーレスでは5～10倍の効率性向上が得られる可能性があるとRockwell氏は言う。「健全な競争的原動力があるとすれば、こうした削減額の多くはユーザーに還元されるはずだ」と同氏は話す。</p>
+
+<p>　サーバーレスがコンピューティングの次なる大波になるかどうかはまだ分からない。米Gartnerの見立てでは、サーバーレスの導入の90％以上は、IT部門のインフラチームや運用チームの管轄外の部分で生じる。ベンダー側は、New York Timesのような企業が表明している関心を生かしたいと考えている。同社のほか、米General Electric（GE）のChris Drumgoole CTOも、サーバーレスのモデルに強い関心を示している。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500002/?ST=cm-software&P=2">AWSが同社初の商用サーバーレスプラットフォームとして「AWSL...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500002/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500002/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 25 Jan 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
