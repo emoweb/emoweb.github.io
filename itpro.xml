@@ -59,41 +59,6 @@
 			<pubDate>Tue, 23 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>サーバーレスはクラウドコンピューティングの未来か（前）（サーバーレスはクラウドコンピューティングの未来か）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　クラウドは多くの企業に恵みをもたらした。各社の最高情報責任者（CIO）は、自前のサーバーを減らしたり、場合によっては自前のデータセンターを閉じたりという選択ができるようになった。代わりに、急成長するクラウド市場のさまざまなベンダーから、コンピューティングの処理能力、ストレージ、各種ツールを借りて使用する。だが、一部のCIOは、もっと効率的に処理能力を借りる方法に期待を寄せている。クラウドアーキテクチャの設計や管理は重荷となることが多い。こうした重荷を回避しようとCIOが採用しつつあるのが「サーバーレス」だ。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　通常のクラウドコンピューティングの場合、リソースを割り当てて稼働したインスタンスは、アプリケーションや機能に対する要求があった時だけ処理を行い、それ以外はアイドル状態で待機している。一方、サーバーレスコンピューティングは、特定のイベントが発生した時だけリソースがプロビジョニングされる。イベント駆動型コンピューティングの典型例がIoTだ。センサーを搭載したデバイスは、トリガーにその場で反応する。そして、ユーザーがスマートフォンでモバイルアプリにアクセスすると（これがイベント）、クラウド上の仮想マシンがその情報を取得して提供する。</p>
-
-<p>　サーバーレスは「FaaS（Function as a Service）」とも呼ばれる。開発者はコードの開発にのみ意識を向けることができ、そのコードが稼働するサーバーについて心配する必要がない。米New York TimesのNick Rockwell最高技術責任者（CTO）は、クラウドが前進していく中で、次の一区間を担う走者はサーバーレスになると確信している。「サーバーレスでは、プロダクトの信頼性と拡張性の両方を実現できる。経済面で長期的に見ると、はるかに優位で、はるかに低コストで、はるかに効率的な方法になる」とRockwell氏は話す。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500001/?ST=cm-software&P=2">クラウドへの移行をへてサーバーレスへ</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500001/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500001/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 23 Jan 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIで困っている人を見つける、新丸の内ビルで実証実験開始（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012202995/</link>
-			<description><![CDATA[　三菱地所、綜合警備保障（ALSOK）とPKSHA Technologyは2018年1月22日から東京都千代田区の新丸の内ビルディングで、深層学習による画像解析を活用した「新たなおもてなしサービス」の実証実験を開始し、実際のデモ画像を報道陣に公開した。]]></description>
-			<pubDate>Tue, 23 Jan 2018 10:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Facebook、企業向けSNS「Workplace」を料金変更、大型導入はコスト高に（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012300396/</link>
 			<description><![CDATA[<div>
@@ -363,6 +328,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012403011/</link>
 			<description><![CDATA[　日本航空（JAL）は2018年1月24日、同年4月1日付で赤坂祐二常務執行役員が社長に昇任すると発表した。植木義晴現社長は代表権のある会長となる。赤坂氏は今後の経営におけるITの重要性について触れ「ITやロボットをこれからどんどん活用していきたい」と語った。]]></description>
 			<pubDate>Wed, 24 Jan 2018 19:36:38 +0900</pubDate>
+		</item>
+		<item>
+			<title>セールスフォース、業務アプリ開発ベンチャーへの支援プログラム強化（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012403013/</link>
+			<description><![CDATA[　セールスフォース・ドットコムは2018年1月24日、自社の営業支援（SFA）クラウドサービス「Salesforce」などとの連携ソフトを開発するベンチャー企業に対する支援プログラムを強化すると発表した。ベンチャー支援により自社サービスの利便性を高め、日本国内におけるSalesforce関連のエコシステム（経済圏）強化を図る。]]></description>
+			<pubDate>Wed, 24 Jan 2018 20:40:43 +0900</pubDate>
+		</item>
+		<item>
+			<title>最小50台からスマホのカスタマイズ、トーンモバイルが「TONE Factory」発表（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012403014/</link>
+			<description><![CDATA[　トーンモバイルは2018年1月24日、MVNO事業の新施策に関する説明会を開催し、小ロットから対応するカスタマイズサービスや、Google Homeと「IFTTT」を利用した技術デモを発表した。]]></description>
+			<pubDate>Wed, 24 Jan 2018 21:26:15 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
