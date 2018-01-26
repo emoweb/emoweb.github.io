@@ -5,83 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>パケットとフレームは何が違う？（意外と知らないネットワーク用語の違い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011900625/011900001/</link>
-			<description><![CDATA[　ネットワークの用語には、わかりづらいものが多い。そこで本特集では、似たようなネットワーク用語をペアにして紹介して違いを解説する。今回は「パケット」と「フレーム」だ。]]></description>
-			<pubDate>Thu, 25 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>基幹系のクラウド活用、コストを抑える方法（基幹系もクラウドへ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/010400601/010400004/</link>
-			<description><![CDATA[　「クラウドに乗せてもインフラ費用は安くならなかった」。こうした課題を回避するために重要なのは移行時のサイジングだ。]]></description>
-			<pubDate>Thu, 25 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>転職経験ゼロは無能の証（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/012200997/</link>
-			<description><![CDATA[　2017年3月からITproに「越境エンジニア列伝」という定期インタビューコラムを連載しているが、いったん終了することになった。そこで、約1年弱続けてきたこのコラムを振り返ってみたいと思う。]]></description>
-			<pubDate>Thu, 25 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>中堅中小へのWatson拡販を急ぐIBM、鍵握るパートナーの温度（IBM Watsonの真実）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011000608/011000004/</link>
-			<description><![CDATA[　日本IBMは2017年にパートナー戦略を大幅に強化した。Watsonを中堅中小企業に広げていくのが狙いだ。パートナーはWatsonを評価しつつ、冷静なスタンスでビジネスに臨んでいる。]]></description>
-			<pubDate>Thu, 25 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>使い勝手は抜群、JavaScriptフレームワーク「Backborn.js」（3分でわかるJavaScript開発）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/122800598/122800004/</link>
-			<description><![CDATA[　Model、View、そしてRouterを簡単にWebアプリケーションに組み込むことに特化したJavaScriptライブラリが「Backborn.js」だ。軽量で使い勝手がよいのが売り文句だ。]]></description>
-			<pubDate>Thu, 25 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>NASAのCTOが語る、AWSを10年以上使っている理由（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/012201280/</link>
-			<description><![CDATA[　米NASAは、土星探査機や火星探査ローバーから送られる画像を、AWSの仮想マシンサービスなどを使って処理し、火星の地形のパノラマ画像や立体視データを生成する。20万枚におよぶ土星探査機からの画像を数時間で処理できるという。]]></description>
-			<pubDate>Thu, 25 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>期限迫る改正割販法対応に不可欠、PCI DSS準拠を押さえる（カード決済はこう変わる）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/010400600/011600002/</link>
-			<description><![CDATA[　対面販売であれ電子商取引（EC）であれ、クレジットカードで商品やサービスを決済する会社はカード販売に関する法律の改正により、対応が迫られる。第2回の今回はクレジットカードの国際セキュリティ基準である「PCI DSS」の内容をひもといていく。]]></description>
-			<pubDate>Thu, 25 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>サーバーレスはクラウドコンピューティングの未来か（後）（サーバーレスはクラウドコンピューティングの未来か）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　クラウドは多くの企業に恵みをもたらした。各社の最高情報責任者（CIO）は、自前のサーバーを減らしたり、場合によっては自前のデータセンターを閉じたりという選択ができるようになった。代わりに、急成長するクラウド市場のさまざまなベンダーから、コンピューティングの処理能力、ストレージ、各種ツールを借りて使用する。だが、一部のCIOは、もっと効率的に処理能力を借りる方法に期待を寄せている。クラウドアーキテクチャの設計や管理は重荷となることが多い。こうした重荷を回避しようとCIOが採用しつつあるのが「サーバーレス」だ。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500001/" target="_blank">前回</a>から続く）</p>
-
-<h4>サーバーレスのポテンシャル</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　こうしてRockwell氏は、サーバーレスへの関心を高めつつある。サーバーレスになれば、アイドル状態のインスタンスという問題は意味を持たない。事前に定義したイベントが発生した時に、関数を実行するように作成したコードが起動し、サーバーレスプラットフォームが処理をこなす。ユーザー企業は、関数の実行回数を事前にクラウドベンダーに申告しておく必要はない。関数が実行されるたびに料金が発生するが、その額は1回の実行につき1セントにも満たない。</p>
-
-<p>　これまでのクラウドで、アイドル状態のインスタンスによって無駄が生じていたことを踏まえると、サーバーレスでは5～10倍の効率性向上が得られる可能性があるとRockwell氏は言う。「健全な競争的原動力があるとすれば、こうした削減額の多くはユーザーに還元されるはずだ」と同氏は話す。</p>
-
-<p>　サーバーレスがコンピューティングの次なる大波になるかどうかはまだ分からない。米Gartnerの見立てでは、サーバーレスの導入の90％以上は、IT部門のインフラチームや運用チームの管轄外の部分で生じる。ベンダー側は、New York Timesのような企業が表明している関心を生かしたいと考えている。同社のほか、米General Electric（GE）のChris Drumgoole CTOも、サーバーレスのモデルに強い関心を示している。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500002/?ST=cm-software&P=2">AWSが同社初の商用サーバーレスプラットフォームとして「AWSL...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500002/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500002/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/011500105/011500002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 25 Jan 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>中間管理職も人工知能に仕事を奪われる？（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012500397/</link>
 			<description><![CDATA[<div>
@@ -351,6 +274,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012603028/</link>
 			<description><![CDATA[　日商エレクトロニクスと日本ヒューレット・パッカードは2018年1月25日、ハイブリッドITやクラウドコンピューティング、IoTなどのコンサルティングから実装、運用サービスまでを提供する「トータルITサービス」を発表した。ハイブリッドクラウド導入のアセスメントサービスやIoTビジネス基盤の設計・構築、包括的な技術サポートなど6種類のITサービスをラインアップ。初年度に50社への提供を見込む。]]></description>
 			<pubDate>Fri, 26 Jan 2018 11:43:14 +0900</pubDate>
+		</item>
+		<item>
+			<title>富士通、携帯事業の国内ファンドへの売却を検討（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012603030/</link>
+			<description><![CDATA[　富士通が国内投資ファンドのポラリス・キャピタル・グループに同社の携帯電話子会社である富士通コネクテッドテクノロジーズの株式譲渡を検討していると、2018年1月26日に報道があった。報道に対して富士通の広報は、「ポラリス・キャピタル・グループとの交渉は事実。結果は適宜開示する」としている。]]></description>
+			<pubDate>Fri, 26 Jan 2018 12:51:07 +0900</pubDate>
+		</item>
+		<item>
+			<title>GMOペパボで不正アクセス、最大7万7385件の個人情報流出（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/012603031/</link>
+			<description><![CDATA[　GMOペパボは2018年1月26日、第三者による不正アクセスを受け、個人情報の流出が発生したと発表した。情報流出を確認したのは、ネットショップ運営サービス「カラーミーショップ」を利用中または利用したことがあるショップオーナーの住所や氏名など最大7万7385件。]]></description>
+			<pubDate>Fri, 26 Jan 2018 13:00:33 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
