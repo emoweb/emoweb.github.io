@@ -297,5 +297,42 @@
 ]]></description>
 			<pubDate>Fri, 26 Jan 2018 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>Eclipseのもとで進行するエンタープライズJava、今後のロードマップは（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012600463/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　業務アプリケーション向けJavaフレームワーク「Java Platform, Enterprise Edition（Java EE）」は、昨年、米Oracleが開発主体の座から降りることを表明し、「Eclipse Enterprise for Java（EE4J）」のプロジェクト名でオープンソース団体Eclipse Foundationに主管が移った。同団体は現在、Java EEのさまざまな機能や技術を移管していくための準備を進めている。
+</p>
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012600463/ph.jpg" width="300" alt="" title=""></div></div>
+<p>
+　Eclipse Foundationは、移管後のエンタープライズJavaに、35～40件程度の新規プロジェクトを取り入れることを見込んでいる。
+</p>
+<p>
+　同団体はEE4Jに関して、Java EE 8に準拠したリリースにできるだけ早く到達することを目指している。これには、アプリケーションサーバー「GlassFish」や関連プロジェクトも含まれる。GlassFishはエンタープライズJavaの参照実装の役割を果たしてきた。Java EE 8は、今後Eclipseが開発していく新たなエンタープライズJava標準の基準線と位置づけられている。
+</p>
+<p>
+　Eclipse Foundationは2017年11月、Java EEからEE4Jにコードを移管する第一弾として、9件のプロジェクトを提案した。そして現在は、さらに他のプロジェクトを移管する準備を進めている。Oracleからは、JavaオブジェクトとJSONメッセージを相互変換するための標準APIである「JSON-B」と、メッセージング／メールアプリケーションを開発するための「JavaMail」が提供される見込みだ。
+</p>
+<p>
+　またEclipse Foundationは、エンタープライズJavaでクラウド環境やマイクロサービスへのサポートを拡大していくことも想定している。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012600463/?ST=cm-software&P=2">このほか、EclipseFoundationへの移管が見込まれる...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012600463/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012600463/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/012600463/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 26 Jan 2018 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
