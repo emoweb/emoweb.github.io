@@ -5,20 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ソニー、トイプラットフォーム toio を再延期。発売日は「後日ご案内」へ
-</title>
-			<link>http://japanese.engadget.com/2018/01/25/toio/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/a5ce5a7cbbc853c939563341c24a7fb9/205329015/toiokit.jpg" />
-
-ソニーがトイ・プラットフォーム『toio』の発売日を再変更しました。発売日は従来の2018年1月から、「後日ご案内」へ。
-
-toio は当初2017年12月1日発売予定だったところ、11月になってから2018年1月に延期していたため、今回の発売日変更は実質的に再延期となります。
-
-理由は「より安定した生産を効率的に行う施策を検討するため」。
- ]]></description>
-			<pubDate>Thu, 25 Jan 2018 02:40:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    ターゲットは10代──スマホで参加するTV番組『トモテレ』地上波・ネットで2月10日16時〜放送
 </title>
 			<link>http://japanese.engadget.com/2018/01/25/10-tv-2-10-16/</link>
@@ -491,6 +477,17 @@ S氏は今回、警察に被害届を提出し、A社にも問い合わせフォ
 
  ]]></description>
 			<pubDate>Fri, 26 Jan 2018 21:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Twitterが画像のトリミングにニューラルネットワークを使用。「目の行きやすさ」を基準に残念な写真もお色直し
+</title>
+			<link>http://japanese.engadget.com/2018/01/27/twitter/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/629ed9101b0a2bce4463c562c4de6e94/206069477/Trimming.png" />
+Twitter社が投稿された画像を自動的にトリミング（不要な部分を取り除いて表示範囲やサイズを調整すること）するニューラルネットワークと、その動作の仕組みを公開しています。
+
+膨大な数の画像を、いかに実用的な速さでトリミング処理するか。その課題をクリアするニューラルネットワークの概要と、開発の試行錯誤が解説されています。
+ ]]></description>
+			<pubDate>Sat, 27 Jan 2018 03:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
