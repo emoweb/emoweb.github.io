@@ -285,5 +285,33 @@
 			<description><![CDATA[　SIerをはじめとする人月商売のITベンダーも、ようやく事の重大さに気付いたようだ。何の事かと言うと「デジタルをやらないと明日は無い」である。デジタルに取り組んでいないと、基幹系システム刷新など重要顧客の大型案件を失うといった、SIerにとって恐るべき事態が現実のものになりつつある。]]></description>
 			<pubDate>Mon, 29 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>DevSecOpsの重要性と課題（上）（DevSecOpsの重要性と課題）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　DevSecOpsのシンプルな前提は、ソフトウエア開発ライフサイクルに携わる全員がセキュリティに責任を負うということだ。本質的に、開発（Dev：development）および運用（Ops：operations）の職務と、セキュリティ（Sec：security）の職務とを統合する。DevSecOpsは、開発プロセスのすべての部分にセキュリティを取り入れることを目指す。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　ワークフローの最後の段階でセキュリティを付け加えるのではなく、セキュリティの統制とプロセスを、DevOpsのワークフローの早い段階から取り入れることによって、セキュリティの中心的なタスクを自動化するのがポイントだ。例えば、マイクロサービスに移行する時や、CI/CD（継続的インテグレーション／継続的デリバリー）のパイプラインを強化する時、コンプライアンス自動化、クラウドインフラをテストする時などに該当し得る。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200001/?ST=cm-software&P=2">DevSecOpsの重要性</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200001/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200001/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200001/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 29 Jan 2018 06:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
