@@ -313,5 +313,40 @@
 ]]></description>
 			<pubDate>Mon, 29 Jan 2018 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>SNSでスパムに引っかかるのはどんな人？Facebookが大規模調査（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012900398/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　ソーシャルメディア上で、どのような人がどのような理由でスパムをクリックしているのかを探る大規模な調査を、米Facebookの研究者らのチームが実施した。スパムのクリックに関する調査としては最大級の規模だという。
+</p>
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012900398/ph.jpg" width="300" alt="" title=""></div></div>
+<p>
+　Facebookでは、ユーザーのニュースフィードにスパムが表示されないよう、機械学習分類器を使ってスパムを自動検出する動的な仕組みを取り入れている。しかし中には、「検出をすり抜けてユーザーを魅惑するスパムコンテンツもある」と研究チームは認めている。例えば、薬やゲームを入手できるとうたう偽サイトのリンクを記載したスパムを目にすることがある。
+</p>
+<p>
+　今回の調査は、FacebookのNeha Chachra氏とBrian Waismeyer氏が、米メリーランド大学のElissa Redmiles氏と共同で実施した。Facebookユーザー60万人のログデータを非識別化して集約したデータを分析し、URLが記載されたスパムをクリックする人に共通するパターンを探った。調査結果をまとめた論文「Examining the Demand for Spam: Who Clicks?」は、4月にカナダで開催されるカンファレンス「Conference on Human Factors in Computing Systems」で発表される。
+</p>
+<p>
+　今回の調査で分かったことはいくつかある。1つ目は、Facebookを活発に利用しているユーザーほど、スパムのクリックが少ないということだ。これは意外なことではないかもしれない。ただし、利用の活発さと利用スキルとの因果関係は弱かった。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012900398/?ST=cio-social&P=2">「活発さのレベルは、Facebookの利用スキル...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012900398/?ST=cio-social&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012900398/?ST=cio-social&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012900398/?ST=cio-social&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 29 Jan 2018 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
