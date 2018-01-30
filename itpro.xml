@@ -53,34 +53,6 @@
 			<pubDate>Mon, 29 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>DevSecOpsの重要性と課題（上）（DevSecOpsの重要性と課題）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　DevSecOpsのシンプルな前提は、ソフトウエア開発ライフサイクルに携わる全員がセキュリティに責任を負うということだ。本質的に、開発（Dev：development）および運用（Ops：operations）の職務と、セキュリティ（Sec：security）の職務とを統合する。DevSecOpsは、開発プロセスのすべての部分にセキュリティを取り入れることを目指す。</p>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200001/ph1.jpg" width="300" alt="" title=""></div></div>
-
-<p>　ワークフローの最後の段階でセキュリティを付け加えるのではなく、セキュリティの統制とプロセスを、DevOpsのワークフローの早い段階から取り入れることによって、セキュリティの中心的なタスクを自動化するのがポイントだ。例えば、マイクロサービスに移行する時や、CI/CD（継続的インテグレーション／継続的デリバリー）のパイプラインを強化する時、コンプライアンス自動化、クラウドインフラをテストする時などに該当し得る。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200001/?ST=cm-software&P=2">DevSecOpsの重要性</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200001/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200001/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200001/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 29 Jan 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>SNSでスパムに引っかかるのはどんな人？Facebookが大規模調査（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/012900398/</link>
 			<description><![CDATA[<div>
@@ -348,6 +320,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/013003056/</link>
 			<description><![CDATA[　将棋のプロ棋士で、「王座」のタイトル保持者である中村太地氏は2018年1月30日、「AIとの対戦で見えた、将棋の新しい地平」と題した講演を行った。同講演で中村王座は、人工知能（AI）を搭載した将棋ソフトの活用が進むプロ将棋界の現況を踏まえ、AI時代に求められる3つの素養を提示した。]]></description>
 			<pubDate>Tue, 30 Jan 2018 20:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>リクルートライフスタイル、店員のシフト管理ができる「AirSHIFT」など新サービス（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/013003057/</link>
+			<description><![CDATA[　リクルートライフスタイルは2018年1月30日、スマートフォンやタブレットをPOS（販売時点情報管理）端末として使えるようにするアプリ「Airレジ」に続き、新たに3つのサービスを提供すると発表した。]]></description>
+			<pubDate>Tue, 30 Jan 2018 21:11:12 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
