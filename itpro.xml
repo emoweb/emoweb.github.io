@@ -5,108 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>LPWA（Close Up Keyword）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/010400107/</link>
-			<description><![CDATA[　Low Power Wide Areaの略称で、消費電力を低く抑えつつ数k～十数kmの長距離通信が可能な無線規格。IoTや機器間通信で利用する。いくつかの通信方式があり、既存のLTE網を使う方式と新方式の2つがある。]]></description>
-			<pubDate>Tue, 30 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ドメインとセグメントは何が違う？（意外と知らないネットワーク用語の違い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011900625/011900004/</link>
-			<description><![CDATA[　ネットワークの用語には、わかりづらいものが多い。そこで本特集では、似たようなネットワーク用語をペアにして紹介して違いを解説する。今回は「ドメイン」と「セグメント」だ。]]></description>
-			<pubDate>Tue, 30 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>QRコードも積極導入、なぜローソンはキャッシュレス決済に注力するのか（佐野正弘が斬る！ニュースなアプリの裏側）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/040800083/012300140/</link>
-			<description><![CDATA[　楽天、LINE社に続き、NTTドコモがキャリア決済とQRコードを組み合わせた「d払い」を開始すると発表したが、その導入に積極的な姿勢を見せているのがコンビニエンスストア大手のローソンだ。同社はなぜ、多様な決済手段を導入し、キャッシュレス決済の拡大に力を入れているのだろうか。]]></description>
-			<pubDate>Tue, 30 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>富士通が本社管理部門を4月から大幅強化、その狙いとは（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/012901286/</link>
-			<description><![CDATA[　富士通は2018年4月から始まる2018年度の組織改編で、塚野英博副社長（最高財務責任者：CFO）が担当しているグローバルコーポレート部門を大幅に拡充・強化する方針であることが明らかになった。]]></description>
-			<pubDate>Tue, 30 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>教職員の働き方改革にクラウド、佐賀県多久市とマイクロソフトなど組む（ITpro Report）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/012900311/</link>
-			<description><![CDATA[　佐賀県多久市と日本マイクロソフト、ソフトバンク コマース＆サービスは2018年1月26日、クラウドを利用して「児童・生徒の学び方改革」と「教職員の働き方改革」を多久市で開始すると発表した。]]></description>
-			<pubDate>Tue, 30 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ハッカソンで若手エンジニアを採る方法（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/012501001/</link>
-			<description><![CDATA[　国内最大級の学生向けハッカソン「JPHACKS」。2014年から毎年開催しており、2017年は全国6会場で開かれたイベントに合計300人ほどの学生が参加した。このイベントから、“ハッカソンを若手獲得につなげるコツ”が見えてくる。]]></description>
-			<pubDate>Tue, 30 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>これぞ春の真打ち！価格が手ごろで小さく軽いLAVIE Note Mobile（戸田覚のIT辛口研究所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051900125/012700157/</link>
-			<description><![CDATA[　NECパーソナルコンピュータは、パソコンのコンセプトを徐々に変えてきている。売れ筋のA4ノートを大胆に変化させるなど、攻めの姿勢は高く評価したい。今回も、学生向けのモバイルノートを大きく進化させた。ビジネスパースンのモバイルユースにもお薦めできる仕上がりだ。]]></description>
-			<pubDate>Tue, 30 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>QCDの目標は不要、システム開発プロジェクトは3カ月管理で（さらばQCDプロマネ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/012200630/012200002/</link>
-			<description><![CDATA[　何を作るかが必ずしも決まっておらず、品質やコスト、納期に関する目標を立てにくい。そんな状況のプロジェクトを「3カ月サイクル型」と呼ぶべきマネジメントで運営するプロジェクトマネジャーを紹介しよう。]]></description>
-			<pubDate>Tue, 30 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>日本郵便がハード保守契約を全面見直し、ITベンダーの反発は必至（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/012701285/</link>
-			<description><![CDATA[　ハード保守費はユーザー企業にとって値引き交渉が難しい分野だ。日本郵便はベンダーの「聖域」に踏み込んで保守費8割減を目指す。ベンダーに波紋を激震が走るのは必至。後に続くユーザー企業は出るのか。]]></description>
-			<pubDate>Tue, 30 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AWSを基幹系で利用、知っておきたい流儀（基幹系もクラウドへ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/010400601/010400007/</link>
-			<description><![CDATA[　Amazon Web Services（AWS）に基幹システムを移行したいが、パブリッククラウドを本格的に利用したことはないので不安だ――。こんな不安を払しょくするために知っておきたいAWSの考え方を、AWSの専門家が解説する。]]></description>
-			<pubDate>Tue, 30 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>アナログモデムの新製品が次々登場する謎（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/012901288/</link>
-			<description><![CDATA[　今ではユーザー数が少ないと思われるアナログモデムの新製品が続々と登場した。アイ・オー・データ機器が2018年1月24日、アナログモデム2製品を発表。翌25日にはラトックシステムも新製品を発表したのだ。]]></description>
-			<pubDate>Tue, 30 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>仮想通貨を盗むウイルス作成容疑の高校生逮捕、掲示板に本人らしき弁明も（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/013003052/</link>
-			<description><![CDATA[　愛知県警は2018年1月30日、仮想通貨「モナーコイン」を盗み出すウイルスを作成した17歳の男子高校生をウイルスの作成および供用（不正指令電磁的記録作成・同供用）の疑いで逮捕した。]]></description>
-			<pubDate>Tue, 30 Jan 2018 18:58:19 +0900</pubDate>
-		</item>
-		<item>
-			<title>LCCピーチがチャットボットを7言語対応、質問10万件の87％を自動応答（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/013003053/</link>
-			<description><![CDATA[　格安航空会社（LCC）のPeach Aviation（ピーチ）は2018年1月30日、自社サービスに関する質問にWebサイト上の文字のやり取りで自動応答するチャットボットを、従来の日本語から7言語に拡充し運用を始めたと発表した。]]></description>
-			<pubDate>Tue, 30 Jan 2018 19:23:40 +0900</pubDate>
-		</item>
-		<item>
-			<title>NECの2018年3月期は増収増益へ、通信機器事業の苦戦続く（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/013003054/</link>
-			<description><![CDATA[　NECは2018年1月30日、2017年4～12月期決算を発表した。売上高は前年同期比9.9％増の1兆9713億円、営業利益は143億円だった。前年同期の営業損益は170億円のマイナスだった。2018年3月期通期は増収増益を見込む。]]></description>
-			<pubDate>Tue, 30 Jan 2018 19:32:28 +0900</pubDate>
-		</item>
-		<item>
-			<title>NECが国内3000人削減、中期経営計画で9工場再編（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/013003055/</link>
-			<description><![CDATA[　NECは2018年1月30日、2018年度から20年度まで3カ年の中期経営計画を発表した。]]></description>
-			<pubDate>Tue, 30 Jan 2018 19:41:41 +0900</pubDate>
-		</item>
-		<item>
-			<title>将棋の中村太地王座、AI時代に求められる3つの素養を語る（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/013003056/</link>
-			<description><![CDATA[　将棋のプロ棋士で、「王座」のタイトル保持者である中村太地氏は2018年1月30日、「AIとの対戦で見えた、将棋の新しい地平」と題した講演を行った。同講演で中村王座は、人工知能（AI）を搭載した将棋ソフトの活用が進むプロ将棋界の現況を踏まえ、AI時代に求められる3つの素養を提示した。]]></description>
-			<pubDate>Tue, 30 Jan 2018 20:30:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>リクルートライフスタイル、店員のシフト管理ができる「AirSHIFT」など新サービス（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/013003057/</link>
-			<description><![CDATA[　リクルートライフスタイルは2018年1月30日、スマートフォンやタブレットをPOS（販売時点情報管理）端末として使えるようにするアプリ「Airレジ」に続き、新たに3つのサービスを提供すると発表した。]]></description>
-			<pubDate>Tue, 30 Jan 2018 21:11:12 +0900</pubDate>
-		</item>
-		<item>
 			<title>NATとNAPTは何が違う？（意外と知らないネットワーク用語の違い）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011900625/011900005/</link>
 			<description><![CDATA[　ネットワークの用語には、わかりづらいものが多い。そこで本特集では、似たようなネットワーク用語をペアにして紹介して違いを解説する。今回は「NAT」と「NAPT」だ。]]></description>
@@ -322,6 +220,60 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/013103071/</link>
 			<description><![CDATA[　経済産業省は2018年1月31日、電子レシートの標準仕様を検証する実証実験を2018年2月13日から28日まで東京都町田市で実施すると発表した。ミニストップや三徳、東急ハンズなど27店舗が参加。新エネルギー・産業技術総合開発機構（NEDO）や東芝テックと共同で実施する。]]></description>
 			<pubDate>Wed, 31 Jan 2018 20:30:37 +0900</pubDate>
+		</item>
+		<item>
+			<title>システム全体の品質は後回し、「作らないスプリント」で確保（さらばQCDプロマネ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/012200630/012200004/</link>
+			<description><![CDATA[　新規ビジネスを開発する案件では一般に、当初の品質はビジネスの効果を判断できる水準で十分とされ、軽微な不具合であれば許容してもらいやすい。そこで脱QCDプロマネを実践するプロジェクトマネジャーは、その時々に必要な品質を見極めてプロジェクトを運営する。]]></description>
+			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>トンネリングとカプセリングは何が違う？（意外と知らないネットワーク用語の違い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011900625/011900006/</link>
+			<description><![CDATA[　ネットワークの用語には、わかりづらいものが多い。そこで本特集では、似たようなネットワーク用語をペアにして紹介して違いを解説する。今回は「トンネリング」と「カプセリング」だ。]]></description>
+			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>カネの切れ目が縁の切れ目、ITベンダーとの関係維持が困難に（焦点を読む）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/013000103/</link>
+			<description><![CDATA[　ITベンダーから見て当社は良い客ではなくなりつつあり、今後ベンダーと良好な関係を維持するのは難しくなるのではないか――。CIOやシステム部長からベンダーとの関わり方について、そんな悩みを聞く機会が増えた。]]></description>
+			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>基幹系を動かせるよう機能強化、巨大クラウド事業者の取り組み（基幹系もクラウドへ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/010400601/010400009/</link>
+			<description><![CDATA[　基幹系システムをクラウドに移行する際に、「乗せる際のクラウドのスペックが十分ではない」という課題があった。こうした課題を解消するため、パブリッククラウドベンダーは高性能のインスタンスの提供を始めた。]]></description>
+			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>広がるネット大手の実店舗進出、楽天とウォルマートが提携（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/013001292/</link>
+			<description><![CDATA[　楽天は2018年1月26日、米ウォルマート・ストアーズと日本におけるネットスーパー事業の共同運営を軸に提携を発表した。2018年夏から運営を開始する。ウォルマートのダグ・マクミロン社長兼CEO（最高経営責任者）は「楽天との提携でEC（電子商取引）分野の技術を補完したい」と提携の意義を話す。]]></description>
+			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>意外に重い格安スマホ事業者の負担、月額178万円のシステム利用料も（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/013001293/</link>
+			<description><![CDATA[　携帯電話大手3社が2017年12月28日にひっそりと改正した接続約款の内容が業界関係者の間で話題を呼んでいる。大手3社が格安スマホ事業者に提供している「回線管理システム」の利用料金が初めて明らかにされたのだ。]]></description>
+			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「アクセスポイントから100m離れてもWi-Fi通信ができる」は本当か（Wi-Fiのウソとホントを実証）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/012200023/</link>
+			<description><![CDATA[　「Wi-Fi（無線LAN）はどれくらいの距離、通信できますか？」。ユーザーから頻繁に聞かれる質問の一つであるが、この質問には様々な条件が関係してくるので簡単に答えることができない。]]></description>
+			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIスピーカーで激突するグーグルとアマゾン、次の主役狙う中国ベンチャー（CES2018総括）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/012900634/012900002/</link>
+			<description><![CDATA[　自動車メーカーが未来のプラットフォーマーになるべく舌戦を繰り広げる一方、プラットフォーム争いの火ぶたが既に切られているのが人工知能（AI）を使ったスマートスピーカーだ。]]></description>
+			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>フリマブームの外側を狙う、中古品流通が教える新市場の創り方（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/013101005/</link>
+			<description><![CDATA[　「現在のヤフーは、海外のテックジャイアントと競争が激しくなる一方で、国内で気鋭の若手ベンチャーに突き上げられ、両挟みになっている」。]]></description>
+			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
