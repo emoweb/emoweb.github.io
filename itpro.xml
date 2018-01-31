@@ -298,5 +298,42 @@
 ]]></description>
 			<pubDate>Wed, 31 Jan 2018 06:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>IntelのSpectre対策を無効化するパッチをMicrosoftが緊急リリース（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/013100399/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　CPU脆弱性「Spectre」に対処する米Intelのパッチを導入したパソコンの一部で、予期せぬ再起動やシステムの不安定化が生じている問題に関して、米MicrosoftがWindows用のパッチを緊急リリースした。Spectreのバリアント2に対する既存の対処を無効化するパッチだ。
+</p>
+<div>
+<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/013100399/ph.jpg" width="300" alt="" title=""></div>
+
+<div>Credit: Google/Natascha Eibl</div>
+</div>
+<p>
+　話が少々複雑なので整理しよう。Spectreと「Meltdown」という脆弱性の存在が最初に公表された後、IntelとMicrosoftはそれぞれ、問題に対処するためのパッチを緊急リリースした。しかし残念ながら、Intelがリリースしたマイクロコードのアップデート（およびそれを基にしてパソコンメーカーがリリースしたBIOSアップデート）は、それ自体が不具合をはらんでいた。パソコンが不安定になったり、再起動が増えたりといった問題が生じており、データの損失につながる恐れがある。
+</p>
+<p>
+　Microsoftが今回リリースしたパッチ「<a href="https://support.microsoft.com/en-us/help/4078130/update-to-disable-mitigation-against-spectre-variant-2" target="_blank">KB4078130</a>」は、こうした問題が生じているシステム向けに提供されたもので、「Microsoft Updateカタログ」からダウンロードできる。Spectreのバリアント2に向けた既存の対処を無効化することで問題を解決する。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/013100399/?ST=cio-security&P=2">ただし、Microsoftが今回リリースしたパッ...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/013100399/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/013100399/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/013100399/?ST=cio-security&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/013100399/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 31 Jan 2018 10:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
