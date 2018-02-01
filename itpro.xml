@@ -11,43 +11,6 @@
 			<pubDate>Wed, 31 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>IntelのSpectre対策を無効化するパッチをMicrosoftが緊急リリース（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/013100399/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　CPU脆弱性「Spectre」に対処する米Intelのパッチを導入したパソコンの一部で、予期せぬ再起動やシステムの不安定化が生じている問題に関して、米MicrosoftがWindows用のパッチを緊急リリースした。Spectreのバリアント2に対する既存の対処を無効化するパッチだ。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/013100399/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Google/Natascha Eibl</div>
-</div>
-<p>
-　話が少々複雑なので整理しよう。Spectreと「Meltdown」という脆弱性の存在が最初に公表された後、IntelとMicrosoftはそれぞれ、問題に対処するためのパッチを緊急リリースした。しかし残念ながら、Intelがリリースしたマイクロコードのアップデート（およびそれを基にしてパソコンメーカーがリリースしたBIOSアップデート）は、それ自体が不具合をはらんでいた。パソコンが不安定になったり、再起動が増えたりといった問題が生じており、データの損失につながる恐れがある。
-</p>
-<p>
-　Microsoftが今回リリースしたパッチ「<a href="https://support.microsoft.com/en-us/help/4078130/update-to-disable-mitigation-against-spectre-variant-2" target="_blank">KB4078130</a>」は、こうした問題が生じているシステム向けに提供されたもので、「Microsoft Updateカタログ」からダウンロードできる。Spectreのバリアント2に向けた既存の対処を無効化することで問題を解決する。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/013100399/?ST=cio-security&P=2">ただし、Microsoftが今回リリースしたパッ...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/013100399/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/013100399/?ST=cio-security&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/013100399/?ST=cio-security&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/013100399/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 31 Jan 2018 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>LINEが新会社「LINE Financial」設立、仮想通貨事業に進出へ（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/013103058/</link>
 			<description><![CDATA[　LINEは2018年1月31日、金融事業を手掛ける新会社「LINE Financial」を同月10日に設立したと発表した。同社がこれまで提供してきたモバイル送金・決済サービス「LINE Pay」に続き、金融事業を強化する。]]></description>
@@ -286,6 +249,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020103076/</link>
 			<description><![CDATA[　ビデオゲームをスポーツ競技のように楽しむ「eスポーツ」の新団体「日本eスポーツ連合（JeSU）」が2018年2月1日、発足した。eスポーツの振興や競技大会の普及、プロ選手の育成支援と認定などを担う。]]></description>
 			<pubDate>Thu, 01 Feb 2018 16:30:12 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソフォス、深層学習を利用したマルウエア検出機能をセキュリティソフトに搭載（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020103078/</link>
+			<description><![CDATA[　セキュリティーベンダーである英ソフォスの日本法人であるソフォスは2018年2月1日、エンドポイントセキュリティソフト「Intercept X 2.0」の提供を始めた。深層学習を利用したマルウエア検出機能を新たに搭載したのが特徴。]]></description>
+			<pubDate>Thu, 01 Feb 2018 18:04:33 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
