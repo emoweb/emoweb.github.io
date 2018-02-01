@@ -5,40 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>DevSecOpsの重要性と課題（中）（DevSecOpsの重要性と課題）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　DevSecOpsのシンプルな前提は、ソフトウエア開発ライフサイクルに携わる全員がセキュリティに責任を負うということだ。本質的に、開発（Dev：development）および運用（Ops：operations）の職務と、セキュリティ（Sec：security）の職務とを統合する。DevSecOpsは、開発プロセスのすべての部分にセキュリティを取り入れることを目指す。</p>
-
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200001/" target="_blank">前回</a>から続く）</p>
-
-<h4>DevOpsとDevSecOps、統合の課題</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　DevOpsにセキュリティを統合してDevSecOpsを実現するためには、新しいマインドセット、プロセス、ツールが必要だ。セキュリティやリスクマネジメントのリーダーは、協力性や俊敏性というDevOpsの本質を忠実に守り、シームレスかつ透過的に開発プロセスに関与して、セキュリティをできる限り暗黙的かつ円滑的なものにする必要がある。しかし、2つの異なる分野にとっては、簡単なことではない。</p>
-
-<p>　Cuthbert氏は次のように見ている。「ここで問題になるのは、DevOpsではサービスとアジャイルの手法への適合が重要だという点だ。例えば、Infrastructure as Codeを扱う時に、セキュリティの要素について議論されることは滅多にない。現時点では、依然として2つの立場があるように思う。DevOpsのプロセスを支持する立場と、DevSecOpsを採る立場だ。この2つの足並みをそろえ、プロセスのすべての面の決定とライフサイクルにセキュリティが取り入れられるようにする必要がある」</p>
-
-<p>　その足並みをそろえるのは一筋縄では行かないとCuthbert氏は言う。「現在のプロセスとライフサイクルを完全に理解する必要がある。セキュリティの追加に関して不十分な点はどこにあるだろうか。これを理解しているチャンピオンはいるだろうか。その人たちは、行動して変化をもたらすことが可能だろうか。こうした基本的なことが解決したら、あとはそれに基づいて行動することだ」</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200002/?ST=cm-software&P=2">さらに、この連携は適切に検討しておく必要があると同氏は強調する。...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200002/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200002/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 31 Jan 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：美少女の頑張りを見て大事を抱えた中年男性は泣き叫ぶ（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/012601002/?d01</link>
+			<description><![CDATA[　知り合いの中年男性が2人、美少女の歌と踊りを見聞きして泣き、叫んだ。2人の行動を参考にしつつ、重要な仕事に直面した際、プロとしてとるべき姿勢を考えてみたい。]]></description>
+			<pubDate>Wed, 31 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>IntelのSpectre対策を無効化するパッチをMicrosoftが緊急リリース（CIOニュース）</title>
@@ -310,6 +280,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020103075/</link>
 			<description><![CDATA[　東京大学は2018年2月1日、全学組織として連携研究機構の「バーチャルリアリティ教育研究センター」を設置したと発表した。情報理工学系研究科が責任部局を務める。研究科や研究室の垣根を越えた共同研究を進め、民間企業など外部機関とも連携を強化する狙いだ。]]></description>
 			<pubDate>Thu, 01 Feb 2018 16:16:38 +0900</pubDate>
+		</item>
+		<item>
+			<title>「eスポーツを五輪種目に」、業界団体のJeSUが発足（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020103076/</link>
+			<description><![CDATA[　ビデオゲームをスポーツ競技のように楽しむ「eスポーツ」の新団体「日本eスポーツ連合（JeSU）」が2018年2月1日、発足した。eスポーツの振興や競技大会の普及、プロ選手の育成支援と認定などを担う。]]></description>
+			<pubDate>Thu, 01 Feb 2018 16:30:12 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
