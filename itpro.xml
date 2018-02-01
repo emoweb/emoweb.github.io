@@ -256,5 +256,40 @@
 			<description><![CDATA[　量子コンピュータでも解読が困難な暗号方式の開発が各国で進められている。その一つが、NICTが開発した「LOTUS」だ。どんな暗号なのか。RSAや楕円曲線暗号が量子コンピュータで短時間で解読できるのに、どうしてLOTUSは短時間で解読できないのか。できるだけわかりやすく解説しよう。]]></description>
 			<pubDate>Fri, 02 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>DevSecOpsの重要性と課題（下）（DevSecOpsの重要性と課題）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　DevSecOpsのシンプルな前提は、ソフトウエア開発ライフサイクルに携わる全員がセキュリティに責任を負うということだ。本質的に、開発（Dev：development）および運用（Ops：operations）の職務と、セキュリティ（Sec：security）の職務とを統合する。DevSecOpsは、開発プロセスのすべての部分にセキュリティを取り入れることを目指す。</p>
+
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200002/" target="_blank">前回</a>から続く）</p>
+
+<h4>DevSecOpsの成果と今後の課題</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200003/ph3.jpg" width="300" alt="" title=""></div></div>
+
+<p>　開発、セキュリティ、運用の各チームを統合したことで、実際に成果を得ている企業もある。責任の共有によって、フィードバックループの短縮、インシデントの減少、セキュリティの向上などを実現している。米WhiteHat Securityの最高セキュリティリサーチ責任者、Ryan O'Leary氏は、迅速かつ安全にコードをリリースすることは多くの企業にとってプラスになると話す。「アプリケーションのセキュリティプログラムが効果的かどうかを示す重要な尺度の1つが、発見された脆弱性の修正にかかる時間だ。出現した問題への対応と優先順位づけという面で、チームがどの程度俊敏なのかが分かる」</p>
+
+<p>　「当社の顧客企業で見ると、本番環境の動的解析で見つかった脆弱性の修正に要した日数は、平均的な企業では174日だったのに対し、DevSecOpsを導入している企業では92日で済んだ。また、開発環境の静的解析で見つかった脆弱性は、平均的な企業は113日だったのが、DevSecOpsの導入企業は51日だった。実に劇的な改善だ。さらには、最終的に修正されたすべての脆弱性のうち、修正が10日で済んだ脆弱性の割合は、平均的な企業は15％止まりだったのに対し、DevSecOpsの導入企業は53％だった」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200003/?ST=cm-software&P=2">潮目は変わりつつあるのかもしれない。米DigiCertが2017...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200003/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200003/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200003/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200003/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 02 Feb 2018 06:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
