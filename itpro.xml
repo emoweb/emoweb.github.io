@@ -5,60 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>システム全体の品質は後回し、「作らないスプリント」で確保（さらばQCDプロマネ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/012200630/012200004/</link>
-			<description><![CDATA[　新規ビジネスを開発する案件では一般に、当初の品質はビジネスの効果を判断できる水準で十分とされ、軽微な不具合であれば許容してもらいやすい。そこで脱QCDプロマネを実践するプロジェクトマネジャーは、その時々に必要な品質を見極めてプロジェクトを運営する。]]></description>
-			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>トンネリングとカプセリングは何が違う？（意外と知らないネットワーク用語の違い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011900625/011900006/</link>
-			<description><![CDATA[　ネットワークの用語には、わかりづらいものが多い。そこで本特集では、似たようなネットワーク用語をペアにして紹介して違いを解説する。今回は「トンネリング」と「カプセリング」だ。]]></description>
-			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>カネの切れ目が縁の切れ目、ITベンダーとの関係維持が困難に（焦点を読む）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/531236/013000103/</link>
-			<description><![CDATA[　ITベンダーから見て当社は良い客ではなくなりつつあり、今後ベンダーと良好な関係を維持するのは難しくなるのではないか――。CIOやシステム部長からベンダーとの関わり方について、そんな悩みを聞く機会が増えた。]]></description>
-			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>基幹系を動かせるよう機能強化、巨大クラウド事業者の取り組み（基幹系もクラウドへ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/010400601/010400009/</link>
-			<description><![CDATA[　基幹系システムをクラウドに移行する際に、「乗せる際のクラウドのスペックが十分ではない」という課題があった。こうした課題を解消するため、パブリッククラウドベンダーは高性能のインスタンスの提供を始めた。]]></description>
-			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>広がるネット大手の実店舗進出、楽天とウォルマートが提携（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/013001292/</link>
-			<description><![CDATA[　楽天は2018年1月26日、米ウォルマート・ストアーズと日本におけるネットスーパー事業の共同運営を軸に提携を発表した。2018年夏から運営を開始する。ウォルマートのダグ・マクミロン社長兼CEO（最高経営責任者）は「楽天との提携でEC（電子商取引）分野の技術を補完したい」と提携の意義を話す。]]></description>
-			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>意外に重い格安スマホ事業者の負担、月額178万円のシステム利用料も（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/013001293/</link>
-			<description><![CDATA[　携帯電話大手3社が2017年12月28日にひっそりと改正した接続約款の内容が業界関係者の間で話題を呼んでいる。大手3社が格安スマホ事業者に提供している「回線管理システム」の利用料金が初めて明らかにされたのだ。]]></description>
-			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「アクセスポイントから100m離れてもWi-Fi通信ができる」は本当か（Wi-Fiのウソとホントを実証）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/012200023/</link>
-			<description><![CDATA[　「Wi-Fi（無線LAN）はどれくらいの距離、通信できますか？」。ユーザーから頻繁に聞かれる質問の一つであるが、この質問には様々な条件が関係してくるので簡単に答えることができない。]]></description>
-			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIスピーカーで激突するグーグルとアマゾン、次の主役狙う中国ベンチャー（CES2018総括）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/012900634/012900002/</link>
-			<description><![CDATA[　自動車メーカーが未来のプラットフォーマーになるべく舌戦を繰り広げる一方、プラットフォーム争いの火ぶたが既に切られているのが人工知能（AI）を使ったスマートスピーカーだ。]]></description>
-			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>フリマブームの外側を狙う、中古品流通が教える新市場の創り方（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/013101005/</link>
-			<description><![CDATA[　「現在のヤフーは、海外のテックジャイアントと競争が激しくなる一方で、国内で気鋭の若手ベンチャーに突き上げられ、両挟みになっている」。]]></description>
-			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>変化を続けるIT界で今後の活躍に不可欠なスキルは（後）（変化を続けるIT界で今後の活躍に不可欠なスキルは）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/012200107/012200002/</link>
 			<description><![CDATA[<div>
@@ -362,6 +308,12 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020203086/</link>
 			<description><![CDATA[　ファミリーマートは2018年2月2日、経済産業省庁舎内にある「ファミリーマート経済産業省店」で、ICタグ（RFIDタグ）を使った情報共有システムの実証実験を実施すると発表した。期間は2月14日から23日まで。経産省職員と用務客に限って利用できる。]]></description>
 			<pubDate>Fri, 02 Feb 2018 14:02:49 +0900</pubDate>
+		</item>
+		<item>
+			<title>LCCピーチがビットコイン決済導入を延期、「時期未定だが白紙撤回はしない」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020203087/</link>
+			<description><![CDATA[　格安航空会社（LCC）のPeach Aviation（ピーチ）は2018年2月2日、航空運賃の支払いにビットコイン決済を利用可能にする計画について「サービスの開始時期について再度検討している」として期限を定めず延期していることを表明した。日経コンピュータの取材に対し同社広報担当者が明らかにした。]]></description>
+			<pubDate>Fri, 02 Feb 2018 16:33:27 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
