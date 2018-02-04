@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>レノボ、会議室を進化させる「ThinkSmart」ブランドを発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020103081/</link>
-			<description><![CDATA[　レノボ・ジャパンは2018年2月1日、都内で新製品発表会を開催し、「ThinkSmart」ブランドのオンライン会議システムや、ThinkPadシリーズの法人向けPC製品14モデルを発表した。]]></description>
-			<pubDate>Thu, 01 Feb 2018 21:01:22 +0900</pubDate>
-		</item>
-		<item>
 			<title>信頼性と可用性は何が違う？（意外と知らないネットワーク用語の違い）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011900625/011900007/</link>
 			<description><![CDATA[　ネットワークの用語には、わかりづらいものが多い。そこで本特集では、似たようなネットワーク用語をペアにして紹介して違いを解説する。今回は「信頼性」と「可用性」だ。]]></description>
@@ -302,6 +296,37 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/020100177/</link>
 			<description><![CDATA[　システム開発プロジェクトでは「スコープクリープ」と呼ばれる怪現象が頻繁に起こる。要件などのスコープが、ロジェクトマネジャーのあずかり知らぬところで勝手に肥大化することを言うが、この怪現象が発生するとプロジェクトは破滅に向かう。考えるだけでも恐ろしい。]]></description>
 			<pubDate>Mon, 05 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ブロックチェーンが実現する自己証明型身分証明とは（上）（ブロックチェーンが実現する自己証明型身分証明とは）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　インターネットで形成された興味深い用語の1つが「IDプロバイダー」だ。人は本来、自分の身元を誰かに提供してもらう必要はない。生まれながらに自分は自分である。それでも、いわゆるIDプロバイダーは、その人を表すIDと、そのプロバイダーにとって重要な属性を記録しておく手段、そして、何らかの本人証明の仕組み（通常はパスワード）を提供している。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　こういうものができたのは意外なことではない。オンラインIDはこれまでずっと、一人ひとりの人間とそのニーズという観点ではなく、企業や組織とそのニーズという観点で捉えられてきた。IDシステムは、特定のドメイン内でのIDと属性を管理するために作られている。その結果、人々は、膨大な数の企業や組織に対して、膨大な数のオンラインIDを持たざるを得なくなっている。IDシステムはそれぞれ独自のもので、提供元の企業や組織が所有している。実のところ、こうしたシステムの数々から独立したオンラインIDはない。住所やクレジットカード番号が変わった時には、それぞれのシステムに対して、先方が定める方法で個別に手続きする必要がある。</p>
+
+<p>　だが、その手続きを1カ所で1回行えば済むとしたらどうだろうか。もちろん、ComputerworldにせよAmazonにせよ、各社はアカウントを引き続き保持しておきたいだろうし、新しい住所を知りたいだろう。だが、そのアカウントは、本人が提示するIDとリンクされることになる。さらに重要なのは、そのIDを本人が管理できる点だ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000001/?ST=cio-security&P=2">自己証明型身分証明とは</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000001/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000001/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000001/?ST=cio-security&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000001/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 05 Feb 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
