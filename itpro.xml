@@ -5,36 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：「アクセスポイントから100m離れてもWi-Fi通信ができる」は本当か（Wi-Fiのウソとホントを実証）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/16/083100185/012200023/?d02</link>
-			<description><![CDATA[　「Wi-Fi（無線LAN）はどれくらいの距離、通信できますか？」。ユーザーから頻繁に聞かれる質問の一つであるが、この質問には様々な条件が関係してくるので簡単に答えることができない。]]></description>
-			<pubDate>Thu, 01 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「eスポーツを五輪種目に」、業界団体のJeSUが発足（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020103076/</link>
-			<description><![CDATA[　ビデオゲームをスポーツ競技のように楽しむ「eスポーツ」の新団体「日本eスポーツ連合（JeSU）」が2018年2月1日、発足した。eスポーツの振興や競技大会の普及、プロ選手の育成支援と認定などを担う。]]></description>
-			<pubDate>Thu, 01 Feb 2018 16:30:12 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソフォス、深層学習を利用したマルウエア検出機能をセキュリティソフトに搭載（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020103078/</link>
-			<description><![CDATA[　セキュリティーベンダーである英ソフォスの日本法人であるソフォスは2018年2月1日、エンドポイントセキュリティソフト「Intercept X 2.0」の提供を始めた。深層学習を利用したマルウエア検出機能を新たに搭載したのが特徴。]]></description>
-			<pubDate>Thu, 01 Feb 2018 18:04:33 +0900</pubDate>
-		</item>
-		<item>
-			<title>チョークデジタル、スマホ向け広告出稿の簡単化・自動化ツール（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020103079/</link>
-			<description><![CDATA[　米国のベンチャー企業で、位置情報を活用した広告配信技術を展開するChalk Digitalの日本法人であるチョークデジタルは2018年2月1日、スマートフォンへの広告出稿を簡単化・自動化したプラットフォームの提供を日本で正式に始めると発表した。]]></description>
-			<pubDate>Thu, 01 Feb 2018 18:13:11 +0900</pubDate>
-		</item>
-		<item>
-			<title>NISCがセキュリティ啓発イベント、「親世代や高齢者は置いてけぼり」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020103080/</link>
-			<description><![CDATA[　内閣サイバーセキュリティセンター（NISC）は2018年2月1日、サイバーセキュリティ月間のキックオフサミットを開催した。子供とその保護者にインターネットをいかに安全に使ってもらうかをテーマに地域の取り組みを紹介した。]]></description>
-			<pubDate>Thu, 01 Feb 2018 18:14:30 +0900</pubDate>
-		</item>
-		<item>
 			<title>レノボ、会議室を進化させる「ThinkSmart」ブランドを発表（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020103081/</link>
 			<description><![CDATA[　レノボ・ジャパンは2018年2月1日、都内で新製品発表会を開催し、「ThinkSmart」ブランドのオンライン会議システムや、ThinkPadシリーズの法人向けPC製品14モデルを発表した。]]></description>
@@ -266,6 +236,72 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020203093/</link>
 			<description><![CDATA[　ソニーは2018年2月2日、2017年4～12月期の連結決算（米国会計基準）を発表した。売上高は前年同期比15.7％増の6兆5929億円6100万円、営業利益は同266.8％増の7126億7600万円だった。]]></description>
 			<pubDate>Fri, 02 Feb 2018 21:50:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>何度レビューしても品質が上がらない、その意外な原因は？（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/010500011/</link>
+			<description><![CDATA[　提案書や報告書などの品質を上げるにはレビューが必須である。しかし、何度レビューをしてもなかなか品質が上がらないという悩みはよく聞く。これは多くの場合、レビューをする側に問題がある。]]></description>
+			<pubDate>Mon, 05 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ルーターとレイヤー3スイッチは何が違う？（意外と知らないネットワーク用語の違い）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011900625/011900008/</link>
+			<description><![CDATA[　ネットワークの用語には、わかりづらいものが多い。そこで本特集では、似たようなネットワーク用語をペアにして紹介して違いを解説する。今回は「ルーター」と「レイヤー3スイッチ」だ。]]></description>
+			<pubDate>Mon, 05 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>注意すべきは何？液晶ディスプレイの基本スペック早わかり（ディスプレイ選択の新常識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/013000637/013100001/</link>
+			<description><![CDATA[　外部ディスプレイを購入し、使いこなすためのポイントを紹介しよう。外部ディスプレイの購入を検討する上で、どんな点が重要なのかを解説する。]]></description>
+			<pubDate>Mon, 05 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>富士通がパワポ作成にAI活用、素材集めの手間を大幅減（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/020201298/</link>
+			<description><![CDATA[　「PowerPoint」を使った資料の作成に人工知能（AI）を生かす。そんな取り組みを富士通が現場で本格化させている。資料作成にAIをどう生かせるのか。どのような仕組みなのか。資料作成支援ツールの開発責任者といち早くツールを導入した現場のリーダーに聞いた。]]></description>
+			<pubDate>Mon, 05 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>インバウンド取りこぼしに危機感、航空業界が急ぐIT革新の中身（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/020201297/</link>
+			<description><![CDATA[　国土交通省と定期航空協会、全国空港ビル協会は2018年1月30日、「航空イノベーション推進官民連絡会」の第1回会合を開催した。国交省と国内の航空会社、空港会社、航空関連の機器・設備メーカーなどが、航空業界におけるIT活用の方向性や先行事例などについて共有し、IT活用の取り組みを加速することを狙う。]]></description>
+			<pubDate>Mon, 05 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>繰り返されるブラウザー戦争、し烈な争いで進化（徹底解剖！最新Webブラウザー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/012900635/012900001/</link>
+			<description><![CDATA[　Webブラウザーの歴史をひもときつつ、現在の主要な製品を紹介するとともに、Webブラウザーの基本的な仕組みを解説する。]]></description>
+			<pubDate>Mon, 05 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>サケは生まれた川に戻る、でも私は戻らなかった（わたしの働き方改革）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200060/012600022/</link>
+			<description><![CDATA[　NTTレゾナントでソリューション事業部長を務める岡敦子氏。同社初の女性役員として、法人向け事業を統括している。NTTの研究畑を歩んでいた技術系人材だったが、異動をきっかけに「技術を多くの人に使ってもらうこと」にやりがいを見出し、キャリアを大きく転換した。]]></description>
+			<pubDate>Mon, 05 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>自動通訳機でラーメンを上手に注文する方法（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/020101006/</link>
+			<description><![CDATA[　自分が海外に出かけて道を尋ねたり買い物したりする際、質問を全く理解してもらえなかったり、回答が分からなかったりすることがある。同じように、来日して移動や買い物などで困る訪日外国人が出てくるのは間違いない。]]></description>
+			<pubDate>Mon, 05 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>過剰な期待で検証疲れ、デジタルシフトの注意点（デジタルシフトを急げ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/012600633/012900002/</link>
+			<description><![CDATA[　デジタルシフトに期待を寄せるユーザーが増える一方で、PoC（概念検証）に疲れたという声も少なくない。AIやIoTの導入が目的になってしまったプロジェクトは失敗する。デジタル化の手法は様々あるが、「どの利益が増えるか」が議論の中心であるべきだ。]]></description>
+			<pubDate>Mon, 05 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>転職の35歳限界説はウソ、面接1回で内定の技術者も（転職の新常識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/020100639/020100001/</link>
+			<description><![CDATA[　35歳を過ぎてからの転職は難しい――。転職をめぐる話題でよく耳にするのが、いわゆる「35歳限界説」だ。技術者にも、これは当てはまるのか。]]></description>
+			<pubDate>Mon, 05 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スコープクリープ、システム開発を大炎上させる怪現象の正体（木村岳史の極言暴論！）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/463805/020100177/</link>
+			<description><![CDATA[　システム開発プロジェクトでは「スコープクリープ」と呼ばれる怪現象が頻繁に起こる。要件などのスコープが、ロジェクトマネジャーのあずかり知らぬところで勝手に肥大化することを言うが、この怪現象が発生するとプロジェクトは破滅に向かう。考えるだけでも恐ろしい。]]></description>
+			<pubDate>Mon, 05 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
