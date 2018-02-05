@@ -83,41 +83,6 @@
 			<pubDate>Fri, 02 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>DevSecOpsの重要性と課題（下）（DevSecOpsの重要性と課題）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　DevSecOpsのシンプルな前提は、ソフトウエア開発ライフサイクルに携わる全員がセキュリティに責任を負うということだ。本質的に、開発（Dev：development）および運用（Ops：operations）の職務と、セキュリティ（Sec：security）の職務とを統合する。DevSecOpsは、開発プロセスのすべての部分にセキュリティを取り入れることを目指す。</p>
-
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200002/" target="_blank">前回</a>から続く）</p>
-
-<h4>DevSecOpsの成果と今後の課題</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200003/ph3.jpg" width="300" alt="" title=""></div></div>
-
-<p>　開発、セキュリティ、運用の各チームを統合したことで、実際に成果を得ている企業もある。責任の共有によって、フィードバックループの短縮、インシデントの減少、セキュリティの向上などを実現している。米WhiteHat Securityの最高セキュリティリサーチ責任者、Ryan O'Leary氏は、迅速かつ安全にコードをリリースすることは多くの企業にとってプラスになると話す。「アプリケーションのセキュリティプログラムが効果的かどうかを示す重要な尺度の1つが、発見された脆弱性の修正にかかる時間だ。出現した問題への対応と優先順位づけという面で、チームがどの程度俊敏なのかが分かる」</p>
-
-<p>　「当社の顧客企業で見ると、本番環境の動的解析で見つかった脆弱性の修正に要した日数は、平均的な企業では174日だったのに対し、DevSecOpsを導入している企業では92日で済んだ。また、開発環境の静的解析で見つかった脆弱性は、平均的な企業は113日だったのが、DevSecOpsの導入企業は51日だった。実に劇的な改善だ。さらには、最終的に修正されたすべての脆弱性のうち、修正が10日で済んだ脆弱性の割合は、平均的な企業は15％止まりだったのに対し、DevSecOpsの導入企業は53％だった」</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200003/?ST=cm-software&P=2">潮目は変わりつつあるのかもしれない。米DigiCertが2017...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200003/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200003/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200003/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/012200106/012200003/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 02 Feb 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>GoogleがMobileIronと提携、その狙いは（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/020200400/</link>
 			<description><![CDATA[<div>
@@ -380,6 +345,24 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020503096/</link>
 			<description><![CDATA[　デジタルマーケティングソフトを手掛けるフロムスクラッチは2018年2月5日、人工知能（AI）の活用などで利用者の利便性を高めたと発表した。中小・ベンチャー企業向けの安価な機能限定版も新たに投入。併せて、企業への導入支援や新機能の共同開発などでコンサルティング会社やシステム構築事業者など12社との提携を発表した。]]></description>
 			<pubDate>Mon, 05 Feb 2018 14:49:15 +0900</pubDate>
+		</item>
+		<item>
+			<title>RPAとAI-OCRを組み合わせた新サービス、日商エレがRPAテクなどと協業（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020503097/</link>
+			<description><![CDATA[　日商エレクトロニクスは2018年2月5日、RPA（ロボティック・プロセス・オートメーション）と人工知能（AI）を活用した光学的文字認識（AI-OCR）を使う新たなサービスの提供を開始すると発表した。日商エレクトロニクスがRPAのベンダーであるRPAテクノロジーズ、AI-OCRを提供するABBYYジャパンと販売代理店契約を締結。各社の製品の取り扱いを開始し、RPAとAI-OCRを組み合わせたサービスを企業などに導入していく。初年度約20社の導入を見込む。]]></description>
+			<pubDate>Mon, 05 Feb 2018 19:06:39 +0900</pubDate>
+		</item>
+		<item>
+			<title>パナソニックが通期決算を上方修正、テスラ新車の生産遅れの影響を総力でカバー（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020503098/</link>
+			<description><![CDATA[　パナソニックが2018年2月5日に発表した2017年度第3四半期（2017年10～12月）決算は増収増益だった。併せて通期（2017年4月～2018年3月）見通しを上方修正した。米電気自動車（EV）メーカー、テスラの新型車「モデル3」で生産遅延が発生した影響でテスラ向けの車載用2次電池の売り上げが期初予想に比べて約900億円減るが、モーターや部品実装機など複数の事業で予想を上回る好調が続くため全社では上方修正となった。]]></description>
+			<pubDate>Mon, 05 Feb 2018 19:10:38 +0900</pubDate>
+		</item>
+		<item>
+			<title>PwCサイバーサービスがWi-Fiのリスク調査、工場や五輪会場などを視野（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020503099/</link>
+			<description><![CDATA[　PwCサイバーサービスは2018年2月5日、Wi-Fi（無線LAN）などの通信におけるセキュリティのリスクを検証する「ワイヤレス通信アセスメントサービス」を提供開始したと発表した。工場の生産ラインや電力、水道などの設備で使われるアクセスポイントなどを対象にリスクを洗い出す。]]></description>
+			<pubDate>Mon, 05 Feb 2018 19:18:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
