@@ -83,54 +83,6 @@
 			<pubDate>Fri, 02 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>GoogleがMobileIronと提携、その狙いは（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/020200400/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Googleのクラウド事業と米MobileIronは現地時間2018年1月30日に提携を発表した。企業向けのクラウドアプリケーションを提供するセキュアなポータルを実現する。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/020200400/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Pexels</div>
-</div>
-<p>
-　GoogleがMobileIronと組んだ狙いは、クラウドベースのアプリケーションやサービスの売買プラットフォーム「Orbitera」の活用だ。OrbiteraはGoogleの傘下にあり、OSやハードウエアの種類を問わずにサービスの提供やセキュリティを実現できるパートナーを必要としている。
-</p>
-<p>
-　MobileIronと組めば、同社のEMM（エンタープライズモビリティ管理）プラットフォームを通じてアプリケーションやサービスを提供できる。それに加え、利用が多いアプリケーションやサービス、あるいはその利用者について分析することも可能になる。
-</p>
-<p>
-　MobileIronの広報担当者は次のように話している。「クラウドサービスというと、モバイル、あるいはMacやWindowsといったデバイス上のアプリを通じて利用される。しかも、こうした（パソコン用）OSも、次第にモバイルOSに似てきている」
-</p>
-<p>
-　今回の提携による新たなサービスは、2018年下半期に提供される予定。主にSAML（Security Assertion Markup Language）を基盤としたものになる。SAMLは、MobileIronのようなIDプロバイダーと、Googleのようなサービスプロバイダーとの間でやりとりする、認証や承認に関するデータについて定めたオープンな標準規格だ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/020200400/?ST=cio-cloud&P=2">MobileIronの広報担当者によると、この新...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/020200400/?ST=cio-cloud&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/020200400/?ST=cio-cloud&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/020200400/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 02 Feb 2018 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>アクセンチュア、関西拠点を1000人規模に拡張へ（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020103077/</link>
-			<description><![CDATA[　アクセンチュアは2018年2月2日、大阪市北区中之島にある関西オフィスを増床・刷新し、大幅拡張すると発表した。現在は100人超の従業員数を、今後2年で1000人体制とする。]]></description>
-			<pubDate>Fri, 02 Feb 2018 11:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Flash Playerにゼロデイ脆弱性―パッチは週明け、削除か無効化を（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020203082/</link>
 			<description><![CDATA[　米アドビシステムズや情報処理推進機構（IPA）は2018年2月2日、Adobe Flash Playerに脆弱性が存在すると発表した。米アドビのWebサイトでは、重要度は最も深刻な「Critical（致命的）」に当たるとしている。脆弱性の識別子は「CVE-2018-4878」である。]]></description>
@@ -363,6 +315,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020503099/</link>
 			<description><![CDATA[　PwCサイバーサービスは2018年2月5日、Wi-Fi（無線LAN）などの通信におけるセキュリティのリスクを検証する「ワイヤレス通信アセスメントサービス」を提供開始したと発表した。工場の生産ラインや電力、水道などの設備で使われるアクセスポイントなどを対象にリスクを洗い出す。]]></description>
 			<pubDate>Mon, 05 Feb 2018 19:18:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIで異常な振る舞い検知、オラクルが複数クラウド想定のセキュリティサービス拡充（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020503102/</link>
+			<description><![CDATA[　日本オラクルは2018年2月5日、複数のクラウド利用を想定したセキュリティ対策サービスに人工知能（AI）を使った製品を追加し、拡充すると発表した。]]></description>
+			<pubDate>Mon, 05 Feb 2018 20:18:58 +0900</pubDate>
+		</item>
+		<item>
+			<title>LPI-JapanがLinuxの新資格「LinuC」を立ち上げ、LPICは継続（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020503101/</link>
+			<description><![CDATA[　LPI-Japanは2018年2月5日、日本の市場に最適化した新たな「Linux技術者認定試験 LinuC（リナック）」を新設した。同社が国内提供するカナダLPIの「LPIC」認定に代わる民間資格として育てる。同日に申し込みを受け付け、同年3月1日から試験を始める。]]></description>
+			<pubDate>Mon, 05 Feb 2018 20:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
