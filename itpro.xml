@@ -269,5 +269,39 @@
 			<description><![CDATA[　相乗りタクシーの実証実験が始まって2週間、事業者の当初の想定とは異なる需要が浮かび上がってきた。実験の途中経過から見えてきたのは終電難民ではなく街中のチョイ乗りだ。]]></description>
 			<pubDate>Tue, 06 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>オープンソースの誕生から20年、期待ほど変わらなかった世界（前）（オープンソースの誕生から20年、期待ほど変わらなかった世界）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　オープンソースの正式な誕生から、20年が経過した。誰かお気づきになっただろうか。実のところ、認識はされていない。オープンソースほどの革新的な存在となると、あらゆるソフトウエアの開発、販売、流通のあり方が変わったはずだと思うだろう。しかし、オープンソースの20周年を盛大に祝おうと計画している面々にはお気の毒ながら、そうはならなかった。すなわち、ソフトウエアは変わらなかった。大半の開発者にとって、ほとんどのソフトウエアはいまだに断固としてプロプライエタリだ。</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　一方、この20年で変わったのは、ソフトウエアを巡る言説だ。今では、ソフトウエアをオープンソース化しても世界は終わらない、とか、だからオープンソース化すべきだ、という考え方にも違和感は覚えない。もっとも、実際にソースをオープン化する部分に関しては、今後20年の取り組みとなる。</p>
+
+<h4>インフラは変えたがソフトウエアは変えなかったオープンソース</h4>
+
+<p>　Eric Raymond氏は1999年、ソフトウエアの95％は販売するためではなく利用するために開発されているのだから、オープンソース化は可能であり、オープンソース化すべきだと主張した。しかし、現在もそうはなっていない。そうしたコードのほぼすべてが今もクローズドのままだ。</p>
+
+<p>　米Open Source Initiativeが「オープンソース」という言葉を正式に打ち出してから10年がたった時点でも、状況にあまり大きな変化はなかった（ちなみに筆者は、かつてOpen Source Initiativeの委員を務めていた）。実際、米Red HatのJim Whitehurst最高経営責任者（CEO）は、2008年のイベント「Red Hat Summit 2008」で次のように述べ、エンタープライズソフトウエアの無駄を公然と非難した。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000001/?ST=cm-software&P=2">「現在開発されているソフトウエアの大多数は、企業の中で開発されて...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000001/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000001/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000001/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 06 Feb 2018 06:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
