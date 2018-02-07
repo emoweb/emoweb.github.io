@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>ITでゴルフ上達にコミット、RIZAPがソニーと新サービス（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020603109/</link>
-			<description><![CDATA[　RIZAPグループは2018年2月6日、傘下のRIZAPイノベーションズがソニーと共同開発したITを活用したゴルフレッスンサービス「RIZAP GOLF LESSON System」を2018年4月1日に始めると発表した。]]></description>
-			<pubDate>Tue, 06 Feb 2018 17:10:59 +0900</pubDate>
-		</item>
-		<item>
 			<title>セッションとコネクションは何が違う？（意外と知らないネットワーク用語の違い）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011900625/011900010/</link>
 			<description><![CDATA[　ネットワークの用語には、わかりづらいものが多い。そこで本特集では、似たようなネットワーク用語をペアにして紹介して違いを解説する。今回は「セッション」と「コネクション」だ。]]></description>
@@ -277,6 +271,44 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/012900635/012900004/</link>
 			<description><![CDATA[　最新のWebブラウザーには、処理性能の改善のほかにも、将来役立ちそうな新機能を搭載している。そのいくつかを紹介しよう。]]></description>
 			<pubDate>Thu, 08 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>オープンソースの誕生から20年、期待ほど変わらなかった世界（後）（オープンソースの誕生から20年、期待ほど変わらなかった世界）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　オープンソースの正式な誕生から、20年が経過した。誰かお気づきになっただろうか。実のところ、認識はされていない。オープンソースほどの革新的な存在となると、あらゆるソフトウエアの開発、販売、流通のあり方が変わったはずだと思うだろう。しかし、オープンソースの20周年を盛大に祝おうと計画している面々にはお気の毒ながら、そうはならなかった。すなわち、ソフトウエアは変わらなかった。大半の開発者にとって、ほとんどのソフトウエアはいまだに断固としてプロプライエタリだ。</p>
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000001/" target="_blank">前回</a>から続く）</p>
+
+<h4>口では支持するも費用で尻込みする各社</h4>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000002/ph2.jpg" width="300" alt="" title=""></div></div>
+
+<p>　米Apache Software Foundationの初期の理事で、米Sourcepointの最高技術責任者（CTO）を務めるGeir Magnusson氏からは、Twitterで次のようなコメントが寄せられた。</p>
+
+<p>　「差別化に関係しない部分やインフラ関連では、（オープンソースが及ぼした）インパクトは非常に大きい。だが、（Eric Raymond氏が言う）『95％のソフトウエア』は、特定企業のニーズや個別の具体的なニーズに合わせてカスタムメイドで開発された、つまらない代物が多い。そのニーズが本物にせよ、主観的なものにせよ」</p>
+
+<p>　依然としてクローズドのままのコードはたくさんあるが、そのコードを目にしなくてよいことを、我々はありがたく思うべきかもしれない。なぜなら、開発元の企業以外にとっては、少々役立たずのコードだからだ。こうしたコードもオープンソース化が可能かと聞かれれば、答えはイエスだ。しかし、オープンソース化すべきかと聞かれたら、答えに窮する。</p>
+
+<p>　また、コードのオープンソース化には、まぎれもなくコストがかかる。Red Hatのストラテジスト、Dave Neary氏からは、「（開発したコードの）唯一のユーザーにとって、（オープンソース化の）恩恵は少ない」とのコメントがあった。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000002/?ST=cm-software&P=2">さらに、米CapitalOneの元シニアディレクターで、Apac...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000002/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000002/?ST=cm-software&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000002/?ST=cm-software&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 08 Feb 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
