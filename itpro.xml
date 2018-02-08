@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?n08</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>セッションとコネクションは何が違う？（意外と知らないネットワーク用語の違い）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011900625/011900010/</link>
 			<description><![CDATA[　ネットワークの用語には、わかりづらいものが多い。そこで本特集では、似たようなネットワーク用語をペアにして紹介して違いを解説する。今回は「セッション」と「コネクション」だ。]]></description>
@@ -387,6 +381,18 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020803122/</link>
 			<description><![CDATA[　KDDI（au）は2018年2月8日、資産形成分野で大和証券グループ本社と資本業務提携したと発表した。1月4日付で設立した共同出資会社を通じ、スマートフォンのアプリで気軽に始められる資産運用サービスを開発、提供する。]]></description>
 			<pubDate>Thu, 08 Feb 2018 13:59:39 +0900</pubDate>
+		</item>
+		<item>
+			<title>東電がIoTで火力発電所の故障減少、1基当たり年7000万円の燃料削減も（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020803124/</link>
+			<description><![CDATA[　東京電力ホールディングス（東電HD）と東京電力フュエル＆パワー（東電FP）は2018年2月7日、火力発電所におけるIoT（インターネット・オブ・シングズ）システムの試験運用により、故障による運転停止を削減し、併せて燃料使用量も削減する効果があったと発表した。]]></description>
+			<pubDate>Thu, 08 Feb 2018 16:44:35 +0900</pubDate>
+		</item>
+		<item>
+			<title>三菱UFJニコスのシステム障害の原因が判明、3個のHDDが同時に故障（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020803126/</link>
+			<description><![CDATA[　三菱UFJニコスは2018年2月7日、2017年末に発生したシステム障害の原因や影響範囲などについて発表した。同社のクレジットカード「NICOSカード」の基幹システムで、ハードディスク（HDD）が3個故障したのが原因だ。]]></description>
+			<pubDate>Thu, 08 Feb 2018 16:55:16 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
