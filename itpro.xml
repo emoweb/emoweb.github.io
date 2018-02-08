@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d09</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>広告主はネットと放送の進捗をクロスチャネルで追跡できる時代に（メディアビジネス最前線）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/379554/020100028/</link>
 			<description><![CDATA[　広告主が投入した広告がターゲットにどれだけリーチし、どういった反応を起こしているのか──。ネットの世界では当たり前のように、リアルタイムに近い形で広告主がデジタル広告の成果を状況把握するためのツールがどんどん誕生し進化している。いよいよ、テレビCMでも同様のアプローチが可能になってきた。]]></description>
@@ -269,6 +275,40 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/020700069/</link>
 			<description><![CDATA[　「Oreo」ことAndroid 8.0の「メンテナンスリリース」となるAndroid 8.1（Oreo MR1）が、2017年末に正式公開されました。アプリから利用できるAndroidの機能を示す「APIレベル」番号が更新され、内部的な変更がありました。夏に正式版の配布、年末までに改良版という様式が定着しつつあるようです。]]></description>
 			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ブロックチェーンが実現する自己証明型身分証明とは（下）（ブロックチェーンが実現する自己証明型身分証明とは）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　インターネットで形成された興味深い用語の1つが「IDプロバイダー」だ。人は本来、自分の身元を誰かに提供してもらう必要はない。生まれながらに自分は自分である。それでも、いわゆるIDプロバイダーは、その人を表すIDと、そのプロバイダーにとって重要な属性を記録しておく手段、そして、何らかの本人証明の仕組み（通常はパスワード）を提供している。</p>
+
+
+<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000002/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000003/ph3.jpg" width="300" alt="" title=""></div></div>
+
+<p>　免許取得者は、財布にあたるウォレットにこのクレームを保持する。そして、自らもこのデジタル免許証に署名する。署名に使う鍵は、ブロックチェーン上にある本人の非一元的IDとリンクしている。このIDは本人の制御下にある。バーで年齢確認が必要な時は、このデジタル免許証を提示する。バー側は、その免許が改ざんされていないこと、DMVが本人に発行した免許であること、提示しているのがその本人であることを確認できる。ブロックチェーンを使って、非一元的IDを皆が検索でき、また対応する公開鍵を取得できる。</p>
+
+<p>　もちろん、クレームの発行元は、組織でも個人でもよく、どのようなクレームを発行するかは好きなように決められる。また、クレームの取得者は、自分が必要と思うクレームはどれでも自由にウォレットに入れておける。そして、提示されたクレームを検証する者は、どのクレームを信用するかは自らの判断で決められる。こうした選択を分権化することによって、汎用的な自己証明型身分証明システムの実現に必要な柔軟性が確保される。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000003/?ST=cio-security&P=2">IDシステムが自己証明型であるためには、以下の重...</a></p>
+<div>
+<p class="pages">
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000003/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000003/?ST=cio-security&P=2">2</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000003/?ST=cio-security&P=3">3</a>
+<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 09 Feb 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
