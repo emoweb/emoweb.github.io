@@ -5,226 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：スマホをパソコンに変えるドック　悲しいほどの実用度（週末スペシャル）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/122800378/?n09</link>
-			<description><![CDATA[　ユーザー視点の辛口評価で好評の戸田覚氏が、サムスンの「DeX Station」をレビューする。挿し込むだけでGalaxyがデスクトップPCになるという製品だが、想像以上に実用的で驚いたと戸田氏は言う。]]></description>
-			<pubDate>Fri, 05 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>セッションとコネクションは何が違う？（意外と知らないネットワーク用語の違い）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/011900625/011900010/</link>
-			<description><![CDATA[　ネットワークの用語には、わかりづらいものが多い。そこで本特集では、似たようなネットワーク用語をペアにして紹介して違いを解説する。今回は「セッション」と「コネクション」だ。]]></description>
-			<pubDate>Wed, 07 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>常識破りの高速化技術、Webブラウザーの最新事情（徹底解剖！最新Webブラウザー）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/012900635/012900003/</link>
-			<description><![CDATA[　今回は、最新Webブラウザーの高速化手法について見ていこう。Webブラウザーの処理速度を向上させる工夫や通信の改良など、あらゆる手を尽くして高速化を図っている。]]></description>
-			<pubDate>Wed, 07 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIが生み出す21個の新たな職業、検討する価値アリ？（記者の眼）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/013001004/</link>
-			<description><![CDATA[　人工知能（AI）が将来的に、新たな職業や雇用を生み出すことは十分あり得る。ただ現時点で、新たな職業がどのような姿になるのかをイメージするのは難しい。そこでヒントになりそうなのが、米コグニザントの「21 Jobs of the Future」というレポートだ。]]></description>
-			<pubDate>Wed, 07 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>RFPのないシステム開発、求められる新たなSI体制（デジタルシフトを急げ）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/012600633/012900004/</link>
-			<description><![CDATA[　デジタル案件の増加に伴い、SIベンダーもデジタルシフトを急ぐ。新サービス創出に向けて、デザイン思考とアジャイル開発を組み合わせる手法が広まってきた。スクラム（Scrum）開発を取り入れるSIベンダーも増えている。RFPを前提としない開発を進めるには、新たなSI力が必要だ。]]></description>
-			<pubDate>Wed, 07 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「企画が心に響かない」と嘆く上司、三方よしの着想術を学ぶ（脱・ザンネン社員）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/030200057/020100024/</link>
-			<description><![CDATA[　買い手と売り手、社会の三方が満足する「三方よし」のビジネス企画は、メディアや自治体、国の支援を受けられ、ビジネスを拡大させやすい。三方よしの企画を着想しやすくなる「三方メリット分析法」を解説する。]]></description>
-			<pubDate>Wed, 07 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>それを確認するのは単体テスト？結合テスト？混乱しがちなテストレベル（駄目なテストの回避策）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/110200480/013100007/</link>
-			<description><![CDATA[　外注先から納品された単体テスト済みモジュールで、結合テストの段階でバグがたくさん発見された。本来、単体テストで摘出すべきバグなのに――。システム開発の現場では、こうした問題がよく起こる。「どこからどこまで何をテストするのかが単体テストか」という認識が、元請け企業と下請け企業の間で異なるのが原因だ。]]></description>
-			<pubDate>Wed, 07 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>強いチームを作る鍵の1つは暗黙知、もう1つは？（岡大勝のプロジェクトお悩み相談室）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900109/012600014/</link>
-			<description><![CDATA[　管理強化による束縛、ノウハウの精緻な文書化は今となってはよい方法ではないと思います。2つの面で「強いチーム」を目指した方がいいでしょう。1つは退職などの突発事態に耐えられる組織、もう1つは退職したいと思われない組織です。]]></description>
-			<pubDate>Wed, 07 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>攻撃を再現して驚いた！ Skypeなど多数のアプリにあまりに致命的な脆弱性（ニュース解説）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/020501301/</link>
-			<description><![CDATA[　米マイクロソフトの「Skype for Windows」や米スラックの「Slack」といった多くのソフトウエアに深刻な脆弱性が見つかった。この脆弱性を悪用すると、ユーザーが特定のURLにアクセスするだけで、攻撃者が指定した任意のプログラムが実行されてしまう。]]></description>
-			<pubDate>Wed, 07 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IoT時代のYahoo! BBになれるか？日本初全国展開LoRaWANプロバイダーの挑戦（山崎潤一郎のデジタル危険地帯）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/080600035/020200041/</link>
-			<description><![CDATA[　「IoT時代のYahoo! BB」の登場か──。3月にIoTデバイス向けの通信接続サービス開始を予定しているスタートアップ企業、センスウェイの取材を終えたときの感想だ。]]></description>
-			<pubDate>Wed, 07 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>一流メーカーへの転職は「地方」が狙い目（転職の新常識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/020100639/020500003/</link>
-			<description><![CDATA[　海外勢との激しい競争にさらされる製造業。新製品の開発スピードを高め、性能や品質も確保するために、技術系人材の獲得に熱を入れている。製造系のエンジニアが転職を成功させるためのポイントを聞いた。]]></description>
-			<pubDate>Wed, 07 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ディスプレイ活用の最善手といえば、やっぱりマルチディスプレイ（ディスプレイ選択の新常識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/013000637/020500003/</link>
-			<description><![CDATA[　ノートパソコンに外付けの液晶ディスプレイを接続するなら、是非とも試してほしい使い方がある。それは「マルチディスプレイ」機能だ。]]></description>
-			<pubDate>Wed, 07 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>MSのクラウド売上高がAWSを上回る？米IT大手の17年10～12月期決算（シリコンバレーNextレポート）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/061500148/020600153/</link>
-			<description><![CDATA[　パブリッククラウドの競争がますます激化している。米IT大手が2018年2月初旬までに発表した17年10～12月期決算では、米Microsoftのパブリッククラウド事業の売上高が米Amazon.comのそれを上回り、米IBMの同事業も年間100億ドル（約1兆900億円）の大台を超えた。]]></description>
-			<pubDate>Wed, 07 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>いきなり本番導入は禁物！ 「試行」がRPAツール導入成功の鍵（ゼロから分かるRPA）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/080700333/020200006/</link>
-			<description><![CDATA[　RPAの活用を成功に導くために、正しく「RPAツール」を導入していく必要がある。今回から3回で、RPAツール導入時のポイントを具体的に説明する。今回は「試行導入」を中心に取り上げたい。]]></description>
-			<pubDate>Wed, 07 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ブロックチェーンが実現する自己証明型身分証明とは（中）（ブロックチェーンが実現する自己証明型身分証明とは）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　インターネットで形成された興味深い用語の1つが「IDプロバイダー」だ。人は本来、自分の身元を誰かに提供してもらう必要はない。生まれながらに自分は自分である。それでも、いわゆるIDプロバイダーは、その人を表すIDと、そのプロバイダーにとって重要な属性を記録しておく手段、そして、何らかの本人証明の仕組み（通常はパスワード）を提供している。</p>
-
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000001/" target="_blank">前回</a>から続く）</p>
-
-
-<h4>オンラインIDの問題点</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　オフラインの現実社会では、身元を証明できる紙やカードを本人が携帯するという形で、自己証明型身分証明が見事に機能している。だが、同じような自己証明型身分証明をオンラインで実現するのは、はるかにハードルが高い。オンラインIDは、次に挙げる5つの現実的問題に直面している。</p>
-
-<ul>
-<li>距離の問題：相手との距離が離れている場合、詐欺が入り込む余地が大きい。</li>
-<br>
-<li>規模の問題：オンラインのIDシステムは、証明機関との業務提携やシステム間連携を基盤としている。いずれも多大な費用がかかり、価値が高い用途でのみ適用されている。</li>
-<br>
-<li>柔軟性の問題：現在のIDシステムは柔軟性に乏しく、図式や用途が決まっている。</li>
-<br>
-<li>プライバシーの問題：ブラウザーのCookieのように、共通の識別子を使うことにより、個人情報の収集や関連づけを、利用者の知らないところで行える。また、たび重なるハッキングの事例から明らかなように、膨大な個人情報を一元的に保存した場所には危険が伴う。</li>
-<br>
-<li>同意の問題：IDシステムは、メールアドレス、電話番号、社会保障番号など、汎用的な識別子を基盤としていることから、本人の許可なく第三者が行動のひも付けや追跡を簡単に行える。</li>
-</ul>
-
-<p>　自己証明型身分証明システムは、分権化と暗号技術を利用して、こうした問題を解決する。これまでIDの非一元化が難しかったのは、身分証明を機能させるための基本的要件の1つである「探索」があったためだ。対象者本人が提示したIDを探索して見つけ出す必要がある。そこで、ディレクトリーを一元化するのがこれまでの常であり、したがってIDシステムも一元的だった。</p>
-
-<p>　だが、ブロックチェーンの登場ですべては一変した。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000002/?ST=cio-security&P=2">IDのジレンマをブロックチェーンが解決</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000002/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000002/?ST=cio-security&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000108/013000002/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 07 Feb 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ファーウェイの高コスパ機に後継モデル、「nova lite 2」レビュー（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020703110/</link>
-			<description><![CDATA[　華為技術日本（ファーウェイ・ジャパン）は2018年2月7日、SIMロックフリースマートフォンの新モデル「HUAWEI nova lite 2」を発表した。価格は25980円（税別）で、国内10社のMVNOから発売予定となっている。]]></description>
-			<pubDate>Wed, 07 Feb 2018 10:03:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>.NET Core 2.1、プレビュー版が間もなく登場、新機能は（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/020700467/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftは、クロスプラットフォームでオープンソースの.NETソフトウエア開発・実行環境「.NET Core」に関して、次期バージョン「.NET Core 2.1」のリリースに向けた準備を進めている。バージョン2.1では、ビルド時間の短縮や、ツールなどに関する改良が予定されている。
-</p>
-<h4>
-.NET Core 2.1のリリース時期
-</h4>
-<p>
-　.NET Core 2.1は、プレビュー版のリリースが2018年2月から始まり、正式版は2018年夏までに登場する予定だ。
-</p>
-<h4>
-.NET Core 2.1の改良点と新機能
-</h4>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/020700467/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　.NET Core 2.1は、従来の2.0や1.0に比べて、ビルドの所要時間が大幅に短くなるとMicrosoftは表明している。特にインクリメンタルビルドで顕著とのことだ。
-</p>
-<p>
-　ビルドの高速化は、コマンドラインの「dotnet build」コマンドと、Visual Studioでのビルドのどちらにも当てはまる。Microsoftは、CLIとMSBuildの両方のツールを改良し、パフォーマンスを高めた。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/020700467/?ST=cm-software&P=2">このほか、.NETCore2.1では、次のような改良や新機能が予...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/020700467/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/020700467/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/020700467/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 07 Feb 2018 10:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>NECが持ち運べる顔認証専用機「NeoFace Access Control」（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020703111/</link>
-			<description><![CDATA[　NECは2018年2月7日、顔認証／ICカード認証で入退管理ゲートなどを制御する専用機「NeoFace Access Control」の販売を始めた。カメラとICカードリーダー、タッチパネル、顔認証ソフトを一体化。設置の容易さを生かし、既存ゲートへの増設やイベント会場での一時利用などを見込む。]]></description>
-			<pubDate>Wed, 07 Feb 2018 14:04:36 +0900</pubDate>
-		</item>
-		<item>
-			<title>JOCDN、サーバー側広告挿入で動画配信プラットフォーム2社と相互接続性を実証（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020703113/</link>
-			<description><![CDATA[　JOCDNは2018年2月7日、英Yospace TechnologiesおよびブライトコーブのSSAI（Server-Side Ad Insertion）ソリューションと連携したインターネットライブ配信を実施、JOCDNが提供するCDNサービスとの相互接続性実証が完了したと発表した。 ]]></description>
-			<pubDate>Wed, 07 Feb 2018 15:58:48 +0900</pubDate>
-		</item>
-		<item>
-			<title>機械学習活用の課題を個別に提案、Clouderaが戦略発表（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020703114/</link>
-			<description><![CDATA[　Cloudera日本法人は2018年2月7日、2018年のビジネス戦略に関する説明会を開いた。エンジニアやコンサルタントなどの人員を増やしたり、日本人スタッフによるサポートサービスを提供したりしていくことなど、今後の取り組み内容を明かした。]]></description>
-			<pubDate>Wed, 07 Feb 2018 17:05:08 +0900</pubDate>
-		</item>
-		<item>
-			<title>WILLERがバス運転手向けIoTセンサーで事故損失額74％減（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020703115/</link>
-			<description><![CDATA[　高速バス大手のWILLER EXPRESS JAPANは2018年2月7日、IoT（インターネット・オブ・シングズ）を活用した乗務員の健康管理に関する方針の説明会を開催した。平山幸司代表取締役は「疲れや眠気を検知するIoT機器を1年半ほど運用し、事故削減に目覚ましい効果が出ている」と述べた。]]></description>
-			<pubDate>Wed, 07 Feb 2018 19:01:13 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソフトバンク決算は増収増益、携帯子会社の上場で「財務基盤の強化と成長狙う」と孫氏（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020703116/</link>
-			<description><![CDATA[　ソフトバンクグループは2018年2月7日、国内で携帯電話事業を営む子会社ソフトバンクを株式上場させる準備に取り掛かると発表した。上場により、世界中の有力なベンチャー企業への投資を担うソフトバンクグループと、通信会社であるソフトバンクの役割を明確に分け、グループ全体の企業価値を高める。]]></description>
-			<pubDate>Wed, 07 Feb 2018 19:07:14 +0900</pubDate>
-		</item>
-		<item>
-			<title>携帯子会社ソフトバンクの社長は上場後も「宮内」、孫氏が明言（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020703118/</link>
-			<description><![CDATA[　ソフトバンクグループの孫正義会長兼社長は2018年2月7日、国内で携帯電話事業を営む子会社ソフトバンクを株式上場させた後のソフトバンクの経営体制について「社長は引き続き宮内（謙社長）。私は会長に就く」と述べた。同日に開いた決算発表会で明かした。]]></description>
-			<pubDate>Wed, 07 Feb 2018 19:43:52 +0900</pubDate>
-		</item>
-		<item>
 			<title>広告主はネットと放送の進捗をクロスチャネルで追跡できる時代に（メディアビジネス最前線）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/379554/020100028/</link>
 			<description><![CDATA[　広告主が投入した広告がターゲットにどれだけリーチし、どういった反応を起こしているのか──。ネットの世界では当たり前のように、リアルタイムに近い形で広告主がデジタル広告の成果を状況把握するためのツールがどんどん誕生し進化している。いよいよ、テレビCMでも同様のアプローチが可能になってきた。]]></description>
@@ -423,6 +203,72 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020803123/</link>
 			<description><![CDATA[　ソフトバンクは2018年2月8日、スポーツ映像のライブ配信サービス「スポナビライブ」の提供を2018年5月31日に終了すると発表した。新規申し込みの受け付けも2月13日で終了する。]]></description>
 			<pubDate>Thu, 08 Feb 2018 21:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIよりも圧倒的な求人ニーズ、既存技術に強いエンジニア（デジタルシフトを急げ）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/012600633/012900006/</link>
+			<description><![CDATA[　ITエンジニアの不足が深刻化する一方で、企業がエンジニアに求める技術が高度になってきた。AI（人工知能）やIoT（Internet of Things）など新しい技術を使った開発ニーズの高まりなどが背景にある。エンジニアは今後どんなスキルを身に付ければよいのか、転職はどう考えるべきなのか解説する。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>富士通のAI「ふくまろ」にはPCならではの機能があった（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/020600388/</link>
+			<description><![CDATA[　ユーザー視点の辛口評価で好評の戸田覚氏が、富士通のパソコンが搭載するAIツール「ふくまろ」を体験。最近はやりのスマートスピーカーがあればいいように思うが、パソコンならではの機能もあった。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本初上陸！世界4位、中国OPPOのスマホ最速レビュー（週末スペシャル）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/255608/020600387/</link>
+			<description><![CDATA[　日本市場参入を発表した中国のスマートフォンメーカー、OPPO。第1弾として投入したスマホは、高性能カメラと流行の機能を取り入れたユニークなものだった。携帯電話ライターの佐野正弘氏がレビューする。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Swift Playgroundsはプログラミング教育必修化を救うか（ITpro Report）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/090100053/020700312/</link>
+			<description><![CDATA[　2020年度から小学校でプログラミング教育が必修化されることはご存知だろう。必修化といっても、プログラミングが新教科として設けられるわけではない。どの教科でどう教えるかは学校や教師の裁量で決めてよいことになっている。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>大企業の意外すぎるワクワク感、デジタル秘密基地に潜入してみた（記者の眼）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/020701009/</link>
+			<description><![CDATA[　小さい頃、特に男の子であれば秘密基地に見立てた遊び場を持っていたのではないだろうか。記者は廃トラックの運転席や公園の洞穴がそうだった。2018年1月、何十年かの時を経て、秘密基地に来たようなワクワク感を覚えた。名古屋に本社を構える中部電力に取材したときのことだ。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ノートと一緒に持ち運ぶ！小型モバイルディスプレイがとにかく便利（ディスプレイ選択の新常識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/013000637/020700005/</link>
+			<description><![CDATA[　最近は、モバイル環境で使えるコンパクトな液晶ディスプレイが人気だ。こうしたモバイル液晶ディスプレイのパネルサイズは10～15型で小さく、容易にノートパソコンと一緒に持ち歩ける。必要な設置面積も少ないので、喫茶店やホテルなど設置スペースが狭い場所でも利用しやすい。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>これで2万円台は激安！縦長画面と3キャリア対応が魅力の「Wiko VIEW」（SIMフリースマートフォンを徹底レビュー）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/120300274/020700057/</link>
+			<description><![CDATA[　今回紹介するSIMロックフリースマートフォンは、Wiko（ウイコウ）の「VIEW」という端末だ。Wikoはフランス・マルセイユを拠点とするスマートフォンメーカー。2011年創業とまだ歴史は浅いものの、割安感とカジュアルなデザインが若者を中心に支持され、特に西欧で人気を集めている。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>公共交通分野で大規模オープンデータ活用コンテスト、品質に課題も（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/020701303/</link>
+			<description><![CDATA[　首都圏の鉄道やバス、航空事業者など計24社・団体が公開したデータを活用したアプリケーションやアイデアに関するコンテスト「東京公共交通オープンデータチャレンジ」が開催されている。国内の公共交通分野のデータ公開としてはかつてない規模だ。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>サーバー証明書トップシェアなのに無名、新生デジサートの苦悩（ニュース解説）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/346926/020801304/</link>
+			<description><![CDATA[　米デジサートは、企業向けSSLサーバー証明書発行で世界のトップシェアを誇る。しかし、「デジサート」に聞き覚えのない読者は少なくないだろう。同社は五つ以上のブランドの証明書を発行しているのにもかかわらず、その多くに「デジサート」の文字が入っていないためだ。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Android 8.1で使えるようになった3つの新機能を早速試す（塩田紳二のモバイルトレンド）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/15/051100118/020700069/</link>
+			<description><![CDATA[　「Oreo」ことAndroid 8.0の「メンテナンスリリース」となるAndroid 8.1（Oreo MR1）が、2017年末に正式公開されました。アプリから利用できるAndroidの機能を示す「APIレベル」番号が更新され、内部的な変更がありました。夏に正式版の配布、年末までに改良版という様式が定着しつつあるようです。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
