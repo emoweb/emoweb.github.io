@@ -5,51 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Google、ミニ動画アプリMotion StillsにARモードを追加。ARCore不要で幅広い機種に対応
-</title>
-			<link>http://japanese.engadget.com/2018/02/07/google-motion-stills-ar-arcore/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/8968de63597cd7b917fa91e11918b02/206101739/2018-02-07+12.03.08.jpg" />
-GoogleがAndroid向けのMotion StillsにAR(Argumented Reality：拡張現実)モードを追加しました。
-
-Motion StillsはGoogle Research名義でリリースされているアプリで、1タップで3秒、早送りモードで最長1分のミニ動画を撮影できるもの。2016年にまずiOS版がリリースされ、それから1年遅れて2017年7月にAndroid版がリリースされました。Motion Stillsの技術は、昨年末に発売されたPixel 2の標準カメラにも組み込まれています。
-
-今回新たに追加されたARモードはAndroidのみの対応ながら、画面内の平面を認識しそこにARオブジェクトを配置できます。平面の位置を認識することで、カメラを動かしてもオブジェクトの位置がずれたりせず、あたかもその場に存在するかのように描画します。
-
-
-このような処理は、Googleが昨年発表したARCoreが得意とするところですが、ARCoreは、Pixel 2やGalaxy Note8/S8などごく一部の機種でしか利用できません。
-
-このため、Motion StillsのARモードでは、「Instant Motion Tracking」という別の技術が使われています。
-
-しくみは、まず画面をタップした際に、加速度センサーを用いて画面内の水平を認識。ARオブジェクトを水平に配置します。その後、端末の動きを計測できるジャイロスコープを利用し、オブジェクトのサイズや向きなどを適切に変更していきます。
-
-一度に配置できるオブジェクトが1つだけといった制限こそあるものの、ジャイロスコープを搭載するほとんどAndroid端末で使えるのがARCoreに比べて優れた点と言えるでしょう。もちろん、ARモードで撮影した動画はGIFやMP4に書き出してSNSなどでシェアしたりもできます。
-
-機能的にはARCoreに遠く及ばないものの、手軽にARを利用できるという点では今後の展開に期待したい技術です。
-
- ]]></description>
-			<pubDate>Wed, 07 Feb 2018 02:30:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    シュワルツェネッガーがAmazonプライムの西部劇に主演へ。善と悪の狭間に置かれる保安官役
-</title>
-			<link>http://japanese.engadget.com/2018/02/07/amazon/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/1398e7a6d4e76cb093bd28e6ee73d643/206101845/as.jpg" />
-ジェームズ・キャメロン、リンダ・ハミルトンが復帰する事になっている映画「ターミネーター」の新作公開は2019年の予定です。しかしアーノルド・シュワルツェネッガーは、その前にAmazonプライム・ビデオが製作する西部劇ドラマ「Outrider」に主演します。
- ]]></description>
-			<pubDate>Wed, 07 Feb 2018 03:00:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    レノボ、第5世代ThinkPad X1 Carbonをリコール。バッテリー異常発熱による破損のおそれ
-</title>
-			<link>http://japanese.engadget.com/2018/02/07/5-thinkpad-x1-carbon/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/d6782ea5d71cb2cfe9784b823f460f83/206102122/tpx1c.jpg" />
-レノボは2月7日、モバイルノートPCの人気モデル ThinkPad X1 Carbon(第5世代)の一部製品をリコールすると発表しました。バッテリーの異常な発熱により、製品の一部が破損する事故が全世界で3件（日本では1件）発生しているとのこと。レノボは無償点検を行い、異常を確認した場合には内蔵バッテリーの交換修理を実施します。
-
- 
- ]]></description>
-			<pubDate>Wed, 07 Feb 2018 03:50:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    ソフトバンク宮内社長、LINEモバイルとの提携にコメント。ワイモバイルとの棲み分けに自信
 </title>
 			<link>http://japanese.engadget.com/2018/02/07/line/</link>
@@ -427,6 +382,78 @@ Fax： 03-6280-5881
 <p><a href="http://japanese.engadget.com/gallery/-456/" title="通知バナーが消えないよう設定する方法">【ギャラリー】通知バナーが消えないよう設定する方法 (5枚)</a></p>
  ]]></description>
 			<pubDate>Thu, 08 Feb 2018 22:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Twitterが創業以来、初の黒字を記録。使い勝手が「劇的に改善」との指摘もあり
+</title>
+			<link>http://japanese.engadget.com/2018/02/08/twitter/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/52346676913e564d4286a7793bbeca3/206109330/twitter2.jpeg" />
+Twitterが創業から12年、初の黒字を記録したことを報告しました。2017年の第4四半期の売上高は7億3200万ドル、前年同期の2％増で9100万ドルの純利益を計上したとのこと。
+
+売上の中では、特にビデオ広告の伸びがめざましかったとされています。2017年通年の純損失も1億800万ドルで、2016年の1億6700万ドルから縮小しており、こちらも黒字化の見通しが開かれてきた格好です。
+ ]]></description>
+			<pubDate>Thu, 08 Feb 2018 23:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    速報：FREETELは健在。2眼カメラの新スマホ「REI 2 dual」、エントリー「Priori 5」発表
+</title>
+			<link>http://japanese.engadget.com/2018/02/08/freetel-2-rei-2-priori-5/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/638979c02ce1e6522e3553701605d62/206109384/DSC00633.jpg" />
+民事再生を申請し、格安SIM事業を楽天に売却したプラスワン・マーケティング。端末事業はMAYA SYSTEMに譲渡しており、同社もとで「FREETEL」ブランドの端末開発が継続しています。
+
+そんな新生・FREETELが本日（2月9日）に記者発表会を開催。新型スマートフォン「REI 2 dual」「Priori 5」を発表しました。
+FREETEL REI 2 dual
+
+
+
+
+
+
+
+
+
+ 
+FREETEL Priori 5
+
+
+
+
+
+なお、MAYA SYSTEM傘下となったFREETELですが、端末サポートはこれまでどおり継続するとしています。
+
+
+
+（発表会進行中につき更新中）
+ ]]></description>
+			<pubDate>Thu, 08 Feb 2018 23:50:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    DeX Padの画像流出。Galaxy S9がタッチパッドになる新型 DeXステーション
+</title>
+			<link>http://japanese.engadget.com/2018/02/08/dex-pad-galaxy-s9-dex/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/ff31e922027936e07cf71759f5a136ea/206109256/dexpad.jpg" />
+サムスンが2月25日に発表予定の次期フラッグシップ Galaxy S9。同時発表が噂されている新製品 DeX Padとされる画像が出てきました。公開したのはモバイル製品のリークで知られる evleaks こと Evan Blass氏。1月末にはGalaxy S9の画像も公開しています。
+
+Galaxy S9もGalaxy S8やNote8同様、ディスプレイを繋ぎデスクトップPCのように利用できる「DeX」への対応が見込まれます。そのためのドックの新製品とされるのがこの DeX Pad です。
+
+ 
+Galaxy S8 / S8+をデスクトップPC風にするDeX Station実機レビュー、念願のノートPCレス出張もマウスは必要
+
+
+流出した画像を見てみると、従来のスタンド型とは違い横に寝かせて使用することがわかります。手前に見えるポート類は標準サイズのUSB x 2、USB Type-C x 1、HDMI x1。また冷却用のファンも備えているようです。
+
+
+
+もしトラックパッドだけではなく、キーボードとしても使えるのであれば、出先で利用するためにマウスやキーボードを持ち運ぶ必要がなくなり、DeX Station以上に活躍の機会は増えるかもしれません。
+
+なお、今回の画像でもう一つ注目すべきなのは、接続されているGalaxy S9らしき端末です。この画像が正しいのであれば、S9には3.5mmジャックがあるようです。
+
+The so-called 'DeX Pad,' first reported here: https://t.co/DowGkJrKUA pic.twitter.com/5hDaR4g5CM
+- Evan Blass (@evleaks) 2018年2月8日
+
+
+ ]]></description>
+			<pubDate>Thu, 08 Feb 2018 23:59:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
