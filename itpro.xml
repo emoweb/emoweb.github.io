@@ -5,86 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>オープンソースの誕生から20年、期待ほど変わらなかった世界（後）（オープンソースの誕生から20年、期待ほど変わらなかった世界）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　オープンソースの正式な誕生から、20年が経過した。誰かお気づきになっただろうか。実のところ、認識はされていない。オープンソースほどの革新的な存在となると、あらゆるソフトウエアの開発、販売、流通のあり方が変わったはずだと思うだろう。しかし、オープンソースの20周年を盛大に祝おうと計画している面々にはお気の毒ながら、そうはならなかった。すなわち、ソフトウエアは変わらなかった。大半の開発者にとって、ほとんどのソフトウエアはいまだに断固としてプロプライエタリだ。</p>
-
-<p>（<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000001/" target="_blank">前回</a>から続く）</p>
-
-<h4>口では支持するも費用で尻込みする各社</h4>
-
-<div><div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　米Apache Software Foundationの初期の理事で、米Sourcepointの最高技術責任者（CTO）を務めるGeir Magnusson氏からは、Twitterで次のようなコメントが寄せられた。</p>
-
-<p>　「差別化に関係しない部分やインフラ関連では、（オープンソースが及ぼした）インパクトは非常に大きい。だが、（Eric Raymond氏が言う）『95％のソフトウエア』は、特定企業のニーズや個別の具体的なニーズに合わせてカスタムメイドで開発された、つまらない代物が多い。そのニーズが本物にせよ、主観的なものにせよ」</p>
-
-<p>　依然としてクローズドのままのコードはたくさんあるが、そのコードを目にしなくてよいことを、我々はありがたく思うべきかもしれない。なぜなら、開発元の企業以外にとっては、少々役立たずのコードだからだ。こうしたコードもオープンソース化が可能かと聞かれれば、答えはイエスだ。しかし、オープンソース化すべきかと聞かれたら、答えに窮する。</p>
-
-<p>　また、コードのオープンソース化には、まぎれもなくコストがかかる。Red Hatのストラテジスト、Dave Neary氏からは、「（開発したコードの）唯一のユーザーにとって、（オープンソース化の）恩恵は少ない」とのコメントがあった。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000002/?ST=cm-software&P=2">さらに、米CapitalOneの元シニアディレクターで、Apac...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000002/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000002/?ST=cm-software&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000002/?ST=cm-software&P=3">3</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/17/013000109/013000002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 08 Feb 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>不動産業界がサイバー詐欺の標的に（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/020800402/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　ソーシャルエンジニアリングによるサイバー詐欺の標的として、不動産業界はいい金づるになりそうだということを、詐欺師たちは探り当てた。そう話すのは、米SecureWorksのシニアセキュリティリサーチャー、Alex Tilley氏だ。
-</p>
-<div>
-<div><img src="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/020800402/ph.jpg" width="300" alt="" title=""></div>
-
-<div>Credit: IDG</div>
-</div>
-<p>
-　Tilley氏は、オーストラリア連邦警察でシニアテクニカルアナリストを務めた経歴を持つ。今回同氏から聞いた話は、オーストラリアの不動産業界についてのものだ。Tilley氏によると、不動産の購入客に対し、取引を担当する不動産業者や法律事務所を装って、入金を求める偽の請求が送られている。被害者の多くは、本物の業者から本物の請求が届いた時に初めて、詐欺に遭ったことに気づくという。
-</p>
-<p>
-　Tilley氏によると、不動産業者やその顧客に対する詐欺の問題は増えつつあるものの、問題に巻き込まれた不動産業者の具体的な数字を示すことはできないという。オーストラリアでは2017年後半になって広がり始めた詐欺だが、海外では数年前から見られたとのことだ。
-</p>
-<p>
-　2016年には、クイーンズランド州カランガーで、豪LJ Hooker系列の不動産会社の従業員に、電力会社を装ったサイバー詐欺のメールが届いた事例があった。プロパティマネージャーがそのメールを開いたところ、悪質なランサムウエアが実行され、社内のパソコン30台とサーバーがダウンした。
-</p>
-<p>
-　2017年10月には、サウスオーストラリア州で、不動産の購入客2人が合わせて100万豪ドル近くをだまし取られる詐欺が起きた。不動産取引の担当弁護士になりすました犯人が、偽の入金先情報をメールで伝えたことによるものだった。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/020800402/?ST=cio-security&P=2">「詐欺師たちは、金のあるところを目指して進んでい...</a></p>
-<div>
-<p class="pages">
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/020800402/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/020800402/?ST=cio-security&P=2">2</a>
-<a href="http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/020800402/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 08 Feb 2018 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ソフトバンク、スイス再保険に一兆円超出資へ交渉（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020803119/</link>
 			<description><![CDATA[　ソフトバンクグループが再保険大手のスイス再保険の株式を取得する交渉を進めていることが2018年2月8日にわかった。一部報道によれば、交渉がまとまれば一兆円を超える出資となる可能性がある。]]></description>
@@ -322,10 +242,22 @@
 			<pubDate>Fri, 09 Feb 2018 13:50:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>営業赤字の日本通信、「主力の通信事業は着実に成長」（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020903134/</link>
+			<description><![CDATA[　日本通信は2018年2月8日、2017年4～12月期の連結決算を発表した。売上高は前年同期比9.2％増の22億4700万円、営業損益は9億4600万円の赤字だった。固定資産の減損処理を行い、12億2000万円の特別損失も計上した。]]></description>
+			<pubDate>Fri, 09 Feb 2018 14:06:30 +0900</pubDate>
+		</item>
+		<item>
 			<title>KDDI、「個人向け世界最速」うたう10GbpsのFTTHサービス（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020903132/</link>
 			<description><![CDATA[　KDDIは2018年2月8日、個人向けFTTHサービス「auひかり ホーム」に、通信速度が上り下りとも最大10Gbpsの「auひかり ホーム10ギガ」と同5Gbpsの「auひかり ホーム5ギガ」を加えると発表した。]]></description>
 			<pubDate>Fri, 09 Feb 2018 15:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ヤマハ、同社初のL3スイッチなど6製品を3月発売（ニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020903135/</link>
+			<description><![CDATA[　　ヤマハは2018年2月9日、企業向けLANスイッチ新製品を3月に発売すると発表した。希望小売価格（税抜き）は7万4800円から。]]></description>
+			<pubDate>Fri, 09 Feb 2018 15:37:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
