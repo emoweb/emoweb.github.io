@@ -5,10 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>東電がIoTで火力発電所の故障減少、1基当たり年7000万円の燃料削減も（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020803124/</link>
-			<description><![CDATA[　東京電力ホールディングス（東電HD）と東京電力フュエル＆パワー（東電FP）は2018年2月7日、火力発電所におけるIoT（インターネット・オブ・シングズ）システムの試験運用により、故障による運転停止を削減し、併せて燃料使用量も削減する効果があったと発表した。]]></description>
-			<pubDate>Thu, 08 Feb 2018 16:44:35 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d13</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>三菱UFJニコスのシステム障害の原因が判明、3個のHDDが同時に故障（ニュース）</title>
@@ -258,6 +258,34 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/011800109/</link>
 			<description><![CDATA[　インターネット・サービス・プロバイダー（ISP）や政府に対して、アプリケーションやコンテンツ、サービスにかかわらずネットワークを流れるトラフィックを平等に扱うことを求める考え方。]]></description>
 			<pubDate>Tue, 13 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIの採用者診断、辞める時期の予測は可能？（前）（AIの採用者診断、辞める時期の予測は可能？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/020700110/020700001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　新たに雇用する社員がいつ辞めそうなのか、採用活動の段階で分かるとしたらどうだろうか。その時期を寸分たがわず予測することはまだできないものの、1年以上働き続けそうな志望者かどうかをパターンマッチングで予測する機能を持つソリューションを、2社のスタートアップがそれぞれ手がけている。この技術が本当に機能するとしたら、会社にとっては、莫大な費用の節約につながる。だが、最終的にそれだけの価値があるのかどうかは気になるところだ。</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700110/020700001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　2社のうち1社は、データサイエンス分野のスタートアップである米Pymetricsだ。12種類のオンラインゲームをプレーさせることで求職者の特性を測る。だが、「これは単なるゲームではない」と、同社の共同創業者で最高経営責任者（CEO）のFrida Polli氏は言う。「認識と感情のさまざまな特徴に注目できるよう、認知神経科学のコミュニティがグローバルに開発した科学的演習である」とのことだ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700110/020700001/?ST=cm-software&P=2">Pymetricsを導入している主な企業には、英国とオランダに本...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700110/020700001/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700110/020700001/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700110/020700001/?ST=cm-software&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700110/020700001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 13 Feb 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
