@@ -11,12 +11,6 @@
 			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>三菱UFJニコスのシステム障害の原因が判明、3個のHDDが同時に故障（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020803126/</link>
-			<description><![CDATA[　三菱UFJニコスは2018年2月7日、2017年末に発生したシステム障害の原因や影響範囲などについて発表した。同社のクレジットカード「NICOSカード」の基幹システムで、ハードディスク（HDD）が3個故障したのが原因だ。]]></description>
-			<pubDate>Thu, 08 Feb 2018 16:55:16 +0900</pubDate>
-		</item>
-		<item>
 			<title>朝日放送が中期経営計画、2020年度に連結売上高890億円目指す（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020803127/</link>
 			<description><![CDATA[　朝日放送（ABC）は2018年2月7日、同日開催の取締役会で中期経営計画を決議したと発表した。]]></description>
@@ -286,6 +280,42 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 13 Feb 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IntelがSpectre対策の修正版をリリース、Skylakeシステム向け（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/021300403/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Intelは現地時間2018年2月7日、CPU脆弱性「Spectre」に対処するパッチの修正版のうち、Skylakeベースの一部のプラットフォームに向けたバージョンを、パートナー企業に対して正式にリリースしたと発表した。該当するパソコンの利用者は、この最新のパッチが自分のマシン向けに提供された時には、インストールする必要がある。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021300403/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Google/Natascha Eibl</div>
+</div>
+<p>
+　Intelは、Spectreと「Meltdown」に対処するパッチを2018年1月初めにリリースしたが、システムが不安定になる不具合があるとして、1月22日の声明でインストールを取りやめるよう呼びかけた。今回同社があらためてリリースしたのは、こうした不具合に対処した修正版だ。
+</p>
+<p>
+　ただし現時点でこの修正版パッチを適用できるのは、Skylakeベースの「Core」「Core M」プロセッサのみで、全体の一部にすぎない。Intelは1月22日の発表の中で、HaswellとBroadwellの両プラットフォームに向けた修正版パッチもテストを始めたことを明らかにしていたが、そちらはまだ、パートナーへの正式リリースには至っていない。それらのリリース時期について、Intelの広報担当者にメールで問い合わせたが、本記事執筆時点で回答は得られていない。Intelが今回発表したブログ記事には、より多くのプラットフォームに向けたパッチを近日中にリリースする予定だと説明している。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021300403/?ST=cio-security&P=2">Intelでデータセンターグループ担当ゼネラルマ...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021300403/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021300403/?ST=cio-security&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021300403/?ST=cio-security&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021300403/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 13 Feb 2018 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
