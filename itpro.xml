@@ -11,12 +11,6 @@
 			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>朝日放送が中期経営計画、2020年度に連結売上高890億円目指す（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020803127/</link>
-			<description><![CDATA[　朝日放送（ABC）は2018年2月7日、同日開催の取締役会で中期経営計画を決議したと発表した。]]></description>
-			<pubDate>Thu, 08 Feb 2018 17:16:44 +0900</pubDate>
-		</item>
-		<item>
 			<title>過半数の企業が「ビジネスのデジタル化」に取り組む、JUAS調査（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020803128/</link>
 			<description><![CDATA[　日本情報システム・ユーザー協会（JUAS）は2018年2月8日、東証一部上場企業とそれに準ずる企業を対象に実施した「企業IT動向調査2018」における、「ビジネスのデジタル化」に関する速報値を発表した。企業の過半数が、何らかの形でビジネスのデジタル化に取り組んでいることが分かった。]]></description>
@@ -316,6 +310,39 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 13 Feb 2018 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ブロックチェーンの業務利用、本格導入への道筋は（前）（ブロックチェーンの業務利用、本格導入への道筋は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/020700111/020700001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　企業でのブロックチェーン技術の利用については、何かと話題に上がってはいるものの、現時点でメインストリームにはまだ至っていない。だが、信頼できる取引記録として最高情報責任者（CIO）らの評価が高まる中、2018年に状況が変わる可能性は大いにある。</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700111/020700001/ph1.jpg" width="300" alt="" title=""></div></div>
+
+<p>　ブロックチェーンは、取引記録を分散型で共有するデジタル台帳だ。ネットワークに参加している当事者間の取引記録を、ブロックと呼ばれるまとまりに格納し、デジタル署名を付ける。これにより、取引記録の正当性を確保し、それぞれの取引がどの時点でどのような状態にあったかという共通認識を確立できる。企業のCIOがブロックチェーンに期待を寄せているのは、全社規模で展開でき、デジタルの信頼をネットワーク上で実現できることだ。</p>
+
+<p>　例えば、ブロックチェーンを基盤とするサプライチェーンネットワークなら、最新の状態に至るまでの記録を収めた台帳のコピーをすべての利害関係者が保持し、その正当性が保証される。サプライチェーンに影響する何らかの事態が発生した時にも、台帳に記録されているとおりの流れで事が進んだのは間違いないという確信を、全当事者が持てる。今回取材した各社のCIOからは、デジタル台帳を使って正当性を確保するこうした機能は、これ以外の技術では今のところ実現できないとの声が聞かれた。</p>
+
+<p>　「今後ブロックチェーンは次第に競争的優位性というべき存在になっていく1つだと思う」と、米ネット証券会社TD AmeritradeのCIO、Vijay Sankaran氏は言う。その理由について、Sankaran氏や他のITリーダーらの話をもとに探っていこう。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700111/020700001/?ST=cio-appli&P=2">物流業界とブロックチェーン</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700111/020700001/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700111/020700001/?ST=cio-appli&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700111/020700001/?ST=cio-appli&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700111/020700001/?ST=cio-appli&P=4">4</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700111/020700001/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+</div>
+]]></description>
+			<pubDate>Wed, 14 Feb 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
