@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>AIで太陽光パネルを診断、ドローン空撮から不具合の特定まで自動化</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/021310754/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Tue, 13 Feb 2018 11:58:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>CPAP（持続陽圧呼吸療法）</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/word/15/327920/021300042/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　睡眠時無呼吸症候群（Sleep Apnea Syndrome：SAS）に対する治療法の一つ。最も患者数が多いとされる閉塞性睡眠時無呼吸症候群の標準的な治療法である。</p><p>　機器で圧力をかけた空気を鼻から気道へ持続的に送り込み、閉塞した気道を広げることで睡眠中の無呼吸状態を防止する。在宅において実施するケースを在宅持続陽圧呼吸療法と言う。1998年に保険適用されている。</p><p>　空気を送風する機器本体と、あらかじめ設定した圧力で空気を送るチューブ、鼻孔に当てるマスクで構成され、睡眠時にマスクを装着する。マスクには、鼻を覆う鼻タイプ、鼻と口の両方を覆うフルフェイスタイプ、鼻腔に直接挿入して空気を送るピロータイプ、口と鼻腔の両方に直接挿入して空気を送るハイブリッドタイプなどがある。</p><p>　CPAP療法の機器には、主に一定の圧を保つ固定CPAPと下限圧と上限圧間で必要に応じて圧力を変動させるオートCPAPの二つのタイプがある。前者は事前に圧を設定して使用するタイプである。終夜睡眠ポリグラフ検査（PSG）やCPAPタイトレーションと呼ばれる実際に装着した試行検査などにより、無呼吸や低呼吸、いびきなどの呼吸イベントに対して、どの睡眠段階でも、どの体位でも消失する圧を探し出して適正圧を決める。</p><p>　後者は呼吸イベントの状態を認識し、気道の閉塞が起こりそうになると自動的に圧を上昇させ、呼吸が安定している場合は圧を低下させるタイプ。両タイプの選定は、患者の病状に応じて医師により決められる。</p><p>　導入後は、CPAPの使用状況、自覚症状の変動、副作用の有無などを少なくとも月1回は確認し、圧調整をはじめ使用状態の改善への対応や合併症予防のために必要な対策を講じることが求められる。</p><p>　こうした機器使用状況や治療データをクラウド上で管理するサービスもある。フィリップス・レスピロニクスの「ケア オーケストラ」もその一つ。フィリップスのデジタルプラットフォーム上で毎日の機器使用状況や治療データを管理し、治療を支援するサービスを開始した<a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/011510452/?ST=health&amp;P=1" target="_blank">（関連記事）</a>。</p><p>　CPAP機器本体は以前に比べ小型化されたとはいえ、出張や旅行時にかさばる装置を持ち運ばなくてはいけないことが課題である。とろこが最近では、レスメドの「AirMini」のような手のひらサイズの機種も登場してきている<a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/012310552/?ST=health" target="_blank">（関連記事）</a>。</p></div>]]></description>
@@ -243,6 +237,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/event/15/111400153/021400006/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Thu, 15 Feb 2018 21:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>5Gをにらみ、マルチアンテナ向けトランシーバー</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/event/15/111400153/021400015/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Thu, 15 Feb 2018 22:41:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
