@@ -11,12 +11,6 @@
 			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ソフトバンクがスポナビライブを終了へ、コンテンツはDAZNで継続提供（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020803123/</link>
-			<description><![CDATA[　ソフトバンクは2018年2月8日、スポーツ映像のライブ配信サービス「スポナビライブ」の提供を2018年5月31日に終了すると発表した。新規申し込みの受け付けも2月13日で終了する。]]></description>
-			<pubDate>Thu, 08 Feb 2018 21:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>AIよりも圧倒的な求人ニーズ、既存技術に強いエンジニア（デジタルシフトを急げ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/012600633/012900006/</link>
 			<description><![CDATA[　ITエンジニアの不足が深刻化する一方で、企業がエンジニアに求める技術が高度になってきた。AI（人工知能）やIoT（Internet of Things）など新しい技術を使った開発ニーズの高まりなどが背景にある。エンジニアは今後どんなスキルを身に付ければよいのか、転職はどう考えるべきなのか解説する。]]></description>
@@ -399,6 +393,42 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 15 Feb 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Chrome、HTTP接続の全サイトで警告を表示、今夏から（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/021500404/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米GoogleのWebブラウザー「Chrome」は、今年の後半以降、HTTP接続のWebサイトに対してアドレスバーに警告を表示するようになる。同社は、いずれこうした策を講じることを2016年の時点で予告していた。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021500404/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Google</div>
+</div>
+<p>
+　Chromeのセキュリティプロダクトマネージャー、Emily Schechter氏は、2月8日付けの公式ブログ記事の中で、「2018年7月にリリースする『Chrome 68』以降は、HTTP接続のすべてのサイトで、『保護されていません』という表示が出る」と説明している。
+</p>
+<p>
+　Chrome 68の安定版のリリースは、2018年7月22日～28日の週となる予定だ。同バージョン以降は、サーバーとの間でトラフィックを暗号化していないHTTP接続のサイトは、アドレスバーのURLの横に「保護されていません」と表示される。トラフィックを暗号化しているHTTPS接続のサイトであれば、アドレスバーの表示は通常どおりだ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021500404/?ST=cio-security&P=2">HTTP接続のサイトの危険性を明示する取り組みを...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021500404/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021500404/?ST=cio-security&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021500404/?ST=cio-security&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021500404/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+</div>
+]]></description>
+			<pubDate>Thu, 15 Feb 2018 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
