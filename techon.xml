@@ -370,5 +370,29 @@
 			<description><![CDATA[<div id="kiji"><div class="bpbox_right" style="width:200px;"><div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/021310757/?SS=imgview_ndh&amp;FD=46728356" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/news/16/021310757/1.jpg?__scale=w:200,h:353&amp;_sh=0cc0df06a0" width="200" height="353" alt=""></a></div><div>スマートフォンでいびきを測定</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　春回会 井上病院（長崎市）は、睡眠中のいびきの状態をスマートフォンで評価できる「いびき測定アプリ」の臨床研究を開始する。国立病院機構福岡病院、NECソリューションイノベータと共同開発したアプリで、治験を経て睡眠時無呼吸症候群（SAS）をスクリーニングする医療機器としての承認取得を目指す。</p><p>　現在、国内には潜在的に300万人以上のSAS患者がいると推定される。SASの診断では一般に、医療機関を受診し専用機器で睡眠中の呼吸状態を評価する必要があり、これがハードルとなって未診断症例が相当数いると考えられる。そのため、時間や場所を問わず手軽にSASをスクリーニングできるツールが求められているという。</p><p>　研究グループが開発したいびき測定アプリは、スマートフォンのマイクで睡眠中の音声を記録。記録が終わると自動的にスマートフォンにいびきの測定結果が表示される。スマートフォンが内蔵する加速度センサーを用いて体の向きを測定するため、体位別のいびきの程度も分かるという。システムは福岡病院が発表した技術を基に開発した。</p><p>　今回はアプリの有用性と安全性を検証するために、総務省平成28年度「IoTサービス創出支援事業」の委託を受けて、医師主導の臨床研究を行う。研究で医学的エビデンスを取得し、その後の治験を経て医療機器としての承認を取得することを目指す。</p><p>　臨床研究の参加希望者に対しては、事務局がパスワードを発行。利用者がApple StoreまたはGoogle Playからダウンロードした専用アプリにパスワードを入力し、研究への参加に同意するとアプリを使用できるようになる。同アプリは2018年2月28日までは無料で利用できる。</p><p>　研究グループは、顔認証技術を使ってSASの重症度を推測するアルゴリズムの開発も進めているという。</p></div>]]></description>
 			<pubDate>Thu, 15 Feb 2018 11:10:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>高速バス事故の悲劇、IoTと健康経営で防げ</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/327441/021400306/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　2012年4月に関越自動車道で起きたツアーバス事故、長野県軽井沢町での2016年1月のスキーバス転落事故…。悲惨なバス事故が後を絶たない中、バス運行会社にとっては安全管理の強化が待ったなしの課題だ。</p><p>　高速路線バス事業を手掛けるWILLER EXPRESS JAPANはここにきて、IoT（Internet of Things）を活用した運行支援やバス運転手の健康管理支援に本腰を入れている。その一環として乗務員用の宿泊施設「新木場BASE」を同社東京本社（東京都江東区）内に新設。2018年2月上旬、報道機関に公開した。</p><p></p><div><div class="bpimage_double" style="width:510px;"><div class="bpimage_left" style="width:250px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/021400306/?SS=imgview_ndh&amp;FD=46728356" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/021400306/1.jpg?__scale=w:250,h:188&amp;_sh=0550210af0" width="250" height="188" alt=""></a></div><div>WILLER EXPRESS JAPAN東京本社内のバス駐車場。奥に見える建物が「新木場BASE」</div><div>クリックすると拡大した画像が開きます</div></div><div class="bpimage_right" style="width:250px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/021400306/?SS=imgview_ndh&amp;FD=47651877" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/021400306/2.jpg?__scale=w:250,h:188&amp;_sh=0300f10eb0" width="250" height="188" alt=""></a></div><div>WILLER EXPRESS JAPAN 代表取締役の平山幸司氏</div><div>クリックすると拡大した画像が開きます</div></div></div></div><p>　説明会にはWILLER EXPRESS JAPAN 代表取締役の平山幸司氏が登壇し、高速バス運行における安全管理への取り組みを紹介した。WILLER EXPRESSは2015年7月、東名阪自動車道で高速バス事故を起こしている。この事故そのものは居眠りや健康起因のものではなかったとするが、事故を誘発する要因を減らすために同社は「健康診断ではなく健康管理という視点から乗務員の健康増進に取り組んでいる。IoTなどの技術による運転サポートにも力を入れる」（平山氏）。</p><p>　走行中の運転手の脈波を計測し、疲れや眠気の予兆を検知して本人に知らせる——。同社はそんな機能を備えた富士通のウエアラブルセンサー「FEELythm（フィーリズム）」を2016年に導入し、バス運転手に装着させている（<a href="http://tech.nikkeibp.co.jp/dm/article/NEWS/20150120/399882/" target="_blank">関連記事</a>）。事故による車両損傷額が、導入前に比べて74％減少するなどの効果があった。</p><p>　ネットワーク型の車載ステーションを活用した、24時間体制のモニター管理も実施している。運転中車両の撮影動画を、運行管理者が遠隔でリアルタイムに確認できるシステムだ。FEELythmとも併せて運転手の眠気や車両のふらつきなどの危険を察知し、必要な場合には運転手に休憩などの指示を与える。2017年冬には白線認識などの運転支援機能を備える新型車両も試験導入しており、2018年春から本格的に活用していく。</p><p></p></div><div><div><span>1</span></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/021400306/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/021400306/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
+			<pubDate>Thu, 15 Feb 2018 12:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ダイムラー、新型「Cクラス」はインフォテインメント機能の電子化が進む</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/event/15/012200164/00010/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Thu, 15 Feb 2018 12:30:01 +0900</pubDate>
+		</item>
+		<item>
+			<title>トヨタ、レーシングコンセプトカーを出展</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/event/15/012200164/00011/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Thu, 15 Feb 2018 12:32:56 +0900</pubDate>
+		</item>
+		<item>
+			<title>スバル、コンセプトカー「SUBARU VIZIV Tourer Concept」を出展</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/event/15/012200164/00012/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Thu, 15 Feb 2018 12:39:33 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
