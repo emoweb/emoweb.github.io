@@ -5,90 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    遺体動画のYouTuberがアカウント削除にならない理由、CEOいわく「まだ&amp;quot;3ストライク&amp;quot;じゃない」
-</title>
-			<link>http://japanese.engadget.com/2018/02/13/youtuber-ceo-3/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/fce7ce605cd982da209e466dc2d6c681/206123890/lp.jpg" />
-YouTube CEOのSusan Wojcicki氏が、青木ヶ原樹海で撮影した自殺者の動画で炎上し、さらに最近もまた炎上している著名YouTuberローガン・ポールに関してまだ「アカウント削除するには至らない」と発言しました。
- 
- ]]></description>
-			<pubDate>Tue, 13 Feb 2018 17:00:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    文字を音声に変換する視覚障がい者向けスマートグラスの量産に向けたクラウドファンディングが開始
-</title>
-			<link>http://japanese.engadget.com/2018/02/13/oton-glass/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/1ae0793d9be5af6f8ad7c0cb34c94925/206121589/5a8136bd-508c-4449-ac55-6a190aae96cd.png" />
-視界に入った文字を読み上げるスマートグラス「OTON GLASS」のクラウドファンディングが始まりました。
-
-OTON GLASSは、文字認識・音声再生機能を備えたスマートグラス。内蔵カメラ、画像認識用クラウド、スピーカーからなり、OTON GLASSをかけた状態で読みたい文字の方を向いて、テンプル部分のボタンを押して使います。
-
-内蔵カメラが撮影した写真をクラウドにアップロードし、クラウド上の画像認識エンジンが抽出した画面内の文字列を音声データに変換することで、スピーカーから音声が流れる仕組み。使用時にはネットワーク環境が必要です。
- ]]></description>
-			<pubDate>Tue, 13 Feb 2018 18:00:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    仮想通貨マイニングのマルウェア、英・米政府のパソコンをこき使う
-</title>
-			<link>http://japanese.engadget.com/2018/02/13/browsealoud-coinhive-monero-mining-hack/</link>
-			<description><![CDATA[     <img src="https://techcrunchjp.files.wordpress.com/2018/02/malware.png?w=673" />
-先週末、ちょっとしたマルウェアが政府のパソコンで仮想通貨のマイニングに精を出していた。最初に気づいたセキュリティー研究者のScott Helmeによると、このマルウェアは英国のプライバシー監視機関（ico.org.uk）と米国裁判所システムのウェブサイト（uscourts.gov）を含め4000台以上のパソコン上で実行された。
-
-マルウェアは侵入先のデバイスを利用して、「マイニング」（採掘）と呼ばれるCPUに高い負荷のかかる複雑な計算処理を実行した。マイニングは一部の仮想通貨（暗号通貨）に利用されている。
-
-
-
-The malicious code injected into the @texthelp BrowserAloud software is tiny, but so powerful. White text is the original code and purple text is the code injected by the attacker: pic.twitter.com/Fm2VCDaPxs
-
-- Scott Helme (@Scott_Helme) February 11, 2018
-
-
-［BrowserAloudの@texthelpというソフトウェアに注入された悪意のコードは、小さいが非常に強力だ。画面の白いテキストが元のコードで、紫色のテキストが犯人に注入されたコードだ］
-
-
-疑うことを知らないパソコンに暗号解読ソフトウェアを潜入させるために、犯人らはBrowsealoudという失語症や読解力の低い人向けのアクセシビリティープラグインを標的にした。Browsealoudに侵入したマルウェアは、プラグインのコードを書き換えて悪意のあるJavaScriptコードを注入し、Coinhiveという名前で知られるマイニングソフトウェアを無防備なパソコン上で密かに実行させた。
-
-日曜日（米国時間2/11）、英国の国立サイバーセキュリティーセンターは、現在「違法な仮想通貨マイニング に使用されたマルウェアに関係するデータを分析している」とする声明を発表した。
-
-サイバーセキュリティー会社のCrowdStrikeは先月、新しいタイプの脅威として、仮想通貨マイニングマルウェアの台頭を指摘していた。
-
-「ここ数カ月間、他人のCPUサイクルを無許可で利用して利益を上げる、暗号通貨マイニングに焦点を絞ったサイバー攻撃が増加している」と同社は指摘し、2018年にはこの種の事件がいっそう増えると予想している。
-
-しかしHelmeが言うように事態はもっと深刻なものになりえた。類似の侵入方法を使って、Moneroをマイニングする代わりに政府の認証情報や個人情報が盗まれていたかもしれなかったからだ。
-
-
-
-The more I think about this the worse it becomes. Attackers had arbitrary script injection on thousands of sites including many NHS websites here in England. Just stop and think for a few moments about what exactly they could have done with that capability...
-
-- Scott Helme (@Scott_Helme) February 11, 2018
-
-
-
-［考えれば考えるほど、もっと悪いことを想像してしまう。攻撃した犯人は英国の数多くの情報局ウェブサイトを含む何千ものサイトに任意のスクリプトを注入している。その技術を使ってほかに何ができるか考えてみてほしい... 」
-
-[原文へ]
-
-（翻訳：Nob Takahashi / facebook ）
- ]]></description>
-			<pubDate>Tue, 13 Feb 2018 20:00:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    AndroidからiPhoneへ　絶対に失敗しないデータ移行術:iPhone Tips
-</title>
-			<link>http://japanese.engadget.com/2018/02/13/android-iphone-iphone-tips/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/1cdacfdb5ec7867cc24f1d33d916b181/206077627/main.jpg" />
-AndroidスマホからiPhoneにデータを移すには、アプリでバックアップを取り、それをiPhoneで復元する方法を用います。ここでは、データ移行に便利な3つのアプリを紹介しましょう。
-
-1つ目は、アップル公式アプリの「Move to iOS」です。Androidスマホにコードを入力すると、連絡先や写真などをiPhoneに移行できます。
-
-2つ目は、「JSバックアップ」。Androidスマホに表示されたQRコードをiPhoneで読み取ることで、データを引き継げます。
-
-最後が「Yahoo!かんたんバックアップ」です。Yahoo IDが必要ですが、起動と同時にデータをバックアップでき、データを読み取る際は「復元」アイコンをタップするだけという手軽さが魅力です。ここでは、各アプリの詳しい使い方を解説します。
-<p><a href="http://japanese.engadget.com/gallery/android-iphone-3/" title="AndroidからiPhoneにデータを移行する3つの方法">【ギャラリー】AndroidからiPhoneにデータを移行する3つの方法 (11枚)</a></p>
- ]]></description>
-			<pubDate>Tue, 13 Feb 2018 20:43:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    カシオ、アウトドア及びスポーツジャンルの大手アプリ9社とオフィシャルパートナー契約を締結
 </title>
 			<link>http://japanese.engadget.com/2018/02/13/9/</link>
@@ -357,6 +273,67 @@ AmazonやGoogleからだいぶ遅れをとったものの、米国などでよ�
 ゴム製品などを長期間置いておくと脚の跡が付くのはよくあることですが、HomePodでは設置後わずか20分ほどで跡が付いてしまったとの報告もあります。
  ]]></description>
 			<pubDate>Thu, 15 Feb 2018 05:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>Sponsored By Engadget :     募集：Engadgetはこんな記事広告やタイアップイベントを行なっています
+</title>
+			<link>http://japanese.engadget.com/2018/02/15/engadget/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/a1efbc66c510494be3b8358905db50ce/205634587/%3F%3F%3F%3F%3F%3F%3F%3F%3F+2017-09-06+13.53.48.png" />
+突然ですが、Engadget 日本版では広告も読者や視聴者にとって有意義かつ面白いものが提供できる、と信じています（キリッ。新しいデバイスやそれをとりまくテクノロジー、サービス、イノベーションを記事で取り上げるだけでなく、Engadgetはそれらをさまざまな形で届けられる手段を持っているからです。
+
+今回はそんな方法の中でも最近の取り組みを紹介します。広告主のみなさん、ぜひ最後までお付き合いください。また、ひょんなことからここにたどりついた読者・視聴者のみなさん、Engadget 日本版がどういった形で運営しているかを知っていただければ幸いです。中の人たち、実はこういうこともやってますｗ
+
+ 
+広告出稿のお問い合わせはこちら
+ ]]></description>
+			<pubDate>Thu, 15 Feb 2018 05:15:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    18歳の少年が1980年型トヨタ「セリカ」を電気自動車に改造。試行52回の末、航続距離は200km以上に
+</title>
+			<link>http://japanese.engadget.com/2018/02/15/18-1980-52-200km/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/56a5e7ffd6c341a891401e69764a6991/206115212/Adam_Lansing_01_29F3CA6139A5DEEE5CC022926CED631A5A7938FC.jpg" />
+クルマや乗り物関連のニュースを１分程度の動画でご紹介する『Autoblog Minute』から、今回は18歳の少年が1980年型トヨタ「セリカ」を自力で電気自動車に改造したという話題をご紹介しよう。
+米国テキサス州に住むアダム・ランシング君は12歳の時、兄が両親にガソリン代をせびっているのを見て、あんなことはしたくないと思った。そして動画投稿サイトで1972年型ダットサンをパワフルなEVドラッグスターに改造した男性の映像を見て触発されたという。
+
+
+
+ ]]></description>
+			<pubDate>Thu, 15 Feb 2018 05:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    ASUSが新スマホ ZenFone Max Plus (M1)、2万9800円で縦長液晶・2眼カメラ・大容量電池
+</title>
+			<link>http://japanese.engadget.com/2018/02/15/asus-sim-zenfone-max-plus-m1-2-9800-2/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/f855416981a67d7a98e79b34ea695649/206129300/img.jpg" />
+
+ASUSは、初の18：9液晶搭載スマートフォン「ZenFone Max Plus（M1）」を発表しました。2月17日に発売予定、価格は税別2万9800円です。
+
+●縦長液晶、デュアルカメラ、4000mAh超バッテリー
+
+ZenFone Max Plus（M1）は、4130mAhの大容量バッテリーを搭載したスタミナ自慢のスマートフォンです。連続待受時間は最大約28日（公称値）で、1日中外出している時でも、バッテリー残量を気にせずに利用できるといいます。
+
+主な仕様は、5.7インチ 2160 x 1080ドットの液晶ディスプレイ、MediaTek MT6750T オクタコアCPU、4GB RAM、32GBのストレージ容量、microSDXC外部ストレージスロットなど。出荷時OSはAndroid 7.0です。
+
+カメラは、1600万画素（標準）＋800万画素（広角）のデュアルカメラ構成。インカメラは800万画素です。
+
+本体サイズは152.6 x 73 x 8.8mm、重量は160g。カラーバリエーションはディープシーブラック、アズールシルバー、サンライトゴールドの3色展開です。
+
+アスペクト比18：9の縦長液晶ディスプレイに、背面デュアルカメラを搭載。さらに大容量4130mAhバッテリーという充実仕様ながら、税別2万9800円というコストパフォーマンスの高さが魅力です。
+ ]]></description>
+			<pubDate>Thu, 15 Feb 2018 05:42:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    冬季五輪会場でGalaxy Studioを体験 特別仕様のNote8はどうしたら手に入る？
+</title>
+			<link>http://japanese.engadget.com/2018/02/15/galaxy-studio-galaxy-note8/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/fddb9b78a9c0fc4c9b2b18af65c0fa6e/206128790/20180212_172647_1.gif" />
+2018年、冬季オリンピック（2月9日〜25日）開催国である韓国。20年に渡りオリンピックのスポンサーについているサムスンは、本国での開催ということもあり、空港や会場など多くのスポットで「Galaxy Olympic Showcase」をオープンし、最新製品やVR、テクノロジーを世界にアピールしています。日本のプレスとして招待を受け、平昌まで行ってまいりましたので、現地の雰囲気を徒然とお伝えさせていただきます。
+
+ 
+関連記事：サムスン、世界初の5Gタブレットを平昌オリンピックで展示
+ ]]></description>
+			<pubDate>Thu, 15 Feb 2018 06:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
