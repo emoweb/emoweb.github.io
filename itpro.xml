@@ -502,5 +502,52 @@
 ]]></description>
 			<pubDate>Fri, 16 Feb 2018 10:10:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>ビッグデータの基礎知識（上）（ビッグデータの基礎知識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/021300112/021300001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　ビッグデータとは要するに何なのだろうか。単にデータと言った時と、何が違うのだろうか。</p>
+
+<h4>ビッグデータの定義</h4>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　ビッグデータとは、ざっくり言えば、極めて膨大で複雑なデータの集合だ。従来型のデータ処理ソフトウエアでは、取得・管理・処理に法外な時間がかかってしまうような、おびただしいデータの一群である。</p>
+
+<p>　ビッグデータに含まれるデータは、構造化データ、非構造化データ、半構造化データのいずれもあり得る。それぞれをマイニングすることで、洞察（インサイト）が得られる。</p>
+
+<p>　実際にデータがどの程度の規模になったら「ビッグ」データと呼べるのかは議論の余地があるが、一般には数ペタバイトで、特に大規模なプロジェクトではエクサバイト級になることもある。</p>
+
+<p>　ビッグデータは、3つのVで特徴づけられることが多い。</p>
+
+<ul>
+<li>Volume（量）：データの量が極端に膨大</li>
+<br>
+<li>Variety（種類）：データの種類が多彩</li>
+<br>
+<li>Velocity（速度）：データの処理と分析に速度が必要</li>
+</ul>
+
+<p>　ビッグデータの発生源としては、Webサイト、ソーシャルメディア、パソコンやモバイルのアプリケーション、科学的実験などがある。さらに、次第に増えつつあるのが、IoTの各種センサーや機器が生成するデータだ。</p>
+
+<p>　ビッグデータは、基本的な概念のみで終わりではない。企業がビッグデータを実地で活用してビジネス上の問題を解決するためには、さまざまな構成要素が関係する。ここからは、ビッグデータに適用するアナリティクス、ビッグデータを支えるITインフラ、ビッグデータプロジェクトに必要なテクノロジー、ビッグデータ関連のスキルセット、ビッグデータの用途について見ていこう。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300001/?ST=cm-network&P=2">ビッグデータに適用するアナリティクス</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300001/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300001/?ST=cm-network&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300001/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 19 Feb 2018 06:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
