@@ -5,18 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>洋上風力の高圧直流送電を高効率化、SiCパワー半導体を適用</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/021610773/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Fri, 16 Feb 2018 09:54:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>電力網へのブロックチェーン導入、5つの用途が事業機会に</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/021610774/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Fri, 16 Feb 2018 15:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>英国で11MWの廃棄物発電プラントを受注、JFE子会社</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/021610775/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -243,6 +231,18 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/column/15/374506/021900008/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　皆さま、こんにちは。キュア・アップの佐竹晃太です。本連載では、モバイルテクノロジーによる新しい治療アプローチの可能性や先進事例を紹介しています。前回は、「<a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/374506/122700006/?ST=health" target="_blank">アプリで失明の危機を早期発見！？</a>」と題して、目の健康を支える米国スタートアップ事例を紹介しました。今回は、モバイルヘルスを使って頭痛に悩む人々を支える海外スタートアップの事例を2つ紹介します。</p><p>　そもそも頭痛とは何か。日本頭痛学会は、国際頭痛分類第3版beta版（ICHD—3β）を発表しており、頭痛を以下のように分類しています。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/374506/021900008/?SS=imgview_ndh&amp;FD=-1099032330" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/column/15/374506/021900008/n1.jpg?__scale=w:500,h:246&amp;_sh=0fc09305a0" width="500" height="246" alt=""></a></div><div>頭痛の分類（表：日本頭痛学会の「国際頭痛分類」を基に筆者が作成）</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　この分類の中で、最も症状を訴える人の割合が多いと言われているのが、「1. 偏頭痛」「2.緊張型頭痛」です。今回紹介する事例は、これらいわゆる「慢性頭痛」の緩和にフォーカスしたものになります。</p><p></p><h4>心理学的アプローチを活用</h4><p></p><div class="bpimage_right" style="width:260px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/374506/021900008/?SS=imgview_ndh&amp;FD=-1098108809" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/column/15/374506/021900008/n2.jpg?__scale=w:250,h:448&amp;_sh=0a40540e30" width="250" height="448" alt=""></a></div><div>Haloアプリ（写真：BioTrak Therapeutics社のホームページから）</div><div>クリックすると拡大した画像が開きます</div></div><p>　2014年に米国ボストンで創業したBioTrak Therapeutics社は、Halo Integrated Therapy Systemというアプリと連携したデバイスを開発しました。頭痛の原因が分からないまま多くの医薬品の処方をするのではなく、エビデンスに基づいた「バイオフィードバック療法」によってモバイルアプリでの治療を行うことで、頭痛を根本的に治療していくことが目的です。</p><p>　バイオフィードバックとは、心理学的アプローチで、自分自身では気づかない身体の生理学的変化を本人に分かるように知らせることです。このシステムは現在臨床試験段階ですが、アイデアがユニークなため今回のトピックの一つとして選びました。</p><p>　システムの具体的な利用法は次の通りです。まず、患者に自宅でウエアラブルデバイスを装着してもらい、通常の生活を送ってもらいます。患者自身が痛みをトラックすることも可能ですが、ウエアラブルデバイスが本人も気づかないような頭・神経の微細な動きを感知し、患者に知らせて自覚を促していきます。さらに、そうして得られたきめ細かいデータをもとに、患者ごとに必要な活動がアプリを通して提案される仕組みです。</p><p>　デバイスが非常に特徴的ですが、文章だと説明がなかなか難しいので、ご興味のある方は<a href="https://www.youtube.com/watch?v=EqhRrzeG0tQ" target="_blank">こちらの紹介動画（YouTube）</a>をご覧ください。</p><p>　患者にとっては、今まで気づかなかった自分の頭痛のメカニズムを深く把握できるので、なぜそのエクササイズが必要なのかも理解できるようになります。アプリが提案する活動にもモチベーション高く取り組める新しいアプローチと言えるでしょう。<br></p></div><div><div><span>1</span></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/374506/021900008/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/374506/021900008/?ST=health&amp;P=3"><span>3</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/374506/021900008/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
 			<pubDate>Mon, 19 Feb 2018 15:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>製造工程の再エネ比率、2030年までに70％、蘭ハイネケン</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/021910778/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Mon, 19 Feb 2018 16:20:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>最先端プロセッサー、勝負どころはオンチップ電源</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/event/15/111400153/021400007/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Mon, 19 Feb 2018 16:27:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
