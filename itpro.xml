@@ -5,6 +5,12 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d20</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
 			<title>AIよりも圧倒的な求人ニーズ、既存技術に強いエンジニア（デジタルシフトを急げ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/012600633/012900006/</link>
 			<description><![CDATA[　ITエンジニアの不足が深刻化する一方で、企業がエンジニアに求める技術が高度になってきた。AI（人工知能）やIoT（Internet of Things）など新しい技術を使った開発ニーズの高まりなどが背景にある。エンジニアは今後どんなスキルを身に付ければよいのか、転職はどう考えるべきなのか解説する。]]></description>
@@ -583,6 +589,38 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/15/050900002/021500110/</link>
 			<description><![CDATA[　非常に微細なLEDチップを基板に敷き詰め、チップ自体を発光させることで画像を表示する装置。表示性能は液晶や有機ELディスプレイを上回るとされ、次世代ディスプレイ技術として注目される。]]></description>
 			<pubDate>Tue, 20 Feb 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ネット中立性規則の撤廃でセキュリティが弱体化？（前）（ネット中立性規則の撤廃でセキュリティが弱体化？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/021300113/021300001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　ネット中立性に関する規則が撤廃される結果、ブラウザーで第三者によるトラッキングが蔓延したり、ネット取引のプライバシーが損なわれたり、スマートフォンにスパイウエアが組み込まれたりといったことが起きるかもしれない—American Public University System（APUS）でCenter for Cyber Defense所長を務めるKenneth Williams氏はそのように主張する。</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300113/021300001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　ネット中立性規則の廃止が、こうした暗い見通しにどのようにつながるのか。その説明は順を追って見ていく必要がある。Williams氏はまず、「ネット中立性がなくなることで、マルウエア対策ソフトのベンダーがサービスプロバイダーにもたらすコストはこれまでより増す」と説明する。その結果、ISP（インターネットサービスプロバイダー）がこれまで提供していたのと同様のデータ防御策を維持したいと考えるユーザーにとっては、インターネットアクセスにかかる費用がかさむ可能性がある。</p>
+
+<p>　「防御策を維持することをユーザーが選んだ場合、コストは上がる。だが、費用を払いたくないユーザーの場合はどうか」とWilliams氏は続ける。「費用を払うか、防御策なしで行くかのどちらかだ。防御策なしで行くとしたら、ウイルスがそこら中に蔓延するため、ユーザー本人だけでなく、そのユーザーとつながる人や、そのユーザーにメールを送る人にもリスクがある」</p>
+
+<p>　つまり、セキュリティが壊滅するという話は、さまざまな仮定のもとに成り立っている。Williams氏自身、その予測が誇張気味であることを認める。「相当なこじつけだと言う人がいたとしても、その主張にはもっともな面がある。私自身、現時点で証明できないからだ」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300113/021300001/?ST=cio-security&P=2">規制環境は「混迷」</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300113/021300001/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300113/021300001/?ST=cio-security&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300113/021300001/?ST=cio-security&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300113/021300001/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 20 Feb 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
