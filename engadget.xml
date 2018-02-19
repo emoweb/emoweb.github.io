@@ -5,17 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    仮想通貨採掘の流行でGPU入手性が低下、SETIの観測データ分析システム増強に影響
-</title>
-			<link>http://japanese.engadget.com/2018/02/15/gpu-seti/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/ad2afc0d594557112fe3b1e607d16231/206130839/dims.jpg" />
-2017年後半以降の仮想通貨、特にBitcoinの盛り上がりは暴騰から一転暴落へと転じたものの、最近ではかなり値動きも落ち着きを取り戻したように思えます。一方で、複雑な計算処理が必要でその難易度が上がり続けるマイニング方面では、少しでも効率良く採掘を進めるために大量のハイエンドGPUが投入され、世界的なGPU不足が起こりつつあります。
-
-そして、このハイエンドGPU不足が、思わぬところに打撃を与えています。地球外生命探査(SETI)プロジェクトSETI@homeのチーフサイエンティストDan Werthimer氏は、現在2か所の研究施設でデータ分析業務を拡大しようとしているものの、その分析システム増強に必要なGPUがなかなか手に入らない状況だと語ります。
- ]]></description>
-			<pubDate>Thu, 15 Feb 2018 20:15:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    アレクサさんが最高すぎて最高である件 : 情熱のミーム 清水亮
 </title>
 			<link>http://japanese.engadget.com/2018/02/15/amazonalexa/</link>
@@ -665,6 +654,15 @@ NTTドコモは、任天堂と共同開発した「かんたんテザリング f
    
  ]]></description>
 			<pubDate>Mon, 19 Feb 2018 03:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    LiDARセンサーでアステカのライバル「プレペチャ王国」の都市を発見。約4万の構造物、施設配置に特徴
+</title>
+			<link>http://japanese.engadget.com/2018/02/19/lidar-4/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/1ee5a1c4aa0fa278a3f6a3f6a501ca73/206138471/ld.jpg" />
+自動運転車の空間認識を司るLiDARセンサーは、いま考古学者にとって画期的なツールになりつつあります。今月はじめには古代マヤ文明の構造物群発見をお伝えしたばかりですが、今度は西暦900年ごろメキシコ南西部に栄えたプレペチャ(タラスカ)王国の都市跡が、LiDARを使った分析から従来の認識よりかなり大きかったことがわかりました。
+ ]]></description>
+			<pubDate>Mon, 19 Feb 2018 03:30:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
