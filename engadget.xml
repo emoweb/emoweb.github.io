@@ -5,34 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    iPhoneを2文字で落とすバグ、送られると多数のアプリが利用不能に
-</title>
-			<link>http://japanese.engadget.com/2018/02/16/iphone-mac-2/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/29dbc8b89db5e61b7659663041177c15/206132611/bg_galaxy-s8_camera_m.jpg" />
-
-​​​​​​iPhone や Mac、Apple Watchに、特定の文字を表示するだけでアプリが落ちるバグが見つかりました。
-
-表示しただけでクラッシュしてしまうため、メッセージやチャットなどで問題の文字を送りつけられた場合、いきなりアプリが落ちたうえに、再び起動しても即座に落ちるループに陥る危険があります。
-
-影響を受けるのは iMessage や Safariブラウザ、LINE、Facebookメッセンジャーほか、システム標準のコンポーネントを使う多数のアプリ。
-
- 
- ]]></description>
-			<pubDate>Fri, 16 Feb 2018 08:44:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    BTと独自無線、USB兼用の無線メカキーボードがコルセアから。独自無線では遅延1ms、Cherry赤軸で10キーレス
-</title>
-			<link>http://japanese.engadget.com/2018/02/16/bt-usb-1ms-cherry-10/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/be6ddc48f83a2a81cd36b746a8d4f01/206132912/K63W_01_s.jpg" />
-メインメモリをはじめとするPCパーツやゲーム向け周辺機器で知られる米国Corsair（コルセア）が、ユニークなゲーム向けワイヤレスキーボード『K63 Wireless』の日本版を発表しました。発売は2月17日、代理店であるリンクスインターナショナルの希望小売価格は1万6740円（税込）です。
-
-特徴は、メカニカル（Cherry MX赤軸）＋ワイヤレス＋日本語テンキーレス配列というレアな製品である点に加え、接続がBluetooth 4.2LEと2.4GHz帯独自無線、そしてUSB接続と、3パターンから選べること。独自無線（本体側はUSB接続レシーバーを使用）では公称1msの低遅延でデータ転送が可能なことから、「ゲームプレイでも使用可能なワイヤレスキーボード」とアピールします。
-<p><a href="http://japanese.engadget.com/gallery/corsair-k63-wireless/" title="Corsair K63 Wireless 日本版">【ギャラリー】Corsair K63 Wireless 日本版 (10枚)</a></p>
- ]]></description>
-			<pubDate>Fri, 16 Feb 2018 15:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    2017年の今日、「レッツノートXZ」が発売されました：今日は何の日？
 </title>
 			<link>http://japanese.engadget.com/2018/02/16/2017-xz/</link>
@@ -453,6 +425,53 @@ iOSと同時に、macOS / watchOSでも同じバグの修正アップデート�
 <p><a href="http://japanese.engadget.com/gallery/sony-wh-ch700n/" title="Sony WH-CH700N">【ギャラリー】Sony WH-CH700N (18枚)</a></p>
  ]]></description>
 			<pubDate>Tue, 20 Feb 2018 03:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    モバイル版Chrome、URLから余分なパラメータを除去して共有可能に
+</title>
+			<link>http://japanese.engadget.com/2018/02/20/chrome-url/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/374bf4ad35ff046a25474e4b24e26d05/206141827/dims.jpg" />
+最近、GoogleはChromeブラウザで広告のフィルタリングや悪質な自動リダイレクトのブロックなど、積極的に機能追加を行っていますが、モバイル向けのChrome V64ではURLから不要なタグを取り除き、シンプルに表示する機能を提供しています。
+
+ネットショップなどのURLで顕著ですが、本来のURLの後ろにどこから参照してきたのかをトラッキングするパラメータやアフィリエイトタグなどが追加され、無駄に長くなっていることがあります。
+
+例えば下記左側のようなURLをChromeに通すと、右側のようにシンプルなものになります（下記URL、製品を選んだ理由については特に他意はありません）。
+
+方法は、Chromeの右上メニューから「共有」を選ぶだけ。Android、iOSのどちらでも利用可能です。
+URLを短くしたいだけなら、いわゆる短縮URLを使えば済みますが、遷移先がどんなURLなのかわからないという不安が付きまといます。その点、Chromeの機能であれば、正規のURLのままパラメータを排除できる点がメリットです。
+
+なおこの機能、ChromeがURLを自動整形しているわけではなく、サイト内で使われているcanonicalタグの内容を取得しているようです。
+
+このタグは重複ページなどがある場合に、正規のページを指示するために使うもので、そこには余分な情報は含まれていません。これを使うことでシンプルなURLの共有を行っているようです。
+
+このため、canonicalタグを含まないサイトでは、「共有」を経由してもURLは変わりませんでした。
+
+単純な内容ではありますが、無駄に長いURLを共有したくないと考える人には便利に使える機能かもしれません。ただ、サイトによってはURLの後ろに言語情報を追加することで、訪問者に正しい情報を見せるようにしているところもあります。そういった場合には、従来通り、アドレス欄からコピーして共有する必要があります。
+ ]]></description>
+			<pubDate>Tue, 20 Feb 2018 03:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    14型で1kg切りの超軽量ノートPC「Swift 5」、Acerが2月22日発売
+</title>
+			<link>http://japanese.engadget.com/2018/02/20/14-1kg-pc-swift-5-acer-2-22/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/42f2a45bdb4853dc39758dda622ba0ac/206142057/img_swift5_04.jpg" />
+Acerは、新型ノートPC「Swift 5」を2月22日に発売します。価格は税別15万円前後。
+
+「Swift 5」は、13.3インチ相当の筐体サイズに、14.0型 フルHD（1920 x 1080）解像度のタッチディスプレイを搭載した狭額縁ノートPCです。重さは970gと、14型ながら1kgを切る軽量ぶりもアピールします。
+
+その他仕様は、8GBのRAM、512GBのSSDなど。CPUにはクアッドコアCPU搭載の第8世代 Core i5 8250Uを採用します。
+
+インターフェイス類は、USB 3.0 x2（うち1つは電源オフUSB充電機能付き）、USB 3.1 Type-Cポート x1（他デバイスへの15W PD給電にも対応）、HDMI出力ポート x1、ACアダプター用DCイン・ジャック x1など。無線LANは11a/b/g/n/ac、Bluetoothは4.0。
+
+Windows Hello対応の指紋センサーを備え、パスワードを入力せずにログインが可能です。
+
+本体サイズは14.9 x 329 x 228mm、カラーはチャコールブルーの1色展開です。
+
+狭額縁で1kgを切る軽量ボディにもかかわらず、他デバイスにPD給電できるUSB-C端子や、HDMI端子を備えており、実用性に優れた軽量ノートPCと言えそうです。
+ 
+ 
+ ]]></description>
+			<pubDate>Tue, 20 Feb 2018 04:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
