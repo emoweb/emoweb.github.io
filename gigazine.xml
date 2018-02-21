@@ -5,18 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>「私たちが化石になる方法」について専門家たちがレクチャー</title>
-			<link>https://gigazine.net/news/20180220-how-can-we-become-fossils/</link>
-			<description><![CDATA[<p>化石とは、かつて生息していた生物が何らかの理由で地層に閉じ込められ、硬い組織を中心に鉱物化したもの。化石は研究者たちにとって太古の生物の姿を知る手がかりとなり、私たちに恐竜やアンモナイトの存在を教えてくれます。生物が化石となる確率は非常に低いものですが、いつか「化石になりたい」と思った時のために覚えておきたい「死んだ後化石になる方法」について、BBCがまとめています。<p><b><a href="https://gigazine.net/news/20180220&#45;how&#45;can&#45;we&#45;become&#45;fossils/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Tue, 20 Feb 2018 20:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>画像素材からデザインの似た大きな画像を生成する「WaveFunctionCollapse」</title>
-			<link>https://gigazine.net/news/20180220-wavefunctioncollapse/</link>
-			<description><![CDATA[<p>「WaveFuntionCollapse」は素材となるビットマップ画像を基に、何枚も画像をつなぎ合わせたり、角度を変えたりなどして、元の素材に似た大きな画像を作り出せるとのこと。たとえば、自作のゲームを作るような場合、そこまで個性を持たせる必要のないマップやフィールドを作るときに素材となる画像を読み込ませて、デザインを自動生成することにも使えそうです。<p><b><a href="https://gigazine.net/news/20180220&#45;wavefunctioncollapse/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Tue, 20 Feb 2018 21:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>多くの人は自分が見積もってるよりも50%もカロリーを多くとっていることが判明</title>
 			<link>https://gigazine.net/news/20180220-average-person-eat-50-percent-more-calories/</link>
 			<description><![CDATA[<p>健康な体でいるために重要な要素のひとつとして「肥満を避ける」ということが重要であるといわれており、日頃から食べたもののカロリー量をカウントしている人も多いはず。しかしイギリスで行われた調査によると、一般的な人は食べたもののカロリーを低めにカウントしており、実際には自分の計算よりも50%も多くカロリーを摂取していることが明らかになっています。<p><b><a href="https://gigazine.net/news/20180220&#45;average&#45;person&#45;eat&#45;50&#45;percent&#45;more&#45;calories/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +171,18 @@
 			<link>https://gigazine.net/news/20180222-fluidui/</link>
 			<description><![CDATA[<p>「Fluid UI」は既存のパーツを配置するだけでWebサイトやアプリのモックアップをサクサク作成でき、簡単な画面遷移や複数人での編集も行えるサービスです。実際に使ってどんなことができるのか試してみました。<p><b><a href="https://gigazine.net/news/20180222&#45;fluidui/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Thu, 22 Feb 2018 02:51:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「アディダス」と「プーマ」2つの世界的シューズメーカーを生み出した兄弟の物語</title>
+			<link>https://gigazine.net/news/20180222-rivalry-behind-adidas-puma/</link>
+			<description><![CDATA[<p>世界的なシューズメーカーの「アディダス」と「プーマ」は、2人の兄弟が生み出したシューズメーカーであり、元々2人はひとつのシューズメーカーで協力してシューズを作成していました。そんな兄弟がなぜそれぞれ別々の道を歩むことになったのかを説明するムービー「The Sibling Rivalry Behind Adidas Versus Puma」が公開されています。<p><b><a href="https://gigazine.net/news/20180222&#45;rivalry&#45;behind&#45;adidas&#45;puma/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Thu, 22 Feb 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ウェブカメラに本人が写るとページ上の黒塗りが解除されるJavaScriptツール「face-verify.js」</title>
+			<link>https://gigazine.net/news/20180222-face-verify/</link>
+			<description><![CDATA[<p>センシティブな情報にアクセスするときにパスワードなどの認証が利用されますが、ページを見ているのが真の所有者かどうかを判別するのは難しいものです。そこで、ページ内にある一部のセンシティブな情報を基本的には非表示状態にしておき、登録されたユーザーがカメラの前にいる場合にのみ表示させられるJavaScriptツール「Face Verify(face-verify.js)」を、JavaScriptアプリケーション「Facebox」で知られるMachine Boxが開発しています。<p><b><a href="https://gigazine.net/news/20180222&#45;face&#45;verify/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Thu, 22 Feb 2018 06:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
