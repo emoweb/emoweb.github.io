@@ -5,17 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ARM版Windows 10は64ビットアプリが動作せず。マイクロソフトが「制約」を一時公開した後に削除
-</title>
-			<link>http://japanese.engadget.com/2018/02/20/arm-windows-10-64/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/c2bc226c99f2ee07fe8f0ab6a41e86c0/206141715/ARM.jpeg" />
-米マイクロソフトはARM版Windows 10の「制約」についての文書を先週公開し、週末に削除したことが報じられています。すぐに削除されたために手違いのためと思われますが、Internet Archive上にキャッシュされたデータでその内容が確認できます。
-
-「Limitations of apps and experiences on ARM（ARM上でのアプリおよび体験の制約）」と題された文書では、これまでマイクロソフトが詳しく説明しなかった既存のWindows 10とARM版Windows 10の違いを箇条書き。x64（64ビットアプリ）は動作しないなどの制約が記載されています。
- ]]></description>
-			<pubDate>Tue, 20 Feb 2018 00:30:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    iPhoneアプリ即死バグを修正、アップルがiOS / macOS / watchOSをアップデート
 </title>
 			<link>http://japanese.engadget.com/2018/02/20/iphone-ios-macos-watchos/</link>
@@ -534,6 +523,23 @@ VAIO type Sでは、GPU内蔵CPUと外部グラフィックを切り替えるド
 Dedicated to Miwa Asakura
  ]]></description>
 			<pubDate>Wed, 21 Feb 2018 17:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    PUBGが課金アイテムに新システム導入。有料クレートを選んでフィーバー可能に
+</title>
+			<link>http://japanese.engadget.com/2018/02/21/pubg/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/68d22216bbb50bd64a53e68b88eddfb/206148397/pubgcr.jpg" />
+
+アイテム課金制を試行中の大人気バトルロイヤルゲーム『PLAYERUNKNOWN'S BATTLEGROUNDS』(PUBG)が、新たな無料・有料アイテムボックス(クレート)システムを導入します。
+
+追加されるのは、70～80年代レトロファッションアイテムが入ったFEVERクレート(有料)と、民兵風ミリタリーファッションの MILITIAクレート(無料)の2種類。
+
+また新たに、有料クレートだけを狙ってBP(ゲーム内ポイント)と交換できるようになりました。
+
+
+ 
+ ]]></description>
+			<pubDate>Wed, 21 Feb 2018 17:52:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
