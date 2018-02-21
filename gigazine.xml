@@ -5,24 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>長年開発に貢献してきた人が語るwikiのような世界地図「OpenStreetMap」の問題点とは</title>
-			<link>http://gigazine.net/news/20180220-openstreetmap-serious-trouble/</link>
-			<description><![CDATA[<div><!-- ←20140212 --><time datetime="2018-02-20T07:30:00+09:00" class="yeartime">2018年02月20日 07時30分00秒</time><h1 class="title">長年開発に貢献してきた人が語るwikiのような世界地図「OpenStreetMap」の問題点とは</h1><!-- google_ad_section_start --><p class="preface"></p><a href="https://www.flickr.com/photos/fsse-info/2818067449/in/photolist-5i2kgP-aEu2bF-aEu24F-7mM2UA-29A48w-5KKqL9-5Rnpt7-87AobK-8Q71Nr-87Dzrj-87DyEC-87Ai2v-87DxUG-87Dwwj-87DB5J-87ApRc-87Aq74-87DxKG-87Dwkf-87Dy55-87Dwbq-87Akpz-5iKpXC-87DA7j-87Anzk-87Dx59-TgzqSf-87Aoma-87Am24-87AprP-87Aovr-87Dv1q-87DyP3-87Aiv2-87Du6A-87DAHm-87DtK5-87Dyt3-87Apcn-87Aqgc-87Amc4-UsxhJ7-R4JDWF-8Qa7Vh-8Q71LP-8Qa7Uu-87ApY6-8Qa7T5-87AnHT-87DAi5" target="_blank"><img src="https://i.gzn.jp/img/2018/02/20/openstreetmap-serious-trouble/00.png" border="0" class="lzsmall"></a><p class="preface"><small>By<a href="https://www.flickr.com/photos/fsse-info/" target="_blank">clive darra</a></small><br><br><b><a href="https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%83%E3%83%97" target="_blank">OpenStreetMap</a></b>(OSM)は誰でも編集可能な<b><a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD" target="_blank">ウィキ</a></b>のような世界地図を作る共同プロジェクトです。このプロジェクトに2008年～2016年の約8年間貢献してきたというSerge Wroclawski氏が、「OpenStreetMapの問題点」を語っています。<br><br><b>Why OpenStreetMap is in Serious Trouble — Emacsen's Blog</b><br><b><a href="https://blog.emacsen.net/blog/2018/02/16/osm-is-in-trouble/" target="_blank">https://blog.emacsen.net/blog/2018/02/16/osm-is-in-trouble/</a></b><br><br>Wroclawski氏は、現在もまだ現在もまだOSMの思想と可能性を信じているとのことですが、いわゆる「プロジェクトの一般的な問題」にあたる「意志決定が不十分」なことが原因で前に進むことができないと感じているそうで、この問題が解決できれば、成功に転じる可能性が十分にあると述べています。<br><br><b>◆どのように編集したらいいかわからない</b><br>OSMにアクセスすると、「検索ウィンドウ」や地図、「ログイン」「編集」などのボタンが表示されます。しかし、いざ編集を行おうとすると、見たこともない地図の編集画面が表示されます。たとえば、道路を描くときは、「単純な一本の線で描くか、複数の線で描くのか」、「どれくらいの幅があるべきなのか」、「名前はどのように付けたらよいか」など、具体的なモデルがはっきりしていないため、地図編集者に無用な混乱を招く可能性が高いとのこと。<br></p><a href="https://i.gzn.jp/img/2018/02/20/openstreetmap-serious-trouble/01.png" target="_blank"><img src="https://i.gzn.jp/img/2018/02/20/openstreetmap-serious-trouble/01_m.png" border="0" class="lzsmall"></a><p class="preface"><br><b>◆謎の使用ポリシー</b><br>OSMはウェブサイトに作った地図を掲載することが可能ですが、無料使用のポリシーがあります。それは「1つのアプリケーションが地図に使用する帯域幅の5％を占有すること」に反しなければ無料使用可能というものです。制限を超えた場合は、アクセス拒否となってしまうとのことです。たとえば、とあるお店でOSMを無料使用でウェブページに公開していた場合、突然アクセス拒否を受けることで、お店側に客から不要なクレームを受ける可能性が考えられます。しかし、このポリシーには明確な基準が定まっておらず、利用者にとって非常にわかりづらいポイントになっていると指摘しています。<br><br><b>◆使えないジオコーダー</b><br>地図に住所を入力すると、入力した場所が表示されます。これを「ジオコーディング」と呼ぶのですが、OSMに搭載している「Nominatim」と呼ばれるジオコーダーは不良品です。例えば、「123 Main Street」と住所のクエリを入力して検索しても、ニューヨークではなく、別の場所の地図が表示される可能性が高く、また、「53th and 6th、New York City」のように交差点の名前を検索することができません。当然「近くのレストラン」などを検索することは不可能です。<br></p><a href="https://i.gzn.jp/img/2018/02/20/openstreetmap-serious-trouble/02.png" target="_blank"><img src="https://i.gzn.jp/img/2018/02/20/openstreetmap-serious-trouble/02_m.png" border="0" class="lzsmall"></a><p class="preface"><br><b>◆具体的なモデルやレビュー機能が存在しない</b><br>OSMの編集はその使いづらさから、初心者にはわかりづらいものであることは言うまでもありません。OSMにはチュートリアルに該当する物は存在しないので、自分なりに描いた地図を反映したとしても、あとから編集内容が悪いということで削除されることが考えられます。しかし、削除された理由に言及されることはないため、不要な混乱を招く可能性が高いと指摘しています。「荒らし」などの悪意ある更新に対しても、対応が難しいとのことで、荒らしがあった場合は削除されても、また同様の変更を加えられる可能性が高く、長時間悪い地図が残されたままとなる可能性もあるようです。<br><br><b>◆地図用途以外に柔軟性がほとんどない</b><br>以前、「<b><a href="https://ja.wikipedia.org/wiki/Pokemon_GO" target="_blank">Pokemon GO</a></b>」プレイヤーによって、モンスターの出現位置などが記録されていた時期がありました。しかし、OSMではこの種のデータは「プロジェクト範囲外」として、全て削除されたそうです。ゲームなどその他の観測要素などを地図に取り込むことができれば、より多くの人に利用してもらえるはずだとWroclawski氏は考えています。<br><br><b>◆APIの進化が遅い</b><br>現在公式で提供されているOSMの<b><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9" target="_blank">API</a></b>のバージョンは0.6です。そして、このバージョンは2009年から変更されていないとのこと。プロジェクト管理がずさんであることを意味しているとWroclawski氏は指摘しています。たしかにOSMのAPIも見事なものであるが、9年の月日はもっと優れたAPIが誕生していたはずだと、Wroclawski氏は述べています。<br><br><b>◆ゲートキーパーの存在</b><br>Wroclawski氏によると、「OpenStreetMap Foundation」には1人か2人の絶対君主ともいうべき<b><a href="https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%88%E3%82%AD%E3%83%BC%E3%83%91%E3%83%BC" target="_blank">ゲートキーパー</a></b>の存在がいることを明らかにしており、プロジェクトの進行が遅い要因になっていると指摘しています。<br></p><a href="https://www.flickr.com/photos/53801255@N07/8737945758/in/photolist-ej9fRd-5JPFC4-s6fgYK-75mcCp-psCxnU-CHk2fB-qMGB8L-wKzC1B-9EXFjs-9hDbwm-fE4xrH-89TcV5-WHxduw-E2iZ6-RB3U3q-fEm8vJ-bCQiqV-9EUKmB-fE4wVZ-bpVmwA-fEm7Th-bCQgVn-bCQhF4-fEm7Z7-bpVgmb-bCQhft-bpVg17-6g6Wxx-fE4xV8-sgptjp-bu1Ujb-4HpCzh-bu1Ncw-ahujD4-4DVAa4-bpVhwm-bpVj7L-bpVjXA-yYZSp-bpViBu-fE4nci-fE4xzp-fE4xiH-bbWFZt-dhzWra-sxFZXU-sggDnL-jtWQBG-bu1TWL-echRtH" target="_blank"><img src="https://i.gzn.jp/img/2018/02/20/openstreetmap-serious-trouble/03.jpg" border="0" class="lzsmall"></a><p class="preface"><small>By<a href="https://www.flickr.com/photos/53801255@N07/" target="_blank">nist6dh</a></small><br><br><b>◆OpenStreetMap Foundationの文化</b><br>OpenStreetMap Foundation(OSMF)は主に寄付によって成り立っており、特に寄付された<b><a href="https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%90" target="_blank">ホスティングサービス</a></b>に依存しているとのことで、有給の従業員はおらず、ソフトウェア基盤の開発に資金を提供したり、指揮したりすることはないようです。Wroclawski氏は運営自体に疑問を呈しているのではなく、OSMのリーダーは変化の必要性に迫られているにもかかわらず、プロジェクトが停滞していることに懸念を示しています。<br></p><!-- google_ad_section_end --></div>]]></description>
-			<pubDate>Tue, 20 Feb 2018 07:30:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>クリント・イーストウッド監督に銃乱射事件の当事者を出演させた映画「15時17分、パリ行き」についてインタビュー</title>
-			<link>https://gigazine.net/news/20180220-the-15-17-to-paris-clint-eastwood-interview/</link>
-			<description><![CDATA[<p>2018年3月1日(木)から公開されるクリント・イーストウッド監督の最新作「15時17分、パリ行き」は、2015年に国際高速列車タリスで発生した銃乱射事件を題材としています。イーストウッド監督は「アメリカン・スナイパー」「ハドソン川の奇跡」と実際の出来事に基づいた映画を連続して撮っていますが、本作はさらに一歩踏み込み、事件の当事者本人たちが出演する作品となっています。<p><b><a href="https://gigazine.net/news/20180220&#45;the&#45;15&#45;17&#45;to&#45;paris&#45;clint&#45;eastwood&#45;interview/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Tue, 20 Feb 2018 08:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>メールは遅すぎで「時代遅れ」だと若手起業家は感じている</title>
-			<link>https://gigazine.net/news/20180220-mail-too-slow-startup-world/</link>
-			<description><![CDATA[<p>メールに替わる連絡手段としてLINEなどメッセンジャーアプリが浸透してきましたが、メールはまだ第一線で活躍中で、特に社外の相手とやりとりするビジネスシーンでは欠かせないものです。しかし、20代から30代後半の若い起業家の間ではメールは遅くて時代遅れという考え方が多数あるとのこと。そんな考え方を持つ1人である、ジャーナリストのRachel Thompson氏が若い起業家の間でメールの使い方や、代わりの連絡手段としてどんな方法が好んで使用されているかを伝えています。<p><b><a href="https://gigazine.net/news/20180220&#45;mail&#45;too&#45;slow&#45;startup&#45;world/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Tue, 20 Feb 2018 08:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>人間と羊のハイブリッドが糖尿病治療や臓器移植にとっての光となるか？</title>
 			<link>https://gigazine.net/news/20180220-world-first-human-sheep-hybrid/</link>
 			<description><![CDATA[<p>移植手術用の臓器を無限に作り出したり、1型糖尿病の治療法となったりすることが期待されている技術が、人間に移植できる臓器を動物の体内で作るという「キメラ技術(人間と動物のハイブリッド)」です。これに関する研究の最新状況についてTelegraphが記しています。<p><b><a href="https://gigazine.net/news/20180220&#45;world&#45;first&#45;human&#45;sheep&#45;hybrid/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +165,24 @@
 			<link>https://gigazine.net/news/20180221-petro-venezuela-cryptoasset/</link>
 			<description><![CDATA[<p>南米のベネズエラ政府が、独自の仮想通貨「Petro」(ペトロ)を発行することを2018年2月20日に発表しました。アメリカによる経済制裁の影響を回避するための試みで、同国が持つ石油資産によってその価値が保証されるとされていますが、不透明な部分が多く残る状況になっているとのこと。<p><b><a href="https://gigazine.net/news/20180221&#45;petro&#45;venezuela&#45;cryptoasset/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Wed, 21 Feb 2018 11:03:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>テスラがハッキングされ仮想通貨を掘らされる</title>
+			<link>https://gigazine.net/news/20180221-tesla-cryptojacked/</link>
+			<description><![CDATA[<p>テスラが車載サービス提供のために運用しているクラウドプラットフォームがハッキングを受け、テスラ車の走行データを盗まれただけでなく、仮想通貨をマイニングさせられていたことが明らかになりました。<p><b><a href="https://gigazine.net/news/20180221&#45;tesla&#45;cryptojacked/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Wed, 21 Feb 2018 12:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ミスドにイタリアンレストラン監修の本格的なパスタ4種やマフィン・ホットサンドなど「ミスドゴハン」が登場したので10種の新メニューを食べつくしてきました</title>
+			<link>https://gigazine.net/news/20180221-misterdonut-misdogohan-pasta/</link>
+			<description><![CDATA[<p>ミスタードーナツで展開されている軽食メニューの「ミスドゴハン」に、パスタ・マフィン・ホットサンドの新メニュー10種が全国店舗で追加されました。特に4種類のパスタはイタリアンレストランチェーン「ピエトロ」監修で作られた本格的なものとのことで、いったいどんな味なのかミスタードーナツの店舗へ向かい、実際に食べてきました。<p><b><a href="https://gigazine.net/news/20180221&#45;misterdonut&#45;misdogohan&#45;pasta/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Wed, 21 Feb 2018 12:07:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>4.2インチの「iPhone SE 2」が6月のWWDCで登場するというウワサ、端末の詳細は？</title>
+			<link>https://gigazine.net/news/20180221-iphone-se-2-debut/</link>
+			<description><![CDATA[<p>2016年3月にiPhone SEが発売開始されてから、Appleは手のひらにすっぽり収まるサイズのiPhoneを発表しておらず、かねてから「2018年にiPhone SE 2が登場するのでは？」ということがウワサされてきました。そんな中、新たにサプライチェーンのレポートから、「2018年6月のWWDCでiPhone SE 2が登場する可能性」が報じられています。<p><b><a href="https://gigazine.net/news/20180221&#45;iphone&#45;se&#45;2&#45;debut/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Wed, 21 Feb 2018 12:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
