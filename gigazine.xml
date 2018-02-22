@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>Androidの次期OS「Android P」はスパイアプリが無断でカメラ＆マイクを起動するのを防ぐ</title>
-			<link>https://gigazine.net/news/20180221-android-p-prevent-spy-apps/</link>
-			<description><![CDATA[<p>「Android P」はAndroid Oreo(Android 8.0、8.1)に続くバージョン9.0に該当する次期OSで、現在開発が進められているとされています。Android Pにどのような機能が搭載されるのかについての情報も少しずつ判明してきていますが、「アプリがユーザーの許可を取らずにスマホのカメラやマイクにアクセスし、ユーザーのプライバシーを盗むことを防ぐ『スパイアプリ妨害機能』が搭載されるのではないか」との見方が強まっています。<p><b><a href="https://gigazine.net/news/20180221&#45;android&#45;p&#45;prevent&#45;spy&#45;apps/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Wed, 21 Feb 2018 14:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>AIに「スーパーマリオ64でスターをゲットする方法」を学習させる</title>
 			<link>https://gigazine.net/news/20180221-ai-learns-play-mario-64/</link>
 			<description><![CDATA[<p>機械学習やニューラルネットワークなどを用いて人工知能(AI)に学習を施し、AIひとりでゲームをクリアできるようにするという試みに多くのエンジニアたちが挑んでいます。Googleもゲーム専用の「DQN」というAIを開発しており、他にもAIにスーパーマリオワールドやスーパーマリオカートをプレイさせるという試みがインターネット上で公開されてきました。そんなAI×ゲームの試みで、ついに2Dゲームではなく3Dゲームの「スーパーマリオ64」を学習させるというものがスタートしています。<p><b><a href="https://gigazine.net/news/20180221&#45;ai&#45;learns&#45;play&#45;mario&#45;64/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180222-headline/</link>
 			<description><![CDATA[<p>アニメ「ポプテピピック」は次回の放送が第8話。これを「記念」して、AbemaTVの新作アニメチャンネルで2018年2月24日(土)25時から、「ポプテピピック」第8話8回連続エンドレス放送が実施されることになりました。<p><b><a href="https://gigazine.net/news/20180222&#45;headline/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Thu, 22 Feb 2018 18:22:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>無料で自分のパスワードが過去の漏洩データに載った危険なものかどうかをチェックできるサービス「Pwned Passwords」</title>
+			<link>https://gigazine.net/news/20180222-pwned-passwords/</link>
+			<description><![CDATA[<p>インターネットでサービスを利用するときにアカウントを保護するために設定する「パスワード」は、決して使い回さないことが大切だと考えられています。パスワードの使い回しによって芋づる式にアカウントを乗っ取られる危険があるわけですが、「Pwned Passwords」は自分が使っているパスワードが過去のデータ侵害で悪用されたものと同一かどうかを判別してくれます。<p><b><a href="https://gigazine.net/news/20180222&#45;pwned&#45;passwords/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Thu, 22 Feb 2018 19:07:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
