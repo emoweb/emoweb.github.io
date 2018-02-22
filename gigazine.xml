@@ -5,24 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>「ウェブサイトの広告を表示させるか仮想通貨マイニングを手伝うか」と読者に選択させるサイトが登場</title>
-			<link>https://gigazine.net/news/20180221-magazine-mines-crypto-cash-with-readers-pc/</link>
-			<description><![CDATA[<p>ウェブサイトを開いたときに表示される広告は、そのサイトの収入源となって運営のための資金を生み出してくれるものですが、ブラウザの拡張機能である広告ブロッカーによってその収入が断たれてしまうのはサイト運営者にとって大きな悩み事です。そのための対策として「広告ブロックを無効にしていただけると助かります」などのメッセージを表示させるサイトが増えてきていますが、あるメディアは「広告を表示するか、かわりに仮想通貨のマイニングに協力するか」というチョイスを読者にゆだねるという対策をとっています。<p><b><a href="https://gigazine.net/news/20180221&#45;magazine&#45;mines&#45;crypto&#45;cash&#45;with&#45;readers&#45;pc/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Wed, 21 Feb 2018 07:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>レンジローバースポーツPHEVが斜度45度・999段の大階段と99個のコーナーが続く秘境の峠道を走破するムービー</title>
-			<link>https://gigazine.net/news/20180221-99-turns-999-steps-mountain/</link>
-			<description><![CDATA[<p>中国にそびえる標高1519メートルの険しい山「天門山」では、その山肌をなめるように曲がりくねった99個のヘアピンカーブが連なり、その先にある山腹には天空につながる斜度45度・999段の階段が連なる坂道が待ち構えています。そんな山道と階段を走破する挑戦「Dragon Challenge」(ドラゴン・チャレンジ)で、新型レンジローバースポーツのハイブリッドモデル「P400e」が走行するムービー「Range Rover Sport – Dragon Challenge」が、ランドローバーの公式YouTubeチャンネルで公開されています。<p><b><a href="https://gigazine.net/news/20180221&#45;99&#45;turns&#45;999&#45;steps&#45;mountain/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Wed, 21 Feb 2018 07:30:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>命中すると塗料をぶちまけるペイント弾はいったいどうやって作られるのかがよく分かるムービー</title>
-			<link>https://gigazine.net/news/20180221-how-paintballs-are-made/</link>
-			<description><![CDATA[<p>「ペイントボール」は、直径約2cmほどのペイント弾をガス銃で撃ち合うというサバイバルゲームに似た競技です。ペイントボールは日本ではあまりなじみがありませんが、アメリカでは世界大会がテレビ放映されるほどの人気ぶりを見せるスポーツです。そのペイントボールで用いるペイント弾がいったいどうやって作られるのかが、INSIDERによる以下のムービーで説明されています。<p><b><a href="https://gigazine.net/news/20180221&#45;how&#45;paintballs&#45;are&#45;made/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Wed, 21 Feb 2018 08:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>機械学習を使って自動で開いたページを分類してタグ付けしてくれるモバイル用ブラウザ「Que」</title>
 			<link>https://gigazine.net/news/20180221-que-review/</link>
 			<description><![CDATA[<p>モバイルのブラウザであれこれと検索して大量のタブを開く人は多いでしょうが、あまりにもたくさんタブを開いたせいで、なかなか目当てのタブが見つからずにイライラすることもあります。そんな悩みを解決するべくmaltz8さんが開発した、「開いたタブを自動で分類して整理する」モバイルブラウザ「Que キュー」が無料でリリースされています。<p><b><a href="https://gigazine.net/news/20180221&#45;que&#45;review/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +165,24 @@
 			<link>https://gigazine.net/news/20180222-youtube-found-japanese-music/</link>
 			<description><![CDATA[<p>YouTubeの自動再生機能により、日本で1983年にリリースされたレコードの楽曲が言語と時代の壁を超えて世界中に発信され、再生数が100万回を超えるというできごとが起こっています。<p><b><a href="https://gigazine.net/news/20180222&#45;youtube&#45;found&#45;japanese&#45;music/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Thu, 22 Feb 2018 09:58:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>SIMカードをSoCに統合する「iSIM」をARMが発表、スマートデバイスの省スペース化が加速</title>
+			<link>https://gigazine.net/news/20180222-isim/</link>
+			<description><![CDATA[<p>複雑な電子機器をより小型化するには、端末内部のスペースが1ミリ単位で重要になってきます。しかし、スマートフォンなどインターネット通信を行う端末に必須なSIMカードおよびそのスロットは、ハードウェアメーカーにとって長らく省スペース化の大きな障害となっていました。そんな中、イギリスの半導体設計の「ARM」が、SoC上にSIMカードを組み込む「iSIM」と呼ばれるコンポーネントを開発していることを発表しています。<p><b><a href="https://gigazine.net/news/20180222&#45;isim/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Thu, 22 Feb 2018 10:49:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>自分でドアを開けるボストン・ダイナミクスの「SpotMini」は人間に邪魔されても自分で考えて任務を完遂可能</title>
+			<link>https://gigazine.net/news/20180222-boston-dynamics-spotmini-testing-robustness/</link>
+			<description><![CDATA[<p>ボストン・ダイナミクスが開発した4本足ロボット「SpotMini」はドアノブをつかんでドアを開けることが可能なロボットですが、その優秀さはドアを開ける能力だけではありません。このロボットは、ドアを開ける操作を人間に邪魔されてもそれにメゲず、成功するまで何度も自分でやり直して任務を完了させる能力を備えています。<p><b><a href="https://gigazine.net/news/20180222&#45;boston&#45;dynamics&#45;spotmini&#45;testing&#45;robustness/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Thu, 22 Feb 2018 11:01:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>オレオ超増量でザクザク感MAXのオレオ好きにはたまらない「マックフルーリー 超オレオ」を食べてみた</title>
+			<link>https://gigazine.net/news/20180222-mcdonalds-mcflurry-cho-oreo/</link>
+			<description><![CDATA[<p>2018年2月21日(水)より、マクドナルドから「マックフルーリー 超オレオ」が期間限定で登場しています。レギュラーメニューの「マックフルーリー オレオ」にトッピングされているナビスコの人気ビスケット「オレオ」を「超盛り」にしたとのことで、2017年に（株）ドワンゴ主催のイベント「ニコニコ超会議2017」で2日間限定配布を実施した時は、行列ができるほど人気だったそうです。普通の「マックフルーリー オレオ」でも相当な「オレオ感」が味わえますが、超盛りになったことで一体どれほどオレオ感がアップしているのか、早速食べて確かめてきました。<p><b><a href="https://gigazine.net/news/20180222&#45;mcdonalds&#45;mcflurry&#45;cho&#45;oreo/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Thu, 22 Feb 2018 11:45:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
