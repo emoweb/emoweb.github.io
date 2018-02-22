@@ -5,12 +5,6 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d21</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>AIよりも圧倒的な求人ニーズ、既存技術に強いエンジニア（デジタルシフトを急げ）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/012600633/012900006/</link>
 			<description><![CDATA[　ITエンジニアの不足が深刻化する一方で、企業がエンジニアに求める技術が高度になってきた。AI（人工知能）やIoT（Internet of Things）など新しい技術を使った開発ニーズの高まりなどが背景にある。エンジニアは今後どんなスキルを身に付ければよいのか、転職はどう考えるべきなのか解説する。]]></description>
@@ -775,6 +769,40 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 22 Feb 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>2017年のサイバー犯罪の被害額、オーストラリアは23億豪ドル（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/022200472/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Symantecが2018年2月20日に発表した調査レポート「2017 Norton Cyber Security Insights Report」によると、オーストラリアで2017年にサイバー犯罪の被害に遭った消費者は600万人以上に及び、被害額は23億豪ドルだった。
+</p>
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022200472/top.jpg" width="320" alt="" title=""></div></div>
+<p>
+　同レポートのデータでは、成人人口の26％がサイバー犯罪の被害に遭い、2016年に比べて13％増えた。1人当たりの平均被害額は195豪ドルだった。また、被害の後処理にかかった時間は16.2時間で、24％伸びた。
+</p>
+<p>
+　世界全体の調査結果で見ると、サイバー犯罪の被害に遭う人には共通する特徴があった。自宅や外出先で複数のデバイスを使うごく普通の消費者であるものの、サイバーセキュリティの基本に関して盲点があった。具体的には、複数のアカウントで同じパスワードを使い回したり、そのパスワードを他人と共有したりという傾向が見られた。また、被害に遭った消費者の29％は、そうした経験に反して、個人情報やデータを将来の攻撃から守ることについて自らの能力にいっそう自信を持っているという。
+</p>
+<p>
+　SymantecでNorton事業部門の太平洋地域担当マネージャーを務めるMark Gorrie氏は次のように言う。「消費者の行動から、危ういギャップが明らかになった。サイバー犯罪活動の話が絶えずメディアで報じられているにもかかわらず、自分は絶対大丈夫と信じている様子の人があまりに多く、ごく基本的な自衛策すら講じていない」
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022200472/?ST=cm-network&P=2">オーストラリアでは、データ漏えいが発生した場合に報告を義務づける...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022200472/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022200472/?ST=cm-network&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022200472/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 22 Feb 2018 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
