@@ -5,18 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>カナディアン系投資法人、2.2MWの発電所を取得 </title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/022010784/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Tue, 20 Feb 2018 16:55:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>沖縄で家庭向け電力小売、太陽光とバイオマス活用</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/022010785/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Tue, 20 Feb 2018 17:12:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>会津若松市内で「スマートバス停」、太陽光で電子ペーパー駆動</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/022010786/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -237,6 +225,18 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/022310802/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　介護事業者向けの経営支援サービス「カイポケ」を手掛けるエス・エム・エス（SMS）は2018年2月22日、同サービスの会員を対象にスマートフォン端末をレンタルする「カイポケモバイル」の提供を開始した。モバイル端末の導入がなかなか進まない介護現場に、“格安スマホ”並みの価格でスマートフォンを提供するサービスである。</p><p>　月額利用料は、カイポケ会員が2500円、カイポケフリー会員が3000円。24時間365日の通話し放題、高速データ通信量7Gバイトのプランが付く。解約時の違約金は不要。故障時・紛失時の補償、紛失時の端末初期化サービスが基本パッケージに付いている（故障修理保障、紛失保障は別途有料）。アンチウイルスソフトは標準でインストールされている。</p><p>　介護現場にスマートフォンを提供することにより、記録業務などの効率化を支援する狙いだ。例えば、同社の訪問介護事業者向けサービス「カイポケ訪問記録（ウェブ版）」を合わせて利用することによる業務効率化をサポートする（カイポケ会員限定の提供サービス）。</p><p></p><h4>厚労省のガイドラインでBYOD原則禁止が明確化</h4><p>　介護現場では、モバイル端末料・利用料が高い、契約期間のしばりがあるなどの理由から事業者の法人契約による端末導入が進まず、職員の個人所有端末を業務で利用している現状がある。ただし、介護事業者にも適用が求められることになった厚生労働省の「医療情報システムの安全管理に関するガイドライン 第5版」では、BYOD（Bring Your Own Device）の原則禁止が明確化された<a href="http://tech.nikkeibp.co.jp/dm/atcl/event/15/052600126/060600005/?ST=health" target="_blank">（関連記事）</a>。</p><p>　カイポケモバイルは、このBYOD原則禁止に対応するため、低コストによる事業者管理のモバイル端末導入を促進できる。一方、事業者は同ガイドラインに準じた端末管理・運用管理を行うことが求められる。</p></div>]]></description>
 			<pubDate>Fri, 23 Feb 2018 13:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>東芝がLiDARに本気、真夏の太陽下で200mを誤差0.125%の計測可能なSoC</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/event/15/111400153/022300024/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 23 Feb 2018 13:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>NEC、電子カルテ端末でWebサイト利用を可能に</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/022310803/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><div class="bpbox_right" style="width:200px;"><div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/022310803/?SS=imgview_ndh&amp;FD=-1099032330" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/news/16/022310803/n1.jpg?__scale=w:200,h:227&amp;_sh=02e08f0d90" width="200" height="227" alt=""></a></div><div>ID-Linkインターネットゲートウェイサービスの接続例（上図：公開施設の例、下図：閲覧施設の例）。閲覧施設は、電子カルテ端末からID-Linkと徒弟サイトへのアクセスが可能。</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　NECは、地域医療連携ネットワークサービス「ID-Link」のオプションサービスとして、院内の電子カルテ端末などから特定のWebサイトへのアクセスを可能にする「ID-Linkインターネットゲートウェイサービス」の提供を開始した。ID-Linkを利用する医療機関が同サービス用の「ID-Link miniアプライアンス」を導入することで利用できる。価格は、アプライアンス本体が98万円、設定作業が45万円、月額2万円。</p><p>　医療機関はインターネットと隔離された院内ネットワークを構築していることが多いが、電子カルテ端末から医療情報収集のためのWebサイトへのアクセス、あるいはOffice 365などクラウドサービス利用への要求が高まっている。今回のサービスは、ファイアウォールのような高度なフィルタリングや情報流出などのセキュリティー対策には対応しないものの、そうした要求を踏まえて安全なサイトやサービスの利用を可能にする。</p><p>　サービス利用のために導入するID-Link miniアプライアンスは、プロキシ機能を持ち、ホワイトリストの設定に基づいて特定のWebサイトやクラウドサービスなどへのアクセスを許可するもの。ID-Linkによる地域医療連携ネットワークに参加する診療情報公開施設（公開用ゲートウエイサーバー設置施設）、および閲覧施設（公開用ゲートウエイサーバー未設置施設）の両施設とも利用できる。閲覧施設については、SSL/TLSクライアント証明書のインストールをしなくても、ID-Linkサービスを利用することができる。</p><p>　ホワイトリストは、医療機関が自らの責任で指定し、ID-Linkサービスセンターからアプライアンスに対してリモート設定を行う。その他、インターネットゲートウェイサービスを維持するために、ファイアウォールの軽微な設定変更、アプライアンスの監視サービス（死活管理）などを行う。これらのメンテナンスサービスは、L2TPv3/IPsec方式を用いて行われる。</p></div>]]></description>
+			<pubDate>Fri, 23 Feb 2018 13:45:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
