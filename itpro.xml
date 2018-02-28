@@ -5,16 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d28</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>KDDI、「個人向け世界最速」うたう10GbpsのFTTHサービス（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020903132/</link>
-			<description><![CDATA[　KDDIは2018年2月8日、個人向けFTTHサービス「auひかり ホーム」に、通信速度が上り下りとも最大10Gbpsの「auひかり ホーム10ギガ」と同5Gbpsの「auひかり ホーム5ギガ」を加えると発表した。]]></description>
-			<pubDate>Fri, 09 Feb 2018 15:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n28</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ヤマハ、同社初のL3スイッチなど6製品を3月発売（ニュース）</title>
@@ -881,6 +875,41 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 28 Feb 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>SAP Cloud Platformにプリペイド方式を追加、iOS用SDKも更新（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/022800474/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　携帯電話にプリペイド式のサービスが最初に導入されてから20年以上になる。ここへ来て、独SAPもプリペイド式のサービスに乗り出すことになった。同社は、バルセロナで開催中の「Mobile World Congress 2018」で現地時間2018年2月26日、PaaS型クラウドサービス「SAP Cloud Platform」に、利用した分だけ料金が発生するプリペイド式の新しいモデルを追加することを発表した。クラウドサービスを使ったイノベーションや実験を考えている企業にとっては魅力的な料金モデルだ。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022800474/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Peter Sayer/IDG</div>
+</div>
+<p>
+　また同社は、SAP Cloud Platformと連携するiOS用アプリを開発するためのSDKのアップデートも明らかにした。このSDKの初回バージョンは、1年前のMobile World Congress 2017で発表された。SAPとしては、SAP Cloud Platformの料金モデルだけでなく、そのサービスと連携するモバイルアプリの魅力も高めたいと考えている。
+</p>
+<p>
+　モバイル用APIへのアクセスや1時間分の演算処理など、SAPのプリペイド式サービスで課金対象となる個別の処理の料金は、それぞれ数セントや数ドルといった単位かもしれない。しかし、スーパーマーケットのレジで10ドル分のチャージを購入するといった使い方はできない。代わりに「クラウドクレジット（cloud credit）」というものを、例えば12万ドルの前払いといった形で購入し、それをサービス利用料の支払いに使う。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022800474/?ST=cm-cloud&P=2">クラウドクレジットは、SAPCloudPlatformのどのサー...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022800474/?ST=cm-cloud&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022800474/?ST=cm-cloud&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022800474/?ST=cm-cloud&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 28 Feb 2018 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
