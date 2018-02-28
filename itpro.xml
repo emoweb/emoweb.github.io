@@ -5,16 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n01</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ヤマハ、同社初のL3スイッチなど6製品を3月発売（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020903135/</link>
-			<description><![CDATA[　　ヤマハは2018年2月9日、企業向けLANスイッチ新製品を3月に発売すると発表した。希望小売価格（税抜き）は7万4800円から。]]></description>
-			<pubDate>Fri, 09 Feb 2018 15:37:17 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d01</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>シスコ1位でセールスフォースが4位、日本の働きがいのある会社ランキング（ニュース）</title>
@@ -910,6 +904,40 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 28 Feb 2018 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>量子コンピューティング、企業のCIOは今から検討を（後）（量子コンピューティング、企業のCIOは今から検討を）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/021600115/021600002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　かつては絵に描いた餅のように思われていた量子コンピューティングだが、古典的なコンピューティングモデルでは手に負えなかった課題や、機械学習、最適化、検索に取り組むための手段として、台頭のきざしを見せつつある。企業の最高情報責任者（CIO）は、量子コンピューティングについて今のうちに検討を始めておかないと、ライバルの後塵を拝する恐れがあると米Gartnerは言う。</p>
+
+<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/021600115/021600001/" target="_blank">前回</a>から続く）</p>
+
+<h4>量子コンピューターの速度</h4>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600115/021600002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　1つの到達点としてさかんに追求されているのが、量子コンピューターの計算能力が現在最速のスーパーコンピューターよりも優れていることを示す「量子超越性」の実証だ。一般的な認識では、量子超越性は50量子ビットで示せるものとされている。しかし、量子ビットの数が増えるほど、コヒーレンスの維持は難しくなる。量子コンピューティングのパフォーマンスは、つまるところ量子エラーの抑制にかかっているとBrisse氏は言う。</p>
+
+<p>　「量子ビットの重ね合わせと量子もつれをどれだけ長く維持できるかが肝心だ。そこが本当の指標になる」。真の量子超越性に到達し、システムがコヒーレンスを十分に維持して量子が本領を発揮できるようになるのは、1～2年先だと同氏は見る。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600115/021600002/?ST=cm-hardware&P=2">量子コンピューティングのアーリーアダプター</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600115/021600002/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600115/021600002/?ST=cm-hardware&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600115/021600002/?ST=cm-hardware&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600115/021600002/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 01 Mar 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
