@@ -5,16 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n02</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「楽天は良いパートナーと考えていたが」、NTTの鵜浦社長（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020903137/</link>
-			<description><![CDATA[　NTTの鵜浦博夫社長は2018年2月9日、2017年4～12月期決算説明会で楽天の携帯電話事業参入に対する見解を問われ、「詳細が分からないので一方的なコメントは控えたい」と前置きしたものの、不快感を示した。]]></description>
-			<pubDate>Fri, 09 Feb 2018 17:57:32 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d02</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>NTTの2017年4～12月期決算は増収増益、海外事業で成長目指す（ニュース）</title>
@@ -970,6 +964,39 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 01 Mar 2018 10:03:59 +0900</pubDate>
+		</item>
+		<item>
+			<title>CRMとERP、企業はどちらをどう使うべきか（下）（CRMとERP、企業はどちらをどう使うべきか）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/021600114/021600003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　ERP（統合基幹業務）とCRM（顧客関係管理）システムは、コンタクト管理や顧客企業の情報、あるいは受注に関するさまざまな情報を扱うという点で、守備範囲が重なり合っているように思える。実際、一部のERPベンダーは、CRMや人事管理、幹部のゴルフのスケジュール管理に至るまで、さまざまなものがERPの範疇に含まれていると主張する。ERPとCRMを巡る話は、漠然として分かりにくいことばかりで、その結果、論点がつかみにくくなっている。</p>
+
+<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/021600114/021600002/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600114/021600003/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　Salesforce.comのようなCRMシステムは、eコマース、カスタマーサービス、コールセンターなど、顧客関係を巡る他の領域までカバーしている場合も当然ある。いかに包括的なCRMシステムであっても、その中に格納されているデータの99％以上は、ERPシステムには無関係だ（推測にはほとんど役に立たず、確定しなかった受注や今後も見込みのない受注に関しては何の役にも立たない）。</p>
+
+<p>　CRMシステムの場合、ごくシンプルなシステムでも、データベースのテーブルを十数個使ってセールスプロセスを管理している。その中には、列の数が非常に多いテーブルもある（アカウントのテーブルで列数が200個に及ぶことも何ら珍しくない）。また、テーブルが複数のレベルの子を持つ場合もある。CRMのテーブルは、標準的なデータ型が中心だ（BLOB型はまずない）。だが、ERPシステムとは違って、CRMは非構造化テキストを大量に抱えており、数ギガバイトのドキュメントを保持している場合もある。CRMシステムには、企業インフラの他の要素（例えばWebサイト、契約管理システム、電子署名システム、発送／流通システム、経理システムなど）と連携している部分がいくつかあるのが一般的だ。</p>
+
+<p>　当然ながら、CRMシステムの出力は、ERPシステムの入力となるべきものだ。だが、そのように連携すべき対象は、実際に顧客となった企業や、実際に確定した受注に限られる。逆に、ERPの出力のうち、出荷、到着日、請求書、未払残高など、顧客から問い合わせがあるかもしれない情報については、CRMのユーザーも読み取り専用でアクセスできれば便利だ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600114/021600003/?ST=cio-management&P=2">CRMとERPの連携</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600114/021600003/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600114/021600003/?ST=cio-management&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600114/021600003/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+</div>
+]]></description>
+			<pubDate>Fri, 02 Mar 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
