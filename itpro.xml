@@ -11,12 +11,6 @@
 			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>NTTの2017年4～12月期決算は増収増益、海外事業で成長目指す（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020903138/</link>
-			<description><![CDATA[　NTTは2018年2月9日、2017年4～12月期連結決算（米国会計基準）を発表した。売上高は前年同期比4.3％増の8兆7220億円、営業利益は同0.1％増の1兆3196億円と増収増益だった。売上高、営業利益ともに過去最高。]]></description>
-			<pubDate>Fri, 09 Feb 2018 19:15:16 +0900</pubDate>
-		</item>
-		<item>
 			<title>コインチェックが13日から日本円の出金を再開、流出したNEMの補償は未定のまま（ニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020903139/</link>
 			<description><![CDATA[　仮想通貨取引所のコインチェックは2018年2月9日、顧客から預かった日本円の出金機能を2月13日に再開すると発表した。同社は仮想通貨「NEM」の巨額流出が明らかになった1月26日の昼以降、次々と取引所の機能やサービスを停止し、同日の午後4時台に日本円の出金を停止していた。]]></description>
@@ -997,6 +991,45 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 02 Mar 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ServiceNow、MariaDBに移行して密接な関係を構築（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/030200475/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　SaaS型のITサービスマネジメントソリューションを手がける米ServiceNowは、オープンソースのデータベース「MariaDB」に移行し、1時間に250億件のクエリを処理している。同社は、フィンランドMariaDB Corporationと密接に協力しながら、成長計画を推し進めている。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/030200475/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Computerworld UK</div>
+</div>
+<p>
+　ServiceNowが利用しているのは、MariaDBのエンタープライズ版である「MariaDB TX」だ。MariaDBの中核技術に加え、その管理、バックアップ、監視のため各種ツールやサービスが一体化された、サブスクリプション型の有償パッケージである。
+</p>
+<p>
+　ServiceNowはMariaDBを空前の規模で利用し、世界全体で8万5000近くのデータベースを稼働している。細かく言えば、MariaDBのインスタンスは8万4876個、InnoDBテーブルは1億7668万6129個、処理するクエリは1時間に250億件だ。
+</p>
+<p>
+　以前はオープンソース版の「MySQL」を基盤としていたServiceNowだが、3年前に限界に挑み始めた。同社のオペレーション担当ディレクター、Tim Yim氏は、幸いにしてMariaDBへの移行は単純な入れ替えで済んだと話す。現在は米Oracle傘下にあるMySQLからMariaDBへの移行が単純な入れ替えで済むという表現は、MariaDB自身も好んで使っている。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/030200475/?ST=cm-software&P=2">厄介なのは、ServiceNowはそれぞれの顧客企業にデータベー...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/030200475/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/030200475/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/030200475/?ST=cm-software&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/030200475/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 02 Mar 2018 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
