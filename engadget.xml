@@ -5,17 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    アップル、謎の(おそらくApple Watch用)充電ケースの特許を取得。スマートバンドの充電にも対応？
-</title>
-			<link>http://japanese.engadget.com/2018/02/28/apple-watch/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/12ca9bb0d17cfcf19c1a716251b26374/206167319/WatchCase.png" />
-アップルが「ウェアラブル電子機器のケース」に関する特許を取得したことが明らかになりました。特許の画像から判断して、おそらくApple Watchを外出中に充電できるキャリングケースと推測されます。
-
-このケースは本体とともにバンドを内部に収納できる形態。さらに追加センサーやバッテリーなどApple Watchの機能を補完する「スマートバンド」の登場が示唆される内容となっています。
- ]]></description>
-			<pubDate>Wed, 28 Feb 2018 05:30:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    2008年の今日、パーソナルコミュニケーター「mylo COM-2」が発売されました：今日は何の日？
 </title>
 			<link>http://japanese.engadget.com/2018/02/28/2008-mylo-com-2/</link>
@@ -486,6 +475,15 @@ Xperia Ear Duo発表。耳を塞がずに音楽が楽しめる、完全ワイヤ
 
  ]]></description>
 			<pubDate>Thu, 01 Mar 2018 22:45:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    GitHubに最大1.35TbpsのDDoS攻撃発生。断続的にサービス停止も、短時間で復旧果たす
+</title>
+			<link>http://japanese.engadget.com/2018/03/01/github-1-35tbps-ddos/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/17c42b86a9811f34ce9978258cc24134/206174135/source.jpg" />
+日本時間3月1日午前2時15分頃、ソフトウェア開発プロジェクト共有サービス「GitHub」に最大で1.35Tbpsものトラフィックが押し寄せる DDoS攻撃(Distributed Denial of Service attack)が発生しました。この影響でサービスは断続的なサービス停止を余儀なくされましたが、GitHub側が慌てることなく適切な対策を講じたため短時間で攻撃をかわし切り、復旧を果たしています。
+ ]]></description>
+			<pubDate>Thu, 01 Mar 2018 23:30:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
