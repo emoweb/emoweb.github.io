@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>3つの鍵盤を持つ不思議なピアノをドッペルゲンガーが次々に演奏していくように見える「Peace for Triple Piano」はどのように撮影されたのか？</title>
-			<link>https://gigazine.net/news/20180302-peace-for-triple-piano/</link>
-			<description><![CDATA[<p>360度天球カメラで撮影した映像をシームレスに繋ぎ合わせ、3つの鍵盤を持つ不思議なピアノをドッペルゲンガーが次々に演奏していくように見えるムービー「Peace for Triple Piano」が公開されました。同時にメイキングも公開されているのですが、数学者のHenry Segerman氏の協力を得て10週間かけて作成されたという、恐ろしく緻密な作業が明かされています。<p><b><a href="https://gigazine.net/news/20180302&#45;peace&#45;for&#45;triple&#45;piano/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Fri, 02 Mar 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>大昔にまな板として敷かれていた本が今や世界に4冊しかない本としてユネスコ記憶遺産に登録されている</title>
 			<link>https://gigazine.net/news/20180302-rare-book-used-cutting-board/</link>
 			<description><![CDATA[<p>イギリスで10世紀頃に書かれた詩集の1冊「エクセター本」は、世界に4冊しか残っていない写本のうちの1番古い1冊であり、ユネスコの記憶遺産に登録されている希少な書物です。その本は、大昔にビールを置く「コースター」や「まな板」などの代わりとして使用された跡があるとAtlas Obscuraが紹介しています。<p><b><a href="https://gigazine.net/news/20180302&#45;rare&#45;book&#45;used&#45;cutting&#45;board/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180303-piezoelectric-quartz-crystal/</link>
 			<description><![CDATA[<p>ガラスの材料にもなる石英が六角柱状に結晶化したものが水晶です。水晶は透明で非常に硬い鉱石で、結晶内の不純物によってさまざまな色味を帯び、「アメシスト」・「メノウ」・「ローズクォーツ」などさまざまな名前で呼ばれます。水晶は古来より宝石として扱われていましたが、実は電子機器の部品の素材としても非常に重要な鉱石です。今から70年前に水晶を軍用無線機の部品として加工している様子の記録映像が、パブリックドメインとしてYouTubeで無料公開されています。<p><b><a href="https://gigazine.net/news/20180303&#45;piezoelectric&#45;quartz&#45;crystal/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Sat, 03 Mar 2018 20:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Googleがクロマキー合成なしで撮影中のムービーから背景をリアルタイム除去することに成功</title>
+			<link>https://gigazine.net/news/20180303-google-real-time-video-segmentation/</link>
+			<description><![CDATA[<p>YouTube ライブなどで生放送を行っている人を見ると、配信者の背景にゲーム画面など別の画面を映し出していることがあります。この撮影を行うにはクロマキー合成などを使用することで実現可能ですが、あらかじめ背景となる部分にグリーン一色の壁を張り巡らすなど、手間のかかる準備が必要です。そこでGoogleはこのような手間のかかる準備をなくすため、撮影中のリアルタイムの映像から背景のみを除去する技術を開発したとのことです。<p><b><a href="https://gigazine.net/news/20180303&#45;google&#45;real&#45;time&#45;video&#45;segmentation/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Sat, 03 Mar 2018 21:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
