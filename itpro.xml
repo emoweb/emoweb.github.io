@@ -5,16 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n05</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>コインチェックが13日から日本円の出金を再開、流出したNEMの補償は未定のまま（ニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/news/17/020903139/</link>
-			<description><![CDATA[　仮想通貨取引所のコインチェックは2018年2月9日、顧客から預かった日本円の出金機能を2月13日に再開すると発表した。同社は仮想通貨「NEM」の巨額流出が明らかになった1月26日の昼以降、次々と取引所の機能やサービスを停止し、同日の午後4時台に日本円の出金を停止していた。]]></description>
-			<pubDate>Fri, 09 Feb 2018 21:30:44 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d05</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ネットワーク中立性（Close Up Keyword）</title>
@@ -1030,6 +1024,43 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 02 Mar 2018 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>メールのセキュリティ対策、SPF／DKIM／DMARCの勘所（上）（メールのセキュリティ対策、SPF／DKIM／DMARCの勘所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/022800116/022800001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　フィッシングメールやスパムメールは、ハッカーが企業のネットワークに入り込むのにうってつけの手段だ。悪質な添付ファイルを社員1人がクリックするだけで、ランサムウエア、クリプトジャッキング（マシンの処理能力を仮想通貨のマイニングに無断利用する行為）、データ流出、アクセス権の昇格といった形で、社内全体に危険が及びかねない。</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　こうした攻撃の可能性を減らすために、メールのなりすましや詐称を排除するセキュリティの仕組みがいくつか考案されている。代表的なものは次の3つだ。IT界でよくあるように、それぞれの守備範囲は必ずしも重なり合ってはおらず、複数の仕組みが互いに大きく補完し合う関係にある。ごく普通の企業でも、この3つの対策がすべて必要となるケースは多々ある。</p>
+
+<ul>
+<li>SPF（Sender Policy Framework）：DNSに特別なレコードを追加して、自ドメインのメールの送信に使えるサーバーを限定するための仕組み</li>
+<br>
+<li>DKIM（DomainKeys Identified Mail）：メールの中身が信用できるかどうかや、詐称や改ざんがないかどうかを検証するための仕組み</li>
+<br>
+<li>DMARC（Domain-based Message Authentication, Reporting and Conformance）：SPFとDKIMを組み合わせ、一貫したポリシーのもとで運用するための仕組み</li>
+</ul>
+
+<p>　SPF／DKIM／DMARCという3種類の対策が必要な理由は、フィッシングメールやスパムメールを防ぐためのどの部分に対処するかという点で、この3つは対象が少しずつ異なることだ。3つを併用すると、公開鍵／秘密鍵を使った署名や、DNSのレコードを使った送信元ドメインの検証など、認証と暗号化のための標準的な手法を組み合わせて適用できる。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800001/?ST=cio-security&P=2">また、こうした策の必要性は、インターネットの電子...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800001/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800001/?ST=cio-security&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800001/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+</div>
+]]></description>
+			<pubDate>Mon, 05 Mar 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
