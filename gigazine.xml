@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>人はいくらお金を稼げば幸福を買えるのか？</title>
-			<link>https://gigazine.net/news/20180302-does-money-buy-happiness/</link>
-			<description><![CDATA[<p>「幸福はお金で買えない」という言葉を耳にすることがありますが、幸福とお金に関わる最近の研究結果によると、ある程度のお金を稼ぐことが人生における達成感や満足感に影響するそうです。<p><b><a href="https://gigazine.net/news/20180302&#45;does&#45;money&#45;buy&#45;happiness/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Fri, 02 Mar 2018 07:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>社会の省エネ化が進んだことでアメリカの電力会社は大きな転換点を迎えようとしている</title>
 			<link>https://gigazine.net/news/20180302-electricity-demand-flat-utilities-freaking-out/</link>
 			<description><![CDATA[<p>テクノロジーの進歩により、アメリカでは国土全体の電力需要が頭打ちの様相を示し、長らく横ばいの状況が続いています。社会全体が高効率化することでムダが省かれ、排出される二酸化炭素も減少するという好ましい事態であることは確かですが、その電力を生み出している電力会社は従来のような収益が得られなくなっており、将来に向けた新たな生き残り方を模索することが強いられる状況となっています。<p><b><a href="https://gigazine.net/news/20180302&#45;electricity&#45;demand&#45;flat&#45;utilities&#45;freaking&#45;out/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180304-how-films-win-oscar/</link>
 			<description><![CDATA[<p>アカデミー賞といえば、受賞作品に授与されるオスカー像から通称「オスカー」とも呼ばれる世界的な映画賞です。そんな「アカデミー賞に輝く映画はどうやって選ばれているのか？」について説明したムービーが、YouTubeで公開されています。<p><b><a href="https://gigazine.net/news/20180304&#45;how&#45;films&#45;win&#45;oscar/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Sun, 04 Mar 2018 09:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>2万3000件以上のSSL/TLS証明書の秘密鍵が電子メールでやりとりされたことが判明し、その全てが失効となる事態に</title>
+			<link>https://gigazine.net/news/20180304-private-keys-on-emails/</link>
+			<description><![CDATA[<p>SSL/TLS証明書の大手認証局であるDigiCertは2018年2月28日に、約2万3000件の証明書を即時失効したと発表しました。失効の理由は、証明書販売代理店のCEOが証明書の秘密鍵を電子メールで送信してしまったためとのことです。<p><b><a href="https://gigazine.net/news/20180304&#45;private&#45;keys&#45;on&#45;emails/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Sun, 04 Mar 2018 13:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
