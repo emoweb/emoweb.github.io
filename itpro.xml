@@ -5,46 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d06</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IntelがSpectre対策の修正版をリリース、Skylakeシステム向け（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/021300403/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Intelは現地時間2018年2月7日、CPU脆弱性「Spectre」に対処するパッチの修正版のうち、Skylakeベースの一部のプラットフォームに向けたバージョンを、パートナー企業に対して正式にリリースしたと発表した。該当するパソコンの利用者は、この最新のパッチが自分のマシン向けに提供された時には、インストールする必要がある。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021300403/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Google/Natascha Eibl</div>
-</div>
-<p>
-　Intelは、Spectreと「Meltdown」に対処するパッチを2018年1月初めにリリースしたが、システムが不安定になる不具合があるとして、1月22日の声明でインストールを取りやめるよう呼びかけた。今回同社があらためてリリースしたのは、こうした不具合に対処した修正版だ。
-</p>
-<p>
-　ただし現時点でこの修正版パッチを適用できるのは、Skylakeベースの「Core」「Core M」プロセッサのみで、全体の一部にすぎない。Intelは1月22日の発表の中で、HaswellとBroadwellの両プラットフォームに向けた修正版パッチもテストを始めたことを明らかにしていたが、そちらはまだ、パートナーへの正式リリースには至っていない。それらのリリース時期について、Intelの広報担当者にメールで問い合わせたが、本記事執筆時点で回答は得られていない。Intelが今回発表したブログ記事には、より多くのプラットフォームに向けたパッチを近日中にリリースする予定だと説明している。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021300403/?ST=cio-security&P=2">Intelでデータセンターグループ担当ゼネラルマ...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021300403/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021300403/?ST=cio-security&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021300403/?ST=cio-security&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021300403/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-</div>
-]]></description>
-			<pubDate>Tue, 13 Feb 2018 10:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n06</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ブロックチェーンの業務利用、本格導入への道筋は（前）（ブロックチェーンの業務利用、本格導入への道筋は）</title>
@@ -1099,6 +1063,46 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 06 Mar 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>DropboxがGoogleと提携、G Suiteとの連携が可能に（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/030600410/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Dropboxは、米Googleの「Google Cloud」と提携したことを発表した。Googleのクラウド型プロダクティビティスイート「G Suite」と連携するための機能を導入する。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/030600410/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Magdalena Petrova</div>
+</div>
+<p>
+　「両社のユーザーが愛用のツールを使って複数のデバイスで簡単に作業できるようにしたい」と、Dropboxのエンジニアリング担当バイスプレジデント、Tony Lee氏は言う。
+</p>
+<p>
+　「当社は、コンテンツ自体と、そのコンテンツを巡る対話を一元的に扱える場所の構築を進めている。Google Cloudとの提携はその新たな1ページだ。Googleと協力して、サイロ化を打破し、チームが日々頼りにする情報を一元化できることを喜ばしく思う」
+</p>
+<p>
+　今回の提携でDropboxは、クロスプラットフォームの連係機能を開発し、G Suiteのツールやコンテンツ（Gmail、Google Docs／Sheets／Slides、Hangouts）と、Dropboxのグローバル・コラボレーション・プラットフォームを統合する計画だ。この機能はすべてのDropboxユーザーが利用できる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/030600410/?ST=cio-cloud&P=2">この連携機能を使うと、Dropboxに置くGoo...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/030600410/?ST=cio-cloud&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/030600410/?ST=cio-cloud&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/030600410/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 06 Mar 2018 10:56:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
