@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>社内SNSの導入に際して管理職が知るべき落とし穴と上手な活用方法とは？</title>
-			<link>https://gigazine.net/news/20180306-managers-must-know-social-tools/</link>
-			<description><![CDATA[<p>最近では社内のコミュニケーションツールにSlackやYammerなどの社内SNSツールを導入し、業務連絡の円滑化を図る企業が増えてきました。そんな社内SNSを導入する時に「管理職が社内SNSについて知っておいたほうがいいこと」について、Harvard Business Reviewが解説しています。<p><b><a href="https://gigazine.net/news/20180306&#45;managers&#45;must&#45;know&#45;social&#45;tools/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Tue, 06 Mar 2018 06:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>レゴが「植物ブロック」の原料に実際の植物を使用すると発表</title>
 			<link>https://gigazine.net/news/20180306-first-sustainable-lego-bricks/</link>
 			<description><![CDATA[<p>レゴは「2030年までにレゴブロックの素材に石油を原料とするプラスチックを使用せず、『持続可能な新素材』を使用する」と宣言しており、新たな素材でのレゴブロックの製造方法を研究していました。2018年3月1日(木)に新素材の第1弾として、レゴは「葉」「茂み」「木」などの植物ブロックをサトウキビを原料としたプラスチックから作ることを発表しました。植物由来の原料を使用した新しいブロックは2018年中に登場するとのことです。<p><b><a href="https://gigazine.net/news/20180306&#45;first&#45;sustainable&#45;lego&#45;bricks/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180307-knot-analysis-of-crime/</link>
 			<description><![CDATA[<p>結び目の専門家であるGlenn Dickeyさんは、結び目を見ればヒモを結んだ人の職業や性質など、一般人ではわからない数々の事実を理解することができる人物。その技術を使って科学捜査の分野でも活躍し、犯罪を解決に導いています。素人では判別不可能な「結び目」から何がわかるのか？ということを、Dickeyさんが明かしています。<p><b><a href="https://gigazine.net/news/20180307&#45;knot&#45;analysis&#45;of&#45;crime/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Wed, 07 Mar 2018 09:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>イメージをプログラム生成可能な「CSS Paint API」やサーバー応答時間を計測できる「Server Timing API」が追加された「Chrome 65」安定版リリース</title>
+			<link>https://gigazine.net/news/20180307-google-chrome-65/</link>
+			<description><![CDATA[<p>Google Chromeの最新安定版「65.0.3325.146」がリリースされました。Chrome 65では、CSSプロパティにわたすイメージをプログラムから生成できる「CSS Paint API」や、ウェブアプリのパフォーマンスを調べるためにHTTPヘッダーを使ってタイミング情報をブラウザで取得できる「Server Timing API」などの機能が追加されています。<p><b><a href="https://gigazine.net/news/20180307&#45;google&#45;chrome&#45;65/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Wed, 07 Mar 2018 10:19:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
