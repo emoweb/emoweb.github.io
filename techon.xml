@@ -5,24 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>核攻撃に耐える軍用ネットワーク説は短絡</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/column/15/101800135/022100012/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Mon, 05 Mar 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「ぶっちゃけ自分が遊びたい」ソニーの玩具toioの魅力</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/041100088/030100031/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Mon, 05 Mar 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>電子カルテ、安易に参入・撤退するべからず</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/column/15/092500130/030300006/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><p></p><div><div>日本医師会が積極的に取り組んできた、標準レセプトソフト「ORCA」を軸とするプロジェクトをさらに発展させるため、地域経済活性化支援機構（REVIC）の支援の下で2015年12月に設立された日本医師会ORCA管理機構<a href="http://tech.nikkeibp.co.jp/dm/atcl/event/15/060300064/061200003/" target="_blank">（関連記事）</a>。同社 代表取締役社長の上野智明氏に登場してもらった。（編集部）</div></div><p><b>武藤</b>　日本医師会ORCA管理機構が展開する「日医標準レセプトソフト（通称ORCA）」は、2001年11月に日本医師会が公表した「日医IT化宣言」を受けてスタートした「ORCAプロジェクト」の成果として生まれました。上野さんはその当時からORCAの開発に携わってきたわけですが、どのような経緯で参加することになったのでしょうか。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/092500130/030300006/?SS=imgview_ndh&amp;FD=-1099064106" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/column/15/092500130/030300006/n1.JPG?__scale=w:500,h:332&amp;_sh=05305b0f80" width="500" height="332" alt=""></a></div><div>右が日本医師会ORCA管理機構 代表取締役社長の上野智明氏（写真：栗原克己、以下同）</div><div>クリックすると拡大した画像が開きます</div></div></div><p><b>上野</b>　ターニングポイントのひとつとして挙げられるのが、1997年9月にあった保険医療機関の窓口における「自己負担金」の増加です。サラリーマンの自己負担金が1割から2割に上がったため、日本医師会としてはこれが要因で「受診抑制が起こるのではないか？」と考えたわけです。このとき、私は「この9月を境に、受診抑制が本当に起きるのかを調べなさい」と言われたため、あの手この手を使って何とか中間報告までは提出したのですが、レセプトコンピュータ（以下、レセコン）メーカーの仕様が各社で違うため詳細まで調べることができず、「ギブアップしていいですか？」と白旗を掲げざるを得ない状況でした。そこから、紆余曲折あって「だったら、使い勝手のいいレセコンを作ってデータを集めてみてはどうか？」という話になったわけです。</p><p>　なお、この顛末にはレセコン開発の話が出る前に、私の作った介護保険の要介護認定で使う主治医意見書のテンプレートソフト（医見書）が大ヒットしたという背景も大きく絡んでいました。当時の上司としては「そういったソフトを作れるのであれば、レセコンも作れるのではないか」と考えたのでしょう。しかし、テンプレートソフトとレセコンではだいぶ違いますので、そう簡単にはいきません。さすがに「これは別の優秀な開発者を探さないと無理だ」ということになり、やっとの思いで見つけたのが、当時インターネット冷蔵庫や、音楽のダウンロード端末などを開発していた「ブイシンク」という原宿の会社でした。その関連で、現在もともに開発を進めている「ネットワーク応用通信研究所（NaCl）」と「松江計算機センター（マツケイ）」が実際の開発を請け負いました。マツケイのORCAスタッフは今は全員NaClに移籍しています。</p><p><b>武藤</b>　ORCAプロジェクトがスタートしてからすでに17年。これまでにさまざまな苦労があったかと思いますが、スタート時の構想と比較して、現段階ではどれくらい進んだと感じていますか。</p><p><b>上野</b>　現在、ORCAは約1万7000の医療機関で利用されていますが、利用者の拡大については当初の予定よりも遅い印象です。1万ユーザーの到達までに約10年かかりましたが、タイムスパンとしては当初計画の倍ぐらいかかってしまったイメージです。同じペースではさらに1万ユーザーを増やすのにまた10年かかってしまいますから、利用拡大をもっと加速させていきたい考えです。<br></p></div><div><div><span>1</span></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/092500130/030300006/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/092500130/030300006/?ST=health&amp;P=3"><span>3</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/092500130/030300006/?ST=health&amp;P=4"><span>4</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/092500130/030300006/?ST=health&amp;P=5"><span>5</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/092500130/030300006/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
-			<pubDate>Mon, 05 Mar 2018 10:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ダイムラー、ピックアップの「Xクラス」に4輪駆動モデルを追加</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/event/15/012200164/00021/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -243,6 +225,24 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/030810854/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Thu, 08 Mar 2018 11:39:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ブロックチェーンによる「P2P電力取引」、みんな電力が実証</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/030810856/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Thu, 08 Mar 2018 12:53:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「日本はさらに再エネを積極的に導入すべき」、河野外務大臣が講演</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/030810855/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Thu, 08 Mar 2018 12:55:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スポーツ現場でも、コニカミノルタの小型超音波診断装置</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/030810858/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><div class="bpbox_right" style="width:200px;"><div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/030810858/?SS=imgview_ndh&amp;FD=-1754936214" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/news/16/030810858/SONIMAGE_01.jpg?__scale=w:200,h:147&amp;_sh=0e001c03b0" width="200" height="147" alt=""></a></div><div>超音波診断装置「SONIMAGE MX1」</div><div>クリックすると拡大した画像が開きます</div></div><div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/030810858/?SS=imgview_ndh&amp;FD=-1754012693" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/news/16/030810858/SONIMAGE_02.jpg?__scale=w:200,h:186&amp;_sh=0db01b0c40" width="200" height="186" alt=""></a></div><div>さまざまなシーンで使用できることを特徴とする</div><div>クリックすると拡大した画像が開きます</div></div><div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/030810858/?SS=imgview_ndh&amp;FD=-1753089172" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/news/16/030810858/SONIMAGE_03.jpg?__scale=w:200,h:244&amp;_sh=08f0b02f03" width="200" height="244" alt=""></a></div><div>使用シーンに応じたオプション。ポールカート／デスクトップスタンド（写真上）、3ウエイタイプのキャリーバッグ／スーツケースタイプのハードケース（写真下）</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　コニカミノルタは2018年3月6日、院内外で使用できるコンパクトな超音波診断装置「SONIMAGE（ソニマージュ） MX1シリーズ」を発売した。「SONIMAGE MX1」と整形外科用モデルの「SNiBLE（スナイブル）yb」の2モデルを用意する。本体価格は、SONIMAGE MX1が2500万円、SNiBLEが2600万円（いずれも税別）。</p><p>　軽量・コンパクトで場所を選ばず使用可能な超音波診断装置ながら、高画質な診断画像を提供できることが特徴だという。太さ数μ～数百μm程度の筋束や神経束の繊維構造まで鮮明に見える精細画像と操作性を実現したSONIMAGE HS1シリーズ（2014年発売）の技術を継承。さらに超音波の音響ノイズを抑制し伝達効率を向上させる新開発の「Dual Sonic」技術により、高精細な画像を実現したとしている。</p><p>　SONIMAGE MX1は、在宅診療や外来診療、透析の現場など場所を選ばず検査する用途を想定する。手神経ブロック注射やカテーテルを挿入する中心静脈穿刺の際の超音波ガイド下で行う手術やペインクリニックの領域では、高画質でシンプルな操作性により安全な施術をサポートする。</p><p>　整形外科モデルのSNiBLE ybは、外来診療をはじめ、スポーツドクターによるフィールドでの診察、リハビリ現場での回復観察などでの利用を想定する。スポーツドクターが、合宿や遠征先あるいは試合中に携行し、その場で超音波を使った診断が可能になる。</p><p>　オプションとして、院内で使用する際のポールカートとデスクトップスタンドを用意する。持ち運びや屋外での使用を想定してリュックやショルダーにできる3ウエイタイプのキャリーバック、機内持ち込み可能なスーツケースタイプのハードケース、画面を保護するディスプレイカバーなどもある。3種類のプローブを接続できる「3ポートプローブコネクター」は、複数のプローブを切り替えながら行う検査を容易にする。</p></div>]]></description>
+			<pubDate>Thu, 08 Mar 2018 13:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
