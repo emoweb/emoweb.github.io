@@ -5,33 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    AIで視覚的に情報検索「Google Lens」が全Android端末に対応。iOS版も間もなく
-</title>
-			<link>http://japanese.engadget.com/2018/03/07/google-lens-pixel-android-ios/</link>
-			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/dc50b0280af2842bfcb3f799ebc14563/206189046/dims.jpg" />
-2017年5月のGoogle I/Oで発表され、その後Pixel端末でのみ利用可能となっていたGoogle Lens。それが他のAndroid端末でも使えるようになります。
-
- 
-AIで世界を認識する新技術Google Lens発表。被写体の情報をその場で調べ、AR表示やアクションを実行
-
-Google Lensはカメラで写したものをAIが認識し、それに関連する情報を検索して表示したり、文字を認識してテキストとして取り込むことができる機能。
-
-発表時には、カメラで写したものをリアルタイムに認識するとアピールされていましたが、現状では撮影したものをGoogleフォトで開いてから認識する必要があります。ただ、Google Lensはまだプレビュー版とのことで、現在も機能追加や改良がおこなわれている最中です。最近では、動物や植物の種類の違いを認識できるようにもなりました。今後さらに使いやすくなっていくと考えられます。
-
-そのGoogle Lensが、Googleフォトアプリの最新版でPixel以外のAndroid端末でも利用可能になるとのことです。Googleの新機能展開ではよくあることですが、ユーザーごとに段階的に有効化をしており、いまこの時点で使えなくても、今後数日のうちには利用可能になるはずです。
-
-気になるのは、日本語でも利用できるのかどうかです。先日のARCore 1.0を発表したGoogleのブログ記事では、「すべてのGoogleフォトの英語ユーザー」が利用可能になるとされていました。このため、日本語設定では利用できない可能性もあります。ただし、Pixel 2のGoogle Lensは日本語でも利用できるので、日本でも使えるようになることを期待したいところです。
-
-なお、iOS版への対応も近々に実施されるとのことです。
-
-Rolling out today, Android users can try Google Lens to do things like create a contact from a business card or get more info about a famous landmark. To start, make sure you have the latest version of the Google Photos app for Android: https://t.co/KCChxQG6Qm
-Coming soon to iOS pic.twitter.com/FmX1ipvN62
-- Google Photos (@googlephotos) 2018年3月5日
-
- ]]></description>
-			<pubDate>Wed, 07 Mar 2018 01:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    医師と患者をつなぐSNS「メディカルケアステーション」運営にKDDIが出資、医療AIやIoTなど推進
 </title>
 			<link>http://japanese.engadget.com/2018/03/07/sns-kddi-ai-iot/</link>
@@ -422,6 +395,19 @@ JTから販売されている加熱式タバコ「プルーム・テック」で
 コインチェックの累計口座数は170万アカウントとなっており、2017年7月には2868億円だった仮想通貨の取引高は、その5ヶ月後の2017年12月には3兆8537億円だったことも明らかになった。サービス再開後、コインチェックのユーザーがどのような行動を示すのかにも、より一層注目が集まりそうだ。
  ]]></description>
 			<pubDate>Thu, 08 Mar 2018 05:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Oculus Riftが起動しない不具合に修正パッチ。「詫びクレジット」配布で対応
+</title>
+			<link>http://japanese.engadget.com/2018/03/08/oculus-rift/</link>
+			<description><![CDATA[     <img src="http://o.aolcdn.com/hss/storage/midas/83fe4f27eb3d3e8646a55bd13b062a66/204426740/main.jpg" />
+
+VRヘッドセット Oculus Rift が突然使えなくなった不具合に公式の修正パッチが来ました。
+
+リンク先の Oculus 公式で配布中のパッチ適用ファイルをダウンロードして実行すれば、やっと本物の現実に、楽しき我が家と友の待つあるべきリアルに帰れるようになります。
+ 
+ ]]></description>
+			<pubDate>Thu, 08 Mar 2018 06:54:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
