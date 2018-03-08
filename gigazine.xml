@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>イメージをプログラム生成可能な「CSS Paint API」やサーバー応答時間を計測できる「Server Timing API」が追加された「Chrome 65」安定版リリース</title>
-			<link>https://gigazine.net/news/20180307-google-chrome-65/</link>
-			<description><![CDATA[<p>Google Chromeの最新安定版「65.0.3325.146」がリリースされました。Chrome 65では、CSSプロパティにわたすイメージをプログラムから生成できる「CSS Paint API」や、ウェブアプリのパフォーマンスを調べるためにHTTPヘッダーを使ってタイミング情報をブラウザで取得できる「Server Timing API」などの機能が追加されています。<p><b><a href="https://gigazine.net/news/20180307&#45;google&#45;chrome&#45;65/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Wed, 07 Mar 2018 10:19:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Googleはペンタゴンが開発するドローン用の映像解析AIを極秘で手伝っている</title>
 			<link>https://gigazine.net/news/20180307-google-help-pentagon-ai-drone/</link>
 			<description><![CDATA[<p>Googleがアメリカ国防総省、通称ペンタゴンと提携してドローンが撮影した映像を解析するための人工知能(AI)の開発を支援している、と海外テクノロジーメディアのGizmodoが報じています。<p><b><a href="https://gigazine.net/news/20180307&#45;google&#45;help&#45;pentagon&#45;ai&#45;drone/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180308-windows-10-file-explorer-support-tabs/</link>
 			<description><![CDATA[<p>Microsoftが提供するPC向けOSのWindowsで、PC内のデータを管理するために使用するのが「Windows Explorer」、通称エクスプローラーです。PCに保存した写真データの管理やインストールしたソフトウェアの検索などさまざまな場面で利用するエクスプローラーが、2018年後半にリリース予定の大型アップデート「Windows 10 Redstone 5」でタブ管理できるようになります。<p><b><a href="https://gigazine.net/news/20180308&#45;windows&#45;10&#45;file&#45;explorer&#45;support&#45;tabs/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Thu, 08 Mar 2018 15:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Facebookが「盗聴しているのは？」と思える精度でユーザーの行動を追跡できるのはなぜなのか？</title>
+			<link>https://gigazine.net/news/20180308-facebook-spying-on-you/</link>
+			<description><![CDATA[<p>「ユニクロの服を試着できる？」と発言した日の夜にFacebook上にユニクロの広告が表示されたり、「デジタルスケール1番いいやつって何？」と聞いた数分後にInstagramにデジタルスケールの広告が表示されたという報告から、「Facebookはスマートフォンのマイクを使って情報収集を行い、広告に利用しているのでは？」というウワサはかねてから流れていました。しかし、マイクを使わなくてもユーザーのオフライン時の行動を追跡可能だとして、ウォール・ストリート・ジャーナルのコラムニストであるJoanna Sternさんは、その仕組みを実例とともに解説しています。<p><b><a href="https://gigazine.net/news/20180308&#45;facebook&#45;spying&#45;on&#45;you/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Thu, 08 Mar 2018 16:07:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
