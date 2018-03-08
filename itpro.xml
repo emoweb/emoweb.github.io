@@ -5,43 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n09</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ブロックチェーンの業務利用、本格導入への道筋は（後）（ブロックチェーンの業務利用、本格導入への道筋は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/020700111/020700002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　企業でのブロックチェーン技術の利用については、何かと話題に上がってはいるものの、現時点でメインストリームにはまだ至っていない。だが、信頼できる取引記録として最高情報責任者（CIO）らの評価が高まる中、2018年に状況が変わる可能性は大いにある。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/020700111/020700001/" target="_blank">前回</a>から続く）</p>
-
-<h4>果実のトレーサビリティ</h4>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700111/020700002/ph2.jpg" width="300" alt="" title=""></div></div>
-
-<p>　ブロックチェーンなどのデジタル台帳技術は、金融サービスにいくつかの形で変革をもたらす可能性があるが、それ以外の分野になると用途はもう少し絞られていく。それが特に言える食品業界の中から、米Driscoll'sのCIO、Tom Cullen氏に話を聞いた。同社は、いちご、ブルーベリー、ラズベリー、ブラックベリーといった果実を扱っている企業で、WalMart、Stop & Shop、Whole Foods Marketをはじめ、世界各地のスーパーマーケットなどでその商品が売られている。</p>
-
-<p>　Driscoll'sをはじめとする十数社以上の食品企業は、食品汚染が生じた時にその発生源をブロックチェーンで特定できるようにするための取り組みを、米IBMと共同で始めた。これで責任のなすりつけ合いがなくなるかもしれないとCullen氏は話す。ブロックチェーンなら、サプライチェーンの中でデータが発生した箇所をすべて記録に残しておける。したがって、商品の出どころをたどる時には、科学捜査官なら喜びそうなほどの情報が得られる。「我々が関心を寄せているのは、果実の出どころと、サプライチェーンに入ってからの証明だ」とCullen氏は言う。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700111/020700002/?ST=cio-appli&P=2">Driscoll'sは現在、Bluetoothや...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700111/020700002/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700111/020700002/?ST=cio-appli&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/020700111/020700002/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-</div>
-]]></description>
-			<pubDate>Fri, 16 Feb 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d09</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Huaweiスマホの購入は勧めない、米情報機関の長官らが米議会で証言（Computerworldニュース）</title>
@@ -1112,6 +1079,45 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 08 Mar 2018 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>メールのセキュリティ対策、SPF／DKIM／DMARCの勘所（下）（メールのセキュリティ対策、SPF／DKIM／DMARCの勘所）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/022800116/022800003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　フィッシングメールやスパムメールは、ハッカーが企業のネットワークに入り込むのにうってつけの手段だ。悪質な添付ファイルを社員1人がクリックするだけで、ランサムウエア、クリプトジャッキング（マシンの処理能力を仮想通貨のマイニングに無断利用する行為）、データ流出、アクセス権の昇格といった形で、社内全体に危険が及びかねない。</p>
+
+<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/022800116/022800002/" target="_blank">前回</a>から続く）</p>
+
+<h4>SPF／DKIM／DMARCの導入と運用には苦労が付き物</h4>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800003/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　例えば、SPFとDMARCを適切に機能させるためには、所有するすべてのドメインに対応した設定が必要だ。数多くのドメインやサブドメインを運用している企業の場合、その作業はたちまち厄介になる。また、適切なDNSエントリですべてのサブドメインをきちんと保護する必要がある。</p>
+
+<p>　Gmailを利用している場合なら、<a href="https://support.google.com/a/answer/174124" target="_blank">DKIMを使用する設定の方法</a>や<a href="https://support.google.com/a/answer/174126" target="_blank">ドメインキーを生成する方法</a>の説明がGoogleのヘルプにある。また、ドメインの管理にcPanelを使用しているなら、<a href="https://www.siteground.com/kb/configure-spf-dkim-dmarc-records/" target="_blank">こちらの方法</a>で各種DNSレコードを設定できる。DKIMなどの設定作業が完了した後で、メールのヘッダーが正しく設定されているかどうかを検証するための<a href="http://dkimvalidator.com/" target="_blank">オンラインツール</a>もある。</p>
+
+<p>　設定の助けになる解説やツールもあるとはいえ、すべてを正しく設定するには専門的な技能が必要だ。それぞれで必要なコマンドは、社内にいるDNSの達人でもなじみがないかもしれない。知識不足だからということではなく、広く利用するものではないことや、構文を隅々まで正しく記述するのはかなり面倒な場合があるという理由からだ。そこで、SPF／DKIM／DMARCを決まった順序で導入していくようお勧めしたい。</p>
+
+<p>　米Easy Solutionsの<a href="http://blog.easysol.net/adopt-dmarc-in-6-steps/" target="_blank">ブログ記事</a>では、まずSPF、次にDKIM、最後にDMARCという順番での導入を勧めている。SPFの導入は比較的簡単なので最初に済ませる。また、DMARCまで到達した時には、メールをブロックするモードにいきなり設定するのではなく、まずはモニタリングのみのモードにして、すべてを適切に設定できたかどうか確認するとよい。筆者も、自分のドメインでは、まさにこの順番で導入していった。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800003/?ST=cio-security&P=2">メールを利用する全アプリケーションの洗い出しが必...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800003/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800003/?ST=cio-security&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Fri, 09 Mar 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
