@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>殺人現場に残された「結び目」からロープの専門家が犯人を導くまで、結び目から犯人の何がわかるのか？</title>
-			<link>https://gigazine.net/news/20180307-knot-analysis-of-crime/</link>
-			<description><![CDATA[<p>結び目の専門家であるGlenn Dickeyさんは、結び目を見ればヒモを結んだ人の職業や性質など、一般人ではわからない数々の事実を理解することができる人物。その技術を使って科学捜査の分野でも活躍し、犯罪を解決に導いています。素人では判別不可能な「結び目」から何がわかるのか？ということを、Dickeyさんが明かしています。<p><b><a href="https://gigazine.net/news/20180307&#45;knot&#45;analysis&#45;of&#45;crime/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Wed, 07 Mar 2018 09:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>イメージをプログラム生成可能な「CSS Paint API」やサーバー応答時間を計測できる「Server Timing API」が追加された「Chrome 65」安定版リリース</title>
 			<link>https://gigazine.net/news/20180307-google-chrome-65/</link>
 			<description><![CDATA[<p>Google Chromeの最新安定版「65.0.3325.146」がリリースされました。Chrome 65では、CSSプロパティにわたすイメージをプログラムから生成できる「CSS Paint API」や、ウェブアプリのパフォーマンスを調べるためにHTTPヘッダーを使ってタイミング情報をブラウザで取得できる「Server Timing API」などの機能が追加されています。<p><b><a href="https://gigazine.net/news/20180307&#45;google&#45;chrome&#45;65/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180308-google-arts-machine-learning/</link>
 			<description><![CDATA[<p>「Arts & Culture」は2015年にGoogleによって公開された世界中の芸術作品を集めたギャラリーアプリです。時代や製作者のほか、カラースケールによっても作品を検索できるなど、芸術作品をさまざまな方法で検索できるようになっており、作品名を知らなくてもお目当てのものを見つけ出すことができます。2018年1月には「自分の顔に似ている肖像画」を検索できるようになるなど、日々進化を遂げているArts & Cultureの検索機能ですが、その開発元のGoogle Arts & Cultureラボがこれまで行ってきた試みをムービーで解説しており興味深い内容となっています。<p><b><a href="https://gigazine.net/news/20180308&#45;google&#45;arts&#45;machine&#45;learning/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Thu, 08 Mar 2018 14:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ついにWindows 10のファイルエクスプローラーをタブで管理できるように</title>
+			<link>https://gigazine.net/news/20180308-windows-10-file-explorer-support-tabs/</link>
+			<description><![CDATA[<p>Microsoftが提供するPC向けOSのWindowsで、PC内のデータを管理するために使用するのが「Windows Explorer」、通称エクスプローラーです。PCに保存した写真データの管理やインストールしたソフトウェアの検索などさまざまな場面で利用するエクスプローラーが、2018年後半にリリース予定の大型アップデート「Windows 10 Redstone 5」でタブ管理できるようになります。<p><b><a href="https://gigazine.net/news/20180308&#45;windows&#45;10&#45;file&#45;explorer&#45;support&#45;tabs/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Thu, 08 Mar 2018 15:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
