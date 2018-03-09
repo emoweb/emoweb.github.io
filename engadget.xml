@@ -5,17 +5,6 @@
 		<link>http://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Spigenの定番バックパックが6時間限定で3900円引きに。3月9日12時からセールを開催
-</title>
-			<link>http://japanese.engadget.com/2018/03/08/spigen-6-3900-3-9-12/</link>
-			<description><![CDATA[     <img src="https://prtimes.jp/i/13604/261/resize/d13604-261-535067-0.jpg" />
-
-Spigenは、感謝の日にあわせて人気バックパック「ニューコーテッド 2 プラス」の6時間限定セールを公式ストアで開催します。期間は2018年3月9日(金) 12:00～18:00で、3,900円offの10,090円(税込)で販売。なくなり次第終了となるので気になる方はお早めに。
-http://bit.ly/2vFFFnm
- ]]></description>
-			<pubDate>Thu, 08 Mar 2018 01:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    ASUS新スマホ、ZenFone 5実機インプレ。iPhone Xにそっくりだが完成度は高い
 </title>
 			<link>http://japanese.engadget.com/2018/03/08/asus-zenfone-5-iphone-x/</link>
@@ -484,6 +473,29 @@ PRTIMESトップへ
 そして「グランツーリスモ」シリーズをはじめとするドライブシミュレーターで日夜ドラテクの研鑽を積まれている方々も、将来のバーチャル愛車を予習できるかもしれません。
  ]]></description>
 			<pubDate>Fri, 09 Mar 2018 02:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Google、Chromeに保存したパスワードの一括ダウンロード機能を開発中。CSV形式で他のソフトに取り込み可能
+</title>
+			<link>http://japanese.engadget.com/2018/03/09/google-chrome-csv/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F57748a7beb586270ebe3f09f26ff1944%2F206197113%2Fdims.jpg&client=a1acac3e1b3290917d92&signature=11266d3d87d153ec13d7be5ab6dd50e6039337b0" />
+GoogleのChromeブラウザにはユーザー名とパスワードを記録し、次にログインする際には自動で入力されるパスワード管理機能「Google Smart Lock for Passowrd」を備えています。ただ、別のパスワード管理ソフトに移行する際には、パスワードを一つずつ確認する面倒な作業が必要でした。
+
+そのような場合に便利に使える、保存している情報を一括でエクスポートできる機能が現在開発中となっています。CSVとしてエクスポートした情報は、他のパスワード管理ソフトでインポートも可能です。
+
+この機能、Chromeの開発版であるDev Channelで提供されており、近いうちに標準機能として提供されるものと思います。なお、安定版（Stable）でもブラウザのアドレス欄に「chrome://flags/#password-export」と入力し、機能を有効にすれば利用できます（Chrome 64で確認）。
+
+エクスポート方法は、Chromeの設定メニューから「パスワードを管理」を選び、「保存したパスワード」の横にあるメニューから「エクスポート」を選びます。
+
+
+
+なお、エクスポートしたファイルにはパスワードが平文で書かれているため、取り扱いには注意が必要です。
+
+最近は、パスワードの定期的な変更には意味がないとの認識が広まりつつありますが、パスワードの使いまわしが危険なことに変わりはありません。
+
+自分の使っているパスワードを一覧する機会はそうそうないと思うので、エクスポートしたファイルでパスワードの使いまわしをしていないかチェックしてみるのもいいかもしれません。
+ ]]></description>
+			<pubDate>Fri, 09 Mar 2018 03:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
