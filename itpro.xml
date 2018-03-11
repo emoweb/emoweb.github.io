@@ -5,57 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n12</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ビッグデータの基礎知識（上）（ビッグデータの基礎知識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/021300112/021300001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　ビッグデータとは要するに何なのだろうか。単にデータと言った時と、何が違うのだろうか。</p>
-
-<h4>ビッグデータの定義</h4>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　ビッグデータとは、ざっくり言えば、極めて膨大で複雑なデータの集合だ。従来型のデータ処理ソフトウエアでは、取得・管理・処理に法外な時間がかかってしまうような、おびただしいデータの一群である。</p>
-
-<p>　ビッグデータに含まれるデータは、構造化データ、非構造化データ、半構造化データのいずれもあり得る。それぞれをマイニングすることで、洞察（インサイト）が得られる。</p>
-
-<p>　実際にデータがどの程度の規模になったら「ビッグ」データと呼べるのかは議論の余地があるが、一般には数ペタバイトで、特に大規模なプロジェクトではエクサバイト級になることもある。</p>
-
-<p>　ビッグデータは、3つのVで特徴づけられることが多い。</p>
-
-<ul>
-<li>Volume（量）：データの量が極端に膨大</li>
-<br>
-<li>Variety（種類）：データの種類が多彩</li>
-<br>
-<li>Velocity（速度）：データの処理と分析に速度が必要</li>
-</ul>
-
-<p>　ビッグデータの発生源としては、Webサイト、ソーシャルメディア、パソコンやモバイルのアプリケーション、科学的実験などがある。さらに、次第に増えつつあるのが、IoTの各種センサーや機器が生成するデータだ。</p>
-
-<p>　ビッグデータは、基本的な概念のみで終わりではない。企業がビッグデータを実地で活用してビジネス上の問題を解決するためには、さまざまな構成要素が関係する。ここからは、ビッグデータに適用するアナリティクス、ビッグデータを支えるITインフラ、ビッグデータプロジェクトに必要なテクノロジー、ビッグデータ関連のスキルセット、ビッグデータの用途について見ていこう。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300001/?ST=cm-network&P=2">ビッグデータに適用するアナリティクス</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300001/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300001/?ST=cm-network&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300001/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 19 Feb 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d12</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>CPU脆弱性、新たに「MeltdownPrime」「SpectrePrime」が発見される（CIOニュース）</title>
@@ -1117,6 +1070,37 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 09 Mar 2018 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>侵入検知システムの基本と現状、そして今後（上）（侵入検知システムの基本と現状、そして今後）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/030500118/030500001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　侵入検知システム（IDS）は、ネットワーク上を流れるトラフィックやシステムの通信を監視して、疑わしい挙動や既知の脅威が含まれていないかどうかを調べ、見つけた場合は警告を通知する。企業のIT部門は、自社のIT環境で生じている不審な動きを把握する目的でIDSを導入する。</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/030500118/030500001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　「IDSの役割を大まかに言えば、ネットワーク侵入が起きている可能性をIT担当者に伝えることだ。警告で通知する情報としては、侵入の発信元のアドレス、標的や侵入先のアドレス、疑われる攻撃の種類などが一般的だ」。米AT&Tのセキュリティプラットフォーム担当バイスプレジデント、Brian Rexroad氏はそのように説明する。</p>
+
+<p>　IDSのプログラムは、トラフィックを分析して、各種サイバー攻撃の兆候を示すパターンが含まれているかどうかを特定する。</p>
+
+<p>　IDSで特定できるのは、「トラフィックのうちで、普遍的に悪質と見られるものや、注目すべきと考えられるものだ」と、米SANS Instituteのシニアインストラクター、Judy Novak氏は述べる（Novak氏は、「SANS SEC503：Intrusion Detection In-Depth」の作者でもある）。例えば、悪質なソフトウエアをダウンロードするフィッシング攻撃のリンクなどである。加えて、IDSは、特定のソフトウエアにとって問題をはらんでいるトラフィックを検知する。例えば、社内で使用しているブラウザー「Firefox」を標的にした既知の攻撃を検知した場合には、IT部門に警告を伝える（だが、社内で使用しているのが別のブラウザーの場合には、警告は必要ない）。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/030500118/030500001/?ST=cm-network&P=2">IDSの種類</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/030500118/030500001/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/030500118/030500001/?ST=cm-network&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/030500118/030500001/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 12 Mar 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
