@@ -5,45 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d12</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>CPU脆弱性、新たに「MeltdownPrime」「SpectrePrime」が発見される（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/021900405/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　現代のコンピューターのあらゆるプロセッサが持つ脆弱性「Meltdown」「Spectre」を悪用した新たな攻撃手法を、米NVIDIAと米プリンストン大学の研究者らが発見し、「MeltdownPrime」「SpectrePrime」と名づけた。MeltdownやSpectreの公表当初に明らかにされた以外にも、プロセッサに潜む脆弱性を攻撃する方法が存在することが実証された。これは一見すると悪いニュースに思える。しかし、一般のコンピューターユーザーは、この発表でパニックに陥る必要はない。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021900405/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Google/Natascha Eibl</div>
-</div>
-<p>
-　MeltdownPrimeとSpectrePrimeは、現代のプロセッサが持つ複数のCPUコアを競合させ、マルチコアシステムのメモリーキャッシュのアクセス手法を利用して攻撃する方法だ。技術的な詳細については、<a href="https://arxiv.org/pdf/1802.03802.pdf" target="_blank">研究チームが発表した論文</a>や、<a href="https://www.theregister.co.uk/2018/02/14/meltdown_spectre_exploit_variants/" target="_blank">The Registerの解説記事</a>を参照してほしい。MeltdownやSpectreと同じで、攻撃に成功した場合、パスワードなどの機密情報を奪われる恐れがある。
-</p>
-<p>
-　朗報なのは、研究チームがMeltdownPrimeとSpectrePrimeのエクスプロイトコードを公開しなかったことだ。さらに幸いなのは、MeltdownとSpectre向けに既に提供や準備が進められているパッチを適用すれば、MeltdownPrimeやSpectrePrimeも防げるだろうという点だ。MeltdownとSpectreの存在が最初に明らかにされた直後に、主要なOSはいずれも、対策のための更新プログラムを公開した。米Intelも、CPUファームウエアのアップデートをリリースした。最初のリリースでは不具合を引き起こしたものの、現在は修正版の提供を始めている。そのほか、コンパイラレベルでコードの処理方法を修正することで各種ソフトウエアのSpectre対策を強化する取り組みも行われている。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021900405/?ST=cio-security&P=2">だが、MeltdownやSpectre、あるいは...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021900405/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021900405/?ST=cio-security&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/021900405/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-</div>
-]]></description>
-			<pubDate>Mon, 19 Feb 2018 10:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n12</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>マイクロLED（Close Up Keyword）</title>
@@ -1101,6 +1066,42 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 12 Mar 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10 Sは“モード”に、Microsoftは過半数の利用を期待（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/031200478/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米MicrosoftでWindows担当コーポレートバイスプレジデントを務めるJoe Belfiore氏は2018年3月7日の公式ブログ記事で、Windows 10の「Sモード」について、「過半数のお客様」が利用することを期待しているという強気の発言をした。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031200478/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Microsoft</div>
+</div>
+<p>
+　これまで「Windows 10 S」と称していたOSを、単体のバージョンではなく、Windows 10のSモードという位置づけに変えるという方針は、このブログ記事が出る1日ほど前に正式に確認が取れていた。その際、Belfiore氏から筆者のTwitterアカウントに寄せられたコメントでは、Sモードへの移行は2019年になるとの話だった。
+</p>
+<p>
+　だが、ブログ記事でBelfiore氏は、さらに思い切ったスケジュールを示し、Windows 10の次の機能更新プログラムが登場する頃には、Sモードに対応したWindows 10パソコンが購入可能になるとした。次の機能更新プログラムは、「Redstone 4」のコードネームで知られ、4月初めに登場する見込みだ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031200478/?ST=cm-software&P=2">Sモードの利用を望まないユーザーに関係する重要な変更もある。Wi...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031200478/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031200478/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031200478/?ST=cm-software&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031200478/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 12 Mar 2018 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
