@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>SNSで写真を共有することの影響力と恐怖を語る「ブロッコリーの木」</title>
-			<link>https://gigazine.net/news/20180312-broccoli-tree/</link>
-			<description><![CDATA[<p>現代ではTwitterやInstagram、Facebookなどを使うことで誰でも気軽に情報を発信できます。また、スマートフォンの進歩により、一眼レフカメラなどを持ち歩かなくてもそれなりのクオリティの写真をパパッと撮影し、スマホで瞬時に共有といったことが可能です。こういった技術の進歩により起きるポジティブな変化とネガティブな影響について、YouTubeチャンネルのvlogbrothersがまとめています。<p><b><a href="https://gigazine.net/news/20180312&#45;broccoli&#45;tree/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Mon, 12 Mar 2018 07:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ミステリーの女王アガサ・クリスティの生涯にまつわる謎とは？</title>
 			<link>https://gigazine.net/news/20180312-agatha-christies-life-is-mysteries/</link>
 			<description><![CDATA[<p>アガサ・クリスティといえばエルキュール・ポアロやミス・マープルなどの世界的名探偵を生み出した、「ミステリーの女王」とも評される推理小説家です。クリスティの小説は全世界で累計20億部以上も出版されており、「聖書とシェイクスピアの次に読まれている」ともいわれていますが、そんな「アガサ・クリスティの生涯にまつわる謎」についてThe Edwardsville Intelligencerが述べています。<p><b><a href="https://gigazine.net/news/20180312&#45;agatha&#45;christies&#45;life&#45;is&#45;mysteries/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180313-slingshot-apt-through-router/</link>
 			<description><![CDATA[<p>コンピューターセキュリティー会社のKasperskyは、キーロガーの疑いがある事例を分析している中で、仮想ファイルシステムに介入するマルウェア「Slingshot」を特定したと発表しました。Kasperskyによると、Slingshotはなんとルーターを感染経路として、2018年に特定されるまで少なくとも6年間、100台以上のPCへ感染していたことが分かっています。SlingshotはProject SauronやReginにも匹敵するほど複雑で洗練された攻撃プラットフォームとのことで、中東からアフリカを中心に被害が報告されています。<p><b><a href="https://gigazine.net/news/20180313&#45;slingshot&#45;apt&#45;through&#45;router/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Tue, 13 Mar 2018 13:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>超音波でネットから隔離されたコンピューターからデータを盗む方法が判明</title>
+			<link>https://gigazine.net/news/20180313-air-gapped-computer-mosquito-attack/</link>
+			<description><![CDATA[<p>ネットワークから完全に隔離された状態の「エアギャップコンピューター」は、データの転送にESBドライブやケーブルを介する物理的アクセスが必要であり、セキュリティ上重要なデータの保存場所として適切だと考えられています。ところが、イスラエルのセキュリティ研究者たちが「エアギャップ状態のコンピューターから超音波でデータを盗む方法」を発表しました。<p><b><a href="https://gigazine.net/news/20180313&#45;air&#45;gapped&#45;computer&#45;mosquito&#45;attack/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Tue, 13 Mar 2018 14:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
