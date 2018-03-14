@@ -5,52 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d14</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ビッグデータの基礎知識（中）（ビッグデータの基礎知識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/021300112/021300002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　ビッグデータとは要するに何なのだろうか。単にデータと言った時と、何が違うのだろうか。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/021300112/021300001/" target="_blank">前回</a>から続く）</p>
-
-<h4>ビッグデータを支えるITインフラ</h4>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300002/top.jpg" width="320" alt="" title=""></div></div>
-
-
-<p>　ビッグデータの概念を実地で活用したいと考える企業は、ビッグデータを支えるインフラを導入しておく必要がある。データの収集と格納、データへのアクセス、保存中と伝送中のセキュリティ保護を実現するためのインフラだ。</p>
-
-<p>　ビッグデータを支えるインフラの構成要素を大まかに挙げると、ビッグデータ用のストレージシステムとサーバー群、データの管理や統合のためのソフトウエア、ビジネスインテリジェンスやデータアナリティクスのソフトウエア、アプリケーションなどがある。</p>
-
-<p>　既存のデータセンター資産を引き続き活用することに企業が目を向ける中では、こうしたインフラの多くはおそらくオンプレミスで稼働することになる。一方で、ビッグデータで必要なインフラの多くにクラウドコンピューティングサービスを利用する企業も増えつつある。</p>
-
-<p>　データを収集するためには、データの発生源が必要だ。既に存在しているデータ発生源も多い。例えば、Webアプリケーション、ソーシャルメディアチャネル、モバイルアプリ、メールのアーカイブなどだ。だが、IoTが広がる中、企業としては、あらゆるデバイス、車両、製品にセンサーを搭載してデータを収集する取り組みや、ユーザーデータを生成する新しいアプリが必要かもしれない（IoT系のビッグデータ分析には、固有の手法やツールがある）。</p>
-
-<p>　取得するデータを残らず保存しておくためには、十分なデータストレージが必要だ。選択肢としては、従来型のデータウエアハウスのほか、データレイクや、クラウドベースのストレージがある。</p>
-
-<p>　セキュリティ関連では、データ暗号化、ユーザー認証などのアクセス制御、監視システム、ファイアウォール、エンタープライズモビリティ管理（EMM）など、システムとデータを守るための製品が考えられる。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300002/?ST=cm-network&P=2">ビッグデータ固有のテクノロジー</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300002/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300002/?ST=cm-network&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300002/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 21 Feb 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n14</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Logitechのキーボード「CRAFT」、クリエイティブ作業をダイヤルで支援（CIOニュース）</title>
@@ -1141,6 +1099,43 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 14 Mar 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>1周年を迎えたMicrosoft Teams、今後の新機能は（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/031400413/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　「Slack」や「HipChat」と競合する米Microsoftのコラボレーションツール「Teams」が、リリースから1周年を迎えた。Microsoftは、2018年3月12日の公式ブログ記事で、クラウド録画、文字起こし、顔認識など、搭載を予定している新機能を紹介している。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/031400413/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Jonathan Hassell / IDG</div>
+</div>
+<p>
+　「Office 365」のサービスの1つとしてTeamsが加わったのが1年前だった。Microsoftによると、米General Motors（GM）や米Macy'sをはじめ、これまでに20万以上の企業や組織がTeamsを導入している。
+</p>
+<p>
+　今回のブログ記事で同社が挙げた具体的な新機能は9つある（ただし、その導入予定時期は明らかにしていない）。こうした機能を加えることで、定評のあるライバルより優位に立つことがMicrosoftの願いだ。ブログ記事で取り上げた中には、Teams自体の新機能もあれば、Teamsとつながるデバイスの話題もある。後者に関しては、Microsoftの「Surface Hub」がTeamsをネイティブにサポートすることや、パートナー企業の各種デバイスがTeamsに対応するといった話が出ている。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/031400413/?ST=cio-appli&P=2">現時点でTeamsが主眼を置いているのは、ビデオ...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/031400413/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/031400413/?ST=cio-appli&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/031400413/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Wed, 14 Mar 2018 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
