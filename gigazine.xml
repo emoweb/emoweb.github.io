@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>6年以上もこっそりとルーターを介して拡散していたマルウェア「Slingshot」が特定される</title>
-			<link>https://gigazine.net/news/20180313-slingshot-apt-through-router/</link>
-			<description><![CDATA[<p>コンピューターセキュリティー会社のKasperskyは、キーロガーの疑いがある事例を分析している中で、仮想ファイルシステムに介入するマルウェア「Slingshot」を特定したと発表しました。Kasperskyによると、Slingshotはなんとルーターを感染経路として、2018年に特定されるまで少なくとも6年間、100台以上のPCへ感染していたことが分かっています。SlingshotはProject SauronやReginにも匹敵するほど複雑で洗練された攻撃プラットフォームとのことで、中東からアフリカを中心に被害が報告されています。<p><b><a href="https://gigazine.net/news/20180313&#45;slingshot&#45;apt&#45;through&#45;router/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Tue, 13 Mar 2018 13:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>超音波でネットから隔離されたコンピューターからデータを盗む方法が判明</title>
 			<link>https://gigazine.net/news/20180313-air-gapped-computer-mosquito-attack/</link>
 			<description><![CDATA[<p>ネットワークから完全に隔離された状態の「エアギャップコンピューター」は、データの転送にESBドライブやケーブルを介する物理的アクセスが必要であり、セキュリティ上重要なデータの保存場所として適切だと考えられています。ところが、イスラエルのセキュリティ研究者たちが「エアギャップ状態のコンピューターから超音波でデータを盗む方法」を発表しました。<p><b><a href="https://gigazine.net/news/20180313&#45;air&#45;gapped&#45;computer&#45;mosquito&#45;attack/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180314-brain-preserved-with-asc/</link>
 			<description><![CDATA[<p>「人間の意識をコンピューターにアップロードする」という考えは、SFの世界だけではなく、科学者も夢見るアイデアです。今はまだ技術的に不可能に近いものがありますが、「将来的にコンピューターへ意識のアップロードが可能となった場合に備えて、人間の脳をまるごと長期冷凍保存する」というサービスを、アメリカのスタートアップ「Nectome」が提供する予定と発表しました。<p><b><a href="https://gigazine.net/news/20180314&#45;brain&#45;preserved&#45;with&#45;asc/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Wed, 14 Mar 2018 19:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>抗がん剤の少量投与により「社会性の障害」という自閉症の症状が長期間にわたって改善されることがマウスの実験で示される</title>
+			<link>https://gigazine.net/news/20180314-autism-anti-cancer-drug/</link>
+			<description><![CDATA[<p>自閉症の人が抗がん剤のロミデプシンをごく少量だけ服用すると「社会性の障害」といった主たる症状が改善するのでは、という考えはかねてから存在しましたが、マウスを使った新しい研究で、抗がん剤の少量投与が長期にわたって自閉症のマウスに効果を発揮することが示されました。<p><b><a href="https://gigazine.net/news/20180314&#45;autism&#45;anti&#45;cancer&#45;drug/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Wed, 14 Mar 2018 20:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
