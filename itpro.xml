@@ -11,43 +11,6 @@
 			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ネット中立性規則の撤廃でセキュリティが弱体化？（後）（ネット中立性規則の撤廃でセキュリティが弱体化？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/021300113/021300002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　ネット中立性に関する規則が撤廃される結果、ブラウザーで第三者によるトラッキングが蔓延したり、ネット取引のプライバシーが損なわれたり、スマートフォンにスパイウエアが組み込まれたりといったことが起きるかもしれない—American Public University System（APUS）でCenter for Cyber Defense所長を務めるKenneth Williams氏はそのように主張する。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/021300113/021300001/" target="_blank">前回</a>から続く）</p>
-
-<h4>州独自の動きで様相が複雑に</h4>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300113/021300002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　規制をいっそう複雑化する動きも起きている。州が関与を始めたことだ。現地時間2018年1月22日には、米国の各州の先頭を切って、モンタナ州がネット中立性を適用する独自の法令を定めた。連邦レベルの決定と一線を画する動きだ。</p>
-
-<p>　こうした動きが情報セキュリティにどう影響するかも、やはりインターネットを公益事業と捉えるかどうかに帰着する。「公益事業者は州レベルで規制される」とSienkiewicz氏は言う。そうなれば、モンタナのような個別の州が独自の法令を定めることも完全にありだ。あわせて同氏は、モンタナ州が定めたような法令について、実際に施行するのは技術的に極めて複雑になるはずだと指摘する。</p>
-
-<p>　独自の法令を定める州が今後増えるとしたら、米国は最終的に、欧州連合（EU）と同じような状況になる可能性もある。EUでは、全加盟国にあまねく適用されるセキュリティ要件がありつつ、各国がそれぞれ独自の法令を施行している。「最終的に、例えばカリフォルニア州が定めた温室効果ガス排出基準と同じような形で、インターネットトラフィックの基準が定められることになるのだろうか」とSienkiewicz氏は問う。あるいは、最終的にISPの間で、州レベルの法令の負担が大きすぎる州から完全に撤退する動きが起きるかもしれないと同氏は言う。</p>
-
-<p>　ネット中立性がなくなっても、以前のようなインターネットセキュリティに戻るだけではないのかと思う人も、もちろんいるかもしれない。だが、それは問題をはらんでいる。「ネット中立性の規則ができる前から、ネットワークは純真無垢な環境ではなかった」とSienkiewicz氏は話す。初期のインターネットプロバイダーが誕生していった過程を考えてみると、以前から状況が混沌としていたことや、あるいは少なくとも、立ち返る先として理想的ではないことがよく分かる。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300113/021300002/?ST=cio-security&P=2">ネット中立性があってもなくてもセキュリティは難題...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300113/021300002/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300113/021300002/?ST=cio-security&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300113/021300002/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-</div>
-]]></description>
-			<pubDate>Thu, 22 Feb 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>2017年のサイバー犯罪の被害額、オーストラリアは23億豪ドル（Computerworldニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/022200472/</link>
 			<description><![CDATA[<div>
@@ -1134,6 +1097,41 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 15 Mar 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Microsoft、CPU脆弱性対策のパッチ提供を拡大（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/031500480/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Microsoftは現地時間2018年3月13日、CPU脆弱性「Meltdown」「Spectre」に対処するパッチに関して、これまでの策を2つの点で強化したことを発表した。1つは、32ビット版のWindows 7とWindows 8.1用のパッチをリリースしたこと。もう1つは、同社サイトで公開しているIntel製マイクロコードアップデートの対象プロセッサを拡大し、「Skylake」「Kaby Lake」「Coffee Lake」に対応したことだ。MeltdownとSpectreに対処するためには、OSとプロセッサの両方に関して更新プログラムを適用する必要がある。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031500480/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Google/Natascha Eibl</div>
+</div>
+<p>
+　OSのパッチに関しては、Microsoftはこれまで、一番新しいOSであるWindows 10に向けて最新のアップデートを提供することに力を入れてきた。しかし今回は、Windows 7 SP1用とWindows 8.1用のパッチを、Windows UpdateとMicrosoft Updateカタログを通じて新たに提供した。ただし、いずれも32ビット版向けだという点に留意する必要がある。
+</p>
+<p>
+　Intel製のマイクロコードアップデートに関しては、Coreプロセッサのうち、Skylake、Kaby Lake、Coffee Lakeの各シリーズを対象とするパッチを、Microsoft Updateカタログで公開した。Microsoftは今月初め、Skylakeシリーズの一部を対象としたIntel製マイクロコードアップデートの公開を始めていた。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031500480/?ST=cm-software&P=2">Microsoftは今回の策で、ますます多くのパソコンユーザーに...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031500480/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031500480/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031500480/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 15 Mar 2018 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
