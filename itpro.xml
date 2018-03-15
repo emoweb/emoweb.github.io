@@ -5,44 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n16</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>2017年のサイバー犯罪の被害額、オーストラリアは23億豪ドル（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/022200472/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Symantecが2018年2月20日に発表した調査レポート「2017 Norton Cyber Security Insights Report」によると、オーストラリアで2017年にサイバー犯罪の被害に遭った消費者は600万人以上に及び、被害額は23億豪ドルだった。
-</p>
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022200472/top.jpg" width="320" alt="" title=""></div></div>
-<p>
-　同レポートのデータでは、成人人口の26％がサイバー犯罪の被害に遭い、2016年に比べて13％増えた。1人当たりの平均被害額は195豪ドルだった。また、被害の後処理にかかった時間は16.2時間で、24％伸びた。
-</p>
-<p>
-　世界全体の調査結果で見ると、サイバー犯罪の被害に遭う人には共通する特徴があった。自宅や外出先で複数のデバイスを使うごく普通の消費者であるものの、サイバーセキュリティの基本に関して盲点があった。具体的には、複数のアカウントで同じパスワードを使い回したり、そのパスワードを他人と共有したりという傾向が見られた。また、被害に遭った消費者の29％は、そうした経験に反して、個人情報やデータを将来の攻撃から守ることについて自らの能力にいっそう自信を持っているという。
-</p>
-<p>
-　SymantecでNorton事業部門の太平洋地域担当マネージャーを務めるMark Gorrie氏は次のように言う。「消費者の行動から、危ういギャップが明らかになった。サイバー犯罪活動の話が絶えずメディアで報じられているにもかかわらず、自分は絶対大丈夫と信じている様子の人があまりに多く、ごく基本的な自衛策すら講じていない」
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022200472/?ST=cm-network&P=2">オーストラリアでは、データ漏えいが発生した場合に報告を義務づける...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022200472/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022200472/?ST=cm-network&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022200472/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 22 Feb 2018 10:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d16</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ビッグデータの基礎知識（下）（ビッグデータの基礎知識）</title>
@@ -1132,6 +1098,45 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 15 Mar 2018 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>侵入検知システムの基本と現状、そして今後（下）（侵入検知システムの基本と現状、そして今後）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/030500118/030500003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　侵入検知システム（IDS）は、ネットワーク上を流れるトラフィックやシステムの通信を監視して、疑わしい挙動や既知の脅威が含まれていないかどうかを調べ、見つけた場合は警告を通知する。企業のIT部門は、自社のIT環境で生じている不審な動きを把握する目的でIDSを導入する。</p>
+
+<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/030500118/030500002/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/030500118/030500003/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　またIDSは、トラフィックが暗号化されている場合のマルウエアの検知が問題になることがある。加えて、インバウンドトラフィックの速度や分散性により、企業でIDSの有効性に限界が生じる場合もある。</p>
+
+<p>　Hanselman氏は次のように説明する。「100Mビットのトラフィックを処理できるIDSを導入していたとしても、200Mビットのトラフィックが来たり、トラフィックが分散したりといった状況で、IDSが確認するのが3～4パケットにつき1パケットとなる可能性もある」</p>
+
+<h4>侵入検知の今後</h4>
+
+<p>　こうした限界があるとしても、機能としてのIDSの価値を否定するものではないとHanselman氏は強調する。</p>
+
+<p>　「完璧なセキュリティツールは存在しない。どの製品にもそれぞれ盲点があり、その盲点を知ることが課題だ。IDSは今後も長きにわたって役割を果たすという私の考えは変わっていない。ネットワーク上で悪質なトラフィックを具体的に特定できることには、現在も本質的な価値がある」</p>
+
+<p>　現在でもIDSの導入は依然としてセキュリティ上のベストプラクティスとされている。だが、各氏の話によると、企業や組織の中には、IDSの限界を踏まえて、IDSが必要なのかどうかを再考しているところもある。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/030500118/030500003/?ST=cm-network&P=2">Rexroad氏はこう説明する。「受け取る警告の数に応じて、こう...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/030500118/030500003/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/030500118/030500003/?ST=cm-network&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/030500118/030500003/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 16 Mar 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
