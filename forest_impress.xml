@@ -5,13 +5,6 @@
 		<link>https://forest.watch.impress.co.jp</link>
 		<description>Windows用オンラインソフトの専門サイト。 関連ニュースも提供。</description>
 		<item>
-			<title>老舗の画像ビューワー「ViX」に脆弱性、“JVN”が利用の中止を呼び掛ける／画像ファイルと同じフォルダーに存在する特定のDLLを誤って読み込んでしまう恐れ</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/974aea5490005aeff4a319b1b74954d7?ul=jlNxgzlKX2h8lwqL22hh51.jpuVgeckQo8EIhw281pkSHVhabZil9_hKLV8mobnJmMOHlWu6GRS1kyskPxaSA6q0hede</link>
-			<description><![CDATA[<p>　脆弱性ポータルサイト“JVN”は13日、老舗の画像ビューワー「ViX」に脆弱性が存在することを発表した。DLLを読み込む際の検索パスに問題があり、画像ファイルと同じフォルダーに存在する特定のDLLを誤って読み込んでしまう恐れがあるという。最悪の場合、プログラムを実行している権限で任意のコードを実行される可能性がある。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/974aea5490005aeff4a319b1b74954d7"/></p>]]></description>
-			<pubDate>Tue, 13 Mar 2018 17:11:19 +0900</pubDate>
-		</item>
-		<item>
 			<title>老舗の国産FTPサーバー「Tiny FTP Daemon」に致命的な脆弱性、利用の中止を／深刻度は“CVSS v3”で基本値“9.8（警告）”、“CVSS v2”で基本値“10.0（警告）”</title>
 			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/85b609ed9196ff63a8e5e4240c77fcd9?ul=l043nyF5EiFV5i1aLkaUp8kROYYAAZApoDo4t99qwAJu3rnUPG9pgSC5CBUQBcv5zTvkeMnB.i3IHw6WG0h2vYr3jTh3</link>
 			<description><![CDATA[<p>　脆弱性ポータルサイト“JVN”は13日、FTPサーバーソフト「Tiny FTP Daemon」にバッファオーバーフローの脆弱性が存在することを明らかにした。最悪の場合、遠隔の第三者によって任意のコードを実行されてしまったり、サービス運用妨害（DoS）攻撃を受ける可能性があるという。
@@ -164,6 +157,13 @@
 			<description><![CDATA[<p>サンワサプライ株式会社は、本を立てかけたり書類を押さえたりできるブックスタンド兼データホルダー「DH-318BK / W」を発売した。カラーバリエーションはブラックとホワイトの2色。タブレットを固定するスタンドとして活用することもできる。標準価格は各2500円（税抜）。
 <img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/9cb2a6e4c54e2ec774538360d6bdea15"/></p>]]></description>
 			<pubDate>Fri, 16 Mar 2018 07:20:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「VMware Workstation」「VMware Fusion」の旧版にDoS脆弱性／影響を受けるのは仮想マシンのVNC接続機能を有効にしている環境のみ</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/9388fa06020c234713f7eaa0a66358ba?ul=SYaoHhLLe2C_plmJJkxLlF2V4pO95OEN3cSJ8403WLHi8t0v4GVZrAZL7kLB7UbSoheuzU_g6Y0psoDO1oyQ3XGJzokb</link>
+			<description><![CDATA[<p>　米VMwareは15日（現地時間）、「VMware Workstation」および「VMware Fusion」の旧バージョンにDoS（Denial of Service）攻撃を受ける脆弱性（CVE-2018-6957）が存在することを明らかにした。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/9388fa06020c234713f7eaa0a66358ba"/></p>]]></description>
+			<pubDate>Fri, 16 Mar 2018 12:51:40 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
