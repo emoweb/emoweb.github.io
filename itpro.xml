@@ -5,46 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d16</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ビッグデータの基礎知識（下）（ビッグデータの基礎知識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/021300112/021300003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　ビッグデータとは要するに何なのだろうか。単にデータと言った時と、何が違うのだろうか。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/021300112/021300002/" target="_blank">前回</a>から続く）</p>
-
-<h4>Apache Spark</h4>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300003/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　Apache Sparkは、オープンソースのクラスタコンピューティングフレームワーク。Hadoopエコシステムの一部を成し、Hadoop内のビッグデータ処理エンジンとして利用できる。ビッグデータの分散処理フレームワークとして重要な存在の1つとなっており、さまざまな展開が可能だ。Java、Scala、Python（特にディストリビューションAnaconda）、Rの各プログラミング言語から利用するための機能を標準で備えている（Rは特にビッグデータに適している）。また、SQL、ストリームデータ、機械学習、グラフ処理に対応している。</p>
-
-<h4>データレイク</h4>
-
-<p>　データレイクは、膨大な生データをそのままのフォーマットで大量に蓄積しておいて、業務ユーザーが必要とした時点でそのデータを適宜利用できるようにするという形のストレージリポジトリだ。データレイクの拡大を後押ししているのは、デジタルトランスフォーメーションの取り組みと、IoTの発展だ。ユーザーのニーズに応じて膨大なデータを利用しやすくなるように構成されている。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300003/?ST=cm-network&P=2">NoSQLデータベース</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300003/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300003/?ST=cm-network&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300003/?ST=cm-network&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021300112/021300003/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 23 Feb 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n16</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>IntelのCPU脆弱性パッチ、Kaby Lake／Coffee Lake向けにも修正版が登場（CIOニュース）</title>
@@ -1137,6 +1101,49 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 16 Mar 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Fitbit、新型スマートウオッチ「Versa」を発表（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/031600414/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　Fitbitの共同創業者で最高経営責任者（CEO）のJames Park氏は次のようにコメントしている。「ウエアラブルのカテゴリーが成長を続ける中、Fitbit Versaは市場の重要なニーズを満たす。美しいデザインに機能を満載した使いやすいスマートウオッチで、価格も手頃だ」
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/031600414/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Fitbit</div>
+</div>
+<p>
+　「Fitbitの代名詞とも言える先進のヘルスケア機能とフィットネス機能を備えているほか、多種多様なモバイルプラットフォームと連携でき、バッテリーは4日もつ。ユーザーは、自分の健康状態全般について、これまで以上に把握できるようになる。現在市販されているスマートウオッチの中でも群を抜く製品だ」
+</p>
+<p>
+　一見したところ、Versaの外観は、Fitbit初のスマートウオッチとして昨年登場した「Ionic」をすっきりと洗練させた印象だ。Ionicと同様に、スマートフォンの通知を受けとるほか、Androidではクイック返信にも間もなく対応するという。内蔵ストレージは4Gバイトで、Bluetoothヘッドホンに対応した音楽再生が可能。決済機能「Fitbit Pay」も搭載している。盤面はFitbit App Galleryを通じてカスタマイズできる。バッテリー駆動時間は最大4日としている。
+</p>
+<p>
+　バンドは、Ionicと同様に、さまざまなタイプのユーザーに向けたスタイリッシュなデザインがいくつか用意されている。
+</p>
+<p>
+　OSは、新バージョンである「Fitbit OS 2.0」を搭載している。音楽の操作やFitbit Payに素早くジャンプできる新しいショートカットメニューや、アップデートされたインタラクティブダッシュボードなど、UIに新たな改良がいくつか加わっている。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/031600414/?ST=cio-consumerit&P=2">Fitbitが大きく打ち出している機能としては、...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/031600414/?ST=cio-consumerit&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/031600414/?ST=cio-consumerit&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/031600414/?ST=cio-consumerit&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Fri, 16 Mar 2018 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
