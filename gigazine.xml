@@ -5,18 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>迫り来る女の子たちを眼力で狙い撃ってメロメロにする「ぎゃる☆がん2」は予想以上に本格的なガンシューティングゲームでした</title>
-			<link>https://gigazine.net/news/20180315-nintendo-switch-galgun-2/</link>
-			<description><![CDATA[<p>「眼力で女の子を昇天させる眼(ガン)シューティング」と銘打つ、異色のガンシューティングゲームのシリーズ最新作「ぎゃる☆がん2」がPlayStation 4とNintendo Switchで2018年3月15日から配信されています。制服に身を包む美少女とガンシューティングの2つを組み合わせると果たしてどんなゲームになるのか、そしてNintendo Switchではどんな感じになっているのかめちゃくちゃ気になったので、実際にNintendo Switch版をプレイしてみました。<p><b><a href="https://gigazine.net/news/20180315&#45;nintendo&#45;switch&#45;galgun&#45;2/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Thu, 15 Mar 2018 23:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「1週間で1度も休みを取らなかった」としてフランスの裁判所がパン職人に罰金を科す</title>
-			<link>https://gigazine.net/news/20180316-french-court-fines-baker/</link>
-			<description><![CDATA[<p>日本ではしばしば長時間労働が問題となっており、働き過ぎによる過労死も社会問題化しています。労働者が適切な休みを取ることを義務づけているフランスでは、「1週間1度も店を閉めずに働き続けた」としてパン職人が罰金刑を受けたとして話題になっています。<p><b><a href="https://gigazine.net/news/20180316&#45;french&#45;court&#45;fines&#45;baker/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Fri, 16 Mar 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>固定観念を壊して新しい「エイリアン」を想像する方法</title>
 			<link>https://gigazine.net/news/20180316-how-imagine-new-aliens/</link>
 			<description><![CDATA[<p>SF映画などで登場する機会の多いキャラクターの一つに、地球外生命体であるエイリアンが挙げられます一般の人に「あなたが想像するエイリアンを書いてみてください」とお願いすると、ほとんどの人は人型のエイリアンを想像してしまうことが多く、異なる形態の生物を書くことは少ないとのこと。海外メディアのVoxがYouTubeで公開しているムービーでは、新種のエイリアンを生み出す方法について、「エイリアンVSプレデター」などのエイリアンシリーズを始め、多くのSF映画のVFXを担当するチャーリー・ヘンリー氏に新しいエイリアンを生み出すにはどうすれば良いかインタビューしています。<p><b><a href="https://gigazine.net/news/20180316&#45;how&#45;imagine&#45;new&#45;aliens/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +171,18 @@
 			<link>https://gigazine.net/news/20180317-rough-js/</link>
 			<description><![CDATA[<p>「Rough.js」はJavaScriptで作られたライブラリで手描き感あふれる図形を描く事ができます。「直線」や「多角形」「円」などを描画できることはもちろん、SVGのPath要素の記述も可能なため、複雑な図形を描くこともできるとのことです。<p><b><a href="https://gigazine.net/news/20180317&#45;rough&#45;js/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Sat, 17 Mar 2018 19:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>宇宙に漂って問題を起こす「スペースデブリ」除去のためにエアバスは「銛(もり)」を打ち込む方法を開発</title>
+			<link>https://gigazine.net/news/20180318-airbus-space-harpoon/</link>
+			<description><![CDATA[<p>壊れて動かなくなった人工衛星や、ロケット打ち上げ時に投棄されたロケットエンジン、そして人為的に破壊された人工衛星の破片など、宇宙空間には宇宙のゴミ「スペースデブリ」が無数に存在し、秒速数kmという超高速で飛びまわり続けています。他の人工衛星や宇宙船の脅威となっているスペースデブリの問題を解決するためにヨーロッパの航空宇宙大手「エアバス」は、スペースデブリを突き刺して回収・大気圏に落下させる「ハープーン」(銛・もり)のような装置を開発しています。<p><b><a href="https://gigazine.net/news/20180318&#45;airbus&#45;space&#45;harpoon/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Sat, 17 Mar 2018 21:04:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「AMDのCPUに深刻な脆弱性がある」とのCTS Labs発表による一大騒動まとめ</title>
+			<link>https://gigazine.net/news/20180317-amd-ryzen-epyc-security-flaw/</link>
+			<description><![CDATA[<p>イスラエルのセキュリティ企業CTS Labsが、AMDのCPU「Ryzen」とサーバー向けCPU「EPYC」に13もの脆弱性があることを発表しました。しかし、AMDに対策の猶予を与えることなく脆弱性情報を公開した手法については批判もあり、そもそも現実的な脅威があるのか疑問という意見や、「株価下落を望んでいるだけでは？」という冷ややかな声も上がっています。<p><b><a href="https://gigazine.net/news/20180317&#45;amd&#45;ryzen&#45;epyc&#45;security&#45;flaw/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Sat, 17 Mar 2018 21:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
