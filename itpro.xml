@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n19</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IntelのCPU脆弱性パッチ、Kaby Lake／Coffee Lake向けにも修正版が登場（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/022300407/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Intelは、CPU脆弱性「Spectre」「Meltdown」に対処するマイクロコードアップデートの修正版に関して、Kaby Lake／Coffee LakeベースのCoreプロセッサやSkylakeベースの一部プロセッサに向けたバージョンを、パートナーのハードウエアメーカーにリリースしたことを現地時間2018年2月20日に発表した。同社の文書によると、Ivy Bridge、Haswell、Broadwellなどに向けたパッチも、ベータ段階に進んでいるようだ。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/022300407/top.jpg" width="320" alt="" title=""></div>
-
-<div>Google/Natascha Eibl</div>
-</div>
-<p>
-　ハードウエアメーカーの中には、ユーザーへのパッチ提供を既に開始しているところもある。例によって、SpectreとMeltdownに対する最善の防御策は、パソコンにパッチを適用することだ。特に、今回の修正版に関しては、迅速な対応が望ましい。
-</p>
-<p>
-　CPU脆弱性への対応としてIntelが最初にリリースしたパッチは、システムの不安定化や予期せぬ再起動などの問題を引き起こした。そこで同社は、1月下旬にこのパッチを撤回して、問題の解明を進めたうえで、まずはSkylakeベースの一部のプロセッサに向けて、2月初めに修正版のパッチをあらためてリリースした。
-</p>
-<p>
-　そして今回、別のプロセッサに向けた修正版パッチもリリースした。Intelが公開している文書「<a href="https://newsroom.intel.com/wp-content/uploads/sites/11/2018/02/microcode-update-guidance.pdf" target="_blank">Microcode Revision Guidance</a>」によると、新たに提供したのは、Kaby Lake H／S／X／G／U／Yシリーズ、Kaby Lake Refresh Uシリーズ、Coffee Lake H／Sシリーズなどに向けた修正版パッチだ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/022300407/?ST=cio-security&P=2">Intelでデータセンターグループ担当ゼネラルマ...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/022300407/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/022300407/?ST=cio-security&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/022300407/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-</div>
-]]></description>
-			<pubDate>Fri, 23 Feb 2018 10:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d19</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>CRMとERP、企業はどちらをどう使うべきか（上）（CRMとERP、企業はどちらをどう使うべきか）</title>
@@ -1144,6 +1106,38 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 16 Mar 2018 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IT部門の変革、チェンジエージェントが語る（前）（IT部門の変革、チェンジエージェントが語る）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/031200120/031200001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　デジタルトランスフォーメーションが流行する中、変革に力を注ぎ、ビジネスオペレーションの強化や新たな収益源の開拓を成し遂げた最高情報責任者（CIO）は称賛の的になる。だが、一世一代の大転換に乗り出す前に、もっと根本的な部分の変革に着手することを余儀なくされるCIOは多い。すなわち、IT部門の文化を変えるという変革だ。</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200120/031200001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　こうした変革の対象となるのは、レガシーコードのスパゲティプログラムや、期日も予算も超過したERP刷新プロジェクトといった、技術的実装の破綻ではない。誤ったマネジメント、現状維持に甘んじている社員、組織の体をなしていない深刻な混乱などにより生じている、有害な文化や無気力の文化を変えなくてはならない。</p>
+
+<p>　そこで必要なのはチェンジエージェント（変革の担い手）だ。Marshall Goldsmith氏が著書「What Got You Here Won't Get You There（コーチングの神様が教える「できる人」の法則）」で取り上げたような気質を体現している人である。今回の記事では、こうした変革の経験を持つ数名のCIOに体験談を聞いた。変革に必要な要素の一端をつかんでほしい。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200120/031200001/?ST=cio-management&P=2">適切な人材のトレーニング</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200120/031200001/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200120/031200001/?ST=cio-management&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200120/031200001/?ST=cio-management&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200120/031200001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Mon, 19 Mar 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
