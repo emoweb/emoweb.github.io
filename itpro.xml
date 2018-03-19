@@ -5,45 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n20</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AirPods新モデルが今年登場か、「Hey Siri」機能と新チップ搭載（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/022600473/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Appleのワイヤレスイヤホン「AirPods」は、発売から1年以上が経過した今も、同社のラインナップの中で大ヒットが続いている商品だ。在庫切れになっていたり、入荷後すぐに売り切れたりすることも少なくない。そうした中、Appleがこの製品に一層の磨きをかける計画だとの報道が出た。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022600473/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Daniel Masaoka/IDG</div>
-</div>
-<p>
-　米Bloombergが2018年2月22日に公開した記事によると、Appleは今年、AirPodsの新モデルを発売したい考えだ。新しいチップを搭載し、「Hey Siri」と呼びかけることでAIアシスタント「Siri」をハンズフリーで呼び出せる機能も加わるという。現行のAirPodsでは、Siriを呼び出す時には指でタップする必要がある。
-</p>
-<p>
-　新チップの搭載も、ハンズフリーのSiriも、どちらも意外な進化ではないはずだ。Appleの「W1」チップは、AirPodsと共に登場した。その後同社は、「Apple Watch Series 3」に、省電力性を高めた「W2」チップを搭載した。恐らく、新型AirPodsは「W3」といった名前のチップを搭載し、バッテリー駆動時間や再生音質が向上するものと考えられるが、Bloombergの記事はこの新チップの名称には触れていない。現行のAirPodsは、1回の充電で5時間再生でき、付属の充電ケースを使えば24時間以上持つ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022600473/?ST=cm-hardware&P=2">Siriに関しては、iPhone、iPad、AppleWatch...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022600473/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022600473/?ST=cm-hardware&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/022600473/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 26 Feb 2018 10:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d20</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>みちびき（Close Up Keyword）</title>
@@ -1146,6 +1111,41 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 19 Mar 2018 10:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>SQLインジェクション、今もWebアプリを襲う古株の脅威（前）（SQLインジェクション、今もWebアプリを襲う古株の脅威）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/031200121/031200001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　SQLインジェクションは、Webアプリケーションのデータベースを完全に支配される恐れがある攻撃手法の中でも、洗練度という点では最下位に近い。SQLインジェクションを不朽の存在にしたのは、Webコミックxkcdの<a href="https://xkcd.com/327/" target="_blank">第327話</a>に出てきた「Little Bobby Tables」だ。</p>
+
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200001/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Thinkstock/Google</div>
+</div>
+
+<p>　最初の発見は1998年までさかのぼるSQLインジェクションだが、いまだにインターネットの各所でWebアプリケーションに災いをもたらしている。Webアプリケーションのセキュリティに対する脅威のトップ10をまとめた「OWASP Top 10」の2017年版でも、第1位はインジェクションだった。</p>
+
+<p>　不幸中の幸いなのは、攻撃側だけでなく防御側にとっても、SQLインジェクションはとりわけ扱い易い相手であることだ。ハッカー集団Shadow Brokersが暴露した米国家安全保障局（NSA）の最先端の攻撃キットとは違う。<a href="https://www.troyhunt.com/hacking-is-childs-play-sql-injection/" target="_blank">3歳の子供でも実践できる</a>くらいシンプルだ。スクリプトキディ向きである。Webアプリケーションの修正でSQLインジェクションのリスクを抑えるのはごく簡単だ。それだけに、対処を怠るのは、これまでにも増して重大な過失だという印象である。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200001/?ST=cm-software&P=2">SQLインジェクションの定義と種類</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200001/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200001/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200001/?ST=cm-software&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200001/?ST=cm-software&P=4">4</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 20 Mar 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
