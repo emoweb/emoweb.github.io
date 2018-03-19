@@ -11,37 +11,6 @@
 			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>CRMとERP、企業はどちらをどう使うべきか（上）（CRMとERP、企業はどちらをどう使うべきか）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/021600114/021600001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　ERP（統合基幹業務）とCRM（顧客関係管理）システムは、コンタクト管理や顧客企業の情報、あるいは受注に関するさまざまな情報を扱うという点で、守備範囲が重なり合っているように思える。実際、一部のERPベンダーは、CRMや人事管理、幹部のゴルフのスケジュール管理に至るまで、さまざまなものがERPの範疇に含まれていると主張する。ERPとCRMを巡る話は、漠然として分かりにくいことばかりで、その結果、論点がつかみにくくなっている。</p>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600114/021600001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　ERPシステムとCRMシステムでユーザーがどう違うかという点に関しては、さほど混乱がないので、そこを出発点に考えていこう。CRMシステムの主なユーザーは、セールスチームやサポートチームの人間だ。根本的には顧客対応を担う部隊であり、生産やフルフィルメントの具体的な業務には直接関与しない（そうした業務の担当者たちを怒鳴りつけることはある）。</p>
-
-<p>　一方、ERPシステムのユーザーは、製品の生産プロセスやロジスティクスに注目する立場の人間だ。工場管理者、生産計画担当者、購買担当者、サプライチェーン担当者、財務担当者などである。ERPのユーザーは内部の人間で、サプライヤーに接するのが仕事だ。何らかの苦情への対応でもない限り、自ら顧客に連絡することはめったにない。</p>
-
-<p>　ERPとCRMのそれぞれのユーザーがつるむことはないし、仕事のペースも異なる。相手方のソフトウエアが自分たちにも有益だと認識することはほとんどない。基本的には、社内でCRMシステムとERPシステムの両方にアカウントを持つのは、システムの連携、データウエアハウス、アナリティクスの責を負うIT部門の人間だけだ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600114/021600001/?ST=cio-management&P=2">だが、ERPシステムのベンダーの中にも、CRM製...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600114/021600001/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600114/021600001/?ST=cio-management&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600114/021600001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-</div>
-]]></description>
-			<pubDate>Mon, 26 Feb 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>AirPods新モデルが今年登場か、「Hey Siri」機能と新チップ搭載（Computerworldニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/022600473/</link>
 			<description><![CDATA[<div>
@@ -1138,6 +1107,45 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 19 Mar 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>英建設会社、Nutanixで自動化を推進（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/031900481/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　英建設会社Laing O'Rourkeは、新鉄道路線クロスレールや、ヒンクリーポイント原子力発電所など、英国内で大規模な建設プロジェクトに携わっている。同社は、米Nutanixの製品を導入し、コスト削減やデータセンター統合のほか、オンサイトのエッジコンピューティングに適したプラットフォームの構築を目指している。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031900481/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Flickr/Andreas Komodrom</div>
+</div>
+<p>
+　Laing O'Rourkeは数年前、新しいデータセンターを立ち上げたいと考え、従来のオンプレミスのデータセンターを新しいコロケーションサイトに移すことを望んでいた。
+</p>
+<p>
+　Laing O'Rourkeのインフラ開発担当マネージャー、Paul Petty氏は、Nutanixが英ロンドンで現地時間2018年3月14日に開催したカンファレンス「Nutanix .NEXT」で次のように説明した。「当社は未開拓の場所を求めていた。当時は従来型の3階層のスタックを利用していたが、もっとインテリジェントに、そして、もっと効率的に物事を進めたいと考えていた。その実現のために、ベンダー数社を検討したうえで、Nutanixを採用することに決めた」
+</p>
+<p>
+　「新しいデータセンターの立ち上げに必要なインフラを大規模に統合し、コストとラックスペースを削減した。これは当然ながら費用の節約につながった」
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031900481/?ST=cm-cloud&P=2">LaingO'Rourkeは現在、「NutanixEnterpr...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031900481/?ST=cm-cloud&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031900481/?ST=cm-cloud&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031900481/?ST=cm-cloud&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031900481/?ST=cm-cloud&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 19 Mar 2018 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
