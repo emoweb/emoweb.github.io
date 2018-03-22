@@ -5,18 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>FirefoxとThunderbirdの「マスターパスワード」は1分で破ることが可能と指摘される</title>
-			<link>https://gigazine.net/news/20180320-firefox-thunderbird-master-password-disable-secure/</link>
-			<description><![CDATA[<p>MozillaのウェブブラウザFirefoxとメールクライアントThunderbirdには、セキュリティを向上するという目的で、「マスターパスワード」という機能があります。この機能は、あらかじめソフトウェアのアカウント毎に設定しておいた個別パスワード「マスターパスワード」を入力しないと、ソフトウェアの動作を制限するというものです。しかし、このマスターパスワードによるセキュリティの向上に疑問を持っている専門家がいるとBleepingComputer.comが伝えています。<p><b><a href="https://gigazine.net/news/20180320&#45;firefox&#45;thunderbird&#45;master&#45;password&#45;disable&#45;secure/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Tue, 20 Mar 2018 08:30:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Uberの自動運転カーが女性をはねて死なせる事故が発生、Uberは自動運転の公道テストを中止</title>
-			<link>https://gigazine.net/news/20180320-uber-autonomous-car-kill-pedestrian/</link>
-			<description><![CDATA[<p>公道で走行テスト中の配車サービスUberの自動運転カーが、歩行者を跳ね飛ばして死亡させる事故が起こりました。「自動運転カー技術は未成熟であり、公道テストは時期尚早ではないか？」と訴える声が大きくなることが予想されます。<p><b><a href="https://gigazine.net/news/20180320&#45;uber&#45;autonomous&#45;car&#45;kill&#45;pedestrian/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Tue, 20 Mar 2018 10:37:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>「Appleが自社でMicroLEDディスプレイを開発中」の報道を受け関連株価が急落</title>
 			<link>https://gigazine.net/news/20180320-apple-secretly-developing-microled/</link>
 			<description><![CDATA[<p>Appleが液晶よりも消費電力が低く、高画質で明るい次世代ディスプレイ「MicroLED」を開発していると報じられています。<p><b><a href="https://gigazine.net/news/20180320&#45;apple&#45;secretly&#45;developing&#45;microled/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +171,18 @@
 			<link>https://gigazine.net/news/20180322-meat-expert-guesses-deli-meats/</link>
 			<description><![CDATA[<p>加工肉とは、ハムやソーセージなど、人間の手によってさまざまな処理が施され、加工された肉のこと。加工肉の製造は主に肉を長期間保存するために発達した技術ですが、近年では加工肉ならではの風味や食感を好む人も増えています。加工肉は手を加えていない肉とはだいぶ違ったものになっていますが、「肉の達人は、加工された肉でも安い肉と高級肉を判別できるのか？」を検証したムービーが、YouTubeに公開されています。<p><b><a href="https://gigazine.net/news/20180322&#45;meat&#45;expert&#45;guesses&#45;deli&#45;meats/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Thu, 22 Mar 2018 07:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Linuxカーネルのソースコードを機能とレイヤーで分類して表示してくれる「Linux kernel map」</title>
+			<link>https://gigazine.net/news/20180322-linux-kernel-map/</link>
+			<description><![CDATA[<p>Linuxのカーネルは膨大な数のソースコードから成り立っており、どこに何の処理が書いてあるのかをぱっと検討つけるのにはかなりコードを読み込む必要があります。「Interactive map of Linux kernel」はそのソースコードを機能とレイヤーで分類して表示してくれるサイトということで、使い勝手を試してみました。<p><b><a href="https://gigazine.net/news/20180322&#45;linux&#45;kernel&#45;map/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Thu, 22 Mar 2018 08:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>登録いらずで簡単にURLを使ってアクセス監視ができる「URL Canary」</title>
+			<link>https://gigazine.net/news/20180322-url-canary/</link>
+			<description><![CDATA[<p>どうしても見られたくないファイルというものは、自分しか知らないアドレスに置いていても、ローカルに管理していたとしても、誰にも見られていないか心配になるものです。「URL Canary」を用いると、そんなシークレットファイルに自分以外のアクセスがあった場合に、Canary(密告者)として知らせてくれます。<p><b><a href="https://gigazine.net/news/20180322&#45;url&#45;canary/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Thu, 22 Mar 2018 08:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
