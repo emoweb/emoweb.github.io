@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>被災地に着工した26MWのメガソーラー、プロジェクトボンドで75億円調達</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/031510885/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Thu, 15 Mar 2018 18:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>一般海域での洋上風力、利用ルールを閣議決定、「入札」とセットへ</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/031510886/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -243,6 +237,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/032210906/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　キヤノンメディカルシステムズは、ディープラーニングをMRI撮像に適応するDeep Learning Reconstruction（DLR）と呼ぶ技術に関して、熊本大学および仏ボルドー大学（Bordeaux University）との共同研究を2018年3月に開始した。超高分解画像撮像による臨床検査の確立など、次世代MRI技術の開発につなげる。</p><p>　DLRは、ディープラーニングを用いてノイズの多い画像からノイズを除去する、いわゆるノイズ除去再構成技術。ノイズの多い画像とノイズの少ない画像の関係性をコンピューターで解析・モデル化することで、新たに得られた画像のノイズを除去することが可能になる。具体的には、長時間撮影で得られた高SNRの画像（S/N比の高い画像）を教師データとして、短時間撮影の低SNRの画像からノイズを除去する。</p><p>　従来検査では困難だった超高分解能撮像を短時間で行うことが可能になり、超高分解能撮像の臨床検査への適応とその有用性に関して注目されているという。また、一般的な平滑化フィルターと比べると、ノイズ除去に伴う画像の劣化が極めて小さく、実質の信号自体の変動が少ないという特性により、ノイズの影響を受けやすい定量解析の安定性を向上できる可能性もある。そのため、今後のMRI検査の概念を大きく変える技術として期待されているという。</p><p>　今回の共同研究について、熊本大学大学院生命科学研究部 放射線診断学分野教授の山下康行氏は、次のようにコメントしている。「DLRは、今までのMRI撮像の概念を変える可能性があり、超高分解能画像の短時間収集や定量解析での安定性向上など発展性が期待される」。</p><p>　一方、ボルドー大学国際関係担当副学長であるVincent Dousset氏は、「キヤノンメディカルの3テスラMRIシステムで得られる超高分解能画像は、DLRとの組み合わせにより7テスラに近づく画像を描出可能。これまでの高磁場MRI研究を一部代替できる可能性がある」とコメントしている。ボルドー大学では、2018年3月5日に共同研究施設があるInstitute of Bioimagingで開所式が行われた。</p><p>　キヤノンメディカルシステムズ代表取締役社長の瀧口登志夫氏は、両大学との共同研究開始に際して次のように述べている。「次世代のMRI技術開発につながる最先端の共同研究が、国内外の著名施設で開始できることは大変光栄。診断に必要な画像をより高解像度で提供することで、新たな臨床的な価値が生まれることを期待している」。</p></div>]]></description>
 			<pubDate>Thu, 22 Mar 2018 14:05:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「東西向き」設置のメガソーラー、東広島市に着工、発電量18％向上</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/032310907/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 23 Mar 2018 01:02:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
