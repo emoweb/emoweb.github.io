@@ -5,44 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d22</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>CRMとERP、企業はどちらをどう使うべきか（中）（CRMとERP、企業はどちらをどう使うべきか）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/021600114/021600002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　ERP（統合基幹業務）とCRM（顧客関係管理）システムは、コンタクト管理や顧客企業の情報、あるいは受注に関するさまざまな情報を扱うという点で、守備範囲が重なり合っているように思える。実際、一部のERPベンダーは、CRMや人事管理、幹部のゴルフのスケジュール管理に至るまで、さまざまなものがERPの範疇に含まれていると主張する。ERPとCRMを巡る話は、漠然として分かりにくいことばかりで、その結果、論点がつかみにくくなっている。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/021600114/021600001/" target="_blank">前回</a>から続く）</p>
-
-<h4>ERPの構成要素</h4>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600114/021600002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　ERPで最も土台にあたるのは財務管理だ。企業はもとより、非営利組織であっても、財務管理システムは必要だ。財務管理で扱うのは、取引記録、買掛金、売掛金、資金、税金、キャッシュフロー、四半期決算、レポートや意思決定支援などだ。こうした中で、CRMの機能と辛うじてつながりがあるのは、請求書処理や収益認識くらいだ。</p>
-
-<p>　ERPでその1つ上のレベルに位置するのは、工場で最大限の生産量を実現して四半期末までにきちんと製品を出荷できるようにするためのあらゆる活動だ。マスター生産計画、調達、在庫管理、流通／出荷／フルフィルメント、サプライチェーン管理などである。こうした機能とCRMシステムとのつながりとして重要なことは限られている。すなわち、誰が何を注文したか、そして注文の予測くらいのものだ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600114/021600002/?ST=cio-management&P=2">ERPで一番上のレベルに位置するのが最適化だ。複...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600114/021600002/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600114/021600002/?ST=cio-management&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600114/021600002/?ST=cio-management&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600114/021600002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-</div>
-]]></description>
-			<pubDate>Wed, 28 Feb 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n22</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>SAP Cloud Platformにプリペイド方式を追加、iOS用SDKも更新（Computerworldニュース）</title>
@@ -1151,6 +1117,45 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 22 Mar 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>英Sky、利用者の気分に合ったコンテンツのレコメンドを模索（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/032200416/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　英Skyは、膨大なコンテンツのライブラリーの中からお勧めのコンテンツを提示する機能に関して、シンプルなレコメンドエンジンの先を目指している。機械学習を利用し、ユーザーの気分にぴったり合ったお勧めを提示するというものだ。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032200416/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Sky</div>
+</div>
+<p>
+　英ロンドンで現地時間2018年3月15～16日に開催されたカンファレンス「Deep Learning in Retail & Advertising Summit」で、Skyの主席データサイエンティスト、Jian Li氏のセッションがあった。「当社には大量のコンテンツと巨大なデータベースがある。我々が最新のテクノロジーをどのように活用して利用者に情報を提示するかをお聞かせする」と同氏は語った。
+</p>
+<p>
+　Skyのデータサイエンティストのチームは、利用者一人ひとりの視聴やデバイスに関するデータを取り込み、お勧めコンテンツを導き出すための機械学習モデルを構築する。今回、同チームが構築したのは、最近の視聴履歴だけでなく、本人の今の気分に合ったお勧めを提示することを目指した、新しいモデルだ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032200416/?ST=cio-appli&P=2">出発点は、利用者の気分を特定のジャンルと単純に結...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032200416/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032200416/?ST=cio-appli&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032200416/?ST=cio-appli&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032200416/?ST=cio-appli&P=4">4</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032200416/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Thu, 22 Mar 2018 11:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
