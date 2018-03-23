@@ -5,44 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d23</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>量子コンピューティング、企業のCIOは今から検討を（後）（量子コンピューティング、企業のCIOは今から検討を）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/021600115/021600002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　かつては絵に描いた餅のように思われていた量子コンピューティングだが、古典的なコンピューティングモデルでは手に負えなかった課題や、機械学習、最適化、検索に取り組むための手段として、台頭のきざしを見せつつある。企業の最高情報責任者（CIO）は、量子コンピューティングについて今のうちに検討を始めておかないと、ライバルの後塵を拝する恐れがあると米Gartnerは言う。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/021600115/021600001/" target="_blank">前回</a>から続く）</p>
-
-<h4>量子コンピューターの速度</h4>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600115/021600002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　1つの到達点としてさかんに追求されているのが、量子コンピューターの計算能力が現在最速のスーパーコンピューターよりも優れていることを示す「量子超越性」の実証だ。一般的な認識では、量子超越性は50量子ビットで示せるものとされている。しかし、量子ビットの数が増えるほど、コヒーレンスの維持は難しくなる。量子コンピューティングのパフォーマンスは、つまるところ量子エラーの抑制にかかっているとBrisse氏は言う。</p>
-
-<p>　「量子ビットの重ね合わせと量子もつれをどれだけ長く維持できるかが肝心だ。そこが本当の指標になる」。真の量子超越性に到達し、システムがコヒーレンスを十分に維持して量子が本領を発揮できるようになるのは、1～2年先だと同氏は見る。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600115/021600002/?ST=cm-hardware&P=2">量子コンピューティングのアーリーアダプター</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600115/021600002/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600115/021600002/?ST=cm-hardware&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600115/021600002/?ST=cm-hardware&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/021600115/021600002/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 01 Mar 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n23</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Apple、自前の医療機関を設立、本社施設で今春開業（CIOニュース）</title>
@@ -1159,6 +1125,54 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 23 Mar 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IBM、サービスとしてのディープラーニングで企業のネックを解消（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/032300482/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　売り上げを増やすために人工知能（AI）を活用する企業がある一方で、米IBMは、ユーザー企業が利用するコンピューティングリソースを減らせるようにする方向でAIを活用しようとしている。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/032300482/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Peter Sayer/IDG</div>
+</div>
+<p>
+　IBMがAIテクノロジーの1つとして導入するディープラーニングのサービスを利用することによって、同社のユーザー企業は、ビジネスに必要なAI機能をトレーニングする際に、クラウドサービスで消費する演算処理時間を抑えることが可能になる。
+</p>
+<p>
+　また、企業に不足していて費用がかさむもう1つのリソース、すなわちAIの専門知識も最大限に活用できる。IBM Watsonのチーフアーキテクトで同社フェローのRuchir Puri氏はそのように説明する。
+</p>
+<p>
+　「企業が機械学習を活用するにあたってのハードルを下げる」とPuri氏は言う。
+</p>
+<p>
+　Puri氏が指すのは、特定の専門領域に関してAIをトレーニングする手法の1つであるディープラーニングに精通した人材や専門知識の不足だ。
+</p>
+<p>
+　AIのトレーニングには、強力な演算処理能力が求められる。また一般には、対象領域の専門知識を持つ人材と、ディープラーニングモデルの構築やチューニングの知識を持つ人材がそれぞれ必要となる。前者は大半の企業にいるはずだが、後者はいないかもしれない。
+</p>
+<p>
+　「ここが企業にとってネックになりつつある。AIに精通した人材を雇うだけの余裕がどの企業にもあるわけではない」とPuri氏は言う。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/032300482/?ST=cm-software&P=2">IBMは数年前、Watsonの名を冠したAIテクノロジーに、ディ...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/032300482/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/032300482/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/032300482/?ST=cm-software&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/032300482/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 23 Mar 2018 11:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
