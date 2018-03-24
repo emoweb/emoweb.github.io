@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>ブラウザはどのようにコンテンツをレンダリングしているのか？</title>
-			<link>https://gigazine.net/news/20180323-rendering-engine/</link>
-			<description><![CDATA[<p>ウェブブラウザはHTMLなどで書かれた文章を解釈し、テキストや画像を配置するソフトウェアです。そのテキストや画像などのオブジェクトをレンダリングするレンダリングエンジンの仕組みを、ユーザーセッション分析やUX最適化サービスを提供しているSessionStackのCEOであるAlexander Zlatkov氏がまとめています。<p><b><a href="https://gigazine.net/news/20180323&#45;rendering&#45;engine/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Fri, 23 Mar 2018 09:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>HDDの読み書き速度を2倍にするマルチアクチュエータ技術「MACH.2」をSeagateが発表</title>
 			<link>https://gigazine.net/news/20180323-seagate-mach-2/</link>
 			<description><![CDATA[<p>Seagateがアクチュエータを複数搭載することで読み書き速度を倍増するマルチアクチュエータ技術「MACH.2」を正式に発表しました。また、より信頼性の高いデータ記録を実現する「熱補助型磁気記録(HAMR)」技術採用の磁気ヘッドの開発経過についても発表。実験レベルで1本の磁気ヘッドあたり3.2PB(3200TB)の書き込みに成功していることも発表しています。<p><b><a href="https://gigazine.net/news/20180323&#45;seagate&#45;mach&#45;2/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180324-bitcoin-blockchain-download-child-porn/</link>
 			<description><![CDATA[<p>ビットコインのブロックチェーンをダウンロードすると、同時に児童ポルノにあたる写真や児童ポルノへとつながるURLをダウンロードしてしまうとドイツの研究者ら明らかにしました。アメリカや日本では児童ポルノを所持しているだけでも罪となるため、理論的にはブロックチェーンのダウンロードを行うだけでも有罪となる可能性があると指摘されています。<p><b><a href="https://gigazine.net/news/20180324&#45;bitcoin&#45;blockchain&#45;download&#45;child&#45;porn/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Sat, 24 Mar 2018 18:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>メキシコの麻薬戦争をリアルに描いた映画「ボーダーライン」の続編「SICARIO：Day of the Soldado」の予告編映像が公開</title>
+			<link>https://gigazine.net/news/20180324-sicario-day-of-the-soldado/</link>
+			<description><![CDATA[<p>アメリカとメキシコの国境で巻き起こる麻薬戦争をリアルに描いた映画「ボーダーライン」(原題：SICARIO)の続編にあたる「SICARIO：Day of the Soldado」の予告編映像が公開されました。本作は前作に登場したアレハンドロとマット・グレイヴァーが中心に活躍するストーリーのようです。<p><b><a href="https://gigazine.net/news/20180324&#45;sicario&#45;day&#45;of&#45;the&#45;soldado/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Sat, 24 Mar 2018 19:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
