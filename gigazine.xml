@@ -11,12 +11,6 @@
 			<pubDate>Sat, 24 Mar 2018 10:12:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>あのチョコボールをアイスにそのまま入れた「チョコボールアイス」を食べてみた</title>
-			<link>https://gigazine.net/news/20180324-chocoball-ice/</link>
-			<description><![CDATA[<p>森永の丸いお菓子チョコボールをアイスにそのまま入れた「チョコボールアイス」が3月20日(火)から登場しています。チョコボールアイスは、チョコボールのカスタード味が「そのまま入っている」とのことで、どのぐらいそのまま入っているのかが気になったので実際に食べて確かめてみました。<p><b><a href="https://gigazine.net/news/20180324&#45;chocoball&#45;ice/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Sat, 24 Mar 2018 15:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ロードバランサーにDDoS防御システムやIPアドレスでのアクセス制御を組み込む「Cloud Armor」がGoogle Cloud Platformで提供開始</title>
 			<link>https://gigazine.net/news/20180324-google-cloud-armor/</link>
 			<description><![CDATA[<p>Googleはクラウドサービス「Google Cloud Platform(GCP)」の顧客向けに、GmailやYouTubeなど自社のサービスで使用しているDDoSの防衛技術を新サービス「Cloud Armor」として公開しました。<p><b><a href="https://gigazine.net/news/20180324&#45;google&#45;cloud&#45;armor/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180326-steinhaus-longmeter/</link>
 			<description><![CDATA[<p>普通の定規では測ることが難しい、紙に書かれた曲線の長さを測ることができる仕組みが「シュタインハウス・ロングメーター」です。そんな「シュタインハウス・ロングメーター」について解説したムービーがYouTubeに公開されています。<p><b><a href="https://gigazine.net/news/20180326&#45;steinhaus&#45;longmeter/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Mon, 26 Mar 2018 08:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>データ分析や機械学習にバリバリ使える上にブラウザで使用できて環境構築不要のPython実行環境「Google Colaboratory」</title>
+			<link>https://gigazine.net/news/20180326-google-colab-notebook/</link>
+			<description><![CDATA[<p>「Jupyter notebook」というツールは、Pythonのコードを部分ごとに実行できてその場で結果を確認できるため、試行錯誤を積み重ねる必要があるデータ分析や機械学習によく用いられてきました。「Colaboratory」はそのJupyter notebookを元に「ブラウザで実行」「ファイルはGoogleドライブに保存」「共同編集」などの機能を加えて作成されたツールです。<p><b><a href="https://gigazine.net/news/20180326&#45;google&#45;colab&#45;notebook/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Mon, 26 Mar 2018 09:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
