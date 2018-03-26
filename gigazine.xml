@@ -5,18 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>数式をスマホで写すと解法を教えてくれて勉強がはかどること間違いなしの無料アプリ「PhotoMath」</title>
-			<link>https://gigazine.net/news/20180325-photomath/</link>
-			<description><![CDATA[<p>「PhotoMath」はスマートフォンのカメラを使って数式を写すと自動的に答えを導き出してくれるアプリです。2014年にiOS版、2015年にAndroid版をレビューしましたが、当時は「算術式」「小数・分数」「べき根」「一次方程式」「二次方程式」「不等式」「連立方程式」「絶対値記号を含む方程式」にしか対応していませんでした。2018年現在では「指数」「対数」のほか、「微分」「積分」「三角関数」などにも対応しているとのことで、いったいどれだけ進化しているのか実際に確かめてみました。<p><b><a href="https://gigazine.net/news/20180325&#45;photomath/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Sun, 25 Mar 2018 19:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Dropboxがセキュリティ技術者の権利を守るための脆弱性公開ポリシーを設定</title>
-			<link>https://gigazine.net/news/20180325-dropbox-protecting-security-researchers/</link>
-			<description><![CDATA[<p>オンラインストレージサービスを運営しているDropboxでは脆弱性報奨金制度を行っており、報告の内容によっては最高で約3万3000ドル(約350万円)の報奨金を支払う制度を導入しています。しかし、昨今のセキュリティ研究者は脆弱性情報を公開することで「企業に損害を与えた」として訴訟されるケースがあり、セキュリティ技術の発展を妨げている状況にあるとDropboxが指摘しています。そこで、Dropboxはセキュリティ研究者を守るための脆弱性公開ポリシー(VDP)を更新し、他企業でも利用できるようにテンプレート化したとのことです。<p><b><a href="https://gigazine.net/news/20180325&#45;dropbox&#45;protecting&#45;security&#45;researchers/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Sun, 25 Mar 2018 21:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>段落のロック＆暗号化によりオンラインでの共同編集の不安を解消するネットサービス「Airborn」</title>
 			<link>https://gigazine.net/news/20180325-airborn/</link>
 			<description><![CDATA[<p>議事録や資料などを複数人で共有し共同で編集したい場合に気になるのが、のぞき見されないかというセキュリティ面と、同時に同じ箇所を変更してしまい混乱を招かないかという点です。オンラインエディタ「Airborn」はAESによる暗号化を行うことで、ハッキングによるのぞき見はもちろん、サービス提供者のAirbornによるのぞき見も防いでいます。また1つの段落を同時に2人以上で編集できないようになっており、バッティングによる混乱を避けることができます。<p><b><a href="https://gigazine.net/news/20180325&#45;airborn/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +171,18 @@
 			<link>https://gigazine.net/news/20180327-nvidia-geforce-partner-program/</link>
 			<description><![CDATA[<p>ゲーミングPC関連の情報サイト[H]ardOCPが、「GeForce Partner Program」と呼ばれるゲーミング市場における関連メーカーとのパートナーシップをNVIDIAが取り入れており、これによって「ライバルAMDのグラフィックボードを市場から閉め出そうとしている」という記事を投稿し、大きな反響を呼びました。GeForce Partner ProgramをNVIDIAの横暴だと捉える意見は多く、独占禁止法違反を指摘する声さえあります。<p><b><a href="https://gigazine.net/news/20180327&#45;nvidia&#45;geforce&#45;partner&#45;program/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Tue, 27 Mar 2018 06:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>廃棄された資源ゴミを掘り返して「新たな資源」として再利用する研究が進行中</title>
+			<link>https://gigazine.net/news/20180327-landfill-source-of-raw-materials/</link>
+			<description><![CDATA[<p>人々の日々の生活や、企業などの経済活動から生み出されるゴミのうち、焼却やリサイクルなどで処分できないものは陸地や海中に投棄することで処分されています。そのようなゴミはもう二度と使われることはないというのがこれまでの実態でしたが、スウェーデンのリンネ大学では捨てられたガラスなどの廃棄物を資源として再利用し、さらにはそこに含まれる重金属類を取り除くための研究が進められています。<p><b><a href="https://gigazine.net/news/20180327&#45;landfill&#45;source&#45;of&#45;raw&#45;materials/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Tue, 27 Mar 2018 07:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>インフルエンザや感染症の拡大速度を予測する実験</title>
+			<link>https://gigazine.net/news/20180327-predicts-flu-pandemic/</link>
+			<description><![CDATA[<p>数万人のボランティアを使って実施された「インフルエンザの流行速度を予測する実験」では、イギリス人口の約65％である4300万人がインフルエンザに感染する可能性があり、感染した人のうちなんと88万6000人が死亡する可能性があると予測されています。<p><b><a href="https://gigazine.net/news/20180327&#45;predicts&#45;flu&#45;pandemic/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Tue, 27 Mar 2018 07:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
