@@ -5,49 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n27</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ServiceNow、MariaDBに移行して密接な関係を構築（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/030200475/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　SaaS型のITサービスマネジメントソリューションを手がける米ServiceNowは、オープンソースのデータベース「MariaDB」に移行し、1時間に250億件のクエリを処理している。同社は、フィンランドMariaDB Corporationと密接に協力しながら、成長計画を推し進めている。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/030200475/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Computerworld UK</div>
-</div>
-<p>
-　ServiceNowが利用しているのは、MariaDBのエンタープライズ版である「MariaDB TX」だ。MariaDBの中核技術に加え、その管理、バックアップ、監視のため各種ツールやサービスが一体化された、サブスクリプション型の有償パッケージである。
-</p>
-<p>
-　ServiceNowはMariaDBを空前の規模で利用し、世界全体で8万5000近くのデータベースを稼働している。細かく言えば、MariaDBのインスタンスは8万4876個、InnoDBテーブルは1億7668万6129個、処理するクエリは1時間に250億件だ。
-</p>
-<p>
-　以前はオープンソース版の「MySQL」を基盤としていたServiceNowだが、3年前に限界に挑み始めた。同社のオペレーション担当ディレクター、Tim Yim氏は、幸いにしてMariaDBへの移行は単純な入れ替えで済んだと話す。現在は米Oracle傘下にあるMySQLからMariaDBへの移行が単純な入れ替えで済むという表現は、MariaDB自身も好んで使っている。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/030200475/?ST=cm-software&P=2">厄介なのは、ServiceNowはそれぞれの顧客企業にデータベー...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/030200475/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/030200475/?ST=cm-software&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/030200475/?ST=cm-software&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/030200475/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 02 Mar 2018 10:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d27</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>メールのセキュリティ対策、SPF／DKIM／DMARCの勘所（上）（メールのセキュリティ対策、SPF／DKIM／DMARCの勘所）</title>
@@ -1171,6 +1132,49 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 26 Mar 2018 11:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スマートグラスが続々登場、職場利用がもたらす課題は（前）（スマートグラスが続々登場、職場利用がもたらす課題は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/032200123/032200001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　今年はスマートグラスをかけて出社する社員がポツリポツリと現れ始めて、近い将来には大きなうねりとなりそうだ。職場でのスマートグラス利用が一般的になるにつれて、IT部門、さらには企業全般にのしかかる課題は、きっと大きくなっていく。</p>
+
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200123/032200001/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: VSP</div>
+</div>
+
+<p>　スマートグラスの未来は、今まさにはっきり見え始めたところだ。しかし、その潮流がもたらす予想外の変化は、まだ視界に入ってこない。</p>
+
+<p>　スマートグラスがやって来ること、いずれはメインストリームに躍り出ること、そして、来たるべき変化への準備が整っている企業がほとんどないことは間違いないと筆者は考えている。そのあたりを見ていくことにしよう。</p>
+
+<h4>Appleのスマートグラス</h4>
+
+<p>　スマートグラスがメインストリームとなるためには、一見ごく普通のメガネと同じような印象でなくてはならない。米Appleは、メインストリームに躍り出ることを念頭に置いたスマートグラスの開発に取り組んでいる。</p>
+
+<p>　Appleはスマートグラスに関わる特許を数多く取得している。その中でも、最新の出願特許は、スマートグラスに直接関係している。レンズの中にレンズを設けるような発想で、現実世界を見るためのレンズと、仮想世界を見るためのレンズを使う。反射屈折光学系と呼ばれるこの手法を取り入れるとしたら、Appleのスマートグラスは、ごく小さな投影器から、巨大な仮想コンテンツを映し出せることになる。</p>
+
+<p>　特許では、このスマートグラスで外向きと内向きの両方のカメラを使用する手法を定めている。これらのカメラは、仮想的な物体を現実世界に配置や固定するマッピングと、視線追跡との両方に利用できることが考えられる。</p>
+
+<p>　Appleの製品は常にデザイナーの思考をかき立てる。デザイナーのTaeyeon Kim氏は2018年2月、Apple Glassesの想定コンセプトを描いた印象的なイメージを公開した（過度にファッショナブルではあるが）。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200123/032200001/?ST=cm-hardware&P=2">Samsungのスマートグラス</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200123/032200001/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200123/032200001/?ST=cm-hardware&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200123/032200001/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 27 Mar 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
