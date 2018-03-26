@@ -11,12 +11,6 @@
 			<pubDate>Sat, 24 Mar 2018 10:12:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ロードバランサーにDDoS防御システムやIPアドレスでのアクセス制御を組み込む「Cloud Armor」がGoogle Cloud Platformで提供開始</title>
-			<link>https://gigazine.net/news/20180324-google-cloud-armor/</link>
-			<description><![CDATA[<p>Googleはクラウドサービス「Google Cloud Platform(GCP)」の顧客向けに、GmailやYouTubeなど自社のサービスで使用しているDDoSの防衛技術を新サービス「Cloud Armor」として公開しました。<p><b><a href="https://gigazine.net/news/20180324&#45;google&#45;cloud&#45;armor/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Sat, 24 Mar 2018 16:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>たつき監督が「第1話はいったんやめた」と語ったアニメギルド「邪神ちゃんドロップキック」＆「ケムリクサ」ステージ</title>
 			<link>https://gigazine.net/news/20180324-anime-guild-aj2018/</link>
 			<description><![CDATA[<p>BSフジ月曜～水曜の深夜アニメ枠「アニメギルド」が2018年4月から拡大し、月曜～木曜の4日間・6作品の枠になります。AnimeJapan 2018では、このアニメギルド枠で2018年7月から放送される「邪神ちゃんドロップキック」、およびテレビアニメ化が発表されたたつき監督の「ケムリクサ」のステージイベントが行われました。<p><b><a href="https://gigazine.net/news/20180324&#45;anime&#45;guild&#45;aj2018/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180326-google-colab-notebook/</link>
 			<description><![CDATA[<p>「Jupyter notebook」というツールは、Pythonのコードを部分ごとに実行できてその場で結果を確認できるため、試行錯誤を積み重ねる必要があるデータ分析や機械学習によく用いられてきました。「Colaboratory」はそのJupyter notebookを元に「ブラウザで実行」「ファイルはGoogleドライブに保存」「共同編集」などの機能を加えて作成されたツールです。<p><b><a href="https://gigazine.net/news/20180326&#45;google&#45;colab&#45;notebook/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Mon, 26 Mar 2018 09:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>NVIDIAのハイエンドGPU「Titan V」は計算結果がその度に異なる気分屋すぎて技術者が悲鳴</title>
+			<link>https://gigazine.net/news/20180326-nvidia-titan-v-different-answer/</link>
+			<description><![CDATA[<p>NVIDIAのハイエンドGPU「Titan V」をシミュレーションに利用するある技術者が、計算の度に計算結果が変わるのでお手上げだと悲鳴を上げています。The Registerは「2＋2＝4、いや、4.1……やっぱり4.3」ということかと、気まぐれなTitan Vの計算ゆれ現象をからかっています。<p><b><a href="https://gigazine.net/news/20180326&#45;nvidia&#45;titan&#45;v&#45;different&#45;answer/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Mon, 26 Mar 2018 10:45:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
