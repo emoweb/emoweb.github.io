@@ -11,43 +11,6 @@
 			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>メールのセキュリティ対策、SPF／DKIM／DMARCの勘所（上）（メールのセキュリティ対策、SPF／DKIM／DMARCの勘所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/022800116/022800001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　フィッシングメールやスパムメールは、ハッカーが企業のネットワークに入り込むのにうってつけの手段だ。悪質な添付ファイルを社員1人がクリックするだけで、ランサムウエア、クリプトジャッキング（マシンの処理能力を仮想通貨のマイニングに無断利用する行為）、データ流出、アクセス権の昇格といった形で、社内全体に危険が及びかねない。</p>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　こうした攻撃の可能性を減らすために、メールのなりすましや詐称を排除するセキュリティの仕組みがいくつか考案されている。代表的なものは次の3つだ。IT界でよくあるように、それぞれの守備範囲は必ずしも重なり合ってはおらず、複数の仕組みが互いに大きく補完し合う関係にある。ごく普通の企業でも、この3つの対策がすべて必要となるケースは多々ある。</p>
-
-<ul>
-<li>SPF（Sender Policy Framework）：DNSに特別なレコードを追加して、自ドメインのメールの送信に使えるサーバーを限定するための仕組み</li>
-<br>
-<li>DKIM（DomainKeys Identified Mail）：メールの中身が信用できるかどうかや、詐称や改ざんがないかどうかを検証するための仕組み</li>
-<br>
-<li>DMARC（Domain-based Message Authentication, Reporting and Conformance）：SPFとDKIMを組み合わせ、一貫したポリシーのもとで運用するための仕組み</li>
-</ul>
-
-<p>　SPF／DKIM／DMARCという3種類の対策が必要な理由は、フィッシングメールやスパムメールを防ぐためのどの部分に対処するかという点で、この3つは対象が少しずつ異なることだ。3つを併用すると、公開鍵／秘密鍵を使った署名や、DNSのレコードを使った送信元ドメインの検証など、認証と暗号化のための標準的な手法を組み合わせて適用できる。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800001/?ST=cio-security&P=2">また、こうした策の必要性は、インターネットの電子...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800001/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800001/?ST=cio-security&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800001/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-</div>
-]]></description>
-			<pubDate>Mon, 05 Mar 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Intel製のCPU脆弱性パッチ、Microsoftのサイトで提供開始（Computerworldニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/030500476/</link>
 			<description><![CDATA[<div>
@@ -1175,6 +1138,46 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 27 Mar 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>世界のIoTセキュリティ支出、2018年は約15億ドルに、Gartner予測（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/032700417/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Gartnerが2018年3月に発表した調査レポートによると、IoT市場が全体として存在感を高める中で、IoTセキュリティ製品の市場は急成長の態勢にさしかかっている。IoTセキュリティへのニーズが増しているのは数多くの要因によるものだが、中でも特に切迫しているのは、法令遵守が間もなく争点になるという認識の高まりだ。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032700417/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　このレポートでは、IoTの導入に関してGartnerが実施した調査を踏まえて、IoTプロジェクトの成功を妨げる最大の障壁はセキュリティだとしている。この問題に関する大きな要素の1つとしてレポートが言及しているのは、IoTプロジェクトの各レベルでどのデバイスとソフトウエアを使用するかを、企業が完全には制御できないことが多いという点だ。
+</p>
+<p>
+　そこで企業は、自社のネットワークに関して、これまでに課せられていたよりもはるかに綿密な可視化が必要である。そう話すのは、GartnerのRuggero Contuリサーチディレクターだ。
+</p>
+<p>
+　同氏はプレスリリースの中で次のような見通しを示している。「探索やアセット管理、ソフトウエアとハードウエアのセキュリティ評価、ペネトレーションテストを強化することを狙いとしたツールとサービスへのニーズが高まると予想する。加えて、ネットワーク接続を外部化することの影響について、企業が理解を深めようとするものと考えられる」
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032700417/?ST=cio-security&P=2">Gartnerがこのレポートで示した予測によると...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032700417/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032700417/?ST=cio-security&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032700417/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 27 Mar 2018 11:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
