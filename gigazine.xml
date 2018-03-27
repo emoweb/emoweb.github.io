@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>データ分析や機械学習にバリバリ使える上にブラウザで使用できて環境構築不要のPython実行環境「Google Colaboratory」</title>
-			<link>https://gigazine.net/news/20180326-google-colab-notebook/</link>
-			<description><![CDATA[<p>「Jupyter notebook」というツールは、Pythonのコードを部分ごとに実行できてその場で結果を確認できるため、試行錯誤を積み重ねる必要があるデータ分析や機械学習によく用いられてきました。「Colaboratory」はそのJupyter notebookを元に「ブラウザで実行」「ファイルはGoogleドライブに保存」「共同編集」などの機能を加えて作成されたツールです。<p><b><a href="https://gigazine.net/news/20180326&#45;google&#45;colab&#45;notebook/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Mon, 26 Mar 2018 09:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>NVIDIAのハイエンドGPU「Titan V」は計算結果がその度に異なる気分屋すぎて技術者が悲鳴</title>
 			<link>https://gigazine.net/news/20180326-nvidia-titan-v-different-answer/</link>
 			<description><![CDATA[<p>NVIDIAのハイエンドGPU「Titan V」をシミュレーションに利用するある技術者が、計算の度に計算結果が変わるのでお手上げだと悲鳴を上げています。The Registerは「2＋2＝4、いや、4.1……やっぱり4.3」ということかと、気まぐれなTitan Vの計算ゆれ現象をからかっています。<p><b><a href="https://gigazine.net/news/20180326&#45;nvidia&#45;titan&#45;v&#45;different&#45;answer/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180327-boring-company-bricks-lego-rock-house/</link>
 			<description><![CDATA[<p>「テスラ」や「SpaceX」の創業者であるイーロン・マスク氏は都市の渋滞緩和のために地下にトンネルを掘る構想を進めており、トンネル掘削会社「The Boring Company」を立ち上げて実際にロサンゼルスの地下にトンネルを掘っています。しかし、工事に膨大なコストがかかっているのか、帽子や火炎放射器などのグッズ販売を行っており、資金調達に難航していることを伺わせています。そして、新たな資金調達のための商品として、トンネル工事で出た岩石をレゴブロックのような製品にして販売することをマスク氏が発表しました。<p><b><a href="https://gigazine.net/news/20180327&#45;boring&#45;company&#45;bricks&#45;lego&#45;rock&#45;house/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Tue, 27 Mar 2018 12:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>オーロラのような新種の発光現象「スティーブ」がアマチュア天文家によって発見される</title>
+			<link>https://gigazine.net/news/20180327-the-aurora-named-steve/</link>
+			<description><![CDATA[<p>日本ではなかなか見ることはできませんが、極圏を中心とした高緯度地域でさまざまな条件がそろった時に光の帯が夜空に広がる「オーロラ」と呼ばれる現象は、幻想的さゆえに天体写真の対象として人気があります。このオーロラと同じく夜空に瞬く謎の発光現象「スティーブ」が、2015～2016年頃からアマチュア天文家の間で観測されていたことが、NASA(アメリカ航空宇宙局)によって発表されました。<p><b><a href="https://gigazine.net/news/20180327&#45;the&#45;aurora&#45;named&#45;steve/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Tue, 27 Mar 2018 13:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
