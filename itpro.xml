@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n28</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Intel製のCPU脆弱性パッチ、Microsoftのサイトで提供開始（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/030500476/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftは、CPU脆弱性「Spectre」「Meltdown」に対処するために米Intelが開発したマイクロコードアップデートの一部を、Windows 10のバージョン1709（Fall Creators Update）用のパッチ「KB4090007」として、自社サイトの「Microsoft Updateカタログ」で提供を始めた。自作パソコンに適用できるBIOSアップデートが提供されるかどうか不安に思っていた人にとっては、解決策になるかもしれない。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/030500476/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Google/Natascha Eibl</div>
-</div>
-<p>
-　SpectreやMeltdownに対処するパッチは、通常のパターンにのっとって、開発元が提供しているケースが一般的だ。例えば、Windows用のパッチはMicrosoftがWindows Updateで配信し、ウイルス対策などのソフトウエアのパッチはそれぞれのソフトウエアの開発元がリリースしている。
-</p>
-<p>
-　一方で、CPUの製造元のIntelも、問題に対処するためのマイクロコードアップデートの開発を進めている（ちょうど、HaswellとBroadwell向けのアップデートが登場したばかりだ）。だが、Microsoftとは違って、Intelが開発するマイクロコードアップデートは、同社が直接エンドユーザーに配布するのではなく、パソコンメーカーやマザーボードベンダーのネットワークを通じて提供しており、各社が適切なテストを行ったうえでのリリースとなる。
-</p>
-<p>
-　Microsoftは、Windowsだけでなく自社ブランドのデバイスのメーカーでもある。MeltdownとSpectreへの対処では、Windows用のパッチを提供する役割と、「Surface」シリーズ向けにIntel製のパッチを提供する役割の両方を担ってきた。そして、これらに加え、Intelのマイクロコードアップデートも自社サイトで公開することになった。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/030500476/?ST=cm-software&P=2">今回MicrosoftがKB4090007として公開したInte...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/030500476/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/030500476/?ST=cm-software&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/030500476/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 05 Mar 2018 10:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d28</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>職場へのソーシャルロボット導入、富士ゼロックスと豪大学が協力（前）（職場へのソーシャルロボット導入、富士ゼロックスと豪大学が協力）</title>
@@ -1178,6 +1140,46 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 27 Mar 2018 11:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>職場のハラスメント対策、職場環境を見直す時のポイントは（中）（職場のハラスメント対策、職場環境を見直す時のポイントは）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/032200122/032200002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　この記事では、前向きで実りある職場環境を構築するためにどうすればよいかを見ていくことにしよう。手を打たなければ、手順のあいまいさや有害な職場文化が原因で、貴重な人材を失うことになりかねない。</p>
+
+<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/032200122/032200001/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200122/032200002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　人事関連のハンドブックの多くは、長たらしく難解で、法律のような言い回しが満載だ。概念を小分けにしてシンプルな言葉に変え、社員が取っつきやすいものにすることをGoldberg氏は勧める。またPolefone氏は、期待される行動の概略を示すだけで終わりにしてはいけないと話す。事案の認定、調査、対処をどのように行うかという概略の説明も含め、どのような場合が解雇に至るかという話まで取り上げておくこと。加えて、言動について定めた部分では、報復を禁じる必要もある。</p>
+
+<p>　「結局のところ、社員が自分の話を聞いてもらえると感じられるような環境を構築することが肝心だ。そうすれば、実際に何らかの事案が起きた時にも、無視、見過ごし、隠蔽といった結果にはならない。『我々はこの人をどのように失望させたのか。どのようにして埋め合わせができるか』と経営陣が自問するところまで至る」とPolefone氏は言う。</p>
+
+<p>　さらに大切なのは、最後までやり遂げることだ。</p>
+
+<p>　「事案を報告してきた社員には、勇気を出して声を上げてくれたことへの感謝を述べたうえで、そこから何がどう進むかというプロセスを説明する。また、匿名を守るために自分の権限ですべての手を尽くすこと」とGoldberg氏は言う。さらに、事案に関する調査が完了して結論が出た後で、フォローアップを行うことも同じく重要だと同氏は言う。</p>
+
+<p>　「結論がどうなったとしても、情報を伝達することが重要だ。確かに、プライバシーの懸念はある。だが、どのように対処したのかを随時伝える手段や、本人に結果を示す手段が必要だ。これは公に行うべきことでもある。事案の報告やその対応を、会社がどのように扱うのかを示す必要がある」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200122/032200002/?ST=cio-management&P=2">価値観に焦点を当てて研修を見直す</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200122/032200002/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200122/032200002/?ST=cio-management&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200122/032200002/?ST=cio-management&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200122/032200002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Wed, 28 Mar 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
