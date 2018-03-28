@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>Facebookはユーザーのスマホ通話履歴やSMS履歴を収集していたことを確認、情報管理方法についての調査も始まる</title>
-			<link>https://gigazine.net/news/20180327-facebook-admit-data-collect/</link>
-			<description><![CDATA[<p>ユーザーがスマートフォンで電話した通話記録やテキストメッセージの送受信履歴を収集していたことが話題になっていたFacebookが、その事実があったことを新たに公開したブログに記しています。また同時に、その収集は「ユーザーの許可なく」行われているものではないことも強調されています。<p><b><a href="https://gigazine.net/news/20180327&#45;facebook&#45;admit&#45;data&#45;collect/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Tue, 27 Mar 2018 11:34:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>モスバーガーで北海道産あずきといちごのシェイク「玄米フレークシェイク いちごぜんざい」と色が変わる不思議な「ラベンダーレモネード」を飲んできた</title>
 			<link>https://gigazine.net/news/20180327-mos-genmai-ichigozenzai-lavender-lemonade/</link>
 			<description><![CDATA[<p>モスバーガーでは2018年3月27日(火)から新メニューとして、「いちごぜんざい」をイメージしてバニラ風味のモスシェイクにいちごソースを使い、北海道十勝産のあずきと、玄米フレークシェイクをトッピングした「玄米フレークシェイク いちごぜんざい」が登場しました。同日に登場した、レモンを搾ると色が青からピンクに変わる不思議な「ラベンダーレモネード」と一緒に味わってきました。<p><b><a href="https://gigazine.net/news/20180327&#45;mos&#45;genmai&#45;ichigozenzai&#45;lavender&#45;lemonade/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180328-xiaomi-mi-gaming-laptop/</link>
 			<description><![CDATA[<p>XiaomiがNVIDIAのGeForce GTX 1060を内蔵するゲーミングノートPC「Mi Gaming Laptop」を発表しました。MacBook対抗の激薄ノート「Mi Notebook Air」「Mi Notebook Pro」に続き、XiaomiがゲーミングノートPC市場にも本格進出しようとしています。<p><b><a href="https://gigazine.net/news/20180328&#45;xiaomi&#45;mi&#45;gaming&#45;laptop/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Wed, 28 Mar 2018 16:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>CPUの脆弱性「Meltdown」対策の2018年1月と2月のWindows用パッチは別の事態悪化を招く可能性</title>
+			<link>https://gigazine.net/news/20180328-total-meltdown/</link>
+			<description><![CDATA[<p>2018年1月初頭に明らかにされたIntel、AMDおよびARM製のCPUに関連する脆弱性「Spectre」と「Meltdown」は、CPUを高速化するための技術「投機的実行」の仕組みがそのまま情報流出を招くセキュリティホールとなっている問題で、この件が衝撃とともに伝えられた以降は各社が対応に追われる事態となりました。Microsoftからも1月以降に問題に対処したパッチがリリースされているのですが、セキュリティ専門家の調査から、1月と2月のパッチを当てることでWindows 7およびServer 2008 R2においてさらに別の問題が生じて、事態が悪化する可能性があることが明らかになっています。<p><b><a href="https://gigazine.net/news/20180328&#45;total&#45;meltdown/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Wed, 28 Mar 2018 17:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
