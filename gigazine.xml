@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>科学的発見の再現性が時間と共に低下していくメカニズムとは？</title>
-			<link>https://gigazine.net/news/20180327-the-truth-wears-off/</link>
-			<description><![CDATA[<p>研究者であれば誰しもが「歴史に残るような大発見をしたい」と考えるものですが、たとえ誠実に実験データを取って実証したはずの科学的発見であっても、時間の経過と共に再現性が低下するとThe New Yorkerが報じています。<p><b><a href="https://gigazine.net/news/20180327&#45;the&#45;truth&#45;wears&#45;off/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Tue, 27 Mar 2018 08:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>世界で最も売れなかったゲーム機「ピピンアットマーク」はどうして失敗してしまったのか？</title>
 			<link>https://gigazine.net/news/20180327-history-of-pippin-atmark/</link>
 			<description><![CDATA[<p>1972年にマグナボックスから「オデッセイ」が発売されて以降、家庭用ゲーム機は世代を重ねながらさまざまな機種が登場しました。1980年代に発売された任天堂のファミリーコンピュータやセガのメガドライブなどは、今なおレトロゲームファンから人気の高いゲーム機ですが、一方で家庭用ゲーム機の長い歴史の中に埋もれてしまい、人びとの記憶から失われつつある不遇のゲーム機も存在します。その一例として「ピピンアットマーク」が、技術系メディアのars technicaで紹介されています。<p><b><a href="https://gigazine.net/news/20180327&#45;history&#45;of&#45;pippin&#45;atmark/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180328-waymo-jaguar-i-pace/</link>
 			<description><![CDATA[<p>Googleの自動運転カープロジェクトとしてスタートし、2016年12月に独立した「Waymo」は、2018年中にアリゾナ州のフェニックスで自動運転カーの配車サービスを開始する予定です。Waymoによると、自動運転カーの配車サービス(自動運転タクシー)開始に備えて、ジャガーランドローバーと長期パートナーシップ契約を締結し、自動運転カーのラインナップにスポーツタイプの電気自動車「I-PACE」を追加することを発表しました。<p><b><a href="https://gigazine.net/news/20180328&#45;waymo&#45;jaguar&#45;i&#45;pace/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Wed, 28 Mar 2018 13:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AlphaGoを開発したGoogleの人工知能研究部門が「機械学習によって書き順を考えながら文字を描くAI」を開発</title>
+			<link>https://gigazine.net/news/20180328-learning-to-generate-images/</link>
+			<description><![CDATA[<p>書道や似顔絵に見られるように、私たち人間は絵画・書・立体の作品を見た時、デザインに感動するだけではなく、筆運びや構造などを考えて理解した上で作品を再現することができます。与えられた画像を再現する人工知能(AI)は今までも発表されてきましたが、最強の囲碁AI・AlphaGoを開発したGoogle DeepMindが発表した「Synthesizing Programs for Images using Reinforced Adversarial Learning」(敵対的強化学習を用いた描画プログラム合成)、略して「SPIRAL」は、対象となる文字や画像の書き順や構造を考えて学習しながら、自ら描画プログラムをアップデートしていくフレームワークだとのことです。<p><b><a href="https://gigazine.net/news/20180328&#45;learning&#45;to&#45;generate&#45;images/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Wed, 28 Mar 2018 14:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
