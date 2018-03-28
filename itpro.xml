@@ -5,50 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n29</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>DropboxがGoogleと提携、G Suiteとの連携が可能に（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/030600410/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Dropboxは、米Googleの「Google Cloud」と提携したことを発表した。Googleのクラウド型プロダクティビティスイート「G Suite」と連携するための機能を導入する。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/030600410/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Magdalena Petrova</div>
-</div>
-<p>
-　「両社のユーザーが愛用のツールを使って複数のデバイスで簡単に作業できるようにしたい」と、Dropboxのエンジニアリング担当バイスプレジデント、Tony Lee氏は言う。
-</p>
-<p>
-　「当社は、コンテンツ自体と、そのコンテンツを巡る対話を一元的に扱える場所の構築を進めている。Google Cloudとの提携はその新たな1ページだ。Googleと協力して、サイロ化を打破し、チームが日々頼りにする情報を一元化できることを喜ばしく思う」
-</p>
-<p>
-　今回の提携でDropboxは、クロスプラットフォームの連係機能を開発し、G Suiteのツールやコンテンツ（Gmail、Google Docs／Sheets／Slides、Hangouts）と、Dropboxのグローバル・コラボレーション・プラットフォームを統合する計画だ。この機能はすべてのDropboxユーザーが利用できる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/030600410/?ST=cio-cloud&P=2">この連携機能を使うと、Dropboxに置くGoo...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/030600410/?ST=cio-cloud&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/030600410/?ST=cio-cloud&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/030600410/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Tue, 06 Mar 2018 10:56:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d29</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>メールのセキュリティ対策、SPF／DKIM／DMARCの勘所（中）（メールのセキュリティ対策、SPF／DKIM／DMARCの勘所）</title>
@@ -1185,6 +1145,44 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 28 Mar 2018 11:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スマートグラスが続々登場、職場利用がもたらす課題は（後）（スマートグラスが続々登場、職場利用がもたらす課題は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/032200123/032200002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　今年はスマートグラスをかけて出社する社員がポツリポツリと現れ始めて、近い将来には大きなうねりとなりそうだ。職場でのスマートグラス利用が一般的になるにつれて、IT部門、さらには企業全般にのしかかる課題は、きっと大きくなっていく。</p>
+
+<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/032200123/032200001/" target="_blank">前回</a>から続く）</p>
+
+<h4>VSPのLevel</h4>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200123/032200002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　米VSP Globalは2018年2月下旬、「Level」というスマートグラスの発売を発表した。フィットネストラッカーと考えればよいだろう。腕時計やフィットネスバンドではなく、メガネ型のフィットネストラッカーだ。いわば顔に装着するFitbitのようなものである。</p>
+
+<p>　Levelは、内蔵の磁気センサー、加速度センサー、ジャイロスコープで動きを測定する。さらに、その情報をもとに、付属のスマートフォンアプリを使って、距離、歩数、消費カロリーなど、自分のデータを数値化できる。加えて、この製品の場所が分からなくなった時に探す機能もある。</p>
+
+<p>　筆者としては、Levelで最も興味深い特徴だと思うのは、同社のプログラムに参加している検眼医を通じて、通常のメガネと同じ流通経路で販売されることだ。サクラメント、シアトル、ポートランド、デンバー、ミネアポリス、ワシントンDCなど、米国の一部の都市で4月に発売となる。</p>
+
+<p>　これがスマートグラスの未来だ。今後は、度入りメガネを作る時に、「スマート」というチェック項目が加わる。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200123/032200002/?ST=cm-hardware&P=2">スマートグラスの定義</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200123/032200002/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200123/032200002/?ST=cm-hardware&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200123/032200002/?ST=cm-hardware&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200123/032200002/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 29 Mar 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
