@@ -5,43 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d29</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>メールのセキュリティ対策、SPF／DKIM／DMARCの勘所（中）（メールのセキュリティ対策、SPF／DKIM／DMARCの勘所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/022800116/022800002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　フィッシングメールやスパムメールは、ハッカーが企業のネットワークに入り込むのにうってつけの手段だ。悪質な添付ファイルを社員1人がクリックするだけで、ランサムウエア、クリプトジャッキング（マシンの処理能力を仮想通貨のマイニングに無断利用する行為）、データ流出、アクセス権の昇格といった形で、社内全体に危険が及びかねない。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/022800116/022800001/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　3つ目は、米GoogleのGmail、米Yahoo!、豪FastMailといったメールサービス事業者が、顧客向けのセキュリティ対策を維持する目的から、それぞれのメールホスティングサービスでSPF／DKIM／DMARCに対応したこと。4つ目は、一定の水準を満たすセキュリティ製品やSaaS製品を利用してSPF／DKIM／DMARCを導入できることだ。米ValiMail、米Agari、米Barracuda Networksといったベンダーが勢いを増しつつある（筆者はValiMailの製品を自分のメールインフラで試し、その経験を踏まえて本記事を執筆した）。</p>
-
-<p>　ここまで見てきた中には、厄介な話は出てこなかった。ここからは、事情を複雑にしている部分について見ていこう。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800002/?ST=cio-security&P=2">SPF／DKIM／DMARCを巡る分かりにくさ</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800002/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800002/?ST=cio-security&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800002/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Wed, 07 Mar 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n29</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Acronis、Google Cloudとの提携を発表（Computerworldニュース）</title>
@@ -1183,6 +1150,43 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 29 Mar 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>豪上院、強力な暗号化の堅持を求める動議を可決（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/032900419/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　オーストラリア上院で現地時間2018年3月27日、オーストラリア緑の党のJordon Steele-John上院議員が提出した動議を可決した。この動議では、強力な暗号化技術の使用を支持することや、個人用デバイスの暗号化を弱体化するよう迫る他国政府からのいかなる圧力にも屈しないことを豪政府に求めている。
+</p>
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032900419/top.jpg" width="320" alt="" title=""></div></div>
+<p>
+　また、豪政府と法執行機関が協力し、令状を通じて、あるいは、全オーストラリア人のID盗難のリスクを高めることがない対象限定の監視を通じて、情報を取得する代替手段を確立するよう要求している。
+</p>
+<p>
+　豪政府は、暗号化されたやりとりの内容に法執行機関がアクセスできる権限を強化する法案が完成に近づきつつあることを明らかにしていた。
+</p>
+<p>
+　この法律は、暗号化の復号に関して政府機関に協力するようオーストラリア企業に義務づけるものになると予想されるが、詳細については不明だ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032900419/?ST=cio-security&P=2">エンドツーエンドの暗号化サービスは、設計や実装に...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032900419/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032900419/?ST=cio-security&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032900419/?ST=cio-security&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032900419/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Thu, 29 Mar 2018 11:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
