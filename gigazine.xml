@@ -5,18 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>XiaomiがGeForce GTX 1060を内蔵するノートPC「Mi Gaming Laptop」を発表、ゲーミングPCにも進出</title>
-			<link>https://gigazine.net/news/20180328-xiaomi-mi-gaming-laptop/</link>
-			<description><![CDATA[<p>XiaomiがNVIDIAのGeForce GTX 1060を内蔵するゲーミングノートPC「Mi Gaming Laptop」を発表しました。MacBook対抗の激薄ノート「Mi Notebook Air」「Mi Notebook Pro」に続き、XiaomiがゲーミングノートPC市場にも本格進出しようとしています。<p><b><a href="https://gigazine.net/news/20180328&#45;xiaomi&#45;mi&#45;gaming&#45;laptop/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Wed, 28 Mar 2018 16:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>CPUの脆弱性「Meltdown」対策の2018年1月と2月のWindows用パッチは別の事態悪化を招く可能性</title>
-			<link>https://gigazine.net/news/20180328-total-meltdown/</link>
-			<description><![CDATA[<p>2018年1月初頭に明らかにされたIntel、AMDおよびARM製のCPUに関連する脆弱性「Spectre」と「Meltdown」は、CPUを高速化するための技術「投機的実行」の仕組みがそのまま情報流出を招くセキュリティホールとなっている問題で、この件が衝撃とともに伝えられた以降は各社が対応に追われる事態となりました。Microsoftからも1月以降に問題に対処したパッチがリリースされているのですが、セキュリティ専門家の調査から、1月と2月のパッチを当てることでWindows 7およびServer 2008 R2においてさらに別の問題が生じて、事態が悪化する可能性があることが明らかになっています。<p><b><a href="https://gigazine.net/news/20180328&#45;total&#45;meltdown/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Wed, 28 Mar 2018 17:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>2018年3月28日のヘッドラインニュース</title>
 			<link>https://gigazine.net/news/20180328-headline/</link>
 			<description><![CDATA[<p>1976年に開催されたインスブルック五輪で、フィギュア男子シングルの金メダリストを獲得した「氷上の貴公子」ジョン・カリーの人生を描いたドキュメンタリー映画「The Ice King」が2019年に日本で公開されることになりました。カリーは「氷上のヌレエフ」と評され、アイススケートをスポーツから芸術へと昇華させたといわれる人物。その知られざる生涯が、貴重な映像と関係者インタビューで描き出されます。<p><b><a href="https://gigazine.net/news/20180328&#45;headline/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +171,18 @@
 			<link>https://gigazine.net/news/20180329-renkon-review/</link>
 			<description><![CDATA[<p>海外ではコンセントや電源アダプターの規格が日本と異なっている場合があり、「海外で購入した製品の電源アダプターが、日本のコンセントに合わないから使えない」ということはよくあります。そんなときにマルチ電源変換アダプターの「レンコン」を使えば、世界のさまざまな種類の電源アダプターを、日本のコンセントに接続することが可能です。<p><b><a href="https://gigazine.net/news/20180329&#45;renkon&#45;review/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Thu, 29 Mar 2018 23:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>軍事用レーザー技術の進歩で戦場はSF映画のようにレーザーが飛び交うようになるだろうという予測</title>
+			<link>https://gigazine.net/news/20180330-ray-guns-are-coming/</link>
+			<description><![CDATA[<p>SF映画やアニメなどフィクションの世界では、色とりどりのレーザー光線が飛び交う様子がしばしば描かれます。かつてはレーザー兵器は現実的ではないと考えられていましたが、アメリカをはじめ世界各国でレーザー兵器の研究が続けられた結果、ついにレーザー砲の発射実験が行われるにまで至り、「レーザーが飛び交う戦争も遠い話ではない」と技術・工学系の情報を扱うサイトIEEE Spectrumで予想されています。<p><b><a href="https://gigazine.net/news/20180330&#45;ray&#45;guns&#45;are&#45;coming/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Fri, 30 Mar 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>VPNでもWebRTC経由でIPアドレスが漏洩するとセキュリティ専門家が警告、漏洩の危険があるVPNも公開</title>
+			<link>https://gigazine.net/news/20180330-vpn-leak-via-webrtc/</link>
+			<description><![CDATA[<p>安全なネットワーク接続のために利用されるVPNサービスですが、WebRTCのもつ脆弱性によってWebRTCが有効なブラウザで利用すればIPアドレスが検出される危険があるとセキュリティ対策企業のVoidSecが報告しています。VoidSecは調査したVPNサービスの23％に漏洩の危険があると警告しています。<p><b><a href="https://gigazine.net/news/20180330&#45;vpn&#45;leak&#45;via&#45;webrtc/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Fri, 30 Mar 2018 06:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
