@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>プリっとした海老とトロけるナスをのせたカレー「海老と茄子の彩りカレー」を松のやで食べてきた</title>
-			<link>https://gigazine.net/news/20180328-ebi-nasu-irodori-curry/</link>
-			<description><![CDATA[<p>エビとナスを使ったカレーライスの新メニュー「海老と茄子の彩りカレー」が、松屋系列のファーストフードチェーンである松のや・松乃家・チキン亭で2018年3月28日(水)から登場しています。また、同日からカレーメニューはスパイシーな味にリニューアルされたとのことで、エビとナスをのせたスパイシーなカレーを食べてきました。<p><b><a href="https://gigazine.net/news/20180328&#45;ebi&#45;nasu&#45;irodori&#45;curry/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Wed, 28 Mar 2018 22:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ゲーム史に輝くアクションMORPGの金字塔「ディアブロ」の企画書が公開中</title>
 			<link>https://gigazine.net/news/20180328-diablo-original-pitch/</link>
 			<description><![CDATA[<p>1997年にBlizzard Entertainmentから発売されたゲームで、マルチプレイオンライン(MO)RPGの先駆けとして有名なアクションRPGが「ディアブロ」です。「ディアブロ」はシリーズ化していて、2018年3月時点で3作目まで発売されていますが、初代「ディアブロ」の初期のアイデアをまとめた企画書が当時の開発者によって公開されています。<p><b><a href="https://gigazine.net/news/20180328&#45;diablo&#45;original&#45;pitch/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180330-ibm-plex-corporate-font/</link>
 			<description><![CDATA[<p>コンピューターに関わるさまざまなサービスを提供する企業IBMが、オリジナルフォントセット「IBM Plex」をGitHubで無料公開しています。2018年3月時点でバージョン1.0.1が配布されているIBM Plexは、4つの書体と8種類のウェイトがセットになっていて、ライセンスはSIL Open Font License バージョン1.1、個人だけではなく商用でも利用可能となっています。<p><b><a href="https://gigazine.net/news/20180330&#45;ibm&#45;plex&#45;corporate&#45;font/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Fri, 30 Mar 2018 08:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AWSの可用性を高め、成長を支えた「ゾーン」という考え方</title>
+			<link>https://gigazine.net/news/20180330-aws-zone/</link>
+			<description><![CDATA[<p>Amazon Web Service(AWS)はAmazon.comが提供するクラウドコンピューティングサービスの総称で、その一角を占めているのがスケーラブルな仮想サーバーを提供するサービス「Amazon Elastic Compute Cloud(EC2)」です。サービス開始は2006年なのですが、可用性を高める大きな特長の「ゾーン」を導入したのが2008年3月26日だったということで、ゾーン導入10周年を記念してAmazon.comの最高技術責任者のワーナー・ヴォゲルスさんがゾーンに関するブログの投稿を行っています。<p><b><a href="https://gigazine.net/news/20180330&#45;aws&#45;zone/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Fri, 30 Mar 2018 09:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
