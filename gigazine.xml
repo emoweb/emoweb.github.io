@@ -5,18 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>人体で最大となる新たな「器官」が発見されたと研究者、ガンの転移に関連しているとも</title>
-			<link>https://gigazine.net/news/20180329-newfound-organ/</link>
-			<description><![CDATA[<p>ニューヨーク大学メディカルスクールの病理学者らが2018年3月27日付けのScientific Reportsで、これまで「体中の皮膚の下にある密度の高い結合組織」だと思われていたものが、「液体を運ぶ」「衝撃を吸収する」という役目を持つ「器官」であることを発見したと発表しました。この発見は、人体への新しい理解を示すだけでなく、「なぜガンは特定のエリアで広まりやすいのか？」ということを説明するとのこと。<p><b><a href="https://gigazine.net/news/20180329&#45;newfound&#45;organ/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Thu, 29 Mar 2018 07:30:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>37億円の援助を受け3Dプリンターでロケットを製造する企業「Relativity Space」が登場、既にブースターは完成</title>
-			<link>https://gigazine.net/news/20180329-relativity-space-rocket-engine/</link>
-			<description><![CDATA[<p>3Dプリンター技術の進歩はめざましく、ロケットのエンジンや家まるごとを3Dプリンターで低コストかつ短時間で製造できるようになりました。そんな中、パーツのほぼ全てを3Dプリンターで製造したロケットの打ち上げを目指すアメリカのスタートアップ「Relativity Space」が、およそ3500万ドル(約37億円)の資金提供を受けながらブースターを完成させました。<p><b><a href="https://gigazine.net/news/20180329&#45;relativity&#45;space&#45;rocket&#45;engine/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Thu, 29 Mar 2018 08:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>画像のノイズを落としたり容量を小さくしたりするにはどのようなコードを書く必要があるのか？</title>
 			<link>https://gigazine.net/news/20180329-compress-hand-written-notes/</link>
 			<description><![CDATA[<p>手書きのメモをスキャンししたときにどうしても発生してしまうノイズを取り除くとともに、ファイルサイズも減らす方法を、スワースモア大学准教授のMatt Zuckerさんが具体的に公開しています。<p><b><a href="https://gigazine.net/news/20180329&#45;compress&#45;hand&#45;written&#45;notes/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +171,18 @@
 			<link>https://gigazine.net/news/20180330-myfitnesspal-data-breach/</link>
 			<description><![CDATA[<p>App Storeでランキング上位に位置するヘルスケア／フィットネスアプリ「MyFitnessPal」がハッキングの被害にあい、およそ1億5000万ユーザーのアカウントについてデータが流出したことがわかりました。<p><b><a href="https://gigazine.net/news/20180330&#45;myfitnesspal&#45;data&#45;breach/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Fri, 30 Mar 2018 12:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>macOS High SierraにAPFSドライブの暗号化パスワードが平文で保存されるバグの存在が発覚</title>
+			<link>https://gigazine.net/news/20180330-password-saved-making-apfs-volumes/</link>
+			<description><![CDATA[<p>セキュリティアナリストのサラ・エドワーズ氏によると、macOS High Sierra 10.13と10.13.1で暗号化パスワードを指定した新しいAPFSファイルシステムの外部ドライブを作成するとログファイル上にパスワードが平文で保存されてしまうバグを確認したそうです。なお、このバグは10.13.2以降ではすでに修正済みとなっているとのことです。<p><b><a href="https://gigazine.net/news/20180330&#45;password&#45;saved&#45;making&#45;apfs&#45;volumes/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Fri, 30 Mar 2018 13:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>4000基以上の人工衛星で世界中にネットを提供するSpaceXの「Starlink」計画に当局からゴーサインが出る</title>
+			<link>https://gigazine.net/news/20180330-spacex-starlink-approved/</link>
+			<description><![CDATA[<p>4000基以上の小型人工衛星を地球周回軌道に打ち上げて巨大なブロードバンド通信網を作り、インターネットを地球の隅々にまで届けるSpaceXの「Starlink」プロジェクトが、アメリカ連邦通信委員会(FCC)の承認を受けたことが発表されました。実際に運用が始まると、月額5000円程度の料金を払ってノートPC程度の大きさのアンテナを設置することで世界中のあらゆる場所で高速インターネット接続が可能になるとみられます。<p><b><a href="https://gigazine.net/news/20180330&#45;spacex&#45;starlink&#45;approved/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Fri, 30 Mar 2018 13:15:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
