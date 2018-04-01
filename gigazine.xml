@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>macOS High SierraにAPFSドライブの暗号化パスワードが平文で保存されるバグの存在が発覚</title>
-			<link>https://gigazine.net/news/20180330-password-saved-making-apfs-volumes/</link>
-			<description><![CDATA[<p>セキュリティアナリストのサラ・エドワーズ氏によると、macOS High Sierra 10.13と10.13.1で暗号化パスワードを指定した新しいAPFSファイルシステムの外部ドライブを作成するとログファイル上にパスワードが平文で保存されてしまうバグを確認したそうです。なお、このバグは10.13.2以降ではすでに修正済みとなっているとのことです。<p><b><a href="https://gigazine.net/news/20180330&#45;password&#45;saved&#45;making&#45;apfs&#45;volumes/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Fri, 30 Mar 2018 13:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>4000基以上の人工衛星で世界中にネットを提供するSpaceXの「Starlink」計画に当局からゴーサインが出る</title>
 			<link>https://gigazine.net/news/20180330-spacex-starlink-approved/</link>
 			<description><![CDATA[<p>4000基以上の小型人工衛星を地球周回軌道に打ち上げて巨大なブロードバンド通信網を作り、インターネットを地球の隅々にまで届けるSpaceXの「Starlink」プロジェクトが、アメリカ連邦通信委員会(FCC)の承認を受けたことが発表されました。実際に運用が始まると、月額5000円程度の料金を払ってノートPC程度の大きさのアンテナを設置することで世界中のあらゆる場所で高速インターネット接続が可能になるとみられます。<p><b><a href="https://gigazine.net/news/20180330&#45;spacex&#45;starlink&#45;approved/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180401-jobs-warn-zuckerberg-privacy/</link>
 			<description><![CDATA[<p>5000万人分の個人情報が流出して利用された一件やAndroidスマートフォンの通話履歴やSMS履歴を収集していたことで注目を集めているFacebookは、株価の時価総額が10日間で7兆円も下落して広告も減少するなどプライバシーをめぐる厳しい批判を受けています。このプライバシーをめぐる考え方はFacebookのみならず情報を集めて活用する企業とは切っても切れないものといえますが、Appleの創業者であるスティーブ・ジョブズ氏は2010年にFacebookを含むシリコンバレー各社のプライバシーについて警鐘を鳴らしていました。<p><b><a href="https://gigazine.net/news/20180401&#45;jobs&#45;warn&#45;zuckerberg&#45;privacy/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Sun, 01 Apr 2018 19:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Appleが密かに準備中のウェブベースでアプリの購入・配布や端末の監視が一括で可能となるツール「Apple Business Manager」とは？</title>
+			<link>https://gigazine.net/news/20180401-apple-business-manager/</link>
+			<description><![CDATA[<p>管理者がデバイス設定を構成し、アカウントを作成してそれぞれにアプリや書籍を購入・配布することが可能になるウェブベースのIT管理ツール「Apple Business Manager」のベータ版をAppleが密かに公開しています。Apple Business Managerは2018年春にも本格的に運用される見込みであるとApple関連メディアのAppleInsiderが報じ、その正体に迫っています。<p><b><a href="https://gigazine.net/news/20180401&#45;apple&#45;business&#45;manager/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Sun, 01 Apr 2018 20:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
