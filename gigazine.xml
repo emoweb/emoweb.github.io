@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>AWSの可用性を高め、成長を支えた「ゾーン」という考え方</title>
-			<link>https://gigazine.net/news/20180330-aws-zone/</link>
-			<description><![CDATA[<p>Amazon Web Service(AWS)はAmazon.comが提供するクラウドコンピューティングサービスの総称で、その一角を占めているのがスケーラブルな仮想サーバーを提供するサービス「Amazon Elastic Compute Cloud(EC2)」です。サービス開始は2006年なのですが、可用性を高める大きな特長の「ゾーン」を導入したのが2008年3月26日だったということで、ゾーン導入10周年を記念してAmazon.comの最高技術責任者のワーナー・ヴォゲルスさんがゾーンに関するブログの投稿を行っています。<p><b><a href="https://gigazine.net/news/20180330&#45;aws&#45;zone/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Fri, 30 Mar 2018 09:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>iOS 11.3正式版がリリース、バッテリー関連の新機能や新しいアニ文字などが登場</title>
 			<link>https://gigazine.net/news/20180330-ios-11-3/</link>
 			<description><![CDATA[<p>現地時間の2018年3月29日より、iPhone・iPad・iPod touch向けの最新OSとなる「iOS 11.3」の配信がスタートしました。iOS 11.3は大幅なアップデートとなり、新しいAR体験が可能になったり、新しいアニ文字が使えるようになったりするだけでなく、端末のバッテリーとパフォーマンスを伝える新機能なども追加されています。<p><b><a href="https://gigazine.net/news/20180330&#45;ios&#45;11&#45;3/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180401-movies-of-wes-anderson/</link>
 			<description><![CDATA[<p>2018年5月25日(金)より全国公開される、日本を舞台にしたストップモーションアニメ映画「犬ヶ島」のウェス・アンダーソン監督の作品に共通する13の要素をまとめたムービーを、映画やテレビ番組の解説を行うチャンネルScreenPrismが公開しています。<p><b><a href="https://gigazine.net/news/20180401&#45;movies&#45;of&#45;wes&#45;anderson/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Sun, 01 Apr 2018 12:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>仮想通貨を使って資金調達を行う「ICO」はどれくらい成功しているのか？</title>
+			<link>https://gigazine.net/news/20180401-ico-quality/</link>
+			<description><![CDATA[<p>ICOは「イニシャル・コイン・オファリング」の略称で、仮想通貨の登場によって新たに生み出された資金調達の方法です。株式を発行するIPOに比べて現状では規制が緩いため、たくさんのスタートアップに利用されていますが、そのICOによって資金を集めたグループがどれくらいうまくいっているのかをSharwin Dowlatさんがブログにまとめています。<p><b><a href="https://gigazine.net/news/20180401&#45;ico&#45;quality/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Sun, 01 Apr 2018 15:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
