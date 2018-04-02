@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n03</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows 10、Redstone 5のプレビュー版でタブ管理機能「Sets」が復活（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/030900412/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　Windows 10のプレビュー版「Insider Preview」に昨年加わった新機能「Sets」を気に入っていた人は、今秋の大型アップデートに向けたプレビュー版を試してもよいかもしれない。いったん取り下げられたSets機能が復活を果たしたからだ。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/030900412/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Microsoft</div>
-</div>
-<p>
-　米Microsoftは現地時間2018年3月7日、Windows 10 Insider Previewの「Build 17618」をリリースした。Windows Insider Programの参加者のうち、「Skip Ahead」を選択している人にのみ配信される。Insider Program参加者の多くは、次に正式版となる大型アップデートのプレビュー版の配信を受けており、現在は2018年春の大型アップデート（コードネーム「Redstone 4」）に向けた開発が最終段階を迎えている。一方、Skip Aheadを選択した参加者には、その次に正式版となる2018年秋の大型アップデート（同「Redstone 5」）のプレビュー版が配信される。今回Sets機能が復活したのは、Redstone 5のプレビュー版だ。
-</p>
-<p>
-　Setsは、1つのウィンドウに1つのアプリという従来のUI（ユーザーインタフェース）に代えて、Webブラウザーのようなタブ型のUIを実現する機能だ。PCWorldでは、Setsを試用した<a href="https://www.pcworld.com/article/3238524/windows/windows-10-sets-timeline.html" target="_blank">レビュー記事</a>を2017年11月に掲載した。当時のプレビュー版のSetsでは、「カレンダー」「Edge」「メール」などのユニバーサルWindowsプラットフォーム（UWP）アプリを、それぞれ個別のタブとして1つのウィンドウにまとめることができた。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/030900412/?ST=cio-appli&P=2">今回復活したSets機能は強化が図られ、従来型の...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/030900412/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/030900412/?ST=cio-appli&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/030900412/?ST=cio-appli&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/030900412/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Fri, 09 Mar 2018 10:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d03</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>侵入検知システムの基本と現状、そして今後（上）（侵入検知システムの基本と現状、そして今後）</title>
@@ -1193,6 +1155,37 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 02 Apr 2018 11:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ベンダーのセキュリティ評価、契約の前に打つべき手は（前）（ベンダーのセキュリティ評価、契約の前に打つべき手は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/032700125/032700001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　契約済みの外部ベンダーがもたらすセキュリティリスクを抑えるにはどうすればよいだろうか。米Fannie Mae（連邦住宅抵当公庫）のJerry Archer最高セキュリティ責任者（CSO）は、それを考えている時点で「既に失敗だ」と話す。リスク緩和は契約を結ぶ前の段階から始めなくてはならないというのがArcher氏の見解だ。</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032700125/032700001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　そこでFannie Maeでは、利用するすべてのベンダーに関して、セキュリティチームが契約の賛否を意思表示している。対象となるのは、認証技術やAPIゲートウェイのサービスといった、一般にIT部門が管轄する製品やサービスのベンダーだけではない。どの部署がどのツールを導入する場合でも、セキュリティチームの承認が出なければ一切認められない。</p>
+
+<p>　利用するベンダーは計200社以上に及ぶだけに、承認の作業は簡単ではない。Archer氏によると、同社の人事部門を含む各種部門には、ベンダー各社からアプローチがあり、最先端の華麗なツールが披露される。それらを見せられて、「当人たちは、この製品がぜひとも必要だという気になる」。ソフトウエアを利用する側の部門は、セキュリティのことは念頭にない。考えているのは機能だけだ。これがないと成功はおぼつかないとIT部門に話してくる。「我々は全員、それは必ずしも本当ではないと心の中では分かっている。だが、本人たちは心情的にも、社内力学的にも、その製品から離れられなくなっている。それが現実だ」とArcher氏は言う。</p>
+
+<p>　こうなると、制御できないセキュリティリスクが必然的に生じる。最初の1日目から意思決定に関与しておかないと、購入への勢いが勝り、セキュリティチームにはダメージコントロールが託されることになる。「セキュリティチームとして、そのベンダーに関する問題の解決やプロセスの中断を直ちに行えるよう、先手を打つ方法を見つける必要がある。心情が作用してきて既成事実化しないうちに対処することが必要だ」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032700125/032700001/?ST=cm-network&P=2">セキュリティ調査の先頭に立つ</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032700125/032700001/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032700125/032700001/?ST=cm-network&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032700125/032700001/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 03 Apr 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
