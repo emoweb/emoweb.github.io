@@ -5,49 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d02</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>メールのセキュリティ対策、SPF／DKIM／DMARCの勘所（下）（メールのセキュリティ対策、SPF／DKIM／DMARCの勘所）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/022800116/022800003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　フィッシングメールやスパムメールは、ハッカーが企業のネットワークに入り込むのにうってつけの手段だ。悪質な添付ファイルを社員1人がクリックするだけで、ランサムウエア、クリプトジャッキング（マシンの処理能力を仮想通貨のマイニングに無断利用する行為）、データ流出、アクセス権の昇格といった形で、社内全体に危険が及びかねない。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/022800116/022800002/" target="_blank">前回</a>から続く）</p>
-
-<h4>SPF／DKIM／DMARCの導入と運用には苦労が付き物</h4>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800003/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　例えば、SPFとDMARCを適切に機能させるためには、所有するすべてのドメインに対応した設定が必要だ。数多くのドメインやサブドメインを運用している企業の場合、その作業はたちまち厄介になる。また、適切なDNSエントリですべてのサブドメインをきちんと保護する必要がある。</p>
-
-<p>　Gmailを利用している場合なら、<a href="https://support.google.com/a/answer/174124" target="_blank">DKIMを使用する設定の方法</a>や<a href="https://support.google.com/a/answer/174126" target="_blank">ドメインキーを生成する方法</a>の説明がGoogleのヘルプにある。また、ドメインの管理にcPanelを使用しているなら、<a href="https://www.siteground.com/kb/configure-spf-dkim-dmarc-records/" target="_blank">こちらの方法</a>で各種DNSレコードを設定できる。DKIMなどの設定作業が完了した後で、メールのヘッダーが正しく設定されているかどうかを検証するための<a href="http://dkimvalidator.com/" target="_blank">オンラインツール</a>もある。</p>
-
-<p>　設定の助けになる解説やツールもあるとはいえ、すべてを正しく設定するには専門的な技能が必要だ。それぞれで必要なコマンドは、社内にいるDNSの達人でもなじみがないかもしれない。知識不足だからということではなく、広く利用するものではないことや、構文を隅々まで正しく記述するのはかなり面倒な場合があるという理由からだ。そこで、SPF／DKIM／DMARCを決まった順序で導入していくようお勧めしたい。</p>
-
-<p>　米Easy Solutionsの<a href="http://blog.easysol.net/adopt-dmarc-in-6-steps/" target="_blank">ブログ記事</a>では、まずSPF、次にDKIM、最後にDMARCという順番での導入を勧めている。SPFの導入は比較的簡単なので最初に済ませる。また、DMARCまで到達した時には、メールをブロックするモードにいきなり設定するのではなく、まずはモニタリングのみのモードにして、すべてを適切に設定できたかどうか確認するとよい。筆者も、自分のドメインでは、まさにこの順番で導入していった。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800003/?ST=cio-security&P=2">メールを利用する全アプリケーションの洗い出しが必...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800003/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800003/?ST=cio-security&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/022800116/022800003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Fri, 09 Mar 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n02</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Windows 10、Redstone 5のプレビュー版でタブ管理機能「Sets」が復活（CIOニュース）</title>
@@ -1190,6 +1151,48 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 02 Apr 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>EU機関、5G導入をめぐりセキュリティに注意喚起（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/040200487/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　欧州連合（EU）の機関であるENISA（European Union Agency for Network and Information Security）は、2018年3月29日に公開した調査レポート「Signalling Security in Telecom SS7/Diameter/5G」の中で、旧来のモバイル通信ネットワークで見られたセキュリティ脆弱性が5Gネットワークにも組み込まれかねないとして注意を促している。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040200487/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: PCWorld</div>
+</div>
+<p>
+　これはIoTにとって悪い知らせかもしれない。IoTでは、セキュリティに不安を抱える膨大な数の機器が、通信の認証や暗号化に対する十分な考慮がないままに、モバイルネットワークに接続しつつある。
+</p>
+<p>
+　今回のレポートが危険性として挙げたのは、2G／3G／4Gで使われていたシグナリングプロトコル「SS7」「Diameter」の既知の脆弱性が、5Gにも組み込まれる恐れがあり、トラフィックの盗聴やスプーフィング、位置情報の傍受などにつながりかねないというものだ。
+</p>
+<p>
+　5Gへの移行で「歴史が繰り返す恐れが確実にある」とレポートは指摘。5Gネットワークはユーザー数や帯域幅が増すことから、危険性も高まるとしている。
+</p>
+<p>
+　2G／3Gネットワークで使われていたSS7プロトコルを利用した攻撃では、SMSで送られるテキストメッセージの傍受や転送が可能だ。友達間のささいな一言を見られるだけならまだしも、それでは済まない。2要素認証にSMSを使っている事業者はたくさんある。SMSで送ったメッセージは携帯電話の所有者本人しか見られないものと想定しているからだ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040200487/?ST=cm-network&P=2">そのような想定は危険をはらんでいる。今回のレポートにもあるように...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040200487/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040200487/?ST=cm-network&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040200487/?ST=cm-network&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040200487/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 02 Apr 2018 11:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>

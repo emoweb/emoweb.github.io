@@ -5,20 +5,6 @@
 		<link>https://forest.watch.impress.co.jp</link>
 		<description>Windows用オンラインソフトの専門サイト。 関連ニュースも提供。</description>
 		<item>
-			<title>英文の文法ミスを添削・修正してくれる「Grammarly」 ～基本的な機能は無償で利用可能／ネイティブデスクトップアプリに加え、ブラウザー拡張やOfficeアドインをラインナップ【レビュー】</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/4d802dfb81ed151e5f7dd298a4d928f5?ul=9rHIdJ7o8vkITJsrGwhNp1WykH7RdlpLOpLQ.GJIwuIEDPgIoRlbUIxQQiBKCaropMxdgS.4u0bpc7MSF.gTgYXGI_3w</link>
-			<description><![CDATA[<p>　「Grammarly for Windows」は、自分が書いた英文を添削・修正してくれるデスクトップアプリ。編集部にてWindows 10で動作を確認した。英文のライティング支援サービス“Grammarly”のWebサイトから無償でダウンロードできる。
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/4d802dfb81ed151e5f7dd298a4d928f5"/></p>]]></description>
-			<pubDate>Thu, 29 Mar 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>エクセルで表を印刷する際にミスを減らせる3つのステップに注目（3月第4週）</title>
-			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/a29b16cf9fdf7442cd2b9bed89103f8d?ul=sGWprYkUfrOLjRI9P9pkkkEPwdJfzpe.ncN835chv_0YJHEMomG2gE45Bd4_6jC58W7ylAo0LCoWmDplHkF5oBLztGi7CXyj37XQlGPDRJowiBnde</link>
-			<description><![CDATA[<p>
-<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/a29b16cf9fdf7442cd2b9bed89103f8d"/></p>]]></description>
-			<pubDate>Thu, 29 Mar 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>合宿型小説創作イベント“NovelJam2018”のグランプリ受賞作『REcycleKiDs』がオーディオブック化／2泊3日の合宿中に執筆から“本”として販売するまでを行う企画から生まれた作品【Book Watch/ニュース】</title>
 			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/78c5b4d1794e3c354ad7636cb0e5be51?ul=QVZG.L57MeMnda8usmd1jC2rfItwWkxV8FKdCMvomJZokMzOtcGKRY7Xosnh6hpMDM5_VczFspamxW9mUIscrCTPzTPmrxxI2JSR4a5NPMJYEtX1z</link>
 			<description><![CDATA[<p>　オーディオブック配信サービス“audiobook.jp”を運営する（株）オトバンクは28日、合宿型小説創作イベント“NovelJam2018”でグランプリを受賞したふくだりょうこ氏の『REcycleKiDs』をオーディオブック化することを発表した。
@@ -171,6 +157,13 @@
 			<description><![CDATA[<p>　『作成した表をそのまま印刷したらはみ出してしまった！』というのは、誰もが経験したことがあると思います。画面上でうまく収まっているからといって、うっかりそのまま印刷ボタンを押してしまうと、1ページに収まりきらずにはみ出してしまったり、逆に小さすぎて見えなかったりすることがありますよね。
 <img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/eee962652ab69e868c34dc57f414f998"/></p>]]></description>
 			<pubDate>Mon, 02 Apr 2018 06:55:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>MicrosoftのMeltdown対策パッチに欠陥、Windows 7向けの修正が定例外で公開される／より容易に悪用できてしまう脆弱性を生み出す格好に。Windows 8.1/10には影響なし</title>
+			<link>http://rss.rssad.jp/rss/artclk/W3p2PflWc6wL/0970b3116a2ea312fbca933c7c5b5840?ul=EiZ9qw2uX7mB6roMr7AuOYZ1b9cxODK5XaqiWhEsEcHronTkx3XvSGLuvbZ7v7bWugWNnsrAnuekICcmB0uvjsPYAB_.</link>
+			<description><![CDATA[<p>　米Microsoftは3月29日（現地時間）、Windows 7/Windows Server 2008 R2向けのセキュリティ更新プログラム「KB4100480」を定例外で公開した。1月から順次提供されている“Meltdown”対策のパッチが原因で、非特権プロセスによるカーネル空間のメモリすべての読み取り・書き込みを許してしまう特権昇格の脆弱性（CVE-2018-1038）が修正されている。
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/W3p2PflWc6wL/0970b3116a2ea312fbca933c7c5b5840"/></p>]]></description>
+			<pubDate>Mon, 02 Apr 2018 11:47:43 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
