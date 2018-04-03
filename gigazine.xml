@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>GoogleのURL短縮サービス「URL Shortener」が2019年3月30日で終了</title>
-			<link>https://gigazine.net/news/20180401-transitioning-google-url-shortener/</link>
-			<description><![CDATA[<p>Googleは、2009年から提供してきたURL短縮サービス「Google URL Shortener」を2019年3月30日で終了することを発表しました。今後、URL短縮サービスは「Firebase Dynamic Link(FDL)」に移行することになりますが、これまでにURL Shortenerで作成されていた短縮URLはそのままで継続して利用できるようになっています。<p><b><a href="https://gigazine.net/news/20180401&#45;transitioning&#45;google&#45;url&#45;shortener/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Sun, 01 Apr 2018 23:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>GIGAZINE春のプレゼント大放出企画「アンケートに答えて全部持っていってください！」</title>
 			<link>https://gigazine.net/news/20180402-present-spring-2018/</link>
 			<description><![CDATA[<p>出会いと別れと新生活が始まる4月がやってきた！ということで、「この春をきっかけに、生活を充実させたい！」という人を応援すべく、レビュー品や取材先のおみやげ、編集部の奥にこっそり眠っていたアイテム、そしていろいろな所から提供してもらった製品の数々をGIGAZINEからプレゼントとして大放出します。<p><b><a href="https://gigazine.net/news/20180402&#45;present&#45;spring&#45;2018/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180403-reconstructed-ancient-ruins/</link>
 			<description><![CDATA[<p>古代の遺跡には建築された場所の文化や歴史が刻まれており、多くの人々を魅了しその場所に足を運ばせます。しかし、姿が現代に残っていたとしても、時間による風化や、戦争などにより「建築当時の外観」は残されていません。往年の姿を再現するとどんなものになるのか、Expediaが「7 ancient ruins around the world, reconstructed」というムービーで見せてくれています。<p><b><a href="https://gigazine.net/news/20180403&#45;reconstructed&#45;ancient&#45;ruins/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Tue, 03 Apr 2018 08:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ブラウザで機械学習が実行できるようになる「TensorFlow,js」が登場</title>
+			<link>https://gigazine.net/news/20180403-tensorflow-js/</link>
+			<description><![CDATA[<p>Googleは2018年3月30日に開かれたTensorFlow Dev Summit 2018にて、オープンソースの機械学習ライブラリ「TensorFlow」をアップデートし、ウェブブラウザで実行できる「TensorFlow.js」や、スマートフォンやRaspberry Piなど小さいパワーのマシンで実行できる「TensorFlow Lite」などを追加したと発表しました。<p><b><a href="https://gigazine.net/news/20180403&#45;tensorflow&#45;js/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Tue, 03 Apr 2018 09:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
