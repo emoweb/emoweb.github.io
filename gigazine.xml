@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>AppleがMacのCPUをIntelから自社製へ変更の動き、ハード・ソフトの完全なエコシステム構築へ</title>
-			<link>https://gigazine.net/news/20180403-apple-own-chip-for-mac/</link>
-			<description><![CDATA[<p>AppleがMacに採用しているIntel製CPUから、自社開発チップへの変更を検討中だとBloombergが報じています。Intelチップからの切り替えの時期は2020年と予想されており、AppleはスマートフォンだけでなくMacに関しても完全なる垂直統合モデル化を着々と進めているようです。<p><b><a href="https://gigazine.net/news/20180403&#45;apple&#45;own&#45;chip&#45;for&#45;mac/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Tue, 03 Apr 2018 10:16:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ラーメン二郎の画像を機械学習により9割以上の精度で見分けるシステムがGoogleのCloud AutoML Visionを用いて開発される</title>
 			<link>https://gigazine.net/news/20180403-google-noodle-machine-learning/</link>
 			<description><![CDATA[<p>Google Cloudが2018年1月に発表した「Cloud AutoML Vision」は、機械学習についての知識がほとんどない人でも簡単に画像認識を使った機械学習を利用できるサービスですが、さっそくこのCloud AutoML Visionを利用して、日本のエンジニアがラーメン二郎のラーメンを高い精度で識別することに成功しました。<p><b><a href="https://gigazine.net/news/20180403&#45;google&#45;noodle&#45;machine&#45;learning/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180404-beardpapa-milk-vanilla-chou/</link>
 			<description><![CDATA[<p>シュークリーム専門店 ビアードパパで2018年4月4日から期間限定のシュークリーム「ミルクバニラシュー」が登場しています。バニラ香るミルククリームに、自家製カスタードがブレンドされているというアイテムを、実際に買って食べてみました。<p><b><a href="https://gigazine.net/news/20180404&#45;beardpapa&#45;milk&#45;vanilla&#45;chou/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Wed, 04 Apr 2018 15:18:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>仮想通貨「イーサリアム」に対応したASIC搭載マシンが登場、マイニングによるグラフィックボード枯渇の歯止めとなるか？</title>
+			<link>https://gigazine.net/news/20180404-bitmain-ethereum-asic-miner/</link>
+			<description><![CDATA[<p>中国・北京に本社を構える世界最大規模のマイニング関連企業「Bitmain」が、仮想通貨「Ethereum(イーサリアム)」「EthereumClassic(イーサリアムクラシック)」などに対応したマイニングマシン「Antminer E3」を発表しました。Antminer E3にはASIC(Application Specific Integrated Circuit：特定用途向け集積回路)が用いられていて、従来のGPUを用いたマシンよりも効率的なマイニングが可能になっているとのことです。<p><b><a href="https://gigazine.net/news/20180404&#45;bitmain&#45;ethereum&#45;asic&#45;miner/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Wed, 04 Apr 2018 16:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
