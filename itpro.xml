@@ -5,45 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d06</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Microsoft、CPU脆弱性対策のパッチ提供を拡大（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/031500480/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftは現地時間2018年3月13日、CPU脆弱性「Meltdown」「Spectre」に対処するパッチに関して、これまでの策を2つの点で強化したことを発表した。1つは、32ビット版のWindows 7とWindows 8.1用のパッチをリリースしたこと。もう1つは、同社サイトで公開しているIntel製マイクロコードアップデートの対象プロセッサを拡大し、「Skylake」「Kaby Lake」「Coffee Lake」に対応したことだ。MeltdownとSpectreに対処するためには、OSとプロセッサの両方に関して更新プログラムを適用する必要がある。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031500480/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Google/Natascha Eibl</div>
-</div>
-<p>
-　OSのパッチに関しては、Microsoftはこれまで、一番新しいOSであるWindows 10に向けて最新のアップデートを提供することに力を入れてきた。しかし今回は、Windows 7 SP1用とWindows 8.1用のパッチを、Windows UpdateとMicrosoft Updateカタログを通じて新たに提供した。ただし、いずれも32ビット版向けだという点に留意する必要がある。
-</p>
-<p>
-　Intel製のマイクロコードアップデートに関しては、Coreプロセッサのうち、Skylake、Kaby Lake、Coffee Lakeの各シリーズを対象とするパッチを、Microsoft Updateカタログで公開した。Microsoftは今月初め、Skylakeシリーズの一部を対象としたIntel製マイクロコードアップデートの公開を始めていた。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031500480/?ST=cm-software&P=2">Microsoftは今回の策で、ますます多くのパソコンユーザーに...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031500480/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031500480/?ST=cm-software&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031500480/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 15 Mar 2018 10:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n06</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>侵入検知システムの基本と現状、そして今後（下）（侵入検知システムの基本と現状、そして今後）</title>
@@ -1166,6 +1131,52 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 06 Apr 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Intel、Core 2など旧CPU向けのSpectre対策パッチを中止（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/040600489/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　重大なCPU脆弱性「Meltdown」「Spectre」に関して、米Intelが数カ月にわたって順次リリースを進めてきたマイクロコードアップデートは、ゴールに近づきつつある。だが、同社がアップデートの提供を予定していたプロセッサのうち、旧型プロセッサの一部については、アップデートの開発を取りやめたことが明らかになった。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040600489/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Gordon Mah Ung</div>
+</div>
+<p>
+　Intelの2018年4月2日付けの文書「<a href="https://newsroom.intel.com/wp-content/uploads/sites/11/2018/04/microcode-update-guidance.pdf" target="_blank">Microcode Revision Guidance</a>」を見ると、アップデートが提供されるはずだったプロセッサの中に、ステータスの欄が「中止（Stopped）」に変わったものがある。具体的には、Penryn（2007年）、Yorkfield（2007年）、Wolfdale（2007年）、Bloomfield（2008年）、Clarksfield（2009年）、Jasper Forest（2010年）、SoFIA（Atom、2015年）などだ（いずれも開発コード名）。この件については、ハードウエア情報サイトTom's Hardwareが最初に報じた。
+</p>
+<p>
+　Intelはこの文書の中で、「中止」というステータスについて次のように説明している。
+</p>
+<p>
+これらの製品については、そのマイクロアーキテクチャとマイクロコードの機能を包括的に調査した結果、マイクロコードアップデートをリリースしないことを決めた。そのわけは、次に示す項目をはじめ、1つないし複数の理由が該当する。
+</p>
+<ul>
+<li>マイクロアーキテクチャの特性上、バリアント2（CVE-2017-5715）を緩和する機能の効果的な実装が不可能である。
+</li>
+<li>システムソフトウエアの現行のサポートが限られている。
+</li>
+<li>顧客からの情報によると、これらの製品の大半は「クローズドシステム」として実装されており、したがって、これらの脆弱性の影響を受ける可能性は相対的に低いものと考えられる。
+</li>
+</ul>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040600489/?ST=cm-hardware&P=2">Intelのこの決定は、Core2シリーズのプロセッサに引導を渡...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040600489/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040600489/?ST=cm-hardware&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040600489/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 06 Apr 2018 11:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
