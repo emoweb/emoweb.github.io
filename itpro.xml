@@ -5,49 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n09</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>侵入検知システムの基本と現状、そして今後（下）（侵入検知システムの基本と現状、そして今後）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/030500118/030500003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　侵入検知システム（IDS）は、ネットワーク上を流れるトラフィックやシステムの通信を監視して、疑わしい挙動や既知の脅威が含まれていないかどうかを調べ、見つけた場合は警告を通知する。企業のIT部門は、自社のIT環境で生じている不審な動きを把握する目的でIDSを導入する。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/030500118/030500002/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/030500118/030500003/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　またIDSは、トラフィックが暗号化されている場合のマルウエアの検知が問題になることがある。加えて、インバウンドトラフィックの速度や分散性により、企業でIDSの有効性に限界が生じる場合もある。</p>
-
-<p>　Hanselman氏は次のように説明する。「100Mビットのトラフィックを処理できるIDSを導入していたとしても、200Mビットのトラフィックが来たり、トラフィックが分散したりといった状況で、IDSが確認するのが3～4パケットにつき1パケットとなる可能性もある」</p>
-
-<h4>侵入検知の今後</h4>
-
-<p>　こうした限界があるとしても、機能としてのIDSの価値を否定するものではないとHanselman氏は強調する。</p>
-
-<p>　「完璧なセキュリティツールは存在しない。どの製品にもそれぞれ盲点があり、その盲点を知ることが課題だ。IDSは今後も長きにわたって役割を果たすという私の考えは変わっていない。ネットワーク上で悪質なトラフィックを具体的に特定できることには、現在も本質的な価値がある」</p>
-
-<p>　現在でもIDSの導入は依然としてセキュリティ上のベストプラクティスとされている。だが、各氏の話によると、企業や組織の中には、IDSの限界を踏まえて、IDSが必要なのかどうかを再考しているところもある。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/030500118/030500003/?ST=cm-network&P=2">Rexroad氏はこう説明する。「受け取る警告の数に応じて、こう...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/030500118/030500003/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/030500118/030500003/?ST=cm-network&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/030500118/030500003/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 16 Mar 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d09</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Fitbit、新型スマートウオッチ「Versa」を発表（CIOニュース）</title>
@@ -1177,6 +1138,44 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 06 Apr 2018 11:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>グラフデータベースの基礎知識（上）（グラフデータベースの基礎知識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/040300126/040300001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　今回の記事では、グラフデータベースとは何なのか、他のデータベースとどう違うのか、データに関するどのような問題を解決するためのものなのかを見ていくことにしよう。</p>
+
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300001/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+
+<p>　キーバリュー、ドキュメント指向、カラムファミリー、グラフ、リレーショナルなど、今やデータベースの種類は、データの種類と同じ数だけあるように思える。こうなると、データベース選びが難しく感じられるかもしれないが、的確なデータベース選びはむしろ容易になる。もちろんそのためには予習が必要だ。つまり、データベースの選択肢について理解しておかなければならない。</p>
+
+<p>　数ある中でも、特に理解されていないデータベースの種類の1つがグラフデータベースだ。密接に関連し合ったデータを扱うためのデータベースで、関係性の強さはリレーショナルデータベース以上と言ってもよいかもしれない。グラフデータベースが輝きを放つのは、巨大に絡み合った情報の中から、複雑な関係を導き出す時だ。</p>
+
+<p>　今回の記事では、グラフデータベースとは何なのか、他のデータベースとどう違うのか、データに関するどのような問題を解決するためのものなのかを見ていくことにしよう。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300001/?ST=cio-appli&P=2">グラフデータベースとリレーショナルデータベースの...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300001/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300001/?ST=cio-appli&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300001/?ST=cio-appli&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300001/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Mon, 09 Apr 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
