@@ -11,49 +11,6 @@
 			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Fitbit、新型スマートウオッチ「Versa」を発表（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/031600414/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　Fitbitの共同創業者で最高経営責任者（CEO）のJames Park氏は次のようにコメントしている。「ウエアラブルのカテゴリーが成長を続ける中、Fitbit Versaは市場の重要なニーズを満たす。美しいデザインに機能を満載した使いやすいスマートウオッチで、価格も手頃だ」
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/031600414/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Fitbit</div>
-</div>
-<p>
-　「Fitbitの代名詞とも言える先進のヘルスケア機能とフィットネス機能を備えているほか、多種多様なモバイルプラットフォームと連携でき、バッテリーは4日もつ。ユーザーは、自分の健康状態全般について、これまで以上に把握できるようになる。現在市販されているスマートウオッチの中でも群を抜く製品だ」
-</p>
-<p>
-　一見したところ、Versaの外観は、Fitbit初のスマートウオッチとして昨年登場した「Ionic」をすっきりと洗練させた印象だ。Ionicと同様に、スマートフォンの通知を受けとるほか、Androidではクイック返信にも間もなく対応するという。内蔵ストレージは4Gバイトで、Bluetoothヘッドホンに対応した音楽再生が可能。決済機能「Fitbit Pay」も搭載している。盤面はFitbit App Galleryを通じてカスタマイズできる。バッテリー駆動時間は最大4日としている。
-</p>
-<p>
-　バンドは、Ionicと同様に、さまざまなタイプのユーザーに向けたスタイリッシュなデザインがいくつか用意されている。
-</p>
-<p>
-　OSは、新バージョンである「Fitbit OS 2.0」を搭載している。音楽の操作やFitbit Payに素早くジャンプできる新しいショートカットメニューや、アップデートされたインタラクティブダッシュボードなど、UIに新たな改良がいくつか加わっている。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/031600414/?ST=cio-consumerit&P=2">Fitbitが大きく打ち出している機能としては、...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/031600414/?ST=cio-consumerit&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/031600414/?ST=cio-consumerit&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/031600414/?ST=cio-consumerit&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Fri, 16 Mar 2018 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>IT部門の変革、チェンジエージェントが語る（前）（IT部門の変革、チェンジエージェントが語る）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/031200120/031200001/</link>
 			<description><![CDATA[<div>
@@ -1176,6 +1133,42 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 09 Apr 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Microsoft、OneDriveとOutlook.comのランサムウエア対策を強化（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/040900490/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　パソコンがランサムウエアに感染すると、あらゆるファイルが暗号化され、それを解除するキーと引き換えに金銭を支払うよう迫られる。この感染は、クラウドに保存しているファイルにまで波及する恐れがある。そこで米Microsoftは、こうした状況に対処するための機能を、クラウドストレージサービス「OneDrive」に搭載した。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040900490/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Microsoft</div>
+</div>
+<p>
+　Microsoftは現地時間2018年4月5日、「Office 365 Home」「Office 365 Personal」の加入者向けのOneDriveに、新たなランサムウエア対策を導入したことを発表した。その1つは、OneDriveに保存しているファイルを以前のバージョンにロールバックできる「Files Restore」機能だ。最長1カ月前のバージョンまで復元でき、マルウエアに感染する前の状態に戻すのが簡単になる。もう1つは、ランサムウエアの自動検出機能だ。OneDriveに保存しているファイルがランサムウエアに感染していないかを自動で判別し、感染が確認された時にはスマートフォンなどを通じてユーザーに通知する。
+</p>
+<p>
+　このほか同社は、OneDriveに保存しているファイルを共有する際のパスワード保護機能や、OutlookのWeb版である「Outlook.com」で送信するメールの暗号化機能なども発表した。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040900490/?ST=cm-software&P=2">MicrosoftのOffice担当コーポレートバイスプレジデン...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040900490/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040900490/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040900490/?ST=cm-software&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040900490/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 09 Apr 2018 10:40:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
