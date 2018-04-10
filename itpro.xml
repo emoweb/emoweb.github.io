@@ -11,45 +11,6 @@
 			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>英建設会社、Nutanixで自動化を推進（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/031900481/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　英建設会社Laing O'Rourkeは、新鉄道路線クロスレールや、ヒンクリーポイント原子力発電所など、英国内で大規模な建設プロジェクトに携わっている。同社は、米Nutanixの製品を導入し、コスト削減やデータセンター統合のほか、オンサイトのエッジコンピューティングに適したプラットフォームの構築を目指している。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031900481/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Flickr/Andreas Komodrom</div>
-</div>
-<p>
-　Laing O'Rourkeは数年前、新しいデータセンターを立ち上げたいと考え、従来のオンプレミスのデータセンターを新しいコロケーションサイトに移すことを望んでいた。
-</p>
-<p>
-　Laing O'Rourkeのインフラ開発担当マネージャー、Paul Petty氏は、Nutanixが英ロンドンで現地時間2018年3月14日に開催したカンファレンス「Nutanix .NEXT」で次のように説明した。「当社は未開拓の場所を求めていた。当時は従来型の3階層のスタックを利用していたが、もっとインテリジェントに、そして、もっと効率的に物事を進めたいと考えていた。その実現のために、ベンダー数社を検討したうえで、Nutanixを採用することに決めた」
-</p>
-<p>
-　「新しいデータセンターの立ち上げに必要なインフラを大規模に統合し、コストとラックスペースを削減した。これは当然ながら費用の節約につながった」
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031900481/?ST=cm-cloud&P=2">LaingO'Rourkeは現在、「NutanixEnterpr...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031900481/?ST=cm-cloud&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031900481/?ST=cm-cloud&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031900481/?ST=cm-cloud&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/031900481/?ST=cm-cloud&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 19 Mar 2018 10:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>SQLインジェクション、今もWebアプリを襲う古株の脅威（前）（SQLインジェクション、今もWebアプリを襲う古株の脅威）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/031200121/031200001/</link>
 			<description><![CDATA[<div>
@@ -1170,6 +1131,46 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 10 Apr 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Microsoft、ARM版Windows 10で64ビットアプリのサポートを準備中（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/041000422/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　省電力性に優れた米QualcommのARMプロセッサ「Snapdragon」を搭載したWindows 10パソコンが登場しつつある。しかし、いくつかある主な制約の中でも、既存の64ビットアプリを動かせないという点は、すぐには解消しそうにない。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041000422/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Mark Hachman / IDG</div>
+</div>
+<p>
+　米Microsoftの担当者によれば、2018年5月初めに開催する開発者カンファレンス「Build」で、64ビットアプリを開発するための「ARM64 SDK」のプレビュー版について詳しい情報を発表するとのことだ。このSDKのプレビュー版および正式版のリリース時期や、同SDKに基づくアプリがエンドユーザーに提供される時期は明らかにしていない。
+</p>
+<p>
+　Microsoftの担当者の声明には次のようにある。「ARM64 SDKのプレビュー版の詳細についてはBuildで発表することになる。通常、64ビット専用のアプリケーションは、パフォーマンス上の理由から、ネイティブに動作させる方がよい。そこで当社は、該当するデバイス向けのネイティブアプリケーションを開発者が作成できるよう、エンジニアリングのリソースをネイティブなARM64 SDKに集中的に投じることを決めた」
+</p>
+<p>
+　Microsoftの今回の動きは、ARM版Windows 10が抱える制約の1つに対処するものだ。ただし、その成果がユーザーに届くまでには、多少の時間が必要となる。開発者は、ARMプロセッサ搭載で丸1日近く動くWindowsパソコンというビジョンに賛同するのかどうかを決めなくてはならない。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041000422/?ST=cio-appli&P=2">ユーザーにとっての制約</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041000422/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041000422/?ST=cio-appli&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041000422/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 10 Apr 2018 10:40:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
