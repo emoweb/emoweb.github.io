@@ -5,45 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n11</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>SQLインジェクション、今もWebアプリを襲う古株の脅威（前）（SQLインジェクション、今もWebアプリを襲う古株の脅威）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/031200121/031200001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　SQLインジェクションは、Webアプリケーションのデータベースを完全に支配される恐れがある攻撃手法の中でも、洗練度という点では最下位に近い。SQLインジェクションを不朽の存在にしたのは、Webコミックxkcdの<a href="https://xkcd.com/327/" target="_blank">第327話</a>に出てきた「Little Bobby Tables」だ。</p>
-
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200001/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Thinkstock/Google</div>
-</div>
-
-<p>　最初の発見は1998年までさかのぼるSQLインジェクションだが、いまだにインターネットの各所でWebアプリケーションに災いをもたらしている。Webアプリケーションのセキュリティに対する脅威のトップ10をまとめた「OWASP Top 10」の2017年版でも、第1位はインジェクションだった。</p>
-
-<p>　不幸中の幸いなのは、攻撃側だけでなく防御側にとっても、SQLインジェクションはとりわけ扱い易い相手であることだ。ハッカー集団Shadow Brokersが暴露した米国家安全保障局（NSA）の最先端の攻撃キットとは違う。<a href="https://www.troyhunt.com/hacking-is-childs-play-sql-injection/" target="_blank">3歳の子供でも実践できる</a>くらいシンプルだ。スクリプトキディ向きである。Webアプリケーションの修正でSQLインジェクションのリスクを抑えるのはごく簡単だ。それだけに、対処を怠るのは、これまでにも増して重大な過失だという印象である。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200001/?ST=cm-software&P=2">SQLインジェクションの定義と種類</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200001/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200001/?ST=cm-software&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200001/?ST=cm-software&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200001/?ST=cm-software&P=4">4</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 20 Mar 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d11</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Windows 10のテストビルド、「メール」のリンクをEdgeで開く仕様に（CIOニュース）</title>
@@ -1171,6 +1136,46 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 10 Apr 2018 10:40:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>グラフデータベースの基礎知識（中）（グラフデータベースの基礎知識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/040300126/040300002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　今回の記事では、グラフデータベースとは何なのか、他のデータベースとどう違うのか、データに関するどのような問題を解決するためのものなのかを見ていくことにしよう。</p>
+
+<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/040300126/040300001/" target="_blank">前回</a>から続く）</p>
+
+<h4>グラフデータベースの用途</h4>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　グラフデータベースが特に威力を発揮するのは、扱うデータの間に密接なつながりがあって、その結び付きや参照を表現する必要があり、一般に関係が多対多の場合だ。</p>
+
+<p>　ここでも、ソーシャルネットワークがよい例だ。グラフデータベースなら、ソーシャルネットワークで使われているフィードのようなデータビューを生成する際の処理が少なくて済む。あるいは、ネットワーク内の既存の友達と関係が近い人について、知り合いかもしれないという候補を判断する処理も簡単になる。</p>
+
+<p>　別の用途としては、他のデータ表現では導き出すのが難しいパターンやつながりをグラフデータから見つけ出すというものがある。詐欺検知システムでは、グラフデータベースを使って、他の方法では割り出しにくいかもしれない実体同士の関係を明らかにしている。</p>
+
+<p>　グラフデータベースは、実体同士の関係や相互依存性を管理するアプリケーションにもよく合う。例えば、レコメンドエンジン、コンテンツ／アセット管理システム、ID／アクセス管理システム、法令遵守ソリューション、リスクマネジメントソリューションは、舞台裏でグラフデータベースが使われていることがよくある。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300002/?ST=cio-appli&P=2">グラフデータベースのクエリ</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300002/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300002/?ST=cio-appli&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300002/?ST=cio-appli&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300002/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Wed, 11 Apr 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
