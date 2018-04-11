@@ -5,46 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n12</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>SQLインジェクション、今もWebアプリを襲う古株の脅威（後）（SQLインジェクション、今もWebアプリを襲う古株の脅威）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/031200121/031200002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　SQLインジェクションは、Webアプリケーションのデータベースを完全に支配される恐れがある攻撃手法の中でも、洗練度という点では最下位に近い。SQLインジェクションを不朽の存在にしたのは、Webコミックxkcdの<a href="https://xkcd.com/327/" target="_blank">第327話</a>に出てきた「Little Bobby Tables」だ。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/031200121/031200001/" target="_blank">前回</a>から続く）</p>
-
-<h4>SQLインジェクションの検知方法</h4>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　SQLインジェクション攻撃への対策は難しくはない。だが、いかに聡明で善良な開発者といえども、手落ちは起こり得る。したがって、SQLインジェクション攻撃のリスクを軽減するためには、検知が重要な鍵の1つだ。Webアプリケーションファイアウォール（WAF）があれば、基本的なSQLインジェクション攻撃を検知してブロックできる。しかし、防御手段がWAFのみというのはよくない。</p>
-
-<p>　侵入検知システム（IDS）は、ネットワーク型もホスト型も、SQLインジェクション攻撃を検知するようにチューニングできる。ネットワーク型IDSは、データベースサーバーへのすべての接続を監視して、疑わしい挙動をピックアップできる。ホスト型IDSは、Webサーバーのログを監視して、通常と異なる事象があった場合に警告を発することができる。</p>
-
-<p>　しかし結局のところ、SQLインジェクション攻撃は十分に解明されており、簡単に予防できる。初めからSQLインジェクション攻撃を防ぐことがリスク低減の優先事項だ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200002/?ST=cm-software&P=2">SQLインジェクションを防ぐ方法</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200002/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200002/?ST=cm-software&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200002/?ST=cm-software&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200121/031200002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 22 Mar 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d12</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>英Sky、利用者の気分に合ったコンテンツのレコメンドを模索（CIOニュース）</title>
@@ -1176,6 +1140,47 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/379554/040400030/</link>
 			<description><![CDATA[　規制改革推進会議の二次答申（2017年11月）をきっかけにして、規制改革推進会議のWGおよび総務省の有識者会議において、放送の規制をめぐる議論が盛んに行われている。二次答申においては、「放送事業の未来像を見据えた放送用帯域の周波数有効活用」がテーマとなっており、通信・放送の融合を見据えた議論が行われている]]></description>
 			<pubDate>Thu, 12 Apr 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>パソコンはChromebookだけで用が足りるか？（後）（パソコンはChromebookだけで用が足りるか？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/040300127/040300002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　「Chromebook」の人気はここ数年で着実に上がっている。価格の安さとOSのシンプルさから、若い世代にとっては魅力的な選択肢だ。いや、古い世代にとっても魅力的である。だが、毎日使うメインのパソコンをChromebookだけで済ませることは本当に可能なのだろうか。Windowsの低価格ノートパソコンよりも、ありがたみが大きいのだろうか。そのあたりをQ&A形式で見ていくことにしよう。
+</p>
+
+<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/040300127/040300001/" target="_blank">前回</a>から続く）</p>
+
+<h4>Chromebookで外付けの周辺機器は使えるか？</h4>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300127/040300002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　使える。キーボード、マウス、ディスプレイ、ヘッドホン、Webカメラなどの外付けデバイスも、対応する端子があるChromebookなら、そのまま接続して難なく使用できる。</p>
+
+<p>　外付けのハードディスク、USBメモリー、SDカードのほか、Androidスマートフォンの多くも、Chromebookに接続してすぐに使える。さらに、Wi-Fi接続が可能なプリンターも使える。Wi-Fiに対応していない古いプリンターは使えないことが多い。</p>
+
+<p>　CD／DVDドライブの使用は少しだけ複雑だ。Chromebookは、特定のフォーマット（主にmp3とmp4）であれば読み取れるが、リッピングしてこれらの形式で保存したファイルでない限り、ディスクに記録されている映画や音楽を直接再生することはできない。</p>
+
+<p>　つまり、映画や音楽のディスクを購入してそのまま再生することはできないが、空のCD／DVD／Blu-rayディスクに適切なフォーマットでコピーしたものであれば再生できるはずだ。</p>
+
+<p>　また、Bluetoothデバイスも、大半のものはChromebookで使える。だが、購入を予定するChromebookの機種がBluetoothに対応しているかどうか、念のため再確認が必要だ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300127/040300002/?ST=cm-hardware&P=2">Chromebookが苦手な作業は？</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300127/040300002/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300127/040300002/?ST=cm-hardware&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300127/040300002/?ST=cm-hardware&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300127/040300002/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 12 Apr 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
