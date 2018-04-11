@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d11</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows 10のテストビルド、「メール」のリンクをEdgeで開く仕様に（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/032000415/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftは、2018年秋にリリースするWindows 10の大型アップデート（コードネーム「Redstone 5」）に向けたプレビュー版に関して、「メール」アプリでリンクをクリックすると「Edge」ブラウザーで開くようにする仕様変更のテストをすると発表した。これに怒りをあらわにしているユーザーもいる。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032000415/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Flickr/Andreas Komodrom</div>
-</div>
-<p>
-　Microsoftは現在、Windows Insider Programの参加者のうち、「Skip Ahead」を選択している人に向けて、Redstone 5のプレビュー版を配信している。今回の仕様変更については、その最新版であるWindows 10 Insider Previewのビルド17623のリリースを発表する現地時間2018年3月16日の公式ブログ記事で明らかにした。
-</p>
-<p>
-　だが、この変更はまだ確定事項ではない。それに、現時点で正式リリースに至っていない今春の大型アップデート（コードネーム「Redstone 4」、仮称「Spring Creators Update」）ではなく、その次の大型アップデートに関する話だ。Skip Aheadで配信されるバージョンはクローズドベータなので、大多数のWindowsユーザーは、何カ月も先まで、この仕様変更の影響は特にない。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032000415/?ST=cio-appli&P=2">今回の新たな仕様の下では、どのWebブラウザーを...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032000415/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032000415/?ST=cio-appli&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032000415/?ST=cio-appli&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032000415/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Tue, 20 Mar 2018 11:39:07 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n11</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>リニア配信に市場性ありと判断、dTVチャンネルを立ち上げ（メディアビジネス最前線）</title>
@@ -1176,6 +1138,44 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 11 Apr 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Snapchat、iPhone X対応レンズ機能をようやくリリース（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041100491/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　2017年9月に米Appleが「iPhone X」を発表した時、新たに搭載した「TrueDepth」カメラの実演で使われたのが、フォトメッセージアプリ「Snapchat」の新しいレンズ機能だった。自撮り画像に仮面や帽子などの装飾をエフェクトとして加えられるという点は従来のレンズ機能と同じだが、顔の輪郭にぴったり合うところや、本人の動きを正確に追随するところが素晴らしかった。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041100491/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Snapchat</div>
+</div>
+<p>
+　唯一の問題は、この新しいレンズ機能は、iPhone Xの発売と同時にリリースされなかったことだ。そして、半年がたった今になって、Snapchatはようやくこの機能を公開した。
+</p>
+<p>
+　TrueDepth対応のレンズ機能で適用できるエフェクトは現時点で3種類ある。プロレス風のフェイスペイント（The Ultimate Warriorを想像するとよい）、ティアラ、派手な装飾のフェイスマスクだ。Snapchatアプリでこの機能を使うには、フロントカメラを選択し、画面中央を長押しすると、レンズやフィルターが表示される。最初の3つに、TrueDepth対応のエフェクトが表示されるはずだ。
+</p>
+<p>
+　この機能は、TrueDepthカメラの実力がよく分かる格好の例であるだけに、登場までにこれほど時間がかかったのは残念だ。Snapchatの従来のレンズ機能は、少々大ざっぱなのが常だった。TrueDepth対応の新しいレンズ機能は、顔の形にぴったり合い、動きにも忠実に従う。これまでとは雲泥の差だ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041100491/?ST=cm-software&P=2">セキュリティの懸念は</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041100491/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041100491/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041100491/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 11 Apr 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
