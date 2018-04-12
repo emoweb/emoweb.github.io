@@ -11,45 +11,6 @@
 			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>英Sky、利用者の気分に合ったコンテンツのレコメンドを模索（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/032200416/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　英Skyは、膨大なコンテンツのライブラリーの中からお勧めのコンテンツを提示する機能に関して、シンプルなレコメンドエンジンの先を目指している。機械学習を利用し、ユーザーの気分にぴったり合ったお勧めを提示するというものだ。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032200416/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Sky</div>
-</div>
-<p>
-　英ロンドンで現地時間2018年3月15～16日に開催されたカンファレンス「Deep Learning in Retail & Advertising Summit」で、Skyの主席データサイエンティスト、Jian Li氏のセッションがあった。「当社には大量のコンテンツと巨大なデータベースがある。我々が最新のテクノロジーをどのように活用して利用者に情報を提示するかをお聞かせする」と同氏は語った。
-</p>
-<p>
-　Skyのデータサイエンティストのチームは、利用者一人ひとりの視聴やデバイスに関するデータを取り込み、お勧めコンテンツを導き出すための機械学習モデルを構築する。今回、同チームが構築したのは、最近の視聴履歴だけでなく、本人の今の気分に合ったお勧めを提示することを目指した、新しいモデルだ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032200416/?ST=cio-appli&P=2">出発点は、利用者の気分を特定のジャンルと単純に結...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032200416/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032200416/?ST=cio-appli&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032200416/?ST=cio-appli&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032200416/?ST=cio-appli&P=4">4</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032200416/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Thu, 22 Mar 2018 11:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>IT部門の変革、チェンジエージェントが語る（後）（IT部門の変革、チェンジエージェントが語る）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/031200120/031200002/</link>
 			<description><![CDATA[<div>
@@ -1181,6 +1142,44 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 12 Apr 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Microsoft、Windows Analyticsを活用する解説書のドラフト版を公開（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/041200423/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Microsoftは、「Windows Analytics」から得られる情報をカスタマイズして活用する方法を解説した文書「Windows Analytics Extensibility」のドラフト版を公開した。Windows Analyticsを利用している企業のIT部門や、カスタムソリューションの開発を手がけているパートナー企業が、Windows Analyticsのデータに基づいて独自のレポートやアラートを作成したり、Windows Analyticsのデータを他の情報と統合して一歩掘り下げた分析を行ったりするための方法が説明されている。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041200423/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　Windows Analyticsは、「Upgrade Readiness」「Update Compliance」「Device Health」の3つのサービスから成り、MicrosoftがWindowsパソコンを通じて収集しているテレメトリデータを基にした情報を把握できる。無償のサービスだが、Windows 10のEnterpriseとEducationのライセンスに付随する特典であることから、これらのエディションを導入している企業や組織でなければ利用できない。
+</p>
+<p>
+　各サービスでは、Windows 10 EducationあるいはWindows 7 Enterpriseといった、EnterpriseエディションやEducationエディションで稼働するデバイスについての情報を把握できる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041200423/?ST=cio-appli&P=2">3つのサービスのうち、UpgradeReadin...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041200423/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041200423/?ST=cio-appli&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041200423/?ST=cio-appli&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041200423/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Thu, 12 Apr 2018 10:40:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
