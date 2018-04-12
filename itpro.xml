@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n13</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IT部門の変革、チェンジエージェントが語る（後）（IT部門の変革、チェンジエージェントが語る）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/031200120/031200002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　デジタルトランスフォーメーションが流行する中、変革に力を注ぎ、ビジネスオペレーションの強化や新たな収益源の開拓を成し遂げた最高情報責任者（CIO）は称賛の的になる。だが、一世一代の大転換に乗り出す前に、もっと根本的な部分の変革に着手することを余儀なくされるCIOは多い。すなわち、IT部門の文化を変えるという変革だ。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/031200120/031200001/" target="_blank">前回</a>から続く）</p>
-
-<h4>ビジョンの一元化</h4>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200120/031200002/top.jpg" width="300" alt="" title=""></div></div>
-
-<p>　チェンジエージェント：DocuSignの当時のCIO、Eric Johnson氏（現在はTalendのCIO）</p>
-
-<p>　Eric Johnson氏は、電子署名ソリューションを手がける米DocuSignに2014年に加わって、同社初のCIOに就任した（その後、2018年1月に米TalendのCIOに就任した）。Johnson氏が加わった頃、DocuSignのIT部門は、何人かが間に合わせで業務をこなしているような状況だったという。当時の同社には一元的なIT部門がなかった。「従事している社員たちは果敢に仕事をしてはいたが、戦略やビジョン、構造がなかった」とJohnson氏は振り返る。</p>
-
-<p>　DocuSignがJohnson氏を迎えたのは、IT部門を強化して規模を追求するためだった。Johnson氏がまず修正を迫られたのは、クラウドコンピューティングの利用についてだ。道理も分別も、指揮監督もないままに、クレジットカードを片手に走り回っている人が契約したクラウドサービスだった。Johnson氏は、クラウドソフトウエアの管理に伴う課題について、「クラウドは夢のような世界だと皆が思っている。だが、実際にはやはり大変な仕事だ」と話す。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200120/031200002/?ST=cio-management&P=2">Johnson氏は、新しい社員を早急に採用し、ク...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200120/031200002/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200120/031200002/?ST=cio-management&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200120/031200002/?ST=cio-management&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/031200120/031200002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Fri, 23 Mar 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d13</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>IBM、サービスとしてのディープラーニングで企業のネックを解消（Computerworldニュース）</title>
@@ -1180,6 +1142,48 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 12 Apr 2018 10:40:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>グラフデータベースの基礎知識（下）（グラフデータベースの基礎知識）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/040300126/040300003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　今回の記事では、グラフデータベースとは何なのか、他のデータベースとどう違うのか、データに関するどのような問題を解決するためのものなのかを見ていくことにしよう。</p>
+
+<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/040300126/040300002/" target="_blank">前回</a>から続く）</p>
+
+<h4>グラフデータベースの主な製品</h4>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300003/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　グラフデータベースは、どちらかと言うとニッチな用途を満たすものであることから、製品の数はリレーショナルデータベースにはほど遠い。逆に言えば、主要な製品を選び出して検討するのはリレーショナルデータベースより簡単だ。</p>
+
+<p><b>Neo4j</b></p>
+
+<p>　Neo4jは、最も成熟（11年超）していて最も知名度が高い汎用的なグラフデータベースであると言って差し支えない。従来のグラフデータベース製品とは違って、SQLのバックエンドを使わない。ネイティブなグラフデータベースとして完全に設計された製品で、数十万以上に及ぶリレーションを返すクエリなどの大規模なグラフ構造にも対応できる。</p>
+
+<p>　Neo4jには、無償のオープンソース版と、有償のエンタープライズ版の両方がある。エンタープライズ版は、データセットのサイズが無制限であるなど、オープンソース版にはない機能や特徴を備えている。このほか、サンプルのデータセットを使ってNeo4jをネット上で試用できる「<a href="https://neo4j.com/sandbox-v2/" target="_blank">Neo4j Sandbox</a>」もある。</p>
+
+<p>　Neo4jについては、InfoWorldの<a href="https://www.infoworld.com/article/3256064/database/review-neo4j-graph-database-supercharges-graph-analytics.html" target="_blank">こちらのレビュー記事</a>も参考にしてほしい。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300003/?ST=cio-appli&P=2">MicrosoftAzureCosmosDB米M...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300003/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300003/?ST=cio-appli&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300003/?ST=cio-appli&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300003/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Fri, 13 Apr 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
