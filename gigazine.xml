@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>Uberの新アプリはドライバーに稼げるエリアを指南する</title>
-			<link>https://gigazine.net/news/20180411-uber-driver-app-teach-better-area/</link>
-			<description><![CDATA[<p>ドライバーの待遇改善に取り組んでいる配車サービスのUberが、新たにドライバーの稼ぎをアップさせる機能をアプリに盛り込むことを発表しました。新アプリではドライバーは「稼げるエリア」を指南してもらえます。<p><b><a href="https://gigazine.net/news/20180411&#45;uber&#45;driver&#45;app&#45;teach&#45;better&#45;area/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Wed, 11 Apr 2018 10:38:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Windows Updateで「ブラウザで特定サイトを開くだけでシステムをハック可能」なMicrosoft Graphicsの脆弱性など修正</title>
 			<link>https://gigazine.net/news/20180411-microsoft-graphics-vulnerabilities/</link>
 			<description><![CDATA[<p>2018年4月10日にWindows Updateで定例のセキュリティリリースが行われました。このうち、Microsoft Graphicsのフォント埋め込みに関する脆弱性は、ウェブサイトにアクセスするだけで攻撃者がシステムをハックすることが可能という危険度の高いものです。<p><b><a href="https://gigazine.net/news/20180411&#45;microsoft&#45;graphics&#45;vulnerabilities/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180412-github-10th-anniversary/</link>
 			<description><![CDATA[<p>ソフトウェア開発プロジェクトをGitで管理・公開する共有ウェブサービスのGitHubが、生誕10周年を迎えました。ソフトウェアのリポジトリとして不動の地位を築いたGitHubのこれまでの歩みをGitHub自身が振り返っています。<p><b><a href="https://gigazine.net/news/20180412&#45;github&#45;10th&#45;anniversary/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Thu, 12 Apr 2018 16:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>サイレンは第三者によって簡単にジャックされる脆弱性があるとセキュリティ研究者が指摘</title>
+			<link>https://gigazine.net/news/20180412-siren-jack/</link>
+			<description><![CDATA[<p>サイレンは、地震や洪水などの自然災害はもちろん、テロなどの緊急事態の発生と避難経路の指示を行うために世界中で広く使用されています。しかし、誤報などが発生すると、パニックを引き起こしたり、被害の拡大につながったりする可能性があります。セキュリティ研究者によると、一部のサイレンには、ハッカーが遠隔から簡単に操作できてしまう脆弱性が存在しているとのことです。<p><b><a href="https://gigazine.net/news/20180412&#45;siren&#45;jack/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Thu, 12 Apr 2018 17:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
