@@ -5,12 +5,6 @@
 		<link>http://gigazine.net/</link>
 		<description>日々のあらゆる雑談に役立つネタを提供するIT系ニュースサイト。起きている限りほぼ毎日更新中。</description>
 		<item>
-			<title>自分のFacebookの過去データを分析したらシャイで孤独、でも人柄が変わって社交的になった自分が見えてきた</title>
-			<link>https://gigazine.net/news/20180413-analyze-facebook-data/</link>
-			<description><![CDATA[<p>Facebookでは、自分に関連する全てのFacebook上のデータを一括してダウンロードする事ができます。このデータには過去の投稿や「いいね」の記録、そしてメッセンジャーでやり取りした過去の履歴などが含まれており、Facebook上の活動のほぼ全てが網羅されています。ある人物が自分のデータをダウンロードして自作のスクリプトで解析したところ、過去数年間の自分の行動パターンの変化が見られたそうです。<p><b><a href="https://gigazine.net/news/20180413&#45;analyze&#45;facebook&#45;data/">続きを読む...</a></b></p></p>]]></description>
-			<pubDate>Fri, 13 Apr 2018 07:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>バットマンやスーパーマンだけじゃないアメコミの世界を支える伝説の漫画家</title>
 			<link>https://gigazine.net/news/20180413-legendary-cartoonist-changing-comics/</link>
 			<description><![CDATA[<p>アメリカン・コミックス(アメコミ)と言えば、スーパーマンやバットマン、スパイダーマン、アイアンマンなどのハリウッド映画化され世界中に熱狂的なファンを抱える作品を思い浮かべますが、全てのアメコミが超常的な能力を持ったスーパーヒーローによる勧善懲悪ものとは限りません。そんなスーパーヒーローものではなく、よりリアルな人間の日常を描くアメコミ作者が「伝説の漫画家」としてGreat Big Storyで紹介されています。<p><b><a href="https://gigazine.net/news/20180413&#45;legendary&#45;cartoonist&#45;changing&#45;comics/">続きを読む...</a></b></p></p>]]></description>
@@ -183,6 +177,12 @@
 			<link>https://gigazine.net/news/20180414-vrillon/</link>
 			<description><![CDATA[<p>テレビの回線をハッキングして乗っ取る「電波ジャック」という言葉は、地上デジタルテレビ放送が完全実施となってから聞くことがまるでなくなりました。電波ジャック事例としてはアメリカのシカゴで起きたマックス・ヘッドルーム事件が有名ですが、南東イングランドで発生したVrillonのメッセージもまた、事件から40年たった今でも謎に包まれています。<p><b><a href="https://gigazine.net/news/20180414&#45;vrillon/">続きを読む...</a></b></p></p>]]></description>
 			<pubDate>Sat, 14 Apr 2018 22:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ブラウザから機械語を実行できるWebAssembly用のオンライン開発環境「WebAssembly Studio」を使ってみた</title>
+			<link>https://gigazine.net/news/20180414-webassembly-studio/</link>
+			<description><![CDATA[<p>「WebAssembly」は、C言語などで書かれたソースコードをコンパイルして生成されていて高速に処理できる機械語をブラウザで実行できるようにする技術です。Firefoxを開発するMozillaは2018年4月11日、そのWebAssemblyを簡単に開発できるようにするオンライン開発環境「WebAssembly Studio」を公開しました。<p><b><a href="https://gigazine.net/news/20180414&#45;webassembly&#45;studio/">続きを読む...</a></b></p></p>]]></description>
+			<pubDate>Sat, 14 Apr 2018 23:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
