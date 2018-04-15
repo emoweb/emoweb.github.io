@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>「医用画像診断にAIを本格展開」、シーメンス</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/327441/040600493/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><p>　シーメンスヘルスケアは2018年4月5日、報道機関向け説明会を東京都内で開催し、事業戦略や「2018国際医用画像総合展（ITEM 2018）」（2018年4月13～15日）への出展について説明した。登壇した同社代表取締役社長兼CEOの森秀顕氏は、撮影条件の最適化や読影支援など、医用画像診断の幅広い領域に人工知能（AI）を活用する方針を明らかにした。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/040600493/?SS=imgview_ndh&amp;FD=-955886575" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/040600493/s1.jpg?__scale=w:500,h:375&amp;_sh=03609208a0" width="500" height="375" alt=""></a></div><div>シーメンスヘルスケア代表取締役社長兼CEOの森秀顕氏</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　同社はプレシジョン・メディシン（個別化医療）の拡充、医療サービス提供の変革、患者満足度の向上を重点テーマに掲げ、これらすべてにまたがって医療のデジタル化を推し進める。そのデジタル化戦略の柱に位置づけたのがAI活用であり、大きく4つの対象領域を想定している。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/040600493/?SS=imgview_ndh&amp;FD=-954963054" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/040600493/s2.jpg?__scale=w:500,h:375&amp;_sh=0a40df03c0" width="500" height="375" alt=""></a></div><div>AIを幅広い領域で活用する</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　第1に「画像診断装置自体（の性能）を良くする」（森氏）ような使い方。撮影条件や画像再構成処理の最適化、操作の自動化などにAIを使い、より簡便なワークフローで品質の高い画像が得られるようにする。</p><p>　第2に、撮影画像から異常陰影などを指摘して読影を補助する画像診断支援。「ディープラーニング（深層学習）を使えば読影医をしのぐ正確さで診断できる可能性があり、既に各疾患においてAIによる読影のアルゴリズム自体はできつつある。海外では医療機関と共同で臨床研究を行っており、日本でも研究レベルでは医療機関との取り組みを始めるところだ」と森氏は説明する。</p><p>　第3に、患者それぞれの病態などに応じた個別化医療への応用。「仮想空間上に患者のデジタルツインをつくり、体全体の状態を解析して、どのような検査や治療が必要かをAIがサポートして判断する」（森氏）ような使い方である。そして第4に、患者集団を対象にしたポピュレーションヘルスマネジメントへの応用。</p><p>　森氏は「シーメンスはハードウエアの会社と見られがちだが、（AIなどの）ソフトウエアでも長い歴史がある」とし、AIを活用した製品・サービスを既に30品目以上販売していることや、機械学習や深層学習に関して多数の特許を取得済みであることをアピールした。国内外で「臨床側との協業を進め、我々のAI技術を鍛えあげていきたい」（森氏）とする。</p></div><div><div><span>1</span></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/040600493/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/040600493/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
-			<pubDate>Mon, 09 Apr 2018 16:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>東北大、ディープラーニングで乳がんエコーの腫瘤識別</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/040910983/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　東北大学大学院 医学系研究科は、ディープラーニングを用いて乳房エコー検査（乳腺超音波検査）画像内の腫瘤を識別することを目的とした研究を開始した。ディープラーニングによる自動診断が実用化すれば、画像診断の際の医師の負担軽減、偽陽性による無用な侵襲的検査や患者の心理的負担の回避などが可能になるとする。</p><p>　今回の研究は、研究科医学統計学分野 教授の山口拓洋氏らの研究グループが取り組む。画像を認識して高い精度で分類・推論できるディープラーニング手法、CNN（Convolutional Neural Network）に注目。対象の識別に有効な特徴量を学習によって自動的に獲得するディープラーニング技術を、多様な特徴を示す乳がんの病変に応用する。</p><p>　研究グループは、CNNの実装が可能なSAS Institute Japanの「SAS Viya」を採用し、乳房エコー検査画像を基にディープラーニングで乳がんを自動診断するシステムを作成。その精度および有用性について検討し、実用化を目指す。</p><p>　現在、乳がんの早期発見に向けた対策として、マンモグラフィー検査と合わせた乳房エコー検査が普及しつつあるが、エコー画像の読影が技師や医師の主観や経験に依存しがちな点や、読影による負担の増加が課題となっている。乳がんの主要な画像所見である腫瘤は、その形状や特徴が多種多様で良性と悪性の判別が難しい場合も多く、より正確に判定できる技術が求められている。</p></div>]]></description>
@@ -243,6 +237,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/column/15/101800135/040900017/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Mon, 16 Apr 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>科学的介護</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/word/15/327920/041100055/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　自立支援や重症化予防などの効果が科学的に裏付けられた介護のこと。Aという状態の人には、Bという介入が効果的だというエビデンスを構築することで、利用者の状態に合わせた介護サービスを提供することを目的としている。「未来投資戦略2017」では、科学的介護に関して、2019年度に試行運用を行い、2020年度には本格運用開始を目指すとしている。</p><p>　科学的介護を実現するには、データを活用したエビデンスを構築することが必要になる。厚生労働省と経済産業省は、2018年度からデータベースの構築を開始し、自立支援や重症化予防に関する分析を進めたい考えである。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/word/15/327920/041100055/?SS=imgview_ndh&amp;FD=1420927604" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/word/15/327920/041100055/01.jpg?__scale=w:500,h:343&amp;_sh=0230930450" width="500" height="343" alt=""></a></div><div>科学的介護実現のためのプロセス（出所：未来投資会議 構造改革徹底推進会合 「健康・医療・介護」会合）</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　具体的には、診療情報や既往歴などの医療データと、身体機能やどういう介入をしたかなどの介護データを収集する。収集したデータは、国立長寿医療研究センターなどの研究機関で、介護サービスが利用者の状態にどういう効果を与えたかを分析する。</p><p>　厚生労働省は、高齢者の状態や介入に関するデータベース「CHASE（Care, Health Status &amp; Events）」を新たに構築する方針である。データの収集経路や収集内容については現在検討を進めているという。このほか、要介護認定情報や介護保険レセプト情報が格納されている「介護保険総合データベース」と、通所介護や訪問介護でのリハビリテーションの計画書などのデータ「VISIT（monitoring &amp; eValuation for rehabIlitatiob ServIces for long-Term care）」も活用する方針である。</p></div>]]></description>
+			<pubDate>Mon, 16 Apr 2018 07:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
