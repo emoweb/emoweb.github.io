@@ -11,41 +11,6 @@
 			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Googleアシスタント、米国で個人間送金が可能に（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/032600483/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Googleは、「Googleアシスタント」を通じて小売業者が商品を販売できるようにする新プログラム「Shopping Actions」を現地時間2018年3月19日に発表した。米Amazon.comの牙城を切り崩すことを狙った一手と見られる。それから数日がたち、今度は米Venmoを標的とする新たな動きがあった。Googleアシスタントを使った個人間送金の対応だ。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/032600483/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Google</div>
-</div>
-<p>
-　米国では3月22日から、iPhoneやAndroidスマートフォンのGoogleアシスタントで、連絡先に登録している人への送金を音声コマンドで指示できるようになった。この機能を使うには、即日配達サービス「Google Express」と同様に、決済サービス「Google Pay」のインストールとセットアップを済ませておく必要がある。Google PayアプリかGoogleアシスタントの指示に従ってセットアップを進めればよい。それさえ済めば、「OK Google、Bradに夕食代として100ドル送金して」といった指示を英語で出すだけで、希望の額を送金できる。
-</p>
-<p>
-　Googleによると、「Google Home」をはじめ、Googleアシスタント対応のスマートスピーカーでも、今後数カ月のうちにこの機能を使えるようになる見通しだ。しかし、その実現はしばらく先になる可能性も考えられる。思い返してみると、Googleは2017年5月、Googleアカウントを使った便利な支払い機能を実現するGoogle Payment APIを開発者に向けてリリースした頃に、Googleアシスタントにも間もなく対応すると説明していた。今回の動きはその話の実現と見られるが、何カ月も遅れたことになる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/032600483/?ST=cm-network&P=2">こうした機能に関して、子供の誤操作で銀行の口座残高がなくなるので...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/032600483/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/032600483/?ST=cm-network&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/032600483/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 26 Mar 2018 11:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>スマートグラスが続々登場、職場利用がもたらす課題は（前）（スマートグラスが続々登場、職場利用がもたらす課題は）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/032200123/032200001/</link>
 			<description><![CDATA[<div>
@@ -1172,6 +1137,45 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 16 Apr 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>macOS、32ビットアプリの警告表示を開始、サポート終了に一歩近づく（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041600493/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Appleは、「Mac」のテクノロジーを32ビットから64ビットに移行する作業をしばらく前から進めていたが、これまでの取り組みはApple自身や開発者を対象としたもので、一般ユーザーには特に影響はなかった。だが、これからは違う。「macOS High Sierra 10.13.4」で、従来の32ビットアプリを使う時に、ユーザーに向けて警告メッセージが表示されるようになるからだ。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041600493/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: IDG</div>
+</div>
+<p>
+　この警告メッセージは、アプリの動作が最適なものではない可能性をユーザーに伝え、そのアプリのアップデートが公開されているか確認するよう促すためのものだ。Appleは、iOSで32ビットから64ビットへの移行を進めた時も、似たような警告を表示していた。
+</p>
+<p>
+　今回始まった警告メッセージは、32ビットアプリを起動したタイミングでのみ表示される。詳細情報のボタンをクリックすると、32ビットから64ビットへの移行について説明したAppleのサポートページの<a href="https://support.apple.com/ja-jp/HT208436" target="_blank">記事</a>が開く。
+</p>
+<p>
+　この警告メッセージは、macOS 10.13.4のアップデートに含まれているもので、2018年4月12日に発動する。10.13.4をまだインストールしていない場合、Macをアップデートした時点から表示されるようになる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041600493/?ST=cm-software&P=2">この警告に対して必要な措置は</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041600493/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041600493/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041600493/?ST=cm-software&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041600493/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 16 Apr 2018 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
