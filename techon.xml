@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>東北大、ディープラーニングで乳がんエコーの腫瘤識別</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/040910983/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><p>　東北大学大学院 医学系研究科は、ディープラーニングを用いて乳房エコー検査（乳腺超音波検査）画像内の腫瘤を識別することを目的とした研究を開始した。ディープラーニングによる自動診断が実用化すれば、画像診断の際の医師の負担軽減、偽陽性による無用な侵襲的検査や患者の心理的負担の回避などが可能になるとする。</p><p>　今回の研究は、研究科医学統計学分野 教授の山口拓洋氏らの研究グループが取り組む。画像を認識して高い精度で分類・推論できるディープラーニング手法、CNN（Convolutional Neural Network）に注目。対象の識別に有効な特徴量を学習によって自動的に獲得するディープラーニング技術を、多様な特徴を示す乳がんの病変に応用する。</p><p>　研究グループは、CNNの実装が可能なSAS Institute Japanの「SAS Viya」を採用し、乳房エコー検査画像を基にディープラーニングで乳がんを自動診断するシステムを作成。その精度および有用性について検討し、実用化を目指す。</p><p>　現在、乳がんの早期発見に向けた対策として、マンモグラフィー検査と合わせた乳房エコー検査が普及しつつあるが、エコー画像の読影が技師や医師の主観や経験に依存しがちな点や、読影による負担の増加が課題となっている。乳がんの主要な画像所見である腫瘤は、その形状や特徴が多種多様で良性と悪性の判別が難しい場合も多く、より正確に判定できる技術が求められている。</p></div>]]></description>
-			<pubDate>Mon, 09 Apr 2018 18:45:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>延岡市に咲いた「パネルの花」、「見て楽しい」メガソーラー</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/302960/040900137/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -243,6 +237,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/word/15/327920/041100055/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　自立支援や重症化予防などの効果が科学的に裏付けられた介護のこと。Aという状態の人には、Bという介入が効果的だというエビデンスを構築することで、利用者の状態に合わせた介護サービスを提供することを目的としている。「未来投資戦略2017」では、科学的介護に関して、2019年度に試行運用を行い、2020年度には本格運用開始を目指すとしている。</p><p>　科学的介護を実現するには、データを活用したエビデンスを構築することが必要になる。厚生労働省と経済産業省は、2018年度からデータベースの構築を開始し、自立支援や重症化予防に関する分析を進めたい考えである。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/word/15/327920/041100055/?SS=imgview_ndh&amp;FD=1420927604" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/word/15/327920/041100055/01.jpg?__scale=w:500,h:343&amp;_sh=0230930450" width="500" height="343" alt=""></a></div><div>科学的介護実現のためのプロセス（出所：未来投資会議 構造改革徹底推進会合 「健康・医療・介護」会合）</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　具体的には、診療情報や既往歴などの医療データと、身体機能やどういう介入をしたかなどの介護データを収集する。収集したデータは、国立長寿医療研究センターなどの研究機関で、介護サービスが利用者の状態にどういう効果を与えたかを分析する。</p><p>　厚生労働省は、高齢者の状態や介入に関するデータベース「CHASE（Care, Health Status &amp; Events）」を新たに構築する方針である。データの収集経路や収集内容については現在検討を進めているという。このほか、要介護認定情報や介護保険レセプト情報が格納されている「介護保険総合データベース」と、通所介護や訪問介護でのリハビリテーションの計画書などのデータ「VISIT（monitoring &amp; eValuation for rehabIlitatiob ServIces for long-Term care）」も活用する方針である。</p></div>]]></description>
 			<pubDate>Mon, 16 Apr 2018 07:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>2018年度同時改定、「介護ロボット」はどう評価されたのか</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/column/15/100800132/041300004/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　2018年4月、いよいよ診療報酬と介護報酬の同時改定が実施された。今回は、この同時改定における介護ロボットの活用シーンについて掘り下げていきたい。</p><p>　政府の未来投資会議の資料では、「ロボット介護機器の開発重点分野」が開示されている。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/100800132/041300004/?SS=imgview_ndh&amp;FD=-1099032330" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/column/15/100800132/041300004/n1.jpg?__scale=w:500,h:338&amp;_sh=0d5050de06" width="500" height="338" alt=""></a></div><div>ロボット介護機器の開発重点分野（図：「未来投資会議」の資料から）</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　その範囲は、移乗支援や移動支援、排泄支援、見守り、コミュニケーション、入浴支援、生活支援、動作支援、介護業務支援など多岐に渡る。さまざまなシーンの支援に向けた技術が、重点分野とされているのである。</p><p>　今回の同時改正においては、この中の「見守り」に特化した「見守り機器」だけが評価された形となった。具体的には、見守り機器を導入した場合には、特別養護老人ホーム等の夜勤について、夜間職員配置加算の要件が「最低基準＋1名」から「最低基準＋0.9名」に緩和される形となった。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/100800132/041300004/?SS=imgview_ndh&amp;FD=-1098108809" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/column/15/100800132/041300004/n2.jpg?__scale=w:500,h:250&amp;_sh=04b01b0cc0" width="500" height="250" alt=""></a></div><div>今回の同時改定における介護ロボットの評価（図：厚生労働省の資料から）</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　見守り機器の導入費用を鑑みると、コストが見合うかどうかは難しい部分があるかもしれない。しかし、夜勤職員のストレス緩和の側面については効果が大きいと思う。やはり、夜勤中に全て人手で見守りを行っている現状より、見守り機器によって人が動かなくとも状況が見える化される事は、大きな負担軽減につながるはずだ。<br></p></div><div><div><span>1</span></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/100800132/041300004/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/100800132/041300004/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
+			<pubDate>Mon, 16 Apr 2018 09:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
