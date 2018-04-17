@@ -5,50 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d17</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>世界のIoTセキュリティ支出、2018年は約15億ドルに、Gartner予測（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/032700417/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Gartnerが2018年3月に発表した調査レポートによると、IoT市場が全体として存在感を高める中で、IoTセキュリティ製品の市場は急成長の態勢にさしかかっている。IoTセキュリティへのニーズが増しているのは数多くの要因によるものだが、中でも特に切迫しているのは、法令遵守が間もなく争点になるという認識の高まりだ。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032700417/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　このレポートでは、IoTの導入に関してGartnerが実施した調査を踏まえて、IoTプロジェクトの成功を妨げる最大の障壁はセキュリティだとしている。この問題に関する大きな要素の1つとしてレポートが言及しているのは、IoTプロジェクトの各レベルでどのデバイスとソフトウエアを使用するかを、企業が完全には制御できないことが多いという点だ。
-</p>
-<p>
-　そこで企業は、自社のネットワークに関して、これまでに課せられていたよりもはるかに綿密な可視化が必要である。そう話すのは、GartnerのRuggero Contuリサーチディレクターだ。
-</p>
-<p>
-　同氏はプレスリリースの中で次のような見通しを示している。「探索やアセット管理、ソフトウエアとハードウエアのセキュリティ評価、ペネトレーションテストを強化することを狙いとしたツールとサービスへのニーズが高まると予想する。加えて、ネットワーク接続を外部化することの影響について、企業が理解を深めようとするものと考えられる」
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032700417/?ST=cio-security&P=2">Gartnerがこのレポートで示した予測によると...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032700417/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032700417/?ST=cio-security&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032700417/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Tue, 27 Mar 2018 11:30:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n17</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>職場のハラスメント対策、職場環境を見直す時のポイントは（中）（職場のハラスメント対策、職場環境を見直す時のポイントは）</title>
@@ -1168,6 +1128,47 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 17 Apr 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Googleスプレッドシート、マクロの記録が可能に（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/041700425/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Googleは、「Googleスプレッドシート」で操作をマクロとして記録できる機能をリリースした。定型的な作業を自動化して、同じ作業の繰り返しにかかる時間と労力を軽減できる。この新機能は、より多くのビジネスユーザーに向けて「G Suite」の魅力を高める策の1つだ。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041700425/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Preston Gralla / IDG</div>
+</div>
+<p>
+　マクロ記録機能を使うと、自分でコードを記述することなく、Googleスプレッドシート上で行う操作を記録して、同じ操作を自動処理で再現できる。記録したマクロは、JavaScriptベースのGoogleのスクリプト言語「Apps Script」のコードに自動で変換される。処理内容に変更を加えたい場合は、記録済みのコードを直接編集できるので、マクロを最初から記録し直す必要はない。
+</p>
+<p>
+　また、Apps Scriptで自作した関数を新しいマクロとしてインポートすることもできる。
+</p>
+<p>
+　GoogleでG Suite担当プロダクトマネージャーを務めるRyan Weber氏は、2018年4月11日の公式ブログ記事で次のように表明している。「当社は、マクロへのアプローチを変えることで、企業の業務自動化を支援したいと考えている。すなわち、クラウドファーストというアプローチだ」
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041700425/?ST=cio-appli&P=2">Googleスプレッドシートのマクロは、クラウド...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041700425/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041700425/?ST=cio-appli&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041700425/?ST=cio-appli&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041700425/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 17 Apr 2018 10:23:23 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
