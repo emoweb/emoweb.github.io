@@ -5,47 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n19</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>豪上院、強力な暗号化の堅持を求める動議を可決（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/032900419/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　オーストラリア上院で現地時間2018年3月27日、オーストラリア緑の党のJordon Steele-John上院議員が提出した動議を可決した。この動議では、強力な暗号化技術の使用を支持することや、個人用デバイスの暗号化を弱体化するよう迫る他国政府からのいかなる圧力にも屈しないことを豪政府に求めている。
-</p>
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032900419/top.jpg" width="320" alt="" title=""></div></div>
-<p>
-　また、豪政府と法執行機関が協力し、令状を通じて、あるいは、全オーストラリア人のID盗難のリスクを高めることがない対象限定の監視を通じて、情報を取得する代替手段を確立するよう要求している。
-</p>
-<p>
-　豪政府は、暗号化されたやりとりの内容に法執行機関がアクセスできる権限を強化する法案が完成に近づきつつあることを明らかにしていた。
-</p>
-<p>
-　この法律は、暗号化の復号に関して政府機関に協力するようオーストラリア企業に義務づけるものになると予想されるが、詳細については不明だ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032900419/?ST=cio-security&P=2">エンドツーエンドの暗号化サービスは、設計や実装に...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032900419/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032900419/?ST=cio-security&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032900419/?ST=cio-security&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/032900419/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Thu, 29 Mar 2018 11:30:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d19</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>職場のハラスメント対策、職場環境を見直す時のポイントは（下）（職場のハラスメント対策、職場環境を見直す時のポイントは）</title>
@@ -1133,6 +1096,41 @@
 			<description><![CDATA[　先週、中国の広州と昆明を旅した。驚いたのは、個人所有の自転車がほとんどなくなり、街中にシェアバイクが走っていたことだ。自動車のライドシェア（相乗り）も進む。IT、省エネ、排ガス規制に向けた政府の意思の強さを感じた。
 ]]></description>
 			<pubDate>Thu, 19 Apr 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>アプリ構築の時短を後押しするローコード開発とは（後）（アプリ構築の時短を後押しするローコード開発とは）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/041000129/041000002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　企業各社は、デジタル時代の中で競争力を高めるべく、従来のソフトウエア開発手法に代えてアジャイルやDevOpsを取り入れつつあり、短いサイクルでソフトウエアの開発や継続的更新を進められるようにしている。しかし、アプリケーション開発の高速化を後押しするために最高情報責任者（CIO）が使える選択肢はほかにも数多くある。その1つが「ローコード開発（low-code development）」だ。名前が示すとおり、最小限のコーディングでアプリケーションを開発できる。</p>
+
+<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/041000129/041000001/" target="_blank">前回</a>から続く）</p>
+
+<h4>保険会社のサービス向上</h4>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041000129/041000002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　生命保険会社John Hancockのバイスプレジデントでテクノロジー統括責任者のLen van Greuning氏によると、同社のITチームは、複数のシステムで扱っていた顧客データを統合して、マスターデータ管理の大規模なクリーンアップを行いやすくしたうえで、運用を米Salesforce.comに移行した。さらに、ローコード開発の活用を開始し、デジタルトランスフォーメーションに顧客中心主義を取り入れた。</p>
+
+<p>　van Greuning氏は、データとサイバーセキュリティに関して、プラットフォームで定義済みのモデルを利用して、開発者ではない人が環境を構成できるようにしながら、できるだけ標準の状態を維持している。例えば、同社のコールセンターで利用している画面のワークフローでは、Salsforce.comの顧客データをスタッフが簡単に取り込んでアクセスできる。また、顧客が保険金請求書をスキャンしてSalesforce.comにアップロードできるようなデジタルサービスも開発し、以前は顧客が受領書をFAXで送る必要があった部分を自動化した。</p>
+
+<p>　ローコード開発の手法を使うことにより、事業部門が利用したい新規アプリケーションを開発者が迅速にまとめ上げてプロトタイピングすることも可能だとvan Greuning氏は言う。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041000129/041000002/?ST=cm-software&P=2">イベントの入退場管理</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041000129/041000002/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041000129/041000002/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041000129/041000002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 19 Apr 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
