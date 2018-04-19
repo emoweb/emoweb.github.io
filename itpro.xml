@@ -11,41 +11,6 @@
 			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>職場のハラスメント対策、職場環境を見直す時のポイントは（下）（職場のハラスメント対策、職場環境を見直す時のポイントは）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/032200122/032200003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　この記事では、前向きで実りある職場環境を構築するためにどうすればよいかを見ていくことにしよう。手を打たなければ、手順のあいまいさや有害な職場文化が原因で、貴重な人材を失うことになりかねない。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/032200122/032200002/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200122/032200003/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　いざという時には、研修で学んだことに立ち返って、内容を思い出せると思うかもしれないが、必ずしもそうとは限らないとMercer氏は言う。「その瞬間に、ストレス、プレッシャー、感情刺激が生じ、『一体何が起きている？どうしよう？どう反応する？何が想定できる？今度は何？』といった反応で頭が一杯になり、従来型の研修や学習で得たことは完全に吹っ飛ぶ」</p>
-
-<p>　傍観者介入トレーニングは、必ずしもVRを取り入れていなくても効果はある。社内でマイクロアグレッションやハラスメントを目撃した時に備えて、それをした人への声がけに使えるシンプルな言い回しを学んで練習すればよいとPolefrone氏は言う。</p>
-
-<p>　「我々が強調しているのは、何かが起きているのを目撃した時には、何らかの言葉をかけるということだ。他人の味方になる必要がある。これは思うほど難しくはない。我々は、シンプルな言い回しで声をかける練習を実際にしている。我々が特に気に入っている言い回しの1つは、『尊重し合う職場だということを忘れてませんか？』というものだ」</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200122/032200003/?ST=cio-management&P=2">抜本的対策をいとわない</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200122/032200003/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200122/032200003/?ST=cio-management&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032200122/032200003/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Fri, 30 Mar 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>カナダの高齢者施設、認知症への対応にIoTを活用（Computerworldニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/033000486/</link>
 			<description><![CDATA[<div>
@@ -1131,6 +1096,68 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 19 Apr 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>GoogleのAIデバイス自作キット、ラズパイ同梱の新版が登場（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/041900426/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Googleは現地時間2018年4月16日、人工知能（AI）を利用したデバイス開発を促進する「AIYプロジェクト」の一環として昨年リリースしたAIデバイス自作キットの新バージョンを発売したことを明らかにした。同キットは、Googleアシスタントに対応したスマートスピーカーの開発を隅々まで学べる素晴らしいキットではあったが、「Raspberry Pi」が別途必要という注意書きが欠かせなかった。新バージョンは、開発に必要な要素が最初から一通りそろっている。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041900426/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Google</div>
+</div>
+<p>
+　従来のバージョンと同じく、キットは2種類ある。スマートスピーカー自作キット「Voice Kit」と、画像認識カメラ自作キット「Vision Kit」だ。それぞれ、「Raspberry Pi Zero WH」、microUSBケーブルやソフトウエア入りSDカードのほか、デバイスを組み立てて動かすために必要となる次のような部材一式がパッケージに入っている。
+</p>
+<p>Voice Kit：</p>
+<ul>
+<li>スピーカー
+</li>
+<li>Voice Bonnet（ボード）
+</li>
+<li>押しボタン
+</li>
+<li>機械部品
+</li>
+<li>ボタンケーブル
+</li>
+</ul>
+<p>Vision Kit：</p>
+<ul>
+<li>Raspberry Pi Camera
+</li>
+<li>Vision Bonnet（ボード）
+</li>
+<li>押しボタン
+</li>
+<li>電子部品
+</li>
+<li>ボタンケーブル
+</li>
+<li>フラットケーブル
+</li>
+</ul>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041900426/?ST=cio-consumerit&P=2">VoiceKitでは音声操作が可能なAIスピーカ...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041900426/?ST=cio-consumerit&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041900426/?ST=cio-consumerit&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041900426/?ST=cio-consumerit&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Thu, 19 Apr 2018 10:40:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
