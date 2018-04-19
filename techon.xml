@@ -244,5 +244,11 @@
 			<description><![CDATA[<div id="kiji"><p>　キヤノンメディカルシステムズは、人工知能（AI）の手法を採り入れたCT再構成技術「AiCE（Advanced Intelligent Clear-IQ Engine）」を開発し、X線CT装置の上位機種「Aquilion Precision」に搭載。世界に先駆け、2018年4月に日本で販売を開始する。被曝量低減や再構成時間短縮につながる技術で、AIに基づくCT再構成技術を実用化するのは業界初という。「2018 国際医用画像総合展（ITEM 2018）」に出展した。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/event/15/041100166/041900009/?SS=imgview_ndh&amp;FD=-1413952991" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/event/15/041100166/041900009/c1.jpg?__scale=w:500,h:375&amp;_sh=0790f90ab0" width="500" height="375" alt=""></a></div><div>再構成技術に深層学習を活用</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　AiCEは、深層学習（Deep Convolutional Neural Network：DCNN）を用いて、CT画像中の信号成分と雑音成分を識別できるようにした再構成技術。分解能を落とさず、雑音成分を選択的に除去できる特徴がある。これにより、従来に比べて低線量で高品質画像が得られる。例えば同社の従来のCT再構成技術「AIDR 3D（Adaptive Iterative Dose Reduction 3D）」に比べると、撮影時の被曝量を30％以上低減できる可能性があるという。</p><p>　繰り返し演算の結果などを組み込んでいるため、再構成処理に要する時間も短縮できる。撮影条件にもよるが、「FIRST（Forward projected model-based Iterative Reconstruction SoluTion）」と呼ぶ同社の再構成技術では約20分を要していた処理を、AiCEでは約3分に短縮できる。</p><p>　AiCEの開発に当たっては、比較的高い線量で撮影しFIRSTで処理して得た高品質画像を、学習用画像（教師画像）として利用。低線量で撮影した低品質画像から雑音成分を除去し、学習用画像に近い高品質画像が得られるような処理をDCNNに学習させた。</p><p>　Aquilion Precisionは0.25mmスライスで撮影できる高精細X線CT装置で、ハードウエアを変更せず今回の再構成技術を搭載できる（<a href="http://tech.nikkeibp.co.jp/dm/atcl/event/15/040600114/041500006/" target="_blank">関連記事</a>）。現状では腹部撮影がAiCEによる処理の対象だが、今後は胸部撮影などにも適用を広げたい考え。</p></div>]]></description>
 			<pubDate>Thu, 19 Apr 2018 14:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>愛知県、再エネで製造した「低炭素水素」を認証へ</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/041911027/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Thu, 19 Apr 2018 16:02:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
