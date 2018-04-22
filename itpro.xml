@@ -5,52 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n23</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>EU機関、5G導入をめぐりセキュリティに注意喚起（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/040200487/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　欧州連合（EU）の機関であるENISA（European Union Agency for Network and Information Security）は、2018年3月29日に公開した調査レポート「Signalling Security in Telecom SS7/Diameter/5G」の中で、旧来のモバイル通信ネットワークで見られたセキュリティ脆弱性が5Gネットワークにも組み込まれかねないとして注意を促している。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040200487/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: PCWorld</div>
-</div>
-<p>
-　これはIoTにとって悪い知らせかもしれない。IoTでは、セキュリティに不安を抱える膨大な数の機器が、通信の認証や暗号化に対する十分な考慮がないままに、モバイルネットワークに接続しつつある。
-</p>
-<p>
-　今回のレポートが危険性として挙げたのは、2G／3G／4Gで使われていたシグナリングプロトコル「SS7」「Diameter」の既知の脆弱性が、5Gにも組み込まれる恐れがあり、トラフィックの盗聴やスプーフィング、位置情報の傍受などにつながりかねないというものだ。
-</p>
-<p>
-　5Gへの移行で「歴史が繰り返す恐れが確実にある」とレポートは指摘。5Gネットワークはユーザー数や帯域幅が増すことから、危険性も高まるとしている。
-</p>
-<p>
-　2G／3Gネットワークで使われていたSS7プロトコルを利用した攻撃では、SMSで送られるテキストメッセージの傍受や転送が可能だ。友達間のささいな一言を見られるだけならまだしも、それでは済まない。2要素認証にSMSを使っている事業者はたくさんある。SMSで送ったメッセージは携帯電話の所有者本人しか見られないものと想定しているからだ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040200487/?ST=cm-network&P=2">そのような想定は危険をはらんでいる。今回のレポートにもあるように...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040200487/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040200487/?ST=cm-network&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040200487/?ST=cm-network&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040200487/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 02 Apr 2018 11:30:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d23</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ベンダーのセキュリティ評価、契約の前に打つべき手は（前）（ベンダーのセキュリティ評価、契約の前に打つべき手は）</title>
@@ -1148,6 +1106,37 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 20 Apr 2018 10:35:46 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソフトウエア開発者に倫理綱領は必要か（上）（ソフトウエア開発者に倫理綱領は必要か）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/041700130/041700001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　何よりまず、害を与えないこと——医師たちが倫理行動規範に従うことを示すために古くから宣誓してきた「ヒポクラテスの誓い」は、そのようなメッセージが根底にある。配管工、建設作業員、警察官など、一般の人々に影響する仕事に従事する職業人のほとんどは、何らかの倫理行動規範を遵守しなくてはならない。</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041700130/041700001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　だが、ITは顕著な例外だ。IT界にも、組織や企業が個別に定めた行動規範はある。例えば、米国計算機学会（ACM）と米国電気電子学会（IEEE）は、ソフトウエア工学の倫理と専門職実務に関するACM/IEEE-CS合同タスクフォースで綱領を定めている。しかし、業界全体をカバーする包括的な規範はない。米Boston Globe紙の記事でYonatan Zunger氏が指摘しているように、「コンピューター科学の分野は、他の科学分野と違って、専門職が行う仕事に関して甚大な負の影響に直面したことがない」という理由からかもしれない。</p>
+
+<p>　しかし現在、選挙工作を手助けするソフトウエアの開発で英Cambridge Analyticaが果たした役割が明らかになりつつある。こうした事例を踏まえると、潮目は変わろうとしているのかもしれない。コンピューター科学やソフトウエア開発に絡む倫理的な問題はこれまでにも存在したが、今では、その手の問題が増えているばかりか、その規模と影響も拡大しつつあるように思える。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041700130/041700001/?ST=cio-appli&P=2">2015年には、独Volkswagenのエンジニ...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041700130/041700001/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041700130/041700001/?ST=cio-appli&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041700130/041700001/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Mon, 23 Apr 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
