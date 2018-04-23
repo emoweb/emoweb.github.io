@@ -5,28 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    アップル、iPhone分解ロボ「Daisy」を開発。1時間に200台を解体してリサイクル
-</title>
-			<link>https://japanese.engadget.com/2018/04/20/iphone-daisy-1-200/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/521bf25f7317d4a5228c2d1a089470f1/206310807/Image+uploaded+from+iOS.jpg" />
-
-4月22日のアースデイを前に、アップルが新しいリサイクル分解ロボット「Daisy」を公開しました。
-
-いわく、Daisyは「iPhoneの中にある貴重な素材を一段と多く回収するためのもっとも革新的で効率的な方法」。9モデルのiPhoneに対応し、1時間に最大200台のiPhoneを部品に分解し分類する能力を備えます。
- ]]></description>
-			<pubDate>Fri, 20 Apr 2018 04:30:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    「Facebookでログイン」に個人情報が不正取得されるおそれ。トラッカーサイトに転送も
-</title>
-			<link>https://japanese.engadget.com/2018/04/20/facebook/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/7f84ad9edd3fb4e7fc465eb9cd16b239/206310897/fb.jpg" />
-
-Facebookはそのアカウントで他のサイトのサービスを利用できるソーシャルログイン機能を提供しています。ところが、これを利用しているウェブサービスが悪質なJavaScriptをサイトに埋め込んでいる場合、Facebookユーザーデータが不正にトラッキングサイトへ転送される可能性があることがわかりました。
- ]]></description>
-			<pubDate>Fri, 20 Apr 2018 05:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    『メカ・サムライ・エンパイア』書評。枢軸勝利のIF世界を描く人気ロボットSF続編
 </title>
 			<link>https://japanese.engadget.com/2018/04/20/if-sf/</link>
@@ -310,6 +288,32 @@ Engadget TV x Galaxyでお届けする今回の動画は、Galaxyシリーズを
 民間宇宙飛行の企業が登場する時代になっても、ロケットの打ち上げプロセスは氷河の流れのように遅く、ミッションの準備期間は数カ月から数年という長期間に及びます。特別な目的のために打ち上げられるロケットなら、それでもよかったのですが、DARPA（米国防総省国防高等研究事業局）は、ロケット業界はもっと良くできると考えているようです。
  ]]></description>
 			<pubDate>Mon, 23 Apr 2018 09:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    2013年の今日、「dynabook KIRA V832」が発売されました：今日は何の日？
+</title>
+			<link>https://japanese.engadget.com/2018/04/23/2013-dynabook-kira-v832/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/6cf589bf0168d900f3dd233da2df8130/206315498/00.jpg" />
+おもなできごと
+・2003年4月24日、AMDが64bitに対応したサーバー向けCPU「Opteron 240」「同242」（SledgeHammer）を発売
+・2013年4月24日、東芝がWQHD（2560&times;1440ドット）の高精細液晶を搭載した「dynabook KIRA V832/28HS」を発売
+・2014年4月24日、パナソニックが世界初の4K対応ミラーレス一眼「LUMIX DMC-GH4」を発売
+・2015年4月24日、Fitbitが心拍数対応の活動量計「Fitbit Charge HR」を発売
+・2015年4月24日、アップルが初代「Apple Watch」を発売
+・2017年4月24日、ソニーが書き込み299MB/sの高速SDカード「SF-G」シリーズを発売
+ ]]></description>
+			<pubDate>Mon, 23 Apr 2018 16:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    次期macOSは黒基調画面「ダークモード」を搭載か、WebKitのソースコードから示唆
+</title>
+			<link>https://japanese.engadget.com/2018/04/23/macos-webkit/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/30ac380d30e2e205b0a8f660b2b009fb/206315883/macOS.jpeg" />
+次期メジャーアップデートとなるmacOS 10.14にて、OSやアプリのデザインを黒基調とする、いわゆる「ダークモード」が実装される可能性がある、との指摘が報じられています。
+
+これは3月に配布されたWebKitのソースコードの分析から明らかになったこと。ダークモードは既存のmacOS上でも限定的な形で利用できましたが、今回の分析からは、システム全体に拡張される形になると示唆されています。
+ ]]></description>
+			<pubDate>Mon, 23 Apr 2018 17:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
