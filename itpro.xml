@@ -11,37 +11,6 @@
 			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ベンダーのセキュリティ評価、契約の前に打つべき手は（前）（ベンダーのセキュリティ評価、契約の前に打つべき手は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/032700125/032700001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　契約済みの外部ベンダーがもたらすセキュリティリスクを抑えるにはどうすればよいだろうか。米Fannie Mae（連邦住宅抵当公庫）のJerry Archer最高セキュリティ責任者（CSO）は、それを考えている時点で「既に失敗だ」と話す。リスク緩和は契約を結ぶ前の段階から始めなくてはならないというのがArcher氏の見解だ。</p>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032700125/032700001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　そこでFannie Maeでは、利用するすべてのベンダーに関して、セキュリティチームが契約の賛否を意思表示している。対象となるのは、認証技術やAPIゲートウェイのサービスといった、一般にIT部門が管轄する製品やサービスのベンダーだけではない。どの部署がどのツールを導入する場合でも、セキュリティチームの承認が出なければ一切認められない。</p>
-
-<p>　利用するベンダーは計200社以上に及ぶだけに、承認の作業は簡単ではない。Archer氏によると、同社の人事部門を含む各種部門には、ベンダー各社からアプローチがあり、最先端の華麗なツールが披露される。それらを見せられて、「当人たちは、この製品がぜひとも必要だという気になる」。ソフトウエアを利用する側の部門は、セキュリティのことは念頭にない。考えているのは機能だけだ。これがないと成功はおぼつかないとIT部門に話してくる。「我々は全員、それは必ずしも本当ではないと心の中では分かっている。だが、本人たちは心情的にも、社内力学的にも、その製品から離れられなくなっている。それが現実だ」とArcher氏は言う。</p>
-
-<p>　こうなると、制御できないセキュリティリスクが必然的に生じる。最初の1日目から意思決定に関与しておかないと、購入への勢いが勝り、セキュリティチームにはダメージコントロールが託されることになる。「セキュリティチームとして、そのベンダーに関する問題の解決やプロセスの中断を直ちに行えるよう、先手を打つ方法を見つける必要がある。心情が作用してきて既成事実化しないうちに対処することが必要だ」</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032700125/032700001/?ST=cm-network&P=2">セキュリティ調査の先頭に立つ</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032700125/032700001/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032700125/032700001/?ST=cm-network&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032700125/032700001/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 03 Apr 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>NVIDIA、自動運転車開発のシミュレーションシステムを発表（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/040300420/</link>
 			<description><![CDATA[<div>
@@ -1137,6 +1106,43 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 23 Apr 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>9月に登場予定のJava 11、新たな機能となくなる機能は（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042300496/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　Java SE（Java Platform, Standard Edition）の開発キットは、2018年3月に「JDK 10」が登場したばかりだが、次の「JDK 11」もすぐそこだ。米Oracleが新たに採用した6カ月ごとのリリースサイクルに従って、JDK 11は2018年9月のリリースを目指している。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042300496/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: napoliroma</div>
+</div>
+<p>
+　JDK 11で予定されている新機能は、現時点で4つ発表されており、ほかにも検討中の機能がある。またJDK 11では、CORBAとJava EE（先日「Jakarta EE」に改称）に関するモジュールの削除や、JavaFXの分離も予定されている。
+</p>
+<p>
+　JDK 11は、JDK 10とは違って長期サポート（LTS）版となる。サポート期間は、Premier Supportでは2023年9月まで、パッチやセキュリティ情報が提供されるExtended Supportでは2026年までの予定だ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042300496/?ST=cm-software&P=2">JDK 11で導入予定の新機能</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042300496/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042300496/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042300496/?ST=cm-software&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042300496/?ST=cm-software&P=4">4</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042300496/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 23 Apr 2018 10:40:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
