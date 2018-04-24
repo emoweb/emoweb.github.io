@@ -5,18 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>フェイスブックがMLB独占配信、激戦模様のスポーツOTT</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/column/15/052000044/032300050/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div><div><span>1</span></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/052000044/032300050/?P=2&amp;ST=SIO-bus">2</a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/column/15/052000044/032300050/?P=2&amp;ST=SIO-bus">次のページ ≫</a></div></div>]]></description>
-			<pubDate>Thu, 19 Apr 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>換気扇で間に合わず、パワコンの温度上昇で出力半減</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/302961/041800076/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Thu, 19 Apr 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>カネカの「壁面型太陽電池」導入、半透明と低反射</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/041911021/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -249,6 +237,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/event/15/041100166/042400014/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><div class="bpimage_right" style="width:260px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/event/15/041100166/042400014/?SS=imgview_ndh&amp;FD=-1712763843" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/event/15/041100166/042400014/el1.JPG?__scale=w:250,h:188&amp;_sh=0bf03103f0" width="250" height="188" alt=""></a></div><div>医療画像診断支援技術を紹介</div><div>クリックすると拡大した画像が開きます</div></div><div class="bpimage_right" style="width:260px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/event/15/041100166/042400014/?SS=imgview_ndh&amp;FD=-1710916801" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/event/15/041100166/042400014/el3.JPG?__scale=w:250,h:188&amp;_sh=0e306007a0" width="250" height="188" alt=""></a></div><div>キヤノンメディカルも出展ブースでエルピクセルの技術を紹介</div><div>クリックすると拡大した画像が開きます</div></div><p>　「2018 国際医用画像総合展（ITEM 2018）」（2018年4月13～15日）の会場で目立ったのが、医療画像診断への人工知能（AI）の活用に関する展示だ（<a href="http://tech.nikkeibp.co.jp/dm/atcl/event/15/041100166/041300001/" target="_blank">関連記事1</a>）。画像診断装置やPACS（医用画像情報システム）のベンダーが、AI関連技術を競ってアピールした。</p><p>　こうした中、画像診断装置やPACSのメーカーに混ざってブースを構えたのが、デジタルヘルスベンチャーのエルピクセルだ。AIを活用した医療画像診断支援技術「EIRL（エイル）」への取り組みを紹介した（<a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/112709970/" target="_blank">関連記事2</a>）。</p><p>　同社はITEM開催に合わせる形で、富士フイルムとの提携を発表（<a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/041311003/" target="_blank">関連記事3</a>）。富士フイルムはエルピクセルの診断支援技術を、PACSに搭載することを目指す。キヤノンメディカルシステムズもITEMの出展ブースでエルピクセルとの協業について紹介し、頭部MRI画像に基づく脳動脈瘤検出に関するエルピクセルの技術を展示した。</p><p>　エルピクセル代表取締役の島原佑基氏は4月12日に同社が開催した都内イベントで、産業界との連携が拡大しており、米NVIDIA社やNOBORI、PSP、横河医療ソリューションズ、エムネスといった企業とも協業を進めていることを明らかにしている。</p></div>]]></description>
 			<pubDate>Wed, 25 Apr 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>グラス装着で眼球運動を定量化、めまい検査を支援</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/event/15/041800167/042400002/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji">グラスを装着するだけで、リアルタイムにめまい検査を行うことができる。そんなシステムを第一医科（東京都文京区）とYOODS（山口市）がそれぞれ披露した。両者と山口大学医学部の3者が共同開発した、眼球運動検査装置「yVOG-Glass（ワイボーグ・グラス）」と眼球運動検査装置用プログラム「yVOG（ワイボーグ）」を組み合わせたシステムである。</div>]]></description>
+			<pubDate>Wed, 25 Apr 2018 07:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
