@@ -11,12 +11,6 @@
 			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>第185回　大阪城公園の再生にみる新次元の指定管理者制度（上山信一の「続・自治体改革の突破口」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/234646/032900042/</link>
-			<description><![CDATA[　大阪城公園が連日、観光客で大にぎわいである。ほんの2年前までは天守閣の博物館以外は何もなく、ひたすら散策するだけの場所だった。だが、今や会議やイベント、飲食、物販で人が集まり、海外からの観光客の周遊バスも集中し、京都や奈良の名刹に負けない一大観光拠点になりつつある。きっかけは大阪市のパークマネジメント事業である。]]></description>
-			<pubDate>Thu, 05 Apr 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ベンダーのセキュリティ評価、契約の前に打つべき手は（後）（ベンダーのセキュリティ評価、契約の前に打つべき手は）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/032700125/032700002/</link>
 			<description><![CDATA[<div>
@@ -1145,6 +1139,49 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 25 Apr 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ルーティングセキュリティ強化を目指すMANRS、IX向けプログラムを開始（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042500497/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　インターネット上で不適切なルーティング情報を近隣に伝播することは、不作法であるのみならず、ビジネスに悪影響を及ぼす恐れもある。そのような認識を広めたいと考えている国際組織Internet Society（ISOC）は、インターネットのルーティングシステムの主要な脅威を排除するための取り組みであるMANRS（Mutually Agreed Norms for Routing Security）に関して、IX（インターネットエクスチェンジ）の参加を促す新たなプログラムを始めた。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042500497/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Peter Sayer/IDG</div>
+</div>
+<p>
+　IXがMANRSに参加すれば、IXの加盟企業、IXで相互接続するインターネットサービスプロバイダ（ISP）、そして各ISPの利用者にとって朗報だ。よりセキュアで堅牢なインターネットアクセスという恩恵が得られる。
+</p>
+<p>
+　2016年にISOCは、ネットワーク事業者に向けてMANRSへの参加を呼びかけ、これまでに50社以上を集めた。そして今度は、IXに向けた参加の呼びかけを始めた。
+</p>
+<p>
+　経路ハイジャック、経路リーク、スプーフィング、大規模サービス拒否（DoS）攻撃などによる経路障害やインシデントは、2017年だけでも約1万4000件発生し、データの盗難、収益の損失、評判の失墜といった影響を、インターネット関連のビジネスにもたらしている。ISOCがIXにMANRSへの参加を呼びかけるのは、こうした事案を減らすためだ。
+</p>
+
+<p>
+　ISOCの技術プログラムマネージャー、Andrei Robachevsky氏によると、ルーティングに危険をもたらしている要因には、経路ハイジャック（BGPハイジャック）、経路リーク、IPスプーフィング（IPアドレス偽装）の3つがあり、MANRSはこれらの防止を目指している。IPスプーフィングは、DDoSのアンプ攻撃やリフレクション攻撃の多くで使われている。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042500497/?ST=cm-network&P=2">IXは重要なつなぎ目だ。IXが運用するルートサーバーから、リージ...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042500497/?ST=cm-network&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042500497/?ST=cm-network&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042500497/?ST=cm-network&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042500497/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 25 Apr 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
