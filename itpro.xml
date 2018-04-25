@@ -5,44 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n26</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ベンダーのセキュリティ評価、契約の前に打つべき手は（後）（ベンダーのセキュリティ評価、契約の前に打つべき手は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/032700125/032700002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　契約済みの外部ベンダーがもたらすセキュリティリスクを抑えるにはどうすればよいだろうか。米Fannie Mae（連邦住宅抵当公庫）のJerry Archer最高セキュリティ責任者（CSO）は、それを考えている時点で「既に失敗だ」と話す。リスク緩和は契約を結ぶ前の段階から始めなくてはならないというのがArcher氏の見解だ。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/032700125/032700001/" target="_blank">前回</a>から続く）</p>
-
-<h4>セキュリティプロセスの適切な文書化が鍵</h4>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032700125/032700002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　新しいベンダーを精査する際に、Fannie Maeはよそのシステムのあら捜しをしているわけではないとArcher氏は言う。同氏によれば、「各種のスクリーンショットの提出は求める」。例えば、ペネトレーションテストの提出だが、「ペネトレーションテストの細かな結果は必ずしも知る必要はない」と語る。「見たいのは、最新のペネトレーションテストのエグゼクティブサマリーだ。良い面と悪い面で重要なポイントがいくつあったのか、テストで何か明らかになったかを知りたい。修正のスケジュールを見たい」</p>
-
-<p>　さらに同氏は、「先方にドキュメントがあることと、そのドキュメントを論じられる人がいることについて、一定の確信を得る」ことが鍵だと話す。「（セキュリティ手順を説明した）文書があるだけでは足りない。文書は必要だが、それだけでは不十分だ。その文書にどのような意味があるのか、顔を突き合わせて説明してくれる人がいなくてはならない」</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032700125/032700002/?ST=cm-network&P=2">セキュリティチーム同士の直接対話</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032700125/032700002/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032700125/032700002/?ST=cm-network&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032700125/032700002/?ST=cm-network&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/032700125/032700002/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 05 Apr 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d26</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>iOS 11.4ベータ版にMessages in iCloudとAirPlay 2が復活（CIOニュース）</title>
@@ -1182,6 +1148,40 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 25 Apr 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>米国の病院でスマホやモバイルコミュニケーションへの投資が拡大（後）（米国の病院でスマホやモバイルコミュニケーションへの投資が拡大）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/041800131/041800002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　米国の病院では、医療従事者間の連絡や、医療従事者と患者とのコミュニケーションを強化するために、スマートフォンやセキュアなモバイルプラットフォームに多額を投じつつあることが、米Spyglass Consulting Groupが実施した調査「Trends in Clinical Communications and Collaboration 2018」で明らかになった。</p>
+
+<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/041800131/041800001/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041800131/041800002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　また、以前は専用のWebポータルを通じた医療システムに限定されていたようなアクセスが、最近はコンシューマー向けアプリで提供されつつある。</p>
+
+<p>　例えば、米AppleがiOS 11.3に搭載した「Health Record」機能では、患者が自らのEHRを安全に確認したり、医療従事者からのアクセスを実現したりできる。</p>
+
+<p>　Health Recordsアプリを通じたEHRへのアクセスに対応している医療機関は、Appleの2018年3月29日のブログ記事によると、40以上に及ぶ。こうした処理は、米Cerner、米EPIC、米Allscriptsといったベンダーの従来型のEHRシステムに対するAPIによって実現されている。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041800131/041800002/?ST=cm-wireless&P=2">Malkary氏によると、医療機関でBYOD戦略を取り入れる動き...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041800131/041800002/?ST=cm-wireless&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041800131/041800002/?ST=cm-wireless&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041800131/041800002/?ST=cm-wireless&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041800131/041800002/?ST=cm-wireless&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 26 Apr 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
