@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d26</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iOS 11.4ベータ版にMessages in iCloudとAirPlay 2が復活（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/040500421/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Appleは、2カ月以上にわたるベータテストを経て、2018年3月29日にiOS 11.3の正式版をリリースした。iOS 11.3は、バッテリーの状態やパフォーマンス管理についての設定、4種類の新しいアニ文字、「Business Chat」と「Health Records」のベータ版、ARKitのバージョンアップなど、いくつかの新機能を搭載している。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/040500421/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Daniel Masaoka</div>
-</div>
-<p>
-　だが、昨年iOS 11が登場した時から待ち望んでいる2つの目玉機能が今回も搭載されなかったのが逆に目立つ。1つは「AirPlay 2」、もう1つは「Messages in iCloud」だ。いずれも、11.3のベータ版には搭載されていたが、正式版では見送られた。どちらの機能も、今秋の登場が見込まれるiOS 12まで先延ばしになるとは考えにくい。つまり、iOS 11は、11.3の後もバージョンアップが続く。
-</p>
-<p>
-　ここからは、iOS 11.4の新機能、正式リリースの時期、ベータ版の入手方法について見ていこう。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/040500421/?ST=cio-consumerit&P=2">SchoolworkとClassKit</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/040500421/?ST=cio-consumerit&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/040500421/?ST=cio-consumerit&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/040500421/?ST=cio-consumerit&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/040500421/?ST=cio-consumerit&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Thu, 05 Apr 2018 11:37:32 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n26</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>未来を見据えたIT予算の策定、6つのヒント（下）（未来を見据えたIT予算の策定、6つのヒント）</title>
@@ -1182,6 +1144,44 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 26 Apr 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google Chrome、実験版ビルドでUIを一部刷新（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/042600428/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Googleは、Webブラウザー「Chrome」の実験版ビルドであるCanaryビルドで、UIに2年ぶりの変更を加えた。タブやウインドウ上部の要素の形状が一部新しくなっている。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/042600428/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Google</div>
+</div>
+<p>
+　新たなUIを実装したのは、今のところはWindows版のCanaryビルドのみだ。新UIを表示するための手段は、実験的な設定の1つとして隠れている。まずアドレスバーに「chrome://flags」と入力し、表示されるページの中で「UI Layout」という項目を見つける。その設定を「Default」から「Refreshed」に変えたうえで、Chromeを再起動すると、新しいUIが有効になる。
+</p>
+<p>
+　現時点では、新しいUIでまず目に留まるのはタブの形だ。従来の台形から、角丸の四角形になった。また、アクティブなタブの色が、従来のかすかなライトグレーから真っ白に変わったことで、最も重要なタブがこれまでより目立つようになった。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/042600428/?ST=cio-appli&P=2">さらに、アドレスバーにも変化があり、従来は平らだ...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/042600428/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/042600428/?ST=cio-appli&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/042600428/?ST=cio-appli&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/042600428/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Thu, 26 Apr 2018 11:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
