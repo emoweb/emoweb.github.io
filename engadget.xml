@@ -5,29 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Switchの脆弱性を突く概念実証コードがGithubに公開。改造はJoy-Conコネクタのピンをショートさせるだけ？
-</title>
-			<link>https://japanese.engadget.com/2018/04/25/switch-github-joy-con/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/1f7bf8ca1426d3eb6b636369abb57635/206323177/FuseeGelee.jpeg" />
-ニンテンドースイッチ上の「任意のコードが実行できる脆弱性」は以前指摘されていましたが、それを概念実証するプログラムおよび技術の詳細がGithubにて一般公開されました。
-
-ハードウェアハッカーのKatherine Temkin氏およびハッキングチームのReSwitchedが「Fus&eacute;eGel&eacute;e（凍ったロケット）」と呼ぶエクスプロイト（脆弱性を突く攻撃）は、スイッチに搭載されたNVIDIA製Tegra X1 Socに内在する脆弱性を利用したもの。
-
-これは現時点で流通している全てのスイッチにあり、Tegraチップが工場出荷された後はダウンロードによるパッチ（システムソフトウェアのアップデート）で修正できないという、最初に脆弱性を指摘したハッカーチームfailOverflowの主張が再確認されています。
- 
- ]]></description>
-			<pubDate>Wed, 25 Apr 2018 17:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    ソニーEマウント対応の35mmフィルムカメラを個人が開発。少量販売後、オープンソース化も計画中
-</title>
-			<link>https://japanese.engadget.com/2018/04/25/e-35mm/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/b9c43a180efe16e9385b7ec6e8ee2703/206323232/02.jpg" />
-Alexander Geeと名乗るカメラマニアが、ソニーのEマウントレンズに対応した35mmフィルムカメラを開発しています。すでに1年以上の開発期間をかけているこのカメラは今後、クラウドファンディングによって少量を生産する予定とのこと。
- ]]></description>
-			<pubDate>Wed, 25 Apr 2018 18:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    アップルがiPhone用OLEDパネルの値下げを交渉中？第二世代iPhone Xの値下げも期待か
 </title>
 			<link>https://japanese.engadget.com/2018/04/25/iphone-oled-iphone-x/</link>
@@ -339,6 +316,35 @@ DeX Stationは、対応Galaxyスマートフォン（Galaxy Note8、S8|S8+）を
 Windows Storeが、アップルの音楽・デバイス管理兼メディアプレーヤーソフトiTunesの配布を開始しました。2017年5月に開催されたマイクロソフトのイベントBuild 2017での予告からおよそ1年の期間を経ての登場となります。
  ]]></description>
 			<pubDate>Thu, 26 Apr 2018 23:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    iPhone SE2(仮)の写真流出？背面ガラス、ヘッドホン端子も存続
+</title>
+			<link>https://japanese.engadget.com/2018/04/27/iphone-se2/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/49404ef85cc9c32fb94326513794371d/206329989/iphone-se-3.png" />
+iPhone SE2（仮称）の様々な噂が飛び交うなかで、その実機とされる写真および動画がリークされました。
+
+これらの出所は中国のSNSにつき信憑性の程度は不明ですが、ただのお遊びで作ったフェイクとしては完成度が高く、少なくともアップルの正規品を作っている工場、ないしその技術水準に近い業者が作ったと思われるレベルです。
+
+その全体像は現行のiPhone SEの後継機を思わせるもの。光を反射している背面のパネルはガラス製のようで、ヘッドフォンジャック端子用の3.5mmらしき穴も確認できます。
+
+単なる見栄えのためにガラス製にするとは考えにくいことから、おそらくワイヤレス充電が可能。ヘッドフォンジャックについても「ない」という予測が流れていましたが、それと矛盾しており、さらに予測が混迷したかたちです。
+ ]]></description>
+			<pubDate>Fri, 27 Apr 2018 00:08:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    任天堂の新スマホRPG『ドラガリアロスト』夏配信、事前登録受付中。Cygamesと共同開発
+</title>
+			<link>https://japanese.engadget.com/2018/04/27/rpg-cygames/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/d5042173fa9dee0516199c1d11390c9a/206330109/DbvmqEoVQAAVde6.jpg" />
+
+任天堂とCygames がスマートフォン向けアクションRPG『ドラガリアロスト』を発表しました。
+
+対応機種はAndroid と iOS。この夏の配信に向けて、スマホゲームらしいガチャアイテムが貰える事前登録キャンペーンも実施しています。
+
+ 
+ ]]></description>
+			<pubDate>Fri, 27 Apr 2018 00:35:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
