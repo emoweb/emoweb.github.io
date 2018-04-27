@@ -5,56 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d27</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Intel、Core 2など旧CPU向けのSpectre対策パッチを中止（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/040600489/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　重大なCPU脆弱性「Meltdown」「Spectre」に関して、米Intelが数カ月にわたって順次リリースを進めてきたマイクロコードアップデートは、ゴールに近づきつつある。だが、同社がアップデートの提供を予定していたプロセッサのうち、旧型プロセッサの一部については、アップデートの開発を取りやめたことが明らかになった。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040600489/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Gordon Mah Ung</div>
-</div>
-<p>
-　Intelの2018年4月2日付けの文書「<a href="https://newsroom.intel.com/wp-content/uploads/sites/11/2018/04/microcode-update-guidance.pdf" target="_blank">Microcode Revision Guidance</a>」を見ると、アップデートが提供されるはずだったプロセッサの中に、ステータスの欄が「中止（Stopped）」に変わったものがある。具体的には、Penryn（2007年）、Yorkfield（2007年）、Wolfdale（2007年）、Bloomfield（2008年）、Clarksfield（2009年）、Jasper Forest（2010年）、SoFIA（Atom、2015年）などだ（いずれも開発コード名）。この件については、ハードウエア情報サイトTom's Hardwareが最初に報じた。
-</p>
-<p>
-　Intelはこの文書の中で、「中止」というステータスについて次のように説明している。
-</p>
-<p>
-これらの製品については、そのマイクロアーキテクチャとマイクロコードの機能を包括的に調査した結果、マイクロコードアップデートをリリースしないことを決めた。そのわけは、次に示す項目をはじめ、1つないし複数の理由が該当する。
-</p>
-<ul>
-<li>マイクロアーキテクチャの特性上、バリアント2（CVE-2017-5715）を緩和する機能の効果的な実装が不可能である。
-</li>
-<li>システムソフトウエアの現行のサポートが限られている。
-</li>
-<li>顧客からの情報によると、これらの製品の大半は「クローズドシステム」として実装されており、したがって、これらの脆弱性の影響を受ける可能性は相対的に低いものと考えられる。
-</li>
-</ul>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040600489/?ST=cm-hardware&P=2">Intelのこの決定は、Core2シリーズのプロセッサに引導を渡...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040600489/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040600489/?ST=cm-hardware&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040600489/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 06 Apr 2018 11:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n27</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>グラフデータベースの基礎知識（上）（グラフデータベースの基礎知識）</title>
@@ -1172,6 +1126,48 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 27 Apr 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Operaのスマホ向けブラウザー「Touch」、片手操作と検索に主眼（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042700498/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　ノルウェーOpera Softwareは2018年4月25日、モバイルデバイス用の新しいWebブラウザーアプリ「Opera Touch」を発表し、Android版をリリースした。また、パソコン用Webブラウザー「Opera」もバージョンアップし、Opera Touchと連携するための新たな機能を搭載した。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042700498/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: IDG</div>
+</div>
+<p>
+　Opera Touchは、片手での操作性を高めたほか、検索を重視していることが特徴だ。アプリを起動した時点でまず検索画面が開くようになっている。
+</p>
+<p>
+　同社はOpera Touchの発表当日に開催したローンチイベントをライブストリーミングで配信した（現在は録画で視聴可能）。同イベントでMaciej Kocembaプロダクトマネージャーは、「現在のブラウザーは本分をきちんと果たしていない」と述べ、Opera TouchのUIについて、検索やタブなどの機能やボタンがいずれも親指の届く範囲に来るようにデザインしたと強調した。
+</p>
+<p>
+　また、同日の公式ブログ記事でKocemba氏は、「大半のブラウザーと違って、モバイル環境でもWebの閲覧や検索を容易に行える」と述べている。
+</p>
+<p>
+　同社は今回、パソコン用のOpera（Windows版、macOS版、Linux版）もバージョンアップし、検索に重点を置いた。Operaの新機能の1つが「インスタント検索」だ。Windows／Linux版ではAlt＋スペースキー、macOS版ではOption＋スペースキーを押すと、アクティブなWebページの上に検索フィールドが開く。そのまま検索語句を入力でき、検索結果もその場で得られる。新しいタブや既存のタブで検索を実行した後で元のページに戻るという操作が必要ない。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042700498/?ST=cm-software&P=2">また、インスタント検索機能でTabキーを押すと、現在開いているす...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042700498/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042700498/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042700498/?ST=cm-software&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042700498/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 27 Apr 2018 11:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
