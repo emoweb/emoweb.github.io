@@ -5,27 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Anker、新事業戦略を発表。オーディオブランドを一本化し、高級機の投入も
-</title>
-			<link>https://japanese.engadget.com/2018/04/29/anker/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=1023%2C767%2C0%2C0&quality=85&format=jpg&resize=1067%2C800&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F7057957b2428ccb08d669f2355b4d9ea%2F206330455%2FP4270873.JPG&client=a1acac3e1b3290917d92&signature=9ac1f9ece9b75125c75f968d579d82319722dcd4" />
-
-Ankerは、新事業戦略を発表し、異なるブランドで展開していたオーディオ製品を一本化し、新しいブランドとして独立することと、オンラインでのセールスに加え、量販店などのチャネル販売、直営店の展開などオフラインセールスにも力を入れることを打ち出しました。
-
-<p><a href="https://japanese.engadget.com/gallery/anker/" title="Anker">【ギャラリー】Anker (47枚)</a></p>
- ]]></description>
-			<pubDate>Sun, 29 Apr 2018 21:30:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    音声で全てをまかなうヒアラブルウェアの未来とは？　巷で話題のイヤホン型デバイス「Zeeny」
-</title>
-			<link>https://japanese.engadget.com/2018/04/29/zeeny/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/938b9f63321f4f831e016c39b37c3129/206330770/00.jpg" />
-スタートアップ企業のネインは、AndroidとiOSに対応したヒアラブルウェア「Zeeny（ジーニー）」を発表しました。Zeenyは、Bluetoothを搭載した首掛けタイプのヘッドセットで、イヤホンとして音楽を聴くのはもちろんのこと、スマホに届いたメッセージなどを音声で読み上げ、返信もできるといった機能も搭載したヒアラブルウエアです。価格は税込1万4040円。Amazonでは既に予約が開始され、5月下旬には二子玉川 蔦屋家電やビックカメラ、e☆イヤホンなどでも販売予定となっております。
- ]]></description>
-			<pubDate>Sun, 29 Apr 2018 22:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    800万画素カメラ搭載、WORKERBASEの産業用大画面スマートウォッチを使いたい：HANNOVER MESSE 2018
 </title>
 			<link>https://japanese.engadget.com/2018/04/29/800-workerbase-hannover-messe-2018/</link>
@@ -457,6 +436,48 @@ GoogleとFitbitの提携により、Appleに競合していくことになりま
 
  ]]></description>
 			<pubDate>Tue, 01 May 2018 05:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Google、画像処理とAIを使った安価なVRコントローラ位置追跡システムを開発
+</title>
+			<link>https://japanese.engadget.com/2018/05/01/google-ai-vr/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/7b2f9dcd878e2efd8341aec37ebe50fa/206338304/2018-05-01_16h18_31.png" />
+6自由度（DoF）に対応するVRヘッドセットは珍しくなくなってきており、日本でも先日、外部センサを必要とせず6DoFのポジショントラッキングに対応するLenovoのMirage Soloが発表されています。
+
+ 
+Lenovo Mirage Soloが日本上陸。体育会系VRデバイスの真打ちとなるか？
+
+しかし、Mirage Soloなどのスタンドアロンヘッドセットは、それ自体が6DoF対応でも、コントローラは簡易的なものが多くなっています。このため、コントローラを使った細かな操作はできず、せっかくの没入感が損なわれてしまう恐れもあります。
+
+HTC ViveやOculus RIftなど、外部センサを利用するものではコントローラのマーカーを捉えることで6DoFを実現していますが、外部センサが必要でシステムが複雑化するのが難点です。
+
+Googleはこの問題を解決するため、スタンドアロンのVRのヘッドセットが持つ2つのカメラを利用し、画像処理によりコントローラを認識する方法を研究。その成果を論文で発表しました。
+
+ただカメラで捉えるだけでは、コントローラの向きなどまで把握できません。また、その持ち方によってはコントローラがカメラから認識できないこともあります。このため、ユーザーの手や腕の位置を含む画像を使い「腕がこの状態の場合にコントローラはこの向きにある」といったようにニューラルネットワークを訓練しました。これに使われた画像は約54万7000枚のステレオ画像のペアで、20人のユーザーが様々な照明のもとで13種類の異なる動きを記録したとのことです。
+
+
+
+この学習後は、平均33.5mmの誤差範囲でコントローラを認識できるとのこと。また、この仕組みは単一のモバイルCPUを使い30FPSで動作しており、スタンドアロンVRのヘッドセットで十分実用できるものだとしています。
+
+Googleは今後、システムを最適化し、より速く正確なトラッキングを行うことを目指しており、将来的にコントローラ不要のハンドトラッキングにも拡張できると考えているようです。
+
+追加のハードウェアが必要なく、高精度なトラッキングが実現するなら、コスト的にもメリットがあり、とても期待したい技術です。
+
+なお、5月8日から行われる開発者会議 Google I/Oでも、この研究についての詳細が発表されるとのことです。
+
+  
+ ]]></description>
+			<pubDate>Tue, 01 May 2018 05:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    ペンで立体を描く3Doodler、学校の授業で使える3Dペンの学習用キットを発売
+</title>
+			<link>https://japanese.engadget.com/2018/05/01/3doodler/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/e2bc63d55d2cd62d17be020be5baf298/206338280/3Doodler1.jpeg" />［Engadget US版より（原文へ）］
+
+2013年にKickstarterでクラウドファンディングされた3Dプリントペン「3Doodler」は、その後、子ども向けやプロ向けなど、いろいろなバージョンが発売されました。さらに、彫刻をテーマにしたキットや、ロボティクスやその他のSTEM（科学、技術、工学、数学）活動に向けた製品も出ています。そして今回は、小学校の教室で使うためのキットを発表しました。
+ ]]></description>
+			<pubDate>Tue, 01 May 2018 06:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
