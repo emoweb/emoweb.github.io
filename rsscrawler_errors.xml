@@ -5,14 +5,40 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2018-04-16 01:09:12 +0900</title>
+			<title>2018-05-01 15:09:17 +0900</title>
 			<link> </link>
-			<description><![CDATA[<strong>cyclist</strong><br/><p>#&lt;EOFError: end of file reached&gt;
+			<description><![CDATA[<strong>itpro</strong><br/><p>#&lt;Errno::ECONNREFUSED: Failed to open TCP connection to :80 (Connection refused - connect(2) for nil port 80)&gt;
 in
-</p><br/><br/><strong>engadget</strong><br/><p>#&lt;EOFError: end of file reached&gt;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:882:in `rescue in block in connect&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:879:in `block in connect&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/timeout.rb:91:in `block in timeout&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/timeout.rb:101:in `timeout&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:878:in `connect&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:863:in `do_start&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:852:in `start&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:1398:in `request&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:1156:in `get&#39;
+/data/src/rss_crawler/src/lib/httputil.rb:69:in `request&#39;
+/data/src/rss_crawler/src/lib/httputil.rb:87:in `get&#39;
+/data/src/rss_crawler/src/lib/httputil.rb:91:in `get&#39;
+/data/src/rss_crawler/src/pipes/itpro.rb:11:in `block in &lt;top (required)&gt;&#39;
+/data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
+/data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p><br/><br/><strong>techon</strong><br/><p>#&lt;RuntimeError: HTTP redirection loop: http://tech.nikkeibp.co.jp/dm/rss/index.rdf&gt;
 in
-</p>]]></description>
-			<pubDate>Mon, 16 Apr 2018 01:09:12 +0900</pubDate>
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/open-uri.rb:233:in `open_loop&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/open-uri.rb:151:in `open_uri&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/open-uri.rb:717:in `open&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/open-uri.rb:725:in `read&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:104:in `normalize_rss&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:90:in `initialize&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:77:in `new&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:77:in `parse&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:60:in `get_feed&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:166:in `pipe_procedure&#39;
+/data/src/rss_crawler/src/pipes/techon.rb:58:in `block in &lt;top (required)&gt;&#39;
+/data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
+/data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
+			<pubDate>Tue, 01 May 2018 15:09:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
