@@ -5,18 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>千葉大とNEC、AIで健康長寿社会づくり</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/042511043/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><div class="bpbox_right" style="width:200px;"><div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/042511043/?SS=imgview_ndh&amp;FD=1330817476" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/news/16/042511043/NEC_chiba01.jpg?__scale=w:200,h:116&amp;_sh=05d0ea0d70" width="200" height="116" alt=""></a></div><div>NECのAI技術群「NEC the WISE」の概要</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　千葉大学とNECは、日本老年学的評価研究（JAGES）と連携し、AI技術を活用した保健・医療・介護における重症化・重度化の防止に向けた共同研究を開始した。レセプトデータなどの分析による認知症予防の予測や財政効果測定を実施するなど、地域の政策的な健康増進および医療・介護の給付費適正化などに向けた取り組みへの貢献を目指す。</p><p>　JAGESは、健康長寿社会を目指し予防政策の科学的な基盤づくりを目的とした研究である。千葉大学予防医学センター社会予防医学研究部門が中核的機能を果たすとともに、国立長寿医療研究センター、東北大学、東京大学、浜松医科大学、日本福祉大学に事務局機能を分散配置した体制を有する。</p><p>　今回の共同研究では、自治体などが保有するレセプトや特定健診の結果などの多種多様なデータを、千葉大学 予防医学センター 教授の近藤克則氏の予防医学による健診・医療・介護のデータ分析の知見と、NECのAI技術群「NEC the WISE」の一つである異種混合学習技術を組み合わせて分析。健康長寿社会づくりに寄与する要因の抽出手法の確立とその有効性を検証する。</p><p>　この他、地方公共団体が保有するパーソナルデータの非識別加工を行う実証実験などで実績を有するNECグループの匿名加工製品「NEC データ匿名化ソリューション」を用いて、個人情報保護法や行政機関個人情報保護法等に準拠した安全なデータ活用手法を検証する。</p></div>]]></description>
-			<pubDate>Wed, 25 Apr 2018 16:30:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「太陽光パネルが土に埋まる」、「コネクターの多くが外れる」、設計ミスでトラブル続出</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/302961/042400077/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Thu, 26 Apr 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>佐賀県最大、21MWのメガソーラー稼働、九電工と伊藤忠</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/042611044/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -243,6 +231,18 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/word/15/327920/050200056/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　医療機関やその関連業界を狙って標的型攻撃を仕掛けるマルウエア。X線CT装置やMRIなどの画像診断機器を制御するためのソフトウエアが搭載された機器、患者の同意書を作成する機器などから発見されている。</p><p>　マルウエア自体は2016年に発見されているが、「Orangeworm」という新しい攻撃集団が、米国と欧州、アジアの医療業界、医薬品業界、医療向けITソリューションプロバイダーなどに対して、同マルウエアによる標的型攻撃を行っているとされる。米セキュリティー企業のSymantecが、2018年4月23日に報告した。</p><p>　報告によると、これまでOrangewormの被害を受けた組織は、ヘルスケア業界が約4割を占める。そのうち被害に遭った組織を国別にみると、米国が17％で最も多いが、大手の多国籍企業が狙われており世界各地に影響が及んでいる。日本での被害も2％を占めているという。</p><p>　Orangewormは組織のネットワークに侵入すると、Kwampirsを使って被害者のコンピューターにバックドアを設け、リモートからアクセスできる状態にする。そして、被害者のネットワーク内部でマルウエアを増殖させ、情報を収集する。</p><p>　攻撃の動機・目的は不明だが、医用画像システムに関する技術情報や医薬品製造に関する詳細情報など知的財産を狙っているとの見方もある。</p></div>]]></description>
 			<pubDate>Wed, 02 May 2018 16:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>工場の屋根上太陽光を自家消費、DICが中国で初導入</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/050211066/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Wed, 02 May 2018 17:21:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>東工大、系統連系した発電機が「同期」する基本原理を解明</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/050211067/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Wed, 02 May 2018 17:54:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
