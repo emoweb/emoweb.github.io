@@ -5,22 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ニンテンドースイッチの「Joy-Con」が特許侵害？ 米企業の訴えでITCが調査開始
-</title>
-			<link>https://japanese.engadget.com/2018/05/02/joy-con-itc/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/cfa526656548ac96b402035f53c23908/206340771/gamevice.jpeg" />
-米国際貿易委員会（ITC）は、カリフォルニア州に拠点を置くGameviceの訴えを受けて、任天堂の「特定のポータブルゲームコンソール」などについて特許侵害に関する調査を決定したことを明らかにしました。
-
-対象となるのは、「ハンドヘルドコントローラおよびそのコンポーネントを備えた特定のポータブルゲームコンソールシステム」とのこと。
-
-より具体的には「スマートフォンやタブレットなどの電子機器の両面に取り付けられたパーツを備えたコントローラシステム」とされ、ニンテンドースイッチおよびJoy-Conを指すと思われます。
-
-この件につき、任天堂は今のところ声明を発表していません。
-
- ]]></description>
-			<pubDate>Wed, 02 May 2018 04:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    SFドラマ「ウエストワールド シーズン3」が早くも製作決定。ただし放送時期は未定
 </title>
 			<link>https://japanese.engadget.com/2018/05/02/sf-3/</link>
@@ -352,6 +336,32 @@ Googleは3月、スマートウォッチ向けOSの名称をAndroid WearからWe
 しかし、そのAndroid WearあらためWear OSのアップデートが発表されました。アップデートといってもWear OS自体が何か変わるわけではなく、Wear OS上でのGoogleアシスタントの利用が便利になるというものです。追加される機能は大きく3つ。
  ]]></description>
 			<pubDate>Fri, 04 May 2018 03:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    iPhoneでもGoogleデータをより安全に。Google「高度な保護機能」がiOS標準アプリにも対応
+</title>
+			<link>https://japanese.engadget.com/2018/05/04/iphone-google-google-ios/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/8566e6c438a2c7a5c9c7807814a9654b/206346398/Anima_benefit_03_2.gif" />
+昨年10月、Googleは、セキュリティを強化した「高度な保護機能プログラム（Advanced Protection）」の提供を開始しました。これは、政治家やジャーナリストなど、他の人よりもオンライン攻撃の対象になりやすい、セキュリティリスクが高い人に向けたもの（ただし一般ユーザーでも使えます）。
+
+強固なセキュリティでGoogleサービスが使える「高度な保護機能プログラム」が開始。選挙関係者などを想定
+
+これを適用すると、ログイン時には物理的なセキュリティ（認証用Bluetooth機器など）が必須となるほか、GmailやGoogleカレンダーなど、Googleデータへのアクセスは同社の純正アプリに限定され、サードパーティアプリは使うことができなくなります。これにより、万が一の際のセキュリティを向上させるというプログラムです。
+
+ただ、Google製アプリしか使えないのでは、必然的にiPhoneなどiOSデバイスでは利用しづらくなってしまいます。世界的に見ればAndroidのシェアが9割を超えているとはいえ、高度な保護機能プログラムの対象となる人が多そうな先進国では、iOSのシェアも高めなのも事実です。
+
+これが理由なのかは定かではありませんが、今回この保護プログラムが更新され、Google謹製アプリのみの制限を緩和。iOSデバイス上のMail、カレンダー、連絡先など、AppleネイティブのアプリでもGoogle側のデータにアクセスが可能となりました。
+
+これまでは上記の理由から、iOSでは実質的に利用が難しかった同プログラム。ですが、今後はAppleの純正アプリで利用できるなら、使ってみようと考える人も増えるかもしれません。
+
+またGoogleは、今後も高度な保護プログラムで利用できる、信頼できるアプリケーションのリストを増やして行くとのこと。このリストが公開されるなら、同プログラムに参加しないユーザーにとっても、安全性が高いアプリを確認できるリストとして使えそうです。
+
+なお、Googleは今回の発表に合わせ、オンライン攻撃のリスクに晒されているすべてのユーザーが高度な保護機能プログラムに登録することが目標だとしており、そのために世界中のユーザーがプログラムに簡単にアクセスできるよう努力すると表明しています。
+
+ 
+
+ ]]></description>
+			<pubDate>Fri, 04 May 2018 05:30:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
