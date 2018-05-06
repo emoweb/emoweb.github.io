@@ -5,19 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    米国防総省、世界中の米軍基地でHUAWEI、ZTE製品の販売を禁止。安全保障上の懸念から
-</title>
-			<link>https://japanese.engadget.com/2018/05/03/huawei-zte/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/8cc4ec62828c7184070eeac0a9657985/206343666/dims.jpg" />
-米国防総省が、世界中の米軍基地内でHUAWEI、ZTE端末の販売を禁止したとThe Wall Streat Journalが報じました。中国政府が、端末に仕掛けられたバックドアから兵士の動向を追跡したり、通信を盗聴することを懸念しているとのことです。
-
-米軍基地内には、日用品などを販売する小売店が入っており、スマートフォンなどを販売しているケースもあります。今回はこれらの店舗での販売を禁止するもので、兵士の個人的な利用を制限しているわけではありません。
-
-ただし販売が禁止された場合、サポートなどの問題も出てくるため、そのメーカーの端末を使い続けようと思わなくなる可能性も高いのが実情。HUAWEIとZTEにとっては厳しい措置と言えそうです。
- ]]></description>
-			<pubDate>Thu, 03 May 2018 04:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    「艦長ではない。船長と呼べ!」PSVRのスタートレックが男の夢すぎる：情熱のミーム　清水亮
 </title>
 			<link>https://japanese.engadget.com/2018/05/03/psvr/</link>
@@ -344,6 +331,19 @@ PCやスマートフォンの周辺機器で知られるエレコムは、実は
 こう聞くとメリットが小さそうですが（とくに現状の日本では）、AndroidスマートフォンとiPhoneを混在して使っている場合などは、iPhoneで見た通販サイトでも、Androidスマホに変えることなくGoogle Pay経由で支払いができるなど、これまであった面倒が軽減されます。
  ]]></description>
 			<pubDate>Sat, 05 May 2018 21:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    突然の音声事故を「6秒ルール」で低減。GoogleがPC/Mac版Chrome 66の音声自動ブロックを解説
+</title>
+			<link>https://japanese.engadget.com/2018/05/05/6-google-pc-mac-chrome-66/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/70036d8d35aca21e926371a0cf1e3307/206349293/Chrome.jpeg" />
+米国Googleが、Webブラウザの最新版であるChrome 66デスクトップ版（PCとMac用）の特徴である、音声自動再生機能の改良について解説するブログ記事を公開しました（同バージョンは既に日本でも利用可能です）。
+
+目玉となるのは「不要な自動再生を自動的にブロックし、無音にする」という機能。同機能が導入されたこと自体はリリースなどで触れられていましたが、詳細な動作についてはあまり解説がありませんでした。今回はこの動作について、詳細な情報が紹介されています。
+
+判断の基本となるデータは、Chromeが取得したユーザーの閲覧履歴。「6秒ルール」（詳しくは後述）とも呼べるデータを元にして判断しているという、興味深い情報が公開されています。
+ ]]></description>
+			<pubDate>Sat, 05 May 2018 22:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
