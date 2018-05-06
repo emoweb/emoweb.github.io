@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n07</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>グラフデータベースの基礎知識（上）（グラフデータベースの基礎知識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/040300126/040300001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　今回の記事では、グラフデータベースとは何なのか、他のデータベースとどう違うのか、データに関するどのような問題を解決するためのものなのかを見ていくことにしよう。</p>
-
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300001/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-
-<p>　キーバリュー、ドキュメント指向、カラムファミリー、グラフ、リレーショナルなど、今やデータベースの種類は、データの種類と同じ数だけあるように思える。こうなると、データベース選びが難しく感じられるかもしれないが、的確なデータベース選びはむしろ容易になる。もちろんそのためには予習が必要だ。つまり、データベースの選択肢について理解しておかなければならない。</p>
-
-<p>　数ある中でも、特に理解されていないデータベースの種類の1つがグラフデータベースだ。密接に関連し合ったデータを扱うためのデータベースで、関係性の強さはリレーショナルデータベース以上と言ってもよいかもしれない。グラフデータベースが輝きを放つのは、巨大に絡み合った情報の中から、複雑な関係を導き出す時だ。</p>
-
-<p>　今回の記事では、グラフデータベースとは何なのか、他のデータベースとどう違うのか、データに関するどのような問題を解決するためのものなのかを見ていくことにしよう。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300001/?ST=cio-appli&P=2">グラフデータベースとリレーショナルデータベースの...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300001/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300001/?ST=cio-appli&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300001/?ST=cio-appli&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300001/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Mon, 09 Apr 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d07</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Microsoft、OneDriveとOutlook.comのランサムウエア対策を強化（Computerworldニュース）</title>
@@ -1168,6 +1130,41 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 27 Apr 2018 11:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>施行が迫るEU一般データ保護規則、対応はいかに（上）（施行が迫るEU一般データ保護規則、対応はいかに）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/042300132/042300001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　欧州連合（EU）の一般データ保護規則（GDPR：General Data Protection Regulation）は、2018年5月25日に施行となる。皆さんの会社は、GDPRへの準備が整っているだろうか。</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300132/042300001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　「GDPRのポイントは、今後いつ違反が発生するのか分からないことだ。GDPRに伴って生じるであろう課題の中でも特に難しいのが、社内で継続的なプログラムをいかに実現するかだ。これは単なる通り一遍の要件ではない。GDPRを遵守した状態をずっと維持していくためには、社内に根本的な変化が必要だ」。そう話すのは、非営利の情報セキュリティ推進団体としてサイバーセキュリティや情報リスク管理を専門に扱っている英Information Security Forum（ISF）のマネージングディレクター、Steve Durbin氏だ。</p>
+
+<p>　GDPRは、EUのデータ保護法を現代化する取り組みとして、5年以上に及ぶ作業をへて、2016年4月に採択された。EU域内の住民の個人データを取り扱う場合、そのデータを処理する場所がどこであれ、GDPRが適用される。EUのデータ保護法が及ぶ範囲についても、GDPRの中に規定がある。GDPRで監督機関が持つ威力は絶大だ。違反した企業や団体に科される制裁金が巨額だからである。最大で、2000万ユーロか、または前年度の世界売上高全体の4％か、いずれか高額な方と定められている。</p>
+
+<p>　米DeloitteのRisk and Financial Advisory Cyber Risk ServicesのプリンシパルであるDan Frank氏は次のように言う。「時間の針が5月25日の深夜0時を回った時に何が起きるのか、本当のところは誰にも分からない。EUに拠点を置く大勢の同僚たちから聞いた話によると、規制機関が実施する調査は多少時間がかかりそうだ。こうした規制措置が形になるには、6カ月なり8カ月なりかかるかもしれない。インシデントが起きるまでの間は、必ずしも問題はない」</p>
+
+<p>　言い換えると、GDPR遵守プログラムの取り組みに出遅れたとしても、スタートは切った方がよい。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300132/042300001/?ST=cio-security&P=2">GDPRで定められた個人データ処理の原則</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300132/042300001/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300132/042300001/?ST=cio-security&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300132/042300001/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Mon, 07 May 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
