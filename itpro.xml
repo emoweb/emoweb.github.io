@@ -5,46 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d07</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Microsoft、OneDriveとOutlook.comのランサムウエア対策を強化（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/040900490/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　パソコンがランサムウエアに感染すると、あらゆるファイルが暗号化され、それを解除するキーと引き換えに金銭を支払うよう迫られる。この感染は、クラウドに保存しているファイルにまで波及する恐れがある。そこで米Microsoftは、こうした状況に対処するための機能を、クラウドストレージサービス「OneDrive」に搭載した。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040900490/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Microsoft</div>
-</div>
-<p>
-　Microsoftは現地時間2018年4月5日、「Office 365 Home」「Office 365 Personal」の加入者向けのOneDriveに、新たなランサムウエア対策を導入したことを発表した。その1つは、OneDriveに保存しているファイルを以前のバージョンにロールバックできる「Files Restore」機能だ。最長1カ月前のバージョンまで復元でき、マルウエアに感染する前の状態に戻すのが簡単になる。もう1つは、ランサムウエアの自動検出機能だ。OneDriveに保存しているファイルがランサムウエアに感染していないかを自動で判別し、感染が確認された時にはスマートフォンなどを通じてユーザーに通知する。
-</p>
-<p>
-　このほか同社は、OneDriveに保存しているファイルを共有する際のパスワード保護機能や、OutlookのWeb版である「Outlook.com」で送信するメールの暗号化機能なども発表した。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040900490/?ST=cm-software&P=2">MicrosoftのOffice担当コーポレートバイスプレジデン...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040900490/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040900490/?ST=cm-software&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040900490/?ST=cm-software&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/040900490/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 09 Apr 2018 10:40:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n07</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>パソコンはChromebookだけで用が足りるか？（前）（パソコンはChromebookだけで用が足りるか？）</title>
@@ -1165,6 +1129,48 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 07 May 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Audi、オープンソースのビッグデータ基盤を活用（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/050700499/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　独Audiは、さまざまなオープンソース技術を取り入れてビッグデータ基盤を構築し、工場の生産設備や、高級車の最新モデルから、ますます多くのデータを収集している。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/050700499/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Audi</div>
+</div>
+<p>
+　ドイツのベルリンで開催されたカンファレンス「Dataworks Summit」で現地時間2018年4月18日、Audiのビッグデータアーキテクトを務めるMatthias Graunitz氏とCarsten Herbe氏は満員の聴衆を前にセッションを行った。両氏は、新たなデータソースから収集するデータを格納するためのバックエンドを構築した時の経験や、その過程で得た教訓について話した。
+</p>
+<h4>
+オープンソースのスタック
+</h4>
+<p>
+　AudiはHadoopの大手ユーザーで、2015年から分散ファイルシステムHDFS（Hadoop Distributed File System）にデータを格納している。これまでの道のりについて、Graunitz氏は次のように説明した。「2015年に、小規模なクラスタで第一歩を踏み出した。クライアントと共に始め、システムを構築し運用する方法や、ビジネス要件を満たせるかどうかについて調査した。最初は、Hortonworks Data Platform（HDP）の小規模クラスタで、4ノード、96コア、物理容量は160Tバイトという構成だった」
+</p>
+<p>
+　現在ではHadoopクラスタが実稼働しており、12ノード、288コア、RAMは6Tバイト、ストレージ容量は1PBという構成だ。さらに、Kafkaクラスタも実稼働で利用している。こちらは4ノード、RAMは128Gバイト、物理容量は16Tバイトだ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/050700499/?ST=cm-software&P=2">だが、導入がシームレスに進んだわけではない。Herbe氏は次のよ...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/050700499/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/050700499/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/050700499/?ST=cm-software&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/050700499/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 07 May 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
