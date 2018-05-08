@@ -5,50 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d08</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Microsoft、ARM版Windows 10で64ビットアプリのサポートを準備中（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/041000422/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　省電力性に優れた米QualcommのARMプロセッサ「Snapdragon」を搭載したWindows 10パソコンが登場しつつある。しかし、いくつかある主な制約の中でも、既存の64ビットアプリを動かせないという点は、すぐには解消しそうにない。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041000422/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Mark Hachman / IDG</div>
-</div>
-<p>
-　米Microsoftの担当者によれば、2018年5月初めに開催する開発者カンファレンス「Build」で、64ビットアプリを開発するための「ARM64 SDK」のプレビュー版について詳しい情報を発表するとのことだ。このSDKのプレビュー版および正式版のリリース時期や、同SDKに基づくアプリがエンドユーザーに提供される時期は明らかにしていない。
-</p>
-<p>
-　Microsoftの担当者の声明には次のようにある。「ARM64 SDKのプレビュー版の詳細についてはBuildで発表することになる。通常、64ビット専用のアプリケーションは、パフォーマンス上の理由から、ネイティブに動作させる方がよい。そこで当社は、該当するデバイス向けのネイティブアプリケーションを開発者が作成できるよう、エンジニアリングのリソースをネイティブなARM64 SDKに集中的に投じることを決めた」
-</p>
-<p>
-　Microsoftの今回の動きは、ARM版Windows 10が抱える制約の1つに対処するものだ。ただし、その成果がユーザーに届くまでには、多少の時間が必要となる。開発者は、ARMプロセッサ搭載で丸1日近く動くWindowsパソコンというビジョンに賛同するのかどうかを決めなくてはならない。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041000422/?ST=cio-appli&P=2">ユーザーにとっての制約</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041000422/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041000422/?ST=cio-appli&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041000422/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Tue, 10 Apr 2018 10:40:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n08</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>グラフデータベースの基礎知識（中）（グラフデータベースの基礎知識）</title>
@@ -1174,6 +1134,43 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 08 May 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google、Android Thingsの正式リリースでIoTに本腰か（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/050800429/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Googleの開発者向けイベント「Google I/O」というと、一昔前はメディアが大々的に取り上げる発表も数多くあった。中でも「Google Glass」の発表が記録に残るものだったことは、強硬なアンチGoogle派も認めざるを得ないだろう。最近では、そうした盛大な話題は以前より減っているが、それでもGoogleは、多少なりとも脚光を浴びることを今年も画策している。その筆頭に挙げられるのは、正式リリースが予想されるIoT向けAndroidプラットフォーム「Android Things 1.0」だ。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/050800429/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Pimoroni</div>
+</div>
+<p>
+　Android Thingsの根底にある発想は、スマートディスプレイ、キオスク端末、デジタルサイネージなど、制約があるデバイスの開発者に向けて、統一的かつ汎用的なソフトウエアプラットフォームの選択肢を提供することだ。Android Thingsのコードにデバイスメーカーが改変を加えることは認められない。特に、Android Thingsで動くすべてのデバイスに向けてGoogleがアップデートを随時反映させる部分だ。
+</p>
+<p>
+　これは、仮にAndroid Thingsの採用が広がるのであれば、IoTにとって一大転換になり得る。IoTの導入を阻む障壁として圧倒的に大きいのがセキュリティだとしたら、デバイスメーカーが既知のセキュリティホールを定期的なソフトウエアアップデートで修正できない（あるいはその実施に乗り気でない）ことが、おそらく最大の要因だ。定期アップデートが保証されていれば、リスクを避ける傾向が強い大企業や産業分野の企業に向けてIoTの魅力を高めるという面で、大きな前進になるかもしれない。IoT市場で予想されている急激な成長は、こうした企業がIoTを利用することでもたらされるはずだ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/050800429/?ST=cio-appli&P=2">もちろん、本当に期待どおり行くかどうかは、ふたを...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/050800429/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/050800429/?ST=cio-appli&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/050800429/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 08 May 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
