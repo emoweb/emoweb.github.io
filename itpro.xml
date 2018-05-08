@@ -11,46 +11,6 @@
 			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>グラフデータベースの基礎知識（中）（グラフデータベースの基礎知識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/040300126/040300002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　今回の記事では、グラフデータベースとは何なのか、他のデータベースとどう違うのか、データに関するどのような問題を解決するためのものなのかを見ていくことにしよう。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/040300126/040300001/" target="_blank">前回</a>から続く）</p>
-
-<h4>グラフデータベースの用途</h4>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　グラフデータベースが特に威力を発揮するのは、扱うデータの間に密接なつながりがあって、その結び付きや参照を表現する必要があり、一般に関係が多対多の場合だ。</p>
-
-<p>　ここでも、ソーシャルネットワークがよい例だ。グラフデータベースなら、ソーシャルネットワークで使われているフィードのようなデータビューを生成する際の処理が少なくて済む。あるいは、ネットワーク内の既存の友達と関係が近い人について、知り合いかもしれないという候補を判断する処理も簡単になる。</p>
-
-<p>　別の用途としては、他のデータ表現では導き出すのが難しいパターンやつながりをグラフデータから見つけ出すというものがある。詐欺検知システムでは、グラフデータベースを使って、他の方法では割り出しにくいかもしれない実体同士の関係を明らかにしている。</p>
-
-<p>　グラフデータベースは、実体同士の関係や相互依存性を管理するアプリケーションにもよく合う。例えば、レコメンドエンジン、コンテンツ／アセット管理システム、ID／アクセス管理システム、法令遵守ソリューション、リスクマネジメントソリューションは、舞台裏でグラフデータベースが使われていることがよくある。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300002/?ST=cio-appli&P=2">グラフデータベースのクエリ</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300002/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300002/?ST=cio-appli&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300002/?ST=cio-appli&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300002/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Wed, 11 Apr 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Snapchat、iPhone X対応レンズ機能をようやくリリース（Computerworldニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041100491/</link>
 			<description><![CDATA[<div>
@@ -1171,6 +1131,12 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 08 May 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>自動運転（電子行政：キーワード）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/14/260942/042000020/</link>
+			<description><![CDATA[　自動運転とは、乗り物の操縦を人の手によらず、機械が自律的に行うシステムを指します。オートパイロット（Auto Pilot）とも呼びます。自動運転が社会にもたらす効果は多岐に渡りますが、日本国内では特に少子高齢化に伴うさまざまな課題の解決策として期待がかかっています。]]></description>
+			<pubDate>Wed, 09 May 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
