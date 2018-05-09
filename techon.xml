@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>小児科医不在の町、小児科医に遠隔相談する仕組みを実証</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/050111061/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><p>　デジタルヘルスベンチャーのKids Publicは、鹿児島県錦江町および埼玉県横瀬町と連携し、スマホで小児科医に遠隔で相談ができる同社の「小児科オンライン」を利用した共同実証実験を2018年6月1日に開始する。両町は小児科医が不在。全国の小児科医へのアクセシビリティーを向上させることで、子育て世帯の不安や経済的・時間的負担の軽減がもたらされるかを評価する。</p><p>　小児科オンラインは、クリニックが診療を終えた18～22時の時間帯にスマホアプリ「LINE」や電話で小児科を専門とする医師にリアルタイム相談ができるサービス。主に、自治体や法人向けに展開している<a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/032906946/?ST=health" target="_blank">（関連記事）</a>。</p><p>　今回の実証実験では、小児科医の不在問題で悩む全国の自治体に対してのパイロットケースにしたい考え。なお、横瀬町では、サービス導入前後でアンケートを実施し、子育てに対して感じる不安の変化や小児医療費助成金などの行政コストの変化を評価し、“日本一子育てしやすい町”を目指す。</p><p>　錦江町および横瀬町在住の対象者は今回、無料で小児科オンラインを利用できる。事業費の一部にはふるさと納税が活用されるという。<br></p></div><div><div><span>1</span></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/050111061/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/050111061/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
-			<pubDate>Tue, 01 May 2018 15:15:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>「世界のエネルギー貯蔵容量、2018年に20％増加」、米調査会社</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/050111062/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -237,6 +231,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/050911080/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Wed, 09 May 2018 09:46:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「電子カルテを書くこと」が目的化した医療の打破を</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/327442/050700264/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　「ドクターとAIの協力がもたらす医療現場の革新」——。ライフサイエンス・イノベーション・ネットワーク・ジャパン（LINK-J）は2018年4月20日、そんなタイトルを掲げたイベントを東京都内で開催した。</p><p>　ハードウエアメーカーやサービス事業者、臨床医が登壇した同イベントで、トピックの一つとなったのがAI（人工知能）による問診の効率化。サービス事業者の立場からデジタルヘルスベンチャーであるUbie 共同代表取締役 医師の阿部吉倫氏、ユーザーの立場から東京都医師会理事（医療情報担当）で脳神経内科医の目々澤肇氏がそれぞれ、AIの効用を語った。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327442/050700264/?SS=imgview_ndh&amp;FD=-1668857622" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327442/050700264/link1.jpg?__scale=w:500,h:367&amp;_sh=09c0f40990" width="500" height="367" alt=""></a></div><div>パネルディスカッションの様子。Ubieの阿部氏（右）と東京都医師会の目々澤氏</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　Ubieの阿部氏は「AI問診で医療をredesignする」と題して講演。問診や電子カルテ作成をAIで支援するシステム「AI問診Ubie」への取り組みを語った。</p><p>　医師は、患者と向き合うことよりも電子カルテを書くことにより多くの時間を割いている——。阿部氏は医師としてのそんな実感から、AI問診Ubieの開発に取り組んだ。</p><p>　同システムは、問診と鑑別診断をAIでサポートし、電子カルテへの記入も支援するもの。これにより、医師の作業負担を減らし、患者とのコミュニケーションにより多くの時間を割けるようにする。</p><p>　具体的な仕組みはこうだ。まず、受診前の患者がタブレット端末を使い、AI問診Ubieが出題する質問に回答していく。主訴や年齢、性別などの回答内容に応じ、その患者の疾患の鑑別診断に必要と考えられる質問をAIが次々と提示する形だ。「（AIを用いた囲碁ソフトの）アルファ碁は、どこに石を置くと最も良いかを判断する。そのように、AI問診Ubieはどのような質問をすれば最も少ない質問で患者の疾患を正確に言い当てられるかを判断する」（阿部氏）。</p><p>　こうして収集した問診結果をもとに、AIが疑い病名を推測。問診情報と併せて医師側のパソコン端末に提示する。医師はそれらの情報を参照することにより、問診に必要以上の時間を割かず、効率よく診察することが可能だ。AIが整理した問診情報や疑い病名は電子カルテに貼り付けることもできるため、カルテ作成に割く時間も短縮できる。</p><p></p></div><div><div><span>1</span></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327442/050700264/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327442/050700264/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
+			<pubDate>Wed, 09 May 2018 10:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
