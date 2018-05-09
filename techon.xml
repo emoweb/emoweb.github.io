@@ -5,24 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>「AI医療が当たり前の世界、2020年までに」</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/327441/042500510/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><p>　東京大学発ベンチャーのエルピクセルは2018年4月12日、「最先端医療×AI ～医療画像診断の未来～」と題するイベントを東京都内で開催。登壇した同社代表取締役の島原佑基氏は、AI（人工知能）を用いた医療画像診断支援技術「EIRL（エイル）」や、それを活用した医療機関などとの共同研究について紹介した。「AIは単なるブームではなく、しっかり（医療で）使われる。2020年までには、AIがあるのが当たり前と言われる時代を切り開きたい」と意欲を語った。</p><p>　医療画像診断の国内外の状況を見渡してみると、日本はX線CT装置やMRIの普及率が際立って高く、「医療画像大国」（島原氏）と言われる。その一方で放射線診断医は大幅に不足しており、読影の負荷軽減が大きな課題。ここにAIを活用しようという試みが盛んになってきた。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/042500510/?SS=imgview_ndh&amp;FD=-1712763843" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/042500510/el1.JPG?__scale=w:500,h:375&amp;_sh=0f40b0df0d" width="500" height="375" alt=""></a></div><div>エルピクセル代表取締役の島原佑基氏</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　こうした背景からエルピクセルが開発し、2017年11月に発表したのがEIRLだ（<a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/112709970/" target="_blank">関連記事1</a>）。EIRLはエルピクセルが提供する、AIを活用した医療画像診断支援技術の総称。ディープラーニング（深層学習）やアクティブラーニング（能動学習）など機械学習の複数の手法から最適なものを組み合わせて活用し、X線CT画像やMRI画像から病変を抽出するなどの診断支援機能を実現する。</p><p>　エルピクセルはEIRLについて、まずは研究開発、ゆくゆくは臨床現場を支援することを目指す。臨床現場での活用を見据え、ソフトウエア医療機器としてPMDA（医薬品医療機器総合機構）やFDA（米食品医薬品局）の承認を取得することを目指している。多くの医療機関と共同研究を進めているほか、画像診断装置やPACSのメーカーとの連携も強化中だ（<a href="http://tech.nikkeibp.co.jp/dm/atcl/event/15/041100166/042400014/" target="_blank">関連記事3</a>）。　</p><p>　AIを用いた医療画像診断支援技術の開発例は少なくないが、その中でもEIRLには4つの差異化要素があると島原氏は説明する。第1に、AIに学ばせる教師データの質が高いこと。「専門医がダブルチェックやトリプルチェックしたデータを学ばせている」（島原氏）。第2に、少ない量のデータから効率的に学べるよう機械学習のアプローチを工夫している。</p><p>　第3に、ロバスト性を重視している。入力する画像の品質ばらつきや画像診断装置メーカーごとの特徴の違いによらず、正しく診断を支援できる能力だ。ロバスト性を高めるために、複数メーカーの画像診断装置の撮影画像を幅広く集めて学習させているという。第4に、API（Application programming interface）を提供し、ユーザー側の環境に依存せず利用できるようにしている。</p><p></p></div><div><div><span>1</span></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/042500510/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/042500510/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
-			<pubDate>Wed, 02 May 2018 08:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>太陽光の直流回路、「2000V」も視野、中国トリナ・ソーラーが展望</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/050211063/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Wed, 02 May 2018 14:38:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>テレビやセンサーを活用して自宅を病室に</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/050211064/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><div class="bpbox_right" style="width:200px;"><div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/050211064/?SS=imgview_ndh&amp;FD=-378335300" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/news/16/050211064/Smart-Home-Medical-Care_01.jpg?__scale=w:200,h:87&amp;_sh=05f0cd01e0" width="200" height="87" alt=""></a></div><div>テレビを利用したお声がけ機能のイメージ</div><div>クリックすると拡大した画像が開きます</div></div><div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/050211064/?SS=imgview_ndh&amp;FD=-377411779" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/news/16/050211064/Smart-Home-Medical-Care_02.jpg?__scale=w:200,h:108&amp;_sh=050051030f" width="200" height="108" alt=""></a></div><div>スタッフの訪問状況を地図上にプロットする動態管理機能</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　オプティムは、人工知能（AI）やIoTを活用した在宅医療支援サービス「Smart Home Medical Care」の提供を全国の医療機関向けに始める。在宅医療にかかわる業務の負荷軽減や効率化を推進するサービスである。</p><p>　テレビ画面とバイタルセンサーなどのIoT機器を用いて、在宅医療を支援する。ビデオ通話（お声がけ機能）は、患者が普段利用しているテレビ（対応できない機種もあり）やタブレット端末に医療機関側から発信して行う。テレビ側が自動的に応答してビデオ通話できるため、機器操作が不得手な高齢者でも利用可能とする。</p><p>　IoT機器を用いたデータ取得・管理機能は、バイタルセンサーによるバイタルデータだけでなく、室温センサーなどによる環境管理も可能。室温が一定の温度を超えると医療機関側にアラートが通知されるため、熱中症予防につなげることができる。</p><p>　患者の情報やお声がけ対応状況などはダッシュボード機能に集約され、一覧で確認可能。環境管理機能で通知されたアラートやこれまでのアラート件数推移も、グラフ化されて分かりやすく確認することが可能なため、業務全体の概況を把握することができる。</p><p>　医療機関のスタッフが利用するタブレット端末の所持情報や現在位置、作業進捗などの訪問状況を把握・管理する動態管理機能もある。今後、ナースコール機能の搭載、ヘルスケア機器やバイタルセンサーとの連携拡大、AIカメラによる見守り機能などを実装していく計画という。</p><p></p><h4>織田病院での実証実験では…</h4><p>　今回のサービスは、祐愛会 織田病院（佐賀県鹿島市、織田正道理事長）において「在宅医療あんしんパック」のサービス名称で、その有用性を評価する実証実験を行ってきた。病院スタッフ21人、通院患者47人を対象とし、2016年10月26日～2018年3月8日の期間に実施した。</p><p>　アンケート調査による実証実験結果によると、約5割のスタッフが同サービスの利用により、業務改善につながったと回答。最も多かった理由としては、「不必要な臨時訪問の削減などによる業務量の削減ができた」点だったという。また、約6割の患者が同サービスを利用することで、「より安心感につながった」と回答した。</p><p>　同サービスの特徴でもあるテレビを用いたビデオ通話の仕組みについては、スタッフの9割が評価し、患者からの意見でもタブレットより使いやすいという結果となったとしている。</p><p>　調査結果を基に品質改善・機能向上や、新機能の搭載、連携機器の拡大などに関して、織田病院などで引き続き実証していくとしている。</p></div>]]></description>
-			<pubDate>Wed, 02 May 2018 15:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>利用者の自立可能性を見出し、最適なケアプラン提案</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/050211065/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><div class="bpbox_right" style="width:200px;"><div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/050211065/?SS=imgview_ndh&amp;FD=731396818" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/news/16/050211065/CDI-Platform-MAIA_01.jpg?__scale=w:200,h:151&amp;_sh=080f50b40a" width="200" height="151" alt=""></a></div><div>CDI Platform MAIAの表示画面</div><div>クリックすると拡大した画像が開きます</div></div><div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/050211065/?SS=imgview_ndh&amp;FD=732320339" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/news/16/050211065/CDI-Platform-MAIA_02.jpg?__scale=w:200,h:150&amp;_sh=0b60230c50" width="200" height="150" alt=""></a></div><div>実証導入に向けた操作説明会の様子</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　人工知能（AI）によるケアプラン作成の取り組みを進めているシーディーアイは、学習した経験値から介護サービス利用者の自立可能性を見出し、最適なケアプランと将来予測を提案するシステム「CDI Platform MAIA」実証版を開発した。全国各地の15法人が試験導入し、38事業所に所属する104人のケアマネジャーがケアマネジメントの現場で利用していく予定という。</p><p>　今回のシステムでは、ケアマネジャーが介護保険制度の歴史とともに現場で培ったノウハウを学習する。利用するケアマネジャーがケアプランを策定する際に、同システムの利用により客観的なデータに基づくケアプラン策定と、介護サービス利用者やその家族との合意形成の実践が可能になるなど、ケアマネジャーは専門性の高い業務に専念することができるようになるという。</p><p>　今後、より多くのケアマネジャーが利用することにより、さらに経験知を蓄積し、成長させていく。ケアマネジャーとの間に強いパートナーシップを築くことによって、日本のケアマネジメントをさらに進化させたいとしている。</p><p>　試験導入先は以下の通り（五十音順）。岡山純心会（岡山市北区）、こうほうえん（鳥取県米子市）、純心会（香川県善通寺市）、成仁（東京都足立区）、セントケア千葉（千葉市中央区）、セントケア東京（東京都中央区）、ツクイ（横浜市港南区）、野の花会（鹿児島県南さつま市）、博愛福祉会（兵庫県加古川市）、日の出福祉会（兵庫県加古郡）、福祉の街（さいたま市大宮区）、奉志会（兵庫県加古郡）、三井住友海上ケアネット（東京都世田谷区）、和光会（岐阜県岐阜市、医療法人および社会福祉法人）。</p></div>]]></description>
@@ -233,10 +215,28 @@
 			<pubDate>Wed, 09 May 2018 14:35:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>グラフで見るWSTS世界半導体統計（～2018年3月）</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/scr/15/273317/050900040/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Wed, 09 May 2018 14:55:11 +0900</pubDate>
+		</item>
+		<item>
 			<title>太陽インキ、アップル向け生産を「100％再エネ」に  </title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/050911083/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Wed, 09 May 2018 15:12:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>藻類の機能をデバイス化、太陽光で発電しつつギ酸を合成</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/050911084/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Wed, 09 May 2018 16:13:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>LED光源内視鏡で微小病変の発見を支援、富士フイルム</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/050911086/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><div class="bpimage_right" style="width:260px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/050911086/?SS=imgview_ndh&amp;FD=692985389" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/news/16/050911086/6000.jpg?__scale=w:250,h:306&amp;_sh=0730360f50" width="250" height="306" alt=""></a></div><div>LED光源搭載内視鏡システム「6000システム」（プレスリリースより）</div><div>クリックすると拡大した画像が開きます</div></div><p>　富士フイルムは、LED光源を搭載した内視鏡システム「6000システム」を発表した。富士フイルムメディカルを通じて2018年5月16日に発売する。「第95回 日本消化器内視鏡学会総会」（2018年5月10～12日）で披露する。</p><p>　6000システムは、複数のLED照明の発光強度比を制御することで、白色光と短波長狭帯域光を生成することができる。それぞれの光を使って得られた画像に信号処理を施すことで、「BLI（Blue Light ImagingおよびBlue LASER Imaging）」画像と「LCI（Linked Color Imaging）」画像、白色光画像の3種類の画像を取得することが可能である。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/050911086/?SS=imgview_ndh&amp;FD=2009772088" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/news/16/050911086/chuu.jpg?__scale=w:500,h:262&amp;_sh=01001801d0" width="500" height="262" alt=""></a></div><div>（右）BLI画像、（左）LCI画像（プレスリリースより）</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　BLI画像は臓器の粘膜表層の微細な血管や粘膜の微細な構造などを強調して表示し、LCI画像では画像の赤色領域のわずかな色の違いを強調して表示する。白色光画像は、通常の観察に適した画像である。それぞれの画像が異なる特徴を強調することで、「微小な病変の発見を支援したい」（富士フイルム）としている。</p><p>　同社はかねて、波長の異なる2種類のレーザー光を用いた内視鏡システム「LESEREO（レザリオ）」手掛けてきた。波長の異なる「白色光観察用レーザー」と「狭帯域光観察用レーザー」の発光比率を変えることで、BLI画像とLCI画像を取得することを可能にしていた。6000システムでは光源にLEDを用いることで、LESEREOに比べて安価に提供できるとみられる。</p></div>]]></description>
+			<pubDate>Wed, 09 May 2018 16:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>

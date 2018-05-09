@@ -5,19 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    次期6.5インチiPhoneはiPhone 8 Plusと同じサイズ？廉価版は6.1インチではなく6インチとのうわさ
-</title>
-			<link>https://japanese.engadget.com/2018/05/08/6-5-iphone-iphone-8-plus-6-1-6/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/81473adb5c0d8e133b14e9da2c45b278/206355125/kgi-three-iphones-2018+%281%29.jpg" />
-2018年秋に登場が噂される6.5インチOLED版iPhoneはiPhone 8 Plusと同じサイズになるとの噂が、信頼できるサプライヤーからの情報として報じられています。
-
-リアカメラの実装形式が変わるため、同モデルはiPhone 8 Plusよりも0.2mmほど厚みが増すとのこと。iPhone 8 Plusの厚みは7.5mmのため、7.7mm程度になると推測されます。
-
-また5.8インチOLED版、すなわちiPhone Xの後継機は現行モデルと同じ筐体を採用するものの、カメラセンサーの大型化に伴い、レンズも大きくなると伝えられています。
- ]]></description>
-			<pubDate>Tue, 08 May 2018 01:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Androidの標準アシスタントとしてAlexaが利用可能に。ホームボタン長押しで起動可能
 </title>
 			<link>https://japanese.engadget.com/2018/05/08/android-alexa/</link>
@@ -409,6 +396,18 @@ iPhone Xの売れ行きについては様々なメディアやアナリストが
 とはいえ、クックCEOはiPhoneシリーズ内、あるいは前期と比較しての相対評価を述べたに過ぎず、具体的な販売台数は公表していません。これまで飛び交ってきた数々の噂は正しかったのか、それをアップル公式の「最も売れているiPhone X」という見解とどうすり合わせるのか。順を追って検証していきましょう。
  ]]></description>
 			<pubDate>Wed, 09 May 2018 02:45:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Waymo、Google I/Oで降雪時の自動運転について紹介。機械学習でセンサー情報から雪を除去
+</title>
+			<link>https://japanese.engadget.com/2018/05/09/waymo-google-i-o/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/b976bb1282b0571387048f16ecd078d3/206359236/mainwym.gif" />
+自動運転車は、ルーフや車体各部に取り付けた各種センサーで路上や周囲の情報を読み取り、それをコンピューターがリアルタイムに分析して自動車の操縦を行います。しかし、ひとたび雪が積もってしまえばセンターや路肩のライン、停止線などはは見えなくなり、場合によっては道路標識も雪に覆われて判別不能になってしまいます。
+
+そんな一般のドライバーでも運転が難しい状況で自動運転車を走らせたらどうなるか、Googleの自動運転車開発を受け持つWaymoがその様子を5月9日の開発者会議Google I/Oで発表しました。
+ 
+ ]]></description>
+			<pubDate>Wed, 09 May 2018 03:45:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
