@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n10</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Microsoft、Windows Analyticsを活用する解説書のドラフト版を公開（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/041200423/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftは、「Windows Analytics」から得られる情報をカスタマイズして活用する方法を解説した文書「Windows Analytics Extensibility」のドラフト版を公開した。Windows Analyticsを利用している企業のIT部門や、カスタムソリューションの開発を手がけているパートナー企業が、Windows Analyticsのデータに基づいて独自のレポートやアラートを作成したり、Windows Analyticsのデータを他の情報と統合して一歩掘り下げた分析を行ったりするための方法が説明されている。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041200423/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　Windows Analyticsは、「Upgrade Readiness」「Update Compliance」「Device Health」の3つのサービスから成り、MicrosoftがWindowsパソコンを通じて収集しているテレメトリデータを基にした情報を把握できる。無償のサービスだが、Windows 10のEnterpriseとEducationのライセンスに付随する特典であることから、これらのエディションを導入している企業や組織でなければ利用できない。
-</p>
-<p>
-　各サービスでは、Windows 10 EducationあるいはWindows 7 Enterpriseといった、EnterpriseエディションやEducationエディションで稼働するデバイスについての情報を把握できる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041200423/?ST=cio-appli&P=2">3つのサービスのうち、UpgradeReadin...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041200423/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041200423/?ST=cio-appli&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041200423/?ST=cio-appli&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041200423/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Thu, 12 Apr 2018 10:40:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d10</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>グラフデータベースの基礎知識（下）（グラフデータベースの基礎知識）</title>
@@ -1142,6 +1104,46 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/234646/032900044/</link>
 			<description><![CDATA[　小池都政が誕生し、1年半がたった。各種報道は、2017年10月の衆院選を境に批判的内容が目立つ。しかし、都庁の現場の変化や政策の中身を吟味せずに書かれた印象論が多い。本来は、知事として組織と予算を動かした業績を評価すべきだ。]]></description>
 			<pubDate>Thu, 10 May 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIでマインドリーディングの時代が到来（後）（AIでマインドリーディングの時代が到来）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/042300133/042300002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　筆者は思う。人間の考えや心をソフトウエアで読み取るマインドリーディング・テクノロジーは、商用利用にふさわしい段階に達しているのみならず、日々のビジネスできっと役に立つと。何を言っているんだ、と思う人もいるだろう。そんな技術は気味が悪いし、プライバシーの侵害だし、使い道がないと思うかもしれない。そういう人は、ぜひ今回のコラムを読んでみてほしい。考えが変わるかもしれない（そして、そのように考えが変わったことも、デバイスできっと読み取れるようになる）。</p>
+
+<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/042300133/042300001/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300133/042300002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　昔も今もユーザーインタフェース企業の米Microsoftは、脳の活動に基づいてコンピューターやアプリケーションの状態を変更するインタフェースの特許を2017年に取得した。</p>
+
+<p>　例えば、音楽の再生であれば、音の大きさに不快感を覚えたという脳の活動に基づいて音量を下げるといった例が考えられる。同様の技術は、マウスの精度向上から、複合現実（MR）デバイス「HoloLens」のアプリケーションの進化に至るまで、Microsoft関連のあらゆる製品に応用できる可能性が考えられる。</p>
+
+<p>　マインドリーディングの研究は、言葉に関してだけでなく、目にした画像の判別という面でも前進しつつある。</p>
+
+<p>　カナダのトロント大学スカボロ校の最近の研究では、被験者に見てもらった人物の画像を、脳の活動に基づいて大まかに再現できることが示された。</p>
+
+<p>　13人の被験者に140人の顔の画像を見せ、その時の脳波（EEG）のデータを、研究チームが開発したAIアルゴリズムで処理したところ、不鮮明ながらも識別可能な形で、被験者が目にした画像を再現した。</p>
+
+<p>　記憶だけから顔を再現することも間もなく可能になると研究チームは確信している。そのような離れ技は、明らかに警察で使い道がありそうだ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300133/042300002/?ST=cm-industries&P=2">京都大学の研究チームも、トロント大学の研究と同じような働きを持つ...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300133/042300002/?ST=cm-industries&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300133/042300002/?ST=cm-industries&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300133/042300002/?ST=cm-industries&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300133/042300002/?ST=cm-industries&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 10 May 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
