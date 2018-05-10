@@ -5,52 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d10</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>グラフデータベースの基礎知識（下）（グラフデータベースの基礎知識）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/040300126/040300003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　今回の記事では、グラフデータベースとは何なのか、他のデータベースとどう違うのか、データに関するどのような問題を解決するためのものなのかを見ていくことにしよう。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/040300126/040300002/" target="_blank">前回</a>から続く）</p>
-
-<h4>グラフデータベースの主な製品</h4>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300003/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　グラフデータベースは、どちらかと言うとニッチな用途を満たすものであることから、製品の数はリレーショナルデータベースにはほど遠い。逆に言えば、主要な製品を選び出して検討するのはリレーショナルデータベースより簡単だ。</p>
-
-<p><b>Neo4j</b></p>
-
-<p>　Neo4jは、最も成熟（11年超）していて最も知名度が高い汎用的なグラフデータベースであると言って差し支えない。従来のグラフデータベース製品とは違って、SQLのバックエンドを使わない。ネイティブなグラフデータベースとして完全に設計された製品で、数十万以上に及ぶリレーションを返すクエリなどの大規模なグラフ構造にも対応できる。</p>
-
-<p>　Neo4jには、無償のオープンソース版と、有償のエンタープライズ版の両方がある。エンタープライズ版は、データセットのサイズが無制限であるなど、オープンソース版にはない機能や特徴を備えている。このほか、サンプルのデータセットを使ってNeo4jをネット上で試用できる「<a href="https://neo4j.com/sandbox-v2/" target="_blank">Neo4j Sandbox</a>」もある。</p>
-
-<p>　Neo4jについては、InfoWorldの<a href="https://www.infoworld.com/article/3256064/database/review-neo4j-graph-database-supercharges-graph-analytics.html" target="_blank">こちらのレビュー記事</a>も参考にしてほしい。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300003/?ST=cio-appli&P=2">MicrosoftAzureCosmosDB米M...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300003/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300003/?ST=cio-appli&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300003/?ST=cio-appli&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/040300126/040300003/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Fri, 13 Apr 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n10</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Splunk、インダストリアルIoT向け製品を発表（Computerworldニュース）</title>
@@ -1144,6 +1102,46 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 10 May 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Googleマップが新機能でパーソナライズを強化、ARの道案内機能も今後搭載か（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/051000430/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　機械学習を活用すれば、一人ひとりのニーズや要望にぴったり合ったインターネットを提供できる。米Googleは何年も前から、そのようなビジョンを熱心に打ち出してきた。それを印象的な形で具現化したのが、新機能を搭載して数カ月以内に登場する予定の「Googleマップ」アプリだ。開発者向けイベント「Google I/O 2018」の基調講演では、それらの新機能の発表があった。拡張現実（AR）とコンピュータービジョンを活用して、道案内のあり方をがらりと変えるかもしれない興味深い構想の披露もあり、聴衆をうならせた。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/051000430/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Google</div>
+</div>
+<p>
+　今度のGoogleマップアプリは、「Explore（周辺のスポット）」タブのデザインを見直したほか、「For You」という新しいタブを追加した。各地域のレストラン、店舗、催しに関して表示される情報は、10億人を超えるユーザーの一人ひとりに合わせたパーソナライズの度合いを高めている。新しい店のオープンなど、面白そうなイベントや、ユーザー本人に合ったお勧めを紹介して、新たな発見を促すことに主眼を置いている。
+</p>
+<p>
+　お勧めとして表示される情報は、物理的な距離の近さだけでなく、そのエリアでの流行や、各ユーザーに関してGoogleがサーバーに保存している貴重なデータの数々を踏まえて導き出されている。例えば、ギリシャ料理店に好んで行く人なら、For Youタブの情報はそうした傾向の料理になる。逆に、本人が嫌いな料理は回避される。
+</p>
+<p>
+　表示されるお店の詳細情報の中には、本人へのマッチ度が数値（％）で示されている。そのお店をどの程度好きそうかをGoogleが推測したスコアだ。これも、本人の履歴や好みに基づいてはじき出されている。例えば、ヘルシー料理とギリシャ料理が好きな人なら、新規オープンしたヘルシーなギリシャ料理の店は、For Youタブの中でマッチ度のスコアが高くなるはずだ。一方、揚げ物中心の大衆食堂は、さほど高いマッチ度にはならないことが考えられる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/051000430/?ST=cio-appli&P=2">また、本人に合ったお勧め機能が強力でも、仲間たち...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/051000430/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/051000430/?ST=cio-appli&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/051000430/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Thu, 10 May 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
