@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n11</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Splunk、インダストリアルIoT向け製品を発表（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041300492/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Splunkが、インダストリアルIoT向けのソリューション「Industrial Asset Intelligence」を発表した。インダストリアルIoTの機器を通じたデータ収集と分析に利用できる。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041300492/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Getty Images</div>
-</div>
-<p>
-　SplunkでIoTのプロダクトマーケティング担当ディレクターを務めるSeema Haji氏によると、Industrial Asset Intelligenceは、「Splunk Enterprise」のプラットフォーム上で使う分析ツールをパッケージ化したソリューションで、インダストリアルIoTの多彩な用途に利用できる設計となっている。
-</p>
-<p>
-　「インダストリー4.0は範囲が広く、運輸、石油・ガス、エネルギー、公益事業などの顧客企業が幅広く含まれる。こうした企業は現在、Splunk Enterpriseを利用している。今後は、Splunk Enterpriseを使って、産業データについての洞察を獲得することになる」
-</p>
-<p>
-　Splunkは、ログ分析やインフラ管理のためのソフトウエアの開発元として知られ、ビッグデータ分析の専門技術を主軸としてきた。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041300492/?ST=cm-hardware&P=2">見通しのきかない産業界で歩みを進めていくために、Splunkは多...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041300492/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041300492/?ST=cm-hardware&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041300492/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 13 Apr 2018 10:28:41 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d11</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>企業のセキュリティ、CEOが信じている6つの神話（上）（企業のセキュリティ、CEOが信じている6つの神話）</title>
@@ -1142,6 +1104,59 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 10 May 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>施行が迫るEU一般データ保護規則、対応はいかに（下）（施行が迫るEU一般データ保護規則、対応はいかに）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/042300132/042300003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　欧州連合（EU）の一般データ保護規則（GDPR：General Data Protection Regulation）は、2018年5月25日に施行となる。皆さんの会社は、GDPRへの準備が整っているだろうか。</p>
+
+<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/042300132/042300002/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300132/042300003/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　次の一歩は、すべての個人データ処理について、最新の正確な詳細情報を提供できるよう、記録を保持しておくことだ。この要件は以下の場合に適用される。</p>
+
+<ul>
+<li>企業や団体の従業員が250人以上の場合</li>
+<br>
+<li>企業や団体の従業員が250人未満だが、その個人データ処理がデータ主体の権利と自由にリスクをもたらす可能性がある場合、データ処理が散発的ではない場合、データ処理の対象に特別カテゴリーの個人データが含まれる場合、または、有罪判決および犯罪に関連するデータの場合</li>
+</ul>
+
+<p>　企業や団体に課せられる要件は、個人データの管理者（controller）と処理者（processor）のどちらであるかによって異なる（両方を兼ねる企業や団体も多い）。管理者とは、個人データ処理の目的と手段を決定する主体。処理者とは、管理者のために個人データを処理する主体だ。全般にGDPRは、同意の取得、同意の撤回の管理、個人データにアクセスする権利の実現に関しては、データ管理者にその責任を課している。また、GDPRを満たしているデータ処理者を選ぶこともデータ管理者の責任だ。</p>
+
+<p>　GDPRの対象となるデータを特定し、保持しておく必要がある記録や、データをどこでどのように処理しているかを確認できたら、次は、GDPRの要求事項に対するギャップ分析を実施して、現在の遵守の水準を明確化する。これにより、GDPR遵守プログラムの範囲や、遵守のために着手する必要がある主な活動を見極めやすくなる。</p>
+
+<p>　ISFのGDPR Implementation Guideでは、以下を検討することによってGDPR遵守のギャップ対応の優先順位を見極めることを勧めている。</p>
+
+<ul>
+<li>高リスクとなる可能性が高い個人データ処理（例えば、特別カテゴリーの個人データ、有罪判決や犯罪に関するデータ、子供に関する個人データ）</li>
+<br>
+<li>監督機関から大きな罰を受けるであろう特定分野での違反</li>
+<br>
+<li>長い期間を要する可能性がある変更（例えば、システム開発が必要な変更、新しいITサービスの調達を伴う変更、大幅な実装を伴う変更など）</li>
+<br>
+<li>自社のリスク選好にそぐわない手法</li>
+</ul>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300132/042300003/?ST=cio-security&P=2">GDPRへの準備でCIOに必要な手順</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300132/042300003/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300132/042300003/?ST=cio-security&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300132/042300003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Fri, 11 May 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
