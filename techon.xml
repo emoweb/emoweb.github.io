@@ -5,24 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>太陽光のCO2削減価値を直接取引、ブロックチェーンで実証</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/050611069/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Mon, 07 May 2018 07:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>関電、苅田町でバイオマス発電、住重の循環流動層</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/050611070/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Mon, 07 May 2018 08:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>オンライン診療、保険適用は前進か後退か？</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/040100163/050100087/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><p>　対面診療とオンラインでの遠隔診療を組み合わせた新しい医療を、次の診療報酬改定でしっかり評価する——。安倍晋三首相の2017年4月の発言から1年。2018年度診療報酬改定では、異例ともいえる早さでオンライン診療料が新設された。</p><p>　ICT（情報通信技術）を活用しつつ、医療の効率化や医師の働き方改革を進対めたい政府にとって、オンライン診療は今回の改定の重要なテーマの一つだった。ICTを用いた新しい診療形態が保険医療にどのように位置づけられるか、医療者からの関心も高かった。</p><p>　保険適用を歓迎する声の一方で、予想外に厳しくついた算定条件への戸惑いの声も少なくない。今回の改定を、医療現場はどう受け止めたのか。</p><p></p><h3>Part 1<br>長期管理の患者で算定可能、電話等再診とは切り分け</h3><p>　オンライン診療とは、スマートフォンのビデオ通話機能などを使って、医師と患者がインターネットでつながって行う診療を指す。従来は遠隔診療とも呼ばれてきたが、医師と患者の間の物理的距離を埋めることが主目的ではなく、両者のコミュニケーションを密にし、診療の質を高めるという観点から、最近はオンライン診療と呼ばれることが増えるようになった。</p><p>　今回の改定では、対面診療を原則とした上で、有効性や安全性への配慮などの要件を満たしてオンライン診療を行った場合に「オンライン診療料」「オンライン医学管理料」などを算定できるようになった（表1、表2）。点数はオンライン診療料が1カ月につき70点、オンライン医学管理料が同100点に設定された。ほかに「在宅時医学総合管理料 オンライン在宅管理料」（表3）、「精神科在宅患者支援管理料 精神科オンライン在宅管理料」（いずれも1 カ月につき100点）も新設された。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/040100163/050100087/?SS=imgview_ndh&amp;FD=-1099032330" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/040100163/050100087/n1.jpg?__scale=w:500,h:679&amp;_sh=0410fe0600" width="500" height="679" alt=""></a></div><div>表1●2018年度診療報酬改定で新設されたオンライン診療料</div><div>クリックすると拡大した画像が開きます</div></div></div><p></p><div><div class="bpimage_double" style="width:510px;"><div class="bpimage_left" style="width:150px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/040100163/050100087/?SS=imgview_ndh&amp;FD=319343008" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/040100163/050100087/n21.jpg?__scale=w:150,h:255&amp;_sh=09f09c0e10" width="150" height="255" alt=""></a></div><div>表2●新設されたオンライン医学管理料</div><div>クリックすると拡大した画像が開きます</div></div><div class="bpimage_right" style="width:350px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/040100163/050100087/?SS=imgview_ndh&amp;FD=320266529" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/040100163/050100087/n22.jpg?__scale=w:350,h:199&amp;_sh=0e70ea0a50" width="350" height="199" alt=""></a></div><div>表3●在宅時医学総合管理料で新設されたオンライン在宅管理料</div><div>クリックすると拡大した画像が開きます</div></div></div></div><p>　オンライン診療料を算定できるのは、特定疾患療養管理料や難病外来指導管理料、地域包括診療料、生活習慣病管理料など、10種類の管理料や指導料のいずれかを算定している患者。予約料の徴収はできないが、情報通信機器に関する費用は別途徴収できることとなった。</p><p>　これまでオンライン診療に対応する診療報酬は設定されていなかったため、先駆的に行ってきた医療機関は「電話等再診」の枠組みを利用してきた。電話等再診は、患者から治療上の意見を求められ、電話などで必要な指示をしたときに算定できる再診料。診療所や200床未満の医療機関が1回当たり72点を算定できる。対面診療後の患者にオンラインで再診を行った場合、これを電話等再診の一形態とみなして報酬を算定していた。</p><p>　今回の改定ではオンライン診療に特化した診療報酬を新設し、電話等再診とは役割を切り分けた。電話等再診の算定要件に「定期的な医学管理を前提として行われる場合は算定できない」との文言を追加。オンライン診療を定期的な医学管理に使う場合には、電話等再診を算定できない建てつけにした。<br></p></div><div><div><span>1</span></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/040100163/050100087/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/040100163/050100087/?ST=health&amp;P=3"><span>3</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/040100163/050100087/?ST=health&amp;P=4"><span>4</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/040100163/050100087/?ST=health&amp;P=5"><span>5</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/040100163/050100087/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
-			<pubDate>Mon, 07 May 2018 08:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>中国LONGi、「ハーフカット単結晶PERC」で360Ｗ、同タイプ世界新</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/050611071/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -237,6 +219,24 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/051011091/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Thu, 10 May 2018 17:22:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>太陽電池20年史に見る“栄枯盛衰”</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/column/15/286991/050700081/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 11 May 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>米スポーツ産業の「祭典」で見た日米市場格差10倍の理由</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/110200006/050700117/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div><div><span>1</span></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/110200006/050700117/?P=2&amp;ST=SIO-tec">2</a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/110200006/050700117/?P=3&amp;ST=SIO-tec">3</a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/110200006/050700117/?P=2&amp;ST=SIO-tec">次のページ ≫</a></div></div>]]></description>
+			<pubDate>Fri, 11 May 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>［特報］第２の大東建託か？福島電力が新電力撤退へ</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/031400070/051000055/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 11 May 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
