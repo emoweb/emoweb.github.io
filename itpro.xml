@@ -5,42 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d11</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>企業のセキュリティ、CEOが信じている6つの神話（上）（企業のセキュリティ、CEOが信じている6つの神話）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/041000128/041000001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　セキュリティ対策が万全だとCEOたちが誤解する理由は、ITセキュリティに関してトンデモ説の域に近い神話を信じ込まされているからだ。間違ったことを信じている時に、正しいことを効果的に実践するのは難しい。今回の記事では、コンピューターセキュリティについてCEOが信じがちな神話を6つ紹介する。</p>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041000128/041000001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　企業の最高経営責任者（CEO）は、自社の戦略計画と事業全体を主導する立場にある。責任を負うべき対象は多い。それだけに、自社のITセキュリティに関して、CEO自身の取り組み、あるいは、ITセキュリティ担当に任命した精鋭の人材たちの取り組みが万全であると誤解していたとしても仕方ないかもしれない。実際には、効果のない部分に多額のITセキュリティ予算を無駄に投じているにもかかわらず、しかるべき脅威に向けて、しかるべき場所で、しかるべき策を講じていると思い込んでいることがある。</p>
-
-<p>　策が万全だとCEOたちが誤解する理由は、ITセキュリティに関してトンデモ説の域に近い神話を信じ込まされているからだ。間違ったことを信じている時に、正しいことを効果的に実践するのは難しい。今回の記事では、コンピューターセキュリティについてCEOが信じがちな神話を6つ紹介する。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041000128/041000001/?ST=cio-security&P=2">神話1：攻撃者は止められない</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041000128/041000001/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041000128/041000001/?ST=cio-security&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041000128/041000001/?ST=cio-security&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041000128/041000001/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Mon, 16 Apr 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n11</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>macOS、32ビットアプリの警告表示を開始、サポート終了に一歩近づく（Computerworldニュース）</title>
@@ -1157,6 +1125,45 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 11 May 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>iPhoneのメッセージアプリが固まる「黒丸」バグ、対処法は（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051100501/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　特殊なUnicode文字列を埋め込んだメッセージを使って主要アプリをフリーズさせる手法がまたも見つかった。今度の餌食は、米Appleの純正アプリ「メッセージ」だ。この不具合は「Black Dot（黒丸）」バグと呼ばれている。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051100501/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: IDG</div>
+</div>
+<p>
+　この問題は、iPhoneとiPadのiOS 11.3および11.4 betaで確認されているほか、Apple WatchやApple TVにも影響する可能性が高い。Macのメッセージアプリにも影響するかもしれないが、Macの方がリソースが多いことから、アプリが完全に無反応になる前に、該当するメッセージのスレッドを素早く削除することで対処できる可能性も考えられる。
+</p>
+<p>
+　この不具合は、見えないUnicode文字が多数埋め込まれたiMessageのメッセージ（SMSのメッセージではない）をiPhoneやiPadのメッセージアプリで表示する時に生じる。すべての文字を処理するために大量のメモリーやCPUサイクルが消費され、アプリが無反応になるというものだ。フリーズしたメッセージアプリを閉じることができたとしても、同じアプリを再び開くと、問題のメッセージの再表示で即座にフリーズ状態に戻ってしまう。
+</p>
+
+<p>
+　黒丸バグと呼ばれている理由はこうだ。最近、同じようなUnicode文字列のメッセージを使ったバグが「WhatsApp」のアプリでも見つかり、拡散していた。そちらのメッセージは、「&lt;●&gt;」という記号を指さす絵文字が使われていて、この黒丸をタップしないようにという注意があった。これをタップすると、その部分に隠れているUnicode文字列を展開する処理が始まり、アプリがクラッシュする。今回のiOSのバグは、流れが多少異なるが、メッセージには同じ記号が使われている。どちらの手法も、技術的には黒丸の絵文字自体が悪さをしているわけではないが、この名前で呼ばれるようになった。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051100501/?ST=cm-software&P=2">iPhoneやiPadのメッセージアプリで黒丸バグのメッセージを...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051100501/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051100501/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051100501/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 11 May 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
