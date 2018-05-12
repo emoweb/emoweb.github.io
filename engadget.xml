@@ -5,16 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    運転席に人が乗車しないレベル4自動運転をKDDIが公開
-</title>
-			<link>https://japanese.engadget.com/2018/05/10/4-kddi/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/ba3d99a128fc4e4b8dfd4801c2fb61f4/206355932/P5070092.jpg" />
-
-KDDIは福岡国際会議場で開催中の「第16回 アジア太平洋地域ITSフォーラム2018福岡」にて、同社が開発中の運転席に人が乗車しないレベル4の自動運転のデモを披露。後部座席に取材陣を乗せて、実際に自動運転で走行する体験会が行われた。
- ]]></description>
-			<pubDate>Thu, 10 May 2018 05:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    外科手術ロボットDa Vinciを使った初の脊索腫除去手術が成功。患者はすでに職場復帰
 </title>
 			<link>https://japanese.engadget.com/2018/05/10/da-vinci/</link>
@@ -272,6 +262,20 @@ SpaceXが、1日延期となっていたFalcon 9 Block 5の初の打上げに成
 5月11日に店頭販売も開始されたLenovoのDaydream対応のスタンドアロン型VRヘッドセット「Mirage Solo」と180度撮影に対応した「Mirage Camera」を使ってみたのでレビューしてみます。
  ]]></description>
 			<pubDate>Fri, 11 May 2018 20:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Armが「1兆台のIoT機器へ向けたセキュリティ技術」Arm Mbedで実現するものとは
+</title>
+			<link>https://japanese.engadget.com/2018/05/12/arm-1-iot-arm-mbed/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/a91fdbedcc89d933afe461b2ed2adbea/206368778/ph03_s.jpg" />
+半導体メーカーのアーム（Arm）は5月10日、東京都内で記者会見を開き、同社のIoTプラットフォーム「Arm Mbed Platform」の最新戦略とセキュリティ分野での取り組みについて説明した。
+
+今後ネットワーク接続可能なデバイスの急増が見込まれる一方で、そこから得られる膨大なデータの処理や個々のデバイス管理、ハッキングへの対策など、検討しなければいけない課題が多く存在している。
+
+予測によれば、2025年までに11兆米ドル規模の市場となり、数の面では2035年までに1兆個デバイスが接続されるという話もある。現状で十数億台規模とされているネットワークが、一気に100倍近くになる計算だ。
+Arm Mbedは、IoTデバイスに対しても従来のスマートデバイスなどで培われたセキュリティ対策や各種機能を提供し、包括的な管理機能を実現する。
+ ]]></description>
+			<pubDate>Sat, 12 May 2018 09:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
