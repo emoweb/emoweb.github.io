@@ -5,49 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n14</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>macOS、32ビットアプリの警告表示を開始、サポート終了に一歩近づく（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041600493/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Appleは、「Mac」のテクノロジーを32ビットから64ビットに移行する作業をしばらく前から進めていたが、これまでの取り組みはApple自身や開発者を対象としたもので、一般ユーザーには特に影響はなかった。だが、これからは違う。「macOS High Sierra 10.13.4」で、従来の32ビットアプリを使う時に、ユーザーに向けて警告メッセージが表示されるようになるからだ。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041600493/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: IDG</div>
-</div>
-<p>
-　この警告メッセージは、アプリの動作が最適なものではない可能性をユーザーに伝え、そのアプリのアップデートが公開されているか確認するよう促すためのものだ。Appleは、iOSで32ビットから64ビットへの移行を進めた時も、似たような警告を表示していた。
-</p>
-<p>
-　今回始まった警告メッセージは、32ビットアプリを起動したタイミングでのみ表示される。詳細情報のボタンをクリックすると、32ビットから64ビットへの移行について説明したAppleのサポートページの<a href="https://support.apple.com/ja-jp/HT208436" target="_blank">記事</a>が開く。
-</p>
-<p>
-　この警告メッセージは、macOS 10.13.4のアップデートに含まれているもので、2018年4月12日に発動する。10.13.4をまだインストールしていない場合、Macをアップデートした時点から表示されるようになる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041600493/?ST=cm-software&P=2">この警告に対して必要な措置は</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041600493/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041600493/?ST=cm-software&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041600493/?ST=cm-software&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041600493/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 16 Apr 2018 10:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d14</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>アプリ構築の時短を後押しするローコード開発とは（前）（アプリ構築の時短を後押しするローコード開発とは）</title>
@@ -1164,6 +1125,41 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 11 May 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIの搭載でBIが賢く便利に（上）（AIの搭載でBIが賢く便利に）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/042700134/042700001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　機械学習を活用したデータ分析の恩恵にあやかりたいと考えている企業各社は、少々意外な旧知の助っ人に目を向けつつある。ビジネスインテリジェンス（BI）システムだ。BIシステムというと、これまでは主に過去の実績の分析を担ってきたが、今や人工知能（AI）を取り入れて、予測機能を搭載したレポート能力を備えつつある。</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700134/042700001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　AIをBIに取り入れた企業の一例が、米ヘルスケア事業者のSymphony Post Acute Networkだ。イリノイ州、インディアナ州、ウィスコンシン州で28の施設を運営し、その総床数が5000床に及ぶ同社は、ひざ手術などの術後のリハビリ患者や、透析治療を受けている患者など、年間最大8万人に対してケアを提供している。そして、そのケアを向上するために、AIや機械学習を活用したいと考えていた。例えば、患者の医療データの重要部分を掘り下げることによって、危険な転倒のリスクが大きいかどうかのサインを探り、特別な用心が必要な患者を識別するといった活用法だ。</p>
+
+<p>　こうしたサインは、個別のデータ要素から得られるのかもしれないし、データの微妙なパターンから得られるのかもしれない。機械学習で見つけ出すのにうってつけだ。しかし、モデルの構築は簡単な作業ではない。</p>
+
+<p>　Symphonyでデータサイエンスとアナリティクスを担当するNathan Patrick Taylorディレクターは次のように言う。「私のもとには、予測についての質問が次から次へと寄せられていた。仮に私が機械学習モデルの構築に明け暮れたとしても、すべての質問に対処することは絶対に無理だ」</p>
+
+<p>　そのため同社は、データサイエンティストを新たに2人採用した。「安い支出ではない。だがそれでも、必要なリターンは得られなかった。非常に難しく、費用もかさんだ」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700134/042700001/?ST=cio-appli&P=2">そこで同社は2年前、代わりとなる商用製品の検討を...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700134/042700001/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700134/042700001/?ST=cio-appli&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700134/042700001/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Mon, 14 May 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
