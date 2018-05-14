@@ -5,45 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d14</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>アプリ構築の時短を後押しするローコード開発とは（前）（アプリ構築の時短を後押しするローコード開発とは）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/041000129/041000001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　企業各社は、デジタル時代の中で競争力を高めるべく、従来のソフトウエア開発手法に代えてアジャイルやDevOpsを取り入れつつあり、短いサイクルでソフトウエアの開発や継続的更新を進められるようにしている。しかし、アプリケーション開発の高速化を後押しするために最高情報責任者（CIO）が使える選択肢はほかにも数多くある。その1つが「ローコード開発（low-code development）」だ。名前が示すとおり、最小限のコーディングでアプリケーションを開発できる。</p>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041000129/041000001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　ローコード開発プラットフォームでは、ビジュアルな宣言的手法によって、コードを記述することなく、データ、ロジック、フロー、フォームといったアプリケーションの構造物を定義できると、米調査会社Forrester Researchは説明している。いわば、コンピューターの画面上で仮想的なLEGOブロックを組み合わせるかのような形で、アプリケーションの構成要素をドラッグ＆ドロップで配置できる。さらに、古いアプリケーションとの連携、レポートの生成、ユーザーインタフェースの特別な要件への対応のために、コーディングを加えることもできる。Forresterのアナリスト、John Rymer氏が2017年10月に発表した調査レポートにはそのように説明がある。</p>
-
-<p>　ローコード開発を巡る考察については、Steven Koh氏の<a href="https://blog.gds-gov.tech/model-driven-development-part-1-rad-bpms-low-code-development-platform-etc-287060722058" target="_blank">記事</a>が参考になる。また、ローコード開発と、その兄弟分であるノーコード開発の違いについては、Jason Bloomberg氏の<a href="https://www.forbes.com/sites/jasonbloomberg/2017/07/20/the-low-codeno-code-movement-more-disruptive-than-you-realize/#177d10e3722a" target="_blank">記事</a>を参考にするとよいだろう。</p>
-
-<h4>ローコード開発の4つの実例</h4>
-
-<p>　競合他社より先にソフトウエアをリリースしたいと考えている企業にとって、ローコード開発（およびノーコード開発）で得られる時間短縮は大きな意味を持つかもしれない。Forresterの調査によると、プログラミング言語、フレームワーク、ミドルウエアを使った従来型のコーディングでカスタムメイドのアプリケーションを開発する場合、ビジネス要件を期限内で満たすという面で課題があると回答したアプリケーション開発者が31％に上った。</p>
-
-<p>　CIO.comは、ローコード開発がソフトウエアのデリバリーにもたらしている恩恵について、オランダShell Downstream、米7-Eleven、米John HancockなどのITリーダーに話を聞いた。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041000129/041000001/?ST=cm-software&P=2">石油関連企業のローコード開発</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041000129/041000001/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041000129/041000001/?ST=cm-software&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041000129/041000001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 17 Apr 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n14</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Googleスプレッドシート、マクロの記録が可能に（CIOニュース）</title>
@@ -1160,6 +1125,40 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 14 May 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10の開発プレビュー版、端末間でクリップボード共有が可能に（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051400502/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　Windows 10は、春の大型アップデート「April 2018 Update」のリリースに続き、今秋の次期大型アップデート「Redstone 5（開発コード名）」に向けて全速力だ。現時点での主な新機能や改良点としては、パソコン間でカット＆ペーストが可能なクリップボードの搭載、タブ機能「Sets」の改良、メモ帳の強化などがある。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051400502/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Microsoft</div>
+</div>
+<p>
+　米Microsoftは2018年5月9日、「Windows 10 Insider Preview」のビルド17666をリリースした。Windows Insider ProgramのFastリングに参加しているユーザーに提供される（今後は、FastリングとSkip Aheadの両方に同じビルドが配信されることになる）。ビルド17666が搭載している新機能を紹介していこう。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051400502/?ST=cm-software&P=2">クラウドクリップボード</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051400502/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051400502/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051400502/?ST=cm-software&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051400502/?ST=cm-software&P=4">4</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051400502/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 14 May 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
