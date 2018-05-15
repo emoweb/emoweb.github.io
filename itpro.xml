@@ -5,49 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n16</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>次期Apple Watch、サードパーティ製の文字盤に対応との噂（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/041800494/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Appleの「Apple Watch」は、2015年の発売以来、新バージョンが毎年リリースされてきた。どうやら、そのペースが衰える兆しはない。今回の記事では、2018年秋の登場が見込まれる「Apple Watch Series 4」と、それにあわせてリリースされるであろう「watchOS 5」について、最近のうわさを2つ紹介する。
-</p>
-<h4>
-サードパーティ製の文字盤に対応？
-</h4>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041800494/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Doug Duvall/IDG</div>
-</div>
-<p>
-　Apple Watchがサードパーティ製の文字盤（ウオッチフェイス）に対応するといううわさは、この2年間に何度か耳にしてきた。競合するスマートウオッチプラットフォームと同じように、Apple Watchでもアプリ開発者が独自の文字盤を開発できるようになってほしいと皆が望んでいる。だが、これまでAppleは頑として方針を変えず、標準装備の文字盤にアプリ独自のコンプリケーションを表示することにしか対応してこなかった。
-</p>
-<p>
-　こうした中、Apple情報サイトの9to5Macは2018年4月14日の記事で、「watchOS 4.3.1」の最新のベータ版について、watchOSの将来バージョンがサードパーティ製の文字盤に対応することを示唆していると覚しきコードが見つかったと報じた。具体的には、「This is where the 3rd party face config bundle generation would happen」というログメッセージが記された行だ。この記述が臆測を呼んだ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041800494/?ST=cm-hardware&P=2">だが、このうわさに関して我々は懐疑的である。まだあまり喜ばない方...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041800494/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041800494/?ST=cm-hardware&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041800494/?ST=cm-hardware&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/041800494/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 18 Apr 2018 10:21:42 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d16</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>第186回　これからの都市と公共交通の姿（上山信一の「続・自治体改革の突破口」）</title>
@@ -1149,6 +1110,42 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 15 May 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIの搭載でBIが賢く便利に（中）（AIの搭載でBIが賢く便利に）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/042700134/042700002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　機械学習を活用したデータ分析の恩恵にあやかりたいと考えている企業各社は、少々意外な旧知の助っ人に目を向けつつある。ビジネスインテリジェンス（BI）システムだ。BIシステムというと、これまでは主に過去の実績の分析を担ってきたが、今や人工知能（AI）を取り入れて、予測機能を搭載したレポート能力を備えつつある。</p>
+
+<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/042700134/042700001/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700134/042700002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　また、既存のモデルはいつでも再トレーニングが可能だという。例えば、法令や規則が変わったり、医療スタッフが新しい手順を使い始めたりという場合もあるし、モデルと現実にずれが生じてくることもある。Taylor氏は、モデルの再トレーニングを3カ月ごとに実行し、ポリシーに主な変更があった時にも再トレーニングを随時行っている。大規模な変更の場合、新しいポリシーの施行後に得たデータのみに基づいて学習モデルをトレーニングすることが必要になる時もある。</p>
+
+<p>　システムを運用していくうえで、高度な技能を身に付けたデータサイエンティストは必要なくなったが、統計学の基礎知識がある人材は必要だとTaylor氏は言う。同社の場合、モデルの準備にR言語も使っている。</p>
+
+<p>　DataRobotはPythonも標準でサポートしている。そのほかにも、REST API対応の言語であれば、DataRobot REST APIを呼び出して使用でき、Java、C#、SAS、JavaScript、Visual Basicなどに対応していると、DataRobotの製品マーケティング担当ディレクター、Colin Priest氏は説明する。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700134/042700002/?ST=cio-appli&P=2">AIの次なる一歩はセルフサービス</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700134/042700002/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700134/042700002/?ST=cio-appli&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700134/042700002/?ST=cio-appli&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700134/042700002/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Wed, 16 May 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
