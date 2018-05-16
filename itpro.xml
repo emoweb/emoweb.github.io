@@ -5,17 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d16</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>第186回　これからの都市と公共交通の姿（上山信一の「続・自治体改革の突破口」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/234646/032900043/</link>
-			<description><![CDATA[　先週、中国の広州と昆明を旅した。驚いたのは、個人所有の自転車がほとんどなくなり、街中にシェアバイクが走っていたことだ。自動車のライドシェア（相乗り）も進む。IT、省エネ、排ガス規制に向けた政府の意思の強さを感じた。
-]]></description>
-			<pubDate>Thu, 19 Apr 2018 05:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n16</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>アプリ構築の時短を後押しするローコード開発とは（後）（アプリ構築の時短を後押しするローコード開発とは）</title>
@@ -1146,6 +1139,47 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 16 May 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IntelのAIチップ「Loihi」、2019年に小型ネズミの頭脳レベルに（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051600503/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Intelは、脳の構造を模したチップ「Loihi」に関して、2019年中に1000億シナプスのシステムを実現する計画であることを、2018年5月10日に同社サイトに掲載した記事の中で表明している。このシナプスの数は、小型ネズミの脳と同程度だ。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051600503/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: PCWorld</div>
+</div>
+<p>
+　Loihiは、Intelが2017年9月に発表した自己学習型チップだ。人工知能（AI）を進化させるうえで「Probabilistic Computing」が重要なステップになるとIntelは考えており、Loihiはその実現に向けた設計となっている。
+</p>
+
+<p>
+　Coreプロセッサのように命令を順次パイプラインで処理するチップとは違い、Loihiは脳の仕組みに倣ったデジタル回路を備えている。発表当初の段階では、Loihiは13万のニューロンと1億3000万のシナプス（ニューロン間の接合部）で構成されているとの話だった。
+</p>
+
+<p>
+　Intelは今回掲載した記事で、Loihiを使った単一の「システム」で2019年には1000億シナプスに到達する計画だとしている。Intelの広報担当者から5月14日に受けた説明によると、この計画は、シングルチップで実現するのではなく、「大規模なマルチチップシステム」を使うとのことだ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051600503/?ST=cm-hardware&P=2">こうしたニューラルネットワークは、実際のところ、どの程度の水準な...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051600503/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051600503/?ST=cm-hardware&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051600503/?ST=cm-hardware&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051600503/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 16 May 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
