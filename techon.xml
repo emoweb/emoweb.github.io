@@ -5,24 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>ヒアリング結果を鵜呑みにしていないか？</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/102600145/012400008/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Thu, 10 May 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>大規模なコネクター焼損、パネルや架台の焦げ、その原因は？</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/302961/050800080/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Thu, 10 May 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ウズベキスタンで1GWの太陽光、カナダ企業が13億ドル投資</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/050911088/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Thu, 10 May 2018 07:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>森トラスト、福島県泉崎のゴルフ場跡地に10MWのメガソーラー</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/050911089/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -249,6 +231,18 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/051400164/051600004/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　救急の現場では、患者一人の入院に対して、入院診療計画書や処置同意書など、大量の書類を医師が作成しなくてはなりません。カルテに書いた内容を、4～5回繰り返し入力するような作業が求められます。医師にとってはこれに要する時間、そして心の負担がとても大きい。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/051400164/051600004/?SS=imgview_ndh&amp;FD=-927289200" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/051400164/051600004/t1.JPG?__scale=w:500,h:375&amp;_sh=0c70b30820" width="500" height="375" alt=""></a></div><div>東京女子医科大学東医療センター 救急医療科 救命救急センター 医師の赤星昂己氏（写真：加藤 康、以下同）　</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　患者の退院時もそうです。転院先の病院をリストアップしたり、電話をかけて転院の調整をしたりする作業に加えて、診断書や紹介状、患者に保険がおりるようにするための書類などを作成しなくてはなりません。</p><p>　こうした負荷をいかに軽くするか。医療補助を担う方にお願いできる部分はないかと考えますし、そこにICTが介入できる余地があるのではないかとも思います。もし書類作業から解放されれば、医師にとっては1日に数時間が浮く。心の負担はそれ以上に軽くなり、医療そのものにもっと集中できるはずです。</p><p></p><h4>長期的メリットを可視化しよう</h4><p>　医師の仕事の一部を今後、ナース・プラクティショナー（NP）<sup>※</sup>のような存在に担ってもらうという方法はあり得るでしょう。</p><p><small>※医師の指示を受けずに一定レベルの診断や治療を行える看護職を指す。米国などで先行して導入されており、日本でも医療現場の働き方改革に向けて導入の議論がある。</small></p><p>　ただし実際の現場では、さまざまな手技がある中で、どこまでをNPに任せられるかを判断するのはかなり難しいと思います。NPと特定看護師の役割の違いひとつをとっても、まだ明確とは言えません。こうした不明瞭さがあると、NPが医師に代わる行為を現場で積極的に担うのは難しいのではないでしょうか。</p><p></p><div class="bpimage_left" style="width:240px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/051400164/051600004/?SS=imgview_ndh&amp;FD=-926333903" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/051400164/051600004/t2.jpg?__scale=w:230,h:267&amp;_sh=0fc0830d50" width="230" height="267" alt=""></a></div><div>クリックすると拡大した画像が開きます</div></div><p>　タスクシェアリングやタスクシフト、そしてICT。こうした客観化や情報化の仕組みをうまく取り入れ、医師の働き方改革につなげている病院は確かに存在します。一方、そうでない病院もある。両者の違いはどこにあるのだろうと、日々疑問に思っています。</p><p>　例えば医療補助を担う人員を増やすといった方法でもいいのですが、医師の負担を減らせそうな手段が仮にあっても、（病院の経営サイドに）それを認めてもらうことは容易ではありません。一時的にコスト増などを招いても、長期的にはプラスになるということを目に見える形でいかに示せるか。これがポイントではないでしょうか。（談）</p></div>]]></description>
 			<pubDate>Wed, 16 May 2018 18:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>LIXIL知多工場のメガソーラー、O&amp;Mをサンテックに委託</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/051611112/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Wed, 16 May 2018 18:25:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>医師の働き方を変えれば、病院全体が効率化する</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/051400164/051600005/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　聖路加国際病院では、（2016年に）労働基準監督署の調査を受けて以来、医療現場の働き方改革を行っています。まずは医師にフォーカスした改革を実施しました。医師の働き方改革を優先させたことで、他の職種に負担がかかっていないか心配になり、他職種に意見を求めたところ、「医師が早く帰ることで、看護師も助かっている」という声が聞こえたのです。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/051400164/051600005/?SS=imgview_ndh&amp;FD=1420927604" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/051400164/051600005/01.jpg?__scale=w:500,h:375&amp;_sh=0e9040fd02" width="500" height="375" alt=""></a></div><div>聖路加国際病院 副院長 ブレストセンター長・乳腺外科部長の山内英子氏（写真：加藤 康、以下同）　</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　以前は、真夜中に検査や処方に関するオーダーを出されることも少なくなかったけれども、医師が早く帰ることが推奨される状況になったことで日勤帯にオーダーが出るようになったというのです。この意見を聞いて、医師の働き方改革をうまく実践すれば、病院全体で効率的な働き方を実現することもできるのではないかと希望を持てました。</p><p>　ICTの活用による効率化に関しては、さまざまな見方が必要です。例えば、電子カルテが広く使われ始めたことで見直すべきことも出てきました。電子カルテが導入される前は、医師が患者の顔を見ながらカルテを書いて、「CT検査の予約をとって帰ってね」と伝えれば良かった。しかし、電子カルテの導入によって、診察時に医師が患者の予定を聞いて検査日を調整するようになったのです。</p><p>　患者が予定を確認している間、医師は待っている必要があります。その時間があれば一人の患者を診察できるのに、と思えてなりません。</p><p>　それならば、次の一手として、医師の業務を助けてくれる補助員の導入などを検討すべきだと思っています。AIなどを活用すれば、補助員に一部の仕事を担当してもらうことでどれだけの費用対効果が見込めるか簡単に調査できるのではないでしょうか。</p><p>　文化を変えるためには、そうしたデータを見える化して病院の経営者に見せる必要があるでしょう。補助員を付けることで「医師が今の2倍働ける」というデータがあれば、現場は確実に変わると思います。</p><p></p></div><div><div><span>1</span></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/051400164/051600005/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/051400164/051600005/?ST=health&amp;P=3"><span>3</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/051400164/051600005/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
+			<pubDate>Wed, 16 May 2018 18:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
