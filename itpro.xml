@@ -5,72 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d17</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>GoogleのAIデバイス自作キット、ラズパイ同梱の新版が登場（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/041900426/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Googleは現地時間2018年4月16日、人工知能（AI）を利用したデバイス開発を促進する「AIYプロジェクト」の一環として昨年リリースしたAIデバイス自作キットの新バージョンを発売したことを明らかにした。同キットは、Googleアシスタントに対応したスマートスピーカーの開発を隅々まで学べる素晴らしいキットではあったが、「Raspberry Pi」が別途必要という注意書きが欠かせなかった。新バージョンは、開発に必要な要素が最初から一通りそろっている。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041900426/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Google</div>
-</div>
-<p>
-　従来のバージョンと同じく、キットは2種類ある。スマートスピーカー自作キット「Voice Kit」と、画像認識カメラ自作キット「Vision Kit」だ。それぞれ、「Raspberry Pi Zero WH」、microUSBケーブルやソフトウエア入りSDカードのほか、デバイスを組み立てて動かすために必要となる次のような部材一式がパッケージに入っている。
-</p>
-<p>Voice Kit：</p>
-<ul>
-<li>スピーカー
-</li>
-<li>Voice Bonnet（ボード）
-</li>
-<li>押しボタン
-</li>
-<li>機械部品
-</li>
-<li>ボタンケーブル
-</li>
-</ul>
-<p>Vision Kit：</p>
-<ul>
-<li>Raspberry Pi Camera
-</li>
-<li>Vision Bonnet（ボード）
-</li>
-<li>押しボタン
-</li>
-<li>電子部品
-</li>
-<li>ボタンケーブル
-</li>
-<li>フラットケーブル
-</li>
-</ul>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041900426/?ST=cio-consumerit&P=2">VoiceKitでは音声操作が可能なAIスピーカ...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041900426/?ST=cio-consumerit&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041900426/?ST=cio-consumerit&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/041900426/?ST=cio-consumerit&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Thu, 19 Apr 2018 10:40:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n17</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>企業のセキュリティ、CEOが信じている6つの神話（下）（企業のセキュリティ、CEOが信じている6つの神話）</title>
@@ -1176,6 +1114,46 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 17 May 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Huawei Watch 2、eSIM搭載の2018年モデルが登場か（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/051700432/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　数々の情報リークで有名なEvan Blass氏が、中国Huawei Technologiesのスマートウオッチ「Huawei Watch 2」に関して、eSIMを搭載した2018年モデルの情報を流した。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/051700432/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Huawei</div>
+</div>
+<p>
+　Blass氏は、2018年5月14日のTwitterへの投稿でこの情報を発信し、製品画像やスペックを明らかにした。
+</p>
+<p>
+　同氏のツイートには次のようにある。「Huawei Watch 2 2018とオリジナル版との重要な違いは、eSIM対応が加わることだけだ。それ以外のスペックはすべて同じで、デザインも変わらない」
+</p>
+<p>
+　画像が貼られていた当初のツイートは後に削除されたが、Blass氏の情報が正しいとしたら、未発表の2018年モデルは、OSに米GoogleのWear OSを採用し、SoCは米QualcommのSnapdragon Wear 2100、RAMは768Mバイト、オンボードストレージは4Gバイトというスペックになる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/051700432/?ST=cio-consumerit&P=2">唯一の重要な変化は、米AppleのAppleWa...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/051700432/?ST=cio-consumerit&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/051700432/?ST=cio-consumerit&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/051700432/?ST=cio-consumerit&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Thu, 17 May 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
