@@ -5,41 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n21</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ソフトウエア開発者に倫理綱領は必要か（上）（ソフトウエア開発者に倫理綱領は必要か）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/041700130/041700001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　何よりまず、害を与えないこと——医師たちが倫理行動規範に従うことを示すために古くから宣誓してきた「ヒポクラテスの誓い」は、そのようなメッセージが根底にある。配管工、建設作業員、警察官など、一般の人々に影響する仕事に従事する職業人のほとんどは、何らかの倫理行動規範を遵守しなくてはならない。</p>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041700130/041700001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　だが、ITは顕著な例外だ。IT界にも、組織や企業が個別に定めた行動規範はある。例えば、米国計算機学会（ACM）と米国電気電子学会（IEEE）は、ソフトウエア工学の倫理と専門職実務に関するACM/IEEE-CS合同タスクフォースで綱領を定めている。しかし、業界全体をカバーする包括的な規範はない。米Boston Globe紙の記事でYonatan Zunger氏が指摘しているように、「コンピューター科学の分野は、他の科学分野と違って、専門職が行う仕事に関して甚大な負の影響に直面したことがない」という理由からかもしれない。</p>
-
-<p>　しかし現在、選挙工作を手助けするソフトウエアの開発で英Cambridge Analyticaが果たした役割が明らかになりつつある。こうした事例を踏まえると、潮目は変わろうとしているのかもしれない。コンピューター科学やソフトウエア開発に絡む倫理的な問題はこれまでにも存在したが、今では、その手の問題が増えているばかりか、その規模と影響も拡大しつつあるように思える。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041700130/041700001/?ST=cio-appli&P=2">2015年には、独Volkswagenのエンジニ...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041700130/041700001/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041700130/041700001/?ST=cio-appli&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/041700130/041700001/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Mon, 23 Apr 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d21</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>9月に登場予定のJava 11、新たな機能となくなる機能は（Computerworldニュース）</title>
@@ -1156,6 +1125,41 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 18 May 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ITリスク管理とイノベーションを両立するためのヒント（上）（ITリスク管理とイノベーションを両立するためのヒント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/051100136/051100001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　新たなチャンスを追求する中で直面するリスクを軽減しつつ、自社の推進力を損なわないためには、どうすればよいのだろうか。いくつかのアドバイスを紹介していく。</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　「素早い動き」「破壊的変化」「実用最小限のプロダクト（MVP：Minimum Viable Product）」など、スタートアップに関して使われるうたい文句は、テクノロジー界では決して無視できない。こうした考え方は確かに魅力的だ。しかし、企業のITでこれらを実践するには、各社の現状に合わせるための工夫が欠かせない。</p>
+
+<p>　広く普及している事業を手がけている企業のIT幹部にとっては、リスクとリターンを巡る状況がスタートアップとは異なる。何千人、何万人、何百万人の利用者がその会社のインフラを頼りにしている。例えばネットバンキングのプラットフォームであれば、1つの変更を加えたことがシステム障害につながった場合、膨大な損失が生じかねない。</p>
+
+<p>　最高情報責任者（CIO）にはイノベーションの精神が欠かせないという声がますます大きくなり、売上アップを追求するデジタルトランスフォーメーションがあらゆる業界で進んでいる現在だが、賢明なIT幹部であれば、イノベーションの取り組みに内在するリスクを甘く見てはならない。</p>
+
+<p>　新たなチャンスを追求する中で直面するリスクを軽減しつつ、自社の推進力を損なわないためには、どうすればよいのだろうか。いくつかのアドバイスを紹介していく。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100001/?ST=cio-security&P=2">安全網となるバックアップを確保する</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100001/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100001/?ST=cio-security&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100001/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Mon, 21 May 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
