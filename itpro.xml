@@ -5,55 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d22</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Hortonworks、パッケージ化ソリューションを拡大、IoTにも照準（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/042400427/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Hortonworksは、個別のユースケース向けにテクノロジーをパッケージ化する方向にシフトしている。法人顧客にとって導入しやすくするのが目的で、今年はさらに、IoTに照準を定めたソリューションを投入する計画だ。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/042400427/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: IDG</div>
-</div>
-<p>
-　Hortonworksは、オープンソースのデータ管理テクノロジーを扱うベンダーで、2014年に株式公開を果たした。パッケージ化したソリューションを提供する戦略については、2017年4月にドイツのミュンヘンで開催したカンファレンス「Dataworks Summit」で大きく打ち出し、現在までに以下の3種類のソリューションを投入している。
-</p>
-<ul>
-<li>エンタープライズ・データウエアハウス（EDW）最適化ソリューション。Hortonworksとパートナーのテクノロジーをパッケージ化した。
-</li>
-<li>データサイエンス・ソリューション。米IBMとの提携による成果の1つで、中心的なHadoopスタック、Spark、Zeppelin、Hiveのほか、IBM Data Science Experienceで構成されている。
-</li>
-<li>サイバーセキュリティ・ソリューション。Apache Metronを基盤としている。
-</li>
-</ul>
-<p>
-　いずれも、Apache Hadoop／Spark／Metronといったテクノロジーのソフトウエアライセンスに加え、サポートサービスや数週間のプロフェッショナルサービスをパッケージ化して、特定の問題の解決に狙いを定めるという発想だ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/042400427/?ST=cio-management&P=2">これは、製造業向けや自動車向けといった業種別パッ...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/042400427/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/042400427/?ST=cio-management&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/042400427/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Tue, 24 Apr 2018 10:40:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n22</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ソフトウエア開発者に倫理綱領は必要か（中）（ソフトウエア開発者に倫理綱領は必要か）</title>
@@ -1159,6 +1114,43 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 22 May 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Firefox 61 Developer Edition、デバッグ機能を強化（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/052200433/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米MozillaのWebブラウザー「Firefox 61」の「Developer Edition」が公開された。コードのデバッグ機能や、開発ツールの使い勝手が強化されている。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/052200433/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Magdalena Petrova/IDG</div>
+</div>
+<p>
+　デバッグ機能に関しては、JavaScriptコンパイラ「Babel」やモジュールバンドラ「webpack」などのツールで変換あるいはバンドルしたコードへの対応力が高まった。デバッガーの中で、変換やバンドル前のオリジナルのコードに対して、値の確認やコードの実行をシームレスに行うことができる。Mozillaは、Reactなどのフレームワークのコンポーネントやスコープの確認をネイティブにサポートするための開発も進めている。
+</p>
+<p>
+　開発ツールの使い勝手に関しては、各自のワークフローに合わせてツールのタブの並びを変えられるようになった。表示中のウィンドウに収まらないタブも、オーバーフローメニューから素早くアクセスできる。また、「ネットワーク」パネルに追加されたドロップダウンメニューでは、通信速度制限の設定や、HAR（HTTP Archive）ファイルのインポート／エクスポートを行える。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/052200433/?ST=cio-appli&P=2">バイトコードフォーマット「WebAssembly...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/052200433/?ST=cio-appli&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/052200433/?ST=cio-appli&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/052200433/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 22 May 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
