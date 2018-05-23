@@ -11,49 +11,6 @@
 			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ルーティングセキュリティ強化を目指すMANRS、IX向けプログラムを開始（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042500497/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　インターネット上で不適切なルーティング情報を近隣に伝播することは、不作法であるのみならず、ビジネスに悪影響を及ぼす恐れもある。そのような認識を広めたいと考えている国際組織Internet Society（ISOC）は、インターネットのルーティングシステムの主要な脅威を排除するための取り組みであるMANRS（Mutually Agreed Norms for Routing Security）に関して、IX（インターネットエクスチェンジ）の参加を促す新たなプログラムを始めた。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042500497/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Peter Sayer/IDG</div>
-</div>
-<p>
-　IXがMANRSに参加すれば、IXの加盟企業、IXで相互接続するインターネットサービスプロバイダ（ISP）、そして各ISPの利用者にとって朗報だ。よりセキュアで堅牢なインターネットアクセスという恩恵が得られる。
-</p>
-<p>
-　2016年にISOCは、ネットワーク事業者に向けてMANRSへの参加を呼びかけ、これまでに50社以上を集めた。そして今度は、IXに向けた参加の呼びかけを始めた。
-</p>
-<p>
-　経路ハイジャック、経路リーク、スプーフィング、大規模サービス拒否（DoS）攻撃などによる経路障害やインシデントは、2017年だけでも約1万4000件発生し、データの盗難、収益の損失、評判の失墜といった影響を、インターネット関連のビジネスにもたらしている。ISOCがIXにMANRSへの参加を呼びかけるのは、こうした事案を減らすためだ。
-</p>
-
-<p>
-　ISOCの技術プログラムマネージャー、Andrei Robachevsky氏によると、ルーティングに危険をもたらしている要因には、経路ハイジャック（BGPハイジャック）、経路リーク、IPスプーフィング（IPアドレス偽装）の3つがあり、MANRSはこれらの防止を目指している。IPスプーフィングは、DDoSのアンプ攻撃やリフレクション攻撃の多くで使われている。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042500497/?ST=cm-network&P=2">IXは重要なつなぎ目だ。IXが運用するルートサーバーから、リージ...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042500497/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042500497/?ST=cm-network&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042500497/?ST=cm-network&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042500497/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 25 Apr 2018 11:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>米国の病院でスマホやモバイルコミュニケーションへの投資が拡大（後）（米国の病院でスマホやモバイルコミュニケーションへの投資が拡大）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/041800131/041800002/</link>
 			<description><![CDATA[<div>
@@ -1156,6 +1113,42 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 23 May 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Facebookの都市向け高速Wi-Fiプロジェクト、2019年に試験開始（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052300506/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Facebookは、高速無線通信を使うインターネット接続環境を市街地に構築するプロジェクト「Terragraph」に関して、米Qualcommの60GHzテクノロジーを基盤とする実地試験を2019年に始める。両社が現地時間2018年5月21日に発表した。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052300506/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Facebook</div>
+</div>
+<p>
+　FacebookがTerragraphの構想を明らかにしたのは2016年だった。60GHzのミリ波通信を使ってブロードバンド接続環境を構築するプロジェクトだ。Wi-Fiの代わりとなるものではなく、自宅や会社までの間を結ぶ光ファイバーやケーブルに代わる接続を提供する。これなら、道路を掘ってケーブルを敷設する工事が不要になる。
+</p>
+<p>
+　今回の発表で、ようやく同プロジェクトのテストが2019年に開始されることが分かった。Qualcommのスタッフマーケティングマネージャー、Jesse Burke氏によると、これが初めての実地試験で、実際の展開はその後になる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052300506/?ST=cm-wireless&P=2">実地試験は、802.11ayの技術を使うものと想定される。802...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052300506/?ST=cm-wireless&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052300506/?ST=cm-wireless&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052300506/?ST=cm-wireless&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052300506/?ST=cm-wireless&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 23 May 2018 10:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
