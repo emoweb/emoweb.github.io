@@ -5,31 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ポケモンGO、次はヨーギラス大量発生。6月16日(土)にコミュニティ・デイ開催
-</title>
-			<link>https://japanese.engadget.com/2018/05/22/go-6-16/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/a16b2491a3c52b0920d3229f18a547b2/206396681/yogi.jpg" />
-
-ポケモンGOの月例イベント『コミュニティ・デイ』、次の6月に大量発生するのは「ヨーギラス」に決定しました。
-
-正午から15時までの開催期間中に進化させたバンギラスは、特別なわざ(未公開)を覚える趣向です。
- 
- ]]></description>
-			<pubDate>Tue, 22 May 2018 21:15:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    最高の演奏を最高の環境で楽しめるハイレゾヘッドホンコンサートを体験
-</title>
-			<link>https://japanese.engadget.com/2018/05/22/high-res-concert/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=1280%2C853%2C0%2C0&quality=85&format=jpg&resize=1200%2C800&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F66172565f2bbb2fa6774d89f2c59f7d9%2F206384957%2F%253F%253F%253F%253F%253F%253F%253F%253F1.jpeg&client=a1acac3e1b3290917d92&signature=0dea52cebc43ebb0536ce9342952ecf6d19b56be" />
-
-東京・青山6丁目のライブスポット「Future SEVEN」にて、日本で初めての開催となる観客がハイレゾヘッドホンを装着して楽しむライブコンサートが開催されました。観客がヘッドホンを使用するライブコンサートとしては、大滝詠一さんが1981年に開催したものなどが有名ですが、当時はミックス音源をFMの電波で飛ばして受信機にヘッドホンをつなげて聴くというスタイルでした。今回は、各席にTASCAMのハイレゾ対応ヘッドホンアンプが用意され、観客それぞれが愛用するヘッドホン、イヤホンを持参して体験するという企画です。
-
-<p><a href="https://japanese.engadget.com/gallery/high-resolution-concert/" title="High-Resolution concert">【ギャラリー】High-Resolution concert (16枚)</a></p>
- ]]></description>
-			<pubDate>Tue, 22 May 2018 22:40:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    縦長画面を活かすマルチウィンドウの基本の使い方：Galaxy Tips
 </title>
 			<link>https://japanese.engadget.com/2018/05/22/galaxy-tips_multiwindow/</link>
@@ -477,6 +452,28 @@ SIMカードの本体価格は1980円。なお、9月30日までは期間限定�
 
  ]]></description>
 			<pubDate>Thu, 24 May 2018 05:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Switch改造によるオンライン遮断は無改造本体にも及ぶ? 有力ハッカーが複数本体でのBANを受ける
+</title>
+			<link>https://japanese.engadget.com/2018/05/24/switch-ban/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/dfb8c8dacd8ac2b8427c971b0b696953/206399831/BAN.jpg" />
+Nintendo Switch上で任意のコードが実行できる脆弱性を突くハッカー達の活動は何度かお伝えしましたが、そうしたハッカーの一人が任天堂からオンラインサービス利用禁止の措置（いわゆるBAN)を受けたことが明らかとなりました。
+
+先週、海外では脆弱性を突けるようSwitchを改造したユーザー達が一斉にBANされたと報じられていましたが、その一人がARM系の開発者でSwitch向けのブートローダ（先述の脆弱性と連携するもの）を公開しているShiny Quagsire氏。
+
+彼が所有しているSwitchでニンテンドーeShopを読み込もうとするとエラーコード2124-4007が表示され、対戦やフレンド機能、SNSへの投稿といった一切のオンラインサービスが利用できなくなったとのこと。
+ ]]></description>
+			<pubDate>Thu, 24 May 2018 05:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    アップル、自動運転車でフォルクスワーゲンと提携。T6ベース、イタルデザインで車体開発(NYT報道)
+</title>
+			<link>https://japanese.engadget.com/2018/05/24/t6-nyt/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/61a73339cbbb0eba0fbae82ffa52b924/206400384/vwt6.jpg" />
+アップルの自動運転システム開発プロジェクト「Project Titan」は、新たにフォルクスワーゲンと提携した模様です。アップルは自動運転車を自社オフィス間のシャトルバス用途に利用しつつ開発を進める計画で、どうやらVWのT6トランスポーターがそのベース車両になりそうです。
+ ]]></description>
+			<pubDate>Thu, 24 May 2018 06:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
