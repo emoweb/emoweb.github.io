@@ -5,52 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n25</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Operaのスマホ向けブラウザー「Touch」、片手操作と検索に主眼（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/042700498/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　ノルウェーOpera Softwareは2018年4月25日、モバイルデバイス用の新しいWebブラウザーアプリ「Opera Touch」を発表し、Android版をリリースした。また、パソコン用Webブラウザー「Opera」もバージョンアップし、Opera Touchと連携するための新たな機能を搭載した。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042700498/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: IDG</div>
-</div>
-<p>
-　Opera Touchは、片手での操作性を高めたほか、検索を重視していることが特徴だ。アプリを起動した時点でまず検索画面が開くようになっている。
-</p>
-<p>
-　同社はOpera Touchの発表当日に開催したローンチイベントをライブストリーミングで配信した（現在は録画で視聴可能）。同イベントでMaciej Kocembaプロダクトマネージャーは、「現在のブラウザーは本分をきちんと果たしていない」と述べ、Opera TouchのUIについて、検索やタブなどの機能やボタンがいずれも親指の届く範囲に来るようにデザインしたと強調した。
-</p>
-<p>
-　また、同日の公式ブログ記事でKocemba氏は、「大半のブラウザーと違って、モバイル環境でもWebの閲覧や検索を容易に行える」と述べている。
-</p>
-<p>
-　同社は今回、パソコン用のOpera（Windows版、macOS版、Linux版）もバージョンアップし、検索に重点を置いた。Operaの新機能の1つが「インスタント検索」だ。Windows／Linux版ではAlt＋スペースキー、macOS版ではOption＋スペースキーを押すと、アクティブなWebページの上に検索フィールドが開く。そのまま検索語句を入力でき、検索結果もその場で得られる。新しいタブや既存のタブで検索を実行した後で元のページに戻るという操作が必要ない。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042700498/?ST=cm-software&P=2">また、インスタント検索機能でTabキーを押すと、現在開いているす...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042700498/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042700498/?ST=cm-software&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042700498/?ST=cm-software&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/042700498/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 27 Apr 2018 11:30:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d25</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>施行が迫るEU一般データ保護規則、対応はいかに（上）（施行が迫るEU一般データ保護規則、対応はいかに）</title>
@@ -1118,6 +1076,44 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 24 May 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ITリスク管理とイノベーションを両立するためのヒント（下）（ITリスク管理とイノベーションを両立するためのヒント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/051100136/051100003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　新たなチャンスを追求する中で直面するリスクを軽減しつつ、自社の推進力を損なわないためには、どうすればよいのだろうか。いくつかのアドバイスを紹介していく。</p>
+
+<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/051100136/051100002/" target="_blank">前回</a>から続く）</p>
+
+<h4>ベンダーロックインのリスクを認識する</h4>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100003/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　ベンダーロックインのリスクはIT部門にとって長年の課題だ。クラウドではこれが複雑化する。初期のクラウドサービスは、基本的なファイルストレージなどのシンプルなサービスだった。その状況では、新しいベンダーへの乗り換えに対処するのも簡単だ。しかし、もっと高度なクラウドサービスになると、乗り換えは難しくなり、ベンダーロックインのリスクが高まる。</p>
+
+<p>　Raghavan氏は次のように説明する。「ベンダーロックインの例として米Amazon.comのサービスを見てみよう。Amazon Web Services（AWS）では、システムの構築やデプロイを驚くほど簡単に実行でき、開発やDevOpsに携わる人がアプリケーションの手入れをする時に役立つAWS独自のツールが膨大に用意されている。したがって、別のクラウドベンダーにアプリケーションを移行する必要が仮に生じた場合、移行が極めて難しかったり、コストがかかりすぎたりという状況に陥る」</p>
+
+<p>　ベンダーロックインのリスクを緩和するのは簡単ではない。企業によっては、そのリスクを受け入れて、よい方に転ぶことを願うという選択もあるかもしれない。あるいは、運用を複数のベンダーに分けるという選択もあるだろう。多数のベンダーとの関係を管理するとなると、労力は確かに増えるが、それだけの価値があるかもしれない。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100003/?ST=cio-security&P=2">IT監査はクラウドでも有益</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100003/?ST=cio-security&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100003/?ST=cio-security&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100003/?ST=cio-security&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Fri, 25 May 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
