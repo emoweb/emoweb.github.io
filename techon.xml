@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>ビール工場由来のバイオガスで燃料電池を2000時間稼働</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/051711116/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Thu, 17 May 2018 16:14:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>東急不、再エネ事業を本格化、太陽光・風力を全国25カ所で</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/051711117/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -237,6 +231,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/052411134/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Thu, 24 May 2018 09:46:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>NVIDIA、医療画像分野の新プロジェクトを始動</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/327441/051500518/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　米NVIDIA社日本法人のエヌビディア合同会社は2018年5月上旬、ヘルスケア事業に関する説明会を開催した。米国本社から担当役員（Vice President of Healthcare）のKimberly Powell氏が来日し、ヘルスケア分野の新たな取り組みなどについて説明した。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/051500518/?SS=imgview_ndh&amp;FD=-1099064106" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/051500518/n1.JPG?__scale=w:500,h:375&amp;_sh=08e0340af0" width="500" height="375" alt=""></a></div><div>NVIDIA社 Vice President of HealthcareのKimberly Powell氏</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　NVIDIA社は2018年3月、医療画像分野の新たなプロジェクト「Project Clara」を立ち上げた。画像診断機器向けに仮想的かつスケーラブルなGPU（画像処理プロセッサー）環境をクラウドで提供する。「医療画像分野ではもともと高い演算能力が求められるが、この先AI（人工知能）が加わることでその傾向が強まる」（Powell氏）ことを踏まえた取り組みだ。</p><p>　同社によれば、医療画像分野に求められる演算能力は近年急増しており、過去6年間で約10倍に高まったという。特に、画像再構成などに大きな演算能力が必要になっており、AIの負荷も加わりつつある。</p><p>　こうした状況から、Project Claraの立ち上げと並行して画像診断装置メーカーとの関係を強化。2017年11月に米GE Healthcare社、2018年4月にはキヤノンメディカルシステムズとそれぞれ、医療画像解析へのAI活用を中心とする提携を発表した（<a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/112810000/" target="_blank">関連記事1</a>、<a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/041110994/" target="_blank">同2</a>）。</p><p>　ヘルスケアベンチャーとの距離も急速に縮めつつある。NVIDIA社は「Inception Program」と呼ぶプログラムを通じ、深層学習（ディープラーニング）技術に強みを持つスタートアップ企業約2800社に対し、支援や大企業とのマッチングを行っている。このうち「最も大きな割合を占めるのがヘルスケア分野」（Powell氏）というほど、ヘルスケアの比重は高まっている。</p><p>　医療画像分野を中心に、ヘルスケアベンチャー約300社が同プログラムに参加。日本からはエルピクセル、エクサウィザーズ、情報医療、オプティムなどが名を連ねている。</p><p></p></div><div><div><span>1</span></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/051500518/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/051500518/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
+			<pubDate>Thu, 24 May 2018 12:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
