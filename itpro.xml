@@ -5,46 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d28</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIでマインドリーディングの時代が到来（前）（AIでマインドリーディングの時代が到来）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/042300133/042300001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　筆者は思う。人間の考えや心をソフトウエアで読み取るマインドリーディング・テクノロジーは、商用利用にふさわしい段階に達しているのみならず、日々のビジネスできっと役に立つと。何を言っているんだ、と思う人もいるだろう。そんな技術は気味が悪いし、プライバシーの侵害だし、使い道がないと思うかもしれない。そういう人は、ぜひ今回のコラムを読んでみてほしい。考えが変わるかもしれない（そして、そのように考えが変わったことも、デバイスできっと読み取れるようになる）。</p>
-
-<h4>欠けていたピース</h4>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300133/042300001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　人の考えや心を読み取るマインドリーディング・テクノロジーの登場を、未来学者たちはずっと前から予測していた。実際、脳波のパターンを検出することは数十年前から可能だった。しかし、そこには欠けているピースがあった。検出した脳波を解釈する技術だ。</p>
-
-<p>　だが、人工知能（AI）と機械学習のおかげで、人間の頭の中で起きていることがついに分かるようになった。</p>
-
-<p>　大まかに言うと、処理の流れはこうだ。研究者が開発したソフトウエアに、人間の脳から測定したデータを取り込んで、単語や画像との対応づけを行う。すると、それ以降に測定するデータの認識や解釈が可能となり、考えていることを読み取ったり、考えに応じて何かを制御したりといった各種の用途に利用できる。</p>
-
-<p>　例えば、米マサチューセッツ工科大学（MIT）の研究チームが考案した、顔に装着するデバイスがある。機械学習システムと組み合わせて、リアルタイム音声認識のような形で、デバイス使用者が頭の中だけで発した言葉を読み取るというものだ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300133/042300001/?ST=cm-industries&P=2">もう少し詳しく説明しよう。人間は、頭の中だけで言葉を発した時にも...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300133/042300001/?ST=cm-industries&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300133/042300001/?ST=cm-industries&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300133/042300001/?ST=cm-industries&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300133/042300001/?ST=cm-industries&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 08 May 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n28</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Google、Android Thingsの正式リリースでIoTに本腰か（CIOニュース）</title>
@@ -1102,6 +1066,42 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 28 May 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Appleの自動運転車、Volkswagenのバンを改造して登場か（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052800508/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Appleが自動運転車の開発プロジェクト「Titan」を進めているという話は数年前から報じられていた。野心的なプロジェクトのビジョンを支えるために、1000人以上のメンバーが携わり、豪華な装備やスマートなインフォテインメントシステムを備えた革新的な電気自動車を開発しているとの噂だった。しかし、米New York Times（NYT）の2018年5月23日の記事によると、Appleをもってしても克服が難しかった課題があるようだ。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052800508/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Volkswagen</div>
+</div>
+<p>
+　同記事によれば、プロジェクトが始まったのは2014年。Appleのよりすぐりのエンジニアや、デザイナーのJonathan Ive氏が参加し、Appleの名にふさわしい新機軸の自動車のプロトタイプ開発を進めていた。いわば「iPhoneの自動車バージョン」のような車を開発する構想だったという。
+</p>
+<p>
+　このプロジェクトが現在もApple社内で続いている可能性は十二分にある。だが、構想は大幅にスケールダウンし、はるかに現実的なものになった。最終的にAppleは、ドイツVolkswagenと提携を結んだとNYTは報じている。Volkswagenのバン「T6」に、コンピューター、センサー、電気自動車用の大型バッテリーなど、Appleの最新のテクノロジーを搭載する計画だという。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052800508/?ST=cm-hardware&P=2">AppleStoreで新車を買って持ち帰れるようになる日を待ち望...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052800508/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052800508/?ST=cm-hardware&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052800508/?ST=cm-hardware&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052800508/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 28 May 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
