@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>生産性向上にICT、事例を重ね導入ハードルを下げる</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/051400164/052000010/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><p>　働き方改革においては、「ICTを活用すると生産性が上がる」とよく言われています。総務省の白書でも「労働生産性は2～3割ほど高くなる」となっています。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/051400164/052000010/?SS=imgview_ndh&amp;FD=-1099064106" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/051400164/052000010/n1.JPG?__scale=w:500,h:375&amp;_sh=0230350cd0" width="500" height="375" alt=""></a></div><div>総務省 情報流通行政局 情報流通高度化推進室長の渋谷闘志彦氏（写真：加藤 康、以下同）</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　しかし、医療・福祉分野におけるICTの活用率は教育や観光、農林水産の分野と並んで低い水準にあり、総務省と経済産業省が出している「労働生産性の1人当たりの付加価値額」でも、医療・福祉分野は宿泊・飲食サービス業に次いで2番目に低いという状況にあります。これは、見方を変えれば医療・福祉分野は「生産性を上げる余地が非常に大きい」ともいえるでしょう。</p><p>　私は総務省でテレワークを担当していますが、一般企業がテレワークを導入する理由の第1位は「生産性の向上」です。実際、テレワークを導入した企業としていない企業を比較すると、導入した企業の生産性は1.6倍高くなっているというデータもあります。このように生産性の向上にICTが寄与していることを考えれば、ICTの推進は不可欠といえそうです。</p><p>　一方で、ICTの導入がなかなか進まない理由の一つには、やはり「コスト」が挙げられます。病院が電子カルテ/EHRなどのシステムを導入する際、初期投資に対しては国から補助金が出ますが、ランニングコストなどには適用されたないため、結局は継続できないという問題があるのです。</p><p>　加えて、サーバーには「利便性」と「セキュリティー」という相反する要求があります。医療業界は特にセキュリティーに対して敏感なため、「サーバーは院内で保有しないといけない」という神話が根強く存在するのも事実でしょう。</p><p>　一般的に「セキュリティーを高くするほど、コストも上がる」という状況があります。そこで総務省としては、「そのサーバーを外部（＝クラウド）に置けば、情報を共有できてコストも下がる」と勧めているほか、「仕様を標準化したり、広域連携したりすることでトータルコストが下がる」と提案し、そういった取り組みに補助金を出すような施策を進めています。これは考え方の問題でもありますが、我々としてはリスクを技術で解決できるような事例を一つひとつ積み重ねていき、利便性とセキュリティーのバランスを解決していく必要があると感じています。<br></p></div><div><div><span>1</span></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/051400164/052000010/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/051400164/052000010/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
-			<pubDate>Mon, 21 May 2018 08:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>医療従事者が疲弊しないシステムづくりを</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/051400164/052000009/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　私は2000年に四国初となる在宅専門クリニックを愛媛県に開業しました。地域全体を医療の場と捉えて在宅医療を発展させる「ソーシャルホスピタル」の考え方は、開業当時からありました。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/051400164/052000009/?SS=imgview_ndh&amp;FD=-1099064106" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/051400164/052000009/n1.JPG?__scale=w:500,h:375&amp;_sh=0130d40d80" width="500" height="375" alt=""></a></div><div>医療法人ゆうの森 理事長の永井康徳氏（写真：加藤 康、以下同）　</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　在宅の患者が「自分らしく生きる」ためには、AIや遠隔医療、ITシステムなどを使って患者をモニタリングするのは当然の流れだと思いますし、私自身も活用しています。ただ、その流れが本当に患者の立場に立って進められているのかについては、よく考える必要があります。もしかしたら、医療従事者側や提供側の論理で進み、効率化だけが優先されている懸念があるからです。</p><p>　もちろん、地域完結型の仕組みづくりは重要ですし、地域で完結する方法をいろいろ考えることは価値のあることでしょう。しかし、それが進みすぎて効率化だけが優先されたような仕組みにならないように、提供側は常に注意を払う必要があると現場では感じています。</p><p>　在宅医療は一般的な医療と若干違い、ときには治療できない病気や障害を抱える患者と向き合って支えていく医療です。このため、タスクシェアリングについて考えた場合、必ずしも医師だけが頑張れば結果を残せる分野ではありません。医師だけではどうすることもできないケースは少なくないだけに、患者が亡くなるまでに自分らしく生きることを支援していくためには、必然的に多職種で連携することが重要になりますし、それ自体が課題の一つともいえるでしょう。これまでは単独職種だけで能力や技術を高めていくのが日本的な医療のあり方でしたが、それだけでは対応できない段階に来ていると感じています。<br></p></div><div><div><span>1</span></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/051400164/052000009/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/051400164/052000009/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
@@ -237,6 +231,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/column/15/051900112/00050/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Mon, 28 May 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本アジア投資、帯広市に蓄電池併設型メガソーラー竣工</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/052711143/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Mon, 28 May 2018 09:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
