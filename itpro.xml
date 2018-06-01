@@ -5,63 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d01</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>施行が迫るEU一般データ保護規則、対応はいかに（下）（施行が迫るEU一般データ保護規則、対応はいかに）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/042300132/042300003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　欧州連合（EU）の一般データ保護規則（GDPR：General Data Protection Regulation）は、2018年5月25日に施行となる。皆さんの会社は、GDPRへの準備が整っているだろうか。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/042300132/042300002/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300132/042300003/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　次の一歩は、すべての個人データ処理について、最新の正確な詳細情報を提供できるよう、記録を保持しておくことだ。この要件は以下の場合に適用される。</p>
-
-<ul>
-<li>企業や団体の従業員が250人以上の場合</li>
-<br>
-<li>企業や団体の従業員が250人未満だが、その個人データ処理がデータ主体の権利と自由にリスクをもたらす可能性がある場合、データ処理が散発的ではない場合、データ処理の対象に特別カテゴリーの個人データが含まれる場合、または、有罪判決および犯罪に関連するデータの場合</li>
-</ul>
-
-<p>　企業や団体に課せられる要件は、個人データの管理者（controller）と処理者（processor）のどちらであるかによって異なる（両方を兼ねる企業や団体も多い）。管理者とは、個人データ処理の目的と手段を決定する主体。処理者とは、管理者のために個人データを処理する主体だ。全般にGDPRは、同意の取得、同意の撤回の管理、個人データにアクセスする権利の実現に関しては、データ管理者にその責任を課している。また、GDPRを満たしているデータ処理者を選ぶこともデータ管理者の責任だ。</p>
-
-<p>　GDPRの対象となるデータを特定し、保持しておく必要がある記録や、データをどこでどのように処理しているかを確認できたら、次は、GDPRの要求事項に対するギャップ分析を実施して、現在の遵守の水準を明確化する。これにより、GDPR遵守プログラムの範囲や、遵守のために着手する必要がある主な活動を見極めやすくなる。</p>
-
-<p>　ISFのGDPR Implementation Guideでは、以下を検討することによってGDPR遵守のギャップ対応の優先順位を見極めることを勧めている。</p>
-
-<ul>
-<li>高リスクとなる可能性が高い個人データ処理（例えば、特別カテゴリーの個人データ、有罪判決や犯罪に関するデータ、子供に関する個人データ）</li>
-<br>
-<li>監督機関から大きな罰を受けるであろう特定分野での違反</li>
-<br>
-<li>長い期間を要する可能性がある変更（例えば、システム開発が必要な変更、新しいITサービスの調達を伴う変更、大幅な実装を伴う変更など）</li>
-<br>
-<li>自社のリスク選好にそぐわない手法</li>
-</ul>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300132/042300003/?ST=cio-security&P=2">GDPRへの準備でCIOに必要な手順</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300132/042300003/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300132/042300003/?ST=cio-security&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042300132/042300003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Fri, 11 May 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n01</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>iPhoneのメッセージアプリが固まる「黒丸」バグ、対処法は（Computerworldニュース）</title>
@@ -1139,6 +1086,42 @@ iOS 11.4の新機能(1)：AirPlay 2とHomePodのステレオペア
 </div>
 ]]></description>
 			<pubDate>Fri, 01 Jun 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>英内務省の機関、ITモダナイゼーションプロジェクトに失敗（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060100510/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　英内務省の機関である前歴開示・前歴者就業制限機構（DBS）が実施したITモダナイゼーションプロジェクトが、「無能の極み」との烙印を押された。予定より4年以上遅れているうえ、費用の超過が2億2900万ポンドに及ぶ見通しだからだ。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060100510/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: iStock</div>
+</div>
+<p>
+　英下院決算委員会（PAC）は、2018年5月25日付けの<a href="https://www.parliament.uk/business/committees/committees-a-z/commons-select/public-accounts-committee/inquiries/parliament-2017/disclosure-barring-service-17-19/" target="_blank">レポート</a>で、DBSのモダナイゼーションプロジェクトを厳しく批判した。「またしても、内務省のプロジェクトが、計画と契約の不備、進展の遅れ、増え続けるコスト、ユーザーが望むサービスへの無理解によって失敗した」と断じている。
+</p>
+<p>
+　レポートのサマリーの中で、決算委員会はこのプロジェクトについて次のように裁定を下した。「このモダナイゼーションプロジェクトは4年以上遅れ、費用は当初の計画を2億2900万ポンド上回る見通しだ。その一方で、新たに始めた更新サービスへのニーズは、2012年に内務省が立てた予測に比べ、数分の1にとどまっている。DBSは2014年にプロジェクトの見直しを行ったが、事態を好転させるための取り組みは十分ではなかった」
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060100510/?ST=cm-software&P=2">DBSは現在、プロジェクトの委託先であるインドTataConsu...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060100510/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060100510/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060100510/?ST=cm-software&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060100510/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 01 Jun 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
