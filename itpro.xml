@@ -5,49 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n04</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iPhoneのメッセージアプリが固まる「黒丸」バグ、対処法は（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051100501/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　特殊なUnicode文字列を埋め込んだメッセージを使って主要アプリをフリーズさせる手法がまたも見つかった。今度の餌食は、米Appleの純正アプリ「メッセージ」だ。この不具合は「Black Dot（黒丸）」バグと呼ばれている。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051100501/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: IDG</div>
-</div>
-<p>
-　この問題は、iPhoneとiPadのiOS 11.3および11.4 betaで確認されているほか、Apple WatchやApple TVにも影響する可能性が高い。Macのメッセージアプリにも影響するかもしれないが、Macの方がリソースが多いことから、アプリが完全に無反応になる前に、該当するメッセージのスレッドを素早く削除することで対処できる可能性も考えられる。
-</p>
-<p>
-　この不具合は、見えないUnicode文字が多数埋め込まれたiMessageのメッセージ（SMSのメッセージではない）をiPhoneやiPadのメッセージアプリで表示する時に生じる。すべての文字を処理するために大量のメモリーやCPUサイクルが消費され、アプリが無反応になるというものだ。フリーズしたメッセージアプリを閉じることができたとしても、同じアプリを再び開くと、問題のメッセージの再表示で即座にフリーズ状態に戻ってしまう。
-</p>
-
-<p>
-　黒丸バグと呼ばれている理由はこうだ。最近、同じようなUnicode文字列のメッセージを使ったバグが「WhatsApp」のアプリでも見つかり、拡散していた。そちらのメッセージは、「&lt;●&gt;」という記号を指さす絵文字が使われていて、この黒丸をタップしないようにという注意があった。これをタップすると、その部分に隠れているUnicode文字列を展開する処理が始まり、アプリがクラッシュする。今回のiOSのバグは、流れが多少異なるが、メッセージには同じ記号が使われている。どちらの手法も、技術的には黒丸の絵文字自体が悪さをしているわけではないが、この名前で呼ばれるようになった。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051100501/?ST=cm-software&P=2">iPhoneやiPadのメッセージアプリで黒丸バグのメッセージを...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051100501/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051100501/?ST=cm-software&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051100501/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 11 May 2018 11:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d04</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>AIの搭載でBIが賢く便利に（上）（AIの搭載でBIが賢く便利に）</title>
@@ -1122,6 +1083,41 @@ iOS 11.4の新機能(1)：AirPlay 2とHomePodのステレオペア
 </div>
 ]]></description>
 			<pubDate>Fri, 01 Jun 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>データから未来を予測、プレディクティブアナリティクスとは（上）（データから未来を予測、プレディクティブアナリティクスとは）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/052500140/052500001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　プレディクティブアナリティクス（予測分析）とは、データアナリティクスのジャンルの1つだ。統計モデリングや機械学習などを使った分析手法を基盤として、過去と現在のデータから、未来に起きることを予測する。プレディクティブアナリティクスの技術を使うことで、未来についてかなり精度の高いインサイトを引き出すことができる。先進的なツールやモデルを生かして、数ミリ秒後、数日後、数年後の未来の動向や行動を着実に予測することは、今やあらゆる企業が実践できる。</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500140/052500001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　プレディクティブアナリティクスは、幅広い企業から支持を集めている。インドZion Market Researchが2017年に発表したレポートによると、世界全体での市場規模は2022年に約109億5000万ドルに達し、2016～2022年の年平均成長率（CAGR）は約21％に及ぶ見通しだ。</p>
+
+<h4>プレディクティブアナリティクスの仕組み</h4>
+
+<p>　プレディクティブアナリティクスは、ビッグデータ、データマイニング、統計モデリング、機械学習、各種の数学的処理など、さまざまな手法や技術を生かしている。与えられたパラメーターに基づいて、過去と現在のデータを精査してトレンドを明らかにしたり、未来の特定の時点で起きるであろう現象や状態を予測したりできる。</p>
+
+<p>　企業は、リスクや機会を探り当てるために、データに含まれているパターンをプレディクティブアナリティクスで見つけ出し、活用することができる。例えば、行動のさまざまな要素の相互関係を発見するためのモデルを構築できる。こうしたモデルを基にして、さまざまな条件が特定の組み合わせになった時の有望性やリスクを評価する。サプライチェーンや調達などの多種多様な現象に関して、情報に基づく意思決定を的確に行うための指針が得られる。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500140/052500001/?ST=cio-management&P=2">プレディクティブアナリティクスのメリット</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500140/052500001/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500140/052500001/?ST=cio-management&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500140/052500001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Mon, 04 Jun 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
