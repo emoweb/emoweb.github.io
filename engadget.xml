@@ -5,50 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Arm、35％も性能向上の「Cortex-A76」などモバイル向け新プロセッサ3製品発表
-</title>
-			<link>https://japanese.engadget.com/2018/06/01/arm-35-cortex-a76-3/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/677e01c6e50e659850834a06726442eb/206418982/20180601nintel.jpeg" />
-
-［Engadget US版より（原文へ）］
-
-消費者がよりよいグラフィックス、素早いレスポンスとリアルなXR（VRやMR、AR）体験をモバイルデバイスに求めることで、CPUやグラフィックス、ビデオ処理のプロセッサはますますそれに追いつくように要求されています。しかしArmがサンフランシスコで火曜日にイベントで発表した3つのプロセッサは、より高いパフォーマンス、没入感の高いゲームグラフィックス、UHD 8K解像度動画の再生を実現し、さらに将来のモバイルデバイスのために高性能なAI（人工知能）を提供するのです。
-
-新プロセッサのアーキテクチャは、Armによる2019年版クライアントIPプラットフォームやARM AI/ML開発プラットフォーム「Project Trillium」に基づいています。まず、「ARM Cortex-A76」は同社のハイパフォーマンス市場向けの最新CPUです。Cortex-A7xシリーズはラップトップ向けに設計されており、いくつかのWindows 10搭載パソコンにも搭載されています。まず、昨年モデルのA75は20時間以上の駆動時間を実現していました。そしてArmのIPグループのRene Haas社長によれば、新型のA76は40%高効率になりながら35％の性能向上を実現しています。
-
-ハイパフォーマンスGPUとなるArmのMali-Gシリーズも、2019年の次世代プロセッサとして登場します。G76は報道によれば、2017年モデルのMali-G72に比べて30%も高効率かつ高性能。これにより、モバイルデバイスでの幅広いハイエンドゲームや、重量級のAR/VR機能をゲームプレイに統合したアプリをサポートすることができます。
-
-モバイル動画愛好家、特にRED Hydrogen Oneが高くて買えない人にも朗報です。Armの発表によれば、新型の「Mali-V76」VPN（ビデオ・プロセッシング・ユニット）は最大60fpsの8K UHD解像度動画、あるいは4個の4K/60fps動画のデコードが可能です。さらに解像度を通常のHDにまで落とすことで、V76は最大で16個もの動画ストリームを表示することができるのです。
-
-編集部が日本向けに翻訳・編集したものです。
-原文著者：Andrew Tarantola
- ]]></description>
-			<pubDate>Fri, 01 Jun 2018 05:40:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    ソフトバンクの10兆円ファンド、GMの自動運転開発会社に約2428億円出資。業界に影響力確保も
-</title>
-			<link>https://japanese.engadget.com/2018/06/01/10-gm-2428/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/3e5b9758851d8401bbe965a83f0904f8/206419017/gmc.jpg" />
-米ゼネラル・モータース(GM)は、自動運転技術を開発するグループ会社Cruiseが、ソフトバンクの投資会社Softbank Vision Fund(SVF)から22億2500万ドル(約2428億円)の出資を受けることを発表しました。ソフトバンクは少し前からUber、Didi Chuxingといったネット配車サービスへの投資をしてきましたが、次の一手は自動運転の分野にコマを進めることになります。
- ]]></description>
-			<pubDate>Fri, 01 Jun 2018 06:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    2013年の今日、Haswellこと「第4世代Coreプロセッサー」が正式発表前に発売されました：今日は何の日？
-</title>
-			<link>https://japanese.engadget.com/2018/06/01/2013-haswell-4-core/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/54dc465cabe234ab53a1e24857b18202/206418081/00.jpg" />
-おもなできごと
-・2013年6月2日、インテルが「第4世代Coreプロセッサー」（Haswell）を発売
-・2014年6月2日、NexTV-FがCSデジタルで4Kテレビ試験放送「Channel 4K」を開始
-・2014年6月2日、サムスンが商用では初となるTizen採用スマホ「Samsung Z」を発表
-・2015年6月2日、KADOKAWAが「週刊アスキー」完全電子化創刊号を発売
-・2017年6月2日、GoProが空撮対応ドローン「Karma」を国内で発売
- ]]></description>
-			<pubDate>Fri, 01 Jun 2018 16:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    アップル、MacのCPU自社開発をすでにスタートか。オレゴン州の「秘密の研究施設」で技術者募集
 </title>
 			<link>https://japanese.engadget.com/2018/06/01/mac-cpu/</link>
@@ -583,6 +539,62 @@ MicrosoftとGitHubは以前から協力関係にあり、先月開催されたBu
 
  ]]></description>
 			<pubDate>Mon, 04 Jun 2018 02:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    ファーウェイ、国内SIMフリー版HUAWEI P20を6月11日に発表か。Twitterで予告
+</title>
+			<link>https://japanese.engadget.com/2018/06/04/sim-huawei-p20-6-11-twitter/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/8b562ea57ded0dd286c32485d56e0321/206423557/03.jpg" />
+HUAWEIが3月に発表したハイエンドスマートフォンHUAWEI P20シリーズ、最上位のP20 Proはドコモ専売で6月下旬に発売と発表済み。下位モデルとなるミドルクラスのP20 LiteはMVNO各社から6月リリースと発表されていますが、気になるのはP20 Pro同等の仕様となるP20の存在です。
+
+そのP20、どうやら6月11日に国内SIMフリー版として発表されるようで、HUAWEI Japanの公式アカウントがTwitterで予告しています。
+
+ 
+
+2016年6月 初のLeicaダブルレンズカメラ搭載「HUAWEI P9」、2017年6月 第2世代Leicaダブルレンズカメラ搭載「HUAWEI P10 / P10 Plus」を発表
+2018.6.11 Master Photography powered by AI : New SIM Free Smartphone debut#HUAWEI #SeeMoore pic.twitter.com/ZvI8lKcktt
+- Huawei Mobile (JP) (@HUAWEI_Japan_PR) June 3, 2018
+
+
+具体的な機種名には触れられていませんが、P9、P10の発表に続いて「Master Photography powered by AI」とのことなので、AI機能が強化されたKirin 970を搭載するP20でまず間違いはないはずです。
+
+トリプルカメラを搭載したP20 Proのインパクトが強すぎて、やや影が薄い印象のHUAWEI P20。背面カメラこそデュアル仕様ですが、こちらもLeicaレンズを搭載しています。RGB 12MP + モノクロ 20MPとP10と同等の構成です。
+
+ディスプレイはP20 Proよりも一回り小さい5.8インチ。有機ELではなくRGBWディスプレイを搭載します。SoCはP20 Proと同じくKirin 970、RAMは4GBでストレージは128GB。バッテリー容量は3400mAhで、防水防塵はIP53相当となっています。
+
+ドコモ版のP20 Proは、おサイフケータイに対応しましたが、SIMフリーとなるP20でも同様にFelicaを搭載するのかは気になるところです。
+
+ 
+関連：
+ファーウェイP20 ProとP20、Mate RS詳細写真レポ。プレゼンではわからない点に肉薄
+
+ドコモ版HUAWEI P20 Proはおサイフ対応。3眼カメラと強力AIアシストで手軽に綺麗な写真を撮影
+
+
+ ]]></description>
+			<pubDate>Mon, 04 Jun 2018 02:15:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Google、米国防総省とのAIプロジェクト契約を更新せず。社内の抗議運動に応える
+</title>
+			<link>https://japanese.engadget.com/2018/06/04/google-ai/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/15fe65eb855a0358ac9c155dfbbbe824/206423535/pentagon.jpeg" />
+Googleが米国防総省と共同のAI（人工知能）研究プロジェクトにつき、来年度以降は契約更新しない方針であると報じられています。
+
+情報筋によると、Googleクラウド部門CEOのダイアン・グリーン氏が、従業員との会合で内々に発表したとのこと。同社は近々に、新たなAI倫理ガイドラインを明らかにすると伝えられています。
+ ]]></description>
+			<pubDate>Mon, 04 Jun 2018 02:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    新たに電気の通り道を形成して回路を自動修復するロボットの皮膚のための新素材を発見
+</title>
+			<link>https://japanese.engadget.com/2018/06/04/self-healing-robot-skin/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/fb541bbb30e47c7428caf2cf989aa75e/206410456/elastomer.jpeg" />
+［Engadget US版より（原文へ）］
+
+これまで人型ロボットは、非常に固くて、ダメージを受けやすく、修理が困難でした。そこで科学者たちは、文字通り、ロボットの面の皮を厚くすることを考えました。
+ ]]></description>
+			<pubDate>Mon, 04 Jun 2018 03:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
