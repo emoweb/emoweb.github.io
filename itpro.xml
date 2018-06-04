@@ -5,44 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n05</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows 10の開発プレビュー版、端末間でクリップボード共有が可能に（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/051400502/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　Windows 10は、春の大型アップデート「April 2018 Update」のリリースに続き、今秋の次期大型アップデート「Redstone 5（開発コード名）」に向けて全速力だ。現時点での主な新機能や改良点としては、パソコン間でカット＆ペーストが可能なクリップボードの搭載、タブ機能「Sets」の改良、メモ帳の強化などがある。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051400502/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Microsoft</div>
-</div>
-<p>
-　米Microsoftは2018年5月9日、「Windows 10 Insider Preview」のビルド17666をリリースした。Windows Insider ProgramのFastリングに参加しているユーザーに提供される（今後は、FastリングとSkip Aheadの両方に同じビルドが配信されることになる）。ビルド17666が搭載している新機能を紹介していこう。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051400502/?ST=cm-software&P=2">クラウドクリップボード</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051400502/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051400502/?ST=cm-software&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051400502/?ST=cm-software&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051400502/?ST=cm-software&P=4">4</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/051400502/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 14 May 2018 11:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d05</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>履歴書を自動選別するシステム、攻略の鍵は（前）（履歴書を自動選別するシステム、攻略の鍵は）</title>
@@ -1119,6 +1085,38 @@ iOS 11.4の新機能(1)：AirPlay 2とHomePodのステレオペア
 </div>
 ]]></description>
 			<pubDate>Mon, 04 Jun 2018 10:40:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>開発者に向けたAI民主化でしのぎを削る大手IT各社（前）（開発者に向けたAI民主化でしのぎを削る大手IT各社）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/052500141/052500001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　5月は大手IT各社の開発者向けイベントがめじろ押しだった。米Facebookの「F8」、米Microsoftの「Build」、米Googleの「Google I/O」だ。筆者の住む英国では、米Amazon.comのAmazon Web Services（AWS）が「AWS Summit London」を開催した。今年の各社のイベントに共通していたのは、自社のプラットフォームを利用する開発者に対してAIテクノロジーをより使いやすくするという方向性だ。</p>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500141/052500001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　Facebook、Microsoft、Googleは、それぞれの開発者向けイベントで数多くの発表を行った。AWSは11月にラスベガスで開催する「re:Invent」まで目玉発表はお預けだが、各社とも、発表の主軸は機械学習とAI技術だった。</p>
+
+<p>　コンピュータービジョン、自然言語処理、ディープラーニングモデルなど、複雑で強力なAI技術をシンプルに使えるようにすることで、開発者たちを自らのエコシステムに囲い込み、インフラやサービスを利用してもらって収益を得ることが、大手IT各社の狙いだ。</p>
+
+<p>　各社のイベントでAIに関して行われた発表を振り返っていこう。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500141/052500001/?ST=cm-software&P=2">AWS</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500141/052500001/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500141/052500001/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500141/052500001/?ST=cm-software&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500141/052500001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 05 Jun 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
