@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>太陽光発電のDC1500Vに対応した手動開閉器、共立継器</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/052411136/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Thu, 24 May 2018 15:28:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>低圧アルミケーブル、屋根上太陽光にも適用、古河電工</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/052411137/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -243,6 +237,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/031400077/052300018/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Mon, 04 Jun 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「NVIDIAとの連携強化の成果」、GEヘルスケアの超音波新製品</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/327441/060100523/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><div class="bpimage_right" style="width:260px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/060100523/?SS=imgview_ndh&amp;FD=46728356" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/060100523/1.jpg?__scale=w:250,h:353&amp;_sh=03807901e0" width="250" height="353" alt=""></a></div><div>汎用超音波診断装置「LOGIQ E10」</div><div>クリックすると拡大した画像が開きます</div></div><p>　GEヘルスケア・ジャパンは、汎用超音波診断装置「LOGIQ E10」を2018年7月2日に発売する。米NVIDIA社の高性能GPUを搭載したことで、「高精細な画像が得られる」（同社 クリニカルケア・ソリューション 本部長の黒川貴史氏）のが特徴だ。米GE Healthcare社は2017年11月にNVIDIA社とのパートナーシップ強化を発表している（<a href="http://tech.nikkeibp.co.jp/dm/atcl/news/16/112810000/?ST=health" target="_blank">関連記事</a>）。今回の新製品は、その成果の一つと位置付ける。</p><p>　高性能GPUを搭載したことで、従来ハードウエアを介して行われていた検査データの送受信をソフトウエアで行うことができるようになった。画像処理もソフトウエアで行うことができ、多方向から受信・蓄積した超音波データの焦点をピクセルレベルで再構成することが可能になった。これにより、空間分解能やフレームレート、感度の向上が実現したとする。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/060100523/?SS=imgview_ndh&amp;FD=1096777268" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/060100523/hikaku.jpg?__scale=w:500,h:217&amp;_sh=07f0c20210" width="500" height="217" alt=""></a></div><div>（左）同社従来製品で撮影した超音波検査画像、（右）「LOGIQ E10」で撮影した画像、ともにプレスリリースより</div><div>クリックすると拡大した画像が開きます</div></div></div></div><div><div><span>1</span></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/060100523/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/060100523/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
+			<pubDate>Mon, 04 Jun 2018 10:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
