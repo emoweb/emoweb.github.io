@@ -5,38 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d05</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>履歴書を自動選別するシステム、攻略の鍵は（前）（履歴書を自動選別するシステム、攻略の鍵は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/042700135/042700001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　採用活動の中で、応募者の選別にApplicant Tracking System（ATS）を利用している企業は40％近くに及ぶ。だが、「Tracking System（追跡システム）」という名前にだまされないでおこう。ATSは、応募から採用に至るプロセスの中で志願者が現在どの段階にいるかを追跡するためのシステムではない。有望な志願者とそれ以外とを自動で振り分けて、企業の担当者が費やす時間を節約するためのシステムである。</p>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700135/042700001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　しかも、ATSの選別基準は、履歴書に書かれている情報が持つ意味や中身ではなく、履歴書の表面的な記述だ。その結果、「大半の企業では、担当者が誰も目にしたことのない履歴書が、データベースの中に膨大に眠っている」。そう話すのは、人事コンサルティング企業Bersin by Deloitteのプリンシパル、Josh Bersin氏だ。実に75％が、人間の目に触れないままとなっている。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700135/042700001/?ST=cm-software&P=2">ATSの仕組み</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700135/042700001/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700135/042700001/?ST=cm-software&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700135/042700001/?ST=cm-software&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700135/042700001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 15 May 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n05</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Googleの会話AI「Duplex」、専門家が倫理上の懸念を指摘（CIOニュース）</title>
@@ -1117,6 +1089,46 @@ iOS 11.4の新機能(1)：AirPlay 2とHomePodのステレオペア
 </div>
 ]]></description>
 			<pubDate>Tue, 05 Jun 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>CiscoのUCS CシリーズにAMD EPYC搭載サーバーが登場（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/060500437/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Cisco Systemsは、ラックサーバー「UCS C」シリーズの新製品として、「UCS C4200 Series Rack Server Chassis」と「UCS C125 M5 Rack Server Node」を発表した。データセンターの高負荷ワークロードやエッジコンピューティング環境での利用を想定した高密度マルチノードサーバーだ。
+</p>
+<div>
+<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/060500437/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　UCS C4200は、2RUのシャーシ1台に最大4基のサーバーノードを収容できる。C125 M5は、既存の2ソケットのUCS M5ラックサーバー製品に比べて、プロセッサのコア密度は最大128％増、メモリー帯域幅は33％増だと、Ciscoは説明している。
+</p>
+<p>
+　Ciscoのコンピューティングシステム製品グループでストレージの戦略と製品開発を統括するKaustubh Dasバイスプレジデントは、今回の製品について発表する公式ブログ記事で次のように述べている。「コンピューティングのニーズは、従来の大規模なデータセンターに代わって、分散した小規模のエッジ環境を取り入れる方向へと移りつつある。こうした中、『マイクロデータセンター』でフォームファクターをシームレスに共存できるかどうかや、運用の管理と自動化をクラウドから行えるかどうかが、極めて重要になっている」
+</p>
+<p>
+　「UCSはファブリック中心のアーキテクチャーで、クラウドベースの一元的な管理に対応しているうえ、高密度のフォームファクターや新機能を取り入れられるので、新たなテクノロジーの登場に対応しやすい。しかも、新しいインフラ要素のサイロ化もないし、フォークリフトアップグレードも不要だ」
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/060500437/?ST=cio-cloud&P=2">C125M5は、Ciscoとして初めて米AMD製...</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/060500437/?ST=cio-cloud&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/060500437/?ST=cio-cloud&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/060500437/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 05 Jun 2018 10:40:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
