@@ -5,23 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    WWDC2018盛り上がった瞬間ベスト10
-</title>
-			<link>https://japanese.engadget.com/2018/06/04/wwdc2018-10/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/c95c31d178677408c89610e0c47d3ab5/206426706/IMG_1169.JPG" />
-おはようございます、現地（サンノゼ）は夕方です（原稿執筆時）。WWDC 2018基調講演では、実にさまざまな新機能がお披露目されました。
-
- 
-関連: アップル WWDC 2018発表まとめ
-
-まだまだ詳報アップしますが、とりあえずサクッと知りたいという方のため、抑えておくべきポイントを場内が湧いた場面を切り取ることでご紹介していきたく思います。デベロッパーの方々の歓声だけでなく、日本のプレスの方々との雑談、ツイートの反応なども参考にしつつ、あくまで独自に解釈したものです。Appleの思惑やユーザーのQoL向上などはいっさい考慮しておりませんのでご了承ください。
-※トップ10としながら、12位から始まりますが気にしないでください。
-
-
- ]]></description>
-			<pubDate>Mon, 04 Jun 2018 20:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>Sponsored By ファーウェイ・ジャパン :     ドコモから出た、Leicaトリプルカメラ搭載HUAWEI P20 Proが革新的にスゴイ理由
 </title>
 			<link>https://japanese.engadget.com/pr/leica-huawei-p20-pro/</link>
@@ -543,6 +526,27 @@ Computex 2018にてASUSはコンセプトのデュアルスクリーン搭載ラ
 OpenGL/GL ESはオープンソースの3DCGライブラリーとして、またOpenCLはCPUだけでなくGPUやDSPと異なる計算資源を活用するためのマルチコンピューティング用APIとして広く利用されています。たとえばAbobeの各種ツール類やMetal登場以前のMac版3Dゲームなどは多くがOpenGLを使用していました。
  ]]></description>
 			<pubDate>Tue, 05 Jun 2018 06:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    インテル、28コアの5GHz駆動CPUを年末までに投入へ
+</title>
+			<link>https://japanese.engadget.com/2018/06/05/28-5ghz-cpu/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/9909855dfa72ad9bde8671c5ec4deb6f/206427505/20180605nintel28.jpeg" />
+
+［Engadget US版より（原文へ）］
+
+インテルの18コアCPUの「Core i9」は今でも鮮烈ですが、それは去年のニュース。本日Computexにて、インテルのグレゴリー・ブライアント（Gregory Bryant）上級副社長は、28コア搭載プロセッサが5GHzで動作するデモを公開しました。
+
+シングルソケットのデスクトップ向けプロセッサがこれだけのコア数を搭載するのは初めてですし、もちろん高性能なのは間違いありません。ステージで披露されたCinebenchのスコアは7334で、これはマルチプロセッサシステムでのみ達成されるレベルの数値です。
+
+さらに嬉しいことに、ブライアント氏によればこれはただのコンセプトではなく、インテルはこの28コア搭載CPUを年末までに販売する計画なのです。さて、最高スペックのCPUを購入するために貯金でも始めましょうか。
+
+編集部が日本向けに翻訳・編集したものです。
+原文著者：Devindra Hardawar
+
+ 
+ ]]></description>
+			<pubDate>Tue, 05 Jun 2018 06:30:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
