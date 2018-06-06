@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>世界の企業が2017年に調達した再エネ電力量は465TWh</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/052911148/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Tue, 29 May 2018 13:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>カザフスタンで63MW、中国企業がメガソーラー建設へ</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/052911149/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -243,6 +237,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/060611171/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Wed, 06 Jun 2018 12:58:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>FiNCとNEC、人間の歩行に着目したソリューション</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/060611172/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　デジタルヘルスベンチャーのFiNCとNECは、人間の歩行に着目したウェルネス・ソリューションを共同開発する。慣性センサー（IMU:Inertial Measurement Unit）や通信モジュール、電源などを内蔵したウエアラブルセンサーを靴やインソールに搭載し、人の歩行データを取得。これらのデータから歩行状態（歩幅や歩行速度など）を高精度に推定する。</p><p>　NECのIoT技術とFiNCの法人向けウェルネスサービス「FiNC for BUSINESS」を組み合わせる。ウエアラブルセンサーで取得したデータから歩行状態を推定結果とFiNCアプリで蓄積したライフログデータを分析し、パーソナライズされたソリューションを提供する。今回の取り組みは、2017年4月から開始した両社のヘルスケア領域における協業の一環。2019年の提供開始に向けて、2018年10月からNEC社内での実証実験も実施する。</p><p>　日常生活において、健康寿命を延ばすために健康を意識した行動を常に取ることは困難であり、また人の歩行状態を把握するためにウエアラブルセンサーを直接身体に装着することは、場所や利便性、費用面などで課題となっていた。そこで今回、NECが、ウエアラブルセンサーを小型・軽量化し、靴やインソールへの内蔵を可能にする技術を開発した。場所や時間にとらわれず、センサーの装着を意識することなく日常の歩行データを収集できるため、個人の健康状態に合わせた、より高度な健康アドバイスができるとする。</p><p>　両社は今後、今回のソリューションを用いた実証実験を共同で実施することで活用ノウハウを蓄積し、ソリューション強化や事業化につなげていく。</p></div>]]></description>
+			<pubDate>Wed, 06 Jun 2018 13:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
