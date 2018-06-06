@@ -5,30 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    インテルの記念CPU「8086K」は5GHz駆動も可能
-</title>
-			<link>https://japanese.engadget.com/2018/06/05/cpu-8086k-5ghz/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/d5f63f9debe51713d63d4ec6d6626745/206427419/20180605nintel5ghz.jpeg" />
-
-［Engadget US版より（原文へ）］
-
-インテルは創業50周年となる7月18日を前に、Computexにて記念モデルとなるCPU「Core i7 8086K」を発表しました。このCore i7 8086Kはブーストモードで5Ghzに達する初のCPUとなります。
-
-基本的に、このCore i7 8086Kは既存のi7ラインナップのチューンナップバージョンですが、オーバークロックなしに5GHz駆動可能なCPUを求めるゲーマーにアピールすることは間違いありません。また楽しみなことに、同CPUは倍率ロックが解除されており、さらなるオーバークロックが楽しめる可能性があります。インテルは8086個がプレゼントされるCore i7 8086Kの抽選サイトを公開しています。
-
-くわえて、インテルはモバイル向けにも新製品を発表。コードネーム「Amber Lake」となる「Yシリーズ」とコードネーム「Whiskey Lake」となる「Uシリーズ」は、現行製品と比べて最大で10％以上の性能向上をもたらします。さらに、デスクトップ向けの「Xシリーズ」と次世代CPU「Sシリーズ」も年内に投入されます。残念ながら、両シリーズについてはこれ以上の詳細は明かされませんでした。
-
-Core i7 8086Kはオリジナルの「Intel 8086」プロセッサの40周年となる6月7日に発売されます。
-
-※6月5日訂正：記事初出時、Core i7 8086Kの「抽選サイト」に関して「販売の抽選」とお伝えしていましたが、正しくは「プレゼントの抽選」です。日本居住者に対して、500個のCore i7 8086Kが当たります。お詫びして訂正いたします。
-
-編集部が日本向けに翻訳・編集したものです。
-原文著者：Devindra Hardawar
- 
- ]]></description>
-			<pubDate>Tue, 05 Jun 2018 04:15:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    AI機能を備えたデュアルスクリーンノートPC「Project Precog」をASUSが発表：COMPUTEX TAIPEI 2018
 </title>
 			<link>https://japanese.engadget.com/2018/06/05/ai-pc-project-precog-asus-computex-taipei-2/</link>
@@ -432,6 +408,32 @@ Qualcommは、台湾・台北市で開幕したコンピュータ関連見本市
 現在の仕様では、最大1分、しかもライブストリーミングの動画のみがアップロード可能です。これを最大1時間に延長した上に、ライブ配信されていないコンテンツへの拡大も検討中とのこと。
  ]]></description>
 			<pubDate>Wed, 06 Jun 2018 17:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    ミドルレンジなPixelスマホが来年登場か。Snapdragon 710搭載の噂
+</title>
+			<link>https://japanese.engadget.com/2018/06/06/pixel-snapdragon-710/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/f4a1ca54e5069a4938b150689e58ab59/206431091/20180606npixel.jpg" />
+
+グーグルがPixelブランドのミドルレンジスマートフォンを2019年前半に投入するとの観測が、海外で報じられています。もし情報が正しければ、Pixelブランドの製品ラインナップに変更が予定されていることになります。
+
+ 
+
+Off to Taiwan for @computex_taipei today, but here's a tidbit for ya: Google is working on a "mobile" device based on the Snapdragon 710 currently scheduled for launch in the 1st half of 2019. Sounds like this might be the (or one of them) upcoming mid-range Pixel phone.
+- Roland Quandt (@rquandt) 2018年6月2日
+
+
+この情報は、海外テックサイトのWinFutureのローランド・クワント（Roland Quandt）記者がツイートしたものです。クワント記者は具体的なスペックや機能については不明としながらも、1ヶ月前からPixelスマートフォンと思わしき「モバイルデバイス」の開発がスタートしたと投稿しているのです。
+
+また、この製品にはクアルコムのミドルレンジ端末向けプロセッサ「Snapdragon 710」が搭載されます。Snapdragon 710は廉価ながらAR（拡張現実）や画像処理、人工知能のより進んだ支援を組み込んだプロセッサで、4K HDR動画の再生も可能。チップは10nmプロセスで製造され、消費者向け製品への搭載は2018年第2四半期（4月〜6月）を予定しています。
+
+このように廉価なPixelブランドのスマートフォンの存在は昨年にも報じられたことがあり、その製品名は「Pixel 2B」だとされていました。ただ当時はSnapdragon 710は存在しなかったことから、今回報じられているモバイルデバイスはコンセプトは近くても、新規開発されるスマートフォンになるものと予測されます。
+
+これまでグーグルはリファレンス端末としてPixelシリーズを、そして以前にはNexsuシリーズを販売してきましたが、それらの多くには当時の最高スペックのプロセッサが搭載されてきました。しかし、開発者向け端末として考えればそこまでの性能は必要ないはず。さまざまな支援機能を盛り込んだSnapdragon 710でも、十分にその役目を果たせるはずです。
+
+来年前半というとこれまで秋に発売されてきたPixelスマートフォンのリリースタイミングとは異なりますが、はたして廉価版Pixelは本当に登場するのでしょうか。
+ ]]></description>
+			<pubDate>Wed, 06 Jun 2018 18:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
