@@ -5,41 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n07</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>履歴書を自動選別するシステム、攻略の鍵は（後）（履歴書を自動選別するシステム、攻略の鍵は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/042700135/042700002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　採用活動の中で、応募者の選別にApplicant Tracking System（ATS）を利用している企業は40％近くに及ぶ。だが、「Tracking System（追跡システム）」という名前にだまされないでおこう。ATSは、応募から採用に至るプロセスの中で志願者が現在どの段階にいるかを追跡するためのシステムではない。有望な志願者とそれ以外とを自動で振り分けて、企業の担当者が費やす時間を節約するためのシステムである。</p>
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/042700135/042700001/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700135/042700002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　フォントの話の前段階から説明しよう。ATSは、履歴書の中で技能や経験が記述されているセクションから、特定のキーワードを完全一致で探す。したがって、応募者は求人の1件1件に合わせて履歴書をその都度書き直した方がよいとTomaszewski氏は言う。求人情報の中から、業務内容、職務、技能のセクションにある単語をそのまま抜き出し、「そのキーワードを履歴書で使う」とのことだ。</p>
-
-<p>　だが、履歴書に書いたキーワードを見つけてもらうためには、そもそもATSが処理できる履歴書でなくてはならない。そこでフォントが関係してくる。「旧式のATSはOCRで情報を集める」とPolk氏は説明する。応募先ごとに単語を変えるという手間をかけても、その単語がきちんと認識されなければ話にならない。「セリフ系フォントはATSを混乱させる可能性がある」。ひげの装飾が加わっていることから、文字を正しく認識しない場合があるのだ。安全第一で、Calibriといった類いのサンセリフ系フォントを使うことをPolk氏は勧める。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700135/042700002/?ST=cm-software&P=2">ついでに言うと、箇条書きに用いる文頭の印も、きちんとした丸の方が...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700135/042700002/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700135/042700002/?ST=cm-software&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700135/042700002/?ST=cm-software&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700135/042700002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 17 May 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d07</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Huawei Watch 2、eSIM搭載の2018年モデルが登場か（CIOニュース）</title>
@@ -1107,6 +1076,42 @@ iOS 11.4の新機能(1)：AirPlay 2とHomePodのステレオペア
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/234646/032900046/</link>
 			<description><![CDATA[　消費税8％のうち6.3％は国へ、1.7％は地方に配分される。だが、その際に都会には少なめに、地方には多めに配分される。この比率が今般、さらに地方に手厚く変えられることになった。その決定を巡って東京都や大阪府は国に抗議をしている。何が起きているのか。]]></description>
 			<pubDate>Thu, 07 Jun 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>開発者に向けたAI民主化でしのぎを削る大手IT各社（後）（開発者に向けたAI民主化でしのぎを削る大手IT各社）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/052500141/052500002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　5月は大手IT各社の開発者向けイベントがめじろ押しだった。米Facebookの「F8」、米Microsoftの「Build」、米Googleの「Google I/O」だ。筆者の住む英国では、米Amazon.comのAmazon Web Services（AWS）が「AWS Summit London」を開催した。今年の各社のイベントに共通していたのは、自社のプラットフォームを利用する開発者に対してAIテクノロジーをより使いやすくするという方向性だ。</p>
+
+<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/052500141/052500001/" target="_blank">前回</a>から続く）</p>
+
+<h4>Facebook</h4>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500141/052500002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　今回取り上げる中で、Facebookは毛色が若干異なる。クラウドコンピューティング企業ではなくソーシャルネットワーキング企業ながらも、活発な開発者コミュニティーがあり、AIの研究開発に膨大な予算を投じている。</p>
+
+<p>　Facebookは、F8の開催中に公開したブログ記事で、AIを基盤技術として捉えていることを表明し、「科学者が主導する研究によって最先端の高度な技術を前進させることに当社は多大な投資をしてきた」と述べている。</p>
+
+<p>　また同社は、新バージョンのオープンソースAIフレームワーク「PyTorch 1.0」も発表した。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500141/052500002/?ST=cm-software&P=2">AIの倫理</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500141/052500002/?ST=cm-software&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500141/052500002/?ST=cm-software&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500141/052500002/?ST=cm-software&P=3">3</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500141/052500002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 07 Jun 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
