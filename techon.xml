@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>2020年に発電コスト14円、NEDOが太陽光の研究テーマ公表</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/053011150/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Wed, 30 May 2018 09:51:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>東ガスがメガソーラーに初出資、九州の約10MW分の稼働済み案件取得</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/053011151/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -243,6 +237,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/060100165/060600005/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　生産性の向上やペーパーレス、可視化、教育などに対して、多くの部分にICTは活用できると感じます。その一つとして、総務省ではテレワークの推進を掲げていますが、テレワークは医療分野に貢献できる点も多分にあると思います。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/060100165/060600005/?SS=imgview_ndh&amp;FD=-1099064106" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/060100165/060600005/n1.JPG?__scale=w:500,h:375&amp;_sh=0cf0f08c05" width="500" height="375" alt=""></a></div><div>総務省の渋谷氏（写真：加藤康、以下同）</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　岡山県に、とあるOA機器メーカーがあります。そこは従業員30人規模の中小企業ですが、その会社のトップは「中小企業こそテレワークが必要だ」という考えを持っていました。従業員が少ない中小企業は誰か1人がいなくなると業務に支障をきたすことも少なくなく、例えば「女性社員が出産のためにいなくなると、会社が傾く可能性すらある」という危機感があったからです。</p><p>　今回の議論では、「危機感が人を変える」という話がありました。この企業はまさに危機感があったからこそ、トップダウンで思い切ってテレワークを導入したと言えるでしょう。</p><p>　テレワークを導入した結果、この1年で残業時間を40％削減でき、かつ売り上げは5％アップしたそうです。すべての従業員が欠かせない存在という背景を踏まえれば、自宅でも会社と変わらない仕事ができるような環境を普段から用意することは、中小企業にも効果的といえそうです。</p><p></p><div class="bpimage_left" style="width:210px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/060100165/060600005/?SS=imgview_ndh&amp;FD=-1098140585" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/060100165/060600005/n2.JPG?__scale=w:200,h:267&amp;_sh=03704f01d0" width="200" height="267" alt=""></a></div><div>クリックすると拡大した画像が開きます</div></div><p>　また、この企業は求人広告に「在宅勤務可」と掲載したところ、求人倍率が1.8倍に上昇した上に、岡山県内の就職希望ランキングで9位になったといいます。このように、思い切った取り組みを実行したことが、働き方改革を進めるとともに、会社のイメージアップにもつながったわけです。もちろん、これは特殊な事例かもしれません。ただし、何らかの形でテレワークが病院経営の改善にもきっと役立つことでしょう。（談）</p></div>]]></description>
 			<pubDate>Wed, 06 Jun 2018 17:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>私が看護サマリー作成に感じるムダ</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/060100165/060600006/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　「ペーパーレス化」の議論についてですが、紙と印鑑の文化は何とかしてほしいと常々思っています。これは、医療業界に限らず日常生活においてもそうです。海外ではそもそも印鑑自体がほぼ存在せずサインで済ませていますし、最近では国が決めた番号を活用しているケースもあります。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/060100165/060600006/?SS=imgview_ndh&amp;FD=-1099064106" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/060100165/060600006/n1.JPG?__scale=w:500,h:375&amp;_sh=0570a80b90" width="500" height="375" alt=""></a></div><div>東京ベイ・浦安市川医療センターの戎氏（写真：加藤康、以下同）</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　私は看護師なので、その視点で改めて考えてみると、看護サマリーの作成にはムダがあると感じています。看護サマリーに必要な最新のバイタルデータなどの情報は、既に別の場所で入力している情報のため、詰まるところ同じデータを2度入力しているわけです。</p><p>　これは使っている電子カルテの性能や種類、環境などによって変わってくるとは思いますが、電子カルテがすべてにおいて使いやすいかと問われると、現状では必ずしもそうではないと私は感じています。同じデータを2度入力する必要があるようなシステムのままでは、そこでミスが発生する可能性があるからです。看護サマリーに限らず、既に入力済みのデータを使って新規書類を作成するような場合には、最新のデータが自動的に入力されるようなシステムがあればと思う限りです。</p><p></p><div class="bpimage_right" style="width:260px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/060100165/060600006/?SS=imgview_ndh&amp;FD=-1098140585" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/060100165/060600006/n2.JPG?__scale=w:250,h:333&amp;_sh=08506d0ef0" width="250" height="333" alt=""></a></div><div>クリックすると拡大した画像が開きます</div></div><p>　実際、私が米国へ留学していたとき、実習施設ではそのようなシステムが運用されていました。米国の看護師は、ボタンをひとつ押すだけで看護サマリーを簡単に作っていたのです。日本で電子カルテを開発しているメーカーにもぜひ取り入れてほしいところですし、もし既に実現されているのであれば、各病院はコストの問題などを抜きにして、このようなシステムを積極的に導入してほしいと考えています。</p></div>]]></description>
+			<pubDate>Wed, 06 Jun 2018 18:30:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
