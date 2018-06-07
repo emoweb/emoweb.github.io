@@ -5,51 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    アップルがmacOS 10.14 MojaveでOpenGL /GL ES、OpenCLを非推奨化。Metalへの移行推奨
-</title>
-			<link>https://japanese.engadget.com/2018/06/05/macos-10-14-mojave-opengl-gl-es-opencl-metal/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/a42578e40b2d2eb65cd7e050c94cc076/206427705/main.png" />
-アップルが、日本時間6月5日未明に発表したmacOS 10.14 Mojaveのリリースノートにおいて、OpenGL/GL ES、OpenCL、OpenGL ESを非推奨としました。アップルは今後、これらのAPIに代わって2014年に発表した独自の3DグラフィックスAPI、MetalおよびMetal Performance Shadersの利用を推奨しています。
-
-OpenGL/GL ESはオープンソースの3DCGライブラリーとして、またOpenCLはCPUだけでなくGPUやDSPと異なる計算資源を活用するためのマルチコンピューティング用APIとして広く利用されています。たとえばAbobeの各種ツール類やMetal登場以前のMac版3Dゲームなどは多くがOpenGLを使用していました。
- ]]></description>
-			<pubDate>Tue, 05 Jun 2018 06:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    インテル、28コアの5GHz駆動CPUを年末までに投入へ
-</title>
-			<link>https://japanese.engadget.com/2018/06/05/28-5ghz-cpu/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/9909855dfa72ad9bde8671c5ec4deb6f/206427505/20180605nintel28.jpeg" />
-
-［Engadget US版より（原文へ）］
-
-インテルの18コアCPUの「Core i9」は今でも鮮烈ですが、それは去年のニュース。本日Computexにて、インテルのグレゴリー・ブライアント（Gregory Bryant）上級副社長は、28コア搭載プロセッサが5GHzで動作するデモを公開しました。
-
-シングルソケットのデスクトップ向けプロセッサがこれだけのコア数を搭載するのは初めてですし、もちろん高性能なのは間違いありません。ステージで披露されたCinebenchのスコアは7334で、これはマルチプロセッサシステムでのみ達成されるレベルの数値です。
-
-さらに嬉しいことに、ブライアント氏によればこれはただのコンセプトではなく、インテルはこの28コア搭載CPUを年末までに販売する計画なのです。さて、最高スペックのCPUを購入するために貯金でも始めましょうか。
-
-編集部が日本向けに翻訳・編集したものです。
-原文著者：Devindra Hardawar
-
- 
- ]]></description>
-			<pubDate>Tue, 05 Jun 2018 06:30:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    2009年の今日、米国で「Palm Pre」が発売されました：今日は何の日？
-</title>
-			<link>https://japanese.engadget.com/2018/06/05/2009-palm-pre/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/cf922ee59f55f38f5dd3f8b4a6bc62da/206426734/00.jpg" />
-おもなできごと
-・2009年6月6日、米SprintがwebOSを搭載した「Palm Pre」を米国で発売
-・2009年6月6日、ソニーが「VAIO type P」にXP搭載モデルを追加
-・2016年6月6日、アンカー・ジャパンがAC 100V出力まで備えた434Whの大容量ポータブル電源「PowerHouse」を発売
-・2017年6月6日、アップルがWWDC 2017で「HomePod」や「iMac Pro」や最大18コアXeon搭載「iMac Pro」などを発表
- ]]></description>
-			<pubDate>Tue, 05 Jun 2018 16:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Facebookモバイルアプリに「リップシンク」動画作成機能。お気に入りの楽曲で投稿可能に
 </title>
 			<link>https://japanese.engadget.com/2018/06/05/facebook/</link>
@@ -490,6 +445,19 @@ GIGABYTEの液浸冷却マシン。
 			<pubDate>Wed, 06 Jun 2018 22:16:00 -0400</pubDate>
 		</item>
 		<item>
+			<title>    AMDの「第2世代Threadripper」CPUは最大32コアを実現
+</title>
+			<link>https://japanese.engadget.com/2018/06/06/amd-2-threadripper-cpu-32/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fdabddbd0d3042afca489224707bad19a%2F206431554%2F20180606namd.jpeg&client=a1acac3e1b3290917d92&signature=3a40fbddd6aa58338afefd6d0e69ce71e407ce8f" />
+［Engadget US版より（原文へ）］
+
+AMDが今一度、そのプロセッサ技術をさらなる高みへと押し上げました。Computexのキーノートにて、同社は最大32コア/64スレッド構成を含むCPU「第2世代 Ryzen Threadripper」を発表したのです。
+
+年内の登場が予定されていた第2世代Threadripperですが、本日のAMDの発表によればこのCPUは第3四半期（7〜9月）に投入されます。インテルによる28コア/5GHz駆動CPU公開の直後というタイミングには、ニヤリとさせられますね。
+ ]]></description>
+			<pubDate>Wed, 06 Jun 2018 22:25:00 -0400</pubDate>
+		</item>
+		<item>
 			<title>    速報：モトローラ、moto g6/g6 Plus/e5を6月8日発売、18:9縦長画面の3兄弟スマホ
 </title>
 			<link>https://japanese.engadget.com/2018/06/06/moto-g6-g6-plus-e5-6-8-18-9-3/</link>
@@ -510,6 +478,28 @@ GIGABYTEの液浸冷却マシン。
 COMPUTEX TAIPEI 2018と併催しているイノベーション＆スタートアップ関連展示会「InnoVEX」で、指先にはめることで操作可能なVR向け触覚フィードバックデバイス「Go Touch VR」の実機が展示されていました。今回はその体験レポートをお届けいたします。
  ]]></description>
 			<pubDate>Wed, 06 Jun 2018 23:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    モトローラがmoto Z3 Playを海外発表。6インチに大型化し指紋センサは側面に
+</title>
+			<link>https://japanese.engadget.com/2018/06/06/moto-z3-play-6/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/e99e4f530b97548eb886975cea100f06/206433881/mg-5198-1.jpg" />
+米Motorolaが日本でも販売しているmoto Z2 Playの後継機種、moto Z3 Playを発表しました。ブラジルでは即日販売開始で価格は2299レアル（約6万6000円）。米国では499ドル（約5万円）で今夏発売予定。なお、米国では、2000mAhの拡張バッテリを搭載するmoto modsがバンドルされるとのこと。
+
+moto ZシリーズはMotorolaの中でもフラッグシップシリーズにあたりますが、その中でもmoto Z Playは若干仕様を落とした普及モデルとなります。名前の通りに3世代目の製品となりますが、従来どおり、本体カバータイプの拡張モジュールであるmoto modsに対応。このため、画面は縦長化、大型化しつつも、全体的なサイズはあまり変わっていません。
+<p><a href="https://japanese.engadget.com/gallery/moto-z3-play-hands-on/" title="Moto Z3 Play hands-on">【ギャラリー】Moto Z3 Play hands-on (15枚)</a></p>
+ ]]></description>
+			<pubDate>Wed, 06 Jun 2018 23:40:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Facebook個人情報不正流用のCA社CEO、廃業前に8.8億円を持ち出しか。本人は議会喚問で否定
+</title>
+			<link>https://japanese.engadget.com/2018/06/06/facebook-ca-ceo-8-8/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/8191a80e188a6cbaf4f1cec2ff154ae8/206433980/ca.jpg" />
+Facebookから得た数千万人もの個人情報を不正流用した英国のデータ分析コンサル企業Cambridge Analyticaは5月はじめに廃業に至ったものの、スキャンダル発覚直後に停職処分にされたCEOのアレクサンダー・ニックス氏が会社から約800万ドル(約8億8000万円)もの資金を持ち出していたことが報じられました。
+ 
+ ]]></description>
+			<pubDate>Wed, 06 Jun 2018 23:50:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
