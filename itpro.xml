@@ -5,47 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n08</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIの搭載でBIが賢く便利に（下）（AIの搭載でBIが賢く便利に）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/042700134/042700003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　機械学習を活用したデータ分析の恩恵にあやかりたいと考えている企業各社は、少々意外な旧知の助っ人に目を向けつつある。ビジネスインテリジェンス（BI）システムだ。BIシステムというと、これまでは主に過去の実績の分析を担ってきたが、今や人工知能（AI）を取り入れて、予測機能を搭載したレポート能力を備えつつある。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/042700134/042700002/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700134/042700003/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　AI機能の搭載を後押ししているのは、処理能力の向上、より先進的なアルゴリズム、クラウドコンピューティング、標準インタフェースだ。例えばDataRobotの場合、クラウドコンピューティングと標準のREST APIを活用することで、米Trifacta、米Alteryx、米Domino Data LabのBIシステムや、PowerBI、Tableau、Qlik、Excel、R Shinyをはじめとする多数のダッシュボードツールへの対応を実現した。</p>
-
-<p>　AIを搭載したBIダッシュボードで処理できるデータは、従来よりもはるかに多彩だ。冒頭で紹介したSymphonyの場合、患者データの数値だけでなく、医師や看護師が作成した経過記録も把握できる。</p>
-
-<p>　構造化されずに保存されている情報は数多くある。そう話すのは、米コンサルティング会社Publicis.SapientでデータとAIを統括するJosh Sutton氏だ。有益な洞察や予測につながると考えられる情報で、しかも、テキスト形式だけではない。</p>
-
-<p>　「BIの非構造化データのデータソースとして特に大きいのが画像だ」。例えばマーケティング部門なら、ユーザーがSNSでシェアする写真に基づいて、商品がどのように使われているかを分析すれば、有益な情報が得られる可能性がある。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700134/042700003/?ST=cio-appli&P=2">過去の分析を越えて</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700134/042700003/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700134/042700003/?ST=cio-appli&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/042700134/042700003/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Fri, 18 May 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d08</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Microsoft、低価格のSurfaceタブレットを今秋発売か（Computerworldニュース）</title>
@@ -1106,6 +1069,45 @@ iOS 11.4の新機能(1)：AirPlay 2とHomePodのステレオペア
 </div>
 ]]></description>
 			<pubDate>Thu, 07 Jun 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>データから未来を予測、プレディクティブアナリティクスとは（下）（データから未来を予測、プレディクティブアナリティクスとは）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/052500140/052500003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　プレディクティブアナリティクス（予測分析）とは、データアナリティクスのジャンルの1つだ。統計モデリングや機械学習などを使った分析手法を基盤として、過去と現在のデータから、未来に起きることを予測する。プレディクティブアナリティクスの技術を使うことで、未来についてかなり精度の高いインサイトを引き出すことができる。先進的なツールやモデルを生かして、数ミリ秒後、数日後、数年後の未来の動向や行動を着実に予測することは、今やあらゆる企業が実践できる。</p>
+
+<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/052500140/052500002/" target="_blank">前回</a>から続く）</p>
+
+<h4>予測モデリングの手法</h4>
+
+<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500140/052500003/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　プレディクティブアナリティクスのモデルでは、予測モデリングのあらゆる手法を活用できる。特定の製品やサービスでのみ使える手法も多いものの、決定木、回帰、ニューラルネットワークに至るまで、核となる汎用的な手法は、プレディクティブアナリティクスの各種プラットフォームで広くサポートされている。</p>
+
+<p>　特に広く使われている手法の1つが決定木だ。樹木状の概略図を、行動方針の特定や、統計的確率の明示に使う。また、1つの決定から生じ得る結果や、1つの選択が次にどのようにつながるかを示す時にも、樹木状の手法が使える。</p>
+
+<p>　回帰の手法は、銀行業や投資など、金融系のモデルでよく使われる。資産価値を予測する時、あるいは、商品や株価などの変数の相互関係を理解する時に役立つ。</p>
+
+<p>　ニューラルネットワークは、プレディクティブアナリティクスの手法の最先端だ。人間の脳の働きを模倣して、データセットの中で根底にある関係性を見極めるためのアルゴリズムを使う。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500140/052500003/?ST=cio-management&P=2">プレディクティブアナリティクスのアルゴリズム</a></p>
+<div>
+<p class="pages">
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500140/052500003/?ST=cio-management&P=1" class="now">1</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500140/052500003/?ST=cio-management&P=2">2</a>
+<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500140/052500003/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Fri, 08 Jun 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
