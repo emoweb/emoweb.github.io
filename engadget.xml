@@ -5,41 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ミドルレンジなPixelスマホが来年登場か。Snapdragon 710搭載の噂
-</title>
-			<link>https://japanese.engadget.com/2018/06/06/pixel-snapdragon-710/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/f4a1ca54e5069a4938b150689e58ab59/206431091/20180606npixel.jpg" />
-
-グーグルがPixelブランドのミドルレンジスマートフォンを2019年前半に投入するとの観測が、海外で報じられています。もし情報が正しければ、Pixelブランドの製品ラインナップに変更が予定されていることになります。
-
- 
-
-Off to Taiwan for @computex_taipei today, but here's a tidbit for ya: Google is working on a "mobile" device based on the Snapdragon 710 currently scheduled for launch in the 1st half of 2019. Sounds like this might be the (or one of them) upcoming mid-range Pixel phone.
-- Roland Quandt (@rquandt) 2018年6月2日
-
-
-この情報は、海外テックサイトのWinFutureのローランド・クワント（Roland Quandt）記者がツイートしたものです。クワント記者は具体的なスペックや機能については不明としながらも、1ヶ月前からPixelスマートフォンと思わしき「モバイルデバイス」の開発がスタートしたと投稿しているのです。
-
-また、この製品にはクアルコムのミドルレンジ端末向けプロセッサ「Snapdragon 710」が搭載されます。Snapdragon 710は廉価ながらAR（拡張現実）や画像処理、人工知能のより進んだ支援を組み込んだプロセッサで、4K HDR動画の再生も可能。チップは10nmプロセスで製造され、消費者向け製品への搭載は2018年第2四半期（4月〜6月）を予定しています。
-
-このように廉価なPixelブランドのスマートフォンの存在は昨年にも報じられたことがあり、その製品名は「Pixel 2B」だとされていました。ただ当時はSnapdragon 710は存在しなかったことから、今回報じられているモバイルデバイスはコンセプトは近くても、新規開発されるスマートフォンになるものと予測されます。
-
-これまでグーグルはリファレンス端末としてPixelシリーズを、そして以前にはNexsuシリーズを販売してきましたが、それらの多くには当時の最高スペックのプロセッサが搭載されてきました。しかし、開発者向け端末として考えればそこまでの性能は必要ないはず。さまざまな支援機能を盛り込んだSnapdragon 710でも、十分にその役目を果たせるはずです。
-
-来年前半というとこれまで秋に発売されてきたPixelスマートフォンのリリースタイミングとは異なりますが、はたして廉価版Pixelは本当に登場するのでしょうか。
- ]]></description>
-			<pubDate>Wed, 06 Jun 2018 18:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Pixel 3/3 XLの画面は5.3インチと6.2インチ、有機ELディスプレイはLGが供給？
-</title>
-			<link>https://japanese.engadget.com/2018/06/06/pixel-3-3-xl-5-3-6-2-el-lg/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/a3d4782a5fc8397ae105ce6b2659591/206433458/20180606npixel3.jpg" />
-グーグルが開発中とされるリファレンススマートフォン「Pixel 3/3 XL」について、複数の情報筋からその画面サイズが5.3インチ/6.2インチになることやLGがディスプレイサプライヤーとして参加すること、そして製品のコードネームなどの情報が報じられています。
- ]]></description>
-			<pubDate>Wed, 06 Jun 2018 21:40:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Computex Taipei 2018で見つけた気になるもの : 情熱のミーム　清水亮
 </title>
 			<link>https://japanese.engadget.com/2018/06/06/computex-taipei-2018/</link>
@@ -448,6 +413,40 @@ Beta 2にはAPIレベル28となる最終APIと公式SDKが含まれますが、
 <p><a href="https://japanese.engadget.com/gallery/sfc/" title="慶応大学SFC自動運転バスの実証実験">【ギャラリー】慶応大学SFC自動運転バスの実証実験 (24枚)</a></p>
  ]]></description>
 			<pubDate>Thu, 07 Jun 2018 22:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Galaxyの省電力モードはどこにある？：Galaxy Tips
+</title>
+			<link>https://japanese.engadget.com/2018/06/07/galaxy-galaxy-tips/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=2736%2C1824%2C0%2C0&quality=85&format=jpg&resize=1200%2C800&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fea71cddaf2451735641598e92c2c0e44%2F206416179%2Ftop.JPG&client=a1acac3e1b3290917d92&signature=38eb1b5d5f5a39defe450e45390d03562910c78b" />そういえば省電力モードってどこから設定するんだっけ？ そんなときはGalaxyの「設定」アプリにある、「端末のメンテナンス」という項目をチェックしましょう。メモリの解放などもワンタップで行えます。
+
+※本記事の手順画面では、Android 8.0のGalaxy S8を使用しています。
+
+<p><a href="https://japanese.engadget.com/gallery/-541/" title="「端末のメンテナンス」の使い方">【ギャラリー】「端末のメンテナンス」の使い方 (4枚)</a></p>
+ ]]></description>
+			<pubDate>Thu, 07 Jun 2018 22:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    ポケモンGO『ウォーターフェスティバル』開始。色違いカイオーガやシェルダーに各種ボーナス
+</title>
+			<link>https://japanese.engadget.com/2018/06/07/go/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/1c8f2d28b9f0be34bd0624d5fca5c5ec/206437127/IMG_0003.JPG" />
+
+ポケモンGOで、みずポケモンをフィーチャーした『ウォーターフェスティバル』イベントが今年も始まりました。
+
+内容は
+・コイキングやホエルコなどみずタイプの出現増加
+・2kmタマゴからヘイガニなどタマゴテーブルの変更
+・水タイプ捕獲時の3倍すなボーナス
+・タマゴ孵化時のアメとすな2倍ボーナス
+・フィールドリサーチに水タイプ関係が増加
+など。
+
+また、海を代表する伝説のポケモン『カイオーガ』が、色違いの紫を含め期間限定で出現します。期間は日本時間で6月21日まで。
+
+従来のポケモンGOでは、色違いポケモンの追加についてイベント告知では特に言及しないことがほとんどでしたが、今回は珍しく「いつもと違う色のシェルダー」と「これまで見たことのない紫色の姿」のカイオーガが見られるかも、と公式に告知しています。
+ ]]></description>
+			<pubDate>Thu, 07 Jun 2018 23:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
