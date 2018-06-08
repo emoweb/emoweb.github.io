@@ -5,32 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Alexaがファッションチェック。Echo Lookの一般販売を米Amazonが開始
-</title>
-			<link>https://japanese.engadget.com/2018/06/07/alexa-echo-look-amazon/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/249b23220fffae505f875521a710d745/206434019/dims.jpg" />
-米Amazonが2017年4月に発表したEcho Look。これまで招待制での販売が続けられていましたが、今日から招待不要で誰でも購入可能となりました。
- 
-友達よりも信用できる？ Amazon、カメラ搭載のEcho Look発表。写真を比較し機械がファッションチェック
-
-Echo Lookは、名前からもわかる通り、Alexaを搭載したEchoシリーズのデバイスです。他のデバイスと同様にAlexaに対して音声で質問や指示をすることが可能。ただし、Lookの最大の特徴はLEDライトを内蔵した自撮り用のカメラを搭載している点です。
- ]]></description>
-			<pubDate>Thu, 07 Jun 2018 03:30:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    AMDが世界初7nmプロセスGPUを披露、ただしまだゲーム向けにあらず
-</title>
-			<link>https://japanese.engadget.com/2018/06/07/amd-7nm-gpu/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/c42fd63701e56797ef70e81ab56bcc95/206432554/20180606namdgpu.jpeg" />
-［Engadget US版より（原文へ）］
-
-本日のAMDは32コアCPU「Threadripper」を公開しただけでは満足しませんでした。同社は世界初となる超微細な7nmプロセスで製造されたGPUである、次世代版「Vega」も披露したのです。
-
-Radeon Instinctラインの製品となるこのGPUは当然、サーバーやマシンラーニングといった複雑なタスクでの使用を想定しています。AMDのリサ・スー（Lisa Su）CEOは、7nmプロセスで製造されるゲーミング・グラフィックスカード向けの「Navi」も投入予定だと語りましたが、こちらは2019年までは登場しない見込みです。
- ]]></description>
-			<pubDate>Thu, 07 Jun 2018 04:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    一緒に泳げる水中ドローンBIKIを試す。尾びれで静かに泳ぎ、音波リモコンで水中操作可能
 </title>
 			<link>https://japanese.engadget.com/2018/06/07/biki/</link>
@@ -460,6 +434,32 @@ Googleが米国防総省の人工知能（AI）利用プロジェクト協力に
 サンダー・ピチャイCEOはブログ記事にて、「GoogleのAI原則（Artificial Intelligence at Google Our Principles）」を公表。AI利用の目標として7項目、AI利用を追求しない分野として4項目を列挙しています。
  ]]></description>
 			<pubDate>Fri, 08 Jun 2018 07:45:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    2017年の今日、Ryzen搭載の一体型PC「New Inspiron 27 7000」が発売されました：今日は何の日？
+</title>
+			<link>https://japanese.engadget.com/2018/06/08/2017-ryzen-pc-new-inspiron-27-7000/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/94bd34395590853dcffb99c4ca046ad6/206437228/00.jpg" />
+おもなできごと
+・2012年6月9日、ソニーがUltrabook「VAIO Tシリーズ」を発売
+・2017年6月9日、デルがAMDのRyzenを採用した「New Inspiron 27 7000 フレームレスデスクトップ」を発売
+・2017年6月9日、トリニティがAndroidになったSIMフリースマホ「NuAns NEO[Reloaded]」を発売
+・2017年6月9日、ファーウェイがSIMフリースマホ「HUAWEI P10/P10 Plus/P10 lite」を発売
+ ]]></description>
+			<pubDate>Fri, 08 Jun 2018 16:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    iOS 12ベータ版でUSB制限モードがより強化。法執行機関によるロック解除対策か
+</title>
+			<link>https://japanese.engadget.com/2018/06/08/ios-12-usb/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/27c2a81cae2c5f32363a09eb47a0ff27/206438349/lock.jpeg" />
+iPhone内の情報を保護する「USB制限モード」が、開発者向けiOS 12ベータ版にてさらに強化されていることが明らかになりました。
+
+USB制限モードとは、iOS端末を一定時間アンロックしなかった場合、USB経由でPCから（パスコードやTouch IDなどでアンロックするまでは）内部データにアクセスできなくする機能のこと。
+
+iOS 12ベータ版では、前回のロック解除から1時間以上が経過したiOS端末について、USB制限モードを有効にする設定が可能になったとのこと。法執行機関が強制的にロック解除することが、より困難になったようです。
+ ]]></description>
+			<pubDate>Fri, 08 Jun 2018 17:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
