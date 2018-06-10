@@ -5,18 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>高信頼性パネルの22社、日本勢ではパナソニックが初認定</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/060511166/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Tue, 05 Jun 2018 11:32:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>関電グループ、赤穂市にメガソーラー稼働、太陽光10カ所目</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/060511167/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Tue, 05 Jun 2018 13:01:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>国内最大級15MWの営農型メガソーラー、シイタケを栽培</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/060511168/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -243,6 +231,18 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/070800035/060400051/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div><div><span>1</span></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/070800035/060400051/?P=2&amp;ST=SIO-tec">2</a></div><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/070800035/060400051/?P=2&amp;ST=SIO-tec">次のページ ≫</a></div></div>]]></description>
 			<pubDate>Mon, 11 Jun 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>岩手県宮古市に15.6MWのメガソーラー、サステナジーが開発</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/061111188/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Mon, 11 Jun 2018 07:17:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>CHASE（チェイス）</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/word/15/327920/061000059/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　科学的裏付けに基づく介護、いわゆる<a href="http://tech.nikkeibp.co.jp/dm/atcl/word/15/327920/041100055/?ST=health" target="_blank">科学的介護</a>の実現を目指し、介護領域におけるエビデンスを蓄積するためのデータベースの通称。「Care, Health Status &amp; Events」の略。介護保険サービスの内容や利用者の心身状態・変化に関する情報を収集し、サービスの質と効果についての科学的裏付けの蓄積を目的とする。</p><p>　厚生労働省の「科学的裏付けに基づく介護にかかる検討会」で構想された。「介護保険総合データベース」「通所・訪問リハビリテーションの質の評価データ収集等事業によるデータベース（Monitoring &amp; Evaluation for Rehabilitation Services for Long-term Care, VISIT）」といった既存のデータベースを補完するデータベースと位置付ける。2018年度に初期仕様の開発を開始し、2020年度に本格運用を目指している。</p><p>　CHASEで収集する情報は、認知症や口腔、栄養などの内容に関して、それぞれ（1）状態、（2）介入、（3）イベントの3種類に類型化することになっている。（1）は、日常生活動作（ADL）や認知機能、バイタルサイン、血清アルブミン値などの評価・検査データなど。（2）は、服薬情報、栄養指導やリハビリテーション、口腔ケア、各種介助の実施内容など。（3）は、入院や在宅復帰、転倒、発熱、誤嚥性肺炎、褥瘡、3％以上の体重増減といった発生した事象である。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="http://tech.nikkeibp.co.jp/dm/atcl/word/15/327920/061000059/?SS=imgview_ndh&amp;FD=87543233" target="_blank"><img src="http://tech.nikkeibp.co.jp/dm/atcl/word/15/327920/061000059/CHASE.jpg?__scale=w:500,h:301&amp;_sh=07d0bc0f30" width="500" height="301" alt=""></a></div><div>CHASE初期仕様に含まれる収集項目の分類（図：科学的裏付けに基づく介護にかかる検討会資料を基に本誌が作成）</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　収集する情報は、今後の検討により追加の可能性がある。データベースを用いた研究の利便性、正確性を考慮すれば、CHASEに求められる情報は必然的に幅広くなる。一方、介護現場の業務負担を考えると、データ収集の負担を極力少なくすることが求められる。</p><p>　そこで、まずは次の2点の情報を格納することを原則としたのが、前述の初期仕様案である。すなわち、（a）対象となる事業所の多くで既に電子的に取得されている情報、（b）一定程度の事業所で既に電子的に取得され、その方法が簡便で他の事業所でも容易に導入・実施できると思われるもの、である。</p><p>　今後、初期仕様案は随時バージョンアップされる予定。新たに必要な項目の追加、必要性が低いと思われる項目の削除、測定目的が重複している項目の整理などを行っていくとしている。</p></div>]]></description>
+			<pubDate>Mon, 11 Jun 2018 08:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
