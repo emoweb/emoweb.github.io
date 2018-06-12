@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n13</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ITリスク管理とイノベーションを両立するためのヒント（中）（ITリスク管理とイノベーションを両立するためのヒント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/051100136/051100002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　新たなチャンスを追求する中で直面するリスクを軽減しつつ、自社の推進力を損なわないためには、どうすればよいのだろうか。いくつかのアドバイスを紹介していく。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/051100136/051100001/" target="_blank">前回</a>から続く）</p>
-
-<h4>環境の変化に対応できるリスク監視ツールを使う</h4>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　自社のリスクやインシデントについて現状を把握するうえで、監視ツールは重要な役割を果たしている。だが、監視ツールには限界がある。特に、環境の変化への対応という面においてだ。コンテナなどの新たなテクノロジーを導入した時に、監視プロセスが重大なリスク源を見落とす可能性が考えられる。</p>
-
-<p>　「従来型のアプリケーションパフォーマンス管理（APM）プラットフォームなど、IT監視ツールの中には、現代のアプリケーションとうまく連携できないものや、アプリケーションと基盤インフラとの複雑な相互依存を適切に把握できないものが多い」。そう指摘するのは、IT監視に関するサービスや製品を手がける米ScienceLogicのAntonio Piraino最高技術責任者（CTO）だ。「従来のAPMソリューションは掘り下げが足りない。これは、コンテナ化やマルチクラウドシステムの隆盛が大きな要因となっている。その結果、従来の監視ツールの多くは、現状について行けなくなっている」</p>
-
-<p>　監視ツールが役割を果たしているかどうかを見定めるにはどうすればよいだろうか。答えの1つは実験だ。特定のサービスのオンとオフを試しに切り替えてみて、その事象が報告されるかどうかチェックする。さらに、アプリケーションのインベントリを再確認して、漏れがないか調べてみるとよい。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100002/?ST=cio-security&P=2">規制要件の変化に注意する</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100002/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100002/?ST=cio-security&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100002/?ST=cio-security&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100002/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Wed, 23 May 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d13</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Facebookの都市向け高速Wi-Fiプロジェクト、2019年に試験開始（Computerworldニュース）</title>
@@ -1107,6 +1069,44 @@ iOS 11.4の新機能(1)：AirPlay 2とHomePodのステレオペア
 </div>
 ]]></description>
 			<pubDate>Tue, 12 Jun 2018 10:40:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>クラウドのリスク緩和に役立つ7つのヒント（中）（クラウドのリスク緩和に役立つ7つのヒント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/060100142/060100002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　今回は、クラウドコンピューティングのリスクを評価し緩和するうえで役立つ7つのヒントを紹介する。</p>
+
+<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/060100142/060100001/" target="_blank">前回</a>から続く）</p>
+
+<h4>ゼロトラストのモデルでリスクを抑制する</h4>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100142/060100002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　ゼロトラストとは、何も信頼しないことを基本とするITセキュリティ戦略だ。いかなるユーザー、システム、デバイスが企業のシステムに接続する時も、境界の中であれ外であれ、確証が取れなければ接続を認めない。こうしたゼロトラストのモデルは、クラウドのリスクを緩和するうえでどのように使えるのだろうか。</p>
+
+<p>　米Insurityの場合は、アクセスを厳重に制限するという形でゼロトラストを取り入れている。同社のJonathan Victor最高情報責任者（CIO）は言う。「必要最小限のユーザー群に対し、職務の要件に沿った必要最小限の権限を与えて、論理アクセスを認めている。この統制を、社内のエンタープライズセキュリティ部門が監査し、社外からもSOCの年次監査の一環としてチェックしている」</p>
+
+<p>　ユーザーのアクセスレベルを定期的に調べ、理にかなっているかどうか確認する。管理者権限を持つユーザーが10人も20人も必要だろうか。スーパーユーザーが1人増えるごとに、リスクも増す。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100142/060100002/?ST=cio-cloud&P=2">メディアが取り上げる失敗例から学ぶ</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100142/060100002/?ST=cio-cloud&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100142/060100002/?ST=cio-cloud&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100142/060100002/?ST=cio-cloud&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100142/060100002/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Wed, 13 Jun 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
