@@ -5,16 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n14</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>第188回　これからの自治体と外郭団体（上山信一の「続・自治体改革の突破口」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/234646/032900045/</link>
-			<description><![CDATA[　この約1年半、筆者は東京都の特別顧問として各局や外郭団体のヒアリングを重ねてきた。その上でしみじみ思うことは、外郭団体の位置づけの変化である。都庁に限らず、自治体は従来の外郭団体に関する固定観念を捨てるべき時期にあると思う。]]></description>
-			<pubDate>Thu, 24 May 2018 05:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d14</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>データやプライバシーの侵害通知、プラン策定のヒント（後）（データやプライバシーの侵害通知、プラン策定のヒント）</title>
@@ -1106,6 +1100,43 @@ iOS 11.4の新機能(1)：AirPlay 2とHomePodのステレオペア
 </div>
 ]]></description>
 			<pubDate>Wed, 13 Jun 2018 10:40:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIを次々と取り入れるSalesforce、トップの狙いは（後）（AIを次々と取り入れるSalesforce、トップの狙いは）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/060100143/060100002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　米Salesforce.comは英ロンドンで2018年5月17日、イベント「Salesforce World Tour London」を開催した。筆者はこの時、「Einstein」プロダクトの統括責任者を務めるMarco Casalaina氏に話を聞いた。最先端のデータサイエンスの手法をどのように取り入れ、Salesforceのユーザー企業にどのような形で提供していくのか、同氏に尋ねてみた。</p>
+
+<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/060100143/060100001/" target="_blank">前回</a>から続く）</p>
+
+<h4>Einsteinを利用している企業の例は？</h4>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100143/060100002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　Salesforceの顧客企業がEinsteinの機能をそれらしく取り入れるのがいかに簡単かを説明するうえで、Casalaina氏が特に好んで挙げる顧客企業が2つある。1つは米U.S. Bank、もう1つは家具販売を手がける米Room and Boardだ。</p>
+
+<p>　以前からMarketing Cloudを利用していたRoom and Boardは、メールのセグメンテーションをこれまで以上にインテリジェントにするために、最近Einsteinを導入した。例えば、カリフォルニア州に住む35歳以上の男性をターゲットにしたメールを送りたい時に、現在では、Marketing Cloudの中で、メールを開く可能性についてのパラメーターを追加できる。これは当然、開封率の向上につながる。実際、15％も開封率が上がったとCasalaina氏は説明する。</p>
+
+<p>　「当社には、Salesforceならではの強みがある。すなわち、顧客企業が我々にデータを委託していることだ。Room and BoardはMarketing Cloudをずっと使ってきた。だから、Einsteinを有効にしたとたんに、これまでMarketing Cloudに格納してきたデータに対してEinsteinが本領を発揮した。その出力は極めてシームレスだ」</p>
+
+<p>　Casalaina氏は、顧客企業各社が扱うモデルについて、同じくMarketing Cloudを利用している他社とは完全に切り離されているということを繰り返し力説した。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100143/060100002/?ST=cm-software&P=2">ロードマップ</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100143/060100002/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100143/060100002/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100143/060100002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 14 Jun 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
