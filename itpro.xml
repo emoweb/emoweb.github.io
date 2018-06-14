@@ -5,40 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d14</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>データやプライバシーの侵害通知、プラン策定のヒント（後）（データやプライバシーの侵害通知、プラン策定のヒント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/051100137/051100002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　侵害通知のマスタープランを今すぐに策定し、該当する法令の一つひとつに合った必須の通知手順を定めておけば、ストレスを抑えられる。そのようなプランをまとめるためのヒントを紹介していこう。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/051100137/051100001/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100137/051100002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　通知に関して同じような要件が複数の法令で定められていたとしても、個別の状況に対して同じように当てはまるとは限らない。それぞれの法令が中心的な概念をどのように定義しているかによって、法令の適用の仕方は変わることが多い。例えば、ニューヨーク州金融サービス局の規定でも、GDPRの規定でも、データ侵害は所定の時間内に報告するよう義務づけられている。しかし、報告すべき内容は、侵害を受けたデータによって異なるかもしれないとBahar氏は指摘する。PII（個人識別可能情報）の定義は法令ごとに異なるからだ。「侵害通知プランをきちんと定めておけば、規則に合った報告の内容の感覚がつかめる」と同氏は言う。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100137/051100002/?ST=cm-network&P=2">テンプレートは作るべきか否か</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100137/051100002/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100137/051100002/?ST=cm-network&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100137/051100002/?ST=cm-network&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100137/051100002/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 24 May 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n14</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>CPU脆弱性、新種「Variant 4」の存在が明らかに（CIOニュース）</title>
@@ -1137,6 +1107,45 @@ iOS 11.4の新機能(1)：AirPlay 2とHomePodのステレオペア
 </div>
 ]]></description>
 			<pubDate>Thu, 14 Jun 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ニュージーランド企業、Alexaと連携した「話すAgTechシステム」を開発（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/061400440/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　ニュージーランドのAgTech企業であるAutogrowが、「世界初の話す自動栽培システム」を開発したと発表した。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061400440/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: IDG</div>
+</div>
+<p>
+　Autogrowはオークランドで1994年に設立された企業で、屋内農業用の各種ハードウエアやソフトウエアを開発している。今回の発表は、同社のクラウドベースのアプリケーション「IntelliGrow」のAPIを、米Amazon.comのスマートアシスタント「Alexa」に連携させたもの。生産者は、栽培室の現在の状況を声で尋ねたり、音声コマンドで操作を指示したりできる。
+</p>
+
+<p>
+　AutogrowのDarryn Keiller最高経営責任者（CEO）は言う。「これは現時点で人工知能（AI）の最善のユースケースだと思う。この開発では、人の声をコマンドに変えたほか、システム間の連携が可能であることを実証した」
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061400440/?ST=cio-appli&P=2">「今回はAlexaとの統合を実現したが、生産者の...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061400440/?ST=cio-appli&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061400440/?ST=cio-appli&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061400440/?ST=cio-appli&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061400440/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Thu, 14 Jun 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
