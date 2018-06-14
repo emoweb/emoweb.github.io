@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n15</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>CPU脆弱性、新種「Variant 4」の存在が明らかに（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/052400434/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　CPU脆弱性「Meltdown」「Spectre」の幻影は、これから何年にもわたってコンピューティング業界を悩ませることになりそうだ。両脆弱性に関しては、初動のパッチ提供の取り組みが終わりに近づきつつあるが、このタイミングで、米Googleと米Microsoftは、同様の投機的実行に関連する新たな脆弱性「Variant 4：Speculative Store Bypass」の情報を明らかにした（Variant 1～3は、Spectreの2つの脆弱性とMeltdownである）。しかし、このVariant 4に関しては、あわてふためく必要はない。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/052400434/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Thomas Ryan/IDG</div>
-</div>
-<p>
-　まずは悪い知らせから。Variant 4の脆弱性が存在するのは、Intel、AMD、ARMアーキテクチャのプロセッサだ。つまり、この問題はモバイルデバイスにも関係する。しかし幸いなことに、Variant 4で示された攻撃手法は、SpectreのVariant 1と同様に、Chrome、Firefox、EdgeといったWebブラウザーで動く言語のランタイム処理を使っている。
-</p>
-<p>
-　米IntelのLeslie Culbertson氏は、同社サイトに掲載した文章の中で次のように説明している。「1月以降、主要なブラウザー開発元のほとんどは、それぞれのランタイムに関してVariant 1の緩和策をリリースした。これによって、Webブラウザーを使ったサイドチャネル攻撃の難易度は大幅に高まった。この緩和策は、Variant 4にも効果があり、一般ユーザーが現時点で適用できる」
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/052400434/?ST=cio-security&P=2">つまり、Webブラウザーの開発元がリリースする更...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/052400434/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/052400434/?ST=cio-security&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/052400434/?ST=cio-security&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/052400434/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Thu, 24 May 2018 11:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d15</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ITリスク管理とイノベーションを両立するためのヒント（下）（ITリスク管理とイノベーションを両立するためのヒント）</title>
@@ -1146,6 +1108,45 @@ iOS 11.4の新機能(1)：AirPlay 2とHomePodのステレオペア
 </div>
 ]]></description>
 			<pubDate>Thu, 14 Jun 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>クラウドのリスク緩和に役立つ7つのヒント（下）（クラウドのリスク緩和に役立つ7つのヒント）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/060100142/060100003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　今回は、クラウドコンピューティングのリスクを評価し緩和するうえで役立つ7つのヒントを紹介する。</p>
+
+<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/060100142/060100002/" target="_blank">前回</a>から続く）</p>
+
+<h4>重要な事業者への監査権を要求する</h4>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100142/060100003/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　クラウド事業者を監査する権利がユーザー企業側にあるかどうかという話題は盛んに取り上げられる。契約や合意事項にそうした条項がない場合には、もしインシデントが起きても、どうしようもないかもしれない。一方で、大規模クラウド事業者は、そうした要件の取り入れに抵抗する。</p>
+
+<p>　米UpperEdgeでプロジェクト遂行アドバイザリーサービスのプラクティスリーダーを務めるTed Rogers氏は次のように話す。「監査については、クラウド事業者の多くは企業側に反発し、データセンターやそのプロセス、手順、セキュリティ対策などを監査する権利を認めていない。第三者が現れて監査を実施することに乗り気でないからだ。代わりにベンダーは、『コンプライアンスは万全だ』『心配無用だ』と言う。そうしないと、侵害の発生時などに、契約上の別の理由で困ったことになるからだ」</p>
+
+<p>　解決策の1つは、クラウド事業者が定めた監査手法を批判的に評価することだ。Rogers氏が勧めるのは、クラウド事業者の監査文書を確認すること。「具体的には、データプライバシーを巡る米Facebookの問題を受けて更新を加えたかどうかを調べる。クラウド事業者の中には、自分たちはデータ処理業者にすぎないと主張するところもある。データをいじったり譲り渡したりはしないと主張する」。そこで当然生じる疑問は、クラウド事業者がその言葉を守っているかどうかを知るにはどうすればよいかということだ。</p>
+
+<p>　ユーザー企業に監査権を与えることにクラウド事業者が抵抗する場合でも、リスク緩和の方法は残されている。確固たる報告を要求し、主要なリスク指標に重きを置くことだ。あるいは、契約の話し合いの中で情報を提供するよう内部監査部門に求める手もある。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100142/060100003/?ST=cio-cloud&P=2">クラウドを避けることのリスクをリスク緩和戦略の観...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100142/060100003/?ST=cio-cloud&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100142/060100003/?ST=cio-cloud&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100142/060100003/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Fri, 15 Jun 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
