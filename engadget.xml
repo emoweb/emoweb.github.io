@@ -5,15 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Xperia XZ2にジャストフィット。GRAMASから手帳型レザーケースが6月22日発売
-</title>
-			<link>https://japanese.engadget.com/2018/06/13/xperia-xz2-gramas/</link>
-			<description><![CDATA[     <img src="https://prtimes.jp/i/22201/107/resize/d22201-107-261342-0.jpg" />
-坂本ラヂヲ株式会社の展開するブランド『GRAMAS COLORS』は、　ソニーモバイルコミニュケーションズ製新型スマートフォン、Xperia&trade; XZ2　（2018年5月発表）専用の手帳型PUレザーケースを2018年6月22日（金）より発売いたします。GRAMASの代名詞でもあるフルレザーケースの機能性はそのままに、素材に合成皮革を採用することで、よりお求めやすい製品を目指しました。汚れと傷に強い合成皮革の特性を最大限引き出しつつ、ディテールなどを丁寧に作り込み、単なる廉価版ではない製品に仕上げています。 縦入れタイプのため、横入れタイプに比べて本体の横ずれが起きにくく、画面を快適に操作できます。 ケースを付けたままで、充電や写真(動画)撮影、電源、音量などの各種操作が可能です。
- ]]></description>
-			<pubDate>Wed, 13 Jun 2018 23:40:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    イーロン・マスク「Autopilotハンドル警告無視」するテスラ車オーナーに悩む。事故で警告増やせば苦情も増加
 </title>
 			<link>https://japanese.engadget.com/2018/06/14/autopilot/</link>
@@ -379,6 +370,35 @@ Byton（バイトン）はまだ車を台しか作っていませんが、より
 この技術が来年1月の投入が予測されている「Galaxy S10（仮称）」に投入されるかどうか、今から楽しみです。
  ]]></description>
 			<pubDate>Fri, 15 Jun 2018 05:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    ディープラーニングに特化したカメラ「DeepLens」、普通のカメラと何が違う？　米Amazonで発売
+</title>
+			<link>https://japanese.engadget.com/2018/06/15/deeplens-amazon/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/4fd2f01f937575c31972e3487c67d976/206455569/dims.jpg" />
+米Amazonが深層学習（ディープラーニング）向けビデオカメラ「DeepLens」を発売しました。価格は249ドル（約2万8000円）。
+
+DeepLensは、2017年11月に行われたAWS（Amazon Web Services）の年次会議で発表されていたもの。ネットワークに接続せず、デバイス上で深層学習を用いた画像認識などを行えます。
+
+カメラ部は4MP 1080P。その下に本体とも言えるミニコンピュータがあり、CPUはIntel Atom、8GBのメモリ、ストレージは16GB。USBポートのほか、microHDMIやmicroSDスロットも搭載。OSはUbuntu OSが動作しています。
+
+
+
+DeepLensにはGreengrass、TensorFlow、SageMakerなど、最新のツールが付属。また、「歯を磨く」「ギターを弾く」など30種の動作を識別したり、犬や猫を見分けたり、ホットドックかそうではないかを見極めるものなど、学習済みの深層学習モデルもセットされており、別途環境などを用意しなくても、誰でも10分以内に深層学習を始められるとしています。
+
+また、これまでに深層学習やAIプログラミングの経験が無くてもDeepLensを簡単に扱えるとしており、実際に先月実施されたハッカソンでは、未経験でも様々なアプリが作られたとのこと。
+
+なお、Amazonの音声AIアシスタントAlexaとは統合されていませんが、オンラインであればAlexaの機能も利用可能とのことです。
+
+同様の開発者向けツールとしては、GoogleはAIY Vision Kitを販売中です。DeepLensと同様に深層学習向けのカメラシステムですが、本体にRaspberry Piを使うなど、手作り感があるのがDeepLensとの大きな違い。完成品を提供するのか、パーツで提供するのかの違いではありますが、企業スタイルの違いが透けて見えるようでもあり、興味深いところです。
+
+ 
+Google、スマートカメラを自作する「Vision Kit」を発表。スマートスピーカーに続くAIYプロジェクト第2弾
+
+ 
+
+ ]]></description>
+			<pubDate>Fri, 15 Jun 2018 05:30:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
