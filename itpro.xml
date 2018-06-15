@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d15</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ITリスク管理とイノベーションを両立するためのヒント（下）（ITリスク管理とイノベーションを両立するためのヒント）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/051100136/051100003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　新たなチャンスを追求する中で直面するリスクを軽減しつつ、自社の推進力を損なわないためには、どうすればよいのだろうか。いくつかのアドバイスを紹介していく。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/051100136/051100002/" target="_blank">前回</a>から続く）</p>
-
-<h4>ベンダーロックインのリスクを認識する</h4>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100003/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　ベンダーロックインのリスクはIT部門にとって長年の課題だ。クラウドではこれが複雑化する。初期のクラウドサービスは、基本的なファイルストレージなどのシンプルなサービスだった。その状況では、新しいベンダーへの乗り換えに対処するのも簡単だ。しかし、もっと高度なクラウドサービスになると、乗り換えは難しくなり、ベンダーロックインのリスクが高まる。</p>
-
-<p>　Raghavan氏は次のように説明する。「ベンダーロックインの例として米Amazon.comのサービスを見てみよう。Amazon Web Services（AWS）では、システムの構築やデプロイを驚くほど簡単に実行でき、開発やDevOpsに携わる人がアプリケーションの手入れをする時に役立つAWS独自のツールが膨大に用意されている。したがって、別のクラウドベンダーにアプリケーションを移行する必要が仮に生じた場合、移行が極めて難しかったり、コストがかかりすぎたりという状況に陥る」</p>
-
-<p>　ベンダーロックインのリスクを緩和するのは簡単ではない。企業によっては、そのリスクを受け入れて、よい方に転ぶことを願うという選択もあるかもしれない。あるいは、運用を複数のベンダーに分けるという選択もあるだろう。多数のベンダーとの関係を管理するとなると、労力は確かに増えるが、それだけの価値があるかもしれない。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100003/?ST=cio-security&P=2">IT監査はクラウドでも有益</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100003/?ST=cio-security&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100003/?ST=cio-security&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100003/?ST=cio-security&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/051100136/051100003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Fri, 25 May 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n15</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Apple、2017年にiPhoneのバッテリーを有償で交換した人に50ドルを返金（Computerworldニュース）</title>
@@ -1147,6 +1109,44 @@ iOS 11.4の新機能(1)：AirPlay 2とHomePodのステレオペア
 </div>
 ]]></description>
 			<pubDate>Fri, 15 Jun 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Office 2019 for Mac、法人向けプレビュー版が登場（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/061500516/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Microsoftは現地時間2018年6月12日、Mac用の永続ライセンス版オフィススイート「Office 2019 for Mac」のプレビュー版「Commercial Preview」をリリースしたことを発表した。同社は4月末にWindows用のCommercial Previewをリリースしている。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/061500516/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Microsoft</div>
+</div>
+<p>
+　Office 2019 for Macの正式版の発売時期については、Officeの製品マーケティングを統括するJared Spataroバイスプレジデントが同社公式ブログ記事で、「Windows版のOffice 2019と共に、2018年下半期に発売する予定だ」との大まかな見通しのみを示した。
+</p>
+<p>
+　Office 2019 for Mac Commercial Previewは、4月に出たWindows用Commercial Previewと同様に、Officeアプリケーションの永続版をボリューム導入する予定の企業や組織を対象としたもの。Office 365のサブスクリプション契約を結んでいる企業や組織に提供されるOfficeアプリケーションとは異なる。
+</p>
+<p>
+　そもそも、Office 365のサブスクリプション契約者は、Mac版にせよWindows版にせよ、Office 2019のベータテストを気にする必要はない。Office 365のOfficeアプリケーションには、Office 2019と同様の機能が既に搭載されているからだ。永続ライセンス版のOffice 2019は、Office 365の中心であるOffice 365 ProPlusで3年間にわたってOfficeアプリケーションに少しずつ加わってきた変更が基になっている。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/061500516/?ST=cm-software&P=2">一方、Office365を契約せずに単体版のOfficeforM...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/061500516/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/061500516/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/061500516/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 15 Jun 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
