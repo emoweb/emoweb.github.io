@@ -5,46 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n19</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Appleの自動運転車、Volkswagenのバンを改造して登場か（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/052800508/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Appleが自動運転車の開発プロジェクト「Titan」を進めているという話は数年前から報じられていた。野心的なプロジェクトのビジョンを支えるために、1000人以上のメンバーが携わり、豪華な装備やスマートなインフォテインメントシステムを備えた革新的な電気自動車を開発しているとの噂だった。しかし、米New York Times（NYT）の2018年5月23日の記事によると、Appleをもってしても克服が難しかった課題があるようだ。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052800508/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Volkswagen</div>
-</div>
-<p>
-　同記事によれば、プロジェクトが始まったのは2014年。Appleのよりすぐりのエンジニアや、デザイナーのJonathan Ive氏が参加し、Appleの名にふさわしい新機軸の自動車のプロトタイプ開発を進めていた。いわば「iPhoneの自動車バージョン」のような車を開発する構想だったという。
-</p>
-<p>
-　このプロジェクトが現在もApple社内で続いている可能性は十二分にある。だが、構想は大幅にスケールダウンし、はるかに現実的なものになった。最終的にAppleは、ドイツVolkswagenと提携を結んだとNYTは報じている。Volkswagenのバン「T6」に、コンピューター、センサー、電気自動車用の大型バッテリーなど、Appleの最新のテクノロジーを搭載する計画だという。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052800508/?ST=cm-hardware&P=2">AppleStoreで新車を買って持ち帰れるようになる日を待ち望...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052800508/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052800508/?ST=cm-hardware&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052800508/?ST=cm-hardware&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/052800508/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 28 May 2018 11:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d19</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>企業のサイバーレジリエンス、侵害の衝撃を抑えるには（前）（企業のサイバーレジリエンス、侵害の衝撃を抑えるには）</title>
@@ -1158,6 +1122,37 @@ iOS 11.4の新機能(1)：AirPlay 2とHomePodのステレオペア
 </div>
 ]]></description>
 			<pubDate>Mon, 18 Jun 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Facebookの物理セキュリティ、責任者に聞く（前）（Facebookの物理セキュリティ、責任者に聞く）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061100145/061100001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　サイバーセキュリティを徹底的に追求するには、テクノロジーだけでは不十分である。それが米Facebookの見解だ。そこで、同社の最高グローバルセキュリティ責任者、Nick Lovrien氏は、物理セキュリティを展開してデータを守っている。物理セキュリティとは、警備員や警備犬が人々の安全を守るという一般的なイメージにとどまるものではない。適切に組織化された物理セキュリティは、情報を守るものでもある。</p>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100145/061100001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　Facebookのグローバルセキュリティデータセンター・チームは、境界防衛の最後のレイヤーとしての役割を果たし、知的財産を守っている。そのアプローチは組織化され、Facebookの社屋自体、サーバーと一般の人々との間の物理的防御を実現する設計になっている。</p>
+
+<p>　「当社の活動はすべて、容赦ない優先順位付けに基づいている。すばやく動いて構築することを是とする」。開発のスピードを上げるために、同社のオフィスはオープンフロア方式となっている。「Facebookで自分のオフィスを持つ者はいない。Mark Zuckerberg最高経営責任者（CEO）であれ、Sheryl Sandberg最高執行責任者（COO）であれ、誰であれ同じだ」。また社員証は発行していない。つまり、Facebookの施設に日々出入りする2万人の来訪者と社員とを区別する物理的なキーカードはない。これは当然リスクだ。物理的な脅威という面だけでなく、来訪者にデータを持ち出されないようにするという面も含めてである。</p>
+
+<p>　Lovrien氏は、それだけ多くの来訪者が出入りする職場について、「安全でセキュアな環境を構築するという方向とは明らかに食い違う」と認めつつも、「この環境が持つ実務上のリスクレベルと引き換えに、それを補えるくらいのコラボレーションや成果、インパクトが、この環境だからこそ実現できると感じている」と話す。つまり、同社にはオープンフロアのオフィスが必要だという前提のもとで、セキュリティの側がそれに合わせて対処しなくてはならない。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100145/061100001/?ST=cm-network&P=2">オープンな環境の中身を見てみると、まずはそれぞれの拠点に「セキュ...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100145/061100001/?ST=cm-network&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100145/061100001/?ST=cm-network&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100145/061100001/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 19 Jun 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
