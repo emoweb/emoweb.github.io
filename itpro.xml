@@ -5,45 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n20</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Apache Wicket 8が登場、ラムダ式を一部でサポート（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/052900435/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　Apache Software Foundationは2018年5月23日、オープンソースのJava Webフレームワーク「Apache Wicket」のバージョン8をリリースした。Java 8の機能をサポートするが、目玉機能であるラムダ式に関しては、フレームワーク全体のうち一部分で対応している。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/052900435/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Volkswagen</div>
-</div>
-<p>
-　Wicketは、サーバーサイドのコンポーネント指向Webフレームワーク。バージョン8では、APIにJava 8のイディオムや型を取り入れた。日時の処理に関しても、Java 8の新しい型をサポートし、コンポーネントへのバインディングや変換に使えるようになった。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/052900435/?ST=cio-appli&P=2">フレームワークの一部でラムダ式をサポート</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/052900435/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/052900435/?ST=cio-appli&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/052900435/?ST=cio-appli&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/052900435/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Tue, 29 May 2018 10:40:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d20</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>IT部門のコラボレーションツール、社員に選択を任せるメリットは（中）（IT部門のコラボレーションツール、社員に選択を任せるメリットは）</title>
@@ -1162,6 +1127,48 @@ iOS 11.4の新機能(1)：AirPlay 2とHomePodのステレオペア
 </div>
 ]]></description>
 			<pubDate>Tue, 19 Jun 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>増やせICT女子、ニュージーランド企業の事例（中）（増やせICT女子、ニュージーランド企業の事例）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061100144/061100002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　Angie Judge氏は10代の頃、ニュージーランドの若い女性起業家の話を聞いた。いかにしてテクノロジー企業を立ち上げ、軌道に乗せたかという話だった。</p>
+
+<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/061100144/061100001/" target="_blank">前回</a>から続く）</p>
+
+<h4>MYOB</h4>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100144/061100002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　ここからは、ShadowTech Dayで女子生徒たちを迎え入れた企業の例をいくつか見ていこう。クラウドベースの会計ソフトウエアを手がけるMYOBは、数年前からShadowTech Dayに携わっている。今年は、オークランドの生徒12人を迎えた。</p>
+
+<p>　最近同社は、「MYOB Women in Tech」というレポートを公開し、テクノロジー分野にもっと女性が進出する必要性について、議論を促している。</p>
+
+<p>　レポートによると、ニュージーランドでテクノロジー分野の仕事に従事している人のうち、女性の割合はわずか23％で、ここ数年はあまり変化がない。</p>
+
+<p>　また、同レポートが引用したGrant Thorntonの2017年の調査報告「Women in business」によれば、世界の企業幹部のうち女性が占める割合は25％で、女性幹部が1人もいない企業は全体の34％に及ぶ。</p>
+
+<p>　さらに、MYOBのレポートが示すデータでは、ニュージーランドにおける高等教育でICTを学ぶ男性の数は女性の約2倍、エンジニアリングや関連技術を学ぶ男性は女性の約5倍だ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100144/061100002/?ST=cio-management&P=2">MYOBのゼネラルマネージャー、CarolynL...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100144/061100002/?ST=cio-management&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100144/061100002/?ST=cio-management&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100144/061100002/?ST=cio-management&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100144/061100002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Wed, 20 Jun 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
