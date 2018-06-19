@@ -5,39 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d19</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>企業のサイバーレジリエンス、侵害の衝撃を抑えるには（前）（企業のサイバーレジリエンス、侵害の衝撃を抑えるには）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/052200139/052200001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　サイバーレジリエンスとはつまるところ、データ侵害やサイバー攻撃の間も企業がビジネスをどの程度きちんと運営できるかだ。企業のセキュリティチームは、攻撃を検出し、食い止めるための手段を導入しているし、不可避の侵害を受けた時の復旧計画も定めている。だが、危機に見舞われている間も、IT部門と共に、受注処理、カスタマーサービス、経理など、必須のビジネスプロセスを継続できるだろうか。</p>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052200139/052200001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　従業員全員がセキュリティの専門家である必要はない。しかし、開発など技術系の社員であれば、会社全体にとってセキュリティが持つ重要性を理解する必要がある。防御のオペレーションに関して自分の務めを果たせなければ、侵害や攻撃によってビジネス全体が麻痺しかねない。</p>
-
-<p>　例えば、「NotPetya」の時はウクライナの各地でスーパーマーケットやATMが稼働停止に追い込まれ、「WannaCry」の時は病院が患者の情報にアクセスできなくなった。そう話すのは、米ソフトウエア企業Code42でプロダクト開発担当シニアバイスプレジデントを務めるRob Juncker氏だ。トップクラスの大手企業でも、イノベーションの失敗が行き詰まりを招いて破産に至ることがある。それと同じで、セキュリティの準備が整っていなければ、大手企業でも行き詰まる可能性があると同氏は言う。セキュリティの重大性を皆が理解していれば、開発と運用が力を合わせ、ビジネスのレジリエンスを維持するための緩衝材を自由に組み入れて、生き延びることができる。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052200139/052200001/?ST=cm-network&P=2">ビジネスを理解して防御を強化する</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052200139/052200001/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052200139/052200001/?ST=cm-network&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052200139/052200001/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 29 May 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n19</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Apache Wicket 8が登場、ラムダ式を一部でサポート（CIOニュース）</title>
@@ -1153,6 +1124,44 @@ iOS 11.4の新機能(1)：AirPlay 2とHomePodのステレオペア
 </div>
 ]]></description>
 			<pubDate>Tue, 19 Jun 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google Chrome、公式ストア以外での拡張機能インストールを廃止へ（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/061900441/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Googleは、Webブラウザー「Chrome」の拡張機能に関して、公式ストア「Chromeウエブストア」を経由せずに直接インストールできる「インラインインストール」機能を段階的に廃止することを、現地時間2018年6月12日に発表した。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061900441/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: EstudioWebDoce</div>
+</div>
+<p>
+　Googleの拡張機能プラットフォームプロダクトマネージャー、James Wagner氏は公式ブログ記事で次のように説明している。「我々のもとには、迷惑な拡張機能のせいでChromeの使い勝手が突然変わったという苦情の数々が、ユーザーから絶えず寄せられている。その大半は、人を欺いたり混乱させたりするようなやり方で『インラインインストール』を取り入れているWebサイトによるものだ」
+</p>
+<p>
+　インラインインストールは、元々は拡張機能の開発者の利便性を考えて用意された機能だ。開発者はユーザーをChromeウエブストアに移動させることなく、自分のWebサイト上で拡張機能をインストールしてもらえる。拡張機能自体はChromeウエブストアに置かれているが、ユーザーは開発者のサイトを離れることなくインストールできる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061900441/?ST=cio-appli&P=2">Wagner氏は今回のブログ記事で、インラインイ...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061900441/?ST=cio-appli&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061900441/?ST=cio-appli&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061900441/?ST=cio-appli&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061900441/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 19 Jun 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
