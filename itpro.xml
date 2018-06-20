@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n21</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Alexaが夫婦の会話を誤って他人に送信、Amazon.comの説明は（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/053000509/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米国で、夫婦のプライベートな会話を米Amazon.comのスマートスピーカー「Echo」が知らぬ間に録音して他人に送ったとの報道があった。Amazon.comは、Echoのセキュリティへの懸念を鎮めようと動いている。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/053000509/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Martyn Williams</div>
-</div>
-<p>
-　今回の事態に対する声明の中で、Amazon.comは次のように述べている。「当社はプライバシーを非常に重視している。今回、何が起きたかを調査し、極めてまれな現象であることを特定した。今後の再発を防ぐための策を講じているところだ」
-</p>
-<p>
-　この一件は、米国のテレビ局KIRO 7が最初に報じた。数週間前、自宅内での夫婦の会話を、近くに置いてあったEchoが録音し、連絡先に登録してあった人のうち、夫の部下のスマートフォンに向けて送ったというものだ。妻はその後、この件をAmazon.comに報告したという。
-</p>
-<p>
-　スマートスピーカーのプライバシーとセキュリティに懸念を抱かせる話だが、Amazon.comはあくまで、これはめったにない技術的アクシデントによって生じたものだと主張している。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/053000509/?ST=cm-cloud&P=2">簡単に言うと、Echoのスマートアシスタント「Alexa」が、室...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/053000509/?ST=cm-cloud&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/053000509/?ST=cm-cloud&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/053000509/?ST=cm-cloud&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 30 May 2018 11:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d21</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>企業のサイバーレジリエンス、侵害の衝撃を抑えるには（後）（企業のサイバーレジリエンス、侵害の衝撃を抑えるには）</title>
@@ -1170,6 +1132,40 @@ iOS 11.4の新機能(1)：AirPlay 2とHomePodのステレオペア
 </div>
 ]]></description>
 			<pubDate>Wed, 20 Jun 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Facebookの物理セキュリティ、責任者に聞く（後）（Facebookの物理セキュリティ、責任者に聞く）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061100145/061100002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　サイバーセキュリティを徹底的に追求するには、テクノロジーだけでは不十分である。それが米Facebookの見解だ。そこで、同社の最高グローバルセキュリティ責任者、Nick Lovrien氏は、物理セキュリティを展開してデータを守っている。物理セキュリティとは、警備員や警備犬が人々の安全を守るという一般的なイメージにとどまるものではない。適切に組織化された物理セキュリティは、情報を守るものでもある。</p>
+
+<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/061100145/061100001/" target="_blank">前回</a>から続く）</p>
+
+<h4>境界としてのロビー</h4>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100145/061100002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　「我々はロビーを境界として扱っている。中に入ると、2カ所での認証が目に入る。共連れ防止と、アクティブな統制がある。これはどのオフィスでも共通している」。共連れとは物理セキュリティの用語だ。社員に連れ立って部外者が入るのをうっかり許してしまうのはこれにあたる。後に続けて入る人のためにドアを押さえておいてあげるといった親切行為から起きることがよくある。</p>
+
+<p>　Lovrien氏によると、偵察行為に対処する職員が建物を巡回しているが、私服で活動しているため「警備員が大勢動き回っている印象は与えない」とのことだ。メンロパーク（米カリフォルニア州のFacebook本社）では、自転車隊、機動隊、警備犬が巡回する地上警備もある。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100145/061100002/?ST=cm-network&P=2">大都市のオフィスの難しさ</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100145/061100002/?ST=cm-network&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100145/061100002/?ST=cm-network&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100145/061100002/?ST=cm-network&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100145/061100002/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 21 Jun 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
