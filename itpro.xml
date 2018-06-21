@@ -5,54 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n22</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>iOS 11.4が登場、AirPlay 2実装やHomePodステレオペアなど（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/053100436/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Appleは、2018年3月末にリリースしたiOS 11.3で、バッテリー管理機能、アニ文字、ARKitなどを強化したが、昨年の開発者向けイベント「WWDC」で発表した主要な機能のいくつかを、いまだに搭載していなかった。しかし、今年のWWDCが翌週に迫ったこのタイミングで、新バージョン「iOS 11.4」を投入した。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/053100436/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Daniel Masaoka</div>
-</div>
-<p>
-　iOS 11.4の目玉は、iCloudにメッセージを保管する機能や、「AirPlay 2」、スマートスピーカー「HomePod」のステレオペア機能だ。Apple自身は、iOS 11.4の提供開始を伝える<a href="https://www.apple.com/jp/newsroom/2018/05/ios-11-4-brings-stereo-pairs-and-multi-room-audio-with-airplay-2/" target="_blank">プレスリリース</a>の中で、AirPlay 2とステレオペアを大きく取り上げている。
-</p>
-<h4>
-iOS 11.4の新機能(1)：AirPlay 2とHomePodのステレオペア
-</h4>
-<p>
-　AirPlay 2は、iOS 11.3のベータ版に一旦は実装されたが、正式版では消えていた。今回のiOS 11.4で、ようやく正式に登場となった。ワイヤレスネットワークを使って音楽をストリーミング再生するAppleのプロトコルとして、久々のメジャーアップデートだ。
-</p>
-<p>
-　AirPlay 2の主な特徴は、iOSデバイスと対応スピーカーを使ってマルチルームオーディオシステムを構築できること。部屋単位での音量調整のほか、部屋ごとに別々の音楽を再生することもできる。HomePodとApple TV（第4世代以降）は、11.4へのアップデートでAirPlay 2に対応する。その他のAirPlay対応スピーカーも、今後はAirPlay 2へとアップデートされていくはずだ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/053100436/?ST=cio-appli&P=2">一方、HomePodのステレオペアは、同じ部屋に...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/053100436/?ST=cio-appli&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/053100436/?ST=cio-appli&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/053100436/?ST=cio-appli&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/053100436/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Thu, 31 May 2018 11:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d22</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>IT部門のコラボレーションツール、社員に選択を任せるメリットは（下）（IT部門のコラボレーションツール、社員に選択を任せるメリットは）</title>
@@ -1166,6 +1122,48 @@ iOS 11.4の新機能(1)：AirPlay 2とHomePodのステレオペア
 </div>
 ]]></description>
 			<pubDate>Thu, 21 Jun 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>増やせICT女子、ニュージーランド企業の事例（下）（増やせICT女子、ニュージーランド企業の事例）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/061100144/061100003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　Angie Judge氏は10代の頃、ニュージーランドの若い女性起業家の話を聞いた。いかにしてテクノロジー企業を立ち上げ、軌道に乗せたかという話だった。</p>
+
+<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/061100144/061100002/" target="_blank">前回</a>から続く）</p>
+
+<h4>Bank of New Zealand</h4>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100144/061100003/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　Bank of New Zealandのテクノロジーチームの一員で、NZTech TechWomenの幹部でもあるKatarina Kolich氏によると、同社は2年前からShadowTech Dayに参加している。「テクノロジー関連のキャリアの様子にスポットを当てることができ、参加者たちにとって素晴らしい1日だ」</p>
+
+<p>　「ITにどんな職種があり、その仕事に就くまでにあらゆる道筋があるということが分かる。必要なのは、好奇心と、行きたい方向への推進力だけだ」</p>
+
+<p>　また、同社のサプライヤー・デリバリー・マネージャー、Donna Owens氏はこう話す。「参加した生徒たちは、当社のさまざまな役職について学ぶことや、存在を知らなかった職種について知ったりすることを貴重だと考えていた。今では、大学でどの科目を学ぼうかと考えている」</p>
+
+<p>　Owens氏によると、生徒たちはマシュマロチャレンジ（パスタやマシュマロなどを使ってタワーを作るゲーム）に挑む中で、コラボレーション、試行錯誤、MVP（Minimum Viable Product：実用最小限の製品）について学んだ。</p>
+
+<p>　また、ノートパソコンとデスクトップパソコンの分解と再組み立ての方法も実演したとのことだ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100144/061100003/?ST=cio-management&P=2">Xero</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100144/061100003/?ST=cio-management&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100144/061100003/?ST=cio-management&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100144/061100003/?ST=cio-management&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/061100144/061100003/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Fri, 22 Jun 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
