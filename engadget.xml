@@ -5,15 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    楽天モバイルが料金プランを改定。主力のスーパーホーダイはどう代わったか？：週刊モバイル通信 石野純也
-</title>
-			<link>https://japanese.engadget.com/2018/06/20/rakuten-mobile-ishino/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F68081c0b75de511fdd65391f6078c01a%2F206467072%2F01.jpg&client=a1acac3e1b3290917d92&signature=b6ad6703b478b8f72343ba81080321c16fe73397" />
-個人向けMVNOシェア1位を誇る楽天モバイルが、夏商戦に向け、料金プランを改定しました。スーパーホーダイは、5分間の通話定額と、データ容量がセットになったプラン。通信容量を使い切っても、速度制限が1Mbpsと緩いのも特徴です。昨年9月にサブブランド対抗として導入され、楽天モバイルの主力プランになっていました。楽天で楽天モバイル事業を率いる大尾嘉宏人氏によると、音声通話つきプランの約70%がスーパーホーダイを選択していたといいます。
- ]]></description>
-			<pubDate>Wed, 20 Jun 2018 07:50:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    アマゾン、画面つきスマートスピーカーEcho Spotを国内発売。カメラでビデオ通話も対応のアレクサ置き時計
 </title>
 			<link>https://japanese.engadget.com/2018/06/20/echo-spot/</link>
@@ -391,6 +382,26 @@ Xperia XZ2シリーズの記事一覧
 
  ]]></description>
 			<pubDate>Thu, 21 Jun 2018 20:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    サムスン、8TB容量のSSDを出荷開始　3Dメモリ技術利用
+</title>
+			<link>https://japanese.engadget.com/2018/06/21/8tb-ssd-3d/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/1abb064f7cf1ee773dbe5899f6da1e6e/206472617/20180621nsam.jpeg" />
+
+［Engadget US版より（原文へ）］
+
+データセンターはより高密度なストレージを手に入れることになります。サムスンは産業向けとして最大容量となる、8TBをわずか11&times;3.05cmの基盤におさめたNVMe SSD（solid state drive）を出荷しました。これは、大規模サーバーやスリムラップトップにて一般的に搭載されてるSSDの2倍の容量となります。
+
+この新型SSDにはサムスン製の512GBのNANDパッケージが16個実装されており、それぞれのパッケージは256ギガビットの3bit V-NANDチップ（大容量SSDを想定して設計されたもの）が16層積層され、8TBという密度を実現したのです。これは現行のサーバー設備のシステム密度を3倍に高め、また2Uラックサーバーで576TBという途方もないストレージを実現できると期待されています。
+
+SSDの読み込み速度は3100MB/sで、書き込み速度は2000MB/sと、通常のSATA接続SSDからそれぞれ5倍/3倍も高速となっており、さらにエンタープライズ向けサーバーシステムなら2Uラックスペースにて100万IOPS以上を達成できます。このパフォーマンスは次世代の大規模データセンターへの投資にすばらしい見返りをもたらします。さらにサムスンは、512ギガビットバージョンの3bit V-NANDチップを搭載したSSDも年内に出荷する予定で、これによりビッグデータ処理にてさらなる高速処理が可能になります。
+
+編集部が日本向けに翻訳・編集したものです。
+原文著者：Rachel England
+
+ ]]></description>
+			<pubDate>Thu, 21 Jun 2018 22:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
