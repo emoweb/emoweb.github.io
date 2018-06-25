@@ -5,7 +5,7 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2018-06-25 17:09:23 +0900</title>
+			<title>2018-06-25 18:09:24 +0900</title>
 			<link> </link>
 			<description><![CDATA[<strong>techon</strong><br/><p>#&lt;RuntimeError: redirection forbidden: http://techon.nikkeibp.co.jp/rss/index.rdf -&gt; https://tech.nikkeibp.co.jp/dm/rss/index.rdf&gt;
 in
@@ -21,8 +21,26 @@ in
 /data/src/rss_crawler/src/lib/rsspipe.rb:166:in `pipe_procedure&#39;
 /data/src/rss_crawler/src/pipes/techon.rb:58:in `block in &lt;top (required)&gt;&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
+/data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p><br/><br/><strong>engadget</strong><br/><p>#&lt;URI::InvalidURIError: bad URI(is not URI?): https://japanese.engadget.com/2018/06/25/varidate-theory-of-relativity /&gt;
+in
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/uri/rfc3986_parser.rb:67:in `split&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/uri/rfc3986_parser.rb:73:in `parse&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/uri/common.rb:227:in `parse&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/uri/common.rb:714:in `URI&#39;
+/data/src/rss_crawler/src/lib/httputil.rb:59:in `request&#39;
+/data/src/rss_crawler/src/lib/httputil.rb:87:in `get&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:327:in `page_access&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:257:in `get_description&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:229:in `block in fetch&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:235:in `block in fetch&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:233:in `each&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:233:in `each_with_index&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:233:in `fetch&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:182:in `pipe_procedure&#39;
+/data/src/rss_crawler/src/pipes/simple_pipes.rb:11:in `block (2 levels) in &lt;top (required)&gt;&#39;
+/data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
-			<pubDate>Mon, 25 Jun 2018 17:09:23 +0900</pubDate>
+			<pubDate>Mon, 25 Jun 2018 18:09:24 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
