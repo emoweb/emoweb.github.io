@@ -5,46 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n26</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>安値で買えるワイヤレス充電パッド2製品（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060400511/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　iPhoneやAndroidスマートフォンのうち、最近発売された製品は、便利なワイヤレス充電に対応している機種も多い（Pixel 2やOnePlusのように、対応していない製品もある）。しかしこの機能を活用していない人もいると思う。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060400511/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Jason Cross/IDG</div>
-</div>
-<p>
-　今回の記事では、そんな方のために、米Amazon.comが最安値水準で販売している2つのワイヤレス充電パッドを紹介する。1つは韓国Samsung Electronicsの「Fast Charge Wireless Charging Pad」（25ドル）、もう1つはAnkerブランドの「PowerPort Wireless 5 Pad」（10％オフのクーポン適用で13.49ドル）だ。
-</p>
-
-<p>
-　両製品ともQi規格の認証を取得しているので、ほとんどのスマートフォンで安全かつ確実に利用できる。iPhone 8／Xでも大丈夫だ。また、どちらもスマートフォン本体の過熱を防ぐ温度管理をうたっており、Samsungの方は冷却用の小型ファンも内蔵している。Samsungの製品は、同社の説明によると、Fast Chargeテクノロジーにより、Galaxyシリーズの対応機種（Galaxy S9など）を他のスマートフォンに比べて約25％高速に充電できる。一方、Ankerの製品は、効率性の高い部品と高性能なチップセットの搭載により、他の5Wワイヤレス充電器よりも10％高速だと、同社は説明している。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060400511/?ST=cm-wireless&P=2">だが、こうした違いは、もっぱら理屈上の話だ。ワイヤレス充電で肝心...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060400511/?ST=cm-wireless&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060400511/?ST=cm-wireless&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060400511/?ST=cm-wireless&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 04 Jun 2018 10:40:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d26</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>開発者に向けたAI民主化でしのぎを削る大手IT各社（前）（開発者に向けたAI民主化でしのぎを削る大手IT各社）</title>
@@ -1164,6 +1128,35 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 25 Jun 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>機械学習ライブラリー、TensorFlowとは（前）（機械学習ライブラリー、TensorFlowとは）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/062000147/062000001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　機械学習は複雑な分野だが、モデル構築の作業は以前に比べればずいぶん楽になった。米Googleの「TensorFlow」をはじめとする機械学習フレームワークのおかげだ。こうしたフレームワークを使えば、データの取得、モデルのトレーニング、予測の実行、結果の改良というプロセスの苦労が減る。</p>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　TensorFlowは、Google Brainチームが開発したオープンソースのライブラリで、大規模な機械学習や数値計算に使える。機械学習や深層学習、ニューラルネットワークのさまざまなモデルやアルゴリズムが、共通の抽象化のもとで使いやすくまとまっている。Tensorflowのアプリケーションの開発には、Python用のフロントエンドAPIが提供されている。開発したアプリケーションの実行には、高速なC++が使われる。</p>
+
+<p>　TensorFlowでトレーニングと稼働を行う多層ニューラルネットワークは、例えば手書きの数字の認識、画像認識、単語埋め込み、リカレントニューラルネットワーク、機械翻訳のシーケンス変換モデル、自然言語処理、偏微分方程式ベースのシミュレーションなどの処理に使える。トレーニングしたモデルを使って、実環境での大規模な予測を支えられるのは何よりだ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000001/?ST=cm-software&P=2">TensorFlowの仕組み</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000001/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000001/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 26 Jun 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
