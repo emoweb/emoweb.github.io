@@ -5,50 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n27</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>CiscoのUCS CシリーズにAMD EPYC搭載サーバーが登場（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/060500437/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Cisco Systemsは、ラックサーバー「UCS C」シリーズの新製品として、「UCS C4200 Series Rack Server Chassis」と「UCS C125 M5 Rack Server Node」を発表した。データセンターの高負荷ワークロードやエッジコンピューティング環境での利用を想定した高密度マルチノードサーバーだ。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/060500437/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　UCS C4200は、2RUのシャーシ1台に最大4基のサーバーノードを収容できる。C125 M5は、既存の2ソケットのUCS M5ラックサーバー製品に比べて、プロセッサのコア密度は最大128％増、メモリー帯域幅は33％増だと、Ciscoは説明している。
-</p>
-<p>
-　Ciscoのコンピューティングシステム製品グループでストレージの戦略と製品開発を統括するKaustubh Dasバイスプレジデントは、今回の製品について発表する公式ブログ記事で次のように述べている。「コンピューティングのニーズは、従来の大規模なデータセンターに代わって、分散した小規模のエッジ環境を取り入れる方向へと移りつつある。こうした中、『マイクロデータセンター』でフォームファクターをシームレスに共存できるかどうかや、運用の管理と自動化をクラウドから行えるかどうかが、極めて重要になっている」
-</p>
-<p>
-　「UCSはファブリック中心のアーキテクチャーで、クラウドベースの一元的な管理に対応しているうえ、高密度のフォームファクターや新機能を取り入れられるので、新たなテクノロジーの登場に対応しやすい。しかも、新しいインフラ要素のサイロ化もないし、フォークリフトアップグレードも不要だ」
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/060500437/?ST=cio-cloud&P=2">C125M5は、Ciscoとして初めて米AMD製...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/060500437/?ST=cio-cloud&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/060500437/?ST=cio-cloud&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/060500437/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Tue, 05 Jun 2018 10:40:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d27</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>データから未来を予測、プレディクティブアナリティクスとは（中）（データから未来を予測、プレディクティブアナリティクスとは）</title>
@@ -1160,6 +1120,39 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 26 Jun 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Web認証手法を包括的に評価する枠組み（中）（Web認証手法を包括的に評価する枠組み）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/062000146/062000002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　何年も前に公開されていた情報にたまたま出会い、その情報が自分の重要な関心事にジャストミートで、今まで存在を知らなかったなんて信じられない、と思うことはないだろうか。筆者がまさにそう感じた素晴らしい報告書がある。　Webで使われている各種の認証手法を比較検討した「<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/QuestToReplacePasswords.pdf" target="_blank">The Quest to Replace Passwords：A Framework for Comparative Evaluation of Web Authentication Schemes</a>」だ。著者は、Joseph Bonneau、Cormac Herley、Paul C. van Oorschot、Frank Stajanoの各氏である。</p>
+
+<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/062000146/062000001/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000146/062000002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　プロキシベースの認証では、ユーザーがそれぞれのWebサイトで使う本来のパスワードを、複数の新しい中間形式に変換し、プロキシに保存する。ユーザーには、パスワードと直接関連付けられた「キー」（ワンタイムパスワード）のリストが送られる。ユーザーは、登録済みのサイトを訪れたい時に、このワンタイムパスワードを入力する。プロキシはこれを正規のパスワードに変換し、目的のサイトに代理で送る。</p>
+
+<p>　本来のパスワードそのものは、ユーザーのコンピューターにもプロキシにも保存されていない。プロキシが保持しているのは、複数の中間形式だけだ。それぞれの中間形式から、本来のパスワードを生成できる。ユーザーのコンピューターかプロキシが攻撃を受けた場合でも、目的のサイトで使うパスワード自体が簡単に攻撃者の手に渡ることはない。この手法は、確かにセキュリティ問題をある程度解消できるし、パスワードのみを受け入れるサイトであれば使える。しかしユーザーは、目的のサイトにアクセスするセッションごとに入力するワンタイムパスワードをすべて持ち歩かなければならず、あまりユーザーフレンドリーではない。この手法が近い将来に世界を席巻することはまずないだろうが、存在を知ることができたのはよかった。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000146/062000002/?ST=cio-security&P=2">筆者が初めて知った認証手法はほかにもある。PCC...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000146/062000002/?ST=cio-security&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000146/062000002/?ST=cio-security&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000146/062000002/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Wed, 27 Jun 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
