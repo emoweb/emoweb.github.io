@@ -5,61 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d27</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>データから未来を予測、プレディクティブアナリティクスとは（中）（データから未来を予測、プレディクティブアナリティクスとは）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/052500140/052500002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　プレディクティブアナリティクス（予測分析）とは、データアナリティクスのジャンルの1つだ。統計モデリングや機械学習などを使った分析手法を基盤として、過去と現在のデータから、未来に起きることを予測する。プレディクティブアナリティクスの技術を使うことで、未来についてかなり精度の高いインサイトを引き出すことができる。先進的なツールやモデルを生かして、数ミリ秒後、数日後、数年後の未来の動向や行動を着実に予測することは、今やあらゆる企業が実践できる。</p>
-
-<p>（<a href="http://tech.nikkeibp.co.jp/atcl/idg/17/052500140/052500001/" target="_blank">前回</a>から続く）</p>
-
-<h4>プレディクティブアナリティクスの例</h4>
-
-<div><div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500140/052500002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　現在の企業では、プレディクティブアナリティクスのあらゆる活用法が見られる。導入企業の業種は、金融、ヘルスケア、小売、サービス、医薬、自動車、航空宇宙、製造など、多岐にわたる。</p>
-
-<p>　活用法の例をいくつか挙げる。</p>
-
-<ul>
-<li>航空宇宙：特定の整備履行が、機体の信頼性、燃料使用量、可用性、使用可能時間にどのような影響をもたらすかを予測する。</li>
-<br>
-<li>自動車：部品の強さや故障に関する記録を、今後の車の製造計画に生かす。ドライバーの行動を調べて、より進化した運転支援技術を開発し、いずれは自動運転車の開発につなげる。</li>
-<br>
-<li>エネルギー：需要の価格弾力性を長期的に予測する。気象現象、設備の故障、規制、その他の可変要素がサービスコストに及ぼす影響を明確化する。</li>
-<br>
-<li>金融サービス：信用リスクモデルを構築する。金融市場のトレンドを先読みする。新しい政策、法令、規則が企業や市場に与える影響を予測する。</li>
-<br>
-<li>製造：機械故障の場所と発生率を予測する。需要予測に基づいて原材料の配送を最適化する。</li>
-<br>
-<li>法執行機関：犯罪動向データを使って、1年の特定の時期に警戒の強化が必要そうな地域を明確化する。</li>
-<br>
-<li>小売：オンラインショッピングの利用者をリアルタイムで追跡し、追加的な商品情報やインセンティブを提示することで購入の可能性が上がるかどうかを特定する。</li>
-</ul>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500140/052500002/?ST=cio-management&P=2">プレディクティブアナリティクスのツール</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500140/052500002/?ST=cio-management&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500140/052500002/?ST=cio-management&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/17/052500140/052500002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Wed, 06 Jun 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n27</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Siriが待望の進化、Shortcuts機能を搭載（Computerworldニュース）</title>
@@ -1153,6 +1102,41 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 27 Jun 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Apple、AirPods上位モデルやワイヤレスヘッドホンを来年投入か（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/062700521/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Appleにとって2019年はオーディオ三昧の年になるかもしれない。米Bloombergの2018年6月25日の報道によると、Appleはオーディオ関連の新製品を3種類も投入する準備を進めている。特に目を引くのは、ワイヤレスイヤホン「AirPods」の上位モデルと、ワイヤレスヘッドホンが登場するという話だ。また、精彩を欠くスマートスピーカー「HomePod」の改良も計画しているという。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/062700521/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Jess Waters/Pexels</div>
+</div>
+<p>
+　Bloombergは今年2月の記事で、新しいチップを搭載しハンズフリーのSiriに対応した新しいAirPodsが今年中に登場するとの情報を伝えていた。今回の記事は、その話をあらためて確認したうえで、関係者から得た情報として、Appleが来年に向けて3種類のオーディオ関連製品を準備していると報じた。AirPodsやHomePodの新モデルもさることながら、特に興味をそそられるのは、スタジオ品質のオーバーヘッド型ヘッドホンが登場するという話だ。
+</p>
+<p>
+　Appleは長年にわたって、テクノロジーと音楽を隔てる境界線をなくす取り組みを進めてきた。そのクライマックスが、2014年に米Beats Electronicsを32億ドルで買収したことだ。Appleはこれまで、両社のブランドを別々のままにしておくことに注意を払ってきたが、音楽配信サービスの「Apple Music」、そしてAirPodsとHomePodを見ると（あるいは聞くと）、Beats買収の効果が感じられる。主要製品の新モデルを3種類も開発中となると、Appleがワイヤレスミュージック界の先頭を走る1社となることも考えられる。また、こうした新製品は、Apple Musicの契約者数とiPhoneの売り上げを伸ばすことにもつながるかもしれない。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/062700521/?ST=cm-hardware&P=2">各製品の詳細は</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/062700521/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/062700521/?ST=cm-hardware&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/062700521/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 27 Jun 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
