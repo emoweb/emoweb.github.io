@@ -5,46 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n28</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Siriが待望の進化、Shortcuts機能を搭載（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060600512/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Appleの開発者向けイベント「WWDC 2018」を迎えるにあたって皆が望んでいたのは、「Siri」が何らかの進化を遂げることだった。うれしいことに、iOS 12でその願いがかなった。「Shortcuts（ショートカット）」という機能だ。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060600512/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Apple</div>
-</div>
-<p>
-　Shortcutsは、Siriへのコマンド1つで複数のアクションをまとめて実行できる機能だ。実行するアクションはShortcutsアプリを使ってプログラムできる。その触れ込みどおり動作するとしたら、こちらが指示したとおりの処理をSiriがきちんとこなしてくれることになり、その時々の状況や行動に応じて、Siriの利便性が大きく高まるかもしれない。またこれは、Appleが昨年買収した自動化サービス「Workflow」がiOSに完全に組み込まれたということでもある。
-</p>
-<p>
-　Shortcutsアプリの用途について、AppleはWWDCでさまざまな例を示した。簡単なところでは、「I lost my keys（鍵をなくした）」とSiriに話しかけると、Bluetooth対応の落とし物トラッカー「Tile」が立ち上がり、これまでより簡単に鍵を見つけられる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060600512/?ST=cm-software&P=2">Siriにどう話しかければこちらの意図どおり動いてくれるのか試行...</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060600512/?ST=cm-software&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060600512/?ST=cm-software&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060600512/?ST=cm-software&P=3">3</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060600512/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 06 Jun 2018 11:20:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d28</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>第189回　実は国による都の税金収奪――特別地方税問題を考える（上山信一の「続・自治体改革の突破口」）</title>
@@ -1137,6 +1101,40 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 27 Jun 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>機械学習ライブラリー、TensorFlowとは（後）（機械学習ライブラリー、TensorFlowとは）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/062000147/062000002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　機械学習は複雑な分野だが、モデル構築の作業は以前に比べればずいぶん楽になった。米Googleの「TensorFlow」をはじめとする機械学習フレームワークのおかげだ。こうしたフレームワークを使えば、データの取得、モデルのトレーニング、予測の実行、結果の改良というプロセスの苦労が減る。</p>
+
+<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/062000147/062000001/" target="_blank">前回</a>から続く）</p>
+
+<h4>TensorFlowの強み</h4>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　機械学習の開発にTensorFlowを使うことで得られる最大の強みは抽象化だ。アルゴリズム実装のこまごました部分をすべて自力で扱ったり、関数の出力を別の関数の入力に結びつける適切な方法を理解したりしなくても、開発者はアプリケーションの全体のロジックに専念できる。舞台裏の詳細はTensorFlowに任せればよい。</p>
+
+<p>　TensorFlowアプリケーションのデバッグや把握に役立つ機能もある。「Eager Execution」モードを使うと、透過的ではない単一のオブジェクトとしてグラフ全体を構築してからまとめて評価するのではなく、グラフの各操作の評価や変更を一つひとつ透過的に行うことができる。また、可視化ツールの「TensorBoard」を使うと、Webベースのインタラクティブなダッシュボードを使って、グラフの動作を把握したり俯瞰したりできる。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000002/?ST=cm-software&P=2">もちろんTensorFlowは、あのGoogleがバックに付いて...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000002/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000002/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000002/?ST=cm-software&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 28 Jun 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
