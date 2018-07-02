@@ -5,45 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d02</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>World IPv6 Launchから6年、依然としてIPv4が優勢（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/060800513/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　インターネット標準の普及促進などの活動を行っている非営利の国際組織Internet Society（ISOC）は、IPv6の普及を目指すイベント「World IPv6 Launch」から丸6年となる2018年6月6日、世界のIPv6導入状況についてまとめたレポートを発表した。サービス事業者の間でIPv6への対応は着実に進みつつあるものの、IPv4を超えるには至っていないという。
-</p>
-<div>
-<div><img src="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060800513/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　IPv6は、インターネット上のあらゆる通信の基盤となるプロトコルで、従来のIPv4に代わる新しいバージョンだ。レポートによると、IPトラフィック全体のうちでIPv6の占める割合が15％を超えている国は世界に24カ国、5％超となると49カ国ある。IPv6は「アーリーアダプター」の段階から「アーリーマジョリティ」の段階に移ったとISOCは説明している。
-</p>
-<p>
-　IPv6の状況についてISOCが前向きな表現をした理由の1つは、IPv6の利用そのものの拡大にある。米国の4大携帯キャリアや、米Comcast、インドReliance Jioなど、世界的に見て存在感が大きい通信事業者の中には、インターネットトラフィックの半数以上がIPv6となっている事業者もある。Reliance JioのIPv6利用者は推計2億3700万人だ。IPv6専用のネットワークなら、ネットワークの運用が極めてシンプルになり、コストも抑えられる。したがって、利用拡大の傾向が今後も続くと見る根拠はある。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060800513/?ST=cm-network&P=2">レガシーアプリケーションがIPv6普及の妨げか</a></p>
-<div>
-<p class="pages">
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060800513/?ST=cm-network&P=1" class="now">1</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060800513/?ST=cm-network&P=2">2</a>
-<a href="http://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/060800513/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 08 Jun 2018 11:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n02</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>クラウドのリスク緩和に役立つ7つのヒント（上）（クラウドのリスク緩和に役立つ7つのヒント）</title>
@@ -1159,6 +1124,45 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 02 Jul 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Slackの障害で分かったコラボレーションツールの重要性（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/070200523/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米国時間2018年6月27日午前、チームコラボレーションツール「Slack」が数時間にわたって利用できなくなった。「コネクティビティの問題」によってアクセス不能になったとのことだ。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070200523/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Scott Webb</div>
+</div>
+<p>
+　サービスは数時間で復旧したものの、コミュニケーションやコラボレーションにおいてSlackを頼りにしている職場では混乱が生じた。米国や英国で利用者から障害の報告が上がり、Twitterで不満をあらわにしている人も多くいた。
+</p>
+<p>
+　テキサス州ヒューストンのKeaton Fox氏は次のようにツイートした。「速報：Slackの障害が続く中、職場で口を使った会話を余儀なくされる人が大量発生中」。カリフォルニア州パロアルトのChris Mutchler氏は「Slackがダウン。皆さんのChatOps戦略に影響はありませんか」と呼びかけた。
+</p>
+<p>
+　5月発表の数字によると、Slackのデイリーアクティブユーザーは800万、有料版のユーザーは300万に上る。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070200523/?ST=cm-software&P=2">米調査会社451Researchのシニアアナリスト、RaulCa...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070200523/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070200523/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070200523/?ST=cm-software&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070200523/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 02 Jul 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
