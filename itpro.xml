@@ -5,46 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d03</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Intelがパソコンのインテリジェント化を推進、Movidiusを活用（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/061100514/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Intelは、パソコンを現在よりインテリジェントにするための動きをひそかに進めている。同社が描くビジョンは、パソコンがユーザーの習慣を理解し、その動きを先取りするようになることだ。しかし、それがいつ実現するのか、どの程度の現実味があるのか、そして、ユーザーの動きを逐一予測するコンピュータを消費者が受け入れてくれるのかは定かではない。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/061100514/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Mark Hachman / IDG</div>
-</div>
-<p>
-　現時点で分かっているIntelの動きは次のとおりだ。同社は、小型デスクトップPC「NUC」の将来バージョンの開発を進めており、米Amazon.comのAIアシスタント「Alexa」を搭載する新しいNUC「Bean Canyon」を年内に投入する予定だ（名前のBeanは、搭載するプロセッサ「Coffee Lake」にちなんで、コーヒー豆から来ている）。同社は現在、Amazon.comと協力して認定の取得を進めている。あわせて同社は、インテリジェントな未来のエクスペリエンスを可能にする基盤として、傘下のMovidiusのチップを「AIチップ」として適応させる動きも進めつつある。
-</p>
-<p>
-　IntelでNUCを担当するマーケティングマネージャーのBruce Patterson氏は、スティック型デバイス「Movidius Neural Compute Stick」をNUCに接続して利用する実演を「COMPUTEX」で行った。このCompute Stickは、コンピューティングエンジンを内蔵したMovidiusのVPU（Visual Processing Unit）「Myriad X」を搭載している。実演では、映画の予告編に出てくる出演者の顔を、Compute Stickの処理能力を使って認識した。映像に人が出てきた途端に、ソフトウエアがその顔を読み取って特定していたが、メインCPUの使用率は20％足らずだった。処理をMyriad Xにオフロードしているからだ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/061100514/?ST=cm-hardware&P=2">MovidiusやMyriadXという名前になじみがない人もいる...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/061100514/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/061100514/?ST=cm-hardware&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/061100514/?ST=cm-hardware&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/061100514/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 11 Jun 2018 11:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n03</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>AIを次々と取り入れるSalesforce、トップの狙いは（前）（AIを次々と取り入れるSalesforce、トップの狙いは）</title>
@@ -1155,6 +1119,44 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 03 Jul 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>GoToMeetingに新機能、自動文字起こしやAlexa連携が可能に（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/070300445/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米LogMeInは、オンライン会議プラットフォーム「GoToMeeting」の新機能として、テキストチャット、AIを活用した文字起こし、米Amazon.comの音声アシスタント「Alexa」との連携を発表した。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/070300445/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Rawpixel</div>
+</div>
+<p>
+　LogMeInは、GoToMeetingをはじめとするGoToシリーズのプロダクトを、2016年に米Citrix Systemsから18億ドルで買収したことで、ビデオ会議やWeb会議ツールの提供元として大手の一角に躍り出た。オンラインコラボレーションツール「join.me」も手がけており、世界中に膨大な顧客がいる。
+</p>
+<p>
+　GoToMeetingのライバルにあたるオンライン会議ツールには、Amazon.comの「Chime」や米Googleの「Hangouts Chat」、米Cisco Systemsの「WebEx」、米Microsoftの「Skype for Business」「Teams」といった大手IT企業のプロダクトもあれば、比較的小規模な「BlueJeans」「Zoom」などもある。こうした各種ツールとの競争に直面する中で、GoToMeetingを強化するのが、今回発表となった新機能だ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/070300445/?ST=cio-appli&P=2">そのうちBusinessMessaging機能で...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/070300445/?ST=cio-appli&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/070300445/?ST=cio-appli&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/070300445/?ST=cio-appli&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/070300445/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 03 Jul 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
