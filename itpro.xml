@@ -5,50 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d04</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Logitech、ビデオ会議用カメラの新製品「Rally」を発表（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/061200439/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　スイスLogitechは2018年6月6日、ビデオ会議用カメラの新製品「Logitech Rally」を発表した。高画質の映像と明瞭な音声によるビデオ会議を可能にする製品で、会議室の状況に合ったエクスペリエンスを実現する自動調整機能を備えるとしている。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061200439/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Logitech</div>
-</div>
-<p>
-　Logitechのバイスプレジデントでビデオコラボレーショングループのゼネラルマネージャーを務めるScott Wharton氏は次のようにコメントしている。「Logitech RallyのようなハイレベルのAVシステムは、ほんの数年前なら5桁の費用がかかるのが普通だった」
-</p>
-<p>
-　「今回登場したRallyシリーズは、モジュール型のハイエンドシステムで、USB接続のAVソリューションの水準を高める製品だ。しかも、出費は他のハイエンドシステムに比べて格段に少なくて済む」
-</p>
-<p>
-　RallyのカメラはUltra HD 4Kで、広範囲のPTZ（パン／チルト／ズーム）機能や、同社の「RightSense」テクノロジーを搭載している。RightSenseテクノロジーは、ビデオ会議体験を高めるための自動調整機能だ。参加者一同が映像に収まるように撮影範囲を調整したり、表情がよく見えるように色や輝度を最適化したり、発言が明瞭に聞こえるように音声を調節したりする。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061200439/?ST=cio-consumerit&P=2">従来の一般的なビデオ会議システムとは異なり、オー...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061200439/?ST=cio-consumerit&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061200439/?ST=cio-consumerit&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061200439/?ST=cio-consumerit&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Tue, 12 Jun 2018 10:40:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n04</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>クラウドのリスク緩和に役立つ7つのヒント（中）（クラウドのリスク緩和に役立つ7つのヒント）</title>
@@ -1159,6 +1119,44 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 04 Jul 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IEEE、フォグコンピューティングの参照アーキテクチャを標準採択（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/070400524/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　IoTや5G、AIシステムでは、データが無尽蔵に生み出されるかに思える。こうしたデータストリームをきちんと処理できるように、デバイス、センサー、サービスなどの相互運用性や連携を確保するための土台として、米国電気電子学会（IEEE）がフォグコンピューティングの参照アーキテクチャを「IEEE 1934」として採択した。フォグコンピューティングの拡大を本格的に後押しする動きだ。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070400524/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Robert Couse-Baker</div>
+</div>
+<p>
+　IEEE 1934は、OpenFog Consortiumが策定した参照アーキテクチャを、IEEEが標準規格として認定したもの。OpenFog Consortiumは、英ARM、米Cisco Systems、米Dell、米Intel、米Microsoft、米プリンストン大学が2015年に設立した団体である。
+</p>
+<h4>
+フォグコンピューティングの定義
+</h4>
+<p>
+　IEEE 1934では、フォグコンピューティングを次のように定義している。「システムレベルの水平アーキテクチャであり、コンピューティング、ストレージ、制御、ネットワーキングのリソースやサービスを、クラウドからモノまでの連続の中であらゆる場所に分散させる。複数の業界と適用領域をサポートし、データの発生源に近い場所でサービスやアプリケーションの分散を可能にし、モノからネットワークエッジを越えて、クラウドの中へ、さらに複数のプロトコル層へと拡張される」
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070400524/?ST=cm-network&P=2">OpenFogConsortiumの会長で、Ciscoのシニアデ...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070400524/?ST=cm-network&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070400524/?ST=cm-network&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070400524/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 04 Jul 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
