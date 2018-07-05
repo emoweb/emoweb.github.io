@@ -5,7 +5,7 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2018-07-05 20:09:14 +0900</title>
+			<title>2018-07-05 21:09:18 +0900</title>
 			<link> </link>
 			<description><![CDATA[<strong>techon</strong><br/><p>#&lt;RuntimeError: redirection forbidden: http://techon.nikkeibp.co.jp/rss/index.rdf -&gt; https://tech.nikkeibp.co.jp/dm/rss/index.rdf&gt;
 in
@@ -36,7 +36,7 @@ in
 /data/src/rss_crawler/src/pipes/simple_pipes.rb:11:in `block (2 levels) in &lt;top (required)&gt;&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
-			<pubDate>Thu, 05 Jul 2018 20:09:14 +0900</pubDate>
+			<pubDate>Thu, 05 Jul 2018 21:09:18 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
