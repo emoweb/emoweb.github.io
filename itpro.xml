@@ -5,47 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n06</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>AIを次々と取り入れるSalesforce、トップの狙いは（後）（AIを次々と取り入れるSalesforce、トップの狙いは）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/060100143/060100002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　米Salesforce.comは英ロンドンで2018年5月17日、イベント「Salesforce World Tour London」を開催した。筆者はこの時、「Einstein」プロダクトの統括責任者を務めるMarco Casalaina氏に話を聞いた。最先端のデータサイエンスの手法をどのように取り入れ、Salesforceのユーザー企業にどのような形で提供していくのか、同氏に尋ねてみた。</p>
-
-<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/060100143/060100001/" target="_blank">前回</a>から続く）</p>
-
-<h4>Einsteinを利用している企業の例は？</h4>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100143/060100002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　Salesforceの顧客企業がEinsteinの機能をそれらしく取り入れるのがいかに簡単かを説明するうえで、Casalaina氏が特に好んで挙げる顧客企業が2つある。1つは米U.S. Bank、もう1つは家具販売を手がける米Room and Boardだ。</p>
-
-<p>　以前からMarketing Cloudを利用していたRoom and Boardは、メールのセグメンテーションをこれまで以上にインテリジェントにするために、最近Einsteinを導入した。例えば、カリフォルニア州に住む35歳以上の男性をターゲットにしたメールを送りたい時に、現在では、Marketing Cloudの中で、メールを開く可能性についてのパラメーターを追加できる。これは当然、開封率の向上につながる。実際、15％も開封率が上がったとCasalaina氏は説明する。</p>
-
-<p>　「当社には、Salesforceならではの強みがある。すなわち、顧客企業が我々にデータを委託していることだ。Room and BoardはMarketing Cloudをずっと使ってきた。だから、Einsteinを有効にしたとたんに、これまでMarketing Cloudに格納してきたデータに対してEinsteinが本領を発揮した。その出力は極めてシームレスだ」</p>
-
-<p>　Casalaina氏は、顧客企業各社が扱うモデルについて、同じくMarketing Cloudを利用している他社とは完全に切り離されているということを繰り返し力説した。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100143/060100002/?ST=cm-software&P=2">ロードマップ</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100143/060100002/?ST=cm-software&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100143/060100002/?ST=cm-software&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/060100143/060100002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 14 Jun 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d06</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ニュージーランド企業、Alexaと連携した「話すAgTechシステム」を開発（CIOニュース）</title>
@@ -1156,6 +1119,55 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 05 Jul 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>大企業で導入が広がるシックスシグマとは（下）（大企業で導入が広がるシックスシグマとは）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/062500148/062500003/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　シックスシグマは、企業の品質マネジメント手法の1つだ。欠陥の発見と排除を通じて、現在のプロセス、製品、サービスを改善する。製造工程やビジネスプロセスの品質管理を合理化し、プロセス全体のばらつきをなくすことを目指す。</p>
+
+<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/062500148/062500002/" target="_blank">前回</a>から続く）</p>
+
+<h4>シックスシグマの認定制度とトレーニング</h4>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062500148/062500003/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　シックスシグマの認定制度やトレーニングを直接実施している企業もある。まずGEとMotorolaがシックスシグマの方法論への習熟度を検証する認定プログラムを確立したのをきっかけに、大企業や大学が続き、独自の認定プログラムを提供するようになった。</p>
+
+<p>　だが、認定要件はあまり統括されておらず、グリーンベルトやブラックベルトの認定基準がまちまちな場合もある。認定プログラムを実施している主な企業、大学、機関には以下がある。</p>
+
+<ul>
+<li>American Society for Quality</li>
+<li>ダートマス大学</li>
+<li>ボストン大学</li>
+<li>GE</li>
+<li>Accenture</li>
+<li>IASSC</li>
+<li>コーネル大学</li>
+<li>Motorola Solutions</li>
+<li>パデュー大学</li>
+</ul>
+
+<p>　このほか、シックスシグマの認定を手がけている機関もある。例えば、IASSCやThe Council for Six Sigma Certificationは、シックスシグマやリーンシックスシグマのプロバイダーの資格認定などを行っている。資格やトレーニングプログラムを選ぶ時には、トレーニングの内容が自分のニーズに合っているかどうかや、適切な資格が得られるかどうかについて、実施元の機関、大学、企業などを調査してみることが重要だ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062500148/062500003/?ST=cio-management&P=2">シックスシグマへの批評</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062500148/062500003/?ST=cio-management&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062500148/062500003/?ST=cio-management&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062500148/062500003/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Fri, 06 Jul 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
