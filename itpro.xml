@@ -5,45 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d05</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Fitbitの子供用リストバンド、スマホ中毒対策の切り札になるか（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/061300515/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　最近では、米Appleも米Googleも、子供のスマートフォン中毒への対策に乗り出し、スマホの使用時間を制限できる機能を搭載するようになった。こうした中、米Fitbitは、子供たちをよい意味で自社製ガジェットに夢中にさせようとしている。同社初の子供向けフィットネスバンド「Fitbit Ace」は、子供たちがスマホを置いて活発に動き回ることを促す製品だ。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/061300515/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Fitbit</div>
-</div>
-<p>
-　Aceは、3月に発表された時点では、同時発表の約200ドルのスマートウオッチ「Versa」の影に隠れた印象だった。しかし、現在のテクノロジー界で最大の戦いであるスマホ中毒対策という面では、結果的にAceの方が重要な役割を果たすことになるかもしれない。子供たちがかつてないほどネットに接する中、テクノロジーとフィットネスのバランスをうまくとっているところが、Aceならではの特徴だ。
-</p>
-<p>
-　Aceに関して1つ言えるのは、子供たちが装着したくなるカッコいいガジェットだということだ。そしてもう1つ、例えばテレビを見すぎだと小言を並べるのではなく、子供が自ら楽しみたいという気持ちを抱くよう、フィットネスをゲーム化していることだ。保護者の中には、約100ドルという値段は少々高すぎると思う人もいるかもしれないが、今まさに火ぶたを切る戦いにとって、これは重要な第一歩だ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/061300515/?ST=cm-hardware&P=2">スマホ中毒対策の切り札か</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/061300515/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/061300515/?ST=cm-hardware&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/061300515/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 13 Jun 2018 10:40:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n05</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>AIを次々と取り入れるSalesforce、トップの狙いは（後）（AIを次々と取り入れるSalesforce、トップの狙いは）</title>
@@ -1153,6 +1118,44 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 05 Jul 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Vodafone、世界各地に展開するITの監視をSplunkで一元化（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/070500446/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　英Vodafone Groupは、同社が世界各地に展開しているITシステム監視やイベント管理を米Splunkの製品で一元化する取り組みを急ピッチで進めている。IT運用チームにとっては、ミッションクリティカルなアプリケーションの稼働率向上を期待できるほか、インシデントの予防に向けて機械学習機能をこれまで以上に活用できるようになる。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/070500446/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Splunk</div>
+</div>
+<p>
+　VodafoneのTechnology Shared Servicesグループでエンジニアリングおよびオペレーション担当シニアマネージャーを務めるLuke Bradley氏は、Splunkが英ロンドンで2018年6月28日に開催したイベント「SplunkLive! London」に登壇した。同氏は、「当社にとって、ITはますます、市場の中で差別化を図るためのメカニズムになりつつある」と語った。
+</p>
+<p>
+　「通信企業というくくりは同じでも、その上で提供できるサービスが違いを生む。現在当社は、まさにデジタルトランスフォーメーションを進めている。そこで、アナリティクスとデータを活動の中心にきちんと据えるために、新たな要件が加わっている」
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/070500446/?ST=cio-appli&P=2">同氏が所属するTechnologySharedS...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/070500446/?ST=cio-appli&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/070500446/?ST=cio-appli&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/070500446/?ST=cio-appli&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/070500446/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Thu, 05 Jul 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
