@@ -5,49 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d06</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ニュージーランド企業、Alexaと連携した「話すAgTechシステム」を開発（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/061400440/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　ニュージーランドのAgTech企業であるAutogrowが、「世界初の話す自動栽培システム」を開発したと発表した。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061400440/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: IDG</div>
-</div>
-<p>
-　Autogrowはオークランドで1994年に設立された企業で、屋内農業用の各種ハードウエアやソフトウエアを開発している。今回の発表は、同社のクラウドベースのアプリケーション「IntelliGrow」のAPIを、米Amazon.comのスマートアシスタント「Alexa」に連携させたもの。生産者は、栽培室の現在の状況を声で尋ねたり、音声コマンドで操作を指示したりできる。
-</p>
-
-<p>
-　AutogrowのDarryn Keiller最高経営責任者（CEO）は言う。「これは現時点で人工知能（AI）の最善のユースケースだと思う。この開発では、人の声をコマンドに変えたほか、システム間の連携が可能であることを実証した」
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061400440/?ST=cio-appli&P=2">「今回はAlexaとの統合を実現したが、生産者の...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061400440/?ST=cio-appli&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061400440/?ST=cio-appli&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061400440/?ST=cio-appli&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/061400440/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Thu, 14 Jun 2018 11:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n06</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>クラウドのリスク緩和に役立つ7つのヒント（下）（クラウドのリスク緩和に役立つ7つのヒント）</title>
@@ -1168,6 +1129,45 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 06 Jul 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Dellが再上場へ、その複雑な手続きの流れは（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/070600525/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　2013年に株式を非公開化した米Dellが、再上場に向けた手続きを始めることになった。傘下のVMwareの「トラッキングストック」という株式が関係する、込み入った手続きだ。結局何がどうなり、親会社と傘下企業との複雑な構造にどのような影響が及ぶのか、見ていくことにしよう。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070600525/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Martyn Williams/IDG</div>
+</div>
+<p>
+　まずは、現在のDellの大まかな構成を確認しておこう。Dellは、2016年に670億ドルという莫大な額でEMCを買収した後は、Dell Technologiesという名の新たな親会社の下に、従来のDellやEMCのほか、Pivotal、VMwareといった傘下企業がぶら下がる形の体制となった。
+</p>
+<p>
+　従来のDellでもがき続けていたサーバーやパソコンの事業部門は、現在はDell Client Solutions Groupという名前になった。従来のEMCは、現在はDell EMCの名でデータストレージやサービスに関する事業を行っている。VMwareは、高成長のクラウドコンピューティングとプラットフォーム仮想化のソフトウエアベンダーで、もともとは2004年にEMCが6億2500万ドルで買収した企業だ。
+</p>
+<p>
+　このほか、Dell Technologiesの傘下には、RSA、SecureWorks、Virtustreamなどもある。だが、今回の再上場に関して重要なのは、Dell TechnologiesとVMwareだ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070600525/?ST=cm-software&P=2">再上場の流れは</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070600525/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070600525/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070600525/?ST=cm-software&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070600525/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 06 Jul 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
