@@ -5,16 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    最後のオスが去ったキタシロサイの受精卵作成に成功。絶滅回避に期待
-</title>
-			<link>https://japanese.engadget.com/2018/07/05/lab-made-embryos-may-save-near-extinct-rhino-species/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/6911c27ef7a3eb751f336a30bcc4c860/206505040/rhino.jpg" />
-
-キタシロサイは今年3月に生き残っていた最後のオスの個体が死亡し、残りはいずれも生殖能力がないとみられるメス2頭だけになりました。当然、自然の摂理に従えば絶滅が確定したとも言えるわけですが、研究者らは種をなんとか生きながらえさせるべく、ミナミシロサイの卵に凍結保存していたオスの精子を受精させ、胎内で生存可能な胚の作成に成功しました。
- ]]></description>
-			<pubDate>Thu, 05 Jul 2018 00:15:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    DeepMindの新たな特技に「Quake III Arena」が追加。待ち伏せや協力プレイも習得済み
 </title>
 			<link>https://japanese.engadget.com/2018/07/05/deepmind-ai-quake-iii-arena-human/</link>
@@ -482,6 +472,25 @@ TalkBandはスマートウォッチというよりも、アクティビティト
 テスラCEOのイーロン・マスクが、週5000台に生産ペースを加速中の普及型EV Model 3に自動車庫入れ機能「Summon」が利用可能になったとツイートしました。Model 3にはすでに半自動運転のAutopilot機能は備わっていたものの、Model SやModel Xに追加されたSummonはこれまで使えませんでした。
  ]]></description>
 			<pubDate>Fri, 06 Jul 2018 03:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    GeForce GTX 1180、来月発表の噂。エンジニアリングサンプル画像も流出か
+</title>
+			<link>https://japanese.engadget.com/2018/07/06/geforce-gtx-1180/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/159318ca8d05c7e3f66a38aeff85e258/206507817/nVidia_Turing_Bring_up_Board.jpg" />
+
+GPU製品でおなじみNVIDIAが2018年8月に新型フラッグシップGPU「GeForce GTX 1180」を発表するとの予測が、海外で伝えられています。さらに、そのエンジニアリングサンプルとされる画像も流出しているようです。
+
+海外テックサイトのVideoCardzによれば、NVIDIAは8月21日に開催されるイベント「Gamescom」への招待状をジャーナリストに対して送っているようです。これは「PC向け」のイベントではあるものの、それ以上の詳細は不明。またその直前（8月19日〜21日）に開催される「Hot Chips」というイベントで、同社は「次世代メインストリーム向けGPU」のカンファレンスを開催するとの情報もあります。
+
+GeForce GTX 1180のシステム構成についてですが、上のエンジニアリングサンプリングでも確認できるようにメモリには「GDDR6」が採用される見込みです。GPUのアーキテクチャは「Turing」が用いられるとの見方が一般的ですが、これに関する確定情報はまだありません。スペックの事前予測としては、GPUのクロックスピードは1.6〜1.8GHzでメモリ容量は最大16GB、3584個のCUDAコアを搭載するようです。
+
+パフォーマンスに目を向けると、例えば4K解像度/144Hzでのゲームプレーが可能になると予測されています。これにより最近登場した144Hz駆動のゲーミングモニタにて、さらなる快適なゲーム体験をもたらすことでしょう。さらに、VRヘッドセットをシングルケーブルで120Hzで駆動できるようになるようです。これも、現行の一般向けVRヘッドセットを上回る数値です。
+
+現行世代となる「GeForce GTX 10XX」が発表されたのは2年以上も前なので、そろそろ次世代GPUが市場投入されてもおかしくないはず。NVIDIAの今後の動向が注目されます。
+
+ ]]></description>
+			<pubDate>Fri, 06 Jul 2018 05:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
