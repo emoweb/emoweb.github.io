@@ -5,40 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n07</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Web認証手法を包括的に評価する枠組み（上）（Web認証手法を包括的に評価する枠組み）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/062000146/062000001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　何年も前に公開されていた情報にたまたま出会い、その情報が自分の重要な関心事にジャストミートで、今まで存在を知らなかったなんて信じられない、と思うことはないだろうか。筆者がまさにそう感じた素晴らしい報告書がある。　Webで使われている各種の認証手法を比較検討した「<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/QuestToReplacePasswords.pdf" target="_blank">The Quest to Replace Passwords：A Framework for Comparative Evaluation of Web Authentication Schemes</a>」だ。著者は、Joseph Bonneau、Cormac Herley、Paul C. van Oorschot、Frank Stajanoの各氏である。</p>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000146/062000001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　この報告書は、米国電気電子学会（IEEE）が2012年に開催したセキュリティとプライバシーに関するシンポジウムで発表されたもの。パスワードや、2要素認証（2FA）のさまざまな手法とデバイスなど、Webの認証手法を評価するための包括的な枠組みを打ち出している。認証手法について検討した資料として、筆者が知る中で最も網羅的だ。報告書では、使いやすさ、採用しやすさ、セキュリティという3つのカテゴリーに大別した25項目に基づいて、パスワードや2要素認証のソリューションを一つひとつ評価している。この比較検討の枠組みは、ユーザーや管理者が具体的な認証ソリューションを各自で評価する際にも応用できる。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000146/062000001/?ST=cio-security&P=2">こうした枠組み以外にも、この報告書からは細かな学...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000146/062000001/?ST=cio-security&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000146/062000001/?ST=cio-security&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000146/062000001/?ST=cio-security&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000146/062000001/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Mon, 25 Jun 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d18</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ブロックチェーンにサイバー攻撃者も注目、McAfeeの分析レポート（Computerworldニュース）</title>
@@ -1159,6 +1129,42 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 17 Jul 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>クラウド導入の成功に欠かせないクラウドアーキテクトとは（前）（クラウド導入の成功に欠かせないクラウドアーキテクトとは）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/071000153/071000001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　クラウドアーキテクトとは、企業のクラウドコンピューティングのアーキテクチャ全体を統括する役割だ。クラウド技術がますます複雑化する中で、特に重要な役割を担っている。管轄するアーキテクチャは、フロントエンドのプラットフォーム、サーバー、ストレージ、デリバリ、ネットワークなど、クラウドコンピューティングに関連するもろもろだ。</p>
+
+<h4>クラウドアーキテクトの役割</h4>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000153/071000001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　米RightScaleが2018年2月に発表した調査結果によると、大企業の81％はマルチクラウド戦略を取り入れている。また、パブリッククラウドを今年の最優先事項と捉えている企業は38％で、前年の29％から増加した。自らをクラウドアーキテクトと回答したアーキテクトは61％で、前年の56％より増えた。</p>
+
+<p>　米Gartnerのアナリスト、Kyle Hilgendorf氏は、2016年のレポート「Analyzing the Role and Skills of the Cloud Architect」で次のように説明している。「クラウドコンピューティングの導入は多面的だ。期間が定まっているプロジェクトとしてではなく、多年度にわたるプログラムとして進めなくてはならない。したがって、クラウド導入の複雑さに対処するためには、アーキテクチャ全体の責任を負うリーダーが少なくとも1人は必要だ。この人が組織を先導し、クラウドコンピューティングにふさわしい変革を進めていく。これが、多くのIT部門で必須と認識されつつある役割、すなわちクラウドアーキテクトの仕事だ」</p>
+
+<p>　クラウド導入に伴う複雑さに対処するために、クラウドアーキテクトがまだいない企業は1人配置した方がよいかもしれない。会社全体のクラウド導入のかじ取り役となり、リスク回避とスムーズな移行を実現する。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000153/071000001/?ST=cio-cloud&P=2">クラウドアーキテクトの職務</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000153/071000001/?ST=cio-cloud&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000153/071000001/?ST=cio-cloud&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000153/071000001/?ST=cio-cloud&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000153/071000001/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Wed, 18 Jul 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
