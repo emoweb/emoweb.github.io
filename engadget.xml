@@ -5,17 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    折りたたみSurface、2019年まで発売延期？Andromedaの旅はまだまだ続くとのうわさ
-</title>
-			<link>https://japanese.engadget.com/2018/07/16/surface-2019-andromeda/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/5371a3e8d82e7b5367132b26b0ad5160/206532183/Surface.jpeg" />
-マイクロソフトが開発中といわれる、ポケットサイズの折りたたみSurface。コードネーム「Andromeda」を開発中である可能性は先日もお伝えしましたが、この計画が数週間前に凍結されたとの噂が報じられています。
-
-もっとも完全にお蔵入りになったわけではなく、「2018年中の発売は見送り」とのこと。一度は仕切り直した上で、発売は2019年になるとの予想が伝えられています。
- ]]></description>
-			<pubDate>Mon, 16 Jul 2018 23:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    テスラ、Model 3の納車期間を大幅短縮
 </title>
 			<link>https://japanese.engadget.com/2018/07/16/model-3-buyer/</link>
@@ -556,6 +545,32 @@ C-rock | Type-C 60W対応チャージャー
 
  ]]></description>
 			<pubDate>Wed, 18 Jul 2018 01:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    GE、バーコード読取りで加熱設定する電子レンジ発売。Alexa対応で音声操作も可能
+</title>
+			<link>https://japanese.engadget.com/2018/07/18/ge-alexa/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/deb1816cebafb4bf632d2340eb3b6bba/206535007/dims.jpg" />
+米GE Appliancesが、Alexaに対応した電子レンジ「Smart Countertop Microwave Oven」を米国で発売しました。
+
+スマートホームというとエアコン、照明、テレビといったものが思い浮かびますが、Amazonは1月にAlexa経由で電子レンジを操作できる機能を発表済み。まだ米国でしか利用できませんが、GEの電子レンジはこれを使用したものです。
+
+電子レンジ自体にEchoのような応答機能はなく、Wi-Fi経由でEchoデバイスと連携して使用。「2分間過熱して」「30秒追加」「電子レンジを止めて」などの音声操作が可能です。食品の出し入れは必要になりますが、ボタン操作を一切行わずに調理することもできます。
+
+これだけでも、いちいちボタンを操作する必要がなく便利そうではありますが、さらに便利なScan-to-Cook機能を搭載しています。
+
+これは、スマートフォンの専用アプリで、冷凍食品など電子レンジで調理する食料品のバーコードを読み取ると、それに適した出力・加熱時間を自動設定してくれるというものです。わざわざパッケージに書かれた加熱時間などを読む必要がなく、また、読んだあとにボタンを使って設定を行わずに済むので、機械が苦手という人でも簡単に使えそうです。
+
+当然、各食料品のバーコード情報が登録されていなければ使えませんが、現状では3000以上の食料品が登録されており、今後も増やしていくとのことです。
+
+また、この手のスマート機能を持つ製品は価格が高い印象があるのですが、Smart Countertop Microwave Ovenは139.99ドルと手ごろなのも魅力です。
+
+Scan-to-CookのデータベースはGEが独自に作っているようですが、Amazonの持つ膨大な製品データベースとの組み合わせが可能になると、利用価値が一気に増しそうです。
+
+ 
+
+ ]]></description>
+			<pubDate>Wed, 18 Jul 2018 01:53:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
