@@ -5,39 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n19</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>機械学習ライブラリー、TensorFlowとは（前）（機械学習ライブラリー、TensorFlowとは）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/062000147/062000001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　機械学習は複雑な分野だが、モデル構築の作業は以前に比べればずいぶん楽になった。米Googleの「TensorFlow」をはじめとする機械学習フレームワークのおかげだ。こうしたフレームワークを使えば、データの取得、モデルのトレーニング、予測の実行、結果の改良というプロセスの苦労が減る。</p>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　TensorFlowは、Google Brainチームが開発したオープンソースのライブラリで、大規模な機械学習や数値計算に使える。機械学習や深層学習、ニューラルネットワークのさまざまなモデルやアルゴリズムが、共通の抽象化のもとで使いやすくまとまっている。Tensorflowのアプリケーションの開発には、Python用のフロントエンドAPIが提供されている。開発したアプリケーションの実行には、高速なC++が使われる。</p>
-
-<p>　TensorFlowでトレーニングと稼働を行う多層ニューラルネットワークは、例えば手書きの数字の認識、画像認識、単語埋め込み、リカレントニューラルネットワーク、機械翻訳のシーケンス変換モデル、自然言語処理、偏微分方程式ベースのシミュレーションなどの処理に使える。トレーニングしたモデルを使って、実環境での大規模な予測を支えられるのは何よりだ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000001/?ST=cm-software&P=2">TensorFlowの仕組み</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000001/?ST=cm-software&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000001/?ST=cm-software&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 26 Jun 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d19</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Oracle、Java SEに月額料金制の新ライセンスを提供（CIOニュース）</title>
@@ -1165,6 +1136,44 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 18 Jul 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ローコード開発プラットフォームQuick Baseとは（後）（ローコード開発プラットフォームQuick Baseとは）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/071000154/071000002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　事業部門の社員には、こんなツールがあれば毎日の業務が楽になるのに、というアイデアがたくさんある。例えば、資産管理ツールとワークフローを組み合わせて、インベントリに新しい資産を加える操作を制御したい、と思っているかもしれない。しかしIT部門は、モバイル、IoT、クラウド化など、デジタルトランスフォーメーションに関する取り組みに没頭している。事業部門からすると、ワークフローの日常的な不便についてIT部門に関心を寄せてもらうのは簡単ではない。</p>
+
+<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/071000154/071000001/" target="_blank">前回</a>から続く）</p>
+
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000154/071000002/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit：IDG</div>
+</div>
+
+<p>　Quick Baseはデータの共通リポジトリを基盤としていることから、コラボレーションツールやプロジェクトマネジメントツールにも利用できる。「コラボレーションを支えるうえで必要なものの1つは、信頼できる一元的なデータソースだ。Quick Baseなら、素早く開発したアプリケーションを、チームの利益となるような情報の収集に利用できる。そのうえで、集めたデータに対するクエリやレポート、コメントのための画面を用意する。そのような使い方は、Quick Baseではごく普通だ」とRymer氏は言う。</p>
+
+<p>　コラボレーションに対応する手法で、他のデータベースでも見られるのが、イベントに応じて作動するトリガーだ。データベースの値が変わった時に、チームのメンバーに通知を送ったり、ビジネスプロセスを開始したりといったものである。Quick Baseも先日、その種の動作を自動化できる機能を発表した。</p>
+
+<p>　だが、Quick Baseはプロセスやワークフローといった部分の能力をもっと高める必要があるとRymer氏は言う。「現状では、Quick Baseを使ってワークフローを構成するには、数多くのトリガーを定義する必要がある。『そういうのではなく、ワークフローの図式化ツールが欲しい』と話す人は多い。低コストで導入しやすく、シチズンデベロッパーに対応できるプロセスツールは、非常に大きなチャンスだ。QuickBaseはぜひとも、プロセスへの対応力をあらゆる形で高める必要がある。同社もそのことは認識している」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000154/071000002/?ST=cm-software&P=2">Quick Baseの今後</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000154/071000002/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000154/071000002/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000154/071000002/?ST=cm-software&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000154/071000002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 19 Jul 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
