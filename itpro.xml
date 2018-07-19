@@ -5,45 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d19</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Oracle、Java SEに月額料金制の新ライセンスを提供（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/062600443/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Oracleは、Java SE（Java Platform, Standard Edition）の商用ライセンスとサポートに関して、月額料金制の新たなライセンス体系である「Java SE Subscription」を発表した。永続ライセンスと年額料金のサポートを組み合わせていた従来のライセンス体系とは異なるサブスクリプション型で、2018年7月から利用可能となる。なお、非商用の個人的な利用は引き続き無料で、サブスクリプションは必要ない。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/062600443/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　Java SE Subscriptionは、Java SEを商用利用する企業向けのサブスクリプション型のライセンス体系。ライセンスのほか、「Java Advanced Management Console」などのツールや、最新バージョンとそれ以前のバージョンのJava SEに対するサポートサービス「Oracle Premier Support」を利用できる。このサポートは、Java SE 8の新たな導入に必要で、Java SE 7のサポートも含まれている（2019年1月以降は、こうしたサポートがないと、Java SE 8へのアップデートが提供されない）。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/062600443/?ST=cio-appli&P=2">Java SE Subscriptionの料金</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/062600443/?ST=cio-appli&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/062600443/?ST=cio-appli&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/062600443/?ST=cio-appli&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/062600443/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Tue, 26 Jun 2018 11:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n19</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Web認証手法を包括的に評価する枠組み（中）（Web認証手法を包括的に評価する枠組み）</title>
@@ -1174,6 +1139,44 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 19 Jul 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows Server／SQL Serverサポート延命措置、Azure移行が条件（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/071900450/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Microsoftは、「Windows Server 2008」「SQL Server 2008」のユーザー企業をクラウドサービス「Azure」に誘い込むための新たな策を打ち出した。Windows Server 2008やSQL Server 2008で稼働しているワークロードをAzureの環境に移行すれば、セキュリティ修正プログラムの提供期間を3年延長するというものだ。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071900450/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Reuters/Pichi Chuang</div>
+</div>
+<p>
+　SQL Server 2008と、その後継の同R2は、あと1年足らずの2019年7月9日でサポートが終了する。Windows Server 2008と同R2のサポートはその約半年後の2020年1月14日で終了する。サポート終了を迎えた製品は、セキュリティ修正プログラムが提供されなくなり、パッチを当てていない脆弱性が攻撃を受ける恐れがある。
+</p>
+<p>
+　Microsoftは、今回の新たなサポート延長措置を「Extended Security Updates」と名付け、Azureへの移行を促している。Windows Server 2008や同R2をAzureの仮想マシンに移行すると、深刻度が「緊急」「重要」の脆弱性について、修正プログラムが2023年1月まで提供される。また、SQL Server 2008や同R2を「Azure SQL Database Managed Instance」に移行すれば、「緊急」の脆弱性に対する修正プログラムを2022年7月まで受け取れる（Azure SQL Database Managed Instanceは、2018年10～12月期に開始予定の新サービス）。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071900450/?ST=cio-security&P=2">ExtendedSecurityUpdatesで...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071900450/?ST=cio-security&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071900450/?ST=cio-security&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071900450/?ST=cio-security&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071900450/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Thu, 19 Jul 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
