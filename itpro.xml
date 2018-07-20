@@ -5,44 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d20</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>機械学習ライブラリー、TensorFlowとは（後）（機械学習ライブラリー、TensorFlowとは）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/062000147/062000002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　機械学習は複雑な分野だが、モデル構築の作業は以前に比べればずいぶん楽になった。米Googleの「TensorFlow」をはじめとする機械学習フレームワークのおかげだ。こうしたフレームワークを使えば、データの取得、モデルのトレーニング、予測の実行、結果の改良というプロセスの苦労が減る。</p>
-
-<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/062000147/062000001/" target="_blank">前回</a>から続く）</p>
-
-<h4>TensorFlowの強み</h4>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　機械学習の開発にTensorFlowを使うことで得られる最大の強みは抽象化だ。アルゴリズム実装のこまごました部分をすべて自力で扱ったり、関数の出力を別の関数の入力に結びつける適切な方法を理解したりしなくても、開発者はアプリケーションの全体のロジックに専念できる。舞台裏の詳細はTensorFlowに任せればよい。</p>
-
-<p>　TensorFlowアプリケーションのデバッグや把握に役立つ機能もある。「Eager Execution」モードを使うと、透過的ではない単一のオブジェクトとしてグラフ全体を構築してからまとめて評価するのではなく、グラフの各操作の評価や変更を一つひとつ透過的に行うことができる。また、可視化ツールの「TensorBoard」を使うと、Webベースのインタラクティブなダッシュボードを使って、グラフの動作を把握したり俯瞰したりできる。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000002/?ST=cm-software&P=2">もちろんTensorFlowは、あのGoogleがバックに付いて...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000002/?ST=cm-software&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000002/?ST=cm-software&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000002/?ST=cm-software&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000147/062000002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 28 Jun 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n20</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>スマートホーム向け音声アシスタントは今後5年で11倍に、英調査（CIOニュース）</title>
@@ -1179,6 +1145,44 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 20 Jul 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Microsoft、Windows 10の品質更新プログラムの配信方法を1つ削減（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/072000530/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Microsoftは、Windows 10の品質更新プログラムに関して、3種類の配信方法のうち「デルタアップデート」の提供を来年2月以降は取りやめることを明らかにした。それよりサイズが小さい「エクスプレスアップデート」で代用できるとしている。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072000530/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Microsoft</div>
+</div>
+<p>
+　品質更新プログラムの配信方法には、サイズが大きい順に、フルアップデート、デルタアップデート、エクスプレスアップデートの3種類がある。このうちデルタアップデートが、2019年2月12日公開の月例パッチからは提供されなくなる。
+</p>
+<p>
+　デルタアップデートには、前月のアップデート以降に変更が加わったコンポーネントが含まれている。コンポーネントの中で変更があった個別のファイルだけでなく、コンポーネント全体が含まれることから、エクスプレスアップデートよりもサイズが大きい。
+</p>
+<p>
+　MicrosoftのWindowsチームで更新プログラムを担当するMike Benson氏が2018年7月11日の公式ブログ記事で説明した内容によると、エクスプレスアップデートのサイズは通常150M～200Mバイト程度であるのに対し、デルタアップデートは約300M～500Mバイトだ。つまり、エクスプレスアップデートの方が33～70％程度小さい。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072000530/?ST=cm-software&P=2">なぜMicrosoftは、サイズが小さいエクスプレスアップデート...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072000530/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072000530/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072000530/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 20 Jul 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
