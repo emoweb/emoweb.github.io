@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>母島で「太陽光100％」実証、小池都知事が公表、東電と連携</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/071211296/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Thu, 12 Jul 2018 10:59:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>理論効率75％の新型燃料電池「PCFC」、世界初の実用サイズ</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/071211297/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -243,6 +237,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/072011317/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Fri, 20 Jul 2018 08:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>搬送医薬品の位置情報と温度情報をリアルタイム管理</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/event/15/070900169/071900008/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　鴻池運輸は、同社など数社で開発を進めている医薬品トレーサビリティシステムの概要を「国際モダンホスピタルショウ2018」（2018年7月11～13日、東京ビッグサイト）のオープンステージセミナーで説明した。医薬品の適正流通基準であるGDP（Good Distribution Practice）を満たし、医薬品の品質を確保した物流を実現することを目的としたシステムである。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071900008/?SS=imgview_ndh&amp;FD=-677827613" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071900008/gaiyou.jpg?__scale=w:500,h:358&amp;_sh=0460740870" width="500" height="358" alt=""></a></div><div>トレーサビリティシステムの概要</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　開発に関わっているのは、鴻池運輸の他、が日本空輸と九州産交運輸、トッパン・フォームズ、アカサカテック。2018年秋から鴻池運輸で導入することを目指している。</p><div class="bpimage_right" style="width:260px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071900008/?SS=imgview_ndh&amp;FD=1184964666" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071900008/ijou.jpg?__scale=w:250,h:158&amp;_sh=0cc0f30fb0" width="250" height="158" alt=""></a></div><div>異常を検知した際に表示されるアラート</div><div>クリックすると拡大した画像が開きます</div></div><p>　今回のシステムの最大の特徴は、搬送する医薬品の位置情報と温度情報をリアルタイムに管理することができる点にある。あらかじめ医薬品を適正に管理できる温度の上限値と下限値を設定しておけば、異常値を検知した際にドライバーや運行管理者にアラートが表示される仕組みだ。</p><div class="bpimage_right" style="width:260px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071900008/?SS=imgview_ndh&amp;FD=1722484314" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071900008/log_set.jpg?__scale=w:250,h:178&amp;_sh=0290f30170" width="250" height="178" alt=""></a></div><div>「オントレイシス タグ」をセットした保冷箱</div><div>クリックすると拡大した画像が開きます</div></div><p>　トッパン・フォームズが手掛けるRFID対応温度ロガー「オントレイシス タグ」を使って医薬品の温度を管理する。温度ロガーを保冷箱の外にセットして、センサーを箱内部に入れることで、保冷箱の中と外の温度を同時に測定することができる。電波を出さない航空機搭載モードに設定すれば、オントレイシス タグをセットしたまま飛行機で搬送することもできる。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071900008/?SS=imgview_ndh&amp;FD=1930240039" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071900008/report.jpg?__scale=w:500,h:192&amp;_sh=09f0110680" width="500" height="192" alt=""></a></div><div>納品時に搬送中の温度情報をレポートとしてその場で印刷することができる</div><div>クリックすると拡大した画像が開きます</div></div></div></div>]]></description>
+			<pubDate>Fri, 20 Jul 2018 10:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
