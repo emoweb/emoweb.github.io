@@ -5,17 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    9.7型電子ペーパー画面で4万9800円。AndroidタブレットBooxNote SがOnyxから
-</title>
-			<link>https://japanese.engadget.com/2018/07/18/9-7-4-9800-android-booxnote-s-onyx/</link>
-			<description><![CDATA[     <img src="https://prtimes.jp/i/33556/4/resize/d33556-4-799585-4.jpg" />
-ONYX-INTERNATINAL（オニキスインターナショナル）とSKT株式会社（本社：大阪府大阪市、社長：西村京子）は、BooxNoteS（ブークスノートエス）をAmazon及びSKTNETSHOPにて49800​​​​円（税込）で発売いたします。
-
-『BOOX NOTE S』は、重さ395g、厚さは8.2mmになります。A5よりやや小さいサイズで、9.7インチ(1200&times;825ドット)のCartaEInkパネルを用いたAndroid6.0タブレットです。
- ]]></description>
-			<pubDate>Wed, 18 Jul 2018 22:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    オーディオのB&amp;amp;O Playブランドが廃止へ。全製品をBang &amp;amp; Olufsen名義で統一、上位製品の認知度向上狙う
 </title>
 			<link>https://japanese.engadget.com/2018/07/18/bando-play-bang-and-olufsen/</link>
@@ -399,6 +388,17 @@ iPhonegrapherの三井公一（sasurau）さんによる、カメラ機能が売
 <p><a href="https://japanese.engadget.com/gallery/huawei-p20-pro-0/" title="HUAWEI P20 Pro">【ギャラリー】HUAWEI P20 Pro (11枚)</a></p>
  ]]></description>
 			<pubDate>Fri, 20 Jul 2018 00:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>     iOS 12 beta4で「セキュリティの抜け穴」塞ぐ新機能、USBアクセサリへの接続毎にパスコード要求
+</title>
+			<link>https://japanese.engadget.com/2018/07/20/ios-12-beta4-usb/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/7d04d94ce0f909d8462ff2da6cfaedd7/206540533/pass.jpeg" />
+開発者向けに配布されるiOS 12 ベータ4にて、USB制限モード（USB Restricted Mode)の仕様が変更され、よりセキュリティが強固にされていることが明らかになりました。iPhoneにUSB機器を接続すると、毎回パスコード入力が要求されます。
+
+USB制限モードは、iPhoneをPCにUSB接続したときに1時間以上ロック解除されない場合はPCからの読み取りをできなくする機能です。iOS 11.4.1で正式に追加された要素ですが、リリース後まもなく抜け穴が発見されました。今回の変更は、それを塞ぐための措置と思われます。
+ ]]></description>
+			<pubDate>Fri, 20 Jul 2018 01:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
