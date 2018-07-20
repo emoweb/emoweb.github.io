@@ -5,15 +5,12 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2018-07-07 03:13:04 +0900</title>
+			<title>2018-07-21 01:10:06 +0900</title>
 			<link> </link>
-			<description><![CDATA[<strong>forest_impress</strong><br/><p>#&lt;RuntimeError: redirection forbidden: http://rss.rssad.jp/rss/forest/rss.xml -&gt; https://forest.watch.impress.co.jp/data/rss/1.0/wf/feed.rdf&gt;
+			<description><![CDATA[<strong>gizmodo</strong><br/><p>#&lt;TypeError: no implicit conversion of Array into String&gt;
 in
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/open-uri.rb:225:in `open_loop&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/open-uri.rb:151:in `open_uri&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/open-uri.rb:717:in `open&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/open-uri.rb:725:in `read&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:104:in `normalize_rss&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:105:in `readable?&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:105:in `normalize_rss&#39;
 /home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:90:in `initialize&#39;
 /home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:77:in `new&#39;
 /home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:77:in `parse&#39;
@@ -22,7 +19,7 @@ in
 /data/src/rss_crawler/src/pipes/simple_pipes.rb:11:in `block (2 levels) in &lt;top (required)&gt;&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
-			<pubDate>Sat, 07 Jul 2018 03:13:04 +0900</pubDate>
+			<pubDate>Sat, 21 Jul 2018 01:10:06 +0900</pubDate>
 		</item>
 	</channel>
 </rss>

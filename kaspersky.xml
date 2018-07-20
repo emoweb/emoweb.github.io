@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0'>
+	<channel>
+		<title>カスペルスキー公式ブログ</title>
+		<link>https://blog.kaspersky.co.jp</link>
+		<description></description>
+		<item>
+			<title>従来型のマルウェアが産業環境を脅かす理由</title>
+			<link>https://blog.kaspersky.co.jp/ics-report-2018/20662/</link>
+			<description><![CDATA[標的型攻撃の危険性は周知のとおりですが、もっと一般的な脅威についても忘れるわけにはいきません。]]></description>
+			<pubDate>Mon, 09 Jul 2018 01:00:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>メールのトラッキングとその対策</title>
+			<link>https://blog.kaspersky.co.jp/email-tracking-protection/20671/</link>
+			<description><![CDATA[広告メールやスパムメールを作成する人々は、送ったメールが読まれたかどうかを気にしているものです。この記事では、メールのトラッキング対策について説明します。]]></description>
+			<pubDate>Tue, 10 Jul 2018 01:00:14 +0000</pubDate>
+		</item>
+		<item>
+			<title>スマートフォンに暗証番号やパスワードを設定するべき理由</title>
+			<link>https://blog.kaspersky.co.jp/smartphones-vs-pickpockets/20694/</link>
+			<description><![CDATA[スマートフォンに暗証番号やパスワードを設定していないと、スリの思うつぼです。]]></description>
+			<pubDate>Wed, 11 Jul 2018 01:00:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>00000JAPAN利用の際に通信を保護する方法</title>
+			<link>https://blog.kaspersky.co.jp/secure-connection-on-00000japan/20742/</link>
+			<description><![CDATA[災害時に開放されるWi-Fi「00000JAPAN」を利用する際、通信を保護するにはVPNが有効です。]]></description>
+			<pubDate>Wed, 11 Jul 2018 11:00:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>勢いを増す仮想通貨マイナー</title>
+			<link>https://blog.kaspersky.co.jp/cryptominers-almost-double/20675/</link>
+			<description><![CDATA[2017年末に予測したとおり、悪意ある仮想通貨マイニングの件数は2018年に増加を見せ、44%増となっています。]]></description>
+			<pubDate>Fri, 13 Jul 2018 01:00:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>リークしたソースコードはCarbanakにあらず</title>
+			<link>https://blog.kaspersky.co.jp/not-carbanak-source-code/20765/</link>
+			<description><![CDATA[先日リークしたソースコードはCarbanakではなく、別の高度な金融系マルウェアに属するものでした。今回のリークが今後、多大な波及効果をもたらす可能性があります。]]></description>
+			<pubDate>Fri, 13 Jul 2018 04:30:26 +0000</pubDate>
+		</item>
+		<item>
+			<title>スパムとフィッシング：人の心理につけ込むサイバー脅威</title>
+			<link>https://blog.kaspersky.co.jp/spam-phishing-description/20780/</link>
+			<description><![CDATA[スパムメールとは？フィッシングメールとは？対策はどうしたらいい？カスペルスキーのセキュリティ エヴァンゲリスト、保科貴大が解説します。]]></description>
+			<pubDate>Tue, 17 Jul 2018 06:00:59 +0000</pubDate>
+		</item>
+		<item>
+			<title>トロイの木馬Rakhni：攻撃は暗号化か、マイニングか</title>
+			<link>https://blog.kaspersky.co.jp/rakhni-miner-cryptor/20733/</link>
+			<description><![CDATA[2013年に存在が確認された暗号化型ランサムウェアRakhniが、Moneroのマイニングに手を広げたようです。]]></description>
+			<pubDate>Wed, 18 Jul 2018 01:00:36 +0000</pubDate>
+		</item>
+		<item>
+			<title>存在しない自転車を買いそうになった話</title>
+			<link>https://blog.kaspersky.co.jp/how-i-bought-a-bike/20682/</link>
+			<description><![CDATA[大幅ディスカウントに飛び付いてはいけない理由と、オンラインストアの詐欺を見極める方法。]]></description>
+			<pubDate>Thu, 19 Jul 2018 01:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>黒い正方形の謎</title>
+			<link>https://blog.kaspersky.co.jp/preventing-dangerous-screenshots/20787/</link>
+			<description><![CDATA[これはマレーヴィチの作品『黒い正方形』ではない。カスペルスキー製品に守られているコンピューター内の怪しいアプリケーションが撮影したスクリーンショットだ。]]></description>
+			<pubDate>Fri, 20 Jul 2018 01:00:04 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
