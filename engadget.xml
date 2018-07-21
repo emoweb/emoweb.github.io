@@ -5,18 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ケーブル1本でHMD接続、次世代VR接続規格「VirtualLink」をOculusやNvidiaらが発表
-</title>
-			<link>https://japanese.engadget.com/2018/07/19/1-hmd-vr-virtuallink-oculus-nvidia/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/8bed5cbd94a8db1a42f635b11da18ace/206537996/dims.jpg" />
-HTC ViveやOculus Rift、あるいはPlayStation VRでさえ、現行の単体型VRヘッドセットからは複数のケーブルが伸びているのが一般的。接続も単純ではなく、慣れるまでは何をどこに繋げばいいのか分かりにくいものというのが現状です。しかし、その状況は大きく変わるかもしれません。
-
-AMD、Microsoft、Nvidia、Valve、Oculusが次世代VRヘッドセットのための業界団体VirtualLinkコンソーシアムを立ち上げ、VRヘッドセット接続のための標準規格「VirtualLink」を発表しました。
- 
- ]]></description>
-			<pubDate>Thu, 19 Jul 2018 08:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    ポケモンGO横須賀イベント申込みは7月20日朝10時まで。抽選で参加券配布
 </title>
 			<link>https://japanese.engadget.com/2018/07/19/go-7-20-10/</link>
@@ -606,6 +594,34 @@ EAスポーツが驚くべき結果を残しました。同社のサッカーゲ
 開発・運営元のナイアンテックは、これを「3ストライクポリシー」と呼称。チート行為が確認された場合は段階的に厳しい制限を課していき、2回目の「ストライク（不正行為の検出）」までは猶予を認めるものの、3回目にはアカウントを永久停止すると告知しています。
  ]]></description>
 			<pubDate>Sat, 21 Jul 2018 02:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Google、自分と同じ姿勢の写真をリアルタイムに表示する「Move Mirror」公開
+</title>
+			<link>https://japanese.engadget.com/2018/07/21/google-move-mirror/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/981e8f3c8ce135d6cdbe9cdfc7dd0a9e/206541275/2018-07-20_17h01_10.png" />
+GoogleがAIやAR、VRなど、新しい技術を試せる場所として提供している「Experiments with Google」において、自分のポーズと同じ画像をリアルタイムに検索する「Move Mirror」を公開しました。
+
+ウェブカメラで自分の全身を映すと、PoseNetというコンピュータビジョンモデルが身体を検出し、各関節の位置を特定。8万以上の画像データベースから同じポーズの画像を検索・表示します。
+
+リアルタイムに処理されるため、表示される画像も刻々と変化し、最後にGIFアニメとして保存も可能です。
+
+
+
+Googleは、「コンピュータとウェブカメラを持っている人は誰でも姿勢推定などのコンピュータービジョン手法を利用できるようになる」としています。全身にトラッカーを配置しなくても体の動きが分かるので、流行りのVTuberなどにも応用できるかもしれません。
+
+なお、撮影されている画像はどこにもアップロードはされません。Move MirrorはTensorFlow.jsを使用しており、姿勢検知などはすべてブラウザ内で完結しているとのことです。
+
+残念ながら、いまのところスマートフォンでは動作しません（正確には、小さなViewPortはサポートしていないとのメッセージが表示されます）が、インカメラを搭載したラップトップなどなら簡単に試せそうです。
+
+ 
+Experiments with Googleでは、他にも、表示される絵文字と同じ画像を映す「Emoji Scavenger Hunt」や、文章を入力すると関連しそうな書籍を検索して表示する「Talk to Book」、指定された単語やフレーズに関連する言葉を入力していく「Semantrist」なども公開されています。
+
+関連記事：
+Google、AIで絵文字と同じものを探すミニゲーム「Emoji Scavenger Hunt」リリース
+Google、AIと言葉遊びする「セマンティック体験」連想落ちゲー「Semantris」公開
+ ]]></description>
+			<pubDate>Sat, 21 Jul 2018 06:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
