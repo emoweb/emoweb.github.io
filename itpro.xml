@@ -5,42 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d23</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Web認証手法を包括的に評価する枠組み（下）（Web認証手法を包括的に評価する枠組み）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/062000146/062000003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　何年も前に公開されていた情報にたまたま出会い、その情報が自分の重要な関心事にジャストミートで、今まで存在を知らなかったなんて信じられない、と思うことはないだろうか。筆者がまさにそう感じた素晴らしい報告書がある。　Webで使われている各種の認証手法を比較検討した「<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/QuestToReplacePasswords.pdf" target="_blank">The Quest to Replace Passwords：A Framework for Comparative Evaluation of Web Authentication Schemes</a>」だ。著者は、Joseph Bonneau、Cormac Herley、Paul C. van Oorschot、Frank Stajanoの各氏である。</p>
-
-<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/062000146/062000002/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000146/062000003/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　報告書では、それぞれの認証手法の一つひとつの項目に対して、達成の度合いを3段階で評価している。項目に順位はないが、このプレーンな状態の枠組みをベースに、項目の追加や削除を行ったり、各自が求める重要度に応じて重み付けを加えたりといったことも、簡単にできるはずだ。例えば、実際に導入するソリューションを探す目的で認証手法を評価している方々の多くは、コスト（初期費用とランニングコストの両方）や、ベンダーの具体的な製品を追加するとよいだろう。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000146/062000003/?ST=cio-security&P=2">報告書では、次のように率直な結論を述べている。「...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000146/062000003/?ST=cio-security&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000146/062000003/?ST=cio-security&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000146/062000003/?ST=cio-security&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/062000146/062000003/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Fri, 29 Jun 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n23</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Google、会話AI「Duplex」の実地試験を開始へ（Computerworldニュース）</title>
@@ -1177,6 +1145,45 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 23 Jul 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>EUがGoogleに巨額の制裁金、Androidの独占的地位乱用で（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/072300531/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　欧州連合（EU）の欧州委員会は、米GoogleがAndroidスマートフォンのメーカーに同社の検索エンジンとブラウザーのインストールを強制しているとして、制裁金43億4000万ユーロの支払いを命じ、この行為をやめるよう求めた。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072300531/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: European Union, 2018</div>
+</div>
+<p>
+　これにより、スマートフォンメーカーにとっては、Androidフォーク（Androidの派生OS）を搭載した端末や、Google以外のブラウザーと検索エンジンをデフォルトにした端末など、製品ラインナップの幅を広げる道が開けるかもしれない。
+</p>
+<p>
+　欧州委員会は、Googleが市場での支配的地位を次の3つの点で乱用していると認定した。（1）端末メーカーに「Google Playストア」の利用許可を与えるのと引き換えに、「Google検索」や「Google Chrome」のインストールを強要している、（2）Google検索を独占的にインストールした端末メーカーや携帯キャリアに金銭を与えている、（3）Androidフォークを搭載した端末を販売させないようにしている。
+</p>
+<p>
+　現代のスマートフォンの魅力は、ユーザーがダウンロードしてインストールできるアプリによるところが大きい。アプリストアの中でも、Google Playストアは、アプリの豊富さという点で群を抜いている。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072300531/?ST=cm-industries&P=2">欧州委員会の競争政策担当委員であるMargretheVestag...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072300531/?ST=cm-industries&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072300531/?ST=cm-industries&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072300531/?ST=cm-industries&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072300531/?ST=cm-industries&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 23 Jul 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
