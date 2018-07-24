@@ -5,25 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    次期Xperiaに搭載？　ソニー、4800万画素の積層型イメージセンサー
-</title>
-			<link>https://japanese.engadget.com/2018/07/23/xperia-4800/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/214c119bf8a4b83e925691ef33888dd0/206545443/%3F%3F%3F%3F%3F%3F%3F%3F%3F+2018-07-23+13.26.42.jpg" />
-ソニーは、有効画素数4800万のスマホ向け積層型CMOSイメージセンサー「IMX586」を商品化しました。
-
-「IMX586」では、画素サイズを世界最小となる0.8&mu;mまで微細化。これにより、1/2型（対角8.0mm）のセンサーサイズながら、有効画素数4800万を実現し、撮影画像の高画質化に貢献するといいます。
-
-また、隣接4画素が同色のカラーフィルターであるQuad Bayer配列の採用で、高感度撮影にも対応。低照度時には隣接する4画素の信号を加算することで、画素サイズ1.6&mu;mm相当（1200万画素）へと感度を高め、低ノイズ下でも明るい撮影が可能だといいます。
-
-さらに、ソニー独自の露光制御技術と信号処理機能をイメージセンサーに内蔵し。従来比で4倍のダイナミックレンジ、およびリアルタイム出力を実現したといいます。これにより、画面内に明るいところと暗いところが共存するシーンでも、白飛びや黒つぶれを押さえた画像をスマホのディスプレイを見ながら撮影できるとしています。
-
-
-
-同イメージセンサーは、傘下のソニーモバイルが開発する次期Xperiaスマートフォンへの搭載も期待できそうです。
- ]]></description>
-			<pubDate>Mon, 23 Jul 2018 00:50:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    新型Pixelbook、ベゼル狭くなり今年秋に「Pixel 3」と同時投入？
 </title>
 			<link>https://japanese.engadget.com/2018/07/23/pixelbook-pixel-3/</link>
@@ -466,6 +447,43 @@ iPhonegrapherの三井公一（sasurau）さんによる、カメラ機能が売
 <p><a href="https://japanese.engadget.com/gallery/aquos-r2-1/" title="AQUOS R2">【ギャラリー】AQUOS R2 (7枚)</a></p>
  ]]></description>
 			<pubDate>Tue, 24 Jul 2018 01:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    THETAを機能強化！プラグインストアを体験してみた（動画）
+</title>
+			<link>https://japanese.engadget.com/2018/07/24/theta/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=608%2C450%2C91%2C0&quality=85&format=jpg&resize=1081%2C800&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fee62e764630204f478f283dab7b73c4f%2F206548107%2F37646992_2228797607136430_6060257489549524992_n.jpg&client=a1acac3e1b3290917d92&signature=c4dc3f396be5de81535cc0c417a1f874f2107413" />
+Engadget 日本版YouTubeチャンネルより。
+
+AndroidベースのRICOH THETA Vはプラグインによる機能拡張が可能で、パートナープログラムによるAPI/SDKの公開の他にもオンラインサポートも開始され、開発しやすい環境が実現されています。
+
+ 
+
+そしてこの度、こうして開発されたプラグインをユーザーがダウンロードして使用できる「RICOH THETA プラグインストア」がオープンしました。 これまでにリコーが提供してきた「リモート再生」「USBデータ転送」の2つのプラグインの他に新たに8つのプラグインが追加され、そのうちの5つを実際に体験してきました。
+
+リコーが新たにリリースしたプラグインは3種。
+
+THETA Vを無線LANアクセスポイントに接続しライブ配信ができる「無線ライブストリーミング」は、PC不要で手軽に全天周ライブ配信が可能。
+
+本体内静止画を元データのままクラウドに自動アップロードできる「クラウドアップロード機能」はGoogleフォトに対応。自動バックアップとしても利用できます。
+
+「自動顔ぼかし機能 ベータ版」は静止画撮影後に自動で画像解析をして顔にぼかし処理を施してくれます。ただしリコー独自の画像解析ではなくAndroid用の汎用ツールを利用しているため、完全な動作を保証するものではなくベータ版です。
+
+
+
+NTTドコモが開発した「デバイスWebAPI」を利用すると、WebブラウザからTHETAを操作することが可能となります。スマホやパソコンはもちろん、Oculus GoやMirage Soloなどからも操作できてしまいます。またTHETAの各種センサーの値も取得可能なので、VRデバイスの3DoFコントローラとしても使えるかもしれません。
+
+
+
+そしてソニーの「MESH Plug-in for RICOH THETA」では、IoTブロック「MESH」を直接THETAと接続して撮影することができます。現時点ではリモートシャッターと人感センサーのみの対応ですが、今後各種センサーブロックも対応したら面白くなりそうです。
+
+プラグインストアのオープン現在では無料アプリのみの提供ですが、今後は有料プラグインの購入もできるようになるとのこと。プラグインパートナープログラムには世界中から多くの開発者が登録されているとのことで、今後さらにユーザー目線の便利なプラグインが登場するとが期待されます。
+
+しかし実際に使ってみるとプラグインの起動方法が分かりづらいんですよねぇ... リコーさん、もうちょっと使い易くしてください。
+
+ 
+ ]]></description>
+			<pubDate>Tue, 24 Jul 2018 03:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
