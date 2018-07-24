@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>IoTセンサーで見守り、ファイルメーカー</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/event/15/070900169/071700005/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><div class="bpbox_right" style="width:200px;"><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071700005/?SS=imgview_ndh&amp;FD=-1946352401" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071700005/01_FileMaker20180717.JPG?__scale=w:200,h:133&amp;_sh=0b70360290" width="200" height="133" alt=""></a></div><div>IoTセンサーから送信される室温などをFileMaker Cloud上で管理</div><div>クリックすると拡大した画像が開きます</div></div><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071700005/?SS=imgview_ndh&amp;FD=-701587920" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071700005/02_FileMaker20180717.JPG?__scale=w:200,h:133&amp;_sh=0750280280" width="200" height="133" alt=""></a></div><div>設定したしきい値を超えるとサービス利用者一覧でアラートメッセージを表示</div><div>クリックすると拡大した画像が開きます</div></div><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071700005/?SS=imgview_ndh&amp;FD=543176561" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071700005/03_FileMaker20180717.JPG?__scale=w:200,h:133&amp;_sh=07c0c107d0" width="200" height="133" alt=""></a></div><div>KCCSモバイルエンジニアリングのSigfoxマルチアダプター（温度センサー、加速度センサー、呼び出し器の3種）</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　ファイルメーカーは、IoT向け通信技術LPWA（Low Power Wide Area）とFileMaker Cloudを活用した在宅介護サービス利用者向けの見守りサービスを「国際モダンホスピタルショウ2018」（2018年7月11～13日、東京ビッグサイト）に参考出品した。室温や加速、呼び出しセンサーを用いて在宅介護者の生活環境を見守り、定期巡回・随時対応型訪問介護看護の効率化を狙う。</p><p>　IoTセンサーには、KCCSモバイルエンジニアリングのSigfoxマルチアダプター「DATA SCOPE」を利用する。12バイトのデータ送信ながら低消費電力で、およそ10km圏内のデータ通信が可能。大量に導入しても維持費用が抑えられる特徴があるという。</p><p>　環境系のパラメータとして温度センサー、加速度センサーを実装しており、しきい値をそれぞれ設定することで任意のタイミングで計測値をFileMaker Cloud上のアプリケーションに送信する。ボタンを押すと通知を行うアダプターも用い、訪問看護・介護スタッフを呼び出すこともできる。</p><p>　28度以上の室温が長時間続いた場合や、冷蔵庫のドアなどに設置した加速度センサーで一定期間にドア開閉がないことを検知したときなどは、導入する中核病院などにアラートメッセージを送信する。中核病院から介護サービス利用者の担当ケアマネジャーを介して訪問看護・介護ステーション担当者に連絡し、電話や随時訪問対応を支援する。「サービス提供事業所から10km近く離れた利用者への訪問は、人手不足などもあり負担が大きい。IoTセンサーを活用することで、訪問サービスを効率化できると考えている」（ファイルメーカー担当者）としている。</p><p>　今後、パイロットユーザーで検証を進めアプリケーションの改善などを行い、サービスモデルを確立していくという。</p></div>]]></description>
-			<pubDate>Wed, 18 Jul 2018 08:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>PHC、同社初の病院向けWeb型電子カルテ</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/event/15/070900169/071700006/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><div class="bpbox_right" style="width:200px;"><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071700006/?SS=imgview_ndh&amp;FD=1872785876" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071700006/01_Medicom-CK20180717.JPG?__scale=w:200,h:133&amp;_sh=07504b0e50" width="200" height="133" alt=""></a></div><div>看護支援機能やリハビリ支援機能を一体化したMedicom-CK</div><div>クリックすると拡大した画像が開きます</div></div><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071700006/?SS=imgview_ndh&amp;FD=1805779123" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/071700006/02_Medicom-CK20180717.JPG?__scale=w:200,h:133&amp;_sh=0f0ac07905" width="200" height="133" alt=""></a></div><div>看護支援機能に付属する病棟マップ画面</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　PHCホールディングスは、中小規模病院向けWeb型電子カルテシステム「Medicom-CK」を「国際モダンホスピタルショウ2018」（2018年7月11～13日、東京ビッグサイト）に参考出展した。同年9月1日に第1号ユーザーが本格稼働の予定で、同時に発売を正式発表する。</p><p>　病院向け電子カルテシステムの提供は同社初。200床未満の一般・療養型のケアミックス病院の運用を想定している。「200床未満の病院は医療情報部門がない施設が多く、システム保守がハードルとなり導入に踏み切れないところが多い。Web型のオールインワンタイプで保守運用の負担を軽減する。今後、クラウド化も想定している」（PHCメディコム事業部の担当者）としている。</p><p>　Medicom-CKはWeb型を特徴とし、パソコン、タブレット、スマートフォンなどマルチデバイスで利用可能。「ブラウザーも限定しない、マルチブラウザー対応」（同担当者）で稼動できる。訪問診療時には院内ネットワークと持ち出し用端末をVPN接続し、訪問先でのカルテ参照・記載にも対応する。</p><p>　電子カルテに看護支援機能やリハビリ支援機能なども一体化し、中小規模病院の現場で役立つ機能をシンプルで使いやすい画面に集約したという。例えば、リハビリ支援機能では、医師のリハビリ指示を理学療法士画面で指示受け、リハビリ計画作成、実施記録ができ、実施データはカルテ上で医師にフィードバックされる。特に申し伝えすべき情報は『特記』項目にチェックを入れることで、医師のメール画面に記事内容が送信するといった使い方が可能という。</p><p>　価格は「約3000万からを予定している」（同担当者）。将来的にはクラウド化を視野に入れているという。</p></div>]]></description>
@@ -243,6 +237,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/072411328/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Tue, 24 Jul 2018 14:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スローでもEV時代は必ずやってくる</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/082400125/072400014/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 24 Jul 2018 16:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
