@@ -5,53 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Google、社員へのセキュリティキー導入でフィッシング被害が0件に
-</title>
-			<link>https://japanese.engadget.com/2018/07/24/google-0/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/6e456e9acc14c477e83dd652cf00313b/206548319/dims.jpg" />
-偽サイトに誘導して、ユーザーのアカウント情報などを盗み出すフィッシング詐欺。最近は本物と見分けがつかないような偽サイトも登場し、より一層の注意が必要な状況となっています。そんな中、多数の従業員を抱えるGoogleが、2017年に業務関連アカウントでのフィッシング被害が0だったとの事例が報告されています。
-
-セキュリティ関連の情報を報じているKrebs On Securityによると、Googleは2017年に8万5000人以上の全従業員に対し、USBセキュリティキーの使用を義務付けたところ、フィッシング被害の報告が0件になったとのことです。
-
-USBセキュリティキーを使用する前がどうだったのかが分からないため、USBセキュリティキーのおかげでフィッシング被害を防げたとは言い切れませんが、意識付け等の意味でも一定の効果はあったと考えられます。
-
-あらためてセキュリティキーについて触れておくと、その名の通りにUSB接続で使える認証用のデバイスで、FIDOアライアンスのU2F (Universal 2nd Factor)プロトコルに対応したものが一般的。GoogleやDropbox、Facebook、Twitterなどが二要素認証（二段階認証）でセキュリティキーをサポートしています。
-
- 
-参考記事：
-Google、USBセキュリティキーを使った2段階認証に対応。要ChromeブラウザとU2F対応キー
-
-Dropboxが物理セキュリティキーに対応。USB接続のU2Fキーで二段階認証
-
-Facebookを「USBの鍵」でより安全に、二段階認証方法にUSBセキュリティキーが追加
-
-
-通常、二要素認証では、SMSに送信されるコードや認証用アプリで生成されるコードを入力するものがほとんどですが、セキュリティキーはUSBポートに差し込みキー上のボタンに触れると認証が完了します。認証には物理的なキーが必要となるため、コードを入力する形式よりも安全性は高くなります。
-なお、現在はパスワードと組み合わせた二段階認証としてU2Fが使用されていますが、今後はパスワードそのものが不要なUAF(Universal Authentication Framework)が主流になると考えられおり、UAF（とU2F）を基にしたWebAuthn（Web Authentication）がすでにW3Cの勧告候補になっています。
-
-指紋や顔認証がWebサイトで使える。W3Cが新しい認証仕様WebAuthnを勧告候補に
-
-とはいえ、利用するには各サービスが対応する必要があり、広く普及するには時間がかかります。それまでの過渡期的な手段となるかもしれませんが、セキュリティ対策のためUSBセキュリティキーを導入するのは有効な手段と言えそうです。
-
- 
- ]]></description>
-			<pubDate>Tue, 24 Jul 2018 04:30:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    「フルーツフライの脳」を完全マッピングした高解像度画像の作成に成功
-</title>
-			<link>https://japanese.engadget.com/2018/07/24/high-resolution-image-fruit-fly-brain/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/f1273d7a7eb0919142a79ce41b48eaca/206548306/fruitflyBrain.jpeg" />
-
-［Engadget US版より（原文へ）］
-
-ミバエの脳の高解像度な画像の作成に科学者たちが成功し、脳内に張り巡らされたニューロンのつながりを追跡できるようになりました。
-
-これを実現したのは、ハワード・ヒューズ医学研究所（HHMI）ジャネリア・リサーチキャンパスの研究チームです。このほど、学術雑誌のCellに論文を発表しました。プロジェクトリーダーのDavi Bockは、このレベルの解像度はこれまでに達成されたことがなく、ミバエの行動にどのニューロンが作用しているかが、より詳しく理解できるようになるとHHMI NEWSの記事で話しています。
- ]]></description>
-			<pubDate>Tue, 24 Jul 2018 05:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    ThinkPadを使い続けてきたスマホ博士がゲーミングPCに乗り換えた理由
 </title>
 			<link>https://japanese.engadget.com/2018/07/24/thinkpad-gamingpc/</link>
@@ -549,6 +502,28 @@ Grammarly が提供している文法チェック機能に近いですが、Goog
 <p><a href="https://japanese.engadget.com/gallery/-568/" title="キングジム 気づかせメモ カクミル">【ギャラリー】キングジム 気づかせメモ カクミル (19枚)</a></p>
  ]]></description>
 			<pubDate>Wed, 25 Jul 2018 06:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    2015年の今日フィギュア写真向けRAW現像ソフト「RACFiI」が発売されました：今日は何の日？
+</title>
+			<link>https://japanese.engadget.com/2018/07/25/2015-raw-racfii/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/63539bdaade9b98c154a5f51a69013bf/206545942/00.jpg" />
+おもなできごと
+・2012年7月26日、日本一ソフトウェアがニンテンドー3DS用アクションゲーム「洞窟物語3D」を発売
+・2014年7月26日、ドコモがGoogle Play非対応のAndroidスマホ「らくらくスマートフォン3 F-06F」を発売
+・2015年7月26日、市川ソフトラボラトリーがフィギュア写真向けRAW現像ソフト「RACFiI Powered by SILKYPIX」を発売
+・2016年7月26日、イオンモバイルがIP電話がかけ放題になるオプション「050かけ放題サービス」を開始
+ ]]></description>
+			<pubDate>Wed, 25 Jul 2018 16:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    「Sプラン」開始のmineo、3キャリア網羅でSIMロックの壁を突破:週刊モバイル通信 石野純也
+</title>
+			<link>https://japanese.engadget.com/2018/07/25/s-mineo-3-sim/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/89c18e1cc05330fdd4ce115801218634/206553134/01.jpg" />
+ケイ・オプティコムが運営するMVNOのmineoが、ソフトバンク回線を借りたサービスを、9月4日に開始します。元々、auの回線でMVNOに参入していたmineoですが、2015年9月にはドコモ回線を追加。ソフトバンク回線を加えることで、国内3キャリアを網羅することになります。
+ ]]></description>
+			<pubDate>Wed, 25 Jul 2018 17:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
