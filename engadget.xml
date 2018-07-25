@@ -5,56 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    THETAを機能強化！プラグインストアを体験してみた（動画）
-</title>
-			<link>https://japanese.engadget.com/2018/07/24/theta/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=608%2C450%2C91%2C0&quality=85&format=jpg&resize=1081%2C800&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fee62e764630204f478f283dab7b73c4f%2F206548107%2F37646992_2228797607136430_6060257489549524992_n.jpg&client=a1acac3e1b3290917d92&signature=c4dc3f396be5de81535cc0c417a1f874f2107413" />
-Engadget 日本版YouTubeチャンネルより。
-
-AndroidベースのRICOH THETA Vはプラグインによる機能拡張が可能で、パートナープログラムによるAPI/SDKの公開の他にもオンラインサポートも開始され、開発しやすい環境が実現されています。
-
- 
-
-そしてこの度、こうして開発されたプラグインをユーザーがダウンロードして使用できる「RICOH THETA プラグインストア」がオープンしました。 これまでにリコーが提供してきた「リモート再生」「USBデータ転送」の2つのプラグインの他に新たに8つのプラグインが追加され、そのうちの5つを実際に体験してきました。
-
-リコーが新たにリリースしたプラグインは3種。
-
-THETA Vを無線LANアクセスポイントに接続しライブ配信ができる「無線ライブストリーミング」は、PC不要で手軽に全天周ライブ配信が可能。
-
-本体内静止画を元データのままクラウドに自動アップロードできる「クラウドアップロード機能」はGoogleフォトに対応。自動バックアップとしても利用できます。
-
-「自動顔ぼかし機能 ベータ版」は静止画撮影後に自動で画像解析をして顔にぼかし処理を施してくれます。ただしリコー独自の画像解析ではなくAndroid用の汎用ツールを利用しているため、完全な動作を保証するものではなくベータ版です。
-
-
-
-NTTドコモが開発した「デバイスWebAPI」を利用すると、WebブラウザからTHETAを操作することが可能となります。スマホやパソコンはもちろん、Oculus GoやMirage Soloなどからも操作できてしまいます。またTHETAの各種センサーの値も取得可能なので、VRデバイスの3DoFコントローラとしても使えるかもしれません。
-
-
-
-そしてソニーの「MESH Plug-in for RICOH THETA」では、IoTブロック「MESH」を直接THETAと接続して撮影することができます。現時点ではリモートシャッターと人感センサーのみの対応ですが、今後各種センサーブロックも対応したら面白くなりそうです。
-
-プラグインストアのオープン現在では無料アプリのみの提供ですが、今後は有料プラグインの購入もできるようになるとのこと。プラグインパートナープログラムには世界中から多くの開発者が登録されているとのことで、今後さらにユーザー目線の便利なプラグインが登場するとが期待されます。
-
-しかし実際に使ってみるとプラグインの起動方法が分かりづらいんですよねぇ... リコーさん、もうちょっと使い易くしてください。
-
- 
- ]]></description>
-			<pubDate>Tue, 24 Jul 2018 03:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    コモドール64復刻版の「THEC64 Mini」、北米で10月販売開始。USBキーボードでプログラミングも可能
-</title>
-			<link>https://japanese.engadget.com/2018/07/24/64-thec64-mini-10-usb/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/aa69d332832a56f5c9766984fe9bd283/206548261/C64.jpeg" />
-80年代に大ヒットしたパソコン「コモドール64」のミニ版である「THEC64 Mini」が、2018年10月9日に北米とカナダで公式に発売されることが発表されました。
-
-コモドール64は、1982年に今はなきコモドール社が発売したホームコンピュータ。いわゆるアタリショック後からファミコン（NES）上陸までにゲーム機として大成功を収めた名機です。
-
-その公式ライセンスを受け継いで、ARMチップ＋Linuxにより新たに開発された復刻版がTHEC64 Miniです。2018年3月29日からヨーロッパで販売され、日本を含む諸国でもお店や個人が輸入する動きがありましたが、ようやく「北米で正規販売」となりました。
- ]]></description>
-			<pubDate>Tue, 24 Jul 2018 03:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    「独禁法違反」「景表法違反」連呼…　携帯3社に公取委
 </title>
 			<link>https://japanese.engadget.com/2018/07/24/3/</link>
@@ -590,6 +540,48 @@ iOS版Alexaアプリ、ついに音声コマンドに対応。日本でもAndroi
 その精度の高さゆえに「生きている人から眼球を取り出す」や「そもそも生きていなくする」など、犯罪者が過激な手段に訴える懸念がありますが、この研究成果を応用すれば、そのような恐れが少しは減るかもしれません。
  ]]></description>
 			<pubDate>Wed, 25 Jul 2018 02:10:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    手書きメモを「メモ」アプリでスキャン！PDFで共有しよう：iPhone Tips 
+</title>
+			<link>https://japanese.engadget.com/2018/07/25/pdf-iphone-tips/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=2266%2C2373%2C0%2C0&quality=85&format=jpg&resize=764%2C800&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fc93c6eb5cc14bd39b525497120ff8e91%2F206473710%2F05.png&client=a1acac3e1b3290917d92&signature=69a9dc980fbb2d6cf367f66b7b38664d9cf4164b" />
+手書きのメモはデータで残しておくと、複数人で共有しやすくなります。また、古くなったメモの必要なページをPDFにまとめておくと整理も簡単です。こうした作業はスキャン用の専用ツールを使わなくても、iPhoneの「メモ」アプリで行えます。
+
+<p><a href="https://japanese.engadget.com/gallery/pdf-1/" title="「メモ」アプリでスキャンしたデータをPDF化する手順">【ギャラリー】「メモ」アプリでスキャンしたデータをPDF化する手順 (8枚)</a></p>
+ ]]></description>
+			<pubDate>Wed, 25 Jul 2018 03:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    野球観戦をVRで──1試合500円の「XRstadium」サービス開始、Oculus goなど対応
+</title>
+			<link>https://japanese.engadget.com/2018/07/25/vr-1-500-xrstadium-oculus-go/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/f7b18956123ec7d41b26e92d3497d750/206551208/IMG_20180725_151018.jpg" />
+自宅などでスタジアムの臨場感を味わえる。そんなVRスポーツ観戦サービス「XRstadium」をKDDI・Supershipが発表しました。第一弾コンテンツとして、プロ野球 パ・リーグの30試合以上を配信します。料金は1試合500円。
+
+「XRstadium」は、VRでスポーツ観戦できる映像配信プラットフォームです。現時点ではOculus Go、Gear VRに対応。Mirage Solo/Daydream Viewにも順次対応予定であるとのこと。
+
+
+
+第一弾コンテンツとして、プロ野球 パ・リーグの7月27日以降の30試合以上をリアルタイム配信します。
+
+なお球場には5台のカメラを独自に設置しており、ユーザーは「バックネット」「ホーム一塁ベンチ横」「ライト観客席」「センター」「ビジター三塁ベンチ横」の5視点を切り替えながら試合を観戦できます。また、試合の速報や選手情報・シーズン成績などの情報もVR空間内に表示されます。
+
+そのほか、同じVR空間に複数人で没入するコミュニケーション機能も搭載。アバターや音声会話で、遠く離れた家族や友人と一緒に試合を観戦することもできます。
+
+
+
+
+
+なお、V映像Rの解像度はフルHD。実際にGear VRで視聴したところ、解像度不足が気になりました。これが将来的に4K・8Kと高精細になるのであれば、VRスポーツ観戦はより現実的になりそうです。
+
+「XRstadium」は、7月27日18時〜の日本ハム vs オリックス戦より配信開始。観戦チケットは公式ホームページから購入できます。なお今後は野球以外のスポーツ配信も検討しているとのことで、野球以外のスポーツファンにも期待が広がります。
+
+ 
+
+KDDIは2020年にサービスを開始する「5G」を見据え、スポーツと通信、VRやARの融合を今後もさらに強化していくとのことです。
+ ]]></description>
+			<pubDate>Wed, 25 Jul 2018 03:37:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
