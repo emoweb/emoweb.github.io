@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d26</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>IEEE、フォグコンピューティングの参照アーキテクチャを標準採択（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/070400524/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　IoTや5G、AIシステムでは、データが無尽蔵に生み出されるかに思える。こうしたデータストリームをきちんと処理できるように、デバイス、センサー、サービスなどの相互運用性や連携を確保するための土台として、米国電気電子学会（IEEE）がフォグコンピューティングの参照アーキテクチャを「IEEE 1934」として採択した。フォグコンピューティングの拡大を本格的に後押しする動きだ。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070400524/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Robert Couse-Baker</div>
-</div>
-<p>
-　IEEE 1934は、OpenFog Consortiumが策定した参照アーキテクチャを、IEEEが標準規格として認定したもの。OpenFog Consortiumは、英ARM、米Cisco Systems、米Dell、米Intel、米Microsoft、米プリンストン大学が2015年に設立した団体である。
-</p>
-<h4>
-フォグコンピューティングの定義
-</h4>
-<p>
-　IEEE 1934では、フォグコンピューティングを次のように定義している。「システムレベルの水平アーキテクチャであり、コンピューティング、ストレージ、制御、ネットワーキングのリソースやサービスを、クラウドからモノまでの連続の中であらゆる場所に分散させる。複数の業界と適用領域をサポートし、データの発生源に近い場所でサービスやアプリケーションの分散を可能にし、モノからネットワークエッジを越えて、クラウドの中へ、さらに複数のプロトコル層へと拡張される」
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070400524/?ST=cm-network&P=2">OpenFogConsortiumの会長で、Ciscoのシニアデ...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070400524/?ST=cm-network&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070400524/?ST=cm-network&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070400524/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 04 Jul 2018 11:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n26</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Facebook社内のAI活用、6つの事例（後）（Facebook社内のAI活用、6つの事例）</title>
@@ -1178,6 +1140,43 @@
 </div>
 ]]></description>
 			<pubDate>Thu, 26 Jul 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google Chrome、全HTTPページに「保護されていません」警告を表示（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072600452/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　Webサイトとブラウザー間の通信をHTTPSで暗号化してユーザーのデータを守ることに関して、米Googleはサイト運営者に向けた強硬姿勢をさらに進めている。同社が2018年7月24日に安定版をリリースした「Chrome 68」では、HTTP接続のサイトを開いた時に、「保護されていません」という警告がアドレスバーに表示されるようになった。従来のバージョンは、HTTPS接続のサイトを開いた場合に「保護された通信」という表示と緑色の鍵マークが表示されていたが、裏返しの警告に変わった。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/072600452/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Google</div>
+</div>
+<p>
+　HTTPS接続は、コンピューターとサイト間の通信を暗号化し、ネットワーク上でデータが第三者に傍受されるのを防ぐ。重要な個人情報をサイト側と共有する場面では、HTTPSはもちろん不可欠だ。Chromeは昨年から、ログインフィールドがあるHTTP接続ページや、シークレットモードで開いたHTTP接続のページに対して、同様の警告を表示するようになった。またHTTPS接続であれば、閲覧中のサイトを第三者に改ざんされるのを防ぎ、パスワードを盗む偽造サイトや広告インジェクションの抑止にもつながる。
+</p>
+<p>
+　Chrome 68のアドレスバーに出る「保護されていません」という警告は、ハッキングを受けたという意味ではない。通信が保護されていないのでハッキングを受ける恐れがある、という意味だ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/072600452/?ST=cio-appli&P=2">昔は、HTTPSで通信を暗号化しているサイトは少...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/072600452/?ST=cio-appli&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/072600452/?ST=cio-appli&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/072600452/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Thu, 26 Jul 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
