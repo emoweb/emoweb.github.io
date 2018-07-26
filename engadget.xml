@@ -5,28 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Firefoxにも自動再生ブロック機能追加、Nightlyビルドでテスト中
-</title>
-			<link>https://japanese.engadget.com/2018/07/25/firefox-nightly/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/fa18687b2c5e5a08d73e1f82f5bb4bf8/206550964/dims.jpg" />
-FirefoxのテストバージョンNightlyにWebサイトの音声自動再生をブロックする機能が追加されました。
-
-この機能、サイトに埋め込まれた音楽だけではなく、自動再生される動画広告の音もブロックするもの。同様の機能はChromeやSafariなどにも搭載されており、Firefoxもこれらに追従する形です。ただし、Chromeの音声ミュート機能はウェブゲームなどもミュートしてしまうとして、一旦取り下げ。10月リリースのChrome 70で再度適用される予定となっています。
-
- 
-突然の音声事故を「6秒ルール」で低減。GoogleがPC/Mac版Chrome 66の音声自動ブロックを解説
-
-Firefoxの自動再生ブロックは、Chromeよりもずっとシンプルで、デフォルトで許可、ブロック、都度確認を選ぶ形。許可・ブロックの例外サイトを設定することも可能です。とりあえず、すべてブロックの設定で必要な場合にのみ許可するようにしておけば、図書館や会議室などに不意に音楽が流れ、気まずい想いをしなくて済みそうです。
-
-まだNightlyビルドなので、正式版となるには数週間待つ必要がありますが、主要なブラウザが自動再生ブロックに対応することで、原因となった自動再生広告自体が減少するのに期待したいところです。
-
-We are adding the ability to block and configure autoplaying videos with sound in Firefox, can check it out in @FirefoxNightly today (comments welcome) pic.twitter.com/k9K9hQC9Ye
-- Dale Harvey (@daleharvey) 2018年7月21日
-
- ]]></description>
-			<pubDate>Wed, 25 Jul 2018 01:50:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    FireタブレットをEcho Showのように使える「Show Mode Dock」を試す
 </title>
 			<link>https://japanese.engadget.com/2018/07/25/fire-echo-show-show-mode-dock/</link>
@@ -395,6 +373,22 @@ ULによると、この破壊不能ディスプレイは、米国防総省によ
 ・2015年7月27日、toon WORKSHOPの変形ヘッドホン「THP-01」出荷開始
  ]]></description>
 			<pubDate>Thu, 26 Jul 2018 16:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    ポケモンGO、8月のリサーチ報酬は伝説の「ライコウ」。特別なカビゴンとり忘れに注意
+</title>
+			<link>https://japanese.engadget.com/2018/07/26/go-8/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/ad5f2dec7b128531b8e51de3713a9541/206555737/DjDurp2XcAAoqoB.jpg" />
+
+ポケモンGOが8月のフィールドリサーチ報酬を発表しました。8月2日早朝から、「大発見」のリワードとして伝説のポケモン「ライコウ」が現れます。
+
+ライコウと入れ替わる7月の大発見リワード「のしかかりカビゴン」は8月1日(2日未明)まで。
+
+もしまだカビゴンを取ってない場合、もう一体欲しい場合は、2日までのフィールドリサーチを積極的にこなす必要があります。
+
+ 
+ ]]></description>
+			<pubDate>Thu, 26 Jul 2018 18:42:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
