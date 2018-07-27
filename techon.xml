@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>AIで早期胃がんを高精度検出、理研と国がん</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/072111319/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><p>　理化学研究所と国立がん研究センター東病院の共同研究チームは、人工知能（AI）による早期胃がんの高精度な自動検出法を確立したと発表した。今回の研究成果は、検診における胃がんの見逃しを減らすことで、早期発見や早期治療につながることが期待できるとしている。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/072111319/?SS=imgview_ndh&amp;FD=-1099032330" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/072111319/n1.jpg?__scale=w:500,h:329&amp;_sh=0c30830720" width="500" height="329" alt=""></a></div><div>医師の診断（緑）とコンピュータの自動検出（紫）が示した早期胃がんの領域</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　開発したのは、理研 光量子工学研究センター 画像情報処理研究チームの横田秀夫チームリーダー、竹本智子研究員らと、国立がん研究センター東病院 消化管内視鏡科の矢野友規科長、池松弘朗医長、堀圭介医員らのメンバーによる共同研究チーム。2018年7月21日（日本時間）、米国ハワイで開催している学会「40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society」で研究成果を発表した。</p><p>　共同研究チームは、ディープラーニングを用いて内視鏡画像から早期胃がんを自動検出する方法を考案した。ディープラーニングを画像中の物体検出へ応用する場合、一般には数十～数百万枚の正解画像が学習用データとして必要だが、早期胃がんの場合は良質の正解画像を大量に収集することは困難だ。そこで、少数の正解画像から小領域をランダムに切り出し、データ拡張技術を利用して画像を増やした。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/072111319/?SS=imgview_ndh&amp;FD=-1098108809" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/072111319/n2.jpg?__scale=w:500,h:229&amp;_sh=0980ed0d70" width="500" height="229" alt=""></a></div><div>早期胃がんの正解画像からランダムに切り出した「がん」と「正常」の学習用画像</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　その画像をコンピュータに学習させた結果、陽性的中率（コンピュータが「がん」と判断した画像中、実際に「がん」であった割合）は93.4％、陰性的中率（コンピュータが「正常」と判断した画像中、実際に「正常」であった割合）は83.6％だった。さらに、早期胃がんの有無に加えて、その領域まで高精度で自動検出することに成功したという。<br></p></div><div><div><span>1</span></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/072111319/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/072111319/?ST=health&amp;P=3"><span>3</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/072111319/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
-			<pubDate>Sat, 21 Jul 2018 13:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>髪の毛よりも細いスプリングにめっきを実現</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/column/15/051900112/00058/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -237,6 +231,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/072711339/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Fri, 27 Jul 2018 12:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>福岡県初の国内材専焼のバイオマス発電、九電みらい</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/072711340/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 27 Jul 2018 13:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
