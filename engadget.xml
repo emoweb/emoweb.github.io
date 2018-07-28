@@ -5,30 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    この道はスリップしやすいとクルマ自身が認識、ボッシュが自動運転向け新機能
-</title>
-			<link>https://japanese.engadget.com/2018/07/26/bosch-weather/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/4bd06574565ba4d5a11033ea0ce0c3c4/206555786/20180727nbosch.jpeg" />
-
-［Engadget US版より（原文へ）］
-
-2018年7月25日（現地時間）、ボッシュは自動運転車が濡れたり凍結したりしている道路も安全に走行できるように、路面状況の予測サービスを発表しました。
-
-ボッシュによれば、この技術により自動運転車は「地面をお尻で感じ取る」ような、繊細な走行が可能になります。同社役員のDr.ディーク・ホーハイゼル（Dirk Hoheisel）氏によれば、このシステムにより「致命的な状況に陥る前」の危機を自動運転車に警告できるようになるとしています。
-
-この技術ではフィンランドのフォレカ（Foreca）社が提供する複数の天気予報を利用し、車両がどこをどのように自動走行できるのかが判断できます。またボッシュによれば、これによって道路状況が悪い最初の段階でも、人に運転を代わってもらわなくても済むようになるとのこと。もちろん、これはまだ自動運転のレベル4やレベル5に達していない、ハンドルのついた自動運転車に利用される技術です。
-
-ボッシュは路面状況警告を2020年にサービス提供しますが、その時点では完全にフォレカの天気予報に頼ることになります。しかし将来的には、同じ技術を利用した他の自動運転車からのデータもシェアするようになるのです。
-
-システムは車両内外の温度やウインドシールドのワイパーを利用したか、アンチスキッド（横滑り防止装置）がどれだけ可動したかなどのデータをボッシュのクラウド上にアップロードします。言い換えれば、この技術は自動運転車が公道に増えれば増えるほどより正確かつ信頼できるようになるのです。
-
-編集部が日本向けに翻訳・編集したものです。
-原文著者：Mariella Moon
-
- ]]></description>
-			<pubDate>Thu, 26 Jul 2018 22:10:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    サムスンがゲーミングスマホを開発中？ 折りたたみ端末は「Fシリーズ」との噂も
 </title>
 			<link>https://japanese.engadget.com/2018/07/26/f/</link>
@@ -500,6 +476,17 @@ PRTIMESトップへ
 
  ]]></description>
 			<pubDate>Sat, 28 Jul 2018 03:01:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    iMac Proと新MacBook ProのT2チップがカーネルパニックの原因？公式コミュニティで可能性が指摘
+</title>
+			<link>https://japanese.engadget.com/2018/07/28/imac-pro-macbook-pro-t2/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/bfd29d6dbdc40aa2eb996843c29326ce/206558196/MBP.jpeg" />
+iMac ProとMacBook Pro（2018）に内蔵されたApple T2チップとBridge OSがクラッシュし、カーネルパニックを引き起こす原因になっている可能性が、アップルの公式サポートコミュニティにて指摘されています。
+
+カーネルパニックとはWindowsのブルースクリーンに相当する症状で、何らかの理由で致命的なエラーが起こり、再起動以外に対応方法がない現象のこと。出力されたエラーログにApple T2チップに搭載された「Bridge OS」への言及があることから、因果関係が推測されています。
+ ]]></description>
+			<pubDate>Sat, 28 Jul 2018 04:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
