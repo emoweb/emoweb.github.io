@@ -5,49 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d30</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Dellが再上場へ、その複雑な手続きの流れは（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/070600525/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　2013年に株式を非公開化した米Dellが、再上場に向けた手続きを始めることになった。傘下のVMwareの「トラッキングストック」という株式が関係する、込み入った手続きだ。結局何がどうなり、親会社と傘下企業との複雑な構造にどのような影響が及ぶのか、見ていくことにしよう。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070600525/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Martyn Williams/IDG</div>
-</div>
-<p>
-　まずは、現在のDellの大まかな構成を確認しておこう。Dellは、2016年に670億ドルという莫大な額でEMCを買収した後は、Dell Technologiesという名の新たな親会社の下に、従来のDellやEMCのほか、Pivotal、VMwareといった傘下企業がぶら下がる形の体制となった。
-</p>
-<p>
-　従来のDellでもがき続けていたサーバーやパソコンの事業部門は、現在はDell Client Solutions Groupという名前になった。従来のEMCは、現在はDell EMCの名でデータストレージやサービスに関する事業を行っている。VMwareは、高成長のクラウドコンピューティングとプラットフォーム仮想化のソフトウエアベンダーで、もともとは2004年にEMCが6億2500万ドルで買収した企業だ。
-</p>
-<p>
-　このほか、Dell Technologiesの傘下には、RSA、SecureWorks、Virtustreamなどもある。だが、今回の再上場に関して重要なのは、Dell TechnologiesとVMwareだ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070600525/?ST=cm-software&P=2">再上場の流れは</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070600525/?ST=cm-software&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070600525/?ST=cm-software&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070600525/?ST=cm-software&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070600525/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 06 Jul 2018 11:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n30</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>AIは新たなルネサンスをもたらすか（上）（AIは新たなルネサンスをもたらすか）</title>
@@ -1161,6 +1122,42 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 30 Jul 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10プレビュー版、アップデート機能に機械学習の予測モデルを活用（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/073000534/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　Windows 10で特にいら立ちを感じるのは、アップデートのごり押しだ。パソコンを使っている最中に、新しい更新プログラムのインストールを始めようとする困った習慣がある。仕事の途中でパソコンの動きが遅くなり、予期せぬ再起動へと強制的になだれ込む。道半ばで止まった作業は不幸だ。米Microsoftは、不満の声に応えて、更新の適用をユーザーの都合に合わせて遅らせたり時刻を設定したりできるオプションを追加してきたものの、いまだに問題の解消には至っていない。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/073000534/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Gordon Ung/Rob Schultz/IDG</div>
+</div>
+<p>
+　しかし、次回の大型アップデート以降は、ひょっとすると悩みの種が減るかもしれない（あくまで「ひょっとすると」だが）。機械学習の予測モデルを使って、再起動に適したタイミングを判断する機能が加わる可能性がある。
+</p>
+<p>
+　Microsoftは2018年7月25日、「Windows 10 Insider Preview」のビルド17723と18204をリリースしたことを発表した。今回のビルドでは、複合現実（MR）の使用中に周囲の現実世界の様子を確認できる「Flashlight」機能、そして新しい絵文字など、さまざまな新機能や変更が加わっている。そのうちの1つが、Windows Updateを適用するタイミングに関する新しいシステムの導入だ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/073000534/?ST=cm-software&P=2">MicrosoftのDonaSarkar氏とBrandonLeb...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/073000534/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/073000534/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/073000534/?ST=cm-software&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/073000534/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 30 Jul 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
