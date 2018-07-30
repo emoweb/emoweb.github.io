@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>電子化されたプロブレムリストを連携情報の核に</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/event/15/062600168/072300004/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><p>　医療・ケアに求められる連携情報とは、キーとなる画像情報、キーとなる検査歴、要約された記載情報である——。</p><p></p><div class="bpimage_right" style="width:260px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/062600168/072300004/?SS=imgview_ndh&amp;FD=-1099064106" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/062600168/072300004/n1.JPG?__scale=w:250,h:188&amp;_sh=0650e60330" width="250" height="188" alt=""></a></div><div>一般口演で発表する渡邉氏</div><div>クリックすると拡大した画像が開きます</div></div><p>　医療情報システム開発センターの渡邉直氏は、こうした考えに基づき「サマリー内プロブレムリストの標準化とPHRへの活用の試み」と題した研究発表を、「第22回 日本医療情報学会春季学術大会」（2018年6月21～23日、朱鷺メッセ）の一般口演で行った。</p><p>　2016年度診療報酬改定で、電子的診療情報提供加算が認められたが、2018年度からは提供する診療情報が検査情報と画像情報に加えて、退院時要約（退院サマリー）が必須項目になった。サマリーをどのような形式で記載するかについての標準化が検討されている。</p><p>　渡邊氏はサマリーについて、いかに必要な診療情報内容を簡潔にサマライズして提供するかという観点が重要だと指摘。「患者の医療・健康情報の核は何かというと、健康“問題”である「プロブレム」であり、患者のプロブレムリストを適切に挙げ、これを基軸として記載をまとめることが大切である」とした。</p><p>　同氏が昨年まで勤務していた聖路加国際病院では、電子カルテシステムにプロブレムリストのテンプレートが用意され、病名はICD-10コードが付されている。この病名に発生日、250～500字程度のテキスト形式によるコメントが記載できる。</p><p>　同氏は外来診療において、このプロブレムリストをコピー＆ペーストしたフォームをA4用紙1枚に印刷し、処方箋とともに調剤薬局に提供する試みを行った。その成果は、第20回 日本医療情報学会春季学術大会でポスター発表を行った<a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/060300064/062100004/?ST=health" target="_blank">（関連記事）</a>。<br></p></div><div><div><span>1</span></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/062600168/072300004/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/062600168/072300004/?ST=health&amp;P=3"><span>3</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/062600168/072300004/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
-			<pubDate>Mon, 23 Jul 2018 13:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>電力が化石燃料を2年連続で上回る、IEA「世界エネルギー投資」</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/072311322/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -237,6 +231,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/column/15/051900112/00059/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Mon, 30 Jul 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>太陽光パネル＋「トライブリッド蓄電」、EVと双方向で充放電</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/072911342/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Mon, 30 Jul 2018 10:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
