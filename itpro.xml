@@ -11,49 +11,6 @@
 			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>iPhoneのモデムチップ、メーカーの違いを考える意味は（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/070900526/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　iPhoneユーザーの皆さんは、お使いの端末が搭載しているモデムチップの製造元をご存じだろうか。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070900526/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Intel</div>
-</div>
-<p>
-　筆者のようなハードウエアマニアの方は、そのあたりも気にしているかもしれない。現行のiPhoneは、モデムチップを米Qualcommと米Intelの両社から調達しており、端末を取り扱う携帯キャリアや地域に応じて、モデムチップが微妙に異なる。
-</p>
-<!--layout:id=ph-->
-<p>
-　米国で言うと、Sprint、Verizon、U.S. Cellularの各社が販売するiPhoneと、SIMロックフリー版のiPhoneは、Qualcommの「X16」を搭載している。T-MobileとAT＆Tが販売するiPhoneは、Intelの「XMM 7480」だ。最大の違いは、QualcommのX16はCDMAとGSMの両ネットワークをサポートしているのに対し、IntelのXMM 7480はGSMネットワークのみをサポートしていることだ。
-</p>
-<p>
-　こうした中、イスラエルのITニュースサイトCTechが2018年7月4日、iPhoneの2020年モデルのモデムチップに関する記事を掲載した。米Appleは同モデルに、Intelが開発中のモデムチップ「Sunny Peak」（開発コード名）を採用する計画だったが、それを取りやめたという内容だ。ただし、CTechは当初、Sunny Peakは5G／Wi-Fi／Bluetoothのモデムチップだと説明していたのだが、後で記事を訂正し、実際には5Gは関係なく、Wi-FiとBluetoothのみだとした。
-</p>
-<p>
-　そのような訂正もあったが、iPhoneが搭載する通信モデムチップについて考えてみたい。一般ユーザーも、モデムチップのメーカーを気にすべきだろうか。メーカーによって何か違いがあるのだろうか。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070900526/?ST=cm-hardware&P=2">モデムチップがもたらす違い</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070900526/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070900526/?ST=cm-hardware&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070900526/?ST=cm-hardware&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/070900526/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 09 Jul 2018 11:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Dignity Health、ITスタッフの思いやりと熱意の背景は（前）（Dignity Health、ITスタッフの思いやりと熱意の背景は）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/070200151/070200001/</link>
 			<description><![CDATA[<div>
@@ -1154,6 +1111,44 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 31 Jul 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google、エッジ向けの極小チップとサービスでIoT対応を強化（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/073100453/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Googleは、先日のテクノロジーカンファレンス「Google Cloud Next '18」で、エッジネットワークやIoTデバイスで行う処理の強化について、2つの発表を行った。エッジでの機械学習や分析能力を、ソフトウエアとハードウエアの両面で強化する。IoTデバイスがますます増える中、生成されるデータへの対応力を高めることを狙いとしている。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/073100453/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Getty Images</div>
+</div>
+<p>
+　発表の1つは「Cloud IoT Edge」だ。Googleのクラウドを基盤とするIoTプラットフォームの機能をエッジネットワークまで拡大する。もう1つは、IoTデバイスに搭載する小型チップ「Edge TPU」だ。IoTデバイスで収集したデータを、伝送前にその場で処理できる。
+</p>
+<p>
+　エッジコンピューティングは、IoTのエンドポイントのすぐ近くに処理用のコンピューターを配置するアーキテクチャーだ。データをはるばるデータセンターに送らなくても、エンドポイントの近くで分析や処理を行える。IoTの展開手法として将来性に優れたモデルだ。特に、レイテンシーに関する要件が厳しい用途では有望である。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/073100453/?ST=cio-cloud&P=2">だが、米調査会社451ResearchでIoTを...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/073100453/?ST=cio-cloud&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/073100453/?ST=cio-cloud&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/073100453/?ST=cio-cloud&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/073100453/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 31 Jul 2018 10:40:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
