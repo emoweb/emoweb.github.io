@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>エンビプロHDがRE100、リサイクル業界で世界初</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/072511330/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Wed, 25 Jul 2018 07:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>岐阜大、再エネと水素による地産地消型システムの研究拠点</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/072511331/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -237,6 +231,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/031400070/073100071/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Tue, 31 Jul 2018 14:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>IBM Cloudの「3省4ガイドライン」対応リファレンス</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/073111350/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　日本IBMは2018年7月31日、いわゆる「<a href="https://tech.nikkeibp.co.jp/dm/atcl/word/15/327920/052300024/?ST=health" target="_blank">3省4ガイドライン</a>」へのIBM Cloudの対応状況を示した「医療機関向けIBM Cloud IaaSクラウドサービス対応セキュリティリファレンス」が公開されたと発表した。同リファレンスは、三菱総合研究所が調査・公開した。これにより、日本IBMはAI技術や医療業界向けソリューションを含むクラウドサービスの提供を加速するとしている。</p><p>　3省4ガイドラインは、電子化された診療情報をクラウドサービスを利用して外部保存したり、医療情報システムを構築・運用したりする場合に準拠することが求められる、厚生労働省・総務省・経済産業省が公開しているガイドラインの総称。今回のリファレンスは、主に医療機関・SI事業者などが医療情報システムをIBM Cloud IaaS上に構築・利用する場合を想定して、3省4ガイドラインの各項目に対するIBM Cloud IaaSの対応状況を調査したものである。</p><p>　日本IBMは、1995年から電子カルテを中核とする統合医療情報システム「IBM CIS/CIS＋ソリューション」などの医療向けソリューションを国内の主要な大学病院やグループ病院に提供してきた。IBM Cloudは、IBM CISソリューションを運用する藤田保健衛生大学病院が電子カルテデータの災害対策用バックアップシステムとして採用し、2018年7月31日から運用を開始した。また、同社のビジネス・パートナーであるミナリスの統合型医療情報システム基盤（病院向け電子カルテシステム）や、ナイスの医事会計システムのレセプトビュー機能などがすでにIBM Cloudを採用している。</p><p>　日本IBMとしては、医療・ヘルスケア業界のユーザーにおけるクラウド需要が今後さらに高まると考え、IBM Cloudの安全性やプライバシー管理に関する第三者の調査を依頼したという。今後、IBM Watson API、データ分析ソリューションなどIBM Cloud経由で利用可能なサービスを組み合わせて提案していくことで、医療業界の顧客の先進的なIT活用を一層支援していくとしている。</p></div>]]></description>
+			<pubDate>Tue, 31 Jul 2018 17:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
