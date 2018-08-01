@@ -5,51 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d01</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>英NHS Digital、さらなるセキュリティ強化を目指しIBMと提携（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/071000447/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　英国民保健サービス（NHS）の保健医療システムを扱う機関である英NHS Digitalは、CSOC（サイバー・セキュリティ・オペレーション・センター）の脅威インテリジェンス強化に関して、米IBMと提携を結んだことを発表した。契約額は3000万ポンド。NHSは2017年5月にランサムウエア「WannaCry」の被害に遭い、一部のシステムが停止に追い込まれた。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071000447/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Magdalena Petrova</div>
-</div>
-<p>
-　CSOCのオペレーション責任者であるChris Flynn氏によると、IBMとの提携は、WannaCryのようなインシデントの再発を直接的に防ぐことよりも、NHSのデータセキュリティ能力を継続的に強化するという側面が大きい。
-</p>
-<p>
-　IBMとの契約期間は3年間。同社の技術的なノウハウをCSOCに取り入れて、脅威の監視、検出、対応の能力を高めるほか、IBMの脅威インテリジェンスチーム「X-Force」も活用する。
-</p>
-<p>
-　契約に至るまでの経緯はこうだ。NHS Digitalは2015年、脅威や大規模インシデントのマネジメントと監視を一元的に扱うチームとしてCareCERTを設立した。これは英BTとの提携によるものだった。その後、BTとの契約満了を受けて、NHS Digitalは2017年12月に、新たな契約に向けた行動を開始した。基本的にはそれまでの取り組みを継続しつつ、新しい技能を加えることを目指したという。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071000447/?ST=cio-security&P=2">Flynn氏によると、入札に参加した企業各社は全...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071000447/?ST=cio-security&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071000447/?ST=cio-security&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071000447/?ST=cio-security&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071000447/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Tue, 10 Jul 2018 10:35:13 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n01</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>AIは新たなルネサンスをもたらすか（中）（AIは新たなルネサンスをもたらすか）</title>
@@ -1160,6 +1119,45 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 01 Aug 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>WindowsのDaaS化で従来のPCは終焉か（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/080100535/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　この30年以上、PCといえば主にWindowsマシンだと我々は認識し、そのマシンを所有し、管理してきた。それが永遠に変わろうとしている。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080100535/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　今回取り上げるのは、米Microsoftが我々の意に反してWindows 7から10への早急な移行を強制しているという話ではない（同社はその方法を色々と編み出してはきたが）。従来型デスクトップとしてのWindowsプラットフォームを捨て去ろうとしているという話である。
+</p>
+<p>
+　Microsoftは、Windows 10に代えて「Microsoft Managed Desktop」というものを導入する準備を進めている。DaaS（Desktop as a Service）を提供しようというのだ。利用者は、Windowsを所有せず、月決めで「レンタル」する。
+</p>
+<p>
+　Windows向けのDaaSはこれが初めてではない。米Citrix Systemsや米VMwareは、以前からDaaS製品を販売してきた。Microsoftもはるか昔からリモートデスクトップサービス（旧称ターミナルサービス）を手がけてきた。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080100535/?ST=cm-software&P=2">MicrosoftManagedDesktopは新しいアプローチ...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080100535/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080100535/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080100535/?ST=cm-software&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080100535/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 01 Aug 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
