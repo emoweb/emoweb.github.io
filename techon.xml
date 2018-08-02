@@ -5,18 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>関川村、木質バイオマス発電の導入を「断念」</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/072711341/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Fri, 27 Jul 2018 14:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>診療材料5万点をRFIDで管理、大阪国際がんセンター</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/event/15/070900169/072600015/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><div class="bpimage_right" style="width:240px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/072600015/?SS=imgview_ndh&amp;FD=-1349146373" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/072600015/sato1.jpg?__scale=w:230,h:172&amp;_sh=0c80f30ef0" width="230" height="172" alt=""></a></div><div>診療材料にRFIDラベルを貼り付け</div><div>クリックすると拡大した画像が開きます</div></div><p>　小西医療器とサトーヘルスケアは、医療機関内の診療材料を非接触ICタグ（RFID）で管理するシステムを構築し、「国際モダンホスピタルショウ2018」（2018年7月11～13日、東京ビッグサイト）に出展した。大阪国際がんセンターが、2018年6月下旬に試験導入した。</p><p>　医療機関では多数の診療材料をストックし管理する必要があり、例えば手術では平均して1000点ほどの診療材料を用意する。これらの準備や使用記録、在庫管理はこれまで手作業によることが多く、検品や棚卸しの負担も大きかったという。</p><p>　今回のシステムでは、使用期限やロット番号の情報を埋め込んだRFIDラベルを診療材料一つひとつに貼り付ける。診療材料の管理を電子化することで、在庫管理の正確性向上や検品・棚卸しの負荷軽減、安全性向上などの効果を見込む。</p><p>　大阪国際がんセンターへの導入例では、同センターの診療材料や医薬品などの管理を担う小西医療器が、サトーヘルスケアと協力。常時ストックされる約5万点の手術用診療材料の全品をRFIDで管理するようにした。従来は2名による80分の作業が必要だった手術前検品を、1名による10分の作業で済ませられるといった効果を見込んでいる。</p></div>]]></description>
-			<pubDate>Fri, 27 Jul 2018 15:25:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>AIで転倒リスク予測、バランス計測と問診票から</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/event/15/070900169/072600014/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><div class="bpimage_right" style="width:240px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/072600014/?SS=imgview_ndh&amp;FD=-341315628" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/072600014/zerox1.jpg?__scale=w:230,h:172&amp;_sh=01d0250da0" width="230" height="172" alt=""></a></div><div>上方の深度センサーで頭の動きを計測</div><div>クリックすると拡大した画像が開きます</div></div><div class="bpimage_right" style="width:240px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/072600014/?SS=imgview_ndh&amp;FD=-340392107" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/072600014/zerox2.jpg?__scale=w:230,h:173&amp;_sh=0c00c20700" width="230" height="173" alt=""></a></div><div>転倒リスクを予測する</div><div>クリックすると拡大した画像が開きます</div></div><p>　富士ゼロックスは、立位時の姿勢やバランスを計測し、問診結果と併せて転倒リスクを予測する技術を「国際モダンホスピタルショウ2018」（2018年7月11～13日、東京ビッグサイト）に出展した。ロコモティブシンドロームの早期発見や転倒骨折の予防を狙うもので、横浜市立大学医学部と共同で研究を進めている。</p><p>　姿勢やバランスの計測には、足圧センサーと深度センサーを使う。被験者は「開眼・両足立ち」「閉眼・両足立ち」「開眼・片足立ち」の姿勢をそれぞれ30秒間維持。その間の足裏の圧力を足圧センサーで、頭部の動きを深度センサーでそれぞれ計測する。</p><p>　計測結果から、姿勢やバランスの良し悪し、三半規管の機能、下肢筋力などを評価する。例えば、足圧と頭部がどのような軌跡を描いたかに応じて、立位時のバランスの良し悪しが点数化される。</p><p>　今後は、問診票の記載内容なども併せて機械学習（AI）で解析し、転倒リスクを高精度に予測できるようにすることを目指す。転倒リスクと認知機能の相関に関する研究も進めるという。</p></div>]]></description>
@@ -243,6 +231,18 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/080211362/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　精液成分の郵送検査キット「BUDDY CHECK（バディチェック）」を手掛けるダンテは、LINEを活用した妊活コンシェルジュサービス「famione（ファミワン）」を提供するファミワンと連携することを2018年8月2日に発表した。BUDDY CHECKで精液検査を受けた人が、検査後の妊活に関する相談をfamioneでできるような特典を同年9月1日から付与するという。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/080211362/?SS=imgview_ndh&amp;FD=-677827613" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/080211362/gaiyou.jpg?__scale=w:500,h:213&amp;_sh=0e008b0520" width="500" height="213" alt=""></a></div><div>サービスイメージ（プレスリリースより）</div><div>クリックすると拡大した画像が開きます</div></div></div><div class="bpimage_right" style="width:260px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/080211362/?SS=imgview_ndh&amp;FD=-1698259031" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/080211362/DANTTE02.jpg?__scale=w:250,h:197&amp;_sh=0ea0880750" width="250" height="197" alt=""></a></div><div>検査結果のイメージ</div><div>クリックすると拡大した画像が開きます</div></div><p>　BUDDY CHECKは、自宅で採精した検体を郵送で送れば、スマートフォンやパソコンで検査結果を確認できる郵送型検査である（<a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/070211255/?ST=health" target="_blank">関連記事</a>）。精子の数や運動性を見る一般的な精液検査とは異なり、精子の持久力などパフォーマンスに影響を与えるとされる精液中の「精しょう」成分に着目し、精液のサビ付きや男性ホルモンなどの値を測定する。</p><p>　famioneは、妊活に取り組む夫婦を支援するLINEを活用したサービスだ。妊活の進め方や病院の選び方に関して不妊症看護認定看護師などの専門家によるアドバイスを受けることができる。</p><p>　両社は連携によって、検査とアドバイスを組み合わせたサポートを実現し、不妊に悩む夫婦の支援を加速したい考えである。</p></div>]]></description>
 			<pubDate>Thu, 02 Aug 2018 18:45:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>複合医療設備や高級会員組織･･･NFL強豪の先端複合施設</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/column/15/052000044/071700063/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div><div><span>1</span></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/column/15/052000044/071700063/?P=2&amp;ST=SIO-bus">2</a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/column/15/052000044/071700063/?P=2&amp;ST=SIO-bus">次のページ ≫</a></div></div>]]></description>
+			<pubDate>Fri, 03 Aug 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ファンIDでビザ不要・鉄道無料、ロシアに学ぶおもてなし</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/column/15/110300017/080100113/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div><div><span>1</span></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/column/15/110300017/080100113/?P=2&amp;ST=SIO-bus">2</a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/column/15/110300017/080100113/?P=3&amp;ST=SIO-bus">3</a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/column/15/110300017/080100113/?P=4&amp;ST=SIO-bus">4</a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/column/15/110300017/080100113/?P=2&amp;ST=SIO-bus">次のページ ≫</a></div></div>]]></description>
+			<pubDate>Fri, 03 Aug 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
