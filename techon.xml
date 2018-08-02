@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>AIで転倒リスク予測、バランス計測と問診票から</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/event/15/070900169/072600014/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><div class="bpimage_right" style="width:240px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/072600014/?SS=imgview_ndh&amp;FD=-341315628" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/072600014/zerox1.jpg?__scale=w:230,h:172&amp;_sh=01d0250da0" width="230" height="172" alt=""></a></div><div>上方の深度センサーで頭の動きを計測</div><div>クリックすると拡大した画像が開きます</div></div><div class="bpimage_right" style="width:240px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/072600014/?SS=imgview_ndh&amp;FD=-340392107" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/070900169/072600014/zerox2.jpg?__scale=w:230,h:173&amp;_sh=0c00c20700" width="230" height="173" alt=""></a></div><div>転倒リスクを予測する</div><div>クリックすると拡大した画像が開きます</div></div><p>　富士ゼロックスは、立位時の姿勢やバランスを計測し、問診結果と併せて転倒リスクを予測する技術を「国際モダンホスピタルショウ2018」（2018年7月11～13日、東京ビッグサイト）に出展した。ロコモティブシンドロームの早期発見や転倒骨折の予防を狙うもので、横浜市立大学医学部と共同で研究を進めている。</p><p>　姿勢やバランスの計測には、足圧センサーと深度センサーを使う。被験者は「開眼・両足立ち」「閉眼・両足立ち」「開眼・片足立ち」の姿勢をそれぞれ30秒間維持。その間の足裏の圧力を足圧センサーで、頭部の動きを深度センサーでそれぞれ計測する。</p><p>　計測結果から、姿勢やバランスの良し悪し、三半規管の機能、下肢筋力などを評価する。例えば、足圧と頭部がどのような軌跡を描いたかに応じて、立位時のバランスの良し悪しが点数化される。</p><p>　今後は、問診票の記載内容なども併せて機械学習（AI）で解析し、転倒リスクを高精度に予測できるようにすることを目指す。転倒リスクと認知機能の相関に関する研究も進めるという。</p></div>]]></description>
-			<pubDate>Fri, 27 Jul 2018 15:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>常に驚き提供、Jリーグ名物企画者がオリパラで仕掛けるモノ</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/column/15/110300017/072600111/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div><div><span>1</span></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/column/15/110300017/072600111/?P=2&amp;ST=SIO-tec">2</a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/column/15/110300017/072600111/?P=3&amp;ST=SIO-tec">3</a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/column/15/110300017/072600111/?P=2&amp;ST=SIO-tec">次のページ ≫</a></div></div>]]></description>
@@ -243,6 +237,18 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/column/15/110300017/080100113/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div><div><span>1</span></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/column/15/110300017/080100113/?P=2&amp;ST=SIO-bus">2</a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/column/15/110300017/080100113/?P=3&amp;ST=SIO-bus">3</a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/column/15/110300017/080100113/?P=4&amp;ST=SIO-bus">4</a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/column/15/110300017/080100113/?P=2&amp;ST=SIO-bus">次のページ ≫</a></div></div>]]></description>
 			<pubDate>Fri, 03 Aug 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>焼酎粕をメタン発酵、宇佐市でバイオガス発電所が稼働</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/080311364/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 03 Aug 2018 06:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIで診療の優先度を推測、慶応医学部と富士通</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/080211363/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　慶応義塾大学医学部の研究グループと富士通は、診療支援のためのAI技術を開発した。検査結果や検査報告書が出た時点で優先度をAIが推測し、担当医に通知する診療支援が可能になるという。適切な対処を迅速に行う医療体制をサポートすることを狙う。</p><p>　慶応医学部の研究グループは、坂口光洋記念講座（システム医学）の教授 洪繁准氏、放射線科学（診断）の助教 橋本正弘氏らのメンバー。次の3つの研究テーマを掲げて研究開発を行っている。すなわち、（1）医師が記載した自然言語から治療などの緊急性を分類、（2）画像解析から新たな診療指標を確立、（3）臨床データの時系列解析による、薬剤の副作用を回避するための最適な服薬法の予測、新規バイオマーカーの探索、である。</p><p>　今回発表した研究では、放射線科医が読影した画像検査報告書のテキストデータに、自然言語処理と機械学習が可能なAI技術を適用した。具体的には、医療分野特有の表記揺れに対応するため、意味を持つ最小単位で分割する形態素解析技術やデータクレンジング手法などを用いた。また、症状の有無を文章のかかり受け関係から判断し、そこから説明変数としてキーワードなどを抽出する技術を適用した。</p><p></p><div><div class="bpimage_center" style="width:400px;"><div><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/080211363/Keio-Fujitsu20180802.png" width="400" alt="" title=""></div><div>診療支援に適用したAI技術と活用の流れ</div></div></div><p>　これらの技術で前処理した医師の所見と、それに対する入院依頼などに関する医師の対応について機械学習を適用し、新規の症例（入力データ）に対してどのような医師の対応が必要かを分類する学習済モデルを開発した。</p><p>　今回の研究の応用により、画像検査報告書などの内容からAIが緊急性を分析し、治療を優先すべき検査結果を主治医に通知する診療支援ができ、適切かつ迅速な対応が可能になるとしている。今後、機械学習の精度を高め、医療現場での実用化に向けた検証を行っていく。同時に、学習済モデルのAPI化を進めることで電子カルテシステムとの連携を図っていく予定だという。</p></div>]]></description>
+			<pubDate>Fri, 03 Aug 2018 07:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
