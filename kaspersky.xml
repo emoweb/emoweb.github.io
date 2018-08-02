@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>スパムとフィッシング：人の心理につけ込むサイバー脅威</title>
-			<link>https://blog.kaspersky.co.jp/spam-phishing-description/20780/</link>
-			<description><![CDATA[スパムメールとは？フィッシングメールとは？対策はどうしたらいい？カスペルスキーのセキュリティ エヴァンゲリスト、保科貴大が解説します。]]></description>
-			<pubDate>Tue, 17 Jul 2018 06:00:59 +0000</pubDate>
-		</item>
-		<item>
 			<title>トロイの木馬Rakhni：攻撃は暗号化か、マイニングか</title>
 			<link>https://blog.kaspersky.co.jp/rakhni-miner-cryptor/20733/</link>
 			<description><![CDATA[2013年に存在が確認された暗号化型ランサムウェアRakhniが、Moneroのマイニングに手を広げたようです。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/coinvault-in-court/20813/</link>
 			<description><![CDATA[当社の協力により逮捕された初期の暗号化型ランサムウェアの作成者に対する裁判がオランダで行われました。]]></description>
 			<pubDate>Tue, 31 Jul 2018 01:00:03 +0000</pubDate>
+		</item>
+		<item>
+			<title>PowerGhost: 存在をつかめないマイニングに注意</title>
+			<link>https://blog.kaspersky.co.jp/powerghost-fileless-miner/20964/</link>
+			<description><![CDATA[企業ネットワークのワークステーションやサーバーに感染するファイルレスマルウェアが観測されています。]]></description>
+			<pubDate>Thu, 02 Aug 2018 01:00:26 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
