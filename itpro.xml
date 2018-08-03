@@ -5,51 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d03</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ビットコインの暴落でハイエンドGPUの価格も下落（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/071200448/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　ゲーム用のハイエンドグラフィックボードは、その処理能力の高さから、仮想通貨のマイニングリグ（マイニング専用コンピューター）には欠かせない。2017年の終わりから2018年の初めにかけて、ビットコインやイーサリアムなどの仮想通貨が空前の高値を付けたことで、こうしたグラフィックボードがかなりの品薄になった。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071200448/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: NVIDIA</div>
-</div>
-<p>
-　だが、ここへ来て流れが逆転しているらしい。仮想通貨相場の暴落を受けて、グラフィックボードも価格が下がり、供給が増えているようだ。
-</p>
-<p>
-　米調査会社Jon Peddie Researchのデジタルメディア担当マネージャー、C. Robert Dow氏は次のように説明する。「仮想通貨の価格が下がる中で、特定用途向けチップも同様に下がると我々は予測している。マイニングリグの稼働には結構なコストがかかる。仮想通貨の価格が下がると、マイニングリグの運用者たちは、コストの一部を埋め合わせようと考えて、拡張ボードを中古市場で処分する」
-</p>
-<p>
-　同社の調べによると、2017年に仮想通貨のマイナー向けに販売された拡張ボードは300万個以上、額にして7億7600万ドル相当だった。その中で最も大きな割合を占めたのは米AMDだ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071200448/?ST=cio-consumerit&P=2">2017年末から2018年初頭にかけて、ハイエン...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071200448/?ST=cio-consumerit&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071200448/?ST=cio-consumerit&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071200448/?ST=cio-consumerit&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071200448/?ST=cio-consumerit&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Thu, 12 Jul 2018 11:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n03</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>AIは新たなルネサンスをもたらすか（下）（AIは新たなルネサンスをもたらすか）</title>
@@ -1174,6 +1133,44 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 03 Aug 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ファイルレス攻撃が急増中、McAfee Labsが指摘（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/080300536/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　サイバー犯罪者がコンピューターや企業ネットワークに侵入する手口として、マルウエアの実行ファイルを外部から送り込んで発症させる従来の手法に代わり、Windowsの正規の実行プログラムを利用したファイルレス攻撃が増えつつある。米McAfeeの研究機関McAfee Labsの最近の発表から、そのような傾向が読み取れる。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080300536/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Boarding1now | Dreamstime.com</div>
+</div>
+<p>
+　ファイルレス攻撃は、ユーザーのコンピューター上に実行ファイルをインストールしないため、攻撃された時の検知が非常に難しい。
+</p>
+<p>
+　McAfee Labsによると、「CactusTorch」というファイルレス攻撃の脅威が急増している。CactusTorchは、Windowsシステム上で独自のシェルコードを実行できる。成功の度合いと検出の回避という点で、利用が急速に増えているとのことだ。
+</p>
+<p>
+　CactusTorchは、DotNetToJScriptという手法を利用して、悪質な.NETアセンブリをメモリーから直接読み込んで実行する。.NETアセンブリは、DLLやEXEなど、アプリケーションのデプロイの最小単位である。この手法では、アセンブリのどの部分も、ハードディスクには書き込まれない。したがって、従来型のファイルスキャナーでは検出されない。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080300536/?ST=cm-software&P=2">DotNetToJScriptの手法では、信頼されている正規の....</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080300536/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080300536/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080300536/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 03 Aug 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
