@@ -5,7 +5,7 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2018-08-05 16:09:08 +0900</title>
+			<title>2018-08-05 17:09:12 +0900</title>
 			<link> </link>
 			<description><![CDATA[<strong>gizmodo</strong><br/><p>#&lt;TypeError: no implicit conversion of Array into String&gt;
 in
@@ -19,7 +19,7 @@ in
 /data/src/rss_crawler/src/pipes/simple_pipes.rb:11:in `block (2 levels) in &lt;top (required)&gt;&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
-			<pubDate>Sun, 05 Aug 2018 16:09:08 +0900</pubDate>
+			<pubDate>Sun, 05 Aug 2018 17:09:12 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
