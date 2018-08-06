@@ -5,60 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Moto Modsで5Gに対応するスマホ「moto z3」　モトローラが発表
-</title>
-			<link>https://japanese.engadget.com/2018/08/03/moto-mods-5g-moto-z3/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/c4924c8258c64d4fbbc424145dc7aace/206569782/_MG_6229.jpg" />
-モトローラーは8月2日（米時間）、米キャリアVerizon向けの新端末moto z3、および世界初となる5G通信に対応した5G moto modを発表しました。
-
-まずmoto z3ですが、moto zシリーズ共通のMoto Mods対応のため、従来から端末サイズ自体は大きく変わっていません。ただしディスプレイサイズは6.01インチ（2160x1080）に大型化。正面下部にあった指紋センサは右側面に配置されています。
-
-
-
-この辺り、一足早く発表されたmoto z3 playと同じに見えます。というより、外観は寸法を含めまったく同じです。
-
- 
-モトローラがmoto Z3 Playを海外発表。6インチに大型化し指紋センサは側面に
-
-ただし、仕様は当然ながら異なっており、背面カメラは12MP（カラー）+12MP（モノクロ）のデュアル仕様（z3 playは12MP+5MP）。フロントカメラは8MP。
-
-SoCは一世代前のSnapdragon 835。RAM4GB、ストレージ64GBとハイエンド端末としてはやや見劣りする感もあります。なお、バッテリー容量は3000mAh。
-
-基本仕様は抑え気味なmoto z3ですが、最大の特徴は5G moto modへの対応でしょう。
-
-
-
-5G moto modはQualcommのX50 5Gモデムを搭載。通常よりもバッテリの消耗が激しくなるためなのか、これ自体に2000mAhのバッテリを搭載しています。
-
-
-
-5G通信に関してはカタールでサービスが開始しているものの、まだ接続可能な商用端末が無い状態。5G moto modを装着したmoto z3が世界初の商用5G端末となる可能性もあります。ただし、5G moto modの発売は2019年になるとのことです。
-
-Moto Modsなので、既存のZシリーズでも使えるのかが気になるところですが、装着自体は可能。ただし、ハードウェアが古いため、5Gのパフォーマンスを引き出すことはできないとのこと。代わりに、5G moto modにはX24 LTEモデムも搭載されており、LTEのパフォーマンスを改善できる可能性はあるようです。
-
- 
-参考：
-ミリ波帯でも都市をカバーできる──「5G」の懸念払拭、クアルコムがデモ（MWC 2018）
-
-なお、moto z3、5G moto modともに米Verizonの専売。moto Z3は8月16日に480ドル（約5万4000円）で発売となります。
-
-
-
- ]]></description>
-			<pubDate>Fri, 03 Aug 2018 00:30:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Google Glassで自閉症の子どもにコミュ力を。顔認識ソフト組み合わせ話し相手の感情を通知
-</title>
-			<link>https://japanese.engadget.com/2018/08/03/google-glass/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/7889c9141f12d8f66218fdc6b55f4cf6/206569830/GG.jpg" />
-Google Glassは2017年7月以来、法人向けに販路を絞ってその活用方法の創出に重点を置いています。そして、最新のトピックはこれを自閉症を持つ子どもたちに周囲のソーシャルな状況を理解させるための活用方法が見出されつつあるということです。
-
-科学誌Natureの関連誌npj Digital Medicineに掲載された報告書によると、Google Glassと顔認識ソフトウェアを組み合わせ、自閉症など発達障害を抱える子どもたちに、相手がいまどんな感情を持っているか...たとえばリラックスしているのか、怒っているのかといった情報を提供する治療的ルーチンを開発しました。
- ]]></description>
-			<pubDate>Fri, 03 Aug 2018 01:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    次期iPhoneに「イヤホンジャックアダプタ」が同梱されない？新たな証拠
 </title>
 			<link>https://japanese.engadget.com/2018/08/03/iphone/</link>
@@ -574,6 +520,40 @@ iPhoneで撮影した写真などは、オンラインストレージサービ�
  
  ]]></description>
 			<pubDate>Sun, 05 Aug 2018 17:45:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    交通量計測をドローンで　テラドローンが新システム開発
+</title>
+			<link>https://japanese.engadget.com/2018/08/05/drone/</link>
+			<description><![CDATA[     <img src="https://prtimes.jp/i/20194/58/resize/d20194-58-107742-0.jpg" />
+
+テラドローンは、ドローンで交通量を計測するシステムを発表しました。一般的なドローンを用いて空中でビデオ撮影することで、低コストかつ自動的に交通量計測を実現するとしています。
+
+この新システムでは、ドローンで無人かつ広域の交通量計測が可能。また、AIによる自動認識ソフトウェアを活用し、車や人の速度・走行軌道・車種ごとの交通量など、幅広いデータを取得できるといいます。
+
+従来、人による交通量計測では高コストで情報量が少なく、また定点カメラを用いた場合でも、広域でも計測ができず、さらに設置コストが高いなどの課題がありました。ドローンによる計測は、それら課題を解決できるとうたいます。
+
+「交通量調査にかかっていた人件費を大幅に削減でき、これまでにない広域での交通量計測を実現することができます。今後は、人口流動のデータ取得とマーケティングへの利活用も視野に入れた本システムの開発を行います」（テラドローン）
+
+
+
+同システムは年内リリースに向け、クラウドベースでの運用を目指し開発中。国内の建設コンサルタントや調査会社と協力し、普及を目指すとしています。
+ ]]></description>
+			<pubDate>Sun, 05 Aug 2018 20:51:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Googleマップのタイムライン使ってる？ 旅行のルートは後から見返せば2度おいしい：Google Tips
+</title>
+			<link>https://japanese.engadget.com/2018/08/05/google-2-google-tips/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/94f6e2166e7003238ccca62385f98520/206563199/0.JPG" />
+
+Googleマップには、過去に訪れた場所やルートを地図で見返せる機能「タイムライン」が備わっています。移動手段や距離などの詳細のほかに、その時に撮影した写真も記録されるため、日々の生活をデジタルデータとして残すライフログとしても優秀。第三者には非公開なので、プライバシーの点においても安心です。
+
+今回は、iPhone 8を使って「タイムライン」機能についてご紹介します。なお、Android端末でも操作方法は同じです。
+
+<p><a href="https://japanese.engadget.com/gallery/-574/" title="タイムラインで地図に履歴を残す">【ギャラリー】タイムラインで地図に履歴を残す (7枚)</a></p>
+ ]]></description>
+			<pubDate>Sun, 05 Aug 2018 21:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
