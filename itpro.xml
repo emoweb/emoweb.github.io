@@ -5,47 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d07</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Google Chrome、Spectre対策でメモリー使用量が1割増加（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/071700449/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　現代のCPUに潜んでいる重大な脆弱性「Meltdown」「Spectre」は、今後長きにわたって業界全体に影響を及ぼすことになりそうだ。こうした中、米GoogleのWebブラウザー「Chrome」で付随的被害が生じた。Spectre対策としてChrome 67からデフォルトで有効化された「サイト分離（Site Isolation）」という仕組みによって、メモリー使用量が10～13％増えたという。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071700449/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Image: Michael Homnick</div>
-</div>
-<p>
-　GoogleのCharlie Reis氏は、2018年7月11日付けの公式ブログ記事で次のように説明している。「サイト分離では、Chromeが生成するレンダラープロセスが増える。これはパフォーマンスのトレードオフを伴う。プラス面としては、一つひとつのレンダラープロセスが小さく、存続時間が短くなり、内部での競合も減る。しかし一方で、プロセスの数が増えることにより、実際のワークロードでは、全体で約10～13％のメモリーオーバーヘッドが生じる。当チームは、この動作を最適化することに引き続き力を注ぎ、今後もChromeが安全かつセキュアなブラウザーであり続けられるようにする」
-</p>
-<p>
-　メモリーを食いまくるという評判と戦っているブラウザーだけに、パフォーマンスへの影響はかなり痛いが、それでもこの対策には価値がある。Spectreを利用する攻撃では、カーネルメモリー領域内で保護されているデータを読み取られる恐れがあり、パスワードや暗号鍵など、パソコン上で扱った機密データが漏れかねない。そうなったら実に深刻だ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071700449/?ST=cio-security&P=2">サイト分離の仕組みは、MeltdownとSpec...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071700449/?ST=cio-security&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071700449/?ST=cio-security&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/071700449/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Tue, 17 Jul 2018 11:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n07</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>クラウド導入の成功に欠かせないクラウドアーキテクトとは（前）（クラウド導入の成功に欠かせないクラウドアーキテクトとは）</title>
@@ -1176,6 +1139,42 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 07 Aug 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Armの新しいIoTプラットフォーム「Pelion」、汎用性が売り（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/080700537/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　Armベースのチップは、車やデジタルサイネージから、スマートフォン、スーパーコンピューターに至るまで、広く浸透している。英Armが新たに発表した「Pelion IoT Platform」は、まさに同社が手がけるのにぴったりのIoTプラットフォームだ。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080700537/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Getty Images</div>
+</div>
+<p>
+　Pelion IoT Platformの最大のセールスポイントは汎用性だ。「あらゆるデバイス、あらゆるデータ、あらゆるクラウド」に対応できると同社はうたう。現在の市場には、特定の業種に的を絞ったソリューションがあふれている。例えば、米General Electric（GE）や独Siemensのように、インダストリアルIoT製品を手がける企業もあれば、医療、車両管理、農業などに狙いを定めたIoTプラットフォームを手がける企業もある。
+</p>
+<p>
+　Pelionは、エッジデバイス、データセンター、エンドポイントをカバーし、既存のエコシステムにデバイスを統合するが、照準はエッジにある。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080700537/?ST=cm-hardware&P=2">Pelionの実現を可能にした背景の1つは、エンタープライズデー...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080700537/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080700537/?ST=cm-hardware&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080700537/?ST=cm-hardware&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080700537/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 07 Aug 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
