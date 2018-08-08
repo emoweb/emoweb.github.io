@@ -11,44 +11,6 @@
 			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>ローコード開発プラットフォームQuick Baseとは（後）（ローコード開発プラットフォームQuick Baseとは）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/071000154/071000002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　事業部門の社員には、こんなツールがあれば毎日の業務が楽になるのに、というアイデアがたくさんある。例えば、資産管理ツールとワークフローを組み合わせて、インベントリに新しい資産を加える操作を制御したい、と思っているかもしれない。しかしIT部門は、モバイル、IoT、クラウド化など、デジタルトランスフォーメーションに関する取り組みに没頭している。事業部門からすると、ワークフローの日常的な不便についてIT部門に関心を寄せてもらうのは簡単ではない。</p>
-
-<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/071000154/071000001/" target="_blank">前回</a>から続く）</p>
-
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000154/071000002/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit：IDG</div>
-</div>
-
-<p>　Quick Baseはデータの共通リポジトリを基盤としていることから、コラボレーションツールやプロジェクトマネジメントツールにも利用できる。「コラボレーションを支えるうえで必要なものの1つは、信頼できる一元的なデータソースだ。Quick Baseなら、素早く開発したアプリケーションを、チームの利益となるような情報の収集に利用できる。そのうえで、集めたデータに対するクエリやレポート、コメントのための画面を用意する。そのような使い方は、Quick Baseではごく普通だ」とRymer氏は言う。</p>
-
-<p>　コラボレーションに対応する手法で、他のデータベースでも見られるのが、イベントに応じて作動するトリガーだ。データベースの値が変わった時に、チームのメンバーに通知を送ったり、ビジネスプロセスを開始したりといったものである。Quick Baseも先日、その種の動作を自動化できる機能を発表した。</p>
-
-<p>　だが、Quick Baseはプロセスやワークフローといった部分の能力をもっと高める必要があるとRymer氏は言う。「現状では、Quick Baseを使ってワークフローを構成するには、数多くのトリガーを定義する必要がある。『そういうのではなく、ワークフローの図式化ツールが欲しい』と話す人は多い。低コストで導入しやすく、シチズンデベロッパーに対応できるプロセスツールは、非常に大きなチャンスだ。QuickBaseはぜひとも、プロセスへの対応力をあらゆる形で高める必要がある。同社もそのことは認識している」</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000154/071000002/?ST=cm-software&P=2">Quick Baseの今後</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000154/071000002/?ST=cm-software&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000154/071000002/?ST=cm-software&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000154/071000002/?ST=cm-software&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/071000154/071000002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 19 Jul 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Windows Server／SQL Serverサポート延命措置、Azure移行が条件（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/071900450/</link>
 			<description><![CDATA[<div>
@@ -1175,6 +1137,12 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 08 Aug 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>母国語ニュースchと多言語防災をセットでアプリ化、訪日外国人の必需品目指す（メディアビジネス最前線）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/379554/073100032/</link>
+			<description><![CDATA[　スカパーJSATは、海外有力放送局の無料ライブストリーミングを集約しスマートフォンやタブレットで利用可能なアプリ「Portable News」の提供を2018年1月に開始した。]]></description>
+			<pubDate>Thu, 09 Aug 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
