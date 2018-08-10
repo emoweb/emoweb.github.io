@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d10</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Microsoft、Windows 10の品質更新プログラムの配信方法を1つ削減（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/072000530/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftは、Windows 10の品質更新プログラムに関して、3種類の配信方法のうち「デルタアップデート」の提供を来年2月以降は取りやめることを明らかにした。それよりサイズが小さい「エクスプレスアップデート」で代用できるとしている。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072000530/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Microsoft</div>
-</div>
-<p>
-　品質更新プログラムの配信方法には、サイズが大きい順に、フルアップデート、デルタアップデート、エクスプレスアップデートの3種類がある。このうちデルタアップデートが、2019年2月12日公開の月例パッチからは提供されなくなる。
-</p>
-<p>
-　デルタアップデートには、前月のアップデート以降に変更が加わったコンポーネントが含まれている。コンポーネントの中で変更があった個別のファイルだけでなく、コンポーネント全体が含まれることから、エクスプレスアップデートよりもサイズが大きい。
-</p>
-<p>
-　MicrosoftのWindowsチームで更新プログラムを担当するMike Benson氏が2018年7月11日の公式ブログ記事で説明した内容によると、エクスプレスアップデートのサイズは通常150M～200Mバイト程度であるのに対し、デルタアップデートは約300M～500Mバイトだ。つまり、エクスプレスアップデートの方が33～70％程度小さい。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072000530/?ST=cm-software&P=2">なぜMicrosoftは、サイズが小さいエクスプレスアップデート...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072000530/?ST=cm-software&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072000530/?ST=cm-software&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072000530/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 20 Jul 2018 11:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n10</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>6つのERPトレンド、AIやブロックチェーンなど（上）（6つのERPトレンド、AIやブロックチェーンなど）</title>
@@ -1169,6 +1131,46 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 10 Aug 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Firefox、サイトとの偶然の出会いを促す実験的機能を公開（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/081000457/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Mozillaは、「Firefox」の実験的機能をユーザーに試用してもらう「Test Pilot」の拡張機能の1つとして、「Advance」を新たに公開した。閲覧中のページや過去の閲覧履歴に基づいて、お勧めのサイトやページをサイドバーに表示するなどの機能を持つ。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/081000457/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: IDG</div>
+</div>
+<p>
+　FirefoxにAdvanceをインストールすると、ウィンドウの左側のサイドバーに、お勧めのサイトやページが表示されるようになる。このサイドバーは、「Read Next」「For You」という2つのセクションに分かれている。Read Nextセクションには、現在のタブで閲覧している内容にマッチすると判定されたページが表示され、For Youセクションには、ユーザーの閲覧履歴に基づくお勧めのページが表示される。
+</p>
+<p>
+　Mozillaによると、Advanceは、Webブラウジングという行為を完全に実用本位で捉えるのではなく、セレンディピティ（偶然の出会い）を取り戻すという考えが背景にある。Advanceの公開について告知するMozillaの公式ブログ記事では次のように説明している。「Advanceは、Firefoxのルーツに立ち戻り、人々がWebサーフィンを始める糸口となった体験をよみがえらせる。当時、World Wide Webは未踏の地で、新しい話題やアイデアをネット上で自由気ままに見つけられた」
+</p>
+<p>
+　お勧めのサイトやページを提示する処理には、米Googleの元エンジニア3人が立ち上げたスタートアップ、米Laserlikeのテクノロジーを利用している。「興味検索エンジン」とうたうLaserlikeは、ユーザーの閲覧履歴に基づいてお勧めを導き出す。Firefoxは、Advanceの拡張機能をインストールする前に、権限の許可について確認するダイアログボックスを表示し、ブラウザーからLaserlikeのサーバーにデータを送ることをユーザーに明確に認識させている。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/081000457/?ST=cio-appli&P=2">プライバシーを重要な売りの1つとしているFire...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/081000457/?ST=cio-appli&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/081000457/?ST=cio-appli&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/081000457/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Fri, 10 Aug 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
