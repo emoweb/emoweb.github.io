@@ -5,30 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    vSIM内蔵、1ボタン翻訳! 東京オリンピック向けな中華スマホ登場：山根博士のスマホよもやま話
-</title>
-			<link>https://japanese.engadget.com/2018/08/10/vsim-1/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/b2ac3db478963e72f0adeb85378f65cc/206578196/EG180802_01.jpg" />
-これまでも進化し続けてきたスマートフォン。ここ最近ではカメラの性能向上が著しく、まだまだ止まりそうにありません。とはいえ最先端モデルでは、各社ともにAIの搭載やスーパースローモーションといった主要機能では、横並びになりつつもあります。
-
-それでは、次のスマートフォンの進化はどのあたりになるのでしょうか？そんな答えを持った機種が、マイナーメーカーから出てきました。
- ]]></description>
-			<pubDate>Fri, 10 Aug 2018 08:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    2010年の今日、世界初となる2画面タッチパネル液晶搭載の「libretto W100」が発売されました：今日は何の日？
-</title>
-			<link>https://japanese.engadget.com/2018/08/10/2010-2-libretto-w100/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/39029beb10dc85cfdd2dd460cdbe97d1/206584228/00.jpg" />
-おもなできごと
-・1981年8月11日、種子島宇宙センターからN-IIロケットで「ひまわり2号」を打ち上げ
-・2009年8月11日、ソニーがワンセグを搭載したポータブルナビ「NV-U3DV」を発売
-・2010年8月11日、東芝が世界初のタッチ対応2画面ミニノート「libretto W100」を発売
-・2016年8月11日、リンクスインターナショナルがiPhone 6/6s用Bluetoothキーボード「K&eacute;Nero Thunderbird」を発売
- ]]></description>
-			<pubDate>Fri, 10 Aug 2018 16:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    将来iPhoneが電子パスポート代わりに？アップルの特許出願が明らかに
 </title>
 			<link>https://japanese.engadget.com/2018/08/10/iphone/</link>
@@ -520,6 +496,31 @@ Pixel 3/3 XLはGoogleの独自スマートウォッチや「Pixel Stand」、「
  
  ]]></description>
 			<pubDate>Mon, 13 Aug 2018 00:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    SIMハイジャック犯、仮想通貨アカウントから数十万ドルを強奪。2要素認証を悪用？
+</title>
+			<link>https://japanese.engadget.com/2018/08/13/sim-2/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/280e048786ce86ab6c99a242e1c3b951/206589183/SIMHijack.jpeg" />
+米フロリダ州の警察当局が、SIMハイジャックにより複数の州での犯行に関与した人物を逮捕したことが報じられています。
+
+被疑者の部屋からは、7つの州で7人の被害者を出したSIMカードが発見されたとのこと。身元の偽装や、仮想通貨アカウントから数十万ドルが盗まれるなど、被害額の大きさや犯行の手口が伝えられました。
+ ]]></description>
+			<pubDate>Mon, 13 Aug 2018 00:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Amazon Echo使ったリモート盗聴手法、ハッカーが発見。ただし悪用の可能性は低め
+</title>
+			<link>https://japanese.engadget.com/2018/08/13/amazon-echo/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/46e81dcec8fc36cbabd146d8979896c9/206589184/amecho.jpg" />
+
+ノートPCやスマートフォンについて回るセキュリティのリスクとして、まず思いつくのがカメラやマイクを使った盗撮/盗聴。日頃のセキュリティ対策をきちんとしておかなければ、何らかの脆弱性を突くマルウェア(を含むアプリ)によって、知らぬ間に日常生活を見聞きされてしまう可能性も、ゼロではありません。
+
+一方、普及機運が高まりつつあるスマートスピーカーの類には、これまでセキュリティに関する問題はあまり聞かれませんでした。しかし、こちらもインターネットにつながるマイクつきスピーカーである以上、悪意あるハッカー(クラッカー)に狙われるのは時間の問題...と思っていたところへ、Amazon Echoを使った盗聴に成功したという話が舞い込んできました。
+
+中国のハッカーグループは、第2世代Amazon Echoが備えるWebインターフェースの脆弱性と既知の問題を利用し、同じWiFiネットワーク内にある複数のEchoを連鎖的に乗っ取る手法を編み出したとのこと。
+ ]]></description>
+			<pubDate>Mon, 13 Aug 2018 01:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
