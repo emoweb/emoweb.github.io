@@ -5,17 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ChromebookがWindows 10とデュアルブートに？極秘プロジェクト「Campfire」が近日中に発表のうわさ
-</title>
-			<link>https://japanese.engadget.com/2018/08/13/chromebook-windows-10-campfire/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/580949adbeb48ce241f1a546a2065f8f/206589412/Campfire.jpeg" />
-GoogleがChromebookにつき、アップルのBootCampのようにWindows 10をデュアルブート可能とする「Campfire」なる極秘プロジェクトを進めている噂が報じられています。
-
-同社の旗艦端末であるPixelbookに関しては、Microsoftと協力してWindows 10を動かそうとしているとの観測がありました。開発コミュニテイサイトXDA-Developersがその背景を追跡した結果、アップルのBootCampを思わせる「Windows 10とのデュアルブート」がPixelbook以外でも実現可能性があるとの証拠が発見されたと伝えられています。
- ]]></description>
-			<pubDate>Mon, 13 Aug 2018 04:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    レノボ「最も薄いワークステーション」Thinkpad P1発表。17インチのThinkpad P72も
 </title>
 			<link>https://japanese.engadget.com/2018/08/13/thinkpad-p1-17-thinkpad-p72/</link>
@@ -473,6 +462,17 @@ Alder Hey病院では、Microsoftのパートナー企業であるBlack Marble�
 米MacRumorsによると、アップルはパフォーマンス上の問題があるために配信停止したと推測されるとのこと。実際にインストールしたユーザーから、アプリ起動のもたつきやフリーズなど、様々な不具合が伝えられています。
  ]]></description>
 			<pubDate>Tue, 14 Aug 2018 20:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Instagramにハッキング被害。数百人規模のアカウント乗っ取り、2要素認証も突破との報告も
+</title>
+			<link>https://japanese.engadget.com/2018/08/14/instagram-2/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?quality=100&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5184%252C3456%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttp%253A%252F%252Fo.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252F4af9bdba717e3491cc0606324370be9a%252F205546909%252FRTS1A6JI.jpeg%26client%3Da1acac3e1b3290917d92%26signature%3Dcdeacc6b272b74a877481f23c362af94dcb1b253&client=amp-blogside-v2&signature=4b01ea6e9f0cf33016289fa385fd783b9463792e" />
+
+画像共有SNSのInstagramで、ユーザーアカウントがハッキング被害に遭う事例が報告されています。ログインした状態で使用していると突然ログアウトされ、再びログインするとハンドル名、プロフィール画像、連絡先その他ユーザー情報がすべて書き換えられているとのこと。2要素認証を設定していてもアカウントを乗っ取られたとの報告もあります。
+ 
+ ]]></description>
+			<pubDate>Tue, 14 Aug 2018 22:50:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
