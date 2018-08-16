@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>世にも奇妙な情報セキュリティの取り組み</title>
-			<link>https://blog.kaspersky.co.jp/infosec-fun/20749/</link>
-			<description><![CDATA[パスワードが取り持つ出会い、人間様お断りのサイトなど、セキュリティについて考えさせられるちょっと変わった楽しいサイトを5つご紹介します。]]></description>
-			<pubDate>Wed, 25 Jul 2018 01:00:23 +0000</pubDate>
-		</item>
-		<item>
 			<title>インターネットでプライバシーを守るための10のヒント</title>
 			<link>https://blog.kaspersky.co.jp/privacy-ten-tips-2018/20771/</link>
 			<description><![CDATA[インターネットでプライバシーを保つための10のヒントをご紹介します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/mobile-malware-part-two/21226/</link>
 			<description><![CDATA[パート2では、スマートフォンやタブレットの利用者に深刻な損害を与えうるモバイルマルウェアについて検討します。]]></description>
 			<pubDate>Tue, 14 Aug 2018 01:00:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>KeyPass：無差別的なランサムウェア</title>
+			<link>https://blog.kaspersky.co.jp/keypass-ransomware/21251/</link>
+			<description><![CDATA[ランサムウェア「KeyPass」が世界各地のコンピューターに感染を広げています。感染途中で遭遇するファイルをほぼすべて暗号化する性質を持つこのマルウェアは、無害に見えるインストーラーの形でコンピューターに入り込みます。]]></description>
+			<pubDate>Thu, 16 Aug 2018 04:30:08 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
