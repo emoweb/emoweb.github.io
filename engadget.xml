@@ -5,39 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    HoloLensが手術現場で採用へ。英小児病院がSurface Hubとともに導入を計画
-</title>
-			<link>https://japanese.engadget.com/2018/08/14/hololens-surface-hub/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/263f7f5b975c1d482dd16fbdafeaa981/206592121/dims.jpg" />
-英国最大規模の小児病院、Alder Hey病院が、心臓外科手術のような場面で、MicrosoftのHoloLensの使用を計画しているとMicrosoftが伝えています。
-
-Microsoftによると、Alder Hey病院では、医療関係者によるカンファレンスで情報共有のためにSurface Hubを、手術現場で患者の情報をすぐに把握するためにHoloLensを、それぞれ導入する計画とのこと。
-
-先日、後継機種となるSurface Hub2の国内投入も発表されましたが、現行のSurface Hubは84型4Kまたは54型フルHDのオールインワンWindows 10デバイス。ようするに巨大なSurfaceパソコンです。複数人による書き込みも行えるので、患者の情報を表示させながらの議論できる、カンファレンス向きのデバイスと言えます。
-
- 
-関連記事：
-Surface Hubは84インチ280万円、54インチ110万円で国内出荷。Windows 10搭載の「コラボレーションデバイス」
-Surfaceのお化け「Surface Hub 2」日本投入へ──MS平野社長
-
-
-もう一つのHoloLensは、現実の視界の中にグラフィックを重ねて表示させるMR(Mixed Reality：複合現実)ゴーグルです。手術中にも患者のCTスキャン画像や、Surface Hubを使って行われたカンファレンスの書き込みなども確認可能。情報確認のためにその場を離れる必要がなく、手を使わずに操作できるのが大きなメリットとして挙げられています。
-
-Alder Hey病院では、Microsoftのパートナー企業であるBlack Marbleと協力し、Surface HubとHoloLens用の手術ベースのユニバーサルWindowsプラットフォーム（UWP）アプリケーションを開発しているとのことです。
-
- 
-
-医療現場でのHololensの活用としては、昨年、医療用AR/MR機器を手掛けるScopisが、ホログラフィック・ナビゲーション・プラットフォームを発表しています。これは、脊髄手術において、脊髄に埋め込む椎弓根スクリューの位置を投影するなどして医師の手助けを行うもの。
-
-しかし、実際の現場にHoloLensが採用される例としては、Alder Hey病院が最初となるようです。
-
-手術のようなセンシティブかつクリティカルな環境でのHoloLensの使用は、かえって邪魔になるのではとも思うのですが、そこはデメリットよりも情報確認できるメリットが勝っているとの判断があるのでしょう。
-
-今後は、内視鏡手術などと同様に、AR/MRを活用した手術が増えていくのかもしれません。
- ]]></description>
-			<pubDate>Tue, 14 Aug 2018 05:40:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    米ネット投票システムに少年ハッカーが続々侵入。Def Conで8～16歳対象のハッキングコンテスト
 </title>
 			<link>https://japanese.engadget.com/2018/08/14/def-con-8-16/</link>
@@ -344,6 +311,17 @@ Charge3は、日本でも発売されているCharge2の後継モデル。画像
 彼によって、Vievu、Patrol Eyes、Fire Cam、Digital Ally、CeeScの5社の製品すべてに重大なセキュリティ上の欠陥が発見されたとWired誌は報じています。そのうち4つのモデルでは、この欠陥により、攻撃者が映像をダウンロードし、編集して、改ざんの証拠を一切残さずにアップロードすることも可能だとのことです。
  ]]></description>
 			<pubDate>Thu, 16 Aug 2018 03:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    コルタナとアレクサの相互連携機能、パブリックプレビューが公開。ただし米国のみ
+</title>
+			<link>https://japanese.engadget.com/2018/08/16/cortana-alexa/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/b797f58aaf425266414c8b6469badc44/206597356/Colabo.jpeg" />
+マイクロソフトのCortanaとアマゾンAlexaという、音声アシスタントの対応機器が相互連携するパブリックプレビュープログラムが米国にて公開されました。公開範囲は限定ベータテストよりも広く、早期アクセスを希望するユーザーが対象とされています。
+
+2つの音声アシスタントが相互連携する取り組みは昨年2017年夏に発表されていましたが、当初予定されていた年内の提供はならず。されど準備は進んでおり、今年2018年5月には連携デモが披露。そして今回のプレビューと、徐々に一般公開に近づいているかっこうです。
+ ]]></description>
+			<pubDate>Thu, 16 Aug 2018 04:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
