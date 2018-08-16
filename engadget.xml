@@ -5,17 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    iOS 12ベータ7、数時間後に配信停止。パフォーマンス上の問題のため？
-</title>
-			<link>https://japanese.engadget.com/2018/08/14/ios-12-7/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/fd73788e0d0821121cbacebd82521ff3/206592356/iOS12.jpeg" />
-アップルは開発者向けにiOS 12ベータ7をリリースしましたが、数時間後にOTA（On the Air＝Wi-Fiによる配布）での配信を停止。その後、Apple Developer Centerからも削除したと報じられています。
-
-米MacRumorsによると、アップルはパフォーマンス上の問題があるために配信停止したと推測されるとのこと。実際にインストールしたユーザーから、アプリ起動のもたつきやフリーズなど、様々な不具合が伝えられています。
- ]]></description>
-			<pubDate>Tue, 14 Aug 2018 20:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Instagramにハッキング被害。数百人規模のアカウント乗っ取り、2要素認証も突破との報告も
 </title>
 			<link>https://japanese.engadget.com/2018/08/14/instagram-2/</link>
@@ -327,6 +316,20 @@ Charge3は、日本でも発売されているCharge2の後継モデル。画像
 さらにトリップ氏の別のツイートには、Model 3に搭載される「再生バッテリーセル」のビフォーアフターの様子を示す写真が添付されています。
  ]]></description>
 			<pubDate>Thu, 16 Aug 2018 07:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Pie世代の軽量Androidは容量半分に。Android 9 Pie (Go Edition)が今秋リリース
+</title>
+			<link>https://japanese.engadget.com/2018/08/16/pie-android-android-9-pie-go-edition/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/f445bd33ee3866733af423ad9ae2dd8d/206597477/AndroidGo_01_s.jpg" />
+Googleが昨年のGoogle I/Oで発表した、Android Oneに代わる新興国向けの軽量版Android「Android Oreo (Go Editon)」。そのAndroid 9 Pieバージョンが今秋リリースされると発表しました。
+
+ 
+関連記事：「次の10億ユーザー」向け軽量版Androidをグーグルが発表、1GB RAMでも快適動作を狙う
+
+Go Editionは、RAMが1GB以下の端末でも快適に動作するよう調整されたAndroidの軽量版。この手のローエンドモデルではストレージ容量も少なくなっていますが、Android 9 Pie (Go Edition)ではOreoのGo Editionと比べ、必要容量を500MB削減。Go Editionではない通常のPieと比べると、ストレージ消費は半分ほどとなっています。
+ ]]></description>
+			<pubDate>Thu, 16 Aug 2018 07:30:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
