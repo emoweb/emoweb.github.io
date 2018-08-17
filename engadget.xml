@@ -5,38 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    視野角210度、視線追跡にも対応したVRヘッドセット「StarVR One」発表
-</title>
-			<link>https://japanese.engadget.com/2018/08/15/210-vr-starvr-one/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Feb9291b9ea1553a5924df61bba95a9ae%2F206595016%2FStarVR_One_03_white%2Bbackground.jpg&client=a1acac3e1b3290917d92&signature=1b0290b630095f8c08a88a4bfa41199f3905851b" />
-台湾のVR機器メーカーStarVRが、コンピューターグラフィックス関連イベントSIGGRAPH 2018にて水平210度の高視野角と視線追跡機能を備えたVRヘッドセット「StarVR One」を発表しました。StarVRは台湾Acerとスウェーデンのエンターテイメント関連企業Starbreezeによる合弁会社です。
-
-HTC VIVE ProやOculus GOなどのVRヘッドセットでは、視野角は110度ほどが一般的。それに対してStarVR Oneは水平210度、垂直130度の視野角を持ち、人の視野をほぼ100%カバーしているといいます。
-
-
-
-ディスプレイ自体は4.77インチ AMOLEDを2枚使用。解像度は1600万サブピクセルでリフレッシュレートは90Hz。
-
-眼球運動計測器最大手であるTobiiの視線追跡(アイトラッキング)技術を採用し、「Dynamic Foveated Rendering」に対応します。Dynamic Foveated Renderingは視線を合わせた場所のレンダリングを高品質に、焦点位置から遠いところほど解像度を落としてレンダリングの負荷とデータ量を削減する手法。5月にGoogleが発表したVR用高精細ディスプレイでも、同様の技術が採用されています。
-
- 
-関連記事：GoogleとLG、VR用の4.3型高精細ディスプレイを発表。解像度4800&times;3840、1443ppi
-
-
-
-
-
-StarVR Oneはスタンドアロン型ではなく、PCと接続して使用するヘッドセットで、ポジショントラッキングはSteamVRのTracking 2.0に対応するほか、光学トラッキングに対応したStarVR One XTもラインナップ。各種プラグインも用意され、用途に応じたトラッキングをツールを提供するとのこと。
-
-
-
-システムの最小要件は、Windows 10 64bit、メモリ16GB。Core i7-7700もしくはRyzen 7 2700X以上、グラフィックはNvidia GeForce GTX 1080。
-
-価格や発売日などの情報はプレスリリースに記載がありませんが、「StarVR Oneとともに、VR最後のフロンティアであるエンタープライズ市場を制する」との記述があることから、個人向けよりも商業施設や企業での利用を想定していることがうかがえます。
- ]]></description>
-			<pubDate>Wed, 15 Aug 2018 02:50:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    トランスルーセントなXboxワイヤレスコントローラー (ファントムブラック)発表。10月4日発売、7538円
 </title>
 			<link>https://japanese.engadget.com/2018/08/15/xbox-10-4-7538/</link>
@@ -338,6 +306,19 @@ GoogleアシスタントにGoogle Home、そしてAndroid 9 PieもAIを利用し
 <p><a href="https://japanese.engadget.com/gallery/-584/" title="海外渡航時に便利な時刻設定などの手順">【ギャラリー】海外渡航時に便利な時刻設定などの手順 (7枚)</a></p>
  ]]></description>
 			<pubDate>Thu, 16 Aug 2018 19:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    連続飛行25日間に。エアバスのZephyr Sがソーラーパワー航空機の飛行時間の最長記録を樹立
+</title>
+			<link>https://japanese.engadget.com/2018/08/16/25-zephyr-s/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/e41b5407061977615aec84054f9e9633/206592876/zaphyr.jpeg" />
+［Engadget US版より（原文へ）］
+
+フェイスブックとグーグルは、先日、インターネット接続サービスを提供するソーラーパワーによるドローンの開発から手を引いてしまいましたが、もっと経験が豊富なもうひとつの企業は、そのアイデアを実現させようとしています。
+
+エアバスは、Zephyr S HAPS（high altitude pseudo-satellite：高高度擬似衛星）が連続25日間の飛行を達成し、史上すべての航空機の中でもっとも長い飛行時間の記録を樹立したと発表しました。ひとつ前の世代となるZephyr試作機による、14日間の記録を書き換えました。
+ ]]></description>
+			<pubDate>Thu, 16 Aug 2018 20:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
