@@ -5,57 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n21</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Oracle、Nashornに代わるJavaScript実行手段としてGraalVMを推進（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/072400451/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　JDK（Java Development Kit）のJavaScriptエンジン「Nashorn」は、2018年9月に登場するJDK 11で非推奨となる予定だ。米Oracleはその代替手段として、多言語対応の仮想マシン「GraalVM」の使用を検討するよう開発者に勧めている。Oracleによれば、GraalVMはNashornよりも機能が優れ、Nashornからの移行を容易にするためのフラグも追加している。今後数年はNashornを廃止しない予定であることから、GraalVMへの移行を準備する時間は十分あると同社は説明している。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/072400451/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　GraalVMは、Nashornと同様に、JVM上でのJavaScriptの使用をサポートしているが、Java本体とは独立した存在だ。
-</p>
-<p>
-　Oracleは、Nashornと比べた場合のGraalVMのメリットとして、次のような点を挙げている。
-</p>
-<ul>
-<li>JavaScriptの標準の実装がより充実し、「ECMAScript 2016」「同 2017」の全機能と、「ECMAScript 2018」の多くの機能をサポートしている。
-</li>
-<li>サーバーサイドJavaScriptプラットフォーム「Node.js」をサポートし、Node.jsのほとんどのモジュールと互換性がある。
-</li>
-<li>JavaScript以外に、Python、R、Rubyなども実行できる。
-</li>
-<li>既存のJVMベースのエンジンよりもパフォーマンスに優れ、GraalVMコンパイラの高度な最適化を活用できる。
-</li>
-</ul>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/072400451/?ST=cio-appli&P=2">NashornからGraalVMへの移行を容易に...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/072400451/?ST=cio-appli&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/072400451/?ST=cio-appli&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/072400451/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Tue, 24 Jul 2018 11:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d21</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>6つのERPトレンド、AIやブロックチェーンなど（中）（6つのERPトレンド、AIやブロックチェーンなど）</title>
@@ -1145,6 +1098,54 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/379554/073100033/</link>
 			<description><![CDATA[　2018年7月13日、総務省「放送を巡る諸課題に関する検討会」では、NHKの常時同時配信や三位一体改革に向けた内容を加えた第二次取りまとめ案が示された。6月15日には、2017年10月から規制改革推進会議で議論されてきた放送を巡る規制改革について閣議決定されており、これで「放送の未来像」を巡る議論は一段落したといっていいだろう。]]></description>
 			<pubDate>Tue, 21 Aug 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>キャリアをステップアップする主なアジャイル資格（前）（キャリアをステップアップする主なアジャイル資格）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/080300162/080300001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　アジャイルはソフトウエア開発やプロジェクトマネジメントの様相を一変させた。組織横断的なチームのコラボレーションによって、反復型のプロセスでプロジェクトを段階的に進め、柔軟に対応していくことを重視する。現在では、多種多様な企業や組織がアジャイルの方法論を実践している。アジャイルに精通しているIT人材は引く手あまただ。リーン、スクラム、かんばん、大規模組織向けのSAFe（Scaled Agile Framework）など、アジャイルにはさまざまなフレーバーがあり、知識や習熟度を測るための認定資格も多い。この記事では、アジャイルの主な資格を8種類紹介する。自らの技能を証明し、キャリアをステップアップさせるのに役立つはずだ。</p>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/080300162/080300001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　今回取り上げる資格は次のとおりだ。</p>
+
+<ul>
+<li>PMI-ACP</li>
+<br>
+<li>APMG Internationalの認定資格</li>
+<br>
+<li>TwentyEighty Strategy Executionの認定資格</li>
+<br>
+<li>ICAgileの認定資格</li>
+<br>
+<li>ACIの認定資格</li>
+<br>
+<li>Scaled Agile Academyの認定資格</li>
+<br>
+<li>Scrum Allianceの認定資格</li>
+<br>
+<li>IAPMのCertified Agile Project Manager</li>
+</ul>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/080300162/080300001/?ST=cio-management&P=2">PMI-ACP</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/080300162/080300001/?ST=cio-management&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/080300162/080300001/?ST=cio-management&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/080300162/080300001/?ST=cio-management&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/080300162/080300001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 21 Aug 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
