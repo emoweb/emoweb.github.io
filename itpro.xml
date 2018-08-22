@@ -5,16 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d22</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>第192回 小池都政をどう見るか（その4）――都政改革の今後に向けて（上山信一の「続・自治体改革の突破口」）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/234646/070600049/</link>
-			<description><![CDATA[　前回に引き続き、私が2018年3月末まで務めた都政改革本部特別顧問として手掛けたことを総括したい。前回同様に、客観性を確保するため、知人との問答を要約した形でまとめた。]]></description>
-			<pubDate>Thu, 26 Jul 2018 05:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n22</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>知る人ぞ知るインド製ブラウザー「Epic」、その特徴は（後）（知る人ぞ知るインド製ブラウザー「Epic」、その特徴は）</title>
@@ -1154,6 +1148,47 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 22 Aug 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Salesforce、機械学習自動化ライブラリをオープンソースで公開（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/082200459/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Salesforce.comは、機械学習自動化ライブラリ「TransmogrifAI」をオープンソースで公開した。TransmogrifAIの技術は、同社のAIプラットフォーム「Einstein」でも使われている。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082200459/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Salesforce</div>
+</div>
+<p>
+　TransmogrifAIは、Scalaで開発された機械学習自動化ライブラリで、Apache Spark上で動く。顧客の行動の予測などで機械学習モデルを使う際に、数行のコードで自動化を実現できる。
+</p>
+<p>
+　TransmogrifAIのWebサイトでは次のように説明されている。「このライブラリの開発で主眼を置いたのは、機械学習の自動化を通じて機械学習開発者の生産性を高めること、そして、コンパイル時の型安全性やモジュラー性、再利用性を支えるAPIだ。自動化によって、手動チューニングのモデルに近い精度を実現しながらも、時間を100分の1程度に短縮できる」
+</p>
+<p>
+　SalesforceのEinsteinチームでデータサイエンス担当シニアディレクターを務めるShubha Nabar氏は、TransmogrifAIについて解説する長文の記事を、8月16日付けでMediumに投稿した。同氏は「今から3年前、Salesforceのプラットフォームで機械学習機能の構築に着手した時に、エンタープライズ規模の機械学習システムの構築はとりわけ大変だと我々は学んだ」と述べている。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082200459/?ST=cio-appli&P=2">Salesforceにとって、Einsteinの...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082200459/?ST=cio-appli&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082200459/?ST=cio-appli&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082200459/?ST=cio-appli&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082200459/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Wed, 22 Aug 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
