@@ -5,46 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d24</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Microsoft、Exchange Server 2019のプレビュー版を公開（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/072700533/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftは、オンプレミス環境用のサーバーソフトウエア「Exchange Server 2019」のパブリックプレビュー版をリリースした。正式版は今秋の発売を予定している。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072700533/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: REUTERS/Bogdan Cristel</div>
-</div>
-<p>
-　Exchange Server 2019のプレビュー版は、Office 2019のプレビュー版と同様に、「Office 365」の法人向けプランで提供されているクラウド版製品に以前から搭載されている機能のスナップショットだ。その意味では、Microsoftのオンプレミス版製品は、いわば二級品である。Office 365の利用者に提供されているクラウド版の機能には及ばないからだ。
-</p>
-<p>
-　Microsoftは、オンプレミス版よりもOffice 365に肩入れする姿勢を隠そうとしていない。Exchange Server 2019のプレビュー版登場を伝える文章は、まるでそのリリースを申し訳なく思っているかのような書きぶりだ。Exchange担当チームが2018年7月24日付けで公開したブログ記事には次のようにある。「当社の顧客にとってのエクスペリエンスとコストパフォーマンスという点で、Office 365が最良だと我々は確信しているが、引き続きオンプレミス環境にとどまらざるを得ない顧客もいることは理解している」
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072700533/?ST=cm-software&P=2">ブログ記事によると、ExchangeServer2019の新たな...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072700533/?ST=cm-software&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072700533/?ST=cm-software&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072700533/?ST=cm-software&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/072700533/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 27 Jul 2018 11:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n24</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>プロジェクトマネジメントの主な資格（上）（プロジェクトマネジメントの主な資格）</title>
@@ -1196,6 +1160,46 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 24 Aug 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Firefox、旧式アドオン廃止のロードマップが明らかに（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/082400460/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Mozillaは、旧式のアドオンが動作する「Firefox」のサポートを9月初めで終了することを発表し、旧式の拡張機能の打ち切りに向けたロードマップを明らかにした。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082400460/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: IDG</div>
+</div>
+<p>
+　Mozillaのアドオンコミュニティマネージャー、Caitlin Neiman氏は、2018年8月21日付けの公式ブログ記事で次のように表明した。「旧式のアドオンが動作する最後のバージョンであるFirefox ESR 52は、2018年9月5日でサポートを終了する」
+</p>
+<p>
+　Firefox ESR（Extended Support Release：延長サポート版）とは、機能更新の頻度が低いブラウザーを求めている法人ユーザーなどに向けて提供されているFirefoxだ。通常版のFirefoxが約6週ごとに機能更新を行っているのに対し、ESRの機能更新は年1回程度しかない。今回サポート終了が発表されたFirefox ESR 52は、2017年3月にリリースされた。今年5月には、後継のFirefox ESR 60が登場している。Mozillaは、ESR 60のリリース後も、52と60の両バージョンに対して、セキュリティ更新の定期マイナーアップデートを提供し、ユーザーが52から60に移行するための時間的猶予を与えていた。
+</p>
+<p>
+　Firefox ESR 52は旧式のアドオンに対応しているFirefoxの最後のバージョンであることから、Mozillaは、旧式のアドオンを拡張機能の配布ページから一掃する動きもすぐに始める予定だ。ブログ記事には、「addons.mozilla.org（AMO）で旧式のバージョンのアドオンを無効化するプロセスを9月に開始する」と説明がある。9月6日以降は旧式のアドオンの新規受け付けを行わず、10月初めには、旧式のすべてのバージョンのアドオンを無効化する。「それ以降は、該当する拡張機能をAMOでユーザーが見つけることはできなくなる」として、開発者に注意を促している。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082400460/?ST=cio-appli&P=2">この段階に至るまで、Mozillaはかなりの時間...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082400460/?ST=cio-appli&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082400460/?ST=cio-appli&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082400460/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Fri, 24 Aug 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
