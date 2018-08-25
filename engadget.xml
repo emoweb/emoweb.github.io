@@ -5,45 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ChromebookのLinuxアプリサポート、Pixel(2015)を含む古い機種は対象外に
-</title>
-			<link>https://japanese.engadget.com/2018/08/23/chromebook-linux-pixel-2015/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/92be3c3e259f66da846bd0213d904cfe/206612900/Campfire.jpg" /> Googleは5月に行われたGoogle I/O 2018で、Chrome OS上でLinuxアプリを動かせるようにすると発表していました。これまでもChrome OSではCroutonなどのツールを使い、Linuxを動作させることができましたが、それとは違い、Chrome OS自身がLinuxの仮想マシンを搭載し、Chrome OS上から直接Linuxアプリをインストール・起動できるようにするものです。
-
-実際に、開発バージョンのCanaryとDevチャンネル向けでは、すでにLinuxアプリのサポートが開始されているのですが、残念ながらすべてのChromebookが対象となるわけではないようです。
-
-Chrome OS上で動作するLinuxアプリは、保護されたコンテナ内で実行され、有害なソフトがChrome OSのメインシステムに干渉するのを防ぎます。このためにvsockというLinuxカーネルが採用する仕組みを使うのですが、これがLinuxカーネル3.14以前には適用できないとのこと。その他のセキュリティパッチ適用にも問題があり、3.14以前の古いカーネルを使うChromebookはLinuxアプリのサポート対象外になるそうです。
-
-Redditでまとめられていた、サポート対象外となる機種は下記の通り。
-
-AOpen Chromebase Mini (Feb 2017; tiger, veyron_pinky)
-AOpen Chromebox Mini (Feb 2017; fievel, veyron_pinky)
-ASUS Chromebook C201 (May 2015; speedy, veyron_pinky)
-Acer C670 Chromebook 11 (Feb 2015; paine, auron)
-Acer Chromebase 24 (Apr 2016; buddy, auron)
-Acer Chromebook 15 (Apr 2015; yuna, auron)
-Acer Chromebox CXI2 (May 2015; rikku, jecht)
-Asus Chromebit CS10 (Nov 2015; mickey, veyron_pinky)
-Asus Chromebook Flip C100PA (Jul 2015; minnie, veyron_pinky)
-Asus Chromebox CN62 (Aug 2015; guado, jecht)
-Dell Chromebook 13 7310 (Aug 2015; lulu, auron)
-Google Chromebook Pixel (Mar 2015; samus)
-Lenovo ThinkCentre Chromebook (May 2015; tidus, jecht)
-Toshiba Chromebookk 2 (Sep 2015; gandof, auron)
-
-GoogleのChroembook Pixel(2015)も対象外となるのがやや意外ですが、すでに3年前の機種となるので仕方がないことなのかもしれません。
-
-現行機種であればほぼ問題はなさそうですが、もしLinuxアプリを目当てにChromebookの購入を検討している人は、カーネルバージョンも気にしたほうが良さそうです。
-
- 
-関連記事：ChromebookがWindows 10とデュアルブートに？極秘プロジェクト「Campfire」が近日中に発表のうわさ
-
- 
-
- ]]></description>
-			<pubDate>Thu, 23 Aug 2018 17:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    ポケモンGO、9月は伝説の「エンテイ」が大発見報酬。ライコウ捕り忘れに注意
 </title>
 			<link>https://japanese.engadget.com/2018/08/23/go-9/</link>
@@ -521,6 +482,58 @@ Apple 京都オープン前先行動画レポ 8/25にはグッズの配布も
 
  ]]></description>
 			<pubDate>Sat, 25 Aug 2018 01:50:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    電子タバコ（加熱式・VAPE）最新事情まとめ～2018年夏～
+</title>
+			<link>https://japanese.engadget.com/2018/08/25/vape-2018/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/e4c93a0420e13de6211a4bd8e4085fdf/206618423/aww.jpg" /> 最近ではユーザーも増えつつあり、世間での認知度も高まってきている電子タバコ。煙草と言えば、ひと昔前は紙巻き一択だったのが、今では加熱式やVAPEといった選択肢が登場してきています。
+
+Engadget日本版では、IQOS（アイコス）やglo（グロー）、プルーム・テックなど、メジャーな製品のみならず、海外発のマニアックな製品なども取り上げてきました。本稿では製品だけでなく、電子タバコの最新事情も振り返りつつ、まとめてお届けします。
+IQOS互換機に「次世代ヴェポライザーの波」到来？加熱式タバコ「NOS」が凄い！（世永玲生）
+
+
+この「NOS heat not burn device」は、2014年創業のまだ若いメーカーの製品なんですが、かなりイケてます。海外ECだと85ドル前後で、アリババの卸価格ですと45ドルですので、日本での販売開始時は8980?9800円あたりだろうと想像すると、互換機の世界では中級機?高級機の価格帯。なので、そりゃそうだろって感じではあるのですが久しぶりに「おおっ」って思っちゃいました。（つづき）
+
+ 
+年内発売？連続吸い可能？ 新型iQOSはこうなる！？ 加熱式タバコの王者維持なるか（世永玲生）
+
+
+日本だと圧倒的なシェアを獲得している加熱式タバコ、IQOS（アイコス）。
+都内ですとIQOSのみ吸入可能な飲食店も広がるなど、僕の行動範囲でいうと、喫煙所にいる喫煙者の8割はIQOSを吸っている気がします。
+
+さて、IQOS愛用中の皆さんが持っている不満といえば、「連続で吸えない」こと。必ずと言っていいほどこの不満を聞くのですが、これらが解決した新型IQOSが出るかも知れないというニュースです。（つづき）
+
+ 
+サマソニ2018にIQOS専用スポットが出現。今後は夏フェスで紙巻きタバコが吸えなくなる？
+
+
+今年も日本各地で夏フェスが盛り上がるなか、「SUMMER SONIC 2018」が本日8月18（土）から明日8月19日（日）まで、千葉と大阪で開催されています。今回のサマソニでは、IQOSとコラボし専用の喫煙スペースやIQOSキットのレンタルが可能なスポットが設置されていると聞いて、さっそく現地に行ってきました。（つづき）
+
+ 
+IQOS互換の加熱式たばこ「jouz」が日本上陸、Ankerが技術支援：電脳オルタナティブ
+
+
+ジョウズ・ジャパンは、IQOSのヒートスティックが使用できる互換デバイス「jouz」を全世界に先駆けて、日本で発売することを発表しました。
+
+日本向け製品の第一弾として「jouz 20」と「jouz 12」の２製品がラインナップ。両製品は、IQOSのヒートスティックがそのまま使用できる互換機で、IQOSのようにポケットチャージャーを必要とせず、スティックタイプのデバイス単体で喫煙が可能です。（つづき）
+
+ 
+「コンビニで買えるVAPE」myblu発表。IQOS並に日本でもメジャーとなるか
+
+
+「ウエスト」や「ゴロワーズ」といったタバコブランドを販売する「インペリアル・タバコ・ジャパン」は、新型VAPE「myblu（マイブルー）」を日本で発売すると発表しました。（つづき）
+
+ 
+コンビニで買えるVAPE「myblu」レビュー。全フレーバーを試してみた：電脳オルタナティヴ
+
+
+新型VAPE「myblu」が、福岡県の一部ファミリーマートと、公式オンラインショップにて販売が開始されました。mybluは加熱式タバコと違い、ニコチンなどのタバコ成分が含有されないVAPE製品ということで、カジュアルに楽しめるのが特徴となっています。そこで、今回は全部で8種類あるフレーバーを試してみたのでレビューします。（つづき）
+
+ 
+
+ ]]></description>
+			<pubDate>Sat, 25 Aug 2018 03:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
