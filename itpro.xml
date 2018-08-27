@@ -5,41 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n28</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>サーバー仮想化の未来は（前）（サーバー仮想化の未来は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/072600158/072600001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　サーバー仮想化は、発想としてはシンプルながら、企業のデータセンターに極めて大きなインパクトを与えたテクノロジーの1つだ。</p>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/072600158/072600001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　1台の物理サーバー上で、1つのOSインスタンスと1つのアプリケーションを動かすのではなく、ハイパーバイザーと呼ばれるソフトウエアのレイヤーを追加することによって、複数のOSのインスタンスを走らせ、それぞれでワークロードを動かすというのが、サーバー仮想化の基本的な考え方だ。</p>
-
-<p>　こうした考え方の起源は、1960年代の米IBM製メインフレームの時代までさかのぼる。その後、2000年代初頭に米VMwareがx86サーバー向けの仮想化ソフトウエアを投入したことで、仮想化が普及した。それ以降、他のベンダーも独自のサーバー仮想化プラットフォームを開発し、仮想マシン（VM）のワークロードの展開・移動・管理を簡素化する高度な管理ツール、自動化ツール、オーケストレーションツールが、業界全体に広まった。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/072600158/072600001/?ST=cm-software&P=2">サーバー仮想化が登場する前の企業は、サーバースプロールに見舞われ...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/072600158/072600001/?ST=cm-software&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/072600158/072600001/?ST=cm-software&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/072600158/072600001/?ST=cm-software&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/072600158/072600001/?ST=cm-software&P=4">4</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/072600158/072600001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 31 Jul 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d28</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Google、エッジ向けの極小チップとサービスでIoT対応を強化（CIOニュース）</title>
@@ -1199,6 +1168,37 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 27 Aug 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>国を揺るがす脅威になり得るか、ディープフェイクの正体（前）（国を揺るがす脅威になり得るか、ディープフェイクの正体）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/081000164/081000001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　ディープフェイクとは、本物の映像や声をそっくりにまねた、偽の動画や音声のことだ。かつては、偽動画というと、米中央情報局（CIA）や英政府通信本部（GCHQ）の脅威研究情報合同部門（JTRIG）など、プロパガンダを展開する諜報機関や、あるいはハリウッドの特殊効果専門スタジオの独壇場だった。しかし現在では、ディープフェイク製作用のソフトウエアを誰でもダウンロードして、本物さながらの偽動画を片手間で作ることができる。
+</p>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　今のところ、ディープフェイクの例は、芸能人の顔とポルノスターの体を組み合わせた動画や、政治家におかしなことを言わせた動画を、アマチュアの愛好家が手がける域にとどまっている。しかし例えば、攻撃が差し迫っているという虚偽の緊急警報を流したり、偽のポルノ動画で誰かの結婚を破談に追い込んだり、つばぜり合いの選挙戦で波乱を起こすために特定候補者の偽の動画や録音を投票の数日前に投下したりといったことも、ディープフェイクで簡単に実現できてしまう。</p>
+
+<p>　これに不安を感じている人は大勢いる。フロリダ州選出の共和党上院議員で、2016年の大統領選にも出馬したMarco Rubio氏は、ディープフェイクを核兵器になぞらえたほどだ。ワシントンで7月に行った講演で、Rubio氏は次のように述べた。「かつては、米国に脅威を与えたいと思ったら、空母10隻、核兵器、長距離ミサイルが必要だった。現在では、米国のインターネットシステム、金融システム、送配電網や電力インフラに入り込めば事が足りる。そして最近では、本物そっくりの偽動画を製作できれば目的を果たせるようになりつつある。その偽動画が、わが国の選挙を揺るがすことが起こり得る。米国内を重大な危機に陥れ、深刻な弱体化をもたらすことが起こり得る」</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000001/?ST=cm-network&P=2">この言葉は、失意にゆがめられた政治的誇張表現なのだろうか。それと...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000001/?ST=cm-network&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000001/?ST=cm-network&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000001/?ST=cm-network&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000001/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 28 Aug 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
