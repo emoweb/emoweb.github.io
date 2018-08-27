@@ -5,46 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d27</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows 10プレビュー版、アップデート機能に機械学習の予測モデルを活用（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/073000534/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　Windows 10で特にいら立ちを感じるのは、アップデートのごり押しだ。パソコンを使っている最中に、新しい更新プログラムのインストールを始めようとする困った習慣がある。仕事の途中でパソコンの動きが遅くなり、予期せぬ再起動へと強制的になだれ込む。道半ばで止まった作業は不幸だ。米Microsoftは、不満の声に応えて、更新の適用をユーザーの都合に合わせて遅らせたり時刻を設定したりできるオプションを追加してきたものの、いまだに問題の解消には至っていない。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/073000534/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Gordon Ung/Rob Schultz/IDG</div>
-</div>
-<p>
-　しかし、次回の大型アップデート以降は、ひょっとすると悩みの種が減るかもしれない（あくまで「ひょっとすると」だが）。機械学習の予測モデルを使って、再起動に適したタイミングを判断する機能が加わる可能性がある。
-</p>
-<p>
-　Microsoftは2018年7月25日、「Windows 10 Insider Preview」のビルド17723と18204をリリースしたことを発表した。今回のビルドでは、複合現実（MR）の使用中に周囲の現実世界の様子を確認できる「Flashlight」機能、そして新しい絵文字など、さまざまな新機能や変更が加わっている。そのうちの1つが、Windows Updateを適用するタイミングに関する新しいシステムの導入だ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/073000534/?ST=cm-software&P=2">MicrosoftのDonaSarkar氏とBrandonLeb...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/073000534/?ST=cm-software&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/073000534/?ST=cm-software&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/073000534/?ST=cm-software&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/073000534/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 30 Jul 2018 11:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n27</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>サーバー仮想化の未来は（前）（サーバー仮想化の未来は）</title>
@@ -1197,6 +1161,44 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 27 Aug 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Mac版Office 365、9月以降の機能更新はOSバージョンに要注意（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082700541/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Microsoftは、Mac版の「Office 365」のOfficeクライアントアプリケーションに関して、9月のアップデート以降は対象OSが「macOS Sierra」「macOS High Sierra」になるとして、利用者に注意を促している。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082700541/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Microsoft</div>
+</div>
+<p>
+　Microsoftは、<a href="https://support.office.com/en-us/article/upgrade-your-macos-to-access-new-office-365-for-mac-features-f6efc6b6-90f8-4e69-82dd-d0de32a111aa" target="_blank">サポート情報ページ</a>で次のように説明している。「Office 365 for Macの2018年9月のアップデートからは、Mac用のOfficeクライアントアプリを新バージョンにアップデートして機能更新を受け取るためには、macOS 10.12以降が必要になる」
+</p>
+<p>
+　Microsoftが通常の月次更新のスケジュールに沿ってOffice 365のアップデートを配信するとしたら、9月のアップデートは9月11～12日頃と見られる。その更新のタイミングで、Mac用Officeのクライアントアプリ（Word／Outlook／Excel／PowerPoint）は、現在の「Office 2016」という呼称から、「Office 2019」に変わる。だが、そのアップデートを受け取るためには、macOSがSierra（10.12）かHigh Sierra（10.13）でなくてはならない。
+</p>
+<p>
+　それより前のmacOSでOffice 365のOfficeクライアントを使っている場合、セキュリティ更新プログラムの提供は継続されるが、新しい機能は提供されなくなる。また、9月の更新でOffice 2019へのアップデートを拒否した場合も同様で、新機能は提供されない。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082700541/?ST=cm-software&P=2">Microsoftは、永続ライセンス版の「Office2019f...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082700541/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082700541/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082700541/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 27 Aug 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
