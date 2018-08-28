@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d28</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Google、エッジ向けの極小チップとサービスでIoT対応を強化（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/073100453/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Googleは、先日のテクノロジーカンファレンス「Google Cloud Next '18」で、エッジネットワークやIoTデバイスで行う処理の強化について、2つの発表を行った。エッジでの機械学習や分析能力を、ソフトウエアとハードウエアの両面で強化する。IoTデバイスがますます増える中、生成されるデータへの対応力を高めることを狙いとしている。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/073100453/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Getty Images</div>
-</div>
-<p>
-　発表の1つは「Cloud IoT Edge」だ。Googleのクラウドを基盤とするIoTプラットフォームの機能をエッジネットワークまで拡大する。もう1つは、IoTデバイスに搭載する小型チップ「Edge TPU」だ。IoTデバイスで収集したデータを、伝送前にその場で処理できる。
-</p>
-<p>
-　エッジコンピューティングは、IoTのエンドポイントのすぐ近くに処理用のコンピューターを配置するアーキテクチャーだ。データをはるばるデータセンターに送らなくても、エンドポイントの近くで分析や処理を行える。IoTの展開手法として将来性に優れたモデルだ。特に、レイテンシーに関する要件が厳しい用途では有望である。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/073100453/?ST=cio-cloud&P=2">だが、米調査会社451ResearchでIoTを...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/073100453/?ST=cio-cloud&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/073100453/?ST=cio-cloud&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/073100453/?ST=cio-cloud&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/073100453/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Tue, 31 Jul 2018 10:40:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n28</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>プロジェクトマネジメントの主な資格（中）（プロジェクトマネジメントの主な資格）</title>
@@ -1199,6 +1161,43 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 28 Aug 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>GitLab 11.2が登場、Web IDEやAndroidへの対応など強化（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/082800461/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　DevOpsプラットフォーム「GitLab」のバージョン11.2がリリースされた。Web IDEでのプレビューや、Androidプロジェクトのインポート対応などに関する機能を強化している。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082800461/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Weegee010</div>
+</div>
+<p>
+　Web IDEに関しては、クライアントサイド評価の機能を使って、JavaScriptで開発するWebアプリケーションのコード変更をリアルタイムでプレビューできるようになった。修正を加えた部分をコミット前に確認したり、変更の実験を行ったりできる。ローカルにクローンすることなくオープンソースプロジェクトへのコントリビューションを行うことも可能になる。
+</p>
+<p>
+　このクライアントサイド評価には、Webアプリケーション用オンラインエディタ「CodeSandbox」の技術が使われている。この機能は、自前で管理しているGitLabインスタンスでは管理者が有効化でき、GitLab.com上のプロジェクトでは既定で有効に設定されている。年内にはサーバーサイド評価にも対応する予定で、Rubyアプリケーションなどのテストが可能になる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082800461/?ST=cio-management&P=2">このほか、GitLab11.2には次のような新機...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082800461/?ST=cio-management&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082800461/?ST=cio-management&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082800461/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 28 Aug 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
