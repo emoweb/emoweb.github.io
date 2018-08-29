@@ -5,49 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d29</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>WindowsのDaaS化で従来のPCは終焉か（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/080100535/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　この30年以上、PCといえば主にWindowsマシンだと我々は認識し、そのマシンを所有し、管理してきた。それが永遠に変わろうとしている。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080100535/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　今回取り上げるのは、米Microsoftが我々の意に反してWindows 7から10への早急な移行を強制しているという話ではない（同社はその方法を色々と編み出してはきたが）。従来型デスクトップとしてのWindowsプラットフォームを捨て去ろうとしているという話である。
-</p>
-<p>
-　Microsoftは、Windows 10に代えて「Microsoft Managed Desktop」というものを導入する準備を進めている。DaaS（Desktop as a Service）を提供しようというのだ。利用者は、Windowsを所有せず、月決めで「レンタル」する。
-</p>
-<p>
-　Windows向けのDaaSはこれが初めてではない。米Citrix Systemsや米VMwareは、以前からDaaS製品を販売してきた。Microsoftもはるか昔からリモートデスクトップサービス（旧称ターミナルサービス）を手がけてきた。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080100535/?ST=cm-software&P=2">MicrosoftManagedDesktopは新しいアプローチ...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080100535/?ST=cm-software&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080100535/?ST=cm-software&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080100535/?ST=cm-software&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080100535/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 01 Aug 2018 11:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n29</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>サーバー仮想化の未来は（後）（サーバー仮想化の未来は）</title>
@@ -1194,6 +1155,47 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 29 Aug 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Apple、米国でiCloudストレージ200GB無料のキャンペーン（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082900542/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　新型iPhoneは9月に登場すると言われている。新機種を購入するなら、例によってしなければならないことが3つある。色を決めること、通信キャリアを決めること、そして、今使っている端末のデータをバックアップすることだ。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082900542/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Apple</div>
+</div>
+<p>
+　このうち、データのバックアップは、iCloudの無料ストレージプランでは厳しいかもしれない。米Appleはいまだに、無料プランには容量5Gバイトしか与えていない。写真を大量に撮る人や、デバイスを何台も持っている人からすると、新機種に移すべきデータの完全バックアップにはまず足りない。それを踏まえてAppleは、有料プランへの移行を促すべく、iCloudのストレージ容量200Gバイトを無料で使えるキャンペーンを米国で実施しようとしている。通常の無料プランの実に40倍の容量だ。ただし、条件や制約に注意が必要である。
+</p>
+<p>
+　この情報は、目ざといRedditユーザーが最初に発見した。今のところ、米国の大手通信キャリアの契約者のみが受けられる特典となっている。特典を利用するためのリンクの対象が、米Sprint、米AT&T、米T-Mobileに限られているからだ。だが、Appleがこの特典を正式に発表する時点では、米Verizonや、中小の携帯事業者も対象に加わる可能性が高い。
+</p>
+<p>
+　そのほかの注意点としてまず挙げておきたいのは、iCloudの有料ストレージを新たに利用するユーザーのみが対象であることだ。既に有料で契約済みのユーザーには適用されない。もう1つ注意すべきは、無料になるのは2カ月間に限られること。その後は有料ユーザーとして利用を続けるか、さもなくば無料期間中に契約をキャンセルしなくてはならない。
+</p>
+<p>
+　容量200Gバイトのプランの通常料金と比べると、今回の特典は2カ月間で合計約6ドルを節約できる。現在のiPhoneはストレージが最大256Gバイトなので、端末にデータを大量にため込んでいる人でも、200Gバイトあればバックアップに十分対応できるだろう。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082900542/?ST=cm-cloud&P=2">米国では、MacかiOSデバイスで<ahref></ahref></a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082900542/?ST=cm-cloud&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082900542/?ST=cm-cloud&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082900542/?ST=cm-cloud&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 29 Aug 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
