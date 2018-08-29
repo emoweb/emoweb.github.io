@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n30</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>サーバー仮想化の未来は（後）（サーバー仮想化の未来は）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/072600158/072600002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　サーバー仮想化は、発想としてはシンプルながら、企業のデータセンターに極めて大きなインパクトを与えたテクノロジーの1つだ。</p>
-
-<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/072600158/072600001/" target="_blank">前回</a>から続く）</p>
-
-<h4>仮想マシンかコンテナか</h4>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/072600158/072600002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　コンテナとは、ホストOSのカーネルを共有する形で動作する、互いに独立したコード実行環境だ。コンテナ化の潮流で大きな役割を果たした存在は2つある。コンテナ実行環境として広く使われている「Docker」と、コンテナクラスタの運用管理ツールとして米Googleが開発した「Kubernetes」だ。</p>
-
-<p>　ゲストOSの冗長さや起動のオーバーヘッドを回避できることから、コンテナの方がVMよりもシンプルで軽量だ。同じハードウエア上で稼働できるコンテナとVMの数を比べると、コンテナの方が6～8倍に及ぶ。</p>
-
-<p>　コンテナにも弱点はある。比較的新しい手法であることから、古くからの製品で使えるような管理ツールが豊富にはそろっておらず、セットアップやメンテナンスに多くの作業が必要となる。また、セキュリティの懸念もある。</p>
-
-<p>　VMでは、ゲストイメージを使ってホスト間でワークロードを簡単に移動できるが、ベアメタルマシンはアップグレードや移動が難しい。ベアメタルサーバーでは、マシン状態のロールバックは苦労を伴う。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/072600158/072600002/?ST=cm-software&P=2">仮想マシンかサーバーレスコンピューティングか</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/072600158/072600002/?ST=cm-software&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/072600158/072600002/?ST=cm-software&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/072600158/072600002/?ST=cm-software&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/072600158/072600002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 02 Aug 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d30</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Google、MacやWindowsの対抗馬としてChromebookをアピール（CIOニュース）</title>
@@ -1196,6 +1158,41 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 29 Aug 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>国を揺るがす脅威になり得るか、ディープフェイクの正体（後）（国を揺るがす脅威になり得るか、ディープフェイクの正体）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/081000164/081000002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　ディープフェイクとは、本物の映像や声をそっくりにまねた、偽の動画や音声のことだ。かつては、偽動画というと、米中央情報局（CIA）や英政府通信本部（GCHQ）の脅威研究情報合同部門（JTRIG）など、プロパガンダを展開する諜報機関や、あるいはハリウッドの特殊効果専門スタジオの独壇場だった。しかし現在では、ディープフェイク製作用のソフトウエアを誰でもダウンロードして、本物さながらの偽動画を片手間で作ることができる。
+</p>
+
+<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/081000164/081000001/" target="_blank">前回</a>から続く）</p>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　一般的なユーザーでも、FakeAppというソフトをダウンロードすれば、独自のディープフェイクの製作を今すぐ始められる。ごく簡単に使えるソフトというわけではないが、適度にマニアックなユーザーであれば、何ら問題はないはずだ。米New York Timesにも、コラムニストのKevin Roose氏による体験記が3月に掲載された。</p>
+
+<p>　だが、効果的な偽情報の形式がほかにもたくさんある中で、ディープフェイクとの「モグラたたき」にばかり意識を向けるのは間違った戦略だとHwang氏は指摘する。「現時点でも、ディープラーニングや機械学習を使わなくても、世間をだましたり世論を形成したりできる安上がりな方法はたくさんあると思う」と話す。</p>
+
+<p>　例えば、路上で人が殴られている光景を録画し、その動画を巡る偽のストーリーをでっち上げるのはどうだろう。殴っているのは米国にやって来た移民たちの集団だ、という話にするなどだ。これならば、巧妙な機械学習アルゴリズムは必要ない。もっともらしい偽のストーリーと、それに合う動画があればよい。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000002/?ST=cm-network&P=2">ディープフェイクを見破る方法</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000002/?ST=cm-network&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000002/?ST=cm-network&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000002/?ST=cm-network&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000002/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 30 Aug 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
