@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>KeyPass：無差別的なランサムウェア</title>
-			<link>https://blog.kaspersky.co.jp/keypass-ransomware/21251/</link>
-			<description><![CDATA[ランサムウェア「KeyPass」が世界各地のコンピューターに感染を広げています。感染途中で遭遇するファイルをほぼすべて暗号化する性質を持つこのマルウェアは、無害に見えるインストーラーの形でコンピューターに入り込みます。]]></description>
-			<pubDate>Thu, 16 Aug 2018 04:30:08 +0000</pubDate>
-		</item>
-		<item>
 			<title>産業規模の金銭目的詐欺</title>
 			<link>https://blog.kaspersky.co.jp/industrial-financial-phishing/21222/</link>
 			<description><![CDATA[400社以上の製造企業がフィッシングの標的に。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/transparency-status-updates/21378/</link>
 			<description><![CDATA[Kaspersky LabのGlobal Transparency Initiativeの現況および更新情報。]]></description>
 			<pubDate>Thu, 30 Aug 2018 01:00:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>macOSも視野に入れた、仮想通貨取引所への攻撃</title>
+			<link>https://blog.kaspersky.co.jp/lazarus-crypto-exchange-attack/21369/</link>
+			<description><![CDATA[サイバー犯罪集団Lazarusの最新動向。「AppleJeus」と名付けられた新たなサイバー攻撃活動は、偽の仮想通貨取引ソフトウェアを使って仮想通貨取引所を狙ったものでした。]]></description>
+			<pubDate>Thu, 30 Aug 2018 04:00:56 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
