@@ -5,24 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>ファイナンスの「腕」が再エネ事業の競争力に</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/112100151/082000011/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Wed, 22 Aug 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>目標は世界最高峰の実現　卓球「Tリーグ」が見据える未来</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/070800035/081600057/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div><div><span>1</span></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/070800035/081600057/?P=2&amp;ST=SIO-bus">2</a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/070800035/081600057/?P=3&amp;ST=SIO-bus">3</a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/070800035/081600057/?P=2&amp;ST=SIO-bus">次のページ ≫</a></div></div>]]></description>
-			<pubDate>Wed, 22 Aug 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>HEMSが翌日の発電量を予測し、太陽光で沸き上げ</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/082111423/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Wed, 22 Aug 2018 08:34:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>「電子薬」の登場と、そのポテンシャル</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/073000169/082100002/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　末梢神経系の異常シグナルをモニタリング・調整することで、自己免疫疾患やメンタルヘルスを治療するニューロモジュレーションデバイス、いわば「電子薬」——。</p><p>　今回は、既存の薬剤治療法を代替しうる異業種技術の先端事例を紹介する。その前提として、現在のグローバルでの医薬品市場を俯瞰することから始めたい。</p><p></p><h4>高額な医薬品の市場席巻</h4><p>　1990年代から2000年代前半までは、高血圧、糖尿病、脂質異常症といった低分子の生活習慣病治療薬が市場の大半を占めていた。ところが、1990年代中盤にRituxanなどの抗体医薬品が上市を開始、2000年代中盤からは自己免疫性疾患やがん領域の抗体医薬品が、グローバルの売上上位を占めるようになってきている（図表1 ）。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/073000169/082100002/?SS=imgview_ndh&amp;FD=-1099032330" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/073000169/082100002/n1.jpg?__scale=w:500,h:327&amp;_sh=0f20f60fa0" width="500" height="327" alt=""></a></div><div>クリックすると拡大した画像が開きます</div></div></div><p>　現在世界で販売額が最も大きい医薬品はAbbVie社のHumira。適応拡大を続けながらブロックバスターとして売上を拡大し2017年のグローバル売上高は2兆円を超える抗体医薬品だ。昨今では、Samsung Bioepis、Amgen、Mylan社のバイオシミラーの販売開始時期に関する契約交渉も話題となった。</p><p>　1990年代までは、抗体医薬品がこれほどまでに普及するとは一般的に考えられていなかった。製薬企業はアカデミアやバイオテックと共同で、キメラ化～完全ヒト化といった抗体改変技術を生み出し、モダリティが抱える抗原性という技術課題を克服することに成功、既存の治療方法と比べて、高い有効性と安全性のバランスを有する製品を現出してきた。これらは産学のイノベーションの賜物であり、製薬企業には、その対価を享受し、次世代の新しい医薬品の研究開発に再投資するための正当な権利がある。</p><p>　一方で、潜在的な課題が存する。抗体医薬品をはじめとするバイオロジクスは高額だ。適応や投薬容量に依存するため一概には言えないが、患者当たり数100万円を越える年間薬価が必要となることも珍しくはない（図表2 ）。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/073000169/082100002/?SS=imgview_ndh&amp;FD=-1098108809" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/073000169/082100002/n2.jpg?__scale=w:500,h:299&amp;_sh=0a90ad0120" width="500" height="299" alt=""></a></div><div>クリックすると拡大した画像が開きます</div></div></div><p>　あるコンサルティングプロジェクトにおける、消化器内科医師とのインタビューを実施した際の帰り際の発言が強く印象に残っている。</p><p>「一人の医師として、患者と対峙する際には現行の高額療養費制度を利用して抗体医薬品を処方する。それが最良の治療効果を見込めるからだ。一方、一人の国民として、自分の決断が将来世代への負担となることを考えると胸が痛むことがある」</p><p>　研究開発費のみならず、製造コストにも由来するものであるだけに、昨今のバイオシミラーの普及が爆発的に進んだとしても、短中期的な視座では、劇的な価格低減は見込めないものと考えられる。</p><p>　そのため、上記課題と対峙すべく、世界中の一流の技術者達がしのぎを削り、バイオロジクスの製造効率や薬剤の持続性を強化する研究開発を行っている。例えば、流加培養から灌流培養への変更による生産効率の向上、中外製薬のリサイクリング抗体のような、薬効の持続性を延長するような製品開発が進められている。また、臨床現場においても、ドラッグ・バイアル・オプティマイゼーションやフォーミュラリーの導入を通じた（涙ぐましい）薬剤費削減の実証研究が進められているところだ。</p><p>　しかし、上記の営みが既存企業に必要とされる漸進的イノベーションであるとするならば、治療アプローチそのものを転換させるような破壊的イノベーションは無いものか。そして、医療産業が社会保障費に構造的に依存する以上、そうしたイノベーションを評価する視座に医療コストの観点を加えざるを得ないのではないか。昨今のHTA（医療技術評価）の議論勃興はその例証であるものと思料する。<br></p></div><div><div><span>1</span></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/073000169/082100002/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/073000169/082100002/?ST=health&amp;P=3"><span>3</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/073000169/082100002/?ST=health&amp;P=4"><span>4</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/073000169/082100002/?ST=health&amp;P=5"><span>5</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/073000169/082100002/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
@@ -249,6 +231,18 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/082911444/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Thu, 30 Aug 2018 07:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>米フロスト＆サリバン、TMEICに対し4年連続で「グローバル・アワード」</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/083011445/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Thu, 30 Aug 2018 09:23:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>臨床医は驚くほど、AI活用に前向きだった</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/interview/15/082900125/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　画像診断やゲノム解析など、医療のさまざまな場面に人工知能（AI）を活用し、より良い医療を実現する。そんな機運が高まる中、AIの医療応用に向けて日本の叡智を集結させることをうたう学会が2018年4月に立ち上がった。「日本メディカルAI学会」だ。</p><p>　学会として何を目指すのか。AIの活用によって医療のあり方や医師の役割はどのように変わるのか。日本メディカルAI学会の代表理事を務める国立がん研究センター研究所 がん分子修飾制御学分野 分野長の浜本隆二氏に聞いた。</p><p></p><p style="text-align:right;">（聞き手は大下 淳一＝日経デジタルヘルス）</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/082900125/?SS=imgview_ndh&amp;FD=-953999784" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/082900125/med1.jpg?__scale=w:500,h:374&amp;_sh=0c30b00ed0" width="500" height="374" alt=""></a></div><div>日本メディカルAI学会 代表理事で国立がん研究センター研究所 がん分子修飾制御学分野 分野長の浜本隆二氏（写真：加藤 康、以下同）</div><div>クリックすると拡大した画像が開きます</div></div></div><p></p><p>——学会は具体的にどのような活動に取り組むのですか。</p><p>　AIを医療現場で活用するために欠かせないガイドラインを整備することが、中心的な取り組みの一つになります。ガイドラインがなければ不安で使えないという現状があるからです。</p><p>　ガイドラインの整備に当たっては、法律や生命倫理、サイバーセキュリティーなど、さまざまな観点からの議論が必要になります。これら複数分野の専門家に加わってもらい、議論の場を設けていきます。改正個人情報保護法など、日本の個人情報保護制度とAI活用の折り合いをどのようにつけていくかは大きな課題ですし、そこにはサイバーセキュリティーの問題も絡んでくる。個人情報をビジネス視点で見ることの多い米国などに比べて、日本は個人情報の扱いに慎重です。そのことはAI活用のハードルにもなるわけです。</p><p>　医療現場の声をきちんとガイドラインに盛り込んでいくことも、我々の大切な役割です。医療の世界では学会主導で定めたガイドラインが現場の運用規範となっているケースも多く、私達もそうした役割を目指したい。実践的なガイドラインを作っていくためには、行政や法律家だけに一任していてはいけないと思います。</p><p>　もちろん、必要な場面では厚生労働省や経済産業省など行政側で議論が進められているガイドラインとも連携を図っていきます。私自身、そうした行政の議論にもメンバーとして加わっていますから。</p><p></p></div><div><div><span>1</span></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/082900125/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/082900125/?ST=health&amp;P=3"><span>3</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/082900125/?ST=health&amp;P=4"><span>4</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/082900125/?ST=health&amp;P=5"><span>5</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/082900125/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
+			<pubDate>Thu, 30 Aug 2018 10:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
