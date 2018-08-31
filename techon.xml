@@ -5,18 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>使用電力情報を家電ごとに分離、京セラのVPP実証</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/082411428/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Fri, 24 Aug 2018 09:36:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>田辺三菱製薬、あらゆるバリューチェーンでAIを活用</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/327441/082300548/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><div class="bpbox_right" style="width:200px;"><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/082300548/?SS=imgview_ndh&amp;FD=-1983885058" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/082300548/IMG_1808.jpg" width="200" alt="" title=""></a></div><div>AI活用を統括する子林孝司専務執行役員（フューチャーデザイン部担当）</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　田辺三菱製薬は2018年8月20日、都内で記者会見を開いてAI（人工知能）の活用について現状を説明した。三津家正之社長は「創薬に限らず販売や市販後調査などあらゆるバリューチェーンでAIを活用してコストを引き下げていく」と意気込みを語った。</p><p>　AIの活用は全産業で重要な経営課題になっているが、薬価の大幅引き下げなど経営環境が急速に悪化している製薬業界では喫緊の課題となっている。AI活用を統括する子林孝司専務執行役員（フューチャーデザイン部担当）は「AIを使って抜本的な事業構造の転換が必要だ」と強調した。</p><p>　具体的には、基礎研究・非臨床研究・臨床研究・承認申請・販売・市販後調査の各段階でAIの利活用を検討していく。</p><p>　例えば基礎研究では従来、あらかじめ標的蛋白質を設定した上でヒット化合物を探索していくハイスループットスクリーニング（HTS）が中心だった。今後は、細胞増殖や細胞死などのフェノタイプ（表現型）を誘導する化合物を探索するフェノタイプスクリーニングを強化していく。そのために機械学習（ディープラーニング）を用いて大量の細胞画像を解析したり、AIで複数のパラメーターを同時に処理したりすることを想定している。上野裕明常務執行役員（創薬本部長）は「人間では見つけにくかった新規薬効メカニズムの発見をAIに期待している」と語った。</p><p>　臨床試験では、日立製作所と協力する。両社は2018年3月にAIを活用して臨床試験を効率化するプロジェクトを推進することで提携した。医学論文や審査報告書そして公開されている治験データから臨床試験にかかわるデータを自動で収集して、そのデータベースから治験デザインを構築するところまでをAIに担わせることを目指している。具体的には治験計画書の作成を支援したり、過去の治験データをメタ解析して効能曲線を予測したりする。「ライフサイエンス分野の言語処理能力では日立は非常に高いレベルにあり、来年（2019年）中にはAIで治験デザインがこなせるようにしたい」と子林専務は意気込みを語った。</p></div>]]></description>
-			<pubDate>Fri, 24 Aug 2018 10:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>272MWの大型水力で湛水式、大林がラオスに建設</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/082411429/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -243,6 +231,18 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/083111453/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Fri, 31 Aug 2018 16:53:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>出力制御による損失を補償、ネクストエナジーが低圧太陽光向けに</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/083111454/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 31 Aug 2018 20:13:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>三井化学、太陽光パネル材料の生産能力を増強</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/083111455/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 31 Aug 2018 20:51:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
