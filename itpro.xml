@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d31</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ファイルレス攻撃が急増中、McAfee Labsが指摘（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/080300536/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　サイバー犯罪者がコンピューターや企業ネットワークに侵入する手口として、マルウエアの実行ファイルを外部から送り込んで発症させる従来の手法に代わり、Windowsの正規の実行プログラムを利用したファイルレス攻撃が増えつつある。米McAfeeの研究機関McAfee Labsの最近の発表から、そのような傾向が読み取れる。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080300536/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Boarding1now | Dreamstime.com</div>
-</div>
-<p>
-　ファイルレス攻撃は、ユーザーのコンピューター上に実行ファイルをインストールしないため、攻撃された時の検知が非常に難しい。
-</p>
-<p>
-　McAfee Labsによると、「CactusTorch」というファイルレス攻撃の脅威が急増している。CactusTorchは、Windowsシステム上で独自のシェルコードを実行できる。成功の度合いと検出の回避という点で、利用が急速に増えているとのことだ。
-</p>
-<p>
-　CactusTorchは、DotNetToJScriptという手法を利用して、悪質な.NETアセンブリをメモリーから直接読み込んで実行する。.NETアセンブリは、DLLやEXEなど、アプリケーションのデプロイの最小単位である。この手法では、アセンブリのどの部分も、ハードディスクには書き込まれない。したがって、従来型のファイルスキャナーでは検出されない。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080300536/?ST=cm-software&P=2">DotNetToJScriptの手法では、信頼されている正規の....</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080300536/?ST=cm-software&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080300536/?ST=cm-software&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080300536/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 03 Aug 2018 11:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n31</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>シングルサインオンの効能（上）（シングルサインオンの効能）</title>
@@ -1185,6 +1147,42 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 31 Aug 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>企業のブロックチェーン導入が進む、大手コンサル2社の調査（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/083100543/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　ブロックチェーン技術の導入に対する企業幹部の認識や意向を探った調査レポートを、大手コンサルティング会社のPricewaterhouseCoopers（PwC）とDeloitteが相次いで発表した。企業各社は、業務の自動化や取引の効率化を目指してブロックチェーンを導入する姿勢を示している。既にプロジェクトに着手した企業や、実稼働を始めた企業も多い。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/083100543/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　PwCの調査は、世界15カ国および地域の企業幹部600人を対象に実施したもので、同社は結果をまとめたレポートを2018年8月27日に発表した。それによると、ブロックチェーン技術に関して動き始めている企業は全体の84％だった。内訳は、調査段階が20％、開発段階が32％、パイロット段階が10％、本番環境で稼働している企業が15％、プロジェクトを休止した企業が7％だ。14％の企業はブロックチェーン技術に着手していなかった。
+</p>
+
+<p>
+　一方、Deloitteは、世界7カ国（カナダ、中国、フランス、ドイツ、メキシコ、英国、米国）の年間売上高5億ドル超の企業でブロックチェーンに通じている幹部1053人を対象に調査を実施し、8月28日にレポートを発表した。それによると、ブロックチェーン技術を導入することはビジネス上の判断として説得力があるとの認識を示した企業は74％に上った。既に動き始めている企業も多く、ブロックチェーンのシステムを本番環境で稼働している企業は34％、ブロックチェーンアプリケーションを今後1年以内に導入する予定だとした企業は41％だった。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/083100543/?ST=cm-network&P=2">Deloitteはレポートで次のように説明している。「この新興技...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/083100543/?ST=cm-network&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/083100543/?ST=cm-network&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/083100543/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 31 Aug 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
