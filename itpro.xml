@@ -5,42 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n03</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>シングルサインオンの効能（上）（シングルサインオンの効能）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/073000159/073000001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　シングルサインオン（SSO）とは、1組のクレデンシャル（ログイン情報）で複数のアプリケーションにアクセスできるように、セッション認証やユーザー認証を一元化するサービスである。そのメリットはシンプルさだ。所定のプラットフォームでユーザーを認証し、毎回ログインやログアウトをし直すことなく、さまざまなサービスを利用できる。</p>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/073000159/073000001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　コンシューマーの立場では、SSOの代表的なプラットフォームとして、GoogleやFacebook、Twitterのアカウントを使ったソーシャルログインを思い浮かべるかもしれない。それぞれのアカウントを基盤として、サードパーティのさまざまなサービスにアクセスできる。一方、企業の立場では、例えば社内のサーバーで稼働している独自のWebアプリケーションや、クラウドで動かしているERP（統合基幹業務）システムへのログインなどにSSOを使える。</p>
-
-<p>　SSOを適切に導入すれば、生産性、IT部門の把握と管理、セキュリティ統制という面でプラスになる。複数のシステム、プラットフォーム、アプリケーションなど、さまざまなリソースへのアクセスを認めるかどうかを、1組のセキュリティ情報（ユーザー名とパスワードのペア）で制御できる。また、パスワードの紛失や失念、あるいは脆弱なパスワードのリスクも抑えられる。</p>
-
-<p>　SSOの導入戦略をきちんと練り上げて適切に遂行すれば、さまざまなメリットが得られる。パスワードのリセットにかかるコストや関連するダウンタイムの排除、内部者脅威のリスクの軽減、ユーザーエクスペリエンスの向上、認証プロセスの改善、ユーザーアクセスの管理強化などが挙げられる。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/073000159/073000001/?ST=cm-network&P=2">シングルサインオンの強み</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/073000159/073000001/?ST=cm-network&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/073000159/073000001/?ST=cm-network&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/073000159/073000001/?ST=cm-network&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/073000159/073000001/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 06 Aug 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d03</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Cisco、米サイバーセキュリティ企業を23億5000万ドルで買収へ（CIOニュース）</title>
@@ -1183,6 +1151,37 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 31 Aug 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>アジャイルコーチ、企業の変革でかけがえいのない役割（上）（アジャイルコーチ、企業の変革でかけがえいのない役割）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/083000165/083000001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　アジャイルコーチは、企業のチームに対してアジャイルの方法論を指導し、アジャイルチームの成長を統括して、組織にとっての成果をきちんと生み出せるように支援する。導入プロセスの手ほどきをしたり、アジャイルの手法を受け入れるよう社員や幹部に促したりする。アジャイルコーチの最終的なゴールは、正しい知識、ツール、トレーニングをアジャイルチームに施し、アジャイルの可能性をチームが最大限に生かせるようにすることだ。</p>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000165/083000001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　「我々コーチの仕事は、チームが前進する過程で現在地を理解し、その成長を支える正しいアプローチを提供することだ。我々は改善のための取り組みを担う。そこで、適切な問いを立てたり、優れたメンタルモデルを提供したり、人々の思考を促したり、顧客のための素晴らしいプロダクトの構築に向けてチームを導いたりする」。そう話すのは、豪Envatoのデリバリーコーチ（アジャイルコーチの別名）、Fabiano Morais氏だ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000165/083000001/?ST=cio-management&P=2">アジャイルコーチが企業にもたらす効能</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000165/083000001/?ST=cio-management&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000165/083000001/?ST=cio-management&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000165/083000001/?ST=cio-management&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000165/083000001/?ST=cio-management&P=4">4</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000165/083000001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Mon, 03 Sep 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
