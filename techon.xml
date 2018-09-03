@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>既設太陽光を含む「補償付き蓄電システム」、ネクストエナジーが商品化</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/082711432/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Mon, 27 Aug 2018 14:55:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>バイオマスを液体燃料に転換、「FT合成」の低コスト化</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/082711433/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -237,6 +231,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/302960/090300161/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Tue, 04 Sep 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「病理診断AI」、オリンパスなどが共同研究</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/090311459/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><div class="bpbox_right" style="width:200px;"><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/090311459/?SS=imgview_ndh&amp;FD=-1099032330" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/090311459/n1.jpg?__scale=w:200,h:112&amp;_sh=03c0c604d0" width="200" height="112" alt=""></a></div><div>ディープラーニングの検討フロー</div><div>クリックすると拡大した画像が開きます</div></div><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/090311459/?SS=imgview_ndh&amp;FD=-1098108809" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/090311459/n2.jpg?__scale=w:200,h:94&amp;_sh=0bf0e50980" width="200" height="94" alt=""></a></div><div>CNN出力からの画像分類（左：基準値設定前、右：基準値設定後）</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　オリンパスと国立病院機構 呉医療センター・中国がんセンター 臨床研究部病理診断科は、AIを用いた病理診断支援ソリューションの開発を進めると発表した。胃生検材料によるAI病理診断支援ソフトウエアの共同研究を実施し、高い判定精度の結果が得られたことによるもの。</p><p>　共同研究では、オリンパスが独自開発したディープラーニング技術を用いた。病理画像の特徴解析に適した独自のコンボリューショナルネットワーク（CNN）の技術だという。この技術によって画像の腺がん組織領域を識別し、その結果に基づいて腺がん画像と非腺がん画像の分類を行った。</p><p>　具体的には、病理ホールスライド画像とその教師データとなる情報を用いてCNNのモデルを学習させる学習ステップと、学習させたモデルを用いて腺がん画像と非腺がん画像の分類を行う推定ステップの2段階で構成した。テスト1として786件（腺がん297件、非腺がん489件）の症例を検討し、腺がんはすべて陽性（感度100%）と判定するようにソフトウエアの基準値を設定した。この基準値設定では、非腺がん489件中225件が陰性と判定された。</p><p>　このテストで設定した基準値において、新たに140件（腺がん67件、非腺がん73件）の症例を検討。その結果、腺がん67件はすべて陽性と判定され、非腺がん73件中37件が陰性と判定された。すなわち、感度100%（67件/67件）、特異度50.7%（37件/73件）を実現した。</p><p>　この結果を踏まえ、偽陰性率が低く、陽性症例を確実に検出できるAI病理診断支援ソフトウエアにより、陽性症例の見落とし防止や陰性症例のスクリーニング効果が見込まれるという。これにより病理医の負担低減と、さらなる診断精度の向上が期待できるとしている。</p></div>]]></description>
+			<pubDate>Tue, 04 Sep 2018 07:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
