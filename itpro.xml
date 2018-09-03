@@ -5,45 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n04</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>顧客ロイヤルティーの指標、ネットプロモータースコアとは（前）（顧客ロイヤルティーの指標、ネットプロモータースコアとは）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/073000160/073000001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　「ネットプロモータースコア（NPS）」とは、顧客ロイヤルティーに関する指標の1つで、米Bain & CompanyのFred Reichheld氏が考案した。</p>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/073000160/073000001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　「あなたはこの企業を友人に勧めるか？」と顧客に質問し、勧める度合いを0～10点で答えてもらう。まったく勧めないなら0点、非常に強く勧めるなら10点だ。答えた点数に応じて、それぞれの顧客を「批判者」「中立者」「推奨者」という3つのグループに分類したうえで、後述する方法により、トータルのスコアを-100～100の数値で割り出す。まずは、批判者、中立者、推奨者の区分について見ていこう。</p>
-
-<h4>批判者</h4>
-
-<p>　批判者は、0～6の採点を付けた顧客だ。ブランドや企業にマイナスイメージを抱いている可能性が高く、お金を投じてくれそうにはない。カスタマーサービスへの電話で長々と食い下がったり、苦情を表明したり、ネガティブな口コミを拡散したりといった可能性も高い。</p>
-
-<p>　米調査会社Temkin Groupの2013年のレポート「The Economics of Net Promoter」では、批判者の顧客生涯価値（CLV）は低いとしている。経済的罰則とみなせる行動をとるからだ。批判者が当該企業に多額を投じる可能性は低く、不満やマイナスの評価を広げる可能性は高い。カスタマーサービスが時間を食われ、満足している顧客よりも対応に費用がかかる。しかも、批判者を他ブランドから取り戻すのは、満足している顧客のロイヤルティーを維持するのに比べて高くつくのが一般的だ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/073000160/073000001/?ST=cio-management&P=2">中立者</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/073000160/073000001/?ST=cio-management&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/073000160/073000001/?ST=cio-management&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/073000160/073000001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Tue, 07 Aug 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d04</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Armの新しいIoTプラットフォーム「Pelion」、汎用性が売り（Computerworldニュース）</title>
@@ -1173,6 +1138,37 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 03 Sep 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>脆弱性報告制度、企業への義務づけは近い？（前）（脆弱性報告制度、企業への義務づけは近い？）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/083000166/083000001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　企業が善意のセキュリティ研究者からバグの報告を受けて対処するための仕組みである脆弱性報告制度は、米連邦取引委員会（FTC）と米司法省の様子からすると、将来的にあらゆる企業が何らかの形で設けるよう義務づけられることになりそうだ。現状では、この手の制度を一切設けていない企業がほとんどである。米HackerOneが2017年6月に示した調査結果によると、Forbes Global 2000企業の94％は、セキュリティ問題について研究者から報告を受け付ける手段を用意していない。</p>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000166/083000001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　脆弱性報告制度では、セキュリティ問題について研究者が報告するためのセキュアなチャネルを用意し、問題のトリアージや緩和を適切に行うためのプロセスを取り入れる。こうした制度は業界でベストプラクティスとなっており、規制当局や法執行機関が注目している。FTCは2018年6月、消費者製品安全委員会で、基本的な脆弱性報告制度すら設けていない企業はFTC法違反になり得るとの見解を示し、次のように言及した。</p>
+
+<p>　「FTCが多くの事例で展開してきた主張の1つは、セキュリティ研究者や学界からセキュリティ脆弱性の報告を受けて対処するための十分なプロセスを用意しないのは不合理な慣習であり、FTC法の第5条に違反しているということだ」</p>
+
+<p>　司法省も同じような姿勢を示している。同省が2017年に策定した「A Framework for a Vulnerability Disclosure Program for Online Systems」は、脆弱性報告制度のあるべき姿について定めたフレームワークだ。拘束力のないフレームワークという形ながら、厳格な指針となっている。現時点でフレームワークとされているものが、将来的に法令となる可能性は大いにある。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000166/083000001/?ST=cm-network&P=2">このフレームワークは、司法省刑事局のサイバーセキュリティ部門が策...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000166/083000001/?ST=cm-network&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000166/083000001/?ST=cm-network&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000166/083000001/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 04 Sep 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
