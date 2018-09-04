@@ -5,45 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n05</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>シングルサインオンの効能（中）（シングルサインオンの効能）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/073000159/073000002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　シングルサインオン（SSO）とは、1組のクレデンシャル（ログイン情報）で複数のアプリケーションにアクセスできるように、セッション認証やユーザー認証を一元化するサービスである。そのメリットはシンプルさだ。所定のプラットフォームでユーザーを認証し、毎回ログインやログアウトをし直すことなく、さまざまなサービスを利用できる。</p>
-
-<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/073000159/073000001/" target="_blank">前回</a>から続く）</p>
-
-<h4>SSOのメリットは</h4>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/073000159/073000002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　SSOの最大のメリットは、おそらくはその拡張性だ。クレデンシャルの管理を自動化できることから、各社員が目的のサービスを利用するためのアクセス権について、システム管理者が一つひとつ手作業で世話する必要がない。その結果、ヒューマンエラーの要素が減り、IT部門はもっと重要な作業に時間を投じられる。</p>
-
-<p>　そのほかのメリットとしては、クラウドファーストのアプリケーションの迅速なプロビジョニングがある。SAML（Security Assertion Markup Language）2.0など、主流のオープンな標準をサポートしているSSOであれば、管理者がアプリケーションを速やかに配備して、社員にロールアウトできる。そのほか、SSOには、セキュリティの強化（特に2要素認証を組み合わせた場合）や、生産性の向上、ITヘルプデスクのパスワードリセット作業の削減といったメリットもある。</p>
-
-<p>　Scott氏は、ITチームと社員の両方にメリットがあると認識している。「SSOの最大のメリットは、ユーザーにとっての使いやすさだ。結果として、ヘルプデスクが受けるパスワードリセットの依頼が減少する。危険にさらされるクレデンシャルの数が減ってセキュリティの向上につながるが、パスワードを盗まれたり推測されたりした場合に備えて多要素認証はぜひとも必要だ」</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/073000159/073000002/?ST=cm-network&P=2">Scott氏によると、Centrifyの顧客企業はSSOを取り入...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/073000159/073000002/?ST=cm-network&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/073000159/073000002/?ST=cm-network&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/073000159/073000002/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 08 Aug 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d05</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Apple、著名陰謀論者のポッドキャストを削除（CIOニュース）</title>
@@ -1174,6 +1139,44 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 04 Sep 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>アジャイルコーチ、企業の変革でかけがえいのない役割（中）（アジャイルコーチ、企業の変革でかけがえいのない役割）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/083000165/083000002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　アジャイルコーチは、企業のチームに対してアジャイルの方法論を指導し、アジャイルチームの成長を統括して、組織にとっての成果をきちんと生み出せるように支援する。導入プロセスの手ほどきをしたり、アジャイルの手法を受け入れるよう社員や幹部に促したりする。アジャイルコーチの最終的なゴールは、正しい知識、ツール、トレーニングをアジャイルチームに施し、アジャイルの可能性をチームが最大限に生かせるようにすることだ。</p>
+
+<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/083000165/083000001/" target="_blank">前回</a>から続く）</p>
+
+<h4>アジャイルコーチの仕事</h4>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000165/083000002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　アジャイルコーチは、プロジェクトマネジメント、IT、その他の関連分野における自らのバックグラウンドを踏まえて、現在携わっている企業にとってうまくいく方法を導き出す。中にはアジャイルになじみがない社員もいるので、基本に照準を合わせ、アジャイルの枠組みを全員が利用できるようにすることが重要だ。</p>
+
+<p>　EnvatoのMorais氏は、アジャイルコーチの仕事について、「1つは、自分たちの経験を生かして、基礎について教え、アジャイル流の仕事の進め方に精通してもらうことだ」と話す。</p>
+
+<p>　アジャイルコーチには、強固なコミュニケーションスキルと対人スキルが欠かせない。経営陣も含めて、会社全体の社員と密接に力を合わせることになるからだ。場合によっては、アジャイルの方法論への転換が難しい社員も出てくる。その場合は、目指すところを理解してもらえるように企業文化を導いていく方法への理解が欠かせない。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000165/083000002/?ST=cio-management&P=2">ProjectManagementEssenti...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000165/083000002/?ST=cio-management&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000165/083000002/?ST=cio-management&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000165/083000002/?ST=cio-management&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000165/083000002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Wed, 05 Sep 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
