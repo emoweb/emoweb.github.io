@@ -5,46 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d04</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Armの新しいIoTプラットフォーム「Pelion」、汎用性が売り（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/080700537/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　Armベースのチップは、車やデジタルサイネージから、スマートフォン、スーパーコンピューターに至るまで、広く浸透している。英Armが新たに発表した「Pelion IoT Platform」は、まさに同社が手がけるのにぴったりのIoTプラットフォームだ。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080700537/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Getty Images</div>
-</div>
-<p>
-　Pelion IoT Platformの最大のセールスポイントは汎用性だ。「あらゆるデバイス、あらゆるデータ、あらゆるクラウド」に対応できると同社はうたう。現在の市場には、特定の業種に的を絞ったソリューションがあふれている。例えば、米General Electric（GE）や独Siemensのように、インダストリアルIoT製品を手がける企業もあれば、医療、車両管理、農業などに狙いを定めたIoTプラットフォームを手がける企業もある。
-</p>
-<p>
-　Pelionは、エッジデバイス、データセンター、エンドポイントをカバーし、既存のエコシステムにデバイスを統合するが、照準はエッジにある。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080700537/?ST=cm-hardware&P=2">Pelionの実現を可能にした背景の1つは、エンタープライズデー...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080700537/?ST=cm-hardware&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080700537/?ST=cm-hardware&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080700537/?ST=cm-hardware&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/080700537/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 07 Aug 2018 11:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n04</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>シングルサインオンの効能（中）（シングルサインオンの効能）</title>
@@ -1169,6 +1133,47 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 04 Sep 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Firefox、広告用トラッキングをデフォルトでブロックへ（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/090400463/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Mozillaは2018年8月30日、広告などのためにサイトで使われているトラッキング要素をデフォルトでブロックする措置を、「Firefox」で間もなく始めると発表した。こうしたトラッキング要素は、ユーザーの閲覧行動を逐一追跡し、ページの読み込み速度にも影響するとMozillaは主張している。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/090400463/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Pixabay</div>
+</div>
+<p>
+　MozillaのFirefox担当幹部であるNick Nguyen氏は、同日の公式ブログ記事の中で、「近い将来、Firefoxはデフォルトでトラッキングをブロックすることで、ユーザーを守る」と説明している。
+</p>
+<p>
+　昨秋リリースされたFirefox 57「Quantum」には、「トラッキング防止」という機能が搭載された。だが今のところ、通常のブラウジングに関しては、この機能は初期設定でオフになっており、ユーザーがFirefoxのオプション画面を開いて、手動で有効化する必要がある。この機能を有効にすると、ページに組み込まれているトラッカーや、一部の広告などがブロックされる。
+</p>
+<p>
+　トラッカーとは、複数のサイト間にまたがってユーザーの閲覧行動を追跡できるように、サイトや広告ネットワークが組み込んでいる要素だ。例えば、特定の下着メーカーのサイトで商品情報を見た後は、どのサイトに行ってもそのメーカーの下着の広告ばかりが表示されることがある。こうした表示を可能にしているのがトラッカーだ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/090400463/?ST=cio-appli&P=2">Mozillaは、2015年11月にプライベート...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/090400463/?ST=cio-appli&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/090400463/?ST=cio-appli&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/090400463/?ST=cio-appli&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/090400463/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 04 Sep 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
