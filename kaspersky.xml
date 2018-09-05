@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Android向けセキュリティ製品：有料版vs.無料版</title>
-			<link>https://blog.kaspersky.co.jp/kisa-paid-vs-free/21218/</link>
-			<description><![CDATA[カスペルスキー インターネット セキュリティ for Androidの無料版と有料版には、どんな違いがあるのでしょうか。]]></description>
-			<pubDate>Fri, 24 Aug 2018 01:00:39 +0000</pubDate>
-		</item>
-		<item>
 			<title>Twitter上のボットを追え</title>
 			<link>https://blog.kaspersky.co.jp/hunting-twitter-bots/21274/</link>
 			<description><![CDATA[Twitterの仮想通貨詐欺ボットを追跡調査した2人のセキュリティリサーチャー。その手法は。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/hacking-online-accounts-via-voice-mail/21300/</link>
 			<description><![CDATA[オンラインアカウントにとって、ボイスメールは大きなセキュリティホールです。なぜでしょうか。]]></description>
 			<pubDate>Tue, 04 Sep 2018 01:00:20 +0000</pubDate>
+		</item>
+		<item>
+			<title>企業の情報システム：セキュリティ上のよくある問題点と対処方法</title>
+			<link>https://blog.kaspersky.co.jp/security-assessment-report/21318/</link>
+			<description><![CDATA[Kaspersky Labのセキュリティサービス部門が、よくあるエラーについてのレポートを公開しました。企業インフラのサイバー攻撃への耐性を改善するのに役立つアドバイスもあります。]]></description>
+			<pubDate>Wed, 05 Sep 2018 01:00:53 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
