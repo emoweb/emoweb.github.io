@@ -5,9 +5,9 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2018-09-04 15:10:02 +0900</title>
+			<title>2018-09-06 09:10:02 +0900</title>
 			<link> </link>
-			<description><![CDATA[<strong>gigazine</strong><br/><p>#&lt;Net::OpenTimeout: execution expired&gt;
+			<description><![CDATA[<strong>techon</strong><br/><p>#&lt;Net::OpenTimeout: execution expired&gt;
 in
 /home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:880:in `initialize&#39;
 /home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:880:in `open&#39;
@@ -30,10 +30,10 @@ in
 /home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:77:in `parse&#39;
 /data/src/rss_crawler/src/lib/rsspipe.rb:60:in `get_feed&#39;
 /data/src/rss_crawler/src/lib/rsspipe.rb:166:in `pipe_procedure&#39;
-/data/src/rss_crawler/src/pipes/simple_pipes.rb:11:in `block (2 levels) in &lt;top (required)&gt;&#39;
+/data/src/rss_crawler/src/pipes/techon.rb:58:in `block in &lt;top (required)&gt;&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
-			<pubDate>Tue, 04 Sep 2018 15:10:02 +0900</pubDate>
+			<pubDate>Thu, 06 Sep 2018 09:10:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
