@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Twitter上のボットを追え</title>
-			<link>https://blog.kaspersky.co.jp/hunting-twitter-bots/21274/</link>
-			<description><![CDATA[Twitterの仮想通貨詐欺ボットを追跡調査した2人のセキュリティリサーチャー。その手法は。]]></description>
-			<pubDate>Mon, 27 Aug 2018 01:00:03 +0000</pubDate>
-		</item>
-		<item>
 			<title>企業ネットワークの門番</title>
 			<link>https://blog.kaspersky.co.jp/proxy-gateway-beta/21325/</link>
 			<description><![CDATA[企業ネットワーク保護において、脅威となりうるものを、エンドポイントに近づく前の段階、すなわちインターネットゲートウェイの段階で阻止することの意味と重要性。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/security-assessment-report/21318/</link>
 			<description><![CDATA[Kaspersky Labのセキュリティサービス部門が、よくあるエラーについてのレポートを公開しました。企業インフラのサイバー攻撃への耐性を改善するのに役立つアドバイスもあります。]]></description>
 			<pubDate>Wed, 05 Sep 2018 01:00:53 +0000</pubDate>
+		</item>
+		<item>
+			<title>サイバースペースのヴォルデモートを追い詰める</title>
+			<link>https://blog.kaspersky.co.jp/behavioral-model/21296/</link>
+			<description><![CDATA[どんなマルウェアも、正体がわかっていれば検知できます。たとえばトレーニング可能なふるまいモデルを利用すれば、それが可能になるのです。]]></description>
+			<pubDate>Thu, 06 Sep 2018 01:00:15 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
