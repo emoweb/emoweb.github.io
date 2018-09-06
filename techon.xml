@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>米フロスト＆サリバン、TMEICに対し4年連続で「グローバル・アワード」</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/083011445/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Thu, 30 Aug 2018 09:23:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>臨床医は驚くほど、AI活用に前向きだった</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/interview/15/082900125/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　画像診断やゲノム解析など、医療のさまざまな場面に人工知能（AI）を活用し、より良い医療を実現する。そんな機運が高まる中、AIの医療応用に向けて日本の叡智を集結させることをうたう学会が2018年4月に立ち上がった。「日本メディカルAI学会」だ。</p><p>　学会として何を目指すのか。AIの活用によって医療のあり方や医師の役割はどのように変わるのか。日本メディカルAI学会の代表理事を務める国立がん研究センター研究所 がん分子修飾制御学分野 分野長の浜本隆二氏に聞いた。</p><p></p><p style="text-align:right;">（聞き手は大下 淳一＝日経デジタルヘルス）</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/082900125/?SS=imgview_ndh&amp;FD=-953999784" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/082900125/med1.jpg?__scale=w:500,h:374&amp;_sh=0c30b00ed0" width="500" height="374" alt=""></a></div><div>日本メディカルAI学会 代表理事で国立がん研究センター研究所 がん分子修飾制御学分野 分野長の浜本隆二氏（写真：加藤 康、以下同）</div><div>クリックすると拡大した画像が開きます</div></div></div><p></p><p>——学会は具体的にどのような活動に取り組むのですか。</p><p>　AIを医療現場で活用するために欠かせないガイドラインを整備することが、中心的な取り組みの一つになります。ガイドラインがなければ不安で使えないという現状があるからです。</p><p>　ガイドラインの整備に当たっては、法律や生命倫理、サイバーセキュリティーなど、さまざまな観点からの議論が必要になります。これら複数分野の専門家に加わってもらい、議論の場を設けていきます。改正個人情報保護法など、日本の個人情報保護制度とAI活用の折り合いをどのようにつけていくかは大きな課題ですし、そこにはサイバーセキュリティーの問題も絡んでくる。個人情報をビジネス視点で見ることの多い米国などに比べて、日本は個人情報の扱いに慎重です。そのことはAI活用のハードルにもなるわけです。</p><p>　医療現場の声をきちんとガイドラインに盛り込んでいくことも、我々の大切な役割です。医療の世界では学会主導で定めたガイドラインが現場の運用規範となっているケースも多く、私達もそうした役割を目指したい。実践的なガイドラインを作っていくためには、行政や法律家だけに一任していてはいけないと思います。</p><p>　もちろん、必要な場面では厚生労働省や経済産業省など行政側で議論が進められているガイドラインとも連携を図っていきます。私自身、そうした行政の議論にもメンバーとして加わっていますから。</p><p></p></div><div><div><span>1</span></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/082900125/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/082900125/?ST=health&amp;P=3"><span>3</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/082900125/?ST=health&amp;P=4"><span>4</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/082900125/?ST=health&amp;P=5"><span>5</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/082900125/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
@@ -237,6 +231,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/327442/090600271/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　「時間の効率活用や患者の医療費削減などのメリットはある。ただし、医業収入は半減する」——。過疎地域で遠隔診療（オンライン診療）の実証試験に取り組んだ開業医の言葉である。</p><p>　秋田県湯沢市の南端に位置し、高齢化率が34.8％に達する皆瀬地区。ここには市立皆瀬診療所が1軒あるが、30年勤務した医師が2016年3月に退職した。</p><p>　常勤医募集に応じる医師もいないため、同地区の医療崩壊を何とか防ごうと湯沢市雄勝郡医師会所属の医師3人が、週3回（うち1回は午後診療のみ）の外来を補助してきた。しかし、20人ほどの在宅患者の訪問診療までは手が回らず、市はICTを用いた遠隔診療で在宅医療を維持しようと実証試験を試みた。</p><p>　その実証担当として手を挙げたのが、小野崎医院院長の小野崎圭助氏だ。実証試験の検証概要を、同氏が「第18回 日本糖尿病情報学会年次学術集会」（2018年8月24～25日、秋田市）の特別企画で講演した。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327442/090600271/?SS=imgview_ndh&amp;FD=-1099064106" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327442/090600271/n1.JPG?__scale=w:500,h:375&amp;_sh=0bf08d03d0" width="500" height="375" alt=""></a></div><div>実証試験を行った小野崎氏</div><div>クリックすると拡大した画像が開きます</div></div></div><p></p><h4>複数疾患を持つ在宅患者を対象に</h4><p>　実証試験前の訪問診療は、こうだった。小野崎医院から自分の車で皆瀬診療所までの22kmを35分かけて通い、そこから診療所の車に乗り換えて訪問する。最も遠方の患者宅までは診療所から13km、約20分を要した。</p><p>　この最も遠方の患者を含む、在宅患者6人を対象として遠隔診療を実施した。対面診療を補えるのか、（訪問診療の）時間的な問題や金銭的な問題に寄与するのかを検証した。</p><p>　対象患者は71～93歳の男女、要介護度2～4の6人。対象者の疾病名は、脊椎圧迫骨折/慢性気管支炎、脳梗塞後遺症/神経因性膀胱、くも膜下出血後遺症/糖尿病など、いずれも複数疾患を持ち、膀胱バルーン留置、在宅酸素療法（HOT）を施す患者も含まれる。<br></p></div><div><div><span>1</span></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327442/090600271/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327442/090600271/?ST=health&amp;P=3"><span>3</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327442/090600271/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
 			<pubDate>Thu, 06 Sep 2018 15:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>関電子会社、精華町にメガソーラー、24円/kWhで</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/090611473/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Thu, 06 Sep 2018 19:45:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
