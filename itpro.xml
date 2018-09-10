@@ -5,51 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n11</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>一部の企業でReact Native離れが始まる（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/082000458/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　モバイルアプリ開発のブレークスルーとして歓迎された米Facebookのフレームワーク「React Native」がつまずきを見せつつある。React Nativeを採用した企業の一部では、その利用を再考する動きが見られる。一方、Facebookは、React Nativeに修正を加える計画を打ち出している。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082000458/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Ryan McGuire</div>
-</div>
-<p>
-　React Nativeは、Facebook自身のほか、米Uber、米Tesla、Facebook傘下のInstagramなどが採用してきた。米市場調査会社IDCは、2015年末に発表したレポートの中で、React Nativeはハイブリッド開発の新しい枠組みを提供し、開発者をWebViewコンポーネントから解放するものだとの見解を示していた。ネイティブなパフォーマンスを実現し、デバイスが本来備えているプラットフォームの能力をWeb開発者が生かせるとしたが、その一方で、React Nativeはまだ成熟していないという点も指摘していた。
-</p>
-<h4>
-一部企業がReact Native採用を見直し
-</h4>
-<p>
-　React Nativeは、JavaScript UIライブラリ「React」と同様のデザインにより、JavaScriptを使ってネイティブ表示のモバイルアプリを開発できる。だが、React Nativeを採用した企業の中には、同フレームワークに伴う問題から、利用を中止するところも出てきている。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082000458/?ST=cio-appli&P=2">・米Airbnbは、ReactNativeの利用...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082000458/?ST=cio-appli&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082000458/?ST=cio-appli&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082000458/?ST=cio-appli&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082000458/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Mon, 20 Aug 2018 11:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d11</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>「放送の未来像」真価が問われるのはこれから（メディアビジネス最前線）</title>
@@ -1186,6 +1145,38 @@
 </div>
 ]]></description>
 			<pubDate>Mon, 10 Sep 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>英郵便事業、GDPRのリスクを乗り越えてマーケティングサービスを再開（前）（英郵便事業、GDPRのリスクを乗り越えてマーケティングサービスを再開）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/090300168/090300001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　欧州連合（EU）の一般データ保護規則（GDPR）は、「同意」についての要件が厳しくなっており、そのためマーケティング戦略の再考を迫られている企業は多い。英郵便事業会社Royal Mailが提供しているサービス「Home Mover Marketing Service（HMMS）」は、この規則に息の根を止められる思いだった。</p>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300168/090300001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　HMMSは、引っ越しをした人に向けたダイレクトマーケティングキャンペーンを企業が展開できるようにするサービスだ。Royal Mailのデータを利用して、引っ越しに関連する商品、サービス、特典などをマーケティングできる。</p>
+
+<p>　HMMSは、Royal Mailの転居届けサービスから得られる転居者の連絡先や住所のデータと、英Zooplaの不動産データを組み合わせて、人々が引っ越しをするタイミングを把握し、こうした人々の購入のトリガーを見極める。企業はこのデータを使って、例えば家財保険やブロードバンドサービス、家具、電化製品など、引っ越し関連の商品やサービスを買う可能性が高そうなタイミングで、転居者に接触できる。</p>
+
+<p>　このサービスが対象にしているマーケティング機会は、大きな収益を生む可能性がある。Royal Mailの推計では、年間で英国在住者の11％が引っ越しを行い、転居から半年以内で、移転先に平均9000ポンドを投じる。英国全体で、引っ越し関連の商品やサービスに対する支出は90億ポンド以上、転居から1年以内に家の改善に投じる費用は70億ポンド以上だという。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300168/090300001/?ST=cm-industries&P=2">HMMSは、引っ越し市場に対するRoyalMailならではの視点...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300168/090300001/?ST=cm-industries&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300168/090300001/?ST=cm-industries&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300168/090300001/?ST=cm-industries&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300168/090300001/?ST=cm-industries&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 11 Sep 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
