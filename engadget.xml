@@ -5,28 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ダイソンが技術と素材の秘密を公開。9月15、16日東京ミッドタウンで展示会開催
-</title>
-			<link>https://japanese.engadget.com/2018/09/08/9-15-16/</link>
-			<description><![CDATA[     <img src="https://prtimes.jp/i/37318/1/resize/d37318-1-333496-0.jpg" />
-
-​​​​​エンジニアリングにおける技術と素材の追求を続け、日常生活の問題を解決する、英国企業ダイソン。社員の三分の一以上がエンジニアと科学者から成るこのグローバルテクノロジーカンパニーが、来たる9月14日、斬新なヘアードライヤーを発表し、次なるチャレンジに挑みます。
- ]]></description>
-			<pubDate>Sat, 08 Sep 2018 22:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    噂の通話+SMS用ケータイ un.mode phone01実機レビュー。通話用の2台目に便利な小型端末
-</title>
-			<link>https://japanese.engadget.com/2018/09/08/un-mode-phone01/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/7af4f33ea9e237596c90a44c42c0a64f/206649465/2018-09-07+10.05.53.jpg" />
-現在Makuakeで支援募集中の、通話とSMSしか出来ないSIMフリー携帯電話「un.mode phone01」の実機をお借りしたので、ミニレビューをお届けします。
-
-このun.mode（アンモード） phone01というモデルは、メーカー公式のキャッチなどで「ガラケー」と称されることもありますが、詳しく見ていくと、実は日本特有機能、いわゆるガラパゴス要素は皆無です。なので正しくはガラケーではなく「SIMフリーのフィーチャーフォン」と呼ぶのが妥当です。
-<p><a href="https://japanese.engadget.com/gallery/un-mode-phone01-0/" title="un.mode Phone01">【ギャラリー】un.mode Phone01 (15枚)</a></p>
- ]]></description>
-			<pubDate>Sat, 08 Sep 2018 23:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    新iPhone、6.1インチは「Xr」で6.5インチは「Xs Max」?：最新のアップル噂まとめ
 </title>
 			<link>https://japanese.engadget.com/2018/09/08/iphone-6-1-xr-6-5-xs-max/</link>
@@ -364,6 +342,51 @@ MMD研究所は「2018年8月 モバイルデバイスシェア調査」を発�
 主に影響を受けていると見られるのが、2つあるサイズのうち38mmモデルです。アップル公式ストアでは、シルバーおよびスペースグレイのSeries 1が日本でも「現在注文できません」とのステータスになっています。
  ]]></description>
 			<pubDate>Mon, 10 Sep 2018 02:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Android版フォートナイト、21日間で1500万インストール。マルウェアへの取り組みも本格化
+</title>
+			<link>https://japanese.engadget.com/2018/09/10/android-21-1500/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/ed7459cfa046cbf4ff889898c32c1de8/206652047/fortnite.jpg" />
+8月9日からSamsungのGalaxyデバイス先行でAndroid版がリリースされた、Epic Gamesの大人気タイトル「Fortnite(フォートナイト)」。まだ招待制をとっていますが、それでもリリース後21日間で2300万人がベータテストに参加し、APKインストール数は1500万以上とEpicが発表しました。
+
+ 
+関連記事：フォートナイトがAndroid版ベータ開始。Galaxy先行、他機種の招待申請も受付中
+
+Android版のフォートナイトは、Google Playを介さず、独自に配信されているのが大きな特徴。これは、Googleの高すぎる手数料を回避するのが理由の1つです。
+
+1500万インストールのうち、実際に課金した割合は推測するしかありませんが、仮に5%が1000円を課金したとすると、その額は7億5000万円。Google Playの手数料は30%なので、およそ2億2500万円を節約できたことになります。
+
+ 
+関連記事：Android版『Fortnite』、Google Playを利用せず独自配信を発表。「30％の手数料が高すぎるから」
+
+ただ、独自配信を選択したがゆえの問題も発生しており、8月末には早速脆弱性が発見され、その対策アップデートも実施されています。
+
+ 
+関連記事：Android版Forniteベータ版に深刻な脆弱性が発見。すでに対策済みインストーラーが配布中
+
+このほか、マルウェアなどが仕込まれたAPKを配布する、不正サイトの存在も問題視されています。これについても対策に乗り出しており、現在までに47のサイトに対してアクションを起こしたとしています。Epicによると、その多くは同じ運営元が管理しているとのことです。
+
+また、実際にマルウェアを拡散しているかどうかに関わらず、Android版フォートナイトのAPK配信は、そのすべてを不正な行為とみなすとしています。正式な入手方法は、Epic Games公式のフォートナイトインストーラーだけとのことです。そのインストーラー自体は公式サイトのほか、GalaxyデバイスならSamsungのAppストア、Galaxy Appsから入手可能です。
+
+Epicは、フォートナイトをGoogle Playを通さずにリリースしたゲームとして、初の大ヒット作品になったとしています。短期間で1500万人を超えるAndroidユーザーを得られたという事実から、このアプローチが正しいものであり、大成功するかの可能性があることがうかがえるとのこと。
+
+ただ、これが行えるのは、Epicという大企業、かつフォートナイトという人気タイトルだからこそではあります。今後、これに追従する企業やタイトルが急増するとは思えませんが、今後のGoogle Play(その手数料)の在り方に一石を投じる可能性はありそうです。
+
+なお、Epicのブログによると、Android版のリリースについては、Androidの多様性、というと聞こえがいいですが、要するにAndroidのバージョンやハードウェアの違い（断面化）に対応するための技術的な困難も多かったとのこと。ここで得られた知見はUnreal Engine 4 4.21に反映させ、Unreal Engineデベロッパーの誰もが恩恵を受けられるようにするとしています。
+ ]]></description>
+			<pubDate>Mon, 10 Sep 2018 02:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Mac App Storeの人気アプリ「Adware Doctor」、ブラウザ履歴を中国に送信していたと判明。現在は削除
+</title>
+			<link>https://japanese.engadget.com/2018/09/10/mac-app-store-adware-doctor/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/9e27cd073128e990ea06f4a9a74ad3ef/206652134/app.jpeg" />
+米アップルのMac AppStoreランキング上位の有料アプリ「Adware Doctor」が、実はユーザーのブラウザ履歴を中国のサーバーに送信していたことが明らかとなりました。
+
+Adware Doctorは「マルウェアや悪意あるファイルがMacに感染することを防ぐ」とうたった、表向きはアドウェア対策アプリです。アップルは問題の報告を受けた後も約1ヶ月も放置していましたが、記事執筆時点ではストアから削除されています。
+ ]]></description>
+			<pubDate>Mon, 10 Sep 2018 03:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
