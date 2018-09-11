@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>AIで電子カルテ情報を構造化、きりんカルテシステム</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/090411461/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><p>　完全無料クラウド型電子カルテ「カルテZERO」を展開するきりんカルテシステムは、クラウド上で動作する医療言語処理エンジン「きりんカルテDX」を開発した。カルテに入力した自然言語から医療用語など構造化されたカルテ情報を生成し、データ共有や活用しやすくする。</p><p>　今後、地域医療連携における患者情報共有への応用を視野に入れる。きりんカルテDXによって抽出、構造化したカルテ情報（構造化カルテ）を用いた情報連携ができるネットワークづくりを支援していく。</p><p></p><h4>分類精度は80％以上</h4><p>　今回の医療言語処理エンジンは、TXP Medicalと日本マイクロソフトの協力を得て開発した。</p><p>　自然言語によるカルテ情報の構造化には、救急外来・ER診療のシステムを提供するTXP Medicalの技術を用いた。電子カルテに入力されたテキスト情報から病名（略称を含む）、医薬品名、用量、処置などの重要な情報を抽出し、標準的な記載に変換した構造化データを作成する。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/090411461/?SS=imgview_ndh&amp;FD=-1099032330" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/090411461/n1.jpg?__scale=w:500,h:303&amp;_sh=03803408d0" width="500" height="303" alt=""></a></div><div>自然言語によるカルテ情報から構造カルテの生成例</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　同技術は救急・集中治療に携わる医師によって開発され、救急外来・ER診療システム「Next Stage ER」に搭載されて複数の救急・救命センターに提供されている<a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/051100515/?ST=health" target="_blank">（関連記事）</a>。</p><p>　加えて、Microsoft Azureを基盤とするMicrosoft Cognitive Servicesの言語処理にかかるAI技術を活用した。これにより、医療情報の分類精度を向上させたという。</p><p>　分類精度は現在、80％を超えているとする。AI学習によりさらに精度を向上させ、今後は地域医療連携モデルでの実証実験やカルテZERO利用医療機関でさらに検証を行っていくとしている。</p></div>]]></description>
-			<pubDate>Tue, 04 Sep 2018 10:40:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>四国電力が「再エネ100％」プラン、水力99％、太陽光は0.3％</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/090411460/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -243,6 +237,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/091111486/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Tue, 11 Sep 2018 12:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>エネルギー分野で「無形資産」への投資が増加、IEAが分析</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/091111487/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 11 Sep 2018 15:22:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
