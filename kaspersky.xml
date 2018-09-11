@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Instagramアカウントを乗っ取る手口</title>
-			<link>https://blog.kaspersky.co.jp/instagram-hijack/21358/</link>
-			<description><![CDATA[最近、Instagramアカウントのハッキングが話題になりました。アカウントが乗っ取られないために知っておきたいことをまとめます。]]></description>
-			<pubDate>Wed, 29 Aug 2018 04:00:54 +0000</pubDate>
-		</item>
-		<item>
 			<title>【Global Transparency Initiative】ステータスアップデート</title>
 			<link>https://blog.kaspersky.co.jp/transparency-status-updates/21378/</link>
 			<description><![CDATA[Kaspersky LabのGlobal Transparency Initiativeの現況および更新情報。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/smart-city-vulnerabilities/21345/</link>
 			<description><![CDATA[スマートシティはどの程度安全なのでしょうか？]]></description>
 			<pubDate>Mon, 10 Sep 2018 01:00:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>Man-in-the-Disk：Androidハッキングの危険な新手法</title>
+			<link>https://blog.kaspersky.co.jp/man-in-the-disk/21388/</link>
+			<description><![CDATA[無害を装ったAndroidアプリが、共用外部ストレージを悪用してスマートフォンに侵入する方法とは。]]></description>
+			<pubDate>Tue, 11 Sep 2018 01:00:37 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
