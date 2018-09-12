@@ -5,15 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    2時間飛び続けられるドローン「US-1」。バッテリーが機体構造を兼用
-</title>
-			<link>https://japanese.engadget.com/2018/09/10/2-us-1/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/ec2b05ef5a405488ebc77492edbc7be5/206654220/imp01.jpg" />
-米国のスタートアップ企業Impossible Aerospaceは、開発中のドローン「US-1」が、最長2時間ものあいだ着陸することなく飛び続けられると説明します。一般的なドローンは良くても20～30分ほどの飛行時間であることを考えると、US-1はその約5倍ほどは飛び続けられる計算です。
- ]]></description>
-			<pubDate>Mon, 10 Sep 2018 18:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    金のiPhoneとWatchか！Apple発表速報を現地から手を変え品を変えお届けします
 </title>
 			<link>https://japanese.engadget.com/2018/09/10/iphone-watch-apple/</link>
@@ -665,6 +656,29 @@ Bloomberg
 では、実際に関税がアップルの業績にどれほどの影響を与えるのか？　それは年間売上高では4〜5％、利益に及ぼすマイナス効果は1％に過ぎないとのアナリスト予測が報じられています。
  ]]></description>
 			<pubDate>Tue, 11 Sep 2018 20:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    LTE-Mでデータをリアルタイム送信する義足を開発。装着感などのケアに利用
+</title>
+			<link>https://japanese.engadget.com/2018/09/11/lte-m/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/9eb95f4bf78a9c53045b8aa88b9d9bbe/206655487/dims.jpg" />
+日本ではまだあまり活用例を聞かないLTE-Mですが、米国ではSamsungが紛失防止のトラッカーを発表するなど、一般利用が進みつつあります。そのLTE-Mを利用した新しい試みが医療・介護分野でも発表されています。
+
+義手や義足などを手掛けるHanger ClinicがAT＆Tと協力し、スタンドアロンでネットワークに接続し、義肢を快適に使う為に必要となるデータをアップロードできるシステムを開発したと発表しました。
+
+簡単に説明すると、義足に加速度計やジャイロスコープ、磁力計を組み込み、そのデータをAT＆TのLTE-Mネットワークを介して送信するというもの。Wi-FiやBluetooth接続が無くても、ほぼリアルタイムにデータ送信を行うことが可能です。
+
+送信されたデータから、動作の速さや衝撃、方向、回転などの情報を読み取り、フィット感やバランスを調整。より快適に使用できるようケアしていくのが目的です。
+
+なお、患者側では専用のiOSアプリから計測データの一部（ステップ数など）を確認可能。アプリにはビデオ通話機能もあり、Hanger Clinicの担当者と義肢の問題点について直接話し合えます。
+
+義肢が合っていないと、痛みが出たり、そのために出歩くのが億劫になって活動量が減ってしまうこともありますが、患者によってはそのことを上手く伝えられない人もいます。しかし、アップロードされるデータから、そういった活動量の低下などを医師側からも確認できるのが、大きなメリットです。
+
+まだ試作品の段階で、現状では義足のみですが、すでに5人の患者とテスト中。今後、可能な限り早く市場に投入したい考えとのことです。
+ 
+
+ ]]></description>
+			<pubDate>Tue, 11 Sep 2018 20:50:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
