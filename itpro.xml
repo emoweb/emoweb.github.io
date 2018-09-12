@@ -5,52 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d12</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>JavaでSIMDをサポート、Vector APIの開発が進む（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082100539/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Oracleと米Intelは、JavaでSIMD（Single Instruction, Multiple Data）のベクトル演算をサポートするための「Vector API」の開発を進めている。コードの中でベクトル演算を簡潔に表現でき、サポート対象となるCPUアーキテクチャーでの実行時に最適なハードウエア命令へのコンパイルが可能となることから、パフォーマンスを大幅に向上できる可能性がある。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082100539/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Nathan Dumlao / Lagarto Film / Getty Images</div>
-</div>
-<p>
-　このAPIのプロジェクトは、JVMとネイティブコードとの相互接続に焦点を当てた取り組み「Project Panama」の一部として、インキュベータモジュールjdk.incubator.vectorの最初のバージョンを提供することを目指している。以下のような目標を掲げ、将来的にはGraalコンパイラのサポートも計画している。
-</p>
-<ul>
-<li>多種多様なベクトル演算を明瞭かつ簡潔に表現できるAPIを提供する。
-</li>
-<li>x64アーキテクチャーで確実な実行時コンパイルとパフォーマンスを提供する。
-</li>
-<li>アーキテクチャーの違いを問わない。
-</li>
-<li>グレースフルなデグレードを実現する。必要な命令を完全にはサポートしていないx64アーキテクチャーや、サポート外のCPUアーキテクチャーで、実行時にベクトル演算をハードウエア命令のシーケンスとして完全に表現できない場合でも、グレースフルなデグレードにより、動作を続けられるようにする。この時、開発者に警告が提示される可能性もある。
-</li>
-</ul>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082100539/?ST=cm-software&P=2">OracleとIntelが触れ込みどおりのAPIを実現した場合、...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082100539/?ST=cm-software&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082100539/?ST=cm-software&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082100539/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 21 Aug 2018 11:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n12</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Apple Watchのアクティビティ、バッジ完全制覇への道（中）（Apple Watchのアクティビティ、バッジ完全制覇への道）</title>
@@ -1203,6 +1161,42 @@
 </div>
 ]]></description>
 			<pubDate>Wed, 12 Sep 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Firefox、Windows XP／Vista対応版のサポートを終了（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/091200548/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米MozillaのWebブラウザー「Firefox」は、米MicrosoftのWindows XPとWindows Vistaに対応する最後のバージョン「Firefox ESR 52.9」のサポートを、2018年9月初めに終了した。今後、両OSで動くFirefoxにはセキュリティアップデートが提供されない。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/091200548/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: IDG</div>
+</div>
+<p>
+　FirefoxのエンジニアであるChris Hutten-Czapski氏は、9月5日付けの個人ブログ記事で次のように述べている。「Microsoftがサポートをやめた後、XPのサポートを延々と続けるのは苦労が伴い、リソースの投入が必要だった。XPに時間を取られ、他のことに取り組めなかった」
+</p>
+<p>
+　MicrosoftによるOS自体のサポートは、Windows XPに対しては2014年4月、Vistaは2017年4月にそれぞれ終了していた。Firefoxは、2018年6月26日リリースのFirefox ESR 52.9まではWindows XPと同Vistaに対応してきたが、このバージョンは9月4日をもってサポート期間が終了し、セキュリティパッチが提供されなくなった。後継バージョンはFirefox ESR 60.2だ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/091200548/?ST=cm-software&P=2">ESR（ExtendedSupportRelease：延長サポー...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/091200548/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/091200548/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/091200548/?ST=cm-software&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/091200548/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 12 Sep 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
