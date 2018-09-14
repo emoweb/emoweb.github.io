@@ -11,44 +11,6 @@
 			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>「どこでもMy Mac」はmacOS Mojaveで廃止に、代替策は（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082300540/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　今秋リリース予定の「macOS Mojave 10.14」は、さまざまな新機能を搭載する一方で、廃止となる機能もある。「どこでもMy Mac」がそうだ。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082300540/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: IDG</div>
-</div>
-<p>
-　米MacRumorsの2018年8月21日の記事によると、macOS Mojaveのベータ版で、どこでもMy Macが間もなく終了するという警告が表示されるようになった。米Appleが2018年8月9日付けで公開した<a href="https://support.apple.com/ja-jp/HT208922" target="_blank">サポート情報</a>を見ると、macOS MojaveでどこでもMy Macが使えなくなることについて公式な説明がある。
-</p>
-<p>
-　どこでもMy Macとは、Macにリモートでアクセスし、ファイルや画面を共有できる機能だ。同一のiCloudアカウントに紐付けられたMac同士で利用でき、「OS X Lion 10.7.5」以降が必要だった。
-</p>
-<p>
-　macOS Mojaveにアップグレードしなければ、どこでもMy Macは引き続き使える。どこでもMy Macの設定方法については、Appleの<a href="https://support.apple.com/ja-jp/HT204618" target="_blank">サポート情報</a>に説明がある。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082300540/?ST=cm-software&P=2">廃止後の代替策は</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082300540/?ST=cm-software&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082300540/?ST=cm-software&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082300540/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 23 Aug 2018 11:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Apple Watchのアクティビティ、バッジ完全制覇への道（下）（Apple Watchのアクティビティ、バッジ完全制覇への道）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/080300161/080300003/</link>
 			<description><![CDATA[<div>
@@ -1187,6 +1149,41 @@
 </div>
 ]]></description>
 			<pubDate>Fri, 14 Sep 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Oracle、Java用のマイクロサービスフレームワーク「Helidon」を発表（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/091400550/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Oracleは、Java用の新しいマイクロサービスフレームワーク「Project Helidon」を発表した。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/091400550/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　Helidonは、マイクロサービスを構築するためのJavaライブラリで構成されているオープンソースのフレームワークだ。ネットワークアプリケーション開発フレームワークのNettyを基盤として動作し、Helidon Reactive WebServerなどの要素を備えている。クラウド対応のアプリケーション開発をサポートし、ヘルスチェック、メトリクス、トレーシング、フォールトトレランスなどに対応する。
+</p>
+<p>
+　Java EE（Enterprise Edition）でのマイクロサービス開発はこれまでも可能だったが、専用のフレームワークがあった方がよいとOracleは説明している。アプリケーションサーバーを必要とせずに、Java SE（Standard Edition）アプリケーションで使用できる軽量なライブラリ群を構築したいと考えたという。各ライブラリを別々に使うことも可能だが、それらを組み合わせることで、セキュリティ、構成、Webサーバーなど、マイクロサービス開発の基盤となる要素がすべて得られるとしている。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/091400550/?ST=cm-software&P=2">HelidonはMicroProfileのバージョン1.1を実装...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/091400550/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/091400550/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/091400550/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 14 Sep 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
