@@ -5,50 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n18</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Firefox、旧式アドオン廃止のロードマップが明らかに（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/082400460/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Mozillaは、旧式のアドオンが動作する「Firefox」のサポートを9月初めで終了することを発表し、旧式の拡張機能の打ち切りに向けたロードマップを明らかにした。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082400460/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: IDG</div>
-</div>
-<p>
-　Mozillaのアドオンコミュニティマネージャー、Caitlin Neiman氏は、2018年8月21日付けの公式ブログ記事で次のように表明した。「旧式のアドオンが動作する最後のバージョンであるFirefox ESR 52は、2018年9月5日でサポートを終了する」
-</p>
-<p>
-　Firefox ESR（Extended Support Release：延長サポート版）とは、機能更新の頻度が低いブラウザーを求めている法人ユーザーなどに向けて提供されているFirefoxだ。通常版のFirefoxが約6週ごとに機能更新を行っているのに対し、ESRの機能更新は年1回程度しかない。今回サポート終了が発表されたFirefox ESR 52は、2017年3月にリリースされた。今年5月には、後継のFirefox ESR 60が登場している。Mozillaは、ESR 60のリリース後も、52と60の両バージョンに対して、セキュリティ更新の定期マイナーアップデートを提供し、ユーザーが52から60に移行するための時間的猶予を与えていた。
-</p>
-<p>
-　Firefox ESR 52は旧式のアドオンに対応しているFirefoxの最後のバージョンであることから、Mozillaは、旧式のアドオンを拡張機能の配布ページから一掃する動きもすぐに始める予定だ。ブログ記事には、「addons.mozilla.org（AMO）で旧式のバージョンのアドオンを無効化するプロセスを9月に開始する」と説明がある。9月6日以降は旧式のアドオンの新規受け付けを行わず、10月初めには、旧式のすべてのバージョンのアドオンを無効化する。「それ以降は、該当する拡張機能をAMOでユーザーが見つけることはできなくなる」として、開発者に注意を促している。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082400460/?ST=cio-appli&P=2">この段階に至るまで、Mozillaはかなりの時間...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082400460/?ST=cio-appli&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082400460/?ST=cio-appli&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082400460/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Fri, 24 Aug 2018 11:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d18</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>コンピューターサイエンスの学位を無視すべき10の理由（上）（コンピューターサイエンスの学位を無視すべき10の理由）</title>
@@ -1146,6 +1106,40 @@
 			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/379554/090500034/</link>
 			<description><![CDATA[　朝日新聞社が朝日放送テレビと共同で展開する「バーチャル高校野球」のライブ中継（地方大会と全国大会）がスポーツメディア「SPORTS BULL（スポーツブル）」で2018年7月4日から8月21日にかけて実施された。地方大会では709試合を、全国大会については全55試合を視聴できるようにした。]]></description>
 			<pubDate>Tue, 18 Sep 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>米セントルイス大、Alexaデバイスを学生寮の全室に導入（前）（米セントルイス大、Alexaデバイスを学生寮の全室に導入）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/090700170/090700001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　米セントルイス大学は、米Amazon.comのスマートスピーカー「Echo Dot」を2300台以上導入し、学生寮の全室に設置した。学内の行事や講演をはじめ、大学に関して学生が発するさまざまな疑問に、音声アシスタント「Alexa」が回答する。</p>
+
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700170/090700001/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit：Saint Louis University</div>
+</div>
+
+<p>　同大学のDavid Hakanson最高情報責任者（CIO）によると、今後は教室や会議室にもAlexaの導入を広げる計画で、教職員の生産性向上に生かしたいと考えている。</p>
+
+<p>　同大学の学生たちは、新学期が始まった8月から、学内の施設や業務などに関する疑問を解消するカスタムスキルを利用できるようになった。「図書館の開館時間は？」「教務課の窓口はどこにある？」などと尋ねて、回答を得ることができる。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700170/090700001/?ST=cm-hardware&P=2">現時点でAlexaが答えられる質問は130項目。その数を増やす作...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700170/090700001/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700170/090700001/?ST=cm-hardware&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700170/090700001/?ST=cm-hardware&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700170/090700001/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 18 Sep 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
