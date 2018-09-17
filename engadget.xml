@@ -5,25 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Googleが設定ミスでAndroid 9 Pie端末のバッテリー設定をリモートから変更。現在は修正済み
-</title>
-			<link>https://japanese.engadget.com/2018/09/15/google-android-9-pie/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/4044a9b53420a870adfcaabd197af5b2/206667286/dims.jpg" />
-ここ数日、PixelやEssentia Phoneなど一部のAndroid端末で、アプリがバックグラウンドで終了する、スリープ状態で位置情報サービスが利用できない、各種通知が遅れるなどの現象が出ていたようです。この症状、端末のバッテリーセーバー機能が有効になってしまうのが原因だったのですが、Googleの設定ミスにより、ほぼ満充電の状態でもバッテリーセーバーが働いてしまっていたとのことです。
-
-対象となったのは、Android 9 Pieを実行していた端末。PixelやEssentail Phoneなど正式版がリリースされている端末のほか、OnePlus 6、Nokia 7+など、Android 9 Pieのベータ版を実行してた端末も影響を受けたとのこと。
-
-この件について、Googleはバッテリーセーバー機能のテスト時の設定ミスを認め、設定を元に戻しました。本来、内部だけでテストするはずだったものが、外部のユーザーにも影響を与えてしまったとのこと。一応、これで一段落ではあるのですが、今回の騒動は、Googleがユーザーの端末をリモートから自由に設定できることを、あらためて知らしめたことになります。
-
-今回はAndroid 9 Pieだけだったので、あまり大きな影響はなく終息しました。しかし、これがAndroid全般、そして省電力モードではなく端末のフォーマットなど他の機能だったらと考えると、その影響の大きさは計り知れません。
-
-もちろん、これはGoogleに限った話ではなく、（使われたことはないと思いますが）AppleもiPhoneにインストールされたアプリを任意に削除できる機能を持っているとのこと。また、OSではありませんが、Amazonも消費者が購入したKindle本をリモートで削除可能です。
-
-ミスは起こるものではありますが、今後、こういったミスが発生しないよう、ユーザーとしてはしっかりした管理を期待したいところです。
- ]]></description>
-			<pubDate>Sat, 15 Sep 2018 17:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Nintendo Switch Onlineのセーブデータお預かり、解約後には削除？FAQに記述が見つかる
 </title>
 			<link>https://japanese.engadget.com/2018/09/15/nintendo-switch-online-faq/</link>
@@ -301,6 +282,17 @@ FUJI ROCK FESTIVAL'18オフィシャルサポーターである「RAVPower」か
 6月にNokiaのデジタルヘルス部門Nokia Healthを買収したと発表、年内にブランドを復活する予定としていたWithingsが、ティザーサイトをオープンしました。サイトでは、9月18日16時（日本時間）に向けてカウントダウンが行われています。
  ]]></description>
 			<pubDate>Mon, 17 Sep 2018 02:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    来年にはついに? アストンマーチン、初の量産電気自動車「Rapide E」をチラ見せ
+</title>
+			<link>https://japanese.engadget.com/2018/09/17/rapide-e/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/922b9d24a8c87771524a842b0614e64e/206668192/20180916nas1.jpg" />
+英アストンマーチンは、初の量産電気自動車となる「Rapide E」の車体の一部を公開しました。車両は2019年第4四半期（10月〜12月）から155台が限定投入される予定です。
+
+Rapide Eはスポーツカー「ラピード」をベースとした電気自動車です。車両にはV12エンジンのかわりに65kWhのバッテリーが搭載され、200マイル（約320km）以上の航続距離を実現。さらに610馬力を発揮するモーターが後輪を駆動し、最高速度は時速155マイル（約250km/h）、0-60マイルは4秒以下というスペックを誇ります。
+ ]]></description>
+			<pubDate>Mon, 17 Sep 2018 03:30:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
