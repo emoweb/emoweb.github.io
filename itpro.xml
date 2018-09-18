@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n19</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Mac版Office 365、9月以降の機能更新はOSバージョンに要注意（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082700541/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftは、Mac版の「Office 365」のOfficeクライアントアプリケーションに関して、9月のアップデート以降は対象OSが「macOS Sierra」「macOS High Sierra」になるとして、利用者に注意を促している。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082700541/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Microsoft</div>
-</div>
-<p>
-　Microsoftは、<a href="https://support.office.com/en-us/article/upgrade-your-macos-to-access-new-office-365-for-mac-features-f6efc6b6-90f8-4e69-82dd-d0de32a111aa" target="_blank">サポート情報ページ</a>で次のように説明している。「Office 365 for Macの2018年9月のアップデートからは、Mac用のOfficeクライアントアプリを新バージョンにアップデートして機能更新を受け取るためには、macOS 10.12以降が必要になる」
-</p>
-<p>
-　Microsoftが通常の月次更新のスケジュールに沿ってOffice 365のアップデートを配信するとしたら、9月のアップデートは9月11～12日頃と見られる。その更新のタイミングで、Mac用Officeのクライアントアプリ（Word／Outlook／Excel／PowerPoint）は、現在の「Office 2016」という呼称から、「Office 2019」に変わる。だが、そのアップデートを受け取るためには、macOSがSierra（10.12）かHigh Sierra（10.13）でなくてはならない。
-</p>
-<p>
-　それより前のmacOSでOffice 365のOfficeクライアントを使っている場合、セキュリティ更新プログラムの提供は継続されるが、新しい機能は提供されなくなる。また、9月の更新でOffice 2019へのアップデートを拒否した場合も同様で、新機能は提供されない。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082700541/?ST=cm-software&P=2">Microsoftは、永続ライセンス版の「Office2019f...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082700541/?ST=cm-software&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082700541/?ST=cm-software&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082700541/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Mon, 27 Aug 2018 11:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d19</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>国を揺るがす脅威になり得るか、ディープフェイクの正体（前）（国を揺るがす脅威になり得るか、ディープフェイクの正体）</title>
@@ -1147,6 +1109,50 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 18 Sep 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>データ流出の事後対応、脅威を抑える5つの手順（前）（データ流出の事後対応、脅威を抑える5つの手順）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/090700169/090700001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　米大手携帯キャリアT-Mobileは8月下旬に、利用者の個人情報がハッキングで流出したことを明らかにした。流出したデータの中には、暗号化済みのパスワードも含まれている。利用者として、こうしたデータ漏えいにいざ巻き込まれた時に、脅威を軽減するためにはどのように対応すればよいのだろうか。</p>
+
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700169/090700001/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit：Thinkstock</div>
+</div>
+
+<p>　大手のサービスからデータが流出する事例は後を絶たない。データが悪用される前に手を打とうと、利用者は大わらわだ。実に不愉快に感じるデータ流出だが、既に日常的な出来事になっている。しかし、機密性が高いデータが不正アクセスを受けたとしても、完全なパニックに陥る必要はない。通常は、いくつかの基本的な手順を踏めば、脅威にさらされる可能性を抑えられる。</p>
+
+<p>　どのような手順を踏めばよいのか、見ていくことにしよう。</p>
+
+<h4>手順1：被害の中身を見極める</h4>
+
+<p>　まず確認すべきは、ハッカーたちが何を盗んでいったのかだ。例えば、流出したのがユーザー名とパスワードだけであれば、クレジットカード会社に連絡してもあまり意味がない。</p>
+
+<p>　報道記事や、会社の公式発表を見れば、流出したデータが具体的に分かるはずだ。メールアドレスのみなのか、それともパスワードも流出したのか。クレジットカード番号も入っているだろうか。プライベートなメッセージなどの個人データはどうだろうか。</p>
+
+<p>　何が流出したのかを確認することが、効果的な復旧計画を立てるための第一歩である。だが、具体的な行動を起こす前に、続けて考えておくべき重要な問いがもう1つある。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700169/090700001/?ST=cio-security&P=2">手順2：流出したデータの悪用が可能かどうかを考え...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700169/090700001/?ST=cio-security&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700169/090700001/?ST=cio-security&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700169/090700001/?ST=cio-security&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700169/090700001/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Wed, 19 Sep 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
