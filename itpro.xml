@@ -5,40 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d18</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>コンピューターサイエンスの学位を無視すべき10の理由（上）（コンピューターサイエンスの学位を無視すべき10の理由）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/081000163/081000001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　コンピューターサイエンスの学位が悪いということではない。我々の多くが解決を必要としている問題には合致しそうにないということである。ここからは、コンピューターサイエンスの学位を無視した方がよいかもしれない理由について、網羅的ではないが、挙げていくことにする。</p>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　「コンピューター」「サイエンス」という2つの言葉について考えてみよう。「コンピューター」が世界にもたらしたものは膨大だ。人の命を救う電子医療記録の普及から、酒場で繰り広げるような口論の機会がTwitterで1日中得られることまで、多岐にわたる。「サイエンス」の方は、大きな前進を成し遂げてきた知的活動を象徴する。ポリオワクチン、何度かの月面着陸など、サイエンスが果たした前進の例は枚挙にいとまがない。それなのに、2つの言葉をつなげた「コンピューターサイエンス」となると、かなり期待外れなのはなぜだろうか。特に、プログラミングチームを増員しようとしている時に期待を裏切られる。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000001/?ST=cio-management&P=2">コンピューターサイエンスという分野が何の成果も生...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000001/?ST=cio-management&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000001/?ST=cio-management&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000001/?ST=cio-management&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Mon, 27 Aug 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n18</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Mac版Office 365、9月以降の機能更新はOSバージョンに要注意（Computerworldニュース）</title>
@@ -1140,6 +1110,43 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 18 Sep 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Hadoop上でTensorFlowを分散処理する「TonY」、LinkedInが公開（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/091800467/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米LinkedInは、TensorFlowのディープラーニングをHadoop上で動かすためのフレームワーク「TonY（TensorFlow on YARN）」をオープンソースで公開した。YARNのジョブスケジューリングと連携して、TensorFlowのジョブの大規模な分散処理や管理に対応する。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/091800467/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Ryan McGuire</div>
+</div>
+<p>
+　LinkedInは、TensorFlowのジョブをHadoop上で分散処理するために、既存のオープンソースのソリューションをいくつか試してみたものの、要件を満たしきれない部分があることから、TonYの開発を決めたと説明している。既存のソリューションのうち、例えばSpark上でTensorFlowを動かす「TensorFlow on Spark」は、Sparkとの結合が密すぎる点に難があり、TonYと同じような基本的機能を持つ「TensorFlowOnYARN」は、現在メンテナンスされていない点や、フォールトトレランスへの対応が十分でない点に難があると判断した。
+</p>
+<p>
+　TensorFlowモデルのトレーニングには、何らかのジョブ管理が必要となる。何十時間や何日という単位で時間がかかる場合もあり、トレーニングのプロセスが正しく完了するという何らかの確証が求められる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/091800467/?ST=cio-appli&P=2">LinkedInの説明によると、TonYはYAR...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/091800467/?ST=cio-appli&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/091800467/?ST=cio-appli&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/091800467/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 18 Sep 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
