@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>企業の情報システム：セキュリティ上のよくある問題点と対処方法</title>
-			<link>https://blog.kaspersky.co.jp/security-assessment-report/21318/</link>
-			<description><![CDATA[Kaspersky Labのセキュリティサービス部門が、よくあるエラーについてのレポートを公開しました。企業インフラのサイバー攻撃への耐性を改善するのに役立つアドバイスもあります。]]></description>
-			<pubDate>Wed, 05 Sep 2018 01:00:53 +0000</pubDate>
-		</item>
-		<item>
 			<title>サイバースペースのヴォルデモートを追い詰める</title>
 			<link>https://blog.kaspersky.co.jp/behavioral-model/21296/</link>
 			<description><![CDATA[どんなマルウェアも、正体がわかっていれば検知できます。たとえばトレーニング可能なふるまいモデルを利用すれば、それが可能になるのです。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/whatsapp-backup-google-drive/21408/</link>
 			<description><![CDATA[WhatsApp for Androidでは、チャットデータをGoogleドライブに無料バックアップできます。しかし、古いバックアップが削除される場合があります。どういう対応が必要か見てみましょう。]]></description>
 			<pubDate>Tue, 18 Sep 2018 01:00:55 +0000</pubDate>
+		</item>
+		<item>
+			<title>Faxに関する8つの豆知識：Fax？そう、Fax！</title>
+			<link>https://blog.kaspersky.co.jp/fax-fun-facts/21457/</link>
+			<description><![CDATA[電話とFax、どちらが先に発明された？Faxはもう誰も使っていない？Faxマシンもハッキングできる？（できます）]]></description>
+			<pubDate>Wed, 19 Sep 2018 01:00:27 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
