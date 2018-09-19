@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>太陽光への出力抑制、今秋にも九州本土で実施へ</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/091011482/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Mon, 10 Sep 2018 12:24:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>エネ庁、太陽光「長期未稼働案件」の扱いを検討へ</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/091011483/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -243,6 +237,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/column/15/286991/091300091/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Wed, 19 Sep 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIで胎児の心疾患検知、エコー検査を支援</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/327441/091800560/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　医師が妊婦の腹部に超音波プローブを当てると、胎児の心臓に異常がないかどうかを人工知能（AI）がスクリーニングしてくれる——。理化学研究所と富士通、昭和大学医学部が2020年度の実用化を目指し、そんな技術を共同開発した。妊婦健診などの際に、新生児死亡の大きな要因となる先天性心疾患を見逃さず、胎児期での早期診断とそれに基づく治療につなげることを目指す。</p><p></p><div class="bpimage_left" style="width:240px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/091800560/?SS=imgview_ndh&amp;FD=-1328065538" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/091800560/f1.jpg?__scale=w:230,h:203&amp;_sh=0a80d80560" width="230" height="203" alt=""></a></div><div>自らも産婦人科医の理化学研究所の小松正明氏</div><div>クリックすると拡大した画像が開きます</div></div><p>　先天性心疾患は、全出生児の約1％に見られる頻度の高い先天性疾患だ。新生児の死亡要因の約20％を、重症の先天性心疾患が占める。そのため、妊婦健診の超音波（エコー）検査などで早期に異常を見つけることが重要だが、胎児の心臓の超音波検査には高度な診断技術が求められる。医師間の技術格差や地域間格差を考えると、医師の診断を支援するシステムが求められているという。</p><p>　今回、理化学研究所 革新知能統合研究センター がん探索医療研究チーム研究員の小松正明氏らの共同研究グループは、画像中に映る複数の物体の位置と分類を高精度に判別できる物体検知技術を活用。プローブで胎児の心臓の超音波画像を捉えると、それを基に胎児の心臓の構造や血管の異常を自動検知するソフトウエアを開発した。深層学習（ディープラーニング）ベースのAI技術を用いる。</p><p>　このソフトウエアでは、超音波検査中にプローブが当てられた位置を推定し、検査画像に映っているべき心房や心室などの部位をリアルタイムに提示。これを実際に検査画像に映っていた部位と比較し、違いがある場合に異常と判定する。各部位が実際に映っていたかどうかは、AIが「確信度」として操作画面上に表示。その確信度から算出した心臓の構造と血管の異常度の判定結果も示す。</p><p></p></div><div><div><span>1</span></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/091800560/?ST=health&amp;P=2"><span>2</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/091800560/?ST=health&amp;P=3"><span>3</span></a></div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/091800560/?ST=health&amp;P=2"><span>次のページ ≫</span></a></div></div>]]></description>
+			<pubDate>Wed, 19 Sep 2018 09:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
