@@ -5,47 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n20</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>GitLab 11.2が登場、Web IDEやAndroidへの対応など強化（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/082800461/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　DevOpsプラットフォーム「GitLab」のバージョン11.2がリリースされた。Web IDEでのプレビューや、Androidプロジェクトのインポート対応などに関する機能を強化している。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082800461/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Weegee010</div>
-</div>
-<p>
-　Web IDEに関しては、クライアントサイド評価の機能を使って、JavaScriptで開発するWebアプリケーションのコード変更をリアルタイムでプレビューできるようになった。修正を加えた部分をコミット前に確認したり、変更の実験を行ったりできる。ローカルにクローンすることなくオープンソースプロジェクトへのコントリビューションを行うことも可能になる。
-</p>
-<p>
-　このクライアントサイド評価には、Webアプリケーション用オンラインエディタ「CodeSandbox」の技術が使われている。この機能は、自前で管理しているGitLabインスタンスでは管理者が有効化でき、GitLab.com上のプロジェクトでは既定で有効に設定されている。年内にはサーバーサイド評価にも対応する予定で、Rubyアプリケーションなどのテストが可能になる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082800461/?ST=cio-management&P=2">このほか、GitLab11.2には次のような新機...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082800461/?ST=cio-management&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082800461/?ST=cio-management&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/082800461/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Tue, 28 Aug 2018 11:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d20</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>コンピューターサイエンスの学位を無視すべき10の理由（中）（コンピューターサイエンスの学位を無視すべき10の理由）</title>
@@ -1166,6 +1129,40 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Wed, 19 Sep 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>米セントルイス大、Alexaデバイスを学生寮の全室に導入（後）（米セントルイス大、Alexaデバイスを学生寮の全室に導入）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/090700170/090700002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　米セントルイス大学は、米Amazon.comのスマートスピーカー「Echo Dot」を2300台以上導入し、学生寮の全室に設置した。学内の行事や講演をはじめ、大学に関して学生が発するさまざまな疑問に、音声アシスタント「Alexa」が回答する。</p>
+
+<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/090700170/090700001/" target="_blank">前回</a>から続く）</p>
+
+<h4>セキュリティ</h4>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700170/090700002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　職場でのAIアシスタント導入にはプライバシーの懸念が持ち上がるとFrost＆SullivanのArnold氏は指摘する。同じことは大学での利用にも言える。「いかなる環境であれ、音声アシスタントの前で共有する情報に関して、管理者もユーザーも慎重に意識を向ける必要がある」とArnold氏は言う。</p>
+
+<p>　セントルイス大学も、Alexaの導入プロジェクトの中でこの点は考慮した。「念には念を入れ、一連のデバイスを、この用途だけに使うセキュアな専用ネットワークに接続している」とHakanson氏は説明する。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700170/090700002/?ST=cm-hardware&P=2">EchoDotを使いたくない学生には、ミュートボタンを押してマイ...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700170/090700002/?ST=cm-hardware&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700170/090700002/?ST=cm-hardware&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700170/090700002/?ST=cm-hardware&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700170/090700002/?ST=cm-hardware&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 20 Sep 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
