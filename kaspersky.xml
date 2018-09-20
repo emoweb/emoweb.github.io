@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>機械学習：9 つの課題</title>
-			<link>https://blog.kaspersky.co.jp/machine-learning-nine-challenges/21336/</link>
-			<description><![CDATA[機械学習とは？人間は機械を欺けるか？最終的にはスカイネットと機械の台頭がやって来るのか？機械学習を巡る疑問について見てみましょう。]]></description>
-			<pubDate>Fri, 07 Sep 2018 01:00:05 +0000</pubDate>
-		</item>
-		<item>
 			<title>スマートシティの脆弱性調査</title>
 			<link>https://blog.kaspersky.co.jp/smart-city-vulnerabilities/21345/</link>
 			<description><![CDATA[スマートシティはどの程度安全なのでしょうか？]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/residual-certificates-mitm-dos/21420/</link>
 			<description><![CDATA[認証局の事情により、あなたのドメインで有効なHTTPS証明書を他人が所持していることも珍しくありません。問題はないのでしょうか？]]></description>
 			<pubDate>Thu, 20 Sep 2018 01:00:47 +0000</pubDate>
+		</item>
+		<item>
+			<title>日本語を含めた多言語で拡散する脅迫メール　</title>
+			<link>https://blog.kaspersky.co.jp/blackmail-asking-for-cryptocurrency/21616/</link>
+			<description><![CDATA[仮想通貨を要求する脅迫メールが観測されています。日本語で書かれたメールのほか、複数言語のバージョンがあるようです。ご注意を。]]></description>
+			<pubDate>Thu, 20 Sep 2018 05:14:49 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
