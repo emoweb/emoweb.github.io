@@ -5,51 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n21</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Apple、米国でiCloudストレージ200GB無料のキャンペーン（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/082900542/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　新型iPhoneは9月に登場すると言われている。新機種を購入するなら、例によってしなければならないことが3つある。色を決めること、通信キャリアを決めること、そして、今使っている端末のデータをバックアップすることだ。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082900542/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Apple</div>
-</div>
-<p>
-　このうち、データのバックアップは、iCloudの無料ストレージプランでは厳しいかもしれない。米Appleはいまだに、無料プランには容量5Gバイトしか与えていない。写真を大量に撮る人や、デバイスを何台も持っている人からすると、新機種に移すべきデータの完全バックアップにはまず足りない。それを踏まえてAppleは、有料プランへの移行を促すべく、iCloudのストレージ容量200Gバイトを無料で使えるキャンペーンを米国で実施しようとしている。通常の無料プランの実に40倍の容量だ。ただし、条件や制約に注意が必要である。
-</p>
-<p>
-　この情報は、目ざといRedditユーザーが最初に発見した。今のところ、米国の大手通信キャリアの契約者のみが受けられる特典となっている。特典を利用するためのリンクの対象が、米Sprint、米AT&T、米T-Mobileに限られているからだ。だが、Appleがこの特典を正式に発表する時点では、米Verizonや、中小の携帯事業者も対象に加わる可能性が高い。
-</p>
-<p>
-　そのほかの注意点としてまず挙げておきたいのは、iCloudの有料ストレージを新たに利用するユーザーのみが対象であることだ。既に有料で契約済みのユーザーには適用されない。もう1つ注意すべきは、無料になるのは2カ月間に限られること。その後は有料ユーザーとして利用を続けるか、さもなくば無料期間中に契約をキャンセルしなくてはならない。
-</p>
-<p>
-　容量200Gバイトのプランの通常料金と比べると、今回の特典は2カ月間で合計約6ドルを節約できる。現在のiPhoneはストレージが最大256Gバイトなので、端末にデータを大量にため込んでいる人でも、200Gバイトあればバックアップに十分対応できるだろう。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082900542/?ST=cm-cloud&P=2">米国では、MacかiOSデバイスで<ahref></ahref></a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082900542/?ST=cm-cloud&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082900542/?ST=cm-cloud&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/082900542/?ST=cm-cloud&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 29 Aug 2018 11:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d21</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>国を揺るがす脅威になり得るか、ディープフェイクの正体（後）（国を揺るがす脅威になり得るか、ディープフェイクの正体）</title>
@@ -1165,6 +1124,50 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Thu, 20 Sep 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>データ流出の事後対応、脅威を抑える5つの手順（後）（データ流出の事後対応、脅威を抑える5つの手順）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/090700169/090700002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　米大手携帯キャリアT-Mobileは8月下旬に、利用者の個人情報がハッキングで流出したことを明らかにした。流出したデータの中には、暗号化済みのパスワードも含まれている。利用者として、こうしたデータ漏えいにいざ巻き込まれた時に、脅威を軽減するためにはどのように対応すればよいのだろうか。</p>
+
+<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/090700169/090700001/" target="_blank">前回</a>から続く）</p>
+
+<h4>手順3b：2要素認証でアカウントの防御を強化する</h4>
+
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700169/090700002/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit：Thinkstock</div>
+</div>
+
+<p>　今の時代、パスワードだけでは不十分である。2要素認証に対応しているネットサービスのアカウントでは、ぜひとも2要素認証を有効にしておこう。ログインする時に、パスワードが正しくてもそれだけではアクセスできない。パスワードとは別に、6桁のコードを入力しなくてはならない。</p>
+
+<p>　これで悪党の動きを遅らせることができる。あいにく、ユーザー本人にとっても手間が増えることになるが、大半のサービスは、2要素認証のコード入力はデバイス1台につき30日に1回で済む。あるいは、同じデバイスの同じブラウザーを使うぶんには、1回だけで済むケースもある。したがって、そこまで厄介ではない。</p>
+
+<p>　2要素認証では、コードの生成に特化したアプリやデバイスを使うとよい。SMSでコードを受け取る方法は、割と基本的な各種の攻撃の恐れがあることからお勧めできない。</p>
+
+<p>　2要素認証アプリの選び方については、PCWorldの<a href="https://www.pcworld.com/article/3225913/security/what-is-two-factor-authentication-and-which-2fa-apps-are-best.html" target="_blank">記事</a>も参考にしてほしい。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700169/090700002/?ST=cio-security&P=2">手順3c：アカウント復元には専用のメールアドレス...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700169/090700002/?ST=cio-security&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700169/090700002/?ST=cio-security&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700169/090700002/?ST=cio-security&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090700169/090700002/?ST=cio-security&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Fri, 21 Sep 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
