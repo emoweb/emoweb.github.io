@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d20</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>コンピューターサイエンスの学位を無視すべき10の理由（中）（コンピューターサイエンスの学位を無視すべき10の理由）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/081000163/081000002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　コンピューターサイエンスの学位が悪いということではない。我々の多くが解決を必要としている問題には合致しそうにないということである。ここからは、コンピューターサイエンスの学位を無視した方がよいかもしれない理由について、網羅的ではないが、挙げていくことにする。</p>
-
-<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/081000163/081000001/" target="_blank">前回</a>から続く）</p>
-
-<h4>学術的な言語はめったに使われない</h4>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　学術界がスノビズムを育んだり、深遠な解決策への偏愛を生んだりすることは、驚くに値しない。これはどの学問分野でも起きる。以前、マサチューセッツ工科大学卒のある人に、好きな言語を尋ねたところ、絶対知らない言語だと得意げに言われた。もう少しせっついてみて、ようやく教えてもらえたその言語の名前は、CLUだった。確かに筆者が知らない言語だった。</p>
-
-<p>　言語に魅せられた人々が素晴らしいアイデアを生み出すことはたくさんある。だが、時にはそうしたアイデアが混乱を生じさせることもある。チームメンバーの1人が奇妙な機能を気に入って、コードベースに取り入れ始めたら、他のメンバーも全員がそれを学ばなくてはいけなくなる。同じことを皆がしたら、フルスピードで動き始めるまでにかなりの時間がかかる。</p>
-
-<p>　だから米Googleは、Go言語を開発する時に邪道を選んだ。Goの開発者は、この言語は構造体を極力減らし、できる限り短時間でシンプルに学べる言語であるべきだと主張した。このシンプルさが皆にとってプラスになった。その核心を誰もがよく知っていたからだ。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000002/?ST=cio-management&P=2">コンピューターサイエンスの教授の多くはプログラマ...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000002/?ST=cio-management&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000002/?ST=cio-management&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000002/?ST=cio-management&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Wed, 29 Aug 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n20</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Apple、米国でiCloudストレージ200GB無料のキャンペーン（Computerworldニュース）</title>
@@ -1163,6 +1125,46 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Thu, 20 Sep 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ついにApple CarPlayでGoogleマップが利用可能に（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/092000468/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　iPhoneと車載装置との連携を実現する米Appleの「CarPlay」システムが2014年に登場して以来、Appleファンは、サードパーティー製の地図アプリが使えるようになることを熱望してきた。CarPlayには優れたところがたくさんあるが、Appleのマップしか使えないことは、決して誇りではなかった。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/092000468/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Google</div>
+</div>
+<p>
+　だが、iOS 12の登場で、苦悩の日々がやっと終わった。Appleのマップ自体が劇的に進化したのに加え、サードパーティーの地図アプリをCarPlayで使えるようにする開発者向けインタフェースが正式に搭載されたからだ。ただし、実際にCarPlayで使うためには、iOSのアップデートだけでなく、地図アプリ自体にもアップデートが必要だ。
+</p>
+<p>
+　こうした中、米Googleはいち早く対応し、iOS 12のリリースの翌日には、CarPlayと連携できるようバージョンアップした「Googleマップ」を公開した。
+</p>
+<p>
+　Googleマップの公式ブログによると、このバージョンでは次のような機能が使える。スマートフォンと車載装置が連携したナビゲーション体験で求められる機能を網羅しているようだ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/092000468/?ST=cio-appli&P=2">・今必要な情報をリアルタイムで把握：CarPla...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/092000468/?ST=cio-appli&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/092000468/?ST=cio-appli&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/092000468/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Thu, 20 Sep 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
