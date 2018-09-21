@@ -5,18 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>スズ系ペロブスカイト太陽電池、高品質な成膜法を開発</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/091211492/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Wed, 12 Sep 2018 10:15:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>東京センチュリーが100億円のグリーンボンド、太陽光設備のリースに充当</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/091211493/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Wed, 12 Sep 2018 10:29:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>製油所の自家発を活用したVPP実証、昭和シェルなど実施</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/091211494/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -237,6 +225,18 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/092111515/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><div class="bpbox_right" style="width:200px;"><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/092111515/?SS=imgview_ndh&amp;FD=-327875576" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/092111515/JWA01.jpg?__scale=w:200,h:115&amp;_sh=0d10580880" width="200" height="115" alt=""></a></div><div>「ぜんそくリスク予報」の画面イメージ</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　日本気象協会とJMDCは、ぜん息患者を対象としたスマートフォン向けアプリケーション「ぜんそくリスク予報」の提供を開始した。「気象ビッグデータ」と「医療ビッグデータ」を活用した統計解析の結果から、健康的な日常生活の過ごし方を提案するサービス「Health Weather」（ヘルスウェザー）の第1弾として公開したもの。iOS版とAndroid版を用意しており、どちらも無料で利用できる。</p><p>　年々増大するぜん息患者には、10歳未満の患者が多い。その他の年代に比べ最大で4倍以上の差があることから、不安軽減のために有益な情報が必要とされている。関連医療費が増加する中、重症化を予防できれば一人当たり年間約10万円の医療費を低減できる可能性があることが、医療費の調査から分かったという。そこで日本気象協会とJMDCは今回のアプリで、患者自身のぜん息発症に対する回避行動や、適切なタイミングでの医療機関への受診を考えるきっかけにしてもらうことを狙う。</p><p>　アプリでは、市区町村単位の今日と明日の気温変化のポイントを、グラフとコメントで知らせるとともに、10日先までの気温変化に対するぜん息発症のリスクを5ランクの指数情報で表示する。また、体調や服薬の状況を、チャット風のインタフェースでキャラクターと会話しながら記録することが可能。自分の体調を言葉で表現できない子供のために、音声による元気のチェック機能も搭載し、子供とコミュニケーションしながら体調管理ができる。</p></div>]]></description>
 			<pubDate>Fri, 21 Sep 2018 10:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>スマホで撮影した舌の画像から口臭リスクを判定</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/092111516/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><div class="bpbox_right" style="width:200px;"><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/092111516/?SS=imgview_ndh&amp;FD=416326774" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/092111516/MTI01.jpg?__scale=w:200,h:419&amp;_sh=09c04f0e30" width="200" height="419" alt=""></a></div><div>口臭リスク判定結果の画面イメージ</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　ライオンは、口臭のリスクをスマートフォンで確認できる「口臭ケアサポートアプリ」を開発した。利用者がスマートフォンで撮影した自分の舌の画像を、AIが識別。その汚れなどの状態から、その時点での口臭リスクを判定する。</p><p>　ライオンが実施した口臭の不安に対する調査によれば、調査対象だった20～30代男女（1万3615人）の72%が「自分の口臭ケアができているか不安を感じている」という結果となり、口臭ケアの効果を心配している人が多いことが分かったという。そこで、同社が保有する口臭の実測値と舌画像などのデータをもとに、富士通クラウドテクノロジーズのAI活用支援サービスとエムティーアイのアプリ開発サービスを用いて今回のアプリを開発した。</p><p>　口臭リスクレベルの判定結果とあわせて、おすすめのケア方法の紹介やオーラルケアの豆知識などのコラムを用意。利用者の口腔衛生に対する意識の向上を促す。チェックを行わなかった場合にアラートで知らせるなど、継続的なチェックを促す機能も備え、毎日の口臭ケアをサポートする。</p><p>　2018年10月から約1カ月間、東急百貨店本店の協力を得て接客スタッフを対象とした本アプリの実証実験を実施するという。</p></div>]]></description>
+			<pubDate>Fri, 21 Sep 2018 10:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>一包化した薬剤の名称と数量を自動判定、富士フイルム</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/092111517/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><div class="bpbox_right" style="width:200px;"><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/092111517/?SS=imgview_ndh&amp;FD=-281512626" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/092111517/01_PROOFIT-1D20180920.jpg?__scale=w:200,h:307&amp;_sh=0cf0d90a00" width="200" height="307" alt=""></a></div><div>一包化監査支援システム「PROOFIT 1D」</div><div>クリックすると拡大した画像が開きます</div></div><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/092111517/?SS=imgview_ndh&amp;FD=-348519379" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/092111517/02_PROOFIT-1D20180920.jpg?__scale=w:200,h:57&amp;_sh=010750340c" width="200" height="57" alt=""></a></div><div>一覧表示画面（左）、刻印の強調表示例（右）</div><div>クリックすると拡大した画像が開きます</div></div><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/092111517/?SS=imgview_ndh&amp;FD=-415526132" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/092111517/03_PROOFIT-1D20180920.jpg?__scale=w:200,h:148&amp;_sh=0890e70170" width="200" height="148" alt=""></a></div><div>専用パソコンに保存される画像</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　富士フイルムは、分包機を使って一包化した薬剤の名称と数量を自動的に判定する一包化監査支援システム「PROOFIT 1D（プルーフィットワンドース）」を開発した。一包ごとに錠剤の刻印や文字、カプセル剤の色や形などを読み取り、薬局薬剤師の監査業務の負担軽減と正確性向上を支援する。2018年冬の発売を予定している。</p><p>　同社が持つ光学設計技術や画像処理技術を活用して、錠剤やカプセル剤の高画質撮影を実現した。独自の画像認識技術により、一つひとつの錠剤・カプセル剤を一包当たり約2秒で高精度に読み取ることが可能という。</p><p>　新たに開発した「錠剤の刻印や文字の抽出技術」により、これまで困難だった錠剤の表裏や刻印の向きをそろえた、一包化された薬剤の一覧表示を可能にした。錠剤が立っている、あるいは重なっていると判断された場合には自動ならし機能が作動し、錠剤を散らすことで、錠剤の刻印抽出を高い精度で行える。読み取った刻印を強調表示できる機能も搭載し、モニター画面上で薬剤師が監査しやすい情報を提供できるという。</p><p>　監査に使用した画像は専用パソコンに50万包分を保存することが可能。いつでも画像を検索して確認でき、履歴管理を効率的に行うことができる。</p><p>　専用回線による通信機能を搭載しており、アプリケーションの更新、薬剤の情報を参照するための画像マスターの登録や更新作業が自動的に行われる。このため、システムの維持管理にかかる業務負担を軽減できるとしている。</p></div>]]></description>
+			<pubDate>Fri, 21 Sep 2018 11:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
