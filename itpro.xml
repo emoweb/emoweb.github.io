@@ -11,41 +11,6 @@
 			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>国を揺るがす脅威になり得るか、ディープフェイクの正体（後）（国を揺るがす脅威になり得るか、ディープフェイクの正体）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/081000164/081000002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　ディープフェイクとは、本物の映像や声をそっくりにまねた、偽の動画や音声のことだ。かつては、偽動画というと、米中央情報局（CIA）や英政府通信本部（GCHQ）の脅威研究情報合同部門（JTRIG）など、プロパガンダを展開する諜報機関や、あるいはハリウッドの特殊効果専門スタジオの独壇場だった。しかし現在では、ディープフェイク製作用のソフトウエアを誰でもダウンロードして、本物さながらの偽動画を片手間で作ることができる。
-</p>
-
-<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/081000164/081000001/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　一般的なユーザーでも、FakeAppというソフトをダウンロードすれば、独自のディープフェイクの製作を今すぐ始められる。ごく簡単に使えるソフトというわけではないが、適度にマニアックなユーザーであれば、何ら問題はないはずだ。米New York Timesにも、コラムニストのKevin Roose氏による体験記が3月に掲載された。</p>
-
-<p>　だが、効果的な偽情報の形式がほかにもたくさんある中で、ディープフェイクとの「モグラたたき」にばかり意識を向けるのは間違った戦略だとHwang氏は指摘する。「現時点でも、ディープラーニングや機械学習を使わなくても、世間をだましたり世論を形成したりできる安上がりな方法はたくさんあると思う」と話す。</p>
-
-<p>　例えば、路上で人が殴られている光景を録画し、その動画を巡る偽のストーリーをでっち上げるのはどうだろう。殴っているのは米国にやって来た移民たちの集団だ、という話にするなどだ。これならば、巧妙な機械学習アルゴリズムは必要ない。もっともらしい偽のストーリーと、それに合う動画があればよい。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000002/?ST=cm-network&P=2">ディープフェイクを見破る方法</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000002/?ST=cm-network&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000002/?ST=cm-network&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000002/?ST=cm-network&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000164/081000002/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 30 Aug 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>法人用OneDrive、動画の自動文字起こし機能を搭載へ（CIOニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/083000462/</link>
 			<description><![CDATA[<div>
@@ -1168,6 +1133,45 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Fri, 21 Sep 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10、アップデート時の再起動の改良を見送りか（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/092100552/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　Windows 10は、次期大型アップデートに向けたベータ段階である「Windows 10 Insider Preview」の期間中、ビルドの更新ごとに新機能が加わったり消えたりするのが常だ。そしてまた1つ、多くの人々が期待していた新機能が本当に搭載されるのか疑わしい状況になっている。それは、Windows Updateの更新を適用する時に、Windowsが不都合なタイミングで再起動するのを防ぐとされる機能だ。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/092100552/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Mark Hachman / IDG</div>
+</div>
+<p>
+　PCWorld編集部は2018年9月19日、米Microsoftの担当者から、この機能について「お伝えできることは特にない」とのコメントを得た。
+</p>
+<p>
+　MicrosoftがInsider Previewにこの機能を最初に搭載したのは、7月下旬に公開したビルド17723だった。この機能があれば、Windows Updateの際に予期せぬタイミングで再起動が始まってショックを受けるようなことは減るとの話だった。ユーザーが普段パソコンを使っている最中に再起動が始まるのは特に困りものだ。
+</p>
+<p>
+　Microsoftは、このビルドについて紹介する公式ブログ記事で、「アップデート体験の改良」という見出しで次のように説明していた。「利用者の声を踏まえ、苦労を減らすために、保留中のアップデートがある場合の再起動ロジックを更新し、適応性と先取性を高めた新しいシステムを取り入れた。トレーニングした予測モデルを使って、デバイスの再起動に最適な時を正確に予測できる」
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/092100552/?ST=cm-software&P=2">YouTubeで「WindowsUpdaterage」といった検...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/092100552/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/092100552/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/092100552/?ST=cm-software&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/092100552/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Fri, 21 Sep 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
