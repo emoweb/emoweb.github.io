@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n25</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>法人用OneDrive、動画の自動文字起こし機能を搭載へ（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/083000462/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　職場で「Microsoft Office」を利用している人は、ストレージサービス「OneDrive」に保存した動画内の発言を自動でテキスト化する機能や、会議の参加者に資料を簡単に送る機能を、今年中に使えるようになるかもしれない。
-</p>
-<div>
-<div><a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/083000462/?SS=cioimgview&FD=-1141009464" target="_blank"><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/083000462/top.jpg?__scale=w:320,h:240&_sh=01b05a0fd0" width="320" height="240" alt=""></a></div>
-
-<div>Credit: Microsoft</div>
-<div>[画像のクリックで拡大表示]</div>
-</div>
-<p>
-　OneDriveは、個人用のクラウドストレージサービスと、法人用のドキュメント保管場所としてのサービスが、別々に提供されている。あいにく、優れた機能や先進的な機能の中には、「Office 365」や「Microsoft 365」の契約者しか使えないようにMicrosoftがガードしているものが数多くある。今回の機能もそうした例だ。
-</p>
-<p>
-　米Microsoftの発表によると、法人向けのOneDriveとSharePointに、興味をそそる新機能が年内に加わる。その1つが、動画の自動文字起こし機能だ。OneDriveやSharePointに保存した動画を標準装備のプレイヤーで再生する時に、発言内容のテキストが自動で表示され、検索も簡単になる。これは、同社が昨年9月に示した計画に基づいている。当時の発表では、画像、音声、動画をOneDriveやSharePointの中でインテリジェントにカタログ化し、見つけやすくするとしていた。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/083000462/?ST=cio-cloud&P=2">また、会議の参加者へのコンテンツ共有を促す機能も...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/083000462/?ST=cio-cloud&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/083000462/?ST=cio-cloud&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/083000462/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Thu, 30 Aug 2018 11:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d25</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>コンピューターサイエンスの学位を無視すべき10の理由（下）（コンピューターサイエンスの学位を無視すべき10の理由）</title>
@@ -1172,6 +1134,40 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Fri, 21 Sep 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>メールアプリNewtonがサービス終了へ、代替ツールはあるか（前）（メールアプリNewtonがサービス終了へ、代替ツールはあるか）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/091800171/091800001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　メールアプリ「Newton」が2018年9月25日をもってサービスを終了することを決め、筆者は落胆している。かつては筆者も、メール対応をずっと苦痛に感じていた。受信トレイを見ただけでやる気が失せ、最低限必要な対応だけで済ませるのがお決まりのパターンだった。</p>
+
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/091800171/091800001/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit：Newton</div>
+</div>
+
+<p>　だが、Newtonを使い始めたことで、すべてが一変した。それまでの苦行が、いくらか楽しい作業に変わった。Newtonのすっきりとしたデザインと、強力な機能のおかげだ。特にWindowsでは、これに肩を並べられそうなソフトはなかった。今に至るまで、Windowsは電子メールツールの不毛の地で、残念なアプリばかりだ。指定した日時にメールを送信できるスケジューリング機能や、開封通知機能など、パワーユーザー向けの機能を加味すると、Newtonが年50ドルという利用料金を設定したことは理にかなっていた。</p>
+
+<p>　悲しいかな、Newtonが消え去ることで、事態は変わる。創業者で最高経営責任者（CEO）のRohit Nadhani氏は、Newtonの終了を伝えるブログ記事の中で、Newtonをビジネスとしてうまく成立させていくことができなかったと心情を吐露し、米Google、米Microsoft、米Appleがコンシューマー向けメールアプリ市場で強大な勢力を誇っているという点を強調している。しかし、Newtonを使ったことがある人なら、こうした主流各社のサービスやアプリがNewtonの代わりにならないことはお分かりだろう。Newtonは、こうした他社にはない特長（あるいは他社がうまくまねできない特長）を備えていた。今回我々は何を失うのか、そして、現時点でNewtonに代わる適切な選択肢がない理由はなぜなのか、見ていくことにしよう。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/091800171/091800001/?ST=cm-software&P=2">Newtonが終了する理由</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/091800171/091800001/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/091800171/091800001/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/091800171/091800001/?ST=cm-software&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/091800171/091800001/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Tue, 25 Sep 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
