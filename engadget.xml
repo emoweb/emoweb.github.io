@@ -5,52 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    「iPhone XSでバッテリー％表示が消えた」←確認する方法がありました
-</title>
-			<link>https://japanese.engadget.com/2018/09/21/iphone-xs/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/9b2c1d16b55be6761ed4e3ab6d996981/206684724/P9191578.jpg" />
-iPhoneの旧モデル（8以前）からiPhone XSシリーズに乗り換えた皆さんは、バッテリー残量の「%表示」がステータスバーから廃止されたことにお気づきでしょう。設定でONにすることもできなくなっており、これでは詳細なバッテリー残量がわからないとお困りの読者もいることでしょう。
-
-でも大丈夫です。iPhone XSでも簡単にバッテリー残量を確認する方法があります。
-
-それは、「コントロールセンター」から確認する方法です。iPhone XSでは画面の右上端から下にスワイプすることで「コントロールセンター」を開けるのですが、その中にバッテリー残量が％で表示されています。
-
-
-
-％表示がないことに不便を感じている方は、是非試してみてください。
-
-
- ]]></description>
-			<pubDate>Fri, 21 Sep 2018 21:30:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    スピーカーレスなAmazon Echo Input　どう使うの？
-</title>
-			<link>https://japanese.engadget.com/2018/09/21/amazon-echo/</link>
-			<description><![CDATA[     <img src="https://techcrunchjp.files.wordpress.com/2018/09/echo-input-black-side-table.jpg?w=730" />
-Amazonが今日（米国時間9/20）のハードウェアイベントで、Echo Inputという新製品を紹介した。それは上図のように、Echo Dotのとても薄くて小さなバージョンで、Amazon作のAlexaデバイスとしては初めて、スピーカーがない。
-
-スピーカーが必要なら、ユーザーがお気に入りのものを自分で接続する。そのために3.5ミリのオーディオケーブルかBluetoothを使うが、マイクが4つあるのでAlexaに話しかけることはできる。Echo Dotと違うのは、オーディオは接続したスピーカーから再生され、デバイス本体からではない。〔オーディオ出力の要らないスキルもありえる。〕
-
-厚さ12．5ミリと薄いから、どこにでも入り込める。家中至るところに置いてもよいだろう。
-
-スピーカーを接続したEcho Inputは、既存のマルチルームの音楽グループの一員になれる。
-
-Amazonによると、人気のスピーカーがこれを同梱して売られることも想定している。たとえばBoseは、このデバイスの最初のパートナーだ。
-
-Echo Inputの色は黒または白で、アメリカとイギリスとドイツでは年末に34ドル99セントで発売される。
-
-
-
-[原文へ]
-（翻訳：iwatani(a.k.a. hiwa）
-
- 
-
- ]]></description>
-			<pubDate>Fri, 21 Sep 2018 23:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    わずか69g、12ヵ国語に翻訳できるポケット通訳機「Say Easy」が発売
 </title>
 			<link>https://japanese.engadget.com/2018/09/22/69g-12-say-easy/</link>
@@ -414,6 +368,43 @@ iOS 12をインストールした一部のiPhone Xユーザーが、ディスプ
 1週間のあいだに拾いきれなかったニュースをいくつかピックアップしてお届けします。今回は「従業員教育にOulus GO」「逮捕の3Dプリント銃推進者、強制送還」「レコード業界売上の75%がストリーミングに」といった話題を取り上げました。
  ]]></description>
 			<pubDate>Mon, 24 Sep 2018 01:50:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    TwitterのAPIバグでDMや鍵付きツイートがサードパーティ開発者に送られていた可能性？影響は1％未満と発表
+</title>
+			<link>https://japanese.engadget.com/2018/09/24/twitter-api-dm-1/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/4f7fe897b0799ae37fbe97b311935ba1/206686546/Twitter.jpeg" />
+TwitterはAPIにバグが発見されたことを報告し、それが原因でユーザーのDMや非公開ツイートが受け取る権限のないサードパーティ開発者に意図せず送信された可能性があると発表しました。
+
+このバグは2017年5月から存在し、今年9月10日に発見され、それから数時間以内に修正されたとのこと。Twitterはバグの影響を受けたTwitterアカウントは1％未満としつつ、このような問題が発生したことにつき謝罪を表明しています。
+ ]]></description>
+			<pubDate>Mon, 24 Sep 2018 02:15:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    スタンドアロンVR「Santa Cruz」に採用？ OculusがHMD向けファブリックカバーの特許を取得
+</title>
+			<link>https://japanese.engadget.com/2018/09/24/vr-santa-cruz-oculus-hmd/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/bbbb59fa5e750c95afce24baca7b14f1/206686525/2018-09-24_14h03_31.png" />
+Oculusが、HMDをファブリック素材でラッピングするデザイン特許を取得しました。開発中のハイエンドなスタンドアロンVRヘッドセット「Santa Cruz」で採用される可能性もありそうです。
+
+Oculus RiftやHTC ViveといったVRヘッドセットのカラーリングは、黒系統が多くいかにもメカメカしい雰囲気なものが多くなっています。スタンドアロンVRヘッドセットOculus Goでは、グレーになり、やや和らいだ印象を受けますが、それでも味気無さは残ります。このためか、Oculus Goではカッティングシートなどを使ったカスタマイズが行われることも。価格が安く、ユーザー層が増えたのも理由でしょう。
+
+このカッティングシートカスタマイズと同じような考え方なのが今回の特許です。内容としては、HMDの周りをファブリック素材で覆うという、ただそれだけのもの。これで特許が取れるのかと新鮮な驚きがありますが、確かに他ではやっておらず新しいと言えなくもなさそうです。なお、出願は2017年9月。
+
+▲ファブリック素材のVRヘッドセットにはDaydream Viewがありますが、外装だけを交換することはできません
+
+特許の資料中では、ヘッドマウントディスプレイとしか記載されていませんが、そのイラストを見ると、昨年公開されたスタンドアロンヘッドセット「Santa Cruz」と酷似しています。
+
+▲側面図も掲載されています。ペラペラですが
+
+Santa Cruzは、正面四隅にインサイドアウトトラッキング用のセンサーを備えるVRヘッドセット。6DoF（6自由度）を持っており、VR空間（部屋の中）を動き回ることも可能。ちなみにOculus Goは3DoFで、VR中では、基本的にその場から動くことはできません。
+
+特許の説明のためにSanta Cruzのイラストを使っただけで、Oculus Go向けにも同様のカバーが考えられている可能性もあります。
+
+なお、Oculusは年次開発者会議Oculus Connectを9月26日、27日（米時間）にカリフォルニアのサンノゼで開催します。Santa Cruzは2019年第1四半期も発売との話しもあり、今回のOculus Connectで正式な発表が行われるかもしれません。
+ 
+ ]]></description>
+			<pubDate>Mon, 24 Sep 2018 02:40:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
