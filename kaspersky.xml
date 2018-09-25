@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Man-in-the-Disk：Androidハッキングの危険な新手法</title>
-			<link>https://blog.kaspersky.co.jp/man-in-the-disk/21388/</link>
-			<description><![CDATA[無害を装ったAndroidアプリが、共用外部ストレージを悪用してスマートフォンに侵入する方法とは。]]></description>
-			<pubDate>Tue, 11 Sep 2018 01:00:37 +0000</pubDate>
-		</item>
-		<item>
 			<title>フォートナイトを安全にプレイする5つのヒント</title>
 			<link>https://blog.kaspersky.co.jp/fortnite-security/21427/</link>
 			<description><![CDATA[Android版のフォートナイトはGoogle Playからは入手できません。適切なダウンロード方法とインストール方法、安全に利用するためのヒントをお知らせします。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/facebook-banking/21472/</link>
 			<description><![CDATA[Facebookは銀行と提携し、利用者に金融サービスを提供しようと計画しています。Facebookに任せていいのでしょうか？]]></description>
 			<pubDate>Fri, 21 Sep 2018 01:00:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>2段階認証をさらに強化するための2ステップ</title>
+			<link>https://blog.kaspersky.co.jp/2fa-notification-trap/21556/</link>
+			<description><![CDATA[2段階認証についてはたびたび取り上げていますが、便利なはずの設定が2段階認証を台無しにしてしまう場合もあることはご存じでしたか？ここでは適切な設定について説明します。]]></description>
+			<pubDate>Tue, 25 Sep 2018 01:00:06 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
