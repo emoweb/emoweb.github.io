@@ -11,42 +11,6 @@
 			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>コンピューターサイエンスの学位を無視すべき10の理由（下）（コンピューターサイエンスの学位を無視すべき10の理由）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/081000163/081000003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　コンピューターサイエンスの学位が悪いということではない。我々の多くが解決を必要としている問題には合致しそうにないということである。ここからは、コンピューターサイエンスの学位を無視した方がよいかもしれない理由について、網羅的ではないが、挙げていくことにする。</p>
-
-<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/081000163/081000002/" target="_blank">前回</a>から続く）</p>
-
-<h4>学府が尊大さを生む</h4>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000003/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　自分が正しいと考えるのは人の常だが、学位というものは本質的に、取得者の優位性を権威づけるようにできている。それが実際に正しい場合もあるのかもしれないが、たとえ最良の時でも、何が本当に正しいのかは簡単には分からない。動きが速い分野では特にそうだ。</p>
-
-<p>　かつて筆者が一緒に仕事をしたある人は、チームに自ら持ち込んだコーディング規約を崇敬し、コードレビューの中で折に触れてコーディング規約に言及するのが大好きだった。どこにスペースを配置すべきかといったことを口やかましく定めた、個人的見解に等しいコーディング規約だったが、その決まりごとについて格式ばった厳密さで言及するようになったこの人は、コードレビューでコーディング規約を武器のように振りかざし始めた。スペースの配置の仕方が違っているコードがあれば、規約違反だと忌まわしい主張で断罪した。そこで我々一同は、格式高い規則という体の決まりにすべてが適合するよう、スペースを数える作業に忙殺された。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000003/?ST=cio-management&P=2">現代的なスキルの多くが無視されている</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000003/?ST=cio-management&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000003/?ST=cio-management&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000003/?ST=cio-management&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/081000163/081000003/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Fri, 31 Aug 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>企業のブロックチェーン導入が進む、大手コンサル2社の調査（Computerworldニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/083100543/</link>
 			<description><![CDATA[<div>
@@ -1168,6 +1132,44 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Tue, 25 Sep 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Microsoft Dynamics 365もAIを搭載、Salesforce Einsteinから2年遅れ（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/092500469/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Microsoftは、クラウドCRMソフトウエア「Dynamics 365」にAI機能を取り入れた3種類のアプリケーションを「Dynamics 365 AI」の名称で発表した。市場の先頭を走る米Salesforce.comに対する競争力を高めるのが狙いだ。Salesforceが「Einstein」というキャッチーな名前でAIプラットフォームを発表したのは、今から2年前の2016年9月のことだった。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/092500469/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Martyn Williams</div>
+</div>
+<p>
+　Microsoftでビジネスアプリケーションを担当するコーポレートバイスプレジデントのAlysa Taylor氏は、2018年9月18日の公式ブログ記事の中で、Dynamics 365 AIのアプリケーションについて、「データを統合し、高度なインテリジェンスを取り入れることによって、直ちにインサイトが得られる。意思決定の指針となり、情報に基づく的確な行動を取ることができる」と述べている。
+</p>
+<p>
+　この製品の背景について、Taylor氏は次のように説明する。「今から2年前、当社がDynamics 365を投入したのは、CRMとERPを隔ててきた旧来の壁を取り払う道のりの第一歩だった。現代的な一体型のソリューション、適応性があるインテリジェントなソリューション、Office 365と統合したソリューション、Microsoft Azure上にネイティブに構築されたソリューションとして、ビジネスアプリケーションの新たな概念を確立する取り組みに乗り出した」
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/092500469/?ST=cio-cloud&P=2">今回、Dynamics365AIとしてまず登場し...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/092500469/?ST=cio-cloud&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/092500469/?ST=cio-cloud&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/092500469/?ST=cio-cloud&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/092500469/?ST=cio-cloud&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 25 Sep 2018 10:40:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
