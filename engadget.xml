@@ -5,26 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    企業用Googleドライブに「AIによる自動高優先度ファイル表示」とワークスペース機能が追加。ベータ提供中
-</title>
-			<link>https://japanese.engadget.com/2018/09/23/google-ai/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/23cb29fce11f649b62350f2870c2d4ba/206685684/Drive%2BPriority.jpg" />
-間もなく、日本でも有料プランはGoogle Oneに改名されるGoogleドライブ、ファイルの整理は基本的にフォルダ毎です。きちんと整理できていれば問題ありませんが、どこにファイルを入れたのかなど、探すのが手間だったります。しかし、企業向けのG Suiteなら、その状況が変わるかもしれません。
-
-GoogleはG Suite向けのGoogleドライブにPriority機能（日本では優先機能）とWorkspaceの導入を発表しました。
- ]]></description>
-			<pubDate>Sun, 23 Sep 2018 02:40:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    エプソンの新スマートグラスが「非スマート化」。コントローラ機能を廃し映像入力のみに
-</title>
-			<link>https://japanese.engadget.com/2018/09/23/moverio-display/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/40e5117ea972ea2501da3a2cba77df80/206685723/ph_visual.jpg" />
-エプソンは、検査・測定機器やドローン操作等のモニター利用に適した両眼シースルーのスマートグラス MOVERIO『BT-35E』『BT-30E』を2018年10月17日より順次発売します。
- ]]></description>
-			<pubDate>Sun, 23 Sep 2018 03:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    サムスンの4眼スマホ、Galaxy A9 Star Proのコンセプトイメージ公開。10月11日発表予定
 </title>
 			<link>https://japanese.engadget.com/2018/09/23/4-galaxy-a9-star-pro-10-11/</link>
@@ -448,6 +428,49 @@ Googleが検索エンジンを立ち上げてから、20年周年を迎えたと
 Kuo氏によると、iPhone XS Maxの需要は「予想以上に良い」とされ、なんとiPhone XSの3〜4倍売れているとのこと。同モデルはストレージ256GB版が最も人気が高いものの、512GBモデルも「深刻な品不足」に晒されていると述べています。
  ]]></description>
 			<pubDate>Tue, 25 Sep 2018 03:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    米マイクロソフト、買い切り型の「Office 2019」提供開始
+</title>
+			<link>https://japanese.engadget.com/2018/09/25/office-2019/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/b75daefc5c24bf5305ec1b34b5ec2865/206689005/dims.jpg" />
+米Microsoftが、Office 2016の後継となるOffice 2019を発表しました。WindowsとMac向けにそれぞれ提供が開始されています。
+
+MicrosoftはOffice 365などクラウド製品への移行を推奨していますが、日本ではOfficeをバンドルしないとPCが売れないとのことで、Surface GoにOfficeバンドルモデルしか設定されず話題になったのは記憶に新しいところ。ただ、日本に限らず、企業などで大量のライセンスを購入する場合には、クラウド製品よりも買い切り型のオンプレミス版のほうが好まれるのも事実です。
+
+今回提供が開始されたのは、このオンプレミス版で「Word」「Excel」「PowerPoint」「Outlook」「Project」「Visio」「Access」「Publisher」が含まれます。
+
+Office 2019の新機能としては、Wordではダークテーマのサポートや読み上げ機能、アクセシビリティの向上。Excelは新しい数式やグラフのサポート、PowerPivot/PowerQueryの機能強化。PowerPointではスライド順序の機能拡大やMorph遷移機能、インク機能での圧力や傾き検知サポートなど。
+
+なお、これらの機能は、これまでOffice 365 ProPlusに提供されてきたもの。サブスクリプション型のOffice 365であれば、その都度新機能が提供されますが、買い切り型では発売以降、機能追加は行われません。つまり、機能的にはOffice 2016発売以降、クラウド型のOffice 365 ProPlusに提供されてきた機能を買い切り型にマージしたものがOffice 2019となります。
+
+もちろんそれだけではなく、セキュリティ強化や管理者による管理の合理化など、クラウドに接続しないオンプレミス版ならではの機能も提供されています。
+
+ 
+関連記事：Mac版「Office 2019」ビジネス向けプレビュー公開。Office 365の機能取込み、管理機能やセキュリティも強化
+
+Office 2019はコマーシャルボリュームライセンス、ようするに法人向けボリュームライセンスユーザーには本日から提供開始。それ以外の一般ユーザーには、今後数週間以内に提供開始されるとのこと。
+
+なお、Office 2019にはOneNoteが含まれますが、4月に発表があったとおり、OneNote 2016の開発は終了し、今後はOneNote for Windows 10に一本化されます。
+
+ 
+関連記事：MSが多機能メモOneNoteの「分岐」を整理、Win 10付属版が主軸に。Office付属の2016は開発終了へ
+
+OneNote 2016を使用中の場合、Office 2019をインストール後も引き続き利用可能とのこと。OneNote for Windows 10に移行した場合には、ストレージの節約のため、OneNote 2016を削除するツールが近日中に提供予定とのことです。
+
+ 
+ 
+ ]]></description>
+			<pubDate>Tue, 25 Sep 2018 03:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    コラボチャットツール「Slack」、高性能メールアプリ「Astro」を吸収。チャット/メール/カレンダー統合へ
+</title>
+			<link>https://japanese.engadget.com/2018/09/25/slack-astro/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/d5ba46fbb7a612b6336113608522456d/206689058/01.jpg" />
+"ビジネスコラボレーションハブ"を標榜するグループチャットツールSlackが、多機能メールアプリのAstroを買収したことが明らかになりました。Slackは今後AstroのメールアプリをSlackに融合させる一方、AstroはMac、iOS、Android、Amazon Alexaなどに提供していたAstroアプリをシャットダウンするとのこと。
+ ]]></description>
+			<pubDate>Tue, 25 Sep 2018 04:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
