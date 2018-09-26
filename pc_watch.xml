@@ -130,5 +130,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1144/854/1_o.jpg"></div></div><span class="caption">Intel Programmable Acceleration Card with Intel Stratix 10 SX FPGA</span></div></div></div></div><p>　<a href="https://www.intel.co.jp/" class="n" target="_blank">インテル</a>は25日、FPGAアクセラレータに、「Stratix 10 SX」搭載モデル「Intel Programmable Acceleration Card with Intel Stratix 10 SX FPGA」を追加した。</p><p>　Stratix 10 SXは同社のFPGAファミリで最高性能を備えたモデル。最大10TFLOPSの浮動小数点演算能力、1.5GHzで駆動するクアッドコアのCortex-A53サブシステム、2.3TbpsのDDR4または2.5TbpsのHybrid Memory Cubeへの対応などが特徴。</p><p>　製造はIntelのトライゲート14nm。ロジックコアの駆動周波数は1GHz。229Mbのメモリを内包し、チップ間の最大転送速度は30Gbpsなどとなっている。</p><p>　ホストとはPCI Express x16で接続。カード上にはECCつきDDR4メモリ、USB、BMC機能、QSFP28 4x 25Gbネットワークインターフェイスなどを搭載する。</p><p>　同カードを最初に採用するのはHewlett Packard Enterpriseのサーバーとなる見込み。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1144/854/2_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
 			<pubDate>Wed, 26 Sep 2018 13:57:35 +0900</pubDate>
 		</item>
+		<item>
+			<title>情報漏えい被害が確認できる「Firefox Monitor」 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1144860.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1144/860/monitor1_o.png"></div></div></div></div></div></div><p>　Mozillaは25日(米国時間)、パスワードやユーザーIDなどの漏洩を無料で確認できるサービス<a href="https://monitor.firefox.com/" class="n" target="_blank">「Firefox Monitor」を公開した</a>。確認はフォームにメールアドレスを入力するだけで完了する。</p><p>　利用しているサービス側で生じる情報漏洩は、いかにユーザーが強度の高いパスワードにしたかなどにかかわらず発生するもので、被害にあったこと自体にも気づきにくい。</p><p>　Firefox Monitorは、過去にあった被害の有無を確認するだけでなく、サインアップすれば将来生じた情報漏えいについての通知も受け取ることができる。もし被害が確認された場合、同じパスワードを使うアカウントがあるならば直ちに変更するべきだろう。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1144/860/monitor2_o.png"></div></div><span class="caption">2013年のAdobeの情報漏えいに含まれていたようだ。この場合、「パスワードのヒント」なども漏えいしているとのこと。</span></div></div></div></div><p>　筆者もプライベート用のアドレスで確認してみたところ、ある情報漏えいの被害をうけていたようで、結果画面には、流出したサービス、発生した日時、メールアドレスやパスワードといった情報漏えいの範囲と、被害者数が表示された。</p><p>　各サービスでパスワードを使いまわしていると、情報漏えいが生じたさいに思わぬ被害を受けることが想定される。当たり前のようだが、問題がなかった場合でもセキュリティについて今一度確認することが望ましい。</p></div></div>]]></description>
+			<pubDate>Wed, 26 Sep 2018 15:11:51 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
