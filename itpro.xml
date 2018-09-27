@@ -5,41 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d27</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>脆弱性報告制度、企業への義務づけは近い？（前）（脆弱性報告制度、企業への義務づけは近い？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/083000166/083000001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　企業が善意のセキュリティ研究者からバグの報告を受けて対処するための仕組みである脆弱性報告制度は、米連邦取引委員会（FTC）と米司法省の様子からすると、将来的にあらゆる企業が何らかの形で設けるよう義務づけられることになりそうだ。現状では、この手の制度を一切設けていない企業がほとんどである。米HackerOneが2017年6月に示した調査結果によると、Forbes Global 2000企業の94％は、セキュリティ問題について研究者から報告を受け付ける手段を用意していない。</p>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000166/083000001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　脆弱性報告制度では、セキュリティ問題について研究者が報告するためのセキュアなチャネルを用意し、問題のトリアージや緩和を適切に行うためのプロセスを取り入れる。こうした制度は業界でベストプラクティスとなっており、規制当局や法執行機関が注目している。FTCは2018年6月、消費者製品安全委員会で、基本的な脆弱性報告制度すら設けていない企業はFTC法違反になり得るとの見解を示し、次のように言及した。</p>
-
-<p>　「FTCが多くの事例で展開してきた主張の1つは、セキュリティ研究者や学界からセキュリティ脆弱性の報告を受けて対処するための十分なプロセスを用意しないのは不合理な慣習であり、FTC法の第5条に違反しているということだ」</p>
-
-<p>　司法省も同じような姿勢を示している。同省が2017年に策定した「A Framework for a Vulnerability Disclosure Program for Online Systems」は、脆弱性報告制度のあるべき姿について定めたフレームワークだ。拘束力のないフレームワークという形ながら、厳格な指針となっている。現時点でフレームワークとされているものが、将来的に法令となる可能性は大いにある。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000166/083000001/?ST=cm-network&P=2">このフレームワークは、司法省刑事局のサイバーセキュリティ部門が策...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000166/083000001/?ST=cm-network&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000166/083000001/?ST=cm-network&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000166/083000001/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Tue, 04 Sep 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n27</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Firefox、広告用トラッキングをデフォルトでブロックへ（CIOニュース）</title>
@@ -1174,6 +1143,43 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Thu, 27 Sep 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>C++のダングリング検出、提案文書のバージョン1.0が公開（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/092700470/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　C++の著名な開発者で、ISO C++標準化委員会の委員長を務めるHerb Sutter氏が、ダングリング（無効な領域に対する不正な参照）の検出方法について提案する文書「Lifetime Safety：Preventing Common Danglng」のバージョン1.0を<a href="https://github.com/isocpp/CppCoreGuidelines/blob/master/docs/Lifetime.pdf" target="_blank">公開</a>した。C++のコードに潜む典型的なダングリングをコンパイル時に検出して警告する手法を提案している。長年にわたって存在してきた問題に対処し、コードの安全性を高めることを目指す。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/092700470/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Thinkstock</div>
+</div>
+<p>
+　今回の文書は、2015年に発表したバージョン0.9に続くもの。Sutter氏によると、もともとは情報提供による寄与を目的とした文書だったが、C++標準としての採用に向けた動きとなる可能性もある。
+</p>
+<p>
+　バージョン1.0では、C言語スタイルのポインタや、参照、イテレータ、string_view、spanなど、別の場所で確保した領域のデータを参照する型の扱いについて取り上げ、C++のコードで典型的なダングリングをコンパイル時に検出して、一貫性がある形でエラーとして提示できるようにするための手法を提案している。文書の抄録には、この取り組みについて、40年前からの問題を解決するための、重大ながらも推論的な試みだと記述されている。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/092700470/?ST=cio-appli&P=2">この文書が提示する手法では、コードの中の変数を、...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/092700470/?ST=cio-appli&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/092700470/?ST=cio-appli&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/092700470/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Thu, 27 Sep 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
