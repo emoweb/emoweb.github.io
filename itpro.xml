@@ -5,51 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n28</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Firefox、広告用トラッキングをデフォルトでブロックへ（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/090400463/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Mozillaは2018年8月30日、広告などのためにサイトで使われているトラッキング要素をデフォルトでブロックする措置を、「Firefox」で間もなく始めると発表した。こうしたトラッキング要素は、ユーザーの閲覧行動を逐一追跡し、ページの読み込み速度にも影響するとMozillaは主張している。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/090400463/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Pixabay</div>
-</div>
-<p>
-　MozillaのFirefox担当幹部であるNick Nguyen氏は、同日の公式ブログ記事の中で、「近い将来、Firefoxはデフォルトでトラッキングをブロックすることで、ユーザーを守る」と説明している。
-</p>
-<p>
-　昨秋リリースされたFirefox 57「Quantum」には、「トラッキング防止」という機能が搭載された。だが今のところ、通常のブラウジングに関しては、この機能は初期設定でオフになっており、ユーザーがFirefoxのオプション画面を開いて、手動で有効化する必要がある。この機能を有効にすると、ページに組み込まれているトラッカーや、一部の広告などがブロックされる。
-</p>
-<p>
-　トラッカーとは、複数のサイト間にまたがってユーザーの閲覧行動を追跡できるように、サイトや広告ネットワークが組み込んでいる要素だ。例えば、特定の下着メーカーのサイトで商品情報を見た後は、どのサイトに行ってもそのメーカーの下着の広告ばかりが表示されることがある。こうした表示を可能にしているのがトラッカーだ。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/090400463/?ST=cio-appli&P=2">Mozillaは、2015年11月にプライベート...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/090400463/?ST=cio-appli&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/090400463/?ST=cio-appli&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/090400463/?ST=cio-appli&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/090400463/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Tue, 04 Sep 2018 11:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d28</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>アジャイルコーチ、企業の変革でかけがえいのない役割（中）（アジャイルコーチ、企業の変革でかけがえいのない役割）</title>
@@ -1180,6 +1139,49 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Thu, 27 Sep 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AIの現状認識、企業幹部に必要な視点は（後）（AIの現状認識、企業幹部に必要な視点は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/091800172/091800002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　企業の最高経営責任者（CEO）の多くは、自社のビジネスにとってAIが今後極めて重要になると理解している。しかし、AIの導入プロジェクトに実際に着手した企業は、今のところは少ない。米Gartnerが最高情報責任者（CIO）を対象に実施した最近の調査でも、AIを既に導入したとの回答は4％にとどまっている。</p>
+
+<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/091800172/091800001/" target="_blank">前回</a>から続く）</p>
+
+<h4>現状認識（2）：長期的な計画</h4>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/091800172/091800002/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　計画の時間枠が局所的な視野になることには要注意だ。現時点での戦略的計画のプロセスには、今後の長い行路を見据えた展望が求められる。</p>
+
+<p>　とんちんかんな質問のように思えるかもしれないが、「わが社のAI利用は60年後にどのような様相になっているだろうか？」と自問しておかないと、現時点で無駄金と機会損失を増やすことになる。</p>
+
+<p>　長期的な時間枠での計画が難しいのは、大半の企業で戦略的計画のプロセスにあてている時間枠が、75年という期間に比べて局所的だからだ。こうした短期的な見方を促しているのは、3～5年単位の戦略的事業計画、2年単位の予算サイクル、四半期単位の決算であることが多い。</p>
+
+<h4>現状認識（3）：プロセスの調整</h4>
+
+<p>　戦略的計画のプロセスは意図的に伸ばして考える必要がある。R&D、事業計画、投資判断にマイナスの影響をもたらしかねない局所的な視野での計画を避けるためだ。</p>
+
+<p>　戦略的計画のカメラをズームアウトし、7～10年の期間で捉えること。計画の視野を広げれば、将来について十分な展望を得て、ありがちな落とし穴を避けられるかもしれない。例えば、必要な技能の構築漏れ、短命の製品やアーキテクチャーへの過剰投資、問題をはらんだ決定や投資に伴う機会費用といった落とし穴が考えられる。あるいは、AIが汎用技術への道を進んでいく中で、その行く末を左右する重要な出来事が、技術、社会、経済、政治に関して起きた時に、それらを見落としたり、解釈を誤ったりという落とし穴もある。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/091800172/091800002/?ST=cio-management&P=2">長期的な潜在力への計画を</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/091800172/091800002/?ST=cio-management&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/091800172/091800002/?ST=cio-management&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/091800172/091800002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Fri, 28 Sep 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
