@@ -5,48 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n01</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>通信事業者向けインフラ、2022年には市場規模163億ドルに（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/090500545/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米市場調査会社IDCの最新の予測によると、通信事業者向けのコンピューティングインフラとストレージインフラの市場規模は、2017年の108億ドルから、2022年には163億ドルへと、年平均成長率6.2％で着実に伸びていく見通しだ。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/090500545/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Martyn Williams</div>
-</div>
-<p>
-　ソフトウエア定義（Software-Defined）のインフラへの移行が空前のペースで進む中、その動きが特に顕著なのが通信業界だとIDCは分析する。通信企業は、垂直統合のスタックからソフトウエア定義インフラへとデータセンター全体を切り換えつつある。
-</p>
-<p>
-　「通信企業はイノベーションカーブの最前線にいる」と、IDCでインフラシステム／プラットフォーム／テクノロジー担当バイスプレジデントを務めるAshish Nadkarni氏は言う。「各社は、ソフトウエア定義インフラへの移行によって、イノベーションに力を注ぎ、運用コストを削減し、製品やサービスの独自性による差別化を続けることが可能になる」
-</p>
-<p>
-　現在の通信業界には、従来と同じビジネスモデルや規制の下で売り上げを伸ばせる保証はない。そこで、イノベーションへの投資を増やしながらも、大半の企業と同様のコスト削減に取り組むことによって、競争上の優位性を常に確保しておくことが通信各社には欠かせないとIDCは指摘する。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/090500545/?ST=cm-network&P=2">モバイルプラットフォームでのリッチメディア配信や5Gといった取り...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/090500545/?ST=cm-network&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/090500545/?ST=cm-network&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/090500545/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Wed, 05 Sep 2018 11:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d01</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>脆弱性報告制度、企業への義務づけは近い？（後）（脆弱性報告制度、企業への義務づけは近い？）</title>
@@ -1182,6 +1144,43 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Fri, 28 Sep 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソーシャルメディアと荒らし行為、終焉への道（上）（ソーシャルメディアと荒らし行為、終焉への道）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/092700173/092700001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　企業がソーシャルメディアから撤退を始めつつある。撤退の形はさまざまだ。Facebookなどのサイトでの活動を減らして（あるいは見切りをつけて）、他のソーシャルサイトに重心を移しつつある企業は少なくない。</p>
+
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092700173/092700001/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit：IDG</div>
+</div>
+
+<p>　また、オーガニックリーチを追求するのをやめ、代わりにソーシャル広告に比重を置く（あるいは全面的に移行する）ところもある。さらには、ソーシャルメディア全般から距離を置き始めている企業もある。企業がこうした動きを取るのには、いくつかの理由がある。</p>
+
+<h4>理由1：Facebookなどのソーシャルサイトに支配権を奪われる</h4>
+
+<p>　Facebookは、いわば万人を独り占めしている状態だ。長年にわたってソーシャルネットワークの代表格として君臨し、最も多くのユーザーを抱え、したがってネットワーク効果が最も大きい。企業は、ぜひFacebookを活用すべしと聞かされてきた。なぜなら、そこに顧客が集まっているから。そして、ソーシャルメディアではメッセージが口コミで急速に拡散する場合があり、実質的に無料で広告を打ったような効果が得られるからだ。</p>
+
+<p>　Facebookは企業各社に、Facebook上に企業ページを開設するとよいと信じ込ませた。顧客にFacebookに来てもらって、ページを「いいね」してもらうとよいと促した。だが、その後でFacebookが講じた策は、企業の投稿のごく一部のみを、その顧客やファンのごく一部にのみ表示するというものだった。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092700173/092700001/?ST=cm-network&P=2">米Ogilvyの調査によると、企業のファンのうち、その企業の投稿...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092700173/092700001/?ST=cm-network&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092700173/092700001/?ST=cm-network&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092700173/092700001/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Mon, 01 Oct 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
