@@ -5,43 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d01</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>脆弱性報告制度、企業への義務づけは近い？（後）（脆弱性報告制度、企業への義務づけは近い？）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/083000166/083000002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　企業が善意のセキュリティ研究者からバグの報告を受けて対処するための仕組みである脆弱性報告制度は、米連邦取引委員会（FTC）と米司法省の様子からすると、将来的にあらゆる企業が何らかの形で設けるよう義務づけられることになりそうだ。現状では、この手の制度を一切設けていない企業がほとんどである。米HackerOneが2017年6月に示した調査結果によると、Forbes Global 2000企業の94％は、セキュリティ問題について研究者から報告を受け付ける手段を用意していない。</p>
-
-<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/083000166/083000001/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000166/083000002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　バグ報奨金制度の先駆者であるKatie Moussouris氏は、今年のインタビューで、脆弱性報告制度とバグ報奨金制度を混同している企業が多いと指摘し、「バグ報奨金と脆弱性報告は同じだと人々が考えるようになると危険だ」と述べていた。</p>
-
-<p>　バグ報奨金制度では、セキュリティ上の欠陥発見を促す金銭的報酬をハッカーに与える。だが企業は、バグ報奨金制度を始める前に済ませておくべきことがある。1つは社内検査。もう1つは、報告された脆弱性に対処する社内プロセスの確立だ。特に重要なのは後者である。「脆弱性報告制度の実施にあたって司法省が推奨しているのは、単なるポリシーだけでなく、トリアージの能力、報告に対処する能力、指摘された問題を修正する能力を整備することだ」とElazari氏は言う。</p>
-
-<p>　善意のセキュリティ報告を受け取るだけなら簡単だが、報告されたバグへの対処はずっと厄介だ。バグ報告に対処する手段がないのに、報告受け取りの門戸を開くのは、その企業の法的責任につながる恐れがある。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000166/083000002/?ST=cm-network&P=2">バグ報告への対処が必要</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000166/083000002/?ST=cm-network&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000166/083000002/?ST=cm-network&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/083000166/083000002/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 06 Sep 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n01</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>ITトランスフォーメーション「完了」の企業、アジア太平洋地域は8％（CIOニュース）</title>
@@ -1181,6 +1148,47 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Mon, 01 Oct 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>SalesforceのCEO、テクノロジーの倫理的・人道的利用を訴える（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100100471/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Salesforce.comの共同創業者で最高経営責任者（CEO）のMarc Benioff氏は、同社の年次カンファレンス「Dreamforce 2018」の基調講演の中で、Salesforceの価値観や、テクノロジーの倫理的・人道的な利用の重要性について、20分間にわたって熱く語った。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100100471/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Katherine Noyes/IDGNS</div>
+</div>
+<p>
+　動き回りながら話すいつものスタイルではなく、カメラに向かって直接語りかける形で、Benioff氏は次のように述べた。「周知のとおり、今は世界にとって極めて重要な時だ。我々は、世界を変える個人的行動を起こしつつある。自分たちの政府のリーダー、NGOのリーダー、企業のリーダーを頼りにしなくなりつつある。うねりが起きつつある」
+</p>
+<p>
+　「我々は、自社の従業員との近視眼的な対話だけでなく、自分たちの現在の取り組みが倫理的で人道的なのかどうかを問うべく、重要な助言者、支持者、評論家、思想家など、その問いかけに必要なあらゆる人たちを交えて、組織立った対話を行うことができる」
+</p>
+<p>
+　「テクノロジー業界では皆がその点を問う必要が出てくる。すべての企業、すべてのCEOが、自らの価値観を通じてその問いに答えられるようにしておかなくてはならない」。同氏の言葉には拍手が起きた。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100100471/?ST=cio-management&P=2">同社は現在、テクノロジーの倫理的・人道的利用に関...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100100471/?ST=cio-management&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100100471/?ST=cio-management&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100100471/?ST=cio-management&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100100471/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Mon, 01 Oct 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
