@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>ユニットコム、6コアCore i7搭載の17.3型ノート </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1145321.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1145/321/01.jpg"></div></div><span class="caption">STYLE-17FH054-i7-UH</span></div></div></div></div><p>　株式会社ユニットコムは、第8世代Core i7プロセッサ搭載の17.3型ノートPC 3製品を発売した。価格は102,578円から。</p><p>　すべて第8世代の「Core i7-8750H(6コア/12スレッド、2.2GHz)」を搭載し、優れたマルチタスク性能を謳う。</p><p>　3製品の違いはメモリとストレージ構成で、DDR4-2400メモリ4GBと120GB SATA SSD搭載の「STYLE-17FH054-i7-UHSS」が102,578円、DDR4-2400メモリ4GB×2と240GB SATA SSD搭載の「STYLE-17FH054-i7-UHSX」が111,218円、DDR4-2400メモリ4GB×2と250GB NVMe SSD+1TB HDD搭載の「STYLE-17FH054-i7-UHSVI」が118,778円となっている。</p><p>　そのほかのおもな仕様は共通で、17.3型フルHD(1,920×1,080ドット)非光沢液晶ディスプレイ、OSにWindows 10 Homeを搭載。</p><p>　インターフェイスはUSB 3.1×2(Type-A/Type-C)、USB 3.0、USB 2.0、IEEE 802.11ac対応2×2無線LAN+Bluetooth 5.0、Gigabit Ethernet、ミニD-Sub15ピン、HDMI、100万画素Webカメラ、SDカードリーダ、音声入出力。</p></div></div>]]></description>
-			<pubDate>Fri, 28 Sep 2018 14:27:05 +0900</pubDate>
-		</item>
-		<item>
 			<title>OS再インストールやHDD交換でも排除できない、UEFIルートキット「LoJax」 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1145336.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1145/336/01.png"></div></div></div></div></div></div><p>　セキュリティソフトベンダーの<a href="https://pc.watch.impress.co.jp/docs/news/%7CESET%7Cn" class="n" target="_blank">ESET</a>は27日(現地時間)、UEFI(Unified Extensible Firmware Interface)のルートキット「LoJax」を発見したことを発表した。</p><p>　LoJaxは、高度な攻撃を行なうサイバー攻撃集団「Sednit」によって使用されたという。同グループはAPT28やSTRONTIUM、Sofacy、Fancy Bearなどの別名でも知られている。</p><p>　ESETの調査では、LoJaxの攻撃対象となったのは、バルカン半島中部および東欧のいくつかの政府組織で、最低でも1度は攻撃成功を収めているという。UEFIルートキットとしては、世界で初めて実際に攻撃が確認されたものとなる。</p><p>　LoJaxの動作は、悪意のあるUEFIモジュールをシステムのSPIフラッシュメモリに書き込むというもので、悪意あるUEFIモジュールは、PCのブート処理中にマルウェアをストレージへ注入、実行する。</p><p>　この動作により、OSの再インストールだけでなく、ストレージが交換されても排除できず、システムのUEFIファームウェアをリフレッシュするという操作も一般的ではないことから、ESETでは机上の空論ではなく、より現実的な脅威として警告している。</p><p>　ただしLoJaxは、SPIフラッシュメモリ保護が脆弱、または誤った構成の場合に動作するものであることから、マザーボードの最新のUEFIを使っているかを確認するとともに、悪用された脆弱性が古いチップセットのみに影響を及ぼすため、2008年からIntel 5シリーズより導入されている「Platform Controller Hub」を搭載したチップセットかどうかを確認するよう推奨している。</p><p>　また、UEFIルートキットは正しい署名が行われていないことから、Secure Bootを有効にしておくことで攻撃を防げるため、同機能を有効にすることも強く推奨している。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1145611.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1145/611/01_o.jpg"></div></div></div></div></div></div><p>　<a href="http://www.microsoft.com/" class="n" target="_blank">米Microsoft</a>は9月28日(現地時間)、ロボット開発用のオープンソースなライブラリ/ツールであるROS(Robot Operating System)向けに「ROS1 for Windows」の試験的な提供を開始した。64bit版のWindows 10のデスクトップ版およびWindows 10 IoT Enterpriseにて動作する。</p><p>　ROS1 for Windowsでは、同社開発環境のVisual Studioのツールセットと連動するリッチなAIやクラウド機能を利用可能。同社はインテリジェントエッジ時代を見据え、Windows Machine Learning、コンピュータビジョン、Azure Cognitive Services、Azure IoTなどの機能によって、将来のロボット開発に大きな進歩がもたらされるとしている。</p><p>　なお、まもなく次のバージョンとなる「ROS2」の提供もはじまるという。</p></div></div>]]></description>
 			<pubDate>Mon, 01 Oct 2018 13:34:01 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】NETGEAR、NAS 2台購入で10Gbps対応スイッチングハブをもれなくプレゼント</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1145632.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1145/632/01_o.jpg"></div></div><span class="caption">GS110MX</span></div></div></div></div><p>　<a href="https://www.netgear.jp/" class="n" target="_blank">ネットギアジャパン合同会社</a>は10月8日までの期間限定で、NETGEAR製品を2台購入すると同社の10Gbps対応ポートを備えたスイッチングハブ「GS110MX」をもれなく提供するキャンペーンを実施している。</p><p>　キャンペーンの対象となる製品は、ReadyNAS 520XシリーズおよびReadyNAS 620XシリーズのRAID対応NAS。応募方法など、詳細については<a href="https://www.netgear.jp/campaign/2018-10_readydr/" class="n" target="_blank">特設ページ</a>を参照されたい。</p></div></div>]]></description>
+			<pubDate>Mon, 01 Oct 2018 14:23:29 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
