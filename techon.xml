@@ -5,18 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>自然電力、再エネ30％の個人向け電力プラン、非化石証書で</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/092111519/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Fri, 21 Sep 2018 18:22:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>飯舘村、再エネ事業の収入を財源に「北風と太陽基金」</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/092111520/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Fri, 21 Sep 2018 19:20:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>高レベルでもじっくり考えれば解ける！ RLC交流回路の並列共振周波数</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/lecture/15/359175/00065/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　高レベルな問題にはなかなか手が出ない。そう考えるのが普通ですが、じっくり考えれば解ける問題もあります。その代表例として、「E検定～電気・電子系技術検定試験～」で出題される問題例を紹介する本連載の問88では、RLC交流回路の並列共振周波数に関する計算問題を取り上げます。これまでの正答率は71.7％です。よく考えて、正解を導き出しましょう。</p><p><b>【分野】</b>電気回路</p><p><b>【レベル】</b>現場での問題解決に必要な知識（レベル3）</p><p><b>【正答率】</b>71.7％</p><hr><p><b>【問88】</b><br>図の回路で負荷$Z_0$に流れる電流が$Z_0$の値に無関係になるための交流電源の周波数$f$はいくらか。</p><div><div class="bpimage_center" style="width:500px;"><div><img src="https://tech.nikkeibp.co.jp/dm/atcl/lecture/15/359175/00065/sk01.jpg?__scale=w:500,h:150&amp;_sh=0608b0e60d" width="500" height="150" alt=""></div></div></div><ul><li><b>（ア）</b>$f=\cfrac{1}{2\pi\sqrt{\cfrac{L}{C}}}$</li><li><b>（イ）</b>$f=\cfrac{1}{2\pi\sqrt{\cfrac{1}{LC}}}$</li><li><b>（ウ）</b>$f=\cfrac{1}{2\pi\sqrt{LC}}$</li><li><b>（エ）</b>$f=\cfrac{1}{2\pi\sqrt{\cfrac{C}{L}}}$</li></ul><script type="text/x-mathjax-config">MathJax.Hub.Config({  tex2jax: {    inlineMath: [['$','$'], ['\\(','\\)']],    processEscapes: true  },  CommonHTML: { matchFontHeight: false }});</script><script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script></div><li><a href="https://tech.nikkeibp.co.jp/dm/atcl/lecture/15/359175/00065/?P=2">次へ</a></li>]]></description>
@@ -243,6 +231,24 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/100111540/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><div class="bpbox_right" style="width:200px;"><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/100111540/?SS=imgview&amp;FD=214386038" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/100111540/1001erex_01.jpeg?__scale=w:200,h:124&amp;_sh=050ca0430d" width="200" height="124" alt=""></a></div><div>中城バイオマス発電所の完成予想図</div><div>（出所：イーレックス）</div><div>[画像のクリックで拡大表示]</div></div></div><p>　イーレックスが沖縄県うるま市で開発を進めている出力49MWの木質バイオマス発電事業に、九電みらいエナジー、トーヨーカネツ、沖縄ガス、九電工、東京ガスエンジニアリングソリューションズ、沖縄県内地元企業などが出資参画する。9月27日発表した。</p><p>　各社は、イーレックスが設立した事業子会社の沖縄うるまニューエナジーに出資する。出資比率は、イーレックスが44.8％、九電みらいエナジーが20.0％、トーヨーカネツが10.0％、沖縄ガスが6.8％、九電工が4.5％、東京ガスエンジニアリングソリューションズが2.7％、地元企業など5社が11.2％。</p><p>　事業運営では、イーレックス、九電みらいエナジー、東京ガスエンジニアリングソリューションズ、トーヨーカネツが発電所運営を行ない、九電工が発電所の電気設備工事を担当する。また、沖縄ガスや地元企業などが出資参画することで、地域社会との協調をより強固なものにしていく。</p><p>　発電所名は「中城バイオマス発電所」で、インドネシア産のパーム椰子殻（PKS）とマレーシア産の木質ペレットを年間約20〜30万t使用し、一般家庭11万世帯分に相当する年間約35万MWhを発電する計画。CO<sub>2</sub>削減効果は年間27万200tの見込み。固定価格買取制度（FIT）による売電単価は24円/kWh。</p><p>　イーレックスによると、木質バイオマス専焼発電所としては沖縄県内で最大規模という。EPC（設計・調達・施工）およびボイラー製造はJFEエンジニアリングが担当する。2019年6月に着工、2021年7月末に運転開始する予定。</p></div>]]></description>
 			<pubDate>Mon, 01 Oct 2018 12:46:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>金融機関の太陽光発電マッチング業務は「可能」、金融庁が回答</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/100111541/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　金融庁は、金融機関が太陽光発電事業に関わる顧客マッチング業務について、銀行法の「その他の付随業務」として取り扱うことが可能との見解を示した。産業競争力強化法の「グレーゾーン解消制度」に基づく照会で、9月14日付で回答した。</p><p>　太陽光発電関連事業を請け負う事業者から、8月17日付で照会を受けた。提携先金融機関が太陽光発電事業を希望する事業者と土地所有者を紹介し、ビジネスマッチング手数料を受けとることが銀行法第10条第2項の「その他の銀行業に付随する業務」に該当するかを確認するもの。なお、宅地建物取引業法第2条第1号に規定する宅地は対象外とした。</p><p>　金融庁の回答では、当該事業者および紹介する顧客が金融機関の「取引先企業」である場合は、取引先企業に対する経営相談・支援としてもビジネスマッチング業務と考えられることから、銀行法第10条第2項柱書の「その他の付随業務」として取り扱い可能とした。</p><p>　また、紹介する顧客が「取引先企業」ではない場合（例えば個人事業主ではない個人を紹介する場合）でも、銀行法第12条で他業が禁止されていることに十分留意し、（1）当該業務が銀行法第10条第1項各号及び第2項各号に掲げる業務に準ずるか、（2）当該業務の規模が、その業務が付随する固有業務の規模に比して過大なものとなっていないか、（3）当該業務について、銀行業務との機能的な親近性やリスクの同質性が認められるか、（4）銀行が固有業務を遂行する中で正当に生じた余剰能力の活用に資するか、といった観点を総合的に考慮した上であれば、「その他の付随業務」として取り扱い可能とした。</p><p>　なお、金融機関が同業務を実施するにあたり、顧客保護や法令などの順守から体制を整備する必要性に加え、顧客本位の業務運営の観点から紹介する顧客にも最善の利益の実現するように取り組むことを求めた。</p><p>　グレーゾーン解消制度は、事業者が新しい事業を行うに先立ち、あらかじめ事業に対する規制の適用の有無について照会できる制度。政府は照会に対し、事業所管大臣から規制所管大臣への確認を得て、規制の適用の有無を回答する。今回の場合、事業所管大臣は経済産業大臣、規制所管大臣は内閣総理大臣になる。</p></div>]]></description>
+			<pubDate>Mon, 01 Oct 2018 13:06:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>芙蓉総合リースが「RE100」加盟、国内総合リースで初</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/news/16/100111542/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><div class="bpbox_right" style="width:200px;"><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/100111542/?SS=imgview&amp;FD=-782908908" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/100111542/1001fuyou1.jpg?__scale=w:200,h:113&amp;_sh=0770c40870" width="200" height="113" alt=""></a></div><div>芙蓉総合リースとシャープの合弁会社によるメガソーラー</div><div>（出所：シャープ）</div><div>[画像のクリックで拡大表示]</div></div></div><p>　芙蓉総合リース（東京都千代田区）は9月26日、事業活動で消費する電力を100％再生可能エネルギーで調達することを目標に掲げる国際的なイニシアティブ「RE100」に加盟したと発表した。国内の総合リース会社では初の加盟という。</p><p>　2050年までに事業活動で消費する電力を100％再エネに切り替えるとともに、ビジネス分野で、（1）太陽光発電事業のさらなる拡大による地域社会への貢献、（2）再エネや省エネに資するインフラや設備導入にあたってのソリューション・サービス（提案型ソリューションビジネスの展開）、（3）再エネ普及に資する新技術を保有するベンチャー企業などへの出資・業務提携・販売推進サポートなど、従来のリース・ファイナンス機能にとどまらないソリューションを提供していくという。</p><p>　芙蓉リースグループは、中期経営計画「Frontier Expansion 2021」において「環境・エネルギー」を戦略分野のひとつと掲げ、太陽光発電事業の拡大や省エネ・脱炭素に資するインフラ・設備のリース・ファイナンスなどを推進してきた。</p><p>　2012年度に子会社を通じて太陽光発電事業に参入。現在は全国29カ所にメガソーラー（大規模太陽光発電所）を運営している（<a href="https://tech.nikkeibp.co.jp/dm/atcl/news/15/102200847/?ST=msb">関連記事</a>）。さらに、2018年の稼働に向けて、福島県富岡町と楢葉町、宮城県七ヶ宿町の3カ所でメガソーラーの建設を進めている。</p><p>　このほかにも、芙蓉総合リース本社床面あたりの電気消費量を、2016年度に2009年度比で47.5％削減した。グループ全体の温室効果ガス削減については、2010年度に2007年度比18％減を達成しており、2017年度は2010年度水準の維持を目標としている。</p></div>]]></description>
+			<pubDate>Mon, 01 Oct 2018 13:31:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>未病領域のデータ事業に乗りだす、MDV</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/327441/093000565/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　DPCデータを中心に収集・分析を行ってきたメディカル・データ・ビジョン（MDV）。同社は今後、健診・検診など未病領域のデータ取得に乗りだす。2018年9月25日に開催した説明会で明らかにした。</p><p>　同社 代表取締役社長の岩崎博之氏は、新事業の意図をこう語る。「創業時から個々人の時系列データを収集・蓄積することが、理想の姿だと考えてきた。健康状態の維持や予防、そして病気になったときの対応など、各フェーズにおいて提案ができるようになる。そのために、生活者個々の同意を得て健診・検診データを取得する『オプトインリアルタイムデータ』の事業に軸足を移す」。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/093000565/?SS=imgview_ndh&amp;FD=1326482971" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/093000565/01-MDV20180929.JPG?__scale=w:500,h:375&amp;_sh=08608107a0" width="500" height="375" alt=""></a></div><div>メディカル・データ・ビジョンの岩崎氏</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　それに向けて、新たに子会社となるMDVチェックアップ（代表取締役 浅野孝仁氏）を設立した。さらに、新事業の第1弾として乳がん検診のデータ収集から開始するため、乳がんの特定領域がん診療連携拠点病院である相良病院（鹿児島市）を傘下に持つ、さがらウィンメンズヘルスケアグループ（相良吉昭理事長）と提携した。<br></p></div>]]></description>
+			<pubDate>Mon, 01 Oct 2018 14:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
