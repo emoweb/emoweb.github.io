@@ -5,53 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n02</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ITトランスフォーメーション「完了」の企業、アジア太平洋地域は8％（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/090600464/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Enterprise Strategy Group（ESG）が実施した調査によると、日本を含むアジア太平洋（APJ：Asia Pacific and Japan）地域の企業のうち、ITトランスフォーメーションの成熟度が「完了」のステージに達している企業は8％にとどまっている。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/090600464/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Dreamstime</div>
-</div>
-<p>
-　調査は、米Dell EMCと米Intelの委託でESGが実施したもの。オーストラリア、ニュージーランド、中国、日本、インド、香港の企業に勤める1374人から回答を得た。この調査では、対象企業を、ITトランスフォーメーションの成熟度に応じて、「レガシー」「進行中」「進化中」「トランスフォーメーション完了」という4つのステージに分類している。
-</p>
-<p>
-　調査結果によると、「トランスフォーメーション完了」に達している企業の75％は、新しい製品やサービスの市場展開に関して、自社が競合他社よりも大幅に先行していると認識している。
-</p>
-<p>
-　「APJ地域の企業で、俊敏性、ビジネスのスピード、イノベーションを重視している様子が見られる」と、Dell EMCのAPJ営利事業担当プレジデント、Amit Midha氏は言う。
-</p>
-<p>
-　「ITの成熟度の面で、大多数の企業は今も『進行中』『進化中』のステージにあるものの、幸先はよい。市場シェアの確保や今後の成長の足場固めなど、トランスフォーメーションの成果獲得に向けて力を注いでいる」
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/090600464/?ST=cio-management&P=2">調査に回答した企業の94％は、デジタルトランスフ...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/090600464/?ST=cio-management&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/090600464/?ST=cio-management&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/090600464/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Thu, 06 Sep 2018 11:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d02</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>アジャイルコーチ、企業の変革でかけがえいのない役割（下）（アジャイルコーチ、企業の変革でかけがえいのない役割）</title>
@@ -1189,6 +1146,45 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Mon, 01 Oct 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>CMMIの成熟度レベル、それぞれの内容は（前）（CMMIの成熟度レベル、それぞれの内容は）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/092700174/092700001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　能力成熟度モデル統合（CMMI：Capability Maturity Model Integration）は、企業や組織の開発プロセスの成熟度を評価するためのモデルだ。もともとは、政府機関の請負業者の開発プロセスを客観的に評価することなどを狙いとして、米国防総省の関与のもとで策定された。</p>
+
+<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092700174/092700001/top.jpg" width="320" alt="" title=""></div></div>
+
+<p>　CMMIでは、レベル1～5の5段階でプロセスの成熟度を測定する。CMMIの要件に照らしてプロセスを測定することは、それぞれのレベルを段階的に達成していくための指針となり、測定可能で信頼性が高い正式なソフトウエア開発プロセスを確立していくことにつながる。</p>
+
+<p>　最上位のレベル5の成熟度に達した企業や組織は、確立された開発プロセスを継続的に改善している状態にある。CMMIのフレームワークは、プロセスの構築、実装、保守の円滑な指針となり、組織を最上位レベルへと導く。レベル5の最適化状態を維持するには、下位のレベルが強固な土台となる。CMMIをベストプラクティスの指針として、どのプロセスも初期段階から始まり、少しずつ進化して、成熟度の最終レベルへと到達する。</p>
+
+<p>　CMMIのそれぞれの成熟度レベルについて、概略を見ていこう。</p>
+
+<h4>レベル1：初期</h4>
+
+<p>　レベル1は、安定性に欠ける状況であるのが普通だ。組織は極めて受け身的で、火消しに追われている。プロセスは一般に場当たり的で、特定の個人頼みで何とか物事が回っている。プロセスは新しくて文書化されていないことが多く、確実には反復できない。今後反復していくことを予定するプロセスは、ここが出発点だ。ここから、問題点を一通り解決し、手順を確立していくことになる。</p>
+
+<p>　どの企業も、新しい開発プロセスの確立はこの初期段階から始まる。実際にプロセスを反復してみると（あるいは反復しようとすると）、対処が必要な障壁、調整が必要な項目、追跡が必要な指標など、予期していなかった要素が見つかる。試行錯誤を通じて改善の指針を得ることで、上位のレベルへと自然に近づいていく。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092700174/092700001/?ST=cio-management&P=2">レベル2：管理された（反復可能）</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092700174/092700001/?ST=cio-management&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092700174/092700001/?ST=cio-management&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092700174/092700001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 02 Oct 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
