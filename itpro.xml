@@ -5,47 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n03</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Linux創始者、CPU脆弱性の影響とハードウエアの変化について語る（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/090700546/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　Linuxカーネルの新バージョンであるLinux 4.19は、CPU脆弱性の問題への対処を余儀なくされた。ハードウエア側のバグにソフトウエア側が対処せざるを得ないことは、実に腹立たしい問題だった。Linuxの創始者であるLinus Torvalds氏は、今後こうした事案が減ることを願っている。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/090700546/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: James Niccolai/IDGNS</div>
-</div>
-<p>
-　Linuxの開発プロセスでは、新しいコードをマージするマージウィンドウが2週間あり、その後の6～7週間をバグの発見と修正にあてている。通常、このプロセスは大ごとではないとTorvalds氏は言う。多くの場合、2週目の半ばにはバグ修正に入る。しかし4.19では、新たなCPU脆弱性の問題が、マージウィンドウの最中に持ち上がった。
-</p>
-<p>
-　一方、幸いな面としてTorvalds氏が挙げたのは、最近のCPU脆弱性は次第に深遠化していて、影響する対象が少なくなっていることだ。「ハードウエアのセキュリティ脆弱性の問題が終息に近づいて、今後は大幅に減ることを願っている」と同氏は述べた。
-</p>
-<p>
-　このほか、Torvalds氏が述懐したのは、昔はハードウエアの性能は年々2倍になるという想定があったことだ。最近ではその説は成り立たず、今後もそうなりそうにはないと同氏は言う。
-</p>
-<p>
-　この点を念頭に置いて、今後の開発者は、ソフトウエアの速度をもっと気にかけていた時代に戻ることになるかもしれないとTorvalds氏は言う。ハードウエア側が高速化することで何とかなると決めてかかるわけにはいかない。
-</p>
-<p>
-（了）
-</p>
-<div align="right"><small>翻訳：内山卓則＝ニューズフロント</small></div>
-記事原文（英語）は<a href="http://www.infoworld.com/article/3302371/linux/linus-torvalds-changes-in-hardware-change-linux-development.html" target="_blank">こちら</a>
-
-<div>
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 07 Sep 2018 11:10:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d03</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>エンタープライズアーキテクチャーのフレームワーク、TOGAFとは（上）（エンタープライズアーキテクチャーのフレームワーク、TOGAFとは）</title>
@@ -1186,6 +1149,47 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Tue, 02 Oct 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソーシャルメディアと荒らし行為、終焉への道（中）（ソーシャルメディアと荒らし行為、終焉への道）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/092700173/092700002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　企業がソーシャルメディアから撤退を始めつつある。撤退の形はさまざまだ。Facebookなどのサイトでの活動を減らして（あるいは見切りをつけて）、他のソーシャルサイトに重心を移しつつある企業は少なくない。</p>
+
+<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/092700173/092700001/" target="_blank">前回</a>から続く）</p>
+
+<h4>理由その3：ソーシャルメディアで荒らしやヘイト行為などの問題が続いている</h4>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092700173/092700002/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit：IDG</div>
+</div>
+
+<p>　Facebook、Twitter、YouTubeをはじめとするソーシャルサイトは、自らのサイトで最大の困りものを抑制できていない。各社が対処を約束し、前向きに取り組んでいるにもかかわらずだ。例えばTwitterには、ヘイトスピーチやポルノグラフィー、過激なコンテンツが山ほどある。正統派のブランドが関わりたくないような類いのコンテンツだ。</p>
+
+<p>　リーチの問題と同様に、ソーシャルネットワーク上での荒らしの問題に対処するのも、ソーシャルメディア各社の責務である。そして、各社はその責務を果たせずにいる。</p>
+
+<p>　企業にとって、こうしたソーシャルメディア危機に対処する策の1つとしては、自社のWebサイトを、その企業、ブランド、顧客に特化したミニ・ソーシャルネットワークに変えるという方法がある。これはおそらく、長期的にも最善のアプローチだ。</p>
+
+<p>　問題はただ1つ。荒らしにどう対応するかである。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092700173/092700002/?ST=cm-network&P=2">荒らしの問題</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092700173/092700002/?ST=cm-network&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092700173/092700002/?ST=cm-network&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092700173/092700002/?ST=cm-network&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092700173/092700002/?ST=cm-network&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 03 Oct 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
