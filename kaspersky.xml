@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Faxに関する8つの豆知識：Fax？そう、Fax！</title>
-			<link>https://blog.kaspersky.co.jp/fax-fun-facts/21457/</link>
-			<description><![CDATA[電話とFax、どちらが先に発明された？Faxはもう誰も使っていない？Faxマシンもハッキングできる？（できます）]]></description>
-			<pubDate>Wed, 19 Sep 2018 01:00:27 +0000</pubDate>
-		</item>
-		<item>
 			<title>余分な証明書を悪用した、ドメインへの中間者攻撃とDoS攻撃</title>
 			<link>https://blog.kaspersky.co.jp/residual-certificates-mitm-dos/21420/</link>
 			<description><![CDATA[認証局の事情により、あなたのドメインで有効なHTTPS証明書を他人が所持していることも珍しくありません。問題はないのでしょうか？]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/kips-online-japan-part-3/21684/</link>
 			<description><![CDATA[ゲーム形式で学ぶサイバーセキュリティ演習「KIPS」の大会第3弾を、新シナリオで日本にて開催します。]]></description>
 			<pubDate>Mon, 01 Oct 2018 01:00:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>ゲスト用Wi-Fiネットワークとその役割</title>
+			<link>https://blog.kaspersky.co.jp/guest-wifi/21612/</link>
+			<description><![CDATA[ゲスト用Wi-Fiネットワークとは何か、そのセットアップ方法や、家庭用ゲーム機などのIoTデバイスとの関連性について説明します。]]></description>
+			<pubDate>Wed, 03 Oct 2018 01:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
