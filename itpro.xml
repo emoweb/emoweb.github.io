@@ -5,40 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d03</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>エンタープライズアーキテクチャーのフレームワーク、TOGAFとは（上）（エンタープライズアーキテクチャーのフレームワーク、TOGAFとは）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/090300167/090300001/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　「The Open Group Architecture Framework（TOGAF）」は、エンタープライズアーキテクチャーに関する方法論の1つで、エンタープライズソフトウエアの開発に適用できる概略的なフレームワークだ。誤りの抑制、スケジュールや予算の堅持、IT部門と事業部門の連携を狙いとした体系的なアプローチを通じて、開発プロセスを構成し、質の高い成果を生み出すことができる。</p>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300167/090300001/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　TOGAFはグローバルなIT標準団体であるThe Open Groupが1995年に策定した。2016年現在で、Global 50企業の80％、Fortune 500企業の60％が利用している。組織内での非商用目的の利用は無料だが、商用利用には費用がかかる。The Open Groupが認定したツールやソフトウエアは現時点で8つあり、認定講座は70の組織や団体が手がける71講座がある。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300167/090300001/?ST=cio-management&P=2">TOGAFの概要</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300167/090300001/?ST=cio-management&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300167/090300001/?ST=cio-management&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300167/090300001/?ST=cio-management&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300167/090300001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Mon, 10 Sep 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n03</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>スマートシティとは何か、恩恵とリスクは？（Computerworldニュース）</title>
@@ -1190,6 +1160,49 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Wed, 03 Oct 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>WebAssemblyバイナリ用の組み込み可能ランタイム「Wasmjit」が登場（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100300472/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　WebAssemblyのバイナリを動かすための組み込み可能ランタイム「Wasmjit」の開発が進められている。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100300472/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Petra</div>
+</div>
+<p>
+　Wasmjitは、現時点ではまだ概念実証の段階で、Emscriptenで生成したWebAssemblyモジュールを実行できるLinuxカーネルモジュールの開発を主な狙いとしている。Wasmjitを開発したRian Hunter氏は、米オンラインストレージサービスDropboxのLinuxクライアントをかつて開発した人物でもある。同氏は、Wasmjitをオープンソースプロジェクトとして9月末に公開し、開発者の参加を促している。
+</p>
+<p>
+　Wasmjitは、主に次のような目標を掲げている。
+</p>
+<p>
+　・組み込み可能データベースの動作を支えるSQLiteと同じように、WebAssemblyの動作を支える最小限の組み込み可能ランタイムとしての役割を果たす。開発者が独自にランタイムを開発しなくても、Wasmjitを簡単に組み込めるようにする。
+</p>
+<p>
+　・WebAssembly用のカーネルモードのランタイムを提供することで、システムコールを多用するワークロードのパフォーマンスを高める。米Googleや米Facebookのように、トラフィック量が膨大なWebサイトを運営している企業のコスト抑制につながる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100300472/?ST=cio-appli&P=2">目下の計画は、Wasmjitの完成度を高め、実稼...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100300472/?ST=cio-appli&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100300472/?ST=cio-appli&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100300472/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Wed, 03 Oct 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
