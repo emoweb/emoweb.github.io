@@ -5,45 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Windows 10の大型アップデート提供開始。スマホ連携の強化やクリップボードの共有など新機能が多数
-</title>
-			<link>https://japanese.engadget.com/2018/10/03/windows-10/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/3b0854b786bbd160191644863ade7aa7/206709442/Windows%2BYour%2BPhone%2Bapp.jpg" />
-Microsoftが、Windows 10の大型アップデートとなる「Windows 10 October 2018 Update（バージョン 1809）」の提供を開始しました。前回のAplir 2018 Updateと同様、互換性の確認が取れたデバイスから、Windows Updateを通じて順次配信されます。
-
-大型アップデートのため、改良点や機能追加などは多数ありますが、スマートフォンとの連携を強めているのが大きな特徴です。
-
-Androidでのタイムライン機能のサポートもその一つ。といってもWindowsのアップデートというよりはスマートフォンアプリのアップデートでの対応です。
-
- 
-関連記事：Android版Microsoft Launcherがタイムラインをサポート
-
-もう一つのスマートフォン連携は、スマートフォンのSMSをPC上から送受信したり、端末内の写真にアクセスできる「Your Phone（スマホ同期）」アプリの提供です。この機能は、5月からInsider Programで提供されていたもの（当時は「同期電話」の名称でした）。なお、写真はドラッグアンドドロップでPCに移すこともできますが、アクセスできるのは直近の25枚に制限されています。
-
-
-
-また、今回のアップデートには含まれませんが、このYour Phone（スマホ同期）を拡張し、Androidの画面をPC上にミラーリングする機能も発表済みです。今後もスマートフォン連携は、ますます強化されていきそうです。
-
- 
-関連記事：Windows 10上でAndroidスマホアプリをミラーリングできる新機能が発表。PCで直接アプリ操作も可能
-
-その他の機能として、画面のキャプチャを取得するSnipping Toolに変わり、「切り取り領域とスケッチ」が提供されました。「Windowsキー + Shift + S」で起動し任意の領域をキャプチャ可能。アプリからの起動であれば、遅延させてからのキャプチャ取得も行えます。なお、Snipping Toolも引き続き利用可能ですが、起動すると下記のメッセージが表示されます。
-
-
-
-Edgeブラウザにもいくつかの機能が追加されました。WEBサイトの内容に集中できる読み取りビューは以前からありましたが、これに、読んでいる個所を把握しやすくするハイライト表示機能が加わりました。長文のページを読む際に便利そうな機能です。
-
-
-
-クリップボードも機能が拡張されており、「Windows + v」でクリップボードの履歴が表示可能に。さらに、タイムライン機能と同様に、他のデバイスともクリップボードの内容を共有可能になっています。
-
-ただ、大きなファイルは利用できず、現在は、プレーンテキスト、HTML、1MB未満のイメージがサポートされているとのことです
-
-このほか、非常に多くのアップデートが含まれており、詳細はMicrosoftのサイトで確認できます。
- ]]></description>
-			<pubDate>Wed, 03 Oct 2018 05:50:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    アマゾン、Alexa対応のFire TV Stick 4K発表。6980円で12月12日発売
 </title>
 			<link>https://japanese.engadget.com/2018/10/03/alexa-fire-tv-stick-4k-6980-12-12/</link>
@@ -441,6 +402,17 @@ iOS版 Google 翻訳アプリがバージョン5.24.0にアップデートし、
 会場は六本木ヒルズ各所、期間は10月12日から21日まで。
  ]]></description>
 			<pubDate>Thu, 04 Oct 2018 07:15:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>     Twitter、モバイル版にデータ容量削減機能を追加。動画の自動再生と高画質画像の読み込みを抑止
+</title>
+			<link>https://japanese.engadget.com/2018/10/04/twitter/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/de22e9e3dac14631fafab0ea8eb27ca2/206712642/dims.jpg" />
+Twitterは、主に新興国向けとしてアプリのサイズが小さく、画像を低解像度にするなどデータ使用量を削減できるTwitter Liteを提供しています。
+
+残念ながらこのLite、日本ではダウンロードができないのですが、今回のモバイル版アプリのアップデートで、Liteのデータ使用量削減機能とほぼ同じものがAndroidとiOS版のTwitterアプリにも追加されました。
+ ]]></description>
+			<pubDate>Thu, 04 Oct 2018 08:15:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
