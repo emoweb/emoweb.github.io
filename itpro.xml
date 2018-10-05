@@ -11,49 +11,6 @@
 			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>エンタープライズアーキテクチャーのフレームワーク、TOGAFとは（中）（エンタープライズアーキテクチャーのフレームワーク、TOGAFとは）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/090300167/090300002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　「The Open Group Architecture Framework（TOGAF）」は、エンタープライズアーキテクチャーに関する方法論の1つで、エンタープライズソフトウエアの開発に適用できる概略的なフレームワークだ。誤りの抑制、スケジュールや予算の堅持、IT部門と事業部門の連携を狙いとした体系的なアプローチを通じて、開発プロセスを構成し、質の高い成果を生み出すことができる。</p>
-
-<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/090300167/090300001/" target="_blank">前回</a>から続く）</p>
-
-<h4>TOGAFの柱</h4>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300167/090300002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　TOGAF 9.1では、各企業に向けた具体化を可能にするアーキテクチャー領域として、次の4つがある。</p>
-
-<ul>
-<li>ビジネスアーキテクチャー：ビジネス戦略、ガバナンス、組織についての情報や、組織内の既存のプロセスを適合させる方法についての情報を含む。</li>
-<br>
-<li>アプリケーションアーキテクチャー：アプリケーションシステムの構成と展開の青写真を示し、ビジネス目標、他の組織的フレームワーク、中核的なすべてのビジネスプロセスに適合させる。</li>
-<br>
-<li>データアーキテクチャー：論理的および物理的なデータモデルをはじめ、組織のデータストレージ、マネジメント、メンテナンスを定義する。</li>
-<br>
-<li>テクニカルアーキテクチャー（テクノロジーアーキテクチャー）：ビジネスアプリケーションの開発と展開に関与する、必要なハードウエア、ソフトウエア、ITインフラすべてについて記述する。</li>
-</ul>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300167/090300002/?ST=cio-management&P=2">TOGAF 9.1の変更点</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300167/090300002/?ST=cio-management&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300167/090300002/?ST=cio-management&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300167/090300002/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Wed, 12 Sep 2018 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Firefox、Windows XP／Vista対応版のサポートを終了（Computerworldニュース）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/091200548/</link>
 			<description><![CDATA[<div>
@@ -1211,6 +1168,43 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Fri, 05 Oct 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>PyTorch 1.0のRC版公開、JITコンパイルによる高速化に対応（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100500473/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Facebookが開発したPython向けディープラーニングフレームワーク「PyTorch 1.0」のリリース候補（RC）版が公開された。今回のバージョンで打ち出されている特徴の1つが、パフォーマンスに優れたモデルを作成するために、Pythonコードの処理速度を選択的に向上できる機能だ。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100500473/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Little Visuals</div>
+</div>
+<p>
+　機械学習でPythonがこれまで担ってきた役割は、高速なバックエンドのコードライブラリを、使いやすいフロントエンドの構文でラッピングすることだった。Pythonで機械学習モジュールを開発してみるとすぐに気づくように、Python自体は、パフォーマンスが重要な意味を持つ研究用途や実稼働環境で使うには、速度が不十分だった。
+</p>
+<p>
+　PyTorch 1.0では、Pythonのサブセット言語「Torch Script」を使ったJIT（ジャストインタイム）コンパイルの仕組みが利用できるようになった。Pythonの構文の扱いやすさと、パフォーマンスに優れたコードを両立させるための仕組みだ。Torch Scriptのコードは、Pythonのランタイムに依存しない高速なネイティブコードにコンパイルできる。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100500473/?ST=cio-appli&P=2">TorchScriptの使い方は2つある。1つは...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100500473/?ST=cio-appli&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100500473/?ST=cio-appli&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100500473/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Fri, 05 Oct 2018 10:40:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
