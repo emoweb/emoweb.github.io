@@ -5,26 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Google、スマホの全操作を音声のみで行える「Voice Access」公開
-</title>
-			<link>https://japanese.engadget.com/2018/10/05/google-voice-access/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/6897634c7570cc0b46ea742da59fc57b/206715516/dims.png" />
-Googleは、以前からAndroid端末のアクセシビリティ向上に取り組んでおり、2年前には音声操作のみで端末を操作できる「Voice Access」を一部のユーザーに向けに公開、ベータテストを行っていました。このアプリは現在、Google Playで誰でも利用可能となっています。
-
-Voice Accessを有効にすると、画面上で操作できるすべての項目に番号が表示され、その番号を呼ぶことで、そこをクリックしたことになります。このほか、「Back」「Go Home」などの指示や、「Swipe Right」「Scroll Forward」などの音声で操作をすることも。また、テキスト入力にも対応しており、単語の置換やフレーズの削除、コピーペーストなども音声のみで可能です。
-
-基本的にはパーキンソン病や筋ジストロフィ、あるいは脊髄損傷などにより四肢麻痺を持つ人に向けた機能ですが、一般の人でも利用できます。たとえば、料理中に両手が塞がっている場合などで、便利に使えるでしょう。
-
-操作に多少の慣れは必要で、健常者にとっては手でタップしたほうが速いと感じることも多いかもしれませんが、これまでスマートフォンを操作できなかった人たちにとっては、待望のアプリと言えそうです。
-
-なお、現在利用できるのは、英語のコマンドのみ。今後、追加言語のサポートも予定しているとのことです。
-
- 
-
- ]]></description>
-			<pubDate>Fri, 05 Oct 2018 05:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    米上院、政府機関によるドローン撃墜を許可する法案可決。電子フロンティア財団、ACLUらが反対
 </title>
 			<link>https://japanese.engadget.com/2018/10/05/aclu/</link>
@@ -700,6 +680,41 @@ Xperia XZ3の背面ノッチ、理由は？
 
  ]]></description>
 			<pubDate>Sun, 07 Oct 2018 01:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Wikipedia上の壊れたリンク（ページが存在しないリンク）をInternet Archiveらの努力で大量に修復
+</title>
+			<link>https://japanese.engadget.com/2018/10/07/wikipedia-internet-archive/</link>
+			<description><![CDATA[     <img src="https://techcrunchjp.files.wordpress.com/2018/10/gettyimages-528784450.jpg?w=730" />
+【抄訳】
+Webは、脆（もろ）い場所だということがわかってきた。企業や政府機関や教育機関や個人や団体が、しょっちゅう、サイトを立てたり下ろしたりしている。でも問題は、Webが記録のシステムになってることだ。だからページが存在せずリンクが切れていたら、その記録が得られない。そこで、多くのWebページを永久保存しているボランティアサイトInternet ArchiveとWikipediaが協力して、900万の壊れたリンクを生き返らせ、わずかひとつのナレッジベースではあるけれども、この問題を解決した。
+
+Internet Archiveは、できるかぎり多くのWebサイトのコピーを作り保存して、Webのアーカイブ（'文書館'）を作っている。なくなったページのリンク(URL)が分かっているときは、Internet ArchiveのアーカイブWayback Machineで3380億ページのWebページを検索できる。そこには、World Wide Webの草創期からのページがある。ただし問題は、現状ではリンクのURLが正確に分かってないと探せないことだ。
+
+しかしWikipediaのページ上の壊れたリンクは、ページのソースにそのリンクのURLが当然ある。WikipediaのコントリビューターMaximilian Doerrが、ソフトウェアの力で、その壊れたリンクの問題を解決した。彼は、Internet Archive botを略したIAbotというプログラムを作った。Internet Archiveがもう一人クレジットしているStephen Balbachは、DoerrとInternet Archiveに協力して、Wikipediaのアーカイブを調べ、データエラーを修復するプログラムを書いた。
+
+まず、IAbotが壊れたリンクを見つけた。そういうページは、404 "page not found"、というエラーを返す。見つかった壊れたリンクをBalbachのプログラムがInternet Archiveで検索し、それがアーカイブにあったら、アーカイブのリンクに置き換える。物理的には同じページではないが、コピーだから内容は同じ...コピーを作った時点のまま...だ。
+
+これで、死んだリンクが生き返る。
+
+これまでの3年間で彼らのソフトウェアは、22のWikipediaサイトの600万のリンクを蘇生した。またWikipediaのボランティアたちは、手作業で300万のリンクを修復した。驚異的な作業量だが、おかげでWebのWebらしさが維持され、監査証跡も得られる。
+
+このプロジェクトの結果を発表するブログ記事でInternet Archiveは、Wikipediaのユーザーが最近10日間にクリックしたリンクについて報告している。それによると、クリックの相当数がInternet Archiveのページだった（下図）。Wikipediaの壊れたリンクを直したことには、大きな効果があったのだ。
+
+〔クリック数のグラフ: グラフのいちばん下の圧倒的に長い棒がアーカイブ、そのすぐ上はbooks.google.com〕
+
+
+
+
+グラフ提供: Internet Archive
+
+
+【後略】
+
+[原文へ]
+（翻訳：iwatani(a.k.a. hiwa）
+ ]]></description>
+			<pubDate>Sun, 07 Oct 2018 01:40:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
