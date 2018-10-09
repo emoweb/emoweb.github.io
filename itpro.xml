@@ -11,44 +11,6 @@
 			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>Microsoft、Office 2016からOffice 365サービスへの接続期限を延長（CIOニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/091300466/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Microsoftは、永続ライセンス型の「Office 2016」からサブスクリプション型「Office 365」のクラウドサービスにアクセスするのを、2023年まで認めることを発表した。昨年定めた期限を3年延ばし、猶予を設けた形だ。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/091300466/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Amazon</div>
-</div>
-<p>
-　Microsoftは昨年4月、Office 2016のアプリケーションからOffice 365のクラウドサービスを利用できる期限を2020年10月13日とすることを発表していた。この日を過ぎると、Exchangeのメール、OneDriveのストレージ、Skype for Businessの会議など、MicrosoftがホスティングしているOffice 365のクラウドサービスに、Office 2016のデスクトップクライアントから接続できなくなるという内容だった。これは、Officeのサポート要件の抜本的な変更の一環で、Office 365の契約者を増やすための策の1つだった。
-</p>
-<p>
-　2020年10月13日という日付は、Office 2016のメインストリームサポートの終了日と同じだ。Microsoftが昨年4月に定めた規則では、最初に代金を支払えばずっと使える永続ライセンス型Officeについては、今後登場する製品に関しても、同じようにメインストリームサポートの期間のみオンラインサービスにアクセスできるという決まりになった。通常、Officeのサポート期間は10年間で、前半の5年間がメインストリームサポートである。例えば、仮にOffice 2019が今年10月初めに発売になったとしたら、メインストリームサポートが終了する2023年10月以降はオンラインサービスを利用できないことになる。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/091300466/?ST=cio-appli&P=2">だが、少なくともOffice2016に関しては、...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/091300466/?ST=cio-appli&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/091300466/?ST=cio-appli&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/091300466/?ST=cio-appli&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/091300466/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Thu, 13 Sep 2018 11:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>エンタープライズアーキテクチャーのフレームワーク、TOGAFとは（下）（エンタープライズアーキテクチャーのフレームワーク、TOGAFとは）</title>
 			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/090300167/090300003/</link>
 			<description><![CDATA[<div>
@@ -1216,6 +1178,12 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Tue, 09 Oct 2018 10:40:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>VR/AR（電子行政：キーワード）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/14/260942/092600021/</link>
+			<description><![CDATA[　VR/ARとは、仮想現実/拡張現実（感）の略称です。3次元コンピュータグラフィックス（3D CG）や立体音響、さらにはウェアラブル端末などの入出力デバイスから構成された人工の空間を、あたかも実際の空間であるかのように知覚させたり（VR）、現実（物理）空間と継ぎ目なく接続して再構成したりする（AR）技術を指します]]></description>
+			<pubDate>Wed, 10 Oct 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
