@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Facebookが間に入る銀行取引：あり？なし？</title>
-			<link>https://blog.kaspersky.co.jp/facebook-banking/21472/</link>
-			<description><![CDATA[Facebookは銀行と提携し、利用者に金融サービスを提供しようと計画しています。Facebookに任せていいのでしょうか？]]></description>
-			<pubDate>Fri, 21 Sep 2018 01:00:46 +0000</pubDate>
-		</item>
-		<item>
 			<title>2段階認証をさらに強化するための2ステップ</title>
 			<link>https://blog.kaspersky.co.jp/2fa-notification-trap/21556/</link>
 			<description><![CDATA[2段階認証についてはたびたび取り上げていますが、便利なはずの設定が2段階認証を台無しにしてしまう場合もあることはご存じでしたか？ここでは適切な設定について説明します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/aws-integration-reinvent/21187/</link>
 			<description><![CDATA[AWSパブリッククラウドでワークロードを保護し、管理する方法をご紹介します。]]></description>
 			<pubDate>Fri, 05 Oct 2018 05:00:30 +0000</pubDate>
+		</item>
+		<item>
+			<title>モバイルマルウェアとその手口：パート3</title>
+			<link>https://blog.kaspersky.co.jp/mobile-malware-part-3/21654/</link>
+			<description><![CDATA[モバイルマルウェアの中には、利用者の銀行口座からお金を盗むものや、スパイ行為を働くものがあります。]]></description>
+			<pubDate>Tue, 09 Oct 2018 01:00:12 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
