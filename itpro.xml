@@ -5,45 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d09</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>英郵便事業、GDPRのリスクを乗り越えてマーケティングサービスを再開（後）（英郵便事業、GDPRのリスクを乗り越えてマーケティングサービスを再開）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/090300168/090300002/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　欧州連合（EU）の一般データ保護規則（GDPR）は、「同意」についての要件が厳しくなっており、そのためマーケティング戦略の再考を迫られている企業は多い。英郵便事業会社Royal Mailが提供しているサービス「Home Mover Marketing Service（HMMS）」は、この規則に息の根を止められる思いだった。</p>
-
-<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/090300168/090300001/" target="_blank">前回</a>から続く）</p>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300168/090300002/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　HMMSを利用する企業は、引っ越し直後の消費者に有益と思われる、関連性のある商品やサービスに関してターゲットマーケティングを提供することから、正当な利益の条項の下でHMMSを利用できるというのが、ICOが示した見解だった。だがその前に、まずはHMMSにいくらかの改善が必要だった。</p>
-
-<p>　HMMSは、消費者の権利を守り、迷惑なマーケティングコンテンツを消費者が受け取らなくて済むよう、透明性の権利や異議申立の権利などの保護条項を取り入れた。</p>
-
-<p>　「人々が転居届けサービスを利用する時に、データ移転に関して高度なきめ細かさと可視性を提供できるように、個人情報の取り扱いを説明する『Fair Processing Notice』を変更した」</p>
-
-<p>　さらに、「キャンペーンのコピーやクリエイティブを当社が実際に承認することを義務づける指針も取り入れ、転居者に向けた適切なオファーであることを確認するようにした。また、当社のデータを使って行われるキャンペーンのあらゆる部分に、個別のオプトアウトを加えた。各個人が、Royal Mailからの送付や、個別企業からの送付をオプトアウトできる」という。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300168/090300002/?ST=cm-industries&P=2">「こうして当社は、移転可能性を大きく高め、各個人にとってはるかに...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300168/090300002/?ST=cm-industries&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300168/090300002/?ST=cm-industries&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300168/090300002/?ST=cm-industries&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Thu, 13 Sep 2018 06:00:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n09</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Microsoft、Office 2016からOffice 365サービスへの接続期限を延長（CIOニュース）</title>
@@ -1213,6 +1178,44 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Tue, 09 Oct 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10の大型アップデート、ストレージ容量不足のエラーを防ぐには（CIOニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/100900474/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　ストレージ容量が少ない旧型のパソコンやタブレットを使っている人は要注意だ。Windows 10の大型アップデート「October 2018 Update」を導入する前に不要なファイルを整理しておかないと、更新プログラムをインストールできない恐れがある。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100900474/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Andrew Neel</div>
+</div>
+<p>
+　米Microsoftの<a href="https://support.microsoft.com/en-us/help/3166927/windows-10-update-issues-on-devices-with-low-storage-space" target="_blank">サポート情報</a>にもあるように、パソコンのストレージ容量が足りない場合、Windows 10の機能更新プログラムのダウンロードやインストールが繰り返し失敗する可能性がある。Microsoftの説明では、空き容量が十分かどうかの事前チェックに引っかかった場合には、不要なファイルを削除して必要な容量を確保するよう求めるメッセージが表示されるとのことだ。
+</p>
+<p>
+　Microsoftは、October 2018 Updateのインストールに必要な容量を具体的に示していないが、更新を正しく行えるよう、システムメンテナンスを定期的に行うことを勧めている。例えば、不要な一時ファイルを削除したり、使わないファイルをクラウドストレージに移したりといった策だ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100900474/?ST=cio-appli&P=2">幸い、Windows10は空き容量の確保に役立つ...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100900474/?ST=cio-appli&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100900474/?ST=cio-appli&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100900474/?ST=cio-appli&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481709/100900474/?ST=cio-appli&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Tue, 09 Oct 2018 10:40:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
