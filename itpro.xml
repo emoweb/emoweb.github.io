@@ -5,46 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n10</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>エンタープライズアーキテクチャーのフレームワーク、TOGAFとは（下）（エンタープライズアーキテクチャーのフレームワーク、TOGAFとは）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/090300167/090300003/</link>
-			<description><![CDATA[<div>
-<p class="bplead">　「The Open Group Architecture Framework（TOGAF）」は、エンタープライズアーキテクチャーに関する方法論の1つで、エンタープライズソフトウエアの開発に適用できる概略的なフレームワークだ。誤りの抑制、スケジュールや予算の堅持、IT部門と事業部門の連携を狙いとした体系的なアプローチを通じて、開発プロセスを構成し、質の高い成果を生み出すことができる。</p>
-
-<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/090300167/090300002/" target="_blank">前回</a>から続く）</p>
-
-<h4>TOGAFの認定資格とトレーニング</h4>
-
-<div><div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300167/090300003/top.jpg" width="320" alt="" title=""></div></div>
-
-<p>　TOGAFの資格認定には、The Open Group自身が扱っているプログラムがあり、TOGAF 9.1の概念と基礎知識を扱うレベル1、TOGAFと関連する各種テクノロジー、ツール、概念の実務的知識を扱うレベル2に分かれている。資格試験は、個人と組織のいずれについても、The Open Groupが提供している。資格の更新は不要だが、TOGAFの新バージョンが登場した時には、最新バージョンの資格認定をあらためて取得することが必要になるかもしれない。</p>
-
-<p>　TOGAFはエンタープライズアーキテクチャーに関する共通の方法論とフレームワークであることから、TOGAFの資格認定はエンタープライズアーキテクトには特に有益だ。また、特定のベンダーに依存しないグローバルな認定でもある。TOGAF資格を取得すると、テクノロジーの実装やエンタープライズアーキテクチャーの管理でTOGAFのフレームワークを活用できることの証明になる。また、データ、テクノロジー、エンタープライズアプリケーション、ビジネス目標への適用といった側面でTOGAFを扱えることを裏付けるものになる。</p>
-
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300167/090300003/?ST=cio-management&P=2">給与情報サイトPayScaleのデータによると、...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300167/090300003/?ST=cio-management&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300167/090300003/?ST=cio-management&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300167/090300003/?ST=cio-management&P=3">3</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/090300167/090300003/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-
-<div></div>
-
-</div>
-]]></description>
-			<pubDate>Fri, 14 Sep 2018 06:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d10</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>Oracle、Java用のマイクロサービスフレームワーク「Helidon」を発表（Computerworldニュース）</title>
@@ -1184,6 +1148,40 @@ ML.NET 0.5の新機能
 			<link>http://itpro.nikkeibp.co.jp/atcl/keyword/14/260942/092600021/</link>
 			<description><![CDATA[　VR/ARとは、仮想現実/拡張現実（感）の略称です。3次元コンピュータグラフィックス（3D CG）や立体音響、さらにはウェアラブル端末などの入出力デバイスから構成された人工の空間を、あたかも実際の空間であるかのように知覚させたり（VR）、現実（物理）空間と継ぎ目なく接続して再構成したりする（AR）技術を指します]]></description>
 			<pubDate>Wed, 10 Oct 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>美術センスでITとビジネスの隔たりを埋めるデータアーティストとは（前）（美術センスでITとビジネスの隔たりを埋めるデータアーティストとは）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/092800176/092800001/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　世界で最も有名なデータアーティストは、シャルル・ジョゼフ・ミナールと言えよう。兵士の人数、経路、温度、地勢など、いくつかのデータセットを組み合わせて、1812年のナポレオンのロシア遠征を視覚化した図を1869年に制作した人物だ。ナポレオンのロシア遠征自体は悲惨な結果となったが、ミナールが制作した図は、今でも「統計的な図表として史上屈指の1枚」と評されている。</p>
+
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092800176/092800001/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit：Google</div>
+</div>
+
+<p>　仮にミナールが今の時代に生きていたら、データアーティストという新興の職種で成功を収めたことだろう。現代なら、膨大な量のデータがごく簡単に手に入るし、最新テクノロジーの速度と処理能力はすさまじいからだ。データアーティストは、ITとビジネスの隔たりを埋め、内容が分かりにくいテラバイト級のデータを視覚化する。その図を経営幹部が即座に参照し、意味を理解することで、意思決定のスピードを上げ、成功の確率を高められる。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092800176/092800001/?ST=cio-management&P=2">データアーティストの仕事と役割</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092800176/092800001/?ST=cio-management&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092800176/092800001/?ST=cio-management&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092800176/092800001/?ST=cio-management&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092800176/092800001/?ST=cio-management&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+
+<div></div>
+
+</div>
+]]></description>
+			<pubDate>Wed, 10 Oct 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
