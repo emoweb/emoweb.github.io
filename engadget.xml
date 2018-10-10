@@ -5,21 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    「Google Pay」がQUICPayに対応　Kyashも利用可能に
-</title>
-			<link>https://japanese.engadget.com/2018/10/09/android-google-pay-quicpay-kyash/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/adad8941db5fcf6fe6a0fcc42d34b3e0/206722638/IMG_7606.jpg" />
-Androidスマホ向けの決済サービス「Google Pay」が、QUICPayを使った実店舗での非接触決済に対応しました。JCBが発行するクレジットカード・デビットカード・プリペイドカード、ジャックスカード、およびKyashなど、Google Payに対応したカードで利用できます。
-
-これにより、FeliCaを搭載するAndroidスマートフォンにおいて、実店舗におけるGoogle Pay経由のQUICK Pay決済が行えるようになります。
-
-なお、Google Payへの対応を記念したキャンペーンも実施します。JCBは自社が発行したカードをGoogle Payに登録して利用すると、利用金額の10%を最大5000円までキャッシュバックします。
-
-KyashもGoogle Payを利用した決済を2%還元の適用対象としています。
- ]]></description>
-			<pubDate>Tue, 09 Oct 2018 03:35:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    SIE、脱獄済みPS4販売男を告訴。海賊版ゲーム60本入り「もうゲームを買わなくていい」と宣伝
 </title>
 			<link>https://japanese.engadget.com/2018/10/09/sie-ps4-60/</link>
@@ -624,6 +609,19 @@ AIで視覚的に情報検索「Google Lens」が全Android端末に対応。iOS
 ただ、リアルタイム認識は、すべての機種で利用できるわけではありません。いずれ対応機種は増えると考えられますが、すぐに試したいのならPixel 3 / 3 XLを使う必要がありそうです。
  ]]></description>
 			<pubDate>Tue, 09 Oct 2018 23:58:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    ファイル削除問題修正のWindows 10アップデート公開。まずInsiderで検証、後から一般へ
+</title>
+			<link>https://japanese.engadget.com/2018/10/10/windows-10-insider/</link>
+			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/faebb59847c9d393087882635f9fb84a/206725317/img-1451e-1.jpg" />
+マイクロソフトは10月9日（現地時間）、ファイルが勝手に削除されるとして配信を一時停止していた「Windows 10 October Update」の更新版をリリースしたことを発表しました。問題が起こったバージョン1809をインストールしたユーザー向けには、累積アップデートKB4464330が配信されています。
+
+同社のプログラム管理ディレクターJohn Cable氏によれば「データ削除の全てのレポートを完全に調査し、アップデートの既知の問題をすべて特定し、修正し、内部検証を実施しました」とのこと。
+
+ただし、更新版はまずWindows Insider参加者向けに提供し、フィードバックや診断データを慎重に検討してから、一般向けに再リリースすると述べています。
+ ]]></description>
+			<pubDate>Wed, 10 Oct 2018 00:50:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
