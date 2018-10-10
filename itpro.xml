@@ -5,45 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d10</link>
-			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
-			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>Oracle、Java用のマイクロサービスフレームワーク「Helidon」を発表（Computerworldニュース）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/091400550/</link>
-			<description><![CDATA[<div>
-<p class="bplead">
-　米Oracleは、Java用の新しいマイクロサービスフレームワーク「Project Helidon」を発表した。
-</p>
-<div>
-<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/091400550/top.jpg" width="320" alt="" title=""></div>
-
-<div>Credit: Thinkstock</div>
-</div>
-<p>
-　Helidonは、マイクロサービスを構築するためのJavaライブラリで構成されているオープンソースのフレームワークだ。ネットワークアプリケーション開発フレームワークのNettyを基盤として動作し、Helidon Reactive WebServerなどの要素を備えている。クラウド対応のアプリケーション開発をサポートし、ヘルスチェック、メトリクス、トレーシング、フォールトトレランスなどに対応する。
-</p>
-<p>
-　Java EE（Enterprise Edition）でのマイクロサービス開発はこれまでも可能だったが、専用のフレームワークがあった方がよいとOracleは説明している。アプリケーションサーバーを必要とせずに、Java SE（Standard Edition）アプリケーションで使用できる軽量なライブラリ群を構築したいと考えたという。各ライブラリを別々に使うことも可能だが、それらを組み合わせることで、セキュリティ、構成、Webサーバーなど、マイクロサービス開発の基盤となる要素がすべて得られるとしている。
-</p>
-<div>
-<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/091400550/?ST=cm-software&P=2">HelidonはMicroProfileのバージョン1.1を実装...</a></p>
-<div>
-<p class="pages">
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/091400550/?ST=cm-software&P=1" class="now">1</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/091400550/?ST=cm-software&P=2">2</a>
-<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/091400550/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
-</p>
-<!-- /.pages -->
-</div>
-<!-- /#pager -->
-</div>
-<div></div>
-</div>
-]]></description>
-			<pubDate>Fri, 14 Sep 2018 11:10:00 +0900</pubDate>
+			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n10</link>
+			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
+			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>メディア運営から事業領域拡大、KDDIの技術力で新たなスポーツ体験創出（メディアビジネス最前線）</title>
@@ -1182,6 +1147,42 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Wed, 10 Oct 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Xboxゲームをあらゆるデバイスに、Microsoftが「Project xCloud」を発表（Computerworldニュース）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/101000557/</link>
+			<description><![CDATA[<div>
+<p class="bplead">
+　米Microsoftは現地時間2018年10月8日、ゲーム機「Xbox One」のゲームをパソコン、スマートフォン、タブレットで遊べるようにするゲームストリーミングサービス「Project xCloud」の詳細を明らかにした。同社は、2018年6月のゲーム見本市「E3」で、ゲームストリーミングサービスに参入する計画を表明していた。
+</p>
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/101000557/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit: Microsoft</div>
+</div>
+<p>
+　Microsoftのゲーミングクラウド担当バイスプレジデント、Kareem Choudhry氏は、公式ブログ記事で次のように言及した。「ゲームの進化に対する我々のビジョンは、音楽や映画とよく似ている。すなわち、エンターテインメントはどのスクリーンからもオンデマンドで楽しめるようでなければならない」
+</p>
+<p>
+　この売り文句は「Xbox Play Anywhere」とも重なる。Xbox Play Anywhereは、Microsoftが数年前に始めたサービスで、購入したゲームをWindows 10とXbox Oneのどちらでも楽しめるというものだ。このサービスのおかげで、MicrosoftがXbox専用で投入していた主要タイトルがパソコンでも遊べるようになった。今回のProject xCloudで、同社はXboxのフィールドをさらに広げたいようだ。
+</p>
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/101000557/?ST=cm-software&P=2">Microsoftは現在、スマートフォンやタブレットにXboxワ...</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/101000557/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/101000557/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/101000557/?ST=cm-software&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/14/481542/101000557/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Wed, 10 Oct 2018 11:10:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
