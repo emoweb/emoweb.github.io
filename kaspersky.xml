@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>2段階認証をさらに強化するための2ステップ</title>
-			<link>https://blog.kaspersky.co.jp/2fa-notification-trap/21556/</link>
-			<description><![CDATA[2段階認証についてはたびたび取り上げていますが、便利なはずの設定が2段階認証を台無しにしてしまう場合もあることはご存じでしたか？ここでは適切な設定について説明します。]]></description>
-			<pubDate>Tue, 25 Sep 2018 01:00:06 +0000</pubDate>
-		</item>
-		<item>
 			<title>iOS向けのアンチウイルスアプリが存在しない理由</title>
 			<link>https://blog.kaspersky.co.jp/ios-security-explainer/21510/</link>
 			<description><![CDATA[Kaspersky LabがiOS向けのアンチウイルスアプリを販売していないのはなぜでしょうか。また、時々見かけるAppleモバイルデバイス向けの「セキュリティアプリ」とは何なのでしょうか。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/mobile-malware-part-3/21654/</link>
 			<description><![CDATA[モバイルマルウェアの中には、利用者の銀行口座からお金を盗むものや、スパイ行為を働くものがあります。]]></description>
 			<pubDate>Tue, 09 Oct 2018 01:00:12 +0000</pubDate>
+		</item>
+		<item>
+			<title>フリーランサーの皆さんへ：セキュリティに関する6つのアドバイス</title>
+			<link>https://blog.kaspersky.co.jp/freelance-security-tips/21721/</link>
+			<description><![CDATA[フリーランサーはサイバー犯罪者の格好のターゲットです。フィッシングやマルウェアによって認証情報やお金を盗まれないようにしましょう。サイバー犯罪者の罠を見破り、安全を守る6つの方法。]]></description>
+			<pubDate>Wed, 10 Oct 2018 01:00:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
