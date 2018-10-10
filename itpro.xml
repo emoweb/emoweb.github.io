@@ -5,16 +5,10 @@
 		<link>http://itpro.nikkeibp.co.jp/</link>
 		<description>日経BP社が運営する，IT（情報技術）にかかわるプロフェッショナルに向けた総合情報サイト。ニュースだけでなく，詳細な解説／コラムやネットの双方向性を活用したコンテンツを提供</description>
 		<item>
-			<title>いま、一番読まれている記事は：「いつでもどこでも」のメリット、提案相手も本当にうれしいか（林浩一の“謳って踊れる”エンジニア）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/032900108/012600012/?n11</link>
-			<description><![CDATA[　提案書作成の研修で、参加者から時々受ける質問の一つが「提案書を見て通るかどうか分かるものですか？」というもの。筆者の答えは、勝てるかどうかは断言できないが、負けるかどうかは確実に分かる、である。]]></description>
-			<pubDate>Fri, 09 Feb 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>メディア運営から事業領域拡大、KDDIの技術力で新たなスポーツ体験創出（メディアビジネス最前線）</title>
-			<link>http://itpro.nikkeibp.co.jp/atcl/column/14/379554/090500034/</link>
-			<description><![CDATA[　朝日新聞社が朝日放送テレビと共同で展開する「バーチャル高校野球」のライブ中継（地方大会と全国大会）がスポーツメディア「SPORTS BULL（スポーツブル）」で2018年7月4日から8月21日にかけて実施された。地方大会では709試合を、全国大会については全55試合を視聴できるようにした。]]></description>
-			<pubDate>Tue, 18 Sep 2018 05:00:00 +0900</pubDate>
+			<title>昨日、一番読まれた記事は：まずWindowsが遅くなった原因を突き止める（超スッキリWindows設定術）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/column/17/121400580/121800001/?d11</link>
+			<description><![CDATA[　Windowsを長期間利用し続けていると、購入時よりも動作が遅くなりがちだ。もしストレスを感じるほど遅くなったら、まずはその原因を追及する必要がある。原因が分かれば対策もでき、パソコンが本来持っていた速さを取り戻せるかもしれない。]]></description>
+			<pubDate>Tue, 09 Jan 2018 05:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>米セントルイス大、Alexaデバイスを学生寮の全室に導入（前）（米セントルイス大、Alexaデバイスを学生寮の全室に導入）</title>
@@ -1183,6 +1177,50 @@ ML.NET 0.5の新機能
 </div>
 ]]></description>
 			<pubDate>Wed, 10 Oct 2018 11:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Inboxを終了するGoogle、またもや熱心なユーザーを冷遇（後）（Inboxを終了するGoogle、またもや熱心なユーザーを冷遇）</title>
+			<link>http://itpro.nikkeibp.co.jp/atcl/idg/17/092800175/092800002/</link>
+			<description><![CDATA[<div>
+<p class="bplead">　人工知能に関しては圧倒的な技術力と優位性を誇る米Googleだが、驚くほど知恵のない動きを見せることがある。Googleが打つ手は、目前に迫った勝利を自ら捨てるような愚だ。それもこれも、熱心なユーザーが持つ価値に無頓着な同社の文化に原因がある。</p>
+
+<p>（<a href="https://tech.nikkeibp.co.jp/atcl/idg/17/092800175/092800001/" target="_blank">前回</a>から続く）</p>
+
+<div>
+<div><img src="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092800175/092800002/top.jpg" width="320" alt="" title=""></div>
+
+<div>Credit：Google</div>
+</div>
+
+<p>　悲しいかな、Mailboxは望みのない憐れな存在だった。Mailboxの致命的な弱点は、それ自体がメールサービスではなかったことだ。他社が運営するメールサービスのフロントエンドに過ぎなかった。</p>
+
+<p>　Googleをはじめ、メールサービスを自ら運営している企業は、Mailboxのユーザーインタフェースの魅力的な要素を遠慮なく拝借した。こうしたUI要素はごく普通になり、結果としてMailboxは価値がなくなった。</p>
+
+<p>　Mailboxを開発したスタートアップは、アプリ登場から1カ月後に米Dropboxが買収した。だがDropboxは、2015年12月にMailboxの提供終了を発表した。</p>
+
+<p>　Googleに話を戻すと、Gmail本体も、マテリアルデザインによる模様替えが施され、Inboxで人気を得ていたスマートリプライなどの機能も次第に取り入れられていった。しかし、Inboxのすべての機能を備えているわけではない。</p>
+
+<p>　例えば、リマインダーの統合、モバイルアプリでのスワイプによるメール管理、カテゴリによるグループ分け、メールのピン留めなどの機能に関しては、GmailはまだInboxに肩を並べていない。また、愛用者に言わせれば、InboxのUIの方が「クリーン」だ。</p>
+
+<p>　重要なのは、InboxとGmailでは、全体的な使用感や、体で覚えるべき操作性が、依然として大きく異なることだ。</p>
+
+<div>
+<p class="nextPagePreview">&gt;&gt;次ページ　<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092800175/092800002/?ST=cm-software&P=2">Inboxの終了が間違いである理由</a></p>
+<div>
+<p class="pages">
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092800175/092800002/?ST=cm-software&P=1" class="now">1</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092800175/092800002/?ST=cm-software&P=2">2</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092800175/092800002/?ST=cm-software&P=3">3</a>
+<a href="https://tech.nikkeibp.co.jp/it/atcl/idg/17/092800175/092800002/?ST=cm-software&P=2" class="tonext">&gt;&gt;</a>
+</p>
+<!-- /.pages -->
+</div>
+<!-- /#pager -->
+</div>
+<div></div>
+</div>
+]]></description>
+			<pubDate>Thu, 11 Oct 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
