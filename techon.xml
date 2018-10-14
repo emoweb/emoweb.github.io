@@ -5,24 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>21年契約更新への布石か、NFL試合配信「解放策」の深謀</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/column/15/052000044/092000073/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Tue, 09 Oct 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>電子回路の基本、押さえられていますか？ 正答率5割のレベル1問題</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/lecture/15/359175/00066/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　基本レベルなのに正答率が高くない問題は、自分の理解度を測る上で役立ちます。「E検定 ～電気・電子系技術検定試験～」で出題される問題例を紹介する本連載の問89では、バイポーラトランジスタを用いた定電流回路に関する基本的な問題を紹介します。レベル1の問題ですが、これまでの正答率は52.8％にとどまっています。</p><p><b>【分野】</b>電子回路</p><p><b>【レベル】</b>基本的な用語と概念の理解（レベル1）</p><p><b>【正答率】</b>52.8％</p><hr><p><b>【問89】</b><br>図の定電流回路において、最も出力電流I<sub>OUT</sub>が大きくなる組み合わせはどれか。なお、条件は以下とする。</p><ul><li>ここでのパラレル接続とは、コレクタ、ベース、エミッタに別トランジスタ一個を並列に接続することをいう。</li><li>トランジスタの特性は全て等しい。</li><li>h<sub>fe</sub>は無限大とする。</li><li>V<sub>OUT</sub>電圧はh<sub>fe</sub>が変化しない領域である。</li><li>アーリー効果は無視できる。</li></ul><div><div class="bpimage_center" style="width:294px;"><div><img src="https://tech.nikkeibp.co.jp/dm/atcl/lecture/15/359175/00066/sk01.jpg?__scale=w:294,h:272&amp;_sh=0190780750" width="294" height="272" alt=""></div></div></div><ul><li><b>ア</b>　Q<sub>1</sub>、Q<sub>2</sub>ともパラレル接続しない。</li><li><b>イ</b>　Q<sub>1</sub>にパラレル接続する。</li><li><b>ウ</b>　Q<sub>2</sub>にパラレル接続する。</li><li><b>エ</b>　Q<sub>1</sub>、Q<sub>2</sub>ともにパラレル接続する。</li></ul></div><li><a href="https://tech.nikkeibp.co.jp/dm/atcl/lecture/15/359175/00066/?P=2">次へ</a></li>]]></description>
-			<pubDate>Tue, 09 Oct 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>4社のパネルを設置したハイブリッド発電所の4年間</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/302960/100500166/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><h4>太陽光50MW、風力6MWのハイブリッド</h4><p>　愛知県の渥美半島は年間を通じて風が強く、5月には「田原凧まつり」が開かれ、子どもの成長を願う「初凧」や互いの凧を落とし合う「けんか凧」で盛り上がる。田原市は半島のほぼ全域を占め、風況の良さから湾岸部には国内最大級のウィンドファームを形成している。「たはら・ソーラーウインド発電所」もその一角を占めている。</p><p>　2014年10月1日、三井化学など7社が建設したもので、風力発電所に加え、メガソーラー（大規模太陽光発電所）を併設し、１つの連系点で送電している点が大きな特徴になっている。太陽光と風力によるハイブリッド型発電所としては、国内最大規模になる（<b>図1</b>）。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/302960/100500166/?SS=imgview&amp;FD=2638409" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/302960/100500166/zu1.jpg?__scale=w:500,h:338&amp;_sh=05206d03e0" width="500" height="338" alt=""></a></div><div>図1●「たはら・ソーラーウインド発電所」（左から3基が同発電所の風車）</div><div>（出所：三井化学）</div><div>[画像のクリックで拡大表示]</div></div></div><p>　メガソーラーは、太陽光パネルの出力50MW、パワーコンディショナー（PCS）の定格出力35MW、風力発電設備は1基2MWの大型風車を3基（総出力6MW）設置している。年間の発電量は太陽光と風力を合わせて、約6万7500MWhを見込んでいる。この発電量は、田原市内の約9割に当たる1万9000世帯の使用電力に相当する。稼働後、4年経ち、発電量は予想を上振れしており、順調に推移している。</p><p>　同発電所の開発を主導した三井化学は、太陽光パネルと太陽光発電所全体の診断・評価サービスで、国内でトップクラスの実績を持っている。これまでに約500件のメガソーラーの診断などを受注し、その累計容量は約2.5GWに達しているという。国内での実績を生かしてインド市場にも布石を打つなど、海外展開にも乗り出している。</p><p>　三井化学が太陽光パネルの診断事業に乗り出した背景には、パネルに使われる樹脂材料に詳しかったことがある。同社は、約30年前からパネル用の封止材を販売してきた。EVA（エチレン酢酸ビニル共重合樹脂）と呼ばれるフィルムで、カバーガラスとセル（発電素子）の間に充填して密封性を維持するなど、太陽光パネルの品質維持に重要な役割を担っている。</p><p>　太陽光パネルというと、シリコン製のセルが心臓部というイメージがあるが、長期的な耐久性や劣化速度を決めるのは、無機材料ではなく有機材料であるEVAが大きく影響している。三井化学はEVAの開発・生産企業として、その特性などを熟知している。</p><p>　こうしたパネルの知識をベースに、発電所全体の評価にも乗り出し、北海道から九州まで10カ所以上のサイトをモニタリングすることで、発電量の予測手法を蓄積してきた。「いまでは、事前の予測値と実測値との差は、年間ベースで±1％以内に収まるまで精度が上がってきた」と、同社・次世代事業開発室の塩田剛史エネルギーソリューション リーダは言う。</p></div><li><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/302960/100500166/?P=2">次へ</a></li>]]></description>
-			<pubDate>Tue, 09 Oct 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>血液や尿から簡単な操作でがん診断マーカーを検知</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/100811565/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　血液や尿から、がんの診断マーカーであるマイクロRNAを簡便に検知する——。こうした技術を、神奈川県立産業技術総合研究所 研究員の藤井聡志氏と東京大学 生産技術研究所 教授の竹内昌治氏らの共同研究グループが共同で開発した。</p><p>　RNA検知の操作は、血液や尿などの体液サンプルを98度で2分間加熱処理した後、反応液と混合し、磁石が装着された検査チップに滴下するだけだという。専門技術を必要としないため、自宅や小規模なかかりつけ医院などでのがん検知が可能になるとしている。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/100811565/?SS=imgview_ndh&amp;FD=-1099032330" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/100811565/n1.jpg?__scale=w:500,h:325&amp;_sh=0d60440780" width="500" height="325" alt=""></a></div><div>検査チップの拡大写真</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　反応液中では、次のような過程を経て体液中の標的マイクロRNAの有無を検知する仕組みだという。すなわち、（1）標的のマイクロRNAがDNAに捕捉、（2）酵素反応によってアルファ・ヘモリシン（電気信号発生因子）が遊離、（3）アルファ・ヘモリシンはチップ中に形成された脂質二重膜に小孔を開け、電気信号を発信する、である。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/100811565/?SS=imgview_ndh&amp;FD=-1098108809" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/100811565/n2.jpg?__scale=w:500,h:159&amp;_sh=0490760d50" width="500" height="159" alt=""></a></div><div>マイクロRNAの検知機構</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　今回の技術では、100万種のマイクロRNAの混合物の中から標的配列のマイクロRNAを特異的に検知することが可能で、ヒトの血液および尿中に混合した標的配列のマイクロRNAを検知することに成功したという。研究成果は2018年8月9日（米国東部時間）、アメリカ化学会 Analytical Chemistry誌に掲載された。共同研究グループは今後、技術改良を重ね、さまざまながんの診断手法を提案して実用性を向上させていくとしている。</p></div>]]></description>
@@ -249,6 +231,18 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/101511585/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><div class="bpbox_right" style="width:200px;"><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/101511585/?SS=imgview&amp;FD=-293172733" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/101511585/1015toyota1.jpg?__scale=w:200,h:150&amp;_sh=040af07e0f" width="200" height="150" alt=""></a></div><div>豊田自動織機高浜工場</div><div>（出所：豊田自動織機）</div><div>[画像のクリックで拡大表示]</div></div><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/101511585/?SS=imgview&amp;FD=-818797316" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/101511585/1013toshiba_01.jpg?__scale=w:200,h:111&amp;_sh=0460380230" width="200" height="111" alt=""></a></div><div>水素充填設備の完成予想図</div><div>（出所：豊田自動織機、東芝エネルギーシステムズ）</div><div>[画像のクリックで拡大表示]</div></div></div><p>　豊田自動織機は、同社の高浜工場において、同工場内で稼働する燃料電池フォークリフト（FCフォークリフト）向けに水素を製造・圧縮・充填する再エネ水素充填所を設置する。東芝エネルギーシステムズが施工を担当する。10月5日に発表した。</p><p>　東芝エネルギーシステムズは、2017年7月に東芝府中事業所（東京都府中市）内に、燃料電池車に太陽光由来のCO<sub>2</sub>フリー水素を供給する事業所向け「H2One」の営業活動拠点「水素エネルギー利活用センター」を開設し、工場、物流拠点、空港向けに営業活動を展開してきた。</p><p>　今回の高浜工場への導入では、既設の太陽光発電システム（三菱電機製、出力190kW）から電力を供給し、CO2フリー水素を製造する。同社の水素事業への取り組みや、モニター画面を通じて水素の製造量や貯蔵量などをリアルタイムで確認できる利便性などが評価されたという。事業所向けシステムとしては初めての受注になる。なお、環境省の「二酸化炭素排出抑制対策事業費等補助金」を活用した。</p><p>　また、高浜工場ではFCフォークリフトが6台稼働しており、2018年度内には12台に拡大する計画。優れた環境性能に加えて、約3分で燃料充填が完了するなどの高い利便性が特徴。豊田自動織機では、2016年11月からFCフォークリフトの販売を開始し、これまでに全国の工場や空港などで約80台の導入実績がある。</p></div>]]></description>
 			<pubDate>Mon, 15 Oct 2018 00:27:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>故障率の意味、理解していますか？</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/lecture/15/359175/00067/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　半導体のように高度な電子部品を扱うには、信頼性に関する理解が欠かせません。「E検定 ～電気・電子系技術検定試験～」で出題される問題例を紹介する本連載の問90では、信頼性設計の分野からLSI（大規模集積回路）の「故障率」を求める問題を取り上げます。これまでの正答率は79.2％。約8割の電気・電子技術者が理解している故障率ですが、あなたは正しく理解できていますか？ この問題でチェックしてみましょう。</p><p><b>【分野】</b>信頼性設計</p><p><b>【レベル】</b>概念の応用能力（レベル2）</p><p><b>【正答率】</b>79.2％</p><hr><p><b>【問90】</b><br>10000個のLSIが稼動している状態から2000時間後に稼動しているLSIを調べると9850個であった。この時の故障率は何[%/h]か。</p><ul><li><b>ア</b>　0.04925</li><li><b>イ</b>　0.00354</li><li><b>ウ</b>　0.00075</li><li><b>エ</b>　0.00001</li></ul></div><li><a href="https://tech.nikkeibp.co.jp/dm/atcl/lecture/15/359175/00067/?P=2">次へ</a></li>]]></description>
+			<pubDate>Mon, 15 Oct 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>鍵はスポーツの「活用」　求む、価値をお金に変える人材</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/070800035/101000074/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Mon, 15 Oct 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
