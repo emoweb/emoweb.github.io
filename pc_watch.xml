@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】富士通、Secure Login Box FMSE-C501/C5A1 アップデートファイル</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1147989.html</link>
-			<description><![CDATA[<div><div><p>　富士通は、Secure Login Box FMSE-C501/C5A1 アップデートファイルを公開した。</p></div></div>]]></description>
-			<pubDate>Mon, 15 Oct 2018 19:50:19 +0900</pubDate>
-		</item>
-		<item>
-			<title>【ニュース・フラッシュ】エプソン、EP-804A/EP-804AR/EP-804AW ファームウエアアップデーター</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1147987.html</link>
-			<description><![CDATA[<div><div><p>　エプソンは、EP-804A/EP-804AR/EP-804AWのファームウエアアップデーターを公開した。</p></div></div>]]></description>
-			<pubDate>Mon, 15 Oct 2018 19:52:13 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】リコー、RICOH PJ/IPSiO PJシリーズ用 プロジェクター管理ユーティリティ Ver.1.0.0014ほか</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1147990.html</link>
 			<description><![CDATA[<div><div><p>　リコーは、RICOH PJ/IPSiO PJシリーズ用 プロジェクター管理ユーティリティ Ver.1.0.0014ほかを公開した。</p></div></div>]]></description>
@@ -123,6 +111,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1148143.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1148/143/01_o.jpg"></div></div></div></div></div></div><p>　サンワサプライ株式会社は、薄型の2個口電源タップ「TAP-MU1シリーズ」を直販サイトのサンワダイレクトにて販売開始した。直販価格は3,680円。カラーバリエーションとして、ブラック、レッド、ホワイトの3色を用意する。</p><p>　厚さ18mm、重量150gで、電源プラグやコードを本体に収納できるなど持ち運びに好適な仕様。モバイル機器や出張の多いユーザーに向くという。</p><p>　本機上部と側面にコンセントを2基搭載するほか、充電用のUSBポートを2口備え、それぞれを同時に使用可能。</p><p>　本体サイズは、135×60×18mm(幅×奥行き×高さ)。コード長は約46cm。AC定格容量は1,400W。USB出力はDC 5V/2A(2ポート合計)。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1148/143/02_o.jpg"></div></div><span class="caption">ブラック</span></div></div></div></div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1148/143/03_o.jpg"></div></div><span class="caption">ホワイト</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Tue, 16 Oct 2018 15:53:03 +0900</pubDate>
+		</item>
+		<item>
+			<title>【イベントレポート】PFU、網掛けや罫線がある文書もOCRできる技術をデモ</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/event/1148152.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1148/152/01_o.jpg"></div></div></div></div></div></div><p>　16日～19日の間、幕張メッセで開催されている「CEATEC JAPAN 2018」。<a href="https://www.pfu.fujitsu.com/" class="n" target="_blank">株式会社PFU</a>のブースでは、先日発売された「ScanSnap iX1500」が展示されていた。</p><p>　タッチパネルの搭載やPCのソフトウェア面での改善が図られたものになっている。展示ブースでは専用の給紙ガイドを利用してさまざまなサイズの書類の同時にセットしてスキャンしたり、タッチパネルを利用して簡単にスキャンしたりと、実機を使いながらその利便性をアピールしていた。</p><p>　「ScanSnap iX1500」の詳細については<a href="https://pc.watch.impress.co.jp/docs/topic/review/1146511.html" class="n" target="_blank">レビュー記事</a>が掲載されているのでそちらも参考にしてほしい。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1148/152/02_o.jpg"></div></div></div></div></div></div><p>　また、同ブースではこのほかに興味深い参考出展として、業務用スキャナ向けOCRの技術デモが行なわれていた。</p><p>　1つは、網掛けや罫線などの装飾に重なってしまった文字を「二値化技術」によって認識可能にするというもの。デモではOCRする上で障害となる装飾の要素を除去し、文字を抽出している様子を見ることができた。</p><p>　なお、このデモで表示されている処理後の画像はデモ用に特別に表示しているもので、実際の製品ではソフトウェア上に表示はされない。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1148/152/03_o.jpg"></div></div><span class="caption">処理前(画面左)と処理後(画面右)。青文字の部分が処理の前後で正しく抽出できている</span></div></div></div></div><p>もう1つは、形式の違う取引帳票のOCRを行なう技術デモ。発行元によってレイアウトが異なる取引帳票をスキャンした場合でも、レイアウトごとにそれぞれの定義を用意することなくOCRが可能。項目に間違いがあった場合でもその都度修正していくことでソフトウエアが学習し、以降は正しくデータを抽出できるという。修正作業も対象個所をマウスで選択して正しい情報を入力すれば完了でシンプルになっている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1148/152/04_o.jpg"></div></div><span class="caption">注文書を認識している画面。レイアウトが違う注文書も同様に、注文番号や取引先など右側に抽出されていた</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Tue, 16 Oct 2018 16:39:39 +0900</pubDate>
+		</item>
+		<item>
+			<title>デル、49型で世界初の5,120×1,440ドット対応曲面液晶 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1148141.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1148/141/U4919_01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.dell.com/ja-jp" class="n" target="_blank">デル株式会社</a>は、デュアルQHD解像度の49型曲面液晶ディスプレイ「U4919DW」を10月26日に発売する。税別直販価格は154,980円</p><p>　U4919DWは曲面液晶ディスプレイでは世界初という5,120×1,440ドット(画面比32:9)の画面領域と、3800Rの曲率半径を備えた製品。27型QHDディスプレイ2台分に相当する解像度によって、金融業やトレーダー、クリエイター、エンジニア、プログラマーなどの仕事に最適としている。</p><p>　画面の広さだけでなく、業務効率化のために異なるPCの画面を同時に表示させるピクチャインピクチャとピクチャバイピクチャに対応するほか、2台のPCで1つのキーボード/マウスを切り替えて共有可能にするKVM機能も備えている。</p><p>　映像入力端子にはDisplayPort、HDMIに加え、USB Type-C(DisplayPort Alt Mode、Power Delivery対応)があり、同ケーブルで接続したノートPCの画面表示と最大90Wの電力供給が可能。ディスプレイユーティリティのDell Display Managerを使うことで、ディスプレイの接続を解除してしまっても、再接続時にアプリごとのウィンドウ配置を復元することができる。さらに、瞬時に表示アプリをタイルに表示させるといった機能も提供。</p><p>　液晶はIPSパネル式で、輝度350cd/平方m、コントラスト比1,000:1、色域はsRGB 99%、色深度10億7,000万色、色補正精度ΔE&lt;2を確保。視野角は上下/左右178度、応答速度は通常時8ms、高速モード時5ms(中間色)となる。</p><p>　インターフェイスはHDMI 2.0×2、DisplayPort 1.4、USB Type-C(DisplayPort Alt Mode、Power Delivery対応)、USB 3.0 Hub×5。台座は-5～21度のチルト、±170度のピボット、90mmの昇降に対応する。</p><p>　本体サイズは1215.1×252.6×458.6～548.6mm(幅×奥行き×高さ)、重量は17.2kg。100×100mmのVESAマウントを実装。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1148/141/U4919_02_o.jpg"></div></div></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1148/141/U4919_03_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1148/141/U4919_04_o.jpg"></div></div></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1148/141/U4919_05_o.jpg"></div></div></div></div></div></div><p>　デルはこのほかに新製品として、54.6型4K(3,840×2,160ドット)液晶ディスプレイの「C5519Q」を10月17日に発売。税別直販価格は135,980円。小規模から中規模までのミーティングに最適としている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1148/141/C5519Q_01_o.jpg"></div></div><span class="caption">C5519Q</span></div></div></div></div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1148/141/C5519Q_02_o.jpg"></div></div></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1148/141/C5519Q_03_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Tue, 16 Oct 2018 16:42:46 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
