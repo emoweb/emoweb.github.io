@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>徘徊時の位置情報と在宅時の身体異常を同一センサーで検知</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/event/15/101000171/101100003/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><p>　福祉機器を手掛けるテクノスジャパンは、「第45回 国際福祉機器展H.C.R.2018」（2018年10月10～12日、東京ビッグサイト）に「徘徊ナビGP」を参考出展した。徘徊時の位置情報や居宅内における身体異常を検知するシステムである。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/101000171/101100003/?SS=imgview_ndh&amp;FD=2108027228" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/101000171/101100003/GP.jpg?__scale=w:500,h:531&amp;_sh=0a10680b50" width="500" height="531" alt=""></a></div><div>GPSタグ（左）とナビ・マーカー（右）を組み合わせて使う</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　徘徊ナビGPは、対象者の足首に装着する「GPSタグ」と居宅に設置してGPSタグの信号を受信する「ナビ・マーカー」を使用する。対象者が屋外に出た場合は、GPSタグの位置情報を家族に知らせる仕組みだ。これまでの製品のように離床や外出を検知するだけでなく、「徘徊した後の追跡も行えることが特徴」と同社 経営統括グループ 営業企画室の村上直人氏は話す。</p><p>　GPS機能を搭載した端末は、電力を消費しやすいため、こまめな充電が必要になることが課題だった。そこで、今回の製品はGPSタグの情報がナビ・マーカーで検知できる在宅時にはGPS機能をオフにすることで、1度の充電で1カ月使用できるようにした。これによって高齢者がこまめに充電する手間を省くことができる。</p><p>　GPSタグには3次元加速度センサーが搭載されており、在宅時にはGPS機能ではなく加速後センサーで対象者の見守りを行う。居宅内で一定時間対象者の動きが観測されない場合、身体に異常があったとみなし、「身体異常アラーム」を家族に報知する仕組みだ。</p></div>]]></description>
-			<pubDate>Thu, 11 Oct 2018 19:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>東大卒ｅスポーツプロが考える業界発展に必要なコト</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/070800035/100100072/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -237,6 +231,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/101611597/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><div class="bpbox_right" style="width:200px;"><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/101611597/?SS=imgview&amp;FD=1187296050" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/101611597/1016ooita1.jpg?__scale=w:200,h:78&amp;_sh=0a404c0b20" width="200" height="78" alt=""></a></div><div>「大分県宇佐市1号・2号太陽光発電所」</div><div>（出所：日本再生可能エネルギーインフラ投資法人）</div><div>[画像のクリックで拡大表示]</div></div><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/101611597/?SS=imgview&amp;FD=-1689906947" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/101611597/1016hinode1.jpg?__scale=w:200,h:100&amp;_sh=06e0bf0750" width="200" height="100" alt=""></a></div><div>「CS日出町発電所」</div><div>（出所：カナディアン・ソーラー・インフラ投資法人）</div><div>[画像のクリックで拡大表示]</div></div></div><p>　日本再生可能エネルギーインフラ投資法人とカナディアン・ソーラー・インフラ投資法人は10月15日、九州電力が10月13日と14日に実施した太陽光に対する出力制御（出力抑制）に伴う運用資産への影響を発表した。</p><p>　日本再生可能エネルギーインフラ投資法人は、同社の所有する「大分県宇佐市2号太陽光発電所」が出力制御の対象となり（1号は対象外）、10月14日8時51分から16時10分まで稼働を停止した。同発電所は、発電事業者である日本再生可能エネルギーオペレーター合同会社に賃貸して基本賃料と変動賃料を得る賃貸スキームを採用しており、出力制御によって売電収入額が得られない場合でも基本賃料は減少しない。</p><p>　また、2018年7月期の決算短期にて公表した2019年1月期の運用状況（分配金）予想は、基本賃料と確定済みの変動賃料（2018年8月分）に基づき算出しているため、今回の出力制御は分配金予想に影響しないとしている。</p><p>　一方、カナディアン・ソーラー・インフラ投資法人は、九州に9つの太陽光発電所を所有し、いずれも「旧ルール（30日ルール）」が適用されているという。今回の出力制御では「CS日出町発電所」（出力2.4MW）が出力制御の対象となった。出力制御の指示に基づき10月14日9時から16時まで同発電所のすべてのパワーコンディショナー（PCS）を停止した。</p><p>　同発電所の今期の予想発電量に対する遺失発電量の比率は0.51％、今期の予想賃料収入に対する遺失賃料収入の比率は0.15％、遺失変動賃料は想定約8万3000円となり、出力制御が運用に与える影響は軽微と判断している。</p><p>　なお、九州電力の発表によると、10月13日の出力制御必要量は43万kWで全再エネ接続量に対する比率は7％、10月14日は同71万kW・12％だった。出力制御は、すべての旧ルール事業者が30日に達するまでは、旧ルール事業者と指定ルール事業者が平等になるように指令を出していく。出力制御の適切性や公正性に関しては、事後的に電力広域的運営推進機関が検証し、その結果が公表される予定。</p></div>]]></description>
 			<pubDate>Wed, 17 Oct 2018 08:05:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>なぜ出光・昭和シェルに株式市場は失望したか</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/031400070/101700080/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Wed, 17 Oct 2018 15:30:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>デジタルヘルスDAYS開幕、シアター企画に人だかり</title>
