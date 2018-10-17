@@ -5,19 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Twitterで謎の通知が多発、原因はアプリ内部向け通信の可視化バグ
-</title>
-			<link>https://japanese.engadget.com/2018/10/16/twitter/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2018-10%2F30308a70-d170-11e8-bfbe-b24996896aa4&client=a1acac3e1b3290917d92&signature=56334d3db75c73335a73be1225f01cec6f68aa60" />
-
-10月17日未明ごろ、Twitterアプリが謎の英数字の羅列を通知してくる不気味な現象の報告が多数ありました。
-
-一時はTwitter の CEO Jack Dorsey も「把握はしている。対処中」「直ったはず。なぜ発生したのか究明中」と原因不明でしたが、後のTwitter公式サポートによると、正体は「Twitterのサーバとモバイルアプリがバックグラウンドで通信する際に使われる、通常は表示されないプッシュ通知が、何らかのバグで表示されてしまったもの」とのこと。
- 
- ]]></description>
-			<pubDate>Tue, 16 Oct 2018 15:03:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    ファーウェイMate 20 Proの逆充電機能は未発表のワイヤレスイヤホン用？
 </title>
 			<link>https://japanese.engadget.com/2018/10/16/mate-20-pro/</link>
@@ -605,6 +592,31 @@ Wi-Fi側は802.11 a/b/g/n/ac（2.4/5GHz）に対応。同時接続台数は17台
 WPSを使い、現在利用中のWiFiルーターからSSIDやパスワードなどの設定を引き継げる「WiFi設定お引越し機能」に対応するほか、スマートフォンやタブレットからは、専用アプリ「Huawei HiLink」でQRコードを読み取るだけで、接続設定が完了するとのことです。
  ]]></description>
 			<pubDate>Wed, 17 Oct 2018 04:50:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    実質1万円台でテザリングも！47gの世界最薄カードケータイ「KY-01L」速報インプレッション
+</title>
+			<link>https://japanese.engadget.com/2018/10/17/1-47g-ky-01l/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2018-10%2F40f46620-d1d8-11e8-9ff7-d2873f8d66ef&client=a1acac3e1b3290917d92&signature=5eba74d8eac60e5dd2e7bc78ee83ea96ef5e64b2" />
+ドコモは、10月17日ベルサール渋谷ファーストにて「2018-2019冬春 新商品発表会」を開催、カード型ケータイ「KY-01L」を発表しました。実質負担額は1万368円で、11月下旬に発売予定です。この記事では、発表会で大きく注目を集めたKY-01Lの速報インプレッションを会場からお届けします。
+
+▲底面を横から。マイクとMicroUSB端子、ストラップ穴があります。手に持つと本当に薄くて軽かったです。
+
+KY-01Lは厚さ約5.3mm、重さ約47gのカードサイズに必要最小限の機能を凝縮した4Gケータイです。約2.8インチの電子ペーパーディスプレイを採用し、バッテリー容量わずか380mAhにもかかわらず連続待ち受け時間約100時間、連続通話時間約110分を実現しました。
+
+
+OSはオープンソースを利用した独自OSで、ドコモが製品を企画し、製造と保守は京セラが担当します。通信はLETに対応しており受信時最大速度は100Mbps、送信時最大速は37.5Mbpsで、テザリングも可能です。SIMはnanoSIMでSIMロック解除も可能。
+
+
+
+機能はメインメニューにある電話、連絡先、SMSメッセージ、カレンダー、時計、電卓、ウェブブラウザー、メモ、設定の9つのみという尖った仕様。ウェブブラウザーでは文字や画像データの確認は可能ですが、動画や音声の表示再生には対応していません。電子ペーパーディスプレイなので仕方ないものの、スマホなどと比べてコンテンツ表示やスクロールはスムーズではありません。とっさに天気予報などを確認するといったシーンで利用するのがいいでしょう。
+
+
+文字入力はフリック操作。ディスプレイが小さいので、慎重に押さないとすぐ誤入力してしまいました。入力すると本体から鳴るビープ音もレトロゲームのような味わいで非常にここちいいです。
+
+カメラなどの機能を削りまくったKY-01Lは、メインにハイスペックなスマホを常用しているガジェット好きがサブ機として購入して自慢したい一品。荷物を極力抑えたいスポーツやアウトドアシーンでも活躍しそうです。テザリングもできるので、超コンパクトWiFiルーターみたいな運用もアリかもしれません。惜しいのはカラバリがブラックのみというところ。お手頃かつコンパクトでかわいい端末だけに、カラフルなラインナップを揃えたら、もっと注目されそうな気もしますね。
+ ]]></description>
+			<pubDate>Wed, 17 Oct 2018 05:50:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
