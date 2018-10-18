@@ -5,30 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>故障率の意味、理解していますか？</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/lecture/15/359175/00067/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　半導体のように高度な電子部品を扱うには、信頼性に関する理解が欠かせません。「E検定 ～電気・電子系技術検定試験～」で出題される問題例を紹介する本連載の問90では、信頼性設計の分野からLSI（大規模集積回路）の「故障率」を求める問題を取り上げます。これまでの正答率は79.2％。約8割の電気・電子技術者が理解している故障率ですが、あなたは正しく理解できていますか？ この問題でチェックしてみましょう。</p><p><b>【分野】</b>信頼性設計</p><p><b>【レベル】</b>概念の応用能力（レベル2）</p><p><b>【正答率】</b>79.2％</p><hr><p><b>【問90】</b><br>10000個のLSIが稼動している状態から2000時間後に稼動しているLSIを調べると9850個であった。この時の故障率は何[%/h]か。</p><ul><li><b>ア</b>　0.04925</li><li><b>イ</b>　0.00354</li><li><b>ウ</b>　0.00075</li><li><b>エ</b>　0.00001</li></ul></div><li><a href="https://tech.nikkeibp.co.jp/dm/atcl/lecture/15/359175/00067/?P=2">次へ</a></li>]]></description>
-			<pubDate>Mon, 15 Oct 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>鍵はスポーツの「活用」　求む、価値をお金に変える人材</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/070800035/101000074/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Mon, 15 Oct 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>BabyTech</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/word/15/327920/101100069/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><p>　妊娠から乳幼児の育児までの期間に役立つテクノロジーのこと。小学校の低学年までの子育てを対象にする場合もある。テクノロジーで育児を効率化して、心身ともにゆとりある子育て環境を実現する。</p><div class="bpimage_right" style="width:250px;"><div><img src="https://tech.nikkeibp.co.jp/dm/atcl/word/15/327920/101100069/1012n2.jpg" width="240" alt="" title=""></div></div><p>　この概念は、米国で普及が進んできた。米国では4人に1人が産後2週間で職場に復帰するといい、母親ではない第三者が世話をすることが多い。ベビーシッターなどを活用して効率的な子育てを実践してきたため、テクノロジーの活用もすんなり受け入れられたようだ。</p><p>（1）育児の記録を自動で行うものや、（2）乳幼児の異常を知らせるもの、（3）子育てに関する情報収集を手助けするものなど、さまざまな種類のBabyTechが提案されている。（1）の例としては、哺乳瓶にデバイスを設置して、乳幼児が飲んだミルクの量や時間をスマートフォンのアプリで記録する「BlueSmart mia」がある。（2）としてはセンサーを赤ちゃんの脇に設置して、体温が一定以上を超えるとスマホにアラームが届く「Temp Traq」がある。</p><p>　子育ての環境は大きく変化している。核家族化が進み、地域社会とのつながりも薄れている。1人で子育てする「ワンオペ育児」の問題などもあり、子育て世代の負担は増えている。BabyTechを利用すれば、子育てにかかわる課題の解決に役立つ可能性がある。</p><p>　日本では手間をかけて育てることが大切とされ、テクノロジーの活用に否定的な声もある。その状況を改善しようと、子育て用アプリなどを手掛ける国内ベンチャー５社がITで子育ての効率化を目指す共同組織「子育Tech（こそだてっく）委員会」を2018年10月に立ち上げた<a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/100200568/?ST=health" target="_blank">（関連記事）</a>。子育て世代への認知度を高めるとともに、その親の世代の意識も変えて、日本でもBabyTechの普及を目指す。</p></div>]]></description>
-			<pubDate>Mon, 15 Oct 2018 08:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ショッピングモールに「介護」ののれんを掲げたワケ</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/interview/15/101100127/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><p>　JR姫路駅から徒歩10分弱のところにある「イオンタウン姫路」。その一角に、ドイツ風のカフェをコンセプトにしたおしゃれな佇まいのテナントがある。</p><p>　実はここは、短時間型のデイサービスを提供するスタジオだ。通所介護を行う場所だと思わずに、通りかかった人がカフェと間違えて中に入ってくることも一度や二度ではない。</p><p>　この事業を仕掛けているのは、ポポ・ケセラセラ。同社の取締役を務める佐々木麻希氏は、2人の祖父が認知症を患ったことをきっかけに介護に関心を持ち、コピーライターから介護業界に転職した経歴を持つ。</p><p>　多くの地域住民が集まるショッピングモールにのれんを掲げた理由とは。同氏に聞いた。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/101100127/?SS=imgview_ndh&amp;FD=1420927604" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/101100127/01.jpg?__scale=w:500,h:500&amp;_sh=01c04f0a90" width="500" height="500" alt=""></a></div><div>ポポ・ケセラセラ 取締役の佐々木麻希氏（写真：今紀之、以下同）</div><div>クリックすると拡大した画像が開きます</div></div></div><p style="text-align:right;">（聞き手は伊藤瑳恵＝日経デジタルヘルス）<br></p></div>]]></description>
-			<pubDate>Mon, 15 Oct 2018 10:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>大和物流、小牧市に大型物流施設、屋根上にメガソーラー設置</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/101511586/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><div class="bpbox_right" style="width:200px;"><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/101511586/?SS=imgview&amp;FD=1264515318" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/101511586/1013daiwabutsuryu_01.jpeg?__scale=w:200,h:96&amp;_sh=0b00a001a0" width="200" height="96" alt=""></a></div><div>小牧長治物流センターA棟（仮称）</div><div>（出所：大和物流）</div><div>[画像のクリックで拡大表示]</div></div><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/101511586/?SS=imgview&amp;FD=1293144469" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/101511586/1013daiwabutsuryu_02.jpeg?__scale=w:200,h:94&amp;_sh=09406c0ef0" width="200" height="94" alt=""></a></div><div>小牧長治物流センターB棟（仮称）</div><div>（出所：大和物流）</div><div>[画像のクリックで拡大表示]</div></div></div><p>　大和ハウスグループの大和物流（大阪市）は、愛知県小牧市に同社最大規模の大型物流施設「小牧長治プロジェクト」を建設すると発表した。</p><p>　「小牧長治物流センターA棟（仮称）」と「同B棟（仮称）」の2棟構成で、総床面積は3万7000m<sup>2</sup>を超える。A棟は7月1日、B棟は10月1日に着工した。</p><p>　屋上には両棟合計で太陽光パネル約3400枚、合計出力1024kWの太陽光発電システムを設置する。太陽光パネルはA棟・B棟とも共通で中国のジンコソーラージャパン製、パワーコンディショナー（PCS）はA棟が東芝三菱電機産業システム（TMEIC）製、B棟が中国のHUAWEI（ファーウェイ）製を採用する。固定価格買取制度（FIT）による売電単価は未確定。このほかにも省エネ設備として、LED照明を全館に導入する。</p><p>　東名高速道路「小牧インターチェンジ」および「春日井インターチェンジ」から約4.5kmに位置する。また、東名高速道路・名神高速道路・中央自動車道が交わる交通の要所「小牧JCT」に近く、中京圏のほか関東圏、関西圏へのアクセスにも優れる。</p><p>　A棟は、重量物や長尺物が多い建材貨物の保管・取り扱いに適した低床式ホーム構造を採用する。一部にドックレベラーを設置し、コンテナ貨物の取り扱いも可能。一部を物流不動産として賃貸し、残りを自社運営する。鉄骨造地上4階建て（倉庫3階建て）で延床面積は2万2618.14m<sup>2</sup>。竣工は2019年5月末、稼働開始は2019年6月の予定。</p><p>　B棟は、冷凍・冷蔵設備を備える。横浜低温流通に全棟を賃貸する予定。鉄骨造地上4階建て（倉庫3階建て）で延床面積は1万4482.68m<sup>2</sup>。竣工は2019年9月末、稼働開始は2019年10月の予定。</p></div>]]></description>
@@ -249,6 +225,24 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/column/15/052000044/100500074/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Fri, 19 Oct 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本HPとシャープ、医療IT向けソリューションを紹介</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/event/15/101000173/101800008/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　日本HPとシャープマーケティングジャパンは共同で「デジタルヘルスDAYS 2018」（主催：日経BP社、協力：日経デジタルヘルス）において、医療・介護のICT化に向けたソリューショを紹介した。日本HPのサーバーをシャープマーケティングジャパンが調達して医療ITシステムベンダーに提供するとともに、保守も手掛けている。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/101000173/101800008/?SS=imgview_ndh&amp;FD=-2100893353" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/101000173/101800008/1017pn01.JPG?__scale=w:500,h:263&amp;_sh=08408106a0" width="500" height="263" alt=""></a></div><div>医療・介護のICT化に向けた日本HPの製品</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　シャープマーケティングジャパンの藤野岳也氏は、デジタルヘルスシアターに登壇して医療ITシステムの状況について説明した。データの共有や連携が重視される時代になりクラウド化が急速に進展している。それに伴いハードウエアの多機能化や小型化が求められるようになっているという。</p><p>　こうした変化に対応できるように、日本HPではディスプレーの背面に設置が可能な小型のワークステーションを製品化した。シャープマーケティングジャパンは、ハードウエアだけでなくアプリケーションまで含めた保守の体制を整えている。</p><p></p></div>]]></description>
+			<pubDate>Fri, 19 Oct 2018 07:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>遺伝子分析で商品をレコメンド、ゼノプランジャパン</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/event/15/101000173/101800007/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　ゼノプランジャパンは、「デジタルヘルスDAYS 2018」（主催：日経BP社、協力：日経デジタルヘルス）で企業向け遺伝子分析サービスを紹介した。顧客企業の商品やサービスに合わせて、遺伝子分析の内容をカスタマイズするのが特徴。サプリメントの企業であれば、ダイエット関連の遺伝子を分析して最適な商品のレコメンドにつなげる。</p><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/101000173/101800007/?SS=imgview_ndh&amp;FD=-1167429644" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/101000173/101800007/1017sn01.JPG?__scale=w:500,h:263&amp;_sh=040510e906" width="500" height="263" alt=""></a></div><div>全自動分析システムを活用する</div><div>クリックすると拡大した画像が開きます</div><p>　米国に本社を置き、韓国を中心に事業を展開する米Genoplan社の日本法人として2015年に設立された。唾液から遺伝子を分析して、腹部肥満や筋力、身長など168種類の検査を実施してきた。同社PRマネージャーの牧山学氏は「日本には韓国以上に大きな市場がある」とした。</p><p>　海外の事例では、保険会社に疾病可能性遺伝子分析、化粧品会社にスキンケア遺伝子分析などを提供している。「遺伝子分析の結果を元にリコメンドした商品の購買意欲は非常に高くなる」（牧山氏）という。遺伝子分析の内容をカスタマイズするだけでなく、検査キットのデザインも各社ごとに変えられる。</p><p></p></div>]]></description>
+			<pubDate>Fri, 19 Oct 2018 07:15:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>生涯健康銀行サービスを提供へ、ヘルスグリッド</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/event/15/101000173/101800006/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div id="kiji"><p>　ヘルスグリッドは「デジタルヘルスDAYS 2018」（主催：日経BP社、協力：日経デジタルヘルス）において、心と体の健康状態を生涯に渡って維持・改善するためのサービス「生涯健康銀行」を紹介した。「健康は資産である」として、資産を扱う銀行のように健康状態を管理することを目指す。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/101000173/101800006/?SS=imgview_ndh&amp;FD=1136493151" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/event/15/101000173/101800006/1017hn01.JPG?__scale=w:500,h:263&amp;_sh=02e0ff02e0" width="500" height="263" alt=""></a></div><div>健康状態の管理、分析、形成、運用でサービスを構成する</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　2017年4月から台湾のスマート健康都市づくりのプロジェクトに参加しており、現在18万人の健康データを管理しているという。この知見を生かして、日本向けに生涯健康銀行サービスを開発している。サービス開始は2019年を想定する。</p><p>　健康状態の「管理」と「分析」「形成」「運用」でサービスを構成する。このうち分析では、少ない項目で体の状態を高精度に推計するアルゴリズムを開発した。活動量や血液などの600を超える生体データの相関関係を調べて実現したという。相関関係から「メタボスコア」や「ボディスコア」「ロコモスコア」とった健康に関する評価をスコアとして導き出す。</p><p></p></div>]]></description>
+			<pubDate>Fri, 19 Oct 2018 07:20:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
