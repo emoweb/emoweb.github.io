@@ -524,5 +524,35 @@ Google Chromeの開発者であるFran&ccedil;ois Beaufort氏は、来年8月に
  ]]></description>
 			<pubDate>Sat, 20 Oct 2018 16:30:00 -0400</pubDate>
 		</item>
+		<item>
+			<title>    OPPO Find Xでも3DMarkのスコアブースト発覚。ULがランキングから削除
+</title>
+			<link>https://japanese.engadget.com/2018/10/20/oppo-find-x-3dmark-ul/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2018-10%2Fa4085ba0-d36c-11e8-bf76-ef2edbb1c831&client=a1acac3e1b3290917d92&signature=bb658f08812e14b0506e7dde9b8f4d52626dc9d1" />
+先月初め、HUAWEIがベンチマークアプリ3DMarkで、いわゆるベンチマークブーストを実施しているのが発覚。3DMark開発元のULがランキングからP20 Proなどを削除していましたが、今度はOPPOでも同様のブーストが見つかり、Find X、F7がランキングから削除されました。
+
+ 
+関連記事：
+3DMark公式ランキングからP20など一部HUAWEI端末が削除。ベンチマークでのブースト発覚
+
+発端は先のHUAWEIの問題。この問題が見つかったあと、海外テック系サイトのTECH2が広範囲な端末でベンチマークテストを行ったところ、OPPOの端末に疑わしい結果が出たとのこと。
+
+これを受け、ULがHUAWEIの際と同様にGoogle Playで公開している3DMarkアプリと、3DMarkの名前がない（ファイル名やアプリケーションIDなどを変更した）非公開アプリとで比較したところ、公開バージョンでは最大41%も高いスコアを示す結果となりました。
+
+
+
+この件についてOPPOは、3Dゲームやベンチマークなど、高性能な処理を必要としていることを検出した場合には、SoCを最高速度で動作させる設定になっていると弁明。具体的には、未知のアプリケーションを動作させる際には速度を70～80%に制限し、ユーザーが画面を頻繁に触るなどしている場合には、その制限を解除するとしています。
+
+ただし、画面をタップし続けると制限を受けずに最高速度で動作するはずなのに、3DMarkではその影響を受けなかったとのこと。また、公開バージョンと非公開バージョンで差が生じていることから、アプリ名称によって動作に差をつけていることは明らかです。
+
+この指摘を受け、OPPOではアプローチの改善をULに約束したとされています。
+
+ちなみにULの規定では、アプリの処理内容によって最適化を行うことを禁止しているわけではありません。今回の件も、アプリ名称ではなく、ベンチマークを行っていることを検出したうえで制限を解除していたのならば問題ありませんでした。
+
+ 
+ 
+ ]]></description>
+			<pubDate>Sat, 20 Oct 2018 18:20:00 -0400</pubDate>
+		</item>
 	</channel>
 </rss>
