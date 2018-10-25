@@ -5,47 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    普通のメガネ風スマートグラス「Focals」発表。指輪で操作、Alexaとも連携
-</title>
-			<link>https://japanese.engadget.com/2018/10/24/focals-alexa/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2018-10%2F0ef95460-d740-11e8-977e-a2ab4ef63d49&client=a1acac3e1b3290917d92&signature=61164acb8476fc3114eb204c1fd8e5ca10a4b5a4" />
-カナダのスタートアップ企業Northが、普通のメガネのように見えるスマートグラス「Focals」を発表しました。999ドル（約11万3000円）で12月に発売されます。
-
-Northは旧社名Thalmic Labsで、腕に装着し筋電位を計測することで各種操作を可能とする「Myo」を販売していた企業です。
-<p><a href="https://japanese.engadget.com/gallery/north-focals/" title="North Focals">【ギャラリー】North Focals (9枚)</a></p>
-
-そのNorthが開発したFocalsは、一見すると普通のメガネのように見えますが、左右のツルの付け根が太くなっており、右側にはプロジェクターが内蔵されています。このプロジェクターから照射した映像をレンズで反射させ、視界に入れる仕組みです。公式サイトに直接の記述はありませんが、The Vergeなどはインテルが開発していたVauntと同様に網膜投影方式を採用していると説明しています。そういえば、Focalsの形状や仕組みも、やはりVauntに近い印象です。
-
-
-
-
-
- 
-関連記事：
-インテル、スマートグラスVauntを発表。網膜投影方式で見た目は普通のメガネ
-インテル、スマートグラスVauntの開発を中止。開発部門も閉鎖か
-
-表示する情報は、Bluetoothで接続したスマートフォンから取得。Magic LeapやHoloLensのようなARヘッドセットとは違い、時計やスケジュール、天気、メールなど、簡単な情報の表示を行うものです。
-
-常時表示や、長い時間の連続使用は想定しておらず、カフェやバス停などでのちょっとした空き時間に使うことを意図した設計になっているとのことです。
-
-
-
-なお、この手のスマートグラスは、操作のためにツルの部分に触れるものが多いのですが、Focalsでは、Loopと呼ぶ、ジョイスティックとDパッドを備えた指輪型のコントローラを使用します。
-
-頭部で操作が必要だと、会議中や人と話をしているときに操作しづらい問題があり、当然、相手にも操作しているのが分かってしまいます。その点、Loopなら机の下や、ポケットに手を入れたままでも操作が可能です。
-
-
-
-また、Focals本体にマイクとスピーカーを備えており、Alexaと連携も可能です。Loopで操作する代わりに「Alexa、天気を見せて」といった具合に操作ができます。
-
-Focalsの価格は999ドル（約11万3000円）。見え方の調整を含むフィッティングが必要なため、購入にはブルックリンあるいはトロントにあるNorthのショールームに出向く必要があります。Focalsは12月に数量限定で販売開始されるとのことです。
-
- 
- ]]></description>
-			<pubDate>Wed, 24 Oct 2018 03:50:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    浮遊しながら充電する月型ランプ、10月25日からKibidangoでプロジェクト開始
 </title>
 			<link>https://japanese.engadget.com/2018/10/24/10-25-kibidango/</link>
@@ -786,6 +745,17 @@ VTuber支援アプリ「Vカツ」を提供するIVR（株式会社シス）が�
 テスラが開催した2018年第3四半期の決算発表におけるカンファレンスコールにて、イーロン・マスクCEOがクロスオーバー型EV、Model Yについて「プロトタイプの生産開始が承認された」と語りました。
  ]]></description>
 			<pubDate>Thu, 25 Oct 2018 05:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    iOS 12のセキュリティ、ついにパスコード解除ツールを完封? GrayKeyが無効化されたとのうわさ
+</title>
+			<link>https://japanese.engadget.com/2018/10/25/ios-12-graykey/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-10%2F44be71b0-d813-11e8-9fff-ac1e25b315fc&client=a1acac3e1b3290917d92&signature=2a74cf13ad153b5a3f30fddb46ff24feb1f09c09" />
+アップルは昨今、iPhoneやMacにおけるセキュリティの強化を強くアピールしていますが、iOS 12では一定時間ロック解除されていないiPhoneに対してUSB経由でのアクセスを制限するUSB制限モードなど、セキュリティを強化するための新機能が導入されています。
+
+そうした努力は着実に成果を上げているようで、数々の法執行機関に採用された「GrayKey」によるパスコード解読が、iOS 12ではその強固な壁により不可能になったとの噂が報じられています。
+ ]]></description>
+			<pubDate>Thu, 25 Oct 2018 06:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
