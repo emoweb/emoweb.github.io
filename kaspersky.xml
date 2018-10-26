@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>管理権限を手放さずにパブリッククラウドへ移行するには</title>
-			<link>https://blog.kaspersky.co.jp/aws-integration-reinvent/21187/</link>
-			<description><![CDATA[AWSパブリッククラウドでワークロードを保護し、管理する方法をご紹介します。]]></description>
-			<pubDate>Fri, 05 Oct 2018 05:00:30 +0000</pubDate>
-		</item>
-		<item>
 			<title>モバイルマルウェアとその手口：パート3</title>
 			<link>https://blog.kaspersky.co.jp/mobile-malware-part-3/21654/</link>
 			<description><![CDATA[モバイルマルウェアの中には、利用者の銀行口座からお金を盗むものや、スパイ行為を働くものがあります。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/cloud-sandbox/21778/</link>
 			<description><![CDATA[マルウェアの活動を詳細に分析する、Kaspersky Labのクラウドサービスについて。]]></description>
 			<pubDate>Tue, 23 Oct 2018 01:00:06 +0000</pubDate>
+		</item>
+		<item>
+			<title>オンラインでのプライバシーがメンタルヘルスに影響する理由</title>
+			<link>https://blog.kaspersky.co.jp/online-privacy-for-mental-health/21782/</link>
+			<description><![CDATA[オンラインのプライバシーを保護することは、メンタルヘルスに良い影響を与えるかもしれません。オフラインで人と交流する機会が増えることと、煩わしい広告を寄せ付けないことがその理由です。]]></description>
+			<pubDate>Fri, 26 Oct 2018 02:00:28 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
