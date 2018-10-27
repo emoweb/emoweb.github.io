@@ -5,59 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Galaxy Note9の有機ELをざっくりチェック。DisplayMateは最高のディスプレイと評価
-</title>
-			<link>https://japanese.engadget.com/2018/10/25/galaxy-note9-el-displaymate/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-10%2Fe7578d10-d82e-11e8-b9ee-8ec7dc401f48&client=a1acac3e1b3290917d92&signature=accf298ef18232be16d0ff7f10e29bd9fd453067" />10月25日（木）、ドコモとauからGalaxy Note9がいよいよ発売となりました。
-
-Galaxy Note9と言えば、なんといってもBluetooth対応になったSペンが気になるところ。しかし、そこはひとまず置いておいて、先日Xperia XZ3でもチェックした、有機ELのサブピクセルを確認してみました。
-
- 
-関連記事：Xperia初の有機ELモデルXZ3。そのサブピクセル配列は？ ディスプレイを接写して確認
-
-とはいえ、先に結論から言ってしまうと、Xperia XZ3やiPhone X、XSなどと同じ、一般的なダイヤモンドペンタイル配列でした。さすがにこの辺りは、こなれてきた技術といったところなのでしょう。
-
-
-
-有機ELによっては（だけでなく液晶でもですが）、角度を変えると大きく色が変る場合もありますが、Galaxy Note9では特に影響はないようです。
-
-
-
-なお、ペンタイル配列自体は一般的なもので、前モデルとなるGalaxy Note8も同じです。しかし、だからといってディスプレイ自体に進化がないわけではありません。
-
-各種ディスプレイを専門に調査しているDisplayMateによると、Galaxy Note8と比べた場合でも最大輝度が27%、コントラストも32%向上。これまで調査してきた中でも、最も優れたスマートフォンディスプレイだとベタ褒めしています。
-
-▲左：Galaxy Note9、右：Galaxy Note8。Note9のほうが、やや赤みが強く見えます
-
-ところで上記の画面モード、なんとなく色が変るのは知っていましたが、DisplayMateによると下記の違いがあるとのこと。カッコ内はNote9での数値です。
-
-AMOLEDシネマ：DCI-P3の色域に準拠（103%）
-AMOLEDフォト：Adobe RGBの色域に準拠（99%）
-標準：sRGB/Rec.709の色域に準拠（103%）
-
-
-余談：ダイヤモンドペンタイルで1ピクセルのみ点灯すると？
-話は変わりますが、ダイヤモンドペンタイル配列、1ピクセルだけ光らせるとどうなるのか、気になりませんか？ 通常のRGBストライプなら、RGBがそれぞれ1つずつ点灯するはずですが、ダイヤモンドペンタイルはちょっと想像が付きません。
-
-それならばということで、試してみたのが下記です。ピンぼけなのはご容赦を。狙った1ピクセルだけ撮影するのは非常に難しかったです。
-
-それでも、赤のサブピクセルを中心に緑と青が点灯しているのがわかります。
-
-
-
-また、逆に1ピクセルのみ黒くした状態が下記です。赤1つと緑2つが消えていますが、こちらでは青は影響しないようです。1ピクセル点灯させたときに周囲のサブピクセルも光っているのは、アンチエイリアス的な対応でしょうか？
-
-
-
-ちなみに、ダイヤモンドペンタイルでは、下記のように赤2つ、青2つ、緑4つを1ユニットとし、これで2x2ピクセルを表現するようです。
-
-
-
-
- ]]></description>
-			<pubDate>Thu, 25 Oct 2018 21:10:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    フロントカメラが飛び出るJGWフォンはブロックチェーンでセキュアなスマホ
 </title>
 			<link>https://japanese.engadget.com/2018/10/25/jgw/</link>
@@ -612,6 +559,16 @@ Insta360 ONEの後継機種として発売されたInsta360 ONE X。ドリフト
 
  ]]></description>
 			<pubDate>Fri, 26 Oct 2018 20:50:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    新型iPad Pro、Face IDの横置き対応はほぼ確実? iOS 12.1最新ベータから新たな手がかり
+</title>
+			<link>https://japanese.engadget.com/2018/10/26/ipad-pro-face-id-ios-12-1/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-10%2Ffd48eca0-d986-11e8-bfff-4f3917af6fa8&client=a1acac3e1b3290917d92&signature=55516a6d720d951b809b11a3d508af886018380d" />今月30日のスペシャルイベントにて登場すると見られている新型iPad Pro。顔認証のFace IDを搭載し、ポートレート（縦向き）モードおよびランドスケープ（横向き）モードに対応すると噂されていますが、それを裏付ける新たな手がかりが報じられています。
+
+米9to5MacライターでiOS開発者のGuilherme Rambo氏は、開発者向けのiOS 12.1最新ベータ内に発見されたコードの一部をTwitterにて公開しています。そこではFace IDで顔を登録する際、デバイスが横向きの場合は縦向きにする指示と、Face IDが設定された後は横向きでも動作する旨の記述が確認できます。
+ ]]></description>
+			<pubDate>Fri, 26 Oct 2018 22:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
