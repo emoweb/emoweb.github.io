@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>長期未稼働案件の買取価格減額、対応は待ったなし</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/031400074/102200017/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Tue, 23 Oct 2018 18:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>「住宅太陽光の85％が自立運転を活用」、北海道地震の停電時</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/102311615/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><div class="bpbox_right" style="width:200px;"><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/102311615/?SS=imgview&amp;FD=-403080787" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/102311615/1023jiritu1.jpg?__scale=w:200,h:150&amp;_sh=0660640c40" width="200" height="150" alt=""></a></div><div>停電時にはパワコンを自立運転モードに切り換えて使う</div><div>（出所：日経BP）</div><div>[画像のクリックで拡大表示]</div></div></div><p>　太陽光発電協会（JPEA）は10月18日、9月6日に発生した北海道胆振東部地震に伴う大規模停電時における、住宅用太陽光発電システムの自立運転に関する調査結果を発表した。それによると、蓄電システムを併設しない住宅用システムの85％が自立運転機能を利用していたことがわかった。</p><p>　調査件数は、蓄電機能を併設しない住宅用太陽光発電システムが428件で、うち364件（利用率85.0％）が自立運転を利用したと回答した。このほかにも蓄電池・電気自動車（EV）などの蓄電機能を併設した住宅用システムが1134件、住宅以外の太陽光発電システムが9件あり、これらのほとんどは自立運転機能を利用したと推測される。</p><p>　自立運転を利用したユーザーからの声としては「冷蔵庫の中の食材を腐らせずに済んだ」「炊飯器でご飯を炊くことができた」「携帯電話を充電できた。また、近所の方も充電することができた」「ポータブルTVで震災情報をいち早く入手することができた」などがあり、災害時の非常用電源として有効活用できたことがわかった。</p><p>　特に、蓄電機能併設システムのユーザーからは「約2日間問題なく生活できた」「近所が真っ暗な中、自宅のみが電気がついていた」など、普段と同じ生活ができたとの声が寄せられたという。</p><p>　一方、自立運転を活用しなかった理由としては、13件が「自立運転機能があることを知らなかった」、33件が「運転方法がわからなかった」と回答し、使用方法が分からなかったユーザーが多かった。この結果を受けて、JPEAでは、Webサイト上に各太陽光発電システムメーカーの自立運転機能に関する情報へのリンクを掲載した。</p></div>]]></description>
@@ -243,6 +237,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/031400072/102700015/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Sun, 28 Oct 2018 13:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>これは常識？正答率98.1％の半導体に関する問題</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/lecture/15/359175/00070/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　用語と概念の理解は、仕事を進める上で基本中の基本となるものです。「E検定 ～電気・電子系技術検定試験～」では、基本的な用語と概念の理解を問う問題をレベル1と位置付けています。E検定に出題される問題例を紹介する本連載の問93では、半導体分野からIC（集積回路）の製造工程に関する問題を取り上げます。これまでの正答率は98.1％。これはもう常識といえるかもしれません。正しく理解できているかどうか、ここで確認してみましょう。</p><p><b>【分野】</b>半導体</p><p><b>【レベル】</b>基本的な用語と概念の理解（レベル1）</p><p><b>【正答率】</b>98.1％</p><hr><p><b>【問93】</b><br>図のように、ウエハの状態から切り取られたチップの電極（パッド）とリードフレームを、アルミや金で結線することを何と呼ぶか。</p><div><div class="bpimage_center" style="width:359px;"><div><img src="https://tech.nikkeibp.co.jp/dm/atcl/lecture/15/359175/00070/zu01.jpg?__scale=w:359,h:135&amp;_sh=06f0c402c0" width="359" height="135" alt=""></div></div></div><ul><li><b>ア</b>　ダイシング</li><li><b>イ</b>　パッケージング</li><li><b>ウ</b>　シーリング</li><li><b>エ</b>　ワイヤボンディング</li></ul></div><li><a href="https://tech.nikkeibp.co.jp/dm/atcl/lecture/15/359175/00070/?P=2">次へ</a></li>]]></description>
+			<pubDate>Mon, 29 Oct 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
