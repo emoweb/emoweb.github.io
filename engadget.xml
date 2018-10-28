@@ -5,16 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    新型iPad Pro、Face IDの横置き対応はほぼ確実? iOS 12.1最新ベータから新たな手がかり
-</title>
-			<link>https://japanese.engadget.com/2018/10/26/ipad-pro-face-id-ios-12-1/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-10%2Ffd48eca0-d986-11e8-bfff-4f3917af6fa8&client=a1acac3e1b3290917d92&signature=55516a6d720d951b809b11a3d508af886018380d" />今月30日のスペシャルイベントにて登場すると見られている新型iPad Pro。顔認証のFace IDを搭載し、ポートレート（縦向き）モードおよびランドスケープ（横向き）モードに対応すると噂されていますが、それを裏付ける新たな手がかりが報じられています。
-
-米9to5MacライターでiOS開発者のGuilherme Rambo氏は、開発者向けのiOS 12.1最新ベータ内に発見されたコードの一部をTwitterにて公開しています。そこではFace IDで顔を登録する際、デバイスが横向きの場合は縦向きにする指示と、Face IDが設定された後は横向きでも動作する旨の記述が確認できます。
- ]]></description>
-			<pubDate>Fri, 26 Oct 2018 22:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    iPhoneのデュアルSIMモデルがやっぱり欲しいので、中国/香港版 iPhone XRを買った
 </title>
 			<link>https://japanese.engadget.com/2018/10/26/iphone-sim-iphone-xr/</link>
@@ -452,6 +442,28 @@ Haskellにとって、Shuttleの重要性は地球に住む人間に、共有し
 
  ]]></description>
 			<pubDate>Sun, 28 Oct 2018 05:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    5G対応Xperiaも登場か──クアルコムが2019年の展望語る
+</title>
+			<link>https://japanese.engadget.com/2018/10/28/5g-2/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2018-10/4f4c2e80-da7d-11e8-bce7-788c11d3a3dd" />
+
+米クアルコムのCristiano Amon社長は香港で開催された4G/5Gサミットにて、「5G対応フラッグシップ端末の波が、2019年前半とホリデーシーズンの少なくとも2回あるだろう」との展望を語りました。
+
+5G対応スマートフォンとしては、中国シャオミが「Mi Mix 3」の5Gモデルを、そして米モトローラも周辺機器「5G moto mod」を発表（どちらも製品投入は2019年）しています。さらに中国OPPOやVivoも5G対応端末のテストを実施しており、5Gはまさに開始前夜といった盛り上がりをみせています。
+
+
+
+上の資料は、クアルコムが製造する5G対応モデム「Snapdragon X50 5G」を採用するベンダーの一覧です。韓国LGや台湾ASUS、HTC、それにXperiaを開発する日本のソニー、シャープ、富士通の名前も確認できます。
+
+一方このリストには掲載されていませんが、中国ファーウェイは5G対応の折りたたみスマートフォンを2019年にリリースすると表明しています。一方韓国サムスンは、独自モデムチップによる2019年中の5G対応を実現するようです。
+
+さらにイベントにて、クアルコムは新型ミリ波アンテナモジュール「QTM052」を発表しています。ミリ波は5Gで利用される30GHzを超える高周波数帯で、さらに新モジュールは今年7月に発表されたアンテナモジュールから25%の小型化を実現。より容易に5G対応スマートフォンが設計できるはずです。
+
+世界では早い場所では2019年にスタートする5Gサービスの提供。それにあわせ、クアルコムとデバイスメーカーは協力して製品投入を急いでいるのです。
+ ]]></description>
+			<pubDate>Sun, 28 Oct 2018 06:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
