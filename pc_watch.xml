@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】ジャングル、『openCanvas 7』（7.0.18）アップデータ</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1150697.html</link>
-			<description><![CDATA[<div><div><p>　ジャングルは、『openCanvas 7』（7.0.18）アップデータを公開した。</p></div></div>]]></description>
-			<pubDate>Tue, 30 Oct 2018 20:03:38 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】パナソニック、CF-AX3シリーズ　BIOS アップデートプログラム ほか</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1150699.html</link>
 			<description><![CDATA[<div><div><p>　パナソニックは、CF-AX3シリーズ　BIOS アップデートプログラムほかを公開した。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1150810.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1150/810/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.iodata.jp/" class="n" target="_blank">株式会社アイ・オー・データ機器</a>は、同社製USB HDDの健康状態を診断し、クラウドと連携することで故障を予知するアプリ「診断ミレル」を無償で提供開始した。</p><p>　対応OSはWindows 7/8.1/10。対象のHDDは以下のとおり。</p><p>・HDCL-UTシリーズ<br>・HDCL-UTBシリーズ<br>・HDCL-UTCシリーズ<br>・HDCL-UTEシリーズ<br>・HDCZ-UTシリーズ<br>・HDCZ-UTCシリーズ<br>・HDPC-UTシリーズ<br>・HDPC-UTCシリーズ<br>・HDPC-UTEシリーズ<br>・HDPC-UTNSシリーズ<br>・HDPC-UTDシリーズ<br>・HDPC-UTYシリーズ<br>・HDPT-UTシリーズ</p><p>　HDDを接続し、同アプリを起動すれば診断がスタート。OS情報や個体識別情報をクラウド上にアップロードして蓄積し、その診断結果をアプリで表示。状況によって「正常」、「注意」、「危険」、「不明」の4つのいずれかを通知する。なお、このアルゴリズム自体は非公開としている。</p><p>　HDDを4台まで診断可能なほか、これまでTVなどにつないで録画していたHDDも診断できるのが特徴。注意や危険レベルの製品は、データのバックアップや録画のムーブ(東芝レグザが対応)を推奨する。</p></div></div>]]></description>
 			<pubDate>Wed, 31 Oct 2018 12:54:34 +0900</pubDate>
+		</item>
+		<item>
+			<title>マカフィー、OS動作の軽量化機能を搭載するアンチウイルスソフト </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1150839.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1150/839/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.mcafee.com/ja-jp/index.html" class="n" target="_blank">マカフィー株式会社</a>は、「マカフィー リブセーフ」など個人向けセキュリティ製品を11月29日より発売する。マカフィー リブセーフ台数無制限1年版の価格は8,980円。</p><p>　「マカフィー リブセーフ(McAfee LiveSafe)」では、マカフィー セーフファミリー機能を新たに搭載。クロスデバイス環境で保護者機能を提供するほか、「マカフィー アンチウイルス(McAfee AntiVirus)」、「マカフィー インターネットセキュリティ(McAfee Internet Security)」を含む製品ラインナップ全体で、動作を改善するアプリブースト/Webブースト機能を搭載する。</p><p>　具体的には、マルウェア分析を「McAfee Global Threat Intelligence(GTI)クラウド」で行なうことで、頻繁に使うアプリケーションにより多くのリソースを自動的に割り当てる「マカフィー アプリブースト(Windows 10に対応)」、自動再生による不要なダウンロードやシステム動作を防止し、帯域幅やリソースの消費を抑える「マカフィー ウェブブースト(同)」と組み合わせることで、PC全体で最適なスピードの実現を謳う。</p><p>　モバイル向けの保護機能強化としては、Android版でアンチウイルスエンジン内に機械学習機能を追加し、より効率的なスキャンとマルウェア検出の高速化を実現。iOS版ではUIを刷新し、分かりやすさと使いやすさを向上させたとする。</p><p>　製品の価格は以下のとおり。</p><div><table class="table-data p80 hcenter acenter-all"><tbody><tr class="y1 odd"><th class="y1 y1x1 x1">製品</th><th class="y1 y1x2 x2">価格</th><th class="y1 y1x3 x3 td_end">提供方法</th></tr><tr class="y2 even"><td class="y2 y2x1 x1">マカフィー リブセーフ(台数無制限 3年版)</td><td class="y2 y2x2 x2">16,480円</td><td class="y2 y2x3 x3 td_end" rowspan="5">ダウンロード</td></tr><tr class="y3 odd"><td class="y3 y3x1 x1">マカフィー リブセーフ(台数無制限 1年版)</td><td class="y3 y3x2 x2">8,980円</td></tr><tr class="y4 even"><td class="y4 y4x1 x1">マカフィー インターネット セキュリティ(台数無制限 3年版)</td><td class="y4 y4x2 x2">12,137円</td></tr><tr class="y5 odd"><td class="y5 y5x1 x1">マカフィー インターネット セキュリティ(台数無制限 1年版)</td><td class="y5 y5x2 x2">7,180円</td></tr><tr class="y6 even"><td class="y6 y6x1 x1">マカフィー アンチウイルス(PC 1台 1年版)</td><td class="y6 y6x2 x2">2,916円</td></tr><tr class="y7 tr_end odd"><td class="y7 y7x1 x1">マカフィー リブセーフ(台数無制限 3カ月版)</td><td class="y7 y7x2 x2">1,008円</td><td class="y7 y7x3 x3 td_end">POSAカード(店頭販売のみ)</td></tr></tbody></table></div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1150/839/WebBoost.png"></div></div><span class="caption">ウェブブースト</span></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1150/839/Home.png"></div></div><span class="caption">マカフィー セーフファミリー</span></div></div></div></div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1150/839/Block.png"></div></div><span class="caption">モバイル版のアプリ管理</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Wed, 31 Oct 2018 14:24:50 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
