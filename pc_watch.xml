@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】オリエント、セキュアブートにも対応したデータ消去ソフト</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1151314.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1151/314/1_o.png"></div></div></div></div></div></div><p>　<a href="http://www.orient-computer.co.jp/" class="n" target="_blank">オリエントコンピュータ株式会社</a>は、HDD/SSD完全消去ソフト「Perfect Easy Eraser 7 Pro版」を発売した。</p><p>　UEFIのセキュアブートを自動で判別し、HDDおよびSSDの内容を完全に消去できるソフト。これまでセキュアブートが有効なPCでは、一旦無効に設定する必要があったが、本ソフトはその手間を省けるという。</p><p>　このほか、企業のデータ管理状態に合わせ、ネット経由の遠隔消去、時限消去なども行なえる。</p></div></div>]]></description>
-			<pubDate>Fri, 02 Nov 2018 13:48:23 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】ドスパラ、通販サイトで有人チャットサポートサービスを開始</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1151317.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1151/317/1_o.jpg"></div></div></div></div></div></div><p>　株式会社サードウェーブは、<a href="https://www.dospara.co.jp/" class="n" target="_blank">ドスパラ</a>の通販サイトで有人チャットサポートサービスを開始した。</p><p>　これまで“AIスタッフ”の「ミナミちゃん」が、購入相談限定の有人チャットサービスを展開していたが、今回の有人チャットサービスは購入後のPC不調といった相談にも対応可能。</p><p>　サービス受付時間は11時～18時。</p></div></div>]]></description>
@@ -105,6 +99,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1151589.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1151/589/00.jpg"></div></div><span class="caption">NVDIMM</span></div></div></div></div><p>　<a href="https://jp.micron.com/" class="n" target="_blank">マイクロンジャパン株式会社</a>は、Crucialブランドよりサーバー向けの32GB NVDIMM(Non-Volatile Dual-Inline Memory Module)の発売を発表した。</p><p>　NVDIMMでは、DRAMとNANDフラッシュを1つのモジュールに搭載し、システムからの電源供給が絶たれた場合でも、予備電源である「AgigA Tech PowerGEM」ウルトラコンデンサから電力を供給し、メモリ内のデータをNANDフラッシュへバックアップできる。</p><p>　32GBモデルでは、最大2,933MT/sの速度を実現し、JEDEC標準のインターフェイスを採用。ミッションクリティカルなサーバー用途を想定し、コンポーネントとモジュールを徹底的に試験しているとする。</p><p>　PowerGEMウルトラコンデンサは、HHHLのPCleおよび2.5インチドライブの2サイズを用意。最大4台までのNVDIMMへの電力提供に対応する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1151/589/01.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1151/589/02.jpg"></div></div></div></div></div></div></div></div>]]></description>
 			<pubDate>Mon, 05 Nov 2018 13:11:22 +0900</pubDate>
+		</item>
+		<item>
+			<title>Hyper-Threading有効時にスレッド上の情報が盗まれる「PortSmash」 ～Intel製品のほかRyzenにも影響か</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1151619.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1151/619/00.png"></div></div></div></div></div></div><p>　11月2日、Intelの「Hyper-Threading」テクノロジーなど、物理コア上で複数の実行スレッドを同時実行する「SMT(Simultaneous Multi-Threading)」について、サイドチャネル攻撃が可能となる脆弱性「PortSmash (CVE-2018-5407)」が公開された。</p><p>　PortSmashは、実行エンジンがSMTアーキテクチャ上で共有されることを利用し、プロセスが別のプロセスの情報を読み取ることができるというもの。これによって、アプリケーションの秘密データが漏洩する可能性があるという。</p><p>　攻撃を行なうためには、悪意のあるプロセスが攻撃対象と同じ物理的なコアで実行されている必要がある。</p><p>　フィンランド タンペレ工科大学のBilly Brumley氏のEメールによれば、PortSmashを利用することで、研究チームがOpenSSL(1.1.0h以下)の楕円曲線暗号の秘密鍵をTLSサーバーから窃取できることを確認。同氏のGithubにて、概念実証コード(PoC)も<a href="https://github.com/bbbrumley/portsmash" class="n" target="_blank">公開</a>されている。</p><p>　論文は現時点では未公開となっているが、<a href="https://arstechnica.com/information-technology/2018/11/intel-cpus-fall-to-new-hyperthreading-exploit-that-pilfers-crypto-keys/" class="n" target="_blank">Ars Technica</a>誌によれば、論文では同一の物理コアを使用する複数命令が、処理を待つためにポートに割り当てられるさいに起きる“ポートの競合”を利用し、単一の論理コアに一定の命令ストリームを送り、それらの「命令の実行にかかる時間」を測定することで、そこから秘密鍵を推測できると解説されているという。</p><p>　公開されているPoCでは、SkylakeおよびKaby Lakeプロセッサにおいて、Hyper-Threadingが有効化されている場合にOpenSSLから秘密鍵を盗み出すことが可能となっているが、Brumley氏はArs Technica誌に対し、「機材がないため未検証ではあるが、AMDのRyzenなどそのほかのアーキテクチャも同様にPortSmashに対して脆弱であると考えている」と説明している。</p><p>　IntelはArs Technica誌に対し、「このPortSmashの脆弱性は投機的実行に依存しないため、SpectreやMeltdown、L1 Terminal Faultなどの脆弱性とは無関係なものであり、Intel製品に限定されたものでもないと考えている」と述べ、「顧客やパートナー、研究者と協力し、脆弱性の理解と軽減に努める」と回答。AMDも、<a href="https://www.theregister.co.uk/2018/11/02/portsmash_intel_security_attack/" class="n" target="_blank">The Register</a>誌に対し「受け取ったPortSmashのレポートを調査し、潜在的なAMD製品への影響を検証している」と回答している。</p></div></div>]]></description>
+			<pubDate>Mon, 05 Nov 2018 15:09:56 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
