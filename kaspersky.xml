@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Kaspersky Lab、Windowsのゼロデイ脆弱性を発見</title>
-			<link>https://blog.kaspersky.co.jp/vulnerability-in-windows-patched/21772/</link>
-			<description><![CDATA[Kaspersky Labのテクノロジーにより、Microsoft Windowsの脆弱性が検知されました。]]></description>
-			<pubDate>Mon, 15 Oct 2018 04:00:18 +0000</pubDate>
-		</item>
-		<item>
 			<title>対特許トロール戦、始まりの終わり</title>
 			<link>https://blog.kaspersky.co.jp/patent-5490216-exorcism/21786/</link>
 			<description><![CDATA[ITのプロフェッショナルを震撼させ、数多のテクノロジー企業に数億ドルを負わせた特許US5490216について。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/ciso-report/21895/</link>
 			<description><![CDATA[Kaspersky Labの情報セキュリティリーダーが、CISO調査の結果について所見を述べました。]]></description>
 			<pubDate>Fri, 02 Nov 2018 01:00:53 +0000</pubDate>
+		</item>
+		<item>
+			<title>モバイルマルウェアとその手口：パート4</title>
+			<link>https://blog.kaspersky.co.jp/mobile-malware-part-4/21850/</link>
+			<description><![CDATA[デバイスを乗っ取るタイプのマルウェアと、多機能型マルウェア感染の危険性について説明します。]]></description>
+			<pubDate>Mon, 05 Nov 2018 01:00:25 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
