@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>英マンチェスター大、脳を模した世界最大の“ニューロモーフィック”スパコンを稼働開始 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1152148.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/148/01.jpg"></div></div><span class="caption">SpiNNakerマシン</span></div></div></div></div><p>　英<a href="https://www.manchester.ac.uk/" class="n" target="_blank">マンチェスター大学</a>は11月2日(現地時間)、世界最大規模となる、脳の構造を模した“ニューロモーフィック”スーパーコンピュータのマシンの稼働開始を発表した。</p><p>　「ニューロモーフィック」とは、動物の脳の働きを模したものを指す。ニューロン(神経細胞)は神経系を構成する細胞で、生物の脳を構成する基本要素となる。</p><p>　このニューロンは、おもに純粋な電気化学的エネルギーである「スパイク」を放出することによって情報を伝達しており、ニューロモーフィックコンピューティングは、電子回路を含む大規模なコンピュータシステムで、スパイクによる情報伝達を機械内で模倣するという仕組み。</p><p>　今回マンチェスター大で稼働したスパコンは、「Spiking Neural Network Architecture (SpiNNaker)」と称する独自プロセッサを100万基搭載。同プロセッサは、1基あたり1億個のトランジスタを備え、秒間2億回の処理が可能となっている。</p><p>　同大学によれば、地球上でもっとも大規模にニューロンをリアルタイムにモデル化できるマシンであるという。</p><p>　構築開始は2006年で、資金として1,500ポンド(約22億円)を調達。構想から20年が経過した2018年11月にようやく稼働開始に至るという、大規模なプロジェクトとなる。</p><p>　SpiNNakerでは、標準のネットワークを介して、A点からB点へ大量の情報を送信する従来のコンピュータと異なり、脳の大規模な並列通信アーキテクチャを模倣し、数千の小さな情報を、数千の異なる目的地に同時に送信するという。</p><p>　ネズミの脳のニューロン数は約1億個で、人間の脳は1,000億個ものニューロンを備える。人の脳の約1,000億個のニューロンは、約1,000兆個のシナプスを介して高度かつ相互に接続されているため、極めて複雑な構造となっている。</p><p>　同プロジェクトでは最終的に、人の脳の1%の規模に相当するニューロン(10億個)をリアルタイムでモデル化することを目指している。</p><p>　すでに同大学では、感覚からの情報を受け取って処理する、脳皮質部分の8万ニューロンのシミュレートなど、分離された脳ネットワークの範囲内で、高レベルなリアルタイム処理のシミュレーションにSpiNNakerを活用しているという。</p></div></div>]]></description>
-			<pubDate>Wed, 07 Nov 2018 18:11:54 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】リコー、Media Management Tool Updater Ver.2.05</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1152156.html</link>
 			<description><![CDATA[<div><div><p>　<a href="http://www.ricoh.co.jp/" class="n" target="_blank">リコー</a>は、Media Management Tool Updater Ver.2.05を公開した。</p></div></div>]]></description>
@@ -93,6 +87,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1152293.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/293/1_o.png"></div></div><span class="caption">設定画面に統合された日本語IME</span></div></div></div></div><p>　<a href="https://www.microsoft.com/en-us/" class="n" target="_blank">米Microsoft</a>は7日(現地時間)、Windows 10 Insider Preview Build 18277(19H1)をインサイダーのFast ring向けに配信開始した。</p><p>　同社は次期の大型アップデートで入力の体験を向上させるとしているが、その一環として新たに日本語IMEが刷新されることとなった。新バージョンでは新デザインを採用するほか、予測候補に索引が付き、すばやく選択可能になった。</p><p>　また、日本語IMEの設定はこれまで独立した画面であったが、設定画面の言語の設定のページに統合されるようになった。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/293/2_o.png"></div></div><span class="caption">予測候補に索引が付いた</span></div></div></div></div><p>　18277ではこのほか、通知をオフにする「集中モード」を強化し、どんなアプリでも画面最大化時に集中モードを自動でオンにできるようになった。また、アクションセンターの直下に画面輝度スライダーが追加され、クイックアクションのカスタマイズにも対応。絵文字の追加、高DPIの強化、Application Guardの強化などが行なわれた。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/293/3_o.png"></div></div><span class="caption">画面輝度スライダーが追加</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/293/4_o.gif"></div></div><span class="caption">クイックアクションのカスタマイズ</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/293/5_o.png"></div></div><span class="caption">絵文字の追加</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Thu, 08 Nov 2018 13:37:33 +0900</pubDate>
+		</item>
+		<item>
+			<title>【やじうまPC Watch】Microsoft、Xbox One版PUBGを週末無料で遊べるイベント</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1152312.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/312/01_o.jpg"></div></div></div></div></div></div><p>　米Microsoftは、対象タイトルを無料で遊べる「Free Play Days For All」イベントの開催を発表した。期間は米国太平洋時間の11月8日～11日の3日間で、対象タイトルはPLAYERUNKNOWN'S BATTLEGROUNDS(PUBG)とPro Evolution Soccer 2019(PES 2019/ウイニングイレブン 2019)の2タイトル。</p><p>　イベント期間中はXbox Live Goldメンバーシップでないプレイヤーでも、PUBGとPES 2019の全編をオンライン対戦も含めて無料で遊ぶことができる。なお、このイベントはXbox Oneのみが対象で、各タイトルの日本語版が配信されるかどうかは不明。</p></div></div>]]></description>
+			<pubDate>Thu, 08 Nov 2018 14:23:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
