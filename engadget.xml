@@ -5,32 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ソフトバンク、ドローンを活用して社会インフラの保全を効率化するサービスを2019年春から提供
-</title>
-			<link>https://japanese.engadget.com/2018/11/07/2019/</link>
-			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2018-11/39dacc40-e258-11e8-beff-5b67bcbdb826" />
-
-ソフトバンクは、産業や生活の基盤として整備された施設（以下、社会インフラ）の老朽化対策として、ドローンによる社会インフラの保全を行う新たなサービスを開発し、2019年春から提供を開始すると発表しました。
-
-橋梁や発電所、送電鉄塔、大型プラントなどの多くは、高度経済成長期に整備された社会インフラで、竣工から50年以上が経過し、老朽化が課題となっています。メンテナンスをする人が不足していることや、人が立ち入れない場所も多く存在しているといった課題もあります。
-
-これらの課題解決に向けて、ソフトバンクは、北米を中心にドローンによる携帯電話基地局点検ソリューションの開発や運営事業を行う5&times;5 Technologies Inc.（ファイブバイファイブテクノロジーズ、以下、5&times;5）に対して、2018年8月に約400万ドルを出資し、5&times;5が持つ技術の日本国内での独占使用権と販売権を取得しました。
-
-具体的には、人が用意に立ち入れない場所をドローンで空撮し、撮影した画像から誤差がわずか数ミリメートルの高精度の3次元（3D）モデルを生成。
-
-その3Dモデルから対象物を計測し、歪みや傾きなどの確認ができる他、対象物の状態を視覚的に確認できるとしています。
-
-上の画像は、写真撮影した画像に高精度な位置情報を画面に付与する様子
-
-
-上の画像は、ドローンで撮影データから高精度3Dモデルを生成し、計測した画像からゆがみや傾きを確認する様子
-
-
-今後、ソフトバンクは、3Dモデルとセンシングデータの解析AI（人工知能）を組み合わせることで、事前に異常を検知したり、を自動で検知し、建造物などの点検業務をさらに効率化するサービスの開発や、高精度な3Dモデルを活用したシミュレーションによる、災害発生時の被害予測や予防保全の実現などを目指すとしています。
- ]]></description>
-			<pubDate>Wed, 07 Nov 2018 02:50:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    新型「iPad Pro」はロッカーや冷蔵庫にくっつきます！
 </title>
 			<link>https://japanese.engadget.com/2018/11/07/ipad-protazawano/</link>
@@ -407,6 +381,17 @@ VAPE/加熱式タバコ友人が、どこか見覚えのあるガジェットで
 ということで、早速、IQOS3の最速実吸レビューと、何故早く届いたかについてをお届けします。
  ]]></description>
 			<pubDate>Thu, 08 Nov 2018 05:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    iPhone上のNetflixを視線で操作する「Eye Nav」、Netflix Hack Dayイベントで披露
+</title>
+			<link>https://japanese.engadget.com/2018/11/08/iphone-netflix-eye-nav-netflix-hack-day/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2Fd2b287d0-e304-11e8-bdcf-705bf4bf983e&client=a1acac3e1b3290917d92&signature=cadfcd03bd43f233c240b79af1ba6673aeed0571" />
+動画ストリーミングサービスのNetflixは、年に1～2回、従業員から新しいアイデアや技術を募るHack Dayを開催しています。過去には宇宙でNetflixが見れるかを試みたり、モールスコードでNettflixを検索したりと、実用性があるのかないのかよくわからないアイデアが形にされてきた、なかなか面白いイベントです。
+
+そのHack Dayが先日も開催され、iPhoneに搭載されている3D顔認識・表情トラッキング機能を使った「Eye Nav」が披露されました。
+ ]]></description>
+			<pubDate>Thu, 08 Nov 2018 05:30:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
