@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】東芝、dynabook KIRA V834、V634、V83/*M、V63/*Mシリーズ向けBIOSアップデート ほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1152402.html</link>
-			<description><![CDATA[<div><div><p>　東芝は、dynabook KIRA V834、V634、V83/*M、V63/*Mシリーズ向けBIOSアップデートほかを公開した。</p></div></div>]]></description>
-			<pubDate>Thu, 08 Nov 2018 18:15:46 +0900</pubDate>
-		</item>
-		<item>
-			<title>【ニュース・フラッシュ】リコー、RICOH Interactive Whiteboard Controller Type1用本体ファームウェアアップデート Ver.2.7.00002.0</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1152401.html</link>
-			<description><![CDATA[<div><div><p>　リコーは、RICOH Interactive Whiteboard Controller Type1用本体ファームウェアアップデート Ver.2.7.00002.0を公開した。</p></div></div>]]></description>
-			<pubDate>Thu, 08 Nov 2018 18:16:06 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】パナソニック、FZ-M1Jシリーズ インテル® RealSense™ 3Dカメラ搭載モデル （Windows 10）用 Common Components for Panasonic PC</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1152400.html</link>
 			<description><![CDATA[<div><div><p>　パナソニックは、FZ-M1Jシリーズ インテル® RealSense™ 3Dカメラ搭載モデル （Windows 10）用 Common Components for Panasonic PCを公開した。</p></div></div>]]></description>
@@ -123,6 +111,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1152175.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/175/01.jpg"></div></div><span class="caption">TA6シリーズ</span></div></div></div></div><p>　<a href="http://www.ad-techno.com/" class="n" target="_blank">株式会社エーディテクノ</a>は、香港advoli製の組み込み型GPU搭載HDBaseTカード「TA6 Performance」、「TA6 Distance」、「TA6 Standard」の3製品を12月下旬より発売する。</p><p>　世界初の組込型GPU搭載HDBaseTグラフィックカードを謳った製品で、ビデオ拡張インタフェース「MXM 3.0/3.1」規格のスロットと、HDBaseT送信機回路を搭載したPCIe x16接続のビデオカード。</p><p>　HDBaseT送信口を6系統搭載し、各送受信機器間をLANケーブルで接続することで、非圧縮映像(HDMI)、音声(HDMI)、リモコン制御(IR)信号を最大150mまで伝送可能。</p><p>　搭載されたAMD製GPUで画像処理を行ない、最大4K/30Hz/4:4:4(10.2Gbps)フォーマットの映像を各ポートより同時出力可能。ドライバはAMD提供の標準Radeonドライバで動作するため、Windowsのミラーリングや拡張表示なども設定できる。</p><p>　双方向でのIRパススルー伝送や、ターミナル経由でRS-232-Cシリアル信号、CECをエミュレートし伝送するエミュレーションコントロール機能、グラフィックカード上のHDBaseT出力ポートから受信機までの信号伝送の確立や伝送距離、状況などをモニタリングする診断機能も備え、伝送問題を解決するツールとしても利用できるとしている。</p><p>　簡易的な長距離伝送と制御が可能であり、デジタルサイネージやビデオウォール、メニューボード、教育施設、医療現場、展示会、各種イベント、ショールームなどあらゆる用途に最適としている。</p><p>　エーディテクノでは、同グラフィックカード搭載済みの業務用組込型カスタムPCも提供する予定。</p><p>　TA6 StandardとDistanceは、GPUに「AMD Embedded E8860 (GCN/2GB GDDR5)」を、TA6 Performanceは「Embedded E9550 (Polaris/8GB GDDR5)」を搭載。</p><p>　最大伝送距離(CAT 7ケーブル利用時)は、TA6 Standardが1080p 60Hzで70m、4K 30Hzで40m、TA6 Distance/Performanceは1080p 60Hz(LRモード)で150m、1080p 60Hzで100m、4K 30Hzで100m。</p><p>　HDBaseT出力数は全モデルとも6ポート。</p><p>　本体サイズはTA6 Standard/Distanceが39×167×106mm(幅×奥行き×高さ)、TA6 Performanceが39×167×120mm(同)。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/175/02.jpg"></div></div><span class="caption">製品特徴</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Fri, 09 Nov 2018 10:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>マウス、4K液晶/顔認証対応の13.3型モバイルノート ～オプションでLTEも搭載可</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1152502.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/502/1_o.jpg"></div></div><span class="caption">m-Book J371シリーズ</span></div></div></div></div><p>　<a href="https://www.mouse-jp.co.jp/" class="n" target="_blank">株式会社マウスコンピューター</a>は、4K液晶搭載の13.3型モバイルノート「m-Book J371」シリーズを発売した。</p><p>　3,840×2,160ドット表示対応の4K液晶を搭載するほか、Windows Hello対応の顔認証カメラを標準搭載するのが特徴。また、オプションでは10.1時間駆動の大容量バッテリや、1,733Mbps対応の無線LANモジュール(Intel Wireless-AC 9260」、SIMロックフリーのLTE通信モジュールなどを選択できるなど、ハイスペックなモバイルノートに仕上げることもできる。</p><p>　一例として「m-Book J371SN-M2S2」は、CPUにCore i7-8550U(1.8GHz、ビデオ機能内蔵)、メモリ8GB、256GB M.2 SSD、4K対応13.3型液晶ディスプレイ、OSにWindows 10 Homeを搭載し、税別価格は129,800円。</p><p>　「m-Book J371XN-M2SH2」は、上記からメモリを16GBに変更し、1TB HDDを追加。税別価格は144,800円。</p><p>　インターフェイスは、UHS-I対応SDカードスロット、USB 3.0×3、ミニD-Sub15ピン、Gigabit Ethernet、HDMI出力、IEEE 802.11ac対応無線LAN(433Mbps)、Bluetooth 4.2+LE、200万画素Webカメラ、音声入出力などを搭載する。</p><p>　バッテリ駆動時間は約6.1時間。本体サイズは324×234×22.5～25mm(幅×奥行き×高さ)、重量は約1.4kg～1.5kg。</p></div></div>]]></description>
+			<pubDate>Fri, 09 Nov 2018 12:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>レーザー&amp;LED使用のDLPプロジェクタが約2万円引き～期間限定でポイントが最大25倍に 【特売! Sponsored by ひかりTVショッピング】</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/hikaritvshop/1151958.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1151/958/PC_o.jpg"></div></div><span class="caption">XJ-F20XN</span></div></div></div></div><p>　<a href="http://www.nttplala.com/" class="n" target="_blank">株式会社NTTぷらら</a>が運営するひかりTVショッピングにて、カシオ製レーザー&amp;LEDプロジェクタ「XJ-F20XN」が、約2万円引きとなる79,800円で販売されている。期限は11月11日まで。</p><p>　水銀フリーで高輝度を実現するレーザーとLEDのハイブリッド光源を採用したDLP方式の製品。明るさは3,300lmで、部屋の明るさに応じて投影機度を自動的に調節する機能を搭載しており、省電力に使用できる。解像度は通常1,024×768ドット、圧縮表示で最大1,920×1,200ドットに対応。コントラスト比は20,000:1。</p><p>　映像入力端子はHDMI×2、ミニD-Sub15ピン、コンポジット、S-VIDEOで、PCへのUSB接続による投映のほか、Network ConnectionアプリをPCにインストールすれば、無線LAN(オプション)またはLANケーブル経由でも投映が行なえる。</p><p>　本体サイズは299×97×299mm(幅×奥行き×高さ)、重量は約3.8kg。付属品としてワイヤレスリモコンなどを同梱する。</p><div><div><div><div><span class="title">ひかりTVショッピングで購入する</span></div></div><div></div><div><div><div><div><a href="https://shop.hikaritv.net/shopping/commodity/plala/5419207514/?sid=impress_pc_201811_02" rel="nofollow"><img src="https://pc.watch.impress.co.jp/img/watch/parts/icon/loading.png" class="resource" style="width:160px;height:90px;" id="PCa_s.jpg" ajax="/img/pcw/docs/1151/958/PCa_s.jpg"></a></div></div><span class="caption"><a href="https://shop.hikaritv.net/shopping/commodity/plala/5419207514/?sid=impress_pc_201811_02">XJ-F20XN</a></span></div></div></div></div><p>　このほか、ひかりTVショッピングでは、11月9日から13日にまでの期間でd払いで買い物すると「<a href="https://shop.hikaritv.net/shopping/static/s_1811_dpsp/data/index.html?sid=impress_pc_201811_02" class="n" target="_blank">dポイントが20倍になるキャンペーン</a>」を実施。さらに、11月9日と10日は買い回りと併用で+5倍されるため、合計25倍が提供される。</p></div></div>]]></description>
+			<pubDate>Fri, 09 Nov 2018 12:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
