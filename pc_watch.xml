@@ -5,24 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】エプソン、PX-M886FL/PX-M886FL1 ファームウェア ほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1152397.html</link>
-			<description><![CDATA[<div><div><p>　エプソンは、PX-M886FL/PX-M886FL1 ファームウェアほかを公開した。</p></div></div>]]></description>
-			<pubDate>Thu, 08 Nov 2018 18:26:13 +0900</pubDate>
-		</item>
-		<item>
-			<title>【ニュース・フラッシュ】キヤノン、imagePROGRAF Printer Driver Extra Kit Ver.2.41ほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1152395.html</link>
-			<description><![CDATA[<div><div><p>　キヤノンは、imagePROGRAF Printer Driver Extra Kit Ver.2.41ほかを公開した。</p></div></div>]]></description>
-			<pubDate>Thu, 08 Nov 2018 18:29:09 +0900</pubDate>
-		</item>
-		<item>
-			<title>GPUの動作を監視してWeb履歴やパスワードを盗み出すサイドチャネル攻撃手法 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1152413.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/413/01.png"></div></div></div></div></div></div><p>　<a href="https://ucr.edu/" class="n" target="_blank">米カリフォルニア大学リバーサイド校</a>は5日(米国時間)、同校の研究者らがNVIDIA GPUへのサイドチャネル攻撃を可能とする手法を発見したことを発表した。</p><p>　同校では、GPUに対する容易なサイドチャネル攻撃として初のものであるとしている。</p><p>　GPUは、ゲームや3Dオブジェクトのレンダリングだけでなく、デスクトップやノートPC、スマートフォンのWebブラウザ上でもグラフィックスのレンダリングに利用されており、クラウドとデータセンター上のアプリを高速化するためにも使われている。</p><p>　通常、GPUはOpenGLなどのAPIを使用してプログラミングされており、OpenGLはデスクトップ上の任意のアプリからアクセス可能で、ユーザーレベルの権限を持つ。デスクトップやノートPCには、デフォルトグラフィックスライブラリとドライバがインストールされているため、グラフィックスAPIを使用することで攻撃を簡単に実装できるとする。</p><p>　今回研究者らは、NVIDIA製GPUをリバースエンジニアリングし、3つの攻撃手法を発見したという。3つともに、GPUの動作を監視することで攻撃を行なっており、対象のPCを監視するよう設計されたマルウェアを利用して攻撃を実現している。</p><p>　1つ目はWeb上のユーザーの活動を追跡するというもの。ユーザーが悪意あるアプリを開くと、OpenGLを使ってスパイプロセスを作成し、GPUを使用するWebブラウザの動作を推測する。</p><p>　オブジェクトの数やレンダリングされているオブジェクトの大きさが異なることにより、あらゆるWebサイトにはGPUのメモリ使用率に関して独自の「指紋」のようなものがある。これは同じWebサイトを複数回読み込んでも一貫性があるため、キャッシュの影響を受けない。</p><p>　研究グループは、GPUのメモリ割り当てをGPUのパフォーマンスカウンタや時間経過とともに監視し、それらを機械学習させることで、Webサイトの“指紋化”を高精度で実現。これによって、すべての割り当てイベントを取得して、ユーザーがWeb上で行なっていることを確認できるという。</p><p>　2つ目の攻撃は、ユーザーパスワードの抽出を行なうもの。ユーザーが文字を入力するたびに、パスワードのテキストボックス全体が、レンダリングされるテクスチャとしてGPUに送信される。</p><p>　この連続したメモリ割り当てイベントの間隔を監視することで、パスワード文字の数や、キーストローク間のタイミングなど、パスワードを推測するのに十分な情報を得られるとする。</p><p>　3つ目の攻撃は、クラウド内のアプリケーションを対象としたもの。対象となるアプリケーション(例ではAI)と一緒に、GPU上で起動する悪意のある計算ワークロードを実行させることで、キャッシュ上の競合の強度とパターン、時間とともに変化するメモリとファンクションユニットなどから、ディープニューラルネットワークの特定のレイヤー内のニューロンの数など、ニューラルネットワークの構造を解析するといったことが可能になるという。</p><p>　研究グループは、すでに本件についてNVIDIAに報告しており、同社はシステム管理者に対して、ユーザーレベルのプロセスからのパフォーマンスカウンタへのアクセスを無効にするオプションを提供するパッチを公開する予定であるという。また、AMDおよびIntelのセキュリティチームとも情報を共有している。</p><p>　今後、研究グループはAndroidスマートフォンでもGPUサイドチャネル攻撃が可能かを検証する予定としている。</p></div></div>]]></description>
-			<pubDate>Thu, 08 Nov 2018 18:34:10 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】サンワサプライ、microSDカードリーダつきの3ポートUSB Hubを発売</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1152421.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/421/01_o.jpg"></div></div><span class="caption">USB-2HC319BK</span></div></div></div></div><p>　<a href="https://direct.sanwa.co.jp/top/CSfTop.jsp" class="n" target="_blank">サンワサプライ株式会社</a>は、microSDカードリーダ機能つきの3ポートUSB Hub「USB-2HC319」を発売した。サンワダイレクトでの直販価格は1,180円。本体カラーはブラックとホワイトの2色を用意する。</p><p>　バスパワー駆動のUSB 2.0ポートを3つとmicroSDカードスロットを備えたHub。接続ケーブルを本体に収納可能な設計で、持ち運びに好適という。</p><p>　本体サイズは、41.8×31×15mm(幅×奥行き×高さ)、重量は約18g。ケーブル長は約5cm。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/421/02_o.jpg"></div></div><span class="caption">USB-2HC319W</span></div></div></div></div></div></div>]]></description>
@@ -123,6 +105,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/todays_sales/1152483.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/483/1_o.jpg"></div></div><span class="caption">GL2070</span></div></div></div></div><p>　NTT-X Storeで、ベンキュー製の19.5型液晶ディスプレイ「GL2070」に対し、12日までの期間限定で2,000円分の会員割引クーポンが配布されており、適用すれば6,980円で購入できる。</p><p>　同液晶は1,600×900ドット表示対応の19.5型モデル。パネルはTNで、入力インターフェイスはミニD-Sub15ピンとDVI-Dのみだが、最大消費電力は17Wと低く、サブ用途にはちょうどいいだろう。</p><p>　このほかの仕様は、表示色数が約1,677万色、応答速度が5ms、輝度が200cd/平方m、コントラスト比が600:1(最大1,200万:1)などとなっている。本体サイズは462×189.17×385.47mm(幅×奥行き×高さ)、重量は約2.9kg。</p><div><div><div><div><span class="title">NTT-X Storeで購入する</span></div></div><div></div><div><div><div><div><a href="https://nttxstore.jp/_II_BQ15764756?LID=PCW&amp;FMID=PCW" rel="nofollow"><img src="https://pc.watch.impress.co.jp/img/watch/parts/icon/loading.png" class="resource" style="width:160px;" id="2_s.jpg" ajax="/img/pcw/docs/1152/483/2_s.jpg"></a></div></div><span class="caption"><a href="https://nttxstore.jp/_II_BQ15764756?LID=PCW&amp;FMID=PCW">ベンキューGL2070</a></span></div></div></div></div></div></div>]]></description>
 			<pubDate>Fri, 09 Nov 2018 14:52:40 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10 Pro/Enterpriseのライセンス認証にエラー ～Microsoftは修正対応中</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1152562.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/562/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">米Microsoft</a>は8日(米国時間)、一部のユーザーのWindows 10 Pro/Enterpriseがライセンス認証エラーになっている問題を報告した。</p><p>　認証エラーになっているWindows 10では、Windows 10 Proを実行しているが、Windows 10 Homeの有効なデジタルライセンスがありますといったメッセージや、エラーコード0X803F8001/0xC004C003のいずれかが表示されるという。</p><p>　同社によれば、アクティベーションサーバーのエラーが原因で、日/米/韓などの国で問題が発生。ユーザーの報告に対して、11月9日午前6時に24時間以内の<a href="https://answers.microsoft.com/en-us/windows/forum/all/windows-10-sudden-activation-error/959d8508-24be-4626-b335-d3b890d85247" class="n" target="_blank">問題解決に向けて作業中</a>であると回答している。</p><p>　ウォーターマークは表示されるが、認証エラー中でもPCは利用できるため、ライセンスが復元されるまで待つようユーザーに案内している。</p><p>　なお、自動でライセンスは復元されるが、手動で問題を解決したい場合には、[スタート]ボタン&gt;[設定]&gt;[更新とセキュリティ]&gt;[ライセンス認証]&gt;[トラブルシューティング]の順に選択することでライセンスを復元できるとしている。</p><p>　同様にWindows 10 Homeを使っているにも関わらず「Windows 10 Proが実行されている」と表示される場合もあるが、同メッセージを無視して修正を待つよう推奨している。</p></div></div>]]></description>
+			<pubDate>Fri, 09 Nov 2018 15:03:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>マウス、Core i9-9900K+RTX 2080 TiのゲーミングPC </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1152566.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/566/1_o.jpg"></div></div><span class="caption">NEXTGEAR-MICRO im620</span></div></div></div></div><p>　<a href="https://www.mouse-jp.co.jp/" class="n" target="_blank">株式会社マウスコンピューター</a>は、CPUにCore i9-9900K、GPUにGeForce RTX 2080 Tiを搭載したマイクロタワーゲーミングPC「NEXTGEAR-MICRO im620」シリーズを発売した。</p><p>　CPUに負荷がかかる、物理演算が多用される3Dアクション/FPSゲームに好適とするモデル。水冷CPUクーラーを採用し、安定したCPU性能を発揮できるとしている。</p><p>　また、GPUにはGeForce RTX 2080 Tiを採用し、従来モデルからグラフィックス性能を19%向上。4K解像度での快適なゲームプレイを実現したという。VRやゲーム配信に活用できる前面HDMI端子の搭載も特徴。</p><p>　一例として「im620PA2-SP」は、CPUにCore i9-9900K(3.6GHz)、メモリ32GB(8GB×4、最大64GB)、Intel Z390チップセット、GeForce RTX 2080 Tiビデオカード(11GB)、480GB SSD+2TB HDD、OSにWindows 10 Homeを搭載し、税別価格は339,800円。</p><p>　インターフェイスは、USB 3.1×2(うち1基はType-C)、USB 3.0×6、DisplayPort×3、HDMI、USB Type-C(ビデオカードより出力)、Gigabit Ethernet、PS/2、音声入出力などを備える。空きベイは2.5インチシャドウ×2、スリム光学ドライブ用×1。</p><p>　電源は800Wの80PLUS Titanium対応品。本体サイズは188.8×396～410.5×400mm(幅×奥行き×高さ)。</p></div></div>]]></description>
+			<pubDate>Fri, 09 Nov 2018 15:15:55 +0900</pubDate>
+		</item>
+		<item>
+			<title>SilverStone、80PLUS Titanium認証の600Wファンレス電源 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1152579.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/579/01_o.jpg"></div></div><span class="caption">Nightjar NJ600</span></div></div></div></div><p>　<a href="http://www.dirac.co.jp/" class="n" target="_blank">株式会社ディラック</a>は、SilverStone製ファンレス電源「Nightjar NJ600(SST-NJ600)」を16日から発売する。税別店頭予想価格は32,980円前後の見込み。</p><p>　Nightjar NJ600は容量600Wの静音性に優れるファンレスATX電源。オープングリル設計とアルミヒートシンクにより、ファンレスでも安定して動作できる冷却性能が確保されている。</p><p>　80PLUS Titanium認証を取得しており高効率な電源供給が可能となっているほか、+12V出力は50Aまで供給できるためハイエンドな構成にも対応できるとする。ケーブルはフルモジュラー方式を採用し、取り回しが容易になっている。</p><p>　コネクタのおもな仕様は、ATX 20+4ピン×1、EPS/ATX 12V 4+4ピン×1、PCIe 6+2ピン×4、SATA×6、ペリフェラル用4ピン×5、FDD用4ピン×1。保証期間は3年。</p><p>　本体サイズは150×170×86mm(幅×奥行き×高さ)、重量は1.78kg。</p></div></div>]]></description>
+			<pubDate>Fri, 09 Nov 2018 15:49:49 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
