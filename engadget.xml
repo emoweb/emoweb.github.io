@@ -5,15 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    任天堂スイッチ向けYouTubeアプリが配信開始、日本でも利用可能
-</title>
-			<link>https://japanese.engadget.com/2018/11/08/youtube/</link>
-			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2018-11/b2c7ef70-e3c5-11e8-bd3f-e92491616ac5" />
-近日中に登場が噂されていたNintendo Switch用のYouTubeアプリが、ニンテンドーeショップで配信開始となりました。記事執筆時点では日本国内向けの公式アナウンスはありませんが、すでに日本版ショップでもダウンロードしてアプリを利用できます。
- ]]></description>
-			<pubDate>Thu, 08 Nov 2018 22:40:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    Google、コンテンツの権利者に3400億円を支払ったと報告。著作権侵害防止努力の一環
 </title>
 			<link>https://japanese.engadget.com/2018/11/08/google-3400/</link>
@@ -527,6 +518,17 @@ iPhone Xはディスプレイモジュールのコンポーネントに故障可
 このプロジェクトがスタートしたのは2010年のこと。2014年に我々は、最高出力74hp、最大トルク7.2kgmを発生するプロトタイプに試乗した。航続距離は60マイル（約97km）とされていたが、市販モデルはさらに長くなると推測される。
  ]]></description>
 			<pubDate>Sat, 10 Nov 2018 00:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    プレイステーション クラシックはオープンソースのエミュレータ利用？ 自社開発ではないとの噂
+</title>
+			<link>https://japanese.engadget.com/2018/11/10/psclassic-ossemu/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F516073a0-e4b1-11e8-a77f-b5c78b922ffc&client=a1acac3e1b3290917d92&signature=96106229f7f9623090318652a945607cf2b4b252" />2018年12月3日の発売が待たれる、初代プレステのミニ復刻版「プレイステーション クラシック」。収録20タイトルも発表されて大いに期待が高まるなか、その"中味"についての噂が報じられています。
+
+米Kotakuが実機を試遊したところ、メニュー画面にオープンソースのエミュレータ「PCSX ReARMed」を使用しているとの法的ライセンス表示を発見したとのこと。
+PSクラシックの中身に関しては「（PSアーカイブスが動く）Vita TV基板が流用されているのでは」などの予想が飛び交っていましたが、意外なソリューションが採用されていたようです。
+ ]]></description>
+			<pubDate>Sat, 10 Nov 2018 02:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
