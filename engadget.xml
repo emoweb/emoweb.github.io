@@ -5,35 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    有機EL時代には「ダークモード」を積極採用すべき──Googleが開発者に呼びかけ
-</title>
-			<link>https://japanese.engadget.com/2018/11/09/el-google/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2Fc1b91450-e3e8-11e8-a1f3-712acdaa59c2&client=a1acac3e1b3290917d92&signature=8dc94903467a3edfc7fb2dff153921e3a240cabb" />Googleは、11月7日～8日に開催されたAndroidの開発者会議 Android Dev Summit'18において、ダークモード（ナイトモード）が消費電力的に優れており、アプリ開発者に採用を呼び掛ける内容のセッションを行いました。
-
-全体の色調を暗くするダークモードは、夜間など薄暗い環境で目に優しいとして多くのアプリが採用しています。また、単に目に優しいだけではなく、有機ELでは消費電力に優れているとも言われてきました。
-
-これは、バックライトで画面全体を照らす液晶とは違い、有機ELは必要な画素のみ発光する仕組みのため。黒い部分は発光しないので、省電力となるわけです。
-
-Googleの調査では、最大輝度でGoogle Mapのダークモードを有効にした場合、有機ELを採用するPixelでは、消費電力が63%減少したとのこと。液晶のiPhone 7では、消費電力に差はありませんでした。
-
-
-
-また、YouTubeでは、輝度を50%にした場合はノーマルモードとダークモードで4％ほどの差しかありませんでしたが、輝度最大では43%の差が出てています。
-
-
-
-Googleはこれまで、推しているマテリアルデザインのベースカラーとして白を推奨していました。消費電力的には不利になる選択ですが、Googleは発表の中でこの非を認めているので、いずれ推奨カラーが変更になるのかもしれません。なお、幸いになことに、Googleのアプリの多くはダークモードに対応済みです。
-
-とりあえず、有機ELを使ったスマートフォンのバッテリーを少しでも長持ちさせたいのであれば、輝度を控えめにしたうえで各アプリのダークモード（ナイトモード）を有効にするのが良さそうです。
-
- 
-
- 
-関連記事：ついに到来した「有機EL」時代　スマホは液晶が少数派
- ]]></description>
-			<pubDate>Fri, 09 Nov 2018 05:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    昔のケータイから何が出てくる？　au OSAKAで「思い出ケータイ再起動」開催～11日まで
 </title>
 			<link>https://japanese.engadget.com/2018/11/09/au-osaka-11/</link>
@@ -411,6 +382,18 @@ iFixit
 iFixitは新Mac miniのメモリ交換方法を写真付きで解説する記事を公開したばかりですが、今回はロジックボード上の各種部品などの細部も詳しく観察されています。
  ]]></description>
 			<pubDate>Sun, 11 Nov 2018 03:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    11月12日のできごとは「Surface Pro 4発売」「iPad mini Retina ディスプレイモデル発売」ほか：今日は何の日？
+</title>
+			<link>https://japanese.engadget.com/2018/11/11/11-12-surface-pro-4-ipad-mini-retina/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2018-11/618ba330-e3e4-11e8-b7bf-1bdc4bfee22c" />11月12日のおもなできごと
+2010年、ソフトバンクが「DELL Streak 001DL」の予約開始
+2013年、アップルが「iPad mini Retina ディスプレイモデル」を発売
+2014年、デルが「Chromebook 11」を発売
+2015年、マイクロソフトが「Surface Pro 4」を発売
+ ]]></description>
+			<pubDate>Sun, 11 Nov 2018 15:30:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
