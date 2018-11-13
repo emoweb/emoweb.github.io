@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>MacBook Pro 13インチの一部モデルにデータ消失の可能性。Appleは修理を呼びかけ </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1152807.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/807/01_o.jpg"></div></div><span class="caption">MacBook Pro</span></div></div></div></div><p>　<a href="https://www.apple.com/jp/" class="n" target="_blank">Apple</a>は11月9日、13インチのMacBook Pro(Touch Bar 非搭載)に実装されている一部の128GBおよび256GB SSDにおいて、データ消失やドライブの故障を引き起こす可能性があることを発表し、修理を呼びかけている。</p><p>　対象となるのは、2017年6月から2018年6月までに販売された13インチのMacBook Proで、<a href="https://www.apple.com/jp/support/13-inch-macbook-pro-solid-state-drive-service-program/" class="n" target="_blank">サポートページ</a>から該当する製品かどうかを確認できる。もし該当機種だった場合は、AppleまたはApple正規サービスプロバイダ(AASP)で修理を行なう。</p><p>　なお、修理が実施される場合はドライブのデータは消去されるとのこと。そのため、Appleは修理に出す前に全データのバックアップを推奨している。</p></div></div>]]></description>
-			<pubDate>Mon, 12 Nov 2018 13:10:46 +0900</pubDate>
-		</item>
-		<item>
 			<title>マウス、第9世代Coreプロセッサ搭載のデスクトップPC </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1152836.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1152/836/01.jpg"></div></div><span class="caption">LUV MACHINES iH810/iG810</span></div></div></div></div><p>　<a href="https://www.mouse-jp.co.jp/" class="n" target="_blank">株式会社マウスコンピューター</a>は、第9世代Coreプロセッサ搭載のデスクトップPC「LUV MACHINES iH810/iG810」シリーズを発売した。</p><p>　第9世代Coreプロセッサの搭載で、動画や音声などのデータ処理速度が、第8世代CPUを搭載した同社従来製品比で最大約8.1%向上したとする。</p><p>　iH810シリーズでは、搭載CPUの違いで2モデルを用意。価格はCore i5-9600K(6コア/6スレッド、3.7GHz)搭載の「LUV MACHINES iH810SN」が87,800円、Core i7-9700K(8コア/スレッド、3.6GHz)搭載の「LUV MACHINES iH810HN」が104,800円。</p><p>　そのほかのおもな仕様は共通で、8GB DDR4メモリ、1TB HDD、80PLUS BRONZE認証取得450W電源、OSにWindows 10 Homeを搭載。</p><p>　iG810は、Core i7-9700KとGeForce GTX 1060 (DGGR5 3GB)、8GB DDR4×2、240GB NVMe SSD+1TB HDD、OSにWindows 10 Homeを搭載。価格は149,800円。</p><p>　インターフェイスはほぼ共通で、PS/2、USB 2.0×2、USB 3.0×4、USB 3.1×2(1基Type-C)、Gigabit Ethernet、DisplayPort(iG810は4基)、DVI-I(iH810のみ)、音声入出力。</p><p>　本体サイズは170×403×360mm(幅×奥行き×高さ)。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1153001.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1153/001/1_o.jpg"></div></div><span class="caption">Ultrastar DC ME200 Memory Extension Drive</span></div></div></div></div><p>　<a href="https://www.westerndigital.com/" class="n" target="_blank">米Western Digital</a>は12日(現地時間)、インメモリコンピューティング向けのNVMe SSD「Ultrastar DC ME200 Memory Extension Drive」を発表した。</p><p>　ビッグデータ時代が進むなか、時間に敏感でリアルタイム処理を必要とするアプリケーションが増加しており、すべてのデータセットをメインメモリ(DRAM)内に持つことでレイテンシを削減する「インメモリ型」のアプリも増えている。</p><p>　しかしながらDRAMの価格は高騰しているほか、大容量メモリの価格は容量に比例せず、たとえば128GBは64GBモジュールの2倍以上の価格となっている。また、DIMMスロット数にも制限があるほか、メモリをデータで埋めてもCPU使用率が高いとは限らないといった問題がある。</p><p>　今回WDが提唱する“Memory Extension Drive”は、ソフトウェア(OS)によってNVMe SSDをメモリとしてみなし、“仮想メモリプール”を構築することで、ソフトウェアからは仮想的な大容量メモリ環境に見えるというもの。これにより実DRAMの8倍の容量をより安価に実装でき、U.2インターフェイスを持つ1Uサーバーで、メモリを24TBまで(仮想的に)増設できるとしている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1153/001/2_o.jpg"></div></div><span class="caption">Memory Extension Driveの仕組み</span></div></div></div></div><p>　Ultrastar DC ME200 Memory Extension Driveでは、機械学習、パターン認識、コードスキャンといった20種類以上の予測/プリフェッチ/最適化アルゴリズムなどを組み合わせ、DRAMに近い性能を実現。数千サイクル先にCPUが処理するアドレスをプリフェッチすることで、CPUがそのアドレスを必要とするときには、すでにDRAM内に存在できるようにするという。</p><p>　フォームファクタは、U.2接続の2.5インチタイプと、PCI Express Gen 3接続の拡張カードの2種類。容量は1,024GB/2,048GB/4,096GBの3種類。総書き込み容量は順に19.1PB、38.2PB、78PB。保証は3年。</p></div></div>]]></description>
 			<pubDate>Tue, 13 Nov 2018 13:50:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>COLORFUL、USB 3.1 Type-C対応のポータブルSSD </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1153021.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1153/021/01_o.jpg"></div></div><span class="caption">P100</span></div></div></div></div><p>　<a href="https://www.links.co.jp/" class="n" target="_blank">株式会社リンクスインターナショナル</a>は、USB 3.1対応のCOLORFUL製ポータブルSSD「P100」を23日より発売する。容量は500GBで価格はオープンプライス。</p><p>　接続インターフェイスにUSB 3.1 Type-Cを採用し、高速なデータ転送を実現。アルミニウム製の筐体を採用し、放熱性にも優れる。内部は耐衝撃構造となっており、基板を保護する。また、アクセスランプも備える。</p><p>　USB Type-C to Type-CケーブルおよびType-C to Type-Aケーブルが付属する。なお、Type-Aのケーブルの場合はUSB 3.0での動作となる。</p><p>　USB 3.1接続時の連続読み込み速度は550MB/s、連続書き込み速度は500MB/s。本体サイズは64×77×11mm(幅×奥行き×高さ)、重量は約55g。</p></div></div>]]></description>
+			<pubDate>Tue, 13 Nov 2018 14:06:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
