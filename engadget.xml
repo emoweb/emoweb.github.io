@@ -5,41 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    米Cloudflare、DNSサービス「1.1.1.1」のモバイルアプリをリリース
-</title>
-			<link>https://japanese.engadget.com/2018/11/12/cloudflare-dns-1-1-1-1/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2Fc602fe60-e62a-11e8-bfbf-f7b34cde30b1&client=a1acac3e1b3290917d92&signature=7d56fed88ea106c4664603719dc6a2dcd04d75ab" />
-米時間11月11日、コンテンツデリバリーネットワーク（CDN）や各種セキュリティサービスを提供する米CloudFlareが、DNSサービス「1.1.1.1」のAndroid、iOS向けアプリを公開しました。Google Play、App Storeでそれぞれダウンロードが行えます。
-
-1.1.1.1はCloudflareが4月1日に公開したパブリックDNSサービスです。公式サイト上ではAndroidやiOSでの設定方法も公開されていましたが、Wi-Fi接続時にしか利用できないものでした。しかし、あらたに公開されたアプリでは、VPNを利用することで、モバイルネットワークでも簡単に利用可能となっています。
-
- 
-関連記事：ネットのプライバシー守れ。CloudFlare、新DNSサービス「1.1.1.1」を提供開始
-
-
-DNSはドメイン名（engadget.comなど）とIPアドレスを紐づけるためのもので、キャリア・ISPが提供するものを利用するのが一般的です。これは裏を返すと、ISPなどはDNSの記録から、ユーザーがどこにアクセスしているのかを簡単に収集できることを意味します。
-
-Cloudflareは、利用するDNSを1.1.1.1に変更することで、ISPによる履歴の収集が困難になるとしています。また、Cloudflare自身もDNSのアクセス記録を残さず、それを担保するための年1回の監査を受けるとのことです。
-
-また、そういったプライバシー面だけではなく、各サイトへのアクセスが速くなるというメリットもあります。DNSの応答速度をモニターしているDNSPrefの調査では、直近30日間の1.1.1.1の応答独度は14.8msで第1位。同種のパブリックDNSを提供するGoogleは43.35msで第4位となっています。
-
-そんな1.1.1.1は無料で利用可能。Cloudflareは「プライベートなインターネットを無料で使えるのは正しいことだ」とした上で、利用者が増えるとCloudflareを利用する数百万のサイトを高速化することもできると、同社にとってのメリットも説明しています。
-
- 
- 
- ]]></description>
-			<pubDate>Mon, 12 Nov 2018 04:30:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    Xbox One用『Fortnite』、11月14日からキーボードとマウスに正式対応
-</title>
-			<link>https://japanese.engadget.com/2018/11/12/xbox-one-fortnite-11-14/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F6b371850-e638-11e8-bc37-03badc905174&client=a1acac3e1b3290917d92&signature=fa4019ac1bc6de261986f1abf860394907ca0816" />
-マイクロソフトはメキシコで開催されたXboxユーザー向けイベント「X018」にて、11月14日（米現地時間）からXbox One用のゲームでキーボードとマウスがサポートされることを発表しました。
- ]]></description>
-			<pubDate>Mon, 12 Nov 2018 05:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    「GPSいらず」を実現する量子コンパス、英で初デモ。重力波検出にも応用可能
 </title>
 			<link>https://japanese.engadget.com/2018/11/12/gps/</link>
@@ -526,6 +491,46 @@ TF International SecuritiesのアナリストMing-Chi Kuo氏は、2018年第4四
 この減少分はiPhone XSやiPhone 8など旧モデルの需要増により相殺されるとしつつも、2019年第1四半期の全iPhone出荷予測を15〜20％引き下げています。
  ]]></description>
 			<pubDate>Tue, 13 Nov 2018 01:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    ジョイマン高木になれるVTuberアプリをSHOWROOMが提供開始
+</title>
+			<link>https://japanese.engadget.com/2018/11/13/vtuber-showroom/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F9d31e0d0-e703-11e8-befa-31dad2f0c1de&client=a1acac3e1b3290917d92&signature=e941a4900a5e9a08280cc0b559d2d604728743dc" />
+
+
+SHOWROOMは11月13日、スマホ1台でバーチャルキャラクターになりきってライブ配信ができるiPhone向けアプリ「SHOWROOM V」の提供を開始しました。
+
+用意される全10種類のアバターは配信で自由に使うことができ、自分好みのスタイルでライブ配信を行うことができます。 また、お笑い芸人「ジョイマン」高木さんのアバター「VJ-TAKAGI」も配信に利用できます。
+
+
+▲ジョイマン高木の3Dモデルは完成度が高く、これを利用できるのは他サービスにない"強み"です
+
+アバターは、オープンな3DフォーマットVRMで実装されており、既存のVRM形式アバターをそのまま「SHOWROOM V」に通して「SHOWROOM」の配信で利用できます。
+
+このほか、バーチャルタレントライブ配信アプリ「GooMe」も同日発表されています。増え続けるVTuberアプリに、生配信でのギフティング機能で強みのあるSHOWROOMが本格参入。今後はどのサービスが覇権を握るのでしょうか。
+
+ 
+関連記事
+キャラの上半身キャプチャーが可能なVTuberアプリ「GooMe」
+
+ 
+ ]]></description>
+			<pubDate>Tue, 13 Nov 2018 01:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Oculus Go向けYouTube VRアプリの配信開始
+</title>
+			<link>https://japanese.engadget.com/2018/11/13/oculus-go-youtube-vr/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2Fa3818620-e6f9-11e8-b5fe-5fb675115dc7&client=a1acac3e1b3290917d92&signature=2be04e8e8fc8f96b9a04dfd3b4e3f2791c2b0706" />
+9月末の開発者会議「Oculus Connect 5」で予告されていた、Oculus Go対応の「YouTube VR」アプリがリリースされました。Oculusストアよりダウンロード可能です。
+
+Oculus Goには、Netflixやniconicoなどの動画視聴用アプリがリリースされていましたが、YouTubeアプリはこれまで未配信でした。
+ 
+関連記事：
+Oculus GoでYouTube VRが利用可能に。画面を共有するキャスト機能も間もなくリリース
+ ]]></description>
+			<pubDate>Tue, 13 Nov 2018 02:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
