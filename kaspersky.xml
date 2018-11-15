@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>徹底解説：Android 8.0でのアプリの権限</title>
-			<link>https://blog.kaspersky.co.jp/android-8-permissions-guide/21699/</link>
-			<description><![CDATA[Androidでは、データ保護のためや危険な機能へのアクセスを制限する目的で、利用者がアプリの権限を設定することができます。ここでは、権限の設定方法と、なぜ設定するべきなのかを説明します。]]></description>
-			<pubDate>Tue, 30 Oct 2018 01:00:21 +0000</pubDate>
-		</item>
-		<item>
 			<title>カスペルスキー スモール オフィス セキュリティ：小規模企業を守るために</title>
 			<link>https://blog.kaspersky.co.jp/easy-small-office-security/21691/</link>
 			<description><![CDATA[複雑な脅威に対抗する、シンプルなセキュリティ対策。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/blockchain-and-privacy/21919/</link>
 			<description><![CDATA[ブロックチェーンの目的は、データを確実かつ永続的に保存しておくことです。そのため、昨今のプライバシー保護規制のトレンドとは相いれないことがあります。]]></description>
 			<pubDate>Mon, 12 Nov 2018 01:00:17 +0000</pubDate>
+		</item>
+		<item>
+			<title>SMSによる2段階認証はベストな選択肢ではない — それに代わる方法とは</title>
+			<link>https://blog.kaspersky.co.jp/2fa-practical-guide/21822/</link>
+			<description><![CDATA[なぜSMSを使った2段階認証が最善の選択肢ではないのか、その他にどのような選択肢があるのか、考えてみましょう。]]></description>
+			<pubDate>Thu, 15 Nov 2018 01:00:28 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
