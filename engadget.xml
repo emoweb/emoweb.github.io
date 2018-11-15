@@ -5,29 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Google、画像圧縮WEBアプリ「Squoosh」公開。ブラウザだけで圧縮やフォーマット変換が可能
-</title>
-			<link>https://japanese.engadget.com/2018/11/14/google-web-squoosh/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=1600%2C1000%2C0%2C0&quality=85&format=jpg&resize=1200%2C750&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2Fca213b70-e7e6-11e8-bbcf-f6dfc3482dc1&client=a1acac3e1b3290917d92&signature=6eef5476aa104d141c2eaec82e84ea8804ff04ae" />
-11月12日～13日（米時間）に開催された、Chromeの開発者会議 Chrome Dev Summit 2018において、Googleがブラウザ上で簡単に画像圧縮が行えるWEBアプリ「Squoosh」を発表しました。
-
-クライアントサイドスクリプト言語、WebAssemblyの技術的デモを兼ねているようで、ソースコードはGitHub上で公開されています。
-
-アプリの内容としては、ブラウザ上で画像ファイルを選択、あるいはドラッグ＆ドロップすると、オリジナル画像と見比べながら画像フォーマットを変換したり、圧縮やリサイズが行えるというものです。PCだけでなく、モバイルでも利用できます。
-
-
-変換できるフォーマットは、JPEG、MozJPEG、PNGのほかWebPも選択可能。なお、このフォーマットは使用するブラウザにより若干の差があります。例えば、FireforxではBMPへのエンコードをサポートしており、Safariでは、JPEG2000、TIFF、BMP、PDF、GIFへのエンコードも可能です。
-
-ファイルはサーバーにはアップロードされておらず、変換処理などはローカルで実行しているとのこと。プライバシー的にも安心なだけなく、モバイルの場合には、大きなファイルを圧縮するためにパケットを消費してしまうこともありません。
-
-画像を軽くする前にChromeブラウザ自体を軽量化してほしいところですが、別途アプリを使わずに画像のリサイズや圧縮などを行えるのは便利ではあります。とくに、スマートフォンやタブレットで作業を行っている場合には、覚えておくと役立ちそうです。
-
-なお、Squooshの技術的な解説は、下記のChrome Dev Summit 2018 セッション動画で語られているので、興味ある方はご覧ください(ただし英語)。
-
- ]]></description>
-			<pubDate>Wed, 14 Nov 2018 04:50:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    神奈川県、LINE Payによる納税を2019年1月開始
 </title>
 			<link>https://japanese.engadget.com/2018/11/14/line-pay-2019-1/</link>
@@ -380,6 +357,17 @@ PRTIMESトップへ
 LINE Payはライン上で展開するモバイル送金・決済サービスです。このLINE Pay 請求書支払いは、公共料金や通信販売などの請求書上に印字されたバーコードをスマートフォンで読み込むことで、LINE Payで支払いができるというサービス。
  ]]></description>
 			<pubDate>Thu, 15 Nov 2018 05:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    ASUSがモバイルディスプレイをバッテリー内蔵に。ケーブル1本でPCやスマホと接続
+</title>
+			<link>https://japanese.engadget.com/2018/11/15/asus-1-pc/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2018-11/b458be10-e8a6-11e8-b3b5-3d07ef56e2ee" />
+ASUS JAPANは、バッテリーを内蔵した15.6インチモバイルディスプレイ「MB16AP」を11月17日に発売します。 価格はオープンプライス。IPS液晶パネルを搭載し、USB Type-Cケーブル1本でパソコンやスマートフォンと接続できます。
+
+「ZenScreen GO」の愛称を持つ本機最大の特徴は、7800mAhのバッテリーを内蔵したこと。電源がない環境でも最大4時間の駆動が可能としています。また15.6型とモバイルディスプレイとしては大画面ながらも厚さは8mmに抑えており、携帯性も確保しています。
+ ]]></description>
+			<pubDate>Thu, 15 Nov 2018 06:30:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
