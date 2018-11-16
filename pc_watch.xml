@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>25ドルの「Raspberry Pi 3 Model A+」が発表 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1153595.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1153/595/4_o.jpg"></div></div><span class="caption">Raspberry Pi 3 Model A+</span></div></div></div></div><p>　<a href="https://www.raspberrypi.org/" class="n" target="_blank">Raspberry Pi財団</a>は15日(現地時間)、4年ぶりの刷新となる「Raspberry Pi 3 Mode A+」を発表した。価格は25ドル。日本国内ではKSYが取り扱う予定で、技適に関わる手続きが終了次第販売を開始する。</p><p>　Raspberry Piシリーズはそもそも2013年2月に25ドルの「Model A」が投入されたのがはじまり。2014年11月に低価格化した「Model A+」が投入されたが、以降はModel BやZeroシリーズの展開が中心で、Model Aは長らく更新されてこなかった。今回は4年ぶりの刷新となる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1153/595/2_o.jpg"></div></div></div></div></div></div><p>　性能的には最新の3 Model B+並みとなっており、SoCはBCM2837B0で、CPUコアは1.4GHz駆動のCortex-A53×4、GPUはVideoCore IV(300～400MHz)。メモリは512MB LPDDR2。また、USB 2.0、IEEE 802.11ac対応無線LAN、Bluetooth 4.2+LE、microSDカードスロット、コンポジットビデオ出力と音声出力を統合した3.5mmミニジャックを備える。</p><p>　また、40ピンのGPIOヘッダー、CSIカメラポート、DSIディスプレイ出力、PoE HAT用ピンヘッダを搭載。電源は5V/2.Aで、Micro USBから入力する。本体サイズは64×56×17mm(幅×奥行き×高さ)。</p><p>　Raspberry Pi 3B/3B+/Zeroで好評だった公式のケースも、Model A+向けに新たに用意した。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1153/595/1_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1153/595/3_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
-			<pubDate>Thu, 15 Nov 2018 18:28:20 +0900</pubDate>
-		</item>
-		<item>
 			<title>Amazon.co.jp、Amazon Music Unlimitedが3カ月99円で使えるキャンペーン </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1153604.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1153/604/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.amazon.co.jp/" class="n" target="_blank">Amazon.co.jp</a>は、「Amazon Music Unlimited」が3カ月99円で使えるキャンペーンを開催している。</p><p>　2018年11月15日 15時01分～2019年1月3日 23時59分までの間にAmazon Music Unlimitedに新規登録したユーザーが対象で、個人プランが3カ月99円になる。なお、4カ月目以降は月額980円(プライム会員の場合は780円)となる。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1153748.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1153/748/1_o.jpg"></div></div><span class="caption">SSD7102</span></div></div></div></div><p>　<a href="http://www.dirac.co.jp/" class="n" target="_blank">株式会社ディラック</a>は、HighPoint製のNVMe M.2 SSD用RAIDカード「SSD7102」を12月7日に発売する。税別価格は60,800円。</p><p>　カード上に4基のM.2スロットを備え、NVMe接続のSSDでRAID 0(SSDは最大4基)/RAID 1(同最大2基)ボリュームを作成した上で、WindowsおよびLinuxベースのプラットフォームにおいてブートできる環境を構築可能。</p><p>　PCとはPCI Express 3.0 x16で接続し、各SSDとはPCI Express x4の帯域幅で接続できる。CPUに直結すれば、チップセット-CPU間のDMI 3.0の転送速度の制限を回避し、合計13,000MB/sを超える転送速度を実現できるとしている。</p><p>　対応OSはWindows 10、Windows Server 2012 R2以降、Linux Kernel 3.3以降(12月対応予定)。</p><p>　SSDの温度が上昇するのを防ぐためのオールアルミ製シャーシと、直径50mmの冷却ファンを搭載する。本体サイズは127×213.1×21.59mm(幅×奥行き×高さ)、重量は0.35kg。</p></div></div>]]></description>
 			<pubDate>Fri, 16 Nov 2018 13:32:23 +0900</pubDate>
+		</item>
+		<item>
+			<title>NVIDIA、2019年第3四半期は増収増益 ～仮想通貨特需は終息へ</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1153765.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1153/765/01.png"></div></div><span class="caption">3年前との比較</span></div></div></div></div><p>　<a href="http://www.nvidia.com/" class="n" target="_blank">米NVIDIA</a>は15日(米国時間)、2019年度第3四半期(2018年8月～10月)の決算概要を発表した。</p><p>　米国会計基準(GAAP)に基づく四半期の第3四半期売上高は、前年同期比21%増の31億8,100万ドル、営業利益は同18%増の11億5,700万ドル、純利益は同47%増の12億3,000万ドル、希薄化後の1株あたりの利益は同48%増の1.97ドルと、増収増益を記録した。</p><p>　部門別の売上高は、ゲーミングが17億6,400万ドル、プロフェッショナルビジュアライゼーションが3億500万ドル、データセンターが7億9,200万ドル、自動車関連が1億7,200万ドル、OEMおよびIPが1億4,800万ドルで、前年同期から全部門で増収を記録している。</p><p>　同社CEO ジェンスン・フアン氏は、リリースにて「世界中で起きている急激なAIの進歩が、データセンタープラットフォームの売上向上を後押ししている」と述べたほか、直近の結果に、暗号通貨ブームの終息にともない、チャネルが超過在庫を抱えていることが反映されていると言及。近いうちに解消されるとの見方を示している。</p></div></div>]]></description>
+			<pubDate>Fri, 16 Nov 2018 14:57:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
