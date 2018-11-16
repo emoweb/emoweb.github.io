@@ -5,53 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Scratchを使った「ドローン×プログラミング」教室京都で開催
-</title>
-			<link>https://japanese.engadget.com/2018/11/15/scratch/</link>
-			<description><![CDATA[     <img src="https://prtimes.jp/i/34283/13/resize/d34283-13-219754-1.png" />～2020年度の新学習指導要領にもとづく小学校プログラミング教育必修化に向けて～
-
-SkyLink Japan（株式会社WorldLink &amp; Company 本社：京都市北区、代表：須田信也）は、主にドローンの販売やソリューション提案を法人やプロシューマー（生産活動を行う消費者）向けに行っておりますが、将来の日本を支える若い世代にもその発展性や楽しさを知って頂きたい思いから、小中学生向けのドローン・プログラミング教室も実施しております。親子で参加いただくこともでき、前回開催時も大変好評をいただき追加開催することとなりましたのでお知らせいたします。
-
-
-
-■開催概要
-本教室で使用するプログラミングソフト「Scratch」は、MIT（米国マサチューセッツ工科大学）メディアラボが開発し、直感的なGUI（グラフィカルユーザインターフェイス）でプログラム的思考を学べる教材として大変高い評価を得ているPC用ソフトウェアです。
-教室で実際にプログラムで使用するRYZE社製高性能トイドローン「Tello」は、フライトセットとして参加費用に含まれていますので、ご自宅に戻られてからも友人やご家族とも楽しんで頂けます。親子でもご参加いただけ、クリスマスのプレゼントとしても喜んでいただける楽しい工夫がいっぱいの教室です。
-
-
-■ドローン・プログラミング教室内容
-・開催日時：12月22日（土）10:00～12:00／14:00～16:00
-　　　　　　12月23日（日）10:00～12:00／14:00～16:00　（全４回開催）
-　※定員あり／先着順／応募多数の場合受講時間は抽選となります
-・開催場所：SkyLink Japan京都北山本店
-　京都市北区上賀茂岩ケ垣内町98-2-2F（京都市営地下鉄北山駅４番出口直結）
-・参加対象：小学３年生～中学３年生（保護者同伴可能）
-・参加費用：32,400円（税込）　受講費には下記のものが含まれます
-　ドローンセット（「Tello」機体、専用ケース、専用送信機）
-　セットアップマニュアル、京都八幡・飛行神社安全祈願シール
-
-
-■プログラミング教室の申込み・お問い合わせ先
-・お申込みは専用フォームから
-　URL：https://goo.gl/forms/5JnipxbzPBdSvQEL2
-・お問い合わせ先
-　Tel：075-708-2369
-　Email：info@skylinkjapan.com
-
-■SkyLink Japanについて
-京都・北山に本社を置き、2015年に実店舗型ドローン専門店をオープン。現在は全国に拠点を拡大している。「ドローンと社会を正しくつなぐ」というミッションを掲げ、販売だけでなくドローンを活用した空撮、インフラ点検、測量、また講習会やプロパイロット派遣など顧客ニーズに応じたソリューションを提供。
-[株式会社WorldLink &amp; Company 設立：2014年 代表：須田信也 ]
-オフィシャルサイト http://www.skylinkjapan.com/
-公式オンラインショップ https://shop.skylinkjapan.com/
-公式Facebook https://www.facebook.com/SkyLinkJapan
-公式ブログ http://blog.skylinkjapan.com/
-
-企業プレスリリース詳細へ
-PRTIMESトップへ
- ]]></description>
-			<pubDate>Thu, 15 Nov 2018 04:35:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    DJIが合体式産業用ドローンMavic 2 Enterprise披露。想定価格は30万円前後に
 </title>
 			<link>https://japanese.engadget.com/2018/11/15/dji-mavic-2-enterprise-30/</link>
@@ -443,6 +396,30 @@ MacBook Airでは様々ところが進化しているが、地味すぎてあま
 
  ]]></description>
 			<pubDate>Fri, 16 Nov 2018 03:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    「Raspberry Pi 3 Model A+」発表。小型低価格なAシリーズの新モデル、CPU強化にWiFi対応
+</title>
+			<link>https://japanese.engadget.com/2018/11/16/raspberry-pi-3-model-a-a-cpu-wifi/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F433913f0-e95b-11e8-97cf-7d237efd2d9e&client=a1acac3e1b3290917d92&signature=80144fa0e01cda6d614401ac6dcce1849d455e76" />
+Raspberry Pi財団は11月15日（米時間）、人気のワンボードマイコンRaspberry Piの新モデル「Raspberry Pi 3 Model A+」を発表しました。価格は25ドル。公式サイトではすでに販売が開始されていますが、日本国内では技適にかかわる手続きが完了次第、発売されるとのことです。
+
+3月にはRaspberry Pi 3 Model B+が発売されていますが、Model Aシリーズとしては、2014年以来、4年ぶりの新モデルです。
+
+ 
+関連記事：Raspberry Pi 3 Model B+発表。CPU、Wifi、LAN高速化、PoEサポートで価格は据置き
+
+更新内容としては、CPUがRaspberry Pi 3 Model B+と同じ 1.4GHzクアッドコアのBCM2837B0に変更。また、Model A+にはなかった無線関連も、802.11 b/g/n/ac（2.4GHz/5GHz）、Bluetooth 4.2に対応します。このほか、USBストレージからの起動や、温度管理も改善されているとのこと。
+
+インターフェースは従来と変わらず、HDMI(rev. 1.4)、コンポジット3.5mm 4極ジャックを搭載。USB 2.0、40ピン GPIOヘッダー、CSIカメラポート、DSIディスプレイポート、microSDポートも備えます。
+
+電源はmicro USB経由で5V/2.5A。本体サイズは65 x 56 x 12mmとModel A+から変わっていません。
+
+なお、Raspberry Pi 3 Model B+やRasberry Pi Zeroで人気があった専用ケースも用意されますが、これの発売は12月になるとのことです。
+
+Raspberry Pi 3 Model B+と比べるとインターフェースが少なくRAMも半分になりますが、その分価格も抑えられています。無線LANやBluetoothにも対応したことで、IoTハブなど組込み用途でも使いやすくなったと言えそうです。
+ ]]></description>
+			<pubDate>Fri, 16 Nov 2018 03:30:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
