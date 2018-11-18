@@ -5,15 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    2019年は電子玩具が来る!?　親子をつなぐベストおもちゃを選ぶ「楽天おもちゃ大賞2018」が決定
-</title>
-			<link>https://japanese.engadget.com/2018/11/16/rakuten-toy2018/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2Ff91d2720-e946-11e8-bfec-6c5a8b120569&client=a1acac3e1b3290917d92&signature=5a5dd103a73be82dfdd98be313917232712648f8" />
-11月15日、「楽天市場」で販売されている数十万点のおもちゃの中から、子どもと家族が楽しめるおもちゃを選出する「楽天おもちゃ大賞 2018 supported by 楽天ママ割」が発表されました。
- ]]></description>
-			<pubDate>Fri, 16 Nov 2018 19:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    三つ折りスマホ特許をサムスンが取得。1画面はスマホ風に外向きに
 </title>
 			<link>https://japanese.engadget.com/2018/11/16/samsung/</link>
@@ -382,6 +373,17 @@ Bluetoothトラッカーのなかで、このTile Mateが1番売れているん�
 とはいえ、記事執筆時点では広汎なユーザー報告は確認されておらず、今のところ折れ曲がりやすい「可能性」に留まっているようです。
  ]]></description>
 			<pubDate>Sun, 18 Nov 2018 02:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Alexaが「Wake-on-LAN」に対応、「テレビの電源オン」が機器追加不要に
+</title>
+			<link>https://japanese.engadget.com/2018/11/18/alexa-wake-on-lan/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=1600%2C1067%2C0%2C0&quality=85&format=jpg&resize=1200%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F0b57b1e0-eaef-11e8-bf9f-26e1c5a8b5c6&client=a1acac3e1b3290917d92&signature=4d94ebed0bda3efb67e03ba6b0db7411eb921c46" />
+Amazon EchoやGoogle Homeは、照明などのスマートホーム機器を操作でき、とても便利な製品です。一方、こうしたスマートスピーカーには、「できてほしいけどまだできない」ことも多く存在します。その筆頭が、対象機器の電源を入れること。相手がスリープなど低消費電力モードになってしまうと、Alexaのコマンドを受け付けなくなってしまいます。
+
+しかし、Amazonはこの問題を解決するために、AlexaにWake-on-LANパケットの送信機能を追加しました。
+ ]]></description>
+			<pubDate>Sun, 18 Nov 2018 02:30:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
