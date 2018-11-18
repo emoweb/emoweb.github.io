@@ -5,30 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    「Raspberry Pi 3 Model A+」発表。小型低価格なAシリーズの新モデル、CPU強化にWiFi対応
-</title>
-			<link>https://japanese.engadget.com/2018/11/16/raspberry-pi-3-model-a-a-cpu-wifi/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F433913f0-e95b-11e8-97cf-7d237efd2d9e&client=a1acac3e1b3290917d92&signature=80144fa0e01cda6d614401ac6dcce1849d455e76" />
-Raspberry Pi財団は11月15日（米時間）、人気のワンボードマイコンRaspberry Piの新モデル「Raspberry Pi 3 Model A+」を発表しました。価格は25ドル。公式サイトではすでに販売が開始されていますが、日本国内では技適にかかわる手続きが完了次第、発売されるとのことです。
-
-3月にはRaspberry Pi 3 Model B+が発売されていますが、Model Aシリーズとしては、2014年以来、4年ぶりの新モデルです。
-
- 
-関連記事：Raspberry Pi 3 Model B+発表。CPU、Wifi、LAN高速化、PoEサポートで価格は据置き
-
-更新内容としては、CPUがRaspberry Pi 3 Model B+と同じ 1.4GHzクアッドコアのBCM2837B0に変更。また、Model A+にはなかった無線関連も、802.11 b/g/n/ac（2.4GHz/5GHz）、Bluetooth 4.2に対応します。このほか、USBストレージからの起動や、温度管理も改善されているとのこと。
-
-インターフェースは従来と変わらず、HDMI(rev. 1.4)、コンポジット3.5mm 4極ジャックを搭載。USB 2.0、40ピン GPIOヘッダー、CSIカメラポート、DSIディスプレイポート、microSDポートも備えます。
-
-電源はmicro USB経由で5V/2.5A。本体サイズは65 x 56 x 12mmとModel A+から変わっていません。
-
-なお、Raspberry Pi 3 Model B+やRasberry Pi Zeroで人気があった専用ケースも用意されますが、これの発売は12月になるとのことです。
-
-Raspberry Pi 3 Model B+と比べるとインターフェースが少なくRAMも半分になりますが、その分価格も抑えられています。無線LANやBluetoothにも対応したことで、IoTハブなど組込み用途でも使いやすくなったと言えそうです。
- ]]></description>
-			<pubDate>Fri, 16 Nov 2018 03:30:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    ゲーミングスマホ「ROG Phone」に専用アクセサリを付けて遊んで来た率直な感想
 </title>
 			<link>https://japanese.engadget.com/2018/11/16/rog-phone/</link>
@@ -451,6 +427,15 @@ f
 中国ファーウェイ（HUAWEI）の幹部は、「AR（拡張現実）グラス」を1〜2年後に投入する計画を明らかにしました。
  ]]></description>
 			<pubDate>Sat, 17 Nov 2018 21:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    アンカー、18日限定でセール。ロボット掃除機や2万mAhバッテリーなど20製品
+</title>
+			<link>https://japanese.engadget.com/2018/11/17/18-2-mah-20/</link>
+			<description><![CDATA[     <img src="https://prtimes.jp/i/16775/125/resize/d16775-125-384965-0.jpg" />
+米国・日本・欧州のEC市場において、スマートフォン・タブレット関連製品でトップクラスの販売実績を誇るAnkerグループの日本法人、アンカー・ジャパン株式会社（所在地：東京都中央区、代表取締役：井戸義経）は、Amazon「特選タイムセール」において、人気のスマートフォン・タブレット関連製品や家電、オーディオ製品等、計20製品を2018年11月18 日（日）限定で最大30%OFFにて販売致します。
+ ]]></description>
+			<pubDate>Sat, 17 Nov 2018 21:30:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
