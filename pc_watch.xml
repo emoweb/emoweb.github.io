@@ -5,24 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>HighPoint、最大8台接続可能なSAS/SATA 12Gb/s対応RAIDコントローラ </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1153832.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1153/832/01_o.jpg"></div></div><span class="caption">RocketRAID 3720A</span></div></div></div></div><p>　<a href="http://www.dirac.co.jp/" class="n" target="_blank">株式会社ディラック</a>は、HighPoint Technologies製RAIDホストコントローラ「RocketRAID 3720A」を12月7日より発売する。税別価格は38,800円。</p><p>　SAS/SATAのHDDやSSDを最大8台まで接続できる12Gb/s対応のRAIDコントローラ。1台のシステムで最大4枚まで同時使用が可能。</p><p>　PCとの接続はPCI Express 3.0 x8で、OSはWindows/Mac/Linuxに対応する。RAIDレベルは0/1/5/6/10/50/JBODをサポートするが、RAID 6はブート非対応となる。インターフェイスはSFF-8643 (mini-SAS HD)×2。</p><p>　本体サイズは152×68×27.6mm(幅×奥行き×高さ)。</p></div></div>]]></description>
-			<pubDate>Fri, 16 Nov 2018 18:41:28 +0900</pubDate>
-		</item>
-		<item>
-			<title>【ニュース・フラッシュ】エプソン、EB-L400U/EB-L510U/EB-L610U/EB-L610W/EB-L615U/EV-100/EV-105 Epson Projector Content Manager</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1153833.html</link>
-			<description><![CDATA[<div><div><p>　エプソンは、EB-L400U/EB-L510U/EB-L610U/EB-L610W/EB-L615U/EV-100/EV-105 Epson Projector Content Managerを公開した。</p></div></div>]]></description>
-			<pubDate>Fri, 16 Nov 2018 19:02:39 +0900</pubDate>
-		</item>
-		<item>
-			<title>【ニュース・フラッシュ】NEC DS、ディスプレイFIRMWARE Update(V864Q/C861Q/P754Q/V754Q/C751Q/V984Q/C981Q)(Rev.1.6)</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1153842.html</link>
-			<description><![CDATA[<div><div><p>　ディスプレイFIRMWARE Update(V864Q/C861Q/P754Q/V754Q/C751Q/V984Q/C981Q)(Rev.1.6)を公開した。</p></div></div>]]></description>
-			<pubDate>Fri, 16 Nov 2018 19:03:09 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】富士通、Intelディスプレイドライバー64bit版</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1153841.html</link>
 			<description><![CDATA[<div><div><p>　富士通は、Intelディスプレイドライバー 64ビット版を公開した。</p></div></div>]]></description>
@@ -123,6 +105,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1154054.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1154/054/01.png"></div></div><span class="caption">定義改定の概要</span></div></div></div></div><p>　<a href="https://www.bipm.org/en/worldwide-metrology/cgpm/" class="n" target="_blank">国際度量衡総会</a>(CGPM: Conférence Générale des Poids et Mesures)にて16日(仏国時間)、国際単位系(SI)のうち、キログラムを含む4単位の定義改定が審議され、新定義が採択された。新定義は2019日5月20日から適用される。</p><p>　定義が改定されたのは、質量の「キログラム(kg)」、物質量の「モル(mol)」、熱力学温度の「ケルビン(K)」、電流の「アンペア(A)」の4つ。キログラムについては、約130年ぶりの定義改定となる。</p><p>　キログラムは「国際キログラム原器の質量を1kg」として規定されていたが、光子のもつエネルギーと振動数の比例関係をあらわす比例定数であるプランク定数(h)を「6.62607015×10<span class="em sup">-34</span>Js」として定め、この値をもとに定義される。</p><p>　モルは従来「0.012kgの炭素12に存在する原子の数に等しい要素粒子を含む系の物質量」とされていたが、新定義では「6.02214076×10<span class="em sup">-23</span>の要素粒子を含む」というかたちに改められた。</p><p>　ケルビンは「水の三重点の熱力学温度の273.16分の1」という定義から、ボルツマン定数(k)を「1.380649×10<span class="em sup">-23</span>J/K」として定め、その値をもとに定義。</p><p>　アンペアは、あらたに電気素量(e)を「1.602176634×10<span class="em sup">-19</span>C」として規定し、これをもとに設定される。</p><p>　このほかの時間(秒)や長さ(メートル)、光度(カンデラ)の定義については、従来どおりの定義が維持される。</p><p>　この定義変更によって、すべての計量単位が「原器」という器物に依存せず定義されることとなり、長期的には、微小質量を扱うナノテクノロジー、バイオテクノロジーや次世代半導体開発、極低温・超高温制御が必要な材料開発などで求められる高精度な測定の実現により、新たな産業の創出などの恩恵がもたらされることが期待される。</p><p>　今回の定義改定には、国立研究開発法人 産業技術総合研究所(以下産総研)が貢献しており、キログラムの定義について、2017年に各国の国家計量標準機関が測定したプランク定数の値から、今回の調整値が決定されているが、このとき使用されたデータ8つのうち、産総研では4つの測定に関わっている。</p><p>　産総研の理事長を務める中鉢良治氏はリリースにて、産総研は、前身機関を含めると約130年間に渡ってキログラム原器を保管し、計量標準の中核機関としての役割を務めてきたことに触れると同時に、プランク定数の測定に産総研が大きく貢献したことは、産総研が中心となって培ってきた日本の測定技術が、世界的に見ても非常に高い水準にあることを意味するとコメント。</p><p>　産総研計量標準総合センターの研究者たちの「科学、技術の基盤を支える」という高い志と、つねに究極の精度を追求する努力が、定義改定への貢献となって結実したものであり、産総研理事長として、また1人の技術者として、研究者たちの成果と貢献に対し、心より敬意を表したいと述べたほか、今後も日本の計量標準の中心として、高度な測定技術の開発・維持に努め、科学・技術の発展に貢献していくとしている。</p></div></div>]]></description>
 			<pubDate>Mon, 19 Nov 2018 15:00:36 +0900</pubDate>
+		</item>
+		<item>
+			<title>Cooler Master、Ryzen Threadripper公式CPUクーラーなど </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1154075.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1154/075/01_o.jpg"></div></div><span class="caption">Wraith Ripper</span></div></div></div></div><p>　<a href="https://apac.coolermaster.com/jp/" class="n" target="_blank">Cooler Master</a>は、AMDの第2世代Ryzen Threadripper公式CPUクーラー「Wraith Ripper」と、PCケース「MasterCase H500P Mesh White」、ゲーミングキーボード「MasterKeys MK750」をそれぞれ11月21日に発売する。価格はすべてオープンプライスで、税別店頭予想価格は順に16,800円、23,180円、16,500円。</p><p>　Wraith Ripperは、AMD製「Ryzen Threadripper 2990WX」専用に設計されたCPUクーラー。高TDPのThreadripperを冷却するために、最大2,750rpmの120mmファンと約45×76mmと大型のベース部、7本のヒートパイプに放熱性を高めるブラック塗装を施した2つのヒートシンクを備える。</p><p>　取り付けはブラケットやバックプレートを使用せず、クーラー本体に組み込まれたネジを上部から締める「Threadripperマウンティング」とよばれるマウント方式を採用した。</p><p>　本体サイズは132.3x150x 60.5mm(幅×奥行き×高さ)で、対応ソケットはAMD TR4。付属ファンの回転数は最大2,750rpm、ノイズレベルは最大38dBA。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1154/075/02_o.jpg"></div></div><span class="caption">MasterCase H500P Mesh White</span></div></div></div></div><p>　MasterCase H500P Mesh Whiteは、カスタム性やメンテナンス性を重視した大型PCケース。すべてのパネルを簡単に取り外すことができ、MOD用にも最適としている。</p><p>　前面パネルにメッシュ素材を使用し、前面に2基の200mmファンを搭載するなど、通気性の高さも特徴としている。搭載可能なファンは天面に120/140mm×3、または200mm×2、前面に120/140mm×3、または200mm×2、背面に120/140mm×1。</p><p>　ドライブベイは2.5/3.5インチ×2、2.5インチ×2。対応マザーボードフォームファクタはExtended ATX/ATX/microATX/Mini-ITX。前面インターフェイスはUSB 3.0×2とステレオミニジャック。本体サイズは212×544×542mm(同)。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1154/075/03_o.jpg"></div></div><span class="caption">MasterKeys MK750</span></div></div></div></div><p>　MasterKeys MK750は、マグネット装着式リストレストを備えるゲーミングキーボード。キースイッチにはドイツ製のCherry MXスイッチを採用し、バリエーションとしてクリック感のある青軸(GKCL1)とリニアストロークの赤軸(GKCR1)を用意した。</p><p>　RGBイルミネーション機能も搭載し、各キーごとに搭載されたRGB LEDに加え、本体側面のサイドと手前部分を囲むようにRGBライトバーも備えるほか、マクロ機能も搭載。</p><p>　キー配列は日本語、接続インターフェイスはUSBで、ケーブル長は1.8m。サイズは437.75×132.25×42mm(幅×奥行き×高さ)で、重量は1,003g。</p></div></div>]]></description>
+			<pubDate>Mon, 19 Nov 2018 16:15:08 +0900</pubDate>
+		</item>
+		<item>
+			<title>QPAD、Pixart 3389センサー採用のゲーミングマウス </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1154086.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1154/086/1_o.jpg"></div></div><span class="caption">QPAD DX-30 Pro Gaming Optical Mouse</span></div></div></div></div><p>　株式会社フェルマーは、Pixart 3389センサーを採用した中国QPAD製のゲーミングマウス「DX-30」を直販サイト「ふもっふのおみせ」で販売開始した。価格は8,980円。</p><p>　Pixart 3389光学式センサーを搭載し、最大解像度16,000dpi、最高加速度50G、最高速度400ipsを実現。Cortex-M0プロセッサと128KBのオンボードメモリを搭載し、ロゴのRGB LED発光や、ボタンの機能などをカスタマイズできる。</p><p>　底面のソールは標準で円形で小型のものがついているが、同梱している大きなソールに変更可能。また指を滑りにくくするシリコン製グリップを備え、交換用グリップも1つ同梱する。</p><p>　ボタンは7基、リフレッシュレートは1,000Hz。本体サイズは68×124.8×39mm(幅×奥行き×高さ)、重量は104g。</p></div></div>]]></description>
+			<pubDate>Mon, 19 Nov 2018 16:20:32 +0900</pubDate>
+		</item>
+		<item>
+			<title>ZOWIE、最短応答速度1msのドスパラ専売24型ゲーミング液晶 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1154105.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1154/105/01_o.jpg"></div></div></div></div></div></div><p>　<a href="http://www.benq.co.jp/" class="n" target="_blank">ベンキュージャパン株式会社</a>は、ZOWIEブランドの24型ゲーミング液晶ディスプレイ「RL2455S」をドスパラ専売で11月23日より発売する。価格はオープンプライスで、店頭予想価格は税込2万円前後。</p><p>　本機種は<a href="https://pc.watch.impress.co.jp/docs/news/1121953.html" class="n" target="_blank">従来モデルのRL2455T</a>に、同社の上位機種「XL2536」などに搭載されている、色の鮮やかさを調整してゲーム内の敵や照準を合わせやすくするという「Color Vibrance」機能を新たに搭載。</p><p>　独自の高速応答技術「Advanced Motion Accelerator」により中間色応答速度1msを実現。また、フリッカーフリーバックライト、元プロゲーマーと共同開発した「ゲームモード」、暗いシーンでの視認性を高める「Black eQualizer」機能なども搭載する。</p><p>　おもな仕様は、パネルがTN、解像度が1,920×1,080ドット(フルHD)、表示色数が約1,677万色、応答速度が5ms(中間色1ms)、輝度が250cd/平方m、コントラスト比が1,000:1(最大1,200万:1)、視野角が上下160度/左右170度。</p><p>　インターフェイスはミニD-Sub15ピン、DVI-D、HDMI×2、音声入出力。本体サイズは579×189×435mm(幅×奥行き×高さ)、重量は約4.1kg。</p></div></div>]]></description>
+			<pubDate>Mon, 19 Nov 2018 16:46:43 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
