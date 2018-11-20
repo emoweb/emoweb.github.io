@@ -5,29 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ARM版Windows 10向け開発ツールとSDKを正式リリース。Microsoft Storeに提出も可能に
-</title>
-			<link>https://japanese.engadget.com/2018/11/18/arm-windows-10-sdk-microsoft-store/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F236230e0-ebac-11e8-8f7f-478acffe0fc2&client=a1acac3e1b3290917d92&signature=bc07fb5d3a527e423023e82be9dae993100d9490" />
-11月15日（米現地時間）、マイクロソフトはVisual Studio 15.9を正式リリースし、ARM版Windows 10向けに64ビットアプリを作成できるSDK（ソフトウェア開発キット）とツールを公開しました。
-
-これと合わせて、Microsoft StoreはARM64アーキテクチャ向けに開発されたアプリケーションの提出を正式に承認。各社から発売されているARM版Windows 10搭載ノートPCの機能向上が図られそうです。
- ]]></description>
-			<pubDate>Sun, 18 Nov 2018 23:30:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    待望の新INFOBAR、発売日がついに決定
-</title>
-			<link>https://japanese.engadget.com/2018/11/19/infobar/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2Ff4567a90-eaf7-11e8-bfde-5ad662cfcd18&client=a1acac3e1b3290917d92&signature=63f4a570cfedcbfb17a60b3002e26c9e9c84bab6" />
-
-au（KDDI、沖縄セルラー）は、au 4G LTE対応のフィーチャーフォン「INFOBAR xv」を11月29日に発売します。
-
-「INFOBAR xv」は、初代「INFOBAR」の発売から15周年を記念したフィーチャーフォンです。プロダクトデザイナー深澤直人氏が手がけたデザインと、特徴的なカラーリングを継承しつつ、フレームレスのタイルキーをシリーズで初めて実現。より初期コンセプトに近い形状に仕上げられています。
- ]]></description>
-			<pubDate>Mon, 19 Nov 2018 00:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    iPad Proのスマートキーボードがトラックパッドになる？アップルの特許出願が明らかに
 </title>
 			<link>https://japanese.engadget.com/2018/11/19/ipad-pro/</link>
@@ -757,6 +734,65 @@ iPad Pro単体でイラストレーションを作成できるツールとなっ
 
  ]]></description>
 			<pubDate>Tue, 20 Nov 2018 04:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Windows 10最新版（バージョン1809）でiCloudの使用に不具合。対象ユーザーへの更新をブロック中
+</title>
+			<link>https://japanese.engadget.com/2018/11/20/windows-10-1809-icloud/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=1600%2C1063%2C0%2C0&quality=85&format=jpg&resize=1200%2C797&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2Fe250cf80-ec91-11e8-8fdf-b738374964df&client=a1acac3e1b3290917d92&signature=e7a403b8362717dc37d5f8e125552c6a0a2ba7de" />
+アップデートでファイルが削除されてしまうとのことで、大きな話題になったWindows 10 October Update (1809)。その不具合も修正され、アップデート配信が再開されていますが、今度はiCloud for Windowsの使用に問題が発生しています。
+
+ 
+関連記事：ファイル削除問題修正のWindows 10アップデート公開。まずInsiderで検証、後から一般へ
+
+iColud for Windowsの最新版（7.7.0.27）とバージョン1809に互換がなく、iCloudをインストールしたPCをアップデートすると、共有アルバムを更新または同期する際に問題が発生する可能性があるとのこと。また、バージョン1809アップデート後にiCloudをインストールしようとすると、互換がないとのエラーが表示されます。
+
+ 
+
+
+これを受け、MicrosoftはiColud for WindowsがインストールされているWindows 10への、バージョン1809の配信をブロックしたと発表しました。この問題が解決するまで、更新アシスタントやメディア作成ツールを使ってのアップデートも推奨しないとしています。
+
+Microsoftは、バージョン1809に対応したiCloud for Windowsを提供できるよう、Appleと協力して問題に対応しているとのことです。
+
+なかなか落ち着かないWindows 10 October Update (1809)ですが、これ以外にもF5 NetworksのVPNサービスでネットワーク接続が失われる、Radeon HD2000およびHD4000シリーズのGPUが正常に動作しないなどの問題が報告されています。
+
+ 
+ 
+ ]]></description>
+			<pubDate>Tue, 20 Nov 2018 04:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Amazon、サイバーマンデーでYouTuberを起用したライブコマースを展開
+</title>
+			<link>https://japanese.engadget.com/2018/11/20/amazon-youtuber/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2018-11/c4b53370-ec92-11e8-bfd7-8aab506a5512" />Amazonは11月20日「Amazon Holiday 2018サイバーマンデー」記者発表会を開催しました。2018年のCyber Mondayは12月7日（金）18時00分から12月11日（火）午前1時59分まで開催予定です。
+
+（代表画像は左からアマゾンジャパン バイスプレジデント前田宏氏、YouTuberのMasuoTVさん、コンシューマーマーケティング事業本部長の鈴木浩司氏）
+
+
+サイバーマンデーに合わせてアマゾンジャパン初の試みとして、既に米国で展開しているライブコマース施策を展開することを發表しました。サイバーマンデーで展開される商品を動画クリエーターが紹介する「Amazon Live Channel」をYouTubeやTwitter、Facebookにて配信予定です。YouTuberのMasuoTVさんが会場に登場してAmazon史上最大のおせちの動画収録を公開で実施しました。
+
+ 
+
+YouTuberのMasuoTVさんがAmazon史上最大のおせち紹介動画を公開収録中です！ pic.twitter.com/creOfrNni6
+- 田沢梓門/Engadget JP (@samebbq) 2018年11月20日
+
+▲Amazon.co.jp限定商品の「笑顔の食卓 匠 林裕人監修 スーパー超特大おせち」約30人前で39万円。YouTuberにぴったりなド迫力な商品ですね
+
+今年で7回目となるCyber Mondayのビッグセールでは日用品や家電、食品、ファッションアイテムなど数多くの人気商品が通常よりもお買い得な価格で購入できます。セールの対象商品は10万点以上とのこと。
+
+
+▲「特選タイムセール」では、レビューが星4つ以上の製品を中心に厳選して在庫を豊富に取り扱うそうです
+
+
+▲「数量限定タイムセール」では日用品を中心に5分ごとにAmazonが厳選した商品が続々と登場します
+
+
+
+
+さらに今回初の試みとして、ただ単にセールを展開するのではなく、サイバーマンデー限定の製品も販売予定。例えば、「レゴブースト クリエイティブ・ボックス」とプログラミング講座がセット商品やODIVAショコラティエが手作りしたクリスマスギフトをラインアップしています。
+ ]]></description>
+			<pubDate>Tue, 20 Nov 2018 05:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
