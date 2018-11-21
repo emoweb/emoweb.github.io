@@ -5,18 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>経産省、九電の出力抑制量の低減に向け4対策を公表</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/111411691/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><div class="bpbox_right" style="width:200px;"><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/111411691/?SS=imgview&amp;FD=-1744177755" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/111411691/1114tensou1.jpg?__scale=w:200,h:141&amp;_sh=0350ac08a0" width="200" height="141" alt=""></a></div><div>転送遮断システムの概念図</div><div>（出所：経産省）</div><div>[画像のクリックで拡大表示]</div></div></div><p>　経済産業省は11月12日、新エネルギー小委員会・系統ワーキンググループ（WG）を開催し、九州電力の実施している太陽光と風力発電に対する出力抑制（出力制御）に対応し、抑制量を削減するための4つの対策を公表した。</p><p>　九電の出力制御は、法令で定められた「優先給電ルール」に基づき、大まかに「火力の制御→揚水の活用（汲み上げ）→関門連系線の活用（域外送電）」という対応を取ったうえで、抑制指令を出している。</p><p>　そこで、追加的な対策として、（1）連系線のさらなる活用、（2）オンライン制御の拡大、（3）火力などの最低出力の引き下げ、（4）出力制御における経済的調整——を挙げた。</p><p>　「連系線の活用」に関して、これまで関門連系線に流せる再生可能エネルギーの量は45万kWだったが、「転送遮断システム」による電源制限量を増やすことで135万kWまで増やせるという。同システムは、連系線に事故があった場合に需給バランスが崩れないように瞬時に九州内の再エネ電源などを遮断するもので、太陽光や風力、バイオマスなど15カ所の電源を対象に、事故時の必要制御量を瞬時に分析して遮断する仕組みという。</p><p>　「オンライン制御」とは、出力抑制に伴う太陽光発電所の停止・再稼働を遠隔で実施するもの。現在、旧ルール事業者のうち高圧連系事業者の多くは、サイト現場で人がパワーコンディショナー（PCS）を操作することで停止・再稼働させている。その場合、前日16時に抑制量を確定し発電事業者が9～16時の7時間の停止・稼働の作業を行う。</p><p>　遠隔制御装置を導入してオンライン制御に切り替えた場合、抑制日当日の2時間前に抑制量を確定し、必要時間帯で自動制御するため、抑制量が減ることになる。旧ルール事業者は30日ルールが適用され、1日何時間、抑制されても「1日」分とカウントされる。このため再エネ事業者にとっても機会損失の低減と人件費削減になる。</p><p>　「火力などの最低出力の引き下げ」とは、本来、定格出力30％以下に下げるべき6事業者（混焼バイオマス2社、専焼バイオマス発電3社、火力1社）の最低出力が55～80％に留まっていることから、「他事業者との公平性、太陽光・風力の抑制量低減の観点から可及的速やかに（少なくとも）最低出力50％への引き下げを図るべき」としている。</p><p>　「出力制御における経済的調整」とは、実務上の出力抑制は確実に抑制できるオンライン制御可能な再エネ設備に限定し、抑制に伴う再エネ事業者の機会損失について事後的に抑制対象の事業者全体に均等に割り振る仕組みを指す。抑制の確実性、迅速性が高まり、抑制量の低減と運用効率化につながることから導入に向け検討を進めるとした。</p></div>]]></description>
-			<pubDate>Wed, 14 Nov 2018 17:58:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>太陽光と水素で「CO2排出ゼロ」、日本郵船のコンセプトシップ</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/111511692/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><div class="bpbox_right" style="width:200px;"><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/111511692/?SS=imgview&amp;FD=-1677200681" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/111511692/1115nyk_01.jpg?__scale=w:200,h:112&amp;_sh=0e80cc0450" width="200" height="112" alt=""></a></div><div>NYKスーパーエコシップ2050</div><div>（出所：日本郵船）</div><div>[画像のクリックで拡大表示]</div></div></div><p>　日本郵船グループは、船舶の脱炭素化に向けた新コンセプトシップ「NYKスーパーエコシップ2050」を考案したと発表した。太陽光パネルを搭載し、燃料には再生可能エネルギー由来の水素を使用することで「CO<sub>2</sub>排出量ゼロ」を実現する。</p><p>　自動車専用船をモデルにした2050年のコンセプトシップ。再エネ由来の水素を燃料とし、排熱も利用する高効率な燃料電池システムを用いて推進する。太陽光パネルの設置により長距離の航海にも対応できる。</p><p>　空気を船底に送り込み泡を発生させて海水の摩擦抵抗を減らす空気潤滑システムや、従来のプロペラの代わりに複数のフラップ状のフィンをイルカの尾のように動かす高効率な推進装置などにより、現在運航される一般的な艦船と比べて70％のエネルギー削減が可能という。</p><p>　船体構造には数学的・力学的に最適化された形状を採用し、軽量化のために素材には複合材などを使用する。軽量になると、船体が不安定になるため、コンピューター制御のジャイロスタビライザーなど、揺動を軽減する装置を導入し、安定性を維持する。</p><p>　このほかにも、船体の状況をデジタル上に再現するデジタルツイン技術により、陸上専門家によるリアルタイムな分析、事故や不具合を未然に防ぐ最適な整備計画を立案する。船体の大きさは、全長199.9m、全幅49.0m、計画喫水9.0m、エアードラフト31.0m。</p><p>　同社グループが2018年度からスタートした中期経営計画「Staying Ahead 2022 with Digitalization and Green」の取り組みの一環。日本郵船の100％子会社であるMTI（東京都千代田区）とフィンランドの船舶技術コンサルタント会社Elomaticが2009年に共同発表した「NYKスーパーエコシップ2030」の要素技術を見直した。</p></div>]]></description>
-			<pubDate>Thu, 15 Nov 2018 00:44:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>視覚に頼らない没入体験、エイベックスの音声AR</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/column/15/111000020/111300035/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -243,6 +231,18 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/column/15/286991/112100096/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><h4>中間選挙とともに知事選と住民投票</h4><p>　11月6日に行われた米国の中間選挙では、民主党と共和党の上院・下院での議席割合の行方が話題を集めた。実は、この選挙では、太陽光発電を含む再生可能エネルギー政策の今後に直接的に影響する各州レベルの住民投票と知事選挙も並行して実施された。</p><p>　これまで米国の太陽光発電を含めた再エネ導入の主な牽引役はRPS（再エネポートフォリオ基準＝Renewable Portfolio Standard）だった。RPSは、全ての電気事業者または電力小売事業者に対して、電力販売量の一定割合を再エネ電源から供給することを義務付ける制度である。RPSは州レベルで法律化され、現在29州とワシントンDCで実施されている（<b>図1</b>）。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/column/15/286991/112100096/?SS=imgview&amp;FD=2638409" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/column/15/286991/112100096/zu1.jpg?__scale=w:500,h:204&amp;_sh=0830b20360" width="500" height="204" alt=""></a></div><div>図1●米州別のRPS義務量</div><div>（出所：Berkeley Lab）</div><div>[画像のクリックで拡大表示]</div></div></div><p>　米国ではさらなる「低炭素化」または「脱炭素化」を目指し、さらには、昨年6月のトランプ大統領の「パリ協定からの離脱」表明などにより、多くの州でRPS義務量の引き上げなど、州レベルでの気候変動対策を強化する動きが強まっている。</p><p>　実際、ハワイ州では既に「再エネ100％」を義務化する法案が成立しており、カリフォルニア州でもRPSを「2030年までに60％」に引き上げ、さらに「2045年までにゼロ・カーボン電力」義務が、今年9月に可決されたばかりである。</p><p>　RPSは主に州議会で法律化されるが、コロラド州では、2004年11月に米国で初めて住民投票によってRPSを設定した。同州の住民が署名を集めて請求を行い、 法律案を提案し、その賛否を問うために住民投票を行う「住民投票制度の発案（イニシアチブ）」の仕組みを活用した。</p></div><li><a href="https://tech.nikkeibp.co.jp/dm/atcl/column/15/286991/112100096/?P=2">次へ</a></li>]]></description>
 			<pubDate>Wed, 21 Nov 2018 17:23:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>全電力を太陽光で賄うアリーナ、米スポーツ界でSDGs活発化</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/column/15/052000044/110200075/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Thu, 22 Nov 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ドローンの空撮動画で見つかる「太陽光パネルのバックシート剥がれ」</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/302961/112000099/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　今回のシリーズでは、エネテク（愛知県小牧市）が、太陽光発電所の点検やO&amp;M（運用・保守）サービスを担う中で対応してきたトラブル事例を紹介している。同社は、2007年に設立された電気設備工事会社で、太陽光発電の施工も多く担当してきた。O&amp;Mサービスでは、点検時に原因分析だけでなく、状況によっては、その場で不具合の原因を解消するといったワンストップの対応が特徴となっている（<a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/356325/013000017/?ST=msb" target="_blank">関連コラム</a>）。</p><p>　今回は、太陽光パネルの「バックシート剥がれ」の起きた発電所を取り上げる。最近、ドローン（無人小型飛行体）による熱分布画像の空撮で発見しやすい不具合の一つとなっているという。</p><p>　「バックシート剥がれ」は、文字通り、太陽光パネルの裏面を保護する役割を担っている樹脂製のバックシートが、パネルから浮くように剥がれてしまう状態を指す。</p><p>　エネテクがドローンによる太陽光パネルの点検を受託し、この発電所に出向いて熱分布の画像を撮影したところ、大きく円状に温度分布の異常を示したパネルを発見した（<b>動画1</b>）。</p><div><div class="bpimage_center" style="width:500px;"><div>動画1●広範囲に切り替わるころに丸い温度異常が写っている</div><div><iframe width="500" height="281" src="https://www.youtube.com/embed/SojxEzmDkPk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><div>ドローンで発見した太陽光パネルのバックシート剥がれ（出所：エネテク）</div></div></div><p>　この異常の様子を把握し、原因を推測するために、すぐに地上からこの太陽光パネルに近づいて、状況を確かめた。</p><p>　表面からこの太陽光パネルの該当箇所を見てみると、通常は結晶シリコンのセル（発電素子）間に見える白い線が見えない状態だった（<b>図1</b>）。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/302961/112000099/?SS=imgview&amp;FD=1420927604" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/302961/112000099/01.jpg?__scale=w:500,h:375&amp;_sh=0160360f90" width="500" height="375" alt=""></a></div><div>図1●セル間に見えるはずの白い線が見えない</div><div>表面の様子（出所：エネテク）</div><div>[画像のクリックで拡大表示]</div></div></div></div><li><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/302961/112000099/?P=2">次へ</a></li>]]></description>
+			<pubDate>Thu, 22 Nov 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
