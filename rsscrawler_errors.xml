@@ -5,9 +5,42 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2018-11-22 11:11:55 +0900</title>
+			<title>2018-11-22 12:11:51 +0900</title>
 			<link> </link>
-			<description><![CDATA[<strong>itpro</strong><br/><p>#&lt;RSS::NotWellFormedError: This is not well formed XML
+			<description><![CDATA[<strong>kaden_watch</strong><br/><p>#&lt;RSS::NotWellFormedError: This is not well formed XML
+#&lt;ArgumentError: invalid byte sequence in UTF-8&gt;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rexml/source.rb:220:in `match&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rexml/source.rb:220:in `match&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rexml/parsers/baseparser.rb:346:in `pull_event&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rexml/parsers/baseparser.rb:185:in `pull&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rexml/parsers/streamparser.rb:19:in `parse&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rexml/document.rb:242:in `parse_stream&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/rexmlparser.rb:18:in `_parse&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:165:in `parse&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/forwardable.rb:204:in `parse&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:80:in `parse&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:60:in `get_feed&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:166:in `pipe_procedure&#39;
+/data/src/rss_crawler/src/pipes/simple_pipes.rb:11:in `block (2 levels) in &lt;top (required)&gt;&#39;
+/data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
+/data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;
+...
+Exception parsing
+Line: 118
+Position: 11905
+Last 80 unconsumed characters:
+&lt;![CDATA[　アメリカの家電メーカー・SharkNinja(シャークニンジャ)が、コードレススティッククリーナー「EVOFLEX(エヴォフレックス)」を引っ&gt;
+in
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/rexmlparser.rb:20:in `rescue in _parse&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/rexmlparser.rb:17:in `_parse&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:165:in `parse&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/forwardable.rb:204:in `parse&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:80:in `parse&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:60:in `get_feed&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:166:in `pipe_procedure&#39;
+/data/src/rss_crawler/src/pipes/simple_pipes.rb:11:in `block (2 levels) in &lt;top (required)&gt;&#39;
+/data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
+/data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p><br/><br/><strong>itpro</strong><br/><p>#&lt;RSS::NotWellFormedError: This is not well formed XML
 Missing end tag for &#39;meta&#39; (got &quot;head&quot;)
 Line: 62
 Position: 1285
@@ -24,7 +57,7 @@ in
 /data/src/rss_crawler/src/pipes/itpro.rb:38:in `block in &lt;top (required)&gt;&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
-			<pubDate>Thu, 22 Nov 2018 11:11:55 +0900</pubDate>
+			<pubDate>Thu, 22 Nov 2018 12:11:51 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
