@@ -5,18 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Googleの新OS「Fuchsia」がKirin 970をサポート。Honor Playでテストを実施
-</title>
-			<link>https://japanese.engadget.com/2018/11/25/google-os-fuchsia-kirin-970-honor-play/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2Fb9377dc0-f07d-11e8-bf7e-293fdeeac887&client=a1acac3e1b3290917d92&signature=1a18e45e0f463160c53a6d311b0aefca9e64d500" />
-オープンソースで開発されているGoogleの新OS「Fuchsia」がサポートするSoCに、HUAWEI傘下のHiSilicon製モデル「Kirin 970」が追加されました。同SoCを搭載するHonor Playでテストが行われたとのことです。
-
-同SoCはHUAWEIの高級スマートフォンに搭載されているモデル。代表的なところでは、テスト対象となったHonor Playの他に、P20 ProやP20、Mate 10 Pro、nova 3などに搭載されています。
- 
- ]]></description>
-			<pubDate>Sun, 25 Nov 2018 05:35:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    11月26日のできごとは「Optio NB1000発売」「EX-ZR10発売」ほか：今日は何の日？
 </title>
 			<link>https://japanese.engadget.com/2018/11/25/11-26-optio-nb1000-ex-zr10/</link>
@@ -506,6 +494,63 @@ OPPOの新製品「R17 Pro」「AX7」が発表になりました。どちらも
 今回の審議は、すでに今年6月に実施が決まっていたもの。議論の入り口は、まず「原告の消費者団体が、独占禁止法によりアップルを訴えられるのか」という当事者適格が問われることになります。
  ]]></description>
 			<pubDate>Mon, 26 Nov 2018 05:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    OPPOの新スマホを「ディスプレイ内蔵指紋センサー」か「背面指紋センサー」で選ぶならどっち派？
+</title>
+			<link>https://japanese.engadget.com/2018/11/26/oppo/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F65eeba40-f14d-11e8-bff7-9a3c0ef78390&client=a1acac3e1b3290917d92&signature=e54cdfb2b752c72a3cabe8f3a0ad7a6ffd3434b6" />
+
+2018年11月26日に中国スマホメーカーのOPPOが発表した「R17 Pro」と「AX7」の2機種ですが、本稿では、詳しい特徴や仕様を抜きにして、「ディスプレイ内蔵指紋センサー」か「背面指紋センサー」で選ぶならどちらが良いのか考えてみます。
+
+
+▲「R17 Pro」は税別6万9880円。
+
+
+
+▲「AX7」は税別2万9880円。
+
+
+
+▲上の写真は「R17 Pro」のディスプレイ部分。
+
+「R17 Pro」は、UQ mobile から発売された「R17 Neo」と同じく、ディスプレイの下部に指紋を読み取るセンサーを搭載しています。
+
+「ディスプレイ指紋認証機能」の仕組みとしては次のようになります。
+
+まず、ディスプレイ内部から指紋に向けてライトをあて、指紋を反射させます。
+
+ガラス・有機ELガラス層・有機EL発光層などを含むパネルを通って、さらにその下に内蔵されたCMOSセンサーで指紋情報を読み取り、登録された指紋なのかを識別します。
+
+内蔵される指紋センサーは2ミリメートル四方あり、画像サイズは12.5マイクロメートルほど。
+
+OPPOによると、これらの組み合わせにより、より正確に早く認証できるとしていますが、実際に試したところ、「R17 Pro」の認証速度はだいたい1秒ほど、「AX7」は0.7秒ほどでした。背面に指紋センサーを搭載した「AX7」の方が、「R17 Pro」よりも体感的に速いと感じます。
+
+
+
+「R17 Pro」では、本体のロック中は、画面上にセンサーの位置を示すアイコンが表示されます。就寝時にアイコンが眩しく感じる場合、設定でOFFにすることも可能です。
+
+
+
+▲「AX7」の背面に搭載された指紋認証センサー部分。
+
+「AX7」では、指紋認証センサーは背面カメラのすぐ下に搭載されています。丸型のセンサーは、リングフレームで囲われており、触ったときに、センサーであることをはっきりと認識できるので画面を見ながら認証できます。
+
+しかし、持ち方によっては、人差し指が届きにくいと感じました。本体背面にケースを付けると、センサー部分に触りにくくなってしまうかもしれません。
+
+このように、どちらの認証センサーが好みなのかは、人によってそれぞれでしょうが、速度の違いも比較したからわかるのであって、単独で使えばこんなものかと思うだけかもしれません。また、たとえばスマホをテーブルやスタンドに立てかけて使うケースが多ければ、背面認証より画面認証のほうが便利でしょう。使い方によって選ぶのもありだと思います。
+
+なお、「R17 Pro」と「AX7」にはこの他にもいろいろと違いがありますので、過去の記事を是非チェックしてみて下さい。
+
+ 
+関連記事：
+OPPOが新スマホ「R17 Pro」 画面内指紋センサ・機械絞りカメラ搭載
+OPPOが3万円台スマホ「AX7」を12月中旬に発売、価格に似合わぬ高級感
+
+
+ 
+ ]]></description>
+			<pubDate>Mon, 26 Nov 2018 05:20:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
