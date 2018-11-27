@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ブロックチェーンとプライバシーは両立可能か</title>
-			<link>https://blog.kaspersky.co.jp/blockchain-and-privacy/21919/</link>
-			<description><![CDATA[ブロックチェーンの目的は、データを確実かつ永続的に保存しておくことです。そのため、昨今のプライバシー保護規制のトレンドとは相いれないことがあります。]]></description>
-			<pubDate>Mon, 12 Nov 2018 01:00:17 +0000</pubDate>
-		</item>
-		<item>
 			<title>SMSによる2段階認証はベストな選択肢ではない — それに代わる方法とは</title>
 			<link>https://blog.kaspersky.co.jp/2fa-practical-guide/21822/</link>
 			<description><![CDATA[なぜSMSを使った2段階認証が最善の選択肢ではないのか、その他にどのような選択肢があるのか、考えてみましょう。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/twitter-cryptocurrency-scams/21980/</link>
 			<description><![CDATA[Twitter上での仮想通貨詐欺は日に日に高度化し、ちょっと見ただけでは本物と区別がつかなくなっています。]]></description>
 			<pubDate>Mon, 26 Nov 2018 01:00:58 +0000</pubDate>
+		</item>
+		<item>
+			<title>パブリックIPアドレスの危険性</title>
+			<link>https://blog.kaspersky.co.jp/public-ip-dangers/21999/</link>
+			<description><![CDATA[パブリックIPアドレスとは何か、どういうときに必要になるかもしれないのか、どういったリスクが伴うのかを開設します。]]></description>
+			<pubDate>Tue, 27 Nov 2018 01:00:38 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
