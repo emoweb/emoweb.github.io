@@ -5,30 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    塩水とマグネシウムで発電する「マグネ充電器」発売。スマホを約10回充電可能
-</title>
-			<link>https://japanese.engadget.com/2018/11/27/10/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2Fdca2b990-f1fa-11e8-bf5b-b99eb9d4a396&client=a1acac3e1b3290917d92&signature=e4b483b68b5269c6a1a6a877acbdb063df3e0a28" />
-家庭用電気製品を取り扱うSTAYERホールディングスが、塩水で発電可能なLEDランタン兼充電器「マグネ充電器」を11月27日に発売します。正規販売店での価格は1万1500円（税込）。
-
-STAYERは以前から、塩水とマグネシウムを利用して発電するLEDランタンを販売しており、同種のものは他社からも出ていました。それらの製品でもUSB機器の充電は可能でしたが、出力が低く、スマートフォンの充電を行うことはできませんでした。
-
-その点、マグネ充電器は4.5V～5.4V/200～500mAの出力を確保しており、スマートフォンの充電にも使えます（高い電圧・電流を要求するものは充電できない可能性もあります）。
-
-LEDランタンとしての性能は、前照灯(懐中電灯モード) 強130lm、弱70lm、周囲灯(ランタンモード) 100lm。
-
-4本のマグネシウム棒が付属しており、発電量は1本あたり35Wh、4本で計140Wh。2500mAhのスマートフォンを1回フル充電し、LEDランタンとして8時間使用。これを6日間、つまりスマートフォンを6回フル充電し、48時間LEDの点灯が可能とのこと。スマートフォンの充電だけであれば約10回、LEDランタンとしてだけなら96時間以上利用できるとしています（いずれもマグネシウム棒を4本使用した場合）。
-
-なお、発電にはマグネシウム棒のほか、付属の塩（1回あたり30g）と水を使用しますが、水が確保できない場合は海水や川水、尿などでも発電可能です。
-
-わざわざ塩水とマグネシウムを使って発電しなくても、一般的なモバイルバッテリーや乾電池でも良さそうな気はしますが、この方式のメリットは長期保管にあります。リチウムイオンを使ったモバイルバッテリーや乾電池は、自然放電してしまいいざというときに使えない恐れもありますが、マグネ充電器は通常の保存状態であれば10年以上の保存が可能とのこと。
-
-日常的に使う製品ではありませんが、非常用持出袋に入れておくと、いざというときに安心できるほか、キャンプなどのアウトドアでも活躍してくれるかもしれません。
-   
- ]]></description>
-			<pubDate>Tue, 27 Nov 2018 02:30:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    ISO、ドローン関連の標準規格草案を発表
 </title>
 			<link>https://japanese.engadget.com/2018/11/27/iso/</link>
@@ -761,6 +737,28 @@ GmailのプロダクトマネージャーPaul Lambert氏によると、ある企
 動画ストリーミングサービスNetflixが、箱庭ゲームマインクラフトの世界をそのままアニメーション化した「マインクラフト: ストーリーモード」を公開しました。記事執筆時点で全5話のうち3話が視聴可能で、後半の2話は12月5日より公開されます。
  ]]></description>
 			<pubDate>Wed, 28 Nov 2018 03:50:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    GoogleのワンタップBluetooth接続「Fast Pair」、複数デバイスに対応。Chromebookもサポート
+</title>
+			<link>https://japanese.engadget.com/2018/11/28/google-bluetooth-fast-pair-chromebook/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F3dfd49e0-f2cc-11e8-ab7c-da2f3c3b69b7&client=a1acac3e1b3290917d92&signature=3d015b7140e0056ebba7220bba03cd19a83e8175" />
+Googleが昨年11月に発表したFast Pair機能をアップデートし、同じGoogleアカウントを使用しているデバイスでも同時にペアリングが行われるようになりました。
+
+AppleのAirPodsは、iPhoneやiPad、MacBookなどに近づけるだけでペアリングが自動的に行われますが、Fast PairはこれのGoogle版といったもの。W1チップのようなカスタムハードウェアを使う代わりに、Bluetooth Low Energyとクラウドサービスを利用します。
+
+ 
+関連記事：AirPodsの便利さをAndroidに。タップ一発でBluetoothペアリングする「Fast Pair」機能、Googleが発表
+
+簡単に言えば、対応したBluetooth機器を近づけると端末上に通知が表示され、それをタップするだけでペアリングが完了するもの。この機能が拡張され、同じGoogleアカウントを使っているAndroid端末なら1台でペアリングを行うだけで、他の端末でも利用可能になります。
+
+なお、Fast PairはAndroid 6.0以上のデバイスで利用可能。2019年にはChromebookでも使えるようになるとのことです。
+
+便利そうな機能ではあるものの、発表以降、対応機種が増えたとの話は出てきていません。対応しているのは、Google Pixel Budsのほか、Libratone Q Adapt Wireless On-Ear、Bose QuietComfort 35 II、Jaybird Tarah Wireless Sport Headphoneぐらいのもの。これらの製品についても、製品説明でFast Pair対応がうたわれているわけではなく、Android Developer Blogで対応製品として触れられているにとどまります。
+
+ただ、今後数か月でJaybird、Anker SoundCore、Boseなどから対応製品がリリースされるとのことで、対応機種が増え、広く認知されるようになると、対応しているかどうかがウリの1つになってくるのかもしれません。
+ ]]></description>
+			<pubDate>Wed, 28 Nov 2018 04:50:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
