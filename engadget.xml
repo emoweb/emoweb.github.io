@@ -5,17 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    LINEが銀行業参入　みずほと提携し「LINE BANK」20年開業めざす
-</title>
-			<link>https://japanese.engadget.com/2018/11/27/line-line-bank-20/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2Fcd201330-f210-11e8-adaf-a4735ea5427c&client=a1acac3e1b3290917d92&signature=566ce839fcb2f9e99a8c6c0c50eeffeddac56007" />
-LINEは11月27日、銀行業への参入を発表しました。みずほフィナンシャルグループと提携し、2019年上半期に準備会社を設立。「LINE BANK」の2020年開業を目指します。
-
-（更新中）
- ]]></description>
-			<pubDate>Tue, 27 Nov 2018 01:51:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    終了直前のSteamオータムセール、おすすめタイトル3作品。サイバーパンクアクションからサイコホラーまで（関根）
 </title>
 			<link>https://japanese.engadget.com/2018/11/27/steam-3/</link>
@@ -748,6 +737,29 @@ OPPOの新スマホ「R15 Pro / Neo」　8月31日から順次発売
 米アマゾンは、患者の診療記録を分析できるソフトウェアの販売を開始しました。医師や病院は本ソフトを活用し、治療の改善やコストを削減するために活用できると報じられています。
  ]]></description>
 			<pubDate>Wed, 28 Nov 2018 01:50:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Google、Gmailの文章提案機能から性別のある代名詞を削除。ジェンダー問題に配慮
+</title>
+			<link>https://japanese.engadget.com/2018/11/28/google-gmail/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F55485c70-f2b8-11e8-9efe-15dcef54b57b&client=a1acac3e1b3290917d92&signature=cc038bb0b23798d0a1b26fb9ec95cd77c9519f90" />
+Googleが、簡単なメールの文章をAIが提案するGmailのSmart Compose機能から、「彼」や「彼女」などの性別のある代名詞を削除すると決めたようです。
+
+Smart Composeは2018年5月のGoogle I/Oで発表されていた機能です。Gmailにはメールに対して簡単な返信候補を提案するスマートリプライ機能がありますが、Smart Composeはこれを発展させたようなもの。ユーザーが入力している文章に応じて、その続きとなる文を表示します。
+
+もちろん、AIが一から作文をするわけではなく、ユーザーのGmail内やネットにある文章を学習し、その状況（直前の文章）でもっとも使われる可能性が高い文章を提案してきます。文字入力アプリの自動補完や、検索候補のサジェスト機能に近いイメージです。なお、現在は英語でのみ利用できます。
+
+GmailのプロダクトマネージャーPaul Lambert氏によると、ある企業の研究者が「I am meeting an investor next week（来週、投資家にあう）」と打った際、「Do you want to meet him?（あなたも彼にあいたいですか？）」と提案されたのがきっかけだったとのこと。この投資家が女性の可能性があるにもかかわらず、「him」が提案されたことを問題視したようです。
+
+代名詞を削除せずに対応する方法も検討されたとのことですが、どれも上手く機能せず、安全のため削除を決めたとしています。なお、この制限はSmart Compseが提案する文章の1%未満にしか影響しないとのことです。
+
+正直、ここまでしなくてもという印象もありますが、性差別やジェンダー問題は世界的にも関心が高くなっています。また、Google自身もセクハラ問題を抱えているだけに、わずかでも叩かれる可能性があるなら、その芽は潰しておきたいということなのでしょう。
+
+これに近い問題として、2016年、Google検索のオートコンプリート機能で「女性」や「ユダヤ人」と入力すると「悪」だと表示される問題があり、この候補を削除するといったことがありました。
+
+ちなみに、「he」や「she」など性別のある人称代名詞ですが、最近ではジェンダーニュートラルな代名詞として「ze」をはじめ複数の単語が登場しているようです。こういったものが普及してくると、今回のような問題の対応も、もう少し簡単になってくるのかもしれません。
+ ]]></description>
+			<pubDate>Wed, 28 Nov 2018 02:50:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
