@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>SMSによる2段階認証はベストな選択肢ではない — それに代わる方法とは</title>
-			<link>https://blog.kaspersky.co.jp/2fa-practical-guide/21822/</link>
-			<description><![CDATA[なぜSMSを使った2段階認証が最善の選択肢ではないのか、その他にどのような選択肢があるのか、考えてみましょう。]]></description>
-			<pubDate>Thu, 15 Nov 2018 01:00:28 +0000</pubDate>
-		</item>
-		<item>
 			<title>CVE-2018-8589：新たなOS脆弱性</title>
 			<link>https://blog.kaspersky.co.jp/cve-2018-8589-vulnerability-detected/21971/</link>
 			<description><![CDATA[当社の脆弱性攻撃ブロック技術が、Windows に対する別のゼロデイエクスプロイトを検知しました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/public-ip-dangers/21999/</link>
 			<description><![CDATA[パブリックIPアドレスとは何か、どういうときに必要になるかもしれないのか、どういったリスクが伴うのかを開設します。]]></description>
 			<pubDate>Tue, 27 Nov 2018 01:00:38 +0000</pubDate>
+		</item>
+		<item>
+			<title>カード情報を狙い、金銭を脅し取るトロイの木馬「Rotexy」</title>
+			<link>https://blog.kaspersky.co.jp/rotexy-banker-blocker/22054/</link>
+			<description><![CDATA[モバイルプラットフォームを狙うトロイの木馬「Rotexy」。感染経路、攻撃方法、そして一般的なSMSを使って撃退する方法をご説明します。]]></description>
+			<pubDate>Thu, 29 Nov 2018 01:00:50 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
