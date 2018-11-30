@@ -5,39 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    5G通信で動きトレース型ロボを遠隔操作。ドコモがトヨタ製T-HR3の10km想定試験に成功
-</title>
-			<link>https://japanese.engadget.com/2018/11/29/5g-t-hr3-10km/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2Fb62a64c0-f3b2-11e8-9c4e-d123c644e86c&client=a1acac3e1b3290917d92&signature=8f82aa27bcb36eff2a93f32dc7ca7b280a68f018" />
-NTTドコモとトヨタ自動車は11月29日、5G回線を用いたロボット制御の遠隔操作トライアルを開始し、約10kmの遠隔地を想定した実験環境において、トヨタが開発したヒューマノイドロボット「T-HR3」の制御に成功したと発表しました。
-
-T-HR3は2017年11月にトヨタが発表したヒューマノイド型ロボット。マスター操縦システムにより、操縦者と同じ動きをさせることができ、さらにT-HR3にかかる外からの力を操縦者にフィードバックできるのが大きな特徴となっています。
- ]]></description>
-			<pubDate>Thu, 29 Nov 2018 07:00:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    アウディ、EVスポーツ「E-Tron GT Concept」発表。伝統・電動のquattroシステム、2021年発売予定
-</title>
-			<link>https://japanese.engadget.com/2018/11/29/ev-e-tron-gt-concept-quattro-2021/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F8d523ad0-f3a5-11e8-9bbb-ca595bf07e21&client=a1acac3e1b3290917d92&signature=d4320cf4a4b552bab0522851773729fc37dbb35c" />
-ロサンゼルスで開催のLAオートショーより。アウディが電気自動車E-Tronのラインナップに、スポーツクーペE-Tron GT Conceptを追加しました。大きく張り出したフェンダーと低いボディは、まるで獲物を見据える猛獣のような雰囲気を漂わせます。
- ]]></description>
-			<pubDate>Thu, 29 Nov 2018 07:15:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    11月30日のできごとは「アップルストア銀座店オープン」「ハンドヘルドPC CASSIOPEIA発売」ほか：今日は何の日？
-</title>
-			<link>https://japanese.engadget.com/2018/11/29/11-30-pc-cassiopeia/</link>
-			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2018-11/8d035860-f2b1-11e8-aaf3-0bb69d11a1dc" />11月30日のおもなできごと
-1996年、カシオ計算機がハンドヘルドPC「CASSIOPEIA」（A-11J）を発売
-2001年、NTTが「フレッツ・ADSL8Mタイプ」の受付開始
-2003年、アップルが直営店となる「アップルストア銀座店」をオープン
-2015年、FREETELがWindows 10 Mobileスマホ「KATANA 01」を発売
-
- ]]></description>
-			<pubDate>Thu, 29 Nov 2018 15:30:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    iPhone動画撮影で使える全長35センチのスライダー「MINI Slider」がステキ
 </title>
 			<link>https://japanese.engadget.com/2018/11/29/iphone-35-mini-slider-iphone/</link>
@@ -606,6 +573,58 @@ Google Fiは170カ国以上で利用できるMVNOサービスで、2015年から
 なおキャリア間のシームレスな切り替えなど、Google Fiの一部機能の利用は端末によって取り扱いが異なります。例えば「Pixel 3/3 XL」や「Pixle 2 XL」「Moto G6」「LG V35 ThinQ」「LG G7 ThinQ」「Android One Moto X⁴」など"designed for Fi"をうたっているスマートフォンでは、全機能の利用が可能です。
  ]]></description>
 			<pubDate>Fri, 30 Nov 2018 03:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    ゼンハイザー製品のセットアップソフトに脆弱性、PCからログイン情報など漏洩の可能性
+</title>
+			<link>https://japanese.engadget.com/2018/11/30/pc/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2Ff7b87bd0-f46f-11e8-9fbf-d3f81a226064&client=a1acac3e1b3290917d92&signature=f99278a0e9a6958a47bc215fa61caf175c24e52b" />
+ゼンハイザーが、ヘッドホンやヘッドセット製品のセットアップ用ソフトウェア「HeadSetup」および「HeadSetup Pro」に格納されるルートCA証明書に脆弱性が見つかったと発表しました。
+
+この証明書はPCのプログラムフォルダに暗号化された秘密鍵とともにコピーされ、通信内容、たとえばウェブサイトのログイン情報盗聴や改ざんにつながる中間者攻撃(Man in the middle atack：MITM、バケツリレー攻撃)を許す可能性があります。
+ ]]></description>
+			<pubDate>Fri, 30 Nov 2018 03:15:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    韓国のお家芸「有機EL」揺らぐ…　中国へ技術流出、検察が起訴
+</title>
+			<link>https://japanese.engadget.com/2018/11/30/oled/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F83e6bc00-f45e-11e8-bf3b-04a8fe3ceb39&client=a1acac3e1b3290917d92&signature=77a394655caa5a786559311d7be3f698fee1ee0a" />
+韓国の検察当局は、サムスンディスプレイの最新OLED（有機EL）技術を中国の競合企業に流出させたとして、9人と2社を起訴したと発表しました。
+
+水原（スウォン）地方検察庁によると、サムスンの某サプライヤー企業のCEOと従業員8人は中国企業の幹部2人と共謀してOLED技術を流出させ、見返りに155億ウォン（約15億7000万円）を受け取ったとのこと。検察は、これら企業と被告の氏名は公表していません。
+ ]]></description>
+			<pubDate>Fri, 30 Nov 2018 03:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    「発火しないバッテリー」内蔵でスマホも充電できるリュック、吉田カバンとのコラボで誕生
+</title>
+			<link>https://japanese.engadget.com/2018/11/30/4-7mm-2/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F8c41a100-f45c-11e8-bfce-beecf16312a8&client=a1acac3e1b3290917d92&signature=84bbbb77529aef1f76e88d68c6de27eef0f11585" />
+ソフトバンク コマース＆サービスと「吉田カバン」は11月30日、次世代バッテリー技術「Power Leaf」採用のモバイルバッテリーを組み入れたコラボバッグ2モデルを発表しました。
+
+
+固体のリチウムセラミックを利用したPower Leaf技術を採用することで、切断しても発火や液漏れが発生せず、薄いボディにバッテリーを加工できるのが特徴です。ソフトバンク コマース＆サービスではこれまで、Tag型バッテリーや手帳型バッテリーを販売してきました。
+
+ 
+■関連記事
+『次世代電池』使ったモバイルバッテリー、ソフトバンクC&amp;Sが開発「1年放置でも残量90%」
+ソフトバンクが折り曲げOKのセラミックバッテリーを商品化、特性をどう活かすか
+
+
+今回のカバンに付属するモバイルバッテリー「Ceramic Battery Board」にもPower Leafが採用されており、3550mAhの容量ながらも約4.7mmの薄さ、そして250gの軽さが特徴となっています。出力は電圧が5.0Vで、電流が最大3.0A。インターフェースはUSB type-A、USB type-C、microUSB、の3ポートを備えています。
+
+
+▲バッグからバッテリーを取り出さずに充電できるケーブルも搭載
+
+
+▲リュックサックとショルダーバッグをラインアップ
+
+リュックサックタイプの「PORTER RUCKSACK &times; Power Leaf」（直販価格税込5万9400円）と肩掛けタイプの「PORTER SLING SHOULDER BAG &times; Power Leaf」（直販価格税込3万9960円）の2種類がラインアップされており、発売はいずれも12月20日です。
+
+
+ ]]></description>
+			<pubDate>Fri, 30 Nov 2018 04:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
