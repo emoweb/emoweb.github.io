@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>Intel、新規格「UWD」に対応したグラフィックスドライバ </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1155895.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1155/895/1_o.jpg"></div></div></div></div></div></div><p>　Intelは28日、初のUniversal Windows Driver(UWD)に準拠した「Intel Graphics - Windows 10 Modern Drivers」(25.20.100.6444)を配信開始した。</p><p>　UWDはWindows Modern graphics driversとも呼ばれ、Universal Windows PlatformをベースとしたエディションのWindows 10で動作。ドライバのバイナリ自体は従来から大きく変化されたわけではないが、異なるプラットフォーム(デスクトップPCからタブレット、組込みシステムまで)で共通のパッケージが使えるのが特徴。</p><p>　ただし、これまではデバイスマネージャーから「ディスク使用」で、ドライバのパッケージに含まれる.infファイルを使ったインストールが可能であったが、UWDはこれができず、インテルといったベンダーから提供されたインストーラからのインストールのみが許可される。よって、Intelからは今後zip形式でのドライバ提供はなくなる。</p><p>　また、Intel GraphicsのコントロールパネルはMicrosoft Storeからのアプリ形式での提供になったため、利用にはインターネット接続が必要となる。</p><p>　コントロールパネル内でゲームの最適化を行なう機能も拡張され、新たに12タイトルに対応。再起動なしで新規インストールされたゲームを検出する再スキャンボタンも追加された。このほか、OpenCLにおいてSPIR-Vもサポートした。</p><p>　対応するCPUはSkylake/Kaby Lake/Coffee Lake、およびApollo Lake/Gemini Lakeで、内蔵GPUはIntel HD Graphics 500/505/510/515/520/530/610/615/620/630、Intel UHD Graphics 600/605/620/630、Intel Iris Graphics 540、Intel Iris Pro Graphics 580、Intel Iris Plus Graphics 640/650/655。</p><p>　なお、古いドライバに戻す場合は、アプリの追加と削除からUWDを削除し、システムを再起動してから古いドライバをインストールする必要があり、この手順を怠るとシステムが不安定になるという。Intelでは古いドライバに戻すことを推奨していない。</p></div></div>]]></description>
-			<pubDate>Thu, 29 Nov 2018 19:19:31 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】エプソン、PX-M7050FP ファームウェアほか</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1155908.html</link>
 			<description><![CDATA[<div><div><p>　エプソンは、PX-M7050FP ファームウェアほかを公開した。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1155985.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1155/985/1_o.jpg"></div></div><span class="caption">Vostro 14 5481</span></div></div></div></div><p>　<a href="https://www.dell.com/ja-jp/" class="n" target="_blank">デル株式会社</a>は、第8世代Coreプロセッサを搭載した狭額縁のビジネス向けノートPC「Vostro 14 5481」、「Vostro 15 5581」を発売した。税別/送料込みの最小構成価格はそれぞれ117,980円、97,980円から。</p><p>　11月30日現在、Vostro 14は3万円、Vostro 15は2万円引きとなっており、それぞれ87,980円、77,980円で購入できる。</p><p>　いずれも狭額縁のIPS液晶パネルを採用し、見やすく画面に集中しやすいという。ほかのアプリよりストリーミングを優先させる「SmartByte」や、クリアな音声を実現する「Waves MaxxAudio Pro」を備え、シームレスなビデオ会議を実現。</p><p>　いずれもオプションで指紋センサーを搭載可能なほか、ハードウェアTPMの搭載、Dell BIOSによる管理機能を備える。Vostro 15ではオプションでバックライト付きキーボードを備えるほか、落下検知センサーを搭載し、落下によるHDDのデータ破損を防ぐ。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1155/985/2_o.jpg"></div></div><span class="caption">Vostro 15 5581</span></div></div></div></div><p>　Vostro 14 5481の最小構成は、CPUにCore i5-8265U(1.6GHz、ビデオ機能内蔵)、メモリ4GB、1TB HDD、1,920×1,080ドット表示対応14型液晶ディスプレイ、OSにWindows 10 Homeなどを搭載。</p><p>　Vostro 15 5581の最小構成は、CPUにCore i3-8145U(2.1GHz)、ビデオ機能内蔵)、メモリ4GB、128GB NVMe SSD、1,920×1,080ドット表示対応15.6型液晶ディスプレイ、OSにWindows 10 Homeなどを搭載。</p><p>　インターフェイスはほぼ共通で、SDカードリーダ、USB 3.0 Type-C(DisplayPort Altモード搭載、PD給電対応)、USB 3.0×2、USB 2.0、IEEE 802.11ac対応無線LAN、Bluetooth、Gigabit Ethernet、HDMI 1.4a出力、720p対応Webカメラ、音声入出力などを備える。</p><p>　本体サイズおよび重量は、Vostro 14が324.9×232×18.13mm(幅×奥行き×高さ)/1.55kg、Vostro 15が359.1×249×18.04mm(同)/1.9kg。</p></div></div>]]></description>
 			<pubDate>Fri, 30 Nov 2018 11:45:06 +0900</pubDate>
+		</item>
+		<item>
+			<title>サンワサプライ、使うときだけ引き出せる後付けキーボードスライダー </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1156011.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1156/011/01_o.jpg"></div></div><span class="caption">100-KB004</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/" class="n" target="_blank">サンワサプライ株式会社</a>は、クランプ式の後付けキーボードスライダー「100-KB004」を直販サイト限定で発売する。価格は4,280円。</p><p>　机に後付けできるキーボードスライダーで、使用するとき以外は机の下に収納できる構造となっている。天板は約510×200mm(幅×奥行き)の広さがあり、フルキーボードも置ける。取り付けはクランプ式で、厚さ15～40mmまで対応する。</p><p>　本体サイズは約626.5×295×128mm(幅×奥行き×高さ)、重量は約1.8kg。</p></div></div>]]></description>
+			<pubDate>Fri, 30 Nov 2018 13:02:13 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
