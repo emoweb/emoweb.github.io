@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>悪名高いサイバー攻撃トップ5</title>
-			<link>https://blog.kaspersky.co.jp/five-most-notorious-cyberattacks/21943/</link>
-			<description><![CDATA[マルウェアの大流行、スパイ行為、破壊活動 - 近年発生した、記憶に残るサイバー攻撃を取り上げます。]]></description>
-			<pubDate>Mon, 19 Nov 2018 01:00:53 +0000</pubDate>
-		</item>
-		<item>
 			<title>職場でのサイバーセキュリティ</title>
 			<link>https://blog.kaspersky.co.jp/best-practices-for-workplace/21966/</link>
 			<description><![CDATA[企業内でサイバーセキュリティの意識を高めるにはどうすればいいでしょうか。いくつかのヒントがあります。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/threat-intelligence-forrester-wave/22060/</link>
 			<description><![CDATA[脅威インテリジェンスに関しては、各社から多種多様なサービスが提供されています。セキュリティ担当者が各ベンダーの能力を分析するのに適した情報リソースとは。]]></description>
 			<pubDate>Fri, 30 Nov 2018 01:00:11 +0000</pubDate>
+		</item>
+		<item>
+			<title>まだまだ健在、WannaCry</title>
+			<link>https://blog.kaspersky.co.jp/wannacry-is-still-alive/22066/</link>
+			<description><![CDATA[Kaspersky Labのデータから考えると、WannaCryが過去のものになったとは言えません。2018年第3四半期のランサムウェアによる攻撃の3割近くは、WannaCryによるものでした。]]></description>
+			<pubDate>Mon, 03 Dec 2018 01:00:31 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
