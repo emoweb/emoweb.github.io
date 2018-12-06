@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>その考え方、CISOっぽいかも？</title>
-			<link>https://blog.kaspersky.co.jp/ciso-quiz/22007/</link>
-			<description><![CDATA[サイバーセキュリティに対するあなたの考え方は、世界中のCISOの考え方と同じでしょうか？チェックしてみましょう。]]></description>
-			<pubDate>Wed, 21 Nov 2018 01:06:13 +0000</pubDate>
-		</item>
-		<item>
 			<title>自分の頭で考えるということ</title>
 			<link>https://blog.kaspersky.co.jp/trust-transparency/21989/</link>
 			<description><![CDATA[Kaspersky Labが提示した事実が、人々の下す判断にどのような影響を与えたか。ユージン・カスペルスキーが自ら調査しました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/mentions-and-dna-vs-privacy/22051/</link>
 			<description><![CDATA[インターネット上のプライバシーは、自分だけではコントロールできません。親しい人たちから、さまざまな情報が漏れていきます（DNA情報さえも）。]]></description>
 			<pubDate>Wed, 05 Dec 2018 01:00:32 +0000</pubDate>
+		</item>
+		<item>
+			<title>仮想チェーンに潜む悪意</title>
+			<link>https://blog.kaspersky.co.jp/copay-supply-chain-attack/22088/</link>
+			<description><![CDATA[オープンソースライブラリを通じたサプライチェーン攻撃で仮想ウォレット「Copay」からのビットコイン窃取が可能に]]></description>
+			<pubDate>Thu, 06 Dec 2018 01:00:51 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
