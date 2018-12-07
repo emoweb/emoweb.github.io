@@ -5,21 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ポケモンGO、鳥取で期間限定のサンド出現増・全国で色違い出現。「サンドおいでフェス in 鳥取」開催記念
-</title>
-			<link>https://japanese.engadget.com/2018/12/06/go-in/</link>
-			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2018-12/b2f26800-f954-11e8-9bff-ecd380864149" />
-
-鳥取県のイベント「サンドおいでフェス in 鳥取」開催にあわせ、鳥取県内ではポケモンGOのゲーム内でもサンド・アローラサンドの出現率が向上します。また、色違いのサンドが全国で出現するようになりました。
-
-
-
-
- 
- ]]></description>
-			<pubDate>Thu, 06 Dec 2018 08:50:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    ソフトバンク、12月6日の通信障害はエリクソン製機器が原因。海外キャリアでも障害発生
 </title>
 			<link>https://japanese.engadget.com/2018/12/06/12-6/</link>
@@ -540,6 +525,21 @@ Amazonは先にApple製品を直販で扱う取り決めを結んでおり、今
 
  ]]></description>
 			<pubDate>Fri, 07 Dec 2018 15:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    パスワードなし生体認証「FIDO」広がる、Yahoo!やLINEも対応
+</title>
+			<link>https://japanese.engadget.com/2018/12/07/fido-yahoo-line/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2018-12/6adb12d0-fa06-11e8-bfdd-12b6a81cc5ff" />
+生体認証の標準規格「FIDO（ファイド）」を策定するFIDOアライアンスは、日本国内での今後の展開を紹介しました。
+
+FIDOは「Fast IDentity Online（素早いオンライン認証）」の略で、パスワードなしで使えるログイン認証の仕組みのこと。パスワードの代わりに"鍵"として使うのは、USBやBluetoothによる物理ログインキーや、指紋や手の静脈、虹彩などの生体情報です。
+
+FIDOの特徴は、仕様が公開されていて、仕様に沿った機器を使えば、メーカーやOS、サービスをまたいで利用できる点。FIDOアライアンスはこの認証技術を、多くの企業が自社の製品に組み込めるような共通の仕様を定め、普及をうながしている団体です。GoogleやAmazon、マイクロソフト、Facebook、Intel、Qualcomm、サムスン、Paypal、VISA、Mastercard、AMEXといったそうそうたる企業が名を連ねており、日本の企業ではNTTドコモ、Yahoo! JAPAN、LINEがボードメンバーとなっています。
+
+そして、認証データの管理する方法にも工夫があります。実際の認証に必要なデータは、認証する端末の中にとどまり、Webサイトやアプリを提供する事業者など、外部に渡ることはありません。この点こそが、一度流出すると幅広い機器でログインできてしまうパスワードよりも安全とされるゆえんです。
+ ]]></description>
+			<pubDate>Fri, 07 Dec 2018 17:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
