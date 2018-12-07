@@ -5,35 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ドコモとau「通信障害は発生していない」、「3キャリア障害」はデマ
-</title>
-			<link>https://japanese.engadget.com/2018/12/06/au-3/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=1200%2C800%2C0%2C0&quality=85&format=jpg&resize=1200%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-12%2F1fcac6e0-f921-11e8-9d4f-aa25e828f551&client=a1acac3e1b3290917d92&signature=cbaaefdbbffeb6fb788d0faac5e26082da72915b" />
-12月6日13時39頃より、ソフトバンクのモバイル通信サービスで大規模な通信障害が発生しています。
- 
-関連記事：
-ソフトバンクで通信障害。Twitterで報告相次ぐ
-
-SNSでは「ソフトバンクが圏外になった」という報告とともに、「NTTドコモとauでも障害が発生しているらしい」という噂が散見されます。両社の広報に真偽を確かめました。
-
-NTTドコモおよび、auを提供するKDDIの広報に確認したところ両社とも「現在、通信障害は発生していない」とキッパリ否定する回答でした。
-
-通信障害は、ソフトバンクのネットワークのみで発生しているようです。
-
-なお、ソフトバンク網を利用したMVNOを提供するLINEモバイルや日本通信は、両社のソフトバンク網のサービスでつながりにくい状況となっていると案内しています。
- ]]></description>
-			<pubDate>Thu, 06 Dec 2018 01:38:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    2019年、GoogleとアマゾンもAirPods対抗の完全ワイヤレスイヤホンを？ 有名アナリストが予測
-</title>
-			<link>https://japanese.engadget.com/2018/12/06/2019-google-airpods/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-12%2F28f791f0-f90b-11e8-98f7-c170751e4b78&client=a1acac3e1b3290917d92&signature=a37a1bd840743dab6dc2faa37f34218fe8e3cc6c" />
-全世界的にスマートフォンの売上が減速するなかで、2019年にはアップルのAirPodsに代表される完全ワイヤレスイヤホン市場にアマゾンやGoogleも参入し、ハイテク企業同士の競争が激化するとの有名アナリスト予測が報じられています。
- ]]></description>
-			<pubDate>Thu, 06 Dec 2018 03:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    Surfaceブランドの単体モニタ製品が2020年に登場か、AMD製CPU搭載機のウワサも
 </title>
 			<link>https://japanese.engadget.com/2018/12/06/surface-2020-amd-cpu/</link>
@@ -463,6 +434,43 @@ DuoとハングアウトChatは用途が完全に被っているため、Alloの
 iPhone本体のバッテリー持続時間を補うスマートバッテリーケースは、2015年にiPhone 6s向けに初めてリリースされ、現在はiPhone 7向けにも販売中です。それ以降のシリーズ用は発売されていませんでしたが、久しぶりに登場することになるかもしれません。
  ]]></description>
 			<pubDate>Fri, 07 Dec 2018 01:40:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    ユーザーの興味に応じてAIが音声ニュースを作成。Googleアシスタント向け新機能
+</title>
+			<link>https://japanese.engadget.com/2018/12/07/google-ai/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-12%2Fc67fca50-f9c4-11e8-bf9f-eb88c9984dac&client=a1acac3e1b3290917d92&signature=21b32e9c9f9f1d5ca87b48d79d2e8e073eb8c24d" />
+Google Homeなどのスマートスピーカーでは、あらかじめ登録されているラジオや新聞メディアなどのニュースを音声で聞くことができます。しかし、そのニュースが自分にとって興味のあるものかどうかは別の話。あくまでも指定したものが流れるだけとなっています。
+
+そこでGoogleは、ユーザーの興味に応じて音声ニュースのプレイリストを作成する仕組みを発表しました。スマートフォンなどに表示されるGoogleニュースでは、ユーザーの興味に応じてニュース記事が表示されています。それと同じことを音声ニュースでも行うということです。
+
+仕組みができたとしても肝心のニュースソースが少なくては意味がありませんが、Googleは、Googleアシスタント向けのオープンな音声ニュース標準仕様も公開しました。CNBC、The New York Times、The Washington Postなどのメディア企業と提携して、ニュースライブラリを作成しているほか、他のニュースメディアも、仕様に沿った音声ニュースを作成し、Googleが実施しているテストに参加可能だそうです。ただし、現在は米国内で英語のみの提供となっています。
+
+この試みが上手くいけば、通勤や通学途中などでも、気軽に興味のあるニュースを確認でき、とても便利になりそうではあります。
+
+ 
+
+ただし、ニュース記事をGoogleアシスタントが読み上げてくれるわけではなく、音声ソースはメディア側が用意しなければなりません。このため、実際に利用できるメディアは大手に限られてきそうです。
+
+Alexaの場合は、スキルを用意することでAlexa自身が記事を読み上げてくれるため、中小規模のサイトでも簡単に利用できます。ただし、Googleアシスタントのように、興味に応じた取捨選択は行えず、指定したサイトのニュースを流すのみとなります。
+
+せっかくなら、Googleアシスタントのように興味に応じたニュースだけを選択しつつ、Alexaのように読み上げに対応して欲しいところ。GoogleアシスタントやAlexa、Cortana、Siri、Clovaなどの音声アシスタントで統一の音声ニュース規格を作ってくれるのが理想ですが、そこまで行くにはまだ時間がかかるかもしれません。
+
+ 
+
+ ]]></description>
+			<pubDate>Fri, 07 Dec 2018 02:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    EdgeブラウザのChromiumベース移行、マイクロソフトが正式発表。Macなど他OSにも提供へ
+</title>
+			<link>https://japanese.engadget.com/2018/12/07/edge-chromium-mac-os/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-12%2F2e707480-f9ec-11e8-b7d7-5448ed515c3f&client=a1acac3e1b3290917d92&signature=936169654cf02a92040d2a3bbb128083f87c6a66" />
+マイクロソフトが、Windows 10の標準ウェブブラウザであるEdgeをChromiumベースのブラウザへと変更することを正式に発表しました。ChromiumはGoogleがオープンソースプロジェクトとして開発しているウェブブラウザ。ChromeブラウザはChromiumにプロプライエタリなコンポーネントを付加して構成されています。
+
+この変更によって、Edgeブラウザのレンダリングエンジンは独自のEdgeHTMLから、Chromiumが使用するBlinkへと切り替わります。マイクロソフトは、今後「Chromiumベースのブラウザのためのウェブプラットフォームの機能強化に貢献する」と述べています。
+ ]]></description>
+			<pubDate>Fri, 07 Dec 2018 03:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
