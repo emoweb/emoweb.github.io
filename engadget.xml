@@ -5,37 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    HDMIケーブルを駆逐？ 4Kで『遅延ゼロ』の最新Wi-Fi、Snapdragon 855が対応
-</title>
-			<link>https://japanese.engadget.com/2018/12/06/hdmi-4k-wi-fi-snapdragon-855/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-12%2Fa37b4f30-f9be-11e8-bffd-a92ecd2f7167&client=a1acac3e1b3290917d92&signature=579ab66a191fccf7606f62ad8785e43fa11ec960" />
-米国ハワイ州で開催中のSnapdragon Tech Summitより。クアルコムは次世代モバイルSoC「Snapdragon 855」を発表。同SoCがモバイル向けとして初めて、60GHz帯の最新Wi-Fi「IEEE 802.11ay」に対応することを明かしました。
-
-発表会場では、60GHz帯のWi-Fiを使い、スマホのゲーム画面を大型ディスプレイに無線伝送するデモを実施。解像度はHDでしたが、「802.11ay」は規格上4K映像まで対応します。なお、Snapdragon 855では最大10Gbpsまでの「802.11ay」無線通信をサポートします。
-
-デモを体験してみると、スマホでの操作と、大型ディスプレイの動きに寸分の遅延も感じません。物理的に僅かな遅延はあるのでしょうが、全く体感できないレベルです。映像も滑らかで、有線で接続していると思えるほど。ブースの担当者も『遅延はゼロと思っていい』と語ります。
-
-
-▲Snapdragon 855は60GHz Wi-Fiの最新規格「802.11ay」に対応
-
-なお、一般的なWi-Fi（2.4GHz / 5GHz）よりも高周波数な60GHz帯を使用しているため、間に障害物があると接続が途切れます。実際にスマホとテレビ（受信機）の前を人が横切ると映像が一瞬途切れました。しかし、接続はすぐに再開されるため、あまり気になりません。
-
-
-▲大型モニタとの間に人が横切ると、映像は一瞬途切れる
-
-別に有線でいいのでは？ と思うことも
-一方で、ゲーム以外のユースケースには疑問も残ります。筆者はスマホを外付けモニタに繋ぐことがほぼ無いため「別に有線でいいのでは」と思ってしまいます。また、遅延や画質の粗さを許容すれば、Miracastといった既存のワイヤレス映像規格も利用できます。
-
-でも、例えばプレゼンの際に、ケーブル不要でスマホだけでサッと高品質な映像を再生できるのは便利かもしれません。また、ノートPCを外部モニタに接続したい時に、わざわざケーブルに繋がなくても、遅延ゼロで4Kモニタにつながるのは便利ではないでしょうか。何より、ケーブルレスのほうが煩わしさが減るのは確かです。
-
-対応デバイスが乏しい課題はありますが、同規格の採用が広がれば、HDMIケーブルといった映像ケーブルの立場を脅かす可能性もありそうです。
-
- 
-
- ]]></description>
-			<pubDate>Thu, 06 Dec 2018 21:30:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    watchOS 5.1.2でApple Watch Series 4が心電図機能を正式サポート。ただし米国および米領のみ
 </title>
 			<link>https://japanese.engadget.com/2018/12/06/watchos-5-1-2-apple-watch-series-4/</link>
@@ -647,6 +616,19 @@ iOSのApple Storeアプリが珍しくプッシュ通知を配信し、それが
 アップルが送付先リストをどのように作成し、そのリストがどの程度の規模かは不明ですが、このプロモーションはiPhoneアップグレードプログラムの顧客を対象としているもの。同プログラムは日本では提供されていないため、国内で受信したとの報告は確認されていません。
  ]]></description>
 			<pubDate>Fri, 07 Dec 2018 22:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    MozillaのCEOがEdgeブラウザのChromiumベース移行を批判。Googleによるネットインフラ支配に警鐘
+</title>
+			<link>https://japanese.engadget.com/2018/12/07/mozilla-ceo-edge-chromium-google/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-12%2F07c55d50-fa9b-11e8-bfee-9d588fc91c2a&client=a1acac3e1b3290917d92&signature=165c549808c54abd202cc1c76348d711fab38aeb" />
+マイクロソフトがWindows 10標準ブラウザのEdgeをChromiumベースのブラウザへと変更することが正式に発表されましたが、この方針に対して人気ブラウザの一角を占めているFirefoxを擁するMozillaのCEOクリス・ビアード氏が公式ブログで見解を述べています。
+関連記事：
+EdgeブラウザのChromiumベース移行、マイクロソフトが正式発表。Macなど他OSにも提供へ
+
+「さようなら、EdgeHTML（Edgeブラウザの独自レンダリングエンジン。Chromiumベースとなることでお払い箱になる）」と題されたエントリでは、「マイクロソフトは独立した共有プラットフォームを諦めている」「オンライン世界の支配権をGoogleに引き渡した」として、自らの事業への脅威とともにWebブラウザの多様性が失われることへの警鐘を鳴らしています。
+ ]]></description>
+			<pubDate>Fri, 07 Dec 2018 23:35:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
