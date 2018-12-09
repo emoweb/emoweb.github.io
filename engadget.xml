@@ -5,17 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    EdgeブラウザのChromiumベース移行、マイクロソフトが正式発表。Macなど他OSにも提供へ
-</title>
-			<link>https://japanese.engadget.com/2018/12/07/edge-chromium-mac-os/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-12%2F2e707480-f9ec-11e8-b7d7-5448ed515c3f&client=a1acac3e1b3290917d92&signature=936169654cf02a92040d2a3bbb128083f87c6a66" />
-マイクロソフトが、Windows 10の標準ウェブブラウザであるEdgeをChromiumベースのブラウザへと変更することを正式に発表しました。ChromiumはGoogleがオープンソースプロジェクトとして開発しているウェブブラウザ。ChromeブラウザはChromiumにプロプライエタリなコンポーネントを付加して構成されています。
-
-この変更によって、Edgeブラウザのレンダリングエンジンは独自のEdgeHTMLから、Chromiumが使用するBlinkへと切り替わります。マイクロソフトは、今後「Chromiumベースのブラウザのためのウェブプラットフォームの機能強化に貢献する」と述べています。
- ]]></description>
-			<pubDate>Fri, 07 Dec 2018 03:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    16歳の気鋭「ビリー・アイリッシュ」が歌う「MacBook Pro」キャンペーン動画が公開に
 </title>
 			<link>https://japanese.engadget.com/2018/12/07/16-macbook-pro/</link>
@@ -544,6 +533,17 @@ Netflixが、3DCGアニメで制作する『攻殻機動隊 SAC_2045』を独占
 全世界的にスマホ売上が伸び悩むなかで、救世主となる？ AirPodsフルモデルチェンジの予測からiPhone XS用純正バッテリー内蔵ケースの噂まで、最新のアップル情報を総括します。
  ]]></description>
 			<pubDate>Sun, 09 Dec 2018 00:05:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    一時代の終わりか。Android 4 Ice Cream Sandwichのサポートが事実上の終了に
+</title>
+			<link>https://japanese.engadget.com/2018/12/09/google-play-android-4-0-ice-cream-sandwich/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-12%2F7a62f9f0-fb5c-11e8-b725-80c9a2f2a98c&client=a1acac3e1b3290917d92&signature=966dab07b193ddc9c377cfff8def22d7e3baf7e6" />
+Googleは、Google Play開発者サービスの次期バージョンから、Ice Cream Sandwich（ICS）ことAndroid 4.0を非推奨にすると発表しました。今後、Google Playストア（のAPK）自体も、ICSでは更新されないとのことです。
+
+これによりアプリ開発者は、サポートするAndroidバージョンの下限を4.1 Jelly Bean以降に設定する必要が生じます。また、もしICS以前をサポートする必要がある場合には、別アプリとして登録しなければならないとのことです。
+ ]]></description>
+			<pubDate>Sun, 09 Dec 2018 01:30:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
