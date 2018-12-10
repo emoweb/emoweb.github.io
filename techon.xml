@@ -5,18 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>総合格闘技や投てき競技も、トラッキングが“標準ツール”に</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/column/15/052000044/111900076/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Mon, 03 Dec 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>脳卒中初期診療、非専門医をアプリで支援</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/327442/113000282/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><p>　脳卒中の非専門医でもt-PA静注療法をはじめとする内科的な脳梗塞急性期診療を支援できるようにしたい——。こうした動機で脳梗塞診療補助アプリ開発を進めているのが、聖マリアンナ医科大学 川崎市立多摩病院　神経内科の櫻井謙三氏らである。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327442/113000282/?SS=imgview_ndh&amp;FD=1294589551" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327442/113000282/1129ma01.jpg?__scale=w:500,h:264&amp;_sh=08a06201f0" width="500" height="264" alt=""></a></div><div>川崎市立多摩病院の櫻井氏</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　同氏が「第22回 日本遠隔医療学会学術大会」（2018年11月9～10日、九州大学医学部百年講堂）の救急医療に関する一般演題に登壇し、スマートフォン向け脳卒中診療補助アプリケーション「OneStroke」の概要と展望について講演した。</p><p>　脳梗塞の初期診療にあたる非専門医は、院内外の専門医にコサルテーションを行うことも多く、医療資源の乏しい地域ではオンコールを受ける専門医の負荷が大きいとされる。また、専門医不在の地域ではt-PA静注療法の地域格差が生じており、同療法により機能改善が見込める患者が救えていないという課題がある。</p><p>　櫻井氏は、脳卒中の非専門医が一人で脳梗塞診療を行うことはハードルが高いとし、その不安を解消するためにアプリケーションで初期診療を補助することが目的という。</p><p>　OneStrokeのコンセプトは、脳卒中患者の情報を入力することによって、t-PA静注療法を含む治療方針を提示し、専門医と情報共有しながら実診療につなげられるよう完結させることである。</p><p>　医用画像管理システム（PACS）と連携し、医師同士で画像共有しながら治療にあたる保険適用を受けたアプリは既にある。「既存のアプリは専門医同士の利用が主だが、われわれのアプリは非専門医を対象にしている。現時点で画像のシステム連携がない分、月額1万～2万円程度で利用可能にする」（同氏）と狙いを述べた。</p></div>]]></description>
-			<pubDate>Mon, 03 Dec 2018 07:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>治験を終え2019年後半の実用化目指す</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/interview/15/113000128/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　半導体レーザー技術に強みを持つQDレーザは、超小型のレーザープロジェクターを用いて網膜に映像を直接投影するメガネ型の「網膜走査型レーザーアイウェア」を開発している。網膜に映像を直接投影するので視力の影響を受けにくく、視覚障害者向けの支援デバイスとしての商品化を目指している。</p><p>　2018年10月に治験を終え、早ければ2019年後半にも医療機器として商品化したい考えだ（<a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/101000173/102200016/?ST=health" target="_blank">関連記事</a>）。さらに別の医療機器についても、大手医療機器メーカーと共同で開発を進めているという。医療機器開発の狙いや背景について、同社　代表取締役社長の菅原充氏に聞いた。（聞き手は河合基伸＝日経 xTECH／日経デジタルヘルス）</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/113000128/?SS=imgview_ndh&amp;FD=2105686695" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/interview/15/113000128/1122qd01.jpg?__scale=w:500,h:263&amp;_sh=0850980c90" width="500" height="263" alt=""></a></div><div>QDレーザ　代表取締役社長の菅原充氏（写真：加藤康、以下同）</div><div>クリックすると拡大した画像が開きます</div></div></div><p>——なぜ視覚障害者向け支援デバイスを開発しようと考えたのですか。</p><p>　2006年創業のQDレーザは、これまで半導体レーザー技術を生かしたBtoB向けの製品を中心に手掛けてきました。通信向けや加工向け、センシング向けなどの機能部品で、いずれも産業の発展を支援するものばかりです。次に手掛けるべき新たな応用先を考えたときに、レーザーを活用したディスプレーを作れるのではないかと考えました。</p><p>　2012年ごろにレーザープロジェクターを試作しましたが、明るい画像を表示するにはレーザーの強度を上げなければならず、製品化はなかなか難しいことが分かりました。そこでレーザーの強度を下げられる網膜走査型レーザーアイウェアの開発を思いつきました。</p><p>　網膜に映像を直接投影する発想自体は20年以上前からあり、既に特許の期限は切れていました。以前は大きな装置が必要だったようですが、我々の半導体レーザー技術を使えば小型化が可能だと考えました。当初は最終製品の商品化まで踏み込むつもりはありませんでしたが、2013年ごろに試作品を視覚障害者の方に使ってもらったところ大変好評だったため、事業計画を立てることになりました。</p></div>]]></description>
@@ -237,6 +225,18 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/327441/121000598/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　「No.1ヘルステックカンパニーに向けて、パートナーの知恵と力を借りながら一緒にヘルスケアの変革を推進する。その戦略として『5つのP』でヘルステックの価値創造を実践していく」——。</p><p>　フィリップス・ジャパン 代表取締役社長の堤浩幸氏は、2018年12月6日に開催した2019年度戦略発表会でこう宣言した。統合されたあらゆるデータの解析から個々人にあった精密な診断・最適な治療、実行可能な予防を提示できるシステムをつくっていくとし、そのために異業種との連携をさらに加速・強化する。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/121000598/?SS=imgview_ndh&amp;FD=911985848" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/121000598/20181206ph01.jpg?__scale=w:500,h:262&amp;_sh=0cd0ae0710" width="500" height="262" alt=""></a></div><div>2019年度戦略発表に登壇した堤氏</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　昨年の戦略発表で堤氏は、パートナーとのエコシステムの構築、日本発のイノベーション開発の仕組み構築、戦略的投資の3点を掲げたが、その成果を具体例を挙げながら紹介した。特に異業種との連携では、「昨年の戦略発表で9社を発表したが、その後に10数社と連携することができた」とし、2019年もパートナーシップを順次拡大すると述べた（<a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/120500278/?ST=health" target="_blank">関連記事1</a>、<a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/051000514/?ST=health" target="_blank">関連記事2</a>、<a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327441/091700559/?ST=health" target="_blank">関連記事3</a>、<a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/110111650/?ST=health" target="_blank">関連記事4</a>、<a href="https://tech.nikkeibp.co.jp/dm/atcl/event/15/101000173/110500046/?ST=health" target="_blank">関連記事5</a>）。また、戦略発表当日に新たに富士ソフトと提携し、拡張現実（AR）を活用したヘルステック・ソリューションを提供することを発表した（<a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/120711765/?ST=health" target="_blank">関連記事6</a>）。</p><p>　そうしたオープンなエコシステムの構築拡大をベースに、2019年度は2018年度戦略の深化と加速が基本になるとし、「深化と加速の両面で結果を出し、『ヘルステックの価値とはこれだ』というものを具体的に示していく」とコミットした。</p></div>]]></description>
 			<pubDate>Mon, 10 Dec 2018 17:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>25歳でサッカークラブ社長に就任、東大出身Jリーガーの挑戦</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/070800035/120500085/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 11 Dec 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「火山灰、出力抑制、パネル位置の変更」、霧島のメガソーラーの4年半</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/302960/121000175/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　鹿児島県霧島市の山あいに、温泉付きの住宅地「ロイヤルシティ霧島妙見台」がある。霧島連山を望む標高約200mの丘陵地に立地し、森林の中でゆったりと暮らせる。鹿児島空港から11.9km、クルマで約18分と、交通の便も良い。</p><p>　大和ハウス工業が開発したもので、分譲済みを含めて現在、156区画を販売している。</p><p>　この住宅地の一角に、出力約1.8MWのメガソーラー（大規模太陽光発電所）「DREAM Solar 霧島妙見台」がある（<b>図1</b>）。発電事業者は、同社グループで再生可能エネルギー事業を手掛ける大和エネルギー（大阪市阿倍野区）となる。</p><div><div class="bpimage_center" style="width:500px;"><div><img src="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/302960/121000175/01_a.jpg?__scale=w:500,h:375&amp;_sh=0560ac0b0a" width="500" height="375" alt=""></div></div></div><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/302960/121000175/?SS=imgview&amp;FD=1420927604" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/302960/121000175/01.jpg?__scale=w:500,h:333&amp;_sh=0d80b50f20" width="500" height="333" alt=""></a></div><div>図1●温泉付きの森林の住宅地に開発</div><div>（出所：上は大和エネルギー、下は日経BP）</div><div>[画像のクリックで拡大表示]</div></div></div><p>　大和エネルギーが開発・運営している再エネ発電所は、11月30日時点で稼働済みが85カ所、合計の太陽光パネル出力は169.366MW、建設中が89カ所、178.567MWとなっている。</p></div><li><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/302960/121000175/?P=2">次へ</a></li>]]></description>
+			<pubDate>Tue, 11 Dec 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
