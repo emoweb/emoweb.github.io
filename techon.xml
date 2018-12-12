@@ -5,18 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>田舎のスタジアムを地域経済の核に　鹿島アントラーズ、売上100億円への成長戦略</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/092100040/112700043/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Wed, 05 Dec 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>強風で「電線が外れる」、台風で相次いだ想定外の売電停止</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/302961/120400100/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　今回のシリーズでは、エネテク（愛知県小牧市）が、太陽光発電所の点検やO&amp;M（運用・保守）サービスを担う中で対応してきたトラブル事例を紹介している。同社は、2007年に設立された電気設備工事会社で、太陽光発電の施工も多く担当してきた。O&amp;Mサービスでは、点検時に原因分析だけでなく、状況によっては、その場で不具合の原因を解消するといったワンストップの対応が特徴となっている（<a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/356325/013000017/?ST=msb" target="_blank">関連コラム</a>）。</p><p>　今回は、低圧配電線に連系している太陽光発電所で、売電が停止してしまった例を取り上げる。2018年の夏から秋にかけ、立て続けに襲来した台風の強風によって起きたとみられる。</p><p>　いずれもエネテクのO&amp;M（運用・保守）サービスの受託先の低圧太陽光発電所で、現地に駆け付けて調べたところ、複数の発電所が似たような原因で停止していることがわかった。</p><p>　例えば、東京電力管内の低圧太陽光発電所では、遠隔監視システムの警報で売電が停止していることがわかり、エネテクのO&amp;Mサービスで遠隔監視を担う「ソラパト監視センター」（<a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/070511272/?ST=msb" target="_blank">関連ニュース</a>）から、現場対応部隊に駆け付け対応を指示し、現場へ急行した。</p><p>　エネテクの点検担当者が発電所内に入って調べてみると、パワーコンディショナー（PCS）は稼働を止め、待機の状態になっていた。</p><p>　また、PCSのブレーカーは、すべてオンの状態だった。この状態であれば、通常はPCSに電気が通り、ある程度の電圧を計測できる。しかし、電圧は極端に低かった。</p><p>　次に、1次側（電力系統側）のブレーカーを通じて電圧を計測した。ここでは、電圧がゼロを示した。ここまでの調査によって、連系先の低圧配電線側のトラブルであることが判明した。</p><p>　そこで、東京電力グループに対応を求めた。電力会社による点検によって、高圧配電線から引き込んで変圧し、連系先の低圧配電線に接続する設備に不具合が起きていることがわかった（<b>図1</b>）。</p><div><div class="bpimage_center" style="width:400px;"><div><img src="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/302961/120400100/01.jpg?__scale=w:400,h:533&amp;_sh=0fa04e0a70" width="400" height="533" alt=""></div><div>図1●連系先の送電線が切れ落ちていた</div><div>木の枝が近いことがわかる（出所：エネテク）</div></div></div></div><li><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/302961/120400100/?P=2">次へ</a></li>]]></description>
-			<pubDate>Wed, 05 Dec 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Tele-ICU実現に向け、複数患者管理システム構築</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/327442/120300285/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p>　横浜市立大学附属病院 集中治療部 部長の髙木俊介氏らは、遠隔集中治療のための複数患者管理システムの構築を進めている。いわゆる「Tele-ICU」を実現するシステムで、複数施設のICU室の多数患者に対して、治療介入が必要な対象者を遠隔でトリアージする仕組みとして開発した。その概要を「第22回 日本遠隔医療学会学術大会」（2018年11月9～10日、九州大学医学部百年講堂）の救急医療に関する一般演題で紹介した。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327442/120300285/?SS=imgview_ndh&amp;FD=995766635" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/327442/120300285/1203icu01.jpg?__scale=w:500,h:262&amp;_sh=07e0a80f90" width="500" height="262" alt=""></a></div><div>複数患者管理システムの画面例</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　構築した複数患者管理システムでは、危機的状況にある患者を特定するモデルとして急性期医療分野で用いられている早期警告スコア（Early Warning Score：EWS）を使用した。呼吸数、酸素飽和度（SPO2）、体温、収縮期血圧、心拍数、酸素投与、意識レベルの7項目のうち、酸素投与と意識レベルを除いた5項目を常時モニタリングして点数化し、合計点数の高い患者に対して介入する仕組みである。</p><p>　「これらバイタルを1分ごとにモニタリングし、MEWS（修正早期警告スコア）とショック・インデックスを算出。X軸にショック・インデックス、Y軸にEWS（5項目）をプロットすると、重症患者の座標へのマッピングは扇形になる。ショック・インデックスとEWSの両データが高いほど重症化するため、介入のためのトリアージとして利用できる」（同氏）と説明した。</p><p>　また、酸素投与と意識レベルのモニタリングには、カメラの画像解析を用いている。開発している医療用監視カメラは、画像情報の機械学習により重症化予測モデルを組み込んだものという。「解像度100万ピクセル、1秒間に4フレームで患者を撮影し、画像に変化があったところが自動的に着色される。挿管している患者では動きが危険コードとなるので、それを察知してアラート表示するシステムを開発している」（同氏）。こうした生体情報とカメラ画像解析など、さまざまな情報を組み合わせて患者をトリアージするシステムを複数患者に用いていくことで、Tele-ICUを実現する。</p></div>]]></description>
@@ -243,6 +231,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/121211778/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><div class="bpbox_right" style="width:200px;"><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/121211778/?SS=imgview&amp;FD=-1369768185" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/121211778/1211nagaimo1.jpg?__scale=w:200,h:150&amp;_sh=0520f70f80" width="200" height="150" alt=""></a></div><div>青森東北町発電所</div><div>（出所：日立キャピタル）</div><div>[画像のクリックで拡大表示]</div></div><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/121211778/?SS=imgview&amp;FD=-1368844664" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/121211778/1211nagaimo2.jpg?__scale=w:200,h:149&amp;_sh=0d60e40710" width="200" height="149" alt=""></a></div><div>青森県内でのナガイモ栽培の様子</div><div>（出所：日経BP）</div><div>[画像のクリックで拡大表示]</div></div></div><p>　青森県東北町に農作物残さ（非食用部）を活用したバイオガス発電所「青森東北町発電所」が完成し、11月28日から商用運転を開始した。</p><p>　ゆうき青森農業協同組合（JAゆうき青森）から排出されるナガイモの残さをメタン発酵させてバイオガスを発生させ、出力30kWのガスエンジン発電機で発電する。比較的小規模の発酵槽を用いて低価格で設置できるのが特徴という。豊橋技術科学大学が開発した「豊橋式バイオガス発電システム」を採用した。</p><p>　日量4t強のナガイモ残さを投入し、年間約16万kWhの電力を発電する。発電した電力は固定価格買取制度（FIT）を用いて東北電力に売電する。売電単価は39円/kWh。これまで外部に委託してきた廃棄物処理費用（年間約2000万円超）の約3分の1程度を削減できる見込み。</p><p>　再生可能エネルギーベンチャーのイーパワー（東京都港区）が中心となり、日立キャピタルと日本アジア投資の3社が出資する「合同会社農業連携BG投資組合1号」が事業主体となる。出資比率は非公表。総事業費は約1億円。</p><p>　バイオガス発電は、24時間の稼働が可能で、ベース電源になり得る。JAゆうき青森では、発電機から排熱を回収し、隣地に新設するビニールハウスで有効活用して冬場の農業を可能にする熱電併給（コージェネレーション）システムの構築にも取り組む（<a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/070611279/?ST=msb">関連記事：東北町で「ナガイモ発電」、FITで売電し排熱をハウスに利用</a>）。</p></div>]]></description>
 			<pubDate>Wed, 12 Dec 2018 18:40:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>目指すは「日本一オープンなクラブ」、京都からJに新風を</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/070800035/120500086/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Thu, 13 Dec 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
