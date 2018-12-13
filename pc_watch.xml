@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>PFN、独自設計の深層学習用プロセッサ「MN-Core」 ～行列演算特化で半精度演算性能524TFLOPS</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1158023.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1158/023/01.jpg"></div></div><span class="caption">MN-Core</span></div></div></div></div><p>　<a href="https://www.preferred-networks.jp/" class="n" target="_blank">株式会社Preferred Networks</a>は、深層学習に特化したディープラーニングプロセッサ「MN-Core」を発表した。</p><p>　MN-Coreは、深層学習における「学習」フェーズの高速化を目指し、行列演算に最適化した専用チップ。近年のチップ開発でとくに重要視される、電力性能(消費電力あたりの演算性能)において、半精度で1TFLOPS/Wという世界最高クラスの性能を実現できる見込みとしている。</p><p>　高密度にハードウェア実装された行列演算器(MAU: Matrix Arithmetic Unit)を備え、条件分岐のない完全SIMD動作をするシンプルなアーキテクチャ設計により、大量のデータを一度に処理できるという。</p><p>　製造プロセスはTSMCの12nmで、消費電力は500W(予測値)、ピーク性能は倍精度32.8TFLOPS、単精度131TFLOPS、半精度524TLFOPS。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1158/023/architecture.png"></div></div><span class="caption">アーキテクチャ</span></div></div></div></div><p>　同社では、2020年春の稼働に向けて、MN-Coreによる新大規模クラスタ「MN-3」を構築する予定で、MN-3は1,000ノードを超える専用サーバーからなり、最終的な演算性能を2EFLOPSまで拡大することを目標にしているという。</p><p>　MN-3以降では、得意分野の異なるMN-CoreとGPGPUを組み合わせて利用することで、より効率的な計算環境の構築を目指す。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1158/023/cluster.jpg"></div></div><span class="caption">MN-3</span></div></div></div></div><p>　同社の開発する深層学習フレームワーク「Chainer」においても、MN-Coreをバックエンドとして選択できるように開発を進め、ソフトウェアとハードウェア両方向からのアプローチにより、深層学習によるイノベーションを推進していくとしている。</p><p>　12月12日より東京ビッグサイトにて開催される「SEMICON Japan 2018」で、MN-Coreをはじめとする自社開発深層学習向けハードウェアがブース展示される予定。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1158/023/board.jpg"></div></div><span class="caption">MN-Core実装用のPCIeボード。32GBのメモリを備える</span></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1158/023/coreserver.jpg"></div></div><span class="caption">7Uサイズのサーバー。4枚のMN-Coreボードを搭載できる</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Wed, 12 Dec 2018 15:17:54 +0900</pubDate>
-		</item>
-		<item>
-			<title>ASUS、サイネージ利用も対応するChrome OS搭載の小型PC </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1158010.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1158/010/01.jpg"></div></div><span class="caption">Chromebox 3</span></div></div></div></div><p>　<a href="http://www.asus.com/jp/" class="n" target="_blank">ASUS JAPAN株式会社</a>は、Chrome OS搭載の小型PC「Chromebox 3 (CHROMEBOX3-NC128U)」を発売した。価格はオープンプライス。</p><p>　第8世代のCeleronプロセッサを搭載したChrome OS搭載PC。Google Playで配信される数千のAndroidアプリに対応し、生産性・コミュニケーション・エンターテイメントなどの優れたアプリを導入することで、最大限に活用できるとしている。</p><p>　ライセンス購入後に「Chrome Kioskモード」を設定することで、デジタルサイネージ用のプラグアンドプレイメディアプレーヤーとして使用できる。リモート管理も可能となり、自動アップデート機能により容易なメンテナンスと、タッチスクリーン機能で直感的なユーザーインタラクションの提供を謳う。</p><p>　またシンプルかつ安全という教育用アプリを組み込んでおり、教育機関での運用にも最適としている。</p><p>　おもな仕様は、Celeron 3865U(2コア/2スレッド、1.8GHz)、DDR4-2133メモリ4GB、64GB SSD、OSにChrome OSを搭載。</p><p>　インターフェイスはUSB 3.0×4(1基Type-C/DP Altモード対応)、USB 2.0×2、Gigabit Ethernet、IEEE 802.11ac対応無線LAN、Bluetooth 4.2、HDMI 1.4a、SDXCカードリーダ、音声入出力。</p><p>　本体サイズは148.5×148.5×40mm(幅×奥行き×高さ)で、重量は約1kg。VESAマウントに対応する。</p></div></div>]]></description>
-			<pubDate>Wed, 12 Dec 2018 15:34:38 +0900</pubDate>
-		</item>
-		<item>
 			<title>GPD、WINとPocketに続く第3のUMPCを予告 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1158030.html</link>
 			<description><![CDATA[<div><div><blockquote class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">New member comes to GPD family?<br>Name? Spec? Shape?<a href="https://t.co/KfTC0HNxLS">pic.twitter.com/KfTC0HNxLS</a></p>— GPD Game Consoles (@softwincn)<a href="https://twitter.com/softwincn/status/1072737707363721216?ref_src=twsrc%5Etfw">2018年12月12日</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><p>　GPD Technologyは12日、ポータブルゲーム機「GPD WIN」、7型クラムシェル「GPD Pocket」に続くと見られる、第3のシリーズがGPDファミリに加わることを予告した。</p><p>　Twitterで公開された製品のシルエットを見るかぎり、キーボード側とディスプレイ側をつなぐヒンジが中央で細くなっており、これは今までのGPD WINとGPD Pocketのいずれにもなかった形状だ。</p><p>　かつて富士通から発売されたUMPC「LOOX U50WN」を彷彿とさせるフォルムとなっており、液晶が回転し、クラムシェルとしてもタブレットとしても使える可能性が示唆されている。</p><p>　Twitterでは続けて「Let's wait and see」と投稿しており、近日中になにかしら発表があると思われる。</p></div></div>]]></description>
@@ -123,6 +111,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1158179.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1158/179/01.jpg"></div></div><span class="caption">WS Z390 PRO</span></div></div></div></div><p>　<a href="https://www.asus.com/jp/" class="n" target="_blank">ASUS JAPAN株式会社</a>は、Intel Z390チップセット搭載のワークステーション向けATXマザーボード「WS Z390 PRO」を14日より発売する。価格はオープンプライスで、店頭予想価格は71,000円前後の見込み。</p><p>　ワークステーション向けのマザーボードで、グラフィックスカードを最大4枚まで搭載可能なのが特徴。SLIおよびCrossFireXの両方をサポートし、設計やモデリング、医学研究、処理負荷の高いシミュレーション、レンダリングアプリケーションにおいて性能を発揮できるとしている。</p><p>　Intel製NICのGigabit Ethernetを2ポート用意し、チーミングにも対応する。</p><p>　ソケットはLGA1151で、第8/9世代Coreプロセッサに対応。メモリスロットはDDR4×4で、最大クロックは4,266MHz、容量は計64GBまで。</p><p>　拡張スロットはPCIe 3.0 x16×4(計32レーン)、PCIe 3.0x4×1。ストレージインターフェイスはU.2×2、M.2×2、SATA 6Gb/s×6。</p><p>　背面インターフェイスはDisplayPort、HDMI、Gigabit Ethernet×2、USB 3.1×6(1基Type-C)、USB 2.0×4、音声入出力。</p></div></div>]]></description>
 			<pubDate>Thu, 13 Dec 2018 12:31:55 +0900</pubDate>
+		</item>
+		<item>
+			<title>BenQ、輝度を自動調整する目に優しい21.5型ディスプレイ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1158206.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1158/206/01_o.jpg"></div></div><span class="caption">GW2280</span></div></div></div></div><p>　<a href="http://www.benq.co.jp/" class="n" target="_blank">ベンキュージャパン株式会社</a>は、アイケア機能を複数搭載した21.5型ディスプレイ「GW2280」を発売した。価格はオープンプライスで、店頭予想価格は15,000円前後の見込み。</p><p>　LEDバックライトの非光沢VAパネルを採用し、目への負担を軽減する機能を備えたディスプレイ。表示コンテンツの輝度や周辺環境の光量に応じて、画面の輝度を自動調整する「ブライトネスインテリジェンス(B.I.)テクノロジー」を搭載。ブルーライト軽減機能やフリッカーフリーにも対応し、目の疲労や負担を軽減するという。</p><p>　おもな仕様は、解像度が1,920×1,080ドット、表示色数が約1,677万色、応答速度が15ms(中間色は5ms)、輝度が250cd/平方m、コントラスト比が3,000:1、視野角が上下/左右ともに178度。</p><p>　インターフェイスはミニD-Sub15ピン、HDMI 1.4×2。1W+1Wスピーカーも備える。</p><p>　本体サイズは489.5×183×391.6mm(幅×奥行き×高さ)、重量は3.5kg。</p></div></div>]]></description>
+			<pubDate>Thu, 13 Dec 2018 13:02:20 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】マウス、プロチーム「AXIZ」推奨ゲーミングPCを発売</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1158220.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1158/220/01_o.jpg"></div></div><span class="caption">NEXTGEAR-MICRO im610SA1-SP-C</span></div></div></div></div><p>　<a href="https://www.mouse-jp.co.jp/" class="n" target="_blank">株式会社マウスコンピューター</a>は、プロeスポーツチーム「AXIZ」推奨のゲーミングPCを、同社のゲーミングPCブランド「G-Tune」より発売した。</p><p>　今回発売された推奨モデル「NEXTGEAR-MICRO im610SA1-SP-C」は、CPUにCore i7-8700、GPUにGeForce GTX 1060を搭載したPCで、ゲームプレイだけでなくゲーム配信にも適したPCだという。BTOでのカスタマイズにも対応する。</p><p>　そのほかベースグレードの場合の仕様は、メモリが16GB、ストレージが240GB SSD+1TB HDD、電源が500W。OSにWindows 10 Homeを搭載し、税別価格は139,800円。</p></div></div>]]></description>
+			<pubDate>Thu, 13 Dec 2018 13:40:56 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
