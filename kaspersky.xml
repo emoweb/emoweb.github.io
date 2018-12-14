@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>カード情報を狙い、金銭を脅し取るトロイの木馬「Rotexy」</title>
-			<link>https://blog.kaspersky.co.jp/rotexy-banker-blocker/22054/</link>
-			<description><![CDATA[モバイルプラットフォームを狙うトロイの木馬「Rotexy」。感染経路、攻撃方法、そして一般的なSMSを使って撃退する方法をご説明します。]]></description>
-			<pubDate>Thu, 29 Nov 2018 01:00:50 +0000</pubDate>
-		</item>
-		<item>
 			<title>適切な脅威インテリジェンスサービスの選び方</title>
 			<link>https://blog.kaspersky.co.jp/threat-intelligence-forrester-wave/22060/</link>
 			<description><![CDATA[脅威インテリジェンスに関しては、各社から多種多様なサービスが提供されています。セキュリティ担当者が各ベンダーの能力を分析するのに適した情報リソースとは。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/protecting-seniors-from-cyberthreats/22145/</link>
 			<description><![CDATA[シニア（高齢者）のインターネット利用に不安を抱える子ども世代。ゲーム形式のセキュリティ教材で、インターネット利用について親子で考えてみませんか。]]></description>
 			<pubDate>Fri, 14 Dec 2018 01:00:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>カーネルトランザクションマネージャーに見つかった脆弱性</title>
+			<link>https://blog.kaspersky.co.jp/cve-2018-8611-detected/22160/</link>
+			<description><![CDATA[Kaspersky Labのプロアクティブ技術により、ゼロデイ脆弱性CVE-2018-8611が検知されました。Microsoftより更新プログラムがリリースされています。]]></description>
+			<pubDate>Fri, 14 Dec 2018 06:00:45 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
