@@ -5,19 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    12月14日のできごとは「W-ZERO3発売」「N5901発売」ほか：今日は何の日？
-</title>
-			<link>https://japanese.engadget.com/2018/12/13/12-14-w-zero3-n5901/</link>
-			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2018-12/ca8d27f0-fe74-11e8-bf1d-208645b88e09" />12月14日のおもなできごと
-2001年、パナソニックがゲーム互換機「Q」（SL-GC10）を発売
-2005年、ウィルコムが「W-ZERO3」を発売
-2010年、レノボがミニキーボード「N5901」を発売
-2017年、ソースネクストが「POCKETALK」を発売
-
- ]]></description>
-			<pubDate>Thu, 13 Dec 2018 15:30:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    「文字入力できるマウス」が1万6800円で発売、翻訳も可
 </title>
 			<link>https://japanese.engadget.com/2018/12/13/1-6800/</link>
@@ -680,6 +667,17 @@ Makuake
 https://www.ratocsystems.com/info/news/2018/1214.html
  ]]></description>
 			<pubDate>Fri, 14 Dec 2018 21:15:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    PlayStation Classicのセキュリティ対策はないも同然? 36本の隠しタイトルも発見される
+</title>
+			<link>https://japanese.engadget.com/2018/12/14/playstation-classic-36/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-12%2Fa855aa30-ffb5-11e8-af7f-10d32528e638&client=a1acac3e1b3290917d92&signature=4910861bd889452634ea5709313d15ec85bc1e39" />
+12月初めに発売されたばかりのPlayStation Classicですが、先日USBキーボードを繋いでESCキーを押すだけで「隠しメニュー」が表示されることが判明したのに加えて、海外ではハッカーが改造してゲームを追加できた、USBメモリからROMデータを読み込めた......といった報告が相次いでいます。
+
+米テック系メディアArsTechinicaによると、その原因はSIEが施しているセキュリティ対策が穴だらけだからとのこと。秘密とすべき暗号鍵が本体内に発見されるなど、ゲーム機をハッカーの解析や改造から守る対策が欠落していることが指摘されています。
+ ]]></description>
+			<pubDate>Fri, 14 Dec 2018 22:15:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
