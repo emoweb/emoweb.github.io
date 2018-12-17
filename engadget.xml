@@ -5,31 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ファーウェイ、「余計なものが見つかった」フジ報道を否定
-</title>
-			<link>https://japanese.engadget.com/2018/12/15/huawei/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=1200%2C800%2C0%2C0&quality=85&format=jpg&resize=1200%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-12%2F4949a4d0-0044-11e9-a98d-cfe011fb4ca9&client=a1acac3e1b3290917d92&signature=816244af369caf6926ffae58426bd22d891beb0a" />
-11月、「米国が同盟国へ、ファーウェイ製品を使用の中止を勧告した」という報道に端を発したファーウェイを巡る問題。ファーウェイ製品が中国のスパイ活動の踏み台となることを懸念した米国の思惑もあり、12月頭にはファーウェイの最高財務責任者（CFO）の逮捕につながるなど、米中は関連各国を巻き込んだ緊張状態に入りつつあります。
-
-そんな中でファーウェイ・ジャパンが「製品のセキュリティ上の懸念に関する根拠のない報道について」というニュースリリースを公開しました。
-今回ファーウェイが否定したのは、製品の欠陥を示唆する内容の日本の報道。具体的には、「製品を分解したところ、ハードウェアに余計なものが見つかった」という記述や、「仕様書にないポートが見つかった」という記述を挙げ、「事実無根」と否定しています。
- ]]></description>
-			<pubDate>Sat, 15 Dec 2018 04:10:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    アップルが中国での旧iPhone販売差し止めに次々と対策。ソフトウェア更新や生産サプライヤー変更の噂も
-</title>
-			<link>https://japanese.engadget.com/2018/12/15/iphone/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-12%2F94db6990-0028-11e9-affe-dbc62a1e397a&client=a1acac3e1b3290917d92&signature=4745b920f9ff8a64bcaf137e63266f674aeb1be6" />中国の裁判所がクアルコムの訴えによりiPhone旧モデルの販売を禁止する仮処分が下した件。これを受けてアップルは、早くも影響を最小限に止めようと、様々な対策を打ちつつあるようです。
-
-1つは来週初め、中国のiPhoneユーザーに向けて配信されるソフトウェアアップデート。先の裁判ではiPhoneの一部機種がクアルコムの特許2件を侵害していると判断されましたが、アップルはこの侵害を避けられるアップデートを提供すると米Reutersに声明を発表しています。
-
-もう1つは噂レベルながら、旧モデルiPhoneの生産を台湾の大手サプライヤーPegatronにシフト（生産分を増やす）できるかを交渉しているという件。
-Nikkei Asian Reviewの「この問題に精通している」情報筋によると、Pegatronは同じくアップルの主要サプライヤーであるFoxconnやWistronとは違い、特許侵害が認定されたソフトウェアのライセンス料をクアルコムに支払っており、結果として販売禁止の対象から除外されるためとされています。
- ]]></description>
-			<pubDate>Sat, 15 Dec 2018 05:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    米Amazon、Echo Wall Clock発売。Alexaのタイマーをカウントダウン表示する壁掛け時計
 </title>
 			<link>https://japanese.engadget.com/2018/12/15/amazon-echo-wall-clock-alexa/</link>
@@ -357,6 +332,46 @@ RR Auction
 <p><a href="https://japanese.engadget.com/gallery/mate-20-pro/" title="Mate 20 Proレビュー">【ギャラリー】Mate 20 Proレビュー (10枚)</a></p>
  ]]></description>
 			<pubDate>Mon, 17 Dec 2018 01:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    次期Windows 10では、Cortanaの代わりにAlexaを利用可能に？ 
+</title>
+			<link>https://japanese.engadget.com/2018/12/17/windows-10-cortana-alexa/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-12%2F1c566ee0-01ac-11e9-b7ff-861994e66922&client=a1acac3e1b3290917d92&signature=c85a0be45637467dbfe6a3b85629a5b1d8acd7a7" />
+次期Windows 10 (19H1)において、Cortana以外の音声アシスタントが、ホットワードで起動可能になるかもしれません。
+
+Windows 10で動くCortana以外の音声アシスタントといえば、11月にはWindows 10向けのAlexaアプリがリリースされています（日本では利用できません）。
+
+ 
+関連記事：Windows 10向け「Alexaアプリ」が公開　コルタナさんの影が薄くなる
+
+しかし、一部の端末では「Alexa」のホットワードで利用できるものの、基本的にはキーボードショートカットや画面上のボタンをクリックする必要がありました。
+
+これに対してMicrosoftは、任意のアプリを音声コマンドで起動できる機能を次期Windows 10に追加する予定のようです。多くの端末で、「Alexa」のホットワードが使えるようになる可能性があります。
+
+Windowsのプレビュービルドなどの情報に詳しいTwitterユーザー Albacoreが、19H1の設定画面を公開しており、それによると、音声で任意のアプリが起動可能になるようです。端末がロック状態の場合に起動するアプリも選択可能になっています。
+
+This looks like it might be related to assistants? You'll be able to configure permissions for Voice Activation using keywords/hotwords. pic.twitter.com/VwFt4nYPg5
+- Albacore (@thebookisclosed) 2018年12月14日
+
+これにより、他の音声アシスタントを起動できるという確証はないのですが、同じくAlbacoreは、Windows 10のタスクバーにあるCortanaアイコンから検索機能が分離するとの情報も公開しています。このため、MicrosoftがCortanaの代わりに他の音声アシスタントを使えるようにする可能性はありそうです。
+
+もっとも、ほかの音声アシスタントといっても、思いつくのはAlexaとGoogleアシスタント程度。SiriやSamsungのBixbyもありますが、いずれにしてもWindows 10向けのアプリとしてリリースされているのはAlexaのみ。実質的にはAlexa向けの機能なのかもしれません。
+
+MicrosoftとAmazonは、それぞれの音声アシスタント CortanaとAlexaの相互連携を発表済み。とはいえ、Cortanaの代わりにAlexaを使えるようにするのは、MicrosoftがCortanaを見限ったとも受け取れます。
+
+ユーザーとしては、あまり使わないCortanaよりも、機能が豊富なAlexaがPC上でも使えるのは歓迎したいところ。あとは、Alexaアプリを早く日本でも使えるようになるのを期待するだけです。
+ ]]></description>
+			<pubDate>Mon, 17 Dec 2018 01:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Apple Music、ソーシャル機能「Connect」2019年5月終了へ。すでに投稿は不可
+</title>
+			<link>https://japanese.engadget.com/2018/12/17/apple-music-connect-2019-5/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-12%2F009d8240-01bd-11e9-bffe-ba55bc7c4ff0&client=a1acac3e1b3290917d92&signature=487b8b473030568ff0451b4080842a104c2b789c" />
+Apple Musicがソーシャル機能「Connect」をひっそりと終了します。アップルはApple Musicで楽曲を配信するアーティストに対しこのSNS機能を終了する旨を伝え始めたほか、iOS 12での変更について記したアップルのサポートページにも、小さな文字で「アーティストからのConnect投稿機能がサポート外になった」ことが記されています。
+ ]]></description>
+			<pubDate>Mon, 17 Dec 2018 02:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
