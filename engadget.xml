@@ -5,18 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    自動運転のテストにUnityゲームエンジン活用。Baiduの自動運転車開発コンソーシアム
-</title>
-			<link>https://japanese.engadget.com/2018/12/18/unity-baidu/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-12%2F3307e3c0-02fc-11e9-8fdf-32e2c0d9a07d&client=a1acac3e1b3290917d92&signature=f033a069c30d6113f10f2b441f39faead78fa0db" />
-ここ数年、自動運転車の開発が各国で盛んに行われています。しかし、公道における試験走行ではいくつか事故が発生しており、その中のひとつは死亡事故になってしまいました。もちろん、事故はすべてが自動運転システムのせいで起こっているわけではありません。そして自動運転に限らず、公道を走る以上は他車や歩行者らを巻き込んでしまうリスクは避けられません。
-
-そこで、自動運転車を開発する企業のひとつ、中国のBaiduは、未熟な自動運転システムによる事故を避け、さらに効率よくアルゴリズムを鍛え上げるために、リアルタイム3DゲームエンジンのUnityと協力することを発表しました。
- 
- ]]></description>
-			<pubDate>Tue, 18 Dec 2018 15:50:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    背景ボカしと補正でいい感じ♪フロントカメラで美顔撮影できる「ポートレートセルフィー」：Xperia XZ3 Tips
 </title>
 			<link>https://japanese.engadget.com/2018/12/18/xperia-xz3-tips/</link>
@@ -531,6 +519,19 @@ Bloombergによると、SoftBank Corpの株を1500円の開始価格で買った
 
  ]]></description>
 			<pubDate>Wed, 19 Dec 2018 16:40:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    出所不明アプリを安全に試せる「Windows Sandbox」。一時的なデスクトップ環境、閉じればすべて消去
+</title>
+			<link>https://japanese.engadget.com/2018/12/19/windows-sandbox/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-12%2F4ecf9630-03d7-11e9-b7df-d83bcbdcaf1c&client=a1acac3e1b3290917d92&signature=a5198d76e8a927e13f5f63a65cadb8b299801003" />
+会社や手持ちのWindowsマシンで、なんとなく信頼できないプログラムを走らせなければならないとき、ウィルススキャンだけでは不安な場合があります。Windowsをクリーンインストールした仮想マシンを使うという手もなくはありませんが、それもまた面倒だし時間もないという人がほとんどでしょう。
+
+マイクロソフトは、このようなときに安全かつ手軽にプログラムを実行できる機能「Windows Sandbox」を発表しました。
+
+ 
+ ]]></description>
+			<pubDate>Wed, 19 Dec 2018 17:15:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
