@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>まだまだ健在、WannaCry</title>
-			<link>https://blog.kaspersky.co.jp/wannacry-is-still-alive/22066/</link>
-			<description><![CDATA[Kaspersky Labのデータから考えると、WannaCryが過去のものになったとは言えません。2018年第3四半期のランサムウェアによる攻撃の3割近くは、WannaCryによるものでした。]]></description>
-			<pubDate>Mon, 03 Dec 2018 01:00:31 +0000</pubDate>
-		</item>
-		<item>
 			<title>危険な関係：親類や友達から漏れていくあなたの秘密</title>
 			<link>https://blog.kaspersky.co.jp/mentions-and-dna-vs-privacy/22051/</link>
 			<description><![CDATA[インターネット上のプライバシーは、自分だけではコントロールできません。親しい人たちから、さまざまな情報が漏れていきます（DNA情報さえも）。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/phishing-spam-hooks/22134/</link>
 			<description><![CDATA[お金や個人情報をだまし取るために、スパム送信者が使う5つの常套手段とは。]]></description>
 			<pubDate>Tue, 18 Dec 2018 01:00:58 +0000</pubDate>
+		</item>
+		<item>
+			<title>DarkVishnya：オフィス内部からの攻撃</title>
+			<link>https://blog.kaspersky.co.jp/dark-vishnya-attack/22124/</link>
+			<description><![CDATA[サイバー攻撃を行うにあたり、必ずしも標的のコンピューターをマルウェアに感染させる必要はありません。攻撃用のデバイスをネットワークに直接つなげるという方法もあるのです。]]></description>
+			<pubDate>Wed, 19 Dec 2018 01:00:43 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
