@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】エプソン、SC-F6200 通信用プリンタードライバーほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1159057.html</link>
-			<description><![CDATA[<div><div><p>　エプソンは、SC-F6200 通信用プリンタードライバーほかを公開した。</p></div></div>]]></description>
-			<pubDate>Tue, 18 Dec 2018 18:42:54 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】バッファロー、WSR-2533DHPLシリーズファームウェア for Windows Ver.1.05ほか</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1159056.html</link>
 			<description><![CDATA[<div><div><p>　バッファローは、WSR-2533DHPLシリーズファームウェア for Windows Ver.1.05ほかを公開した。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/biz/1159384.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/384/1_o.jpg"></div></div><span class="caption">MousePro T310</span></div></div></div></div><p>　<a href="https://www.mouse-jp.co.jp/" class="n" target="_blank">株式会社マウスコンピューター</a>は、第9世代Coreプロセッサを搭載した法人向けのデスクトップPC「MousePro T310」を発売した。</p><p>　第8世代CoreプロセッサからCPUコア数が最大で6から8に増え性能が向上。また、最大64GBまでのメモリや、HDDのRAID 1構成などに対応する。</p><p>　下位の「MousePro-T310XR8-M2」は、CPUにCore i7-9700K(3.6GHz)、メモリ16GB、Intel Z390チップセット、256GB M.2 SSD、ビデオカードにGeForce RTX 2080、OSにWindows 10 Proを搭載し、税別価格は259,800円。</p><p>　上位の「MousePro-T310XR8-M22」は、上記からCPUをCore i9-9900K(3.6GHz)、メモリを32GBに強化し、価格は299,800円。</p><p>　空きベイは3.5インチ×2、3.5インチシャドウ×1、2.5インチシャドウ×1。空きスロットはPCI Express x4(x16形状)×1、同x1×1。インターフェイスは、USB 3.1×3(うち2基はType-C)、USB 3.0×4、Gigabit Ethernet、DisplayPort×3、HDMI、PS/2、音声入出力などを備える。</p><p>　本体サイズは172×387×361mm(幅×奥行き×高さ)、重量は約7.7～7.75kg。</p></div></div>]]></description>
 			<pubDate>Thu, 20 Dec 2018 12:29:47 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10プレビューに“サンドボックス”機能。隔離環境でEXEファイルを実行可能に </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1159389.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/389/01_o.png"></div></div><span class="caption">Windows Sandbox</span></div></div></div></div><p>　<a href="http://www.microsoft.com/" class="n" target="_blank">米Microsoft</a>は12月19日(現地時間)、Windows 10 Insider Preview「Build 18305(19H1)」をFast ringで公開した。今年(2018年)のInsiders向けメジャーアップデートはこれが最後になるとしているが、累積アップデートといった細かなパッチは提供予定。</p><p>　Build 18305ではWindows 10の新機能として「Windows Sandbox」を提供。仮想マシンをセットアップすることなく“.EXE”といった実行ファイルを安全に起動して、ホスト側になんら影響を与えずに挙動を確認できるようになる。Sandboxで実行されたアプリやそこから生成されたファイルなどは、Sandboxの終了時に完全削除される。</p><p>　Windows Sandboxは、「設定→アプリ→アプリと機能→プログラムと機能→Windowsの機能の有効かまたは無効化」で立ち上がったWindowsの機能のダイアログから「Windows Sandbox」にチェックボックスを入れたあと、再起動すれば利用できるようになる。あとは、スタートメニューから「Windows Sandbox」と検索して実行すればよい。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/389/02_o.png"></div></div></div></div></div></div><p>　Windows Sandboxは、Windows 10 ProおよびEnterpriseで利用可能で、VHD(Virtual Hard Disk)のダウンロードは不要。実行のたびにデバイスを含めてクリーンな環境が生成される。また、ハードウェアベースの仮想化機能を使用し、ホストから独立して稼働。統合カーネルスケジューラを利用し、効率的なメモリ管理、仮想GPUの実装も特徴とする。</p><p>　なお、現時点ではWindows Sandboxの初回インストール後に、すべてのサービスとイベントのセットアップが動作することで、1分間ほどCPUとディスクを著しく使用してしまったり、スタートメニューからサンドボックスを実行できないといった場合や、タイムゾーンがホストと同期できないといった不具合が発生している。</p></div></div>]]></description>
+			<pubDate>Thu, 20 Dec 2018 13:00:58 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
