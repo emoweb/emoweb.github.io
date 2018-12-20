@@ -5,48 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>次世代HBMは転送速度1TB/s超えの速度に </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1159414.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/414/01.png"></div></div><span class="caption">AMDのHBM実装図</span></div></div></div></div><p>　<a href="https://www.jedec.org/" class="n" target="_blank">JEDEC Solid State Technology Association</a>は17日(米国時間)、High Bandwidth Memory(HBM) DRAMの規格をアップデートし、「JESD235」を発表した。</p><p>　HBMはグラフィックスやHPC、サーバー、ネットワーキングなど広帯域と低消費電力、高密度実装を求められる業界向けの高速メモリで、Radeon VegaやTITAN Vといったビデオカードで採用されている。</p><p>　JESD235では、8つの独立チャネルに分割された1,024bit幅のインターフェイスを介するアクセスにより、1スタックデバイスあたり最大307GB/sの帯域を実現。TSV技術による2Hi(2層)、4Hi(4層)、8Hi(8層)、12Hi(12層)のメモリ積層に対応し、1スタックあたりの最大容量は24GBまでサポートされる。</p><p>　Tesla V100などで採用されている4スタック構成の場合、JESD235ではインターフェイス幅4,096bit/合計帯域幅1,228GB/sで、最大96GBのVRAMの構築が可能となる。</p><p>　今回の規格更新では、ピンあたりの帯域幅が2.4Gbpsに拡張され、高密度コンポーネント用の16Gbレイヤーと12Hi構成に対応する新しいフットプリントオプションの追加などが行なわれている。</p></div></div>]]></description>
-			<pubDate>Thu, 20 Dec 2018 14:40:19 +0900</pubDate>
-		</item>
-		<item>
-			<title>Internet Explorerにリモートコードを実行可能な深刻な脆弱性 ～Windowsユーザーは早急なセキュリティアップデートの適用を</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1159438.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/438/01.png"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">日本マイクロソフト株式会社</a>は19日、Webブラウザ「Internet Explorer 9/10/11」について、深刻な脆弱性が発見されたことを公開した。</p><p>　発見された脆弱性は、Internet Explorer内のJScriptスクリプトエンジンにおけるメモリ破損に関するもの。</p><p>　脆弱性を悪用されると、攻撃者が現在のユーザーと同じユーザー権限を取得できる可能性があり、ユーザーが管理者権限でログオンしている場合、任意のプログラムのインストールやデータの表示、変更、削除、完全なユーザー権限を持つ新たなアカウントの作成といった操作を行なわれてしまう恐れがあるという。</p><p>　悪用対象OSはWindows 7からWindows 10、Windows Server 2008や2012 R2など広範囲に渡り、CVSSスコアの基本値は7.5。すでに各OSに対し対策セキュリティアップデートが提供されている。</p><p>　Microsoftでは、すでに本脆弱性が悪用されていることを確認済みとしており、JPCERTでは、IEで悪意あるWebサイトを表示させるなどして脆弱性を利用した攻撃を実行できるため、早急なセキュリティ更新プログラムの適用を推奨している。</p></div></div>]]></description>
-			<pubDate>Thu, 20 Dec 2018 15:07:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ASUS、2スロットでメモリ最大64GB搭載可能なmicroATXゲーミングマザーボード ～Thunderbolt 3+5Gigabit Ethernet対応マザーも</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1159419.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/419/01_o.jpg"></div></div><span class="caption">ROG MAXIMUS XI GENE</span></div></div></div></div><p>　<a href="https://www.asus.com/jp/" class="n" target="_blank">ASUS JAPAN株式会社</a>は、Intel Z390チップセット搭載の「ROG MAXIMUS XI GENE」、Intel X299チップセット搭載の「PRIME X299-DELUXE II」、Intel H310チップセット搭載の「PRIME H310M-A R2.0」のマザーボード3製品を21日に発売する。</p><p>　価格はすべてオープンプライスで、店頭予想価格は順に42,000円前後、72,000円前後、8,000円前後の見込み。</p></div><div><h3 class="hdg-03"><span>ROG MAXIMUS XI GENE</span></h3><p>　ROG MAXIMUS XI GENEは、ASUSのゲーミングブランドROGのmicroATXマザーボード。「DOUBLE CAPACITY DIMM」設計により、1スロットで最大32GBのメモリまで対応。メモリスロットは2本だが、最大64GBまで搭載可能となっている。対応クロックはDDR4-4800まで。</p><p>　「ROG DIMM.2」拡張カードも付属し、マザーボード上の専用スロットに差し込むことでM.2 SSDを最大2枚まで追加できる。また、拡張スロット部に金属パーツを使用し強度を確保する「SafeSlot」や、PC内の各種ファンを温度に応じて制御できるユーティリティ「Fan Xpert 4」なども利用できる。</p><p>　CPUソケットはLGA1151で、対応CPUは第8/9世代Coreプロセッサ。ストレージインターフェイスはPCI Express x4接続M.2×2、SATA 6Gbps×4。</p><p>　拡張スロットはPCI Express 3.0 x16、同x4。背面インターフェイスはUSB 3.1×5、USB 3.0×8、USB 2.0×6、PS/2、Gigabit Ethernet、IEEE 802.11ac対応無線LAN、Bluetooth 5.0、音声入出力などを備える。</p><p>　なお、このマザーボードは一部ピンヘッダがボード面に対して水平に設置されているため、注意が必要。</p></div><div><h3 class="hdg-03"><span>PRIME X299-DELUXE II</span></h3><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/419/02_o.jpg"></div></div><span class="caption">PRIME X299-DELUXE II</span></div></div></div></div><p>　PRIME X299-DELUXE IIは、Thnderbolt 3対応ポートを2基備えるPRIMEシリーズのATXマザーボード。同ポートに接続されたデバイスに対して最大15Wの電力供給もできるという。</p><p>　5Gigabit Ethernetに対応したAquantia製「AQC-111C」を搭載するほか、SafeSlotやFan Xpert 4なども備える。また、Fan Xpert 4で制御可能なピンヘッダを6基増設できる「Fan Extension Card II」も付属する。</p><p>　CPUソケットはLGA2066で、対応CPUはCore Xプロセッサ。メモリスロットはDDR4×8(最大128GB)、対応クロックはDDR4-4266まで。ストレージインターフェイスはPCI Express x4接続M.2×3、SATA 6Gbps×8。</p><p>　拡張スロットはPCI Express 3.0 x16×3、同x1×2。背面インターフェイスはUSB 3.1×3、USB 3.0×8、USB 2.0×3、Thunderbolt 3×2、5Gigabit Ethernet、Gigabit Ethernet、IEEE 802.11ac対応無線LAN、Bluetooth 5.0、音声入出力などを備える。</p></div><div><h3 class="hdg-03"><span>PRIME H310M-A R2.0</span></h3><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/419/03_o.jpg"></div></div><span class="caption">PRIME H310M-A R2.0</span></div></div></div></div><p>　PRIME H310M-A R2.0は、信頼性や安定性を向上をさせる「5X PROTECTION III」に対応するPRIMEシリーズのmicroATXマザーボード。拡張スロットを強化する「SafeSlot Core」やLAN端子を静電気から保護する「LANGuard」などが含まれる。</p><p>　メモリスロットのノッチを片側のみとしメモリの差し込みを容易にする「Q-DIMM」や、USBポートに接続したスマートフォンやタブレットの充電速度を高速化する「Ai Charger」などを搭載。そのほか、メモリの安定性の向上を図る「ASUS OptiMem」、ファン制御機能のFan Xpertなども備える。</p><p>　CPUソケットはLGA1151で、対応CPUは第8世代Coreプロセッサ。メモリスロットはDDR4×2(最大32GB)、対応クロックはDDR4-2666まで。ストレージインターフェイスはPCI Express x4接続M.2、SATA 6Gbps×4。</p><p>　拡張スロットはPCI Express 3.0 x16、2.0 x1×2。背面インターフェイスはUSB 3.0×4、USB 2.0×6、Gigabit Ethernet、音声入出力などを備える。また、映像出力はHDMI、DVI-D、ミニD-Sub15ピンを搭載する。</p></div></div>]]></description>
-			<pubDate>Thu, 20 Dec 2018 15:08:28 +0900</pubDate>
-		</item>
-		<item>
-			<title>本日みつけたお買い得品NTT-Xで約930gの11.6型モバイルノート「VAIO S11」が77,800円に</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/todays_sales/1159477.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/477/01_o.jpg"></div></div><span class="caption">VAIO S11</span></div></div></div></div><p>　NTT-X Storeは、VAIOの11.6型モバイルノート「VAIO S11」を会員割引クーポンにより21,000円引きとし、77,800円の特別価格で販売中。在庫僅少で期間は12月25日の10時まで。</p><p>　LTE非対応モデルで、OSはWindows 10 Proを採用。CPUはCore i5-6200U(2コア/2.3GHz、Intel HD Graphics 520)、メモリ4GB、SATA SSD 128GB、11.6型フルHD(1,920×1,080ドット)液晶ディスプレイを搭載する。</p><p>　VAIO S11についての詳細なスペックなどについては別記事(<a href="https://pc.watch.impress.co.jp/docs/news/734398.html">VAIO、重量約920gからのLTE対応11.6型ノート「VAIO S11」</a>)を参照されたい。</p><div><div><div><div><span class="title">NTT-X Storeで購入する</span></div></div><div></div><div><div><div><div><a href="https://nttxstore.jp/_II_SN15947293?LID=PCW&amp;FMID=PCW" rel="nofollow"><img src="https://pc.watch.impress.co.jp/img/watch/parts/icon/loading.png" class="resource" style="width:160px;height:160px;" id="01a_s.jpg" ajax="/img/pcw/docs/1159/477/01a_s.jpg"></a></div></div><span class="caption"><a href="https://nttxstore.jp/_II_SN15947293?LID=PCW&amp;FMID=PCW">VAIO S11</a></span></div></div></div></div></div></div>]]></description>
-			<pubDate>Thu, 20 Dec 2018 16:35:28 +0900</pubDate>
-		</item>
-		<item>
-			<title>XPG、4千円前後の低価格なゲーミングキーボード/マウス </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1159465.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/465/01_o.jpg"></div></div><span class="caption">INFAREX K10</span></div></div></div></div><p>　<a href="http://www.adata.com/jp/" class="n" target="_blank">エイデータテクノロジージャパン株式会社</a>はゲーミングブランド「XPG」から、低価格なゲーミングキーボード「INFAREX K10」およびゲーミングマウス「INFAREX M20」を21日より発売する。店頭予想価格はそれぞれ4,280円と3,480円。</p><p>　INFAREX K10はLEDイルミネーション機能を備えたゲーミングキーボード。本体に9種類のイルミネーションパターンが内蔵されており、PC側にユーティリティのインストールが必要ない。キー軸にはMem-chanicalスイッチを採用し、同時キー入力は26キーまで。Windowsキー無効化機能やファンクションキーを使ったマルチメディアショートカット機能も備える。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/465/02_o.jpg"></div></div><span class="caption">INFAREX M20</span></div></div></div></div><p>　INFAREX M20は5段階の解像度切り替えが可能な光学式センサーを搭載するゲーミングマウス。センサー解像度は400/800/1,600/3,200/5,000dpiのなかから選択でき、マウス上のボタンで切り替えられる。スイッチには2,000万回以上のクリックに耐えられるというオムロン製スイッチを採用する。また、LEDイルミネーション機能も備える。</p><p>　本体サイズは69×132×43.5mm(幅×奥行き×高さ)、重量は160g。</p></div></div>]]></description>
-			<pubDate>Thu, 20 Dec 2018 16:39:27 +0900</pubDate>
-		</item>
-		<item>
-			<title>【やじうまPC Watch】CFD、Panramメモリ購入でパン缶がもらえるキャンペーンを開催</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1159437.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/437/01_o.jpg"></div></div></div></div></div></div><p>　<a href="http://www.cfd.co.jp/" class="n" target="_blank">CFD販売株式会社</a>は、メモリブランド「Panram」の5周年を記念して、対象のPanramを購入したユーザーにオリジナルパッケージの「パン缶」をプレゼントするキャンペーンを開催する。期間は12月28日からで、なくなり次第終了となる。</p><p>　プレゼントされるパン缶は約3年の長期保存が可能なもので、Panramを取り扱っている店舗にて対象製品を購入するとパン缶がプレゼントされる。なお、一部店舗や通販は対象外となる。</p><p>　対象製品の型番などについてはキャンペーンのお知らせページにて確認できる。</p></div></div>]]></description>
-			<pubDate>Thu, 20 Dec 2018 16:39:39 +0900</pubDate>
-		</item>
-		<item>
-			<title>ユニットコム、外付けGPUボックス付き14型ノートPC </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1159504.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/504/01_o.jpg"></div></div><span class="caption">LEVEL-14FH054-i7-RNSS</span></div></div></div></div><p>　<a href="https://www.unitcom.co.jp/" class="n" target="_blank">株式会社ユニットコム</a>はゲーミングPCシリーズ「LEVEL∞」から、外付けGPUボックスが標準で付属する14型ノートPC「LEVEL-14FH054-i7-RNSS」を発売した。価格は188,978円から。</p><p>　Core i7-8550U(4コア/1.8GHz)を搭載した14型ノートPCにGeForce GTX 1060(8GB)を内蔵するGPUボックスが同梱されたモデル。接続はThunderbolt 3で行なわれ、普段はノートPC単体で作業しゲームをプレイするときだけ接続するなど、必要に応じてグラフィックス性能を大幅に引き上げる。</p><p>　ベースモデルでのおもな仕様は、ディスプレイが14型フルHD(1,920×1,080ドット)非光沢液晶、メモリが8GB、GPUがIntel UHD Graphics 620(内蔵時)またはGeForce GTX 1060(外付け時)、ストレージが240GB SATA SSD、OSはWindows 10 Homeを搭載する。</p><p>　インターフェイスは、Thunderbolt 3、USB 3.0×2、SDカードリーダ、Mini DisplayPort、HDMI、音声入出力などを備える。</p><p>　本体サイズは約330×226×20mm(幅×奥行き×高さ)、重量は1.5kg。外付けGPUボックスのサイズは約172×400×242mm(同)。</p><p>　そのほか、クリエイター向けの「SENSE∞」やビジネス向け「SOLUTION∞」シリーズでも外付けGPUボックス付きモデルが展開される。</p></div></div>]]></description>
-			<pubDate>Thu, 20 Dec 2018 18:03:16 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】ケイン・コスギさんがGALLERIAのアンバサダーに就任</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1159535.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/535/01_o.jpg"></div></div><span class="caption">ケイン・コスギさん</span></div></div></div></div><p>　<a href="https://www.dospara.co.jp/" class="n" target="_blank">ドスパラ</a>が展開するゲーミングPCブランド「GALLERIA(ガレリア)」のアンバサダーにケイン・コスギさんが20日より就任した。</p><p>　今回のアンバサダー就任は、ケイン・コスギさんが自身の趣味であるゲームの実況配信などを行なっていることなどがきっかけ。「PERFECT GAMING!」のメッセージのもと、これから行なわれるGALLERIAのイベントや動画配信などに登場する予定。</p><p>　ケイン・コスギさんはアンバサダー就任にあたって「オンラインゲームは、年齢や性別に関係なく、誰でも一緒のフィールドで遊ぶことができ、世代や地域を超えて友人を作れる事が一番の魅力だと思っております。その楽しさや魅力を、サードウェーブとタッグを組み、皆様にお伝えできたらと考えております。」とコメントしている。</p><p>　また、この就任を記念して同じく20日より「勝利の「G」Twitter投稿キャンペーン」も開催される。ケイン・コスギさんの勝利の証「G」パフォーマンスまたは「G」に見えるものを撮影し、ハッシュタグ「#perfectgaming」をつけてTwitterに投稿するというもの。優秀作の投稿者にはGALLERIAのゲーミングPCがプレゼントされる。</p><p>　キャンペーンの詳細などは特設ページにて。</p></div></div>]]></description>
@@ -123,6 +81,48 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1159556.html</link>
 			<description><![CDATA[<div><div><p>　富士通は、LIFEBOOK T936/N, T936/P用 BIOS書換データほかを公開した。</p></div></div>]]></description>
 			<pubDate>Thu, 20 Dec 2018 20:48:32 +0900</pubDate>
+		</item>
+		<item>
+			<title>今年の年末座談会は、メーカー編とライター編の2部構成で23日17時より生配信! ～生視聴だけで当たるプレゼントもご用意</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1159600.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/wIf4_nB-tMw?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div></div></div></div></div><p>　恒例の「PC Watch年末座談会2018」を12月23日(日)17時より生配信する。今回は2部構成で、1部がメーカー座談会、2部がライター座談会となる。</p><p>　メーカー座談会のテーマは、今年注目を集めた「eスポーツ」。参加いただくのは、ドスパラ(サードウェーブ)、日本HP、マウスコンピューター、NVIDIAの4社。各社にeスポーツへの取り組みを伺うほか、メーカー同士でのディスカッションも行なっていただく。</p><p>　2部のライター座談会はいつもの、笠原一輝氏、後藤弘茂氏、山田祥平氏を迎え、PC業界での2018年のあんなニュースやこんなニュースについて忖度なく議論、解説していただく。アシスタントとして今年も勝又楓さんにもご出演いただく。</p><p>　また、配信中にメーカー様よりご提供いただいたプレゼントの抽選を行なうので、ぜひ生でご覧頂きたい。</p></div></div>]]></description>
+			<pubDate>Fri, 21 Dec 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】Googleフォトで写真の明るさや雰囲気を変える方法 </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1159531.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/531/5_o.jpg"></div></div></div></div></div></div><blockquote><p>　［Googleフォト］アプリのフィルタを使えば、写真の明るさや雰囲気を変えられます。スマートフォン標準の写真アプリのフィルタとは違った写真に仕上がるので、試してみましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/17000/">Googleフォトで写真の明るさや雰囲気を変える方法</a></p></blockquote></div></div>]]></description>
+			<pubDate>Fri, 21 Dec 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】Googleフォトのいらない写真を整理する方法 </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1159530.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/530/4_o.jpg"></div></div></div></div></div></div><blockquote><p>　Googleフォト内の写真を削除すると［ゴミ箱］に移動され、60日以内であればいつでも復元できます。削除したい写真をロングタッチで選択します。</p><p class="src">できるネットの<a href="https://dekiru.net/article/17001/">Googleフォトのいらない写真を整理する方法</a></p></blockquote></div></div>]]></description>
+			<pubDate>Fri, 21 Dec 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】年賀状の書き方と挨拶文・一言添え書き文例集 </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1159529.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/529/3_o.png"></div></div></div></div></div></div><blockquote><p>　お世話になっている人に送る年賀状は、失礼な書き方や文章にならないよう、ルールとマナーに気をつけたいもの。創刊25周年を迎えたインプレスの年賀状ムックの誌面から、年賀状の宛名面・裏面の書き方と、気の利いた挨拶文・一言添え書きの文例を紹介します。</p><p class="src">できるネットの<a href="https://dekiru.net/article/17266/">年賀状の書き方と挨拶文・一言添え書き文例集</a></p></blockquote></div></div>]]></description>
+			<pubDate>Fri, 21 Dec 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】知ってた? iPhoneのメモをパスワードでロックする方法。重要な情報をしっかり守ろう </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1159528.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/528/2_o.png"></div></div></div></div></div></div><blockquote><p>　気軽に使えるiPhoneの［メモ］アプリを、備忘録として使っている人は多いでしょう。でも、パスワードや暗証番号など、絶対に知られてはいけない情報を保存するのは心配ではありませんか? iPhoneのロックに加えて、メモのロックも活用しましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/17563/">知ってた? iPhoneのメモをパスワードでロックする方法。重要な情報をしっかり守ろう</a></p></blockquote></div></div>]]></description>
+			<pubDate>Fri, 21 Dec 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】【エクセル時短】超カンタン! 2019年のカレンダーをExcelのテンプレートを使って作る </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1159527.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/527/1_o.png"></div></div></div></div></div></div><blockquote><p>　カレンダーは市販品を選ぶのも楽しいですが、自分で印刷できる飾りのないシンプルなものも重宝します。今回はExcelのテンプレートを利用して、2019年のカレンダーを作ってみましょう。驚くほどカンタンにできますよ。</p><p class="src">できるネットの<a href="https://dekiru.net/article/17561/">【エクセル時短】超カンタン! 2019年のカレンダーをExcelのテンプレートを使って作る</a></p></blockquote></div></div>]]></description>
+			<pubDate>Fri, 21 Dec 2018 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【山田祥平のRe:config.sys】いつも以下でもなくいつも以上でもないモバイルネットワークを </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/config/1159463.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/463/nasebanaru_o.JPG"></div></div></div></div></div></div><p>　とつぜん、暮らしを襲うネットワーク障害。何不自由なく使えていたスマートフォンがとつぜん使えなくなる。にっちもさっちもいかない状況に右往左往する人々。いろんな悲劇が起こったに違いない。</p></div><div><h3 class="hdg-03"><span>万が一のときに頼りにできる別経路を確保しておこう</span></h3><p>　その男性は、江東区役所のビルに入ると、まっすぐに2Fロビーにある総合案内所に駆け寄り、案内嬢にWi-Fiのパスワードをたずねた。案内嬢が即座に江東区公衆無線LANのSSIDとパスワードがないことを伝えると、男性はスマートフォンの画面を凝視しながら傍らのソファに腰掛け、なにやら作業をはじめた。</p><p>　2018年12月6日の13時45分頃。ソフトバンクが大規模障害を起こしたその日の出来事だ。障害が発生したのは13時39分だったのでまさにその時間だ。不思議な光景だったので、手元のスマートフォンでTwitterのタイムラインを確認すると、なにやらソフトバンクがおかしいことになっているといった旨のツイートが並びはじめていた。</p><p>　手元のスマートフォンのキャリアはソフトバンクではなかったので、とくに問題なくいつも以下でもなくいつも以上でもなかった。たぶんその男性は江東区が公衆無線LANのサービスを実施していることを普段から知っていて、ソフトバンクにネットワーク障害が起こっているらしいことに気がついて、区役所に立ち寄ったのだろう。立派な心がけだと思う。</p><p>　結局、ソフトバンクのネットワークが完全に復旧したのはその日の18時4分。発生からじつに4時間25分が経過していた。それだけの時間、ネットワークが使えなかったユーザーがいるということだ。万が一に備えて別のキャリアの回線を確保しておこうとか、MVNOを選ぶならメインの回線とは別のキャリアというような防衛策は、ほとんどすべての一般市民にとっては非現実的だ。</p><p>　この日、QRコードをスマートフォンで確認するGLAYのコンサートは、QRコード確認なしで観客を入場させることを余儀なくされた。その連絡がTwitterやWebで行なわれたのだから、通信障害渦中にいるエンドユーザーはどれだけ不安だったか。でも、会場周辺に十分な帯域を確保した無料Wi-Fiの用意をして、万が一の事故に備えるくらいのことはコンサートの主催者側もできたんじゃないか。</p><p>　つまり、モバイルネットワークも、チケットシステムも公共インフラとしては致命的な問題を抱えている。</p><p>　ソフトバンクは上場記者会見において謝罪するとともに、障害の経緯も説明した。障害発生直後の数日間で1万件ほどのMNP転出や解約が発生し、それがこの障害の影響だと考えている旨を表明した。</p><p>　「われわれはエリクソンに頼りすぎていた」と、ソフトバンクの宮川潤一副社長はいい、さまざまな角度からの再発防止策を表明した。</p></div><div><h3 class="hdg-03"><span>モバイルネットワークと鉄道ネットワーク</span></h3><p>　2018年12月19日14時31分頃に、都営新宿線岩本町駅で人身事故が発生し、全線での運転見合わせが発表された。この情報配信が14時45分だ。運転が再開されたのは16時7分で、その旨の情報配信は2分後の16時9分だった。その後も一部列車に遅れが生じて振替輸送が実施された。</p><p>　都営新宿線は新宿と本八幡を結ぶ地下鉄だが、この路線に障害が発生しても、首都圏の鉄道は、ほかの路線が振替輸送をすることで最悪の混乱は回避できるようになっている。もっとも、定期券や普通きっぷ、回数券などでの振替乗車は無償。PASMOやSuicaでの乗車では無償での振替輸送にはならず自己負担となってしまうが、目的地に到達できないよりははるかにましだ。</p><p>　たとえば都営新宿線を使って新宿駅から住吉駅に向かっている途中で、路線に障害が起きて九段下駅で止まってしまっても、そこで東京メトロの半蔵門線に乗り換えて錦糸町経由で住吉へといったことができる。また、この日は都営新宿線が乗り入れている京王線もダイヤが乱れ、他路線への振替輸送が行なわれた。</p><p>　鉄道路線はまさにネットワークそのもので、モバイルネットワークもこの振替輸送、つまるところは他社ローミングの仕組みがあれば、障害によるエンドユーザーの実害をかなりの部分抑えることができるかもしれない。</p><p>　もっとも、振替輸送は、各鉄道会社が精一杯の努力をして運行を維持することが前提だ。その上でどうしても回避できない事故が発生したときに対処するためのもので、最初からその制度を前提にしてネットワーク整備を構築するのでは意味がない。</p><p>　単に互助会のようにメガキャリアが万が一の事故に備えて回線を融通しあうのではなく、障害を起こした場合の原因などに応じてペナルティを科すような仕組みも必要だろう。鉄道ネットワークは路線ごとに行き先がまちまちだが、モバイルネットワークの行き先はインターネットだからある意味同一だ。そのあたりも考慮しなければならない。</p><p>　ソフトバンクでは、通信事業者間でのローミング接続導入を検討する時期に入ったのではないかと表明しているが、本当ならこういう提案は、障害を発生させた当事者のソフトバンクよりも、ドコモやKDDIなどから出てくるべきものだ。そうならなかったのは、明日は我が身という危機感よりも、うちは自前で障害を回避できるという自信からくるものなのだろうか。</p><p>　いずれにしても強固なネットワークの構築にはカネがかかることを忘れてはならない。携帯電話料金値下げも大事だが、ネットワーク整備の費用確保も重要なのだ。</p></div><div><h3 class="hdg-03"><span>エンドユーザーにはいい迷惑</span></h3><p>　われわれエンドユーザーができる自衛手段としては、通信に依存するサービスを利用するさいには、オフラインでもそのサービスを受けられるように準備しておくことしかない。そんな用意をしなくてもなんとかしてくれるのがサービスだと思うが、そうはなっていないから話がややこしくなる。</p><p>　今回のコンサートチケットの例のように、提示時にネットワーク障害が起こってしまうとどうしようもない場合もある。チケットサービス側も、ネットワークは必ずつながっているということを前提にしていると痛い目に遭うことを理解し、その代替手段を用意しておくべきではないか。「企画倒れ」ではすまされないのだ。</p><p>　なにがあっても絶対大丈夫というようなネットワークはありえない。そういう意味では一意の電話番号に紐付いたサービスや、端末依存のサービスはやめたほうがいいのではないか。電話番号というのはそれほどに信頼できる存在なのだろうか。</p><p>　この先20年間のネットワークの時代を考えれば電話番号とユーザーを紐付けるDNSがほしいと思う。瞬時に伝搬するしっかりしたDNSがあるのなら、いくらでも電話番号は変えられる。というか、この先、人間同士の通話が電話番号に依存する時代が、どのくらい続くのだろう。電話番号が場所に紐付いた時代から、今は端末に紐付くようになった。次は人に紐付くというのではあまりにもなさけない。</p></div></div>]]></description>
+			<pubDate>Fri, 21 Dec 2018 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
