@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】バッファロー、WSR-2533DHPLシリーズファームウェア for Windows Ver.1.05ほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1159056.html</link>
-			<description><![CDATA[<div><div><p>　バッファローは、WSR-2533DHPLシリーズファームウェア for Windows Ver.1.05ほかを公開した。</p></div></div>]]></description>
-			<pubDate>Tue, 18 Dec 2018 18:45:05 +0900</pubDate>
-		</item>
-		<item>
 			<title>本日みつけたお買い得品NTT-X、デュアルレンズの5.5型スマホ「ZenFone 4」を3万円台で提供</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/todays_sales/1159090.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/090/01_o.jpg"></div></div><span class="caption">ZenFone 4(ZE554KL-WH64S6)</span></div></div></div></div><p>　NTT-X Storeは、ASUS製5.5型Androidスマートフォンの「ZenFone 4(ZE554KL-WH64S6)」を会員割引クーポンにより5,000円引きとし、台数限定の34,999円の特別価格で販売している。期限は12月25日10時まで。</p><p>　ZenFone 4のムーンライトホワイトモデルとなり、SoCはQualcomm Snapdragon 660(8コア/2.2GHz)、メモリ6GB、ストレージ64GB、5.5型フルHD(1,920×1,080ドット)IPS液晶ディスプレイ、OSはAndroid 7.1.1を採用。カメラは背面1,200万画素と800万画素のデュアルレンズを搭載している。</p><p>　また、Nano SIMスロットを2基備えており、DSDS(デュアルSIMデュアルスタンバイ)に対応。ただし、LTE通信できるのは一方のみであり、microSDカードスロットとの排他利用となっている。</p><div><div><div><div><span class="title">NTT-X Storeで購入する</span></div></div><div></div><div><div><div><div><a href="https://nttxstore.jp/_II_AZ15843671?LID=PCW&amp;FMID=PCW" rel="nofollow"><img src="https://pc.watch.impress.co.jp/img/watch/parts/icon/loading.png" class="resource" style="width:160px;height:160px;" id="01a_s.jpg" ajax="/img/pcw/docs/1159/090/01a_s.jpg"></a></div></div><span class="caption"><a href="https://nttxstore.jp/_II_AZ15843671?LID=PCW&amp;FMID=PCW">ZE554KL-WH64S6</a></span></div></div></div></div></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1159389.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/389/01_o.png"></div></div><span class="caption">Windows Sandbox</span></div></div></div></div><p>　<a href="http://www.microsoft.com/" class="n" target="_blank">米Microsoft</a>は12月19日(現地時間)、Windows 10 Insider Preview「Build 18305(19H1)」をFast ringで公開した。今年(2018年)のInsiders向けメジャーアップデートはこれが最後になるとしているが、累積アップデートといった細かなパッチは提供予定。</p><p>　Build 18305ではWindows 10の新機能として「Windows Sandbox」を提供。仮想マシンをセットアップすることなく“.EXE”といった実行ファイルを安全に起動して、ホスト側になんら影響を与えずに挙動を確認できるようになる。Sandboxで実行されたアプリやそこから生成されたファイルなどは、Sandboxの終了時に完全削除される。</p><p>　Windows Sandboxは、「設定→アプリ→アプリと機能→プログラムと機能→Windowsの機能の有効かまたは無効化」で立ち上がったWindowsの機能のダイアログから「Windows Sandbox」にチェックボックスを入れたあと、再起動すれば利用できるようになる。あとは、スタートメニューから「Windows Sandbox」と検索して実行すればよい。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/389/02_o.png"></div></div></div></div></div></div><p>　Windows Sandboxは、Windows 10 ProおよびEnterpriseで利用可能で、VHD(Virtual Hard Disk)のダウンロードは不要。実行のたびにデバイスを含めてクリーンな環境が生成される。また、ハードウェアベースの仮想化機能を使用し、ホストから独立して稼働。統合カーネルスケジューラを利用し、効率的なメモリ管理、仮想GPUの実装も特徴とする。</p><p>　なお、現時点ではWindows Sandboxの初回インストール後に、すべてのサービスとイベントのセットアップが動作することで、1分間ほどCPUとディスクを著しく使用してしまったり、スタートメニューからサンドボックスを実行できないといった場合や、タイムゾーンがホストと同期できないといった不具合が発生している。</p></div></div>]]></description>
 			<pubDate>Thu, 20 Dec 2018 13:00:58 +0900</pubDate>
+		</item>
+		<item>
+			<title>次世代HBMは転送速度1TB/s超えの速度に </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1159414.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/414/01.png"></div></div><span class="caption">AMDのHBM実装図</span></div></div></div></div><p>　<a href="https://www.jedec.org/" class="n" target="_blank">JEDEC Solid State Technology Association</a>は17日(米国時間)、High Bandwidth Memory(HBM) DRAMの規格をアップデートし、「JESD235」を発表した。</p><p>　HBMはグラフィックスやHPC、サーバー、ネットワーキングなど広帯域と低消費電力、高密度実装を求められる業界向けの高速メモリで、Radeon VegaやTITAN Vといったビデオカードで採用されている。</p><p>　JESD235では、8つの独立チャネルに分割された1,024bit幅のインターフェイスを介するアクセスにより、1スタックデバイスあたり最大307GB/sの帯域を実現。TSV技術による2Hi(2層)、4Hi(4層)、8Hi(8層)、12Hi(12層)のメモリ積層に対応し、1スタックあたりの最大容量は24GBまでサポートされる。</p><p>　Tesla V100などで採用されている4スタック構成の場合、JESD235ではインターフェイス幅4,096bit/合計帯域幅1,228GB/sで、最大96GBのVRAMの構築が可能となる。</p><p>　今回の規格更新では、ピンあたりの帯域幅が2.4Gbpsに拡張され、高密度コンポーネント用の16Gbレイヤーと12Hi構成に対応する新しいフットプリントオプションの追加などが行なわれている。</p></div></div>]]></description>
+			<pubDate>Thu, 20 Dec 2018 14:40:19 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
