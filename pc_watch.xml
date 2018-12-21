@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】筆まめ、筆まめVer.29.03 アップデートプログラムほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1159562.html</link>
-			<description><![CDATA[<div><div><p>　筆まめは、筆まめVer.29.03 アップデートプログラムほかを公開した。</p></div></div>]]></description>
-			<pubDate>Thu, 20 Dec 2018 20:43:21 +0900</pubDate>
-		</item>
-		<item>
-			<title>【ニュース・フラッシュ】キヤノン、Easy-PhotoPrint Editor Ver.1.2.1ほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1159561.html</link>
-			<description><![CDATA[<div><div><p>　キヤノンは、Easy-PhotoPrint Editor Ver.1.2.1ほかを公開した。</p></div></div>]]></description>
-			<pubDate>Thu, 20 Dec 2018 20:44:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】アイ・オー、HDL2-X2 ファームウェア Ver.1.10ほか</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1159560.html</link>
 			<description><![CDATA[<div><div><p>　アイ・オー・データ機器は、HDL2-X2 ファームウェア Ver.1.10ほかを公開した。</p></div></div>]]></description>
@@ -117,6 +105,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1159657.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/657/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.arm.com/" class="n" target="_blank">英Arm</a>は18日(現地時間)、自動運転車向けのCPU IP「Cortex-A65AE」を発表した。</p><p>　7nmプロセスの製造に最適化されたCPU IPコアで、Armのプロセッサとしてはじめて同時マルチスレッディングをサポート。アウトオブオーダー実行パイプラインを備えており、1サイクルで2つのスレッドを同時実行できる。Intelで言えばHyper-Threadingのような機能にあたる。</p><p>　また、「Split-Lock」と呼ばれる機能を搭載。Splitモードはマルチコアに異なる処理をさせることで性能を活かすモードで、Lockモードはマルチコアに同じ処理をさせることで冗長性をもたせるモードとなる。加えて、デュアルコアロックステップ(DCLS)に対応し、2つのコアに同じ処理をさせ、同一結果のときにのみ実施する機能も備える。</p><p>　Cortex-A65AEでは最大8コアまでを1つのクラスタとして扱え、このなかでSplitモードとLockモードを混在させることが可能としており、ハイスループット処理を必要とする自動運転車のニーズに応えられるとしている。</p><p>　命令アーキテクチャArmv8-Aで、DynamIQ技術を搭載。また、SIMD命令集のNEONもサポートし、オーディオ/ビデオ/2D/3Dグラフィックスの処理に好適としている。</p></div></div>]]></description>
 			<pubDate>Fri, 21 Dec 2018 12:32:29 +0900</pubDate>
+		</item>
+		<item>
+			<title>E Ink搭載のAndroidタブレット「Boox」に25,704円からの低価格モデル </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1159672.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/672/1_o.jpg"></div></div><span class="caption">Boox Poke Pro</span></div></div></div></div><p>　<a href="https://sktgroup.co.jp/" class="n" target="_blank">SKT株式会社</a>は、ONYX-INTERNATIONAL製のE Ink対応Androidタブレット「Boox」シリーズ3モデルを25日よりAmazon.co.jpで販売開始する。</p><p>　現在発売中の「Boox Note」および「Boox Max2」は、電子書籍を利用するユーザーを中心に好評を得ているというが、気軽に持ち運びたい、薄暗い場所で電子書籍を読みたいといったニーズに十分応えられなかったという。</p><p>　そこで今回投入する「Boox Poke Pro」と「Boox Nova」の2機種にはフロントライトを搭載し、暗所でも利用可能とし、かつ小型軽量化することで持ち運びを容易とした。外出先における語学の学習や電子辞書としての利用、Bluetoothキーボードを用いた文章作成に向くという。</p><p>　もう1機種である「Boox Note Plus」は、従来のNoteから前面パネルをフラットとし、ベゼルの引っかかりを解消することで、スタイラスペンによる記入がしやすくなったとしている。</p><p>　共通で、1.6GHz駆動のクアッドコアCPU、静電容量方式のタッチパネル、無線LAN、Bluetooth 4.1を搭載。ファームウェア2.0により、ホーム画面が一新され、動作速度が改善。アプリ別に、リフレッシュ回数やA2モード(高速化モード)、背景の色反転、残像を抑えるRegal技術などが設定可能となった。また、QRコードによるPDFファイルの転送に対応した。</p></div><div><h3 class="hdg-03"><span>Boox Poke Pro</span></h3><p>　Boox Poke Proはシリーズ最小の6型E Ink(Carta)を採用。価格は25,704円。</p><p>　電子ペーパーの解像度は1,072×1,448ドット、リフレッシュ技術はRegal。メモリは2GB、ストレージは16GB。インターフェイスはMicro USBで、バッテリ容量は2,500mAh。</p><p>　本体サイズは114×160×7.8mm(幅×奥行き×高さ)、重量は170g。</p></div><div><h3 class="hdg-03"><span>Boox Nova</span></h3><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/672/2_o.jpg"></div></div><span class="caption">Boox Nova</span></div></div></div></div><p>　Boox Novaは7.8型E Ink(Carta)を採用。価格は36,504円。</p><p>　電子ペーパーの解像度は1,404×1,872ドット、リフレッシュ技術はRegal。メモリは2GB、ストレージは32GB。インターフェイスはUSB Type-Cで、バッテリ容量は2,800mAh。</p><p>　本体サイズは137×196.3×7.7mm(同)、重量は240g。</p></div><div><h3 class="hdg-03"><span>Boox Note Plus</span></h3><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/672/3_o.jpg"></div></div><span class="caption">Boox Note Plus</span></div></div></div></div><p>　Boox Note Plusは10.3型E Ink(Mobius Carta)を採用。価格は64,584円。</p><p>　ワコムの4,096段階筆圧対応電磁誘導方式スタイルを搭載。電子ペーパーの解像度は1,404×1,872ドット、リフレッシュ技術はCarta+。メモリは2GB、ストレージは32GB。インターフェイスはUSB Type-Cで、バッテリ容量は4,100mAh。</p><p>　本体サイズは178×250×6.8mm(同)、重量は360g。</p><p>　なお、既存製品「Boox Max2」および「Paperlike HD」は税別価格表記(79,800円、119,800円)に変更するとしている。</p><div><div><div><div><div>Amazon.co.jpで購入する<div>：</div></div><div><ul class="aff_list"><li class="aff_item"><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07M5H2D7G/impresswatch-6-22/ref=nosim" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41vbc9BoWuL.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07M5H2D7G/impresswatch-6-22/ref=nosim" target="_blank">Boox Poke Pro</a></div></div></li><li class="aff_item"><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07M8WSMZR/impresswatch-6-22/ref=nosim" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41a5ySpRVAL.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07M8WSMZR/impresswatch-6-22/ref=nosim" target="_blank">Boox Nova</a></div></div></li><li class="aff_item"><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07M5H33MF/impresswatch-6-22/ref=nosim" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/418LheNJkRL.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07M5H33MF/impresswatch-6-22/ref=nosim" target="_blank">Boox Note Plus</a></div></div></li></ul></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Fri, 21 Dec 2018 13:26:52 +0900</pubDate>
+		</item>
+		<item>
+			<title>FRONTIER、Core i7-9800X搭載の高性能ゲーミングPC </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1159674.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/674/01_o.jpg"></div></div><span class="caption">GBシリーズ</span></div></div></div></div><p>　インバースネット株式会社は、<a href="https://www.frontier-direct.jp/" class="n" target="_blank">FRONTIER</a>ブランドから、Core i7-9800Xを搭載するBTO対応のフルタワー型のゲーミングPC「GBシリーズ」を発売した。税別直販価格は169,800円。</p><p>　8コア/16スレッド動作に対応するCore i7-9800Xにより、ゲームだけでなく、動画編集や動画変換といったクリエイティブな作業にも好適とするPC。また、サイドフロータイプのCPUクーラーを実装する。筐体はプロゲーマーからの支持を得ているというGBシリーズのもので、高負荷状態でも静音性に優れつつ、安定動作が可能。</p><p>　GPUはGeForce GTX 1050、メモリは8GBで、ストレージはHDD 1TB、DVDマルチドライブ、Windows 10 Homeを搭載。チップセットはX299で、マザーボードはASUS製のPrime X299-Aを採用した。電源の容量は850Wで、80PLUS Goldに準拠する。</p></div></div>]]></description>
+			<pubDate>Fri, 21 Dec 2018 14:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
