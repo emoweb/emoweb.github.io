@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>Steamのウィンターセールが開始。ビッグタイトルが大幅割引中 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1159649.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/649/01_o.png"></div></div></div></div></div></div><p>　Valveはゲーム配信プラットフォームの<a href="https://store.steampowered.com/?l=japanese" class="n" target="_blank">Steam</a>でウィンターセールを開始した。期限は日本時間で来年(2019年)1月4日の3時まで。</p><p>　セール中の注目タイトルとしては、「DARK SOULS III - The Fire Fades Edition」が70%オフで1,749円、「Assassin's Creed Odyssey」が50%オフの4,536円、「MONSTER HUNTER: WORLD」が34%オフの3,953円となっており、このほかにも多数のタイトルが大幅に割引されている。</p></div></div>]]></description>
-			<pubDate>Fri, 21 Dec 2018 12:11:45 +0900</pubDate>
-		</item>
-		<item>
 			<title>Arm初の同時マルチスレッディング対応CPU「Cortex-A65AE」 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1159657.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/657/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.arm.com/" class="n" target="_blank">英Arm</a>は18日(現地時間)、自動運転車向けのCPU IP「Cortex-A65AE」を発表した。</p><p>　7nmプロセスの製造に最適化されたCPU IPコアで、Armのプロセッサとしてはじめて同時マルチスレッディングをサポート。アウトオブオーダー実行パイプラインを備えており、1サイクルで2つのスレッドを同時実行できる。Intelで言えばHyper-Threadingのような機能にあたる。</p><p>　また、「Split-Lock」と呼ばれる機能を搭載。Splitモードはマルチコアに異なる処理をさせることで性能を活かすモードで、Lockモードはマルチコアに同じ処理をさせることで冗長性をもたせるモードとなる。加えて、デュアルコアロックステップ(DCLS)に対応し、2つのコアに同じ処理をさせ、同一結果のときにのみ実施する機能も備える。</p><p>　Cortex-A65AEでは最大8コアまでを1つのクラスタとして扱え、このなかでSplitモードとLockモードを混在させることが可能としており、ハイスループット処理を必要とする自動運転車のニーズに応えられるとしている。</p><p>　命令アーキテクチャArmv8-Aで、DynamIQ技術を搭載。また、SIMD命令集のNEONもサポートし、オーディオ/ビデオ/2D/3Dグラフィックスの処理に好適としている。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/biz/1159961.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/961/01_o.jpg"></div></div><span class="caption">MousePro N992Z</span></div></div></div></div><p>　<a href="https://www.mouse-jp.co.jp/" class="n" target="_blank">株式会社マウスコンピューター</a>は、Quadro P3200を搭載する15.6型モバイルワークステーション「MousePro N992Z」シリーズを発売した。税別直販価格は209,800円から。</p><p>　CPUにCore i7-8750H(6コア/2.2GHz)を搭載し、Quadro P3200を合わせて映像編集、3DCG、CADなどでの利用に最適とする。筐体は従来モデルを踏襲し、厚み21.6mmでワークステーションとしては薄型設計を採用しながら、従来モデルよりも冷却性能が向上させている。Windows Hello対応の指紋認証センサーも備える。</p><p>　おもな仕様は、メモリ8GB、HDD 500GB、Intel HM370チップセット、15.6型フルHD(1,920×1,080ドット)非光沢IPS液晶ディスプレイ、OSはWindows 10 Proを搭載。</p><p>　なお、メモリ16GBでSATA 480GB構成のモデルと、同じくメモリ16GBでNVMe SSD 256GB+HDD 1TB構成のモデルも用意し、税別直販価格は前者が244,800円、後者は249,800円となる。</p><p>　インターフェイスは共通で、USB 3.1 Type-C×2、USB 3.0×3、IEEE 802.11ac無線LAN、Bluetooth 5.0、HDMI、Mini DisplayPort×2、Gigabit Ethernet、SDカードスロット(UHS-II対応)、200万画素Webカメラ、音声入出力などを装備。</p><p>　本体サイズは380×255×21.6～27mm(幅×奥行き×高さ)、重量は約2.3kg。バッテリ駆動時間は約8.1時間。</p></div></div>]]></description>
 			<pubDate>Tue, 25 Dec 2018 11:49:13 +0900</pubDate>
+		</item>
+		<item>
+			<title>本日みつけたお買い得品AUKEY、USB Type-C変換アダプタ2個セットを先着599円で提供</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/todays_sales/1159974.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1159/974/01_o.jpg"></div></div><span class="caption">CB-A22</span></div></div></div></div><p>　<a href="https://jp.aukey.com/" class="n" target="_blank">AUKEY</a>は、USB Type-AコネクタをUSB Type-Cに変換するアダプタ「CB-A22」の2点セットを、Amazon.co.jpにてクーポンコード「AUKEYA22」を先着500名に配布し、599円(標準価格1,199円)の特別価格で提供している。期限は12月29日まで。</p><p>　耐熱、耐衝撃、耐腐性のあるアルミ合金製の外装を採用。USB 3.0の転送速度に対応する。小型設計になっており、USB Type-Cポートが隣接するようなノートPCなどでも、同時に利用しやすいのも特徴。</p><div><div><div><div><div>Amazonで購入<div>：</div></div><div><ul class="aff_list"><li class="aff_item"><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B071ZZ3Z6P/impresswatch-6-22/ref=nosim" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41rcubseovL._SL160_.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B071ZZ3Z6P/impresswatch-6-22/ref=nosim" target="_blank">CB-A22</a></div></div></li></ul></div></div></div></div></div><p><span class="fnt-75">※セール開催・内容・価格等は、予告なく変更となる場合がございます。正確な情報は、販売ページ上でご確認ください。</span></p></div></div>]]></description>
+			<pubDate>Tue, 25 Dec 2018 12:19:26 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
