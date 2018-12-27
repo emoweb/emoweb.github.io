@@ -5,24 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>試合見ずにアリーナで食事満喫、モバイルチケットに新機軸</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/column/15/052000044/120300077/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Wed, 19 Dec 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>絶縁不良で稼働停止間近に、原因はコネクタに穴</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/302961/121700101/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　今回のシリーズでは、エネテク（愛知県小牧市）が、太陽光発電所の点検やO&amp;M（運用・保守）サービスを担う中で対応してきたトラブル事例を紹介している。同社は、2007年に設立された電気設備工事会社で、太陽光発電の施工も多く担当してきた。O&amp;Mサービスでは、点検時に原因分析だけでなく、状況によっては、その場で不具合の原因を解消するといったワンストップの対応が特徴となっている（<a href="http://tech.nikkeibp.co.jp/dm/atcl/feature/15/356325/013000017/?ST=msb" target="_blank">関連コラム</a>）。</p><p>　今回は、太陽光パネル間のケーブルとケーブルを結ぶコネクタに穴が開き、絶縁不良を引き起こしていた例を紹介する。</p><p>　エネテクがO&amp;Mを受託している出力約260kWの高圧配電線に連系している太陽光発電所における例で、同社が精密点検と呼んでいる年次点検の際に発見した。</p><p>　この精密点検時の測定項目に、直流側の絶縁抵抗の測定がある。この発電所の場合、出力10kWの小容量のパワーコンディショナー（PCS）が26台設置されている。こうした小型のPCSを使う場合、太陽光パネルで発電された電気は、接続箱を介さずにPCSに入力されている。パネルを接続した単位であるストリングごとに1回路ずつの入力となる。</p><p>　こうした「分散型」と呼ばれるPCS構成の太陽光発電所では、直流回路の絶縁抵抗は、PCSの直流側の入力端子を通じて測定される。</p><p>　直流回路ごとの絶縁抵抗を測定した結果、絶縁抵抗値が通常よりも明らかに低い回路が見つかった（<b>図1</b>）。正常値よりも低い直流回路が混ざっていたものの、該当するPCSは稼働を続けていた。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/302961/121700101/?SS=imgview&amp;FD=1420927604" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/302961/121700101/01.jpg?__scale=w:500,h:216&amp;_sh=0880380ca0" width="500" height="216" alt=""></a></div><div>図1●絶縁抵抗値が大幅に低い回路を発見</div><div>（出所：エネテク）</div><div>[画像のクリックで拡大表示]</div></div></div><p>　具体的には、通常の状態の回路の絶縁抵抗値が13.7MΩなどを示したのに対して、絶縁不良が見つかった直流回路では、0.805MΩを示した。</p></div><li><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/302961/121700101/?P=2">次へ</a></li>]]></description>
-			<pubDate>Wed, 19 Dec 2018 05:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>JパワーとKDDIの思惑、動き出した最強エナリス</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/031400070/121900086/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[]]></description>
-			<pubDate>Wed, 19 Dec 2018 12:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ロボットで検体・薬剤を搬送、聖マリアンナ医科大学病院</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/121911801/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div id="kiji"><p></p><p>　聖マリアンナ医科大学病院とNECネッツエスアイは、デリバリーロボット「Relay（リレイ）」による検体・薬剤搬送の実証実験を行う。期間は2018年12月16日～2019年1月11日、場所は聖マリアンナ医科大学病院となる。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/121911801/?SS=imgview_ndh&amp;FD=692009460" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/121911801/1219ne01.jpg?__scale=w:500,h:262&amp;_sh=0e70fe02b0" width="500" height="262" alt=""></a></div><div>実証実験での操作イメージ</div><div>クリックすると拡大した画像が開きます</div></div></div><p></p><p>　今回の実証実験は、神奈川県の「公募型『ロボット実証実験支援事業』」に採択されて実施されるもの。医療現場でデリバリーロボットが検体および薬剤の搬送を行うことで、「医療従事者の搬送業務における負担軽減」「RFID認証による開閉、ログ管理による搬送品の安全性及び品質確保の向上」「施設内やエレベーターを走行することで病院利用者等に対してストレスにならないかの確認」といった効果があることを検証する。</p><p></p><p>　Relayは、米Saviokeが開発した自律走行型デリバリーロボット。本体ディスプレイ上での番号入力による容易操作での搬送指示や、各種センサーで人や障害物を回避しながらの自律走行に対応する。さらに、エレベーター連携によるマルチフロア移動や、病院利用者などに対する圧迫感のないコンパクト設計での人との共存が可能なほか、秘匿性の高い搬送用途に対応するため、RFIDカード認証によるロック機能を新たに搭載する。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/121911801/?SS=imgview_ndh&amp;FD=692932981" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/121911801/1219ne02.jpg?__scale=w:500,h:223&amp;_sh=05a02b0fa0" width="500" height="223" alt=""></a></div><div>実証実験での搬送イメージ（薬剤）</div><div>クリックすると拡大した画像が開きます</div></div></div><p></p><p>　聖マリアンナ医科大学病院とNECネッツエスアイは、今回の実証実験を通して、医療従事者の搬送業務における負担軽減や業務効率化を推進。働き方改革を促進することで、入院患者等の病院利用者への利便性・サービス向上を目指す。さらにNECネッツエスアイは、今回の実証実験で得られた課題を通じて、Relayの機能拡張をはかる。</p></div>]]></description>
@@ -249,6 +231,18 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/122711830/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><div class="bpbox_right" style="width:200px;"><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/122711830/?SS=imgview&amp;FD=-1786906602" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/122711830/1227mmc_01.jpg?__scale=w:200,h:155&amp;_sh=0c302f09c0" width="200" height="155" alt=""></a></div><div>小又川新発電所の建設地</div><div>（出所：三菱マテリアル）</div><div>[画像のクリックで拡大表示]</div></div><div><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/122711830/?SS=imgview&amp;FD=-1785983081" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/122711830/1227mmc_02.jpg?__scale=w:200,h:112&amp;_sh=03b0500360" width="200" height="112" alt=""></a></div><div>小又川第四発電所</div><div>（出所：三菱マテリアル）</div><div>[画像のクリックで拡大表示]</div></div></div><p>　三菱マテリアルは12月25日、秋田県北秋田市小又川水系に水力発電所「小又川新発電所」を2019年5月に着工すると発表した。1953年に完成した小又川第四発電所以来、66年ぶりの新規水力発電所となる。</p><p>　新発電所は、森吉ダムを中心とした小又川水系で営業運転中の小又川第一、第二、第四発電所の効率的運用による電源増加策、および第一、第二発電所の経年対策を目的としたもの。森吉ダム直下の小又川第四発電所の放流口から直接取水（取水量13.0m<sup>3</sup>/s）し、ずい道から約8.5km下流に水を導いて有効落差約90mを確保した。</p><p>　最大出力は10.326MW（水車容量5.339MW×2台）で、年間発電量は約4万8500MWhを見込む。発電機は日本工営製を採用する。三菱マテリアルが施工管理を行う。完成は2022年12月の予定。固定価格買取制度（FIT）による売電単価は非公表。</p><p>　新発電所の完成に伴い第一および第二発電所は廃止し、差し引きで小又川水系全体の発電能力は2.86MWの増加となる。年間発電量は約1万3400MWhの増加を見込む。また、年間のCO<sub>2</sub>削減量は約9800tとなり、40年生のスギ人工林1100ha分のCO<sub>2</sub>吸収量に相当する。</p></div>]]></description>
 			<pubDate>Thu, 27 Dec 2018 17:39:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>2018年に読まれた記事ランキング「ベスト10」</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/070800035/122500088/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 28 Dec 2018 05:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>太陽光パネルへの日射を新築建物で妨げられた場合、「受光利益」は法的に守られますか？</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/407251/122500044/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><h4>太陽光業界にとって注目すべき判決</h4><p>　隣地の新しい建物により太陽光発電システムの日照が阻害されたとしてトラブルが発生するケースは多く、当事務所でも多くの法律相談を受けて参りました。</p><div><div class="bpimage_center" style="width:500px;"><div><img src="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/407251/122500044/zu1.jpg?__scale=w:500,h:295&amp;_sh=0b80200b80" width="500" height="295" alt=""></div><div>太陽光パネルへの影は、発電量の低下に直結する</div><div>（写真はイメージで裁判事例とは関係ありません）（出所：日経BP）</div></div></div><p>　しかし、この論点について、明確に判示する裁判例がこれまで存在せず、法律相談の席上では、当事務所としての考え方を示し、アドバイスをして参りました(当事務所見解の詳細は、拙著「住宅用太陽光発電・プチソーラーの法律実務」中央経済社128頁以下をご参照下さい)。</p><p>　今回と次回の同コラムで取り上げる福岡地裁・平成30年11月15日判決は、上記ケースについて詳細に判示した初の判決であり、太陽光発電業界において注目すべき判決といえます。</p><h4>発電所の隣地に予期せぬ建物が…</h4><p>　福岡地裁判決が認定した事実は、以下のとおりです。本判決は非常に重要ですので、裁判所の判決をそのまま引用する形で紹介いたします。判決全文は裁判所ウェブサイトにて閲覧できます（<a href="http://www.courts.go.jp/app/files/hanrei_jp/178/088178_hanrei.pdf">判決全文</a>）。</p><p>　まず、当事者間に争いがない事実として以下の事実を認定しました。</p><div><div><p>(1) 　原告は、住宅地開発等を業とする株式会社である。被告は、スウェーデンより輸入する組立建物の製造、販売等を業とする株式会社である。</p><p>(2) 　原告は、平成22年６月頃から、「Ａ」（所在地：福岡県糸島市ａｂ番地ｃ及びｄ番地ｅ。以下「原告住宅地」という）との名称で、住宅地の開発を開始した。（所在地につき、甲１）</p><p>　原告住宅地の南側には、福岡県糸島市ａｂ番ｆ及びｂ番ｇの土地（後記(5)の被告による住宅地開発前の地番。以下「被告住宅地」という。所在地につき、乙５）が隣接している。</p><p>(3) 　原告は、原告住宅地の南端に位置する駐車場部分に、隣接する被告住宅地（南方向）から太陽光を受光することを前提とする太陽光発電設備（以下「本件設備」という）を設置することとし、平成23年３月頃、これを完成させた。</p><p>(4) 　原告は、被告に対し、平成26年７月22日、本件設備に関して日照を阻害しないように配慮を求める書面を送付した。</p><p>(5) 　被告は、前記(4)の原告の書面に応答することなく、平成26年11月頃から被告住宅地上に建物の建築を開始した。その結果、本件設備の一部分である太陽光モジュール（太陽光を受光するパネル部分をいい、以下「太陽光パネル」という）の1.25mから1.5ｍほど南側に建物が立ち並ぶこととなった（以下、被告がした一連の建築行為を「本件建築行為」という）。</p><p>(6) 　原告は、平成29年10月26日付けで、福岡簡易裁判所に対し、被告を相手方として本件に関し民事調停を申し立てたが（同裁判所平成29年（公）第1号）、同調停は、平成30年１月25日、調停不成立となり終了した。</p><p>(7) 　原告は、平成30年2月7日、本件訴えを提起した。</p></div></div></div><li><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/407251/122500044/?P=2">次へ</a></li>]]></description>
+			<pubDate>Fri, 28 Dec 2018 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
