@@ -5,18 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Google EarthのVoyagerならいつでも世界中を旅できる！：Google Tips
-</title>
-			<link>https://japanese.engadget.com/2018/12/31/google-earth-voyager-google-tips/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=4032%2C3024%2C0%2C0&quality=85&format=jpg&resize=1067%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-12%2F00d1ff80-09af-11e9-bbff-2dea2873d3e5&client=a1acac3e1b3290917d92&signature=31118c7cad2b6f49c32fd5f134d4fb4ec74a077c" />
-世界各地のストリートビューを眺めたり、観光地を探索したりできるGoogle Earthで遊んだことはありますか？ Google Earthが備える「Voyager」機能では、各国の人気なスポットを旅するおすすめプランや、"映画のロケ地"や"象徴的な書店"など、テーマごとにまとまった場所を紹介してくれるんです。
-
-そんなわけで今回は、Google Earthの「Voyager」を使った楽しみ方をご紹介しましょう。その土地や建物などに関する詳細も載っているので、豆知識も増えますよ。
-<p><a href="https://japanese.engadget.com/gallery/google-earth-voyager/" title="Google earthの「Voyager」で遊ぶ方法">【ギャラリー】Google earthの「Voyager」で遊ぶ方法 (9枚)</a></p>
- ]]></description>
-			<pubDate>Mon, 31 Dec 2018 18:35:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    新年モバイル大予測。ドコモ4割値下げ・楽天携帯参入・5Gプレスタート（石野純也）
 </title>
 			<link>https://japanese.engadget.com/2018/12/31/2019-4-5g/</link>
@@ -1025,6 +1013,33 @@ Oculus GO
 年末年始の大きな買い物は、10年後に後悔しないように、ドカンと買いましょう(笑) 投資はけちらない！ そんじゃまたー。
  ]]></description>
 			<pubDate>Thu, 03 Jan 2019 00:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    USB-IF、USB-C向け認証プログラムを発表。粗悪な充電器などを排除
+</title>
+			<link>https://japanese.engadget.com/2019/01/03/usb-if-usb-c/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F26404d10-0ef7-11e9-a5bb-f2d310071276&client=a1acac3e1b3290917d92&signature=f91fc38ae662850391101f2d590708d9c8ebf5dd" />
+非営利のUSB規格推進団体 USB-IFが、USB Type-Cの認証プログラムを発表しました。この仕様はもともと2016年に発表されていたものですが、それがようやく正式採用となります。
+
+USB Type-Cといえば、MacBookや新iPad Proにも採用され、かなり普及が進んできました。しかし、多くの規格が入り乱れ、消費者としては選択が難しくなっているのも事実です。コネクタ形状だけUSB Type-Cで、実際には規格に準拠していない粗悪品も出回っています。
+
+ 
+参考記事：100均（ダイソー）で売ってたUSB Type-Cのケーブルやアダプタをたくさん分解してみた：ウェブ情報実験室
+
+そのような状況の中、USB-IFがあらたに発表したのは、USB Type-Cの仕様の中に、暗号化された認証プロトコルを組み込むもの。従来のように認定品にはロゴを付与するというものではありません。
+
+認証は、電力やデータ転送が始まる前に行われ、USB接続を利用する悪意のあるファームウェアやハードウェアのデータ転送も防げるとのこと。
+
+たとえば、ホスト側（スマートフォンやPC）が認証されたUSB充電器からのみ充電を許可する設定にしていれば、規格に準拠していない粗悪な充電器に接続しても、充電が開始されることはありません。また、企業ユースのPCなどでは、検証済みのUSBストレージのみ利用できるようにポリシーの設定も可能です。
+
+なお、認証にはPKI（秘密鍵と公開鍵を組み合わせた認証技術）が利用され、認証局サービスは大手セキュリティプロバイダーのDigiCertが運用します。
+
+いまのところ、この認証仕様はUSB Type-Cに必須ではなく、推奨事項になるとのこと。対応にはそれなりのコストもかかるため、実際に普及するのかは、やや疑問も残ります。ただその分、大手メーカーでの採用が進めば、粗悪品の排除に一定の効果は見込めそうです。
+
+ 
+
+ ]]></description>
+			<pubDate>Thu, 03 Jan 2019 02:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
