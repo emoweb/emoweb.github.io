@@ -5,33 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    中国版テスラ「Byton」　巨大ディスプレイを備えたEVを年内量産：CES2019
-</title>
-			<link>https://japanese.engadget.com/2019/01/06/byton-ev-ces2019/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Ffa57d800-122d-11e9-bf4b-fdda68e47bdd&client=a1acac3e1b3290917d92&signature=b7bc5e34745bdb72adeb38b8401df6085f53f069" />
-米国ラスベガスで開催中のCES 2019より。中国のEV（電気自動車）ベンチャーBytonは、同社が開発するSUVタイプのEV「M-Byte」を2019年末より量産すると発表しました。航続距離は約400キロで、価格は約4万ドル（約450万円）から。
-
-M-Byteは、ダッシュボードの代わりに49インチの細長い巨大ディスプレイを搭載。iPhoneのFace IDのような顔認証で始動し、サイドミラーはカメラに置き換えられています。また、各シートにそれぞれ1つずつ、合計5台のiPad大のディスプレイを備え、見た目はまるでディスプレイとクルマが一体化したようです。満充電時の航続距離は248マイル（約400キロ）であるとのこと。
-
-
-
-
-
-
-
-その他、世界的な安全基準を満たし、発売時にはレベル3自動運転にも対応予定。座席は体重計と一体化しており、健康管理のプラットフォームとしても活用できます。
-
-驚くべきはその価格です。ブースの担当者によると、米国での価格は4万ドル〜（約450万円〜）になるとのこと。当然、この価格でコンセプトのような先進仕様を満載するのかは定かではありませんが、内装も非常に洗練されており、テスラ・モデルXの1000万円超に比べると安価。テスラ・モデル3の3万5000ドル（約380万円）より少々高めといった具合です。
-
-
-
-
-「M-Byte」に関する詳細な解説記事は後日掲出します。
- 
- ]]></description>
-			<pubDate>Sun, 06 Jan 2019 23:15:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    2019年iPhoneの予想レンダリング画像が早くも公開。やはり背面トリプルレンズ搭載か
 </title>
 			<link>https://japanese.engadget.com/2019/01/06/2019-iphone/</link>
@@ -679,6 +652,17 @@ call.（相手のニックネーム）
 Pundi Xはブロックチェーンを利用したPOS端末を開発していました。コンシューマー向けのスマートフォンを投入することでブロックチェーンの新たな可能性を提唱しているのです。XPhoneが実際に発売されれば、ブロックチェーンの利用はより身近なものになるでしょう。
  ]]></description>
 			<pubDate>Mon, 07 Jan 2019 16:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    十数本のiPhoneアプリにマルウェアサーバーとの通信動作が発覚。App Storeでの配布停止
+</title>
+			<link>https://japanese.engadget.com/2019/01/07/iphone-app-store/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fe482f670-125c-11e9-8dff-392bfcdd4457&client=a1acac3e1b3290917d92&signature=7255b6138c7d2507e0ca23cccc1ad18d4be1c467" />
+iOSデバイス向けアプリは基本的に、アップルの審査をへてApp Storeに公開されます。その審査基準は高めで、一般的にAndroid向けのGoogle Play Storeよりもセキュリティ的に安全だというのが、多くのユーザーに共通する認識となっています。しかし、それでも完全に安全ということはなく、ほんの数年前にもマルウェアを含むアプリが審査をすり抜けて配布されたこともありました。
+
+英国のモバイルセキュリティ企業Wanderaの研究者は、このたびApp Store上に以前Android向けのマルウェアを操作していたサーバーに接続しようとする14本のゲームアプリを発見しました。
+ ]]></description>
+			<pubDate>Mon, 07 Jan 2019 16:30:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
