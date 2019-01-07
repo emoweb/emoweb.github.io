@@ -5,58 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    2019年iPhoneの予想レンダリング画像が早くも公開。やはり背面トリプルレンズ搭載か
-</title>
-			<link>https://japanese.engadget.com/2019/01/06/2019-iphone/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F8103e2c0-122b-11e9-adc9-9ac4c0cb12fb&client=a1acac3e1b3290917d92&signature=0f3c0cc61ac57d1b4a25ddbc756caf894f987686" />
-
-Digit.in/Onleaks
-
-アップルが主にiPhoneの売上不振を理由とした業績予想の下方修正を発表したばかりですが、早くも2019年のiPhone新モデルを予想した背面レンダリング画像が公開されました。
-
-この画像は、有名リークアカウントOnleaks氏の情報を元に、海外テックメディアDigit.inが作成したもの。背面にiPhone XS等と同様に縦に2つのレンズが並んでいる横にもう1つのレンズが追加され、トリプルレンズ構成となっています。
- ]]></description>
-			<pubDate>Sun, 06 Jan 2019 23:30:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    AMD、Chromebook向けプロセッサ「A4/A6」と第2世代「Ryzen Mobile」発表
-</title>
-			<link>https://japanese.engadget.com/2019/01/06/amd-chromebook-a4-a6-2-ryzen-mobile/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F8a13c840-121b-11e9-bffa-4d4ae98fa377&client=a1acac3e1b3290917d92&signature=f9b059d0582f5daeaa967ace00d320a1f61d4624" />
-AMDは1月7日（現地時間）、Chromebook向けのAPU（CPUとGPUを統合した製品）A-Series Processors、モデルを発表しました。
-
-あらたに発表されたのは、1.8GHzのA6-9220Cと1.6GHzのA4-9120C。どちらも2コア/2スレッドでTDPは6W。GPUにはそれぞれRadeon R5、R4を搭載します。
-
-気になるのはそのパフォーマンスですが、Chromebookで採用が多いCeleron N3350やPentium N4200とくらべ、WEBブラウズで23%、写真編集で42%、オフィスアプリケーションで74%高速だとしています。
-
-実際にAMDのAPUを搭載するChromebookは、Acer Chromebook 315とHP Chromebook 14がそれぞれ発表済み。いずれもタッチ非対応は1366&times;768ドット、タッチ対応は1920&times;1080ドット。RAM 4GB、ストレージ32GB。
-
-価格はどちらも269ドルからとなり、今後、エントリー～ミドルクラスのChromebookでは、Intel搭載機と競合することになりそうです。
-
-
-▲AMDプロセッサを搭載するAcer Chromebook 315
-
-なお、Chromebook向けのAシリーズとは別に、第2世代のRyzen Mobileプロセッサも発表されています。こちはら製造プロセスが12nmになったCPUとVegaベースのGPUを統合したAPUです。
-
-発表されたのは下記の7製品。
-
-Ryzen 7 3750H : 2.3GHz～4.0GHz、4コア/8スレッド、TDP:35W、GPU：1.4GHz/10コア
-Ryzen 7 3700U : 2.3GHz～4.0GHz、4コア/8スレッド、TDP:15W、GPU：1.4GHz/10コア
-Ryzen 5 3550H : 2.1GHz～3.7GHz、4コア/8スレッド、TDP:35W、GPU：1.2GHz/8コア
-Ryzen 5 3500U : 2.1GHz～3.7GHz、4コア/8スレッド、TDP:15W、GPU：1.2GHz/8コア
-Ryzen 3 3300H : 2.1GHz～3.5GHz、4コア/4スレッド、TDP:15W、GPU：1.2GHz/6コア
-Ryzen 2 3200H : 2.6GHz～3.5GHz、2コア/4スレッド、TDP:15W、GPU：1.2GHz/3コア
-Athlon 300U : 2.4GHz～3.3GHz、2コア/4スレッド、TDP:15W、GPU：1.0GHz/3コア
-
-AMDによると、メディア編集機能において、Ryzen 5 3500UはIntel Core i5-8250Uと比較して14%、Ryzen 7 3700UはIntel Core i7-8550Uと比較して29%、それぞれ高速化されているとのことです。
-
-このAPUを搭載した製品は、ASUSがTUF Gaming FX505DYとFX705DYを発表しており、いずれも2019年第1四半期に発売予定となっています。
-
- 
- ]]></description>
-			<pubDate>Sun, 06 Jan 2019 23:45:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    バッファローが故障前の外付けHDDに録画した番組を移行する有償サービスを開始
 </title>
 			<link>https://japanese.engadget.com/2019/01/07/hdd/</link>
@@ -663,6 +611,81 @@ iOSデバイス向けアプリは基本的に、アップルの審査をへてAp
 英国のモバイルセキュリティ企業Wanderaの研究者は、このたびApp Store上に以前Android向けのマルウェアを操作していたサーバーに接続しようとする14本のゲームアプリを発見しました。
  ]]></description>
 			<pubDate>Mon, 07 Jan 2019 16:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    懐かしの「おはじき遊び」がスマホに！オンライン対戦もできる『どうぶつおはじきオンライン』：発掘！スマホゲーム
+</title>
+			<link>https://japanese.engadget.com/2019/01/07/ball/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2018-12/a0249370-0a6f-11e9-bdef-e0ef171712f7" />
+【連載：発掘！スマホゲーム】
+星の数ほどあるスマホゲームの中から、話題になっているもの、気になったもの、何か面白そう、そんなタイトルをひたすらご紹介していきます！ 今回ご紹介するのは『どうぶつおはじきオンライン』です。
+
+発掘！スマホゲーム連載一覧
+
+
+『どうぶつおはじきオンライン』は、今ではどこか懐かしい「おはじき遊び」をスマホ上で再現したゲームです。単に再現しただけでなくおはじきの種類ごとに設定されたステータス、フレンド同士で遊べるオンラインバトル機能など、基本ルールやプレイ可能なモードが程良くアップデートされています。
+
+
+
+対戦画面ではおはじきをスワイプして発射角度を決定します。発射角度の目処が立ったら、指を離しておはじきを弾き出しましょう。この時、メーター上のアイコンがレッドゾーンで止まった瞬間に指を離すと、弾き出すパワーが増加します。
+
+相手キャラクターのおはじきに上手くぶつけて、ステージ内に設けられた四隅のホールに落とせばプレイヤーの勝利となります。
+
+
+
+ 
+『どうぶつおはじきオンライン』アプリダウンロードはこちらから
+　
+
+
+
+
+ステージ内に設置されている専用アイテムを拾うと、専用カットインの挿入後に各おはじきの特殊効果が発動します。たとえば「パンダ」は小さいおはじきを出現させる、「ライオン」は相手のコントロール能力を低下させる、「カメ」は姿を消すマントを装着といったように、現れる効果がおはじきごとに大きく異なります。クセのあるアイテムも存在しますが、試行錯誤を重ねながら上手くアイテムを使えた時の達成感は格別です。
+
+
+
+動物たちとの対戦でポイントを大量に獲得したら、新たなおはじきを購入してみましょう。各おはじきは「スピード」や「おもさ」といった各パラメーターだけでなく、それぞれステータスや使えるアイテムも違うので、高難易度ステージを攻略する際はおはじき同士の相性を考えながらプレイするのがコツです。
+
+コミカルな雰囲気漂う作品ですが、中身はおはじきに関する戦略的な要素が盛り込まれています。「昔ながらのおはじき遊びを久しぶりに体験してみたい」「オンラインで他のユーザーと真剣勝負を繰り広げたい」方はどうぞ遊んでみてください。
+
+ 
+『どうぶつおはじきオンライン』アプリダウンロードはこちらから
+　
+
+ 
+発掘！スマホゲーム連載一覧
+
+ 
+
+ ]]></description>
+			<pubDate>Mon, 07 Jan 2019 17:09:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Withings、心電図（ECG）機能付きアクティビティトラッカ「Move ECG」発表
+</title>
+			<link>https://japanese.engadget.com/2019/01/07/withings-ecg-move-ecg/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Ff39f81d0-1263-11e9-ae9e-4cc8a4b00acf&client=a1acac3e1b3290917d92&signature=092ade5c4b241a0611612771262a84b844279f52" />
+昨年はApple Watch Series 4のECG（心電図機能）が話題になりましたが、WithingsからもECG搭載のアクティビティトラッカ「Move ECG」が発表になりました。
+
+ 
+関連記事：watchOS 5.1.2でApple Watch Series 4が心電図機能を正式サポート。ただし米国および米領のみ
+
+見た目はWithings ActiviteやSteelとよく似ていますが、基本機能もほぼ同じ。ウォーキングやランニング、水泳のトラッキングと、高度計により階段の上り下りを計測可能。また、50mまでの防水性能もあります。
+
+気になるECG機能はApple Watchと同様に、FDAの認可済み。背面とベゼルにセンサーがあり、ケース側面に指を置いて計測します。
+
+計測時間はおよそ20秒。計測データはWithingsのHealth Mateアプリに取り込まれ、異常があれば警告がでるとのこと。また結果をPDFにし医療機関に送付も可能です。
+
+
+この手のデバイスで気になる電池持ちですが、1日2回のECG機能の利用で、約1年間は持つとのことです。
+
+欧米の中年成人4人に1人がAFib（心房細動）を発症し、脳卒中の原因の3分の1はこのAFibとのこと。ただし、その症状は一時的なもので、医療機関で発見するのは難しいとも言われます。このように手軽なECG機器であれば、動悸などを感じた場合に、その場ですぐに測定できるのが大きなメリットです。
+
+残念ながら、許認可の問題で日本での発売は難しい、あるいは出るとしても遅れるとは思いますが、ぜひとも販売してほしいところです。
+
+なお、米国では2019年第2四半期に129.95ドル（約1万4000円）で発売予定です。
+ ]]></description>
+			<pubDate>Mon, 07 Jan 2019 18:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
