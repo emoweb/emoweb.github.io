@@ -5,79 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    1月8日のできごとは「Insta360 Nano S 発売」「VAIO type P 発表」ほか：今日は何の日？
-</title>
-			<link>https://japanese.engadget.com/2019/01/07/1-8-insta360-nano-s-vaio-type-p/</link>
-			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-01/b75211a0-120b-11e9-afbf-24221365331c" />1月8日のおもなできごと
-2009年、ソニーが「VAIO type P」を発表
-2016年、FREETELがWindows 10 Mobileスマホ「KATANA 02」を発売
-2018年、Insta360が360度カメラ「Insta360 Nano S」を発売
- ]]></description>
-			<pubDate>Mon, 07 Jan 2019 15:30:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    Pundi Xがブロックチェーンを利用するスマホ「XPhone」を展示：CES2019
-</title>
-			<link>https://japanese.engadget.com/2019/01/07/pundi-x-xphone-ces2019/</link>
-			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-01/3836f340-125b-11e9-bfbb-4488043e4fcc" />
-通信キャリアを介さずに、ブロックチェーンを通信回線として利用するスマートフォンが数社からアナウンスされています。Pundi Xは2018年10月に発表した「XPhone」の実機をCES Unveiledで展示していました。
-
-
-
-展示されていた端末はまだプロトタイプで、製品は今年第2四半期に市場への投入予定とのこと。OSは「Function X OS」を採用。ブロックチェーンの利用に最適化されています。なおベースOSはAndroid 9.0とのこと。Android OSとの切り替えも可能で、画面の左右からスワイプすると、Function X OSとAndroid OSを切り替えて使うことができます。
-
-
-
-Function X OSのアプリは電話、ブラウザー、ファイルマネージャーなどとまだ少ないため、Android OSを使えば一般的なスマートフォンとして利用できるメリットがあるとのこと。
-
-
-
-本体の形状は横から見ると平行四辺形で、上部と下部に傾斜があります。ただしこのデザインも製品化の時は変更されるかもしれないとのことです。
-
-
-
-背面にはカメラと指紋認証センサーを搭載。詳細なスペックはまだ非公開。なおターゲットユーザーはアーリーアダプター層などを考えているそうですが、価格はリーズナブルなレベルを予定しているとのこと。利用者を増やすことで普及を加速化させようと考えているのでしょう。
-
-
-
-ブロックチェーン接続時にステータスを見ると、独自アドレスなどが表示されます。これが携帯電話回線を利用する一般的なスマートフォンとは大きな違いです。
-
-
-
-電話アプリを立ち上げると、ブロックチェーンを利用するか、従来の携帯電話回線を利用するかを選べます。携帯電話回線を使う場合は電話番号を入力。ブロックチェーンを使う場合は相手の端末のニックネームを入力します。
-
-
-
-なおブロックチェーンで発信するときは、
-
-call.（相手のニックネーム）
-
-と入力しますが、アプリではcall.はすでに表示されているので相手のニックネームを入れるだけです。またアプリの仕様としては、発信後にビデオ通話にも切り替えできるようです。CES Unveiledの会場では実際に音声通話のデモも行われました。
-
-
-
-ブラウザーアクセスも一般的なインターネットのhttpsプロトコル接続に対し、ブロックチェーンはfxtpプロトコルとなります。ブラウザーのURL欄にそれぞれを入力することで、どちらのプロトコルでも接続が可能です。
-
-
-
-
-
-Pundi Xはブロックチェーンを利用したPOS端末を開発していました。コンシューマー向けのスマートフォンを投入することでブロックチェーンの新たな可能性を提唱しているのです。XPhoneが実際に発売されれば、ブロックチェーンの利用はより身近なものになるでしょう。
- ]]></description>
-			<pubDate>Mon, 07 Jan 2019 16:00:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    十数本のiPhoneアプリにマルウェアサーバーとの通信動作が発覚。App Storeでの配布停止
-</title>
-			<link>https://japanese.engadget.com/2019/01/07/iphone-app-store/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fe482f670-125c-11e9-8dff-392bfcdd4457&client=a1acac3e1b3290917d92&signature=7255b6138c7d2507e0ca23cccc1ad18d4be1c467" />
-iOSデバイス向けアプリは基本的に、アップルの審査をへてApp Storeに公開されます。その審査基準は高めで、一般的にAndroid向けのGoogle Play Storeよりもセキュリティ的に安全だというのが、多くのユーザーに共通する認識となっています。しかし、それでも完全に安全ということはなく、ほんの数年前にもマルウェアを含むアプリが審査をすり抜けて配布されたこともありました。
-
-英国のモバイルセキュリティ企業Wanderaの研究者は、このたびApp Store上に以前Android向けのマルウェアを操作していたサーバーに接続しようとする14本のゲームアプリを発見しました。
- ]]></description>
-			<pubDate>Mon, 07 Jan 2019 16:30:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    懐かしの「おはじき遊び」がスマホに！オンライン対戦もできる『どうぶつおはじきオンライン』：発掘！スマホゲーム
 </title>
 			<link>https://japanese.engadget.com/2019/01/07/ball/</link>
@@ -592,6 +519,66 @@ Twitterルールに準拠する
 
  ]]></description>
 			<pubDate>Tue, 08 Jan 2019 04:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    オンキヨーがゲーミングブランド「SHIDO」を始動、CESでプロトタイプ参考出展
+</title>
+			<link>https://japanese.engadget.com/2019/01/08/shido-ces/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-01/f1f5aee0-1312-11e9-96dd-6ab11a9883e6" />
+
+
+オンキヨー&amp;パイオニアは1月8日、ゲーミングブランド「SHIDO」を発表しました。SHIDOは武士としての道義を意味する「士道（シドウ）」という言葉に由来。70年以上の歴史があるオーディオブランドとして、妥協なき製品を提供するとしています。
+
+米国ラスベガスにて開催中の家電見本市「CES2019」にて、プロトタイプのゲーミングヘッドセットとUSBコントロールアンプを参考出品します。
+
+
+▲ゲーミングヘッドセット
+
+
+▲USBコントロールアンプ
+
+年々市場規模が拡大しているeスポーツ市場。FPSタイトルなどではサウンドシステムが非常に重要です。同社のオーディオ分野での蓄積を活かして、プレーヤーのパフォーマンスを最大限発揮できるような品質・機能を備えた製品が展開されることに期待したいですね。
+
+ ]]></description>
+			<pubDate>Tue, 08 Jan 2019 04:15:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    痛みなく低侵襲な血糖値測定(CGMS)用センサーが開発。測定精度も従来品より向上
+</title>
+			<link>https://japanese.engadget.com/2019/01/08/cgms/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F731da2b0-130f-11e9-a3f7-dfe536415cc0&client=a1acac3e1b3290917d92&signature=6b95ff73ae3b5be7a2363ee87cb309b832e66cc6" />
+糖尿病など定期的な血糖値測定が必要な人々にとって、非侵襲かつ継続的なモニタリングを実現するデバイスは喉から手が出るほど欲しいものであるはずです。これまでにもいくつかの企業から何度か製品化の話が出てはいたものの、種々の理由によりいまだ発売には至っていません。
+
+スウェーデン王立工科大学の研究チームもまたこの難題に取り組んでおり、非侵襲性ではないものの現在出回っている血糖値モニターより正確かつ低侵襲性、低コストな継続式血糖値測定システム (CGMS)向けのマイクロニードルを開発しました。
+ ]]></description>
+			<pubDate>Tue, 08 Jan 2019 04:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Sonyのノイズキャンセリングヘッドホン「WH-1000XM3」がAlexa対応
+</title>
+			<link>https://japanese.engadget.com/2019/01/08/sony-wh-1000xm3-alexa/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F821ad550-130d-11e9-98ff-9937c439c478&client=a1acac3e1b3290917d92&signature=6bbd4ec86b9ebae14a45a105f6ea2d9d13d6add9" />
+米ラスベガスで開催されているCES 2019のプレスカンファレンスにおいて、同社の人気ヘッドホンWH-1000XM3にAlexa対応のアップデートを行うことを明らかにしました。ファームウェアアップデートは1月末から配信予定となっています。
+
+2018年8月末のIFA 2018で発表されたWH-1000XM3は、Googleアシスタントに対応していましたがAlexaには非対応。ただ、同じくIFA 2018では、スマートフォンと連携するワイヤレスヘッドホンを今冬以降にアップデートでAlexa対応するともしていました。今回の発表は、それを実行に移すものです。
+
+ 
+関連記事：速報：「1000X」のノイズ低減効果が4倍に。新ヘッドホンWH-1000XM3をソニーが発表
+
+Alexa対応により、ボタンを押すだけでAlexaに音楽の再生やトラックのスキップ、楽曲の検索などを指示可能。また、通常のAlexaデバイス同様にスマートホーム製品の操作も行えます。
+
+なお、旧モデルとなるWH-1000XM2、ノイズキャンセリングイヤホンのWI-1000XもアップデートでAlexaに対応するとのことです。
+
+1000Xシリーズ同様、ノイズキャンセリング機能に定評があるBOSEのQC 35 IIは、一足早く2018年8月にAlexa対応済み。また、2018年11月には、AmazonはAlexa Mobile Accessory Kitを全メーカーに提供開始しており、今後もAlexa対応のデバイスは増えていくと考えられます。
+
+ 
+関連記事：
+BOSE、QuietComfort 35 IIをAlexa対応に。Googleアシスタントから切り替え音声操作
+Alexa Mobile Accessory Kitの提供開始。Bluetooth機器のAlexa対応を容易に
+
+ 
+ ]]></description>
+			<pubDate>Tue, 08 Jan 2019 05:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
