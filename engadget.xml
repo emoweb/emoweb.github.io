@@ -5,42 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    サムスンの車載向けプロセッサ「Exynos Auto V9」、2021年にアウディ車両に搭載へ
-</title>
-			<link>https://japanese.engadget.com/2019/01/07/exynos-auto-v9-2021/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F8a166a10-124c-11e9-affb-30e9e02e2af5&client=a1acac3e1b3290917d92&signature=ea9bd5449c90c6758315f7c0f1d3f78d87db0c7b" />
-
-韓国サムスンは車載システム向けプロセッサ「Exynos Auto V9」を発表しました。同プロセッサは、2021年より独アウディの車載システムへの搭載が予定されています。
-
-Exynos Auto V9は8nmプロセスで製造され、内部に2.1GHz駆動のARM Cortex-A76コアを8基搭載。サムスンの発表によれば、プレミアムレベルのオーディオ機能やマルチスクリーンへの対応（最大6ディスプレイと12カメラの接続が可能）を実現しています。なお、GPUにはARM Mali G76を採用し、HiFi 4オーディオ・シグナル・プロセッサやニューラル・プロセッシング・ユニット（NPU）も搭載されています。
-
-実はサムスン、2017年にアウディと車両のインフォテイメントシステムへ、Exynosプロセッサを提供することを発表していました。さらに2015年に同社は、アウディの半導体プログラム（PSCP）にメモリサプライヤーとして初めて参加。また昨年10月には、アウディ初の完全電気自動車「E-Tron」に有機ELディスプレイを供給すると発表しています。それだけでなく、サムスンはコネクテッド・カー向けのプロセッサも2ラインナップを開発しているのです。
-
-ただしこの分野ではサムスンの競合相手も多く、例えば米クアルコムのプロセッサはパナソニックのAndroidベースのインフォテイメントシステムに採用されています。さらに加ブラックベリーの「QNX」インフォテイメントシステムは、独フォルクスワーゲンと提携。そしてNVIDIAのAI（人工知能）を活用したシステムも、独メルセデスによって採用されているのです。なお米テスラは、2017年にNVIDIAのシステムから米インテルのシステムに乗り換えた経緯があります。
- ]]></description>
-			<pubDate>Mon, 07 Jan 2019 04:30:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    メルカリが「ARスマートグラス」を用いた実証実験を開始
-</title>
-			<link>https://japanese.engadget.com/2019/01/07/ar/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fbefd5610-1253-11e9-b7fd-5e3404312332&client=a1acac3e1b3290917d92&signature=78ed015663413c881d60b9e92b33009913b1bf0d" />
-
-メルカリは2018年12月20日、ARスマートグラス「Vuzix Blade」を用いた実証実験を開始しました。
-
-この実験は、同社が提供するフリマアプリ「メルカリ」において、スマートグラスに最適化したUIやUXの検証を目的としており、AR／VR／MRやAI技術を活用して研究開発を実施する同社の「mercari R4D」によるものです。
-
-仕組みとしては、スマートグラスのカメラ画像から、商品情報を取得し、人差し指で指すジェスチャー操作でメルカリに出品されている類似商品を検索、販売価格を表示できます。また、親指を立てることで「お気に入り」へ登録する機能も備えています。
-
-
-
-将来的には、スマートグラスを通し、メルカリでの商品の購入や出品を、ハンドジェスチャーのみで可能にすることを目指しています。
-
-同社は、2019年1月8日（火）から米国ネバダ州ラスベガスで開催される「CES 2019」のVuzixブースにて、特許技術を活用したプロトタイプを公開します。
- ]]></description>
-			<pubDate>Mon, 07 Jan 2019 04:45:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    充電不要なスマートウォッチ「Matrix PowerWatch 2」は体温に加えて光でも発電
 </title>
 			<link>https://japanese.engadget.com/2019/01/07/matrix-powerwatch-2/</link>
@@ -554,6 +518,45 @@ Vive Pro Eyeは、2019年第2四半期に発売予定となっています。
 GoogleのWebブラウザChromeのPC版のピクチャ・イン・ピクチャ（PiP）モードにて、近日中に「広告をスキップ（Skip Ad)」ボタンが追加される可能性が報じられています。
  ]]></description>
 			<pubDate>Tue, 08 Jan 2019 02:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    G Suiteドキュメントで図形描画ファイルの埋め込みが可能に。元のファイルにリンク、1クリックで自動更新
+</title>
+			<link>https://japanese.engadget.com/2019/01/08/g-suite-1/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-01/711c1510-1309-11e9-b7f4-d22b9497ed0f" />
+Reuters
+
+主に企業などで使われるG SuiteのGoogleドキュメントで、間もなく文書内にGoogle Drawings（図形描画）のファイルが埋め込み可能になると報じられています。つまり、すでに作った図形ファイルの流用ができるようになります。
+
+これまではGoogleドキュメントの文書内に図形を入れるためには、「挿入」メニューから図形描画を選んでゼロから書き起こす必要がありました。具体的には図形を描く別ウィンドウが開き、編集が終わったら描いた図が挿入されるかっこうです。
+ ]]></description>
+			<pubDate>Tue, 08 Jan 2019 02:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    HTC、Viveport Infinity発表。無制限ダウンロード可能なサブスクリプション、4月5日から
+</title>
+			<link>https://japanese.engadget.com/2019/01/08/htc-viveport-infinity-4-5/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F630e9dd0-1304-11e9-b7dd-5a35c9b41a0f&client=a1acac3e1b3290917d92&signature=52a130f371ab31957db2bd8d05a0401109604bc6" />
+HTCがViveportのサブスクリプションサービスに、無制限ダウンロードが可能な「Viveport infinity」を発表しました。
+
+Viveportは同社のVRヘッドセット Viveデバイス向のアプリストア。従来からサブスクリプションサービスは行われており、毎月5タイトルを定額で利用可能です。
+
+Viveport infinityは、この5タイトルの制限がなくなり、500以上のサブスクリプション対象タイトルを無制限にダウンロード・プレイが可能になるもの。無制限サブスクリプションは、VR向けとしては世界初だとしています。
+
+なお、Viveport Infinityは、Viveデバイスだけではなく、Oculus RiftやVive Waveを利用する他社のデバイスからもアクセス可能とのことです。ちなみにVive Waveは、スタンドアロンVRヘッドセットVive Focusと共に発表された、モバイルVR向けのオープンプラットフォームです。
+
+ 
+関連記事：
+HTC Viveのコンテンツストア「Viveport」がOculus Riftのサポートを発表
+HTCの単体VRヘッドセットVive Focus公開。ケーブルなしの「世界スケール」トラッキング対応、3軸コントローラ付属
+
+Viveportサブスクリプションは、購入前にコンテンツを試し、気に入ったものだけを購入するといった目的でも使われているとのことでしたが、無制限ダウンロードが可能になればこの使われ方も変わってきそうです。
+
+サービス開始は4月5日のVive Day（Viveの発売記念日）から。肝心の料金が未発表ですが、現在は月額1000円なので、それより高くなるのは間違いなさそうです。
+ 
+ 
+ ]]></description>
+			<pubDate>Tue, 08 Jan 2019 03:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
