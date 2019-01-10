@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】GIGABYTE、長さ170mmのショート基板採用GeForce RTX 2070</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1163839.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1163/839/1_o.png"></div></div><span class="caption">GV-N2070IX-8GC</span></div></div></div></div><p>　<a href="https://www.cfd.co.jp/" class="n" target="_blank">CFD販売株式会社</a>は、GIGABYTEのショート基板GeForce RTX 2070ビデオカード「GV-N2070IX-8GC」を1月中旬に発売する。価格はオープンプライスで、税別店頭予想価格は69,980円前後の見込み。</p><p>　基板の長さが約170mmとなっており、PCケース内スペースの有効活用や、より小型PCケースへの組み込みを実現。90mmのオリジナルファンブレード搭載3Dアクティブファン、ヒートパイプダイレクトタッチ採用のヒートシンク、6+2フェーズの電源回路、金属製バックプレートの装備などが特徴。</p><p>　CUDAコア数は2,304基、コアクロックは1,620MHz。メモリはGDD6で、容量は8GB、バス幅は256bit、クロックは14GHz相当。ディスプレイ出力はDisplayPort 1.4×3、HDMI 2.0b、USB Type-C。</p></div></div>]]></description>
-			<pubDate>Wed, 09 Jan 2019 16:45:40 +0900</pubDate>
-		</item>
-		<item>
-			<title>東芝メモリ、業界最速クラスのシングルパッケージSSD </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1163833.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1163/833/1_o.jpg"></div></div><span class="caption">「BG4」シリーズ</span></div></div></div></div><p>　<a href="https://business.toshiba-memory.com/ja-jp/" class="n" target="_blank">東芝メモリ株式会社</a>は9日、シングルパッケージで最大容量1,024GBを実現したSSD「BG4」シリーズを一部PC OEM向けにサンプル出荷開始した。量産は2019年第2四半期(4月～6月期)より順次行なう。</p><p>　新開発のコントローラと、96層積層プロセスを用いた3次元フラッシュメモリ「BiCS FLASH」をシングルパッケージに収めた製品。インターフェイスはPCI Express 3.0 x4で、シーケンシャルリード性能は最大2,250MB/sと業界最速クラスを実現。</p><p>　また、フラッシュメモリ管理技術を改良し、ランダムリード性能も業界最速となる38万IOPSを実現し、超薄型モバイルPCやIoTの組み込み系システム、サーバー/データセンターのブート用途に向くとしている。</p><p>　前世代であるBG3と比較しライト性能も改善しており、シーケンシャルで約70%、ランダムで約90%改善。また、消費電力効率もリードで最大約20%、ライトで最大7%改善したという。</p><p>　フォームファクタはM.2 1620またはM.2 2230で、NVM Express Revision 1.3bに対応。オプションでTCG Opal Version 2.0.1の自己暗号化機能に対応したモデルも用意する。</p></div></div>]]></description>
-			<pubDate>Wed, 09 Jan 2019 16:46:56 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】ミヨシ、Bluetooth接続のテンキー</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1163849.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1163/849/1_o.jpg"></div></div><span class="caption">TENBT01</span></div></div></div></div><p>　<a href="https://www.mco.co.jp/" class="n" target="_blank">株式会社ミヨシ</a>は、Bluetooth接続のテンキーボード「TENBT01」を発売した。価格はオープンプライスで、直販価格は4,838円。</p><p>　一般的なテンキー部分に加えて、0を2つ入力できるキーや、半角/全角切り替えキー、電卓ホットキー(MacではSpotlight)、NumLockキー(MacではClear)を装備する。キーピッチは約19mm、打鍵耐久は約800万回。電源は単4形乾電池×2。</p></div></div>]]></description>
@@ -123,6 +111,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1163982.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1163/982/01_o.jpg"></div></div><span class="caption">PW-SS6</span></div></div></div></div><p>　<a href="http://www.sharp.co.jp/" class="n" target="_blank">シャープ株式会社</a>は電子辞書「Brain」シリーズから、高校生向けモデル「PW-SS6」、「PW-SH6」および大学生・ビジネス向けモデル「PW-SB6」を24日より発売する。価格はすべてオープンプライス。</p><p>　画面部分が360度回転し、タブレット端末のように持って使える電子辞書。高校生向けモデルには「Vision Quest 総合英語 2nd Edition」と「総合英語Evergreen」の2つの英文法書を電子辞書としては初めて収録した。</p><p>　そのほか、コンテンツやツールの配置を好みに合わせてカスタマイズできる「お気に入り画面」機能を新たに搭載。単語帳や英作文のデータをmicroSD経由でほかのBrainと共有できる機能も備える。</p><p>　おもな仕様は共通で、5.5型WVGA+カラー液晶、電源がリチウムイオン充電池、連続表示時間は約130時間。本体サイズは152.4×94.5×17.9～18.4mm(幅×奥行き×高さ)、重量は約265g。</p></div></div>]]></description>
 			<pubDate>Thu, 10 Jan 2019 13:28:17 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10プレビュー、“Cドライブ”への圧迫を軽減する機能 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1163979.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1163/979/01_o.png"></div></div></div></div></div></div><p>　<a href="http://www.microsoft.com/" class="n" target="_blank">米Microsoft</a>は1月9日(現地時間)、Windows 10 Insider Preview「Build 18312(19H1)」をFast ringで公開した。</p><p>　Microsoftは次期大型アップデートの19H1において、ストレージの空き容量の管理方法にいくつか変更を施している最中とのこと。そのなかで、ストレージの予約領域を通して、アップデート/アプリ/一時ファイル/システムキャッシュを配置する機能を実装させ、貴重なディスクスペースの確保しつつ、メインドライブの容量不足によりOSの動作に支障を来たすといった事態を回避する。</p><p>　予約領域の容量は7GBほどが予定されているようだが、使用方法によって変更される模様。また、Cドライブが64GBしかないような余裕のないPCで、十分な空き容量がないような状態では、別のドライブの空き領域が自動的に使われる。さらに、接続されているドライブが1つだけで、Windows Updateなどにおいてアップデートファイルをインストール/展開するだけの十分な容量がない場合には、Windows側がUSBメモリなどの外部ストレージを使用した一時ファイルの使用を提案するという。</p><p>　同機能は19H1がプリインストールされるか、クリーンインストールされるPCに自動的に導入される予定だが、現行のInsider Previewでも、リリース文のリンクからたどれるフィードバック Hubのクエストに参加することで、次回のビルド提供時に利用できるようになる。なお、今回のBuild 18312を適用していない状態でクエストを終わらせていれば、Build 18312適用時に有効化される。</p><p>　また、「設定→更新とセキュリティ」にある「回復」のUIを改善し、構成の異なるデバイスでも一貫性のある操作性を実現しつつ、少しのクリック数で完了できるように変更。さらに、WSL(Windows Subsystem for Linux)を使いやすくするための新しいコマンドラインオプションを追加。このほか、FLS(Fiber Local Storage)のスロット数の制限を緩和し、DAW(Digital Audio Workstations)でプラグインが利用できなくなる問題にも対処している。</p></div></div>]]></description>
+			<pubDate>Thu, 10 Jan 2019 14:20:06 +0900</pubDate>
+		</item>
+		<item>
+			<title>ZOTAC、長さ約210mmのRTX 2060搭載ビデオカード </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1164002.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1164/002/01_o.jpg"></div></div><span class="caption">ZOTAC GAMING GeForce RTX 2060 AMP</span></div></div></div></div><p>　<a href="https://www.zotac.com/jp" class="n" target="_blank">株式会社ゾタック日本</a>は、GeForce RTX 2060を搭載するビデオカード「ZOTAC GAMING GeForce RTX 2060 AMP」および「ZOTAC GAMING GeForce RTX 2060 Twin Fan」を15日より発売する。価格どちらもオープンプライス。</p><p>　両モデルともに、長さが約210mmとコンパクトで小型PCへの取り付けにも対応できるビデオカード。独自のデュアルファンクーラーや大型アルミフィンなどを組み合わせた「IceStorm 2.0」を搭載し、小さな筐体ながらも冷却性能や静音性も確保したとする。バックプレートも備える。</p><p>　ブーストクロックはZOTAC GAMING GeForce RTX 2060 AMPが1,800MHz、ZOTAC GAMING GeForce RTX 2060 Twin Fanが1,680MHz。</p><p>　そのほかの仕様は共通で、CUDAコア数が1,920基、メモリはGDDR6 6GBで、動作クロックが14,000MHz、バス幅が192bit。映像出力はHDMI 2.0b、DisplayPort 1.4×3、補助電源は8ピン。2スロットを占有する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1164/002/02_o.jpg"></div></div><span class="caption">ZOTAC GAMING GeForce RTX 2060 Twin Fan</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 10 Jan 2019 14:30:40 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
