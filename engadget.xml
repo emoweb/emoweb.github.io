@@ -5,16 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    真の360度撮影ドラレコ「d‘Action 360 S」の実力レビュー。この性能を待ち望んでいた
-</title>
-			<link>https://japanese.engadget.com/2019/01/15/360-d-action-360-s/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F3cbca650-1899-11e9-adbb-d6245f4ca719&client=a1acac3e1b3290917d92&signature=ab20de6d7892bed1c1fd9ba1871e7f7b1f881bc4" />一昨年に購入した、半球状ながら360度撮影できるドライブレコーダー「d'Action 360」。その話は「360度撮影可能なドラレコ「dAction 360」自腹レビュー、運転操作もしっかり記録でき万が一のときの証拠にも」として記事化しましたが、今回その進化版「d'Action 360 S」を入手したので、実際にクルマに装着して実力を検証してみました。
-
-<p><a href="https://japanese.engadget.com/gallery/d-action-360-s/" title="d’Action 360 S">【ギャラリー】d’Action 360 S (26枚)</a></p>
- ]]></description>
-			<pubDate>Tue, 15 Jan 2019 22:10:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    スマホの背面に取り付けるゲームコントローラー「MUJA」、まもなくindiegogoでキャンペーン開始
 </title>
 			<link>https://japanese.engadget.com/2019/01/15/muja-indiegogo/</link>
@@ -569,6 +559,35 @@ iPhoneなどのスマートフォンが一世を風靡する以前に、フリ�
  
  ]]></description>
 			<pubDate>Wed, 16 Jan 2019 20:05:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    誰でもロボットを開発できる時代に。VAIOが汎用プラットフォームを提供
+</title>
+			<link>https://japanese.engadget.com/2019/01/16/vaio/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fdbb5bfe0-196a-11e9-bf66-93682682558c&client=a1acac3e1b3290917d92&signature=8e06e6f163b5fd42aec112f37f6212c17d746d66" />
+VAIOが「ロボット汎用プラットフォーム」を発表しました。ロボットのハードウェアや運用・マネタイズまでを1つのソリューションとして提供するもの。ロボット開発に縁遠い企業なども、短期間で効率的なロボット開発が可能になるといいます。
+
+同プラットフォームでは、ロボットの開発および運用に必要なハードウェア・ソフトウェア・クラウドサービス・サポート・各種サーバー等を集約。ワンストップでロボットの開発から運用・マネタイズまでをVAIO側がサポートするソリューションとして提供します。
+
+また、2つの汎用ハードウェア「Simple」および「Middle」を用意し、ロボット開発の迅速化を進めます。
+
+「Simple」は、Cortex-A7プロセッサとマイク・スピーカー・バッテリーを内蔵。これをぬいぐるみなどに入れ込むことで、音声で対話するコミュニケーションロボットを超低コストで開発できます。
+
+「Middle」はより多機能なハードウェアです。液晶ディスプレイを搭載するほか、モーターを備えロボットの一部を動かすことが可能。プロセッサにはCortex-A53を採用します。ぬいぐるみに入れ込むだけで利用できる「Simple」と異なり、こちらは筐体設計が必要となります。
+
+
+▲汎用ハードウェアの「Simple」
+
+
+▲「Simple」をぬいぐるみなどに入れ込むことで、対話型ロボットを超低コストで開発可能
+
+なお、同ソリューションではHOYAが提供する「DNN版音声合成エンジン」を利用可能。ディープラーニングの活用により、相槌や語尾、言い回しといった、より繊細で自然な感情表現を感じさせる発話が可能だとアピールします。
+
+PCに代わる稼ぎ頭を模索するVAIOは、EMS（受託製造）事業に注力。今回発表した「ロボット汎用プラットフォーム」はその新展開となります。
+
+▲VAIOがこれまでに製造受託したロボットたち
+ ]]></description>
+			<pubDate>Wed, 16 Jan 2019 20:50:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
