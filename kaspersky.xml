@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>オンライン詐欺：スパム送信者がよく使う5つの手口</title>
-			<link>https://blog.kaspersky.co.jp/phishing-spam-hooks/22134/</link>
-			<description><![CDATA[お金や個人情報をだまし取るために、スパム送信者が使う5つの常套手段とは。]]></description>
-			<pubDate>Tue, 18 Dec 2018 01:00:58 +0000</pubDate>
-		</item>
-		<item>
 			<title>DarkVishnya：オフィス内部からの攻撃</title>
 			<link>https://blog.kaspersky.co.jp/dark-vishnya-attack/22124/</link>
 			<description><![CDATA[サイバー攻撃を行うにあたり、必ずしも標的のコンピューターをマルウェアに感染させる必要はありません。攻撃用のデバイスをネットワークに直接つなげるという方法もあるのです。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/35c3-spectre-meltdown-2019/22205/</link>
 			<description><![CDATA[SpectreとMeltdownの脆弱性に始まり、SpectreとMeltdownの脆弱性に終わった2018年。さて、2019年はどうなるでしょう？]]></description>
 			<pubDate>Wed, 16 Jan 2019 01:00:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>SiliVaccine：北朝鮮のアンチウイルス製品</title>
+			<link>https://blog.kaspersky.co.jp/35c3-dprk-antivirus/22226/</link>
+			<description><![CDATA[北朝鮮のアンチウイルス製品「SiliVaccine」のコードを専門家が解析したところ、興味深い点が次々と見つかりました。]]></description>
+			<pubDate>Fri, 18 Jan 2019 01:00:06 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
