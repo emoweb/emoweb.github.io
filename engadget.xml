@@ -5,24 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    「CoD:BO4」のバトルロイヤルモード「BLACKOUT」、無料トライアル開始！PS4、Xbox One、PCにて配信
-</title>
-			<link>https://japanese.engadget.com/2019/01/18/cod-bo4-blackout-ps4-xbox-one-pc/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fb1460a10-1ade-11e9-bfdb-75c89a58d9dc&client=a1acac3e1b3290917d92&signature=09cf0c141c15aa2ab807cffe356cae4f54c25e63" />
-「Call of Duty: Black Ops 4 （コール オブ デューティ ブラックオプス 4）」のバトルロイヤルモード「BLACKOUT」が全プラットフォームでお試し無料ダウンロードできるようになりました。コンシューマーゲーム機では「PlayStation 4」「Xbox One」でプレイ可能です。PC版はBlizzard Battle.netにて独占配信されます。体験可能期間は1月18日から1月25日午前3時（日本時間）までです。
-
-今回配信される体験版では、過去作品に登場したキャラクター、ロケーション、武器、装備を使いプレイすることになり、ソロもしくは、2人や4人でのチームプレイも可能です。トライアル期間中の進行状況や獲得したゲーム内アイテムは保存され、完全版にアップグレードするとすぐに使用できるとのこと。
-
-「PLAYERUNKNOWN'S BATTLEGROUNDS」や「フォートナイト」、「荒野行動」など、最後の1人になるまでエリア内で戦うバトルロイヤルゲームは今や定番といっていいほどの人気ジャンルとなりました。そこへ、多くのFPSゲーマーを抱えるCall of Dutyシリーズが本格的に参入したわけです。
-
-マッチのスピード感やマップ、銃器の種類、システムなどで他タイトルとどこが差別化されているのかは気になるところ。イチゲーマーとして、早くプレーしてみたいです！
-
-
-
- ]]></description>
-			<pubDate>Fri, 18 Jan 2019 02:20:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    Twitterの鍵付きアカウントでも公開設定になるバグが4年以上放置。ただしAndroidアプリのみで修正済
 </title>
 			<link>https://japanese.engadget.com/2019/01/18/twitter-4-android/</link>
@@ -574,6 +556,26 @@ Windows 10 Mobileは、マイクロソフトが開発およびリリースした
 <p><a href="https://japanese.engadget.com/gallery/vaio-sx14-all-black-edition/" title="VAIO SX14 ALL BLACK EDITION">【ギャラリー】VAIO SX14 ALL BLACK EDITION (21枚)</a></p>
  ]]></description>
 			<pubDate>Sat, 19 Jan 2019 03:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Alexaがコンテンツに応じて読み方を自然に変更、ニュースはキャスター風に。ただし、米国のみ
+</title>
+			<link>https://japanese.engadget.com/2019/01/19/alexa/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fcd06c100-1ba0-11e9-876f-973778cf3d8e&client=a1acac3e1b3290917d92&signature=c5c0123c7b09506a0f8f50b95aaae35a4b26726a" />Amazonの音声AIアシスタントAlexaが、より自然な話し方を獲得したようです。Amazonによると、ニュースを読み上げる際には、プロのニュースキャスターのような抑揚に、Wikipediaを読み上げる際には、より中立的な読み上げ方になるとのこと。
+
+これまでAlexaの話し方は、一連の単語を自然で分かりやすい音声に変換する、TTS（Text-To-Speech）技術によって実現されていました。これは、自然に聞こえるよう、短い文節の断片を繋ぎ合わせて文章を形成しています。どのような断片を繋ぎ合わせると最も自然な応答になるのか、Amazonでは常に機械学習のアルゴリズムを最適化し続けていたとのこと。しかし、読み上げる内容によって話し方を変えるのは、これだけでは不十分です。
+
+そこでAmazonは、最近のニューラルネットワークを用いたNTTS(Neural TTS)の研究成果を利用します。ディープラーニングを用いた直接波形モデリングという手法を用いており、従来のTTSと比べ、イントネーションが改善され、文章中の正しい単語が強調されるようになるとしています。
+
+Amazonのブログでは、実際にこれを使った音声のサンプルも公開されており、従来のものと聞き比べることもできます。
+
+現在は、ニュースを読み上げる際のニュースキャスター風とWikipadiaを読み上げる際のスタイルの2つだけですが、今後、より多くの話し方を獲得する可能性はありそうです。
+
+このNTTSを使ったAlexaの読み上げは、すでに米国で展開中。いつものように、日本でいつ使えるようになるのかはわかりませんが、より自然な話し方をしてくれるようになるのを期待して待ちたいところです。
+
+   
+ ]]></description>
+			<pubDate>Sat, 19 Jan 2019 05:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
