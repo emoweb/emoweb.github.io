@@ -5,7 +5,7 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2019-01-20 21:09:10 +0900</title>
+			<title>2019-01-20 22:09:11 +0900</title>
 			<link> </link>
 			<description><![CDATA[<strong>itpro</strong><br/><p>#&lt;RSS::NotWellFormedError: This is not well formed XML
 Missing end tag for &#39;meta&#39; (got &quot;head&quot;)
@@ -24,7 +24,7 @@ in
 /data/src/rss_crawler/src/pipes/itpro.rb:38:in `block in &lt;top (required)&gt;&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
-			<pubDate>Sun, 20 Jan 2019 21:09:10 +0900</pubDate>
+			<pubDate>Sun, 20 Jan 2019 22:09:11 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
