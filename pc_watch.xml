@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【やじうまPC Watch】ニューラルネットワークでアプリのバグを取り除こうとしたら全部消された話</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1165329.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1165/329/1_o.jpg"></div></div></div></div></div></div><p>　レストランといったローカルビジネスのレビューサービスを展開している「Yelp」のiOS向けアプリの1月15日のリリースノートに、興味深い一言が書かれている。</p><div>今週アプリで問題が発生し大変ご迷惑をおかけしました事をお詫びします。ニューラルネットワークを使ってバグを全滅しようと試してみたところ、何もかも全て消去されちゃったんです。仕方なく以前の状態に戻しました。その間だけは100%バグがない状態だったのですが…。</div><p>　つまり、開発者は、アプリのバグを取り除く方法をニューラルネットワークに学習させたのだが、ニューラルネットワークはアプリの全部をバグだと思ったのか、それとも開発者が作ったニューラルネットワーク自体にバグがあったのか……は定かではないが、すべてを削除してしまったわけだ。リリースノートにあるとおり、現在はロールバックで以前の状態に戻されているようだ。</p><p>　同アプリの過去のリリースノートから見るに、開発者は新機能の実装よりも、ただならぬ執念でバグ撲滅に取り組んでいるようだ。バグ取りを自動化すれば新機能実装に専念できるのかもしれないが、いきなりのニューラルネットワーク導入はまだ時期尚早だったようだ。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1165/329/2_o.jpg"></div></div><span class="caption">バグ撲滅に余念がない開発者</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Fri, 18 Jan 2019 17:27:37 +0900</pubDate>
-		</item>
-		<item>
-			<title>ユニットコム、SSD+HDD構成も選べる14型ノートPC </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1165348.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1165/348/01_o.jpg"></div></div><span class="caption">STYLE-14FH055-i3-UHEX</span></div></div></div></div><p>　<a href="https://www.unitcom.co.jp/" class="n" target="_blank">株式会社ユニットコム</a>は、「iiyama PC」ブランド「STYLE∞」シリーズより、14型ノートPCを発売した。</p><p>　Core i3-8145U、Core i5-8265U、Core i7-8550U、Core i7-8565Uを搭載した4つのベースモデルが用意され、ストレージについても、SSDのみやSSD+HDDのツインドライブ構成などが選択できる。</p><p>　「STYLE-14FH055-i3-UHEX」の構成例は、Core i3-8145U(2コア/2.1GHz、ビデオ機能内蔵)、メモリ4GB、240GB M.2 SATA SSD、14型非光沢フルHD液晶、IEEE 802.11ac対応無線LAN、Bluetooth 5.0、OSにWindows 10 Homeなどを搭載し、86,378円から。</p><p>　「STYLE-14FH055-i7-UHSVI」の構成例は、Core i7-8565U(4コア/1.8GHz、同)、メモリ8GB、250GB M.2 NVMe SSD+1TB HDD、14型非光沢フルHD液晶、IEEE 802.11ac対応無線LAN、Bluetooth 5.0、OSにWindows 10 Homeなどを搭載し、122,018円から。</p></div></div>]]></description>
-			<pubDate>Fri, 18 Jan 2019 18:35:58 +0900</pubDate>
-		</item>
-		<item>
 			<title>ユニットコム、プロチーム「Crazy Raccoon」コラボモデルの15型ゲーミングノートPC </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1165355.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1165/355/01_o.jpg"></div></div><span class="caption">LEVEL-15FX090-i5-LXSVI-CR</span></div></div></div></div><p>　<a href="https://www.unitcom.co.jp/" class="n" target="_blank">株式会社ユニットコム</a>は、「iiyama PC」ブランド「LEVEL∞」シリーズより、プロゲーミングチーム「Crazy Raccoon」とのコラボモデルとして、新たに15型ゲーミングノートPCを発売した。</p><p>　今回コラボモデルに追加されたのは、通常のノートPC向けCPUと比べて性能が高いデスクトップPC向けCPUを搭載した15型ゲーミングノート。</p><p>　「LEVEL-15FX090-i5-LXSVI-CR」の構成例は、CPUがCore i5-8400(6コア/2.8GHz)、メモリがDDR4-2400 8GB×2、GPUがGeForce GTX 1050 Ti(GDDR5 4GB)、ストレージが250GB M.2 NVMe SSD+1TB HDD、OSがWindows 10 Home。そのほか、15.6型非光沢フルHD液晶、Gigabit Ethernet、IEEE 802.11ac対応無線LAN、Bluetooth 5.0などを備え、価格は129,578円から。</p><p>　「LEVEL-15FX096-i5-RNSVI-CR」の構成例は、CPUがCore i5-8400(6コア/2.8GHz)、メモリがDDR4-2400 8GB×2、GPUがGeForce GTX 1060(GDDR5 6GB)、ストレージが250GB M.2 NVMe SSD+1TB HDD、OSがWindows 10 Home。そのほか、15.6型非光沢フルHD液晶、Gigabit Ethernet、IEEE 802.11ac対応無線LAN(デュアルバンド対応)、Bluetooth 5.0などを備え、価格は158,738円から。</p></div></div>]]></description>
@@ -123,6 +111,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1165500.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1165/500/01_o.png"></div></div></div></div></div></div><p><span class="fnt-75">※毎週木曜日の20時より、バトルロイヤル型アクションゲームのフォートナイトの攻略動画「今夜はフォートナイト!」を配信中です。モデルでヘビーゲーマーな「963(くろみ)」さんこと黒田瑞貴さん、FPSゲーマーの鈴木悠太氏(Alliance of Valiant Arms 2012年日本代表)、ゲームキャスターの大和氏の3人がフォートナイトの最新情報や攻略テクニックなどをお届けしていきます。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードしたアーカイブの動画を掲載しています。</span></p><p>　1月17日の配信では、まずパッチノートV7.20の内容を紹介。スコープ付きリボルバーの追加、グライダー再展開アイテム、ミニガンのオーバーヒートなどについて説明しています。今回は963さんと鈴木さんに緊張感を持ってプレイしてもらいたいということで、1月中にデュオでビクロイが取れなかった場合は、なんらかのペナルティが科されることがほのめかされました。おふたりには時間の許すかぎり、バトルロイヤルに挑戦してもらっています。</p><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/0cowc6mq6X8?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div><span class="caption">今夜はフォートナイト! 第32回 - インプレスeスポーツ部</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Mon, 21 Jan 2019 12:35:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>WD、最大2TBのヒートシンクつきゲーミングNVMe M.2 SSD </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1165513.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1165/513/01_o.jpg"></div></div><span class="caption">WD Black SN750 NVMe SSD</span></div></div></div></div><p>　<a href="https://www.westerndigital.com/" class="n" target="_blank">米Western Digital</a>は1月18日(現地時間)、第2世代のNVMe M.2 SSDとなる「WD Black SN750 NVMe SSD」を発表した。</p><p>　250GB/500GB/1TB/2TBの4種をラインナップし、米国での価格は79.99ドルから499.99ドルの間になる。フォームファクタはM.2 2280。EKWBがデザインしたヒートシンクつきのモデルも用意し、こちらは500GB/1TB/2TBの容量を4月に発売予定。</p><p>　ゲーム向けの高性能SSDで、3D NAND技術を使用し、片面実装で2TBまでの容量を実現。1TBモデルにおけるシーケンシャルリードは3,470MB/s、同ライトは3,000MB/s、ランダムリードは515,000IOPS、同ライトは560,000IOPSとなっている。</p><p>　また、専用ユーティリティのWD Black-exclusive SSD DashboardにGaming Modeを追加。低電力モードを無効化でき、ピーク性能を長時間保持可能としている。</p><p>　保証期間は5年間で、1TBモデルでは総書き込み容量600TBWを、2TBモデルでは1,200TBWを実現した。</p><p>　国内ではテックウインド株式会社が取り扱い、ヒートシンクなしモデルを1月23日に、ヒートシンク付きモデルを3月頃に発売予定。</p><p>　価格はオープンプライスで、店頭予想価格はヒートシンクなしの250GBが8,980円、500GBが15,800円、1TBが31,800円、2TBは未定。ヒートシンク付きモデルについては全モデル未定となっている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1165/513/02_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Mon, 21 Jan 2019 13:07:41 +0900</pubDate>
+		</item>
+		<item>
+			<title>サンワサプライ、最長9mの4K/HDR対応プレミアムHDMIケーブル </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1165532.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1165/532/01_o.jpg"></div></div><span class="caption">KM-HD20-Pシリーズ</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/" class="n" target="_blank">サンワサプライ株式会社</a>は、プレミアムHDMIケーブル認証を取得した、HDMIロングケーブルの7mタイプ「KM-HD20-P70」と、9mタイプ「KM-HD20-P90」を発売した。価格は前者が8,640円、後者は10,584円。</p><p>　4K/60p/18Gbpsの高速データ転送に対応し、対応TV/ディスプレイでの4K/HDRの表示をサポート。ケーブルは4重のシールド処理を施し、芯線に密閉型のアルミシールド処理を行なうことで外部からのノイズの影響を抑制。ARC(Audio Return Channel)、HEC(HDMI Ethernet Channel)に対応する。</p></div></div>]]></description>
+			<pubDate>Mon, 21 Jan 2019 13:38:41 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
