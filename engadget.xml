@@ -5,48 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Alexaがコンテンツに応じて読み方を自然に変更、ニュースはキャスター風に。ただし、米国のみ
-</title>
-			<link>https://japanese.engadget.com/2019/01/19/alexa/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fcd06c100-1ba0-11e9-876f-973778cf3d8e&client=a1acac3e1b3290917d92&signature=c5c0123c7b09506a0f8f50b95aaae35a4b26726a" />Amazonの音声AIアシスタントAlexaが、より自然な話し方を獲得したようです。Amazonによると、ニュースを読み上げる際には、プロのニュースキャスターのような抑揚に、Wikipediaを読み上げる際には、より中立的な読み上げ方になるとのこと。
-
-これまでAlexaの話し方は、一連の単語を自然で分かりやすい音声に変換する、TTS（Text-To-Speech）技術によって実現されていました。これは、自然に聞こえるよう、短い文節の断片を繋ぎ合わせて文章を形成しています。どのような断片を繋ぎ合わせると最も自然な応答になるのか、Amazonでは常に機械学習のアルゴリズムを最適化し続けていたとのこと。しかし、読み上げる内容によって話し方を変えるのは、これだけでは不十分です。
-
-そこでAmazonは、最近のニューラルネットワークを用いたNTTS(Neural TTS)の研究成果を利用します。ディープラーニングを用いた直接波形モデリングという手法を用いており、従来のTTSと比べ、イントネーションが改善され、文章中の正しい単語が強調されるようになるとしています。
-
-Amazonのブログでは、実際にこれを使った音声のサンプルも公開されており、従来のものと聞き比べることもできます。
-
-現在は、ニュースを読み上げる際のニュースキャスター風とWikipadiaを読み上げる際のスタイルの2つだけですが、今後、より多くの話し方を獲得する可能性はありそうです。
-
-このNTTSを使ったAlexaの読み上げは、すでに米国で展開中。いつものように、日本でいつ使えるようになるのかはわかりませんが、より自然な話し方をしてくれるようになるのを期待して待ちたいところです。
-
-   
- ]]></description>
-			<pubDate>Sat, 19 Jan 2019 05:00:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    2万円台の中華スマートウォッチ「TicWatch C2」発売。公称連続駆動約36時間
-</title>
-			<link>https://japanese.engadget.com/2019/01/19/2-ticwatch-c2-amazon/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fed3475a0-1bcb-11e9-afff-7e7c3f621052&client=a1acac3e1b3290917d92&signature=ca1850068774cd7dd9706f6116040df905258701" />
-
-中国メーカーのMobvoiは2019年1月18日、スマートウォッチ「TicWatch」シリーズの新製品として、「TicWatch C2（ティックウォッチ シーツー）」をAmazonで発売しました。販売価格は2万4999円（税別）。
-
-カラーバリエーションは上の写真で左から順にプラチナ、オキニス、ローズゴールドの全3色です。
-
-TicWatch C2は、本体のベゼル部分にステンレススチールを採用し、本体のカラーに合わせた本革ベルトが付属します。ベルト幅はカラーによって異なり、オキニスとプラチナは20mm、ローズゴールドは18mmをそれぞれ採用。ベルトは市販のものと交換可能です。
-
-本体の主な特徴としては、IP68等級の防水・防塵に対応する点や、心拍モニター機能やGPSを含むフィットネスセンサーなどを内蔵していることなどが挙げられます。接続先のスマートフォンはiOSやAndroidに対応し、Google Playから専用アプリとウォッチフェイス（文字盤イメージ）をダウンロードできます。
-
-このほかの主なスペックは、ディスプレイが1.3インチのAMOLED、解像度は360&times;360ドット、OSはGoogle Wear OS、CPUはQualcomm Snapdragon Wear 2100、メモリは512GB、ストレージは4GB、Bluetoothは4.1、Wi-Fiは（IEEE 802.11 b/g/n）をサポートします。
-
-バッテリー容量は400mAhで、連続使用した場合の持続時間は約1.5日が目安です。
-
- 
- ]]></description>
-			<pubDate>Sat, 19 Jan 2019 06:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    1月20日のできごとは「dtab Compact d-02H 発売」「Activité Steel HR 発売」ほか：今日は何の日？
 </title>
 			<link>https://japanese.engadget.com/2019/01/19/1-20-dtab-compact-d-02h-activite-steel-hr/</link>
@@ -551,6 +509,41 @@ UQコミュニケーションズは、「UQ mobile」のスマートフォンと
 そして今度は、米シボレーが2018年にデトロイトで開催された北米国際自動車ショーで発表した「シルバラード1500 LT トレイルボス」を、レゴの標準ブロックのみを使って組み上げています。
  ]]></description>
 			<pubDate>Sun, 20 Jan 2019 23:50:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    米アップルが新品iPhone SE販売をいきなり再開。大幅に値引きのためか即売り切れ
+</title>
+			<link>https://japanese.engadget.com/2019/01/21/iphone-se/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F416f5bc0-1d35-11e9-bd7e-972770dc0bba&client=a1acac3e1b3290917d92&signature=286629210f7d6f5b42e3c9632a019ad90a9d2280" />
+米アップル公式サイトで、iPhone SEがクリアランス製品（新品未開封品）として販売再開されたことが報じられています。SIMロックは解除済みで、ストレージ32GB版と128GBの2モデルが扱われています。
+
+iPhone SEは、昨年9月の新型iPhone発表イベント後にストアから静かに姿を消しました。それから約4ヶ月後、何の前ぶれもなく再び販売スタートしたかっこうです。
+ ]]></description>
+			<pubDate>Mon, 21 Jan 2019 00:10:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Uber、電動自転車やスクーターも自動運転に。新部門を設立し求人を開始
+</title>
+			<link>https://japanese.engadget.com/2019/01/21/uber/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F560ac890-1d2a-11e9-9cd5-11bdb849d223&client=a1acac3e1b3290917d92&signature=3ff8680e60130e7406d9b72d39000ff0be6f6477" />
+Uberは自動運転車の技術を、電動自転車や電動スクーターのシェア事業にも適用したいようです。
+
+Uberは1月19日、micromobility robotics部門を発足し、充電ポイントに自走する電動自転車やスクーターを開発。これらの回収にかかる費用を不要にすると発表しました。
+
+サンフランシスコなどの大都市で行われている電動スクーターのシェアサービスは、電動スクーターを好きな場所で乗り捨てることができます。このため、店の前や歩道の真ん中に乗り捨てられるなどし、大きな問題にもなっています。
+
+こういった電動スクーターは、請負業者が回収し、修理や充電のあと再配布されているとのこと。この費用が、シェア事業者の大きな負担になっているようです。
+
+乗り捨てられた自転車やスクーターが充電ポイントまで自走すれば、これらの費用を不要にできるというのが、今回のUberの発表です。もちろん、利用者を乗せた状態での目的地までの自動運転も考慮されているのでしょう。
+
+残念ながら、現状ではこれ以上の詳細は不明です。なお、求人用Googleフォームには「センサーとロボット技術の応用を通じて、シェアスクーターおよび自転車の安全性、ライダー体験、運用効率を改善する」との記載があったようですが、現在は確認できません。
+
+まだ部門が立ち上がったばかりなので、実際に運用されるまでしばらく時間はかかりそうです。しかし、本当に自走して充電ポイントまで移動するのなら、無人の自転車やスクーターが街中を走り回ることになります。
+
+安全性を考慮するなら、そこまで汎用性が高いものではなく、先導する人や車の後に付いてくるといった運用になるのかもしれません。
+ 
+ ]]></description>
+			<pubDate>Mon, 21 Jan 2019 00:40:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
