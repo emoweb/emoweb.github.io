@@ -5,31 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    高級PHVのカルマ・オートモーティブが、ピニンファリーナとの提携を発表　
-</title>
-			<link>https://japanese.engadget.com/2019/01/21/karma-pininfarina/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Ff46e8a90-1d38-11e9-bfa7-ba6d5ec7fce6&client=a1acac3e1b3290917d92&signature=edd3be0748c08885a993aa12023e703d4c7bfab9" />
-高級プラグイン・ハイブリッドカーを製造販売する米国のカルマ・オートモーティブと、アルファロ メオやフェラーリなどの歴史的名車を手掛けてきたイタリアの名門デザイン・ハウス、ピニンファリーナが提携を発表しました。共同作業から生まれる最初の製品については、2019年の第2四半期に発表される予定です。
- ]]></description>
-			<pubDate>Mon, 21 Jan 2019 01:30:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    フリマ売上金を「楽天ペイ」残高に　累計5億円突破──ラクマ
-</title>
-			<link>https://japanese.engadget.com/2019/01/21/5/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fdc8c9030-1d41-11e9-bfeb-f2444984f463&client=a1acac3e1b3290917d92&signature=4166af5e0e50afbe9e5fa88ac24b850de48c03fe" />
-楽天は1月21日、同社のフリマアプリ「ラクマ」において、売上金の「楽天キャッシュ」への累計チャージ額が昨年12月末で5億円を突破したと発表しました。
-
-ラクマ売上金の楽天キャッシュへのチャージ機能は昨年7月より提供。決済インフラの「楽天ペイ」を介することで、楽天グループ以外の実店舗やオンラインショップでの決済にも売上金を利用できます。売上金は手数料無料で1円単位からチャージできます。
-
-フリマ売上金を実店舗などで使えるようにする仕組みは、メルカリも「メリペイ」として構想していますが、ラクマが1歩先行した形。ラクマ側は『今後も、ユーザーファーストの考えに基づいたさらなる機能改善を推進してまいります』とコメントしています。
-
- 
-
- ]]></description>
-			<pubDate>Mon, 21 Jan 2019 01:50:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    Galaxy S10のケース付き本体画像流出か。背面カメラは2〜3個に？
 </title>
 			<link>https://japanese.engadget.com/2019/01/21/galaxy-s10-2-3/</link>
@@ -659,6 +634,37 @@ R.KellyはR&amp;D界の大御所シンガーですが、以前から未成年を
  
  ]]></description>
 			<pubDate>Tue, 22 Jan 2019 00:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Google新OS「Fuchsia」にPixel 3 XLサポートが追加。サード開発者が尽力
+</title>
+			<link>https://japanese.engadget.com/2019/01/22/google-os-fuchsia-pixel-3-xl/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F08d62700-1dfb-11e9-b2b3-cedd851e9cf8&client=a1acac3e1b3290917d92&signature=51d956df1527ba02862883ca092b0fbf2ecfc5fb" />
+
+米Googleが開発を進める新OS「Fuchsia」に、同社のスマートフォン「Pixel 3 XL」へのサポートが追加されたことが、海外からの指摘により判明しました。
+
+まずFuchsiaとは、オープンソースにより開発されているOSです。Android OSとは異なり、カーネルには「Zircon」を採用。なおGoogleからOSに関する公式な発表はまだなく、どのような位置づけのOSなのかは明らかになっていません。また以前には、ファーウェイ傘下の中国HiSiliconのプロセッサ「Kirin 970」へのサポートが追加されたこともあります。
+
+今回の情報は、分散型ソースコード管理システム「Git」向けのソースコードレビューシステム「Gerrit」から発見されました。具体的にはPixel 3 XL（ソースコードではCrosshatchと言及）でのZirconカーネルのブート、バーチャルコンソールの表示などが確認されています。
+
+なお、今回のサポート追加はGoogleによるものではなく、インド人開発者のZhuowei Zhang氏が追加したものです。彼は、マインクラフト・ポケット・エディションにてシェーダーとモッドを利用するためのツール「BlockLauncher」を開発したことでも知られています。
+
+また今回のサポート追加はGoogleによるものではないので、今後Pixel 3 XLでのFuchsiaのサポートが推し進められるのかどうかは不明です。さらにサポートは極めて限定的なため、開発者以外はPixel 3 XLでFuchsiaをテストすることは推奨されません。
+
+これまでも、「Google Home Hub」や「Pixelbook」でのテストが確認されているFuchsia。詳細は不明ですが、Android OSとの関連性が今後も注目されそうです。
+
+ 
+ ]]></description>
+			<pubDate>Tue, 22 Jan 2019 00:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    マイクロソフト、Surfaceキーボードの打鍵感を改良予定？押し込みを圧電モーターで補う特許を出願
+</title>
+			<link>https://japanese.engadget.com/2019/01/22/surface/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fd84976f0-1dff-11e9-bbe1-66ed1d462415&client=a1acac3e1b3290917d92&signature=fa5ef3c29d3fdf66c39a4059e38f342bc42b5006" />
+マイクロソフトが、Surfaceキーボードの薄型化と打ちやすさの両立を可能とする特許を申請していることが報じられています。
+ ]]></description>
+			<pubDate>Tue, 22 Jan 2019 01:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
