@@ -5,51 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Alexaの会話継続モードが日本でも利用可能に。ホットワード不要で続けて質問できます
-</title>
-			<link>https://japanese.engadget.com/2019/01/22/alexa/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F0bdb9dd0-1e06-11e9-bd53-524b8ba9c29b&client=a1acac3e1b3290917d92&signature=f3138dfbaeca4a89e528a799cba348ed8b85627a" />Amazonの音声アシスタントAlexaの会話継続モードが日本でも利用可能になりました。1週間ほど前から利用可能だったようです。　
-
-会話継続モードは、2018年3月に米国でフォローアップモードとして導入されたもの。「Alexa、～」と指示した後、約5秒間は「Alexa」と呼びかけなくても指示や質問を受け付けてくれるモードです。
-
- 
-Alexaにフォローアップモード搭載。続けて指示する際には「Alexa」の呼びかけが不要に、ただし米国のみ
-
-例えば、「Alexa、今日の天気は？」と聞いたあと、明日の天気も知りたくなった場合には、そのまま「明日の天気は」と続けられます。会話継続モードで待機している場合、EchoデバイスのリングLEDが青く光った状態になっています。
-
-会話継続モードは、デフォルトではオフになっているので、Alexaアプリから、利用するデバイス毎に有効化する必要があります。
-
-なお、オーディオ再生中に指示をして音楽再生が止まっている状態や、Alexaに話しかけているとAlexaが判断できなかった場合などには、利用できないとのことです。
-
-先の天気の例以外にも、Remoなどの赤外線デバイスを使ってテレビを操作する際に「テレビをつけて」「NHKにして」「音量を上げて」などをいちいち「Alexa」と呼びかけずに行えるようになり、便利に使えそうな機能です。
-
-   
- ]]></description>
-			<pubDate>Tue, 22 Jan 2019 02:30:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    メルカリのスマホ決済「メルペイ」開始迫る？　売上金が移管
-</title>
-			<link>https://japanese.engadget.com/2019/01/22/merpay/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F84405340-1e17-11e9-afec-6763c1504c5e&client=a1acac3e1b3290917d92&signature=d044f21b5f79ca69a581aeee63f3852ad7f6014e" />
-メルカリは2月1日より、フリマサービスの売上金を子会社の「メルペイ」に移管します。
-
-決済サービス事業に関する権利義務等の一部を、2月1日付けで完全子会社であるメルペイが吸収分割により継承します。これに伴い、ユーザーが保有している売上金及びメルカリポイントについても、その管理がメルペイに移管されます。
-
-メルカリは、フリマ売上金を実店舗などの決済に利用できる「メルペイ」の立ち上げに向けて、2017年に金融・決済子会社の「メルペイ」を設立。また2018年7月には、メルペイ加盟店開拓に向けた孫会社「メルペイコネクト」も設立しています。
-
-なお、スマホ決済は「LINE Pay」や「PayPay」など群雄割拠の状態。既存プレイヤーと比較した強みについて小泉社長は『入金サイドにメルカリの売上金の存在があることが大きい。（中略）コンビニや金融商品など、生活のあらゆる場所でメルカリのウォレット機能が使われることで、ウォレットにお金を貯めるために、メルカリで商品をさらに売るという好循環が生まれる」とコメントしています。
-
-
-▲メルカリ代表取締役社長COOの小泉文明氏
-
-売上金の移管で、メルペイのサービスインが近づいた印象を受けます。肝心のサービス開始時期については現在広報担当者に問い合わせており、コメントがあり次第追記します。
-
-なお、今回の変更によってメルカリのユーザー体験に変更はないとしています。
- ]]></description>
-			<pubDate>Tue, 22 Jan 2019 02:40:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    エヴァスマホのチームが手がけるNERV官給品ソニースマートウォッチが各色500本の限定で登場！
 </title>
 			<link>https://japanese.engadget.com/2019/01/22/nerv-500/</link>
@@ -680,6 +635,33 @@ iOS 12.1.3の主な変更点は下記のとおりです。
  
  ]]></description>
 			<pubDate>Wed, 23 Jan 2019 00:03:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    aiboが「操作できるロボット」に、ソフトウェアAPI公開へ
+</title>
+			<link>https://japanese.engadget.com/2019/01/23/aibo-api/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-01/29d5a950-1ed0-11e9-9d9b-cc2c3662fb38" />ソニーは、ペットロボット「aibo」の開発環境を2019年夏を目処に公開すると発表しました。
+
+aiboの開発環境は、Web APIとして公開され、開発者やユーザー（aiboオーナー）が無償で利用できるようになる予定。開発環境を通して、aiboをロボットとして操作できます。23日に実施された発表会では、ビジュアルプログラミング言語「Scratch」と連携してアイボにティッシュペーパーを引き抜かせるデモンストレーションが披露されました。
+
+
+ ]]></description>
+			<pubDate>Wed, 23 Jan 2019 00:40:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    パナソニック、声で家電や照明を操れる「コエリモ」スマートスピーカー発表。約2万5000円
+</title>
+			<link>https://japanese.engadget.com/2019/01/23/2-5000/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fa71bcbe0-1ec8-11e9-acbb-6f0adfe793af&client=a1acac3e1b3290917d92&signature=674904135c50c4fb8f541dfa75a914c654664eed" />
+
+パナソニックは、Googleアシスタントを搭載したスマートスピーカー「KOE REMO（コエリモ）」SC-GA1を2019年2月22日に発売します。価格はオープンですが、実売価格は2万5000円前後となる見込みです。
+
+スマートスピーカーの普及は家電の音声操作をそれほど珍しいものではなくしました。ただ、既存のスマートスピーカー製品の多くは、ネットワークなどに対応した、いわゆるスマート家電の一部しか操作できませんでした。
+
+一方、コエリモは赤外線リモコンとしての機能を搭載し、話しかけるだけでリモコンに対応する家電を操作できるのが特徴です。
+ 
+ ]]></description>
+			<pubDate>Wed, 23 Jan 2019 00:50:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
