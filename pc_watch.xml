@@ -5,42 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>理研、従来の100倍以上の高い温度で量子ビット動作を実現 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1166386.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1166/386/1_o.jpg"></div></div></div></div></div></div><p>　<a href="http://www.riken.jp/" class="n" target="_blank">理化学研究所</a>(理研)開拓研究本部石橋極微デバイス工学研究室の大野圭司専任研究員、産業技術総合研究所(産総研)ナノエレクトロニクス研究部門ナノCMOS集積グループの森貴洋主任研究員らの共同研究グループは24日、シリコン量子ビットを10K(約-263℃)の高温で動作させることに成功したと発表した。</p><p>　これまで量子スピンを用いたシリコン量子ビットは、既存のシリコントランジスタ製作技術で製造できたが、0.1K(約-273℃)以下の極低温環境でしか動作せず、その冷却には大型の装置が必須。これ以上の高温で量子ビットを動作させるには、熱エネルギーによる撹乱に負けない、より強く局在した電子が必要だった。</p><p>　今回、研究チームは既存の製造技術で達成できる、不純物を利用する方法を採用。不純物が形成するエネルギー準位を利用すれば、不純物1個が原子サイズの量子ドット閉じ込めの実現に相当するとされている。</p><p>　これまで同様の技術には、不純物としてリンをはじめとする一般的な不純物(浅い不純物)が利用されてきたが、浅い不純物には電子が強く局在しない問題があった。そこで研究チームは、アルミ不純物と窒素不純物が近接して作る不純物ペアからなる深い準位を形成する、「深い不純物」を用いた。</p><p>　深い不純物から量子ビット状態を電気信号として読み出すには、深い不純物のなかの電子をトランジスタの電極に取り出す必要があり、その電子の移動はトンネル効果によって引き起こされる。しかし、従来のトランジスタ構造ではトンネル障壁が厚くなりすぎてうまく電子を取り出せなかった。そこで今回、トンネル電界効果トランジスタ素子を採用し、障壁を薄くすることで電子の取り出しに成功した。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1166/386/2_o.jpg"></div></div><span class="caption">トンネル電界効果トランジスタ素子の採用</span></div></div></div></div><p>　電子スピン状態の読み出し方法には、「スピン閉鎖現象」を採用。読み出したい不純物の電子を電極へ取り出すさいに、もう1つ別の不純物(遮断器不純物)を経由してからでないと取り出せないようにし、パウリの排他律として知られる量子力学的効果により、2つの不純物のスピン状態を比較して取り出すようにした。この手法に加え、磁気共鳴技術で電子スピン状態の操作を行なうことで、量子ビットの動作を確認した。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1166/386/3_o.jpg"></div></div><span class="caption">スピン閉鎖現象</span></div></div></div></div><p>　今回、ターゲット不純物としてアルミ-窒素不純物ペアの深い不純物を採用したが、遮断器不純物には素子にもともと入っている浅い不純物を用いたため、そこがボトルネックとなり、最高動作温度は-10Kに留まっている。今後、遮断器不純物にも、別途深い不純物を用いることで、さらなる高温動作が期待できるとしている。</p></div></div>]]></description>
-			<pubDate>Fri, 25 Jan 2019 11:06:36 +0900</pubDate>
-		</item>
-		<item>
-			<title>コマンド1つでIoTも可能な1,500円のこどもパソコン「IchigoJam BASIC ver1.3」 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1166401.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1166/401/1_o.jpg"></div></div></div></div></div></div><p>　株式会社B Incは、セットアップ不要/シンプル/安価をコンセプトとしてこどもプログラミング教育パソコン「IchigoJam ver 1.3」を発売した。税別価格は1,500円。</p><p>　CPUに48MHz駆動のNXP LPC1114、メモリ4KBを搭載。Micro USBを電源として接続し、PS/2キーボードやコンポジットビデオ対応ディスプレイを接続するだけでBASICが起動し、プログラミングをすぐにはじめられる教育向け製品。</p><p>　従来の製品でも、さくらインターネット株式会社のIoTプラットフォーム「sakura.io」を用いて、IoT的な使い方が可能であったが、通信処理にはsakura.ioモジュールの仕様を把握してプログラミングする必要があった。新製品ではこの通信処理をコマンド1つで行なえるようになった。</p><p>　また、sakura.ioモジュールとIchigoJam BASICを接続しやすくするためのIchigoJam互換機「IchigoSoda」を使用すれば、さらに簡単にIoTプログラミングを体験/利用できるとしている。</p><p>　グラフィックスは32×24テキスト(PCG対応)/NTSCビデオ出力、または16×6テキスト(PCG対応)/AQM1248A液晶ディスプレイ。インターフェイスはボタン、汎用入力×4(アナログ×2)、LED×1、汎用出力×6、シリアル入出力(TXD/RXD、最大115,200bps)などで、切り替えにより最大入力×10、出力×10、アナログ×6、PWM×4(2ch)に設定可能。</p><p>　既存製品のユーザーも公式サイトからダウンロードして自身で更新可能。ver1.2.3と比較して、さまざまな機能追加やキー入力仕様の変更、高度なプログラミングへの対応といった変更がなされている。</p><p>　OSであるIchigoJam BASICと回路図は、ユーザーが自身で利用するさいは無償で提供しており、プログラミング教材などとして第三者に営利目的で販売/提供する個人や企業向けには、1販売数につき税別150円のライセンスで提供する。</p></div></div>]]></description>
-			<pubDate>Fri, 25 Jan 2019 11:52:44 +0900</pubDate>
-		</item>
-		<item>
-			<title>2,670円のポケモンモンスターボール風USBメモリが2,170円分のポイント還元 【特売! Sponsored by ひかりTVショッピング】</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/hikaritvshop/1166267.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1166/267/pc01_o.jpg"></div></div><span class="caption">ポケットモンスター モンスターボール USBフラッシュメモリ 8GB</span></div></div></div></div><p>　<a href="http://www.nttplala.com/" class="n" target="_blank">株式会社NTTぷらら</a>が運営するひかりTVショッピングにて、「ポケットモンスター モンスターボール USBフラッシュメモリ 8GB(型番 : PKBUF8G2)」が、2,670円で販売されており、2,170円分のクーポンコードを提供中。実質500円で購入できる。クーポンコードの利用方法については<a href="http://faq-shop.hikaritv.net/faq/show/3270/" class="n" target="_blank">こちらの説明</a>を参照。期限は1月28日12時までで、50個限定となっている。</p><p>　人気ゲーム“ポケモン”に登場するモンスターボールを模したUSBメモリで、ボール内部にUSB端子が組み込まれている。インターフェイスUSB 2.0、容量は8GB。</p><div><div><div><div><span class="title">ひかりTVショッピングで購入する</span></div></div><div></div><div><div><div><div><a href="https://shop.hikaritv.net/shopping/commodity/plala/2010029942/?sid=impress_pc_201901_03" rel="nofollow"><img src="https://pc.watch.impress.co.jp/img/watch/parts/icon/loading.png" class="resource" style="width:160px;height:160px;" id="pc02a_s.jpg" ajax="/img/pcw/docs/1166/267/pc02a_s.jpg"></a></div></div><span class="caption"><a href="https://shop.hikaritv.net/shopping/commodity/plala/2010029942/?sid=impress_pc_201901_03">ポケットモンスター モンスターボール USBフラッシュメモリ 8GB</a></span></div></div></div></div><p>　このほか、ひかりTVショッピングではd払いで買い物することで、dポイントが3倍になり、買い回りでさらに3倍の合計6倍となるキャンペーン「<a href="https://shop.hikaritv.net/shopping/static/s_1901_dpup/data/index.html?sid=impress_pc_201901_03" class="n" target="_blank">d払い 毎週おトクなd曜日</a>」も実施されている。</p></div></div>]]></description>
-			<pubDate>Fri, 25 Jan 2019 12:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>ViewSonicの27型IPS液晶が2万円切り。先着で5千円分のポイントも 【特売! Sponsored by ひかりTVショッピング】</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/hikaritvshop/1166264.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1166/264/01_o.jpg"></div></div><span class="caption">VX2776-SMHD</span></div></div></div></div><p>　<a href="http://www.nttplala.com/" class="n" target="_blank">株式会社NTTぷらら</a>が運営するひかりTVショッピングにて、ViewSonic製の27型液晶ディスプレイ「VX2776-SMHD」が約2,000円引きとなる19,980円で販売されており、ポイント10倍(1,998円分)も提供中。さらに、先着20台にかぎり5,000円分のクーポンコードも付与される。クーポンコードの利用方法については<a href="http://faq-shop.hikaritv.net/faq/show/3270/" class="n" target="_blank">こちらの説明</a>を参照。期限は1月28日12時まで。</p><p>　VX2776-SMHDは、非光沢のAH-IPSパネルを採用したフルHD(1,920×1,080ドット)解像度の液晶ディスプレイで、ベゼル最薄部6.6mmという薄さや狭額縁デザインが特徴。</p><p>　「ゲーム」、「映画」、「ウェブ」、「テキスト」、「モノ」、「Mac」の6つのビューモードを用意しており、アプリケーションに応じた最適な表示が行なえる。このほか、ブルーライトフィルタやフリッカーフリー技術も搭載。スピーカーは3ウェイのステレオスピーカー(3W+3W)となっている。</p><p>　おもな仕様は、輝度が250cd/平方m、コントラスト比1,000:1(最大8,000万:1)、色数1,677万色、視野角上下/左右178度、応答速度4ms(中間色)。インターフェイスは、DisplayPort、HDMI、ミニD-Sub15ピンの3系統、3.5mmヘッドフォンジャック。</p><p>　本体サイズは約621×209×462.6mm(幅×奥行き×高さ)、重量は約3.71kg。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1166/264/02_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1166/264/03_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1166/264/04_o.jpg"></div></div></div></div></div></div><div><div><div><div><span class="title">ひかりTVショッピングで購入する</span></div></div><div></div><div><div><div><div><a href="https://shop.hikaritv.net/shopping/commodity/plala/2010027090/?sid=impress_pc_201901_04" rel="nofollow"><img src="https://pc.watch.impress.co.jp/img/watch/parts/icon/loading.png" class="resource" style="width:160px;height:160px;" id="05a_s.jpg" ajax="/img/pcw/docs/1166/264/05a_s.jpg"></a></div></div><span class="caption"><a href="https://shop.hikaritv.net/shopping/commodity/plala/2010027090/?sid=impress_pc_201901_04">VX2776-SMHD</a></span></div></div></div></div><p>　このほか、ひかりTVショッピングではd払いで買い物することで、dポイントが3倍になり、買い回りでさらに3倍の合計6倍となるキャンペーン「<a href="https://shop.hikaritv.net/shopping/static/s_1901_dpup/data/index.html?sid=impress_pc_201901_04" class="n" target="_blank">d払い 毎週おトクなd曜日</a>」も実施されている。</p></div></div>]]></description>
-			<pubDate>Fri, 25 Jan 2019 12:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>「宅ふぁいる便」に不正アクセス。サービス一時停止で復旧時期未定 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1166409.html</link>
-			<description><![CDATA[<div><div><p>　大阪ガス傘下の<a href="https://www.ogis-ri.co.jp/" class="n" target="_blank">株式会社オージス総研</a>が提供するファイル転送サービス「宅ふぁいる便」が、23日10時50分よりサービスを一時停止した。24日12時現在も再開のめどが立っていない。</p><p>　オージスによると、一部サーバーに対して不正アクセスの可能性が確認されたとし、サービスを中断。現時点では具体的な被害は確認されていないが、引き続き第三者を含めた調査を行なうとしており、詳細が判明次第、知らせるとしている。</p><p>　なお、1月13日から23日までにサービスを利用したユーザーは、送信されたファイルが届いていない可能性があるため、確認するよう呼びかけている。</p><p>　ビジネスプラン会員へのサービスの取り扱いについては後日メールにて連絡するとしている。また、企業/法人向けの「オフィス宅ふぁいる便」サービスは運営を継続している。</p></div></div>]]></description>
-			<pubDate>Fri, 25 Jan 2019 12:12:08 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows 10プレビュー、RAWファイルのサポートを強化 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1166410.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1166/410/01_o.jpg"></div></div><span class="caption">Raw Image Extension (Beta)</span></div></div></div></div><p>　<a href="http://www.microsoft.com/" class="n" target="_blank">米Microsoft</a>は1月24日(現地時間)、Windows 10 Insider Preview「Build 18323(19H1)」をFast ringで配信した。</p><p>　Windows 10でカメラのRAWイメージ形式のファイルを開くためのコーデックパッケージとして、Microsoft Storeに「Raw Image Extension(Beta)」を公開。サポート形式が強化され、これまで表示できなかったファイルでも、エクスプローラーでのサムネイルやプレビュー、メタデータの表示が行なえるようになった。また、Windows Imaging Componentフレームワークを使う「フォト」のようなアプリでもフル解像度での表示が可能となっている。</p><p>　Raw Image Extension(Beta)を利用するには、Build 18323以降のOSが要求され、Edgeから<a href="https://www.microsoft.com/ja-jp/p/raw-image-extension-beta/9nctdw2w1bh8" class="n" target="_blank">Raw Image Extension(Beta)</a>のページを開いてインストールする必要がある。</p><p>　なお、ベータ版ということもあり、現時点では一部表示できなかったり、エクスプローラーの詳細ペインでRAWファイル表示時に、エクスプローラーが固まってしまうなどの不具合が起きているようだ。</p></div></div>]]></description>
-			<pubDate>Fri, 25 Jan 2019 12:16:54 +0900</pubDate>
-		</item>
-		<item>
 			<title>Mac App Store内でMicrosoft Office 365が購入可能に </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1166420.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1166/420/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.apple.com/jp/" class="n" target="_blank">Apple</a>は1月25日、Mac App StoreでMicrosoft Office 365 for Macの取り扱いを開始したと発表した。これにより、Office 365 for Macのサブスクリプション購入がMac App Store内から簡単に行なえるようになった。</p><p>　Office 365 for Macでは、Mac向けにmacOSのダークモードや連係カメラ、MacBook ProのTouch Bar、トラックパッドなどが利用できるように特別に設計されている。また、ビジネス向けにもApple Business Managerを利用して従業員に簡単に配布できるようになっている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1166/420/02_o.png"></div></div></div></div></div></div></div></div>]]></description>
@@ -123,6 +87,42 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1166557.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1166/557/01_o.jpg"></div></div><span class="caption">カラーアクセサリーキーキャップ(オレンジ矢印キー)</span></div></div></div></div><p>　<a href="http://www.archisite.co.jp/" class="n" target="_blank">株式会社アーキサイト</a>は「ARCHISS(アーキス)」ブランドより、Cherry MXスイッチ搭載メカニカルキーボード向け換装用キーキャップ「カラーアクセサリーキーキャップ」シリーズを発売した。価格はすべてオープンプライス。</p><p>　耐摩耗性に優れたPBT樹脂製のキーキャップで、文字部分には染料を樹脂に浸透させる昇華印字を採用し、文字が消えにくい。標準的なキーキャップと比べて約0.5mmほど厚手な1.5mm厚で、背が低めのキーとなっている。</p><p>　オレンジ矢印キー、赤ESC/ARCHISSキー、青WASDキー、US配列用 赤Enter/緑Shiftキー、黄Ctrl/赤Altキーの5セットが展開され、それぞれのセットでキーキャップのみモデルとキープラーつきモデルが用意される。</p></div></div>]]></description>
 			<pubDate>Fri, 25 Jan 2019 18:58:19 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】グラスバレー、 T2 4K Series Ver.3.0.2.650 アップデーター</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1166576.html</link>
+			<description><![CDATA[<div><div><p>　グラスバレーは、 T2 4K Series Ver.3.0.2.650 アップデーターを公開した。</p></div></div>]]></description>
+			<pubDate>Fri, 25 Jan 2019 23:24:55 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】リコー、インタラクティブ ホワイトボード クライアント Ver.1.3.2ほか</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1166575.html</link>
+			<description><![CDATA[<div><div><p>　リコーは、インタラクティブ ホワイトボード クライアント Ver.1.3.2ほかを公開した。</p></div></div>]]></description>
+			<pubDate>Fri, 25 Jan 2019 23:25:02 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】Lenovo、Legion Y7000P-1060, Lenovo Legion Y530-15ICH-1060 BIOS アップデートほか</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1166574.html</link>
+			<description><![CDATA[<div><div><p>　Lenovoは、Legion Y7000P-1060, Lenovo Legion Y530-15ICH-1060 BIOS アップデートほかを公開した。</p></div></div>]]></description>
+			<pubDate>Fri, 25 Jan 2019 23:25:12 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】パナソニック、CF-SV8B、SV8C、SV8Dシリーズ タッチパッドドライバー アップデートプログラム (19.5.26.12)</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1166573.html</link>
+			<description><![CDATA[<div><div><p>　パナソニックは、CF-SV8B、SV8C、SV8Dシリーズ タッチパッドドライバー アップデートプログラム (19.5.26.12)を公開した。</p></div></div>]]></description>
+			<pubDate>Fri, 25 Jan 2019 23:25:38 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】バッファロー、TeraStation 5010 3010シリーズ ファームウェア アップデータ Ver.4.20</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1166572.html</link>
+			<description><![CDATA[<div><div><p>　バッファローは、TeraStation 5010 3010シリーズ ファームウェア アップデータ Ver.4.20を公開した。</p></div></div>]]></description>
+			<pubDate>Fri, 25 Jan 2019 23:25:57 +0900</pubDate>
+		</item>
+		<item>
+			<title>「宅ふぁいる便」、メアドとパスワードを含む480万件のユーザー情報が漏洩 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1166611.html</link>
+			<description><![CDATA[<div><div><p>　大阪ガス傘下の株式会社オージス総研が提供するファイル転送サービス「宅ふぁいる便」は25日、ユーザーのメールアドレス、ログインパスワード、生年月日を含むユーザー情報の漏洩が確認されたとし、お詫びを掲載した。</p><p>　オージス総研は1月22日の11時に、同社が認識していないファイルが「宅ふぁいる便」のサーバー内に作成されていることを確認し、システム管理者およびパートナー企業に確認をし、同日13時より第三者機関を含む原因の救命や被害状況などの調査を開始。そして同日の19時に、不審なアクセスログがあることを確認した。</p><p>　翌日となる23日の10時50分には、情報漏洩防止のため、宅ふぁいる便のサービスを停止し、24日の20時にサービスの一時停止に関するお知らせとお詫びを掲載したが、25日15時30分のユーザー情報の漏洩を確認したという。</p><p>　漏洩したものは、宅ふぁいる便の利用ユーザー情報で、メールアドレス、ログインパスワード、生年月日、氏名、性別、業種・職種、住居地。このうちメールアドレスとパスワード、生年月日は漏洩が確定している。合計件数は480万件に上る。</p><p>　同社は、現時点では具体的な被害は確認されていないが、引き続き第三者を含めた調査をしており、詳細が判明次第改めて知らせるとしている。また、宅ふぁいる便と同一のメールアドレスとログインパスワードを用いてほかのWebサービスを利用しているユーザーに対し、ログインパスワードの変更を促している。</p><p>　なお、現時点でもサービス再開のめどは立っていない。</p></div></div>]]></description>
+			<pubDate>Fri, 25 Jan 2019 23:28:39 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
