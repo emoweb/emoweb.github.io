@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>嬉しくないクリスマスプレゼント</title>
-			<link>https://blog.kaspersky.co.jp/christmas-card-malware/22182/</link>
-			<description><![CDATA[知らない人から届いたグリーティングカードやAmazonのギフトカードを信用してはいけない理由]]></description>
-			<pubDate>Fri, 21 Dec 2018 04:00:37 +0000</pubDate>
-		</item>
-		<item>
 			<title>メリー・コンプライアンス</title>
 			<link>https://blog.kaspersky.co.jp/2018-christmas-story/22190/</link>
 			<description><![CDATA[善と悪の終わりなき戦いを、現代のEU法を通じて見てみると。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/35c3-insecure-sex-toy/22256/</link>
 			<description><![CDATA[ドイツ製のアダルトグッズを分析してみると、実にさまざまな脆弱性が見つかりました。]]></description>
 			<pubDate>Thu, 24 Jan 2019 01:00:30 +0000</pubDate>
+		</item>
+		<item>
+			<title>仮想通貨のハードウェアウォレット：そのハッキング方法</title>
+			<link>https://blog.kaspersky.co.jp/hardware-wallets-hacked/22245/</link>
+			<description><![CDATA[Ledger社およびTrezor社製の仮想通貨のハードウェアウォレットのセキュリティを侵害する方法を、セキュリティリサーチャーたちが発見しました。]]></description>
+			<pubDate>Fri, 25 Jan 2019 01:00:32 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
