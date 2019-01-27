@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>内視鏡画像からAIが腫瘍を識別、その実力は？</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/050200094/011700033/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div id="kiji"><p><b>内視鏡画像を人工知能（AI）が解析し、わずか0.4秒で腫瘍か非腫瘍かを識別する——。そんな大腸内視鏡診断支援ソフトウエア「EndoBRAIN（エンドブレイン）」が医療機器として国内で承認された。米国でAIを用いた診断支援システムの承認が相次ぐ中、日本でもようやくAIを用いた医療機器の臨床現場への登場が見えてきた。</b></p><p>　AIを医療に応用する研究が世界各所で進んでいる。米国では2016年12月に、米FDAがAIなどの技術を積極的に取り入れた医療機器を早期に承認する法律を制定。その後、AIを用いた診断支援のシステムが相次いで開発され、2018年4月には眼底カメラで撮影した画像から糖尿病網膜症かどうかをAIを用いて診断するソフトウエアが承認された。</p><p>　日本でもAIを用いた診療支援システムの開発は進んでいる。国立がん研究センターは2018年7月に、AIを用いて内視鏡画像から早期胃癌を検出する方法を確立したと発表。ベンチャー企業のエルピクセルもMRA画像からAIを用いて未破裂動脈瘤や血管狭窄を見つけたり、胸部X線画像から確認すべき所見を見つける技術の開発を進めている。</p><p>　そんな中、情報システム大手のサイバネットシステムは、昭和大学や名古屋大学と共同で、大腸内視鏡画像からAIを用いて腫瘍かどうかを判断するシステム「EndoBRAIN」を開発。2018年12月にクラスIIIの高度管理医療機器として承認された。日本でAIを用いた診断支援システムが承認されるのは初めてとみられる。2019年内にも、オリンパスが発売する見込みだ。</p><p>　EndoBRAINは、オリンパスの超拡大内視鏡「Endocyto（エンドサイト）」を使って520倍倍率で撮影した大腸内視鏡画像をAIで解析し、腫瘍である可能性をわずか0.4秒で数値として出力するソフトウエアだ。大腸ポリープが腫瘍かどうかの判断について、病理診断に対する正診率が98％、感度は97％で、「専門医に匹敵する精度」（昭和大学横浜市北部病院消化器センター長の工藤進英氏）を実現した。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/050200094/011700033/?SS=imgview_ndh&amp;FD=-677827613" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/feature/15/050200094/011700033/gaiyou.jpg?__scale=w:500,h:294&amp;_sh=02c0b50530" width="500" height="294" alt=""></a></div><div>図1●大腸内視鏡診断支援ソフトウエア「EndoBRAIN」を使ってポリープが腫瘍かどうかを判断する流れ（取材を基に編集部作成）</div><div>　超拡大内視鏡「Endocyto」を使って520倍倍率で撮影した検査画像をAIが解析し、腫瘍である可能性を瞬時に％で出力する</div><div>クリックすると拡大した画像が開きます</div></div></div><p>　大腸にできるポリープの3～4割が過形成性ポリープ、炎症性ポリープ、若年性ポリープなど非腫瘍性のもので、これらは原則切除する必要はない。だが、臨床現場での腫瘍と非腫瘍の鑑別正診率は70％から80％程度にとどまっており、非腫瘍だと思って放置したポリープが治療が必要な腫瘍だったり、非腫瘍性ポリープを切除してしまうことがあった。そもそも、「非専門医が施術する際には、腫瘍か非腫瘍かの判断ができず、全てのポリープを切除してしまう場合もある」（昭和大学横浜市北部病院消化器センターの三澤将史氏）。切除を行えば出血や穿孔といった合併症のリスクが伴うため、「不必要な治療は減らすべき」と三澤氏は語気を強める。EndoBRAINが腫瘍かどうかの判断をサポートすることで、非専門医が抱えるこうした課題を解決できる可能性がある。<br></p></div>]]></description>
-			<pubDate>Fri, 18 Jan 2019 07:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>タカラレーベン、みんな電力に太陽光の電力を供給</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/011811886/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　タカラレーベンは1月10日、タカラレーベン・インフラ投資法人から賃借して発電事業を行っている太陽光発電所2カ所について、みんな電力（東京都世田谷区）と特定卸供給に関する契約を締結したと発表した。1月から順次、電力の供給を開始する。</p><p>　みんな電力は、再生可能エネルギー由来の電力を活用した電力サービスを展開している。今回締結した特定卸供給契約により、タカラレーベンの運営する太陽光発電所で発電した電力を、みんな電力を介して再エネ利用を希望する電力需要家に供給する。</p><p>　供給先としては、地域・都市部のほか、再エネ100％の利用を掲げる企業からなる国際イニシアチブ「RE100」に加盟する企業などを想定する。</p><p>　電力を供給する太陽光発電所は、三重県四日市市の「LS三重四日市発電所」（設置容量1.9805MW、連系出力1.5MW、運転開始2014年9月）と、静岡県御前崎市の「LS静岡御前崎発電所」（設置容量1.09824MW、連系出力990kW、運転開始2015年3月）。</p><p>　タカラレーベンは、総合不動産事業のほか、メガソーラー（大規模太陽光発電）事業を展開している。発電事業者としての方針・理念では、「再生可能エネルギーの普及に関する貢献」「電力供給を通じた地域間連携」「新たな価値を生かした新規事業への挑戦」の3つのコンセプトを掲げている。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/011811886/?SS=imgview&amp;FD=2141339337" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/011811886/0118leben_01.jpg?__scale=w:500,h:240&amp;_sh=05b0b30140" width="500" height="240" alt=""></a></div><div>みんな電力への電力供給のスキーム</div><div>（出所：タカラレーベン）</div><div>[画像のクリックで拡大表示]</div></div></div><div><div class="bpimage_double" style="width:490px;"><div class="bpimage_left" style="width:240px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/011811886/?SS=imgview&amp;FD=2142262858" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/011811886/0118leben_02.jpg?__scale=w:240,h:164&amp;_sh=01608408e0" width="240" height="164" alt=""></a></div><div>LS三重四日市発電所</div><div>（出所：タカラレーベン）</div><div>[画像のクリックで拡大表示]</div></div><div class="bpimage_right" style="width:240px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/011811886/?SS=imgview&amp;FD=2143186379" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/011811886/0118leben_03.jpg?__scale=w:240,h:169&amp;_sh=0cf0a40160" width="240" height="169" alt=""></a></div><div>LS静岡御前崎発電所</div><div>（出所：タカラレーベン）</div><div>[画像のクリックで拡大表示]</div></div></div></div></div>]]></description>
@@ -243,6 +237,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/031400077/012200024/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
 			<pubDate>Fri, 25 Jan 2019 17:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>「常にデータ収集」こそがデジタルマーケティングの要諦</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/110200006/011700166/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Mon, 28 Jan 2019 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
