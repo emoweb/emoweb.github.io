@@ -5,16 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    SpaceX、ISSに飛行士運ぶCrew Dragon用ロケットの燃焼試験を完了。2月に試験打上げを予定
-</title>
-			<link>https://japanese.engadget.com/2019/01/25/spacex-iss-crew-dragon-2/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F0551e470-207b-11e9-b75a-cade35d1962e&client=a1acac3e1b3290917d92&signature=7001ec43aff4bb67ba01f18458837ed22ab17b2e" />
-SpaceXが、宇宙船Crew Dragonを宇宙へ運ぶためのロケットの燃焼試験を実施しました。これは打上げの前に一度ロケットエンジンに火入れをして正常に燃焼するかを確認するための試験です。結果は良好だったようで、燃焼試験実施後にSpaceXはDrew Dragonを2月に打ち上げるとツイートしました。
- 
- ]]></description>
-			<pubDate>Fri, 25 Jan 2019 17:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    明日は我が身。iPhoneの「メディカルID」が緊急時の味方になる：iPhone Tips
 </title>
 			<link>https://japanese.engadget.com/2019/01/25/iphone-id-iphone-tips/</link>
@@ -564,6 +554,38 @@ LinkSureは国による報告書を否定し、データを収集する前に常
 
  ]]></description>
 			<pubDate>Sun, 27 Jan 2019 01:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Androidの「インスタントテザリング」利用できる機種が拡大、Chrome OSからの接続時
+</title>
+			<link>https://japanese.engadget.com/2019/01/27/android-chrome-os/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F14aea9d0-2206-11e9-bffd-dd8e621c0962&client=a1acac3e1b3290917d92&signature=7bf822de1e9a87dee457fe3cb756a30311362fbe" />
+日本でもじょじょに機種が増えてきたChromebookですが、インターネット接続が不可欠であるにも関わらず、SIMを挿せる、モバイルネットワークに対応した機種が少ないのが難点です。このため、スマートフォンのテザリングを利用する機会も多いのですが、このテザリングの利用が今以上に便利になるかもしれません。
+
+Chrome OSが、Pixelシリーズ以外のスマートフォンでのインスタントテザリングに対応しました。まだすべての端末（あるいはアカウント）で利用できるわけではないようですが、手元にあったASUS C101PA（Chrome OS 71.0.3578.127）とGalaxy Note 8(ドコモ版SC-01K Android 8.0)の組み合わせでは利用可能でした。
+
+
+
+インスタントテザリングは、2017年2月にAndroid 7.1以降の端末に追加された機能です。通常のWi-Fiテザリングは、提供側がテザリングを有効にし、接続側がそこに接続するという手順を踏む必要があります。提供側、接続側ともに操作が必要なので、頻繁に利用する場合にはやや面倒です。
+
+この操作を簡略化したものがインスタントテザリングで、初期設定さえ済ませてしまえば、接続側からの操作（メニューをタップ）だけで、提供側のテザリングを有効にし接続可能になります。
+
+ 
+関連記事：
+Androidの新機能インスタントテザリングとは？ 実際に試してみた
+
+これまで利用できるのは、Pixel端末と一部のNexus端末に限られていましたが、新たにPixel端末以外もインスタントテザリングが利用可能になったので、Chrome OSの実用性がますます高まりそうです。
+
+なお、Pixel端末以外のインスタントテザリングを利用するには、「chrome://flags/#instant-tethering」 を有効にする必要がありました。
+
+▲フラグ有効化前（左）と有効化後（右）
+
+あくまでもChrome OSから利用可能になっただけで、スマートフォン側にインスタントテザリングの項目は追加されていません。ただ、少なくともChrome OSから使えるようになったので、近々メニューが追加される可能性はありそうです。
+
+ 
+
+ ]]></description>
+			<pubDate>Sun, 27 Jan 2019 03:20:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
