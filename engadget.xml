@@ -5,26 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    iPhone販売不振の「最悪の時期」はまもなく終わる？有名アナリスト予測
-</title>
-			<link>https://japanese.engadget.com/2019/01/27/iphone/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Ff95da780-22aa-11e9-bf3f-830d7a4aca27&client=a1acac3e1b3290917d92&signature=0220058bebbc5f1621421c6b5177136d55fd9317" />
-iPhoneの販売不振がいつまで続くか先行きが見えないなか、「最悪の時期」はまもなく終わるとのアナリスト予測が報じられています。
- ]]></description>
-			<pubDate>Sun, 27 Jan 2019 22:50:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    マイクロソフトとMIT、自動運転AIが知らないドラテクを人の運転から学ぶ学習モデル発表。想定外の状況を補間
-</title>
-			<link>https://japanese.engadget.com/2019/01/27/mit-ai/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F183ca390-22ab-11e9-bffb-ca3d5d3b4d5a&client=a1acac3e1b3290917d92&signature=53ca085c239c3833c9f1bd78065729c36fc06bcd" />
-自動運転車は多数のカメラやセンサー類を備え、人間の何倍も周囲の状況を把握する能力を備えています。しかし、それでも状況によっては検知が間に合わず(もしくはうまくできず)に事故を起こしてしまう場合があります。これは、どれだけ周囲の情報を収集できたとしても、その処理の仕方を学習していなかったり、学んでいても状況が異なったりするためです。
-
-マイクロソフトとマサチューセッツ工科大学(MIT)の技術者は、自動運転AIが持つこのような"死角"をなくすための学習モデルを開発しました。
- ]]></description>
-			<pubDate>Sun, 27 Jan 2019 23:10:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    ファーウェイが新スマホ発表を予告、「nova lite 3（仮）」か
 </title>
 			<link>https://japanese.engadget.com/2019/01/27/nova-lite-3/</link>
@@ -524,6 +504,39 @@ JR東日本グループとShowcase Gigは、店頭で注文と決済が可能な
    
  ]]></description>
 			<pubDate>Mon, 28 Jan 2019 22:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    iPhoneのFaceTimeに「相手が出なくても音が聞こえる」バグ。数日中に修正をリリース予定
+</title>
+			<link>https://japanese.engadget.com/2019/01/28/iphone-facetime/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F410f0210-2371-11e9-9eff-ba039532fcc0&client=a1acac3e1b3290917d92&signature=14659f1fec7c3fde9e2ed470d412d10c79fd2ff4" />
+iOSデバイスやMacが標準で備えるFaceTimeは、対応する機器のユーザーどうしなら手軽に音声/ビデオ通話ができる便利な無料通話アプリです。ところが、このFaceTimeに相手の音声を盗み聴きできてしまうバグが見つかりました。このバグはiOS 12.1以降で動作することが確認されており、macOS 10.14 Mojaveを搭載するMacのFaceTimeに発信した場合も含まれます。
+ ]]></description>
+			<pubDate>Mon, 28 Jan 2019 22:20:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Bluetooth 5.1ではセンチメートル単位で位置検出が可能に。信号の方向も把握可能
+</title>
+			<link>https://japanese.engadget.com/2019/01/28/bluetooth-5-1/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F8eabd3e0-2367-11e9-bfde-7e2418ff16a5&client=a1acac3e1b3290917d92&signature=f66cfbca64f49ea98d5d33645ab1a2b689d4660c" />
+現在策定が進められているBluetoothの次世代規格Bluetooth 5.1では、位置検知機能が飛躍的に向上するようです。
+
+位置検知用途でのBluetoothは、紛失防止タグなど、いわゆるトラッカーとしてよく利用されています。鍵やサイフにBluetoothタグを取り付けておけば、その信号を検出することで手元にあるのかないのかなどを確認可能です。
+
+ただし、その精度はせいぜい数メートルといったところ。部屋の中にあるのはわかっていても、部屋のどこにあるのかまではわかりません。
+
+しかしBluetooth 5.1では、デバイスが発する信号の方向も検出可能になり、位置情報の検出精度がセンチメートルレベルになるとのこと。鍵が部屋のどこにあるのかも正確に把握できます。
+
+美術館などの展示物にBLEビーコンを設置しておけば、スマートフォンを向けている展示物に合わせた情報の提供も可能になるほか、IDカードやスマートフォンのBleutooth信号を捉えることで、屋内でも正確に位置情報を把握できそうです。
+
+ただ、Bluetooth 5.1の仕様は、開発者向けにのみ公開されている状態です。これらの新機能を利用するには、対応デバイスの登場を待つ必要もあり、もうしばらく時間がかかりそうです。
+
+屋内でのナビゲーションなど応用範囲も広そうなだけに、早期の実用化を期待したいところです。
+
+ 
+ 
+ ]]></description>
+			<pubDate>Mon, 28 Jan 2019 22:40:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
