@@ -5,67 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Unity、AIをテストするためのゲーム「Obstacle Tower」発表
-</title>
-			<link>https://japanese.engadget.com/2019/01/29/unity-ai-obstacle-tower/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F844fa500-2387-11e9-bfbf-df8cc78bcece&client=a1acac3e1b3290917d92&signature=2e8cc6ca9c1c0e144019bb66f6484fdda8e8e57c" />
-ゲームエンジンUnityの開発で知られるUnity Technologiesが、フロア自動生成型のゲーム「Obstacle Tower」を発表しました。ただし、このゲームは人間向けではありません。AIプレイヤーがその性能をテストするために使われる、AI向けゲームです。
-
-ゲームの目的は、次の階層に進むための階段を見つけ、100階層をクリアすること。各階層は複数の部屋で構成されており、それぞれパズル的な要素や、障害物を避けたり足場をジャンプしたりといったプラットフォーム・ゲームの要素が含まれているとのことです。階層が上がるほど、難易度も上がる作りになっています。
-
-また、各フロアは自動生成されるため、AIは決まったパターンを取ればいいわけではなく、各場面に応じた柔軟な対応を求められます。
-
-このようなゲームをクリアするAIとしては、GoogleのDQN（Deep Q-Network）が有名ですが、ゲームメーカーのEAも自己学習型AIエージェントの開発を行っています。
-
- 
-関連記事：
-Google Deepmind、人工知能『DQN』を開発。レトロゲームを自力で学習、人間に勝利
-EA、『バトルフィールド１』での深層学習型AIの研究成果を発表。将来的には自己進化していくインテリジェントNPCが登場？
-
-Obstacle Towerは、こういったAIの能力をテストすることを目的としたゲームで、ベンチマークとしても使えるとのことです。
-
-なお、Obstacle Towerを使ったコンテスト、「Obstacle Tower Challenge」も開催されます。
-
-第1ラウンドは2月11日～3月31日の期間で25階層まで。第2ラウンドは4月15日から5月24日までで、100階層までプレイ可能。1位には現金1万ドル（約110万円）と、AI・機械学習に注力したカンファレンスに参加するための旅費、Google Cloud Platformで利用できるクレジットが進呈されます。なお、賞金総額は10万ドル（約1100万円）です。
-
-ゆくゆくはゲーム中にプレイヤーと見分けがつかないNPCも登場するようになるのでしょうか。うまくいけば、ネットプレイはしたいけど一緒に遊ぶ友人がいない。もしくは他の人とはパーティーを組みたくないといった人が、人間と遜色なく操作するAIキャラクターとパーティーを組めるようになるのかもしれません。
-
- 
- ]]></description>
-			<pubDate>Tue, 29 Jan 2019 02:30:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    FaceTimeの盗聴バグ、早くもアップルが対応に動く。グループFaceTime機能を一時停止中
-</title>
-			<link>https://japanese.engadget.com/2019/01/29/facetime-facetime/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F8cecd740-2392-11e9-ae9f-32a67dcd1283&client=a1acac3e1b3290917d92&signature=7b4da04d3a6009291862304b9a59f7c2124d56af" />
-iOSデバイスやmacOSが搭載するFaceTimeのグループ通話機能に、相手側が出る前に音声が聞こえるバグが見つかったのを本日お伝えしたばかりですが、すでにアップルはグループFaceTime機能を無効にする措置を取った模様です。
-
-アップルのサービス運用状態がわかるSystem Statusページでは、FaceTimeの部分が「問題あり」になっており、Group FaceTimeが使用できない状態であることを知らせています。問題が見つかった当初、アップルは今週中に出るアップデートで対応するとしていました。
- ]]></description>
-			<pubDate>Tue, 29 Jan 2019 02:45:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    アップル、紛らわしい表示で「こっそり購読」させる詐欺的アプリを禁止。App Storeガイドライン改訂
-</title>
-			<link>https://japanese.engadget.com/2019/01/29/app-store/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F70329420-238b-11e9-bbdf-c445c4e0938f&client=a1acac3e1b3290917d92&signature=0c96f64d8045019c25c3aa038b8bc004186addd7" />
-アップルが、デベロッパー向けのガイドラインを改訂し、アプリ内購読(月額または年額支払/サブスクリプション)に関していくつかの基本的規則を明確に示しました。例えば、購読価格がいくらになるのかを明確に示し、無料のお試し期間終了後にいくら支払う必要があるのかをわかり易く説明しなければならないと言ったことなどが示されています。
- ]]></description>
-			<pubDate>Tue, 29 Jan 2019 03:00:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    「LINE Pay」が使えるVisaクレカ提供へ、3％の高還元
-</title>
-			<link>https://japanese.engadget.com/2019/01/29/line-pay-visa-3/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F6a0e1950-239c-11e9-bf4b-8415c938f3d2&client=a1acac3e1b3290917d92&signature=5e5eaeb04eb878d937db3470cb057f43f6165a72" />
-LINEは、クレジットカードブランド「Visa」との提携を発表しました。LINE Payが使える新たなクレジットカードを今後発行します。
-
-LINEの決済サービス「LINE Pay」では、アプリ上で使えるバーコード決済や、JCBブランドのプリペイドカード決済、Androidスマートフォンで電子マネー「QUICPay」を利用した決済といった複数の支払い手段に対応しています。
- ]]></description>
-			<pubDate>Tue, 29 Jan 2019 03:15:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    サムスンがとうとうノッチスマホ「Galaxy M10/M20」投入。インド市場でシャオミ対抗狙う
 </title>
 			<link>https://japanese.engadget.com/2019/01/29/galaxy-m10-m20/</link>
@@ -601,6 +540,111 @@ nova lite 3では、カメラのほかに、以前の機種でも搭載してい
 高価格な機種が増え続ける中で、ファーウェイの安価なスマホも再び注目です。
  ]]></description>
 			<pubDate>Tue, 29 Jan 2019 21:40:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    iPhoneとAndroid版『フォートナイト』がBluetoothゲームパッドに対応。コンソール機に負けない操作が可能に
+</title>
+			<link>https://japanese.engadget.com/2019/01/29/iphone-android-bluetooth/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F2ae32140-242c-11e9-a7ae-4165c676cd9d&client=a1acac3e1b3290917d92&signature=577c503dce3ff00ffbb50363fc5710106522bab3" />
+人気バトルロイヤルゲーム『フォートナイト(Fortnite)』のiOS版およびAndroid版が、v7.30パッチの公開によって、Bluetoothゲームコントローラーでプレイ可能になりました。これでスマートフォンユーザーでもコンソール型ゲーム機と同等の操作性が手に入ります。
+ ]]></description>
+			<pubDate>Tue, 29 Jan 2019 22:15:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    手のひらサイズのミニスマホ「Palm」をアメリカで買ってみた
+</title>
+			<link>https://japanese.engadget.com/2019/01/29/palm/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fc7684960-23a4-11e9-a597-851808d5a026&client=a1acac3e1b3290917d92&signature=a74d214ef320a67e83ff22291b1825d0ec51a51b" />
+
+CES 2019取材時に現地で触ったPalm Phone。アメリカのキャリア、ベライゾンから「メインのスマートフォンの着信やメッセージを受けるコンパニオン端末」として販売されています。またあらかじめSIMカードが内蔵されているもののSIMの交換はできないとオフィシャルには言われています。とはいえこんなに小さいスマートフォン、WiFiで動かすのも面白いだろうということで買ってみました
+
+
+Palm Phoneの価格は349.99ドル（約3万8300円）。これに州税が購入する州によってかかります。購入はラスベガスの家電量販店のBest Buy。店員さんにPalm Phoneが欲しいと伝えると「これはベライゾンのスマートフォンがある人がセットで使うものですよ」と言われたものの、「日本から来たので動かなくてもいいからとにかくほしい」と伝えるとそのまま売ってくれました。
+
+
+
+パッケージは正方形でおしゃれな感じ。昔のPalmを知っている人にとってはちょっとイメージが違うかな、と思うかもしれません。でも今のPalmはバリバリ使うビジネスマシンではなく、スマートフォンのペアとしてつかうコンパニオン。アクセサリ感覚で使えるライト端末だけに、ターゲットユーザーも大きく変わっているのです。
+
+
+同梱品はシンプル。SIMピンがありませんが、公式にはSIMの交換は不可能なので付属していないのでしょう。またベライゾンが販売するので同社の利用マニュアルも入っています。
+
+
+パッケージから取り出したPalm Phoneです。96.5 x 50.5 x 10 mmの本体は小さく、まさしくPalm＝手のひらサイズ。背面には1200万画素のカメラとフラッシュが並びます。どことなくiPhoneを小さくしたイメージですが、カメラの位置は逆になっています。
+
+
+本体側面。SIMは交換不可能ながらもSIMスロットを搭載しています。ただしここにSIMピンを差し込んでもSIMトレイは出てきません。やはりSIMは交換できないのでしょうか？
+
+
+外部コネクタはUSB Type-C。これは最新端末であることを考えると当然でしょう。
+
+
+電源を入れると登録画面となりますが、ロケールに日本は含まれていないので英語で進めていきます。なおすでにベライゾンのSIMが入っているのでLTEの電波を拾っています。
+
+途中でデバイスアクティベーションの画面がでます。ここで自分が持っているベライゾンのスマートフォンの電話番号と紐づけするようです。しかし今回は単体で買ったので無視して進んでいきます。ベライゾンの手持ちの番号と紐づけしない場合は、ここから先は内蔵SIMによるLTE接続は使えなくなります。でもWiFi Onlyの表示があることからわかるように、WiFiで接続してグーグルのアカウント登録などを進められます。
+
+登録の最後のほうに、ベライゾンのメッセンジャーとの通知設定画面も出ますが、ここもスキップ。ベライゾン関連の設定はスキップしてしまって構いません。
+無事すべての登録が終われば待ち受け画面となります。このままWiFi運用で使うことももちろん可能です。でもそれでは面白くありません。なのでSIMを抜いて他キャリアのSIMに入れ替えたいものの、一般的なSIMピンを使ってもトレイは抜けません。
+
+じつはPalm PhoneのSIMトレイは単純に押し込まれているだけなので、トレイの穴に何かを入れて引っ張って取り出す必要があります。そこで使えるのがホチキスの針。ホチキスの針先をちょっと曲げて、SIMトレイの穴にひっかけて引っ張ると無事トレイが抜けました。なおSIMピンが無いときはホチキスの針を使うと大抵抜くことができます。緊急時にSIMピンがないときも、ホチキスの針（地面に落ちていることもあるでしょう）を探せば何とかなるのです。
+
+
+ためしにT-Mobile USAのSIMに入れ替えてみました。なおアメリカのスマートフォンは現在SIMロック無しで販売されているものが多く、キャリアでスマートフォンを買っても「毎月30ドルの24回払い」のような分割払いが主流。このPalm Phoneも約350ドルで買っていますが、この値段でSIMロックがかかっているとは考えにくいところ。
+
+
+SIMを入れ替えると、あっさりとネットにつながってしまいました。やはりSIMロックはかかっていないようです。
+
+APN設定も自動で出てきました。ということでベライゾン縛りなのはベライゾンのSIMを使うときだけのようです。たまに通知バーに「登録をしてください」のようなベライゾンからの案内が表示されますが無視してそのまま使えます。
+
+
+好きなSIMに入れ替え、自由を手に入れたPalm Phone。小型カメラとして使うなど様々な使い方ができそうです。ただしバッテリーが800mAhしかないため使っているとみるみると減っていってしまいます。モバイルバッテリーのほうがPalm Phoneより大きいので、モバイルバッテリーの裏側に3Dプリンターでホルダーを作って「Palm Phone専用外部バッテリー」なんてものを作ってみたくなります。
+
+
+Palm Phoneはアメリカ人にちょっとサイズが小さすぎるかもしれません。ラスベガスのBest Buyでは売っていましたが、ニューヨークには在庫なし。ベライゾン専用機として売られているため、購入者も限られているのでしょう。アメリカに引き続き香港でも発売されるそうなので、小型端末好きな人は香港版が気になる存在になりそうです。
+ ]]></description>
+			<pubDate>Tue, 29 Jan 2019 22:20:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    ファーウェイ、格安スマホのAndroid 9更新ロードマップを公開
+</title>
+			<link>https://japanese.engadget.com/2019/01/29/android-9/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F7e7d3640-23a2-11e9-ae6b-7894b691b6ba&client=a1acac3e1b3290917d92&signature=dbd94ee9ee8b7ef325d552711defd04f4362be23" />
+ファーウェイ・ジャパンがAndroid 9（EMUI 9）の更新ロードマップを公開しました。1月28日に配信を開始した「HUAWEI P20」「HUAWEI Mate 10 Pro」に続き、下記8機種への配信を予定します。
+
+＜2月＞
+HUAWEI nova 3
+
+＜3月＞
+HUAWEI Mate20 lite
+
+＜4月＞
+HUAWEI P10 Plus
+HUAWEI P10
+HUAWEI Mate 9
+HUAWEI honor 9
+
+＜5月＞
+HUAWEI P20 lite
+
+＜6月＞
+HUAWEI nova lite 2
+
+Android 9にバージョンアップすることで、独自UIのEMUIもバージョン9にアップグレードされます。なお、ロードマップが公開されたのはSIMフリー（オープンマーケット）向けモデルのみ。NTTドコモ専売の「HUAWEI P20 Pro」については非公開となっています。
+
+
+
+ ]]></description>
+			<pubDate>Tue, 29 Jan 2019 22:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    ティム･クック、iPhone買換え需要の減速理由を説明。米ドル高騰、補助金の減少、バッテリー交換値下げが響く
+</title>
+			<link>https://japanese.engadget.com/2019/01/29/iphone-3/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fdfcb4ca0-2435-11e9-adfe-486c651d22e7&client=a1acac3e1b3290917d92&signature=c177fa3a87a468fa7eca28cebafea3d5f006989f" />
+SIPA USA
+
+アップルのティム･クックCEOが第1四半期決算説明会において、iPhone買い替え需要が減っている理由を詳しく説明したことが報じられています。
+ ]]></description>
+			<pubDate>Tue, 29 Jan 2019 22:40:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
