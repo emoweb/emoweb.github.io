@@ -5,21 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    カニエ・ウェスト『The Life Of Pablo』の「Tidal独占リリース」発言めぐるファンからの訴訟に和解
-</title>
-			<link>https://japanese.engadget.com/2019/01/31/the-life-of-pablo-tidal/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F45a99aa0-25a7-11e9-b7da-283f3e60d74e&client=a1acac3e1b3290917d92&signature=b9c1c5dfc792aecfd63cd86b2fc4e111254340d5" />
-2016年2月14日にリリースしたアルバム「The Life of Pablo」について、当初カニエ・ウェストは自身も深く関わる音楽ストリーミングサービスTidalでの独占リリースだと説明し、他のサービスやCDなど物理媒体での販売はしないと説明しました。ところが、実際にはわずか数週間したのちにApple MusicやSpotifyで配信を開始し、われわれを苦笑させたのはいまだ記憶にあたらしいところです。
-
-様々なトンデモ発言で周囲を困惑に陥れるのを得意とするカニエのこと、周囲やファンも対して驚くこともなく、むしろ「ようやく新譜を楽しめる」程度に喜んでいたわけですが、なかには発言を真に受けてTidalに加入したあげく、そのせいで毎月9.99ドルを払わざるを得なくなったと憤慨する人もいたようです。
-
-熱心なカニエファン(?)のJustin Baker-Rhett氏もその中のひとりで、その後なんとカニエ・ウェスト本人を相手取って損害賠償を求める訴訟を起こしていました。
-
- 
- ]]></description>
-			<pubDate>Thu, 31 Jan 2019 17:50:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    「Wi-Fiのパスワード教えて」 Apple製端末同士なら秒速で共有できる方法使ってる？：iPhone Tips
 </title>
 			<link>https://japanese.engadget.com/2019/01/31/wi-fi-apple-iphone-tips/</link>
@@ -468,6 +453,84 @@ YouTubeジャニーズチャンネルの開設
 PRTIMESトップへ
  ]]></description>
 			<pubDate>Fri, 01 Feb 2019 08:17:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    スマート家電リモコン「RS-WFIREX4」Alexaでエアコンの操作が可能に
+</title>
+			<link>https://japanese.engadget.com/2019/02/01/rs-wfirex4-alexa/</link>
+			<description><![CDATA[     <img src="https://prtimes.jp/i/23921/79/resize/d23921-79-343726-0.png" />
+ラトックシステム株式会社（本社：大阪市浪速区、代表取締役：岡村周善、以下ラトックシステム）は、当社製「スマート家電コントローラ用スマートホーム」のスキルを更新、エアコンのコントロールに対応しました。
+
+スマート家電リモコン RS-WFIREX4は、スマートスピーカーと組み合わせて音声で家電を操作できるデバイスです。Amazon Alexa搭載デバイス用のスキルとして、スマートホームスキルでは家電の電源オンオフとテレビのチャンネル・音量変更、照明の明るさ調整に対応しています。
+
+この度、Alexaでエアコンの温度設定や設定変更ができるサーモスタット機能がサポートされたことを受けて、当社提供スキル「スマート家電コントローラ用スマートホーム」も、いち早くエアコンのモード指定および設定温度の変更に対応しました。これにより、スキル名を呼び出すことなくエアコンの設定温度を指定でき、Alexaアプリで部屋を割り当てて音声操作ができるなど、スマートホームデバイスとしての機能をいかした運用がおこなえます。本機能は、新発売スマート家電リモコンRS-WFIREX4ほか、スマート家電コントローラRS-WFIREX3、REX-WFIREX2に適用できます。
+
+【追加となった発話例】
+対象操作：エアコンの電源、モード指定（冷房、暖房、自動）、設定温度指定、モードと設定温度の確認
+
+「アレクサ、暖房をつけて」
+「アレクサ、エアコンを24 度にして」
+「アレクサ、リビングのエアコンをつけて」
+「アレクサ、エアコンの温度を3度下げて」
+「アレクサ、エアコンの温度設定は何」
+
+※Echoの会話継続モードのオンで、例えば「アレクサ、暖房をつけて」のあと続けて「24度にして」と発話できます。
+
+▼家電リモコンアプリで各モードの初期値を指定可能（除湿は非対応）
+
+▼Alexaアプリのスマートホームでは、サーモスタットとして認識
+
+▼定型アクションで、設定温度の指定が可能に
+
+
+
+【ご注意】旧バージョンの家電リモコンアプリで、スマートホームにエアコンを登録済みの場合
+スキル用のデータベース更新が必要です。家電リモコンアプリの[Amazon Alexaの設定]からスマートホーム登録機器一覧でエアコンを開き、[OK]をタップ後[登録]をおこないます。Alexaアプリではエアコンをデバイスからいったん削除し、[デバイスの追加]で検出しなおします。
+
+
+
+また、スマート家電コントローラは、Amazon Echo Showでも動作確認済みです。スマートホーム機能はもちろん、カスタムスキルを使って家電操作する場合、スクリーンへセンサー値や環境の表示などもおこなえます。
+
+今後も新機能への対応をすすめ、スマート家電リモコンをより使いやすいものへと発展させてまいります。
+
+【対象製品】
+RS-WFIREX4 製品情報
+https://iot.ratocsystems.com/products/rs-wfirex4/
+RS-WFIREX3 製品情報（在庫限り）
+https://iot.ratocsystems.com/products/rs-wfirex3/
+REX-WFIREX2 製品情報（出荷完了品）
+https://www.ratocsystems.com/products/subpage/wfirex2.html
+
+【関連URL】
+Webマニュアル（Amazon Alexaとの連携）
+https://manual.ratocsystems.com/wfirex/#page3
+スマート家電コントローラ（SB C&amp;S）
+https://www.softbankselection.jp/special/smartremotecontroller/
+
+
+
+法人様からのお問い合わせ
+ラトックシステム 東京支店 コーポレート・ソリューショングループ
+Mail： https://web1.ratocsystems.com/mail/solution.html
+TEL：03-5847-7600
+
+報道関係の方からのお問い合わせ
+製品レビューや撮影などにお使いいただくための貸出機を若干数ご用意しています。デモ環境をご用意した取材なども可能ですので、ご希望の方は広報窓口までお問い合わせください。
+ラトックシステム 広報（担当：大塚）
+Mail： https://web1.ratocsystems.com/mail/press.html
+TEL：06-6633-6744
+
+一般の方からのお問い合わせ
+ラトックシステムサポートセンター
+Mail： https://iot.ratocsystems.com/ （ご購入前、メールアイコンをタップ）
+Mail： https://iot.ratocsystems.com/support/#contact （ご購入後）
+TEL： 【大阪】06-6633-0190 【東京】03-5847-7604
+
+
+企業プレスリリース詳細へ
+PRTIMESトップへ
+ ]]></description>
+			<pubDate>Fri, 01 Feb 2019 13:17:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
