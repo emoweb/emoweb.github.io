@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】Sonnet、PCI Express接続のUSB増設アダプタ</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1167475.html</link>
-			<description><![CDATA[<div><div><p>　米Sonnet Technologiesは、PCI Express接続のUSB 3.1増設アダプタ「Allegro Pro USB 3.1 PCIe card」と「Allegro USB-C 4-Port PCIe card」を発表した。価格はいずれも149ドル。</p><p>　それぞれ4基のUSB 3.1 Type-AとType-Cコネクタを装備。2基のUSBコントローラにより高速転送を謳う。各ポートからは7.5Wの電力供給が可能。</p></div></div>]]></description>
-			<pubDate>Thu, 31 Jan 2019 14:03:42 +0900</pubDate>
-		</item>
-		<item>
 			<title>Colorful、1TBのUSB Type-CポータブルSSD </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1167480.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1167/480/01_o.jpg"></div></div><span class="caption">SSD P100 1TB</span></div></div></div></div><p>　<a href="https://www.links.co.jp/" class="n" target="_blank">株式会社リンクスインターナショナル</a>は、USB 3.1 Type-C接続のColorful製ポータブルSSD「SSD P100 1TB」を2月9日に発売する。価格はオープンプライス。</p><p>　USBバスパワーで駆動可能な容量1TBのSSDで、UASP(USB Attached SCSI Protocol)対応機器との接続時には、シーケンシャルリード速度550MB/s、同ライト500MB/sを実現。実装されているフラッシュメモリは3D TLC NAND方式となっている。</p><p>　本体サイズが64×77×11mm(幅×奥行き×高さ)と、手のひらサイズのSSDで、アルミニウム製の筐体を採用。振動や落下からデータを守る耐衝撃構造となっている。重量も約55gと軽量。</p><p>　付属品としてUSB Type-Cケーブルと、Type-C - Type-Aケーブルを同梱する。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1167724.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1167/724/01_o.jpg"></div></div><span class="caption">BTL-RDC14</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/" class="n" target="_blank">サンワサプライ株式会社</a>は、AC100V出力に対応したモバイルバッテリ「BTL-RDC14」を発売した。価格は19,440円。</p><p>　最大100V/65Wまで出力できるACコンセントを搭載したモバイルバッテリ。バッテリ容量は11,400mAhで、一般的なノートPCの場合は約2時間の動作延長が可能。5V/2.4Aまでの出力に対応するUSBポートも1基備え、スマートフォンなどの充電もできる。</p><p>　バッテリ本体の充電時間は約3～4時間で、専用ACアダプタを通じて行なう。PSE認証を取得しており、バッテリ残量を4段階で確認できるLEDランプも備える。</p><p>　本体サイズは約96×148×34mm(幅×奥行き×高さ)、重量は約600g。</p></div></div>]]></description>
 			<pubDate>Fri, 01 Feb 2019 14:25:43 +0900</pubDate>
+		</item>
+		<item>
+			<title>AMD、2018年はRyzen/EPYCとDC向けGPUで黒字転換 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1167737.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1167/737/01.png"></div></div></div></div></div></div><p>　<a href="http://amd.com/" class="n" target="_blank">米AMD</a>は1月29日(米国時間)、2018年度第4四半期および2018年通期決算報告を行なった。</p><p>　米国会計基準(GAAP)に基づく第3四半期売上高は、前年同期比6%増の14億2,000万ドルで、営業利益は3,000万ドル増の2,800万ドル。純利益は5,700万ドル増の3,800万ドルを記録した。</p><p>　1株あたりの利益は、前年同期から0.06ドル増の0.04ドル。売上総利益率は38%で、前年同期比4ポイント増となった。</p><p>　通年では、売上高が前年比23%増の64億8,000万ドル、営業利益が3億2,400万ドル増の4億5,100万ドル。純利益は3億7,000万ドル増で黒字転換し、3億3,700万ドルを記録した。</p><p>　1株あたりの利益は、前年同期から0.35ドル増の0.32ドル。売上総利益率は38%で、前年比4ポイント増となった。</p><p>　同社CEOのLisa Su氏は、2018年では、2年連続で大幅な収益の成長、市場シェアと売上総利益率の拡大、高性能製品に基づく収益性の改善を達成したと述べ、とくにEPYCプロセッサの出荷台数が順次2倍以上に増加し、第4四半期でデータセンター向けGPUで記録的な売上を達成したことをアピールしている。</p><p>　第4四半期のコンピューティング部門およびグラフィックス部門は、前年同期比で9%増の売上高9億8,600万ドルを記録。好調要因はおもにRyzenプロセッサによるもので、クライアント向けプロセッサの平均販売価格(ASP)は前年同期比で上昇し、Ryzenの販売台数の増加によって順調に推移した。</p><p>　ファンドリとの契約状況については、GLOBALFOUNDRIESとの間で、ウェハ供給契約の第7回改正を発表し、2019～2021年の期間で、12nm以上での購入契約および価格設定を確立し、12nm以降のノードでGFは引き続き長期的な戦略的パートナーであると表明。この改定により、7nm未満のノードのウェハについは、ファウンドリによらず一度限りの支払いやロイヤリティなしで購入可能となった。</p><p>　2019年第1四半期の売上高については、市場の過剰在庫やブロックチェーン関連のGPU収益がなくなることなどを理由に、前年同期比24%減の約12億5,000万ドル(±5,000万ドル)を見込んでいる。</p></div></div>]]></description>
+			<pubDate>Fri, 01 Feb 2019 15:23:07 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
