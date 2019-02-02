@@ -5,17 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Googleも締め出し。iPhoneのユーザー情報収集発覚でアップルが企業証明書無効化
-</title>
-			<link>https://japanese.engadget.com/2019/01/31/google-iphone/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-02%2Fc30a0d10-25cd-11e9-bff2-105f06219bdf&client=a1acac3e1b3290917d92&signature=f3cc2c344e8d9498b1b204dae04b62c7207e062e" />
-今週はじめ、FacebookがiPhoneの使用履歴など個人情報を吸い上げるアプリを(ユーザーの承諾を得て)配布していたことがわかり、アップルはFacebookの企業証明書を無効化する措置を講じました。ここで問題とされたのは、このようなアプリはApp Storeの審査基準を満たさないため、あえて社内アプリの体で制作したアプリをApp Storeを回避してユーザーに配布していたことでした。
-
-アップルがFacebookの企業証明書を無効化したことで、Facebookでは"本当の社内向けアプリ"もブロックされることとなり、MessengerやInstagramその他アプリの開発版も動作が不可能になったと報じられていました。
- ]]></description>
-			<pubDate>Thu, 31 Jan 2019 23:30:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    アップルの自動運転システム、機密情報を盗もうとした元従業員が逮捕。6ヶ月ぶりの2人目
 </title>
 			<link>https://japanese.engadget.com/2019/02/01/6-2/</link>
@@ -554,6 +543,18 @@ LG、折りたたみスマートフォンをCES 2019にて公開との噂
 
  ]]></description>
 			<pubDate>Fri, 01 Feb 2019 21:35:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    グループFaceTimeの盗聴バグ、来週中の修正を約束。報告した親子に感謝の意を表明
+</title>
+			<link>https://japanese.engadget.com/2019/02/01/facetime/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-02%2Fbac5f210-2698-11e9-b9a3-89b0c59d51f4&client=a1acac3e1b3290917d92&signature=c81ea61f1a0d9b102fa6f7b36f78bce46eda8a30" />Reuters
+
+iOSデバイスやmacOSが搭載するFaceTimeのグループ通話機能の盗聴バグにつき、アップルが正式な謝罪および来週中（米現地時間で2月4日～9日）のソフトウェアアップデート配信の予定を公表しました。
+
+この不具合は、誰かとビデオ通話を開始しようとした際に、グループ通話に切り替え、自分の電話番号をグループに加えると、相手が通話に出る前に相手のデバイスの音声（と映像）が聞こえてしまうというもの。相手の同意なく音声が伝わるということで「盗聴バグ」と呼ばれています。
+ ]]></description>
+			<pubDate>Fri, 01 Feb 2019 23:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
