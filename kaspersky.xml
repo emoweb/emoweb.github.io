@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>【Kaspersky Security Analyst Summit 2019】4月にシンガポールで開催</title>
-			<link>https://blog.kaspersky.co.jp/introducing-sas2019-jp-great/22221/</link>
-			<description><![CDATA[サイバーセキュリティに関わる人々が世界各地から集結する年1回のイベントについて、GReATのエキスパートに聞きました。]]></description>
-			<pubDate>Tue, 15 Jan 2019 01:00:54 +0000</pubDate>
-		</item>
-		<item>
 			<title>2019年、CPUハードウェア脆弱性のゆくえ</title>
 			<link>https://blog.kaspersky.co.jp/35c3-spectre-meltdown-2019/22205/</link>
 			<description><![CDATA[SpectreとMeltdownの脆弱性に始まり、SpectreとMeltdownの脆弱性に終わった2018年。さて、2019年はどうなるでしょう？]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/kaspersky-rakugo-de-security/22300/</link>
 			<description><![CDATA[サイバーセキュリティを題材にした創作落語。]]></description>
 			<pubDate>Thu, 31 Jan 2019 04:00:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>ビットコインを盗むトロイの木馬「Razy」</title>
+			<link>https://blog.kaspersky.co.jp/razy-trojan-cryptocurrency-stealer/22322/</link>
+			<description><![CDATA[トロイの木馬「Razy」は、悪意ある拡張機能をChromeやFirefoxにひそかにインストールし、フィッシングサイトへのリンクを提示してビットコインを盗みます。]]></description>
+			<pubDate>Mon, 04 Feb 2019 01:00:25 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
