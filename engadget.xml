@@ -5,34 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ソニー銀行アプリは2月25日配信。 iPhoneのFace IDや指紋ログインに対応
-</title>
-			<link>https://japanese.engadget.com/2019/02/07/2-25-iphone-face-id/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-02%2F3d36b9a0-2ab3-11e9-b97f-060c395d252a&client=a1acac3e1b3290917d92&signature=cd76bf071a236821f60164d3a597e7bd8a382add" />
-
-ソニー銀行は2019年2月25日から、iPhone / Androidスマートフォン向けアプリ「ソニー銀行アプリ」を提供します。
-
-ソニー銀行アプリは、スマートフォンから口座残高の照会や振り込み、外貨普通預金の取引などができるアプリです。アプリ内では、過去1年間の残高推移を確認できる他、各商品にログインした後のスマートフォン向けWebサイトへ1タップでアクセスできる「ショートカット機能」や、キャンペーン情報、マーケットニュース、経済指標などを通知する「プッシュ通知機能」を搭載します。
-
-ログイン方法はパターン認証やPINコードの他、iPhoneの顔認証機能「Face ID」や指紋認証などの生体認証にも対応し、利用者はいずれかを選択して使うことができます。
-
-また、ワンタイムパスワードを表示できる機能も搭載し、ソニー銀行アプリを利用する人専用の認証方式「スマホ認証方式」も利用できます。通信の乗っ取りや取引の改ざんなどを防ぐ「トランザクション認証」も実装しています。具体的には、振込の取引内容から自動生成される「振込先専用のワンタイムパスワード」を用います。ソニー銀行では「安全かつ便利な取引手段を実現できる」とアピールします。
- ]]></description>
-			<pubDate>Thu, 07 Feb 2019 05:30:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    米下院委員会、FaceTime盗聴問題でアップルに説明を求める。報告の取扱いや顧客保護など
-</title>
-			<link>https://japanese.engadget.com/2019/02/07/facetime/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-02%2F7b832100-2ab1-11e9-a7eb-cf751fe83d53&client=a1acac3e1b3290917d92&signature=4d116c023d456bfda239c4c838e0ee02e2bb2d39" />
-世間を騒がせたグループFaceTime盗聴バグの問題について、米国下院エネルギーおよび商業対策委員会がアップルに質問状を送りました。
-
-議員らはバグが最初に報告されたときの対応がなぜあれほどに遅れたのか、ティム・クックCEOに対し2月19日までに回答するよう求めています。
- 
- ]]></description>
-			<pubDate>Thu, 07 Feb 2019 06:02:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    ヘッドが90°回転するモバイルプロジェクター「X-03」5万4800円で登場
 </title>
 			<link>https://japanese.engadget.com/2019/02/07/90-x-03-5-4800/</link>
@@ -840,6 +812,46 @@ URL　https://www.zojirushi.co.jp/syohin/stan/shop/index.html
 
  ]]></description>
 			<pubDate>Fri, 08 Feb 2019 03:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Google、低スペック端末でも利用できる暗号化規格「Adiantum」発表
+</title>
+			<link>https://japanese.engadget.com/2019/02/08/google-adiantum/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-02%2Ff5a4b350-2b5f-11e9-bf08-82319aefb3dc&client=a1acac3e1b3290917d92&signature=1bf0d0d9a78d1c8b9abef77d2402a9b2d8cb26f0" />
+Googleが、低スペックなデバイスでも利用できる暗号化規格「Adiantum」を発表しました。
+
+AndroidスマートフォンはAndroid 6.0 Marshmallow以降、標準的な暗号化規格であるAdvanced Encryption Standard（AES）を用いたストレージ暗号化の実装が必須要件となっています。ただし、低スペック端末では暗号化によりパフォーマンスが低下し、使用に耐えないこともあります。このため、暗号化によるパフォーマンスが50MiB/sを下回る場合には実装を免除されていました。
+
+しかし、この状況はセキュリティ的には望ましいものではありません。少なくとも、Googleはそう考えており、Android Goなどの低スペック端末や、スマートウォッチ、インターネットに接続された医療機器などでも利用できるAdiantumを発表しました。
+
+技術的な詳細はGoogleセキュリティブログで公開、および論文が発表されているので、興味があれば参照してください。
+
+低スペック端末で問題となるパフォーマンスについては、AdiantumをAESサポート命令を含まないローエンドプロセッサで利用する場合、AESと比べ暗号化と複合化をそれぞれ約5倍の速さで処理できるとのことです。
+
+
+Adiantumによるストレージ暗号化は、すでにAndroid 9のの互換性定義書（Compatibility Definition Document、CDD）でも定義されており、今後リリースされるAndroid 9端末では、Android Goのようなローエンドモデルだとしてもストレージの暗号化がサポートされることになります。
+
+Googleは、デバイス性能はセキュリティを犠牲にする言い訳にはならないとしており、今後、Adiantumを多くの機器で普及させていく考えのようです。
+
+ 
+ ]]></description>
+			<pubDate>Fri, 08 Feb 2019 03:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    スマートスピーカー「Sonos」はApple MusicやSpotifyなど100種のサブスクを横断して鳴らせるから音楽が生活に溶け込む
+</title>
+			<link>https://japanese.engadget.com/2019/02/08/sonos-apple-music-spotify-100/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=1980%2C1320%2C0%2C0&quality=85&format=jpg&resize=1200%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-02%2Fafc86910-2aa8-11e9-baad-d7afebd5d8b4&client=a1acac3e1b3290917d92&signature=d20e84edf987b74bbd88e9b04673c61b5af63683" />
+皆さんは、2018年10月に日本へ本格上陸した「Sonos（ソノス）」をご存じでしょうか？
+
+EngadgetでもSonosに関するニュースを何度か扱っていますが、まだ多くの方が知らない企業だと思います。Sonosは、スマートスピーカーや、ホームサラウンドシステムを開発・販売している企業。小型スマートスピーカー、テレビにも接続できるバータイプのスピーカー、ホームシアター用の大型スピーカーなどを販売しています。
+
+特徴は、どのスピーカーもWi-Fi接続のワイヤレスモデルで、Amazonの音声アシスタント「Alexa」を搭載していること。加えて、Spotifyや、Apple Music、Google Play Music、Amazon Music、TuneInなど、100種類以上のストリーミングサービスに対応し、アプリ経由で再生ができることです。
+
+ 
+
+ ]]></description>
+			<pubDate>Fri, 08 Feb 2019 04:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
