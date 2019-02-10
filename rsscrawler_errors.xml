@@ -5,7 +5,7 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2019-02-10 21:09:13 +0900</title>
+			<title>2019-02-10 22:09:50 +0900</title>
 			<link> </link>
 			<description><![CDATA[<strong>itpro</strong><br/><p>#&lt;RSS::NotWellFormedError: This is not well formed XML
 Missing end tag for &#39;meta&#39; (got &quot;head&quot;)
@@ -23,33 +23,8 @@ in
 /data/src/rss_crawler/src/lib/rsspipe.rb:166:in `pipe_procedure&#39;
 /data/src/rss_crawler/src/pipes/itpro.rb:38:in `block in &lt;top (required)&gt;&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
-/data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p><br/><br/><strong>wired</strong><br/><p>#&lt;SocketError: Failed to open TCP connection to wired.jp:443 (getaddrinfo: Name or service not known)&gt;
-in
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:882:in `rescue in block in connect&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:879:in `block in connect&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/timeout.rb:91:in `block in timeout&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/timeout.rb:101:in `timeout&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:878:in `connect&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:863:in `do_start&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:852:in `start&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/open-uri.rb:319:in `open_http&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/open-uri.rb:737:in `buffer_open&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/open-uri.rb:212:in `block in open_loop&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/open-uri.rb:210:in `catch&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/open-uri.rb:210:in `open_loop&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/open-uri.rb:151:in `open_uri&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/open-uri.rb:717:in `open&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/open-uri.rb:725:in `read&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:104:in `normalize_rss&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:90:in `initialize&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:77:in `new&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/rss/parser.rb:77:in `parse&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:60:in `get_feed&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:166:in `pipe_procedure&#39;
-/data/src/rss_crawler/src/pipes/wired.rb:70:in `block in &lt;top (required)&gt;&#39;
-/data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
-			<pubDate>Sun, 10 Feb 2019 21:09:13 +0900</pubDate>
+			<pubDate>Sun, 10 Feb 2019 22:09:50 +0900</pubDate>
 		</item>
 	</channel>
 </rss>

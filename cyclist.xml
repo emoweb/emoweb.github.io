@@ -5,49 +5,6 @@
 		<link>https://cyclist.sanspo.com/feed</link>
 		<description>cyclistに掲載されている最新ニュースの見出しを提供しています。</description>
 		<item>
-			<title>“感覚”で締めるのは危険　KTCの新デバイス「トルクル」が手持ちの工具でトルク値を可視化</title>
-			<link>https://cyclist.sanspo.com/447838</link>
-			<description><![CDATA[<div class="description clearfix">
-<p>　サイクリングを楽しんだり、レースに出場したりと様々な楽しみを提供してくれる自転車。しかし実はとても繊細な乗り物で、少しの不具合が大事故につながってしまうこともある。そんなリスクの1つがボルトの締め付け。“緩み“だけでなく、カーボン素材が多用されているロードバイクでは締めすぎが破損の原因になる場合もある。ボルト周辺には指定のトルク値が示されているが、その強度を感覚で再現することは難しい。そんな曖昧な整備環境を改善してくれるのが京都機械工具（KTC）が開発したスマートデバイス「TORQULE」（トルクル）だ。</p>
-<div class="photoPart600"> <figure class="p600"><a href="https://cyclist.sanspo.com/?attachment_id=449738" rel="attachment wp-att-449738"><img src="https://cdn.cyclist.sanspo.com/photos/2019/01/DSC_8638-a-600x400.jpg?x29953" alt="" class="size-post_pic_1 wp-image-449738"></a><span class="caption">スマートフォン等を使ってトルク値を可視化できるKTCの「トルクル」。適正値に達すると画面の色がグリーンに変化するとともに音で知らせる　Photo: Kyoko GOTO</span></figure>
-</div>
-<h2 class="clearfix sentence komidashi">手持ちの端末でデータ管理</h2> <figure class="layoutR p286"><a href="https://cyclist.sanspo.com/?attachment_id=447972" rel="attachment wp-att-447972"><img src="https://cdn.cyclist.sanspo.com/photos/2019/01/13-4-286x429.jpg?x29953" alt="" class="size-post_pic_impression wp-image-447972"></a><span class="caption">トルクル単体と、アプリをインストールした端末画面　©KTC</span></figure><p>　トルクルは、ラチェットやドライバー等手持ちの工具を「デジタルトルクレンチ」に早変わりさせる変換器具だ。使い方はいたって簡単。専用の無料アプリ「Trasas Admin」をインストールしたスマートフォンやタブレットとBluetoothで同期したトルクルを工具に装着し、締め付け作業を行うと、かけたトルクの測定値が画面上に表示されるという仕組みになっている。</p>
-<p>　作業を行う前にあらかじめ設定したトルク指定値に達すると、音や画面の変色で作業者に知らせる。締め付け不足・締め付けすぎという問題を回避できるため、結果として誰が作業を行っても適切な力での締め付けが可能になる。トルク値の変動や過去の測定履歴を残せるため、高精度の測定はもちろんデータ管理も容易にできる。</p>
-<div class="photoPart600"> <figure class="p600"><a href="https://cyclist.sanspo.com/?attachment_id=449507" rel="attachment wp-att-449507"><img src="https://cdn.cyclist.sanspo.com/photos/2019/01/DSC_8315-a-600x400.jpg?x29953" alt="" class="size-post_pic_1 wp-image-449507"></a><span class="caption">手持ちの工具をデジタルトルクレンチにできる（ラチェット、ソケットは別売り）　Photo: Shusaku MATSUO</span></figure>
-</div>
-<div class="photoPart286Borders"> <figure class="p286"><a href="https://cyclist.sanspo.com/?attachment_id=447973" rel="attachment wp-att-447973"><img src="https://cdn.cyclist.sanspo.com/photos/2019/01/14-4-286x190.jpg?x29953" alt="" class="size-post_pic_4 wp-image-447973"></a><span class="caption">ラチェット装着時のトルクル。自転車に利用する場合、さらにトルクルの先にビットのソケットを取り付ける　©KTC</span></figure> <figure class="p286"><a href="https://cyclist.sanspo.com/?attachment_id=449528" rel="attachment wp-att-449528"><img src="https://cdn.cyclist.sanspo.com/photos/2019/01/trasas_img_cooperation_2-286x190.jpg?x29953" alt="" class="size-post_pic_4 wp-image-449528"></a><span class="caption">測定をボルトと同軸上で行うため、長さの違うレンチやハンドルの角度が変わるフレックスタイプ、ドライバ型ハンドル等工具を選ばず高精度なトルク測定ができる　©KTC</span></figure>
-</div>
-<h2 class="clearfix sentence komidashi">誰でも正確な作業が可能に</h2>
-<p>　実際に『Cyclist』編集部員・松尾修作がトルクルを試してみた。「バイクインプレッション」の記事を担当し、普段からバイクのメンテナンスも自分で行う自称「エキスパート」だ。</p> <figure class="layoutR p373"><a href="https://cyclist.sanspo.com/?attachment_id=449505" rel="attachment wp-att-449505"><img src="https://cdn.cyclist.sanspo.com/photos/2019/01/IMG_9620-a-373x249.jpg?x29953" alt="" class="size-post_pic_5 wp-image-449505"></a><span class="caption">『Cyclist』編集部の松尾修作が実際に「トルクル」をインプレッション。自分のトルク感覚を数値化するのは実は今回が初めて　Photo: Kyoko GOTO</span></figure><p>　ステムのネジのトルク指定値は最大で「5.2N・m（ニュートンメートル）」、シートポストには「7N・m」と書かれている。松尾は自力でこれらの値を出すことができるのか、はじめに画面を見ずに感覚で締めてみた。</p>
-<p>　まずはハンドルを固定するステムの部分を締め込む。指定値を設定し、ゆっくりとラチェットを回していく。値が可視化されることに少々慎重気味な松尾。最大「5.2」という値を過小評価したようで、「あれ？まだかな？」と画面を覗き込んだ。指定値に近づくにつれ、画面が何度かグレーに点滅。最終的に指定地に達したところで、「ピコーン」という音とともに画面の色がグリーンに変化した。</p>
-<div class="photoPart286Borders"> <figure class="p286"><a href="https://cyclist.sanspo.com/?attachment_id=449504" rel="attachment wp-att-449504"><img src="https://cdn.cyclist.sanspo.com/photos/2019/01/IMG_9617-a-286x191.jpg?x29953" alt="" class="size-post_pic_impression wp-image-449504"></a><span class="caption">ハンドルバーを固定するステムのネジは最大で5.2N・m　Photo: Kyoko GOTO</span></figure> <figure class="p286"><a href="https://cyclist.sanspo.com/?attachment_id=449503" rel="attachment wp-att-449503"><img src="https://cdn.cyclist.sanspo.com/photos/2019/01/IMG_9602-a-286x191.jpg?x29953" alt="" class="size-post_pic_impression wp-image-449503"></a><span class="caption">シートポストを固定するネジは最大7N・m　Photo: Kyoko GOTO</span></figure>
-</div>
-<p>　続いてシートチューブのシートポストを固定するネジの締め付け作業を行った。手応えをつかんだようで、いつもの感覚でネジを締め込んでみた。すると画面の値はみるみる上昇し、あっさりと適正値に達した。「ピコーン」という合図音が鳴り、手を止めるもかけた力はすぐには緩まず数値は上がり、「締めすぎ」の画面が表示されてしまった。</p>
-<div class="photoPart286Borders"> <figure class="p286"><a href="https://cyclist.sanspo.com/?attachment_id=449578" rel="attachment wp-att-449578"><img src="https://cdn.cyclist.sanspo.com/photos/2019/01/IMG_9577-a-286x191.jpg?x29953" alt="" class="size-post_pic_impression wp-image-449578"></a><span class="caption">一瞬適正値に達するも…　Photo: Kyoko GOTO</span></figure> <figure class="p286"><a href="https://cyclist.sanspo.com/?attachment_id=449579" rel="attachment wp-att-449579"><img src="https://cdn.cyclist.sanspo.com/photos/2019/01/IMG_9585-b-286x191.jpg?x29953" alt="" class="size-post_pic_impression wp-image-449579"></a><span class="caption">力がすぐに弱まらず最大トルク値を上回ってしまった　Photo: Kyoko GOTO</span></figure>
-</div>
-<p>　この結果を受け、松尾は「実際のトルク値とかけた力の手応えはそれほど大きな乖離はなかったように思いますが、改めて数値化されたことで“答え合わせ”のように自分の作業の精度を確認できました。あとはぎゅっと強く締めるのではなく、ゆっくりと力をかけていくことの重要性もわかりました」とトルク値を可視化することの有用性を語った。</p>
-<h2 class="clearfix sentence komidashi">“強い力”が引き起こす悪循環</h2>
-<p>　「たった数N・mの誤差」と思うかもしれないが、その考え方に実は落とし穴がある。自転車のフレームやパーツ周辺に示されている締め付けトルクは、多くの場合5～8N・m程度と、10N・mを切る小さな値。高トルクが必要なクルマと異なり、低トルクな自転車ほど少しずれるだけで、そのブレの影響が後々大きくなる。とくに近年増加しているアルミパーツとカーボンパーツが混在するバイクでは、そのダメージが大きくなる。</p>
-<div class="photoPart600"> <figure class="p600"><img src="https://cdn.cyclist.sanspo.com/photos/2019/01/ktc_digi_6-600x450.jpg?x29953" alt="" class="size-post_pic_1 wp-image-447982"><span class="caption">締め過ぎによるカーボンの変形のプロセス（ステムのボルトを例に）　©KTC</span></figure>
-</div>
-<p>　硬い素材（アルミ）と柔らかい素材（カーボン）を組み合わせると硬い方が勝ってしまい、強く締め込んでいくとカーボンが変形し、再び締める際にさらに強くしないと締まらなくなる。その結果、カーボンをどんどん変形させ、ボルトに強い負荷をかけることになり、最終的にボルトが破断し、カーボンの破損を招くことになる。</p>
-<p>　その破断が整備中に発生するならまだしも、走行中に起こる危険性も少なくなく、実際に走行中に路面からの強い衝撃を受け、ハンドル部分のボルトが破断して事故に至ったという事例も報告されている。</p>
-<h2 class="clearfix sentence komidashi">プロもおすすめ！「タッケサイクルファクトリー」武田耕大さん</h2>
-<p>　プロショップのスタッフもおススメする。プロショップ<a href="https://cyclist.sanspo.com/shopnavi/401272" target="_blank">「TACKE CYCLE FACTORY」</a>のオーナー、武田耕大さんは「トルク管理がシビアなカーボンの自転車に乗る人にはおすすめのツールですね」と太鼓判を押す。</p>
-<div class="photoPart600"> <figure class="p600"><a href="https://cyclist.sanspo.com/?attachment_id=450096" rel="attachment wp-att-450096"><img src="https://cdn.cyclist.sanspo.com/photos/2019/01/tc01-600x400.jpg?x29953" alt="" class="size-post_pic_1 wp-image-450096"></a><span class="caption">「タッケサイクルファクトリー」の武田耕大さん　Photo: Shusaku MATSUO</span></figure>
-</div>
-<p>　繊細なパーツで組まれたスポーツバイクを日々整備している武田さんは「専用パーツを多く用いたスポーツサイクルでも、シートポスト高さや、ハンドルの角度などはお手持ちの工具である程度調整が可能です。しかし、パーツ一点一点がとても繊細なため、ボルトの締め方に誤りがあり、中には破損させる方もいらっしゃいますね」と語った。</p>
-<div class="photoPart286Borders"> <figure class="p286"><a href="https://cyclist.sanspo.com/?attachment_id=450097" rel="attachment wp-att-450097"><img src="https://cdn.cyclist.sanspo.com/photos/2019/01/tc02-286x190.jpg?x29953" alt="" class="size-post_pic_4 wp-image-450097"></a><span class="caption">スマホのアプリで規定のトルク値を設定　Photo: Shusaku MATSUO</span></figure> <figure class="p286"><a href="https://cyclist.sanspo.com/?attachment_id=450099" rel="attachment wp-att-450099"><img src="https://cdn.cyclist.sanspo.com/photos/2019/01/tc04-286x190.jpg?x29953" alt="" class="size-post_pic_4 wp-image-450099"></a><span class="caption">リニアに動く画面上の数字　Photo: Shusaku MATSUO</span></figure>
-</div> <figure class="layoutR p373"><a href="https://cyclist.sanspo.com/?attachment_id=450098" rel="attachment wp-att-450098"><img src="https://cdn.cyclist.sanspo.com/photos/2019/01/tc03-373x249.jpg?x29953" alt="" class="size-post_pic_5 wp-image-450098"></a><span class="caption">リアルタイムのトルクを確認しながらボルトを締める　Photo: Shusaku MATSUO</span></figure><p>　さっそく、トルクルを使ってもらうと、画面上へリニアに表示されるリアルタイムな数字の動きに驚いた様子。複雑な操作は必要ないため、サクサクとバイクを組み立てていった。「パーツを正しく使うために、正しいトルクでボルトを締めるのは感覚だけでは難しいです。トルクルはお店でも使いたい精度ですし、操作が簡単なので一般のお客様にもおススメできますね」と評価した。</p>
-<p>　ビギナーからベテランまで、事故を未然に防ぐメンテナンスのために「トルクル」をツールボックスに備えておくのはいかがだろうか。</p>
-<p><iframe width="640" height="360" src="https://www.youtube.com/embed/VT4Ad0Y1z7c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-<p class="clearfix sentence"><span class="small"><span class="bold">■トルクル 10N・m</span><br> 差込角（sq.）：6.3sq.<br> 直径（mm）：42<br> 高さ（mm）：71.5<br> 重量（g）：130<br> トルク測定範囲（N・m）：2-10<br> 最小表示単位（N・m）：0.1<br> 電源：充電式リチウムポリマー電池<br> 通信方法：Bluetooth® 4.1<br> 付属品：充電ケーブル（※充電器は付属していない）<br> 小売参考価格：29,800円<br> </span></p>
-<div class="tagged cf"><a class="cf" href="https://ktc.jp/trasas/torqule.html" target="_blank" data-gatracking="on" data-eventtype="exlink" data-target="tie-up">「トルクル」について（KTC）</a></div>
-<div class="tagged cf"><a class="cf" href="https://ktc.jp/" target="_blank" data-gatracking="on" data-eventtype="exlink" data-target="tie-up">「KTC」ウェブサイト</a></div>
-</div>]]></description>
-			<pubDate>Thu, 07 Feb 2019 06:00:01 +0900</pubDate>
-		</item>
-		<item>
 			<title>新連載『おおやようこの自転車あそび』スタート　「色々な自転車の楽しみ方を発信したい」</title>
 			<link>https://cyclist.sanspo.com/451373</link>
 			<description><![CDATA[<div class="description clearfix">
@@ -565,6 +522,39 @@
 <div class="tagged cf"><a class="cf" href="https://item.rakuten.co.jp/na-sh-shop/a201825001/" target="_blank">「邪神ちゃんドロップキック」公式ウェア詳細・販売ページ</a></div>
 </div>]]></description>
 			<pubDate>Sun, 10 Feb 2019 19:00:45 +0900</pubDate>
+		</item>
+		<item>
+			<title>前田公平が織田聖と「弱ペダ」ワンツーで優勝、逆転で年間王者に　JCX最終戦・前橋CX第２戦</title>
+			<link>https://cyclist.sanspo.com/452790</link>
+			<description><![CDATA[<div class="description clearfix">
+<p>　今季のジャパンシクロクロス（JCX）シリーズの最終戦となる第12戦「前橋シクロクロス第2戦」が群馬県前橋市の岩神緑地 前橋市オフロードサイクルコースで開催され、男子C1では前田公平（弱虫ペダルサイクリングチーム）、女子CL1では今井美穂（CO2bicycle）がそれぞれ優勝。ともに全12戦で争われたシリーズランキングでも頂点に立った。</p>
+<div class="photoPart600"> <figure class="p600"><a href="https://cyclist.sanspo.com/452790/17-40" rel="attachment wp-att-452809"><img src="https://cdn.cyclist.sanspo.com/photos/2019/02/17-600x399.jpg?x29953" alt="" class="size-post_pic_1 wp-image-452809"></a><span class="caption">C1表彰式。左から2位の織田聖（弱虫ペダルサイクリングチーム）、優勝の前田公平（弱虫ペダルサイクリングチーム）、3位の小坂光（宇都宮ブリッツェン シクロクロスチーム）　Photo: Nobumichi KOMORI</span></figure>
+</div>
+<p class="clearfix sentence komidashi">前日に降雪もドライコンディション</p>
+<p>　前日に関東地方の広い範囲で雪が降った中で迎えたこの日のレース。しかし、会場となった前橋市オフロードサイクルコースは雪が降った形跡もないほどの完全ドライなコンディション。オールフラットなコースレイアウトも相まって、ハイスピードバトルになることが予想された。</p>
+<div class="photoPart286Borders"> <figure class="p286"><a href="https://cyclist.sanspo.com/452790/02-84" rel="attachment wp-att-452794"><img src="https://cdn.cyclist.sanspo.com/photos/2019/02/02-286x191.jpg?x29953" alt="" class="size-post_pic_impression wp-image-452794"></a><span class="caption">C1とCL1の前にはキンダーガーデンのレースも行われた　Photo: Nobumichi KOMORI</span></figure> <figure class="p286"><a href="https://cyclist.sanspo.com/452790/01-85" rel="attachment wp-att-452793"><img src="https://cdn.cyclist.sanspo.com/photos/2019/02/01-286x190.jpg?x29953" alt="" class="size-post_pic_impression wp-image-452793"></a><span class="caption">快晴に恵まれた前橋市オフロードサイクルコースは完全ドライコンディション　Photo: Nobumichi KOMORI　</span></figure>
+</div>
+<p class="clearfix sentence komidashi">レース前は小坂光がシリーズ首位</p>
+<p>　男子C1はレース前の状況で、シリーズランキングの首位に小坂光（宇都宮ブリッツェンシクロクロスチーム）が立っているものの、2位の前だとのポイント差はわずか80ポイント。加えて、前田はここまでJCXを6戦しか走っておらず、成績上位7大会および全日本選手権のポイントを加算して集計されるシリーズランキングの仕組みを考慮すると、この日の獲得ポイントがまるまる加算される前田がかなり有利な状況と言える。</p>
+<div class="photoPart600"> <figure class="p600"><a href="https://cyclist.sanspo.com/452790/10-90" rel="attachment wp-att-452802"><img src="https://cdn.cyclist.sanspo.com/photos/2019/02/10-600x400.jpg?x29953" alt="" class="size-post_pic_1 wp-image-452802"></a><span class="caption">C1は前田公平（弱虫ペダルサイクリングチーム）がホールショットを決める　Photo: Nobumichi KOMORI</span></figure>
+</div>
+<p class="clearfix sentence komidashi">前田、織田を斎藤ら3位パック追走</p> <figure class="layoutR p373"><a href="https://cyclist.sanspo.com/452790/12-2-11" rel="attachment wp-att-452831"><img src="https://cdn.cyclist.sanspo.com/photos/2019/02/12-2-373x248.jpg?x29953" alt="" class="size-post_pic_5 wp-image-452831"></a><span class="caption">小坂光（宇都宮ブリッツェン シクロクロスチーム）、斎藤朋寛（RIDELIFE GIANT）、江越海玖也（弱虫ペダルサイクリングチーム）の3番手パックが先行する2選手を追う　Photo: Nobumichi KOMORI</span></figure><p>　レースはその前田と、チームメートの織田聖（弱虫ペダルサイクリングチーム）がスタートダッシュを決めて先行する展開でスタート。一方、シリーズランキング首位を死守したい小坂はホームストレートから階段に入るところで斎藤朋寛（RIDELIFE GIANT）にかわされ4番手に順位を下げてしまう。</p>
+<p>　その後、レースは前田と織田の先頭パックと、小坂、斎藤、江越海玖也（弱虫ペダルサイクリングチーム）の3番手パックという展開になったが、周回を重ねていく中で3番手パックが崩壊。小坂が単独3番手になって先行する2選手を追走することになった。</p>
+<div class="photoPart600"> <figure class="p600"><a href="https://cyclist.sanspo.com/452790/13-70" rel="attachment wp-att-452805"><img src="https://cdn.cyclist.sanspo.com/photos/2019/02/13-600x399.jpg?x29953" alt="" class="size-post_pic_1 wp-image-452805"></a><span class="caption">チームメート同士で協調する先頭パックが後続とのタイム差を広げていく　Photo: Nobumichi KOMORI</span></figure>
+</div>
+<p>　しかし、チームメート同士で協調が取れた先頭パックはペースを上げながら着実に周回を重ねていき、3番手の小坂とのタイム差をじわじわと広げていく。レースも折り返しをすぎる頃になるとその差は1分以上にまで開くことになり、この時点でレースの大勢が決まることになった。</p>
+<div class="photoPart600"> <figure class="p600"><a href="https://cyclist.sanspo.com/452790/16-49" rel="attachment wp-att-452808"><img src="https://cdn.cyclist.sanspo.com/photos/2019/02/16-600x400.jpg?x29953" alt="" class="size-post_pic_1 wp-image-452808"></a><span class="caption">シーズン最終戦で勝利を収めた前田公平（弱虫ペダルサイクリングチーム）が逆転でシリーズチャンピオンも手中に収めた　Photo: Nobumichi KOMORI</span></figure>
+</div>
+<p>　完全なふたり旅となった先頭パックは、前田がペダルが外れずに2回落車するトラブルなどもあったが盤石のリードを守り切り、最後はチームメート同士のゴールスプリントを前田が制して先着。見事に今レースでの優勝と、逆転でのシリーズ優勝を飾った。</p>
+<div class="photoPart600"> <figure class="p600"><a href="https://cyclist.sanspo.com/452790/19-33" rel="attachment wp-att-452812"><img src="https://cdn.cyclist.sanspo.com/photos/2019/02/19-1-600x399.jpg?x29953" alt="" class="size-post_pic_1 wp-image-452812"></a><span class="caption">JCXシリーズ表彰式（男子）。左から2位の小坂光（宇都宮ブリッツェン シクロクロスチーム）、優勝の前田公平（弱虫ペダルサイクリングチーム）、3位の織田聖（弱虫ペダルサイクリングチーム）　Photo: Nobumichi KOMORI</span></figure>
+</div>
+<p class="clearfix sentence komidashi">CL1は今井が松本を振り切る</p> <figure class="layoutR p373"><a href="https://cyclist.sanspo.com/452790/05-69" rel="attachment wp-att-452797"><img src="https://cdn.cyclist.sanspo.com/photos/2019/02/05-373x248.jpg?x29953" alt="" class="size-post_pic_5 wp-image-452797"></a><span class="caption">松本璃奈（TEAM SCOTT）と今井美穂（CO2Bicycle）が先頭パックを形成する展開が続く　Photo: Nobumichi KOMORI</span></figure><p>　女子CL1は、スタート直後から今井と松本璃奈（TEAM SCOTT）の2人が先頭パックを形成してレースをリードする展開に。一時は松本が今井からリードを奪って単独で先行する場面もあったが、ミスもあって決定的な差をつけることはできずにパックのままで終盤戦へ。最後はタイミングを見計らってペースアップした今井が松本を振り切って地元開催の最終戦で見事に優勝。ほぼ決まっていたシリーズ優勝に華を添えた。</p>
+<div class="photoPart286Borders"> <figure class="p286"><a href="https://cyclist.sanspo.com/452790/06-65" rel="attachment wp-att-452798"><img src="https://cdn.cyclist.sanspo.com/photos/2019/02/06-286x190.jpg?x29953" alt="" class="size-post_pic_impression wp-image-452798"></a><span class="caption">終盤に入っても2人の争いが続く　Photo: Nobumichi KOMORI</span></figure> <figure class="p286"><a href="https://cyclist.sanspo.com/452790/08-57" rel="attachment wp-att-452800"><img src="https://cdn.cyclist.sanspo.com/photos/2019/02/08-286x191.jpg?x29953" alt="" class="size-post_pic_impression wp-image-452800"></a><span class="caption">地元開催レースで今井美穂（CO2Bicycle）が見事に優勝を飾った　Photo: Nobumichi KOMORI</span></figure>
+</div>
+<div class="photoPart600"> <figure class="p600"><a href="https://cyclist.sanspo.com/452790/09-62" rel="attachment wp-att-452801"><img src="https://cdn.cyclist.sanspo.com/photos/2019/02/09-600x399.jpg?x29953" alt="" class="size-post_pic_1 wp-image-452801"></a><span class="caption">CL1表彰式。左から2位の松本璃奈（TEAM SCOTT）、優勝の今井美穂（CO2Bicycle）、3位の西山みゆき（Toyo Frame Field Model）　Photo: Nobumichi KOMORI</span></figure>
+</div>
+</div>]]></description>
+			<pubDate>Sun, 10 Feb 2019 20:00:07 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
