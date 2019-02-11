@@ -5,27 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    「Chrome 73」はマルチメディアキーに正式対応。バックグラウンド動作時も音楽の停止・スキップが可能に
-</title>
-			<link>https://japanese.engadget.com/2019/02/08/chrome-73/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-02%2Fd3f0eb20-2c09-11e9-bf7d-62f3a01f3960&client=a1acac3e1b3290917d92&signature=5ea56d6eae9623358a26b967a6d6a27d8ed8a2a9" />
-3月にリリース予定のChrome 73では、キーボードにあるマルチメディアキーを正式にサポートし、音楽・動画配信サービスなどの操作に利用できるようになります。
-
-マルチメディアキーは、デスクトップやラップトップのキーボードにある「再生」や「停止」「早送り（スキップ）」などを行うボタンです。当然ながら、多くのマルチメディア系アプリではこれまでも利用できましたが、ブラウザ上から利用するYouTubeやAmazon Musicなどのサービスでは使えませんでした。
-
-そのマルチメディアキーのサポートが、次期リリースのChrome 73に追加される予定で、すでにChrome 73 BetaとChrome Canary（試験運用版）で利用できる状態となっています。まず、Chrome OS、mac OS、Windows向けにリリースされ、Linux向けは後日になる予定です。
-
-YouTubeに関しては、現状でもキーボードショートカットにより操作が可能ですが、マルチメディアキーはChrome自身やタブがアクティブでなかったり、最小化されていても機能します。YouTube動画などを複数のタブで開いている場合にはどういった挙動を取るのかが気になるところですが、Chrome Canaryで試したところ、最後にマウスで操作したYouTube動画のみマルチメディアキーで操作できました。
-
-このほか、開発者が自分のサイトやWEBサービスでマルチメディアキーをどのように扱うかカスタマイズできるMedia Session APIも提供されます。Chromeブラウザは、このようなサポートを提供する最初のブラウザとなります。
-
- 
-
- 
- ]]></description>
-			<pubDate>Fri, 08 Feb 2019 23:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    アップル、「グループFaceTimeバグ」を発見した少年に教育費を援助
 </title>
 			<link>https://japanese.engadget.com/2019/02/09/facetime/</link>
@@ -424,6 +403,19 @@ GoogleマップのAR（拡張現実）ナビゲーション機能が、一部ユ
 米アップル関連情報サイト9to5Macは、以前Apple Musicを契約していたものの解約したか、あるいは無料試用期間が終わるまでに使うのを辞めてしまった人がターゲットにされていると推測しています。
  ]]></description>
 			<pubDate>Mon, 11 Feb 2019 04:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    米FDA、JUULの「10代の電子タバコ使用なくす」約束に不信感。大株主Altria含め対話の可能性も
+</title>
+			<link>https://japanese.engadget.com/2019/02/11/fda-juul-10-altria/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-02%2F94640700-2dd8-11e9-bffb-8d7813b51bf1&client=a1acac3e1b3290917d92&signature=45f160d65087362bd11d2e9aeb79dbb12e31c660" />
+米国で10代を中心に人気が拡大しつつあったポッド式電子タバコメーカーJUULの株式を、タバコ大手の(Marlboroなどを傘下に持つ)Altriaが取得したとき、「喫煙者が可燃性のタバコをやめるのを助ける」というJuulの使命を知る人々は懸念を覚えました。そしてその懸念は米食品医薬品局(FDA)も同様に持ち合わせているようです。
+
+FDAのスコット・ゴットリーブ長官はJUULおよびAltriaの両CEOとの合同会議を開き、彼らが2018年10月に取り決めた「10代の喫煙を減らす」という"矛盾"する声明について両者から話を聞きたいとしています。
+
+ 
+ ]]></description>
+			<pubDate>Mon, 11 Feb 2019 05:50:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
