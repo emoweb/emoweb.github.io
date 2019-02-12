@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】日本マイクロソフトら、新生活などを応援する「ENTER! キャンペーン」</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1168983.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1168/983/1_o.jpg"></div></div></div></div></div></div><p>　日本マイクロソフト株式会社、インテル株式会社、およびASUS JAPAN株式会社、NECパーソナルコンピュータ株式会社、Dynabook株式会社、デル株式会社、株式会社 日本HP、パナソニック株式会社、富士通クライアントコンピューティング株式会社、レノボ・ジャパン株式会社は合同で、春からの新生活や新しいチャレンジを応援する「ENTER! キャンペーン」を開始した。期間は5月12日まで。</p><p>　この春に大学に入学する、社会人デビュー、子供と一緒に新たな学びをする、新しい趣味や習い事をはじめるといった、幅広い層の新しいチャレンジに対し、モダンPCの活用でより楽しく、よりかんたんにできるようになるような活用シナリオを提案する。</p><p>　キャンペーンにおいて定義しているモダンPCは、1.美しくプレミアムなデザイン、2.SSDまたはeMMC搭載で速くて丈夫、3.タッチ/ペン/指紋や顔認証などの最新機能を搭載したものを示す。Webサイトでは最新Officeの活用シナリオを提案するほか、全国24店舗の家電量販店内のWindowsエリアでモダンPCの集合展示を実施し、専門販売スタッフによるOfficeのデモンストレーションなどを行なう。</p></div></div>]]></description>
-			<pubDate>Fri, 08 Feb 2019 17:34:18 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】リコー、RICOH IM C6000/C5500/C4500用 RPCSドライバー Ver.1.3.0.0ほか</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1168998.html</link>
 			<description><![CDATA[<div><div><p>　リコーは、RICOH IM C6000/C5500/C4500用 RPCSドライバー Ver.1.3.0.0ほかを公開した。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1169290.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1169/290/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.elecom.co.jp/" class="n" target="_blank">エレコム株式会社</a>は、USB Type-C接続のLightningケーブル「MPA-CL」シリーズを順次発売する。ケーブル長は0.1/0.5/1/1.5/2mを用意し、価格はそれぞれ2,052円、2,192円、2,333円、2,473円、2,614円。カラーはブラック、ピンク、ホワイトの3色。</p><p>　Appleの正規ライセンスMade for iPhone／iPad／iPodを取得したケーブルで、サビなどに強く信号劣化を抑えると謳う金メッキピンを採用している。高速充電にも対応しており、iPhone 8以降に発売された機種で、かつ充電器がPower Delivery規格に対応していた場合に高速充電が可能になる。なお、USB-C搭載のiPadには非対応。</p></div></div>]]></description>
 			<pubDate>Tue, 12 Feb 2019 18:46:38 +0900</pubDate>
+		</item>
+		<item>
+			<title>プロ向けの「Radeon Pro Software for Enterprise」が一般向けのRadeonを“逆サポート” </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1169296.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1169/296/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.amd.com/en/" class="n" target="_blank">AMD</a>が2月4日(現地時間)にリリースした、プロフェッショナルグラフィックス向けのドライバ「Radeon Pro Software for Enterprise 19.Q1」において、一般消費者向けのRadeonシリーズを“逆サポート”することがわかった。</p><p>　同社は過去に、プロ向けビデオカード「Radeon Pro WX 9100」および「Radeon Vega Frontier Edition」向けに提供された「Radeon Pro Software 17.10」において、プロ向けのドライバと一般消費者(ゲーミング)向けドライバの切り替えを実現していたが、一般消費者向けのRadeonがRadeon Pro Softwareを使うことはできなかった。</p><p>　Radeon Pro Software for Enterprise 19.Q1では、一般消費者向けのRadeon RX Vegaシリース、Radeon RXシリーズ、Radeon R7 430/R5 240/535が新たにサポートされた。これは企業がRadeonを実際に業務や商用として利用している実態を反映したものとしており、生産性重視のアプリケーションでRadeonを使用する場合、同ドライバの利用を推奨しているという。具体的には、ワークフローの一部としてCADデータを確認する必要がある場合を挙げている。</p><p>　なお、当然のことだが、AMDはゲームにおいてRadeon Pro Software for Enterpriseの利用を推奨していないほか、ワークステーションクラスの性能や機能、およびアプリケーション認定は、一般消費者向けのRadeonには適用されず、Radeon Proビデオカードを利用する場合にのみメリットが得られるとしている。</p></div></div>]]></description>
+			<pubDate>Tue, 12 Feb 2019 19:12:20 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
