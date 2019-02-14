@@ -124,5 +124,29 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1169/694/01.png"></div></div><span class="caption">Atomic Heartでのリアルタイムレイトレーシング実装。鏡像もレイトレーシングに基づいた正しい描写になる</span></div></div></div></div><p>　<a href="https://www.epicgames.com/" class="n" target="_blank">Epic Games</a>は12日、リアルタイムレイトレーシングに対応する、同社のゲーム開発エンジン「<a href="http://unrealengine.com/" class="n" target="_blank">Unreal Engine</a>(UE)」のバージョン4.22 Previewを公開した。</p><p>　今回のUEへのレイトレーシング実装は、DirectX 12で実装されたレイトレーシングAPI「DXR」が用いられており、DXRで公式にサポートされている、GeForce RTX 20シリーズ、およびTITAN Vなど一部のVolta GPUでのみ利用できる。</p><p>　バージョンは4.22で、<a href="https://www.unrealengine.com/ja/tech-blog/technology-sneak-peek-real-time-ray-tracing-with-unreal-engine">当初予告されていたとおり</a>の対応となった。なお公開されたのはプレビュー版であり、安定版の提供時期は未定。</p><p>　レイトレーシングの低レベルサポートでは、レイ(光線)によるシェーダ生成、衝突シェーダといったレイトレーシング効果を利用できる。</p><p>　高レベルサポートでは、ソフトシャドウ、反射、反射した影、アンビエントオクルージョン(AO)、リアルタイムグローバルイルミネーション(RTGI)、テクスチャLOD、影/反射/AOのデノイザー、パストレースなどをサポートするとしている。</p><p>　なお、DirectX 12対応でRTコア非搭載のGeForce GTX 10シリーズやRadeonなどのGPUについては、Microsoft側がDXRでレンダリングコードに特別なパスなしにソフトウェア実行できるような開発を行なわない限り、UE側でサポートする予定はないとフォーラムで回答されている。</p><p>　2019年2月現在、リアルタイムのレイトレーシングレンダリングに対応したゲームタイトルとしては、DICE開発の「Battlefield V」、4A Games開発の「Metro Exodus」などがあるが、いずれも独自のゲームエンジンを利用している。</p><p>　Mudifish開発の「Atomic Heart」(2019年発売予定)が、初のリアルタイムレイトレーシング対応UE4タイトルとなる見込みで、今回のUE4のリアルタイムレイトレーシング対応により、DXR対応タイトルの開発が進むことが期待される。</p></div></div>]]></description>
 			<pubDate>Thu, 14 Feb 2019 15:36:30 +0900</pubDate>
 		</item>
+		<item>
+			<title>EIZO、約5万円のsRGB/カラマネ対応24.1型WUXGA液晶 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1169707.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1169/707/1_o.jpg"></div></div><span class="caption">ColorEdge CS2410</span></div></div></div></div><p>　<a href="https://www.eizo.co.jp/" class="n" target="_blank">EIZO株式会社</a>は、クリエイティブワーク向けのカラーマネジメント対応液晶「ColorEdge」シリーズに、税別直販価格49,800円のベーシックモデル「CS2410」を追加し、3月19日に発売する。</p><p>　CS230の後継機種で、デジタル写真やイラスト制作を楽しむユーザーをターゲットとしたsRGB色域100%カバーのモデル。CS230からサイズを23型から24.1型に拡大するとともに、解像度を1,920×1,080ドット(フルHD)から1,920×1,200ドット(WUXGA)に引き上げた。</p><p>　工場出荷時の個別階調/濃淡調整に加え、画面のムラを抑えるデジタルユニフォミティ補正回路を搭載。ハードウェアキャリブレーションに対応した専用調整ソフトウェア「ColorNavigator 7」、写真プリント色合わせソフトウェア「Quick Color Match」もサポートする。</p><p>　おもな仕様は、パネルが非光沢IPSで、解像度がWUXGA、表示色数が約1,677万色(約278兆色中)、中間色応答速度が14ms、輝度が300cd/平方m、コントラスト比が1,000:1、視野角が上下/左右ともに178度。</p><p>　インターフェイスはDisplayPort、HDMI、DVI-Dで、USB 3.0 Hubを3ポート搭載(うち1ポートは最大10.5Wの給電が可能)。本体サイズは554.4×245×396～551mm(幅×奥行き×高さ)、重量は約7.9kg。</p></div></div>]]></description>
+			<pubDate>Thu, 14 Feb 2019 16:27:17 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】上海問屋、暗闇での視認性を上げる蓄光キートップシール</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1169720.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1169/720/1_o.jpg"></div></div><span class="caption">日本語キーボード用</span></div></div></div></div><p>　上海問屋は、暗い場所でのキーの視認性を引き上げる蓄光キートップシールを発売した。価格は500円。</p><p>　明るい場所で光を溜め込んだあと、暗い場所で数時間のあいだ光り続け、文字を視認可能。日本語用と英語用の2種類が用意される。シール1枚のサイズは11×13mm(幅×奥行き)。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1169/720/2_o.jpg"></div></div><span class="caption">英語キーボード用</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 14 Feb 2019 16:28:43 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】マウス、EVO Japan 2019出展記念セールとG-Tune 15周年記念キャンペーン第2弾</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1169729.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1169/729/1_o.jpg"></div></div></div></div></div></div><p>　株式会社マウスコンピューターは、格闘ゲームイベント「EVO Japan 2019」への出展を記念し、イベント内で使用している機材を期間限定の特別価格で用意する。</p><p>　対象モデルの一例として、Core i9-9900KとGeForce RTX 2080 Tiを搭載した「MASTERPIECE i1640PA2-SP2」は1万円引きの税別349,800円で用意する。</p><p>　同時に、G-Tune 15周年記念のWebキャンペーン第2弾として、現在販売中のG-Tune 15周年記念モデル「NEXTGEAR i690PA3-SP」(Core i7-9700K、メモリ16GB、GeForce RTX 2080)の価格を据え置きで、M.2 SSDの容量を256GBから512GB、HDD容量を2TBから3TBにアップグレードする。</p><p>　また、ゲーミングノート「NEXTGEAR-NOTE i7920BA1」のBTO特価キャンペーンも実施し、標準の256GB M.2 SSDを512GB NVMe SSDへ変更するオプションを税別5,800円、メモリ8GBを16GBに変更するオプションを税別1,800円で提供する。</p></div></div>]]></description>
+			<pubDate>Thu, 14 Feb 2019 16:39:53 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】TSUKUMO、「EVO Japan 2019」にAMDと共同出展</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1169731.html</link>
+			<description><![CDATA[<div><div><p>　<a href="https://shop.tsukumo.co.jp/" class="n" target="_blank">TSUKUMO</a>は、2月15日～16日の2日間、AMDと共同で格闘ゲームイベント「EVO Japan 2019」に出展する。</p><p>　出展ブースでは、AMD Ryzen搭載ゲーミングPC「G-GEAR」で鉄拳7を試遊できる。試遊した人先着で、TSUKUMOの人気マスコット「つくもたん」のキーキャップを数量限定で配布する。</p><p>　このほか、ZOWIEのディスプレイとRazerのアーケードコントローラの展示、およびRazer製品、GRAPHT製品の物販を行なう。</p></div></div>]]></description>
+			<pubDate>Thu, 14 Feb 2019 16:44:04 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
