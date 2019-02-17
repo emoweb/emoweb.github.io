@@ -5,31 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    まるで本当みたいな フェイクニュース を書き出すAI「GPT-2」MITが開発。簡易版と論文を公開
-</title>
-			<link>https://japanese.engadget.com/2019/02/15/ai-gpt-2-mit/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-02%2F8e062040-3158-11e9-9fbf-9a3b45e09b76&client=a1acac3e1b3290917d92&signature=06fb59071dc19890a4f57ef273a34025b17682b7" />
-AIが小説を執筆し、ニュースを読む時代になりましたが、今度はAIがニュースを書く時代がやってきました。しかも普通のニュースではなく、いわゆるフェイクニュースです。
-
-テスラ、SpaceXのイーロン・マスクが支援する人工知能研究開発グループOpenAIは、自然な文章を生成する言語モデル「GPT-2」を発表しました。このモデルはAIで適当なニュースの書き出しを読み込ませると、読み手が一瞬「本当か？」と信じてしまいそうな、巧妙な嘘ニュースを吐き...いや書き出します。
- ]]></description>
-			<pubDate>Fri, 15 Feb 2019 16:50:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    いつもの音楽がガラッと変わるかも？「イコライザ」で自分好みの音に！：iPhone Tips
-</title>
-			<link>https://japanese.engadget.com/2019/02/15/iphone-tips/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=1500%2C1334%2C0%2C0&quality=85&format=jpg&resize=900%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fc8e4c9a0-2488-11e9-bdff-3eab749fe2bc&client=a1acac3e1b3290917d92&signature=caaf44925860fee4e08e55d62498de41cac49cc5" />
-iPhoneで音楽を聴くという人は多いと思いますが、"イコライザ"機能を利用しているという人は少ないのではないでしょうか？ 少しわかりづらいところに設定があるため、そもそも気づいていないという方も多いのでは。
-
-ちなみにイコライザとは、音声信号の特定周波数帯域を変化させ、高音を強調したり、低音を強調したり、中音を強調したり、あるいはいくつかを合わせて行ったりできる機能のこと。イコライザを使うことで、普段聴いている音楽が違う表情を見せるなんてこともあるはずです。
-
-そんなわけで、今回はiPhoneでのイコライザ設定方法を解説しましょう。
-<p><a href="https://japanese.engadget.com/gallery/equalizer/" title="iPhoneのイコライザー機能を活用するには">【ギャラリー】iPhoneのイコライザー機能を活用するには (4枚)</a></p>
- ]]></description>
-			<pubDate>Fri, 15 Feb 2019 17:20:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    ポケモンGOやSpotifyの違法改造版が配布？アップルの企業向け開発証明書を悪用
 </title>
 			<link>https://japanese.engadget.com/2019/02/15/go-spotify/</link>
@@ -352,6 +327,58 @@ TCLの幹部はCENTの取材に対し、2020年内に初の"フォルダブル"�
 
  ]]></description>
 			<pubDate>Sun, 17 Feb 2019 01:15:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    GoogleのARCoreがさらに強化。顔の立体認識を専用ハード無しで実現
+</title>
+			<link>https://japanese.engadget.com/2019/02/17/google-arcore/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-02%2Fa3617470-327b-11e9-abd7-7c89704303f0&client=a1acac3e1b3290917d92&signature=9c4be0b4a69834acda4145047fd9182c6efcf44d" />
+Googleが同社のARプラットフォームであるARCoreをアップデート。スマートフォンのフロントカメラで利用できるAugmented Faces APIなど、新機能が追加されました。
+
+まず、そのAugmented Faces APIですが、フロントカメラで捉えた顔に468点の3Dメッシュを生成。これを使い、下のGIFのようなフィルタを施せます。
+
+ 
+
+
+これに近いことは、Snapchatのフィルターなどでも行えますが、それらが位置がずれてしまったりするのに対して、Augmented Faces APIでは正確にトラッキングが可能です。また、iPhone XシリーズのようなFace ID対応のカメラや、LG G8 ThinkQが搭載予定のToFに対応した特別なハードウェアが不要なのも大きな特徴となっています。
+
+このほか、平面の検出や、仮想オブジェクトの操作を簡略化するARCore Elementsも追加されました。今後もARをアプリに簡単に組込み、利用しやすくするためのコンポーネントを追加予定としています。
+
+ 
+
+なお、ARCoreはすべてのスマートフォンで利用できるわけではありませんが、対応機種も徐々に増えています。日本で発売されている機種では、Googleの「Pixel 3」やNexus 5X/6Pのほか、Xperia XZ Premium以降のXperiaやGalaxy S7以降のGalaxyなどが対応しています。9to5Googleは、今回のアップデートにあわせて新たにhonor V20やmoto G7、OPPO R17 Pro、Vivo NEX Dual Displayなどが追加されたと伝えています。完全なリストはARCoreのサイトで確認できます。
+
+ 
+
+ ]]></description>
+			<pubDate>Sun, 17 Feb 2019 03:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    ウェアラブルでも打倒アップル？　「Galaxy Watch Active」「Galaxy Buds」が発表目前か
+</title>
+			<link>https://japanese.engadget.com/2019/02/17/galaxy-watch-active-galaxy-buds/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-02/edff4700-3285-11e9-bdef-fee54ec1d10c" />
+
+
+韓国サムスンからの製品投入が噂されるスマートウォッチ「Galaxy Watch Active」やワイヤレスイヤホン「Galaxy Buds」について、詳細なリーク情報が海外から登場しています。
+
+海外テックサイトのSamMobileによれば、Galaxy Watch Activeはベゼルの回転機構を廃止。有機ELディスプレイのサイズは1.1インチ／360&times;360ドットで本体圧は13mm、バッテリーサイズは236mAhと、現行モデルの「Gear Sport」から文字盤は小さく、本体は厚くなっています。
+
+搭載プロセッサはデュアルコアのExynos 9110で、4GBの内蔵ストレージを搭載。最大50メートルまでの防水性能を実現し、Wi-Fi接続が利用できますが、LTE接続のサポートは確認されていません。OSにはTizenが搭載されており、AIアシスタント機能「Bixby Reminders」が利用できます。
+
+
+
+ユーザーインターフェイスには「One UI」を採用。ウォッチフェイスにはヘルスケアデータの表示を重視したものがくわえられています。またワークアウト機能では心拍数の警告機能が搭載されたり、「Samsung Health」アプリではデザイン変更によりワークアウトのトラッキングやゴールが表示されています。
+
+
+Galaxy Budsは外観デザインこそ現行モデルの「Gear IconX」から大きくは変わりませんが、イヤホン自体やバッテリーケースのバッテリー容量は減少します。これは、ワイヤレス充電に対応するための仕様変更だと思われます。なお、内蔵ストレージは8GBで、IPX2の防水性能に対応するようです。
+
+サムスンは2月20日にイベントを開催し、新型スマートフォン「Galaxy S10」と同時にGalaxy Watch ActiveやGalaxy Buds、そしてフィットネスバンド「Galaxy Fit / Fit e」を発表することが予測されています。すでに市場で人気を博している米アップルの「Apple Watch」や「AirPods」とどのような差別化を図るのかが、注目されることでしょう。
+
+ 
+
+ ]]></description>
+			<pubDate>Sun, 17 Feb 2019 04:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
