@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】筆まめ、おつきあいノートVer.1.01アップデートプログラム</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1170767.html</link>
-			<description><![CDATA[<div><div><p>　<a href="https://fudemame.net/" class="n" target="_blank">筆まめ</a>は、おつきあいノートVer.1.01アップデートプログラムを公開した。</p></div></div>]]></description>
-			<pubDate>Wed, 20 Feb 2019 20:10:39 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】NEC DS、MultiSyncR LCD-EA241F/LCD-EA241F-BK ドライバほか</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1170769.html</link>
 			<description><![CDATA[<div><div><p>　<a href="http://www.nec-display.com/jp/" class="n" target="_blank">NECディスプレイソリューションズ</a>は、MultiSyncR LCD-EA241F/LCD-EA241F-BK ドライバほかを公開した。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1170895.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1170/895/01_o.jpg"></div></div><span class="caption">LMC-SD(64GBモデル)</span></div></div></div></div><p>　<a href="https://www.logitec.co.jp/inas/" class="n" target="_blank">ロジテックINAソリューションズ株式会社</a>は、耐久性に優れたSDカード「LMC-SD」シリーズおよびmicroSDカード「LMC-MSD」シリーズを発売した。</p><p>　容量はSD/microSDカードともに16GB/32GB/64GBの3モデルが展開される。価格はオープンプライスで、直販価格はそれぞれ容量順に、LMC-SDシリーズが1,180円/1,880円/3,580円、LMC-MSDシリーズが1,580円/2,780円/5,780円。</p><p>　-25℃～85℃の静電耐性、耐X線性、耐衝撃性を備えたSD/microSDカード。microSDカードについてはIPX7準拠の耐水性も備える。MLCフラッシュを採用し長寿命を実現したとする。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1170/895/02_o.jpg"></div></div><span class="caption">LMC-MSD(64GBモデル)</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Thu, 21 Feb 2019 16:42:37 +0900</pubDate>
+		</item>
+		<item>
+			<title>【やじうまPC Watch】NASA、宇宙での新通信手段となる「X線通信」をISS上で実験</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1170974.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1170/974/01_o.jpg"></div></div><span class="caption">X線送信機</span></div></div></div></div><p>　<a href="https://www.nasa.gov/" class="n" target="_blank">米NASA</a>は2月19日(現地時間)、深宇宙での新たな通信技術として“X線通信”の実験を、国際宇宙ステーション(ISS)で今春に行なうと発表した。</p><p>　現在、宇宙探査機と地球との間でのやり取りには無線通信が使われているが、データレートが高く一度に多くの送信が行なえるレーザー通信技術も登場してきている。</p><p>　そして、今回実験が行なわれるX線通信(XCOM : X-ray communications)はさらなる優位性を持っており、波長が1pmから10nm程度と、赤外線や無線よりもさらに短いため、同じ電力量でより多くのデータを送信でき、狭ビームによって少ないエネルギーでも広範囲の通信が行なえる。深宇宙において現在では達成できていない数Gbpsのデータレートが実現できる可能性がある。</p><p>　XCOMの実験に使われるMXS(Modulated X-ray Source)は、X線パルスを速射生成し、1秒間でのオン/オフを何度も行なうことで、デジタル信号として機能させる。MXSが変調したX線を送信し、ISS近くに設置されている中性子星からの重力/電磁気などを測定するNICER(Neutron star Interior Composition Explorer)の検出器がその信号を受信する。</p><p>　NASAは今回の実験が成功すれば、X線通信の技術に注目が集まるだろうとしている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1170/974/02_o.jpg"></div></div><span class="caption">ISS上にX線送信機と受信機を設置</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 21 Feb 2019 17:37:26 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
