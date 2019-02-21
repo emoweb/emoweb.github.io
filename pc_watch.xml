@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>本日みつけたお買い得品NTT-X、ベンキュー製27型WQHD液晶を3万円切りの特価販売</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/todays_sales/1170751.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1170/751/01.jpg"></div></div><span class="caption">EW2770QZ</span></div></div></div></div><p>　NTT-X Storeは、ベンキュー製27型WQHD液晶ディスプレイ「EW2770QZ」を、期間/台数限定特価にて販売している。</p><p>　EW2770QZは、2,560×1,440ドット表示対応の27型IPSパネルを搭載したディスプレイ。表示色数約1,677万色、輝度350cd/平方m、コントラスト比1,000:1、視野角は上下/左右とも178度。</p><p>　通常42,400円のところ、期間限定で12,600円引きのクーポン適用で29,800円にて購入できる。</p><div><div><div><div><span class="title">NTT-X Storeで購入する</span></div></div><div></div><div><div><div><div><a href="https://nttxstore.jp/_II_BQ15789474?LID=PCW&amp;FMID=PCW" rel="nofollow"><img src="https://pc.watch.impress.co.jp/img/watch/parts/icon/loading.png" class="resource" style="width:320px;" id="s1_l.jpg" ajax="/img/pcw/docs/1170/751/s1_l.jpg"></a></div></div><span class="caption"><a href="https://nttxstore.jp/_II_BQ15789474?LID=PCW&amp;FMID=PCW">EW2770QZ</a></span></div></div></div></div></div></div>]]></description>
-			<pubDate>Wed, 20 Feb 2019 19:24:09 +0900</pubDate>
-		</item>
-		<item>
-			<title>JEDEC、低消費電力版DDR5メモリ「LPDDR5」規格を公開 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1170748.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1170/748/01_o.jpg"></div></div></div></div></div></div><p>　メモリなどの半導体の標準規格を策定している団体の<a href="https://www.jedec.org/" class="n" target="_blank">JEDEC Solid State Technology Association</a>は、低消費電力動作版の次世代DRAMである「LPDDR5」規格を公開した。</p><p>　前世代のLPDDR4規格と比較した場合、データ転送速度は2倍の6,400MT/secになり、スマートフォンやタブレット、薄型のノートPCなどの性能向上に寄与するという。</p><p>　低電力化のために追加された機能がいくつかあり、なかでもData-Copy/Write-Xと称した低電力でのR/W機能でシステム全体の消費電力の低下が見込めるという。</p><p>　Data-Copyは、1本のI/Oピンに送信されたデータをほかのピンにコピーするようにデバイスに指示することにより、ほかのピンから再度データを転送する必要がなくなるもの。Write-Xは、特定のアドレスにオール0/オール1のどちらかを書き込むようにデバイスに指示し、SoCからLPDDR5デバイス側にデータを送信する必要がなくなるという。</p><p>　さらに、自動車などの信頼性や保守性が求められる製品への搭載も想定されており、ECC機能なども実装可能という。</p></div></div>]]></description>
-			<pubDate>Wed, 20 Feb 2019 19:41:04 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】アイ・オー、最大2GBの工業用CFカード</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1170763.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1170/763/01_o.jpg"></div></div><span class="caption">128MB/256MB/1GB/2GBを用意</span></div></div></div></div><p>　<a href="https://www.iodata.jp/" class="n" target="_blank">株式会社アイ・オー・データ機器</a>は、過酷な温度環境可でも使用可能な工業用のCFカード「CFU-IVR」シリーズを3月中旬に発売する。容量は128MB/256MB/1GB/2GBを用意し、税別価格はそれぞれ5,100円/8,500円/17,600円/29,900円。</p><p>　産業用途モデルとして-40℃～85℃の過酷な動作環境を保証したモデル。コントローラーにはTDKのGBDriverを搭載し、ブロックの使用頻度を均一化する書き込み分散化機能や書き込みエラー防止機能などを実装している。</p></div></div>]]></description>
@@ -123,6 +111,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1170909.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1170/909/01_o.jpg"></div></div><span class="caption">CY-AR8B45A-FM</span></div></div></div></div><p>　<a href="https://www.ark-pc.co.jp/" class="n" target="_blank">株式会社アーク</a>は、ASRock製高耐久マザーボード「Steel Legend」を使用したゲーミングPC「CY-AR8B45A-FM」を22日より発売する。価格は198,800円から。</p><p>　Steel LegendはAMD B450チップセットを搭載したマザーボード。高品質な部品やアルミ合金ヒートシンク、スチールによって強化されたPCI Expressスロットなどを備え、耐久性を高めている。ケースにはFractal Design製「Meshify C TG White」を採用した。</p><p>　ベースモデルのおもな仕様は、CPUがRyzen 7 2700X(8コア/3.7GHz)、メモリがDDR4-2666 8GB×2、ビデオカードがMSI GeForce RTX 2070 AERO 8G、ストレージが512GB M.2 NVMe SSD、電源がCyonic AU-650X(650W 80PLUS GOLD認証取得)、OSにはWindows 10 Homeを搭載する。</p></div></div>]]></description>
 			<pubDate>Thu, 21 Feb 2019 14:49:59 +0900</pubDate>
+		</item>
+		<item>
+			<title>MSI、フルHD/144Hz対応の23.6型湾曲ゲーミングディスプレイ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1170932.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1170/932/01_o.jpg"></div></div><span class="caption">MAG241CR</span></div></div></div></div><p>　<a href="https://jp.msi.com/" class="n" target="_blank">MSI</a>は、湾曲型ゲーミングディスプレイ「Optix MAG」シリーズから、新たに23.6型液晶ディスプレイ「MAG241CR」および「MAG241CVJP」の2製品を23日より発売する。税別店頭予想価格はそれぞれ30,800円前後、26,800円前後の見込み。</p><p>　MAG241CRは曲率1,500Rの湾曲液晶を採用した、フルHD(1,920×1,080ドット)解像度対応のゲーミングディスプレイ。144Hzのリフレッシュレートをサポートし、応答速度は1ms(MPRT)を実現した。</p><p>　液晶パネルにVAパネルを採用し、sRGB比115%、NTSC比100%の色域への対応を謳う。Adaptive SyncおよびFreeSyncもサポートする。本体背面にはMystic Light対応のRGB LEDを備え、自由に発光させることが可能なほか、ディスプレイ設定や制御を外部から行なえる「GAMING OSD APP」(Windows)や「MSI Remote Display」(Android)に対応する。</p><p>　おもな仕様は、輝度が300cd/平方m、コントラスト比が3000:1、視野角が上下/左右ともに178度。インターフェイスはHDMI 1.4×2、DisplayPort 1.2、USB 2.0×3(うち1基Type-B、PC接続用)、音声出力。スタンドは高さおよび角度の調整に対応し、VESAマウントも備える。</p><p>　本体サイズは536×231×531mm(幅×奥行き×高さ)、重量は4.2kg。</p><p>　MAG241CVJPは、MAG241CRの廉価版の位置づけとなり、Mystic Light非搭載でスタンドが角度のみ調節可能なモデル。本体の高さは412mm、奥行き225mmで、そのほかの仕様についてはMAG241CRと共通となる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1170/932/02_o.jpg"></div></div><span class="caption">MAG241CVJP</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 21 Feb 2019 15:35:39 +0900</pubDate>
+		</item>
+		<item>
+			<title>ビューソニック、HDR対応でAdobeRGB 99%/DRI-P3 95%の27型4K液晶 ～ハードウェアキャリブレーション対応</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1170927.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1170/927/01.jpg"></div></div><span class="caption">VP2785-4K</span></div></div></div></div><p>　<a href="https://www.viewsonic.com/jp/" class="n" target="_blank">ビューソニックジャパン株式会社</a>は、27型4K液晶ディスプレイ「VP2785-4K」を22日より発売する。価格はオープンプライスで、店頭予想価格は99,800円前後の見込み。</p><p>　AH-IPSパネルを採用し、sRGB/Rec709カバー率100%、Adobe RGBカバー率99%、DCI-P3カバー率95%の広色域かつ、Delta E&lt;2の高い色再現性を謳った液晶ディスプレイ。</p><p>　HDR10コンテンツの表示や、ハードウェアキャリブレーションにも対応し、内蔵する高度なバックライトセンサーで一貫した輝度とガンマ値による表示を行なえるとしている。</p><p>　画面解像度は3,840×2,160ドット、表示色数は約10.7億色、中間色応答速度5ms、輝度350cd/平方m、コントラスト比1,000:1(拡張時2,000万:1)、視野角は上下/左右とも178度。</p><p>　入力インターフェイスはUSB Type-C、DisplayPort 1.4、Mini DisplayPort 1.4、HDMI 2.0×2。3ポートのUSB 3.0 HubとKVMスイッチ機能も備える。</p><p>　本体サイズは612×215×546mm(幅×奥行き×高さ)で、重量は約6.3kg。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1170/927/02.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1170/927/03.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 21 Feb 2019 15:41:26 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
