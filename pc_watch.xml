@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】エプソン、FF-680W EPSON Scan2 (スキャナードライバー)ほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1171023.html</link>
-			<description><![CDATA[<div><div><p>　エプソンは、FF-680W EPSON Scan2 (スキャナードライバー)ほかを公開した。</p></div></div>]]></description>
-			<pubDate>Thu, 21 Feb 2019 19:36:49 +0900</pubDate>
-		</item>
-		<item>
-			<title>【ニュース・フラッシュ】リコー、RICOH Pro C901-C901S_V1.1用 PPDインストーラー Ver.1.1.6ほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1171022.html</link>
-			<description><![CDATA[<div><div><p>　リコーは、RICOH Pro C901-C901S_V1.1用 PPDインストーラー Ver.1.1.6ほかを公開した。</p></div></div>]]></description>
-			<pubDate>Thu, 21 Feb 2019 19:37:22 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】EIZO、かんたん写真プリント色合わせツール Quick Color Match 2.1.3</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1171021.html</link>
 			<description><![CDATA[<div><div><p>　EIZOは、かんたん写真プリント色合わせツール Quick Color Match 2.1.3を公開した。</p></div></div>]]></description>
@@ -123,6 +111,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1171128.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1171/128/01_o.jpg"></div></div><span class="caption">KB-T6A-CBシリーズ(ブルー)</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/" class="n" target="_blank">サンワサプライ株式会社</a>は、コネクタの付属しないCAT6A対応自作用LANケーブル「KB-T6A-CB」シリーズを発売した。本体色はブルーとホワイトの2種類。長さによって価格が異なり、100mのものが20,304円、300mのものが57,024円。</p><p>　10GBASE-Tに対応するLANケーブル。ケーブルは段ボールの中に丸めて収納されており、必要な長さを引き出して使用する。屋内でも使いやすい難燃性素材を採用するほか、信号線同士の電磁波干渉を防ぐ十字介在をケーブル内に備える。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1171/128/02_o.jpg"></div></div><span class="caption">ケーブル内部</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Fri, 22 Feb 2019 12:43:41 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google、極低温環境で動作し、1,000倍低消費電力な量子ビットコントローラ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1171152.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1171/152/1_o.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.google.co.com/" class="n" target="_blank">Google</a>のAI Quantumチームは21日(現地時間)、ISSCC 2019において、既存コントローラの1,000分の1の消費電力で動作する量子ビットコントローラを発表した。</p><p>　現在Googleが試作した量子コンピュータは72量子ビットとなっているが、試算によれば、第1世代量子コンピュータの量子ビットエラー訂正には100万個の量子ビットが必要とされており、大きな隔たりがある。</p><p>　量子ビットをスケーラブルに増加させる取り組みにおけるこれまでの課題の1つは、量子ビット制御の高品位を維持しつつ、室温環境で動作するアナログコントローラから、温度が3ケルビンのクライオスタット(極低恒温槽)までの入力/出力制御ラインを減らすことだ。</p><p>　現在Googleの研究室での量子プロセッサ「Bristlecone」は、ギガヘルツ周波数のアナログ制御信号で量子ビットのもつれを発生させ、その計算結果を測定することでプログラムを実行している。1量子ビットあたり2本の同軸ケーブルを用いる必要があり、72量子ビットのBristleconeでは、合計144本のケーブルが必要となる。よって、Googleが目指す100万量子ビットの実現には、さらなる統合アプローチを取る必要があった。</p><p>　デジタルからアナログ制御への変換部を、量子プロセッサに近い極低恒温槽内に持ち込めば線の数は減るが、現在室温で動作しているD/A波形ジェネレータは、1量子ビットあたり1W程度の消費電力となっている。しかし、極低恒温槽が3ケルビンを維持できる冷却熱はわずか0.1Wで、D/A波形ジェネレータをもし低恒温槽内に持ち込むとなると、冷却性能を1,500倍に引き上げなければならず、現実的ではない。</p><p>　Googleが今回開発したのは、商用CMOS技術を使って作られた、3ケルビンの低温環境で動作する量子ビットコントローラ。サイズは1×1.6mmで、消費電力は2mW未満。1つの量子ゲートを操作する命令セットを備え、室温のデバイスとはデジタルで通信し、1量子ビットをアナログ操作できる。</p><p>　今回Googleはマサチューセッツ大学のJoseph Bardin教授と共同でカスタムICを開発した。現在ほとんどのCMOSは300ケルビンで動作するなか、今回開発したものは3ケルビンで、消費電力は2mW以下になるようデザインした。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1171/152/2_o.jpg"></div></div><span class="caption">今回Googleが開発したのは極低温環境において超低消費電力で動作する量子ビットコントローラ</span></div></div></div></div><p>　実験によれば、T1、Rabi振動、シングル量子ゲートなどの性能は、現在室温で動作しているデバイスと同等の性能を示しているという。ただ、現時点では単一の量子ビットしか対応できていないほか、いまだ室温環境への接続が必要である。さらに、1量子ビットゲートのエラー率の定量化も図る必要があるのも課題で、Googleは今後も量子ビット制御に必要なエネルギーを今後も削減しつつ、高品位な量子ビット制御の開発に取り組むとしている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1171/152/3_o.jpg"></div></div><span class="caption">一般的な量子コントローラと同等の性能を示した</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Fri, 22 Feb 2019 13:27:52 +0900</pubDate>
+		</item>
+		<item>
+			<title>WD、MTBF最大250万時間のエンタープライズ向けHDD ～WD GoldとUltrastarがブランド統合</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1171160.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1171/160/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.tekwind.co.jp/" class="n" target="_blank">テックウインド株式会社</a>は、Western Digital製のエンタープライズ向け3.5インチHDD「Western Digital Ultrastar SATA」シリーズを発売した。容量ラインナップは1TB/2TB/4TB/6TB/8TB/10TB/12TB/14TBで、価格はすべてオープンプライス。</p><p>　Western Digitalブランドの「WD Gold」とHGSTブランドの「Ultrastar」を統合したエンタープライズ向けのHDDシリーズ。年間のワークロード率は最大550TB、MTBF(平均故障間隔)は1TB～8TBモデルで200万時間、10TB～14TBモデルで250万時間を実現した。</p><p>　線形振動と回転振動をリアルタイムに補正する「RVS(Rotational Vibration Safeguard)」や、ヘッドの位置を高精度で調整する「デュアルステージアクチュエータテクノロジー」を搭載。10TB～14TBモデルではヘリウムをHDD内に封入して回転時の抵抗を軽減する独自技術「HelioSeal」も採用する。</p><p>　インターフェイスはSATA 6Gbps、回転速度は7,200rpm、データ転送速度は184～267MB/s(容量によって異なる)。</p></div></div>]]></description>
+			<pubDate>Fri, 22 Feb 2019 13:58:04 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
