@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】市川ソフトラボラトリー、SILKYPIX JPEG Photography 9 Ver.9.2.7.1</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1171020.html</link>
-			<description><![CDATA[<div><div><p>　市川ソフトラボラトリーは、SILKYPIX JPEG Photography 9 Ver.9.2.7.1を公開した。</p></div></div>]]></description>
-			<pubDate>Thu, 21 Feb 2019 19:39:15 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】ニコン、「D750 Ver. 1.15」「D610 Ver. 1.04」「D600 Ver. 1.04」用ファームウェア</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1171019.html</link>
 			<description><![CDATA[<div><div><p>　ニコンは、「D750 Ver. 1.15」「D610 Ver. 1.04」「D600 Ver. 1.04」用ファームウェアを公開した。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1171172.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1171/172/01_o.jpg"></div></div><span class="caption">CG3VP(240GBモデル)</span></div></div></div></div><p>　<a href="http://www.cfd.co.jp/" class="n" target="_blank">CFD販売株式会社</a>は、SATA接続のSSD「CG3VX」シリーズを3月上旬より発売する。容量ラインナップは240GB/480GB/960GBで、価格はすべてオープンプライス。</p><p>　従来モデル「CG3VP」からランダムアクセス性能を改善し、3D NAND TLCフラッシュを採用するSSD。圧縮技術「Smart ZIP」を搭載し、書き込み時の効率化と耐久性の向上を図った。</p><p>　接続インターフェイスはSATA 6Gbps。連続書き込み速度は510MB/s、連続読み込み速度は550MB/s、ランダム書き込み速度は90,000IOPS(240GBモデルは89,000IOPS)、ランダム読み込み速度は82,000IOPS。</p></div></div>]]></description>
 			<pubDate>Fri, 22 Feb 2019 14:29:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>WD、UFS 3.0準拠の組み込み向け高速フラッシュ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1171159.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1171/159/01.jpg"></div></div><span class="caption">iNAND MC EU511</span></div></div></div></div><p>　米<a href="https://www.westerndigital.com/ja-jp" class="n" target="_blank">Western Digital</a>は21日(米国時間)、組み込み向けフラッシュドライブ「iNAND MC EU511」を発表した。</p><p>　同社の96層3D NANDフラッシュを採用した製品で、スマートフォンなどへの組み込みを想定したフラッシュメモリドライブ。</p><p>　Universal Flash Storage(UFS) 3.0 Gear 4/2レーンをサポートし、「iNAND SmartSLC Generation 6」により、最大750MB/sのターボシーケンシャルライトを実現。シーケンシャルリードは前世代モデルの約2倍、ランダムリード/ライトは前世代比75%/25%向上を謳う。</p><p>　容量は64GBから512GBを用意し、同社ではOEM向けにサンプル出荷を開始している。</p></div></div>]]></description>
+			<pubDate>Fri, 22 Feb 2019 15:23:05 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
