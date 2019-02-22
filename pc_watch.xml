@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】EIZO、かんたん写真プリント色合わせツール Quick Color Match 2.1.3</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1171021.html</link>
-			<description><![CDATA[<div><div><p>　EIZOは、かんたん写真プリント色合わせツール Quick Color Match 2.1.3を公開した。</p></div></div>]]></description>
-			<pubDate>Thu, 21 Feb 2019 19:38:08 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】市川ソフトラボラトリー、SILKYPIX JPEG Photography 9 Ver.9.2.7.1</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1171020.html</link>
 			<description><![CDATA[<div><div><p>　市川ソフトラボラトリーは、SILKYPIX JPEG Photography 9 Ver.9.2.7.1を公開した。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1171160.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1171/160/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.tekwind.co.jp/" class="n" target="_blank">テックウインド株式会社</a>は、Western Digital製のエンタープライズ向け3.5インチHDD「Western Digital Ultrastar SATA」シリーズを発売した。容量ラインナップは1TB/2TB/4TB/6TB/8TB/10TB/12TB/14TBで、価格はすべてオープンプライス。</p><p>　Western Digitalブランドの「WD Gold」とHGSTブランドの「Ultrastar」を統合したエンタープライズ向けのHDDシリーズ。年間のワークロード率は最大550TB、MTBF(平均故障間隔)は1TB～8TBモデルで200万時間、10TB～14TBモデルで250万時間を実現した。</p><p>　線形振動と回転振動をリアルタイムに補正する「RVS(Rotational Vibration Safeguard)」や、ヘッドの位置を高精度で調整する「デュアルステージアクチュエータテクノロジー」を搭載。10TB～14TBモデルではヘリウムをHDD内に封入して回転時の抵抗を軽減する独自技術「HelioSeal」も採用する。</p><p>　インターフェイスはSATA 6Gbps、回転速度は7,200rpm、データ転送速度は184～267MB/s(容量によって異なる)。</p></div></div>]]></description>
 			<pubDate>Fri, 22 Feb 2019 13:58:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>CFD、TLCフラッシュ採用のSATA SSD </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1171172.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1171/172/01_o.jpg"></div></div><span class="caption">CG3VP(240GBモデル)</span></div></div></div></div><p>　<a href="http://www.cfd.co.jp/" class="n" target="_blank">CFD販売株式会社</a>は、SATA接続のSSD「CG3VX」シリーズを3月上旬より発売する。容量ラインナップは240GB/480GB/960GBで、価格はすべてオープンプライス。</p><p>　従来モデル「CG3VP」からランダムアクセス性能を改善し、3D NAND TLCフラッシュを採用するSSD。圧縮技術「Smart ZIP」を搭載し、書き込み時の効率化と耐久性の向上を図った。</p><p>　接続インターフェイスはSATA 6Gbps。連続書き込み速度は510MB/s、連続読み込み速度は550MB/s、ランダム書き込み速度は90,000IOPS(240GBモデルは89,000IOPS)、ランダム読み込み速度は82,000IOPS。</p></div></div>]]></description>
+			<pubDate>Fri, 22 Feb 2019 14:29:04 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
