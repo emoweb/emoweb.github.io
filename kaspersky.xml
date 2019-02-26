@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>銀行取引用コードの不正傍受で預金が引き出される可能性</title>
-			<link>https://blog.kaspersky.co.jp/ss7-hacked/22358/</link>
-			<description><![CDATA[銀行取引用の2段階認証コードを盗むため、通信プロトコルSS7がハッキングされた事例について。]]></description>
-			<pubDate>Thu, 07 Feb 2019 04:00:54 +0000</pubDate>
-		</item>
-		<item>
 			<title>SOCスタッフの燃え尽き症候群</title>
 			<link>https://blog.kaspersky.co.jp/soc-burnout/22330/</link>
 			<description><![CDATA[単調な仕事による燃え尽き症候群は、社員にとってだけでなく企業全体にとっての問題です。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/spearphishers-information/22407/</link>
 			<description><![CDATA[誰でも利用できる情報源だけを使用して、個人に関する情報をどのくらい集められるのでしょうか？]]></description>
 			<pubDate>Fri, 22 Feb 2019 01:00:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>超人気ユーチューバーからDMが来た！――それ、たぶんフィッシングです</title>
+			<link>https://blog.kaspersky.co.jp/youtube-phishing-scam/22426/</link>
+			<description><![CDATA[人気ユーチューバーになりすまし、メッセージを大勢に送り付けるタイプのフィッシング詐欺があります。どんな仕組みなのか見てみましょう。]]></description>
+			<pubDate>Tue, 26 Feb 2019 01:00:27 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
