@@ -5,19 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    App Storeの定期購読アプリ、割引価格で解約ユーザーの再勧誘が可能に。iOS、macOSおよびtvOSが対象
-</title>
-			<link>https://japanese.engadget.com/2019/02/26/app-store-ios-macos-tvos/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-02%2F2b3ef290-3985-11e9-99bb-849905211c80&client=a1acac3e1b3290917d92&signature=86e3f65cf2ea0d6d754836a56343af14d4b3a3c9" />
-ymgerman via Getty Images
-
-アップルのiOS、macOSおよびtvOSの定期購読アプリについて、まもなく開発者が過去に解約したユーザーに対して割引価格を提供して再勧誘できるようになることが明らかとなりました。
-
-これは先日、開発者向けiOS 12.2ベータ3にて発見が報告されていたもの。そちらはiOSのみに限られていましたが、アップルの他のApp Storeでも提供されるかたちです。
- ]]></description>
-			<pubDate>Tue, 26 Feb 2019 01:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>Sponsored By Zoff :     壊れにくいのに軽くてしなやか。「Zoff SMART」は一日中かけても心地よい、魔法のようなメガネなんです
 </title>
 			<link>https://japanese.engadget.com/pr/zoff-smart/</link>
@@ -812,6 +799,33 @@ Bloomberg via Getty Images
 ポルシェが次期型「マカン」は「完全な電気自動車になる」と26日に宣言しました。発売時期は2020年代の初期になる見込み。ポルシェの電気自動車としては、2019年内に発売される「タイカン」とその派生モデルでワゴン型の「タイカン クロスツーリスモ」に続く3番目のモデルになる予定です。生産は現行マカンと同じドイツ・ライプツィヒ工場で行われます。
  ]]></description>
 			<pubDate>Wed, 27 Feb 2019 01:50:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    GoogleドキュメントのAI文法チェッカーが正式版に。G Suiteユーザー向けに3月から提供開始
+</title>
+			<link>https://japanese.engadget.com/2019/02/27/google-ai-g-suite-3/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-02%2F7a9bcd60-3a4b-11e9-bfe7-6b1b5599f1cb&client=a1acac3e1b3290917d92&signature=e74078f2616d35d81a0427111b82d5d172c62faa" />
+Googleが、クラウド型生産性向上グループウェア「G Suite」に含まれるGoogle Docsで、AIによる文法チェック機能「Grammar Suggestions in Docs」の正式提供を発表しました。
+
+一般的なスペルチェックはすでに提供されていますが、Grammar Suggestionsは読んで字のごとく文法の誤りをチェックし修正候補を提案します。たとえば、affectとeffect、thereとtheirなど、単語としては正しくとも文法上その使用が誤りなら、青い下線でミスを指摘し、修正候補を提示します。
+
+2018年7月にG Suiteのアーリーアダプタプログラムで提供されていたもので、3月5日からはG Suite Basic/Business/Enterprise、G Suite for Educationのユーザーが利用可能になるとのことです。
+
+ 
+関連記事：
+Google、AIで文法をチェックするGrammar Suggestionsを発表
+
+辞書と照らし合わせれば正誤がはっきりする単語と違い、文法が正しいかどうかの判断は難しいものです。Googleによれば、プロの言語学者でさえ4回に1回は修正内容の意見が一致しないとのことです。
+
+この問題を解決するため、Googleは機械翻訳を利用しています。言語学者と密接に協力して正しい文法の文章をAIに学習させ、そのモデルを利用してユーザーの書いた文章を正しい文法の文章に翻訳するわけです。
+
+仕組み的には英語以外にも対応できそうですが、他言語への適用は今のところ不明。また、G Suite以外の一般ユーザーへの提供についても情報はありません。
+
+こういった技術が発展していく先には、やはりAIによる自動作文が待っているのかもしれません。
+ 
+
+ ]]></description>
+			<pubDate>Wed, 27 Feb 2019 02:50:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
