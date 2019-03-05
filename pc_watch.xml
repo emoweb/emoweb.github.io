@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>Broadwell以前でも性能低下がほぼない「Spectre V2」対策がWindows 10に実装へ </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1172863.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1172/863/1_o.jpg"></div></div><span class="caption">Broadwell CPU</span></div></div></div></div><p>　米Microsoftは1日(現地時間)、CPU投機実行の脆弱性の1つであるSpectre V2について、Broadwell以前のプロセッサでも性能ロスを最小限に抑えながら脆弱性を緩和する対策「retpoline」を、Windows 10バージョン1809(October 2018 Update)に実装すると発表した。</p><p>　Spectre V2はCPUの間接的な分岐を悪用して、より高い特権のコンテキストにある情報を盗み取るもの。</p><p>　これまでの緩和策は、CPUマイクロコードの更新によって実装された新しい機能によって、カーネルモード内での実行時に間接的な分岐の推測を制限する(IBRSおよびIBPB)ものだった。これはセキュリティ的には効果的であるが、特定のプロセッサやワークロードでは性能が大幅に低下する問題があった。</p><p>　このため2018年初頭から代替案が考えられてきており、そのなかでもGoogleのretpolineというアプローチは有望視されている。簡単に言えば、retpolineはカーネルモードバイナリにあるすべての間接コールまたはジャンプ命令を、安全な投機的振る舞いをする関節分岐シーケンスに置き換えることで機能する。</p><p>　この構造は一般的な間接コールやジャンプ命令ほど速くはないが、プロセッサが危険な投機的実行をしないという副作用がある。この場合、分岐投機を制限してカーネルモードコードで実行するよりもはるかに高速で、Googleによれば、retpolineによる性能低下は「ノイズ」レベルであるという。</p><p>　ただしWindowsでは、互換性やデバイスドライバなどの問題から、安易にretpolineを実装せず、Microsoftはまずインサイダー向けに、64bit版のWindows 10 Insider Preview Build 18272以降でretpolineを実装した。</p><p>　その結果、Officeアプリケーションの起動が25%短縮したほか、Broadwell CPUにおけるDiskspdベンチマークおよびNTttcpベンチマークで、1.5倍から2倍のスループット向上が達成できたという。</p><p>　当初は、この機能を次期リリース(19H1)で実装する予定だったが、現在稼働中のWindows 10でretpolineをサポートできるようバックポートし、Windows 10 1809で利用できるようにした(KB4482887)。今後、順次有効にしていくという。</p><p>　ただ、実装の複雑さと変更のため、Windows 10 1809でのみretpolineを有効にするほか、RET命令が間接分岐予測子の内容に基づいて推測しないプロセッサでのみ安全に使用できることから、Broadwell以前のIntelプロセッサ、およびすべてのAMDプロセッサ環境にのみ適用し、IntelのSkylake以降のプロセッサ環境ではretpolineを適用しないとしている。</p></div></div>]]></description>
-			<pubDate>Mon, 04 Mar 2019 19:41:24 +0900</pubDate>
-		</item>
-		<item>
 			<title>日本マイクロソフト、製品対応状況など改元情報をまとめた法人向け特設サイト </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1172869.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1172/869/01.png"></div></div><span class="caption">経済産業省主催「改元に伴う情報システム改修等への対応についての全国説明会」で配布された日本マイクロソフトのスライド資料</span></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">日本マイクロソフト株式会社</a>は、新元号対応についての同社の取り組みについて、<a href="https://www.microsoft.com/ja-jp/mscorp/newera/default.aspx" class="n" target="_blank">特設サイト</a>を公開した。</p><p>　法人向けに公開されたもので、サイト内には同社製品の新元号対応に関する情報がまとめられており、新元号の名称が公表されるまでに、法人顧客に行なってほしいことなども掲載されている。</p><p>　また同サイト内でもリンクされている、経済産業省主催の「改元に伴う情報システム改修等への対応についての全国説明会」の<a href="http://www.meti.go.jp/press/2018/02/20190207002/20190207002.html" class="n" target="_blank">情報ページ</a>では、経済産業省、情報処理推進機構、日本マイクロソフトそれぞれの配布資料が公開されており、こちらも参照されたい。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1172/869/02.png"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1172/869/03.png"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1172/869/04.png"></div></div></div></div></div></div></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1173004.html</link>
 			<description><![CDATA[<div><div><p>　かつてASRockの製品やUMAXのメモリを取り扱っていたことで有名なPCパーツ代理店、マスタードシード株式会社が、債務整理に入ったとこが明らかとなった。</p><p>　帝国データバンクによると、同社は好調であった2016年に売上高約51億4,900万円を計上していたが、取引先との関係変化などから財務内容が大幅に悪化し、2018年頃から金融機関に対する返済遅延が生じた。支援を要請して再建を模索してきたが不調に終わり、事業継続を断念したという。</p><p>　3月4日までに事業を停止しており、債務整理を弁護士に一任している。負債は2017年12月期末時点で約18億5,500万円程度とみられる。</p></div></div>]]></description>
 			<pubDate>Tue, 05 Mar 2019 14:52:02 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】ドスパラ、最大1万5千円分のポイントプレゼントキャンペーン</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1173022.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1173/022/01_o.jpg"></div></div></div></div></div></div><p>　株式会社サードウェーブが展開する<a href="https://www.dospara.co.jp/" class="n" target="_blank">ドスパラ</a>では、対象のPCパーツを購入したユーザーに、最大で15,000円分のポイントをプレゼントする「ドスパラウルトラSALE」を開催している。期間は3月11日まで。</p><p>　期間中にCPUやメモリなどのPCパーツをまとめて40,000円以上購入すると、最大5倍のポイントが付与されるキャンペーン。加えて、モバイル会員に新規登録した場合は、5,000円分のポイントがプレゼントされる。ただし、プレゼントされるポイントの上限は合計15,000円分までとなる。</p><p>　キャンペーンの詳細については特設ページを参照されたい。</p></div></div>]]></description>
+			<pubDate>Tue, 05 Mar 2019 15:50:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
