@@ -5,55 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Facebook、二段階認証に使う電話番号でユーザー検索可能。しかもオプトアウト不可と指摘
-</title>
-			<link>https://japanese.engadget.com/2019/03/04/facebook/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2Fa82f8330-3ef0-11e9-bf36-599b55b8e500&client=a1acac3e1b3290917d92&signature=960465665894b80219ac13d5d0f3d67b8a984bd9" />Drew Angerer via Getty Images
-
-Facebookが二段階認証で登録させた電話番号からユーザーのプロフィールが検索可能で、しかもオプトアウト（無効にする）できないと判明したことが報じられています。
- ]]></description>
-			<pubDate>Mon, 04 Mar 2019 21:57:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    W3C、パスワードなしログインのWebAuthnを正式勧告。指紋などを使いログイン可能に
-</title>
-			<link>https://japanese.engadget.com/2019/03/04/w3c-webauthn/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2Ffad39040-3ee6-11e9-be5b-9abbc499a238&client=a1acac3e1b3290917d92&signature=9ee36087486fe33cb7ba2624962b29978da21825" />
-WEB技術の標準化を進めるWorld Wide Web Consortium（W3C）が、パスワード不要の新しいWeb認証APIであるWeb Authentication（WebAuthn）を正式勧告しました。これは、新しいオンライン認証技術の標準化を目指す非営利団体FIDOアライアンスと共同で策定を進めていたもので、2018年4月には勧告候補となっていました。
-
- 
-関連記事：
-指紋や顔認証がWebサイトで使える。W3Cが新しい認証仕様WebAuthnを勧告候補に
-
-従来、WEBサービスなどにログインするにはログイン名とパスワードを利用するのが一般的ですが、このパスワードの漏洩や使いまわしがセキュリティリスクとなっていました。
-
-このため、パスワードを用いない新しい認証方式として考案されたのがWebAuthnです。
-
-2要素認証でセキュリティキーを使うのに似ていますが、ユーザーはログイン時、パスワードの代わりにセキュリティキーやデバイスに内蔵の指紋センサーなどの生体認証を行います。なお、生体認証を行うと言っても、指紋などの情報をWEBサービスに直接保存するわけではありません。
-
-たとえば、あるサービスで指紋を登録する際、その指紋に対応した公開鍵暗号方式の秘密鍵と公開鍵が生成され、サービス側（サーバー側）には公開鍵のみが渡されます。秘密鍵はデバイス側に保存され、対応した指紋で認証した場合のみ取り出しが可能になります。
-
-このため、サーバーから情報（公開鍵）が漏洩しても、登録に使用したデバイスが無ければログインできないわけです。
-
-このときに利用されるデバイスもFIDO2に認証されたものでなければなりませんが、Androidは先日、OSとしてFIDO2認証を受けており、WebAuthnでも利用できます。
-
- 
-関連記事：
-AndroidがFIDO2認証を取得。生体認証で「パスワードなし」ログインが可能に
-
-すでにWindows 10やAndroid、Chrome OSなどのOS、Chrome、Edge、Firefox、SafariといったブラウザがWebAuthnをサポートしており、利用環境は整いつつあります。ただ、まだ利用できるサービス自体が少なく、今後のサポート拡大に期待したいところです。
-
- 
-関連記事：
-ヤフオク!などでAndroidのChromeから指紋認証ログインが可能に
-パスワードなし生体認証「FIDO」広がる、Yahoo!やLINEも対応
-
-
- 
- ]]></description>
-			<pubDate>Mon, 04 Mar 2019 22:20:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    Google、macOSの「重大な脆弱性」を公開。アップルは報告後90日の猶予経過後も修正をリリースできず
 </title>
 			<link>https://japanese.engadget.com/2019/03/04/google-macos-90/</link>
@@ -836,6 +787,40 @@ Quoraは「世界中の知識を共有し、広め深める」というミッシ
 そこで今回はQuora内でアンケートを取ってわかったユーザーの嗜好性や、Quoraの魅力や使い方などをお伝えできればなと思っています。
  ]]></description>
 			<pubDate>Tue, 05 Mar 2019 17:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Gmailでアーカイブしたメール、どこに行くか知ってますか？：Google Tips
+</title>
+			<link>https://japanese.engadget.com/2019/03/05/gmail-google-tips/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=565%2C417%2C0%2C0&quality=85&format=jpg&resize=1084%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-02%2Fd2864ea0-3b5f-11e9-957f-38c235ca3324&client=a1acac3e1b3290917d92&signature=848373f117a0eaaa42d2185e5af20052d08cd5cf" />
+日々、Gmailで大量のメールを受信している人は、設定したラベルごとにフォルダ分けをしたり、自動振り分け機能を利用したりするのが便利です。とはいえ、「フォルダに分けるほどでもないけれど、受信フォルダに溜まっていくのもいや。でも削除はしたくない......」なんてメールもなかにはあると思います。
+
+そんなときに役立つのが「アーカイブ」です。「アーカイブ」をクリックした瞬間に受信ボックスから姿を消してスッキリ。
+
+でもそのメール、一体どこに消えているのかご存知ですか？
+
+今回は、知っているようで知らない「アーカイブしたメールを確認する方法」をご紹介します。なお、検証はPCの画面で行っていますが、スマホからでも同様の手順で行えます。
+<p><a href="https://japanese.engadget.com/gallery/gmail-3/" title="アーカイブしたGmailの確認方法">【ギャラリー】アーカイブしたGmailの確認方法 (6枚)</a></p>
+ ]]></description>
+			<pubDate>Tue, 05 Mar 2019 18:20:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Samsung HealthにCalmの睡眠＆リラックス機能が追加
+</title>
+			<link>https://japanese.engadget.com/2019/03/05/samsung-health-calm/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F2f7dead0-3f22-11e9-beff-d0224ee3f52a&client=a1acac3e1b3290917d92&signature=ad7d5d856e1c8f968f2da3b3c84db750ed48599a" />
+
+韓国サムスンが提供する健康管理機能「Samsung Health」にて、本日よりマインドフルネス（瞑想の一種）やメディエーションを提供するサービス「Calm」が利用可能になりました。
+
+利用方法としては、Samsung Healthのマインドフルネス項目でCalmのアカウントをセットアップすることで、同サービスのメディエーション、睡眠、リラクゼーションプログラムが利用可能です。さらに、スマートウォッチ「Galaxy Watch Active」にてセッションの開始や停止、それにストレスレベルの追跡もできます。
+
+Calmは無料期間終了後にプランへの加入が必要ですが、この機能によりCalmのアプリをインストールしなくても、サービスが利用できるようになるのです。
+
+Samsung HealthでのCalmの機能はアメリカやイギリス、アイルランド、オーストラリア、香港、インド、ニュージーランド、フィリピン、シンガポール、そして南アフリカにて利用できます。
+
+ 
+ ]]></description>
+			<pubDate>Tue, 05 Mar 2019 19:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
