@@ -5,19 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ポケモンGO新イベント「バトルウィーク」開催。新技グロウパンチや色違い追加、ふしぎなアメ確定リワードも
-</title>
-			<link>https://japanese.engadget.com/2019/03/06/go/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F93b93410-3fcb-11e9-bfbe-e0db3a875751&client=a1acac3e1b3290917d92&signature=cc4407ef1777eb186bd2d68d51b9e1e8f26cc19d" />
-
-ポケモンGOで新イベント「バトルウィーク」が始まりました。かくとうタイプのポケモンが野生で多数出現するほか、トレーナーバトルで「ふしぎなアメ」が確定報酬に、色違いのワンリキー・マンキー出現、攻撃力向上の特殊効果つき新技「グロウパンチ」など、盛りだくさんの内容です。
-
-
- 
- ]]></description>
-			<pubDate>Wed, 06 Mar 2019 02:50:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    「スバル360」型Bluetoothスピーカー、5184円で販売開始
 </title>
 			<link>https://japanese.engadget.com/2019/03/06/360-bluetooth-5184/</link>
@@ -879,6 +866,17 @@ Fitbit Versa実機レビュー。低価格なのにスタイリッシュなス�
 <p><a href="https://japanese.engadget.com/gallery/fitbit-versa-lite/" title="Fitbit Versa Lite">【ギャラリー】Fitbit Versa Lite (9枚)</a></p>
  ]]></description>
 			<pubDate>Thu, 07 Mar 2019 02:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    将来のAndroidは運転免許証を兼ねる？開発者らがGoogleの「IdentityCredential API」を発見
+</title>
+			<link>https://japanese.engadget.com/2019/03/07/android-google-identitycredential-api/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F7a69f560-4095-11e9-b7bf-8b918c57a005&client=a1acac3e1b3290917d92&signature=09cc170a449239b8d153e900f1d9e0f3db3d491f" />
+米国の政府機関はながらく運転免許証など身分証明書と携帯電話の統合を模索してきましたが、たいていの場合に問題となって立ちはだかるのが、それを実現しようとするとプロプライエタリなアプリケーションや機器に頼らざるを得なくなるということ。そして十分なセキュリティが確保できるかということも課題となります。
+
+もし携帯電話を買い換える場合、いままでそのデバイスに入れていた個人情報はどのように扱われるのか、しっかりと消去して復元不能な状態にできるのか...？開発者フォーラムや独自のアプリストアを運営するXDAは、Googleがデジタル身分証明書を実現すべく、IdentityCredentialフレームワークの開発に取り組んでいると報じています。
+ ]]></description>
+			<pubDate>Thu, 07 Mar 2019 03:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
