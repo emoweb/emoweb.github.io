@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>人間には聞き取れない音を聞き取る音声アシスタント</title>
-			<link>https://blog.kaspersky.co.jp/ultrasound-attacks/22339/</link>
-			<description><![CDATA[超音波や背景雑音に潜ませた録音音声を使って音声アシスタントを操作する方法とは。]]></description>
-			<pubDate>Wed, 20 Feb 2019 01:00:58 +0000</pubDate>
-		</item>
-		<item>
 			<title>業者に聞きたいネットワーク関連5つの質問</title>
 			<link>https://blog.kaspersky.co.jp/internet-installer-questions/22444/</link>
 			<description><![CDATA[自宅のインターネット接続について知っておくべきこと。技術サポートに電話する手間を省くには、機会を捉えて専門知識を持った人に直接聞いておくのが早いです。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/winpot-atm-jackpotting/22617/</link>
 			<description><![CDATA[ATMがスロットマシンに変わる？現金の不正引き出しを可能にするWinPotというマルウェアが存在します。]]></description>
 			<pubDate>Wed, 06 Mar 2019 01:00:30 +0000</pubDate>
+		</item>
+		<item>
+			<title>スマート義手に支援の手を：ハッキングを阻止するKaspersky Labの取り組み</title>
+			<link>https://blog.kaspersky.co.jp/securing-prosthetic-arm/22661/</link>
+			<description><![CDATA[Kaspersky LabのエキスパートはMobile World Congress 2019で、Motorica製スマート義肢のセキュリティに関する調査結果を発表しました。]]></description>
+			<pubDate>Thu, 07 Mar 2019 01:00:58 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
