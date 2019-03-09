@@ -5,38 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    YouTubeに「ファクトチェック機能」　まずインドから提供
-</title>
-			<link>https://japanese.engadget.com/2019/03/07/youtube/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F2ad10100-4145-11e9-bf6c-26f75a7da80d&client=a1acac3e1b3290917d92&signature=875675812cb9c286f1e041bd41d268a0cd24b859" />
-YouTubeがフェイクニュース対策として、動画の検索結果にファクトチェックの情報を表示する機能を追加しました。まずインドで提供され、将来的には他の地域にも展開する予定とのこと。
-
-最近は情報を入手するために、WEBサイトなどのテキスト情報ではなく、YouTubeで検索する人も増えているようですが、当然ながら、YouTubeにアップロードされている動画にも事実とは異なる情報が含まれているものもあります。
-
-各種SNSのフェイクニュースに対する取り組みも頻繁に報じられていますが、YouTubeも早くから、これらの不適切な動画の対応に取り組んでいます。しかし、Googleが得意のAIを活用しているとはいえ、動画を個々にチェックするのは時間と労力がかかります。また、2月には、YouTubeが誤った情報広めているとの指摘もありました。
-
- 
-関連記事：
-「地球平面説」信者増加はYouTubeのせい？AIが陰謀論動画を好んで推奨する可能性、研究者が指摘
-
-そこでYouTubeは、個々の動画をチェックするのはではく、センシティブな内容を検索した際に、その情報の真偽を表示するエリアを追加しました。
-
-ファクトチェックは提携パートナーサイトが行い、その情報を表示します。フェイクニュースを含んだ動画も検索結果として表示されてしまいますが、最初にファクトチェックを表示することで、ユーザーに注意喚起を行う考えです。
-
-なお、パートナーサイトは能動的にYouTubeに対して情報提供をするわけではなく、そのサイトのニュース記事中に所定のコードを追加しておくとGoogleのWEBクローラーが検出するとのことです。
-
-
-
-たとえば、上位の画像は「virus in paracetamol」を検索した結果です。上部にインドのニュースメディアQuintの記事へのリンクと、ファクトチェックの結果が表示されています。インドでは2017年からSNSを中心に、パラセタモール（米国や日本ではアセトアミノフェン）の錠剤にボリビア出血熱のウィルスが混入しており、服用しないよう呼びかけるフェイクニュースが広まっているとのことです。
-
-動画に直接リンクされる場合には防げませんが、この方法であれば、検索から情報を入手しようとしている人には一定の効果が期待できそうです。
-
- 
-
- ]]></description>
-			<pubDate>Thu, 07 Mar 2019 23:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    任天堂、『過度な課金はブランド損なう』提携先に要請　あくまで主力はゲーム専用機
 </title>
 			<link>https://japanese.engadget.com/2019/03/07/nintendo/</link>
@@ -667,6 +635,19 @@ Eco-Drive Riiiverの専用アプリではRiiverとの連携のほか、時計本
  
  ]]></description>
 			<pubDate>Sat, 09 Mar 2019 06:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    MacBook Proの一部で生じる画面トラブル「ステージライト」、2018年版でケーブル長くし密かに対策か
+</title>
+			<link>https://japanese.engadget.com/2019/03/09/macbook-pro-2018/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2Fba2c6f60-41ae-11e9-bb8e-54615a16d808&client=a1acac3e1b3290917d92&signature=5b5a700996d3c35219e2bf008d310b1771e938ad" />
+2016年以降のMacBook Pro（MBP）について、ごく一部の個体ながら「Flexgate（フレックスケーブル疑惑）」または「ステージライト」と称される問題の発生が報告されています。
+
+これはMBPのバックライトに不具合が生じて、ディスプレイの下部から光が漏れ出たり、症状が重い場合はバックライトが完全に壊れてしまうというもの。「ステージライト」の通称は、あたかもステージが照らされるように見えることから付けられています。
+
+今回この問題に関して、アップルがMBPの2018年モデルにおいて、ディスプレイパネル側のケーブルを少し長くすることで対策した可能性があるとの分析が報じられ、話題となっています。
+ ]]></description>
+			<pubDate>Sat, 09 Mar 2019 07:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
