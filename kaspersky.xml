@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>人工知能が人生に影響を及ぼすとき</title>
-			<link>https://blog.kaspersky.co.jp/when-ai-decides/22440/</link>
-			<description><![CDATA[裁判官、警官、医師の仕事を助ける人工知能。その意思決定はどのように行われるのでしょうか？]]></description>
-			<pubDate>Wed, 27 Feb 2019 01:00:37 +0000</pubDate>
-		</item>
-		<item>
 			<title>利用者数百万人を広告で悩ませるChrome拡張機能</title>
 			<link>https://blog.kaspersky.co.jp/adware-in-chrome-extensions/22437/</link>
 			<description><![CDATA[最近、デバイスにやたらとたくさんの広告が表示されるようになった？悪意あるChrome拡張機能のせいかもしれません。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/building-cybersecurity-culture/22648/</link>
 			<description><![CDATA[「セキュリティ意識の向上」の意味するところは、人によって異なります。今回はKaspersky Labの考えについてお話しします。]]></description>
 			<pubDate>Mon, 11 Mar 2019 01:00:16 +0000</pubDate>
+		</item>
+		<item>
+			<title>アダルトサイトのログイン情報を盗むトロイの木馬</title>
+			<link>https://blog.kaspersky.co.jp/trojans-steal-porn-site-accounts/22634/</link>
+			<description><![CDATA[アダルトサイトはセキュリティ面で危険だと考える人は多いのですが、アダルトサイトのアカウントを狙うトロイの木馬があるということはあまり知られていません。]]></description>
+			<pubDate>Tue, 12 Mar 2019 03:50:25 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
