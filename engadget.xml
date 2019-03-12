@@ -5,45 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    iPhone XS / XRの『花粉症問題』　マスク姿で顔認証使えず…　対策は？
-</title>
-			<link>https://japanese.engadget.com/2019/03/11/iphone-xs-xr/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2Ffd261650-43c9-11e9-8f77-65911b684a86&client=a1acac3e1b3290917d92&signature=8f6fbe7b09e22adc3c012290665c58e7727f89d2" />
-今年もやってきたスギ花粉シーズン。最近はじめてX世代のiPhone（iPhone XS / XR）に乗り換えたユーザーの中には「マスクをすると顔認証（Face ID）が反応しない」とお困りの方もいるでしょう。
-
-iPhone XS / XRは指紋認証を搭載しておらず、生体認証はFace IDのみ。これが塞がれると、面倒なパスコードでロック解除するしかありません。筆者はマスクを下にずらして顔認証しているのですが、毎回となると結構面倒。皆さんはどんな対策をしているのか、思いついた対処法を並べ、Engadget読者を対象にアンケートを実施しました。
-
- 
-
-今年もスギ花粉シーズンがやってきました。マスクを手放せない皆様は、iPhoneのFace ID利用時にどのような工夫をされていますか？
-- Engadget 日本版 (@engadgetjp) 2019年2月22日
-
-1位は予想通り「パスコードで代用」でした。6桁程度であれば、サクッと入力してしまった楽なのかもしれません。
-
-その他を除いた2位は「マスク姿を機械学習させる」でした。Face IDには浮腫や加齢など、ユーザーの顔の変化に追従する機能が備わっています。具体的には、マスク姿で顔認証に失敗した直後に、正確なパスワードを入力してロックを解除するという動作を繰り返すと、いずれマスク姿を正しい顔として学習するというわけです。
-
-筆者はマスク姿の学習に成功していないのですが、編集部内には学習に成功したというスタッフもいます。
-
-続く3位は「認証時だけマスクを下にずらす」でした。Face IDはマスクをしていても、鼻の穴が見えるように下にずらせば、問題なくロックを解除できます。ただ、片手がふさがっている時などは、ずらせず困る場合があります。
-
-なお「その他」と回答したユーザーも多くいました。その理由を尋ねると『歌を歌っているため、年中マスクマン。そのため基本的にノーロックです』という方や『マスクによっても種類によってはFace IDが普通に通る』などの回答もありました。
- ]]></description>
-			<pubDate>Mon, 11 Mar 2019 03:15:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Googleがゲームコントローラ特許を出願。噂のゲームストリーミングサービス発表も間近？
-</title>
-			<link>https://japanese.engadget.com/2019/03/11/google/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F10a6d310-43b9-11e9-bfff-efb5cedcf33d&client=a1acac3e1b3290917d92&signature=bdf80528bdf9cac532e6a52eb43709ec7d45155e" />
-Google/USPTO
-
-Googleはゲーム開発者会議GDC 2019（3月20日～22日）にてイベント開催を予告しており、そこでゲームストリーミングサービス「Yeti」を含むゲーム関連の発表が噂されています。実際、Chrome上でAAAタイトルが遊べる大規模な技術テスト「Project Stream」を実施したことは既報の通りです。
-
-そんな中、Googleがゲームコントローラの特許を出願していることがUSPTO（アメリカ特許商標庁）の文書公開により明らかとなりました。
- ]]></description>
-			<pubDate>Mon, 11 Mar 2019 03:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    編集ページ全ての写真を「Pixel 3」で撮影した雑誌「VOGUE GIRL」小松菜奈が表紙で3月14日に発売
 </title>
 			<link>https://japanese.engadget.com/2019/03/11/pixel-3-vogue-girl-3-14/</link>
@@ -617,6 +578,38 @@ Pringは、「メッセージ感覚でお金を送りあえる」をうたう個
 ▲左からセブン銀行の和田哲士氏、Pringの荻原充彦社長
  ]]></description>
 			<pubDate>Tue, 12 Mar 2019 01:16:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    モバイル版Slackでダークモードが正式サポート。iOSとAndroidで目と消費電力に優しい画面に切り替え可能
+</title>
+			<link>https://japanese.engadget.com/2019/03/12/slack-ios-android/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2Fb9f3b0e0-4487-11e9-bebf-8929c588e895&client=a1acac3e1b3290917d92&signature=13aa2e86ecd504d3b282ced6e9f1cc42fd2fc4b6" />
+ビジネス向けコラボレーション/チャットツールSlackのモバイル版にて、ダークモードが正式にサポートされました。iOSおよびAndroid公式アプリの設定に、通常モードとダークモードの切り替えオプションが追加されています。
+ ]]></description>
+			<pubDate>Tue, 12 Mar 2019 02:15:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    ディスプレイ付き「Clova Desk」登場 LINEのビデオ通話や動画視聴もできるスマートスピーカー
+</title>
+			<link>https://japanese.engadget.com/2019/03/12/clova-desk-line/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2Fa34207e0-448a-11e9-b82f-e743fad4cdb4&client=a1acac3e1b3290917d92&signature=b7aec75e2e37fa1e9e3163e16152bfd0291ddf82" />LINEは、同社のスマートスピーカー「LINE Clova」シリーズの新モデルとなる「Clova Desk」を3月19日に発売すると発表しました。価格は2万7540円（税込）。
+
+最大の特徴は、従来の「Clova WAVE」や「Clova Friends」などとは異なり、ディスプレイが搭載されたこと。これによりスマホを利用せずともLINEのビデオ通話が可能となるほか、テキストでLINEを利用する場合でもスタンプの確認が可能です。また、動画視聴やLINE Music経由での音楽再生時には曲名の確認などが行えます。
+
+そのほか、赤外線リモコン機能を備え、テレビや照明、エアコンといった家電を音声で操作できるのも特徴です。
+
+ディスプレイは7インチ。本体サイズは181.0&times;104.5&times;172mm、重さは915gとなっており、10インチディスプレイを備えるAmazonのEcho Showと比べるとコンパクト。さらに3000mAhのバッテリーを内蔵し、家の中での自由度が高いのもポイントと言えそうです。
+
+Clova Deskの製品ページでは、利用シーンのイメージができる動画や、Clova Deskのマンガが掲載されているので、気になる方はそちらもチェックしてみてください。
+
+ 
+
+ 
+関連記事：
+LINEのAIスピーカーClova WAVE、正式版が1万2800円で発売。グーグルとの違いは？
+LINEのスマートスピーカー「WAVE」体験版レビュー、音声認識精度に問題も今後に期待
+ ]]></description>
+			<pubDate>Tue, 12 Mar 2019 02:40:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
