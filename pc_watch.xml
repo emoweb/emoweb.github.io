@@ -5,30 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>Google、スマホ上で動きオフラインでも使える音声認識技術を開発 ～1文字単位でのリアルタイム音声入力を実現</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1174388.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1174/388/image1.gif"></div></div><span class="caption">左が従来の音声認識、右が新しい音声認識 Video credit: Akshay Kannan and Elnaz Sarbar</span></div></div></div></div><p>　<a href="https://www.google.com/" class="n" target="_blank">Google</a>は12日(米国時間)、スマートフォン上でオフラインでも実行できるニューラルネットワークによる音声認識技術を発表した。</p><p>　この新音声認識機能は、Android向けに同社が提供しているIME「Gboard」に実装されるかたちで、すでにPixelスマートフォン向けに提供が開始されている。対応言語は英語のみ。</p><p>　新音声認識機能は、「回帰型ニューラルネットワークトランスデューサー(RNN-T)」を用いることで、スマートフォン上に訓練されたモデルを配置し、端末上で音声認識を行ない、オフライン環境でも動作するほか、従来とは異なるアプローチによって、よりリアルタイム性の高い文字入力を実現している。</p><p>　RNN-Tは、“アテンション”ベースではないシーケンス間モデルの一種で、出力(文章)を生成するために、入力シーケンス全体(入力音声の波形)を処理する必要があるほとんどのシーケンス間モデルとは異なり、入力サンプルを連続的に処理することで、シンボルをストリーミングで出力する。</p><p>　つまり、従来の音声認識のように、単語単位で認識を行なうのではなく、文字単位で認識を行なうため、音声とともに1文字ずつ文字が出力されるという。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1174/388/image2.png"></div></div><span class="caption">RNN-Tのイメージ Image credit: Chris Thornton</span></div></div></div></div><p>　従来の音声認識モデルでは、サイズが約2GBと巨大な検索グラフを要するため、スマートフォンで簡単にホストできるものではなく、クラウド上にモデルを配置し、オンラインで端末から利用するしかないという問題があった。</p><p>　一方、今回Googleの開発した音声認識アプローチでは、巨大なグラフを検索する必要はなく、単一のニューラルネットワークを介したビーム検索で音声認識を実現。Googleでは、パラメータのスマートな使用と、より高密度な情報の集積によって、RNN-Tのサイズを450MBまで小型化し、従来のサーバーベースのモデルと同じ精度を実現した。</p><p>　ただ現在のスマートフォンにとっては、処理速度の関係上、リアルタイム音声認識を実現するには、450MBでも大きすぎるとしており、モデル最適化ツールキットとして公開している「TensorFlow Liteライブラリ」を用いて、パラメータ量子化およびハイブリッドカーネル技術によってモデルサイズをさらに縮小。この最適化では、浮動小数点モデルと比較してサイズを4分の1に圧縮し、実行も4倍高速化。実際にRNN-Tは、最終的に80MBまで圧縮され、シングルコア上でリアルタイムの音声よりも高速に実行可能となった。</p><p>　Googleでは、将来的にそのほかの言語への適用や、より広い分野で同技術が活用されることを期待するとしている。</p></div></div>]]></description>
-			<pubDate>Wed, 13 Mar 2019 14:08:18 +0900</pubDate>
-		</item>
-		<item>
-			<title>MSI、Core i9-9900KとGeForce RTX 2080を搭載したスリムーミングPC </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1174392.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1174/392/1_o.jpg"></div></div><span class="caption">Trident X Plus 9SE-093JP</span></div></div></div></div><p>　<a href="https://jp.msi.com/" class="n" target="_blank">MSI</a>は、スリムゲーミングデスクトップPC「Trident X Plus 9SE-093JP」を16日に発売する。価格はオープンプライスで、税別店頭予想価格は349,800円前後の見込み。</p><p>　2018年12月に発売した「Trident X 9SE-023JP」の後継モデルで、チップセットをIntel Z370からZ390に変更させた。このほかは従来と同様、CPUにCore i9-9900K、ビデオカードにGeForce RTX 2080を搭載する。</p><p>　そのほかの仕様は、メモリ32GB、512GB SSD+2TB HDD、OSにWindows 10 Homeなどを搭載する。</p><p>　インターフェイスは、USB 3.1×2(うち1基はType-C)、USB 3.0×3、USB 2.0×3、DisplayPort、HDMI出力、Gigabit Ethernet、音声入出力などを備える。</p><p>　本体サイズは130×383×396mm(幅×奥行き×高さ)、重量は6.55kg。</p></div></div>]]></description>
-			<pubDate>Wed, 13 Mar 2019 14:08:32 +0900</pubDate>
-		</item>
-		<item>
-			<title>アイ・オー、4,000円を切る一人暮らし向けの無線ルーター </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1174401.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1174/401/1_o.jpg"></div></div><span class="caption">WN-SX300FR</span></div></div></div></div><p>　<a href="https://www.iodata.jp/" class="n" target="_blank">株式会社アイ・オー・データ機器</a>は、一人暮らし向けの低価格無線ルーター「WN-SX300FR」を3月下旬に発売する。税別価格は3,600円。</p><p>　300MbpsのIEEE 802.11nに対応した低価格モデル。初期設定ほぼ不要でインターネット接続が可能としている。独自の360度電波放出技術「360コネクト」に対応するほか、IPv6をサポート。ボタンを押すだけで以前のルーターから設定を引き継げる「Wi-Fi設定コピー機能」も搭載する。</p><p>　WAN/LANともにEthernet(100BASE-TX)までの対応。有線LANポートは3基。本体サイズは約126×125×38mm(幅×奥行き×高さ、横置き時)、重量は約160g。</p></div></div>]]></description>
-			<pubDate>Wed, 13 Mar 2019 14:21:58 +0900</pubDate>
-		</item>
-		<item>
-			<title>AUKEY、20,000mAhバッテリ「PB-N36」を2,399円で販売 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1174400.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1174/400/1_o.jpg"></div></div><span class="caption">PB-N36</span></div></div></div></div><p>　AUKEYは、容量20,000mAhのモバイルバッテリ「PB-N36」の900円割引クーポンコード「AUKEYN36」を配布している。適用すれば、通常販売価格3,299円のところ、2,399円で購入できる。</p><p>　PB-N36は20,000mAhの大容量に加え、Micro USBとLightningによる充電に対応するのが特徴。独自のAiPower技術を搭載し、接続した端末の電流を自動的に検知でき、最適な出力に調整できる。</p><p>　残量がわかる4段階のLEDインジケータを搭載。本体サイズは149.5×82.5×21mm(幅×奥行き×高さ)、重量は387.2g。2ポート搭載し、各ポートの出力は2.4A、合計出力は3.4Aとなっている。</p><div><div><div><div><div>Amazon.co.jpで購入する<div>：</div></div><div><ul class="aff_list"><li class="aff_item"><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B073GX6T57/impresswatch-6-22/ref=nosim" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41TxOO%2B0qJL.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B073GX6T57/impresswatch-6-22/ref=nosim" target="_blank">AUKEY PB-N36</a></div></div></li></ul></div></div></div></div></div></div></div>]]></description>
-			<pubDate>Wed, 13 Mar 2019 16:49:01 +0900</pubDate>
-		</item>
-		<item>
 			<title>【やじうまPC Watch】USB Type-Cで駆動する空気清浄機能つきパーソナルクーラー</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1174460.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1174/460/1_o.jpg"></div></div><span class="caption">evaCHILL</span></div></div></div></div><p>　<a href="https://plusstyle.jp/" class="n" target="_blank">+Style</a>は、USB Type-Cからの給電を受けて駆動するEvapolar製の空気清浄機能つきパーソナルクーラー「evaCHILL」を発売した。価格は14,904円。</p><p>　打ち水と同じ原理で、取り込んだ外気が水分を含んだフィルタ「EvaBreeze」を通るさいに気化熱効果によって温度が低下し、周囲よりも冷たい風を送る製品。このため7.5Wで動作し、一般的なUSB機器と同じ5V/2Aの給電で動作する。</p><p>　フィルタは玄武岩由来の素材を採用し、バクテリアやカビの原因となる物質を含まず、環境負荷が低い生分解性100%の素材を使用している。冷媒にフロントいった有害物質を含まないのも特徴。</p><p>　有効範囲は3平方mで、給水頻度は3～8時間。本体サイズは約172×170×170mm(幅×奥行き×高さ)、重量は約750g。</p></div></div>]]></description>
@@ -123,6 +99,30 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1174627.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1174/627/01.png"></div></div></div></div></div></div><p>　<a href="https://business.toshiba-memory.com/ja-jp/top.html" class="n" target="_blank">東芝メモリ株式会社</a>は、データセンター向けNVM Express SSD「XD5シリーズ」に、2.5インチモデルを追加、2019年第2四半期以降より順次サンプル出荷を開始すると発表した。</p><p>　XD5シリーズでは、従来M.2 22110フォームファクタが用意されていたが、新たに7mm厚の2.5インチフォームファクタを追加する。</p><p>　2.5インチモデルでも、接続はPCIe 3.0 x4で、960GB/1,920GB/3,840GBの3容量をラインナップ。シーケンシャルリード最大2,700MB/s、同ライト最大895MB/sのデータ転送性能を消費電力7Wで達成し、NoSQLデータベースや大規模データ分析、ストリーミングメディアなど、読み出しアクセスを多用するアプリケーションに適しているとする。</p><p>　製品は3月14～15日に米サンノゼで開催される「Open Compute Project (OCP) Global Summit 2019」にてブース展示が行なわれる。</p></div></div>]]></description>
 			<pubDate>Thu, 14 Mar 2019 14:56:43 +0900</pubDate>
+		</item>
+		<item>
+			<title>「KB4482887」のゲーム性能低下問題を修正したWindows 10パッチ「KB4489899」 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1174654.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1174/654/1_o.jpg"></div></div></div></div></div></div><p>　当てることで一部ゲームにおいて性能の問題が発生したWindows 10パッチ「KB4482887」の問題を修正したパッチ「KB4489899」が12日に配布開始された。</p><p>　KB4489899では、KB4482887を当てたさいに一部ゲームで性能が低下する問題が修正されているほか、インストール用ファイルMSIおよびMSP実行時にエラー1309が発生する問題の修正や、Microsoft Edge、Internet Explorer周りのセキュリティ更新などが施されている。</p><p>　ただし、Internet Explorer 11での認証周り問題が確認されているほか、複数のオーディオデバイスがある環境では、Windows Media Player、Realtek HD Audio Manager、Sound Blaster Control Panelの高度なオプション設定が予期せず停止する問題などが確認されている。</p></div></div>]]></description>
+			<pubDate>Thu, 14 Mar 2019 15:36:31 +0900</pubDate>
+		</item>
+		<item>
+			<title>Microsoft、スマホでXboxゲームが遊べる「Project xCloud」の試験公開を年内実施 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1174655.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1174/655/01.jpg"></div></div><span class="caption">Androidスマートフォンから「Forza Horizon 4」をプレイしている様子</span></div></div></div></div><p>　<a href="http://www.microsoft.com/" class="n" target="_blank">米Microsoft</a>は12日(米国時間)、同社のクラウドゲーミングサービス「Project xCloud」について、2019年後半に公開トライアルを開始予定であることを発表した。</p><p>　Project xCloudは、2018年10月に発表されたクラウドゲーミングサービス。本サービスでは、データセンターでXboxゲームが実行され、スマートフォンなどのクライアント側へ、画面だけが動画として転送されてくるという仕組みで、インターネット環境があればどこでもゲームが遊べるようになるというもの。</p><p>　たとえば、通勤中のバス停でのちょっとした待ち時間で、前日に始めたばかりのキャンペーンモードの続きをプレイしたり、フレンドと協力プレイの約束をしているのに、家族にリビングのTVを占有されていたりといった状況でも、自室で約束通りプレイをしたりといったことが可能になるとしている。</p><p>　公開された映像では、Xboxコントローラを接続したAndroidスマートフォンで、「Forza Horizon 4」をプレイしている様子が確認できる。</p><p>　同社では、Project xCloudについて、家庭用ゲーム機を置き換えるものとしてではなく、音楽や映画好きが、ストリーミングサービスでコンテンツを楽しんでいるのと同じように、ゲーマーに対しても、いつ/どのようにゲームをプレイするかを決定できる権利、すなわち選択肢と汎用性を提供する方法として開発しているという。</p><p>　同社は、今後数カ月で公開トライアルの情報を含め、技術詳細や進捗状況などを順次公開する予定。</p><div><div><div><div><div><div><iframe src="https://www.youtube.com/embed/thTW3GpyWVI?fs=1&amp;autoplay=0" allowfullscreen="true" width="480" height="270" frameborder="0"></iframe></div></div><span class="caption">Inside Xbox: Introducing Project xCloud</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 14 Mar 2019 15:37:16 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】ADATA、戦闘機の翼をイメージしたDDR4メモリ</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1174659.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1174/659/1_o.jpg"></div></div><span class="caption">XPG GAMMIX D30</span></div></div></div></div><p>　エイデータテクノロジージャパン株式会社(ADATA)は、<a href="http://www.xpg.com/jp/" class="n" target="_blank">XPGブランド</a>より戦闘機の翼をイメージしたヒートスプレッダ採用のDDR4メモリ「XPG GAMMIX D30」を15日に発売する。価格はオープンプライス。</p><p>　本体色はブラックトレッドの2種類を用意する。いずれもDDR4-2666で動作し、容量は8GB×2。</p></div></div>]]></description>
+			<pubDate>Thu, 14 Mar 2019 15:39:23 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】TP-Link、高利得アンテナ装備のUSB無線LAN子機</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1174664.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1174/664/1_o.jpg"></div></div><span class="caption">Archer T2U Plus</span></div></div></div></div><p>　<a href="https://www.tp-link.com/jp/" class="n" target="_blank">ティーピーリンクジャパン株式会社</a>(TP-Link)は、高利得アンテナを装備したUSB接続の無線LAN子機「Archer T2U Plus」を29日に発売する。価格はオープンプライスで、店頭予想価格は2,200円前後の見込み。</p><p>　アンテナは5dBiの高利得タイプを採用。256QAMをサポートし、2.4GHz帯の転送速度は従来の150Mbpsから200Mbpsに引き上げられた。5GHzでは433Mbpsに対応する。</p></div></div>]]></description>
+			<pubDate>Thu, 14 Mar 2019 15:46:32 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
