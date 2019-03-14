@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>いかにして海賊版はゲーマーをだますのか</title>
-			<link>https://blog.kaspersky.co.jp/malware-in-pirated-games/22639/</link>
-			<description><![CDATA[ただ海賊版ゲームをダウンロードしたかっただけなのに、マルウェアに感染してしまった。そんな事例が増加している理由を説明します。]]></description>
-			<pubDate>Fri, 01 Mar 2019 01:00:10 +0000</pubDate>
-		</item>
-		<item>
 			<title>クラウド移行はそこまで速く進まない</title>
 			<link>https://blog.kaspersky.co.jp/cloud-migration-not-so-fast/22460/</link>
 			<description><![CDATA[クラウド移行が進んでいることは間違いありませんが、そのペースは推進派が思っているほど速くありません。 ]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/apex-legends-mobile-fakes/22682/</link>
 			<description><![CDATA[エーペックスレジェンズ（Apex Legends）のAndroid版に見せかけたマルウェアの話。]]></description>
 			<pubDate>Wed, 13 Mar 2019 01:00:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>ランサムウェアGandCrab：その多様なターゲットと攻撃手法</title>
+			<link>https://blog.kaspersky.co.jp/gandcrab-ransomware-is-back/22722/</link>
+			<description><![CDATA[GandCrabは今もランサムウェア市場の40%を占め、さまざまな方法で拡散されています。]]></description>
+			<pubDate>Thu, 14 Mar 2019 01:00:11 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
