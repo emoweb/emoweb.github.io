@@ -5,30 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    iOS版GboardでGoogle翻訳がサポート。103の言語間で相互翻訳が可能に
-</title>
-			<link>https://japanese.engadget.com/2019/03/17/ios-gboard-google-103/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2Fbe82e8c0-4873-11e9-b87b-2bfa58a1998c&client=a1acac3e1b3290917d92&signature=319476ed30f0e5181c3e19754dd6ea8c7fba69ae" />S3ty via Getty Images
-
-GoogleのキーボードアプリGboardのiOS版が、Google翻訳でサポートされている全ての言語での翻訳に対応しました。現在サポートされている103の言語間で、相互に翻訳が可能となっています。
-
-この機能はすでに2017年の時点で、Android版Gboardにて利用可能となっていたもの。約2年近くの遅れとなりますが、便利な機能がようやくiPhoneやiPadにもやって来ました。
- 
- ]]></description>
-			<pubDate>Sun, 17 Mar 2019 02:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Pixel 3の「コンピュテーショナルフォトグラフィー」をGoogleが解説
-</title>
-			<link>https://japanese.engadget.com/2019/03/17/pixel-google/</link>
-			<description><![CDATA[     <img src="https://s.blogcdn.com/slideshows/images/slides/744/308/8/S7443088/slug/l/img-7793e-1.jpg" />
-
-Googleは3月18日、「コンピュテーショナル フォトグラフィーと機械学習」をテーマとした技術説明会を開催し、同社のPixelシリーズで採用されているカメラ機能のポートレートモード、トップショット、超解像ズームの詳細について紹介しました。
-コンピュテーショナルフォトグラフィーとは、コンピューターによって処理・生成された写真といった意味の言葉です。たとえば、医療用のCT写真のように(本当は輪切りにしていないのに)コンピュータ処理によって人間の胴体の輪切り写真を作ったり、あるいは、AIや機械学習の成果を使ってカメラのイメージセンサーが捉えた画像データを選別、加工、不完全さを補うことなどが、コンピュテーショナルフォトグラフィーです。
- ]]></description>
-			<pubDate>Sun, 17 Mar 2019 04:50:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    3月18日のできごとは「ZenFone Max（ZC550KL） 発売」「ダヴィンチ 1.0 発売」ほか：今日は何の日？
 </title>
 			<link>https://japanese.engadget.com/2019/03/17/3-18-zenfone-max-zc550kl-1-0/</link>
@@ -670,6 +646,39 @@ Pixel 3a/Pixel 3a XLについては、これまでも何度も実機とされる
  
  ]]></description>
 			<pubDate>Mon, 18 Mar 2019 05:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Steamのオンラインゲームが低遅延で快適プレイに？Valveが自社ネットインフラを利用できる新APIを提供
+</title>
+			<link>https://japanese.engadget.com/2019/03/18/steam-valve-api/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2Fdfbc2570-4958-11e9-876c-2efdd4ce74a9&client=a1acac3e1b3290917d92&signature=d28b9507e14266fdd8619019a487ca2527760783" />
+Valveは自社のネットワークインフラを全てのSteamパートナーが利用できるようにするAPIをリリースしました。これはSteamworks SDK V1.44の一部として配信されるとのことです。
+
+新APIによって改善される点は、主に3つ。ネットワーク接続品質の向上（遅延の減少を含む）、信頼性100%のNATトラバーサル（いわゆるNAT越え。自宅のネットワーク機器に割り当てられているプライベートIPアドレスとインターネット通信をするためのグローバルIPアドレスを変換する処理）、サービス妨害からのプレイヤーの保護とされています。
+ ]]></description>
+			<pubDate>Mon, 18 Mar 2019 05:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Huawei P30/P30 Proのフルスペックや画像がリークか。10倍ズーム+ToF深度センサーの豪華仕様に？
+</title>
+			<link>https://japanese.engadget.com/2019/03/18/huawei-p30-p30-pro-10-tof/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2Fab48f090-4956-11e9-9afd-daf8078e8cc8&client=a1acac3e1b3290917d92&signature=2585a775aabc4d3d767655414a816230b5cb4ae5" />
+
+中国ファーウェイが間もなく投入する新形スマートフォン「P30/P30 Pro（後者は仮称）」について、詳細なスペック情報やレンダリング画像が海外にて伝えられています。
+
+ドイツ語テックサイトのWinFutureが報じた今回の情報によれば、P30 Proは6.47インチ/2340&times;1080ドットの水滴型ノッチつきのカーブ有機ELディスプレイを搭載。また、ディスプレイには指紋認証機能が内蔵されています。
+
+背面には3カメラとデュアルフラッシュ、そして「ToF深度センサー」を搭載。カメラ構成は4000万画素/f1.6のメイン、2000万画素/f2.2の広角、800万画素/f3.4の10倍ハイブリッドズームとなります。ファーウェイ幹部はP30シリーズに高倍率の「ペリスコープカメラ」が搭載されることを認めており、10倍カメラはこれにより実現されるようです。
+
+プロセッサにはKirin 980を採用し、RAM容量は8GBで内蔵ストレージは128GB/256GB/512GB。microSDカードスロットを搭載しています。OSにはAndroid 9 Pieを採用。バッテリー容量は4,200mAhで、40Wの高速充電が利用できます。
+
+そしてP30は6.1インチの有機ELディスプレイを搭載。P30 Proとの違いは、3つ目のカメラとして800万画素/f2.4の5倍ズームレンズを搭載。RAM容量は6GBで内蔵ストレージは128GBとなり、3,650mAhのバッテリーを搭載します。また、P30のみイヤホンジャックが搭載されるそうです。
+
+さらに、P30 Proではトワイライト、オーロラ、ブラック、そしてサンライズ・レッドと呼ばれるカラーリングが登場します。このうちサンライズ・レッドは角度によりレッドからイエローへとグラデーションする、美しいカラーリングになるとしています。
+
+ファーウェイは3月26日のイベントにて、P30シリーズを発表します。現行モデルの「P20 Pro」はスマホ向けの3カメラという新たな領域に踏み込みましたが、P30 Proも同じように意義深い端末となりそうです。
+ ]]></description>
+			<pubDate>Mon, 18 Mar 2019 06:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
