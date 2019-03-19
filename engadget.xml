@@ -5,76 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    廉価版Pixelの名称は「Pixel 3a/3a XL」か。Android Qベータのコードに記載
-</title>
-			<link>https://japanese.engadget.com/2019/03/18/pixel-pixel-3a-3a-xl-android-q/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F84f8ded0-494e-11e9-9fc7-12df32186f96&client=a1acac3e1b3290917d92&signature=ac52b957da796470f6d26c25f8ee70996d53bf71" />
-
-米Googleが準備しているとされるスマートフォン「廉価版Pixel」について、その正式名称が「Pixel 3a/Pixel 3a XL」になるとの情報が、海外にて伝えられています。
-
-海外テックサイトのXDA-Developersが「Android Q」のベータ版コードから発見した、今回の情報。コードから見つかったのはPixel 3a XLだけですが、その小型版の名称が「Pixel 3a」となることは自明の理でしょう。
-
-なお、これまで廉価版Pixelの名称は「Pixel 3 Lite」「Pixel 3 Lite XL」になるとされていました。しかし、Pixel 3 LiteはともかくPixel 3 Lite XLの「Lite XL」とはなんぞや......という雰囲気があったのも事実。Pixel 3a XLの名称のほうが、ずっとしっくりきます。
-
-Pixel 3a/Pixel 3a XLについては、これまでも何度も実機とされる画像やレンダリング画像が流出しています。それらの情報をまとめると、それぞれのディスプレイサイズは5.56インチと6インチで、ノッチなしディスプレイとシングルカメラを搭載し、プラスチック筐体の廉価な端末となるようです。Pixel 3/3 XLにないイヤホンジャックが搭載されている点は、注目でしょう。
-
-さらにPixel 3a/Pixel 3a XLはFCC（米連邦通信委員会）の認証も通過しており、そう遠くない時期に発表されることが予測されています。まずは、今年5月に開催される開発者会議「Google I/O 2019」での発表があるのかどうか、注目しておきましょう。
- ]]></description>
-			<pubDate>Mon, 18 Mar 2019 04:30:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    メルカリ、商品を写真から検索できる機能を追加。まずはiOS版から
-</title>
-			<link>https://japanese.engadget.com/2019/03/18/ios/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F1776af60-4956-11e9-9aac-f3cd4f59931d&client=a1acac3e1b3290917d92&signature=3579288a18269d09b0ff8e15572d9b6d68db1e9b" />
-メルカリが、スマートフォンで撮影した写真を使い、出品されている商品を検索できる写真検索機能を公開しました。現在、iOS版でのみ利用でき、AndroidとWEB版は今後のアップデートで対応する予定とのこと。
-
-機能としては、検索画面の「写真からさがす」を選び、スマートフォンで検索したい商品を撮影するだけ。その写真に似た商品を出品されているものから検索して表示します。写真はその場で撮影するだけでなく、撮影済みのものやスクリーンショットでも利用可能です。
-
-たとえば、SNSで気になる商品を見つけたら、そのスクリーンショットを撮ってメルカリで探してみる、ショーウィンドウで見かけた靴を撮影して探す、などに利用できます。なお、画像内に複数のアイテムが写っている場合には、範囲をトリミングして、対象アイテムを絞り込むことも可能です。
-
-
-
-あくまでも似た商品を探すだけなので、まったく同じ商品だけが出てくるわけではありません。それでも、商品名やブランド名が分からなかったり、なんというカテゴリーで探せばいいのかわからない物、似た商品でも同じ色のものだけ探したい場合などには便利に使えそうです。
-
- 
- ]]></description>
-			<pubDate>Mon, 18 Mar 2019 05:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Steamのオンラインゲームが低遅延で快適プレイに？Valveが自社ネットインフラを利用できる新APIを提供
-</title>
-			<link>https://japanese.engadget.com/2019/03/18/steam-valve-api/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2Fdfbc2570-4958-11e9-876c-2efdd4ce74a9&client=a1acac3e1b3290917d92&signature=d28b9507e14266fdd8619019a487ca2527760783" />
-Valveは自社のネットワークインフラを全てのSteamパートナーが利用できるようにするAPIをリリースしました。これはSteamworks SDK V1.44の一部として配信されるとのことです。
-
-新APIによって改善される点は、主に3つ。ネットワーク接続品質の向上（遅延の減少を含む）、信頼性100%のNATトラバーサル（いわゆるNAT越え。自宅のネットワーク機器に割り当てられているプライベートIPアドレスとインターネット通信をするためのグローバルIPアドレスを変換する処理）、サービス妨害からのプレイヤーの保護とされています。
- ]]></description>
-			<pubDate>Mon, 18 Mar 2019 05:30:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Huawei P30/P30 Proのフルスペックや画像がリークか。10倍ズーム+ToF深度センサーの豪華仕様に？
-</title>
-			<link>https://japanese.engadget.com/2019/03/18/huawei-p30-p30-pro-10-tof/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2Fab48f090-4956-11e9-9afd-daf8078e8cc8&client=a1acac3e1b3290917d92&signature=2585a775aabc4d3d767655414a816230b5cb4ae5" />
-
-中国ファーウェイが間もなく投入する新形スマートフォン「P30/P30 Pro（後者は仮称）」について、詳細なスペック情報やレンダリング画像が海外にて伝えられています。
-
-ドイツ語テックサイトのWinFutureが報じた今回の情報によれば、P30 Proは6.47インチ/2340&times;1080ドットの水滴型ノッチつきのカーブ有機ELディスプレイを搭載。また、ディスプレイには指紋認証機能が内蔵されています。
-
-背面には3カメラとデュアルフラッシュ、そして「ToF深度センサー」を搭載。カメラ構成は4000万画素/f1.6のメイン、2000万画素/f2.2の広角、800万画素/f3.4の10倍ハイブリッドズームとなります。ファーウェイ幹部はP30シリーズに高倍率の「ペリスコープカメラ」が搭載されることを認めており、10倍カメラはこれにより実現されるようです。
-
-プロセッサにはKirin 980を採用し、RAM容量は8GBで内蔵ストレージは128GB/256GB/512GB。microSDカードスロットを搭載しています。OSにはAndroid 9 Pieを採用。バッテリー容量は4,200mAhで、40Wの高速充電が利用できます。
-
-そしてP30は6.1インチの有機ELディスプレイを搭載。P30 Proとの違いは、3つ目のカメラとして800万画素/f2.4の5倍ズームレンズを搭載。RAM容量は6GBで内蔵ストレージは128GBとなり、3,650mAhのバッテリーを搭載します。また、P30のみイヤホンジャックが搭載されるそうです。
-
-さらに、P30 Proではトワイライト、オーロラ、ブラック、そしてサンライズ・レッドと呼ばれるカラーリングが登場します。このうちサンライズ・レッドは角度によりレッドからイエローへとグラデーションする、美しいカラーリングになるとしています。
-
-ファーウェイは3月26日のイベントにて、P30シリーズを発表します。現行モデルの「P20 Pro」はスマホ向けの3カメラという新たな領域に踏み込みましたが、P30 Proも同じように意義深い端末となりそうです。
- ]]></description>
-			<pubDate>Mon, 18 Mar 2019 06:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    アップル、新製品をまもなく発表か　公式サイトが暗転
 </title>
 			<link>https://japanese.engadget.com/2019/03/18/apple/</link>
@@ -620,6 +550,129 @@ Oath利用規約
 			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=1920%2C1440%2C0%2C0&quality=85&format=jpg&resize=1067%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2Fdf9e4a80-49d7-11e9-bb6d-462d5926d919&client=a1acac3e1b3290917d92&signature=16a169d07c20cc5d84322a99e72454d6bcfe5990" />旅人ITライター中山です。海外旅行が好きで、外国での展示会などを取材しているわけですが、よく聞かれるのが「英語できるんですね!？」という質問。ぶっちゃけるとあまり得意ではありません。外国人と話す機会がそれなりにあるので慣れはありますが、プレゼンやインタビューなどをリアルタイムで聞いて、100％ちゃんと理解しているわけではありません。記事にするときは録音した音声を聞き直したりしています。
  ]]></description>
 			<pubDate>Mon, 18 Mar 2019 23:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    任天堂、自社スマートフォン発売を検討中？「Nintendo Switchと統合できる」デバイスのうわさ
+</title>
+			<link>https://japanese.engadget.com/2019/03/18/nintendo-switch/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F9b8d5e70-49f1-11e9-b7fe-2eb7e80826e5&client=a1acac3e1b3290917d92&signature=f890121127b20765bb1c4285a9a1d47de163bd3e" />
+ここ最近はRazerやXiaomi、ASUSなどゲーミングスマートフォン市場への参入が相次いでいますが、その中で任天堂も自社スマートフォンの発売を検討しているとの噂が報じられています。
+
+台湾の電子部品業界情報誌DigiTimesの情報筋によれば、任天堂はXiaomiやVivo、Nubiaと並んで「ゲーミングスマホ市場でのプレゼンスを強化するか、参入を計画している」とのこと。さらには「自社のNintendo Switchと統合できるゲーム用スマートフォンの発売を検討している」という憶測があると報じています。
+ ]]></description>
+			<pubDate>Mon, 18 Mar 2019 23:20:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    ワンセグがNHK受信料問題で注目、「Xperia 10」をじっくりレビュー｜Engadget人気記事ランキング（3月11日〜17日）
+</title>
+			<link>https://japanese.engadget.com/2019/03/18/nhk-xperia-10-engadget-3-11-17/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F8f357050-49f5-11e9-bffb-05946984453b&client=a1acac3e1b3290917d92&signature=513d9f3c3d7700b5a60e7658115bce7eee31a032" />
+3月11日〜17日の期間でEngadget 日本版で人気だった記事を紹介します。一番注目されたトピックスはなんと「ワンセグ」です。最高裁の判決によりワンセグ機能付きの携帯電話を持っていることでNHK受信料を負担する義務が生じるという内容。各キャリアの現行ラインアップでは意外とワンセグ機能を搭載したスマホが多い模様です。「ワンセグ非搭載」というのが、今後のスマホ選びのポイントになりそうですね。
+
+
+1　ワンセグ携帯にもNHK受信料の負担義務──最高裁が判決
+
+最高裁は、ワンセグ付きの携帯電話（スマートフォン含む）を所持しているだけでは、NHK放送受信契約を結ぶ義務は発生しないと男性が訴えた裁判で、男性の上告を退けました。（つづく）
+
+2　ワンセグ非搭載のスマホはどれ？
+
+ライフスタイルが多様化する今日においては、家にはチューナー非搭載のモニターだけを置き、動画はNetFlixやYouTubeで済ませている方も珍しくはありません。そんな方に向けて、ワンセグ機能を搭載しないスマホを、ドコモ・au・ソフトバンクの2018年秋冬（冬春）モデルから紹介します。（つづく）
+
+
+3　「Xperia 10 / 10 Plus」の実機をじっくり触ったら「Xperia 1」が待ち遠しくなった
+今年のソニーモバイルのフラッグシップモデル「Xperia 1」の前哨戦？として、「Xperia 10」と「Xperia 10 Plus」を触ってみたところコレが実に良く。筆者のまわりの反応をみても上々で、一年前（のXperia XZ2）はなんで駄目だったんだろうと思ってしまうほどです。（つづく）
+
+4　Xperia 1は久しぶりにワクワクする端末になりそうだ
+
+今年もスペイン・バルセロナで開催されたMWC Barcelona（旧称Mobile World Congress）では、いくつかの最新スマートフォンが発表、展示されていました。そのなかでいちばん気になったのは、5G対応端末でも折りたためる端末でもなく、ソニーモバイルの「Xperia 1」です。（つづく）
+
+5　Gmail、Googleドライブで全世界的な障害が発生中(2019年3月13日午後12時現在)。症状は人によってさまざま
+
+日本時間3月13日お昼前ごろより、メールサービスGmailや、クラウドストレージGoogle DriveといったGoogleのサービスに障害が発生している模様です（つづく）
+
+6　25日のアップルイベント、新ハード発表もあり？iPad mini 5（仮）からAirPods 2（仮）まで噂を総まとめ
+
+7　LINEの既読をつけずに内容を確認するにはどうする？
+
+8　iPhone XS / XRの『花粉症問題』　マスク姿で顔認証使えず...　対策は？
+
+9　スマホ＋リコー「GR III」の併用がもたらす納得感。特別な時以外にも持ち歩きたくなるデジカメの価値
+
+10 本気の外観にプロ向け機能。GPSの老舗ガーミンが高級スマートウォッチ「MARQ」シリーズを発表
+
+11 　ポケモンGO：No.068 カイリキー 入手方法と対策 (大人のポケモン再入門ガイド)
+
+12　カシオのスマートウォッチ「PRO TREK Smart WSD-F30」をアウトドアで使いこなす
+
+13 ポケモンGO、13日昼は新イベント『ランチレイドアワー』。1時間だけ『ディアルガ』伝説レイド増量 
+
+14 ただの『ハリポタGO』じゃなかった！『ハリー・ポッター：魔法同盟』先行体験リポート
+
+15 gloの軽量コンパクト版「mini」が全国で近日発売！先行実機チェック
+
+
+
+
+ ]]></description>
+			<pubDate>Mon, 18 Mar 2019 23:35:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    ZTE、次期端末は横スライド機構に横フロントカメラ？ Axon S / Vとされる画像がリークサイトに掲載
+</title>
+			<link>https://japanese.engadget.com/2019/03/18/zte-axon-s-v/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2Fa005f270-49ea-11e9-bf57-f426d0ab292e&client=a1acac3e1b3290917d92&signature=53083c4be81bc95fc721f7d37d3b283fac3fe668" />
+2018年に大流行したディスプレイ上部のカメラスペースを切り欠いたノッチ。2019年にはカメラ部のみをくり抜いたパンチホールが流行の兆しを見せていますが、VivoやOPPOなど、カメラをスライド式にすることで、全画面を確保しようとするメーカーもあります。
+
+そしてZTEも、そんなスライド式カメラに参入を考えているようです。コンセプトと思われる画像が流出したのはZTEの新端末、Axon S。OPPO Find Xのようにフロントカメラとリアカメラがどちらもスライド式になっているのですが、特徴的なのはその方向。一般的なポップアップカメラ端末とは違い、横方向にスライドする方式です。
+
+縦方向で写真を撮るとき邪魔なのではと心配になりますが、どちらかというとフロントカメラよりもリアカメラを重視した作りなのかもしれません。
+
+画像を掲載したNotebook Italiaによると、メインカメラは48MPで、そのほか19MPと光学5倍ズームのトリプルカメラ仕様。ディスプレイはOLEDで画面下に指紋センサーを搭載。Axon 10 Proと同じく5Gにも対応するとしています。
+
+なお、スライド機構が本体中央付近にまで来ている関係で、クラウドファンディングに失敗したMeizu Zeroのように外部インターフェースがないとのこと。
+
+ 
+関連記事：
+ZTEの5Gスマホ「AXON 10 Pro 5G」は人体への影響も考慮済み #MWC19
+「端子レススマホ」Meizu Zero、クラファン失敗。製品化は今後も予定せず
+
+
+もう1機種、スライド機構ではなく本体側面にフロントカメラを備えた、Axon Vの画像も公開されています。
+
+
+
+こちらは見ての通り、フロントカメラが右側面に配置されているのが特徴です。ここまでするなら、カメラを上部に残しておいても良さそうですが、ディスプレイが6.8インチ 21:9とのことなので、縦に長くなるのを嫌った結果なのかもしれません。
+
+また、セルフィを横向きで撮影するなら、リアカメラと同じく縦に並んでいたほうが自然な気はします。
+
+スライド式のAxon Sについては出荷時期などは不明ですが、Axon Vは2019年中に発売されるとのこと。ZTEはハイスペックな端末を比較的安価で提供しているので、Axon Vの価格にも期待したいところです。
+
+   
+ ]]></description>
+			<pubDate>Mon, 18 Mar 2019 23:45:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    新iPad mini / Airは「eSIM」対応で海外旅行が便利に
+</title>
+			<link>https://japanese.engadget.com/2019/03/19/ipad-mini-air-esim/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F0cd3c0d0-49f5-11e9-bebe-ee60bd42faed&client=a1acac3e1b3290917d92&signature=70c4cc003d1aad7e9f72fc17039658a21c5b014b" />
+アップルが突如発表した新iPad mini / iPad Airはいずれも「eSIM」に対応。海外旅行などで、別途SIMカードを購入したり、高額な国際ローミングを利用しなくても、現地回線をサクッと契約して通信できるメリットを享受できます。
+
+「eSIM」は「Apple SIM」に代わる組み込み型SIMカードです。インターネットを介して情報を書き換えることで、さまざまな通信事業者との通信に利用できます。
+
+同様の仕組みはこれまでも「Apple SIM」として提供されていましたが、こちらは文字通りアップルの独自規格で、アップルが交渉した通信事業者しか利用できませんでした。一方の「eSIM」は業界団体のGSMAが主導した標準規格で、対応事業者は一気に増加する見通しです。アップルはiPhone XS / XR以降、Apple SIMからeSIMへのシフトを進めています。
+
+なお、eSIMはまだ黎明期であり、渡航先によってはeSIMサービスが展開されていない場合もあります。アップルが対応事業者をリスト化しているので、渡航前に一度確認してみるのがオススメです。
+
+eSIMの関連記事
+・新iPadは「Apple SIM」から「eSIM」に　違いは？ 日本はIIJが実験成功（石野純也）
+・iPhone XS / XRの「eSIM」は海外データ通信が超お得
+・旧iPhoneにはない「XS / XR」だけの新機能「eSIM」がスペインでも活躍
+
+
+ 
+ ]]></description>
+			<pubDate>Tue, 19 Mar 2019 00:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
