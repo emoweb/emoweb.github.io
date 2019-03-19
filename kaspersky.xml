@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ATMをスロットマシンに変えるマルウェア</title>
-			<link>https://blog.kaspersky.co.jp/winpot-atm-jackpotting/22617/</link>
-			<description><![CDATA[ATMがスロットマシンに変わる？現金の不正引き出しを可能にするWinPotというマルウェアが存在します。]]></description>
-			<pubDate>Wed, 06 Mar 2019 01:00:30 +0000</pubDate>
-		</item>
-		<item>
 			<title>スマート義手に支援の手を：ハッキングを阻止するKaspersky Labの取り組み</title>
 			<link>https://blog.kaspersky.co.jp/securing-prosthetic-arm/22661/</link>
 			<description><![CDATA[Kaspersky LabのエキスパートはMobile World Congress 2019で、Motorica製スマート義肢のセキュリティに関する調査結果を発表しました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/middle-earth-cybersecurity/22698/</link>
 			<description><![CDATA[「力の指輪」として知られるデバイスに組み込まれた、サウロンのハッキングツールを分析してみました。]]></description>
 			<pubDate>Mon, 18 Mar 2019 01:00:57 +0000</pubDate>
+		</item>
+		<item>
+			<title>不在通知メール：必要以上の情報を漏らさないために</title>
+			<link>https://blog.kaspersky.co.jp/out-of-office-messages/22748/</link>
+			<description><![CDATA[自動応答の不在通知メッセージに潜む危険]]></description>
+			<pubDate>Tue, 19 Mar 2019 01:00:50 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
