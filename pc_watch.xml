@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】ニコン、COOLPIX A300 Ver.1.3ほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1175547.html</link>
-			<description><![CDATA[<div><div><p>　ニコンは、COOLPIX A300 Ver.1.3ほかを公開した。</p></div></div>]]></description>
-			<pubDate>Tue, 19 Mar 2019 19:03:08 +0900</pubDate>
-		</item>
-		<item>
 			<title>GeForce GTX 1060 6GB以上でもリアルタイムレイトレが可能に </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1175561.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1175/561/1_o.png"></div></div></div></div></div></div><p>　<a href="https://www.nvidia.com/" class="n" target="_blank">NVIDIA</a>は18日(現地時間)、4月にもPascalおよびTuringアーキテクチャのGeForce GTXでリアルタイムレイトレーシングを可能にするドライバを配布開始すると発表した。</p><p>　既報のとおり、DirectX 12のリアルタイムレイトレーシング機能であるDXRは、新たなエンジンではなく、既存のグラフィックスとコンピュートエンジンで動作する実装となっている。このため、DXRに対応したドライバさえあれば、どのGPUでも実現できる。</p><p>　実際にDXRに基づいてレイトレーシングを実装したベンチマークソフト3DMark Port Royalも、DXR対応ドライバさえあればどのGPUでも動作するとされている。今回のドライバのアップデートにより、最新のTuringに加え、Pascal世代以降のGeForce GTX、およびTITAN Vでも実行可能になる。</p><p>　同時に、本ドライバを導入すれば、DXRに基づいてリアルタイムレイトレーシングを実装した「Metro Exodus」、「Shadow of the Tomb Raider」、「Battlefield V」も、いっさいのアップデートなしにリアルタイムレイトレーシングが実行可能としている。</p><p>　ただし、リアルタイムレイトレーシング処理をほかのグラフィックス処理と並行して処理できるRT Coreを備えたGeForce RTXシリーズの性能には敵わず、基本的なエフェクト、および少ない数のレイトレーシングのみ可能としている。</p><p>　対応するGPUはPascal世代がGTX 1060 6GB以上、Volta世代がTITAN V、Turing世代がGTX 1660以上とされている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1175/561/2_o.png"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1175/561/3_o.png"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1175/561/4_o.png"></div></div></div></div></div></div></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1175779.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1175/779/01.jpg"></div></div><span class="caption">Aurora</span></div></div></div></div><p>　<a href="https://www.intel.com/" class="n" target="_blank">米Intel</a>は18日(米国時間)、米Crayと共同で、米エネルギー省にスーパーコンピュータ「Aurora」を2021年に納入する契約を締結したと発表した。</p><p>　Auroraは米国初の、秒間100京回の浮動小数点演算が可能な、“エクサスケール”スーパーコンピュータシステムとなる見込み。設置されるのはアルゴンヌ国立研究所で、契約額は5億ドル(約557億円)以上としている。</p><p>　Crayの次世代スーパーコンピューターシステム「Shasta」を採用し、次世代の「Xeonスケーラブルプロセッサ」と「Xeコンピュートアーキテクチャ」、次世代の「Optane DCパーシステントメモリ」、およびOne APIソフトウェアを含む、特別に設計された新たなIntelテクノロジーを基盤として構成される。</p><p>　エネルギー省のRick Perry長官は、「科学コミュニティの向上だけでなく、アメリカ人の日々の生活を向上させるためにも、エクサスケールの達成は不可欠である」としている。</p><div><div><div><div><div><div><iframe src="https://www.youtube.com/embed/DBDPFC8cIMo?fs=1&amp;autoplay=0" allowfullscreen="true" width="480" height="270" frameborder="0"></iframe></div></div><span class="caption">U.S. Department of Energy and Intel to Deliver First Exascale Supercomputer</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Wed, 20 Mar 2019 18:19:48 +0900</pubDate>
+		</item>
+		<item>
+			<title>Amazon.co.jp、フロントライトを初搭載した「新Kindle」を本日発売 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1175844.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1175/844/01_o.jpg"></div></div><span class="caption">「新Kindle」</span></div></div></div></div><p>　Amazon.co.jpは20日、明るさ調節可能なフロントライトを搭載した「新Kindle」を発売した。価格は広告つきモデルが8,980円、広告なしモデルが10,980円。出荷開始は4月10日。</p><p>　Kindleは、E Ink電子ペーパー搭載の電子書籍端末で、今回の製品はシリーズ第10世代目となる。従来モデルではKindle Paperwhiteに搭載していたフロントライトとして4個のLEDを搭載。画面の明るさを調節できるようになったことで、夜の室内でも、日差しがまぶしい屋外でも快適に読書を楽しめるとしている。</p><p>　ディスプレイは16階調グレースケール、解像度167ppiの6型Amazonディスプレイ。メモリは4GBを搭載。本体サイズは113×160×8.7mm(幅×奥行き×高さ)、重量は174g。バッテリ駆動時間は、数週間。</p><p>　インターフェイスとしてて、USB 2.0(充電用)、IEEE 802.11g無線LANを搭載。本体食はブラックとホワイト。</p><div><div><div><div><div>Amazon.co.jpで購入<div>：</div></div><div><ul class="aff_list"><li class="aff_item"><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07FQ473ZZ/impresswatch-6-22/ref=nosim" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41wqIaNQURL.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07FQ473ZZ/impresswatch-6-22/ref=nosim" target="_blank">Kindle 電子書籍リーダー Wi-Fi 4GB ブラック 広告つき (Newモデル)</a></div></div></li></ul></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Wed, 20 Mar 2019 22:28:48 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
