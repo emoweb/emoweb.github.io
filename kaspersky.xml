@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>スマート義手に支援の手を：ハッキングを阻止するKaspersky Labの取り組み</title>
-			<link>https://blog.kaspersky.co.jp/securing-prosthetic-arm/22661/</link>
-			<description><![CDATA[Kaspersky LabのエキスパートはMobile World Congress 2019で、Motorica製スマート義肢のセキュリティに関する調査結果を発表しました。]]></description>
-			<pubDate>Thu, 07 Mar 2019 01:00:58 +0000</pubDate>
-		</item>
-		<item>
 			<title>仮想通貨を要求するセクストーション詐欺スパム</title>
 			<link>https://blog.kaspersky.co.jp/sextortion-scam/22706/</link>
 			<description><![CDATA[性的な内容で根拠なく脅し、仮想通貨を要求する脅迫メール。人間心理に働きかける巧妙な手口です。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/out-of-office-messages/22748/</link>
 			<description><![CDATA[自動応答の不在通知メッセージに潜む危険]]></description>
 			<pubDate>Tue, 19 Mar 2019 01:00:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>CVE-2019-0797：ゼロデイ脆弱性が新たに見つかる</title>
+			<link>https://blog.kaspersky.co.jp/cve-2019-0797-vulnerability-detected/22790/</link>
+			<description><![CDATA[当社のプロアクティブ技術が、APT攻撃に悪用されていた Windows 脆弱性を新たに検知しました。]]></description>
+			<pubDate>Wed, 20 Mar 2019 04:00:28 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
