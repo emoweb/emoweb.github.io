@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】Thermalright、静音化したCPUクーラー「Macho 120 Rev.B」</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1176008.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1176/008/1_o.jpg"></div></div></div></div></div></div><p>　<a href="http://www.dirac.co.jp/" class="n" target="_blank">株式会社ディラック</a>は、Thermalright製CPUクーラー「Macho 120 Rev.B」を26日に発売する。価格はオープンプライスで、税別店頭予想価格は6,000円前後の見込み。</p><p>　付属するCPUファンを「TY-121」に変更しし、回転速度を上げながら動作音を同等以下に抑えたという。風量は若干下がっているが、付属するグリスの熱伝導率を向上させることで、TDP 200Wに対応する冷却能力を維持した。</p></div></div>]]></description>
-			<pubDate>Fri, 22 Mar 2019 15:03:37 +0900</pubDate>
-		</item>
-		<item>
 			<title>Windows 7のサポート終了を知らせるパッチ「KB4493132」が配信開始 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1176027.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1176/027/1_o.png"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は20日、ポップアップ画面でWindows 7のサポート終了を知らせるパッチ「KB4493132」を配信開始した。</p><p>　Windows 7は2020年1月14日にサポートが終了するため、それ以降、セキュリティ脆弱性に関する更新は提供されなくなる。この更新はそれをユーザーに知らせるものとなっている。</p><p>　インストールしたさいの通知プログラムの実態は、System32フォルダに下にある「sipnotify.exe」。タスクスケジューラにより、ユーザーログイン時またはロック解除時、もしくは毎日12時に起動するようセットされている。</p><p>　すでにWindows Updateで配信されており、インストールしてみたが、3月22日時点では編集部の環境では何も表示されなかった。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1176/027/2_o.png"></div></div><span class="caption">プログラムの実態はsipnotify.exeだが、実行してみてもなにも起きなかった</span></div></div></div></div></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1176499.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1176/499/01.jpg"></div></div><span class="caption">120MXSI</span></div></div></div></div><p>　<a href="https://canon.jp/" class="n" target="_blank">キヤノン株式会社</a>は、有効画素数1.2億画素のCMOSイメージセンサー「120MXSI」を発売した。</p><p>　120MXSIは、有効画素数13,272×9,176ピクセル、1.2億画素での撮影が可能なAPS-HサイズのCMOSイメージセンサー。カラーフィルタの1画素を近赤外線域用の画素として割り当てることで、1つのセンサーで、RGBのカラー画像と近赤外線の波長域(約800～1,000nm)の画像を同時に取得できるのが特徴。</p><p>　一般的なカメラではどちらか一方のみの撮影が可能で、両画像を同時に取得するには複数台のカメラを用いたシステムが必要になるが、本製品を利用すれば、カメラの台数を抑えてシステムや検査装置を小型化できる。</p><p>　近赤外線域の光を透過する物質において、光の反射率や吸収率の違いなどから内部の状態を観察できるため、食品工場の異物混入検査でカラー画像との併用によって検査精度を向上するといった活用方法が見込まれる。</p></div></div>]]></description>
 			<pubDate>Tue, 26 Mar 2019 14:44:56 +0900</pubDate>
+		</item>
+		<item>
+			<title>期間限定で「ATOK for iOS/Android」が4割引き </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1176550.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1176/550/01.png"></div></div></div></div></div></div><p>　<a href="https://www.justsystems.com/jp/" class="n" target="_blank">株式会社ジャストシステム</a>は、日本語入力システム「ATOK for iOS」および「ATOK for Android」を特別価格で提供する「新生活応援40％OFFセール」を27日より開始する。</p><p>　セール期間中は、ATOK for iOSとATOK for Androidが40%引きの特別価格で販売される。</p><p>　セール期間は31日までとなっており、通常1,600円のATOK for iOSは960円、通常1,543円のATOK for Androidは926円、通常8,538円のATOK for Android 医療辞書セットは5,123円で購入できる。</p></div></div>]]></description>
+			<pubDate>Tue, 26 Mar 2019 16:37:59 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
