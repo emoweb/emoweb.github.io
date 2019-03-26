@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>Windows 7のサポート終了を知らせるパッチ「KB4493132」が配信開始 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1176027.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1176/027/1_o.png"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は20日、ポップアップ画面でWindows 7のサポート終了を知らせるパッチ「KB4493132」を配信開始した。</p><p>　Windows 7は2020年1月14日にサポートが終了するため、それ以降、セキュリティ脆弱性に関する更新は提供されなくなる。この更新はそれをユーザーに知らせるものとなっている。</p><p>　インストールしたさいの通知プログラムの実態は、System32フォルダに下にある「sipnotify.exe」。タスクスケジューラにより、ユーザーログイン時またはロック解除時、もしくは毎日12時に起動するようセットされている。</p><p>　すでにWindows Updateで配信されており、インストールしてみたが、3月22日時点では編集部の環境では何も表示されなかった。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1176/027/2_o.png"></div></div><span class="caption">プログラムの実態はsipnotify.exeだが、実行してみてもなにも起きなかった</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Fri, 22 Mar 2019 16:56:31 +0900</pubDate>
-		</item>
-		<item>
 			<title>ユニットコム、プロゲーマー「ガチくん」コラボPCを発売 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1176061.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1176/061/02_o.png"></div></div></div></div></div></div><p>　株式会社ユニットコムは、プロ格闘ゲーマー「ガチくん」とコラボしたゲーミングPCを「iiyama PC」ブランド「LEVEL∞」より発売した。</p><p>　eスポーツの世界大会で戦う「ガチくん」をサポートし、格闘ゲームのさらなる躍進を後押しすべく企画された商品。一瞬が勝敗を左右すると言われる格闘ゲームにおいて快適なゲーム環境を届けるとしている。</p><p>　一例までにミドルタワーの「LEVEL-R039-LCi9K-XYVI-IeC [Windows 10 Home]」は、Core i9-9900K、メモリ16GB、NVMe SSD 500GB、HDD 2TB、GeForce RTX 2080 Ti、DVDスーパーマルチドライブ、800W 80PLUS TITANIUM認証電源、Windows 10 Homeを搭載し、価格は329,378円。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1176/061/01_o.jpg"></div></div><span class="caption">LEVEL-R039-LCi9K-XYVI-IeC [Windows 10 Home]</span></div></div></div></div><p>　BTOに対応するほか、ミニタワーやノート型もラインナップする。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1176550.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1176/550/01.png"></div></div></div></div></div></div><p>　<a href="https://www.justsystems.com/jp/" class="n" target="_blank">株式会社ジャストシステム</a>は、日本語入力システム「ATOK for iOS」および「ATOK for Android」を特別価格で提供する「新生活応援40％OFFセール」を27日より開始する。</p><p>　セール期間中は、ATOK for iOSとATOK for Androidが40%引きの特別価格で販売される。</p><p>　セール期間は31日までとなっており、通常1,600円のATOK for iOSは960円、通常1,543円のATOK for Androidは926円、通常8,538円のATOK for Android 医療辞書セットは5,123円で購入できる。</p></div></div>]]></description>
 			<pubDate>Tue, 26 Mar 2019 16:37:59 +0900</pubDate>
+		</item>
+		<item>
+			<title>ASUS製PCの自動更新ツールがトロイの木馬化。100万人規模に影響の恐れ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1176572.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1176/572/01.png"></div></div><span class="caption">正式な証明書でデジタル署名されている不正な「ASUS Live Update Utility」インストーラ</span></div></div></div></div><p>　露<a href="https://www.kaspersky.com/" class="n" target="_blank">Kaspersky</a>は25日、台湾ASUSのPC用アップデートツールを介して、2018年6月～11月にかけてマルウェア攻撃が行われていたことを発見、その情報を公開した。</p><p>　Kasperskyが発見したのは、BIOSやUEFI、ドライバ、アプリケーションなどを自動更新するためにほとんどのASUS製PCにプリインストールされている「ASUS Live Update Utility」が、不正なアップデートを受け取ることで“トロイの木馬”として振る舞い、追加のマルウェアを送り込むというもの。</p><p>　発見されたのは1月だが、攻撃が実行されたのは2018年6月～11月と4カ月以上前であるという。発見が遅れたのは、不正なアップデータがASUSのアップデートサーバーから配信され、ASUSの持つ正当な証明書で署名されていたためで、いわゆるサプライチェーン攻撃にあたる。</p><p>　Kasperskyでは、この攻撃を「ShadowHammer」と名付け、「Shadowpad」や「CCleaner」での事例を超えた、高度なサプライチェーン攻撃であるとしている。</p><p>　Kasperskyのソフトウェア検知によれば、5万7千人以上のKasperskyユーザーがトロイの木馬化されたASUS Live Updateをダウンロード、およびインストールしており、非Kasperskyユーザーも含めると、全世界で100万人超のユーザーがShadowHammerの影響を受けるとの予測を示している。</p><p>　Kasperskyは、1月31日にASUSに連絡を取り、ASUSでの調査に協力を行なっているという。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1176/572/02.png"></div></div><span class="caption">Kasperskyユーザーのうち不正なASUS Live Updateをインストールしていたユーザーの国別比率。日本は2%未満となっているが、あくまでもKasperskyユーザーの比率に基づいているため、実際よりも小さい値の可能性があることに留意されたい</span></div></div></div></div><p>　攻撃そのものは、無差別に攻撃するものではなく、未知のユーザーグループをターゲットにしたものと見られ、ShadowHammerはネットワークアダプタのMACアドレスをハードコーディングすることで攻撃対象を識別している。</p><p>　Kasperskyでは、200以上のサンプルから600以上のMACアドレスを抽出しており、この攻撃対象になっているのかを確認できるよう、PCのMACアドレスとマルウェアにハードコードされている事前定義されたMACアドレスのリストとを比較して、一致した場合に警告を行なう<a href="https://kas.pr/shadowhammer" class="n" target="_blank">ツール</a>も提供している。このリストは<a href="https://shadowhammer.kaspersky.com/" class="n" target="_blank">Webサイト</a>からも確認できるため、ASUS製PCユーザーは1度確認することを推奨したい。</p></div></div>]]></description>
+			<pubDate>Tue, 26 Mar 2019 17:02:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
