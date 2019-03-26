@@ -5,42 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ASUSの自動更新ソフトにバックドア。更新サーバーが乗っ取られユーザーに配布
-</title>
-			<link>https://japanese.engadget.com/2019/03/25/asus/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F8093f730-4f66-11e9-9acf-7cc9edf6738d&client=a1acac3e1b3290917d92&signature=644faae8745e0d735c10f92cf4e88e358caa2c75" />
-公式アプリがマルウェアに感染し、アプリストアで配布されるという、いわゆるサプライチェーン攻撃は残念なことに珍しい話でもなくなってきましたが、ASUSのPCがこのサプライチェーン攻撃を受けていたようです。
-
-ロシアのセキュリティ企業Kasperskyによると、ASUS Live Updateが利用するアップデートサーバーが攻撃を受け、アップデートによりバックドアが仕込まれたASUS Live Updateがユーザーに配布されていたとのこと。ShadowHammerと名付けられたこの攻撃は、2018年6月～11月の間に行われていました。
-
-ASUS Live UpdateはASUS製PCにプリインストールされているユーティリティで、BIOSやドライバなどの自動更新に使われています。
-
-5万7000人以上のKasperskyユーザーが、バックドア入りのASUS Live Updateをインストールしていたとのこと。その内訳としては、ほとんどがロシア、ドイツ、フランスですが、日本でも2％弱の割合で見つかっています。この割合はあくまでもKasperskyユーザーの分布に影響しているもので、実際にはASUSユーザーの分布に比例するはずとのこと。そして、全世界では100万人以上が影響を受ける可能性があると指摘しています。
-
-改ざんされたASUS Live Updateには、正規のデジタル証明書が利用されていたため、これまで発覚しなかったようです。
-
-気になるその動作ですが、標的となる特定のMACアドレスの機器にインストールされた場合に限り、バックドアを通じて別のマルウェアをダウンロードするようになっていたとのこと。200以上のサンプルを解析した結果、攻撃対象として約600のMACアドレスが見つかっていますが、他の攻撃対象を含むサンプルがあるかもしれないとしています。
-
-この攻撃対象に含まれない限り、バックドアを持つLive Updateは特に何もしないようです。念のため、自身のPCが攻撃対象に含まれるかをチェックするツールをKasperskyが配布しています。
-
-この件に関して、ASUSからはまだ発表がありませんが、The Vergeによると3月26日午後（現地時間）に発表を行う予定だとしています。
-
- 
- ]]></description>
-			<pubDate>Mon, 25 Mar 2019 23:40:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Apple Watch Series 4の心電図機能、EUでも利用可能に？iOS  12.2にアメリカ以外への言及が見つかる
-</title>
-			<link>https://japanese.engadget.com/2019/03/26/apple-watch-series-4-eu-ios-12-2/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F1d0932d0-4f79-11e9-b7ee-addec7bea9a1&client=a1acac3e1b3290917d92&signature=373f06a0999fbdff19bc3a8dc3d00b09473104f4" />
-Apple Watch Series 4のECG（心電図）アプリは現時点ではアメリカおよび米領のみ利用可能で、開発者向けのiOS 12.2ベータ5ではさらに地域チェックが厳しくなったと報じられていました。
-
-が、3月26日（日本時間）に正式リリースされたiOS 12.2のドキュメント等から、近日中にEUなど他の地域でも利用できるようになる可能性が発見されたと伝えられています。
- ]]></description>
-			<pubDate>Tue, 26 Mar 2019 00:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    HTCの法人向けVRヘッドセットVive Focus Plus、4月中旬に799ドルで発売
 </title>
 			<link>https://japanese.engadget.com/2019/03/26/htc-vr-vive-focus-plus-4-799/</link>
@@ -1397,6 +1361,40 @@ Less is moreプロジェクトチーム
 
  ]]></description>
 			<pubDate>Tue, 26 Mar 2019 17:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    落書きが楽しい手書き対応電子ペーパー「QUADERNO」に描きまくってみた：電脳オルタナティヴ
+</title>
+			<link>https://japanese.engadget.com/2019/03/26/quaderno/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F24cbd400-4fba-11e9-87d5-fa1ef42ad710&client=a1acac3e1b3290917d92&signature=32d7b3e021f8559d5ddd639a4eab5b3295fde5f4" />モノ系ライターのナックル末吉です。気が向くとイラストを描くこともある筆者としては、ペン入力デバイスと聞いたら触らないわけにはいきません。というわけで今回は、富士通クライアントコンピューティング（FCCL）の手書き入力対応の電子ペーパー「QUADERNO（クアデルノ）」のレビューをお届けします。
+ ]]></description>
+			<pubDate>Tue, 26 Mar 2019 17:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    大腸がアツくなる謎のインスタ映え空間！ 辛酸なめ子の「うんこミュージアム」話
+</title>
+			<link>https://japanese.engadget.com/2019/03/26/unko/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-03/4d0853a0-4f9a-11e9-b79a-c3f8caba14c1" />
+「カップラーメンミュージアム」「横浜アンパンマンこどもミュージアム」「横浜チョコレートファクトリー&amp;ミュージアム」......数々のミュージアムが林立する横浜。ついに、本命ともいえるミュージアムが登場しました！ それが「うんこミュージアム YOKOHAMA」。横浜にオープンした体験型施設「アソビル」内にある施設で、アカツキライブエンターテインメントとカヤックによる共同企画です。
+
+うんこはここ最近ブームのコンテンツ。このミュージアムではインプットであると同時にアウトプットでもあるうんこの魅力を多角的に体感できます。
+
+入場すると全員カラフルな便器に座り、いきむように言われます。「う〜ん　う〜ん」とか言っていると、いつの間にか便器の中にプラスチック製のうんこが。棒に差して「マイうんこ」として持ち歩きながら施設を楽しめます。この最初の通過儀礼で童心に返り、うんこへの理性の壁が取り払われ、平気で「うんこ」と口に出せるようになります。
+
+30分ごとに何かが起こるウンコ・ボルケーノ、POPでファンシーなうんこと撮影できるフライングうんこ、叫び声が常に響いているうんこシャウト、落ちてくるうんこをキャッチするといったクソゲーコーナー、意外とためになる世界のUNKOグッズなど、狭すぎず広すぎない会場内はかなりの充実ぶり。凝縮したうんこ空間です。うんこへの愛であふれていて、自分の腸内環境も良くなって気がしました。便秘にでもなったら訪れたいスポットです。
+
+■施設情報
+うんこミュージアム YOKOHAMA
+住所　神奈川県横浜市西区高島2-14&minus;9　アソビル2F
+開館時間　11:00～20:00（月〜木）、10:00～21:00（金土日・祝前日・祝日）
+前売りチケット　大人（中学生以上）1600円、小人（小学生）900円、小学生未満 無料
+当日チケット　大人1700円、小人900円、小学生未満 無料
+サイトURL　https://ale-box.com/unkomuseum/
+
+ 
+
+ ]]></description>
+			<pubDate>Tue, 26 Mar 2019 18:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
