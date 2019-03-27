@@ -5,26 +5,12 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2019-03-22 05:09:13 +0900</title>
+			<title>2019-03-27 18:12:15 +0900</title>
 			<link> </link>
-			<description><![CDATA[<strong>comic_meteor</strong><br/><p>#&lt;SocketError: Failed to open TCP connection to comic-meteor.jp:443 (getaddrinfo: Name or service not known)&gt;
+			<description><![CDATA[<strong>kaden_watch</strong><br/><p>#&lt;EOFError: end of file reached&gt;
 in
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:882:in `rescue in block in connect&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:879:in `block in connect&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/timeout.rb:91:in `block in timeout&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/timeout.rb:101:in `timeout&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:878:in `connect&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:863:in `do_start&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:852:in `start&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:1398:in `request&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:1156:in `get&#39;
-/data/src/rss_crawler/src/lib/httputil.rb:69:in `request&#39;
-/data/src/rss_crawler/src/lib/httputil.rb:87:in `get&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:327:in `page_access&#39;
-/data/src/rss_crawler/src/pipes/comic-meteor.rb:12:in `block in &lt;top (required)&gt;&#39;
-/data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
-/data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
-			<pubDate>Fri, 22 Mar 2019 05:09:13 +0900</pubDate>
+</p>]]></description>
+			<pubDate>Wed, 27 Mar 2019 18:12:15 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
