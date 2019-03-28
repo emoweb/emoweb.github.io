@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>偽のApex Legends：マルウェアのバトルロイヤル</title>
-			<link>https://blog.kaspersky.co.jp/apex-legends-mobile-fakes/22682/</link>
-			<description><![CDATA[エーペックスレジェンズ（Apex Legends）のAndroid版に見せかけたマルウェアの話。]]></description>
-			<pubDate>Wed, 13 Mar 2019 01:00:44 +0000</pubDate>
-		</item>
-		<item>
 			<title>ランサムウェアGandCrab：その多様なターゲットと攻撃手法</title>
 			<link>https://blog.kaspersky.co.jp/gandcrab-ransomware-is-back/22722/</link>
 			<description><![CDATA[GandCrabは今もランサムウェア市場の40%を占め、さまざまな方法で拡散されています。]]></description>
@@ -65,6 +59,12 @@
 			<link>https://blog.kaspersky.co.jp/hacking-smart-car-alarm-systems/22812/</link>
 			<description><![CDATA[自動車を盗難から守ることを目的に設計されたシステムを使って、自動車の追跡や機能停止、果ては窃取が可能であることが調査で明らかになりました。]]></description>
 			<pubDate>Wed, 27 Mar 2019 01:00:16 +0000</pubDate>
+		</item>
+		<item>
+			<title>ShadowHammer：ASUSのラップトップを狙う悪意あるアップデート</title>
+			<link>https://blog.kaspersky.co.jp/shadow-hammer-teaser/22850/</link>
+			<description><![CDATA[Kaspersky Labのテクノロジーにより、過去最大規模のサプライチェーン攻撃と思われる脅威が検知されました。]]></description>
+			<pubDate>Thu, 28 Mar 2019 01:00:02 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
