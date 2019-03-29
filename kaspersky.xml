@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Mobile World Congress 2019まとめ</title>
-			<link>https://blog.kaspersky.co.jp/mwc19-recap/22740/</link>
-			<description><![CDATA[Mobile World Congress 2019で目立ったトピックは、5G、IoT、超音波式指紋センサー、そしてAIでした。]]></description>
-			<pubDate>Fri, 15 Mar 2019 01:00:40 +0000</pubDate>
-		</item>
-		<item>
 			<title>中つ国からのサイバーセキュリティレポート</title>
 			<link>https://blog.kaspersky.co.jp/middle-earth-cybersecurity/22698/</link>
 			<description><![CDATA[「力の指輪」として知られるデバイスに組み込まれた、サウロンのハッキングツールを分析してみました。]]></description>
@@ -65,6 +59,12 @@
 			<link>https://blog.kaspersky.co.jp/pirate-matryoshka-malware/22753/</link>
 			<description><![CDATA[マルウェア「Pirate Matryoshka」の詳細情報と、トレントトラッカーからクラックされたソフトウェアをダウンロードしてはいけない理由。]]></description>
 			<pubDate>Thu, 28 Mar 2019 04:00:37 +0000</pubDate>
+		</item>
+		<item>
+			<title>高度な標的型攻撃：偽旗作戦、サプライチェーン攻撃、IoTデバイスへの脅威</title>
+			<link>https://blog.kaspersky.co.jp/apt-trend-by-kaspersky-great/22823/</link>
+			<description><![CDATA[高度な標的型攻撃はどのような進化・変化を見せているのか。カスペルスキーの調査分析チーム（GReAT）のエキスパートによる概説と、特に偽旗攻撃について。]]></description>
+			<pubDate>Fri, 29 Mar 2019 01:00:17 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
