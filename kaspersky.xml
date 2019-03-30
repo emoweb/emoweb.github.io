@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>CVE-2019-0797：ゼロデイ脆弱性が新たに見つかる</title>
-			<link>https://blog.kaspersky.co.jp/cve-2019-0797-vulnerability-detected/22790/</link>
-			<description><![CDATA[当社のプロアクティブ技術が、APT攻撃に悪用されていた Windows 脆弱性を新たに検知しました。]]></description>
-			<pubDate>Wed, 20 Mar 2019 04:00:28 +0000</pubDate>
-		</item>
-		<item>
 			<title>急増するクリプトジャッキング</title>
 			<link>https://blog.kaspersky.co.jp/cryptojacking-rsa2019/22765/</link>
 			<description><![CDATA[仮想通貨の価値が下落していますが、クリプトジャッキングは減るどころか、むしろ急速に増えています。]]></description>
@@ -66,6 +60,12 @@
 			<description><![CDATA[WinRARに存在するバグの悪用により、デバイスを完全に乗っ取れることが明らかになりました。不正なRARファイルを解凍するだけでマルウェア感染してしまいます。
 ]]></description>
 			<pubDate>Fri, 29 Mar 2019 10:00:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>ホワイトハッカーの日常</title>
+			<link>https://blog.kaspersky.co.jp/whitehat-hacker-daily-life/12730/</link>
+			<description><![CDATA[サイバーセキュリティの「中の人」は、どんな人？グローバル調査分析チーム（GReAT）のメンバー、デイビッド・ヤコビーの自宅と街の様子を撮影しました。]]></description>
+			<pubDate>Sat, 30 Mar 2019 01:00:52 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
