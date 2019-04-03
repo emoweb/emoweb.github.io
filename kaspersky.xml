@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Instagramアカウント乗っ取りを狙う、偽の著作権侵害通知</title>
-			<link>https://blog.kaspersky.co.jp/instagram-hijack-new-wave/22801/</link>
-			<description><![CDATA[人気のあるInstagramアカウントを乗っ取るため、著作権侵害通知を装ったフィッシングメールを送りつけてくる犯罪者がいます。]]></description>
-			<pubDate>Mon, 25 Mar 2019 01:00:57 +0000</pubDate>
-		</item>
-		<item>
 			<title>自分のAndroidスマートフォンに最適なセキュリティ製品を選ぶには</title>
 			<link>https://blog.kaspersky.co.jp/choosing-antivirus-for-android/22451/</link>
 			<description><![CDATA[Androidにはセキュリティ製品が欠かせません。あなたのAndroidスマートフォンに最適なウイルス対策アプリを選ぶ方法を、有料版と無料版の両方を対象に説明します。
@@ -66,6 +60,12 @@
 			<link>https://blog.kaspersky.co.jp/mirai-enterprise/22827/</link>
 			<description><![CDATA[新型のMiraiは、今まで以上にさまざまなエクスプロイトが組み込まれています。その中には、企業向けIoTデバイスを標的にしているものもあります。]]></description>
 			<pubDate>Mon, 01 Apr 2019 01:00:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>暗号化されてしまった会社のデータはほぼ復号できないと考えるべき理由</title>
+			<link>https://blog.kaspersky.co.jp/undecryptable-files/22846/</link>
+			<description><![CDATA[ランサムウェアに暗号化されたデータを取り戻すのは簡単なことではなく、不可能な場合もあります。ランサムウェア対策は、そもそも感染しないようにデータを保護するのがベターです。]]></description>
+			<pubDate>Wed, 03 Apr 2019 01:00:02 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
