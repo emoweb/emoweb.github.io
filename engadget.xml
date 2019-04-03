@@ -5,15 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    著作権法を見直し私的録音録画補償金ではなくフェアユース規定での運用がクリエーターにも消費者にもベスト：旅人目線のデジタルレポ 中山智
-</title>
-			<link>https://japanese.engadget.com/2019/04/02/JASRAC/</link>
-			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-04/14607160-545c-11e9-b777-a6d894bf6bf1" />
-旅人ITライターの中山です。以前文化庁の「文化審議会著作権分科会 著作物等の適切な保護と利用・流通に関する小委員会（さらに）（4回）」を傍聴・取材した記事を書きましたが、その後も小委員会は定期的に開催され、2月1日の第7回で審議経過報告案の修正を承認。平成27年度から続いた審議に「一応」のまとめが成されました。
- ]]></description>
-			<pubDate>Tue, 02 Apr 2019 01:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    LUMIXカメラの体験・修理拠点　銀座に20日オープン
 </title>
 			<link>https://japanese.engadget.com/2019/04/02/lumix-20/</link>
@@ -600,6 +591,34 @@ iOSにも対応する見通し
 女性はクラブの名簿に名前がなかったものの、女性とおなじ姓の関係者がいるとクラブのマネージャーが言ったことで親戚と勘違いされ、施設に入ることを許可されました。その後女性はチャーリーという人物から架空の国連関係のイベントに招待されたと主張、当日別荘に集まっていた人々と米中の経済関係について話したがったとされます。
  ]]></description>
 			<pubDate>Tue, 02 Apr 2019 23:40:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Google、2018年のAndroidセキュリティ年次報告を公開。「全体的な健全性は向上」と主張
+</title>
+			<link>https://japanese.engadget.com/2019/04/03/google-2018-android/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2Fc9807db0-55ba-11e9-bf93-f7d478fc0b0f&client=a1acac3e1b3290917d92&signature=ee2d19c895e11a0fad30b690f30ac2efb47d3c93" />
+Googleは4月1日（米時間）、Androidのセキュリティへの取り組みとその動向をまとめたレポート、Android Security &amp; Privacy 2018 Year In Reviewを公開しました。
+
+2018年にも、マルウェアなどを含む有害なアプリ（PHA： Potentially Harmful Apps）がGoogle Playで配信されていたのが見つかっていますが、それでもGoogleは「Androidエコシステムの全体的な健全性は向上している」としています。
+
+ 
+関連記事：
+Google Playストアに13本のマルウェアが発見？56万回以上もダウンロードされたとの専門家報告
+北朝鮮の脱北者を狙うAndroid用マルウェア、Google Playで発見。食品情報アプリに偽装
+
+
+具体的には、Google PlayからダウンロードされたPHAの割合は、2017年の0.02%から0.04%に増加。数字は悪化しているのですが、これは今年からクリック詐欺アプリをPHAに含めて集計しているためです。クリック(ワンタップ)詐欺アプリを除くと、PHAは前年比で31%ほど減少しているとのこと。
+
+クリック詐欺アプリは、ユーザーが意図しない広告クリック(タップ)を誘発させ、アプリ開発者が不正に広告収入を得る目的のアプリです。Googleによるとこの手のアプリは増加傾向にあり、Google PlayからインストールされたPHAのうち、54.9%を占めていました。
+
+また、Google Play以外からのインストールでは、バックドアが28%、トロイの木馬（Troijan）が25.1%を占めており、よりセキュリティ的な危険度が高くなっていることがうかがえます。
+
+このほか、2017年に導入された、Google Playアプリ自体に組み込まれたセキュリティ機能Google Play Protectは、毎日20億台以上のデバイスで500億回以上アプリのスキャンを実行しているとのこと。これにより、Google Play Protectを実行しているデバイスにPHAがインストールされた割合は、2017年の0.56%から0.45%に減少。Google Play以外からのPHAインストールを16億回防いだとしています。
+
+少なくとも、Google Play経由でのインストールなら、一定のセキュリティは確保されていることがわかります。しかし、それでもすり抜けてしまう悪質アプリは登場するので、むやみに知らないアプリをインストールしないなど、自衛策は必要かもしれません。
+ 
+ ]]></description>
+			<pubDate>Wed, 03 Apr 2019 00:50:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
