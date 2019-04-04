@@ -5,14 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>自分のAndroidスマートフォンに最適なセキュリティ製品を選ぶには</title>
-			<link>https://blog.kaspersky.co.jp/choosing-antivirus-for-android/22451/</link>
-			<description><![CDATA[Androidにはセキュリティ製品が欠かせません。あなたのAndroidスマートフォンに最適なウイルス対策アプリを選ぶ方法を、有料版と無料版の両方を対象に説明します。
-
-]]></description>
-			<pubDate>Tue, 26 Mar 2019 01:00:10 +0000</pubDate>
-		</item>
-		<item>
 			<title>ハッキングされるスマートカーのアラームシステム</title>
 			<link>https://blog.kaspersky.co.jp/hacking-smart-car-alarm-systems/22812/</link>
 			<description><![CDATA[自動車を盗難から守ることを目的に設計されたシステムを使って、自動車の追跡や機能停止、果ては窃取が可能であることが調査で明らかになりました。]]></description>
@@ -66,6 +58,14 @@
 			<link>https://blog.kaspersky.co.jp/undecryptable-files/22846/</link>
 			<description><![CDATA[ランサムウェアに暗号化されたデータを取り戻すのは簡単なことではなく、不可能な場合もあります。ランサムウェア対策は、そもそも感染しないようにデータを保護するのがベターです。]]></description>
 			<pubDate>Wed, 03 Apr 2019 01:00:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>RSAC 2019：完璧なパッチ適用戦略を求めて</title>
+			<link>https://blog.kaspersky.co.jp/patching-strategy-rsa2019/22875/</link>
+			<description><![CDATA[RSAC 2019に登壇したリサーチャーが、現在の脆弱性の状況を説明し、効果的にパッチを適用するための戦略モデルを発表しました。
+
+]]></description>
+			<pubDate>Thu, 04 Apr 2019 01:00:22 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
