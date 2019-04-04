@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ハッキングされるスマートカーのアラームシステム</title>
-			<link>https://blog.kaspersky.co.jp/hacking-smart-car-alarm-systems/22812/</link>
-			<description><![CDATA[自動車を盗難から守ることを目的に設計されたシステムを使って、自動車の追跡や機能停止、果ては窃取が可能であることが調査で明らかになりました。]]></description>
-			<pubDate>Wed, 27 Mar 2019 01:00:16 +0000</pubDate>
-		</item>
-		<item>
 			<title>ShadowHammer：ASUSのラップトップを狙う悪意あるアップデート</title>
 			<link>https://blog.kaspersky.co.jp/shadow-hammer-teaser/22850/</link>
 			<description><![CDATA[Kaspersky Labのテクノロジーにより、過去最大規模のサプライチェーン攻撃と思われる脅威が検知されました。]]></description>
@@ -66,6 +60,12 @@
 
 ]]></description>
 			<pubDate>Thu, 04 Apr 2019 01:00:22 +0000</pubDate>
+		</item>
+		<item>
+			<title>Roaming Mantis パート4：Apple iOS向けの悪意ある構成プロファイル、アップデートされた悪意あるapkファイル（MoqHao/XLoader）の再拡散</title>
+			<link>https://blog.kaspersky.co.jp/roaming-mantis-part-iv/22949/</link>
+			<description><![CDATA[Roaming Mantisが、新たな手法を取り入れた活動を見せています。]]></description>
+			<pubDate>Thu, 04 Apr 2019 05:02:21 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
