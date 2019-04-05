@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ShadowHammer：ASUSのラップトップを狙う悪意あるアップデート</title>
-			<link>https://blog.kaspersky.co.jp/shadow-hammer-teaser/22850/</link>
-			<description><![CDATA[Kaspersky Labのテクノロジーにより、過去最大規模のサプライチェーン攻撃と思われる脅威が検知されました。]]></description>
-			<pubDate>Thu, 28 Mar 2019 01:00:02 +0000</pubDate>
-		</item>
-		<item>
 			<title>Pirate Matryoshka：Pirate Bayに潜む入れ子型のトロイの木馬</title>
 			<link>https://blog.kaspersky.co.jp/pirate-matryoshka-malware/22753/</link>
 			<description><![CDATA[マルウェア「Pirate Matryoshka」の詳細情報と、トレントトラッカーからクラックされたソフトウェアをダウンロードしてはいけない理由。]]></description>
@@ -66,6 +60,12 @@
 			<link>https://blog.kaspersky.co.jp/roaming-mantis-part-iv/22949/</link>
 			<description><![CDATA[Roaming Mantisが、新たな手法を取り入れた活動を見せています。]]></description>
 			<pubDate>Thu, 04 Apr 2019 05:02:21 +0000</pubDate>
+		</item>
+		<item>
+			<title>GitHubでのキー漏洩とその回避方法</title>
+			<link>https://blog.kaspersky.co.jp/tokens-on-github/22922/</link>
+			<description><![CDATA[GitHubでは、トークンや暗号化キーが多数見つかっています。それが危険である理由と、漏洩を防ぐ方法とは。]]></description>
+			<pubDate>Fri, 05 Apr 2019 01:00:36 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
