@@ -5,56 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Android Q、iPhoneの3D Touchのような感圧操作「Deep Press」をサポート
-</title>
-			<link>https://japanese.engadget.com/2019/04/08/android-q-iphone-3d-touch-deep-press/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2F801f5670-59b9-11e9-8ff7-b096bd5e45b0&client=a1acac3e1b3290917d92&signature=b36d134571ca02ebe6edb0dfb4b9c342d249a5ba" />
-iPhone 6sから採用されたiPhoneの3D Touchは、画面を強く押しこむことで、アプリに応じてメニューやプレビュー表示などができる便利な機能です。Android 8.0ではこれに似た機能として、アプリアイコンの長押しでオプションメニューなどが表示されるようになりましたが、当然ながら長押しの時間だけ待たなければいけませんでした。
-
-しかし、Android Qでは、これを解決する新しい操作、「Deep Press」が追加されるようです。
-
-Androidの開発者向けドキュメントによると、画面上を強く押しこむのを検知できるとのこと。「長押しの動作を早めるために使用する必要がある」と説明されています。
-
-名称および説明を見る限り、3D Touchのような感圧式の操作が可能になると考えられます。ただ、強く押しこむことにより、指の接地面が増えるので、純粋な圧力ではなくこれを検出する可能性もあります。
-
-このため、ディスプレイに圧力検知のための専用ハードが必要となるのか、ソフト的な対応のみで利用できるのかは、いまのところはっきりしていません。
-
-この類の機能は、一部のメーカーが独自に実装していたこともあり、目新しいものではありません。ただ、OSが標準対応するなら、対応アプリも増える可能性が高そうです。
- ]]></description>
-			<pubDate>Mon, 08 Apr 2019 01:20:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    LINEアプリでスターバックスカードが発行可能に
-</title>
-			<link>https://japanese.engadget.com/2019/04/08/line/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2F4c66a5b0-59bc-11e9-bb94-fb5fb112744f&client=a1acac3e1b3290917d92&signature=f38ad19579d0b6b3c8280090c953c2c840229acf" />
-
-スターバックス コーヒー ジャパンとLINEは4月8日、スターバックスでの決済やスター集めなどがLINEアプリで完結する「LINEスターバックスカード」の提供開始しました。
-
-スターバックスでの決済といえば、公式スタバアプリをダウンロードして会員登録することでバーコードでの決済が可能でした。
-
-LINEスターバックスカードは、LINEウォレット内の「マイカード」から決済機能を持つプリペイドカードを使えるもの。LINEのマイカード内で決済機能を持つ企業用プリペイドカードが搭載されるのは初だといいます。
-
-カードのデザインもオリジナルです。「ブラウン＆フレンズ」の「ブラウン」と「サリー」がコーヒーを持つ、スターバックスカード風のデザインとなっています。
-
-
-
-画面の指示に沿って、利用規約に同意することで直ぐに登録できます。カードの発行時には「Starbucks Rewards」の準会員となります。Starを集めることで、ドリンクやコーヒー豆など交換できます（こちらは My Starbucks への会員登録が必要です）。
-
-
-
-スターバックスのLINE公式アカウントでは、新商品や季節ごとのおすすめ情報などを配信するほか、今後1対1でのコミュニケーションも展開し、配信する情報をユーザーごとにパーソナライズできると言います。この他にも、お気に入りの一杯を探せるカスタマイズ機能や、メニューに困ったときにオススメの商品と出会える機能も提供していく予定です。
-
-2社が業務提携をした理由について次のようにコメントしています。
-
-スターバックスは、7900万人以上が利用しているLINEアプリを活用することで、既存のスターバックスユーザーとのコミュニケーションを強化する狙いがあります。LINEユーザーはもちろんのこと、登録ユーザー数3000万人を超えるLINE Payのユーザーはスターバックスにとっても魅力的だとしています。
-
-一方のLINEはフードやコーヒーチェーン各社と提携することで、アプリひとつでコミュニケーションから決済までを完結できるというシステムを構築できることを期待しています。
- 
- ]]></description>
-			<pubDate>Mon, 08 Apr 2019 01:40:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    テスラ、自動パーキングおよび出迎え機能「Enhanced Summon」を今秋提供開始。ただし有効範囲約50m
 </title>
 			<link>https://japanese.engadget.com/2019/04/08/enhanced-summon-50m/</link>
@@ -637,6 +587,38 @@ Microsoftは「より大きなChromiumオープンソースコミュニティと
 NASAの科学者が、国際宇宙ステーション(ISS)に侵入し繁殖しているバクテリアや真菌などを調査しまとめた文書を微生物専門の学会誌Microbiomeで発表しました。これら微生物は自らの繁殖のためにバイオフィルムと呼ばれるヌメリのある膜を形成し、金属などに腐食を起こしたり、空気が通る場所を閉塞させたりするといった害をもたらすこともあります。
  ]]></description>
 			<pubDate>Tue, 09 Apr 2019 00:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    JTの新型加熱式タバコ「プルーム・テック・プラス」のカラバリが全10色に！
+</title>
+			<link>https://japanese.engadget.com/2019/04/09/jt-10/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2F275c4c90-5a73-11e9-ad7a-317d47b3eb3d&client=a1acac3e1b3290917d92&signature=768c2f11cf33e5292fdc3f83bedd963c8a54daef" />
+JTは低温加熱型のたばこ用デバイス「プルーム・テック・プラス」の新カラバリを発表しました。プルーム・テック・プラスは、JTがこれまで販売していたプルーム・テックと比較して加熱温度を上げてタバコ葉を増量した専用のカプセルを使用したことで喫煙の満足感を高めたモデルです。
+■関連記事
+加熱式タバコ界の傾奇者「Ploom TECH＋」をブッタ斬る！：電脳オルタナティヴ
+「プルームS」と「プルーム・テック＋（プラス）」 JTが新型加熱式タバコを2種を発表
+
+基本のカラバリはブラックとホワイトのみでしたが、上質で大人びた色合いの「アーバン・シック・カラーズ」4色とカジュアルな色合いの「リラックス・モード・カラーズ」4色が追加され全10色になります。
+
+今回発表された8色のうち4色が4月10日に発売されます。Ploomオンラインショップと全国のPloom専門店にて販売予定で、価格は税込み4980円です。
+
+
+▲4月10日に発売予定の新カラバリ。「アーバン・アイアングリーン」（左上）、「アーバン・ディープバイオレット 」（左下）、「リラックス・ライムイエロー」（右上）、「リラックス・スカイブルー」（右下）
+
+
+ ]]></description>
+			<pubDate>Tue, 09 Apr 2019 00:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    15～17インチの新MacBook Proは2021年前半、アップル純正6Kディスプレイは年内？有名アナリスト予測
+</title>
+			<link>https://japanese.engadget.com/2019/04/09/15-17-macbook-pro-2021-6k/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-04/b88f9bc0-5a7a-11e9-bfd7-62fe5dafb035" />
+Apple
+
+アップル関連のインサイダー情報で知られるアナリストMing-Chi Kuo氏が、アップル未発表製品につき新たな予測を発表したことが報じられています。
+ ]]></description>
+			<pubDate>Tue, 09 Apr 2019 01:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
