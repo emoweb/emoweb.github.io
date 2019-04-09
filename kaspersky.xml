@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Pirate Matryoshka：Pirate Bayに潜む入れ子型のトロイの木馬</title>
-			<link>https://blog.kaspersky.co.jp/pirate-matryoshka-malware/22753/</link>
-			<description><![CDATA[マルウェア「Pirate Matryoshka」の詳細情報と、トレントトラッカーからクラックされたソフトウェアをダウンロードしてはいけない理由。]]></description>
-			<pubDate>Thu, 28 Mar 2019 04:00:37 +0000</pubDate>
-		</item>
-		<item>
 			<title>高度な標的型攻撃：偽旗作戦、サプライチェーン攻撃、IoTデバイスへの脅威</title>
 			<link>https://blog.kaspersky.co.jp/apt-trend-by-kaspersky-great/22823/</link>
 			<description><![CDATA[高度な標的型攻撃はどのような進化・変化を見せているのか。カスペルスキーの調査分析チーム（GReAT）のエキスパートによる概説と、特に偽旗攻撃について。]]></description>
@@ -66,6 +60,12 @@
 			<link>https://blog.kaspersky.co.jp/tokens-on-github/22922/</link>
 			<description><![CDATA[GitHubでは、トークンや暗号化キーが多数見つかっています。それが危険である理由と、漏洩を防ぐ方法とは。]]></description>
 			<pubDate>Fri, 05 Apr 2019 01:00:36 +0000</pubDate>
+		</item>
+		<item>
+			<title>Google Playの新ポリシーが諸刃の剣である理由</title>
+			<link>https://blog.kaspersky.co.jp/google-play-permissions-policy/22911/</link>
+			<description><![CDATA[正当な理由もなく通話履歴やテキストメッセージへのアクセス権限を要求するアプリが、Google Playから追い出されつつあります。これが利用者にもたらしうるリスクを説明します。]]></description>
+			<pubDate>Tue, 09 Apr 2019 01:00:09 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
