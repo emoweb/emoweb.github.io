@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>高度な標的型攻撃：偽旗作戦、サプライチェーン攻撃、IoTデバイスへの脅威</title>
-			<link>https://blog.kaspersky.co.jp/apt-trend-by-kaspersky-great/22823/</link>
-			<description><![CDATA[高度な標的型攻撃はどのような進化・変化を見せているのか。カスペルスキーの調査分析チーム（GReAT）のエキスパートによる概説と、特に偽旗攻撃について。]]></description>
-			<pubDate>Fri, 29 Mar 2019 01:00:17 +0000</pubDate>
-		</item>
-		<item>
 			<title>アルミニウム生産大手Hydro、ランサムウェア攻撃を受ける</title>
 			<link>https://blog.kaspersky.co.jp/hydro-attacked-by-ransomware/22817/</link>
 			<description><![CDATA[ノルウェーの大手メーカーHydroがランサムウェア攻撃を受けました。このセキュリティインシデントを分析します。]]></description>
@@ -66,6 +60,14 @@
 			<link>https://blog.kaspersky.co.jp/google-play-permissions-policy/22911/</link>
 			<description><![CDATA[正当な理由もなく通話履歴やテキストメッセージへのアクセス権限を要求するアプリが、Google Playから追い出されつつあります。これが利用者にもたらしうるリスクを説明します。]]></description>
 			<pubDate>Tue, 09 Apr 2019 01:00:09 +0000</pubDate>
+		</item>
+		<item>
+			<title>RSAC 2019：DNS操作による大規模窃取</title>
+			<link>https://blog.kaspersky.co.jp/grand-theft-dns-rsa2019/22928/</link>
+			<description><![CDATA[RSAC 2019において、SANS Instituteのインストラクターが、DNSを操作して企業のITインフラを乗っ取る方法について説明しました。
+
+]]></description>
+			<pubDate>Wed, 10 Apr 2019 01:00:31 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
