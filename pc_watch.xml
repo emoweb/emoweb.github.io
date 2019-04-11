@@ -5,24 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】エプソン、LX-10000/10000F/7000/7000F ドライバー</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1179412.html</link>
-			<description><![CDATA[<div><div><p>　エプソンは、LX-10000/LX-10000F/LX-7000/LX-7000F ドライバーを公開した。</p></div></div>]]></description>
-			<pubDate>Wed, 10 Apr 2019 20:57:43 +0900</pubDate>
-		</item>
-		<item>
-			<title>【ニュース・フラッシュ】アイ・オー、WN-DX1167R ファームウェア Ver.1.02</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1179413.html</link>
-			<description><![CDATA[<div><div><p>　<a href="http://www.iodata.jp/index.htm" class="n" target="_blank">アイ・オー・データ機器</a>は、WN-DX1167R ファームウェア Ver.1.02を公開した。</p></div></div>]]></description>
-			<pubDate>Wed, 10 Apr 2019 20:58:55 +0900</pubDate>
-		</item>
-		<item>
-			<title>【ニュース・フラッシュ】リコー、RICOH MP 6055/5055/4055/3555/2555用 Network WIA Driver Ver.1.0.157.1 ほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1179416.html</link>
-			<description><![CDATA[<div><div><p>　<a href="http://www.ricoh.co.jp/" class="n" target="_blank">リコー</a>は、RICOH MP 6055/5055/4055/3555/2555用 Network WIA Driver Ver.1.0.157.1 ほかを公開した。</p></div></div>]]></description>
-			<pubDate>Wed, 10 Apr 2019 20:59:30 +0900</pubDate>
-		</item>
-		<item>
 			<title>【本日のできるネット】Googleドライブにファイルをダウンロードする方法 </title>
 			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1179380.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/380/3_o.jpg"></div></div></div></div></div></div><blockquote><p>　Androidスマートフォンの［ドライブ］アプリなら、ファイルを本体ストレージに保存できます。データ通信料を気にせずに、何度もファイルを確認できるようになるので、Wi-Fiに接続して、必要なファイルをダウンロードしましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/17210/">Googleドライブにファイルをダウンロードする方法</a></p></blockquote></div></div>]]></description>
@@ -123,6 +105,36 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1179635.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/01_o.png"></div></div><span class="caption">スター・ウォーズのキャラクターを使ったレイトレのデモ画像</span></div></div></div></div><p>　米NVIDIAは11日(現地時間)、これまでGeForce RTXシリーズでのみ対応可能だった、レイトレーシングをGeForce GTXシリーズでも利用可能にする新しいビデオドライバを公開した。</p><p>　新たに対応するのは、GeForce GTX 1060/1070/1080/1660シリーズ(Ti含む)。新ドライバは、DirectX 12に導入されたDXRによるレイトレーシングに対応し、対応ゲームでリアルタイムレイトレーシングが可能となる。</p><p>　対応ゲームでは、反射、影、グローバルイルミネーション、アンビエントオクルージョンといった光の再現手法にレイトレーシングを活用し、より写実的な表現が可能となる。なお、これら、反射や影など、レイトレーシングをどの表現手法に適用するかはゲームによって異なっており、たとえばBATTLEFIELD Vは反射、SHADOW OF THE TOMB RAIDERでは影、METRO EXODUSではグローバルイルミネーションとアンビエントオクルージョンに利用している。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/02_o.jpg"></div></div><span class="caption">レイトレでの反射と影表現を実装したATOMIC HEARTの画面写真</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/03_o.png"></div></div><span class="caption">レイトレでの反射と影表現を実装した逆水寒の画面写真</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/04_o.png"></div></div><span class="caption">レイトレ対応ゲームと実装手法</span></div></div></div></div><p>　すでにNVIDIA自身によるレイトレーシング適用時の性能も公開されている。これによるとGTX 1080 Tiでも、RTX 2060に大きく水をあけられている状況であるため、画質は向上するものの、性能についてはGTXユーザーは過度の期待は寄せないほうが良さそうではある。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/05_o.png"></div></div><span class="caption">BATTLEFIELD Vのベンチマーク結果</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/06_o.png"></div></div><span class="caption">METRO EXODUSのベンチマーク結果</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/07_o.png"></div></div><span class="caption">SHADOW OF THE TOMB RAIDERのベンチマーク結果</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/09_o.png"></div></div><span class="caption">ATOMIC HEARTのベンチマーク結果</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/10_o.png"></div></div><span class="caption">3DMarkと逆水寒デモのベンチマーク結果</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/08_o.png"></div></div><span class="caption">高度反射とアンビエントオクルージョンを使った場合のベンチマーク結果</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Thu, 11 Apr 2019 22:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】Lenovo、ThinkPad E585 BIOS アップデートほか</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1179668.html</link>
+			<description><![CDATA[<div><div><p>　Lenovoは、ThinkPad E585 BIOS アップデートほかを公開した。</p></div></div>]]></description>
+			<pubDate>Thu, 11 Apr 2019 22:55:41 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】リコー、RICOH用 PPDインストーラー Ver.3.0.0.0ほか</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1179669.html</link>
+			<description><![CDATA[<div><div><p>　リコーは、RICOH用 PPDインストーラー Ver.3.0.0.0ほかを公開した。</p></div></div>]]></description>
+			<pubDate>Thu, 11 Apr 2019 22:56:15 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】パナソニック、FZ-B2D(BCR/LAN搭載モデル) システムソフトウェアアップデート V1.02L32M0002ほか</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1179670.html</link>
+			<description><![CDATA[<div><div><p>　パナソニックは、FZ-B2D(BCR/LAN搭載モデル) システムソフトウェアアップデート V1.02L32M0002ほかを公開した。</p></div></div>]]></description>
+			<pubDate>Thu, 11 Apr 2019 22:56:33 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】キヤノン、GPS Log File Utility 1.0.0ほか</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1179672.html</link>
+			<description><![CDATA[<div><div><p>　キヤノンは、GPS Log File Utility 1.0.0ほかを公開した。</p></div></div>]]></description>
+			<pubDate>Thu, 11 Apr 2019 22:56:48 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】東芝、インテル アクティブ・マネジメント・テクノロジーのアップデートほか</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1179673.html</link>
+			<description><![CDATA[<div><div><p>　東芝は、インテル アクティブ・マネジメント・テクノロジーのアップデートほかを公開した。</p></div></div>]]></description>
+			<pubDate>Thu, 11 Apr 2019 22:56:56 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
