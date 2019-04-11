@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>アイ・オー、重量約55gの軽量ポータブルSSD </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1179395.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/395/01.jpg"></div></div><span class="caption">SSPH-UT スモーキーブラック</span></div></div></div></div><p>　アイ・オー・データ機器は、USB 3.0接続のポータブルSSD「SSPH-UT」シリーズを4月下旬より順次発売する。価格は7,800円から。</p><p>　8cm角の筐体に約55gという軽量設計が特徴のポータブルSSD。シリコンラバー素材のカバーにより耐衝撃性に優れるとしている。</p><p>　容量は240GB/480GB/960GBの3モデルを用意。税別価格はそれぞれ7,800円、12,200円、22,100円。</p><p>　本体色はスモーキーブラックとワインレッドの2色。</p></div></div>]]></description>
-			<pubDate>Wed, 10 Apr 2019 19:42:38 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】エプソン、LX-10000/10000F/7000/7000F ドライバー</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1179412.html</link>
 			<description><![CDATA[<div><div><p>　エプソンは、LX-10000/LX-10000F/LX-7000/LX-7000F ドライバーを公開した。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1179660.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/660/01_o.jpg"></div></div><span class="caption">SU765</span></div></div></div></div><p>　<a href="https://www.benq.com/ja-jp/index.html" class="n" target="_blank">ベンキュージャパン株式会社</a>は、ビジネス向けの高輝度プロジェクタ「SU765」を19日より発売する。価格はオープンプライスで、店頭予想価格は340,000円前後の見込み。</p><p>　WUXGA(1,920×1,200ドット)解像度で輝度5,500ルーメンを実現したプロジェクタ。1.5倍の光学ズームで投射距離が限られた場所でも設置できる「Big Zoom」機能や、情報を視覚的に表現するインフォグラフィックを使ったプレゼンテーションに最適な「インフォグラフィックモード」などを備える。</p><p>　台形補正は縦横±30度まで対応し、映像の四隅を個々に調整して歪みを補正するコーナーフィット制御機能も搭載。柔軟に設置位置を選択できる。</p><p>　おもな仕様は、解像度が640×480～4,096×2,160ドット、表示色数が約10億7,000万色、投射距離が約2.4～3.6m(80型)/約3～4.5m(100型)、画面サイズは30～300型。</p><p>　インターフェイスは、HDMI×2、ミニD-Sub15ピン(入力×1、出力×1)、音声入出力。そのほか制御用にUSBポート、Ethernetなども備える。</p><p>　本体サイズは約360×259×121mm(幅×奥行き×高さ)、重量は約3.7kg。</p></div></div>]]></description>
 			<pubDate>Thu, 11 Apr 2019 19:13:20 +0900</pubDate>
+		</item>
+		<item>
+			<title>NVIDIA、GeForce GTXでもレイトレ対応となるビデオドライバ公開 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1179635.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/01_o.png"></div></div><span class="caption">スター・ウォーズのキャラクターを使ったレイトレのデモ画像</span></div></div></div></div><p>　米NVIDIAは11日(現地時間)、これまでGeForce RTXシリーズでのみ対応可能だった、レイトレーシングをGeForce GTXシリーズでも利用可能にする新しいビデオドライバを公開した。</p><p>　新たに対応するのは、GeForce GTX 1060/1070/1080/1660シリーズ(Ti含む)。新ドライバは、DirectX 12に導入されたDXRによるレイトレーシングに対応し、対応ゲームでリアルタイムレイトレーシングが可能となる。</p><p>　対応ゲームでは、反射、影、グローバルイルミネーション、アンビエントオクルージョンといった光の再現手法にレイトレーシングを活用し、より写実的な表現が可能となる。なお、これら、反射や影など、レイトレーシングをどの表現手法に適用するかはゲームによって異なっており、たとえばBATTLEFIELD Vは反射、SHADOW OF THE TOMB RAIDERでは影、METRO EXODUSではグローバルイルミネーションとアンビエントオクルージョンに利用している。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/02_o.jpg"></div></div><span class="caption">レイトレでの反射と影表現を実装したATOMIC HEARTの画面写真</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/03_o.png"></div></div><span class="caption">レイトレでの反射と影表現を実装した逆水寒の画面写真</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/04_o.png"></div></div><span class="caption">レイトレ対応ゲームと実装手法</span></div></div></div></div><p>　すでにNVIDIA自身によるレイトレーシング適用時の性能も公開されている。これによるとGTX 1080 Tiでも、RTX 2060に大きく水をあけられている状況であるため、画質は向上するものの、性能についてはGTXユーザーは過度の期待は寄せないほうが良さそうではある。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/05_o.png"></div></div><span class="caption">BATTLEFIELD Vのベンチマーク結果</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/06_o.png"></div></div><span class="caption">METRO EXODUSのベンチマーク結果</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/07_o.png"></div></div><span class="caption">SHADOW OF THE TOMB RAIDERのベンチマーク結果</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/09_o.png"></div></div><span class="caption">ATOMIC HEARTのベンチマーク結果</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/10_o.png"></div></div><span class="caption">3DMarkと逆水寒デモのベンチマーク結果</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1179/635/08_o.png"></div></div><span class="caption">高度反射とアンビエントオクルージョンを使った場合のベンチマーク結果</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 11 Apr 2019 22:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
