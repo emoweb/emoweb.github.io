@@ -5,13 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>WinRARをお使いですか？今すぐアップデートを！</title>
-			<link>https://blog.kaspersky.co.jp/update-winrar-now/22860/</link>
-			<description><![CDATA[WinRARに存在するバグの悪用により、デバイスを完全に乗っ取れることが明らかになりました。不正なRARファイルを解凍するだけでマルウェア感染してしまいます。
-]]></description>
-			<pubDate>Fri, 29 Mar 2019 10:00:33 +0000</pubDate>
-		</item>
-		<item>
 			<title>ホワイトハッカーの日常</title>
 			<link>https://blog.kaspersky.co.jp/whitehat-hacker-daily-life/12730/</link>
 			<description><![CDATA[サイバーセキュリティの「中の人」は、どんな人？グローバル調査分析チーム（GReAT）のメンバー、デイビッド・ヤコビーの自宅と街の様子を撮影しました。]]></description>
@@ -68,6 +61,12 @@
 			<link>https://blog.kaspersky.co.jp/digital-masks-card-fraud/23014/</link>
 			<description><![CDATA[他人のデバイスから収集したデータを使用して詐欺対策システムを欺き、標的の銀行口座から預金を吸い上げる、犯罪者の手口とは。]]></description>
 			<pubDate>Thu, 11 Apr 2019 04:00:32 +0000</pubDate>
+		</item>
+		<item>
+			<title>Macでマルウェア感染を引き起こすEXEファイル</title>
+			<link>https://blog.kaspersky.co.jp/macos-exe-malware/22857/</link>
+			<description><![CDATA[EXEファイルがWindowsコンピューターに害を及ぼす可能性があることは周知の事実です。しかし、macOSに感染するEXEファイルの存在が明らかになりました。]]></description>
+			<pubDate>Fri, 12 Apr 2019 01:00:29 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
