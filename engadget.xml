@@ -5,40 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Alexaの録音内容はアマゾン従業員に聞かれている──認識精度向上に利用
-</title>
-			<link>https://japanese.engadget.com/2019/04/12/alexa/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2F4c63f510-5cc6-11e9-baff-3efda6b929cd&client=a1acac3e1b3290917d92&signature=3bd46ea16092cce3de2b292575fccc315fc6e14e" />
-リリース直後こそ、プライバシー問題などが懸念されていたスマートスピーカーですが、いまではかなり受け入れられている感もあります。音声アシスタントも徐々に進化し、音声や文脈の認識精度も向上しているのですが、その精度向上には、ユーザーが実際に話した録音データが使われているようです。しかも、機械的に処理されているわけではなく、実際に人間が録音を聞いて、タグ付けなどを行っています。
-
-Bloombergが、この作業をよく知る人物からの話として伝えており、作業チームは、ボストンやコスタリカ、インド、ルーマニアなどで現地の請負業者とフルタイムのAmazon従業員で構成。1シフトにつき1000件ほどの録音データを解析しながら、1日9時間作業しているとのことです。
-
-作業内容としては、例えば「Taylor Swift」のような特定の単語を見つけては、その録音データが音楽アーティストに関するものとタグをつけるといった具合です。タグ付けされたデータをもとに、ソフトウェアにフィードバックが行われます。
-
-録音データの中には、シャワーを浴びながら歌っている女性の声や、助けを求めて叫んでいる子供、明らかに性犯罪に巻き込まているであろう録音もあったとのこと。
-
-ただし、録音データは誰のデータか分からない状態になっており、またこれに干渉するのは、Amazonの仕事ではないとの判断で、何もできないとしています。
-
-スマートスピーカーのプライバシー問題を調査したミシガン大学のFlorian Schaub教授によると、この作業がプライバシーの侵害に当たるかは、どのような種類の情報にタグ付けを行っているか、そのデータを第3者に提示するのかによって異なるとのこと。現状では、プライバシーを侵害しているとは言い切れないようです。
-
-Amazon自身もBloombergの取材に対し、人が録音データを聞いている事実を認めています。ただし、作業で使われているのは、全体からするとごくわずかなサンプルのみだとのことです。
-
-なお、Alexaのプライバシー設定には、「機能向上のためのAlexaデータ管理」という、新機能開発のために録音データの使用を許可する設定があります。これを無効にした場合でも、新機能開発ではない通常のレビュープロセスでデータが使われる可能性はあるとのことです。
-
-
-
-Alexaの録音データといえば、家族の会話を録音し、知人に送信してしまったケースや、誤ってAmazonから見ず知らずの人の録音データが送られてくるなどの事故もありました。
-
- 
-関連記事：
-アマゾンEcho、家族の会話を勝手に録音 知人に送信。偶然が重なったレアケース？
-Amazonのミスで、Alexaの音声コマンドが他人へ送付。ファイルから個人が特定できたとも
-
-なお、本件はAmazonの話ではありますが、同様の手動作業はGoogleやAppleも行っているとのことです。誰のデータかは分からない状態とはいえ、先の事故例でも録音データから個人が特定できたケースもあります。音声アシスタントに話しかけた内容は誰が聞いているか分からない、と考えておいたほうがいいのかもしれません。
- ]]></description>
-			<pubDate>Fri, 12 Apr 2019 01:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    ディズニー見放題サービス Disney+、月額6.99ドルで11月始動
 </title>
 			<link>https://japanese.engadget.com/2019/04/12/disney-6-99-11/</link>
@@ -605,6 +571,19 @@ Facebook、「Messenger」にInstagram/WhatsAppのメッセージ機能を統合
 OPPOは10倍ハイブリッドズームを搭載したスマートフォン「Reno」を発表するなど、技術的にかなり先進的な取り組みを続けています。今回のポップアップ・ディスプレイ機構も、もしかしたら日の目を見る日がくるのかもしれません。
  ]]></description>
 			<pubDate>Sat, 13 Apr 2019 03:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    将来のMacBook Proは網膜認証に？ Face IDよりもセキュアな特許が出願
+</title>
+			<link>https://japanese.engadget.com/2019/04/13/macbook-pro-face-id/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2Fb73f8920-5dbc-11e9-a3ef-3c46c07ee469&client=a1acac3e1b3290917d92&signature=33acbb50f79004c28852a4ca5eefcd40a2674798" />
+metamorworks via Getty Images
+
+アップルがTouch Bar搭載のMacBook Proにつき、顔認証のFace ID追加を検討していると思しき特許を出願していることが明らかとなりました。
+
+特許情報に詳しいサイトPatently Appleによると、欧州特許庁は4月12日（現地時間）に、アップルが出願した多くの特許資料を公開したとのこと。その中にTouch Bar付きのMacBook Proに関連して、新方式のFace IDへの言及があったと報じられています。
+ ]]></description>
+			<pubDate>Sat, 13 Apr 2019 04:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
