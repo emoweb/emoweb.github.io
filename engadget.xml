@@ -5,59 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    月への衝突直前、高度7.5kmから見た月面。イスラエル民間探査機Beresheetが撮影
-</title>
-			<link>https://japanese.engadget.com/2019/04/15/7-5km-beresheet/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2F950bed10-5f2b-11e9-b73f-97d9ca8b9cc3&client=a1acac3e1b3290917d92&signature=fc6b038a03a7adca71f9e8d674a22dc676650d6c" />
-イスラエルの航空宇宙ベンチャーSpaceILが、月に送り込んだBeresheet探査機は、民間初の月面着陸を実現するため、打ち上げから6週間をかけて月軌道へと到着しました。そして、着陸態勢を整えた4月11日に歴史的な試みは実行に移されました。
- ]]></description>
-			<pubDate>Mon, 15 Apr 2019 00:30:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Apple CarPlayが「Yahoo!カーナビ」に対応、iPhone接続解除で駐車位置を保存できる
-</title>
-			<link>https://japanese.engadget.com/2019/04/15/apple-carplay-yahoo-iphone/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2F2d494c60-5f33-11e9-b27d-89bc90fcff38&client=a1acac3e1b3290917d92&signature=4de0f6b93dacb2f79eb9d4bff97495eaeafe992a" />
-「Yahoo!カーナビ」アプリの「Apple CarPlay」対応に関する発表会が4月15日に開催されました。Apple CarPlayはiPhoneを自動車内で使うために開発されたシステム。iPhoneを車内のカーナビ端末と接続することでディスプレイに「電話」「メッセージ」「ミュージック」「マップ」などのアイコンが表示されて、タッチ操作やSiriによる音声操作でiPhoneを操作可能です。
-
-
-主要な自動車メーカーはAppleと提携しており、500車種以上がCarPlayに対応しています。対応車種以外でもケンウッドやパイオニアが販売している対応のカーナビ端末を搭載することでCarPlayを利用できます。Appleのマップ機能のほかに「Google マップ」「Waze」「カーナビタイム」などのサードパーティ製の地図・カーナビアプリも使用でき、今回Yahoo!カーナビが対応しました。アプリをバージョン2.6.7にアップデートすることで利用できます。
-
-
-Yahoo!カーナビは、2014年にサービスを開始した高品質なイラストと音声で目的地にルート案内するカーナビアプリ。日本道路交通情報センターがリアルタイムで配信している渋滞や交通規制等の交通情報に対応し、アプリユーザーの走行情報を活用した渋滞情報も提供しています。工事情報などを踏まえて、3か月先まで渋滞予測が可能です。また、駐車場の満空情報やガソリン価格を含めたガソリンスタンド情報も確認できます。
-
-担当者によると今回CarPlayに対応した大きな理由として対応車種が増加したことと、ユーザーから継続的に多くの要望が寄せられていたことの2つをあげました。アプリの開発にあたって、CarPlay独自UIに合わせつつYahoo!カーナビでできる機能を違和感なく利用できるよう設計されたそうです。Yahoo!カーナビならではの機能として、iPhoneとの接続を解除すると駐車の位置情報が自動的に保存できる機能などが紹介されました。
-
-今後は、設定した地点をCarPlay上で閲覧できる「キープ」機能、高速道路の分岐などをわかりやすく表示する「分岐イラスト」、細かい設定などを追加予定です。
-
- 
-
- ]]></description>
-			<pubDate>Mon, 15 Apr 2019 00:55:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Internet Explorer 11の脆弱性でWindows PCからローカルファイルを盗まれる可能性
-</title>
-			<link>https://japanese.engadget.com/2019/04/15/internet-explorer-11-windows-pc/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2F8ae8ebe0-5f25-11e9-afdf-2d0ca90bac86&client=a1acac3e1b3290917d92&signature=cade3185887b199e6d07cfc2fde22510f2151df0" />
-MicrosoftのInternet Explorer 11に、PC上のローカルファイルが盗まれる可能性がある脆弱性が発見されました。影響を受けるのはWIndows 7 / 10とWindows Server 2012 R2。
-
-IEなんて使っていないから関係ないと思いたいところですが、インストールされているだけで影響を受ける可能性が指摘されています。
-
-セキュリティ研究者のJohn Pageが発見した脆弱性は、IEが利用していたWEBアーカイブ形式MIME Encapsulation of Aggregate HTML (MHTML)に関するもの。ローカルで悪意のあるMHTMLファイル（拡張子は.mhtml、または.mht）を開くと、攻撃者の指定したサーバーにローカルファイルの情報を送信することも可能とのことで、その詳細をサイト上で公開しています。
-
-IEを標準ブラウザとして利用している人はさすがに少ないと思いますが、Windows上では.mhtml / .mhtを開く既定のアプリがIEになっているので、メールで添付されたMHTMLファイルを開いてしまうと影響を受けてしまいます。
-
- 
-
-
-この脆弱性の指摘に対して、Microsoftは緊急のセキュリティ修正プログラムの展開を断ったとのこと。将来バージョンで修正を考慮するとしています。
-
-IEのシェアの低さからの判断かもしれませんが、先に書いたように普段利用してなくても影響を受ける可能性があります。不用意に添付ファイルを開かないのは当然として、IEをアンインストールするか、MHTMLを開ける別のアプリを指定するなどしておいたほうが安心かもしれません。
- ]]></description>
-			<pubDate>Mon, 15 Apr 2019 01:10:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Facebook傘下Oculus、VRコントローラ内部に不適切な隠しメッセージを刻印。「ビッグブラザーが見ている」
 </title>
 			<link>https://japanese.engadget.com/2019/04/15/facebook-oculus-vr/</link>
@@ -531,6 +478,79 @@ P30 Proにはそれ以外にも3200万画素のフロントカメラ、そして
    
  ]]></description>
 			<pubDate>Mon, 15 Apr 2019 22:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Xiaomiのゲーミングスマホ「Black Shark2」日本上陸
+</title>
+			<link>https://japanese.engadget.com/2019/04/15/xiaomi-black-shark-2/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2Ffc8fda30-5feb-11e9-a6ef-8735b6e64498&client=a1acac3e1b3290917d92&signature=9cac06c8f789b90c4e66c3f99f667b9c2262aa59" />
+中国Xiaomi（シャオミ）のゲーミングスマホ「Black Shark2」が日本で発売されます。かつて"FREETEL"ブランドを率いていた増田薫氏が新たに立ち上げたTAKUMI JAPANの取り扱い商品として発売されます。
+
+TAKUMI JAPANが扱うのはBlack Shark2の最上位モデルで、モバイル通信を日本向けに最適化し、技適の認証を得た上で販売。KAZUNA eSHOPでの価格は10万7870円（税込）です。ビックカメラ、ヨドバシカメラ、Amazon.co.jpでも取り扱われます。
+
+Black Shark2は、Xiaomiが出資するBlack Shark社が手がけるゲーミングスマートフォンの最新モデル。クアルコムの最新チップセット「Snapdragon 855」に12GBメモリでメモリは256GB。ハイエンド性能を備えつつ、ユニークな機能として、3D Touch機能「Magic Press」を搭載。タッチパネルをゲームパッドのように使えます。
+
+6.39インチのOLEDディスプレイは"ゲームに特化したチューニング"が施されています。タッチパネルは反応レート240Hzという敏捷な反応が特徴で、タッチ操作のレイテンシー（遅延）も43.5msに抑えています。画面のちらつきを軽減する専用のチップセットを搭載。周囲の環境に応じて画面の黒みや輝度を自動で調整する機能を搭載します。
+
+そのほか、4000mAhの大容量バッテリーに水冷を含む6層の放熱機構を備えており、生体認証では画面内指紋センサーを搭載します。
+
+通信周りではWi-Fi/LTEアンテナを6カ所に装備し、接続切れを防ぐ仕様となっています。DSDVで日本発売モデルではNTTドコモとソフトバンクのプラチナバンドに対応としています。
+
+大きさは約163.61✕75.01✕8.77〜9.57mm。カラーはシャドーブラック、フローズンシルバー、グローリーブルーの3色です。専用アクセサリーとして外付けゲームパッドやハードケースなどを用意。さらに、パソコンにつないでゲーム実況に使えるアクセサリーもラインナップしています。
+
+先行予約特典として、先着3000名の購入者にゲームパッドとハードケースがプレゼントされます。
+■"変態端末好き"の増田氏一目惚れ
+TAKUMI JAPANは、翻訳機「KAZUNA eTalk」を開発・販売する企業。今回の「KAZUNA Selection」としてBlack Shark2の取り扱いを表明しました。
+
+「変態端末好き」と自称する増田氏、Black Shark2の発表イベントに立ち会い、その場で実物を見て惚れ込んだといいます。「背面も側面もカッコイイ」と熱っぽく語りながら紹介しました。KAZUNA Selectionでは「Black Sharkのようなぶっ飛んだ製品を日本に投入していく」として、翻訳機などの自社製品と並行して今後も展開していく説明しました。
+ 
+関連記事：
+元FREETEL増田社長、新会社で「シンプル携帯」発売を予告
+翻訳機「KAZUNA eTalk5」に2年間・143カ国で使えるSIMセット、3万円で25日発売
+ 
+
+関連記事：
+ゲーミングスマホ「Black Shark 2」発売。ディスプレイ上の感圧タッチ操作に対応
+
+（更新中）
+ 
+ ]]></description>
+			<pubDate>Mon, 15 Apr 2019 22:05:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    GWの旅行に持っていきたいJackeryの11万mAhポータブル電源レビュー。自作PCも稼働可能
+</title>
+			<link>https://japanese.engadget.com/2019/04/15/gw-jackery-11-mah-pc/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2F010963c0-5f91-11e9-9f7f-8196eebecd56&client=a1acac3e1b3290917d92&signature=77e95af6aea83f7491d64225c10760e4b9c05a20" />
+もうすぐGWですね。今年は天皇即位の日にあたる5月1日を国民の祝日にしたため、その前後の平日が祝日法により休日となったため、完全10連休というこれまでにない大型連休となりました。子どもたちも学校が休みとなるため、気兼ねなく旅行へ行けることでしょう。
+
+海や山で過ごすときでも、現代生活ではやはりモバイル機器などの電源確保が気になるところ。そんな人にお勧めしたいのがポータブル電源です。モバイルバッテリーは持ち運びに便利なのは確かですが、容量1～2万mAh程度。家族で使っていたらすぐになくなってしまうでしょう。ポータブル電源は、容量が10万mAh以上で通常のコンセントも使えるのがポイント。当然そのぶん重いのですが、クルマで移動するなら問題ありません。
+
+そこで、今年の3月に日本へ本格進出しAmazonでの取り扱いを始めたJackeryの大容量ポータブル電源をお借りできたので、GWでの旅行へ向けて実際に使ってみました。
+
+<p><a href="https://japanese.engadget.com/gallery/jackery/" title="JacKeryポータブル電源">【ギャラリー】JacKeryポータブル電源 (13枚)</a></p>
+ ]]></description>
+			<pubDate>Mon, 15 Apr 2019 22:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Pixel 3a/3a XLは5月7日発表か。グーグルが公式ティーザーを掲載
+</title>
+			<link>https://japanese.engadget.com/2019/04/15/pixel-3a-3a-xl-5-7/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2Fe9e78140-5fea-11e9-b7d7-4ad24f73a9d8&client=a1acac3e1b3290917d92&signature=1a60494e0f82bb80e82a315fcece9eb2f9c9f6e5" />
+
+米グーグルは公式サイトにて、5月7日（日本時間では5月8日）の発表に関するティーザーを掲載しています。こちら現時点では、廉価版スマートフォン「Pixel 3a/3a XL」の発表が予測されています。
+
+日本版のGoolge Playストアでは「もうすぐ助けがくる。5月8日、Pixelユニバースに何かが起こる」と銘打たれた、今回のティーザー。サイトでは、4月26日に公開される映画「アベンジャーズ エンドゲーム」とPixel 3を絡めたプロモーションが視聴できます。
+
+なお、5月7日といえば「Google I/O 2019」の初日。新型デバイスの発表タイミングとしてはベストな日程です。さらに、グーグルでシニア・ヴァイス・プレジデントを務めるHiroshi Lockheimer氏は、Pixel 3aとみられる未発表スマートフォンを使っていることを認めています。
+
+現在噂されているPixel 3aのスペックとしては、5.6インチディスプレイにSnapdragon 670プロセッサ、4GBのRAMを搭載。背面カメラは1200万画素で、機械学習用演算プロセッサ「Pixel Visual Core」も組み込まれいる模様です。さらに、ディスプレイサイズを6インチに拡大しSnapdragon 710プロセッサを搭載した「Pixel 3a XL」という大画面モデルも存在します。
+
+グーグルの公式サイトに一時掲載されるなど、その発表が確実視されているPixel 3a/3a XL。廉価版スマートフォンとして現行モデルとどのように住み分けるのかなど、その定義付けが注目されます。
+
+ 
+ ]]></description>
+			<pubDate>Mon, 15 Apr 2019 23:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
