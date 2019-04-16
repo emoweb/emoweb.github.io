@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ホワイトハッカーの日常</title>
-			<link>https://blog.kaspersky.co.jp/whitehat-hacker-daily-life/12730/</link>
-			<description><![CDATA[サイバーセキュリティの「中の人」は、どんな人？グローバル調査分析チーム（GReAT）のメンバー、デイビッド・ヤコビーの自宅と街の様子を撮影しました。]]></description>
-			<pubDate>Sat, 30 Mar 2019 01:00:52 +0000</pubDate>
-		</item>
-		<item>
 			<title>Mirai、攻撃の矛先を企業へ</title>
 			<link>https://blog.kaspersky.co.jp/mirai-enterprise/22827/</link>
 			<description><![CDATA[新型のMiraiは、今まで以上にさまざまなエクスプロイトが組み込まれています。その中には、企業向けIoTデバイスを標的にしているものもあります。]]></description>
@@ -67,6 +61,12 @@
 			<link>https://blog.kaspersky.co.jp/macos-exe-malware/22857/</link>
 			<description><![CDATA[EXEファイルがWindowsコンピューターに害を及ぼす可能性があることは周知の事実です。しかし、macOSに感染するEXEファイルの存在が明らかになりました。]]></description>
 			<pubDate>Fri, 12 Apr 2019 01:00:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>サードパーティ製Webプラグインに潜む問題</title>
+			<link>https://blog.kaspersky.co.jp/dangerous-plugins/22981/</link>
+			<description><![CDATA[Webサイトでプラグインを使っていますか？プラグインは定期的にアップデートしましょう。]]></description>
+			<pubDate>Tue, 16 Apr 2019 01:00:22 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
