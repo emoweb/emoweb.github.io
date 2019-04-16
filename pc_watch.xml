@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>ZOTAC、RTX 2070搭載の超小型デスクトップ「MEK MINI」を国内投入 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1180220.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1180/220/1_o.jpg"></div></div></div></div></div></div><p>　<a href="http://www.zotac.com/jp/" class="n" target="_blank">株式会社ゾタック日本</a>(ZOTAC)は、GeForce RTX 2070を搭載した超小型デスクトップPC「MEK MINI」を19日に直販サイトで発売する。税別価格は248,000円。</p><p>　GeForce RTX 2070を搭載しながら、本体サイズが136×260.8×258.8mm(幅×奥行き×高さ)、重量が4.05kgの小型ゲーミングPC。前面にLEDライティング「SPECTRA 2.0」に対応したアドレッサブルLEDを備えるのが特徴。また、Killer E2500による有線LAN、Killer Wireless-AC 1550による無線LANを搭載する。</p><p>　そのほかの仕様は、CPUにCore i7-8700(3.2GHz)、メモリ16GB、240GB NVMe SSD+2TB HDD、OSにWindows 10 Homeなどを搭載する。</p><p>　インターフェイスは、USB 3.1×4、USB 3.0×2(うち1基はType-C)、SDカードリーダ、Gigabit Ethernet×2、IEEE 802.11ac対応無線LAN、Bluetooth 5.0、音声入出力などを備える。電源は230W ACアダプタ×2。</p></div></div>]]></description>
-			<pubDate>Mon, 15 Apr 2019 19:01:35 +0900</pubDate>
-		</item>
-		<item>
 			<title>【本日のできるネット】Googleドライブ内で共有しているファイルの権限を変更する方法 </title>
 			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1180211.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1180/211/3_o.jpg"></div></div></div></div></div></div><blockquote><p>　共有したファイルはユーザーごとに、権限を設定しなおせます。編集を許可したり、閲覧だけを許可したりといった設定が可能です。</p><p class="src">できるネットの<a href="https://dekiru.net/article/17217/">Googleドライブ内のファイルを誰とでも共有できるようにする方法</a></p></blockquote></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1180455.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1180/455/1_o.jpg"></div></div></div></div></div></div><p>　Microsoftが4月9日(米国時間)にリリースしたWindows 7/8.1の月例更新およびセキュリティ更新プログラムに、VIAプロセッサ上でのSpectre V2およびMeltdown対策が盛り込まれていることが明らかとなった。</p><p>　対象は、Windows 7 SP1およびWindows Server 2008 R2 SP1に向けて提供されたKB4493472とKB4493448、そしてWindows 8.1およびWindows Server 2012 R2向けに提供されたKB4493446およびKB4493467。これらをインストールすることで、VIAプロセッサをベースとしたコンピュータ上で、Spectre V2およびMeltdown緩和策が有効化できる。</p><p>　なお、標準でこの対策が有効になるのはクライアント向けOSのみで、サーバー向けOSでは無効になっている。いずれのOSでもレジストリの操作によって対策の有効化/無効化の切り替えが可能。</p><p>　Windows 10については、バージョン1803向けに提供されたKB4493464でのみ、VIAプロセッサのSpectre V2/Meltdown免疫が盛り込まれているようだ。サポートが継続しているバージョン1709、および最新の1809向けに配信されたパッチのリリースノートでは、VIAプロセッサに関する記述はない。</p><p>　また、4月の月例更新の一部では、Avast、Avira、Sophosといったセキュリティ対策ソフトと競合してしまい、PCが応答しなくなるなどの症状が確認できている。このため、SophosおよびAviraが入ったPC向けの配信は一時ブロックされている。Avastはすでに緊急対策プログラムを配布済みで、PCを起動した状態にしておけば自動的に適用される。</p></div></div>]]></description>
 			<pubDate>Tue, 16 Apr 2019 18:21:31 +0900</pubDate>
+		</item>
+		<item>
+			<title>GPD MicroPC、無償でメモリを6GBから8GBに引き上げて出荷 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1180472.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1180/472/1_o.jpg"></div></div></div></div></div></div><p>　深センGPD Technologyは16日(現地時間)、5月末に出荷を予定している6型UMPC「GPD MicroPC」のメモリ容量を6GBから8GBに引き上げると発表した。</p><p>　GPD MicroPCは当初、メモリ4GBの構成で299ドルという価格を予定していたが、ユーザーからの意見により、10ドルの追加で6GBへアップグレードすることを発表した。すでに10ドルの追加出資したユーザーに対し、8GB版を追加コストなしで出荷する。</p><p>　PC WatchによるWade社長への現地取材で、6GBはあくまでもバックアッププランであり、8GBの搭載を見込んだ上での値上げだということが明らかにされた。この決定は在庫状況によって流動的ではあったのだが、16日までに決断を下さなければならなかった。</p><p>　なお、Indiegogoではすでに出資応募が終了しており、予約というかたちで販売をしている。価格は41,228円で、5月末の出荷を予定している。</p></div></div>]]></description>
+			<pubDate>Tue, 16 Apr 2019 19:11:34 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
