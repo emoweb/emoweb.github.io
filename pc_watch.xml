@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>Thermalright、高さ145mmで120mmファン搭載のサイドフロー型CPUクーラー </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1180451.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1180/451/01_o.jpg"></div></div><span class="caption">TRUE Spirit 120M Rev.B</span></div></div></div></div><p>　<a href="http://www.dirac.co.jp/" class="n" target="_blank">株式会社ディラック</a>は、台湾Thermalright製のCPUクーラー「TRUE Spirit 120M Rev.B」を25日より発売する。税別店頭予想価格は4,980円前後の見込み。</p><p>　120mmファンを1基搭載したサイドフロー型のCPUクーラーながら、高さを145mmに抑えた製品。従来機種(Rev.A)からの変更点は付属のファンとグリスで、ファンは回転数を上げながらも動作音を同等以下に抑えた「TY-121G」に、グリスは熱伝導率9.5W/m-kを謳う「TF4」にそれぞれ変わっている。</p><p>　アルミ製ヒートシンクと6mm径の銅製ヒートパイプを4本備え、TDP 160WのCPUまで対応する。付属ファンの仕様は、回転数が600～1,800rpm、風量が25.76～77.28CFM、ノイズレベルが19～25dBA。</p><p>　対応ソケットは、IntelがLGA 775/1150/1151/1366/2011/2011-v3/2066、AMDがSocket AM2/AM2+/AM3/AM3+/AM4/FM1/FM2/FM2+。</p><p>　本体サイズは132×58×145mm(幅×奥行き×高さ)、重量は450g。</p></div></div>]]></description>
-			<pubDate>Tue, 16 Apr 2019 18:13:49 +0900</pubDate>
-		</item>
-		<item>
 			<title>Windows月例更新でVIAプロセッサにもSpectre/Meltdown対策が盛り込まれる ～ただしAvast、Avira、Sophosと競合する不具合</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1180455.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1180/455/1_o.jpg"></div></div></div></div></div></div><p>　Microsoftが4月9日(米国時間)にリリースしたWindows 7/8.1の月例更新およびセキュリティ更新プログラムに、VIAプロセッサ上でのSpectre V2およびMeltdown対策が盛り込まれていることが明らかとなった。</p><p>　対象は、Windows 7 SP1およびWindows Server 2008 R2 SP1に向けて提供されたKB4493472とKB4493448、そしてWindows 8.1およびWindows Server 2012 R2向けに提供されたKB4493446およびKB4493467。これらをインストールすることで、VIAプロセッサをベースとしたコンピュータ上で、Spectre V2およびMeltdown緩和策が有効化できる。</p><p>　なお、標準でこの対策が有効になるのはクライアント向けOSのみで、サーバー向けOSでは無効になっている。いずれのOSでもレジストリの操作によって対策の有効化/無効化の切り替えが可能。</p><p>　Windows 10については、バージョン1803向けに提供されたKB4493464でのみ、VIAプロセッサのSpectre V2/Meltdown免疫が盛り込まれているようだ。サポートが継続しているバージョン1709、および最新の1809向けに配信されたパッチのリリースノートでは、VIAプロセッサに関する記述はない。</p><p>　また、4月の月例更新の一部では、Avast、Avira、Sophosといったセキュリティ対策ソフトと競合してしまい、PCが応答しなくなるなどの症状が確認できている。このため、SophosおよびAviraが入ったPC向けの配信は一時ブロックされている。Avastはすでに緊急対策プログラムを配布済みで、PCを起動した状態にしておけば自動的に適用される。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1180497.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1180/497/1_o.jpg"></div></div><span class="caption">C922n</span></div></div></div></div><p>　<a href="https://www.logicool.co.jp/ja-jp" class="n" target="_blank">株式会社ロジクール</a>は、Webカメラ7製品のパッケージデザインとロゴをリニューアルし、4月25日に発売する。</p><p>　既存製品のなかでとくに人気の高い製品を、店頭でわかりやすいようにデザインとロゴをリニューアル。それ以外の仕様は従来と共通。</p><p>　ラインナップおよび税別価格は、「C270n」が2,130円、「C310n」が3,880円、「C525n」が5,500円、「C615n」が6,750円、「C920s」が11,500円、「C922n」が13,500円。</p></div></div>]]></description>
 			<pubDate>Wed, 17 Apr 2019 18:24:48 +0900</pubDate>
+		</item>
+		<item>
+			<title>恵安、28型の4K液晶ディスプレイ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1180748.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1180/748/1_o.png"></div></div><span class="caption">KWIN28</span></div></div></div></div><p>　<a href="http://www.keian.co.jp/" class="n" target="_blank">恵安株式会社</a>は、4K表示に対応した28型液晶ディスプレイ「KWIN28」を20日に発売する。価格はオープンプライス。</p><p>　27型より一回り大きい28型のパネルを採用。一般的なデスクトップディスプレイと目の距離である60cmでの使用に好適としている。</p><p>　パネルは非光沢で、10bit出力に対応。また、超解像技術、HDR10、ブルーライト軽減、フリッカーフリーバックライト、Radeon FreeSync対応、クロスヘアオーバーレイ表示「LINE OF SIGHT」、5段階のガンマ調整機能などが特徴。操作用のリモコンが付属する。</p><p>　解像度は3,840×2,160ドット、表示色数が10億6,443万色、輝度が300cd/平方m、応答速度が5ms(最高2ms)、コントラスト比が1,000:1、視野角が上下160度/左右170度。</p><p>　インターフェイスはHDMI 2.0、HDMI 1.4×2、DisplayPort 1.2a。5W×2のステレオスピーカも内蔵する。本体サイズは655×240×455mm(幅×奥行き×高さ)、重量は約5.3kg。</p></div></div>]]></description>
+			<pubDate>Wed, 17 Apr 2019 19:24:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
