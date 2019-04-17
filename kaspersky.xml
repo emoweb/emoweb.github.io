@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Mirai、攻撃の矛先を企業へ</title>
-			<link>https://blog.kaspersky.co.jp/mirai-enterprise/22827/</link>
-			<description><![CDATA[新型のMiraiは、今まで以上にさまざまなエクスプロイトが組み込まれています。その中には、企業向けIoTデバイスを標的にしているものもあります。]]></description>
-			<pubDate>Mon, 01 Apr 2019 01:00:46 +0000</pubDate>
-		</item>
-		<item>
 			<title>暗号化されてしまった会社のデータはほぼ復号できないと考えるべき理由</title>
 			<link>https://blog.kaspersky.co.jp/undecryptable-files/22846/</link>
 			<description><![CDATA[ランサムウェアに暗号化されたデータを取り戻すのは簡単なことではなく、不可能な場合もあります。ランサムウェア対策は、そもそも感染しないようにデータを保護するのがベターです。]]></description>
@@ -67,6 +61,12 @@
 			<link>https://blog.kaspersky.co.jp/dangerous-plugins/22981/</link>
 			<description><![CDATA[Webサイトでプラグインを使っていますか？プラグインは定期的にアップデートしましょう。]]></description>
 			<pubDate>Tue, 16 Apr 2019 01:00:22 +0000</pubDate>
+		</item>
+		<item>
+			<title>10連休の前に注意したいこと</title>
+			<link>https://blog.kaspersky.co.jp/japan-big-holidays-security/23050/</link>
+			<description><![CDATA[これまでにない大型連休が近づいています。その前に企業や個人で確認しておきたいサイバーセキュリティの対策まとめ。]]></description>
+			<pubDate>Wed, 17 Apr 2019 01:00:27 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
