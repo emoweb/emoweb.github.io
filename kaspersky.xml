@@ -5,14 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>RSAC 2019：完璧なパッチ適用戦略を求めて</title>
-			<link>https://blog.kaspersky.co.jp/patching-strategy-rsa2019/22875/</link>
-			<description><![CDATA[RSAC 2019に登壇したリサーチャーが、現在の脆弱性の状況を説明し、効果的にパッチを適用するための戦略モデルを発表しました。
-
-]]></description>
-			<pubDate>Thu, 04 Apr 2019 01:00:22 +0000</pubDate>
-		</item>
-		<item>
 			<title>Roaming Mantis パート4：Apple iOS向けの悪意ある構成プロファイル、アップデートされた悪意あるapkファイル（MoqHao/XLoader）の再拡散</title>
 			<link>https://blog.kaspersky.co.jp/roaming-mantis-part-iv/22949/</link>
 			<description><![CDATA[Roaming Mantisが、新たな手法を取り入れた活動を見せています。]]></description>
@@ -67,6 +59,12 @@
 			<link>https://blog.kaspersky.co.jp/taj-mahal-apt/23030/</link>
 			<description><![CDATA[アジア某国の外交活動を標的とする新しいAPT攻撃、TajMahalについて。]]></description>
 			<pubDate>Thu, 18 Apr 2019 04:00:53 +0000</pubDate>
+		</item>
+		<item>
+			<title>CVE-2019-0859：Windowsの新たな脆弱性</title>
+			<link>https://blog.kaspersky.co.jp/cve-2019-0859-detected/23073/</link>
+			<description><![CDATA[当社のプロアクティブ技術は、Microsoft Windowsに対する新たなエクスプロイトの試みを検知しました。]]></description>
+			<pubDate>Fri, 19 Apr 2019 04:00:21 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
