@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Roaming Mantis パート4：Apple iOS向けの悪意ある構成プロファイル、アップデートされた悪意あるapkファイル（MoqHao/XLoader）の再拡散</title>
-			<link>https://blog.kaspersky.co.jp/roaming-mantis-part-iv/22949/</link>
-			<description><![CDATA[Roaming Mantisが、新たな手法を取り入れた活動を見せています。]]></description>
-			<pubDate>Thu, 04 Apr 2019 05:02:21 +0000</pubDate>
-		</item>
-		<item>
 			<title>GitHubでのキー漏洩とその回避方法</title>
 			<link>https://blog.kaspersky.co.jp/tokens-on-github/22922/</link>
 			<description><![CDATA[GitHubでは、トークンや暗号化キーが多数見つかっています。それが危険である理由と、漏洩を防ぐ方法とは。]]></description>
@@ -65,6 +59,12 @@
 			<link>https://blog.kaspersky.co.jp/cve-2019-0859-detected/23073/</link>
 			<description><![CDATA[当社のプロアクティブ技術は、Microsoft Windowsに対する新たなエクスプロイトの試みを検知しました。]]></description>
 			<pubDate>Fri, 19 Apr 2019 04:00:21 +0000</pubDate>
+		</item>
+		<item>
+			<title>RSAC 2019：攻撃者がドメインフロンティングを必要とする理由</title>
+			<link>https://blog.kaspersky.co.jp/domain-fronting-rsa2019/23020/</link>
+			<description><![CDATA[感染したマシンと指令サーバーとの通信を偽装するのに、ドメインフロンティングをいかに使用するか。その方法がRSAC 2019で発表されました。]]></description>
+			<pubDate>Mon, 22 Apr 2019 01:00:46 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
