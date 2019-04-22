@@ -5,30 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>Google、ハイブリッドクラウド「Anthos」でAWSやAzureを統合可能に </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1181264.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/264/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.google.com/" class="n" target="_blank">Google</a>は、4月9日～11日までの期間で米サンフランシスコにて「Google Cloud<br>Next '19」を開催し、同社が手がけるクラウド事業に関連する122にもおよび新製品やアップデート、ソリューションなどを発表した。これにともない、日本のグーグル合同会社はメディア向けに簡単な説明会を実施した。</p><p>　説明会は短いものだったが、Google Cloudのカスタマーエンジニア 技術部長を務める佐藤聖規氏が、今回の発表のなかでもとくに反響が大きかったものを選んで内容を紹介した。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/264/05_o.jpg"></div></div><span class="caption">Google Cloud カスタマーエンジニア 技術部長の佐藤聖規氏</span></div></div></div></div><p>　佐藤氏は衆目を集めたものとして、ハイブリッドクラウド「Anthos」について説明。Anthosは2018年に発表されたCloud Services Platformの名称を改めたもので、ギリシャ語で“新しいものに命をもたらす”といった意味がある。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/264/08_o.jpg"></div></div><span class="caption">Cloud Services Platformは「Anthos」に改名された</span></div></div></div></div><p>　外部サーバーのクラウドの利用と、オンプレミスでの自社クラウドの運用を“ハイブリッド”で管理できるサービスとなっており、Google Kubernetes Engine(GKE)と、GKE On-Premで提供。Amazon Web Services(AWS)やMicrosoft Azureといった競合他社のサードパーティ製クラウドも統合できることなどを特徴とするが、こちらについては後日対応予定となっている。</p><p>　佐藤氏は、AnthosをKubernetesによるプロダクトの集合体と表現し、Kubernetesのエコシステムを使い、マーケットプレイス上のサードパーティ製対応アプリをGoogle Cloud上から容易に扱ったり、利用者を含めた一元管理が行なえることを強調。</p><p>　Anthosのパートナーには30社以上が参画しており、日本のNTTコミュニケーションズも加わり、サービスの利用を進めているとした。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/264/09_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/264/10_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/264/11_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/264/13_o.jpg"></div></div></div></div></div></div><p>　佐藤氏は、AndroidスマートフォンをFIDO(Fast IDentity Online)でのセキュリティキーとして利用できることも注目を集めた話題として説明。Androidスマートフォンで使用できる2要素認証としては、数字の組み合わせをキーとして使うものがあるが、この機能ではBluetoothによって端末そのものをキーとして利用できるため、数字の入力などは不要となっている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/264/21_o.jpg"></div></div></div></div></div></div><p>　このほか、AIを使い企業が保管している文章を分析して、なんらかの洞察結果を得るための「」Document Understanding AIといったソリューションや、G Suiteのアップデートなどについて簡単な紹介が行なわれた。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/264/14_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/264/15_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/264/16_o.jpg"></div></div><span class="caption">AIの活用</span></div></div></div></div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/264/17_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/264/18_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
-			<pubDate>Fri, 19 Apr 2019 19:15:27 +0900</pubDate>
-		</item>
-		<item>
-			<title>【ニュース・フラッシュ】Lenovo、ThinkPad P1, X1 Extreme Realtek オーディオ ドライバーほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1181279.html</link>
-			<description><![CDATA[<div><div><p>　Lenovoは、ThinkPad P1, X1 Extreme Realtek オーディオ ドライバーほかを公開した。</p></div></div>]]></description>
-			<pubDate>Fri, 19 Apr 2019 19:20:28 +0900</pubDate>
-		</item>
-		<item>
-			<title>【ニュース・フラッシュ】リコー、PC FAX Genericドライバー Ver.10.3.0.0ほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1181280.html</link>
-			<description><![CDATA[<div><div><p>　リコーは、PC FAX Genericドライバー Ver.10.3.0.0ほかを公開した。</p></div></div>]]></description>
-			<pubDate>Fri, 19 Apr 2019 19:22:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>【ニュース・フラッシュ】エプソン、LP-M8040/LP-M8040A/LP-M8040F/LP-M8040PS EPSON Scanほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1181281.html</link>
-			<description><![CDATA[<div><div><p>　エプソンは、LP-M8040/LP-M8040A/LP-M8040F/LP-M8040PS EPSON Scanほかを公開した。</p></div></div>]]></description>
-			<pubDate>Fri, 19 Apr 2019 19:22:46 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】キヤノン、EOS R ファームウエア Version 1.2.0ほか</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1181282.html</link>
 			<description><![CDATA[<div><div><p>　キヤノンは、EOS R ファームウエア Version 1.2.0ほかを公開した。</p></div></div>]]></description>
@@ -123,6 +99,30 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1181600.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/600/1_o.jpg"></div></div><span class="caption">ELSA GeForce RTX 2080 Ti ST</span></div></div></div></div><p>　<a href="http://www.elsa-jp.co.jp/" class="n" target="_blank">株式会社エルザ ジャパン</a>は、ブロワーファンを採用したGeForce RTX 2080 Tiビデオカード「ELSA GeForce RTX 2080 Ti ST」を26日に発売する。価格はオープンプライスで、店頭予想価格は178,000円前後の見込み。</p></div></div>]]></description>
 			<pubDate>Mon, 22 Apr 2019 19:16:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>【やじうまミニレビュー】ノートPCの液晶をディスプレイとして活用できるボード </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/1181597.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/597/8_o.jpg"></div></div><span class="caption">利用例</span></div></div></div></div><p>　筆者は最近、週末に秋葉原に通わなくなった代わりに、AliExpressを眺めるのが日課となっている。思いがけない変わり種のアイテムが数多く見つかるほか、たとえ日本国内で同じものがあったとしても、AliExpressは基本的に日本国内の市場価格より安く、なおかつ送料も無料であることが大半だからだ。</p><p>　そのなかでも今回ご紹介するのは、eDPの液晶パネルをHDMIのディスプレイとして使用可能にする変換ボード。購入価格は1,927円(16.99ドル)だった。</p><p>　じつは筆者は少し前に、ファームウェアの更新に失敗し二度と起動できなくなってしまったHPの「Elite X3 Lap Dock」を同僚より譲り受けた。分解していろいろ解析してみたものの、どうやら電源制御部分のファームウェアが逝かれてしまったせいで、USBによる給電も充電もできなくなってしまったようだ。仕方がないので、せめてこの12.5型の液晶だけ活用しようと思い、この変換ボードを購入した次第である。</p><p>　液晶にはいろいろ種類があるが、筆者が入手したElite X3 Lap Dockに使われた液晶パネルはAUOの「B125HAN02.0」だった。液晶ディスプレイの取引サイト「Panelook.com」によると、このパネルは1,920×1,080ドット表示のAHVAパネルで、表示色は約26万2,000色(6bit)、輝度は300cd/平方m、コントラスト比は700:1、視野角は上下/左右ともに170度などとされている。</p><p>　注目はインターフェイスで、30ピンの2レーンeDPとされている。この情報をもとに、変換ボードを注文することとした。ちなみに同じeDPでも1レーンタイプのものが存在したり、古いパネルなどはLVDSと呼ばれるインターフェイスだったりする。また、LEDバックライトではなくCCFL(蛍光管)が使われるタイプの液晶は、インバータ回路も必要になったりする。このあたりは製品購入のさいは、AliExpressの製品ページにある注意書きや説明などをよく読んだほうが良いだろう。</p><p>　ちなみに今回Panelook Storeというストアで購入したのだが、決済したあとにパネルの型番を教えてくれというメッセージが飛んできた(しかも夜中11時半)。教えてくれればそのパネルに最適なパラメータを書き込んだうえで出荷してくれるとのことだ。おそらく非対応品でも、非対応だという旨を伝えられることだろう。2,000円もしない製品なのに、至れり尽くせりなサービスには感心する。</p><p>　今回は追跡ありのAliExpress Standard Shippingで4月7日夜に注文をしたが、8日にパラメータ書き込み作業をはさんで9日に出荷、編集部に到着したのは19日だった。</p><p>　さて肝心な変換ボードだが、RealtekのRTD2550をベースとした構成。HDMI入力ポートは1基で、出力はeDP。また、12V電源接続用のDC入力(外径5.5mm、内径2.1mm)、3.5mmスピーカー出力、OSD/電源操作用基板接続コネクタなどが実装されている。つまりは12VのACアダプタをユーザーが別途用意しなければならないわけだが、電子工作のデファクトスタンダードに近いので、さほど調達に困らないだろう。</p><p>　というわけでさっそく基板や電源、液晶パネルを接続してみたが、あっさり写ってしまった。パネル自体が26万色という制限があるためグラデーションではマッハバンドが目立つが、色の深みやコントラストはなかなかのもので、サブ液晶として使う分には十分だと感じた。</p><p>　標準でOSDも入っており、日本語も選択可能であった。明るさやコントラスト、各色の微調整などが正常に行なえた。3.5mmステレオミニジャックによる出力も、音量としては十分なレベルだった。</p><p>　今回紹介したモデル以外に、ミニD-Sub15ピン入力が可能なモデルや、先述のLVDSやTTLパネル対応モデルなどもある。組み立て作業よりも、ノートPCの分解とパネルの取り出しにある程度スキルを要するが、もし家に(液晶部以外が)壊れたノートPCや使われていないお古のPCがあるのであれば、ぜひとも挑戦してみてほしい。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/597/1_o.jpg"></div></div><span class="caption">届いた変換ボード本体。RTD2550をベースとしている(ちなみにAliExpressにある同様のボードの大多数がこのチップのようである)</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/597/2_o.jpg"></div></div><span class="caption">本体底面</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/597/3_o.jpg"></div></div><span class="caption">HDMIで入力。DC入力は12Vとされている。また、3.5mmステレオミニジャックによる出力も備えている</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/597/4_o.jpg"></div></div><span class="caption">手前のコネクタが30ピンのeDP</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/597/5_o.jpg"></div></div><span class="caption">OSDや電源を操作するためのボタンつき基板はケーブルで接続する</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/597/7_o.jpg"></div></div><span class="caption">このままだと自立しないため、百均のタブレットスタンドを利用</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/597/6_o.jpg"></div></div><span class="caption">あとは変換ボードの位置などを工夫すればOKだ</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/597/9_o.jpg"></div></div><span class="caption">EIZOのパネルチェックサイトでグラデーションをチェックしたところ。マッハバンドが見えるのは、パネル自体が26万色だからだ</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/597/12_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/597/11_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/597/13_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/597/10_o.jpg"></div></div><span class="caption">明るさやコントラスト、色調節などが可能なOSDも備えている</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Tue, 23 Apr 2019 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】Googleドキュメントの文書内にWebサイトの文章を引用する方法 </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1181518.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/518/3_o.jpg"></div></div></div></div></div></div><blockquote><p>　Googleドキュメントでは、［データ探索］機能で見つけたWeb上の文章をスマートに引用できる機能があります。［脚注として挿入］機能で、書式を自動的に整えた注釈を付けましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/17226/">Googleドキュメントの文書内にWebサイトの文章を引用する方法</a></p></blockquote></div></div>]]></description>
+			<pubDate>Tue, 23 Apr 2019 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】GoogleドキュメントでGoogle Keepのメモを参照する方法 </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1181517.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/517/2_o.jpg"></div></div></div></div></div></div><blockquote><p>　メモサービス「Google Keep」にメモした内容を、簡単な操作でGoogleドキュメントに追加できます。出先でメモした内容をGoogleドキュメントで清書したい場合に便利です。</p><p class="src">できるネットの<a href="https://dekiru.net/article/17227/">GoogleドキュメントでGoogle Keepのメモを参照する方法</a></p></blockquote></div></div>]]></description>
+			<pubDate>Tue, 23 Apr 2019 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】Webページの表やリストを自動抽出。IMPORTHTML関数でサイトの更新や資料への引用がラクになる </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1181515.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1181/515/1_o.png"></div></div></div></div></div></div><blockquote><p>　「IMPORTHTML関数」は、Excelでは使えない「Googleスプレッドシート」ならではの関数です。引数としてURLを指定すると、そのWebページにある表やリストの内容をテキストとして抽出します。サイトの更新や資料への引用などの用途で便利に使えます。</p><p class="src">できるネットの<a href="https://dekiru.net/article/18387/">Webページの表やリストを自動抽出。IMPORTHTML関数でサイトの更新や資料への引用がラクになる</a></p></blockquote></div></div>]]></description>
+			<pubDate>Tue, 23 Apr 2019 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
