@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Google Playの新ポリシーが諸刃の剣である理由</title>
-			<link>https://blog.kaspersky.co.jp/google-play-permissions-policy/22911/</link>
-			<description><![CDATA[正当な理由もなく通話履歴やテキストメッセージへのアクセス権限を要求するアプリが、Google Playから追い出されつつあります。これが利用者にもたらしうるリスクを説明します。]]></description>
-			<pubDate>Tue, 09 Apr 2019 01:00:09 +0000</pubDate>
-		</item>
-		<item>
 			<title>RSAC 2019：DNS操作による大規模窃取</title>
 			<link>https://blog.kaspersky.co.jp/grand-theft-dns-rsa2019/22928/</link>
 			<description><![CDATA[RSAC 2019において、SANS Instituteのインストラクターが、DNSを操作して企業のITインフラを乗っ取る方法について説明しました。
@@ -65,6 +59,12 @@
 			<link>https://blog.kaspersky.co.jp/gaza-cybergang/23035/</link>
 			<description><![CDATA[主に中東と中央アジアの国々で作戦活動を繰り広げる、サイバースパイ活動専門のサイバー犯罪集団。]]></description>
 			<pubDate>Tue, 23 Apr 2019 01:00:32 +0000</pubDate>
+		</item>
+		<item>
+			<title>Microsoft Officeとその脆弱性</title>
+			<link>https://blog.kaspersky.co.jp/ms-office-vulnerabilities-sas-2019/23042/</link>
+			<description><![CDATA[SAS 2019で、Microsoft Officeの脅威の状況と、関連するゼロデイエクスプロイトの検知に役立つテクノロジーに関する講演が行われました。]]></description>
+			<pubDate>Wed, 24 Apr 2019 01:00:45 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
