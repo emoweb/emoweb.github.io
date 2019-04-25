@@ -5,14 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>RSAC 2019：DNS操作による大規模窃取</title>
-			<link>https://blog.kaspersky.co.jp/grand-theft-dns-rsa2019/22928/</link>
-			<description><![CDATA[RSAC 2019において、SANS Instituteのインストラクターが、DNSを操作して企業のITインフラを乗っ取る方法について説明しました。
-
-]]></description>
-			<pubDate>Wed, 10 Apr 2019 01:00:31 +0000</pubDate>
-		</item>
-		<item>
 			<title>あなたの分身を操るクレジットカード詐欺</title>
 			<link>https://blog.kaspersky.co.jp/digital-masks-card-fraud/23014/</link>
 			<description><![CDATA[他人のデバイスから収集したデータを使用して詐欺対策システムを欺き、標的の銀行口座から預金を吸い上げる、犯罪者の手口とは。]]></description>
@@ -65,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/ms-office-vulnerabilities-sas-2019/23042/</link>
 			<description><![CDATA[SAS 2019で、Microsoft Officeの脅威の状況と、関連するゼロデイエクスプロイトの検知に役立つテクノロジーに関する講演が行われました。]]></description>
 			<pubDate>Wed, 24 Apr 2019 01:00:45 +0000</pubDate>
+		</item>
+		<item>
+			<title>人気テレビシリーズに潜む危険</title>
+			<link>https://blog.kaspersky.co.jp/tv-series-threats/22936/</link>
+			<description><![CDATA[人気テレビシリーズのエピソードを装ったファイルにマルウェアが仕込まれ、配信されることがよくあります。最も危険性の高いテレビシリーズは？何が危ないか見分ける方法は？]]></description>
+			<pubDate>Thu, 25 Apr 2019 01:00:44 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
