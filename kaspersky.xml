@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Macでマルウェア感染を引き起こすEXEファイル</title>
-			<link>https://blog.kaspersky.co.jp/macos-exe-malware/22857/</link>
-			<description><![CDATA[EXEファイルがWindowsコンピューターに害を及ぼす可能性があることは周知の事実です。しかし、macOSに感染するEXEファイルの存在が明らかになりました。]]></description>
-			<pubDate>Fri, 12 Apr 2019 01:00:29 +0000</pubDate>
-		</item>
-		<item>
 			<title>サードパーティ製Webプラグインに潜む問題</title>
 			<link>https://blog.kaspersky.co.jp/dangerous-plugins/22981/</link>
 			<description><![CDATA[Webサイトでプラグインを使っていますか？プラグインは定期的にアップデートしましょう。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/details-shadow-hammer/23118/</link>
 			<description><![CDATA[ASUSの一件は、大規模な活動の一部に過ぎなかったと見られます。]]></description>
 			<pubDate>Thu, 25 Apr 2019 07:00:26 +0000</pubDate>
+		</item>
+		<item>
+			<title>スタートアップ企業と情報セキュリティ</title>
+			<link>https://blog.kaspersky.co.jp/startup-cybersecurity/23078/</link>
+			<description><![CDATA[スタートアップ企業が自社とデータを守るために必要なこととは？]]></description>
+			<pubDate>Fri, 26 Apr 2019 01:00:43 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
