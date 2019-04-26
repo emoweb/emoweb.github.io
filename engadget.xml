@@ -5,31 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    KyashがAPI開放、オンラインバンクやポイントを『即Visa化』できるKyash Direct
-</title>
-			<link>https://japanese.engadget.com/2019/04/24/kyash-api-visa-kyash-direct/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2F17a8a420-670b-11e9-95f9-68438e139934&client=a1acac3e1b3290917d92&signature=64f5effb9c4d39ee9407929051c7d84dda6f35cb" />
-ウォレットアプリ「Kyash（キャッシュ）」を運営するKyashは、サービス・アプリ開発者向けのVisaプリペイドAPI「Kyash Direct」を発表しました。
-
-Kyash Directを利用することで、サービス開発者が自社ブランドの「バーチャルVisaカード」を発行できるようになります。たとえば、銀行ならオンラインバンクの預金残高をVisaプリペイドとして支払ったり、フリマアプリなら売上金をVisaで利用できるようにしたりといった形で利用できます。アプリなどに表示するバーチャルVisaカードのほか、実カードの発行にも対応。今後、電子マネーQUICPayの発行にも対応します。
-
-Kyash Directのサービス開始にあたり、Kyashはビザ・ワールドワイド・ジャパンと提携。Visaのスタートアップ向けプログラムの一環として、Visaプリペイドの自社発行権限を取得しています。Kyash Directではカード発行から決済処理までKyashが提供することで、低コスト化で高速処理の決済サービスを提供できるとしています。
- 
- ]]></description>
-			<pubDate>Wed, 24 Apr 2019 23:35:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    脳信号を音声に変換、患者の会話を支援する研究発表。「しゃべる動きを再現」するアプローチ
-</title>
-			<link>https://japanese.engadget.com/2019/04/25/brainvoice/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2F4c980de0-670d-11e9-8eff-117b912c531c&client=a1acac3e1b3290917d92&signature=4e4f6143699d1b8bd4b62e34aa7c7afb65eb89f5" />
-米カリフォルニア大学サンフランシスコ校（UCSF）の研究者チームが、脳の信号を音声に変換するインプラント（埋め込み型）インターフェースを発表しました。
-
-この研究は、重度の麻痺を患った人々の会話を助けるシステムに向けての第一歩とのこと。現状では話す能力を失った患者が意思表示をするには並々ならぬ努力を要しますが、ゆくゆくは改善されるかもしれません。
- ]]></description>
-			<pubDate>Thu, 25 Apr 2019 01:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Twitter傘下だったライブ動画VineがByteに改名し復活。Tiktokにはない魅力を狙う
 </title>
 			<link>https://japanese.engadget.com/2019/04/25/twitter-vine-byte-tiktok/</link>
@@ -429,6 +404,38 @@ Galaxy S10 5GはGalaxy S10シリーズの中でも最大となる、6.7インチ
 京セラはスマートフォン向けの部品製造も行っていますが、こちらはすでに需要が落ち着いており、今後も縮小傾向にあるという見通しです。一方で直近では5G導入に向けた基地局装置の需要が旺盛で、京セラでは5G基地局に必要なコンデンサーや発振器などが好調な売れ行きとしています。
  ]]></description>
 			<pubDate>Fri, 26 Apr 2019 03:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Windows 10次期アップデート適用にはUSBストレージやSDカードを取り外す必要あり
+</title>
+			<link>https://japanese.engadget.com/2019/04/26/windows-10-usb-sd/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2Ffc0e1c40-67dc-11e9-a6dd-12f0747d6b78&client=a1acac3e1b3290917d92&signature=35ef56ebfb24c0c7cb9bf3bd28780395e348b368" /> Microsoftは、5月に配信を予定しているWindows 10の次期大型アップデート「May 2019 Update（1903）」において、USBストレージまたはSDカードを使用中のPCではアップデートできないとのサポート文書を公開しました。
+
+このアップデートでは、ドライブの不適切な再割り当てが行われる可能性があるため、USBストレージやSDカードを利用中のシステムではアップデートをブロックしているとのこと。たとえば、Gドライブとしてマウントされていたストレージが、アップデート後にHドライブに再割り当てしまう可能性があるということです。
+
+USBストレージやSDカードを外せばアップデート自体は可能とのことですが、再割り当てはリムーバルドライブに限らず、内蔵ドライブでも起きる可能性があるとされており、注意が必要です。
+
+なお、米メディアZDNetによると、この現象が発生するのはWindows 10のバージョン1803または1809のユーザーのみで、それより古いバージョンのWindows 10からは問題なくアップデートが可能とのこと。
+
+Microsoftは、今後のサービスアップデートでこの問題を修正予定としており、心配ならしばらくはアップデートを控えるのも手かもしれません。幸い、次期アップデートからはアップデートを延期できる機能が追加されます。これは、既存のバージョン1803、1809向けにも5月下旬までに提供される予定です。
+
+ 
+関連記事：
+Windows 10 Homeでもアップデートの延期が可能に 
+
+ 
+
+ ]]></description>
+			<pubDate>Fri, 26 Apr 2019 03:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    5G対応iPad Proは2021年登場？2020年モデルではアンテナ改良？有名アナリストが予測
+</title>
+			<link>https://japanese.engadget.com/2019/04/26/5g-ipad-pro-2021-2020/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2Fde7bd660-67da-11e9-9e9f-0275d74b61a1&client=a1acac3e1b3290917d92&signature=acd70ead9b13ae659c759086ee5774e47d79db03" />
+アップルとクアルコムの特許訴訟が終結したことで2020年に向けてiPhoneが5G対応する目処が立ったと予測されているなか、今度はiPad Proの5G対応についての噂が報じられています。
+ ]]></description>
+			<pubDate>Fri, 26 Apr 2019 04:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
