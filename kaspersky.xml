@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>サードパーティ製Webプラグインに潜む問題</title>
-			<link>https://blog.kaspersky.co.jp/dangerous-plugins/22981/</link>
-			<description><![CDATA[Webサイトでプラグインを使っていますか？プラグインは定期的にアップデートしましょう。]]></description>
-			<pubDate>Tue, 16 Apr 2019 01:00:22 +0000</pubDate>
-		</item>
-		<item>
 			<title>10連休の前に注意したいこと</title>
 			<link>https://blog.kaspersky.co.jp/japan-big-holidays-security/23050/</link>
 			<description><![CDATA[これまでにない大型連休が近づいています。その前に企業や個人で確認しておきたいサイバーセキュリティの対策まとめ。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/startup-cybersecurity/23078/</link>
 			<description><![CDATA[スタートアップ企業が自社とデータを守るために必要なこととは？]]></description>
 			<pubDate>Fri, 26 Apr 2019 01:00:43 +0000</pubDate>
+		</item>
+		<item>
+			<title>兵器化されたUSBデバイスによる攻撃</title>
+			<link>https://blog.kaspersky.co.jp/weaponized-usb-devices/23093/</link>
+			<description><![CDATA[トロイの木馬化されたヒューマンインターフェイスデバイス（HID）、監視機能が仕込まれたケーブル、悪意あるケーブルは、隔離されたシステムへの侵入にも利用可能な深刻な脅威です。]]></description>
+			<pubDate>Wed, 01 May 2019 01:00:07 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
