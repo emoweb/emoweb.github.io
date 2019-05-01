@@ -5,15 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Windows 10 PCでAndroidスマホ通知チェック機能、Insider向けテスト開始
-</title>
-			<link>https://japanese.engadget.com/2019/04/29/windows-10-pc-android-insider/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2Fb680c400-6a54-11e9-a5b7-1da65ef84b89&client=a1acac3e1b3290917d92&signature=7ad0f0293991cffa49d816a8f176803336e1a2f7" />
-マイクロソフトはWindows 10 Insider Program参加者向けに「Your Phone」アプリのテスト版を配信開始し、Androidスマートフォンでの通知をWindows 10 PC上で確認できる機能を追加しました。
- ]]></description>
-			<pubDate>Mon, 29 Apr 2019 06:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    4月30日のできごとは「SpaceXが360度動画公開」「TV8-301 発売」ほか：今日は何の日？
 </title>
 			<link>https://japanese.engadget.com/2019/04/29/4-30-spacex-360-tv8-301/</link>
@@ -552,6 +543,34 @@ Paramount Pictures
 
  ]]></description>
 			<pubDate>Wed, 01 May 2019 02:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Unicode 12.1.0で「令和」の合字1文字が追加
+</title>
+			<link>https://japanese.engadget.com/2019/05/01/unicode-12-1-0-1/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=1000%2C1000%2C0%2C0&quality=85&format=jpg&resize=800%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Fac926740-6bd6-11e9-a2fd-149eb8355199&client=a1acac3e1b3290917d92&signature=359e240bc96688d614e912b077cb404782ae3ec1" />
+文字コード規格の標準化団体Unicode Consortiumは、日本の新元号「令和」合字を追加する「Unicode 12.1.0」を近日中にリリースします。
+
+合字は、「㍻」のように元号の2文字を1字に収めたもので、カレンダーシステムなどに使われています。新元号「令和」はUnicodeの文字コード「U+32FF」として予約されており、令和元年初日となる5月1日に向けて、対応の準備が進められていました。Unicode 12.1.0以降をサポートする環境この記事を読んでいる場合「㋿」この左側に令和の合字が表示されているでしょう。
+
+Unicode 12.1.0では「令和」の合字1文字のみが追加され、合計13万7929文字がサポートされます。Unicodeのアップデートで1文字のみが追加されたのは、2012年のUnicode 6.2でトルコリラの通貨記号「₺」が追加されて以来、史上2例目となります。
+
+ 
+
+#新元号 #令和 の発表に迅速に対応、「令和」の合字を加えた #Unicode12_1 が近くリリースされます https://t.co/WTSLIyFNwU #Reiwa 🇯🇵 pic.twitter.com/oQEd71IwC1
+- The Unicode Consortium (@unicode) 2019年4月29日
+
+
+
+#Unicode12_1 は #新元号＃令和 の合字 U+32FF「SQUARE ERA NAME REIWA」一文字を加え、総文字数 137,929 個となります https://t.co/WTSLIyFNwU #Reiwa 🇯🇵 pic.twitter.com/ZqgmJO6U9v
+- The Unicode Consortium (@unicode) 2019年4月30日
+
+
+関連記事：
+WindowsとOfficeは新元号対応済み、「令和元年」表示も可能
+「令和」対応の開発者向けiOS 12.3とmacOS Mojaveベータ版がリリース。しばらく一般公開版は「平成31年」
+ ]]></description>
+			<pubDate>Wed, 01 May 2019 02:15:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
