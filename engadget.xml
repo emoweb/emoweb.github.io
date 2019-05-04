@@ -5,35 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    AIが電話応答するCallJoyをGoogleが発表。中小企業向け自動応答サービス
-</title>
-			<link>https://japanese.engadget.com/2019/05/01/ai-calljoy-google/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F629db6a0-6c74-11e9-ae7f-97405df81514&client=a1acac3e1b3290917d92&signature=d1db5496fcbf20c038e804ca16bfa5d4db90adcc" />
-GoogleがGoogle I/O 2019を目前にして、かかってきた電話にAIが応答するCallJoyを発表しました。2018年10月には、人間の代わりにAIがレストランなどに電話をして予約を行うDuplexを発表しましたが、ちょうどそれと反対側のサービスです。
-
- 
-関連記事：
-Google、AIが喋って電話予約するDuplexを来月提供。米国のPixelユーザーから順次拡大 
-
-電話に自動音声で応答して情報を提供したり、必要に応じて人間に代わるサービスは大企業では導入されていますが、個人商店などの中小企業ではコスト面などで導入が難しい問題があります。CallJoyはこれを解決するためのサービスです。
-
-CallJoyはスパム対策も兼ねており、不要なスパムをブロック。そのうえで、顧客からの通話にはカスタムメッセージで応答します。営業時間などの基本的なビジネス情報を提供し、顧客が電話で予約などを行いたい場合には、CallJoyは顧客の了承のもと、URLを含むSMSを送信します。
-
-ただ、顧客が固定電話からかけていてる場合には、当然ながらSMSは受け取れません。また、オンラインの予約システムなどがない企業もあるでしょう。このような場合には、電話が転送され従業員による対応も可能です。
-
-また、CallJoyが対応する場合も含め、通話は品質向上の目的で録音されます。その通話内容を示すタグが付与され、ビジネスオーナーはダッシュボードから、問い合わせ内容や電話の頻度などの確認も行えます。
-
- 
-
-ただし、CallJoyはすでにある電話番号ではなく、専用の仮想番号でのみ利用可能です。このため、企業の連絡先情報を変更する必要があります。
-
-CallJoyは現在、米国内のみですが招待制で利用可能。公式サイトで早期アクセスの申請を受け付けており、招待状は毎日送付されているとのことです。費用は月額39ドル。
-
-いまのところ、自身で予約や注文の受付は行えませんが、将来的には在庫や予約管理システムと連携し、それらもこなすようになるかもしれません。そうなれば、Duplexが予約の電話をかけ、CallJoyが受け付けるといった、AI同時の対話で話が完結する未来がやってくるのかもしれません。
- ]]></description>
-			<pubDate>Wed, 01 May 2019 23:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    完全ワイヤレスイヤホンPowerbeats Pro、米国およびカナダで5月10日発売。日本向けは未定
 </title>
 			<link>https://japanese.engadget.com/2019/05/01/powerbeats-pro-5-10/</link>
@@ -701,6 +672,19 @@ Nintendo Switch用VRを先行で遊んできました！ダンボールなのに
  
  ]]></description>
 			<pubDate>Fri, 03 May 2019 23:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    『スーパーマリオカート』と『ソリティア』がゲームの殿堂入り。モーコンや元祖アドベンチャーゲームも選出
+</title>
+			<link>https://japanese.engadget.com/2019/05/03/gamedendou/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Ff34616e0-6e1b-11e9-a2f3-592b6d5822e1&client=a1acac3e1b3290917d92&signature=bdcdcfd57d323d99df5e2a6b3646e64067e331f5" />
+The Strong, Rochester, New York
+
+米ニューヨーク州ロチェスターのストロング遊戯博物館は、2019年の「ビデオゲームの殿堂」（World Video Game Hall of Fame）入りゲームとして『スーパーマリオカート』『Morta Kombat』『Microsoft Solitaire』『Colossal Cave Adventure』の4本が決定したことを発表しました。
+
+「ビデオゲームの殿堂」は2015年から毎年開催され、ビデオゲーム業界のみならず大衆文化や一般社会に影響を与えたタイトルを選んでいるもの。過去には『スーパーマリオブラザーズ』や『パックマン』、『ゼルダの伝説』などが殿堂入りを果たしています。
+ ]]></description>
+			<pubDate>Fri, 03 May 2019 23:40:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
