@@ -5,19 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    完全ワイヤレスイヤホンPowerbeats Pro、米国およびカナダで5月10日発売。日本向けは未定
-</title>
-			<link>https://japanese.engadget.com/2019/05/01/powerbeats-pro-5-10/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F37a1a2d0-6c89-11e9-bff7-c84b01a3c90c&client=a1acac3e1b3290917d92&signature=80d69bcc4f0a76ac698284c6111a1562c1db94a7" />Beats by Dr. Dre
-
-アップルが4月に発表したBeatsブランドの完全ワイヤレスイヤホンPowerbeats Proが、米国およびカナダで5月3日に予約開始、同10日に発売されることが報じられています。アップル公式ストアでの予約価格は249.95ドル。
-
-なお、日本での予定価格は2万4800円（税別）と発表済みですが、予約開始および発売日は未定です。
- 
- ]]></description>
-			<pubDate>Wed, 01 May 2019 23:50:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Google、ロケーション履歴や検索履歴などのデータを自動削除可能に
 </title>
 			<link>https://japanese.engadget.com/2019/05/02/google/</link>
@@ -685,6 +672,29 @@ The Strong, Rochester, New York
 「ビデオゲームの殿堂」は2015年から毎年開催され、ビデオゲーム業界のみならず大衆文化や一般社会に影響を与えたタイトルを選んでいるもの。過去には『スーパーマリオブラザーズ』や『パックマン』、『ゼルダの伝説』などが殿堂入りを果たしています。
  ]]></description>
 			<pubDate>Fri, 03 May 2019 23:40:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Firefoxのアドオンが無効化される不具合が発生中。新規ダウンロード、インストールも不可
+</title>
+			<link>https://japanese.engadget.com/2019/05/04/firefox/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Fb59a5f80-6e21-11e9-b73b-aae481d97f7e&client=a1acac3e1b3290917d92&signature=1f064aeab5882cda88d11c40f2b1ded031502f46" />
+Firefoxブラウザにインストール済みのアドオン（拡張機能）が一斉に無効化され、新規にダウンロード・インストールもできなくなる不具合が発生しています。どうやら、アドオンの署名に利用されている中間証明書の有効期限切れが原因のようです。
+
+問題は、グリニッジ標準時の0時過ぎ（日本時間では5月4日9時）から発生しており、現在、開発チームが修正に取り組んでいるとのことです。
+
+問題が修正されるまでの間、一時的にアドオンを利用する方法としては、Firefoxアドオンのサイトからxpiファイルをダウンロード（「Firefoxへ追加」の上で右クリック &gt; 名前を付けてリンク先を保存）。Firefoxのアドオンメニューから、「拡張機能 &gt; アドオンをデバッグ &gt; 一時的なアドオンを読み込む」でダウンロードしたファイルを選択すれば、ブラウザを起動している間はアドオンが利用できます。
+
+ただし、この方法ではブラウザを閉じるとアドオンが削除されてしまうので、根本的な修正を待ったほうがいいでしょう。
+
+なお、Firefox Developer EditionあるいはNightlyビルドに限りますが、「about:config」から「xpinstall.signatures.required」をFalseにすると、アドオンを利用できます。
+
+ 
+
+It's been about two hours since we became aware of the certificate issue. No new updates at this time other than the team is still working on a fix.
+- Mozilla Add-ons (@mozamo) 2019年5月4日
+
+ ]]></description>
+			<pubDate>Sat, 04 May 2019 00:50:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
