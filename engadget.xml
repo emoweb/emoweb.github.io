@@ -5,15 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    2019年のiPhone、アンテナ素材をLCPからMPI切り替えとのアナリスト予測。新型iPad Pro量産は今年末？
-</title>
-			<link>https://japanese.engadget.com/2019/05/06/2019-iphone-lcp-mpi-ipad-pro/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Ff6e01a80-6fb0-11e9-b7ab-90a3059011c1&client=a1acac3e1b3290917d92&signature=599267d2b12432614bc12a384ecb7006f1aa2f5d" />
-将来のiPhoneや新型iPad Proの5G対応についての噂が活発化していますが、そこで重要となるのが電波を捉える「アンテナ」です。その素材につき、有名アナリストの予測が伝えられています。
- ]]></description>
-			<pubDate>Mon, 06 May 2019 00:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Googleの低価格スマホPixel3a XL、正式公開前に米量販店の店頭に並ぶ
 </title>
 			<link>https://japanese.engadget.com/2019/05/06/google-pixel3a-xl/</link>
@@ -459,6 +450,37 @@ Apple Watch Series 2の特定モデルを修理に出すと、一時的に世代
 今回の発表ではWindows Subsystem for Linux (WSL) 2の発表とともに、カスタムビルドのLinuxカーネルをWindowsに提供するとしました。搭載されるLinuxカーネルは最新の長期安定バージョン4.19をベースとしてWSL 2に最適化したもので、今後の安定版リリースに合わせて更新されるとのこと。
  ]]></description>
 			<pubDate>Tue, 07 May 2019 04:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Android Autoのアップデート発表。インターフェースを変更しダークテーマをサポート
+</title>
+			<link>https://japanese.engadget.com/2019/05/07/android-auto/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Fddcdca80-708a-11e9-9f6d-ea772f664844&client=a1acac3e1b3290917d92&signature=d6659a60d828ef603b3e1b6ea32a3604a2eca969" />
+Google I/O直前の5月6日（現地時間）、GoogleがAndroid Autoのアップデートを発表しました。
+
+Android Autoは、カーナビなどの対応した車載機器にAndroid端末を接続すると、そのディスプレイ上でGoogleマップのナビゲーションや、着信応答、Spotifyなどの対応アプリの操作が可能になるというもの。
+
+Android 5.0以上の端末であれば、車載機器に接続しなくてもスマートフォン単体での利用が可能です。
+
+ 
+関連記事：
+「Android Auto」がすべての車に対応、車載機器に繋がずスマホ単体で動作可能に
+
+そのAndroid Autoのアップデートは、主にインターフェース周りに関するものです。
+
+まず、ナビゲーションバーが変更され、ナビゲーション画面を表示しながら、Spotifyのコントロールなどが可能になりました。また、新しい通知センターに最近のメッセージや着信が表示され、車を停車した際など、都合のいいときに確認できます。
+
+加えて、ワイドディスプレイなどの画面サイズに合わせて、表示する情報も増えるとのことです。
+
+見た目では、車の内装にフィットするよう、ダークテーマをサポート。カラフルになったボタンと読みやすいフォントを採用し、視認性も向上したとしています。
+
+新しいAndroid Autoは今夏遅くにリリース予定。日本ではあまり普及している感はありませんが、日常的に車を使う人には、使いやすくなりそうです。
+
+ 
+
+  
+ ]]></description>
+			<pubDate>Tue, 07 May 2019 04:30:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
