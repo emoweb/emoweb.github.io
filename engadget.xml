@@ -5,49 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Firefoxのアドオンが無効化される不具合が発生中。新規ダウンロード、インストールも不可
-</title>
-			<link>https://japanese.engadget.com/2019/05/04/firefox/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Fb59a5f80-6e21-11e9-b73b-aae481d97f7e&client=a1acac3e1b3290917d92&signature=1f064aeab5882cda88d11c40f2b1ded031502f46" />
-Firefoxブラウザにインストール済みのアドオン（拡張機能）が一斉に無効化され、新規にダウンロード・インストールもできなくなる不具合が発生しています。どうやら、アドオンの署名に利用されている中間証明書の有効期限切れが原因のようです。
-
-問題は、グリニッジ標準時の0時過ぎ（日本時間では5月4日9時）から発生しており、現在、開発チームが修正に取り組んでいるとのことです。
-
-問題が修正されるまでの間、一時的にアドオンを利用する方法としては、Firefoxアドオンのサイトからxpiファイルをダウンロード（「Firefoxへ追加」の上で右クリック &gt; 名前を付けてリンク先を保存）。Firefoxのアドオンメニューから、「拡張機能 &gt; アドオンをデバッグ &gt; 一時的なアドオンを読み込む」でダウンロードしたファイルを選択すれば、ブラウザを起動している間はアドオンが利用できます。
-
-ただし、この方法ではブラウザを閉じるとアドオンが削除されてしまうので、根本的な修正を待ったほうがいいでしょう。
-
-なお、Firefox Developer EditionあるいはNightlyビルドに限りますが、「about:config」から「xpinstall.signatures.required」をFalseにすると、アドオンを利用できます。
-
- 
-
-It's been about two hours since we became aware of the certificate issue. No new updates at this time other than the team is still working on a fix.
-- Mozilla Add-ons (@mozamo) 2019年5月4日
-
- ]]></description>
-			<pubDate>Sat, 04 May 2019 00:50:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    アップル、ドイツ自転車道のリンゴ型ロゴに抗議。現地の観光協会は困惑
-</title>
-			<link>https://japanese.engadget.com/2019/05/04/apfelroute/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F42f265c0-6e28-11e9-9df3-b04e1ec42373&client=a1acac3e1b3290917d92&signature=9bcc41e941f1d899988e7c5a30157157dfdb183c" />
-Apfelroute
-
-アップルが自社のリンゴ型ロゴに類似した他社の商標を訴えることは珍しくありませんが、ドイツの自転車道向けにデザインされたマークの使用中止を求めていることが報じられています。
- ]]></description>
-			<pubDate>Sat, 04 May 2019 01:15:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    目玉シールで募金額が48%も増加との研究結果。「見られている感覚」が善意を呼び起こす？
-</title>
-			<link>https://japanese.engadget.com/2019/05/04/48/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Fced162c0-6e3d-11e9-b99b-def09907c4d2&client=a1acac3e1b3290917d92&signature=27abe096c95aefc8d1443a7c1419468dc1e00c60" />
-国際行動生物学ジャーナルに掲載された新たな論文は、ほんの少しの工夫で人々が慈善行為に積極的になれる方法を発見したことを報告しています。その方法とは、募金箱に目玉のステッカーを貼り付けるだけ。不思議なことにこれだけで、何の装飾もない募金箱に比べて48%も寄付をする人が増えました。
- ]]></description>
-			<pubDate>Sat, 04 May 2019 04:50:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    5月5日の話題は「秋葉原に大型ロボ「クラタス」登場」「iOS 5以降でOTA対応？」：今日は何の日？
 </title>
 			<link>https://japanese.engadget.com/2019/05/04/5-5-ios-5-ota/</link>
@@ -560,6 +517,109 @@ eGonはVWの人気車種GolfをベースとするEV、e-Golf。そのボディ�
 Twitterがリツイートの際にGIFや写真、動画を使ってリツイートする機能をリリースしました。この機能はiOS/Androidアプリおよびmobile.twitter.comですでに使用可能になっています。
  ]]></description>
 			<pubDate>Mon, 06 May 2019 18:20:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    電車の乗り換えでバタバタしないためには？カレンダーに乗換案内を表示させると便利です：iPhone Tips
+</title>
+			<link>https://japanese.engadget.com/2019/05/06/iphone-tips/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=2484%2C2208%2C0%2C0&quality=85&format=jpg&resize=900%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2Fc9735380-601c-11e9-8fda-206d26c27f9a&client=a1acac3e1b3290917d92&signature=6b6fb0569629c8bd753accb633b0d82ec6f6f0c7" />新生活をスタートさせた人が多い4月。遅刻をしないように余裕をもって日々の通勤・通学を心がけていた人も多いことでしょう。
+
+でもGWの連休が終わり、「あれ、何時の電車に乗ればいいんだっけ？」「どこの駅で乗り換えるんだったかな......」なんて、振り出しに戻ったなんて方も多いのでは？
+
+そんな人におすすめなのが、乗換案内のアプリを使って自分が乗る電車の経路をiPhoneの「カレンダー」で表示する方法。この機能を使えば、わざわざ経路を検索する手間が省けますし、急いでいるときもパッと情報を見られます。通知や繰り返しの機能も使えるので、シチュエーションに応じた設定も可能ですよ。移動の多い営業職の人、鉄道の旅が好きな人も必見です。
+
+この機能を使うには、乗換案内のアプリが必要になります。また、それぞれのアプリでアイコンの名称が異なります。今回は「Yahoo!乗換案内」とJorudanの「乗換案内」、「乗換NAVITIME」の3つのアプリでの方法をご紹介します。
+<p><a href="https://japanese.engadget.com/gallery/-728/" title="カレンダーに乗換案内を表示する方法">【ギャラリー】カレンダーに乗換案内を表示する方法 (11枚)</a></p>
+ ]]></description>
+			<pubDate>Mon, 06 May 2019 19:07:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    ポケモンGOで映画『名探偵ピカチュウ』イベント、探偵帽ピカチュウ写り込みやXP2倍など
+</title>
+			<link>https://japanese.engadget.com/2019/05/06/go-xp2/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Fdca96d60-704b-11e9-af2f-4d91e73e93de&client=a1acac3e1b3290917d92&signature=1c5a787f4c273da8270d6092c52dcd836b4ba93e" />
+
+ポケモンGOが、5月3日より公開中の映画『名探偵ピカチュウ』コラボイベントを実施します。
+
+映画に登場するポケモンが野生・レイド・限定フィールドリサーチで多く出現するほか、探偵帽のピカチュウがGOスナップショットに写り込みと出現、色違いエイパム初登場、ポケモン捕獲時のXPが2倍など。
+
+期間は日本時間で2019年5月8日から5月17日まで。
+
+ 
+ ]]></description>
+			<pubDate>Mon, 06 May 2019 19:29:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Amazonセール速報5月7日昼版｜ スマートスピーカー「Echo Dot」が46%OFF、20000mAhモバイルバッテリーが86%OFF #セール #特価
+</title>
+			<link>https://japanese.engadget.com/2019/05/06/amazon-5-7-echo-dot-46-off-20000mah/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F4f66de60-705a-11e9-b77d-113fe531efba&client=a1acac3e1b3290917d92&signature=4507a67565cdfa9f1e9079a30cb3fdca93481c95" />
+
+
+
+数あるAmazonタイムセールのなかでも、Engadget編集部が気になったアイテムをお届けします。
+
+今回ピックアップしたのは以下の9アイテム。お得に購入できるうちにカートに入れちゃいましょう。スマホでご覧の場合、右側にスクロールします。
+
+ 
+
+
+
+
+
+
+
+
+
+&yen; 3,240
+参考価格: &yen; 5,980 (46% OFF)
+【2,740円引き】Echo Dot スマートスピーカー with Alexa
+
+特選タイムセール
+&yen; 2,800
+参考価格: &yen; 19,908 (86% OFF)
+【本日限定】モバイルバッテリーがお買い得
+
+&yen; 2,124
+価格: &yen; 2,699 (21% OFF)
+Magsbud スチーマー 美顔器 ナノケア イオンケア スチーム 顔 美肌...
+
+
+
+&yen; 5,030
+参考価格: &yen; 23,988 (79% OFF)
+【2019年最新版】ドライブレコーダー 前後カメラ 1080P フルHD ...
+
+&yen; 1,700
+価格: &yen; 2,000 (15% OFF)
+elzle モバイルバッテリー 軽量 コンパクト 最小型 大容量 10000m...
+
+&yen; 4,488
+参考価格: &yen; 7,880 (43% OFF)
+5Starソーラーチャージャー モバイルバッテリー 4枚ソーラーパネル 
+
+
+
+&yen; 6,289
+価格: &yen; 7,880 (20% OFF)
+APEMAN トレイルカメラ 人感センサー 防犯カメラ 動き検知カ...
+
+&yen; 586 - &yen; 1,096
+micro usb cable
+
+&yen; 6,927
+価格: &yen; 8,200 (16% OFF)
+suaoki ジャンプスターター 大容量 最大電流700A エアコンプレッサ...
+
+
+
+
+※本記事のセール情報は記事執筆時点のもので、価格や在庫状況が変化する場合があります。
+
+
+
+ ]]></description>
+			<pubDate>Mon, 06 May 2019 20:02:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
