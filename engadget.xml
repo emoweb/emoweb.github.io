@@ -5,26 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Apple Watch Series 2を修理に出すとSeries 3に交換？アップルが内部文書で通達のうわさ
-</title>
-			<link>https://japanese.engadget.com/2019/05/07/apple-watch-series-2-series-3/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F46f9ba00-7095-11e9-b77b-bd52c852c34e&client=a1acac3e1b3290917d92&signature=28c7db3a19680a6a578aa94031d9fcf2314bf999" />
-Apple Watch Series 2の特定モデルを修理に出すと、一時的に世代の新しいApple Watch Series 3に交換してもらえる可能性があるとの噂が報じられています。
- ]]></description>
-			<pubDate>Tue, 07 May 2019 03:30:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Windows 10に本物のLinuxカーネル搭載へ。WSL 2用にカスタムし高速化
-</title>
-			<link>https://japanese.engadget.com/2019/05/07/windows-10-linux-wsl-2/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F2a70e2f0-7095-11e9-afef-30e392797673&client=a1acac3e1b3290917d92&signature=303cce6675c8a0a7a1fa08b7f6116f53ca5007d5" />
-マイクロソフトが、今夏リリース予定のWindows 10アップデートで、完全なLinuxカーネルをコンポーネントとして搭載することを明らかにしました。Windows 10は2016年にLinuxコマンドシェルBashの搭載を発表し、2017年にはWSL内で動作するLinux環境を提供しています。
-
-今回の発表ではWindows Subsystem for Linux (WSL) 2の発表とともに、カスタムビルドのLinuxカーネルをWindowsに提供するとしました。搭載されるLinuxカーネルは最新の長期安定バージョン4.19をベースとしてWSL 2に最適化したもので、今後の安定版リリースに合わせて更新されるとのこと。
- ]]></description>
-			<pubDate>Tue, 07 May 2019 04:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Android Autoのアップデート発表。インターフェースを変更しダークテーマをサポート
 </title>
 			<link>https://japanese.engadget.com/2019/05/07/android-auto/</link>
@@ -757,6 +737,32 @@ bigtunaonline via Getty Images
 フェイクニュース対策としてファクトチェック（事実検証）機能がYouTubeなど大手ネットサービスに導入されつつありますが、新たに写真SNSのInstagramが取組みを強化するテストを始めたと報じられています。
  ]]></description>
 			<pubDate>Wed, 08 May 2019 01:50:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    MIT、AIによる乳がん予測で「有意な」発見率向上。6万人分のデータ学習、人種格差も解消
+</title>
+			<link>https://japanese.engadget.com/2019/05/08/mit-ai-6/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Fa9812800-715a-11e9-bb6f-37bed4247544&client=a1acac3e1b3290917d92&signature=d49ed65729ca9cffce9118cb16936e052229b649" />
+MITコンピュータ科学・人工知能研究所(CSAIL)とマサチューセッツ総合病院の研究チームが、AIを使った新しいマンモグラフィー検査の方法を開発しました。深層学習モデルによって鍛えたAIは、5年以内に乳がんを発生すると予測される乳房X線写真を検出します。これまでに開発されたモデルでは、どういうわけか白人と黒人によって検出精度が異なりましたが、新たなモデルではその差もないとのこと。
+ ]]></description>
+			<pubDate>Wed, 08 May 2019 02:50:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Amazon、日本でも「ARビュー」提供開始　家具・家電を3D実寸表示
+</title>
+			<link>https://japanese.engadget.com/2019/05/08/amazon-ar/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F7bf159b0-715e-11e9-97ff-bdb6d27d1a72&client=a1acac3e1b3290917d92&signature=43a78bd58e2c617639d37eadfe9312051edabaac" />
+Amazonは、現実世界に家具・家電を実寸大で3D表示する「ARビュー」の提供を日本でも開始しました。スマホの画面を通じ、単なる画像ではわかりずらい実際のサイズ感を、3Dであらゆる角度から自室に重ね合わせて確認できます。
+
+「ARビュー」は、iOS / Android版の「Amazonショッピングアプリ」で利用可能。ARビュー対応商品のページを開き、商品画像の下にある「部屋に表示（ARビュー）」をタップすることで利用できます。
+
+対応デバイスは、iPhone 6s以降のiPhone、およびAndroid 7.0以降のARCore対応Androidスマートフォンです。なおAndroid端末では別途「ARCore by Google」のインストールが必要です。
+
+ 
+
+新生活や模様替えで、家具や家電の新調を検討されている方に便利な機能と言えそうです。
+ ]]></description>
+			<pubDate>Wed, 08 May 2019 03:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
