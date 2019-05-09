@@ -5,23 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Amazon、日本でも「ARビュー」提供開始　家具・家電を3D実寸表示
-</title>
-			<link>https://japanese.engadget.com/2019/05/08/amazon-ar/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F7bf159b0-715e-11e9-97ff-bdb6d27d1a72&client=a1acac3e1b3290917d92&signature=43a78bd58e2c617639d37eadfe9312051edabaac" />
-Amazonは、現実世界に家具・家電を実寸大で3D表示する「ARビュー」の提供を日本でも開始しました。スマホの画面を通じ、単なる画像ではわかりずらい実際のサイズ感を、3Dであらゆる角度から自室に重ね合わせて確認できます。
-
-「ARビュー」は、iOS / Android版の「Amazonショッピングアプリ」で利用可能。ARビュー対応商品のページを開き、商品画像の下にある「部屋に表示（ARビュー）」をタップすることで利用できます。
-
-対応デバイスは、iPhone 6s以降のiPhone、およびAndroid 7.0以降のARCore対応Androidスマートフォンです。なおAndroid端末では別途「ARCore by Google」のインストールが必要です。
-
- 
-
-新生活や模様替えで、家具や家電の新調を検討されている方に便利な機能と言えそうです。
- ]]></description>
-			<pubDate>Wed, 08 May 2019 03:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    小型端末「Palm Phone」で、ゲームは快適に遊べるのか？
 </title>
 			<link>https://japanese.engadget.com/2019/05/08/palm-phone/</link>
@@ -1482,6 +1465,16 @@ deerma社は中国の広東省に位置する家電メーカー。1990年代に�
  
  ]]></description>
 			<pubDate>Wed, 08 May 2019 23:50:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    ファイル共有機能Androidビーム、Android Qでは廃止に
+</title>
+			<link>https://japanese.engadget.com/2019/05/09/android-android-q/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Fce334420-7205-11e9-b4ef-67815f864c46&client=a1acac3e1b3290917d92&signature=27186684be35fa11396df1d06d58595e12ceb5b2" />現在ベータ3の配信が行われているAndroid Qでは、Android特有のファイル共有方法であるAndroid Beamが非対応になるようです。
+
+Android Beamは、Android 4.0 Ice Cream Sandwitchで追加された機能。Android端末の背面を合わせ、NFCで通信を行うことでファイルなどの共有を行います。Android 4.1からはNFCでお互いを確認した後、データ転送そのものはBluetoothを使うように仕様変更されました。
+ ]]></description>
+			<pubDate>Thu, 09 May 2019 00:15:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
