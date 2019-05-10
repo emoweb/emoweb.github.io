@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】エプソン、PX-M7070FX ファームウェアほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1183689.html</link>
-			<description><![CDATA[<div><div><p>　エプソンは、PX-M7070FX ファームウェアほかを公開した。</p></div></div>]]></description>
-			<pubDate>Thu, 09 May 2019 21:15:48 +0900</pubDate>
-		</item>
-		<item>
-			<title>【ニュース・フラッシュ】NEC DS、SpectraView II (Ver.1.1.39)</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1183690.html</link>
-			<description><![CDATA[<div><div><p>　NECディスプレイソリューションズは、SpectraView II (Ver.1.1.39)を公開した。</p></div></div>]]></description>
-			<pubDate>Thu, 09 May 2019 21:16:04 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】リコー、IPSiO SP 3410L用プリンタードライバー Ver.1.65ほか</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1183691.html</link>
 			<description><![CDATA[<div><div><p>　リコーは、IPSiO SP 3410L用プリンタードライバー Ver.1.65ほかを公開した。</p></div></div>]]></description>
@@ -123,6 +111,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1183846.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1183/846/01_o.jpg"></div></div><span class="caption">Platinum</span></div></div></div></div><p>　<a href="https://product.3ec.jp/" class="n" target="_blank">株式会社スリーイーホールディングス</a>は、モバイルバッテリ「Platinum」、「Sable」、「Eclair」の3製品を5月中旬より発売する。本体色はすべてブラックとホワイトの2種類で、税別店頭予想価格は順に7,280円、2,780円、3,980円。</p><p>　Platinumはバッテリ容量10,000mAhでUSB Power Deliveryに対応したモデル。Quick Charge 3.0もサポートする。出力電圧は5～6V/3A、6～9V/2A、9～12V/1.5A。出力ポートはUSB Type-C×1、Type-A×1の2系統で、合計3Aまでの出力が可能。</p><p>　本体サイズは87×59×21mm(幅×奥行き×高さ)、重量は約199g。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1183/846/02_o.jpg"></div></div><span class="caption">Sable</span></div></div></div></div><p>　Sableはサイズが90×62×13mmとコンパクト設計のモデル。重量は約102gで、バッテリ容量は5,000mAh。出力電圧は5V/2A。出力ポートはUSB Type-A×2で合計2.4Aまでの出力が可能。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1183/846/03_o.jpg"></div></div><span class="caption">Eclair</span></div></div></div></div><p>　Eclairは表面に特殊なABSを使用し滑りにくい加工を施したモデル。バッテリ容量は10,000mAh。出力電圧は5V/2A、5V/1A。出力ポートはUSB Type-C×1とType-A×2の3系統を備える。</p><p>　本体サイズは124×68×15mm(同)、重量は約183g。</p></div></div>]]></description>
 			<pubDate>Fri, 10 May 2019 14:47:22 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10搭載の生体認証「Windows Hello」がFIDO2認定を取得 ～Webブラウザでもパスワード不要でログイン可能に</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1183854.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1183/854/01.png"></div></div><span class="caption">Windows Hello</span></div></div></div></div><p>　<a href="https://fidoalliance.org/" class="n" target="_blank">FIDO Alliance</a>は6日(米国時間)、Microsoftの「Windows Hello」が、FIDO2認定を取得したことを発表した。</p><p>　これにより、Windows 10が実行されており互換性のある全デバイスは、Windows 10のMay 2019アップデート(バージョン1903)の適用後、FIDO2認定を取得している状態となる。</p><p>　FIDO2は、モバイル機器の生体認証やFIDOセキュリティキーなどを使って、Webサイトやアプリへの簡単かつ安全なログインを可能にする標準規格。FIDO2によるログインは、パスワードよりも優れた堅牢な暗号学的セキュリティによって担保されており、フィッシングやあらゆる形式のパスワード盗難、リプレイ攻撃からの保護を実現する。</p><p>　今後、Windows 10ユーザーは、パスワードの代わりにWindows Helloの生体認証またはPINを利用することで、デバイスやアプリ、オンラインサービス、ネットワークへFIDO認定を受けたセキュリティでアクセスできる。</p><p>　Windows 10 May 2019アップデート以降は、EdgeブラウザがFIDO2をサポートするほか、FIDOセキュリティキーでWindowsアカウントへのログインが可能となる。また、最新バージョンのMozilla Firefoxで動作する、Windows HelloまたはFIDOセキュリティキーによるパスワードなしのFIDO認証のサポートも含まれている。</p><p>　なお、「Microsoft Edge on Chromium」を含むChromiumuベースのブラウザについても、近日中にFIDO2をサポートする見込み。</p></div></div>]]></description>
+			<pubDate>Fri, 10 May 2019 15:12:55 +0900</pubDate>
+		</item>
+		<item>
+			<title>【ニュース・フラッシュ】CFD、デスクトップ/ノートPC向けDDR4-3200メモリ</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1183866.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1183/866/01_o.jpg"></div></div><span class="caption">W4U3200CM(デスクトップPC向け)</span></div></div></div></div><p>　<a href="https://www.cfd.co.jp/" class="n" target="_blank">CDF販売株式会社</a>は、「CFD Selection crucial by micron Standard」シリーズより、デスクトップおよびノートPC向けDDR4-3200メモリを5月中旬より発売する。価格はすべてオープンプライス。</p><p>　メモリ単体の容量ラインナップは4GB、8GB、16GBの3種類で、デスクトップ向けには2枚組のみが、ノートPC向けには1枚と2枚組が用意される。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1183/866/02_o.jpg"></div></div><span class="caption">D4N3200CM(ノートPC向け・1枚)</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1183/866/03_o.jpg"></div></div><span class="caption">W4N3200CM(ノートPC向け・2枚組)</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Fri, 10 May 2019 15:19:16 +0900</pubDate>
 		</item>
 	</channel>
 </rss>

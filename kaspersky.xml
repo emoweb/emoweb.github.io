@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>RSAC 2019：攻撃者がドメインフロンティングを必要とする理由</title>
-			<link>https://blog.kaspersky.co.jp/domain-fronting-rsa2019/23020/</link>
-			<description><![CDATA[感染したマシンと指令サーバーとの通信を偽装するのに、ドメインフロンティングをいかに使用するか。その方法がRSAC 2019で発表されました。]]></description>
-			<pubDate>Mon, 22 Apr 2019 01:00:46 +0000</pubDate>
-		</item>
-		<item>
 			<title>APT：Gaza CybergangとSneakyPastes作戦</title>
 			<link>https://blog.kaspersky.co.jp/gaza-cybergang/23035/</link>
 			<description><![CDATA[主に中東と中央アジアの国々で作戦活動を繰り広げる、サイバースパイ活動専門のサイバー犯罪集団。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/carbanak-source-code-leaked/23153/</link>
 			<description><![CDATA[10億ドルの被害を出したとされる悪名高いマルウェアのソースコードがVirusTotalで発見されました。このマルウェアについて、将来的に起こりうることについて。]]></description>
 			<pubDate>Wed, 08 May 2019 01:00:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>ミッション・ポッシブル：ネット上のトラッキングツールを回避するには</title>
+			<link>https://blog.kaspersky.co.jp/anti-tracking-tools/23113/</link>
+			<description><![CDATA[オンラインでのプライバシーを保護するために役立つツールを紹介します。]]></description>
+			<pubDate>Fri, 10 May 2019 07:00:08 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
