@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>人気テレビシリーズに潜む危険</title>
-			<link>https://blog.kaspersky.co.jp/tv-series-threats/22936/</link>
-			<description><![CDATA[人気テレビシリーズのエピソードを装ったファイルにマルウェアが仕込まれ、配信されることがよくあります。最も危険性の高いテレビシリーズは？何が危ないか見分ける方法は？]]></description>
-			<pubDate>Thu, 25 Apr 2019 01:00:44 +0000</pubDate>
-		</item>
-		<item>
 			<title>ShadowHammer：新たな情報</title>
 			<link>https://blog.kaspersky.co.jp/details-shadow-hammer/23118/</link>
 			<description><![CDATA[ASUSの一件は、大規模な活動の一部に過ぎなかったと見られます。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/kips-online-japan-2019-part-1/23190/</link>
 			<description><![CDATA[ゲーム形式で学ぶサイバーセキュリティ演習「KIPS」の大会、2019年の第1弾を、新シナリオで日本にて開催します。]]></description>
 			<pubDate>Mon, 13 May 2019 04:00:35 +0000</pubDate>
+		</item>
+		<item>
+			<title>GPSハッキングから身を守れるか</title>
+			<link>https://blog.kaspersky.co.jp/gps-spoofing-protection/23159/</link>
+			<description><![CDATA[カーナビがとんでもない場所を現在地と示したことはありませんか？それは偽造されたGPS信号を受信したのが原因です。]]></description>
+			<pubDate>Tue, 14 May 2019 01:00:04 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
