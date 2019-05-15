@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ShadowHammer：新たな情報</title>
-			<link>https://blog.kaspersky.co.jp/details-shadow-hammer/23118/</link>
-			<description><![CDATA[ASUSの一件は、大規模な活動の一部に過ぎなかったと見られます。]]></description>
-			<pubDate>Thu, 25 Apr 2019 07:00:26 +0000</pubDate>
-		</item>
-		<item>
 			<title>スタートアップ企業と情報セキュリティ</title>
 			<link>https://blog.kaspersky.co.jp/startup-cybersecurity/23078/</link>
 			<description><![CDATA[スタートアップ企業が自社とデータを守るために必要なこととは？]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/gps-spoofing-protection/23159/</link>
 			<description><![CDATA[カーナビがとんでもない場所を現在地と示したことはありませんか？それは偽造されたGPS信号を受信したのが原因です。]]></description>
 			<pubDate>Tue, 14 May 2019 01:00:04 +0000</pubDate>
+		</item>
+		<item>
+			<title>WhatsAppの新たな脆弱性：ワン切りで始まるスパイ行為</title>
+			<link>https://blog.kaspersky.co.jp/whatsapp-call-zeroday/23206/</link>
+			<description><![CDATA[新たに発見されたWhatsAppの脆弱性は、通話の盗聴やチャットの読み取りを許すほか、電話するだけでスパイウェアをインストールすることも可能とします。WhatsAppのアップデートを。]]></description>
+			<pubDate>Wed, 15 May 2019 07:00:24 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
