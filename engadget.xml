@@ -5,16 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    太平洋にある「核の棺」老朽化。国連事務総長、放射性物質流出の可能性を警告
-</title>
-			<link>https://japanese.engadget.com/2019/05/18/nuclear-waste-leaking/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F6eb76af0-79b0-11e9-bcbc-68245321f223&client=a1acac3e1b3290917d92&signature=32ef2006163add94305510604febc607733db5c4" />
-国連事務総長のアントニオ・グテーレス氏が、1946年から1962年にかけて原水爆実験が行われたマーシャル諸島のエニウェトク環礁にある、核廃棄物を格納したコンクリートドームから放射性物質が漏れ出ているとの懸念を表明しました。この容器はエニウェトク環礁のルニット島に作られたもので、老朽化が進行しつつあります。
- 
- ]]></description>
-			<pubDate>Sat, 18 May 2019 18:20:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Google系のWing、ヘルシンキで『ドローン宅配便』（TechCrunch）
 </title>
 			<link>https://japanese.engadget.com/2019/05/18/google-wing-techcrunch/</link>
@@ -540,6 +530,37 @@ LINE Payとメルペイが提携、QR決済の相互開放へ
  
  ]]></description>
 			<pubDate>Mon, 20 May 2019 04:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    アカウント保護には電話番号を登録するだけも有効。Googleが1年間の調査結果を発表
+</title>
+			<link>https://japanese.engadget.com/2019/05/20/google-1/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Fb342e2e0-7ac2-11e9-b6fb-4f5a322d4867&client=a1acac3e1b3290917d92&signature=defbba2f340896e5312398ad6c0fba11516adb7c" />
+Googleは5月17日（現地時間）、5月13日～17日にサンフランシスコで開催されたWEBに関する有識者会議The Web Conferenceで発表した、アカウント保護に関する調査結果を公開しました。それによると、アカウントに再設定用の電話番号を追加するだけ、ボットによる自動攻撃を100%、不特定多数を狙ったフィッシング攻撃を99%、標的型攻撃を66%ブロック出来たとのことです。
+
+再設定用の電話番号は、パスワードを忘れた場合に電話やSMSなどでパスワードを再設定するために使うもの。不審なアクセスがあった場合、この番号にSMSを送信することで、ボットなどの攻撃を防ぐこともできます。
+
+不審なアクセスがあった場合、再設定用の電話番号を登録していないと、前回のサインイン場所を回答するなどして本人確認を行うことになります。これはボットには有効であるものの、フィッシングに対する防御は10%まで低下してしまいます。
+
+なお、再設定の電話番号やメールアドレスは、日常的に使用しているものを設定するのが推奨されていますが、今回の調査では、38%が電話にアクセスできず、34%が再設定用のメールアドレスを思い出すことが出来なかったとのことです。
+
+
+
+また、セキュリティキーを利用すると、ボットやフィッシング、標的型攻撃を100%防げたとのこと。Googleは昨年にも、社員へセキュリティキー使用を義務付けたところ、フィッシング被害が0になったとの話題もありました。デバイスプロンプトを使ったアクセスでも、セキュリティキーと同等の安全性が確保できるようです。
+
+ 
+関連記事：
+Google、社員へのセキュリティキー導入でフィッシング被害が0件に
+
+このほか、Googleによると、身近な人やGoogleを装いアカウント情報を盗もうとする「hack for hire」攻撃もあるとのこと。1アカウント辺り750ドルで攻撃を請け負う組織もあるのだとか。
+
+ただし、対象とされるのは100万人に1人と非常にまれ。政治家やジャーナリストなど限られた人のみが対象とされ、これらの人には高度な保護機能プログラムへの登録が推奨されています。
+
+ 
+関連記事：
+強固なセキュリティでGoogleサービスが使える「高度な保護機能プログラム」が開始。選挙関係者などを想定
+ ]]></description>
+			<pubDate>Mon, 20 May 2019 04:30:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
