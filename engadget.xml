@@ -5,19 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    アップルが未発表ゲームを囲い込み？からApp Store訴訟継続まで、最新のアップル情報まとめ
-</title>
-			<link>https://japanese.engadget.com/2019/05/18/app-store/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F0c9773a0-79e3-11e9-abd4-36acf2722b5c&client=a1acac3e1b3290917d92&signature=65a6a51fb340b83d0904fc852287780bb137c8e6" />
-Thomas Trutschel via Getty Images
-
-米トランプ政権が、これまで対象外としてきた「携帯電話」や「ノートPC」、すなわちiPhoneやMacも対中制裁関税に含む方針を発表して激震が走った5月の第3週。アップルにとって試練の時が始まりそうです。
-
-アップルが未発表ゲームを囲い込み？からApp Store訴訟継続まで、最新のアップル情報を一括して振り返ります。
- ]]></description>
-			<pubDate>Sat, 18 May 2019 23:40:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    中国でアップル製品ボイコットの動き強まる？SNSに「iPhoneを使うことに罪悪感」の声も
 </title>
 			<link>https://japanese.engadget.com/2019/05/19/sns-iphone/</link>
@@ -543,6 +530,53 @@ FRED DUFOUR/AFP/Getty Images
 2015年、キヤノンが標準単焦点レンズ「EF50mm F1.8 STM」を発売
  ]]></description>
 			<pubDate>Mon, 20 May 2019 16:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    『Google抜き』のHUAWEIスマホはどうなる？ 中国の事例から考えてみる（山谷剛史）
+</title>
+			<link>https://japanese.engadget.com/2019/05/20/huawei-nogoogle/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-05/b5056b40-7b42-11e9-9527-e3b9acc6b803" />
+▲中国のファーウェイ代理店。モールなどでよく見る
+
+米Googleがファーウェイ（HUAWAI）との一部ビジネスを停止したと報じられている。販売済の端末についてはGoogle Playを提供するが、今後出る端末については、Androidこそ利用できるが、Google Play、Gmail、YouTube、Chrome、Google マップなどグーグルのアプリがプリインストールされないことになる。またAndroidのバージョンアップはできなくなるという。
+ 
+関連記事：
+米政府、ファーウェイ製品締め出しの大統領令に署名。米国からの部品調達も実質禁止へ
+
+中国でもこの話は報じられているが、中国国内においては、ITニュースをチェックするような消費者しか興味はわかないだろう。なぜなら中国からGoogleの各サービスをブロックし、利用できないというのが理由のひとつ。またここに挙げたGoogleの各種アプリをプリインストールしているAndroidスマートフォンは中国では販売されていないというのがもうひとつの理由だ。 Google検索をリプレースできる百度（Baidu）のサービスがあるし、Google マップの代わりに百度地図や高徳地図が使える。動画についてもメールについても代替できるサービスは存在する。
+
+とはいえだ。最初からグーグルのアプリがインストールされていないのは中国市場向けの話。中国企業といえど、海外向けに売るとなればグーグルのアプリが必要だ。ではGoogleが提供しないならどうなるのだろう。
+
+実は中国のAndroidスマートフォンにGoogle Playをはじめとしたグーグルのアプリを簡単にインストールすることができる。中国のAndroid搭載スマホには、ファーウェイであれOPPOであれvivoであれ小米であれ、Google Playがない代わりに各メーカーがアプリストアを用意している。
+
+また、中国メーカーが独自で用意したアプリストアのほかにも、騰訊（Tencent）などのWebサービスがアプリストアを提供しており、それをダウンロードして利用する方法もある。
+
+実はこの中国製のアプリストアの中にも、Googleの各種アプリが用意されていて、インストールができるようになっている。Google Mapをインストールしたいならば、Google Play関連サービスをユーザー自身でインストールしてもよし、また中国のアプリストアからGoogle Playをインストールしても構わない。
+
+
+▲中国のアプリストアではグーグル関係のアプリがインストールできるようになっている
+
+筆者は中国の有名無名のブランドのスマートフォンを購入し所有しているが、どちらかといえば、有名なブランドのスマートフォンのほうがGoogleサービスのインストールがすんなりといくが、無名のメーカーは何かしらインストールでトラブルが起きることが多い。この辺は技術力の差だろうか。ファーウェイがGoogle Play抜きのスマートフォンをリリースしても、簡単に後からGoogle関連のアプリをインストールできる。Googleのサポートを受けない形で、Googleのアプリを利用できる仕掛けを作っておくというのが一番現実的だ。
+■「独自OS」の可能性
+別の可能性として、ファーウェイはAndroidを使えなくなった場合の時に備えて「プランB」なる独自OSの開発を進めているとしている。プランBが実現したらどうなるか。独自OSについて中国における前例から考えてみる。
+
+中国のスマートフォンには、OPPOのColor OSなどしばしば「OS」という名のソフトがインストールされているが、これはカスタムROMである。それとは別に、阿里巴巴（Alibaba）が開発したものでLinuxベースの「YunOS（阿里雲OS）」というものがある。これはAndroidと互換性があるが、Androidとは異なるというLinuxベースのOSだ。「Androidではないが、Androidのアプリがインストールでき、おまけにGoogleの各種アプリもインストールできる」という代物だ。ちなみに中国でのYunOSの搭載機は少なく、マイナーメーカーの低スペック機にしか搭載されなかったのでスマートフォン向けのYunOSについては著名にはならなかった。
+
+▲YunOS搭載の中国移動A3。Android向けアプリがそのまま動く
+
+▲OSはYunOSであり、Linuxベースだという
+
+YunOSのような「独自OS」がファーウェイで開発されているならば、Googleとは距離を起きつつも、Androidのアプリ資産を活用できることになる。実際に存在するので不可能ではないだろう。
+
+アプリに関しては、Googleの各種アプリがプリインストールされないが、ならばアプリストアや各種アプリなど、対Google、あるいは中国のような対GAFAのエコシステムをまるごと作ってしまう可能性も否定できない。
+
+今アフリカでは、中国メーカーの「伝音（Transsion Holdings）」のスマートフォンのシェアが高いが、同社のスマートフォンブランド「TECNO」の中には、アフリカの音楽が聴けるアプリ「Boomplay」や、チャットアプリ「PalmChat」や、アフリカ発のニュースが見られるアプリ「Eagleee News」などアフリカ向けのアプリがプリインストールされている。
+
+▲TECNOのアフリカ向け音楽アプリBoomplay
+
+加えてブラウザーの「鳳凰閲覧器（フェニックスブラウザー）」ほか、英中入力アプリ「触宝輸入法（TouchPal）」、ユーティリティーアプリ「手机大師」といった中国製のアプリがインストールされている。ChromeやGoogleの入力アプリがなくてもTECNOのアフリカ市場向けスマホには代わりのアプリがプリインストールされていた。アプリについても、今回の事件をきっかけに、中国が手がけたローカルアプリのプリインストールが強力に推し進められるというシナリオもありうるかもしれない。
+ ]]></description>
+			<pubDate>Mon, 20 May 2019 18:30:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
