@@ -5,37 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Gmailに届いた買い物レシートが自動的にリスト化されていたことが判明。スタバもiTunesもしっかり記録
-</title>
-			<link>https://japanese.engadget.com/2019/05/19/gmail-itunes/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F123fcca0-7aae-11e9-adcb-047cb02f0255&client=a1acac3e1b3290917d92&signature=c9427fb02245e88be0a9c104bf2287114aad87b0" />
-ASSOCIATED PRESS
-
-GoogleがGmailに届いた買い物の履歴を自動的に収集し、リスト化していたことが明らかとなりました。
-
-これはGmailの受信トレイに届いた買い物のデジタル領収書を、Googleの自動スキャンが捕捉して1つのリストにしていたというもの。サンダー・ピチャイCEOは「プライバシーはぜいたく品ではない(誰もが享受できる）」との論説を発表していましたが、個人情報の塊といえる買い物履歴リストに同社が言及したことは一度もありませんでした。
- ]]></description>
-			<pubDate>Sun, 19 May 2019 23:40:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    好きな絵柄のPixelスマホケース「My Case」が提供終了
-</title>
-			<link>https://japanese.engadget.com/2019/05/20/pixel-my-case/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F25aa60f0-7aab-11e9-aef6-775474f43d6f&client=a1acac3e1b3290917d92&signature=c4da6a3b0c650fbe6dc3427c832a5bee3dbcc004" />
-
-米グーグルは、Pixelスマートフォン向けの純正ケースデザインサービス「My Case」を終了させました。
-
-My Caseとは自分がアップロードした写真やグーグルが用意したアートワーク、あるいはGoolge Earthの絵柄をプリントしたケースを、グーグルが販売するというものです。初代Pixel以前では、このサービスは「ライブケース（Live Case）」と呼ばれていました。
-
-「Nexus 6」や「Nexus 5X」「Nexus 6P」向けのライブケースではカスタム可能なNFCボタンが用意され、ライブ壁紙アプリとの連携も用意されていました。また「Pixel 2/2 XL」のMy CaseではNFC機能は削除されましたが、内部コードにより引き続きライブ壁紙を利用することができました。
-
-しかし、グーグルが今月にGoogle I/Oにて新型スマートフォン「Pixel 3a/3a XL」を発表するのと同時に、My CaseサービスとライブケースはGoogle ストアから姿を消すことになります。その理由は明かされていませんが、それほど需要がなかったか、あるいは思ったよりもコストがかかっていた、などの背景が推測されます。
-
-これにより、Pixel 3やPixel 3aで利用できる純正ケースは、ファブリック素材のものだけになりました。My Caseやライブケースはなかなか興味深いプログラムだったのですが、今後同プログラムが別名でまた復活するかどうかは今のところ不明です。
- ]]></description>
-			<pubDate>Mon, 20 May 2019 00:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    ワンボードマイコンのArduinoボード、新Nanoファミリー4モデルを発表。9.9ドルから
 </title>
 			<link>https://japanese.engadget.com/2019/05/20/arduino-nano-4-9-9/</link>
@@ -616,6 +585,42 @@ Getty
 ゲーム専用機ではライバル関係にあるソニーとマイクロソフトがクラウドゲーミング等で提携する意向確認書を締結して業界を驚かせましたが、最も驚いたのは当事者であるはずのPlayStationチームだったとの噂が報じられています。
  ]]></description>
 			<pubDate>Tue, 21 May 2019 00:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    産業向け新型Google Glass、「Enterprise Edition 2」発表。OSはAndroidに
+</title>
+			<link>https://japanese.engadget.com/2019/05/21/google-glass-enterprise-edition-2-os-android/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Fd2b92cf0-7b72-11e9-affa-0dca8d9c76e0&client=a1acac3e1b3290917d92&signature=ae1869d127cbacc7ebc828faaafe33472a568dc6" />
+Googleは5月20日（現地時間）、産業向けGoogle Glassの新モデル「Google Glass Enterprise Edition 2」を発表しました。単眼レンズの本体ユニットそのものの印象は前モデルから変わってはいませんが、プロセッサの強化やOSがAndroidになるなど、その中身は大きくアップデートされています。
+
+まずプロセッサですが、Qualcommが2018年に発表したAR/VRヘッドセット向けのチップセットSnapdragon XR1を採用。全体はもちろん、AI機能のパフォーマンスが向上したほか、大幅な節電が可能になりました。USB Type-Cによる急速充電にも対応します。また、カメラのパフォーマンスと品質も向上しているとのことです。
+
+ディスプレイは640x360。マルチタッチジェスチャーに対応したタッチパッドや、3本のビームフォーミングマイク、モノラルスピーカーを備えます。
+
+メガネ部分のフレームは、スキーやMTBなどのゴーグルを手掛けるSmith Opticsと提携。上図のSafety frameのほか、かつての一般向けGoogle Glassを思わせるシルバーフレームのタイプもラインナップされています。
+
+
+
+ソフトウェアで最も大きな変更は、OSがAndroid 8 Oreoになったこと。顧客はすでに利用しているサービスやAPIを簡単に統合できるとしています。また、企業がAndroid端末の管理に利用するAndroid Enterprise Mobile Device Managementもサポートしています。
+
+これまで、Google Glassの開発はAlpabet傘下のX部門が行っていましたが、企業活動を読よりスケールするために、開発チームがGoogleのAR/VRチームに移ったとのことです。産業向けのGoogle Glassが順調に普及すれば、今後、コンシューマー向けの復活も期待できるかもしれません。
+
+ 
+
+ ]]></description>
+			<pubDate>Tue, 21 May 2019 00:45:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    HUAWEI P30はデュアルSIM＆良カメラで旅行者向き。気になるのはお値段：旅人目線のデジタルレポ 中山智
+</title>
+			<link>https://japanese.engadget.com/2019/05/21/huawei-p30-sim/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-05/f97a39b0-7b5e-11e9-bfb9-b61c09cbbeee" />旅人ITライター中山です。ファーウェイからPシリーズの最新モデルが日本でも発表となりました。今回も上位モデルとなる「HUAWEI P30 Pro」（以下、P30 Pro）はキャリアモデル（ドコモ）のみで、「HUAWEI P30」（以下、P30）がSIMフリーモデルとして販売されます。ですが旅人用として考えたとき、個人的にはP30に軍配が上がるかなと思います。
+
+ 
+関連記事：
+ドコモ、HUAWEI P30 Pro今夏発売　一括9万円と海外より割安
+ ]]></description>
+			<pubDate>Tue, 21 May 2019 01:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
