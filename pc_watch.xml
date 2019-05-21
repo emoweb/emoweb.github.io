@@ -5,36 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>日本エイサー、5万円でSSD/フルHD液晶搭載の15.6型ノート </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1185648.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1185/648/01_o.jpg"></div></div><span class="caption">A315-53-N24U/K</span></div></div></div></div><p>　<a href="https://acerjapan.com/" class="n" target="_blank">日本エイサー株式会社</a>は、「Aspire 3」シリーズより15.6型の新モデル「A315-53-N24U/K」を23日より発売する。価格はオープンプライスで、税別店頭予想価格は50,000円前後の見込み。</p><p>　15.6型フルHD(1,920×1,080ドット)非光沢液晶を搭載したノートPC。表示映像の種類に合わせて画面の明るさや彩度を自動調節する「Acer Color Intelligence」や、ブルーライトを軽減する「Acer BluelightShield」機能を備える。</p><p>　おもな仕様は、CPUがPentium Gold 4417U(2コア/2.3GHz、ビデオ機能内蔵)、メモリが4GB、ストレージが256GB SSD、OSにWindows 10 Homeなどを搭載。</p><p>　インターフェイスは、USB 3.0、USB 2.0×2、HDMI、Gigabit Ethernet、IEEE 802.11ac対応無線LAN、Bluetooth 4.0、30万画素Webカメラ、SDカードリーダ、音声入出力などを備える。</p><p>　本体サイズは約381.6×262.8×20.95mm(幅×奥行き×高さ)、重量は約2.1kg。バッテリ駆動時間は約7.5時間。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1185/648/02_o.jpg"></div></div><span class="caption">背面</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Tue, 21 May 2019 13:15:21 +0900</pubDate>
-		</item>
-		<item>
-			<title>FRONTIER、GeForce GTX 1650搭載の10万円切りゲーミングPCなど </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1185654.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1185/654/01_o.jpg"></div></div><span class="caption">GBシリーズ</span></div></div></div></div><p>　インバースネット株式会社は<a href="https://www.frontier-direct.jp/" class="n" target="_blank">FRONTIER</a>ブランドから、GeForce GTX 1650を搭載したゲーミングPCを2機種発売した。</p><p>　フルタワーモデルの「GBシリーズ」は税別直販価格179,800円で、おもな仕様はCore i7-9800X(8コア/16スレッド、3.8～4.4GHz)、メモリ8GB、HDD 1TB、DVDマルチドライブ、850W 80PLUS Gold電源などを搭載。さらに水冷CPUクーラーが実装されている。</p><p>　もう一方のマイクロタワーモデル「MXシリーズ」は同84,800円となり、Core i5-9400F(6コア/6スレッド、2.9～4.1GHz)、メモリ8GB、HDD 1TB、600W 80PLUS Bronze電源を搭載。</p><p>　OSは標準ではWindows 10 Homeとなっているが、両モデルともBTOをサポートし、パーツを含めて構成の変更に対応している。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1185/654/02_o.jpg"></div></div><span class="caption">MXシリーズ</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Tue, 21 May 2019 13:27:45 +0900</pubDate>
-		</item>
-		<item>
-			<title>DMP、演算機最適化で高速化/小型化した推論用AIコア </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1185658.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1185/658/01.png"></div></div></div></div></div></div><p>　<a href="https://www.dmprof.com/jp/" class="n" target="_blank">株式会社ディジタルメディアプロフェッショナル</a>は、エッジAIプロセッサIPコア「ZIA DV720」を販売する。</p><p>　DV720は、「ZIA DV700」の後継となるIPコアで、深層学習の推論処理に特化し、画像や動画、音声といったデータに対する推論処理を可能とする低消費電力プロセッサIP。DV700/DV720では、国立研究開発法人 新エネルギー・産業技術総合開発機構(NEDO)の委託業務の成果が一部活用されている。</p><p>　DV720ではDV700の深層学習専用演算器(MAC)を最適化することで、さらなる小型化と高性能化を実現。従来はソフトウェアで処理していたINT-8/FP16コンバータのハードウェア化、IPコア内部のパイプライン効率化により、16nmプロセスのASIC搭載時に1GHz以上の動作周波数を実現する。</p><p>　XilinxのZynq UltraScale+ MPSoCに搭載時は、DV700と比較して60%の小型化と3.2倍以上の高性能化を両立し、コア周波数420MHzで動作させることが可能で、これにより、FPGA使用時においても従来のASICに近い性能を達成でき、高性能なエッジAIアプリケーションの実現に最適とする。</p><p>　SDKなどの開発ツールは従来品と後方互換性が確保されており、CaffeやKeras、TensorFlowなどの汎用AIフレームワークを活用した学習済みネットワークを用意すれば、簡単にDV720で推論処理を行なうことが可能。深層学習専用の演算器(FP16対応)で推論処理を行なうため、高性能/高精度を要求される先進運転支援システム、次世代ロボット、ドローン、セキュリティ監視ソリューション、メディカルなどの各種エッジアプリケーション製品で利用できるとしている。</p><p>　また6月3日には、ZIA FPGAモジュール「ZIA C3」へDV720を実装した新バージョンのリリースおよびアップグレードが予定されている。</p></div></div>]]></description>
-			<pubDate>Tue, 21 May 2019 13:47:48 +0900</pubDate>
-		</item>
-		<item>
-			<title>2千円を切る超小型無線マウス </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1185659.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1185/659/02_o.jpg"></div></div><span class="caption">IC-WM02</span></div></div></div></div><p>　サウザントショアス株式会社は<a href="https://www.iclever.co.jp/" class="n" target="_blank">iClever</a>ブランドより、小型ワイヤレスマウス「IC-WM02」を発売した。Amazon.co.jpでの販売価格は2,699円だが、初回300個限定でクーポン「iclever02」を適用すると30%オフの1,889円で購入できる。</p><p>　2.4GHz無線接続のワイヤレスマウス。本体サイズが55×27.5×42.5mm(幅×奥行き×高さ)と小さく、手の小さい子供でも使いやすい。無線レシーバはマウス本体に収納可能で持ち運びにも便利。</p><p>　USB経由で充電できる内蔵バッテリで動作し、駆動時間は最大45時間。省電力モードも搭載し、30分以上操作がない場合は自動的にスリープモードに切り替わる。</p><p>　搭載ボタンは3つで、センサー解像度は1,200dpi。本体色はホワイトのみで、重量は約25g。</p><div><div><div><div><div><ul class="aff_list"><li class="aff_item"><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07RFFMTK4/impresswatch-6-22/ref=nosim" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31wrdmUaM9L._SL160_.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07RFFMTK4/impresswatch-6-22/ref=nosim" target="_blank">IC-WM02</a></div></div></li></ul></div></div></div></div></div><p><span class="fnt-75">※セール開催・内容・価格等は、予告なく変更となる場合がございます。正確な情報は、販売ページ上でご確認ください。</span></p></div></div>]]></description>
-			<pubDate>Tue, 21 May 2019 13:54:24 +0900</pubDate>
-		</item>
-		<item>
-			<title>iOS向けOneNoteの背景に画像を配置可能に </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1185669.html</link>
-			<description><![CDATA[<div><div><p>　<a href="http://www.microsoft.com/" class="n" target="_blank">米Microsoft</a>のEDU担当のMike Tholfsen氏はTwitterにて、iOS向けのOneNoteがアップデートされ、ノートの背景に画像を貼り付け可能になったことを伝えている。</p><p>　画像を長押したさいに表示されるコンテキストメニューから、背景に画像を置くためのメニューが追加され、配置後にはその上に文字などを書き込むことが可能。iPadを使ってApple Pencilで描き込むこともできる。</p><div><blockquote class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">NEW! You can now "Set Picture to Background" for<a href="https://twitter.com/hashtag/OneNote?src=hash&amp;ref_src=twsrc%5Etfw">#OneNote</a>on iPad and iPhone 🖼 Make it easy to ink or Draw on Pictures ✏<a href="https://twitter.com/hashtag/edtech?src=hash&amp;ref_src=twsrc%5Etfw">#edtech</a><a href="https://twitter.com/hashtag/edtchat?src=hash&amp;ref_src=twsrc%5Etfw">#edtchat</a><a href="https://twitter.com/hashtag/MIEExpert?src=hash&amp;ref_src=twsrc%5Etfw">#MIEExpert</a><br><br>Just push and hold to pop the context menu<a href="https://t.co/4d18EccUJf">pic.twitter.com/4d18EccUJf</a></p>— Mike Tholfsen (@mtholfsen)<a href="https://twitter.com/mtholfsen/status/1130162291603755008?ref_src=twsrc%5Etfw">2019年5月19日</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div></div>]]></description>
-			<pubDate>Tue, 21 May 2019 14:09:51 +0900</pubDate>
-		</item>
-		<item>
 			<title>95Hz/WQHD/HDR対応で3万円以下の27型ゲーミング液晶 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1185677.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1185/677/01_o.jpg"></div></div><span class="caption">PX275h</span></div></div></div></div><p>　<a href="https://www.pixiogaming.jp/" class="n" target="_blank">Pixio Japan株式会社</a>は、27型ゲーミングディスプレイ「PX275h」を発売した。Amazon.co.jpでの価格は28,980円。</p><p>　WQHD(2,560×1,440ドット)解像度で95Hz駆動対応のIPSパネルを搭載したディスプレイ。狭額縁デザインを採用する。AMD FreeSyncに加えHDR10をサポートし、RGBカバー率100%、DCI-P3カバー率95%の広色域を謳う。</p><p>　おもな仕様は、中間色の応答速度が4ms、輝度が350cd/平方m、コントラスト比が1,000:1、視野角が上下/左右ともに178度。</p><p>　インターフェイスは、HDMI 2.0、HDMI 1.4、DisplayPort 1.2。本体サイズは614.5×158.2×455.5(幅×奥行き×高さ)、重量は4.46kg。</p><div><div><div><div><div><ul class="aff_list"><li class="aff_item"><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07QNJDRRL/impresswatch-6-22/ref=nosim" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51-Ix04KdsL._SL160_.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07QNJDRRL/impresswatch-6-22/ref=nosim" target="_blank">PX275h</a></div></div></li></ul></div></div></div></div></div></div></div>]]></description>
@@ -123,6 +93,36 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1185795.html</link>
 			<description><![CDATA[<div><div><p>　リコーは、RPCS V4 Generic ドライバー Ver.3.6.0.0 (Windows)ほかを公開した。</p></div></div>]]></description>
 			<pubDate>Tue, 21 May 2019 20:16:28 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】Google翻訳を利用する方法 </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1185786.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1185/786/4.jpg"></div></div></div></div></div></div><blockquote><p>　Google翻訳は各国の言語に対応した無料の翻訳サービスです。Web上で利用できるサービスですが、AndroidやiPhone向けのアプリも用意されています。</p><p class="src">できるネットの<a href="https://dekiru.net/article/17520/">Google翻訳を利用する方法</a></p></blockquote></div></div>]]></description>
+			<pubDate>Wed, 22 May 2019 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】Googleアシスタントを使って周りで流れている音楽を調べる方法 </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1185785.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1185/785/3.jpg"></div></div></div></div></div></div><blockquote><p>　Googleアシスタントに音楽を聞かせると、曲名などの楽曲の情報を検索できます。外出先で気になった音楽は、Googleアシスタントで検索してみましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/17527/">Googleアシスタントを使って周りで流れている音楽を調べる方法</a></p></blockquote></div></div>]]></description>
+			<pubDate>Wed, 22 May 2019 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】Googleアシスタントを使い音声でアプリを操作する方法 </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1185783.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1185/783/2.jpg"></div></div></div></div></div></div><blockquote><p>　Googleアシスタントは調べたいことやアプリの操作を、話しかけるだけで実行できます。また、「歌って」や「今何している？」などの変わった話しかけにも対応するので、試してみましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/17526/">Googleアシスタントを使い音声でアプリを操作する方法</a></p></blockquote></div></div>]]></description>
+			<pubDate>Wed, 22 May 2019 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】【Googleマップ】スターが多すぎて地図が見にくい！ 保存済みの場所のアイコンを非表示にする方法 </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1185782.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1185/782/1.png"></div></div></div></div></div></div><blockquote><p>　Googleマップを使い続けていると、スターを付けて保存した場所が増えていき、地図がアイコンだらけになってしまうことがあります。［スター付きの場所］などを一時的に隠して、道路や路線などを見やすくしましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/18459/">【Googleマップ】スターが多すぎて地図が見にくい！ 保存済みの場所のアイコンを非表示にする方法</a></p></blockquote></div></div>]]></description>
+			<pubDate>Wed, 22 May 2019 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ゲーム攻略企画「喪服は準備したか!?」第2回目放送ダイジェスト ～今回は3人揃って「Apex Legends」をプレイ</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1185514.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1185/514/01_o.png"></div></div></div></div></div></div><p><span class="fnt-75">※毎週木曜日の20時より、さまざまなPCゲームに挑戦する「喪服は準備したか!?」を配信中です。モデルでヘビーゲーマーな「963(くろみ)」さんこと黒田瑞貴さん、FPSゲーマーの鈴木悠太氏(Alliance of Valiant Arms 2012年日本代表)、ゲームキャスターの大和氏の3人がワイワイ楽しくゲームをプレイし、ゲームの最新情報や攻略テクニックなどをお届けしていきます。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードしたアーカイブの動画を掲載しています。</span></p><p>　第2回目となった5月16日の配信では、前回と同じくApex Legendsに挑戦。今回は普段は実況側に回っている大和さんもプレイに参加し、963、鈴木、大和の最強の布陣でチャンピオンを目指してもらっています。ちなみに既定のキル数を稼げなかった方にはエモートダンスを披露する罰ゲームが与えられました。</p><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/TbadFz1RTzU?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div><span class="caption">喪服は準備したか!? 第2回 - インプレスeスポーツ部</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Wed, 22 May 2019 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
