@@ -5,7 +5,7 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2019-05-22 08:09:48 +0900</title>
+			<title>2019-05-22 09:09:48 +0900</title>
 			<link> </link>
 			<description><![CDATA[<strong>engadget</strong><br/><p>#&lt;Errno::ECONNREFUSED: Failed to open TCP connection to :80 (Connection refused - connect(2) for nil port 80)&gt;
 in
@@ -32,7 +32,7 @@ in
 /data/src/rss_crawler/src/pipes/simple_pipes.rb:11:in `block (2 levels) in &lt;top (required)&gt;&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
-			<pubDate>Wed, 22 May 2019 08:09:48 +0900</pubDate>
+			<pubDate>Wed, 22 May 2019 09:09:48 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
