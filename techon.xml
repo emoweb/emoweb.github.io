@@ -5,12 +5,6 @@
 		<link>http://techon.nikkeibp.co.jp</link>
 		<description>日経BP社が運営する、製造業／ハイテク産業に携わる技術者・研究者の方々に向けた総合情報サイト。技術速報はもちろん、解説／コラムなどで多彩なコンテンツを提供中です。</description>
 		<item>
-			<title>英電力網、「石炭火力ゼロ」で1週間以上運用、記録更新</title>
-			<link>http://techon.nikkeibp.co.jp/atcl/news/16/051412191/?n_cid=nbptec_tecrs</link>
-			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p></p><p>　英国の系統運用機関であるナショナルグリッドは5月8日、同国の電源構成において石炭火力発電の比率がゼロとなる連続期間がこれまでで最長の1週間（168時間）を超えたと発表した（<b>図1</b>）。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/051412191/?SS=imgview&amp;FD=1831630297" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/051412191/UK-coal-free-fr-1wk.jpg?__scale=w:500,h:300&amp;_sh=09e09e02a0" width="500" height="300" alt=""></a></div><div>図1●英で約8日間続いた石炭火力ゼロの系統運用における電源構成の推移</div><div>（出所：National Grid）</div><div>[画像のクリックで拡大表示]</div></div></div><p></p><p>　英国では約2年前の2017年4月に「石炭火力ゼロ」の日を初めて記録（<a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/042507316/?ST=msb" target="_blank">関連記事1</a>）、これまでの最長期間は、2019年のイースター（復活祭）の週末（4月21日）に記録した90時間45分だった。</p><p></p><p>　同社は翌5月9日、石炭火力ゼロの連続期間が8日1時間（193時間）25分まで継続し、1882年に世界初の石炭火力発電所がロンドンで稼働して以来、最長となったと発表した。</p><p></p><p>　同社によると、他の発電所で故障が発生したため、電力の安定供給を継続するために石炭火力発電を再開したことでさらなる記録の更新はならなかったという。</p><p></p><p>　石炭火力がゼロとなっている期間の電源構成は、天然ガス火力45％、原子力21％、風力12％などとなっており、太陽光は5％だった（<b>図2</b>）（<a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/080503447/?ST=msb" target="_blank">関連記事2</a>）。</p><p></p><div><div class="bpimage_center" style="width:345px;"><div><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/051412191/UK-coal-free-brkdwn.jpg?__scale=w:345,h:258&amp;_sh=04f07b0ec0" width="345" height="258" alt=""></div><div>図2●英で約8日間続いた石炭火力ゼロの系統運用時の電源構成。その他には水力や蓄電池が含まれる</div><div>（出所：National Grid）</div></div></div><p></p><p>　同社の送電部門で責任者を務めるFintan Slye氏は、「今後、電力系統に連系される再生可能エネルギー由来の電源がますます増加するにつれて、今回のような石炭火力ゼロの電力網運用が日常的なものとなるだろう。2025年までに英国の電力系統を温室効果ガス排出量がゼロの電源100％で運用することが可能になると考えている」と述べている。</p><p></p><p>　英国政府は、温室効果ガス排出量を抑制するため2025年までに石炭火力を全廃することを公約しており、取り組みを進めている。</p></div>]]></description>
-			<pubDate>Tue, 14 May 2019 12:16:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>海外でも死屍累々、VPPビジネスを収益化するポイントは？</title>
 			<link>http://techon.nikkeibp.co.jp/atcl/feature/15/031400077/041800027/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[]]></description>
@@ -243,6 +237,12 @@
 			<link>http://techon.nikkeibp.co.jp/atcl/news/16/052312222/?n_cid=nbptec_tecrs</link>
 			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　四国電力と同社のグループ企業である四国総合研究所（高松市）は5月22日、家庭に設置された電気給湯器の湯沸かし運転に太陽光発電電力を用いる遠隔制御を実証すると発表した。実証期間は今秋から約1年間の予定。</p><p>　実証実験では、気象予報に基づき翌日の四国域内の太陽光発電量を予測し、通常は夜間に行う電気温水器やヒートポンプ給湯機「エコキュート」の沸き上げ運転の一部を翌日の昼間にシフトさせることで、太陽光発電電力の有効活用と電力の需給バランスの運用を改善する。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/052312222/?SS=imgview&amp;FD=-270339144" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/052312222/0523yonden_01.jpg?__scale=w:500,h:206&amp;_sh=0a80850850" width="500" height="206" alt=""></a></div><div>電気給湯器の運転シフトのイメージ</div><div>（出所：四国電力）</div><div>[画像のクリックで拡大表示]</div></div></div><p>　四国総研から3G/LTE回線で送信された制御信号が、中継局を経由して放送型無線通信によって各家庭の給湯器に設置した受信装置に一括配信される仕組み。四国総研が開発したデマンドレスポンス（DR=需要応答）技術の確認とその効果、顧客の利便性へ影響を評価する。</p><p>　今後モニター顧客を募集し、高松市内および中西讃地区で試験対象機種となる電気給湯器を設置する40軒を対象にデータ収取・分析・評価を行う。実証実験で得られる知見やモニター顧客からの声を生かしながら、同技術の実用化の可能性を検討する。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/dm/atcl/news/16/052312222/?SS=imgview&amp;FD=-269415623" target="_blank"><img src="https://tech.nikkeibp.co.jp/dm/atcl/news/16/052312222/0523yonden_02.jpg?__scale=w:500,h:236&amp;_sh=0d405a0460" width="500" height="236" alt=""></a></div><div>実証実験の概念図</div><div>（出所：四国電力）</div><div>[画像のクリックで拡大表示]</div></div></div></div>]]></description>
 			<pubDate>Thu, 23 May 2019 17:23:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>アシックスが目指すフィットネスアプリの未来形</title>
+			<link>http://techon.nikkeibp.co.jp/atcl/column/15/110300017/052300118/?n_cid=nbptec_tecrs</link>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 24 May 2019 05:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
