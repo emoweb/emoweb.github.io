@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】東芝、dynabook P1-V、V72/Fなど向けBIOSのアップデートほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1186319.html</link>
-			<description><![CDATA[<div><div><p>　東芝は、dynabook P1-V、V72/Fなど向けBIOSのアップデートほかを公開した。</p></div></div>]]></description>
-			<pubDate>Fri, 24 May 2019 12:49:59 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】バッファロー、BCU2LC01IV Updater Ver.5.0.859.27ほか</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1186320.html</link>
 			<description><![CDATA[<div><div><p>　バッファローは、BCU2LC01IV Updater Ver.5.0.859.27ほかを公開した。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1186521.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1186/521/01_o.png"></div></div></div></div></div></div><p>　たった1枚の顔写真から高精度なフェイスアニメーションを作成する技術が、YouTubeで紹介されている。モスクワの Samsung AI Centerに勤めているというEgor Zakharov氏がアップロードしたこの動画では、写真/絵画の人物があたかも誰かに話しかけているように表情だけでなく頭まで動かしており、教科書などで見るドストエフスキーやモナリザの誰もが見たことのある1枚から、そのシーンが作られていることがわかる。</p><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/p1b5aiTrGzY?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div><span class="caption">Few-Shot Adversarial Learning of Realistic Neural Talking Head Models</span></div></div></div></div><p>　この技術は、畳み込みニューラルネットワーク(Convolutional Neural Network)で実現されているが、そのデータとして、VoxCelebというYouTubeにアップロードされた7,000人以上もの著名人らの動画から抽出した画像データベースが使われており、これらをもとに人物の眉、眼、鼻、口、輪郭を“ランドマーク(目印)”として学習することで、話者の顔モデルを作り上げている。</p><p>　動画では、話者のモデルとなる写真を32枚用意したパターンも作られており、枚数が増すほど精度が高まっていくことが見て取れるが、1枚だけの場合でもかなり高精度な話者のモデルが作れていることがわかる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1186/521/02_o.png"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1186/521/03_o.png"></div></div></div></div></div></div></div></div>]]></description>
 			<pubDate>Fri, 24 May 2019 18:55:53 +0900</pubDate>
+		</item>
+		<item>
+			<title>異なるWindowsアプリをタブ化できるアプリ「Groupy」 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1186534.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1186/534/01_o.png"></div></div></div></div></div></div><p>　<a href="https://www.stardock.com/" class="n" target="_blank">Stardock</a>は、WindowsアプリケーションをタブUIで扱えるソフトウェア「Groupy」の<a href="https://store.steampowered.com/app/912170/Groupy/" class="n" target="_blank">Steamでの販売</a>を開始した。価格は520円。</p><p>　Groupyは、Windows 10のRS5で「Sets」として開発が進められていた機能と同種の動作を実現するシェアウェア。なお残念ながら、Windwos 10公式のSets機能は<a href="https://twitter.com/richturn_ms/status/1119646566782910464" class="n" target="_blank">開発が停止している</a>ことがMicorosoft社員によって明かされている。</p><p>　Groupyでは、ドラッグ&amp;ドロップでWindowsアプリケーションを1つのウィンドウ上にまとめることが可能で、アプリはタブで切り替えることができ、タブ間のファイル移動もサポートする。1ウィンドウにまとめたタブはグループとして保存することも可能で、よく使うアプリ群を保存しておけば、1度に呼び出して使うことができる。</p><p>　デモ映像では、エクスプローラーのほか、ChromeブラウザやOfficeアプリ、Photoshopなどがタブ化されている。</p><p>　対応OSはWindows 7/8.1/10。</p><div><div><div><div><div><div><iframe src="https://www.youtube.com/embed/17_ErhXYXmY?fs=1&amp;autoplay=0" allowfullscreen="true" width="480" height="270" frameborder="0"></iframe></div></div><span class="caption">Groupy: Browser- Like Tabs for Windows Apps</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Fri, 24 May 2019 19:37:10 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
