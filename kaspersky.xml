@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>GPSハッキングから身を守れるか</title>
-			<link>https://blog.kaspersky.co.jp/gps-spoofing-protection/23159/</link>
-			<description><![CDATA[カーナビがとんでもない場所を現在地と示したことはありませんか？それは偽造されたGPS信号を受信したのが原因です。]]></description>
-			<pubDate>Tue, 14 May 2019 01:00:04 +0000</pubDate>
-		</item>
-		<item>
 			<title>WhatsAppの新たな脆弱性：ワン切りで始まるスパイ行為</title>
 			<link>https://blog.kaspersky.co.jp/whatsapp-call-zeroday/23206/</link>
 			<description><![CDATA[新たに発見されたWhatsAppの脆弱性は、通話の盗聴やチャットの読み取りを許すほか、電話するだけでスパイウェアをインストールすることも可能とします。WhatsAppのアップデートを。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/digital-clutter-cleanup/23149/</link>
 			<description><![CDATA[データをきちんと整理しないと、職を失うことになるかも…。その理由は。]]></description>
 			<pubDate>Mon, 27 May 2019 01:00:34 +0000</pubDate>
+		</item>
+		<item>
+			<title>フェイクニュース拡散ボットの存在を暴く</title>
+			<link>https://blog.kaspersky.co.jp/fake-news-bots/23225/</link>
+			<description><![CDATA[ふるまいからフェイクニュースボットを見破る方法、そして、その過程で得られる知見とは。]]></description>
+			<pubDate>Tue, 28 May 2019 01:00:57 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
