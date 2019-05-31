@@ -5,30 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>【ニュース・フラッシュ】アイ・オー、WN-SX300FR ファームウェア Ver.1.02ほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1187592.html</link>
-			<description><![CDATA[<div><div><p>　アイ・オー・データ機器は、WN-SX300FR ファームウェア Ver.1.02ほかを公開した。</p></div></div>]]></description>
-			<pubDate>Thu, 30 May 2019 22:59:50 +0900</pubDate>
-		</item>
-		<item>
-			<title>【ニュース・フラッシュ】キヤノン、スピードライト EL-100 ファームウエア Version 1.0.1</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1187591.html</link>
-			<description><![CDATA[<div><div><p>　キヤノンは、スピードライト EL-100 ファームウエア Version 1.0.1を公開した。</p></div></div>]]></description>
-			<pubDate>Thu, 30 May 2019 23:00:12 +0900</pubDate>
-		</item>
-		<item>
-			<title>【ニュース・フラッシュ】Lenovo、ThinkPad P52s, T580, X1 Yoga Intel ギガビット イーサネット ドライバーほか</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1187588.html</link>
-			<description><![CDATA[<div><div><p>　Lenovoは、ThinkPad P52s, T580, X1 Yoga Intel ギガビット イーサネット ドライバーほかを公開した。</p></div></div>]]></description>
-			<pubDate>Thu, 30 May 2019 23:01:47 +0900</pubDate>
-		</item>
-		<item>
-			<title>【ニュース・フラッシュ】筆まめ、親戚まっぷシリーズ つくれる家系図 3.02 アップデートプログラム</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1187590.html</link>
-			<description><![CDATA[<div><div><p>　筆まめは、親戚まっぷシリーズ つくれる家系図 3.02 アップデートプログラムを公開した。</p></div></div>]]></description>
-			<pubDate>Thu, 30 May 2019 23:02:19 +0900</pubDate>
-		</item>
-		<item>
 			<title>【ニュース・フラッシュ】リコー、RICOH SP 3610SF用 本体ファームウェアアップデート Ver.1.20ほか</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/news_flash/1187589.html</link>
 			<description><![CDATA[<div><div><p>　リコーは、RICOH SP 3610SF用 本体ファームウェアアップデート Ver.1.20ほかを公開した。</p></div></div>]]></description>
@@ -123,6 +99,30 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1187676.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1187/676/01.png"></div></div><span class="caption">PCI-SIG DevCon 2018でのロードマップ</span></div></div></div></div><p>　<a href="https://pcisig.com/" class="n" target="_blank">PCI-SIG</a>は、次世代バスインターフェイス規格「PCI Express 5.0 (以下PCIe 5.0)」の仕様策定の完了を発表した。</p><p>　1レーンあたりの物理帯域は、片方向32GT/s(Giga-Transfer毎秒)となり、前世代のPCIe 4.0(16GT/s)の2倍に引き上げられている。これにより、PCIe 4.0 x16の片方向転送速度は32GB/sだったが、PCIe 5.0 x16では片方向転送速度64GB/sを実現する。</p><p>　なおPCIe 4.0は、対応製品としてAMDが第3世代RyzenプロセッサとAMD X570チップセットを7月に投入する(<a href="https://pc.watch.impress.co.jp/docs/news/event/1163917.html">AMD、PCIe 4.0に対応した第3世代Ryzenプロセッサを今夏投入</a>)。</p><p>　PCIe 5.0では、PCIe 4.0の仕様を活用しつつ、拡張されたタグとクレジットを介した高速接続を実現するほか、信号の完全性とコネクタの機械的性能を向上させるための電気的な変更、アドインカードを対象とした後方互換性のある新CEMコネクタの付属などが規格されており、PCIe 4.0、3.x、2.x、1.xとの下位互換性も維持される。</p><p>　PCI-SIGでは、PCIe 5.0は人工知能、機械学習、ゲー​​ム、ビジュアルコンピューティング、ストレージ、ネットワーキングなどの高性能アプリケーションでの性能を向上させるとしている。</p></div></div>]]></description>
 			<pubDate>Fri, 31 May 2019 13:49:37 +0900</pubDate>
+		</item>
+		<item>
+			<title>プラネックス、USB 3.0接続の2.5Gbps対応Ethernetアダプタ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1187674.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1187/674/01_o.jpg"></div></div><span class="caption">USB-LAN2500R</span></div></div></div></div><p>　<a href="https://www.planex.co.jp/" class="n" target="_blank">プラネックスコミュニケーションズ株式会社</a>は、USB 3.0接続のEthernetアダプタ「USB-LAN2500R」を6月7日より発売する。価格はオープンプライス。</p><p>　USB-LAN2500Rは、USB 3.0 Type-Aで接続するEthernetアダプタ。バスパワーで駆動し、最大2.5Gbpsの高速通信が可能。対応OSはWindows/macOS/Linuxで、Windowsについてドライバのインストールが必要。</p><p>　本体サイズは約74×24×16mm(幅×奥行き×高さ)、重量は約31g。ケーブル長は約10cm。</p></div></div>]]></description>
+			<pubDate>Fri, 31 May 2019 14:23:35 +0900</pubDate>
+		</item>
+		<item>
+			<title>Microsoft、定額ゲーム遊び放題サービス「Xbox Game Pass for PC」 ～Microsoft StoreでWin32アプリも配信可能に</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1187685.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1187/685/01.jpg"></div></div></div></div></div></div><p>　米<a href="http://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は30日(米国時間)、サブスクリプションサービス「Xbox Game Pass for PC」を発表した。</p><p>　2017年より提供されているXbox One向けの定額制ゲームサービス「Xbox Game Pass」(日本未提供)のPC向けサービスにあたるもので、Bethesda、Deep Silver、Devolver Digital、Paradox Interactive、セガなど、75社以上のデベロッパーおよびパブリッシャーと協力し、100以上のタイトルが月ごとに一定額を支払うだけでプレイできる。</p><p>　金額は発表されていないが、Xbox One向けのXbox Game Passは月額9.99ドルとなっている。ObsidianやinXileなど、Microsoftに買収されたXbox Game Studiosのタイトルでは、発売と同日にGame Pass対象タイトルに追加される予定。</p><p>　そのほかGame Passには、Microsoft Storeでのゲームタイトル購入時に最大20%、DLCおよびアドオンの購入で最大10%の割引が受けられるという優待サービスも付属する。</p><p>　サービスの詳細については、6月12日より開幕する「E3 2019」にて発表される予定。</p><p>　同時に、Microsoft Storeで販売できるアプリケーションについて、これまではUWPアプリのみ配信されていたが、Win32ネイティブのゲームについても販売が可能になったことも発表されている。</p></div></div>]]></description>
+			<pubDate>Fri, 31 May 2019 14:25:16 +0900</pubDate>
+		</item>
+		<item>
+			<title>サンワサプライ、折り曲げると電源が入る無線マウス </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1187688.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1187/688/01_o.jpg"></div></div><span class="caption">400-MA120W</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/" class="n" target="_blank">サンワサプライ株式会社</a>は、本体を曲げると電源の入るワイヤレスマウスを直販限定で発売した。Bluetooth接続の「400-MA120W」と2.4GHz無線接続の「400-MA121W」の2モデルが用意され、価格はそれぞれ2,280円と2,000円。</p><p>　400-MA120Wは、Bluetooth 3.0で接続するモデル。最大で3台の機器とマルチペアリングが可能で、本体裏の接続切替スイッチで簡単に切り替えられる。400-MA121Wは、2.4GHz無線で接続するモデル。半径10mの範囲で通信が可能で、レシーバは本体裏に収納できる。</p><p>　両モデルともに、本体中央部を折り曲げることで電源が入る設計になっており、接地面が少なく滑りのよい操作感が特徴。ホイール下のボタンでセンサー解像度を切り替えられる。センサー方式はIR LED採用の光学式で、分解能は800/1,200/1,600CPI。</p><p>　内蔵バッテリで駆動し、本体側面のポートにUSBケーブルを接続して充電する。連続動作時間は400-MA120Wが約40時間、400-MA121Wが約85時間。</p><p>　本体サイズ/重量は共通で、約58.1×119.2×17.4mm(幅×奥行き×高さ)/約50g。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1187/688/02_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Fri, 31 May 2019 14:41:52 +0900</pubDate>
+		</item>
+		<item>
+			<title>【イベントレポート】JMicron、micrSD Expressリーダなど「USB 3.2」関連製品</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/event/1187693.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1187/693/01.jpg"></div></div><span class="caption">JMicronが展示した、SD7.0、PCIe Gen3 x2、SATA 6Gbps to USB 3.2 Gen2ブリッジチップ「JMS581」を利用したmicroSD Expressカードリーダーのプロトタイプ</span></div></div></div></div><p>　台湾<a href="http://www.jmicron.com/" class="n" target="_blank">JMicron Technology</a>は、COMPUTEX 2019開催に合わせて台北市内のホテルにプライベートブースを構え、USB 3.2 Gen2対応ソリューションの展示を行なった。</p><p>　まず、プロトタイプとして展示していたのが「JMS581」で、こちらは、SD7.0、PCIe Gen3 x2、SATA 6Gbpsに対応するUSB 3.2 Gen2ブリッジチップとなる。</p><p>　同チップでは、SD 7.0で追加された、インターフェイスにPCIe Gen 3を採用する高速SDカード規格「SD Express」カードを、USB 3.2 Gen 2経由で読み書き可能となる。</p><p>　ブースでは、microSD Express対応カードリーダーのプロトタイプを用意し、実際にSanDisk製の128GB microSD Expressを利用した性能テストを行なっていたが、リード820.4MB/s、ライト474.4MB/sと、非常に高速な転送速度が確認できた。</p><p>　合わせて、同じSanDiskの128GB microSD ExpressカードをマザーボードのPCI Expressスロットに直接接続した性能テストも行なわれており、そちらではリード818.9MB/s、ライト494.3MB/sを記録。</p><p>　このことから、JM581を介してUSB 3.2 Gen2経由でアクセスした場合でも、microSD Expressのパフォーマンスが最大限引き出せるとアピールしていた。</p><p>　また、JM581を利用することで、SD 7.0、PCIe Gen3 x2、SATA 6Gbpsの間でのオフラインファイルコピーも実現可能だという。PCを介することなく、SD ExpressからSSDやHDDにファイルをコピーできるため、容易にデータのバックアップが可能になると説明していた。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1187/693/02.jpg"></div></div><span class="caption">SanDiskのmicroSD Expressカードを利用してデモを行っていた</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1187/693/03.jpg"></div></div><span class="caption">アクセス速度はリード820.4MB/s、ライト474MB/sを記録していた</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1187/693/04.jpg"></div></div><span class="caption">これが実際の稼働モデル。microSD Expressスロットにはヒートシンクが装着されており、発熱の大きさがうかがえる</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1187/693/05.jpg"></div></div><span class="caption">ブースでは、microSD ExpressをPCのPCIeポートに直接接続した状態での性能テストも実施</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1187/693/06.jpg"></div></div><span class="caption">microSD ExpressをPCIeに直接接続した場合の速度、JMS581を介してUSB 3.2 Gen2で接続した場合とほぼ同等の速度だった</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1187/693/07.jpg"></div></div><span class="caption">JMS581では、SD 7.0、PCIe Gen3 x2、SATA 6Gbpsの間でのオフラインファイルコピーも実現可能</span></div></div></div></div><p>　同じくプロトタイプとして展示した「JMS586」は、PCIe Gen3 x4/NVMe SSDに対応するUSB 3.2 Gen2x2ブリッジチップだ。USB接続のポータブルSSDや超高速USBメモリなどでの利用をターゲットとしている。</p><p>　USB 3.2 Gen2x2では、USB 3.1までは片側しか使われていなかった、USB Type-Cコネクタの表裏に用意されている信号線の双方を利用することでデータポートを2ポート束ね、20Gbpsの高速アクセスを可能としている。</p><p>　そしてJMS586では、PCIe Gen3 x2とUSB 3.2 Gen2x2をブリッジすることで、USB経由でPCIe Gen3/NVMe SSDの高速アクセスが可能となっている。ブースのデモでは、PCIe Gen3 x4/NVMe対応SSDをUSB 3.2 Gen2x2を介してPCに接続しており、リード・ライトともに1,000MB/sを上回るアクセス速度が確認できた。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1187/693/08.jpg"></div></div><span class="caption">PCIe Gen3 x4/NVMe SSDに対応するUSB 3.2 Gen2x2ブリッジチップ「JMS586」の仕様</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1187/693/09.jpg"></div></div><span class="caption">JMS581のプロトタイプを利用したデモ環境。PCIe Gen3 x4/NVMe対応SSDをUSB 3.2 Gen2x2でPCに接続して性能テストが行なわれていた</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1187/693/10.jpg"></div></div><span class="caption">リード、ライトとも1,000MB/s超の速度が発揮されることを確認</span></div></div></div></div><p>　さらに、USB 3.2 Gen2x2またはeSATAとSATA 6Gbps×5 RAIDのブリッジチップ「JMS591」も展示。</p><p>　SATA 6Gbpsを5ポート備え、RAID 0/1/5/10をサポート。PCからはeSATAまたはUSB 3.2 Gen2x2を経由してRAIDボリュームへとアクセスできる。RAIDボリュームへのアクセス速度はリード、ライトともに2,000MB/sに達するとのことで、SATA SSDを利用したRAIDボリュームを構築した場合でも、十分なアクセス速度を確保できるとしている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1187/693/11.jpg"></div></div><span class="caption">USB 3.2 Gen2x2またはeSATAとSATA 6Gbps×5 RAIDのブリッジチップ「JMS591」の仕様。USB 3.2 Gen2x2接続でリード、ライトとも2,000MB/sでRAIDボリュームにアクセスできる</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1187/693/12.jpg"></div></div><span class="caption">JMS591のプロトタイプにSATA SSDを4台接続してデモが行われた</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Fri, 31 May 2019 14:47:18 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
