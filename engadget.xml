@@ -5,35 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ロック画面に今日の天気を表示できるって知ってました？：iPhone Tips 
-</title>
-			<link>https://japanese.engadget.com/2019/06/03/iphone-tips/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=1242%2C2208%2C0%2C0&quality=85&format=jpg&resize=450%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F9d57f470-72f2-11e9-8fef-dd2fc294de61&client=a1acac3e1b3290917d92&signature=c785127fea276beaaa02ce1ac042b0ee6c224b73" />
-デバイスがロックされている間、着信音や通知音を消音にする機能「おやすみモード」。iPhoneにこの機能が備わっていることは知っているけど、使ったことはないという人もいるのではないでしょうか？
-
-実は、「おやすみモード」は通知音をオフにするだけの機能ではないんです。設定をすれば、モード終了時のロック画面にその日の天気と気温を表示することができちゃいます。この機能を使えば、「朝にパッと天気を見て、その日の服装を決める」とか、「出かけようと思っていたけど、天気が悪くなるみたいだからもうちょっと寝ていよう」ということが可能になります。
-
-今回は、「おやすみモード」と標準機能「天気」アプリを使って、おやすみモード終了時のロック画面に天気を表示する方法をご紹介します。
-<p><a href="https://japanese.engadget.com/gallery/-730/" title="ロック画面に天気を表示">【ギャラリー】ロック画面に天気を表示 (7枚)</a></p>
- ]]></description>
-			<pubDate>Mon, 03 Jun 2019 19:07:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    #WWDC19 会場が超湧いた瞬間トップ5
-</title>
-			<link>https://japanese.engadget.com/2019/06/03/wwdc19-5/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=900%2C643%2C0%2C0&quality=85&format=jpg&resize=1120%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Fb708bd60-865b-11e9-bcdc-8a2fb6e8e127&client=a1acac3e1b3290917d92&signature=35a261ec75fa63092b0f76f774037b0344c86150" />
-前日から興奮の続いているWWDC19会場より。先ほど初日の基調講演が終わり、数々の速報・続報がEngadget 日本版に上がっておりますので片っ端からご覧いただいても、気になるトピックだけご覧いただいてもと思います。中にはライブストリーミングを徹夜でご覧になられた方もいらっしゃるかと思いますが（今日1日お仕事はどうされるのでしょう？）、来場者の大半がデベロッパーという現場の盛り上がりは、また格別なものがありました。私の肌感ではありますが、特に湧いた瞬間トップ5を。
-
- 
-関連: WWDC19 開幕直前の盛り上がり
-関連: WWDC18で超盛り上がった瞬間
-
-
- ]]></description>
-			<pubDate>Mon, 03 Jun 2019 20:45:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    iTunesをこんまり──Appleが決断した3つの「進化と分割」（石川温） #WWDC19
 </title>
 			<link>https://japanese.engadget.com/2019/06/03/itunes-apple-3-wwdc19/</link>
@@ -777,6 +748,56 @@ YS Net
 Deep SilverとYS Netは、「シェンムー3」の発売を11月9日に延期することを発表しました。対応機種はPS4およびPCであり、前回発表されていた8月27日予定から約3ヶ月の遅れとなります。
  ]]></description>
 			<pubDate>Tue, 04 Jun 2019 17:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    #WWDC19 で垣間見えたデベロッパへの「追い風」と「向かい風」（井上晃） ＃WWDC19
+</title>
+			<link>https://japanese.engadget.com/2019/06/04/wwdc19-wwdc19/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F1ca249a0-86ae-11e9-9ff3-c0eeb124613f&client=a1acac3e1b3290917d92&signature=4951ee008e09b05df27132d506aa9117ee2598b5" />既報の通り、WWDC19ではApple製各デバイスの時期OSにおけるさまざまな新機能が予告されました。iOS12で「計測」アプリが登場したときのように、従来はサードパーティ製アプリで利用していたいくつかの機能がApple純正アプリでカバーされるようになります。
+
+ユーザー視点ではより便利に使えるようになるという意味で大歓迎です。しかし、既存アプリのデベロッパから見れば、強力な競合が登場する大きな変革期を迎えることを意味します。
+
+一方で、新しくAPIなどが提供されることにより、サードパーティ製アプリで実現できることが増えることにつながり、デベロッパとしては今までよりも効率的に高度な開発が行えるようになるわけです。こうした背景が、秋以降に登場するアプリのトレンドに影響するでしょう。
+
+本稿では、そうしたアプリ開発のトレンドに注目しつつ、今回のWWDC19で発表された内容を整理して、概要をおさらいしたいと思います。
+<p><a href="https://japanese.engadget.com/gallery/wwdc19/" title="WWDC19で発表された開発に関する新機能を振り返る">【ギャラリー】WWDC19で発表された開発に関する新機能を振り返る (9枚)</a></p>
+
+ 
+関連記事；
+WWDC19まとめ。新型「Mac Pro」や「iPadOS」、「iOS 13」など新トピックス盛りだくさん
+ ]]></description>
+			<pubDate>Tue, 04 Jun 2019 17:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>Sponsored By Verizon Japan :     来たる5G時代、企業はどう生き残りをかけるか。5Gをリードする米ベライゾンがInteropで基調講演
+</title>
+			<link>https://japanese.engadget.com/pr/interop-verizon/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2F16895180-57a1-11e9-b5e7-d64ba9f37626&client=a1acac3e1b3290917d92&signature=43854dbe195fcd7c016144deffdabce323197862" />
+米ベライゾンが Interop Tokyo 2019の基調講演に登壇します。
+
+Interop TokyoはInterop Tokyoはインターネットテクノロジーの国内最大級のイベント。1994年の日本初開催以来、国内外から500社を超える企業・団体が参加し、技術動向とビジネス活用のトレンドを会場でのデモンストレーションやセッションを行っています。
+
+米ベライゾンは、2018年10月1日に世界初の5G商用サービスとなる「Verizon 5G Home」を開始。既存の4G LTEと比べ20倍の通信速度を実現し、この6か月後には世界初のスマートフォン向け5Gモバイルネットワークサービスを開始しました。実測値ベースで1Gbpsを超えるパフォーマンスを実現したとのこと。
+
+5Gテクノロジーがネットワークの速度、容量、遅延そしてパフォーマンスに対して劇的な改善をもたらすことは言うまでもありません。ここ数年で、5G が推進するデジタルトランスフォーメーション (DX) のユースケースによって、リアルタイム・エンタープライズが台頭することとなるでしょう。
+
+今回、米ベライゾンのHelen Wong が東京で行う基調講演では、来たる5G時代に向け、企業ネットワークをどのように対応させるべきかについてを語ります。加えて、ソフトウェアデファインドネットワーク (SDN) やネットワーク仮想化 (NFV) を活用による、将来性を確保したビジネスへのステップを解説する予定です。
+
+
+＜イベント概要＞
+Interop Tokyo 2019
+
+[基調講演] 5G時代に備え、企業ネットワークに必要とされること
+Virtualizing the network for the 5G experience
+[基調講演KB3-05]
+国際会議場コンベンションホールB
+2019年 6月14日（金）13：15 - 13：55
+スピーカー: Helen Wong, Director, Product &amp; Partner Strategy, Asia Pacific
+
+事前参加登録はInteropの公式サイトで行えます。事前登録すれば参加費は無料となります。
+基調講演に関する詳細はこちら。
+ ]]></description>
+			<pubDate>Tue, 04 Jun 2019 18:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
