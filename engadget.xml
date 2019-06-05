@@ -5,72 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    watchOS 6単体でアプリ活用、独立性高まるスマートウォッチ（松村太郎）  #WWDC19
-</title>
-			<link>https://japanese.engadget.com/2019/06/03/watchos-6-wwdc19/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=4898%2C3265%2C0%2C0&quality=85&format=jpg&resize=1200%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F91d969a0-866e-11e9-9f8f-ee24fdc11909&client=a1acac3e1b3290917d92&signature=898a481ab761ecea9430ef600471d7518061c231" />
-Appleが6月3日に開催した開発者向け会議「WWDC19」。この中で筆者が最も注目していたのは、「Apple Watch」向けの最新OS、「watchOS 6」でした。
-
-Apple Watchは世界で最も売れているスマートウォッチです。IDCによると2018年の1年間で4620万本を販売しており、マーケットシェアは26.8％でトップ、年間の成長率は39.5％を誇ります。1本あたりの単価も他社の150ドル程度の平均価格に比べて1.5倍から10倍の価格レンジとなっており、販売本数だけでなく売上高も他社を引き離してトップになっているとみられます。
-
-そんな成長中のApple Watch向けの新しいOSがどう進化したのか、見ていきましょう。
-
-最大のトピックは、Watch App専用App Store
-
-watchOS 6で最も注目すべきポイントは、新たに「App Store」が追加されることです。これによって、Apple Watchの上でアプリを探して無料もしくはアプリ購入してダウンロードすることができるようになります。
-
-▲iPhoneアプリからWatchアプリが独立した（写真は全て、筆者撮影）
-
-これまでWatchアプリは、iPhoneとセットでダウンロードされており、自動的に、もしくは手動でiPhoneからApple Watchにコピーして用いる方式を採っていました。つまり、iPhoneアプリをダウンロードしなければ、Watchアプリを使うことができなかったのです。
-
-そのWatchアプリがiPhoneから独立し、さらにApp Storeアプリが追加されたことで、Apple Watchだけで文字入力したり、Siriに話しかけてアプリを見つけ、その場でダウンロードしてすぐに使い始めることができるようになります。
-
-iPhoneへの依存度が下がったことから、例えばiPhoneを持ち運ばずにランニングやエクササイズに出かけた場合でも、出先で友人により良いランニングアプリを教えてもらったその場で、すぐにダウンロードして試すことができます。ちなみに外出先でiPhoneなしでの通信には、セルラー契約やWi-Fiが必要になります。
-
-Watchアプリ活性化策はもう一歩
-
-スマートウォッチとしてのApple Watchは顧客に非常に受け入れられてきた一方で、アプリプラットホームとしてのApple Watchはさほど人気があるわけではありませんでした。
-
-登場したてのApple Watchは動作が遅く、TwitterやAmazonなどの主要企業がWatchアプリ提供を中止する事態に見舞われていました。時計としては成功しているが、アプリ環境としては渋い評価だったと言えます。
-
-Apple Watch Series 3とwatchOS 4以降、劇的にパフォーマンスが改善されてきたこともあって、状況が変化してきたとはいえ、引き続きアプリはiPhoneとのセットになっていたため、そこまで活性化されませんでした。
-
-しかしwatchOS 6からは、その環境も変化するかもしれません。AppleはWatchアプリ向けApp Storeを独立させたほか、オーディオストリーミングAPIなどをサードパーティーに開放するなど、ニーズの高い機能を追加しました。
-
-加えて、Xcodeのアプリ画面デザインには新たにSwiftUIが導入され、Apple Watch向けのデザイン環境も整備されました。こうした環境整備が開発者にとって、Watchアプリの充実を支援することになれば、Apple WatchはiPhoneのように、アプリ経済が花開く。そんな道筋が立ったと言えます。
-
-新作文字盤と「音」が要に
-
-Apple Watchは手に入れてから、画面やバンドをカスタマイズする愉しみがあります。watchOS 6では新たに5種類の文字盤が追加されました。中にはモダンな数字のデジタル時計や、ローマ数字をあしらったアナログ時計なども用意されています。
-
-
-▲5種類追加された新しい文字盤。音やアニメーション、新しいコンプリケーションなどが楽しめる
-
-また、watchOS 6は「音」にこだわったアップデートが随所に見られます。
-
-先述のサードパーティー向けのオーディオストリーミングAPIも音に関連していますが、その他にも毎時00分になると鳥のさえずりで知らせてくれたり、タップするとSiriが時刻を読み上げてくれたり。また声による道案内まで実現できるようになりました。
-
-新たに追加されるアプリも音に関連するアプリが2つあります。Podcastアプリは既に入っていましたが、今度はApple Booksのオーディオブック読み上げにも対応します。さらにボイスメモアプリがApple Watchに単体で登場し、手首だけで音声録音が可能になります。
-
-また、筆者は割り勘や桁数が多い四則計算をApple WatchのSiriにさせていたので、電卓アプリの追加もうれしいアップデートと言えます。
-
-健康機能も拡充
-
-Apple Watchはエクササイズに加えて健康管理のツールとしても活用されています。その機能として、新たに女性の月経サイクルの記録アプリが追加されます。この記録はiPhoneのヘルスケアアプリでも見ることができます。
-
-▲月経サイクルの記録を手首だけで行えるようになる
-
-さらに、環境音にも注意を払ってくれます。Apple Watchのマイクで周囲の音の大きさを検出し、うるさすぎると警告を出してくれる仕組みです。よく工事現場に「騒音○○db」（デシベル）の掲示がありますが、Apple Watchが周囲のデシベル数を計測してくれます。
-
-少ない操作、もしくは手元で簡単な操作で記録できること、そして健康に問題がありそうな環境を先回りして知らせてくれることは、より現実的な健康管理の手段として、Apple Watchが作用してくれることを表していると言えます。
-
-こうしたAppleによる純正アプリが全てではありませんが、ただ開発者キットを用意するだけではなく開発者に示唆や刺激を与えている点も、垣間見ることができました。
-
-▲WatchOS 6の主要新機能一覧
- ]]></description>
-			<pubDate>Mon, 03 Jun 2019 22:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    SDカードやWi-Fiなどの標準化団体がHUAWEIのメンバーシップを復帰
 </title>
 			<link>https://japanese.engadget.com/2019/06/03/sd-wi-fi-huawei/</link>
@@ -815,6 +749,20 @@ Virtualizing the network for the 5G experience
 <p><a href="https://japanese.engadget.com/gallery/iphone-xperia-line/" title="iPhoneからXperiaにLINEを移行する方法">【ギャラリー】iPhoneからXperiaにLINEを移行する方法 (7枚)</a></p>
  ]]></description>
 			<pubDate>Tue, 04 Jun 2019 19:07:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Appleがセキュリティで攻めに転じた「Sign In with Apple」のインパクト（松村太郎） #WWDC19
+</title>
+			<link>https://japanese.engadget.com/2019/06/04/apple-sign-in-with-apple-wwdc19/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-06/e9d41200-8686-11e9-be75-db102a9c893c" />
+Appleが6月3日に開催したWWDC19の基調講演の基調講演ではiOS 13、watchOS 6、tvOS 13、そして今回新たな派生OSとして登場したiPad OS 13が登場しました。
+
+iOS 13のダークモード発表やwatchOS 6のApp Store新設などとともに会場の拍手を集めた機能に、プライバシー保護の取り組み「Sign In with Apple」があります。米国のテレビニュースでも採り上げられ、今のところ最も注目を集める新OSの機能になっています。
+
+（1枚目の写真は「Sign In with Apple」を披露するAppleのシニアバイスプレジデント、クレイグ・フェデリギ氏）
+
+ ]]></description>
+			<pubDate>Tue, 04 Jun 2019 21:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
