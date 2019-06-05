@@ -5,36 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    シェンムー3、今年8月から11月に発売延期。「真のシェンムー体験を提供するため」
-</title>
-			<link>https://japanese.engadget.com/2019/06/04/3-8-11/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F94c4bd60-86a8-11e9-bfff-97bf4deadafd&client=a1acac3e1b3290917d92&signature=2573c6a7ade39a6c7e36694af3b3a44203620a27" />
-YS Net
-
-Deep SilverとYS Netは、「シェンムー3」の発売を11月9日に延期することを発表しました。対応機種はPS4およびPCであり、前回発表されていた8月27日予定から約3ヶ月の遅れとなります。
- ]]></description>
-			<pubDate>Tue, 04 Jun 2019 17:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    #WWDC19 で垣間見えたデベロッパへの「追い風」と「向かい風」（井上晃） ＃WWDC19
-</title>
-			<link>https://japanese.engadget.com/2019/06/04/wwdc19-wwdc19/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F1ca249a0-86ae-11e9-9ff3-c0eeb124613f&client=a1acac3e1b3290917d92&signature=4951ee008e09b05df27132d506aa9117ee2598b5" />既報の通り、WWDC19ではApple製各デバイスの時期OSにおけるさまざまな新機能が予告されました。iOS12で「計測」アプリが登場したときのように、従来はサードパーティ製アプリで利用していたいくつかの機能がApple純正アプリでカバーされるようになります。
-
-ユーザー視点ではより便利に使えるようになるという意味で大歓迎です。しかし、既存アプリのデベロッパから見れば、強力な競合が登場する大きな変革期を迎えることを意味します。
-
-一方で、新しくAPIなどが提供されることにより、サードパーティ製アプリで実現できることが増えることにつながり、デベロッパとしては今までよりも効率的に高度な開発が行えるようになるわけです。こうした背景が、秋以降に登場するアプリのトレンドに影響するでしょう。
-
-本稿では、そうしたアプリ開発のトレンドに注目しつつ、今回のWWDC19で発表された内容を整理して、概要をおさらいしたいと思います。
-<p><a href="https://japanese.engadget.com/gallery/wwdc19/" title="WWDC19で発表された開発に関する新機能を振り返る">【ギャラリー】WWDC19で発表された開発に関する新機能を振り返る (9枚)</a></p>
-
- 
-関連記事；
-WWDC19まとめ。新型「Mac Pro」や「iPadOS」、「iOS 13」など新トピックス盛りだくさん
- ]]></description>
-			<pubDate>Tue, 04 Jun 2019 17:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>Sponsored By Verizon Japan :     来たる5G時代、企業はどう生き残りをかけるか。5Gをリードする米ベライゾンがInteropで基調講演
 </title>
 			<link>https://japanese.engadget.com/pr/interop-verizon/</link>
@@ -826,6 +796,39 @@ I know distribution methods have changed, but I still encourage kids to watch th
 
  ]]></description>
 			<pubDate>Wed, 05 Jun 2019 03:50:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    アップル、Sign In with Apple義務化　サードログイン導入全アプリに
+</title>
+			<link>https://japanese.engadget.com/2019/06/05/sing-in-with-apple/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F8ba2f3f0-8770-11e9-afff-3701fe572b86&client=a1acac3e1b3290917d92&signature=b4307550920669874aee14afe5723a770bf252e8" />
+アップルは、サードパーティーログイン（Google / Facebookアカウントでログイン等）を採用するアプリに、「Sign In with Apple」の導入を義務化します。改定されたApp Storeのレビューガイドラインで明記されました。
+
+「Sign In with Apple」は、Apple IDで他社サービスにログインできるサービスです。特徴は、プライバシー保護を最重視したこと。ログインするサービスごとにユニークなメールアドレスを自動生成し、ユーザー自身のメールアドレスが渡ることはありません。
+
+
+基調講演では『導入は非常に簡単』『高速でトラッキングもない』『個人情報を一切漏らさない』と強調し、広告のためにトラッキングするGoogleやFacebookに対する優位性を強調していました。
+
+同サービスは夏にベータ版が公開され、今年後半に提供予定。それ以降、サードパーティーログインを導入するアプリは、GoogleやFacebookとともに「Sign In with Apple」の選択肢を提示する必要があります。
+
+開発者目線ではアップルからの要求が増えた格好ですが、ユーザー目線としては、メールアドレスを明かさずにログインできるのは一定の安心感に繋がりそうです。
+
+ 
+関連
+・Appleがセキュリティで攻めに転じた「Sign In with Apple」のインパクト（松村太郎） #WWDC19
+ ]]></description>
+			<pubDate>Wed, 05 Jun 2019 05:25:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    男性用ボディケア製品「Xbox Lynx」発売。爽やかなグリーンシトラスの香り
+</title>
+			<link>https://japanese.engadget.com/2019/06/05/xbox-lynx/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F331f5130-8773-11e9-bedf-181749a8db6e&client=a1acac3e1b3290917d92&signature=430e0dcebf9630d909f609c4ef2dbe566d307b54" />
+Microsoft
+
+世界最大のゲーム見本市E3が間近に迫っているなか、マイクロソフトが男性用ボディケア製品ブランドのLynxと提携し、「Xbox Lynx」と呼ばれる製品を発売することが明らかとなりました。
+ ]]></description>
+			<pubDate>Wed, 05 Jun 2019 06:01:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
