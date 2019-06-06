@@ -5,11 +5,15 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2019-05-28 21:09:16 +0900</title>
+			<title>2019-06-06 11:10:13 +0900</title>
 			<link> </link>
-			<description><![CDATA[<strong>newswitch</strong><br/><p>#&lt;NoMethodError: undefined method `set_params&#39; for #&lt;OpenSSL::SSL::SSLContext:0x00563c7d0086a0&gt;&gt;
+			<description><![CDATA[<strong>newswitch</strong><br/><p>#&lt;Net::OpenTimeout: execution expired&gt;
 in
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:898:in `connect&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:880:in `initialize&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:880:in `open&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:880:in `block in connect&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/timeout.rb:101:in `timeout&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:878:in `connect&#39;
 /home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:863:in `do_start&#39;
 /home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:852:in `start&#39;
 /home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:1398:in `request&#39;
@@ -17,10 +21,16 @@ in
 /data/src/rss_crawler/src/lib/httputil.rb:69:in `request&#39;
 /data/src/rss_crawler/src/lib/httputil.rb:87:in `get&#39;
 /data/src/rss_crawler/src/lib/rsspipe.rb:327:in `page_access&#39;
-/data/src/rss_crawler/src/pipes/newswitch.rb:17:in `block in &lt;top (required)&gt;&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:257:in `get_description&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:229:in `block in fetch&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:235:in `block in fetch&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:233:in `each&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:233:in `each_with_index&#39;
+/data/src/rss_crawler/src/lib/rsspipe.rb:233:in `fetch&#39;
+/data/src/rss_crawler/src/pipes/newswitch.rb:43:in `block in &lt;top (required)&gt;&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
-			<pubDate>Tue, 28 May 2019 21:09:16 +0900</pubDate>
+			<pubDate>Thu, 06 Jun 2019 11:10:13 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
