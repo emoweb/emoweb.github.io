@@ -5,28 +5,22 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2019-06-08 20:09:16 +0900</title>
+			<title>2019-06-09 07:09:11 +0900</title>
 			<link> </link>
-			<description><![CDATA[<strong>engadget</strong><br/><p>#&lt;URI::InvalidURIError: bad URI(is not URI?): https://japanese.engadget.com/2019/06/08/IoT66 /&gt;
+			<description><![CDATA[<strong>newswitch</strong><br/><p>#&lt;NoMethodError: undefined method `set_params&#39; for #&lt;OpenSSL::SSL::SSLContext:0x00555f4e58b350&gt;&gt;
 in
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/uri/rfc3986_parser.rb:67:in `split&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/uri/rfc3986_parser.rb:73:in `parse&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/uri/common.rb:227:in `parse&#39;
-/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/uri/common.rb:714:in `URI&#39;
-/data/src/rss_crawler/src/lib/httputil.rb:59:in `request&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:898:in `connect&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:863:in `do_start&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:852:in `start&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:1398:in `request&#39;
+/home/emo/.rbenv/versions/2.3.4/lib/ruby/2.3.0/net/http.rb:1156:in `get&#39;
+/data/src/rss_crawler/src/lib/httputil.rb:69:in `request&#39;
 /data/src/rss_crawler/src/lib/httputil.rb:87:in `get&#39;
 /data/src/rss_crawler/src/lib/rsspipe.rb:327:in `page_access&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:257:in `get_description&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:229:in `block in fetch&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:235:in `block in fetch&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:233:in `each&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:233:in `each_with_index&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:233:in `fetch&#39;
-/data/src/rss_crawler/src/lib/rsspipe.rb:182:in `pipe_procedure&#39;
-/data/src/rss_crawler/src/pipes/simple_pipes.rb:11:in `block (2 levels) in &lt;top (required)&gt;&#39;
+/data/src/rss_crawler/src/pipes/newswitch.rb:17:in `block in &lt;top (required)&gt;&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
-			<pubDate>Sat, 08 Jun 2019 20:09:16 +0900</pubDate>
+			<pubDate>Sun, 09 Jun 2019 07:09:11 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
