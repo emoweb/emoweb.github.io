@@ -5,33 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    DJI、教育用ロボットRoboMaster S1発表。ゲル弾での対戦も可能
-</title>
-			<link>https://japanese.engadget.com/2019/06/12/dji-robomaster-s1/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F8e60a200-8cce-11e9-a6ee-46e487f6313f&client=a1acac3e1b3290917d92&signature=4abdce585dbf8f10e75c221933845afd65665ee3" />
-DJIが教育用インテリジェントロボットRoboMaster S1を発表しました。日本でも6万4800円（税込）ですでに販売中。ただし納期は入金確認後10-15営業日となっています。学生や教員はエデュケーション割引により、10％オフで購入できます。
-
-DJIがスポンサーとして開催されているロボット競技会RoboMasterから生まれたというこの製品、パソコンやモバイル端末とWi-Fiで接続し、タッチパネルやゲームパッドで操作が可能。地上を走るドローンといったイメージです。
-<p><a href="https://japanese.engadget.com/gallery/dji-robomaster-s1/" title="A first look at DJI's RoboMaster S1">【ギャラリー】A first look at DJI's RoboMaster S1 (17枚)</a></p>
-
-S1は、前後左右に移動できるホイールを装備しているほか、1920&times;1080 30pの動画撮影が可能なカメラを搭載。ジンバルに取り付けられているのでブレも抑えられます。また、赤外線やゲル弾を発射できるブラスターを装備しており、最大で6台のS1と対戦を楽しめます。
-
-
-
-もちろん、これだけでは「教育用インテリジェントロボット」とは呼べません。S1はカメラを使ってマーカーを検出したり、人や他のS1を認識などが可能。ScratchとPythonを使い動作をプログラムすることで、マーカーに従ってコースを走ったり、ジェスチャーに合わせて動作を変える、フィールドを自動で走り回り、敵を発見したら攻撃するといったことも可能です。
-
-制御できるモジュールはモーター x 7、ヒット検出器 x 6、赤外線センサー x 7、LEDライト x 21、ビジョンセンサー x 1、マイク x 1、スピーカー x 1、ジャイロスコープ x 2など多岐にわたります。
-
-また、完全な自動化だけではなく、手動での対戦中に攻撃だけを自動化するようなカスタムスキルにも対応します。
-
-なお、取り外し可能なバッテリーは1回の充電で連続35分使えるとのこと。
-
- 
-教育向けとはいえ、1台だけだと、やや物足りなさがあります。やはり友人と持ち寄って、対戦などを行いたいところです。
- ]]></description>
-			<pubDate>Wed, 12 Jun 2019 02:50:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    10時間再生可能な完全ワイヤレス「JLab Epic Air Sport」。充電ケース併用で合計70時間、IP66防汗も
 </title>
 			<link>https://japanese.engadget.com/2019/06/12/10-jlab-epic-air-sport-70-ip66/</link>
@@ -753,6 +726,17 @@ PayPayの導入を検討している店舗オーナーの方はこちらから�
 台湾HTCが、ミッドレンジ市場向けスマートフォンとして「HTC U19e」「HTC Desire 19+」の2機種を台湾向けに発表しました。
  ]]></description>
 			<pubDate>Thu, 13 Jun 2019 06:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    iPhoneとAndroid併用者に便利。Googleログインの「Android機セキュリティキー」がiOSでも
+</title>
+			<link>https://japanese.engadget.com/2019/06/13/iphone-android-google-android-ios/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F5d9664f0-8d9d-11e9-bdd6-92ece8bf8cd0&client=a1acac3e1b3290917d92&signature=12cc0e51f202e692387a687b5998575d23d6fb40" />
+Googleは6月12日（現地時間）、iOSデバイスでAndroidをセキュリティキーとして利用可能になったと発表しました。
+
+Androidは、2月にOSとしてFIDO2認証を取得済み。GoogleアカウントではすでにAndroid端末をセキュリティキーとして登録し、PCやMac、Androidなどで利用可能となっていました。この機能がiPhoneやiPadでも利用可能になったわけです。
+ ]]></description>
+			<pubDate>Thu, 13 Jun 2019 07:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
