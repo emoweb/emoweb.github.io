@@ -5,30 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    YubicoがFIPS対応セキュリティキーのリコールを発表
-</title>
-			<link>https://japanese.engadget.com/2019/06/14/yubico-fips/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Ffd95c9c0-8e54-11e9-9efe-15869942d91b&client=a1acac3e1b3290917d92&signature=327414171581c2422cebc886353fb23eafe1a918" />
-Googleは5月、BluetoothタイプのTitanセキュリティキーに不具合があるとして、リコールを発表していましたが、今度はセキュリティキーの有力メーカーであるYubicoがリコールを発表しました。
-
- 
-関連記事：
-ユーザーは改良版への交換を。GoogleがBluetooth版Titanセキュリティキーをリコール 
-
-
-対象となるのは、連邦情報処理標準（Federal Information Processing Standards）に対応したYubiKey FIPSシリーズ。ようするに政府調達にも対応した高セキュリティモデルです。なお、同シリーズは日本向けにはラインナップされていません。
-
-不具合が見つかったのは、FIPSシリーズでファームウェアバージョン4.4.2あるいは4.4.4のもの。セキュリティキーが起動した（ポートに挿入された）後の最初の操作に限り、生成される乱数のランダム性が減少しているとのことです。
-
-たとえば、ECDSA署名の場合、セキュリティキーによって生成された256ビットのうち80ビットが静的なままとなり、署名の強度が弱くなります。このため、攻撃者が複数の署名を収集できた場合、秘密鍵を再構築できる可能性があるとしています。
-
-2019年4月30日以降に出荷されたものは影響を受けず、対象製品は対策済み製品と交換が行われます。なお、日本では販売されていませんが、FIPSシリーズにはFIPSと印字されているとのことなので、海外で購入したものなどはチェックしてみるといいかもしれません。
-
- 
- ]]></description>
-			<pubDate>Fri, 14 Jun 2019 04:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Amazonセール速報6月14日夕版｜Fire HD 10が31%OFF、15.6型4Kモバイルモニターが15%OFF #セール #特価
 </title>
 			<link>https://japanese.engadget.com/2019/06/14/amazon-6-14-fire-hd-10-31-off-15-6-4k-15-off/</link>
@@ -910,6 +886,16 @@ Twitter
 今年の秋に発売と見られているiPhoneの2019年モデルにつき、みずほ証券のアナリストが「目新しさに欠ける」と予測していることが報じられています。
  ]]></description>
 			<pubDate>Sat, 15 Jun 2019 03:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    「Black Shark 2」極限モードのベンチ結果は？ 「ROG Phone」専用コントローラーとも比較
+</title>
+			<link>https://japanese.engadget.com/2019/06/15/black-shark-2-rog-phone/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-06/13563a20-8e40-11e9-adde-dc94f9d36771" />
+「携帯ゲーム」のプラットフォームはほぼスマホに移行した感があります。そんななかスマホでより快適にゲームをプレイしたいというのは当然の欲求であり、パフォーマンスに優れ、また独自コントローラーが用意された「ゲーミングスマホ」が一ジャンルを築き上げています。今回レビューする「Black Shark 2」はいま最注目のゲーミングスマホです。
+
+ ]]></description>
+			<pubDate>Sat, 15 Jun 2019 03:13:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
