@@ -5,39 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ポケモンGO、幻のジラーチがついに出現。入手方法はGO Festイベント限定リサーチ、日本での解禁は？
-</title>
-			<link>https://japanese.engadget.com/2019/06/14/go-go-fest/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Fb5b49270-8e87-11e9-93fe-ff5d8507b8ba&client=a1acac3e1b3290917d92&signature=6cc6b8d2037a3c6e251a9cadcf3cbcdea81e2597" />
-
-米国シカゴで始まったイベントPokemon GO Fest で、幻のポケモン『ジラーチ』がポケモンGOに初めて出現しました。
-
-ジラーチは『ポケットモンスター ルビー・サファイア』(ホウエン地方、第三世代)から登場した「ねがいごとポケモン」。
-
-ホウエン地方の幻のポケモンはこのジラーチと、すでにEXレイドボスとして登場中のデオキシスの二種のため、これでポケモンGOでは第三世代までの幻のポケモンがすべて揃ったことになります。
-
-
-
-
- 
- ]]></description>
-			<pubDate>Fri, 14 Jun 2019 06:44:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    ファーウェイ、折りたたみ画面スマホMate Xを9月に延期。Galaxy Fold破損を受け追加テスト実施
-</title>
-			<link>https://japanese.engadget.com/2019/06/14/mate-x-9-galaxy-fold/</link>
-			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-03/be9de330-4915-11e9-8fff-6b126ca01112" />
-
-ファーウェイが折りたたみディスプレイ搭載スマートフォン Mate X の発売を9月まで延期することを明らかにしました。
-
-理由はサムスンの折りたたみスマホGalaxy Foldが発売前レビューの段階で次々と破損して予約取り消し・発売延期になったことを受けて、耐久性について追加のテストを実施するため。
-
- 
- ]]></description>
-			<pubDate>Fri, 14 Jun 2019 08:22:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    3000円のAmazonギフト券が当たる！お題に答えてゲット 6/15  #懸賞 #プレゼント #キャンペーン #Engadget
 </title>
 			<link>https://japanese.engadget.com/2019/06/14/3000-amazon-6-15-engadge/</link>
@@ -971,6 +938,49 @@ Welcome to Apple Xinyi A13 大家作伙來! Thank you to everyone who joined the
 関連：台湾で2店舗目となるアップルストア「Apple 信義 A13」が6月15日にオープン（開店前レポート）
  ]]></description>
 			<pubDate>Sat, 15 Jun 2019 22:55:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    ゲーム感覚でゲームを作れる「Game Builder」、Googleが無償公開(TechCrunch)
+</title>
+			<link>https://japanese.engadget.com/2019/06/15/game-builder-google/</link>
+			<description><![CDATA[     <img src="https://techcrunchjp.files.wordpress.com/2019/06/00-heroimage.1273078325471260.max-1000x1000.png?w=990&h=490" />
+
+GoogleのArea 120チームは、かなり実験的なプロジェクトに取り組む社内のインキュベーターだ。米国時間6月13日に、PCとmacOS上で無料で気軽に使えるGame Builderを発表した。プログラミングができなくても、オリジナルの3Dゲームを開発できる。Game Builderは、今のところValveのSteamプラットフォームからのみ入手可能となっている。試してみるにはSteamのアカウントが必要だ。​​​​​
+
+
+
+Game Builderをダウンロードして起動すると、まず目的のゲームの画面サイズを聞いてくる。その後、新たなプロジェクトを作成するのか、既存のプロジェクト、あるいはサンプルプロジェクトを開くのかを選択すると、すぐにゲーム製作を始められる。付属するサンプルプロジェクトとしては、一人称視点のシューティングゲームやプラットフォーム型ゲームがある。また、より複雑な動作をプログラミングするための独自のカードシステムのデモも含まれている。
+
+メニューシステムや、実際のゲーム構築操作には慣れが必要で、すぐに直感的な操作ができるわけではないが、しばらく使っているうちにはコツが分かってくるだろう。デフォルトでは、全体的なゲームデザインの雰囲気は、どうしてもMinecraft風のものとなってしまう。しかし、どのようなゲームを作るかは、完全にユーザーに委ねられている。ただこのツールは、小さな子供がゲームのプログラミングを始めるのに適したもののように感じられなかった。というのも、作業は比較的多くのテキスト情報を扱う複雑なものだからだ。
+
+
+
+より複雑な動作を実現するには、Game Builderならではのカードベースのビジュアルプログラミング環境が使える。これはかなり直接的な方法だが、慣れるにはそれなりに時間がかかる。Googleによれば、3Dのレベルを構築するのは、それ自体ゲームで遊ぶようなものだという。ゲーム環境の中で何かを構築していくことを考えると、それにも一理あるだろう。しかし、ゲームで遊ぶようなものだとは言っても、必ずしも簡単なことだとは限らない。
+
+このツールのすごいところは、マルチプレイヤーゲームを作ることができることで、しかも友達とリアルタイムの共同作業でゲームが作れることだ。
+
+これまで、ドラッグ＆ドロップのゲームビルダーは、かなり機能が限られるという印象があった。Area 120チームは、JavaScriptの使用を可能にすることで、これを限界を打ち破ろうとしている。あらかじめプログラムされた機能では実現できないことを、JavaScriptで記述できるようにしたのだ。また、Googleの3Dライブラリ、Polyのオブジェクトを利用して3Dレベルをデザインし、独自に構築できるようにしている。
+
+このところGoogleがゲームをかなり重視するようになっているのは周知の事実だ。今年の後半には、Stadiaというゲームのストリーミングサービスを開始できるよう、準備を進めている。今のところ、両者の間には何の関係もないように見える。しかし、Stadia上でGame Builderが使えるようになっても、何の不思議もない。
+
+
+
+［原文へ］
+
+（翻訳：Fumihiko Shibata）
+ ]]></description>
+			<pubDate>Sat, 15 Jun 2019 23:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    iPhone XR後継機は電池容量が5％以上増加？から7つの未発表Macまで、最新アップルの噂まとめ
+</title>
+			<link>https://japanese.engadget.com/2019/06/15/iphone-xr-5-7-mac/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Fadb7aca0-8fe1-11e9-9714-38a92dc4bf74&client=a1acac3e1b3290917d92&signature=32a979eee701c31780eca2cfeb27a86ca92145e0" />
+米トランプ政権による対中制裁関税の第4弾、iPhoneを含むスマートフォンへの税率引き上げ（10％ 25％）実施が今月末に迫り、米国のIT産業も動きが活発化しているとのニュースが相次いでいました。
+
+iPhone XR後継機は電池容量が5％以上増加？から7つの未発表Macまで、最新のアップルの噂や情報をまとめて振り返ります。
+ ]]></description>
+			<pubDate>Sat, 15 Jun 2019 23:45:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
