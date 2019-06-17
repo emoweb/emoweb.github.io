@@ -5,18 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    6月17日のできごとは「LS-20M 発売」「HUAWEI P9 / P9 lite 発売」ほか：今日は何の日？
-</title>
-			<link>https://japanese.engadget.com/2019/06/16/6-17-ls-20m-huawei-p9-p9-lite/</link>
-			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-06/a3c98910-8f15-11e9-bff7-74389d1a15f5" />6月17日のおもなできごと
-2005年、auが「EZテレビ」に対応した「A5511T」を発売
-2008年、日本HPが「DreamColor LP2480zx」を発売
-2011年、オリンパスが「LS-20M」を発売
-2016年、ファーウェイが「HUAWEI P9」を発売
- ]]></description>
-			<pubDate>Sun, 16 Jun 2019 16:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    トヨタが全車に自動Pレンジ移行機能･ボルボの自動運転トレーラー･新型テスラModel S？: #egjp 週末版169
 </title>
 			<link>https://japanese.engadget.com/2019/06/16/p-model-s-egjp-169/</link>
@@ -754,6 +742,46 @@ ROG ZEPHYRUS S GX531GWRの構成は、CPUにインテル Core i7-9750H（6コア
 
  ]]></description>
 			<pubDate>Mon, 17 Jun 2019 06:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    ソフトバンクとMicrosoftがタッグ、Officeツール「Teams」に03電話を統合
+</title>
+			<link>https://japanese.engadget.com/2019/06/17/microsoft-office-teams-03/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-06/3c45b570-90e6-11e9-b7fd-083c00f4a65f" />
+ソフトバンクと日本マイクロソフトは、「次世代コミュニケーション環境の構築に向けた戦略的パートナーシップ」を締結したと発表しました。
+
+その第1弾として、Office 365のコラボレーションツール「Microsoft Teams」向けの音声通話サービスとして、ソフトバンクが「UniTalk」を提供します。
+
+Microsoft Teamsは、社内コミュニケーションに関連したツールを取りそろえたコラボレーションツール。Teamsではチャットやビデオ通話のほか、社内連絡先・組織図、共有ファイルの管理、Officeファイルの表示・編集までTeamsアプリ1つを立ち上げるだけで行える統合ツール。スマートフォンやブラウザー（Webアプリ）でも同様の機能を使えるというマルチデバイスなサービスです。
+
+
+
+
+
+今回、ソフトバンクが提供する「UniTalk」を追加することで、Teamsアプリ上から外線電話を使えるようになります。
+
+UniTalkで使える電話番号は東京03/大阪06などの固定電話向けの番号「0ABJ番号」で、クラウド型でインターネット回線以外の機器設置は不要。通話は定額使い放題で、料金は1電話番号当たり800円。初期費用や保守の負担も少ないため、小規模な事業者にも活用できるとしています（ただし、記事執筆時点ではエンタープライズ向けOffice 365のアカウントが必要となります）。
+
+
+
+
+0ABJ番号を活用したクラウドPBXサービスは他社も提供していますが、UniTalkではOffice 365のサーバーとソフトバンクの回線設備を直接接続し『深いレベルでの統合』を実現しています。
+
+ユーザー企業の03番号宛の発信がTeamsの画面内で通知されるほか、スマートフォンのTeamsアプリからも着信可能。新たな電話番号が必要となった場合も、設置工事不要でライセンス追加だけで対応可能。さらに、Microsoft Azureの処理機能を活用し、たとえば、通話をリアルタイムでテキスト化するといった機能拡張にも対応しています。
+
+
+
+▲Teamsではビデオ通話時の背景の自動ぼかしやテキスト化などにAzureのAI処理を活用しています
+
+日本マイクロソフトの平野社長は「（UniTalkのTeamsとの統合は）両社の本社同士で強いコミットメント（関与）があり、技術的には相互検証も含めて行うもの。同様の連携例は世界でも少数」と深いレベルでの統合を行っていることを強調しました。
+
+ソフトバンクではSkype for Businessの販売などで以前からマイクロソフトと関わりがあり、今回の提携によりグループを挙げてUniTalkを販売していくと表明。「早期に100万契約の達成」という目標が示されました。
+
+UniTalkは8月1日よりサービスを開始予定。すでに11社で試験導入が行われています。なお、ソフトバンクはTeams自体を導入していないことから、自社でのUniTalkの導入については「今後検討していく」という回答にとどまっています。
+
+ソフトバンクの親会社にあたるソフトバンクグループは、コラボレーションアプリ「Slack」への巨額出資も行っており、この分野で競合となるマイクロソフトとも手を結ぶ格好になります。
+ ]]></description>
+			<pubDate>Mon, 17 Jun 2019 06:10:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
