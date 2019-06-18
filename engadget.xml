@@ -5,26 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ナイアンティック、改変ポケモンGO開発グループ20人を提訴。『ハリー･ポッター:魔法同盟』もハック済み
-</title>
-			<link>https://japanese.engadget.com/2019/06/17/go-20/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F284834f0-90b2-11e9-b3bf-5508f40b0edb&client=a1acac3e1b3290917d92&signature=3a611c1623008c6d0de4065ec014759f8c0379ce" />
-ゲームアプリのナイアンティックが『イングレス』や『ポケモンGO』、『ハリー・ポッター: 魔法同盟』の非公式な改変バージョン、つまり海賊版を配布していた"Global++"なるグループのメンバーを訴えました。ナイアンティックはこれらハッキングされたアプリは著作権侵害だけでなく、プレイヤーの不正行為を助長し「ゲーム体験の完全性を損なう」と述べ「ビジネスを妨害する」と主張しています。
- ]]></description>
-			<pubDate>Mon, 17 Jun 2019 00:30:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    ファーウェイの次期EMUI 10はAndroid Qベース？P30 Proで動作が確認
-</title>
-			<link>https://japanese.engadget.com/2019/06/17/emui-10-android-q-p30-pro/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F564bbd90-90b7-11e9-a9fa-6aa36154b1f1&client=a1acac3e1b3290917d92&signature=5fc6aa851231c21a64a2c1c76bc8a3149c74cf42" />
-米国による制裁の影響を受けて、ファーウェイは今後の自社スマートフォンにGoogleのAndroid向けサービスが搭載できなくなっています。
-
-そのため同社デバイスの次期OSがどうなるかにつき注目が集まっているなか、EMUI 10（ファーウェイ製スマートフォンなどに搭載されるOS。現在のバージョンは9.1）の初期ビルドがAndroidの次期バージョンとなるAndroid Qをベースとしていることが報じられています。
- ]]></description>
-			<pubDate>Mon, 17 Jun 2019 01:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    マイクロソフト「Surface」デザインチーム・トップが明かす誕生秘話（西田宗千佳）
 </title>
 			<link>https://japanese.engadget.com/2019/06/17/surface/</link>
@@ -628,6 +608,56 @@ Nintendo
 任天堂はスマホ向けアクションパズルゲーム「Dr. Mario World（ドクターマリオ ワールド）」を7月10日から配信すると発表しました。本日6月18日より、iOS/Android版ともに事前登録の受け付けが開始されています。
  ]]></description>
 			<pubDate>Tue, 18 Jun 2019 00:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Google、Androidユーザーに次世代メッセージサービスRCSを直接提供へ。英仏でまもなく開始
+</title>
+			<link>https://japanese.engadget.com/2019/06/18/google-android-rcs/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Fdaf88390-917d-11e9-a9fb-34cd98b386ae&client=a1acac3e1b3290917d92&signature=ada754e22a4caef66e75dac6b528342f999c2582" />Googleは、SMSやMMSに代わる次世代メッセージサービスRCS（Rich Communication Service）を、キャリアに依存せず自身でコントロールする準備ができたようです。
+
+英国とフランスのAndroidユーザーに対して、6月後半からキャリアに関係なくRCSサービスの提供を開始するとThe Vergeが伝えています。
+
+RCSは、SMSやMMSを大幅に拡張したもので、テキストメッセージのほかファイル転送や動画・音声メッセージの送信などにも対応しているのが特徴です。
+
+通信業界団体のGSMAにより標準化されており、利用するには端末（アプリ）側の対応のほか、通信キャリアがRCSをサポートする必要がありました。2018年初めの発表時点では43キャリアがRCSをサポートしていましたが、現在は世界76キャリアまでに拡大。日本では2018年5月に、NTTドコモとKDDI（au)、ソフトバンクが「＋メッセージ」として提供を開始しています。
+
+ 
+関連記事：
+Android「メッセージ」アプリにiMessage的な「Chat」機能追加へ。RCS対応、世界55キャリアがサポート
+速報：LINE対抗のチャットアプリ「+メッセージ」、3キャリアが5月9日配信
+iPhone向け「+メッセージ」が公開　3キャリア共通のチャットアプリ
+
+今回、英国とフランスにおいては、Googleが自前でサービスを提供することによって、キャリアに関係なくAndroid端末でRCSが利用可能になります。
+
+ただし、AppleのiMessageのように専用サーバーでiMassageが利用可能なユーザーを管理しているわけではありません。このため、MessaggesからPingを送信し、相手がRCSをサポートしているかどうかを確認する仕組みになるとのこと。また、エンドツーエンドの暗号化にも未対応ですが、メッセージの配信と同時に、Googleのバックエンドサービスからメッセージを削除するとしています。
+
+なお、通信キャリアがRCSをサポートしている場合には、従来通り、そちらに処理を任せます。これは独占禁止法違反などを避けるために処置でしょう。ちなみに、英国ではVodafone、フランスではSFRとFree MobileがRCSに対応済みです。
+
+RCSの普及を促進する意味でも、キャリアがサポートするまではGoogle自身がサービスを行い、キャリアの準備ができたたそちらに任せるのは理にかなっていると言えそうです。
+
+今のところ対応予定が明らかなのは英国とフランスのみですが、Android Messagesの製品管理者Sanaz Ahari氏は「適切なエクスペリエンスを確実に提供するために、少数の市場から開始する」とThe Vergeに答えており、今後、他の国でも展開される可能性はありそうです。
+
+MVNOではRCSが使えないという状態が改善しそうなだけに、日本での展開も期待したいところです。
+
+なお、これらはすべてAndroidでの話。2019年初め、iOSがRCSのサポートを検討しているという噂がありましたが、その続報はありません。
+
+ 
+関連記事：
+iPhoneに「+メッセージ」同等サービス？アップルがiOSにRCS統合を検討中とのうわさ
+
+
+ 
+ ]]></description>
+			<pubDate>Tue, 18 Jun 2019 00:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    米ドミノピザ、自動運転ロボットカーで無人配達開始へ。オンライン注文、PINコードで受け取り
+</title>
+			<link>https://japanese.engadget.com/2019/06/18/pin/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F18a0db60-917f-11e9-bfcc-ad205b048b0f&client=a1acac3e1b3290917d92&signature=91321db50e7da656d41b5d81ed73b56ae4b96d1e" />
+期間限定メニューの「ニューヨーカー1kgウルトラチーズ」が話題のドミノピザですが、米国では2017年の段階でピザ配達に自動運転車(ドライバー付き)を導入するなどハイテク活用にも熱心な企業です。米ドミノピザは今回、ソフトバンクも出資するNuroの自動運転車R2を使ったデリバリーを行う計画を明らかにしました。
+ ]]></description>
+			<pubDate>Tue, 18 Jun 2019 01:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
