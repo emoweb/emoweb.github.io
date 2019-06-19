@@ -5,58 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    「ドクターマリオワールド」7月10日配信。iOS/Android版の事前登録開始
-</title>
-			<link>https://japanese.engadget.com/2019/06/18/7-10-ios-android/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Fe7733bf0-9179-11e9-afd4-e2137525fba0&client=a1acac3e1b3290917d92&signature=dd799ba1e83e8b7d8631a90850d6143cc49f0667" />
-Nintendo
-
-任天堂はスマホ向けアクションパズルゲーム「Dr. Mario World（ドクターマリオ ワールド）」を7月10日から配信すると発表しました。本日6月18日より、iOS/Android版ともに事前登録の受け付けが開始されています。
- ]]></description>
-			<pubDate>Tue, 18 Jun 2019 00:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Google、Androidユーザーに次世代メッセージサービスRCSを直接提供へ。英仏でまもなく開始
-</title>
-			<link>https://japanese.engadget.com/2019/06/18/google-android-rcs/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Fdaf88390-917d-11e9-a9fb-34cd98b386ae&client=a1acac3e1b3290917d92&signature=ada754e22a4caef66e75dac6b528342f999c2582" />Googleは、SMSやMMSに代わる次世代メッセージサービスRCS（Rich Communication Service）を、キャリアに依存せず自身でコントロールする準備ができたようです。
-
-英国とフランスのAndroidユーザーに対して、6月後半からキャリアに関係なくRCSサービスの提供を開始するとThe Vergeが伝えています。
-
-RCSは、SMSやMMSを大幅に拡張したもので、テキストメッセージのほかファイル転送や動画・音声メッセージの送信などにも対応しているのが特徴です。
-
-通信業界団体のGSMAにより標準化されており、利用するには端末（アプリ）側の対応のほか、通信キャリアがRCSをサポートする必要がありました。2018年初めの発表時点では43キャリアがRCSをサポートしていましたが、現在は世界76キャリアまでに拡大。日本では2018年5月に、NTTドコモとKDDI（au)、ソフトバンクが「＋メッセージ」として提供を開始しています。
-
- 
-関連記事：
-Android「メッセージ」アプリにiMessage的な「Chat」機能追加へ。RCS対応、世界55キャリアがサポート
-速報：LINE対抗のチャットアプリ「+メッセージ」、3キャリアが5月9日配信
-iPhone向け「+メッセージ」が公開　3キャリア共通のチャットアプリ
-
-今回、英国とフランスにおいては、Googleが自前でサービスを提供することによって、キャリアに関係なくAndroid端末でRCSが利用可能になります。
-
-ただし、AppleのiMessageのように専用サーバーでiMassageが利用可能なユーザーを管理しているわけではありません。このため、MessaggesからPingを送信し、相手がRCSをサポートしているかどうかを確認する仕組みになるとのこと。また、エンドツーエンドの暗号化にも未対応ですが、メッセージの配信と同時に、Googleのバックエンドサービスからメッセージを削除するとしています。
-
-なお、通信キャリアがRCSをサポートしている場合には、従来通り、そちらに処理を任せます。これは独占禁止法違反などを避けるために処置でしょう。ちなみに、英国ではVodafone、フランスではSFRとFree MobileがRCSに対応済みです。
-
-RCSの普及を促進する意味でも、キャリアがサポートするまではGoogle自身がサービスを行い、キャリアの準備ができたたそちらに任せるのは理にかなっていると言えそうです。
-
-今のところ対応予定が明らかなのは英国とフランスのみですが、Android Messagesの製品管理者Sanaz Ahari氏は「適切なエクスペリエンスを確実に提供するために、少数の市場から開始する」とThe Vergeに答えており、今後、他の国でも展開される可能性はありそうです。
-
-MVNOではRCSが使えないという状態が改善しそうなだけに、日本での展開も期待したいところです。
-
-なお、これらはすべてAndroidでの話。2019年初め、iOSがRCSのサポートを検討しているという噂がありましたが、その続報はありません。
-
- 
-関連記事：
-iPhoneに「+メッセージ」同等サービス？アップルがiOSにRCS統合を検討中とのうわさ
-
-
- 
- ]]></description>
-			<pubDate>Tue, 18 Jun 2019 00:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    米ドミノピザ、自動運転ロボットカーで無人配達開始へ。オンライン注文、PINコードで受け取り
 </title>
 			<link>https://japanese.engadget.com/2019/06/18/pin/</link>
@@ -738,6 +686,55 @@ Amazon.co.jpが販売・発送します
 
  ]]></description>
 			<pubDate>Tue, 18 Jun 2019 21:23:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Facebookが暗号通貨「Libra」発表。MasterCard/PayPal/Uberなど参画し「数十億の決済インフラ」目指す
+</title>
+			<link>https://japanese.engadget.com/2019/06/18/facebook-libra-mastercard-paypal-uber/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-06/accc7a60-9233-11e9-bffd-dad30f32513e" />
+Facebookは19日、長らく噂されていた仮想通貨（暗号資産）プラットフォーム「Libra」を正式発表しました。子会社Calibra社による最初のプロダクトとして、スマホで使えるデジタルウォレットの提供を2020年に開始します。
+
+Calibiraが目指すのは、未だに世界人口の半数近くを占めるという、銀行口座を保有していない成人に金融サービスを用意すること。金融インフラが満足に整っていない国では、安全ではない小切手の支払いによって家賃を失ったり、海外送金サービスに膨大な手数料を支払っている移民が現実に存在します。Calibraはブロックチェーンによる低コストな金融インフラによって「数十億の人々の課題解決」を目標とします。
+
+仮想通貨Libraの基礎となるブロックチェーン技術（Libra Blockchain）はFacebookから独立した管理団体「Libra Association」により開発されます。スイスのジュネーブに本拠を置く同団体は、MasterCard、PayPal、Visa、eBay、Vodafone Group、Spotify、Uber、Lyft、そしてもちろんFacebookなど、28の共同創立者を擁しています。
+
+Libraが他の仮想通貨と異なるのは、資産による裏付けがあること。協会が用意した準備金「Libra Reserve」が、その価値の担保となります。
+
+Calibiraでは2020年にMessenger、WhatsApp、専用アプリで利用できるデジタルウォレットを提供予定。まずは送金機能に対応しますが、将来的にはオンライン決済やコード決済を提供。途上国の人々がアプリを利用したり、飲み物を買ったり、バスに乗車したりできるような新たな決済プラットフォームへの展開も視野に入れています。
+
+
+
+なお、Calibraのシステムでは、セキュリティを担保するため、銀行やクレジットカードと同じ認証・詐欺防止プロセスを採用し、自動モニタリングシステムも導入。アカウント情報や金融情報を同意なしに（Facebookを含む）第三者に提供しないなど、プライバシー保護の重視も謳っています。
+
+Libra発表から最初の数ヶ月で、Libra Associationは規制当局や政策立案者からのフィードバックを求める予定です。
+
+さらに、Libraブロックチェーンの開発者からサービス企業、消費者にいたるまでより多くの開発メンバーを募ります。Calibraの責任者であるDavid Marcus氏は米Engadgetの取材に対し「（Calibra自体は非営利のプラットフォームだが）営利目的の企業がCalibraプラットフォーム上を活用したサービスを構築できるようにする」と語っています。
+
+FacebookがLibraを主導することは、同社の成長にもつながるでしょう。一方、大規模な情報漏洩事故が多く、機密情報を扱いを疑問視されているFacebookにとっては、Calibraで多数の決済情報を非公開かつ安全に担保できるかどうかは、企業としての信頼性を問われる試金石となりそうです。
+
+「Libra」発表当初のLibra Association参画団体は以下の通りです。
+
+決済: Mastercard、PayPal、PayU (Naspers' fintech arm)、Stripe、Visa
+テクノロジーとマーケットプレイス: Booking Holdings、eBay、 Facebook/Calibra、Farfetch、Lyft、Mercado Pago、Spotify、 Uber Technologies
+通信: Iliad、Vodafone Group
+ブロックチェーン: Anchorage、Bison Trails、Coinbase、Xapo Holdings
+ベンチャーキャピタル: Andreessen Horowitz、Breakthrough Initiatives、Ribbit Capital、Thrive Capital、Union Square Ventures
+NPO/多国間団体/学術機関: Creative Destruction Lab、Kiva、Mercy Corps、Women's World Banking
+
+
+
+ ]]></description>
+			<pubDate>Tue, 18 Jun 2019 22:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    定期購読中のアプリを削除しようとすると警告。iOS 13ベータ版新機能
+</title>
+			<link>https://japanese.engadget.com/2019/06/18/ios-13/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F730a99a0-9234-11e9-bff9-1de2d93e642d&client=a1acac3e1b3290917d92&signature=1ac68831f4538812a631fb1d9cf72ab45d654dd1" />Apple
+
+開発者向けに配布されているiOS 13ベータ2にて、まだ定期購読が継続中のアプリを削除しようとすると、その旨が通知される新機能が追加されていると報じられています。アプリを削除してしまうと定期購読の存在そのものを忘れやすいため、ユーザーにとって有り難い変更と言えそうです。
+ ]]></description>
+			<pubDate>Tue, 18 Jun 2019 22:50:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
