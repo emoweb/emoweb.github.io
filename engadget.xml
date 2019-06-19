@@ -5,24 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    米国土安全保障省、旧Windows狙うBlueKeepワームを警告。RDPで遠隔操作を確認、パッチ適用求める
-</title>
-			<link>https://japanese.engadget.com/2019/06/17/windows-bluekeep-rdp/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F40de7930-916f-11e9-bfbf-45904ecc8093&client=a1acac3e1b3290917d92&signature=60dba17d92fe81c570e7bec86a421f1d18207bd8" />
-OSにパッチを適用しない、もしくはサポートが切れたバージョンを訳あって使っているWindows ユーザーに、BlueKeepと呼ばれるマルウェアが感染を広げつつあります。米国土安全保障省(DHS)のサイバーセキュリティ・インフラストラクチャセキュリティ庁(CISA)は、BlueKeepの悪用に関する検証実験をおこない、Windows 2000で遠隔からコードを実行できることを確認したと述べています。
- ]]></description>
-			<pubDate>Mon, 17 Jun 2019 23:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    2020年iPhoneは「5G」対応。画面サイズは5.4/6.1/6.7インチとの有名アナリスト予測
-</title>
-			<link>https://japanese.engadget.com/2019/06/17/2020-iphone-5g-5-4-6-1-6-7/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Fb3d39d00-9172-11e9-bf7f-c1f707dfbee8&client=a1acac3e1b3290917d92&signature=0efa982bef4776aaa018f1d6c61293262156738f" />
-有名アナリストが2020年のiPhoneにつき、「3機種のうち2つは5G対応」などの予測を発表したことが報じられています。
- ]]></description>
-			<pubDate>Mon, 17 Jun 2019 23:20:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    持ち運べる育児向け睡眠補助デバイス「Rest+」。親の負担を軽減する各種機能搭載
 </title>
 			<link>https://japanese.engadget.com/2019/06/17/rest/</link>
@@ -668,6 +650,28 @@ https://www.campus.co/tokyo/ja/
 
  ]]></description>
 			<pubDate>Tue, 18 Jun 2019 18:10:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Xperiaの「伝言メモ」機能使ってる？：Xperia Tips
+</title>
+			<link>https://japanese.engadget.com/2019/06/18/xperia-xperia-tips/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=6000%2C3999%2C0%2C0&quality=85&format=jpg&resize=1200%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Ff7c258d0-8367-11e9-9f77-12a10916de09&client=a1acac3e1b3290917d92&signature=9c9af20d6b648b451904f8324d59969bcb06b70f" />​​​​​​電話に出られなかったときに、相手からのメッセージを録音する「伝言メモ」機能。ほとんどのAndroidは、キャリアの有料留守番電話サービスを申し込む必要があるうえ、留守番電話センターに電話しなければ内容の確認ができません。
+
+しかし、Xperiaなら「伝言メモ」機能があらかじめ搭載されています。無料で使えるだけでなく、本体にメッセージが録音されるので、気づいたときにすぐ確認できますよ。
+<p><a href="https://japanese.engadget.com/gallery/memo/" title="memo">【ギャラリー】memo (6枚)</a></p>
+ ]]></description>
+			<pubDate>Tue, 18 Jun 2019 19:07:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Firefoxブラウザに重大なバグの報告。いますぐFirefox 67.0.3 / ESR 60.7.1以降に更新を
+</title>
+			<link>https://japanese.engadget.com/2019/06/18/firefox-67-0-2-firefox-67-0-3-esr-60-7-1/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Fa7512d20-921e-11e9-add7-440bda3d7e7d&client=a1acac3e1b3290917d92&signature=3249e9de28e36da5d93704eceb3ebe6598a087d3" />
+Googleのセキュリティ調査チームProject Zeroが、デスクトップ版Firefoxブラウザーに含まれる「Array.popの問題によってJavaScriptオブジェクトの操作中に発生するバグ」を報告しました。そう言われたところでどれほど大きな問題かピンと来にくいものの、Project Zeroによればこの脆弱性を悪意あるハッカーらが悪用してシステムを侵害する可能性があるとのこと。
+
+Mozillaはこの報告を受け、すぐに脆弱性をなくした新バージョンのFirefox 67.0.3とFirefox ESR 60.7.1をリリースしました。Firefoxユーザーはいますぐ最新版にアップデートすることをおすすめします。
+ ]]></description>
+			<pubDate>Tue, 18 Jun 2019 19:20:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
