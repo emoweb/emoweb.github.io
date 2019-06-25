@@ -5,16 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    iOS 13およびiPadOSのパブリックベータが公開に。ひと足先に試せます
-</title>
-			<link>https://japanese.engadget.com/2019/06/24/ios-13-ipados/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F3db9bdc0-964a-11e9-bebb-2131cbbd7fd1&client=a1acac3e1b3290917d92&signature=46507ed60cee34e5437b2b6fb60ff482dbe4e4c1" />いよいよアップルが、iOS 13およびiPadOSのパブリックベータ版を公開しました。正式版に先立って問題を見つけるためのものですが、開発者でなくてもApple Beta Software Programへの登録さえすれば誰でも試せます。
-
-すでに各OSにつき公式プレビューページが用意されていますが、それぞれの主要な新機能や特徴を、これまでの情報と照らし合わせておさらいしていきましょう。
- ]]></description>
-			<pubDate>Mon, 24 Jun 2019 13:36:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    macOS Catalinaのパブリックベータ版公開。iTunes廃止に戸惑うなかれ
 </title>
 			<link>https://japanese.engadget.com/2019/06/24/macos-catalina-itunes-bata/</link>
@@ -660,6 +650,15 @@ macOS Catalinaのパブリックベータ版公開。iTunes廃止に戸惑うな
 アップルが開発中と噂されるiPhone XS Maxの後継機、iPhone 11 Max（仮）のケース付き予想レンダリング画像が公開されています。
  ]]></description>
 			<pubDate>Tue, 25 Jun 2019 02:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Ubuntu、廃止表明の32bitパッケージサポートを一部継続へ。ゲームやWINEの動作を考慮
+</title>
+			<link>https://japanese.engadget.com/2019/06/25/ubuntu-32bit-wine/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F64a876e0-970a-11e9-bd6f-bf8813c485bf&client=a1acac3e1b3290917d92&signature=cacbdc9d9a307edcde21338d3f385c9d0be4e0af" />
+先週、次期バージョンより32bit x86パッケージのサポート終了を伝えていた人気LinuxディストリビューションのUbuntuが、一転して一部パッケージについては32bitのサポートを継続することを決定しました。これにより、Ubuntu 19.10および20.04 LTSに関しては一部ではあるものの32bitアプリケーションを使い続けることが可能になります。
+ ]]></description>
+			<pubDate>Tue, 25 Jun 2019 03:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
