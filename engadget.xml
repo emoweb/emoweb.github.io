@@ -5,30 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    macOS Catalinaのパブリックベータ版公開。iTunes廃止に戸惑うなかれ
-</title>
-			<link>https://japanese.engadget.com/2019/06/24/macos-catalina-itunes-bata/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F7caad480-9693-11e9-b3fe-9c36710ec7c6&client=a1acac3e1b3290917d92&signature=ae5aed6d72523ee14770f23b02a33c4fa141cfb1" />今年秋に公式リリースとなるmacOS 10.15 Catalinaですが、パブリックベータ版が公開されました。こちらは開発者でなくてもApple Beta Software Programへの登録さえすれば誰でも試せます。
-
-
-すでに 公式プレビューページもこちらに用意されていますが、主なトピックスは長年親しまれてきたiTunesが「Music」「TV」「Podcast」の3つに分割されること。iPadOSからの移植を支援してmacOSアプリを充実させる「Project Catalyst」や、iPadをサブディスプレイ化してApple Pencilも利用できる「Sidecar」も注目です。ここではこれまでの情報とともにmacOS 10.15 Catalinaのポイントを確認していきましょう。
- ]]></description>
-			<pubDate>Mon, 24 Jun 2019 13:37:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    6月25日のできごとは「Meizu MX4 Ubuntu Edition 欧州発売」「Eee Pad TF101 発売」ほか：今日は何の日？
-</title>
-			<link>https://japanese.engadget.com/2019/06/24/6-25-meizu-mx4-ubuntu-edition-eee-pad-tf101/</link>
-			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-06/835f60c0-9355-11e9-aa9f-0df2254c4f99" />6月25日のおもなできごと
-2011年、ASUSが「Eee Pad TF101」を発売
-2011年、パナソニックが「HX-WA10」「HX-DC15」「HX-DC1」を発売
-2015年、魅族科技（MEIZU）が「Meizu MX4 Ubuntu Edition」を欧州で発売
-2015年、キヤノンが「PowerShot G3 X」を発売
-2015年、パナソニックが「LUMIX DMC-G7」を発売
- ]]></description>
-			<pubDate>Mon, 24 Jun 2019 16:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    macOS Catalinaのバブリックベータに早速触れる。好印象も本当の評価はまだ少し先（本田雅一）
 </title>
 			<link>https://japanese.engadget.com/2019/06/24/macos-catalina/</link>
@@ -659,6 +635,54 @@ macOS Catalinaのパブリックベータ版公開。iTunes廃止に戸惑うな
 先週、次期バージョンより32bit x86パッケージのサポート終了を伝えていた人気LinuxディストリビューションのUbuntuが、一転して一部パッケージについては32bitのサポートを継続することを決定しました。これにより、Ubuntu 19.10および20.04 LTSに関しては一部ではあるものの32bitアプリケーションを使い続けることが可能になります。
  ]]></description>
 			<pubDate>Tue, 25 Jun 2019 03:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    アップル、Spotifyの苦情申し立てに反論。「有料会員の0.5％が支払ってるだけ」
+</title>
+			<link>https://japanese.engadget.com/2019/06/25/spotify-0-5/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Fd0557020-970d-11e9-b5bd-6a90800a37f4&client=a1acac3e1b3290917d92&signature=48edb4c4bc4674d94eaefc46b44db50f102e6f3a" />
+Future Publishing via Getty Images
+
+アップルは音楽ストリーミングサービスSpotifyによる苦情申し立てに対して、Spotifyがアップルに対して有料会員の0.5％につき、15％の手数料を同社に支払っているに過ぎないと反論したことが報じられています。
+ ]]></description>
+			<pubDate>Tue, 25 Jun 2019 03:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    iPadOSのマウス操作を試す。Bluetoothマウスも利用可能
+</title>
+			<link>https://japanese.engadget.com/2019/06/25/ipados-bluetooth/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Fc84e8210-9710-11e9-8dff-6683c99d8ee7&client=a1acac3e1b3290917d92&signature=076456ecf476fcd7804412317abfea9500b3b5d8" />
+iOS 13とともに、iPadOSもパブリックベータの配信が始まりました。このiPadOSで気になるのが、マウスのサポートということで、早速試したところ、Bluetooth接続のマウスが利用できました。ただし、当然使えるものと思っていたAppleのMagic Mouse 2はペアリングできず......。今回は別のマウスを利用しています。
+
+※パブリックベータは開発途上のバージョンであり、秋にリリース予定の正式版とは異なる挙動を示す場合があります。重要なデータが入っている場合は導入前に必ずバックアップをとりましょう。万が一に備え、メインの端末ではなく、データが消えても問題のないサブ機での試用を強くオススメします。
+関連記事
+iOS 13およびiPadOSのパブリックベータが公開に。ひと足先に試せます
+iOS 13を先行体験する方法、パブリックベータは誰でも試せます
+iPad、ついにUSBマウスをサポート。開発者向けiPadOSベータ版にて動作が確認
+
+なお、iPadOSでのマウスは、あくまでもアクセシビリティ機能の一環。画面タッチでの操作が難しいユーザーが代替手段として使うものという位置付けです。
+
+利用方法ですが、Bluetoothペアリングをしただけでは利用できず、アクセシビリティのメニューから「AssistiveTouch」を有効にする必要があります。
+
+
+▲マウスをペアリングしてAssistiveTouchをONにすると、カーソルが表示されます
+
+カーソルは、一般的な矢印型ではなく円形です。また、デフォルトではカラーはグレーですが、設定によりブルーやレッドなど7色を選べます。これは、視覚に障害のある人でも見やすくするための配慮でしょう。同様の理由により、カーソルのサイズを一回り大きくすることもできます。
+
+実際の動作の様子は下記。
+
+ 
+
+もちろん、カーソルの移動速度なども設定可能。またマウスのボタン操作は、デフォルトではボタン1（左クリック）が「シングルタップ」、ボタン2（右クリック）が「（AssistiveTouchの）メニューを開く」、ボタン3（ホイールクリック）が「ホーム」に割り当てられていますが、それぞれ別の操作にも割り当てられます。
+
+
+▲ちなみにホイールはスクロールとして使えます
+
+一般的なマウスの動作と少し違うとはいえ、画面にタッチせず操作できるのやはり便利です。キーボードと組み合わせれば、これまで以上にPCライクに利用できそうです。
+
+   
+ ]]></description>
+			<pubDate>Tue, 25 Jun 2019 04:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
