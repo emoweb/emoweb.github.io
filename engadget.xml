@@ -5,15 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Ubuntu、廃止表明の32bitパッケージサポートを一部継続へ。ゲームやWINEの動作を考慮
-</title>
-			<link>https://japanese.engadget.com/2019/06/25/ubuntu-32bit-wine/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F64a876e0-970a-11e9-bd6f-bf8813c485bf&client=a1acac3e1b3290917d92&signature=cacbdc9d9a307edcde21338d3f385c9d0be4e0af" />
-先週、次期バージョンより32bit x86パッケージのサポート終了を伝えていた人気LinuxディストリビューションのUbuntuが、一転して一部パッケージについては32bitのサポートを継続することを決定しました。これにより、Ubuntu 19.10および20.04 LTSに関しては一部ではあるものの32bitアプリケーションを使い続けることが可能になります。
- ]]></description>
-			<pubDate>Tue, 25 Jun 2019 03:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    アップル、Spotifyの苦情申し立てに反論。「有料会員の0.5％が支払ってるだけ」
 </title>
 			<link>https://japanese.engadget.com/2019/06/25/spotify-0-5/</link>
@@ -1238,6 +1229,19 @@ Personal Vaultは、オーストラリア、ニュージーランド、カナダ
 100GBへのアップデートは間もなく展開開始。OneDrive 365 Soloのアップデートは、今後数か月以内に利用可能になる予定です。
  ]]></description>
 			<pubDate>Wed, 26 Jun 2019 00:50:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    iOS/macOS用のiWorkがアップデート。テキスト表現や写真の顔検出機能が強化
+</title>
+			<link>https://japanese.engadget.com/2019/06/26/ios-macos-iwork/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Fc791a960-97ce-11e9-bdeb-6a91d1309d89&client=a1acac3e1b3290917d92&signature=9ba7848933025753b21443a387a18eef659ae432" />
+MIGUEL MEDINA via Getty Images
+
+アップルはiPad/iPhone/Mac向けの仕事効率向上アプリケーション「iWork」（Pages、Numbers、Keynote）をアップデートし、配信を開始しました。システム環境はiOS 11.0以降およびmacOS High Sierra 10.13以降となっています。
+
+今回のバージョンアップは、全アプリでのテキスト表現が大きく強化。ほか文書内での写真には顔の検出機能が搭載され、被写体がインテリジェントに配置されます。
+ ]]></description>
+			<pubDate>Wed, 26 Jun 2019 01:50:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
