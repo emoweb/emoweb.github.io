@@ -5,22 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Snapdragon搭載Chromebookこと「Trogdor」が開発中とのうわさ
-</title>
-			<link>https://japanese.engadget.com/2019/07/01/snapdragon-chromebook-trogdor/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2Fc69e8e50-9bd5-11e9-b7da-6c5636a924b4&client=a1acac3e1b3290917d92&signature=b2347a46706b56b8f8d1b7d042467165cce67ed2" />
-
-米クアルコムのSnapdragonプロセッサを搭載するChromebook「Trogdor」に関する噂が、海外から報告されています。
-
-海外テックサイトの9to5GoogleがChromiumの開発状況から入手した、今回の情報。確定情報ではありませんが、Trogdorには「Snapdragon 855」か2020年に投入される最新プロセッサ、あるいはもしかするとARM版Windows向けプロセッサこと「Snapdragon 8cx」が搭載されるかもしれません。クアルコムはIndia Todayに対し、「消費者からの要望があれば、Snapdragon 8cxを搭載したChromebookを投入する用意がある」と伝えています。
-
-なお、2018年にもSnapdragon 845を搭載したChromebook「Cheza」の情報が伝えられました。しかし実際には残念ながら製品は投入されていません。Chezaの計画が中止されたのかどうかはわかりませんが、Trogdorの投入は来年以降になることが予測されています。
-
-このようなChromebook用プロセッサの開発では、米インテルだけでなくAMDや中国MediaTekもプロセッサを供給しています。今後も、さらなるChromebookのラインナップ拡大を期待したいものです。
- ]]></description>
-			<pubDate>Mon, 01 Jul 2019 05:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    『ポケモンGO in さんりく』イベント開幕。岩手応援イシツブテなどいわポケモン増量、色違いも
 </title>
 			<link>https://japanese.engadget.com/2019/07/01/go-in/</link>
@@ -584,6 +568,15 @@ Spotifyはこの変更について「そのエネルギーを別の場所に使�
  
  ]]></description>
 			<pubDate>Tue, 02 Jul 2019 05:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    画像内のオブジェクトを自然に置き換えるAIをMITとIBMが開発
+</title>
+			<link>https://japanese.engadget.com/2019/07/02/mit-ibm-ai/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F531bcc40-9c9d-11e9-ab1e-37a83243e920&client=a1acac3e1b3290917d92&signature=728bc63f2addcad9bdbe182f9827ef5847ffda7e" />
+画像の中から指定の被写体を認識したり、その領域を自動で切り抜いたりといったことは、すでに画像編集ソフトや、スマートフォンのカメラアプリで実現していますが、そこからさらに進んで、オブジェクトを置き換えるなど自然な編集を行うAIが登場しました。
+ ]]></description>
+			<pubDate>Tue, 02 Jul 2019 05:30:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
