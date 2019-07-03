@@ -5,54 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Project Catalystスタッフ「なぜiPadアプリからMac移植なのか」を語る
-</title>
-			<link>https://japanese.engadget.com/2019/07/02/project-catalyst-ipad-mac/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F8dd29220-9c8d-11e9-b5d5-655e8ad5d47e&client=a1acac3e1b3290917d92&signature=ae93e9a8a1febdadf54d87040dc7fec485e0bf03" />
-iOSアプリの開発者がほとんど手間を掛けずにiPad用アプリをMacに移植できるとうたわれた「Project Catalyst」。その戦略的な狙いやアプリ開発の現状、今後の課題につき、アップル社内のマーケティングおよび開発チームに取材した詳細な内容が報じられています。
- ]]></description>
-			<pubDate>Tue, 02 Jul 2019 03:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    5G Xperia実験機、フジロックに投入へ　ソフバンが5Gプレサービス実施
-</title>
-			<link>https://japanese.engadget.com/2019/07/02/5g-xperia-5g/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2Fd802aec0-9c97-11e9-aa5b-ea2e4101bd94&client=a1acac3e1b3290917d92&signature=904f112f68732bba01719e7b9e69d3d11ead97a7" />
-ソフトバンクは、7月26〜29日に新潟県苗場スキー場で開催される音楽フェス「FUJI ROCK  FESTIVAL 19」 （以後、フジロック）において、5Gプレサービスを実施します。ソニーモバイルおよびシャープ製の5G実証実験用スマートフォンを投入します。
-
-（見出し画像はXperia XZ3）
-
-今回のプレサービスでは、フジロック公式YouTubeチャンネルが配信する映像を、5Gネットワークを通じて会場内のソフトバンクブースにあるVRヘッドセットで視聴できます。また、各エリアに設置した合計8台のカメラで撮影した会場の模様を5Gネットワークを通じて配信し、来場者は各エリアの混雑状況を確認できます。この混雑状況がわかるアプリ「FUJI ROCK '10 SoftBank 5G」は7月2日から無料配信します。
-
-会場に投入される5G実証実験用スマートフォンのうち、シャープ製はAQUOS R3ベースで、6GHz帯以下のSub-6および28GHz帯などのミリ波に対応。あくまで実験用で一般販売の予定はありません。一方、Xperiaシリーズを展開するソニーモバイル製端末の詳細は明かされていません。
-
-
-
-ソフトバンクを含む携帯キャリアは2020年春より5G商用サービスを開始予定。グローバルでは米国や韓国、英国などで既に5G商用サービスが始まっており、商用端末「Galaxy S10 5G」も既に発売されています。
- 
- ]]></description>
-			<pubDate>Tue, 02 Jul 2019 03:05:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Google、REP（ロボット排除規約）のWEB標準化を推進へ
-</title>
-			<link>https://japanese.engadget.com/2019/07/02/google-rep-web/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F6728eb80-9c81-11e9-b7cf-536cdd04b613&client=a1acac3e1b3290917d92&signature=2bc3ea166f370c9ccf44606f22364d12c5ee4ae4" />
-Googleは7月1日（現地時間）、検索エンジンがWEBサイトをクロールする際の動作を制御するRobots Exclusion Protocol (REP) の標準化を目指すと発表しました。すでにドラフト文書をIETF（Internet Engineering Task Force、インターネットで利用される技術の標準を策定する組織）に提出したとのこと。
-
-一般には聞きなれないREPですが、WEBサイトにかかわった人ならrobots.txtは聞いたことがあるかもしれません。検索エンジンにインデックスして欲しくないディレクトリなどを記述しておくものですが、この仕様がREPです。
-
-REPは、1994年にMartijn Koster氏によって考案され、事実上の標準として扱われているものの、公式にはインターネット標準ではありません。このため、クローラーによっては扱いが異なるなど、WEBマスターにとってはその記述に迷うこともありました。
-
-Googleとしては、こういった心配をなくすことで、WEBマスターやツールの開発者らを支援したいとしています。このため、IETFにドラフトを提出するだけではなく、Googleがrobots.txtの解析とマッチングに利用しているC++ライブラリをオープンソースとして公開しています。
-
-提出されたドラフトが標準化されるとは限りませんが、検索エンジンにかかわらず、WEBマスターの希望通りに検索結果に表示される（インデックスされる）ようになるのは、WEBマスターのみならず、閲覧者にとっても有用と言えそうです。
-
-   
- ]]></description>
-			<pubDate>Tue, 02 Jul 2019 03:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Chrome派生のBrave、独自開発の広告ブロッカーで従来比69倍速の広告除去を実現。MozillaのRust言語使用
 </title>
 			<link>https://japanese.engadget.com/2019/07/02/chrome-brave-69-mozilla-rust/</link>
@@ -563,6 +515,76 @@ OSはAndroid 9がベースで、独自のジェスチャー操作などを加え
 
  ]]></description>
 			<pubDate>Wed, 03 Jul 2019 01:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    超広角から60倍までカバー、「OPPO Reno 10x Zoom」のカメラを試す
+</title>
+			<link>https://japanese.engadget.com/2019/07/03/60-oppo-reno-10x-zoom/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2Fe03c2c70-9cbe-11e9-adfa-d6fe775f05ad&client=a1acac3e1b3290917d92&signature=a01d4c53f7db66164f1ce9a46ed376e6716b105c" />
+OPPO Japanが発表したOPPO Reno 10x Zoom。その目玉機能「10倍ズーム」を一足早く試してみました。
+
+OPPO Reno 10x Zoomは、OPPOのRenoシリーズ第1弾として登場したAndroidスマートフォン。「10倍ズーム」カメラのほかにも格納式インカメラでベゼルを抑えたデザインなど、見どころの多いスマートフォンです。
+
+
+
+▲インカメラやフラッシュライトが必要なシーンでは、ポップアップ機構が自動で展開する
+■超広角から60倍まで対応、ただし"画質が落ちない"のは6倍まで
+OPPO Renoの10倍ズーム機構は、2月の展示会「MWC 2019」で発表されたもの。正式名称は「10倍ハイブリッドズーム」といい、光学技術とデジタル（画像処理）の組み合わせにより、コンパクトなスマホカメラで高画質を実現したもの、とOPPOは説明しています。
+
+
+
+OPPO Reno 10x Zoomでは、背面に3つのカメラを搭載し、シームレスにつなぐことで、超広角から60倍までのズームを実現しています。超広角カメラは画角120度で焦点距離16mm、800万画素のIMX319センサーを搭載。メインカメラは広角26mmで、ソニーのIX586センサー（4800万画素）を採用。そして光学5倍以降をつなぐ望遠カメラは130mmのレンズに2300万画素のセンサーを搭載します。
+
+同社による「10倍ハイブリッドズーム」の定義は、「超広角域から光学10倍に当たる領域まで、800万画素相当の画質を維持する」もの、というもの。800万画素ではっきりと写れば、スマホのディスプレイなどデジタル機器で使う用途ではある程度の品質を確保できるでしょう。
+
+ところで、この"10倍"という、うたい文句にはやや語弊があります。OPPO Reno 10x Zoomの場合、広角のメインカメラを「1倍」として、超広角カメラは1以下の倍率になっています。一方で「10倍ハイブリッドズーム」の定義では、「1倍」の基準は「超広角カメラ」です。したがって、Reno 10x Zoomで800万画素相当を維持できるのは、「超広角カメラと、画面表示上で1〜6倍に相当する領域」になっています。
+
+実際に試しても、確かに画面表示上の「10倍」ではぶれやすくなったり、シーンによってはノイズが気になるなど、常用できるレベルには達しておらず、どうしてもズームしたい時に重宝する程度だと感じます。
+
+
+▲OPPO Renoの作例で画角を比較（倍率は画面表示を基準にしたもの）
+
+一方、デジタルズームでの画質劣化を厭わなければ、Reno 10x Zoomでは最大60倍までのズームが可能です。
+
+ただし、60倍ともなると、たとえSNSで共有するために撮った写真だとしても、手ブレに大きく影響されてしまうため、そもそも被写体にしっかりピントをあわせてシャッターを切るのも困難です。明るい日中でなければ暗くなってしまうため、さすがに普段から使うことはないでしょう。とはいえ、人間の視力ではよく見えない遠くの看板の文字がちゃんと読めたのには感心しました。
+
+<p><a href="https://japanese.engadget.com/gallery/reno/" title="Reno 10x Zoom作例">【ギャラリー】Reno 10x Zoom作例 (6枚)</a></p>
+
+ズーム性能が強調されているReno 10xズームですが、超広角カメラの使い勝手もなかなか新鮮です。超広角カメラは800万画素で決して明るく撮れるレンズではないものの、目で見た視界よりも広く切り取れるため、見慣れた風景を切り取っても、一味違う写真に仕上がります。たとえば街の風景やパレードを撮ってもダイナミックに写りますし、部屋の中でのポートレートで「もう少し引いて撮りたい」という時にも活躍します。
+
+もちろん、光学ズームや超広角レンズを搭載するカメラは古くから存在します。とはいえカメラで光学技術だけを用いてズームを実現しようとすると重たくなり、超広角レンズを使うにはレンズを交換する必要があります。
+
+
+▲街並みをダイナミックに切り取れるのが超広角の魅力
+▲超広角カメラは暗所撮影が苦手。しっかり構えないとぶれてしまいます
+
+OPPO Reno 10x Zoomは、ポケットに入るスマホで、気軽に超広角から高倍率の撮影が楽しめるという点に価値があると言えるでしょう。ただし、高倍率になるほど画質が落ちる、というのは当然Renoでも当てはまりますので、高倍率時の画質に関しては妥協も必要かもしれません。
+
+OPPO Reno 10x Zoomのライバルとなりそうなのは「HUAWEI P30 Pro」でしょう。こちらも超広角から光学50倍ズームまでの対応を謳っています。HUAWEI P30 ProはNTTドコモが今夏発売予定としていましたが、米国のファーウェイに対する取引停止令をうけて販売の見通しがあやうくなっている状況です。超広角から高倍率までカバーできるスマホがほしい、という向きにはOPPO Reno 10x Zoomも検討の余地がある一台と言えます。
+ ]]></description>
+			<pubDate>Wed, 03 Jul 2019 01:15:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    中国、新疆に入る旅行者のスマホに監視アプリを強制インストール
+</title>
+			<link>https://japanese.engadget.com/2019/07/03/chinamalware/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2Fb8b5eff0-9d4b-11e9-aafd-5c431d80571a&client=a1acac3e1b3290917d92&signature=1eb65da3d62e1dad3eb1b1a85067ec8176edf8f2" />
+VCG via Getty Images
+
+中国が新疆ウィグル自治区に入る外国人のスマートフォンに、監視アプリを強制的にインストールしているとの調査結果が報じられています。
+ ]]></description>
+			<pubDate>Wed, 03 Jul 2019 01:50:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    ズームだけじゃないOPPOの「Reno 10x Zoom」の使い勝手はいかに
+</title>
+			<link>https://japanese.engadget.com/2019/07/03/oppo-reno-10x-zoom/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F23b65d20-9cad-11e9-a995-fc14c00fb72d&client=a1acac3e1b3290917d92&signature=1da07a9867400e9c6e25aae3c4eefb62dd356e5d" />
+オッポジャパンは7月3日、新スマートフォン「Reno 10x Zoom」を国内向けに発表。同機は背面にトリプルカメラを備え、画質を落とさずに約10倍のズームが行えることに注目されていますが、そのほかの使い勝手はどうでしょうか。発売前の実機に触れる機会を得たので、本記事ではカメラ以外を中心としたインプレッションをお届けします。
+
+<p><a href="https://japanese.engadget.com/gallery/reno-10x-zoom/" title="Reno 10x Zoomを実機を触ってみて">【ギャラリー】Reno 10x Zoomを実機を触ってみて (12枚)</a></p>
+ ]]></description>
+			<pubDate>Wed, 03 Jul 2019 02:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
