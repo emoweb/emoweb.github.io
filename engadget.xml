@@ -5,73 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Chrome派生のBrave、独自開発の広告ブロッカーで従来比69倍速の広告除去を実現。MozillaのRust言語使用
-</title>
-			<link>https://japanese.engadget.com/2019/07/02/chrome-brave-69-mozilla-rust/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2Fa786d320-9c92-11e9-b7ff-23d9ee484fdd&client=a1acac3e1b3290917d92&signature=14c44f86a598d467452c7da5c7506a938ac2c6e5" />
-Googleが開発するChromeブラウザーからプロプライエタリな要素を取り除いたオープンソースブラウザーChromimは、いまやマイクロソフトのEdgeブラウザーをはじめOpera、VivaldiそしてBraveといった多数のブラウザーのベースとして使われています。
-
-Chromeを開発するGoogleはいまからひと月ほど前、ブラウザーに関する新たな変更提案「Manifest V3」にて、拡張機能として提供される広告ブロッカーによるWeb Request APIの使用を非推奨とし、新たに用意されたDeclarative Net Request APIを使うよう求めました。これはWeb Rquest APIで受け取ったコンテンツから広告ブロッカーが広告を認識して除去できていたところ、新APIではその処理をChromeブラウザー側に委ねる格好とするというものです。しかしそれは、第三者による広告ブロッカーが実質的に役立たずになる可能性を意味しており、Chromium系ブラウザーの広告ブロック機能はGoogleの広告ビジネスに都合良く動作するようにされてしまう可能性が指摘されています。
- ]]></description>
-			<pubDate>Tue, 02 Jul 2019 04:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Uberアプリで自転車やスクーターをより見つけやすく。米国の一部地域で展開開始
-</title>
-			<link>https://japanese.engadget.com/2019/07/02/uber/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F10ca97c0-9c9a-11e9-bafd-c9326e4ce27c&client=a1acac3e1b3290917d92&signature=9848af1cae0700f271b2743b338868808c088ff4" />
-
-米国時間7月1日より米国の一部地域にて、Uberアプリのトップ画面に電動自転車シェアリングのスタートアップ「JUMP」および「Lime」の自転車やスクーターが表示されるようになりました。
-
-TechCrunchによると、今回の変更は、アトランタとサンディエゴから適用を開始するとのこと。Uberは今後、より多くの地域にて電動アシスト自転車や電動スクーターを追加するとしています。なお、今後の展開に関して、具体的な計画は明かされていません。
-
-一方、Uberの新モビリティプラットフォーム部門を率いるBilly Guernier氏は、Engadgetに対して次のような声明を寄せています。
-
-私達は新たなモビリティをUberのアプリの中心に据えました。アトランタとサンディエゴを皮切りに、Uberのアプリを開いている利用者はJUMPの自転車やスクーター、そしてLimeのスクーターをホームライド画面で見ることができ、以前より簡単に新しいモビリティのオプションを選ぶことができます。交通手段が身近であればあるほど、車なしでも簡単に移動できるようになります。
-
-
-Uberは1年前にJUMPを買収し、今月にはJUMPのスクーターと自転車をアップグレードすると発表しました。さらに、UberはLimeとも提携しており、一部にはLimeを買収するのでは、という噂もあります。筆者も日常的にUberが提供するJUMPの電動アシスト自転車を利用していますが、気軽かつパワフルなJUMPの自転車は都市向け交通手段として、実に理にかなっている気がしています。
-
- 
- ]]></description>
-			<pubDate>Tue, 02 Jul 2019 04:30:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    消費者庁、LINEモバイルに措置命令　景表法違反で
-</title>
-			<link>https://japanese.engadget.com/2019/07/02/line/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2Fab7bfcf0-9ca4-11e9-afb7-6a0e19cf137a&client=a1acac3e1b3290917d92&signature=614e04d375071a5f530eaba8bdf82e622635752e" />
-消費者庁は7月2日、格安SIMサービスを提供する「LINEモバイル」に対し、景品表示法に違反する行為があったとして、措置命令を行ったと発表しました。
-
-発表によると、LINEモバイルはWEBページで『エントリーパッケージを事前にご購入いただくことで、お申し込み時に必要な登録事務手数料が無料になります』と記載。あたかも全てのプランの登録事務手数料が無料になるかのような表示をしていました。
-
-しかし、実際には「LINEフリープラン」の「データSIM」については登録事務手数料が無料とならず、その説明が不十分だったということです。
-
-
-
-この件が景表法上の優良誤認にあたるとして、消費者庁はLINEモバイルに措置命令を下し、再発防止を求めています。
- ]]></description>
-			<pubDate>Tue, 02 Jul 2019 04:50:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Spofityがインディーズアーティスト向けの直接楽曲アップロード機能を終了
-</title>
-			<link>https://japanese.engadget.com/2019/07/02/spofity/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F023c9a50-9c9f-11e9-b4a7-38a18bce07b2&client=a1acac3e1b3290917d92&signature=93cc9990808b0abf1e0c53fb11657f9205b7c022" />
-
-Spotifyはインディーズアーティスト向けにベータテストとして提供していた、楽曲を直接アップロードする機能の提供を終了すると発表しました。
-
-Spotifyはこの変更について「そのエネルギーを別の場所に使ったほうがいいと判断した」と伝えています。また、ミュージシャンからのフィードバックも、既存の配信パートナーとの協力を深めた方がいいことを示唆しています。
-
-今後、Spotifyは7月末にアップロード・プログラムによる新曲の受け付けを停止します。そしてミュージシャンは、Spotifyのほかに新たな配信プロバイダーを見つける必要があるでしょう。
-
-一見便利なようにも思える楽曲アップロード機能ですが、ミュージシャンはSpotifyによる独占配信を受け入れる必要があり、Apple MusicやDeezerなど他のサービスでの配信を利用するには、サード・ディストリビューターを経由する必要があります。そういった意味で、この機能は逆にミュージシャンの手間を増やしてしまったのかもしれません。
-
- 
- ]]></description>
-			<pubDate>Tue, 02 Jul 2019 05:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    画像内のオブジェクトを自然に置き換えるAIをMITとIBMが開発
 </title>
 			<link>https://japanese.engadget.com/2019/07/02/mit-ibm-ai/</link>
@@ -585,6 +518,65 @@ VCG via Getty Images
 <p><a href="https://japanese.engadget.com/gallery/reno-10x-zoom/" title="Reno 10x Zoomを実機を触ってみて">【ギャラリー】Reno 10x Zoomを実機を触ってみて (12枚)</a></p>
  ]]></description>
 			<pubDate>Wed, 03 Jul 2019 02:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    サムスン、折り畳みディスプレイ搭載スマホGalaxy Foldの再設計完了の報。発売は年末？
+</title>
+			<link>https://japanese.engadget.com/2019/07/03/galaxy-fold/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2Fb1716350-9d55-11e9-bbfd-ffb577935c9d&client=a1acac3e1b3290917d92&signature=604eecad3c09ed1ae7b2c9f0c1de04a68d3d0923" />
+韓国サムスン電子が、折りたたみディスプレイ搭載スマートフォンGalaxy Foldテスト機の、相次ぐ不具合報告から発売を延期していた件ですが、2か月を経てようやく折り畳み部分の再設計を終え、製品バージョン生産への最終段階にあると報じられました。
+ ]]></description>
+			<pubDate>Wed, 03 Jul 2019 02:20:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    auとソフトバンク、5Gで「基地局シェアリング」地方の基地局を共同で整備
+</title>
+			<link>https://japanese.engadget.com/2019/07/03/au-5g/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F2ef6ecf0-9d5b-11e9-abd7-848221755591&client=a1acac3e1b3290917d92&signature=011882b5cbde154fce6afc5cb19229b1458ec154" />
+KDDI（au）とソフトバンクは、地方における5G基地局の共同整備で合意しました。
+
+2020年から商用サービスがはじまる「5G」では、高速な通信が可能になったり、モノに通信機能を搭載するIoTがより展開しやすくなったりするという特徴があります。その5Gの要となる新しい周波数帯（28GHz帯や3.7GHz帯）は障害物に弱く、基地局をこれまでよりも多く配置する必要があります。そのための多額の設備投資を避けるために、「基地局シェアリング」の議論がなされてきました。
+
+KDDIとソフトバンクは、地方における基地局の効率的な整備で合意。基地局の工事設計、施行管理を行う会社を共同で立ち上げます。両社は今秋より北海道旭川市内、千葉県成田市内および広島県福山市内で試験的に展開するとしています。
+
+※写真はソフトバンクの5G基地局
+ 
+関連記事：
+5G普及のカギに？ "基地局シェア"でau、ソフトバンク、楽天がタッグ
+ ]]></description>
+			<pubDate>Wed, 03 Jul 2019 02:25:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    株式会社expeet が「Apple Entrepreneur Camp」に選出される。日本企業としては初
+</title>
+			<link>https://japanese.engadget.com/2019/07/03/expeet-apple-entrepreneur-camp/</link>
+			<description><![CDATA[     <img src="https://prtimes.jp/i/46412/1/resize/d46412-1-276849-0.png" />株式会社expeet (本社:東京都港区、代表取締役:若月舞子)は、Appleが女性起業家をサポートするアプリケーション開発プログラム「Apple Entrepreneur Camp」に日本企業としては初の採択を受けました。
+
+このプログラムは、女性の創業者、共同創業者であり、Apple のプラットフォームを活用した開発をおこなっていることが条件です。Apple Entrepreneur CampはApple のエンジニアによるサポート、デザインやマーケティング、新技術の活用について指導を受けたり、継続的なサポートやガイダンスを受けることができる他、翌年のWWDC(Apple が年に一度開く開発者会議)のチケットが提供されます。このプログラムを通し、世界各国の女性開発コミュニティに参加しインスピレーションを得たり、日本のみならず世界という視野でクリエイティビティに刺激を受け、今後の開発に活かす機会となることが期待されます。
+
+アメリカのカリフォルニア州クパチーノにある Apple本社にて、四半期単位でプログラムを開催し、各回世界から 最大20社が集います。株式会社expeet は 2019年7月におこなわれるプログラムに参加予定。
+
+【株式会社expeetについて】
+慶應義塾大学在学中に、代表取締役の若月舞子と、同級生の共同創業者兼取締役CCOの山村藍琳が2018年5月に創業。専門家に出会って縁をつくる新しいスキルシェアアプリ「expeet」を2018年9月リリース。expeetを通して、業種を超えたコラボレーションが起きたり、本来関わることのなかった同士での仕事が実現したり、信頼関係を築いて思いがけない助けを得られたりと言った「ご縁」を実現させる場を提供。
+
+・コーポレートサイト　https://expeet.com
+
+【参考 URL】
+・Apple、女性起業家をサポートするアプリケーション開発プログラムを発表 https://nr.apple.com/dE0h9d4R1i
+・アプリケーション開発者の収益が記録を更新する中で、Apple Entrepreneur Camp 初開催 https://nr.apple.com/dE0w1n6M0v
+ ]]></description>
+			<pubDate>Wed, 03 Jul 2019 02:40:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    アップル、伸び縮みする自動車用バンパー特許申請。アップルカーに採用？
+</title>
+			<link>https://japanese.engadget.com/2019/07/03/applebumper/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F7b48f270-9d55-11e9-95bf-05912161a6d0&client=a1acac3e1b3290917d92&signature=27a316d2a5c099239154c2605f28e6eb70814456" />
+USPTO
+
+アップルの自動運転車開発計画「Project Titan」は様々な紆余曲折を経ていますが、同社が伸び縮みするバンパーの特許を申請していることが報じられています。
+ ]]></description>
+			<pubDate>Wed, 03 Jul 2019 02:50:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
