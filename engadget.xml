@@ -5,60 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    FCCLが新13.3型ノートMHシリーズ発表。家庭内モバイルも狙う、手軽に使えるファンレス機
-</title>
-			<link>https://japanese.engadget.com/2019/07/10/fccl-13-3-mh/</link>
-			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-07/766b82e0-a2d2-11e9-8ffd-ff41b9964e17" />7月10日に発表された、富士通クライアントコンピューティング（FCCL）製の2019年夏モデルPC。その中でも一風変わったコンセプトのモデルが『FMV LIFEBOOK MHシリーズ』です。
-
-PCとしての枠組みは「CPUにインテルCore m系（TDP 5～6W）を採用した、ファンレス設計の13.3インチ・フルHDモバイルノートPC」となるのですが、この構成でありながらコンセプトは、パーソナル・モバイルのみならず家庭内・家族共用も狙う「ホームモバイルノートPC」という、ちょっとユニークなものです。
-
-発売予定日は7月18日。店頭予想価格は、360度ヒンジ搭載2-in-1（タブレット兼用）の上位モデル「MH75/D2」が17万円強、クラムシェル専用の廉価モデル「MH35/D2」が13万円弱です（両モデルともMicrosoft Office Hone&amp;Business 2019を搭載）。
-
- ]]></description>
-			<pubDate>Wed, 10 Jul 2019 01:40:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    第3世代AirPods、防水仕様で2019年末に発売？証券会社アナリストが予測
-</title>
-			<link>https://japanese.engadget.com/2019/07/10/3-airpods-2019/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F4b54cbe0-a2cb-11e9-bf47-799b0bf3a919&client=a1acac3e1b3290917d92&signature=eabea17b71fe9cf93821a1eeb9aecd7006e47c2b" />
-米証券会社のアナリストが、アップルが2019年後半に防水仕様の第3世代AirPodsをリリースするとの予測を発表しています。
- ]]></description>
-			<pubDate>Wed, 10 Jul 2019 01:50:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    アメリカ連邦裁判所いわく「トランプ大統領がTwitterユーザーをブロックするのは違法」。憲法修正第1条に抵触
-</title>
-			<link>https://japanese.engadget.com/2019/07/10/twitter-1/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F0b17f770-a2d3-11e9-ae73-4f111b68dd43&client=a1acac3e1b3290917d92&signature=e8a6c4ec4437d9d8b4e74793f5697f76e0b0f206" />
-Twitterユーザーは自分の意見を批判したり議論をふっかけてきて粘着するような相手に対してブロックするという手段を講じることができますが。ことアメリカ大統領にもなると、国民の声を分け隔てなく聞き入れる義務があるようです。アメリカ連邦控訴裁判所は、トランプ大統領が2017年にTwitterユーザーをブロックしたことで訴えられていた件に関し、満場一致でトランプ大統領のブロック行為が違法であるとの判決を下しました。
- ]]></description>
-			<pubDate>Wed, 10 Jul 2019 02:50:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Raspberry Pi 4、USB-C実装に不備。一部のケーブルで充電できない不具合
-</title>
-			<link>https://japanese.engadget.com/2019/07/10/raspberry-pi-4-usb-c/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F74b3b730-a2c6-11e9-b7ff-21d712be4805&client=a1acac3e1b3290917d92&signature=871082685c5be8e469f7d75e67d7f211d65bf158" />Raspberry Pi Foundationは6月末、Raspberry Pi 3から3年半ぶりとなる新モデルRaspberry Pi 4を発売しました。4K/60fps対応や、電源がUSB Type-C端子からになるなど、最新の仕様を取り入れたものですが、そのType-C端子に思わぬ不具合が発覚しています。
-
- 
-関連記事：
-4K動画対応のRaspberry Pi 4発売。4コア1.5GHzプロセッサ搭載、USB 3.0、RAM1GB～4GB
-
-不具合内容としては、ケーブルの電気的特性などを記録するeMakerを内蔵したUSB Type-Cケーブルを利用すると、Raspberry Pi 4に給電が行われないというもの。充電器やケーブルとの相性......ではなく、Raspberry Pi 4側の設計がUSB Type-Cの仕様に準拠してないために発生しています。
-
-USB Type-Cには、2つの信号チャンネルCC1とCC2があり、仕様上はそれぞれ独立した5.1k&Omega;抵抗を実装する必要があります。しかし、Raspberry Pi 4では1つの抵抗を共有する独自の実装を行っています。
-
-このため、eMaker内蔵ケーブルを使用すると、充電器側がRaspberry Pi 4をオーディオアクセサリ（USBイヤホンなど）と認識してしまい充電を行いません。なお、eMakerを内蔵しない（3Aまでしか流せない）ケーブルや、USB Type-A to Type-Cケーブルであれば、問題なく充電を行えます。
-
-Raspberry Pi側はこの問題を認めており、将来のリビジョンでは修正されるだろうとのこと。ただ、当面は、eMakerのないUSB 2.0のケーブルやUSB Type-A to Type-Cケーブル、あるいは、Raspberry Pi 4純正の充電器を使う必要があります。
-
-Raspberry Pi 4は、まだ日本では発売されていませんが、技適を取得し国内販売されるバージョンでは、正しい仕様に改修されているのを期待したいところです。
- 
- ]]></description>
-			<pubDate>Wed, 10 Jul 2019 03:50:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    「ハリポタ魔法同盟」と「ポケGO」をじっくり比較、マシンスペックやIP的に間口が狭いゲームかも……（岡安学）
 </title>
 			<link>https://japanese.engadget.com/2019/07/10/go-ip/</link>
@@ -1361,6 +1307,145 @@ Ewin 新型 キーボード bluetooth 折りたたみ ワイヤレス 小型 Blu
 
  ]]></description>
 			<pubDate>Wed, 10 Jul 2019 21:16:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    トランスフォーマー35周年記念 コンボイ司令BOX「コンボイゴールデントロフィー」＆「S.T.A.R.S.隊員セット」＆「戦え！超ロボット生命体　トランスフォーマー超全集」セット
+</title>
+			<link>https://japanese.engadget.com/2019/07/10/gf081-35-box-s-t-a-r-s/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-07/f66e7340-9edf-11e9-affa-94be3c60b9c3" />
+
+
+
+
+トランスフォーマー３５周年を記念して、幻と言われたあの「コンボイゴールデントロフィー」が初めて復刻！さらにその当時しか手に入らなかった「S.T.A.R.S.隊員セット」、てれびくん編集部が本気で作る「戦え！ 超ロボット生命体 トランスフォーマー超全集」の超豪華３点セットです。
+
+
+
+2000セット以上のお申し込みで実現！
+
+
+※発送は、国内に限ります。海外からのお申し込みは、受け付けておりません。
+お申し込みされた場合は、無効となりキャンセルさせていただきます。
+
+※システムの都合上、 コンビニ決済・ 銀行振込決済(ペイジー)は企画成立後に可能になります。paidy(来月コンビニ払い) は成立前にご利用いただけます。
+
+
+
+トランスフォーマー35周年記念
+
+コンボイ司令BOX
+
+
+
+トランスフォーマー35周年を記念して、超豪華グッズの数々をスペシャルセットにしてお届けします！
+
+
+
+&darr;&darr;&darr;商品内容はこちら！&darr;&darr;&darr;
+
+
+
+
+
+
+
+
+
+
+
+
+
+ぜひ奮って応募いただき皆さんの力で計画を達成させましょう！
+
+目標２０００BOX以上！！
+
+さらに３０００BOXを超えた場合は、秘密の特典もご用意しています！！
+
+
+
+＜商品名＞　
+
+トランスフォーマー３５周年記念 コンボイ司令BOX
+
+＜商品内容＞
+
+１、コンボイゴールデントロフィー
+
+２、S.T.A.R.S.隊員セット（T.Fコマンドセンター、メンバーズカード、T.Fバッジ、ポスター、トランスフォーマーブック）
+
+３、戦え！ 超ロボット生命体 トランスフォーマー超全集
+
+
+
+※通常版とマトリクスセットの２種類があります。
+
+※マトリクスセットでは先着５００名の方のお名前が「戦え！ 超ロボット生命体 トランスフォーマー超全集」本誌内ページに入ります。掲載の順番はこちらにおまかせください。
+
+※お名前掲載はプラン選択後、ご希望のお名前を入れられます。ただし公序良俗に反しているもの、あるいは編集部で不適切だと判断されたおものに関しては、あらためて別のお名前への変更をお願いさせていただく事があります。文字数は最大全角８文字以内、1文字の大きさは３．５ミリ程度の予定です。なお文字の色は指定できません。
+
+※通常のコンボイ司令BOXの超全集とマトリクス版の超全集は全く同じものになります
+
+※目標２０００BOXにお申し込みが達成して、初めて出版となります。目標に到達しなかった場合、お申し込みいただいていた金額は全額返金されますが、そのため、コンボイ司令BOXも届きません。
+
+※このサイト上のみでの販売になります。また、FAX・手紙・電話などでのお申し込みも受け付けておりません。
+
+
+
+商品についての詳しい情報はレガシーてれびくん公式サイトでご確認ください。
+
+レガシーてれびくん公式サイト：https://sho.jp/tele-san/
+
+
+
+お買い求めの前に、必ずお読みください。
+
+※コンボイゴールデントロフィーはできるだけ再現していますが、当時ものと材質、色等が異なります。
+
+※その他の商品も当時のものとは多少異なります。あらかじめご了承ください。
+
+※商品仕様や発送日は予告なく変更になる場合があります。
+
+
+
+&copy; TOMY 「トランスフォーマー」「TRANSFORMERS」は（株） タカラトミーの登録商標です。
+
+
+
+ ]]></description>
+			<pubDate>Wed, 10 Jul 2019 22:26:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    他キャリア版でも使えるXperia 1用シリコンハードケースがドコモで販売中
+</title>
+			<link>https://japanese.engadget.com/2019/07/10/xperia-1/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-07/4603ed20-a37e-11e9-bf93-ead31db36d33" />
+ドコモオンラインショップにて、「Xperia 1」（SO-03L）対応のシリコンハードケースが3456円で販売中です。
+
+表面には心地よく上質な手触りとグリップ感を備えたシリコン素材を採用。シリコン素材のケースは細かなホコリが付きやすいものですが、アンチダストコーティングを施しているので、カバンや衣類のポケットに入れていたとしてもホコリがつきにくい仕上がりとなっています。
+ ]]></description>
+			<pubDate>Wed, 10 Jul 2019 22:40:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    オリジナル版Switchも新SoCやメモリ搭載？任天堂が米FCCに申請
+</title>
+			<link>https://japanese.engadget.com/2019/07/10/switch-soc-fcc/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2Fcf906c70-a384-11e9-99ff-72236261e2bb&client=a1acac3e1b3290917d92&signature=c477f9f58ab807a9a257b75af514907d7bdeb3b7" />
+Nintendo
+
+任天堂はコントローラー一体型の廉価版Switchこと「Nintendo Switch Lite」を発表しましたが、その一方でオリジナルのNintendo Switchが仕様変更され、新タイプのSoCを搭載する可能性が浮上しています。
+ ]]></description>
+			<pubDate>Wed, 10 Jul 2019 22:50:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    はやぶさ2、小惑星リュウグウへの2度目のタッチダウン成功、正常に上昇を開始。サンプル採取成功に期待
+</title>
+			<link>https://japanese.engadget.com/2019/07/10/2-2/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2Fb2334050-a382-11e9-bdf7-66f3d902e166&client=a1acac3e1b3290917d92&signature=45579801b9cbead59f7cf661248848fb42f08696" />
+JAXAの小惑星探査機はやぶさ2が、小惑星リュウグウへの2度目のタッチダウンに成功しました。人工クレーターから露出した地中物質のサンプル採取成功が期待されます。
+
+日本時間10時24分ごろには、リュウグウへの降下から上昇に転じたはやぶさ2の速度が明らかな成功を示し、10時42分ごろにはアンテナを地球にむけてテレメトリー正常なテレメトリー受信を確認。そして10時52分、すべてのチェック項目で成功が確認されました。
+ ]]></description>
+			<pubDate>Wed, 10 Jul 2019 22:50:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
