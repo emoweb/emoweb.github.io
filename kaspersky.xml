@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>学校教育に迫るダークウェブ</title>
-			<link>https://blog.kaspersky.co.jp/school-hacking/23453/</link>
-			<description><![CDATA[成績を改ざんしたり、偽造した卒業証書をダークウェブから入手したりして、優秀な学業成績を不正に手に入れた学生たち。その手口とは？]]></description>
-			<pubDate>Mon, 24 Jun 2019 01:00:29 +0000</pubDate>
-		</item>
-		<item>
 			<title>Hoaxとは：どこから来たのか、なぜ危険なのか</title>
 			<link>https://blog.kaspersky.co.jp/what-is-hoax-report/23480/</link>
 			<description><![CDATA[検知名に見られる「Hoax」という判定は、どういう意味なのでしょうか。Hoaxと判定されるソフトウェアはなぜ問題となっているのでしょうか。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/british-airways-fined/23589/</link>
 			<description><![CDATA[British Airwaysは、昨年のデータ流出で最高額の制裁金を支払うことになるかもしれません。]]></description>
 			<pubDate>Thu, 11 Jul 2019 01:00:35 +0000</pubDate>
+		</item>
+		<item>
+			<title>Sodin：MSPを通じて侵入するランサムウェア</title>
+			<link>https://blog.kaspersky.co.jp/sodin-msp-ransomware/23581/</link>
+			<description><![CDATA[MSPのインフラまたはOracle Weblogicの脆弱性を利用して侵入し、感染したシステムを暗号化するランサムウェア]]></description>
+			<pubDate>Fri, 12 Jul 2019 04:00:58 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
