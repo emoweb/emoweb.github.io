@@ -5,38 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Android Q ベータ5公開。ジェスチャー操作を調整
-</title>
-			<link>https://japanese.engadget.com/2019/07/11/android-q-5/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F8330d4c0-a3be-11e9-b7a7-fdc94076292d&client=a1acac3e1b3290917d92&signature=d65f75d7173df593dfad214cbd8c68b57009adec" />
-Googleは7月10日（現地時間）、Androidの次期バージョンとなるAndroid Q（Android 10）のベータ5を公開しました。
-
-さすがにベータ5までくると目立った変更点はないのですが、フルジェスチャーナビゲーションでのGoogleアシスタントの起動方法が改善されています。
-
-ベータ3から導入されたフルジェスチャーナビゲーションは、戻るボタンも廃止されたiPhone Xシリーズの操作に似たナビゲーションです。
-
- 
-関連記事：
-Android Qベータ3配信開始。新ジェスチャー操作やダークテーマをサポート 
-
-AndroidでGoogleアシスタントの起動といえば、ホームボタンの長押しが定番でしたが、フルジェスチャーナビゲーションではそもそもホームボタンという概念がなくなってしまったので、同じ方法が使えません。このため、Googleアシスタントの起動方法が、左右下側コーナーからのスワイプという操作に変更されていました。
-
-ベータ5ではより分かりやすく、ロック解除直後などに下隅にバーが表示されるようになっています。
-
- 
-
-
-また、左端からメニュー（ナビゲーションドロワー）を表示するアプリの場合、左右のエッジからのスワイプが「戻る」動作になったため、動作が妨げられていました。この部分も調整され、メニューを掴んだことがわかるピーク動作が追加されています。
-
-なお、このフルジェスチャーナビゲーションですが、カスタムランチャーと使用する場合に、安定性の問題が残っているようです。このため、ベータ6以降、デフォルトでカスタムランチャーを利用している場合には、従来の3つボタンナビゲーションに切り替えられるようです。すべてのランチャーでフルジェスチャーナビゲーションを利用するには、しばらく待つ必要があるかもしれません。
-
-Android Qは、この後、最終ベータとなるベータ6を経て、第3四半期（例年通りなら8月）に正式公開される予定です。
-
-
- ]]></description>
-			<pubDate>Thu, 11 Jul 2019 23:20:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    セブン-イレブンで20%還元祭り。LINE Payなら23.5%以上の還元に
 </title>
 			<link>https://japanese.engadget.com/2019/07/11/20-line-pay-23-5/</link>
@@ -1041,6 +1009,17 @@ Deffは、「Xperia 1」向けのアルミニウムバンバー「CLEAVE A
 
  ]]></description>
 			<pubDate>Fri, 12 Jul 2019 21:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    iFixit、最新MacBook Proエントリーモデルを分解。前世代よりバッテリー少し増量
+</title>
+			<link>https://japanese.engadget.com/2019/07/12/ifixit-macbook-pro/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-07/55176c20-a517-11e9-b5ef-57b61785bae9" />
+iFixit
+
+アップルの新製品が発売されたら即分解でおなじみの修理業者iFixitが、先日発表されたばかりの新型13インチMacBook Proエントリーモデルをさっそく分解し、前モデルから変更となった点を検証しています。
+ ]]></description>
+			<pubDate>Fri, 12 Jul 2019 23:10:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
