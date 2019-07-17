@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Hoaxとは：どこから来たのか、なぜ危険なのか</title>
-			<link>https://blog.kaspersky.co.jp/what-is-hoax-report/23480/</link>
-			<description><![CDATA[検知名に見られる「Hoax」という判定は、どういう意味なのでしょうか。Hoaxと判定されるソフトウェアはなぜ問題となっているのでしょうか。]]></description>
-			<pubDate>Tue, 25 Jun 2019 02:00:24 +0000</pubDate>
-		</item>
-		<item>
 			<title>どこかおかしい画像編集アプリ</title>
 			<link>https://blog.kaspersky.co.jp/malicious-camera-app/23498/</link>
 			<description><![CDATA[Google Playで配信されている写真編集アプリが、望んでもいない定額制サービスをこっそりと申し込む。その仕組みとは？]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/sodin-msp-ransomware/23581/</link>
 			<description><![CDATA[MSPのインフラまたはOracle Weblogicの脆弱性を利用して侵入し、感染したシステムを暗号化するランサムウェア]]></description>
 			<pubDate>Fri, 12 Jul 2019 04:00:58 +0000</pubDate>
+		</item>
+		<item>
+			<title>TLS 1.3への移行でネットワークの監視に影響―見落とす可能性のあるポイント</title>
+			<link>https://blog.kaspersky.co.jp/network-security-within-tls1-3/23598/</link>
+			<description><![CDATA[より安全なデータ通信を実現するTLS 1.3は、企業のネットワーク監視能力にどんな影響を及ぼすのでしょうか。]]></description>
+			<pubDate>Wed, 17 Jul 2019 01:00:46 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
