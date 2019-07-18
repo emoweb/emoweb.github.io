@@ -5,38 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Apple、iOS13などで採用する新しい絵文字を発表。義手や車いすなども追加
-</title>
-			<link>https://japanese.engadget.com/2019/07/17/apple-ios13/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F35275ab0-a837-11e9-bbfb-197798cca2bc&client=a1acac3e1b3290917d92&signature=af067a01a50fc0bf9d1af70be68a79ef74019555" />7月17日の世界絵文字デーにあわせ、Appleが今秋追加予定の新しい絵文字を公開しました。iOS 13やiPad OS、macOS Catalinaなどに採用されます。
-
-これらの絵文字は、3月5日に正式発表となったUnicode 12.0に準拠したもの。ちなみに5月7日には、日本の新元号が追加されたUnicode 12.1も発表されています。
-
- 
-関連記事：
-2019年の新しい絵文字、最終案230種をUnicodeが公開。正式採用は秋ごろ
-
-新絵文字では、ナマケモノやフラミンゴ、オラウータンなどの動物や、タマネギやワッフル、バターなどの食べ物、あくびを表すスマイリーや、ワンピースの水着などが追加。カップルが手をつなぐ絵文字も更新され、性別や肌の色など75以上の組み合わせが可能となります。
-
-また、Appleは2018年3月にUnicodeコンソーシアムに障害者をテーマにした絵文字の採用を提案しており、これらもUnicodeに正式採用されています。今秋には、盲導犬や義手・義足、車いす、補聴器などの絵文字も使えるようになります。
-
- 
-関連記事：
-Apple、障がいをもつ人々を表現する絵文字をユニコードコンソーシアムに提案
-
-なお、同様の絵文字は、GoogleもAndroid Qのベータ版で対応しており、Apple端末でしか利用できないという状況にはなりません。
-
-
-
-
-
-
-Unicode 12.0では多様な肌色に対応しましたが、Unicodeコンソーシアムは他の絵文字についても、色のバリエーションを増やすことを検討しています。やみくもに絵文字を増やすのではなく、絵文字の色を変更可能にする仕組みを考えているとのこと。この仕様はUnicode 13.0で採用される可能性がありますが、詳細は7月の会議で議論される予定です。
-Android Qに絵文字64種類が追加。うち53種類が男女区別あいまいな人物のデザイン
- ]]></description>
-			<pubDate>Wed, 17 Jul 2019 01:50:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    macOS向けセキュリティアップデート配信。Webカメラが勝手に起動される脆弱性を修正
 </title>
 			<link>https://japanese.engadget.com/2019/07/17/macos-web/</link>
@@ -682,6 +650,17 @@ Galaxy S10+ 「東京2020オリンピックエディション」ドコモが1万
 
  ]]></description>
 			<pubDate>Thu, 18 Jul 2019 05:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Google Playから「ストーカーアプリ」7本が削除。恋人などのスマホを密かに監視する目的
+</title>
+			<link>https://japanese.engadget.com/2019/07/18/google-play-7/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F8a98dec0-a921-11e9-a3fd-ad7da25e7620&client=a1acac3e1b3290917d92&signature=cd87c7c58168375edc8c311c5cc1cc6e36810382" />
+ユーザーにアプリをインストールさせ、個人情報をこっそり抜き取るスパイウェアは以前から何度も話題に上がりますが、世の中には特定の人を監視する目的とする、俗に「ストーカーアプリ」と呼ばれる種類も存在します。従業員や恋人などのスマートフォンにアプリをインストールし、その位置情報やメール、電話の内容などを監視する目的のアプリです。
+
+非合法な雰囲気があり、アプリの入手自体が難しそうですが、意外なことにGoogle Playから普通にダウンロード可能だったようです。そんなストーカーアプリ7本が、Google Playから削除されました。
+ ]]></description>
+			<pubDate>Thu, 18 Jul 2019 06:10:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
