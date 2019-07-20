@@ -5,22 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ティム・クックがTwitterで京アニ火災について哀悼の意を表明
-</title>
-			<link>https://japanese.engadget.com/2019/07/18/twitter/</link>
-			<description><![CDATA[     <img src="https://s.aolcdn.com/hss/storage/midas/90b158a1ccccacc501b6d86972b422f/205374552/maincok.jpg" />
-Apple CEOのティム・クックは7月19日、自身のTwitterにて京都アニメーションの火災について哀悼の意を表明。京都アニメーションが制作した作品は世代を越えて喜びを広めているとし、最後に日本語で「心よりご冥福をお祈りいたします。」とコメントし、犠牲者の方々の死を悼みました。
-
-Kyoto Animation is home to some of the world's most talented animators and dreamers - the devastating attack today is a tragedy felt far beyond Japan. KyoAni artists spread joy all over the world and across generations with their masterpieces. 心よりご冥福をお祈りいたします。
-- Tim Cook (@tim_cook) July 18, 2019
-
-京都アニメーションの火災は7月18日の10時35分頃に発生し、京都府警によると33人の死亡が確認されています。安倍総理大臣をはじめ著名人や各国の大使館などが哀悼の意をTwitterでつぶやきました。
- 
-
- ]]></description>
-			<pubDate>Thu, 18 Jul 2019 20:24:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    5Gスマホを韓国で契約してみた。1Gbpsをリアルに体験！
 </title>
 			<link>https://japanese.engadget.com/2019/07/18/5g-1gbps/</link>
@@ -517,6 +501,31 @@ https://japanese.engadget.com/about/editors/weekly-topics/
 
  ]]></description>
 			<pubDate>Fri, 19 Jul 2019 20:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Chrome 76、WEBサイト側からのシークレットモード検出を制限
+</title>
+			<link>https://japanese.engadget.com/2019/07/19/chrome-76-web/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F8c99c050-a9fc-11e9-bedd-119f33571745&client=a1acac3e1b3290917d92&signature=71eb2df68dbc9832ef61ceb4ea5b0cf2caf15e6f" />閲覧履歴などを残さずにWEBサイトを閲覧できる、Chromeのシークレットモード。しかしながら、シークレットモードでの閲覧を許さず、そのサイトへのログインや通常モードでの閲覧を要求するサイトもあります。
+
+Googleは、そもそもシークレットモードで閲覧しているのをサイト側で検出できること自体が問題だと考えており、この検出に使われているFileSystem APIを修正し検出できないようにすると発表しました。7月30日にリリース予定のChrome 76から対応されるとのこと。2月に話題が出ていた内容が、正式に発表された格好です。
+
+ 
+関連記事：
+Chromeのシークレットモード、Webサイト側での検出ができないように修正へ
+
+シークレットモードを利用する理由は人それぞれですが、中にはパートナーの暴力から逃れるため、あるいは政治的な理由から匿名の維持が必要不可欠という人もいると考えられます。こういった人々を含め、利用者のプライバシーを尊重するのがプライベートブラウジングの原則だとしています。
+
+一方で、ほとんどのWEBサイトはシークレットモードで何に問題もなく閲覧できますが、たとえば月3本まで記事の閲覧が無料といったスタイルのメディアでは、シークレットモードでの閲覧を制限しているところもあります。何本閲覧したかはCookieなどで管理されており、シークレットモードではこれが利用できないためです。
+
+Googleとしては、この制限の必要性を認識しているものの、プライベートブラウジングの原則と照らし合わせれば、容認できないとの判断に至ったようです。このため、シークレットモードでの閲覧を制限しているサイトに対しては、もっと寛容な無料閲覧を設定したり、すべての記事閲覧に無料ユーザー登録を必須にするなどのオプションを提案しています。
+
+1つの方法を遮断しても、また別の識別方法が登場するのではと考えられますが、どういった方向に進むのであれ、ユーザーに不利益がない方法となることを期待したいものです。
+
+ 
+
+ ]]></description>
+			<pubDate>Fri, 19 Jul 2019 21:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
