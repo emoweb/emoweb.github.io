@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>暗号化されてしまった都市</title>
-			<link>https://blog.kaspersky.co.jp/encrypted-city-administrations/23534/</link>
-			<description><![CDATA[米国フロリダ州レイクシティ市が、ランサムウェアの新たな犠牲者に。同市は犯罪者への支払いを決断しました。]]></description>
-			<pubDate>Wed, 03 Jul 2019 01:00:36 +0000</pubDate>
-		</item>
-		<item>
 			<title>スマートホームをハッキングしてみた（それも、上司の）</title>
 			<link>https://blog.kaspersky.co.jp/hacking-things/23540/</link>
 			<description><![CDATA[スマートホームに対するハッキング実験。ハッキングされてしまった場合、スマートホームの住人に大きな影響が及ぶことが判明しました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/how-to-update-ios-android-apps/23562/</link>
 			<description><![CDATA[スマートフォンのアプリが自動更新されない… 更新をどこで設定したらいいか分からない… そんな悩みにお答えします。]]></description>
 			<pubDate>Mon, 22 Jul 2019 01:00:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>リモートアクセス：詐欺師の狙いは</title>
+			<link>https://blog.kaspersky.co.jp/remote-access-scams/23585/</link>
+			<description><![CDATA[他人のコンピューターに入り込んで重要な情報を盗む方法として、何らかの口実をつけてリモートアクセス用のツールを入れさせるという手口があります。具体例を見てみましょう。]]></description>
+			<pubDate>Tue, 23 Jul 2019 01:00:01 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
