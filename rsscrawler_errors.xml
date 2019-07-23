@@ -5,7 +5,7 @@
 		<link> </link>
 		<description> </description>
 		<item>
-			<title>2019-07-24 04:09:15 +0900</title>
+			<title>2019-07-24 05:10:51 +0900</title>
 			<link> </link>
 			<description><![CDATA[<strong>kaspersky</strong><br/><p>#&lt;OpenURI::HTTPError: 502 Bad Gateway&gt;
 in
@@ -26,7 +26,7 @@ in
 /data/src/rss_crawler/src/pipes/simple_pipes.rb:11:in `block (2 levels) in &lt;top (required)&gt;&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:44:in `crawl_rss&#39;
 /data/src/rss_crawler/src/rss_crawler.rb:58:in `block (2 levels) in crawl_all&#39;</p>]]></description>
-			<pubDate>Wed, 24 Jul 2019 04:09:15 +0900</pubDate>
+			<pubDate>Wed, 24 Jul 2019 05:10:51 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
