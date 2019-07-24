@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>スマートホームをハッキングしてみた（それも、上司の）</title>
-			<link>https://blog.kaspersky.co.jp/hacking-things/23540/</link>
-			<description><![CDATA[スマートホームに対するハッキング実験。ハッキングされてしまった場合、スマートホームの住人に大きな影響が及ぶことが判明しました。]]></description>
-			<pubDate>Thu, 04 Jul 2019 04:00:50 +0000</pubDate>
-		</item>
-		<item>
 			<title>デジタルステガノグラフィーとは</title>
 			<link>https://blog.kaspersky.co.jp/digital-steganography/23548/</link>
 			<description><![CDATA[それは、非常に独創的な情報隠蔽方法。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/remote-access-scams/23585/</link>
 			<description><![CDATA[他人のコンピューターに入り込んで重要な情報を盗む方法として、何らかの口実をつけてリモートアクセス用のツールを入れさせるという手口があります。具体例を見てみましょう。]]></description>
 			<pubDate>Tue, 23 Jul 2019 01:00:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Disclose.ioと共に信頼関係の構築を</title>
+			<link>https://blog.kaspersky.co.jp/kaspersky-joins-disclose-io/23601/</link>
+			<description><![CDATA[セキュリティリサーチャーに「セーフハーバー」を提供するDisclose.ioプロジェクトにKasperskyも参加します。]]></description>
+			<pubDate>Wed, 24 Jul 2019 04:00:20 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
