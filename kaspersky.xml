@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>デジタルステガノグラフィーとは</title>
-			<link>https://blog.kaspersky.co.jp/digital-steganography/23548/</link>
-			<description><![CDATA[それは、非常に独創的な情報隠蔽方法。]]></description>
-			<pubDate>Mon, 08 Jul 2019 01:00:28 +0000</pubDate>
-		</item>
-		<item>
 			<title>リモートサポートサービスが企業のリスク要因に</title>
 			<link>https://blog.kaspersky.co.jp/dangerous-remote-access/23556/</link>
 			<description><![CDATA[人手が不足する中では、従業員自身が業務用ソフトウェアのインストールや設定をすることも。トラブル時に頼った外部の人間が、会社のリスクになるかもしれません。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/kaspersky-joins-disclose-io/23601/</link>
 			<description><![CDATA[セキュリティリサーチャーに「セーフハーバー」を提供するDisclose.ioプロジェクトにKasperskyも参加します。]]></description>
 			<pubDate>Wed, 24 Jul 2019 04:00:20 +0000</pubDate>
+		</item>
+		<item>
+			<title>スマートホームのハッキング</title>
+			<link>https://blog.kaspersky.co.jp/vulnerable-smart-home/23650/</link>
+			<description><![CDATA[防犯カメラを、スマートライトのスイッチ経由でハッキング？スマートホームの興味深い脆弱性をご紹介します。]]></description>
+			<pubDate>Thu, 25 Jul 2019 04:00:43 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
