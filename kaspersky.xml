@@ -5,18 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>情報流出のコストが約250億円に</title>
-			<link>https://blog.kaspersky.co.jp/british-airways-fined/23589/</link>
-			<description><![CDATA[British Airwaysは、昨年のデータ流出で最高額の制裁金を支払うことになるかもしれません。]]></description>
-			<pubDate>Thu, 11 Jul 2019 01:00:35 +0000</pubDate>
-		</item>
-		<item>
-			<title>Sodin：MSPを通じて侵入するランサムウェア</title>
-			<link>https://blog.kaspersky.co.jp/sodin-msp-ransomware/23581/</link>
-			<description><![CDATA[MSPのインフラまたはOracle Weblogicの脆弱性を利用して侵入し、感染したシステムを暗号化するランサムウェア]]></description>
-			<pubDate>Fri, 12 Jul 2019 04:00:58 +0000</pubDate>
-		</item>
-		<item>
 			<title>TLS 1.3への移行でネットワークの監視に影響―見落とす可能性のあるポイント</title>
 			<link>https://blog.kaspersky.co.jp/network-security-within-tls1-3/23598/</link>
 			<description><![CDATA[より安全なデータ通信を実現するTLS 1.3は、企業のネットワーク監視能力にどんな影響を及ぼすのでしょうか。]]></description>
@@ -63,6 +51,18 @@
 			<link>https://blog.kaspersky.co.jp/kaspersky-rebranding-in-details/23777/</link>
 			<description><![CDATA[新しいブランドを、私たちはどのように作り上げたか。]]></description>
 			<pubDate>Mon, 29 Jul 2019 01:00:45 +0000</pubDate>
+		</item>
+		<item>
+			<title>コンピューターやインターネットを利用するときのヒント</title>
+			<link>https://blog.kaspersky.co.jp/can-you-just/23665/</link>
+			<description><![CDATA[コンピューターやインターネットを利用する中で、ちょっと困ったときのヒント。]]></description>
+			<pubDate>Tue, 30 Jul 2019 03:45:10 +0000</pubDate>
+		</item>
+		<item>
+			<title>増え続ける「ちょっとお願い」問題 〜ITリテラシーの世代間ギャップに関するグローバル意識調査〜</title>
+			<link>https://blog.kaspersky.co.jp/can-you-just-report/23701/</link>
+			<description><![CDATA[Kasperskyのグローバル調査では、ITリテラシーの世代間ギャップが人間関係に影響している様子が垣間見えました。]]></description>
+			<pubDate>Tue, 30 Jul 2019 03:45:16 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
