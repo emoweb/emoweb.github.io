@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>TLS 1.3への移行でネットワークの監視に影響―見落とす可能性のあるポイント</title>
-			<link>https://blog.kaspersky.co.jp/network-security-within-tls1-3/23598/</link>
-			<description><![CDATA[より安全なデータ通信を実現するTLS 1.3は、企業のネットワーク監視能力にどんな影響を及ぼすのでしょうか。]]></description>
-			<pubDate>Wed, 17 Jul 2019 01:00:46 +0000</pubDate>
-		</item>
-		<item>
 			<title>日本の大学を狙うフィッシングキット</title>
 			<link>https://blog.kaspersky.co.jp/phishkit-for-jp-universities/23639/</link>
 			<description><![CDATA[ある大学を狙うフィッシングサイト構築用の「フィッシングキット」が見つかりました。興味深い解析結果。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/can-you-just-report/23701/</link>
 			<description><![CDATA[Kasperskyのグローバル調査では、ITリテラシーの世代間ギャップが人間関係に影響している様子が垣間見えました。]]></description>
 			<pubDate>Tue, 30 Jul 2019 03:45:16 +0000</pubDate>
+		</item>
+		<item>
+			<title>今すぐiOS 12.4へのアップデートを</title>
+			<link>https://blog.kaspersky.co.jp/ios-critical-vulnerabilities-124/23807/</link>
+			<description><![CDATA[iOSデバイス上でのリモートコード実行とデータの窃取を許す、iMessageの深刻な脆弱性が6つ見つかりました。すぐに最新のiOS 12.4にアップデートしましょう。]]></description>
+			<pubDate>Wed, 31 Jul 2019 10:50:17 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
