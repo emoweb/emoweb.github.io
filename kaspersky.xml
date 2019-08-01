@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>日本の大学を狙うフィッシングキット</title>
-			<link>https://blog.kaspersky.co.jp/phishkit-for-jp-universities/23639/</link>
-			<description><![CDATA[ある大学を狙うフィッシングサイト構築用の「フィッシングキット」が見つかりました。興味深い解析結果。]]></description>
-			<pubDate>Thu, 18 Jul 2019 04:00:57 +0000</pubDate>
-		</item>
-		<item>
 			<title>市販のスパイウェア「FinSpy」</title>
 			<link>https://blog.kaspersky.co.jp/finspy-commercial-spyware/23625/</link>
 			<description><![CDATA[FinSpyは合法的に販売されているスパイウェアで、Android、iOS、Windows、macOS、Linuxに対応しています。FinSpyは何をするのか、自衛のために何ができるのか。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/ios-critical-vulnerabilities-124/23807/</link>
 			<description><![CDATA[iOSデバイス上でのリモートコード実行とデータの窃取を許す、iMessageの深刻な脆弱性が6つ見つかりました。すぐに最新のiOS 12.4にアップデートしましょう。]]></description>
 			<pubDate>Wed, 31 Jul 2019 10:50:17 +0000</pubDate>
+		</item>
+		<item>
+			<title>余計なものまでブロックせずにワークステーションを保護するには</title>
+			<link>https://blog.kaspersky.co.jp/adaptive-anomaly-control-kesb/22796/</link>
+			<description><![CDATA[脆弱性があるソフトウェア機能をブロックしておけば、攻撃対象領域を狭めることができます。しかし、業務プロセスに影響が出ない程度にソフトウェアの機能をブロックするには、どうすればいいのでしょうか。]]></description>
+			<pubDate>Thu, 01 Aug 2019 04:00:21 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
