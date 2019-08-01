@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>第3世代Ryzen向けの新電源プラン、アイドル/低負荷時の問題が解消 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1199341.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1199/341/1_o.jpg"></div></div><span class="caption">従来の電源プランの場合のオシロスコープで見た第3世代Ryzenの電圧変動。CPPC2の機能により、アイドル時でも1ms単位で電圧が上下している</span></div></div></div></div><p>　<a href="https://www.amd.com/ja" class="n" target="_blank">AMD</a>は30日(米国時間)、チップセット・ドライバ バージョン1.07.29を公開した。</p><p>　このバージョンでは、第3世代Ryzen向けのAMD Ryzen Blanced電源プランをアップデートし、アイドル時や低負荷時でも電圧とクロックが高い状態にあるように見える問題を解消した。</p><p>　第3世代Ryzenでは新たに「Collaborative Power and Performance Control(UEFI CPPC2)」という機能を実装しており、プロセッサ自身のファームウェアにより、1ms単位で電圧とクロックを調節している。このため、アイドル時や低負荷な処理でも電圧やクロックが1ms周期で激しく変動しており、多くのソフトウェアは1ms単位でモニタリングできないため、あたかもプロセッサがつねに高クロックに留まっているように見えてしまう。</p><p>　そのため、チップセットドライバ1.07.29ではCPPC2の感度を調整し、Windows 10 May 2019 Updateが当たっている環境では、アイドルもしくは低負荷時では、従来と同じ15msインターバルでクロック変動を行なうようにした。これにより多くのブーストリクエストをフィルタリングする。</p><p>　また、アイドル/低負荷時の挙動も変更し、プロセッサコアがパワーゲーティングもしくはスリープしていない場合には、ベースクロックの99%の速度で動作させるようにした(たとえばRyzen 7 3700Xの場合、3,600MHzがベースクロックのため、アイドル時は3,564MHz±0.08%となる)。これにより、アプリケーションが簡単にCPUブーストを引き起こせるようにした。</p><p>　なお、CPUクロックがブーストされているあいだは、1ms間隔のクロック/電圧調整を維持する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1199/341/2_o.jpg"></div></div><span class="caption">チップセットドライバ1.07.29を当てた場合の電圧変動。間隔が15msとなったため、低負荷時に多くの不要なブースト動作が削減されている。また、プロセッサのパワーゲーティングもうまく動いている(電圧の谷間)</span></div></div></div></div><p>　また、1.07.29ではゲーム「Destiny 2」起動時の問題もベータとして暫定的に対処している。</p><p>　このほか、「AMD Ryzen Master」もバージョン2.0.1.1233に刷新。新バージョンでは電圧および温度報告の手法をアップデートしたことで、モニタリング精度を強化している。</p><p>　さらに、BIOSに含まれる「AGESA 1003ABB」へのアップデートも予告。このバージョンではWindowsイベントログに「イベント17, WHEA-Logger」が残る問題を修正する。AGESA 1003ABBへの更新は、各種マザーボードベンダーの品質信頼性テストをクリアしたのち、各社から提供される。</p></div></div>]]></description>
-			<pubDate>Wed, 31 Jul 2019 18:03:27 +0900</pubDate>
-		</item>
-		<item>
-			<title>【やじうまPC Watch】フルカラーに見えるこの動画、じつはほぼモノクロ</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1199354.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/7jJ10OZH2SU?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div></div></div></div></div><p>　デジタルメディア用ツールなどの開発者であるØyvind Kolås氏が、ほとんどモノクロでありながら、フルカラーのように見える動画をYouTubeに公開している。</p><p>　動画は、基本的にはモノクロだが、斜め状の格子線にオブジェクトにあわせた色がつけられている。ざっと9割方はグレースケールのドットで構成されているのだが、格子線により人間の視覚が色の範囲を補間し、全体的にフルカラーのように見える。とくに、サムネールや目を細めると補間がより顕著になる。</p><p>　氏はこの技術を使った動画を作成するためのプログラムも公開している。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1199/354/01_o.png"></div></div><span class="caption">こちらは同じ技術を使った静止画</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Wed, 31 Jul 2019 18:16:51 +0900</pubDate>
-		</item>
-		<item>
 			<title>【やじうまPC Watch】海外企業の約3割、いまだネットワーク内にWindows XPマシンが存在</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1199378.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1199/378/1_o.jpg"></div></div></div></div></div></div><p>　海外ITベンダー<a href="https://www.spiceworks.com/" class="n" target="_blank">Spiceworks</a>の調査によると、北米およびヨーロッパの企業のうち32%において、少なくとも1台以上のWindows XPマシンがネットワーク内に接続されているという。</p><p>　Windows XPは2014年にサポートが終了したものであるが、企業のサイバーセキュリティに対する意識の低さがこの結果を招いているようだ。</p><p>　また、これらの企業のうちの79%が、2020年にサポート終了を迎えるWindows 7を使用しているが、このうちの25%の企業が、サポート終了以降も新OSに移行する予定がないと答えている。</p><p>　調査した企業のうち、53%がサイバーセキュリティに関する専門家が社内におらず、17%の企業が暗号化を一切使用していない、27%の企業がデータ漏洩に対応できないと答えているなど、やはり企業のサイバーセキュリティに関する意識の低さが露呈している。</p><p>　調査は2019年6月に489人のIT管理者に対して行なわれた。このうち100人未満の中小企業が37%、1,000人未満の中企業が53%、1,000人以上の大企業が10%。リージョン別では北米企業は77%、ヨーロッパ企業は23%となっている。</p></div></div>]]></description>
@@ -87,6 +75,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1199491.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1199/491/1_o.jpg"></div></div><span class="caption">ROG Rapture GT-AC2900</span></div></div></div></div><p>　<a href="https://www.asus.com/jp/" class="n" target="_blank">ASUS</a>は、AURA RGBライティングつきのゲーミング無線LANルーター「ROG Rapture GT-AC2900」を8月2日に発売する。価格はオープンプライスで、店頭予想価格は31,000円前後の見込み。</p><p>　AURA RGBライティングを搭載し、1,680万色と5つのプリセットパターンからライティング効果を選択可能。また、PlayStation 4やXbox One、Nintendo Switchといったコンソール向けに最適化されたゲーミングLANポートを備える。</p><p>　また、VPNによるゲーム性能低下を解消する「VPN Fusion」、ゲーマー向けのプライベートネットワーク「WTFast」、トレンドマイクロと協力したセキュリティ機能「AiProtection」、通信範囲を拡大する「RangeBoost」、周辺の無線状況を表示する「Wi-Fi Radar」、複数の無線ルーターを用いて通信範囲を拡大する「AiMesh」に対応する。</p><p>　おもな仕様は、CPUがBroadcomのBCM4906(1.8GHz、デュアルコア)、512GB DDR3メモリ、256MBフラッシュメモリなどを搭載。無線の最大通信速度はIEEE 802.11ac NitroQAM利用時で2,167Mbps、非利用時で1,734Mbps、IEEE 802.11n NitroQAM利用時で750Mbps、非利用時で450Mbps、IEEE 802.11a/gで54Mbps、IEEE 802.11bで11Mbps。</p><p>　有線はWANが1基、LANが4基。このほかUSB 3.0、USB 2.0も備える。本体サイズは221×169×11mm(幅×奥行き×高さ)、重量は780g。</p></div></div>]]></description>
 			<pubDate>Thu, 01 Aug 2019 13:32:34 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10プレビュー版、日本語IMEのキー割り当てが「設定」画面で可能に </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1199506.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1199/506/01_o.png"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は31日(米国時間)、Windows 10 Insider Preview「Build 18950 (20H1)」をFast Ring Insider向けに公開した。</p><p>　日本語IMEの修正と改善が加えられている。1つ目は予測候補ウィンドウで上矢印キーを使用したさいに、予測候補のフォーカスが移動しない問題が修正されている。</p><p>　2つ目はキー割り当て設定が「設定」アプリから変更可能となった。また、フィードバックに基づき、「Ctrl+Space」のデフォルト割り当てが「なし」に変更されたが、従来通り設定でIMEのオン/オフへ割り当てることも可能。</p><p>　そのほか、本ビルドでは「切り取り&amp;スケッチ」アプリでズームアップ/ダウンが可能となっている。</p></div></div>]]></description>
+			<pubDate>Thu, 01 Aug 2019 14:08:41 +0900</pubDate>
+		</item>
+		<item>
+			<title>【やじうまPC Watch】Microsoft、&quot;Mac Book&quot;がSurfaceを称賛する動画を公開</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1199517.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/jSS5SKs4UA0?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div></div></div></div></div><p>　Microsoft Surfaceの公式YouTubeアカウントにて「Mac Book」がSurface Laptop 2を称賛する動画を公開している。</p><p>　文字で読むと、どういうことだ? となるが、この動画でSurface Laptop 2を称賛しているのはシドニー在住のMackenzie  Book氏。下の名前を省略すると「Mac Book」さんとなるので、Mac BookがSurfaceを誉めているとなるわけだ。</p><p>　動画でMac Book氏は、バッテリ駆動時間、性能、タッチパネルの有無という点で「Surfaceの方が優れてるね」としている。</p></div></div>]]></description>
+			<pubDate>Thu, 01 Aug 2019 14:09:14 +0900</pubDate>
+		</item>
+		<item>
+			<title>AUKEY、USB PD 2.0とQuick Charge 3.0両対応のモバイルバッテリ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1199510.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1199/510/1_o.jpg"></div></div><span class="caption">PB-Y22</span></div></div></div></div><p>　<a href="https://www.asus.com/jp/" class="n" target="_blank">AUKEY</a>は、USB PD 2.0とQuick Charge 3.0に両対応した容量10,000mAhのモバイルバッテリ「PB-Y22」を発売した。価格は3,499円。8月5日までクーポンコード「AUKEYY22」を入力すれば、20%オフの2,799円で購入できる。</p><p>　USB Type-CとUSB Type-Aの2ポートを備えており、いずれも最大18Wの出力に対応。Type-Cは5V/3A、9V/2A、12V/1.5AのUSB PD 2.0、後者は5～6.5V/3A、6.5～9V/2A、9V～12V/1.5AのQuick Charge 3.0に対応する。2ポート同時接続も可能だが、合計出力は18Wまでとなる。</p><p>　本体の充電(入力)はMicro USB(5V/2A)、Lightning(5V/2Aまたは9V/2A)、USB Type-C(5V/3A、9V/2A、12V/1.5A)から行なえる。バッテリはリチウムポリマー。本体サイズは107×69×24mm(幅×奥行き×高さ)、重量は235g。</p><div><div><div><div><div><ul class="aff_list"><li class="aff_item"><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07M6JHN64/impresswatch-6-22/ref=nosim" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31DSeypx-NL._SL160_.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07M6JHN64/impresswatch-6-22/ref=nosim" target="_blank">PB-Y22</a></div></div></li></ul></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 01 Aug 2019 14:13:23 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
