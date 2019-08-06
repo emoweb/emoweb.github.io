@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>リモートアクセス：詐欺師の狙いは</title>
-			<link>https://blog.kaspersky.co.jp/remote-access-scams/23585/</link>
-			<description><![CDATA[他人のコンピューターに入り込んで重要な情報を盗む方法として、何らかの口実をつけてリモートアクセス用のツールを入れさせるという手口があります。具体例を見てみましょう。]]></description>
-			<pubDate>Tue, 23 Jul 2019 01:00:01 +0000</pubDate>
-		</item>
-		<item>
 			<title>Disclose.ioと共に信頼関係の構築を</title>
 			<link>https://blog.kaspersky.co.jp/kaspersky-joins-disclose-io/23601/</link>
 			<description><![CDATA[セキュリティリサーチャーに「セーフハーバー」を提供するDisclose.ioプロジェクトにKasperskyも参加します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/disable-browser-notifications/23704/</link>
 			<description><![CDATA[通知の表示を求めるWebプッシュ通知に煩わされないようにする方法、完全に別れを告げる方法をお伝えします。]]></description>
 			<pubDate>Mon, 05 Aug 2019 01:00:05 +0000</pubDate>
+		</item>
+		<item>
+			<title>BECがもたらす企業ダメージ</title>
+			<link>https://blog.kaspersky.co.jp/brazil-spam-mail-takeover/23175/</link>
+			<description><![CDATA[企業のメールアカウントを掌握したサイバー犯罪者が、フィルタリングをすり抜けるスパムメールをまき散らした事例。]]></description>
+			<pubDate>Tue, 06 Aug 2019 01:30:12 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
