@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>アイ・オー、240Hz/FreeSync対応の27型ゲーミング液晶 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1200560.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/560/1_o.jpg"></div></div><span class="caption">LCD-GC271UXB</span></div></div></div></div><p>　<a href="https://www.iodata.jp/" class="n" target="_blank">株式会社アイ・オー・データ機器</a>は、240Hzの高リフレッシュレートに対応し、AMD FreeSyncをサポートした27型ゲーミング液晶ディスプレイ「LCD-GC271UXB」を8月末に発売する。価格はオープンプライスで、税別店頭予想価格は59,800円前後の見込み。</p><p>　240HzとFreeSync対応により、なめらかでカクつきのないゲームプレイが可能。映像にメリハリと鮮やかさを加える「エンハンストカラー」や、暗いシーンの視認性を高める「Night Clear Vision」を備えるほか、内部フレーム遅延を約0.05フレーム(約0.21ms)に抑えるスルーモードを搭載する。</p><p>　オーバードライブ機能を備え、中間色応答速度を0.4msまで高められるほか、新しい「バーストモード」を備え、グラフィックの再現性を犠牲にして応答速度をさらに高められるという。</p><p>　HDMI接続時はHDR10入力に対応するほか、低解像度画像の解像感を高める「超解像技術」、映像の明暗に応じてバックライトを調整する「CREX」、さまざまな調整が行なえるリモコンの付属、背面ロゴのイルミネーション機能、高さ/ピボット/チルト/スイベルが可能なゲーミングスタンドなども特徴。</p><p>　おもな仕様は、パネルがTN、解像度が1,920×1,080ドット、表示色数が10億7,374色中1,677万色、応答速度が5ms、最大輝度が400cd/平方m、コントラスト比が1,000:1(CREXレベル2時は9,800:1)、視野角が上下160度/左右170度。</p><p>　インターフェイスはHDMI×2、DisplayPortで、2W×2のステレオスピーカーも備える。本体サイズは約614×231×422～532mm(幅×奥行き×高さ)、重量は7.7kg。</p></div></div>]]></description>
-			<pubDate>Wed, 07 Aug 2019 12:09:35 +0900</pubDate>
-		</item>
-		<item>
 			<title>Surfaceの最新ドライバで5GHz帯Wi-Fiが使えなくなる不具合 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1200558.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/558/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>がリリースしたSurfaceシリーズ向けの最新アップデートで、5GHz帯のWi-Fiにつながらないという不具合が発生しているようだ。<a href="https://pc.watch.impress.co.jp/docs/news/Microsoft%20Community" class="n" target="_blank">Microsoft Community</a>と<a href="https://www.reddit.com/r/Surface/comments/ckzz9v/question_marvell_semiconductor_inc_net/" class="n" target="_blank">Reddit</a>にて情報が寄せられており、Surface Laptop、Surface Book、Surface Proなどのユーザーが被害を受けている模様。</p><p>　問題になっているのはWi-Fiドライバの「Marvell Semiconductor, Inc. - Net - 15.68.17013.110」で、アップデート後に5GHz帯のネットワークが使えず、2.4GHz帯しかつながらなくなったという。まだ修正用のアップデートが出ていないため、現時点では該当するドライバを削除するか、2.4GHz帯を使用するしかないようだ。</p></div></div>]]></description>
@@ -105,6 +99,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1200724.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/724/1_o.png"></div></div></div></div></div></div><blockquote><p>　「パソコンの起動時にいちいちパスワードを入力するのが面倒……」という人は、自動サインインを設定しましょう。ロック画面も表示しないようにすれば、ディスプレイがオフになった状態から復帰するときにも、パスワードなしでサインインできます</p><p class="src">できるネットの<a href="https://dekiru.net/article/18661/">【Windows Tips】パスワード入力を省略して自動的にサインインする方法。パソコンの起動・復帰がラクに！</a></p></blockquote></div></div>]]></description>
 			<pubDate>Thu, 08 Aug 2019 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【速報】Samsung、世界初のSnapdragon 8cx搭載Windows PC「Galaxy Book S」発表 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1200788.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/788/01_o.jpg"></div></div><span class="caption">世界初のSnapdragon 8cx搭載Windows PC「Galaxy Book S」</span></div></div></div></div><p>　<a href="https://www.samsung.com/us/" class="n" target="_blank">Samsung Electronics</a>は8月7日(現地時間)、米国ニューヨークでイベント「Samsung Galaxy UNPACKED 2019」を開催し、QualcommのSoC「Snapdragon 8cx」を搭載するWindows PC「Galaxy Book S」を発表した。Snapdragon 8cx搭載のWindows PC製品が発表されたのは、今回が世界初だ。</p><p>　13型タッチ液晶を搭載し、薄型軽量筐体を実現。Galaxy Note 10などのGalaxyスマートフォンとの連携も実現しているという。また、23時間の長時間バッテリ駆動も可能とのこと。</p><p>　北米での価格は999ドルで、2019年9月に発売予定。詳細は追ってお伝えする。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/788/02_o.jpg"></div></div><span class="caption">薄型軽量筐体を実現</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/788/03_o.jpg"></div></div><span class="caption">13型タッチ液晶を搭載</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/788/04_o.jpg"></div></div><span class="caption">QualcommのSoC、Snapdragon 8cxを採用</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/788/05_o.jpg"></div></div><span class="caption">北米での価格は999ドル</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/788/06_o.jpg"></div></div><span class="caption">2019年9月に発売予定</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 08 Aug 2019 07:10:41 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
