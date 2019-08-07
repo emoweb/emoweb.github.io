@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>Samsung、シングルスタックで100層以上のコンシューマSSDを量産 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1200414.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/414/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.samsung.com/" class="n" target="_blank">Samsung Electronics</a>は8月6日(韓国時間)、PCのOEMメーカー向けとなる第6世代の3-bit V-NAND技術を採用した250GB SATA SSDの量産開始を発表した。</p><p>　同SSDは、業界初という100層以上からなる256Gbit容量の3-bit V-NANDフラッシュを採用。独自のチャネルホールエッチング技術を活用することで、前世代(9x層シングルスタック)から約40%以上のセル増量を達成。136層もの数で構成される導電性金型スタックは、最上部から最下部まで垂直に円筒形の穴が貫通しており、均一に3D電荷捕獲(チャージトラップ)フラッシュセルが設けられている。</p><p>　各セル領域のスタックの高さが上がると、NANDフラッシュはエラーや読み込み遅延が起きる傾向にあるが、独自の速度最適化回路設計によってこれを克服。書き込み時は450μs、読み込み時は45μsを下回る速度を実現しており、前世代から10%以上速度が上がるとともに、消費電力は15%以上低下した。</p><p>　また、この速度最適化回路設計によって性能と信頼性を犠牲にせずに、現行のスタックを3つ組み合わせただけで、300層以上の次世代V-NANDソリューションを提供できるとしている。</p><p>　さらに、256Gbitのチップが必要とするチャネルホールの数は、前世代の9億3千万超から6億7千万にまで削減。チップサイズと生産工程の抑制が可能になったことで、生産性が20%以上改善されている。</p><p>　Samsungはこのほかにも3bit V-NAND技術の512Gb SSDとUFSを今年(2019年)後半に提供予定のほか、来年には高速大容量の第6世代V-NANDをピョンテクで生産拡大予定としている。</p></div></div>]]></description>
-			<pubDate>Tue, 06 Aug 2019 17:43:31 +0900</pubDate>
-		</item>
-		<item>
 			<title>Intel、AI処理などを高速化できるFPGAアクセラレータカード </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1200442.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/442/01.jpg"></div></div><span class="caption">Intel FPGA PAC D5005</span></div></div></div></div><p>　米<a href="https://www.intel.com/" class="n" target="_blank">Intel</a>は5日(米国時間)、FPGA搭載のPCIeカード型ハードウェアアクセラレータ「Intel FPGA PAC D5005」を発表した。</p><p>　本製品はIntel PACシリーズの2枚目となるPCI Express Gen3 x16接続のカードで、Hewlett Packard Enterprise(HPE)と協力し、「ProLiant DL380 Gen10」サーバー用のアクセラレータとして提供が開始されている。</p><p>　両社は本製品をProLiant DL380 Gen10サーバーに搭載することで、AI、ストリーミング分析、メディア変換、金融テクノロジー、ネットワークセキュリティなどのコンピューティング集約型ワークロードへの処理を効率化できるとしている。</p><p>　従来製品では「Arria 10 GX」FPGAを搭載していたが、本製品では14nmプロセス製造の「Stratix 10 SX」へ更新され、3倍のプログラマブル回路と4倍のDDR4メモリ(最大32GB）、2つの100GbE×2と40GbEの高速Ethernetなどを備えている。TDPは215W。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/442/02.jpg"></div></div></div></div></div></div></div></div>]]></description>
@@ -81,6 +75,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1200602.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/602/01.jpg"></div></div><span class="caption">XFMEXPRESS</span></div></div></div></div><p>　<a href="https://business.toshiba-memory.com/ja-jp/top.html" class="n" target="_blank">東芝メモリ株式会社</a>は7日、リムーバブルなPCIe接続のNVMeメモリデバイス「XFMEXPRESS」を開発、発表した。</p><p>　XFMEXPRESSは、ウルトラモバイルPCやIoTデバイスなどの組み込み製品を想定したメモリ。サイズは14×18×1.4mm(幅×奥行き×高さ)で、高さを最小限に抑えた面積252平方mmの新フォームファクタを採用。</p><p>　堅牢でコンパクトなパッケージを謳っており、次世代3次元フラッシュメモリの搭載も考慮しているとする。</p><p>　接続インターフェイスはPCI Expressの2レーンから4レーンまでサポートし、プロトコルにはNVMe 1.3を採用。PCIe 3.0 x4接続時で4GB/s、PCIe 4.0 x4では8GB/sの高速伝送が可能としている。</p><p>　なおmicroSDカードのフォームファクタは11×15×1mm(同)で、同じくNVMe接続を採用した<a href="https://pc.watch.impress.co.jp/docs/news/1171646.html">microSD Express</a>規格では転送速度985MB/sが謳われている。</p></div></div>]]></description>
 			<pubDate>Wed, 07 Aug 2019 13:34:29 +0900</pubDate>
+		</item>
+		<item>
+			<title>東芝メモリ、SLC技術でTLC比10倍高速なストレージクラスメモリ ～業界最速を謳う6.4GB/s転送可能な30TB SSDも</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1200615.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/615/01.jpg"></div></div><span class="caption">XL-FLASH</span></div></div></div></div><p>　<a href="https://business.toshiba-memory.com/ja-jp/top.html" class="n" target="_blank">東芝メモリ株式会社</a>は6日、高速フラッシュメモリ「XL-FLASH」を開発を発表した。9月より128Gbitチップのサンプル出荷を開始し、2020年より量産を開始する。</p><p>　XL-FLASHは、96層積層プロセスを用いた3次元フラッシュメモリ「BiCS FLASH」を、セルあたり1ビットのみ記録するSLC技術を用いて、高速な読み出し/書き込みを可能にした製品。</p><p>　高度な並列処理を実現する16プレーンアーキテクチャと、4KBページファイルを採用。2段/4段/8段の積層が可能となっている。</p><p>　東芝メモリでは、DRAMとストレージの大きな速度差を埋める、「ストレージクラスメモリ」用の製品として位置づけており、リード時レイテンシは5μs未満と小さく、転送速度も既存のTLC比で約10倍高速としている。</p><p>　まずはSSDとして製品展開されるが、将来的にNVDIMMなどDRAMバス上のメモリチャネルデバイスとしても投入される見込み。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/615/02.jpg"></div></div><span class="caption">CM6</span></div></div></div></div><p>　東芝メモリでは、PCI Express 4.0接続のエンタープライズ向け高速SSD「CM6」シリーズも7日に発表。</p><p>　デュアルポート対応のPCIe 4.0とNVMe 1.4に対応し、業界最速クラスとなるシーケンシャルリード6.4GB/sの高速転送性能を謳う。</p><p>　フォームファクタは2.5インチで、800GBから30TBまでの容量を用意。それぞれで1DWPD(Drive Write Per Day)と3DWPDのラインアップを提供する予定としている。</p></div></div>]]></description>
+			<pubDate>Wed, 07 Aug 2019 14:40:20 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
