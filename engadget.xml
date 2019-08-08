@@ -5,35 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    シャープが50lxの低照度でも動作するバッテリー交換不要なビーコンを開発
-</title>
-			<link>https://japanese.engadget.com/2019/08/07/50lx/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-08%2F9b085570-b8ca-11e9-b9eb-f45f59fad0c7&client=a1acac3e1b3290917d92&signature=5a0d5ae8bd1eb4fd1e88549e7b0823e96bc3b403" />
-
-シャープは、色素増感太陽電池を電源とするバッテリー交換不要のビーコンを開発しました。
-
-以前よりビーコンは数多く存在していますが、位置情報をBluetoothなどで発信する仕組みが一般的です。例えば店舗などに人が近くと店舗情報をスマホへ送信したりといった使い方があり、GPS (Global Positioning System／全球測位衛星システム) の電波が届きにくい屋内や地下施設でも広く採用されています。
-
-▲ビーコンの仕組み
-
-しかし、その多くは電波の減衰を防ぐため、ビーコンを地上2m程度の高所に設置する必要があります。ビーコンの電池もボタンや乾電池が多く、6ヶ月から2年程度でバッテリー交換が必要となり、定期的なメンテナンス作業を必要とします。
-
-室内でも発電可能なビーコンは日立からも既に販売されていますが、こちらは200lx（ルクス）の照度が必要であったりと、使う場所によっては通信をするために必要な電力が不足していることが課題とされています。
-
-シャープが開発したビーコンでは、屋内の非常灯の下など50lx程度の暗所でも1回/秒の間隔で安定して信号を発信可能です。動作照度の範囲は50lx〜10000lxまで。この性能は、太陽電池を電源とするビーコンの中でもトップクラスとのこと。
-
-10年以上の連続稼働が可能となっている点も大きなポイントです。製品保証期間は1年ですが、これなら定期的なメンテナンスをする手間を省けそうです。
-
-
-▲シャープ新開発のビーコンは小さく本体も白色なので目立ちにくい
-
-また、本体は小型設計で、134&times;74&times;7mm（縦&times;横&times;厚み）と、500円玉が約10個程度のサイズです。外観からネジが見えない構造となっており、オフィスなどに設置した場合でも周りの環境に馴染み、目立ちにくいデザインも売りの１つです。
-
-シャープのバッテリー交換不要なビーコンは、すでに清水建設の屋内外音声ナビゲーションサービスでの採用が決定しており、前述のような暗い環境でも性能を十分に発揮できると期待されています。
- ]]></description>
-			<pubDate>Wed, 07 Aug 2019 06:20:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    電動スクーターのシェアサービス、あまり環境に優しくない？車両の製造や回収からCO2排出との調査結果
 </title>
 			<link>https://japanese.engadget.com/2019/08/07/co2/</link>
@@ -1380,6 +1351,17 @@ Wi-Fi CERTIFIED 6（Wi-Fi Alliance）
 
  ]]></description>
 			<pubDate>Thu, 08 Aug 2019 03:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Instagram「信頼済み広告業者」が不正な情報収集。数百万人の位置情報、ストーリー情報などを保存
+</title>
+			<link>https://japanese.engadget.com/2019/08/08/instagram/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-08%2F3d608840-b98b-11e9-bbff-97f1910d3d6d&client=a1acac3e1b3290917d92&signature=f278c0ef3fde86b950e7f94135676609580a9108" />
+7月の終わり、Facebookは一連のユーザー情報の取り扱い問題に関して、50億ドル(約5400億円)の制裁金を支払うことで米連邦取引委員会(FTC)と合意に達したばかりですが、そのFacebookの子会社であるInstagramで、また個人情報漏れの疑いがみつかりました。
+
+Business Insiderが報じたところによると、Instagramの「preferred marketing partners(優先マーケティングパートナー)」に登録されたHyp3rと称する会社が、広告プラットフォームへのInstagram側の設定ミスと、管理体制の緩さを利用して、通常なら24時間で消滅するはずの、ストーリー機能におけるユーザーの居所や履歴、写真などを詳細にかつ無期限に記録していたとのこと。
+ ]]></description>
+			<pubDate>Thu, 08 Aug 2019 03:30:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
