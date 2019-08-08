@@ -118,5 +118,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/022/1_o.jpg"></div></div></div></div></div></div><p>　Googleは7日(現地時間)、次期OS「Android Q」の最終ベータ版(Beta 6)を配信開始した。すでにBeta 5を受け取っているPixelデバイスにおいて、順次Beta 6が自動で配信され適用される。</p><p>　Beta 6では、戻るジェスチャの感度設定を追加するなどのジェスチャナビゲーションの改良を施した。詳細については後日ブログで公開する予定としている。</p><p>　また、Beta 6にはこれまで発表されたすべての機能やシステムの挙動、開発者APIが含まれており、API 29 SDKとAndroid Studioのビルドツールのアップデートによって利用可能になる。</p><p>　具体的には、ダークテーマ、折りたたみデバイスへの最適化、インタラクティブな通知、強化された生体認証機能、ビデオコーデックの対応強化、ネットワークAPIの強化などが挙げられる。</p></div></div>]]></description>
 			<pubDate>Thu, 08 Aug 2019 19:45:26 +0900</pubDate>
 		</item>
+		<item>
+			<title>Ivy Bridge以降のIntel CPUに投機実行に脆弱性 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1201041.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/041/1_o.jpg"></div></div></div></div></div></div><p>　セキュリティベンダーのBitdefenderは、Intel CPUの投機実行に脆弱性(CVE-2019-1125)があり、サイドチャネル攻撃が可能であると報じた。Bitdefenderではこの攻撃手法を「SWAPGS Attack」と呼んでいる。</p><p>　SWAPGS Attackは、読んで字のごとく「SWAPGS」命令を使うもので、これによってカーネルページテーブルアイソレーション(KPTI)を回避する。既存の投機実行の脆弱性「Spectre」および「Meltdown」といった既存の緩和策を回避して攻撃でき、Ivy Bridge以降のIntel CPUの投機実行によって引き起こされるものとしている。</p><p>　SWAPGS命令は、64bitモードでカーネルモード実行時にのみ有効で、OSのみが実行でき、2つのMode Specific Registers(MSRs)を切り替える。SWAPGS命令を実行すると、ユーザーモードで作られたCPUごとのデータ構造を、内部的にすぐにカーネルモードに昇格させられる。</p><p>　しかし、Ivy Bridge以降のCPUでは、場合によってはこのSWAPGS命令をユーザーモード内で投機実行してしまうため、CPUごとのデータのアドレスがリークする可能性があるとしている。</p><p>　同社はすでに1年前からIntelとこの問題について取り組んでいるほか、Microsoftと協業して、問題を修正するパッチを制作してきた。Microsoftでは月次ロールアップやセキュリティアップデートですでにこの問題に対処済み。また、AMDのプロセッサについては影響を受けないとしている。</p></div></div>]]></description>
+			<pubDate>Thu, 08 Aug 2019 20:52:27 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
