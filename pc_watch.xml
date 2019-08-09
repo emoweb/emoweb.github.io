@@ -5,24 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>BIOSTAR、AMD X570チップセット搭載のゲーミングmicroATXマザーなど ～もう1台“PCが生える”キャンペーンも</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1200980.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/980/01.jpg"></div></div><span class="caption">X570GT</span></div></div></div></div><p>　<a href="http://www.aiuto-jp.co.jp/" class="n" target="_blank">株式会社アユート</a>は、AMD X570チップセット搭載のゲーミングmicroATXマザーボード「X570GT」を9日より発売する。</p><p>　Ryzen 3000シリーズに対応したマザーボードで、M.2スロットはPCIe 4.0 x4に対応。メモリースロットはDDR4-4000×4(最大128GB)に対応し、ストレージインターフェイスはSATA 6Gbps×4、M.2を備える。</p><p>　拡張スロットはPCIe 4.0 x16、PCIe 3.0 x1×2。背面インターフェイスはPS/2、HDMI、ミニD-Sub15ピン、Gigabit Ethernet、USB 3.0×4、USB 2.0×2、音声入出力。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/980/02.jpg"></div></div><span class="caption">X470GTQ</span></div></div></div></div><p>　そのほか、Intel B365チップセット搭載MicroATX「B365MHC」、AMD B450チップセット搭載microATX「B450MH」、AMD X470チップセット搭載ATX「X470GTA」、AMD X470チップセット搭載のゲーミングmicroATX「X470GTQ」も発売する。</p><p>　同時に、対象のAMDチップセット搭載BIOSTARマザーボードを購入すると、AMD Ryzen CPUやBIOSTARのマザーボードなどが抽選で当たり、当たったPCパーツでもう1台PCを組み立ててPC環境を“2倍”にできる「倍オスター」キャンペーンも開催。</p><p>　第1回8月9日～31日、第2回は9月1日～30日で開催される。対象製品と当選確率は以下のとおり。</p><ul class="list-01"><li>X570GT8: 当選確率5倍</li><li>X570GT: 当選確率3倍</li><li>X470GTA、X470GTQ: 当選確率2倍</li><li>B450MH、A320MH: 当選確率1倍</li></ul><p>　さらにX570GT8、X570GTの購入者で各月応募先着25名にBIOSTAR製キーボード「GK1 Pro」をプレゼントするキャンペーンも実施する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/980/00.jpg"></div></div><span class="caption">倍オスターキャンペーン</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Thu, 08 Aug 2019 18:04:31 +0900</pubDate>
-		</item>
-		<item>
-			<title>Phison、約7GB/sの転送速度を実現したPCIe Gen4 x4対応SSDコントローラ </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1200986.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/986/4_o.png"></div></div><span class="caption">PhisonのPCIe Gen4対応SSDコントローラ群</span></div></div></div></div><p>　<a href="https://www.phison.com/ja/" class="n" target="_blank">台湾Phison Electronics</a>は8日(現地時間)、米国で開かれているFlash Memory Summitにおいて、PCI Express Gen4に対応したSSDコントローラのロードマップを公開した。</p><p>　同社は第3世代Ryzenの登場に合わせて世界初のPCIe Gen4 x4対応SSDコントローラ「PS5016-E16」を投入した。E16はTSMC 28nmプロセスを採用し、Cortex-R5プロセッサを3つ内蔵。合計8チャネルのNANDに対応し、1チャネルあたりの転送速度は800MT/s。これにより最大約5GB/sの転送速度を実現している。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/986/2_o.png"></div></div><span class="caption">現行製品のPS5016-E16</span></div></div></div></div><p>　今回新たに発表されたものの1つは、この下位にあたる「PS5019-E19T」で、2019年第4四半期に顧客向けにサンプル出荷する。同じTSMC 28nmプロセスを採用して製造されるが、こちらはDRAMキャッシュレス構造を採用し、ホストメモリバッファを採用することで、SSDの価格を引き下げる。</p><p>　プロセッサはCortex-R5 1つのみとなり、消費電力も2.6Wから1.9Wに下がる見込み。転送速度はシーケンシャルリード/ライトともに3,750MB/s、ランダムリードは44万IOPS、ランダムライトは50万IOPS。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/986/3_o.png"></div></div><span class="caption">PS5019-E19TはDRAMキャッシュレスとし、SSDを低価格化</span></div></div></div></div><p>　もう1つは上位モデルの「PS5018-E18」で、こちらは2020年第2四半期より顧客向けにサンプル出荷する。プロセッサはCortex-R5×3でE16から変化はないが、製造プロセスがTSMC 12nmに微細化され、対応するNVMeのリビジョンが1.3から1.4へと変わり、1チャネルあたりの転送速度は800MT/sから1,200MT/sに引き上げられる。</p><p>　これにより、シーケンシャルリード/ライトともに最大約7GB/sの転送速度を達成し、ランダムリード/ライト性能も100万IOPSへと向上する。消費電力は3Wとなる見込み。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1200/986/1_o.png"></div></div><span class="caption">2020年第2四半期にサンプル出荷予定のPS5018-E18。プロセスルールを刷新し、約7GB/sを実現する</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Thu, 08 Aug 2019 18:05:57 +0900</pubDate>
-		</item>
-		<item>
-			<title>Android Q最終ベータ版が配布開始 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1201022.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/022/1_o.jpg"></div></div></div></div></div></div><p>　Googleは7日(現地時間)、次期OS「Android Q」の最終ベータ版(Beta 6)を配信開始した。すでにBeta 5を受け取っているPixelデバイスにおいて、順次Beta 6が自動で配信され適用される。</p><p>　Beta 6では、戻るジェスチャの感度設定を追加するなどのジェスチャナビゲーションの改良を施した。詳細については後日ブログで公開する予定としている。</p><p>　また、Beta 6にはこれまで発表されたすべての機能やシステムの挙動、開発者APIが含まれており、API 29 SDKとAndroid Studioのビルドツールのアップデートによって利用可能になる。</p><p>　具体的には、ダークテーマ、折りたたみデバイスへの最適化、インタラクティブな通知、強化された生体認証機能、ビデオコーデックの対応強化、ネットワークAPIの強化などが挙げられる。</p></div></div>]]></description>
-			<pubDate>Thu, 08 Aug 2019 19:45:26 +0900</pubDate>
-		</item>
-		<item>
 			<title>Ivy Bridge以降のIntel CPUに投機実行に脆弱性 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1201041.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/041/1_o.jpg"></div></div></div></div></div></div><p>　セキュリティベンダーのBitdefenderは、Intel CPUの投機実行に脆弱性(CVE-2019-1125)があり、サイドチャネル攻撃が可能であると報じた。Bitdefenderではこの攻撃手法を「SWAPGS Attack」と呼んでいる。</p><p>　SWAPGS Attackは、読んで字のごとく「SWAPGS」命令を使うもので、これによってカーネルページテーブルアイソレーション(KPTI)を回避する。既存の投機実行の脆弱性「Spectre」および「Meltdown」といった既存の緩和策を回避して攻撃でき、Ivy Bridge以降のIntel CPUの投機実行によって引き起こされるものとしている。</p><p>　SWAPGS命令は、64bitモードでカーネルモード実行時にのみ有効で、OSのみが実行でき、2つのMode Specific Registers(MSRs)を切り替える。SWAPGS命令を実行すると、ユーザーモードで作られたCPUごとのデータ構造を、内部的にすぐにカーネルモードに昇格させられる。</p><p>　しかし、Ivy Bridge以降のCPUでは、場合によってはこのSWAPGS命令をユーザーモード内で投機実行してしまうため、CPUごとのデータのアドレスがリークする可能性があるとしている。</p><p>　同社はすでに1年前からIntelとこの問題について取り組んでいるほか、Microsoftと協業して、問題を修正するパッチを制作してきた。Microsoftでは月次ロールアップやセキュリティアップデートですでにこの問題に対処済み。また、AMDのプロセッサについては影響を受けないとしている。</p></div></div>]]></description>
@@ -117,6 +99,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1201130.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/130/01_o.jpg"></div></div><span class="caption">XPG SX8200 Pro</span></div></div></div></div><p>　<a href="https://www.adata.com/jp/" class="n" target="_blank">エイデータテクノロジージャパン株式会社</a>は、2TBのM.2 NVMe SSD「XPG SX8200 Pro」を発売した。価格はオープンプライスで、店頭価格は36,680円前後。</p><p>　ゲーマー向けのXPGブランドに属する製品で、M.2 2280のフォームファクタを採用。インターフェイスはPCI Express 3.0 x4で、NVM Express 1.3に対応。NANDフラッシュの記録方式は3D TLCを採用する。シーケンシャルリード速度は最大3,500MB/s、同ライトは最大3,000MB/s。</p><p>　温度の上昇を抑えるオリジナルヒートシンクを装備し、信頼性と長寿命化を図るLDPC(低密度パリティ検査符号)にも対応する。保証期間は5年間。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/130/02_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/130/03_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
 			<pubDate>Fri, 09 Aug 2019 12:40:20 +0900</pubDate>
+		</item>
+		<item>
+			<title>センチュリーマイクロ、第2世代EPYC対応のDDR4-3200 RDIMM </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1201185.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/185/1_o.jpg"></div></div><span class="caption">「D4RE3200」シリーズ</span></div></div></div></div><p>　<a href="http://www.century-micro.co.jp/" class="n" target="_blank">センチュリーマイクロ株式会社</a>は、ネイティブDDR4-3200動作のRegistered ECC DIMM「D4RE3200」シリーズを9月中旬に発売する。価格はオープンプライス。</p><p>　AMDの第2世代EPYC 7002シリーズに対応するモデル。専業メーカーとして自社開発基板にこだわり、国内製8層基板を採用し、RoHS指令に準拠する。</p><p>　モジュールは8GBシングルランクの「CD8G-D4RE3200VL81」と、16GBデュアルランクの「CD16G-D4RE3200L82」の2種類を用意。前者は高さを抑えた基板となっている。レイテンシは22-22-22-52(CL-tRCD-tRP-tRAS)。</p></div></div>]]></description>
+			<pubDate>Fri, 09 Aug 2019 15:44:12 +0900</pubDate>
+		</item>
+		<item>
+			<title>サンワサプライ、20台のUSBデバイスを同時充電できる充電器 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1201187.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/187/1_o.jpg"></div></div><span class="caption">ACA-IP64利用イメージ(ケーブルとスマートフォン、スタンドは別売)</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/" class="n" target="_blank">サンワサプライ株式会社</a>は、20台のデバイスを同時充電できるUSB充電器「ACA-IP64」を発売した。価格は68,040円。</p><p>　1ポートあたり1Aの出力が可能な充電器で、20台のデバイスを同時に充電可能。全体で合計20A出力できる。すべてのポートの電源を一括でオン/オフできるスイッチを備えるほか、各ポートにLEDインジケータを搭載し、充電中は赤、充電完了時は緑に光る。</p><p>　過電圧保護、過電流保護、短絡保護回路を搭載。ACアダプタははずれにくいスクリューロック式を採用するほか、付属のL型プレートとネジでキャビネットとラックに取り付けられる。</p><p>　本体サイズは268×102×40mm(幅×奥行き×高さ)、重量は約1,060g。</p></div></div>]]></description>
+			<pubDate>Fri, 09 Aug 2019 15:46:58 +0900</pubDate>
+		</item>
+		<item>
+			<title>GeIL、第3世代Ryzen対応のDDR4メモリなど </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1201191.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/191/1_o.png"></div></div><span class="caption">EVO X II AMD Edition</span></div></div></div></div><p>　<a href="https://www.aiuto-jp.co.jp/" class="n" target="_blank">株式会社アユート</a>は、Ryzen 3000シリーズに対応したDDR4メモリ「EVO X II AMD Edition」、およびASUS ROGシリーズに対応するDDR4メモリ「EVO X II ROG-certified」を8月10日より順次発売する。</p><p>　EVO X II AMD EditionはRyzen 3000シリーズとX570マザーボードに最適化したモデル。アドレサブルRGB LEDを搭載し、各社のライティング機能に対応。ガンメタルグレイとフロストホワイトの2色で展開する。</p><p>　いずれも容量は8GB×2で、速度ラインナップはDDR4-2666、DDR4-3200、DDR4-3600の3種類。レイテンシは順に19-19-19-43、16-18-18-36、18-20-20-40となっている。税別直販価格は10,980円、13,880円、14,480円。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/191/2_o.png"></div></div><span class="caption">EVO X II ROG-certified</span></div></div></div></div><p>　EVO X II ROG-certifiedはROG STRIXおよびROG MAXIMUSシリーズ(Z270/Z370/Z390)で動作検証済み。容量は8GB×2または8GB×4、速度はDDR4-3200、レイテンシは16-18-18-36。税別直販価格は8GB×2が13,980円、8GB×4が28,280円。</p></div></div>]]></description>
+			<pubDate>Fri, 09 Aug 2019 15:49:15 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
