@@ -5,30 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Xiaomi、1億画素カメラ搭載スマホを予告。サムスン製センサー採用
-</title>
-			<link>https://japanese.engadget.com/2019/08/10/xiaomi-1/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-08%2F1229e950-ba99-11e9-9ff9-f2d1d633b78e&client=a1acac3e1b3290917d92&signature=47f176b3feaadec47e068b228d07514a74b5e8d3" />
-
-中国シャオミは1億画素カメラを搭載したスマートフォンの投入を予告しています。
-
-This just in! Two big pieces of news from Xiaomi's Images of the Future Conference:
-Redmi and Samsung Electronics jointly announced a 64MP camera
-Xiaomi and Samsung Electronics teased an upcoming 100MP ultra high-resolution camera
-RT if you're excited for this new era of cameras! pic.twitter.com/f88OpJfdIS
-- Xiaomi #FortuneGlobal500 (@Xiaomi) August 7, 2019
-
-シャオミによれば、同社は韓国サムスンと共同でスマートフォン向けの1億画素（正確には1億800万画素）センサーを発表。これから出力される画像ファイルのサイズは12032 x 9024ドットと巨大なものです。
-
-シャオミによれば、このイメージセンサーと2倍ズームカメラを組み合わせた時にも、2700万画素の高解像度画像が出力できます。さらにセンサー自体のサイズもスマートフォンとしては過去最大級で、暗所下での撮影性能の改善がうたわれています。
-
-現在発表されているスマートフォン向けイメージセンサーで最も画素数が多いのは、韓国サムスンの「ISOCELL Bright GW1」で6400万画素を実現しています。しかしサムスンからもソニーからも、1億画素のスマートフォン向けセンサーは正式発表されていません。今回の発表でも、1億画素センサーの詳細については触れられていません。
-
-現時点ではいつシャオミから1億画素カメラ搭載スマートフォンが発売されるのかわかりませんが、画素数で中判カメラに肩を並べる端末の登場には、期待せざるを得ません。
- ]]></description>
-			<pubDate>Sat, 10 Aug 2019 21:01:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    LG、3画面スマホをチラ見せ　IFAで発表へ
 </title>
 			<link>https://japanese.engadget.com/2019/08/10/lg-3-ifa/</link>
@@ -1476,6 +1452,36 @@ AP Photo/Andy Wong
 原文記事：China's official digital currency is nearly ready
  ]]></description>
 			<pubDate>Mon, 12 Aug 2019 02:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    RFIDチップを自分の腕に埋め込んでキー代わりにするテスラ車オーナー（TechCrunch）
+</title>
+			<link>https://japanese.engadget.com/2019/08/12/rfid-techcrunch/</link>
+			<description><![CDATA[     <img src="https://techcrunchjp.files.wordpress.com/2019/08/screen-shot-2019-08-10-at-3.18.17-pm.jpg?w=990&h=552" />
+
+キーカードやスマホアプリは、もういらない？ あるソフトウェアエンジニアが、Tesla Model 3のロックを解除して始動する新しい方法を開拓した。
+
+ゲームシミュレーションとプログラミングの分野に明るいAmie DDは、彼女自身の体を「バイオハッキング」する様子を写したビデオを最近リリースした。彼女は、まずアセトンを使用してTesla Model 3のキーカードを溶かし、そこからRFIDチップを取り外した。それをバイオポリマーで包み、中空針を使って左腕の内部に挿入した。もちろん、この挿入処理自体は、身体改造の専門家に依頼した。
+
+以下のビデオで、そのプロセスを観ることができる。ただし、血を見るのが怖い、という人はやめておいたほうがいいかもしれない。Amie DDは、このプロジェクトとプロセスを説明するページを、Hackaday.ioにも掲載している。
+
+このビデオには、極めて重要なポイントが欠如している。はたして、今回の方法がうまく機能したかどうかだ。TechCrunchは、それに関して新しいビデオがリリースされたら、記事を更新するつもりだ。
+
+
+
+Amie DDがバイオハッキングに手を出したのは、今回が初めてではない。最初のアイデアでは、すでに彼女の腕の中に埋めてあったインプラント用のRFIDチップを使って、Model 3を始動しようと考えていた。この方法では、Javaアプレットを書いて、彼女の腕の中のチップにインストールすることになる。しかし、これはTeslaのセキュリティのため、うまくいかなかった。そこで彼女は、チップをもう１つ埋め込むことにしたのだ。
+
+Amie DDは、以下のより長いビデオで、今回の動機と方法を、さらに詳しく説明している。その中で彼女は、以前に左手に埋め込んだRFIDチップについても、少し話している。彼女によれば、それは「アクセスコントロール」に使うためだという。たとえば、自宅のドアのロックを解除することができるそうだ。
+
+
+
+画像クレジット：スクリーンショット／AmieDD
+
+［原文へ］
+
+（翻訳：Fumihiko Shibata）
+ ]]></description>
+			<pubDate>Mon, 12 Aug 2019 03:45:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
