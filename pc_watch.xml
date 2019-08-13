@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>センチュリーマイクロ、第2世代EPYC対応のDDR4-3200 RDIMM </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1201185.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/185/1_o.jpg"></div></div><span class="caption">「D4RE3200」シリーズ</span></div></div></div></div><p>　<a href="http://www.century-micro.co.jp/" class="n" target="_blank">センチュリーマイクロ株式会社</a>は、ネイティブDDR4-3200動作のRegistered ECC DIMM「D4RE3200」シリーズを9月中旬に発売する。価格はオープンプライス。</p><p>　AMDの第2世代EPYC 7002シリーズに対応するモデル。専業メーカーとして自社開発基板にこだわり、国内製8層基板を採用し、RoHS指令に準拠する。</p><p>　モジュールは8GBシングルランクの「CD8G-D4RE3200VL81」と、16GBデュアルランクの「CD16G-D4RE3200L82」の2種類を用意。前者は高さを抑えた基板となっている。レイテンシは22-22-22-52(CL-tRCD-tRP-tRAS)。</p></div></div>]]></description>
-			<pubDate>Fri, 09 Aug 2019 15:44:12 +0900</pubDate>
-		</item>
-		<item>
 			<title>サンワサプライ、20台のUSBデバイスを同時充電できる充電器 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1201187.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/187/1_o.jpg"></div></div><span class="caption">ACA-IP64利用イメージ(ケーブルとスマートフォン、スタンドは別売)</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/" class="n" target="_blank">サンワサプライ株式会社</a>は、20台のデバイスを同時充電できるUSB充電器「ACA-IP64」を発売した。価格は68,040円。</p><p>　1ポートあたり1Aの出力が可能な充電器で、20台のデバイスを同時に充電可能。全体で合計20A出力できる。すべてのポートの電源を一括でオン/オフできるスイッチを備えるほか、各ポートにLEDインジケータを搭載し、充電中は赤、充電完了時は緑に光る。</p><p>　過電圧保護、過電流保護、短絡保護回路を搭載。ACアダプタははずれにくいスクリューロック式を採用するほか、付属のL型プレートとネジでキャビネットとラックに取り付けられる。</p><p>　本体サイズは268×102×40mm(幅×奥行き×高さ)、重量は約1,060g。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1201464.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/464/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.kingston.com/" class="n" target="_blank">Kingston Technology</a>は、第2世代EPYC向けのDDR-3200 ECC Registered DIMM「Server Premier 3200MT/s DDR4 Registered DIMM」を発売した。</p><p>　AMDの第2世代サーバー向けCPU「EPYC 7002」シリーズに対応したメモリモジュール。4モジュールが展開され、「KSM32RS8/8MEI」が8GBのシングルランク、「KSM32RD8/16MEI」が16GBのデュアルランク、「KSM32RS4/16MEI」が16GBのシングルランク、「KSM32RD4/32MEI」が32GBのデュアルランクとなっている。動作電圧は1.2V、レイテンシはCL22で全モジュール共通となる。</p><p>　Server Premierシリーズは、固定部品表によるリビジョン管理や初期不良を低減するバーンイン試験、実際にデータセンターで採用されているマザーボードを使用した試験などが実施され、高い信頼性を謳う。</p></div></div>]]></description>
 			<pubDate>Tue, 13 Aug 2019 12:54:06 +0900</pubDate>
+		</item>
+		<item>
+			<title>SK Hynix、460GB/s超を実現する業界最速DRAM「HBM2E」 ～HBM2比で50%高速かつ容量は2倍に</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1201466.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/466/01.jpg"></div></div><span class="caption">HBM2E</span></div></div></div></div><p>　韓国<a href="https://www.skhynix.com/" class="n" target="_blank">SK Hynix</a>は12日(韓国時間)、業界最速を謳うDRAM「HBM2E」の開発を完了し、2020年より量産を開始すると発表した。</p><p>　HBM2Eはピンあたり3.6Gbpsの転送が可能で、1,024個のデータ入出力を備え、HBM2比で50%高速な460GB/s超の帯域幅サポートが謳われている。TSV(Through Silicon Via: シリコン貫通ビア)技術を利用することで16Gbチップを最大8層スタックでき、HBM2の2倍にあたるデータ容量16GBという高密度パッケージを実現した。</p><p>　モジュールにマウントされる市販のDRAM製品とは異なり、モジュールパッケージとして提供される。GPUやロジックチップなどのプロセッサと数㎛の距離で密接に相互接続され、高速なデータ転送が可能で、同社では最高のメモリ性能を要求するハイエンドGPUやスーパーコンピュータ、機械学習、人工知能システムなどに最適なメモリソリューションとしている。</p></div></div>]]></description>
+			<pubDate>Tue, 13 Aug 2019 13:06:53 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
