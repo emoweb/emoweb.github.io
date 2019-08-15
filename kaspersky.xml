@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>今すぐiOS 12.4へのアップデートを</title>
-			<link>https://blog.kaspersky.co.jp/ios-critical-vulnerabilities-124/23807/</link>
-			<description><![CDATA[iOSデバイス上でのリモートコード実行とデータの窃取を許す、iMessageの深刻な脆弱性が6つ見つかりました。すぐに最新のiOS 12.4にアップデートしましょう。]]></description>
-			<pubDate>Wed, 31 Jul 2019 10:50:17 +0000</pubDate>
-		</item>
-		<item>
 			<title>余計なものまでブロックせずにワークステーションを保護するには</title>
 			<link>https://blog.kaspersky.co.jp/adaptive-anomaly-control-kesb/22796/</link>
 			<description><![CDATA[脆弱性があるソフトウェア機能をブロックしておけば、攻撃対象領域を狭めることができます。しかし、業務プロセスに影響が出ない程度にソフトウェアの機能をブロックするには、どうすればいいのでしょうか。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/great-hack-review/23831/</link>
 			<description><![CDATA[Cambridge AnalyticaとSNS時代の人生全般に関する1つの見解、Netflixの新しいドキュメンタリー映画『グレート・ハック：SNS史上最悪のスキャンダル』のレビュー。]]></description>
 			<pubDate>Wed, 14 Aug 2019 01:00:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>自動車用IoTデバイスのハッキングはバールで攻撃するより簡単か</title>
+			<link>https://blog.kaspersky.co.jp/smart-driving-security-test/23863/</link>
+			<description><![CDATA[当社エキスパートは、自動車用スマートデバイス6種類へのハッキングを試みました。メーカーはどのように顧客を守れるでしょうか。]]></description>
+			<pubDate>Thu, 15 Aug 2019 01:00:10 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
