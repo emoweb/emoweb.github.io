@@ -112,5 +112,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/671/01.jpg"></div></div><span class="caption">Intel NUC</span></div></div></div></div><p>　<a href="https://www.intel.com/" class="n" target="_blank">米Intel</a>は13日(米国時間)、同社のNUC製品のファームウェアに潜在的なセキュリティ上の脆弱性が発見されたことを報告し、修正ファームウェアの提供を開始した。</p><p>　脆弱性は「CVE-2019-11140」として報告されたもので、ファームウェア上のセッション検証が不十分であったことに起因している。悪用された場合、権限昇格やサービス拒否、情報漏洩などが起こる可能性があるとしている。</p><p>　脆弱性の影響を受けるのは「NUC7i7DNx」と「NUC7i5DNx」、「NUC7i3DNx」のNUCキット、コンピュートスティックの「STK2MV64CC」とコンピュートカードの「CD1IV128MK」の5製品。該当製品を所有しているユーザーは、最新ファームウェアへアップデートするよう推奨している。</p></div></div>]]></description>
 			<pubDate>Thu, 15 Aug 2019 14:55:34 +0900</pubDate>
 		</item>
+		<item>
+			<title>ノートン/シマンテック環境のWindows 7でOSが起動しない不具合 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1201672.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/672/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">米Microsoft</a>は13日(米国時間)、Windows 7/Windows Server 2008環境において、シマンテックまたはノートンのアンチウイルスソフトウェアを実行していると、Windows Updateが正常に完了せず、OSの動作停止や起動に失敗する恐れがあると情報を公開した。</p><p>　これは月例アップデートの「KB4512506」と同時に公開された情報で、SHA-2証明書でのみ署名された更新プログラムをインストールしようとした場合に、シマンテックとノートンのウイルス対策ソフトウェアが更新プログラムをブロックまたは削除してしまうために発生する問題であるという。</p><p>　Microsoftでは、該当環境のデバイスに一時的にセーフガードを設定し、問題が解決されるまで該当のWindows Updateを配信しないように設定し、手動インストールを行なわないよう推奨している。</p></div></div>]]></description>
+			<pubDate>Thu, 15 Aug 2019 15:11:45 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
