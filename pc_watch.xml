@@ -106,5 +106,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/650/1_o.jpg"></div></div><span class="caption">Multiport to HDMI Digital AV アダプタ(VGA、USB-C、HDMI、Mini DisplayPort)</span></div></div></div></div><p>　<a href="https://www.belkin.com/jp/" class="n" target="_blank">ベルキン株式会社</a>は、さまざまなビデオ入力信号をHDMIに変換するケーブル「Multiport to HDMI Digital AV アダプタ(VGA、USB-C、HDMI、Mini DisplayPort)」を23日に発売する。価格はオープンプライスで、税別店頭予想価格は16,800円前後の見込み。</p><p>　Mini DisplayPort、USB Type-C、HDMI、ミニD-Sub15ピンの4つのコネクタを備え、HDMIに変換して出力できる製品。複数種類の出力機器を、プロジェクタやディスプレイに接続するさいのケーブル配線を減らせる。</p><p>　ケーブルのコネクタは磁化されており、整理をしやすくしている。ミニD-Sub15ピンを除く各端子は解像度4Kまでに対応し、音声もサポートする。駆動にはUSB電源が必要で、HDMI出力側にUSB Type-A電源ケーブルが分離している。</p><p>　ディスプレイケーブルの長さは2.4m、USBケーブルの長さは1.2m。</p></div></div>]]></description>
 			<pubDate>Thu, 15 Aug 2019 11:47:05 +0900</pubDate>
 		</item>
+		<item>
+			<title>IntelのNUC/スティックPCなどに脆弱性 ～所有者は最新ファームウェアの適用を</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1201671.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/671/01.jpg"></div></div><span class="caption">Intel NUC</span></div></div></div></div><p>　<a href="https://www.intel.com/" class="n" target="_blank">米Intel</a>は13日(米国時間)、同社のNUC製品のファームウェアに潜在的なセキュリティ上の脆弱性が発見されたことを報告し、修正ファームウェアの提供を開始した。</p><p>　脆弱性は「CVE-2019-11140」として報告されたもので、ファームウェア上のセッション検証が不十分であったことに起因している。悪用された場合、権限昇格やサービス拒否、情報漏洩などが起こる可能性があるとしている。</p><p>　脆弱性の影響を受けるのは「NUC7i7DNx」と「NUC7i5DNx」、「NUC7i3DNx」のNUCキット、コンピュートスティックの「STK2MV64CC」とコンピュートカードの「CD1IV128MK」の5製品。該当製品を所有しているユーザーは、最新ファームウェアへアップデートするよう推奨している。</p></div></div>]]></description>
+			<pubDate>Thu, 15 Aug 2019 14:55:34 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
