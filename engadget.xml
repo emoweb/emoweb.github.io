@@ -5,30 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    一部Surfaceデバイス、CPU動作が400MHzに制限される不具合
-</title>
-			<link>https://japanese.engadget.com/2019/08/16/surface-cpu-400mhz/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-08%2Fffbedb50-bfd8-11e9-a3eb-623ea9961062&client=a1acac3e1b3290917d92&signature=649aa78ca9dad21506f3c067e3ce67b51a93e8b8" />
-一部のSurface Pro 6とSurfacebook 2で、CPUの動作クロックが400MHzに制限される不具合が発生しているようです。この不具合、8月1日にリリースされたファームウェアアップデートが原因とみられています。
-
-テック系メディアTechRepublicによると、この不具合は、BD PROCHOTの誤動作によって引き起こされているとのこと。BD PROCHOTは、システムに負荷がかかった際にCPUを加熱から保護するため、動作クロックを下げる安全機構です。
-
-ドックや充電器を外すと解決したとの報告もありますが、再起動しても回復しなかったユーザーもいるなど、明確な回避策はないようです。
-
-MicorosoftはTechRepublicに対し、ファームウェア更新を通じて迅速に対応するよう取り組んでいるとしていますが、根本的な解決は今しばらく待つ必要がありそうです。
-
-なお、Surface関連の不具合はこれが初めてというわけではなく、直近ではWindows 10 May 2019 UpdateによりdGPUが使えなくなる不具合が発生。また、2017年には、米コンシューマーレポートから推奨ステータスを剥奪（のちに復帰）するということもありました。
-
- 
-関連記事：
-Nvidia GPU搭載のSurface Book 2、Windows 10 May 2019アップデートの配信停止
-Surfaceシリーズがコンシューマレポートの「推奨」に復帰。ただしSurface Goは除く
-
-Microsoft製品だから不具合が少ないとは言い切れない状態ですが、ともあれ、今回の不具合も早期に解決するのを期待したいところです。
- ]]></description>
-			<pubDate>Fri, 16 Aug 2019 01:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    ポケモンGO『ウォーターフェスティバル』イベント発表。みずタイプ増量、UMAレイドアワーも
 </title>
 			<link>https://japanese.engadget.com/2019/08/16/go-uma/</link>
@@ -798,6 +774,17 @@ iHelpBR
 Apple WatchにSeries 4にはなかった新素材のケースが追加される手がかりが、開発者向けwatchOS 6の最新ベータから見つかったと報じられています。
  ]]></description>
 			<pubDate>Sun, 18 Aug 2019 01:10:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Apple Arcade、社内向けテスト実施中。独占公開ゲームの開発は順調？
+</title>
+			<link>https://japanese.engadget.com/2019/08/18/apple-arcade/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-08/4ddfc390-c177-11e9-9bbf-876deee58cb5" />
+9to5Mac
+
+アップルが今年秋に開始予定の定額制ゲームサービス「Apple Arcade」。100タイトルを超える独占公開の新作ゲームが遊び放題とされた本サービスにつき、従業員向けの早期アクセスプログラムが実施中と報じられています。
+ ]]></description>
+			<pubDate>Sun, 18 Aug 2019 03:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
