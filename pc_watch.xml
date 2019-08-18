@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>ベルキン、さまざまなビデオ入力をHDMIに変換するケーブル </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1201650.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/650/1_o.jpg"></div></div><span class="caption">Multiport to HDMI Digital AV アダプタ(VGA、USB-C、HDMI、Mini DisplayPort)</span></div></div></div></div><p>　<a href="https://www.belkin.com/jp/" class="n" target="_blank">ベルキン株式会社</a>は、さまざまなビデオ入力信号をHDMIに変換するケーブル「Multiport to HDMI Digital AV アダプタ(VGA、USB-C、HDMI、Mini DisplayPort)」を23日に発売する。価格はオープンプライスで、税別店頭予想価格は16,800円前後の見込み。</p><p>　Mini DisplayPort、USB Type-C、HDMI、ミニD-Sub15ピンの4つのコネクタを備え、HDMIに変換して出力できる製品。複数種類の出力機器を、プロジェクタやディスプレイに接続するさいのケーブル配線を減らせる。</p><p>　ケーブルのコネクタは磁化されており、整理をしやすくしている。ミニD-Sub15ピンを除く各端子は解像度4Kまでに対応し、音声もサポートする。駆動にはUSB電源が必要で、HDMI出力側にUSB Type-A電源ケーブルが分離している。</p><p>　ディスプレイケーブルの長さは2.4m、USBケーブルの長さは1.2m。</p></div></div>]]></description>
-			<pubDate>Thu, 15 Aug 2019 11:47:05 +0900</pubDate>
-		</item>
-		<item>
-			<title>IntelのNUC/スティックPCなどに脆弱性 ～所有者は最新ファームウェアの適用を</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1201671.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/671/01.jpg"></div></div><span class="caption">Intel NUC</span></div></div></div></div><p>　<a href="https://www.intel.com/" class="n" target="_blank">米Intel</a>は13日(米国時間)、同社のNUC製品のファームウェアに潜在的なセキュリティ上の脆弱性が発見されたことを報告し、修正ファームウェアの提供を開始した。</p><p>　脆弱性は「CVE-2019-11140」として報告されたもので、ファームウェア上のセッション検証が不十分であったことに起因している。悪用された場合、権限昇格やサービス拒否、情報漏洩などが起こる可能性があるとしている。</p><p>　脆弱性の影響を受けるのは「NUC7i7DNx」と「NUC7i5DNx」、「NUC7i3DNx」のNUCキット、コンピュートスティックの「STK2MV64CC」とコンピュートカードの「CD1IV128MK」の5製品。該当製品を所有しているユーザーは、最新ファームウェアへアップデートするよう推奨している。</p></div></div>]]></description>
-			<pubDate>Thu, 15 Aug 2019 14:55:34 +0900</pubDate>
-		</item>
-		<item>
 			<title>ノートン/シマンテック環境のWindows 7でOSが起動しない不具合 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1201672.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/672/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">米Microsoft</a>は13日(米国時間)、Windows 7/Windows Server 2008環境において、シマンテックまたはノートンのアンチウイルスソフトウェアを実行していると、Windows Updateが正常に完了せず、OSの動作停止や起動に失敗する恐れがあると情報を公開した。</p><p>　これは月例アップデートの「KB4512506」と同時に公開された情報で、SHA-2証明書でのみ署名された更新プログラムをインストールしようとした場合に、シマンテックとノートンのウイルス対策ソフトウェアが更新プログラムをブロックまたは削除してしまうために発生する問題であるという。</p><p>　Microsoftでは、該当環境のデバイスに一時的にセーフガードを設定し、問題が解決されるまで該当のWindows Updateを配信しないように設定し、手動インストールを行なわないよう推奨している。</p></div></div>]]></description>
@@ -123,6 +111,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/todays_sales/1201789.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/789/01.jpg"></div></div><span class="caption">ENVY x360 15</span></div></div></div></div><p>　NTT-X Storeは、HP製の15.6型2in1 PC「ENVY x360 15」シリーズを期間限定特価にて販売している。</p><p>　Core i7-8550U、8GBメモリ、256GB SSD;1TB HDD、Windows 10 Home搭載でOfficeなしの「NVY x360 15-cn0000 4JA21PA-AAAA」が、通常130,980円のところ、期間限定で31,180円引きの99,800円で購入できる。</p><p>　同仕様でMicrosoft Office Home &amp; Business 2019付属の「ENVY x360 15-cn1000 6KX14PA-AAAA」は、通常134,800円のところ期間限定15,000円引きで119,800円にて購入できる。</p><div><div><div><div><span class="title">NTT-X Storeで購入する</span></div></div><div></div><div><div><div><div><a href="https://nttxstore.jp/_II_HP15961957?LID=PCW&amp;FMID=PCW" rel="nofollow"><img src="https://pc.watch.impress.co.jp/img/watch/parts/icon/loading.png" class="resource" style="width:160px;" id="01b_s.jpg" ajax="/img/pcw/docs/1201/789/01b_s.jpg"></a></div></div><span class="caption"><a href="https://nttxstore.jp/_II_HP15961957?LID=PCW&amp;FMID=PCW">ENVY x360 15-cn0000 4JA21PA-AAAA</a></span></div><div><div><div><a href="https://nttxstore.jp/_II_HP16093093?LID=PCW&amp;FMID=PCW" rel="nofollow"><img src="https://pc.watch.impress.co.jp/img/watch/parts/icon/loading.png" class="resource" style="width:160px;" id="01b_s.jpg" ajax="/img/pcw/docs/1201/789/01b_s.jpg"></a></div></div><span class="caption"><a href="https://nttxstore.jp/_II_HP16093093?LID=PCW&amp;FMID=PCW">ENVY x360 15-cn1000 6KX14PA-AAAA</a></span></div></div></div></div><p>　同じく15.6型でCore i5-8250Uと8GBメモリ、Optaneメモリ16GB+1TB HDD搭載の「ENVY x360 15-cn0000 4PC92PA-AAAA」も、通常106,693円のところ期間限定26,893円引きの79,800円、256GB SSD+1TB HDD搭載の「ENVY x360 15-cn0000 4JA41PA-AAAA」が通常111,567円のところ期間限定21,767円引きの89,800円にて購入できる。</p><div><div><div><div><span class="title">NTT-X Storeで購入する</span></div></div><div></div><div><div><div><div><a href="https://nttxstore.jp/_II_HP15961953?LID=PCW&amp;FMID=PCW" rel="nofollow"><img src="https://pc.watch.impress.co.jp/img/watch/parts/icon/loading.png" class="resource" style="width:160px;" id="01b_s.jpg" ajax="/img/pcw/docs/1201/789/01b_s.jpg"></a></div></div><span class="caption"><a href="https://nttxstore.jp/_II_HP15961953?LID=PCW&amp;FMID=PCW">ENVY x360 15-cn0000 4PC92PA-AAAA</a></span></div><div><div><div><a href="https://nttxstore.jp/_II_HP15961955?LID=PCW&amp;FMID=PCW" rel="nofollow"><img src="https://pc.watch.impress.co.jp/img/watch/parts/icon/loading.png" class="resource" style="width:160px;" id="01b_s.jpg" ajax="/img/pcw/docs/1201/789/01b_s.jpg"></a></div></div><span class="caption"><a href="https://nttxstore.jp/_II_HP15961955?LID=PCW&amp;FMID=PCW">ENVY x360 15-cn0000 4JA41PA-AAAA</a></span></div></div></div></div></div></div>]]></description>
 			<pubDate>Fri, 16 Aug 2019 17:18:57 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】【Minecraftプログラミング】プログラムのブロックを複製するには </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1201814.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/814/2_o.jpg"></div></div></div></div></div></div><blockquote><p>　プログラムで同じような動作を作る際には、先に作ったブロックを複製すると効率的です。複製の方法を覚えましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/18568/">【Minecraftプログラミング】プログラムのブロックを複製するには</a></p></blockquote></div></div>]]></description>
+			<pubDate>Mon, 19 Aug 2019 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】日本にいなくてもまあまあ仕事はできるし新しい目標もできる【できる25周年コラム】 </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1201812.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1201/812/1_o.jpg"></div></div></div></div></div></div><blockquote><p>　「できるシリーズ」25周年を記念したリレーコラム。今回は主にWebサービス系の書籍をお書きいただいている、田口和裕さんのご登場です。現在はタイを拠点にしながら執筆活動を続けておられる田口さんに、海外移住が「できる」と気づいたきっかけや、日々の暮らしについてうかがいました。（リード文：編集部）</p><p class="src">できるネットの<a href="https://dekiru.net/article/18669/">日本にいなくてもまあまあ仕事はできるし新しい目標もできる【できる25周年コラム】</a></p></blockquote></div></div>]]></description>
+			<pubDate>Mon, 19 Aug 2019 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
