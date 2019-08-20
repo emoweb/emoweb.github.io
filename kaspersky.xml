@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>余計なものまでブロックせずにワークステーションを保護するには</title>
-			<link>https://blog.kaspersky.co.jp/adaptive-anomaly-control-kesb/22796/</link>
-			<description><![CDATA[脆弱性があるソフトウェア機能をブロックしておけば、攻撃対象領域を狭めることができます。しかし、業務プロセスに影響が出ない程度にソフトウェアの機能をブロックするには、どうすればいいのでしょうか。]]></description>
-			<pubDate>Thu, 01 Aug 2019 04:00:21 +0000</pubDate>
-		</item>
-		<item>
 			<title>親子で考えよう：スマホとインターネットの使い方</title>
 			<link>https://blog.kaspersky.co.jp/checktest-for-juniors-and-parents/23815/</link>
 			<description><![CDATA[オンラインで受けられる「ジュニアスマホ検定」を使って、スマホとインターネットの利用について親子で考えてみませんか。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/smart-driving-security-test/23863/</link>
 			<description><![CDATA[当社エキスパートは、自動車用スマートデバイス6種類へのハッキングを試みました。メーカーはどのように顧客を守れるでしょうか。]]></description>
 			<pubDate>Thu, 15 Aug 2019 01:00:10 +0000</pubDate>
+		</item>
+		<item>
+			<title>マルウェアがオートコンプリートで記憶されたデータをブラウザーから盗む手口</title>
+			<link>https://blog.kaspersky.co.jp/browser-data-theft/23883/</link>
+			<description><![CDATA[ブラウザーに保存されているパスワードなどの貴重なデータをマルウェアがどのようにして盗むのか、このようなマルウェアから身を守るにはどうすればよいかを説明します。]]></description>
+			<pubDate>Tue, 20 Aug 2019 01:00:12 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
