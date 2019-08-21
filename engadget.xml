@@ -5,27 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    「2つのアプリが2画面で動く」表も裏も表示できるNubia Z20がスマホの使い方を大きく変える：山根博士のスマホよもやま話
-</title>
-			<link>https://japanese.engadget.com/2019/08/19/2-2-nubia-z20/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=1200%2C917%2C0%2C38&quality=85&format=jpg&resize=1046%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-08%2Fc79b1a60-c26f-11e9-9dda-dfe11038a2d1&client=a1acac3e1b3290917d92&signature=5189a0491cb62e9a538c1cf79f8e687a93728624" />
-
-腕時計型スマートフォンやゲーミングスマートフォンなど特徴的なスマートフォンを次々と送り出すNubiaから、表も裏もディスプレイの「2画面スマホ」、「Nubia Z20」が発表になりました。Nubiaの2画面表示端末はこれが2機種目で、昨年秋に初代モデル「Nubia X」を発表しています。Nubia Z20はディスプレイサイズの大型化や4800万画素カメラを含むトリプルカメラ仕様など、その機能は大幅にアップしています。
- ]]></description>
-			<pubDate>Mon, 19 Aug 2019 23:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Googleアシスタント、今年もIQテストで圧勝。ただしスマホ固有機能はSiriが優位に
-</title>
-			<link>https://japanese.engadget.com/2019/08/19/google-iq-siri/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-08%2F7d32eda0-c2f0-11e9-9d72-b8a9c721b651&client=a1acac3e1b3290917d92&signature=3507fc78fa23e8f8fd23b5ecbaee5732fd75abe0" />
-ROBYN BECK/AFP/Getty Images
-
-米ベンチャーキャピタルのLoup Venturesは、市場で主流となっている音声アシスタントを対象とした「IQテスト」の結果を発表しました。本テストは毎年恒例となっていますが、今回もGoogleアシスタントが「正しい」回答率においてはSiriやAlexaを上回ることが証明されています。
- ]]></description>
-			<pubDate>Mon, 19 Aug 2019 23:20:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    ハッカーが数年ぶりにiPhoneを脱獄。修正済み脆弱性がiOS 12.4で再発
 </title>
 			<link>https://japanese.engadget.com/2019/08/19/iphone-ios-12-4/</link>
@@ -580,6 +559,38 @@ Apple
 アップルは20日（米現地時間）、米国のすべてのユーザーに同社のクレジットカード「Apple Card」を提供開始したことを発表しました。すでに一部ユーザー向けにサービス開始されていましたが、ようやく正式にスタートすることになります。
  ]]></description>
 			<pubDate>Wed, 21 Aug 2019 00:40:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    iPhoneで利用できるLightning端子対応セキュリティキー「YubiKey 5Ci」発売
+</title>
+			<link>https://japanese.engadget.com/2019/08/21/iphone-lightning-yubikey-5ci/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-08%2F80d80720-c3bc-11e9-bdeb-af4558e09ba8&client=a1acac3e1b3290917d92&signature=edcd9b17a416b196f5ab4fe42e912cfe5c6d0064" />
+セキュリティキーメーカー大手のYubicoが、iPhoneで利用できるLightning端子を持っセキュリティキー「YubiKey 5Ci」を発売しました。同社によれば、Lightningを利用できるセキュリティキーは、世界初だとしています。
+
+セキュリティキーといえば、日本でもGoogleのTitanセキュリティキーが発売されましたが、YubiKey 5Ciもそれと同様のもので、2段階認証やパスワードレス認証などに利用できます。
+
+ 
+関連記事：
+GoogleのTitanセキュリティキーが日本でも発売に。G Suite向けセキュリティ強化機能も発表 
+
+ただ、利用するためには、WEBサービスやアプリ側が、Lightningコネクタのサポートをあらたに追加する必要があるとのこと。とはいえ、1PasswordやDashlane、LastPassなどのパスワードマネージャーがすでにサポートしているほか、WebAuthnをサポートするiOS用のBraveブラウザーを使用すれば、TwitterやGitHub、1PasswordのWebアプリなどでも使用可能です。
+
+また、YubiKey 5CiはLightningコネクタの他、USB Type-Cにも対応しており、WindowsやMac、Androidなどでも通常のセキュリティキーとして利用できます。ただし、Ligtningコネクタを搭載したiPadでは利用できるものの、USB Type-Cを搭載した第3世代のiPad Proでは動作しないのことで、注意が必要です。
+
+YubiKey 5CiはYubicoのオンラインストアではすでに発売しており、価格は70ドル。日本からの購入も可能です。日本国内ではまだ販売していませんが、近いうちに正規代理店経由で購入可能になるのを期待したいところです。
+ ]]></description>
+			<pubDate>Wed, 21 Aug 2019 01:20:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Netflix、ビル・ゲイツのドキュメンタリーを9月配信。『不都合な真実』のグッゲンハイム監督
+</title>
+			<link>https://japanese.engadget.com/2019/08/21/netflix-9/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-08%2Fc55a6b20-c3cd-11e9-9dbf-07a39ae9a1e6&client=a1acac3e1b3290917d92&signature=24aa3372d2470d6ebdde0f20dc4a77904b8d641e" />
+Associated Press
+
+Netflixがマイクロソフトの共同創業者ビル・ゲイツ氏につき、前例のない3部構成ドキュメンタリー「Inside Bill's Brain:Decoding Bill Gates（ビルの頭の中：ビル・ゲイツを解読する）」を発表しました。9月に配信開始とされ、日本向けにも公式ページが開設済みです。
+ ]]></description>
+			<pubDate>Wed, 21 Aug 2019 01:50:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
