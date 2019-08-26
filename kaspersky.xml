@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>個人デバイスの業務使用</title>
-			<link>https://blog.kaspersky.co.jp/personal-devices-at-work/23823/</link>
-			<description><![CDATA[業務利用する個人のモバイルデバイスのセキュリティを確保しなければならない理由とは。]]></description>
-			<pubDate>Thu, 08 Aug 2019 01:00:50 +0000</pubDate>
-		</item>
-		<item>
 			<title>ワークライフバランスの乱れがサイバーセキュリティの問題につながる理由</title>
 			<link>https://blog.kaspersky.co.jp/disjointed-work-life-balance/23841/</link>
 			<description><![CDATA[個人所有のデバイスに業務データを抵抗なく保存する人が、データの安全性を保つために十分注意しているとは限りません。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/selfie-with-id-card-scam/23905/</link>
 			<description><![CDATA[身分証明書と一緒に写った自撮り写真を、詐欺師たちが狙っています。その理由と対策は。]]></description>
 			<pubDate>Fri, 23 Aug 2019 04:00:47 +0000</pubDate>
+		</item>
+		<item>
+			<title>SOC 2とは：その内容、実施方法、実施する理由</title>
+			<link>https://blog.kaspersky.co.jp/soc2-audit/23960/</link>
+			<description><![CDATA[SOC 2監査とは何か。当社がSOC 2を取得した理由は。監査はどのように行われたのか。]]></description>
+			<pubDate>Mon, 26 Aug 2019 01:00:40 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
