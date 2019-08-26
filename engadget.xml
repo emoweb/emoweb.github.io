@@ -5,116 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Amazonベーシックセール速報8月26日昼版｜モニターアームやカメラバックなどパソコン周辺用品がお買い得 #セール #特価
-</title>
-			<link>https://japanese.engadget.com/2019/08/25/amazon-8-26/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F4f66de60-705a-11e9-b77d-113fe531efba&client=a1acac3e1b3290917d92&signature=4507a67565cdfa9f1e9079a30cb3fdca93481c95" />
-
-
-
-
-数あるAmazonタイムセールのなかでも、Engadget編集部が気になったアイテムをお届けします。
-
-今回ピックアップしたのは以下の9アイテム。お得に購入できるうちにカートに入れちゃいましょう。スマホでご覧の場合、右側にスクロールします。
-
- 
-
-
-
-
-
-
-
-
-
-
-
-特選タイムセール
-&yen; 198 - &yen; 14,800
-Amazonベーシック パソコン周辺用品がお買い得
-
-
-
-すべてのバリエーションを見る
-
-Amazonベーシック HDMIケーブル 1.8m (タイプAオス - タイプAオス) ハイスピード
-特選タイムセール
-￥ 798
-
-
-
-
-すべてのバリエーションを見る
-
-Amazonベーシック 乾電池 単4形 アルカリ 20個セット
-￥ 718Amazon定期おトク便
-
-
-
-
-
-すべてのバリエーションを見る
-
-Amazonベーシック キャリーオントラベルバックパック
-特選タイムセール
-￥ 3,598 - ￥ 13,056
-
-
-
-すべてのバリエーションを見る
-
-Amazonベーシック USBケーブル 0.9m (2.0タイプAオス - マイクロBケーブル) ブラック
-特選タイムセール
-￥ 398
-
-
-
-すべてのバリエーションを見る
-
-Amazonベーシック モニターアーム シングル 壁掛けタイプ (モニターサイズ:32インチまで)
-特選タイムセール
-￥ 6,980
-
-
-
-
-
-すべてのバリエーションを見る
-
-Amazonベーシック Apple認証 ハイクオリティー ライトニングUSB充電ケーブル 小型ヘッド設計 ホワイト 10cm
-特選タイムセール
-￥ 698
-
-
-
-すべてのバリエーションを見る
-
-Amazonベーシック カメラバッグ スリングバッグ 一眼レフ用 7.7L ブラック
-特選タイムセール
-￥ 3,498
-
-
-
-すべてのバリエーションを見る
-
-Amazonベーシック カメラアクセサリー GoPro用 水中ドームポート イエロー HERO3/HERO4用
-特選タイムセール
-￥ 2,980
-
-
-
-
-
-
-※本記事のセール情報は記事執筆時点のもので、価格や在庫状況が変化する場合があります。
-
-
-
-
- ]]></description>
-			<pubDate>Sun, 25 Aug 2019 20:58:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    新型ニンテンドースイッチは8月30日発売。バッテリー最大8割延長、見分け方は箱
 </title>
 			<link>https://japanese.engadget.com/2019/08/25/8-30-8/</link>
@@ -893,6 +783,22 @@ PayPay、LINE Pay、メルペイなど一気に増えた決済サービス。各
 2012年、「Yahoo! ミュージック」がサービス終了
  ]]></description>
 			<pubDate>Mon, 26 Aug 2019 16:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Chromeでのサイトからの通知許可、近日細かい制御が可能になる模様
+</title>
+			<link>https://japanese.engadget.com/2019/08/26/chrome/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-08%2F9c3bbe30-c7e5-11e9-bfd5-ccc2391f3408&client=a1acac3e1b3290917d92&signature=737b348cfb4b8fe6f80c10180258916c5dd27c29" />
+
+米グーグルのChromeブラウザに、サイトからの通知を求めるプロンプトを細かく制御できる機能が実装される可能性が、海外サイトにて報じられています。
+
+xdaが開発者向けバージョンとなる「Chromium」にて発見した「Quieter notification permission prompts」というフラグでは、通知の表示方法を細かく制御、あるいは完全にオフにすることができます。
+
+たとえば、Heads-up notificationsとはポップアップ表示されるもので、mini-infobarsはアドレスバーの上に表示されるものです。なお、このフラグは現在は機能していません。
+
+一応、Chromeではすでに全通知をオフにすることはできます。しかし今回の機能は、サイトからの通知をユーザーが意図した形に抑えることができるという意味で、一歩進んでいるといえそうです。
+ ]]></description>
+			<pubDate>Mon, 26 Aug 2019 18:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
