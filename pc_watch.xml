@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>MSI、4K解像度で湾曲の31.5型ゲーミング液晶 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1204429.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1204/429/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://jp.msi.com/" class="n" target="_blank">エムエスアイコンピュータージャパン株式会社</a>は、4K解像度の31.5型湾曲液晶ディスプレイ「Optix MAG321CURV」を発売した。価格はオープンプライスで、店頭予想価格は61,000円前後の見込み。</p><p>　3,840×2,160ドット表示対応のVAパネルを採用し、1,500Rの湾曲率を持つ。Windows上でゲームごとにディスプレイの設定プロファイルを作成できる「Gaming OSD App」、ゲーム内の暗いシーンを検出して自動で輝度を調整する「Night Vision」、背面のRGBライティング「Mystic Light」などが特徴。</p><p>　そのほかの仕様は、表示色数が1,677万色、色域がsRGB相当/DCI-P3カバー率77%、輝度が300cd/平方m、コントラスト比が2,500:1、中間色応答速度が4ms、視野角が上下/左右ともに178度。</p><p>　インターフェイスはHDMI 2.0、DisplayPort、USB Type-C(DP Alt Mode対応)、USB 2.0×2 Hub(PCとはUSBで接続)。本体サイズは710.5×266.5×513.6mm(幅×奥行き×高さ)、重量は7kg。</p></div></div>]]></description>
-			<pubDate>Fri, 30 Aug 2019 14:45:03 +0900</pubDate>
-		</item>
-		<item>
 			<title>MIT、カーボンナノチューブ半導体で16bit RISC-Vプロセッサを作成 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1204468.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1204/468/01_o.jpg"></div></div><span class="caption">CNFETを使用したマイクロプロセッサの拡大写真</span></div></div></div></div><p>　<a href="http://www.mit.edu/" class="n" target="_blank">米マサチューセッツ工科大学(MIT)</a>は8月28日(現地時間)、カーボンナノチューブを使った電界効果トランジスタ(CNFET)を内包する16bitのRISC-Vのマイクロプロセッサを開発したと発表した。</p><p>　現在の主力の半導体はシリコンを使用したものだが、そのトランジスタのさらなる微細化は困難な状況にある。次世代半導体材料として注目されているカーボンナノチューブは、シリコンに対して約10倍のエネルギー効率と高速性を有しており、CNFETを実用化すべく研究開発が進められている。</p><p>　今回、MITの研究者らは現行のシリコンチップの製造設備を使い、CNFETを製作。CNFETからなるRISC-Vマイクロプロセッサを作り上げた。この16bit RISC-Vには14,000基以上のCNFETが組み込まれており、実演ではフルセットの命令を正確に実行し、商業向けマイクロプロセッサと同じタスクを完了できた。</p><p>　MITは6年前にもCNFETのマイクロプロセッサを開発しているが、そのさいは178基のCNFETのみで、シングルビットのデータしか転送できなかった。新素材であるカーボンナノチューブを使ったCNFETの製作には難題が多く、デバイスとして動作させるためには素材および製造の不良、機能不全の3つの課題に取り組む必要があった。</p><p>　とくにカーボンナノチューブ製作における固有の問題として、カーボンナノチューブの小さな一部分が金属化し、スイッチングの速度低下もしくはスイッチングが阻まれてしまうという悩ましい症状がある。この欠陥を克服するためには今日の技術では不可能な純度99.999999%のカーボンナノチューブを用意する必要がある。</p><p>　そこでMITの研究者らは、演算に支障を来たさない程度に金属化したCNFETを配置させることで、純度を1万倍緩和する方法を考えついた。これにより、カーボンナノチューブの要求純度は99.99%まで下げることができ、現在の技術でも十分対応可能になった。</p><p>　また、金属化したカーボンナノチューブが論理ゲートのペアの組み合わせることで、異なる特性が得られることも発見。たとえば、ゲートAの単一のカーボンナノチューブではゲートAとB間の接続を断ってしまうが、ゲートBにあるいくつかの金属化カーボンナノチューブは接続に影響を与えないといったもの。</p><p>　研究者らはこれらゲートの組み合わせをシミュレーションし、堅牢もしくは脆弱になるすべてのパターンを探し当てた。そしてチップデザインのプログラムを改良し、金属カーボンナノチューブからもっとも影響を受けない組み合わせを自動学習。これにより、チップ設計のさいに、堅牢な組み合わせのみ適用されるようにした。</p><p>　CNFETの製造は、事前に設計したトランジスタ構造のウェハをカーボンナノチューブの溶液に堆積させるところからはじまるが、このさいに、いくつかのカーボンナノチューブが不可避的にくっついて大きなダマになり、チップ上で粒子汚染を発生させてしまう。これをなくすためには、カーボンナノチューブの粘着性を促進させる化学物質でウェハに前処理を施し、特定のポリマーコーティングをして特別な溶剤に浸す。そうするとポリマーが取り除かれるさいに、カーボンナノチューブのダマも除去できる。これにより同様の方法に比べてチップ上の粒子密度は約250倍下げることができる。</p><p>　また、MITの研究者らはCNFETで演算を行なうための、N型とP型の2つのトランジスタを作成。基本的にカーボンナノチューブで2タイプのトランジスタを作ることは難しく、たいていは性能に変動があるものが生み出されてしまう。そこで、プラチナやチタンをトランジスタに付着させ、P型とN型を構成。原子層堆積によってCNFETを酸化化合物でコーティングし、特定用途に向けにトランジスタの特性を調整可能にした。たとえば、サーバー向けであれば高速でパワーがあるもの、ウェアラブルデバイスや医療用インプラントでは低速で低消費電力なものなど。</p><p>　CNFETは現在実用化を目指し、シリコンチップの製造施設に今回の製造技術の実装進めている状況にある。実用化時期についてMITの研究者は5年以内ではないかと予想している。</p></div></div>]]></description>
@@ -93,6 +87,30 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1204712.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1204/712/01_o.png"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>が8月30日にリリースしたWindows 10 May 2019 Update(19H1、バージョン1903)向けの累積アップデート「<a href="https://support.microsoft.com/en-us/help/4512941/windows-10-update-kb4512941" class="n" target="_blank">KB4512941(ビルド18362.329)</a>」において、これを適用した一部ユーザーから、CPU使用率が異常に高まってしまう症状が発生するとの報告が上がっている。</p><p>　<a href="https://old.reddit.com/r/Windows10/comments/cxl8lp/win10_kb4512941_problems/" class="n" target="_blank">Reddit</a>でのユーザーの投稿によると、このパッチを当てたあと、タスクマネージャーでのコルタナのプロセスのCPU使用率が異常に高くなっているのを発見したとのこと。報告は複数上がっており、システムがアイドル状態であるのにも関わらず発生しているようだ。原因はSearchUI.exeにあると見られており、この状態なるとタスクバーからの検索機能が機能しなくなってしまうという。</p><p>　現時点ではMicrosoftからの公式発表はなく、この症状が出ている場合は問題のパッチを削除するか、次回の累積アップデートまで待つ必要がありそうだ。</p></div></div>]]></description>
 			<pubDate>Mon, 02 Sep 2019 13:08:05 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10 May 2019 Updateの適用率が一気に3倍上昇で3割に </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1204723.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1204/723/01_o.png"></div></div></div></div></div></div><p>　Windows Storeアプリの宣伝ソリューションなどを提供している<a href="https://adduplex.com/" class="n" target="_blank">AdDuplex</a>は、同社AdDuplex SDKを使用している5,000のアプリから収集した1万台以上のPCのデータをもとに、8月27日までのWindows 10バージョンの利用動向を公開した。</p><p>　その結果を見ると、7月25日まではまだ11.4%だった「<a href="https://pc.watch.impress.co.jp/docs/news/1185907.html">May 2019 Update(バージョン1903)</a>」の適用率が今回33%まで増加した(前回の記事 :<a href="https://pc.watch.impress.co.jp/docs/news/1198966.html">Windows 10最新版「May 2019 Update」の適用率はまだ1割</a>)。</p><p>　これにより、2つ前のバージョンの「<a href="https://pc.watch.impress.co.jp/docs/news/1119750.html" class="n" target="_blank">April Update 2018(同1803)</a>」の33.1%という適用率と並ぶとともに、1つ前のバージョンの「<a href="https://pc.watch.impress.co.jp/docs/news/1146020.html" class="n" target="_blank">October 2018 Update(同1809)</a>」の適用率28.7%を超え、多くのWindows PCでMay 2019 Updateのインストールが進んでいるという状況になっている。</p><p>　なお、以下の各年における適用率のグラフでは、2018年10月3日に配信されたOctober 2018 Updateの伸び率が、その1つ前のApril Update 2018に比べてかなり緩やかになっているが、これはOctober 2018 Updateの不具合発生により一時配信停止になるという問題が発生したため。</p><p>　Microsoftはこれ以来、バージョンアップに慎重になり、互換性に問題があるPCへのインストールを控えるようになった(<a href="https://pc.watch.impress.co.jp/docs/news/1153236.html">Windows 10 October 2018 Updateが配信再開</a>参照)。そのため、現行のMay 2019 Updateについても以前と比べればゆるやかな伸びを見せるようになっている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1204/723/02_o.png"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Mon, 02 Sep 2019 14:12:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】9月1日は防災の日。役立つ防災アプリをチェックしよう【厳選5本】 </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1204749.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1204/749/1_o.jpg"></div></div></div></div></div></div><blockquote><p>　2019年の「防災の日」は休日ということもあり、自宅の災害対策をしっかりチェックしたいものです。今の防災にはスマホの活用も欠かせませんが、いざというときに役立つアプリは準備できているでしょうか？ この記事で確認してみましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/18769/">9月1日は防災の日。役立つ防災アプリをチェックしよう【厳選5本】</a></p></blockquote></div></div>]]></description>
+			<pubDate>Mon, 02 Sep 2019 14:33:18 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】「できる」につながった小さな決断【できる25周年コラム】 </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1204750.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1204/750/2_o.jpg"></div></div></div></div></div></div><blockquote><p>　「できるシリーズ」25周年を記念したリレーコラム。今回は「できる大事典 Windows 10」や「できるポケット Excel関数全事典」の著者、吉川明広さんによる寄稿です。何の気なしに下した小さな決断が、吉川さんの生活を一変させ、「できる」ことの幅を広げたのでした。（リード文：編集部）</p><p class="src">できるネットの<a href="https://dekiru.net/article/18736/">「できる」につながった小さな決断【できる25周年コラム】</a></p></blockquote></div></div>]]></description>
+			<pubDate>Mon, 02 Sep 2019 14:36:59 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】【Minecraftプログラミング】繰り返し採掘するには </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1204751.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1204/751/3_o.jpg"></div></div></div></div></div></div><blockquote><p>　エージェントが一定の回数坑道を掘り進むごとに向きを変え、さらに掘り進むプログラムを作ります。繰り返しの中にさらに繰り返しを作るのがポイントです。</p><p class="src">できるネットの<a href="https://dekiru.net/article/18578/">【Minecraftプログラミング】繰り返し採掘するには</a></p></blockquote></div></div>]]></description>
+			<pubDate>Mon, 02 Sep 2019 14:37:23 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
