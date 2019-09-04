@@ -5,15 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    独ボッシュ、電動アシストベビーカー「eStroller」システム発表。坂道や傾斜地でも力いらず
-</title>
-			<link>https://japanese.engadget.com/2019/09/02/estroller/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F403ec5f0-cdf8-11e9-bdf7-1f77ef1f6216&client=a1acac3e1b3290917d92&signature=010f88817de1d1b3a205245bd4487dccb6e91a25" />
-コーナリング中に転けそうになったバイクを起こすシステムも開発するドイツの技術企業ボッシュが、今度は電動ベビーカー「eStroller」を発表しました。eStrollerは乳幼児を乗せて移動する際の労力を軽減するのはもちろん、路面の傾斜状態などを感知し、予期しない動きを防止する機能を備えます。
- ]]></description>
-			<pubDate>Mon, 02 Sep 2019 23:20:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    加熱式タバコ「glo pro」10月3日発売、加熱方式を刷新し吸いごたえUP
 </title>
 			<link>https://japanese.engadget.com/2019/09/02/glo-pro-10-3-up/</link>
@@ -613,6 +604,47 @@ GoogleはAndroidの新バージョン「Android 10」の配信を開始しまし
  
  ]]></description>
 			<pubDate>Tue, 03 Sep 2019 20:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    バッファロー 次世代通信規格「Wi-Fi 6」対応ルーターを10月発売 限定モデルも
+</title>
+			<link>https://japanese.engadget.com/2019/09/03/wi-fi-6-10/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F445b1da0-ce48-11e9-9e5d-c62884253d12&client=a1acac3e1b3290917d92&signature=e1eb3d95292ab64655da2d9ad2718a730f239458" />
+バッファローは10GbEを搭載しWi-Fi 6（IEEE802.11ax）に対応したWi-Fiルーター「WXR-5950AX12」を10月中旬に発売します。価格はオープンですが、税込4万9000円程度の想定売価とのこと。8月8日にティザーサイトを公開してチラ見せしていた端末が遂にお目見えした形です。
+
+Wi-Fi 6とは2019年後半に標準化予定の無線規格。関連企業からなるWi-Fi普及推進組織Wi-Fi Allianceによると、Wi-Fi 6の特長は以下の4つ。
+
+高いデータレート
+容量の向上
+数多くのコネクテッドデバイスが存在する環境での優れたパフォーマンス
+省エネ性の向上
+
+
+理論値では5GHz 8ストリーム（4803Mbps）、2.4GHz 4ストリーム（1147Mbps）の通信が可能としています。
+
+
+距離での通信を高速化する「1024QAM」、帯域を分割し複数端末同時通信により高速化・低遅延を実現する「OFDMA」、空間を多重化し複数端末と同時通信することで高速化する「MU-MIMO」、帯域幅を広げ高速化する「160MHz」、スマホ・タブレットのバッテリー消費を抑える「TWT」などの仕様を備えています。接続している端末が11acだとしても、160MHzやTWTの効果を得ることができるとしています。
+
+端末には64bit 2.2GHzクアッドコアのCPUを搭載し、Wi-Fi 6の高速通信を支えます。独自設計の「デュアルスタックダイポールアンテナ」によって、帯域幅の異なる端末（80MHz/160MHz）に対しそれぞれのパフォーマンスを最大化も可能。
+
+有線LANはWAN/LANそれぞれ10GbEに対応。5GbE、2.5GbEにも対応しており、対応のLANアダプターやスイッチングハブと組み合わせることで有線LAN環境を高速化できます。
+
+
+▲台数限定の特別モデル「Launch Edition」も同時発売予定。内部構造が見えるクリアブラックの天面と背面パネルに、ゴールドのブランドロゴをあしらっています
+
+ASUSとネットギアは既にWi-Fi 6対応ルータを販売していますが、ようやく日本企業からも製品が登場しました。より高速でストレスのない次世代の通信が一歩一歩迫って来ましたね。
+
+ 
+製品ページURL
+通常版
+https://www.buffalo.jp/product/detail/wxr-5950ax12.html
+限定版
+https://www.buffalo.jp/product/detail/wxr-5950ax12r.html
+
+
+ 
+ ]]></description>
+			<pubDate>Tue, 03 Sep 2019 21:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>

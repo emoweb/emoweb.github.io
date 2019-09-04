@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>自動車用IoTデバイスのハッキングはバールで攻撃するより簡単か</title>
-			<link>https://blog.kaspersky.co.jp/smart-driving-security-test/23863/</link>
-			<description><![CDATA[当社エキスパートは、自動車用スマートデバイス6種類へのハッキングを試みました。メーカーはどのように顧客を守れるでしょうか。]]></description>
-			<pubDate>Thu, 15 Aug 2019 01:00:10 +0000</pubDate>
-		</item>
-		<item>
 			<title>マルウェアがオートコンプリートで記憶されたデータをブラウザーから盗む手口</title>
 			<link>https://blog.kaspersky.co.jp/browser-data-theft/23883/</link>
 			<description><![CDATA[ブラウザーに保存されているパスワードなどの貴重なデータをマルウェアがどのようにして盗むのか、このようなマルウェアから身を守るにはどうすればよいかを説明します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/email-account-stealing/23995/</link>
 			<description><![CDATA[メールは今でも、非常に重要なインタネットサービスですが、それゆえに犯罪者にはとても魅力的なものなのです。]]></description>
 			<pubDate>Tue, 03 Sep 2019 01:00:15 +0000</pubDate>
+		</item>
+		<item>
+			<title>追加のセキュリティレイヤーとしてのVLAN</title>
+			<link>https://blog.kaspersky.co.jp/vlan-security/24022/</link>
+			<description><![CDATA[外部から着信するメールを大量に扱う社員は、悪意あるスパムによる攻撃を受けるリスクを抱えています。このような感染のリスクから企業システムを守るには。]]></description>
+			<pubDate>Wed, 04 Sep 2019 01:00:48 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
