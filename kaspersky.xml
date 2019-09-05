@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>マルウェアがオートコンプリートで記憶されたデータをブラウザーから盗む手口</title>
-			<link>https://blog.kaspersky.co.jp/browser-data-theft/23883/</link>
-			<description><![CDATA[ブラウザーに保存されているパスワードなどの貴重なデータをマルウェアがどのようにして盗むのか、このようなマルウェアから身を守るにはどうすればよいかを説明します。]]></description>
-			<pubDate>Tue, 20 Aug 2019 01:00:12 +0000</pubDate>
-		</item>
-		<item>
 			<title>日本年金機構をかたるフィッシング</title>
 			<link>https://blog.kaspersky.co.jp/jp-nenkin-phishing/23924/</link>
 			<description><![CDATA[日本年金機構をかたるフィッシングサイトが観測されています。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/vlan-security/24022/</link>
 			<description><![CDATA[外部から着信するメールを大量に扱う社員は、悪意あるスパムによる攻撃を受けるリスクを抱えています。このような感染のリスクから企業システムを守るには。]]></description>
 			<pubDate>Wed, 04 Sep 2019 01:00:48 +0000</pubDate>
+		</item>
+		<item>
+			<title>マルウェアに仕掛けるハニートラップ</title>
+			<link>https://blog.kaspersky.co.jp/kaspersky-sandbox-patent/23986/</link>
+			<description><![CDATA[Kaspersky Sandboxが仮想マシンを使ってマルウェアの動作をどのように徹底検証するのか、ユージン・カスペルスキーが説明します。]]></description>
+			<pubDate>Thu, 05 Sep 2019 01:00:31 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
