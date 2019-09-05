@@ -5,35 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    iOS版Gmail、画像の自動表示を停止可能に
-</title>
-			<link>https://japanese.engadget.com/2019/09/04/ios-gmail/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2Fe3e29c80-cec1-11e9-97b1-d9851b96938a&client=a1acac3e1b3290917d92&signature=c2469d96381a685e5098a3356df361c38f956e53" />Googleは、iOS版のGmailアプリをアップデートし、画像を自動表示する前に確認できるオプションを追加しました。Androidやウェブ版では以前から対応していた機能です。
-
-有効にするには、「設定 &gt; アカウント &gt; 画像」 から「外部画像を表示する前に確認する」をオンにします。その後は、画像が含まれるメールでは「画像を表示する」をクリックするまで画像の読み込みが行われません。
-
-Gmailはかつて、この動作のほうが標準でした。しかしGoogleは2013年に添付された画像の表示を独自プロキシサーバー経由に変更し、画像の自動表示を標準設定とするように変更しました。その理由は、画像経由でマルウェアが仕込まれるといったことを防ぐ、セキュリティ対策が目的です。
-
-画像を自動表示することで生じる問題は、ほかにもトラッキングピクセルがあります。これは、透明な1x1などの小さな画像をメールに添付しておくと、その画像が表示された際に配信元サーバからダウンロードされるので、いつメールが開封されたかが確認できるというものです。
-
-古くから知られた手法ですが、7月には、主にビジネス向けのメールクライアントSuperhumanが、開封確認にこのトラッキングピクセルを使っているとTwitterの元デザイナーMike Davidson氏がブログで公開して、大きな話題となっていました。
-
-画像を自動表示しなければ、トラッキングピクセルも表示されず、開封確認に利用されることもありません。また、回線が遅かったり、データ容量を節約したい場合にも有効な設定です。
- ]]></description>
-			<pubDate>Wed, 04 Sep 2019 01:50:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    iPhone XR後継機らしきベンチマーク結果が登場。RAMは約4GBに？
-</title>
-			<link>https://japanese.engadget.com/2019/09/04/iphone-xr-ram-4gb/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F199d6ec0-ced3-11e9-bbdf-df6cbaac5641&client=a1acac3e1b3290917d92&signature=b9d79ea09fd0cdd807bd6997ad04aef14c829a27" />
-Bloomberg via Getty Images
-
-きたる11日（日本時間）のスペシャルイベントではiPhone XRの後継機が発表されるはずです。しかしどうやらそのデバイスのものと思われる謎のベンチマークスコアがGeekbenchに公開されました。
- ]]></description>
-			<pubDate>Wed, 04 Sep 2019 02:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    マイナンバーカード所有者のスマホ決済にポイント付与。「マイナポイント」を2020年導入へ
 </title>
 			<link>https://japanese.engadget.com/2019/09/04/2020/</link>
@@ -747,6 +718,26 @@ https://greenfunding.jp/afustore/projects/2760
 アップルのイベントがカウントダウン状態となり、新型iPhoneやApple Watchなどアップル新製品の噂が相次いでいるなか、新型Apple TVが準備中らしいとの観測が伝えられています。
  ]]></description>
 			<pubDate>Wed, 04 Sep 2019 23:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    エイサーが約150万円の「廉価版」ゲーミングチェアPredator Thonos Airをグローバル発表
+</title>
+			<link>https://japanese.engadget.com/2019/09/05/150-predator-thonos-air/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F92bd61d0-cf7c-11e9-bf9e-31d3bbd40bdf&client=a1acac3e1b3290917d92&signature=31421fec72eeda188808ec6fbaf49e801c2a8001" />
+Acerは9月4日（現地時間）、ベルリンで間もなく始まるIFA 2019に合わせてプレスカンファレンスを開催。ゲーミングブランドPredatorから、ディスプレイをセット可能なコックピット風ゲーミングチェアー「Thronos Air」を発表しました。
+
+Thronos Airは、2018年のIFAで発表された「Thrnos」の廉価版。電動モニターアームなど一部の機能が省かれましたがその分価格も抑えられ、2万9999ドル（約320万円）だったThronosの半額以下、1万3999ドル（約149万円）となりました。ただし、PC本体やモニターなどは別売りです。
+ ]]></description>
+			<pubDate>Thu, 05 Sep 2019 00:05:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    iPhone SE2(仮)、2020年春発売? 4.7インチ画面でTouch ID採用のうわさ（日経報道）
+</title>
+			<link>https://japanese.engadget.com/2019/09/05/iphone-se2-2020-4-7-touch-id/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2Fe1a29de0-cf8d-11e9-bffd-792234f1f337&client=a1acac3e1b3290917d92&signature=6cb4d8bb02b04f47b9fd2ac9e46015ed7c5a26e7" />
+アップルが価格を抑えて最新機種よりも画面を小さくしたiPhoneの新製品、いわゆるiPhone SE2(仮)を2020年春にも発売するとの噂が報じられています。
+ ]]></description>
+			<pubDate>Thu, 05 Sep 2019 01:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
