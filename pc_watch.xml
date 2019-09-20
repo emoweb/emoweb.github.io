@@ -118,5 +118,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1208/601/01.jpg"></div></div><span class="caption">Razer Ripsaw HD</span></div></div></div></div><p>　<a href="https://www.razer.com/" class="n" target="_blank">Razer</a>は、「Razer Ripsaw HD」の国内発売を27日より開始する。価格はオープンプライスで、税別店頭予想価格は18,000円前後の見込み。</p><p>　USB 3.0接続のHDMIキャプチャユニットで、2160p(4K:3,840×2,160ドット)/60fpsの入力に対応する。単体キャプチャ機能は備えず、キャプチャにはPCとの接続が必須。</p><p>　キャプチャは最大1080p(フルHD:1,920×1,080ドット)解像度/60fpsに制限されるが、4K/60fps映像をパススルー出力できるため、4K解像度のままゲームを楽しめる。</p><p>　インターフェイスはHDMI 2.0入力、HDMI 2.0出力(パススルー)、USB Type-C、3.5mmミニ入力、3.5mmミニ出力。</p><p>　本体サイズは85×105×16(幅×奥行き×高さ)で、重量は150g。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1208/601/02.jpg"></div></div><span class="caption">背面</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Fri, 20 Sep 2019 17:47:38 +0900</pubDate>
 		</item>
+		<item>
+			<title>Intel、PCIe 4.0/Optaneメモリに対応したFPGA「Stratix 10 DX」 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1208609.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1208/609/01.jpg"></div></div><span class="caption">Stratix 10 DX</span></div></div></div></div><p>　米<a href="https://www.intel.com/" class="n" target="_blank">Intel</a>は、新FPGA(Field-programmable gate array)「Stratix 10 DX」の出荷を開始した。</p><p>　Hyperflexアーキテクチャを採用し、14nm FinFETプロセスで製造されるFPGA。EMIB(Embedded Multi-die Interconnect Bridge)パッケージング技術が用いられ、ロジックエレメント数は最大280万。接続インターフェイスにPCI-Express 4.0 x16を採用する。</p><p>　Intel Ultra Path Interconnect(Intel UPI)、Intel Optaneテクノロジー用の新コントローラをサポートし、柔軟で高性能なアクセラレーションを提供できるよう設計されているとする。</p><p>　今後投入予定のXeonスケーラブルプロセッサとUPIで接続することで、レイテンシを37%削減でき、理論最大転送速度28GB/sという高速な帯域幅によって、システム全体の性能を向上できるとする。</p><p>　前述のメモリコントローラはFPGAごとに最大8つのIntel Optane DCパーシステントメモリモジュールをサポートし、最大4TBの不揮発性メモリ環境を構築できる。</p><p>　そのほか、最大8GBのHBM2メモリや100GBps Ethernet、4コアARM Cortex-A53サブシステムのサポートなどが含まれる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1208/609/02.png"></div></div><span class="caption">ブロックダイアグラム</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Fri, 20 Sep 2019 18:44:14 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
