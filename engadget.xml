@@ -5,23 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    GoogleのFamily Link、アプリ単位で時間制限が可能に
-</title>
-			<link>https://japanese.engadget.com/2019/09/20/google-family-link/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F83c4a0e0-da93-11e9-94bf-3f14ecb1a00f&client=a1acac3e1b3290917d92&signature=b16390e1e67714ab99083c0c2d293ead28a64995" />13歳未満の子供向けのGoogleアカウントを作成し、そのアカウントでのAndroidの利用を保護者が制限できるFamily Linkがアップデートされ、「アプリ毎の時間制限」と「ボーナスタイム」機能が追加されました。
-
-まずアプリ毎の時間制限ですが、これまでFamily Linkでは端末毎の1日の利用時間を制限できたものの、個々のアプリの利用時間は制限できませんでした。しかしこれができるようになると、たとえばゲームなどの利用は制限しつつ、教育コンテンツのみ利用時間を長めにとるといったことが可能になります。
-
-もう一つのボーナスタイムは、1日当たりの利用時間制限や、おやすみ時間のスケジュールを変更することなく、その日の利用時間を一時的に増やせる機能です。「この動画を観終わるまで」「この試合が終わるまで」といった子供からの要望にも柔軟に対応できそうです。
-
-なお、これらの機能を利用するには、子供の端末がAndroid 7.0（Nougat）以降である必要があります。また、親の端末がAndroid 10の場合、Family Linkの機能は「設定 &gt; Digital Wellberingと保護者による使用制限」に統合されています。
-
- 
-
- ]]></description>
-			<pubDate>Fri, 20 Sep 2019 05:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Googleマップで「シークレットモード」のベータテスト実施中。位置データや検索がアカウントにリンクされず
 </title>
 			<link>https://japanese.engadget.com/2019/09/20/google/</link>
@@ -605,6 +588,22 @@ Switch Lite自体のレビューはすでにいくつか掲載されており、
 Nintendo Switchバージョン9.0.0配信。初のLite対応、タッチスクリーン感度も調整可能に
  ]]></description>
 			<pubDate>Sat, 21 Sep 2019 06:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    対象店舗を地図で検索。キャッシュレス・ポイント還元事業の公式アプリが公開
+</title>
+			<link>https://japanese.engadget.com/2019/09/21/cashless-point/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2Fb5caef20-dc2f-11e9-bbfb-83e889473380&client=a1acac3e1b3290917d92&signature=81acf14d1d469f32d34a4c52a1df02abf619fe89" />
+いよいよ10月1日から実施される、キャッシュレス・ポイント還元事業（キャッシュレス・消費者還元事業）。経済産業省は9月20日、その対象店舗を探せる公式地図アプリを公開しました。
+アナウンスではiOS/Android版があるとのことです、執筆時点（21日14:30）でAndroid版はまだダウンロードできませんでした。なお、地図を使った検索はWeb上からも利用可能です。
+
+同事業でポイント還元を受けられる店舗については、当初経済産業省は3608ページ（その後6000ページ超まで拡大）という長大なPDFを公開し話題になっていました。しかし今回の地図サービス公開に合わせて、このPDFは取り下げられています。
+
+ 
+関連記事：
+10月増税後に開始、最大5%還元の「キャッシュレス・消費者還元事業」とは？
+ ]]></description>
+			<pubDate>Sat, 21 Sep 2019 07:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
