@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>追加のセキュリティレイヤーとしてのVLAN</title>
-			<link>https://blog.kaspersky.co.jp/vlan-security/24022/</link>
-			<description><![CDATA[外部から着信するメールを大量に扱う社員は、悪意あるスパムによる攻撃を受けるリスクを抱えています。このような感染のリスクから企業システムを守るには。]]></description>
-			<pubDate>Wed, 04 Sep 2019 01:00:48 +0000</pubDate>
-		</item>
-		<item>
 			<title>マルウェアに仕掛けるハニートラップ</title>
 			<link>https://blog.kaspersky.co.jp/kaspersky-sandbox-patent/23986/</link>
 			<description><![CDATA[Kaspersky Sandboxが仮想マシンを使ってマルウェアの動作をどのように徹底検証するのか、ユージン・カスペルスキーが説明します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/google-play-malware/24133/</link>
 			<description><![CDATA[Androidの公式ストアにマルウェアはいない？その真相を探ります。]]></description>
 			<pubDate>Fri, 20 Sep 2019 01:00:10 +0000</pubDate>
+		</item>
+		<item>
+			<title>【イベント】第11回 カスペルスキー サイバーセキュリティフォーラム：サイバーセキュリティ業界の思想的リーダーが提示する新たなパラダイム</title>
+			<link>https://blog.kaspersky.co.jp/11-kaspersky-cybersecurity-forum-jp/24197/</link>
+			<description><![CDATA[カスペルスキーは、「転機を迎えるサイバーセキュリティ対策」と題して『第11回 カスペルスキー サイバーセキュリティフォーラム』を開催いたします。]]></description>
+			<pubDate>Tue, 24 Sep 2019 01:00:48 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
