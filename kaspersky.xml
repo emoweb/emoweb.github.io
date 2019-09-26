@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>マルウェアに仕掛けるハニートラップ</title>
-			<link>https://blog.kaspersky.co.jp/kaspersky-sandbox-patent/23986/</link>
-			<description><![CDATA[Kaspersky Sandboxが仮想マシンを使ってマルウェアの動作をどのように徹底検証するのか、ユージン・カスペルスキーが説明します。]]></description>
-			<pubDate>Thu, 05 Sep 2019 01:00:31 +0000</pubDate>
-		</item>
-		<item>
 			<title>【ウソ？本当？】悪意あるWebサイトでiPhoneがマルウェアに感染することがある</title>
 			<link>https://blog.kaspersky.co.jp/malicious-websites-infect-iphones/24057/</link>
 			<description><![CDATA[危険なWebサイトにアクセスするだけで、iPhoneがマルウェアに感染することがあるという説があります。この噂の真相は。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/11-kaspersky-cybersecurity-forum-jp/24197/</link>
 			<description><![CDATA[カスペルスキーは、「転機を迎えるサイバーセキュリティ対策」と題して『第11回 カスペルスキー サイバーセキュリティフォーラム』を開催いたします。]]></description>
 			<pubDate>Tue, 24 Sep 2019 01:00:48 +0000</pubDate>
+		</item>
+		<item>
+			<title>赤ずきんと中間「狼」攻撃</title>
+			<link>https://blog.kaspersky.co.jp/fairy-tales-red-hood/24206/</link>
+			<description><![CDATA[童話は英知の泉です。情報セキュリティの基礎を子どもたちに教えるのに、これ以上ない教科書です。]]></description>
+			<pubDate>Thu, 26 Sep 2019 01:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
