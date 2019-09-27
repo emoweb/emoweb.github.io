@@ -5,17 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Chromeの更新で一部のMacが起動不能に。グーグルは修正手順を公開
-</title>
-			<link>https://japanese.engadget.com/2019/09/26/chrome-mac/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F31a85b00-e03b-11e9-97fd-3e00e5620d9c&client=a1acac3e1b3290917d92&signature=160d1eaeadda1915aacce29b9f8806c797af37dc" />
-米グーグルは自社が配信したMac版Google Chromeのソフトウェアアップデートにより、一部のMacにてOSが起動不可になるクラッシュが発生していることを公開、注意喚起しました。現在ではアップデートの配信を停止し、また修正方法も報じています。
-
-この問題は、Chromeブラウザのアップデートとして配信されたGoogle Keystoneのバージョン1.2.13.75を原因とするものです。また、この問題はmacOSに搭載されたセキュリティ機能のSystem Integrity Protection（SPI）をオフにしている、あるいはシステムが対応していない環境にて発生しています。
- ]]></description>
-			<pubDate>Thu, 26 Sep 2019 05:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    高品質赤軸採用、最大60時間連続使用を実現した、ワイヤレスメカニカルキーボード「HEXGEARS K50」
 </title>
 			<link>https://japanese.engadget.com/2019/09/26/gf152-60-hexgears-k50/</link>
@@ -1202,6 +1191,16 @@ Echo Flexは、コンセントに直接接続できるUSB充電器のような�
 PCの場合：左ボタンでのドラッグで3Dモデルが回転します。スクロールで3Dモデルが拡大・縮小します。右ボタンでのドラッグで3Dモデルが移動します。
  ]]></description>
 			<pubDate>Fri, 27 Sep 2019 00:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    iOS 12.4.2配信開始。iOS 13非対応の旧iPhone/iPad向けセキュリティアップデート
+</title>
+			<link>https://japanese.engadget.com/2019/09/27/ios-12-4-2-ios-13-iphone-ipad/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F6660cc70-e0d0-11e9-9bef-bb27c1257d9c&client=a1acac3e1b3290917d92&signature=e55f801b094befb667c02b3d4c66ab56d13fef2c" />アップルは、iOS 13でサポートされていない旧機種向けにiOS 12.4.2の配信を開始しました。対象デバイスはiPhone 5s、iPhone 6、iPhone 6 Plus、iPad Air、iPad mini 2、iPad mini 3、およびiPod touch第6世代となっています。
+
+届いていれば通知から、あるいは「設定-一般 - ソフトウェア・アップデート」から確認して手動でアップデート可能です。
+ ]]></description>
+			<pubDate>Fri, 27 Sep 2019 00:40:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
