@@ -5,19 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Oculus QuestでPC VRアプリが遊べるOculus Link発表。PCにUSB有線接続でRift代わり
-</title>
-			<link>https://japanese.engadget.com/2019/09/25/oculus-quest-pc-vr-oculus-link-pc-usb-rift/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F2b8e4340-e006-11e9-beef-61ea6402c443&client=a1acac3e1b3290917d92&signature=8bd4dab10fabeced3d9c7d9cea1078f720898485" />
-開発者イベントOculus Connect で、Facebookがスタンドアロン型VRヘッドセット Oculus Quest の大幅アップデートを発表しました。
-
-11月に提供するOculus Link機能では、VR対応のPCとOculus Questを高速USBケーブルで有線接続することにより、これまでPC用VRヘッドセットのOculus Rift専用だったハイエンドなPC VRコンテンツが楽しめるようになります。
-
-さらに、位置トラッキングのない簡易型VRヘッドセットOculus Go のアプリもQuestで使えるようになること、逆にQuestでトラッキングをオフにして自由な姿勢で動画視聴などがしやすくなるモード、2020年にはコントローラを持たず画像解析だけで両手の指も含めたトラッキングに対応するなど、使い方が広がる多数のアップデートを用意します。
- ]]></description>
-			<pubDate>Wed, 25 Sep 2019 23:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    iFixitがApple Watch Series 5を分解。Series 4とほぼ同じながら細かな変更
 </title>
 			<link>https://japanese.engadget.com/2019/09/26/ifixit-apple-watch-series-5-series-4/</link>
@@ -844,6 +831,17 @@ iOSアプリ開発者のRiley Testut氏が、AltStoreと称する独自のiOSア
 飛行機からアイスランドの荒野に落下したiPhone 6sが1年以上を経て発見され、無事に動作が確認されたと報じられています。
  ]]></description>
 			<pubDate>Thu, 26 Sep 2019 19:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    低速なれど長距離でもつながる。Amazonが新ワイヤレスプロトコル「Sidewalk」発表
+</title>
+			<link>https://japanese.engadget.com/2019/09/26/amazon-sidewalk/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=1624%2C1260%2C0%2C0&quality=85&format=jpg&resize=1031%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2Fda2e4060-e03a-11e9-b5fe-06a472de2c9a&client=a1acac3e1b3290917d92&signature=7ecc76ce94fb24c0748e44d9229bcb68abcaab68" />
+2019年9月25日(現地時間)にシアトルで行われたAmazonの新作発表会「Amazon Devices Event」にて、Wi-FiやBluetoothよりも長距離での接続を可能にする狭帯域ワイヤレスプロトコル「Sidewalk」が発表されました。
+
+同イベントで登壇したAmazonのDave Limp氏は、『Wi-FiやBluetoothは接続可能な距離が短い』として、帯域幅が低い（つまり比較的速度）ながらも長距離接続が可能なSidewalkを考えたとのこと。
+ ]]></description>
+			<pubDate>Thu, 26 Sep 2019 21:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
