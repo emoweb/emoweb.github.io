@@ -5,37 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Pixel 4のジェスチャー機能の対応アプリや地域情報がリーク。日本への対応は？
-</title>
-			<link>https://japanese.engadget.com/2019/09/30/pixel-4/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2Fb2e1ede0-e35f-11e9-be7e-9f717282936d&client=a1acac3e1b3290917d92&signature=bdec4e1a06ff17879065bfc445e7059de36eb674" />
-
-米グーグルの次期スマートフォン「Pixel 4」には、ジェスチャー機能「Soli」が搭載されます。そして同機能の対応アプリや対応地域の情報が、海外にて報じられています。
-
-SoliはPixel 4の本体上部に搭載されるセンサーで、60GHz帯の電波を使うことでハンドジェスチャーを読み取ったり、顔の接近を感知することができます。機能の詳細については、こちらの記事をご参照ください。
-
-そして海外テックサイトのxda-developersはPixel 4 XLのAPK（ソフトウェアパッケージ）から発見したとして、23個の対応アプリと53カ国の対応地域のリストを公開しています。
-
-53カ国の対応地域にはアメリカやイギリス、ドイツやフランスといった主要国が名を連ねますが、なんと日本がリストに入っていません。その理由は現時点では推測するしかありませんが、単にリストに入れ忘れた、あるいはSoliのレーダー使用に関する許諾の取得に時間がかかっている、などの可能性がありそうです。
-
-一方で対応アプリとしては、Apple MusicやAmazon Music、YouTube Music、Google Play Music、Spotifyといった音楽視聴アプリがあげられています。気になるのは、サイバーエージェントとエイベックス・デジタルが主に日本向けに提供しているAWAも、対応アプリに登場している点です。このことから、ジェスチャー機能の日本非対応は記載の誤りである、あるいはAWAの海外ユーザーのみがジェスチャー機能を利用できる、といったケースが想定されます。
-
-これらの情報は発売前の非公式なものなので、今後なんらかの変更があるかもしれません。日本に「おま国」仕様なPixel 4が投入されないことを祈るばかりです。
- ]]></description>
-			<pubDate>Mon, 30 Sep 2019 06:10:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    ファーウェイ、米部品を使わず5G基地局製造を発表。米国企業との「感情的な繋がり」も強調
-</title>
-			<link>https://japanese.engadget.com/2019/09/30/5g/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2Fc46b10a0-e35f-11e9-8bfb-e0a9df3728dd&client=a1acac3e1b3290917d92&signature=6f62cda3ba99d9f29c56cbcdc579e7bcced6814f" />
-ASSOCIATED PRESS
-
-中国通信機器大手ファーウェイの創業者である任正非（Ren Zhengfei）CEOは、10月から米国製の部品を使わない5G基地局の製造を開始し、来年には多くの国に導入されるとの見通しを発表しました。
- ]]></description>
-			<pubDate>Mon, 30 Sep 2019 06:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    ポケモンGO、謎の新キャラ3人を予告。GOロケット団の「シャドウ」リーダー登場？
 </title>
 			<link>https://japanese.engadget.com/2019/09/30/go-3-go/</link>
@@ -545,6 +514,34 @@ auもiPhone 11『半額』、ソフトバンクに追従──回線契約なく
 アップルが米国にて"Memoji"(ミー文字)の商標登録を巡って係争中であるにもかかわらず、公式サイトに商標の保持を表記しているとして、訴訟を起こされたことが報じられています。
  ]]></description>
 			<pubDate>Tue, 01 Oct 2019 05:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Nest Wifi（仮）らしき機器がFCC登録　Thread通信もサポートか
+</title>
+			<link>https://japanese.engadget.com/2019/10/01/nest-wifi-fcc-thread/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2Fb0753390-e423-11e9-bd72-de4ae6761f35&client=a1acac3e1b3290917d92&signature=e7c1fca4b851621a51315935bfce8aac5897bce7" />
+
+米グーグルの次期Wi-Fiルーター「Nest Wifi（仮称）」らしき機器が、連邦通信委員会（FCC）へ新たに登録されました。
+
+海外テックサイトの9to5Googleによって今回発見されたのは、「A4R-H2D」「A4R-H2E」という2つのデバイスです。登録名は「interactive internet streaming device」とされており、これはWi-Fiルーターの親機と子機であることが想定されます。また、それぞれA4R-H2Dが幅広でA4R-H2Eが背の高い形状のようです。
+
+以前にも9to5GoogleはNest Wifiの詳細を伝えており、親機と子機という構成でスマートスピーカー機能が搭載されると伝えていました。また、3色のカラーバリエーションも用意されるようです。
+
+さらに今回のFCC登録では、Nest Wifiが通常のWi-Fi規格の802.11 a/b/g/n/aやBluetoothだけでなく、2.4Ghz帯での802.15.4こと「Thread」という通信規格が利用できることも示唆しています。これはメッシュWi-Fiを構築するための規格で、同じNestブランドの機器のネットワークへとNest Wifiがシームレスに統合できることが期待されます。
+
+グーグルは10月15日にイベントの開催を予定しており、次期スマートフォン「Pixel 4シリーズ」やラップトップ「Pixelbook Go」、スマートスピーカー「Nest Mini」そして今回のNest Wifiを発表すると期待されています。
+
+ ]]></description>
+			<pubDate>Tue, 01 Oct 2019 05:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    ヒュンダイがフライングカーに参入、NASAでUAV開発の技術者引き抜き
+</title>
+			<link>https://japanese.engadget.com/2019/10/01/nasa-uav/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F36108a40-e424-11e9-bf3f-73447d31049c&client=a1acac3e1b3290917d92&signature=5da24517df22bf33b4775140023ce3ba6d4a96f2" />
+韓国ヒュンダイ(現代自動車)が都市型エアモビリティ(Urban Air Mobility、UAM)、いわゆるフライングカー事業への参入を発表しました。NASAでUAMの研究に携わっていた技術者を新設のUAM部門責任者に据え、すでに独自の機体開発に取りかかっています。
+ ]]></description>
+			<pubDate>Tue, 01 Oct 2019 06:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
