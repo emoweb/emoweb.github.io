@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ブラウザーの拡張機能から企業秘密が漏れる可能性</title>
-			<link>https://blog.kaspersky.co.jp/browser-history-leak/24115/</link>
-			<description><![CDATA[ChromeやFirefoxの拡張機能は、利用者の閲覧履歴を収集可能です。これがなぜ危険なのか、この機能から身を守るにはどうすればいいかを説明します。]]></description>
-			<pubDate>Thu, 19 Sep 2019 01:00:40 +0000</pubDate>
-		</item>
-		<item>
 			<title>【ウソ？本当？】Google Playにあるアプリはすべて安全なのか</title>
 			<link>https://blog.kaspersky.co.jp/google-play-malware/24133/</link>
 			<description><![CDATA[Androidの公式ストアにマルウェアはいない？その真相を探ります。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/ransomware-in-dental-data-backup-firm/24225/</link>
 			<description><![CDATA[1つのクラウドストレージに全データを保存していませんか？そのバックアップサービスがランサムウェアの攻撃を受けたらどうなるでしょうか。]]></description>
 			<pubDate>Thu, 03 Oct 2019 01:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>サイバーイミュニティはどのように適用されるのか</title>
+			<link>https://blog.kaspersky.co.jp/applied-cyberimmunity/24242/</link>
+			<description><![CDATA[サイバーイミュニティとは、実のところ何を意味するのでしょうか。産業インフラ環境に、どのように適用されるのでしょうか。]]></description>
+			<pubDate>Fri, 04 Oct 2019 01:00:39 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
