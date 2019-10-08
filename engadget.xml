@@ -5,17 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    iPhone 11 Pro Max用の「RAKUNI」が登場、本体カラーにマッチしたグリーンとの調和が最高
-</title>
-			<link>https://japanese.engadget.com/2019/10/06/iphone-11-pro-max-rakuni/</link>
-			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-10/75c779d0-e5b1-11e9-afae-8744ec17f6a4" />
-背面手帳型iPhoneケースの定番RAKUNIに、iPhone 11/11 Pro/11 Pro Max/XR版が新たに加わりました。今回量産前の撮影サンプル（手縫いの試作版）を借用したので、最速レビューをお届けいたします。
- 
-
- ]]></description>
-			<pubDate>Sun, 06 Oct 2019 23:15:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    来年初頭のiPhone出荷台数、前年比10％アップか。「11」と「SE2(仮)」需要が加速するとのアナリスト予測
 </title>
 			<link>https://japanese.engadget.com/2019/10/06/iphone-10-11-se2/</link>
@@ -504,6 +493,26 @@ Pixel 4 XL 128GB：1359.95カナダドル（約11万円）
    
  ]]></description>
 			<pubDate>Mon, 07 Oct 2019 22:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Android 10端末では、サードパーティのカスタムナビゲーションを大きく制限
+</title>
+			<link>https://japanese.engadget.com/2019/10/07/android-10/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F63a48690-e96b-11e9-bfbb-5b6a1ede5123&client=a1acac3e1b3290917d92&signature=18ea1a607003496377e3a7dd586dceaccb5dc985" />
+Androidは各メーカーが独自のナビゲーションバーを設定可能で、実際HUAWEIやOnePlusなどは独自のナビゲーションを設定しています。しかし、Android 10ではその在り方が大きく変わってしまうかもしれません。
+
+デバイスメーカーが順守しなければいけない、最新のGoogle Mobile Services（GMS）契約書によると、Android 10で出荷するデバイスでは、セットアップ時にはAndroid標準の3つボタンあるいはAndroid 10の新しいジェスチャーナビゲーションを使わなければならないと、9to5Googleが伝えています。
+
+サードパーティのカスタムナビゲーションを搭載はできますが、初期セットアップ中に変更したり、通知を出して変更を促すこともできないようです。
+
+また、Android 9 Pieで追加された2つボタンのナビゲーションも、Android 10では非搭載になるとのこと。ただし、これはAndroid 10で出荷されるデバイスのみで、アップデートでAndroid 10になる場合にはその限りでありません。
+
+現状、そもそもGMSが使えないHUAWEIは別としても、OnePlusやXiaomiなどは独自のジェスチャーナビゲーションを搭載し、それをアピールポイントとしていることもあります。今後、それらをデフォルトに設定出来ないとなれば、当然ながらカスタムナビゲーションの優先度は低くなるでしょう。
+
+Googleとしては、多様化が進みすぎたAndroidナビゲーションの統一化を図りたい考えなのでしょうが、カスタムナビゲーションでメーカーを選んでいたようなユーザーにとっては頭の痛い問題となるかもしれません。
+
+ ]]></description>
+			<pubDate>Mon, 07 Oct 2019 23:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
