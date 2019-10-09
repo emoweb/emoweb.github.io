@@ -5,29 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    インテル、新Core Xと新Xeon Wプロセッサを発表　高速化し大幅値下げ
-</title>
-			<link>https://japanese.engadget.com/2019/10/08/core-x-xeon-w/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2Fc2026f60-e991-11e9-9a82-0dd6c4ef322d&client=a1acac3e1b3290917d92&signature=ebcd46513360bbeabf351cbe15e1e2b800a2630f" />
-
-米インテルは18コアのCore i9 Extreme Editionを含む第9世代Core Xシリーズを発表しました。また、新たなXeon Wシリーズも同時登場しています。
-
-まず第9世代Core Xシリーズは10コア／12コア／14コア／18コアモデルの全てで、ブースト時に最大4.8GHz駆動が可能。インテルによると、前世代モデルと比べてMayaや3DS Maxでのレンダリング速度が7%向上しています。またディープラーニング処理などに関わるAI（人工知能）の処理性能も倍になっています。
-
-プロセッサには72レーンのPCI Express 3.0、WiFi 6、高速な有線LANが統合されています。インテルはPCIe 4.0へと年内には対応しない予定ですが、NVMe SSDの速度は改善されています。
-
-Core Xシリーズは10コアのCore i9-10980XEが590ドル（約6万3000円）、18コアのCore i9-10980XE Extreme Editionが979ドル（約11万円）。たとえば2000ドル（約21万円）だった18コアの第8世代Core i9-7980XEに比べて、大幅に値下げされているのも特徴です。
-
-
-
-さらに、インテルはXeon W-2200シリーズも同時発表しています。これは3Dレンダリングにおいて前世代から10%、4K動画編集において11パーセントの性能向上を実現し、AI処理では2.2倍のパフォーマンスとなっています。
-
-18コアのXeon W-2295は1333ドル（約14万円）、10コアモデルは778ドル（約8万4000円）と、こちらも前世代モデルに比べてかなり廉価に投入されます。
-
- ]]></description>
-			<pubDate>Tue, 08 Oct 2019 03:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    米政府、エンティティリストに顔認識やAIなど中国先端技術28社を追加。人権問題への関連性から
 </title>
 			<link>https://japanese.engadget.com/2019/10/08/ai-28/</link>
@@ -715,6 +692,33 @@ Miguel Candela/Anadolu Agency via Getty Images
 ようやく配信開始されたmacOS Catalinaでは、iPadをMacのサブディスプレイとする新機能「Sidecar」が多くのユーザーの注目を集めています。ところが、Catalinaがサポートされた全てのMacが対応しているわけではなく、Skylake世代以降のプロセッサを搭載した新しめの機種のみ利用できることが明らかとなりました。
  ]]></description>
 			<pubDate>Tue, 08 Oct 2019 23:58:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Androidへの着信をWin 10 PCから応答可能に。スマホ同期の新機能、Insider向けに公開
+</title>
+			<link>https://japanese.engadget.com/2019/10/09/android-win-10-pc-insider/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2Fae245450-ea3a-11e9-affd-07122bc7a2d1&client=a1acac3e1b3290917d92&signature=fd657f19dac85a5e3ee185156932d3d8f2e5a406" />
+米マイクロソフが、Androidスマートフォン上のメッセージや写真などにアクセスできるアプリ「Your Phone」（日本名は「スマホ同期」）をアップデートし、Android端末を使った電話の発着信をWindows PC上から行えるCalls機能に対応しました。
+
+Calls機能は、もともと8月に行われたGalaxy Note10の発表イベントで、Dex on PCと共に発表されていたもの。とはいえ、Samsung端末専用の機能ではなく、Android 7.0以上の端末であれば利用できます。
+
+ 
+関連記事：
+ノートPCがGalaxy Note10の外付けディスプレイになる！ 新DeX機能は便利（山根康宏）
+
+スマートフォンにかかってきた電話をWindows上から応答できるのはもちろん、スマホ同期アプリ内に表示されるダイヤラーあるいは連絡先を選ぶことで、Windowsからの発信にも対応します。いずれも、PCのスピーカー、マイクを利用して通話を行います。
+
+また、着信に出たくない・出れない場合には、テキストメッセージで応答するか、スマートフォンのボイスメール（伝言メモ）に送信も可能。
+
+ただし、まだ早期プレビューとの位置付けのため、Calls機能を利用できるのは19H1ビルド以降のInsiderのみ。 実際に利用できるようになるには、数日かかる場合もあるとのことです。
+
+なお、スマホ同期アプリでは、7月にはAndroidの通知をPC上で表示できる機能もリリースされています。このほか、スマートフォンの画面をPC上にそのままミラー表示する機能もありますが、これを利用できるのはいまのところGalaxy Note10のみとなっています。
+
+ 
+関連記事：
+Win 10 PCの画面でAndroidスマホの通知を見られる便利機能、いよいよ利用可能に
+ ]]></description>
+			<pubDate>Wed, 09 Oct 2019 00:50:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
