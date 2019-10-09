@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>さらばiTunes、iPadをペンタブにできる「macOS Catalina」提供開始 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1211610.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1211/610/music.jpg"></div></div><span class="caption">Apple Musicアプリ</span></div></div></div></div><p>　<a href="https://www.apple.com/" class="n" target="_blank">Apple</a>は、無料ソフトウェアアップデートとしてmacOSの新バーション「macOS Catalina (10.15)」の提供を開始した。</p><p>　対応MacはMacBook 2015以降、iMac 2012以降、MacBook Air 2012以降、iMac Pro 2017以降、MacBook Pro 2012以降、Mac Pro 2013以降、Mac mini 2012以降。</p><p>　新機能としては、iPadをサブディスプレイとして利用したり、タブレット入力デバイスとしてApple Pencilを使ってMacアプリケーションを操作できる「Sidecar」、Apple以外のソフトウェア開発者がiPadアプリケーションをMacで使えるようにできる「Mac Catalyst」、各アプリケーションやウェブサイトで費やしている時間を確認できる「スクリーンタイム」などが追加されている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1211/610/sidecar.jpg"></div></div><span class="caption">Sidecar</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1211/610/twitter.jpg"></div></div><span class="caption">CatalystでiPad用TwitterアプリがmacOS上で動作</span></div></div></div></div><p>　セキュリティ/プライバシーの面では、OSが読み取り専用のシステムボリューム上で動作するようになり、システムがユーザーデータから完全に切り離されるため、重要なOSファイルが上書きされるような事態を回避できるとする。Gatekeeperについても、全アプリについて既知のセキュリティ問題をチェックするようになり、新しいデータ保護機能によって全アプリがユーザーのファイルにアクセス前に許可を得ることが必須となった。</p><p>　T2セキュリティチップを搭載するMacについては、iPhone/iPadのようにアクティベーションロックに対応。万一どこかに置き忘れたり盗まれてしまったような場合、所有者だけが本体内のデータを消去して再アクティベートできるようになる。Apple Watchによる承認については、ユーザーが自分のApple Watchのサイドボタンをタップするだけで特定のセキュリティプロンプトを承認できるようになった。</p><p>　そのほか、iTunesを置き換えるかたちでApple Music、Apple Podcasts、Apple TVの3アプリが新たに追加され、ゲームサブスクリプションサービス「Apple Arcade」(月額600円)などに対応している。</p></div></div>]]></description>
-			<pubDate>Tue, 08 Oct 2019 18:25:50 +0900</pubDate>
-		</item>
-		<item>
 			<title>TSMC、EUV露光による7nm製品を他社に先駆け量産開始 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1211607.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1211/607/1_o.jpg"></div></div><span class="caption">6月のTSMC日本記者会見で明らかにされたN7+プロセスの量産</span></div></div></div></div><p>　TSMCは7日(台湾時間)、EUV(極端紫外線)露光を採用した7nmプロセス製品の量産を開始したと発表した。EUV露光を採用した半導体の量産は業界初としている。</p><p>　EUV採用7nmプロセスは「N7+」と呼ばれ、従来の液浸露光の「N7」に比べ、15～20%以上の密度向上を実現し、消費電力も改善したという。近い将来にもTSMCはN7+ラインを拡張し、市場の需要に応えるとしている。</p><p>　N7+に加え、EUVを採用した6nmプロセス「N6」のリスク生産を2020年第1四半期中より、量産を2020年末より開始する予定。N6はN7と比較して18%のロジック密度向上を実現しながら、デザインルールはN7と完全な互換性を確保するとしている。</p></div></div>]]></description>
@@ -99,6 +93,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1211871.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1211/871/1_o.png"></div></div></div></div></div></div><blockquote><p>　iPhoneやiPadで日本語を入力しているときに［空白］キーをタップすると、「全角スペース」が入力されるようになりました。これにより、メールの文面などのテキストの整形が便利になっています。以前の設定に戻す方法も見てみましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/19211/">【iOS 13】気付いてた？「スマート全角スペース」でテキストの整形がラクに。常に半角に戻すことも可能</a></p></blockquote></div></div>]]></description>
 			<pubDate>Wed, 09 Oct 2019 17:43:47 +0900</pubDate>
+		</item>
+		<item>
+			<title>3:2液晶のキックスタンド2in1「CHUWI UBook Pro」がクラウドファンディング開始 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1211899.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1211/899/1_o.jpg"></div></div></div></div></div></div><p>　CHUWIは、アスペクト比3:2の12.3型液晶ディスプレイを搭載したキックスタンドつき2in1「UBook Pro」を、クラウドファンディングサイトIndiegogoに登録し、出資を募りはじめた。</p><p>　製品を入手するための最小出資額は、Celeron N4100/キーボード/ペンつきモデルが399ドル、Core m3-8100Y/キーボード/ペンつきモデルが519ドル(早期出資者は499ドル)、Core m3-8100Y/キーボード/ペンなしモデルが469ドル(同449ドル)となっている。</p><p>　UBook Proは1,920×1,280ドット表示対応のアスペクト比3:2の12.3型フルラミネーションディスプレイを搭載するとともに、本体単体で780gの軽量性を実現。2,048段階筆圧のペンもサポートする。ファンレスデザインを採用し、静音性を高めた。</p><p>　SoC以外の仕様は共通で、メモリは8GB、ストレージは256GB SATA SSD、OSはWindows 10 Home。インターフェイスはIEEE 802.11ac対応無線LAN、Bluetooth、USB Type-C、USB 3.0×2、microSDカードスロット、HDMI出力、200万画素前面/500万画素背面カメラ、音声入出力を備える。</p><p>　バッテリは38Whリチウムポリマー。本体サイズは292.2×207.9×9mm(幅×奥行き×高さ)。</p></div></div>]]></description>
+			<pubDate>Wed, 09 Oct 2019 18:48:53 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
