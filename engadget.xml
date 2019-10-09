@@ -5,78 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    NASA、月面の高解像度3Dデータ「CGI Moon Kit」をクリエイター向けに公開
-</title>
-			<link>https://japanese.engadget.com/2019/10/07/nasa-3d-cgi-moon-kit/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F4d00ffa0-e974-11e9-bf5a-b829c7939e30&client=a1acac3e1b3290917d92&signature=9a598e6156853274283f8541fd3a68f50a934eea" />
-
-映画やゲームの舞台を月面に設定したいと思えば、見栄えのする画像を探すのは、それほど難しくない。しかしNASAは、単に美しいだけでなく、さまざまな用途に使えるデータをクリエーター向けにリリースした。画像だけでなくデプスデータを含んでいるので、非常に詳細な月面の3Dマップも簡単に作成できる。
-
-これは「CGI Moon Kit」と呼ばれるもので、NASAのゴダード宇宙飛行センターが公開した。科学的なデータの視覚化の専門家、アーニー・ライト（Ernie Wright）氏が、元は別の目的で構成したものだが、3Dアーティストの注目を集めることが分かったため、公開することにした。
-
-元のデータは、ルナー・リコネサンス・オービター（Lunar Reconnaissance Orbiter＝LRO）に取り付けられた2つの測定器から得られたもの。このオービターは、すでに10年以上にわたって月の軌道を回りながら、ずっと写真を撮り続け、測定を継続している。
-
-
-月面をクローズアップ撮影した画像の例。実際に得られるデータの解像度はこんなものではない
-
-
-LROが搭載するカメラは、写真を撮影するという点では、高品質の「伝統的」なカメラだが、実際には精密なマルチスペクトルの撮像装置だ。それを使用して、驚くほど高品質な月面のマップを作成してきた。一度にキャプチャできるのは、ほんの小さな領域だけだが、LROの軌道がシフトしていくので、月の明るい部分については、ほぼ全域を撮影することができた。しかし、影の領域については、その上空を何千回通過しても、撮影できない部分が残っている。
-
-とはいえ、素晴らしい写真はマップデータの一部にすぎない。月面を忠実に再現するには、表面のトポロジー情報も必要となる。そしてそのデータこそ、LROのレーザー高度計が収集しているものなのだ。
-
-このレーザー高度計は、一般的に使われているレーザー距離測定器と原理的には同じもの。軌道上からレーザーのパルスを月面に向けて照射し、それが戻ってくるまでの時間と強度を同時に計測する。それによって、月面とどれだけ離れているか、つまりそのときの高度を、2分の1メートルの精度で測ることができる。それと同時に、月面の状態についても、たとえば硬い岩なのか、あるいは柔らかい粉のような表土なのか、といったことが分かる。
-
-
-
-そうしたデータを組み合わせて、いわゆる変位マップとして組み立てる。一種の地形図のようなものだが、高さが実際に変化する代わりに、色の違いで高さが分かる。このマップには、いくつかのバリエーションがあるが、基本的なユースケースは同じ。変位マップを写真のマップに重ね、それによって球体を包み込むようにすれば、地形学的な仮想の月球儀ができる。
-
-上のGIFアニメの遅いバージョンをムービーで見てみよう。
-
-               
-
-
-こうしたデータ使って、一人称ゲームで月面を探検して月面コロニーを建設したり、宇宙船で月面スレスレを飛びながら空中戦を展開する、というのは本当に楽しいだろう。あるいはアーティストなら、月の精巧なモデルを作成することもできるはずだ。
-
-この「CGI Moon Kit」は無料でダウンロードできる。どのリソースにも、いろいろなオプションがあるが、3Dアーティストなら問題なく理解できるだろう。詳しい情報とダウンロードは、ここから。
-
-［原文へ］
-
-（翻訳：Fumihiko Shibata）
- ]]></description>
-			<pubDate>Mon, 07 Oct 2019 23:40:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    米下院に電子タバコのニコチン含有量規制案。10代への流行防止を考慮
-</title>
-			<link>https://japanese.engadget.com/2019/10/08/10/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F962b8560-e979-11e9-b7f9-6666b3449a80&client=a1acac3e1b3290917d92&signature=fd2fb259f71783f78c9e12fc55c8e3507a80b56e" />
-アメリカ議会下院に、電子タバコ製品の含有ニコチン濃度を制限する法案が提出されました。この法案では、ニコチン含有量を1mlあたり20mgに制限することで「大幅に中毒性が低下し、若者にも訴求できる」としています。
- ]]></description>
-			<pubDate>Tue, 08 Oct 2019 00:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Google、Android向けGoogleドキュメントなどのデザインを更新
-</title>
-			<link>https://japanese.engadget.com/2019/10/08/google-android-google/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F0c661ef0-e977-11e9-adff-7a90573ff92b&client=a1acac3e1b3290917d92&signature=bb8b99accd41a655c499cd520b22b99bff964cc5" />
-Googleは10月7日（現地時間）、Android向けのGoogleドキュメント、スプレッドシート、スライドのアップデートを発表しました。といっても、新機能が追加されたわけではなく、3月に発表されたGoogleドライブの新デザインに合わせて、見た目を変更したもの。ファイル選択画面が分かりやすいですが、最近のマテリアルデザインに従った、シンプルな見た目になっており、一部アイコンなどもデザイン変更が行われています。
-
-ドキュメント、スライドはすでにアップデートが行われており、スプレッドシートは本日から更新が展開されるとのこと。
-
-スマートフォンの画面だけでドキュメントやスライドの作成をするのは、さすがにまだ厳しいものがありますが、移動中などWindowsやMacが使えない状況で資料の確認やちょっとした手直しをするには、十分な機能を備えています。
-
-MicrosoftのOfficeもアイコンを変更するなど、見た目に力を入れ始めており、機能的に成熟した先にはデザインでの競争が待っているのかもしれません。
-
- 
-関連記事：
-Microsoft Officeのアイコンデザインが刷新　2013年以来 - Engadget 日本版
- 
-
- 
- ]]></description>
-			<pubDate>Tue, 08 Oct 2019 00:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    サムスン、Chromebook 4シリーズを発表　230ドルからと廉価
 </title>
 			<link>https://japanese.engadget.com/2019/10/08/chromebook-4-230/</link>
@@ -711,6 +639,108 @@ FEELLE ソーラーチャージャー 20000mAh
 
  ]]></description>
 			<pubDate>Tue, 08 Oct 2019 21:56:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    映画『ジェミニ・マン』、監督が望む「4K､3D､120fps」揃う劇場ないまま公開へ
+</title>
+			<link>https://japanese.engadget.com/2019/10/08/4k-3d-120fps/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F8eda8fe0-ea37-11e9-b7be-6afae7278caa&client=a1acac3e1b3290917d92&signature=90a1679f49e3ec26b1b24527faa2f2e67e2a2a7c" />
+ウィル・スミス主演の最新映画『ジェミニ・マン』は4K 3D、120fpsで撮影されています。この映画を制作したアン・リー監督とパラマウント映画は、「4K/3D/120fpsのコンボこそが、映画に没入できるもっとも単純なフォーマット」だとして、米国の映画館に120fps対応を呼びかけていました。
+
+そして、全米で14のAMCシアターがこの作品を120fpsでかけることになりました。ただし、これらの劇場は3D対応ではあるものの解像度は2Kでしかなく、アン・リー監督が理想としたフルコンボを達成する映画館は米国にはありませんでした。
+ ]]></description>
+			<pubDate>Tue, 08 Oct 2019 22:20:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    「Google Nest Hub Max」はカメラ搭載で便利度アップ、日本発売に期待──実機レビュー（石川温）
+</title>
+			<link>https://japanese.engadget.com/2019/10/08/google-nest-hub-max/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F50511c50-ea35-11e9-bdcd-42a729a3832c&client=a1acac3e1b3290917d92&signature=4e81b2460044344a7bc2124cb02a2bd4437dbe05" />
+先日、アメリカ・ニューヨークに出張してきた。
+
+滞在中、アメリカでしか買えないものを手に入れようと家電量販店であるBest Buyに行ってきた。スマホ売り場にはサムスン電子の折りたたみスマホ「Galaxy Fold」が鎮座していた。店員に「在庫はあるかい？」と尋ねたところ「ない。でも、今週、入荷するかも」とのこと。
+
+ニューヨークの滞在期間は3日間。Best Buyは、店舗の在庫状況をサイトでチェックできるのだが、3日間、ずっと在庫が入ってこないかどうか、チェックし続けた。結局、帰国便までには入荷せず。しかし、日本に着いたときには入荷していた。なんとタイミングが悪いことか。
+
+ニューヨーク滞在最終日、Galaxy Foldが買えそうにないということで、日本未発売の「Nest Hub Max」を購入した。229.99ドルに税金で総額250ドルほど。グーグルが販売しているスマートディスプレイだ。
+
+すでに日本でもグーグルは「Nest Hub」を販売中だ。7インチのタッチ対応ディスプレイにスピーカーが付いている。「OK、グーグル。おはよう」と話しかければ、挨拶してくれ、天気予報、さらにはニュースやその日のスケジュールを教えてくれる。
+カメラ搭載はビデオ通話に便利
+Nest Hubはすでに所有し、使っているのだが、日本で売られていないNest Hub Maxがどうしても気になっていた。Nest Hub Maxは11インチのディスプレイで、しかも前面にカメラが付いている。「室内にカメラ付きデバイスを置いてプライバシーは大丈夫か」という懸念があるが、しかし、カメラがあるとちょっと便利なんだろうと興味があったのだ。
+
+
+
+Nest Hub Maxでは、グーグルのビデオ通話アプリ「Google Duo」が利用可能だ。
+
+外出先のスマホから自宅にビデオ通話がしたくて、Nest Hub Maxを購入したのだった。
+
+我が家は自分と妻、もうすぐ3歳の息子という3人家族で、これまでは、自宅に連絡する際、妻のiPhoneにFacetimeをしていた。しかし、自宅にいると、妻が必ずしもiPhoneの近くにいるということもなく、「Facetimeをかけても出ない」ということが頻繁にあった。
+
+また、妻が家事をしている間に、息子と会話をしたいのだが、妻のiPhoneでFacetimeをするとなると、妻の家事の手を止めることになる。「3歳の息子と直接、ビデオ通話できる機器」を探し求めていたのだった。
+
+そんななか、登場したのが「Nest Hub Max」なのであった。Google Duoを着信すると、まずは自分の顔が表示される。相手が誰かを確認後、「承認」を押せば、　ビデオ通話が始まる。3歳の息子も、着信音で着信に気が付き、「承認」を押せば通話が始まることはすぐに理解してくれた。これで、海外出張中なども、妻の手を煩わすことなく、息子とビデオ通話ができるというわけだ。
+
+スマホ側の操作としては、「Google Home」アプリを起動。すると自宅の項目に「家に発信」というアイコンがあるので、ここをタッチすれば自宅にGoogle Duoをかけられる。Google Duoを使うには、ケータイの番号が必要なのだが、スマホの番号があれば、スマホにプラスして、自宅のNest Hub Maxも利用が可能となる。
+
+Nest Hub Maxではカメラが着いたことで、画面を見ている人を認識できるようにもなった。複数の家族がNest Hub Maxを使っていたとしても、カメラがいま誰が画面を見ているかを認識し、そのユーザーにあった名前と情報を表示してくれるのだ。
+
+顔の登録はスマホのGoogle Homeアプリから行う。これによって、リビングに置いてあっても、ユーザーに最適な情報を表示してくれるので、使い勝手がかなり増したように思う。
+外出先から室内の様子もわかる
+また、Nestアプリを使えば、外出先からカメラを起動し、家の様子を確認できるようにもなる。これこそ、家族の承諾が必要だが、長期間、家族で旅行する時、家を外出先からでも監視できるというのはかなり安心だ。ちなみに、画面の背面にはカメラとマイクを切ることができる物理的なスイッチも存在する。
+
+
+
+実は日本国内でもすでにレノボが「Smart Display」を販売中だ。しかし、スピーカー部分が大きく、ちょっとかさばるデザインということもあり、購入を見送ってしまっていた。その点、Nest Hub Maxのほうがスッキリとしたデザインに仕上がっているので、気に入っている。
+日本発売にも期待
+　ここまで読み進めて「海外で売られているWi-Fi製品を堂々と使い、記事を書くなんてけしからん」とお怒りの技適警察の方がおられるかもしれない。
+
+しかし、このNest Hub Max。実はちゃんと日本の技適が表示されるようになっている。現在は英語圏のみでの販売だが、グーグルとしては将来的に日本での販売も視野に入れているのだろう。10月15日にニューヨークでグーグルのイベントが開かれるが、その直後あたりに何らかのアナウンスがあるのかもしれない。
+
+
+ ]]></description>
+			<pubDate>Tue, 08 Oct 2019 22:45:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Essential、新デバイスProjectGEMを披露。新フォームファクタ採用の縦長端末
+</title>
+			<link>https://japanese.engadget.com/2019/10/08/essential-projectgem/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F275563d0-ea33-11e9-bffd-2e8f2a174548&client=a1acac3e1b3290917d92&signature=567964656f477fc08eba04c718abdac4c776dacc" />
+Andy Rubin氏が率いるEssentialが、新デバイスを開発中であると発表。その写真を公開しています。
+
+ProjectGEMと呼ぶこのデバイス、縦に長い特異な形状をしており、またUIを見てもタイル配置の変わったデザインになっています。Andy氏いわく、根本的に異なるフォームファクタとのこと。
+
+2018年10月には、小さなスクリーンを搭載し、ボイスコマンドとAI経由で操作するデバイスを開発しているとの噂もありました。AIで操作するのかは定かではありませんが、画面が小さい点は合致しており、この時の噂がProjectGEMを指していた可能性は高そうです。
+
+ 
+関連記事：
+Essentialが新機軸携帯電話を開発中か、音声操作とAIを中心にした小型モデルとのウワサ 
+
+また、2019年9月にも新デバイスを開発中と伝えられており、この中ではコードネームが「gem」であり、Googleサービスを搭載しない可能性も指摘されていました。
+
+Essential Phoneといえば、現在ではiPhoneも採用するノッチを最初に採用した端末でしたが、全体的には売り上げの低迷が伝えられており、発売から約1年半で販売終了となっていました。それでも現在に至るまでアップデートは続けられており、Android 10にもいち早く対応しています。
+
+ 
+関連記事：
+Essential Phoneが販売終了。アクセサリー販売とサポートは継続し、次期製品に注力
+
+折り畳みディスプレイや、2画面スマートフォンなど、スマートフォンの画面が大型化する中、あえてその逆をいくProjectGEM。果たしてこれがどのような端末なのか、そもそもスマートフォンなのか。ノッチの時のようにあらたなトレンドを作れるのかなど、続報を期待して待ちたいところです。
+
+We've been working on a new device to reframe your perspective on mobile. It's now in early testing with our team outside the lab. Look forward to sharing more in the near future! #ProjectGEM pic.twitter.com/BnVy7yM2Kj
+- Essential (@essential) October 9, 2019
+
+
+
+GEM Colorshift material pic.twitter.com/QJStoiDleH
+- Andy Rubin (@Arubin) October 8, 2019
+
+
+
+New UI for radically different formfactor pic.twitter.com/Es8hFrTuxx
+- Andy Rubin (@Arubin) October 8, 2019
+
+ 
+ ]]></description>
+			<pubDate>Tue, 08 Oct 2019 22:50:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
