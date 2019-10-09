@@ -5,29 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    AMD、エントリー向けGPUのRX 5500を発表　GTX 1650より高パフォーマンスうたう
-</title>
-			<link>https://japanese.engadget.com/2019/10/08/amd-gpu-rx-5500-gtx-1650/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2Fb558f720-e99b-11e9-bb3f-f8bb319a5f12&client=a1acac3e1b3290917d92&signature=3b507f39dc134a2fc226b9c29c53e985faebfa7c" />
-
-米AMDはエントリー向けの新GPU「Radeon RX 5500」を発表しました。デスクトップPC向けとラップトップ向けの両ラインナップが用意されています。
-
-デスクトップPC向けにグラフィックカードとして提供されるRadeon RX 5500は、22基のCompute Unit（CU）と1408基のStream Processorを搭載。クロックスピードは1.7〜1.85GHzで8GBのGDDR6メモリが組み合わされ、5.2テラフロップスのパフォーマンスを発揮します。
-
-AMDによれば、Radeon RX 5500ではDirectX 11環境での中程度の設定にて、『Gears 5』なら92FPS、『ゴーストリコン ブレイクポイント』なら60FPSでのプレイが可能です。また、『オーバーウォッチ』でのパフォーマンスはRadeon RX 5500が135FPSなのにたいし、Nvidiaの「GeForce GTX 1650」では89FPSだったとアピールしています。
-
-
-
-そしてラップトップ向けとなる「Radeon RX 5500M」は1.4〜1.64GHzにて駆動され、4GBのビデオメモリを搭載。処理性能は4.6テラフロップスで、AMDによればGeForce GTX 1650よりも30パーセントほど高速だとしています。
-
-Radeon RX 5500Mはまず台湾MSIのゲーミングラップトップ「Alpha 15」に搭載されます。また、それ以外のメーカーからも搭載製品が近日登場する予定です。
-
-現時点ではRadeon RX 5500の価格は発表されていませんが、GeForce GTX 1650と同程度の約150ドル（約1万6000円）での発売が予測されています。単体グラフィックカードや搭載PCは、今年の第4四半期（10月〜12月）に登場する予定です。
-   
- ]]></description>
-			<pubDate>Tue, 08 Oct 2019 04:15:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    ポケモンGO、サイコブレイク ミュウツーのレイドアワーは10月8日18時から。弱点はゴースト・あく・むし
 </title>
 			<link>https://japanese.engadget.com/2019/10/08/go-10-8-18/</link>
@@ -688,6 +665,28 @@ Chesnot/Getty Images
 アップルは近年、業績報告や新製品発表会でサービス事業の成長をたびたび強調しています。そのサービスの新たな施策のひとつが、音楽ストリーミングApple Musicと動画サービスApple TV+をセットにした「スーパーバンドル」。しかしこれに対して、大手音楽会社が懸念を示していると、噂されています。
  ]]></description>
 			<pubDate>Wed, 09 Oct 2019 02:50:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Google、ゲーミングスマートフォンの認定制度を計画中か
+</title>
+			<link>https://japanese.engadget.com/2019/10/09/google/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2Fac586490-ea53-11e9-b7fb-39e19337a671&client=a1acac3e1b3290917d92&signature=ec4a6225d17e3cfa4d0a2d077989f945cb8d4d33" />
+ROG PhoneやBlackShark、Razer Phoneなど、徐々に増えてきた感のあるゲーミングスマートフォンですが、中には大画面に大容量バッテリーを搭載しているだけでゲーミングスマートフォンを名乗るものがあるなど、その基準は曖昧なのが実情です。これに対してGoogleは、一定の基準を設け、ゲーミングスマートフォンの認定制度を作ろうとしているようです。
+
+Googleからは正式に発表はありませんが、開発者コミュニティのXDA-Developersが、Androidデバイスメーカー向けの技術文書を入手。そこには、Game Device Certificationの技術要件が記載されていました。
+
+この文章によると、技術要件は「ゲーム開発者が予期しない速度低下、CPUコアの損失、またはその他の奇妙なシステム動作に直面しないこと」を保証するのを目的としています。「最新の高性能GPUおよびディスプレイAPIを提供し、合理的なフレームイントロスペクション（フレーム制御）を可能にする」必要があり、このため、Vulkan Graphics APIのバージョン1.1をサポートし、少なくともアプリに2300MBのメモリが割り当てられる必要があるとのこと。
+
+最近はGoogle自身もゲームに力を入れ始めており、Playストアでゲームアプリのカテゴリーを独立させたほか、サブスクリプションサービスのPlay Passも開始しています。ゲーミングスマートフォンの認定制度も、この辺りと関連した動きなのかもしれません。
+
+ 
+関連記事：
+Googleのゲーム重視がさらに鮮明に。Playストアデザイン変更でアプリから独立したカテゴリに
+Android向けアプリ定額サービス「Google Play Pass」正式リリース 
+
+先に書いた通り、正式には発表されておらず、このため認定を受けたデバイスも市場には存在していません。しかし、近い内にGoogleがその詳細を公開する可能性は十分にあります。10月15日（現地時間）に行われるPixel 4の発表イベントは、そのタイミングとしては有力ではないかと考えられます。
+ ]]></description>
+			<pubDate>Wed, 09 Oct 2019 03:50:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
