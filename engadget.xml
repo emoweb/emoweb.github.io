@@ -5,28 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Android機の急速充電はUSB PDへ収束か。Googleが機器メーカーに対応を要請
-</title>
-			<link>https://japanese.engadget.com/2019/10/10/android-usb-pd-google/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F06ac0f10-eb93-11e9-9eff-39f0d9fa14cd&client=a1acac3e1b3290917d92&signature=91c057341d13ecc7080b2fcdfe5f4b515b9981eb" />
-米グーグルがAndroidを採用するスマートフォンメーカーに対して、USB-Cポートを搭載した新規モデルでのUSB PD規格準拠と、デジタル・ウェルビーイング機能搭載への対応を求めていることが判明しました。
-
-USB PDのPDとは「Power Delivery」の略で、最大100Wの電力を送ることができる仕様。スマートフォンにおいては実質的に急速充電の技術としても使えますが、その視点で見た場合、汎用性が高い点が特徴です。
- ]]></description>
-			<pubDate>Thu, 10 Oct 2019 20:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Googleのプログラム学習ツールがPCでも。「Grasshopper」のWebアプリ版公開
-</title>
-			<link>https://japanese.engadget.com/2019/10/10/google-pc-grasshopper-web/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F4e7e98a0-eb19-11e9-bfbe-1b5d4f7147e6&client=a1acac3e1b3290917d92&signature=9be9da4b97d6fd5bb13452e6663327a4aa5f6ec2" />
-Googleは10月8日（現地時間）、初心者がプログラムの基礎を学習するためのサービス「Grasshopper」が、Webベースのアプリとしてデスクトップからも利用可能になったと発表しました。
-
-Grasshopperは、Googleの社内インキュベーターArea120から誕生したサービスで、これまではAndroidとiOS向けのアプリのみが提供されていました。Javascriptの基礎を学習するこのサービスは2018年4月のリリース以来、200万人を超える人が利用してきたとのこと。今回のデスクトップ（Webアプリ）版公開で、ますます利用者が増えるはずです。
- ]]></description>
-			<pubDate>Thu, 10 Oct 2019 21:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    折りたたみスマホ Galaxy Fold レビュー。ガチ勢専用の高コスト可変機
 </title>
 			<link>https://japanese.engadget.com/2019/10/10/galaxy-fold-review/</link>
@@ -547,6 +525,48 @@ Predator Thronos（プレデター スロノス）がようやく日本にもき
 
  ]]></description>
 			<pubDate>Fri, 11 Oct 2019 03:02:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Google Stadia、「負のレイテンシ」により遅延を克服？プレイヤーの入力を予測して反応速度アップか
+</title>
+			<link>https://japanese.engadget.com/2019/10/11/google-stadia/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F7a881530-ebfe-11e9-ab1b-77523cc3241f&client=a1acac3e1b3290917d92&signature=74d594ef5fea413d08a6001a1a7345a49a5c3b8e" />
+Google
+
+GoogleのストリーミングゲームサービスStadiaは今年11月から、日本を含まない世界14カ国からサービス開始が予告されています。そしてストリーミングゲームとは「サーバー側でゲームを駆動し、その画面をスマホやタブレットなど末端のデバイスに配信する」しくみのため、一般にプレイヤーの操作がゲームに反映されるまでの遅延が懸念される傾向があります。
+
+こうした遅延問題につき、Stadia担当幹部がプレイヤーの入力予測など「負のレイテンシ（遅延）」という概念により解決すると述べたことが報じられています。
+ ]]></description>
+			<pubDate>Fri, 11 Oct 2019 04:40:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Pixelbook Goの実機画像が大量に流出。背面のリブが特徴的
+</title>
+			<link>https://japanese.engadget.com/2019/10/11/pixelbook-go/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F6d3fa630-ebfa-11e9-bdff-f0180d3688fa&client=a1acac3e1b3290917d92&signature=757ca9e3cec68a95a347a241c1c7f9d36bc006bc" />
+Googleが10月15日のイベントで発表すると予想されている、次期ラップトップ「Pixelbook Go」。そのプロトタイプとされる実機写真やハンズオン動画が大量に流出しています。
+
+ 
+関連記事：
+Googleの次期ラップトップは「Pixelbook Go」に？ 13.3インチ/4Kディスプレイ搭載か
+
+9to5Googleが信頼できる情報源からとして、掲載している画像によると、背面は艶消しカラーでPixel 2やPixel 2 XLによく似た仕上げ。カラーはNot Pinkのように見えます。特徴的なのはその背面で、リブで滑り止めを施されたデザインとなっています。
+
+9月末にPixelbook Goの名称と共にもたらされた情報では、底面に持ちやすさを改善する「触覚フィール（tactile feel）」を採用するとのことでした。おそらくは、このリブ加工のことを指していると推測できます。
+
+キーボード自体はPixelbookのものに似ていますが、キーボード両端にスピーカーが搭載されており、音質面でも期待できそうです。また、本体の両側面にそれぞれUSB Type-Cポートも備えます。
+
+そのほか、噂されている仕様としては、ディスプレイは13.3インチ 16:9で、フルHDと4K「Molecular Display（分子ディスプレイ）」の2モデル。プロセッサはintel Core m3/i5/i7でRAMが8GB/16GB、内蔵ストレージは128GB/256GB。
+
+タッチパネルには対応しているものの、どうやら専用スタイラスであるPixelbook Penのサポートはないようです。また、指紋センサも非搭載。
+
+ 
+
+背面のロゴや、キーボード上部の「ProductName」など、プレースホルダーとみられる箇所もありますが、製品版のデザインも大きくは変わらないと考えられます。
+
+今度のPixelbook Goは日本で出してくれるのかが気になりますが、それは15日（日本では16日未明）の発表を待つ必要がありそうです。
+ ]]></description>
+			<pubDate>Fri, 11 Oct 2019 05:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
