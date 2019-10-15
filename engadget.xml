@@ -5,59 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ダイソンが電気自動車の発売を断念　全固体電池の開発は継続
-</title>
-			<link>https://japanese.engadget.com/2019/10/14/dyson-electric-car-project-shut-down/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F23048d40-ec15-11e9-9add-c59531349868&client=a1acac3e1b3290917d92&signature=cfd7a381314866d0b93c43dc065943a3b705ab2d" />ユニークな掃除機や扇風機で知られる英国のダイソンが、突如として電気自動車の開発に乗り出すと宣言し、自動車業界に戦慄が走ったのは2017年のこと。しかし、残念ながらその成果が製品として我々の前に姿を見せることはないようです。ダイソンは10月10日、電気自動車の開発プロジェクトを取り止めると発表。同社創業者で最高技術責任者でもあるサー・ジェームズ・ダイソンが社員に宛てた手紙を公開しました。
- ]]></description>
-			<pubDate>Mon, 14 Oct 2019 23:30:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Linuxの「sudo」コマンドにroot権限奪取の脆弱性。ユーザーID処理のバグで制限無効化
-</title>
-			<link>https://japanese.engadget.com/2019/10/14/linux-sudo-root-id/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F5ba2bcd0-eef9-11e9-afdf-73c000f0bfe7&client=a1acac3e1b3290917d92&signature=3db41b0a0ae3cce0ec24e201fa3b3743c87c0a5b" />
-Linuxのsudoコマンドに、本来root権限をとれないユーザーがそれを奪取できるようになる脆弱性が発見されました。この脆弱性を突けば、sudoを利用する際の権限設定ファイルsudoersを適切に設定していても、sudoを使えるユーザーなら完全なrootレベルでコマンドを実行できるようになるとのこと。すでに修正が施されたsudoコマンドがリリースされています。
- ]]></description>
-			<pubDate>Mon, 14 Oct 2019 23:45:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Xboxメッセージで不快な言葉を非表示にするフィルターがテスト開始
-</title>
-			<link>https://japanese.engadget.com/2019/10/15/xbox/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F5fa53cd0-eefa-11e9-9fb3-04356223a893&client=a1acac3e1b3290917d92&signature=83c220a8f9f0877755bbda539acc1b2c7b1f6a98" />
-本気と本気がぶつかり合うゲームのコミュニティにて、心ない言葉が飛びかうのはありがちなことです。そうした事態を防ぐべく、マイクロソフトはXbox上でのメッセージにつき、不快な言葉を自動的にブロックするコンテンツフィルターのテストを開始しました。
- ]]></description>
-			<pubDate>Tue, 15 Oct 2019 00:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Google、USB-C対応のTitanセキュリティキーを40ドルで米国発売
-</title>
-			<link>https://japanese.engadget.com/2019/10/15/google-usb-c-titan-40/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F45a4f320-eeff-11e9-bfff-4b74528188fd&client=a1acac3e1b3290917d92&signature=d4383845e21f1ad81fd8134abc7838dd93aab88f" />Googleが日本でも販売しているTitanセキュリティキー。その最新版となるUSB Type-C対応モデルが、米国で発売となります。価格は40ドル。
-
- 
-関連記事：
-GoogleのTitanセキュリティキーが日本でも発売に。G Suite向けセキュリティ強化機能も発表 
-
-これまでのTitanセキュリティキーはUSB Type-AとBluetooth、NFCで利用できるものでしたが、新しいUSB-C Titanセキュリティキーは、最近増えているUSB Type-Cで利用可能。GoogleやMicrosoftらと共に、FIDO U2FやFIDO2といった規格の策定にも尽力している、セキュリティキーの有力メーカーYubicoと共同開発したとのことです。
-
-見た目は、すでにYubicoが発売中のYubikey 5Cと同じですが、ファームウェアはGoogle独自のものになっています。ただし、従来のTitanセキュリティキーと同様に、FIDO2規格に準拠しているので、Googleアカウントのログインのほか、TwitterやFacebook、DropBoxなどの2要素認証でも利用できます。
-
-従来のType-Aタイプと同様に、Android、Chrome OS、macOS、Windowsで利用可能。iPad ProにもUSB Type-Cはありますが、残念ながらiOS、iPadOSでは利用できません。なお、Yubicoには、iPhoneのLightningコネクタでも利用できるYubikey 5Ciというモデルもあります。
-
-Type-Cのセキュリティキーは、Androidスマートフォンでも手軽に利用できるのが魅力です。フィッシング対策にも大きな力を発揮するだけに、日本での発売も期待したいところです。
-
- 
-関連記事：
-Google、社員へのセキュリティキー導入でフィッシング被害が0件に
- 
-
- 
- ]]></description>
-			<pubDate>Tue, 15 Oct 2019 00:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    キヤノンのカラビナ型タフネス小型カメラのIVY REC、海外で一般販売へ
 </title>
 			<link>https://japanese.engadget.com/2019/10/15/ivy-rec/</link>
@@ -724,6 +671,98 @@ Engadgetでは新発表となる機種やサービスのまとめ記事のほか
 今回の動きは、この個人債務を解決し企業再建をするための手続きであり、Faraday Futureとしての信頼回復計画に沿ったものとされます。ただ、これが効果を発揮するという保証はありません。
  ]]></description>
 			<pubDate>Tue, 15 Oct 2019 07:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Google、AirPods対抗の新イヤホン「Pixel Buds」（第2世代）発表
+</title>
+			<link>https://japanese.engadget.com/2019/10/15/google-airpods-pixel-buds-2/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2Fe5a6a380-ef56-11e9-a5fd-2753e0ee9565&client=a1acac3e1b3290917d92&signature=cfc0479abe32020e097d6e8a113b1be71f165442" />
+Made by Googleイベントより。Googleが完全無線イヤホン「Pixel Buds」（第2世代）を発表しました。20年春に発売予定、価格は179ドル（約2万円）です。
+
+この新しい「Pixel Buds」は、従来モデルと異なりケーブルを廃した完全無線タイプ。バッテリー持続は最大5時間で、充電ケースに収納することで最大24時間（いずれも公称値）に延長できます。このバッテリー持続時間はアップルのAirPodsと同一です。
+
+
+
+また、Bluetoothの通信可能距離を大幅に延長したといい、例えば自宅で広い庭から室内で充電中のスマートフォンと安定してペアリングすることが可能。Googleの担当者は「サッカー場の端から端までをカバーできる」と通信可能距離をアピールします。
+
+ウェアラブルデバイスとしての特徴も備え、スマートフォンへの着信を受話したり、簡単なテキストメッセージなども音声コマンドで送信可能。Google翻訳にも対応し、ウェアラブルの通訳機器として活用することもできます。そもそもGoogleアシスタントに対応するほか、高品位のマイクを内蔵するため、耳に装着するスマートスピーカーといった具合です。
+
+イヤホンはAirPodsと異なり密閉型。何千もの耳をスキャンして、できるだけ多くのユーザーにフィットするデザインを追求したとのこと。また、環境音の強弱に合わせて自動的に音量を上げ下げする機能を搭載。静かな場所では音量を小さく、ざわついたレストランでは音量を上げるなどして、音楽の快適な視聴環境を提供するといいます。
+
+
+
+
+ワイヤレス充電対応のAirPodsよりも20ドル（約2200円）安い価格、そして長いBluetooth通信距離が魅力の本機種。発売が2020年春とやや先なのが残念ですが、国内発売も楽しみにしたいところです。
+ ]]></description>
+			<pubDate>Tue, 15 Oct 2019 10:22:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    速報：Pixelbook Goは13.3型、約900gで649ドルからのChrome OS機
+</title>
+			<link>https://japanese.engadget.com/2019/10/15/pixelbook-go-13-3-900g-649-chrome-os/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-10/bc93a030-ef59-11e9-adbe-03854b040f6f" />
+Googleのハードウェアイベント「Made By Google 2019」より。Googleが昨今力を入れるPixelbookシリーズの新モデルとして『Pixelbook Go』を発表しました。
+
+以前よりウワサのあったように、ここ数世代のPixelbookシリーズが辿る高級・重装備路線とは一線を画する、「649ドルからと安価ながら、13.3インチ画面で900g」という、コンパクトで軽量なChrome OS搭載クラムシェルノートPCとなっています。
+ ]]></description>
+			<pubDate>Tue, 15 Oct 2019 10:43:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    速報：Stadia は11月19日から14か国で開始。Googleのストリーミングゲームサービス
+</title>
+			<link>https://japanese.engadget.com/2019/10/15/stadia-11-19-google/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F68f990d0-ef57-11e9-adbf-e6f7811a766a&client=a1acac3e1b3290917d92&signature=a114f24f0e5c41dc0304d12ad8d5392baaed2d40" />
+
+10月15日の made by google イベントで、Google がストリーミングゲームサービス Stadia を11月19日から開始することを発表しました。
+
+11月19日のサービス開始時の提供地域は、米国のほかカナダ、英国、アイルランド、フランス、ドイツ、イタリア、スペイン、オランダ、ベルギー、デンマーク、スウェーデン、ノルウェー、フィンランド。予告どおり、日本は含まれません。
+
+
+Stadia は Google のデータセンター側でゲームを動かし、ストリーミング映像としてプレーヤーに見せるゲームサービス。
+
+プレーヤーの手元のデバイスはYouTubeが見られる程度の程度の性能があれば良いため、Googleのサーバまでのネットワーク環境さえ確保できれば、スマホでもタブレットでも、非力な薄型PCやスマートテレビでも、Chromecast を接続したモニタでも、4K HDR 60fps映像に5.1chサラウンドなど、ハイエンドゲーミングPCと同等のゲームが遊べることが特徴です。
+
+速報：Googleのゲームサービス『STADIA』発表。YouTubeのゲーム動画から即プレイ開始(2019年3月20日)
+
+ライバルとしては、Googleと同じく世界中に構えたデータセンタが強みのマイクロソフトによる Project xCloud や、ソニーがいち早く提供してきた PlayStation Now があります。
+
+対する Stadia のユニークな点は、より快適に遊ぶための専用コントローラ Stadia コントローラを用意すること。
+
+ストリーミングゲームは「映像を再生するだけなのでデバイスを問わない」と言いつつ、プレーヤーの入力から映像が戻ってくるまでの遅延を短縮するため、コントローラ側の最適化も課題でした。
+
+Stadia コントローラはスマホやPCに接続するのではなく、コントローラ自体がルータを介してネットに接続することで、入力遅延を最小に抑えるアイデアです。
+
+
+
+Stadia は月に定額で遊び放題(サーバからストリーミングし放題)、プラス数本の特典ゲーム付きプラン Stadia Proと、従量制で遊んだぶんだけのプランがあります。いずれもゲーム自体は原則的に別売り。定額と従量は、データセンタのゲーミングサーバと回線を専有することに対する料金のイメージです。定額の場合は Destiny 2など一部のゲームと、追加購入の割引等の特典付き。
+
+いまのところ日本国内での展開予定については情報がなく、今回の Pixel 4 発表イベントでも更新はありません。
+
+(更新中)
+ 
+ ]]></description>
+			<pubDate>Tue, 15 Oct 2019 10:46:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Google、新型スマートスピーカー「Nest Mini」発表
+</title>
+			<link>https://japanese.engadget.com/2019/10/15/google-nest-mini/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F075627e0-ef5b-11e9-bf77-153f11b49faa&client=a1acac3e1b3290917d92&signature=667dfd875820ee61e44a59b3f2726684ecdd38ed" />
+Made by Googleイベントより。Googleが、Google Home Miniの後継機をなる「Nest Mini」を発表しました。価格は49ドルで、米国では10月15日から予約開始。発売は10月22日です。
+
+デザインはGoogle Home Miniと変わっていませんが、中身はよりパワフルなものへとアップデートされました。
+
+まずスピーカーですが、従来の2倍の低音出力が可能となりました。加えて、ノイズの多い環境でも音声をよりよく認識できるよう、3つのマイクを搭載します。
+
+また、周囲の環境に合わせて、音量を動的に変更する機能も搭載しました。周囲がうるさければ、アシスタントからの返答も大きな音量で返されます。
+
+ 
+
+Googleアシスタントの反応そのものもよくなりました。従来はGoogleアシスタント機能は、膨大な量の機械学習モデルによって成り立っており、クラウド上のサーバーを使う必要がありました。しかし、Nest Miniでは最大1TeraOPSの処理能力を備えた専用の機械学習チップを搭載しており、ローカルでコマンドを処理可能となりました。
+
+（更新中）
+ ]]></description>
+			<pubDate>Tue, 15 Oct 2019 10:51:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
