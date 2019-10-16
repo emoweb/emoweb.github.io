@@ -100,5 +100,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1213/002/1_o.jpg"></div></div><span class="caption">GANKER EX</span></div></div></div></div><p>　中国GJS ROBOT製の競技用格闘ロボット「GANKER EX」が、米国のAmazon.comで販売開始された。価格は499.99ドルだ。</p><p>　GANKER EXは、肩や腕、腰などに、60度の角度を0.09秒で動かせる高速サーボを採用。足も360度に高速で動かせるモーターを内蔵し、5m/sの速度で移動できるという、格闘競技専用のロボットとなっている。</p><p>　本体には7カ所の圧力センサーを搭載し、最大で7カ所まで指定できるスコアリングシステムを内蔵。0.01Nの力から反応し、与えられたダメージを計算する。なお、HPは1から1,000の範囲となっている。</p><p>　また、敵と味方を区別するためのLEDや認識システムも備える。ロボットの手には剣、槍、盾などの武器をツールレスで装着可能。関節を自由に動かして、その動きをリアルタイム反映するコントローラが付属する。</p><p>　本体サイズは197×251×222mm(幅×奥行き×高さ、アーマー装着時)、重量は1.375kg。</p><p>　なお、GANKER EXにはユーザーをモーションキャプチャし、その動きをリアルタイムに反映させるモデルも用意されているが、こちらはまだ未発売。</p></div></div>]]></description>
 			<pubDate>Wed, 16 Oct 2019 16:41:58 +0900</pubDate>
 		</item>
+		<item>
+			<title>Adobe Acrobatに悪意のあるコードを実行される脆弱性 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1213040.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1213/040/01_o.png"></div></div></div></div></div></div><p>　<a href="https://www.jpcert.or.jp/" class="n" target="_blank">一般社団法人 JPCERT コーディネーションセンター</a>は、AdobeのPDF閲覧アプリの「Acrobat」および「Acrobat Reader」の脆弱性について注意喚起を行なっている。</p><p>　これはAdobeが10月15日に報告したセキュリティ案件(APSB19-49)についてで、脆弱性を悪用したコンテンツを同アプリで開いた場合に、実行ユーザー権限で任意のコードが実行されたり、情報が搾取される恐れがある。対策用のアップデートはすでに配布済みで、最新版に更新すれば回避できる。</p></div></div>]]></description>
+			<pubDate>Wed, 16 Oct 2019 17:59:20 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
