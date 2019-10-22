@@ -5,15 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Googleが修正を約束、Pixel 4の『目を閉じても』アンロックする顔認証
-</title>
-			<link>https://japanese.engadget.com/2019/10/21/pixel-4-google/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F87c7cad0-f3c7-11e9-bfdb-f88e51937c62&client=a1acac3e1b3290917d92&signature=c254827cb97a91d85db79f6151a44c9b3f4d468f" />
-先日、Googleの新型スマートフォン「Pixel 4」にて目を閉じた状態でも顔認証によるロック解除ができると判明していました。これにつきGoogleが、今後のアップデートで「開いた目」の検知に対応すると約束したことが報じられています。
- ]]></description>
-			<pubDate>Mon, 21 Oct 2019 03:45:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Xperia 8 の純正ケース「Style Cover View」は閉じたままでも通知を確認できる
 </title>
 			<link>https://japanese.engadget.com/2019/10/21/xperia-8-style-cover-view/</link>
@@ -1133,6 +1124,17 @@ Steam Link Anywhere発表。スマホで外出先からPCゲームのリモー�
 アマゾンのEchoaやGoogle Homeといった音声アシスタント搭載スピーカー用に、セキュリティ研究者がフィッシング（経済的価値がある情報を盗み出す詐欺行為）や盗聴できるアプリを試験的に申請し、実際に承認されてしまったことが報じられています。
  ]]></description>
 			<pubDate>Tue, 22 Oct 2019 01:35:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    ビジネス向けエッジコンピューティングNVIDIA EGX Edge技術発表。処理性能1.6TB/s以上、AI･IoT･5Gで採用
+</title>
+			<link>https://japanese.engadget.com/2019/10/22/nvidia-egx-edge-1-6tb-s-ai-iot-5g/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F920cb330-f48e-11e9-b559-8072705d148b&client=a1acac3e1b3290917d92&signature=23ff6406251ae8ae4b814115a34bba7026cde261" />
+NVIDIAはコンシューマー向けグラフィックスカードで先頭を走りつつ、その軸足はエンタープライズの世界に置いています。10月21日、NVIDIAはAIやリアルタイムレイトレーシング向けの機能をまとめたCUDA-Xライブラリーと認定GPUサーバーを組み合わせたNVIDIA EGX Edge Supercomputing Platformを発表しました。
+
+NVIDIAはEGX技術を生産現場における製造検査ラインや、街頭に設置されたカメラやセンサーからのストリーミングデータを高速処理し、次世代のAIやIoTを提供するクラウドネイティブなプラットフォームだと説明します。
+ ]]></description>
+			<pubDate>Tue, 22 Oct 2019 02:10:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
