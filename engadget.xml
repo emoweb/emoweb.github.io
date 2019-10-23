@@ -5,31 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    アップルARメガネ、2020年に発売？Arm搭載Macも登場か（Bloomberg報道）
-</title>
-			<link>https://japanese.engadget.com/2019/10/21/ar-2020-arm-mac-bloomberg/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2Fa2887180-f476-11e9-b7ae-45910ebee24a&client=a1acac3e1b3290917d92&signature=551b222143af64b8e0158a22a9ae7c47142a81ae" />
-アップルが長らく噂されているARヘッドセット（いわゆるアップルARメガネ）のほか、複数の未発表製品についての予測が報じられています。
- ]]></description>
-			<pubDate>Mon, 21 Oct 2019 23:15:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Hydrogen Oneが645ドルと半額値下げ。REDのホログラフィックスマートフォン
-</title>
-			<link>https://japanese.engadget.com/2019/10/21/hydrogen-one-645-red/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F4cc101a0-f402-11e9-94f6-a814a3537870&client=a1acac3e1b3290917d92&signature=a5310524d99064fd7a0f22690f06b1d6b0f01094" />
-
-REDのホログラフィックスマートフォンのHydrogen Oneが、当初の価格の約半額となる645ドル（約7万円）で販売されているのが確認されました。
-
-海外誌のPCMagでリードアナリストを務めるSascha Segan氏が、REDのウェブページで発見した、今回の情報。なお、定価が1595ドル（約17万円）とより高価なチタニウムバージョンも、現在は895ドル（約9万7000円）で販売されています。
-
-Hydrogen Oneはホログラフィック3Dディスプレイによる裸眼での3D表示や、カメラモジュールによる拡張性をアピールしていました。しかし実際に登場した製品は3Dでも2Dでもディスプレイの表示品質は優れたものではなく、またスペックは1世代前のものでした。
-
-非常に野心的な計画だったHydrogen Oneはお世辞にも成功したとはいえない状況ですが、REDは次期モデルとなる「Hydrogen Two」の開発と、カメラモジュールの計画が続いていると言及しています。さらに、開発中の謎のカメラ「Komodo」との連携も示唆されているのです。REDの今後の挑戦の行方を見守りたいものです。
- ]]></description>
-			<pubDate>Mon, 21 Oct 2019 23:34:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    iPhone SE2(仮)、効率アップのため新設計アンテナ採用のうわさ
 </title>
 			<link>https://japanese.engadget.com/2019/10/22/iphone-se2/</link>
@@ -695,6 +670,45 @@ Mozilla、情報漏洩をチェックできる「Firefox Monitor」提供開始
 サムスンのGalaxy S10に関してディスプレイ指紋認証の不具合が報告された後に、イギリスにて一部の銀行が同デバイスの専用アプリを使用不能にするなど、いわゆる「ブラックリスト」入りさせた噂が報じられています。
  ]]></description>
 			<pubDate>Wed, 23 Oct 2019 02:02:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    一部のGoogle Homeがアップデートで使用不能になる不具合。Googleは修正中
+</title>
+			<link>https://japanese.engadget.com/2019/10/23/google-home-google/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F0f64c520-f54d-11e9-bf1f-a304eb1b922b&client=a1acac3e1b3290917d92&signature=9818281dd2d00397b2244d44d972aa902c2c901f" />
+Googleのスマートスピーカー、Google HomeやHome Miniは、自動でアップデートを受信し適用する機能を持っていますが、それが原因で動作しなくり、いわゆる文鎮化する現象が発生しているようです。
+
+この不具合、少なくとも2019年1月にはGoogleのサポートフォーラムで報告されており、9月末には「チームがこの問題に取り組んでおり、根本原因を確認している」とのコメントもありました。しかし、現在まで修正はできていないようです。
+
+症状としては、4つのLEDがすべて点灯し、無反応になってしまうというもの。電源の抜き差しや工場出荷状態へのリセットで復旧したとの報告もありますが、それでもダメだという例もあります。
+
+日本でも発生しているのかネットで検索してみましたが、故障した、無反応になったという例はそれなりに見つかるものの、本件に該当するかどうかまではわかりません。そもそも、いつのまにかアップデートが開始され、そのまま文鎮化してしまうと、アップデートに起因するかはユーザーには判断が難しいと言えます。
+
+対処方法ですが、
+
+ミュートを有効にする（長押しはしない）
+Google Homeデバイスのプラグを抜く（10秒間）
+10秒後、再び接続。完全に再起動したら、マイクをオフにしてからオンにする
+
+を試してほしいとのこと。これでだめだとサポートに連絡するしかありません。
+
+この件に関して、Googleからの正式な案内は出ていません。サポートの対応についても情報が錯綜しており、保証期間外でも交換対応になったという情報もあれば、保証期間切れでは何も対応してもらえなかったという情報も見受けられます。ちなみにGoogle Home、Home Miniの保証期間は購入後1年です。
+
+なんにしろ、同じような症状が出ている場合は、一度サポートへ連絡してみるのが良さそうです。
+ ]]></description>
+			<pubDate>Wed, 23 Oct 2019 02:20:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    SpaceXの衛星ブロードバンド、2020年半ばにもサービス開始の意向。ライバルに先手
+</title>
+			<link>https://japanese.engadget.com/2019/10/23/spacex-2020/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2Fb30120b0-f55d-11e9-bfff-c54ac42e5df2&client=a1acac3e1b3290917d92&signature=cc1503c72fdb2d9c2562be74598c62fd15550cb9" />
+
+先日、3万もの人工衛星の電波使用に関する申請を国際電気通信連合(ITU)に対しておこなったSpaceX社長のGwynne Shotwell氏が、これら衛星コンステレーションを使った衛星ブロードバンドサービス「Starlink」を2020年半ばにも開始したいと記者団に語りました。
+
+ただ、サービスの開始にはすくなくとも(すでに打ち上げたものを含め)6～8回はまとまった数量の衛星を打ち上げる必要があるとのこと。一方、CEOのイーロン・マスク氏は、10月22日にStarlinkの電波を中継するターミナルを自宅に設置し「Whoa, it worked!」とサービスの潜在的顧客に向けて少々わざとらしくも感じられるツイートを放っています。
+ ]]></description>
+			<pubDate>Wed, 23 Oct 2019 02:50:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
