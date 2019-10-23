@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>中小企業を脅かすサプライチェーン攻撃</title>
-			<link>https://blog.kaspersky.co.jp/small-office-supply-chain/24122/</link>
-			<description><![CDATA[規模の小さい企業はサイバー犯罪の主たる標的になりにくいかもしれませんが、だからといって、サプライチェーン攻撃の被害を受ける可能性がないわけではありません。被害を受けないための対策とは。]]></description>
-			<pubDate>Wed, 02 Oct 2019 01:00:20 +0000</pubDate>
-		</item>
-		<item>
 			<title>業務データを守るには：バックアップはいくつあってもかまわない</title>
 			<link>https://blog.kaspersky.co.jp/ransomware-in-dental-data-backup-firm/24225/</link>
 			<description><![CDATA[1つのクラウドストレージに全データを保存していませんか？そのバックアップサービスがランサムウェアの攻撃を受けたらどうなるでしょうか。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/security-economics-2019/24298/</link>
 			<description><![CDATA[Kasperskyでは企業の意思決定者約5,000人を調査し、サイバーセキュリティに対する考えと、サイバーの脅威に対する企業としての姿勢について尋ねました。]]></description>
 			<pubDate>Fri, 18 Oct 2019 04:00:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>長靴をはいた猫とAPT</title>
+			<link>https://blog.kaspersky.co.jp/operation-puss-in-boots/24354/</link>
+			<description><![CDATA[雇われたハッカーが政治的な目的のソーシャルエンジニアリングと水飲み場型攻撃をどのように仕掛けるか、シャルル・ペローの童話で説明します。]]></description>
+			<pubDate>Wed, 23 Oct 2019 01:00:14 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
