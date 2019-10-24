@@ -5,42 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    指紋認証不具合のGalaxy S10、一部英銀行でブラックリスト入りのうわさ
-</title>
-			<link>https://japanese.engadget.com/2019/10/23/galaxy-s10/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F4b43bfe0-f554-11e9-af73-9e24c95d5ed7&client=a1acac3e1b3290917d92&signature=1ed350a2418b30ef41c139847f5eeedf4e9f6f77" />
-サムスンのGalaxy S10に関してディスプレイ指紋認証の不具合が報告された後に、イギリスにて一部の銀行が同デバイスの専用アプリを使用不能にするなど、いわゆる「ブラックリスト」入りさせた噂が報じられています。
- ]]></description>
-			<pubDate>Wed, 23 Oct 2019 02:02:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    一部のGoogle Homeがアップデートで使用不能になる不具合。Googleは修正中
-</title>
-			<link>https://japanese.engadget.com/2019/10/23/google-home-google/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F0f64c520-f54d-11e9-bf1f-a304eb1b922b&client=a1acac3e1b3290917d92&signature=9818281dd2d00397b2244d44d972aa902c2c901f" />
-Googleのスマートスピーカー、Google HomeやHome Miniは、自動でアップデートを受信し適用する機能を持っていますが、それが原因で動作しなくり、いわゆる文鎮化する現象が発生しているようです。
-
-この不具合、少なくとも2019年1月にはGoogleのサポートフォーラムで報告されており、9月末には「チームがこの問題に取り組んでおり、根本原因を確認している」とのコメントもありました。しかし、現在まで修正はできていないようです。
-
-症状としては、4つのLEDがすべて点灯し、無反応になってしまうというもの。電源の抜き差しや工場出荷状態へのリセットで復旧したとの報告もありますが、それでもダメだという例もあります。
-
-日本でも発生しているのかネットで検索してみましたが、故障した、無反応になったという例はそれなりに見つかるものの、本件に該当するかどうかまではわかりません。そもそも、いつのまにかアップデートが開始され、そのまま文鎮化してしまうと、アップデートに起因するかはユーザーには判断が難しいと言えます。
-
-対処方法ですが、
-
-ミュートを有効にする（長押しはしない）
-Google Homeデバイスのプラグを抜く（10秒間）
-10秒後、再び接続。完全に再起動したら、マイクをオフにしてからオンにする
-
-を試してほしいとのこと。これでだめだとサポートに連絡するしかありません。
-
-この件に関して、Googleからの正式な案内は出ていません。サポートの対応についても情報が錯綜しており、保証期間外でも交換対応になったという情報もあれば、保証期間切れでは何も対応してもらえなかったという情報も見受けられます。ちなみにGoogle Home、Home Miniの保証期間は購入後1年です。
-
-なんにしろ、同じような症状が出ている場合は、一度サポートへ連絡してみるのが良さそうです。
- ]]></description>
-			<pubDate>Wed, 23 Oct 2019 02:20:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    SpaceXの衛星ブロードバンド、2020年半ばにもサービス開始の意向。ライバルに先手
 </title>
 			<link>https://japanese.engadget.com/2019/10/23/spacex-2020/</link>
@@ -484,6 +448,28 @@ AIによる医療画像解析処理はすでにガンの発見などに役立つ
 2018年10月には、ファミリープラン契約者向けに同じくGoogle Home MiniをプレゼントしていたSpotify。なかなか太っ腹なキャンペーンですが、市場の顧客によりアピールしたい同社と、スマートスピーカーを家庭に普及させたいグーグルの思惑が一致した結果ともいえます。
  ]]></description>
 			<pubDate>Thu, 24 Oct 2019 03:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Google、量子コンピューターの「量子超越性」を実証と発表
+</title>
+			<link>https://japanese.engadget.com/2019/10/24/google/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F41bfe3d0-f61d-11e9-9eff-e3cea4f7f2ac&client=a1acac3e1b3290917d92&signature=a2ae94a9c5d90ff13489236ce98046ae21d4e08c" />
+Googleは10月23日（現地時間）、量子コンピューターが現在のノイマン式コンピューターの処理能力を超える、いわゆる「量子超越性（Quantum Supremacy）」を実証したと発表しました。論文は、学術雑誌Natureで公開されています。
+
+通常、コンピューターが処理する最小の情報単位は0と1をあらわすビットですが、量子コンピューターでは0と1のほか、両者を重ね合わせた状態を表現できる「量子ビット」を扱います。これにより、従来のコンピューターでは時間がかかる計算も、効率的に行えるとされています。
+ ]]></description>
+			<pubDate>Thu, 24 Oct 2019 04:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Pixel 4の90Hz書き換え画面に輝度による制限、更新で緩和予定。高速ワイヤレス充電仕様の詳細も
+</title>
+			<link>https://japanese.engadget.com/2019/10/24/pixel-4-90hz/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F4b3a66a0-f63c-11e9-b7bb-7ecf368ea84b&client=a1acac3e1b3290917d92&signature=e50f30898b315b3d674428c1a103a32b18812e6c" />
+米グーグルのスマートフォン「Pixel 4」シリーズの特徴の一つは、90Hz駆動の滑らかなディスプレイです。しかし、実はこのリフレッシュレートは最大値で、一定輝度以上であることなどいくつかの制限がある点、またアップデートにより解決される予定がある点が判明しました。合わせて、高速ワイヤレス充電機能の詳細も伝えられています。
+
+Pixel 4ではディスプレイを一般的な60Hzよりも高速な90Hzで駆動することで、スムーズな操作感を実現しています。しかし海外掲示板のRedditに寄せられた報告では、この90Hz駆動は、画面輝度が75%以上でないと有効にならないことが判明しました。
+ ]]></description>
+			<pubDate>Thu, 24 Oct 2019 05:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
