@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>サイバーイミュニティはどのように適用されるのか</title>
-			<link>https://blog.kaspersky.co.jp/applied-cyberimmunity/24242/</link>
-			<description><![CDATA[サイバーイミュニティとは、実のところ何を意味するのでしょうか。産業インフラ環境に、どのように適用されるのでしょうか。]]></description>
-			<pubDate>Fri, 04 Oct 2019 01:00:39 +0000</pubDate>
-		</item>
-		<item>
 			<title>おとりに使われるボイスメール</title>
 			<link>https://blog.kaspersky.co.jp/fake-voicemail-spam/24309/</link>
 			<description><![CDATA[偽のボイスメールを使ってMicrosoftのサービスにアクセスしようとする、詐欺の手口について。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/vulnerabilities-in-public-clouds/24338/</link>
 			<description><![CDATA[一般的な評価に反し、パブリッククラウドは設計の段階から強力に保護されているわけではありません。さらなる保護の追加が必要です。]]></description>
 			<pubDate>Thu, 24 Oct 2019 01:00:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>暗号化されたファイルを復号するツール：ランサムウェアYatronおよびFortuneCryptの場合</title>
+			<link>https://blog.kaspersky.co.jp/no-more-ransom-yatron-fortunecrypt/23875/</link>
+			<description><![CDATA[ランサムウェア「Yatron」および「FortuneCrypt」によって暗号化されたファイルを復号するためのツールがNo More Ransomサイトに公開されています。]]></description>
+			<pubDate>Fri, 25 Oct 2019 04:00:13 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
