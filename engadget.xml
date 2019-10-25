@@ -5,28 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Spotifyが米プレミア会員にGoogle Home Miniをプレゼント、在庫限りの大盤振る舞い
-</title>
-			<link>https://japanese.engadget.com/2019/10/24/spotify-google-home-mini/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2Fd24b99a0-f62a-11e9-9eeb-aa6e07ebad74&client=a1acac3e1b3290917d92&signature=cd8010ebb93d0aa772d4728ea484076db5cff6a7" />
-音楽ストリーミングサービスのSpotifyは、新規加入・既存契約にかかわらず、米国におけるプレミアムプランの契約者に、米グーグルのスマートスピーカーのGoogle Home Miniをプレゼントすると発表しました。なお、キャンペーンは製品の在庫限りとなっています。
-
-2018年10月には、ファミリープラン契約者向けに同じくGoogle Home MiniをプレゼントしていたSpotify。なかなか太っ腹なキャンペーンですが、市場の顧客によりアピールしたい同社と、スマートスピーカーを家庭に普及させたいグーグルの思惑が一致した結果ともいえます。
- ]]></description>
-			<pubDate>Thu, 24 Oct 2019 03:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Google、量子コンピューターの「量子超越性」を実証と発表
-</title>
-			<link>https://japanese.engadget.com/2019/10/24/google/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F41bfe3d0-f61d-11e9-9eff-e3cea4f7f2ac&client=a1acac3e1b3290917d92&signature=a2ae94a9c5d90ff13489236ce98046ae21d4e08c" />
-Googleは10月23日（現地時間）、量子コンピューターが現在のノイマン式コンピューターの処理能力を超える、いわゆる「量子超越性（Quantum Supremacy）」を実証したと発表しました。論文は、学術雑誌Natureで公開されています。
-
-通常、コンピューターが処理する最小の情報単位は0と1をあらわすビットですが、量子コンピューターでは0と1のほか、両者を重ね合わせた状態を表現できる「量子ビット」を扱います。これにより、従来のコンピューターでは時間がかかる計算も、効率的に行えるとされています。
- ]]></description>
-			<pubDate>Thu, 24 Oct 2019 04:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Pixel 4の90Hz書き換え画面に輝度による制限、更新で緩和予定。高速ワイヤレス充電仕様の詳細も
 </title>
 			<link>https://japanese.engadget.com/2019/10/24/pixel-4-90hz/</link>
@@ -523,6 +501,30 @@ au Online Shop、KDDIおよび沖縄セルラー直営店、Galaxy Harajuku
 しかし実は、一般人でも手ごろに買える衛星電話端末が今でも販売されています。「グローバルスター」が展開する最新のQWERTYキーボード付きメッセージ端末「SPOT X」は地球上のほぼ全域をカバー、圏外ゼロで使えるのです。
  ]]></description>
 			<pubDate>Fri, 25 Oct 2019 00:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    macOS Catalina更新で一部Macが動作不能。EFIファームウェアが原因か
+</title>
+			<link>https://japanese.engadget.com/2019/10/25/macos-catalina-mac-efi/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2Fe94825b0-f6d4-11e9-bff7-8166579f267f&client=a1acac3e1b3290917d92&signature=5e0491cced2cacf5d8cdebf8d7a18d0890bea991" />
+Apple
+
+10月初頭に配信開始されたmacOS Catalinaですが、インストールした一部のMacが動作不能となった多数の報告や、その原因がEFIファームウェアのアップデートではないかとの推測が伝えられています。
+ ]]></description>
+			<pubDate>Fri, 25 Oct 2019 00:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Twitter、API停止しすぎを反省？ Tweetbotで「流れるタイムライン」復活か
+</title>
+			<link>https://japanese.engadget.com/2019/10/25/twitter-api-tweetbot/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F00e90720-f6c6-11e9-bcdc-3cc06e12487f&client=a1acac3e1b3290917d92&signature=3268757f33ce73602ce46958fa9a97e4745161c2" />
+David Becker/Getty Images
+
+Twitterは昨年、数々の旧APIを停止しました。これにより、TweetbotやTwiterrificといったサードパーティ製クライアントが機能削除を余儀なくされています。
+
+こうした方針に関して、Twitterのジャック・ドーシーCEOが見直しを図っていることを示唆していると報じられています。
+ ]]></description>
+			<pubDate>Fri, 25 Oct 2019 01:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
