@@ -5,81 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ほぼ完璧な状態のApple Ⅰ、約1億9000万円で販売中。カスタム木製ケース付き
-</title>
-			<link>https://japanese.engadget.com/2019/10/28/apple-1-9000/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F16e8eb50-f93f-11e9-befe-b5de0999cf41&client=a1acac3e1b3290917d92&signature=f924dd5471a016204c50f932c4efb60cd9c7d109" />
-アップルの原点と言えるApple Ⅰコンピュータの「ほぼ完ぺきな状態」と謳われた一品が、米オークションサービスeBayにて175万ドル（約1億9000万円）で販売されています。
- ]]></description>
-			<pubDate>Mon, 28 Oct 2019 02:30:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Googleが検索エンジンを刷新へ「過去5年間で最大の飛躍」
-</title>
-			<link>https://japanese.engadget.com/2019/10/28/google-5/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=1600%2C1067%2C0%2C0&quality=85&format=jpg&resize=1200%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2Fea32e290-f93f-11e9-94fa-7686de75d90d&client=a1acac3e1b3290917d92&signature=6710d7e729f5a103a6d98e0b63e894bbcda06227" />SOPA Images via Getty Images
-
-Googleはその祖業の検索エンジンにおいて、新しい言語処理技術「BERT」を導入し検索結果を改善します。BERT導入は同社いわく「過去5年間で最大の飛躍を実現し、検索の歴史で最大の飛躍を遂げる」改良となるもので、まずは英語版のGoogle検索から導入し、他言語へも展開していく計画です。
-
-「BERT（Bidirectional Encoder Representations from Transformers）」は機械学習ベースの新しい言語処理モデル。これまでの検索エンジンが苦手としていた「文脈にそった言葉の解釈」をより高精度に行うものとされています。GoogleはBERTの学習モデルを2018年にオープンソースとして発表しています。
-
-「文脈にそった言葉の解釈」とは、複数の意味を持つ言葉があったとき、その言葉を含む文章全体をみて、適切な意味を選択するということ。たとえば「bank」という英単語には「銀行」と「土手」という意味がありますが、どちらの意味で使われているかは、単語を見ただけではわかりません。こうした多義的な言葉を含むフレーズに対して、BERTでは文章全体を参照して、意味を選択します。
-
-BERTを検索に導入すると、話し言葉をそのまま検索エンジンに入れたときの精度が向上します。Googleは英語の検索エンジンにおいて、いくつかの例を紹介しています。
-
-たとえば「Can you get medicine for someone pharmacy(薬局で誰かのために薬を買うことができますか)」という文章は、自分ではなく病にかかった家族や友人のために薬を買う方法を探すシーンが想像できますが、これまでのGoogle検索エンジンのアルゴリズムでは「someone」がキーフレーズだと認識できず、「薬局で薬を買う方法」と解釈した結果を表示していました。
-
-
-
-また、「do estheticians stand a lot at work（エステティシャンは立ち仕事が多いですか）」という文章は、standに複数の意味がある上、at workは本来俗語であることもあって、これまでのGoogle検索では認識しづらい文章でした。こうしたフレーズもBERTでは文脈上必要の無い意味を除外して関連性の高い結果を表示できるとしています。
-
-
-
-
-一方で、BERTモデルを適用しても苦手なフレーズも存在します。たとえば「what state is south of Nebraska,（ネブラスカの南にある州は？）」という文章では、BERTは考えすぎてしまい（カンザス州ではなく）南ネブラスカの小さなコミュニティのホームページを表示してしまいます。
-
-米Wall Street Journalは、10月25日の発表会の中でコメントとして、BERTの推測の誤りを検出するため、「今後も数千人が手作業で検査に当たる」というGoogle 幹部のコメントを紹介しています。
-
-BERTモデルは現在は英語版のGoogle検索のみで使われていますが、多言語展開に関して、興味深い特徴があります。Googleは、BRETでは1つの言語で学習したモデルを他の言語でも展開できると説明。英語で学習したモデルの一部を試験的に応用したところ、韓国語やヒンディー語、ポルトガル語など20カ国語の検索結果を大幅に改良することができたとしています。日本での展開については明らかにされていませんが、そう遠くない日に提供されるものと思われます。
-
-Google検索は15年という長い歴史の中で世界の多くの地域の検索市場を席巻し、今や毎日数十億件の検索が行われるまでになっています。この検索アルゴリズムの変更はWebサイトの運営者やユーザーにとって大きな影響をもたらす可能性があります。
-
-一方で、Googleはこれまで検索アルゴリズムについてブラックボックスとしてその仕組みを公に説明することはめったにありませんでした。もちろんBERTはGoogle検索の一要素にすぎませんが、Google検索の更新について発表会を開いてその仕組みを説明するという行為は、これまでのGoogleには見られなかった動きでもあります。Googleとしても、Google検索の透明性を向上する必要性を感じているのかもしれません。
-
- 
-関連記事：
-Google、ニュース検索結果から「情報源」を強調するアルゴリズム変更。ソースが他記事に埋没しないため
-Google検索結果トップから同一サイト重複を排除。多様性の向上のため
-にわかに注目を集める「GAFA」はなぜ国家から規制を受けるようになったのか（佐野正弘）
- ]]></description>
-			<pubDate>Mon, 28 Oct 2019 03:00:00 -0400</pubDate>
-		</item>
-		<item>
-			<title>    Windows 10Xはクラムシェルにも対応か。開発資料が流出
-</title>
-			<link>https://japanese.engadget.com/2019/10/28/windows-10x/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F68a42990-f936-11e9-98e3-83e92ef6b886&client=a1acac3e1b3290917d92&signature=5edb8c5dcdf82d88f1847f1af71f0e417ffb8c5e" />
-Microsoftは、10月のSurfaceイベントにおいて、2画面端末Surface Neoに搭載する新OS、Windows 10Xを発表しました。端末の発売が2020年末ということもあり、その詳細は、まだ明かされていませんが、どうやら2画面端末だけではなく、従来のクラムシェル（ラップトップ）PCでも利用できるものになるようです。
-
- 
-関連記事：
-Microsoft、2画面PC向けの新OS「Windows 10X」を発表
-
-Twitterで未公開情報を投稿することで知られるWalkingCatが、Microsoftの開発者向けドキュメントらしきものへのリンク投稿。リンク先はすでに削除されていますが、そのスクリーンショットを別のTwitterユーザーが公開しました。
-
-そのドキュメントによると、Windows 10Xは2画面端末だけではなく、クラムシェルでも動作するとのことです。
-
-UIも従来のWindows 10とは異なる点が多く、例えばスマートメニューはLauncherという名称になります。メニュー項目に「My apps and My apps and website」とあることからわかるように、アプリのショートカットだけではなくブックマークも追加可能。この並びはドラッグ＆ドロップで変更できるとのことです。
-
-タスクバーには、現在アクティブなアプリだけではなく、最近起動したアプリも表示されるようです。このあたりは、iPadOSに近い感じになりそうです。なお、タスクバーの表示は、クラムシェルタイプでは左揃え、折り畳み端末では中央にアイコンが表示されます。
-
-また、PCを起動（ウェイクアップ）した際には、従来のようにスクリーンセーバー的な画面（ロックカーテン）は表示せず、直接認証画面となります。
-
-もっとも、これらの情報は開発途中のものであるため、正式リリースまでに変更される可能性はあります。ただ、端末リリースまではあと1年あるものの、OSとしてはそれよりも早くベータテストなどを開始すると考えられ、詳細が明らかになるのも時間の問題かもしれません。
- ]]></description>
-			<pubDate>Mon, 28 Oct 2019 03:30:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    新幹線水没など台風被害の復旧費用「現時点では算定困難」 JR東日本
 </title>
 			<link>https://japanese.engadget.com/2019/10/28/jr/</link>
@@ -652,6 +577,51 @@ Google Play Musicにはウィジェット機能があったので、完全な標
 アップルが競合他社に遅れを取っているスマートホーム分野にて、存在感を高めるために防犯カメラの開発など多額の投資をしているとの噂が報じられています。
  ]]></description>
 			<pubDate>Mon, 28 Oct 2019 23:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    未発表の超小型ドローン「DJI Mavic Mini」、カナダ通販サイトに現る。もうすぐ発売か
+</title>
+			<link>https://japanese.engadget.com/2019/10/28/dji-mavic-mini/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F3a256b80-f9f7-11e9-bbed-74507a36262d&client=a1acac3e1b3290917d92&signature=1729be5987a9915af75461bd5410b594fc3a1c46" />
+カナダの通販サイトNeweggに、まだ正式発表されていないDJIの手のひらサイズドローン「Mavic Mini」が現れました。このドローンは発表前ではあるものの、これまでにFCCへの提出資料やドローン情報サイトDroneDJからその存在が認識されていました。今回のNeweggへの掲載はこれまでの情報を裏付けるとともに、販売が間近であることを示していそうです。
+ ]]></description>
+			<pubDate>Mon, 28 Oct 2019 23:20:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    iPhone SE2(仮)、2020年3月末発売のうわさ
+</title>
+			<link>https://japanese.engadget.com/2019/10/28/iphone-se2-2020-3/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F136d3300-f9f8-11e9-b7bb-806f8424f757&client=a1acac3e1b3290917d92&signature=ea756c40a16d4daafd940c0e634faf9e155fde11" />
+小型かつ安価なiPhone SE2(仮)は2020年の早い時期に発売と噂されていましたが、より具体的に「3月末に発売」との予測が報じられています。
+ ]]></description>
+			<pubDate>Mon, 28 Oct 2019 23:40:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    iPhoneケースに取り付け可能な小型ドローン　1万2100円で+Styleが発売
+</title>
+			<link>https://japanese.engadget.com/2019/10/29/iphone-1-2100-style/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F02895200-f929-11e9-a5df-10c416c3d725&client=a1acac3e1b3290917d92&signature=0b1e6eccccae01f988936752df8f983e191d242d" />
+
+IoTショールームの+Style（プラススタイル）は25日、専用のiPhoneケースに取り付けられるミニドローン「SELFLY」を発売しました。価格は1万2100円（税込、以下同じ）です。
+
+SELFLYは、手のひらサイズの超小型ドローンです。重量は約68gで、航空法のドローン規制の対象外となるため、事前に飛行許可を申請しなくても使えます。同時発売のiPhone XS/XケースやiPhone XS Maxケース（いずれも2280円）と組み合わせることで、手軽に持ち運べます。
+
+
+▲手のひらサイズに1200万画素のカメラを搭載
+
+1200万画素のカメラを搭載しており、静止画や動画を上空最高15mから撮影できます。静止画撮影は、通常の撮影や最大5秒のタイマー撮影に対応。顔認証機能によって被写体の顔を認識して自動追尾し、ジェスチャーコントロール機能による写真撮影も可能です。動画撮影についても1080p(20fps)の解像度で撮影できます。
+
+▲SELFLYは専用アプリで操作する
+
+オプティカルフローや気圧計、6軸加速度センサーに加え、自動ホバリング（高度維持）機能も搭載しており、初心者でも簡単に飛ばせるとのこと。
+
+500mAhのバッテリーを搭載し、付属の予備バッテリーに交換することで、最大9分間の飛行が可能です。バッテリー2個セットも同時発売。価格は2980円です。
+
+
+▲SELFLYのスペック
+
+ ]]></description>
+			<pubDate>Tue, 29 Oct 2019 00:00:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
