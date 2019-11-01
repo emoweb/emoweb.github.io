@@ -5,16 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Apple Cardで「iPhoneの無利子24回分割購入」を提供、クックCEOが明らかに
-</title>
-			<link>https://japanese.engadget.com/2019/10/31/apple-card-iphone-24-ceo/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=1600%2C1066%2C0%2C0&quality=85&format=jpg&resize=1200%2C800&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F9369fb10-fba6-11e9-bbff-890825c70dee&client=a1acac3e1b3290917d92&signature=185c994457da6e9c539f5e1a9acffbccdccbd60f" />
-Appleは米国向けの「Apple Card」の新サービスとして、「iPhoneの無利子分割購入」を今年後半に提供すると明らかにしました。Appleの投資家向けカンファンスコールの中で、ティム・クックCEOが言及しました。
-
- ]]></description>
-			<pubDate>Thu, 31 Oct 2019 03:00:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    ポケモンGO：No.465 モジャンボ入手方法・色違いと弱点・対策 (大人のポケモン再入門ガイド)
 </title>
 			<link>https://japanese.engadget.com/2019/10/31/go-no-465/</link>
@@ -1020,6 +1010,24 @@ SoCはSnapdragon 710で、RAMとストレージの組み合わせは4GB+64GBと6
 ・京セラ、スマホ事業を数年で見直しの方針
  ]]></description>
 			<pubDate>Thu, 31 Oct 2019 23:50:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Insider向けWin 10プレビューに顔文字やPowerToys新機能が追加
+</title>
+			<link>https://japanese.engadget.com/2019/11/01/insider-win-10-powertoys/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F92545710-fb7f-11e9-b5ec-13b641ac0f85&client=a1acac3e1b3290917d92&signature=1c320413cfec62830e5c9e5584fd2a955ea80d89" /> Microsoftは20月29日（現地時間）、Windows 10 InsiderのFast Ring向けに、ビルド19013（20H1）の配信を開始しました。ビルド19013には、新しい顔文字の追加、PowerToysに新機能の追加、スマホ同期の変更などが含まれています。
+
+5月に配信開始されたWindows 10 バージョン1903では、顔文字ショートカットが利用可能となっています。これまでOS標準の顔文字は、絵文字や、欧米風の横向きの顔文字（:-P など）が主流でしたが、このバージョンでは日本風の顔文字（(❁&acute;◡`❁) など）が追加されていました。さらにビルド19013では、ユーザーからのフィードバックに基づき、日本風の顔文字がいくつか追加されています。
+
+また、9月にリリースされたWindows 10向けカスタマイズツールPowerToysも新しくなり、複数ファイルの一括リネーム機能PowerRenameが追加されました。ウィンドウを指定位置にレイアウトできるFancyZonesもアップデートされ、マルチモニターにも対応。なお、PowerToysについては、GitHubで配布されており、Insiderでなくとも試せるようになっています。
+
+スマートフォンの画面をWindows PC上に表示できるスマホ同期の「スマートフォンの画面」機能にも大きな更新がありました。この機能を利用するには、PCとスマートフォンが同一のWi-Fiに接続されている必要があり、それ以外にもPCがBluetooth Low Energyへの対応が条件となっていました。
+
+Galaxy Note 10などSamsung製の一部のスマートフォンでは、Bluetooth LE非対応でも利用可能だったのですが、これがさらに多くのスマートフォンに拡大されます。ただし、対応するのは基本的にSamsung端末のみとなっています。
+
+ビルド19013では、ほかにもWindows Subsystem for Linux (WSL) 2で、確保したメモリサイズが不要になった場合、それを開放してメモリサイズを縮小可能になったり、DirectX 12の新機能がプレビューできるなどの変更も加わっています。
+ ]]></description>
+			<pubDate>Fri, 01 Nov 2019 00:30:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
