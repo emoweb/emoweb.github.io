@@ -5,27 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    『基地局の整備はカンタンではない』au社長、楽天携帯にコメント
-</title>
-			<link>https://japanese.engadget.com/2019/11/01/au/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2Fe7ece920-fc7f-11e9-bfb7-d2d5b4830357&client=a1acac3e1b3290917d92&signature=5cfb2ab41115e5ca0886fc560cbd0c927034c335" />
-auを展開するKDDIの高橋誠社長は11月1日、楽天の携帯（MNO）参入にコメント。当初10月1日を予定していた商用サービス開始が実質的に延期となっている状況について『そうだろうなぁと。基地局を整備するのは簡単なことではない』と述べました。
-
-高橋社長は楽天について『今年の春先から言っているが、仮想化ネットワークと実際にネットワークを作るのは別問題。基地局の整備はそう簡単ではない。10月1日に基地局が揃うとは思っていなかったので、（実質的な延期は）そうだろうなぁと思っていた』とコメント。
-
-続けて『（楽天は）整備をかなりの体制でやられているようなので、（楽天の商用サービス開始が予想される春以降に向けて）気を引き締めて（料金競争など）対応していきたい』と述べました。
-1.7GHz帯は「しっかり整備しないと」
-なお、楽天の携帯サービスは当初、郊外や都市部の屋内を中心に、au回線を間借り（ローミング）する契約をKDDIと結んでいます。このローミングの利用状況について高橋社長は『東京23区の外に出てしまうと、ほぼ我々のネットワークに繋がる。地下鉄や楽天さんが対応していないビル、昨年までに建てられたビルにはローミングを提供している。楽天さんは1.7GHzでの整備になるので、しっかり整備されないと室内浸透は厳しくなると思う』と述べました。
-
-なお、現時点で楽天とKDDIのローミングは「S8」と呼ばれる接続方式で、ハンドオーバー（au回線から楽天回線への切替、あるいはその逆）の際には音声通話が途切れてしまいます。これについて、4月までに「S10」と呼ばれる新方式に移行し、問題は解消されると改めて表明しました。
-
- 
-・【検証】楽天モバイル自社回線。都内は薄く広く繋がる（石野純也）
-・「意外なほどつながる」楽天キャリア回線を1日使ってみたレビュー
- ]]></description>
-			<pubDate>Fri, 01 Nov 2019 04:40:00 -0400</pubDate>
-		</item>
-		<item>
 			<title>    Android向けGoogleマップでシークレットモードが利用可能に
 </title>
 			<link>https://japanese.engadget.com/2019/11/01/android-google/</link>
@@ -1220,6 +1199,19 @@ Adobe
 AdobeはCreative Cloudアプリをアップデートし、iOS 13およびiPadOSユーザー向けに新機能を追加しました。ダークモードに対応したほか、1300種類の無料フォントを含む全てのAdobe Fontsが利用できます。
  ]]></description>
 			<pubDate>Sat, 02 Nov 2019 05:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>    Google Stadia、ロンドンと東京にゲーム製作スタジオ開設検討中のうわさ
+</title>
+			<link>https://japanese.engadget.com/2019/11/02/google-stadia/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F3e495420-fd43-11e9-be3e-4e0818800d73&client=a1acac3e1b3290917d92&signature=b7d19117d553bb2917393fbe1d494f2c5ab9d154" />
+Justin Sullivan via Getty Images
+
+GoogleはゲームストリーミングプラットフォームStadiaの公開と合わせて、3月に独自のゲーム開発スタジオ「Stadia Games and Entertainment」開設を発表。その後、10月にオリジナルゲーム製作スタジオをカナダのモントリオールに開設したと公表しています。
+
+そして今回、新たにイギリスのロンドンと日本の東京で、スタジオの開設を検討していることが明らかとなりました。
+ ]]></description>
+			<pubDate>Sat, 02 Nov 2019 06:05:00 -0400</pubDate>
 		</item>
 	</channel>
 </rss>
