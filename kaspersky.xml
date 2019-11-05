@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>機械学習を使った詐欺</title>
-			<link>https://blog.kaspersky.co.jp/machine-learning-fake-voice/24324/</link>
-			<description><![CDATA[機械学習アルゴリズムで増強されたソーシャルエンジニアリングは、企業のトップをも欺くことができます。]]></description>
-			<pubDate>Wed, 16 Oct 2019 01:00:52 +0000</pubDate>
-		</item>
-		<item>
 			<title>人事評価を装った企業に対するフィッシング</title>
 			<link>https://blog.kaspersky.co.jp/performance-appraisal-spam/24344/</link>
 			<description><![CDATA[人事評価の手続きを装って社員をだまし、業務用アカウントのパスワードを盗もうとする手口が見られています。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/the-power-of-transparency/24395/</link>
 			<description><![CDATA[テクノロジーナショナリズムが進み、サイバー犯罪者に利する環境にある中で、求められるのはグローバル企業の「透明性」です。]]></description>
 			<pubDate>Fri, 01 Nov 2019 01:00:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>Chromeのゼロデイ脆弱性を悪用した攻撃</title>
+			<link>https://blog.kaspersky.co.jp/google-chrome-zeroday-wizardopium/24413/</link>
+			<description><![CDATA[Google Chromeにゼロデイ脆弱性が見つかり、攻撃に利用されていることが判明しました。Chromeをすぐに更新することをお勧めします。]]></description>
+			<pubDate>Tue, 05 Nov 2019 08:00:06 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
