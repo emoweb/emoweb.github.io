@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>パソコンやタブレット、周辺機器の最新情報を毎日配信。新製品のレビューや海外の最新技術動向、国内外のイベントレポートまで充実の内容。人気ライター陣の連載コラムも満載</description>
 		<item>
-			<title>アーク、Core i9-9900KS搭載ゲーミングPC </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1216694.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1216/694/01.jpg"></div></div><span class="caption">CY-IC8Z39AGT6-C6S</span></div></div></div></div><p>　<a href="https://www.ark-pc.co.jp" class="n" target="_blank">株式会社アーク</a>は、Core i9-9900KSを搭載したゲーミングデスクトップPC「CY-IC8Z39AGT6-C6S」を発売した。価格は228,000円から。</p><p>　CY-IC8Z39AGT6-C6Sは、ターボブースト時で全コア5GHz駆動を実現するCore i9-9900KS(8コア/4GHz、ビデオ機能内蔵)を搭載したゲーミングPC。ケースにはCoolerMaster製「CM694」、マザーボードにはMSI製「MPG Z390 GAMING EDGE」、CPUクーラーにはCorsair製「H100i PRO RGB」を採用する。</p><p>　そのほかおもな仕様は、DDR4-2666 8GB×2(SanMax)、RTX 2060 SUPER(MSI GeForce RTX 2060 SUPER AERO ITX)、512GB M.2 NVMe SSD(Samsung PM981)、750W 80PLUS Gold電源(Apexgaming AG-750M)、Windows 10 Homeなどを備える。</p></div></div>]]></description>
-			<pubDate>Tue, 05 Nov 2019 17:55:40 +0900</pubDate>
-		</item>
-		<item>
 			<title>ユニットコム、Quadro RTXシリーズ搭載デスクトップPC </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1216703.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1216/703/01.jpg"></div></div><span class="caption">SENSE-M040-i5-QJX</span></div></div></div></div><p>　<a href="https://www.unitcom.co.jp/" class="n" target="_blank">株式会社ユニットコム</a>はiiyama PCブランドSENSE∞より、GPUにQuadro RTXを搭載したデスクトップPCを2機種発売した。</p><p>　両機種ともにGPUにQuadro RTXシリーズを採用し、クリエイターなどが使用するプロ向けのアプリケーションによる高負荷な作業も効率的に処理できるとする。</p><p>　「SENSE-M040-i5-QJX」は、Core i5-9400(6コア/2.9GHz、ビデオ機能内蔵)、16GBメモリ、Quadro RTX 4000(GDDR6 8GB)、500GB M.2 NVMe SSD、DVDスーパーマルチドライブ、700W 80PLUS Bronze電源、Windows 10 Homeなどを備え、価格は214,478円から。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1216/703/02.jpg"></div></div><span class="caption">SENSE-R040-i7-QKX</span></div></div></div></div><p>　「SENSE-R040-i7-QKX」は、Core i7-9700(8コア/3GHz、同)、32GBメモリ、Quadro RTX 5000(GDDR6 16GB)、1TB M.2 NVMe SSD、DVDスーパーマルチドライブ、700W 80PLUS Bronze電源、Windows 10 Homeなどを備え、価格は395,978円から。</p></div></div>]]></description>
@@ -105,6 +99,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1216865.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1216/865/01.jpg"></div></div><span class="caption">Supermanが記録された石英ガラス板</span></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は4日(米国時間)、ワーナー・ブラザースと協力し、石英ガラス内へ1978年の映画「Superman」を記録することに成功しと発表した。</p><p>　これはMicrosoft Researchの研究プロジェクト「Project Silica」の概念実証試験として行なわれたもので、75mm四方で厚さ2mmの石英ガラス内に映画フィルム1本をまるごとデータ保存することに成功した。</p><p>　石英ガラス内に保存することで、従来の磁性体などへの保存と異なり、熱湯で煮る、オーブンで焼く、電子レンジで加熱する、浸水、消磁などを行なってもデータを損失することがないため、歴史的資料などの保管手段としての活用が期待されている。実際に500℃のオーブンに入れ電子レンジで加熱、沸騰、スチールウールで磨くなどしてもデータの損失はなかったという。</p><p>　データの記録にはレーシック手術などで用いられるフェムト秒パルスレーザーが利用されており、データをボクセルエンコードし、赤外線レーザーの強度と方向を制御して、ガラス内にナノスケールの氷山を作っていくようにデータを刻んでいる。2mm厚のガラスなら100層以上のボクセルを積層できる。</p><p>　データの読み出し時は、ガラスを光が透過するときに作られる偏光画像のパターンを機械学習アルゴリズムでデコードすることで実現している。</p><p>　なお1度書き込まれたデータは書き換えることはできないため、BD-Rなどのようにライトワンスなものとなる。</p><p>　Microsoftでは、長期間保存の耐性だけでなく、石英ガラスは一定温度に保つための空調や除湿設備などを必要としないため、大規模データの保管コストも低減できることから、医療データや金融規制情報、法的契約、エネルギー探査に関連する地質情報、建築計画など、50年や100年、1,000年単位での保持が期待されるコールドデータ向けに、データセンター向けの新たなストレージとしてProject Silicaを研究している。</p><div><div><div><div><div><div><iframe src="https://www.youtube.com/embed/6CzHsibqpIs?fs=1&amp;autoplay=0" allowfullscreen="true" width="480" height="270" frameborder="0"></iframe></div></div><span class="caption">Project Silica - Storing Data in Glass</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Wed, 06 Nov 2019 14:43:45 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本エイサー、144Hz駆動のIPSゲーミング液晶 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1216912.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1216/912/1.jpg"></div></div><span class="caption">VG270Pbmiipx/VG240YPbmiipx</span></div></div></div></div><p>　<a href="https://acerjapan.com/" class="n" target="_blank">日本エイサー株式会社</a>は、ゲーミング液晶“Nitro VG0”シリーズより、144Hz駆動のIPSパネルを採用した「VG270Pbmiipx」(27型)、および「VG240YPbmiipx」(23.8型)を11月8日に発売する。価格はオープンプライスで、税別店頭予想価格は前者が32,000円前後、後者が25,000円前後の見込み。</p><p>　いずれもHDR10対応で144Hz駆動のIPSパネルを採用。1msの高速応答(27型モデル、23.8型は4ms)、およびRadeon FreeSyncへの対応が謳われている。ベゼル幅を極限まで薄くした「ゼロ・フレームデザイン」を採用するほか、ジャンルに応じて選べる8種類の映像モードを搭載する。</p><p>　サイズ以外の仕様はほぼ共通で、解像度が1,920×1,080ドット、表示色数が1,670万色、コントラスト比が1,000:1(最大1億:1)、視野角が上下/左右ともに178度。</p><p>　インターフェイスはHDMI 2.0×2、DisplayPort 1.2で、2+2Wのステレオスピーカーを搭載。本体サイズは27型が約614×240×475mm(幅×奥行き×高さ)/5.56kg、23.8型が約540×240×412mm(幅×奥行き×高さ)/約3.85kg。</p></div></div>]]></description>
+			<pubDate>Wed, 06 Nov 2019 17:03:31 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
