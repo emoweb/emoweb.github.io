@@ -5,16 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ポケモンGO、聖剣士「コバルオン」が伝説レイドに登場。弱点は「ほのお・かくとう・じめん」
-</title>
-			<link>https://japanese.engadget.com/2019/11/05/go/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2Fc7d3c130-fc44-11e9-bffa-5b4c56b25718&client=a1acac3e1b3290917d92&signature=127d1d39dbe52dd765ea723ffde29bd183e2e942" />
-
-ポケモンGOに伝説のポケモン「コバルオン」が初めて登場しました。11月5日(火)から11月26日(火)まで、伝説レイドバトルのボスとして挑戦できます。
- ]]></description>
-			<pubDate>Tue, 05 Nov 2019 04:05:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    孫さんだって『繋がらない』と叱られていた。楽天携帯にソフトバンク社長
 </title>
 			<link>https://japanese.engadget.com/2019/11/05/rakuten/</link>
@@ -899,6 +889,43 @@ Apple
  
  ]]></description>
 			<pubDate>Wed, 06 Nov 2019 00:02:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Chrome OS 78公開。仮想デスクトップのキーボードショートカットなどが追加
+</title>
+			<link>https://japanese.engadget.com/2019/11/06/chrome-os-78/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F8225ddf0-0043-11ea-bebf-75eb02ece91c&client=a1acac3e1b3290917d92&signature=4638a3dec7c35838b972517fe5b272905a993adf" />
+Googleは、Chrome OSの最新安定版となるChrome OS 78をリリースしました。バージョン76で追加された仮想デスクトップ機能がさらに使いやすくなったほか、Click-to-callなど新機能も追加されています。
+
+ 
+関連記事：
+Chrome OSが仮想デスクトップに対応、バージョン76公開
+
+まず仮想デスクトップ機能ですが、これまでデスクトップの追加や切り替えには、一度タスク一覧（概要モード）を表示する必要がありました。しかしバージョン78では、この操作を便利にするキーボードショートカットが追加されています。
+
+
+仮想デスクトップの作成 : 「Shift」+「検索」+「=」
+
+
+仮想デスクトップの切り替え : 「検索」+「]」/「[」 
+
+仮想デスクトップ間のウィンドウの移動 : 「Shift」+「検索」+「]」/「[」​​​​
+
+キーボード操作だけでデスクトップの切り替えができるので、咄嗟に別の画面を表示したい場合にも役に立ちそうです。
+
+また、デスクトップ版Chrome 78で追加されたClick-to-callにも対応しました。これは、Chromeで表示している電話番号リンクをAndroidにシェアし、そちらから発信できる機能です。電話番号を打ち直す手間がなく、掛け間違いも防げます。
+
+ 
+関連記事：
+デスクトップ版Chromeベータ、Androidへの電話番号送信が可能に
+
+このほか、互換性のあるプリンタがセットアップ不要でリストに表示されるようになり、「Ctrl」 + 「P」でプリンターを選択するだけで印刷が完了します。よく使うプリンターがある場合には、「設定 &gt; デバイス &gt; プリンタ」からデフォルトとして保存も可能です。
+
+最後に、電源ボタンの長押しで表示されるメニューの中に、フィードバックのショートカットが追加されました。不具合や意見などを簡単に送信可能となっています。
+
+新機能の追加もありますが、全体的には使い勝手の向上が主な内容となっており、Chrome OSが成熟期に入っている様子が伺えます。日本ではまだシェアが低いChrome OSですが、Pixelbookの投入など、なんらかのテコ入れが欲しいところです。
+ ]]></description>
+			<pubDate>Wed, 06 Nov 2019 00:20:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
