@@ -5,133 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    AMD、第3世代Ryzen Threadripperの仕様発表　最大32コアでSocket sTRX4利用
-</title>
-			<link>https://japanese.engadget.com/2019/11/08/amd-3-ryzen-threadripper-32-socket-strx4/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F3ec05ab0-01ea-11ea-a27f-3b93f364173b&client=a1acac3e1b3290917d92&signature=c6d58e0645d3ee276456db06d4ead008c9fe5b6f" />
-
-米AMDは第3世代Ryzen Threadripperプロセッサの仕様と価格、発売日を公開しました。
-
-第3世代Ryzen Threadripperは7nmプロセスの「Zen 2」アーキテクチャにもとづくプロセッサで、24コア／ベースクロック3.8GHzの3960Xと、32コア／ベースクロック3.7GHzの3970Xが用意されています。ブースト時のクロックはどちらも4.5GHzです。
-
-AMDによると、3970XはAdobe Premiere CC 2019のエンコードにおいて、米インテルの18コアプロセッサことCore i9-9980XEよりも47%高速だとしています。また、3960Xも同処理にてi9-9980XEより22%高速です。なお、どちらもTDPは280Wで、i9-9980XEの165Wを大幅に上回っています。
-
-なお、多コアかつ帯域幅の広い第3世代Ryzen Threadripperはクリエーターをターゲットとしたプロセッサとなっており、ゲームの処理性能では16コアのRyzen 9 3950Xの方が上回ります。
-
-第3世代Ryzen Threadripperは「Socket sTRX4」を利用し、従来のSocket TR4との互換性はありません。組み合わされるチップセットはTRX40で、最大72レーンのPCIe 4.0や12ポートのUSB-C 3.1 gen2 10Gbps SuperSpeedが利用できます。
-
-3960Xの価格は1399ドル（約15万円）、3970Xの価格は1999ドル（約22万円）。全世界で11月25日から発売が開始されます。
-
- ]]></description>
-			<pubDate>Fri, 08 Nov 2019 02:00:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    スマホ全盛期に作ったシンプル携帯「Punkt. MP02」の設計思想
-</title>
-			<link>https://japanese.engadget.com/2019/11/08/punkt-mp02/</link>
-			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-11/7d30e680-01d5-11ea-aff6-0901b9b6faa3" />
-
-情報過多なSNS社会の浸透の反動として、「デジタルデトックス」が注目されています。8月に発売された通話に特化した携帯「Punkt. MP02」はその文化を象徴とも言える存在です。
-
-スマホ全盛の時代になぜシンプルフォンを発売したのか。10月某日、Punkt.の創業者CEO ペーター・ネビー氏が来日した折に、インタビューしました。
-
-Punkt.（プンクト）はスイス発祥の生活家電ブランド。その設計思想は「生活のための製品」で、著名デザイナーのジャスパー・モリソン氏が製品デザインを担当します。
-
-一番最初の製品はシンプルな置き時計。コードレス電話やケーブルタイなどを作っています。そして、シンプルな携帯電話を作ったのは若いスマホユーザーの声をうけてのことだったといいます。
-
-
-
-ネビー氏：
-パリの展示会でPunkt.のコードレス電話を出展したとき、若い人から「ソーシャルメディアの攻勢から守ってくれる電話がほしい」という要望を聞きました。
-
-その当時、私はBlackBerryのスマホを愛用していたのですが、試しにNokiaのシンプルフォンを使ってみることにしました。すると、"つながり"から開放される快感を確かに感じることができました。
-
-スマホがいつでも仕事ができる、言い換えるとワークライフバランスを保てない状況において、スマホに振り回されてしまっている自分に気付いたのです。
-
-しかし、それと同時に気付いたのは、安価なシンプルフォンの使い勝手の悪さでした。最低限の機能は備えているものの、操作感は悪く、改善の余地があると感じたのです。
-
-
-そうして登場した初代「Punkt. MP01」は日本では使えない仕様でしたが、8月に発売された「Punkt. MP02」では4G LTEをサポートし、日本でも使えるようになりました。
-
-Punkt. MP02は、VoLTEによる高音質な通話機能と、SMSのテキストメッセージを搭載。そしてテザリング機能も備え、パソコンをインターネットにつなげることもできます。4万円台と、通話専用の携帯電話としては高価な製品になりますが、VoLTE通話とテザリングに対応した製品は珍しく、質感も競合とは一線を画する仕上がりになっています。
-
-▲Punkt. 創業者CEOのペーター・ネビー氏
-
-
-ネビー氏：
-Punkt.のプロダクトは、今取り組むべきことに集中できるよう、サポートする存在であるべきという設計思想で作られています。
-
-スマートフォンの場合、一番中心的な機能はコミュニケーションです。多様なコミュニケーション手段の中でも、もっとも重要なのは、現代でもやはり電話機能だと考えています。
-
-Punkt.のユーザーには銀行員、弁護士、会計士といった職業の人も多くいますが、そうした人々こそ、電話を多用しています。自分の考えを声で伝えることの重要性を理解しているからです
-
-もっとも効率的なコミュニケーション手段は対面で向かい合って話すことでしょう。それができないときに、通話は最良のコミュニケーション手段となります。生の声には音量、語尾、声のトーンなど、ただのテキスト以上の表現要素が含まれています。メッセージ、メールでは伝わらないことも会話によって伝わります。
-
-SMSを追加したのは、親しい人からの簡単な伝言を伝えるためです。「帰りにスーパーでお味噌買ってきて」といった要件を伝えるのは、SMSを使った方が手を煩わせないし、相手を邪魔することもないでしょう。
-
-そして、テザリング機能を付けたのは、必要に応じてインターネットにアクセスできる手段を用意したかったからです。スマホでは受動的なメッセージの波にうもれてしまいますが 、Punkt. MP02とパソコンを併用することで、主体的にインターネットにアクセスすることができます。
-
-私も実際、パソコンを持ち歩いていつでもインターネットにつながれるようにしていますが、そこから離れたいと思ったときにはPunkt.の電話を持ち、大事な人との連絡だけを受けられるようにしています。それ以外の必要の無い情報からは、いつでも離れられるというのは魅力です。
-
-
-「Punkt.」の製品デザインは有名な英国人デザイナー ジャスパー・モリソン氏が手がけています。東京に居住した経験もあり、日本のインダストリアルデザインの現場にも大きな影響をもたらしたモリソン氏の思想は、Punkt.の目指す方向性とも合致しているといいます。
-
-ネビー氏：
-「禅」に代表されるような日本の文化、そして和室の床の間のような日本の空間は、「機能によって形作られるデザイン」を表彰しており、Punkt.の思想と非常に近しいものがあります。だからこそ、Punkt.のデザインでは、ジャスパー・モリソン氏にお願いしています。
-
-Punkt.はその製品を通して「複雑なものをシンプルにする」というメッセージを一貫して発し続けています。生活のじゃまをしない、侵食してこない、「集中」のための製品を今後も展開をしていきたいと考えています。
-
-
-
-Punkt.のお膝もとのスイスやドイツでは、「ウィークエンドフォン（週末に使う携帯電話）」として浸透しつつあるというシンプル携帯。30〜40代のビジネスマンの利用が進みつつアルと言います。
-
-息が詰まるデジタル社会から一歩距離を置き、人間らしい生活を保つためのツールとして、今後重要性が高まってくるかもしれません。
-関連：手の平サイズと独特な形状に惚れた。Punkt. MP02実機レビュー
-
- ]]></description>
-			<pubDate>Fri, 08 Nov 2019 02:30:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    Google、悪質アプリ排除へ新たな一手　App Defense Allianceを設立
-</title>
-			<link>https://japanese.engadget.com/2019/11/08/google-app-defense-alliance/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F48bd8ef0-01f1-11ea-b7f6-1b619dbafe24&client=a1acac3e1b3290917d92&signature=5e3687d50b476307fe3683b7ab6603aac0dadec7" />
-Google PlayやAmazonのApp Storeなど、モバイルのエコシステムは常にマルウェアなど悪質なアプリに目を光らせているものの、それをすり抜ける物も多くあり、外部のセキュリティ会社が発見、通報を行うことも珍しくありません。Googleは、こうした外部のセキュリティ会社のESET・Lookout・Zimperiumとパートナーシップを締結。App Defense Allianceの立ち上げを発表しました。
-
- 
-関連記事：
-1億DLの人気アプリにマルウェア、Google Playストアから削除。開発元は修正版を配布
-App Storeに17のマルウェアが発見。外部サーバーと連携して審査を回避
-Google Playから「ストーカーアプリ」7本が削除。恋人などのスマホを密かに監視する目的
-Google Playから悪質アプリが29本削除。検出を逃れる巧妙な手口が明らかに
-
-App Defense Allianceは、Google Playの安全性を確保し、有害なアプリを見つけ、迅速に排除することを目的としています。Google Playで公開される前の段階で、有害アプリを取り除くのが狙いです。
-
-この一環として、Google Play Protectの検出システムを各パートナーのスキャンエンジンに統合。各パートナーがデータを分析し、複数のヒューリスティックエンジン（マルウェアなどを検出する仕組みの1つ。類推により、未知のマルウェアも検出できる）が協調することで、有害アプリの識別効率が向上するとしています。
-
-最近の調査報告によると、2019年9月だけでGoogle Playからはサブスクリプション詐欺やトロイの木馬を含む172の有害アプリが見つかっており、合計3億3000万回以上インストールされているとのこと。世界中で25億台以上のデバイスが稼働しているAndroidにとって、有害アプリ対策は終わりがないものかもしれませんが、App Defense Allianceによってより安全になることを期待したいものです。
- ]]></description>
-			<pubDate>Fri, 08 Nov 2019 03:00:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    AMD、Ryzen 9 3950Xを11月25日に749ドルで発売
-</title>
-			<link>https://japanese.engadget.com/2019/11/08/amd-ryzen-9-3950x-11-25-749/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F0cc6fb40-01ef-11ea-8755-d56ba9334dac&client=a1acac3e1b3290917d92&signature=be450411cee25e467f9799d667ddf4a7218337f0" />
-
-米AMDはRyzen 9 3950Xを11月25日に発売すると発表しました。
-
-Ryzen 9 3950Xは7nmプロセスのZen 2アーキテクチャにもとづく、16コア／32スレッドを備えたプロセッサ。ベースクロックは3.5GHzかつブーストクロックは4.7GHz、TDPは105Wとなります。プロセッサの発表は今年6月におこなわれましたが、その後に発売延期が発表されていました。
-
-AMDによれば、Ryzen 9 3950XはAdobe Premiereの処理において、米インテルのCore i9-9920Xよりも26%高速かつ、ワット当たりの性能も2.34倍優れているとしています。
-
-Ryzen 9 3950Xの販売価格は749ドル（約8万2000円）。なお、プロセッサは液冷クーラーと組み合わせての利用が推奨されています。
-
-さらに、AMDはAthlon 3000Gも11月19日から販売します。デュアルコアプロセッサのAthlon 3000Gはベースクロックが3.5GHzで、おそよ3.9GHzへのオーバークロックが可能。AMDによれば、インテルのPentium G5400を上回る性能を実現だとしています。Athlon 3000Gの販売価格は49ドル（約5300円）です。
- ]]></description>
-			<pubDate>Fri, 08 Nov 2019 03:30:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    キャリアメールは使えません。Googleの2段階認証がポリシー変更
 </title>
 			<link>https://japanese.engadget.com/2019/11/08/google-2/</link>
@@ -776,6 +649,54 @@ GREEN FUNDING &times; エンガジェット コラボページ
 新型Mac Proは「今年秋に発売」と予告されながらも、いまだに発売日が公式にアナウンスされていません。そんななか、世界的な人気DJのInstagramに製品が映り込んでいたことが明らかとなりました。
  ]]></description>
 			<pubDate>Sun, 10 Nov 2019 21:50:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Facebookが調査に非協力だとカリフォルニア州司法長官から訴えられる
+</title>
+			<link>https://japanese.engadget.com/2019/11/10/facebook/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?crop=2000%2C1316%2C0%2C0&quality=85&format=jpg&resize=1200%2C790&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F4715fae0-fa19-11e9-b12b-2022b8604064&client=a1acac3e1b3290917d92&signature=e9eccbde058f3dcb8c39a04f05d03c2541c64601" />
+政治広告問題など何かと騒動が続くFacebookですが、今度はカリフォルニア州司法長官に提訴されるという事態が起こりました。
+
+2019年11月7日(現地時間)のCNBCの報道によると、カリフォルニア州では1年以上前からコンサルティング会社「Cambridge Analytica」が、Facebookの個人情報を許可なく収集していた問題を調査。Facebookに幹部の電子メールのメッセージなどの資料を提出するよう召喚状を送ったが、これに応じませんでした。そのため、提訴に至ったとのこと。
+
+Cambridge Analyticaによる個人情報不正取得問題は2014年に起こったもの。アレクサンダー・コーガンという学者がFacebookのAPIを用いたアプリを作成し、およそ8700万人のFacebookユーザーデータを取得。これをCambridge Analyticaが買い取り、大統領選で利用したという事件でした。
+
+Facebookはこの問題の調査に協力する姿勢を取っており、同社のウィル・キャッスルベリー氏は「数千ページの資料を提出するなど調査には協力してきた」と述べています。しかし、今回提訴したザビエル・べセラ司法長官の要求には対応しなかったとのこと。
+
+過去には個人情報問題でアメリカ連邦取引委員会から約5450億円、アメリカ証券取引委員会から約109億円と巨額の制裁金を課せられてきたFacebook。今回の一件が引き金となり、新たな問題につながらなければいいのですが......。
+ ]]></description>
+			<pubDate>Sun, 10 Nov 2019 22:10:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    『Super Mario 64 Land』、新ボスやステージ追加で公開中。『スーパーマリオ64』のROMデータ必須
+</title>
+			<link>https://japanese.engadget.com/2019/11/10/super-mario-64-land-64-rom/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2Fd199a470-0430-11ea-bf3f-04e89e81c4f9&client=a1acac3e1b3290917d92&signature=90dbc59270fb80ec4f804088085ca66fe69a89e5" />
+これまでにも任天堂ゲームのファンメイド作品は数多く作られてきていますが、新たに『スーパーマリオ64』をベースとしたゲーム『Super Mario 64 Land』が実際に遊べるかたちで公開されています。
+ ]]></description>
+			<pubDate>Sun, 10 Nov 2019 22:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    電子タバコによる疾患の原因はビタミンEアセテート？調査した肺組織サンプルすべてから検出
+</title>
+			<link>https://japanese.engadget.com/2019/11/10/e/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F4704d150-0434-11ea-a7fd-a8672fa46326&client=a1acac3e1b3290917d92&signature=c878122fdf2ac129787756f7620b87eeaa95b552" />
+アメリカ疾病管理予防センター(CDC)が、電子タバコ使用者に関連する肺疾患の原因物質が「ビタミンEアセテート」の可能性が高いとする報告を公表しました。CDCは患者29人の肺組織サンプルを調べ、そのすべてからビタミンEアセテートを検出したとのこと。
+
+ビタミンEアセテート聞くとなにやら身体に良さげな響きに聞こえる成分で、実際に化粧品など様々な美容品にも使われているものの、吸引した場合は話が別で、過去の研究では肺に有害な影響をおよぼす可能性が示されています。
+ ]]></description>
+			<pubDate>Sun, 10 Nov 2019 22:50:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    ファミマが「dポイント」「楽天ポイント」26日導入
+</title>
+			<link>https://japanese.engadget.com/2019/11/10/d-26/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F05a40560-0433-11ea-9dff-a78c76638e51&client=a1acac3e1b3290917d92&signature=0c48ccb3de6ed7e83ec533ed4db066e3e6524423" />
+ファミリーマートが「dポイント」「楽天ポイント」を11月26日より全国で導入します。利用金額200円（税別）につき1ポイントを付与。また、スマホ決済「ファミペイ」ユーザーであれば、アプリとdアカウント・楽天アカウントを紐付けることで決済と同時にポイントが付与されます。
+
+従来は「Tポイント」のみを扱ってきましたが、26日以降は「dポイント」と「楽天ポイント」が加わり、計3つのポイントサービスを利用できます。1回の会計時に利用できるポイントサービスは1つのみです。なお、一部利用できない店舗があるとしています。
+ ]]></description>
+			<pubDate>Sun, 10 Nov 2019 23:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
