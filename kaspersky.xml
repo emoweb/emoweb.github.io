@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>一般的な脆弱性からパブリッククラウドを守るには</title>
-			<link>https://blog.kaspersky.co.jp/vulnerabilities-in-public-clouds/24338/</link>
-			<description><![CDATA[一般的な評価に反し、パブリッククラウドは設計の段階から強力に保護されているわけではありません。さらなる保護の追加が必要です。]]></description>
-			<pubDate>Thu, 24 Oct 2019 01:00:46 +0000</pubDate>
-		</item>
-		<item>
 			<title>暗号化されたファイルを復号するツール：ランサムウェアYatronおよびFortuneCryptの場合</title>
 			<link>https://blog.kaspersky.co.jp/no-more-ransom-yatron-fortunecrypt/23875/</link>
 			<description><![CDATA[ランサムウェア「Yatron」および「FortuneCrypt」によって暗号化されたファイルを復号するためのツールがNo More Ransomサイトに公開されています。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/check-what-data-apps-collect/24425/</link>
 			<description><![CDATA[すべてのアプリは基本的に、あなたに関する情報を収集します。実際にどういった情報が収集されているのか、確認できるサービスがAppCensusとExodus Privacyです。]]></description>
 			<pubDate>Mon, 11 Nov 2019 01:00:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>新手の詐欺、「フリースウェア」にご注意</title>
+			<link>https://blog.kaspersky.co.jp/beware-of-fleeceware/24433/</link>
+			<description><![CDATA[やけに高額なアプリが、無料のお試し期間でGoogle PlayやApp Storeの利用者の気を引き、アンインストールされた場合でも定額利用料の請求を行うケースが見られています。]]></description>
+			<pubDate>Tue, 12 Nov 2019 01:00:47 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
