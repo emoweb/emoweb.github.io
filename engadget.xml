@@ -5,115 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    2014年11月14日、プロジェクター内蔵Androidタブレット「YOGA Tablet 2 Pro」が発売されました：今日は何の日？
-</title>
-			<link>https://japanese.engadget.com/2019/11/13/2014-11-14-android-yoga-tablet-2-pro/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2Fafc36770-059b-11ea-bb6f-a9acf9a52ab8&client=a1acac3e1b3290917d92&signature=d5c807ebde724ebe1430988933333b069fc6b288" />Android搭載デバイスにはユニークな製品が数多くありますが、王道のタブレットでありながら、プロジェクターまで搭載してしまったという変態モデルとなるのが「YOGA Tablet 2 Pro」。
-
-この製品が発売されたのが、2014年の今日です。
-
- ]]></description>
-			<pubDate>Wed, 13 Nov 2019 15:30:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    スペックから分析する16インチMacBook Proの本当の凄さ（西田宗千佳）
-</title>
-			<link>https://japanese.engadget.com/2019/11/13/16macbookpro/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F6107a190-0628-11ea-acfb-e841462540d9&client=a1acac3e1b3290917d92&signature=f3fb686c586f532526871103cf10a71ce4b1592f" />11月13日深夜22時30分、アップルが16インチMacBook Proを発表した。字面でいえば「インチアップ」だが、実質的なモデルチェンジといえる製品だ。
-
-実機は手元にないが（日本にいるのであたりまえだ）、発表資料を基に、MacBook Proが16インチになってどう変わったのか、分析してみたい。
-
- 
-求められていた「パワー」をついに手に入れた
-数字の上でいえば、新MacBook Proの最大の特徴はディスプレイだ。16インチで解像度は3072&times;1920ドット。確かにすごい。だが、本質はディスプレイの方よりも「ボディ側」にありそうだ。ディスプレイが1インチ大型化したのにあわせてか、ボディサイズも縦横に1cm程度大きくなり、厚さもちょっとだけ増えた。重量も2kg台になってしまったから、「軽さ・薄さよりパワー」、Pro向けらしい進化を遂げたと言える。
-
-実のところ、ここ数年MacBook Proは、パワーの面でWindows PCに見劣りしていた。WindowsではゲーミングPCが流行り、その結果パワフルなノートPCが登場し、それがクリエイター向けにも使われている。一方でMacBook Proは、もっともハイエンドなモデル同士で比較した場合、WindowsのゲーミングPCにかなり見劣る。動画やCGを作る人、ゲーム開発者、そして機械学習を手がける人々などからは「もっとパワーを！」という声が出ていたほどだ。現在は外付けでGPUを使う、という手段もあるのだが、やはり本体に内蔵しているGPUが強力であることを求めるニーズもある。
-
-
-
-実は先日より、自前で「Surface Laptop 3」の15インチモデルを購入し、Macと併用している。こちらは「ゲーミングPCほどではないが一般的なPCよりはパワフルにかつ、重量や大きさを抑える」設計。同じ15～16インチクラスでも、かなり方向性が違う。アップルは軽さよりもパワーを選んだわけで、それだけ「15インチMacBook Proを使っているクリエイターから、パフォーマンスを求める要求が多かった」ということではないだろうか。
-
-16インチMacBook Proは、GPUにAMD Radeon Pro 5000Mシリーズを採用している。カスタマイズモデルでは、Radeon Pro 5500M・GDDR6・8GBを選ぶこともできるようになった。アップルによれば、これは、前世代の15インチMacBook Proと標準モデル同士で比較した場合で2.1倍、オプションで採用可能だったRadeon Pro Vega 20 graphics（VRAMはHBM2で4GB）にしたものと、Radeon Pro 5500M・GDDR6・8GBにカスタマイズした16インチモデルの比較だと1.8倍のパワーがあるという。この性能は、従来外付けボックスを使ったGPU（eGPU）として、AMD Radeon RX 580あたりを使った場合に得られていたパフォーマンスに近いと推定できる。「全ノートPC中最高性能」とはいかないが、大型MacBook Proに期待されるパフォーマンスを十分満たしている、といっていいのではないだろうか。
-
-ボディの大型化もそのためと考えられる。
-
-
-
-サーマルアーキテクチャの強化も特徴のひとつに数えられているが、これだけのCPUとGPUを効率的に冷やすには、設計の見直しも必要だということなのだろう。電源も87Wから96Wに強化され、「性能重視」だ。
-
-
-
-バッテリー搭載量も増えたためか、カタログ上の動作時間が1時間伸びている。バッテリー容量は100Whと表記されているが、これは米国連邦航空局（FAA）が機内持ち込みの上限と定めているバッテリー容量であり、これ以上を搭載するノートPCはおそらく登場しない。まさかこの上限を積んでくるノートPCが出るとはあまり考えていなかった。
-
- 
-キーボードの名前が「Magic Keyboard」である点に注目
-もうひとつ、大きな変化がキーボードだ。こちらこそ、触らないとなんともいえない部分ではある。
-
-しかし、スペックからわかることもある。
-
-
-
-まず、ESCキーとTouch IDが、Touch Barから独立した。プログラマーなどから「ESCキーは物理キーであって欲しい」という要望があったので、これはプラスだろう。Touch IDが独立したのも、指で切れ目がわかりやすくプラスだ。Touch Barには厳しい評価もあるし、筆者自身「想像以上に活用されていない」と思っているが、こうしたマイナーチェンジが行われることはウェルカムである。
-
-キーのストロークが1mmになったのも、おそらくプラスだろう。従来のキーボードはストロークが浅かった結果、ちょっと力を入れてタイプすると「底打ち」してしまい、結果としてタイプ音が「ペチペチ」と大きく響きやすかった。
-
-名称が「Magic Keyboard」になり、外付け製品と同じになっている。実は外付け製品の方のキーストロークも1mmだ。もしかすると、似たタイプ感なのかもしれない。（重ねていうが、まだ触っていないので筆者にはわからない）。Magic Keyboardのストロークでも浅すぎる、という人もいるが、筆者はけっこう好みなキーボードのひとつ。今のMacBook Proよりも好きなので、新MacBook Proのキーボードも好きになれるかもしれない。
-
- 
-本当はWi-Fi 6が欲しかった。15インチモデルよりお買い得に
-
-
-新しいMacとして不満があるとすれば、Wi-FiがIEEE802.11ac（Wi-Fi 5）のままで802．11ax（Wi-Fi 6）にはならなかったことくらいだろうか。iPhoneが「iPhone 11」からWi-Fi 6になったのだからMacも......とも思うが、こちらはまだ時期尚早、ということなのかもしれない。
-
-これで価格は、前モデルの15インチMacBook Proに対し、ちょっと安くなっているのが面白い。お買い得感は増しているわけで、実にけっこうなことだ。
-
-「パワフルなノートPC」という意味では、いまだWindowsのゲーミングPCは強力である。しかし「Macがいい」人がパフォーマンス面でも妥協しなくてよくなったことは、素直に歓迎すべきことだろう。
-
- 
-関連記事：
-「似ているようで全く違う」16インチMacBook Proの評価すべきポイントとは（本田雅一）
-Mac史上最高峰「16インチMacBook Pro」の極上サウンドを実現したT2チップの功績（松村太郎）
-16インチMacBook Pro正式発表　限界に挑んだ6つの特徴を実機でチェック
-16インチMacBook Proと15 / 13インチ比較。ほぼ大きさ変わらず画面拡大、Atmos対応6スピーカー
-
- 
-
- ]]></description>
-			<pubDate>Wed, 13 Nov 2019 17:00:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    ハリポタ魔法同盟で『協力戦線』イベント開始。初心者向け攻略ヒント #HPWU
-</title>
-			<link>https://japanese.engadget.com/2019/11/13/hpwu/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F1d9f4800-0636-11ea-bbf1-4dc28e247471&client=a1acac3e1b3290917d92&signature=dd50cb8e9bb90c79d2e44c4c0cff7b902c950be4" />
-
-ポケモンGOのナイアンティックとワーナーが運営するリアルワールド・モバイルゲーム『ハリー・ポッター：魔法同盟』で、期間限定イベント『光り輝くもの：協力戦線』が始まりました。
-
-第一部では、新たなイベント登録簿『光り輝く魔法省のアトリウム』が追加。ニンファドーラ・トンクスやアラスター『マッド-アイ』ムーディーなど、魔法界の英雄たちがファウンダブルとして出現します。
-
-今回は第一部が11月13日から20日早朝まで、第二部が11月20日～27日まで。第一部の特別任務4段階をクリアしたあとのボーナス任務では、呪文の本3冊やXPが手に入ります。
-
- ]]></description>
-			<pubDate>Wed, 13 Nov 2019 17:30:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    11月14日に全国発売！低温加熱式タバコ「glo sens」の6つのフレーバーを徹底比較！│世永玲生の電網マイノリティ
-</title>
-			<link>https://japanese.engadget.com/2019/11/13/11-14-glo-sens-6/</link>
-			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-11/e5c6b180-0445-11ea-b9de-36d9ddc36757" />
-こんにちは！年間100アイテムは、電子タバコや加熱式タバコをチェックしている電子タバコジャーナリスト世永玲生です。
-
-今回はブリティッシュ・アメリカン・タバコ・ジャパンの「glo sens（グロー・センス）」のフレーバーを6種類レビューします。
-
-8月19日から都内限定で発売中の「glo sens」ですが、11月14日にいよいよ全国発売となります。
-
-ミストの量、吸いごたえとも評判の良い「glo sens」。
-
-それぞれのフレーバーの特徴はどんな感じなのでしょうか？
- ]]></description>
-			<pubDate>Wed, 13 Nov 2019 18:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    5分でわかる16インチMacBook Proの全貌。変わったのは画面サイズだけじゃない 「ある意味モデルチェンジ」
 </title>
 			<link>https://japanese.engadget.com/2019/11/13/5-16-macbook-pro/</link>
@@ -526,6 +417,77 @@ iPad版Photoshop公開。PSDファイルをiPadで編集可能、機能は順次
  
  ]]></description>
 			<pubDate>Thu, 14 Nov 2019 03:25:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Google社員、Stadiaキットを近所のユーザーに手渡しと約束。配送の遅れを受けて
+</title>
+			<link>https://japanese.engadget.com/2019/11/14/google-stadia/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F411a5770-06a4-11ea-b8de-0df6f6cdcab8&client=a1acac3e1b3290917d92&signature=26ff207328d945f29d6c55fd4fb55f12a187b6fc" />
+米GoogleのゲームストリーミングサービスStadiaは19日に公式リリース予定です。しかしながら、プレイに必要なFounder's Edition（スターターキット）は6月6日の予約初日に注文した人でもほとんどが21〜22日、最速でも20〜21日に配送となる（Googleストアで確認可能）ことが明らかとなっています。
+
+こうした配送の遅れを受けて、Stadiaチームの1人が自宅の近所に住んでいるユーザーに自ら手渡しで届けると表明しています。
+ ]]></description>
+			<pubDate>Thu, 14 Nov 2019 04:15:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    1台3役の加湿空気清浄機「Dyson Pure Humidify+Cool」日本先行でお披露目、11月29日に8万円で発売
+</title>
+			<link>https://japanese.engadget.com/2019/11/14/1-3-dyson-pure-humidify-cool-11-29-8/</link>
+			<description><![CDATA[     <img src="https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-11/632b7740-06bd-11ea-946e-528c2f497b53" />
+ダイソンは加湿空気清浄機「Dyson Pure Humidify+Cool」を11月29日に発売します。市場想定価格は税別8万円前後です。加湿器、扇風機、空気清浄機の3つの用途に対応した製品で、どんな季節でも室内の衛生環境を整えるとしています。
+
+加湿機能では新設計のUV-Cテクノロジーを採用。加湿に使用するタンク内の水をUV-Cライトで照射して細菌を除去し、銀繊維を編み込んだ抗菌加湿フィルターを採用することで衛生的な加湿を実現したそうです。
+
+
+▲タンク内で加湿フィルターを入れて洗浄できます。水と専用のクエン酸を入れて、一時間水を循環させて洗浄します。
+
+
+本体に搭載されているセンサーが微細粒子や揮発性有機化合物、湿度、温度を測定。丸いLCDディスプレイでそれらの数値をリアルタイムで表示してくれます。空気清浄機能としては「360˚グラスHEPAフィルター」がウイルスなども含むPM 0.1レベルの微細な粒子を捕らえ、「活性炭フィルター」により有害なガスも除去するとしています。
+
+1台3役の加湿空気清浄機「Dyson Pure Humidify+Cool」濃ゆいスモークが30秒でこんなにクリアに！https://t.co/vhLTTl9yHw pic.twitter.com/SfVewuTmOI
+- Engadget 日本版の田沢梓門 (@samebbq) November 14, 2019
+
+
+送風は首振りではなく、エアコンの様に両端の送風口のフィンが動くことで開口部から最大90度で送風の向きを調整できます。そよ風に近い送風が可能な「ブリーズモード」も新たに搭載されました。
+
+
+ダイソン製品を操作できる「Dyson Link アプリ」にも対応。屋内の空気の汚染度や温度、湿度の数値確認やリモコン代わりに操作も可能です。新機能として、スマホからの音声操作にも対応しました。
+
+本体サイズは高さ923x幅312x奥行き312mm、重さは8.29 kg。空気清浄能力は8畳を22分、加湿能力は350mL/h。フィルター交換目安は約1年（1日12時間使用の場合）。
+実は日本で初公開でした
+
+じつは「Dyson Pure Humidify+Cool」は、世界に先立って日本初お披露目の製品です。11月14日に開催された製品発表会では同社の空調家電製品カテゴリーのグローバル・カテゴリー ディレクター、チャーリー パーク氏が登壇し、以下の用にコメントしました。
+
+「サイクロン掃除機で培われた空気力学の専門技術を活かして開発された空調カテゴリーが誕生して、今年で10周年です。『Dyson Pure Humidify+Cool』の開発にあたっては、弊社が行なってきた微生物学や先端生化学の研究での知識と、工学原理と組み合わせを試みました。それらの努力の結果、乾燥や空気の汚れを解決して衛生的な屋内 環境を維持できる製品を開発することができたのです」。
+■関連リンク
+Dyson Pure Humidify+Cool製品サイト
+
+
+ ]]></description>
+			<pubDate>Thu, 14 Nov 2019 04:22:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>Sponsored By エンガジェット :     登壇社・観覧者募集：無料イベント「Engadget忘年会　メーカープレゼンバトル」
+</title>
+			<link>https://japanese.engadget.com/pr/engadget2019/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F9563cff0-06c2-11ea-a7ff-21522749c3cc&client=a1acac3e1b3290917d92&signature=a0d1dd92c26de22b86334b48822d6c7af6817992" />
+日ごろから「Engadget 日本版」をご愛読いただき、誠にありがとうございます。
+これまでの読者のみなさまおよび関係会社のみなさまのご愛顧に感謝を致しまして、「Engadget忘年会」を開催させていただきます。
+
+こちらのイベントに登壇される企業・団体の方、および一般の観覧希望者を募集いたします。
+ ]]></description>
+			<pubDate>Thu, 14 Nov 2019 04:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    NASA、ニューホライズンズが探査した天体Ultima ThuleをArrokothに改名。新名称は「空」の意
+</title>
+			<link>https://japanese.engadget.com/2019/11/14/nasa-ultima-thule-arrokoth/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F0e3eae50-06a9-11ea-9799-21c71aa17b6f&client=a1acac3e1b3290917d92&signature=f7cc5df3e59cba2637ff10de352e47c605dc6c10" />
+NASAが、探査機ニューホライズンズが2019年1月1日に到着して探査したカイパーベルト天体"Ultima Thule"の名称を"Arrokoth(読みはアロコット)"に変更しました。正式な識別名である"2014 MU69"に変更はありません。
+
+これまでのニックネームUltima Thuleは「われわれの知る世界のさらにむこう」を意味する名前として命名されました。しかし、後に白人至上主義者が「神々の故郷」という意味で使う言葉でもあることがわかり、論争の火種になる可能性がありました。
+ ]]></description>
+			<pubDate>Thu, 14 Nov 2019 05:00:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
