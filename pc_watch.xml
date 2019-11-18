@@ -76,5 +76,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1219/147/1.jpg"></div></div></div></div></div></div><p>　<a href="https://www.amd.com/ja/" class="n" target="_blank">日本AMD株式会社</a>は、第3世代Ryzen 9 3950Xを、11月30日午前11時より国内で販売開始すると発表した。税別価格は89,800円。</p><p>　海外では25日に発売されるようだが、国内では30日となる。</p></div></div>]]></description>
 			<pubDate>Mon, 18 Nov 2019 13:52:52 +0900</pubDate>
 		</item>
+		<item>
+			<title>Intel、XeアーキテクチャのHPC向け7nm GPU「Ponte Vecchio」 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1219149.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1219/149/01.png"></div></div><span class="caption">Ponte Vecchio</span></div></div></div></div><p>　米<a href="https://www.intel.com/" class="n" target="_blank">Intel</a>は17日(米国時間)、Supercomputing 2019にて、同社のXe GPUアーキテクチャに基づいた、HPC/AIアクセラレーション向けに最適化された汎用GPUを発表した。</p><p>　開発コードネーム「Ponte Vecchio」と呼ばれる同GPUは、同社の7nmプロセスで製造され、パッケージング技術EMIB(Embedded Multi-die Interconnect Bridge)とFoveros 3Dを用いて、広帯域メモリやCXL(Compute Express Link)ベースのインターコネクト(Xe Link)などの技術が1パッケージに統合されている。</p><p>　Ponte Vecchioは、2021年に同社が米エネルギー省へ納入予定のスーパーコンピュータ「Aurora」(<a href="https://pc.watch.impress.co.jp/docs/news/1175779.html">米エネルギー省、Intelの新GPU「Xe」採用の“エクサスケール”スパコンを導入</a>)に採用される見込みで、Auroraは米国初のエクサスケール(秒間100京回の演算性能)システムとされる。</p><p>　Auroraの各ノードは10nmプロセスで製造されるコードネーム「Sapphire Rapids」こと次世代Xeonスケーラブルプロセッサ2基、Ponte Vecchio GPUを6基の組み合わせで、システム全体は200以上のラックで構成される。</p><p>　不揮発性メモリのOptane DCパーシステントメモリに対応し、総メモリ容量は10PB(ペタバイト)以上、ストレージ容量は230PB以上をサポートする。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1219/149/02.png"></div></div><span class="caption">Auroraのノード構成</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Mon, 18 Nov 2019 14:54:04 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
