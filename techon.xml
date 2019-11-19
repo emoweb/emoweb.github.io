@@ -616,5 +616,17 @@
 			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　富士通と理化学研究所が共同開発中のスーパーコンピューター「富岳（ふがく）」のプロトタイプが2019年11月18日、スパコン消費電力性能ランキング「Green500」で世界1位を獲得した。米国で開催中のHPC（ハイパフォーマンスコンピューティング）に関する国際会議「SC19」で発表された。</p><p>　富岳のプロトタイプは富士通が開発したCPU（中央演算装置）である「A64FX」を768個搭載。スパコン向けCPUとして世界で初めて英アームの命令セットアーキテクチャーを採用した点が特徴だ。スパコンの性能を測るベンチマークテストにおいて、1ワット当たり16.876GFLOPS（ギガフロップス、フロップスは1秒間に処理できる浮動小数点演算回数）の性能を達成した。</p><p>　これによりGreen500において1位（計算処理速度のランキングでは159位）を獲得した。2位（同420位）はPEZY ComputingとExaScalerの「NA-1」、3位（同24位）は米IBMの「AiMOS」だった。</p><p>　富岳はスパコン「京」の後継機。2014年に開発が始まり、2021年の稼働を予定している。</p></div>]]></description>
 			<pubDate>Tue, 19 Nov 2019 09:05:02 +0900</pubDate>
 		</item>
+		<item>
+			<title>ZCL検知方式を採用したホール効果センサーIC、エイブリックが民生機器向けを発売</title>
+			<link>https://tech.nikkeibp.co.jp/atcl/nxt/news/18/06479/</link>
+			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><div class="bpframe" style="z-index:10; position:relative;"><div><p>　エイブリックは、ZCL（Zero  Crossing  Latch）検知方式を採用した民生機器向けホール効果センサーIC「S-576Z Bシリーズ」を発売した。ブラシレス直流（DC）モーターの駆動に向ける。ZCLとは、外部から印加される磁束密度がS極からN極、もしくはN極からS極に切り替わる0Tに達した点を検知し、信号を出力する方式である。従来のホール効果センサーICでは、単極検知（ユニポーラー）、両極検知（オムニポーラー）、交番検知（バイポーラー）という検知方式を採用している。いずれもS極、もしくはN極の切り替わり点である0Tを通過した時点で信号を検出できず、設定した検出点（BopとBrp）に達したときに信号を出力していた。従って、0Tから検出点に達するまでの遅れ時間が発生してしまう問題を抱えていた。ZCL検知方式を使えば、この問題を解決できる。その結果、「設計の自由度が格段に高まるため、ホール効果センサーICの位置精度や部品のばらつきといったモーターの性能に影響を与える要因を減らしたり、製造工程におけるキャリブレーション作業の負担を軽減したりすることが可能になる」（同社）という。</p></div></div><div><h3><h3>この先は会員の登録が必要です。<span>今なら有料会員（月額プラン）が12月末まで無料！</span></h3></h3><ul><li><a href="https://tech.nikkeibp.co.jp/go/nxt.html?ru=https%3A%2F%2Ftech.nikkeibp.co.jp%2Fatcl%2Fnxt%2Fnews%2F18%2F06479%2F" onclick="try{s.trackClickDelay(this,'articleBody','member');} catch(e){};return false;"><span>無料・有料プランを選択</span><strong>お申し込み</strong></a></li><li><a href="https://tech.nikkeibp.co.jp/atcl/nxt/news/18/06479/#" onclick="return(bpsso.liMov(0))"><span>会員はこちら</span><strong>ログイン</strong></a></li></ul><p>日経 xTECHには有料記事(有料会員向けまたは定期購読者向け)、無料記事(登録会員向け)、フリー記事(誰でも閲覧可能)があります。有料記事でも、登録会員向け配信期間は登録会員への登録が必要な場合があります。<a href="https://support.nikkeibp.co.jp/app/answers/detail/a_id/1116/p/217/">有料会員と登録会員に関するFAQはこちら</a></p></div></div>]]></description>
+			<pubDate>Tue, 19 Nov 2019 12:30:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>サムスンなど3社がE2Eの5G SAネットワーク構築、クラウドネイティブで相互運用試験を実施</title>
+			<link>https://tech.nikkeibp.co.jp/atcl/nxt/news/18/06482/</link>
+			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><div class="bpframe" style="z-index:10; position:relative;"><div><p>　韓国Samsung Electronics（サムスン電子）は2019年11月15日、クラウドベースの5G SA（Standalone）基幹ネットワークを構築し、相互運用試験を実施したと発表した。</p></div></div><div><h3><h3>この先は会員の登録が必要です。<span>今なら有料会員（月額プラン）が12月末まで無料！</span></h3></h3><ul><li><a href="https://tech.nikkeibp.co.jp/go/nxt.html?ru=https%3A%2F%2Ftech.nikkeibp.co.jp%2Fatcl%2Fnxt%2Fnews%2F18%2F06482%2F" onclick="try{s.trackClickDelay(this,'articleBody','member');} catch(e){};return false;"><span>無料・有料プランを選択</span><strong>お申し込み</strong></a></li><li><a href="https://tech.nikkeibp.co.jp/atcl/nxt/news/18/06482/#" onclick="return(bpsso.liMov(0))"><span>会員はこちら</span><strong>ログイン</strong></a></li></ul><p>日経 xTECHには有料記事(有料会員向けまたは定期購読者向け)、無料記事(登録会員向け)、フリー記事(誰でも閲覧可能)があります。有料記事でも、登録会員向け配信期間は登録会員への登録が必要な場合があります。<a href="https://support.nikkeibp.co.jp/app/answers/detail/a_id/1116/p/217/">有料会員と登録会員に関するFAQはこちら</a></p></div></div>]]></description>
+			<pubDate>Tue, 19 Nov 2019 12:30:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
