@@ -5,18 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>透明性が持つ力：分断化するサイバー空間の只中で</title>
-			<link>https://blog.kaspersky.co.jp/the-power-of-transparency/24395/</link>
-			<description><![CDATA[テクノロジーナショナリズムが進み、サイバー犯罪者に利する環境にある中で、求められるのはグローバル企業の「透明性」です。]]></description>
-			<pubDate>Fri, 01 Nov 2019 01:00:29 +0000</pubDate>
-		</item>
-		<item>
-			<title>Chromeのゼロデイ脆弱性を悪用した攻撃</title>
-			<link>https://blog.kaspersky.co.jp/google-chrome-zeroday-wizardopium/24413/</link>
-			<description><![CDATA[Google Chromeにゼロデイ脆弱性が見つかり、攻撃に利用されていることが判明しました。Chromeをすぐに更新することをお勧めします。]]></description>
-			<pubDate>Tue, 05 Nov 2019 08:00:06 +0000</pubDate>
-		</item>
-		<item>
 			<title>アカウントを乗っ取られた話：不意打ちをくらった彼女の場合</title>
 			<link>https://blog.kaspersky.co.jp/if-my-account-was-hacked/24409/</link>
 			<description><![CDATA[セキュリティには気を遣っていたのに、アカウントを乗っ取られてしまった…。何が盲点だったのか、適切な対応とはどういうものか。身近に起きた実例からお話しします。]]></description>
@@ -63,6 +51,18 @@
 			<link>https://blog.kaspersky.co.jp/anti-ransomware-all-in-one/24513/</link>
 			<description><![CDATA[暗号化型ランサムウェアに対抗する、対策用ツールと復号ツールのご紹介。]]></description>
 			<pubDate>Thu, 21 Nov 2019 01:00:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>ドローン関連の8つの事件</title>
+			<link>https://blog.kaspersky.co.jp/drone-incidents/24522/</link>
+			<description><![CDATA[ホワイトハウスを騒がせ、空港をまひさせ、飛行機や送電線に衝突する—ドローンの持つ危険性について。]]></description>
+			<pubDate>Fri, 22 Nov 2019 00:00:54 +0000</pubDate>
+		</item>
+		<item>
+			<title>Kaspersky Antidrone：その目的と仕組み</title>
+			<link>https://blog.kaspersky.co.jp/antidrone-under-the-hood/24372/</link>
+			<description><![CDATA[犯罪者やトラブルメーカーがドローンを送り込み、企業に損害を与える可能性が考えられます。こうした脅威に対応可能なKasperskyの対策について。]]></description>
+			<pubDate>Fri, 22 Nov 2019 01:00:20 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
