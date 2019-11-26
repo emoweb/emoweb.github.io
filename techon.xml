@@ -599,6 +599,12 @@
 			<pubDate>Tue, 26 Nov 2019 18:40:00 +0900</pubDate>
 		</item>
 		<item>
+			<title>映像プラットフォームの社会インフラ化へ、セーフィーがNTTグループから資金調達</title>
+			<link>https://tech.nikkeibp.co.jp/atcl/nxt/news/18/06559/</link>
+			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　クラウド録画サービス「Safie」を開発・運営するセーフィーは2019年11月26日、NTTドコモ・ベンチャーズが運用するファンドから資金調達を実施したと発表した。今後NTTグループとの協業を促進していく。</p><p>　今回の資金調達を通して、BtoCやBtoB、エンタープライズ、公共・自治体まで幅広く利用できるサービスを提供し、「映像プラットフォーム」の社会インフラ化を目指す。このため、NTTグループのアセットと、セーフィーの持つ映像プラットフォームを連携させていく。</p><p>　この取り組みの一環としてセーフィーは、従来から協業を進めていたNTT東日本と、より強固なパートナーシップの構築を図っていく。</p><p></p><div><a href="https://safie.link/safietimes/news/833" target="_blank">発表資料へ</a></div></div>]]></description>
+			<pubDate>Tue, 26 Nov 2019 18:45:47 +0900</pubDate>
+		</item>
+		<item>
 			<title>画像認識AIの独自開発が容易に、AWSが新サービス「Rekognition Custom Labels」提供へ</title>
 			<link>https://tech.nikkeibp.co.jp/atcl/nxt/news/18/06557/</link>
 			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　米アマゾン・ウェブ・サービス（Amazon Web Services）は2019年11月25日（米国時間）、ユーザー独自の画像認識AI（人工知能）を開発するサービス「Amazon Rekognition Custom Labels」を2019年12月3日から一般提供すると発表した。ユーザーは自前の教師データを少量用意することで、独自の画像認識AIを開発できるという。</p><div><div class="bpimage_center" style="width:400px;"><div><a href="https://tech.nikkeibp.co.jp/atcl/nxt/news/18/06557/?SS=imgview&amp;FD=-861245705" target="_blank"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/news/18/06557/fig.jpg?__scale=w:400,h:408&amp;_sh=02d0d005c0" width="400" height="408" alt=""></a></div><div>Amazon Rekognition Custom Labelsの公式ページ。2019年12月3日に一般提供を開始する予定</div><div>（出所：米アマゾン・ウェブ・サービス）</div><div>[画像のクリックで拡大表示]</div></div></div><p>　独自の画像認識AIとは例えば「工場の通い箱（搬送用の箱）の中を撮影した画像から特定の機械部品を検出して名称を出力する」といったものだ。従来はこうした独自の画像認識AIを開発するには、大量の教師データやAIの専門知識を持つ技術者が必要とされ、時間とコストがかかった。Rekognition Custom Labelsを使うと、ユーザーはAIの専門知識を必要とせず、検出したい機械部品ごとにそれが写った画像を10個ほど用意して名称のタグ付けなどをするだけで、独自の画像認識AIを開発できる。</p><p>　 Rekognition Custom Labelsは、AWSが「Amazon Rekognition」として提供する汎用的な画像認識AIに対してユーザーが追加学習できるようにしたサービスといえる。同様の画像認識AIサービスとしては米マイクロソフト（Microsoft）の「Custom Vision」や米グーグル（Google）の「Cloud AutoML Vision」がある。いずれも教師データが少量で済むうえにAIの専門知識が不要で、AI開発のハードルが低い。クラウド最大手のAWSもサービス提供を始めたため、画像認識AIの活用が加速しそうだ。</p></div>]]></description>
