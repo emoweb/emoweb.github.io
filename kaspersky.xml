@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>アプリが実際に収集するデータを調べるには</title>
-			<link>https://blog.kaspersky.co.jp/check-what-data-apps-collect/24425/</link>
-			<description><![CDATA[すべてのアプリは基本的に、あなたに関する情報を収集します。実際にどういった情報が収集されているのか、確認できるサービスがAppCensusとExodus Privacyです。]]></description>
-			<pubDate>Mon, 11 Nov 2019 01:00:24 +0000</pubDate>
-		</item>
-		<item>
 			<title>新手の詐欺、「フリースウェア」にご注意</title>
 			<link>https://blog.kaspersky.co.jp/beware-of-fleeceware/24433/</link>
 			<description><![CDATA[やけに高額なアプリが、無料のお試し期間でGoogle PlayやApp Storeの利用者の気を引き、アンインストールされた場合でも定額利用料の請求を行うケースが見られています。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/coalition-against-stalkerware/24467/</link>
 			<description><![CDATA[ストーカーウェアが、標的となった人だけでなくセキュリティ企業にとっても問題である理由は。そして、その問題を解決するための取り組みとは。]]></description>
 			<pubDate>Wed, 27 Nov 2019 04:00:43 +0000</pubDate>
+		</item>
+		<item>
+			<title>イレギュラーなケースに対応するセキュリティソリューション</title>
+			<link>https://blog.kaspersky.co.jp/scan-engine/26046/</link>
+			<description><![CDATA[サードパーティのソフトウェアまたはハードウェアソリューションに統合可能なスキャンエンジン、Kaspersky Security Engineについて。]]></description>
+			<pubDate>Fri, 29 Nov 2019 01:00:04 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
