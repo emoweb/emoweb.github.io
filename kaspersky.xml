@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>新手の詐欺、「フリースウェア」にご注意</title>
-			<link>https://blog.kaspersky.co.jp/beware-of-fleeceware/24433/</link>
-			<description><![CDATA[やけに高額なアプリが、無料のお試し期間でGoogle PlayやApp Storeの利用者の気を引き、アンインストールされた場合でも定額利用料の請求を行うケースが見られています。]]></description>
-			<pubDate>Tue, 12 Nov 2019 01:00:47 +0000</pubDate>
-		</item>
-		<item>
 			<title>ターミネーターのサイバーセキュリティ</title>
 			<link>https://blog.kaspersky.co.jp/terminator-1-2-cybersecurity/24447/</link>
 			<description><![CDATA[『ターミネーター：ニューフェイト』に先立つ『ターミネーター』『ターミネーター2』の世界では、サイバーセキュリティの状況はどうだったのでしょうか。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/scan-engine/26046/</link>
 			<description><![CDATA[サードパーティのソフトウェアまたはハードウェアソリューションに統合可能なスキャンエンジン、Kaspersky Security Engineについて。]]></description>
 			<pubDate>Fri, 29 Nov 2019 01:00:04 +0000</pubDate>
+		</item>
+		<item>
+			<title>VNCを使ったリモートアクセスの脆弱性</title>
+			<link>https://blog.kaspersky.co.jp/vnc-vulnerabilities/26066/</link>
+			<description><![CDATA[当社のICS CERTチームは、4つのVNC実装に37の脆弱性を発見しました。ほとんどの脆弱性は修正されましたが、すべてではありません。]]></description>
+			<pubDate>Mon, 02 Dec 2019 01:00:38 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
