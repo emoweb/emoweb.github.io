@@ -5,74 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Amazonセール情報12月2日昼版｜Echo シリーズを買うと、Amazon Music Unlimitedが4か月利用可能
-</title>
-			<link>https://japanese.engadget.com/2019/12/01/amazon-12-2-echo-amazon-music-unlimited-4/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F4f66de60-705a-11e9-b77d-113fe531efba&client=a1acac3e1b3290917d92&signature=4507a67565cdfa9f1e9079a30cb3fdca93481c95" />
-
-
-
-数あるAmazonタイムセールのなかでも、Engadget編集部が気になったアイテムをお届けします。
-
-今回ピックアップしたのは以下の9アイテム。お得に購入できるうちにカートに入れちゃいましょう。スマホでご覧の場合、右側にスクロールします。
-
- 
-
-
-
-
-
-
-
-
-Echo シリーズ +Amazon Music Unlimited個人プラン4か月分
-
-新登場 Echo Show 5 (エコーショー5) スクリーン付きスマートスピーカー with Alexa、チャコール + Amazon Music Unlimited (個人プラン 4か月分 *以降自動更新)新登場 Echo Show 5 (エコーショー5) スクリーン... AmazonAmazon￥9,980 ￥13,100
-
-Echo Dot 第3世代、ヘザーグレー + Amazon Music Unlimited (個人プラン4か月分 *以降自動更新)Echo Dot 第3世代、ヘザーグレー + Amazon Mu... AmazonAmazon￥5,980 ￥9,100
-(5,293)
-
-
-
-&yen; 2,000 - &yen; 3,279
-Anker PowerPort Atom PD 1(PD対応 30W USB-C急速充電器)【...
-
-&yen; 3,439
-価格: &yen; 4,299 (20% OFF)
-Anker PowerPort Atom III (Two Ports) (PD対応 60W 2ポートUS...
-
-&yen; 936
-価格: &yen; 1,580 (41% OFF)
-車載ホルダー ゲル吸盤式 エアコン吹き出し口取り付け 2in1 伸縮ア...
-
-
-
-
-プライム会員先行タイムセール
-&yen; 2,799
-Bluetooth スピーカー Vanzon 20W ワイヤレススピーカー Blue...
-
-
-&yen; 3,399
-価格: &yen; 4,299 (21% OFF)
-進化版 Bluetooth 5.0 両耳通話】ブルートゥース イヤホン 高音質 ...
-
-プライム会員先行タイムセール
-&yen; 2,959
-価格: &yen; 3,699 - &yen; 4,280 (20% OFF)
-iClever 折りたたみ Bluetooth キーボード 軽量 薄型 ワイヤレス...
-
-
-
-
-※本記事のセール情報は記事執筆時点のもので、価格や在庫状況が変化する場合があります。
-
-
-
- ]]></description>
-			<pubDate>Sun, 01 Dec 2019 23:59:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    Apple News+、米加で初回無料3ヶ月を提供。背景には購読者の伸び悩み？
 </title>
 			<link>https://japanese.engadget.com/2019/12/02/apple-news-3/</link>
@@ -747,6 +679,29 @@ SHOのしびれない話 / 新日本プロレスリング株式会社
 
  ]]></description>
 			<pubDate>Tue, 03 Dec 2019 00:01:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    米Amazon、患者の会話から医療記録を生成可能なTranscribe Medicalを発表
+</title>
+			<link>https://japanese.engadget.com/2019/12/03/amazon-transcribe-medical/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-12%2Fa4bfaa10-1576-11ea-bb73-09760d8b495e&client=a1acac3e1b3290917d92&signature=9d93ef3931212ed94cebb58f45da40eebe852453" />
+米Amazonが、ラスベガスで開催中のAWS（Amazon Web Service）年次イベントre:Inventにおいて、医療情報に特化した音声認識サービス「Amazon Transcribe Medical」を発表しました。医師と患者の会話をリアルタイムにテキスト化し、電子医療記録（EHR）に追加できるものです。
+
+医師がEHRに口述可能なシステムとしては、10月にApple Watchを使ったものがカリフォルニア州で導入されています。
+
+ 
+関連記事：
+Apple Watch、医療現場でも活躍。医師が口述で電子カルテを自動入力 - Engadget 日本版
+
+ウィスコンシン大学とアメリカ医師会による2017年の調査では、米国のプライマリケア医師（なんでも相談に乗ってくれる身近な医師）は、1日6時間をEHRへの入力に費やしているとのこと。この時間を削減し、患者に向き合う時間を増やすのが、Amazon Transcribe Medicalの目的です。
+
+ベースとなっているのは、先日、日本語にも対応したAmazon Transcribe。医療の現場では、一般的ではない専門用語が数多く使われていますが、Amazon Transcribe Medicalはこれらの専門用語にも対応しています。
+
+Amazonのヘルスケア業界向けのサービスとしては、2018年に機械学習を用いてテキスト内の関係性を検出し、構造化できるAmazon Comprehendの医療情報対応版Amazon Comprehend Medicalをリリースしています。もちろん、Transcribe MedicalはComprehend Medicalと組わせての利用も可能です。
+
+AWSを利用して医療情報の記録を取る点に関しては、プライバシーなどの問題も懸念されるところです。これについて、AWSの人工知能担当副社長Matt Wood氏は、Amazon Transcribe MedicalはHIPAA（医療保険の相互運用性と説明責任に関する法律）に準拠していると説明しています。ただ、HIPAAに準拠しているから安全だとは言えず、実際のデータ保護についてはどのような対策が取られているのか、今後、明確化していく必要はありそうです。
+ ]]></description>
+			<pubDate>Tue, 03 Dec 2019 00:50:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
