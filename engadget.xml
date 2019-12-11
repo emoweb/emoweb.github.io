@@ -5,42 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    iOS版Googleマップにもシークレットモード。Android版には訪問場所の一括削除機能も
-</title>
-			<link>https://japanese.engadget.com/2019/12/10/ios-google-android/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-12%2Fb7d34f10-1af5-11ea-9f5b-8925f2d65d0c&client=a1acac3e1b3290917d92&signature=fc208f6d9942aa169e66b3ab5dcd497cf3ada936" />
-Googleは11月、Android版Googleマップにシークレットモードを追加しました。これを利用すると、検索履歴やタイムラインに履歴を残さず、過去に訪れた場所に基づくパーソナライズ機能なども提供されなくなります。Googleに訪問先の情報を渡さずに済むのが、重要なメリットと考える人もいるかもしれません。
-
-そして、Androidから遅れること1か月、iOS版にもシークレットモードの提供が開始されました。
-
- 
-関連記事：
-Android向けGoogleマップでシークレットモードが利用可能に 
-
-iOS版もAndroid版と同じように機能するとのこと。利用可能になれば、右上のユーザーアイコンをタップした際にシークレットモードのメニューが表示されます。
-
-またAndroid版では、タイムラインの一括削除機能の追加も発表されています。現在でも、タイムライで場所毎に一括削除したり、ロケーション履歴から定期的に履歴を削除したりできますが、新機能では、複数個所の訪問履歴を一括で削除できるようになります。
-
-家族や恋人にスマートフォンを貸した際、シークレットモードを使っていてある期間だけ履歴が残っていないのを不審に思われたり、お店への訪問履歴でサプライズのプレゼント購入がばれたりしないようにするには、便利な機能となりそうです。
-
-この一括削除機能は、1月にリリース予定とのことです。
-   
- ]]></description>
-			<pubDate>Tue, 10 Dec 2019 00:00:00 -0500</pubDate>
-		</item>
-		<item>
-			<title>    あのHHKBに無線＋有線共用版が。小型高級キーボード上位版がフルモデルチェンジ
-</title>
-			<link>https://japanese.engadget.com/2019/12/10/hhkb/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-12%2F6fb43520-1b0c-11ea-9df3-61e259981d38&client=a1acac3e1b3290917d92&signature=d7bdf98edc7954d9a38e0a5c3d18295158cdcffd" />
-株式会社PFUが、高級小型Happy Hacking Keyboard（HHKB）の新モデルを発表しました。Professionalシリーズの新世代モデルとして3グレード16モデルを発売します。注文は同社直販「PFUダイレクト」にて受付中。価格は2万3000円（税別）から、3万2000円（同）まで。
-
-
-大きな特徴は上位モデルにおけるBluetoothとUSB（無線と有線のハイブリッド化）、全モデルでのUSB端子のType-Cへの交代、Bluetooth対応モデルでのマルチペアリング切り替え操作性の向上、そして「文字キーも変更可能となったキーマップ変更」の3点です。
- ]]></description>
-			<pubDate>Tue, 10 Dec 2019 00:25:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    スマホカメラの画素数、来年2億に。「1億画素」日本上陸後もインフレ
 </title>
 			<link>https://japanese.engadget.com/2019/12/10/2-1/</link>
@@ -659,6 +623,68 @@ Galaxy Foldは発表後に、レビュアーからディスプレイに関する
    
  ]]></description>
 			<pubDate>Tue, 10 Dec 2019 20:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    新型「Mac Pro」59万9800円で販売開始、フルスペックだと574万円！
+</title>
+			<link>https://japanese.engadget.com/2019/12/10/mac-pro-59-9800-6k-pro-display-xdr-52-9800/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-12%2F2d740f20-1a2e-11ea-b7fe-471896b0f159&client=a1acac3e1b3290917d92&signature=8df3f2e9dc8b5ba527f1d8c695259fee768cb924" />
+Appleは新型「Mac Pro」と「Pro Display XDR」の販売を開始しました。価格はMac Proが59万9800円（税別）から、Pro Display XDRが52万9800円（税別）から。いずれも今年6月に開催されたアップルの開発者会議「WWDC 2019」で発表されたもので、2019年12月の発売が予告されていました。
+
+新型Mac Proの形状は円柱形だった前モデルから再び「取っ手付きタワー形状」に回帰したデザインを採用。フレーム、ハンドルともにステンレス製となっています。CPUは最高で28コアのインテルXeonが搭載可能で、RAMは最大1.5TB/6チャンネル接続、内蔵電源の出力値は最高1400W。PCI Express拡張カードは最高8枚まで搭載できます。
+
+前述で価格は59万9800円（税別）からとしていましたが、製品サイトでフルスペックを選択した場合の価格は574万600円（税別）です。因みにその場合の構成やオプションは以下の通りです。
+
+2.5GHz 28コアIntel Xeon Wプロセッサ（Turbo Boost使用時最大4.4GHz）
+1.5TB（12x128GB）DDR4 ECCメモリ
+Radeon Pro Vega II Duo x 2（各2 x 32GB HBM2メモリ搭載）
+4TB SSDストレージ
+Apple Afterburnerカード
+ホイールつきのステンレススチールフレーム
+Magic Mouse 2 + Magic Trackpad 2
+Magic Keyboard（テンキー付き）- 日本語（JIS）
+
+
+Retina 6KディスプレイPro Display XDRは、新Mac Proと統一されたデザインを採用しており。32インチサイズ、6016 x 3384解像度、P3色空間をサポートし、輝度は1000nit（最大1600nit）の高輝度に対応し100万：1のコントラスト比を表現します。
+■関連記事
+新Mac Proは5999ドル〜 2019年秋登場
+新Mac Pro、Pro Display XDR 実機レポ
+ガチで凄かったApple Pro Display XDR
+
+■関連リンク
+Mac Pro製品サイト
+Pro Display XDR製品サイト
+
+
+ ]]></description>
+			<pubDate>Tue, 10 Dec 2019 20:39:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    Google、Pixelの新機能を「feature drops」として定期リリース化。初回は写真の背景ぼかし機能など
+</title>
+			<link>https://japanese.engadget.com/2019/12/10/google-pixel-feature-drop/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-12%2Fa940f4f0-1b33-11ea-bfe8-5fc4a6e62020&client=a1acac3e1b3290917d92&signature=1ec30e19fa2e07dde0b4f1dda291035e0fe79aee" />
+Googleは12月9日（現地時間）、Pixel端末向けに新機能を「feature drops」として定期的に提供していくと発表しました。その第1弾として、Googleフォトでの非ポートレート写真の背景ぼかし機能や、Google Duoのビデオ通話でのオートフレーミング機能などが提供開始されています。
+
+まずGoogleフォトでの背景ぼかし機能ですが、カメラアプリのポートレートモードで撮影した場合、背景のぼかし具合を後から調整できます。これを非ポートレートの写真でも利用可能とするもの。利用できるのは、自撮り写真や人物がメインの場合に限られます。
+
+
+Pixel 4特有のDuoビデオ通話機能としては、被写体を常にカメラの中心に捉えるオートフレーミング機能が追加されています。この機能は背後に他の人が入った場合でも、その人も含めて映るように自動的に表示位置を調整します。
+
+
+
+Duo向けの機能としてはもうひとつ、自分の背景をぼかせるポートレートフィルターも追加されました。こちらは、Pixel 2と3でも利用可能です。
+
+最後に、米国でのPixel 4のみですが、Call Screenが組み込まれます。これまでは、着信時に手動でCall Screenボタンを押す必要がありましたが、Pixel 4では連絡先に登録されていない番号からの発信の場合には、着信音が鳴る前に自動的にCall Screenが有効になります。そしてGoogleアシスタントが迷惑電話ではないと判断した場合には着信通知とともに、Call Screenでやり取りした内容を表示します。
+
+ 
+関連記事：
+Google、AIが電話の用件を訊く機能Call Screen発表。迷惑電話撃退、新スマホPixel 3から提供
+
+このほか、すべてのPixelデバイスにおいて、メモリ管理の更新も提供されるとしています。これにより、ゲームやストリーミングコンテンツなど、同時に複数のアプリを利用できるよう、キャッシュされたアプリケーションを積極的に圧縮するようになるとのことです。
+ 
+ ]]></description>
+			<pubDate>Tue, 10 Dec 2019 20:40:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
