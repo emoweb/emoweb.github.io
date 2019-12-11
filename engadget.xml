@@ -5,29 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    ヒトの集中度に応じて照明制御、KDDIなどが実証実験
-</title>
-			<link>https://japanese.engadget.com/2019/12/10/k/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-12%2F6f5ad1a0-1ba8-11ea-afb9-09e430865869&client=a1acac3e1b3290917d92&signature=06d18ad74918ea2335d9fefc2c07a7baccbbc9c5" />
-KDDIとThink Lab、東芝ライテックの3社は、個人の集中度に応じて照明の明るさや色温度を制御する実証実験を開始すると発表しました。
-
-3社によると、集中できる照明環境は個人や作業形態によって異なり、個人の集中度に応じた照明制御が必要であるとのこと。
-
-実証実験では、メガネ型ウェアラブルデバイスの「JINS MEME」を活用。「JINS MEME」で計測する「まばたき」「視線移動」「姿勢」から得られる集中度などのバイタルデータと、オフィスの「温湿度」「二酸化炭素」などの空間データを、東芝ライテックの照明器具に接続したKDDIのIoTゲートウェイで収集・クラウドで解析し、オフィス照明の光色や明るさを集中度に応じて個別に制御することを目指します。
-
-
-▲予備実験の結果、集中できる照明環境は個人や作業形態によって異なることを実証
-
-
-▲集中度を測定できる「JINS MEME」を活用し、個人や作業形態に適切な照明制御を行う実証実験を来年1月6日より開始する
-
-3社は今後、本実証実験で得た知見から、個人の集中に最適な集中照明制御アルゴリズムを機械学習させ、汎用性を高めることで、「人を中心に考えた照明」をうたう未来型オフィス空間の実現に取り組むとしています。
- 
-
- ]]></description>
-			<pubDate>Tue, 10 Dec 2019 18:55:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    ダイムラーがカリフォルニア州で自動運転によるライドシェアサービス実験を開始
 </title>
 			<link>https://japanese.engadget.com/2019/12/10/Mercedes/</link>
@@ -549,6 +526,17 @@ ASSOCIATED PRESS
  
  ]]></description>
 			<pubDate>Wed, 11 Dec 2019 05:15:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    2014年12月12日、auで通話・通信同時利用を可能とした「VoLTE」サービスが開始されました：今日は何の日？
+</title>
+			<link>https://japanese.engadget.com/2019/12/11/2014-12-12-au-volte/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-12%2F8b74cc30-1ba6-11ea-b7be-7f59ead797a4&client=a1acac3e1b3290917d92&signature=a7d41c3fd84ab51c88b22f6a7e45da88560aa072" />「VoLTE」はVoice over LTEの略で、音声通話にLTEのデータ通信を利用する方式。音声通話の音質が高くなる、3Gへの切り替えがないため発着信が速い、音声通話中でもデータ通信が使えるといったメリットがあります。
+
+auがこのVoLTEのサービスを開始したのが、2014年の今日です。
+
+ ]]></description>
+			<pubDate>Wed, 11 Dec 2019 15:30:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
