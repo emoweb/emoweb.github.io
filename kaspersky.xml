@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ストーカーウェアの問題、そして解決策</title>
-			<link>https://blog.kaspersky.co.jp/coalition-against-stalkerware/24467/</link>
-			<description><![CDATA[ストーカーウェアが、標的となった人だけでなくセキュリティ企業にとっても問題である理由は。そして、その問題を解決するための取り組みとは。]]></description>
-			<pubDate>Wed, 27 Nov 2019 04:00:43 +0000</pubDate>
-		</item>
-		<item>
 			<title>イレギュラーなケースに対応するセキュリティソリューション</title>
 			<link>https://blog.kaspersky.co.jp/scan-engine/26046/</link>
 			<description><![CDATA[サードパーティのソフトウェアまたはハードウェアソリューションに統合可能なスキャンエンジン、Kaspersky Security Engineについて。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/kaspersky-finds-zero-day-exploit-in-windows-os-used-in-targeted-attack/26416/</link>
 			<description><![CDATA[Kasperskyは、WizareOpiumの攻撃活動を調査する中で、Windowsのゼロデイ脆弱性を新たに発見しました。]]></description>
 			<pubDate>Mon, 16 Dec 2019 01:00:28 +0000</pubDate>
+		</item>
+		<item>
+			<title>解説：仮想通貨のハッキング、4つの手口</title>
+			<link>https://blog.kaspersky.co.jp/crypto-hacks/26423/</link>
+			<description><![CDATA[最近発生した仮想通貨のハッキング事件4件、その背後にどんな要因があったのでしょうか。]]></description>
+			<pubDate>Tue, 17 Dec 2019 05:00:09 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
