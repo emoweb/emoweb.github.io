@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>イレギュラーなケースに対応するセキュリティソリューション</title>
-			<link>https://blog.kaspersky.co.jp/scan-engine/26046/</link>
-			<description><![CDATA[サードパーティのソフトウェアまたはハードウェアソリューションに統合可能なスキャンエンジン、Kaspersky Security Engineについて。]]></description>
-			<pubDate>Fri, 29 Nov 2019 01:00:04 +0000</pubDate>
-		</item>
-		<item>
 			<title>VNCを使ったリモートアクセスの脆弱性</title>
 			<link>https://blog.kaspersky.co.jp/vnc-vulnerabilities/26066/</link>
 			<description><![CDATA[当社のICS CERTチームは、4つのVNC実装に37の脆弱性を発見しました。ほとんどの脆弱性は修正されましたが、すべてではありません。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/crypto-hacks/26423/</link>
 			<description><![CDATA[最近発生した仮想通貨のハッキング事件4件、その背後にどんな要因があったのでしょうか。]]></description>
 			<pubDate>Tue, 17 Dec 2019 05:00:09 +0000</pubDate>
+		</item>
+		<item>
+			<title>Kaspersky、3年連続で「Customer’s Choice」に選出</title>
+			<link>https://blog.kaspersky.co.jp/epp-peerinsights-2019/26440/</link>
+			<description><![CDATA[Kasperskyは、2019年度Gartner Peer Insightsにてエンドポイント保護プラットフォーム部門のCustomers’ Choiceに選出されました。3年連続の受賞です。]]></description>
+			<pubDate>Wed, 18 Dec 2019 04:00:31 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
