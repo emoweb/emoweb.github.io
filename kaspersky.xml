@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>VNCを使ったリモートアクセスの脆弱性</title>
-			<link>https://blog.kaspersky.co.jp/vnc-vulnerabilities/26066/</link>
-			<description><![CDATA[当社のICS CERTチームは、4つのVNC実装に37の脆弱性を発見しました。ほとんどの脆弱性は修正されましたが、すべてではありません。]]></description>
-			<pubDate>Mon, 02 Dec 2019 01:00:38 +0000</pubDate>
-		</item>
-		<item>
 			<title>更新版：Instagramのセキュリティとプライバシーの設定</title>
 			<link>https://blog.kaspersky.co.jp/keep-instagram-secure/10065/</link>
 			<description><![CDATA[Instagramのアカウントと個人の写真を詮索好きな目から守る方法。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/epp-peerinsights-2019/26440/</link>
 			<description><![CDATA[Kasperskyは、2019年度Gartner Peer Insightsにてエンドポイント保護プラットフォーム部門のCustomers’ Choiceに選出されました。3年連続の受賞です。]]></description>
 			<pubDate>Wed, 18 Dec 2019 04:00:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>小規模なオンラインショップを狙う危ないメール</title>
+			<link>https://blog.kaspersky.co.jp/attack-on-online-retail/26435/</link>
+			<description><![CDATA[社員をだまして悪意あるファイルを開けさせようとする、小規模なオンラインストアを狙った攻撃が発生しています。]]></description>
+			<pubDate>Thu, 19 Dec 2019 01:00:19 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
