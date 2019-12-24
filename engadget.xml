@@ -5,35 +5,6 @@
 		<link>https://japanese.engadget.com/rss.xml</link>
 		<description>Engadget Japanese</description>
 		<item>
-			<title>    Chrome 79にメディアコントロール機能追加。どのタブの再生でも一か所で制御可能
-</title>
-			<link>https://japanese.engadget.com/2019/12/23/chrome-79/</link>
-			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-12%2F3579d850-253a-11ea-bedd-614ae3612190&client=a1acac3e1b3290917d92&signature=e78d7acc967ee6c3659222d60419eb25a3cf13bd" />
-Chromeでは、動画や音楽が再生されているタブにはスピーカーアイコンが表示されますが、タブを多く開いていると、すぐにはどのタブで再生されているのか見つけにくいものです。突然、動画広告が大きな音で再生されたり、電話対応で一時停止したい場合などには特に困ります。
-
-そんな問題を解決するため、最新のChrome 79では、再生中のメディアを一か所で集中管理できる機能が追加されています。この機能、以前にGlobal Media Controlsとしてテストされていたもの。
-
- 
-関連記事：
-Chrome、どのタブの動画でも再生・停止できる操作ボタンをテスト中
-
-どこかのタブで再生が始まると、ユーザーアイコンの左に音符マークが表示され、そこで再生中のメディアに対して停止や再生、スキップなどの操作を行えます。
-
-
-
-YouTubeの場合はプレビュー画像も表示されるなど、表示自体はChrome OSで利用できるメディアコントロールによく似たものとなっています。
-
- 
-関連記事：
-Chrome OSが仮想デスクトップに対応、バージョン76公開
-
-なお、デフォルトでは有効になっておらず、利用するためには、アドレスバーから「chrome://flags/#global-media-controls」を入力し、機能を有効にする必要があります。
-
-ところでこの機能、Chromium Blogでいったんは紹介されたものの、その投稿はすでに削除されています（キャッシュでは確認可能）。デフォルトで有効にするはずがそうなっていなかったのか、あるいはフライングでの掲載だったのか。なんであれ、試される方は、試験中の機能だと考えておいたほうがよさそうです。
- ]]></description>
-			<pubDate>Mon, 23 Dec 2019 01:00:00 -0500</pubDate>
-		</item>
-		<item>
 			<title>    人気アプリToTok、サウジ政府のスパイツール？App StoreやGoogle Playから削除
 </title>
 			<link>https://japanese.engadget.com/2019/12/23/totok-app-store-google-play/</link>
@@ -746,6 +717,17 @@ Googleは21日（米現地時間）、Pixel端末向けの新機能「feature dr
  
  ]]></description>
 			<pubDate>Mon, 23 Dec 2019 17:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>    「何時までに家を出れば目的地に間に合うの？」をiPhoneに考えてもらおう！：iPhone Tips
+</title>
+			<link>https://japanese.engadget.com/2019/12/23/iphone-iphone-tips/</link>
+			<description><![CDATA[     <img src="https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-12%2F2cf51ce0-220a-11ea-aed7-683bae8a83fb&client=a1acac3e1b3290917d92&signature=3be41d03162b3ca45df798fb792b037e79c6cf38" />いつも学校や職場に遅刻してしまう、という人はいませんか？　「まぁ、間に合うでしょ！」と思って二度寝したり、朝の準備に時間をかけていたりすると、結局遅刻してしまいますよね。そんなときは「ショートカット」アプリを使って、iPhoneに何時に家を出れば間に合うのかを教えてもらいましょう。
+
+今回はショートカット「何時までに家を出る必要がありますか」の取得方法と、その使い方をご紹介します。
+<p><a href="https://japanese.engadget.com/gallery/-777/" title="何時までに家を出る必要がありますか">【ギャラリー】何時までに家を出る必要がありますか (8枚)</a></p>
+ ]]></description>
+			<pubDate>Mon, 23 Dec 2019 18:10:00 -0500</pubDate>
 		</item>
 	</channel>
 </rss>
