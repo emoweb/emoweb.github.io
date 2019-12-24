@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>2億6,700万ユーザーの名前と電話番号がFacebookから流出 ～SMSスパムなどに使われる可能性</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1225962.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1225/962/1.jpg"></div></div></div></div></div></div><p>　テクノロジー調査会社の<a href="https://www.comparitech.com/" class="n" target="_blank">Comparitech</a>は19日(現地時間)、Facebookの約2億6,700万ユーザーのIDと名前、電話番号などが流出し、ネット上で誰からも閲覧可能であったことを報じた。</p><p>　これは同社のパートナーであるセキュリティ研究者のBob Daichenko氏が発見したもので、12月4日にデータベースがインデックス化され。12日にハッカーのフォーラムにダウンロード可能な状態で投稿されたことを発見。14日に同氏がデータベースのサーバーを保有するISPに報告したところ、19日にはアクセスできなくなったことが確認された。</p><p>　データベースには、合計267,140,436人のFacebookユニークID、電話番号、名前、タイムスタンプなどが含まれている。このため、犯罪グループのスパムのSMSに使われる可能性があるとしている。</p><p>　流出した経緯は不明だが、Comparitechは2018年にFacebook API経由で電話番号にアクセスできる制限を設けた以前に流出した可能性を指摘しており、Daichenko氏によればベトナムの犯罪者によるFacebook APIの乱用の結果である可能性が高いとしている。</p></div></div>]]></description>
-			<pubDate>Sat, 21 Dec 2019 11:13:22 +0900</pubDate>
-		</item>
-		<item>
 			<title>「Twitter for Android」に脆弱性、アカウントが乗っ取り可能 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1225964.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1225/964/1_o.jpg"></div></div></div></div></div></div><p>　Twitterは、Android向けアプリ「Twitter for Android」に脆弱性あることを報告し、修正アップデートを配布開始した。ユーザー個別へのメール案内で明らかになっており、ホームページで詳細を報告している。</p><p>　これは、脆弱性の悪用には、Twitterアプリの制限されたストレージ領域に悪意のあるコードを埋め込むといった複雑なプロセスを経る必要があるとしているが、悪意の人物がこの攻撃を行なうことで、非公開アカウント情報を参照したり、ツイートやダイレクトメッセージを送信するといったアカウントの制御、位置情報へのアクセスが可能だ。</p><p>　Twitterでは、悪意のあるコードがアプリに埋め込まれたことや、この脆弱性が悪用されたことを示す証拠を把握していないが、念のため細心の注意を払うとともに、問題への対策を講じており、安全性を維持するための特定の手順をTwitterアプリまたはメールで直接ユーザーに通知した。</p><p>　手順は、利用中のAndroidとTwitter for Androidのバージョンによって異なるが、手順に従って速やかに対策するよう呼びかけている。なにをすべきかわからない場合、最新バージョンへ更新するよう促している。</p><p>　なおこの脆弱性は、Twitter for iOSには影響がない。</p></div></div>]]></description>
@@ -117,6 +111,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1226412.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1226/412/01.jpg"></div></div><span class="caption">LEVEL-R0X5-R73X-TWA-SVI</span></div></div></div></div><p>　<a href="https://www.pc-koubou.jp/pc/game.php" class="n" target="_blank">株式会社ユニットコム</a>は、同社のブランド「LEVEL∞（レベルインフィニティ）」より、VRヘッドマウントディスプレイ「VALVE INDEX」がセットになったBTO PC「LEVEL-R0X5-R73X-TWA-SVI」「LEVEL-R040-LCi9K-VWVI-SVI」を販売開始した。前者はAMD製CPU、後者はIntel製CPUを搭載する。</p><p>　「VALVE INDEX」はゲーミングプラットフォーム「Steam」を提供するValveが提唱する「SteamVR」に対応するヘッドマウントディスプレイで、5本の指をすべて認識する独自のコントローラなどを備える。</p><p>　LEVEL-R0X5-R73X-TWA-SVIの構成例として、CPUにRyzen 7 3700X、DDR4-2666 16GBメモリ、480GB SSD＋2TB HDD、ビデオカードはGeForce RTX 2070 SUPER、80PLUS GOLD認証 850W電源を搭載した場合、税別価格は312,780円。</p><p>　LEVEL-R040-LCi9K-VWVI-SVIの構成例として、CPUにCore i9-9900K、DDR4-2666 16GBメモリ、500GB NVMe M.2 SSD＋2TB HDD、ビデオカードはGeForce RTX 2080 SUPER、80PLUS Bronze認証 700W電源を搭載した場合、税別価格は332,780円。</p><p>　どちらのモデルも、OSはWindows 10 Proで、DVDスーパーマルチドライブを搭載する。</p></div></div>]]></description>
 			<pubDate>Tue, 24 Dec 2019 16:16:37 +0900</pubDate>
+		</item>
+		<item>
+			<title>CHUWI、前モデル比で性能が2倍向上を果たした10.1型2in1「Hi10 X」を予告 ～2in1タブ「UBook」が当たるクリスマスキャンペーンも実施中</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1226442.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1226/442/01.jpg"></div></div><span class="caption">Hi10 X</span></div></div></div></div><p>　<a href="https://www.chuwi.com/jp/" class="n" target="_blank">CHUWI</a>は、同社サイトで新型UMPC「Hi10 X」の発売を予告した。現時点では発売時期や価格などは不明。</p><p>　Hi10 Xは、SoCにGemini Lake世代のCeleron N4100(ビデオ機能搭載)を搭載した10.1型の2in1。 Atom x5-Z8350を搭載した前世代機の「Hi10 Air」と比較したさいに、CPUシングルコアスコアでは150%、CPUマルチコアスコアでは110%、GPUスコアでは80%の性能向上を実現したという。</p><p>　また、Hi10 Airでは4GB LPDDR3メモリだったが、本モデルでは6GB LPDDR4へと変更している。ストレージに128GB eMMC、ディスプレイは1,900×1,200ドット表示対応/アスペクト比16:10の10.1型IPS液晶を採用。筆圧1.024レベルのスタイラスペンにも対応している。</p><p>　インターフェイスはUSB 3.0×2(うちType-C 1基)、USB 2.0(Type-C形状、チャージ対応)、Micro HDMI、音声出入力、TFカードスロット、前面/背面カメラなど。バッテリには24Wの急速充電に対応した大容量バッテリを採用。スタンバイ時は最大260時間、駆動時間は6時間。本体サイズは167.3×261.8×8.8mm(幅×奥行き×高さ)、重量は522g。</p><p>　なお、CHUWIでは2in1型タブレット「UBook」が抽選で当たる<a href="https://www.chuwi.com/jp/product/items/Chuwi-UBook.html" class="n" target="_blank">クリスマスキャンペーン</a>を実施している。詳細はキャンペーンページを参照されたい。</p></div></div>]]></description>
+			<pubDate>Tue, 24 Dec 2019 17:31:46 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
