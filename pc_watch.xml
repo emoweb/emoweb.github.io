@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>【本日のできるネット】OneNoteのメモにノートシールを付ける </title>
-			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1228055.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1228/055/3_o.jpg"></div></div></div></div></div></div><blockquote><p>　OneNoteの特徴的な機能に、「ノートシール」があります。[重要]や[要確認]など、メモにすばやく目印を付けられます。</p><p class="src">できるネットの<a href="https://dekiru.net/article/19165/">OneNoteのメモにノートシールを付ける</a></p></blockquote></div></div>]]></description>
-			<pubDate>Wed, 08 Jan 2020 14:22:48 +0900</pubDate>
-		</item>
-		<item>
 			<title>【本日のできるネット】OneNoteのノートシールを削除する </title>
 			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1228054.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1228/054/2_o.jpg"></div></div></div></div></div></div><blockquote><p>　ノートシールは、簡単に付け外しできることが魅力です。用件や確認の済んだメモからは、ノートシールを削除しましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/19166/">OneNoteのノートシールを削除する</a></p></blockquote></div></div>]]></description>
@@ -93,6 +87,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1228263.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1228/263/01.jpg"></div></div><span class="caption">XD-SX4800(高校生向けモデル)</span></div></div></div></div><p>　<a href="https://www.casio.co.jp/" class="n" target="_blank">カシオ計算機株式会社</a>は、電子辞書「EX-word」シリーズの新製品13機種を24日より順次発売する。価格はすべてオープンプライス。</p><p>　シリーズ初となるWi-Fi通信機能を全機種で搭載し、辞書などの追加コンテンツを本体のみでダウンロードできるようになった。ネイティブの正しい発音をすぐに聞けるボタンを画面右側のクイックパレットに配置したり、英語コンテンツ上で単語を調べたさいに、今までにその単語を何度調べたか確認できる「検索回数表示機能」の拡充など、機能改善も行なわれている。</p><p>　製品ラインナップは、学生向けに4機種(高校生/小・中学生)、生活・ビジネス向けに3機種(プロ/ビジネス/生活・教養)、外国語学習向けに5機種(英/独/仏/中/ベースモデル)、理化学系の専門分野向けに1機種の計13機種を用意する。</p><p>　おもな仕様は共通で、液晶が5.2型864×480ドットフルカラー液晶(タッチ対応)。単3電池×2で駆動し、連続表示時間はアルカリ乾電池の場合が約130時間、充電池(eneloop/充電式EVOLTA対応)の場合が約110時間。</p><p>　インターフェイスは、IEEE 802.11b/g/n対応無線LAN(追加コンテンツダウンロード専用)、Micro USB、microSDカードスロット、3.5mmステレオミニジャック。</p><p>　本体サイズは157.5×101×18.4mm(幅×奥行き×高さ)、重量は約290g(電池含む)。</p></div></div>]]></description>
 			<pubDate>Thu, 09 Jan 2020 12:30:53 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10プレビュー版、タスクマネージャーでx86/x64プロセスを確認可能に </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1228281.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1228/281/01.png"></div></div><span class="caption">新しい位置情報アイコン</span></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">米Microsoft</a>は1月8日(現地時間)、Windows 10 Insider Preview「Build 19541」をFast ringで公開した。</p><p>　同ビルドでは、通知エリアの位置情報アイコンの更新や、タスクマネージャーの「詳細」タブに動作するプロセスが32bit(x86)か64bit(x64)かがわかる「Architecture」(現時点では日本語OSでも英語名)を追加。このほか、米国ユーザー向けにCortanaを使ったBing Instant AnswersとTimersがオンラインで利用可能になった。ジョークを含めたCortanaとの会話の改良が続けられている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1228/281/02_o.png"></div></div><span class="caption">タスクマネージャーに追加された「Architecture」</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1228/281/03_o.png"></div></div><span class="caption">Cortanaへのタイマーセットや会話</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 09 Jan 2020 13:38:50 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
