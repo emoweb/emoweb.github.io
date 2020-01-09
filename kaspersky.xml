@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>広告主は、あなたが使っているAndroidアプリをどうやって知るのか</title>
-			<link>https://blog.kaspersky.co.jp/android-device-identifiers/26396/</link>
-			<description><![CDATA[端末IDについて、アプリを介してあなたの情報を得る広告主について、こうした追跡をかわすための方法について。]]></description>
-			<pubDate>Fri, 13 Dec 2019 01:00:49 +0000</pubDate>
-		</item>
-		<item>
 			<title>CVE-2019-1458：Windows OSの新たなゼロデイ脆弱性</title>
 			<link>https://blog.kaspersky.co.jp/kaspersky-finds-zero-day-exploit-in-windows-os-used-in-targeted-attack/26416/</link>
 			<description><![CDATA[Kasperskyは、WizareOpiumの攻撃活動を調査する中で、Windowsのゼロデイ脆弱性を新たに発見しました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/snow-white-cryptominers/26510/</link>
 			<description><![CDATA[グリム童話は、サイバーセキュリティの良き実例を示してくれます。]]></description>
 			<pubDate>Wed, 08 Jan 2020 01:00:54 +0000</pubDate>
+		</item>
+		<item>
+			<title>てんかん発作の誘発を狙ったTwitter上での攻撃、その影響</title>
+			<link>https://blog.kaspersky.co.jp/twitter-epilepsy-attack-aftermath/26516/</link>
+			<description><![CDATA[てんかんを抱える人々を標的とした、点滅するアニメーションを使ったサイバー攻撃を防止するために、Twitter社は対策を講じました。その有効性は？]]></description>
+			<pubDate>Thu, 09 Jan 2020 01:00:40 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
