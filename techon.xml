@@ -724,5 +724,11 @@
 			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　米Diodes（ダイオーズ）は、ドロップアウト電圧（入出力電圧差）が115mV（出力電流が50mAのときの標準値）と小さいリニア方式のLEDドライバーIC「BCR430UW6」を発売した<a href="https://www.diodes.com/about/news/press-releases/ultra-low-dropout-linear-led-driver-from-diodes-incorporated-extends-lighting-strips/" target="_blank">（ニュースリリース）</a>。出力電流（駆動能力）は5m〜100mAの範囲で外付け抵抗を使ってユーザーが設定できる。同社によると、「小さなドロップアウト電圧と、大きな駆動能力を同時に達成したため、低い供給電圧でもより多くのLED素子を駆動できるようになった」という。デジタルサイネージや、LEDイルミネーション、LEDディスプレー、農業用照明器具、商用照明器具、店舗用照明器具などに向ける。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/atcl/nxt/news/18/06837/?SS=imgview&amp;FD=-337044204" target="_blank"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/news/18/06837/Diodes_LDOLEDDriver_m.jpg?__scale=w:500,h:263&amp;_sh=0bd0660b10" width="500" height="263" alt=""></a></div><div>ドロップアウト電圧が115mVと小さいリニア方式のLEDドライバーIC。Diodesのイメージ</div><div>[画像のクリックで拡大表示]</div></div></div><p>　定電流出力の電圧レギュレーター回路として機能する。パストランジスタやゲートドライバー、電流検出アンプ、0.9V出力の基準電圧源、5V出力の電圧レギュレーターなどを1チップに集積した。入力電圧範囲は＋5〜42Vと広い。出力電圧範囲は＋0.5〜40V。出力電流の誤差は±5％（95mA出力のとき）と小さい。外部からPWM信号を入力することで、PWM調光を実現できる。出力コンデンサーを外付けしなくても、安定な動作を実現できるという。今回の新製品を複数個並列に接続すれば、駆動能力を高めることができる。温度が上昇したときにLEDへの出力電流を減らす温度保護機能を内蔵した。</p><p>　ICの消費電流は、＋5V入力で50mQ出力のときに261μA（標準値）、＋42V入力で50mA出力のときに285μA（標準値）である。パッケージはSOT26で、許容損失は最大1Wである。すでに量産を始めている。動作温度範囲は−40〜＋125℃。価格は明らかにしていない。</p></div>]]></description>
 			<pubDate>Wed, 15 Jan 2020 10:03:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>Windows 7のサポートが終了、いまだ1400万台が稼働</title>
+			<link>https://tech.nikkeibp.co.jp/atcl/nxt/news/18/06838/</link>
+			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　日本マイクロソフトは2020年1月14日、Windows 7のサポートを終了した。サポート終了後もWindows 7がインストールされているパソコンを使い続けることはできるが、セキュリティー更新プログラムは提供されない。同社はマルウエアへの感染やフィッシング詐欺、情報漏えいといったリスクが高まるとして、専用の問い合わせ窓口を開設してWindows 10への移行を推奨している。</p><p>　同社の推計によればWindows 7を搭載するパソコンは国内で約1400万台。Windows 7プロフェッショナルか同エンタープライズを使用し、Windows 10への移行が間に合わない法人ユーザーには、2023年1月までセキュリティ更新プログラム「Windows 7 Extended Security Update（ESU）」を有償で提供している。</p><p>　問い合わせ窓口の番号は、0120-41-6755。土日祝日と同社が指定する休業日を除く、午前9時から午後5時半まで対応する。</p></div>]]></description>
+			<pubDate>Wed, 15 Jan 2020 11:47:43 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
