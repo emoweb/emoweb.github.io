@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Windows Server 2012以降のリモートデスクトップ機能に脆弱性 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1229798.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1229/798/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は14日(現地時間)、Windows Server 2012以降のWindows Remote Desktop Gateway(RD Gateway)がもつ任意のコードが実行可能な脆弱性について報告した。</p><p>　今回報告されたのは、脆弱性をもつシステムのRD Gatewayに対して、攻撃者が特殊な加工を施したリクエストをRDP(Remote Desktop Protocol)を通じて送信すると、リモートで任意のコードが実行できてしまうというもの(CVE-2020-0609およびCVE-2020-0610)。事前の認証やユーザーによる操作が必要なく、攻撃者によってプログラムのインストールや、ファイルの閲覧、変更、消去、ユーザーアカウントの作成などが行なえる可能性がある。</p><p>　同社はすでに対策済みアップデートの配布を開始しており、早めの適用を呼びかけている。</p></div></div>]]></description>
-			<pubDate>Fri, 17 Jan 2020 13:47:46 +0900</pubDate>
-		</item>
-		<item>
 			<title>FRONTIER、フロントパネルを刷新したデスクトップPC </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1229825.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1229/825/01.jpg"></div></div><span class="caption">GAシリーズ</span></div></div></div></div><p>　<a href="https://www.inversenet.co.jp/" class="n" target="_blank">インバースネット株式会社</a>は<a href="https://www.frontier-direct.jp/" class="n" target="_blank">FRONTIER</a>ブランドより、フロントパネルのデザインを変更した「GA」シリーズを発売した。税別価格は69,800円から。</p><p>　従来モデルから、ヘアライン加工とHexagon Blockパターンデザインを施したフロントパネルに変更し、パネルの両側面と下部に吸気口を配置。エアフローが改善されたという。</p><p>　基本構成は下位モデルの場合、Core i5-9400(6コア/2.9GHz、ビデオ機能内蔵)、8GBメモリ、1TB HDD、DVDスーパーマルチドライブ、600W 80PLUS Bronze電源などを備え、税別価格は69,800円。</p><p>　中位モデルの場合、Core i7-9700(8コア/3GHz、同)、16GBメモリ、GeForce GTX 1660 SUPER、512GB M.2 NVMe SSD+1TB HDD、DVDスーパーマルチドライブ、600W 80PLUS Bronze電源などを備え、税別価格は134,800円。</p><p>　上位モデルの場合、Core i7-9700(同)、32GBメモリ、GeForce GTX 2070 SUPER、1TB M.2 NVMe SSD+2TB HDD、DVDスーパーマルチドライブ、850W 80PLUS Gold電源などを備え、税別価格は184,800円。</p><p>　OSは全モデル共通でWindows 10 Homeを備える。</p></div></div>]]></description>
@@ -99,6 +93,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1229932.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1229/932/1.jpg"></div></div></div></div></div></div><blockquote><p>　「できるシリーズ」25周年を記念したリレーコラム。今回は「できる大事典 Excel VBA」や「できるAccessクエリ データ抽出・分析・加工に役立つ本」の著者、国本温子さんによる寄稿です。白くてモフモフしたある生き物に夢中な国本さん。その魅力を存分に語っていただきました。（リード文：編集部）</p><p class="src">できるネットの<a href="https://dekiru.net/article/19369/">「できる」文鳥に癒される「できる」私【できる25周年コラム】</a></p></blockquote></div></div>]]></description>
 			<pubDate>Mon, 20 Jan 2020 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>マウス、Wi-Fi 6/LTEも選べる税別59,800円からの15.6型ノート新モデル </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1229904.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1229/904/01.jpg"></div></div><span class="caption">mouse F5</span></div></div></div></div><p>　<a href="https://www.mouse-jp.co.jp/" class="n" target="_blank">株式会社マウスコンピューター</a>は、15.6型ノートPC「mouse F5」の新モデルを発売した。税別価格は59,800円から。</p><p>　mouse F5は、15.6型フルHD(1,920×1,080ドット)非光沢液晶を搭載したノートPC。従来のモデルからキーボード部に改良が加えられており、キーピッチを約19mmに拡張したり、テンキーとの間に適度な空間を確保するなど、タイピングしやすいものに変更された。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1229/904/02.jpg"></div></div><span class="caption">旧モデルのキーボード</span></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1229/904/03.jpg"></div></div><span class="caption">新モデルのキーボード</span></div></div></div></div><p>　Wi-Fi 6(IEEE 802.11ax)対応無線LANやLTEモデムなどをBTOで選択可能。USB Power Delivery対応のUSB Type-Cポートも装備し、PC本体の充電に利用できる。</p><p>　エントリーモデルのおもな仕様は、Celeron 4205U(2コア/1.8GHz、ビデオ機能内蔵)、8GBメモリ、240GB SSD、IEEE 802.11ac、Bluetooth 5.0などを搭載し、税別価格は59,800円。</p><p>　スタンダードモデルは、上記モデルからCPUをCore i5-8265U(4コア/1.6GHz、同)、ストレージを256GB SSDにそれぞれ強化し、税別価格は79,800円。</p><p>　ハイエンドモデルは、上記モデルからさらにCPUをCore i7-8565U(4コア/1.8GHz、同)に強化し、税別価格は89,800円。</p><p>　そのほかインターフェイスは共通で、USB 3.0×2(うち1基Type-C、PD対応)、USB 2.0×2、Gigabit Ethernet、HDMI、ミニD-Sub15ピン、100万画素Webカメラ、DVDスーパーマルチドライブ、SDカードスロット、音声入出力などを備える。</p><p>　本体サイズは361×256×24.1mm(幅×奥行き×高さ)、重量は約2.1kg。</p></div></div>]]></description>
+			<pubDate>Mon, 20 Jan 2020 11:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
