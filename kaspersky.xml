@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>偽メールを介して広がる危険なファイルから身を守るために</title>
-			<link>https://blog.kaspersky.co.jp/security-tips-for-business-emotet-and-other-threats/26484/</link>
-			<description><![CDATA[企業のセキュリティには、突き詰めれば「基本的な対策」が何より大切です。Emotetを例に、具体策をまとめました。]]></description>
-			<pubDate>Thu, 26 Dec 2019 01:00:06 +0000</pubDate>
-		</item>
-		<item>
 			<title>スマートフォンをスパイから守るには：映画ではなく実生活で</title>
 			<link>https://blog.kaspersky.co.jp/smartphone-spying-protection/26466/</link>
 			<description><![CDATA[被害妄想気味の雇い主や嫉妬深いパートナーは、どんな手段を使ってスパイ行為を働くのか？実生活ではポテトチップス袋以外の防衛手段が有効である理由は？]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/data-leak-compensation-scam/26623/</link>
 			<description><![CDATA[データ漏洩に対する補償金を支払うと見せかけて「一時的な米国社会保障番号」を売りつける詐欺が見られています。]]></description>
 			<pubDate>Mon, 20 Jan 2020 01:00:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>PDFファイルのデジタル署名は信用できるか</title>
+			<link>https://blog.kaspersky.co.jp/36c3-pdf-digital-signature/26709/</link>
+			<description><![CDATA[ある調査チームが、署名の効力はそのままに、署名付きPDFファイルの内容を書き換えられるかどうかを調査しました。]]></description>
+			<pubDate>Tue, 21 Jan 2020 01:00:51 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
