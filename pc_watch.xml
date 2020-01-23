@@ -106,5 +106,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1230/965/01.jpg"></div></div><span class="caption">ROG Aura Terminal</span></div></div></div></div><p>　<a href="https://www.asus.com/jp/" class="n" target="_blank">ASUS JAPAN株式会社</a>は、RGB LEDストリップを制御するLEDコントローラ「ROG Aura Terminal」を24日より発売する。価格はオープンプライスで、税別店頭予想価格は9,100円前後の見込み。</p><p>　ROG Aura Terminalは、同社のRGB LEDライティング同期機能Aura Syncに対応したLEDコントローラ。ディスクリートGPUから出力される映像の色を解析し、接続されたLEDストリップの色や光り方を画面にあわせて制御する「ROG Halo」機能を搭載。ゲームプレイにあわせた発光などを楽しめる。</p><p>　コントローラはアルミ製で、2.5インチSSD用のブラケットに設置可能。アドレサブルRGB LEDヘッダを4基備え、PCとはMicro USBで接続する。</p><p>　サイズは70×100×20mm(幅×奥行き×高さ)。3本のRGB LEDストリップ(30cm×2、60cm)などが付属する。</p></div></div>]]></description>
 			<pubDate>Thu, 23 Jan 2020 15:25:48 +0900</pubDate>
 		</item>
+		<item>
+			<title>Microsoft、「Surface Duo」向けのSDKを配布開始 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1231009.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1231/009/1.png"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">米Microsoft</a>は、2画面搭載のAndroidデバイス「Surface Duo」向けのSDKを提供開始した。</p><p>　このSDKは開発者向けツール「Android Studio」および「Android Emulator」上で動作し、ネイティブのJava APIを提供する。これによりDisplayMask APIやヒンジ角度センサーといった新機能が利用可能になる。</p><p>　また、エミュレータではSurface Duoの2画面を模したイメージが利用でき、姿勢やジェスチャー、ヒンジ角度などを確認できる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1231/009/2.png"></div></div><span class="caption">Surface Duo</span></div></div></div></div><p>　さらに、2画面デバイスに特化したOS「Windows 10X」のHyper-Vエミュレータも、2月11日に提供開始することを発表。こちらも2画面表示ができ、ヒンジの位置を確認できる。動作には最低4コアの64bit CPU、8GBメモリ(16GB推奨)、Hyper-Vが有効なPC、およびDirectX 11以降をサポートしたGPUが必要。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1231/009/3.png"></div></div><span class="caption">「Windows 10X」のHyper-Vエミュレータ</span></div></div></div></div><p>　Webブラウザの「Edge」も、2画面対応に向けたAPIを用意し、JavaScriptによる2画面情報の取得や、CSSによるレイアウトに対応する。</p><p>　Microsoftでは、2画面デバイスを活用するアプリの案をいくつか提案しており、さらなる詳細は2月11日に開催されるMicrosoft 365 Developer Dayにて公開する。</p></div></div>]]></description>
+			<pubDate>Thu, 23 Jan 2020 16:54:11 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
