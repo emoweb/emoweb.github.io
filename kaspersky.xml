@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>オープンソースは万能ではない</title>
-			<link>https://blog.kaspersky.co.jp/36c3-open-source-hardware-dangers/26606/</link>
-			<description><![CDATA[Chaos Communications Congressでの講演で、オープンソースハードウェアを使用してハードウェアの信頼問題を解決できるかどうかの検討が行われました。]]></description>
-			<pubDate>Wed, 15 Jan 2020 01:00:05 +0000</pubDate>
-		</item>
-		<item>
 			<title>攻撃的なメッセージをばらまくトロイの木馬、Faketoken</title>
 			<link>https://blog.kaspersky.co.jp/faketoken-trojan-sends-offensive-sms/26619/</link>
 			<description><![CDATA[長きにわたり進化を続けるマルウェアFaketokenが、感染したデバイスを使って外国へSMSを送信するようになりました。費用はデバイス所有者の負担となります。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/36c3-period-apps/26749/</link>
 			<description><![CDATA[慈善団体のPrivacy Internationalが、月経周期記録アプリを例に、非常に個人的な情報をアプリと共有することの危険について語りました。]]></description>
 			<pubDate>Wed, 29 Jan 2020 01:00:21 +0000</pubDate>
+		</item>
+		<item>
+			<title>音楽賞候補の名前を利用して拡散するマルウェア</title>
+			<link>https://blog.kaspersky.co.jp/2020_malware-hides-behind-top-music-award-nominees/26765/</link>
+			<description><![CDATA[グラミー賞にノミネートされたアーティストの名前と楽曲名がマルウェア拡散に利用されていることが、Kasperskyの調査で判明しました。]]></description>
+			<pubDate>Thu, 30 Jan 2020 04:00:42 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
