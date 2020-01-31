@@ -694,5 +694,17 @@
 			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　オランダNexperia（ネクスペリア）は、オン抵抗が0.57mΩ（ゲート-ソース間電圧が＋10Vのときの最大値）と低い＋25V耐圧パワーMOSFET「PSMNR51-25YLH」を発売した<a href="https://www.nexperia.com/about/news-events/press-releases/nexperia-extends-market-leading-low-rds-on-mosfet-performance-with-the-release-of-its-0.57-m-product-in-lfpak56.html" target="_blank">（ニュースリリース）</a>。nチャネル品である。同社によると、「同種の製品の中では、業界最小のオン抵抗を実現した」という。このほか、連続時の最大ドレイン電流が380Aと大きく、安全動作領域（SOA：Safe Operating Area）が広いことも特徴とする。ホットスワップ（活線挿抜）回路や、電子ヒューズ、電源回路のオアリング（ORing）回路、DC（直流）スイッチ、負荷スイッチ、バッテリー保護回路、モーター駆動回路、DC-DCコンバーターの同期整流回路などに向ける。</p><p></p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/atcl/nxt/news/18/06979/?SS=imgview&amp;FD=-227262579" target="_blank"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/news/18/06979/Nexperia_25VMOSFET_m.jpg?__scale=w:500,h:262&amp;_sh=07709a08d0" width="500" height="262" alt=""></a></div><div>オン抵抗が0.57mΩと低い＋25V耐圧のパワーMOSFET。Nexperiaのイメージ</div><div>[画像のクリックで拡大表示]</div></div></div><p>　同社独自のパワーMOSFETプロセス技術「NextPowerS3」で製造した。パルス時の最大ドレイン電流は2174A。ゲート-ソース間のしきい値電圧は、最小値が＋1.2Vで、最大値が＋2.2V。ゲート-ソース間電圧が＋4.5Vのときのオン抵抗は0.82mΩ（最大値）。全ゲート電荷量は53nC（標準値）。入力容量は6991pF（標準値）。出力容量は3861pF（標準値）。帰還容量は645pF（標準値）である。パッケージは、実装面積が5mm×6mmのLFPAK56。動作接合部温度範囲は−55〜＋175℃。すでに量産を始めている。価格は明らかにしていない。</p></div>]]></description>
 			<pubDate>Fri, 31 Jan 2020 10:35:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>NECにサイバー攻撃、2万7000件の防衛関連ファイルに不正アクセス</title>
+			<link>https://tech.nikkeibp.co.jp/atcl/nxt/news/18/06982/</link>
+			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　NECは2020年1月31日、防衛事業部門で使う社内サーバーの一部がサイバー攻撃を受けたと発表した。他の事業部門との情報共有用サーバーに保存していた防衛省への提案資料や社内資料など2万7445件のファイルが不正アクセスを受けた。NECや外部の専門機関の調査の結果、これまでのところ情報流出などの被害は確認されていないという。</p><p>　NECによると、2016年12月以降に受けたサイバー攻撃について、システムへの初期侵入や早期の内部感染の拡大を検知することができなかった。実際に社内パソコンの不正通信を確認できたのは2017年6月。マルウエアに感染したパソコンと外部サーバーとの暗号化通信を解読できたのは2018年7月だった。</p><p>　不正アクセスを受けたファイルに、秘密や個人情報などは含まれていないという。NECの分析によると、マルウエアの特徴などから、攻撃元は中国系の組織の可能性が高い。NECは外部への開示が遅れた理由について「特定のお客様の話なので外部への開示まではしなかった」（コーポレートコミュニケーション部）と説明した。</p><div>関連記事：<a href="https://tech.nikkeibp.co.jp/atcl/nxt/news/18/06880/" target="_blank">8000人の個人情報が流出した三菱電機の不正アクセス被害、採用応募者も含まれる</a></div></div>]]></description>
+			<pubDate>Fri, 31 Jan 2020 11:15:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>米IBMのロメッティCEOが退任、後任はクラウド統括のクリシュナ上級副社長</title>
+			<link>https://tech.nikkeibp.co.jp/atcl/nxt/news/18/06983/</link>
+			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　米IBMは2020年1月30日（現地時間）、バージニア・ロメッティCEO（最高経営責任者）が同年4月に退任し、クラウド部門などを統括するアービンド・クリシュナ上級副社長がCEOに昇格すると発表した。IBMのトップ交代は8年ぶり。クリシュナ氏は約3兆7000億円を投じて2019年に買収した米レッドハットとの融合を進め、クラウドやAI（人工知能）事業などの拡大を急ぐことになる。</p><p>　クリシュナ氏は57歳。インド工科大学カンプール校出身で、1990年にIBMに入社した。直近はクラウドや基礎研究部門を統括していた。また、レッドハットのジェームス・ホワイトハーストCEOが2020年4月にIBM社長に就く人事も発表した。</p><div><div class="bpimage_center" style="width:400px;"><div><a href="https://tech.nikkeibp.co.jp/atcl/nxt/news/18/06983/?SS=imgview&amp;FD=1153259116" target="_blank"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/news/18/06983/ph01.jpg?__scale=w:400,h:230&amp;_sh=0870710830" width="400" height="230" alt=""></a></div><div>米IBMのCEOに昇格するアービンド・クリシュナ上級副社長</div><div>（出所：米IBM）</div><div>[画像のクリックで拡大表示]</div></div></div></div>]]></description>
+			<pubDate>Fri, 31 Jan 2020 11:50:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
