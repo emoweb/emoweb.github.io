@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>攻撃的なメッセージをばらまくトロイの木馬、Faketoken</title>
-			<link>https://blog.kaspersky.co.jp/faketoken-trojan-sends-offensive-sms/26619/</link>
-			<description><![CDATA[長きにわたり進化を続けるマルウェアFaketokenが、感染したデバイスを使って外国へSMSを送信するようになりました。費用はデバイス所有者の負担となります。]]></description>
-			<pubDate>Thu, 16 Jan 2020 01:00:21 +0000</pubDate>
-		</item>
-		<item>
 			<title>2020年の金融関連の脅威：フィンテック、モバイルバンキング、電子商取引が標的に</title>
 			<link>https://blog.kaspersky.co.jp/2019_financial-threats-in-2020-fintech-mobile-banking-and-e-commerce-are-in-the-crosshairs/26638/</link>
 			<description><![CDATA[2020年、金融業界が直面すると考えられるサイバー脅威について、Kasperskyのエキスパートが予測します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/2020_malware-hides-behind-top-music-award-nominees/26765/</link>
 			<description><![CDATA[グラミー賞にノミネートされたアーティストの名前と楽曲名がマルウェア拡散に利用されていることが、Kasperskyの調査で判明しました。]]></description>
 			<pubDate>Thu, 30 Jan 2020 04:00:42 +0000</pubDate>
+		</item>
+		<item>
+			<title>新型コロナウイルス関連情報を装うマルウェア</title>
+			<link>https://blog.kaspersky.co.jp/coronavirus-reached-the-web/26781/</link>
+			<description><![CDATA[大きな話題となっている新型コロナウイルス。この話題に乗じてマルウェアを拡散させようとする動きが見られています。]]></description>
+			<pubDate>Fri, 31 Jan 2020 01:00:03 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
