@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>中国の兆芯KX-U6780A搭載マザーがTaobaoで販売中。限定55枚 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1232428.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1232/428/1.jpg"></div></div><span class="caption">C1888のエンジニアリングサンプル</span></div></div></div></div><p>　中国・上海兆芯製のx86互換CPU「KX-U6780A」を搭載した芯傑英製Mini-ITXマザーボード「C1888」が、中国のECサイトTaobaoで販売開始となった。価格は4,300人民元(約68,000円)。3月9日以前に出荷する予定としており、数量は55枚限定となっている。</p><p>　兆芯のKX-6000シリーズは2019年7月に正式発表となったCPU。C1888はこのなかでアッパーミドルに位置する、8コア/2.7GHz駆動/L2キャッシュ8MBのKX-U6780Aを搭載する。すでにC1888のエンジニアリングサンプルを入手した中国メディアが公開した動画によれば、おおむねAMD FX-8150と同等の性能を発揮し、GeForce GTX 1660 TiもしくはRTX 2060 SUPERとの組み合わせで、現代的な3Dゲームも一応動作するレベルになっていることがわかる(エンジニアリングサンプル品はPCIeの性能を制限しているという)。</p><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/2CtMI4RkTbo?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div><span class="caption">中国メディアが公開したレビュー動画(その1)</span></div></div></div></div><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/I0N3sqnKIxA?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div><span class="caption">中国メディアが公開したレビュー動画(その2)</span></div></div></div></div><p>　KX-6000シリーズのCPUコアは、SSE 4.2およびAVX命令をサポートするほか、Advanced Cryptographic Engine、SHA-1、SHA-256、SM3/SM4、ハードウェア乱数生成器といったセキュリティ機能も搭載。加えて、DirectX 11/OpenGL 3.2/OpenCL 1.1対応のGPU、PCI Express 3.0、2基のUSB 3.0、4基のUSB 2.0、2基のSATA 6Gbpsホスト機能を1チップに集約したSoCとなっている。現代的なCPUとは異なり、L3キャッシュがないのが特徴。</p><p>　C1888のメモリはDDR4-3200までのSO-DIMMを2枚までサポート。拡張スロットはPCI Express x16形状スロット×1、M.2スロット(写真のES品はmSATA対応Mini PCI Express)、Wi-Fi対応Mini PCI Expressスロットを搭載する。</p><p>　Taobaoに上がっているES品の写真では緑のPCB、4ピン電源、専用CPUクーラーホールとなっているが、製品版ではそれぞれ白PCB、ATX 24ピン、スタンダードCPUクーラーホール(対応CPUクーラーは不明)になる。また、電源VRM部も強化されるという。</p><p>　背面インターフェイスは、HDMI出力、ミニD-Sub15ピン、USB 3.0×2、USB 2.0×2、Gigabit Ethernet×2、音声入出力などを備える。また、ACアダプタによる電源供給も可能。</p><p>　さすがに今どきの性能にしては価格が高すぎる感は否めないが、「中国製x86 CPUをコレクションしたい」マニアの方々は、ぜひトライしてみてほしい。</p></div></div>]]></description>
-			<pubDate>Thu, 30 Jan 2020 19:19:28 +0900</pubDate>
-		</item>
-		<item>
-			<title>Google、WebブラウザからスマホにAndroidを書き込むツール </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1232435.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1232/435/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.google.com/" class="n" target="_blank">Google</a>は、Webブラウザ上の操作でスマートフォンにAndroid OSを書き込める「Android Flash Tool」を公開した。</p><p>　Google ChromeやMicrosoft Edgeのバージョン79以降(Chromium採用版)など、WebUSBをサポートするWebブラウザで利用でき、PC側のOSはWindows/macOS/Chrome OS/Linuxに対応する。執筆時点では、開発者オプション内のUSBデバッグの有効化とブートローダーのアンロック(OEM Unlock)を行なった、Pixel 2以降および開発ボードのHiKey、HiKey 960で利用できる。</p><p>　なお、Windows環境で利用する場合は、OEM USBドライバのインストールに加えて、Android Flash Toolからイメージを書き込むさいの干渉を防ぐため、Android Debug Bridge(ADB)を停止する必要がある。</p><p>　おおまかな手順としては、PCにスマートフォンを接続し、Webブラウザで「flash.android.com」にアクセス。スマートフォンをWebブラウザから選択し、書き込みたいビルドのイメージを選択すると書き込みが開始されるといったもの。Webブラウザ上にFlash Completeの表示が出たら書き込み完了で、スマートフォンを取り外せる。</p><p>　書き込むさいにエラーの原因となるため、USB Hubや延長ケーブルは使用せず、直接PCにつなぐのが好ましいとしている。</p></div></div>]]></description>
-			<pubDate>Thu, 30 Jan 2020 19:50:37 +0900</pubDate>
-		</item>
-		<item>
 			<title>【本日のできるネット】OneNoteのモバイルアプリで手書きのメモを残す </title>
 			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1232415.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1232/415/2_o.jpg"></div></div></div></div></div></div><blockquote><p>　スマートフォンやタブレットは、タッチ操作で手書き入力が行えます。文字や図形を書き込んだり、蛍光ペンを引いたりすることが可能です。</p><p class="src">できるネットの<a href="https://dekiru.net/article/19195/">OneNoteのモバイルアプリで手書きのメモを残す</a></p></blockquote></div></div>]]></description>
@@ -81,6 +69,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1232607.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1232/607/01.jpg"></div></div><span class="caption">BiCS5</span></div></div></div></div><p>　米<a href="https://www.westerndigital.com/" class="n" target="_blank">Western Digital</a>は1月30日(米国時間)、第5世代3D NANDフラッシュにあたる「BiCS5」の開発に成功したと発表した。開発は<a href="https://www.kioxia.com/ja-jp/top.html" class="n" target="_blank">キオクシア株式会社</a>と共同で行なわれている。</p><p>　BiCS5では、メモリホール技術が第2世代へと移行するとともに、プロセスや3D NANDセルが改良されたことで、セルアレイの密度が大幅に向上。あわせて、セルの積層数も前世代のBiCS4の96層から112層に多層化が図られた。</p><p>　これにより、ウェハあたりのビット数が最大で40%増加しコストを抑えたほか、設計についても改善が行なわれ、読み書き性能が最大で50%高速化したとしている。</p><p>　BiCS5は、1セルあたり3bitのデータを記録するTLC(Triple Level Cell)と、4bitを記録するQLC(Quadruple Level Cell)を用いて製造され、同社ではTLC 512Gbitのチップの初期生産をすでに開始。本格的な量産は2020年下半期を予定している。</p></div></div>]]></description>
 			<pubDate>Fri, 31 Jan 2020 17:56:54 +0900</pubDate>
+		</item>
+		<item>
+			<title>2019年のスマホ市場シェア、Huaweiは後半Googleなしで苦戦もAppleを抜く </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1232673.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1232/673/1_o.jpg"></div></div><span class="caption">2019年通年のスマートフォン出荷量ランキング(出典:IDC)</span></div></div></div></div><p>　調査会社の<a href="https://www.idc.com/" class="n" target="_blank">IDC</a>は30日(米国時間)、2019年度第4四半期および通期の全世界でのスマートフォン出荷状況について報告した。</p><p>　スマートフォン市場はこのところほぼ横ばいで推移しているが、2019年第4四半期の出荷数は3億6,880万台で、前年同期比1.1%減、直前期比2.9%減とわずかにマイナスに転じた。とくに中国市場は、5Gサービスの開始があったのにもかかわらず、不調だったとしている。</p><p>　第4四半期はAppleがiPhone 11が健闘し、前年比7.9%増の出荷量を記録。また、4位のXiaomiは、低価格帯向けの「Redmi 8」、「Redmi Note 8」シリーズが好調で、31.1%増となった。なお、Xiaomiは第4四半期中に1億800万画素カメラ搭載の「Mi Note 10」をもって日本に上陸している。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1232/673/2_o.png"></div></div><span class="caption">四半期ごとのスマートフォン出荷遷移(出典:IDC)</span></div></div></div></div><p>　第4四半期でシェアこそAppleに逆転されたが、通年で見るとHuaweiの出荷が堅調に推移し、通年ではついにAppleを抜き、Samsungに次ぐ2位を獲得した。出荷量は2億4,060万台だった。</p><p>　Huaweiは2020年5月より米国の輸出規制対象リストに載せられ、それ以降のスマートフォン新製品ではGoogleモバイルサービスを搭載できない。そのため、マレーシアやシンガポールなどの一部市場でMate 30シリーズを発売したものの苦戦した。さらに中国国内でもMate 30シリーズの在庫を多く抱えており、価格の見直しを迫られている。しかし、中国国内では依然としてHuawei製品の需要があったため、シェアを大きく落とすことがなかった。</p></div></div>]]></description>
+			<pubDate>Fri, 31 Jan 2020 18:04:35 +0900</pubDate>
+		</item>
+		<item>
+			<title>NEC、防衛事業部門サーバーへの不正アクセスを確認 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1232598.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1232/598/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://jpn.nec.com/" class="n" target="_blank">NEC</a>は31日、社内の防衛事業部門サーバーの一部が、第三者による不正アクセスを受けたことを確認したと発表した。</p><p>　NECグループでは、未知のマルウェア検知システムの導入などによって不正アクセス検査を実施しているが、2016年12月以降に行なわれた攻撃の初期侵入、および早期の内部感染拡大を検知できなかった。そして2017年6月、セキュリティ企業の脅威レポートに記載された通信パターンの発生有無を確認した結果、社内のPCから不正通信が行なわれていることを確認し、感染されたPCの隔離/調査、および不正通信先の検知と遮断を実施した。</p><p>　そして2018年7月に、不正通信をしていた外部サーバーとの暗号化通信の解読に成功し、防衛事業部門で利用している他事業部門との情報共有用の社内サーバーに保存された27,445件のファイルに対し、不正アクセスが行なわれていた事実が判明したという。</p><p>　社内および外部専門機関による調査の結果、これまで情報流出などの被害は確認できておらず、これらのファイルには秘密や個人情報などは含まれていなかった。不正アクセスを受けたファイルに関連する顧客に対し、2018年7月以降、個別に状況を説明したという。</p><p>　NECは今後、早期検知や対処の強化など、さらなる対策強化を行ない、より高度な攻撃への対応を図り、再発防止に取り組むとしている。</p></div></div>]]></description>
+			<pubDate>Fri, 31 Jan 2020 18:06:55 +0900</pubDate>
+		</item>
+		<item>
+			<title>【やじうまPC Watch】Ford、ホイール盗難対策にドライバーの「声紋」を使った3Dプリントナットを開発</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1232713.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1232/713/01.jpg"></div></div><span class="caption">ロックナット</span></div></div></div></div><p>　<a href="https://www.ford.com/" class="n" target="_blank">Ford Motor Company</a>は28日(米国時間)、車のオーナーの“声紋”の形状を鍵とするロックナットの開発を発表した。</p><p>　自動車業界では、自動車のホイールが外され盗まれる被害が多数起きているが、自動車メーカーはホイール泥棒を阻止するべく、各ホイールを固定するナットにロックナットを採用するなどの対策が進んでいる。</p><p>　ロックナットを緩めるには特殊なアダプタまたは鍵が必要となるため、簡単に盗み出すことができなくなるが、それらもナットの型をとって互換アダプタを作成されるなど、完全な対策には至っていなかった。</p><p>　今回Fordが開発した3Dプリントロックナットは、金属やポリマーの工業用3Dプリントソリューションを手掛けるEOSと共同で開発されたもので、自動車オーナーの声をベースに唯一無二の鍵を持ったロックナットを生成する。</p><p>　具体的には、「私はフォードマスタングを運転します」などオーナーの1秒以上の発声をともなう文章を録音し、その声紋からロックナットのインデントと鍵のデザインデータを生成する。</p><p>　ロックナット自体の設計もナットの複製を防止する機構を備えており、ナット内側の不均等なリブや窪みによって、ワックスを押し付けて型取りすることを防ぐという。</p><p>　なお3Dプリントのため、声紋を使わない場合には、ドライバーのイニシャルやマスタングロゴなど車固有のデザインをあしらうことも可能で、今後さらに3Dプリントされた自動車部品の採用を進めていくとしている。</p></div></div>]]></description>
+			<pubDate>Fri, 31 Jan 2020 18:53:19 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
