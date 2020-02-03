@@ -832,5 +832,11 @@
 			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　ベンチャー企業のイジゲンが手掛ける定額制ランチサービス「always LUNCH（オールウェイズランチ）」で2020年2月3日、支払いに使う「パス」が表示できないシステム障害が発生した。同社広報によれば、発生したのはランチの時間帯に重なる午後12時過ぎから午後1時まで。障害はすでに解消している。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/atcl/nxt/news/18/07002/?SS=imgview&amp;FD=-654642772" target="_blank"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/news/18/07002/ph1.jpg?__scale=w:500,h:290&amp;_sh=0de0ee0ca0" width="500" height="290" alt=""></a></div><div>イジゲンが自社のWebサイトに掲載したお知らせ</div><div>[画像のクリックで拡大表示]</div></div></div><p>　always LUNCHは、月5980円（税別）を支払うと加盟店で昼食を毎日食べられるサービス。スマートフォンなどで加盟店舗に置かれたQRコードを読み取り、画面に表示したパスを店員に見せると食事を提供されるという仕組みだ。</p><p>　障害の原因について同社は、サーバーへのアクセス集中のためと説明。2月3日10時から、always LUNCHのサービスエリアに大阪・梅田地区が加わっていた。同社は、「サービスエリアの拡大と障害との関連について調査中」（広報）としている。</p><p>　障害によってサービスを利用できなかったユーザーがいたと思われるが、「影響があったユーザー数は現在調査中」（広報）とした。パスを表示できなくても店舗に登録した電話番号を伝えれば利用できると、同社Webサイトなどで案内していた。</p><p>　イジゲンは2013年設立で、2019年10月に定額制ランチサービスを開始。東京と京都、大阪、福岡の4地域でサービスを提供しており、現在「大阪王将」や「太陽のトマト麺」などを含む225店で利用できる。</p></div>]]></description>
 			<pubDate>Mon, 03 Feb 2020 17:40:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>来店予約がなぜか「4038年」に、くら寿司アプリで和暦対応の不具合か</title>
+			<link>https://tech.nikkeibp.co.jp/atcl/nxt/news/18/07007/</link>
+			<description><![CDATA[<div class="articleBody" id="trackReadTarget"><p>　回転すしチェーンのくら寿司は2020年2月3日、スマートフォン向けアプリで来店予約をすると一部のユーザーで予約日時が「4038年」になる不具合が発生していると明らかにした。対象はiOS用アプリを使っているユーザーで、スマホの設定で暦法を「和暦」にしていると発生することが分かっている。OSのバージョンによっては「4008年」と表示されるケースもある。</p><div><div class="bpimage_center" style="width:500px;"><div><a href="https://tech.nikkeibp.co.jp/atcl/nxt/news/18/07007/?SS=imgview&amp;FD=-654642772" target="_blank"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/news/18/07007/ph1.jpg?__scale=w:500,h:313&amp;_sh=0480770530" width="500" height="313" alt=""></a></div><div>iOS用アプリにだけ不具合が発生</div><div>[画像のクリックで拡大表示]</div></div></div><p>　同社は、「不具合の原因は調査中」（広報）としている。暫定対応として、暦法の設定を「西暦」に変更するよう呼び掛けている。西暦にすれば、正しい日時が表示される。</p></div>]]></description>
+			<pubDate>Mon, 03 Feb 2020 20:10:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
