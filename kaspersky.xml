@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>米国政府はデータ漏洩の補償を行います（本当に？）</title>
-			<link>https://blog.kaspersky.co.jp/data-leak-compensation-scam/26623/</link>
-			<description><![CDATA[データ漏洩に対する補償金を支払うと見せかけて「一時的な米国社会保障番号」を売りつける詐欺が見られています。]]></description>
-			<pubDate>Mon, 20 Jan 2020 01:00:49 +0000</pubDate>
-		</item>
-		<item>
 			<title>PDFファイルのデジタル署名は信用できるか</title>
 			<link>https://blog.kaspersky.co.jp/36c3-pdf-digital-signature/26709/</link>
 			<description><![CDATA[ある調査チームが、署名の効力はそのままに、署名付きPDFファイルの内容を書き換えられるかどうかを調査しました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/midori-calendar-2020/26786/</link>
 			<description><![CDATA[「名画になったグリーンベア」シリーズが壁紙になりました。デスクトップ用とモバイル用があります。デスクトップ用にはカレンダーバージョンも。]]></description>
 			<pubDate>Fri, 31 Jan 2020 14:51:37 +0000</pubDate>
+		</item>
+		<item>
+			<title>Web経由の脅威と標的型攻撃</title>
+			<link>https://blog.kaspersky.co.jp/kwts-enterprise-6-1/26813/</link>
+			<description><![CDATA[Web経由の脅威は、標的型攻撃で活発に使用されています。このような脅威の無害化は、APTからの防御戦略において不可欠です。]]></description>
+			<pubDate>Tue, 04 Feb 2020 01:00:29 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
