@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>PDFファイルのデジタル署名は信用できるか</title>
-			<link>https://blog.kaspersky.co.jp/36c3-pdf-digital-signature/26709/</link>
-			<description><![CDATA[ある調査チームが、署名の効力はそのままに、署名付きPDFファイルの内容を書き換えられるかどうかを調査しました。]]></description>
-			<pubDate>Tue, 21 Jan 2020 01:00:51 +0000</pubDate>
-		</item>
-		<item>
 			<title>子どもがスマートフォンを安全に使えるように</title>
 			<link>https://blog.kaspersky.co.jp/smartphone-for-your-kid/18835/</link>
 			<description><![CDATA[小さなお子さんにスマートフォンを持たせるのは心配なもの。不適切なサイトを見たり、ゲームをやりすぎたりしないよう、しっかりと設定しておきましょう。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/coronavirus-reached-the-web/26781/</link>
 			<description><![CDATA[大きな話題となっている新型コロナウイルス。この話題に乗じて、マルウェアを拡散する動きや、高機能マスクを宣伝する怪しいスパムメールが見られています。]]></description>
 			<pubDate>Wed, 05 Feb 2020 02:00:03 +0000</pubDate>
+		</item>
+		<item>
+			<title>メールの偽造：そもそもなぜ可能なのか？</title>
+			<link>https://blog.kaspersky.co.jp/36c3-fake-emails/26726/</link>
+			<description><![CDATA[フィッシング攻撃やビジネスメール詐欺（BEC）に使われる偽メール。なぜ、攻撃者は説得力のあるメールを簡単に作ることができるのでしょうか？]]></description>
+			<pubDate>Fri, 07 Feb 2020 01:00:15 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
