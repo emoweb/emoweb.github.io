@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Macに対するサイバー攻撃が激化、検知数はWindowsの約2倍 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1234679.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1234/679/01.png"></div></div><span class="caption">エンドポイントにおけるWindowsとMacの年間平均脅威検知数</span></div></div></div></div><p>　アンチマルウェアソフトの開発を手掛ける米<a href="https://www.malwarebytes.com/" class="n" target="_blank">Malwarebytes</a>は11日(米国時間)、マルウェア年次調査の2020年調査結果を公開した。調査結果は2019年を対象とした内容となる。</p><p>　今回の調査結果では、Macに対する脅威がWindowsと比較して大幅に増加し、2018年比で400%以上と急激に増加したことが報告されている。</p><p>　報告数全体の増加については、2019年にMalwarebytesを導入したMacユーザーが増えている影響を受けているが、エンドポイント(PC 1台)あたりの脅威で計算した場合でも、Mac環境の脅威報告数はWindowsを約2倍上回った。</p><p>　同社ではMacに対する攻撃が激化した要因として、市場シェアの増加でサイバー犯罪者にとってより魅力的な標的になったこと、さらにmacOSの標準セキュリティシステムが、アドウェアなどのPUP(不審なプログラム)をマルウェアと同程度には厳しく制限しておらず、それらの中間のような振る舞いのプログラムが防御をすり抜けて活動していると指摘している。</p><p>　企業への脅威では、ビジネスエンドポイントに対する脅威量が攻撃的アドウェア、トロイの木馬、HackToolsなどを筆頭に2018年比で13%増加。組織に対する脅威では、トロイの木馬のボットネットであるEmotetとTrickBotによる攻撃が観測され、世界のほぼ全地域で、サービス業や小売、教育分野に対し上位5件に入る検出数を記録。とくにTrickBotは2018年比で50%以上増加した。</p><p>　ランサムウェアについては、WannaCryの減少で検出数は2018年からわずかに減ったが、企業/組織に対する攻撃は過去最高を記録しており、Ryukが543%、Sodinokibiが820%の検出数増加が報告されている。</p></div></div>]]></description>
-			<pubDate>Wed, 12 Feb 2020 16:07:18 +0900</pubDate>
-		</item>
-		<item>
 			<title>【やじうまPC Watch】2TBのメモリでChromeのタブをどのぐらい開けるのか?</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1234738.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/7iwgyzX-76g?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div></div></div></div></div><p>　PC関連の技術を紹介するYouTubeチャンネル「Linus Tech Tips」で、「メモリ2TBを積んだPCでChromeのタブを何個開けるのか」のにチャレンジした動画が公開された。</p><p>　動画では、SK Hynixから提供された2TB分のECC Registered DIMMを16枚使い、GIGABYTEのサーバー向けマザーボード、およびAMDのEPYC 7742(64コア)を組み合わせ、システムを構築。Windows 10 64bit上で、Chromeのタブを永遠に開く作業を繰り返した。</p><p>　詳細は動画を観ていただきたいが、1,000個のタブを開いた時点で、メモリの5%(約100GBほど)消費したが、CPUのほうが先にボトルネックが来てしまったようで、挙動が怪しくなってきている。5,000タブを開いた時点で、ようやくメモリの10%を消費するが、システム全体が遅くなっているほか、YouTubeの動画広告が超低解像度で再生されてしまっている。</p><p>　そして6,000個のタブを開いた時点で、ウィンドウの切り替えも怪しくなってきている。AmazonのURLが表示されているのに、Appleのページが見えているといった状態だ。</p><p>　Linus氏は、「CPUとメモリはまだ余裕があるが、ChromeまたはOSといったソフトウェアのアーキテクチャの制限がさきに来てしまったようだ」とまとめている。</p></div></div>]]></description>
@@ -99,6 +93,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1235000.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1235/000/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.ricoh.co.jp/" class="n" target="_blank">リコー</a>は、手のひらサイズの小型プロジェクタ「RICOH Image Pointer」を発表、クラウドファンディングサイトKibidangoにて2月後半より出資を受け付ける。</p><p>　リコーとしては初めてのクラウドファンディング製品で、手のひらサイズでコードレスのため、どんな場面でもその場で映像を共有できるというのがコンセプトの小型プロジェクタ。</p><p>　家族や友人など複数人が集まる場で、それぞれ手持ちのスマートフォン画面を見て過ごすのではなく、「一緒にいる時間に同時にワッと盛り上がり、同じ画面を見て情報や感動をリアルタイムに分かち合いたい」という思いから生まれた製品としている。</p><p>　操作は電源を入れて投影ボタンを押すだけというシンプルなもので、スマートフォンと接続し投影したいものを映すことが可能。</p><p>　ビジネスシーンにおいても、会議室を使わない簡易会議や同僚との雑談といった場合に、資料の簡単な共有による具体的な打合せがどこでも可能になる。</p><p>　リコーでは、まだまだ製品には改良の余地があり、クラウドファンディングを通じて顧客からのフィードバック反映し、より良い製品にしていきたいとしている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1235/000/02.jpg"></div></div></div></div></div></div></div></div>]]></description>
 			<pubDate>Thu, 13 Feb 2020 17:32:55 +0900</pubDate>
+		</item>
+		<item>
+			<title>NVIDIA、Ice Lake内蔵GPUより2倍速い「GeForce MX330」など </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1235033.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1235/033/1.jpg"></div></div><span class="caption">GeForce MX350</span></div></div></div></div><p>　<a href="https://www.nvidia.com/" class="n" target="_blank">NVIDIA</a>は、GeForceの製品情報にひっそりと「GeForce MX330」、「GeForce MX350」の2製品を追加した。</p><p>　アーキテクチャやCUDAコア数などの情報はいっさい公開されていないが、MX330はCore i7-1065G7に内蔵されたIris Plusより2倍、MX350は同2.5倍の性能を発揮するとしている。</p><p>　メモリはいずれもGDDR5で、GPU Boost 3.0やNVIDIA Optimus機能をサポート。APIはDirectX 12(feature level 12_1)、Vulcan 1.1、OpenGL 4.6、OpenCL 1.2などに対応する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1235/033/2.jpg"></div></div><span class="caption">GeForce MX330</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 13 Feb 2020 18:58:18 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
