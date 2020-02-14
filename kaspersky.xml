@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>【Windows 7のサポートが終了】今するべきことは</title>
-			<link>https://blog.kaspersky.co.jp/rip-windows-seven/26741/</link>
-			<description><![CDATA[まだWindows 7を使っている方へーWindows 10にアップグレードするときが来ました。それがどうしてもできない場合は、保護を強化しましょう。]]></description>
-			<pubDate>Fri, 24 Jan 2020 05:00:57 +0000</pubDate>
-		</item>
-		<item>
 			<title>MEMSの気になる脆弱性</title>
 			<link>https://blog.kaspersky.co.jp/curious-mems-vulnerabilities/26734/</link>
 			<description><![CDATA[レーザーや音楽などのありふれた手段で、音声アシスタントやモーションセンサーを欺くことができます。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/windows7-end-of-support/26831/</link>
 			<description><![CDATA[Windows 7のサポート終了は、自社の情報インフラを分析し、弱点を明らかにする好機です。]]></description>
 			<pubDate>Wed, 12 Feb 2020 01:00:10 +0000</pubDate>
+		</item>
+		<item>
+			<title>ランサムウェアを操る脅迫犯、盗んだデータを公開</title>
+			<link>https://blog.kaspersky.co.jp/ransomware-data-disclosure/26862/</link>
+			<description><![CDATA[ランサムウェア開発者の間では、身代金の支払いを拒否した企業のデータを公開することが新しいトレンドになっているように見受けられます。]]></description>
+			<pubDate>Fri, 14 Feb 2020 01:00:33 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
