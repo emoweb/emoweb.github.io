@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>サンワサプライ、エルゴノミクス設計のUSB充電式無線マウス </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1234902.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1234/902/01.jpg"></div></div><span class="caption">400-MA127</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/" class="n" target="_blank">サンワサプライ株式会社</a>は、エルゴノミクスデザインの2.4GHz無線マウス「400-MA127」を直販サイトにて発売した。価格は3,280円。</p><p>　400-MA127は、手首をひねらず握れる設計の製品で、小指が机に触れないエルゴエッジ構造を採用。手が小さなユーザーでも使いやすい大きめのボタンを備えるほか、静音スイッチの搭載により、図書館やオフィスなど静かな場所でも使いやすい。</p><p>　ブルーLEDセンサーを装備し、解像度は800/1,200/1,600/2,000/2,400dpiで、専用ボタンで切り替えられる。</p><p>　本体サイズは約90.4×109.3×64.5mm(幅×奥行き×高さ)、重量は約130g。内蔵バッテリで駆動し、連続作動時間は約100時間。充電は付属のUSBケーブルで行なう。</p></div></div>]]></description>
-			<pubDate>Thu, 13 Feb 2020 14:03:03 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows 10プレビュー版、アプリごとの内蔵GPU/ディスクリートGPU優先機能を改善 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1234903.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1234/903/01_o.png"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">米Microsoft</a>は2月12日(現地時間)、Windows 10 Insider Preview「Build 19564.1000」をFast ringで公開した。</p><p>　同ビルドでは、「設定→システム→ディスプレイ→グラフィックの設定」に用意されている内容を更新。このページでは、個々のアプリに対して省電力を優先して内蔵GPUを使うか、性能を優先してディスクリートGPUを使うかを設定できるが、今回のアップデートによって、あらかじめ最善とする設定が適用されたアプリリストが用意されるようになっている。リストにないアプリも任意に追加可能。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1234/903/03_o.png"></div></div><span class="caption">GPUの選択画面。写真では使用機が内蔵GPUのみのため、省電力も高パフォーマンスも同じGPUになっている</span></div></div></div></div><p>　このほか、Windows 10のカレンダーアプリが更新され、新しいテーマの追加、月表示の見やすさ改善、イベント追加の簡素化、アカウントナビゲーションのデザイン改善が行なわれている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1234/903/02.png"></div></div></div></div></div></div></div></div>]]></description>
-			<pubDate>Thu, 13 Feb 2020 14:05:15 +0900</pubDate>
-		</item>
-		<item>
 			<title>Google、iOS版GmailにFilesアプリとの連携機能を追加 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1234991.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1234/991/02.gif"></div></div></div></div></div></div><p>　米<a href="https://www.google.com/" class="n" target="_blank">Google</a>は12日(現地時間)、iOS版のGmailアプリにFilesアプリとの連携機能を追加した。</p><p>　これはGmailのメール作成画面から、iOS標準のファイル管理アプリであるFilesを通じてファイルを添付できるもの。今までと同様に添付ボタン(クリップのマーク)から、添付ファイルの選択エリアに追加されたフォルダマークのボタンをタップすると、Filesアプリが呼び出され添付ファイルが選択できる。</p><p>　この機能はiOS版Gmailアプリの全ユーザーに対して、同日よりロールアウトを開始。機能はデフォルトで有効になるため、ユーザー側で別途設定などは必要ない。</p></div></div>]]></description>
@@ -99,6 +87,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1235209.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1235/209/01.jpg"></div></div><span class="caption">Rotary Cellphone</span></div></div></div></div><p>　米<a href="https://www.bnl.gov/" class="n" target="_blank">Brookhaven National Laboratory</a>(ブルックヘブン国立研究所)に所属するJustine Haupt氏が、回転ダイヤル式携帯電話「Rotary Cellphone」を制作し、その過程を自身のサイトで公開している。</p><p>　多くの人がスマートフォンを理解できていなかったりうまく使えていなかったりするなかで、タッチパネルではなく物理的な操作が可能で、テキストメッセージを使わずに済むデバイスとして制作したという。</p><p>　電話アプリを呼び出す必要がない点に加え、取り外し可能なSMAコネクタ採用のアンテナ、事前に設定した相手にボタン1つで電話できるショートカットボタン、省電力な電子ペーパーディスプレイ、スライド式の電源スイッチなどが特徴としてあげられている。ポケットに入るサイズで、バッテリはほぼ24時間持つという。</p><p>　記事では、Arduino Microを用いた初期の動作試験の様子やKiCadによる基板の設計、3Dプリンタによるケースの作製などを通じて、Rotary Cellphoneがv1からv3へと改善されていく様子がまとめられており、基板のKiCadやケースのSTLなどのデータについても公開されている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1235/209/02.jpg"></div></div><span class="caption">最初期の動作試験の様子</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1235/209/03.jpg"></div></div><span class="caption">v1では修正のさいに壊さないと開けられないレイアウトになってしまった</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1235/209/04.jpg"></div></div><span class="caption">v2は大幅に問題を改善したものの、すでに停波した2Gモデム「Adafruit FONA 2G」を誤って搭載</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1235/209/05_o.jpg"></div></div><span class="caption">完成となったv3</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1235/209/06.jpg"></div></div><span class="caption">背面から天面にかけて電子ペーパーを配置し、ポケット内でも上から情報が確認できる設計</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Fri, 14 Feb 2020 14:38:56 +0900</pubDate>
+		</item>
+		<item>
+			<title>LG、240Hz駆動のIPSパネル採用27型液晶 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1235225.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1235/225/1.jpg"></div></div><span class="caption">UltraGear 27GN750-B</span></div></div></div></div><p>　<a href="https://www.lg.com/jp/" class="n" target="_blank">LGエレクトロニクス・ジャパン株式会社</a>は、240Hz駆動のIPSパネルを採用した27型ゲーミング液晶「UltraGear 27GN750-B」を21日に発売する。価格はオープンプライスで、税別店頭予想価格は47,000円前後の見込み。</p><p>　中間色応答速度が1msの高速IPSパネルを採用し、なめらかで残像感の少ない映像表示を実現。HDR10にも対応する。さらに、AMD Radeon FreeSyncおよびNVIDIA G-SYNC Compatibleをサポートし、テアリングやカクつきを抑えた表示が可能。</p><p>　このほか、「DASH(Dynamic Action Sync)モード」を備え、ラグを低減可能なほか、暗いシーンを明るく表示する「ブラックスタビライザー」、画面中央に照準マークを表示する「クロスヘア」機能を搭載。sRGBカバー率99%をカバーし、工場出荷時に1台1台すべてキャリブレーション済み。</p><p>　おもな仕様は、解像度が1,920×1,080ドット、表示色が約1,677万色、中間色応答速度が1ms、コントラスト比が1,000:1、輝度が400cd/平方m、視野角が上下/左右ともに178度。</p><p>　インターフェイスはHDMI×2、DisplayPort、3.5mmステレオミニ出力、USB 3.0×2。スタンドは-5～15度のチルト、110mmの高さ調節、ピボットに対応する。本体サイズは614×274×465～575mm(幅×奥行き×高さ)、重量は5.8kg。</p></div></div>]]></description>
+			<pubDate>Fri, 14 Feb 2020 15:23:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>Corsair、CPU/GPUに水冷クーラー採用の小型ゲーミングPC </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1235228.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1235/228/01.jpg"></div></div><span class="caption">CORSAIR ONE</span></div></div></div></div><p>　<a href="https://www.links.co.jp/" class="n" target="_blank">株式会社リンクスインターナショナル</a>、Corsair製のゲーミングデスクトップPC 2機種を2月下旬より発売する。下位の「CORSAIR ONE i145」および上位の「CORSAIR ONE i164」を用意し、税別価格はそれぞれ362,000円、437,000円。</p><p>　両機種ともに、容積12Lでサイズが172.5×200×380mm(幅×奥行き×高さ)のスモールタワー筐体を採用。CPUとGPUのそれぞれに水冷クーラーを配置することで、下位機種ではCore i7-9700KとGeForce RTX 2080、上位機種ではCore i9-9900KとGeForce RTX 2080 Tiを搭載し、小型ながら高い処理性能を発揮する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1235/228/02.jpg"></div></div><span class="caption">内部構造(画像はCORSAIR ONE i164)</span></div></div></div></div><p>　そのほかの仕様は共通で、32GBメモリ、960GB M.2 NVMe SSD+2TB HDD、600W 80PLUS Gold電源、Windows 10 Homeなどを装備。</p><p>　インターフェイスは、USB 3.1×2(うち1基Type-C)、USB 3.0×4、USB 2.0×2、PS/2、Gigabit Ethernet、IEEE 802.11ac対応無線LAN、HDMI 2.0a、DisplayPort×3、音声入出力などを備える。</p><p>　重量は約7.4kg。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1235/228/03.jpg"></div></div><span class="caption">背面</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Fri, 14 Feb 2020 15:39:20 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
