@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>日本エイサー、Ice Lake搭載の15.6型スタンダードノート </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1236017.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1236/017/01.jpg"></div></div><span class="caption">Aspire 3(A315-56-H58U/K)</span></div></div></div></div><p>　<a href="https://acerjapan.com/" class="n" target="_blank">日本エイサー株式会社</a>は、第10世代Core(Ice Lake)を搭載した15.6型ノートPC「Aspire 3(A315-56-H58U/K)」を20日より発売する。価格はオープンプライスで、店頭予想価格は8万円前後の見込み。</p><p>　Aspire 3(A315-56-H58U/K)は、CPUにCore i5-1035G1(4コア/1GHz、ビデオ機能内蔵)を採用したノートPC。ヒンジ部が180度開くのが特徴で、15.6型フルHD(1,920×1,080ドット)非光沢液晶やブルーライト低減機能を備える。</p><p>　そのほかおもな仕様は、8GBメモリ、256GB M.2 NVMe SSD、Windows 10 Homeなどを搭載。</p><p>　インターフェイスは、USB 3.0、USB 2.0×2、Gigabit Ethernet、IEEE 802.11ac対応無線LAN、Bluetooth 4.1、HDMI、約30万画素Webカメラ、音声入出力などを装備する。</p><p>　本体サイズは約363×245×19.9mm(幅×奥行き×高さ)、重量は約1.69kg。バッテリ駆動時間は約7.5時間。</p></div></div>]]></description>
-			<pubDate>Wed, 19 Feb 2020 13:23:31 +0900</pubDate>
-		</item>
-		<item>
 			<title>Google、クラウドコンピューティングサービスのインスタンスにAMD「EPYC」採用機が追加 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1236041.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1236/041/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.amd.com/en" class="n" target="_blank">AMD</a>は18日(現地時間)、Googleのクラウドコンピューティングサービス<a href="https://cloud.google.com/" class="n" target="_blank">「Google Cloud」</a>に、AMDのサーバー向けプロセッサ「EPYC」7002シリーズを搭載した「N2D」インスタンスが追加されたと発表した。</p><p>　現在はベータ版で運用しており、us-central1、asia-southeast1、およびeurope-west4リージョンで利用可能。</p><p>　N2Dインスタンスは、汎用ワークロードと高いメモリ帯域幅を必要とするワークロードの両方に最適なオプションと謳う。</p><p>　128/224 vCPUで構成されたN2Dインスタンスでは、従来のN1インスタンスと比較した場合、レンダリングやリザーバー分析などのHPCワークロードにおいて最大70%高いプラットフォームメモリ帯域幅を提供するほか、コア数の増加によりベンチのパフォーマンスを100%以上向上できるとしている。</p></div></div>]]></description>
@@ -105,6 +99,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1236343.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1236/343/01.jpg"></div></div><span class="caption">Spot</span></div></div></div></div><p>　鹿島建設株式会社は、米Boston Dynamicsの四足歩行型ロボット「Spot」を土木工事現場での活用を目指し2019年12月に導入したことを発表した。</p><p>　鹿島建設では、ソフトバンクロボティクス株式会社ならびにソフトバンク株式会社の協力のもと、2018年11月にSpotを用いた実証実験を神奈川県のトンネル現場(釜利谷ジャンクション Cランプトンネル工事)で実施。</p><p>　360度カメラを搭載したSpotを制御室から遠隔操作し、切羽(掘削箇所)の写真撮影やポンプメーターなどの計器点検を行なったほか、あらかじめ設定したルートに沿って自律歩行できる特性を活かした坑内巡視を実施した。</p><p>　その後、実証実験の結果をもとにユースケースを検討し、ソフトバンクロボティクスおよびBoston Dynamicsにて、トンネル内の路盤などでも不自由なく歩行できるよう悪路歩行性能の確認やインターフェイスプログラムの改良を行ない、土木現場への適用可能性を高めたSpotの導入に至ったとする。</p><p>　今後は、トンネル工事で坑内測量業務や安全管理のための巡視などを実証実験する予定で、四足歩行が可能な特性を活かして、急傾斜地すべり地帯での調査/測量などの危険作業を含め、適用先の拡大を検討するとしている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1236/343/01.png"></div></div><span class="caption">トンネル内を巡視するSpot</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1236/343/02.png"></div></div><span class="caption">Spot搭載カメラによる切羽写真(30m離隔)</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Thu, 20 Feb 2020 15:10:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ベルキン、最大5.3Gbpsを実現したWi-Fi 6/メッシュ対応ルーター </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1236413.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1236/413/01.jpg"></div></div><span class="caption">MX5300</span></div></div></div></div><p>　<a href="https://www.belkin.com/jp/" class="n" target="_blank">ベルキン株式会社</a>はLinksysブランドより、Wi-Fi 6に対応したメッシュネットワーク対応無線LANルーター「MX5300」を3月6日より発売する。税別価格は50,980円だが、発売日までに予約した場合は15%引きで購入できる。</p><p>　MX5300は、Linksysが展開するメッシュルーターシリーズ「Velop」では初となるWi-Fi 6(IEEE 802.11ax)対応製品。1台で190平方mをカバーでき、最大250台のデバイスを接続可能なほか、すでに販売されているVelopシリーズと組みあわせたメッシュネットワークも構築できる。</p><p>　2.4GHz帯×1と5GHz帯×2のトライバンドをサポートし、前者は1,147Mbps、後者は1,733Mbpsおよび2,402Mbpsでの通信が可能で、ルーター全体では5.3Gbpsの高速転送を実現。加えて、OFDMA(直行周波数分割多元接続)やMU-MIMOにより、複数のデバイスが同時に通信するさいの接続効率向上を図る。</p><p>　そのほか、4コア/2.2GHzのCPUと1GBメモリを搭載し、インターフェイスはGigabit Ethernet×5(うち1基WAN)、USB 3.0などを装備。</p><p>　本体サイズは114×114×244mm(幅×奥行き×高さ)、重量は1.59kg。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1236/413/02.jpg"></div></div><span class="caption">背面</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 20 Feb 2020 18:11:20 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
