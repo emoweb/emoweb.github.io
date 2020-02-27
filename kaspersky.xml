@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>メールの偽造：そもそもなぜ可能なのか？</title>
-			<link>https://blog.kaspersky.co.jp/36c3-fake-emails/26726/</link>
-			<description><![CDATA[フィッシング攻撃やビジネスメール詐欺（BEC）に使われる偽メール。なぜ、攻撃者は説得力のあるメールを簡単に作ることができるのでしょうか？]]></description>
-			<pubDate>Fri, 07 Feb 2020 01:00:15 +0000</pubDate>
-		</item>
-		<item>
 			<title>映画賞の話題に便乗するマルウェアとフィッシング詐欺</title>
 			<link>https://blog.kaspersky.co.jp/2020_and-the-malware-goes-to/26845/</link>
 			<description><![CDATA[2020年のアカデミー賞作品賞にノミネートされた映画のタイトルを悪用した、フィッシング詐欺とマルウェア拡散の動きが見られています。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/ginp-mobile-banking-trojan/26902/</link>
 			<description><![CDATA[偽の通知を表示してアプリを開かせ、アプリの画面にフィッシング画面を重ねて表示するマルウェア「Ginp」。目的はカード情報の入手です。]]></description>
 			<pubDate>Wed, 26 Feb 2020 01:00:34 +0000</pubDate>
+		</item>
+		<item>
+			<title>ゲームのレーティングを考える</title>
+			<link>https://blog.kaspersky.co.jp/game-ratings/26939/</link>
+			<description><![CDATA[ゲームの年齢制限は、具体的には何を意味するのでしょうか？10歳の子がレーティング「12+」のゲームをプレイしてもよいのでしょうか？]]></description>
+			<pubDate>Thu, 27 Feb 2020 01:00:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
