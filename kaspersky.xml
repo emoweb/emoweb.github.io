@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>映画賞の話題に便乗するマルウェアとフィッシング詐欺</title>
-			<link>https://blog.kaspersky.co.jp/2020_and-the-malware-goes-to/26845/</link>
-			<description><![CDATA[2020年のアカデミー賞作品賞にノミネートされた映画のタイトルを悪用した、フィッシング詐欺とマルウェア拡散の動きが見られています。]]></description>
-			<pubDate>Sat, 08 Feb 2020 01:00:21 +0000</pubDate>
-		</item>
-		<item>
 			<title>【更新】新型コロナウイルス関連情報を装うマルウェアや詐欺メール</title>
 			<link>https://blog.kaspersky.co.jp/coronavirus-reached-the-web/26781/</link>
 			<description><![CDATA[新型コロナウイルスの話題に乗じて、マルウェアを拡散する動きや、高機能マスクを宣伝する怪しいスパムメール、公的機関から届いたように見せかけたフィッシングメールが見られています。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/game-ratings/26939/</link>
 			<description><![CDATA[ゲームの年齢制限は、具体的には何を意味するのでしょうか？10歳の子がレーティング「12+」のゲームをプレイしてもよいのでしょうか？]]></description>
 			<pubDate>Thu, 27 Feb 2020 01:00:30 +0000</pubDate>
+		</item>
+		<item>
+			<title>Roaming Mantis パート5：スミッシングによる拡散とリサーチャー避けテクニックの強化</title>
+			<link>https://blog.kaspersky.co.jp/roaming-mantis-part-v/26912/</link>
+			<description><![CDATA[Roaming Mantisに関する最新情報。2019年の調査で見られた攻撃活動の変化や、新たに取り入れられた興味深い手法について。]]></description>
+			<pubDate>Fri, 28 Feb 2020 02:00:04 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
