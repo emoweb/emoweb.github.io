@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>BCN、下落傾向だったメモリの価格が今年に入り上昇との分析。ただしコロナウイルスの影響で見通しは不透明 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1238750.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1238/750/01.png"></div></div></div></div></div></div><p>　<a href="https://www.bcn.co.jp/" class="n" target="_blank">株式会社BCN</a>は3月4日、同社のBCNランキングで集計したメモリの価格に関する調査報告を公開した。</p><p>　同社が調べた直近2年間のメモリ市場の動きによると、2018年2月時点で1,249.1円だったGB単価が、じょじょに下落していき同年12月には967.4円と1,000円を割り込んだ。この時期はちょうどメモリの売れ行きが活発だったころであり、2019年の12月には445.6円にまで下落している。</p><p>　一方で、2020年1月には470.4円、2月には506円と反発。同社は今年から流れが変わってきたと分析する。ただし、新型コロナウイルスの影響により、今後の見通しは不透明と述べており、メモリ工場はオートメーション化が進んでおり、ウイルスの影響は少ないと見られるものの、物流が滞る可能性について指摘。市場への影響が出てくる可能性があるとの懸念を示している。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1238/750/02.png"></div></div></div></div></div></div></div></div>]]></description>
-			<pubDate>Wed, 04 Mar 2020 14:40:20 +0900</pubDate>
-		</item>
-		<item>
-			<title>理研、シリコン内単一電子スピンの「量子非破壊測定」に成功 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1238785.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1238/785/01.jpg"></div></div><span class="caption">量子非破壊測定における非破壊性、読み出し、初期化の3機能</span></div></div></div></div><p>　<a href="https://www.riken.jp/" class="n" target="_blank">理化学研究所(理研)</a>創発物性科学研究センター量子機能システム研究グループと東京工業大学による共同研究グループは、シリコン内の単一電子スピンにおける量子非破壊測定に成功した。</p><p>　量子コンピュータでは量子力学的な重ねあわせ状態を利用して情報を符号化するが、この重ねあわせ状態は観測(情報の読み出し)のさいに影響を受けてしまうため、誤り検出/訂正機能の実現には量子の非破壊測定が必要となる。シリコン中の単一電子スピンを利用した量子コンピュータでは、量子情報保持時間や量子演算が高精度で行なえることがすでに実証されており、現在の半導体に用いられている集積エレクトロニクス技術の応用が見込める一方で、量子非破壊測定は実現できていなかった。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1238/785/02.jpg"></div></div><span class="caption">(左)従来の手法と(右)新たに用いられた手法</span></div></div></div></div><p>　これまで単一電子スピンの読み出しに用いられてきた観測対象の電子スピンを電荷へ変換する手法の場合、電子スピンを高速に検出することは可能なものの、電荷を検出するさいに電子スピンに影響を与えてしまうため、非破壊性が維持できない問題があった。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1238/785/03.jpg"></div></div><span class="caption">設計された試料の構造</span></div></div></div></div><p>　そこで研究グループでは、読み出したい電子スピンの情報を一度別の電子スピン(補助電子スピン)に転写してから読み出す手法を試みた。局所的な磁場を加えて電子スピン間にイジング型の相互作用が働くよう設計することで、転写時のスピン量への影響を防いでおり、情報の読み出しは補助電子スピンを使って従来どおりの手法で行なう。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1238/785/04.jpg"></div></div><span class="caption">量子非破壊測定の性能評価</span></div></div></div></div><p>　実験の結果、非破壊性が99%、情報の読み出しが80%の精度で機能しているのに加えて、これら2つの機能を組みあわせて電子スピンの向きを確定する「初期化」についても、80%の精度で行なえていることがわかった。さらに、単一電子スピンを繰り返し測定できる量子非破壊測定の特性を利用すると、読み出し精度が最大95%まで引き上げられ、観測結果から精度の高い事象を予測する手法を用いると、下向きスピン状態への初期化の精度も最大99.6%まで高められると実証された。</p><p>　同グループでは、すでに実現可能だとされている量子情報保持時間や超高精度な量子演算に加え、今回明らかとなった量子非破壊な測定手法によって、量子誤り訂正などに基づいた量子情報処理が可能なシリコン量子コンピュータの開発が期待されるとしている。</p></div></div>]]></description>
-			<pubDate>Wed, 04 Mar 2020 14:45:30 +0900</pubDate>
-		</item>
-		<item>
 			<title>スマホゲームが楽に遊べる「∀」のかたちのクッション </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1238801.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1238/801/02.jpg"></div></div><span class="caption">∀クッション</span></div></div></div></div><p>　<a href="https://www.thanko.co.jp/" class="n" target="_blank">サンコー株式会社</a>は、スマートフォンやゲームをするさいに便利なクッション「∀クッション(ターンエークッション)」を発売した。価格は5,980円。</p><p>　∀クッションは、脱着可能なスマートフォンホルダーが付属したクッション。お腹に抱えるようにして使う形状となっており、腕をクッションの上に置いて楽にスマートフォンなどの操作が行なえる。肘を固定する突起や左右側面にモバイルバッテリなどを収納できるポケットを備えるほか、うつ伏せ姿勢で体の下に敷くかたちでも使用できる。</p><p>　ホルダーは幅58～82mmのスマートフォンまで対応。本体サイズは550×510×210mm(幅×奥行き×厚さ)、重量は1,153g(ホルダー含む)。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1238/801/03.jpg"></div></div><span class="caption">本体</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1238/801/04.jpg"></div></div><span class="caption">うつ伏せ使用時</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1238/801/05.jpg"></div></div><span class="caption">側面のポケット</span></div></div></div></div></div></div>]]></description>
@@ -105,6 +93,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1239017.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1239/017/01.jpg"></div></div><span class="caption">Optix G27C4</span></div></div></div></div><p>　<a href="https://jp.msi.com/" class="n" target="_blank">エムエスアイコンピュータージャパン株式会社</a>は、ゲーミング液晶ディスプレイ2機種を13日より発売する。27型の「Optix G27C4」および23.6型の「Optix G24C4」を用意し、価格はそれぞれ33,000円前後、26,000円前後の見込み。</p><p>　Optix G27C4は165Hz駆動、Optix G24C4は144Hz駆動のVA液晶パネルを採用した製品。両機種ともに湾曲率は1,500Rで、解像度はフルHD(1,920×1,080ドット)となるほか、FreeSync Premiumをサポートする。</p><p>　おもな仕様はほぼ共通で、表示色数が1,677万色、応答速度が1ms(MPRT)、輝度が250cd/平方m、コントラスト比が3,000:1、視野角が上下/左右178度。</p><p>　インターフェイスは、HDMI 1.4b×2、DisplayPort 1.2a、ヘッドフォン出力。</p><p>　本体サイズ/重量は、Optix G27C4が611.5×225.4×457.9mm(幅×奥行き×高さ)/5.4kg、Optix G24C4が536.7×225.4×429mm(同)/3.4kg。ともに-5度～20度のチルトに対応する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1239/017/02.jpg"></div></div><span class="caption">Optix G24C4</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Thu, 05 Mar 2020 12:52:45 +0900</pubDate>
+		</item>
+		<item>
+			<title>Cypress、USB4とPD 3.0対応のUSB Type-Cコントローラをサンプル出荷 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1239022.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1239/022/01.png"></div></div></div></div></div></div><p>　<a href="https://www.cypress.com/" class="n" target="_blank">米Cypress Semiconductor</a>は3月3日(米国時間)、USB4やUSB Power Delivery(PD) 3.0に対応するUSB Type-Cコントローラ「CCG6DF」と「CCG6SF」を発表した。すでにサンプルが大手OEMに提供されており、量産は2020年第3四半期に開始される予定。</p><p>　同社EZ-PDシリーズの第6世代コントローラとなり、電源の故障保護のためのVBUSプロバイダロードスイッチを統合するなど、前世代からの改善が進んだ。64KBのフラッシュを備えた32bit Arm Cortex-M0も実装し、プログラム制御可能であることから、ファームウェアのアップグレードでUSB4をサポート可能としている。</p><p>　次世代規格のUSB4は、Thunderbolt 3と互換性を持ち、40Gb/sのデータ転送が可能。USB 3.2、DisplayPort Alternate Mode、PCI Expressも同時にサポート。CCG6DFはデュアルポート、CCG6SFはシングルポートのコントローラとして提供される。</p></div></div>]]></description>
+			<pubDate>Thu, 05 Mar 2020 13:24:32 +0900</pubDate>
+		</item>
+		<item>
+			<title>CHUWI、Core i5-6287U搭載の4K液晶ノート </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1239037.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1239/037/1.jpg"></div></div></div></div></div></div><p>　<a href="https://www.chuwi.com/jp/" class="n" target="_blank">中国CHUWI</a>は、クラウドファンディングサイトIndiegogoにおいて、CPUにCore i5-6287Uを搭載した15.6型4K液晶搭載ノート「AeroBook Pro 15.6」の出資を26日より募りはじめると予告した。</p><p>　製品を入手するための最小出資額は599ドルで、事前にメール登録すると25%クーポンが入手可能。</p><p>　既存の4K搭載ノート「LapBook Plus」のプロセッサをAtom x7-E3950からCore i5-6287Uに変更し、処理性能を大幅に向上させたモデル。このプロセッサは13.3型MacBook Pro(2016)に採用された実績があり、Iris Graphics 550の搭載で優れたグラフィックス処理能力を実現するという。</p><p>　液晶は輝度が340cd/平方m、sRGBカバー率100%、最大表示色10億7,000万色を謳う。USB Type-Cポートは映像出力やUSB PD機能も備えている。筐体はフルメタル製で、厚さ15.9mm。</p><p>　このほか、8GBのLPDDR4、256GBのSATA SSDを内蔵。オプションでPCI Express対応のSSDを増設できる。バッテリは60Whで、約8時間駆動が可能。</p></div></div>]]></description>
+			<pubDate>Thu, 05 Mar 2020 13:28:15 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
