@@ -5,41 +5,6 @@
 		<link>https://cyclist.sanspo.com/feed</link>
 		<description>cyclistに掲載されている最新ニュースの見出しを提供しています。</description>
 		<item>
-			<title>前面投影面積をリアルタイムで可視化　最適なフォームを導く最新設備</title>
-			<link>https://cyclist.sanspo.com/515472</link>
-			<description><![CDATA[<div class="description clearfix">
-<p>　自転車競技コーチ、フィッターの福田昌弘さんがベルギーの計測施設を訪問したリポート記事の1回目では、関節や特徴点にマーカーを置き、リアルタイムの体の動きを計測した内容をお伝えしました。第2回目は、空気抵抗を削減するために、実際にトッププロ選手も活用しているという「Bioracer Aero」を紹介します。</p>
-<div class="wp-block-cyc-button-block tagged cf wp-block-cyc-button-common wp-block-cyc-button-block-1 wp-block-cyc-button-block-1-f1da5279-8863-467e-8171-d9575f37f67f"><a href="https://cyclist.sanspo.com/515019" target="_self" rel="noopener noreferrer" class="cf cyc-button-url"><div class="cyc-button-text"> 乗り手とフィッターを繋ぐフィッティングシステムとは？　福田昌弘さんがリポート</div></a></div>
-<figure class="wp-block-image size-post_pic_1"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/f1-600x400.jpg" alt class="wp-image-515587"><figcaption>レムコ・エヴェネプール（ドゥクーニンク・クイックステップ）も Bioracer Aeroを利用　Photo: Masahiro FUKUDA</figcaption></figure><h2 class="wp-block-cyv-heading-block clearfix sentence komidashi cyc-heading-text wp-block-cyc-heading-common wp-block-cyc-heading-block-1 wp-block-cyc-heading-block-1-cbfa3c94-3e67-4b9e-bf2d-9cc642d7f860">高速化でエアロダイナミクスが重要に</h2>
-<p>　近年では、レースの高速化に対応するため、自転車とライダーをあわせたエアロダイナミクスの重要性が増してきました。空気抵抗は、速度に対して二乗で影響するため、速度域が速くなるほど影響が大きくなるからです。一説には、アワーレコードの速度が未だに速くなっているのは、空気抵抗の削減からもたらされたものだとも言われています。</p>
-<div class="wp-block-image"><figure class="alignright size-post_pic_5"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/f2-373x249.jpg" alt class="wp-image-515588"><figcaption>前面投影面積を計測する高岡亮寛（Roppongi Express）　Photo: Masahiro FUKUDA</figcaption></figure></div>
-<p>　空気抵抗をあらわす指標であるCdAは、前面投影面積であるAと、ドラッグであるCdの掛け算で表現されます。ドラッグは空気の流れが大きく影響するため、計測するには風洞などの装置や、環境の変化が少ない場所を走行したデータから逆算するなど、計測が大変です。また、ちょっとしたパーツの形状や、その表面の素材などによっても大きく変わります。このためにゴルフボールなどで有名なディンプル加工を施したり、翼断面構造をベースに、UCI（国際自転車競技連合）のレギュレーションに収まるようにカムテール構造などが採用されています。</p>
-<p>　Bioracer Aeroでは、空気抵抗全体を測定することはできませんが、代わりに前面投影面積を容易に計測することが可能です。システム的にも、PCに接続されたカメラの情報のみをベースとしてしており、シンプルな構成となっています。</p>
-<h2 class="wp-block-cyv-heading-block clearfix sentence komidashi cyc-heading-text wp-block-cyc-heading-common wp-block-cyc-heading-block-1 wp-block-cyc-heading-block-1-53408585-0e0b-4ca9-b78c-3012267fc7d2">理想のポジションを持続させる練習を</h2>
-<p>　特別、決まった使い方があるものではないとのことですが、よくあるユースケースとしては、ベースのポジションを測定し、それに対して何かを変更したときの差分を確認しながら、より空気抵抗の少ないポジションを模索していくという使い方があるそうです。</p>
-<div class="wp-block-image"><figure class="alignright size-post_pic_5"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/f4-373x249.jpg" alt class="wp-image-515590"><figcaption>リアルタイムで計測をしつつ、フォームの指導を受ける高岡亮寛（Roppongi Express）　Photo: Masahiro FUKUDA</figcaption></figure></div>
-<p>　具体的に見ていきましょう。まず最初にブラケットを持ったポジションで測定し、これをベースポジションとします。画面上にはベースポジションの輪郭が表示されます。ここから、ドロップ部を持った時や頭を下げたとき、ハンドルの持ち方を変えた時など、色々なポジションをテストしていきます。選手によってはサドルやハンドル位置の変更が前面投影面積に大きく影響を及ぼすこともあるそうです。</p>
-<p>　画面上には、設定した速度に対して必要な想定パワーや、想定距離を走るときのタイムが、ベースポジションに比べてどのように変化するかもリアルタイムで表示されます。このためライダー自身が、乗車したままでポジションを模索していくことが可能となっています。</p>
-<p>　実際に前面投影面積の低いポジションが見つかったとして、そのポジションで走っているときに今までと同じパワーを出せるのか？あるいは、そのフォームを維持し続けることができるのか？というのも重要なポイントです。</p>
-<p>　そこで、Bioracer Aeroにはトレーニングモードも搭載されています。この間は、事前に決めたポジションに対する差分がリアルタイムで表示され続けるので、ライダーは常にポジションを確認しつづけながらトレーニングをすることが可能です。</p>
-<p>　よくタイムトライアル競技では「持続性」と言われますが、どんなにいいポジションであっても、それを持続できなければ意味がないということです。トレーニングの要素に「空気抵抗を低いポジションを維持し続ける」を追加出来る意義は大きいでしょう。</p>
-<p>　実際に、Bioracer社のデータを見ると、トニー・マルティン選手（ユンボ・ヴィスマ）やレムコ・エヴェネプール選手（ドゥクーニンク・クイックステップ）らも計測していました。ツール・ド・フランスで総合優勝する選手も、このシステムを使って日常的にトレーニングをしているそうです。</p>
-<div class="wp-block-columns">
-<div class="wp-block-column"><figure class="wp-block-image size-post_pic_impression"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/f3-286x191.jpg" alt class="wp-image-515589"><figcaption>トレーニングプランやシミュレーションも可能　Photo: Masahiro FUKUDA</figcaption></figure></div>
-<div class="wp-block-column"><figure class="wp-block-image size-post_pic_impression"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/5-286x191.jpg" alt class="wp-image-515586"><figcaption>高速レースを展開するトラック選手もフォームのチェックを行っている　Photo: Masahiro FUKUDA</figcaption></figure></div>
-</div>
-<p>　前面投影面積を下げるためには、どのようなことが重要になるでしょう。 特に高さを気にしているライダーは多いのではないでしょうか？　具体的にはハンドルの高さや頭の高さなどです。もちろん高さも重要ですが、それと併せて大きく影響してくるのが幅です。ハンドルの幅、肘の幅、肩の幅など。</p>
-<p>　最近のトラック競技を見ていると、どんどんハンドル幅が狭くなっていますが、これも計測データが集まってきた結果が影響していると思われます。ロード競技では操作性も影響するので、ある程度の幅におさめるほうがよいでしょう。肘の幅はハンドルの取り付け角度などが影響します。</p>
-<p>　そして、特に重要となってくるのが肩幅です。実は肩幅は変えることができます。肩関節は肩甲骨にありますが、肩甲骨自体は鎖骨で胸の前にある胸骨につながっているだけなので、肩甲骨を動かすことができれば肩幅を変えることが出来るのです。ベルギーやオランダなどでは、このために肩甲骨を動かして肩幅を狭く維持するためのトレーニングを指導するコーチもいるそうです。</p>
-<p>　空気抵抗は、目に見えづらいということもあり、どうしても後回しにされることが多いようですが、パフォーマンス全体を改善するためには重要なパラメータとなってきています。最近では、スマートフォンのカメラで撮影することで前面投影面積の計算をするアプリケーションも出てきました。</p>
-<p>　機会があれば、みなさんも計測してみてください。</p>
-<div class="profileBlue" style="min-height: 100px;"> <img src="https://cdn.cyclist.sanspo.com/photos/2020/02/fmp.jpg" title="福田昌弘" alt="福田昌弘"><span class="bold">福田昌弘</span><p>自転車競技コーチで、「ハムスタースピン代表」。現職はソフトウェアエンジニアだが、身体の動きに興味を持ったことがきっかけで、医学部博士課程にも進学。海外の自転車学会でも積極的に発表を行っている。社会人チーム「Roppongi Express」で趣味のレースも楽しんでいる。2018年の全日本マスターズTTでは3位、トライアスロンでも表彰台に上るなど、各方面で積極的に活動している。</p>
-</div>
-</div>
-]]></description>
-			<pubDate>Thu, 05 Mar 2020 11:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ショップ店員が教えるロードバイクのホイールのキホン　様々な種類や規格を簡単におさらい</title>
 			<link>https://cyclist.sanspo.com/515328</link>
 			<description><![CDATA[<div class="description clearfix">
@@ -712,6 +677,35 @@
 </div>
 ]]></description>
 			<pubDate>Tue, 10 Mar 2020 19:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>混戦のスプリントで伏兵ガルシアが優勝　ユアン、ベネットは落車でチャンスを逃す</title>
+			<link>https://cyclist.sanspo.com/516396</link>
+			<description><![CDATA[<div class="description clearfix">
+<p>　UCIワールドツアー第6戦「パリ〜ニース」の第3ステージが3月10日に開催され、集団スプリント勝負を制したイバン・ガルシア（スペイン、バーレーン・マクラーレン）がステージ優勝を飾った。有力スプリンターのサム・ベネット（ドゥクーニンク・クイックステップ）、カレブ・ユアン（オーストラリア、ロット・スーダル）はフィニッシュ直前に落車に巻き込まれて勝利をあげられなかった。総合首位のマクシミリアン・シャフマン（ドイツ、ボーラ・ハンスグローエ）はメイン集団内でフィニッシュし、総合首位をキープした。</p>
+<figure class="wp-block-image size-post_pic_1"><a href="https://cyclist.sanspo.com/?attachment_id=516401"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/GARCIA-Ivan068pp-600x400.jpg" alt class="wp-image-516401"></a><figcaption>有力スプリンターが落車で機会を逸するなか、元・世界王者のサガンを振り切って勝利したイバン・ガルシア　Photo: Yuzuru SUNADA</figcaption></figure><h2 class="wp-block-cyv-heading-block clearfix sentence komidashi cyc-heading-text wp-block-cyc-heading-common wp-block-cyc-heading-block-1 wp-block-cyc-heading-block-1-7b09ca9f-98c3-46e7-905d-8469aea6499e">単独逃げを容認し、落ち着いたペースで進行</h2>
+<p>　第3ステージはシャレット＝シュル＝ロワンからラ・シャトルに至る212.5kmで争われた。道中は3級山岳が1つのみ、フィニッシュはやや上り勾配ながら通常であれば集団スプリントになりやすいコースレイアウトだった。というのも、スプリンター向きステージと思われていた第1、第2ステージとも、雨と強風によって横風分断が多発するサバイバルな展開となり、総合成績も大きく揺れ動く荒れたレースになっていた。</p>
+<div class="wp-block-image"><figure class="alignleft size-post_pic_5"><a href="https://cyclist.sanspo.com/?attachment_id=516399"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/DEVRIENDT-Tom015p-373x249.jpg" alt class="wp-image-516399"></a><figcaption>190km近くに渡って単独逃げを見せたトム・デヴリーント　Photo: Yuzuru SUNADA</figcaption></figure></div>
+<p>　この日は200kmを超えるロングステージであり、さらに道中は向かい風基調ということで、逃げにとって旨味の少ないステージだったため、レーススタート後も逃げる選手がしばらく現れず。そうしたなかで、トム・デヴリーント（ベルギー、サーカス・ワンティ・ゴベール）がようやく単独逃げを開始。タイム差が最大9分程度まで開いたが、その後は7分前後にコントロールされていた。</p>
+<p>　平均時速36km程度のゆったりとしたペースでレースが展開され、時折集団がペースを上げて集団分断を狙うシーンも見られたものの、いずれも決定的な動きには繋がらず。終盤に向けて、徐々に先頭とのタイム差を縮めていった。</p>
+<h2 class="wp-block-cyv-heading-block clearfix sentence komidashi cyc-heading-text wp-block-cyc-heading-common wp-block-cyc-heading-block-1 wp-block-cyc-heading-block-1-2dd97d8c-98e2-4e59-91af-2b6a515a2e39">ガルシアのパワーが炸裂し、混戦を制す</h2>
+<p>　2回目の中間スプリントを目前とした残り26km地点で、デヴリーントはメイン集団に吸収。だが、ボーナスタイムを巡っての総合勢によるスプリント争いは発生せず、マッズ・ピーダスン（デンマーク、トレック・セガフレード）が先頭通過を果たした。</p>
+<div class="wp-block-image"><figure class="alignright size-post_pic_5"><a href="https://cyclist.sanspo.com/?attachment_id=516400"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/Peloton003pp-373x249.jpg" alt class="wp-image-516400"></a><figcaption>一日中小雨が続き、気温は11〜12度と肌寒い天候のなかレースは行われた　Photo: Yuzuru SUNADA</figcaption></figure></div>
+<p>　集団前方に位置取りしているドゥクーニンク・クイックステップ、グルパマ・エフデジ、チーム サンウェブあたりは、隙あらば集団分断を狙おうと開けた場所に出ると加速を繰り返していたものの、いずれの動きも実らなかった。</p>
+<p>　残り6kmを切ったところで、再びドゥクーニンク・クイックステップ、チーム サンウェブが加速して集団分断を狙う。総合勢への影響は無かったものの、有力スプリンターの一人であるパスカル・アッカーマン（ドイツ、ボーラ・ハンスグローエ）が遅れてしまった。</p>
+<p>　ラスト1km、アシストを揃えているドゥクーニンク・クイックステップが集団先頭をキープ。しかし、フィニッシュ直前の上り区間に入ったところで少しペースが落ちてしまい、後続選手たちの追い上げを許し、先頭付近は各チームのアシスト・エーススプリンターが入り混じるカオスな展開に。</p>
+<div class="wp-block-columns">
+<div class="wp-block-column"><figure class="wp-block-image size-large"><a href="https://cyclist.sanspo.com/?attachment_id=516398"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/ALAPHILIPPE-GILBERT003p-286x190.jpg" alt class="wp-image-516398"></a><figcaption>昨年までチームメートのジュリアン・アラフィリップ（左）とフィリップ・ジルベール（右）　Photo: Yuzuru SUNADA</figcaption></figure></div>
+<div class="wp-block-column"><figure class="wp-block-image size-large"><a href="https://cyclist.sanspo.com/?attachment_id=516397"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/DEGENKOLB-John001pp-286x190.jpg" alt class="wp-image-516397"></a><figcaption>カレブ・ユアンと新コンビネーションを披露したジョン・デゲンコルプ　Photo: Yuzuru SUNADA</figcaption></figure></div>
+</div>
+<p>　すると、ユーゴ・オフステテール（フランス、イスラエル・スタートアップネイション）がユアンに引っかかるような形で落車。ユアンは落車は免れたものの、オフステーテルのバイクがリアホイールに引っかかってしまい、停車を余儀なくされスプリント戦線から脱落してしまう。さらに2人の真後ろを走行していたベネットがオフステーテルに押し出されるような形で落車してしまい、道路右側の柵に激突しながら、右肩・右腕から激しく地面に叩きつけてしまった。</p>
+<p>　2人の有力スプリンターがいなくなったことで、先頭付近はどのチームもトレインを組めないまま、残った選手たちがそれぞれスプリントに挑む展開となり、先頭から5番手付近に位置していたガルシアが一気に加速。先頭に飛び出すと、大柄な体格を生かしてパワーあふれるスプリントを披露。背後についたペテル・サガン（スロバキア、ボーラ・ハンスグローエ）の追い上げを振り払って、フィニッシュラインに先着し、今季初勝利となるステージ優勝を飾った。</p>
+<p>　ガルシアはプロ4年目のシーズンを迎える24歳。2017年のツアー・オブ・ジャパンに来日し、一時は新人賞ジャージを着用する活躍を見せていたこともある。昨シーズンはツアー・オブ・カリフォルニアでプロ初勝利を飾った経験はあるものの、この日のような本格的な平坦ステージの集団スプリントでの勝利は初めてのことだった。</p>
+<p>　ユアンは無傷でフィニッシュしたものの、ベネットは右手から出血を伴う怪我を負い、かなり大きなダメージを受けてしまった様子だ。また、シャフマンは区間13位となり、リーダージャージを防衛。総合勢にとっては、翌日の個人タイムトライアルに向けて比較的落ち着いた一日となった。</p>
+<p class="clearfix sentence"><span class="small"><span class="bold">第3ステージ結果</span><br> 1	イバン・ガルシア（スペイン、バーレーン・マクラーレン）	5時間49分55秒<br> 2	ペテル・サガン（スロバキア、ボーラ・ハンスグローエ）	+0秒<br> 3	アンドレア・パスクアロン（イタリア、サーカス・ワンティ・ゴベール）<br> 4	ケース・ボル（オランダ、チーム サンウェブ）<br> 5	ナセル・ブアニ（フランス、アルケア・サムシック）<br> 6	ルディ・バルビエ（フランス、イスラエル・スタートアップネイション）<br> 7	アントニー・テュルジス（フランス、トタル・ディレクトエネルジー）<br> 8	ジャコモ・ニッツォーロ（イタリア、NTTプロサイクリング）<br> 9	マッズ・ウルスシュミット（デンマーク、イスラエル・スタートアップネイション）<br> 10	オリバー・ナーセン（ベルギー、アージェードゥーゼール ラモンディアール）<br> <br><span class="bold" style="color: #eb0;">個人総合</span><br> 1	マキシミリアン・シャフマン（ドイツ、ボーラ・ハンスグローエ）	 13時間12分1秒<br> 2	ジャコモ・ニッツォーロ（イタリア、NTTプロサイクリング）	+13秒<br> 3	ジャスパー・ストゥイヴェン（ベルギー、トレック・セガフレード）	+21秒<br> 4	セルジオ・イギータ（コロンビア、EFプロサイクリング）	+23秒<br> 5	ニルス・ポリッツ（ドイツ、イスラエル・スタートアップネイション）	+25秒<br> 6	マッズ・ウルスシュミット（デンマーク、イスラエル・スタートアップネイション）<br> 7	フェリックス・グロスチャートナー（オーストリア、ボーラ・ハンスグローエ）	+28秒<br> 8	クリスツ・ニーランズ（ラトビア、イスラエル・スタートアップネイション）<br> 9	ヴィンチェンツォ・ニバリ（イタリア、トレック・セガフレード）<br> 10	ペテル・サガン（スロバキア、ボーラ・ハンスグローエ）	+36秒<br> <br><span class="bold" style="color: #2c4;">ポイント賞</span><br> 1	ジャコモ・ニッツォーロ（イタリア、NTTプロサイクリング）<br> 2	マキシミリアン・シャフマン（ドイツ、ボーラ・ハンスグローエ）<br> 3	イバン・ガルシア（スペイン、バーレーン・マクラーレン）<br> <br><span class="bold" style="color: #f00;">山岳賞</span><br> 1	ジョナタン・イヴェール（フランス、トタル・ディレクトエネルジー）<br> 2	ホセ・ディアス（スペイン、NIPPO・デルコ・ワンプロヴァンス）<br> 3	ティシュ・ベノート （ベルギー、チーム サンウェブ）<br> <br><span class="bold" style="color: #999;">新人賞</span><br> 1	セルジオ・イギータ（コロンビア、EFプロサイクリング）	 13時間12分24秒<br> 2	ケース・ボル（オランダ、チーム サンウェブ）	+1分27秒<br> 3	カスパー・アスグリーン（デンマーク、ドゥクーニンク・クイックステップ）	+1分44秒<br> <br><span class="bold" style="color: #b80;">チーム総合</span><br> 1	イスラエル・スタートアップネイション	 39時間37分21秒<br> 2	ボーラ・ハンスグローエ	+3秒<br> 3	EFプロサイクリング	+51秒<br> </span></p>
+</div>
+]]></description>
+			<pubDate>Wed, 11 Mar 2020 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
