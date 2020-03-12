@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ゲームのレーティングを考える</title>
-			<link>https://blog.kaspersky.co.jp/game-ratings/26939/</link>
-			<description><![CDATA[ゲームの年齢制限は、具体的には何を意味するのでしょうか？10歳の子がレーティング「12+」のゲームをプレイしてもよいのでしょうか？]]></description>
-			<pubDate>Thu, 27 Feb 2020 01:00:30 +0000</pubDate>
-		</item>
-		<item>
 			<title>Roaming Mantis パート5：スミッシングによる拡散とリサーチャー避けテクニックの強化</title>
 			<link>https://blog.kaspersky.co.jp/roaming-mantis-part-v/26912/</link>
 			<description><![CDATA[Roaming Mantisに関する最新情報。2019年の調査で見られた攻撃活動の変化や、新たに取り入れられた興味深い手法について。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/36c3-pdf-encryption/27784/</link>
 			<description><![CDATA[Chaos Communication Congressでの講演で、リサーチャーのファビアン・アイシング氏がPDFの暗号化強度の限界を示しました。]]></description>
 			<pubDate>Thu, 12 Mar 2020 01:00:43 +0000</pubDate>
+		</item>
+		<item>
+			<title>CVE-2020-0796：SMBプロトコルの新たな脆弱性</title>
+			<link>https://blog.kaspersky.co.jp/smb-311-vulnerability/27846/</link>
+			<description><![CDATA[SMBv3にリモートコード実行の脆弱性（CVE-2020-0796）が見つかりました。現時点で修正パッチがないため、回避策が提示されています。]]></description>
+			<pubDate>Thu, 12 Mar 2020 10:00:50 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
