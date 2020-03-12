@@ -5,24 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>FILCO、直販限定発売の漆塗りフレームモデルにコンパクトキーモデル登場 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1240207.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1240/207/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.diatec.co.jp/" class="n" target="_blank">ダイヤテック株式会社</a>は、直販限定「FILCOキーボード工房」で展開する漆塗りフレームモデルに、親指ダブルファンクションキーを採用したコンパクトキーボード「MINILA Air」を追加投入する。価格はカラーによって異なり、17,800円から。</p><p>　カラーは、「漆・銀河(金)フレーム」「漆・銀河(青)フレーム」「漆・星空(螺鈿)フレーム」「漆・漆黒 七分艶フレーム」「漆・模様 しぶき塗り(赤)フレーム」「漆・模様 しぶき塗り(黒)フレーム」「漆・金梨地 赤金砂子塗りフレーム」「漆・青磁風銀透かし塗りフレーム」の全8色で、キースイッチはZF Electronics(旧Cherry)の茶軸/黒軸/青軸/赤軸から選べる。</p><p>　ベースとなる「MINILA Air」は、ピッチはフルサイズのものと変わらずに、ファンクションキーの押し合わせによるキーの共通化によりキー数を必要最低限に抑えたコンパクトキーボード。本体裏にDIPスイッチを搭載しており、キーコードを変更、無効化することができるほか、Bluetoothにも対応し、PCだけではなくiPadやAndroidなどでも使用可能。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1240/207/02.jpg"></div></div><span class="caption">本金箔貼りキーキャップ</span></div></div></div></div><p>　また、本製品の購入者に本金箔貼りのキーキャップをプレゼントする施策も実施中。本製品の上段1列目までのキーキャップと交換可能で、Escキーやよく使うファンクションキーと交換することでキーボードのアクセントにもなるという。</p></div></div>]]></description>
-			<pubDate>Wed, 11 Mar 2020 14:59:09 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows 10の「SMBv3」プロトコルにリモートコード実行の脆弱性 ～対策パッチ配布まで無効化を推奨</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1240215.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1240/215/01.png"></div></div></div></div></div></div><p>　米<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は10日(米国時間)、「Microsoft Server Message Block 3.1.1プロトコル」(以下SMBv3)において、特定リクエストの処理における脆弱性が存在すると発表した。同社によれば、同脆弱性を悪用することでSMBサーバーまたはSMBクライアントで遠隔でコードを実行される可能性があるとしている。</p><p>　SMBは、WindowsでPC間のファイル共有などに用いられている通信プロトコル。脆弱性の影響を受けるのはWindows 10およびWindows Serverのバージョン1903および1909で、修正プログラムを提供次第告知を行なうとしている。</p><p>　SMBサーバーに対する脆弱性の悪用には、攻撃者が特殊なパケットを標的のSMBv3サーバーに送信する可能性があり、SMBクライアントに対する脆弱性の悪用には、攻撃者が悪意のあるSMBv3サーバーを構成し、ユーザーに接続させる必要がある。</p><p>　同社では、修正プログラムの配布まではSMBサーバーへの攻撃を防ぐためSMBv3圧縮を無効にする(圧縮の無効化はサーバーへの攻撃対策のためクライアントへの攻撃対策にはならないことに注意)、ファイアウォールでSMB接続をブロックする(TCPポート445)などの対策を行なうよう案内している。</p></div></div>]]></description>
-			<pubDate>Wed, 11 Mar 2020 15:10:06 +0900</pubDate>
-		</item>
-		<item>
-			<title>産総研、手のひらサイズの小型原子時計を実現する技術 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1240223.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1240/223/01.jpg"></div></div><span class="caption">(左)モジュール実装された小型原子時計、(右)量子部内に配置されたVCSELとCsガスセル</span></div></div></div></div><p>　国立研究開発法人<a href="https://www.aist.go.jp/" class="n" target="_blank">産業技術総合研究所(産総研)</a>物理計測標準研究部門高周波標準研究グループ、<a href="https://www.tmu.ac.jp/" class="n" target="_blank">首都大学東京</a>システムデザイン学部電子情報システム工学科および<a href="https://www.ricoh.co.jp/" class="n" target="_blank">株式会社リコー</a>は、長期的に非常に安定した手のひらサイズの小型原子時計を開発した。</p><p>　近年広がりつつあるIoTではさまざまなものから情報が発信されるが、これらの情報には正確な時刻情報が付随する必要がある。このような時刻情報はGPSなどの全地球航法衛星システムを通じて提供されているが、電波妨害やなりすましといった情報改ざんのリスクがあるため、IoT端末内部に実装可能な大きさの原子時計が求められている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1240/223/02.jpg"></div></div><span class="caption">ライトシフト揺らぎ抑制技術概要</span></div></div></div></div><p>　小型の原子時計は一般的に、量子干渉効果の一種である「CPT(Coherent Population Trapping)共鳴」を利用する。基板面に対して垂直にレーザー光を放射する半導体レーザー「VSCEL(Vertical Surface Emitting Laser)」に周波数変調を加えて、2種類の周波数のレーザー光を生成し、セシウム(Cs)原子を相互作用させるもので、原子の固有周波数を得ることができる。</p><p>　一方この過程では、原子のエネルギー準位が変化する「ライトシフト」も同時に発生してしまうため、Cs原子の固有周波数が変動してしまい、長期的かつ安定的に駆動する小型原子時計の実現が難しかった。</p><p>　今回研究グループでは、VSCELが発振する波長の経年変化がライトシフトの揺らぎと関与していることを解明したが、ライトシフトの揺らぎを直接抑制しようとすると消費電力が増加してしまう。そこで、半導体レーザーの基礎方程式に基づいた駆動方法「ゼロクロス法」を考案し、小型原子時計に適用し検証を行なった。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1240/223/03.jpg"></div></div><span class="caption">従来品とゼロクロス法を適用した本開発品の性能比較</span></div></div></div></div><p>　効果の検証は150日以上の長期間にわたって実施。その結果、ゼロクロス法を適用すると、Cs原子の固有周波数変動を十分に抑制できることが明らかとなり、平均時間を約50日間とした場合では、従来のものと比べて100倍の安定性が得られた。</p><p>　同グループでは、小型原子時計のさらなる安定化を目指し、研究開発を進めるとしている。</p></div></div>]]></description>
-			<pubDate>Wed, 11 Mar 2020 15:42:14 +0900</pubDate>
-		</item>
-		<item>
 			<title>Micron、業界初のLPDDR5搭載のマルチチップパッケージをサンプル展開 ～5Gスマートフォン向け、基板面積を40%削減</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1240241.html</link>
 			<description><![CDATA[<div><div><p>　<a href="https://micron.com/" class="n" target="_blank">Micron</a>は米国時間10日、業界初のLPDDR5 DRAM搭載のUFS(ユニバーサルフラッシュストレージ)マルチチップパッケージ(uMCP)のサンプル展開を一部のパートナー企業に向け開始したと発表した。</p><p>　同社のuMCPは低電力DRAMとNAND、オンボードコントローラを組み合わせたもの。2チップのものと比較して基板面積を40%削減できるといい、ミドルレンジのスマートフォン設計に好適とする。</p><p>　1ynmプロセスのDRAMを内包し、最大6,400Mbpsの速度で2チャネルのLPDDR5をサポート。一方NANDは世界最小の96層3D NANDダイを使用し、メモリ12GB/ストレージ256GB容量で提供予定。パッケージは297ピンBGA。</p></div></div>]]></description>
@@ -99,6 +81,30 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1240625.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1240/625/1_o.jpg"></div></div><span class="caption">AeroBox</span></div></div></div></div><p>　<a href="https://www.chuwi.com/jp/" class="n" target="_blank">CHUWI</a>は、CPUにAMD A9-9820、GPUにRadeon R7 350を搭載したミニPC「AeroBox」を近日中にAmazon.co.jpで発売すると予告した。</p><p>　CPUに8コア/最大2.35GHz駆動のA9-9820、GPUに985MHz駆動のRadeon R7 350を搭載。このほか、容量8GBのDDR3メモリと256GBのM.2 SATA SSDを標準搭載し、4基のメモリスロットと2.5インチベイを備え、ユーザーが自身でさらに容量を増設可能となっている。</p><p>　筐体は縦置き/横置きの両方に対応し、白と黒のツートーンカラーが特徴。また、デュアルファンによる放熱設計を採用し、ファンにはRGBライティングも備える。</p><p>　インターフェイスはUSB 3.0×2、USB 2.0×2、Gigabit Ethernet、IEEE 802.11ac対応無線LAN、Bluetooth、音声入出力などを備える。</p><p>　同社の測定によれば、GeekBench 4スコアは7,388、CINEBENCHスコアは369cb、AS SSD Benchmarkは500MB/sとなっている。</p></div></div>]]></description>
 			<pubDate>Thu, 12 Mar 2020 20:33:29 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】OneNote（PC、スマホで使える無料メモアプリ）の使い方解説まとめ </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1240593.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1240/593/4_o.png"></div></div></div></div></div></div><blockquote><p>　「OneNote」は、Windows 10では標準でインストールされており、iPhone/Androidでも利用できる無料のメモアプリです。文字や画像のほか音声、グラフ、その他のファイルなどをメモの中に保存できる、多彩な機能を活用しましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/19770/">OneNote（PC、スマホで使える無料メモアプリ）の使い方解説まとめ</a></p></blockquote></div></div>]]></description>
+			<pubDate>Fri, 13 Mar 2020 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】不要な「一時ファイル」などを一括削除！新年度に向けてPCの棚卸しをしよう【Windows Tips】 </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1240592.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1240/592/3_o.png"></div></div></div></div></div></div><blockquote><p>　「パソコンの中身はすべて重要。ムダなファイルなどない」と思っていませんか？ 実は、Windows Updateなどの大型更新をした後には、「一時ファイル」と呼ばれる不要なファイルがPCに残っていることがあります。まとめて削除して、パソコンの動作を軽くしましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/19764/">不要な「一時ファイル」などを一括削除！新年度に向けてPCの棚卸しをしよう【Windows Tips】</a></p></blockquote></div></div>]]></description>
+			<pubDate>Fri, 13 Mar 2020 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】PowerPointでGIFアニメを作る方法。スライドショーをパラパラマンガのように表現できる </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1240590.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1240/590/2_o.png"></div></div></div></div></div></div><blockquote><p>　PowerPointのスライドショーを、GIFアニメーションとして保存できることをご存じですか？ GIFアニメーションとは、パラパラマンガのように静止画をつなげて動画風の表現を可能にするファイル形式のこと。エクスポート時に形式を選ぶだけなので簡単です。</p><p class="src">できるネットの<a href="https://dekiru.net/article/19767/">PowerPointでGIFアニメを作る方法。スライドショーをパラパラマンガのように表現できる</a></p></blockquote></div></div>]]></description>
+			<pubDate>Fri, 13 Mar 2020 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】臨時休校・在宅ワーク向け緊急企画！「できるシリーズ」など人気44タイトルを無料公開 </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1240589.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1240/589/1_o.png"></div></div></div></div></div></div><blockquote><p>　新型コロナウイルスの影響により、小中学生だけでなく、社会人のみなさんも在宅時間が増えていると思います。その時間を活用し、新しい知識を身につけてみませんか？ インプレスの人気書籍ムックを、2020年3月10日～3月31日の期間限定で「全文無料公開」します。</p><p class="src">できるネットの<a href="https://dekiru.net/article/19766/">臨時休校・在宅ワーク向け緊急企画！「できるシリーズ」など人気44タイトルを無料公開</a></p></blockquote></div></div>]]></description>
+			<pubDate>Fri, 13 Mar 2020 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
