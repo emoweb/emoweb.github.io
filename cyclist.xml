@@ -5,53 +5,6 @@
 		<link>https://cyclist.sanspo.com/feed</link>
 		<description>cyclistに掲載されている最新ニュースの見出しを提供しています。</description>
 		<item>
-			<title>風洞実験施設では何が行われているのか　計測値から導き出される速さの証し</title>
-			<link>https://cyclist.sanspo.com/516185</link>
-			<description><![CDATA[<div class="description clearfix">
-<p>　過去2回に渡ってお届けしましたベルギーでの計測についての取材も、これが最終回です。 フィッティングでまず自転車のポジションを決め、さらにBioracer Aeroで前面投影面積の低くなるフォームを模索してきました。今回は、風洞に入って実際に空気をあててみて、どのように空気抵抗が減るかを確認してきます。</p>
-<div class="wp-block-cyc-button-block tagged cf wp-block-cyc-button-common wp-block-cyc-button-block-1 wp-block-cyc-button-block-1-ffa65dd3-7fa4-41e0-8317-4d977aad4197"><a href="https://cyclist.sanspo.com/515019" target="_self" rel="noopener noreferrer" class="cf cyc-button-url"><div class="cyc-button-text">＜1＞乗り手とフィッターを繋ぐフィッティングシステムとは？</div></a></div>
-<div class="wp-block-cyc-button-block tagged cf wp-block-cyc-button-common wp-block-cyc-button-block-1 wp-block-cyc-button-block-1-6a7ceb66-2d58-4047-ac8e-d829b72b575c"><a href="https://cyclist.sanspo.com/515472" target="_self" rel="noopener noreferrer" class="cf cyc-button-url"><div class="cyc-button-text"> ＜2＞ 前面投影面積をリアルタイムで可視化</div></a></div>
-<figure class="wp-block-image size-post_pic_1"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/bg06-600x400.jpg" alt class="wp-image-516191"><figcaption>ベルギーの風洞施設「Bike Valley」で空気抵抗値を計測する高岡亮寛（Roppongi Express）　Photo: Bioracer</figcaption></figure><h2 class="wp-block-cyv-heading-block clearfix sentence komidashi cyc-heading-text wp-block-cyc-heading-common wp-block-cyc-heading-block-1 wp-block-cyc-heading-block-1-0b8874fe-c93a-4574-8e3d-b3d9f0bfcabe">数式で求める抵抗値</h2>
-<p>　空気抵抗は近年、タイム削減の手段として大きく注目されています。実際にアワーレコードでも次々とタイムが塗り替えられていますが、これは空気抵抗の削減による部分が大きいと言われています。 空気抵抗と言われても、なかなかピンとはこないかもしれませんが、例えば風の強い日に、向かい風に向かって進むような状況を考えてみてください。これも空気抵抗です。</p>
-<p>　少し数学的に考えてみたいと思います。 空気抵抗の係数はCdAという形で表されます。これは、空気の流れの良さを表す空気抵抗係数Cdと、前面投影面積の係数Aの掛け算で表現されます。その空気抵抗係数を使って実際の空気抵抗を計算する式は次のようになります。空気抵抗 = 1/2 x 空気密度 x 速度の二乗 x 空気抵抗係数、そして、自転車が走るときの主な抵抗といえば、空気抵抗のほかに走行抵抗と勾配による抵抗もあるので、こちらも見てみます。</p>
-<div class="wp-block-cyc-box-block wp-block-cyc-box-common wp-block-cyc-box-block-1 wp-block-cyc-box-block-1-6eefc634-555f-42e1-a6ea-cc4729da13c0"><div class="textblockGreen cyc-box-common cyc-box-1 text-content">
-<p> 走行抵抗 = 転がり抵抗 x 重さ x 重力加速度</p>
-<p> 勾配抵抗 = 重さ x 重力加速度 x 勾配</p>
-</div></div>
-<p>　空気抵抗は速度が増す毎に二次関数として抵抗が増大します。走行抵抗は自転車＋体重で一定です。勾配抵抗は勾配が増える毎に増大していきますが、平地であれば無視できます。</p>
-<p>　スピードが速い局面なので平地であると仮定して、具体的な数値をあてはめてみると分かりますが、例えば、体重65kgの選手が時速40km（11.1m/s）で気温20℃の時は次のようになります。</p>
-<div class="wp-block-cyc-box-block wp-block-cyc-box-common wp-block-cyc-box-block-1 wp-block-cyc-box-block-1-7855fd9d-221e-460d-a751-fd18525236ca"><div class="textblockBlue cyc-box-common cyc-box-1 text-content">
-<p> 走行抵抗 　3.2N = 0.005 x 65kg x 9.81m/s^2</p>
-<p> 空気抵抗 　19.3N = 1/2 x 1.2 x 11.1 x 11.1 x 0.26</p>
-</div></div>
-<p>　こうしてみると86%の抵抗が、空気抵抗であることが分かります。さらにタイムトライアルやゴールスプリントなど、速度が速くなるとどうなるでしょう？ 時速50kmで30.1N（90%）、時速60kmで43.3N（93%）となり速度が速くなるごとに空気抵抗が大きく増えていきます。</p>
-<div class="wp-block-image"><figure class="alignright size-post_pic_5"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/bg02-280x373.jpg" alt class="wp-image-516187"><figcaption>風向きに対して正確に自転車をセットアップしていく　Photo: Masahiro FUKUDA</figcaption></figure></div>
-<p>　ちなみに、タイヤの転がり抵抗で0.005というのは少し悪い方に、空気抵抗0.26というのは良い方にハンデを与えているので、実際にはこれ以上の差が出ることもよくあります。</p>
-<p>　そこで、例えば時速40kmの時の空気抵抗係数が0.26から0.30に大きくなると、抵抗はどれぐらい増えるかというと、19.3Nから22.2Nとなり15%も増えてしまいます。</p>
-<p>　実はこれ、計算式を見るとわかるのですが、単純に0.30÷0.26として計算することができます。 逆にタイヤの転がり抵抗係数が0.005から0.004に下がったとしても1.3%しか影響が無いことも分かりますね。</p>
-<p>　ということで、ようやく本題に戻ります。今回取材をしたBike Valleyは、ベルギー政府が支援して建築された空気抵抗を測定するための風洞施設です。 大雑把に風洞の仕組みを説明すると、筒（洞）の中に秤を用意して空気抵抗を測定したいものをその上に置き、決まった速度になるように風を流すと秤に変化が出るので、その数値から空気抵抗を計算するというものです。</p>
-<p>　制限としては、秤が敏感に反応してしまうために実際のペダリングなどを行なうことはできないため、動き全体を通しての空気抵抗は計測できません。</p>
-<figure class="wp-block-image size-post_pic_1"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/bg07-600x400.jpg" alt class="wp-image-516192"><figcaption>時速50kmの風圧を再現　Photo: Masahiro FUKUDA</figcaption></figure><p>　それでは何を計測するのかと言えば、一番わかりやすいのは機材の差です。 例えば、同じバイク、同じウェア、同じポジションであるときにヘルメットだけを交換してみると、ヘルメットの違いが分かります。計測のたびに同じバイクやウェアを揃えることは簡単にできますが、同じポジションを維持するのはプロライダーといえども難しいことです。</p>
-<h2 class="wp-block-cyv-heading-block clearfix sentence komidashi cyc-heading-text wp-block-cyc-heading-common wp-block-cyc-heading-block-1 wp-block-cyc-heading-block-1-1cc9e512-706b-41c4-bd64-d617d14749f6">意味あるウェアの縦溝</h2>
-<p>　そこでBike Valleyでは、前回紹介したBioracer Aeroを上手く活用しています。 Bioracer Aero自体は、前面投影面積を計算するための仕組みですが、これを横方向から撮影して同じポジションをとるためのガイドに利用します。まず最初の計測のときに決めたポジションでライダーの輪郭をとります。この映像は風洞に設置されたプロジェクターにより、前輪の前あたりに表示されるため、ライダーは自分の映像を確認しながらポジションを再現することが簡単にできるようになっていました。</p>
-<div class="wp-block-image"><figure class="alignright size-post_pic_5"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/bg04-373x249.jpg" alt class="wp-image-516189"><figcaption>リアルタイムで投影されるフォームを確認しながら計測を行う　Photo: Masahiro FUKUDA</figcaption></figure></div>
-<p>　とはいえ、今回のテストでは時速50kmを再現するため風圧としてもかなりものです。実際に被験者となった高岡亮寛（Roppongi Express）に聞いたところ、頭の位置を維持し続けているのは、それなりに大変だったようです。</p>
-<p>　この計測ですが、一項目につき90秒ずつの計測を行ないます。 90秒間の値の平均値を元に空気抵抗を計算していくわけですが、最初と最後の何秒かずつはデータは使わずにデータが安定している間の時間を使います。このあたりには、計測に関するノウハウが関係してくるようです。</p>
-<p>　実際にベルギーのメーカーでは、この施設を利用して、各種の製品開発も行なっています。 例えばBioracer社の製品であれば、時速50kmの時に必要なパワーが、以前のトップレンジモデルでは357Wであるのに対して、最新のものでは350Wとなっていました。こういった差はロードレース競技でもゴールスプリントなどで大きく影響しますが、さらに速度域の速い、タイムトライアル競技やトラック競技では勝敗を分ける差となって表れます。</p>
-<div class="wp-block-image"><figure class="alignleft size-post_pic_5"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/bg05-280x373.jpg" alt class="wp-image-516190"><figcaption>製品ごとに異なる数値が計測される　Photo: Masahiro FUKUDA</figcaption></figure></div>
-<p>　この数ワットを生み出すために、メーカーは様々な工夫をしています。例えば、最近ではよく見かけるようになってきた、袖口の縦のライン。これは前面側で意図的に空気の流れを乱すためにつけられています。速度が上がった場合、身体の表面を流れる空気も速くなるかというと、そうではありません。実際には境界層と呼ばれる空気の流れが遅くなる層があります。</p>
-<p>　川の真ん中に石があった場合に、その石の周りだけ水が流れずに滞留しているのを見たことは無いでしょうか？それもまた境界層です。空気の流れを考えた場合、この境界層が抵抗となって空気抵抗を増大させます。そこで境界層を薄くするため、袖に溝を作ってわざと空気の流れを乱して境界層を薄くするのです。 ゴルフボールのディンプル加工なども、これと同じ理由によるものですが、自転車の上のライダーとゴルフボールでは大きな差があります。それはゴルフボールは回転しながら飛びますが、ライダーは回転しないということです。 そのため360度に渡って溝を作るよりは、背面は滑らかな表面で空気の流れをよくしたほうが空気抵抗は減ります。</p>
-<p>　よくあるのは飛行機の翼のような翼断面構造ですが、UCI（国際自転車競技連合）のルールでフレームを完全な翼断面にはできないのでカムテール構造が使われます。ジャージ側で工夫する場合、翼断面はもちろんカムテール構造なども採用できません。 そこで可能な限り表面がなめらかな構造にして空気の流れをよくするのです。そのためにジャージメーカーは、生地の素材や使う位置なども工夫する必要が出てきます。今回は時速50kmでの計測ということで、この記事をご覧の皆さんには、あまり現実味がなく感じているかもしれません。</p>
-<figure class="wp-block-image size-post_pic_1"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/bg03-600x400.jpg" alt class="wp-image-516188"><figcaption>小さな工夫から空気抵抗の削減も可能　Photo: Masahiro FUKUDA</figcaption></figure><p>　しかし、実際には時速30kmも出せば、空気抵抗は大きく影響してきますので、最新の機材でなかったとしても空気抵抗を減らすための努力をしてもよいと思います。 例えば、ブカブカのジャージを着ているのであれば、ピタっとしたものやセミワンピースなどに変える。ヒルクライムでなければ穴が開いているものではなくエアロヘルメットを使う、そしてポジションを見直す。一つ一つの影響は小さくても、まとめていくと大きな空気抵抗となって速度に影響してきます。</p>
-<p>　今回は風洞までのリポートですが、実際にプロチームでは、風洞のデータを元にしてバンクで計測を行ない、さらに公道でテストを行なうそうです。 こういった順番で行なうのは、計測にかかるコストと時間問題からです。前面投影面積だけでは空気の流れは分かりませんし、風洞はコストが高いために時間が限られており、ペダリングも行なうことはできません。トラック競技であればバンクでの計測で終了ですが、タイムトライアル競技に対しては勾配や風の変化などでの計測も必要となってくるためです。</p>
-<p>　3回に渡ってお届けしましたがいかがだったでしょうか？ 空気抵抗を減らすのはアイデア次第です。画期的なアイデアを思いついた方は、ぜひBike Valleyでの測定にも挑戦してください。Webから申し込みをすることで誰でも利用が可能だそうです。</p>
-<div class="profileBlue" style="min-height: 100px;"> <img src="https://cdn.cyclist.sanspo.com/photos/2020/02/fmp.jpg" title="福田昌弘" alt="福田昌弘"><span class="bold">福田昌弘</span><p>自転車競技コーチで、「ハムスタースピン代表」。現職はソフトウェアエンジニアだが、身体の動きに興味を持ったことがきっかけで、医学部博士課程にも進学。海外の自転車学会でも積極的に発表を行っている。社会人チーム「Roppongi Express」で趣味のレースも楽しんでいる。2018年の全日本マスターズTTでは3位、トライアスロンでも表彰台に上るなど、各方面で積極的に活動している。</p>
-</div>
-</div>
-]]></description>
-			<pubDate>Wed, 11 Mar 2020 11:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>バレットが『ぴよぴよ貧脚レーシング』のパッカブルを新発売　ポケパーカーも再販</title>
 			<link>https://cyclist.sanspo.com/516462</link>
 			<description><![CDATA[<div class="description clearfix">
@@ -716,6 +669,42 @@ disqus_config_custom.call(this);};(function(){var dsq=document.createElement('sc
 </div>
 ]]></description>
 			<pubDate>Sat, 14 Mar 2020 19:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>キンタナが“最終日”山頂ゴールを独走で制す　首位シャフマンは区間6位でまとめ総合優勝</title>
+			<link>https://cyclist.sanspo.com/516392</link>
+			<description><![CDATA[<div class="description clearfix">
+<p>　フランスで開催のUCIワールドツアー、パリ〜ニースは3月14日、最終となる第7ステージが行われ、ナイロ・キンタナ（コロンビア、アルケア・サムシック）が山頂フィニッシュを独走で制してステージ優勝した。前日まで総合首位につけていたマキシミリアン・シャフマン（ドイツ、ボーラ・ハンスグローエ）は6位でゴールし、首位の座をキープ。今大会は当初8ステージ争われる予定だったが、13日、新型コロナウイルスの影響を考え主催者側が第7ステージで大会を打ち切るとしたため、シャフマンが個人総合優勝となった。</p>
+<div class="photoPart600"><figure class="p600"><a href="https://cyclist.sanspo.com/?attachment_id=516918" rel="attachment wp-att-516918"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/p1-1-600x400.jpg" alt class="size-post_pic_1 wp-image-516918"></a><span class="caption">移籍後、ワールドツアー初優勝を飾ったキンタナ　Photo: Yuzuru SUNADA</span></figure></div>
+<p class="clearfix sentence komidashi">アラフィリップ、デヘントらが入る強力な逃げ</p>
+<p>　第7ステージはニースからヴァルドゥブロール・ラ・コルミアーヌまでの166.5km。レース前半に1級山岳と2つの2級山岳をこなした後にも上りや下りが続き、最後は距離16.3km、平均勾配6.3%の1級山岳にフィニッシュする。今大会のクイーンステージであり、最終ステージ。この日で全てが決まる。</p>
+<p>　スタート後、アントニー・ペレス（フランス、コフィディス）やブノワ・コヌフロワ（フランス、アージェードゥーゼール ラモンディアール）が飛び出すも逃げは決まらず。</p>
+<figure class="layoutR p373"><a href="https://cyclist.sanspo.com/?attachment_id=516919" rel="attachment wp-att-516919"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/p3-1-373x249.jpg" alt class="size-post_pic_5 wp-image-516919"></a><span class="caption">逃げ切ってもおかしくない豪華な逃げメンバー　Photo: Yuzuru SUNADA</span></figure><p>　さらにキンタナやティボー・ピノ（フランス、グルパマ・エフデジ）、ジュリアン・アラフィリップ（フランス、ドゥクーニンク・クイックステップ）、ロマン・バルデ（フランス、アージェードゥーゼール ラモンディアール）、トーマス・デヘント（ベルギー、ロット・スーダル）といった、有力選手によるアタック合戦が繰り広げられる。</p>
+<p>　結局、逃げに入れたのは6人。メンバーは、アラフィリップ、デヘント、ペレス、山岳賞争いで首位に立つニコラ・エデ（フランス、コフィディス）、オレリアン・パレパントル（フランス、アージェードゥーゼール ラモンディアール）、アルベルト・ベッティオル（イタリア、EFプロサイクリング）と強力な逃げとなった。</p>
+<div class="photoPart600"><figure class="p600"><a href="https://cyclist.sanspo.com/?attachment_id=516922" rel="attachment wp-att-516922"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/p4-1-600x400.jpg" alt class="size-post_pic_1 wp-image-516922"></a><span class="caption">総合ジャンプアップを狙ったニバリ　Photo: Yuzuru SUNADA</span></figure></div>
+<p>　レースはこの6人の逃げとメイン集団でしばらく展開される。残り132km、87km、74.5kmのカテゴリー山岳を通過する際も、この構図だった。その山岳ポイントはエデが全て1位通過。護衛役でチームメイトのペレスとともに、山岳賞ジャージキープのミッションを遂行した。</p>
+<p>　一方メイン集団は、トム・スクーリー（ニュージーランド、EFプロサイクリング）やパトリック・コンラッド（オーストリア、ボーラ・ハンスグローエ）が牽引。タイム差は3分程でコントロールされていた。</p>
+<p class="clearfix sentence komidashi">勝負どころに向け、逃げに迫る集団</p>
+<p>　ゴールまで残り44km、ペレスが逃げから脱落する。その後も逃げ5人とメイン集団という形は変わらなかったが、残り35kmで2分30秒、25kmで2分、20kmで1分30秒とボーラ・ハンスグローエのアシスト選手が牽引するメイン集団が徐々に逃げとのタイム差を縮めていく。もちろんシャフマンはそれに守られるように走っていた。</p>
+<figure class="layoutR p373"><a href="https://cyclist.sanspo.com/?attachment_id=516925" rel="attachment wp-att-516925"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/p5-1-373x249.jpg" alt class="size-post_pic_5 wp-image-516925"></a><span class="caption">地元フランスの期待を背負って走ったピノ　Photo: Yuzuru SUNADA</span></figure><p>　集団は勝負に備え脚をためながらも前とのタイム差をを絶妙にコントロールする。前を行くのはアラフィリップやデヘントがいる強力な逃げ、油断はできない。</p>
+<p>　残り15km、最後の1級山岳を前に、逃げ集団、メイン集団共にそれぞれ動きがでる。逃げからはエデ、ベッティオール、<br> 、パレパントル、アラフィリップが脱落し先頭はデヘント一人に。また、メイン集団ではマイケル・マシューズ（オーストラリア、チーム サンウェブ）といった仕事を終えた選手が後ろに下がっていった。また、この頃、そのメイン集団はキンタナのチームメイトであるウィネル・アナコナ（コロンビア、アルケア・サムシック）、ダイエル・キンタナ（コロンビア、アルケア・サムシック）が牽引していた。</p>
+<p>　集団に残った総合勢も大きく動く。アナコナ、続いて、ギヨーム・マルタン（フランス、コフィディス）が飛び出す。だが、この2人はその後ろから来た、リッチー・ポート（オーストラリア）、セルジオ・イギータ（コロンビア、EFプロサイクリング）、ティシュ・ベノート （ベルギー、チーム サンウェブ）、ニバリ、そしてシャフマンら、約10人の総合系の選手に飲み込まれる。やはり勝負は総合エースらの戦いに絞られた。</p>
+<div class="photoPart600"><figure class="p600"><a href="https://cyclist.sanspo.com/?attachment_id=516926" rel="attachment wp-att-516926"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/p6-600x400.jpg" alt class="size-post_pic_1 wp-image-516926"></a><span class="caption">前日は落車のアクシデントに見舞われたが、見事総合優勝を果たした　Photo: Yuzuru SUNADA</span></figure></div>
+<p>　残り7km、デヘントとこの集団のタイム差は約1分半となる。ここで一早く仕掛けたのはバルデだった。しかし、バルデはあえなく吸収され勝負は振り出しに戻る。その後決定的な動きとなったのが、残り3.9kmでのキンタナのアタックだった。500m程走った後にデヘントを捕まえ、ついに単独で先頭に躍り出る。</p>
+<p>　一方、後方ではニバリが動く。その動きにはピノ、シャフマン、ベノート、イギータが反応。総合勢によるガチンコ勝負の展開となる。攻撃は収まらず、残り2.2kmではピノ、1.2kmではボーナスタイムも獲得して逆転優勝を狙うベノートがアタックをする。先頭を走るキンタナが総合での逆転は難しいため、追走グループ内での総合争いにシフトした形だ。ペースの落ちなかったキンタナはそのまま2位以下に差を付け、独走でステージ優勝を手にした。</p>
+<div class="photoPart600"><figure class="p600"><a href="https://cyclist.sanspo.com/?attachment_id=516928" rel="attachment wp-att-516928"><img src="https://cdn.cyclist.sanspo.com/photos/2020/03/p7-600x400.jpg" alt class="size-post_pic_1 wp-image-516928"></a><span class="caption">チーム総合はサンウェブが獲得。一人一人が仕事を全うした　Photo: Yuzuru SUNADA</span></figure></div>
+<p>　2位は最後単独で抜け出したベノート、3位はピノの順でゴール。シャフマンはキンタナから遅れること58秒、ベノートとは12秒差でゴールした。</p>
+<p>　ベノートはボーナスタイムも獲得したが、前日までのシャフマンとのタイム差36秒を逆転とはならず。シャフマンが見事リーダージャージをキープし、今大会の総合優勝を飾った。個人総合逆転はならなかったベノートだが、ポイントではシャフマンを逆転し、総合ポイント賞を獲得した。</p>
+<p>　新型コロナウイルスの影響で、欠場や途中リタイア、ステージのキャンセルなど、例年とは異なるものとなったパリ～ニース。今大会以外にも延期、キャンセルとなったレースが続出するなど、サイクルロードレース界にも大きな影響を及ぼしている。いち早くこのウイルスが収束し、笑顔でサイクルロードレースを楽しめる日が来ることを願う。</p>
+<p class="clearfix sentence"><span class="small"><span class="bold">第7ステージ結果</span><br> 1	ナイロ・キンタナ（コロンビア、アルケア・サムシック）	4時間27分1秒<br> 2	ティシュ・ベノート （ベルギー、チーム サンウェブ）	+46秒<br> 3	ティボー・ピノ（フランス、グルパマ・エフデジ）	+56秒<br> 4	セルジオ・イギータ（コロンビア、EFプロサイクリング）<br> 5	ヴィンチェンツォ・ニバリ（イタリア、トレック・セガフレード）<br> 6	マキシミリアン・シャフマン（ドイツ、ボーラ・ハンスグローエ）	+58秒<br> 7	ギヨーム・マルタン（フランス、コフィディス）	+1分19秒<br> 8	タネル・カンゲルト（エストニア、EFプロサイクリング）	+1分22秒<br> 9	ロマン・バルデ（フランス、アージェードゥーゼール ラモンディアール）	+1分32秒<br> 10	ルディ・モラール（フランス、グルパマ・エフデジ）<br> </span></p>
+<p class="clearfix sentence"><span class="small"><span class="bold" style="color: #eb0;">個人総合</span><br> 1	マキシミリアン・シャフマン（ドイツ、ボーラ・ハンスグローエ）	 27時間14分23秒<br> 2	ティシュ・ベノート （ベルギー、チーム サンウェブ）	+18秒<br> 3	セルジオ・イギータ（コロンビア、EFプロサイクリング）	+59秒<br> 4	ヴィンチェンツォ・ニバリ（イタリア、トレック・セガフレード）	+1分16秒<br> 5	ティボー・ピノ（フランス、グルパマ・エフデジ）	+1分24秒<br> 6	ナイロ・キンタナ（コロンビア、アルケア・サムシック）	+1分30秒<br> 7	ルディ・モラール（フランス、グルパマ・エフデジ）	+2分3秒<br> 8	タネル・カンゲルト（エストニア、EFプロサイクリング）	+2分16秒<br> 9	フェリックス・グロスチャートナー（オーストリア、ボーラ・ハンスグローエ）	+3分39秒<br> 10	セーアン・クラーウアナスン（デンマーク、チーム サンウェブ）	+4分36秒<br> </span></p>
+<p class="clearfix sentence"><span class="small"><span class="bold" style="color: #2c4;">ポイント賞</span><br> 1	ティシュ・ベノート （ベルギー、チーム サンウェブ）	43 pts<br> 2	マキシミリアン・シャフマン（ドイツ、ボーラ・ハンスグローエ）	38 pts<br> 3	セルジオ・イギータ（コロンビア、EFプロサイクリング）	28 pts<br> </span></p>
+<p class="clearfix sentence"><span class="small"><span class="bold" style="color: #f00;">山岳賞</span><br> 1	ニコラ・エデ（フランス、コフィディス）	53 pts<br> 2	ティシュ・ベノート （ベルギー、チーム サンウェブ）	19 pts<br> 3	トーマス・デヘント（ベルギー、ロット・スーダル）	18 pts<br> </span></p>
+<p class="clearfix sentence"><span class="small"><span class="bold" style="color: #999;">新人賞</span><br> 1	セルジオ・イギータ（コロンビア、EFプロサイクリング）	 27時間15分22秒<br> 2	オレリアン・パレパントル（フランス、アージェードゥーゼール ラモンディアール）	+15分28秒<br> 3	カスパー・アスグリーン（デンマーク、ドゥクーニンク・クイックステップ）	+25分57秒<br> </span></p>
+<p class="clearfix sentence"><span class="small"><span class="bold" style="color: #b80;">チーム総合</span><br> 1	チーム サンウェブ	 81時間52分39秒<br> 2	グルパマ・エフデジ	+3分25秒<br> 3	トレック・セガフレード	+9分19秒<br> </span></p>
+</div>
+]]></description>
+			<pubDate>Sun, 15 Mar 2020 06:00:16 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
