@@ -106,5 +106,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1240/948/1.jpg"></div></div><span class="caption">ビル・ゲイツ氏(2008年撮影)</span></div></div></div></div><p>　Microsoftは13日(現地時間)、同社の創業者であるビル・ゲイツ氏が取締役会から退任すると発表した。退任後も同社のテクノロジー・アドバイザーを務める。</p><p>　同氏は2008年6月27日に、Bill &amp; Melinda Gates財団での仕事の増加により、Microsoftでの仕事は非常勤扱いとなった。また、2012年2月4日までMicrosoftで取締役会長を務めていた。</p><p>　同氏は今後、財団においてグローバルの健康、開発、教育といった問題を解決する慈善活動に注力する。</p><p>　これにより、Microsoftの取締役会は今後12人のメンバーで構成される。</p></div></div>]]></description>
 			<pubDate>Sat, 14 Mar 2020 18:06:49 +0900</pubDate>
 		</item>
+		<item>
+			<title>自宅のGPUで新型コロナウイルス治療に向けた解析が可能に </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1240957.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1240/957/1_o.jpg"></div></div></div></div></div></div><p>　余っているCPUやGPUのリソースを使い、難病の解析に役立てる分散コンピューティングプロジェクトの「Folding@home」において、新型コロナウイルス(SARS-CoV-2)を解析するプログラムが提供開始となった。</p><p>　現時点ではGPUを使った演算のみが可能だが、CPUに関しても近日中に提供開始する予定としている。</p><p>　現在Folding@homeでコロナウイルスについて専門に解析しているプログラムは下記のとおり。</p><p>11741:SARS-CoV-2受容体結合ドメインとヒト受容体ACE2の複合体<br>11746:上記11741の代替構造<br>11742:SARS-CoV-2プロテアーゼと阻害剤の複合体<br>11743:SARS-CoV-2プロテアーゼに対する潜在的な創薬標的<br>11744:SARS-CoV S230抗体によって捕獲されたSARS-CoV受容体結合ドメイン<br>11745:SARS-CoV S230抗体によって捕獲されたSARS-CoV-2に変異したSARS-CoV受容体ドメイン</p><p>　米NVIDIAのTwitterで、このプロジェクトに参加するよう呼びかけている。</p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">PC Gamers, let’s put those GPUs to work.<br><br>Join us and our friends at<a href="https://twitter.com/OfficialPCMR?ref_src=twsrc%5Etfw">@OfficialPCMR</a>in supporting folding@home and donating unused GPU computing power to fight against COVID-19!<br><br>Learn more →<a href="https://t.co/EQE4u7xTZT">https://t.co/EQE4u7xTZT</a><a href="https://t.co/uO0ZCq8PEv">pic.twitter.com/uO0ZCq8PEv</a></p>— NVIDIA GeForce (@NVIDIAGeForce)<a href="https://twitter.com/NVIDIAGeForce/status/1238496311776653312?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div>]]></description>
+			<pubDate>Sat, 14 Mar 2020 21:42:46 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
