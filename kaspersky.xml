@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>3匹の子豚とサイバーセキュリティ</title>
-			<link>https://blog.kaspersky.co.jp/three-little-pigs/27776/</link>
-			<description><![CDATA[昔話の語り部たちが情報セキュリティのエキスパートであることの、さらなる証拠。]]></description>
-			<pubDate>Fri, 06 Mar 2020 01:00:11 +0000</pubDate>
-		</item>
-		<item>
 			<title>新型コロナウイルス（COVID-19）とサイバー犯罪、そしてテレワーク時のセキュリティ</title>
 			<link>https://blog.kaspersky.co.jp/coronavirus-update/27804/</link>
 			<description><![CDATA[新型コロナウイルス（COVID-19）の話題に乗じたサイバー犯罪。権威ある公的機関をかたる新たな事例が出てきています。また、テレワーク時のセキュリティについても配慮が必要です。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/rsa2020-security-awareness-nypd/27831/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rsa2020-security-awareness-nypd</link>
 			<description><![CDATA[RSA Conference 2020で、ニューヨーク市警のCyber Intelligence and Investigationsの元責任者が、署員のサイバーセキュリティ意識向上のために同警察がとった方法について講演しました。]]></description>
 			<pubDate>Wed, 18 Mar 2020 01:00:15 +0000</pubDate>
+		</item>
+		<item>
+			<title>ディープフェイクの影響を軽減する方法</title>
+			<link>https://blog.kaspersky.co.jp/rsa2020-deepfakes-mitigation/27870/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rsa2020-deepfakes-mitigation</link>
+			<description><![CDATA[ディープフェイクが広がりを見せ、いっそう本物らしく見えるようになっています。これに対し、企業はどのような防御策を取ることができるのでしょうか？]]></description>
+			<pubDate>Fri, 20 Mar 2020 01:00:11 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
