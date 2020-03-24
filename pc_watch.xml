@@ -112,5 +112,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1242/598/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は23日(米国時間)、Adobe Type Manager Libraryの脆弱性に関する情報(ADV200006)を公開した。</p><p>　発見された脆弱性は、Adobe Type Manager LibraryがAdobe Type 1 PostScript形式のフォントを不適切に処理してしまうもの。細工のされたドキュメントや、Windowsのプレビューウィンドウを通じた誘導により、リモートコード実行の恐れがある。対象となるOSは、Windows 7以降、Windows Server 2008以降。</p><p>　同社は23日時点で、この脆弱性を悪用した限定的な標的型攻撃をすでに確認しており、修正プログラムを準備中。アップデートが配布されるまでは影響を緩和する回避策の適用を勧めている。具体的には、エクスプローラのプレビューウィンドウおよび詳細ウィンドウ機能やWebClientサービスの無効化、ATMFD.dllのファイル名変更などが挙げられている。</p></div></div>]]></description>
 			<pubDate>Tue, 24 Mar 2020 13:57:39 +0900</pubDate>
 		</item>
+		<item>
+			<title>SB C&amp;S、MRヘッドセット「HoloLens 2」を取り扱い開始 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1242610.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1242/610/01.jpg"></div></div><span class="caption">HoloLens 2</span></div></div></div></div><p>　<a href="https://cas.softbank.jp/" class="n" target="_blank">SB C&amp;S株式会社</a>は、Microsoft製MRヘッドセット「HoloLens 2」の取り扱いを開始した。税別価格は383,800円。</p><p>　HoloLens 2は、シースルーのレンズに映像や画像などを投影し、視覚的に現実世界の上に重ねあわせて表示/操作できるヘッドセット。従来モデルから視野角が2倍に広がり、Windows Hello対応虹彩認証センサーやアイトラッキング機能を新たに搭載。そのほかハンドトラッキングや音声認識機能なども備える。</p><p>　おもな仕様は、Snapdragon 850、LPDDR4x 4GBメモリ、64GB UFS 2.1、IEEE 802.11ac対応無線LAN、Bluetooth 5.0などを装備。重量は566g。</p></div></div>]]></description>
+			<pubDate>Tue, 24 Mar 2020 14:36:35 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
