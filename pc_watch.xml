@@ -5,36 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>新型コロナの影響で5月から月次セキュリティ更新以外のWindows 10アップデートが一時停止 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1242844.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1242/844/01.png"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">米Microsoft</a>は24日(米国時間)、新型コロナウイルスによる影響で、2020年5月より月次セキュリティ更新以外のWindows 10アップデートを一時停止することを発表した。</p><p>　これは新型コロナウイルスの感染拡大に伴い、同社の業務に影響が出ているためで、2020年5月からサポート対象の全Windowsクライアントおよびサーバー製品(Windows 10 1909以降/Windows Server 2008 SP2)の非セキュリティリリース(CおよびDアップデート)を一時停止する。</p><p>　毎月の定例セキュリティアップデート(Bリリース)は計画どおり更新が継続され、顧客の保護と生産性の維持は保たれるとしている。</p></div></div>]]></description>
-			<pubDate>Wed, 25 Mar 2020 12:16:54 +0900</pubDate>
-		</item>
-		<item>
-			<title>Adobe Creative Cloudで任意のファイルが削除できる脆弱性が修正 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1242857.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1242/857/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.adobe.com/" class="n" target="_blank">米Adobe</a>は24日、Windows版「Adobe Creative Cloud」のデスクトップアプリケーションのバージョン5.0以前に存在する脆弱性「Time-of-check to time-of-use race condition」(共通脆弱性識別子:CVE-2020-3808)を修正するパッチを緊急でリリースした。</p><p>　この脆弱性は、Time-of-check to time-of-use(TOCTOU)と呼ばれるソフトウェアのバグを利用したもので、いわば(セキュリティや権限などの)チェックが開始されたあとに、そのチェックが終わるまでに変更を加えることが可能になってしまうバグ。これにより、任意のファイルが削除される可能性がある。</p><p>　Adobeではこの脆弱性の危険度を最高のCriticalとして評価しており、すでに修正パッチを配布している。脆弱性の発見/修正には、中国の華南理工大学のJiadong Lu氏、およびQihoo 360 Core SecurityのZhiniang Peng氏が協力した。</p></div></div>]]></description>
-			<pubDate>Wed, 25 Mar 2020 12:23:53 +0900</pubDate>
-		</item>
-		<item>
-			<title>Qualcomm、近日中にゲーミング向けSoCを搭載したスマホにGPUドライバを配布へ ～まずはPixel 4とGalaxyシリーズから</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1242860.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1242/860/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.qualcomm.com/" class="n" target="_blank">Qualcomm Technologies</a>は23日、一部のスマートフォンを対象にGPUドライバのアップデートを近日中にPlayストアで配信することを発表した。</p><p>　アップデート可能なGPUドライバは「Qualcomm Snapdragon Elite Gaming」の特徴として発表されていたもので、PCと同様に頻繁なGPUドライバの更新で新機能や最適化を得られるとしていた。</p><p>　QualcommではGoogleと共同で、「Android GPU Inspector」と称するAdreno GPUなどのAndroid GPUをサポートしたグラフィックスプロファイリングツールを作成。ゲーム開発者はAdreno GPUでこれまでにない詳細なレベルでゲームを分析し、ゲームを最適化することが可能になったという。最適化はアプリに組み込むだけでなく、GoogleおよびQualcommにフィードバックを提供することでAdreno GPUドライバの強化に使われる。また開発者は正式リリース前のベータ版ドライバを利用可能で、最適化を試すことができる。</p><p>　Googleでは、Android GPU InspectorとPixel 4 XLを使ってゲーム開発元と協力し、ゲーム中のGPU使用率を40%節約できる最適化の余地を発見し、最適化によってフレームレートの向上とバッテリ寿命の延長を実現したとする。</p><p>　今回配信対象となっているのはGoogleのPixel 4およびPixel 4 XL、SamsungのGalaxy Note 10およびSamsung Galaxy S10などで、最終的に最適化されたドライバはGoogle Playストア経由で配信され、ユーザーはアプリと同じようにAdreno GPUドライバを更新できる。対象機種は今後拡大予定としている。</p></div></div>]]></description>
-			<pubDate>Wed, 25 Mar 2020 12:32:17 +0900</pubDate>
-		</item>
-		<item>
-			<title>MSI、6コアCPU搭載の15.6型ゲーミングノートとクリエイター向けノート </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1242826.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1242/826/1.jpg"></div></div><span class="caption">GF65 Thin</span></div></div></div></div><p>　<a href="https://jp.msi.com/" class="n" target="_blank">エムエスアイコンピュータージャパン株式会社</a>(MSI)は、6コアCPUを搭載した15.6型ゲーミングノート「GF65 Thin」と、クリエイター向け15.6型ノート「Prestige 15」のオンラインショップ限定版を27日より順次発売する。</p></div><div><h3 class="hdg-03"><span>GF65 Thin</span></h3><p>　GF65 ThinはCPUにCore i7-9750H、GPUにGeForce RTX 2060を搭載し、デスクトップPC並みの性能を謳うモデル。3月27日発売、価格はオープンプライスで、店頭予想価格は16万円前後の見込み。</p><p>　安定したゲームプレイのため、冷却システムのデザインを大幅に改良し、6本のヒートパイプと2基のファンを搭載した「Cooler Boost 5」により、長時間ゲームプレイによる発熱での性能低下を防止。その一方で、厚さを21.7mm、重量を1.86kgに抑え、持ち運びも可能とした。</p><p>　そのほかのおもな仕様は、メモリ16GB、チップセットにIntel HM370、ストレージに512GB NVMe SSD、ディスプレイに1,920×1,080ドット表示/120Hz対応の非光沢15.6型液晶、OSにWindows 10 Homeなどを搭載する。</p><p>　インターフェイスは、USB 3.0×4(うちType-Cが2基)、HDMI出力、IEEE 802.11ac対応無線LAN、Bluetooth 5、音声入出力などを搭載する。</p><p>　バッテリは3セルリチウムイオン。本体サイズは359×254×21.7mm(幅×奥行き×高さ)。</p></div><div><h3 class="hdg-03"><span>Prestige 15</span></h3><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1242/826/2.jpg"></div></div><span class="caption">Prestige 15</span></div></div></div></div><p>　Prestige 15はフォトグラファーやYouTuber向けのモデル。4月3日発売、価格はオープンプライスで、直販価格は20万円前後の見込み。</p><p>　こちらはCPUにCore i7-10710U、GPUにGeForce GTX 1650 Max-Qを搭載し、3DグラフィックデザインやCGアニメーション作成なども可能。また、厚さを15.9mm、重量を1.6kgに抑え、持ち運びに好適とした。タッチパッド部に指紋センサーを備えるほか、Thunderbolt 3を備えるのも特徴。</p><p>　そのほかの仕様は、メモリ32GB、ストレージに512GB NVMe SSD、ディスプレイに1,920×1,080ドット表示対応15.6型液晶、OSにWindows 10 Proを搭載する。</p><p>　インターフェイスは、Thunderbolt 3×2、microSDカードリーダ、USB 3.1×2、HDMI出力、Wi-Fi 6、Bluetooth 5.1、音声入出力などを搭載する。</p><p>　バッテリは4セルリチウムイオン。本体サイズは356.8×233.7×15.9mm(同)。</p></div></div>]]></description>
-			<pubDate>Wed, 25 Mar 2020 12:34:19 +0900</pubDate>
-		</item>
-		<item>
-			<title>Apple、ユニバーサル購入やiCloud Drive共有に対応したiOS/iPadOS 13.4を公開 ～iPadOSではトラックパッドやライブ変換も新たにサポート</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1242874.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1242/874/01.jpg"></div></div><span class="caption">iPad ProとトラックパッドつきMagic Keyboard</span></div></div></div></div><p>　米<a href="https://www.apple.com/" class="n" target="_blank">Apple</a>は、iPhone向けOS「iOS 13.4」およびiPad向けOS「iPadOS 13.4」を公開した。</p><p>　iOS 13.4では、対応アプリを一度購入するとほかのプラットフォームでも使用できる「ユニバーサル購入」をサポート。「ファイル」アプリからiCloud Driveフォルダ共有が利用可能となり、アクセス制限のコントロールも行なえるようになった。</p><p>　9種類のミー文字ステッカーが新たに追加され、CarPlayダッシュボードでは、他社製ナビゲーションアプリの利用や通話情報の表示可能になり、メールアプリでは、スレッドビューに常時表示型のメッセージ操作コントロールが加えられている。</p><p>　そのほか、カメラを起動したさいにファインダーに黒い画面が表示される問題や、写真アプリがストレージを過剰に使用しているように見える問題などの不具合が修正されている。</p><p>　iPadOS 13.4では、18日に同社が発表したiPad用Magic Keyboardに加え、Magic Mouse 2やMagic Trackpad 2など、BluetoothやUSBで接続するマウスおよびトラックパッドを新たにサポート。iPad用Magic KeyboardおよびMagic Trackpad 2、Magic Mouse 2ではマルチタッチジェスチャ機能が利用可能になるほか、12.9インチiPad Pro(第3世代以降)と11インチiPad ProでもiPad用Magic Keyboardが使えるようなる。</p><p>　キーボード関連では「ライブ変換」機能が新たに搭載され、文字入力時に変換操作を行なわなくても適宜自動的に変換されるようになったほか、12.9インチiPad ProのオンスクリーンキーボードがSmart Keyboardと同じレイアウトに変更されている。</p><p>　そのほかiOSと同様に、ミー文字ステッカーの追加、ユニバーサル購入やiCloud Driveフォルダ共有の対応なども行なわれている。</p></div></div>]]></description>
-			<pubDate>Wed, 25 Mar 2020 14:21:58 +0900</pubDate>
-		</item>
-		<item>
 			<title>SIE、欧州でPlayStationのゲームダウンロード帯域を制限 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1242902.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1242/902/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.sie.com/" class="n" target="_blank">Sony Interactive Entertainment</a>は24日(米国時間)、PlayStationのゲームダウンロード時における帯域制限を欧州地域で実施する。</p><p>　新型コロナウイルスの感染拡大にともないネットワーク通信が増大しており、インターネット全体の帯域確保を目的として行なわれる措置。対象地域のプロバイダと協力して実施され、ゲームダウンロード時の帯域を制限する。なお、ゲームプレイには影響しないとしている。</p></div></div>]]></description>
@@ -105,6 +75,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1243160.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/160/1.jpg"></div></div><span class="caption">ROG Zenith II Extreme Alpha</span></div></div></div></div><p>　<a href="https://www.asus.com/jp/" class="n" target="_blank">ASUS</a>は、VRMを強化しオーバークロックに特化したTRX40マザーボード「ROG Zenith II Extreme Alpha」を27日に発売する。価格はオープンプライスで、税別店頭予想価格は83,500円前後の見込み。</p><p>　CPUの省電力モードから高負荷モードへの瞬時の移行に対応できるよう、VRMにチーム化されたInfineon製「TDA2149」による16のパワーステージを採用し、低遅延で電力供給が行なえるデザインを採用。1ステージあたり90Aの出力が可能で、従来モデルと比較してオーバークロック時の安定性を向上させた。</p><p>　また、VRMヒートシンク内にはカスタムのDelta Superfloファンを搭載し、60℃以上の温度になると動作。500W以上の持続的な消費電力を処理できる。加えて、チップセットヒートシンクにも60℃以上で動作するファンを備える。</p><p>　Ryzen Threadripperの64レーンのPCI Expressを活用すべく、最大20のPCI Expressデバイスを同時接続可能。このうちすべてのx16およびM.2スロットはPCIe 4.0で配線されている。また、10Gigabit Ethernet、およびWi-Fi6、USB 3.2 Gen2x2などを備える。</p><p>　このほか、Aura SyncによるRGBイルミネーション、SuperemeFXによる高音質オーディオなどが特徴。</p><p>　フォームファクタはExtended ATX。ソケットはsTRX4で、第3世代Ryzen Threadripperをサポート。チップセッはトTRX40。メモリはDDR4-4733×8で、最大256GBに対応。拡張スロットはPCI Express x16形状×4、M.2×5(うち2基はSO-DIMM.2拡張カード利用)、ストレージインターフェイスはSATA 6Gbps×8。</p><p>　背面インターフェイスはUSB 3.2 Gen2x2(Type-C)、USB 3.1×7(うち1基はType-C)、USB 3.0×4、Wi-Fi 6、Bluetooth 5.0、10Gigabit Ethernet、音声入出力などを搭載する。</p></div></div>]]></description>
 			<pubDate>Thu, 26 Mar 2020 13:23:46 +0900</pubDate>
+		</item>
+		<item>
+			<title>ルーターのDNSを乗っ取り、COVID-19感染情報と称してダウンロードさせ、パスワードを盗む悪質なマルウェアが横行中 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1243173.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/173/1_o.png"></div></div></div></div></div></div><p>　セキュリティ会社の<a href="https://www.bitdefender.com/" class="n" target="_blank">Bitdefender</a>は25日、ルーターのDNSを乗っ取り、ユーザーにマルウェアをダウンロードさせ、パスワードを盗む悪質なマルウェアが確認されたとし、注意を促している。</p><p>　このマルウェアはおもにLinksys製のルーターをターゲットにしており、その挙動は単純明快だ。まず、ルーターのDNS情報を書き換え、aws.amazon.comやgoo.gl、bit.lyといった14種類のドメインを、別のIPアドレスに仕向けるようにする。飛んだ先のIPでは、WHOを装って、「COVID-19感染状況に関するアプリ」だとしてユーザーにダウンロードさせる。</p><p>　そのページでのダウンロードのハイパーリンクは一見「https://google.com/chrome」に見えるが、実際にはon-clickイベントでTinyURLによって短くした隠しURLが開くようになっており、実態はbitbucketレポジトリで用意された「Oski」と呼ばれるインフォステラ(情報を盗むマルウェア)だ。</p><p>　Oskiは2019年末に登場した比較的新しいマルウェアで、ブラウザのSQLデータベースまたはWindowsのレジストリより、ユーザーのパスワードといった認証情報を盗み出すものとなっている。</p><p>　先日もCOVID-19感染マップを装ったマルウェアが発見されているが、こうしたユーザーの心理に悪用した手段には今後も気をつけたい。</p></div></div>]]></description>
+			<pubDate>Thu, 26 Mar 2020 14:02:01 +0900</pubDate>
+		</item>
+		<item>
+			<title>【.biz 】日立ソリューションズ、就業時間外になると自動でPCをシャットダウンするソフト </title>
+			<link>https://pc.watch.impress.co.jp/docs/biz/1243190.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/190/2.jpg"></div></div></div></div></div></div><p>　<a href="https://www.hitachi-solutions.co.jp/" class="n" target="_blank">株式会社日立ソリューションズ</a>は、時間外労働の上限規制対応を支援する「PC自動シャットダウンシステム Basic Edition」を27日より提供開始する。価格はオープンプライス。</p><p>　2019年4月の働き方改革関連法が施行され、時間外労働の上限規制が定められた。そして2020年4月からは中小企業に対しても本法が施行され、罰則規定が適用される。よって、中小企業においても時間外労働の適切な管理が必要となっている。</p><p>　日立ソリューションズは2017年2月より、PC自動シャットダウンシステムを提供しており、個人の判断による残業を抑制し、長時間労働の是正を支援してきたが、「専任IT部門がないので簡単に導入や運用ができるシステムがほしい」、「PCのシャットダウン時刻は固定でよいので深夜残業だけ抑止したい」といった声も出ている。</p><p>　PC自動シャットダウンシステム Basic Editionではこうした声に応え、特定時刻以降のPC利用抑止という基本機能に特化し、残業申請ワークフロー機能を省くことで、専用サーバーを不要とした。どうしてもPC利用の延長が必要な場合は、管理者が当日のみ有効なシャットダウン解除キーを発行し、社員がPC上で入力することで制限を解除できる仕組みとした。</p><p>　また、SQLやWebサーバーといった前提製品が不要で、管理者はスタートアップガイドや取扱説明書に沿って設定できるだけで導入/運用できるとしている。</p><p>　シャットダウン対象PCのOSはWindows 8.1および10、管理用PCのOSはWindows 10に対応する。なお、シャットダウン以外にもログオフや画面ロック、警告画面表示といった設定が選択可能。</p></div></div>]]></description>
+			<pubDate>Thu, 26 Mar 2020 14:31:07 +0900</pubDate>
+		</item>
+		<item>
+			<title>Samsung、業界初のEUV採用DRAMモジュールの出荷開始 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1243210.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/210/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.samsung.com/" class="n" target="_blank">Samsung Electronics</a>は25日(韓国時間)、業界初となるEUV(極紫外線)露光技術を採用したDDR4 DRAMモジュール100万枚の出荷を発表した。</p><p>　EUVを適用して製造されたのは10nmクラスプロセス(D1x)のDDR4モジュールで、DRAM生産にEUVを採用した初の事例であるとする。Samsungでは、EUVの採用によってマルチパターニングの工程を削減し、パターニングの精度、性能、歩留まりの向上、および開発時間短縮を可能にするとしている。</p><p>　次世代の第4世代10nmクラスプロセス(D1a)およびアドバンスド14nmクラスプロセスのDRAMにもEUVが適用される予定で、Samsungでは2021年よりD1aベースの16Gb DDR5およびLPDDR5メモリ量産を開始する見込み。需要増加を見越して、2020年下半期には韓国・平澤工場にて第2半導体製造ラインの稼働を開始する。</p></div></div>]]></description>
+			<pubDate>Thu, 26 Mar 2020 14:59:46 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
