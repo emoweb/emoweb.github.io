@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>暗号化されたPDFを読むことはできるのか</title>
-			<link>https://blog.kaspersky.co.jp/36c3-pdf-encryption/27784/</link>
-			<description><![CDATA[Chaos Communication Congressでの講演で、リサーチャーのファビアン・アイシング氏がPDFの暗号化強度の限界を示しました。]]></description>
-			<pubDate>Thu, 12 Mar 2020 01:00:43 +0000</pubDate>
-		</item>
-		<item>
 			<title>CVE-2020-0796：SMBプロトコルの新たな脆弱性</title>
 			<link>https://blog.kaspersky.co.jp/smb-311-vulnerability/27846/</link>
 			<description><![CDATA[SMBv3にリモートコード実行の脆弱性（CVE-2020-0796）が見つかりました。現時点で修正パッチがないため、回避策が提示されています。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/windows-adobe-type-manager-vulnerability/27938/</link>
 			<description><![CDATA[Adobe Type Manager Libraryの複数の脆弱性について、Microsoftよりセキュリティ アドバイザリが公開されました。すでにサイバー犯罪者による悪用が見られています。]]></description>
 			<pubDate>Wed, 25 Mar 2020 01:30:34 +0000</pubDate>
+		</item>
+		<item>
+			<title>ビジネスメール詐欺（BEC）に対処する方法</title>
+			<link>https://blog.kaspersky.co.jp/what-is-bec-attack/27902/</link>
+			<description><![CDATA[世界各地で、企業がビジネスメール詐欺の被害を受けています。ビジネスメール詐欺の危険性と、危険を抑える方法を説明します。]]></description>
+			<pubDate>Thu, 26 Mar 2020 01:00:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
