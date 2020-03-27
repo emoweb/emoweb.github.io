@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>CVE-2020-0796：SMBプロトコルの新たな脆弱性</title>
-			<link>https://blog.kaspersky.co.jp/smb-311-vulnerability/27846/</link>
-			<description><![CDATA[SMBv3にリモートコード実行の脆弱性（CVE-2020-0796）が見つかりました。現時点で修正パッチがないため、回避策が提示されています。]]></description>
-			<pubDate>Thu, 12 Mar 2020 10:00:50 +0000</pubDate>
-		</item>
-		<item>
 			<title>量子時代の暗号化：企業はどう備えるべきか</title>
 			<link>https://blog.kaspersky.co.jp/rsa-postquantum-howto/27806/</link>
 			<description><![CDATA[データ暗号化に対する取り組み方は、量子コンピューターによって変わろうとしています。それがいつなのかはまだ不明ですが、企業が準備を始めるべき時期は、今です。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/what-is-bec-attack/27902/</link>
 			<description><![CDATA[世界各地で、企業がビジネスメール詐欺の被害を受けています。ビジネスメール詐欺の危険性と、危険を抑える方法を説明します。]]></description>
 			<pubDate>Thu, 26 Mar 2020 01:00:30 +0000</pubDate>
+		</item>
+		<item>
+			<title>安全で快適なテレワークのために</title>
+			<link>https://blog.kaspersky.co.jp/remote-work-security/27942/</link>
+			<description><![CDATA[コロナウイルスの大流行により、多くの会社員が自宅に留まらざるを得なくなりました。あなたと会社をサイバー脅威から守る、テレワークのヒントです。]]></description>
+			<pubDate>Fri, 27 Mar 2020 11:00:26 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
