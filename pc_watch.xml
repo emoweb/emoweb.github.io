@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>【やじうまPC Watch】トイレを掃除するアバターロボット「ugo」</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1243759.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/759/01_o.jpg"></div></div><span class="caption">ugo</span></div></div></div></div><p>　<a href="https://mirarobotics.io/" class="n" target="_blank">Mira Robotics株式会社</a>は、ビルメンテナンス事業者の株式会社千代⽥と、⼤分県産業科学技術センターで、トイレ清掃業務を行なうアバターロボット「ugo」の公開実験を実施した。</p><p>　ugo(ユーゴー)は、２本のアームと高さ調整機能を使った遠隔業務をこなせるロボット。AIによる学習機能を備えており、同じ稼働条件下であれば自動モードでの運用も可能。アバターロボットと完全自動化ロボットのハイブリッド仕様を特徴とする。</p><p>　今回、「⼤分県アバター戦略推進事業」の一環として、ugoの実証実験の成果を披露し、実験⽤トイレを使って実際に掃除する様子を公開した。</p><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/uRCut_jiuew?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div></div></div></div></div><p>　同社は⼈⼿不⾜がますます深刻化するビルメンテナンス業界において、⼈材の有効活⽤、現場の効率化およびコスト削減などを実現する新たなサービスの創出を目指すとしている。</p></div></div>]]></description>
-			<pubDate>Mon, 30 Mar 2020 11:50:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Windows 10でプロキシ設定するとネット接続できない不具合 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1243777.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/777/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>が2月27日に配布したKB4535996を適用したWindows 10のビルド18362.693において、プロキシの設定を自動または手動で設定すると、ネットワークの変更が生じたいさいにネットワークに接続できなくなる不具合が発生している。</p><p>　この不具合はとくにVPNを使うさいに発生し、VPNに接続もしくは切断したタイミングで、タスクトレイのネットワーク接続ステータスインジケータ(NCSI)が「切断」もしくは「制限付きアクセス」の表示に変わり、WinHTTPもしくはWinlnetを使うアプリでインターネットに接続できなくなる。</p><p>　問題が発生するのは1709以降のすべてのWindows 10、Windows Server。影響を受けるアプリの例として、Teams、Office、Office 365、Outlook、Intelrnet Explorer 11および一部のバージョンのEdge。</p><p>　問題が発生した場合、デバイスをリセットすることで解決できるとしているが、同社は4月上旬にも問題を解決するアップデートを、Microsoftカタログで配布する。</p></div></div>]]></description>
@@ -99,6 +93,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1243963.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/963/1_o.jpg"></div></div><span class="caption">LEGOで再現されたVoodoo。おそらくDiamond MultimediaのMonster3Dがベースだろう</span></div></div></div></div><p>　LEGO製品化のアイデアを募っている公式サイトLEGO IDEASにおいて、いにしえの3dfxの3Dアクセラレータ「Voodoo」を再現させようという案が投稿された。</p><p>　1万人がサポートすれば、投稿者は「LEGO Fan designer」として認定され、LEGOのエキスパートのレビューを経たあと、デザイナーとのコラボによって製品化は実現されるのだが、30日現在1,626人のサポートが受けられている。プロジェクトの締め切りまであと596日残されている。</p><p>　3dfx Interactiveは米カリフォルニア州で1994年に設立された企業。1996年に最初のフラグシップ製品であるVoodooを投入し、PC上で3Dゲームをプレイするさいの必需品として一世を風靡した。3dfxはその後NVIDIAに買収された。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/963/2.jpg"></div></div><span class="caption">ちなみにこちらはMAXiブランドのVoodoo搭載カード「Gamer 3D」</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Mon, 30 Mar 2020 19:58:24 +0900</pubDate>
+		</item>
+		<item>
+			<title>【速報】Microsoft 365に個人/ファミリー向けプラン追加 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1243985.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/985/01.jpg"></div></div><span class="caption">Microsoft 365個人/ファミリー向けではFamily SafetyやTeamsなども提供</span></div></div></div></div><p>　米Microsoftは30日(現地時間)にデジタル会見を開催し、これまで企業向けにOffice＋Windows＋デバイス管理の機能をセットにして提供してきた「Microsoft 365」の個人/ファミリー版の提供を開始することを明らかにした。</p><p>　企業向けMicrosoft 365は、月額制でWindows 10とOffice 365を利用できるサービス。その個人/ファミリー版は、Office 365のOfficeアプリケーションである、OneDrive、Outlookといった機能に加えて、ファミリー向けのセキュリティ機能となるFamily Safety、Teamsのコンシューマ版などを後日提供開始するほか、Money in Excelなどの家庭向けの追加機能や機能拡張なども含む。</p><p>　現在も会見は続いており、詳細は別途レポートする予定だ。</p></div></div>]]></description>
+			<pubDate>Tue, 31 Mar 2020 00:36:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
