@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>COVID-19の影響でMicrosoftサービス利用率が最大88倍に、一時的な制限も </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1243815.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/815/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">米Microsoft</a>は28日(現地時間)、同社のクラウドサービスの現状に関する報告を行なった。</p><p>　新型コロナウイルス感染症(COVID-19)の影響で、一部地域ではすでに外出制限や距離を保ったコミュニケーションが推進されているが、これらの地域では同社サービスの利用率が775%に増えたという。</p><p>　また、コミュニケーションツールであるTeamsの利用も急増し、現在では1日の利用者が4,400万人を超え、毎日9億分に相当する会議や通話の議事録を作成している。</p><p>　さらに、Windowsの仮想デスクトップの利用率は3倍に増え、政府によるPower BIを使ったCOVID-19関連のダッシュボードの使用率もこの1週間で42%増加したとしている。</p><p>　これらの利用の急増に対し、大きなサービス障害は発生していないとしているが、問題が発生したユーザーに対し緩和オプションを提供する。また、すべてのユーザーに対して可能な限り最高な体験を提供できるよう、無料オファーや新規サブスクリプションに対して特定のリソースに制限を設けた。</p><p>　ただこれは一時的なソフトな制限であるとしており、ニーズに満たさない場合、追加をリクエストをすることが可能。すぐに制限解除に対応できない場合は、代替リージョンの使用を勧めている。</p><p>　また、消防/EMS/警察、緊急時のルーティングとレポーティング、医薬品の供給管理と配送システム、緊急対応チームに対するアラートを提供するアプリ、健康管理アプリと記録システムといったアプリケーションには、最高レベルのモニタリングを提供するとしている。</p></div></div>]]></description>
-			<pubDate>Mon, 30 Mar 2020 13:41:35 +0900</pubDate>
-		</item>
-		<item>
-			<title>AmazonがAlexaでCOVID-19関連情報を提供へ ～Appleもアプリなど提供</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1243834.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/834/2.jpg"></div></div></div></div></div></div><p>　Amazonは、アメリカ疾病予防管理センター(CDC)のガイダンスに基づいたCOVID-19評価ツールおよび情報を、音声アシスタントのAlexaにて提供開始した。</p><p>　AlexaにCOVID-19に関するCDCガイダンスを実装しており、米国では「もしCOVID-19にかかっているならどうすれば良い?」といった問いかけに対して答えるようになる。</p><p>　日本では実装していないようだが、代わりに新型コロナウイルスについて尋ねると厚生労働省のガイダンスを提供し、リスクレベルを確認できる。また、COVID-10に関連する質問に答えられるようになった。</p><p>　なお、AppleもCDCガイダンスに準拠したCOVID-19の評価ツールをWebサイトとApp Storeにて提供開始しているが、Webサイトは英語版のみで、App Store版は現在日本では利用できない。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/834/1_o.jpg"></div></div><span class="caption">AppleのCOVID-19</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Mon, 30 Mar 2020 14:16:35 +0900</pubDate>
-		</item>
-		<item>
 			<title>SIE、PlayStationのダウンロード帯域制限を米国でも開始 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1243856.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/856/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.sie.com/" class="n" target="_blank">Sony Interactive Entertainment(SIE)</a>は、米国地域でのゲームダウンロード時の帯域制限を開始した。</p><p>　3月24日より欧州地域に対して行なわれているものと同様の措置で、ゲームをダウンロードするさいの速度を抑制し、インターネット全体の通信帯域を確保するのが狙い。同社の社長兼CEOのJim Ryan氏は発表内にて、コミュニティの協力に対して感謝を述べるとともに、外出を控えて身の安全を守るようコメントしている。</p></div></div>]]></description>
@@ -99,6 +87,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1244012.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1244/012/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.microsoft.com/" class="n" target="_blank">Micosoft</a>は30日(米国時間)、KB4535996を適用したWindows 10環境下で、プロキシ設定を自動または手動に設定した場合に、ネットワーク接続が問題が発生する<a href="https://pc.watch.impress.co.jp/docs/news/1243777.html" class="n" target="_blank">不具合</a>に対して、修正アップデートをリリースした。</p><p>　ネットワークに接続/切断したさいに一部のアプリでインターネット接続が行なえなくなるもので、とくにVPN接続を使用する場合に発生するとしている。同社では4月上旬にアップデートを提供すると予告していたが、前倒しでリリースされたかたちとなる。</p><p>　アップデートはMicrosoftカタログにて配布されており、Windows 10 バージョン1709向けにKB4554342、1803向けにKB4554349、1809向けにKB4554354、1903向けにKB4554364、1909向けにKB4554364がそれぞれ対応する。同社では不具合の影響を受けている場合のみ、アップデートを適用するよう勧めている。</p></div></div>]]></description>
 			<pubDate>Tue, 31 Mar 2020 11:42:12 +0900</pubDate>
+		</item>
+		<item>
+			<title>Steam、トラフィック増大に対し、ユーザーへ負荷軽減方法を提示 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1244033.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1244/033/01.png"></div></div></div></div></div></div><p>　Valveは3月31日、新型コロナウイルスの影響により世界中のネットワークトラフィックが増大するなかで、<a href="https://store.steampowered.com/" class="n" target="_blank">Steam</a>のネットワーク帯域を上手に活用するための同社の取り組みや、ユーザーへの案内を出した。</p><p>　Steamはすでに過去のアップデートで、ピーク時間帯のネットワーク負荷を分散するために、最近プレイしていないゲームをオフピークにアップデートするようにしているが、今週からさらに日数が分散され、過去3日以内にプレイしたゲームのみが即座のアップデート対象となる。</p><p>　また、Steamのオプション設定において、ユーザーが自動アップデートの時間枠を規定できること、インストール済みではあるがプレイしていないゲームの自動アップデートを取得しないように設定できること、ダウンロード速度を制限してトラフィックを減らせること、あまりプレイしていないゲームをSSDからHDDに移動する機能を使えば、再度ダウンロードするよりも高速でネットワーク負荷の軽減にもつながることを伝えており、ユーザーへの協力を呼びかけている。</p></div></div>]]></description>
+			<pubDate>Tue, 31 Mar 2020 12:16:08 +0900</pubDate>
+		</item>
+		<item>
+			<title>オウルテック、モバイルバッテリ5台と充電ステーションのセット </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1243934.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/934/01.jpg"></div></div><span class="caption">OWL-LPB50SET</span></div></div></div></div><p>　<a href="https://www.owltech.co.jp/" class="n" target="_blank">株式会社オウルテック</a>は、モバイルバッテリと充電器のセット「OWL-LPB50SET」を発売した。価格はオープンプライスで、税別店頭予想価格は18,000円前後の見込み。</p><p>　OWL-LPB50SETは、容量5,000mAhのモバイルバッテリ5台と充電器をセットにした製品。5台横並びで同時充電できるステーション型を採用し、まとめて充電が行なえる。</p><p>　バッテリはUSB Type-Aを2ポート備え、出力が各ポート5V/2.4A(2ポート計2.4A)。各種保護回路機能も内蔵する。</p><p>　本体サイズ/重量は、バッテリが約42×22×96.3mm(幅×奥行き×高さ)/約140g、充電器が約200×68×23.2mm(同)/約126g。</p></div></div>]]></description>
+			<pubDate>Tue, 31 Mar 2020 13:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>

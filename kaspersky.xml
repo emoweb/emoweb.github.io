@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>テレワークとセキュリティ</title>
-			<link>https://blog.kaspersky.co.jp/work-from-home/27854/</link>
-			<description><![CDATA[テレワークを実施するときに考慮すべき点をまとめました。]]></description>
-			<pubDate>Mon, 16 Mar 2020 02:00:34 +0000</pubDate>
-		</item>
-		<item>
 			<title>APTの巻き添え被害</title>
 			<link>https://blog.kaspersky.co.jp/apt-collateral-damage/27821/</link>
 			<description><![CDATA[APTが直接の標的ではない一般市民のプライバシーやセキュリティを侵害する場合があります。どういったシナリオが考えられるでしょうか。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/lightspy-watering-hole-attack/27972/</link>
 			<description><![CDATA[香港で発生したサイバー攻撃。偽のニュースサイトにアクセスした人々のiPhoneにスパイウェア「LightSpy」が感染していました。]]></description>
 			<pubDate>Mon, 30 Mar 2020 01:00:28 +0000</pubDate>
+		</item>
+		<item>
+			<title>ストーカーウェア：MonitorMinorがもたらす危険</title>
+			<link>https://blog.kaspersky.co.jp/monitorminor-stalkerware/27881/</link>
+			<description><![CDATA[Androidアプリ「MonitorMinor」がプライバシーへの大きな脅威である、その理由は。]]></description>
+			<pubDate>Tue, 31 Mar 2020 04:00:45 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
