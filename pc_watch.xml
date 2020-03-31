@@ -5,30 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>【やじうまPC Watch】スマホやタブレットを生産するLenovoの武漢工場が4月より全面稼働へ</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1243866.html</link>
-			<description><![CDATA[<div><div><p>　中国の経済誌21世紀経済によると、COVID-19の影響で生産能力が低下していたLenovoの武漢工場を3月末に生産能力の60%にまで回復し、4月中旬に全面的に生産能力を復旧させるとした。</p><p>　同工場では春節前に工場内での疫病蔓延を防ぐチームと、生産チームの疫病状態を把握してコントロールするチームを立ち上げ、従業員の生活と生産が安全に行なえるよう努めてきた。現在はロット生産を分散するなど、生産の復旧を行なっている状態だ。</p><p>　同工場は2012年に武漢市に建設され、2013年に操業開始。20万平方mの敷地面積をもち、SMT、テスト、組み立て、包装、備蓄ラインを備えている。おもな生産内容はスマートフォンおよびタブレットなど。</p></div></div>]]></description>
-			<pubDate>Mon, 30 Mar 2020 16:27:43 +0900</pubDate>
-		</item>
-		<item>
-			<title>AMD GPUの一部設計情報が流出 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1243880.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/880/1.jpg"></div></div></div></div></div></div><p>　AMDは25日(現地時間)、次期GPUのサブセットに関するテストファイルの一部が流出したと発表した。</p><p>　同社は2019年12月に、このテストファイルを入手したとする人物からの連絡を受けた。このファイルの情報は、直近でオンラインで公開されたが、直後に削除されている。</p><p>　ファイルの内容について明らかにされていないが、この件に関して独自報道しているWccftechによれば、ハードウェア記述言語Verilogであるものの、RDNA GPUのなかの単一機能に関するものであり、AMDのコアIPではないという。また、AMD独自の回路図に基づいて構築されているため、サードパーティにとってほとんど無意味であるとしている。</p><p>　AMDは現在、法執行機関やそのほかの専門家と緊密に連携し、犯罪として捜査を進めている。</p></div></div>]]></description>
-			<pubDate>Mon, 30 Mar 2020 16:29:16 +0900</pubDate>
-		</item>
-		<item>
-			<title>iOS 13.4でVPN利用時もトンネル外で通信が発生する脆弱性 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1243891.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/891/02.jpg"></div></div><span class="caption">Wiresharkを用いた再現の様子。「10.0.2.109」がiOSデバイス、「185.159.157.8」がProtonVPNのサーバー、「17.57.146.68」がAppleのサーバーのIPアドレス。</span></div></div></div></div><p>　VPNサービスを提供するスイスの<a href="https://protonvpn.com/" class="n" target="_blank">ProtonVPN</a>は25日(現地時間)、iOSデバイスでVPN(仮想プライベートネットワーク)を利用する場合に、通信の一部がVPNトンネル外で行なわれてしまう脆弱性「VPN bypass」について報告した。</p><p>　共通脆弱性評価システム(CVSS)は中程度(Medium)。Appleにもすでに報告済みで、対策を準備しているという。</p><p>　VPNは、暗号化やトンネリングにより、専用線接続を仮想的に構築できる技術。一般的にVPNでは、接続時にすでに確立されているコネクションをすべて切断した上で、VPNトンネル内であらためて通信を行なう。</p><p>　ところがiOS 13.3.1環境下において、VPN接続時に一部のコネクションが切断されない問題が発見された。VPNトンネルを通じたコネクションと、そうでないものが混在することになり、後者については暗号化されていない通信が閲覧できたり、本来のIPアドレスが漏えいする恐れがある。3月30日時点では最新バージョンのiOS 13.4にも存在する問題だという。</p><p>　VPNトンネル外に存在するコネクションの多くは接続時間が短く、再接続が行なわれたさいにトンネル内を経由するようになるが、なかには数分から数時間トンネル外で接続し続けるものもある。一例として、Appleが提供するプッシュ通知サービスが同社のサーバーとのコネクションを長時間維持しており、さまざまなアプリやサービスに影響を与える可能性があるとしている。</p><p>　iOSでは、VPNアプリやサービスによってデバイス上のネットワークをすべて切断することが許可されていないため、アプリ側の修正による対策が用意できない。ProtonVPNでは、VPNサーバーへ接続後に機内モードをオンにして再度オフにすることで脆弱性を緩和できるとしているほか、Appleでは常時接続のVPNを利用するよう奨めている。</p></div></div>]]></description>
-			<pubDate>Mon, 30 Mar 2020 16:47:22 +0900</pubDate>
-		</item>
-		<item>
-			<title>Intel、新型コロナウイルス被害の救援活動として600万ドルを寄付 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1243918.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/918/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.intel.com/" class="n" target="_blank">Intel</a>は26日(米国時間)、新型コロナウイルスによる被害への救援活動の一環として、600万ドル(日本円で約6億4,700万円)の寄付を行なうと発表した。</p><p>　600万ドルのうち、最大200万ドルが同社の従業員などによる寄付、400万ドルがIntelとしての寄付となっており、前者は同社が主要な拠点としている地域のフードバンクや学区、小児病院などに、後者は各国の食料安全保障、シェルター、医療機器、中小企業支援などの活動を行なう地域財団や団体に、それぞれ送られる。</p><p>　寄付の対象地域は、米国国内やコスタリカ、インド、アイルランド、マレーシア、メキシコ、ベトナムなどとしている。</p></div></div>]]></description>
-			<pubDate>Mon, 30 Mar 2020 17:50:47 +0900</pubDate>
-		</item>
-		<item>
 			<title>4ポートつきでUSB Hubとしても使える最大出力156Wのモバイルバッテリ </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1243923.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1243/923/1.jpg"></div></div><span class="caption">Alster Plus 2020</span></div></div></div></div><p>　合同会社アシカンは、USB Hub機能つきで、最大156W出力が可能なモバイルバッテリ「Alster Plus 2020」を直販サイト「Tokyo Mac」や各セレクトショップで発売した。税別価格は19,861円。</p><p>　100W出力が可能なUSB PD対応USB Type-Cポートを2基、Quick Charge 3.0対応USB Type-Aポートを2基搭載し、USB Hubとしても機能する。充電とHub機能を兼ね備えているためiPad Pro向けとしており、iPad Proへ充電しながら周辺機器の利用が可能となる。</p><p>　また、4ポートの合計出力が市場最大の156Wとしており、ノートPCの2台同時高速充電だけでなく、iPhoneやiPad Proの同時充電が可能で、自動電源割り当てを行なう「パワーシェアリング」を備える。USBデバイスへの給電も行なえるため、iPad Pro内蔵のバッテリを消耗させることなく消費電力が大きいドライブの接続が可能。</p><p>　容量は100Wh(27,000mAh)で、本体サイズは191×83.5×21.5mm(幅×奥行き×高さ)、重量は675g。本体色はスペースグレイとシルバーの2種類。</p></div></div>]]></description>
@@ -99,6 +75,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1244070.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/v=RtB612XzWrg?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div><span class="caption">分散コンピューティングを通じて数日間で作り出された1,900以上の低分子構造</span></div></div></div></div><p>　分散コンピューティングプロジェクト<a href="https://foldingathome.org/" class="n" target="_blank">Folding@home</a>は、現在提供している新型コロナウイルス(SARS-CoV-2)の解析プロジェクトに、新たに低分子スクリーニングシミュレーションを追加した。</p><p>　新型コロナウイルス感染症の治療法を迅速に開発するため、分子の合成や分析の優先順位を決定するもの。FEP(Free Energy Perturbation : 自由エネルギー摂動法)を用いて行なわれ、Diamond Light Source XChemプロジェクトによって同定されたSARS-CoV-2のプロアテーゼに結合する薬物フラグメントをもとに、阻害剤として機能しうる有効な分子のスクリーニングを行なう。なお、今回のプロジェクトはCPUでのみ実行できる。</p><p>　また、Folding@homeのディレクターGreg Bowman氏は3月31日にTwitterで、同日時点で計100万台以上のデバイスが新型コロナウイルス関連の分散コンピューティングプロジェクトに参加しており、35万6千台以上のNVIDIA製GPU、7万9千台以上のAMD製GPU、59万3千台以上のCPUが含まれていると発表。同プロジェクトの成果などについては今週にもブログにて発表する予定だとしている。</p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">There are now over 1M devices running<a href="https://twitter.com/foldingathome?ref_src=twsrc%5Etfw">@foldingathome</a>! This includes over 356K<a href="https://twitter.com/nvidia?ref_src=twsrc%5Etfw">@nvidia</a>GPUs, over 79K<a href="https://twitter.com/AMD?ref_src=twsrc%5Etfw">@AMD</a>GPUs, and over 593K CPUs! Thanks to all our volunteers! We're planning more blog posts on our<a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a>work/results this week, please stay tuned.</p>— Greg Bowman (@drGregBowman)<a href="https://twitter.com/drGregBowman/status/1244709094273007621?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div>]]></description>
 			<pubDate>Tue, 31 Mar 2020 13:28:32 +0900</pubDate>
+		</item>
+		<item>
+			<title>ヤマハ製ルーターにDoS攻撃が可能な脆弱性 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1244102.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1244/102/01.jpg"></div></div></div></div></div></div><p>　独立行政法人<a href="https://www.ipa.go.jp/" class="n" target="_blank">情報処理推進機構(IPA)</a>セキュリティセンターは、ヤマハ製のネットワーク機器に存在する脆弱性(CVE-2020-5548)について報告した。</p><p>　受信したパケットの処理に問題があり、サービス運用妨害(DoS)攻撃をうける恐れがある。ヤマハではこの問題を修正するファームウェアをすでに提供しており、最新版にアップデートすることで修正できる。</p><p>　また、ファームウェアの入手や適用が困難な場合は、「ip filter」コマンドで「pass-nolog」、「reject-nolog」、「restrict-nolog」を設定するか、「syslog notice off」を設定し、フィルタのログ出力を停止することで脆弱性の影響を回避できるとしている。</p><p>　影響を受ける製品は以下のとおり。</p><p>・NVR700W ファームウェア Rev.15.00.15 およびそれ以前<br>・NVR510 ファームウェア Rev.15.01.14 およびそれ以前<br>・RTX810 ファームウェア Rev.11.01.33 およびそれ以前<br>・RTX830 ファームウェア Rev.15.02.09 およびそれ以前<br>・RTX1200 ファームウェア Rev.10.01.76 およびそれ以前<br>・RTX1210 ファームウェア Rev.14.01.33 およびそれ以前<br>・RTX3500 ファームウェア Rev.14.00.26 およびそれ以前<br>・RTX5000 ファームウェア Rev.14.00.26 およびそれ以前<br>・NVR500 ファームウェア Rev.11.00.38 およびそれ以前<br>・FWX120 ファームウェア Rev.11.03.27 およびそれ以前</p></div></div>]]></description>
+			<pubDate>Tue, 31 Mar 2020 14:20:30 +0900</pubDate>
+		</item>
+		<item>
+			<title>Apple、Windows向けにProRes RAWコーデックを提供開始 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1244088.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1244/088/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.apple.com/" class="n" target="_blank">Apple</a>は、Windows環境で同社の映像用コーデック「ProRes RAW」を利用できる「Apple ProRes RAW for Windows 1.0 (Beta)」を公開した。</p><p>　Windows PCにインストールすることで、対応アプリケーション上でProRes RAWおよびProRes RAW HQの再生が可能となる。3月31日時点ではAdobe After Effects、Media Encoder、Premiere、Premiere Rushの4製品をサポートする。</p></div></div>]]></description>
+			<pubDate>Tue, 31 Mar 2020 14:20:55 +0900</pubDate>
+		</item>
+		<item>
+			<title>Pixio、2.2万円を切る23.8型144HzゲーミングIPS液晶ディスプレイ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1244112.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1244/112/01.jpg"></div></div><span class="caption">PX247</span></div></div></div></div><p>　<a href="https://www.pixiogaming.jp/" class="n" target="_blank">Pixio Japan株式会社</a>は、23.8型ゲーミング液晶ディスプレイ「PX247」を4月1日より発売する。店頭予想価格は21,980円前後の見込み。</p><p>　23.8型のフルHD(1,920×1,080ドット)非光沢IPS液晶パネルを採用したゲーミングディスプレイ。安価ながら144HzのリフレッシュレートとMPRT 1msの高速応答のほか、FreeSyncおよびG-SYNC Compatibleに対応。付属スタンドは高さ調整非対応だがVESAマウントをサポートする。</p><p>　そのほかのおもな仕様は、輝度が350cd/平方m、コントラスト比が1,000:1、視野角が上下/左右ともに178度。インターフェイスはDisplayPort 1.2、HDMI 1.4。</p><p>　本体サイズは550×388.9×130mm(幅×奥行き×高さ)、重量は約3kg。</p><div><div><div><div><div><ul class="aff_list"><li class="aff_item"><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0861RGSVL/impresswatch-6-22/ref=nosim" target="_blank"><img src="https://m.media-amazon.com/images/I/517B6NJ8t2L._SL160_.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0861RGSVL/impresswatch-6-22/ref=nosim" target="_blank">PX247</a></div></div></li></ul></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Tue, 31 Mar 2020 14:41:25 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
