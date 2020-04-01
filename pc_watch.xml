@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>ヤマハ製ルーターにDoS攻撃が可能な脆弱性 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1244102.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1244/102/01.jpg"></div></div></div></div></div></div><p>　独立行政法人<a href="https://www.ipa.go.jp/" class="n" target="_blank">情報処理推進機構(IPA)</a>セキュリティセンターは、ヤマハ製のネットワーク機器に存在する脆弱性(CVE-2020-5548)について報告した。</p><p>　受信したパケットの処理に問題があり、サービス運用妨害(DoS)攻撃をうける恐れがある。ヤマハではこの問題を修正するファームウェアをすでに提供しており、最新版にアップデートすることで修正できる。</p><p>　また、ファームウェアの入手や適用が困難な場合は、「ip filter」コマンドで「pass-nolog」、「reject-nolog」、「restrict-nolog」を設定するか、「syslog notice off」を設定し、フィルタのログ出力を停止することで脆弱性の影響を回避できるとしている。</p><p>　影響を受ける製品は以下のとおり。</p><p>・NVR700W ファームウェア Rev.15.00.15 およびそれ以前<br>・NVR510 ファームウェア Rev.15.01.14 およびそれ以前<br>・RTX810 ファームウェア Rev.11.01.33 およびそれ以前<br>・RTX830 ファームウェア Rev.15.02.09 およびそれ以前<br>・RTX1200 ファームウェア Rev.10.01.76 およびそれ以前<br>・RTX1210 ファームウェア Rev.14.01.33 およびそれ以前<br>・RTX3500 ファームウェア Rev.14.00.26 およびそれ以前<br>・RTX5000 ファームウェア Rev.14.00.26 およびそれ以前<br>・NVR500 ファームウェア Rev.11.00.38 およびそれ以前<br>・FWX120 ファームウェア Rev.11.03.27 およびそれ以前</p></div></div>]]></description>
-			<pubDate>Tue, 31 Mar 2020 14:20:30 +0900</pubDate>
-		</item>
-		<item>
 			<title>Apple、Windows向けにProRes RAWコーデックを提供開始 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1244088.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1244/088/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.apple.com/" class="n" target="_blank">Apple</a>は、Windows環境で同社の映像用コーデック「ProRes RAW」を利用できる「Apple ProRes RAW for Windows 1.0 (Beta)」を公開した。</p><p>　Windows PCにインストールすることで、対応アプリケーション上でProRes RAWおよびProRes RAW HQの再生が可能となる。3月31日時点ではAdobe After Effects、Media Encoder、Premiere、Premiere Rushの4製品をサポートする。</p></div></div>]]></description>
@@ -81,6 +75,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1244342.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1244/342/01.jpg"></div></div><span class="caption">WN-DX1167GREX</span></div></div></div></div><p>　<a href="https://www.iodata.jp/" class="n" target="_blank">株式会社アイ・オー・データ機器</a>は、メッシュネットワークに対応した親機と子機がセットになった「WN-DX1167GREX」を4月下旬より発売する。税別価格は13,800円。</p><p>　WN-DX1167GREXは、親機にあたる無線LANルーター「WN-DX1167GR」と子機にあたる「WN-DX1300EXP」が1台ずつのセットになった製品。出荷時に親機と子機のペアリングが行なわれているため、設置すればすぐにメッシュネットワークが構築できる。</p><p>　「360コネクト」技術を採用し、広範囲に電波の送出が可能。アンテナの配置や角度などを最適化し、親機・子機ともに360度全方向に電波を放出できるほか、高性能パワーアンプにより最大通信距離も高めている。</p><p>　最大2台までのMU-MIMOやビームフォーミング、混雑の少ない周波数帯に優先的に接続するバンドステアリング機能などを搭載。IPv6 IPoE/IPv4 over IPv6通信時に利用できる独自の高速化技術IPv6ブーストも備える。</p><p>　親機(WN-DX1167GR)は、有線がGigabit Ethernet×5(うち1基WAN)、無線がIEEE 802.11ac/a/b/g/nをサポートし、2.4GHz/5GHz帯両用アンテナを2本内蔵。本体サイズは約150×83×157mm(幅×奥行き×高さ)、重量は約260g。</p><p>　子機(WN-DX1300EXP)は、有線がEthernet、無線がIEEE 802.11ac/a/b/g/nをサポートし、2.4GHz/5GHz帯両用アンテナを2本内蔵。使用時に上のコンセントを邪魔しない設計となっており、本体サイズは約130×54×114mm(同)、重量は約230g。</p></div></div>]]></description>
 			<pubDate>Wed, 01 Apr 2020 13:05:06 +0900</pubDate>
+		</item>
+		<item>
+			<title>グリーンハウス、Webカメラ内蔵の10点マルチタッチ対応23.6型フルHD液晶 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1244364.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1244/364/01.jpg"></div></div><span class="caption">GH-LCT24B-BK</span></div></div></div></div><p>　<a href="https://www.green-house.co.jp/" class="n" target="_blank">株式会社グリーンハウス</a>は、23.6型タッチ対応液晶ディスプレイ「GH-LCT24B-BK」を4月上旬より発売する。価格はオープンプライスで、税別店頭予想価格は44,800円前後の見込み。</p><p>　GH-LCT24B-BKは、静電容量方式の10点マルチタッチパネルを備えた液晶ディスプレイ。2ポートのUSB 2.0 Hubやマイクに加え、画面上部に92万画素Webカメラを内蔵。ビデオ会議などに利用できる。</p><p>　おもな仕様は、解像度がフルHD(1,920×1,080ドット)、表示色数が1,677万色、応答速度が25ms、輝度が212cd/平方m、コントラスト比が3,000:1、視野角が上下/左右ともに178度。</p><p>　インターフェイスは、HDMI、DisplayPort、ミニD-Sub15ピン。1.5W+1.5Wのステレオスピーカーも搭載する。</p><p>　本体サイズは571.8×44.6×342.4mm(幅×奥行き×高さ)、重量は約6.2kg。背面には15～70度の角度調整が可能なスタンドを装備し、100×100mmのVESAマウントも備える。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1244/364/02.jpg"></div></div><span class="caption">側面</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Wed, 01 Apr 2020 14:20:29 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
