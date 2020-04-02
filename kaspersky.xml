@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ニューヨーク市警からセキュリティについて学べること</title>
-			<link>https://blog.kaspersky.co.jp/rsa2020-security-awareness-nypd/27831/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rsa2020-security-awareness-nypd</link>
-			<description><![CDATA[RSA Conference 2020で、ニューヨーク市警のCyber Intelligence and Investigationsの元責任者が、署員のサイバーセキュリティ意識向上のために同警察がとった方法について講演しました。]]></description>
-			<pubDate>Wed, 18 Mar 2020 01:00:15 +0000</pubDate>
-		</item>
-		<item>
 			<title>ディープフェイクの影響を軽減する方法</title>
 			<link>https://blog.kaspersky.co.jp/rsa2020-deepfakes-mitigation/27870/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rsa2020-deepfakes-mitigation</link>
 			<description><![CDATA[ディープフェイクが広がりを見せ、いっそう本物らしく見えるようになっています。これに対し、企業はどのような防御策を取ることができるのでしょうか？]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/protecting-healthcare-organizations/27934/</link>
 			<description><![CDATA[新型コロナウイルスの大流行に対抗すべく奮闘を続けている医療機関は、サイバーセキュリティ面での助力を必要としています。当社では医療機関向けに、当社主要製品を6か月間無料で利用できるライセンスをご提供します。]]></description>
 			<pubDate>Wed, 01 Apr 2020 04:00:28 +0000</pubDate>
+		</item>
+		<item>
+			<title>「近辺にいるコロナウイルス感染者の情報が分かる」—虚偽で人を釣るトロイの木馬Ginp</title>
+			<link>https://blog.kaspersky.co.jp/ginp-trojan-coronavirus-finder/27953/</link>
+			<description><![CDATA[バンキング型トロイの木馬Ginpが、コロナウイルス感染者の情報を提供すると偽り、Android利用者からクレジットカード情報をだまし取ろうとしています。]]></description>
+			<pubDate>Thu, 02 Apr 2020 01:00:11 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
