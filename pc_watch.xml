@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>AUKEY、USB PD 100W対応もあるGaN採用の小型充電器5モデル </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1246319.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1246/319/01.jpg"></div></div><span class="caption">AUKEY Omnia</span></div></div></div></div><p>　<a href="https://jp.aukey.com/" class="n" target="_blank">AUKEY</a>は、窒化ガリウム(GaN)を採用することで小型化を図ったUSB PD対応充電器「Omnia」シリーズの5モデルを4月末より発売する。出力は61～100Wまで用意。</p><p>　Omniaシリーズは、GaNをベースに独自開発した「Omnia Chipset」を搭載し、従来品に対して約50%の小型化を達成。また、充電速度も約3倍の向上を謳う。デバイスに合わせて出力を適切に制御するDynamic Detect Technologyも備えた。</p><p>　ラインナップは、61W出力の「PA-B2」、65W出力の「PA-B3」と「PA-B4」、100W出力の「PA-B5」と「PA-B6」で、それぞれポート数が異なる。価格はPA-B3が4,980円、PA-B4が5,980円で、そのほかのモデルは近日発売予定/価格未定としている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1246/319/02_o.png"></div></div><span class="caption">ラインナップ</span></div></div></div></div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1246/319/03_o.png"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1246/319/04.jpg"></div></div></div></div></div></div></div></div>]]></description>
-			<pubDate>Fri, 10 Apr 2020 12:20:48 +0900</pubDate>
-		</item>
-		<item>
 			<title>【やじうまPC Watch】在宅勤務の寂しさを紛らわせる? オフィスでの人の声や騒音を再現するサイトが登場</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1246337.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1246/337/01.jpg"></div></div></div></div></div></div><p>　ドイツのクリエイティブ系企業であるKids creative agencyは、オフィスでの人の声や騒音を再現するサイト「<a href="https://imisstheoffice.eu/" class="n" target="_blank">imintheoffice.eu</a>」を公開した。</p><p>　サイトを開くと、小規模なオフィスの間取りを模したイラストが表示される。左下の再生ボタンを押すと、同僚が会話する音声(ドイツ語の模様)や、空調の音、キーボードの打鍵音などが聞こえ、自分がオフィスにいるような感覚になる。</p><p>　右下の-/+を押すとオフィスにいる人の人数を増やせる。また、オフィスのイラストはインタラクティブになっており、たとえばコピー機をクリックするとその操作音が再生され、ウォーターサーバーをクリックすると水を注ぐ音が聞こえるという具合だ。</p><p>　自宅勤務でちょっと寂しい思いをしている人は、BGM代わりに開いておくと寂しさを紛らわせられるかもしれない。</p></div></div>]]></description>
@@ -81,6 +75,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1246551.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1246/551/1_o.jpg"></div></div></div></div></div></div><p>　AppleとGoogleは10日、新型コロナ感染者と濃厚接触したかどうかを、機器間の相互検出を可能にするAPIや、Bluetooth技術を利用して追跡するソリューションを提携して開発すると発表した。</p><p>　新型コロナウイルス感染症は、感染者との接触により伝染する可能性があるため、公衆衛生機関は感染拡大を抑えるうえで濃厚接触の検出や追跡といった手段が役に立つと提唱している。そのため、世界で多数の公衆衛生当局や大学、NGOがオプトイン形式の濃厚接触を検出/追跡する技術を開発している。AppleとGoogleの今回の提携は、この取り組みを推進するものとなる。</p><p>　具体的には、APIとOSレベルの技術からなる包括的なソリューションを確立し、濃厚接触の可能性を検出。プライバシーの保護を維持しながら、自体の緊急性を鑑み、両者は以下の2つのステップで実装を行なう。</p><p>　まず、公衆衛生当局が提供するアプリを利用するAndroidおよびiOS端末間で相互運用を実現するAPIを5月にリリース。公式アプリをアプリストアからダウンロードできるようにする。</p><p>　つぎに、今後数カ月をかけて基盤となるプラットフォームに同機能を組み込み、Bluetooth技術をベースとした、より広範な濃厚接触の可能性を検出するプラットフォームを実現する。これはAPIよりも堅牢となり、ユーザーがオプトインすることを選択した場合、より多くの人が参加できるだけでなく、より広範なエコシステムとの協働が可能になる。</p><p>　この取り組みはプライバシーと透明性、ユーザーの同意が何よりも重要だと認識しており、関係者と協議しながら同機能の開発に注力していく。また、第三者による分析を可能にする情報公開を前提としている。</p></div></div>]]></description>
 			<pubDate>Sat, 11 Apr 2020 11:35:08 +0900</pubDate>
+		</item>
+		<item>
+			<title>本日みつけたお買い得品AUKEY、GaN採用で最大63W出力のUSB PD充電器をAmazonで25%オフ</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/todays_sales/1246554.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1246/554/01_o.jpg"></div></div><span class="caption">PA-D5</span></div></div></div></div><p>　<a href="https://jp.aukey.com/" class="n" target="_blank">AUKEY</a>は、最大63W出力のUSB PD対応2ポート充電器「PA-D5」がAmazon.co.jpにて25%オフになるクーポンコード「AUKEYPAD5」を配布し、25%オフの3,439円で提供している。期限は4月15日までで、先着500台限定。</p><p>　PA-D5は、USB PD 3.0対応のType-Cポートを2基備え、両方同時に使用した場合は一方が最大18W、もう一方が最大45W。片方のみの場合は最大60Wの出力が可能。窒化ガリウム(GaN)採用で、小型化と低発熱化を実現し、回路保護機能なども搭載。プラグは折りたたみ式となっている。</p><p>　本体サイズは67×64×29mm(幅×奥行き×高さ)、重量は148g。</p><div><div><div><div><div><ul class="aff_list"><li class="aff_item"><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07YFPDNMY/impresswatch-6-22/ref=nosim" target="_blank"><img src="https://m.media-amazon.com/images/I/31L2CePj5eL._SL160_.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07YFPDNMY/impresswatch-6-22/ref=nosim" target="_blank">PA-D5</a></div></div></li></ul></div></div></div></div></div><p><span class="fnt-75">※セール開催・内容・価格等は、予告なく変更となる場合がございます。正確な情報は、販売ページ上でご確認ください。</span></p></div></div>]]></description>
+			<pubDate>Sat, 11 Apr 2020 14:30:51 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
