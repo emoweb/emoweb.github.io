@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>「近辺にいるコロナウイルス感染者の情報が分かる」—虚偽で人を釣るトロイの木馬Ginp</title>
-			<link>https://blog.kaspersky.co.jp/ginp-trojan-coronavirus-finder/27953/</link>
-			<description><![CDATA[バンキング型トロイの木馬Ginpが、コロナウイルス感染者の情報を提供すると偽り、Android利用者からクレジットカード情報をだまし取ろうとしています。]]></description>
-			<pubDate>Thu, 02 Apr 2020 01:00:11 +0000</pubDate>
-		</item>
-		<item>
 			<title>Windows 10でゲームの遅延を抑える7つのヒント</title>
 			<link>https://blog.kaspersky.co.jp/windows-10-gaming-tips/27914/</link>
 			<description><![CDATA[PCをしっかり保護しながら、ゲームのパフォーマンスを引き出すために役立つ7つのヒント。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/social-meeting-apps-used-by-cybercriminals/28114/</link>
 			<description><![CDATA[オンラインでコミュニケーションを取る機会が増える中、この状況をサイバー犯罪者が利用する動きが見られています。]]></description>
 			<pubDate>Wed, 15 Apr 2020 01:00:36 +0000</pubDate>
+		</item>
+		<item>
+			<title>ユーザー名列挙攻撃の危険性</title>
+			<link>https://blog.kaspersky.co.jp/username-enumeration-attack/28041/</link>
+			<description><![CDATA[Webアプリケーションを監査していた当社のエキスパートは、ユーザー名列挙攻撃に対する脆弱性を発見しました。それはどんな問題なのか、どう対処できるのか。]]></description>
+			<pubDate>Thu, 16 Apr 2020 01:00:49 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
