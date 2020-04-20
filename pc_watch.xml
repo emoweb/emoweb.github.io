@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Microsoft、バグのうち深刻なセキュリティバグを97%の精度で分類するAIを開発 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1247925.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1247/925/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は16日(米国時間)、ソフトウェア開発で発生するバグのうち、セキュリティバグを仕分けるマシンラーニング学習モデルを開発した。</p><p>　47,000人もの開発者によって社内で進められるソフトウェア開発では、月間3万個近いバグが発生しているという。これらのバグはAzureDevOpsやGitHub上に保存されているが、この規模のバグを分類したり優先度を決定するには多くの人手が必要となる。</p><p>　そこで、2001年から社内で収集されてきた1,300万ものバグのデータを活用し、マシンラーニングを使ってバグを分類する学習モデルの開発に取り組んだ。セキュリティの専門家と同等の精度で「セキュリティバグか否か」と「深刻度はどの程度か(Critical/Important/Low)」の2点で分類するシステムの構築を目指したもので、2段階の学習モデルが用いられている。</p><p>　開発段階では、データサイエンティストがデータのタイプや質などを評価しラベルづけしたものを、セキュリティの専門家が再度評価し、学習データを用意。これを実際にマシンラーニングに利用し学習モデルを構築して性能を確かめた上で、平均的なバグ検出数やランダムサンプリングなどを本番環境で行なった。</p><p>　同社のデータに対して実際に開発した学習モデルを適用したところ、99%の精度でセキュリティバグかそうでないかを区別でき、97%の精度で深刻度や優先度の高いセキュリティバグが識別できたという。これにより、より多くの脆弱性が悪用される前に発見できるようになるとしている。加えて、継続的に自動化した再学習を実施し、改善とモニタリングを続けていく。</p><p>　なお、今回のモデル開発に用いた手法などについては、数カ月中にGitHub上へ公開を予定しているという。</p></div></div>]]></description>
-			<pubDate>Fri, 17 Apr 2020 17:27:37 +0900</pubDate>
-		</item>
-		<item>
-			<title>【やじうまPC Watch】「容疑者Xの献身」など東野圭吾の7作品が初の電書化</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1247950.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1247/950/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.bunshun.co.jp/" class="n" target="_blank">株式会社文藝春秋</a>は4月24日から、ベストセラー作家である東野圭吾の作品を電子書籍で配信すると発表した。</p><p>　配信される作品は以下の7点で、提供プラットフォームは、Amazon Kindle、Apple Books、Rakuten kobo。</p><ul class="list-01"><li>KADOKAWA『ナミヤ雑貨店の奇蹟』(2012年)</li><li>幻冬舎『プラチナデータ』(2010年)</li><li>講談社『流星の絆』(2008年)</li><li>光文社『ダイイング・アイ』(2007年)</li><li>実業之日本社『疾風ロンド』(2013年)</li><li>集英社『白夜行』(1999年)</li><li>文藝春秋『容疑者Xの献身』(2005年)</li></ul><p>　同氏の作品はこれまで電子書籍版で刊行されたことがなかったが、新型コロナウイルスの影響を憂えてか、今回7つの出版社から7つの代表作を電子版として発売。著者からは「外に出たい若者たちよ、もうしばらくご辛抱を! たまには読書でもいかがですか。新しい世界が開けるかもしれません。保証はできませんが。」というコメントが寄せられている。</p></div></div>]]></description>
-			<pubDate>Fri, 17 Apr 2020 17:31:28 +0900</pubDate>
-		</item>
-		<item>
 			<title>ミニミニ、ビデオ会議を使って自宅から物件探し/内見ができるサービス </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1247949.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1247/949/01.jpg"></div></div></div></div></div></div><p>　<a href="https://minimini-chuou.jp/" class="n" target="_blank">株式会社ミニミニ中央</a>は、ビデオ会議ツールを用いて来店時と同様の接客サービスを提供する「オンライン接客」を13日より開始した。</p><p>　ビデオ会議ツールを使って店頭に訪れることなく賃貸物件の紹介や提案を受けられるもの。新型コロナウイルス感染拡大の影響で外出しづらいなかでも、部屋探しが行なえる。スタッフが実際に物件に出向き、スマートフォンを通じて部屋の内装などが確認できる「オンライン内見」サービスもあわせて提供する。</p><p>　同サービスを通じて紹介可能な物件の地域は、東京都新宿区、豊島区、文京区、台東区、千代田区、中央区、墨田区、江東区などとなっているが、要望に応じて地域を広げることも可能だとしている。</p></div></div>]]></description>
@@ -117,6 +105,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1248143.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/143/01.jpg"></div></div><span class="caption">ペットの小屋にした例</span></div></div></div></div><p>　<a href="https://www.samsung.com/" class="n" target="_blank">韓国Samsung Electronics</a>は6日(現地時間)、「Lifestyle TV」シリーズに、開梱した後の段ボール箱を小さな机やペットの小屋などに再利用できるエコパッケージモデルを追加した。</p><p>　箱にはQRコードが印刷され、それをスマートフォンで読み取るとパッケージを再利用するためのマニュアルにアクセスできる。箱は切り取りしやすい設計になっており、マニュアルに従い、箱を分解したり組み立てることで、机、マガジンラック、ペットの部屋などに作り替えられる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/143/02.jpg"></div></div><span class="caption">もともとの外箱</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/143/03.jpg"></div></div><span class="caption">マガジンラックにした例</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/143/04.jpg"></div></div><span class="caption">テーブルにした例</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Mon, 20 Apr 2020 11:44:13 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本マイクロソフト、オンライン学習用解説素材を教員向けに公開 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1248162.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/162/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/ja-jp/" class="n" target="_blank">日本マイクロソフト株式会社</a>は17日、小中学校の教員などを対象とした「Microsoft Teamsでオンライン授業をするための学習コース」を公開した。</p><p>　新型コロナウイルスの感染拡大による臨時休校に対する支援の取り組みとなっており、計12本のコースで構成される。遠隔学習を実施するさいの考え方からMicrosoft TeamsやOffice 365 Educationといったツールの導入方法、課題の作成や評価といった運用方法まで、図や動画を用いて解説されている。</p><p>　公開されているコースは以下のとおり。</p><p>・「つながりを維持する」Microsoft TeamsとOffice 365を用いた遠隔学習<br>・誰でも管理者になれるOffice365 Education導入設定ガイド<br>・Microsoft Teamsでデジタル教室を作る(Microsoft Teamsの概要)<br>・Microsoft Teamsでデジタル教室を作る(チーム/チャネルの作成・メンバーの追加)<br>・Microsoft Teamsでデジタル教室を作る(チーム/チャネルの使い方)<br>・Microsoft Teamsでデジタル教室を作る(遠隔会議の設定/通知・在席情報)<br>・Microsoft Teamsでデジタル教室を作る(課題と評価)<br>・Microsoft Teamsコース1:Teamsの概要[研修トレーナー向け]<br>・Microsoft Teamsコース2:教職員間でTeamsを活用する[研修トレーナー向け]<br>・Microsoft Teamsコース3:児童・生徒・学生と連携する[研修トレーナー向け]<br>・Microsoft Teamsコース4:課題と評価[研修トレーナー向け]<br>・Microsoft Teamsコース5:TeamsでのOneNote ClassNotebook[研修トレーナー向け]</p><p>　そのほか、同社では15日より「Microsoft Teamsでオンライン授業をするための手引き書」も公開している。</p></div></div>]]></description>
+			<pubDate>Mon, 20 Apr 2020 12:52:53 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google、検索エンジンロゴを医療などの必須労働者を称えるデザインに </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1248173.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/173/02.gif"></div></div></div></div></div></div><p>　<a href="https://www.google.com/" class="n" target="_blank">Google</a>は4月17日(現地時間)、世のなかの必要不可欠なサービスへ従事する労働者を称えるためのDoodle(Google検索エンジンのロゴデザイン)を表示することを発表した。</p><p>　世界中で新型コロナウイルスが蔓延するなかで、医療などの社会的に停止することができない職業に就く人々を表現したデザインがそれぞれ用意され、Google検索のロゴとして2週間表示される。</p><p>　Googleによると、Doodleのロゴを作る場合、たいてい数カ月は時間をかけるとのことだが、今回のロゴに関しては数日で用意した。それぞれのDoodleのGIFアニメーションでは、世界中のコミュニティを表した「G」が、各職業の従事者を表した「e」に愛を送るとともに、密接を避けるためにほかのアルファベットでソーシャルディスタンスを設けた表現になっている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/173/01_o.png"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Mon, 20 Apr 2020 12:54:16 +0900</pubDate>
+		</item>
+		<item>
+			<title>のび太の部屋などドラえもんのビデオ会議用壁紙5種が公開 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1248179.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/179/01.jpg"></div></div></div></div></div></div><p>　株式会社小学館および株式会社藤子・F・不二雄プロが運営するドラえもん公式サイト「<a href="https://dora-world.com/" class="n" target="_blank">ドラえもんチャンネル</a>」にて、5種類のPC用壁紙が無償公開されている。</p><p>　用意されているのは「時空間A」、「時空間B」、「空地」、「のび太の部屋A(窓側ver.)」、「のび太の部屋B(押し入れ側ver.)」の5種類で、壁紙だけでなくビデオ会議の背景としても利用できる。外出自粛要請などにより、多くの人が普段と異なる生活を送るなかで、壁紙を使って少しでも明るい気分になってほしいという思いから、今回の公開に至ったという。</p></div></div>]]></description>
+			<pubDate>Mon, 20 Apr 2020 12:57:53 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
