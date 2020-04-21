@@ -5,24 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>NVIDIA、GPUで打鍵音や環境騒音を除去する「RTX Voice」 ～DiscordやZoom、OBSなど各種アプリで利用可</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1248195.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/195/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.nvidia.com/" class="n" target="_blank">NVIDIA</a>は16日(現地時間)、音声チャット時などで発生する会話とは無関係なバックグラウンドノイズを取り除くAI活用のプラグイン「RTX Voice」のセットアップガイドをホームページ上に掲載した。</p><p>　RTX Voiceはキーボードの打鍵音や騒がしい場所にいる場合の環境などを除去するもので、逆にほかのユーザーから漏れ聞こえてくるノイズを抑制することもできる。現在はまだベータ版だが、GeForce RTXおよびQuadro RTXシリーズ搭載ビデオカード向けに用意され、GeForce Game Readyドライバの410.18以降で対応。RTX Voiceアプリをインストールすることで利用可能になる。</p><p>　インストールのさいには、入力デバイスの「マイクからのバックグラウンドノイズを除去する」にチェックを入れて有効化するが、出力側(スピーカー)は聞こえてくる音に多少影響が出る可能性があるため、必要な場合のみ有効にすることが推奨されている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/195/11.jpg"></div></div></div></div></div></div><p>　セットアップ完了後は以下の対応アプリ側の設定が必要。</p><ul class="list-01"><li>OBS Studio</li><li>XSplit Broadcaster</li><li>XSplit Gamecaster</li><li>Twitch Studio</li><li>Discord</li><li>Google Chrome</li><li>WebEx(スピーカー出力の表示に問題が出る場合がある)</li><li>Skype(同)</li><li>Zoom(同)</li><li>Slack(同)</li></ul><p>　Discordについては、設定から「音声・ビデオ」を選択し、入力デバイスを「マイク(NVIDIA RTX Voice)」に変更。そして音声品質を最高にするために、音声処理設定欄にある「ノイズ低減」を無効化する。ほかのアプリについてもだいたい同様の設定となっている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/195/12_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/195/13_o.jpg"></div></div></div></div></div></div><p>　なお、RTX Voiceがうまく機能しているか確認するために、Windows標準搭載のボイスレコーダーなどを使用して、通常の入力デバイスとRTX Voiceで切り替えて録音し、比較することをすすめている。</p></div></div>]]></description>
-			<pubDate>Mon, 20 Apr 2020 13:30:05 +0900</pubDate>
-		</item>
-		<item>
-			<title>シャープ製マスクの個人向け販売が21日より開始 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1248204.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/204/01.jpg"></div></div><span class="caption">MA-1050</span></div></div></div></div><p>　<a href="https://corporate.jp.sharp/" class="n" target="_blank">シャープ株式会社</a>は、不織布マスク「MA-1050」の個人向け販売を21日より直販サイトを通じて開始する。1箱50枚入りで、税別価格は2,980円。</p><p>　新型コロナウイルスの感染拡大にともなう日本政府からの要請を受け、同社では2月28日に三重工場でのマスクの生産を決定。3月24日より生産を開始し、3月31日には政府向けの出荷をはじめていたが、今回個人向けへの販売も開始する。</p><p>　21日10時より販売の予定だが、当面は1人1箱の数量限定で販売され、購入日を含む3日間は再購入できない。5月10日までは毎日10時に在庫を補充する。</p></div></div>]]></description>
-			<pubDate>Mon, 20 Apr 2020 13:45:50 +0900</pubDate>
-		</item>
-		<item>
-			<title>【やじうまPC Watch】中国でIntel CPUの偽造品出回る。公式が注意を呼びかけ</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1248215.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/215/1_o.png"></div></div></div></div></div></div><p>　中国のIntelカスタマサポートの公式WeChatアカウントは17日(現地時間)、市場にCPUのリマーク品が出回っていることを報告し、ユーザーに注意を促した。</p><p>　同社によると、このところ故意にリマークされたCPUが、同社のサポートセンターに寄せられ、交換を求められるケースが増えているのだという。たとえばヒートスプレッダを移植して上位SKUと見せかけ、実際はダイが破損していて動作しないもの、もしくはオリジナルの刻印をなんらかの手法で消して、異なる製品の情報を載せたものなどだ。</p><p>　当然のことながら、同社は正規のルートで販売され、リマークされていない製品でしか保証サービスを提供していない。これらリマーク済みの製品は保証の対象外となり、一切のサービスを受けられない。</p><p>　また、こういったリマークでIntelもしくは消費者を詐くのは犯罪行為にあたる。こうした行為を見かけた場合、同社は公安当局に通報し、あらゆる法的手段を用いて権益を確保するとしている。</p><p>　偽物があまり流通しない日本では、これまであまり問題にならなかっただろうが、現在はAliExpressなどの越境ECによる取引も盛んだ。とくに中古の格安CPUを購入しようとしているユーザーは騙されないように、十分に注意したいところである。</p></div></div>]]></description>
-			<pubDate>Mon, 20 Apr 2020 13:53:47 +0900</pubDate>
-		</item>
-		<item>
 			<title>Windowsセキュリティが機能停止する不具合 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1248238.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/238/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>のサポートページにて16日(現地時間)、Windowsセキュリティに関する不具合が報告されている。</p><p>　Windowsセキュリティ内のVirus and Threat Protection(ウイルスと脅威の防止)の項目で、threat service(脅威のサービス)が停止したため再起動するよう通知が表示されるものの、再起動後に問題が解決せず、予期せぬエラーが発生するというもの。</p><p>　この不具合はバージョン1.313.1638.0環境下で確認されており、バージョン1.313.1687.0に更新することで修正できる。アップデートは、ウイルスと脅威の防止の項目内または「設定→更新とセキュリティ→更新プログラムのチェック」から実行可能。</p></div></div>]]></description>
@@ -105,6 +87,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1248432.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/432/01.gif"></div></div><span class="caption">Teams用追加アプリCommunities</span></div></div></div></div><p>　米<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は20日(現地時間)、同社が提供する企業向けソーシャルネットワーキングサービス「Yammer」のMicrosoft Teams用連携機能をリリースした。</p><p>　社内での情報共有や全社規模のミーティングなど、Yammerが提供する機能をTeams内から利用できるようになるもの。Teams内の追加アプリ「Communities」として提供され、リリース時点ではデスクトップ版のTeamsアプリまたはWebブラウザ版に実装される。モバイル版については近日中のうちに利用可能になる予定。なお、各プラットフォームで提供されているYammerアプリについては引き続き使用できる。</p></div></div>]]></description>
 			<pubDate>Tue, 21 Apr 2020 12:32:31 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本郵政社員のコロナ感染で、一部地域のゆうパックなど引き受け停止 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1248463.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/463/01.jpg"></div></div></div></div></div></div><p>　日本郵便株式会社は20日、東京、茨城、北海道においてグループ社員が新型コロナウイルスに感染したことを公表した。感染が確認されたのは、東京・大森郵便局の窓口担当者1名、茨城・阿見郵便局の集配担当者1名、北海道・札幌南一条中郵便局の窓口業務担当者1名の計3名。</p><p>　大森郵便局では4月14日から、阿見郵便局と札幌南一条中郵便局では20日から消毒作業などのため、当分の間業務を停止。これにより、大森郵便局と阿見郵便局の管轄地域宛のゆうパック、ゆうメールの引き受けが一時停止となっており、ゆうパックを利用する物流にも影響が出るものとみられる。なお、札幌南一条中郵便局では、郵便物・ゆうパックへの影響はないとしている。</p></div></div>]]></description>
+			<pubDate>Tue, 21 Apr 2020 13:03:38 +0900</pubDate>
+		</item>
+		<item>
+			<title>HyperX、7.1chサラウンド対応の有線/無線ゲーミングヘッドセット2機種 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1248456.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/456/01.jpg"></div></div><span class="caption">Cloud Stinger Core +7.1</span></div></div></div></div><p>　<a href="https://www.kingston.com/jp/" class="n" target="_blank">Kingston Technology</a>はゲーミングブランド<a href="https://www.hyperxgaming.com/jp" class="n" target="_blank">HyperX</a>より、ゲーミングヘッドセット「Cloud Stinger Core +7.1」および「Cloud Stinger Core Wireless +7.1」を発売した。価格はそれぞれ5,980円、9,980円。</p><p>　両製品ともに、40mm径のダイナミックドライバーを搭載した密閉型ヘッドセット。専用ユーティリティNGENUITYと付属のUSBアダプタを通じた7.1chバーチャルサラウンド機能が利用できるほか、マイクを上に回転させると自動でミュートされる機能やイヤーカップ部に音量調整ダイヤルも備える。</p><p>　おもな仕様は共通で、ヘッドフォン部は周波数特性が20～20,000Hz、インピーダンスが16Ω、音圧103dB。マイク部は単一指向性でノイズキャンセリング機能を備え、周波数特性が50～18,000Hz、感度が-40dB。</p><p>　前者はアナログ有線接続で、重量が240g。後者は2.4GHz無線接続で、重量が244g、バッテリ駆動時間は17時間。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/456/02.jpg"></div></div><span class="caption">Cloud Stinger Core Wireless +7.1</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Tue, 21 Apr 2020 13:09:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
