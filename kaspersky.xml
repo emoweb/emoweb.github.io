@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>世代間ギャップを超えたセキュリティのあり方</title>
-			<link>https://blog.kaspersky.co.jp/rsa2020-generational-divide/27928/</link>
-			<description><![CDATA[セキュリティに関する戦略を策定するに当たっては、世代間の違いを考える必要がある—RSA Conference 2020での、ベン・スミス氏の講演より。]]></description>
-			<pubDate>Mon, 06 Apr 2020 01:00:47 +0000</pubDate>
-		</item>
-		<item>
 			<title>自宅から参加するビデオ会議：5つのヒント</title>
 			<link>https://blog.kaspersky.co.jp/videoconference-five-tips/28035/</link>
 			<description><![CDATA[ビデオ会議まであと1分なのに、猫がケーブルをかじっているしネットワークに接続できない。そんなことにならないように、会議には準備して臨むべし。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/holy-water-apt/28021/</link>
 			<description><![CDATA[Adobe Flash Playerのアップデートに見せかけたバックドアを使用して、コンピューターへの感染を企む攻撃。]]></description>
 			<pubDate>Mon, 20 Apr 2020 01:00:21 +0000</pubDate>
+		</item>
+		<item>
+			<title>小規模な組織にありがちなサイバーセキュリティの8つの「危ない」とその対策</title>
+			<link>https://blog.kaspersky.co.jp/common-smb-mistakes/28098/</link>
+			<description><![CDATA[今日から気にしていただきたい、情報セキュリティのよくある「危ない」。]]></description>
+			<pubDate>Wed, 22 Apr 2020 01:00:21 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
