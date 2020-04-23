@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Windows 10プレビュー版、日本語版のコルタナをアップデート </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1248999.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/999/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は22日(現地時間)、Windows 10 Insider Preview「Build 19613.1000」をFast ringで公開した。</p><p>　今回のビルドでは、音声アシスタントのコルタナをアップデートし、日本を含めた欧州などの各国の言語で、Bing AnswersとAssistant Conversationsが有効化された。なお、アップデートは段階的に適用されるため、すぐには利用できない可能性がある。最新版のバージョンは「2.2004.1706.0」。</p><p>　このほか、タスクバー上のアプリのアイコンが正しく表示されなくなる問題などが修正されている。</p></div></div>]]></description>
-			<pubDate>Thu, 23 Apr 2020 11:04:01 +0900</pubDate>
-		</item>
-		<item>
-			<title>最大16人表示、ノイズキャンセルや低照度下の画質改善など、Google Meetが機能向上 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1248982.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/982/1_o.png"></div></div></div></div></div></div><p>　<a href="https://www.google.com/" class="n" target="_blank">Google</a>は23日(現地時間)、オンライン会議アプリのGoogle Meetをアップデートし、要望の多かった4つの機能をすべてのG Suiteユーザー向けに順次ロールアウトしていくと発表した。</p><p>　まず、大規模なオンライン会議向けにタイル表示レイアウトを導入し、最大16人を同時表示可能になった。これまでタイル表示は4人までしか同時表示できなかった。</p><p>　また、これまでウィンドウや画面全体でしか共有できなかったが、Chromeのタブ単位で共有できるようになった。この機能は本日より有効にされる。高品質ビデオとオーディオコンテンツを共有する必要がある場合、このオプションを使うよう推奨している。</p><p>　このほか、AIで低照度下の画質を改善するローライトモードや、バックグラウンドのノイズを消去するノイズキャンセリング機能なども順次実装する。</p></div></div>]]></description>
-			<pubDate>Thu, 23 Apr 2020 11:09:03 +0900</pubDate>
-		</item>
-		<item>
 			<title>iOSのメール機能に深刻な脆弱性。ゼロクリックでリモートコード実行可能 ～すでにゼロディ攻撃に使われた形跡あり</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1248996.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/996/1_o.jpg"></div></div></div></div></div></div><p>　米国セキュリティ企業の<a href="https://www.zecops.com/" class="n" target="_blank">ZecOps</a>は20日(現地時間)、iOS標準のメール機能に、ユーザーがクリックせずともリモートデコードが実行されてしまう深刻な脆弱性が存在し、ゼロディ攻撃に使われた形跡があったため、注意を促した。</p><p>　同社は定期的にiOSのセキュリティについて調査を行なっているが、北米フォーチュン500企業の個人、日本のキャリアの幹部、ドイツのVIP、サウジアラビアとイスラエルのMSSP、ヨーロッパのジャーナリスト、スイス企業の幹部といった人物をターゲットに、この脆弱性に対する複数のトリガーを長期的にわたって検出できたという。</p><p>　この攻撃は、特別に細工されたメールを送信し、iOS 12のiOS MobileMailアプリケーションや、iOS 13のMaildのコンテキストで脆弱性をトリガーするようになっている。iOS 6以降のすべてのバージョンのiOSで脆弱性が存在する可能性があり、最新のiOS 13.4.1にも存在する。</p><p>　具体的には、iOSにおけるMIMEライブラリの「MFMutableData」における関数-[MFMutableData appendBytes:length:]の実装手法に問題があり、システムコールftruncate()のエラーチェックが欠けているため、境界外書き込みにつながるという。</p><p>　また、ZecOpsではこのftrucate()の失敗を待たずに、MFMutableDataで境界外書き込みをトリガーできることや、リモートでトリガーできるヒープオーバーフローできることも発見した。いずれのバグも、システムコールの戻り値を正しく処理していないことに起因するという。</p><p>　リモートでトリガーできるバグに関しては、メールをダウンロードしている最中にも発生するため、メールがデバイスに完全にダウンロードされないとしている。</p><p>　iOS 12で悪用された場合、メールアプリが一時的に速度低下し、成功/失敗に関わらず突然クラッシュしたりする。一方iOS 13では一時的に速度低下する以外は気づかれず、攻撃が失敗した場合別の攻撃が行なわれ、メールが削除されてしまえばユーザーは気づくことはないという。</p><p>　iOS 13.4.5 betaではこの脆弱性が修正されていることがわかっており、配布まではOutlookやGmailといったほかのアプリケーションを利用することで回避できるとしている。</p></div></div>]]></description>
@@ -87,6 +75,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1249187.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/187/02_o.jpg"></div></div><span class="caption">不織布マスク「MA-1050」</span></div></div></div></div><p>　<a href="https://jp.sharp/" class="n" target="_blank">シャープ株式会社</a>は、個人向けに販売を開始した同社製不織布マスク「MA-1050」について、販売方式を抽選式に変更したことを発表した。</p><p>　同社は4月21日の午前10時より販売を行なったが、アクセスが集中し販売サイトにつながらず、購入できないという問題が発生していた。そのため、抽選方式に切り替え、4月27日に応募を開始し、翌日の28日に抽選を行なう。販売数量は30,000箱(1箱50枚入り)で、価格は1箱2,980円。お一人様1点かぎりとなっている。</p><p>　シャープでは、「当初の早い者勝ちという方式を見直し、抽選方式とすることで、サイトへの一時的な集中を緩和することにした」とし、「ほかのシステムと分離したかたちで、抽選応募用の専用サーバーを新たに設置した。これにより、COCORO+サービスへの影響がおよばないように対策をとった。さらに、外部のCDNを活用することで、抽選応募のための専用サーバーへの負荷を軽減する対策も取ることにした」とコメントしている。</p><p>　現時点まで、AIoT家電がスマホで利用できないなどの事態が続いているが、今回の措置により、これも緩和できるとみている(<a href="https://pc.watch.impress.co.jp/docs/news/1248556.html">シャープのマスク通販サイトへの殺到で同社IoT機器にも影響</a>参照)。</p><p>　なお、2020年4月21日午前10時から販売を予定していた3,000箱(15万枚)の個人向けマスクについては、COCORO STOREでは、販売実績があったかのように一時的に「在庫切れ」と表示されていたが、現時点までに販売実績はゼロだという。</p><p>　今回、抽選対象となるのは30,000箱(合計150万枚)となるが、21日から毎日生産していたものに、増産した分などを加えて、3万箱を用意することができた模様だ。日産3,000箱という公表数字から逆算すると、9,000箱多く用意したことになる。</p><p>　ちなみに、第2回目の抽選日や販売するマスクの数量は現時点では未定としている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/187/03_o.png"></div></div><span class="caption">COCORO STOREでは、一時的に「在庫切れ」と表示されていた</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Thu, 23 Apr 2020 18:09:24 +0900</pubDate>
+		</item>
+		<item>
+			<title>本日みつけたお買い得品60W USB PD出力対応のAUKEY製2ポート充電器が22%引き</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/todays_sales/1249185.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/185/01.jpg"></div></div><span class="caption">PA-D3</span></div></div></div></div><p>　<a href="https://jp.aukey.com/" class="n" target="_blank">AUKEY</a>は、窒化ガリウム(GaN)を採用した2ポート小型USB充電器「PA-D3」の22%引きコードをAmazon.co.jpで配布している。クーポンコード「AUKEYPAD3」をレジにて適用すると、通常価格3,980円のところ3,119円にて購入できる。先着500台限定で、期間は4月27日まで。</p><p>　PA-D3は、最大60WのUSB Power Delivery 3.0出力に対応したType-Cポートと、最大12W出力のType-Aポートを1基ずつ備えた充電器。前者は5V/3A、9V/3A、12V/2.5A、15V/3A、20V/3A、後者は5V/2.4Aの出力が可能で、2ポート合計で60Wの出力が行なえる。GaNの採用により、小型化も図られている。</p><p>　本体サイズは67×29×64mm(幅×奥行き×高さ)、重量は148g。</p><div><div><div><div><div><ul class="aff_list"><li class="aff_item"><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07YFPXS4Y/impresswatch-6-22/ref=nosim" target="_blank"><img src="https://m.media-amazon.com/images/I/31J2hwn2CiL._SL160_.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07YFPXS4Y/impresswatch-6-22/ref=nosim" target="_blank">PA-D3</a></div></div></li></ul></div></div></div></div></div><p><span class="fnt-75">※セール開催・内容・価格等は、予告なく変更となる場合がございます。正確な情報は、販売ページ上でご確認ください。</span></p></div></div>]]></description>
+			<pubDate>Thu, 23 Apr 2020 19:23:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>ロジテック、macOS向け仮想化ソフトつきポータブルSSD </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1249125.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/125/01.jpg"></div></div><span class="caption">LMD-SPAU3M</span></div></div></div></div><p>　<a href="https://www.logitec.co.jp/" class="n" target="_blank">ロジテックINAソリューションズ株式会社</a>は、macOSでWindowsを動作させる仮想化ソフトが付属したポータブルSSD「LMD-SPAU3M」を発売した。容量は240GB/480GB/960GBの3種類を用意し、価格はすべてオープンプライス。</p><p>　LMD-SPAU3Mは、本体サイズが80×49.5×9.5mm(幅×奥行き×厚み)、重量が25gと小型軽量ながら、米国国防総省の定める耐久試験MIL-STD 810G 516.7をクリアし、耐衝撃・耐振動性能を備えたSSD。USB 3.0 Type-AおよびType-Cケーブルが同梱され、Type-Cポートを搭載していないMacでも利用できる。</p><p>　出荷時にmacOSで利用されるHFS+でフォーマットされており、購入後すぐに利用できるほか、macOS向けの仮想化ソフト「Parallels Desktop for Mac Pro Edition(1年ライセンス)」が付属する。対応OSはmacOS 10.12以降。</p></div></div>]]></description>
+			<pubDate>Thu, 23 Apr 2020 19:23:18 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
