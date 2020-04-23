@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>自宅から参加するビデオ会議：5つのヒント</title>
-			<link>https://blog.kaspersky.co.jp/videoconference-five-tips/28035/</link>
-			<description><![CDATA[ビデオ会議まであと1分なのに、猫がケーブルをかじっているしネットワークに接続できない。そんなことにならないように、会議には準備して臨むべし。]]></description>
-			<pubDate>Tue, 07 Apr 2020 01:00:37 +0000</pubDate>
-		</item>
-		<item>
 			<title>釣り餌に使われるCOVID-19の状況</title>
 			<link>https://blog.kaspersky.co.jp/coronavirus-corporate-phishing/27989/</link>
 			<description><![CDATA[企業を狙うフィッシング詐欺で、新型コロナウイルスに対する不安がどのように悪用されているか。実例を示しながら解説します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/common-smb-mistakes/28098/</link>
 			<description><![CDATA[今日から気にしていただきたい、情報セキュリティのよくある「危ない」。]]></description>
 			<pubDate>Wed, 22 Apr 2020 01:00:21 +0000</pubDate>
+		</item>
+		<item>
+			<title>指紋を偽造する：不可能ではないが困難</title>
+			<link>https://blog.kaspersky.co.jp/sas2020-fingerprint-cloning/28161/</link>
+			<description><![CDATA[調査チームの実験により、偽の指紋を作成して多数のデバイスを欺く方法が明らかになりました。ただし、かなりの労力を要する作業だったようです。]]></description>
+			<pubDate>Thu, 23 Apr 2020 01:00:31 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
