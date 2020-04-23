@@ -5,30 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>iOSのメール機能に深刻な脆弱性。ゼロクリックでリモートコード実行可能 ～すでにゼロディ攻撃に使われた形跡あり</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1248996.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1248/996/1_o.jpg"></div></div></div></div></div></div><p>　米国セキュリティ企業の<a href="https://www.zecops.com/" class="n" target="_blank">ZecOps</a>は20日(現地時間)、iOS標準のメール機能に、ユーザーがクリックせずともリモートデコードが実行されてしまう深刻な脆弱性が存在し、ゼロディ攻撃に使われた形跡があったため、注意を促した。</p><p>　同社は定期的にiOSのセキュリティについて調査を行なっているが、北米フォーチュン500企業の個人、日本のキャリアの幹部、ドイツのVIP、サウジアラビアとイスラエルのMSSP、ヨーロッパのジャーナリスト、スイス企業の幹部といった人物をターゲットに、この脆弱性に対する複数のトリガーを長期的にわたって検出できたという。</p><p>　この攻撃は、特別に細工されたメールを送信し、iOS 12のiOS MobileMailアプリケーションや、iOS 13のMaildのコンテキストで脆弱性をトリガーするようになっている。iOS 6以降のすべてのバージョンのiOSで脆弱性が存在する可能性があり、最新のiOS 13.4.1にも存在する。</p><p>　具体的には、iOSにおけるMIMEライブラリの「MFMutableData」における関数-[MFMutableData appendBytes:length:]の実装手法に問題があり、システムコールftruncate()のエラーチェックが欠けているため、境界外書き込みにつながるという。</p><p>　また、ZecOpsではこのftrucate()の失敗を待たずに、MFMutableDataで境界外書き込みをトリガーできることや、リモートでトリガーできるヒープオーバーフローできることも発見した。いずれのバグも、システムコールの戻り値を正しく処理していないことに起因するという。</p><p>　リモートでトリガーできるバグに関しては、メールをダウンロードしている最中にも発生するため、メールがデバイスに完全にダウンロードされないとしている。</p><p>　iOS 12で悪用された場合、メールアプリが一時的に速度低下し、成功/失敗に関わらず突然クラッシュしたりする。一方iOS 13では一時的に速度低下する以外は気づかれず、攻撃が失敗した場合別の攻撃が行なわれ、メールが削除されてしまえばユーザーは気づくことはないという。</p><p>　iOS 13.4.5 betaではこの脆弱性が修正されていることがわかっており、配布まではOutlookやGmailといったほかのアプリケーションを利用することで回避できるとしている。</p></div></div>]]></description>
-			<pubDate>Thu, 23 Apr 2020 11:12:04 +0900</pubDate>
-		</item>
-		<item>
-			<title>MSI、GeForce搭載で約10万円の14型軽量モバイルノート </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1249019.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/019/01_o.jpg"></div></div><span class="caption">Modern 14</span></div></div></div></div><p>　<a href="https://jp.msi.com/" class="n" target="_blank">エムエスアイコンピュータージャパン株式会社</a>は、ビジネス/クリエイター向けの14型モバイルノート「Modern 14」を<a href="https://shop.applied-net.co.jp/" class="n" target="_blank">アプライド</a>にて5月2日より発売する。価格は105,000円。</p><p>　テレワークに最適とする製品で、ディスクリートGPUとしてGeForce MX330を搭載しながら、本体の厚みが15.9mm、重量1.19kgとなり、MSIのノートPCとしては史上最薄・最軽量を謳う。また、CPUは第10世代のCore i5を搭載し、GeForce MX330と合わせてオフィスソフトや画像編集だけでなく、3Dグラフィックスの作成も可能とする。</p><p>　おもな仕様は、CPUがCore i5-10210U(4コア/8スレッド、1.6～4.2GHz)、GPUがGeForce MX330(GDDR5 2GB)、メモリ8GB、NVMe SSD 256GB、14型フルHD(1,920×1,080ドット)非光沢液晶、OSはWindows 10 Home。</p><p>　インターフェイスは、USB 3.0×4(2基はType-C)、HDMI、SDカードスロット、IEEE 802.11ac無線LAN、Bluetooth 5、ステレオスピーカー、音声入出力端子などを装備。</p><p>　本体サイズは322×222×15.9mm(幅×奥行き×高さ)。バッテリ容量は50Whr。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/019/02_o.jpg"></div></div></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/019/03_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
-			<pubDate>Thu, 23 Apr 2020 12:00:04 +0900</pubDate>
-		</item>
-		<item>
-			<title>バッファロー、夏発売予定のWi-Fi 6対応無線ルーター3機種を発表 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1249032.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/032/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.buffalo.jp/" class="n" target="_blank">株式会社バッファロー</a>は、2020年夏に発売予定のWi-Fi 6対応無線LANルーターを3機種発表した。価格はともに未定。</p><p>　同社は2019年10月に、10Gigabit Ethernet/Wi-Fi 6(IEEE 802.11ax)対応のハイエンド無線LANルーター「WXR-5950AX12」を発売しており、今回それに続くWi-Fi 6対応製品群を展開する。各製品ともに、外観はシルエットのみが公開されている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/032/02.jpg"></div></div><span class="caption">WXR-5700AX7S</span></div></div></div></div><p>　上位モデルの「WXR-5700AX7S」は、WANポートに10Gigabit Ethernetを1基備えた製品。LAN側はGigabit Ethernet×4の構成となる。外付けアンテナを採用し、5GHz帯(バンド幅160MHz)で4ストリーム、2.4GHz帯で3ストリームに対応。通信速度は前者が4,803Mbps、後者が860Mbps。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/032/03.jpg"></div></div><span class="caption">WSR-5400AX6</span></div></div></div></div><p>　中位モデルの「WSR-5400AX6」は内蔵アンテナを採用した製品で、5GHz帯では160MHzのバンド幅に対応。5GHz帯で4ストリーム、2.4GHz帯で2ストリームに対応し、前者は4,803Mbps、後者は573Mbpsの通信が可能。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/032/04.jpg"></div></div><span class="caption">WSR-1800AX4</span></div></div></div></div><p>　下位モデルの「WSR-1800AX4」は、5GHz帯/2.4GHz帯ともに2ストリームをサポートした製品。5GHz帯のバンド幅を80MHzに抑えるなど、エントリークラスの位置づけとなっている。アンテナは内蔵式で、通信速度は5GHz帯で1,201Mbps、2.4GHz帯で573Mbps。</p><p>　WSR-5400AX6およびWSR-1800AX4は、ともにGigabit Ethernet×5(うち1基WAN)を備える。</p></div></div>]]></description>
-			<pubDate>Thu, 23 Apr 2020 12:17:17 +0900</pubDate>
-		</item>
-		<item>
-			<title>富士通、富岳の技術が活きる“19.4PFLOPS”のスパコンをJAXAに納入 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1249039.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/039/01.jpg"></div></div><span class="caption">FUJITSU Supercomputer PRIMEHPC FX1000</span></div></div></div></div><p>　<a href="https://www.fujitsu.com/jp/" class="n" target="_blank">富士通株式会社</a>は22日、を国立研究開発法人宇宙航空研究開発機構(JAXA)より、スーパーコンピュータ「FUJITSU Supercomputer PRIMEHPC FX1000」を受注したことを発表した。稼働は10月を予定。</p><p>　JAXAでは、航空機やロケットなどの研究における流体力学や構造力学などの数値シミュレーション、衛星が収集した地球観測データを研究者や一般利用者向けに加工したり、ディープラーニングの計算に活用したりするなどの目的で、スーパーコンピュータを利用しており、3,240ノードで構成される富士通のPRIMEHPC FX100などを使用している。</p><p>　今回JAXAは、理化学研究所が共同開発しているスーパーコンピュータ「富岳」の技術を活用したPRIMEHPC FX1000を5,760ノード導入し、倍精度(64bit)での理論演算性能で現行システムの約5.5倍となる19.4PFLOPSを実現する見込み。</p><p>　PRIMEHPC FX1000は、Armアーキテクチャを採用するA64FXプロセッサを搭載。導入されるシステムのノートあたりの性能は3.3792TFLOPS、メモリは32GB。システムはTofuインターコネクトDで接続される。</p><p>　また、大容量メモリやGPUを搭載し、さまざまな計算に対応可能な汎用システムとして、FUJITSU Server PRIMERGYシリーズを465ノード導入するほか、約10PB(ペタバイト)の高速アクセス記憶装置を含んだ、50PBの大容量ファイルシステムが構築される。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/039/02.jpg"></div></div><span class="caption">実際のフライト環境を忠実に再現し、航空機の周辺に発生する空間の渦を計算</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/039/03.jpg"></div></div><span class="caption">ロケット打ち上げ時のエンジン排気噴流や音響波の発生・伝播メカニズムを計算</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Thu, 23 Apr 2020 12:19:19 +0900</pubDate>
-		</item>
-		<item>
 			<title>日本IBM、企業向けの「感染症対策アクションガイド」を無償公開 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1249055.html</link>
 			<description><![CDATA[<div><div><p>　<a href="https://www.ibm.com/jp-ja" class="n" target="_blank">日本アイ・ビー・エム株式会社</a>は23日、企業経営者向けに新型コロナウイルス感染症への対応観点や活動指針をまとめたホワイトペーパー「<a href="https://www.ibm.com/downloads/cas/DGRYPEAZ" class="n" target="_blank">新型コロナウイルス感染症対策アクション・ガイド 日本語版</a>」を無償で公開した。</p><p>　新型コロナウイルス禍におけるIBM自らの事業継続の取り組みと経験に基づいて作成されたもので、企業経営者が対策を実施した後に、その妥当性を確認できること、対策を実行・拡大できずにいる経営者を後押しすることを目的としているという。</p><p>　業種・業態を問わずすべての企業において改善できると思われる領域を明らかにしたうえで、将来に備えたビジョンの策定に係るさまざまな情報・示唆を提供。とくに、大きな危機や変化にさいして重要となる4つの領域に焦点を当てて解説している。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/055/01_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
@@ -87,6 +63,30 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1249125.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/125/01.jpg"></div></div><span class="caption">LMD-SPAU3M</span></div></div></div></div><p>　<a href="https://www.logitec.co.jp/" class="n" target="_blank">ロジテックINAソリューションズ株式会社</a>は、macOSでWindowsを動作させる仮想化ソフトが付属したポータブルSSD「LMD-SPAU3M」を発売した。容量は240GB/480GB/960GBの3種類を用意し、価格はすべてオープンプライス。</p><p>　LMD-SPAU3Mは、本体サイズが80×49.5×9.5mm(幅×奥行き×厚み)、重量が25gと小型軽量ながら、米国国防総省の定める耐久試験MIL-STD 810G 516.7をクリアし、耐衝撃・耐振動性能を備えたSSD。USB 3.0 Type-AおよびType-Cケーブルが同梱され、Type-Cポートを搭載していないMacでも利用できる。</p><p>　出荷時にmacOSで利用されるHFS+でフォーマットされており、購入後すぐに利用できるほか、macOS向けの仮想化ソフト「Parallels Desktop for Mac Pro Edition(1年ライセンス)」が付属する。対応OSはmacOS 10.12以降。</p></div></div>]]></description>
 			<pubDate>Thu, 23 Apr 2020 19:23:18 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】【パソコン仕事術】仮想デスクトップの操作を一瞬で </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1249227.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/227/03_o.jpg"></div></div></div></div></div></div><blockquote><p>　仮想デスクトップの操作にはショートカットキーが大いに活躍します。設定次第ではアプリを選ぶだけでデスクトップごと切り替えられるので、大幅な時短が図れます。</p><p class="src">できるネットの<a href="https://dekiru.net/article/19616/">【パソコン仕事術】仮想デスクトップの操作を一瞬で</a></p></blockquote></div></div>]]></description>
+			<pubDate>Fri, 24 Apr 2020 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】【Excel】SUMIF関数の使い方。条件に一致するデータの合計をさまざまな方法で求める </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1249226.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/226/02_o.png"></div></div></div></div></div></div><blockquote><p>　Excelで数値を合計したいとき、まず思い浮かぶのは「SUM」（サム）関数ですが、条件を指定して合計したいときの定番は「SUMIF」（サム・イフ）関数です。基本的な使い方から、比較演算子などを使った応用まで、ひと通りの活用法をマスターしておきましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/19911/">【Excel】SUMIF関数の使い方。条件に一致するデータの合計をさまざまな方法で求める</a></p></blockquote></div></div>]]></description>
+			<pubDate>Fri, 24 Apr 2020 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【本日のできるネット】【Slack】チャンネルの新規作成と削除方法。特定の話題について会話する「場」を準備しよう </title>
+			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1249225.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/225/01_o.png"></div></div></div></div></div></div><blockquote><p>　メールよりも効率的なチャットでコミュニケーションするためのツールとして、すでに多くの企業で使われているのが「Slack」（スラック）です。このSlackでコミュニケーションするための「場」となる、チャンネルの作成方法を解説します。</p><p class="src">できるネットの<a href="https://dekiru.net/article/19913/">【Slack】チャンネルの新規作成と削除方法。特定の話題について会話する「場」を準備しよう</a></p></blockquote></div></div>]]></description>
+			<pubDate>Fri, 24 Apr 2020 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>MSI、16Gbpsの高速GDDR6を採用したGeForce RTX 2080 Ti搭載カード </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1249202.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/202/01.jpg"></div></div><span class="caption">GeForce RTX 2080 Ti GAMING Z TRIO</span></div></div></div></div><p>　<a href="https://jp.msi.com/" class="n" target="_blank">エムエスアイコンピュータージャパン株式会社</a>は、従来モデルより高速なGDDR6メモリとGeForce RTX 2080 Tiを搭載したビデオカード「GeForce RTX 2080 Ti GAMING Z TRIO」を5月1日より発売する。すでに予約受け付けを開始しており、税別店頭予想価格は162,500円前後の見込み。</p><p>　GeForce RTX 2080 Ti GAMING Z TRIOは、従来製品が14GbpsのGDDR6メモリを搭載していたのに対し、16Gbpsのものを採用し高速化を図ったビデオカード。約5%の性能向上を実現したとする。</p><p>　独自設計のトルクスファン3.0を3基組みあわせたTRI FROZR設計となっており、高い冷却性と耐久性を備えるほか、RGB LEDも内蔵する。</p><p>　おもな仕様は、ブーストクロックが最大1,755MHz、メモリがGDDR6 11GBで、速度が16Gbps、バス幅が352bit。補助電源は8ピン×2+6ピンで、TDPは300W。</p><p>　インターフェイスは、HDMI 2.0b、DisplayPort 1.4×3、USB Type-Cを備える。</p><p>　本体サイズは328×140×57mm(幅×奥行き×高さ)、重量は1,545g。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/202/02.jpg"></div></div><span class="caption">背面</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1249/202/03.jpg"></div></div><span class="caption">インターフェイス部</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Fri, 24 Apr 2020 06:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
