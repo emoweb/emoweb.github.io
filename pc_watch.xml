@@ -112,5 +112,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1250/382/01.jpg"></div></div></div></div></div></div><p>　英<a href="https://www.arm.com/" class="n" target="_blank">Arm</a>は29日(英国時間)、製品の開発段階におけるスタートアップ企業向けの知的財産(IP)無償提供プログラム「Arm Flexible Access for Startups」を開始した。</p><p>　Arm Flexible Access for Startupsは、資金調達額が最大500万ドルまでの「アーリーステージ」と呼ばれるスタートアップ企業向けに提供されるプログラム。基準を満たしていれば、設計やプロトタイプなどといった製品開発の段階においてArmのIPを無償で利用できる。</p><p>　製品開発におけるリスクが抑えられるほか、市場投入までにかかる時間を6～12カ月短縮できるとしており、スタートアップ企業の参入や事業拡大を支援する。Arm Cortex-A/R/MプロセッサシリーズやArm Mali GPU/ISPシリーズ、ビルディングブロックなどのIPが対象となっている。</p></div></div>]]></description>
 			<pubDate>Thu, 30 Apr 2020 15:23:28 +0900</pubDate>
 		</item>
+		<item>
+			<title>OneDriveの全ユーザーが差分同期を利用可能に </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1250396.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1250/396/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は、同社が提供するクラウドストレージサービスのOneDriveに差分同期の機能を実装した。同サービスのプログラムマネジメントディレクターOmar Shahine氏が28日にTwitterで発表したもの。</p><p>　OneDriveの従来の同期機能では、容量の大きなファイルに変更が加えられた場合、再アップロードのかたちで同期する必要があった。差分同期の場合、変更部分だけアップロードすればよい仕様となるため、同期のかかる時間やネットワーク帯域を節約できる。</p><p>　以前よりユーザーからの要望が多かった機能で、同社では機能の実装を進めていた。2019年7月時点で、ビジネスアカウントのユーザー向けには実装が完了していたが、今回個人ユーザー向けにも実装されたかたち。すべてのファイル形式で差分同期が利用可能となっている。</p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">💥[boom it's done] I love it when the team resolves<a href="https://twitter.com/onedrive?ref_src=twsrc%5Etfw">@onedrive</a>User Voice suggestions with thousands of votes! "Enable differential sync (only sync parts of the files that changed)" - is now rolled out to all customers<a href="https://t.co/lQUTiUrzqn">https://t.co/lQUTiUrzqn</a></p>— Omar Shahine (@OmarShahine)<a href="https://twitter.com/OmarShahine/status/1254801063011471361?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div>]]></description>
+			<pubDate>Thu, 30 Apr 2020 16:07:55 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
