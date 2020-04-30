@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Steamアカウントを詐欺や荒らしから守るには</title>
-			<link>https://blog.kaspersky.co.jp/steam-privacy-security/28108/</link>
-			<description><![CDATA[世界最大級の利用者を抱えるゲームプラットフォームの、セキュリティとプライバシーの設定。簡潔に説明します。]]></description>
-			<pubDate>Tue, 14 Apr 2020 01:00:18 +0000</pubDate>
-		</item>
-		<item>
 			<title>著名なオンライン会議アプリの名前を悪用してマルウェアを拡散させるサイバー犯罪者たち</title>
 			<link>https://blog.kaspersky.co.jp/social-meeting-apps-used-by-cybercriminals/28114/</link>
 			<description><![CDATA[オンラインでコミュニケーションを取る機会が増える中、この状況をサイバー犯罪者が利用する動きが見られています。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/make-home-wifi-great-again/28188/</link>
 			<description><![CDATA[うちのWi-Fiがちょっと不安定…。その問題を克服するための、5つのヒント。]]></description>
 			<pubDate>Tue, 28 Apr 2020 01:00:55 +0000</pubDate>
+		</item>
+		<item>
+			<title>MITRE ATT&amp;CK評価テスト</title>
+			<link>https://blog.kaspersky.co.jp/mitre-apt29-evaluation/28212/</link>
+			<description><![CDATA[当社ソリューションが、MITREによる「APT29 Evaluation」テストを受けました。これはどういったテストなのか、テストの目的と手法、結果の持つ意味について説明します。]]></description>
+			<pubDate>Thu, 30 Apr 2020 04:00:57 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
