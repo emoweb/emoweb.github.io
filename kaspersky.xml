@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>著名なオンライン会議アプリの名前を悪用してマルウェアを拡散させるサイバー犯罪者たち</title>
-			<link>https://blog.kaspersky.co.jp/social-meeting-apps-used-by-cybercriminals/28114/</link>
-			<description><![CDATA[オンラインでコミュニケーションを取る機会が増える中、この状況をサイバー犯罪者が利用する動きが見られています。]]></description>
-			<pubDate>Wed, 15 Apr 2020 01:00:36 +0000</pubDate>
-		</item>
-		<item>
 			<title>ユーザー名列挙攻撃の危険性</title>
 			<link>https://blog.kaspersky.co.jp/username-enumeration-attack/28041/</link>
 			<description><![CDATA[Webアプリケーションを監査していた当社のエキスパートは、ユーザー名列挙攻撃に対する脆弱性を発見しました。それはどんな問題なのか、どう対処できるのか。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/mitre-apt29-evaluation/28212/</link>
 			<description><![CDATA[当社ソリューションが、MITREによる「APT29 Evaluation」テストを受けました。これはどういったテストなのか、テストの目的と手法、結果の持つ意味について説明します。]]></description>
 			<pubDate>Thu, 30 Apr 2020 04:00:57 +0000</pubDate>
+		</item>
+		<item>
+			<title>ビデオ会議アプリをサイバーセキュリティ面から見る</title>
+			<link>https://blog.kaspersky.co.jp/videoconference-software-security/28229/</link>
+			<description><![CDATA[広く使われているビデオ会議アプリは、セキュリティ面から見るとどうなのでしょう？]]></description>
+			<pubDate>Fri, 01 May 2020 01:00:36 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
