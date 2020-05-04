@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Twitchのセキュリティとプライバシー設定</title>
-			<link>https://blog.kaspersky.co.jp/twitch-privacy-security/28151/</link>
-			<description><![CDATA[Twitchアカウントを保護する方法、スパムコメントやヘイトコメントをブロックする方法、安心して楽しめるチャット環境を整える方法など。]]></description>
-			<pubDate>Fri, 17 Apr 2020 01:00:57 +0000</pubDate>
-		</item>
-		<item>
 			<title>マルウェアのインストールを促す危険な「聖水」</title>
 			<link>https://blog.kaspersky.co.jp/holy-water-apt/28021/</link>
 			<description><![CDATA[Adobe Flash Playerのアップデートに見せかけたバックドアを使用して、コンピューターへの感染を企む攻撃。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/covid-fake-delivery-service-spam-phishing/28217/</link>
 			<description><![CDATA[新型コロナウイルスの世界的流行によって、物流に問題が生じています。この状況に乗じた詐欺の手口を知り、被害に遭うのを防ぎましょう。]]></description>
 			<pubDate>Sat, 02 May 2020 01:00:54 +0000</pubDate>
+		</item>
+		<item>
+			<title>ランサムウェア「Shade」の全バージョンに対応する復号ツール</title>
+			<link>https://blog.kaspersky.co.jp/shade-decryptor-2020/28239/</link>
+			<description><![CDATA[ランサムウェア「Shade」（またの名をTroldesh）によって暗号化されたファイルを復号するツールを、Kasperskyのリサーチャーが開発しました。Shadeの全バージョンに対応しています。]]></description>
+			<pubDate>Mon, 04 May 2020 01:00:04 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
