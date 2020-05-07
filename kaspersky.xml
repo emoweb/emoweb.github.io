@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>マルウェアのインストールを促す危険な「聖水」</title>
-			<link>https://blog.kaspersky.co.jp/holy-water-apt/28021/</link>
-			<description><![CDATA[Adobe Flash Playerのアップデートに見せかけたバックドアを使用して、コンピューターへの感染を企む攻撃。]]></description>
-			<pubDate>Mon, 20 Apr 2020 01:00:21 +0000</pubDate>
-		</item>
-		<item>
 			<title>小規模な組織にありがちなサイバーセキュリティの8つの「危ない」とその対策</title>
 			<link>https://blog.kaspersky.co.jp/common-smb-mistakes/28098/</link>
 			<description><![CDATA[今日から気にしていただきたい、情報セキュリティのよくある「危ない」。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/shade-decryptor-2020/28239/</link>
 			<description><![CDATA[ランサムウェア「Shade」（またの名をTroldesh）によって暗号化されたファイルを復号するツールを、Kasperskyのリサーチャーが開発しました。Shadeの全バージョンに対応しています。]]></description>
 			<pubDate>Mon, 04 May 2020 01:00:04 +0000</pubDate>
+		</item>
+		<item>
+			<title>PhantomLanceのAndroid向けバックドア、Google Playで見つかる</title>
+			<link>https://blog.kaspersky.co.jp/phantomlance-android-backdoor-trojan/28246/</link>
+			<description><![CDATA[Kaspeskyのエキスパートは、Android向けのバックドア型トロイの木馬をGoogle Playで発見、攻撃活動「PhantomLance」の一環として利用されているものと判明しました。]]></description>
+			<pubDate>Thu, 07 May 2020 04:00:15 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
