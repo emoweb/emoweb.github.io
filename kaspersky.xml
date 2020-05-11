@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>小規模な組織にありがちなサイバーセキュリティの8つの「危ない」とその対策</title>
-			<link>https://blog.kaspersky.co.jp/common-smb-mistakes/28098/</link>
-			<description><![CDATA[今日から気にしていただきたい、情報セキュリティのよくある「危ない」。]]></description>
-			<pubDate>Wed, 22 Apr 2020 01:00:21 +0000</pubDate>
-		</item>
-		<item>
 			<title>指紋を偽造する：不可能ではないが困難</title>
 			<link>https://blog.kaspersky.co.jp/sas2020-fingerprint-cloning/28161/</link>
 			<description><![CDATA[調査チームの実験により、偽の指紋を作成して多数のデバイスを欺く方法が明らかになりました。ただし、かなりの労力を要する作業だったようです。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/phantomlance-android-backdoor-trojan/28246/</link>
 			<description><![CDATA[Kaspeskyのエキスパートは、Android向けのバックドア型トロイの木馬をGoogle Playで発見、攻撃活動「PhantomLance」の一環として利用されているものと判明しました。]]></description>
 			<pubDate>Thu, 07 May 2020 04:00:15 +0000</pubDate>
+		</item>
+		<item>
+			<title>新型コロナウイルスは業務にどう影響したか</title>
+			<link>https://blog.kaspersky.co.jp/report-covid-wfh/28257/</link>
+			<description><![CDATA[ほぼ全世界的に起きた、在宅勤務へのシフト。社会人の生活とセキュリティへの姿勢に、どういった影響を与えたのでしょうか。]]></description>
+			<pubDate>Mon, 11 May 2020 01:00:52 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
