@@ -106,5 +106,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1252/232/01.jpg"></div></div><span class="caption">ISS Docking Simulator</span></div></div></div></div><p>　<a href="https://www.spacex.com/" class="n" target="_blank">SpaceX</a>は、同社の宇宙船「Crew Dragon」と国際宇宙ステーション(ISS)とのドッキングを体験できる「ISS Docking Simulator」を公開した。Webブラウザ上でプレイできる。</p><p>　画面中央のヘッドアップディスプレイ(HUD)に表示される情報を読みながらCrew Dragonを操縦し、ISSへのドッキングを目指すシミュレータ。画面左側のボタンで上下/左右の移動と前進/後退の速度、右側でピッチ/ヨー/ロールの調整を行ない、ダイヤマークのドッキングポイントに向かってCrew Dragonを進めていく。ドッキングを成功させるには緑の数字をすべて0.2以下かつ速度を-0.2m/s以下(マイナスで前進)に抑える必要があり、繊細な操作が求められる。</p><p>　なお実際のドッキングでは、基本的にCrew Dragonの自律制御で操縦が行なわれるそうで、必要に応じて手動操作へ切り替えられる仕組みになっているという。</p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Simulator of Crew Dragon docking with<a href="https://twitter.com/Space_Station?ref_src=twsrc%5Etfw">@space_station</a>→<a href="https://t.co/vVqJfnbuNC">https://t.co/vVqJfnbuNC</a><a href="https://t.co/ZH3bkT0DhM">pic.twitter.com/ZH3bkT0DhM</a></p>— SpaceX (@SpaceX)<a href="https://twitter.com/SpaceX/status/1260269423090208768?ref_src=twsrc%5Etfw">May 12, 2020</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div>]]></description>
 			<pubDate>Wed, 13 May 2020 17:23:55 +0900</pubDate>
 		</item>
+		<item>
+			<title>Microsoft、定例セキュリティ更新を公開。Edgeで特権昇格する脆弱性などを修正 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1252258.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1252/258/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は、5月分の定例セキュリティ更新プログラムを公開した。</p><p>　今回の累積更新プログラムでは、深刻度が緊急のものを含む複数の脆弱性に対する修正が提供される。具体的には、Microsoft Edgeでの特権昇格の脆弱性(CVE-2020-1056)や、Microsoft SharePointでリモートコードが実行される脆弱性(CVE-2020-1023/1024)、Internet Explorerでのメモリ破損の脆弱性(CVE-2020-1062)などへの対策が施されている。</p><p>　Windows UpdateやMicrosoft Update Catalogなどを通じて入手でき、同社では早めの適用を奨めている。</p></div></div>]]></description>
+			<pubDate>Wed, 13 May 2020 18:21:18 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
