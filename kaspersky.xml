@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>画像内の情報を「ちゃんと」隠す方法</title>
-			<link>https://blog.kaspersky.co.jp/how-to-leak-image-info/28139/</link>
-			<description><![CDATA[初心者にありがちなミスを犯すことなく、画像内の個人情報を正しく隠す方法。]]></description>
-			<pubDate>Mon, 27 Apr 2020 01:00:08 +0000</pubDate>
-		</item>
-		<item>
 			<title>外出自粛期間中に家庭用Wi-Fiを強化する5つの方法</title>
 			<link>https://blog.kaspersky.co.jp/make-home-wifi-great-again/28188/</link>
 			<description><![CDATA[うちのWi-Fiがちょっと不安定…。その問題を克服するための、5つのヒント。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/quantum-computing-explained/28276/</link>
 			<description><![CDATA[猫や電球を例にとって、量子コンピューターについて説明します。]]></description>
 			<pubDate>Wed, 13 May 2020 01:00:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>ランサムウェアの巻き添え被害</title>
+			<link>https://blog.kaspersky.co.jp/ransomware-collateral-damage/28285/</link>
+			<description><![CDATA[ランサムウェアが、本来の標的だけでなく、感染しそうに思えないデバイスにも感染した顕著な例の数々。]]></description>
+			<pubDate>Thu, 14 May 2020 04:00:12 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
