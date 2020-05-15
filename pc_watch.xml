@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Microsoft、OEM向けWindows 10は今後32bit版を提供せず </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1252371.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1252/371/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は、OEM向けの32bit版Windows 10について、今後は提供を行なわないと公表した。</p><p>　Windows 10におけるハードウェアの最低要件をまとめた「Minimum hardware requirements」内の「Minimum hardware requirements for Windows 10 for desktop editions」に記載されたもので、OEM向けのWindows 10ではバージョン2004より64bit版の搭載が必須となる。これにともない、32bit版の提供が行なわれなくなる。</p><p>　製造時にこれ以前のバージョンを搭載したデバイスに関しては影響を受けないとしており、既存の32bit版に対するセキュリティや機能のアップデートは継続してリリースされる。また、OEM向け以外のチャネルでは引き続き32bit版のインストールメディアなども提供される。</p></div></div>]]></description>
-			<pubDate>Thu, 14 May 2020 12:12:02 +0900</pubDate>
-		</item>
-		<item>
 			<title>デル、第10世代Core H搭載で10万円からのゲーミングノート </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1252381.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1252/381/1.jpg"></div></div><span class="caption">Dell G3 15(3500)</span></div></div></div></div><p>　<a href="https://www.dell.com/ja-jp/" class="n" target="_blank">デル株式会社</a>は、第10世代Core Hプロセッサを搭載したエントリー向けゲーミングノート「Dell G3 15(3500)」シリーズを発売した。</p><p>　いずれも第10世代Core Hプロセッサを採用。デュアル冷却ファンシステムを採用し、長時間ゲームプレイにおける性能維持を確保。また、F7キーを押すだけでファン速度を最大化する「Game Shiftモード」や、ゲームを一元管理できる「Alienware Command Center」も搭載する。</p><p>　最下位構成は、CPUにCore i5-10300H、メモリ8GB、GPUにGeForce GTX 1650、512GB NVMe SSD、1,920×1,080ドット表示/60Hz対応15.6型IPS非光沢液晶ディスプレイ、OSにWindows 10 Homeを搭載し、税別/送料込み価格は109,980円。</p><p>　最上位構成は、CPUにCore i7-10750H、メモリ16GB、GPUにGeForce GTX 1650 Ti、512GB NVMe SSD、1,920×1,080ドット表示/144Hz対応15.6型IPS非光沢液晶ディスプレイ、OSにWindows 10 Homeを搭載し、税別/送料込み価格は149,980円。</p><p>　インターフェイスは、USB Type-C、USB 3.1、USB 2.0、Gigabit Ethernet、HDMI 2.0、音声入出力、SDカードスロット、720p対応Webカメラ、音声入出力などを備える。</p><p>　本体サイズは365.5×254×21.6mm(幅×奥行き×高さ)、重量は2.34kg。</p><p>　なお、将来的にGeForce GTX 1660 Tiも選択可能になる見込みで、その場合はUSB Type-Cの代わりにThunderbolt 3とMini DisplayPortが搭載される。また、Gigabit EthernetはKiller E2500V2となる。</p><p>　5月14日現在、17%オフクーポン「EARLYSUMMER17」が利用可能となっており、最下位構成で91,283円、最上位構成で124,483円となる。</p></div></div>]]></description>
@@ -117,6 +111,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1252538.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1252/538/01.jpg"></div></div></div></div></div></div><p>　<a href="https://blog.zoom.us/wordpress" class="n" target="_blank">米Zoom</a>は現地時間13日、5月後半および6月のアップデートについてのリリースを含む「90日間のセキュリティプランの進捗レポート」を発表した。</p><p>　同社では、4月からセキュリティとプライバシーを改善すべく「90日計画」を実施しており、その一環として、先週7日にはエンドツーエンドの暗号化メッセージングサービスなどを提供する「Keybase」の買収(参照:<a href="https://pc.watch.impress.co.jp/docs/news/1251580.html" class="n" target="_blank">Zoom、暗号化機能強化に向けKeybaseを買収</a>)を行ったほか、今月30日から、ミーティングの主催および参加時に「AES 256-bit GCM」暗号化方式に対応したZoom 5.0以上のクライアントソフトの使用を要求する。</p><p>　そのほか、17日から複数デバイスからの参加を無効にするオプション、「Single Pro」アカウントでホストのみがスクリーンシェアできるようにデフォルトを変更するほか、22日にはエンドツーエンド暗号化の詳細な暗号設計案をフィードバック用に公開するとしている。</p><p>　また、6月のアップデート計画について、エンドツーエンドの暗号化計画に取り組むことに加えて、パスワードをはじめとした待合室機能の強化に焦点を当てると述べた。また、会議の主催者向けに画面共有コントロールの追加についても検討する方針。</p><p>　加えて同リリースでは、Keybase買収後の同社既存製品への影響について言及し、引き続き使用可能であるものの、しばらくはZoomのセキュリティ面に注力する考えで、既存の製品の新機能の展開が遅くなる可能性があると示唆した。</p></div></div>]]></description>
 			<pubDate>Fri, 15 May 2020 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【やじうまPC Watch】Epic Gamesが「GTA5」を無料配布。ただし現在はアクセス困難</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1252584.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1252/584/1.jpg"></div></div></div></div></div></div><p>　Epic Gamesは、自身のストアにおいてオープンワールドアクションアドベンチャーゲーム「グランド・セフト・オートV」の無料配布を開始した。</p><p>　配布期間は5月21日までで、いったん入手すれば21日以降も継続してプレイできる。</p><p>　ただ15日早朝時点で、ホームページにアクセスしても403 Forbiddenとなりアクセスできない。Epic Games Store公式Twitterによると、現在アクセスが殺到しているため、スケールアップ策を講じており、できるだけ早い段階でアップデートするとしている。</p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are currently experiencing high traffic on the Epic Games Store.<br><br>We are aware that users may be encountering slow loading times, 500 errors, or launcher crashing at this time and we are actively working to scale. We'll provide an update as soon as we can.</p>— Epic Games Store (@EpicGames)<a href="https://twitter.com/EpicGames/status/1260949362085150722?ref_src=twsrc%5Etfw">May 14, 2020</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div>]]></description>
+			<pubDate>Fri, 15 May 2020 08:30:44 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
