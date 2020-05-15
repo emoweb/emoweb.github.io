@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>外出自粛期間中に家庭用Wi-Fiを強化する5つの方法</title>
-			<link>https://blog.kaspersky.co.jp/make-home-wifi-great-again/28188/</link>
-			<description><![CDATA[うちのWi-Fiがちょっと不安定…。その問題を克服するための、5つのヒント。]]></description>
-			<pubDate>Tue, 28 Apr 2020 01:00:55 +0000</pubDate>
-		</item>
-		<item>
 			<title>MITRE ATT&amp;CK評価テスト</title>
 			<link>https://blog.kaspersky.co.jp/mitre-apt29-evaluation/28212/</link>
 			<description><![CDATA[当社ソリューションが、MITREによる「APT29 Evaluation」テストを受けました。これはどういったテストなのか、テストの目的と手法、結果の持つ意味について説明します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/ransomware-collateral-damage/28285/</link>
 			<description><![CDATA[ランサムウェアが、本来の標的だけでなく、感染しそうに思えないデバイスにも感染した顕著な例の数々。]]></description>
 			<pubDate>Thu, 14 May 2020 04:00:12 +0000</pubDate>
+		</item>
+		<item>
+			<title>テレワークとランサムウェア</title>
+			<link>https://blog.kaspersky.co.jp/ransomware-telecommuting/28295/</link>
+			<description><![CDATA[テレワークへのシフトが一斉に進んだことで、ランサムウェア感染の影響がさらに大きくなる可能性が出てきました。]]></description>
+			<pubDate>Fri, 15 May 2020 01:00:39 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
