@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>MITRE ATT&amp;CK評価テスト</title>
-			<link>https://blog.kaspersky.co.jp/mitre-apt29-evaluation/28212/</link>
-			<description><![CDATA[当社ソリューションが、MITREによる「APT29 Evaluation」テストを受けました。これはどういったテストなのか、テストの目的と手法、結果の持つ意味について説明します。]]></description>
-			<pubDate>Thu, 30 Apr 2020 04:00:57 +0000</pubDate>
-		</item>
-		<item>
 			<title>ビデオ会議アプリをサイバーセキュリティ面から見る</title>
 			<link>https://blog.kaspersky.co.jp/videoconference-software-security/28229/</link>
 			<description><![CDATA[広く使われているビデオ会議アプリは、セキュリティ面から見るとどうなのでしょう？]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/ransomware-telecommuting/28295/</link>
 			<description><![CDATA[テレワークへのシフトが一斉に進んだことで、ランサムウェア感染の影響がさらに大きくなる可能性が出てきました。]]></description>
 			<pubDate>Fri, 15 May 2020 01:00:39 +0000</pubDate>
+		</item>
+		<item>
+			<title>データ漏洩と社員のモチベーション</title>
+			<link>https://blog.kaspersky.co.jp/human-angle-motivation/28199/</link>
+			<description><![CDATA[会社でデータ漏洩が起きた場合、社員のモチベーションはどのように変化するのでしょうか。]]></description>
+			<pubDate>Mon, 18 May 2020 01:00:11 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
