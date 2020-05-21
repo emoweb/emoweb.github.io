@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ランサムウェア「Shade」の全バージョンに対応する復号ツール</title>
-			<link>https://blog.kaspersky.co.jp/shade-decryptor-2020/28239/</link>
-			<description><![CDATA[ランサムウェア「Shade」（またの名をTroldesh）によって暗号化されたファイルを復号するツールを、Kasperskyのリサーチャーが開発しました。Shadeの全バージョンに対応しています。]]></description>
-			<pubDate>Mon, 04 May 2020 01:00:04 +0000</pubDate>
-		</item>
-		<item>
 			<title>PhantomLanceのAndroid向けバックドア、Google Playで見つかる</title>
 			<link>https://blog.kaspersky.co.jp/phantomlance-android-backdoor-trojan/28246/</link>
 			<description><![CDATA[Kaspeskyのエキスパートは、Android向けのバックドア型トロイの木馬をGoogle Playで発見、攻撃活動「PhantomLance」の一環として利用されているものと判明しました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/privacy-5-steps/28304/</link>
 			<description><![CDATA[インターネットでのプライバシー強化に役立つツールやアプローチを紹介します。インターネットでのプライバシー強化に役立つヒント。]]></description>
 			<pubDate>Wed, 20 May 2020 01:00:56 +0000</pubDate>
+		</item>
+		<item>
+			<title>人里離れた場所にあるATMを保護するために</title>
+			<link>https://blog.kaspersky.co.jp/atm-in-the-woods/28263/</link>
+			<description><![CDATA[人里離れた遠隔地にある決済端末やATMには、セキュリティ上の特別な対策が必要です。]]></description>
+			<pubDate>Thu, 21 May 2020 04:00:09 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
