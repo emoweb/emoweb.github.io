@@ -106,5 +106,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1253/806/01.jpg"></div></div><span class="caption">GALLERIA ZZ i9-10900K搭載モデル</span></div></div></div></div><p>　株式会社サードウェーブは、<a href="https://www.dospara.co.jp/" class="n" target="_blank">ドスパラ</a>からCore i9-10900Kを搭載するゲーミングPC「GALLERIA ZZ i9-10900K搭載」モデルを発売した。税別直販価格は299,980円。</p><p>　10コア/20スレッド動作のCore i9-10900Kに加え、GeForce RTX 2080 Tiのハイエンドビデオカードを搭載。メモリはDDR4 16GB、ストレージはNVMe SSD 1TB、750W 80PLUS Gold電源、OSはWindows 10 Homeを搭載。</p><p>　インターフェイスは、USB 3.1×2、USB 3.0×4、USB 2.0×2、Gigabit Ethernet、HDMI、DisplayPort、USB Type-C(ビデオカード側)、音声入出力端子などを装備。</p><p>　本体サイズは207×520.7×450.2mm(幅×奥行き×高さ)、重量は約13.9kg。</p></div></div>]]></description>
 			<pubDate>Thu, 21 May 2020 13:08:13 +0900</pubDate>
 		</item>
+		<item>
+			<title>【やじうまPC Watch】EA、リマスター版「Command &amp; Conquer」の一部ソースコードを公開～MODの作成を容易に</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1253853.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1253/853/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.ea.com/" class="n" target="_blank">Electronic Arts</a>は、6月5日に発売を予定しているRTS(リアルタイムストラテジー)ゲーム「Command &amp; Conquer Remastered Collection」について、製品のリリースと同時にソースコードを公開すると発表した。</p><p>　Command &amp; Conquer Remastered Collectionは、「Tiberian Dawn」とその拡張パックの「Covert Ops」、および「Red Alert」とその拡張パックの「Counterstrike」、「Aftermath」をまとめたリマスター版となる製品。</p><p>　6月の発売にあわせて「TiberianDawn.dll」、「RedAlert.dll」およびそれに関連するソースコードが公開される。Command &amp; Conquerシリーズのオンライン対戦を実現する「CnCNet」や機能追加/改良などを施せる「Open RA」といった、コミュニティプロジェクトとの互換性を維持するため、ライセンス形態はGPL 3.0を採用した。同社は、この規模のRTSタイトルのソースコードがGPLのもとで公開されるのは初の事例となると思われるとしている。</p><p>　これにより、本作に同梱される新たなマップエディタとあわせて、公開されたソースコードを利用したMOD作成が可能となり、カスタムユニットの作成やゲームプレイロジックの変更、マップデザインやアートの変更、データの編集などが行なえるようになる。加えて、Steamワークショップを通じたマップおよびMODの共有にも対応する。</p><p>　なお、新型コロナウイルス感染症の影響で開発に遅れが生じたため、LAN対戦機能についてはリリース時点での実装が見送られた。今後、最優先で開発を進めていくとしている。</p></div></div>]]></description>
+			<pubDate>Thu, 21 May 2020 14:53:12 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
