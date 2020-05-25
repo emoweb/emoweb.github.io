@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>サンワサプライ、軽量/多機能なビジネスバッグ3モデル </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1254215.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1254/215/01.jpg"></div></div><span class="caption">BAG-EXE11</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/" class="n" target="_blank">サンワサプライ株式会社</a>は、ビジネスバッグ「エグゼクティブビジネスバッグPRO」シリーズと「エグゼクティブビジネスリュックPRO」を発売した。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1254/215/02.jpg"></div></div><span class="caption">BAG-EXE13</span></div></div></div></div><p>　14型ワイドまでのノートPC対応の「BAG-EXE11」、15.6型までのノートPC対応で2つの収納部を備える「BAG-EXE12」、リュックタイプで13.3型までのノートPC対応の「BAG-EXE13」の3モデルで、価格は順に17,050円、19,250円、14,850円。</p><p>　全モデル共通で、ノートPC収納用のポケットを備えるほか、小物ポケットやペットボトルや折りたたみ傘を収納できるスペースも確保。「BAG-EXE11」と「BAG-EXE12」は、キャリーケースのハンドルに通せるサポーターを備えるほか、底面をキズや汚れから守る底鋲とコーナーガードも装備する。素材はいずれもテフロン加工を施したポリエステルを使用している。</p><p>　「BAG-EXE11」の本体サイズは約430×160×320mm(幅×奥行き×高さ)、PC収納部の内寸は約370×30×260mm(同)。重量は約1,220g。</p><p>　「BAG-EXE12」の本体サイズは約460×170×335mm(同)、PC収納部の内寸は約440×30×290mm(同)。重量は約1,320g。</p><p>　「BAG-EXE13」の本体サイズは約310×140×420mm(同)、PC収納部の内寸は約240×25×325mm(同)。重量は約930g。</p></div></div>]]></description>
-			<pubDate>Fri, 22 May 2020 17:36:21 +0900</pubDate>
-		</item>
-		<item>
 			<title>Windowsの更新でHP製デスクトップにブルースクリーンが発生。暫定的な対処法を公開 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1254221.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1254/221/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www8.hp.com/jp/ja/" class="n" target="_blank">日本HP株式会社</a>は、Windows Update後に同社製PCの一部でブルースクリーンが発生する問題について報告している。</p><p>　具体的には、個人向けデスクトップPC製品において、Windows Updateを適用後にエラーコード「KMODE EXCEPTION NOT HANDLED」のブルースクリーンが表示され、再起動されるといったもの。原因はWindows Updateで提供された更新パッチだとみられるが、特定までには至っておらず、情報収集を進めているという。</p><p>　同社では暫定的な対処法を図解つきで公開している。Windowsが正常に起動できる場合は、「システムの復元」を利用して問題発生以前の時点までロールバックし、Windowsの更新を一時停止する。これでも改善されない場合は、PowerShellからコマンドを通じて「18362.778」または「18363.778」を含む更新パッケージを削除する。</p><p>　正常に起動できない場合は、起動失敗時に表示されるトラブルシューティング画面から、「システムの復元」でロールバックを実行する。修復できなかった場合は製品の初期化を行なう。</p><p>　また、一連の対処法を試しても復旧できなかった場合は修理を申し込んで欲しいとしている。なお、現時点ではデスクトップPC製品のみが対象となっていて、ノートPC製品は含まれない。</p><p>　関連性は不明だが、対処法のなかで削除対象として挙げられているビルド18362.778および18363.778は、Microsoftが4月14日付けでWindows 10 バージョン1903/1909向けに公開した「KB4549951」が該当する。Microsoft Communityでは、このパッチの適用後にファイル消失やブルースクリーンなどの問題が発生するといった報告が4月下旬に上がっていた。</p><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【重要なお知らせ】<br>弊社個人向けデスクトップパソコンにてWindowsアップデート後にブルースクリーンが生じる事象（エラーコード：KMODE EXCEPTION NOT HANDLED）が発生しています。<br>現時点で暫定的な対策となりますが、下記技術情報にて対処方法をご案内しています。<a href="https://t.co/TRqmVFHcNf">https://t.co/TRqmVFHcNf</a></p>— HP Support Japan (日本HPカスタマーサポート) (@HPSupportJPN)<a href="https://twitter.com/HPSupportJPN/status/1263680285843038208?ref_src=twsrc%5Etfw">May 22, 2020</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div>]]></description>
@@ -105,6 +99,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1254452.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1254/452/01.jpg"></div></div><span class="caption">JN-IPS7500TUHD</span></div></div></div></div><p>　<a href="http://japannext.net/" class="n" target="_blank">株式会社JAPANNEXT</a>は、75型4K液晶ディスプレイ「JN-IPS7500TUHD」を発売した。価格は279,800円だが、発売記念特価セールとして6月8日までは179,800円にて販売する。</p><p>　JN-IPS7500TUHDは、75型の4K(3,840×2,160ドット)IPS半光沢液晶パネルを搭載した製品。上下/左右ともに178度の広視野角を実現するほか、USBメモリなどから直接動画や画像を表示できる機能も備える。</p><p>　おもな仕様は、表示色数が1,670万色、応答速度が6ms、輝度が300cd/平方m、コントラスト比が800:1。</p><p>　インターフェイスは、HDMI 2.0×4(HDCP 2.2対応、うち1基はMHLをサポート)、USB、音声出力などを装備。10W+10Wステレオスピーカーも内蔵する。</p><p>　本体サイズは1,689×321×1,027mm(幅×奥行き×高さ)、重量は約30.5kg。400×300mmのVESAマウントに対応する。</p></div></div>]]></description>
 			<pubDate>Mon, 25 May 2020 12:46:08 +0900</pubDate>
+		</item>
+		<item>
+			<title>【やじうまPC Watch】SNK、NEOGEOゲームを無料でTwitch Prime会員向けに配布</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1254471.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1254/471/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.snk-corp.co.jp/" class="n" target="_blank">株式会社SNK</a>は、Twitch Prime会員向けに同社のゲームを27日より無償配信する。</p><p>　同社のゲーム機「NEOGEO」の30周年を記念して、NEOGEOのゲームや関連作品を期間限定で無料配信するもの。対象作品は20本以上を予定しており、今回第1弾として7作品の配信を開始する。</p><p>　対象タイトルは以下のとおり。なお、ゲームは海外版となるため、タイトルおよびテキストが英語表記となる。</p><p>・餓狼伝説SPECIAL(海外名: FATAL FURY SPECIAL)</p><p>・THE KING OF FIGHTERS 2000</p><p>・THE KING OF FIGHTERS 2002</p><p>・真SAMURAI SPIRITS 覇王丸地獄変(海外名: SAMURAI SHODOWN II )</p><p>・龍虎の拳2(海外名: ART OF FIGHTING 2)</p><p>・BLAZING STAR</p><p>・PULSTAR</p><p>　Twitch Primeは、Amazon PrimeのアカウントとTwitchを連携することで利用できるサービス。インディーズゲームやゲーム内アイテムの無料配布などが会員向けに行なわれている。</p></div></div>]]></description>
+			<pubDate>Mon, 25 May 2020 13:39:57 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
