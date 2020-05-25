@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>【やじうまPC Watch】本日はソリティアの日。1日最多クリアを目指す30周年イベント開催中</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1254301.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1254/301/1.jpg"></div></div></div></div></div></div><p>　今から30年前の1990年5月22日、それはWindows 3.0がリリースされた日である。このWindows 3.0において、まだ当時多くの人にとって馴染みのなかったマウス操作を学習する目的として実装されたゲームが「ソリティア」だ。</p><p>　そこから30年が経過したいま、Microsoftはこの5月22日を「ナショナルソリティアデー」と名付けて、祝っている。</p><p>　同社はWindows、iOS、Android向けに「Microsoft Solitaire Collection」を無料で配布しているが、このゲームは毎月200以上の国から3,500万以上のプレイヤーをホストしており、1億人以上のプレイヤーが存在するとしている。</p><p>　このソリティア30周年を祝うため、同社はFacebookでイベントを開き、この1日でソリティアの最多クリア数を目指す。また、ソリティアのエキスパートの2人へのインタビューもYouTubeで公開するとしている。</p></div></div>]]></description>
-			<pubDate>Fri, 22 May 2020 21:15:57 +0900</pubDate>
-		</item>
-		<item>
 			<title>NVIDIAのAI、パックマンをパクる。ゲームエンジンなしでゲーム再現 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1253744.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1253/744/1_o.jpg"></div></div></div></div></div></div><p>　米NVIDIA Researchは22日(現地時間)、ナムコの名作「パックマン」のゲームプレイを学習させたことで、ゲームエンジンなしでパックマンのゲームそのものを自動生成/プレイさせる「GameGAN」の開発に成功したと発表した。</p><p>　これは5万エピソードにもおよぶパックマンのゲームプレイを、AIに学習させることで実現した。学習を通じて、AIは「パックマンは壁を通り抜けられない」、「パワーペレットを食べるとゴーストが青くなって逃げ出す」、「パックマンは迷路から出ると画面の反対側に出る」、「ゴーストとぶつかった場合画面が点滅してゲームが終了する」、「ドットをすべて食べることでゲームがクリアできる」といったゲームの主要ルールを学習した。</p><p>　その上で、ゲームをプレイする「識別機」と、ゲーム環境を生成する「ジェネレータ」という2つの競合する敵対的生成ネットワーク(Generative adversarial Network:GAN)を構築させ、ニューラルネットワークとしてはじめてゲームエンジンを模することに成功した。</p><p>　「識別機」がゲームをプレイすると、「ジェネレータ」がそれにリアルタイムに反応して新しいゲーム環境のフレームを生成。複数レベルやバージョンの画面プレイを学習させれば、これまで見たこともないようなものを生成することも可能だという。</p><p>　GameGANを利用すれば、ゲーム開発者が新しいレベルのレイアウトを自動的に生成できる。また、ゲーム内での応用のみならず、AI研究者が自律マシンを訓練するためのシミュレータシステムをより簡単に開発できるという。</p><p>　たとえば、これまで自律型ロボットを開発するさいに、まずはシミュレータで訓練をするのだが、オブジェクトがどのように相互作用するのか、環境内での光の変化といったルールもコード化しなければならなかった。GameGANを利用すればこのようなさまざまな環境もリアルアイムに生成して訓練できる。自動運転においても、同じことが言える。</p><p>　GameGANに関する詳しい論文は、6月に開催されるConference on Computer Vision and Pattern Recognitionで発表される予定。</p></div></div>]]></description>
@@ -117,6 +111,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1254526.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1254/526/1.jpg"></div></div><span class="caption">A10N-9830E</span></div></div></div></div><p>　<a href="https://www.aiuto-jp.co.jp/" class="n" target="_blank">株式会社アユート</a>は、AMD FX-9830Pを搭載したBIOSTAR製Mini-ITXマザーボード「A10N-9830E」を29日に発売する。価格はオープンプライスで、税別店頭予想価格は10,800円前後の見込み。</p><p>　Bristol Ridge世代のAPU、FX-9830Pをオンボードで搭載したMini-ITXマザーボード。同SoCは4コア/ベース3GHz/ターボ時3.7GHz)で駆動するCPUコアと、Radeon R7 Graphics GPUコアを内蔵する。</p><p>　メモリはDDR4-2400×2で、最大32GB、ストレージインターフェイスはSATA 6Gbps×2、M.2(SATAと排他)、拡張スロットはPCI Express x16(x4接続)×1。</p><p>　インターフェイスはUSB 3.0×2、USB 2.0×2、HDMI出力、ミニD-Sub15ピン、Gigabit Ethernet、音声入出力などを備える。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1254/526/2.jpg"></div></div><span class="caption">H110MHC V7.2</span></div></div></div></div><p>　このほか、第6世代/第7世代Coreに対応したmicroATXのIntel H110マザーボード「H110MHC V7.2」も同時発売する。税別店頭予想価格は6,800円前後の見込み。</p></div></div>]]></description>
 			<pubDate>Mon, 25 May 2020 17:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>【やじうまPC Watch】iPhone/iPadをWebカメラ代わりに利用できる有料アプリが5月末まで無償提供～iOS向け画面キャプチャソフトも。Macでも利用可能</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1254556.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1254/556/01.jpg"></div></div><span class="caption">Cameraアプリの動作イメージ</span></div></div></div></div><p>　<a href="https://www.newtek.com/" class="n" target="_blank">米NewTek</a>は、新型コロナウイルス感染症の拡大防止の観点から、多くの国でライブビデオストリーミングの需要が高まっていることを受け、本来有償で提供しているiOS向けソフト「NDI HX Capture」と「NDI HX Camera」を5月末までの期間限定で、iOSのApp Storeで無償で提供中だ。ちなみに通常価格は前者が10米ドル、後者が20米ドル。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1254/556/02.jpg"></div></div><span class="caption">NDIシステムのワークフロー</span></div></div></div></div><p>　両ソフトとも、同社が開発したLAN上で映像データを伝達するIPビデオ伝送方式「NDI(ネットワークデバイスインターフェイス)」規格を採用しており、同規格に互換のシステムであれば相互伝達が可能。配信するPCに必要なソフトをインストールし、かつiOS端末と同じネットワーク内に接続することで、NDI対応ソフト(OBS、XSplit、Wirecast、TriCaster、NDI Toolsなど)を通じ、iPhoneやiPadの画面からストリーミングができる。</p><p>　「HX Capture」は、iOS上の画面をカメラソースとして使用できるソフト。最小システム要件はiOS 13.1以降のデバイス。</p><p>　「HX Camera」は、iPhone/iPadのカメラをWebカメラとして使用できるもので、ZoomやSkype、MS Teamsなどで利用できる。オートフォーカスやAFロックといったフォーカスオプションや、自動露出やオーディオミュートコントロールなどの各種制御機能も実装しており、iOS端末側がサポートをしていれば4K解像度での配信もできる。最小システム要件はiOS 11以降のデバイス。</p><p>　ちなみに同等のソフトとして「iVCam」が挙げられるが、NewTek製品の場合、ホストがMacでも対応できるのが特徴。</p></div></div>]]></description>
+			<pubDate>Mon, 25 May 2020 17:18:49 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
