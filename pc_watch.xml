@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Windowsの更新でHP製デスクトップにブルースクリーンが発生。暫定的な対処法を公開 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1254221.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1254/221/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www8.hp.com/jp/ja/" class="n" target="_blank">日本HP株式会社</a>は、Windows Update後に同社製PCの一部でブルースクリーンが発生する問題について報告している。</p><p>　具体的には、個人向けデスクトップPC製品において、Windows Updateを適用後にエラーコード「KMODE EXCEPTION NOT HANDLED」のブルースクリーンが表示され、再起動されるといったもの。原因はWindows Updateで提供された更新パッチだとみられるが、特定までには至っておらず、情報収集を進めているという。</p><p>　同社では暫定的な対処法を図解つきで公開している。Windowsが正常に起動できる場合は、「システムの復元」を利用して問題発生以前の時点までロールバックし、Windowsの更新を一時停止する。これでも改善されない場合は、PowerShellからコマンドを通じて「18362.778」または「18363.778」を含む更新パッケージを削除する。</p><p>　正常に起動できない場合は、起動失敗時に表示されるトラブルシューティング画面から、「システムの復元」でロールバックを実行する。修復できなかった場合は製品の初期化を行なう。</p><p>　また、一連の対処法を試しても復旧できなかった場合は修理を申し込んで欲しいとしている。なお、現時点ではデスクトップPC製品のみが対象となっていて、ノートPC製品は含まれない。</p><p>　関連性は不明だが、対処法のなかで削除対象として挙げられているビルド18362.778および18363.778は、Microsoftが4月14日付けでWindows 10 バージョン1903/1909向けに公開した「KB4549951」が該当する。Microsoft Communityでは、このパッチの適用後にファイル消失やブルースクリーンなどの問題が発生するといった報告が4月下旬に上がっていた。</p><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【重要なお知らせ】<br>弊社個人向けデスクトップパソコンにてWindowsアップデート後にブルースクリーンが生じる事象（エラーコード：KMODE EXCEPTION NOT HANDLED）が発生しています。<br>現時点で暫定的な対策となりますが、下記技術情報にて対処方法をご案内しています。<a href="https://t.co/TRqmVFHcNf">https://t.co/TRqmVFHcNf</a></p>— HP Support Japan (日本HPカスタマーサポート) (@HPSupportJPN)<a href="https://twitter.com/HPSupportJPN/status/1263680285843038208?ref_src=twsrc%5Etfw">May 22, 2020</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div>]]></description>
-			<pubDate>Fri, 22 May 2020 17:46:14 +0900</pubDate>
-		</item>
-		<item>
 			<title>【やじうまPC Watch】本日はソリティアの日。1日最多クリアを目指す30周年イベント開催中</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1254301.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1254/301/1.jpg"></div></div></div></div></div></div><p>　今から30年前の1990年5月22日、それはWindows 3.0がリリースされた日である。このWindows 3.0において、まだ当時多くの人にとって馴染みのなかったマウス操作を学習する目的として実装されたゲームが「ソリティア」だ。</p><p>　そこから30年が経過したいま、Microsoftはこの5月22日を「ナショナルソリティアデー」と名付けて、祝っている。</p><p>　同社はWindows、iOS、Android向けに「Microsoft Solitaire Collection」を無料で配布しているが、このゲームは毎月200以上の国から3,500万以上のプレイヤーをホストしており、1億人以上のプレイヤーが存在するとしている。</p><p>　このソリティア30周年を祝うため、同社はFacebookでイベントを開き、この1日でソリティアの最多クリア数を目指す。また、ソリティアのエキスパートの2人へのインタビューもYouTubeで公開するとしている。</p></div></div>]]></description>
@@ -105,6 +99,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1254471.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1254/471/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.snk-corp.co.jp/" class="n" target="_blank">株式会社SNK</a>は、Twitch Prime会員向けに同社のゲームを27日より無償配信する。</p><p>　同社のゲーム機「NEOGEO」の30周年を記念して、NEOGEOのゲームや関連作品を期間限定で無料配信するもの。対象作品は20本以上を予定しており、今回第1弾として7作品の配信を開始する。</p><p>　対象タイトルは以下のとおり。なお、ゲームは海外版となるため、タイトルおよびテキストが英語表記となる。</p><p>・餓狼伝説SPECIAL(海外名: FATAL FURY SPECIAL)</p><p>・THE KING OF FIGHTERS 2000</p><p>・THE KING OF FIGHTERS 2002</p><p>・真SAMURAI SPIRITS 覇王丸地獄変(海外名: SAMURAI SHODOWN II )</p><p>・龍虎の拳2(海外名: ART OF FIGHTING 2)</p><p>・BLAZING STAR</p><p>・PULSTAR</p><p>　Twitch Primeは、Amazon PrimeのアカウントとTwitchを連携することで利用できるサービス。インディーズゲームやゲーム内アイテムの無料配布などが会員向けに行なわれている。</p></div></div>]]></description>
 			<pubDate>Mon, 25 May 2020 13:39:57 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10の5月度更新で、LTEモデムつきPCがインターネットに接続できなくなる不具合 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1254517.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1254/517/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は、同社が5月12日より配信しているWindows 10向け更新プログラム「KB4556799」をLTEモデム内蔵デバイスに適用した場合、インターネットに接続できなくなる可能性がある問題を報告している。</p><p>　報告によれば、LTEモデムを内蔵したPCに本パッチを適用したさいに、通知エリアのネットワーク接続インジケータ(NCSI: Network Connectivity Status Indicator)が正常に接続中と表示しているにもかかわらず、インターネット接続が正常に行なえなくなる問題が発生しているという。</p><p>　同社では問題の解消に向けて作業を進めており、今後の更新で修正するとしている。</p></div></div>]]></description>
+			<pubDate>Mon, 25 May 2020 15:10:14 +0900</pubDate>
+		</item>
+		<item>
+			<title>CEATEC 2020はオンライン開催に。内容も変更 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1254529.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1254/529/01.jpg"></div></div><span class="caption">公式サイトに掲載された発表</span></div></div></div></div><p>　一般社団法人電子情報技術産業協会、一般社団法人情報通信ネットワーク産業協会、一般社団法人コンピュータソフトウェア協会の3団体で構成する<a href="https://www.ceatec.com/" class="n" target="_blank">CEATEC実施協議会</a>は25日、10月20～23日に開催予定の「CEATEC 2020」を、新型コロナウイルス感染症の感染予防の観点から、千葉市の幕張メッセでの開催を取りやめてオンラインでの開催にすると発表した。会期は通常通りとし、会期以降もオンデマンドでの展開を予定している。</p><p>　また、オンラインでの開催に伴ない、名称を「CEATEC 2020 ONLINE」へ、内容も、ここ数年CEATECが掲げてきた「Society 5.0を担う人たちのためのCEATEC」へと変更。これまで幕張メッセで開催してきた総合展示会としてのCEATECとは別の取り組みと位置づけ、新たな社会や暮らし(New Normal:ニューノーマル)を考え、共に歩み、共創を実現するための企画とし、オンラインの特徴も活かし展開する予定としている。</p><p>　詳細は6月ごろから順次<a href="https://www.ceatec.com/" class="n" target="_blank">公式サイト</a>などで発表予定。</p></div></div>]]></description>
+			<pubDate>Mon, 25 May 2020 15:16:49 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
