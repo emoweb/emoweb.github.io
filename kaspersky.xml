@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ランサムウェアの巻き添え被害</title>
-			<link>https://blog.kaspersky.co.jp/ransomware-collateral-damage/28285/</link>
-			<description><![CDATA[ランサムウェアが、本来の標的だけでなく、感染しそうに思えないデバイスにも感染した顕著な例の数々。]]></description>
-			<pubDate>Thu, 14 May 2020 04:00:12 +0000</pubDate>
-		</item>
-		<item>
 			<title>テレワークとランサムウェア</title>
 			<link>https://blog.kaspersky.co.jp/ransomware-telecommuting/28295/</link>
 			<description><![CDATA[テレワークへのシフトが一斉に進んだことで、ランサムウェア感染の影響がさらに大きくなる可能性が出てきました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/raising-digital-parents/28417/</link>
 			<description><![CDATA[このデジタルの世界にあなたを送り出してくれた両親。今度は、そのお返しをする番です。]]></description>
 			<pubDate>Wed, 27 May 2020 01:00:16 +0000</pubDate>
+		</item>
+		<item>
+			<title>脆弱性開示の倫理原則</title>
+			<link>https://blog.kaspersky.co.jp/vulnerability-disclosure-ethics/28401/</link>
+			<description><![CDATA[脆弱性情報を開示することで、さらなる問題が起きることのないように、当社はシンプルな5原則を推奨しています。]]></description>
+			<pubDate>Fri, 29 May 2020 04:00:28 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
