@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>テレワークとランサムウェア</title>
-			<link>https://blog.kaspersky.co.jp/ransomware-telecommuting/28295/</link>
-			<description><![CDATA[テレワークへのシフトが一斉に進んだことで、ランサムウェア感染の影響がさらに大きくなる可能性が出てきました。]]></description>
-			<pubDate>Fri, 15 May 2020 01:00:39 +0000</pubDate>
-		</item>
-		<item>
 			<title>データ漏洩と社員のモチベーション</title>
 			<link>https://blog.kaspersky.co.jp/human-angle-motivation/28199/</link>
 			<description><![CDATA[会社でデータ漏洩が起きた場合、社員のモチベーションはどのように変化するのでしょうか。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/vulnerability-disclosure-ethics/28401/</link>
 			<description><![CDATA[脆弱性情報を開示することで、さらなる問題が起きることのないように、当社はシンプルな5原則を推奨しています。]]></description>
 			<pubDate>Fri, 29 May 2020 04:00:28 +0000</pubDate>
+		</item>
+		<item>
+			<title>ATMも検疫を！</title>
+			<link>https://blog.kaspersky.co.jp/atm-protection-updated/28497/</link>
+			<description><![CDATA[当社のATM保護ソリューションがどのように最適化されたか。そして、その理由について。]]></description>
+			<pubDate>Tue, 02 Jun 2020 01:00:41 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
