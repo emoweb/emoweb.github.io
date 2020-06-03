@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>データ漏洩と社員のモチベーション</title>
-			<link>https://blog.kaspersky.co.jp/human-angle-motivation/28199/</link>
-			<description><![CDATA[会社でデータ漏洩が起きた場合、社員のモチベーションはどのように変化するのでしょうか。]]></description>
-			<pubDate>Mon, 18 May 2020 01:00:11 +0000</pubDate>
-		</item>
-		<item>
 			<title>雪の女王とインシデント調査レポート</title>
 			<link>https://blog.kaspersky.co.jp/snow-queen-cybersecurity/28321/</link>
 			<description><![CDATA[「カイ感染インシデント」と、情報セキュリティエキスパートのゲルダによる同インシデント調査に関する、ハンス・クリスチャン・アンデルセンのレポート。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/atm-protection-updated/28497/</link>
 			<description><![CDATA[当社のATM保護ソリューションがどのように最適化されたか。そして、その理由について。]]></description>
 			<pubDate>Tue, 02 Jun 2020 01:00:41 +0000</pubDate>
+		</item>
+		<item>
+			<title>内部からのBECに対処する方法</title>
+			<link>https://blog.kaspersky.co.jp/fighting-internal-bec/28536/</link>
+			<description><![CDATA[不正アクセスしたメールアカウントを使用するBECは、特に危険です。この攻撃への、当社の対応策について。]]></description>
+			<pubDate>Wed, 03 Jun 2020 01:00:09 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
