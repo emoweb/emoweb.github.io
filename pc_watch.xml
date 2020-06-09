@@ -112,5 +112,17 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1257/719/01.jpg"></div></div><span class="caption">AMD EPYC</span></div></div></div></div><p>　<a href="https://www.amd.com/" class="n" target="_blank">米AMD</a>は8日(現地時間)、NVIDIA製第3世代AIスパコン「DGX A100」にAMD製CPUである「EPYC 7742」が採用されたと発表した。</p><p>　DGX A100は、NVIDIAの新アーキテクチャである「Ampere」ベースのGPU「A100」をはじめて搭載するシステムとして5月に発表されていたが、今回、そのCPUのSKUが公表された。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1257/719/02.jpg"></div></div><span class="caption">NVIDIA A100</span></div></div></div></div><p>　搭載されるのは、最大3.4GHz駆動/64コアのEPYC 7742が2基。同CPUは現状、サーバー向けx86 CPUで唯一PCI Express 4に対応するもので、この点がNVIDIAの競合であるAMDのCPUを採用した理由とみられる。</p></div></div>]]></description>
 			<pubDate>Tue, 09 Jun 2020 12:53:53 +0900</pubDate>
 		</item>
+		<item>
+			<title>IBM、人権問題を考慮し汎用顔認証技術の提供を終了 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1257759.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1257/759/01_o.jpg"></div></div><span class="caption">（Image: Michael Vi / Shutterstock.com）</span></div></div></div></div><p>　米<a href="https://www.ibm.com/" class="n" target="_blank">IBM</a>は8日(現地時間)、汎用顔認証技術および解析ソフトの提供を終了したと発表した。同社CEOのArvind Krishna氏が米国議会に送付した人種平等推進に関する書簡にて公表している。</p><p>　書簡では、議会と協力し正義と人種平等を追求したいとし、警察組織の改革、責任のある技術利用、教育とスキルアップの機会拡大の3つの政策分野に焦点をあて、提案を行なっている。</p><p>　警察組織の改革では、警察の不正行為はより多くの事案が連邦裁判所に提訴されるべきで、警察が憲法上の権利を侵害した場合に個人が損害賠償を求めることを妨げる免責主義を修正するべきだとした上で、警察の不正行為に関する連邦記録簿を用意し、武力行使のポリシーについて州や地方自治体に対して見直しや更新するよう促したり強制するべきだとした。</p><p>　責任のある技術利用では、同社は汎用顔認証技術および分析ソフトウェアの提供を終了。大量監視や人種プロファイリング、基本的人権と自由の侵害、同社の価値観および信頼と透明性の原理に反する目的のために、ほかのベンダーが提供するものを含めた顔認証技術を使用することに断固として反対するとし、法的機関がこのような技術を使用するべきかについて国民と対話をすべき時だとしている。また、顔認証などにも用いられる人工知能の技術については、法的機関が市民の安全を守るために強力なツールとなる一方で、ベンダーとユーザーは人工知能のバイアステストを実施し、テストについての監査や報告を保証する責任があるとした。</p><p>　教育とスキルアップの機会拡大では、すべてのアメリカ人がスキルの習得やトレーニングを受けられるよう、公平で開かれた機会を用意する必要があるとし、同社が開発した高校卒業資格とSTEM分野の準学士号が得られる9～14年生向けの学校モデル「P-TECH」の拡大や、低所得層の学生を対象とした奨学金制度「ペル・グラント」の資格拡大などを進めるべきだとしている。</p></div></div>]]></description>
+			<pubDate>Tue, 09 Jun 2020 14:33:31 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソニー製Bluetoothヘッドフォンに第三者がペアリングできてしまう脆弱性 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1257768.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1257/768/01.jpg"></div></div><span class="caption">WF-1000X</span></div></div></div></div><p>　<a href="https://www.jpcert.or.jp/" class="n" target="_blank">JPCERT/CC</a>(一般社団法人JPCERTコーディネーションセンター)は、ソニー製Bluetoothヘッドフォン製品の脆弱性について報告している。</p><p>　脆弱性の悪用により、製品の使用中にBluetoothの電波範囲内にいる第三者からペアリングが可能で、音量変更などの操作が行なえる恐れがある。すでに対策済みのファームウェアが提供されており、アップデートを適用すれば回避できる。対象製品は以下のとおり。</p><p>・WF-1000X<br>・WF-SP700N<br>・WH-1000XM2<br>・WH-1000XM3<br>・WH-CH700N<br>・WH-H900N<br>・WH-XB700<br>・WH-XB900N<br>・WI-1000X<br>・WI-C600N<br>・WI-SP600N</p></div></div>]]></description>
+			<pubDate>Tue, 09 Jun 2020 14:35:02 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
