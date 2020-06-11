@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>MSI、Core i9-10980HK搭載の15.6型ゲーミングノート </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1258000.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/000/01.jpg"></div></div><span class="caption">GE66 Raider(GE66-10SFS-276JP)</span></div></div></div></div><p>　<a href="https://jp.msi.com/" class="n" target="_blank">エムエスアイコンピュータージャパン株式会社</a>は、15.6型ゲーミングノートPC「GE66 Raider(GE66-10SFS-276JP)」を18日より発売する。店頭予想価格は35万円前後の見込み。</p><p>　GE66-10SFS-276JPは、240Hz駆動の15.6型フルHD(1,920×1,080ドット)非光沢液晶を搭載したPCで、シリーズの最上位モデルにあたる。CPUにCore i9-10980HK(8コア/2.4GHz)、GPUにGeForce RTX 2070 SUPER(GDDR6 8GB)を備え、高画質かつ高フレームレートのゲームプレイが可能だとする。</p><p>　加えて、16GBメモリ、1TB M.2 NVMe SSD、Windows 10 Proなどを装備。インターフェイスは、USB 3.2 Gen2 x2、USB 3.1×2(うち1基Type-C)、USB 3.0×2、HDMI、Mini DisplayPort、2.5Gigabit Ethernet、Wi-Fi 6、Bluetooth 5.1、SDカードスロット、207万画素Webカメラ、音声入出力などを備える。</p><p>　本体サイズは358×267×23.4mm(幅×奥行き×高さ)、重量は2.38kg。バッテリ容量は99Whr。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/000/02.jpg"></div></div><span class="caption">Modern 14(B10RASW-003JP)</span></div></div></div></div><p>　そのほか、14型のビジネス/クリエイター向けノートPC「Modern 14(B10RASW-003JP)」も15日より発売。店頭予想価格は145,000円前後の見込み。</p><p>　Core i7-10510U(4コア/1.8GHz)、16GBメモリ、GeForce MX 330(GDDR5 2GB)、512GB M.2 NVMe SSD、14型フルHD非光沢液晶、Windows 10 Homeなどを装備。</p><p>　インターフェイスは、USB 3.1 Type-C、USB 2.0×2、HDMI、IEEE 802.11ac対応無線LAN、Bluetooth 5.0、microSDカードスロット、92万画素Webカメラ、音声入出力などを備える。</p><p>　本体サイズは319×220.2×16.9mm(幅×奥行き×高さ)、重量は1.3kg。バッテリ容量は52Whr。</p></div></div>]]></description>
-			<pubDate>Wed, 10 Jun 2020 12:12:17 +0900</pubDate>
-		</item>
-		<item>
 			<title>Windows 10 1903以降で再起動後にUSBプリンタが使えなくなる不具合 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1258011.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/011/1_o.jpg"></div></div></div></div></div></div><p>　Windows 10 1903以降の環境において、Windows終了後にUSBプリンタの電源をオフにし、Windowsを再起動した場合に、USBプリンタポートがリストから消え、印刷タスクを行なえない不具合が発生しているという。</p><p>　これはUSBプリンタドライバに言語モニターが含まれている場合、ポートの開始を行なうOpenPortEx関数が呼び出されず、その結果、言語モニターに依存した操作を行なうことができないため発生する。このため、USBプリンタのポート(USB001といった表記)がプリンタポートのリストから消失し、ポートに対しての操作が行なえなくなる。</p><p>　暫定的な対処法としては、Windows起動前にUSBプリンタの電源を投入することで問題を解消できるとしている。</p><p>　また、Microsoftではこの問題を認識しており、将来のバージョンでこの問題を解消するとしている。</p></div></div>]]></description>
@@ -93,6 +87,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1258188.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/188/01_o.png"></div></div></div></div></div></div><blockquote><p>　新しいワークスタイルとして、注目を集めているテレワークですが、実際にはどんな事例があるのでしょうか。いくつかの作業例を説明しましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/20026/">チャットやビデオ会議など身近なテレワークの例を知ろう</a></p></blockquote></div></div>]]></description>
 			<pubDate>Thu, 11 Jun 2020 06:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10プレビュー版、Linuxカーネルの提供方法を変更 ～AMDプロセッサでの仮想化ネストが利用可能に</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1258240.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/240/01_o.png"></div></div><span class="caption">AMDプロセッサで仮想化ネストがサポート</span></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は10日(現地時間)、Windows 10 Insider Preview「Build 19645(20H2)」をFast ringで公開した。</p><p>　Build 19645では、Windows Subsystem for Linux 2(WSL2)のディストリビューションの提供の仕方を変更。このビルドでは、WindowsのイメージからLinuxカーネルが取り除かれ、その代わりMicrosoft Updateを介して提供されることになった。グラフィックスやタッチパッドといったサードパーティードライバも同様にMicrosoft Updateで提供されるようになる。</p><p>　また、AMDプロセッサにてHyper-Vの仮想マシンのなかで、Hyper-Vを走らせる仮想化ネスト(Nested Virtualization)がサポートされた。</p><p>　このほか、このビルドとは直接的な関係はないが、PCからスマートフォンを操作するYour Phoneアプリ(スマホ同期管理アプリ)に関して、Build 19619で提供された音楽およびオーディオアプリをYour Phoneからコントロールする機能が一般公開向けWindows 10にも提供開始された。</p></div></div>]]></description>
+			<pubDate>Thu, 11 Jun 2020 08:36:06 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
