@@ -5,24 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>【本日のできるネット】【パソコン仕事術】「メモ帳」へのコピペで不要な書式を排除 </title>
-			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1258190.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/190/03_o.jpg"></div></div></div></div></div></div><blockquote><p>　ほかのアプリから「メモ帳」へテキストを貼り付けると、書式は自動的に解除されます。書式が作業の邪魔になるときは、メモ帳などの「テキストエディター」を活用しましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/19646/">【パソコン仕事術】「メモ帳」へのコピペで不要な書式を排除</a></p></blockquote></div></div>]]></description>
-			<pubDate>Thu, 11 Jun 2020 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>【本日のできるネット】Outlookでメールを探す「高度な検索」の操作とできること </title>
-			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1258189.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/189/02_o.jpg"></div></div></div></div></div></div><blockquote><p>　［高度な検索］ダイアログボックスを使えば、詳細な検索条件を組み合わせてメールを検索できます。ここでは件名と受信日の期間を指定して検索します。</p><p class="src">できるネットの<a href="https://dekiru.net/article/19863/">Outlookでメールを探す「高度な検索」の操作とできること</a></p></blockquote></div></div>]]></description>
-			<pubDate>Thu, 11 Jun 2020 06:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>【本日のできるネット】チャットやビデオ会議など身近なテレワークの例を知ろう </title>
-			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1258188.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/188/01_o.png"></div></div></div></div></div></div><blockquote><p>　新しいワークスタイルとして、注目を集めているテレワークですが、実際にはどんな事例があるのでしょうか。いくつかの作業例を説明しましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/20026/">チャットやビデオ会議など身近なテレワークの例を知ろう</a></p></blockquote></div></div>]]></description>
-			<pubDate>Thu, 11 Jun 2020 06:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>Windows 10プレビュー版、Linuxカーネルの提供方法を変更 ～AMDプロセッサでの仮想化ネストが利用可能に</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1258240.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/240/01_o.png"></div></div><span class="caption">AMDプロセッサで仮想化ネストがサポート</span></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は10日(現地時間)、Windows 10 Insider Preview「Build 19645(20H2)」をFast ringで公開した。</p><p>　Build 19645では、Windows Subsystem for Linux 2(WSL2)のディストリビューションの提供の仕方を変更。このビルドでは、WindowsのイメージからLinuxカーネルが取り除かれ、その代わりMicrosoft Updateを介して提供されることになった。グラフィックスやタッチパッドといったサードパーティードライバも同様にMicrosoft Updateで提供されるようになる。</p><p>　また、AMDプロセッサにてHyper-Vの仮想マシンのなかで、Hyper-Vを走らせる仮想化ネスト(Nested Virtualization)がサポートされた。</p><p>　このほか、このビルドとは直接的な関係はないが、PCからスマートフォンを操作するYour Phoneアプリ(スマホ同期管理アプリ)に関して、Build 19619で提供された音楽およびオーディオアプリをYour Phoneからコントロールする機能が一般公開向けWindows 10にも提供開始された。</p></div></div>]]></description>
@@ -123,6 +105,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1258426.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/426/01_o.jpg"></div></div><span class="caption">「新型コロナウイルス感染症を乗り越えるためのロードマップ」のイメージ</span></div></div></div></div><p>　東京都の小池百合子知事は、感染拡大防止と経済社会活動との両立を図る出口戦略として、「新型コロナウイルス感染症を乗り越えるためのロードマップ」を策定して都民向けに公表している。「新しい日常」が定着した社会を実現するための5つのポイントと、主に休業自粛の緩和を「ステップ0」から「ステップ3」までの4段階で示している。</p><p>　東京都が定めた7つの指標、特に感染状況に関する3つの指標に照らし合わせると6月10日には状況が落ち着いている、翌11日に小池知事が「東京アラート」を解除し、休業要請緩和の段階を「ステップ2」から「ステップ3」に移行する方針を固めたとされている。</p><p>　「東京アラート」は、東京都が新型コロナウイルスの感染状況に悪化の傾向があるときに、都民に警戒を呼びかけるもの。発動中はレインボーブリッジと東京都庁舎のライトアップが赤色に変更される。</p><p>【ロードマップの5つのポイント】</p><ol class="list-01"><li>緊急事態宣言下においては、外出自粛等の徹底を通じて、感染を最大限抑え込む</li><li>適切なモニタリング等を通じて、慎重にステップを踏み、都民生活や経済社会活動との両立を図る</li><li>状況の変化を的確に把握し、必要な場合には「東京アラート」を発動する</li><li>今後、発生が予想される「第2波」に対応するため、万全の医療・検査態勢を整備する</li><li>ウイルスとの長い戦いを見据え、暮らしや働く場での感染拡大を防止する習慣＝「新しい日常」が定着した社会を構築する</li></ol><p>【感染状況に関する3つのモニタリング指標】</p><ol class="list-01"><li>新規陽性者数（週平均）<br>休業緩和の目安：20人未満<br>休業再要請の目安：50人以上</li><li>感染経路不明率（週平均）<br>休業緩和の目安：50％未満<br>休業再要請の目安：50％以上</li><li>陽性者増加比（前週との比率）<br>休業緩和の目安：1未満（減少傾向）<br>休業再要請の目安：2以上（増加傾向）</li></ol><p>　記事執筆時点の段階であるステップ2では、クラスター発生歴がなく、3密が重なりにくい施設として、大学や映画館、劇場、多くの小売り店舗なども再開できる。イベント参加は100人までに緩和される。</p><p>　6月12日に移行する方針とされるステップ3では、リスクの高い施設を除き、入場制限などを設ける前提ですべての施設が再開でき、イベント参加は1,000人まで可能となり、飲食店の営業時間は夜12時までに緩和される。これ以上の緩和は、国の対処方針などの状況を踏まえて検討するという。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/426/02_o.jpg"></div></div><span class="caption">外出自粛、休業要請等の緩和措置の内容（「新型コロナウイルス感染症を乗り越えるためのロードマップ」より引用）</span></div></div></div></div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/426/03_o.jpg"></div></div><span class="caption">モニタリング指標の運用方針（「新型コロナウイルス感染症を乗り越えるためのロードマップ」より引用）</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Thu, 11 Jun 2020 17:15:50 +0900</pubDate>
+		</item>
+		<item>
+			<title>HHKBのキーマップ変更ツールがMacをサポート </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1258464.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/464/01_o.jpg"></div></div><span class="caption">macOS版の「Happy Hacking Keyboardキーマップ変更ツール」</span></div></div></div></div><p>　<a href="https://www.pfu.fujitsu.com/" class="n" target="_blank">株式会社PFU</a>は、小型キーボード“Happy Hacking Keyboard(HHKB)”のためのキーマップ変更ツールにmacOS版を追加した。</p><p>　Happy Hacking Keyboardキーマップ変更ツールは、その名のとおりHHKB製品のキー配列の変更が行なえるツールで、ファームウェアのアップデートなどにも対応する。これまでWindows向けのみ用意されていたが、今回macOS版(10.12以降)が利用できるようになった。</p><p>　対象キーボードは、HHKB Professional HYBRID Type-S、同HYBRID、同Classicの3種類で、使用時はUSBケーブルで接続する必要がある。</p></div></div>]]></description>
+			<pubDate>Thu, 11 Jun 2020 18:48:55 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
