@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>給付金関連の詐欺メールやフィッシングサイトに注意</title>
-			<link>https://blog.kaspersky.co.jp/beware-of-covid-19-benefit-scam/28347/</link>
-			<description><![CDATA[新型コロナウイルス感染症（COVID-19）関連の給付金や助成金の受付が始まり、便乗した詐欺が発生しています。詐欺に遭わないために、ぜひ気にしていただきたい3つの基本について。]]></description>
-			<pubDate>Fri, 22 May 2020 01:00:38 +0000</pubDate>
-		</item>
-		<item>
 			<title>ロックダウン/外出自粛とサイバー脅威</title>
 			<link>https://blog.kaspersky.co.jp/cyberthreats-on-lockdown/28349/</link>
 			<description><![CDATA[世界各地で実施されているロックダウンや外出自粛と、ここ数か月のサイバー犯罪者の動きの間に、関連性が見られます。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/kids-location-tracking/28593/</link>
 			<description><![CDATA[子どもがどこに行ったかわからないとき、心配するなと言われても無理な話です。子どもたちの居場所を把握し、無駄な心配をしなくて済むようにする方法。]]></description>
 			<pubDate>Tue, 09 Jun 2020 01:00:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>復号ツールになりすますZorab：STOPに暗号化されたファイルをさらに暗号化</title>
+			<link>https://blog.kaspersky.co.jp/fake-djvu-ransomware-decryptor/28621/</link>
+			<description><![CDATA[ランサムウェア「STOP」によって暗号化されたファイルを復号するためのツールになりすます、別のランサムウェア「Zorab」。]]></description>
+			<pubDate>Thu, 11 Jun 2020 01:00:42 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
