@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Intel、第7世代以降のCoreプロセッサにおける特権昇格/DoSなどの脆弱性を修正 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1258117.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/117/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.intel.com/" class="n" target="_blank">Intel</a>は9日(現地時間)、複数の製品を対象としたセキュリティアップデートを公開した。</p><p>　深刻度がCriticalのものを含む5件についてアップデートを公開。対処された脆弱性および回避法は以下のとおり。</p><p>・第7世代以降のCoreプロセッサシリーズ向けのBIOSファームウェアにおける特権昇格およびサービス運用妨害(DoS)(CVE-2020-0528、CVE-2020-0529/High、Medium)。製造元から提供される最新BIOSを適用する。</p><p>・Intel Innovation Engine BuildおよびSigning Toolにおける特権昇格(共通脆弱性識別子: CVE-2020-8675/深刻度はHigh)。製造元から提供される最新ファームウェアを適用する。</p><p>・Coreプロセッサシリーズの一部における情報漏えい(CVE-2020-0543/Medium)。製造元から提供される最新ファームウェアを適用する。Intelによるマイクロコードも提供中。</p><p>・Intel Converged Security and Manageability Engine、Server Platform Services、Trusted Execution Engine、Active Management Technology、Standard ManageabilityおよびDynamic Application Loaderにおける特権昇格、サービス運用妨害および情報漏えい(CVE-2020-0594、CVE-2020-0595など/Criticalを含む)。それぞれの対象製品に対して製造元から提供される最新版を適用する。</p><p>・Intel製SSD製品における情報漏洩(CVE-2020-0527/High)。対応する最新ファームウェアを適用する。</p></div></div>]]></description>
-			<pubDate>Wed, 10 Jun 2020 16:36:55 +0900</pubDate>
-		</item>
-		<item>
-			<title>Adobe Flash Playerに悪意あるコードが実行できる脆弱性 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1258131.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/131/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.adobe.com/index.html" class="n" target="_blank">Adobe</a>は9日(現地時間)、Adobe Flash Playerの脆弱性に対応するアップデートの提供を開始した。</p><p>　解放済みメモリの再使用により、実行ユーザー権限において悪意あるコードを実行される恐れがあり、深刻度はCriticalとしている(共通脆弱性識別子: CVE-2020-9633)。対象となるのは、Windows/macOS/Linux向けの「Adobe Flash Player Desktop Runtime」および「Adobe Flash Player for Google Chrome」のバージョン32.0.0.371以下と、Windows 8.1以降向けの「Adobe Flash Player for Microsoft Edge and Internet Explorer 11」のバージョン32.0.0.330以下。</p><p>　同社より提供されているバージョン32.0.0.387にアップデートすることで対処が可能。Google Chrome版についてはWebブラウザ自体の最新版にて、Microsoft Edge and Internet Explorer 11版については自動で対策済みバージョンが適用される。</p></div></div>]]></description>
-			<pubDate>Wed, 10 Jun 2020 17:11:55 +0900</pubDate>
-		</item>
-		<item>
 			<title>【本日のできるネット】【パソコン仕事術】「メモ帳」へのコピペで不要な書式を排除 </title>
 			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1258190.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/190/03_o.jpg"></div></div></div></div></div></div><blockquote><p>　ほかのアプリから「メモ帳」へテキストを貼り付けると、書式は自動的に解除されます。書式が作業の邪魔になるときは、メモ帳などの「テキストエディター」を活用しましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/19646/">【パソコン仕事術】「メモ帳」へのコピペで不要な書式を排除</a></p></blockquote></div></div>]]></description>
@@ -105,6 +93,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1258356.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/356/01.jpg"></div></div><span class="caption">150-SNCF026</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/" class="n" target="_blank">サンワサプライ株式会社</a>は、背もたれ調整機能つきの座椅子「150-SNCF026」を直販サイトにて発売した。価格は8,980円。</p><p>　150-SNCF026は、低反発ウレタンとマイクロファイバー素材の生地を採用した座椅子。側面に背もたれの角度を無段階で変えられるレバーを備え、座ったまま調節可能。頭部も7段階で調整ができる。</p><p>　本体サイズは約470×550～1,140×160～680mm(幅×奥行き×高さ)、重量は約6.6kg。</p></div></div>]]></description>
 			<pubDate>Thu, 11 Jun 2020 14:18:11 +0900</pubDate>
+		</item>
+		<item>
+			<title>DellとLenovo、Windows 10 May 2020 Updateの対応製品一覧を公開 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1258369.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/369/01.jpg"></div></div><span class="caption">Windows 10 May 2020 Update</span></div></div></div></div><p>　<a href="https://www.dell.com/" class="n" target="_blank">Dell</a>および<a href="http://www.lenovo.com/" class="n" target="_blank">Lenovo</a>は、5月末に<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>が提供を開始したWindows 10の大型アップデート「May 2020 Update(20H1)」について、検証済み製品の一覧を公開した。</p><p>　両社のPC製品ラインナップのなかで、May 2020 Updateへのアップデートを実施したさいに、各種ドライバなどの対応が確認できた製品を一覧にしたもの。リストに含まれていないデバイスをアップデートするさいは、Windowsのヘルプページを参照して欲しいとした上で、Microsoftが提供する汎用ドライバを適用することで対応できる場合もあるが、一部機能が利用できなくなる可能性もあるとしている。</p><p>　対応製品については、各社の検証済みリストを参照されたい。</p></div></div>]]></description>
+			<pubDate>Thu, 11 Jun 2020 15:40:51 +0900</pubDate>
+		</item>
+		<item>
+			<title>Adobe、AI技術で誰でもクリエイティブな写真を撮れる「Photoshop Camera」を公開 ～AndroidとiOS向けに提供開始</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1258364.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/364/01.png"></div></div></div></div></div></div><p>　<a href="https://www.adobe.com/jp/" class="n" target="_blank">Adobe</a>は11日、AndroidおよびiOS向けのカメラアプリ「Photoshop Camera」の提供を開始した。無料でダウンロードできる。</p><p>　Photoshop Cameraは手軽に高品質でアーティスティックな写真を作れるアプリで、Instagram、Facebook、Twitterなどで簡単にシェア可能。同社のAI技術であるAdobe Senseiが用いられており、自動的な品質補正、シーンの種類の検知、エフェクトのライブレンダリングが行なえる。また、アーティストがデザインしたさまざまなレンズ効果やエフェクトもライブラリに用意されている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/364/02_o.jpg"></div></div></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/364/03_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/364/04_o.jpg"></div></div></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/364/05_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/364/06_o.jpg"></div></div></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/364/07_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/364/08_o.jpg"></div></div></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/364/09_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 11 Jun 2020 15:42:49 +0900</pubDate>
+		</item>
+		<item>
+			<title>ベンキュー、120Hz駆動/低入力遅延対応のフルHDゲーミングプロジェクタ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1258381.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/381/01.jpg"></div></div><span class="caption">TH685</span></div></div></div></div><p>　<a href="https://www.benq.com/ja-jp/index.html" class="n" target="_blank">ベンキュージャパン株式会社</a>は、ゲーミングプロジェクタ「TH685」を6月20日に発売する。価格はオープンプライスで、店頭予想価格は110,000円前後の見込み。</p><p>　輝度3,500lm、HDR 10/HLGに対応し、Rec.709カバー率95％と高い色再現力を持ち、120Hz駆動にも対応したプロジェクタ。プロジェクタとしては日本初の8.3ms(120Hz駆動時)の低遅延入力を実現したほか、暗いシーンでもコントラストや彩度を調整する「ゲームモード」や、5Wのスピーカーなどを搭載し、ゲームに好適な仕様とした。</p><p>　100型相当の映像を約2.5mから投写できる短焦点設計を採用したほか、自動で最適な画面に調整できる自動垂直レンズシフトなども搭載する。</p><p>　おもな仕様は、解像度がフルHD(1,920×1,080ドット)、投影サイズが60～200型、ズームが光学1.3倍。入力解像度がVGA(640×480ドット)～WUXGA(1,920×1,200ドット)、色再現性が約10億7,000万色。</p><p>　インターフェイスは、HDMI×2、ミニD-Sub15ピン(入出力1基ずつ)、ステレオミニジャック(同)、シリアルポート、USB Type-A(給電専用)。</p><p>　本体サイズは312×225×110mm(幅×奥行き×高さ)、重量は約2.8kg。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1258/381/02.jpg"></div></div><span class="caption">背面のポート部</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 11 Jun 2020 15:46:38 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
