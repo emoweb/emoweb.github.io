@@ -106,5 +106,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1259/096/01.jpg"></div></div><span class="caption">スペースグレイ(左)/シルバー(右)</span></div></div></div></div><p>　<a href="https://www.focal.co.jp/" class="n" target="_blank">フォーカルポイント株式会社</a>は、米Twelve South社のMacBook Pro/Airを縦向きに設置できるアルミニウム製スタンド「BookArc for MacBook」を発売した。カラーはスペースグレーとシルバーを用意し、価格は6,800円。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1259/096/02.jpg"></div></div><span class="caption">使用例</span></div></div></div></div><p>　このスタンドを用いてMacBook Pro/Airを縦向きに設置することで、外部モニタやキーボードなどに接続したデスクトップスタイルのさいにデスク上のスペースをすっきりさせることができる。</p><p>　筐体にシリコンのスロットを備え、MacBook本体をしっかりと固定させることができるほか、筐体下部にケーブルをはわせることもでき、ケーブル抜け対策にもなる。</p><p>　対応するMacBookは、Retina Display搭載の2018年以降に発売されたAirと、USB-C/Thunderbolt 3搭載の2016年以降に発売されたPro。</p><p>　本体サイズは約102×260×79mm(幅×奥行き×高さ)、重量は約504g。</p></div></div>]]></description>
 			<pubDate>Mon, 15 Jun 2020 18:29:16 +0900</pubDate>
 		</item>
+		<item>
+			<title>Windows 10 2004のSSD最適化に不具合か </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1259130.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1259/130/01.jpg"></div></div><span class="caption">ユーザーから報告された不具合と思われる挙動</span></div></div></div></div><p>　Windows 10 May 2020 Update(バージョン2004)適用後のPCにおいて、「ドライブの最適化」機能の不具合と思われる挙動が見られるとMicrosoftコミュニティ内でユーザーから報告が上がっている。</p><p>　投稿によれば、ドライブの最適化内でSSDのTrimを手動で実施したあと再起動し、再度同ツールを確認すると、最適化が実施されていないと表示されてしまうという。また、ドライブの最適化を表示したまま、コントロールパネル内のセキュリティとメンテナンスの項目から手動でメンテナンスを開始したところ、SSDがデフラグされたあとTrimが実行されたという。なお、ドライブの最適化内から最適化を実行した場合はTrimのみが行なわれるとしている。</p><p>　現時点ではMicrosoftからの声明は出ておらず、OS側が要因かどうかについては不明。May 2020 Update以前から同様の問題が存在しているとの報告も一部上がっている。最適化を実施したことが正常に表示されない問題については、Insider Previewでも報告されていた。</p></div></div>]]></description>
+			<pubDate>Mon, 15 Jun 2020 19:10:09 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
