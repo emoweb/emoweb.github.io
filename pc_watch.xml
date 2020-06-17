@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Windows 10で印刷時にエラーが出る問題が一部バージョンで修正 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1259534.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1259/534/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は16日(現地時間)、Windows 10で正常にプリントができない問題を修正する内容を含んだ累積アップデートの配布を開始した。</p><p>　この不具合は特定のプリンタにおいて、プリント時にスプーラーがエラーを出すか、予期せず終了してしまい出力ができないというもので、PDF出力する場合のソフトウェアベースのプリンタでも問題が発生していた。</p><p>　今回、Windows 10のバージョン1903(May 2019 Update)、1809(October 2018 Update)、1803(April Update 2018)向けにそれぞれアップデートを配布。ただ、影響のあるOSはWindows 8.1やWindows 10のほかバージョンも含まれているようで、とくに現時点では最新の2004(May 2020 Update)のパッチではこの修正が行なわれていないようだ。</p><p>　なお、プリンタの不具合については先日別の問題も発生している(<a href="https://pc.watch.impress.co.jp/docs/news/1258011.html">Windows 10 1903以降で再起動後にUSBプリンタが使えなくなる不具合</a>参照)。</p></div></div>]]></description>
-			<pubDate>Wed, 17 Jun 2020 12:09:08 +0900</pubDate>
-		</item>
-		<item>
 			<title>アイ・オー、USB Type-Cケーブル1本で使える13.3型モバイル液晶 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1259524.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1259/524/01.jpg"></div></div><span class="caption">LCD-CF131XDB-M</span></div></div></div></div><p>　<a href="https://www.iodata.jp/" class="n" target="_blank">株式会社アイ・オー・データ機器</a>は、13.3型モバイル液晶ディスプレイ「LCD-CF131XDB-M」を6月末より発売する。価格はオープンプライスで、税別店頭予想価格は29,800円前後の見込み。</p><p>　LCD-CF131XDB-Mは、Mini HDMIまたはUSB Type-Cでの映像入力に対応したフルHD(1,920×1,080ドット)ADS液晶ディスプレイ。付属のACアダプタで駆動するほか、USB Type-C接続の場合は、給電と映像入力をケーブル1本で同時に行なえる。</p><p>　フルHDより解像度の低い映像を入力したさいに解像感を向上させる超解像技術や、映像の明暗にあわせてバックライトの輝度を自動調整するCREX、ブルーライト低減機能などを搭載。本体背面には折りたためるスタンドも備える。</p><p>　おもな仕様は、表示色数が1,677万色、中間色応答速度が30ms(オーバードライブ時6ms)、輝度が300cd/平方m、コントラスト比が800:1、視野角が上下/左右ともに170度。</p><p>　インターフェイスは、Mini HDMI、USB Type-C、3.5mmステレオミニジャックなどを装備。</p><p>　本体サイズは約329×10×204mm(幅×奥行き×高さ、スタンド収納時)、重量は約740g。</p></div></div>]]></description>
@@ -105,6 +99,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1259709.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1259/709/01.jpg"></div></div><span class="caption">最大49人の同時表示に対応</span></div></div></div></div><p>　米<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は15日(現地時間)、今月公開のMicrosoft Teamsプレビュー版にて、参加者のカメラ映像を並べて表示するグリッドビューをさらに拡張し、最大49人までの同時表示に対応する。</p><p>　新型コロナウイルス感染症の影響で、多くの学校がリモート授業などを実施するなかで、1億5千万人以上の教師や生徒などが、Teams for Educationを中心としたMicrosoft Education製品を使用しているという。約500人のコミュニティメンバーと情報共有をした結果では、来年度の授業計画について61%がリモート学習と対面学習を組みあわせたハイブリット学習を進める回答。87%は教室での授業が再開されたあともテクノロジーをより活用していきたいと答えているという。</p><p>　こういった状況へのサポートの一環として、おもに教育機関での活用を想定したTeamsの機能強化を実施。授業に参加する生徒を教師側で一覧できる最大49人の同時表示に対応する。Teamsでは現時点で最大9人までの同時表示が可能となっているが、これをさらに拡張したかたち。現在はプレビュー版に提供されており、秋頃には正式版にも実装される見込み。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1259/709/02.jpg"></div></div><span class="caption">Class Insights</span></div></div></div></div><p>　さらに、生徒を小さなグループにわけて共同作業などが行なえるようにするブレイクアウトルーム機能、挙手の機能や生徒の出席状況などを確認できるAttendance Reports、授業への参加状況や課題、成績などを分析・表示できるClass Insightsなども同時期のアップデートで追加される予定。また夏頃には、ミーティングの制御に関するオプションを追加。教師が生徒に対して発表させたり、一部の生徒のみが入れるようなミーティングロビーを設置したりといったことも可能となる。</p><p>　そのほか、自宅からのリモート学習時に役立つカスタム背景機能に加え、授業用のOneNoteドキュメントの閲覧機能やTeams for Educationからダイジェストメールを週1回送付するなど、保護者向けの支援機能も用意するとしている。</p></div></div>]]></description>
 			<pubDate>Wed, 17 Jun 2020 19:40:42 +0900</pubDate>
+		</item>
+		<item>
+			<title>Twitterで音声の投稿が可能に </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1259770.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1259/770/01.jpg"></div></div></div></div></div></div><p>　米Twitterは17日(現地時間)、ツイート時に音声を録音し、音声とともに投稿できる機能を追加した。</p><p>　同機能は、まずはiOSで限定されたユーザー向けに展開され、画面上の波形ボタンを押すと、音声を記録できる。最大録音時間は140秒まで。140秒以上録音したときは、自動的に新しいスレッドとして投稿が展開される。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1259/770/02.jpg"></div></div></div></div></div></div><blockquote class="twitter-tweet"><p lang="en" dir="ltr">You can Tweet a Tweet. But now you can Tweet your voice!<br><br>Rolling out today on iOS, you can now record and Tweet with audio.<a href="https://t.co/jezRmh1dkD">pic.twitter.com/jezRmh1dkD</a></p>— Twitter (@Twitter)<a href="https://twitter.com/Twitter/status/1273306563994845185?ref_src=twsrc%5Etfw">June 17, 2020</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div>]]></description>
+			<pubDate>Thu, 18 Jun 2020 02:39:10 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
