@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>親を「デジタル的に育てる」ということ</title>
-			<link>https://blog.kaspersky.co.jp/raising-digital-parents/28417/</link>
-			<description><![CDATA[このデジタルの世界にあなたを送り出してくれた両親。今度は、そのお返しをする番です。]]></description>
-			<pubDate>Wed, 27 May 2020 01:00:16 +0000</pubDate>
-		</item>
-		<item>
 			<title>脆弱性開示の倫理原則</title>
 			<link>https://blog.kaspersky.co.jp/vulnerability-disclosure-ethics/28401/</link>
 			<description><![CDATA[脆弱性情報を開示することで、さらなる問題が起きることのないように、当社はシンプルな5原則を推奨しています。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/kaspersky-presents-doom-eternal-speedrunning-contest/28662/</link>
 			<description><![CDATA[KasperskyはEuropean Speedrunner Assembly（ESA）主催のチャリティイベント「Summer Online 2020」にてスピードランコンテストを開催します。]]></description>
 			<pubDate>Wed, 17 Jun 2020 01:00:36 +0000</pubDate>
+		</item>
+		<item>
+			<title>マルウェアはどのようにしてゲームアカウントを盗むのか</title>
+			<link>https://blog.kaspersky.co.jp/gaming-password-stealers/28674/</link>
+			<description><![CDATA[Origin、Battle.net、Uplayなどゲームプラットフォームのアカウントのログイン情報を盗もうとするトロイの木馬について。]]></description>
+			<pubDate>Thu, 18 Jun 2020 01:00:26 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
