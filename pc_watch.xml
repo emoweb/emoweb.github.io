@@ -5,36 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Intel、bfloat16対応の第3世代Xeon SP「Cooper Lake」を投入 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1260063.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1260/063/01_o.jpg"></div></div><span class="caption">第3世代Xeon SP「Cooper Lake」</span></div></div></div></div><p>　<a href="https://www.intel.com/" class="n" target="_blank">Intel</a>は18日(現地時間)、「Cooper Lake」こと第3世代Xeon SP(スケーラブル・プロセッサー)の展開やラインナップを発表した。</p><p>　Cooper Lakeは、第2世代のCascade Lakeに続くデータセンター向けCPUであり、Cascade Lakeと同じ10nmのプロセスルールで製造される。</p><p>　現時点では最上位CPUとして、28コア/56スレッド動作対応の「<a href="https://ark.intel.com/content/www/jp/ja/ark/products/205684/intel-xeon-platinum-8380hl-processor-38-5m-cache-2-90-ghz.html" class="n" target="_blank">Xeon Platinum 8380HL</a>」が用意されており、ベースクロック2.9GHz、Turbo Boost時最大クロック4.3GHz、TDP 250W、キャッシュメモリ38.5MB、最大メモリ容量4.5TB(DDR4-3200/2933)、対応ソケット数4または8基となる。価格は13,012ドル(約140万円)。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1260/063/11_o.jpg"></div></div><span class="caption">Cooper Lakeのラインナップ</span></div></div></div></div><p>　Cooper Lakeは、新命令の「bfloat16」(brain floating point16)をサポート。bfloat16とは、ニューラルネットワークの処理を前提に設計された新しい浮動小数点のフォーマットで、Intel独自の推論処理向け命令「DL Boost」と合わせて高い性能を発揮する。</p><p>　bfloat16はこれまで用いられてきた単精度浮動小数のFP32よりもbit数が半分でコンパクトだが、最小限のモデル精度で同等の性能を実現可能。ディープラーニングにおける学習と推論処理を効率よく実行することができる。</p><p>　Googleが手がけるTensorFlowやFacebookのPytorchといったディープラーニング用フレームワークに最適化されており、IntelのAI Analyticsツールキットを使って利用可能。また、OpenVINOツールキットとONNXランタイム環境にも最適化されており、推論処理の展開を容易にする。</p><p>　Cooper Lakeは、5年前の4ソケットプラットフォームと同等の構成と比較して、一般的ワークロードで平均1.9倍、仮想マシンで最大2.2倍の性能を期待できるとしている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1260/063/02_o.jpg"></div></div></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1260/063/03_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
-			<pubDate>Fri, 19 Jun 2020 06:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>【本日のできるネット】Microsoft Teamsでメンバーとファイルや各種情報を共有する方法 </title>
-			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1259980.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1259/980/1_o.jpg"></div></div></div></div></div></div><blockquote><p>　TeamsではチャットやWeb会議だけでなく、各種のファイルや情報を共有する機能も搭載しています。業務で必要な素材の管理や議決事項、資料などの共有に利用しましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/20045/">Microsoft Teamsでメンバーとファイルや各種情報を共有する方法</a></p></blockquote></div></div>]]></description>
-			<pubDate>Fri, 19 Jun 2020 06:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>【本日のできるネット】ZoomとGoogleカレンダーの連携方法。ミーティングのURLを予定に自動登録できる </title>
-			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1259978.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1259/978/2_o.jpg"></div></div></div></div></div></div><blockquote><p>　Zoom（ズーム）のWeb会議の予定は、Googleカレンダーに直接追加できることをご存じですか？ メールやチャットでの連絡手段に加えて、Googleカレンダーとの連携方法も覚えておくと便利です。Googleカレンダーの予定からZoomにすばやく参加しましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/20041/">ZoomとGoogleカレンダーの連携方法。ミーティングのURLを予定に自動登録できる</a></p></blockquote></div></div>]]></description>
-			<pubDate>Fri, 19 Jun 2020 06:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>【本日のできるネット】Outlookで定期的な予定を登録する方法 </title>
-			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1259977.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1259/977/3_o.jpg"></div></div></div></div></div></div><blockquote><p>　定例会議やスクールのレッスンなど、繰り返される予定を定期的な予定として管理できます。各回ごとに予定を登録する必要はありません。</p><p class="src">できるネットの<a href="https://dekiru.net/article/19869/">Outlookで定期的な予定を登録する方法</a></p></blockquote></div></div>]]></description>
-			<pubDate>Fri, 19 Jun 2020 06:10:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>【本日のできるネット】【パソコン仕事術】ブラウザーの「InPrivate」でまっさらな検索結果を </title>
-			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1259975.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1259/975/4_o.jpg"></div></div></div></div></div></div><blockquote><p>　Googleの検索結果など多くのWebページでは、これまでの利用履歴などにより表示内容が変わる「パーソナライズ」が行われます。パーソナライズされない状態をInPrivateウィンドウで確認しましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/19652/">【パソコン仕事術】ブラウザーの「InPrivate」でまっさらな検索結果を</a></p></blockquote></div></div>]]></description>
-			<pubDate>Fri, 19 Jun 2020 06:10:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>【PR】マンガ「マウス担当新人営業 松浮アリスの営業日誌」第9回 配信が神画質になった倉持由香さんにインタビュー! </title>
 			<link>https://pc.watch.impress.co.jp/docs/topic/matsuukialice/1259572.html</link>
 			<description><![CDATA[<div><div><div><pre class="code-01"><code>　このマンガはフィクションですが、今回はじっさいに倉持由香さんにインタビューを行なっています。倉持さんの配信環境改善については、下記の関連リンクをご参照ください。<br></code></pre></div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1259/572/01.jpg"></div></div></div></div></div></div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1259/572/02.jpg"></div></div></div></div></div></div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1259/572/03.jpg"></div></div></div></div></div></div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1259/572/04.jpg"></div></div></div></div></div></div></div></div>]]></description>
@@ -123,6 +93,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1260188.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1260/188/1.jpg"></div></div><span class="caption">Wave:3</span></div></div></div></div><p>　Corsair傘下の<a href="https://www.elgato.com/" class="n" target="_blank">Elgato</a>は18日(現地時間)、同社初となるコンデンサマイク「Wave:1」、「Wave:3」を発表した。製品ページは日本サイトにも用意されていることから、国内発売も見込まれる。</p><p>　いずれもマイクメーカーとして有名なLEWITTと協業して開発したモデルで、カーディオイドコンデンサカプセルと、24bit A/Dコンバータを内部に搭載し、スタジオ品質を謳う。</p><p>　独自の「Clipguard」技術を搭載し、入力をリアルタイムに分析。レベルがピークに達すると、即座に音量を抑えたセカンダリ信号パスに切り替えられ、音割れを防ぐ仕組みとなっている。</p><p>　このほか、低周波数による干渉を防ぐローカットフィルター、および息のポップノイズを防ぐポップフィルタを搭載。別売でショックマウントも用意される。PCとはUSB Type-Cで接続し、遅延がないモニタリング出力用の3.5mmステレオミニジャックも備える。</p><p>　Wave:1はミュートボタン、ヘッドフォンボリューム、ミュート状態がわかるLEDリングなどを搭載。サンプリングレートは48kHz/24bit。</p><p>　Wave:3は静電容量式のミュートボタンとボリューム調節、入力ゲイン、マイクとPCオーディオ間のクロスフィードを制御できる多機能ダイヤルを搭載する。サンプリングレートは96kHz/24bit。</p><p>　いずれも、9つの独立した入力チャンネルからの音源をリアルタイムにブレンドできるミキサーソフト「Wave Link」(Windows/macOS対応)が利用可能。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1260/188/2.jpg"></div></div><span class="caption">Wave:1</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1260/188/3.jpg"></div></div><span class="caption">Wave:3</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Fri, 19 Jun 2020 13:48:15 +0900</pubDate>
+		</item>
+		<item>
+			<title>雑な似顔絵からリアルな人間を描き出す「DeepFaceDrawing」 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1260191.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1260/191/01_o.jpg"></div></div><span class="caption">DeepFaceDrawingがスケッチから描き出した人物</span></div></div></div></div><p>　<a href="http://www.cas.ac.cn/" class="n" target="_blank">中国科学院</a>と<a href="https://www.cityu.edu.hk/" class="n" target="_blank">香港城市大学</a>による、簡単な似顔絵のスケッチからあたかも実在の人間を描き出すプログラム「DeepFaceDrawing」の実演がYouTubeで公開されている。</p><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/HSunooUTwKs?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div></div></div></div></div><p>　最近の画像から画像への変換技術は、スケッチからすばやく顔画像を生成できるものの、スケッチに合わせすぎるきらいがあり、プロのスケッチまたはエッジマップの入力が必要とされるという。</p><p>　そこで、DeepFaceDrawingの開発者らは、もっともらしい顔画像の形状空間を暗黙的にモデル化し、この空間内で顔画像を合成して、スケッチに近似させるアイデアを思いついた。</p><p>　まず、キーとなる顔の構成要素の容貌埋め込みを学習し、顔コンポーネントサンプルのベクトル特性によって定義された多種多様の下層コンポーネントに、スケッチに類似する部分を押し込む。</p><p>　また、情報フローを改善するための中間結果として、マルチチャネル機能マップと、リアルな画像を作る組み込みコンポーネント機能からマッピングを学習するほかのディープニューラルネットワークを提案。</p><p>　この方法は基本的に入力スケッチを軽度な制約として使用し、これによって雑なスケッチや不完全なスケッチから高品質な顔画像を生成可能とし、形状を詳細に制御することもできる。</p></div></div>]]></description>
+			<pubDate>Fri, 19 Jun 2020 14:47:34 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
