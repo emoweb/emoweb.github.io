@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Flash Playerが使えなくなるまであと半年。Adobeは全ユーザーにアンインストールを推奨 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1260421.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1260/421/01_o.png"></div></div></div></div></div></div><p>　<a href="https://www.adobe.com/" class="n" target="_blank">Adobe</a>は、Flash Playerのサポートを半年後の2020年12月31日をもって終了する。更新と提供も停止するため、サポート終了前に同アプリをアンインストールすることを推奨している。</p><p>　サポート期間中はセキュリティパッチの提供、OSやWebブラウザとの互換性の維持などが行なわれる。サポート終了後はダウンロードできなくなり、FlashベースのコンテンツはFlash Playerで実行しようとするとブロックされるという。</p><p>　なお、サポート終了後は、セキュリティパッチなどの提供は一切行なわないため、Adobeはシステムからアンインストールすることを推奨している。今年後半からは、Flash Playerのアンインストールを促すメッセージを表示するとしている。</p></div></div>]]></description>
-			<pubDate>Mon, 22 Jun 2020 06:05:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>【本日のできるネット】Outlookで数日にわたる予定を登録する方法 </title>
 			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1260299.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1260/299/03_o.jpg"></div></div></div></div></div></div><blockquote><p>　終日の予定は「イベント」として登録するといいでしょう。出張や展示会などの予定をイベントとして入力すれば、時間帯で区切った予定とは別に管理できます。</p><p class="src">できるネットの<a href="https://dekiru.net/article/19870/">Outlookで数日にわたる予定を登録する方法</a></p></blockquote></div></div>]]></description>
@@ -117,6 +111,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1260599.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1260/599/03_o.png"></div></div></div></div></div></div><p>　<a href="https://www.nvidia.com/" class="n" target="_blank">NVIDIA</a>は22日、AIインフラストラクチャなどスーパーコンピュータ向けシステムの「DGX A100」を使い、ビッグデータ解析用ベンチマークである「TPCx-BB」をGPUで処理可能にし、CPUシステムを大きく上回る性能を発揮可能になったと発表した。</p><p>　TPCx-BBは、現実世界の ETL(抽出、変換、ロード)および機械学習のワークフローを対象とした、エンタープライズ向けのビッグデータ ベンチマーク。そのクエリには、在庫管理や価格分析、販売分析、レコメンデーション システム、顧客セグメンテーション、センチメント分析といったユースケースが含まれる。分散コンピューティングシステムは、これまで着実な進歩を続けているにもかかわらず、こういったビッグデータのワークロードはいまでも、CPUで処理するさいのボトルネックになっている。</p><p>　そういったなかNVIDIAは、オープンソース データサイエンスライブラリのスイートであるRAPIDSソフトウェアのエコシステムとDGX A100システムを組み合わせ、GPUでのビッグデータの大規模処理を可能にした。</p><p>　16基のDGX A100で、TPCx-BBベンチマークでSF10K(10TBのデータ処理)を実行。CPUシステムでは4.7時間かけて処理できたこのベンチマークを、DGX A100では19.5倍の性能となるわずか14.5分間で処理。また、3分の1の消費電力で実現しており、従来CPUでの処理では解析要素が複雑になるほど実行時間が跳ね上がり、結果としてサーバーの増強や消費電力上昇、冷却強化といったコストも増加しがちだったが、GPU処理が可能になったことで、大規模な解析を高コストパフォーマンスに実現できるようになったとしている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1260/599/99_o.jpg"></div></div><span class="caption">TPCx-BBベンチマークの結果</span></div></div></div></div><p>　ベンチマークで使用されたGPUシステムには、合計128基のNVIDIA A100が搭載された16台DGX A100で構成されており、Mellanox InfiniBandネットワークで接続されている。A100については別記事(<a href="https://pc.watch.impress.co.jp/docs/news/1252471.html">NVIDIA、7nmプロセスのAmpere採用GPU「A100」。Voltaから20倍性能向上</a>)を参照されたい。</p><p>　MellanoxはNVIDIAが今年(2020年)4月に買収完了を発表した高性能ネットワーク技術を持つ会社であり、Mellanox InfiniBandのネットワーク機能を採用するシステムは、NASAなどを筆頭とする世界中の気象予報スーパーコンピュータに実装されている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1260/599/06_o.png"></div></div><span class="caption">気象予報のスーパーコンピュータにMellanox InfiniBandが採用</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1260/599/01_o.png"></div></div><span class="caption">NVIDIAのGPUが活用されているCOVID-19などの研究</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1260/599/02_o.png"></div></div><span class="caption">サイエンスコンピューティングでも活躍している</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Mon, 22 Jun 2020 21:40:15 +0900</pubDate>
+		</item>
+		<item>
+			<title>日本の「富岳」がスパコン世界ランキング1位 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1260702.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1260/702/01.jpg"></div></div><span class="caption">富岳(ふがく)</span></div></div></div></div><p>　スパコン世界ランキングを年2回に分けて掲載している<a href="https://www.top500.org/" class="n" target="_blank">TOP500</a>は、第55回目となる6月のランキングを発表した。</p><p>　1位は富士通と理化学研究所が開発した国産スパコンの「富岳」となり、演算性能を競うHigh Performance Linpack(HPL)での結果は415.5PFLOPSで、前回(2019年11月)1位で今回は2位となったIBM製Summitの148.8PFLOPSから約2.8倍と、大きな性能差を見せる結果となった。</p><p>　3位もIBMのSierraで94.6PFLOPS(前回2位)、4位は中国Sunway TaihuLight(神威太湖之光)で93PFLOPS(前回3位)、5位も続いて中国のTianhe-2(天河二号)で61.4PFLOPS(前回4位)であり、それぞれランキングが繰り下がっている。</p><p>　なお、7位にはNVIDIAが本日発表したスパコン「Selene」がランキングしており、性能は27.58PFLOPSだった。同システムはAmpereアーキテクチャのDGX A100とAMDの64コアCPUであるEPYC 7742を搭載し、米国立衛生研究所とテキサス大学オースティン校で稼働している。</p><p>　富岳は、Armアーキテクチャを採用する富士通開発のCPU「A64FX」を搭載し、ノード間接続にはTofu(Torus fusion)インターコネクトを採用。ArmプロセッサがTOP500で1位を獲得したのは今回が初となる。A64FXの命令セットアーキテクチャはArm v8.2-A SVEで、計算ノードとして48コア+2アシスタントコア、IO兼計算ノードとして48コア+4アシスタントコアを備え、理論演算性能は倍精度で2.7TFLOPS以上を誇る。A64FXを搭載する富岳のピーク性能は、1EFLOPS(エクサフロップス)を超えているという。</p></div></div>]]></description>
+			<pubDate>Tue, 23 Jun 2020 01:05:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
