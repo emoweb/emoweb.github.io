@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ゲーム関連費用を安全に節約する方法</title>
-			<link>https://blog.kaspersky.co.jp/whats-wrong-with-cheap-game-keys/28581/</link>
-			<description><![CDATA[海賊版、グレーなマーケットサイトで売られるアクティベーションコード、既存アカウントの売買にはどのような危険があるのでしょうか。]]></description>
-			<pubDate>Thu, 04 Jun 2020 01:00:24 +0000</pubDate>
-		</item>
-		<item>
 			<title>サービスとしてのターンキー保護</title>
 			<link>https://blog.kaspersky.co.jp/security-as-a-service-cto/28422/</link>
 			<description><![CDATA[SaaS（サービスとしてのセキュリティ）は、将来の情報セキュリティのありかたです。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/jumping-over-air-gap/28678/</link>
 			<description><![CDATA[インターネットに接続されていなければデータが盗まれることはない。…そうとは限りません。]]></description>
 			<pubDate>Tue, 23 Jun 2020 01:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>自社ネットワークを攻撃しているのはどのハッカーグループか—推測ではなく、確認を！</title>
+			<link>https://blog.kaspersky.co.jp/kaspersky-threat-attribution-engine/28717/</link>
+			<description><![CDATA[コードの類似性を解析し、APTのアトリビューションを行うための技術的証拠を示す、新たなソリューションについて。]]></description>
+			<pubDate>Wed, 24 Jun 2020 04:00:20 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
