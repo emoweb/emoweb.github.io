@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>サービスとしてのターンキー保護</title>
-			<link>https://blog.kaspersky.co.jp/security-as-a-service-cto/28422/</link>
-			<description><![CDATA[SaaS（サービスとしてのセキュリティ）は、将来の情報セキュリティのありかたです。]]></description>
-			<pubDate>Mon, 08 Jun 2020 01:00:30 +0000</pubDate>
-		</item>
-		<item>
 			<title>子どもの安全なお出かけをサポートするツール</title>
 			<link>https://blog.kaspersky.co.jp/kids-location-tracking/28593/</link>
 			<description><![CDATA[子どもがどこに行ったかわからないとき、心配するなと言われても無理な話です。子どもたちの居場所を把握し、無駄な心配をしなくて済むようにする方法。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/kaspersky-threat-attribution-engine/28717/</link>
 			<description><![CDATA[コードの類似性を解析し、APTのアトリビューションを行うための技術的証拠を示す、新たなソリューションについて。]]></description>
 			<pubDate>Wed, 24 Jun 2020 04:00:20 +0000</pubDate>
+		</item>
+		<item>
+			<title>データ盗み出し経路としてのGoogleアナリティクス</title>
+			<link>https://blog.kaspersky.co.jp/web-skimming-with-ga/28712/</link>
+			<description><![CDATA[Googleのツールを使用してクレジットカード情報を盗み出す方法を、当社エキスパートが明らかにしました。]]></description>
+			<pubDate>Thu, 25 Jun 2020 01:00:40 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
