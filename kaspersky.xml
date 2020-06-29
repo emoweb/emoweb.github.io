@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>子どもの安全なお出かけをサポートするツール</title>
-			<link>https://blog.kaspersky.co.jp/kids-location-tracking/28593/</link>
-			<description><![CDATA[子どもがどこに行ったかわからないとき、心配するなと言われても無理な話です。子どもたちの居場所を把握し、無駄な心配をしなくて済むようにする方法。]]></description>
-			<pubDate>Tue, 09 Jun 2020 01:00:29 +0000</pubDate>
-		</item>
-		<item>
 			<title>復号ツールになりすますZorab：STOPに暗号化されたファイルをさらに暗号化</title>
 			<link>https://blog.kaspersky.co.jp/fake-djvu-ransomware-decryptor/28621/</link>
 			<description><![CDATA[ランサムウェア「STOP」によって暗号化されたファイルを復号するためのツールになりすます、別のランサムウェア「Zorab」。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/web-skimming-with-ga/28712/</link>
 			<description><![CDATA[Googleのツールを使用してクレジットカード情報を盗み出す方法を、当社エキスパートが明らかにしました。]]></description>
 			<pubDate>Thu, 25 Jun 2020 01:00:40 +0000</pubDate>
+		</item>
+		<item>
+			<title>セキュリティが強化されたZoom 5.0</title>
+			<link>https://blog.kaspersky.co.jp/zoom-5-security/28741/</link>
+			<description><![CDATA[Zoomの開発チームは、サービスのセキュリティをさらに強化しました。何がどう変わったのか見てみましょう。]]></description>
+			<pubDate>Mon, 29 Jun 2020 01:00:58 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
