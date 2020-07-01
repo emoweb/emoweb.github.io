@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>復号ツールになりすますZorab：STOPに暗号化されたファイルをさらに暗号化</title>
-			<link>https://blog.kaspersky.co.jp/fake-djvu-ransomware-decryptor/28621/</link>
-			<description><![CDATA[ランサムウェア「STOP」によって暗号化されたファイルを復号するためのツールになりすます、別のランサムウェア「Zorab」。]]></description>
-			<pubDate>Thu, 11 Jun 2020 01:00:42 +0000</pubDate>
-		</item>
-		<item>
 			<title>偽の支援：給付金を餌にするオンライン詐欺</title>
 			<link>https://blog.kaspersky.co.jp/covid-compensation-spam/28626/</link>
 			<description><![CDATA[各国の政府が、パンデミックの影響を受けた市民や企業への支援策を実施する中、オンライン詐欺師が不当な利益を得ようと企んでいます。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/zoom-5-security/28741/</link>
 			<description><![CDATA[Zoomの開発チームは、サービスのセキュリティをさらに強化しました。何がどう変わったのか見てみましょう。]]></description>
 			<pubDate>Mon, 29 Jun 2020 01:00:58 +0000</pubDate>
+		</item>
+		<item>
+			<title>App Clip、Instant App（プレビューアプリ）とは何か</title>
+			<link>https://blog.kaspersky.co.jp/apple-app-clips-android-instant-apps/28748/</link>
+			<description><![CDATA[WWDC 2020で、AppleはiOS向けのApp Clipを発表しました。App Clipと、これと同等のAndroidプレビューアプリについて、説明します。]]></description>
+			<pubDate>Wed, 01 Jul 2020 01:00:20 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
