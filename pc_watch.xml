@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Verbatim、アナログレコードデザインのCD-Rメディア </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1262668.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/668/1.jpg"></div></div></div></div></div></div><p>　<a href="https://www.iodata.jp/" class="n" target="_blank">株式会社アイ・オー・データ機器</a>は、Verbatim製のアナログレコードのデザインを模したCD-Rメディア「Phono-R」を8月上旬より発売する。価格はすべてオープンプライス。</p><p>　表面にアナログレコードと同じ黒色を採用したレトロデザインのCD-Rメディア。音楽用とデータ用の2ラインナップのほか、レーベル面は5色タイプとインクジェットプリンタ対応のホワイトタイプが選択可能。5色タイプは、シックなレッド、ブラウン、グリーン、ブルー、パープルの5色を採用した。</p><p>　また、ミニレコード風のCDジャケットが作れるジャケットデザインキットも用意。作成ツールをWebで提供しているほか、EPジャケット用紙、EPレコード風台紙、貼りやすくはがれにくいCDサイズ用の光沢ラベルなどは、ナカバヤシ株式会社の協力を得て実現したという。</p><p>　音楽用の5色タイプは5枚組、10枚組、30枚組、インクジェットプリンタ対応タイプは10枚組または30枚組、データ用はいずれも50枚組となっている。容量は700MB、最大記録速度は48倍速。</p></div></div>]]></description>
-			<pubDate>Wed, 01 Jul 2020 14:56:30 +0900</pubDate>
-		</item>
-		<item>
 			<title>細工された画像ファイルでリモートコード実行の脆弱性。Windows 10に緊急パッチ </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1262691.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/691/1_o.jpg"></div></div></div></div></div></div><p>　Microsoftは30日、特別に細工された画像ファイルをMicrosoft Windows Codecs Libraryが処理を行なった場合、メモリ内のオブジェクトの処理方法の脆弱性により、リモートでコードが実行されるおそれがあると発表した。</p><p>　共通脆弱性識別子は「CVE-2020-1425」、「CVE-2020-1457」で、深刻度は「緊急」または「重要」とされているため、月例アップデートを待たずにパッチが公開されることとなった。パッチではMicrosoft Windows Codecs Libraryの処理方法を修正することで対処する。</p><p>　影響を受けるのはWindows 10 1709/1803/1809/1909/2004、およびWindows Server 2019。アップデートはWindows UpdateではなくMicrosoft Store経由で行なわれ、ユーザーによる操作は不要。</p></div></div>]]></description>
@@ -105,6 +99,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1262925.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/925/01.gif"></div></div><span class="caption">スタートメニューのUIを変更</span></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は1日(現地時間)、Windows 10 Insider Preview「Build 20161(21H1)」をDev Channelで公開した。</p><p>　Build 20161は来年(2021年)正式公開予定のビルドで、いくつかの新機能が実装されている。</p><p>　まず、スタートメニューのUIが変更され、アプリリストのロゴの後ろにある無色のバックプレートを削除するとともに、タイルに部分的に半透明の背景を適用。OfficeやEdgeなどに採用されている新しい見た目のアイコンにデザインを合わせた。</p><p>　新しいUIはダークテーマとライトテーマのどちらにも合うようになっているが、「設定→個人用設定→色」からアクセントカラーを選んでも、同様のデザインが維持される。アクセントカラーを適用する場合は、ダークテーマにし、「背景から自動的にアクセントカラーを選ぶ」と「スタートメニュー、タスクバー、アクションセンター」の項目を有効化しておく必要がある。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/925/02_o.png"></div></div><span class="caption">ダークテーマ</span></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/925/03_o.png"></div></div><span class="caption">ライトテーマ</span></div></div></div></div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/925/04_o.png"></div></div><span class="caption">アクセントカラー適用</span></div></div></div></div><p>　[Alt]+[Tab]キーによるウィンドウの切り替え機能に改良が加えられ、Edgeで開いている個々のWebサイトのタブについても、切り替えの対象として表示されるようになった。以前の表示形式に戻すこともでき、「設定→システム→マルチタスク」に設定が用意されている。</p><p>　なお、この機能は現時点では少数のInsiderプログラム参加者にのみ提供され、バージョンが83.0.475.0以降のEdgeを使用している必要がある。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/925/05.gif"></div></div><span class="caption">[Alt]+[Tab]キーでのウィンドウの切り替えが、Edge内のタブも対象になった</span></div></div></div></div><p>　タスクバーについて、新しいアカウントを作った場合もしくははじめてログオンした場合に限定して、ユーザーに合ったアプリを自動的に配置する、使い勝手向上のための試みを実施。診断データとユーザーからのフィードバック情報をもとにして、インストール済みアプリなどへの混乱を最小限に抑えるように、標準のレイアウトを調整するとしている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/925/06_o.jpg"></div></div><span class="caption">ユーザーに合わせてタスクバーのアイコンを変更</span></div></div></div></div><p>　このほか、通知機能の改善、コントロールパネルのシステム情報の「設定」への統合、そして2in1デバイスでキーボードを取り外したさいに表示されるタブレットモードへの切り替えメッセージを出さずに、直接移行するように設定が変更されている。</p></div></div>]]></description>
 			<pubDate>Thu, 02 Jul 2020 13:35:16 +0900</pubDate>
+		</item>
+		<item>
+			<title>オウルテック、折りたたみ式のBluetoothキーボード </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1262951.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/951/01.jpg"></div></div><span class="caption">OWL-BTKB6501</span></div></div></div></div><p>　<a href="https://www.owltech.co.jp/" class="n" target="_blank">株式会社オウルテック</a>は、折りたたみ式のBluetoothキーボード「OWL-BTKB6501」を発売した。価格はオープンプライスで、店頭予想価格は4,380円前後の見込み。</p><p>　OWL-BTKB6501は、中央で2つ折りできる構造のキーボードで、約156×93×14mm(幅×奥行き×高さ)と持ち運びやすいサイズに折りたためる。PCやスマートフォンなどで利用でき、Bluetooth 3.0で接続する。</p><p>　キー配列は英語で、キーピッチは約18mm、約300万回のキー押下耐久性を謳う。充電用インターフェイスはMicro USBで、連続使用時間は約40時間。</p><p>　対応OSはWindows 8.1以降/iOS 6.0以降/Android 4.1以降。重量は約130g。</p></div></div>]]></description>
+			<pubDate>Thu, 02 Jul 2020 14:11:44 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
