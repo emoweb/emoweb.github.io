@@ -5,24 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>細工された画像ファイルでリモートコード実行の脆弱性。Windows 10に緊急パッチ </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1262691.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/691/1_o.jpg"></div></div></div></div></div></div><p>　Microsoftは30日、特別に細工された画像ファイルをMicrosoft Windows Codecs Libraryが処理を行なった場合、メモリ内のオブジェクトの処理方法の脆弱性により、リモートでコードが実行されるおそれがあると発表した。</p><p>　共通脆弱性識別子は「CVE-2020-1425」、「CVE-2020-1457」で、深刻度は「緊急」または「重要」とされているため、月例アップデートを待たずにパッチが公開されることとなった。パッチではMicrosoft Windows Codecs Libraryの処理方法を修正することで対処する。</p><p>　影響を受けるのはWindows 10 1709/1803/1809/1909/2004、およびWindows Server 2019。アップデートはWindows UpdateではなくMicrosoft Store経由で行なわれ、ユーザーによる操作は不要。</p></div></div>]]></description>
-			<pubDate>Wed, 01 Jul 2020 16:17:43 +0900</pubDate>
-		</item>
-		<item>
-			<title>Google MeetにAIベースのノイズ抑制機能が追加 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1262698.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/KYEJJNKS8j4?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div><span class="caption">ノイズ抑制機能</span></div></div></div></div><p>　米<a href="https://www.google.com/" class="n" target="_blank">Google</a>は6月30日(現地時間)、ビデオ通話サービス「Google Meet」にノイズ抑制機能を追加した。</p><p>　キーボードタイピングやドアの開閉、部屋の外の騒音などを抑制する機能で、クラウドベースのAIによって提供される。デフォルトではオフになっているが、ユーザー側で音声設定の画面から「Noise cancellation」を有効にすると利用できる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/698/02.jpg"></div></div><span class="caption">設定画面</span></div></div></div></div><p>　即時/計画的リリース方式のドメインにおいて、G Suite EnterpriseおよびG Suite Enterprise for Educationのユーザーを対象にWeb版のMeetで利用可能となっている。モバイル版については近日中に実装される見込み。</p><p>　なお、日本を含むいくつかの地域では、利用可能になるまで15日以上かかる場合があるという。</p></div></div>]]></description>
-			<pubDate>Wed, 01 Jul 2020 16:21:17 +0900</pubDate>
-		</item>
-		<item>
-			<title>【やじうまPC Watch】郵便局、国際郵便物の引き受けを一部再開～中国、イタリア、ニュージーランド、インドネシア宛が対象</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1262707.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/707/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.post.japanpost.jp/" class="n" target="_blank">日本郵便株式会社</a>は、新型コロナウイルス感染症拡大の影響により引き受けを一時停止していた国際郵便物について、一部引き受けを再開した。</p><p>　今回引き受けが再開されたのは、中国宛のEMS郵便物/船便扱いの通常郵便物/小包郵便物、イタリアおよびニュージーランド宛のEMS郵便物/航空便扱いの通常郵便物/小包郵便物、インドネシア宛の船便扱いの通常郵便物/小包郵便物となっている。</p><p>　米国宛については、引き受け停止前に受け付けた郵便物の発送は近日中に完了する見込みだが、十分な輸送力が確保できないため、一部郵便物を除く引き受け停止を継続する。</p></div></div>]]></description>
-			<pubDate>Wed, 01 Jul 2020 16:22:03 +0900</pubDate>
-		</item>
-		<item>
 			<title>名古屋大、富岳ベースで光学ディスクも使ったスパコン「不老」を運用開始 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1262737.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/737/01.jpg"></div></div><span class="caption">不老のTypeIサブシステム</span></div></div></div></div><p>　<a href="http://www.nagoya-u.ac.jp/" class="n" target="_blank">名古屋大学</a>情報基盤センターは、2月より導入が進められていたスーパーコンピュータ「不老(フロー)」の運用を開始した。</p><p>　不老は、スパコン「富岳」をベースとした富士通製「FUJITSU Supercomputer PRIMEHPC FX1000」によるTypeIサブシステムと、AI研究支援向けにGPUとして「Tesla V100」を884基を内蔵したTypeIIサブシステム、48TBの大規模メモリを搭載した「HPE Superdome Flex」によるTypeIIIサブシステム、30PBのホットストレージ、国内初となる光ディスクによる6PBのコールドストレージなどによって構成される。</p><p>　システム全体で15.88PFLOPSの計算能力を発揮。湧水を利用した冷却機構や、電力消費ピーク時の消費電力低減機能なども備えている。</p><p>　富岳をベースとしたスパコンとしては世界初のサービス運用開始だとしており、台風のメカニズム解析や医療用画像診断、遺伝子解析、自動運転向けAIなどの研究をサポートしていくという。また、運用開始にあわせてロゴも公開されている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/737/02.jpg"></div></div><span class="caption">TypeIIサブシステム</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/737/03.jpg"></div></div><span class="caption">TypeIIIサブシステム</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/737/04.jpg"></div></div><span class="caption">不老のロゴ</span></div></div></div></div></div></div>]]></description>
@@ -105,6 +87,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1262951.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/951/01.jpg"></div></div><span class="caption">OWL-BTKB6501</span></div></div></div></div><p>　<a href="https://www.owltech.co.jp/" class="n" target="_blank">株式会社オウルテック</a>は、折りたたみ式のBluetoothキーボード「OWL-BTKB6501」を発売した。価格はオープンプライスで、店頭予想価格は4,380円前後の見込み。</p><p>　OWL-BTKB6501は、中央で2つ折りできる構造のキーボードで、約156×93×14mm(幅×奥行き×高さ)と持ち運びやすいサイズに折りたためる。PCやスマートフォンなどで利用でき、Bluetooth 3.0で接続する。</p><p>　キー配列は英語で、キーピッチは約18mm、約300万回のキー押下耐久性を謳う。充電用インターフェイスはMicro USBで、連続使用時間は約40時間。</p><p>　対応OSはWindows 8.1以降/iOS 6.0以降/Android 4.1以降。重量は約130g。</p></div></div>]]></description>
 			<pubDate>Thu, 02 Jul 2020 14:11:44 +0900</pubDate>
+		</item>
+		<item>
+			<title>CHUWI、Core i5-5257U搭載のミニPCをAmazonで販売開始 ～クーポン適用で38,900円</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1262996.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1262/996/1.jpg"></div></div><span class="caption">CoreBox</span></div></div></div></div><p>　<a href="https://www.chuwi.com/jp/" class="n" target="_blank">CHUWI</a>は、CPUにBroadwell世代のCore i5-5257Uを搭載した「CoreBox」をAmazon.co.jpで販売開始した。価格は41,800円だが、7月2日現在、3,000オフクーポンを配布中。</p><p>　「HiGame」と共通の容積2L筐体を採用したコンパクトPC。CPU内蔵GPUはIris Graphics 6100で、4Kビデオ視聴やレンダリングなどの軽作業に向く。メモリは8GB、ストレージは256GB SSD、OSはWindows 10 Home。</p><p>　インターフェイスはUSB 3.0×2、USB 2.0×2、HDMI出力×2、Gigabit Ethernet、IEEE 802.11ac対応無線LAN、音声入出力などを備える。</p><p>　本体サイズは173×158×73mm(幅×奥行き×高さ)、重量は803g。</p><div><div><div><div><div><ul class="aff_list"><li class="aff_item"><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07VCK7WK9/impresswatch-6-22/ref=nosim" target="_blank"><img src="https://m.media-amazon.com/images/I/412yYlYAliL._SL160_.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B07VCK7WK9/impresswatch-6-22/ref=nosim" target="_blank">CHUWI CoreBox</a></div></div></li></ul></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 02 Jul 2020 16:42:10 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
