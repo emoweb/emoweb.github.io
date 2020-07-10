@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Kaspersky、「Summer Online 2020」にてDoom Eternalスピードランコンテストを共同開催</title>
-			<link>https://blog.kaspersky.co.jp/kaspersky-presents-doom-eternal-speedrunning-contest/28662/</link>
-			<description><![CDATA[KasperskyはEuropean Speedrunner Assembly（ESA）主催のチャリティイベント「Summer Online 2020」にてスピードランコンテストを開催します。]]></description>
-			<pubDate>Wed, 17 Jun 2020 01:00:36 +0000</pubDate>
-		</item>
-		<item>
 			<title>マルウェアはどのようにしてゲームアカウントを盗むのか</title>
 			<link>https://blog.kaspersky.co.jp/gaming-password-stealers/28674/</link>
 			<description><![CDATA[Origin、Battle.net、Uplayなどゲームプラットフォームのアカウントのログイン情報を盗もうとするトロイの木馬について。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/unusual-ways-to-leak-info/28755/</link>
 			<description><![CDATA[機密情報の「うっかり公開」がいかに起きやすいか、それが分かる話をいくつかご紹介します。]]></description>
 			<pubDate>Fri, 03 Jul 2020 01:00:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>ゲームアカウント用に強固なパスワードを作るヒント</title>
+			<link>https://blog.kaspersky.co.jp/game-accounts-passwords/28785/</link>
+			<description><![CDATA[Steam、Origin、Epic Storeなどのゲームプラットフォームのアカウントを保護するには。]]></description>
+			<pubDate>Fri, 10 Jul 2020 01:00:39 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
