@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Ripple20：億単位のIoTデバイスに影響する複数の脆弱性</title>
-			<link>https://blog.kaspersky.co.jp/ripple20-vulnerabilities/28699/</link>
-			<description><![CDATA[イスラエルのエキスパートチームが、控えめに見積もって何億ものIoTデバイスに、複数の脆弱性が含まれると発表しました。深刻度の高い脆弱性も含まれています。]]></description>
-			<pubDate>Mon, 22 Jun 2020 01:00:30 +0000</pubDate>
-		</item>
-		<item>
 			<title>サイバー犯罪者はエアギャップを飛び越えられるか？</title>
 			<link>https://blog.kaspersky.co.jp/jumping-over-air-gap/28678/</link>
 			<description><![CDATA[インターネットに接続されていなければデータが盗まれることはない。…そうとは限りません。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/smb-backups-reasons/28824/</link>
 			<description><![CDATA[性能のいい機器を使っていても、データが失われる可能性はあります。]]></description>
 			<pubDate>Thu, 16 Jul 2020 01:00:48 +0000</pubDate>
+		</item>
+		<item>
+			<title>CVE-2020-1350：Windows DNSサーバーの脆弱性</title>
+			<link>https://blog.kaspersky.co.jp/cve-2020-1350-dns-rce/28829/</link>
+			<description><![CDATA[Microsoftは、Windows Serverシステムの重大なRCE脆弱性に対するパッチをリリースしました。]]></description>
+			<pubDate>Fri, 17 Jul 2020 01:00:46 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
