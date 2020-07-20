@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>サイバー犯罪者はエアギャップを飛び越えられるか？</title>
-			<link>https://blog.kaspersky.co.jp/jumping-over-air-gap/28678/</link>
-			<description><![CDATA[インターネットに接続されていなければデータが盗まれることはない。…そうとは限りません。]]></description>
-			<pubDate>Tue, 23 Jun 2020 01:00:00 +0000</pubDate>
-		</item>
-		<item>
 			<title>自社ネットワークを攻撃しているのはどのハッカーグループか—推測ではなく、確認を！</title>
 			<link>https://blog.kaspersky.co.jp/kaspersky-threat-attribution-engine/28717/</link>
 			<description><![CDATA[コードの類似性を解析し、APTのアトリビューションを行うための技術的証拠を示す、新たなソリューションについて。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/cve-2020-1350-dns-rce/28829/</link>
 			<description><![CDATA[Microsoftは、Windows Serverシステムの重大なRCE脆弱性に対するパッチをリリースしました。]]></description>
 			<pubDate>Fri, 17 Jul 2020 01:00:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>【Kaspersky TECH-CHAT】ケヴィン・トラップと話すテクノロジーのこと</title>
+			<link>https://blog.kaspersky.co.jp/kaspersky-tech-chat-with-eintracht-kevin-trapp/28836/</link>
+			<description><![CDATA[アイントラハト・フランクフルトの選手に、テクノロジーのことを聞いてみるシリーズがスタートします。]]></description>
+			<pubDate>Mon, 20 Jul 2020 01:00:46 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
