@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>データ盗み出し経路としてのGoogleアナリティクス</title>
-			<link>https://blog.kaspersky.co.jp/web-skimming-with-ga/28712/</link>
-			<description><![CDATA[Googleのツールを使用してクレジットカード情報を盗み出す方法を、当社エキスパートが明らかにしました。]]></description>
-			<pubDate>Thu, 25 Jun 2020 01:00:40 +0000</pubDate>
-		</item>
-		<item>
 			<title>セキュリティが強化されたZoom 5.0</title>
 			<link>https://blog.kaspersky.co.jp/zoom-5-security/28741/</link>
 			<description><![CDATA[Zoomの開発チームは、サービスのセキュリティをさらに強化しました。何がどう変わったのか見てみましょう。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/recursive-malvertising/28842/</link>
 			<description><![CDATA[売り出し中の中古ドメインにアクセスした場合、ドメイン販売情報を示すオークションサイトのページが表示されますが、ここで悪意あるWebサイトへリダイレクトするという手口が発見されています。]]></description>
 			<pubDate>Wed, 22 Jul 2020 01:00:42 +0000</pubDate>
+		</item>
+		<item>
+			<title>カスペルスキー セキュアコネクション（VPNアプリ）、新バージョン</title>
+			<link>https://blog.kaspersky.co.jp/secure-connection-update-2020/28866/</link>
+			<description><![CDATA[カスペルスキーのVPN製品に、保護を途切れさせないフェイルセーフ機能が追加されました。]]></description>
+			<pubDate>Thu, 23 Jul 2020 01:00:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
