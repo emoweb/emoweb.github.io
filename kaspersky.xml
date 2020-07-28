@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>App Clip、Instant App（プレビューアプリ）とは何か</title>
-			<link>https://blog.kaspersky.co.jp/apple-app-clips-android-instant-apps/28748/</link>
-			<description><![CDATA[WWDC 2020で、AppleはiOS向けのApp Clipを発表しました。App Clipと、これと同等のAndroidプレビューアプリについて、説明します。]]></description>
-			<pubDate>Wed, 01 Jul 2020 01:00:20 +0000</pubDate>
-		</item>
-		<item>
 			<title>企業データが漏れ出る4つの経路</title>
 			<link>https://blog.kaspersky.co.jp/unusual-ways-to-leak-info/28755/</link>
 			<description><![CDATA[機密情報の「うっかり公開」がいかに起きやすいか、それが分かる話をいくつかご紹介します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/integrated-security-solution/28771/</link>
 			<description><![CDATA[小規模企業であっても自動化ツールで複雑な攻撃を退けることが可能となる、統合型のアプローチとは。]]></description>
 			<pubDate>Mon, 27 Jul 2020 01:00:40 +0000</pubDate>
+		</item>
+		<item>
+			<title>MATA：マルチプラットフォームなマルウェアフレームワーク</title>
+			<link>https://blog.kaspersky.co.jp/mata-framework/28875/</link>
+			<description><![CDATA[当社エキスパートは、さまざまなOSに対する攻撃に使用されるマルウェアフレームワークを検知しました。]]></description>
+			<pubDate>Tue, 28 Jul 2020 03:55:48 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
