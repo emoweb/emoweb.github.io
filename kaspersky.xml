@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>企業データが漏れ出る4つの経路</title>
-			<link>https://blog.kaspersky.co.jp/unusual-ways-to-leak-info/28755/</link>
-			<description><![CDATA[機密情報の「うっかり公開」がいかに起きやすいか、それが分かる話をいくつかご紹介します。]]></description>
-			<pubDate>Fri, 03 Jul 2020 01:00:49 +0000</pubDate>
-		</item>
-		<item>
 			<title>ゲームアカウント用に強固なパスワードを作るヒント</title>
 			<link>https://blog.kaspersky.co.jp/game-accounts-passwords/28785/</link>
 			<description><![CDATA[Steam、Origin、Epic Storeなどのゲームプラットフォームのアカウントを保護するには。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/mata-framework/28875/</link>
 			<description><![CDATA[当社エキスパートは、さまざまなOSに対する攻撃に使用されるマルウェアフレームワークを検知しました。]]></description>
 			<pubDate>Tue, 28 Jul 2020 03:55:48 +0000</pubDate>
+		</item>
+		<item>
+			<title>量子コンピューターと暗号化：超入門編</title>
+			<link>https://blog.kaspersky.co.jp/quantum-computing-vs-data-encryption/28818/</link>
+			<description><![CDATA[暗号化がデータを守る仕組みとは？量子コンピューターがその仕組みを揺るがしかねない理由とは？]]></description>
+			<pubDate>Wed, 29 Jul 2020 01:00:23 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
