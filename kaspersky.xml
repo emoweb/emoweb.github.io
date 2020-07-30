@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ゲームアカウント用に強固なパスワードを作るヒント</title>
-			<link>https://blog.kaspersky.co.jp/game-accounts-passwords/28785/</link>
-			<description><![CDATA[Steam、Origin、Epic Storeなどのゲームプラットフォームのアカウントを保護するには。]]></description>
-			<pubDate>Fri, 10 Jul 2020 01:00:39 +0000</pubDate>
-		</item>
-		<item>
 			<title>アリババと40のサイバー脅威</title>
 			<link>https://blog.kaspersky.co.jp/fairy-tales-ali-baba/28802/</link>
 			<description><![CDATA[古代ペルシャ時代のアリババの物語は、どうやらサイバー脅威について語っているようです。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/quantum-computing-vs-data-encryption/28818/</link>
 			<description><![CDATA[暗号化がデータを守る仕組みとは？量子コンピューターがその仕組みを揺るがしかねない理由とは？]]></description>
 			<pubDate>Wed, 29 Jul 2020 01:00:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>Lazarusの実験的ランサムウェア攻撃</title>
+			<link>https://blog.kaspersky.co.jp/lazarus-vhd-ransomware/28892/</link>
+			<description><![CDATA[従来のAPTの手法を使用し、ランサムウェア「VHD」を拡散するLazarusグループ。]]></description>
+			<pubDate>Thu, 30 Jul 2020 03:55:45 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
