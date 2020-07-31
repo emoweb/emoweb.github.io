@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>ほぼすべてのLinuxのブートローダーに脆弱性 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1268335.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1268/335/01.jpg"></div></div></div></div></div></div><p>　米セキュリティ企業の<a href="https://eclypsium.com/" class="n" target="_blank">Eclypsium</a>は7月29日(現地時間)、GRUB2ブートローダーに存在する脆弱性「BootHole」について報告した。</p><p>　GRUB2は、多くのLinuxディストリビューションで利用されているブートローダー。そのため、BootHole(CVE-2020-10713ほか)の影響は広範囲におよび、セキュアブートを有効にしている場合でも悪用が可能だという。各ベンダーに事前に通達済みで、同日よりアドバイザリーやアップデートが順次提供される予定。</p><p>　設定ファイルである「grub.cfg」をGRUB2が読み出すプロセスにおいて、バッファオーバーフローの脆弱性が存在する。grub.cfgはEFIシステムパーティション内部にあるテキストファイルで、管理者権限を得た攻撃者によってブートローダー本体の整合性を保ったまま変更できる。</p><p>　バッファオーバーフローを悪用することで、攻撃者はUEFI実行環境内において任意のコードが実行可能。マルウェアの実行やブートプロセスの変更、永続的かつステルスなブートキットの導入などができるようになる。OSの読み込みより前に攻撃者によるコードを実行できてしまうため、実質的にデバイスを完全制御下に置けるかたちとなる。</p><p>　緩和策としては、GRUB2自体の更新などが必要となるほか、セキュアブートではコンポーネントの検証プロセスにおいてMicrosoftによる電子署名が広く利用されているため、同社によるアップデートも提供される見込み。</p><p>　ブートローダーはその特性上、更新時のトラブルによってデバイスが起動不可に陥る場合もあるため慎重に進める必要があるが、BootHoleは特権昇格の脆弱性を通じて悪用が可能な脆弱性であることから、EclypsiumではまずはOS自体のアップデートを適宜行なうことを推奨している。</p></div></div>]]></description>
-			<pubDate>Thu, 30 Jul 2020 17:12:54 +0900</pubDate>
-		</item>
-		<item>
 			<title>JAPANNEXT、165Hz駆動/応答速度1msの23.8型フルHD液晶 ～発売記念で8月末まで24,970円で販売</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1268381.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1268/381/01.jpg"></div></div><span class="caption">JN-IPS24165GMFHDR</span></div></div></div></div><p>　<a href="http://www.japannext.net/" class="n" target="_blank">株式会社JAPANNEXT</a>は、23.8型のゲーミング液晶「JN-IPS24165GMFHDR」を7月31日に発売する。価格は34,970円。なお、8月31日まで、発売記念特価として24,970円で販売する。</p><p>　165Hz駆動に対応したフルHD(1,920×1,080ドット)のFAST IPSパネルを搭載するゲーミング液晶。応答速度1ms(MPRT)/2ms(GtoG)と高速で、ゲームや動画視聴時に残像を大幅に削減できる。そのほか、FreeSyncやHDRに対応し、ゲーム内の視認性を高める3種類のモードを内蔵。フリッカー軽減やブルーライト抑制機能なども備える。</p><p>　その他のおもな仕様は、表示色数は約16億7千万色、輝度は310cd/平方m、コントラスト比は1,000:1、視野角は上下左右ともに178度。インターフェイスは、HDMI、DisplayPort、USB(給電用)、ヘッドフォン端子、2W+2Wステレオスピーカーを備える。</p><p>　本体サイズは539×151×400mm(幅×奥行き×高さ)、重量は約2.4kg。</p><div><div><div><div><div><ul class="aff_list"><li class="aff_item"><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B08C9QP153/impresswatch-6-22/ref=nosim" target="_blank"><img src="https://m.media-amazon.com/images/I/41PPfhPNC1L._SL160_.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B08C9QP153/impresswatch-6-22/ref=nosim" target="_blank">JN-IPS24165GMFHDR</a></div></div></li></ul></div></div></div></div></div></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1268616.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1268/616/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.apple.com/jp/" class="n" target="_blank">Apple</a>は、2020年第3四半期(2020年4～6月期)の決算を発表した。</p><p>　2020年第3四半期の決算概要は、売上高が前年同期比11%増の596億8,500万ドル、営業利益が130億9,100万ドル、純利益が112億5,300万ドルなどとなった。希薄化後の1株当たりの利益は同18%増の2.58ドルで、米国市場以外の売上比率は60%となっている。</p><p>　1株当たりの利益および営業キャッシュフロー(163億ドル)は第3四半期において過去最高を記録。すべての地域別セグメントと主要製品カテゴリーにおけるインストールベースのアクティブデバイス数についても過去最高となった。製品およびサービスの両方で2桁成長を達成したことや、各地域別セグメントの成長によるものだとしている。</p><p>　同社CEOのティム・クック氏は「不確実な時代において、この業績は、私たちの製品がお客様の生活に重要な役割を果たし、Appleが絶え間なく革新を行なっていることを証明するものです」と述べている。</p></div></div>]]></description>
 			<pubDate>Fri, 31 Jul 2020 15:31:28 +0900</pubDate>
+		</item>
+		<item>
+			<title>Twitterの大規模攻撃、特定の従業員を狙うスピアフィッシング攻撃が判明 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1268662.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1268/662/01.jpg"></div></div></div></div></div></div><p>　<a href="https://twitter.com/" class="n" target="_blank">Twitter</a>は30日(現地時間)、7月16日に発生した大規模攻撃に関する調査の追加報告を行なった。</p><p>　今回は攻撃の詳細について報告されており、小数の従業員を狙ったスピアフィッシング攻撃が仕掛けられたこと明らかとなった。実際に16日に行なわれた大規模攻撃には、社内ネットワークに加え、特定の従業員のみがもつサポートツールへのアクセス権が必要だが、最初に狙われた従業員は全員ツールへのアクセス権を持っていなかったという。</p><p>　しかし、攻撃者はここで得た資格情報からシステムへ侵入し社内情報を入手。ツールへのアクセス権を持つ従業員に対してさらなる攻撃を実行し、手に入れた資格情報を悪用して、実際のTwitterアカウントへの攻撃を行なったという。</p><p>　同社では、ツールやシステムの改善などを進めるほか、フィッシング対策の演習を継続的に行なうなど、セキュリティの向上を図っていくとしている。また、現在も攻撃者の特定に向けた調査が進められており、完了するまでの間は社内ツールやシステムへのアクセスが大きく制限されているため、一部機能が使えなかったりサポートへの対応が遅くなる場合があるという。</p></div></div>]]></description>
+			<pubDate>Fri, 31 Jul 2020 17:40:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
