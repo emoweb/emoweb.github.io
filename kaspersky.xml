@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>アリババと40のサイバー脅威</title>
-			<link>https://blog.kaspersky.co.jp/fairy-tales-ali-baba/28802/</link>
-			<description><![CDATA[古代ペルシャ時代のアリババの物語は、どうやらサイバー脅威について語っているようです。]]></description>
-			<pubDate>Tue, 14 Jul 2020 01:00:46 +0000</pubDate>
-		</item>
-		<item>
 			<title>会社のデータをバックアップしておくことが必須である理由</title>
 			<link>https://blog.kaspersky.co.jp/smb-backups-reasons/28824/</link>
 			<description><![CDATA[性能のいい機器を使っていても、データが失われる可能性はあります。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/lazarus-vhd-ransomware/28892/</link>
 			<description><![CDATA[従来のAPTの手法を使用し、ランサムウェア「VHD」を拡散するLazarusグループ。]]></description>
 			<pubDate>Thu, 30 Jul 2020 03:55:45 +0000</pubDate>
+		</item>
+		<item>
+			<title>ユージン・カスペルスキーはどのようなスパムメールを受け取っているのか</title>
+			<link>https://blog.kaspersky.co.jp/kaspersky-ceo-spam/28853/</link>
+			<description><![CDATA[スパマーやフィッシング詐欺師は、KasperskyのCEOにどのような話を持ちかけてきているのでしょう？ユージンのスパムフォルダーの中身を調べました。]]></description>
+			<pubDate>Fri, 31 Jul 2020 01:00:11 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
