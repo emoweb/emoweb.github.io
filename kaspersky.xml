@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>会社のデータをバックアップしておくことが必須である理由</title>
-			<link>https://blog.kaspersky.co.jp/smb-backups-reasons/28824/</link>
-			<description><![CDATA[性能のいい機器を使っていても、データが失われる可能性はあります。]]></description>
-			<pubDate>Thu, 16 Jul 2020 01:00:48 +0000</pubDate>
-		</item>
-		<item>
 			<title>CVE-2020-1350：Windows DNSサーバーの脆弱性</title>
 			<link>https://blog.kaspersky.co.jp/cve-2020-1350-dns-rce/28829/</link>
 			<description><![CDATA[Microsoftは、Windows Serverシステムの重大なRCE脆弱性に対するパッチをリリースしました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/kaspersky-ceo-spam/28853/</link>
 			<description><![CDATA[スパマーやフィッシング詐欺師は、KasperskyのCEOにどのような話を持ちかけてきているのでしょう？ユージンのスパムフォルダーの中身を調べました。]]></description>
 			<pubDate>Fri, 31 Jul 2020 01:00:11 +0000</pubDate>
+		</item>
+		<item>
+			<title>決して信頼せず、常に検証：ゼロトラストのセキュリティモデル</title>
+			<link>https://blog.kaspersky.co.jp/zero-trust-security/28878/</link>
+			<description><![CDATA[ゼロトラストとは何か、現代の企業にとって魅力があるのはなぜかを説明します。]]></description>
+			<pubDate>Mon, 03 Aug 2020 01:00:36 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
