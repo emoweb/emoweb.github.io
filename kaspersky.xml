@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>CVE-2020-1350：Windows DNSサーバーの脆弱性</title>
-			<link>https://blog.kaspersky.co.jp/cve-2020-1350-dns-rce/28829/</link>
-			<description><![CDATA[Microsoftは、Windows Serverシステムの重大なRCE脆弱性に対するパッチをリリースしました。]]></description>
-			<pubDate>Fri, 17 Jul 2020 01:00:46 +0000</pubDate>
-		</item>
-		<item>
 			<title>【Kaspersky TECH-CHAT】ケヴィン・トラップと話すテクノロジーのこと</title>
 			<link>https://blog.kaspersky.co.jp/kaspersky-tech-chat-with-eintracht-kevin-trapp/28836/</link>
 			<description><![CDATA[アイントラハト・フランクフルトの選手に、テクノロジーのことを聞いてみるシリーズがスタートします。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/zero-trust-security/28878/</link>
 			<description><![CDATA[ゼロトラストとは何か、現代の企業にとって魅力があるのはなぜかを説明します。]]></description>
 			<pubDate>Mon, 03 Aug 2020 01:00:36 +0000</pubDate>
+		</item>
+		<item>
+			<title>スピードランの世界新記録、ウイルス対策製品オンの状態で達成される</title>
+			<link>https://blog.kaspersky.co.jp/speedrunning-with-kaspersky/28922/</link>
+			<description><![CDATA[スピードランの世界新記録。達成したのは、カスペルスキー インターネット セキュリティがバックグラウンドで稼働するコンピューターを使ったプレイヤーでした。]]></description>
+			<pubDate>Tue, 04 Aug 2020 01:00:19 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
