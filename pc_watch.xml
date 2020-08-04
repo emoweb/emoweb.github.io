@@ -5,24 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Kensington、4色カラバリの無線マウス </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1268855.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1268/855/1_o.jpg"></div></div><span class="caption">Pro Fit ワイヤレスミッドサイズマウス</span></div></div></div></div><p>　アコ・ブランズ・ジャパン株式会社は、Kinsingtonブランドの無線マウス「Pro Fit ワイヤレスミッドサイズマウス」を発売した。価格は3,300円。</p><p>　サファイヤブルー、ルビーレッド、グラファイトグレー、エメラルドグリーンの4色を用意した無線マウス。レシーバは本体に格納可能で、持ち運びにも好適としている。</p><p>　光学式センサーで、解像度は800/1,200/1,600dpiの3段階で調節可能。左右クリック/ホイールクリックに加え、ナビゲーションボタンを備える。通信は2.4GHz帯を利用。本体サイズは67×106×40mm(幅×奥行き×高さ)、重量は70g。</p></div></div>]]></description>
-			<pubDate>Mon, 03 Aug 2020 10:56:06 +0900</pubDate>
-		</item>
-		<item>
-			<title>ユニットコム、Core i7-10750H搭載の15.6型ゲーミングノート </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1268892.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1268/892/01.jpg"></div></div><span class="caption">LEVEL-15FX066-i7-RFSS、LEVEL-15FX066-i7-RFSVI</span></div></div></div></div><p>　<a href="https://www.unitcom.co.jp/" class="n" target="_blank">株式会社ユニットコム</a>はiiyama PCブランドLEVEL∞より、15.6型ゲーミングノートPCを4機種発売した。</p><p>　全製品共通でCore i7-10750Hや15.6型フルHD(1,920×1,080ドット)非光沢液晶、Windows 10 Homeなどを搭載。Wi-Fi 6にも対応する。</p><p>　LEVEL-15FX066-i7-RFSSの場合、8GBメモリ、GPUにGeForce GTX 1650、240GB SATA SSDを備え、価格は118,778円。</p><p>　LEVEL-15FX066-i7-RFSVIの場合、16GBメモリ、GPUにGeForce GTX 1650、500GB M.2 NVMe SSD+1TB HDDを備え、価格は133,078円。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1268/892/02.jpg"></div></div><span class="caption">LEVEL-15FX068-i7-RXSX、LEVEL-15FX068-i7-RXSVI</span></div></div></div></div><p>　LEVEL-15FX068-i7-RXSXの場合、16GBメモリ、GPUにGeForce GTX 1660 Ti、500GB M.2 NVMe SSDを備え、価格は150,678円。</p><p>　LEVEL-15FX068-i7-RXSVIの場合、16GBメモリ、GPUにGeForce GTX 1660 Ti、500GB M.2 NVMe SSD+1TB HDDを備え、価格は156,178円。</p></div></div>]]></description>
-			<pubDate>Mon, 03 Aug 2020 12:24:42 +0900</pubDate>
-		</item>
-		<item>
-			<title>「マイナポイント」の予約/申し込みがEdgeとChromeに対応 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1268918.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1268/918/1_o.png"></div></div><span class="caption">Chromeにおける拡張機能</span></div></div></div></div><p>　マイナンバーカードを使ってキャッシュレス決済をしたさいにポイントが還元される「マイナポイント」の予約/申し込みが、Microsoft EdgeとGoogle Chrome上で行なえるようになった。</p><p>　これまで、PCによるマイナポイントの予約と申し込みは、ICカードリーダもしくはNFCカードリーダを使う関係で、Internet Explorer 11上からしか行なえなかった。</p><p>　今回、EdgeおよびChromeに対応した拡張機能を提供開始することで、これらのブラウザ上からでも行なえるようになった。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1268/918/2_o.png"></div></div><span class="caption">Edgeの拡張機能</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Mon, 03 Aug 2020 12:50:15 +0900</pubDate>
-		</item>
-		<item>
 			<title>BootHole対策パッチによってRed HatやUbuntuが起動不能に。さらなるパッチが公開 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1268920.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1268/920/01.jpg"></div></div></div></div></div></div><p>　7月29日に報告されたGRUB2ブートローダーに関する脆弱性「BootHole」に対して公開されたパッチにおいて、適用後にOSが起動できなくなる問題が発生している。</p><p>　Red HatやUbuntuで問題が確認されており、前者ではRed Hat Enterprise Linux 7.8および8.2(7.9および8.1 EUSも影響を受ける恐れあり)、後者ではUbuntu 20.04 LTS、18.04 LTS、16.04 LTS、14.04 ESMが対象になるとしている。</p><p>　これらの一部環境において、該当パッチの適用後にGRUB2のメニュー画面がロードされないなど、OSの起動が正常に行なえなくなるというもの。どちらのOSについても、問題に対処するさらなるパッチがすでに公開されている。</p></div></div>]]></description>
@@ -105,6 +87,30 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1268985.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1268/985/1.jpg"></div></div><span class="caption">mouse K7</span></div></div></div></div><p>　<a href="https://www.mouse-jp.co.jp" class="n" target="_blank">株式会社マウスコンピューター</a>は、CPUにCore i7-10750H、GPUにGeForce GTX 1650を搭載した17.3型ノートパソコン「mouse K7」シリーズを発売した。</p><p>　6コア/12スレッド/最大5GHz駆動のCore i7-10750Hに加え、GDDR6メモリのGeForce GTX 1650を搭載し、従来の「mouse W」シリーズと比較してCPU性能が約3.7～4.7%、GPU性能が約7.3%向上した。また、奥行きを15.6mm短縮することで、底面積を6.4%縮小した。</p><p>　このほか、従来と比較して約5.5倍高速なWi-Fi 6、指紋センサー、15色に光るLEDバックライトつきキーボードなどを備える。</p><p>　そのほかのおもな仕様は、メモリが8GB、ストレージが512GB SSD、液晶が1,920×1,080ドット表示対応17.3型、OSがWindows 10 Homeなどとなっている。</p><p>　インターフェイスは、USB 3.1×2(うち1基はType-C)、USB×2、HDMI、Mini DisplayPort、UHS-I対応SDカードリーダ、音声入出力などを備える。</p></div></div>]]></description>
 			<pubDate>Tue, 04 Aug 2020 11:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>レノボ、Xeonや64GBメモリも選択可能な15.6型モバイルワークステーション2機種 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1269179.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1269/179/01.jpg"></div></div><span class="caption">ThinkPad P15v</span></div></div></div></div><p>　<a href="https://www.lenovo.com/jp/ja/" class="n" target="_blank">レノボ・ジャパン合同会社</a>は、15.6型モバイルワークステーション「ThinkPad P15v」および「ThinkPad P1 Gen3」を発売した。基本構成時の税別価格はそれぞれ241,000円、324,000円。</p><p>　両機種ともに、CPUに第10世代CoreやXeon W-10855Mが選択でき、最大で64GBメモリや512GB M.2 NVMe SSDなどが搭載可能となっている。</p><p>　基本構成時のおもな仕様はThinkPad P15vの場合、Core i5-10300H、8GBメモリ、Quadro P620、256GB M.2 NVMe SSD、15.6型フルHD(1,920×1,080ドット)非光沢IPS液晶、Windows 10 Proなどを装備。液晶はタッチ対応フルHD IPSや、4K(3,840×2,160ドット)非光沢IPSも選択できる。</p><p>　インターフェイスは、Thunderbolt 3、USB 3.0×2、Gigabit Ethernet、Wi-Fi 6、Bluetooth 5.1、HDMI、720p Webカメラ、microSDカードスロット、音声入出力などを備える。</p><p>　本体サイズは約366.5×250×21.17～24.2mm(幅×奥行き×高さ)、重量は約2.07kg。6セルリチウムイオンバッテリを内蔵する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1269/179/02.jpg"></div></div><span class="caption">ThinkPad P1 Gen3</span></div></div></div></div><p>　ThinkPad P1 Gen3の場合、Core i7-10750H、8GBメモリ、Quadro T1000、256GB M.2 NVMe SSD、15.6型フルHD非光沢IPS液晶、Windows 10 Proなどを搭載。ディスプレイはタッチ対応4K有機ELも選択できる。</p><p>　インターフェイスは、Thunderbolt 3×2、USB 3.0×2、Wi-Fi 6、Bluetooth 5.1、HDMI、720p Webカメラ、SDカードスロット、音声入出力などを備える。</p><p>　本体サイズは約361.8×245.7×18.4mm(幅×奥行き×高さ)、重量は約1.7kg。4セルリチウムイオンバッテリを内蔵し、駆動時間は約17.1時間。</p></div></div>]]></description>
+			<pubDate>Tue, 04 Aug 2020 12:12:19 +0900</pubDate>
+		</item>
+		<item>
+			<title>【やじうまPC Watch】フジテックス、HDDを完全物理破壊する「HDDシュレッダー」</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1269180.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1269/180/1.jpg"></div></div><span class="caption">KS-13120HSVR</span></div></div></div></div><p>　<a href="https://www.fjtex.co.jp/">株式会社フジテックス</a>は、HDDを物理的に完全破壊する「録画機能付き メディア破砕機 HDDシュレッダー」を発売した。</p><p>　HDDやUSBメモリ、ICカード、スマートフォンなど、あらゆるメディアを粉砕できる機械。4方向にカメラが内蔵されており、「誰が」、「どのように」、「なにを」破砕しているのか、動画で記録して管理できるのが特徴。録画データはSDカードに保存される。</p><p>　省スペース設計でオフィスや車載での利用が可能なほか、低騒音設計により業務中でもストレスなく利用できるとしている。対応メディアは厚さ5mmまたは40mmまで。</p><p>　電源は200Vを利用する。駆動力、本体サイズおよび重量は、投入口の幅が110mm+90mmの「KS-13120HDR」が1.5kW/600×850×1,170mm(幅×奥行き×高さ)/500kg、同150mm+90mmの「KS-13120HSVR」が3.75kW/800×1,120×1,232mm(同)/900kg。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1269/180/2.jpg"></div></div><span class="caption">KS-13120HDR</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Tue, 04 Aug 2020 12:17:34 +0900</pubDate>
+		</item>
+		<item>
+			<title>デル、各種PCが最大20%引きのサマーセールを開催 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1269198.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1269/198/01.jpg"></div></div><span class="caption">G7 17</span></div></div></div></div><p>　<a href="https://www.delltechnologies.com/ja-jp/index.htm" class="n" target="_blank">デル・テクノロジーズ株式会社</a>は、個人向け製品を対象とした「サマーセール」を開催している。期間は8月11日まで。</p><p>　サマーセールでは、7月に発売された17.3型ノート「G7 17」やミニタワー「G5デスクトップ」などを含む、6万円以上の商品が最大20%引きとなるクーポン配布のほか、クーポン適用で10万円以下となるモデルも用意。ディスプレイやマウス、キーボードなど周辺機器についても特価販売を実施している。</p><p>　対象製品など詳細については、特設ページを参照されたい。</p></div></div>]]></description>
+			<pubDate>Tue, 04 Aug 2020 12:33:48 +0900</pubDate>
+		</item>
+		<item>
+			<title>【やじうまPC Watch】Virgin Galactic、ロールスロイスエンジンの超音速商業旅客機</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1269169.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1269/169/1_o.jpg"></div></div></div></div></div></div><p>　民間の宇宙旅行ビジネスを目指す米Virgin Galacticは3日(現地時間)、傘下の製造会社The Spaceship Companyが、超音速で飛ぶ高速航空機開発の第1設計段階、およびロールスロイスと高速航空機用エンジンの開発を共同で行なう覚書の締結を発表した。</p><p>　今回の発表した高速航空機の設計仕様は、超音速を目指す「Mach 3」準拠のデルタ翼を備え、高度6万フィートで飛行。ビジネスクラスまたはファーストクラスの座席配置で、9～19人の収容能力を備える。今回の設計は、最先端で持続可能な航空燃料の使用に向けた道の開拓を支援する目的もあるとしている。</p><p>　提携するロールスロイスは、かつて超音速旅客機「コンコルド」のエンジン「オリンパス」を手掛けた実績がある(原型はブリストル航空エンジン)。そのコンコルドは2003年に退役をしているため、それ以来商業飛行を行なっている超音速旅客機はない。仮に今回のコンセプトが超音速を実現すれば、商業用超音速旅客機が復活することとなる。</p><p>　第1設計段階の仕様策定により、特定のシステムアーキテクチャと構成の定義、および航空機の設計と製造に使用する材料を決定する次の設計フェーズに進む。チームは今後、熱管理、メンテナンス、騒音、排気、経済性に対処していく。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1269/169/2_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1269/169/3_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Tue, 04 Aug 2020 12:40:38 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
