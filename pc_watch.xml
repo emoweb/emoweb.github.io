@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Microsoftが一部地域のTikTok買収を検討。9月15日までに決定 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1268937.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1268/937/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">米Microsoft</a>は2日(現地時間)、中国の動画配信サービス「TikTok」の一部地域におけるサービスの買収を検討開始した。これは同社サティア・ナデラCEOとドナルド・J・トランプ大統領の会話のなかで明らかにしたもの。</p><p>　米国やインドでは、プライバシー保護およびセキュリティの観点などから、中国製アプリの使用を制限する、もしくはしようとする動きがある。MicrosoftはTikTokの買収により、米国国内におけるTikTokの利用制限を回避しようとしている。</p><p>　Microsoftは数週間以内に、TikTokの親会社であるByteDanceと協議を進め、9月15日までに協議を完了させる。この協議のなかで、Microsoftは米国、カナダ、オーストラリア、ニュージランド地域におけるTikTokサービスの所有および運営を行なう提案をするという。</p><p>　これらの地域では、現在TikTokの体験はそのままに、強固なセキュリティ、プライバシー、デジタル安全性の保護機能を追加。ユーザーへの透明性を確保するとともに、国の政府による適切なセキュリティ監視が行なわれるように構築するとしている。</p><p>　また、米国国内におけるTikTokユーザーは、すべてのプライベートデータが米国内に転送/保持されるように保証する。現在、米国外にこれらのデータが保存またはバックアップをされている場合、転送後に米国外のサーバーから削除されることを保証するとしている。</p><p>　なお、この買収はあくまでも準備的な段階であるとしており、協議の最終結果が出るまではこれ以上のアップデートを行なわないとしている。</p></div></div>]]></description>
-			<pubDate>Mon, 03 Aug 2020 13:24:29 +0900</pubDate>
-		</item>
-		<item>
 			<title>「PowerToys」にカラーピッカー実装 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1268945.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1268/945/1_o.jpg"></div></div><span class="caption">Windows+Shift+Cで起動できるカラーピッカー</span></div></div></div></div><p>　Microsoftが無償で配布しているWindows用ユーティリティ「PowerToys」の最新版v0.20.0において、新たにカラーピッカー機能が実装された。</p><p>　この機能はWindows+Shift+Cのショートカットで起動でき、マウスカーソルの右下にHTMLカラーコード、およびRGBカラーコードが小さく表示される。画面のあらゆる場所でその色が何なのかを知りたい場合に便利だろう。</p><p>　この機能はマウスクリックやESCキーで終了できる。なお、現時点ではスタートメニュー上の色は拾えるものの、スタートメニューが前面に表示されるため、カラーコードは隠れてしまうようだ。</p><p>　このほかv0.20.0では、File ExplorerでSVGアイコンのレンダリングが行なえる機能、Keyboard managerでアプリごとにショートカットを割り当てられる機能とショートカットとキーを相互リマップできる機能、PowerRenameの強化などが図られている。</p></div></div>]]></description>
@@ -111,6 +105,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1269220.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1269/220/01.jpg"></div></div><span class="caption">新型コロナウイルス接触確認アプリ(COCOA)</span></div></div></div></div><p>　<a href="https://www.mhlw.go.jp/" class="n" target="_blank">厚生労働省</a>は、「新型コロナウイルス接触確認アプリ(COCOA)」の展開状況について報告している。8月3日時点で、AndroidおよびiOS端末におけるダウンロード数は合計で約1,099万件、陽性登録件数は107件だとしている。</p><p>　Googleでは4日、Exposure Notification API(濃厚接触の可能性を通知するAPI)に実施したアップデートについて公開。濃厚接触検出時にAPIからの情報に基づいて当局がリスクレベルをより柔軟に判断できるようになったほか、検出精度の向上や開発者支援、国家間の相互運用サポート機能などが追加された。Android設定画面の上部に「濃厚接触の可能性の通知」の項目を用意したり、同通知機能が有効になっていることを知らせるリマインダーを毎週表示するなど、利用者向けの改善も施されている。</p><p>　Exposure Notification System(ENS:濃厚接触の可能性を通知するシステム)およびこれを利用するアプリでは、Bluetoothスキャンを使って接触を検出するが、Android(2015年以降)ではプライバシー保護のため、位置情報設定がオフの場合はBluetoothスキャンが行なえない仕様となっている。接触確認アプリについてもこの対象となるため、使用時に位置情報設定をオンにする必要があった。</p><p>　次期バージョンにあたるAndroid 11ではENSがOSに内包するかたちでリリースされる予定で、位置情報設定をオンにせずともENSを利用するアプリが使えるようになる見込み。なお、それ以外のアプリやサービスについては、従来どおり位置情報設定に応じて動作が制限される。</p></div></div>]]></description>
 			<pubDate>Tue, 04 Aug 2020 13:43:14 +0900</pubDate>
+		</item>
+		<item>
+			<title>【やじうまPC Watch】7月18日に発見の「習志野隕石」の2つ目を隣接する千葉・船橋で発見</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1269238.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1269/238/01.jpg"></div></div><span class="caption">船橋で今回発見された隕石</span></div></div></div></div><p>　<a href="https://www.kahaku.go.jp/" class="n" target="_blank">独立行政法人国立科学博物館</a>は3日、7月18日に千葉県習志野市で発見された隕石(<a href="https://pc.watch.impress.co.jp/docs/news/yajiuma/1265148.html">参照:2日未明の「大火球」の一部、千葉・習志野に落下し「習志野隕石」として登録申請へ</a>)の2つ目が千葉県船橋市で見つかったと発表した。</p><p>　発見されたのは先日発表された「習志野隕石」の発見地から約1km離れた場所で、7月22日に発見。アパートの屋根上に落下したとみられ、隕石の衝突のさいに割れたとみられる屋根瓦の破片とともに隕石とみられる破片が落ちていたという。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1269/238/02.jpg"></div></div><span class="caption">隕石が衝突したアパートの屋根</span></div></div></div></div><p>　破片は、ガンマ線測定の結果、宇宙線生成核種を検出し、隕石であることを確認した。詳細は現在も測定中というが、隕石の証拠となる宇宙線生成核種のアルミニウム-26(半減期約70万年)、ナトリウム-22(半減期約2.6年)、最近の落下と裏づけられるマンガン-54（半減期約312日）が検出されている。</p><p>　今回の隕石は95gと73gの大きな破片2つと、5g以下の小さい破片の計8個が見つかっており、合計183g。いずれも落下から20日ほど外で放置されていたために表面が錆びている。ちなみに前回習志野市で発見された隕石は70gと63gの破片2つ、総重量は156gだったので、今回のものはやや大型となる。</p><p>　名称については、最初に発見された場所が習志野市であったことや、地域名としても知られていることから、今回のものも「習志野隕石」として国際隕石学会に登録申請する予定。今後、分類の確定を進めるとする。</p></div></div>]]></description>
+			<pubDate>Tue, 04 Aug 2020 14:55:25 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
