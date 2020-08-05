@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>【Kaspersky TECH-CHAT】ケヴィン・トラップと話すテクノロジーのこと</title>
-			<link>https://blog.kaspersky.co.jp/kaspersky-tech-chat-with-eintracht-kevin-trapp/28836/</link>
-			<description><![CDATA[アイントラハト・フランクフルトの選手に、テクノロジーのことを聞いてみるシリーズがスタートします。]]></description>
-			<pubDate>Mon, 20 Jul 2020 01:00:46 +0000</pubDate>
-		</item>
-		<item>
 			<title>中古ドメイン販売案内を悪用するマルバタイジング</title>
 			<link>https://blog.kaspersky.co.jp/recursive-malvertising/28842/</link>
 			<description><![CDATA[売り出し中の中古ドメインにアクセスした場合、ドメイン販売情報を示すオークションサイトのページが表示されますが、ここで悪意あるWebサイトへリダイレクトするという手口が発見されています。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/speedrunning-with-kaspersky/28922/</link>
 			<description><![CDATA[スピードランの世界新記録。達成したのは、カスペルスキー インターネット セキュリティがバックグラウンドで稼働するコンピューターを使ったプレイヤーでした。]]></description>
 			<pubDate>Tue, 04 Aug 2020 01:00:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>標的型ランサムウェア「WastedLocker」</title>
+			<link>https://blog.kaspersky.co.jp/wastedlocker-garmin-incident/28927/</link>
+			<description><![CDATA[当社エキスパートは、Garminの攻撃に使われたと疑われるランサムウェアを詳しく解析しました。]]></description>
+			<pubDate>Wed, 05 Aug 2020 01:00:12 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
