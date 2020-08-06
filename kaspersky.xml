@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>中古ドメイン販売案内を悪用するマルバタイジング</title>
-			<link>https://blog.kaspersky.co.jp/recursive-malvertising/28842/</link>
-			<description><![CDATA[売り出し中の中古ドメインにアクセスした場合、ドメイン販売情報を示すオークションサイトのページが表示されますが、ここで悪意あるWebサイトへリダイレクトするという手口が発見されています。]]></description>
-			<pubDate>Wed, 22 Jul 2020 01:00:42 +0000</pubDate>
-		</item>
-		<item>
 			<title>カスペルスキー セキュアコネクション（VPNアプリ）、新バージョン</title>
 			<link>https://blog.kaspersky.co.jp/secure-connection-update-2020/28866/</link>
 			<description><![CDATA[カスペルスキーのVPN製品に、保護を途切れさせないフェイルセーフ機能が追加されました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/wastedlocker-garmin-incident/28927/</link>
 			<description><![CDATA[当社エキスパートは、Garminの攻撃に使われたと疑われるランサムウェアを詳しく解析しました。]]></description>
 			<pubDate>Wed, 05 Aug 2020 01:00:12 +0000</pubDate>
+		</item>
+		<item>
+			<title>Androidで定期的にチェックすべき5つのこと</title>
+			<link>https://blog.kaspersky.co.jp/five-regular-checks-for-android/28894/</link>
+			<description><![CDATA[Androidスマートフォンと個人情報を安全に保つために、定期的にチェックすべきこと。]]></description>
+			<pubDate>Thu, 06 Aug 2020 01:00:44 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
