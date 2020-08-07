@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>OWC、外付けSSDケースにSSDを搭載し出荷するBTOサービスを開始 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1269548.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1269/548/01.jpg"></div></div></div></div></div></div><p>　<a href="https://owcdigital.jp/WP/" class="n" target="_blank">OWC</a>は、同社の販売する外付けSSDケースに、OWC製のSSDを組み込んで出荷するBTOサービスを7日より開始する。</p><p>　外付けケースと搭載するSSDの個数や容量などをカスタマイズでき、到着後にすぐ利用できる。構成例として、Thunderbolt 3とDisplayPort 1.2を備えた外付けSSDケース「THUNDERBAY 8」(参照:<a href="https://pc.watch.impress.co.jp/docs/news/news_flash/1248884.html">OWC、SSD/HDDが8基搭載可能なThunderbolt 3接続の外付けケース</a>)に、OWC製SSD「Mercury Electra 6G」の250GBモデルを8台組み込んだ場合、本体代が税別111,430円、ストレージが税別61,600円(1台あたり7,700円)となり、10万円以上の購入で3%値引きされる施策を含めると、税別167,839円となる。</p><p>　その他の組み合わせや価格は<a href="http://owcdigital.jp/WP/bto/" class="n" target="_blank">BTOサイト</a>を参照されたい。</p></div></div>]]></description>
-			<pubDate>Thu, 06 Aug 2020 15:30:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>ASUS、初のHDMI 2.1認証取得の43型4K/120Hzディスプレイ </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1269846.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1269/846/1_o.jpg"></div></div></div></div></div></div><p>　ASUSは、業界初となるHDMI 2.1認証取得の43型4K/120Hz対応ゲーミングディスプレイを予告した。型番は未定。</p><p>　HDMI 2.1では、従来のTMDS(Transmission Minimized Differential Signaling)に代わるFRL(Fixed Rate Link)を採用し、4チャンネルすべてがデータ送信用となっている。1チャンネルあたり12Gbps、4チャンネル合計で48Gbpsのバンド幅により、3,840×2,160ドット(4K)でも120Hz駆動が可能。</p><p>　テストを行なったAllion Labsによれば、新製品はFRLピクセルデコーディングやプロトコルテストにおいて、完全にHDMI 2.1に準拠することが確認できたとしている。</p><p>　なおASUSはこれまで4K/144Hz駆動の「ROG Swift PG43UQ」を投入しているが、こちらの入力はHDMI 2.0×2およびDisplayPort 1.4×2で、高リフレッシュレートの実現にはDisplay Stream Compression(DSC)を用いる必要があった。</p></div></div>]]></description>
@@ -99,6 +93,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1270099.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/099/01.jpg"></div></div><span class="caption">改良されたDNS設定画面</span></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は5日(現地時間)、Windows 10 Insider Preview「Build 20185」をDev Channel向けに公開した。</p><p>　Build 20185では、DNS設定に関する変更を実施。DNS設定自体にアクセスしやすくなったほか、セキュリティやプライバシーの向上が図れるDNS over HTTPS(DoH)の設定も行ないやすくなっている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/099/02.gif"></div></div><span class="caption">スマートフォンアプリが呼び出せる機能</span></div></div></div></div><p>　またDevおよびBeta Channel向けに、Androidスマートフォン内のアプリがPC上で呼び出せる機能の実装を順次開始。スマホ同期アプリ(Your Phones app)とスマートフォンをリンクすると、PC上でアプリが起動できる。PC画面上でスマートフォンアプリの操作も行なえるほか、タスクバーなどにピン留めすることも可能。7日時点ではSamsung Galaxyシリーズの一部機種がサポートされている。</p><p>　Build 20175より、56のADMXファイルにわたる647の新たなMDM(Mobile Device Management)ポリシーが利用可能となっているほか、ネットワークに接続できているにも関わらずタスクバーのアイコンが未接続と表示されてしまう問題なども修正されている。</p></div></div>]]></description>
 			<pubDate>Fri, 07 Aug 2020 13:47:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>ASUS、狭額縁設計の21.5型フルHD液晶内蔵一体型PC </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1270118.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/118/01.jpg"></div></div><span class="caption">Vivo AiO V222FAK</span></div></div></div></div><p>　<a href="https://www.asus.com/jp/" class="n" target="_blank">ASUS JAPAN株式会社</a>は、21.5型一体型PC「Vivo AiO V222FAK」を発売した。価格は109,800円。</p><p>　Vivo AiO V222FAKは、CPUにCore i7-10510Uを搭載した狭額縁デザインが特徴の一体型PC。21.5型フルHD(1,920×1,080ドット)非光沢液晶を搭載し、画面占有率は83%となっている。</p><p>　そのほかおもな仕様は、16GBメモリ、512GB PCIe SSD、Windows 10 Homeなどを装備。</p><p>　インターフェイスは、USB 3.0×4、USB 2.0、Gigabit Ethernet、IEEE 802.11ac対応無線LAN、Bluetooth 5.0、HDMI、92万画素Webカメラ、音声入出力などを備える。</p><p>　本体サイズは489×51～164×387mm(幅×奥行き×高さ)、重量は約4.8kg。</p></div></div>]]></description>
+			<pubDate>Fri, 07 Aug 2020 14:22:43 +0900</pubDate>
+		</item>
+		<item>
+			<title>【やじうまPC Watch】「Diablo II」のゲームプレイ動画をAIで4Kに拡大するとどうなる?</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1270071.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/071/1.png"></div></div></div></div></div></div><p>　AIを使ってさまざまなレトロゲームのビデオを4KにアップスケールしてYouTubeに投稿している“Michael ReznoR”氏は4日、かのアクションRPG「Diablo II」のプレイ動画をAIで4K/60fpsにアップスケールしたものを投稿した。</p><p>　筆者が説明するより実際の動画を観ていただいたほうが早いが、キャラクタや敵、草木や岩などが圧倒的なディテールでヌルヌル動いており、20年前のゲームとは思えないクオリティとなっている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/071/2.png"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/071/3.png"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/071/4.png"></div></div></div></div></div></div><p>　この動画は、AIがリアルタイムでゲームをアップスケールしたものではなく、ゲームプレイを録画してその動画をアップスケールしたものだが、オリジナルのDiablo IIは最大でも800×600ドット(アスペクト比4:3)の解像度までしかサポートしていないため、Modを用いる必要がある。</p><p>　そもそもDiablo II本体が古いバージョンの「1.13c」でないとこれらのModが正常動作しないのだが、それを用いたうえで、Glide3-to-OpenGL-Wrapper(Voodoo専用描画APIをOpenGLに変換)を挟んで、PlugY 11.02、BH 1.9.9、Slash Diablo、D2MultiRes for 1.13cといったModを入れ、1,068×600ドット(16:9)でのプレイを実現させている。</p><p>　一方でDiablo IIはCreativeのEAXで3Dサラウンドを実現しているが、それもこのビデオでは有効にされており、Head Related Transfer Function(HRTF)による立体感のある効果音が実現されている。動画の鑑賞にはヘッドフォンを推奨している。</p><p>　同氏はこの動画の制作に合計11時間要したと言い、少なくても21種類のツール(プログラム、スクリプト、プラグイン、Mods)を利用し、53,121ファイルを生成、400GBほどディスクを消費した。</p><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/DGXgElbqjmU?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Fri, 07 Aug 2020 14:35:27 +0900</pubDate>
+		</item>
+		<item>
+			<title>MediaTek、Intel PC用の5Gモデム「T700」 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1270126.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/126/1.jpg"></div></div></div></div></div></div><p>　<a href="https://www.mediatek.com/" class="n" target="_blank">MediaTek</a>は6日(台湾時間)、Intelと共同で開発した5Gモデム「T700」を発表した。</p><p>　Intel製PCの上で利用可能な5Gモデムで、スタンドアロンで5G通話が可能。現在、IntelはOEMとともにシステムへの統合、プラットフォームの最適化などを図っている段階。</p><p>　機能面では、非スタンドアロンおよびスタンドアロンのサブ6GHz帯5Gネットワークアーキテクチャをサポート。高い電力効率で、ラップトップの長時間バッテリ駆動を実現するとしている。</p><p>　MediaTekの5Gモデムを初搭載するPCは2021年の早い段階に登場する見込み。</p></div></div>]]></description>
+			<pubDate>Fri, 07 Aug 2020 14:55:48 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
