@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Apple、macOS Big Surのパブリックベータ版を公開 ～iOS 14/iPad OS 14のパブリックベータ4も提供開始</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1270166.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/166/01.jpg"></div></div><span class="caption">macOS Big Sur</span></div></div></div></div><p>　<a href="https://www.apple.com/" class="n" target="_blank">Apple</a>は、次期バージョンにあたる「macOS Big Sur」について、バプリックベータ版の提供を開始した。<a href="https://beta.apple.com/sp/betaprogram/welcome" class="n" target="_blank">Apple Beta Software Program</a>のページよりベータプログラムに参加登録ができる。</p><p>　macOS Big Surは、同社が投入を予定しているArmベースの独自CPU「Apple Silicon」搭載Macを想定し、開発が進められている次期バージョンのOS。iOS 14やiPadOS 14と統一感を持たせたデザインを各所に使用し、UI面で大規模な変更を施したのも特徴。正式版のリリースは2020年秋を予定している。</p><p>　あわせて、iOS 14およびiPad OS 14のパブリックベータ4も公開が開始されている。なお、パブリックベータ版は開発中のバージョンとなり不具合が含まれる場合があるため、同社では導入前にTime Machineなどで必ずバックアップを作成するよう求めている。</p></div></div>]]></description>
-			<pubDate>Fri, 07 Aug 2020 16:37:01 +0900</pubDate>
-		</item>
-		<item>
-			<title>【やじうまPC Watch】Excelのありがた迷惑な機能で人間の遺伝子名が変更される</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1270172.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/172/1_o.jpg"></div></div></div></div></div></div><p>　海外メディアThe Vergeの報道によれば、Excelの“ありがた迷惑”な自動補正機能によって、人間の遺伝子名が変更されるに至ったという。</p><p>　ヒトゲノム命名法委員会(HGNC)によれば、人間の遺伝子名をExcelに入力すると、その一部が日付に勝手に変換されてしまい、論文のなかでミスを引き起こす原因となっていた。たとえば「MARCH1」を入力すると勝手に「1-Mar」、「SEPT1」を入力すると勝手に「1-Sep」になる、といったように、日付のフォーマットになってしまう。</p><p>　これらの“自動変換”は、そのセルに入力した時点で「書式」が「日付」であるとExcelに認識され、それに則って表示されるだけなので、オートコンプリートやオートコレクトをオフにしただけでは切ることができない。加えて、入力したあとに書式を「文字列」に設定しても数字となるので厄介だ。回避するには、あらかじめそのセルの書式を文字列として指定しておくしかない。</p><p>　ただ、今回HGNCはそうしたExcelの使い方をレクチャーするのではなく、遺伝子の名前を変更することで対応を行なうようだ。先述の「MARCH1」は「MARCHF1」、「SEPT1」は「SEPTIN1」といったように変更することで、自動変換されてしまうのを回避する。</p><p>　HGNCのコーディネータであるElspeth Bruford氏は、遺伝子の名前が変更になるのは珍しくないとし、遺伝子の名前の影響で「Excelの大規模なユーザーコミュニティで非常に広く使われている機能に変更を加えるほどではない」とThe Verge誌にコメントしている。</p><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/SppKiKIdCkI?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div><span class="caption">2019年にHGNCが公開した、Excelによる遺伝子入力時の注意喚起の動画</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Fri, 07 Aug 2020 16:43:19 +0900</pubDate>
-		</item>
-		<item>
 			<title>7型ゲーミングUMPC「OneGx1」が8月22日より国内発売。LTE対応モデルも用意 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1270198.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/198/01.jpg"></div></div><span class="caption">OneGx1</span></div></div></div></div><p>　<a href="https://www.one-netbook.jp/" class="n" target="_blank">株式会社テックワン</a>は、One-Netbook製の7型ゲーミングUMPC「OneGx1」を8月22日より国内向けに発売する。これにともない、ゲームコントローラなどがもらえる予約キャンペーンは8月9日をもって終了となる。</p><p>　メモリ/ストレージ(SSD)/LTEの有無が異なる4モデルが展開され、税別価格は8GB/256GB/LTEなしモデルが89,800円、8GB/256GB/LTEありモデルが99,800円、16GB/512GB/LTEなしモデルが108,800円、16GB/512GB/LTEありモデルが116,900円。</p><p>　OneGx1は、Core i5-10210Yとタッチ対応の7型1,920×1,200ドットIPS液晶を搭載したUMPC。本体両側面に装着可能な無線接続の専用ゲームコントローラ(9月上旬発売予定)がオプションで用意され、ゲームプレイを想定した設計となっている。</p><p>　最大11時間駆動を実現する大容量バッテリや、国内向けモデルにはRGB LEDバックライトつきの日本語配列キーボードを装備。LTEモデム内蔵モデルも用意され、別途SIMカードを用意すれば外出先でもインターネット接続が行なえる。</p><p>　インターフェイスは、USB 3.1 Type-C(PD 2.0対応)、USB 3.0×2(うち1基Type-C)、Wi-Fi 6、Bluetooth 5.1、Micro HDMI、SIM+microSDカードスロット、音声入出力などを備える。LTEモデムの対応バンドは、LTEがBand 1/3/8/18/19/26/28/41、W-CDMAがBand 1/3/6/8/19となる。</p><p>　本体サイズは173×136×21mm(幅×奥行き×高さ)、重量は625g。なお、LTEモデム内蔵モデルの場合は重量が645gとなる。</p></div></div>]]></description>
@@ -111,6 +99,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1270442.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/442/01.png"></div></div></div></div></div></div><p>　Mojangは10日(現地時間)、教育向けの「<a href="https://education.minecraft.net/" class="n" target="_blank">Minecraft: Education Edition</a>」がChromebookでも利用可能になったことを発表した。</p><p>　Minecraft: Education Editionは2016年に登場し、国内でも同年に日本マイクロソフトが教育向けの施策の1つとして提案している(<a href="https://pc.watch.impress.co.jp/docs/news/1026608.html">「Minecraft: Education Edition」が11月より提供開始</a>参照)。</p><p>　これまで提供してきたWindows、Mac、iPad版に加え、教育機関での採用が増加しているChromebookでも使えるようになった。各プラットフォームでの機能的な違いはなく、Windows PCやiPadとのクロスプラットフォームでのコラボレーションも可能。また、これにともないバージョンアップもなされ、新しい11のSTEMレッスンなどが導入された。</p><p>　Minecraft: Education Editionはすでに115カ国で提供中。生徒はゲームをしながらプログラミングの知識を学ぶことができ、教師らによるクラスルームの管理などが搭載されている。</p></div></div>]]></description>
 			<pubDate>Tue, 11 Aug 2020 12:59:38 +0900</pubDate>
+		</item>
+		<item>
+			<title>QualcommのSnapdragonに400個超の脆弱性 ～悪用されればスマホのプライバシーが皆無に</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1270447.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/447/1.jpg"></div></div></div></div></div></div><p>　セキュリティ企業Check Pointによると、同社の調査でQualcommのモバイル向けSoCプラットフォームSnapdragonに、400を超える脆弱性が見つかったとし、注意喚起を促した。同社はこれらの脆弱性をまとめて「Achilles(アキレス)」と呼んでいる。</p><p>　同社はこれらの脆弱性が悪用されることを防ぐために、各モバイルベンダーが対応するまで技術の完全の詳細について控えるとしているが、問題に対する認識を高めるためにブログを公開することにした。これらの脆弱性に対する共通脆弱性識別子(CVE)はCVE-2020-11201、CVE-2020-11202、CVE-2020-11206、CVE-2020-11207、CVE-2020-11208、CVE-2020-11209の6つ。</p><p>　これらの脆弱性は、Snapdragonに内包されるQuick Chargeやビデオ/キャプチャ/AR、オーディオなどを担当するDSPに起因する。DSPは設計や機能、コードなどが公開されていないためブラックボックスと化しており、ほかの部分と比較してセキュリティリスクに対してはるかに脆弱であるという。</p><p>　脆弱性が突かれた場合、ユーザーが操作を加えることなくとも、攻撃者は写真、ビデオ、通話記録、リアルタイムのマイクデータ、GPSや位置データを取得可能。また、保存されているデータすべてを永久的に利用不可能にしたり、マルウェアや悪意のあるコードを完全に隠して削除できないようにすることも可能。</p><p>　市場にある約40%の携帯電話やQualcommのチップを使っているため、この脆弱性の影響は甚大だ。脆弱性の防御方法などについては、8月13日(米国時間)に開かれるウェビナーで明らかにされる。</p></div></div>]]></description>
+			<pubDate>Tue, 11 Aug 2020 13:15:50 +0900</pubDate>
+		</item>
+		<item>
+			<title>Twitter、ツイートの自動翻訳機能を試験開始 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1270448.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/448/02.gif"></div></div></div></div></div></div><p>　<a href="https://twitter.com/" class="n" target="_blank">Twitter</a>は10日(現地時間)、ブラジル地域の一部ユーザーを対象として、ツイートの自動翻訳機能を試験的に提供開始したと発表した。同地域で利用されているiOSおよびAndroid版のTwitterアプリ向けに実装される。</p><p>　機能を実装されたユーザーの画面上では、他言語で書かれたツイートが自動的にポルトガル語に翻訳される。元言語と翻訳後のツイートに関しては、タップでの表示切り替えか、現行の翻訳機能のように同一ツイート内に表示するかのどちらかで提供する。また自動翻訳されたツイートには、「Googleによる英語からの翻訳」といった注意書きがあわせて表示される。</p><p>　今回の試験結果を考慮した上で、ブラジル以外の地域への拡大も見込んでいるとしている。</p></div></div>]]></description>
+			<pubDate>Tue, 11 Aug 2020 13:24:23 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
