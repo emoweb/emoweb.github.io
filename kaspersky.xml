@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>MATA：マルチプラットフォームなマルウェアフレームワーク</title>
-			<link>https://blog.kaspersky.co.jp/mata-framework/28875/</link>
-			<description><![CDATA[当社エキスパートは、さまざまなOSに対する攻撃に使用されるマルウェアフレームワークを検知しました。]]></description>
-			<pubDate>Tue, 28 Jul 2020 03:55:48 +0000</pubDate>
-		</item>
-		<item>
 			<title>量子コンピューターと暗号化：超入門編</title>
 			<link>https://blog.kaspersky.co.jp/quantum-computing-vs-data-encryption/28818/</link>
 			<description><![CDATA[暗号化がデータを守る仕組みとは？量子コンピューターがその仕組みを揺るがしかねない理由とは？]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/sharing-accounts-safely/28955/</link>
 			<description><![CDATA[多くのサービスでは、家族とサブスクリプションを共有できます。人気のサブスクリプションでの共有の仕組みについて。]]></description>
 			<pubDate>Tue, 11 Aug 2020 01:00:22 +0000</pubDate>
+		</item>
+		<item>
+			<title>Androidゲームに付与してはいけない5つの権限</title>
+			<link>https://blog.kaspersky.co.jp/five-permissions-android-games-do-not-need/28935/</link>
+			<description><![CDATA[余計な権限を欲しがるゲームにはNoと言いましょう。ゲームでは絶対に必要にならないはずの5種類の権限とは。]]></description>
+			<pubDate>Wed, 12 Aug 2020 01:00:50 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
