@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>QualcommのSnapdragonに400個超の脆弱性 ～悪用されればスマホのプライバシーが皆無に</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1270447.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/447/1.jpg"></div></div></div></div></div></div><p>　セキュリティ企業Check Pointによると、同社の調査でQualcommのモバイル向けSoCプラットフォームSnapdragonに、400を超える脆弱性が見つかったとし、注意喚起を促した。同社はこれらの脆弱性をまとめて「Achilles(アキレス)」と呼んでいる。</p><p>　同社はこれらの脆弱性が悪用されることを防ぐために、各モバイルベンダーが対応するまで技術の完全の詳細について控えるとしているが、問題に対する認識を高めるためにブログを公開することにした。これらの脆弱性に対する共通脆弱性識別子(CVE)はCVE-2020-11201、CVE-2020-11202、CVE-2020-11206、CVE-2020-11207、CVE-2020-11208、CVE-2020-11209の6つ。</p><p>　これらの脆弱性は、Snapdragonに内包されるQuick Chargeやビデオ/キャプチャ/AR、オーディオなどを担当するDSPに起因する。DSPは設計や機能、コードなどが公開されていないためブラックボックスと化しており、ほかの部分と比較してセキュリティリスクに対してはるかに脆弱であるという。</p><p>　脆弱性が突かれた場合、ユーザーが操作を加えることなくとも、攻撃者は写真、ビデオ、通話記録、リアルタイムのマイクデータ、GPSや位置データを取得可能。また、保存されているデータすべてを永久的に利用不可能にしたり、マルウェアや悪意のあるコードを完全に隠して削除できないようにすることも可能。</p><p>　市場にある約40%の携帯電話やQualcommのチップを使っているため、この脆弱性の影響は甚大だ。脆弱性の防御方法などについては、8月13日(米国時間)に開かれるウェビナーで明らかにされる。</p></div></div>]]></description>
-			<pubDate>Tue, 11 Aug 2020 13:15:50 +0900</pubDate>
-		</item>
-		<item>
-			<title>Twitter、ツイートの自動翻訳機能を試験開始 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1270448.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/448/02.gif"></div></div></div></div></div></div><p>　<a href="https://twitter.com/" class="n" target="_blank">Twitter</a>は10日(現地時間)、ブラジル地域の一部ユーザーを対象として、ツイートの自動翻訳機能を試験的に提供開始したと発表した。同地域で利用されているiOSおよびAndroid版のTwitterアプリ向けに実装される。</p><p>　機能を実装されたユーザーの画面上では、他言語で書かれたツイートが自動的にポルトガル語に翻訳される。元言語と翻訳後のツイートに関しては、タップでの表示切り替えか、現行の翻訳機能のように同一ツイート内に表示するかのどちらかで提供する。また自動翻訳されたツイートには、「Googleによる英語からの翻訳」といった注意書きがあわせて表示される。</p><p>　今回の試験結果を考慮した上で、ブラジル以外の地域への拡大も見込んでいるとしている。</p></div></div>]]></description>
-			<pubDate>Tue, 11 Aug 2020 13:24:23 +0900</pubDate>
-		</item>
-		<item>
 			<title>【やじうまPC Watch】アップル、「ナシ」のアプリロゴを「リンゴ」のロゴの商標侵害として訴訟～提訴されたアプリ開発者はChange.orgで取り下げの署名を募る</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1270474.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/474/01.jpg"></div></div><span class="caption">左が提訴されたPrepareのロゴ。右はApple</span></div></div></div></div><p>　料理アプリの<a href="https://www.prepear.com/" class="n" target="_blank">Prepare</a>は、同社のアプリで使用している「ナシ」のロゴについて、「リンゴ」のロゴを使用している<a href="https://www.apple.com/" class="n" target="_blank">Apple</a>から、商標の侵害で提訴されていると明らかにし、Apple側に訴訟を取り下げるように「Change.org」上で署名を募っている。</p><p>　Prepareはレシピや買い物リストなどを統合したクッキングアプリで、「Prepare」(準備)にちなみ「Pear」(果実のナシ)のロゴを使用しているものと思われる。しかし、Apple側に同社のロゴがAppleのロゴに類似しているとして訴訟を起こされているという。</p><p>　Change.orgのPrepare社によるキャンペーンページによると、Appleは同社と同じ事業分野でなくとも、費用のかかる訴訟を起こすといい、2012年にはポーランドの食料品販売サイト、2019年にはドイツの観光協会のロゴを同じく提訴していた経緯がある。今回、同社は中小企業へのAppleによる積極的な訴訟に対抗し、ロゴを守る権利や「大手ハイテク企業に中小企業をいじめることには結果が伴う」というメッセージのために争う姿勢。</p><p>　しかし、Prepareは従業員5名の小規模な会社で、すでに数千ドルをこの訴訟のために費やしており、Appleとの訴訟のための費用をねん出するために従業員を1名解雇することにしたという。</p><p>　11日15時現在、Change.orgのキャンペーンページ(<a href="https://www.change.org/p/apple-save-the-pear-from-apple-end-apple-s-aggressive-opposition-of-small-businesses-with-fruit-logos" class="n" target="_blank">参照</a>)上では、38,200人あまりが署名している。</p></div></div>]]></description>
@@ -117,6 +105,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1270584.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/584/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.intel.com/" class="n" target="_blank">Intel</a>は11日(現地時間)、同社製NUC向けのファームウェアなどセキュリティアップデートを複数公開した。</p><p>　同社製の一部NUCにおいて特権昇格の恐れがある脆弱性(CVE-2020-8742)や、一部グラフィックスドライバで特権昇格/サービス拒否攻撃が可能な脆弱性(CVE-2020-0510ほか)、Intel Wireless Bluetooth製品の一部で特権昇格/サービス拒否/情報漏洩の恐れがある脆弱性(CVE-2020-0554ほか)など、複数の製品に対する脆弱性情報が公開されている。</p><p>　対処法など詳細については、それぞれの脆弱性情報のページを参照されたい。</p></div></div>]]></description>
 			<pubDate>Wed, 12 Aug 2020 13:54:40 +0900</pubDate>
+		</item>
+		<item>
+			<title>MI7、トラック数や時間制限がないフリーDAWソフト「Studio One 5 Prime」 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1270574.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/574/1.png"></div></div><span class="caption">Studio One 5 Prime日本語版</span></div></div></div></div><p>　<a href="https://www.mi7.co.jp/" class="n" target="_blank">株式会社エムアイセブンジャパン</a>は、DAWソフト「Studio One」を約2年ぶりにメジャーバージョンアップした「Studio One 5 Prime日本語版」を提供開始した。価格は0円。対応OSはmacOS 13.13以降またはWindows 10。</p><p>　テクニカルサポートは提供されないが、トラック数や時間制限がない本格的なDAWソフト。オーディオ/MIDI編集、バーチャル・インストルメント、ループ素材、エフェクト、ミキシングなどを無償で提供し、ベーシックな音楽制作が可能。</p><p>　バージョン5の特徴であるクリップ・ゲイン・エンベロープ、サイドバイサイド・エディター、アーティキュレーションとキー・スイッチ編集、MTC/MMC同期機能も備える。</p><p>　エムアイセブンジャパンのMYページにユーザー登録すれば、日本語リファレンス・マニュアルなどを入手可能なほか、クリエイターやミュージシャンが制作したマルチトラック・データ全7曲も日本限定で提供中。</p></div></div>]]></description>
+			<pubDate>Wed, 12 Aug 2020 14:18:39 +0900</pubDate>
+		</item>
+		<item>
+			<title>JAPANNEXT、165Hz駆動対応の31.5型フルHDゲーミング液晶 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1270594.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/594/01.jpg"></div></div><span class="caption">JN-315VG165FHDR</span></div></div></div></div><p>　<a href="http://japannext.net/" class="n" target="_blank">株式会社JAPANNEXT</a>は、31.5型フルHDゲーミング液晶ディスプレイ「JN-315VG165FHDR」を13日より発売する。価格は39,970円だが、発売を記念して8月31日までは29,970円で販売される。</p><p>　JN-315VG165FHDRは、165Hzのリフレッシュレートと1msの応答速度(MPRT時)に対応したゲーミング液晶。HDR10やFreeSyncをサポートするほか、視認性を高める3つのゲームモード、フリッカーフリー、ブルーライト低減機能なども備える。</p><p>　おもな仕様は、パネルが非光沢VA、解像度が1,920×1,080ドット、表示色数が1,670万色、中間色応答速度が3ms、輝度が300cd/平方m、コントラスト比が4,000:1、視野角が上下/左右ともに178度。</p><p>　インターフェイスは、HDMI、DisplayPort、USB(給電専用)、イヤフォンジャック、2W+2Wステレオスピーカーなどを装備する。</p><p>　本体サイズは713×170×491mm(幅×奥行き×高さ)、重量は約5.2kg。-15～5度のチルトや100×100mmのVESAマウントにも対応する。</p></div></div>]]></description>
+			<pubDate>Wed, 12 Aug 2020 14:52:50 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
