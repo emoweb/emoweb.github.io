@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>macOS、ストリーミングでHDR再生時のバッテリ寿命を改善するアップデート など </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1270731.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/731/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.apple.com/" class="n" target="_blank">Apple</a>は、macOS Catalina 10.15.6補足アップデート、iOS 13.6.1、およびiPadOS 13.6.1を公開した。</p><p>　macOSの補足アップデートでは、仮想化アプリケーションの実行時に発生する可能性がある安定性の問題、2020年モデルのiMac(27型)でスリープ直後に液晶の色が薄く表示される問題、ソフトウェアの更新後にコンピュータ名が変更される可能性がある問題などを修正。そのほか、HDR対応のノートパソコンでビデオストリーミングを再生したさい、バッテリ持続時間の改善のために最適化するオプションや、米国で提供している「Apple News」ではローカルニュースを受信できるようになった(同機能は日本では未提供)。</p><p>　iOS 13.6.1/iPadOS 13.6.1では、使用可能なストレージが少ない場合に、不要なシステムデータファイルが自動的に削除されないことがある問題を修正。iOSではこれに加え、温度管理の問題から一部の液晶で緑がかって表示されていた問題、新型コロナ感染者との接触通知(参照:<a href="https://pc.watch.impress.co.jp/docs/news/1253724.html">GoogleとApple、新型コロナ感染者との濃厚接触通知アプリのAPI提供</a>)が一部のユーザーで無効になることがある問題も修正した。</p></div></div>]]></description>
-			<pubDate>Thu, 13 Aug 2020 14:54:33 +0900</pubDate>
-		</item>
-		<item>
 			<title>Windows 10の8月度累積更新公開。UWPアプリでの認証に関する問題を修正 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1270729.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/729/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は11日(現地時間)、8月度の累積アップデートを公開した。バージョン2004向けには「KB4566782」、バージョン1903/1909向けには「KB4565351」がそれぞれ提供されている。</p><p>　今回のアップデートではどちらのバージョンについても、エンタープライズ認証機能のないUWPアプリでシングルサインオンが可能となる問題(CVE-2020-1509)を修正。そのほか、基本操作時や周辺機器接続時のセキュリティ向上や、Internet Explorer/Microsoft Edge(EdgeHTML版)向けのセキュリティ改善が実施されている。</p><p>　なお、KB4566782では既知の問題として、Microsoft Excelを含む一部のアプリにおいて、日本語や中国語のMS-IMEを使用したさいにエラーが発生したりアプリケーションが応答しなくなる場合があるとしている。</p></div></div>]]></description>
@@ -111,6 +105,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1270864.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/864/1_o.jpg"></div></div></div></div></div></div><p>　セキュリティ企業の<a href="https://research.checkpoint.com/" class="n" target="_blank">Check Point Research</a>は13日、Amazonの音声アシスタントAlexaに個人情報などを取得できてしまう脆弱性が存在するとし、警告を促した。</p><p>　Check Pointによれば、特定のAmazonとAlexaのサブドメインにおいて、オリジン間のリソース共有(CORS)に設定ミスがあり、クロスサイトスクリプティング(XSS)に対して脆弱性があるという。攻撃者がXSSを使用してCSRFトークンを取得すれば、被害者に代わってアクションを実行可能となる。</p><p>　具体的には、よく知られているFrida SSLユニバーサルアンピンニングスクリプトを使い、Alexaのトラフィックを調査したところ、いくつかのリクエストにおいてCORSポリシーの設定が誤っており、Amazonのどのサブドメインに対してもAjaxリクエストを送信可能であった。攻撃者はコードインジェクションにより、1つのAmazonのサブドメインからもう1つのサブドメインまでのクロスドメイン攻撃できる。</p><p>　攻撃するためには、特別に作成したAmazonのリンクをユーザーにクリックさせる必要があるが、いったん成功すれば、スキルリストを取得したり、インストールされているスキルをユーザーが知らないあいだに削除したり、音声履歴を取得したり、被害者の住所やプロファイルとして保持しているそのほかの情報などを取得したりできる。</p><p>　Check Point Researchは攻撃の防御方法について明らかにしていないが、IoTデバイスは本質的に脆弱であり、依然として十分なセキュリティを欠いているため、サイバー攻撃の恰好なターゲットになりうるとしている。</p></div></div>]]></description>
 			<pubDate>Fri, 14 Aug 2020 14:26:28 +0900</pubDate>
+		</item>
+		<item>
+			<title>スマホで出先からペットの世話ができるロボットがIndiegogoに登場 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1270879.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/879/01.jpg"></div></div><span class="caption">Pumpkii</span></div></div></div></div><p>　スマートフォンを利用してペットの世話を遠隔で行なえるロボット「Pumpkii」が、クラウドファンディングサイトIndiegogoで出資を募りはじめた。1,154香港ドル(日本円で約15,902円)からの出資で製品が入手できる。</p><p>　Pumpkiiは、本体前面にカメラを内蔵した4輪のロボット。マイクやスピーカーを内蔵し、アプリを通じてペットの様子を見たり話しかけたりできる。前面にペット用のおもちゃを備えるほか、背面にはカスタムモジュールが装着可能。ペットのおやつをあげられるTreat Dispenserや、排泄物を処理するロボットアームが追加できる。</p></div></div>]]></description>
+			<pubDate>Fri, 14 Aug 2020 16:26:20 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
