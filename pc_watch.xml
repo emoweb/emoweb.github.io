@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>ユニットコム、Web通販サイトがキャッシュレス決済「PayPay」に対応 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1270707.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/707/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.pc-koubou.jp/" class="n" target="_blank">株式会社ユニットコム</a>は、パソコン工房Web通販サイトで、キャッシュレス決済「PayPay」の利用に対応したと発表した。</p><p>　PayPayのアプリがインストールされたスマートフォンからの購入で利用でき、支払い方法は「PayPay残高」のみに対応するため、残高へのチャージが必要となる。</p><p>　また、PayPay側で総利用金額に制限があり、24時間以内に合計500,000円まで、加えて過去30日以内に合計200万円までの上限金額が設定されている。</p><p>　パソコン工房の会員登録をすると、決済と同時にWebポイントも貯めることができるほか、総額6億円還元のキャンペーン(参照:<a href="https://pc.watch.impress.co.jp/docs/news/news_flash/1256141.html">パソコン工房、最大20%還元キャンペーンを期間限定で拡大。税別5万円以上のiiyama PCも対象に</a>)とも併用可能。</p></div></div>]]></description>
-			<pubDate>Thu, 13 Aug 2020 13:05:41 +0900</pubDate>
-		</item>
-		<item>
-			<title>AMD、前年比15%高速化のプロ向けドライバ「Radeon Pro Software for Enterprise 20.Q3」公開 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1270719.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/719/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.amd.com/" class="n" target="_blank">AMD</a>は12日(現地時間)、Radeon Proシリーズ向けのドライバ「Radeon Pro Software for Enterprise 20.Q3」を公開した。</p><p>　本バージョンでは、前年(19.Q3)のものと比べてSPECviewperf 13ベンチマークにおいて最大15%の高速化が図られた。競合製品となるNVIDIA RTX 4000と比較して、SPECviewperf 13 3dsmax-06では最大53%高い処理性能、Radeon Pro W5700使用時では最大42%の省電力化をそれぞれ実現するとしている。</p><p>　あわせて、高いピクセル精度で鮮明な表示が行なえるRadeon Pro Image Boostもサポート。Radeon Pro内で最大5K(5,120×2,160ドット)で出力したのちにディスプレイ解像度にあわせて縮小する機能で、高精度な表示により作業の効率化が図れるという。</p></div></div>]]></description>
-			<pubDate>Thu, 13 Aug 2020 13:07:04 +0900</pubDate>
-		</item>
-		<item>
 			<title>macOS、ストリーミングでHDR再生時のバッテリ寿命を改善するアップデート など </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1270731.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/731/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.apple.com/" class="n" target="_blank">Apple</a>は、macOS Catalina 10.15.6補足アップデート、iOS 13.6.1、およびiPadOS 13.6.1を公開した。</p><p>　macOSの補足アップデートでは、仮想化アプリケーションの実行時に発生する可能性がある安定性の問題、2020年モデルのiMac(27型)でスリープ直後に液晶の色が薄く表示される問題、ソフトウェアの更新後にコンピュータ名が変更される可能性がある問題などを修正。そのほか、HDR対応のノートパソコンでビデオストリーミングを再生したさい、バッテリ持続時間の改善のために最適化するオプションや、米国で提供している「Apple News」ではローカルニュースを受信できるようになった(同機能は日本では未提供)。</p><p>　iOS 13.6.1/iPadOS 13.6.1では、使用可能なストレージが少ない場合に、不要なシステムデータファイルが自動的に削除されないことがある問題を修正。iOSではこれに加え、温度管理の問題から一部の液晶で緑がかって表示されていた問題、新型コロナ感染者との接触通知(参照:<a href="https://pc.watch.impress.co.jp/docs/news/1253724.html">GoogleとApple、新型コロナ感染者との濃厚接触通知アプリのAPI提供</a>)が一部のユーザーで無効になることがある問題も修正した。</p></div></div>]]></description>
@@ -117,6 +105,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1270856.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/856/01_o.png"></div></div></div></div></div></div><p>　<a href="https://www.google.com/" class="n" target="_blank">Google</a>は12日(現地時間)、かねてより告知していたオフィススイートG Suiteのアプリ一元集約化を開始したと発表した。Web版のGmailとAndroidには提供がはじまっており、iOSについては後日展開予定となっている。</p><p>　今回のアップデートによって、Gmail上にMail、Chat、Rooms、Meetが統合。Gmailの画面から離れることなく、チームでの共有ドキュメントの編集などができるようになり、通常の作業だけでなくコラボレーションの効率も向上する。</p><p>　また、新機能として、グループタスクの割り当て、Roomsでのタスクアップデートの通知、Roomsでのピン立て、取り込み中のステータスのセット、「社外」などのChatでのステータス通知、Roomsでの共有ファイルの閲覧、Web版MailとMeetでの統合検索結果の閲覧と結果切り替え、Web版Meet下での新しい会議の開始または直近の会議の閲覧が実装されている。</p><p>　今回のアップデートは8月12日から9月にかけて、全G Suiteユーザーに段階的に適用されていく。</p></div></div>]]></description>
 			<pubDate>Fri, 14 Aug 2020 13:44:23 +0900</pubDate>
+		</item>
+		<item>
+			<title>Amazon Alexaに個人情報を取得できる脆弱性 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1270864.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1270/864/1_o.jpg"></div></div></div></div></div></div><p>　セキュリティ企業の<a href="https://research.checkpoint.com/" class="n" target="_blank">Check Point Research</a>は13日、Amazonの音声アシスタントAlexaに個人情報などを取得できてしまう脆弱性が存在するとし、警告を促した。</p><p>　Check Pointによれば、特定のAmazonとAlexaのサブドメインにおいて、オリジン間のリソース共有(CORS)に設定ミスがあり、クロスサイトスクリプティング(XSS)に対して脆弱性があるという。攻撃者がXSSを使用してCSRFトークンを取得すれば、被害者に代わってアクションを実行可能となる。</p><p>　具体的には、よく知られているFrida SSLユニバーサルアンピンニングスクリプトを使い、Alexaのトラフィックを調査したところ、いくつかのリクエストにおいてCORSポリシーの設定が誤っており、Amazonのどのサブドメインに対してもAjaxリクエストを送信可能であった。攻撃者はコードインジェクションにより、1つのAmazonのサブドメインからもう1つのサブドメインまでのクロスドメイン攻撃できる。</p><p>　攻撃するためには、特別に作成したAmazonのリンクをユーザーにクリックさせる必要があるが、いったん成功すれば、スキルリストを取得したり、インストールされているスキルをユーザーが知らないあいだに削除したり、音声履歴を取得したり、被害者の住所やプロファイルとして保持しているそのほかの情報などを取得したりできる。</p><p>　Check Point Researchは攻撃の防御方法について明らかにしていないが、IoTデバイスは本質的に脆弱であり、依然として十分なセキュリティを欠いているため、サイバー攻撃の恰好なターゲットになりうるとしている。</p></div></div>]]></description>
+			<pubDate>Fri, 14 Aug 2020 14:26:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
