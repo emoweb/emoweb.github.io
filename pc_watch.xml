@@ -5,24 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Google Chrome、新最適化で読み込みを最大10%高速化 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1272886.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1272/886/4_o.jpg"></div></div><span class="caption">Chrome M85</span></div></div></div></div><p>　Googleは25日(現地時間)、Webブラウザ「Chrome」をM85に更新。プロファイルに基づく最適化(Profile Guided Optimization:PGO)を適用することにより、ページの読み込みを最大で10%ほど高速化したと発表した。</p><p>　PGOは、M53の時点でMicrosoft Visual C++を使用しており、Windows向けに実装されていた。M85では新たにClangコンパイラを採用し、MacとWindows両方に導入される。開発チームのテストによれば、最大で10%の高速化を実現できたという。</p><p>　実際に編集部の機材(Razer Blade Stealth 4K Model 2019)で試したところ、Speedomater 2.0で約7%の速度向上が確認できた。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1272/886/3_o.jpg"></div></div><span class="caption">手持ち機材でのM85のSpeedomater 2.0の結果</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1272/886/1_o.jpg"></div></div><span class="caption">更新前の旧バージョン</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1272/886/2_o.jpg"></div></div><span class="caption">手持ち機材でのM84のSpeedomater 2.0の結果</span></div></div></div></div><p>　ちなみにPGOの詳細については<a href="https://docs.microsoft.com/ja-jp/cpp/build/profile-guided-optimizations?view=vs-2019" class="n" target="_blank">Microsoftが公開しているドキュメント</a>が詳しいが、これによれば最適化には以下のような手法が用いられている。</p><p>・インライン展開 - 関数Aが関数Bを頻繁に呼び出し、関数Bが比較的小さい場合は、BがAにインライン展開される<br>・仮想呼び出し推理 - 仮想呼び出しまたは関数ポインタからのその他の呼び出しが特定の関数を頻繁に呼び出す場合、呼び出される関数に条件付きで実行される直接呼び出しを挿入してインライン展開する<br>・レジスタ割り当て - プロファイルデータに基づいたレジスタの割り当てが改善される<br>・基本ブロックの最適化 - 特定フレーム内で一時的に実行されるブロックを同じページセットに配置し、メモリのオーバーヘッドを最小限に抑える<br>・サイズ/速度の最適化 - プログラムでもっとも多く実行時間が費やされる関数の速度を最適化<br>・関数のレイアウト - コールグラフとプロファイルされた呼び出し元/呼び出し先の動作に基づき、同じ実行パスになる傾向のある関数を同じセクション内に配置<br>・条件付き分岐の最適化 - switchステートメント内の特定の値がほかの値より頻繁に使用されているかどうかを確認可能。また、if...elseのどちらがより頻繁にtrueになるかに応じて、ブロックを先に配置する<br>・実行されないコードの分離 - プロファイル実行中に呼び出されないコードを、一連のセクションの最後に追加される特別なセッションに移動<br>・EHコードの分離 - EHコードは例外的に実行されるだけなので、例外が例外的な条件で飲み発生すると判断できる場合に、個別のセクションへ移動<br>・メモリの組み込み - 頻繁に呼び出されるかどうかを判断し、組み込みの拡張を最適化。また、移動やコピーのブロックサイズに基づいて最適化</p><p>　このほか、使われていないタブをスロットリングし、バッテリとメモリを節約する機能も、ベータ版でローリングアウトしたとしている。</p></div></div>]]></description>
-			<pubDate>Wed, 26 Aug 2020 11:01:03 +0900</pubDate>
-		</item>
-		<item>
-			<title>恵安、銀イオンフィルタ採用不織布マスク </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1272899.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1272/899/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.keian.co.jp/" class="n" target="_blank">恵安株式会社</a>は、銀イオンフィルタを採用する「ナノAG+AIRマスク」を10月より量販店および直販サイトで販売を開始する。税別価格は50枚入り2,280円、7枚入り450円。</p><p>　抗菌、防臭、撥水などの機能を備えた3層構造の使い捨て不織布マスク。外層に撥水加工を施して外部からの飛沫を防ぐほか、中層には銀イオンを練り込んだフィルタを使用。細菌の繁殖や抗菌、防臭性能を確保している。内層には同社オリジナルの素材「ウルトラThin Air」を採用し、毛羽立ちを抑えて肌触りのよさと通気性を両立しているという。</p><p>　フィルタ性能については、BFE(バクテリア飛沫捕集効率)、VFE(ウイルス飛沫捕集効率)、PFE(微小粒子捕集効率)の各試験において、99%の捕集効率を謳う。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1272/899/02.jpg"></div></div><span class="caption">50枚入りボックスイメージ</span></div></div></div></div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1272/899/03.jpg"></div></div><span class="caption">7枚入り包装イメージ</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Wed, 26 Aug 2020 11:05:53 +0900</pubDate>
-		</item>
-		<item>
-			<title>NVIDIA、PCIe 4.0やGDDR6に対応した新GPU「GeForce MX450」 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1272910.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1272/910/01_o.jpg"></div></div><span class="caption">GeForce MX450</span></div></div></div></div><p>　<a href="https://www.nvidia.com/" class="n" target="_blank">NVIDIA</a>は、ノートパソコン向けGPU「GeForce MX450」を発表した。10月より順次搭載製品が発売される見込み。</p><p>　GeForce MX450では、新たにPCI Express 4.0による接続が可能になり、メモリはGDDR5とGDDR6の両方に対応。最新CPUの内蔵GPUと比べて最大2.5倍の性能が発揮できるとしている。</p><p>　そのほか、NVIDIA OptimusやGPU Boost機能などをサポート。API周りでは、DirectX 12(feature level 12_1)、Vulkan 1.2、OpenGL 4.6、OpenCL 1.2などに対応する。なお、アーキテクチャやCUDAコア数など詳細な仕様については公開されていない。</p></div></div>]]></description>
-			<pubDate>Wed, 26 Aug 2020 12:05:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>兼松、10年保存できる単3形「防災電池」 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1272922.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1272/922/01.jpg"></div></div><span class="caption">防災電池(40本入り)</span></div></div></div></div><p>　<a href="https://www.kanematsu.co.jp/" class="n" target="_blank">兼松株式会社</a>は、単3形アルカリ乾電池「防災電池」をAmazon.co.jpで発売した。1セット40本入りで、価格は1,980円。</p><p>　近年、普段から少し多めに備蓄品を買い置きし使った分だけ新しく買い足していく「ローリングストック」を自治体などが推奨することが増えたほか、災害時のスマートフォンなどの充電にも乾電池を使うことが多いという。本製品はそうした充電などにも好適なアルカリ乾電池で、備蓄のさいにも安心な10年の保存に対応するもの。また、日常生活でもっとも使用頻度の高い単3形を採用しているのも特徴。</p><div><div><div><div><div><ul class="aff_list"><li class="aff_item"><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B08F9PTK6S/impresswatch-6-22/ref=nosim" target="_blank"><img src="https://m.media-amazon.com/images/I/417Swjuoa7L._SL160_.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B08F9PTK6S/impresswatch-6-22/ref=nosim" target="_blank">防災電池(単3形)</a></div></div></li></ul></div></div></div></div></div></div></div>]]></description>
@@ -111,6 +93,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1273093.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1273/093/01.jpg"></div></div><span class="caption">FRT220P</span></div></div></div></div><p>　<a href="https://www.frontier-direct.jp/" class="n" target="_blank">FRONTIER</a>は、10.1型2in1「FRT220P」を27日に販売開始する。出荷は9月中旬ごろ。税別価格は32,800円だが、発売記念価格は29,800円。</p><p>　OSにWindows 10 Pro(64bit)を搭載したタブレットパソコンで、10.1型IPS液晶(解像度800×1,280ドット)、CPUにはCeleron N3350、4GBメモリ、ストレージには64GB eMMCを搭載する。カバーも兼ねる着脱式のキーボードを搭載し、外出のさいの利用に便利な仕様。</p><p>　Mini HDMIも備え、最大4K解像度(3,840×2,160ドット、30Hz)に対応。プレゼンなどで活用できるとしている。</p><p>　本体サイズは約260×174×10mm(幅×奥行き×高さ)、重量は約635g(キーボードを含むと1,135g)。</p></div></div>]]></description>
 			<pubDate>Thu, 27 Aug 2020 11:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Philips、視野角を狭める「Privacy Mode」搭載23.8型液晶 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1273184.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1273/184/1.jpg"></div></div><span class="caption">242B1V/11</span></div></div></div></div><p>　MMD Singapore Pteは、視野角を狭めてセキュリティ性を向上できる<a href="https://www.philips.co.jp/" class="n" target="_blank">Philips</a>製の23.8型液晶「242B1V/11」を8月下旬に発売する。価格はオープンプライスで、税別店頭予想価格は44,800円前後の見込み。</p><p>　特殊パネル構造により視野角をコントロールできる「Privacy Mode」機能を搭載。本体下部のボタンを押すだけで視野角を狭め、周囲の人物からのビジュアルハッキングを防げる。もう1回ボタンを押せば解除できる。</p><p>　このほか機能面では、ちらつき防止テクノロジーやローブルーモードによる目への負担軽減、高さ/回転/傾きを調節できるスタンド「SmartErgoBase」などが特徴。</p><p>　パネルはIPSで、解像度は1,920×1,080ドット、表示色数が約1,677万色、中間色応答速度が4ms、コントラスト比が1,000:1(最大5,000万:1)、輝度が350cd/平方m(Privacy Modeでは180cd/平方m)、視野角が上下/左右ともに178度(Privacy Modeでは左右90度)。</p><p>　インターフェイスはHDMI 1.4、DisplayPort 1.2、DVI-D、ミニD-Sub15ピンの4系統で、4ポートのUSB Hubを搭載する。本体サイズは540×205×501mm(幅×奥行き×高さ)、重量は5.78kg。</p></div></div>]]></description>
+			<pubDate>Thu, 27 Aug 2020 11:27:17 +0900</pubDate>
+		</item>
+		<item>
+			<title>ASUS、PCIe x16スロット7基のワークステーション向けX299マザー </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1273198.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1273/198/1.jpg"></div></div><span class="caption">Pro WS X299 SAGE II</span></div></div></div></div><p>　<a href="https://www.asus.com/jp/" class="nn" target="_blank">ASUS</a>は、PCI Express x16スロットを7基、2.5Gigabit Ethernetを2基備えたワークステーション向けマザーボード「Pro WS X299 SAGE II」を8月28日に発売する。価格はオープンプライスで、税別店頭予想価格は83,000円前後の見込み。</p><p>　2スロット占有のビデオカードを最大4枚搭載でき、4枚搭載時も各スロットはx16で動作。NVIDIA SLIおよびAMD CorssFireの両方をサポートする。全スロット利用時の接続レーンはx16+x8×6となる。</p><p>　また、Intel製の2.5Gigabit Ethernetコントローラ「I225-LM」を2基搭載し、帯域を消費するアプリケーションに対応。さらにCPUスロットリングを抑えるためにサーマルデザインを最適化した。</p><p>　フォームファクタはSSI-CEB。チップセットはIntel X299、ソケットはLGA2066で、Core XシリーズCPUをサポート。メモリはDDR4×8(最大256GB)で、最大速度は4,266MHz。ストレージインターフェイスはM.2×2、SATA 6Gbps×8。</p><p>　背面インターフェイスはUSB 3.1×2(うち1基はType-C)、USB 3.0×6、USB 2.0×4、2.5Gigabit Ethernet×2、音声入出力などを備える。</p></div></div>]]></description>
+			<pubDate>Thu, 27 Aug 2020 11:48:30 +0900</pubDate>
+		</item>
+		<item>
+			<title>MSI、Quadro P620搭載の15.6型モバイルワークステーション </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1273201.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1273/201/01.jpg"></div></div><span class="caption">WF65-10TH-1216JP</span></div></div></div></div><p>　<a href="https://jp.msi.com/" class="n" target="_blank">エムエスアイコンピュータージャパン株式会社</a>は、15.6型モバイルワークステーション「WF65-10TH-1216JP」を9月3日より発売する。店頭予想価格は185,000円前後の見込み。</p><p>　WF65-10TH-1216JPは、CPUにCore i7-10750H(6コア/2.6GHz)、GPUにQuadro P620(GDDR5 4GB)を採用し、3D CADや動画編集などといった高負荷な作業を想定した製品。米国国防総省の定める規格「MIL-STD 810」に準拠し、耐久性の高い筐体設計とした。</p><p>　そのほか、16GBメモリ、512GB M.2 NVMe SSD、15.6型フルHD非光沢液晶、Windows 10 Proなどを搭載。</p><p>　インターフェイスは、USB 3.1×4(うち1基Type-C)、Gigabit Ethernet、Wi-Fi 6、Bluetooth 5.1、HDMI、92万画素Webカメラ、音声入出力などを備える。</p><p>　本体サイズは359×254×21.7mm(幅×奥行き×高さ)、重量は1.86kg。バッテリ容量は51Whrで、保証期間は3年。</p></div></div>]]></description>
+			<pubDate>Thu, 27 Aug 2020 12:00:40 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
