@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Operation PowerFall：2つのゼロデイ脆弱性</title>
-			<link>https://blog.kaspersky.co.jp/cve-2020-1380-vulnerability/28981/</link>
-			<description><![CDATA[当社のテクノロジーがサイバー攻撃を阻止。2つのゼロデイ脆弱性の悪用について当社エキスパートが解析を行いました。]]></description>
-			<pubDate>Fri, 14 Aug 2020 01:00:50 +0000</pubDate>
-		</item>
-		<item>
 			<title>中小企業で定期的にチェックすべき5項目</title>
 			<link>https://blog.kaspersky.co.jp/top5-checkpoints-for-smb/28906/</link>
 			<description><![CDATA[何もせずに放っておいたら高くつくかもしれない、5つのこと。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/how-to-cure-dmarc/29054/</link>
 			<description><![CDATA[DMARCのメカニズムには欠点がありますが、私たちはそれを補うテクノロジーを開発しました。]]></description>
 			<pubDate>Fri, 28 Aug 2020 01:00:53 +0000</pubDate>
+		</item>
+		<item>
+			<title>サイバーリスクの評価で、ありがちな誤りとは</title>
+			<link>https://blog.kaspersky.co.jp/black-hat-2020-risk-assessment/29064/</link>
+			<description><![CDATA[サイバーインシデントに起因する潜在的な損失を算出する場合、統計データと、その解釈は、同じくらい重要です。]]></description>
+			<pubDate>Mon, 31 Aug 2020 01:00:03 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
