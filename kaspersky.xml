@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>サイバー犯罪者はどのようにWoWプレイヤーをカモにするのか</title>
-			<link>https://blog.kaspersky.co.jp/wow-phishing/29040/</link>
-			<description><![CDATA[Blizzardアカウントを手に入れようと、攻撃者が『World of Warcraft』で仕掛けてきた罠とは。]]></description>
-			<pubDate>Mon, 24 Aug 2020 01:00:49 +0000</pubDate>
-		</item>
-		<item>
 			<title>アカウントが乗っ取られてしまった。どうすべき？</title>
 			<link>https://blog.kaspersky.co.jp/tips-for-hacked-account/29034/</link>
 			<description><![CDATA[アカウントが乗っ取られてしまったとき、どんな対応を取るべきでしょうか？被害を最低限に食い止め、アカウントを取り戻すための方法。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/free-pc-gaming-with-no-risks/29094/</link>
 			<description><![CDATA[無料でプレイできるPCゲームを選ぶときに心しておきたい、5つのポイントを説明します。]]></description>
 			<pubDate>Fri, 04 Sep 2020 01:00:20 +0000</pubDate>
+		</item>
+		<item>
+			<title>悪意あるマクロを利用したmacOSへの攻撃</title>
+			<link>https://blog.kaspersky.co.jp/black-hat-macos-macros-attack/29103/</link>
+			<description><![CDATA[リサーチャーのパトリック・ウォードル氏が実演した、エクスプロイトチェーンを使ってmacOS Catalinaを攻撃する方法とは。]]></description>
+			<pubDate>Mon, 07 Sep 2020 01:00:44 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
