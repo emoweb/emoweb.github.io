@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>【やじうまPC Watch】太陽光とボタン入力のエネルギーだけで動作するゲームボーイクローン</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1275645.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1275/645/01.jpg"></div></div></div></div></div></div><p>　<a href="http://www.tudelft.nl/" class="n" target="_blank">デルフト工科大学</a>および<a href="https://www.northwestern.edu/" class="n" target="_blank">ノースウェスタン大学</a>の研究グループは9月4日(現地時間)、バッテリレスで動作するゲームボーイのクローンを開発した。</p><p>　IoT社会に向け、断続的な駆動でも正常な動作を保証するコンピューティング技術と、太陽光など周囲の環境からエネルギーを集めて電力を生み出すエネルギーハーベスティング技術を組みあわせて作られたもの。Energy Aware Gaming Platform(ENGAGE)と名づけられ、ゲームボーイと同等のサイズとフォームファクタを持つ。</p><p>　前面に備えたソーラーパネルと、ボタンを押し込む力から駆動電力を生成。エネルギーを効率的に利用できるようハードウェアとソフトウェアは新規にゼロから設計されている。ゲームボーイのプロセッサをフルエミュレーションでき、オリジナルのゲームカートリッジを差し込んでプレイが可能。</p><p>　断続的に電源が切れることを想定し、システムの状態を不揮発性メモリに保存するほか、オーバーヘッドの短縮、電源回復時の急速復旧技術などを実装。これにより、従来のセーブ機能を使わずとも、デバイスの電源が切れた時点から即座にゲームを再開できる。</p><p>　まだ、持続的な動作まではこぎ着けていないが、雲が多くない環境で、適度なボタン入力があるゲームをプレイする場合で、10秒ごとに1秒未満程度プレイが中断する動力を得られている。現時点でサウンド出力はできない。</p><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/-RhCrdu7kDg?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div><span class="caption">Battery-free Game Boy runs forever</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Tue, 08 Sep 2020 14:07:59 +0900</pubDate>
-		</item>
-		<item>
-			<title>NEC PC、Core i9-10900も選択可能なデスクトップパソコン </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1275663.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1275/663/01.jpg"></div></div><span class="caption">LAVIE Direct DT</span></div></div></div></div><p>　<a href="http://www.necp.co.jp/" class="n" target="_blank">NECパーソナルコンピュータ株式会社(NEC PC)</a>は、デスクトップパソコン「LAVIE Direct DT」を直販サイトにて発売した。税別価格はエントリー構成の場合で114,800円。</p><p>　LAVIE Direct DTは、CPUにCore i9-10900(10コア/2.8GHz)、GPUにRadeon 520などが選択可能なパソコン。直販専売モデルとなっており、メモリは最大32GB、ストレージは最大1TB SSDや16GB Optane Memoryも搭載できる。Radeon 520搭載時は最大4画面の同時出力もサポートする。</p><p>　エントリー構成時のおもな仕様は、Celeron G5905(2コア/3.5GHz)、4GBメモリ、500GB HDD、DVDスーパーマルチドライブ、Windows 10 Homeなどを装備。</p><p>　インターフェイスは、USB 3.1×2、USB 3.0×3(うち1基Type-C)、USB 2.0×4、PS/2、Gigabit Ethernet、音声入出力などを備える。オンボードの映像出力は、HDMI、DisplayPort×2となる。</p><p>　本体サイズは89×298×336mm(幅×奥行き×高さ)、重量は約4.7kg。</p></div></div>]]></description>
-			<pubDate>Tue, 08 Sep 2020 14:43:29 +0900</pubDate>
-		</item>
-		<item>
 			<title>ソニー、FeliCaの次世代チップ開発 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1275708.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1275/708/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.sony.co.jp/" class="n" target="_blank">ソニー</a>は、非接触ICカード向けチップ「FeliCa」の次世代チップを開発した。チップおよびチップ搭載のカードの量産は11月を予定している。</p><p>　新チップは、現行のFeliCa Standardチップと互換性を保ちつつ、クラウドと連携したデータ管理が可能なほか、第三者の不正利用を防ぐ「FeliCaセキュアID」機能も搭載した。これらの機能の有効/無効化はカード発行時に選択できる。</p><p>　追加された機能を利用することで、サービス事業者はなりすましなどの不正利用を防ぎつつ、さまざまなオンラインサービスにおいて顧客情報の管理やサービス内容の追加・更新などにクラウド上で対応することも可能となった。</p><p>　また、同社ではFeliCaをクラウドサービスで活用するための開発環境の1つとして、FeliCaリーダー向けSDK「ICS-DCWC1」を提供している。同クライアントを利用することで、読み取ったIDの認証後に、勤怠管理や経費精算などをするためのWebアプリなどを開発できる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1275/708/02.jpg"></div></div><span class="caption">拡張オーバーラップ機能</span></div></div></div></div><p>　異なるサービス事業者間で、それぞれの既存システムを生かしながらお互いのサービスを追加し、データ連携ができる「拡張オーバーラップ」機能も新たに搭載。これにより、システムの改修をせずとも、既存のインフラを生かすことで開発負担を抑えた統合サービスの提供が可能になる。</p></div></div>]]></description>
@@ -111,6 +99,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1275884.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1275/884/01.jpg"></div></div><span class="caption">8M-B120C</span></div></div></div></div><p>　<a href="https://corporate.jp.sharp/" class="n" target="_blank">シャープ株式会社</a>は、120型8K液晶ディスプレイ「8M-B120C」を9月下旬より発売する。価格はオープンプライス。</p><p>　8M-B120Cは、HDMI 2.1およびHDRに対応し、ケーブル1本での8K/60pまたは4K/120p映像の入力が可能なディスプレイ。HDMI端子を4基備え、4本の信号をまとめて8K映像として入力する方式もサポートする。同社の液晶TV「AQUOS 8K」向けの映像技術を活用し、8Kに満たない映像をアップコンバートする超解像技術も備える。</p><p>　おもな仕様は、パネルが120型UV2A、解像度が7,680×4,320ドット、表示色数が約10億7千万色、輝度が600cd/平方m、コントラスト比が3,500:1。</p><p>　インターフェイスは、HDMI×4、ミニD-Sub15ピン、Ethernet、USB 3.0×2、3.5mmステレオミニジャック×3(うち1基入力)、光デジタル出力、10W×4および15W×2スピーカーなどを備える。</p><p>　スタンド装着時の本体サイズは約2,717×805×1,979mm(幅×奥行き×高さ)、重量は約206kg。</p></div></div>]]></description>
 			<pubDate>Wed, 09 Sep 2020 12:50:32 +0900</pubDate>
+		</item>
+		<item>
+			<title>Intel AMT/ISMに特権昇格が可能な脆弱性 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1275913.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1275/913/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.intel.com/" class="n" target="_blank">Intel</a>は8日(現地時間)、組織向けの管理機能Intel AMT(Active Management Technology)およびISM(Intel Standard Manageability)に関する脆弱性などに対するセキュリティアップデートを複数公開した。</p><p>　今回公開されているもののうち、Intel AMTおよびISMにおいて特権昇格が可能な脆弱性(CVE-2020-8758)は深刻度がCriticalとなっている。バージョン11.8.79、11.12.79、11.22.79、12.0.68または14.0.39以下のものが対象で、各ベンダーが提供する最新バージョンの適用を奨めている。</p><p>　そのほか、Intel Driver &amp; Support Assistantにおいてローカルアクセス経由で特権昇格の恐れがある脆弱性(CVE-2020-12302)、第8世代以降のCoreおよびCeleron 4000/5000シリーズで特権昇格やサービス運用妨害(DoS)などが可能な脆弱性(CVE-2020-8672ほか)、第8世代以降のCoreおよびPentium Silverで特権昇格やDoSなどの恐れがある脆弱性(CVE-2020-0570ほか)に関する情報が公開されている。</p><p>　対処法などの詳細については、それぞれの脆弱性情報のページを参照されたい。</p></div></div>]]></description>
+			<pubDate>Wed, 09 Sep 2020 14:12:31 +0900</pubDate>
+		</item>
+		<item>
+			<title>WD、ハードウェア暗号化対応外付けHDD </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1275925.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1275/925/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.iodata.jp/" class="n" target="_blank">株式会社アイ・オー・データ機器</a>は、Western Digital(WD)製の外付けHDD「My Book」を10月上旬に発売する。容量は4TB/6TB/8TB/12TB/14TBを用意し、税別価格は順に、14,300円/18,700円/24,300円/40,000円/51,200円。</p><p>　AES 256ビットハードウェア暗号化に対応した外付けHDDで、パスワードも設定することで第三者のアクセスを防げる。また、本体にバックアップソフト「WD Backup」も搭載し、写真やビデオなどのメディアのほか、システムバックアップにも対応。</p><p>　Windows 8.1/macOS 10.13以降に対応し、フォーマット済みなので購入時からすぐ使えるのも特徴。</p><p>　インターフェイスはUSB 3.0で、ACアダプタを利用。本体サイズは共通で、139.3×49×170.6mm(幅×奥行き×高さ)。重量は容量によって異なり、960～1,050g。</p></div></div>]]></description>
+			<pubDate>Wed, 09 Sep 2020 14:14:26 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
