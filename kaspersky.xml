@@ -5,6 +5,12 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
+			<title>DMARCを補強するKasperskyのアプローチ</title>
+			<link>https://blog.kaspersky.co.jp/how-to-cure-dmarc/29054/</link>
+			<description><![CDATA[DMARCのメカニズムには欠点がありますが、私たちはそれを補うテクノロジーを開発しました。]]></description>
+			<pubDate>Fri, 28 Aug 2020 01:00:53 +0000</pubDate>
+		</item>
+		<item>
 			<title>サイバーリスクの評価で、ありがちな誤りとは</title>
 			<link>https://blog.kaspersky.co.jp/black-hat-2020-risk-assessment/29064/</link>
 			<description><![CDATA[サイバーインシデントに起因する潜在的な損失を算出する場合、統計データと、その解釈は、同じくらい重要です。]]></description>
@@ -57,12 +63,6 @@
 			<link>https://blog.kaspersky.co.jp/online-education-ten-tips/29142/</link>
 			<description><![CDATA[オンライン授業をスムーズに進めるのに役立つ、先生向けの10のヒント。]]></description>
 			<pubDate>Thu, 10 Sep 2020 01:00:22 +0000</pubDate>
-		</item>
-		<item>
-			<title>爆破予告詐欺：新手のスパム</title>
-			<link>https://blog.kaspersky.co.jp/spam-with-bomb-threat/29198/</link>
-			<description><![CDATA[「建物に爆弾を仕掛けた」と脅し、企業からお金を巻き上げようとする詐欺メールが見つかっています。]]></description>
-			<pubDate>Thu, 10 Sep 2020 01:00:32 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
