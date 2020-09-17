@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>SpiKey：鍵の音を盗聴する</title>
-			<link>https://blog.kaspersky.co.jp/spikey-attack/29089/</link>
-			<description><![CDATA[鍵を鍵穴に差し込むと、カチャッという音がします。科学者たちは、この音を聞き取って鍵を複製する方法を見つけ出しました。]]></description>
-			<pubDate>Thu, 03 Sep 2020 01:00:19 +0000</pubDate>
-		</item>
-		<item>
 			<title>詐欺に遭わない無料ゲーム探しのコツ</title>
 			<link>https://blog.kaspersky.co.jp/free-pc-gaming-with-no-risks/29094/</link>
 			<description><![CDATA[無料でプレイできるPCゲームを選ぶときに心しておきたい、5つのポイントを説明します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/cybersecurity-automotive/29189/</link>
 			<description><![CDATA[コンピューター化された現代の自動車にはセキュアなプラットフォームが求められます。それこそ、私たちが取り組んできたものなのです。]]></description>
 			<pubDate>Wed, 16 Sep 2020 01:00:04 +0000</pubDate>
+		</item>
+		<item>
+			<title>ドメインコントローラーを脅かす脆弱性「Zerologon」</title>
+			<link>https://blog.kaspersky.co.jp/cve-2020-1472-domain-controller-vulnerability/29235/</link>
+			<description><![CDATA[Netlogonプロトコルの脆弱性CVE-2020-1472（別名：Zerologon）は、ドメインコントローラーの乗っ取りを許す恐れがあります。]]></description>
+			<pubDate>Thu, 17 Sep 2020 01:00:09 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
