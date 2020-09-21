@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>悪意あるマクロを利用したmacOSへの攻撃</title>
-			<link>https://blog.kaspersky.co.jp/black-hat-macos-macros-attack/29103/</link>
-			<description><![CDATA[リサーチャーのパトリック・ウォードル氏が実演した、エクスプロイトチェーンを使ってmacOS Catalinaを攻撃する方法とは。]]></description>
-			<pubDate>Mon, 07 Sep 2020 01:00:44 +0000</pubDate>
-		</item>
-		<item>
 			<title>YARAルール：ブラックスワンを予測する</title>
 			<link>https://blog.kaspersky.co.jp/cybersecurity-expert-training/29154/</link>
 			<description><![CDATA[Kasperskyは、サイバーセキュリティのエキスパート向けのオンライントレーニング講座を開始します。シリーズ初回は、YARAに関する集中講座です。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/what-is-end-to-end-encryption/29231/</link>
 			<description><![CDATA[エンドツーエンド暗号化とは何か。エンドツーエンド暗号化はどのように通信の秘密を守るのか。専門家でなくても分かるように説明します。]]></description>
 			<pubDate>Fri, 18 Sep 2020 01:00:40 +0000</pubDate>
+		</item>
+		<item>
+			<title>21世紀の目で見る、映画『サイバーネット』</title>
+			<link>https://blog.kaspersky.co.jp/hackers-movie/29243/</link>
+			<description><![CDATA[映画『サイバーネット』が公開されて25年。現代の情報セキュリティという観点から、映画に出てくるハッキングシーンを検証すると…？]]></description>
+			<pubDate>Mon, 21 Sep 2020 01:00:50 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
