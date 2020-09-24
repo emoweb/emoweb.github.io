@@ -5,36 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Photoshopに写真の空をワンタッチで置き換える機能 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1278416.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/K_jWJ7Z-tKI?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div><span class="caption">Photoshop Sneak Peek: Sky Replacement</span></div></div></div></div><p>　<a href="https://www.adobe.com/" class="n" target="_blank">Adobe</a>は、写真編集ソフト「Photoshop」に追加される機能「Sky Replacement」について詳細を公開した。実装は近日中を予定しているという。</p><p>　Sky Replacementは、写真のなかに含まれる「空」の部分だけを置き換えられる機能。一覧から空を選ぶだけで簡単に適用できるのが特徴で、標準で用意されたプリセットだけでなく、ユーザーが用意した空の写真も利用できる。置き換え時には、空の色にあわせて写真全体の色味も調整される。</p><p>　本機能は同社のAI「Adobe Sensei」によって実現。一連の処理はレイヤーやマスクとして適用されるため、非破壊で実行できるのも特徴となっている。</p></div></div>]]></description>
-			<pubDate>Wed, 23 Sep 2020 13:30:09 +0900</pubDate>
-		</item>
-		<item>
-			<title>アイ・オー、WAN/LANともに10GbE対応のWi-Fi 6ルーター </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1278410.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/410/1.jpg"></div></div><span class="caption">WN-DAX3600XR</span></div></div></div></div><p>　<a href="https://www.iodata.jp/" class="n" target="_blank">株式会社アイ・オー・データ機器</a>は、10Gigabit Ethernet(10GbE)に対応したWAN/LANポートを備えたWi-Fi 6ルーター「WN-DAX3600XR」を10月下旬に発売する。税別価格は27,700円。</p><p>　WAN側と、LAN側も1ポートが10GbE対応で、10Gbpsのインターネット回線の速度を損なわずに通信可能。LAN側にはこのほか4基の1GbEポートを備える。Wi-Fi 6の最大速度は、5GHz帯利用で最大2,402Mbps、2.4GHz帯利用で1,150Mbpsとなっている。</p><p>　このほか、クアッドコアCPUを採用。脆弱性対応のファームウェアが公開された場合に自動的に適用されるリモートメンテナンス機能や、IPv4 over IPv6機能、スマートフォンへの通信感度を上げるビームフォーミングW機能なども備える。</p><p>　対応暗号化形式はWPA2-PSK(AES)、WPA3-SAE、WPA3-SAE Transition。本体サイズは約238×34×248mm(幅×奥行き×高さ)、重量は約970g(いずれもスタンド含む)。</p></div></div>]]></description>
-			<pubDate>Wed, 23 Sep 2020 13:35:04 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows 10 October 2020 Updateが完成 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1278430.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/430/7_o.png"></div></div></div></div></div></div><p>　Microsoftは18日(現地時間)、次期大型アップデートにあたるWindows 10 October 2020 Update(20H2)の製品版に相当するビルド19042.508(KB4571756)をInsider向けに配信開始した。</p><p>　Windows InsiderのRelease Previewチャネル向けでは、このアップデートは自動的には適用されず、まずは最新アップデートを試したい“Seeker”向けに配信される。このため、Windows Updateより手動でダウンロード/インストールする必要がある。一方Betaチャネルでは順次自動的にアップデートされる。</p><p>　既知の問題としては、Windows Subsystem for Linux環境で「Element not found」エラーが表示されることが挙げられるが、まもなく修正するとしている。</p></div></div>]]></description>
-			<pubDate>Wed, 23 Sep 2020 13:47:40 +0900</pubDate>
-		</item>
-		<item>
-			<title>Chrome、拡張機能に関してなど深刻な脆弱性を修正 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1278440.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/440/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.google.com/" class="n" target="_blank">Google</a>は21日、WebブラウザGoogle Chromeの安定版「バージョン85.0.4183.121」を公開した。Windows、macOS、Linux向けに今後数週間かけて順次配布される。</p><p>　今回の更新ではおもにセキュリティ関連の修正を実施。ストレージにおける領域外読み取りの問題(CVE-2020-15960)や拡張機能におけるポリシー適用に関する問題(CVE-2020-15961ほか)など、深刻度高のもの5件を含む計10件の修正が適用されている。</p></div></div>]]></description>
-			<pubDate>Wed, 23 Sep 2020 13:59:38 +0900</pubDate>
-		</item>
-		<item>
-			<title>キオクシア、Ethernet接続型のNVMe-oF対応ストレージ </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1278414.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/414/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.kioxia.com/ja-jp/" class="n" target="_blank">キオクシア株式会社</a>は23日、データセンター向けのEthernet接続ストレージソリューションとしてNVMe-oFに対応したSSDをサンプル出荷した。</p><p>　従来、計算機能とストレージを分離させた場合でも、ストレージ側にCPUやDRAM、HBAなどが必要だった。しかしNVMe-oFを利用すればハードウェア設計が簡素化されるため、高性能かつ低消費電力のストレージシステムを、低コストで実現できる。</p><p>　キオクシアが開発したSSDでは、25Gb×2 Ethernetネットワークと、RoCEv2 RDMAプロトコルをサポートし、NVMe-oF 1.1およびNVMe 1.4規格に準拠。2.5インチ/15mm厚のフォームファクタで、1,920/3,840/7,680GBの容量を用意。RedfishおよびNVMe-MIストレージ管理仕様をサポートし、IPv4/IPv6に対応する。SSD単体としての性能は89万IOPS(QD=256、4KBランダムリード時)。</p><p>　このSSDを2Uシャーシに24基集約したEBOFシステムの例では、MarvellのEBOF SDK 1.0ソフトウェアを搭載し、100G×6本のEthernetネットワークに対応。システム全体で2,000万IOPの高性能を実現したという。</p></div></div>]]></description>
-			<pubDate>Wed, 23 Sep 2020 14:44:14 +0900</pubDate>
-		</item>
-		<item>
 			<title>デル、USB Type-Cで65W供給可能な27型4K液晶を4万円台で発売 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1278458.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/458/01_o.jpg"></div></div><span class="caption">P2721Q</span></div></div></div></div><p>　<a href="https://www.dell.com/ja-jp/" class="n" target="_blank">デル・テクノロジーズ株式会社</a>は、USB Type-Cで画面出力と同時に65Wの電力供給が可能な27型4K液晶ディスプレイ「P2721Q」を発売した。直販価格は71,800円で、現在割引価格として46,980円で販売されている。</p><p>　3辺狭額縁のディスプレイでマルチディスプレイの構築にも最適とする。アスペクト比は16:9で解像度は3,840×2,160ドット。パネルはIPSで、輝度350cd/平方m、コントラスト比1,000:1、最大表示色10億7千万色、中間色の応答速度5ms。</p><p>　背面にあるジョイスティック式コントローラで画面設定などを調整でき、オプションのスリムサウンドバー「SB521A」でスピーカー機能を持たせることが可能。スタンドの内側にコードを通すことができ、前後/左右/回転/高さ(150mmの調整)の調整も行なえる。</p><p>　映像入力端子はUSB Type-C、DisplayPort、HDMIの3系統。USB 3.0と2.0のHub機能も備え、それぞれ2基ずつポートが用意されている。</p><p>　本体サイズは611.6×185×385.2mm(幅×奥行き×高さ)。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/458/02_o.jpg"></div></div></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/458/03_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/458/04_o.jpg"></div></div></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/458/05_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
@@ -117,6 +87,30 @@
 			<link>https://pc.watch.impress.co.jp/docs/biz/1278519.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/519/01.jpg"></div></div><span class="caption">CB315-3H-A14N/E</span></div></div></div></div><p>　<a href="https://acerjapan.com/" class="n" target="_blank">日本エイサー株式会社</a>は、文教/法人向け15.6型Chromebook「CB315-3H-A14N/E」を10月上旬より発売する。価格はオープンプライス。</p><p>　CB315-3H-A14N/Eは、Celeron N4020と4GBメモリを搭載したChromebook。ストレージは32GB eMMCで、液晶は15.6型1,366×768ドット非光沢液晶を備える。キーボードはテンキーつきの英字配列のみとなる。</p><p>　インターフェイスは、USB 3.0×4(うち2基Type-C、USB PD/映像出力対応)、IEEE 802.11ac対応無線LAN、Bluetooth 5.0、720p Webカメラ、microSDカードスロット、音声入出力などを装備する。</p><p>　本体サイズは約366.35×250.5×20.3mm(幅×奥行き×高さ)、重量は約1.63kg。バッテリ駆動時間は約12.5時間。</p></div></div>]]></description>
 			<pubDate>Thu, 24 Sep 2020 12:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>TSUKUMO、初音ミクコラボデザインのノートパソコン/液晶/マウスパッドのセット </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1278663.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/663/01.jpg"></div></div><span class="caption">初音ミクコラボセット</span></div></div></div></div><p>　株式会社Project Whiteは<a href="https://shop.tsukumo.co.jp/" class="n" target="_blank">TSUKUMO</a>ブランドより、初音ミクとコラボレーションしたノートパソコン、液晶ディスプレイ、マウスパッドのセットを数量限定で発売した。セット価格として118,800円(通常価格149,660円)にて販売される。</p><p>　14型ノート「Acer×HATSUNE MIKUノートパソコン」、23.8型液晶「ViewSonic×HATSUNE MIKUディスプレイ」およびマウスパッド「DASHER MEDIUM Gaming Mouse Pad SNOW MIKU EDITION」がセットになったもの。3製品ともに初音ミクのコラボデザインが施されている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/663/02.jpg"></div></div><span class="caption">Acer×HATSUNE MIKUノートパソコン</span></div></div></div></div><p>　Acer×HATSUNE MIKUノートパソコンのおもな仕様は、Core i5-8265U、8GBメモリ、256GB M.2 NVMe SSD、14型フルHD(1,920×1,080ドット)非光沢IPS液晶、Windows 10 Homeなどを搭載。</p><p>　インターフェイスは、USB 3.1 Type-C、USB 3.0×2、USB 2.0、IEEE 802.11ac対応無線LAN、Bluetooth 5.0、HDMI、Webカメラ、指紋認証センサー、SDカードスロットなどを装備。</p><p>　本体サイズは323×228×17.95mm(幅×奥行き×高さ)、重量は1.45kg。バッテリ駆動時間は約12時間。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/663/03.jpg"></div></div><span class="caption">ViewSonic×HATSUNE MIKUディスプレイ</span></div></div></div></div><p>　ViewSonic×HATSUNE MIKUディスプレイは、パネルは非光沢IPSで、解像度が1,920×1,080ドット、表示色数が1,677万色、中間色応答速度が5ms、輝度が250cd/平方m、コントラスト比が1,000:1、視野角が上下/左右ともに178度。</p><p>　インターフェイスは、HDMI、DisplayPort、ミニD-Sub15ピン、音声入出力などを装備。本体サイズは540×198×390mm(同)、重量は3.6kg。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/663/04.jpg"></div></div><span class="caption">DASHER MEDIUM Gaming Mouse Pad SNOW MIKU EDITION</span></div></div></div></div><p>　DASHER MEDIUM Gaming Mouse Pad SNOW MIKU EDITIONの本体サイズは360×300×4mm(同)。</p></div></div>]]></description>
+			<pubDate>Thu, 24 Sep 2020 12:01:29 +0900</pubDate>
+		</item>
+		<item>
+			<title>Googleマップにコロナ感染レイヤー表示機能。都市レベルで状況把握可能に </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1278680.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/680/04_o.png"></div></div></div></div></div></div><p>　<a href="https://www.google.com/" class="n" target="_blank">Google</a>は23日(現地時間)、Googleマップ上に新型コロナウイルスの感染状況をレイヤー表示する機能を今週から順次AndroidとiOS向けに提供する。</p><p>　Googleマップにこのレイヤー機能を表示するボタンが用意され、表示しているマップに対して10万人あたりの1週間の新規感染者数の平均値とともに、上昇もしくは下降傾向にあるかを示す。色が濃くなっている地域ほど感染者数が多いことが読み取れ、Googleマップをサポートする220カ国において、県や都市レベルで把握可能。</p><p>　このデータはジョンズ・ホプキンズ大学や、New York Times、Wikipediaといった信頼のできる情報源から得ており、その元のデータはWHOや政府の保健機関、病院から取得されたものが使われているとのことだ。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/680/03_o.png"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 24 Sep 2020 12:22:31 +0900</pubDate>
+		</item>
+		<item>
+			<title>ドスパラ、Core i7-10875H/RTX 2060搭載の15.6型クリエイター向けノート </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1278683.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/683/01.jpg"></div></div><span class="caption">raytrek R5</span></div></div></div></div><p>　<a href="http://info.twave.co.jp/" class="n" target="_blank">株式会社サードウェーブ</a>は、15.6型クリエイター向けノートパソコン「raytrek R5」を<a href="https://www.dospara.co.jp/" class="n" target="_blank">ドスパラ</a>各店舗および直販サイトにて発売した。税別価格は145,980円。</p><p>　raytrek R5は、CPUにCore i7-10875H(8コア/2.3GHz)、GPUにGeForce RTX 2060を搭載したノートパソコン。映像や写真の編集などといったクリエイティブ用途を想定した製品となる。</p><p>　加えて、16GBメモリ、1TB M.2 NVMe SSD、15.6型フルHD(1,920×1,080ドット)非光沢液晶、Windows 10 Homeなどを装備。液晶の色域はsRGBを約99%、Adobe RGBを約76%カバーする。</p><p>　インターフェイスは、USB 3.0×3(うち1基Type-C)、USB 2.0、Gigabit Ethernet、Wi-Fi 6、Bluetooth 5、HDMI 2.0、Mini DisplayPort 1.2×2、HD対応Webカメラ、SDカードスロット、音声入出力などを備える。</p><p>　本体サイズは359.8×243×19.9mm(幅×奥行き×高さ)、重量は約1.85kg。バッテリ駆動時間は約3.8時間。</p></div></div>]]></description>
+			<pubDate>Thu, 24 Sep 2020 12:24:48 +0900</pubDate>
+		</item>
+		<item>
+			<title>NEC、マスク着用に特化した顔認証技術。認証率99.9%以上 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1278698.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1278/698/1_o.png"></div></div></div></div></div></div><p>　<a href="https://jpn.nec.com/" class="n" target="_blank">NEC</a>は、マスク着用時でも高精度を実現する新しい顔認証エンジンを開発したと発表した。本エンジンは、顔認証やさまざまな映像分析機能を組み合わせて複合的なソリューションを実現する「NEC映像分析基盤」、複数の生体情報を活用したマルチモーダル生体認証のためのサービス「Bio-IDiom Services」などの製品として10月上旬より順次販売開始する。</p><p>　NECは従来からマスク着用に対応した顔認証を実現していたが、このたび、マスク着用に特化した顔認証エンジンを開発。本来、目、鼻、口などの位置やかたち、大きさなどの特徴点を抽出し、照合を行なっていたが、本エンジンではマスクで覆われていない目の周辺に重点を置き特徴点を抽出/照合する。</p><p>　本エンジンを用いた顔認証プロセスでは、まずカメラで撮影して検出した顔画像から、マスク着用の有無を判定、次にそれぞれに適した顔認証アルゴリズムに切り替え、特徴点の抽出と照合を行なう。これにより、マスク着用者と非着用者が混在しても高精度を実現する。</p><p>　同社の社内評価において、マスク着用時の1:1認証での認証率は99.9%以上と、高い精度を実現したことを確認。また、さまざまな色や柄のマスクにも対応でき、高い実用性を有しているとした。</p></div></div>]]></description>
+			<pubDate>Thu, 24 Sep 2020 12:46:21 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
