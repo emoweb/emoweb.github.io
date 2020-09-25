@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>オンライン授業に取り組む先生へのアドバイス</title>
-			<link>https://blog.kaspersky.co.jp/online-education-ten-tips/29142/</link>
-			<description><![CDATA[オンライン授業をスムーズに進めるのに役立つ、先生向けの10のヒント。]]></description>
-			<pubDate>Thu, 10 Sep 2020 01:00:22 +0000</pubDate>
-		</item>
-		<item>
 			<title>セキュリティの観点から考えるシンクライアント</title>
 			<link>https://blog.kaspersky.co.jp/thin-client-cybersecurity/29149/</link>
 			<description><![CDATA[在宅勤務に移行する人が増えたことで、安全で快適なリモート環境に最適なテクノロジーとは何かが明らかになりました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/identification-authentication-authorization-difference/29254/</link>
 			<description><![CDATA[本人確認、認証、承認はどう違う？2段階認証が必要なのはなぜ？アライグマを使って説明します。]]></description>
 			<pubDate>Thu, 24 Sep 2020 01:00:07 +0000</pubDate>
+		</item>
+		<item>
+			<title>Linuxはどれくらい攻撃に強いのか</title>
+			<link>https://blog.kaspersky.co.jp/threats-targeting-linux/29222/</link>
+			<description><![CDATA[Linuxを標的とした高度な攻撃やAPT攻撃活動を当社のエキスパートが解析。セキュリティの推奨事項を紹介します。]]></description>
+			<pubDate>Fri, 25 Sep 2020 01:00:37 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
