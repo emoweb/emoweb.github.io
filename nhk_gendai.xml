@@ -2917,5 +2917,368 @@
 ]]></description>
 			<pubDate>Thu, 24 Sep 2020 22:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>暮らしが激変！？　急速に広がる“顔認証” - NHK クローズアップ現代＋</title>
+			<link>https://www.nhk.or.jp/gendai/articles/4463/</link>
+			<description><![CDATA[<div class="column__main">
+                <!-- タグ -->
+                <ul class="taglist -has-border">
+                    <li><a href="https://www.nhk.or.jp/gendai/tag/saishingijyutsu/">最新技術</a></li>
+                </ul>
+                <!-- // タグ -->
+
+                
+
+                <!-- 概要 -->
+                <div class="bodyText">
+                    <p>カメラでとらえた人物の顔を顔写真データと照合し、その人が誰なのかを特定する非接触型の技術、「顔認証」。新型コロナの感染拡大によって注目が集まり、急速に普及が進んでいる。世界最高水準の顔認証の技術を持つNECは「顔パス」オフィスを実現。ゲートの通過だけでなく、コピー機や自販機もすべて「顔パス」で利用することが可能になった。しかし、顔認証の精度は開発する企業によって大きなばらつきがあり、アメリカでは警察が捜査に利用した結果、誤認逮捕につながるケースも出ている。さらに、ネットにあふれる顔のデータが個人の同意なく収集される実態もあらわに。広がる顔認証とどう向き合っていけばよいのか考える。 
+<br><br>
+※放送から1週間は「見逃し配信」がご覧になれます。こちらから
+⇒<a href="https://www.nhk.jp/p/gendai/ts/WV5PLY8R43/">https://www.nhk.jp/p/gendai/ts/WV5PLY8R43/</a></p>
+                </div>
+                <!-- // 概要 -->
+
+                <!-- 出演者 -->
+                <div class="person2">
+                    <h2 class="person2__title">出演者</h2>
+                    <ul class="person2__list">
+                              <li>山田誠二さん
+                                  <span class="person2__note">（国立情報学研究所教授）</span>
+                              </li>
+                                  <li>
+                                  武田真一
+                                    <span class="person2__note">（キャスター）</span>
+                                            、
+                                          小山 径
+                                    <span class="person2__note">（アナウンサー）</span>
+                                              </li>
+                          </ul>
+                </div>
+                <!-- // 出演者 -->
+                <!-- 本文 -->
+                    <div class="bodyText">
+                    <h2 class="bodyTitle">決済に医療に…進む開発競争</h2>
+                    <div class="vtr">
+                        <p>最先端の“顔パス”オフィスを実現したＮＥＣ。</p>
+<p>小山<br>
+「おお、開きました！」</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/01.jpg" alt=""></div>
+</div>
+
+<p>誤った判断をしてしまうエラー率は、僅か０.５％。去年（２０１９年）、アメリカの研究所の技術テストで世界１位になりました。<br>
+世界一を実現する技術のほとんどは秘密ですが、その一端を教えてもらいました。研究を始めたのは、およそ３０年前。当時のエラー率は３０％だったといいます。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/02.jpg" alt=""></div>
+</div>
+
+<p><strong>ＮＥＣ 顔認証研究を率いる 今岡仁フェロー<br>
+「年とともに顔って変わります。それから表情もありますし、本当にありとあらゆる変化があるんですよ。その中で人の顔をちゃんと判別するのはすごく難しいことなんです。」</strong></p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/03.jpg" alt=""></div>
+</div>
+
+<p>精度の飛躍的な向上につながったのが、年齢を重ねても同一人物だと正確に特定できる独自技術です。こちらは、事前に登録した２０年前の小山リポーターの写真です。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/04.jpg" alt=""></div>
+</div>
+
+<p>カメラの前に立つと…。</p>
+<p>小山<br>
+「２０年前の写真の人物が誰か、緑の枠でちゃんと私を認識してますね。」</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/05.jpg" alt=""></div>
+</div>
+
+<p>まず着目しているのは、年を重ねても変わりにくい、顔の骨格に近い、この緑色の部分。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/06.jpg" alt=""></div>
+</div>
+
+<p>そのうえで、複数の箇所の凹凸や傾きなどを抽出することで、本人にしかない特徴を見つけだせるといいます。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/07.jpg" alt=""></div>
+</div>
+
+<p><strong>今岡仁フェロー<br>
+「顔のこういう部分を（認証に）使ったらいいんだとか、どんどん見つけていく。本当に積み重ねなんですよ。」</strong></p>
+<p>新型ウイルスによるニーズの高まりに応えようと、目の特徴を加えて認証する技術も開発しています。一人一人異なる、瞳の周りの模様、虹彩（こうさい）に着目するというものです。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/08.jpg" alt=""></div>
+</div>
+
+<p>マスクに加え、帽子の着用が必要な医療現場や、工場などでの活用が期待されています。</p>
+<p>小山<br>
+「おー！ばっちり認識しました。」</p>
+<p>これらの技術を組み合わせれば、エラー率はさらに抑えられるようになるといいます。</p>
+<p><strong>今岡仁フェロー<br>
+「本当に（エラー率を）ゼロにしたいんですよ。どんな人でも使える顔認証というのをしっかり目指していくのが重要。」</strong></p>
+<p>ＡＴＭや自動改札など、さまざまな企業が開発にしのぎを削る顔認証技術。今、活用の場面が急速に広がっています。</p>
+<p>小山<br>
+「ことし（２０２０年）７月にオープンしたこちらのお店では、店員の無人化を可能にしました。」</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/09.jpg" alt=""></div>
+</div>
+
+<p>この店舗では、商品の決済に顔認証技術を活用しています。</p>
+<p>小山<br>
+「たくさんカメラがついてるんですね。１、２、３…。」</p>
+<p><strong>「全部で１６台です。」</strong></p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/10.jpg" alt=""></div>
+</div>
+
+<p>小山<br>
+「このカメラでお客さんの動きを感知してると。」</p>
+<p>誰がどの商品を手に取ったかをカメラで記録。代金は、あらかじめ登録したクレジットカードで決済されます。レジが必要なくなるため、人手不足の解消にもつながるといいます。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/11.jpg" alt=""></div>
+</div>
+
+<p><strong>セキュア　平本洋輔取締役<br>
+「省力化して、人がやらなきゃいけない業務を人がやると。人がやらなくてもいい業務をＡＩにやらせることが大事。」</strong></p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/12.jpg" alt=""></div>
+</div>
+
+<p><br><br>
+顔の表情を読み取る技術を使って、医療現場で役立てようという取り組みも始まっています。<br>
+この病院では、顔の表情から認知症の兆候を早期に見つける研究を行っています。医療現場では、認知症になると笑顔が少なくなるとされています。その笑顔を数値化する技術を開発したのです。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/13.jpg" alt=""></div>
+</div>
+
+<p><strong>グローリー　大坪公成部長<br>
+「歯を出して笑っていなかったら、どんどんスコアが下がっていく。」</strong></p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/14.jpg" alt=""></div>
+</div>
+
+<p>患者がどれだけ歯を出して笑っているかを、１００点満点で評価します。病院ではさらに２年間研究を重ね、将来はオンライン診療に活用したいと考えています。</p>
+<p><strong>順天堂大学　大山彦光准教授<br>
+「このぐらいの表情とこのぐらいの表情、どっちが笑っているというのを我々が判断するのはなかなか難しくて、客観的に数字で表されると（認知症の）診断の助けになると思います。」</strong></p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/15.jpg" alt=""></div>
+</div>
+
+                    </div>
+                </div>
+                    <div class="bodyText">
+                    <h2 class="bodyTitle">精度にばらつき　米では誤認逮捕も</h2>
+                    <div class="vtr">
+                        <p>世界でもアメリカや中国などを筆頭に、多くのＩＴ企業が顔認証技術に参入しています。背景にあるのは、この１０年、飛躍的に進化したＡＩの技術、「ディープラーニング」です。ＡＩが大量のデータを読み込み、自律して学習・分析を行うディープラーニング。この技術によって、開発競争に参入しやすくなりました。<br>
+しかし、その認証の正確さにはばらつきがあり、精度が高いものだけではありません。去年、ＮＥＣが世界一となった技術テストのある項目では、１位と最下位の企業の認証エラー率に大きな開きが確認されました。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/16.jpg" alt=""></div>
+</div>
+
+<p>いち早く顔認証技術が普及したアメリカでは、大きな課題があることが見えてきました。<br>
+犯罪捜査に顔認証技術を使っているデトロイト。警察は、防犯カメラで映った映像を、顔認証システムを使ってデータベースと照合。容疑者を特定しようとしています。</p>
+<p><strong>デトロイト市警察　ジェームズ・クレイグ本部長<br>
+「以前は１人の容疑者を見つけるのに、何日も、しかもかなりの人出が必要でした。この技術によって、より早く特定できるようになったのです。」</strong></p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/17.jpg" alt=""></div>
+</div>
+
+<p>ところが、このシステムが誤った判断を下し、誤認逮捕につながったケースも生じています。<br>
+去年７月、窃盗の容疑で誤認逮捕されたマイケル・オリバーさん。今、警察に対し、損害賠償を求める訴訟を起こしています。<br>
+オリバーさんが犯行に及んだとされた現場の写真（左）。ここに映った男の顔データを基に、警察の顔認証システムが特定したのがオリバーさんでした。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/18.jpg" alt=""></div>
+</div>
+
+<p>しかし、オリバーさんの両腕には入れ墨がありますが、写真の人物にはありません。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/19.jpg" alt=""></div>
+</div>
+
+<p><strong>マイケル・オリバーさん<br>
+「明らかに大きな違いです。ひどい思いをしました、そして落ち込みました。こんな技術はなければいいんです。」</strong></p>
+<p>今、アメリカでは、顔認証技術の導入に反対する声が上がり始めています。ことし、大手ＩＴ企業の間では、警察への顔認証技術の提供を一時的に停止したり、技術開発そのものからの撤退を表明したりする動きが相次いでいます。背景には、人種や性別、年齢によって、認証精度に大きな差があるという最新の研究結果があります。エラー率の差は、実に１０倍から１００倍にもなると指摘されています。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/20.jpg" alt=""></div>
+</div>
+
+<p>アメリカの大学で行われた、ある顔認証技術の精度を検証する実験では、男性に比べて女性の認証精度が低く、さらに、白人に比べて黒人の精度が低いという結果が出ました。<br>
+４０年以上、ＡＩを研究してきたジェームズ・ヘンドラー教授は、原因の一つはＡＩに読み込ませる顔写真のデータに偏りがあることだと指摘します。</p>
+<p><strong>レンセラー工科大学　ジェームズ・ヘンドラー教授<br>
+「顔認証には、人間が持っているような偏りはありません。その偏りは、学習データによって生み出されているのです。人間に害を与えるような使い方で、これらの技術を導入するのは非常に危険です。」</strong></p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/21.jpg" alt=""></div>
+</div>
+
+                    </div>
+                </div>
+                    <div class="bodyText">
+                    <h2 class="bodyTitle">ＡＩの進化と新型コロナと…可能性と限界</h2>
+                    <div class="vtr">
+                        <p><strong>小山：</strong>日本国内でも広がる顔認証技術。今、ご紹介したもののほかにも、空港の出入国審査、それから東京オリンピック・パラリンピックの選手や関係者用のゲートでの、本人確認にも導入される予定となっています。世界的に市場規模も拡大しています。２０２４年までの５年間で、２倍以上の規模に成長するという予測も出ているんです。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/22.jpg" alt=""></div>
+</div>
+
+<p><strong>武田：</strong>人間とＡＩの共生が専門の山田さん。かなり広がってきているようですけれども、私、いつもスマホの顔認証にすごく苦労してまして、マスクを着けていると、なかなか開けないんですよ。ちょっと前の指紋認証のほうが便利だったんじゃないかとも思うんですけれども。なぜ今、顔認証がこれだけ広がっているんでしょうか？</p>
+<div class="guest">
+<span style="font-weight: bold; padding-right: 10px;">ゲスト</span>山田誠二さん （国立情報学研究所 教授）</div>
+<p><strong>山田さん：</strong>背景にあって一番大きいのは、先ほども出ましたけども、ディープラーニングと言われる、ＡＩの中でも、ＡＩが自分で学習する方法というのがここ十数年で飛躍的な進化を遂げていまして、その性能が上がったというのがあります。</p>
+<p><strong>武田：</strong>実用化に近づくことができたということですね。あとは、新型コロナウイルスの流行というのも後押ししてるということになるんですか？</p>
+<p><strong>山田さん：</strong>それは大きくあると思います。新型コロナウイルス接触で感染するということが言われていまして、ほかの人と指で同じものをさわって接触するということを避けるというのが、１つの理由です。</p>
+<p><strong>武田：</strong>指紋だと、やっぱりリスクがあるということですよね。</p>
+<p><strong>山田さん：</strong>そうですね。べたっと何か、付いた油汚れが（他人に）また付くとか、そういうことになりますので。それからもう１つは、非接触で、体に直接触らずに顔を見せるだけで認証できますので、ユーザーにとっては非常に楽である、簡単であるということがあります。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/23.jpg" alt=""></div>
+</div>
+
+<p><strong>武田：</strong>まさに“顔パス”で行ける。</p>
+<p><strong>山田さん：</strong>まさにそうです、おっしゃるとおりですね。</p>
+<p><strong>武田：</strong>かなり精度も高まっているようですけれども、ただ、誤認逮捕というような問題も出てきているわけですね。精度がどんどんよくなれば、そういった問題は起きなくなるのか。あるいは根本的な技術的な限界があるのか、これはどうなんでしょうか？</p>
+<p><strong>山田さん：</strong>これはＡＩに限らず、あらゆる技術は、１００％間違わないということはあり得ないんですね。ですから、ある程度のエラーというのは必ず起こります。それが起こったときの社会的な影響、あるいは起こったときにどう対処すべきかということを考えつつ、ＡＩの導入というのは進めていかないといけないと思います。</p>
+<p><strong>武田：</strong>やっぱり得意不得意がある…。</p>
+<p><strong>山田さん：</strong>そうですね。得意なのは空港の入出国の検査であるとか。その場合、照明の条件とかが非常に整っているので…。不得意なのは、犯罪捜査ではいろいろな角度とか、暗がり、物陰というところで顔を判定しなければいけないので、基本的に非常に難しい、不得意な分野であると言えますね。</p>
+<p><strong>小山：</strong>日本国内で行われたアンケート調査でも、不安の声が上がっています。６割以上の人が、この顔認証技術によるサービスの利用には抵抗があると回答しました。その主な理由が、「自分の画像・動画がどのように利用されるか分からない」「個人情報の流出が心配」。プライバシーの侵害を危惧しているということなんですね。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/24.jpg" alt=""></div>
+</div>
+
+<p>アメリカでは、すでにこうした懸念が現実のものになりつつあります。</p>
+                    </div>
+                </div>
+                    <div class="bodyText">
+                    <h2 class="bodyTitle">顔データが同意なく収集されるケースも</h2>
+                    <div class="vtr">
+                        <p>アメリカでは今、顔写真のデータが本人の同意なく収集されている実態が明らかになっています。<br>
+去年８月、フロリダ州の銀行に設置された、防犯カメラが捉えたこの人物。事件の容疑者の可能性があるとして、警察は、あるＩＴ企業の顔認証システムを使い、本人を特定しました。ところがこのシステムでは、本人がＳＮＳに投稿していた写真を無断で利用していたことが明らかになりました。このＩＴ企業がデータ照合のために蓄積してきた画像の数は、ＦＢＩの７倍にも及ぶ３０億枚。その多くが、本人の知らない間にネット上で収集されていたのです。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/25.jpg" alt=""></div>
+</div>
+
+<p>この実態を明らかにしたＮＰＯの研究員です。アメリカのほとんどの州で取り締まる法律がなく、規制が不十分だと指摘します。</p>
+<p><strong>オープン・ザ・ガバメント研究員　フレディ・マルティネスさん<br>
+「一切の規制もなしにこの技術が使われれば社会がどうなるのか、大きな懸念があります。我々は連邦政府に対し、技術の使用を停止するよう求めています。」</strong></p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/26.jpg" alt=""></div>
+</div>
+
+                    </div>
+                </div>
+                    <div class="bodyText">
+                    <h2 class="bodyTitle">プライバシー保護とどう両立？</h2>
+                    <div class="vtr">
+                        <p>こうした課題にどう向き合うのか。顔認証技術の普及を狙う日本のＮＥＣは、２年前、思い切った組織改革を行いました。技術の利用拡大に向かいがちな、開発や営業などの部門に対し、プライバシーや倫理の観点から助言する専門組織を設立したのです。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/27.jpg" alt=""></div>
+</div>
+
+<p><strong>ＮＥＣデジタルトラスト推進本部　野口誠本部長<br>
+「技術だけでもだめですし、法令や規制だけでもだめですし。社会に受容されるかどうか。何の説明もなく（顔のデータが）使われるという側面はあってはならない。」</strong></p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/28.jpg" alt=""></div>
+</div>
+
+<p>この日は、ある民間企業で実証実験をする予定の顔認証ゲートについて、専門組織のトップを交えて意見を交わしました。</p>
+<p><strong>「懸念事項があれば、（助言を）いただけると助かります。」</strong></p>
+<p><strong>野口誠本部長<br>
+「不同意といいますか、顔認証を好まないお客様がいた場合に、どう対応してご入場いただくか。」</strong></p>
+<p>専門組織が指摘したのは、顔データを収集されたくないという人への配慮。同意しない人のために、顔認証を使わないゲートを別に用意する方針を確認しました。</p>
+<p><strong>ＮＥＣ 顔認証事業を率いる 吉崎敏文執行役員<br>
+「技術の利便性よりも、お客様のリスクの方が高いんじゃないかと判断して、『これはビジネス的に進めるのをやめよう』と決めたこともあります。重要なプロセスのチェックポイントだと思います。」</strong></p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/29.jpg" alt=""></div>
+</div>
+
+                    </div>
+                </div>
+                    <div class="bodyText">
+                    <h2 class="bodyTitle">どう守る？顔のプライバシー</h2>
+                    <div class="vtr">
+                        <p><strong>小山：</strong>この顔認証技術の法規制はどうなっているんでしょうか。欧米では今、利用を制限するという動きが進んでいます。<br>
+イギリスでは、警察が捜査に利用することに、プライバシーの観点から「違法」とする判決が出されました。さらに、アメリカのオレゴン州ポートランド市では、民間企業にも、不特定多数の人が集まる公共の場で顔認証技術を利用することを禁止するという条例が、つい最近、可決されました。<br>
+日本はどうなっているのか。個人情報保護法に詳しい板倉陽一郎弁護士によりますと、データベース内の人物が特定できる顔写真や、顔の特徴を数値化したデータは個人情報保護法の適用対象になるということです。ですから、客観的に見て、その本人の権利や利益が侵害されるおそれがある場合は「利用停止請求」ができるということです。ただ、欧米のように顔認証技術の利用を制限するという法律や条例は日本にはありません。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/30.jpg" alt=""></div>
+</div>
+
+<p><strong>武田：</strong>顔認証を進化させるには、膨大な顔写真のデータというのが必要になるわけですよね。ただ、私たち一人一人にとっては、顔って常にさらしているものではありますけれども。そのデータを勝手に使われたくない。これも理解できます。これは、どういうふうに考え方を整理していけばいいのでしょうか？</p>
+<p><strong>山田さん：</strong>表情とか顔、画像自身がもう個人情報の対象となってきていますので、指紋とかＤＮＡとかと同じですね。「顔というのは自分の個人情報である」という意識を持つことが大事かなと思います。</p>
+<p><strong>武田：</strong>一人一人、顔は大事な情報なんだよと思っていないといけないということですね。<br>
+取材を進めていきますと、顔を認識する人物を特定するだけにとどまらず、表情を読み取って、さまざまな分野に活用しようという動きも広がっていました。</p>
+                    </div>
+                </div>
+                    <div class="bodyText">
+                    <h2 class="bodyTitle">授業で企業で…私たちの感情は読み取れる？</h2>
+                    <div class="vtr">
+                        <p>新型ウイルスの感染拡大により、授業のオンライン化を余儀なくされた、この専門学校。</p>
+<p><strong>東京リゾート＆スポーツ専門学校　後藤優子講師<br>
+「骨の成長について説明をしていきます。」</strong></p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/31.jpg" alt=""></div>
+</div>
+
+<p>生徒がどの程度理解しているか、把握しにくいという課題に直面していました。</p>
+<p><strong>東京リゾート＆スポーツ専門学校　後藤優子講師<br>
+「顔の見えない人に向かって話をするとなると、やはり表情で合ったりとかが想像がつかないので、非常にやりづらい。」</strong></p>
+<p>そこで導入したのが、生徒の集中度を計測するというシステムです。顔を認識する技術を基に、２７か所を抽出。正面を向いているかどうかを分析し、集中度を判定する仕組みです。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/32.jpg" alt=""></div>
+</div>
+
+<p>実際の計測は、生徒のパソコンにあるカメラを使って行われます。集中度は常に表示され、講師の側とも共有されます。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/33.jpg" alt=""></div>
+</div>
+
+<p><strong>「まず９分のところじゃない？」</strong></p>
+<p>集中度が下がった部分を特定し、その原因を検証。</p>
+<p><strong>後藤優子講師<br>
+「“クレアチンキナーゼ”という、あまり聞き慣れない言葉が出てくる部分で集中度がいったん落ちているんですね。」</strong></p>
+<p><strong>生徒<br>
+「（その言葉を）聞いたことなくて、わからなくなった。」</strong></p>
+<p>結果を、授業の改善につなげています。</p>
+<p><strong>後藤優子講師<br>
+「パソコン上でこうやって可視化されていくと、教員も随時反応を見ながら、早い段階での授業の作り方の修正が可能になってくると思います。」</strong></p>
+<p>一方の生徒は…。</p>
+<p><strong>生徒<br>
+「こんなに細かく測定できるんだなと、驚きました。やっぱりお家でやるぶんには、いかにサボれるかって、みんなある。集中度とか毎回（計測）するとなると、たぶん嫌だと思いますね。」</strong></p>
+<p>顔のデータを分析し、社員のメンタルチェックに活用する会社もあります。顔の振動を計測することで、心理状態を分析できるとするこの技術。ストレスや緊張の度合いなどが、１０項目で数値化されます。</p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/34.jpg" alt=""></div>
+</div>
+
+<p><strong>「ちょっと安定性が低い感じがする。」</strong></p>
+<p><strong>「自分が思っている自分と客観的に見た自分は違うところがある。そういうところもあるかなと捉えるようにはしています。」</strong></p>
+<p>導入のきっかけは、人による評価だけに頼ることの限界だったといいます。</p>
+<p><strong>京浜商事 営業部　黒崎修副部長<br>
+「ストレスチェックって企業であると思うんですけど、そこに疑問を持っていました。設問に答えていくパターンですので、大体自分で、こうつけたらこうだという結果がある程度見えてしまう。はたしてそれでいいのか。」</strong></p>
+<p>国内のおよそ５０社に広がるこの技術。しかし、心理学者からは科学的な根拠に欠けるという指摘も出ています。会社では、あくまでも人が判断を下す際、補助的に活用していくとしています。</p>
+<p>小山<br>
+「人対システムの結果って、何対何ぐらいで参考にしていますか？」</p>
+<p><strong>黒崎修副部長<br>
+「感覚でいうと９対１です、人が９。最終的には人が判断するという。ただ見えないところに、そういう傾向にあるんじゃないかというところを、すごくうちとしては重視している。１つの補助として。」</strong></p>
+<div class="layout">
+    <div class="layout__img--full"><img src="https://www.nhk.or.jp/gendai/articles/4463/images/35.jpg" alt=""></div>
+</div>
+
+                    </div>
+                </div>
+                    <div class="bodyText">
+                    <h2 class="bodyTitle">どこまで可能？感情分析</h2>
+                    <div class="vtr">
+                        <p><strong>武田：</strong>「顔で笑って心で泣いて」とも言うじゃないですか。表情ってなかなか複雑なものだと思うんですけれども、ＡＩにそれを学ばせて判断させるって、やっぱり難しいんじゃないですか？</p>
+<p><strong>山田さん：</strong>難しいですね。そもそも人間が、人の顔から感情を判断できるかというとなかなか怪しいところがありまして、そういうところで人工知能に学習させるには、正しい答えの付いているデータを、膨大なデータを与えなきゃいけないんですけど。</p>
+<p><strong>武田：</strong>こんな顔してるときには悲しいんだよ、笑っているんだよ、うれしいんだよとか、それを教え込まなきゃいけない。</p>
+<p><strong>山田さん：</strong>データを集めるだけではだめで、それに対して答えを与えてやらないとだめなんですね。そこが非常に人間でも難しいというのが１つあります。ですから、ＡＩで学習させるのは基本的に難しいものであるということになります。</p>
+                    </div>
+                </div>
+                    <!-- // 本文 -->
+
+
+                
+
+                <img src="http://bc.nhk.jp/gendai/kiroku/content/bc.gif?id=4463" style="width:0px; height:0px; margin:0px; padding:0px;">
+
+            </div>
+]]></description>
+			<pubDate>Tue, 29 Sep 2020 22:00:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
