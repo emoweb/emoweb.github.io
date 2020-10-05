@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>ユニットコム、デスクトップ向け第10世代Core搭載の15.6型ノート </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1280598.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1280/598/1.jpg"></div></div></div></div></div></div><p>　<a href="https://www.pc-koubou.jp/" class="n" target="_blank">株式会社ユニットコム</a>は、デスクトップ向けの第10世代Coreを搭載した15.6型ノートパソコン3モデルを発売した。</p><p>　「STYLE-15FH040-i3-UHES」は、CPUにCore i3-10100、メモリ8GB、ストレージに240GB SSD、1,920×1,080ドット表示対応15.6型非光沢液晶を搭載し、価格は79,178円。10月27日までは74,778円。</p><p>　「SOLUTION-15FH040-i5-UHES」は、上記からCPUをCore i5-10400、ストレージを480GBに強化し、価格は90,178円。</p><p>　「SENSE-15FH040-i7-UHEX」は、CPUにCore i7-10700、メモリ16GB、500GB NVMe SSDを搭載し、価格は114,378円。</p></div></div>]]></description>
-			<pubDate>Fri, 02 Oct 2020 16:54:53 +0900</pubDate>
-		</item>
-		<item>
 			<title>Google、動画と音声両方で環境音を低減する技術をiOS版YouTube Storiesに導入 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1280603.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1280/603/1_o.png"></div></div></div></div></div></div><p>　Googleは10月1日(現地時間)、動画と音声の両方を活用し、機械学習により環境音を低減、話者の話声を強調する「Looking to Listen」技術を、iOS版のYouTube Storiesに実装したと発表した。</p><p>　これは、動画に映っている話者の顔の画像と音声の両方を利用し、機械学習により周囲の不要な環境音を低減するもの。同社は同技術を論文として発表したさいに、デスクトップ環境においてリアルタイムの10倍の時間を要していたが、今回の実用化のさいには、リアルタイムの半分にまで短縮を実現した。</p><p>　具体的には、まず動画からスピーカーの顔を含むサムネイル画像を分離することだが、MediaPipe BlazeFaceおよびGPUによる高速推論を活用することで、わずか数ミリ秒で処理を実行させた。つぎに、サムネイルを個別に処理するモデル部を軽量化したMobileNet(v2)アーキテクチャに切り替え、顔から抽出した音声強調のために学習した視覚特徴を、1フレームあたり10msで出力。これにより、メモリフットプリントの削減を実現した。</p><p>　さらに、2次元畳み込みを、より少ないフィルタで分離可能なものに置き換えて、視聴覚モデルのパラメータ総数を削減、TensorFlow Liteを用いてさらなるモデル最適化を測った。最後に、Learn2Compressフレームワーク内でモデルを再実装し、ビルトインの量子化学習とQRNNサポートを活用した。</p><p>　これらによりモデルサイズを120MBから6MBに縮小した。YouTube Storiesの動画は15秒程度なので、録画終了後、数秒で処理結果が得られるようになったとしている。</p><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/KqnnEUMAEBQ?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div><span class="caption">YouTube Storiesにおける環境音低減の効果例</span></div></div></div></div></div></div>]]></description>
@@ -111,6 +105,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1280877.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1280/877/1.jpg"></div></div><span class="caption">Razer DeathAdder V2 Pro チャージングドックバンドル</span></div></div></div></div><p>　<a href="https://www2.razer.com/jp-jp/" class="n" target="_blank">Razer</a>は、無線ゲーミングマウス「DeathAdder V2 Pro」と充電ドック「Mouse Dock Chromaチャージングドック」のセット「Razer DeathAdder V2 Pro チャージングドックバンドル」を数量限定で10月30日に発売する。価格は17,254円。</p><p>　DeathAdder V2 Proは10月7日に発売になる予定のゲーミングマウスで、DeathAdderシリーズの形状を踏襲しながら、HyperSpeed Wireless、Bluetooth、有線での接続をサポート。センサー解像度は20,000dpi、読み取り速度は650ips、加速度が50G、ポーリングレートが125Hz/500Hz/1,000Hz。単体価格は15,980円。</p><p>　30日に発売されるセットでは、このマウスに加え、専用充電ドックが付属。本体底面の端子で充電を行なう。本体サイズは45.9×70.4×38.9mm(幅×奥行き×高さ)、重量は51g。ケーブル長は1.8m。</p></div></div>]]></description>
 			<pubDate>Mon, 05 Oct 2020 15:39:38 +0900</pubDate>
+		</item>
+		<item>
+			<title>ユニットコム、240Hz駆動/G-SYNC対応の17.3型ゲーミングノート </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1280946.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1280/946/01.jpg"></div></div><span class="caption">LEVEL-17FG103-i7-VWXX</span></div></div></div></div><p>　<a href="https://www.unitcom.co.jp/" class="n" target="_blank">株式会社ユニットコム</a>はiiyama PCブランドLEVEL∞より、17.3型ゲーミングノートパソコン「LEVEL-17FG103-i7-VWXX」を発売した。価格は329,978円。</p><p>　LEVEL-17FG103-i7-VWXXは、Core i7-10700とGeForce RTX 2080 SUPERを搭載した製品。ディスプレイには240Hz駆動/G-SYNC対応の17.3型フルHD(1,920×1,080ドット)非光沢液晶を採用する。</p><p>　そのほかの仕様は、16GBメモリ、500GB M.2 NVMe SSD、Windows 10 Homeなどを装備。</p><p>　インターフェイスは、Thunderbolt 3、USB 3.1 Type-C、USB 3.0×4(うち1基Type-C)、2.5Gigabit Ethernet、Wi-Fi 6、Bluetooth 5、HDMI、Mini DisplayPort×2、100万画素Webカメラ、SDカードスロット、音声入出力などを備える。</p><p>　本体サイズは約398×322×50.2mm(幅×奥行き×高さ)、重量は約4.67kg。バッテリ駆動時間は約3.9時間。</p></div></div>]]></description>
+			<pubDate>Mon, 05 Oct 2020 18:36:02 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
