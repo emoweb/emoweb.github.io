@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ドメインコントローラーを脅かす脆弱性「Zerologon」</title>
-			<link>https://blog.kaspersky.co.jp/cve-2020-1472-domain-controller-vulnerability/29235/</link>
-			<description><![CDATA[Netlogonプロトコルの脆弱性CVE-2020-1472（別名：Zerologon）は、ドメインコントローラーの乗っ取りを許す恐れがあります。]]></description>
-			<pubDate>Thu, 17 Sep 2020 01:00:09 +0000</pubDate>
-		</item>
-		<item>
 			<title>エンドツーエンド暗号化とは何か、なぜ必要か</title>
 			<link>https://blog.kaspersky.co.jp/what-is-end-to-end-encryption/29231/</link>
 			<description><![CDATA[エンドツーエンド暗号化とは何か。エンドツーエンド暗号化はどのように通信の秘密を守るのか。専門家でなくても分かるように説明します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/money-laundering-schemes/29300/</link>
 			<description><![CDATA[サイバー犯罪者が盗んだお金は、何段階もの手順を経てから犯罪者の懐に入ります。その複雑な過程を解説します。]]></description>
 			<pubDate>Fri, 02 Oct 2020 01:00:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>産業の未来は信頼できる産業データにあり</title>
+			<link>https://blog.kaspersky.co.jp/aprotech-chelyabinsk/29317/</link>
+			<description><![CDATA[当社が支援するベンチャーのAPROTECHが、IIoTの分野での、KasperskyOSの変わった使い方を発見しました。]]></description>
+			<pubDate>Mon, 05 Oct 2020 01:00:08 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
