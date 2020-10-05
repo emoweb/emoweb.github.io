@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>FRONTIER、排熱性にこだわったRyzen搭載パソコン </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1280469.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1280/469/1.png"></div></div><span class="caption">「GB」シリーズ</span></div></div></div></div><p>　<a href="https://www.frontier-direct.jp/" class="n" target="_blank">FRONTIER</a>は、排熱性にこだわったケースを採用したRyzen搭載デスクトップパソコン「GB」シリーズを発売した。</p><p>　前面と背面に大型ファンを搭載し、裏面配線や電源の隔離構造などにより、エアフローを向上させた。また、大型水冷クーラーもオプションで搭載可能としている。左側面パネルはヒンジ付きの強化ガラスとなっており、ビスレスで開閉が可能になっているなど、メンテナンス性にもこだわった。</p><p>　左側面にはRGB LEDラインによるライティングも備え、専用ソフトでカスタマイズ可能。さらに、BTOカスタマイズ時に本体色をブラックまたはホワイトの2色を選択できるようになっている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1280/469/2.png"></div></div><span class="caption">ホワイトも用意する</span></div></div></div></div><p>　基本モデルは、CPUにRyzen 5 3600、メモリ8GB、500GB NVMe SSD、1TB HDD、ビデオカードにGeForce GTX 1660 SUPER、OSにWindows 10 Home、850W 80PLUS Gold認証電源を搭載し、税別価格は124,800円。</p><p>　おすすめ構成Aは、上記からCPUをRyzen 7 3700X、メモリを16GB、ストレージを1TB NVMe SSD+2TB HDD、ビデオカードをGeForce RTX 3080に強化し、税別価格は224,800円。</p><p>　おすすめ構成Bは、AからCPUをRyzen 9 3900X、SSDをPCI Express 4.0対応品、ビデオカードをGeForce RTX 3090、電源を1,000Wに強化し、税別価格は349,800円。</p></div></div>]]></description>
-			<pubDate>Fri, 02 Oct 2020 12:14:43 +0900</pubDate>
-		</item>
-		<item>
 			<title>Google MeetにテキストベースのQ&amp;Aと投票機能 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1280564.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1280/564/1.png"></div></div><span class="caption">Q&amp;A機能</span></div></div></div></div><p>　Googleは、オンライン会議の「Meet」機能において、テキストベースのQ&amp;A機能と、投票機能実装すると発表した。10月8日より順次、Essentials、Business、Enterprise、Enterprise for Educationのユーザー向けに実装を行なう。</p><p>　Q&amp;A機能はテキストベースで主催者やモデレータに対して質問が行なえるもので、会議が終了すると、主催者はすべての質問が自動的にエクスポートされ電子メールで受信できるため、あとから未回答の質問へのフォローが可能。</p><p>　投票機能はその名のとおり、複数案に対してスムーズに集計が行なえるものとなっている。</p><p>　いずれの機能も、Basic、for Education、for nonprofitsのユーザーには提供されない。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1280/564/2.png"></div></div><span class="caption">投票機能</span></div></div></div></div></div></div>]]></description>
@@ -93,6 +87,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1280772.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1280/772/01.jpg"></div></div><span class="caption">G-GEARのミドルタワーケース採用モデル</span></div></div></div></div><p>　<a href="https://shop.tsukumo.co.jp/" class="n" target="_blank">TSUKUMOブランド</a>を展開する株式会社Project Whiteは3日、BTO対応ゲーミングPC「G-GEAR」シリーズのうち、Ryzen 7/5 CPU搭載の7機種について、カスタマイズオプションに「Ryzen 9 3900」を追加した。</p><p>　カスタマイズの対象機種は、いずれもミドルタワーを採用する「GA7A-E194/T」、「GA7A-F194/T」、「GA7A-W200/T」、「GA5A-G194/XT」、「GA7A-H194/XT」、「GA7A-X193/XT」、「GA5A-H202/XT」の7機種。前者の3機種はマザーボードに「ASUS PRIME B450-PLUS」、後者4機種は「ASRock X570 Steel Legend」をそれぞれ搭載している。対象機種ではこれまで、オプションとして選べるCPUは「Ryzen 7 3800XT」が上限だった。</p><p>　Ryzen 9 3900は、「Ryzen 9 3900X」からベースクロックと最大ブーストクロックを引き下げ、TDPを抑えたモデル。2019年9月よりOEM向けに展開してきたが、10月3日より一般向けの国内販売が始まった。</p></div></div>]]></description>
 			<pubDate>Mon, 05 Oct 2020 11:13:06 +0900</pubDate>
+		</item>
+		<item>
+			<title>NVIDIA GPUドライバに複数の脆弱性。最新版への更新を </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1280809.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1280/809/01.jpg"></div></div><span class="caption">写真はGeForce RTX 3080</span></div></div></div></div><p>　<a href="https://www.nvidia.com/" class="n" target="_blank">米NVIDIA</a>は2日(現地時間)、GeForceドライバに関する脆弱性情報を公開した。</p><p>　これによると、GeForce、Quadro/NVS、Teslaの各製品において、特権昇格やサービス拒否などを引き起こす4件の脆弱性が確認されている(CVE‑2020‑5979/5980/5981/5982)。Quadro/NVSおよびTeslaでは既存のドライバで対応済みだが、全GeForceおよび、Quadro/NVSでR455バージョンのドライバを使っている場合は、5日週に公開予定のドライバに更新する必要がある。</p><p>　また、サーバー向けの仮想GPUにも6件(CVE‑2020‑5983/5984/5985/5986/5987/5988)の脆弱性が確認されており、NVIDIA Enterprise Application Hubにて最新の更新を適用する必要がある。</p></div></div>]]></description>
+			<pubDate>Mon, 05 Oct 2020 12:51:54 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
