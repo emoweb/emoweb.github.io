@@ -5,24 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>NVIDIA GPUドライバに複数の脆弱性。最新版への更新を </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1280809.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1280/809/01.jpg"></div></div><span class="caption">写真はGeForce RTX 3080</span></div></div></div></div><p>　<a href="https://www.nvidia.com/" class="n" target="_blank">米NVIDIA</a>は2日(現地時間)、GeForceドライバに関する脆弱性情報を公開した。</p><p>　これによると、GeForce、Quadro/NVS、Teslaの各製品において、特権昇格やサービス拒否などを引き起こす4件の脆弱性が確認されている(CVE‑2020‑5979/5980/5981/5982)。Quadro/NVSおよびTeslaでは既存のドライバで対応済みだが、全GeForceおよび、Quadro/NVSでR455バージョンのドライバを使っている場合は、5日週に公開予定のドライバに更新する必要がある。</p><p>　また、サーバー向けの仮想GPUにも6件(CVE‑2020‑5983/5984/5985/5986/5987/5988)の脆弱性が確認されており、NVIDIA Enterprise Application Hubにて最新の更新を適用する必要がある。</p></div></div>]]></description>
-			<pubDate>Mon, 05 Oct 2020 12:51:54 +0900</pubDate>
-		</item>
-		<item>
-			<title>Googleマップ、ARで友人の位置が把握可能に </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1280811.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1280/811/1.jpg"></div></div></div></div></div></div><p>　Googleは1日(現地時間)、Googleマップに実装されている「ライブビュー」機能の強化を発表した。</p><p>　ライブビューはAR機能を使い、自分がどの方法に向いていて、目的地までどのぐらいの距離があるのか直感的にわかるようになる機能。</p><p>　今回、このライブビューに新たにランドマークが表示されるようになったので、より素早く目的地の方向や距離、周囲の状況が確認しやすくなった。また、経路検索においてもライブビューが使用可能になる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/watch/parts/icon/loading.png" class="resource" style="width:480px;" id="4.gif" ajax="/img/pcw/docs/1280/811/4.gif"></div></div><span class="caption">ライブビューのランドマーク表示</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/watch/parts/icon/loading.png" class="resource" style="width:480px;" id="3.gif" ajax="/img/pcw/docs/1280/811/3.gif"></div></div><span class="caption">経路検索におけるライブビュー</span></div></div></div></div><p>　友人などで待ち合わせ場所を共有する位置情報共有の機能でも、ライブビューに対応。友人が待ち合わせをしている場所を直感的に把握できるようになった。</p><p>　このほか、ローカライズを進めたことで、ピンの位置がより正確になったとしている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/watch/parts/icon/loading.png" class="resource" style="width:480px;" id="2.gif" ajax="/img/pcw/docs/1280/811/2.gif"></div></div><span class="caption">位置情報共有の機能におけるライブビュー</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/watch/parts/icon/loading.png" class="resource" style="width:480px;" id="5.jpg" ajax="/img/pcw/docs/1280/811/5.jpg"></div></div><span class="caption">より正確なピン位置</span></div></div></div></div><p>　ランドマーク機能と正確なピンについては、同機能は東京と大阪を含む25の都市で順次展開される。一方、経路検索と位置情報の共有におけるライブビューは、今後数週間のうちにAndroidとiOSアプリで実装される。</p></div></div>]]></description>
-			<pubDate>Mon, 05 Oct 2020 13:18:45 +0900</pubDate>
-		</item>
-		<item>
-			<title>「Flight Simulator」のVR版がクローズドベータ開始 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1280827.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1280/827/1_o.jpg"></div></div></div></div></div></div><p>　Microsoftは、フライトシミュレーションゲーム「Flight Simulator」のVR版のクローズドベータテスターを募っている。</p><p>　Flight Simulator VRでは“信じられないほど”の没入体験を実現するという。今回のクローズドベータは2フェーズにわかれており、最初のフェーズではWindows Mixed Realityデバイス、第2フェーズではそのほかのデバイスでも実施。テスターからのフィードバックを募る。</p><p>　テストに参加するためには、Flight Simulatorを所持している必要があるほか、VRヘッドセット(先述のWindows MRまたはその他)が必要。そのあとはインサイダーとして登録し、「DxDiag」の情報を提出。NDA(機密保持契約)にサインする必要も生じる。</p><p>　必要なハードウェア/ソフトウェア要件は、CPUがCore i5-8400/Ryzen 5 1500X以降、メモリが16GB、ストレージが150GB、ビデオカードがGeForce GTX 1080以降、OSがWindows 10 1909以降、5Mbpsの帯域幅をもつインターネット回線など。</p></div></div>]]></description>
-			<pubDate>Mon, 05 Oct 2020 13:21:36 +0900</pubDate>
-		</item>
-		<item>
 			<title>「Apex Legends」がクロスプラットフォーム対戦をサポートへ </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1280820.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1280/820/1_o.jpg"></div></div></div></div></div></div><p>　EAは、FPSゲーム「Apex Legends」にクロスプラットフォーム対戦機能「クロスプレイ」を実装すると発表した。現在、ベータテストを行なっており、フィードバックを募っている。</p><p>　対象はPlayStation 4、Xbox One、Originで、将来的にリリースされるSteam版も含まれる。この機能はデフォルトで有効となり、設定を手動で変更しなければ準備完了となる。ただ、Xbox Oneでは(本体の)システム設定で同様の設定項目を有効にしなければならない。</p><p>　なお、マウス/キーボード操作によりPC版のユーザーは基本的に有利であるため、コンシューマ機のプレイヤーがPC版ユーザーとプレイする場合は、PCサーバーでのプレイとなり、コンシューマ専用のサーバーにはPCユーザーは参加できない仕様となる。</p><p>　フレンドの追加やブロックなども、プラットフォーム問わず可能となり、ゲーム内ボイスチャットが利用可能。ただし現時点ではプラットフォームを越えたセーブデータの同期は行なえず、2020年中に予定されているSteam版ローンチ時に発表する予定。</p></div></div>]]></description>
@@ -111,6 +93,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1280949.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1280/949/1.jpg"></div></div><span class="caption">TMB311R-31-A14PG</span></div></div></div></div><p>　<a href="https://acerjapan.com/" class="n" target="_blank">日本エイサー株式会社</a>は、GIGAスクール構想における学習者用端末の標準仕様に準拠し、「Microsoft 365 Education GIGA Promo」ライセンスに対応したモデル「TMB311R-31-A14PG」を10月上旬に文教市場向けに発売する。価格はオープンプライス。</p><p>　Microsoft 365 Appsプリインストール済みのMicrosoft 365 Education GIGA Promo対応モデルとなっており、販売店での初期設定などの工数を減らし、スムーズな端末導入を実現(ライセンスは別途必要)。児童生徒1人1台端末の整備事業における、1台あたりの補助金で導入できる販売価格を想定している。</p><p>　OSにはWindows 10 Pro Educationを搭載するほか、マルチタッチ/360度回転対応の11.6型液晶を備え、タブレットのように利用可能。カバー付き前面カメラに加え、背面カメラを備える。1回の充電で最大12時間の連続駆動が可能。このほか、抗菌仕様のCorning Gorilla Glass、米軍調達基準MIL-SDT 810G準拠の堅牢性も特徴。</p><p>　おもな仕様は、CPUにCeleron N4020(1.1GHz、ビデオ機能内蔵)、メモリ4GB、ストレージに64GB eMMC、1,366×768ドット表示対応11.6型液晶ディスプレイ、OSにWindows 10 Pro Educationなどを搭載する。</p><p>　インターフェイスは、USB 3.0×3(うち1基はType-C)、Gigabit Ethernet、HDMI出力、Gigabit Ethernet、IEEE 802.11ac対応無線LAN、Bluetooht 5.0、microSDカードリーダ、720p対応前面/500万画素背面カメラ、音声入出力などを備える。</p><p>　本体サイズは295×212×20.95mm(幅×奥行き×高さ)、重量は約1.46kg。</p></div></div>]]></description>
 			<pubDate>Tue, 06 Oct 2020 12:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>ロジクール、無線接続の両利き対応マウス/静音キーボード </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1281035.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1281/035/01.jpg"></div></div><span class="caption">MK295(ブルー)</span></div></div></div></div><p>　<a href="https://www.logicool.co.jp/ja-jp" class="n" target="_blank">株式会社ロジクール</a>は、無線マウス「M190」、無線キーボード「K295」およびマウスとキーボードのセット「MK295」を10月22日より発売する。価格はオープンプライスで、直販価格は順に1,650円、2,970円、3,740円。</p></div><div><h3 class="hdg-03"><span>M190</span></h3><p>　M190は、左右対称のデザインで両利き対応の2.4GHz無線マウス。左右ボタンには指を置けるくぼみを備える。光学センサーを搭載し、解像度は1,000dpi。単3型乾電池で駆動し、電池寿命は最大18カ月。</p><p>　本体色はブルー/レッド/ブラック/グレーの4種類。サイズは66.1×115.4×40.3mm(幅×奥行き×高さ)、重量は89.9g。</p></div><div><h3 class="hdg-03"><span>K295</span></h3><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1281/035/02.jpg"></div></div><span class="caption">K295(グラファイト)</span></div></div></div></div><p>　K295は、独自のSilentTouchテクノロジーにより、静音性を高めた2.4GHz無線キーボード。耐水設計を採用するほか、上部にはメディアコントロールなど8つのショートカットキーも備える。</p><p>　キースイッチはメンブレン式で、ストロークが3.2mm、キーピッチが19mm、押下圧が60g、配列が日本語。単4型乾電池2本で駆動し、電池寿命は最大24カ月。</p><p>　本体色はグラファイト/オフホワイトの2種類。本体サイズは441×149×18mm(同)、重量は498g。</p></div><div><h3 class="hdg-03"><span>MK295</span></h3><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1281/035/03.jpg"></div></div><span class="caption">MK295(オフホワイト)</span></div></div></div></div><p>　K295は、2.4GHz無線接続の光学式静音マウスが付属したセット製品。本体色はグラファイト/オフホワイトの2種類を用意する。</p><p>　マウスは単3型乾電池1本で駆動し、サイズは60×99×39mm(同)、重量は75.2g。</p></div></div>]]></description>
+			<pubDate>Tue, 06 Oct 2020 12:04:59 +0900</pubDate>
+		</item>
+		<item>
+			<title>Chrome OSでCPU負荷が100%になる不具合の原因が判明 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1281052.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1281/052/01.jpg"></div></div></div></div></div></div><p>　Chrome OSを搭載する一部デバイスにおいてCPUが高負荷になってしまう不具合(<a href="https://pc.watch.impress.co.jp/docs/news/1279495.html">別記事</a>参照)について、Googleより修正が公開された。</p><p>　「com.android.vending:download_service」プロセスのCPU使用率が100%に近い状態が続いてしまうもので、9月末頃に一部のユーザーから報告が上がっていた。影響を受けるデバイスに対して修正は順次適用されていく予定だが、Google Play Storeアプリを一度無効化し、再度有効化することでも問題を解消できるとしている。</p></div></div>]]></description>
+			<pubDate>Tue, 06 Oct 2020 12:30:23 +0900</pubDate>
+		</item>
+		<item>
+			<title>菱洋エレクトロ、メモリ2GB版Jetson Nanoを6,820円で国内販売 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1281051.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1281/051/1.jpg"></div></div></div></div></div></div><p>　<a href="https://www.ryoyo.co.jp/" class="n" target="_blank">菱洋エレクトロ株式会社</a>は、メモリ2GB版のエッジAI向け開発プラットフォーム「Jetson Nano 2GB 開発者キット」を販売開始した。直販価格は6,820円。出荷は10月中旬より順次。</p><p>　Jetson Nanoは2019年3月に発売された、エッジAI開発向けのプラットフォーム。メモリ4GBを搭載し、当時の価格は税別12,800円であった(現在は税込み12,540円)。</p><p>　今回のモデルは、メモリを2GBに半減することで、AI開発作業に必要な性能はそのままに、価格を大幅に削減し、手の届きやすい価格帯を実現した。</p><p>　CPUはCortex-A57×4、GPUはMaxwellアーキテクチャで、CUDAコア数は128基。メモリはLPDDR4。最大4K/30fps対応のエンコーダと、最大4K/60fps対応のビデオデコーダを備える。本体サイズは100×80×29mm(幅×奥行き×高さ)。ストレージはmicroSD。</p></div></div>]]></description>
+			<pubDate>Tue, 06 Oct 2020 12:32:14 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
