@@ -5,24 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Chrome OSでCPU負荷が100%になる不具合の原因が判明 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1281052.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1281/052/01.jpg"></div></div></div></div></div></div><p>　Chrome OSを搭載する一部デバイスにおいてCPUが高負荷になってしまう不具合(<a href="https://pc.watch.impress.co.jp/docs/news/1279495.html">別記事</a>参照)について、Googleより修正が公開された。</p><p>　「com.android.vending:download_service」プロセスのCPU使用率が100%に近い状態が続いてしまうもので、9月末頃に一部のユーザーから報告が上がっていた。影響を受けるデバイスに対して修正は順次適用されていく予定だが、Google Play Storeアプリを一度無効化し、再度有効化することでも問題を解消できるとしている。</p></div></div>]]></description>
-			<pubDate>Tue, 06 Oct 2020 12:30:23 +0900</pubDate>
-		</item>
-		<item>
-			<title>菱洋エレクトロ、メモリ2GB版Jetson Nanoを6,820円で国内販売 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1281051.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1281/051/1.jpg"></div></div></div></div></div></div><p>　<a href="https://www.ryoyo.co.jp/" class="n" target="_blank">菱洋エレクトロ株式会社</a>は、メモリ2GB版のエッジAI向け開発プラットフォーム「Jetson Nano 2GB 開発者キット」を販売開始した。直販価格は6,820円。出荷は10月中旬より順次。</p><p>　Jetson Nanoは2019年3月に発売された、エッジAI開発向けのプラットフォーム。メモリ4GBを搭載し、当時の価格は税別12,800円であった(現在は税込み12,540円)。</p><p>　今回のモデルは、メモリを2GBに半減することで、AI開発作業に必要な性能はそのままに、価格を大幅に削減し、手の届きやすい価格帯を実現した。</p><p>　CPUはCortex-A57×4、GPUはMaxwellアーキテクチャで、CUDAコア数は128基。メモリはLPDDR4。最大4K/30fps対応のエンコーダと、最大4K/60fps対応のビデオデコーダを備える。本体サイズは100×80×29mm(幅×奥行き×高さ)。ストレージはmicroSD。</p></div></div>]]></description>
-			<pubDate>Tue, 06 Oct 2020 12:32:14 +0900</pubDate>
-		</item>
-		<item>
-			<title>Google、Samsoniteとコラボしたスマートバックパック </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1281084.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1281/084/01.jpg"></div></div><span class="caption">Konnect-i Backpack(左がSlim、右がStandard)</span></div></div></div></div><p>　米<a href="https://www.google.com/" class="n" target="_blank">Google</a>は5日(米国時間)、<a href="http://www.samsonite.com/" class="n" target="_blank">Samsonite</a>と共同開発したスマートバックパック「Konnect-i Backpack」を発表した。SlimとStandardの2種類を用意。日本のSamsoniteですでに購入可能で、価格はそれぞれ26,400円、27,500円。</p><p>　Konnect-i Backpackは、スマートフォンアプリと連携できる小型デバイス「Jacquard Tag」をサポートしたバックパック。Googleではこれまで、Levi'sやadidas、Saint Laurentなどと手を組み、靴やジャケット、バックパックなどのJacquard Tag対応製品を販売してきたが、ここに新たな製品が加わるかたちとなる。</p><p>　バックパックの左ストラップにJacquard Tagを装着すると、ストラップ部分でジェスチャー操作を行なったり、ライトや振動を通じて通知を受け取れる。連動できる機能は、Google Assistantやメディアコントロール、電話、道案内などとなっている。</p></div></div>]]></description>
-			<pubDate>Tue, 06 Oct 2020 13:45:14 +0900</pubDate>
-		</item>
-		<item>
 			<title>NVIDIA、ビデオ会議で顔の向きや視線の補正などを可能にする技術 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1281102.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1281/102/01.jpg"></div></div><span class="caption">(左)オリジナルの映像、(右)顔の向きを補正した映像</span></div></div></div></div><p>　米<a href="https://www.nvidia.com/" class="n" target="_blank">NVIDIA</a>は5日(現地時間)、ビデオ会議サービス向けのクラウドプラットフォーム「Maxine」を発表した。</p><p>　Maxineは、同社製GPUに搭載されているAI向け演算ユニットTensor Coreを活用した機能。クラウド上で実行され、パソコンやスマートフォンなどさまざまなデバイスに対してリアルタイムで機能が提供できる点が特徴となっている。</p><p>　AIを活用してビデオ会議ツールの品質向上を実現でき、低解像度の映像に対する超解像機能や音声のノイズ除去、リアルタイムの文字起こしや翻訳、H.264の10分の1の帯域幅で映像を伝送する圧縮技術などが利用できる。GANs(Generative Adversarial Networks、敵対的生成ネットワーク)を活用して、カメラに映った顔の向きや視線の補正も可能となっている。</p><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/eFK7Iy8enqM?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div><span class="caption">AI-Powered Video Conferencing with NVIDIA Maxine</span></div></div></div></div></div></div>]]></description>
@@ -105,6 +87,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1281300.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1281/300/01.jpg"></div></div></div></div></div></div><p>　ソニー・インタラクティブエンタテインメント(SIE)が2019年まで販売していたネットワークレコーダ「nasne」を、<a href="https://www.buffalo.jp/" class="n" target="_blank">株式会社バッファロー</a>が2021年春に継承、販売することが発表された。</p><p>　nasneは2012年に発売された、3波チューナとHDDを搭載したネットワークレコーダ。ユーザーも多く、販売終了後に継続販売を求める声が多かったことから、バッファローがSIEの協力のもと、再販していく。</p></div></div>]]></description>
 			<pubDate>Wed, 07 Oct 2020 11:34:55 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google、35の脆弱性を修正した「Chrome 86.0.4240.75」 ～Android版も更新、安定性/性能向上へ</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1281320.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1281/320/1.jpg"></div></div></div></div></div></div><p>　Googleは、Webブラウザ「Chrome 86」の安定版(86.0.4240.75)をWindows、Mac、Linux向けに配信開始した。今後数日～数週間かけて順次展開する。</p><p>　このバージョンでは、深刻を含む35種類におよぶ、外部から報告された脆弱性が修正されている。これらの多くの脆弱性は、AddressSanitizer、MemorySanitizer、UndefinedBehaviorSanitizer、Control Flow Integrity、libFuzzer、AFLなどのツールによって発見されている。</p><p>　同時に、Androidにおいて同じバージョンのモバイル版も配信。安定性と性能の向上が図られている。</p></div></div>]]></description>
+			<pubDate>Wed, 07 Oct 2020 12:07:48 +0900</pubDate>
+		</item>
+		<item>
+			<title>ASUS、Ryzen Mobile搭載の144Hz対応15.6型ゲーミングノート </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1281317.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1281/317/01.jpg"></div></div><span class="caption">TUF Gaming A15 FA506IH</span></div></div></div></div><p>　<a href="https://www.asus.com/jp/" class="n" target="_blank">ASUS JAPAN株式会社</a>は、15.6型ゲーミングノートパソコン「TUF Gaming A15」シリーズを発売した。「TUF Gaming A15 FA506IH」、「TUF Gaming A15 FA506IU」および「TUF Gaming A15 FA506IV」の3モデルを用意し、税別価格は順に95,273円、140,727円、149,818円。</p><p>　3モデルともに、第3世代Ryzen Mobileプロセッサと144Hz駆動の15.6型フルHD(1,920×1,080ドット)非光沢液晶を搭載した製品。米国国防総省が定める「MIL-STD-810H」規格準拠の試験をクリアし、衝撃や振動、高温/低温などに対する耐久性を確保する。</p><p>　デュアルファン設計により冷却性能を高め、長時間の高負荷作業も安定して行なえるとする。天板のヒンジ側を独自のVカットデザインとするほか、排気口にハニカムデザインを採用することで排気効率も向上させた。内部の埃を排出するアンチダストトンネルも備える。</p><p>　おもな仕様はTUF Gaming A15 FA506IHの場合、Ryzen 5 4600H、8GBメモリ、GeForce GTX 1650、512GB PCIe SSD、Windows 10 Homeを搭載。</p><p>　TUF Gaming A15 FA506IUの場合、Ryzen 9 4900H、16GBメモリ、GeForce GTX 1660 Ti、512GB PCIe SSD、Windows 10 Homeを搭載。</p><p>　TUF Gaming A15 FA506IVの場合、上記モデルからGPUをGeForce RTX 2060に強化する。</p><p>　インターフェイスは共通で、USB 3.1、USB 3.0×2、USB 2.0、Gigabit Ethernet、IEEE 802.11ac対応無線LAN、Bluetooth 5.0、HDMI、92万画素Webカメラ、音声入出力などを備える。</p><p>　本体サイズは359.8×256×22.8～24.9mm(幅×奥行き×高さ)、重量は約2.3kg。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1281/317/02.jpg"></div></div><span class="caption">TUF Gaming A15 FA506IU</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1281/317/03.jpg"></div></div><span class="caption">TUF Gaming A15 FA506IV</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Wed, 07 Oct 2020 12:21:33 +0900</pubDate>
+		</item>
+		<item>
+			<title>Webカメラとしても認識、単体録画も可能なHDMIキャプチャ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1281327.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1281/327/1.jpg"></div></div><span class="caption">GV-HDREC/B2</span></div></div></div></div><p>　<a href="https://www.iodata.jp/" class="n" target="_blank">株式会社アイ・オー・データ機器</a>は、HDMIデバイスをパソコンでWebカメラとして認識できるほか、パソコンなしで単体で録画も可能なHDMIキャプチャ「GV-HDREC/B2」を10月下旬に発売する。税別価格は18,700円。</p><p>　録画と配信の2つのモードを搭載したキャプチャ。録画の「通常モード」では、本体単体でSDカードへのHDMI映像の録画/再生が可能。講義で流しているスライドの資料を動画で保存したり、Web会議の動画議事録を残すといった用途に使える。録画解像度は最大1,920×1,080ドット/60fpsのMP4(H.264)。</p><p>　一方配信で使える「USBモード(UVC)」では、パソコンとUSBでつないで、HDMIデバイスからの出力をWebカメラ化でき、Web会議などで活用できるとしている。</p><p>　外観は既存の「<a href="https://www.iodata.jp/product/av/capture/gv-hdrec/" class="n" target="_blank">GV-HDREC</a>」をベースとし、機能的に「<a href="https://www.iodata.jp/product/av/capture/gv-huvcs/" class="n" target="_blank">GV-HUVC/S</a>」を加えたものとなっているが、GV-HUVC/Sと比較すると、フレームレートが60fpsから30fps、形式がYUY2からMotion JPEGになるといった違いがある。なお、GV-HDRECのファームウェアアップデートによる/B2化はできない。</p><p>　HDMIのほかRCA入力も可能。パソコンとの接続インターフェイスはUSB 2.0。本体サイズは約140×32×60mm(幅×奥行き×高さ)、重量は約160g。対応OSはWindows 8.1/10、およびmacOS 10.13～10.15。</p></div></div>]]></description>
+			<pubDate>Wed, 07 Oct 2020 12:41:56 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
