@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>本人確認、認証、承認はどう違う？</title>
-			<link>https://blog.kaspersky.co.jp/identification-authentication-authorization-difference/29254/</link>
-			<description><![CDATA[本人確認、認証、承認はどう違う？2段階認証が必要なのはなぜ？アライグマを使って説明します。]]></description>
-			<pubDate>Thu, 24 Sep 2020 01:00:07 +0000</pubDate>
-		</item>
-		<item>
 			<title>Linuxはどれくらい攻撃に強いのか</title>
 			<link>https://blog.kaspersky.co.jp/threats-targeting-linux/29222/</link>
 			<description><![CDATA[Linuxを標的とした高度な攻撃やAPT攻撃活動を当社のエキスパートが解析。セキュリティの推奨事項を紹介します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/hacker-hunter-healthcare-threat/29341/</link>
 			<description><![CDATA[コロナ禍において医療機関等へ向けられるサイバー攻撃の実態と、これに立ち向かう人々の姿を描く、Kasperskyオリジナルのドキュメンタリー。]]></description>
 			<pubDate>Fri, 09 Oct 2020 01:00:32 +0000</pubDate>
+		</item>
+		<item>
+			<title>MosaicRegressor：UEFIブートキットを通じてマルウェアを送り込む</title>
+			<link>https://blog.kaspersky.co.jp/mosaicregressor-uefi-malware/29347/</link>
+			<description><![CDATA[サイバー犯罪者は、Hacking Teamから漏洩したツールを運用する高度なフレームワークを攻撃に使用しています。]]></description>
+			<pubDate>Mon, 12 Oct 2020 01:00:48 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
