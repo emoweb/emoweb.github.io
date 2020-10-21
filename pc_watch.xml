@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>京大、アイヌ語の音声を自動認識/合成するAIを開発 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1284227.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/227/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.kyoto-u.ac.jp/" class="n" target="_blank">京都大学</a>は、アイヌ語の音声の自動認識・合成を行なう人工知能の開発に成功したと発表した。</p><p>　北海道のアイヌ文化によるアイヌ語は2009年にUNESCOにより極めて深刻な消滅危機言語に認定され、口頭伝承を録音・記録する活動が行なわれてきたが、膨大な手間と知識が必要なため、保存記録が進んでいなかった。</p><p>　京都大学の研究グループは、アイヌ民族博物館などから提供された約40時間の民話の音声データを使い、音声を分析。音節を単位としたディープラーニングに基づく解析によって、94％の音素認識率と80％の単語認識率を実現した。これにより、1時間のデータに対して、人手で1日を要する作業がほぼ完全に自動化できた。</p><p>　新しい話者の認識率が大きく低下する問題もあったが、日本語モデルの転移学習に加えて、学習データをその話者の声質に合わせて変換する仕組みを使い、音素認識率を90%まで高めることに成功した。</p><p>　今後はこのアイヌ語では初となる音声認識・合成システムを使い、アイヌ語の保存記録の効率化を進めるとともに、アイヌ語の伝承や学習など、幅広い場面での応用が期待されるとしている。</p></div></div>]]></description>
-			<pubDate>Wed, 21 Oct 2020 12:33:03 +0900</pubDate>
-		</item>
-		<item>
-			<title>Twitter、リツイート前にコメント入力を求める仕様に変更 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1284231.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/231/1.jpg"></div></div></div></div></div></div><p>　Twitterは、リツイートの仕様を変更し、リツイート前にコメント入力をいったん求めるかたちとした。本日より順次展開するとしているが、編集部の環境ではすでに適用されたことが確認できた。</p><p>　これは日本においても12日に予告されていたもので、リツイートボタンを押すと、即座にタイムラインに投稿される代わりに、自分のコメント入力を求める「引用ツイート」が表示されるようになった。</p><p>　これは(とくに米大統領選挙の開催に際して)、他者のコメントをそのまま拡散する前に、ユーザー自身の考えを添えて投稿することを推奨するための一時的な変更であり、少なくとも米大統領選挙の投票(11月3日)が行なわれる週まで、この仕様を継続する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/watch/parts/icon/loading.png" class="resource" style="width:480px;" id="01.gif" ajax="/img/pcw/docs/1284/231/01.gif"></div></div></div></div></div></div></div></div>]]></description>
-			<pubDate>Wed, 21 Oct 2020 12:40:08 +0900</pubDate>
-		</item>
-		<item>
 			<title>5件の脆弱性を修正したGoogle Chrome 86安定版 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1284238.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/238/1.jpg"></div></div></div></div></div></div><p>　米Googleは20日(現地時間)、Webブラウザ「Chrome」の最新版「86.0.4240.111」を配信開始した。Windows、Mac、Linux環境では、今後数日～数週間をかけて順次展開される。</p><p>　今回は、Blinkの不適切な実装、mediaとPDFium、printingにおけるUse after freeの脆弱性、Freetypeにおけるヒープバッファオーバーフローの脆弱性の5つが修正されている。</p></div></div>]]></description>
@@ -99,6 +87,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1284378.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/378/01.jpg"></div></div><span class="caption">Azure Modular Datacenter(MDC)</span></div></div></div></div><p>　米<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は、コンテナ型データセンター「Azure Modular Datacenter(MDC)」を発表した。</p><p>　MDCは、外部ネットワークに依存しない自己完結型データセンター。通信環境が悪い/存在しない場所など、クラウドコンピューティングが利用できない環境下において、大規模な計算リソースを提供する。</p><p>　コンテナ内にはコンピュートユニットやストレージなどを装備し、MDC上で低遅延なワークロードを実行できるだけでなく、クラウドへの移行も可能。コンテナは、電磁波シールドや温度、湿度などへの対策が施されており、過酷な環境下でも動作できる設計となっている。加えて、同日発表された新プラットフォーム「Azure Space」と連携し、プライマリ/バックアップ用ネットワークとして衛星通信も利用できる。</p><p>　MDCでは、コンテナごと輸送することで移動や展開が容易に行なえるため、移動型司令所や軍事ミッション、資源探索などに活用できるとしている。現時点では、一部の防衛および民間組織向けに早期提供されているという。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/378/02.jpg"></div></div><span class="caption">トレーラーに乗せられたMDC</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Wed, 21 Oct 2020 20:14:28 +0900</pubDate>
+		</item>
+		<item>
+			<title>Acer、Porsche Designの第11世代Core搭載ノートパソコン </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1284464.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/464/1.jpg"></div></div><span class="caption">Acer Book RS</span></div></div></div></div><p>　Acerは21日、グローバル向けの製品発表会「next@acer」を開催。このなかでPorsche Designとコラボしたノートパソコン「Acer Book RS」を発表した。</p><p>　同社は2005年に<a href="https://pc.watch.impress.co.jp/docs/2004/0907/acer.htm" class="n" target="_blank">「フェラーリ」と協業した「Ferrari F3400」</a>、2007年にBMWグループの<a href="https://pc.watch.impress.co.jp/docs/2007/0820/acer.htm" class="n" target="_blank">「DesignworksUSA」</a>と協業したノートパソコン「Aspire 5520」、「Aspire 5220」などを発表しているが、久々の自動車業界デザイン会社とのコラボは、Porsche Designとなった。</p><p>　Acerにしてはめずらしい直線的なデザインに加え、カーボンファイバーで天板を覆ったのが特徴。重量は1.2kg、厚さは15.99mmとなっており、IntelのEVOプラットフォームに準拠する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/464/2.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/464/3.jpg"></div></div></div></div></div></div><p>　CPUは第11世代Core i5で、ディスクリートGPUにGeForce MX350、液晶に14型IPSフルHD/タッチ対応パネルを搭載。デュアルヒートパイプによる冷却機構、最大1TBのPCI Express SSDの搭載なども特徴。バッテリ駆動時間は17時間で、約30分の急速充電で4時間使用可能。</p><p>　インターフェイスはUSB Type-C、Thunderbolt 4、USB 3.1、Wi-Fi 6、Bluetooth 5.1、HDMI出力などを備える。指紋センサーによるログインに対応するほか、モダンスタンバイに対応し、音声で起動可能。</p><p>　アクセサリとして、マウス「Porsche Design Acer Mouse RS」、スリーブケース「Porsche Design Acer Travel Pack RS」が用意される。</p></div></div>]]></description>
+			<pubDate>Wed, 21 Oct 2020 23:16:08 +0900</pubDate>
+		</item>
+		<item>
+			<title>Acer、IntelのディスクリートGPU「Iris Xe MAX」搭載ノート </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1284465.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/465/1.jpg"></div></div><span class="caption">Swift 3X</span></div></div></div></div><p>　台湾Acerは21日(現地時間)、グローバル新製品発表会「next@acer」を開催し、このなかでIntelのディスクリートGPU「Iris Xe MAX」を搭載したノートパソコン「Swift 3X」を発表した。</p><p>　第11世代Core i7プロセッサに加え、Xeアーキテクチャを採用したIntel製GPU「Iris X MAX」を搭載。フルHD対応の14型IPSパネルを搭載し、重量を1.37kgに抑えた。バッテリは58.7Whで、駆動時間は17.5時間。</p><p>　このほか、USB Type-C、Thunderbolt 4、USB 3.1、Wi-Fi 6、Bluetooth 5.1、指紋センサーの搭載などが明らかになっている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/465/2.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Wed, 21 Oct 2020 23:17:40 +0900</pubDate>
+		</item>
+		<item>
+			<title>Acer、「Snapdragon 8cx」搭載で29時間駆動の5G対応ノート </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1284467.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/467/1.jpg"></div></div><span class="caption">Spin 7</span></div></div></div></div><p>　台湾Acerは21日(現地時間)、グローバル新製品発表会「next@acer」を開催し、このなかで「Snapdragon 8cx」を採用した第2世代5Gコンピュートプラットフォーム準拠の2in1「Spin 7」を発表した。</p><p>　搭載OSはArm版Windowsとなっており、Sub 6GHz帯(ミリ波)による5G接続をサポート。また、最大29時間の連続駆動が可能となっている。Spinというブランドからわかるとおり、液晶が360度回転する2in1で、アクティブスタイラスによる手書き入力に対応する。</p><p>　発表会で披露されたものの、製品情報ページは公開されておらず、仕様などは謎に包まれたままだ。</p><p>　このほかnext@acerでは、Snapdragon 7cを搭載し4G接続に対応した13.3型Chromebook「Acer Chromebook Spin 513」、第10世代CoreとGeForce RTX/Quadro RTXを搭載したクリエイター向けノート「ConceptD 7」、「ConceptD 7 Pro」、アイケア技術搭載で170Hz/QHD対応ゲーミング液晶「Predator XB3」など、製品を多数発表した。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/467/2.jpg"></div></div><span class="caption">Acer Chromebook Spin 513</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/467/3.jpg"></div></div><span class="caption">ConceptD 7</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/467/4.jpg"></div></div><span class="caption">Predator XB</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Wed, 21 Oct 2020 23:49:27 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
