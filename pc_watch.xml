@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Raspberry Pi 4ベースの「Compute Module 4」発売 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1284210.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/210/1.jpg"></div></div></div></div></div></div><p>　英Raspberry Pi Foundationは19日(現地時間)、Raspberry Pi 4ベースの「Raspberry Pi Compute Module 4」を発売した。価格は25ドルから。</p><p>　SoCにはRaspberry Pi 4と同じ64bitクアッドコアの「BCM2711」(Cortex-A72 1.5GHz)を採用し、従来からCPUとGPUを高速化。GPUはH.265(4K/60Hz)とH.264(1080p/60Hz)のデコード、OpenGL ES 3.0をサポートする。</p><p>　さらに、メモリはLPDDR4-3200の1/2/4/8GBから選択可能となり、eMMCもオプションで8/16/32GBを搭載できる。IEEE 802.11ac対応の無線LANとBluetooth 5.0もオプションで提供する。</p><p>　インターフェイスとしては、28ピンのGPIO(最大でUART×6、I2C×6、SPI×5)、x1レーンのPCI Express 2.0、2ポートのHDMI、Gigabit Ethernetなどを備える。</p><p>　なお、従来のCompute ModuleはSO-DIMMスロットを流用するかたちだったが、新製品は基板対基板コネクタとなり、互換性がなくなっている。</p><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/myAAn-XiG-0?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div></div></div></div></div></div></div>]]></description>
-			<pubDate>Wed, 21 Oct 2020 12:12:14 +0900</pubDate>
-		</item>
-		<item>
 			<title>京大、アイヌ語の音声を自動認識/合成するAIを開発 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1284227.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/227/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.kyoto-u.ac.jp/" class="n" target="_blank">京都大学</a>は、アイヌ語の音声の自動認識・合成を行なう人工知能の開発に成功したと発表した。</p><p>　北海道のアイヌ文化によるアイヌ語は2009年にUNESCOにより極めて深刻な消滅危機言語に認定され、口頭伝承を録音・記録する活動が行なわれてきたが、膨大な手間と知識が必要なため、保存記録が進んでいなかった。</p><p>　京都大学の研究グループは、アイヌ民族博物館などから提供された約40時間の民話の音声データを使い、音声を分析。音節を単位としたディープラーニングに基づく解析によって、94％の音素認識率と80％の単語認識率を実現した。これにより、1時間のデータに対して、人手で1日を要する作業がほぼ完全に自動化できた。</p><p>　新しい話者の認識率が大きく低下する問題もあったが、日本語モデルの転移学習に加えて、学習データをその話者の声質に合わせて変換する仕組みを使い、音素認識率を90%まで高めることに成功した。</p><p>　今後はこのアイヌ語では初となる音声認識・合成システムを使い、アイヌ語の保存記録の効率化を進めるとともに、アイヌ語の伝承や学習など、幅広い場面での応用が期待されるとしている。</p></div></div>]]></description>
@@ -99,6 +93,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1284403.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/403/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.adobe.com/jp/" class="n" target="_blank">アドビ株式会社</a>は、スマートフォン向けカメラアプリ「Adobe Photoshop Camera」で、来年1月23日に劇場公開予定の映画「シン・エヴァンゲリオン劇場版」とコラボレーションしたレンズを期間限定でリリースした。</p><p>　今回のコラボレーションでは、期間限定レンズを計2回提供予定。第一弾のレンズは風景を利用するもので、本日より提供開始している。第二弾は人物を対象としたレンズとなっており、11月初旬にリリース予定。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/403/02.png"></div></div><span class="caption">レンズを使った作例</span></div></div></div></div><p>　今回公開された「エヴァンゲリオン01」のレンズを使うと、空のある風景を撮影するさい、エヴァンゲリオンに登場する初号機、第6の使徒、Mark.06が風景の中に現れる。シチュエーションによって昼間の撮影でも夜の風景になり、初号機などのキャラクターは移動・拡大縮小が可能で、第6の使徒ならびにMark.06のレンズには作中の様子を想像させるアニメーションが適用されている。</p></div></div>]]></description>
 			<pubDate>Wed, 21 Oct 2020 19:30:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>Microsoft、僻地でも使えるコンテナ型データセンターを提供開始 ～移動型司令所や軍事ミッションなどの用途を想定</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1284378.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/378/01.jpg"></div></div><span class="caption">Azure Modular Datacenter(MDC)</span></div></div></div></div><p>　米<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は、コンテナ型データセンター「Azure Modular Datacenter(MDC)」を発表した。</p><p>　MDCは、外部ネットワークに依存しない自己完結型データセンター。通信環境が悪い/存在しない場所など、クラウドコンピューティングが利用できない環境下において、大規模な計算リソースを提供する。</p><p>　コンテナ内にはコンピュートユニットやストレージなどを装備し、MDC上で低遅延なワークロードを実行できるだけでなく、クラウドへの移行も可能。コンテナは、電磁波シールドや温度、湿度などへの対策が施されており、過酷な環境下でも動作できる設計となっている。加えて、同日発表された新プラットフォーム「Azure Space」と連携し、プライマリ/バックアップ用ネットワークとして衛星通信も利用できる。</p><p>　MDCでは、コンテナごと輸送することで移動や展開が容易に行なえるため、移動型司令所や軍事ミッション、資源探索などに活用できるとしている。現時点では、一部の防衛および民間組織向けに早期提供されているという。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/378/02.jpg"></div></div><span class="caption">トレーラーに乗せられたMDC</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Wed, 21 Oct 2020 20:14:28 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
