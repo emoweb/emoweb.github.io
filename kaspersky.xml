@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>安全な仮想通貨取引：入門編</title>
-			<link>https://blog.kaspersky.co.jp/safe-cryptotrading-for-dummies/29329/</link>
-			<description><![CDATA[仮想通貨に投資しようと決めた皆さまへ。初心者にありがちなミスを避け、資産を失わないためのヒントです。]]></description>
-			<pubDate>Thu, 08 Oct 2020 01:00:51 +0000</pubDate>
-		</item>
-		<item>
 			<title>ドキュメンタリー：COVID-19とサイバー犯罪</title>
 			<link>https://blog.kaspersky.co.jp/hacker-hunter-healthcare-threat/29341/</link>
 			<description><![CDATA[コロナ禍において医療機関等へ向けられるサイバー攻撃の実態と、これに立ち向かう人々の姿を描く、Kasperskyオリジナルのドキュメンタリー。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/nextcloud-scan-engine/29410/</link>
 			<description><![CDATA[業務環境の共有は、マルウェアの感染拡大を促進する可能性があります。このリスクに対応する当社のソリューションとは。]]></description>
 			<pubDate>Wed, 21 Oct 2020 01:00:16 +0000</pubDate>
+		</item>
+		<item>
+			<title>情報漏洩につながりかねない、Officeドキュメントの要素とは</title>
+			<link>https://blog.kaspersky.co.jp/how-to-leak-info-from-docs/29424/</link>
+			<description><![CDATA[外に出してはならない情報を扱うことがあるのなら、PDFファイル、Microsoft Office文書、クラウド上の文書の特徴を知っておくと役に立ちます。]]></description>
+			<pubDate>Thu, 22 Oct 2020 01:00:19 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
