@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>鬼滅の刃も友達と一緒に視聴。Amazonプライム・ビデオに新機能 〜最大100人までの同時視聴/チャット機能が追加</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1284404.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/404/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.amazon.co.jp/" class="n" target="_blank">Amazon.co.jp</a>は、Amazonプライム会員向けの新機能「Prime Videoウォッチパーティ」を公開した。利用にさいして追加料金は必要なく、現時点ではベータ版での提供となる。</p><p>　Prime Videoウォッチパーティは、複数人のユーザーで同時に1つの作品を見ながら、テキストチャットができる機能。同社傘下のゲーム配信プラットフォームTwitch向けに6月に実装された「ウォッチパーティ」と同等の機能がAmazon上で利用可能となったかたち。Prime VideoウォッチパーティではTwitchのアカウントは不要だが、Amazonプライム会員である必要がある。</p><p>　視聴したい作品のページからウォッチパーティのボタンをクリックすると、パーティの作成画面が出現。任意のハンドルネームを設定してパーティを作成すると、招待用のリンクが生成される。参加者はこのリンクを経由し、同様にハンドルネームを設定して入室する。再生やスキップなど、各種コントロールはホスト側で行なう。</p><p>　1つのパーティに参加可能な人数は最大100人まで。現時点ではデスクトップ用Webブラウザからのみ利用可能で、スマートフォンやタブレット、ストリーミングデバイス、ゲーム機などはサポートされていない。なお、海外のパーティに参加するにはホストの地域のAmazonプライムアカウントが必要となる。</p></div></div>]]></description>
-			<pubDate>Wed, 21 Oct 2020 19:20:14 +0900</pubDate>
-		</item>
-		<item>
-			<title>Adobeのカメラアプリ「Adobe Photoshop Camera」がエヴァンゲリオンと期間限定でコラボ </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1284403.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/403/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.adobe.com/jp/" class="n" target="_blank">アドビ株式会社</a>は、スマートフォン向けカメラアプリ「Adobe Photoshop Camera」で、来年1月23日に劇場公開予定の映画「シン・エヴァンゲリオン劇場版」とコラボレーションしたレンズを期間限定でリリースした。</p><p>　今回のコラボレーションでは、期間限定レンズを計2回提供予定。第一弾のレンズは風景を利用するもので、本日より提供開始している。第二弾は人物を対象としたレンズとなっており、11月初旬にリリース予定。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/403/02.png"></div></div><span class="caption">レンズを使った作例</span></div></div></div></div><p>　今回公開された「エヴァンゲリオン01」のレンズを使うと、空のある風景を撮影するさい、エヴァンゲリオンに登場する初号機、第6の使徒、Mark.06が風景の中に現れる。シチュエーションによって昼間の撮影でも夜の風景になり、初号機などのキャラクターは移動・拡大縮小が可能で、第6の使徒ならびにMark.06のレンズには作中の様子を想像させるアニメーションが適用されている。</p></div></div>]]></description>
-			<pubDate>Wed, 21 Oct 2020 19:30:09 +0900</pubDate>
-		</item>
-		<item>
 			<title>Microsoft、僻地でも使えるコンテナ型データセンターを提供開始 ～移動型司令所や軍事ミッションなどの用途を想定</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1284378.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/378/01.jpg"></div></div><span class="caption">Azure Modular Datacenter(MDC)</span></div></div></div></div><p>　米<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は、コンテナ型データセンター「Azure Modular Datacenter(MDC)」を発表した。</p><p>　MDCは、外部ネットワークに依存しない自己完結型データセンター。通信環境が悪い/存在しない場所など、クラウドコンピューティングが利用できない環境下において、大規模な計算リソースを提供する。</p><p>　コンテナ内にはコンピュートユニットやストレージなどを装備し、MDC上で低遅延なワークロードを実行できるだけでなく、クラウドへの移行も可能。コンテナは、電磁波シールドや温度、湿度などへの対策が施されており、過酷な環境下でも動作できる設計となっている。加えて、同日発表された新プラットフォーム「Azure Space」と連携し、プライマリ/バックアップ用ネットワークとして衛星通信も利用できる。</p><p>　MDCでは、コンテナごと輸送することで移動や展開が容易に行なえるため、移動型司令所や軍事ミッション、資源探索などに活用できるとしている。現時点では、一部の防衛および民間組織向けに早期提供されているという。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/378/02.jpg"></div></div><span class="caption">トレーラーに乗せられたMDC</span></div></div></div></div></div></div>]]></description>
@@ -111,6 +99,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1284552.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/552/01.jpg"></div></div><span class="caption">LIVA Q1D</span></div></div></div></div><p>　<a href="https://www.links.co.jp/" class="n" target="_blank">株式会社リンクスインターナショナル</a>は、ECS製の超小型パソコン「LIVA Q1D」を12月下旬より発売する。</p><p>　LIVA Q1Dは、74×74×34.6mm(幅×奥行き×高さ)の超小型筐体を採用した製品。小型ながら映像出力としてHDMI 2.0とDisplayPort 1.2ポートを1基ずつ装備し、デュアルディスプレイ環境も構築できる。</p><p>　おもな仕様は、Celeron N3350、4GBメモリ、64GB eMMCなどを搭載。OSはモデルにより、Windows 10 Pro/Windows 10 IoT Enterprise LTSC/非搭載の3タイプから選択できる。</p><p>　インターフェイスは、USB 3.0×2、USB 2.0、Gigabit Ethernet、IEEE 802.11ac対応無線LAN、Bluetooth 4.1、microSDカードスロットなどを備える。</p><p>　重量は約174g。</p></div></div>]]></description>
 			<pubDate>Thu, 22 Oct 2020 13:01:30 +0900</pubDate>
+		</item>
+		<item>
+			<title>【やじうまPC Watch】60GB以上のダイエット。パソコン版Fortniteのファイルサイズが大幅削減</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1284577.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/577/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.epicgames.com/" class="n" target="_blank">Epic Games</a>は21日(現地時間)、同社が開発するTPSゲーム「Fortnite」の最新バージョン「14.40」のパソコン版において、ファイルサイズの最適化を実施したと発表した。本バージョンはすでに配信が開始されている。</p><p>　バージョン14.40では、通常の不具合修正や要素の追加などに加え、パソコン版向けに最適化を実施。これにともない、パッチ自体のサイズは約27GBと普段のものより大きくなっている。</p><p>　一方、今回の最適化により、ゲーム本体のサイズを60GB以上削減。将来的なアップデートにおけるダウンロード容量を抑えたり、ゲームロード時間の短縮などが実現できるとしている。</p><p>　昨今のゲームでは、ファイルサイズが100GB近いタイトルも少なくなく、ダウンロードやインストール、アップデートに長い時間を要したり、複数のゲームをプレイしているとストレージが足りなくなってしまう場面もあるため、このような最適化はゲーマーにとって喜ばしいことだろう。</p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Please note the patch size will be larger than normal on PC (approx. 27 GB). This is to make optimizations on PC resulting in a massively reduced Fortnite file size (over 60 GB smaller), smaller downloads for future patches, and improved loading performance.</p>— Fortnite Status (@FortniteStatus)<a href="https://twitter.com/FortniteStatus/status/1318677841253453824?ref_src=twsrc%5Etfw">October 20, 2020</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div>]]></description>
+			<pubDate>Thu, 22 Oct 2020 14:31:49 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
