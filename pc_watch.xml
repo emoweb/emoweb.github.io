@@ -106,5 +106,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/948/1.jpg"></div></div></div></div></div></div><p>　株式会社ユニットコムは、Ice Lakeこと第10世代Coreを搭載した15.6型ノートパソコン3モデルを<a href="https://www.pc-koubou.jp/" class="n" target="_blank">パソコン工房</a>で発売した。</p><p>　狭額縁ディスプレイ採用のほか、USB PDによる充電に対応したことが特徴。上位モデルではCore i7-1065G7を搭載し、グラフィックス性能を大幅に向上させた。</p><p>　「STYLE-15FH054-i3-UCSS」は、CPUにCore i3-1005G1、メモリ8GB、480GB SSD、DVDスーパーマルチドライブ、1,920×1,080ドット表示対応15.6型非光沢液晶ディスプレイ、OSにWindows 10 Homeを搭載し、価格は6万8,178円。</p><p>　「SOLUTION-15FH054-i5-UCSS」は、上記からCPUをCore i5-1035G1に変更し、価格は7万6,978円。</p><p>　「STYLE-15FH054-i7-UPSX」は、CPUにCore i7-1065G7、メモリ16GB、500GB NVMe SSD、DVDスーパーマルチドライブ、1,920×1,080ドット表示対応15.6型非光沢液晶ディスプレイ、OSにWindows 10 Homeを搭載し、価格は9万5,678円。</p><p>　インターフェイスはSDカードリーダ、USB 3.1 Type-C、USB 3.0、USB 2.0×2、ミニD-Sub15ピン、HDMI出力、Wi-Fi 6、Bluetooth 5.1、Gigabit Ethernet、100万画素Webカメラ、音声入出力などを備える。</p><p>　バッテリ駆動時間は約4.8〜約3.8時間。本体サイズは約361×256×32mm(幅×奥行き×高さ)、重量は約2.06kg。</p></div></div>]]></description>
 			<pubDate>Fri, 23 Oct 2020 17:13:43 +0900</pubDate>
 		</item>
+		<item>
+			<title>Windows 10でOSを初期化できない問題。Microsoftが回避策を公開 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1284996.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/996/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は、Windows 10にて発生している、OSを初期化できない問題についての回避策を<a href="https://support.microsoft.com/en-us/help/4587249/there-was-a-problem-when-resetting-your-pc-no-changes-were-made-error" class="n" target="_blank">サポートページ</a>に公開した。</p><p>　この問題はWindows 10バージョン2004(May 2020 Update、20H1)の特定のパソコンで発生しており、「設定→回復」から「このPCを初期状態に戻す」を実行したさいにエラーメッセージが出て利用できないというもの。</p><p>　回避策として、コマンドプロンプトを管理者権限で実行し、以下のコマンドを入力。再起動後に実行するという方法が提示されている。</p><div><pre class="code-01"><code>dism /online /cleanup-image /restorehealth<br></code></pre></div></div></div>]]></description>
+			<pubDate>Fri, 23 Oct 2020 18:40:29 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
