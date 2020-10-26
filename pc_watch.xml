@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>NVIDIA、ShadowPlay関連など3件の脆弱性を修正したGeForce Experience用アップデート </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1284883.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/883/01.jpg"></div></div></div></div></div></div><p>　米<a href="http://www.nvidia.com/" class="n" target="_blank">NVIDIA</a>は22日(現地時間)、同社のユーティリティソフト「GeForce Experience」の脆弱性に関する情報を公開した。いずれについても、GeForce Experienceバージョン「3.20.5.70」未満のものが対象となっており、最新版で修正されている。</p><p>　報告された脆弱性は、NVIDIA Web Helper NodeJS Web Serverにおいて制御されていない検索パスがモジュール読み込みに利用できる脆弱性(CVE‑2020‑5977、CVSS v3.1に基づく評価スコアは8.2)、ShadowPlayにおけるローカルでの特権昇格などが行なえる脆弱性(CVE‑2020‑5990、同7.3)、およびnvcontainer.exeによってフォルダが作成されサービス運用妨害(DoS)などが可能な脆弱性(CVE‑2020‑5978、同3.2)の3つとなっている。</p></div></div>]]></description>
-			<pubDate>Fri, 23 Oct 2020 13:55:01 +0900</pubDate>
-		</item>
-		<item>
 			<title>Corsair、最大8TBのM.2 SSDを国内販売 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1284895.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1284/895/1.jpg"></div></div><span class="caption">MP400</span></div></div></div></div><p>　Corsairは、最大容量8TBのM.2 SSDを10月24日より順次発売する。価格はすべてオープンプライス。代理店は<a href="https://www.ask-corp.jp/" class="n" target="_blank">アスク</a>と<a href="https://www.links.co.jp/" class="n" target="_blank">リンクスインターナショナル</a>。</p><p>　容量ラインナップおよび店頭予想価格は、1TBモデルが1万7,800円前後、2TBモデルが3万4,800円前後、4TBモデルが7万7,800円前後、8TBモデルが17万9,800円前後の見込み。このうち8TBのみ11月中旬発売予定で、残りは10月24日に発売される。</p><p>　Phison製コントローラ「PS5012-E12S」コントローラと、3D QLC NANDフラッシュを採用する。リード速度は最大3,480MB/s、ライト速度は最大3,000MB/s(1TBは1,880MB/s)。QD32の4Kランダムリード/ライトIOPSは、4TB/8TBモデルが61万/71万、2TBが38万/56万、1TBモデルが19万/47万。</p><p>　なお、M.2フォームファクタで8TBのSSDが市販されたのは、米Sabrentの「Rocket Q」シリーズが初とみられるが、日本国内で8TBを実現したM.2 SSDは、本製品が初になるとみられる。</p></div></div>]]></description>
@@ -117,6 +111,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1285277.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1285/277/01.jpg"></div></div><span class="caption">PIVOT</span></div></div></div></div><p>　米<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は20日(現地時間)は、手首に装着する触覚フィードバックデバイス「PIVOT」を公開した。</p><p>　PIVOTは、Microsoft Researchの開発しているVR向け機器。手首側を軸に触覚ハンドルが手のひらに出入りすることで、物体を掴む・捕まえる・投げるといったコントロールを可能にする。ハンドルの軸にはモーターが内蔵され、ユーザーが握った状態で駆動させることで、VR空間で手に持った物体の重力や慣性、空気抵抗などが再現できる。</p><p>　加えてバイブレータも内蔵し、振動によるフィードバックも併用可能。既存のグローブ型などのデバイスと異なり、ユーザーの手のひらが自由になるのが特徴だとしており、両手に取りつけることで大きな物体を持ち上げるといったフィードバックも実現できる。</p><p>　デモ映像では、りんごを木から採ったり、容器を両手で抱えたりするだけでなく、容器自体を横に引っ張って伸ばしたり、うさぎを捕まえるといったVR内の動きにあわせて、PIVOTが動作する様子が確認できる。</p><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/kj3RdeJUJos?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div><span class="caption">Haptic PIVOT: On-Demand Handhelds in VR</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Mon, 26 Oct 2020 15:58:19 +0900</pubDate>
+		</item>
+		<item>
+			<title>HyperX、2ゾーンRGB LED内蔵のUSBマイク </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1285309.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1285/309/01.jpg"></div></div><span class="caption">QuadCast S</span></div></div></div></div><p>　<a href="https://www.kingston.com/" class="n" target="_blank">Kingston Technology</a>はゲーミングブランドの<a href="https://www.hyperxgaming.com/" class="n" target="_blank">HyperX</a>より、USB接続のマイク「QuadCast S」およびヘッドセット「Cloud Stinger S」を発売した。価格はそれぞれ2万1,300円と7,180円。</p><p>　QuadCast Sは、2ゾーンのRGB LEDイルミネーションに対応したUSB接続のエレクトレットコンデンサマイク。RGB LEDは専用ユーティリティソフトを通じてカスタムが可能なほか、マイクのミュート状態を示すステータスインジケータとしても利用できる。</p><p>　ステレオ/無指向性/単一指向性/双指向性の4種類の指向性が切り替えられるほか、ポップフィルタを内蔵し破裂音によるノイズを抑える。ショックマウントつきスタンドなども付属する。</p><p>　マイク部の周波数特性は20～20,000Hzで、感度は-36dB。接続インターフェイスはUSB Type-Cで、モニタリング用に3.5mmヘッドフォン出力も備える。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1285/309/02.jpg"></div></div><span class="caption">Cloud Stinger S</span></div></div></div></div><p>　Cloud Stinger Sは、Cloud Stingerシリーズにバーチャル7.1chサラウンド機能を追加したモデル。90度横回転するイヤーカップに加え、低反発クッションと合成皮革を使用したイヤーパッドを備える。</p><p>　ヘッドフォン部のおもな仕様は、周波数特性が18～23,000Hz、インピーダンスが32Ω、音圧が95.5dB。マイク部は単一指向性で、周波数特性が50～18,000Hz、感度が-40dB。</p></div></div>]]></description>
+			<pubDate>Mon, 26 Oct 2020 17:35:49 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
