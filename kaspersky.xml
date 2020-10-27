@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ドキュメンタリー：COVID-19とサイバー犯罪</title>
-			<link>https://blog.kaspersky.co.jp/hacker-hunter-healthcare-threat/29341/</link>
-			<description><![CDATA[コロナ禍において医療機関等へ向けられるサイバー攻撃の実態と、これに立ち向かう人々の姿を描く、Kasperskyオリジナルのドキュメンタリー。]]></description>
-			<pubDate>Fri, 09 Oct 2020 01:00:32 +0000</pubDate>
-		</item>
-		<item>
 			<title>MosaicRegressor：UEFIブートキットを通じてマルウェアを送り込む</title>
 			<link>https://blog.kaspersky.co.jp/mosaicregressor-uefi-malware/29347/</link>
 			<description><![CDATA[サイバー犯罪者は、Hacking Teamから漏洩したツールを運用する高度なフレームワークを攻撃に使用しています。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/how-to-leak-info-from-docs/29424/</link>
 			<description><![CDATA[外に出してはならない情報を扱うことがあるのなら、PDFファイル、Microsoft Office文書、クラウド上の文書の特徴を知っておくと役に立ちます。]]></description>
 			<pubDate>Thu, 22 Oct 2020 01:00:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>SNS、メッセンジャー、クラウド：従業員は使い、サイバー犯罪者は悪用する</title>
+			<link>https://blog.kaspersky.co.jp/social-networks-messengers-and-external-cloud-services/29450/</link>
+			<description><![CDATA[従業員が業務デバイスから利用することの多いWebサービスは、サイバー犯罪者によって悪用されることの多いWebサービスと重複しています。]]></description>
+			<pubDate>Tue, 27 Oct 2020 01:00:26 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
