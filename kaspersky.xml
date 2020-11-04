@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>MontysThree：サイバーの産業スパイ</title>
-			<link>https://blog.kaspersky.co.jp/montysthree-industrial-cyberspy/29387/</link>
-			<description><![CDATA[サイバー犯罪者は、マルウェアコードの隠蔽と産業関連データの探索に、ステガノグラフィーを使用しています。]]></description>
-			<pubDate>Fri, 16 Oct 2020 01:00:13 +0000</pubDate>
-		</item>
-		<item>
 			<title>大企業におけるイノベーション</title>
 			<link>https://blog.kaspersky.co.jp/tech-innovations-enterprise/29400/</link>
 			<description><![CDATA[大企業においてイノベーションはどのような役割を担っているのか、そして意思決定者たちはイノベーションの向かう先をどこに見ているのか。調査しました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/win-xp-source-code-leaked/29466/</link>
 			<description><![CDATA[今でも社内にWindows XPが稼働するデバイスがある場合、こうしたデバイスをいかにして保護できるでしょうか。]]></description>
 			<pubDate>Mon, 02 Nov 2020 01:00:25 +0000</pubDate>
+		</item>
+		<item>
+			<title>業務アプリケーションのパスワード</title>
+			<link>https://blog.kaspersky.co.jp/password-security-smb/28654/</link>
+			<description><![CDATA[多数の業務関連クラウドツールおよびサービスで、パスワードのスマートな取り扱いが求められています。]]></description>
+			<pubDate>Wed, 04 Nov 2020 01:00:46 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
