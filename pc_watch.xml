@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Micron、最大2TBの大容量ポータブルSSD </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1286658.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1286/658/01.jpg"></div></div><span class="caption">Crucial X6</span></div></div></div></div><p>　<a href="https://jp.micron.com/" class="n" target="_blank">マイクロンジャパン</a>はCrucialブランドより、ポータブルSSD「Crucial X6」を発売した。容量は1TBと2TBを用意し、価格はそれぞれ1万9,980円、3万6,800円。</p><p>　Crucial X6は、シーケンシャルリード速度で最大540MB/sを発揮するポータブルSSD。高さ2mからの落下のほか、衝撃、振動、高温、低温などに対する耐久性を備える。</p><p>　インターフェイスはUSB 3.1 Type-C。パソコンやスマートフォンなど加え、PS4やXbox Oneなどでも利用できる。</p><p>　本体サイズは69×11×64mm(幅×厚み×高さ)、重量は約42g。3年間の限定保証が付帯される。</p></div></div>]]></description>
-			<pubDate>Mon, 02 Nov 2020 12:47:13 +0900</pubDate>
-		</item>
-		<item>
 			<title>FRONTIER、容積約1.2LのComet Lake搭載小型パソコン </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1286646.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1286/646/1.png"></div></div><span class="caption">CDシリーズ(ディスプレイは別売)</span></div></div></div></div><p>　<a href="https://www.frontier-direct.jp" class="n" target="_blank">FRONTIER</a>は、容積が約1.2Lの筐体を採用した第10世代Core(Comet Lake)搭載小型パソコン「CD」シリーズを発売した。</p><p>　容積を抑えながらLGA1200版のComet Lakeを搭載し、一般的なデスクトップと同じ性能を発揮。カスタマイズ可能なCore i9-10900を搭載したさいには最大10コア/最高クロック5.2GHzとなる。</p><p>　一例として「基本モデル」は、CPUにCore i3-10100(GPU内蔵)、Intel H410チップセット、メモリ8GB、240GB SSD、OSにWindows 10 Homeなどを搭載し、税別価格は5万9,800円。</p><p>　インターフェイスはUSB 3.0×2(うち1基はType-C)、USB 2.0×4、Gigabit Ethernet、シリアルポート、ミニD-Sub15ピン、HDMI、DisplayPort、Wi-Fi 6、Bluetooth 5.0、音声入出力などを搭載する。</p><p>　電源は90W ACアダプタ。本体サイズは約178×188×36mm(幅×奥行き×高さ、横置き時、アンテナ含まず)。</p></div></div>]]></description>
@@ -111,6 +105,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1286957.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1286/957/1.jpg"></div></div><span class="caption">400-HUB089S</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/" class="n" target="_blank">サンワサプライ株式会社</a>は、机上台として使えるUSB Type-Cドッキングステーション「400-HUB089S」を発売した。価格は1万6,800円。</p><p>　USB Type-Cケーブル1本で、HDMI、ミニD-Sub15ピン(HDMIと排他)、SDカード、microSDカード、USB 3.0 Type-A×3、USB Type-C×2、音声入出力が利用可能になる製品。USB PDパススルー機能も備えており、最大100Wの給電が可能。</p><p>　本体はアルミ製で台状となっており、底面にノートやスマートフォンなどを収納できる。また、長さ600mmのUSB Type-Cケーブルを備えており、底面に収納可能。本体サイズは300×215×43mm(幅×奥行き×高さ)、重量は795g。</p></div></div>]]></description>
 			<pubDate>Wed, 04 Nov 2020 13:15:49 +0900</pubDate>
+		</item>
+		<item>
+			<title>3DMarkにGeForceとRadeonのレイトレ性能を比較できるテスト追加 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1286999.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1286/999/1_o.jpg"></div></div></div></div></div></div><p>　UL Benchmarksは2日(現地時間)、3Dベンチマークソフト「3DMark」に、レイトレーシング性能を比較するDiretcX Raytracingに関するフィーチャーテストを追加したと発表した。</p><p>　AMDは11月18日に新世代RDNA 2アーキテクチャを採用した「Radeon RX 6000」シリーズを投入し、GeForceだけが高性能リアルタイムレートレーシングを享受できる時代に一区切りをつける。このフィーチャーテストを用いれば、AMDとNVIDIAの最新GPUにおけるレイトレーシング性能を公平に比較できるという。</p><p>　このテストでは従来のレンダリング手法の代わりに、すべてのシーンがレイトレーシングにより1パスで描画される。テストの結果はレイトレーシングの性能に完全に依存するため、最新GPUのレイトレーシング専用ハードウェアの性能が測定できる。</p><p>　テストにおいて被写界深度効果をシミュレートするため、小さなランダムオフセットが視野内に展開される。フレームレートは、各ピクセルのトレースとシェーディングにかかった時間に左右され、サンプル数とともに画面に出力される。このサンプル数はユーザーが変更可能で、それによってビジュアルの変化や性能への影響を調査できる。レンダリング解像度は2,560×1,440ドット。</p><p>　テストでは、シーン内を自由に移動してスクリーンショットが撮影できるインタラクティブモードが含まれるほか、カメラのフォーカスポイントや絞りの調整なども変更可能。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1286/999/2_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1286/999/3_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Wed, 04 Nov 2020 14:59:27 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
