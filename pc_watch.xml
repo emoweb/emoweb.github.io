@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>ドコモ、指紋/顔認証対応の8型WUXGAタブレット「dtab Compact d-42A」 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1287523.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1287/523/01.jpg"></div></div><span class="caption">dtab Compact d-42A</span></div></div></div></div><p>　<a href="https://www.nttdocomo.co.jp/" class="n" target="_blank">株式会社NTTドコモ</a>は、8型Androidタブレット「dtab Compact d-42A」を発表した。本体色はネイビーとゴールドの2種類で、2020年冬の発売を予定している。</p><p>　dtab Compact d-42Aは、WUXGA(1,920×1,200ドット)の8型液晶ディスプレイを備えたレノボ製のタブレット。指紋および顔認証機能を搭載し、子供の指紋や顔を登録しておくと、ユーザーを識別してキッズモードが起動する機能も内蔵する。筐体はIP53の防塵・防滴設計とした。</p><p>　おもな仕様は、SoCがSnapdragon 665、メモリが4GB、ストレージが64GB、OSがAndroid 10。最大256GBまでのmicroSDカードにも対応する。カメラは背面が約800万画素/F2、前面が約500万画素/F2.2。SIMはeSIMを内蔵し、ネットワークは4Gおよび3Gをサポートする。</p><p>　インターフェイスはUSB Type-Cで、本体サイズは約122×8.3×198mm(幅×奥行き×高さ)、重量は約326g。バッテリ容量は5,000mAh。</p></div></div>]]></description>
-			<pubDate>Fri, 06 Nov 2020 13:16:53 +0900</pubDate>
-		</item>
-		<item>
 			<title>iOS 14.2リリース。AirPods充電最適化やバグ修正、セキュリティ更新など </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1287516.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1287/516/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.apple.com/" class="n" target="_blank">Apple</a>は5日(現地時間)、「iOS 14.2」および「iPadOS 14.2」を配信開始した。</p><p>　14.2には、100種類以上の新しい絵文字、8枚の新しい壁紙、LiDAR搭載モデルで近くにいる人の検出、新しいAirPlayコントロールといった機能が盛り込まれた。</p><p>　また、AirPodsのバッテリ充電を最適化し、フル充電された状態の時間を減らすことでバッテリの劣化速度を抑制する機能も実装される。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1287/516/2_o.jpg"></div></div></div></div></div></div><p>　このほか、カメラを起動したときにファインダーが黒く表示されることがある問題、「リマインダー」で過去の時間がデフォルトで設定されることがある問題、Netflixビデオ再生中に画面が黒くなることがある問題など、多数のバグが修正される。</p><p>　さらに、オーディオ周り、フォントパーサー、カーネルの脆弱性修正が含まれる。</p></div></div>]]></description>
@@ -111,6 +105,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1287717.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1287/717/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は、Windows 10のMay 2020 Update(20H1)および、最新のOctober 2020 Update(20H2)において、Thunderbolt接続のNVMe SSDを利用したさいに、ブルースクリーンが発生する不具合が起きていることを報告している。</p><p>　ブルースクリーンとともに、「DRIVER_VERIFIER_DMA_VIOLATION (e6) An illegal DMA operation was attempted by a driver being verified.」というメッセージが表示されるとのことで、Thunderboltポートを備えており、現在利用できるバージョンのstornvme.sysのドライバファイルを使用しているマシンが不具合の対象。アップデートパッチの提供は11月下旬予定で、現状回避策は示されていない。</p><p>　なお、現在はOSのバージョンが上がらないように、互換性維持のためのセーフガードが適用されているため、November 2019 Update(19H2)以前のWindows 10では、バージョンアップのためのアップデートが止められている。ただし、手動でのアップデートは行なえてしまうため、Media Creation Tool等を使わないように呼びかけている。</p></div></div>]]></description>
 			<pubDate>Sat, 07 Nov 2020 14:42:34 +0900</pubDate>
+		</item>
+		<item>
+			<title>「GPD WIN 3」予告。VAIO type UのようなスライダーUMPCへ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1287765.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1287/765/1_o.jpg"></div></div><span class="caption">GPD WIN 3(ドッキングステーション装着時)</span></div></div></div></div><p>　深センGPDは8日(現地時間)、公式WeChatアカウントにおいて次期ゲーミングUMPC「WIN 3」を予告した。</p><p>　初期のGPD WINおよびKaby Lake/Amber Lakeを搭載したWIN 2がいずれもクラムシェルであったのに対し、WIN 3は「VAIO type U」を彷彿とさせるスライダー式となり、キーボードを使わない場合、ニンテンドーSwitchのように操作できるようようになった。</p><p>　ちなみに競合とも言えるONE-NETBOOKは先立ってTiger Lakeを搭載した「OneGx Pro」を発表しているが、こちらは超低電圧版のYシリーズとも言えるCore i7-1160G7を搭載している。その一方でWIN 3ではUシリーズにあたるモデルを採用するといい、より高い性能を発揮できるという。</p><p>　Tiger Lake-YとTiger Lake-Uの具体的な違いはバスの転送速度で、前者はAtomと同じ2GT/sで従来のAmber Lakeよりも低いが、後者は4GT/sと2倍となっており、PCI Express接続のM.2 SSDの速度を十分に発揮できるとしている。</p><p>　さらにTiger Lake-Yはメモリクロックが2,666MHzに制限され、GPUもクロックがTiger Lake-Uと比較して低い。WIN 3ではこの性能のボトルネックから脱するため、Tiger Lake-Uを採用し、シングルCPUコア性能でCore i9-10900Kを超え、GPUもGeForce MX450相当になるという。</p><p>　このほかの特徴は以下のとおり。</p><ul class="list-01"><li>キーボードはホワイトLEDバックライト搭載。世界初のWindows 10搭載スライダーUMPC</li><li>デュアルヒートパイプ+タービンブレードファンによるサイド排気構造</li><li>デュアルバイブレーション、アルプス製3Dジョイスティック、スティック押下に対応</li><li>L2/R2はアナログボタンを初採用</li><li>AAC製リニアスピーカーを搭載</li><li>ABS合成樹脂による高硬度筐体</li><li>5.5型/268ppi H-IPSディスプレイ採用。ゴリラガラス5採用、DC調光</li><li>Thunderbolt 4対応、eGPU対応</li><li>PCI Express 4.0対応SSD搭載</li><li>最大160MB/sのmicroSDカードに対応</li><li>Wi-Fi 6、Bluetooth 5.0対応</li><li>ドッキングステーション対応</li><li>65W USB PD充電対応、満充電まで1.5時間</li></ul><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1287/765/2_o.jpg"></div></div><span class="caption">この写真のみ、右のアナログスティックの位置が異なるが、実機ではどうなるかは不明だ</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1287/765/3.jpg"></div></div><span class="caption">ニンテンドーSwitch Liteとの比較</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Sun, 08 Nov 2020 18:42:19 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
