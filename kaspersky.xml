@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>セキュリティの観点から見るコラボレーションツール</title>
-			<link>https://blog.kaspersky.co.jp/nextcloud-scan-engine/29410/</link>
-			<description><![CDATA[業務環境の共有は、マルウェアの感染拡大を促進する可能性があります。このリスクに対応する当社のソリューションとは。]]></description>
-			<pubDate>Wed, 21 Oct 2020 01:00:16 +0000</pubDate>
-		</item>
-		<item>
 			<title>情報漏洩につながりかねない、Officeドキュメントの要素とは</title>
 			<link>https://blog.kaspersky.co.jp/how-to-leak-info-from-docs/29424/</link>
 			<description><![CDATA[外に出してはならない情報を扱うことがあるのなら、PDFファイル、Microsoft Office文書、クラウド上の文書の特徴を知っておくと役に立ちます。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/open-tip-updated/29510/</link>
 			<description><![CDATA[セキュリティのエキスパートやアナリスト向けの無料ツール「Threat Intelligence Portal」が、アップデートされました。]]></description>
 			<pubDate>Fri, 06 Nov 2020 04:00:28 +0000</pubDate>
+		</item>
+		<item>
+			<title>中小企業を釣り上げる詐欺の手口</title>
+			<link>https://blog.kaspersky.co.jp/how-scammers-hook-smb/28694/</link>
+			<description><![CDATA[中小企業の社員を狙う、よくある攻撃の手口とは。]]></description>
+			<pubDate>Mon, 09 Nov 2020 01:00:53 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
