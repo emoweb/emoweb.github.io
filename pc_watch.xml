@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Windows 10 1903のサポートが12月8日で終了 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1287919.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1287/919/1.jpg"></div></div></div></div></div></div><p>　Microsoftは、Windows 10 1903のサポートが2020年12月8日で終了することを改めて注意喚起した。</p><p>　サポート終了に伴い、セキュリティアップデートが配信されなくなる。まだ1903を使っているユーザーはすみやかに最新バージョンへの更新を行なうよう促している。</p><p>　なお、この次のリリースとなる1909のサポート終了は2021年5月11日、2004のサポート終了は2021年12月14日、最新の20H2のサポート終了は2022年5月10日となっている。</p></div></div>]]></description>
-			<pubDate>Mon, 09 Nov 2020 15:07:37 +0900</pubDate>
-		</item>
-		<item>
-			<title>Windows 10の「スマホ同期」、複数のAndroidアプリが同時利用可能に </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1287927.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1287/927/1_o.png"></div></div></div></div></div></div><p>　Windows 10の「スマホ同期」機能において、Samsungの最新Galaxyシリーズと組み合わせた場合、Windows 10上から複数のモバイルアプリの同時起動/操作が可能になった。</p><p>　利用するためには、スマホ同期アプリのバージョンが「1.20102.132.0」以降、Samsungの「スマホ同期管理アプリ」アプリのバージョンが「1.20102.133.0」以降、「Link to Windows Service」のバージョンが2.1.05.2以降である必要があり、いずれもストアから更新可能。</p><p>　Windows 10もMay 2020 Update以降である必要があり、スマホとパソコンが同じWi-Fiネットワークにつながっていることが前提。</p><p>　対応機種は下記のとおり。</p><ul class="list-01"><li>Galaxy Note20 5 G</li><li>Galaxy Note20 Ultra 5G</li><li>Galaxy Z Fold2 5G</li><li>Galaxy Z Flip</li><li>Galaxy Z Flip 5G</li></ul><p>　下記の機種の場合、Samsung OneUI 3.0ベータプログラムに参加していて、Android 11を利用していれば利用可能。</p><ul class="list-01"><li>Galaxy S20 5G</li><li>Galaxy S20+ 5G</li><li>S20 Ultra 5G</li></ul><p>　これまでは、単一のアプリが利用可能だった。なお、ゲームなどの一部アプリでは対応できない可能性があるとしている。</p></div></div>]]></description>
-			<pubDate>Mon, 09 Nov 2020 15:14:05 +0900</pubDate>
-		</item>
-		<item>
 			<title>Microsoft TeamsがNDIに対応。配信利用の柔軟性が向上 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1287926.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1287/926/01.jpg"></div></div><span class="caption">OBS Studio上からMicrosoft Teamsの各種映像ソースがNDI経由で見える</span></div></div></div></div><p>　<a href="https://www.newtek.com/" class="n" target="_blank">NewTek</a>は、同社の映像伝送規格NDIがビデオ会議ツールのMicrosoft Teamsに統合されたと発表した。</p><p>　NDIは、IP経由で高品質かつ低遅延な映像・音声伝送が可能な技術。Microsoft Teamsとの統合により、ミーティング参加者や画面共有、Together Modeの映像ソースをNDI経由で出力でき、NewTekの各種ツールやOBS Studio(要プラグイン導入)などのNDI対応ソフトおよび機器からカメラソースとして利用できる。</p></div></div>]]></description>
@@ -123,6 +111,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1288224.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1288/224/01.jpg"></div></div></div></div></div></div><p>　<a href="http://www.fujitsu.com/jp/" class="n" target="_blank">株式会社富士通研究所</a>は、<a href="http://www.tmd.ac.jp/" class="n" target="_blank">東京医科歯科大学</a>と共同で、富士通のスーパーコンピュータ「富岳」を利用し、発がんに関連している可能性の高い遺伝子間の影響関係を表すネットワークの推定、および同研究所のAI技術「Deep Tensor」を用いたがんの浸潤や転移との関連を予測する計算を1日以内で実現した。</p><p>　この研究は、文部科学省が推進する「富岳」成果創出加速プログラムの一部で、「大規模データ解析と人工知能技術によるがんの起源と多様性の解明」をテーマに実施しているもの。がん細胞やがんに関係する遺伝子などの間の膨大なメカニズムをAIと「富岳」を用いて解析し、新たながんの治療法の確立に結びつく知見を引き出すことを目的としている。</p><p>　従来、遺伝子データからがんの病態に関連する可能性の高い遺伝子の動作を表すネットワーク構造を抽出しがんの病態を予測する計算は、大学などが利用できるスーパーコンピュータでは独占的に利用しても算出に数か月を要し、かつ独占的に利用することが非現実的なために不可能だった。</p><p>　大学などが使用可能なスパコンよりもはるかに高性能な「富岳」を計算プロセスに対応させ、加えて高いメモリ性能を最大限に引き出す同研究所のソフトウェア高速化技術を組み合わせることで、AI技術「Deep Tensor」の処理速度も向上させた。</p><p>　これにより、発がんに関連する可能性の高い遺伝子間の影響関係を表すネットワークの推定とがんの浸潤や転移との関連の予測の計算を、「富岳」を用いて1日以内で完了させることに成功した。</p><p>　今後の展望として、今回実現した「富岳」による高速シーケンス解析および説明可能なAI「Deep Tensor」を用いたネットワーク解析を近年発見されたノンコーディングRNAと呼ばれる膨大な遺伝子情報を含めた観測データにも適用し、その解析結果を説明可能なAIにより人が理解可能な形に翻訳することで、世界最先端のがん研究の成果を創出していくとしている。</p></div></div>]]></description>
 			<pubDate>Tue, 10 Nov 2020 17:25:52 +0900</pubDate>
+		</item>
+		<item>
+			<title>AUKEY、USB PD対応の2ポート充電器 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1288250.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1288/250/01.jpg"></div></div><span class="caption">PA-F3S</span></div></div></div></div><p>　<a href="https://jp.aukey.com/" class="n" target="_blank">AUKEY</a>は、USB PD対応のType-Cポートを搭載した2ポート充電器「Focus Duo 32W」(PA-F3S)を11日に発売する。価格は1,980円。</p><p>　最大20Wの出力に対応したUSB Type-CポートとQC 3.0に対応したType-Aポートを搭載した充電器で、スマートフォンとタブレットなど2台同時に充電することができる。</p><p>　サイズは28×50×49mm(幅×奥行き×高さ)/重量79gと手のひらに収まるコンパクトサイズで、プラグも折りたたみ可能な仕様。</p></div></div>]]></description>
+			<pubDate>Tue, 10 Nov 2020 19:33:25 +0900</pubDate>
+		</item>
+		<item>
+			<title>キオクシア、ハイエンドパソコン向けのPCIe 4.0対応 M.2 SSDの評価用サンプルを出荷。最大4TB容量 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1288267.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1288/267/01.jpg"></div></div><span class="caption">XG7/XG7-Pシリーズ</span></div></div></div></div><p>　<a href="https://www.kioxia.com/ja-jp/top.html" class="n" target="_blank">キオクシア株式会社</a>は、ハイエンドパソコンやワークステーション向けのPCIe 4.0対応M.2 SSD「XG7/XG7-P」シリーズの評価用サンプルをOEMメーカーなどに出荷を開始した。フォームファクタはM.2 2280で、価格は現時点で非公表。</p><p>　同製品はクライアント向けモデルで、この製品のリリースによりクライアント/データセンター/エンタープライズの全カテゴリでPCIe 4.0に対応したモデルが出揃うかたちとなる。</p><p>　現行のXG6シリーズと比較し、シーケンシャルリード性能で約2倍、同ライト性能で約1.6倍の高速化を実現。また、PCIe Gen4 x4の性能を生かし、XG7シリーズでは256GB/512GB/1,024GB(1TB)、XG7-Pシリーズでは2,048GB(2TB)/4,096GB(4TB)も用意する。</p><p>　フラッシュメモリには同社製「BICS FLASH」、コントローラには新規開発の自社製を搭載し、NVMe 1.4のほか、SMBusなどにも対応。</p></div></div>]]></description>
+			<pubDate>Tue, 10 Nov 2020 19:41:42 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
