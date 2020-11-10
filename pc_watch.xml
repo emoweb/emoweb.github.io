@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>古いAndroidスマホで2021年9月以降、一部サイトが閲覧不能に </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1287910.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1287/910/01.jpg"></div></div></div></div></div></div><p>　<a href="https://letsencrypt.org/" class="n" target="_blank">Let's Encrypt</a>は6日(現地時間)、同サービスの利用しているルート証明書の移行について注意喚起を行なっている。</p><p>　Let's Encryptは、SSLサーバ証明書を無料で発行できるサービスで、自身の発行するルート証明書「ISRG Root X1」を利用した中間CA証明書のほか、IdenTrustの発行するルート証明書「DST Root X3」を利用してクロス署名されたものが使用されてきた。後者について、2021年9月1日に期限切れとなり、前者に一本化される。これにともない、前者を信頼しない一部の古い機器において、Let's Encryptの発行する証明書を用いたWebページにアクセスできなくなる可能性がある。</p><p>　新しいOSを搭載するデバイスでは、すでに前者の証明書がインストールされているためユーザー側での対応は必要ない。Let's Encryptでは、とくにAndroid搭載端末について注意喚起をしている。Android 7.1.1未満では、ISRG Root X1が信頼するルート証明書として含まれていないが、これらのバージョンを実行している端末は、2020年9月時点で全体の33.8%にのぼり、多くの機器で変更の影響を受ける恐れがあるという。</p><p>　OSのアップデートなどを通じて対応が可能な問題ではあるものの、対象となるような古い機器にはアップデートが提供されていない場合も多い。Firefoxでは独自のルート証明書リストを利用しており、OSのバージョンに依存せず最新の証明書リストが参照できるため、モバイル版Firefoxを使えば閲覧が可能だとしている。</p></div></div>]]></description>
-			<pubDate>Mon, 09 Nov 2020 15:05:16 +0900</pubDate>
-		</item>
-		<item>
 			<title>Windows 10 1903のサポートが12月8日で終了 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1287919.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1287/919/1.jpg"></div></div></div></div></div></div><p>　Microsoftは、Windows 10 1903のサポートが2020年12月8日で終了することを改めて注意喚起した。</p><p>　サポート終了に伴い、セキュリティアップデートが配信されなくなる。まだ1903を使っているユーザーはすみやかに最新バージョンへの更新を行なうよう促している。</p><p>　なお、この次のリリースとなる1909のサポート終了は2021年5月11日、2004のサポート終了は2021年12月14日、最新の20H2のサポート終了は2022年5月10日となっている。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1288193.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1288/193/01.jpg"></div></div></div></div></div></div><p>　<a href="https://support.zoom.us/hc/en-us" class="n" target="_blank">Zoom</a>は、11月16日に予定しているアップデート内容を発表した。</p></div><div><h3 class="hdg-03"><span>複数の画面を一度に共有可能に</span></h3><p>　一度に複数のプログラム(画面)を選択して共有できるもので、WindowsとmacOSのバージョン5.4.3で利用可能。共有中は拡張可能な緑の境界線が表示され、視覚的に認識しやすくなっている。</p></div><div><h3 class="hdg-03"><span>iPadでギャラリーが拡張</span></h3><p>　ギャラリーについてiPadでは4×4まで対応となり、11/12.9インチのiPad Proでは5×5サイズまで対応可能に。</p></div><div><h3 class="hdg-03"><span>一部のAndroidで仮想背景が利用可能に</span></h3><p>　Adreno 615/616/618/620をGPUとして内蔵するAndroid端末で仮想背景が利用可能になった。</p></div><div><h3 class="hdg-03"><span>アクティビティの一時停止機能</span></h3><p>　Web会議の参加者全員のアクティビティを一時停止できる機能で、ビデオとオーディオがミュートされるほか、画面共有なども停止するもの。</p><p>　既存の機能の変更点としては、ビデオを使用せず音声などで会議をする場合も、ビデオ会議と同じ画面となるようインターフェイスを変更した。</p></div></div>]]></description>
 			<pubDate>Tue, 10 Nov 2020 16:24:08 +0900</pubDate>
+		</item>
+		<item>
+			<title>富士通、スパコン「富岳」を利用しがんの浸潤や転移との関連を予測する計算を1日以内で実現 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1288224.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1288/224/01.jpg"></div></div></div></div></div></div><p>　<a href="http://www.fujitsu.com/jp/" class="n" target="_blank">株式会社富士通研究所</a>は、<a href="http://www.tmd.ac.jp/" class="n" target="_blank">東京医科歯科大学</a>と共同で、富士通のスーパーコンピュータ「富岳」を利用し、発がんに関連している可能性の高い遺伝子間の影響関係を表すネットワークの推定、および同研究所のAI技術「Deep Tensor」を用いたがんの浸潤や転移との関連を予測する計算を1日以内で実現した。</p><p>　この研究は、文部科学省が推進する「富岳」成果創出加速プログラムの一部で、「大規模データ解析と人工知能技術によるがんの起源と多様性の解明」をテーマに実施しているもの。がん細胞やがんに関係する遺伝子などの間の膨大なメカニズムをAIと「富岳」を用いて解析し、新たながんの治療法の確立に結びつく知見を引き出すことを目的としている。</p><p>　従来、遺伝子データからがんの病態に関連する可能性の高い遺伝子の動作を表すネットワーク構造を抽出しがんの病態を予測する計算は、大学などが利用できるスーパーコンピュータでは独占的に利用しても算出に数か月を要し、かつ独占的に利用することが非現実的なために不可能だった。</p><p>　大学などが使用可能なスパコンよりもはるかに高性能な「富岳」を計算プロセスに対応させ、加えて高いメモリ性能を最大限に引き出す同研究所のソフトウェア高速化技術を組み合わせることで、AI技術「Deep Tensor」の処理速度も向上させた。</p><p>　これにより、発がんに関連する可能性の高い遺伝子間の影響関係を表すネットワークの推定とがんの浸潤や転移との関連の予測の計算を、「富岳」を用いて1日以内で完了させることに成功した。</p><p>　今後の展望として、今回実現した「富岳」による高速シーケンス解析および説明可能なAI「Deep Tensor」を用いたネットワーク解析を近年発見されたノンコーディングRNAと呼ばれる膨大な遺伝子情報を含めた観測データにも適用し、その解析結果を説明可能なAIにより人が理解可能な形に翻訳することで、世界最先端のがん研究の成果を創出していくとしている。</p></div></div>]]></description>
+			<pubDate>Tue, 10 Nov 2020 17:25:52 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
