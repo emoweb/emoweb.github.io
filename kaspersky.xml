@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Netflixユーザー向け、5つのライフハック</title>
-			<link>https://blog.kaspersky.co.jp/secure-connection-netflix/29455/</link>
-			<description><![CDATA[Netflixでの動画視聴を便利で快適で安全なものにする、ちょっとしたヒント。]]></description>
-			<pubDate>Wed, 28 Oct 2020 01:00:16 +0000</pubDate>
-		</item>
-		<item>
 			<title>コラボレーションツールは安全か</title>
 			<link>https://blog.kaspersky.co.jp/collaboration-solutions/28641/</link>
 			<description><![CDATA[ファイルの保存、文書やプロジェクトの管理に使用されるクラウドサービス。メリットがある一方、さまざまな問題のもとになる場合もあります。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/ransomware-incidents-2020/29540/</link>
 			<description><![CDATA[2020年は、ランサムウェア感染が爆発的に増加した年として記憶されることになるでしょう。]]></description>
 			<pubDate>Wed, 11 Nov 2020 01:00:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>モバイルアプリがあなたを見ている</title>
+			<link>https://blog.kaspersky.co.jp/location-tracking-sdks/29536/</link>
+			<description><![CDATA[モバイルアプリが利用者の位置情報をトラッキングし、その情報が第三者に販売されている場合があります。利用者としては、どう対処できるのでしょうか。]]></description>
+			<pubDate>Thu, 12 Nov 2020 01:00:27 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
