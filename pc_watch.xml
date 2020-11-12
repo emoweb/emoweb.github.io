@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>PAM4採用で速度2倍の「PCI Express 6.0」仕様が確定 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1288325.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1288/325/01_o.png"></div></div><span class="caption">PCI Express 6.0の仕様要件</span></div></div></div></div><p>　<a href="http://pcisig.com/" class="n" target="_blank">PCI-SIG</a>は、2021年に策定が予定されているバスインターフェイス規格「PCI Express 6.0」(PCIe 6.0)について、ドラフト仕様のバージョン0.7を発表した。</p><p>　PCIe規格のドラフトバージョン0.7は、製品レベルでの構成の検討が完了した「完全なドラフト(Complete draft)」という位置づけ。バージョン0.7以降は新たな機能の追加が許可されず、事実上、電気的な仕様が確定する。この後、最終的なリリースバージョン1.0までには最終ドラフト(Final draft)の0.9を残すのみとなった。なおバージョン0.9はメンバー企業によって知的財産や特許の内部レビューが行なわれる段階。機能の変更も許可されない。</p><p>　PCIe 6.0では、物理帯域が1レーンあたり64GT/s(PCIe 5.0の2倍)となり、エンコーディングはPAM-4(4レベルパルス振幅変調)が採用された。また低遅延の前方誤り訂正(FEC)を備えるほか、すべての旧世代仕様について後方互換性が確保される。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1288/325/02_o.png"></div></div><span class="caption">PAM4の概要</span></div></div></div></div><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/jhehXwnu0Ss?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div></div></div></div></div></div></div>]]></description>
-			<pubDate>Wed, 11 Nov 2020 10:39:14 +0900</pubDate>
-		</item>
-		<item>
 			<title>アイ・オー、USB PD/DP Alt Mode対応のスマホ向けドック </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1288254.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1288/254/01.jpg"></div></div><span class="caption">US3C-DS/SP</span></div></div></div></div><p>　<a href="https://www.iodata.jp/" class="n" target="_blank">株式会社アイ・オー・データ機器</a>は、スマートフォン向けのUSB 3.0 Type-Cドック「US3C-DS/SP」を12月上旬より発売する。価格はオープンプライスで、税別店頭予想価格は6,980円前後の見込み。</p><p>　US3C-DS/SPは、スマートフォンでゲームをプレイするさいの使用を想定した製品。ゲームプレイ中のバッテリ切れや、外部ディスプレイ出力によって操作する指で画面が見づらくなることを防いだり、クラウドゲーミングサービスを大画面で楽しむといった用途に活用できるとする。</p><p>　一部対応ゲームでは、コントローラを接続して操作性の向上が図れるほか、マウスやキーボードも接続でき、GalaxyシリーズのDeXといったスマートフォンをデスクトップパソコンのように利用できる機能にも対応する。</p><p>　筐体は黒を基調としたデザインで、動作時は本体下部の青色LEDが点灯する。底面には滑り止めを備え、設置時の安定性も確保した。</p><p>　インターフェイスは、USB 3.0、USB 2.0×2、HDMIポートを装備し、最大7.5WのUSB Power Delivery給電に対応。スマートフォン側がDisplayPort Alt Modeをサポートしている必要があり、最大で4K(3,840×2,160ドット)/30Hzまでの映像が出力できる。</p><p>　本体サイズは約65×59×36mm(幅×奥行き×高さ)、重量は約130g。USB 3.0 Type-C to Type-Cケーブル(1m)やACアダプタが付属する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1288/254/02.jpg"></div></div><span class="caption">背面</span></div></div></div></div></div></div>]]></description>
@@ -99,6 +93,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1288557.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1288/557/01.jpg"></div></div><span class="caption">VIVE Pro Eye HMD</span></div></div></div></div><p>　<a href="http://www.aiuto-jp.co.jp/" class="n" target="_blank">株式会社アユート</a>は、HTC製のVRヘッドマウントディスプレイ(HMD)「VIVE Pro Eye HMD」を12月3日より発売する。予約はすでに受付を開始しており、税別店頭予想価格は9万4,000円前後の見込み。</p><p>　VIVE Pro Eye HMDは、2019年6月に発売された「VIVE Pro Eye」のHMD部分のみを単体で販売するもの。内部に目の動きをトラッキングできるセンサーを内蔵し、視線にあわせて描画解像度を制御したり、対応VRアバターにおけるウインクやまばたきといった表現を可能とする。</p><p>　1,440×1,600ドット/90Hzの有機ELディスプレイを左右に1つずつ搭載し、視野角は110度。SteamVR Tracking 2.0による最大100平方mのルームトラッキングに対応するほか、アイトラッキングセンサーを利用したIPD(瞳孔間距離)の自動検出機能なども備える。</p><p>　インターフェイスは、USB 3.0、DisplayPort 1.2、Bluetoothなどを備える。</p></div></div>]]></description>
 			<pubDate>Thu, 12 Nov 2020 10:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>Googleフォト、「高画質」写真/動画の“無料で容量無制限”を終了へ。2021年6月以降のアップロードが対象 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1288598.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1288/598/1.jpg"></div></div></div></div></div></div><p>　Googleが提供している写真/動画のクラウドサービス「Googleフォト」は、2021年6月1日より、「高画質」でバックアップした場合でもGoogleアカウントのストレージ容量を消費する仕様に変更する。</p><p>　これまでのGoogleフォトの「高画質」設定では、1,600万画素までの写真(それ以上の場合は自動的に1,600万画素までに自動縮小)、1080p以下の動画(同じくそれ以上の解像度の場合は1080pまで自動縮小)であれば、契約しているストレージ容量に関わらず無制限に保存が可能で、それ以上の解像度で保存する「元の画質」の設定でのみ、ストレージ容量を消費する仕様であった。</p><p>　今回の変更では、2021年6月1日以降にバックアップされる写真と動画は、「高画質」に設定していても、ストレージ容量を消費する仕様となる。つまり、Googleを無料で利用しているユーザーの場合、容量上限は15GBまで、有料でストレージを契約しているユーザーの場合、その契約アカウントの容量上限までしか保存できないことになる。</p><p>　ただし、2021年6月1日以前にバックアップ済みの写真と動画に関しては、この変更の対象外となっており、引き続きストレージ容量を消費しない仕様。</p><p>　同社によれば、現在Googleフォトには4兆以上の写真や動画が保存されていて、毎週280億もの写真と動画がアップロードされている。今後に向けた発展を支援し、ユーザーの空間にさらなるゆとりを提供するために、今回のストレージポリシーを変更するに至ったとしている。</p><p>　“容量無制限”を謳うクラウドサービスは、有料/無料関わらずこれまでいくつもの企業が参加と撤退を繰り返しているが、Googleまでもが撤退するということは、やはり容量無制限サービスの維持はそれなりに難しいということを暗示している。</p></div></div>]]></description>
+			<pubDate>Thu, 12 Nov 2020 10:27:15 +0900</pubDate>
+		</item>
+		<item>
+			<title>FRONTIER、Ryzen 5 5600Xが選択可能なデスクトップパソコン </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1288538.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1288/538/01.jpg"></div></div><span class="caption">GKシリーズ</span></div></div></div></div><p>　<a href="https://www.frontier-direct.jp/" class="n" target="_blank">FRONTIER</a>は、Ryzen 5 5600Xを搭載できるデスクトップパソコン「GK」シリーズを発売した。</p><p>　GKシリーズは、CPUにRyzen 5000シリーズまたはRyzen 3000シリーズを選択できる製品。マザーボードにはASRock製「B550M-HDV」を採用するほか、フロントパネルには青色LEDを内蔵し、左側面には強化ガラスパネルを装備する。</p><p>　基本構成時のおもな仕様は、税別価格が9万9,800円のモデルの場合、Ryzen 5 5600X、8GBメモリ、GeForce GTX 1650、480GB SSD、600W 80PLUS Bronze電源、Windows 10 Homeなどを搭載する。</p><p>　同12万4,800円のモデルの場合、上記モデルからメモリが16GB、GPUがGeForce GTX 1660 SUPER、ストレージが512GB M.2 NVMe SSD+1TB HDDにそれぞれ強化される。</p><p>　同16万4,800円のモデルの場合、Ryzen 7 3700X、16GBメモリ、GeForce RTX 3070、1TB M.2 NVMe SSD+2TB HDD、850W 80PLUS Gold電源、Windows 10 Homeなどを搭載する。</p><p>　本体サイズは共通で、約209×391×381mm(幅×奥行き×高さ)。</p></div></div>]]></description>
+			<pubDate>Thu, 12 Nov 2020 11:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
