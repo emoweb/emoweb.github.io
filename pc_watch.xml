@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>ビックカメラ、Chromebookが最大9,900円引きとなる「Chromebookフェア」を開催 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1288971.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1288/971/02.jpg"></div></div></div></div></div></div><p>　<a href="https://www.biccamera.co.jp/" class="n" target="_blank">株式会社ビックカメラ</a>は、ビックカメラ、コジマ、ソフマップの各店舗およびオンラインストアにて、Chromebookが最大22%引きとなる「Chromebookフェア」を開催している。期間は2021年1月15日まで。</p><p>　ビックカメラ各店のChromebook体験コーナーの導入から1年が経過したことを記念したフェア。対象商品はLenovo製Chromebookの3機種で、10.1型デタッチャブル2in1の「IdeaPad Duet」が3万4,980円(通常価格4万4,880円)、13.3型コンバーチブル2in1の「IdeaPad Flex 550i」が5万3,900円(同6万3,800円)、および11.6型ノートの「IdeaPad Slim 350i」が2万9,700円(同3万3,000円)の特価にて、それぞれ販売される。加えて10%のポイント還元も受けられる。</p><p>　ともに、GIGAスクール構想における標準仕様に準拠した製品となっているほか、ビックカメラ独自の「電話&amp;リモートサポート(1ヶ月版)」が特典として付与される。</p></div></div>]]></description>
-			<pubDate>Fri, 13 Nov 2020 13:42:34 +0900</pubDate>
-		</item>
-		<item>
 			<title>Microsoft、Intel CPUの脆弱性を修正するマイクロコード追加アップデート </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1288996.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1288/996/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は、Intel製CPUの脆弱性に対応するマイクロコードを提供するアップデートをWindows 10向けに公開した。</p><p>　Windows 10バージョン2004/20H2向けには「KB4589212」、1903/1909向けには「KB4589211」をそれぞれ提供。そのほか、バージョン1507以降のWindows 10に対してアップデートが公開されている。</p><p>　サイドチャネル攻撃への対策が施されており、「CVE-2018-12126」、「CVE-2018-12127」、「CVE-2018-12130」、「CVE-2019-11091」、「CVE-2020-8695」、「CVE-2020-8696」、「CVE-2020-8698」の7つの脆弱性に対応する。</p></div></div>]]></description>
@@ -117,6 +111,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1289303.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1289/303/01.jpg"></div></div></div></div></div></div><p>　<a href="https://zaikosokuho.com/" class="n" target="_blank">在庫速報. com</a>は12日、PlayStation 5(PS5)の在庫検索機能に対応した。</p><p>　同サービスでは、4月にNintendo SwitchやPlayStation 4の在庫検索機能を追加しており、ゲーム機としてはそれに続くかたち。Amazon、楽天市場、Yahoo!ショッピングでのPlayStation 5の在庫や価格情報を一覧で確認できる。</p><p>　PlayStation 5は、予約時点での申し込みが殺到したり、発売日の店頭での一般販売が実施されなかったりと、現時点で製品の入手が非常に難しく、転売などによる価格の高騰が続いている。</p></div></div>]]></description>
 			<pubDate>Mon, 16 Nov 2020 13:39:25 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10のリリースプレビュー、12月は提供なし </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1289334.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1289/334/1_o.jpg"></div></div></div></div></div></div><p>　Microsoftは10日(現地時間)、Windows 10用の更新プログラム「KB4586781」を配信開始した。</p><p>　このプログラムではセキュリティ性の向上が図られており、マウス/キーボード/ペン入力時、Microsoft Office利用時、Windowsの基本的な機能の利用時のセキュリティ性が向上する。</p><p>　プログラムの更新とともに、2020年12月については、欧米のホリデーシーズンで業務が最小化されるのに伴い、いかなるプレビューリリースも行なわないとアナウンスされた。月次サービスの再開については2021年1月より開始する。</p><p>　ただし、この期間でもセキュリティ更新プログラムのリリースは行なう見込みで、現時点では12月9日(米国時間の12月8日)が予定されている。</p></div></div>]]></description>
+			<pubDate>Mon, 16 Nov 2020 15:01:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
