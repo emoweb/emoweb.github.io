@@ -5,30 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Microsoft、Intel CPUの脆弱性を修正するマイクロコード追加アップデート </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1288996.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1288/996/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は、Intel製CPUの脆弱性に対応するマイクロコードを提供するアップデートをWindows 10向けに公開した。</p><p>　Windows 10バージョン2004/20H2向けには「KB4589212」、1903/1909向けには「KB4589211」をそれぞれ提供。そのほか、バージョン1507以降のWindows 10に対してアップデートが公開されている。</p><p>　サイドチャネル攻撃への対策が施されており、「CVE-2018-12126」、「CVE-2018-12127」、「CVE-2018-12130」、「CVE-2019-11091」、「CVE-2020-8695」、「CVE-2020-8696」、「CVE-2020-8698」の7つの脆弱性に対応する。</p></div></div>]]></description>
-			<pubDate>Fri, 13 Nov 2020 14:37:12 +0900</pubDate>
-		</item>
-		<item>
-			<title>【やじうまPC Watch】Microsoftの元エンジニアがギフトカード悪用で約10億円横領。ビットコインで証拠隠滅も図る</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1289003.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1289/003/01_o.jpg"></div></div></div></div></div></div><p>　米連邦地方裁判所は9日(現地時間)、Microsoftの元ソフトウェアエンジニアが、同社から1,000万ドル(約10億5,000万円)以上をだまし取ったとして、懲役9年判決を言い渡した。</p><p>　今回の判決を受けたのは、ワシントン州レントンに住むウクライナ国籍のVolodymyr Kvashuk被告(26歳)で、2016年8月から解雇される2018年8月までMicrosoftで業務を請け負っていた。被告はMicrosoftのオンラインリテール販売プラットフォームのテストに関わっており、この権限を悪用してデジタルギフトカードを盗んでいた。</p><p>　被告はデジタルギフトカードを転売することで、160万ドルの湖畔の家屋と16万ドルのテスラ製自動車の購入などに充てていた。当初は自分のアカウントを使った1万2,000ドルの少額の盗みを働いていたが、次第にエスカレート。ほかの従業員に関連づけられたテストアカウントを使って数百万ドルを詐取するなど悪質で、豊富なソフトウェア開発者の知識を活かして、デジタル的な証拠の隠滅も図ろうとしていた。</p><p>　さらに、自身の口座への送金を隠すために、ビットコインのプライバシー保護技術であるミキシングサービスを悪用。7カ月の間に約280万ドルのビットコインが被告の口座と投資アカウントに送金されていた。被告は偽装した納税申告書を提出し、ビットコインは身内からの贈り物だったと主張した。</p><p>　被告は今回の事件で、5件の有線通信不正行為、6件の不正資金洗浄、2件の個人情報窃盗、2件の虚偽納税申告、1件のメール詐欺、1件のアクセスデバイス詐欺、1件の機密コンピュータへの不正アクセスの罪で訴えられ、2020年2月に有罪判決を受けていた。公聴会では判事から「法をまったく尊重していない」とまで言われ、834万4,586ドルの賠償を命ぜられたほか、刑期終了後、国外退去となる可能性もあるようだ。</p></div></div>]]></description>
-			<pubDate>Fri, 13 Nov 2020 15:12:44 +0900</pubDate>
-		</item>
-		<item>
-			<title>AMDとIBM、クラウドやAI分野での提携を発表 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1289026.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1289/026/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.amd.com/" class="n" target="_blank">AMD</a>は11日(米国時間)、クラウドやAI分野における共同開発契約を締結したと発表した。複数年にわたる契約だとしている。</p><p>　両者は、実行中のワークロードを含む仮想マシン上のデータを暗号化し、セキュリティを高めるハイブリッドクラウド向けのコンフィデンシャルコンピューティングのほか、HPCや暗号化、仮想化、AIなどのアクセラレータの開発を促進。とくに金融やヘルスケア、保険などといった不正アクセスへの懸念や規制の強い業界へのハイブリッドクラウドの導入を目指すとしている。</p></div></div>]]></description>
-			<pubDate>Fri, 13 Nov 2020 15:53:32 +0900</pubDate>
-		</item>
-		<item>
-			<title>MediaTek、Chromebook向けの6nmプロセス採用高性能SoC「MT8195」 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1288979.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1288/979/1.jpg"></div></div></div></div></div></div><p>　<a href="https://www.mediatek.com/" class="n" target="_blank">台湾MediaTek</a>は10日(現地時間)、Chromebook向けのSoC「MT8195」と「MT8192」を発表した。</p><p>　いずれのモデルも高性能AI処理用プロセッサ(APU)を内蔵し、音声や映像認識ベースのアプリケーションを高速化。またオーディオ信号処理プロセッサ(DSP)を内蔵し、低電力で音声による復帰をサポートすることで、ボイスアシスタントを活用できる。</p><p>　さらに、3,200万画素×1または1,600万画素×2のカメラセンサーに対応できるISPを内包。4K HDRビデオのデコード、PCI Express 3.0とUSB 3.0への対応が謳われている。</p><p>　MT8195はTSMCによる6nmプロセスで製造され、Cortex-A78を4基、Cortex-A55を4基搭載した8コアCPUを採用。APU 3.0の性能は4TOPSに達する。GPUはMali-G57で、最大3画面の同時表示に対応。メモリはLPDDR4X-2133をサポートする。</p><p>　このほか、Dolby Visionと7.1チャンネルサラウンドに対応し、AV1ハードウェアビデオアクセラレータを備える。</p><p>　MT8192は7nmプロセス製造で、4基のCortex-A76と4基のCortex-A55による構成。APU 2.0の性能は2.4TOPS。GPUはMali-G57で、WQHDでは60Hz、フルHDでは120Hzのリフレッシュレートに対応。こちらは2画面の同時表示に対応。メモリはLPDDR4X-2133。</p><p>　MT8192を搭載するデバイスは2021年第2四半期に登場する見込み。</p></div></div>]]></description>
-			<pubDate>Fri, 13 Nov 2020 15:55:57 +0900</pubDate>
-		</item>
-		<item>
 			<title>TSUKUMO、Mini-ITX採用のコンパクトRyzenパソコン </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1289040.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1289/040/1.jpg"></div></div><span class="caption">G-GEAR mini</span></div></div></div></div><p>　<a href="https://www.tsukumo.co.jp/" class="n" target="_blank">TSUKUMO</a>は、Mini-ITXマザーボード「ASUS ROG STRIX B550-I GAMING」を採用することでコンパクトな筐体を実現したゲーミングパソコン「G-GEAR mini」シリーズ3モデルを発売した。</p><p>　下位は、CPUにRyzen 5 3600、メモリ16GB、ストレージに512GB NVMe SSD、GeForce GTX 1650ビデオカード(4GB)、OSにWindows 10 Home、500W電源を搭載し、価格は11万4,800円。</p><p>　中位は、上記からCPUをRyzen 5 5600X、GPUをGeForce RTX 2060、電源を650Wに強化し、価格は15万9,800円。</p><p>　上位は、中位からCPUをRyzen 7 5800X、SSDを1TB、ビデオカードをGeForce RTX 3070(8GB)に変更し、価格は21万9,800円。</p></div></div>]]></description>
@@ -117,6 +93,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1289334.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1289/334/1_o.jpg"></div></div></div></div></div></div><p>　Microsoftは10日(現地時間)、Windows 10用の更新プログラム「KB4586781」を配信開始した。</p><p>　このプログラムではセキュリティ性の向上が図られており、マウス/キーボード/ペン入力時、Microsoft Office利用時、Windowsの基本的な機能の利用時のセキュリティ性が向上する。</p><p>　プログラムの更新とともに、2020年12月については、欧米のホリデーシーズンで業務が最小化されるのに伴い、いかなるプレビューリリースも行なわないとアナウンスされた。月次サービスの再開については2021年1月より開始する。</p><p>　ただし、この期間でもセキュリティ更新プログラムのリリースは行なう見込みで、現時点では12月9日(米国時間の12月8日)が予定されている。</p></div></div>]]></description>
 			<pubDate>Mon, 16 Nov 2020 15:01:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>カプコン、ランサムウェア被害で最大35万件の個人情報が流出の恐れ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1289451.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1289/451/01.jpg"></div></div></div></div></div></div><p>　<a href="http://www.capcom.co.jp/" class="n" target="_blank">株式会社カプコン</a>は16日、同社のサーバーがランサムウェアを用いた不正アクセス攻撃の被害を受けたと発表した。この攻撃により、個人情報と企業情報の流出、およびその恐れがあるとしている。</p><p>　発表によれば、11月2日未明に社内システムにおける接続障害を確認。調査したところ、同社を標的としたランサムウェアによるサーバー破壊攻撃であることが確認され、あわせて「Ragnar Locker」を名乗るグループからの身代金要求があったため、大阪府警へ通報を行なった。</p><p>　4日時点で不正アクセスによるシステム障害が発生していることが公表されていたが、今回、情報の流出が確認されたため、あらためて報告を実施したかたち。16日時点で、元従業員の個人情報5件、現従業員の個人情報4件、販売レポート、財務情報の流出が確認された。加えて、氏名・住所・メールアドレスなどを含む最大約35万件の顧客個人情報や、売上・開発資料などの企業情報が流出した可能性があるとしている。</p><p>　同社では、対策ソフトの導入や疑わしい通信の遮断などを行ないつつ、サーバーの再構築・復旧を実施し、確認作業を進めている。システム面の検証については外部のセキュリティ会社へすでに委託しており、結果がわかり次第公表する予定。</p><p>　同社では、個人情報の流出が確認された社員やユーザーに対して、個別に経緯や状況の説明を実施しており、流出の恐れがある情報については引き続き調査を進めている。また本件の影響により、心当たりのない郵便物が届いたり、不審な連絡が入る可能性もあるため、注意してほしいと呼びかけている。</p></div></div>]]></description>
+			<pubDate>Mon, 16 Nov 2020 20:49:46 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
