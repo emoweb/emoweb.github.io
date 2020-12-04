@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>FRONTIER、GeForce RTX 3060 Ti搭載デスクトップ3モデル </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1292769.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1292/769/1.png"></div></div><span class="caption">GXシリーズ</span></div></div></div></div><p>　<a href="https://www.frontier-direct.jp/" class="n" target="_blank">FRONTIER</a>は、GeForce RTX 3060 Tiビデオカードを採用したデスクトップパソコン3モデルを発売した。OSはWindows 10 Home。</p><p>　マイクロタワーの「GX」シリーズは2モデル。下位の「FRGXB460/36Ti/A」のおもな仕様は、CPUにCore i5-10400、メモリ8GB、512GB NVMe SSDを搭載し、税別価格は12万2,800円。</p><p>　上位の「FRGXB460/36Ti/B」は、上記からCPUをCore i7-10700F、メモリを16GBに強化し、1TB HDDを追加。税別価格は14万7,800円。</p><p>　ミドルタワーの「GA」シリーズは「FRGAH470/36Ti」の1モデル。おもな仕様は、CPUにCore i7-10700F、メモリ16GB、ストレージに1TB NVMe SSD+2TB HDDを搭載し、税別価格は15万9,800円。</p><p>　いずれも850W電源を搭載。本体サイズはGXシリーズが約190×426×356mm(幅×奥行き×高さ)、GAシリーズが約200×485×423mm(同)。</p></div></div>]]></description>
-			<pubDate>Thu, 03 Dec 2020 11:49:50 +0900</pubDate>
-		</item>
-		<item>
-			<title>TSUKUMO、GeForce RTX 3060 Ti搭載のミドルタワー/ミニタワーゲーミングパソコン </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1292797.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1292/797/01.jpg"></div></div><span class="caption">ミドルタワー筐体</span></div></div></div></div><p>　株式会社Project Whiteは<a href="https://shop.tsukumo.co.jp/" class="n" target="_blank">TSUKUMO</a>ブランドより、GeForce RTX 3060 Tiを搭載するミドルタワー/ミニタワーゲーミングパソコンを6機種発売した。OSはすべてWindows 10 Homeを内蔵する。</p><p>　ミドルタワー製品は5機種が登場。基本構成時のおもな仕様は「GA5A-F204/T」の場合、Ryzen 5 5600X、16GBメモリ、500GB M.2 NVMe SSD、DVDスーパーマルチドライブ、700W 80PLUS Bronze電源などを搭載し、価格は16万4,800円。</p><p>　「GA7A-H203/XT」の場合、上記モデルからCPUをRyzen 7 3700Xに変更し、価格は16万7,800円</p><p>　「GA7A-F203/T」の場合、Ryzen 7 3700X、16GBメモリ、500GB SATA SSD、DVDスーパーマルチドライブ、550W 80PLUS Bronze電源などを搭載。価格は15万2,800円。</p><p>　「GA9J-J204/ZT」の場合、Core i9-10850K、16GBメモリ、500GB M.2 NVMe SSD、DVDスーパーマルチドライブ、750W 80PLUS Gold電源などを搭載。価格は19万9,800円。</p><p>　「GA7J-H204/ZT」の場合、上記モデルからCPUをCore i7-10700に変更し、価格は17万4,800円。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1292/797/02.jpg"></div></div><span class="caption">ミニタワー筐体</span></div></div></div></div><p>　ミニタワー製品は「GI7J-D204/T」の1機種が登場。Core i7-10700、16GBメモリ、500GB M.2 NVMe SSD、750W 80PLUS Gold電源などを搭載し、価格は17万4,800円。</p></div></div>]]></description>
-			<pubDate>Thu, 03 Dec 2020 12:28:02 +0900</pubDate>
-		</item>
-		<item>
 			<title>法人向けのウイルスバスターでEdgeとChromeが起動できない不具合 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1292824.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1292/824/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.trendmicro.com/" class="n" target="_blank">トレンドマイクロ株式会社</a>は、法人向けの「ウイルスバスター コーポレートエディション XG」、「ウイルスバスター ビジネスセキュリティ」において、Microsoft EdgeとGoogle Chromeが起動できなくなる事象を確認したと発表した。</p><p>　対象のWebブラウザのバージョンは、Edgeが「87.0.664.52」、Chromeが「87.0.4280.88」となっている。</p><p>　このうちEdgeについては、プログラム検査監視パターンファイル283080で対応済み。サーバー側のコンポーネントを最新にアップデートし、問題が発生しているクライアントへ配信することで解消できる。</p><p>　一方、Chromeについては現在確認中としており、Chrome以外のブラウザを使うか、挙動監視の承認済みプログラム、および信頼済みプログラムリストに、Chromeのフルパスを追加することで暫定的に回避するよう案内している。</p></div></div>]]></description>
@@ -117,6 +105,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1293132.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1293/132/01.jpg"></div></div><span class="caption">PTF-M133T</span></div></div></div></div><p>　<a href="https://www.princeton.co.jp/" class="n" target="_blank">株式会社プリンストン</a>は、USB Type-C接続に対応したモバイルディスプレイ2機種を12月21日より発売する。13.3型の「PTF-M133T」および15.6型の「PTF-M156T」を用意し、価格はともにオープンプライス。</p><p>　両機種ともに、DisplayPort Alt Mode/USB Power Delivery入力対応のType-Cポートを備えるのが特徴。Mini HDMIポートも備え、ゲーム機などとも接続できる。10点マルチタッチ対応のフルHD(1,920×1,080ドット)光沢IPSパネルを搭載し、スタンドカバーなども付属する。</p><p>　おもな仕様はほぼ共通で、表示色数が約26万色、中間色応答速度が30ms、コントラスト比が800:1、視野角が上下/左右ともに170度。輝度はPTF-M133Tが250cd/平方m、PTF-M156Tが230cd/平方mとなる。</p><p>　インターフェイスはどちらも、USB Type-C×2(ともにDP Alt Mode対応、同時映像入力は不可)、Mini HDMI、Micro USB、3.5mmステレオミニジャック。1W+1Wステレオスピーカーも備える。</p><p>　本体サイズ/重量は、PTF-M133Tが305×9×193.5mm(幅×厚さ×高さ)、PTF-M156Tが356.2×9.5×227.1mm(同)。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1293/132/02.jpg"></div></div><span class="caption">PTF-M156T</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Fri, 04 Dec 2020 13:59:02 +0900</pubDate>
+		</item>
+		<item>
+			<title>Philips、4辺フレームレスデザインの23.8型/27型フルHD液晶 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1293146.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1293/146/01.jpg"></div></div><span class="caption">242E2FE/11</span></div></div></div></div><p>　MMD Singapore Pte Ltdは、<a href="https://www.philips.co.jp/" class="n" target="_blank">Philips</a>ブランドの23.8型液晶ディスプレイ「242E2FE/11」および27型の「272E2FE/11」を12月中旬より発売する。税別店頭予想価格はそれぞれ1万7,800円前後、2万1,800円前後の見込み。</p><p>　どちらも4辺フレームレスなデザインが特徴のフルHD(1,920×1,080ドット)液晶ディスプレイ。応答速度1ms(MPRT時)の非光沢IPSパネルを採用し、ゲーム向けのSmartImageゲームモードを備える。加えて、ちらつきを抑えるフリッカーフリーや目への負担を軽減するローブルーモード機能も用意する。</p><p>　おもな仕様はほぼ共通で、表示色数が約1,677万色、中間色応答速度が4ms、コントラスト比が1,000:1、視野角が上下/左右ともに178度。輝度は242E2FE/11が300cd/平方m、272E2FE/11が350cd/平方mとなる。</p><p>　インターフェイスは、HDMI 1.4、DisplayPort 1.2、ミニD-Sub15ピン。</p><p>　本体サイズ/重量は、242E2FE/11が540×187×458mm(幅×奥行き×高さ)/3.88kg、272E2FE/11が614×234×475mm(同)/5.23kg。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1293/146/02.jpg"></div></div><span class="caption">272E2FE/11</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Fri, 04 Dec 2020 14:34:07 +0900</pubDate>
+		</item>
+		<item>
+			<title>接触確認アプリ「COCOA」に不具合のフィードバック機能が追加 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1293160.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1293/160/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.mhlw.go.jp/" class="n" target="_blank">厚生労働省</a>は、新型コロナウイルス接触確認アプリ(COCOA)の最新バージョン「1.2.0」を公開した。iOSおよびAndroid向けに順次提供される。</p><p>　バージョン1.2.0では、アプリで不具合が発生したさいにフィードバックを送れる機能を追加。利用者本人の同意・協力のもと、不具合調査に必要なアプリ動作情報を送信できる。個人を識別する情報は含まれない。なお、本機能の追加にともない、プライバシーポリシーも改定されている。</p></div></div>]]></description>
+			<pubDate>Fri, 04 Dec 2020 14:48:08 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
