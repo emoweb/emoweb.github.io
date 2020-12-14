@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>ONE-NETBOOK、第11世代Core搭載で10.1型になった「OneMix 4」予告 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1294690.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1294/690/1.jpg"></div></div></div></div></div></div><p>　深センONE-NETBOOK Technologyは10日(現地時間)、Discordの公式チャンネルにおいて、次期モデル「OneMix 4」とみられる予告を公開した。</p><p>　あくまでもOneシリーズの第4世代という扱いであり、「OneMix」であるという明言は避けたが、トピックの名前が“one-mix-4”であることから、OneMix 3の後継である可能性が高い。</p><p>　ただ、第11世代CoreのYシリーズプロセッサを採用することと、狭額縁の10.1型ディスプレイの採用については明らかにした。</p><p>　既存のOneMix 3よりディスプレイがさらに大型化するのは間違いないのだが、狭額縁デザインであるならば、意外にもサイズ増加は最小限に抑えられるかもしれない。いずれにしても詳報は待ちたい。</p><p>　このほか、Wi-Fi 6の搭載や、M.2 2280版のSSDの搭載などが予告されている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1294/690/2_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
-			<pubDate>Fri, 11 Dec 2020 16:07:56 +0900</pubDate>
-		</item>
-		<item>
 			<title>PS5やSwitchなどが当たるキャンペーン。WD製内蔵SSD/HDD購入者が対象 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1294692.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1294/692/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.westerndigital.com/ja-jp" class="n" target="_blank">Western Digital</a>は、WDブランドの内蔵SSDおよびHDDを購入したユーザーを対象とした「WD大感謝祭2020 Twitterキャンペーン」を開催している。期間は12月31日まで。</p><p>　期間中に対象店舗(TSUKUMO、ドスパラ、パソコン工房、BUYMORE各店および通販サイト)にて、WD Gold/Black/Red/Purple/Blue/Greenシリーズの内蔵SSDおよびHDDを購入して応募すると、抽選でPlayStation 5やNintendo Switch、ASUS製ノートパソコンなどが各景品1名ずつに当たる。</p><p>　Twitterのキャンペーンアカウントをフォローし、キャンペーンツイートをリツイートすると応募が可能。リツイート時には「ご購入されたシリーズ名+“購入しました”」のコメントと、ハッシュタグ「#WD大感謝祭2020」をつける必要がある。そのほか詳細については、キャンペーン特設ページおよびツイートを参照されたい。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1295063.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/063/01.jpg"></div></div><span class="caption">非感染状態の検索結果(左)とマルウェアで影響を受けた(右)検索結果</span></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>のセキュリティチーム「Microsoft 365 Defender リサーチチーム」は、ブラウザの検索結果に影響を及ぼすブラウザ修飾子マルウェア「Adrozek」に警告を促している。</p><p>　このマルウェアは、2020年5月以降に大量に配布されており、8月のピーク時には毎日30,000台以上のデバイスで感染が確認されていたもので、Microsoft EdgeやGoogle Chrome、Mozilla Firefoxなどの多くのブラウザで感染し、ブラウザ拡張機能を追加したうえで設定を変更し、検索エンジンからの正規広告の上に無許可のアフィリエイトページを追加表示するマルウェア。攻撃者はこのアフィリエイトページのプログラムで収益を得ているものとみられる。</p><p>　リサーチチームは、「アフィリエイトプログラムやブラウザ修飾子を利用したマルウェアは新しいものではない」としながらも、このAdrozekが複数のブラウザに影響を与えるなど、手口が巧妙化していると指摘している。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/063/02.jpg"></div></div><span class="caption">2020年5月から9月までのAdrozekの感染分布</span></div></div></div></div><p>　Adrozekは、2020年5月から9月にかけ、ヨーロッパや南アジア、東南アジアを主として数十万件の感染を確認。現在も進行しているとみている。</p><p>　感染方法として、正規ドメインから不正にリダイレクトされたサイトを介し感染する「ドライブバイダウンロード方式」で、同チームの調べによると159のドメインがマルウェア配布に使用されていた。</p><p>　Adrozekは、インストール後に「Quick Audio」などオーディオ関連のソフトなどを装いインストールされ、ブラウザDLLやセキュリティ設定などを改ざんし、永続性を維持するためにサービスを作成するなどの動きをする。</p><p>　同チームは対策として、Windows 10に組み込まれている「Microsoft Defender Antivirus」でブロックできるとしているほか、感染後はブラウザの再インストールも推奨している。</p></div></div>]]></description>
 			<pubDate>Mon, 14 Dec 2020 16:27:49 +0900</pubDate>
+		</item>
+		<item>
+			<title>ソネットテクノロジー、Thunderbolt 3接続のeGPUボックス </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1295088.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/088/01.jpg"></div></div><span class="caption">eGPU Breakaway Box 750</span></div></div></div></div><p>　<a href="https://www.sonnettech.com/index.html" class="n" target="_blank">ソネットテクノロジー</a>は、Thunderbolt 3接続のeGPUボックス「eGPU Breakaway Box 750」、「eGPU Breakaway Box 750ex」の2機種を発表した。</p><p>　米国での価格は750が299ドル(約3万1,087円、1米ドル約103.96円で換算)、750exが349.99ドル(約3万6,388円、同)で、12月下旬から1月初旬の発売を予定している。</p><p>　いずれのモデルも、PCIe接続のビデオカードをThunderbolt 3対応のノートパソコンなどに接続する外付けのボックスで、750exは4基のUSBポートとGigabit Ethernetも搭載する。製品名のとおり750Wの電源(コネクタは8ピン×2)を搭載し、NVIDIAやAMDなどの2スロットサイズのビデオカードをサポートする。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/088/02.jpg"></div></div><span class="caption">eGPU Breakaway Box 750ex</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Mon, 14 Dec 2020 18:06:37 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
