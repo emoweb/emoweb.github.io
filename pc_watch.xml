@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Microsoft、ブラウザの検索結果にアフィリエイトを勝手に挿入する「Adrozek」に警告促す 〜複数ブラウザで感染確認</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1295063.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/063/01.jpg"></div></div><span class="caption">非感染状態の検索結果(左)とマルウェアで影響を受けた(右)検索結果</span></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>のセキュリティチーム「Microsoft 365 Defender リサーチチーム」は、ブラウザの検索結果に影響を及ぼすブラウザ修飾子マルウェア「Adrozek」に警告を促している。</p><p>　このマルウェアは、2020年5月以降に大量に配布されており、8月のピーク時には毎日30,000台以上のデバイスで感染が確認されていたもので、Microsoft EdgeやGoogle Chrome、Mozilla Firefoxなどの多くのブラウザで感染し、ブラウザ拡張機能を追加したうえで設定を変更し、検索エンジンからの正規広告の上に無許可のアフィリエイトページを追加表示するマルウェア。攻撃者はこのアフィリエイトページのプログラムで収益を得ているものとみられる。</p><p>　リサーチチームは、「アフィリエイトプログラムやブラウザ修飾子を利用したマルウェアは新しいものではない」としながらも、このAdrozekが複数のブラウザに影響を与えるなど、手口が巧妙化していると指摘している。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/063/02.jpg"></div></div><span class="caption">2020年5月から9月までのAdrozekの感染分布</span></div></div></div></div><p>　Adrozekは、2020年5月から9月にかけ、ヨーロッパや南アジア、東南アジアを主として数十万件の感染を確認。現在も進行しているとみている。</p><p>　感染方法として、正規ドメインから不正にリダイレクトされたサイトを介し感染する「ドライブバイダウンロード方式」で、同チームの調べによると159のドメインがマルウェア配布に使用されていた。</p><p>　Adrozekは、インストール後に「Quick Audio」などオーディオ関連のソフトなどを装いインストールされ、ブラウザDLLやセキュリティ設定などを改ざんし、永続性を維持するためにサービスを作成するなどの動きをする。</p><p>　同チームは対策として、Windows 10に組み込まれている「Microsoft Defender Antivirus」でブロックできるとしているほか、感染後はブラウザの再インストールも推奨している。</p></div></div>]]></description>
-			<pubDate>Mon, 14 Dec 2020 16:27:49 +0900</pubDate>
-		</item>
-		<item>
 			<title>ソネットテクノロジー、Thunderbolt 3接続のeGPUボックス </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1295088.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/088/01.jpg"></div></div><span class="caption">eGPU Breakaway Box 750</span></div></div></div></div><p>　<a href="https://www.sonnettech.com/index.html" class="n" target="_blank">ソネットテクノロジー</a>は、Thunderbolt 3接続のeGPUボックス「eGPU Breakaway Box 750」、「eGPU Breakaway Box 750ex」の2機種を発表した。</p><p>　米国での価格は750が299ドル(約3万1,087円、1米ドル約103.96円で換算)、750exが349.99ドル(約3万6,388円、同)で、12月下旬から1月初旬の発売を予定している。</p><p>　いずれのモデルも、PCIe接続のビデオカードをThunderbolt 3対応のノートパソコンなどに接続する外付けのボックスで、750exは4基のUSBポートとGigabit Ethernetも搭載する。製品名のとおり750Wの電源(コネクタは8ピン×2)を搭載し、NVIDIAやAMDなどの2スロットサイズのビデオカードをサポートする。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/088/02.jpg"></div></div><span class="caption">eGPU Breakaway Box 750ex</span></div></div></div></div></div></div>]]></description>
@@ -117,6 +111,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1295374.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/374/01.jpg"></div></div><span class="caption">RX 6800 XT Phantom Gaming D 16G OC</span></div></div></div></div><p>　<a href="https://www.asrock.com/" class="n" target="_blank">ASRock</a>は、Radeon RX 6800 XT/6900 XT搭載ビデオカードのオーバークロックモデル「RX 6800 XT Phantom Gaming D 16G OC」および「RX 6900 XT Phantom Gaming D 16G OC」を18日より発売する。税別店頭予想価格は9万8,000円前後、14万8,000円前後の見込み。</p><p>　どちらも、Striped Axial Fanやウルトラフィットヒートパイプなどを組みあわせた独自の冷却機構Phantom Gaming 3X Cooling Systemを採用したビデオカード。アドレサブルRGB LEDを内蔵するほか、アドレサブルRGBヘッドピンなども備える。</p><p>　おもな仕様は、RX 6800 XT搭載モデルの場合、ベースクロックが1,875MHz、ゲームクロックが2,065MHz、ブーストクロックが最大2,310MHz。</p><p>　RX 6900 XT搭載モデルの場合、ベースクロックが1,925MHz、ゲームクロックが2,105MHz、ブーストクロックが最大2,340MHz。</p><p>　インターフェイスは共通で、HDMI 2.1、DisplayPort 1.4×3。補助電源は8ピン×3。</p><p>　本体サイズはともに、330×140×56mm(幅×奥行き×高さ)、2.8スロットを占有する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/374/02.jpg"></div></div><span class="caption">RX 6900 XT Phantom Gaming D 16G OC</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Tue, 15 Dec 2020 16:49:32 +0900</pubDate>
+		</item>
+		<item>
+			<title>新型コロナ接触確認アプリ「COCOA」、接触通知の対象範囲を変更 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1295400.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/400/01.jpg"></div></div><span class="caption">今回の変更点</span></div></div></div></div><p>　<a href="https://www.mhlw.go.jp/" class="n" target="_blank">厚生労働省</a>は、新型コロナウイルス感染者接触確認アプリ「COCOA」の最新バージョン「1.2.1」を公開した。15日付けでiOS/Android向けに配布を開始している。今後は新型コロナ感染可能期間に陽性者と接触した可能性がある対象者に対してのみ通知する。</p><p>　今回、保健所による積極的疫学調査との整合性を図る観点から、陽性者との接触の可能性について本アプリで通知を行う対象期間を、保健所が行なう積極的疫学調査において濃厚接触者の探索を行なう期間にあわせる改修を行った。</p><p>　「積極的疫学調査」とは、保健所などが行なう集団感染の全体像や病気の特徴などを調べることで、感染経路などの特定をするもの。</p><p>　また、アプリ利用者が陽性になった場合に表示する同意画面をより分かりやすく改善した。</p></div></div>]]></description>
+			<pubDate>Tue, 15 Dec 2020 18:50:18 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
