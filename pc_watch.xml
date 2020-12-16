@@ -5,30 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>12月のWindows 10パッチで日本語IMEやThunderbolt SSD接続時の不具合が解消 ～オーディオドライバによるブルースクリーンの問題は現在も調査中</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1295255.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/255/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は、Windows 10 バージョン2004/20H2における既知の不具合の一部について、修正が完了したと報告している。</p><p>　これらのバージョンでは、Thunderbolt接続のNVMe SSDを使用したさいにブルースクリーンが発生する不具合や、日本語および中国語IMEを利用する環境における複数の不具合が報告されていた。どちらの不具合についても12月1日にリリースされた「KB4586853」にて修正されている。</p><p>　前者については自動でのアップデートをブロックするセーフガードホールドが適用されていたが、不具合の解消により、12月11日をもってこれを解除。後者については、7月と9月に公開されたパッチで不具合の一部が修正されていたが、本パッチの適用で報告されていたすべての問題が解決される。</p><p>　なお、Conexant ISSTオーディオドライバを使用する環境にて、エラーやブルースクリーンが発生してしまう問題については、現在も調査中となっている。</p></div></div>]]></description>
-			<pubDate>Tue, 15 Dec 2020 12:56:32 +0900</pubDate>
-		</item>
-		<item>
-			<title>14日発生のGoogle大規模障害。要因は認証管理システムの容量不足 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1295292.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/292/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.google.com/" class="n" target="_blank">Google</a>は14日(米国時間)、Google Cloud PlatformおよびGoogle Workspaceにおいて同日発生した大規模障害について、レポートを公開した。</p><p>　レポートによれば、同社の自動クォータ管理システムの問題に起因して、中央認証管理システム(Central Identity Management System)の容量が減少。これにより、ユーザーリクエストの認証状態が確認できず、エラーを返していたという。障害は、同日3時45分～4時35分(日本時間で20時45分～21時35分)の期間で発生していたとされる。</p><p>　影響範囲は、Google Cloud Platform(Cloud Console、Cloud Storageなど)およびGoogle Workspace(Gmail、Calendar、Drive、Meetなど)における、認証が必要な各種サービスだったとしている。</p></div></div>]]></description>
-			<pubDate>Tue, 15 Dec 2020 14:21:11 +0900</pubDate>
-		</item>
-		<item>
-			<title>Microsoft、任天堂、ソニーがゲームの安定性向上に向けた共同声明 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1295307.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/307/01.jpg"></div></div></div></div></div></div><p>　Microsoft、任天堂、ソニー・インタラクティブエンタテインメントは15日、「ゲームの安全性向上に向けて」と題した共同声明を発表した。</p><p>　さまざまなゲームがオンライン化し、SNSとも密接に結びつくようになった現在、ゲームの持つ可能性が広まる一方で、ゲーム内外でプレイヤーがハラスメントなどの被害に遭うケースも増えている。そういった問題の解決に向け、3社は横断的な取り組みが必要だと考え、ゲームの安定性向上に向け、共同で声明を発表した。</p><p>　声明の骨子は、</p><ol class="list-01"><li>適切なゲーム体験についての理解の促進(防止)</li><li>ユーザーの安全を守るため、ゲーム業界、規制当局、司法機関、そしてコミュニティと連携(パートナーシップ)</li><li>すべてのプレイヤーのために、プラットフォームの安全性を高める(責任)</li></ol><p>の3点で、今回のパートナシップを通じて、ゲームをプレイするさいの安全性を高め、今後もゲームを真の意味ですべてのユーザーに向けたエンタテインメントにしたいとしている。</p><p><span class="em color red">【お詫びと訂正】初出時に記事タイトルに「ゲームの安定性」としておりましたが「安全性」の誤りです。お詫びして訂正させていただきます。</span></p></div></div>]]></description>
-			<pubDate>Tue, 15 Dec 2020 14:37:09 +0900</pubDate>
-		</item>
-		<item>
-			<title>7型ゲーミングUMPC「OneGx1 Pro」が2021年1月末に国内発売 ～1月11日までの先行予約で15%引き</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1295323.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/323/01.jpg"></div></div><span class="caption">OneGx1 Pro</span></div></div></div></div><p>　株式会社テックワンは、ONE-NETBOOK製の7型ゲーミングUMPC「OneGx1 Pro」を2021年1月31日より発売する。税別価格は16万8,000円から。すでに予約受付を開始しており、1月11日までに予約をすると15%引きにて購入できる。</p><p>　ストレージおよび4G/5Gモデムの有無で計4モデルを用意。各モデルの税別価格は、512GB SSDモデルが16万8,000円(先行予約で14万2,800円)、512GB+512GB SSDモデルが17万8,000円(同15万2,800円)、512GB SSD/4G対応モデルが17万8,000円(同15万2,800円)、512GB SSD/5G対応モデルが20万8,000円(17万6,800円)。なお、5G対応モデルは2月下旬の発売を予定している。</p><p>　Tiger Lake世代のCPU Core i7-1160G7を採用し、従来のOneGx1から2倍以上の3D処理性能を実現。左右には脱着式の専用ゲームコントローラ(オプション)が装備でき、ディスプレイには2,048段階のペン入力も可能な10点マルチタッチ対応7型1,920×1,200ドット液晶を備える(ペンは別売)。キーボード配列は日本語となる。</p><p>　そのほか共通の仕様は、16GBメモリ、Windows 10 Home。インターフェイスは、USB4×2(最大65W PD対応)、USB 3.0、Wi-Fi 6、Bluetooth 5.0、Micro HDMI、microSDカードスロット、音声入出力などを備える。</p><p>　本体サイズは173×136×21mm(幅×奥行き×高さ)、重量は623g(コントローラ含まず)。</p></div></div>]]></description>
-			<pubDate>Tue, 15 Dec 2020 15:18:25 +0900</pubDate>
-		</item>
-		<item>
 			<title>【.biz 】富士通、738gのシンクライアントとXeon/Quadro搭載可能なモバイルワークステーション </title>
 			<link>https://pc.watch.impress.co.jp/docs/biz/1295330.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/330/1.jpg"></div></div><span class="caption">FUTRO U9311M</span></div></div></div></div><p>　<a href="http://www.fujitsu.com/jp/" class="n" target="_blank">富士通</a>は、薄型筐体の13.3型シンクライアント「FUTRO U9311M」と、15.6型で指紋センサーなどの搭載ができるモバイルワークステーション「CELSIUS H7510」を法人向けに発売した、税別価格は順に15万8,900円、47万3,600円。</p><p>　「FUTRO U9311M」は、CPUにCeleron 6305、4GB RAM、128GB内蔵メモリ、OSにWindows 10 IoT Enterprise 2019 LTSC(64bit)などを搭載したシンクライアント端末。本体サイズ307×197×15.5mm(幅×奥行き×高さ)、重量約738gと小型軽量で、USB Type-Cでの充電にも対応する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/330/02.jpg"></div></div><span class="caption">CELSIUS H7510</span></div></div></div></div><p>　「CELSIUS H7510」は、CADや2D/3D映像制作に好適な15.6型のフルHD解像度(1,920×1.080ドット)対応液晶を搭載するモバイルワークステーション。CPUは第10世代Coreシリーズのほか、Xeon Wプロセッサも搭載可能。メモリはCoreシリーズの場合は標準で8GB、Xeonの場合は標準で16GB搭載する。ストレージはCoreシリーズは500GB HDD、Xeonは500GB HDDに加え、NVMe SSDを搭載する。内蔵GPUはモデルによって異なり、Xeonの場合はQuadro T2000、Core i7の場合はQuadro T1000、Core i5の場合はQuadro P620を搭載する。</p><p>　本体サイズは380×258×31.9mm(同)、重量は約2.8kg。</p></div></div>]]></description>
@@ -117,6 +93,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1295527.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/527/1.jpg"></div></div></div></div></div></div><p>　英SAFEBETTINGSITESは15日(現地時間)、IDCの調査に基づくゲーミングパソコン市場の今後の予測を発表した。</p><p>　2020年は新型コロナウイルスの影響でロックダウンや外出自粛が相次ぎ、自宅のエンターテインメント市場が大きく拡大。そのなかで世界的にもゲーミングパソコンの需要も高まっており、ゲーミングノート、ゲーミングデスクトップ、ディスプレイの合計出荷台数は4,960万台に達し、前年比16.2%増という急成長を遂げた。このうちゲーミングノートは2,230万台、ゲーミングデスクトップは1,480万台。</p><p>　2021年以降も需要拡大が続き、2024年にはゲーミングノートは3,020万台、デスクトップは1,580万台、ディスプレイは1,600万台規模の市場になるとしている。</p><p>　2020年のゲーミングパソコンの売上金額予測は、過去5年間で60%の増加となる392億ドルに達する見込み。</p></div></div>]]></description>
 			<pubDate>Wed, 16 Dec 2020 12:59:31 +0900</pubDate>
+		</item>
+		<item>
+			<title>「CloudReady」を開発するNeverware、Chrome OSチームに統合 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1295560.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/560/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.google.com/" class="n" target="_blank">Google</a>は15日(現地時間)、CloudReadyを提供する米<a href="https://www.neverware.com/" class="n" target="_blank">Neverware</a>を買収した。Neverwareが同日Twitter上で発表している。</p><p>　CloudReadyは、さまざまなパソコンで動作できるChromium OSベースのOS。個人用途向けのHome Editionであれば無償で入手でき、導入すればさまざまなパソコンをChromebookのように使える(<a href="https://pc.watch.impress.co.jp/docs/column/nishikawa/1272641.html">別記事</a>参照)。今回の買収により、NeverwareおよびCloudReadyはChrome OSチームの一部となるが、CloudReadyについては当面の間、ライセンスの価格設定やサポートなどを含めて大きな変更はなく、現行の製品はそのまま利用できるとしている。</p><p>　長期的にはChrome OSが公式に提供する製品となる予定で、リリースプロセスもChrome OSとあわせられる見込み。そのさい、既存のユーザーにはアップグレードがシームレスに提供され、管理コンソールなどもGoogle Adminへ移行されるという。複数年契約のライセンスなどについても継続される。</p><p>　なお、CloudReadyのPlay StoreやAndroidアプリへの対応については、現時点では予定されていないとしている。そのほか詳細については、今後発表していくという。</p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Exciting news to share: Neverware &amp; CloudReady are now officially part of Google and the Chrome OS team! We’re looking forward to sharing more details with CloudReady customers, users, and fans in the coming weeks, but for now, click here for more info:<a href="https://t.co/ZBkH2IFVsZ">https://t.co/ZBkH2IFVsZ</a></p>— Neverware (@neverware)<a href="https://twitter.com/neverware/status/1338606293737730050?ref_src=twsrc%5Etfw">December 14, 2020</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div>]]></description>
+			<pubDate>Wed, 16 Dec 2020 13:15:19 +0900</pubDate>
+		</item>
+		<item>
+			<title>Apple M1にネイティブ対応したFirefoxバージョン84公開 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1295585.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/585/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.mozilla.org/" class="n" target="_blank">Mozilla</a>は15日(現地時間)、Webブラウザ「Firefox」のバージョン84を公開した。</p><p>　本バージョンでは、Apple M1チップ搭載Macにネイティブ対応を果たした。バージョン83と比べて、起動時間が2.5倍以上、Webアプリケーションでは応答性が約2倍向上し、バッテリ駆動時間も改善されるという。なお、ネイティブ動作させるには、バージョン84以降へのアップデート後にFirefoxを完全に終了/再起動する必要がある。アドレスバーに「about:support」と入力すれば、Rosetta 2の有効状態が確認できる。</p><p>　また、WebRenderの提供範囲を拡大。macOS Big Surおよび第6世代Intel GPU搭載Windows 7/8マシン向けでも利用可能となる。加えて、Linux/GNOME/X11ユーザー向けにレンダリングパイプラインの高速化も実施される。</p><p>　Adobe Flashをサポートする最後のバージョンとなるほか、各種セキュリティ関連の修正も行なわれている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/585/02.jpg"></div></div><span class="caption">アドレスバーからRosetta 2の有効状態が確認できる(falseならネイティブ動作している)</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Wed, 16 Dec 2020 13:55:33 +0900</pubDate>
+		</item>
+		<item>
+			<title>無線LANで接続できる15.6型モバイル液晶ディスプレイ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1295578.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1295/578/1_o.jpg"></div></div><span class="caption">Kiperline Gen-9 Skyline</span></div></div></div></div><p>　中国Kiperlineは、無線LANで接続できる15.6型モバイル液晶ディスプレイ「Kiperline Gen-9 Skyline」を発売した。価格は2万630円だが、現在10%オフの1万8,566円で販売中。</p><p>　同じネットワーク内にあるデバイスから無線LAN経由で接続可能。iOS/iPadOSでは「画面ミラーリング」、Androidでは「スクリーンミラーリング」、macOSでは「Air Play」、Windowsでは「ディスプレイの設定」といったOSの標準機能を介して接続できる。</p><p>　また、USB Type-CとMini HDMIによる入力を備えており、有線での接続も可能。1.2W×2のステレオスピーカーも内蔵する。</p><p>　パネルはBOE製。色域はDCI-P3比45%、解像度は1,920×1,080ドット、表示色数は26万2,000色、輝度は220cd/平方m、コントラスト比は1,400:1、視野角は上下/左右ともに178度。</p><p>　本体サイズは359×261×10mm(幅×奥行き×高さ)、重量は900g。</p><div><div><div><div><div><ul class="aff_list"><li class="aff_item"><div><a href="https://www.amazon.co.jp/dp/B08KD476HY/ref=nosim?tag=impresswatch-6-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51HrRn6qbPL._SL160_.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/dp/B08KD476HY/ref=nosim?tag=impresswatch-6-22" target="_blank">Kiperline Gen-9 Skyline</a></div></div></li></ul></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Wed, 16 Dec 2020 13:59:30 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
