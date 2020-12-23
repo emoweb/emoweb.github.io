@@ -5,30 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>chkdsk /fでファイルシステムが壊れる問題が修正 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1296732.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1296/732/1.jpg"></div></div></div></div></div></div><p>　Microsoftは、Windows 10の2004/20H2用パッチ「KB4592438」アップデート後(OSビルド19041.685および19042.685)における、chkdsk /fコマンドでファイルシステムがダメージを受け、OSが起動できなくなる問題を修正した。</p><p>　この修正は自動で適用され、非管理下のデバイスにおいてユーザーが操作する必要はないが、OSを再起動すればより早く適用できる。一方、エンタープライズといった管理下にあるデバイスの場合、特別なグループポリシーを設定することで適用できる。</p><p>　なお、すでにダメージを受けてしまいOSが起動できなくなった場合は、Windowsは自動的にリカバリコンソールに入る。そのさいに「高度なオプション」を選択し、そのなかで「コマンドプロンプト」をクリック。起動したコマンドプロンプトで「chkdsk /f」を実行すれば、問題が修正されるとしている。</p><p>　問題の修正後、再起動時に再度chkdskが自動で走るが、終了すればOSが起動できる。この問題は「KB4586853」を適用したOS Builds 19041.662および19042.662でも発生するが、同様に修正される。</p></div></div>]]></description>
-			<pubDate>Tue, 22 Dec 2020 10:56:31 +0900</pubDate>
-		</item>
-		<item>
-			<title>マウス、ノート対応対応のコンパクトUSB PD充電器 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1296647.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1296/647/01.jpg"></div></div><span class="caption">Type-C AC充電器</span></div></div></div></div><p>　<a href="https://www.mouse-jp.co.jp/" class="n" target="_blank">株式会社マウスコンピューター</a>は、ノートパソコンの充電に使える65W出力のType-C AC充電器を発売した。税別価格は2,980円。</p><p>　約55×58×28mm(幅×奥行き×高さ)、重量約215gと持ち運びを考慮したケーブル一体のコンパクトな充電器で、ケーブル長約1.8mとさまざまな環境下で使いやすい仕様とした。プラグは折りたたみ式とし、コンデンサなどを内蔵することでケーブルの垂れ下がりなどにも配慮した。</p><p>　最大65W出力でUSB PDに対応し、Type-C対応のノートパソコンやタブレット端末、スマートフォンを高速で充電できる。</p><p>　同社パソコンの対応機種は、mouse X4-i5シリーズ/mouse X4-i7シリーズ/mouse X5-i7シリーズ/mouse F5シリーズ/mouse B5シリーズ/DAIV 4Nシリーズ/MousePro-NB410シリーズ/MousePro-NB510シリーズ/MousePro-NB520シリーズ/MousePro-NB530シリーズ。</p></div></div>]]></description>
-			<pubDate>Tue, 22 Dec 2020 11:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>JAPANNEXT、HDR10対応で約11万円の65型4K IPS液晶 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1296749.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1296/749/01.jpg"></div></div><span class="caption">JN-IPS6500TUHDR</span></div></div></div></div><p>　<a href="http://japannext.net/" class="n" target="_blank">株式会社JAPANNEXT</a>は、65型4K液晶ディスプレイ「JN-IPS6500TUHDR」を25日より発売する。直販価格は10万9,980円。</p><p>　JN-IPS6500TUHDRは、HDR10をサポートする4K(3,840×2,160ドット)非光沢IPS液晶パネルを採用した製品。HDCP 2.2対応のHDMI 2.0ポートを3基備え、各種動画ストリーミングサービスの4K映像も表示可能。USBメモリ内の動画や画像を再生する機能も備え、デジタルサイネージの用途でも活用できる。</p><p>　おもな仕様は、表示色数が1,670万色、応答速度が8ms、輝度が300cd/平方m±10%、コントラスト比が1,000:1、視野角が上下/左右ともに178度。インターフェイスには、USBや10W+10Wスピーカーなども備える。</p><p>　本体サイズは1,466×295×906mm(幅×奥行き×高さ、スタンド含む)、重量は18.2kg。400×400mmのVESAマウントをサポートするほか、リモコンが付属する。</p></div></div>]]></description>
-			<pubDate>Tue, 22 Dec 2020 11:57:04 +0900</pubDate>
-		</item>
-		<item>
-			<title>Adobe Premiere ProのM1 Mac向けベータ版が登場。エンコード速度がIntel Macの2倍以上 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1296750.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1296/750/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.adobe.com/jp/" class="n" target="_blank">Adobe</a>は、Apple M1にネイティブ対応した「Premiere Pro」、「Premiere Rush」、「Audition」のパブリックベータ版を公開した(すべて英語版)。それぞれアプリケーションの性能向上と省電力化が実現されているという。</p><p>　Premiere Proについては、段階的にM1のネイティブ対応を進めていくとしており、検証が完了次第、順次新しいコンポーネントとして正式に追加していくという。</p><p>　Adobeはその性能を公開しており、以下のH.264のエンコード時間の比較で、ハイエンドモデルでIntel版の16インチMacBook Proには若干負けているものの、同じ13インチのIntel版MacBook Proの2倍以上の速度を見せている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1296/750/g1.jpg"></div></div><span class="caption">エンコード速度の比較</span></div></div></div></div><p>　一方で、以下のAdobe Senseiによるシーン検出では、M1のマシンラーニング機能が使えることから、Rosetta 2エミュレーションモードで動作するM1版のMacBook Proでも、Intel版の16インチMacBook Proよりも高速に処理を終えている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1296/750/g2.jpg"></div></div><span class="caption">シーン検出速度の比較</span></div></div></div></div><p>　なお、M1対応のPremiere Proベータ版では、新しいキャプションワークフローが組み込まれたことから、プロジェクトファイルのアップグレードが必要としており、ベータ版のテスト用に現在のプロジェクトをコピーしておくことを推奨している。</p><p>　また、Transmitリファレンスモニタリングハードウェア、プラグイン、拡張パネル、コントロールサーフェスなどのサードパーティの連携機能が制限されている。</p><p>　このほか、Premiere Rush、Auditionも一部機能がM1にネイティブ対応し、使い勝手や性能が向上している。これら3つのアプリケーションは2021年中に正式版が提供される予定だ。</p></div></div>]]></description>
-			<pubDate>Tue, 22 Dec 2020 12:14:36 +0900</pubDate>
-		</item>
-		<item>
 			<title>富士通、100台限定で川崎フロンターレ中村憲剛選手の引退記念モデル発売 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1296765.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1296/765/01_o.jpg"></div></div><span class="caption">One Four KENGOモデル</span></div></div></div></div><p>　<a href="https://www.fujitsu.com/jp/group/fccl/" class="n" target="_blank">富士通クライアントコンピューティング株式会社(FCCL)</a>は、Jリーグ川崎フロンターレの中村憲剛選手の引退を記念したモバイルノート「One Four KENGOモデル」を、直販サイトのWEB MARTにて100台限定で発売した。直販価格は23万1,000円。受注販売となっており、出荷は来年(2021年)2月15日。</p><p>　One Four KENGOモデルは、FCCLの軽量モバイルノート「LIFEBOOK UHシリーズ」をベースにした製品で、CPUはRyzen 7 4700U、メモリは8GBまたは16GB、ストレージは256GBまたは512GBのSSD、OSはWindows 10 Homeを搭載。重量は約845gで、Office Home &amp; Business 2019が付帯する。</p><p>　限定モデルらしく、天板にはOne Four KENGO 公式ロゴ、キーボードのFキーに川崎フロンターレのオリジナルロゴ、起動画面や壁紙を特別仕様とした。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1296/765/02_o.jpg"></div></div></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1296/765/03_o.jpg"></div></div></div></div></div></div><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/y6yrnV94PtY?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div></div></div></div></div></div></div>]]></description>
@@ -117,6 +93,30 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1297053.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1297/053/01.jpg"></div></div><span class="caption">ROG Phone 3</span></div></div></div></div><p>　<a href="https://www.asus.com/jp/" class="n" target="_blank">ASUS JAPAN株式会社</a>は、6.59型ゲーミングスマートフォン「ROG Phone 3」の12GBメモリ搭載モデル「ZS661KS-BK512R12」、および専用アクセサリ「TwinView Dock 3」の価格改定を実施する。どちらも値下げが行なわれ、新価格はそれぞれ10万9,800円(旧価格11万9,800円)、2万1,800円(同2万6,800円)となる。本日23日より新価格が適用される。</p><p>　ROG Phone 3は、SoCにSnapdragon 865 Plusを採用した5G対応スマートフォン。最大リフレッシュレート144Hzの2,340×1,080ドットAMOLEDディスプレイを搭載するほか、3Dベイパーチャンバーと大型ヒートシンクによる冷却機構を内蔵。加えて、512GBストレージ(UFS 3.1)や、6,400万画素+1,300万画素広角+500万画素マクロによるトリプルレンズ構成のカメラなども備える。</p><p>　TwinView Dock 3は、144Hz駆動のタッチ対応2,340×1,080ドットAMOLEDディスプレイを備えたROG Phone 3向けアクセサリ。ROG Phone 3を装着することで2画面モードでの利用が可能となる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1297/053/02.jpg"></div></div><span class="caption">TwinView Dock 3(ROG Phone 3装着時)</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Wed, 23 Dec 2020 12:28:06 +0900</pubDate>
+		</item>
+		<item>
+			<title>Steamでウインターセールが開催中。「DEATH STRANDING」が半額など </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1297069.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1297/069/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.valvesoftware.com/" class="n" target="_blank">Valve</a>は、パソコンゲームの配信プラットフォーム<a href="https://store.steampowered.com/" class="n" target="_blank">Steam</a>にて「ウインターセール」を開催している。期間は日本時間で2021年1月6日3時まで。</p><p>　執筆時点では、「DEATH STRANDING」が50%引きの3,795円、「Far Cry 5」が80%引きの1,584円、「Monster Hunter World: Iceborne」が38%引きの3,031円などとなっているほか、多数のタイトルを対象にセールが実施されている。</p></div></div>]]></description>
+			<pubDate>Wed, 23 Dec 2020 13:21:51 +0900</pubDate>
+		</item>
+		<item>
+			<title>Flight SimulatorがついにVR対応。没入感マシマシに </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1297089.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1297/089/01_o.png"></div></div><span class="caption">Microsoft Flight Simulator</span></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は、フライトシミュレーションゲームの「Microsoft Flight Simulator」のアップデートでVR機能が追加されたことを発表した。</p><p>　VR機能については今年(2020年)の10月より、ベータ版としてテストを行なっていたが今回正式に実装。対応するVR HMD(ヘッドマウントディスプレイ)を使用することで、より没入感の高いフライトを楽しめるようになる。OpenXR準拠のVR HMDで利用できるとしており、Windows Mixed Reality対応のHMDやOculusなどで動作すると思われる。</p><p>　このほか、新しいコンテンツとして、Airbus A320neoでの2つのトレーニングミッションとスポットライトイベント、スイス気象サービスMeteoblue提供の雪や氷といったデータを含めたライブウェザーの拡張などが追加されており、膨大な数のバグ修正も行なわれている。</p></div></div>]]></description>
+			<pubDate>Wed, 23 Dec 2020 13:23:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>ユニットコム、ファイナルファンタジーXIV推奨の15.6型ゲーミングノート </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1297091.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1297/091/01.jpg"></div></div><span class="caption">LEVEL-15FXR21-i7-ROXX-XIV</span></div></div></div></div><p>　<a href="https://www.unitcom.co.jp/" class="n" target="_blank">株式会社ユニットコム</a>はiiyama PCブランドLEVEL∞より、ファイナルファンタジーXIV推奨の15.6型ゲーミングノート「LEVEL-15FXR21-i7-ROXX-XIV」を発売した。価格は15万5,078円。</p><p>　LEVEL-15FXR21-i7-ROXX-XIVは、スクウェア・エニックス独自の検証基準を満たしたファイナルファンタジーXIV動作確認済みの製品。Core i7-10750HとGeForce RTX 2060を搭載するほか、16GBメモリ、500GB M.2 NVMe SSD、144Hz駆動対応15.6型フルHD(1,920×1,080ドット)非光沢液晶、Windows 10 Homeなどを備える。</p><p>　インターフェイスは、USB 3.0×2(うち1基Type-C)、USB 3.0、USB 2.0、Gigabit Ethernet、Wi-Fi 6、Bluetooth 5、HDMI、Mini DisplayPort、100万画素Webカメラ、SDカードスロット、音声入出力などを装備する。</p><p>　本体サイズは約364×258×34.2mm(幅×奥行き×高さ)、重量は約2.26kg。バッテリ駆動時間は約4時間。</p></div></div>]]></description>
+			<pubDate>Wed, 23 Dec 2020 13:24:21 +0900</pubDate>
+		</item>
+		<item>
+			<title>2020年末に期限切れになるルート証明書。「削除しないで」とMicrosoft </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1297082.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1297/082/1_o.jpg"></div></div></div></div></div></div><p>　Windowsにはあらかじめ多くのルート証明書が入っており、そのなかにはもうまもなく期限切れを迎える、もしくはすでに期限が切れているものも存在しているため、「削除しておこう」と考えているユーザーや管理者がいるかもしれない。しかし、それはタブーな行為だ。</p><p>　Microsoftの告知によれば、たとえばWindows 7、Windows Vista、Windowser Server 2008/2008 R2には、以下のような、もうまもなく期限切れとなるルート証明書が存在する。</p><div><table class="table-data p80 hcenter acenter-all"><tbody><tr class="y1 odd"><th class="y1 y1x1 x1">発行先</th><th class="y1 y1x2 x2">発行者</th><th class="y1 y1x3 x3">シリアルナンバー</th><th class="y1 y1x4 x4">有効期限</th><th class="y1 y1x5 x5">目的</th><th class="y1 y1x6 x6 td_end">フレンドリ名</th></tr><tr class="y2 even"><td class="y2 y2x1 x1">Microsoft Root Authority</td><td class="y2 y2x2 x2">Microsoft Root Authority</td><td class="y2 y2x3 x3">00c1008b3c3c8811d13ef663ecdf40</td><td class="y2 y2x4 x4">12/31/2020</td><td class="y2 y2x5 x5">&lt;すべて&gt;</td><td class="y2 y2x6 x6 td_end">Microsoft Root Authority</td></tr><tr class="y3 odd"><td class="y3 y3x1 x1">Thawte Timestamping CA</td><td class="y3 y3x2 x2">Thawte Timestamping CA</td><td class="y3 y3x3 x3">00</td><td class="y3 y3x4 x4">12/31/2020</td><td class="y3 y3x5 x5">タイムスタンプ</td><td class="y3 y3x6 x6 td_end">Thawte Timestamping CA</td></tr><tr class="y4 tr_end even"><td class="y4 y4x1 x1">Microsoft Root Certificate Authority</td><td class="y4 y4x2 x2">Microsoft Root Certificate Authority</td><td class="y4 y4x3 x3">79ad16a14aa0a5ad4c7358f407132e65</td><td class="y4 y4x4 x4">5/9/2021</td><td class="y4 y4x5 x5">&lt;すべて&gt;</td><td class="y4 y4x6 x6 td_end">Microsoft Root Certificate Authority</td></tr></tbody></table></div><p>　同様に、Windows XPやWindows Server 2003、Windows 2000にも、1999年や2004年に、とっくに期限が切れている証明書が存在する。</p><p>　ただ、これらの証明書は下位互換性のために必要である。なぜならば、その有効期限が切れる前にその証明書を使用して署名されたものはすべて、信頼されたルート証明書を使って検証する必要があるからだ。もしこれらの証明書を削除してしまうと、機能が制限されたり、最悪の場合OSやコンピュータ自身が壊れてしまう。</p><p>　ちなみにこれらの期限切れ証明書は、互換性のためにWindows 10にも多数存在しており、不用意に削除しないで残しておくよう、Microsoftは案内している。</p></div></div>]]></description>
+			<pubDate>Wed, 23 Dec 2020 13:41:52 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
