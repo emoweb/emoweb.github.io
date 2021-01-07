@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>エルザ、メモリ48GB搭載のGPU「NVIDIA RTX A6000」 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1298682.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1298/682/1.jpg"></div></div></div></div></div></div><p>　<a href="https://www.elsa-jp.co.jp/" class="n" target="_blank">株式会社エルザ ジャパン</a>は、プロ向けビデオカード「NVIDIA RTX A6000」を1月中旬に発売する。価格はオープンプライスで、店頭予想価格は66万4,400円前後の見込み。</p><p>　Ampereアーキテクチャを採用したプロ向けのフラグシップモデルで、前世代と比較して2倍の電力効率を達成。CUDAコアは10,752基、Tensorコアは336基、RTコアは84基などとなっている。</p><p>　メモリはGDDR6を採用し、バス幅は384bit、バンド幅は786GB/s。vGPUソフトウェアをサポートする。</p></div></div>]]></description>
-			<pubDate>Wed, 06 Jan 2021 17:01:37 +0900</pubDate>
-		</item>
-		<item>
-			<title>Xiaomi、Miスマートバンド5を1月8日より国内販売 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1298678.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1298/678/01.jpg"></div></div><span class="caption">Miスマートバンド5</span></div></div></div></div><p>　<a href="https://www.mi.com/" class="n" target="_blank">Xiaomi</a>は、スマートバンド「Miスマートバンド5」を1月8日に発売する。価格は4,490円。</p><p>　従来モデルから20%大型化した1.1型126×294ドットAMOLEDディスプレイを搭載。11種類のエクササイズモードを備えるほか、5気圧防水に対応し、水中を含むさまざまなワークアウトの記録が可能。</p><p>　光学式心拍センサーを利用して、睡眠状態やストレスレベルなどを継続的に測定し、PAI(Personal Activity Inteligence)を通じた健康状態の確認もできる。心拍数モニタリング機能の精度は従来モデルから50%向上したとする。</p><p>　そのほか、充電コネクタがマグネット式に変更され、充電時にバンドから本体を取り外す必要がなくなった。スマートフォンとの接続はBluetooth 5.0で、対応OSはAndroid 5.0以降/iOS 10.0以降。バッテリ駆動時間は14日、充電時間は2時間未満。</p><p>　本体サイズは18.15×12.45×46.95mm(幅×厚み×高さ)、重量は11.9g。</p></div></div>]]></description>
-			<pubDate>Wed, 06 Jan 2021 17:21:04 +0900</pubDate>
-		</item>
-		<item>
 			<title>【本日のできるネット】Fire TV StickでYouTubeを見る方法。最近の動画を探すならチャンネル名を検索するのが早い！ ほか </title>
 			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1298712.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1298/712/01_o.png"></div></div></div></div></div></div><blockquote><p>　Fire TV Stick（ファイヤーTVスティック）のYouTubeアプリからさまざまな動画を楽しみましょう。YouTubeアプリにログインしない場合、チャンネル名で検索すると目当ての動画をスムーズに見つけられます。</p><p class="src">できるネットの<a href="https://dekiru.net/article/21251/">Fire TV StickでYouTubeを見る方法。最近の動画を探すならチャンネル名を検索するのが早い！</a></p></blockquote><hr class="line-01"><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1298/712/02_o.jpg"></div></div></div></div></div></div><blockquote><p>　録画したビデオ会議は、チャネルまたはチャットに登録されます。サムネイルをクリックすることで簡単に再生できます。</p><p class="src">できるネットの<a href="https://dekiru.net/article/20317/">Teamsで録画したビデオ会議を視聴する方法</a></p></blockquote></div></div>]]></description>
@@ -117,6 +105,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1298903.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1298/903/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.google.com/" class="n" target="_blank">Google</a>は6日(現地時間)、WebブラウザGoogle Chromeの安定版「87.0.4280.141」をWindows/macOS/Linux向けに公開した。数日から数週間をかけて順次提供される。</p><p>　今回のアップデートでは、オートフィルなどいくつかの機能における解放済みメモリの再使用(CVE-2021-21106ほか)や、グラフィックスライブラリSkiaおよび音声機能におけるヒープベースのバッファオーバーフロー(CVE-2021-21113、CVE-2021-21116)など、深刻度Highを含む16件の脆弱性が修正されている。</p></div></div>]]></description>
 			<pubDate>Thu, 07 Jan 2021 15:37:29 +0900</pubDate>
+		</item>
+		<item>
+			<title>Mozilla、任意コード実行に発展しうる深刻な脆弱性を修正 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1298927.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1298/927/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.mozilla.org/" class="n" target="_blank">Mozilla</a>は6日(現地時間)、WebブラウザFirefoxの最新版「84.0.2」を公開した。</p><p>　バージョン84.0.2では、悪意あるピアによって改変されたSCTPパケットのCOOKIE-ECHOチャンクを処理するさいに、解放済みメモリの再使用が可能になる脆弱性(CVE-2020-16044)を修正。深刻度はCriticalとしており、この脆弱性を悪用すると任意コードの実行が可能な恐れがある。</p><p>　あわせて、Android版Firefoxではバージョン「84.1.3」、延長サポート版のFirefox ESRではバージョン「78.6.1」にて、それぞれ本脆弱性の修正が実施されている。</p></div></div>]]></description>
+			<pubDate>Thu, 07 Jan 2021 17:16:18 +0900</pubDate>
+		</item>
+		<item>
+			<title>HTC、VIVE公式VTuber「青森りんこ」コラボキャンペーンをTwitterで開催 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1298909.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1298/909/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.htc.com/jp/" class="n" target="_blank">HTC NIPPON株式会社</a>は、同社のVRヘッドセット「VIVE」シリーズの<a href="https://twitter.com/htcvivejapan" class="n" target="_blank">Twitter公式アカウント</a>で、VIVE公式VTuber「青森りんこ」のグッズが10名に当たるキャンペーンを12日まで実施中。</p><p>　応募は、公式アカウントをフォローし、キャンペーンツイートをリツイートすることで完了する。なお、日本在住で、かつアカウントが公開設定になっていることが条件。</p><p></p><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">?新年プレゼント企画?<br><br>明けましておめでとうございます??<br>本年もよろしくお願い申し上げます<a href="https://twitter.com/hashtag/QUO%E3%82%AB%E3%83%BC%E3%83%89?src=hash&amp;ref_src=twsrc%5Etfw">#QUOカード</a>アクリルスタンドなど<br>「<a href="https://twitter.com/hashtag/HTCVIVE?src=hash&amp;ref_src=twsrc%5Etfw">#HTCVIVE</a>x<a href="https://twitter.com/hashtag/%E9%9D%92%E6%A3%AE%E3%82%8A%E3%82%93%E3%81%93?src=hash&amp;ref_src=twsrc%5Etfw">#青森りんこ</a>グッズセット」を<br>10名様にプレゼント??<br><br>応募方法<br>①<a href="https://twitter.com/htcvivejapan?ref_src=twsrc%5Etfw">@htcvivejapan</a>をフォロー<br>②このツイートをRT<br>③当選発表はDMにて<br>締切1/12(火) 23:59<a href="https://t.co/hkR0S4cj3f">pic.twitter.com/hkR0S4cj3f</a></p>— htcvivejapan (@htcvivejapan)<a href="https://twitter.com/htcvivejapan/status/1346657860864757761?ref_src=twsrc%5Etfw">January 6, 2021</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><p></p><p>　なお、VIVE公式ストアでは「年末年始の大放出セール」として、VIVE Proを2万円引きで販売するなどしている。詳細は<a href="https://www.vive.com/jp/promo-2020-christmas/" class="n" target="_blank">公式ストア</a>をチェックされたい。</p></div></div>]]></description>
+			<pubDate>Thu, 07 Jan 2021 17:17:31 +0900</pubDate>
+		</item>
+		<item>
+			<title>ユニットコム、ゲーミングパソコンを最大2万円引き。MBSの「YUBIWAZA」タイアップ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1298915.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1298/915/01.jpg"></div></div></div></div></div></div><p>　株式会社ユニットコムは、<a href="https://www.pc-koubou.jp/" class="n" target="_blank">パソコン工房Webサイト</a>および店舗で、毎日放送のeスポーツ番組「YUBIWAZA」とのタイアップ企画として、同社のゲーミングパソコンブランド「LEVEL∞」の対象モデルが最大20,000円オフとなるキャンペーンを実施している。期間は28日14時まで。</p><p>　キャンペーン対象機種など、詳しくは<a href="https://www.pc-koubou.jp/pc/level_tieup.php?utm_source=pr&amp;utm_medium=content-text&amp;utm_campaign=pr20210107_1&amp;utm_content=nonpay" class="n" target="_blank">キャンペーンページ</a>を参照されたい。</p></div></div>]]></description>
+			<pubDate>Thu, 07 Jan 2021 17:19:06 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
