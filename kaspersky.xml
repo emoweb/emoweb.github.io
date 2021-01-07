@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>バックアップだけでは十分ではない理由</title>
-			<link>https://blog.kaspersky.co.jp/why-backup-is-not-enough/29769/</link>
-			<description><![CDATA[データのバックアップは有益ですが、ランサムウェア対策としては、これだけでは十分とは言えません。その理由は。]]></description>
-			<pubDate>Mon, 21 Dec 2020 01:00:50 +0000</pubDate>
-		</item>
-		<item>
 			<title>『Cyberpunk 2020』の世界：ハッカー（ネットランナー）の装備</title>
 			<link>https://blog.kaspersky.co.jp/cyberpunk-2020-netrunner-arsenal/29773/</link>
 			<description><![CDATA[前世紀のサイエンスフィクションが描き出すハッカーのツール群は、2020年の今とどう対応する？]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/cinderella-cybersecurity-fairy-tale/29838/</link>
 			<description><![CDATA[シンデレラの物語は、サイバーセキュリティの基本原則を教えてくれます。]]></description>
 			<pubDate>Wed, 06 Jan 2021 01:00:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>Air-Fi：隔離されたコンピューターからデータを盗み出す</title>
+			<link>https://blog.kaspersky.co.jp/air-fi-data-exfiltration/29846/</link>
+			<description><![CDATA[Wi-Fi対応ではないコンピューターでもWi-Fiで情報を送信できる？！イスラエルのリサーチャーの調査研究より。]]></description>
+			<pubDate>Thu, 07 Jan 2021 01:00:33 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
