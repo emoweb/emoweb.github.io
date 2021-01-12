@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>DevOpsを保護するには</title>
-			<link>https://blog.kaspersky.co.jp/devops-security-hybrid/29789/</link>
-			<description><![CDATA[近年、パブリックリポジトリを利用したサプライチェーン攻撃が増加しています。こうした攻撃に対処する方法とは。]]></description>
-			<pubDate>Wed, 23 Dec 2020 01:00:52 +0000</pubDate>
-		</item>
-		<item>
 			<title>ドキュメンタリー：2018年冬季オリンピックを混乱させたのは誰か</title>
 			<link>https://blog.kaspersky.co.jp/hacker-hunter-olympic-destroyer/29794/</link>
 			<description><![CDATA[2018年の冬季オリンピックを襲ったサイバー攻撃は、壮大な偽旗作戦でした。Kasperskyの新作ドキュメンタリー。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/rc3-etherify/29852/</link>
 			<description><![CDATA[無線データを、有線ネットワークを使って送信することは可能なのでしょうか？ある実験によると、可能なようです。]]></description>
 			<pubDate>Fri, 08 Jan 2021 01:00:10 +0000</pubDate>
+		</item>
+		<item>
+			<title>ZyXelのデバイスにハードコードされたアカウント</title>
+			<link>https://blog.kaspersky.co.jp/zyxel-undocumented-account/29858/</link>
+			<description><![CDATA[パスワードがハードコードされた管理者レベルのアカウント「zyfwp」が、複数のZyXel製ネットワークデバイスで発見されました。]]></description>
+			<pubDate>Tue, 12 Jan 2021 01:00:31 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
