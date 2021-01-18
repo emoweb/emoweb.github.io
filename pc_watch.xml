@@ -5,24 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Intel、第11世代Core i7+RTX 2060搭載のエンスージアスト向けNUC </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1300453.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/453/01.jpg"></div></div><span class="caption">Intel NUC11 Enthusiast</span></div></div></div></div><p>　<a href="https://www.intel.com/content/www/us/en/homepage.html" class="n" target="_blank">Intel</a>は、第11世代Core i7とGeForce RTX 2060を搭載したNUC「Intel NUC11 Enthusiast」を発表した。価格や発売時期などはアナウンスされていないが、キット版と完成品版の2タイプを用意する。</p><p>　CPUにCore i7-1165G7(4コア/最大4.7GHz駆動)、ディスクリートGPUにGeForce RTX 2060を搭載し、最大64GBまで対応するDDR4-SODIMMソケットを2基備えるNUC。ストレージはM.2規格のNVMe/SATA SSDをサポートするほか、SDXCスロットも搭載する。</p><p>　完成品版では、上記に加えて、メモリに16GB、ストレージにIntel Optane Memory H10(512GB+32GB)を搭載し、OSにはWindows 10 Homeをプリインストールする。</p><p>　おもなインターフェイスは、USB 3.0×6、Thunderbolt 4×2、HDMI 2.0b、Mini DisplayPort、Wi-Fi 6(IEEE 802.11ax)、Bluetooth 5、2.5Gigabit Ethernetなど。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/453/02_o.jpg"></div></div><span class="caption">インターフェイス類</span></div></div></div></div><p>　本体サイズは221×142×42mm(幅×奥行き×高さ)。</p></div></div>]]></description>
-			<pubDate>Fri, 15 Jan 2021 16:57:32 +0900</pubDate>
-		</item>
-		<item>
-			<title>ウイルスバスター法人向け製品に深刻度最高のものを含む複数の脆弱性 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1300459.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/459/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.jpcert.or.jp/" class="n" target="_blank">JPCERT/CC(一般社団法人JPCERTコーディネーションセンター)</a>は14日、トレンドマイクロ製のソフトウェア「ウイルスバスタービジネスセキュリティ」シリーズに関する複数の脆弱性について公開した。</p><p>　対象となるのは、「ウイルスバスタービジネスセキュリティ 9.5」、「ウイルスバスタービジネスセキュリティ 10.0 SP1」および「ウイルスバスタービジネスセキュリティサービス 6.7」。なおこのうち、ウイルスバスタービジネスセキュリティサービス 6.7については、CVE-2020-28574の影響を受けない。</p><p>　これらの製品では、認証バイパス(CVE-2020-24563)、境界外読み取り(CVE-2020-24564、CVE-2020-24565など)、パストラバーサルの脆弱性(CVE-2020-28574)が報告されており、CVSS v3(共通脆弱性評価システム)の評価スコアは順に7.8、5.6、10となっている。</p><p>　ウイルスバスタービジネスセキュリティ 9.5および10.0 SP1については、同10.0 SP1 Patch 2260以降にアップデートすることで脆弱性の修正が可能。ウイルスバスタービジネスセキュリティサービスについては、2020年8月15日のメンテナンスですでに修正が実施されている。</p></div></div>]]></description>
-			<pubDate>Fri, 15 Jan 2021 16:59:02 +0900</pubDate>
-		</item>
-		<item>
-			<title>アイコンを見るだけでデータが破壊されるNTFSの脆弱性 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1300447.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/447/1.jpg"></div></div><span class="caption">BleepingComputerが公開した動画より</span></div></div></div></div><p>　海外メディアBleepingComputerの報道によれば、Windows 10およびNTFSファイルシステムのバグにより、たった1行のコマンドでドライブ全体が壊れる脆弱性が存在しているとし、注意を促している。</p><p>　NTFSのインデックス属性、あるいは“$i30”という文字列は、NTFSの属性の1つであり、ディレクトリのファイルと、サブフォルダのリストを含んでいる。ところが、cdコマンドなどでこの属性にアクセスしようとすると、ドライブが壊れるのだという。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/447/02.jpg"></div></div></div></div></div></div><p>　Windows 10のコマンドプロンプトでこの文字列を含むコマンドを実行すると、「ファイルまたはディレクトリが破損しています。読み取りはできません」といったエラーメッセージが現れ、Windows 10がユーザーにパソコンを再起動してディスクをチェックするよう通知してくる。チェックディスクを実施すると、イベントビューアーに「MFT(マスターファイルテーブル)に破損したレコードが含まれている」といったエラーを残すようになる。</p><p>　このコマンドだけだとまだ“脆弱性”と言い難いのだが、Windowsのショートカット(.url)のアイコンの場所として、$i30を含むパスを指定してすと、ユーザーはそのショートカットを実行せずとも、Windows上でアイコンが見えた時点でドライブが破壊されてしまう。たとえそのショートカットがZIPファイルのなかにあったとしてもである。</p><p>　この脆弱性はinfosecの研究者のJonas L氏によって発見され、Windows 10 1803以降のすべてのバージョンで悪用可能だとし、数年前からMicrosoftに報告しているが、未修正のままとなっている。本記事では$i30を含む具体的なコマンド例を避けるが、くれぐれも興味本位で自身のパソコンで実験しないよう注意してほしい。</p></div></div>]]></description>
-			<pubDate>Fri, 15 Jan 2021 17:02:56 +0900</pubDate>
-		</item>
-		<item>
 			<title>ユニットコム、GeForce RTX 3090搭載のディープラーニング専用パソコン </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1300455.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/455/1.jpg"></div></div><span class="caption">DEEP-TXAB-XW21-XAXおよびDEEP-TXAB-XW21-XADX</span></div></div></div></div><p>　株式会社ユニットコムは、<a href="https://www.pc-koubou.jp/" class="n" target="_blank">パソコン工房</a>のiiyama PCブランドにおいて、GeForce RTX 3090を搭載したディープラーニング専用パソコン「DEEP∞」シリーズ2モデルを発売した。OSはすべてUbuntu 18.04.5 LTS。</p><p>　第3世代Tensorコア搭載のGeForce RTX 3090で、ディープラーニングの学習処理を高速化。マルチGPUでの利用を見据え、エアフローを改善するとともに、CPUにXeon Wを採用し、理論性能を向上させたとしている。</p><p>　「DEEP-TXAB-XW21-XAX」は、CPUにXeon W-2223、メモリ32GB、1TB M.2 SSD、Intel C422チップセット(Supermicro MBD-X11SRA)、GeForce RTX 3090、1,200W 80PLUS Platinum認証電源などを搭載し、価格は56万780円。</p><p>　「DEEP-TXAB-XW21-XADX」は、上記からビデオカードを2枚とした構成で、価格は86万8,780円。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/455/2.jpg"></div></div><span class="caption">DEEP-7049GP-XeS4-XAQX</span></div></div></div></div><p>　「DEEP-7049GP-XeS4-XAQX」は、CPUにXeon Silver 4120R×2、メモリ96GB、1TB M.2 SSD、Intel C621、Quadron P400(ディスプレイ出力用)+GeForce RTX 3090×4、80PLUS Titanium 2,200W冗長化電源を搭載し、価格は204万5,780円。</p></div></div>]]></description>
@@ -117,6 +99,30 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1300659.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/659/01.jpg"></div></div><span class="caption">AMONG US | Short Film</span></div></div></div></div><p>　「Among Us」は、2018年に発売されたゲームだが、2020年にSNSで火がついて一躍有名になった。いわゆる「人狼」タイプのゲームで、通常のミッションをこなしながら、裏切り者を探す、あるいはその逆に裏切り者として、他のプレイヤーを密かに殺していく。</p><p>　そんなAmong Usをファンが実写化してYouTubeに公開している。12分程度のショートフィルムだが、殺人、クルーによる会議、宇宙船からの追放など、ゲームの様子が緻密に再現され、セットや演技、編集もかなりのレベルのものとなっている。シリアスな内容なのだが、もとがキュートな2頭身キャラのコミカルな雰囲気だけに、鑑賞していて思わず笑いがこみ上げてくる。</p><p>　公開日は2カ月ほど前で、残念ながら日本語字幕はないのだが、同作をプレイしていて未見の人は、ぜひ見てみてほしい。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/659/03.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/659/02.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/659/04.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/659/05.jpg"></div></div></div></div></div></div><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/t2jP1AVkItA?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div></div></div></div></div></div></div>]]></description>
 			<pubDate>Mon, 18 Jan 2021 11:09:26 +0900</pubDate>
+		</item>
+		<item>
+			<title>Samsung、カメラ埋め込めみでほぼフレームがないノート向けOLED </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1300698.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/698/1_o.jpg"></div></div></div></div></div></div><p>　Samsung Displayは、公式YouTubeチャンネルにおいて、カメラをディスプレイに埋め込めるノート向け「UPC(Under Panel Camera) OLED」のコンセプトを発表した。</p><p>　カメラをディスプレイに埋め込むことでベゼルレス化を推し進め、93%の画面占有率を実現できるとしたほか、従来のディスプレイと比較して厚さが2.1mmから1mmに、重量が180gから130gに削減でき、これまでにない薄型軽量のノートパソコンが実現可能という。</p><p>　バックライトが不要なOLEDディスプレイでは薄型化が容易なため、光学式や超音波式の指紋センサーを背面に埋め込むデザインはすでに実現しており、多くのスマートフォンで採用されている。同様にWebカメラを埋め込むことも理論的には可能で、いくつかのスマートフォンメーカーがコンセプトを発表しているのだが、まだ実用化に至っていない。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/698/2_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/698/3_o.jpg"></div></div></div></div></div></div><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/is1cgWfUtLQ?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Mon, 18 Jan 2021 12:07:39 +0900</pubDate>
+		</item>
+		<item>
+			<title>ASUS、ガンダムコラボのディスプレイなどを期間限定で発売 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1300710.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/710/01_o.png"></div></div></div></div></div></div><p>　<a href="https://www.asus.com/jp/" class="n" target="_blank">ASUS JAPAN株式会社</a>は、機動戦士ガンダムのコラボレーション製品を期間限定で発売すると発表した。</p><p>　ASUSのディスプレイ、ルーター、マザーボード、ビデオカード、キーボード、マウスなどのさまざな製品に、ガンダム(RX-78-2)とシャア専用ザクII(MS-06S)をモチーフとした意匠が施されているのが特徴。発売日は<a href="https://www.asus.com/microsite/ASUS-X-GUNDAM/jp/" class="n" target="_blank">特設サイト</a>にて追って掲載するとしている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/710/02_o.png"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/710/03_o.png"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/710/04_o.png"></div></div></div></div></div></div><p>　また、1月20日の20時からYouTubeで配信する「ROG：LIVE」では、声優の古谷徹氏と、改造バカことテクニカルライターの高橋敏也氏をゲストとして登場し、今回のコラボ製品について語るという内容になっている。</p><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/cowcF3vfVBc?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Mon, 18 Jan 2021 12:49:18 +0900</pubDate>
+		</item>
+		<item>
+			<title>Amazonプライムビデオの字幕で語学学習できるChrome拡張 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1300716.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/716/1.jpg"></div></div></div></div></div></div><p>　Amazonのプライムビデオに対応した、語学学習用のChrome拡張「Subtitles for Language Learning」が公開された。開発者は、subtitlesfll.com。</p><p>　この拡張機能では、プライムビデオ内の字幕をリスト化し、今喋っているセリフをハイライト表示できるほか、字幕の単語に対しマウスオーバーすると自動的に辞書で単語の意味を引くようになっている。また、再生速度などを調整して聴き取りやすくする機能も実装している。</p><p>　対応しているプライムビデオのサービスは日本を含めて17カ国、対応言語は日本語含めて79カ国語となっている。</p></div></div>]]></description>
+			<pubDate>Mon, 18 Jan 2021 12:53:27 +0900</pubDate>
+		</item>
+		<item>
+			<title>TSMC、3nmプロセスのリスク生産を2021年内にも開始 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1300715.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/715/01.jpg"></div></div></div></div></div></div><p>　台湾<a href="https://www.digitimes.com/" class="n" target="_blank">DIGITIMES</a>誌が、台湾TSMCの3nmプロセス(N3)製造について、2021年内にもリスク生産を開始し、2022年第2四半期に量産を開始する予定だと報じている。</p><p>　同誌によれば、TSMCが14日に行なった投資家向け収支報告にて、同社CEOのC.C. Wei氏が「われわれのN3技術開発は順調に進んでおり、HPCおよびスマートフォン分野の顧客からの興味がひじょうに強い」と述べ、同社3D SoICパッケージング技術が2022年に利用可能になることを明らかにしており、まずはHPC製品向けに投入される見込みだとしている。</p><p>　また同氏は、チップレットが業界のトレンドになりつつあることにも言及しており、チップレットアーキテクチャの実現に向けて、CoWoS(Chip-On-Wafer-On-Substrate)やInFO(Integrated Fan-Out WLP)などからなる3DFabric技術の開発を複数の顧客と共同で進めているという。</p></div></div>]]></description>
+			<pubDate>Mon, 18 Jan 2021 12:59:04 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
