@@ -5,36 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Amazonプライムビデオの字幕で語学学習できるChrome拡張 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1300716.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/716/1.jpg"></div></div></div></div></div></div><p>　Amazonのプライムビデオに対応した、語学学習用のChrome拡張「Subtitles for Language Learning」が公開された。開発者は、subtitlesfll.com。</p><p>　この拡張機能では、プライムビデオ内の字幕をリスト化し、今喋っているセリフをハイライト表示できるほか、字幕の単語に対しマウスオーバーすると自動的に辞書で単語の意味を引くようになっている。また、再生速度などを調整して聴き取りやすくする機能も実装している。</p><p>　対応しているプライムビデオのサービスは日本を含めて17カ国、対応言語は日本語含めて79カ国語となっている。</p></div></div>]]></description>
-			<pubDate>Mon, 18 Jan 2021 12:53:27 +0900</pubDate>
-		</item>
-		<item>
-			<title>TSMC、3nmプロセスのリスク生産を2021年内にも開始 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1300715.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/715/01.jpg"></div></div></div></div></div></div><p>　台湾<a href="https://www.digitimes.com/" class="n" target="_blank">DIGITIMES</a>誌が、台湾TSMCの3nmプロセス(N3)製造について、2021年内にもリスク生産を開始し、2022年第2四半期に量産を開始する予定だと報じている。</p><p>　同誌によれば、TSMCが14日に行なった投資家向け収支報告にて、同社CEOのC.C. Wei氏が「われわれのN3技術開発は順調に進んでおり、HPCおよびスマートフォン分野の顧客からの興味がひじょうに強い」と述べ、同社3D SoICパッケージング技術が2022年に利用可能になることを明らかにしており、まずはHPC製品向けに投入される見込みだとしている。</p><p>　また同氏は、チップレットが業界のトレンドになりつつあることにも言及しており、チップレットアーキテクチャの実現に向けて、CoWoS(Chip-On-Wafer-On-Substrate)やInFO(Integrated Fan-Out WLP)などからなる3DFabric技術の開発を複数の顧客と共同で進めているという。</p></div></div>]]></description>
-			<pubDate>Mon, 18 Jan 2021 12:59:04 +0900</pubDate>
-		</item>
-		<item>
-			<title>サンワサプライ、ドライバーなどの磁気を着け外しできるマグネタイザー </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1300742.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/742/01.jpg"></div></div><span class="caption">TK-MAG2N</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/" class="n" target="_blank">サンワサプライ株式会社</a>は、工具の着磁や脱磁ができるマグネタイザー「TK-MAG2N」を発売した。価格は1,100円。</p><p>　TK-MAG2Nは、鉄製のドライバーやピンセットなどの先端部分を差し込むことで、磁気の着け外しができる製品。着磁用、脱磁用の2つの口を備え、作業時の用途にあわせて工具の磁気を制御できる。</p><p>　本体サイズは51.7×29×49.7mm(幅×奥行き×高さ)。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/742/02.jpg"></div></div><span class="caption">着磁する場合(左)、脱磁する場合(右)</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Mon, 18 Jan 2021 13:24:26 +0900</pubDate>
-		</item>
-		<item>
-			<title>アイコンを見るだけでディスクが破損するNTFSの脆弱性が修正へ </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1300761.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/761/01.jpg"></div></div></div></div></div></div><p>　画面上にアイコンが表示されただけでWindows 10のドライブが破損するNTFSの脆弱性について、米Microsoftが修正する旨の発言を行なったことが海外メディアで伝えられた。</p><p>　この脆弱性は、Windows 10 1803以降のバージョンにおいて文字列“$i30”を含んだコードがWindowsショートカットに含まれる場合に、そのショートカットを実行しなくてもドライブが破損するというもの。コマンドプロンプトのcdコマンドなどでコードを実行した場合はもちろん、Windows上でアイコンが見えた時点で、そのショートカットがZIPファイルの中に存在するだけでも発生する。infosec所属のセキュリティ研究者Jonas Lykkegaard氏が発見し、数年前からMicrosoftに報告していたが、記事執筆時点でも修正アップデートは提供されていない。</p><p>　海外メディアThe Vergeは、Microsoftの広報担当者が同誌に対して「Microsoftはこの問題を認識しており、将来のリリースでアップデートを提供する予定だ」と発言したと伝えた。またMicrosoftは海外メディアのBleepingComputerに対しても「影響を受けるデバイスへのアップデートをできるだけ早く提供する」旨の声明を送っている。</p><p>　なお、この脆弱性は簡単に再現できてしまうため、興味本位で試すことは絶対にしないよう注意されたい。</p></div></div>]]></description>
-			<pubDate>Mon, 18 Jan 2021 13:51:10 +0900</pubDate>
-		</item>
-		<item>
-			<title>接触確認アプリ「COCOA」、陽性登録件数が累計で8千件超え </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1300755.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/755/01.jpg"></div></div><span class="caption">黄色の棒グラフがダウンロード数、赤が陽性登録件数</span></div></div></div></div><p>　<a href="https://www.mhlw.go.jp/" class="n" target="_blank">厚生労働省</a>は15日、新型コロナウイルス接触確認アプリ「COCOA」で、新型コロナウイルスに感染したと登録された件数が累計8,040件になったと発表した。</p><p>　1月8日には6,929人だった感染者登録数だが、1週間のあいだに1,111人の登録があった計算となり、8日の1都3県の緊急事態宣言発令後も依然として増える傾向を裏付けている。</p><p>　なお、ダウンロード件数は約2,365万件(iOS/Android合計)で、8日より55万件のダウンロードがあった。いずれも最新バージョンは<a href="https://pc.watch.impress.co.jp/docs/news/1295400.html">「1.2.1」</a>。</p></div></div>]]></description>
-			<pubDate>Mon, 18 Jan 2021 14:00:04 +0900</pubDate>
-		</item>
-		<item>
 			<title>【やじうまPC Watch】CAPCOM CUP 2020が開催中止。オンラインでの代替イベントを予定</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1300763.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/763/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.capcom.co.jp/" class="n" target="_blank">CAPCOM</a>は16日、2月20日～22日にドミニカ共和国にて開催を予定していたストリートファイターVの世界王者決定戦「CAPCOM CUP 2020」の中止を発表した。国内からは梅原大吾選手とガチくん選手の2名が参戦を予定していた。</p><p>　新型コロナウイルス感染症の拡大が続く現状を考慮した結果の判断だとしており、同社ではオンラインにて代替イベントの開催を計画している。CAPCOM CUP 2020への出場権を持つプレーヤーを招待するイベントとなる予定で、数週間中に公式ページにて詳細を発表する見込み。</p><p>　なお、あわせて開催予定だった「ストリートファイターリーグ: ワールドチャンピオンシップ 2020」についても中止が発表されている。</p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Due to the rising cases of COVID-19 worldwide we have made the difficult decision to cancel<a href="https://twitter.com/hashtag/CapcomCup?src=hash&amp;ref_src=twsrc%5Etfw">#CapcomCup</a>. In its place we will be producing an online season final for<a href="https://twitter.com/hashtag/CapcomProTour?src=hash&amp;ref_src=twsrc%5Etfw">#CapcomProTour</a>February 20th and 21st. Details following:<a href="https://t.co/3WsObiSFVA">pic.twitter.com/3WsObiSFVA</a></p>— Capcom Fighters (@CapcomFighters)<a href="https://twitter.com/CapcomFighters/status/1350141496415105033?ref_src=twsrc%5Etfw">January 15, 2021</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div>]]></description>
@@ -117,6 +87,36 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1300784.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/784/01.jpg"></div></div><span class="caption">ScanSnap iX1600</span></div></div></div></div><p>　<a href="https://www.pfu.fujitsu.com/" class="n" target="_blank">株式会社PFU</a>は、ドキュメントスキャナのScanSnapシリーズより、「ScanSnap iX1600」および「ScanSnap iX1400」を22日より発売する。価格はともにオープンプライスで、直販価格はそれぞれ52,800円、41,800円。</p><p>　両機種ともに、同社が2018年10月に発売した「ScanSnap iX1500」の後継機種に相当する。iX1500ではA4カラー/グレー原稿で30枚(60面)/分でのスキャンが可能だったが、iX1600/iX1600ではこれを約33%高速化。ソフトウェア/ハードウェア両面の改良により、40枚(80面)/分でのスキャンを実現した。テレワークの導入で障害になりがちな紙をより高速にスキャン/電子化することで、円滑な移行をサポートできるとする。</p><p>　iX1600は、iX1500と同様に天面に4.3型タッチパネルを搭載したモデル。スキャン用プロファイルなどを画面のタッチで選択し、スキャンを開始できる。</p><p>　ユーザーごとにメニュー全体が切り替わる新たなUIを追加し、各々の設定したプロファイルを呼び出しやすくなった。従来のUIも引き続き搭載し、好みにあわせて切り替えられる。なお、新UIは従来機種にもアップデートで提供する予定。接続はWi-Fi 5およびUSB 3.0をサポートし、ScanSnap Cloudを通じてiX1600単体での各種クラウドサービスとの連携も可能となっている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/784/02.jpg"></div></div><span class="caption">給紙・排紙トレイ収納時(iX1600)</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/784/03.jpg"></div></div><span class="caption">同展開時(iX1600)</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/784/04.jpg"></div></div><span class="caption">ユーザーごとにメニューが切り替わる新UI</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/784/05.jpg"></div></div><span class="caption">ScanSnap iX1400</span></div></div></div></div><p>　iX1400は、天面にスキャンボタンのみを備えたシンプルなモデル。タッチパネルを省き、接続をUSB 3.0のみとすることで価格を抑えた。こちらはScanSnap Homeを利用したパソコン経由でのクラウド連携機能が利用できる。</p><p>　加えて、縦筋軽減や給紙カバーを開けてすぐに使える高速起動機能などは両機種で引き続き搭載。キャリアシートを利用したA3用紙のスキャンも行なえる。iX1600では、2つ折りの原稿や封筒などを読み取れる手差しスキャン機能にも対応する。</p><p>　統合ユーティリティソフトのScanSnap Homeも継続してサポート。原稿のスキャンだけでなく、スキャンデータの閲覧や編集、管理などができる。また、OCR機能を活用したファイル名の自動生成や読み取り文書の自動分類、全文検索のほか、クラウドとの連携機能なども提供する。標準で付属するライセンス数は、iX1600では4ライセンス、iX1400では1ライセンスとなり、ScanSnap Managerについても引き続き対応する。</p><p>　そのほか共通の仕様として、センサーがCIS×2、光源がLED、最大解像度は600dpi、対応用紙サイズ(標準モード時)はA4～B6、はがき、名刺、レター、リーガル、カスタムなど。原稿搭載枚数は最大50枚まで。</p><p>　対応OSは、Windows 7/macOS 10.14.6以降、およびAndroid 4.4/Fire OS 4.0/iOS 10.3/iPadOS 13.0以降。</p><p>　本体サイズはともに292×161×152mm(幅×奥行き×高さ)、重量はiX1600が3.4kg、iX1400が3.2kg。</p></div></div>]]></description>
 			<pubDate>Tue, 19 Jan 2021 11:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>4K/タッチ対応の15.6型モバイル液晶 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1300945.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/945/1_o.jpg"></div></div><span class="caption">Better Digi Xcreen2go U15HT利用イメージ</span></div></div></div></div><p>　<a href="https://www.rutawa.com/" class="n" target="_blank">ルタワジャパン株式会社</a>は、4K解像度でタッチに対応したモバイル液晶ディスプレイ「Better Digi Xcreen2go U15HT」を直販サイトで販売開始した。価格は5万8,320円。</p><p>　先行したクラウドファンディングサイトで1,900万円の支援が得られたという製品。USB Type-Cによる接続に対応し、ケーブル1本で利用できる。</p><p>　背面にコンポジット素材を採用し、強度と軽量さを両立させ、放熱性を高めた。マグネットによる着脱式専用スタンドカバーが付属する。</p><p>　おもな仕様は、パネルがIPS、解像度が3,840×2,160ドット、応答速度が6ms、輝度が400cd/平方m、コントラスト比が1,000:1、視野角が上下/左右ともに176度、色域がsRGB 100%などとなっている。</p><p>　インターフェイスはUSB Type-C×2、Mini HDMI、音声出力。タッチは10点に対応し、タッチサンプリングレートは120Hz。</p><p>　本体サイズは356.2×226.5×4.7～9.4mm(幅×奥行き×高さ)、重量は648g。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/945/2_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/945/3_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Tue, 19 Jan 2021 11:25:46 +0900</pubDate>
+		</item>
+		<item>
+			<title>Cooler Master、つかみ持ち向けで49gの超軽量ゲーミングマウス </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1300947.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/947/1.jpg"></div></div><span class="caption">MM720</span></div></div></div></div><p>　<a href="https://apac.coolermaster.com/jp/" class="n" target="_blank">Cooler Master</a>は、つかみ持ちに適した形状の超軽量ゲーミングマウス「MM720」を22日に発売する。価格はオープンプライスで、店頭予想価格は6,798円前後の見込み。</p><p>　既存の「Spawn」と「Xornet」をベースとした、つかみ持ちに最適化されたモデル。右側面にフィンガーレストが用意されているのが特徴となっている。</p><p>　左右のクリックは光学式スイッチを採用することで、デバウンス時間をほぼゼロにし、メカニカルスイッチの3倍の速度で反応。可動部分が少ないため機械的な劣化が起きにくく、耐久性が向上しているという。</p><p>　また、高い耐久性と軽量性を実現したウルトラウィーブケーブル、純度95%のテフロン素材を採用した低摩擦マウスソール、回路基板の撥水/防塵コーティングによるIP58適合の防水/防塵構造、ロゴ部分のRGB LEDによるイルミネーションなどが特徴。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/947/4.jpg"></div></div></div></div></div></div><p>　センサーはPixArtのPMW3389で、解像度は400/800/1,200/1,600/3,200/6,400/16,000の7段階、トラッキング速度は400ips、最大加速度は50g、リフトオフディスタンスは2mm未満などとなっている。32bitのARM Cortex-M0+プロセッサを内蔵し、512KBのオンボードメモリを備える。</p><p>　ボタンはLK製。インターフェイスはUSBで、ケーブル長は1.8m。本体サイズは76.52×105.42×37.35mm(幅×奥行き×高さ)、重量は49g。本体色はブラックとホワイトの2種類が用意される。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/947/2.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/947/3.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Tue, 19 Jan 2021 11:31:01 +0900</pubDate>
+		</item>
+		<item>
+			<title>レノボ、GeForce MX450と第11世代Core搭載のスリムノート </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1300967.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/967/1.jpg"></div></div><span class="caption">Yoga Slim 750i Pro</span></div></div></div></div><p>　<a href="https://www.lenovo.com/jp/ja/" class="n" target="_blank">レノボ・ジャパン株式会社</a>は、GPUにGeForce MX450、CPUに第11世代Coreを搭載した高性能スリムノート「Yoga Slim 750i Pro」を2月5日に発売する。価格は15万4,800円(税別)から。</p><p>　ディスクリートGPUを搭載しながら、重量を約1.33kg、厚さを14.6mmに抑えた。プレミアム感を高めたライトシルバー筐体を採用するほか、2,240×1,400ドット表示対応の16:10/sRGB 100%の14型IPS液晶を搭載する。</p><p>　そのほかの仕様は、CPUにCore i5-1135G7またはCore i7-1165G7、メモリに8GBまたは16GBのLPDDR4Xを搭載。ストレージは512GB SSDで、OSはWindows 10 Home、Office Home &amp; Business 2019を搭載する。</p><p>　インターフェイスはThunderbolt 4×2、USB 3.0、Wi-Fi 6、Bluetooth 5.0、720p対応Webカメラ、IRカメラ、音声入出力などを備える。</p><p>　バッテリは4セルリチウムイオンで、駆動時間は約15.2時間。本体サイズは約312.4×221.4×14.6mm(幅×奥行き×高さ)。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/967/2.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/967/3.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Tue, 19 Jan 2021 11:38:25 +0900</pubDate>
+		</item>
+		<item>
+			<title>【.biz 】デル、Officeなどがセットでお得なテレワーク支援セール。ヘッドセットやマウスも同梱 </title>
+			<link>https://pc.watch.impress.co.jp/docs/biz/1300973.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/973/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.dell.com/ja-jp" class="n" target="_blank">デル・テクノロージズ株式会社</a>は19日、ビジネス向け製品を対象としたオンライン限定の「<a href="https://www.dell.com/ja-jp/work/shop/deals/work-from-home-solution" class="n" target="_blank">テレワーク応援 緊急セール</a>」を開催した。</p><p>　テレワークに最適なパソコンとして、Office Home &amp; Business 2019やヘッドセット、マウスなどがセットになったテレワーク応援モデルなどを販売しており、一例として第11世代CoreのCore i5-1135G7を搭載する13.3型の「Vostro 13 5000(5301)」が上記がセットとなり、通常価格18万7,980円のところ、12万6,890円となっている。</p><p>　このほか、デルでの初めての購入者限定で、5%割引を利用可能な「<a href="https://www.dell.com/ja-jp/work/shop/dell/cp/business-welcome" class="n" target="_blank">初回購入特別クーポン</a>」も提供されている。</p></div></div>]]></description>
+			<pubDate>Tue, 19 Jan 2021 11:49:29 +0900</pubDate>
+		</item>
+		<item>
+			<title>メディアプレーヤーソフト「VLC」がApple M1ネイティブ対応 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1300978.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1300/978/1_o.jpg"></div></div></div></div></div></div><p>　VideoLANは19日、フリーのメディアプレーヤー「VLC」の最新版「VLC 3.0.12」をリリースした。</p><p>　このバージョンでは、新たにApple M1へのネイティブ対応が行なわれた。このほか、3.0.12では、RISTプロトコルのサポートや、macOS Big Surにおけるビジュアルの改善、YouTubeおよびVocarroスクリプトの更新、いくつかのセキュリティ上の問題、Webインターフェイスの修正などが行なわれている。</p><p>　さらに、macOSにおける再生開始時に音声が歪む問題、Direct3Dビデオフィルタ適用時にクラッシュする問題、アダプティブストリーミング解像度設定のハンドリングの問題を修正している。</p></div></div>]]></description>
+			<pubDate>Tue, 19 Jan 2021 11:54:09 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
