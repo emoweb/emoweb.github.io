@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>パンデミック後のトラベル事情：セキュリティの観点から</title>
-			<link>https://blog.kaspersky.co.jp/post-pandemic-travel-security/29830/</link>
-			<description><![CDATA[COVID-19の世界的大流行によって、今後の旅行・出張はどう変わっていくのでしょうか。]]></description>
-			<pubDate>Tue, 05 Jan 2021 01:00:09 +0000</pubDate>
-		</item>
-		<item>
 			<title>シンデレラとシグネチャベースの検知</title>
 			<link>https://blog.kaspersky.co.jp/cinderella-cybersecurity-fairy-tale/29838/</link>
 			<description><![CDATA[シンデレラの物語は、サイバーセキュリティの基本原則を教えてくれます。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/rc3-fpmon-browser-fingerprinting/29879/</link>
 			<description><![CDATA[Webサイトがブラウザーの「フィンガープリント」を作成するために集める情報について知らせてくれる拡張機能を、ある研究チームが開発しました。]]></description>
 			<pubDate>Tue, 19 Jan 2021 01:00:38 +0000</pubDate>
+		</item>
+		<item>
+			<title>Telegramのセキュリティとプライバシーに関するヒント</title>
+			<link>https://blog.kaspersky.co.jp/telegram-privacy-security/29895/</link>
+			<description><![CDATA[Telegramでシークレットチャットを使うべきなのはなぜか？セキュリティとプライバシーの設定方法は？]]></description>
+			<pubDate>Fri, 22 Jan 2021 01:00:23 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
