@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>MediaTek、5G対応のフラグシップSoC「Dimensity 1200」 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1301613.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1301/613/01.jpg"></div></div><span class="caption">Dimensity 1200</span></div></div></div></div><p>　台湾<a href="https://www.mediatek.com/" class="n" target="_blank">MediaTek</a>は20日(現地時間)、モバイル向けフラグシップSoC「Dimensity 1200」および「Dimensity 1100」を発表した。</p><p>　ともに2G～5Gのマルチモードに対応する5Gモデムを内蔵し、最大通信速度は最大下り4.7Gbps、上り2.5Gbpsを発揮する。5Gネットワークでは、2CCキャリアアグリゲーション、DSS(Dynamic Spectrum Sharing)、5G SA+SAによるデュアル 5G SIM、VoNR(Voice over New Radio)などの機能をサポートするほか、独自の5G UltraSave技術により大幅な省電力化も図った。</p><p>　Dimensity 1200では、最大168Hzでのディスプレイ表示が可能。ゲーム向け技術の「HyperEngine 3.0」も搭載し、タッチ入力のレスポンスや5G通話/データ通信を並行して行なうさいの信頼性向上を図る。</p><p>　カメラISPは2億画素または3,200万+1,600万画素をサポートし、5コアのHDR-ISPを活用した4K HDR動画の撮影も行なえる。また、AIプロセッサ「MediaTek APU 3.0」の改良版を搭載し、マルチタスクスケジューラを強化することでレイテンシーと消費電力を抑えた。</p><p>　Dimensity 1100では、144Hzまでのディスプレイ表示が可能で、カメラISPは1億800万画素または3,200万+1,600万画素に対応。AIプロセッサについては既存のAPU 3.0のままとなるが、HyperEngine 3.0はDimensity 1200と同様に採用する。</p><p>　コア構成はともにオクタコアで、Dimensity 1200の場合、3GHz駆動のCortex-A78、2.6GHzのCortex-A78×3、2GHzのCortex-A55×4。Dimensity 1100の場合、2.6GHz駆動のCortex-A78×4、2GHzのCortex-A55×4となる。GPUはともにMali-G77 MC9(9コア)を搭載し、メモリはLPDDR4X(最大4266MHz、16GBまで)、ストレージはUFS 3.1をサポート。Wi-Fi 6やBluetooth 5.2にも対応する。</p><p>　両SoCの搭載製品については、2020年第1四半期末頃から市場に投入される見込み。</p></div></div>]]></description>
-			<pubDate>Thu, 21 Jan 2021 15:11:44 +0900</pubDate>
-		</item>
-		<item>
 			<title>550円のマイコンボード「Raspberry Pi Pico」が登場 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1301670.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1301/670/01_o.jpg"></div></div><span class="caption">Raspberry Pi Pico</span></div></div></div></div><p>　英<a href="https://www.raspberrypi.org/" class="n" target="_blank">Raspberry Pi財団</a>は、マイコンボード「Raspberry Pi Pico」を発表した。国内ではスイッチサイエンスやKSYなどが国内販売を予定しており、スイッチサイエンスでの価格は550円。</p><p>　Raspberry Pi Picoは、CPUにCortex-M0(2コア/133MHz)、メモリに256KB SRAMを採用したマイコンボード。既存のRaspberry Piシリーズと異なりLinux OSの搭載は不可で、Python(MicroPython)やC/C++のプログラムが実行可能となっている。フラッシュメモリの容量は2MBで、通信/給電を行なうMicro USBポートを備える。</p><p>　インターフェイスは、GPIO(26ピン)、SPI×2、I2S×2、UART×2、12bit ADC×3、PWM×16、PIO(Programmable I/O)×8などを装備。温度センサーやLEDも備える。本体サイズは51.3×21×3.9mm(幅×奥行き×高さ)、重量は約3g。</p></div></div>]]></description>
@@ -111,6 +105,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1301901.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1301/901/01.jpg"></div></div><span class="caption">2019年と2020年の上位プレイヤーの獲得賞金(オレンジ)とプール賞金(緑)</span></div></div></div></div><p>　英SAFEBETTINGSITESは、eスポーツの大会でプロプレイヤーが獲得した賞金が、新型コロナウイルスの影響で2020年は昨年の獲得額より8割減少したと伝えた。</p><p>　これは大会が新型コロナウイルスの影響で中止になったことや、賞金プールを減少させたことが大きく関連しているとしている。賞金プール金額だけで見た場合でも、2019年に2億4,000万米ドルだったプール金額が2020年には9,200万米ドルと半分以下に減少。ランキング上位50人の獲得賞金に関しても2019年の5,500万米ドルから1,100万米ドルへと大幅に減少した。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1301/901/02.jpg"></div></div><span class="caption">2020年の賞金獲得ランキング</span></div></div></div></div><p>　2020年の賞金獲得ランキングの1位は、チェスのグランドマスターであるSven Magnus Carlsen氏で、49万9,420米ドルを獲得。ほかにも8位にグランドマスターの日系アメリカ人、ヒカル・ナカムラ氏がランクインするなど、チェスプレイヤーの活躍が目立った。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1301/901/03.jpg"></div></div><span class="caption">2019年の賞金獲得ランキング</span></div></div></div></div><p>　2019年の賞金獲得ランキングの1位はDOTA2プレイヤーのJesse "JerAx" Vainikka氏で、約316万米ドルを獲得していた。この額は2020年の上位プレイヤー9人の獲得"合計"賞金、約310万より僅かに低い額となり、いかにコロナにより影響を受けたかが窺い知れる。</p></div></div>]]></description>
 			<pubDate>Fri, 22 Jan 2021 15:27:56 +0900</pubDate>
+		</item>
+		<item>
+			<title>VAIO、社員が撮影した&quot;お膝元&quot;安曇野市の写真をバーチャル背景用に公開 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1301996.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1301/996/01.jpg"></div></div></div></div></div></div><p>　<a href="https://vaio.com/" class="n" target="_blank">VAIO株式会社</a>は、社員有志で結成した「VAIO写真クラブ」が撮影した長野県安曇野市の風景を公開した。無料でダウンロードでき、ZoomやTeamsなどのWeb会議のバーチャル背景やデスクトップなどに設定できる。</p><p>　冬のわさび田や北アルプス、安曇野花火など、地元企業ならではの写真が掲載されており、春夏秋冬の安曇野の景色を楽しめるコンテンツ。</p><p>　なお、VAIOは安曇野市のふるさと納税返礼品として「VAIO SX14」を提供(参照:<a href="https://pc.watch.impress.co.jp/docs/news/1283428.html">長野県安曇野市のふるさと納税返礼品にIce Lake搭載の「VAIO SX14」</a>)している。</p></div></div>]]></description>
+			<pubDate>Fri, 22 Jan 2021 20:24:45 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
