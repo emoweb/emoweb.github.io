@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>iPhone 4と同じサイズの液晶をヘッドに搭載した簡易水冷 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1301825.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1301/825/1_o.jpg"></div></div><span class="caption">ROG RYUJIN II 240</span></div></div></div></div><p>　<a href="https://www.asus.com/" class="n" target="_blank">ASUS</a>は、CES 2021のページにおいて、新型簡易水冷CPUクーラー「ROG RYUJIN II 240」を予告している。</p><p>　初代RYUJINシリーズは水冷ヘッド部に1.77型のOLEDディスプレイとRGBイルミネーションを備えたものであった。このディスプレイでは、好みの画像やCPU温度といった情報を表示できる。それがRYUJIN IIでは、3.5型液晶に大型化したというわけだ。</p><p>　液晶解像度については触れられていないが、3.5型というサイズは、Apple「iPhone 4」と同じであり、初代より視認性がよく、多くの情報を表示できると想像される。</p></div></div>]]></description>
-			<pubDate>Fri, 22 Jan 2021 14:33:14 +0900</pubDate>
-		</item>
-		<item>
 			<title>M1 Macで秀丸エディタ的に使えるテキストエディタ「WZ Editor for Mac」が登場 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1301895.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1301/895/00.png"></div></div><span class="caption">WZ Editor for Mac</span></div></div></div></div><p>　<a href="https://www.wzsoft.jp/" class="n" target="_blank">株式会社WZソフトウェア</a>は、M1 Macにネイティブ対応したテキストエディタ「WZ Editor for Mac」のプレビュー版を公開した。2月末まで無償で利用できる。対応OSはmacOS 10.13.6(High Sierra)以降。</p><p>　WZ Editorは、Windows向けとしては1995年頃から続く歴史の長いテキストエディタで、現在バージョン10が公開中。今回、M1およびIntel Macの両方にネイティブ対応するmacOS向けテキストエディタとして新たに登場した。</p><p>　Windows版のWZ Editor 10と同等のキー操作と操作体系を実現しており、縦書きやプログラミング用エディタとしても活用可能。キーの定義で、VZ Editor/MIFES/Emacs/秀丸エディタライクの設定が用意されており、ほかの有名テキストエディタからの以降も配慮されている。</p><p>　日本語の候補表示には、内蔵IMEのWZ imeが使われており、117万語の内蔵辞書から補完候補を表示でき、語彙に沿った表示が行なわれる。また、折り返し字数、テキストの配色、フォント、縦書きなどの設定をファイルごとに記憶可能。</p><p>　このほか、アウトライン設定、文字数/行数/枚数確認、ウィンドウ分割表示、校正支援なども利用でき、PDF/EPUB/HTMLでの出力機能、マクロ機能も搭載する。</p><p>　販売開始は春を予定しており、ダウンロード版で提供。通常価格は7,800円、WZ Editor 10利用者向けの優待価格が5,800円、WZ Editor 6～9利用者向け優待価格は6,800円となり、App Storeではなく、同社のWebページで直接販売される。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1301/895/01_o.png"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1301/895/02_o.png"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1301/895/03_o.png"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1301/895/04_o.png"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1301/895/05_o.png"></div></div></div></div></div></div></div></div>]]></description>
@@ -117,6 +111,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1302295.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1302/295/01.jpg"></div></div><span class="caption">WF800HP</span></div></div></div></div><p>　<a href="https://www.necplatforms.co.jp/" class="n" target="_blank">NECプラットフォームズ株式会社</a>は、無線LANルーター製品の脆弱性について報告している。</p><p>　対象となるのは「WF800HP」のファームウェアバージョンVer1.0.19以前、「WG2600HP」の同Ver 1.0.2以前、「WG2600HP2」の同Ver 1.0.2以前を搭載する製品。</p><p>　WF800HPでは、クロスサイトスクリプティングの脆弱性(CVE-2021-20620、CVSS v3による評価スコアは6.1)が報告されており、該当製品にアクセスしたユーザーのWebブラウザ上で任意のスクリプトが実行できる恐れがある。</p><p>　WG2600HPおよびWG2600HP2では、アクセス制限の不備(CVE-2017-12575、同7.5)、クロスサイトリクエストフォージェリ(CVE-2021-20621、同4.3)、およびクロスサイトスクリプティングの脆弱性(CVE-2021-20622、同6.1)が報告されており、該当製品の設定情報をリモートから窃取/変更されるなどの恐れがある。</p><p>　WF800HPについては、信頼できる情報源からURLを取得してアクセスし、Webブラウザのお気に入り登録を行なうことで影響を緩和できる。WG2600HPおよびWG2600HP2については、ファームウェアを最新版へ更新することで対策が可能となっている。</p></div></div>]]></description>
 			<pubDate>Mon, 25 Jan 2021 16:34:32 +0900</pubDate>
+		</item>
+		<item>
+			<title>【やじうまPC Watch】いらすとや、9年間の毎日更新を止め、2月から不定期更新に</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1302359.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1302/359/01_o.jpg"></div></div></div></div></div></div><p>　イラストのフリー素材を提供している<a href="https://www.irasutoya.com/" class="n" target="_blank">いらすとや</a>は25日、1月31日をもってイラストの更新を不定期に移行すると発表した。</p><p>　いらすとやが提供するイラストはメジャーなものからニッチなものまで、さまざまなジャンルを取り扱っており、個人・法人を問わず規約を逸脱していなければフリーで利用できることから、社会インフラのように活用されてきた。</p><p>　イラストを提供してきたみふねたかし氏は、2012年より毎日更新を続けてきたとのことだが、多忙につきいまのペースでの更新が難しいと感じたことから、区切りの良い1月31日で更新をいったん停止することにしたという。なお、いらすとや自体は引き続き運営される。</p><p>　同氏は不定期更新に移るものの、新型コロナウイルス関連など社会的に緊急に必要なイラストがありそうな場合は、なるべく対応していくと述べている。</p></div></div>]]></description>
+			<pubDate>Mon, 25 Jan 2021 19:00:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>Googleマップに新型コロナワクチン接種場所などの表示機能 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1302360.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1302/360/01.jpg"></div></div><span class="caption">ワクチン接種に関する情報表示機能。左がGoogle Map、右が検索結果画面</span></div></div></div></div><p>　米<a href="https://www.google.com/" class="n" target="_blank">Google</a>は、Googleマップおよび検索機能に新型コロナウイルス感染症のワクチン接種場所を確認できる機能を追加する。同社およびAlphabet CEOのSundar Pichai(スンダー・ピチャイ)氏が25日(現地時間)、Webサイト上にて発表した。</p><p>　この機能は、VaccineFinder.orgや政府機関、薬局などの信頼できる機関から予防接種に関する情報を集め、検索結果やマップ上に詳細を表示するもの。予約や紹介の必要性、利用に関する制限、ドライブスルーの有無など、ワクチン接種に関する情報が確認できる。まずは米国の一部都市で利用可能となる。</p><p>　同社ではあわせて、CDC財団やWHO、世界各国の非営利団体向けに1億ドルの助成金を追加で提供すると発表。加えて、公衆衛生機関と協力してワクチン関連で十分なサービスが受けられていないコミュニティに対応するため、追加で5,000万ドルの出資を行なう。また、各地域と連携し、自社の建物や駐車場などの施設をワクチン接種用のスペースとして解放する取り組みも実施する予定だという。</p></div></div>]]></description>
+			<pubDate>Mon, 25 Jan 2021 19:26:08 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
