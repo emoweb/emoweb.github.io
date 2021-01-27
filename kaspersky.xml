@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Air-Fi：隔離されたコンピューターからデータを盗み出す</title>
-			<link>https://blog.kaspersky.co.jp/air-fi-data-exfiltration/29846/</link>
-			<description><![CDATA[Wi-Fi対応ではないコンピューターでもWi-Fiで情報を送信できる？！イスラエルのリサーチャーの調査研究より。]]></description>
-			<pubDate>Thu, 07 Jan 2021 01:00:33 +0000</pubDate>
-		</item>
-		<item>
 			<title>ブロードキャストするイーサネット</title>
 			<link>https://blog.kaspersky.co.jp/rc3-etherify/29852/</link>
 			<description><![CDATA[無線データを、有線ネットワークを使って送信することは可能なのでしょうか？ある実験によると、可能なようです。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/rc3-bitcoin-ransom-tracing/29908/</link>
 			<description><![CDATA[2016年から2017年にかけて、サイバー犯罪者たちはランサムウェア被害者から1,600万ドル以上を稼いでいました。]]></description>
 			<pubDate>Mon, 25 Jan 2021 01:00:51 +0000</pubDate>
+		</item>
+		<item>
+			<title>Discordのセキュリティを向上させる方法</title>
+			<link>https://blog.kaspersky.co.jp/discord-privacy-security/29917/</link>
+			<description><![CDATA[ゲーマー御用達のチャット、「Discord」を安全かつ快適に使うための設定のヒントです。]]></description>
+			<pubDate>Wed, 27 Jan 2021 01:00:11 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
