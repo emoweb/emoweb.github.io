@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ZyXelのデバイスにハードコードされたアカウント</title>
-			<link>https://blog.kaspersky.co.jp/zyxel-undocumented-account/29858/</link>
-			<description><![CDATA[パスワードがハードコードされた管理者レベルのアカウント「zyfwp」が、複数のZyXel製ネットワークデバイスで発見されました。]]></description>
-			<pubDate>Tue, 12 Jan 2021 01:00:31 +0000</pubDate>
-		</item>
-		<item>
 			<title>「配送の追加料金をお支払いください」詐欺</title>
 			<link>https://blog.kaspersky.co.jp/delivery-payment-scam/29844/</link>
 			<description><![CDATA[荷物のお届けに必要だという口実で追加料金の支払いを求めるフィッシングメールが見られています。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/update-ios-to-14-4-immediately/29941/</link>
 			<description><![CDATA[iOS 14およびiPadOS 14へのアップデートがリリースされました。すでに悪用されている脆弱性を修正するためのものです。iPhoneユーザー、iPadユーザーは今すぐアップデートを。]]></description>
 			<pubDate>Fri, 29 Jan 2021 01:00:37 +0000</pubDate>
+		</item>
+		<item>
+			<title>「著作権違反」を口実にFacebookアカウントの乗っ取りを狙う詐欺メール | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/facebook-account-hijack-through-notes/29924/</link>
+			<description><![CDATA[Facebookアカウントの乗っ取りを目的とした、新手のフィッシング詐欺メールが見られています。「あなたのアカウントは著作権侵害のため停止された」と脅し、ログイン情報を差し出させようとする内容です。]]></description>
+			<pubDate>Mon, 01 Feb 2021 01:00:45 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
