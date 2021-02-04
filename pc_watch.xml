@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>インクで温める厚み1mmの薄型・軽量USBヒーター。丸めて持ち運び可能 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1304270.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1304/270/01.jpg"></div></div><span class="caption">INKO Heating Mat HEAL</span></div></div></div></div><p>　<a href="https://gloture.jp/" class="n" target="_blank">株式会社Gloture</a>は、USB接続のヒーター「INKO Heating Mat Heal」を販売している。価格は4,950円。</p><p>　INKO Heating Mat Healは、電熱線のかわりに銀ナノインクを薄く印刷し、発熱素材として利用したヒーター。厚さ1mmの薄型形状で、重量も約105gと軽量なため、丸めて持ち運ぶこともできる。ケーブルのコントローラで3段階の温度調整も可能。</p><p>　ヒーター部のサイズは270×1mm(直径×厚さ)、コントローラ部のサイズは37.5×25×10mm(幅×奥行き×高さ)。接続はUSB(5V/1.5A)で、ケーブル長は約170cm。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1304/270/02.jpg"></div></div></div></div></div></div></div></div>]]></description>
-			<pubDate>Wed, 03 Feb 2021 14:22:39 +0900</pubDate>
-		</item>
-		<item>
 			<title>Google Chrome、深刻度Criticalを含む6件の脆弱性を修正 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1304292.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1304/292/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.google.com/" class="n" target="_blank">Google</a>は2日(現地時間)、WebブラウザGoogle Chromeの安定版「88.0.4324.146」を公開した。Windows/macOS/Linux向けに今後数日から数週間をかけて順次提供される。</p><p>　今回のアップデートでは、支払機能における解放済みメモリ再使用(CVE-2021-21142、深刻度Critical)や、拡張機能やタブのグループ機能におけるヒープベースのバッファオーバーフロー(CVE-2021-21143およびCVE-2021-21144、深刻度はともにHigh)など、計6件の脆弱性が修正されている。</p></div></div>]]></description>
@@ -105,6 +99,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1304577.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1304/577/01.jpg"></div></div><span class="caption">Spot ArmでドアノブをひねるSpot</span></div></div></div></div><p>　米<a href="https://www.bostondynamics.com/" class="n" target="_blank">Boston Dynamics</a>は2日(現地時間)、4足歩行ロボット「Spot」関連の新しい製品や機能を発表した。</p><p>　「Spot Arm」は、Spot上部に取りつける全長約1mの多関節ロボットアーム。360度自在に動作可能で、先端には物体を掴めるグリッパーを装備。物体を引きずる/押しのける、持ち上げる/置く、レバーやドアノブをひねる、ドアを押さえるなど、さまざま作業が行なえる。グリッパー部分には深度センサーや4KのRGBカメラも内蔵し、操作対象を映像で確認できる。</p><p>　「Spot Enterprise」は、2020年に発売された「Spot」をベースに、自律的に連続して作業現場のデータ収集や監視、検査を行なえるよう機能強化を図った製品。専用ドックを利用した自己充電機能を備え、一連の指示に充電を組み込んでおくか、遠隔操作時にドック付近で充電の指令を送ることで、自動でドックに接続し充電を開始する。充電は2時間以内に完了し、ドックを複数設置することで行動範囲を広げられる。通信機能も強化しており、遠隔操作時に通信範囲外となった場合に直前のルートを遡って通信を回復する機能も備える。</p><p>　Webブラウザ経由でのSpotの遠隔操作を実現する「Scout」も発表。Spot内蔵カメラの映像やIRセンサーによる熱画像、指定した領域への最大30倍の光学ズーム、Spot内蔵のマイクで集音した音などがリアルタイムで確認できる。事前に設定した自動動作の監視だけでなく、手動の操作も可能で、映像内の任意の場所をクリックするとそこまで自動で移動する機能も備える。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1304/577/02.jpg"></div></div><span class="caption">アーム部分でドアを押さえるといった動作も可能</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1304/577/03.jpg"></div></div><span class="caption">レバー操作もできるようになった</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1304/577/04.jpg"></div></div><span class="caption">充電ドックに自動で接続する</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1304/577/05.jpg"></div></div><span class="caption">Webブラウザ経由で遠隔操作も可能</span></div></div></div></div><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/WvTdNwyADZc?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div><span class="caption">Launch Event: Meet Spot's Expanded Product Line</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Thu, 04 Feb 2021 17:55:36 +0900</pubDate>
+		</item>
+		<item>
+			<title>サンワサプライ、USB Type-A×2搭載のクランプつき電源タップ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1304596.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1304/596/01.jpg"></div></div><span class="caption">700-TAP047DBRM</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/" class="n" target="_blank">サンワサプライ株式会社</a>は、USBポートつきの木目調の4個口電源タップ「700-TAP047DBRM」を直販サイトにて発売した。価格は4,680円。</p><p>　700-TAP047DBRMは、充電用USB Type-Aを2基備えた4個口の電源タップ。USBポートは2基合計で5V/2.4Aまでの出力ができる。木目調のデザインを採用し、本体側面には一括で電源が制御できるスイッチ、背面には机などへの取りつけ用クランプを備える。</p><p>　本体サイズは182.5×80×46mm(幅×奥行き×高さ、クランプ部除く)。装着可能な天板の厚さは1～5cmまで。ケーブル長は3m。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1304/596/02.jpg"></div></div><span class="caption">机への装着時</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1304/596/03.jpg"></div></div><span class="caption">背面</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 04 Feb 2021 18:22:09 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
