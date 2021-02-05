@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>解雇された従業員の復讐</title>
-			<link>https://blog.kaspersky.co.jp/fired-insider/29883/</link>
-			<description><![CDATA[復讐心ほど恐ろしいものはない…。医療器具メーカーを解雇された元従業員が、医療器具の出荷を妨害したという事例がありました。]]></description>
-			<pubDate>Mon, 18 Jan 2021 01:00:38 +0000</pubDate>
-		</item>
-		<item>
 			<title>このWebサイトは私の（ブラウザーの）フィンガープリントを作ろうとしているのだろうか</title>
 			<link>https://blog.kaspersky.co.jp/rc3-fpmon-browser-fingerprinting/29879/</link>
 			<description><![CDATA[Webサイトがブラウザーの「フィンガープリント」を作成するために集める情報について知らせてくれる拡張機能を、ある研究チームが開発しました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/data-on-used-devices/29960/</link>
 			<description><![CDATA[当社のエキスパートが中古のコンピューターとストレージデバイスを調査したところ、保護されていないデータや十分に保護されていないデータが見つかりました。買い手と売り手の両方にとって、害になる可能性があります。]]></description>
 			<pubDate>Thu, 04 Feb 2021 01:00:12 +0000</pubDate>
+		</item>
+		<item>
+			<title>ランサムウェアFonixに暗号化されたファイルを復号する方法 | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/fonix-decryptor/29982/</link>
+			<description><![CDATA[ランサムウェアFonixの作成者たちが活動停止を宣言し、マスター鍵を公開。これを受け、当社ではファイル復号ツールを作成しました。無料で利用可能です。]]></description>
+			<pubDate>Fri, 05 Feb 2021 01:00:02 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
