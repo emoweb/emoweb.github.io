@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>このWebサイトは私の（ブラウザーの）フィンガープリントを作ろうとしているのだろうか</title>
-			<link>https://blog.kaspersky.co.jp/rc3-fpmon-browser-fingerprinting/29879/</link>
-			<description><![CDATA[Webサイトがブラウザーの「フィンガープリント」を作成するために集める情報について知らせてくれる拡張機能を、ある研究チームが開発しました。]]></description>
-			<pubDate>Tue, 19 Jan 2021 01:00:38 +0000</pubDate>
-		</item>
-		<item>
 			<title>Telegramのセキュリティとプライバシーに関するヒント</title>
 			<link>https://blog.kaspersky.co.jp/telegram-privacy-security/29895/</link>
 			<description><![CDATA[Telegramでシークレットチャットを使うべきなのはなぜか？セキュリティとプライバシーの設定方法は？]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/fonix-decryptor/29982/</link>
 			<description><![CDATA[ランサムウェアFonixの作成者たちが活動停止を宣言し、マスター鍵を公開。これを受け、当社ではファイル復号ツールを作成しました。無料で利用可能です。]]></description>
 			<pubDate>Fri, 05 Feb 2021 01:00:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>Chromeを今すぐ88.0.4324.150にアップデートすべき理由 | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/update-google-chrome-to-8804324150/30006/</link>
+			<description><![CDATA[先日公開されたGoogle Chromeバージョン88.0.4324.150は、危険な脆弱性（CVE-2021-21148）を修正します。今すぐアップデートを。]]></description>
+			<pubDate>Mon, 08 Feb 2021 01:45:28 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
