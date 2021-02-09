@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Telegramのセキュリティとプライバシーに関するヒント</title>
-			<link>https://blog.kaspersky.co.jp/telegram-privacy-security/29895/</link>
-			<description><![CDATA[Telegramでシークレットチャットを使うべきなのはなぜか？セキュリティとプライバシーの設定方法は？]]></description>
-			<pubDate>Fri, 22 Jan 2021 01:00:23 +0000</pubDate>
-		</item>
-		<item>
 			<title>ランサムウェアの資金フローを追う</title>
 			<link>https://blog.kaspersky.co.jp/rc3-bitcoin-ransom-tracing/29908/</link>
 			<description><![CDATA[2016年から2017年にかけて、サイバー犯罪者たちはランサムウェア被害者から1,600万ドル以上を稼いでいました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/update-google-chrome-to-8804324150/30006/</link>
 			<description><![CDATA[先日公開されたGoogle Chromeバージョン88.0.4324.150は、危険な脆弱性（CVE-2021-21148）を修正します。今すぐアップデートを。]]></description>
 			<pubDate>Mon, 08 Feb 2021 01:45:28 +0000</pubDate>
+		</item>
+		<item>
+			<title>ダークネット、ダークWeb、ディープWeb、サーフェスWebはどう違うのか | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/deep-web-dark-web-darknet-surface-web-difference/29966/</link>
+			<description><![CDATA[混同されることの多い用語の違いを、分かりやすく解説します。]]></description>
+			<pubDate>Tue, 09 Feb 2021 01:00:35 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
