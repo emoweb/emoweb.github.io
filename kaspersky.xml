@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ランサムウェアの資金フローを追う</title>
-			<link>https://blog.kaspersky.co.jp/rc3-bitcoin-ransom-tracing/29908/</link>
-			<description><![CDATA[2016年から2017年にかけて、サイバー犯罪者たちはランサムウェア被害者から1,600万ドル以上を稼いでいました。]]></description>
-			<pubDate>Mon, 25 Jan 2021 01:00:51 +0000</pubDate>
-		</item>
-		<item>
 			<title>Discordのセキュリティを向上させる方法</title>
 			<link>https://blog.kaspersky.co.jp/discord-privacy-security/29917/</link>
 			<description><![CDATA[ゲーマー御用達のチャット、「Discord」を安全かつ快適に使うための設定のヒントです。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/deep-web-dark-web-darknet-surface-web-difference/29966/</link>
 			<description><![CDATA[混同されることの多い用語の違いを、分かりやすく解説します。]]></description>
 			<pubDate>Tue, 09 Feb 2021 01:00:35 +0000</pubDate>
+		</item>
+		<item>
+			<title>メーリングリストを釣り上げるフィッシングメール | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/the-hunt-for-mailing-lists/29976/</link>
+			<description><![CDATA[メールサービスプロバイダー（ESP）から届いたように見せかけたフィッシングメールを使い、メーリングリストを乗っ取ろうとするサイバー犯罪者。]]></description>
+			<pubDate>Wed, 10 Feb 2021 01:00:36 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
