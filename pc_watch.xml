@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>「モバイルSuica」アプリが刷新。Androidも複数枚対応でPASMOと使い分け可能に </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1305747.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1305/747/1.jpg"></div></div><span class="caption">リニューアル後のAndroidアプリのイメージ</span></div></div></div></div><p>　東日本旅客鉄道株式会社(JR東日本)は、スマートフォン向けの「モバイルSuica」サービスを3月21日にリニューアルする。これに伴い20日午前11時から21日午前7時までサービスを一時停止する。</p><p>　リニューアル内容は、複数枚のSuicaの発行(iOS/watchOSでは対応済み)、定期購入時の経路表示改善、タッチでGO!新幹線の利用開始登録対応、Google Payによる決済(Androidのみ)、異なるOSへのSuica移行(Androidで対応済み)、プッシュ通知/バナー通知の充実。</p><p>　リニューアル後、Android版ではフェリカネットワークスが提供している「おサイフケータイアプリ」(2月9日以降の最新バージョン)との連携が必要となるが、同じ端末でモバイルSuicaとモバイルPASMOを使い分けられるようになるほか、同アプリによる端末変更やiOSへの移行が可能になる。</p><p>　20日午前11時から21日午前7時までのサービス一時停止中でも、入金済みのSF残高の利用や現金チャージ/コンビニチャージ/設定済みオートチャージ/購入済みの定期券/グリーン券、および登録済みの連携サービスの利用は可能。</p><p>　一方で、アプリからの入金、定期券/グリーン券の購入/払い戻し、機種変更/再発行登録/退金、会員メニューサイトでの手続き、ビュー・エクスプレス特約の申込み、ネットショッピングでの支払い/Suicaポケットの受け取りなどはできない。</p></div></div>]]></description>
-			<pubDate>Wed, 10 Feb 2021 17:50:53 +0900</pubDate>
-		</item>
-		<item>
 			<title>「Yahoo! リアルタイム検索」に災害に関するツイートを表示する機能が実装 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1305772.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1305/772/1.png"></div></div></div></div></div></div><p>　<a href="https://www.yahoo.co.jp/" class="n" target="_blank">ヤフー株式会社</a>は、Twitterに投稿されたツイートをリアルタイム検索できる「Yahoo! リアルタイム検索」(スマートフォンウェブ版)において、事故や地震、台風などの災害に関するツイートをまとめて表示する機能を提供開始した。</p><p>　株式会社Specteeが提供しているAIリアルタイム危機管理情報サービス「Spectee Pro」によって収集されたもので、「人気ツイート」タブの横に新設された「事故・災害」タブで表示する。</p><p>　都道府県別に事象の発生直後から確認できるため、消防や警察、報道などからは得られない住居地に関連した災害情報が取得可能で、現場の様子などを確認して災害の避難行動や判断の参考にできる。また、災害のキーワードで絞り込んで検索することも可能。</p></div></div>]]></description>
@@ -117,6 +111,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1306078.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/078/01.jpg"></div></div><span class="caption">Mesh Shader feature test</span></div></div></div></div><p>　<a href="https://benchmarks.ul.com/" class="n" target="_blank">UL Benchmarks</a>は11日(現地時間)、ベンチマークソフト「3DMark」に「Mesh Shader feature test」を追加した。</p><p>　DirectX 12 Ultimateがサポートする機能の1つ「Mesh Shader」の性能測定を行なえるテスト。メッシュのもつジオメトリデータを順次処理していく従来の手法に対し、Mesh Shaderではメッシュを小さなセクション(meshlet)に分割し並列処理することで、ボトルネックの解消を図っている。加えて、Mesh Shaderの前段で機能するAmplification shadersを活用すれば、カリング処理などでの効率化が見込める。</p><p>　テストでは、細かい彫刻が施された柱が大量に並ぶホールを2回レンダリングして性能を測定。1回目は従来の手法で、2回目はMesh Shaderで実行し、各回のフレームレートを結果として出力する。Mesh Shaderの効果を視覚的に確認できる「Interactive mode」も用意しする。</p><p>　本テストは、3DMark Advenced/Professional Edition向けに無料のアップデートで提供。なお、Windows 10 バージョン2004以降、DirectX 12 Ultimateに対応したビデオカードおよびドライバを搭載した環境が必要となる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/078/02.gif"></div></div><span class="caption">Interactive mode</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Fri, 12 Feb 2021 15:45:24 +0900</pubDate>
+		</item>
+		<item>
+			<title>バイデン政権、世界的な半導体不足に国を挙げ対策 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1306106.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/106/01.jpg"></div></div></div></div></div></div><p>　Bloombergの報道によると12日(米国時間)、アメリカのジョー・バイデン政権が世界的な半導体不足への対応策に取り組んでいることが明らかになった。</p><p>　11日に報道官から記者団に発表されたもので、国内の自動車などの産業で半導体が不足し生産停止となっている現状に対処するためという。</p><p>　今後数週間以内に、重要な製品のサプライチェーンに対して政府全体で調査するための大統領令に署名する見込み。</p><p>　サプライチェーンにおけるボトルネック特定を進めるとともに、当面の事態打開策について企業や貿易パートナーと協議しているとし、中長期的には半導体業界が長年直面するボトルネックなどの問題を防ぐため、包括的な戦略の策定を目指す。</p><p>　また同記事によると、米国内のIntel、Qualcomm、AMDなどの21人のCEOが、助成金や税控除などの優遇措置を提供し国内生産を支援するよう、バイデン大統領に伝えたという。</p></div></div>]]></description>
+			<pubDate>Fri, 12 Feb 2021 16:53:58 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
