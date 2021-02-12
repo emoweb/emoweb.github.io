@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Acrobat/Photoshop/Illustratorに任意コード実行など複数の深刻な脆弱性 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1305724.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1305/724/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.adobe.com/index.html" class="n" target="_blank">Adobe</a>は9日(現地時間)、Acrobat製品およびPhotoshop、Illustrator向けのセキュリティアップデートを公開した。ともに深刻度Criticalを含む複数の脆弱性を修正している。</p><p>　AcrobatおよびAcrobat Readerでは、任意コード実行や特権昇格、サービス運用妨害(DoS)、情報漏洩の恐れがある複数の脆弱性(APSB21-09)を修正。深刻度はImportantからCritical。Windows/macOS用のAcrobat/Acrobat Reader DC(バージョン2020.013.20074以前)、2020(同2020.001.30018以前)、2017(同2017.011.30188以前)が影響を受ける。</p><p>　Photoshopでは、任意コード実行の恐れがある複数の脆弱性(APSB21-10)を修正。深刻度はすべてCritical。Windows/macOS用のPhotoshop 2021(バージョン22.1.1以前)および2020(同21.2.4以前)が対象となる。</p><p>　Illustratorについても、任意コード実行の恐れがある脆弱性(ASPB21-12)を修正しており、深刻度はCritical。Windows/macOS用のIllustrator 2021(バージョン25.1以前)が影響を受ける。</p></div></div>]]></description>
-			<pubDate>Wed, 10 Feb 2021 15:18:21 +0900</pubDate>
-		</item>
-		<item>
 			<title>【やじうまPC Watch】ナシのロゴなのにAppleから訴えられたPrepear、ロゴをちょこっと変更</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1305740.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1305/740/1.jpg"></div></div><span class="caption">上が古いロゴ、下が新しいロゴ</span></div></div></div></div><p>　サブスクリプションで料理レシピを提供しているPrepear(運営母体はSuper Healthy Kids)は、同社のアイコンでもあった梨のロゴをわずかに改変した。</p><p>　同社のロゴは梨をモチーフとしたもので、提供しているサービスもAppleとは競合していないのだが、昨年(2020年)8月にAppleから商標が似ているとし訴えられた。</p><p>　このときPrepearは声明文を発表し、「バカげた話だ」、「ビッグテックによる弱い者いじめ」、「Appleに訴えられない果物のロゴを想像できない」、「弁護士による行為で、Appleはその後ろに立っているだけ」などと強く反論し、署名を求めていた。</p><p>　ただ、最終的にはPrepear側が、梨のロゴの葉っぱの左下半分を曲線から直線に変えることで両者が合意したようだ。2月10日時点で変更が確認できるのはサイト右上のロゴだけで、まだ完全に差し替わっておらず、声明文も出していない。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1305/740/2.jpg"></div></div></div></div></div></div></div></div>]]></description>
@@ -105,6 +99,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1306023.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/023/01.jpg"></div></div></div></div></div></div><p>　米<a href="https://www.intel.com/" class="n" target="_blank">Intel</a>は9日(現地時間)、CPU内蔵GPUのドライバに存在する脆弱性など、複数の製品の脆弱性に関する情報を公開した。</p><p>　CPU内蔵GPUドライバについては、ローカル経由で認証されたユーザーによる特権昇格が可能な恐れのある脆弱性(CVE-2020-0544/CVSS評価スコアは8.8、CVE-2020-0521/同7.7など)を含む、複数の問題を報告している。</p><p>　影響を受ける製品は第3～10世代プロセッサ向けのWindows 7/8.1/10用ドライバのうち、バージョン15.33.51.5146、15.36.39.5145、15.40.46.5144、15.45.32.5164、26.20.100.8141、27.20.100.8587以前のもの、およびLinux用ドライバのうちカーネルバージョン5.5以前のもの。</p><p>　そのほか、Wi-FiモジュールやEthernetコントローラのドライバ、SSD Toolboxなどに関する脆弱性に関して情報を公開しており、アップデートなどの対策を行なうよう奨めている。</p></div></div>]]></description>
 			<pubDate>Fri, 12 Feb 2021 13:00:42 +0900</pubDate>
+		</item>
+		<item>
+			<title>超リアルなCG人間が1時間以内に完成。Epicが作成ツール提供 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1306052.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/052/01_o.jpg"></div></div></div></div></div></div><p>　Unreal Engineなどを提供する<a href="https://www.unrealengine.com/" class="n" target="_blank">Epic Games</a>は、短時間で高品質なCGキャラクターを作れる開発ツール「MetaHuman Creator」を発表した。</p><p>　精巧なCGの人間の作成には本来数週間から数カ月を要するとされるが、MetaHuman Creatorでは品質に妥協せずに、1時間未満でこれを可能にするという。MetaHuman Creatorはクラウドストリーミングアプリで、人間の外観と動作をライブラリから描画し、思いどおりに造形可能な直感的ワークフローを通して、キャラクターを作成できるとする。</p><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/S3F1vZYpH8c?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div></div></div></div></div><p>　ユーザーはデータベースが提供している多様なプリセットを選ぶことができ、造形においてはライブラリ内にある実際のサンプルをブレンドしつつ、調整を行なえる。Unreal Engineベースの約30種類の髪型や、衣服のセット、18種類の異なる体型の身体などが用意される。</p><p>　また、Quixel Bridgeを介してアセットをダウンロードし、Unreal Engine内でアニメーションやモーションキャプチャを行なうとともに、LoD(Level of Detail)も適用可能。このほか、Mayaファイル形式でメッシュ、スケルトン、フェイシャルリグ、アニメーションコントロール、マテリアルなどのソースデータを入手可能で、パフォーマンスキャプチャツールを使ってのアニメーション作成もできる。</p><p>　MetaHumanは数カ月以内に早期アクセスプログラムを開始予定。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/052/02.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Fri, 12 Feb 2021 13:44:17 +0900</pubDate>
+		</item>
+		<item>
+			<title>サンワサプライ、自宅での確定申告に使えるICカードリーダライタ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1306056.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/056/01.jpg"></div></div><span class="caption">ADR-MNICU2</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/index.html" class="n" target="_blank">サンワサプライ株式会社</a>は、接触型ICカードリーダライタ「ADR-MNICU2」を発売した。価格は7,040円。</p><p>　マイナンバーカードの読み取りに対応しており、PCで確定申告ができる納税システム「e-Tax」などのオンライン手続きで使用できる。OSはWindowsとMacの両方に対応している。インターフェイスはUSB 2.0。</p><p>　本体サイズは66×66×16mm(幅×奥行き×高さ)、重量は約50g、ケーブル長は約1m。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/056/02.jpg"></div></div><span class="caption">ISO規格の接触型Cカードに対応</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Fri, 12 Feb 2021 13:52:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
