@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>3DMarkにDirectX 12 Ultimateの「Mesh Shader」テストが追加 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1306078.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/078/01.jpg"></div></div><span class="caption">Mesh Shader feature test</span></div></div></div></div><p>　<a href="https://benchmarks.ul.com/" class="n" target="_blank">UL Benchmarks</a>は11日(現地時間)、ベンチマークソフト「3DMark」に「Mesh Shader feature test」を追加した。</p><p>　DirectX 12 Ultimateがサポートする機能の1つ「Mesh Shader」の性能測定を行なえるテスト。メッシュのもつジオメトリデータを順次処理していく従来の手法に対し、Mesh Shaderではメッシュを小さなセクション(meshlet)に分割し並列処理することで、ボトルネックの解消を図っている。加えて、Mesh Shaderの前段で機能するAmplification shadersを活用すれば、カリング処理などでの効率化が見込める。</p><p>　テストでは、細かい彫刻が施された柱が大量に並ぶホールを2回レンダリングして性能を測定。1回目は従来の手法で、2回目はMesh Shaderで実行し、各回のフレームレートを結果として出力する。Mesh Shaderの効果を視覚的に確認できる「Interactive mode」も用意しする。</p><p>　本テストは、3DMark Advenced/Professional Edition向けに無料のアップデートで提供。なお、Windows 10 バージョン2004以降、DirectX 12 Ultimateに対応したビデオカードおよびドライバを搭載した環境が必要となる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/078/02.gif"></div></div><span class="caption">Interactive mode</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Fri, 12 Feb 2021 15:45:24 +0900</pubDate>
-		</item>
-		<item>
 			<title>バイデン政権、世界的な半導体不足に国を挙げ対策 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1306106.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/106/01.jpg"></div></div></div></div></div></div><p>　Bloombergの報道によると12日(米国時間)、アメリカのジョー・バイデン政権が世界的な半導体不足への対応策に取り組んでいることが明らかになった。</p><p>　11日に報道官から記者団に発表されたもので、国内の自動車などの産業で半導体が不足し生産停止となっている現状に対処するためという。</p><p>　今後数週間以内に、重要な製品のサプライチェーンに対して政府全体で調査するための大統領令に署名する見込み。</p><p>　サプライチェーンにおけるボトルネック特定を進めるとともに、当面の事態打開策について企業や貿易パートナーと協議しているとし、中長期的には半導体業界が長年直面するボトルネックなどの問題を防ぐため、包括的な戦略の策定を目指す。</p><p>　また同記事によると、米国内のIntel、Qualcomm、AMDなどの21人のCEOが、助成金や税控除などの優遇措置を提供し国内生産を支援するよう、バイデン大統領に伝えたという。</p></div></div>]]></description>
@@ -117,6 +111,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1306349.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/349/1.jpg"></div></div></div></div></div></div><p>　海外メディアPCWorldの報道によれば、ビデオカード市場が枯渇している現状に対し、NVIDIAがGeForce RTX 2060とGTX 1050 Tiの再販を予定しているのだという。</p><p>　このところ全世界的に半導体の製造リソースが逼迫しているのに加え、マイニングブームの再燃で、最新のビデオカードであるGeForce RTX 30やRadeon RX 6000シリーズもその影響を受けている。</p><p>　ところがハイエンドのみならず、エントリークラスにも影響が出ており、PCWorldがNVIDIAに取材したところによると、この市場の需要を満たすためにGeForce RTX 2060とGeForce GTX 1050 Tiを再販するというのだ。この2製品はいずれも製造終了となっているわけではないため、供給量を増やすという意味合いのほうが強い。</p><p>　RTX 2060がリリースされたのは2019年となるが、ほとんどのゲームは問題なく1080p解像度でプレイできるだろう。一方GTX 1050 Tiが投入されたのは2016年まで遡るが、消費電力が75W程度と比較的低く、古い世代のPCのアップグレードに適しており、画質さえこだわらなければ、そこそこの3Dゲームがプレイ可能である。</p><p>　ちなみに記事執筆時点(2月15日時点)でkakaku.comを覗いてみても、下位のGTX 1650から上位のRTX 3090に至るまで、決して在庫が潤沢にあるとは言えない状態であり、日本国内においてもビデオカード不足の問題が深刻なのは明らかである。</p></div></div>]]></description>
 			<pubDate>Mon, 15 Feb 2021 12:58:12 +0900</pubDate>
+		</item>
+		<item>
+			<title>【やじうまPC Watch】ロシアの大手検索プロバイダ社員、5千人弱の顧客のメールを覗き見</title>
+			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1306379.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/379/01.jpg"></div></div></div></div></div></div><p>　ロシアの検索プロバイダ大手<a href="https://yandex.com/" class="n" target="_blank">Yandex</a>は12日(モスクワ時間)、同社の内部監査において、従業員が不正にユーザーのメールにアクセスしていたと明らかにした。</p><p>　不正アクセスをしたのは、技術サポート担当でシステム管理権を持つ従業員。メールアカウント4,887名分に対して不正に「個人的な理由から」アクセスした。同社は該当ユーザーにパスワードを変更するように通知したほか、同社が保有するカード情報などの支払いデータは無関係としている。</p><p>　同件に関しては内部監査を進めているとし、管理アクセス手順の変更や法的機関への連絡も済ませているという。</p><p>　Yandexはロシアやウクライナなどで検索エンジンとしてトップシェアを誇る企業で、配車アプリや音声アシスタントの開発なども手がける。また、NASDAQにも上場している。</p></div></div>]]></description>
+			<pubDate>Mon, 15 Feb 2021 14:16:34 +0900</pubDate>
+		</item>
+		<item>
+			<title>有料会員向けにGoogleフォトに機能追加。撮影後に背景ボケを追加可能 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1306366.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/366/02.gif"></div></div><span class="caption">Portrait Light機能</span></div></div></div></div><p>　米<a href="https://www.google.com/" class="n" target="_blank">Google</a>は11日(現地時間)、Googleフォトアプリにおける写真・動画編集機能を強化した。</p><p>　写真編集機能については、Google One会員向けにPortrait BlurとPortrait Light機能を追加。昨年よりPixelユーザー向けに無償提供している機能を、有料サービスであるGoogle One会員にも解放したかたちとなる。</p><p>　両機能で、撮影後の写真に対して背景ぼけや光の当たり方の調整できるようになる。Portrait Blurでは、深度情報を持たない写真に対してもBlurおよびColor Pop効果が適用できる。さらにディープラーニングを活用した機能として、明るさやコントラストを自動調整するDynamic suggestionや、空の色やコントラストを調整するSky suggestionも追加する。</p><p>　動画編集機能ではエディタを刷新。従来のトリミング、手ぶれ補正、回転に加え、クロップやフィルタの適用、遠近感、輝度、コントラスト、彩度、色温度の調整などが可能となり、より細やかな編集が行なえるようになった。こちらは全ユーザー向けに順次提供する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/366/03.gif"></div></div><span class="caption">Sky suggestion機能</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/366/04.gif"></div></div><span class="caption">新しい動画エディタ</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Mon, 15 Feb 2021 14:26:05 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
