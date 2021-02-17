@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>PC上でリアルタイム/高解像度な津波浸水予測を実現するAI。開発に富岳を活用 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1306582.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/582/01.jpg"></div></div><span class="caption">AIによる津波予測のイメージ図</span></div></div></div></div><p>　<a href="https://www.tohoku.ac.jp/" class="n" target="_blank">東北大学</a>災害科学国際研究所、<a href="http://www.u-tokyo.ac.jp/" class="n" target="_blank">東京大学</a>地震研究所および<a href="https://www.fujitsu.com/jp/group/labs/" class="n" target="_blank">株式会社富士通研究所</a>は16日、高解像度でリアルタイムな津波浸水予測AIモデルの構築に成功したと発表した。スーパーコンピュータの富岳を活用して開発している。</p><p>　津波浸水予測用AIモデルに沖合で観測された津波波形を入力すると、沿岸域における浸水状況を3m単位の高解像度で予測できるというもの。構造物などによる局所的な津波の高さの変動などを含む、詳細な浸水予測を実現する。構築済みのAIモデルを利用して予測するため、一般的なPCでも数秒で高精度な予測が可能で、予測用システムを容易に構築できるようになる。</p><p>　予測用AIモデルの構築では、必要な教師データの生成とAI学習をどちらも富岳上で行なうことで開発効率を高めた。教師データの生成では、3m単位の津波浸水シミュレーションを実施して、2万件のデータを用意。AIモデルの構築では、沖合で観測した津波波形から浸水状況を概算するAIと、概算した浸水状況を高解像度化するAIによって学習を行なうことで、津波の波形情報をもとにした浸水状況の予測を実現する。</p><p>　構築したAIモデルと一般的なPCを用いて南海トラフ地震による東京湾内の津波浸水予測を行なったところ、さまざまな津波シナリオにおいて数秒で高精度な予測が可能であることが確認できたという。開発チームでは、さらなる学習を進めることで、より広範囲な予測が可能なAIも構築できるとしており、技術の実用化に向けてAI技術の拡張や予測精度の評価を今後進めていくとしている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/582/02.jpg"></div></div><span class="caption">南海トラフ巨大地震の浸水想定と開発したAIによる予測結果の比較。波源モデルはともに内閣府によるもので、上は波高1倍、下は波高3倍のケース</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Tue, 16 Feb 2021 12:40:43 +0900</pubDate>
-		</item>
-		<item>
 			<title>Web会議やオンライン学習の通信を最適化できるWi-Fi 6ルーター、エレコムから </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1306613.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/613/01.jpg"></div></div><span class="caption">WRC-X3200GST3-B</span></div></div></div></div><p>　<a href="https://www.elecom.co.jp/" class="n" target="_blank">エレコム株式会社</a>は、Wi-Fi 6対応の無線LANルーター「WRC-X3200GST3-B」を2月中旬より発売する。価格は1万8,095円。</p><p>　WRC-X3200GST3-Bは、5GHz帯で最大2,402Mbps、2.4GHz帯で最大800Mbpsの通信速度を実現する無線LANルーター。Web会議や動画配信サービス、オンラインゲームなど、事前に設定した用途の通信を優先的行なう「らくらくQoS」機能を搭載する。</p><p>　そのほか、IPv6 IPoEやバンドステアリング、ビームフォーミングZなどに対応。セキュリティ機能のトレンドマイクロスマートネットワークやペアレンタルコントロール機能のこどもネットタイマー3も備える。</p><p>　インターフェイスはGigabit Ethernet×5(うち1基WAN)。本体サイズは約47×147×190mm(幅×奥行き×高さ)、重量は約570g。</p></div></div>]]></description>
@@ -105,6 +99,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1306824.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/824/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.mhlw.go.jp/" class="n" target="_blank">厚生労働省</a>は16日、新型コロナワクチン接種時の予診票を公開した。ワクチンの接種にさいして、過去に発症したことのあるアレルギー症状や常用薬、当日の体調などに関する質問に回答することで、医師が接種の可否を判断する目的。</p><p>　厚労省では予診票と同じ特設ページ上に「新型コロナワクチン予防接種についての説明書」も併せて掲載しており、ここではワクチンの効果や接種の対象、回数、間隔、摂取量、注意事項、副反応などを説明している。</p><p>　今回接種が行なわれるのは、米ファイザーと独バイオンテックが開発したmRNAワクチン「コミナティ筋注」。16歳以上を対象に、3週間の間隔を空けて2回接種する(16歳未満への有効性と安全性は現時点で明らかになっていない)。</p><p>　日本では1億4,400万回分(7,200万人分)の供給を受けることになっており、今後はこれに他社からの供給分が加わる見込み。医療従事者を優先に、17日から接種がはじまる。公費対象であり、希望者は無料で接種できる。</p></div></div>]]></description>
 			<pubDate>Wed, 17 Feb 2021 10:21:48 +0900</pubDate>
+		</item>
+		<item>
+			<title>タッチ対応15.8型フルHDモバイルディスプレイ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1306863.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/863/01_o.jpg"></div></div><span class="caption">JN-MD-IPS158TFHDR</span></div></div></div></div><p>　<a href="http://japannext.net/" class="n" target="_blank">株式会社JAPANNEXT</a>は、15.8型フルHDモバイル液晶ディスプレイ「JN-MD-IPS158」を24日に発売する。タッチ対応モデル「JN-MD-IPS158TFHDR」と非対応モデル「JN-MD-IPS158FHDR」を用意しており、税込みの直販価格は前者が2万8,980円、後者が2万6,980円。</p><p>　いずれもIPSパネルを採用したフルHD(1,920×1,080ドット)液晶ディスプレイ。HDR10対応を謳う。おもな仕様はほぼ共通だが、タッチ機能の有無とインターフェイスが異なる。</p><p>　インターフェイスはUSB Type-C×2(片方は給電のみ)が共通。タッチ対応モデルはMicro HDMI×1、Micro USB×2。タッチ非対応モデルはMini HDMI×1、音声出力用のステレオミニプラグ×1。</p><p>　リフレッシュレートは60Hz、視野角は上下左右178度、表示色数は1,670万色、輝度は220cd/平方m、コントラスト比は800:1、応答速度は30ms。</p><p>　本体サイズと重量は、タッチ対応モデルが375×11×237mm(幅×奥行き×高さ)、約950g。タッチ非対応モデルが368×9×225mm(同さ)、約755g。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/863/02.jpg"></div></div><span class="caption">JN-MD-IPS158FHDR</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Wed, 17 Feb 2021 11:58:52 +0900</pubDate>
+		</item>
+		<item>
+			<title>WD、最大リード2,400MB/sのエントリーグレードM.2 NVMe SSD </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1306855.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1306/855/01.jpg"></div></div><span class="caption">WD Green SN350 NVMe SSD</span></div></div></div></div><p>　米<a href="https://www.westerndigital.com/" class="n" target="_blank">Western Digital</a>は、「WD Green SN350 NVMe SSD」を発売した。容量は240GB/480GB/960GBで、直販価格は順に43.99ドル、54.99ドル、99.99ドル。</p><p>　WD Green SN350 NVMe SSDは、M.2 2280フォームファクタを採用したPCIe Express 3.0 x4接続のSSD。シーケンシャルリード速度は3モデルともに2,400MB/sで、同ライト速度は容量の小さい順に900MB/s、1,650MB/s、1,900MB/sとなる。</p><p>　そのほかの仕様は、4Kランダムリード速度が容量の小さい順に160,000IOPS/250,000IOPS/340,000IOPS、同ライトが150,000IOPS/170,000IOPS/380,000IOPS。総書き込み容量は40TBW/60TBW/80TBW。保証期間は3年間。</p></div></div>]]></description>
+			<pubDate>Wed, 17 Feb 2021 12:00:19 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
