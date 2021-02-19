@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>調査：中古デバイスの90％にデータが残っている | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/data-on-used-devices/29960/</link>
-			<description><![CDATA[当社のエキスパートが中古のコンピューターとストレージデバイスを調査したところ、保護されていないデータや十分に保護されていないデータが見つかりました。買い手と売り手の両方にとって、害になる可能性があります。]]></description>
-			<pubDate>Thu, 04 Feb 2021 01:00:12 +0000</pubDate>
-		</item>
-		<item>
 			<title>ランサムウェアFonixに暗号化されたファイルを復号する方法 | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/fonix-decryptor/29982/</link>
 			<description><![CDATA[ランサムウェアFonixの作成者たちが活動停止を宣言し、マスター鍵を公開。これを受け、当社ではファイル復号ツールを作成しました。無料で利用可能です。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/dating-apps-privacy-and-safety/30042/</link>
 			<description><![CDATA[マッチングアプリを利用するとき、ある程度まで安全とプライバシーを守ることは可能です。設定のヒントを解説します。]]></description>
 			<pubDate>Thu, 18 Feb 2021 01:00:38 +0000</pubDate>
+		</item>
+		<item>
+			<title>Discordでの仮想通貨詐欺：偽ニュースサイトの活用 | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/cryptoscam-in-discord-fake-news-services/30055/</link>
+			<description><![CDATA[Discordで「BitcoinやEthereumをただであげる」というダイレクトメッセージを送りつける詐欺が、パワーアップ。Discordの仮想通貨コミュニティから信用してもらおうと、偽のニュースサイトを使うようになりました。]]></description>
+			<pubDate>Fri, 19 Feb 2021 01:00:47 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
