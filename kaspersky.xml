@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ランサムウェアFonixに暗号化されたファイルを復号する方法 | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/fonix-decryptor/29982/</link>
-			<description><![CDATA[ランサムウェアFonixの作成者たちが活動停止を宣言し、マスター鍵を公開。これを受け、当社ではファイル復号ツールを作成しました。無料で利用可能です。]]></description>
-			<pubDate>Fri, 05 Feb 2021 01:00:02 +0000</pubDate>
-		</item>
-		<item>
 			<title>Chromeを今すぐ88.0.4324.150にアップデートすべき理由 | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/update-google-chrome-to-8804324150/30006/</link>
 			<description><![CDATA[先日公開されたGoogle Chromeバージョン88.0.4324.150は、危険な脆弱性（CVE-2021-21148）を修正します。今すぐアップデートを。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/cryptoscam-in-discord-fake-news-services/30055/</link>
 			<description><![CDATA[Discordで「BitcoinやEthereumをただであげる」というダイレクトメッセージを送りつける詐欺が、パワーアップ。Discordの仮想通貨コミュニティから信用してもらおうと、偽のニュースサイトを使うようになりました。]]></description>
 			<pubDate>Fri, 19 Feb 2021 01:00:47 +0000</pubDate>
+		</item>
+		<item>
+			<title>ホスティングサービスを通じて企業Webサイトの乗っ取りを企むフィッシング攻撃 | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/hosting-provider-phishing-web-page/30076/</link>
+			<description><![CDATA[企業Webサイトへのアクセス権を手に入れようとするフィッシング攻撃は、どのように進行するのか？]]></description>
+			<pubDate>Mon, 22 Feb 2021 01:00:57 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
