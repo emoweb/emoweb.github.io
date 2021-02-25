@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ダークネット、ダークWeb、ディープWeb、サーフェスWebはどう違うのか | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/deep-web-dark-web-darknet-surface-web-difference/29966/</link>
-			<description><![CDATA[混同されることの多い用語の違いを、分かりやすく解説します。]]></description>
-			<pubDate>Tue, 09 Feb 2021 01:00:35 +0000</pubDate>
-		</item>
-		<item>
 			<title>メーリングリストを釣り上げるフィッシングメール | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/the-hunt-for-mailing-lists/29976/</link>
 			<description><![CDATA[メールサービスプロバイダー（ESP）から届いたように見せかけたフィッシングメールを使い、メーリングリストを乗っ取ろうとするサイバー犯罪者。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/ransomware-attack-what-to-do/30083/</link>
 			<description><![CDATA[企業がランサムウェア攻撃を受けた場合の対処方法を、順を追って解説します。]]></description>
 			<pubDate>Wed, 24 Feb 2021 01:00:55 +0000</pubDate>
+		</item>
+		<item>
+			<title>スパムやフィッシングに対抗する連合学習 | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/federated-learning-against-mail-threats/29753/</link>
+			<description><![CDATA[連合学習手法により、プライバシーを犠牲にすることなくスパムを検知するようモデルに学習させることができます。]]></description>
+			<pubDate>Thu, 25 Feb 2021 04:00:49 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
