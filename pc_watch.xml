@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>ラトック、CO2濃度や湿温度を測定するWi-Fi対応センサー </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1310014.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/014/01.jpg"></div></div><span class="caption">RS-WFCO2</span></div></div></div></div><p>　<a href="https://www.ratocsystems.com/home.html" class="n" target="_blank">ラトックシステム株式会社</a>は、CO2濃度と湿度、温度を測定できるWi-Fi対応のセンサー「RS-WFCO2」を5月中旬に発売する。価格は1万7,380円。</p><p>　新型コロナウイルスの拡大防止の観点から、密集・密閉・密接の「三密」回避が重要とされており、この製品では密の目安となるCO2濃度を測定し可視化できる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/014/02.jpg"></div></div><span class="caption">専用アプリで</span></div></div></div></div><p>　本製品をWi-Fiと接続することにより、スマートフォンの専用アプリで濃度の表示やグラフ表示、基準値を超えた場合にアラートを出すことなどができる。また、データはクラウドに保存され、csv形式でアウトプットすることも可能。クラウドの使用料は無料。</p><p>　スマートフォンの対応OSはiOS 12/Android 6以降で、専用アプリ「エアミル2W」が必要。</p><p>　本体サイズは約76×76×36mm(幅×奥行き×高さ)、重量は約90g。電源はMicro USBを利用する。</p></div></div>]]></description>
-			<pubDate>Thu, 04 Mar 2021 16:05:32 +0900</pubDate>
-		</item>
-		<item>
 			<title>ドスパラ、GeForce RTX 3060搭載/32GBメモリのクリエイター向けノート </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1310013.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/013/01.jpg"></div></div><span class="caption">raytrek R5-CA</span></div></div></div></div><p>　<a href="https://www.dospara.co.jp/" class="n" target="_blank">ドスパラ</a>は、ディスクリートGPUにGeForce RTX 3060を搭載したノートPC「raytrek R5-CA」を販売開始した。価格は16万9,980円。</p><p>　Ampereアーキテクチャを採用するミドルレンジGPUの「GeForce RTX 3060」と、sRGB比100%の15.6型フルHD(1,920×1,080ドット)解像度液晶、32GBメモリを搭載するクリエイター向けのノートPC。</p><p>　そのほかのおもなスペックは、CPUにCore i7-10875H、ストレージには1TB容量のNVMe対応 M.2 SSD、OSはWindows 10 Homeを搭載する。</p><p>　おもなインターフェイスは、USB 3.0×3(うち1基はUSB Type-C)、USB 2.0、HDMI、音声出入力、Gigabit Ethernet、Wi-Fi 6、Bluetooth 5.1など。</p><p>　本体サイズは359×243×24.31mm(幅×奥行き×高さ)、重量は約2.0kg。</p></div></div>]]></description>
@@ -111,6 +105,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1310245.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/245/01_o.jpg"></div></div></div></div></div></div><p>　モバイルセキュリティの米<a href="https://www.zimperium.com/" class="n" target="_blank">Zimperium</a>は、Amazon AWSやMicrosoft Azureなどのクラウドサービスを利用している数千個のモバイルアプリのうち、14%にクラウドを介したデータ漏えいのリスクがあると発表した。</p><p>　この調査は、主要なクラウドストレージ「Amazon Web Services S3」、「Google Storage」、「Microsoft Azure」、「Google Firebase」を使用しているアプリに焦点を当てて行なわれたもの。</p><p>　これらのサービスは、クラウドにデータを保存することにより、簡単にデータにアクセスできるメリットがあるが、アプリ開発者がアクセスポリシーを誤った構成にすることも容易であると指摘する。仮に開発者が誤った構成にした場合、第3者によるデータへのアクセスや変更が可能になるリスクがあるという。</p><p>　同社が調査した結果、アプリのアクセスポリシーを誤った構成にしているアプリは全数の14%だった。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/245/02_o.jpg"></div></div></div></div></div></div><p>　カテゴリー別にみると、ビジネスが一番多く17.6%、次いでショッピング、ソーシャル、コミュニケーション、ツールとなっている。</p><p>　このような脆弱性のあるアプリは、個人情報や口座番号、小切手などの財務情報を第3者が取得できるほか、アプリやサーバー全体を危険にさらすリスクもあるという。</p><p>　対策としては、外部からクラウドストレージへアクセスできないか確認することや外部のソフトウェア開発評価サービスを使用することが挙げられるとしている。</p></div></div>]]></description>
 			<pubDate>Fri, 05 Mar 2021 14:50:54 +0900</pubDate>
+		</item>
+		<item>
+			<title>ドスパラ、DTMスクール監修の制作向けPC </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1310272.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/272/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.dospara.co.jp/" class="n" target="_blank">ドスパラ</a>は、クリエイター向けBTO PCブランド「Raytrek」より、DTMスクールのSleepfreaksが監修するDTM制作向けのPCを4モデルリリースした。価格は9万4,980円(税別)から。</p><p>　主要なDAWやIF、プラグインで動作検証を行ない、不要な心配・トラブルを気にせず快適な音楽制作を行えるPCをコンセプトにしたモデル。DTM向けらしくモデル名がコード(和音)となっているのが特徴。すべてOSはWindows 10 Homeを搭載する。</p></div><div><h2 class="hdg-03"><span>CM7/Csus4/Cadd9</span></h2><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/272/02.jpg"></div></div><span class="caption">CM7/Csus4/Cadd9</span></div></div></div></div><p>　下位モデルとなる「CM7」は、CPUにCore i5-10400、16GBメモリ、ストレージに512GB NVMe M.2 SSD、ビデオカードにGeForce GTX 1650を搭載し、価格は9万4,980円(税別)。</p><p>　中位モデルの「Csus4」は、CPUにCore i7-10700K、32GBメモリ、ストレージに1TB NVMe M.2 SSD、ビデオカードにGeForce RTX 3060 Tiを搭載し、価格は19万9,980円(税別)。</p><p>　上位モデルの「Cadd9」は、中位モデルの構成から、CPUをCore i9-10900K、64GBメモリ、ストレージを2TB NVMe M.2 SSDへと変更したモデル。価格は27万9,980円(税別)。</p></div><div><h2 class="hdg-03"><span>Cadd9+</span></h2><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/272/03.jpg"></div></div><span class="caption">Cadd9+</span></div></div></div></div><p>　最上位モデルの「Cadd9+」は、CPUにRyzen 9 5950X、64GBメモリ、ビデオカードにGeForce RTX 3060 Ti、ストレージにPCIe 4.0対応の2TB容量 M.2 SSD、水冷システムを搭載する。価格は32万9,980円(税別)。</p></div></div>]]></description>
+			<pubDate>Fri, 05 Mar 2021 15:24:40 +0900</pubDate>
+		</item>
+		<item>
+			<title>GIGABYTE、300Hz液晶/GeForce RTX 3060搭載で20万円切りの17.3型クリエイターノート </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1310248.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/248/01.jpg"></div></div><span class="caption">AERO 17(KC-8JP6150SH)</span></div></div></div></div><p>　<a href="https://www.gigabyte.com/jp/" class="n" target="_blank">GIGABYTE</a>は、17.3型クリエイター向けノートPC「AERO 17(KC-8JP6150SH)」をAmazon.co.jpにて6日より発売する。価格は19万9,980円。</p><p>　AERO 17(KC-8JP6150SH)は、CPUにCore i7-10870H、GPUにモバイル版GeForce RTX 3060(GDDR6 6GB)を搭載したノートPC。ディスプレイには17.3型フルHD(1,920×1,080ドット)非光沢IPS液晶パネルを採用し、リフレッシュレートが300Hz、応答速度が3ms、輝度が300cd/平方mで、色域はNTSC比72%をカバーする。加えて出荷時にX-Rite PANTONE認証によるキャリブレーションも実施し、高い色再現性を謳う。</p><p>　そのほかおもな仕様は、メモリが16GB(最大64GBまで)、ストレージが1TB M.3 NVMe SSD、Windows 10 Homeなどを搭載。</p><p>　インターフェイスは、Thunderbolt 3、USB 3.0×3、2.5Gigabit Ethernet、Wi-Fi 6、Bluetooth 5.0、HDMI 2.1、Mini DisplayPort 1.4、HD Webカメラ、SDカードスロット、音声入出力などを備える。</p><p>　本体サイズは396×270×21.4mm(幅×奥行き×高さ)、重量は2.5kg。</p></div></div>]]></description>
+			<pubDate>Fri, 05 Mar 2021 15:33:50 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
