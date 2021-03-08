@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>シャープ製不織布マスク、1,200枚セットで販売。価格は6万円 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1310357.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/357/01.jpg"></div></div><span class="caption">シャープ製不織布マスクの1,200枚セット</span></div></div></div></div><p>　<a href="https://jp.sharp/" class="n" target="_blank">シャープ株式会社</a>は、Web直販のCOCORO STOREにて、大口注文の受付を開始し、同社製不織布マスクが1,200枚セットになったパッケージなどの販売を行なっている。</p><p>　シャープの国産不織布マスクはふつうサイズと小さめサイズがあり、毎週の抽選販売で1箱50枚入りを3,278円、マスク定期便サービスでは1箱30枚入りを月々1,650円で提供しているが、今回の大口注文では1,200枚入りを6万円で販売。企業や自治体などでの注文を想定したものとなっている。</p><p>　マスクのほかにも、各種フェイスシールドを50個または10個セットで販売している。</p></div></div>]]></description>
-			<pubDate>Fri, 05 Mar 2021 18:40:05 +0900</pubDate>
-		</item>
-		<item>
 			<title>「whndows. com」ドメインを取得して「windows. com」へのトラフィックを盗み見る手法 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1310364.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/364/01.jpg"></div></div></div></div></div></div><p>　「windows.com」から1bitずれた「whndows.com」ドメインを取得して、前者へのトラフィックを取得するといった「bitsquatting(ビットスクワッティング)」と呼ばれる手法について、調査を行なった報告をremy氏が公開している。</p><p>　アクセスの多いWebサイトのドメインをターゲットとし、本来の文字列から1文字変更したドメインを取得しておくことで、フィッシングなどを狙うbitsquattingと呼ばれる手法がある。ユーザーの文字入力ミスを利用して、わざと誤ったドメイン名を取得しておくtyposquatting(タイポスクワッティング)なども類似する手法として挙げられる。</p><p>　一方、PCなどのメモリでは、構造上の問題や宇宙線、熱、温度の変動などを要因として、まれにビット反転が発生しデータが変化する「bit flipping」という症状が起きることがある(<a href="https://pc.watch.impress.co.jp/docs/2008/0502/irps03.htm">メモリで複数のビットが反転するソフトエラー</a>参照)。今回remy氏が検証したのは、これを利用することでbitsquattingを狙うものだ。</p><p>　同氏の投稿では、「windows.com」を対象として検証を行なっている。たとえば、「i」(01101001)を1bitずらした「h」(01101000)に変えた「whndows.com」のドメインを取得するといったかたち。企業などが持つドメインでは、bitsquattingやtyposquattingに応用しうる類似ドメインもあわせて取得することでフィッシング攻撃を防ぐのだが、「windows.com」の場合は、有効性のある32のドメインのうち、14は誰でも購入可能な状態だったという。</p><p>　そこで同氏は14のドメインをすべて購入し、これらのドメインにワイルドカードDNSを設定し、アクセスしてくるパケットをキャプチャして調査を実施した。その結果、「*.whndows.com」などを利用して、本来NTPサーバーの「time.windows.com」に対するアクセスの内、14日間で626のユニークなIPアドレスから、19万9,180のNTPクライアント接続が確認できたという。Windows搭載マシンが時間設定を行なうさいに標準で利用するサーバーのためアクセスが多く、ビット反転の影響を受けたトラフィックをもっとも多く観測したという。</p><p>　これら14のドメインについては、攻撃に利用できないよう氏が保持するが、身元のわかる責任者に対してはドメイン移管する用意があるとしている。同氏は、アクセスの多いドメインにおけるbitsquattingは実用性が十分にあるとし、OSに統合されたサービスではより多く発生する可能性があると指摘している。また、今回観測できたアクセスには文字入力ミスによるものも含まれており、その多さにも驚いたという。</p></div></div>]]></description>
@@ -117,6 +111,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1310605.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/605/1.jpg"></div></div></div></div></div></div><p>　Xeon Wを搭載したAppleのプロ向け一体型「iMac Pro」の製品販売ページにおいて、「在庫がなくなり次第終了します」という告知が出された。製品自体、生産終了は間違いないと見ていいだろう。</p><p>　iMac Proは2017年6月に発表され、同年12月に発売されたディスプレイ一体型のMac。一体型PCのほとんどはローエンドまたはメインストリーム向けCPUを採用しているが、iMac Proは最大18コアのXeon Wを搭載し、メモリは最大256GB、GPUはRadeon Pro Vega 64Xを搭載し、消費者の度肝を抜いた。</p><p>　iMac Pro販売終了後、iMacのみが残ることとなる。最高の構成は、第10世代の8コアCore i7、最大128GBのメモリ、最大8TBのSSD、Radeon Pro 5500 XT GPU、5,120×2,880ドット表示対応の27型Retina 5Kディスプレイなど。</p></div></div>]]></description>
 			<pubDate>Mon, 08 Mar 2021 15:13:22 +0900</pubDate>
+		</item>
+		<item>
+			<title>トランセンド、信頼性/耐久性を高めたPCIe 4.0 x4接続のM.2 NVMe SSD </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1310616.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/616/01.jpg"></div></div><span class="caption">MTE240S</span></div></div></div></div><p>　<a href="https://jp.transcend-info.com/" class="n" target="_blank">トランセンドジャパン株式会社</a>は、PCI Express 4.0 x4接続に対応したM.2 NVMe SSD「MTE240S」を発売した。容量は500GB/1TBの2種類を用意し、価格はともにオープンプライスで、店頭予想価格はそれぞれ1万980円前後、1万7,980円前後の見込み。</p><p>　MTE240Sは、LDPC ECCによるデータ保護機能やダイナミック・サーマルスロットリングによる温度制御機能などを備え、高い信頼性と耐久性を実現したとする両面実装タイプのSSD。グラフェン製ヒートシンクも装備し、放熱性を高めている。</p><p>　最大転送速度は500GBモデルの場合、シーケンシャルリードが3,800MB/s、同ライトが3,200MB/s、4Kランダムリードが190,000IOPS、同ライトが540,000IOPS。総書き込み容量は1,700TBW。</p><p>　1TBモデルの場合、シーケンシャルリードが3,800MB/s、同ライトが2,800MB/s、4Kランダムリードが370,000IOPS、同ライトが560,000IOPS。総書き込み容量は850TBW。</p><p>　両モデルともに保証期間は5年間となる。</p></div></div>]]></description>
+			<pubDate>Mon, 08 Mar 2021 16:49:56 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
