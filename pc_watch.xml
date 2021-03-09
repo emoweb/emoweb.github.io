@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>ウイルスバスター クラウドに任意コード実行の脆弱性。修正パッチを提供中 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1310598.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/598/01.jpg"></div></div></div></div></div></div><p>　独立行政法人<a href="http://www.ipa.go.jp/security/index.html" class="n" target="_blank">情報処理推進機構(IPA)セキュリティセンター</a>は5日、トレンドマイクロ製「ウイルスバスター クラウド」に存在する脆弱性について報告している。</p><p>　影響を受けるのはWindows版のウイルスバスター クラウド「バージョン17.0」および「バージョン16.0」。コードインジェクションの脆弱性(CVE-2021-25251、CVSS v3による評価スコアは8.2)により、管理者権限を持つ第三者によって任意のコードが実行でき、プログラムのパスワード保護やシステム保護を無効化できる恐れがある。</p><p>　トレンドマイクロではすでに対策済みのアップデートを公開しており、「バージョン17.0.1222」以降および「バージョン16.0.1413」以降の適用で修正できる。</p></div></div>]]></description>
-			<pubDate>Mon, 08 Mar 2021 14:27:33 +0900</pubDate>
-		</item>
-		<item>
 			<title>度肝を抜いたスペックのiMac Proが生産終了 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1310605.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/605/1.jpg"></div></div></div></div></div></div><p>　Xeon Wを搭載したAppleのプロ向け一体型「iMac Pro」の製品販売ページにおいて、「在庫がなくなり次第終了します」という告知が出された。製品自体、生産終了は間違いないと見ていいだろう。</p><p>　iMac Proは2017年6月に発表され、同年12月に発売されたディスプレイ一体型のMac。一体型PCのほとんどはローエンドまたはメインストリーム向けCPUを採用しているが、iMac Proは最大18コアのXeon Wを搭載し、メモリは最大256GB、GPUはRadeon Pro Vega 64Xを搭載し、消費者の度肝を抜いた。</p><p>　iMac Pro販売終了後、iMacのみが残ることとなる。最高の構成は、第10世代の8コアCore i7、最大128GBのメモリ、最大8TBのSSD、Radeon Pro 5500 XT GPU、5,120×2,880ドット表示対応の27型Retina 5Kディスプレイなど。</p></div></div>]]></description>
@@ -111,6 +105,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1310793.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/793/01.jpg"></div></div><span class="caption">XPS 13 (9305)</span></div></div></div></div><p>　<a href="https://www.delltechnologies.com/ja-jp/index.htm" class="n" target="_blank">デル・テクノロジーズ株式会社</a>は、13.3型モバイルノートPC「XPS 13 (9305)」を発売した。価格は10万9,980円(税別)から。</p><p>　XPS 13 (9305)は、CPUに第11世代Core(Tiger Lake)を採用したモバイルノートPC。同様に第11世代Coreを内蔵する13.4型の「XPS 13 (9310)」(画面縦横比16:10)とは筐体が異なり、こちらは13.3型フルHD(1,920×1,080ドット)または4K(3,840×2,160ドット)ディスプレイを搭載する(ともに縦横比16:9)。</p><p>　アルミ削り出し筐体を採用するほか、パームレストにはカーボンファイバーを採用し、重量を最小時で1.16kgに抑えながら耐久性も確保した。Intel EVOプラットフォームや、スマートフォンとの連携機能「Dell Mobile Connect」にも対応する。</p><p>　おもな仕様は、Core i5-1135G7/i7-1165G7、8GB/16GBメモリ、256GB/512GB M.2 NVMe SSD、13.3型フルHD/4Kディスプレイ(4Kはタッチ対応)、Windows 10 Home/Proなどを搭載。</p><p>　インターフェイスは、Thunderbolt 4×2(DisplayPort出力/給電対応)、USB 3.1 Type-C(同)、Wi-Fi 6、Bluetooth 5.1、720p Webカメラ、指紋認証センサー(電源ボタンに統合)、microSDカードスロット、音声入出力などを装備。</p><p>　本体サイズは302×199×15.8mm(幅×奥行き×高さ)、重量は1.16kg(タッチ対応の場合1.23kg)。バッテリ容量は52Whr。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/793/02.jpg"></div></div><span class="caption">側面</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/793/03.jpg"></div></div><span class="caption">キーボード面</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Tue, 09 Mar 2021 12:43:44 +0900</pubDate>
+		</item>
+		<item>
+			<title>AMD、第3世代EPYCを15日に発表 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1310836.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/836/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.amd.com/en/" class="n" target="_blank">米AMD</a>は、第3世代EPYCを15日11時(米国東部時間。日本時間は16日1時)に発表すると予告した。</p><p>　発表会はオンラインで開かれ、同社CEOのLisa Su氏、およびCTOのMark Papermaster氏など、おなじみのメンバーなどが登壇する。</p></div></div>]]></description>
+			<pubDate>Tue, 09 Mar 2021 13:09:43 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
