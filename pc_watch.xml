@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Appleデバイスの位置を第三者が確認できる抜け穴 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1310888.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/888/01.jpg"></div></div></div></div></div></div><p>　Appleの提供する端末を探す機能「Find My」の脆弱性に関する調査レポートが3日に公開された。リバースエンジニアリングを用いた調査で、Alexander Heinrich氏、Milan Stute氏、Tim Kornhuber氏、Matthias Hollick氏により、2つの脆弱性が指摘されている。</p><p>　1つめは、所有者の異なる2つの紛失機器に対して、1人のユーザーからほぼ同時刻に紛失位置の情報が報告された場合、紛失者2人が近い場所にいたことが推定できるというもの。</p><p>　BLEの通信範囲がかぎられていることを利用しており、ユーザー間が接近していたことが推測できる。位置情報レポートにアクセスするさいに、発見者側はデバイス固有の識別子を、紛失者はApple IDをそれぞれ提供する。Appleサーバー上でどのようにメタデータが保管されているかまでは不明なものの、Appleがこの情報を利用し、特定の2人以上のユーザーの位置を把握しうるとしている。</p><p>　2つめは、悪意あるアプリケーションを通じてターゲットのMac上から秘密鍵を読み取り、これを使ってターゲットの持つAppleデバイスの位置情報レポートをダウンロード・復号化できるというもの。</p><p>　Offline Finderの機能では過去7日間までの位置情報レポートの取得が可能で、追跡機能に必要なAdvertisement Keyは15分ごとに変わる。このAdvertisement KeyはMaster Beacon Keyから生成が可能だが、性能上の理由から過去7日分に相当する672個の鍵がAdvertisement Keyがキャッシュされていた。macOSの場合では、ローカルユーザー権限でアクセス可能な特定ディレクトリにキャッシュされており、ターゲットのMacに悪意あるアプリケーションを導入することで、リモートで不正に入手が可能だったという。</p><p>　なお、後者の問題については、2020年9月にmacOS向けに公開されたパッチにてすでに修正が実施されている(CVE-2020-9986)。iOSデバイスについては、同様のキャッシュファイルは存在するものの、サンドボックス機構によってサードパーティーアプリケーションからのアクセスが行なえないとしている。</p></div></div>]]></description>
-			<pubDate>Tue, 09 Mar 2021 16:05:14 +0900</pubDate>
-		</item>
-		<item>
 			<title>サンワサプライ、非接触で温度測定できるサーモグラフィ。乾電池動作 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1310904.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/904/1.jpg"></div></div><span class="caption">CHE-TG32</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/" class="n" target="_blank">サンワサプライ株式会社</a>は、非接触で温度測定可能なサーモグラフィ「CHE-TG32」を発売した。価格は5万1,480円。</p><p>　32×32ピクセルの赤外線カメラで、-20～300℃の範囲で温度測定が可能。画素数は1,024画素。画角は約33度、最短焦点距離は50cm、精度は±2℃または±2%。</p><p>　microSDカードスロットを備え、画像の保存が可能。電源は単3形乾電池×4を利用する。本体サイズは62×95×212mm(幅×奥行き×高さ)、重量は約320g。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/904/2.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/904/3.jpg"></div></div></div></div></div></div></div></div>]]></description>
@@ -93,6 +87,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1311048.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1311/048/1.jpg"></div></div></div></div></div></div><p>　<a href="https://www.links.co.jp/" class="n" target="_blank">株式会社リンクスインターナショナル</a>は、GPD製の6型液晶搭載UMPC「GPD Micro PC」の強化版を3月13日に発売する。価格は5万2,700円。</p><p>　GPD Micro PCは2019年6月に発売され、当時はSoCにCeleron N4100を搭載していたが、強化版はCeleron N4120となる。最大クロックが2.4GHzから2.6GHzに引き上げられ、SSDも256GBに倍増となったため、若干の性能向上が見込める。</p><p>　そのほかの仕様は、メモリ8GB、液晶に1,280×720ドット表示対応のH-IPSパネル(ゴリラガラス4搭載)、OSにWindows 10 Proを搭載。インターフェイスは、USB 3.0×4(うち1基はType-C)、HDMI 2.0出力、シリアルポート、Gigabit Ethernet、IEEE 802.11ac対応無線LAN、Bluetooth 4.2、microSDカードスロット、音声入出力などを備える。</p><p>　バッテリはリチウムポリマーで、駆動時間は6～8時間。本体サイズは153×113×23.5mm(幅×奥行き×高さ)、重量は約440g。</p></div></div>]]></description>
 			<pubDate>Wed, 10 Mar 2021 11:53:58 +0900</pubDate>
+		</item>
+		<item>
+			<title>マウス、浦和レッズ公式のRyzen搭載14型/15.6型ノート </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1311075.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1311/075/01.jpg"></div></div><span class="caption">mouse X4-R5</span></div></div></div></div><p>　<a href="https://www.mouse-jp.co.jp/" class="n" target="_blank">株式会社マウスコンピューター</a>は、14型ノート「mouse X4-R5」および15.6型の「mouse X5-R7」をベースとした浦和レッズオフィシャルPC「mouse X4-R5-URDS」および「mouse X5-R7-URDS」を発売した。価格はそれぞれ9万9,800円(税別)、11万9,800円(税別)。</p><p>　どちらも2020年に発売した浦和レッズオフィシャルPCの後継機種にあたる。天板に浦和レッズのロゴをあしらったほか、R/E/D/Sの4つのキーを赤色とし、オリジナルの壁紙や外箱を採用している。</p><p>　おもな仕様はmouse X4-R5-URDSの場合、Ryzen 5 4600H、8GBメモリ、512GB M.2 NVMe SSD、14型フルHD(1,920×1,080ドット)非光沢液晶、Windows 10 Homeなどを搭載。</p><p>　mouse X5-R7-URDSの場合、Ryzen 7 4800H、16GBメモリ、512GB M.2 NVMe SSD、15.6型フルHD非光沢液晶、Windows 10 Homeなどを搭載。</p><p>　インターフェイスは共通で、USB 3.0×3(うち1基Type-C)、USB 2.0、Gigabit Ethernet、Wi-Fi 6、Bluetooth 5、HDMI、100万画素Webカメラ(Winodws Hello対応)、音声入出力などを備える。</p><p>　本体サイズ/重量はそれぞれ、320.2×214.5×17.5mm(幅×奥行き×高さ)/約1.2kg、356×233×17.9mm(同)/約1.49kg。バッテリ駆動時間は約10時間/約18.5時間。</p><p>　また発売を記念して、浦和レッズの選手の直筆サインが入ったオリジナルパソコンケースをプレゼントするキャンペーンも実施。第1弾は3月10日～4月10日で14型が汰木康也選手、15.6型が⻄川周作選手、第2弾は4月11日～5月10日で14型が武田英寿選手、15.6型が関根貴大選手となっており、対象製品を購入・応募すると各5名に抽選で当たる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1311/075/02.jpg"></div></div><span class="caption">mouse X5-R7-URDS</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1311/075/03.jpg"></div></div><span class="caption">特別仕様のキーボード</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1311/075/04.jpg"></div></div><span class="caption">キャンペーンで当たるオリジナルパソコンケース</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Wed, 10 Mar 2021 12:13:40 +0900</pubDate>
+		</item>
+		<item>
+			<title>Adobe CCデスクトップアプリに複数の深刻な脆弱性、パッチで修正 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1311103.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1311/103/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.adobe.com/" class="n" target="_blank">Adobe</a>は9日(現地時間)、Adobe Creative Cloud(CC)のWindowsデスクトップアプリバージョン5.3以前に3種類の深刻な脆弱性が存在するとし、これを修正した5.4を配信開始した。</p><p>　脆弱性は、任意ファイルの上書きによる任意コードの実行、OSコマンドインジェクションによる任意コードの実行、不適切な入力検証による不正な特権昇格の3つとなっている。</p></div></div>]]></description>
+			<pubDate>Wed, 10 Mar 2021 12:33:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
