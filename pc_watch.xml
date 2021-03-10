@@ -5,30 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>パッチ適用前のQNAP NASで密かにマイニングするマルウェアが蔓延 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1310879.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/879/1.jpg"></div></div></div></div></div></div><p>　Network Security Research Lab at 360は5日、セキュリティパッチ適用前のQNAP製NASを標的とし、脆弱性を悪用して密かにマイニングをするマルウェアの攻撃について報告、ユーザーに警鐘を鳴らした。</p><p>　このマルウェアは、リモートで不正なコマンドを実行できる脆弱性(CVE-2020-2506、およびCVE-2020-2507)を利用し、デバイスに入っているオリジナルのmanaRequest.cgiをハイジャック。その後マイニングプログラムをセットアップ、実行する。</p><p>　マイニングプログラムは「UnityMiner」という名前だが、マイニングプロセスと、実際のCPUメモリリソースの使用情報を非表示にしているため、QNAPユーザーはWeb管理インターフェイスを通してシステムの状況を確認しても、異常が発見できず、動作を確認できない。</p><p>　脆弱性自体は2020年10月に修正されているが、パッチを適用しておらず、脆弱性が存在するQNAP製NASがまだ数百万台ほどオンラインとなっている状況だという。まだ更新をしていないユーザーは早急に対処されたい。</p></div></div>]]></description>
-			<pubDate>Tue, 09 Mar 2021 15:23:20 +0900</pubDate>
-		</item>
-		<item>
-			<title>WebKitメモリ破損の脆弱性を解決したmacOS Big Sur 11.2.3 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1310883.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/883/1.png"></div></div></div></div></div></div><p>　<a href="https://www.apple.com/" class="n" target="_blank">Apple</a>は8日(現地時間)、macOS Big Sur 11.2.3を配信開始した。</p><p>　このバージョンでは、WebKitのメモリ検証機能を強化し、メモリ破損の脆弱性が修正された。これによって、悪意を持って作成されたWebコンテンツの処理で任意のコードが実行されることを防げる。</p><p>　WebブラウザのSafariも14.0.3にアップデートし、WebKitに起因する脆弱性が修正されている。</p><p>　この脆弱性はGoogleおよびMicrosoftのセキュリティチームが見つけ、報告した。</p></div></div>]]></description>
-			<pubDate>Tue, 09 Mar 2021 15:33:44 +0900</pubDate>
-		</item>
-		<item>
-			<title>iOS/iPadOS 14.4.1配信。WebKitの脆弱性を修正 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1310891.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/891/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.apple.com/" class="n" target="_blank">Apple</a>は8日(現地時間)、iOS 14.4.1およびiPadOS 14.4.1を配信開始した。対象はiPhone 6s、iPad Air 2、iPad mini 4以降、および第7世代iPod touch。</p><p>　同日配布開始されたmacOS Big Sur 11.2.3と同様、WebKitのメモリ検証機能を強化し、メモリ破損の脆弱性が修正された。これによって、悪意を持って作成されたWebコンテンツの処理で任意のコードが実行されることを防げる。</p></div></div>]]></description>
-			<pubDate>Tue, 09 Mar 2021 15:34:47 +0900</pubDate>
-		</item>
-		<item>
-			<title>Visual Studio CodeがApple M1にネイティブ対応 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1310896.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/896/1_o.png"></div></div></div></div></div></div><p>　Visual Studio Codeバージョン1.54が配信開始となった。</p><p>　1.54ではApple Silicon(現時点ではApple M1のみ)にネイティブ対応となった。これにより、Rosettaによるエミュレーションを使わずにVisual Studio Codeが動作する。</p><p>　macOS向けのデフォルトのダウンロードはユニバーサルビルドとなっており、どのMacでもネイティブに動作するとしている。</p><p>　このほか、アクセシビリティの改善、ターミナルの改善などが含まれている。</p></div></div>]]></description>
-			<pubDate>Tue, 09 Mar 2021 16:03:37 +0900</pubDate>
-		</item>
-		<item>
 			<title>Appleデバイスの位置を第三者が確認できる抜け穴 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1310888.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1310/888/01.jpg"></div></div></div></div></div></div><p>　Appleの提供する端末を探す機能「Find My」の脆弱性に関する調査レポートが3日に公開された。リバースエンジニアリングを用いた調査で、Alexander Heinrich氏、Milan Stute氏、Tim Kornhuber氏、Matthias Hollick氏により、2つの脆弱性が指摘されている。</p><p>　1つめは、所有者の異なる2つの紛失機器に対して、1人のユーザーからほぼ同時刻に紛失位置の情報が報告された場合、紛失者2人が近い場所にいたことが推定できるというもの。</p><p>　BLEの通信範囲がかぎられていることを利用しており、ユーザー間が接近していたことが推測できる。位置情報レポートにアクセスするさいに、発見者側はデバイス固有の識別子を、紛失者はApple IDをそれぞれ提供する。Appleサーバー上でどのようにメタデータが保管されているかまでは不明なものの、Appleがこの情報を利用し、特定の2人以上のユーザーの位置を把握しうるとしている。</p><p>　2つめは、悪意あるアプリケーションを通じてターゲットのMac上から秘密鍵を読み取り、これを使ってターゲットの持つAppleデバイスの位置情報レポートをダウンロード・復号化できるというもの。</p><p>　Offline Finderの機能では過去7日間までの位置情報レポートの取得が可能で、追跡機能に必要なAdvertisement Keyは15分ごとに変わる。このAdvertisement KeyはMaster Beacon Keyから生成が可能だが、性能上の理由から過去7日分に相当する672個の鍵がAdvertisement Keyがキャッシュされていた。macOSの場合では、ローカルユーザー権限でアクセス可能な特定ディレクトリにキャッシュされており、ターゲットのMacに悪意あるアプリケーションを導入することで、リモートで不正に入手が可能だったという。</p><p>　なお、後者の問題については、2020年9月にmacOS向けに公開されたパッチにてすでに修正が実施されている(CVE-2020-9986)。iOSデバイスについては、同様のキャッシュファイルは存在するものの、サンドボックス機構によってサードパーティーアプリケーションからのアクセスが行なえないとしている。</p></div></div>]]></description>
@@ -93,6 +69,30 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/todays_sales/1311044.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1311/044/01.jpg"></div></div></div></div></div></div><p>　<a href="https://store.minisforum.jp/" class="n" target="_blank">香港MINISFORUM</a>のミニPCが3月31日までセール中だ。同社の特設ページで、現行の6モデルが3,000～5,000円引きで購入できる。</p><p>　セール対象のミニPCは「EliteMini UM700」、「X400」、「UM300」、「UM250」、「U850」、「U820」。このうち「X400」は数量限定で1万円引きの特価セールを実施している。</p><p>　X400は、CPUをRyzen 3 PRO 4350GとRyzen 5 PRO 4650Gを選択可能だが、4350G+メモリ16＋SSD 512GBのモデルが1万円引きの6万8,980円の特別価格となっている。SoCやメモリ、SSDが選択できるモデルは5,000円引きとなる。</p><p>　EliteMini UM700は、CPUにRyzen 7 3750Hを採用、無線モジュールにはWi-Fi 6 AX200を搭載。通常モデルはBTOに対応するがセール品はメモリ16GB、512GB SSDのモデルで、価格は6万9,980円。</p><p>　UM250は、Ryzen 5 PRO 2500Uを搭載。メモリとストレージを内蔵しないベアボーンキットが3万1,240円、メモリとストレージ搭載モデルが4万9,980円から。</p><p>　「UM850」および「UM820」は現在予約受付中で4月に発売する製品。前者はCore i5-10210U、後者はCore i5-8259Uをそれぞれ搭載。メモリは16GBで、ストレージは256GBもしくは512GB SSDを選択可能。価格はU850が6万4,980円から、U820が5万8,980円から。</p></div></div>]]></description>
 			<pubDate>Wed, 10 Mar 2021 10:33:24 +0900</pubDate>
+		</item>
+		<item>
+			<title>重量334gの13.3型モバイルディスプレイ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1311067.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1311/067/01.jpg"></div></div><span class="caption">「Quintokuta 5Z133」</span></div></div></div></div><p>　ルタワジャパン株式会社は、重量334gの13.3型モバイルディスプレイ「Quintokuta 5Z133」をAmazonで発売した。価格は2万8,400円。</p><p>　おもな仕様は、解像度が1,920×1,080ドット、輝度が400cd/平方m、コントラスト比が800:1、応答速度が6ms、視野角は上下/左右とも170度。パネルはIPS。</p><p>　インターフェイスは、USB Type-C×2(1基は給電+ディスプレイ接続、1基は給電のみ)、Mini HDMI、音声出力。本体サイズは302×181×3.7～8.4mm(幅×奥行き×高さ)、重量は本体が334g、着脱式カバー込みで600g。Mini HDMI→HDMI変換ケーブル、USB Type-Cケーブル、USB Type-A→Type-Cケーブル、クリーニングクロスなどが付属する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1311/067/02.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1311/067/03.jpg"></div></div></div></div></div></div><div><div><div><div><div><ul class="aff_list"><li class="aff_item"><div><a href="https://www.amazon.co.jp/dp/B08V87JJF1/ref=nosim?tag=impresswatch-6-22" target="_blank"><img src="https://m.media-amazon.com/images/I/419NScEPHKL._SL160_.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/dp/B08V87JJF1/ref=nosim?tag=impresswatch-6-22" target="_blank">Quintokuta 5Z133</a></div></div></li></ul></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Wed, 10 Mar 2021 11:41:11 +0900</pubDate>
+		</item>
+		<item>
+			<title>旧Microsoft Edgeがサポート終了。4月より自動削除 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1311074.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1311/074/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">米Microsoft</a>は9日(現地時間)、EdgeHTML版「Microsoft Edge」のサポートを終了した。今後はEdgeHTML版Microsoft Edgeに対してセキュリティ更新プログラムが提供されず、4月のWindows 10月次セキュリティ更新時に削除される予定。</p><p>　EdgeHTML版Microsoft Edgeは、Windows 10のデフォルトWebブラウザとして2015年から一般提供を開始。2018年12月、新旧のWebアプリケーション、Webサイトへの互換性向上などの理由でChromiumベースへの切り替えが発表され、翌2019年よりChromium版の提供が始まった。2020年9月に配信されたWindows 10バージョン20H2からは、ChromiumベースのMicrosoft Edgeが標準で搭載されている。EdgeHTML版のサポート終了は、2020年8月に告知されたもの。3月9日に配信されたセキュリティパッチが最後の更新となる。</p><p>　なおMicrosoftが2月に更新した<a href="https://techcommunity.microsoft.com/t5/microsoft-365-blog/new-microsoft-edge-to-replace-microsoft-edge-legacy-with-april-s/ba-p/2114224" class="n" target="_blank">ブログ記事</a>では、Chromium版Microsoft EdgeでもEdgeHTMLをサポートすることや、キオスクモードで使用している場合は再設定が必要となることなどの注意点が挙げられている。</p></div></div>]]></description>
+			<pubDate>Wed, 10 Mar 2021 11:52:12 +0900</pubDate>
+		</item>
+		<item>
+			<title>MSI、フルHD対応27型液晶ディスプレイ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1311073.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1311/073/01.jpg"></div></div><span class="caption">「PRO MP271」</span></div></div></div></div><p>　<a href="https://jp.msi.com/" class="n" target="_blank">エムエスアイコンピュータージャパン株式会社</a>は27型液晶ディスプレイ「PRO MP271」を3月18日より発売する。</p><p>　おもな仕様は、解像度が1,920×1,080ドット、中間色応答速度が5ms、最大表示色数が約1,670万色、コントラスト比が1,000:1、輝度が250cd/平方m、視野角が上下/左右とも178度。パネルは非光沢IPS。色域カバー率はsRGBが90.2%、DCI-P3が74.2%。</p><p>　インターフェイスは、HDMI 1.4、ミニD-Sub15ピン、ヘッドフォン出力など。本体サイズは612.6×219.7×456.8mm(幅×奥行き×高さ)、重量は4.2kg。2W+2Wのスピーカーを内蔵し、VESA 100マウントに対応する。</p></div></div>]]></description>
+			<pubDate>Wed, 10 Mar 2021 11:52:35 +0900</pubDate>
+		</item>
+		<item>
+			<title>6型UMPC「GPD Micro PC」がスペックアップ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1311048.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1311/048/1.jpg"></div></div></div></div></div></div><p>　<a href="https://www.links.co.jp/" class="n" target="_blank">株式会社リンクスインターナショナル</a>は、GPD製の6型液晶搭載UMPC「GPD Micro PC」の強化版を3月13日に発売する。価格は5万2,700円。</p><p>　GPD Micro PCは2019年6月に発売され、当時はSoCにCeleron N4100を搭載していたが、強化版はCeleron N4120となる。最大クロックが2.4GHzから2.6GHzに引き上げられ、SSDも256GBに倍増となったため、若干の性能向上が見込める。</p><p>　そのほかの仕様は、メモリ8GB、液晶に1,280×720ドット表示対応のH-IPSパネル(ゴリラガラス4搭載)、OSにWindows 10 Proを搭載。インターフェイスは、USB 3.0×4(うち1基はType-C)、HDMI 2.0出力、シリアルポート、Gigabit Ethernet、IEEE 802.11ac対応無線LAN、Bluetooth 4.2、microSDカードスロット、音声入出力などを備える。</p><p>　バッテリはリチウムポリマーで、駆動時間は6～8時間。本体サイズは153×113×23.5mm(幅×奥行き×高さ)、重量は約440g。</p></div></div>]]></description>
+			<pubDate>Wed, 10 Mar 2021 11:53:58 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
