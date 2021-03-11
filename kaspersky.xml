@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Discordでの仮想通貨詐欺：偽ニュースサイトの活用 | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/cryptoscam-in-discord-fake-news-services/30055/</link>
-			<description><![CDATA[Discordで「BitcoinやEthereumをただであげる」というダイレクトメッセージを送りつける詐欺が、パワーアップ。Discordの仮想通貨コミュニティから信用してもらおうと、偽のニュースサイトを使うようになりました。]]></description>
-			<pubDate>Fri, 19 Feb 2021 01:00:47 +0000</pubDate>
-		</item>
-		<item>
 			<title>ホスティングサービスを通じて企業Webサイトの乗っ取りを企むフィッシング攻撃 | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/hosting-provider-phishing-web-page/30076/</link>
 			<description><![CDATA[企業Webサイトへのアクセス権を手に入れようとするフィッシング攻撃は、どのように進行するのか？]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/to-pay-or-not-to-pay/30163/</link>
 			<description><![CDATA[ランサムウェアの被害に遭った場合、要求された身代金は支払わないで！それには3つの理由があります。]]></description>
 			<pubDate>Wed, 10 Mar 2021 01:00:51 +0000</pubDate>
+		</item>
+		<item>
+			<title>Microsoft Exchange Serverへの攻撃 | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/exchange-vulnerabilities/30177/</link>
+			<description><![CDATA[Microsoft Exchange Serverに存在する4つの脆弱性が、機密データの窃取を目的とする攻撃に悪用されています。パッチを速やかに適用する必要があります。]]></description>
+			<pubDate>Thu, 11 Mar 2021 01:00:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
