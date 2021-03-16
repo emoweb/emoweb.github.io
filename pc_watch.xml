@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>【やじうまPC Watch】GeForce RTX 3060のマイニング制限、早くも回避</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1312085.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1312/085/1.jpg"></div></div></div></div></div></div><p>　既報のとおり、NVIDIAはGeForce RTX 3060に対しマイニング時の性能制限を課しているのだが、すでに一部のマイナーのあいだでこの制限を回避する方法を見つけられたことが、海外のメディアで多数報じられている。これについても、編集部でも関係者とのやりとりで、制限を回避できる事実を確認できた。</p><p>　具体的な方法はここで紹介を避けるが、ドライバやBIOSの改造が不要であり、誰でもひと手間かければ簡単に行なえるものである。</p><p>　GeForce RTX 3060のマイニング性能の制限について、以前にテック系YouTuberのLinus Sebastian氏が「ソフトウェア的な制限は、過去に何度も簡単に突破されていて、歯止め効果は薄い」としていたが、それが実証された。</p><p>　3月15日執筆時点でGeForce RTX 3060はそこそこ市場で出回っているが、その価格はGeForce RTX 3060 Ti/3070登場時並みとなっている。GPUを購入したいゲーマーにとって、厳しい時期がまだ続きそうだ。</p></div></div>]]></description>
-			<pubDate>Mon, 15 Mar 2021 15:22:01 +0900</pubDate>
-		</item>
-		<item>
 			<title>Clubhouse、クリエイター支援プログラムを開始。電話番号で直接招待する機能も追加 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1312101.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1312/101/01.jpg"></div></div></div></div></div></div><p>　リアルタイム音声アプリ「Clubhouse」は、クリエイター向けプログラム「Clubhouse Creator First」を発表した。</p><p>　機材の提供やゲストのマッチング、クリエイティブアセットのデザインサービスやClubhouse内外でのプロモーション、収益化などによってクリエイターをサポートするプログラム。応募には最大3分の音声サンプルなどをClubhouseへ提出する必要があり、ここから20名を選出する。</p><p>　あわせてアプリのアップデートも実施しており、プロフィールやクラブへのリンク共有機能や言語フィルタ機能を追加。さらに、電話番号を直接入力することでユーザーを招待が可能になっている。</p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today’s Town Hall Updates:<br>We are launching our first creator accelerator program, Clubhouse Creator First. We are looking to support and equip 20 creators w/ resources they need to bring their ideas and creativity to life. Details and application here:<a href="https://t.co/kmKjQvoUBK">https://t.co/kmKjQvoUBK</a></p>— Clubhouse (@joinClubhouse)<a href="https://twitter.com/joinClubhouse/status/1371152823631577089?ref_src=twsrc%5Etfw">March 14, 2021</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div>]]></description>
@@ -111,6 +105,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1312392.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1312/392/01_o.jpg"></div></div><span class="caption">新たなタイルビュー表示。スマートフォンの場合(左)、iPadの場合(右)</span></div></div></div></div><p>　米<a href="https://www.google.com/" class="n" target="_blank">Google</a>は15日(現地時間)、ビデオ会議アプリGoogle Meetのタイルビュー表示機能について機能拡張を行なうと発表した。</p><p>　今回の機能拡張により、スマートフォンアプリ版では最大8人、一部対応するiPadでは最大48人までの会議参加者の映像を同時に表示できるようになる。単体のMeetアプリからだけでなく、GmailからMeetで会議に参加している場合も利用可能。</p><p>　対象ユーザーは、Google WorkspaceやG Suite、個人向けGoogleアカウントなどで、機能は標準で有効となる。iOS向けには現在順次実装中で、Android向けには3月末より実装を開始する予定。</p><p>　なおPC版(Webブラウザ版)については、2020年9月にすでに機能拡張が行なわれ、最大49人までタイルビュー同時表示がサポートされた。</p></div></div>]]></description>
 			<pubDate>Tue, 16 Mar 2021 14:54:18 +0900</pubDate>
+		</item>
+		<item>
+			<title>Google Chrome、新バージョンでメモリ使用量を削減 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1312406.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1312/406/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.google.com/" class="n" target="_blank">Google</a>は、<a href="https://pc.watch.impress.co.jp/docs/news/1312045.html">Webブラウザ「Google Chrome」の最新バージョン、M89</a>で改善された機能をブログ記事で紹介している。</p><p>　Windows版ではメモリ消費量と割り当てを改善し、ブラウザプロセスで最大22%、レンダラーで8%、GPUで3%、使用率を削減。ブラウザの応答性も最大9%向上したという。</p><p>　macOS版でもメモリのフットプリントを縮小し、従来より最大8%メモリを削減するとしている。</p><p>　Android版では、パッケージングとランタイムの最適化を実施した。これにより、リソースの枯渇によるクラッシュが少なくなり、メモリ使用量が5％向上し、起動時間が7.5％速くなり、ページの読み込みが最大2％速くなった。</p><p>　また、8GB以上のメモリとAndroid 10を搭載した端末向けに4ビットバイナリとして再構築し、読み込みが8.5%高速になったほか、スクロールと入力が28%スムーズになったと謳う。</p><div><div><div><div><div><div><iframe width="480" height="270" src="https://www.youtube.com/embed/65Gv8phJarI&amp;t=6s?fs=1&amp;autoplay=0" frameborder="0" allowfullscreen="true"></iframe></div></div><span class="caption">Freeze-Dried Tabs</span></div></div></div></div><p>　そのほか、「Freeze-Dried Tabs」と呼ばれる、スクリーンショットと同じくらいの軽さのタブを一時保存する機能も実装。これによりページにすばやくアクセスできる。</p></div></div>]]></description>
+			<pubDate>Tue, 16 Mar 2021 15:43:42 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
