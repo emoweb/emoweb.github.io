@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Microsoft、AIがプレゼンのうまさを評価/指導してくれる機能 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1312931.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1312/931/02.gif"></div></div><span class="caption">PowerPoint for Webに追加された「Body language」</span></div></div></div></div><p>　米<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は17日(現地時間)、AIがPowerPointを用いたプレゼンをコーチしてくれる機能「Presenter Coach」を全プラットフォーム向けに公開した。Web版PowerPoint向けには2019年6月より提供していたが、WindowsやmacOS、iOS、Android版などでも利用可能となった。</p><p>　PowerPointのリハーサル機能のなかで利用できるもので、ユーザーが実際にプレゼンテーションしている様子をAIが分析し、話すスピードや調子の単調さ、「あー」や「えー」などといったフィラーワードの使用、文法に関する不備などについて指摘を行なう。リハーサル終了後には評価結果に関するレポートも提供する。</p><p>　さらに、PowerPoint for Web向けに新たな批評項目を追加。Webカメラを通じて、聞き手からのユーザーの見え方やカメラとの距離感、聞き手を見ている(アイコンコンタクトをしている)かどうかに関して評価する「Body language」、同じ単語を何度も繰り返しているかどうかをチェックし、リストアップや類義語の提案などを行なう「Repetitive language」、発音の誤りを見つけて指摘する「Pronunciation」の3点について、新たにAIによるフィードバックを受けることが可能となる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1312/931/03.gif"></div></div><span class="caption">Repetitive language</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1312/931/04.gif"></div></div><span class="caption">Pronunciation</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Thu, 18 Mar 2021 14:47:58 +0900</pubDate>
-		</item>
-		<item>
-			<title>新幹線車内の公衆電話が6月末でサービス終了 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1312942.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1312/942/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.jrhokkaido.co.jp/" class="n" target="_blank">北海道旅客鉄道株式会社</a>(JR北海道、以下同様)、<a href="https://www.jreast.co.jp/" class="n" target="_blank">JR東日本</a>、<a href="https://jr-central.co.jp/" class="n" target="_blank">JR東海</a>、<a href="https://www.westjr.co.jp/" class="n" target="_blank">JR西日本</a>、<a href="https://www.jrkyushu.co.jp/" class="n" target="_blank">JR九州</a>、および<a href="https://www.ntt.com/" class="n" target="_blank">NTTコミュニケーションズ株式会社</a>は、新幹線車内で提供している列車公衆電話サービスについて、6月30日をもって終了すると発表した。</p><p>　サービス終了の理由については、携帯電話の普及にともなって同サービスの利用が減少していることに加え、トンネル内を含めたすべての新幹線で携帯電話が利用可能になったためだとしている。なお、終了日は6月30日となっているが、6月7日以降列車によって使用できない場合がある。</p><p>　今後は、手持ちの携帯電話や駅などに設置されている公衆電話を活用してほしいとしている。</p></div></div>]]></description>
-			<pubDate>Thu, 18 Mar 2021 14:50:50 +0900</pubDate>
-		</item>
-		<item>
 			<title>プロジェクトファイルが分割されなくなった「Audacity 3.0.0」 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1312964.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1312/964/01_o.jpg"></div></div><span class="caption">Audacity 3.0.0</span></div></div></div></div><p>　クロスプラットフォーム対応のフリー音声編集ソフト「<a href="https://www.audacityteam.org/" class="n" target="_blank">Audacity</a>」の最新バージョン「Audacity 3.0.0」が17日(現地時間)公開された。2020年6月26日公開の「Audacity 2.4.2」以来となる新バージョンの提供となり、公式ダウンロードページより入手が可能。</p><p>　メジャーアップデートとなった今回のバージョンでは、プロジェクトファイル形式に大きな改良を実施し、ファイル形式が「.aup」から「.aup3」に変更となった。従来の形式ではプロジェクトを小さなファイルに分割し、それらを「.aup」ファイルでまとめるかたちで保存しており、大量のファイルが生成されてしまう点が問題だった。</p><p>　新しい「.aup3」形式では、データベース管理システムの「SQLite3」を利用し、1つのファイルでプロジェクトを保存できるようになった。これにより、プロジェクトを編集するさいの処理速度が若干向上するが、一方でプロジェクトを終了するさいの処理時間が増加するとしている。なお、従来の「.aup」形式のプロジェクトは、Audacity 3.0.0で開いたさいに新しい「.aup3」形式に変換するという。</p><p>　今回はプロジェクトファイルの関する変更が大きいため、それ以外は細かな機能追加や調整、修正にとどめたとしている。変更点としては、ノイズゲートエフェクトに関する改善や、Label Sound(ラベル付き音声)機能、マクロのインポート/エクスポート機能、いくつかの新コマンドの追加などのほか、160以上のバグ修正も実施している。</p></div></div>]]></description>
@@ -99,6 +87,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1313171.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1313/171/1_o.jpg"></div></div></div></div></div></div><p>　Googleは18日(現地時間)、Webブラウザ「Chrome」に「自動字幕起こし」機能を追加したと発表した。日本語版のChromeでも利用可能だが、字幕起こしに対応するのは現時点では英語のみとなっている。</p><p>　機能自体は、設定のなかの「詳細設定」→「ユーザー補助機能」にある。この機能をオンにすると、Webブラウザ上で再生されるほとんどの音声や動画に対し、自動で字幕を生成する。処理はデバイス上でローカルに行なわれるという。</p><p>　騒がしい環境や、小音量のときに使えるほか、世界中で4億6,600万人いると言われている聴覚障がい者や難聴者にも有用だとしている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1313/171/2.jpg"></div></div><span class="caption">ユーザー補助機能で追加された自動字幕起こし</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Fri, 19 Mar 2021 13:22:31 +0900</pubDate>
+		</item>
+		<item>
+			<title>今話題のGeForce RTX 2060、エルザからも </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1313225.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1313/225/1_o.jpg"></div></div><span class="caption">ELSA GeForce RTX 2060 S.A.C V2</span></div></div></div></div><p>　<a href="https://www.elsa-jp.co.jp/" class="n" target="_blank">株式会社エルザ ジャパン</a>は、Turing世代のGeForce RTX 2060搭載ビデオカード「ELSA GeForce RTX 2060 S.A.C V2」を3月26日に発売する。価格はオープンプライスで、店頭予想価格は5万8,300円前後の見込み。数量は限定。</p><p>　既報のとおり、全世界的なビデオカード不足のなか、NVIDIAは旧世代のGeForce GTX 1050 TiおよびGeForce RTX 2060の供給強化に踏み切っているが、MSIと玄人志向に続いてエルザからも登場となった。</p><p>　この製品はノーマルクロック仕様で、ベース1,365MHz/ブースト1,680MHz。6mm径ヒートパイプ4本+9枚羽デュアルファンによる冷却機構を備える。2スロット占有するが、カード全長は206mmと短め。</p></div></div>]]></description>
+			<pubDate>Fri, 19 Mar 2021 15:31:31 +0900</pubDate>
+		</item>
+		<item>
+			<title>Ryzen Threadripper PRO対応マザー「Supermicro M12SWA-TF」が国内販売 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1313233.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1313/233/1_o.jpg"></div></div><span class="caption">M12SWA-TF</span></div></div></div></div><p>　<a href="https://www.ask-corp.jp/" class="n" target="_blank">株式会社アスク</a>は、<a href="https://www.supermicro.com/ja/" class="n" target="_blank">Supermicro</a>/SuperOブランドのRyzen Threadripper PRO対応マザーボード「M12SWA-TF」を26日19時に発売する。価格はオープンプライスで、店頭予想価格は8万5,250円前後の見込み。</p><p>　同ブランドとしては初となるAMDプラットフォームのワークステーション向け製品。ECC RDIMM利用時で最大2TBまでのメモリを搭載可能なほか、PCI Express 4.0 x16スロットを6基搭載し、マルチGPU環境の構築に好適。</p><p>　また、最大64Gbpsに対応するM.2スロットや、AQC113Cコントローラによる10Gigabit Ethernetを備え、3Dレンダリングやディープラーニングといったさまざまな用途で高い性能を発揮するとしている。</p><p>　一方で、同社がサーバーで培ったServer DNAを受け継ぎ、高耐久/高信頼/高速信号伝搬/優れた電力効率を兼ね備えており、ワークステーションのみならずエンスージアストユーザーにも応えるとしている。</p><p>　チップセットはAMD WRX80で、ソケットはsWRX8、フォームファクタはExtended ATX。メモリはDDR4-3200×8(8チャネル)。ストレージインターフェイスはM.2のほかにU.2×2、SATA 6Gbps×4を備える。</p><p>　背面パネルインターフェイスは、USB 3.2、USB 3.1×4、USB 3.0×3、10Gigabit Ethernet、IPMI共用Gigabit Ethernet、シリアルポート、ミニD-Sub15ピン、音声入出力などを備える。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1313/233/2_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1313/233/3_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1313/233/4_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Fri, 19 Mar 2021 15:45:30 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
