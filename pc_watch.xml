@@ -124,5 +124,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1313/510/1.jpg"></div></div></div></div></div></div><p>　<a href="https://www.thanko.jp/" class="n" target="_blank">サンコー株式会社</a>は、スマートフォンやタブレット、モバイルディスプレイを取り付けられるスタンド「超安定モバイルディスプレイ＆タブレットスプリングアームスタンドtall」を発売した。価格は4,380円。</p><p>　2種類のホルダーが付属し、幅約55～85mmのスマートフォン、または幅約125～225mmまでのタブレット、高さ225mmまでのモバイルディスプレイ(15.6型)を取り付けられる製品。高さは800～1,500mmのあいだで調整可能で、卓上ではなく机の横の床に設置することを想定している。</p><p>　2つのスプリングアームと1つのホルダーアーム構造、それぞれにダイヤルがあり安定して設置、片手で好きな位置に調整できる。立って使用することも想定している。重量は約2,440g。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1313/510/2.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1313/510/3.jpg"></div></div><span class="caption">使用例</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Mon, 22 Mar 2021 12:53:12 +0900</pubDate>
 		</item>
+		<item>
+			<title>「Windows 10の印刷時クラッシュ問題が解消するパッチ」の不具合を解消するパッチ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1313535.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1313/535/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は、2021年3月の月例パッチを3月9日(現地時間)にリリースしたが、そのさいに一部プリンタで印刷時にクラッシュする問題が発生し、これを修正するための例外パッチを15日に配信した。</p><p>　ところが、この15日に配信したパッチには、特定のアプリとプリンタで印刷したさいに、グラフィックの欠落や単色で印刷されてしまう問題、位置ずれやフォーマットの問題、空白ページが出るといった不具合が発生しているという。</p><p>　この問題を修正するパッチが、18日に配信開始された。ただ、パッチの適用は問題が発生する場合のみを推奨している。パッチ名および対応OSは下記のとおりで、Windows Update CatalogおよびWindows Updateの両方で提供中。</p><div><pre class="code-01"><code>・Windows 10, version 20H2 and Windows Server, version 20H2 (KB5001649)<br>・Windows 10, version 2004 and Windows Server, version 2004 (KB5001649)<br>・Windows 10, version 1909 and Windows Server, version 1909 (KB5001648)<br>・Windows 10, version 1809 and Windows Server 2019 (KB5001638)<br>・Windows 10, version 1803 (KB5001634)<br>・Windows 10, version 1607 and Windows Server 2016 (KB5001633)<br>・Windows 10, version 1507 (KB5001631)<br></code></pre></div><p>　なお、そのほかのバージョンについては近日中に提供する予定。</p></div></div>]]></description>
+			<pubDate>Mon, 22 Mar 2021 13:23:37 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
