@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>EIZO液晶とM1 Macの接続問題が一部解消。ただし、ガンマ値にはまだ問題 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1314445.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1314/445/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.eizo.co.jp/" class="n" target="_blank">EIZO</a>は、Apple M1チップ搭載のMac製品と同社のディスプレイの接続互換表を更新した。</p><p>　本誌でも<a href="https://pc.watch.impress.co.jp/docs/news/1294631.html">2020年12月に既報</a>の通り、ディスプレイ出力時にカラーフォーマットがYUVリミテッドレンジ出力になるなど、さまざまな制約があった。</p><p>　この度、EIZO側の検証で、バージョン11.2以降のmacOS Big Sur環境ではカラーフォーマットとカラープロファイルの色域については条件付きで解消されたことがわかった。</p><p>　同社で動作検証されている機種は、CG279X/CS2740/CS2731(いずれもUSB Type-C接続)、CG2420-Z(HDMI接続)の4モデル。</p></div><div><h2 class="hdg-03"><span>カラーフォーマット</span></h2><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1314/445/02.jpg"></div></div><span class="caption">M1 Mac</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1314/445/04.jpg"></div></div><span class="caption">Intel Mac</span></div></div></div></div><p>　M1 Macから出力される映像信号のカラーフォーマットがYUVリミテッドレンジになることから発生していた階調飛びの症状で、バージョン11.2以降のmacOS Big Sur環境では「音声出入力のない液晶にUSB Type-C/DisplayPortで接続」、または「音声出入力のある液晶で、かつHDMI入力を持たない液晶に接続」の場合に限り、問題は解消された。</p><p>　なお、ColorEdgeシリーズで信号フォーマット設定機能を持つ製品に関しては、YUV表記のない設定値から選ぶ、ないしはPCモードで使用することでHDMI接続であっても症状が発生しないという。</p></div><div><h2 class="hdg-03"><span>カラープロファイル</span></h2><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1314/445/03.jpg"></div></div><span class="caption">M1 Mac</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1314/445/05.jpg"></div></div><span class="caption">Intel Mac</span></div></div></div></div><p>　カラープロファイルに関しては、色域の不一致は解消されたが、ガンマ値の不一致に関しては解消されていない。</p><p>　こちらもColorEdgeシリーズで信号フォーマット設定機能を持つ製品に限り、上記方法で対策できるとしている。</p><p>　また、ColorEdgeシリーズの専用ソフト「Colornavigator 7」のM1対応版も公開されている。</p></div></div>]]></description>
-			<pubDate>Thu, 25 Mar 2021 16:27:17 +0900</pubDate>
-		</item>
-		<item>
 			<title>センチュリー、ガス圧式4軸デュアルディスプレイアーム </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1314503.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1314/503/01_o.jpg"></div></div><span class="caption">CGMA-4A2MWH</span></div></div></div></div><p>　<a href="https://www.century.co.jp/" class="n" target="_blank">株式会社センチュリー</a>は、ガス圧式の4軸デュアルディスプレイアーム「CGMA-4A2MWH」を4月上旬に発売する。価格はオープンプライスで、店頭予想価格は2万800円前後の見込み。</p><p>　2画面環境に対応する3関節式のディスプレイアーム。24型までの液晶に対応し、VESA規格(75×75mm/100×100mmピッチ)に準拠する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1314/503/02.jpg"></div></div></div></div></div></div><p>　シリンダー内部のガス圧とディスプレイの重さで位置を固定する構造で、片面最大10㎏までの液晶の取り付けができる。適応する天板厚は10～50mm。</p><p>　取付方法はデスクの天板に挟むクランプタイプと、天板穴へねじ固定するスルーデスクタイプの2タイプに対応。</p><p>　調整角度は上下105度、左右±90度、垂直±90度。本体重量は約6.5kg。</p></div></div>]]></description>
@@ -99,6 +93,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1314677.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1314/677/02.gif"></div></div><span class="caption">Export to PowerPoint presentation</span></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は23日(現地時間)、Word文章をPowerPointのプレゼンテーションに変換する「Export to PowerPoint presentation」をMicrosoft 365ユーザー向けに公開した。2月よりInsider向けにプレビュー版として提供していた機能で、Web版のWordおよびPowerPointで利用できる。</p><p>　Word文章内の各セクションをもとに、AIが自動的にスライドの作成、テーマやフォントなどの提案を行ない、PowerPointのプレゼンテーションを生成するもの。「File」→「Export」→「Export to PowerPoint presentation」から機能を呼び出すことが可能で、その後一覧からテーマを選ぶとプレゼンテーションに変換し、OneDrive上に保存する。</p><p>　現時点では英語のみに対応し、テキスト形式のみをサポート。変換後のプレゼンテーションについては、画像や動画などメディアの追加も行なえる。なお、Internet ExplorerおよびSafariでは利用できない。</p></div></div>]]></description>
 			<pubDate>Fri, 26 Mar 2021 14:15:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>MINISFORUM、Ryzen 5 3450U搭載で3画面出力対応の小型PC </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1314696.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1314/696/01_o.jpg"></div></div><span class="caption">UM340</span></div></div></div></div><p>　<a href="https://store.minisforum.jp/" class="n" target="_blank">MINISFORUM</a>は、Ryzen 5 3450U搭載の小型PC「UM340」を発表した。ストレージが異なる2モデルを用意し、価格は256GB SSDモデルが559ドル、512GB SSDが599ドル。4月下旬より出荷を開始する予定。</p><p>　128×127×46mm(幅×奥行き×高さ)の小型筐体が特徴のPC。16GB(8GB×2)メモリを内蔵するほか、256GBまたは512GBのM.2 NVMe SSD、Windows 10 Proなどを搭載し、2.5インチドライブスロットも備える。</p><p>　インターフェイスは、USB 3.1×4(うち1基Type-C、映像出力対応)、USB 3.0、Gigabit Ethernet×2、Wi-Fi 6、Bluetooth 5.1、HDMI 2.0、DisplayPort、音声入出力などを装備する。</p><p>　重量は0.5kg。</p></div></div>]]></description>
+			<pubDate>Fri, 26 Mar 2021 15:57:49 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
