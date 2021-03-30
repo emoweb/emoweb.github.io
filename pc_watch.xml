@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>GeForce RTX 30のResizable BAR対応VBIOSが配布開始、まずはGALAX </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1314947.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1314/947/01.jpg"></div></div></div></div></div></div><p>　中国<a href="http://www.szgalaxy.com/" class="n" target="_blank">GALAX</a>は、GeForce RTX 30シリーズにおいて、「Resizable BAR」をサポートするVBIOSの配布を開始した。各機種の製品情報ページからダウンロードできる。</p><p>　Resizable BARは、CPUからGPUのVRAMに対して、そのとき必要な分だけのアセットにアクセスできるようにすることで転送を効率化し、フレームレートの改善を図るPCI Expressのオプション機能。テクスチャ、シェーダー、ジオメトリなどのアセットに対して複数の要求がある場合は、キューイングだけでなく同時転送も行なう。</p><p>　バージョンの日付は「2021/3/12」で、GALAXブランドがラインナップしているすべてのGeForce RTX 3090/3080/3070/3060搭載モデルに対してResizable BAR対応VBIOSを配布している。</p><p>　NVIDIAでは2月末よりGeForce RTX 3060でResizable BARのサポートを開始しており、そのほかのRTX 30シリーズについては3月末から対応をはじめることをアナウンスしていた。Resizable BARを利用するには、CPU、マザーボード(とBIOS)、ビデオカード(とVBIOS)のすべてが対応している必要がある。</p><p>　AMDではZen 3世代(Ryzen 3/5/7の5000番台)が対応。マザーボードは400/500シリーズ。Intelは第10世代CoreとZ490/H470/B460/H410チップセットの組み合わせ、もしくは第11世代Core向けの全チップセット。</p></div></div>]]></description>
-			<pubDate>Mon, 29 Mar 2021 10:34:13 +0900</pubDate>
-		</item>
-		<item>
-			<title>Apple、iPhone/iPadのゼロデイ脆弱性を修正。iPhone 5sなど旧モデル向けも </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1314973.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1314/973/1.jpg"></div></div><span class="caption">iPhone 5s</span></div></div></div></div><p>　米Appleは26日(現地時間)、WebKitの脆弱性を修正した「iOS 14.4.2」、「iOS 12.5.2」、および「iPadOS 14.4.2」、「watchOS 7.3.3」を配布開始した。</p><p>　この更新では、Googleのチームによって発見されたユニバーサルクロスサイトスクリプティングの脆弱性(CVE-2021-1879)を修正し、悪意を持って作られたWebコンテンツによる攻撃に対処できる。</p><p>　iOS/iPadOS 14.4.2の対象デバイスは、iPhone 6s以降、iPad Pro、iPad Air 2以降、第5世代iPad以降、iPad mini 4以降、および第7世代iPod touch。</p><p>　iOS 12.5.2の対象デバイスは、iPhone 5s、iPhone 6、iPhone 6 Plus、iPad Air、iPad mini 2/3、および第6世代iPod touch。</p><p>　watchOS 7.3.3の対象デバイスはApple Watch Series 3以降。</p></div></div>]]></description>
-			<pubDate>Mon, 29 Mar 2021 12:05:33 +0900</pubDate>
-		</item>
-		<item>
 			<title>GIGABYTE、Z590搭載クリエイター向けATXマザーボード </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1314976.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1314/976/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.gigabyte.com/jp/" class="n" target="_blank">日本ギガバイト株式会社</a>は、Intel Z590チップセットを採用したATXマザーボード「Z590 VISION D」を4月2日に発売する。価格はオープンプライスで、店頭予想価格は4万7,000円前後の見込み。</p><p>　3Dレンダリングや動画編集など高負荷な作業に対応したクリエイター向け製品。Mini-ITXフォームファクタの「Z590I VISION D」が3月5日に発売済み。</p><p>DrMOS 12+1フェーズのデジタル電源を搭載。DisplayPort Alternate対応のUSB Type-Cポートを2基備えるほか、Thunderbolt 4ポートや2.5Gigabit Ethernetなどを装備する。</p><p>対応CPUは第10/11世代Coreプロセッサ。メモリスロットはDDR4-5133×4。拡張スロットはPCIe 4.0 x16×3、PCIe 3.0 x1×1。ストレージはM.2 2280(PCIe 4.0)×1、M.2 2280(PCIe 3.0)×2、SATA 6Gbps×6。</p><p>　インターフェイスはDisplayPort 1.4×1、HDMI 1.4×1、Thunderbolt 4対応USB Type-C×2、USB 3.2 Gen2×2、USB 3.2 Gen1×4、2.5Gigabit Ethernet、Wi-Fi 6、Bluetooth 5.1など。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1314/976/02_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
@@ -123,6 +111,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1315055.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1315/055/01_o.jpg"></div></div><span class="caption">Swift 5</span></div></div></div></div><p>　<a href="https://acerjapan.com/" class="n" target="_blank">日本エイサー株式会社</a>は、14型モバイルノートPC「Swift 5」を4月1日より発売する。Office Home and Business 2019が付属する「SF514-55T-H56Y/GF」と、付属しない「SF514-55T-H56Y/G」の2機種を用意し、価格はともにオープンプライス。</p><p>　CPUに第11世代のCore i5-1135G7を搭載し、Intel Evoプラットフォームに対応。フレーム幅最小2.61mmの狭額縁デザインを採用するほか、マグネシウムリチウム合金を使用し、重量1.04kg、厚み14.95mmの軽量薄型筐体に仕上げた。</p><p>　そのほかの仕様は共通で、16GBメモリ、512GB M.2 NVMe SSD、14型フルHD(1,920×1,080ドット)IPS光沢液晶(10点マルチタッチ対応)、Windows 10 Homeなどを搭載。</p><p>　インターフェイスは、Thunderbolt 4、USB 3.1 Type-C、USB 3.0×2、Wi-Fi 6、Bluetooth 5.0、HDMI、HD Webカメラ、指紋認証センサー、音声入出力などを備える。</p><p>　本体サイズは約318.9×206.98×14.95mm(幅×奥行き×高さ)。バッテリ駆動時間は約15時間。本体色はミストグリーン。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1315/055/02_o.jpg"></div></div><span class="caption">背面</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Tue, 30 Mar 2021 12:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>TSUKUMO、第11世代Core搭載のゲーミングデスクトップなど </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1315240.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1315/240/1.jpg"></div></div><span class="caption">G-GEAR</span></div></div></div></div><p>　<a href="https://www.tsukumo.co.jp/" class="n" target="_blank">TSUKUMO</a>は、第11世代Core搭載のゲーミングデスクトップやミニタワーPC、スリムPCを発売した。</p><p>　ゲーミング向け「G-GEAR」の一例として、「GA9J-J211/ZT」は、CPUにCore i9-11900K、メモリ32GB、Intel Z590チップセット、1TB NVMe SSD、GeForce RTX 3070ビデオカード、DVDスーパーマルチドライブ、OSにWindows 10 Homeなどを搭載し、価格は29万9,800円。</p><p>　ミニタワー「AeroStream」の一例として「RM5J-C211/T」は、CPUにCore i5-11400(ビデオ機能内蔵)、メモリ8GB、Intel B560チップセット、500GB NVMe SSD、DVDスーパーマルチドライブ、OSにWindows 10 Homeなどを搭載し、価格は8万6,800円。</p><p>　スリムPC「AeroSlim」の一例として「RS5J-C211/T」は、CPUにCore i5-11400(同)、メモリ8GB、Intel B560チップセット、1TB HDD、DVDスーパーマルチドライブ、OSにWindows 10 Homeなどを搭載し、価格は8万9,800円。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1315/240/2.jpg"></div></div><span class="caption">AeroStream/AeroSlim</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Tue, 30 Mar 2021 12:03:17 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
