@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>ハッカーがAccellion FTA経由で盗んだデータを公開 | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/accellion-fta-data-leaks/30189/</link>
-			<description><![CDATA[Accellion FTAの脆弱性を突いて企業データを盗んだハッカーたちが、企業の評判を貶めることを目的に、盗んだデータへのリンクを大量にメールで送信しています。]]></description>
-			<pubDate>Tue, 16 Mar 2021 01:00:17 +0000</pubDate>
-		</item>
-		<item>
 			<title>Google Chromeの脆弱性、CVE-2021-21193：すぐにアップデートを | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/google-chrome-cve-2021-21193/30210/</link>
 			<description><![CDATA[Chromeに見つかった深刻な脆弱性は、すでに攻撃に悪用されています。Chromeをお使いの場合は、すぐにアップデートを。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/cryptoscam-in-discord-fake-dex-airdrop/30316/</link>
 			<description><![CDATA[Discordを利用している暗号資産（仮想通貨）トレーダーを偽のDEX（分散型取引所）へ誘導しようとする新手の詐欺が現れています。]]></description>
 			<pubDate>Tue, 30 Mar 2021 01:00:15 +0000</pubDate>
+		</item>
+		<item>
+			<title>COVID-19の世界的大流行がサイバーセキュリティに及ぼした影響 | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/pandemic-year-in-infosec/30292/</link>
+			<description><![CDATA[パンデミックが宣言されてから1年の間に、サイバーセキュリティ分野では何が起きたか？テレワークの大規模導入、医療機関に対するサイバー攻撃、新型コロナウイルスにかこつけたフィッシング詐欺ほか、主な出来事を振り返ります。]]></description>
+			<pubDate>Wed, 31 Mar 2021 01:00:49 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
