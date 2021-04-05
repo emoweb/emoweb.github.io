@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>私たちの未来：働き方はどう変わる？ | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/own-your-future-work/30122/</link>
-			<description><![CDATA[ポストコロナの時代、私たちの働き方はどうなっていくと思いますか？]]></description>
-			<pubDate>Wed, 17 Mar 2021 01:00:35 +0000</pubDate>
-		</item>
-		<item>
 			<title>SuperVPN、GeckoVPN、ChatVPNから利用者データが漏洩 | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/supervpn-geckovpn-chatvopn-leak/30226/</link>
 			<description><![CDATA[SuperVPN、GeckoVPN、ChatVPNの利用者データ何千万人ぶんが、ハッカーフォーラムで販売される事態となっています。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/kaspersky-awards-2020/30288/</link>
 			<description><![CDATA[アンチウイルスソフトやセキュリティソフトをテストしているのは、どういった評価機関？「AAA」や「Top Rated」とはどんな意味？カスペルスキーの製品が受賞したのはどの賞？]]></description>
 			<pubDate>Fri, 02 Apr 2021 01:00:08 +0000</pubDate>
+		</item>
+		<item>
+			<title>PHPのバックドア | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/php-git-backdor/30362/</link>
+			<description><![CDATA[プログラミング言語PHPのソースコードにバックドアを仕掛けようとする試みが発覚、しかし未然に防がれました。何が起きたのか、どういった対策が可能なのか、見ていきます。]]></description>
+			<pubDate>Mon, 05 Apr 2021 01:00:06 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
