@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>中国、7nmプロセス製造で37TFLOPSの高性能GPU </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1316485.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1316/485/1_o.jpg"></div></div></div></div></div></div><p>　中国・<a href="http://www.iluvatar.com.cn/" class="n" target="_blank">上海天数智芯半導体有限公司</a>(Iluvatar CoreX)は31日(現地時間)、クラウド向けの7nmプロセスで製造差入れたGPU「BI」およびそれを搭載したカードを発表した。</p><p>　中国初となる“完全自主設計”を謳う製品で、競合と比べて2分の1のダイ面積、より低い消費電力を実現しながら、メインストリーム製品の2倍近い性能を実現しているという。</p><p>　7nm FinFETプロセスと2.5D CoWoSパッケージを用いて製造され、240億トランジスタを集積。演算性能はFP32で37TFLOPS、FP16/BF16で147TFLOPS、INT32で37TOPS、INT16で147TOPS、INT8で295TOPSなどとされている。ホストとの接続インターフェイスはPCI Express 4.0 x16で、仮想化もサポートする。</p><p>　メモリはHBM2を採用し、バンド幅は1.2TB/sに達する。容量は32GB。自社開発のシリコンインターポーザ技術を採用し、これにはTSMCの65nmを用いている。ボード消費電力は300Wで、8ピンの補助電源を用いる。GPGPU向けということで、ディスプレイ出力はない。</p><p>　同社は中国初となるGPGPUの提供を目指し、設計を2018年より開始。クラウドコンピューティングやハイパフォーマンスコンピューティング向けに製品を提供するとしている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1316/485/2_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1316/485/3_o.jpg"></div></div></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1316/485/4_o.png"></div></div></div></div></div></div></div></div>]]></description>
-			<pubDate>Mon, 05 Apr 2021 12:29:34 +0900</pubDate>
-		</item>
-		<item>
-			<title>LG、スマホ市場から撤退 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1316484.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1316/484/1_o.jpg"></div></div><span class="caption">2画面スマホLG V60 ThinQ 5G</span></div></div></div></div><p>　<a href="https://www.lg.com/global" class="n" target="_blank">韓国LG Electronics</a>は5日(現地時間)、取締役会においてスマートフォン市場から撤退すると発表した。</p><p>　同社はスマートフォン市場に参入して以来、独特のディスプレイを搭載したモデルや、ユニークなデバイスを数多くリリースしてきたが、競争の激しいスマートフォン市場で生き残れなかった。今後、電気自動車の部品やコネクテッドデバイス、スマートホーム、ロボット、人工知能などに注力するとしている。</p><p>　現在在庫のある製品については引き続き販売を行なっていき、既存顧客に対してサービス、サポートやソフトウェアアップデートの提供を継続。関連する雇用については、サプライヤーやビジネスパートナーと協業し各地域ごとに決定する。</p><p>　モバイルで培った専門知識を活かし、6Gといった技術を開発するなど、ほかの事業分野での競争力を強化。過去20年間のモバイル事業で開発されたコア技術についても保持し、既存および将来の製品に適用するとしている。</p><p>　事業終了は7月31日までには終了する見込みだが、それ以降も現行モデルの在庫が残る可能性があるとしている。</p></div></div>]]></description>
-			<pubDate>Mon, 05 Apr 2021 12:44:43 +0900</pubDate>
-		</item>
-		<item>
 			<title>電話番号含む5億人超のFacebookアカウント情報がネットで公開される </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1316489.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1316/489/01_o.jpg"></div></div></div></div></div></div><p>　セキュリティ企業Hudson Rockの共同創業者兼CTOのAlon Gal氏は3日、自身のTwitterにて、5億3,300万件のFacebookアカウント情報がハッカーフォーラムに公開されていると報告した。</p><p>　同氏は本件に関して2021年1月にも、Facebookアカウントと電話番号がひもづいた状態で閲覧できる脆弱性が2020年初頭に悪用され、データベースが作成されたり、低価格でデータベースが照合できるボットがTelegram上で確認されていると報告していた。</p><p>　公開されたアカウント情報には、Facebook IDや名前、住所(過去のものも含む)、誕生日、メールアドレス(一部のアカウントのみ)、アカウント作成日時、交際ステータス、経歴が含まれており、ソーシャルエンジニアリングや詐欺、ハッキング行為などに悪用される可能性があるとしている。</p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">All 533,000,000 Facebook records were just leaked for free.<br><br>This means that if you have a Facebook account, it is extremely likely the phone number used for the account was leaked.<br><br>I have yet to see Facebook acknowledging this absolute negligence of your data.<a href="https://t.co/ysGCPZm5U3">https://t.co/ysGCPZm5U3</a><a href="https://t.co/nM0Fu4GDY8">pic.twitter.com/nM0Fu4GDY8</a></p>— Alon Gal (Under the Breach) (@UnderTheBreach)<a href="https://twitter.com/UnderTheBreach/status/1378314424239460352?ref_src=twsrc%5Etfw">April 3, 2021</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div>]]></description>
@@ -123,6 +111,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1316758.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1316/758/01_o.png"></div></div></div></div></div></div><p>　米連邦最高裁判所は、OracleがGoogleに対して訴えていたJava APIの著作権侵害の問題について、Googleの異議申し立てを認め、公正使用(フェアユース)だったとする判決を下した。</p><p>　この係争はOracleが著作権を所有するJava SEについて、GoogleがAndroidプラットフォームを作るさいに、Java SEのAPIから約1万1,500行のコードをコピーして使用し、それが著作権の侵害に当たるとして2010年より争われ、その過程でさまざまな裁定が行なわれてきた裁判だった。なお、Oracleは2010年に当時Javaを所有していたSunを買収してからすぐにこの裁判を起こしている。</p><p>　最終的に米連邦最高裁判所は、コピーされたAPIは、プログラマーがプログラム作る上で必要な一部のみが含まれたもので、これは米国法においてフェアユースの範囲内と結論づけた。</p></div></div>]]></description>
 			<pubDate>Tue, 06 Apr 2021 12:56:15 +0900</pubDate>
+		</item>
+		<item>
+			<title>サンワサプライ、低遅延なaptX LL対応のBluetoothトランスミッタ。PC/PS5/Switch対応 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1316773.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1316/773/01_o.jpg"></div></div><span class="caption">400-BTAD009(左が変換アダプタ、右が本体)</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/" class="n" target="_blank">サンワサプライ株式会社</a>は、aptX Low Latency(aptX LL)に対応したBluetoothトランスミッタ「400-BTAD009」を直販サイトにて発売した。価格は4,480円</p><p>　400-BTAD009は、音声コーデックのaptX LLをサポートしたトランスミッタ。対応機器と接続すると低遅延な無線音声伝送が実現でき、音ずれを抑えられる。PCだけでなく、Nintendo SwitchやPS5といったゲーム機などでも利用できる。</p><p>　インターフェイスはUSB Type-Aだが、USB Type-A to Type-C変換アダプタも付属。Bluetooth 4.0に対応し、コーデックはSBC、aptX、aptX LLをサポートする。</p><p>　本体サイズは18×36×8mm(幅×奥行き×高さ)、重量は約4g。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1316/773/02_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Tue, 06 Apr 2021 13:42:02 +0900</pubDate>
+		</item>
+		<item>
+			<title>PCでEdgeがFirefoxのシェアを抜き3位浮上 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1316783.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1316/783/1_o.png"></div></div><span class="caption">全世界におけるデスクトップ用Webブラウザのシェア推移(出典:StatCounter)</span></div></div></div></div><p>　StatCounterが公開しているデスクトップ向けWebブラウザの全世界シェアにおいて、2021年3月はMicrosoft Edge(8.03%)がFirefox(7.95%)を上回り3位に浮上した。</p><p>　Chromiumをベースとした新しいWindows用Edgeは2020年1月配信以降、じわじわとシェアを伸ばし、3月でついにFirefoxを上回った。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1316/783/03_o.jpg"></div></div><span class="caption">FirefoxとEdgeのシェア(出典:StatCounter)</span></div></div></div></div><p>　もっとも、プラットフォームを問わない場合、Firefoxが3位(3.68%)で、Edgeは4位(3.45%)と逆転する。いずれも2位のSafari(19.03%)や1位のChrome(64.19%)と大きく開きがあり、“どんぐりの背比べ”状態は続いている。</p><p>　日本にかぎって言えば2020年7月時点で、EdgeはすでにFirefoxを上回っている。ただ、2021年3月時点でInternet Explorerのシェアもまだ6.91%残っており、全世界の1.7%と比較すると根強い人気があることがわかる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1316/783/2_o.png"></div></div><span class="caption">日本におけるデスクトップ用Webブラウザのシェア推移(出典:StatCounter)</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Tue, 06 Apr 2021 13:47:25 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
