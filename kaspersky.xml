@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>SuperVPN、GeckoVPN、ChatVPNから利用者データが漏洩 | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/supervpn-geckovpn-chatvopn-leak/30226/</link>
-			<description><![CDATA[SuperVPN、GeckoVPN、ChatVPNの利用者データ何千万人ぶんが、ハッカーフォーラムで販売される事態となっています。]]></description>
-			<pubDate>Thu, 18 Mar 2021 01:00:38 +0000</pubDate>
-		</item>
-		<item>
 			<title>家のWi-Fiが遅い場合の対処法 | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/how-to-protect-wifi-from-neighbors/30215/</link>
 			<description><![CDATA[自宅のネットワークにただ乗りして帯域幅を消費しているのが誰かを突き止め、勝手にアクセスされないようにする方法を説明します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/php-git-backdor/30362/</link>
 			<description><![CDATA[プログラミング言語PHPのソースコードにバックドアを仕掛けようとする試みが発覚、しかし未然に防がれました。何が起きたのか、どういった対策が可能なのか、見ていきます。]]></description>
 			<pubDate>Mon, 05 Apr 2021 01:00:06 +0000</pubDate>
+		</item>
+		<item>
+			<title>コロナ禍の１年：リモートデスクトッププロトコルへの攻撃が高い水準を維持 | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/attacks-on-rdp-during-pandemic-year/30354/</link>
+			<description><![CDATA[パンデミックが宣言されてから、リモートデスクトッププロトコル（RDP）への総当たり攻撃が急増しました。テレワークへの移行が進んだことが理由として考えられます。]]></description>
+			<pubDate>Tue, 06 Apr 2021 01:00:44 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
