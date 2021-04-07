@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>家のWi-Fiが遅い場合の対処法 | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/how-to-protect-wifi-from-neighbors/30215/</link>
-			<description><![CDATA[自宅のネットワークにただ乗りして帯域幅を消費しているのが誰かを突き止め、勝手にアクセスされないようにする方法を説明します。]]></description>
-			<pubDate>Fri, 19 Mar 2021 01:00:41 +0000</pubDate>
-		</item>
-		<item>
 			<title>A41APT：日本企業を標的とする情報窃取活動 | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/a41apt-threat-for-japanese-organizations/30219/</link>
 			<description><![CDATA[ステルス性が高く検知と解析が困難な標的型攻撃、A41APT。日本企業を狙う攻撃活動は、どのような特徴を持っているのでしょうか。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/attacks-on-rdp-during-pandemic-year/30354/</link>
 			<description><![CDATA[パンデミックが宣言されてから、リモートデスクトッププロトコル（RDP）への総当たり攻撃が急増しました。テレワークへの移行が進んだことが理由として考えられます。]]></description>
 			<pubDate>Tue, 06 Apr 2021 01:00:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>Apple M1に順応したマルウェア | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/apple-m1-malware/30369/</link>
+			<description><![CDATA[Apple M1向けに適応したマルウェアとは、どんなもの？危険性はどれほどか、感染しないためにはどうすべきか？解説しています。]]></description>
+			<pubDate>Wed, 07 Apr 2021 01:00:32 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
