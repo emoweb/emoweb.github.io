@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>2020年のストーカーウェア事情：その規模と対策 | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/stalkerware-in-2020/30247/</link>
-			<description><![CDATA[合法なスパイウェアの使用が、暴力につながる可能性があります。ストーカーウェア市場が2020年にどのような変化を見せたのか、ストーカーウェアであるアプリからどう自分を守ることができるか、説明します。]]></description>
-			<pubDate>Wed, 24 Mar 2021 01:00:57 +0000</pubDate>
-		</item>
-		<item>
 			<title>Kaspersky調査：IT/テック業界の女性は仕事とキャリアをどのように捉えているか | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/women-in-tech-japan-story/30257/</link>
 			<description><![CDATA[IT/テック業界の職に就いている女性を対象としたグローバル調査で見えた、働く女性たちの意識。特に日本の傾向に注目しました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/noise-protection-methods/30339/</link>
 			<description><![CDATA[自宅でのリラックスタイム中、在宅勤務中、ビデオ会議のときに使える雑音・騒音対策。ノイズキャンセリング機能付きのヘッドセットやマイク、OSのノイズキャンセリング設定、その他のライフハックをご紹介します。]]></description>
 			<pubDate>Thu, 08 Apr 2021 01:00:11 +0000</pubDate>
+		</item>
+		<item>
+			<title>APT10：A41APTの活動内で発見された高度なマルチレイヤー型ローダー「Ecipekac」 | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/apt10-sophisticated-multi-layered-loader-ecipekac-discovered-in-a41apt-campaign/30393/</link>
+			<description><![CDATA[日本企業を狙う標的型攻撃「A41APT」。その攻撃活動で使用された高度なマルウェアEcipekac（DESLoader）の技術的詳細と、APT10との関連について。]]></description>
+			<pubDate>Fri, 09 Apr 2021 01:00:02 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
