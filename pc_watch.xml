@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Adobeの「源ノ角ゴシック」がバリアブルフォントに </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1317634.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1317/634/1_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.adobe.com/jp/" class="n" target="_blank">米Adobe</a>は4月8日(現地時間)、同社が開発したオープンソース書体「源ノ角ゴシック(Source Han Sans)」がバリアブルフォントになったと発表した。GitHub上からダウンロードできる。なお、共同開発しているGoogbe版「Noto Sans CJK Variable」もGitHubで提供している。</p><p>　源ノ角ゴシックは2014年にはじめてリリースされて以来改良を続けており、簡体字中国語、繁体字中国語(香港/台湾)、日本語、韓国語といった地域固有のグリフのバリエーションを多くカバーしている。また、Source Sansファミリのラテン文字、キリル文字、ギリシア文字のグリフを、日中韓グリフと調和するよう、若干修正したものも含まれている。</p><p>　このため、6万5,535個のグリフを完全に収めたSource Han Sans Pan-CJKフォントの完全なセットはファイルサイズが肥大化してしまい、Webホスティングでは扱いにくかった。たとえば、非バリアブルフォントであるPan-CJK Source Hans Sans 2.002のフルセットは593.7MBだ。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/watch/parts/icon/loading.png" class="resource" style="width:480px;" id="2.gif" ajax="/img/pcw/docs/1317/634/2.gif"></div></div></div></div></div></div><p>　今回源ノ角ゴシックにバリアブルフォント技術を適用することで、既存の7つのウェイトを、デザインスペース全体を網羅する1つのファイルでカバーでき、上記と同等のOTCパッケージのバリアブルフォントは32.9MBとなる。また、より緻密なコントロールを実現し、ニーズに応じて微妙なタイポグラフィの変化や効果を作れるようになった。</p><p>　各地域のサブセットフォントではさらに軽量化でき、日本語のOTCファイルの場合は8.1MB。圧縮率の高いWOFF2形式にすることで、4.1MBまで圧縮できるという。</p></div></div>]]></description>
-			<pubDate>Fri, 09 Apr 2021 13:50:42 +0900</pubDate>
-		</item>
-		<item>
-			<title>TSUKUMO、12万円台からのQuadro P620搭載ワークステーション </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1317627.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1317/627/01.png"></div></div><span class="caption">NVIDIA Quadroモデル QA9J-D211/ZT</span></div></div></div></div><p>　<a href="https://www.tsukumo.co.jp/" class="n" target="_blank">TSUKUMO</a>を展開する株式会社Project Whiteは、Quadro P620を搭載するワークステーションPC「NVIDIA Quadroモデル QA9J-D211/ZT」など4機種を発売した。価格は12万9,800円～22万9,800円。</p><p>　エントリー向けのQuadro P620のほか、BTOカスタマイズでハイエンドのQuadro RTX 8000も搭載可能。CPUはRocket Lake-Sこと第11世代Coreプロセッサを採用する。</p><p>　天板に240mmサイズの水冷クーラーを装備しており、強力な冷却で安定動作を実現。本体の前面と背面に140mm静音ファンをそれぞれ装備しており、ケース全体で合計5基のファンを設置することも可能(ミニタワーモデルを除く)。</p><p>　最上位の「QA9J-D211/ZT」(22万9,800円)のおもな仕様は、Core i9-11900K(8コア/16スレッド、3.5～5.3GHz)、Quadro P620(GDDR5 2GB)、DDR4-3200 16GB、NVMe M.2 SSD 500GB、HDD 1TB、Windows 10 Proを搭載。</p><p>　電源はCWT製の750W 80PLUS Gold、ケースはATXタワー(EX-623T-A4)。マザーボードはASUS TUF GAMING Z590-PLUS WI-FIで、Wi-Fi 6とBluetooth 5.1をサポートする。</p><p>　最下位モデルでミニタワーの「QM5J-A211T」(12万9,800円)はCPUがCore i5-11400(6コア/12スレッド、2.6～4.4GHz)で、同じくQuadro P620を搭載。こちらのマザーボードはASUS PRIME B560M-Aとなっており、無線LANは搭載されていない。</p><p>　このほか、QA9J-D211/ZTと同じくATXタワーのモデルとして、Core i7-11700(8コア/16スレッド、2.5～4.9GHz)搭載の「QA7J-C211/ZT」(18万9,800円)と、Core i5-11400搭載の「QA5J-B211/T」(14万9,800円)も用意されている。</p></div></div>]]></description>
-			<pubDate>Fri, 09 Apr 2021 14:14:14 +0900</pubDate>
-		</item>
-		<item>
 			<title>パソコン工房、GeForce RTX 3070/144Hz液晶搭載の15.6型ゲーミングノート </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1317766.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1317/766/01.jpg"></div></div><span class="caption">LEVEL-15FR105-i7-TASX、LEVEL-15FR105-i7-TAZX、LEVEL-15FR105-i7-TAZXD</span></div></div></div></div><p>　<a href="https://www.pc-koubou.jp/" class="n" target="_blank">パソコン工房</a>はiiyama PCブランドLEVEL∞より、15.6型ゲーミングノートPC 3機種を発売した。</p><p>　ともにCPUにCore i7-10870H、GPUにGeForce RTX 3070を搭載した製品。加えて144Hz駆動に対応する15.6型フルHD(1,920×1,080ドット)非光沢液晶ディスプレイも装備する。</p><p>　そのほかおもな仕様は「LEVEL-15FR105-i7-TASX」の場合、16GBメモリ、500GB M.2 NVMe SSD、Windows 10 Homeなどを搭載し、価格は21万6,678円。</p><p>　「LEVEL-15FR105-i7-TAZX」の場合、32GBメモリ、1TB M.2 NVMe SSD、Windows 10 Homeなどを搭載し、価格は23万4,278円。</p><p>　「LEVEL-15FR105-i7-TAZXD」の場合、32GBメモリ、500GB M.2 NVMe SSD×2、Windows 10 Homeなどを搭載し、価格は23万5,378円。</p><p>　インターフェイスは共通で、Thunderbolt 3、USB 3.0×3、Gigabit Ethernet、Wi-Fi 6、Bluetooth 5、HDMI、Mini DisplayPort、100万画素Webカメラ、音声入出力などを備える。</p><p>　本体サイズはともに約357.5×238×26.4mm(幅×奥行き×高さ)、重量は約2.02kg。バッテリ駆動時間は約6.3時間。</p></div></div>]]></description>
@@ -105,6 +93,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1318006.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1318/006/1_o.jpg"></div></div></div></div></div></div><p>　中国市場監督管理総局は10日(現地時間)、中国のEコーマス最大手Alibabaグループが独占禁止法に違反したとし、182億人民元(約3,040億円)の罰金を課した。これに対しAlibabaは、制裁に服従するとの声明を発表した。</p><p>　声明のなかで、Alibabaは過去数カ月にわたってこの調査に全面的に協力し、国のプラットフォーム全体に対する政策と要求に応じてきたという。今回の制裁に関しては、公平な市場競争環境、および高品質なECプラットフォームの発展に欠かせないものだと認識し、服従を決めたのだという。</p><p>　この182億人民元は、Alibabaの中国における2019年度の売上の4%に相当する。</p></div></div>]]></description>
 			<pubDate>Mon, 12 Apr 2021 14:46:29 +0900</pubDate>
+		</item>
+		<item>
+			<title>プロのエンジニアに質問できる、プログラミング玩具「toio」の公式Slackが開設 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1318025.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1318/025/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.sie.com/index.html" class="n" target="_blank">ソニー・インタラクティブエンタテインメント(SIE)</a>は、プログラミング玩具「toio」のユーザーやクリエイター、エンジニアとtoioの開発者が参加するオンラインコミュニティ「トイオ・クラブ」をSlack上で開設した。</p><p>　「toio」はSIEが開発したロボット型のプログラミング玩具で、アイデアに合わせてプログラムを構築し、プログラミングを気軽に体験できる工夫がされている。筐体にはレゴブロックを装着することもできる。</p><p>　Slackチャンネル内では、toioの開発に関わったメンバーやクリエイター、toioを利用しているプログラマー、これからtoioを利用してみたいユーザーなど、さまざまな層が交流できるように多くのチャンネルをジャンル別に用意。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1318/025/02_o.jpg"></div></div><span class="caption">Slackチャンネルを用途、ジャンル別に用意</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1318/025/03_o.jpg"></div></div><span class="caption">さまざまな疑問や提案で交流が図れる</span></div></div></div></div><p>　「サッカーゲームで回転シュート技がうまくプログラミングできない」のような疑問、「toioでこんなあそび方を思いついた」といった情報共有、そしてSTEAMに関する一般的なや学校の授業でのtoioの使いかたに関する情報交換などに役立てられるといい、学校のクラブ活動のような感覚で利用してほしいとしている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1318/025/04_o.jpg"></div></div><span class="caption">Chrome OSにも対応</span></div></div></div></div><p>　そのほか、ビジュアルプログラミングアプリの「toio Do」のアプリがChromebookに対応し、Windows/Mac、iPad、Chrome OSと幅広い環境で使用可能になった。</p></div></div>]]></description>
+			<pubDate>Mon, 12 Apr 2021 15:19:03 +0900</pubDate>
+		</item>
+		<item>
+			<title>KDDI、実物の彫刻作品と連動するARアート </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1318019.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1318/019/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.au.com/" class="n" target="_blank">KDDI株式会社</a>は、2022年4月末まで開催している彫刻家の名和晃平氏によるインスタレーション「Metamorphosis Garden(変容の庭)」にて、ARコンテンツ「Metamorphosis Garden_AR」の上映を2021年5月上旬より公開する。</p><p>　iPhone向けアプリ「AR×ART」を通じて、実在の彫刻作品とARが融合したダンスパフォーマンスが楽しめるもの。Amazonが提供しているモバイルエッジコンピューティング向け低遅延インフラAWS Wavelengthと5Gネットワークを活用し、高精細でダイナミックなAR表現を実現するという。</p><p>　Metamorphosis Garden_ARは、同氏と振付家のダミアン・ジャレ氏の共作で、上映時間は約3分間。東京・銀座のGINZA SIX 4階および5階から鑑賞できる。</p></div></div>]]></description>
+			<pubDate>Mon, 12 Apr 2021 15:23:20 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
