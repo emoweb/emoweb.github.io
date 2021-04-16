@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>サイバーセキュリティの専門家はセキュリティ製品をどうやって評価しているのか | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/kaspersky-awards-2020/30288/</link>
-			<description><![CDATA[アンチウイルスソフトやセキュリティソフトをテストしているのは、どういった評価機関？「AAA」や「Top Rated」とはどんな意味？カスペルスキーの製品が受賞したのはどの賞？]]></description>
-			<pubDate>Fri, 02 Apr 2021 01:00:08 +0000</pubDate>
-		</item>
-		<item>
 			<title>PHPのバックドア | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/php-git-backdor/30362/</link>
 			<description><![CDATA[プログラミング言語PHPのソースコードにバックドアを仕掛けようとする試みが発覚、しかし未然に防がれました。何が起きたのか、どういった対策が可能なのか、見ていきます。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/cve-2021-28310/30464/</link>
 			<description><![CDATA[Kasperskyのエキスパートは、Microsoft Windowsのゼロデイ脆弱性（CVE-2021-28310）がすでに実環境で悪用されていると考えています。]]></description>
 			<pubDate>Thu, 15 Apr 2021 04:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>ランサムウェア：画面ロック型から暗号化型へ、さらにその先へ | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/history-of-ransomware/30428/</link>
+			<description><![CDATA[いかにしてランサムウェアは、単純な画面ロック型から、インフラを麻痺させるモンスターへと進化を遂げていったのか。]]></description>
+			<pubDate>Fri, 16 Apr 2021 01:00:05 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
