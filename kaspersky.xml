@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>PHPのバックドア | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/php-git-backdor/30362/</link>
-			<description><![CDATA[プログラミング言語PHPのソースコードにバックドアを仕掛けようとする試みが発覚、しかし未然に防がれました。何が起きたのか、どういった対策が可能なのか、見ていきます。]]></description>
-			<pubDate>Mon, 05 Apr 2021 01:00:06 +0000</pubDate>
-		</item>
-		<item>
 			<title>コロナ禍の１年：リモートデスクトッププロトコルへの攻撃が高い水準を維持 | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/attacks-on-rdp-during-pandemic-year/30354/</link>
 			<description><![CDATA[パンデミックが宣言されてから、リモートデスクトッププロトコル（RDP）への総当たり攻撃が急増しました。テレワークへの移行が進んだことが理由として考えられます。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/history-of-ransomware/30428/</link>
 			<description><![CDATA[いかにしてランサムウェアは、単純な画面ロック型から、インフラを麻痺させるモンスターへと進化を遂げていったのか。]]></description>
 			<pubDate>Fri, 16 Apr 2021 01:00:05 +0000</pubDate>
+		</item>
+		<item>
+			<title>macOSの脆弱性によって牙をむくテキストファイル | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/is-txt-file-safe/30449/</link>
+			<description><![CDATA[macOSの脆弱性CVE-2019-8761を悪用し、テキストファイルを通じたサイバー攻撃が可能であることが明らかになっています。]]></description>
+			<pubDate>Mon, 19 Apr 2021 01:00:49 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
