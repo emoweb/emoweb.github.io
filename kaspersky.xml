@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>コロナ禍の１年：リモートデスクトッププロトコルへの攻撃が高い水準を維持 | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/attacks-on-rdp-during-pandemic-year/30354/</link>
-			<description><![CDATA[パンデミックが宣言されてから、リモートデスクトッププロトコル（RDP）への総当たり攻撃が急増しました。テレワークへの移行が進んだことが理由として考えられます。]]></description>
-			<pubDate>Tue, 06 Apr 2021 01:00:44 +0000</pubDate>
-		</item>
-		<item>
 			<title>Apple M1に順応したマルウェア | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/apple-m1-malware/30369/</link>
 			<description><![CDATA[Apple M1向けに適応したマルウェアとは、どんなもの？危険性はどれほどか、感染しないためにはどうすべきか？解説しています。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/is-txt-file-safe/30449/</link>
 			<description><![CDATA[macOSの脆弱性CVE-2019-8761を悪用し、テキストファイルを通じたサイバー攻撃が可能であることが明らかになっています。]]></description>
 			<pubDate>Mon, 19 Apr 2021 01:00:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>DarkSide Leaks：ランサムウェアはいかにして産業化しつつあるか | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/darkside-ransomware-industry/30492/</link>
+			<description><![CDATA[ランサムウェアを操るサイバー犯罪グループがプロフェッショナルな見た目のWebサイトを運営する理由とは？サイバー犯罪グループ「DarkSide」の活動は、ランサムウェアの産業化をよく示しています。]]></description>
+			<pubDate>Tue, 20 Apr 2021 01:00:01 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
