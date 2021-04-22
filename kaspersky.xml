@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Apple M1に順応したマルウェア | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/apple-m1-malware/30369/</link>
-			<description><![CDATA[Apple M1向けに適応したマルウェアとは、どんなもの？危険性はどれほどか、感染しないためにはどうすべきか？解説しています。]]></description>
-			<pubDate>Wed, 07 Apr 2021 01:00:32 +0000</pubDate>
-		</item>
-		<item>
 			<title>最新テクノロジーを使った防音方法いろいろ | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/noise-protection-methods/30339/</link>
 			<description><![CDATA[自宅でのリラックスタイム中、在宅勤務中、ビデオ会議のときに使える雑音・騒音対策。ノイズキャンセリング機能付きのヘッドセットやマイク、OSのノイズキャンセリング設定、その他のライフハックをご紹介します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/darkside-ransomware-industry/30492/</link>
 			<description><![CDATA[ランサムウェアを操るサイバー犯罪グループがプロフェッショナルな見た目のWebサイトを運営する理由とは？サイバー犯罪グループ「DarkSide」の活動は、ランサムウェアの産業化をよく示しています。]]></description>
 			<pubDate>Tue, 20 Apr 2021 01:00:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>中小規模企業向けソリューションのEDR機能 | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/endpoint-cloud-edr/30487/</link>
+			<description><![CDATA[サイバー攻撃に対応するには、攻撃を把握して迅速に対応することが重要です。迅速な状況把握に役立つ、Kaspersky Endpoint Security Cloud PlusのEDR機能について。]]></description>
+			<pubDate>Thu, 22 Apr 2021 04:00:00 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
