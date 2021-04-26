@@ -130,5 +130,11 @@
 			<description><![CDATA[<div class="main-contents mainContents"><div class="contents-section contents-section-layer-1" id="contents-section-1"><div class="image-wrap"><div class="inner"><div class="row"><div class="column" style="width:540px;"><div class="img-wrap-h" style="width:540px;height:304px;"><div class="img-wrap-w"><a href="https://forest.watch.impress.co.jp/img/wf/docs/1321/125/html/image1.png.html" class="resource" rel="nofollow"><img src="https://forest.watch.impress.co.jp/img/wf/docs/1321/125/image1_l.png" class="resource" style="width:540px;height:304px;" id="image1_l.png"></a></div></div><span class="caption">「Chrome 91」から同じサービスであればドメインが異なっていてもログイン情報を共有可能に</span></div></div></div></div><p>　「Google Chrome」にはパスワードの生成機能や保存済みパスワードの自動入力（オートフィル）、同期、パスワードの漏洩通知といった機能が備わっており、Webサイトへのログインが手軽かつ安全に行えるよう設計されている。しかし、Webサービスが複数のドメインにまたがって運営されているケース（たとえば“example.com”でも“example.co.jp”でも利用できるWebサイト）では、オートフィル機能がうまく動作しないことがある。IDとパスワードはそれぞれのドメインで独立して管理されるため、パスワードを再発行した際に同期がとれず、同じサービスなのにあるドメインでは自動でログインできるのに、別のドメインではログインできないといったトラブルが生じることもある。</p><p>　米Googleは4月22日（現地時間）、こうした問題に対処するため「Digital Asset Links」（DAL）の仕様を拡張し、複数のドメインをまたいだオートフィルが行えるようにしたと発表した。DALは2015年から採用されており、WebサイトとAndroidアプリを関連付けたい（例：「Facebook」のURLは「Facebook」アプリで開く）といった場合に活用されている。</p><p>　この機能は、「Chrome 91」からサポートされる（執筆時現在、ベータ版）。開発者が両方のドメインに“/.well-known/assetlinks.json”を配置し、資格情報（IDとパスワード）を共有できることを宣言すれば、ユーザーはどちらのWebサイトでも同じ資格情報をオートフィルできる。</p></div></div>]]></description>
 			<pubDate>Mon, 26 Apr 2021 11:00:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>ウィンドウを振って他を全部最小化するヤツ、お役御免か？ Windows 10プレビュー版に無効化設定が追加／初期設定はなんとOFF</title>
+			<link>https://forest.watch.impress.co.jp/docs/news/1321248.html</link>
+			<description><![CDATA[　“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。]]></description>
+			<pubDate>Mon, 26 Apr 2021 14:27:06 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
