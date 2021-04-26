@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>APT10：A41APTの活動内で発見された高度なマルチレイヤー型ローダー「Ecipekac」 | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/apt10-sophisticated-multi-layered-loader-ecipekac-discovered-in-a41apt-campaign/30393/</link>
-			<description><![CDATA[日本企業を狙う標的型攻撃「A41APT」。その攻撃活動で使用された高度なマルウェアEcipekac（DESLoader）の技術的詳細と、APT10との関連について。]]></description>
-			<pubDate>Fri, 09 Apr 2021 01:00:02 +0000</pubDate>
-		</item>
-		<item>
 			<title>APKPure：感染したAndroidアプリストア | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/infected-apkpure/30441/</link>
 			<description><![CDATA[Android向けアプリストアのAPKPureに、Androidデバイスにマルウェアをダウンロードする悪意あるコードが含まれることが判明しました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/transformers-war-for-cybertron-cybersecurity/29524/</link>
 			<description><![CDATA[『トランスフォーマー：ウォー・フォー・サイバトロン・トリロジー』は、子どもにサイバーセキュリティについて説明するのに良い教材です。]]></description>
 			<pubDate>Fri, 23 Apr 2021 01:00:35 +0000</pubDate>
+		</item>
+		<item>
+			<title>マイニング機器を餌に仮想通貨を巻き上げる詐欺の手口 | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/cryptoscam-fake-antminer/30562/</link>
+			<description><![CDATA[品薄状態の暗号資産（仮想通貨）マイニング機器が手に入ると言って偽の販売ページに誘い込み、仮想通貨をだまし取る詐欺が発生しています。]]></description>
+			<pubDate>Mon, 26 Apr 2021 01:00:40 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
