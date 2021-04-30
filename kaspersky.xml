@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Lightshotのスクリーンショットを悪用した仮想通貨詐欺 | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/cryptoscam-in-lightshot/30435/</link>
-			<description><![CDATA[Lightshotのスクリーンショット共有機能がもたらす情報漏洩の危険と、これを逆手に取った暗号資産（仮想通貨）詐欺の手口について。]]></description>
-			<pubDate>Wed, 14 Apr 2021 01:30:05 +0000</pubDate>
-		</item>
-		<item>
 			<title>Desktop Window Managerの脆弱性「CVE-2021-28310 」、すでに悪用の可能性 | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/cve-2021-28310/30464/</link>
 			<description><![CDATA[Kasperskyのエキスパートは、Microsoft Windowsのゼロデイ脆弱性（CVE-2021-28310）がすでに実環境で悪用されていると考えています。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/top5-ransomware-groups/30592/</link>
 			<description><![CDATA[企業を標的に、データを暗号化し、身代金を要求する活動が最も活発なサイバー犯罪者グループについて。]]></description>
 			<pubDate>Wed, 28 Apr 2021 01:00:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>公開状態のTrelloボードから漏れた情報 | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/trello-data-leaks/30605/</link>
+			<description><![CDATA[多数企業のTrelloのボードから情報が自由に手に入るようになっていることが明らかに。情報が漏れた原因と、Trelloのボードの公開範囲を適切に設定する方法を説明します。]]></description>
+			<pubDate>Fri, 30 Apr 2021 01:00:45 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
