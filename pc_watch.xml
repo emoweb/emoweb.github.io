@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>FRONTIER、miniHDMI+USB Type-C/Windows 10 Pro搭載の10.1型2in1タブレットPC </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1322290.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1322/290/01.jpg"></div></div><span class="caption">FRT230P</span></div></div></div></div><p>　<a href="https://www.frontier-direct.jp/" class="n" target="_blank">FRONTIER</a>は、10.1型2in1タブレットPC「FRT230P」を販売開始した。価格は3万6,800円。</p><p>　OSにWindows 10 Pro(64bit)を搭載したタブレットPCで、10.1型IPS液晶(解像度800×1,280ドット)、CPUにはCeleron N4020、4GBメモリ、ストレージには64GB eMMCを搭載する。カバーも兼ねる着脱式のキーボードを搭載し、携帯にも便利な仕様。</p><p>　miniHDMIやUSB 3.1 Type-Cも備え、miniHDMI経由では最大4K解像度(3,840×2,160ドット/30Hz)に対応。プレゼンなどで活用できるとしている。</p><p>　本体サイズは約260×174×10mm(幅×奥行き×高さ)、重量は約635g(キーボードを含むさいは1,135g)。</p></div></div>]]></description>
-			<pubDate>Fri, 30 Apr 2021 16:20:50 +0900</pubDate>
-		</item>
-		<item>
 			<title>Steam、日本発のゲームを割引「ゴールデンウィークセール」 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1322380.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1322/380/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://store.steampowered.com/" class="n" target="_blank">Steam</a>は、「ゴールデンウィークセール」を5月7日午前2時まで開催している。</p><p>　今回のセールは「日本発のゲームを祝おう」と題し、「NieR:Automata」や「ACE COMBAT 7: SKIES UNKNOWN」、「VRカノジョ」などに代表される日本発のゲームを中心にセール中。</p><p>　一例として、「ACE COMBAT 7: SKIES UNKNOWN」が定価の75%オフの2,090円、「TEKKEN 7」が85%オフの660円で販売中。</p><p>　詳細やすべてのセールタイトルは<a href="https://store.steampowered.com/sale/goldenweek" class="n" target="_blank">セールページ</a>を参照されたい。</p></div></div>]]></description>
@@ -117,6 +111,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1322624.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1322/624/01_o.jpg"></div></div><span class="caption">縦長画像の表示が見やすく</span></div></div></div></div><p>　<a href="https://twitter.com/" class="n" target="_blank">Twitter</a>は、iOS/Android版のTwitterアプリで、縦長で投稿された画像サムネイルをそのまま表示される仕様に変更した。</p><p>　従来は、下記のようにサムネイルのみ縮小された状態で表示されていたが、今回の仕様変更で3:4および2:1の縦長画像も縮小せずに表示することができるようになった。ただ、現時点ではWeb版の対応がまだようだ。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1322/624/02_o.jpg"></div></div><span class="caption">従来は縮小された状態で表示していた</span></div></div></div></div><p></p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">no bird too tall, no crop too short<br><br>introducing bigger and better images on iOS and Android, now available to everyone<a href="https://t.co/2buHfhfRAx">pic.twitter.com/2buHfhfRAx</a></p>— Twitter (@Twitter)<a href="https://twitter.com/Twitter/status/1390026628957417473?ref_src=twsrc%5Etfw">May 5, 2021</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><p></p><p>　ちなみに昨年(2020年)に、Twitterの縦画像の自動トリミングの仕様により、本来写真に表示されるべき著作権者名が、その画像をクリックしない限り表示されないため、リツイートをしたユーザーが著作権に違反するとし著作権者に訴えられる事件が発生した。今回の仕様変更は、こうした問題への一定の配慮だと思われる。</p></div></div>]]></description>
 			<pubDate>Thu, 06 May 2021 10:29:09 +0900</pubDate>
+		</item>
+		<item>
+			<title>Mac/iPhoneに任意コード実行の危険性。Appleがセキュリティアップデート </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1322638.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1322/638/01_o.png"></div></div></div></div></div></div><p>　<a href="https://www.apple.com/" class="n" target="_blank">Apple</a>は3日(現地時間)、macOSのセキュリティアップデートとして「macOS Big Sur 11.3.1」の配信を開始した。</p><p>　同11.3.1ではHTMLレンダリングエンジンのWebKitの不具合を修正。悪意のあるWebコンテンツを読み込んだ際に、メモリ破壊や整数オーバーフローによって任意のコードが実行される危険性があり、すでに被害が出ている可能性があるという。</p><p>　また、iOSやiPadOS向けの14.5.1も配信されており、同様の不具合を修正。対象となる機種は、iPhone 6s以降、iPad Proの全モデル、iPad Air 2以降、第5世代iPad以降、iPad mini 4以降、第7世代iPod touchとなっている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1322/638/02_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 06 May 2021 11:49:59 +0900</pubDate>
+		</item>
+		<item>
+			<title>数億台のデル製PCに特権昇格の脆弱性。パッチインストール必須 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1322651.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1322/651/01_o.jpg"></div></div></div></div></div></div><p>　セキュリティ企業の<a href="https://https//www.sentinelone.com/" class="n" target="_blank">SentinelOne</a>は、デルのデスクトップPC、ノートPC、タブレットに提供されているファームウェアアップデート用ユーティリティなどに、攻撃者が管理者以外のユーザーからカーネルモードの特権に昇格させることができる脆弱性があると発表した。</p><p>　SentinelOneはこの脆弱性が2009年から存在していると指摘しており、世界中の数億台のデバイスが対象となっているとする。デルはこの不具合について、ユーティリティなどに含まれるドライバ「dbutil_2_3.sys」を削除することで回避できるとしており、<a href="https://www.dell.com/support/home/drivers/driversdetails?driverid=7PR57" class="n" target="_blank">Dell Security Advisory Update</a>を使用してアップデートすることを推奨している。また、5月10日以降にリリースされる通知アプリからも実行できるようになるとしている。</p><p>　対象機種やドライバなどの詳細情報は<a href="https://www.dell.com/support/kbdoc/ja-jp/000186019/dsa-2021-088-dell-client-platform-security-update-for-dell-driver-insufficient-access-control-vulnerability" class="n" target="_blank">デルの公式サポートページ(英文)</a>を参照されたい。</p></div></div>]]></description>
+			<pubDate>Thu, 06 May 2021 12:00:27 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
