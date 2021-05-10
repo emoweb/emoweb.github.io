@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>TSUKUMO、Noctua製CPUクーラーとThreadripper 3970X搭載のワークステーション </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1322947.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1322/947/01.jpg"></div></div><span class="caption">WA9A-J211/WT</span></div></div></div></div><p>　株式会社Project Whiteは<a href="https://www.tsukumo.co.jp/" class="n" target="_blank">TSUKUMO</a>ブランドより、ワークステーション製品「WA9A-J211/WT」を発売した。価格は49万9,800円。</p><p>　WA9A-J211/WTは、CPUにRyzen Threadripper 3970X、CPUクーラーにNoctua製「NH-U14S TR4-SP3」を採用したワークステーション。前面に1基、背面に2基の140mmファンを標準で装備し、排熱性能も確保している。</p><p>　その他主な仕様は、32GBメモリ、GeForce GT1030、500GB M.2 NVMe SSD+2TB HDD、850W 80PLUS Gold電源、Windows 10 Proを搭載する。</p><p>　本体サイズは235×512×548mm(幅×奥行き×高さ)、重量は約17kg。</p></div></div>]]></description>
-			<pubDate>Fri, 07 May 2021 13:25:59 +0900</pubDate>
-		</item>
-		<item>
 			<title>ASUS、4K/30fps対応の小型キャプチャボックス </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1322952.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1322/952/01.jpg"></div></div><span class="caption">TUF GAMING CAPTURE BOX-CU4K30</span></div></div></div></div><p>　<a href="https://www.asus.com/jp/" class="n" target="_blank">ASUS JAPAN株式会社</a>は、4K/30fps対応のビデオキャプチャボックス「TUF GAMING CAPTURE BOX-CU4K30」を5月下旬に発売する。店頭予想価格は3万1,000円(税別)前後の見込み。</p><p>　HDMI 2.0ポートを備え、4K/60fps HDRのパススルーをサポート。USB 3.0 Type-Cポート経由で、4K/30fps映像をPCにオフロードすることで、スムーズなゲームプレイを可能とする。配信アプリOBSの認定も取得。</p><p>　筐体はアルミ製で放熱性が高いとし、サイズも105×80×21mm(幅×奥行き×高さ)とコンパクト。重量は173g。ライティング機能も備える。</p><p>　インターフェイスは、HDMI 2.0入力(最大4K/60fps HDR)、HDMI 2.0出力(パススルー)、USB 3.0 Type-C(最大録画解像度4K[2160p]/30fps)、USB 2.0(同720p/30fps)、音声入力(3.5mmジャック)を装備。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1323211.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1323/211/01_o.jpg"></div></div></div></div></div></div><p>　Windows 10のWindows Update経由で先週より配布されたAMDマザーボード向けドライバにおいて、インストール後にブルースクリーンが発生するといった不具合が多数のユーザーから寄せられている。</p><p>　問題となっているのは「Advanced Micro Devices, Inc. - SCSIAdapter - 9.3.0.221」というドライバで、インストール後に「INACCESSIBLE_BOOT_DEVICE(ブートデバイスにアクセス不能)」というエラーメッセージとともに、ブルースクリーンでシステムがクラッシュし、起動の度に同じ症状が発生して正常起動できずにループしてしまうという。</p><p>　ドライバ名からすると、現在ではまず利用されていないSCSIデバイス向けのようだが、<a href="https://answers.microsoft.com/en-us/insider/forum/all/inaccessible-boot-device-after-latest-insider/f7b9706f-0255-42a3-af57-ddcdce48d363?page=1" class="n" target="_blank">Microsoftのフォーラム</a>でこの不具合について投稿したユーザーによれば、AMD X570マザーボードの環境において、SCSIデバイスを使用していなくてもブルースクリーンで出てしまっていると報告している。</p><p>　今現在はWindows Updateからこのドライバの提供が止められているようだが、自動インストールされてしまったユーザーが多かったようで、被害が拡散してしまった模様だ。</p><p>　Microsoftからの公式告知はされていないようだが、OSの起動に失敗した場合などに実行される「Windows 回復環境」において、「トラブルシューティング→スタートアップ修復」から復旧できたというユーザーがおり、もし同じ不具合に遭っている場合は同様の方法で復旧を試みたい。</p></div></div>]]></description>
 			<pubDate>Mon, 10 May 2021 09:55:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>14型4Kの薄型軽量モバイルディスプレイ。タッチ操作にも対応 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1323233.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1323/233/01_o.jpg"></div></div><span class="caption">ULTIVISION U14RT-4K</span></div></div></div></div><p>　<a href="https://www.rutawa.com/" class="n" target="_blank">ルタワジャパン株式会社</a>は、タッチ操作対応で4K解像度の14型モバイルディスプレイ「ULTIVISION U14RT-4K」を5月下旬にAmazon.co.jpで販売する。価格は不明。</p><p>　本体の厚みが4mmと薄く、重量も550gと軽量なモバイルディスプレイとなっており、10点マルチタッチ操作をサポート。専用のスタンドカバーが付属し、保護カバーとしても機能する。</p><p>　現在製品ページにて、LINE友だちへの追加で最大25%オフになるキャンペーンを実施しており、先行販売情報を伝えるとしている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1323/233/02_o.jpg"></div></div></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1323/233/03_o.jpg"></div></div></div></div></div></div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1323/233/04_o.jpg"></div></div></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1323/233/05_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Mon, 10 May 2021 10:37:20 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
