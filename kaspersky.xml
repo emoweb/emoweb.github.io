@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>DarkSide Leaks：ランサムウェアはいかにして産業化しつつあるか | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/darkside-ransomware-industry/30492/</link>
-			<description><![CDATA[ランサムウェアを操るサイバー犯罪グループがプロフェッショナルな見た目のWebサイトを運営する理由とは？サイバー犯罪グループ「DarkSide」の活動は、ランサムウェアの産業化をよく示しています。]]></description>
-			<pubDate>Tue, 20 Apr 2021 01:00:01 +0000</pubDate>
-		</item>
-		<item>
 			<title>中小規模企業向けソリューションのEDR機能 | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/endpoint-cloud-edr/30487/</link>
 			<description><![CDATA[サイバー攻撃に対応するには、攻撃を把握して迅速に対応することが重要です。迅速な状況把握に役立つ、Kaspersky Endpoint Security Cloud PlusのEDR機能について。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/how-to-protect-from-smishing/30600/</link>
 			<description><![CDATA[スミッシングとは、SMSを使用したフィッシング詐欺のこと。一般的なフィッシングメールよりもスミッシングの方が危険な理由と、スミッシングの被害を防ぐ方法を解説します。]]></description>
 			<pubDate>Mon, 10 May 2021 01:00:56 +0000</pubDate>
+		</item>
+		<item>
+			<title>Googleドキュメントを通じてMicrosoft 365ユーザーを狙うフィッシング | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/office-365-phishing-via-gdocs/30649/</link>
+			<description><![CDATA[Microsoft 365（旧Office 365）のログイン情報を狙うフィッシング詐欺のトリック。]]></description>
+			<pubDate>Tue, 11 May 2021 01:00:28 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
