@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>マイニング機器を餌に仮想通貨を巻き上げる詐欺の手口 | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/cryptoscam-fake-antminer/30562/</link>
-			<description><![CDATA[品薄状態の暗号資産（仮想通貨）マイニング機器が手に入ると言って偽の販売ページに誘い込み、仮想通貨をだまし取る詐欺が発生しています。]]></description>
-			<pubDate>Mon, 26 Apr 2021 01:00:40 +0000</pubDate>
-		</item>
-		<item>
 			<title>Microsoft Officeのログイン情報を狙ったフィッシング | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/office-phishing-html-attachment/30581/</link>
 			<description><![CDATA[Microsoft Officeアカウントへのログイン情報を、サイバー犯罪者たちが狙っています。アカウントへのサインインを求めるメールを受け取ったときに注意すべきポイントをまとめました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/mandalorian-season-2-cybersecurity/30670/</link>
 			<description><![CDATA[『マンダロリアン』シーズン2に登場する帝国の基地や宇宙船におけるサイバーセキュリティ上の問題を考察。]]></description>
 			<pubDate>Thu, 13 May 2021 01:00:45 +0000</pubDate>
+		</item>
+		<item>
+			<title>DarkSideのランサムウェア攻撃を受けたColonial Pipeline、その対応 | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/pipeline-ransomware-mitigation/30681/</link>
+			<description><![CDATA[ランサムウェア攻撃を受けたColonial Pipeline社は、どのように被害を緩和し、データ流出を防いだのか。]]></description>
+			<pubDate>Fri, 14 May 2021 01:00:51 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
