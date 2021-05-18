@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>最も危険なランサムウェア：2021年トップ5 | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/top5-ransomware-groups/30592/</link>
-			<description><![CDATA[企業を標的に、データを暗号化し、身代金を要求する活動が最も活発なサイバー犯罪者グループについて。]]></description>
-			<pubDate>Wed, 28 Apr 2021 01:00:50 +0000</pubDate>
-		</item>
-		<item>
 			<title>公開状態のTrelloボードから漏れた情報 | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/trello-data-leaks/30605/</link>
 			<description><![CDATA[多数企業のTrelloのボードから情報が自由に手に入るようになっていることが明らかに。情報が漏れた原因と、Trelloのボードの公開範囲を適切に設定する方法を説明します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/qr-code-threats/30674/</link>
 			<description><![CDATA[QRコードは危険？コード読み取りの際に注意が必要な理由は、いくつかあります。]]></description>
 			<pubDate>Mon, 17 May 2021 01:00:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>アイルランドの医療サービス、ランサムウェア攻撃を受ける | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/irish-health-service-ransomware/30697/</link>
+			<description><![CDATA[アイルランドの医療サービス（Health Service Executive）は、「非常に高度な」ランサムウェア攻撃を受け、サーバーの停止を余儀なくされました。]]></description>
+			<pubDate>Tue, 18 May 2021 01:00:59 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
