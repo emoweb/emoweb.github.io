@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>シャープ、ドライアイス代わりに使える「適温蓄冷材」。液晶技術応用 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1326451.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1326/451/1_o.jpg"></div></div><span class="caption">新開発の適温蓄冷材</span></div></div></div></div><p>　<a href="https://jp.sharp/" class="n" target="_blank">シャープ</a>は、液晶材料の研究で培った技術をベースに、冷凍輸送時の蓄冷剤として活用できる融点-22℃の「適温蓄冷材」を開発したと発表した。ドライアイスの代替品としての活用が見込まれる。</p><p>　これはシャープ社内のベンチャー「TEKION LAB」が開発したもので、-25℃の環境下で凍り始める融点が-22℃の材料。水が主成分でありながら、-24℃～+28℃の間の特定温度を一定時間保てる。このため、冷凍食材の保冷に適した-20℃付近での利用に好適としている。</p><p>　これまで例と食品向け蓄冷材のほとんどは、使用前に-40℃の専用凍結庫内で凍結させる必要があったため、多くの電力エネルギーを消費していたが、新しい蓄冷材は-30℃で凍結でき、凍結させるためにかかる時間を約40%以上短縮でき、この問題を解決できる。</p><p>　ドライアイスは、液化炭素ガスの付属により、夏場を中心に品薄が続いているほか、温室効果ガス排出削減への機運の高まりもあって、代替となる蓄冷材が求められており、新しい適温蓄冷材の活用が期待される。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1326/451/2.jpg"></div></div></div></div></div></div></div></div>]]></description>
-			<pubDate>Mon, 24 May 2021 11:41:36 +0900</pubDate>
-		</item>
-		<item>
 			<title>MSI、可動域の広いアームレスト採用のゲーミングチェア </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1326473.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1326/473/01_o.jpg"></div></div><span class="caption">MAG CH120 I</span></div></div></div></div><p>　<a href="https://jp.msi.com/" class="n" target="_blank">エムエスアイコンピュータージャパン株式会社</a>は、ゲーミングチェア「MAG CH120 I」を発売した。店頭価格は3万6,800円前後。</p><p>　MAG CH120 Iは、高低/前後/左右の位置、および左右の角度調整が可能な4Dアジャスタブルアームレストを備えたゲーミングチェア。EVAフォーム製のクッションやPVCレザー素材を採用するほか、ロック機能付きのキャスターを装備し、180度までのリクライニングにも対応する。</p><p>　本体サイズは680×660×1,225～1,300mm(幅×奥行き×高さ)、重量は20.2kg。耐荷重は150kgまで。</p></div></div>]]></description>
@@ -117,6 +111,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1326769.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1326/769/01_o.jpg"></div></div><span class="caption">macOS Big Sur 11.4</span></div></div></div></div><p>　<a href="https://www.apple.com/jp/" class="n" target="_blank">Apple</a>は24日、多数の脆弱性修正やPodcast機能強化などを含むmacOSの最新版「macOS Big Sur 11.4」を公開した。</p><p>　本バージョンでは、App Storeにおいて悪意あるアプリケーションがサンドボックスを突破できる問題(CVE-2021-30688)や、ソフトウェアアップデート中にログイン画面をバイパスできてしまう問題(CVE-2021-30668)、悪意あるWebコンテンツによってクロスサイトスクリプティングが実行が可能となるWebKitの問題(CVE-2021-30744ほか)など、多くの脆弱性を修正した。</p><p>　機能面では、Apple Podcastアプリにおいて、月間/年間購読による課金機能が利用可能となった。加えて、Safariのブックマークの並び順が変わったり、非表示フォルダに移動してしまう問題や、スリープから復旧した際に一部のWebサイトが正常に表示できない不具合などを修正している。</p><p>　そのほか、macOS Catalina向けにセキュリティアップデート2021-003、Mojave向けにセキュリティアップデート2021-004の提供も同日より開始している。</p></div></div>]]></description>
 			<pubDate>Tue, 25 May 2021 13:08:18 +0900</pubDate>
+		</item>
+		<item>
+			<title>ルート権限奪取の脆弱性修正などiOS/iPadOS 14.6公開 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1326823.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1326/823/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.apple.com/jp/" class="n" target="_blank">Apple</a>は24日、機能強化や脆弱性修正などを実施するiPhone向け「iOS 14.6」およびiPad向け「iPadOS 14.6」を公開した。</p><p>　どちらも共通のセキュリティアップデートを内包しており、悪意ある音声ファイルによって任意コード実行やユーザー情報の漏洩が可能な問題(CVE-2021-30707およびCVE-2021-30685)や、悪意あるアプリケーションによってルート権限を入手できてしまう問題(CVE-2021-30681)、WebKit関連の各種問題(CVE-2021-30744ほか)など、多数の脆弱性を修正している。</p><p>　また機能強化として、AirTagおよびFind My機能対応アクセサリを紛失した際に、電話番号の代わりにメールアドレスを表示できるオプションを追加。また、Podcastサブスクリプション機能の有効化や音声コントロールのアクセシビリティ機能に関する改善なども行なっている。</p><p>　そのほかiPhoneでは、特定の条件においてApple WatchでiPhoneをうまくロック解除できない不具合などを修正。さらにiPadと共通のものとして、リマインダーが空白で表示される不具合なども修正している。</p></div></div>]]></description>
+			<pubDate>Tue, 25 May 2021 14:50:24 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
