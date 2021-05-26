@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>App Storeなど多数の脆弱性を修正したmacOS Big Sur 11.4公開 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1326769.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1326/769/01_o.jpg"></div></div><span class="caption">macOS Big Sur 11.4</span></div></div></div></div><p>　<a href="https://www.apple.com/jp/" class="n" target="_blank">Apple</a>は24日、多数の脆弱性修正やPodcast機能強化などを含むmacOSの最新版「macOS Big Sur 11.4」を公開した。</p><p>　本バージョンでは、App Storeにおいて悪意あるアプリケーションがサンドボックスを突破できる問題(CVE-2021-30688)や、ソフトウェアアップデート中にログイン画面をバイパスできてしまう問題(CVE-2021-30668)、悪意あるWebコンテンツによってクロスサイトスクリプティングが実行が可能となるWebKitの問題(CVE-2021-30744ほか)など、多くの脆弱性を修正した。</p><p>　機能面では、Apple Podcastアプリにおいて、月間/年間購読による課金機能が利用可能となった。加えて、Safariのブックマークの並び順が変わったり、非表示フォルダに移動してしまう問題や、スリープから復旧した際に一部のWebサイトが正常に表示できない不具合などを修正している。</p><p>　そのほか、macOS Catalina向けにセキュリティアップデート2021-003、Mojave向けにセキュリティアップデート2021-004の提供も同日より開始している。</p></div></div>]]></description>
-			<pubDate>Tue, 25 May 2021 13:08:18 +0900</pubDate>
-		</item>
-		<item>
-			<title>ルート権限奪取の脆弱性修正などiOS/iPadOS 14.6公開 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1326823.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1326/823/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.apple.com/jp/" class="n" target="_blank">Apple</a>は24日、機能強化や脆弱性修正などを実施するiPhone向け「iOS 14.6」およびiPad向け「iPadOS 14.6」を公開した。</p><p>　どちらも共通のセキュリティアップデートを内包しており、悪意ある音声ファイルによって任意コード実行やユーザー情報の漏洩が可能な問題(CVE-2021-30707およびCVE-2021-30685)や、悪意あるアプリケーションによってルート権限を入手できてしまう問題(CVE-2021-30681)、WebKit関連の各種問題(CVE-2021-30744ほか)など、多数の脆弱性を修正している。</p><p>　また機能強化として、AirTagおよびFind My機能対応アクセサリを紛失した際に、電話番号の代わりにメールアドレスを表示できるオプションを追加。また、Podcastサブスクリプション機能の有効化や音声コントロールのアクセシビリティ機能に関する改善なども行なっている。</p><p>　そのほかiPhoneでは、特定の条件においてApple WatchでiPhoneをうまくロック解除できない不具合などを修正。さらにiPadと共通のものとして、リマインダーが空白で表示される不具合なども修正している。</p></div></div>]]></description>
-			<pubDate>Tue, 25 May 2021 14:50:24 +0900</pubDate>
-		</item>
-		<item>
 			<title>OPPO、10億色撮影が可能な5Gスマホ「Find X3 Pro」 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1326836.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1326/836/1.jpg"></div></div><span class="caption">Find X3 Pro</span></div></div></div></div><p>　<a href="https://www.oppo.com/jp/" class="n" target="_blank">OPPO</a>は、世界で初めて10億色の撮影/保存/表示が可能な5G対応SIMロックフリースマートフォン「Find X3 Pro」を7月中旬に発売する。価格は11万8,000円。また、ミドルレンジ向けの「Reno5 A」を6月11日、「OPPO A54 5G」を6月下旬に発売する。価格はそれぞれ4万3,800円、3万1,800円。</p></div><div><h2 class="hdg-03"><span>Find X3 Pro</span></h2><p>　Find X3 ProはOPPO Findシリーズ10周年の軌跡を踏襲した1つの完成形としており、10bitフルパスカラーにより10億色の撮影と表示が可能。広角と超広角カメラには、ソニーと共同開発したIMX766センサーを採用している。業界初となる60倍の顕微鏡モードも備えた。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1326/836/4.jpg"></div></div></div></div></div></div><p>　ディスプレイは3,216×1,440ドット/10bit/120Hz表示対応の約6.7型有機EL。10分で約40%充電が可能な「65W SuperVOOCフラッシュチャージ」機能も搭載する。OSにはColorOS 11を採用し、アラームや通知音などはHans Zimmer氏と共同開発した。</p><p>　そのほかの仕様は、SoCがSnapdragon 888、メモリが12GB、ストレージが256GB。IP6XおよびIPX8の防水防塵機能を備える。インターフェイスはUSB Type-C、Wi-Fi 6、Bluetooth 5.2など。センサーは磁気/近接/光/加速度/ジャイロ/色温度/指紋。前面カメラは3,200万画素。</p><p>　対応バンドは、5G NRがn1/n3/n5/n7/n8/n20/n28/n38/n40/n41/n77/n78/n79、4Gが1/2/3/4/5/7/8/12/13/17/18/19/20/25/26/28/32/34/38/39/40/41/66、3Gが1/2/4/5/6/8/19、2Gが850/900/1,800/1,900MHz。</p><p>　本体サイズは約74×163.6×8.26mm(幅×奥行き×高さ)、重量は約193g。</p></div><div><h2 class="hdg-03"><span>Reno5 A</span></h2><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1326/836/2.jpg"></div></div><span class="caption">Reno5 A</span></div></div></div></div><p>　Reno5 Aは人気シリーズ5G対応モデルで、防水/防塵/おサイフケータイといった機能を備えたのが特徴。</p><p>　SoCはSnapdragon 765G、メモリは6GB、ストレージは128GB、ディスプレイはDCI-P3色域100%/2,400×1,080ドット/90Hz対応の6.5型、OSはColorOS 11などとなっている。</p><p>　背面カメラはメインが6,400万画素、超広角が800万画素、モノクロが200万画素、マクロが200万画素、前面カメラは1,600万画素。</p><p>　本体サイズは約74.6×162×8.2mm(同)、重量は約182g。</p></div><div><h2 class="hdg-03"><span>A54 5G</span></h2><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1326/836/3.jpg"></div></div><span class="caption">A54 5G</span></div></div></div></div><p>　A54 5Gは3万円台ながらn3/n28/n77/n78の5Gに対応したモデル。SoCはSnapdragon 480 5G、メモリは4GB、ストレージは64GB、ディスプレイは2,400×1,080ドット表示対応6.5型、OSはColorOS 11。</p><p>　背面カメラはメインが4,800万画素、超広角が800万画素、モノクロが200万画素、マクロが200万画素、前面カメラは1,600万画素。</p><p>　本体サイズは74.7×162.9×8.4mm(同)、重量は約190g。</p></div></div>]]></description>
@@ -117,6 +105,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1327089.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1327/089/1.jpg"></div></div></div></div></div></div><p>　Googleは25日(現地時間)、Webブラウザ「Chrome 91.0.4472.77」を配信開始した。Windows/Mac/Linux向けのデスクトップ版は今後数週間かけて更新される。Android版はGoogle Playを通してアップデートを提供する。</p><p>　デスクトップ版では、オートフィルの際のヒープバッファオーバーフローや、複数のUse after freeの脆弱性といった、合計32個のセキュリティ問題を修正している。</p><p>　Chrome 91で新たに実装される機能などについては、間もなくChromeならびにChromiumのブログにて紹介するとしている。</p></div></div>]]></description>
 			<pubDate>Wed, 26 May 2021 12:57:21 +0900</pubDate>
+		</item>
+		<item>
+			<title>Windows 10でFLACが破損して再生できなくなる不具合 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1327099.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1327/099/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は、Windows 10のエクスプローラ上でFLACファイルのメタデータを編集したさいに、一部のファイルが再生できなくなる不具合を報告している。</p><p>　FLAC Property Handlerの挙動による不具合で、曲名やアーティスト名などのメタデータをエクスプローラ上で編集すると、一部のファイルが再生できなくなってしまうもの。ファイルの冒頭部分が「fLaC」の4バイトから始まらず、ID3フレームが書き込まれている場合を想定していなかったため、編集時にID3フレーム部分を上書きしてしまうという。</p><p>　同社では、この問題に対応するパッチ(KB5003214プレビュー)を25日に提供開始。さらに、破損したFLACファイルを修復するPowerShellスクリプトもあわせて公開している。</p></div></div>]]></description>
+			<pubDate>Wed, 26 May 2021 13:22:06 +0900</pubDate>
+		</item>
+		<item>
+			<title>USB Type-Cの給電能力を240Wに引き上げる「USB PD EPR」 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1327105.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1327/105/1.jpg"></div></div><span class="caption">USB Type-Cケーブル/コネクタ仕様リビジョン2.1の中で示唆された48Vモード</span></div></div></div></div><p>　USB-IFは5月25日(現地時間)、USB Type-Cの規格においてケーブルとコネクタに関する仕様のリビジョンを2.1にアップデートし、この中で新たに48Vの電圧を追加した。これによりUSB Type-Cで供給できる電力が100Wから240Wに引き上げられる。</p><p>　現在のUSB Type-CおよびUSB PDの規格では、20V/5A、つまり100Wの給電が上限となっているが、今回のコネクタの仕様書では、新たに電圧を48Vまで引き上げられることが示唆されている。</p><p>　対応には電気的に50Vまで耐えられる「USB PD Extended Power Range(EPR)」仕様に準拠する必要があり、ケーブルにはEPRモードと互換性があることを示すビットが立てられる電気的マーカー(いわゆるeMaker)を内蔵する必要がある。</p><p>　現在、(USB PDを使わない)普通のACアダプタを使うノートPCでも、電圧は20V前後で電流量を増やす方向性のものが多いため、48Vへの対応は時間がかかりそうではあるが、実現すれば、現在の仕様では対応が難しいゲーミングノートにおいても、USB Type-Cケーブル1本で給電できる時代がやってくる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1327/105/2_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Wed, 26 May 2021 13:26:56 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
