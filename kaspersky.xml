@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Googleドキュメントを通じてMicrosoft 365ユーザーを狙うフィッシング | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/office-365-phishing-via-gdocs/30649/</link>
-			<description><![CDATA[Microsoft 365（旧Office 365）のログイン情報を狙うフィッシング詐欺のトリック。]]></description>
-			<pubDate>Tue, 11 May 2021 01:00:28 +0000</pubDate>
-		</item>
-		<item>
 			<title>医療機関に対するランサムウェア攻撃 | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/ransomware-vs-healthcare/30659/</link>
 			<description><![CDATA[医療機関などを標的とするランサムウェア攻撃を回避する方法について解説します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/cring-ransomware-attack-via-vpn-servers/30790/</link>
 			<description><![CDATA[Fortinet のVPNアプライアンス「FortiGate」の脆弱性を通じた、ランサムウェア「Cring」の攻撃。SSL-VPN機器の脆弱性を悪用する攻撃は、日本でも見られています。]]></description>
 			<pubDate>Tue, 25 May 2021 04:45:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>速やかにアップデートすべき5つのもの | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/5-things-that-you-must-update-asap/30699/</link>
+			<description><![CDATA[オペレーティングシステムやブラウザー、アンチウイルスソフトウェア、そしてオフィス生産性ソフトウェアと金融ソフトウェアのアップデートが必要な理由を説明します。]]></description>
+			<pubDate>Wed, 26 May 2021 01:00:44 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
