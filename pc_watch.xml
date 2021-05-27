@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>GIGABYTE、Core i7-11800HとGeForce RTX 3080を搭載したゲーミングノート </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1327074.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1327/074/1_o.jpg"></div></div><span class="caption">AORUS 15P YD-73JP224SH</span></div></div></div></div><p>　<a href="https://www.gigabyte.com/jp/" class="n" target="_blank">GIGABYTE</a>は、CPUに第11世代Core i7-11800H、GPUにGeForce RTX 3080を搭載したゲーミングノート「AORUS 15P YD-73JP224SH」を29日に発売する。価格はオープンプライスで、店頭予想価格は36万7,000円前後の見込み。</p><p>　最新世代のCPU/GPUを搭載した高性能モデル。2基のファンと5本のヒートパイプを組み合わせた「WINDFORCE Infinity」を採用し、GPUの最大消費電力を130Wまで高められ、性能を最大限に引き出せるとしている。</p><p>　ディスプレイはリフレッシュレート240Hzの狭額縁フルHD IPS液晶を採用。sRGB 100%、NTSC 72%の広色域を実現。また、Realtek RTL8125-BGを採用した2.5Gigabit Ethernetを搭載する。筐体デザインはスポーツカーの意匠を取り入れ、スタイリッシュさと堅牢性を両立させた。</p><p>　主な仕様は、CPUにCore i7-11800H、メモリ16GB、ストレージに1TB NVMe SSD、GPUにGeForce RTX 3080(8GB)、1,920×1,080ドット表示対応15.6型IPS液晶ディスプレイ、OSにWindows 10 Homeなどを搭載。</p><p>　インターフェイスは、Thunderbolt 4、USB 3.0、HDMI出力、Mini DisplayPort、UHS-II対応SDカードリーダ、2.5Gigabit Ethernet、Wi-FI 6、Bluetooth 5.2、HD対応Webカメラ、音声入出力などを備える。</p><p>　本体サイズは357×244×27mm(幅×奥行き×高さ)、重量は2.2kg。</p></div></div>]]></description>
-			<pubDate>Wed, 26 May 2021 12:35:05 +0900</pubDate>
-		</item>
-		<item>
-			<title>Google、「Chrome 91」を配信開始。32個のセキュリティホール修正など </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1327089.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1327/089/1.jpg"></div></div></div></div></div></div><p>　Googleは25日(現地時間)、Webブラウザ「Chrome 91.0.4472.77」を配信開始した。Windows/Mac/Linux向けのデスクトップ版は今後数週間かけて更新される。Android版はGoogle Playを通してアップデートを提供する。</p><p>　デスクトップ版では、オートフィルの際のヒープバッファオーバーフローや、複数のUse after freeの脆弱性といった、合計32個のセキュリティ問題を修正している。</p><p>　Chrome 91で新たに実装される機能などについては、間もなくChromeならびにChromiumのブログにて紹介するとしている。</p></div></div>]]></description>
-			<pubDate>Wed, 26 May 2021 12:57:21 +0900</pubDate>
-		</item>
-		<item>
 			<title>Windows 10でFLACが破損して再生できなくなる不具合 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1327099.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1327/099/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は、Windows 10のエクスプローラ上でFLACファイルのメタデータを編集したさいに、一部のファイルが再生できなくなる不具合を報告している。</p><p>　FLAC Property Handlerの挙動による不具合で、曲名やアーティスト名などのメタデータをエクスプローラ上で編集すると、一部のファイルが再生できなくなってしまうもの。ファイルの冒頭部分が「fLaC」の4バイトから始まらず、ID3フレームが書き込まれている場合を想定していなかったため、編集時にID3フレーム部分を上書きしてしまうという。</p><p>　同社では、この問題に対応するパッチ(KB5003214プレビュー)を25日に提供開始。さらに、破損したFLACファイルを修復するPowerShellスクリプトもあわせて公開している。</p></div></div>]]></description>
@@ -117,6 +105,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1327210.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1327/210/01_o.jpg"></div></div><span class="caption">Majestouch Convertible 2 HAKUA(フルサイズ)</span></div></div></div></div><p>　<a href="https://www.diatec.co.jp/" class="n" target="_blank">ダイヤテック株式会社</a>はFILCOブランドより、有線およびBluetooth 3.0接続が可能なメカニカルキーボード「Majestouch Convertible 2 HAKUA」の英語配列モデルを直販サイトにて発売した。数量限定での取り扱いとなり、価格はフルサイズモデルが1万7,800円、テンキーレスモデルが1万6,800円。</p><p>　Majestouch Convertible 2 HAKUAは、同社のメカニカルキーボード「Majestouch Convertible 2」にマットホワイトのカラーリングを施したモデルとなる。FR-4の2層基板を採用するなど、打鍵感や耐久性、信頼性の向上を図っている。</p><p>　キースイッチはCherry MXで、キー軸はフルサイズモデルでは茶軸/赤軸/青軸、テンキーレスモデルでは茶軸/赤軸/静音赤軸/青軸を用意。また、キーキャップの手前側に印字を施したNINJA仕様を選択できる点も特徴となっている。</p><p>　本体サイズ/重量は、フルサイズの場合440×138×38.5～49.5(幅×奥行き×高さ)/1.2kg、テンキーレスの場合359×137×38.5～49.5mm(同)/980g。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1327/210/02_o.jpg"></div></div><span class="caption">Majestouch Convertible 2 HAKUA(テンキーレス/NINJA仕様)</span></div></div></div></div></div></div>]]></description>
 			<pubDate>Thu, 27 May 2021 10:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>NVIDIA、6月1日午後2時にGeForce新製品発表か </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1327319.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1327/319/1_o.jpg"></div></div></div></div></div></div><p>　NVIDIAは、GeForce公式Twitterにおいて、日本時間の6月1日午後2時(米国太平洋標準時夏時間22時)より、YouTubeおよびTwitchでストリーミング配信を行なうと予告した。</p><p>　ティザー動画は液体金属が金属と思われる結晶の間を流れるというシンプルなもので、内容について触れられていない。</p><p>　この時間はオンラインでCOMPUTEX 2021が開催されており、NVIDIAエグゼクティブによる基調講演が公開される。講演者としてGeForce部門シニアバイスプレジデントのJeff Fisher氏が登場予定となっており、GeForceに関する何らかの発表があると期待される。</p><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">6月1日(火) 2:00 PM<br>準備はいいか？<a href="https://t.co/hAY1nkwkKl">pic.twitter.com/hAY1nkwkKl</a></p>— NVIDIA GeForce JP (@NVIDIAGeForceJP)<a href="https://twitter.com/NVIDIAGeForceJP/status/1397689080532582402?ref_src=twsrc%5Etfw">May 26, 2021</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div>]]></description>
+			<pubDate>Thu, 27 May 2021 10:16:29 +0900</pubDate>
+		</item>
+		<item>
+			<title>Phison、世界最速のPCIe 4.0対応SSDコントローラ。Chiaマイニング向けSSD長寿命化技術も </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1327321.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1327/321/1_o.jpg"></div></div><span class="caption">PS5018-E18。176層NANDと組み合わせることでシーケンシャルリード7,488MB/s、同ライト7,081MB/sを達成</span></div></div></div></div><p>　Phisonは26日(台湾時間)、世界最速を謳うシーケンシャルリード7,488MB/s、同ライト7,081MB/sのPCI Express 4.0対応SSDコントローラ「PS5018-E18」を発表した。</p><p>　これは176層NANDと組み合わせて実現した数字であり、従来の96層NAND採用品と比較して35%高速化を図ったとしている。</p><p>　このほか、eスポーツ向けスマートフォンに適したPCI Express 4.0 x2対応のBGAチップ型SSD「PS5021-E21T BGA SSD」、メインストリーム向けPCI Express 4.0対応SSD「PS5021-E21T M.2 2280」などをCOMPUTEXで展示予定。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1327/321/2_o.png"></div></div><span class="caption">PS5021-E21T BGA SSD。シーケンシャルリード3,400MB/s、同ライト2,700MB/s、ランダムリード45万IOPS、同ライト25万IOS</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1327/321/3_o.png"></div></div><span class="caption">PS5021-E21T M.2 2280。シーケンシャルリード5,000MB/s、同ライト4,500MB/s、ランダムリード78万IOPS、同ライト80万IOPS</span></div></div></div></div><p>　さらに、UFS 3.1制御チップの拡張バージョン「PS8318」と、超低消費電力のeMMC制御チップ「PS8232」を発売。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1327/321/4_o.png"></div></div><span class="caption">PS8318。従来品と比較してランダムリードとランダムライトを高速化</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1327/321/5_o.png"></div></div><span class="caption">PS8232。リード300MB/s、ライト200MB/sとされている</span></div></div></div></div><p>　加えて、最近台頭してきた仮想通貨Chiaの分野でも、プロット様に特別設計されたSSDソリューション「XPlot」を展開し、独自の「LifeXtension」技術によりSSDの耐用年数を最大18倍まで延長させるとしている。</p></div></div>]]></description>
+			<pubDate>Thu, 27 May 2021 10:47:30 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
