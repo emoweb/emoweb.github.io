@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>ザイン、4K/AF対応の1,300万画素小型UVCカメラキット </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1328292.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1328/292/01.jpg"></div></div><span class="caption">THSCU101</span></div></div></div></div><p>　<a href="https://www.thine.co.jp/" class="n" target="_blank">ザインエレクトロニクス</a>は、高速なオートフォーカスを実現する「位相差検出オートフォーカス(PDAF)」を搭載したIoT機器向けUVCカメラ「THSCU101」を発売した。直販価格は2万7,927円。</p><p>　同社独自の1,300万画素対応高速画像処理LSI「THP7312」を搭載し、カメラ開発キット(CDK:Camera Development Kit)を用いることで、1,300万画素の4K画質に対応したカメラキットで、リモート下のモニタリングやAR端末などのIoT機器への組み込みに最適化されている。</p><p>　PDAFを活用し、セルフレジや物流拠点でのバーコードリーダとしての活用もできるとしている。また、カメラの個体ごとの色味を調整する「個体差調整機能」も搭載し、個体差をなくした仕様とした。</p><p>　電源はUSBバスパワーで、基板サイズは35×36×1.2mm(幅×奥行き×高さ)。</p></div></div>]]></description>
-			<pubDate>Mon, 31 May 2021 20:12:50 +0900</pubDate>
-		</item>
-		<item>
 			<title>【本日のできるネット】【Googleデータポータル】ダッシュボードの快適性が向上！「データの抽出」で集計処理を高速化する ほか </title>
 			<link>https://pc.watch.impress.co.jp/docs/column/dekirunet/1328295.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1328/295/01_o.jpg"></div></div></div></div></div></div><blockquote><p>　Googleデータポータル（データスタジオ）で扱うデータ量が肥大化すると、グラフなどの表示・更新が遅くなり、重いダッシュボードになっていきます。「データの抽出」機能を利用すれば、中間データ（キャッシュ）を生成することでダッシュボードの高速化が可能です。</p><p class="src">できるネットの<a href="https://dekiru.net/article/21953/">【Googleデータポータル】ダッシュボードの快適性が向上！「データの抽出」で集計処理を高速化する</a></p></blockquote><hr class="line-01"><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1328/295/02_o.jpg"></div></div></div></div></div></div><blockquote><p>　グループの連絡先をドラッグすることで、グループ全員に送るメールを作成できます。あて先入力の手間は省けますが、グループ自体を間違えていないか、確認してから送信しましょう</p><p class="src">できるネットの<a href="https://dekiru.net/article/20790/">Outlookでグループあてにメールを送る方法</a></p></blockquote><hr class="line-01"><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1328/295/03_o.jpg"></div></div></div></div></div></div><blockquote><p>　Outlookを利用している同士であれば、自分が持っている連絡先の情報をメールで送信できます。連絡先の相手にも伝えたうえで共有しましょう。</p><p class="src">できるネットの<a href="https://dekiru.net/article/20791/">Outlookで連絡先の情報を知人に送る方法</a></p></blockquote></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1328451.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1328/451/01.jpg"></div></div><span class="caption">ATOK for Mac</span></div></div></div></div><p>　<a href="https://www.justsystems.com/" class="n" target="_blank">株式会社ジャストシステム</a>は、Apple Silicon Macにネイティブ対応した「ATOK for Mac(Tech Ver.32.1)」の提供を開始した。ATOK Passport利用者は本日6月1日より利用できる。</p><p>　本バージョンでは、従来のIntel Macに加えてApple Silicon Mac(M1 Mac)を正式にサポート。後者については、これまではRosetta 2での動作となっていた。対応OSはmacOS Mojave、Catalina、Big Surとなる。</p><p>　ATOK Passportは、最新のATOKをWindows、MacおよびAndroidデバイスで利用できる月額制のサービス。設定などのクラウド同期機能も用意している。最大10台までインストールが可能で、月額はベーシックの場合330円、プレミアムの場合550円。</p></div></div>]]></description>
 			<pubDate>Tue, 01 Jun 2021 14:29:48 +0900</pubDate>
+		</item>
+		<item>
+			<title>トレンドマイクロ、Macを狙うマルウェア「XCSSET」がM1にも対応と報告 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1328481.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1328/481/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.trendmicro.com/" class="n" target="_blank">トレンドマイクロ株式会社</a>は、Macを標的としたマルウェア「XCSSET」について、新たな調査報告を公開している。</p><p>　XCSSETは、2020年に発見されたXcodeのプロジェクト経由で感染を拡大するのが特徴のマルウェア。新たな調査の結果、x86_64アーキテクチャだけでなく、Arm64アーキテクチャでも動作するよう変更が加えられ、Intel/M1の両Macに対応していることが分かった。</p><p>　不正活動では、SafariなどWebブラウザの開発版を利用し、C&amp;C(Command&amp;Control)サーバーから悪意あるフレームワークやJavaScriptバックドアを読み込む。この点についても変更が加えられており、サーバー内に新たにmacOS Big Surに対応するためにSafari 14のパッケージが追加されているという。そのほか、偽装アイコンの形状がOSバージョンにあわせて変わるといった変更も行なわれているという。</p><p>　同社では、アプリをダウンロードするさいには、正規のマーケットを利用するよう促している。</p></div></div>]]></description>
+			<pubDate>Tue, 01 Jun 2021 15:37:09 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
