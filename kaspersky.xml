@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>アイルランドの医療サービス、ランサムウェア攻撃を受ける | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/irish-health-service-ransomware/30697/</link>
-			<description><![CDATA[アイルランドの医療サービス（Health Service Executive）は、「非常に高度な」ランサムウェア攻撃を受け、サーバーの停止を余儀なくされました。]]></description>
-			<pubDate>Tue, 18 May 2021 01:00:59 +0000</pubDate>
-		</item>
-		<item>
 			<title>Androidで通知を設定する方法 | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/annoying-notifications-android/30710/</link>
 			<description><![CDATA[通知が来ると、せっかくの集中がそがれたりするもの。Androidのタブレットやスマートフォンで不要な通知をオフにする方法を説明します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/rsa2021-tv-remote-listening-device/30815/</link>
 			<description><![CDATA[RSA Conference 2021にて、テレビのリモコンをハッキングして盗聴器に変えることが可能だという研究結果が発表されました。]]></description>
 			<pubDate>Tue, 01 Jun 2021 01:00:39 +0000</pubDate>
+		</item>
+		<item>
+			<title>ArtStationでフリーランサーを狙う詐欺の手口 | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/artstation-job-scam/30758/</link>
+			<description><![CDATA[ArtStationを利用するフリーランスのアーティストが、詐欺の被害を受けています。詐欺は複数の段階を経て仕事の勧誘から面接へ進み、最終的にかなりの金額を失うことになりかねません。]]></description>
+			<pubDate>Wed, 02 Jun 2021 01:00:09 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
