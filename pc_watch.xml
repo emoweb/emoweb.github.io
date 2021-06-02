@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>ジャストシステム、M1 Macネイティブ対応版ATOK提供開始 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1328451.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1328/451/01.jpg"></div></div><span class="caption">ATOK for Mac</span></div></div></div></div><p>　<a href="https://www.justsystems.com/" class="n" target="_blank">株式会社ジャストシステム</a>は、Apple Silicon Macにネイティブ対応した「ATOK for Mac(Tech Ver.32.1)」の提供を開始した。ATOK Passport利用者は本日6月1日より利用できる。</p><p>　本バージョンでは、従来のIntel Macに加えてApple Silicon Mac(M1 Mac)を正式にサポート。後者については、これまではRosetta 2での動作となっていた。対応OSはmacOS Mojave、Catalina、Big Surとなる。</p><p>　ATOK Passportは、最新のATOKをWindows、MacおよびAndroidデバイスで利用できる月額制のサービス。設定などのクラウド同期機能も用意している。最大10台までインストールが可能で、月額はベーシックの場合330円、プレミアムの場合550円。</p></div></div>]]></description>
-			<pubDate>Tue, 01 Jun 2021 14:29:48 +0900</pubDate>
-		</item>
-		<item>
 			<title>トレンドマイクロ、Macを狙うマルウェア「XCSSET」がM1にも対応と報告 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1328481.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1328/481/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.trendmicro.com/" class="n" target="_blank">トレンドマイクロ株式会社</a>は、Macを標的としたマルウェア「XCSSET」について、新たな調査報告を公開している。</p><p>　XCSSETは、2020年に発見されたXcodeのプロジェクト経由で感染を拡大するのが特徴のマルウェア。新たな調査の結果、x86_64アーキテクチャだけでなく、Arm64アーキテクチャでも動作するよう変更が加えられ、Intel/M1の両Macに対応していることが分かった。</p><p>　不正活動では、SafariなどWebブラウザの開発版を利用し、C&amp;C(Command&amp;Control)サーバーから悪意あるフレームワークやJavaScriptバックドアを読み込む。この点についても変更が加えられており、サーバー内に新たにmacOS Big Surに対応するためにSafari 14のパッケージが追加されているという。そのほか、偽装アイコンの形状がOSバージョンにあわせて変わるといった変更も行なわれているという。</p><p>　同社では、アプリをダウンロードするさいには、正規のマーケットを利用するよう促している。</p></div></div>]]></description>
@@ -117,6 +111,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1328701.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1328/701/6.jpg"></div></div><span class="caption">BD-XD08BK MISTY BLACK</span></div></div></div></div><p>　<a href="https://jpn.pioneer/ja/" class="n" target="_blank">パイオニア株式会社</a>は、MISTY BLACK、SNOW WHITE SILVER、SUNSET GOLDという3色のカラーバリエーションを用意したポータブルBDドライブ「BD-XD08」シリーズを6月中旬に発売する。価格はオープンプライス。</p><p>　スペースが限られている机の上でもディスクを取り出しやすいクラムシェルデザインを採用。リバーシブル接続可能なUSB 3.0 Type-Cコネクタを採用するほか、L字型のケーブルを付属することで設置スペースを最小化させている。</p><p>　また、ホスト側もUSB Type-Cに変換可能で、Androidスマートフォンで音楽CDの取り込み/再生に対応(別売りのACアダプタDCA-003で給電可能)。読み取り精度を高める機能「PureRead3+」を搭載する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1328/701/2.jpg"></div></div><span class="caption">BD-XD08SV SNOW WHITE SILVER</span></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1328/701/3.jpg"></div></div><span class="caption">BD-XD08GL SUNSET GOLD</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1328/701/4.jpg"></div></div><span class="caption">クラムシェル形状を採用</span></div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1328/701/5.jpg"></div></div><span class="caption">USB Type-CとL字コネクタで設置スペースを最小化</span></div></div></div></div><p>　このほか、ディスクの回転数を抑えるアイドル状態、または回転を止めるスタンバイ状態への移行時間を変更できる「カスタムエコ機能」を新搭載。BD/DVDビデオ再生アプリ、AI顔認証エンジンFaceMeを搭載したアプリ、写真データの編集/保存/管理アプリを無償でダウンロードできる。</p><p>　最大書き込み速度はBD-R(LTH含む)/-R DLが6倍速、-R TL/-R QLが4倍速、-RE/-RE DL/-RE TLが2倍速、DVD±R/+RWが8倍速、±R DL/-RWが6倍速、-RAMが5倍速、CD-R/-RWが24倍速。読み出し速度はBDが最大6倍速、DVDが最大8倍速、CDが最大24倍速。バッファは4MB。</p><p>　本体サイズは133×133×14.8mm(幅×奥行き×高さ)、重量は230g。</p></div></div>]]></description>
 			<pubDate>Wed, 02 Jun 2021 12:53:43 +0900</pubDate>
+		</item>
+		<item>
+			<title>タッチペンやホイール付きのペン型マウス。サンワサプライから </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1328699.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1328/699/01_o.jpg"></div></div><span class="caption">400-MABT160</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/" class="n" target="_blank">サンワサプライ株式会社</a>は、直販サイトにてペン型のBluetoothマウス「400-MABT160」を発売した。価格は3,980円。</p><p>　ペンを持つ感覚で利用可能なマウスで、左右クリックボタンだけでなく、ホイール、スクロール、ダブルクリック、DPI切り換えボタン(800/1,200/1,600CPIの3段階)も用意。背側には導電性繊維のタッチペンが装備されている。接続方式はBluetooth 5.2で、単4形乾電池1本で約26時間の連続動作が可能。</p><p>　本体サイズは約18×25×140mm(幅×奥行き×高さ)、重量は約20g(電池なし)。専用スタンドが付属する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1328/699/02_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Wed, 02 Jun 2021 13:19:34 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
