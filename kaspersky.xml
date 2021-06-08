@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>VPNアプライアンスの脆弱性を利用するランサムウェア「Cring」 | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/cring-ransomware-attack-via-vpn-servers/30790/</link>
-			<description><![CDATA[Fortinet のVPNアプライアンス「FortiGate」の脆弱性を通じた、ランサムウェア「Cring」の攻撃。SSL-VPN機器の脆弱性を悪用する攻撃は、日本でも見られています。]]></description>
-			<pubDate>Tue, 25 May 2021 04:45:49 +0000</pubDate>
-		</item>
-		<item>
 			<title>速やかにアップデートすべき5つのもの | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/5-things-that-you-must-update-asap/30699/</link>
 			<description><![CDATA[オペレーティングシステムやブラウザー、アンチウイルスソフトウェア、そしてオフィス生産性ソフトウェアと金融ソフトウェアのアップデートが必要な理由を説明します。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/rsa2021-tesla-mobileye-perception-gap/30846/</link>
 			<description><![CDATA[Tesla製とMobileye製のオートパイロットを「幻の」画像でどのようにしてだますことができるか、このような攻撃からAIを守るにはどのような対策があるか。RSA Conference 2021の発表から。]]></description>
 			<pubDate>Mon, 07 Jun 2021 01:00:13 +0000</pubDate>
+		</item>
+		<item>
+			<title>マネーミュールとマネーロンダリングに対処するには | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/rsa2021-detecting-money-mules/30852/</link>
+			<description><![CDATA[マネーミュール、そしてマネーロンダリングは、経済全体に害となるだけでなく、銀行の評判にも傷を付けます。マネーロンダリングを阻止する方法とは。]]></description>
+			<pubDate>Tue, 08 Jun 2021 01:00:47 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
