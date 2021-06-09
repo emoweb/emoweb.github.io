@@ -5,30 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>新型コロナ接触確認アプリ「COCOA」、利用日数や接触履歴の不具合を修正 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1329973.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1329/973/1.jpg"></div></div></div></div></div></div><p>　新型コロナウイルス接触確認アプリ「COCOA」の最新版「1.2.4」の配布がAndroidとiOS向けに開始された。</p><p>　今回の更新では、アプリの利用日数が更新されない不具合が改善されたほか、14日を超えても接触履歴が表示される不具合が改善。また、アプリのサイズが軽量化された。</p><p>　なお、厚生労働省の統計によれば、COCOAのダウンロード数は5月28日時点で2,796万となっている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1329/973/2_o.png"></div></div><span class="caption">COCOAのダウンロード数および陽性登録件数</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Tue, 08 Jun 2021 15:21:31 +0900</pubDate>
-		</item>
-		<item>
-			<title>AirPods ProやKindle Paperwhiteなども。Amazonプライムデーの特価製品が一部公開 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1329974.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1329/974/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.amazon.co.jp/" class="n" target="_blank">Amazon.co.jp</a>は、6月21日から22日の期間でプライム会員向けの大型セール「プライムデー」を開催する。これに先駆けて対象製品の一部を公開した。</p><p>　セール当日は、同社製5.5型のスマートディスプレイ「Echo Show」を50%引きの3,980円にて販売。また、電子書籍端末「Kindle Paperwhite」やApple製の無線イヤフォン「AirPods Pro」などについてもセールが実施される予定。</p><div><div><div><div><div><ul class="aff_list"><li class="aff_item"><div><a href="https://www.amazon.co.jp/dp/B07KD87NCM/ref=nosim?tag=impresswatch-6-22" target="_blank" rel="noopener noreferrer"><img src="https://m.media-amazon.com/images/I/4141V5KMvNL._SL160_.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/dp/B07KD87NCM/ref=nosim?tag=impresswatch-6-22" target="_blank" rel="noopener noreferrer">Echo Show 5</a></div></div></li><li class="aff_item"><div><a href="https://www.amazon.co.jp/dp/B07HCSQ48P/ref=nosim?tag=impresswatch-6-22" target="_blank" rel="noopener noreferrer"><img src="https://m.media-amazon.com/images/I/41F7aPJh39L._SL160_.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/dp/B07HCSQ48P/ref=nosim?tag=impresswatch-6-22" target="_blank" rel="noopener noreferrer">Kindle Paperwhite</a></div></div></li><li class="aff_item"><div><a href="https://www.amazon.co.jp/dp/B07ZPS4FSW/ref=nosim?tag=impresswatch-6-22" target="_blank" rel="noopener noreferrer"><img src="https://m.media-amazon.com/images/I/31gtbqaQ1nL._SL160_.jpg"></a></div><div><div><a href="https://www.amazon.co.jp/dp/B07ZPS4FSW/ref=nosim?tag=impresswatch-6-22" target="_blank" rel="noopener noreferrer">AirPods Pro</a></div></div></li></ul></div></div></div></div></div></div></div>]]></description>
-			<pubDate>Tue, 08 Jun 2021 15:29:12 +0900</pubDate>
-		</item>
-		<item>
-			<title>【やじうまPC Watch】個人でPCにディスプレイ17枚の接続を試みる猛者現わる</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1330073.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/073/01.jpg"></div></div></div></div></div></div><p>　Windows 10搭載の自作PC 1台に対して、計17枚のディスプレイ同時接続を試みた猛者が現れた。だいだい氏が自身のTwitterにて5日投稿している。</p><p>　投稿によれば、過去にWindows 10のディスプレイ接続数上限が16台というのを目にしたことがあり、実際に17台目を接続してみたところ、ディスプレイは認識自体はされたものの、表示に異常が発生したり操作に支障をきたすといった状態になったという。タスクマネージャの写真を見ると、外付けGPUとしてGeForce GTX 750 Ti×2、GeForce GT 710、GeForce RTX 2070 SUPERを搭載した構成のようだ。</p><p>　どれも4画面出力が可能なカードが存在しているが、これらに加えてさらにオンボードやUSB経由での出力も利用しているものと思われる。詳細な構成は不明だが、NVIDIA Surroundの有効化を試したさいの画面の様子からは、4枚のビデオカードで3枚×2+4枚×2(計14枚)の構成をとっているように見える。</p><div><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Windowsの画面数上限は16ってどっかで見たのでそれ以上はどうなるのか試してみました<br>結果認識はしましたが17枚目に接続したモニターは表示がバグり背景画像もなし<br>ウィンドウを移動させるとMADみたいになります<a href="https://twitter.com/hashtag/%E8%87%AA%E4%BD%9CPC?src=hash&amp;ref_src=twsrc%5Etfw">#自作PC</a><a href="https://twitter.com/hashtag/Windows10?src=hash&amp;ref_src=twsrc%5Etfw">#Windows10</a><a href="https://t.co/MIXX1ohUeP">pic.twitter.com/MIXX1ohUeP</a></p>— だいだい (@daidai_spirits)<a href="https://twitter.com/daidai_spirits/status/1401140124235100163?ref_src=twsrc%5Etfw">June 5, 2021</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><div><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">おまけ2<br>NVIDIAコントロールパネルのSurround設定試してみました<br>コンパネがあるモニターと下のモニター繋いでも横続きになってないかつ背景無しが移動<br>MEMZが解消<br>途中レッドスクリーンぽく点滅してたりしたので壊れたかと思いました<a href="https://t.co/nraz7qYIRt">pic.twitter.com/nraz7qYIRt</a></p>— だいだい (@daidai_spirits)<a href="https://twitter.com/daidai_spirits/status/1401544575739568134?ref_src=twsrc%5Etfw">June 6, 2021</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div></div>]]></description>
-			<pubDate>Tue, 08 Jun 2021 19:17:08 +0900</pubDate>
-		</item>
-		<item>
-			<title>Amazon.co.jpやメルカリなど正常に表示できず。CDNサービスが原因か </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1330086.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/086/01_o.jpg"></div></div></div></div></div></div><p>　8日19時前頃より、一部Webサイトにおいて503エラーや画像の表示エラーにより、アクセスができなかったりWebページの一部が表示できない障害が発生している。</p><p>　Amazon.co.jpやメルカリ、Twitch、GitHubなど、様々なWebサイトで障害が発生している模様。各Webサイトへのアクセスに問題が発生したのと同時期に、CDNサービスのFastlyが障害発生を報告しており、関連するWebサイトに影響が出ているものと見られる。Fastlyでは19時7分(日本時間)現在、調査を進めているとしている。</p><p><span class="em color red">【8日19時52分追記】19時44分頃、Fastlyが障害を特定し、修正したと発表。影響を受けていたWebサイトも順次復旧が進んでいる。</span></p></div></div>]]></description>
-			<pubDate>Tue, 08 Jun 2021 19:28:44 +0900</pubDate>
-		</item>
-		<item>
 			<title>Amazon.co.jpやメルカリなどが正常に表示できない障害が復旧 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1330097.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/097/01.jpg"></div></div></div></div></div></div><p>　8日19時頃より発生したCDNサービスFastlyの障害について、同社は19時44分、原因を特定し修正を適用したと発表した。影響を受けていたWebサイトについては、今後順次正常な表示が可能となるものと思われる。</p><p>　障害範囲は全リージョンで、北米、南米、欧州、アジア/太平洋、南アフリカ、インドリージョンが対象となった。この障害の影響により、Amazon.co.jpやメルカリなどのほか、Redditなどでも正常な表示が行なえない状態となっていた。</p></div></div>]]></description>
@@ -117,6 +93,30 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1330257.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/257/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://pc.watch.impress.co.jp/docs/news/%7C%E7%B1%B3Adobe%7Cn" class="n" target="_blank">米Adobe</a>は8日(現地時間)、Photoshopなど複数製品に関して、セキュリティ修正を含む月例パッチを公開した。</p><p>　対象は、「Connect」、「Acrobat(Reader)」「Photoshop」「Experience Manager」「Creative Cloud」「RoboHelp」「RoboHelp」「Photoshop Elements」「Premiere Elements」「After Effects」「Animate」の11製品。いずれもセキュリティ優先度が2または3のもので、WindowsとmacOS、両プラットフォームを対象とする。</p><p>　修正される脆弱性は、Photoshopのヒープベースバッファオーバーフロー(CWE-122)、Acrobatの任意コード実行(CWE-416)など。個別の詳細は<a href="https://helpx.adobe.com/security.html" class="n" target="_blank">リリースノート</a>を参照されたい。</p></div></div>]]></description>
 			<pubDate>Wed, 09 Jun 2021 14:57:32 +0900</pubDate>
+		</item>
+		<item>
+			<title>アイ・オー、SIAA認証の抗菌抗ウイルス仕様のUSBメモリ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1330276.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/276/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.iodata.jp/" class="n" target="_blank">株式会社アイ・オー・データ機器</a>は、抗菌抗ウイルス加工をしたUSBメモリ「U3-ABCV」を6月下旬に発売する。容量は16GB/32GB/64GB/128GBで、価格はいずれもオープンプライスで、店頭予想価格は2,200円/2,750円/4,180円/7,480円前後の見込み。</p><p>　抗菌製品技術協議会(SIAA)の認証を受けた抗菌コーティングを筐体に施したモデルで、医療機関での使用や、USBメモリを複数人で受け渡して使用する場合でも衛生的に使用できるとしている。なお、コネクタは抗菌仕様ではない。</p><p>　USB 3.0対応で、コネクタはスライド式で収納可能。ストラップホールも搭載し、紛失を防げる。</p><p>　本体サイズと重量は、約21×69×9mm(幅×奥行き×高さ)、約9.8g。Windows、macOS、Chrome OSに対応する。</p></div></div>]]></description>
+			<pubDate>Wed, 09 Jun 2021 15:42:59 +0900</pubDate>
+		</item>
+		<item>
+			<title>2～4倍の高速化を実現するM1 Mac対応版Lightroom Classic提供開始 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1330267.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/267/01.jpg"></div></div></div></div></div></div><p>　<a href="https://www.adobe.com/" class="n" target="_blank">Adobe</a>は、写真編集ツール「Lightroom Classic」などを含むCreative Cloud製品の最新版を公開した。</p><p>　写真関連製品では、Lightroom ClassicがApple Silicon搭載Mac(M1 Mac)へのネイティブ対応を実施。同等のIntel Macと比較して、起動や読み込み、書き出しなどほとんどの操作で約2倍、後述のスーパー解像度機能で3倍以上、一括編集機能では4倍以上の高速化を実現したとする。</p><p>　また、Lightroom Classic/Lightroomにおいてスーパー解像度機能を新たにサポート。3月にCamera Raw向けに実装した昨日で、AIを活用して写真の解像度を4倍に高められる機能で、低解像度の写真の引き伸ばしや撮影後の被写体の拡大などに利用できるとしている。</p><p>　さらに、カスタム縦横比による切り抜き機能(Lightroom)や、著名な写真家の作成による編集プリセットのコレクション「プレミアムプリセット」(Camera Raw/Lightroom/Lightroom Classic)、クラウドを活用した編集コラボレーション機能(Photoshop/Lightroom)などへの対応も行なっている。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/267/02.jpg"></div></div><span class="caption">左が通常のバイキュービックリサンプリング使用時、右がスーパー解像度使用時</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/267/03.jpg"></div></div><span class="caption">カスタム切り抜き縦横比</span></div></div></div></div><p>　そのほか、各種Creative Cloud製品でもアップデートの提供を開始。iPad版のIllustratorでは、塗りブラシのテーパー処理機能やIllustratorテンプレート(.ait)のサポート、透過状態の識別がしやすくなる透明グリッド、書き出しオプションの拡張などを実施している。</p></div></div>]]></description>
+			<pubDate>Wed, 09 Jun 2021 15:44:05 +0900</pubDate>
+		</item>
+		<item>
+			<title>オウルテック、100WのUSB PD出力が可能なアダプタ </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1330271.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/271/1_o.jpg"></div></div><span class="caption">OWL-APD112C2A2-BK</span></div></div></div></div><p>　<a href="https://www.owltech.co.jp/" class="n" target="_blank">株式会社オウルテック</a>は、USB PDに対応した充電器「OWL-APD112C2A2-BK」を15日に発売する。価格は8,480円。</p><p>　2ポートのUSB Type-Cと2ポートのUSB Type-Aを備えたUSB充電器。Type-C単体利用時で最大100WのPD給電が可能なほか、Type-Aなどほかのポートを併用する際は全体で合計112Wの出力が可能。</p><p>　Type-Cの給電は5V/3A、9V/3A、12V/3A、15V/3A、20V/5Aで(2ポート合計100W)、Type-Aの給電は5V/2.4A(2ポート合計最大3A)。本体サイズは約31×99×80mm(幅×奥行き×高さ)、重量は約340g。</p></div></div>]]></description>
+			<pubDate>Wed, 09 Jun 2021 15:51:22 +0900</pubDate>
+		</item>
+		<item>
+			<title>国内タブレット市場、教育特需で初の1,000万台超え </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1330269.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/269/1.jpg"></div></div><span class="caption">タブレット国内出荷台数の推移(出典:MM総研)</span></div></div></div></div><p>　株式会社MM総研は9日、2020年度通期(2020年4月～2021年3月期)の国内タブレット端末の出荷台数を調査し、結果をとりまとめた。これによれば、出荷台数は前年度比62.9%増の1,152万台となり、統計を始めて以来最高となる1,152万台を記録したという。</p><p>　国内でのタブレット市場は2014年度(929万台)をピークに下がる傾向にあったが、GIGAスクール構想による小中学校向けタブレット配備の特需により、2021年は大きく伸長した。</p><p>　メーカー別シェアではAppleが3年連続1位の51.8%で、NECレノボ(10.6%)、Microsoft(9.8%)、富士通(7.1%)、Dynabook(6.2%)と続く。OS別ではiPadOSが首位で、Windowsが27.8%、Androidが20.3%。</p><p>　2021年度は11.5%減の1,020万台で、2022年度は950万台、2023年度は860万台と減少傾向が続く見込み。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/269/2.jpg"></div></div><span class="caption">メーカー別およびOS別シェア(出典:MM総研)</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Wed, 09 Jun 2021 16:00:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
