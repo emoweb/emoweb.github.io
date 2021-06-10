@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>サンワサプライ、15.8型フルHD IPSパネル採用のモバイル液晶 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1330233.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/233/1_o.jpg"></div></div><span class="caption">DP-03</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/" class="n" target="_blank">サンワサプライ株式会社</a>は、15.8型のIPSパネルを採用したモバイル液晶ディスプレイ「DP-03」を発売した。価格は5万2,800円。</p><p>　USB Type-Cケーブル1本、またはHDMI入力+USB Type-C給電を利用する持ち運び可能な液晶ディスプレイ。表面は外光の映り込みを抑えた非光沢となっている。主な仕様は、解像度が1,920×1,080ドット、表示色数が約1,677万色、応答速度が25ms、輝度が220cd/平方m、コントラスト比が800:1、視野角が上下/左右ともに170度。スピーカーを内蔵する。</p><p>　本体サイズは368×225×9mm(幅×奥行き×高さ)、重量は765g。カバースタンドが付属する。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/233/2_o.jpg"></div></div><span class="caption">DP-03利用イメージ</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Wed, 09 Jun 2021 14:33:26 +0900</pubDate>
-		</item>
-		<item>
-			<title>Intel、6月のセキュリティパッチで計73件の脆弱性を修正 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1330244.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/244/1.jpg"></div></div></div></div></div></div><p>　<a href="https://www.intel.com/" class="n" target="_blank">Intel</a>は7日(現地時間)、29件の製品に対しセキュリティアップデートを行ない、合計73件におよぶ脆弱性を修正した。Wi-Fiドライバに関するものや、NUCのファームウェアに関するものが含まれており、該当するユーザーは更新しておきたい。</p><p>　2019年および2020年は、バグ報酬金プログラムを通して報告されたものが多かったが、今年(2021年)はIntel内部のセキュリティ研究者や製品エンジニアが発見したもののほうが多かった。これは、セキュリティ開発ライフサイクルプログラム(SDL)の結果の一環であるとしており、SDLを通して発見された脆弱性から学び、コードスキャン自動化やトレーニングに役立てたという。</p><p>　6月の73件のうち33件は、バグ報酬金プログラムを通じて外部で発見されたものだが、残りの40件は内部の調査で判明したもの。同社はセキュリティを保証するため継続的に投資しており、今回の問題の修正もそれに伴って得られた結果だとししている。このほか、2021年上半期に132件の潜在的な脆弱性に対処し、このうち70%は公開される前に内部で発見され修正されている。その56件はグラフィックス、ネットワークおよびBluetoothといった、一般消費者にも影響があるものだった。</p></div></div>]]></description>
-			<pubDate>Wed, 09 Jun 2021 14:39:34 +0900</pubDate>
-		</item>
-		<item>
 			<title>Adobe、Photoshopのセキュリティ修正など月例パッチ公開 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1330257.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/257/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://pc.watch.impress.co.jp/docs/news/%7C%E7%B1%B3Adobe%7Cn" class="n" target="_blank">米Adobe</a>は8日(現地時間)、Photoshopなど複数製品に関して、セキュリティ修正を含む月例パッチを公開した。</p><p>　対象は、「Connect」、「Acrobat(Reader)」「Photoshop」「Experience Manager」「Creative Cloud」「RoboHelp」「RoboHelp」「Photoshop Elements」「Premiere Elements」「After Effects」「Animate」の11製品。いずれもセキュリティ優先度が2または3のもので、WindowsとmacOS、両プラットフォームを対象とする。</p><p>　修正される脆弱性は、Photoshopのヒープベースバッファオーバーフロー(CWE-122)、Acrobatの任意コード実行(CWE-416)など。個別の詳細は<a href="https://helpx.adobe.com/security.html" class="n" target="_blank">リリースノート</a>を参照されたい。</p></div></div>]]></description>
@@ -105,6 +93,18 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1330488.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/488/1_o.jpg"></div></div><span class="caption">Prestige-14-A11SC-010JP</span></div></div></div></div><p>　<a href="https://jp.msi.com/" class="n" target="_blank">エムエスアイコンピュータージャパン株式会社</a>は、第11世代Coreと4K(3,840×2,160ドット)液晶、GPUにGeForce GTX 1650 Max-Qを採用した14型モバイルノート「Prestige-14-A11SC-010JP」を公式オンラインストアで先行発売する。価格は21万9,800円。</p><p>　Adobe RGB相当の広色域に対応した4Kパネルを搭載するほか、ディスクリートGPUを備え、写真や動画編集といったクリエイティブ作業に好適。さらに顔認証対応カメラ、指紋センサーといったテレワークに便利な機能も備える。</p><p>　主な仕様は、CPUにCore i7-1185G7、メモリ32GB、ストレージに1TB NVMe SSD、4K対応非光沢14型液晶ディスプレイ、OSにWindows 10 Proを備える。</p><p>　インターフェイスは、Thunderbolt×2、USB 3.0、microSDカードリーダ、顔認証対応92万画素Webカメラ、Wi-Fi 6、Bluetooth 5.2、音声入出力、指紋センサー、音声入出力などを備える。</p><p>　バッテリ駆動時間は最大10時間。本体サイズは319×219×15.9mm(幅×奥行き×高さ)、重量は1.29kg。</p></div><div><h2 class="hdg-03"><span>Ryzen 7 5800HとRadeon RX 5500M搭載ゲーミングノートも</span></h2><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/488/2_o.jpg"></div></div><span class="caption">Bravo 15 B5</span></div></div></div></div><p>　また、CPUにRyzen 7 5800H、GPUにRadeon RX 5500Mを搭載した“AMDイズム”ゲーミングノート「Bravo 15 B5」も発売する。価格はオープンプライスで、店頭予想価格は15万円前後の見込み。</p><p>　そのほかの主な仕様は、メモリ16GB、ストレージに512GB NVMe SSD、ディスプレイに1,920×1,080ドット/144Hz/非光沢15.6型液晶、OSにWindows 10 Homeを搭載する。</p><p>　インターフェイスはUSB 3.0×3(うち1基はType-C)、USB 2.0、HDMI出力、Wi-Fi 6、Bluetooth 5.1、Gigabit Ethernet、92万画素Webカメラなどを備える。</p><p>　本体サイズは359×259×25mm(同)、重量は2.35kg。</p></div></div>]]></description>
 			<pubDate>Thu, 10 Jun 2021 12:47:07 +0900</pubDate>
+		</item>
+		<item>
+			<title>アーク、水冷版GeForce RTX 3080搭載のゲーミングPC </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1330506.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/506/1.png"></div></div><span class="caption">AG-IC8Z59AGA8-N7</span></div></div></div></div><p>　株式会社アーク<a href="https://www.ark-pc.co.jp/" class="n" target="_blank">パソコンショップアーク</a>は、水冷クーラー仕様のGeForce RTX 3080ビデオカード「MSI GeForce RTX 3080 SEA HAWK X 10G」を搭載したゲーミングPC 2モデルを発売した。価格はいずれも49万9,800円。</p><p>　CPUにCore i7-11700Kを搭載した「AG-IC8Z59AGA8-N7」と、Ryzen 7 5800Xを搭載した「AG-AR8X57AGA8-N7」の2モデルの展開。マザーボードは前者がASRock Z590 Taichi、後者がASRock X570 Taichi。</p><p>　CPUクーラーにはNZXTのKRAKEN X73(240mmラジエータ)を採用し、ケースはNZXT H710B(Coreモデルはホワイトで、本体サイズは230×494×516mm(幅×奥行き×高さ)、Ryzenモデルはマットブラック/レッドで、本体サイズは220×493×506mm(同))。電源はSilverStoneのStrider Platinumシリーズの1,000W。</p><p>　そのほかの仕様は共通で、メモリはDDR4-3200対応64GB(SanMax製32GB×2)、SSDはPCI Exress 4.0対応の1TB(CFD製PG3VND)。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/506/2.png"></div></div><span class="caption">AG-AR8X57AGA8-N7</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 10 Jun 2021 13:52:05 +0900</pubDate>
+		</item>
+		<item>
+			<title>Microsoft 365に「Visio」が追加。Webで主要機能が使える月額540円プランなど </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1330519.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/519/1_o.png"></div></div><span class="caption">Web版のVisio</span></div></div></div></div><p>　Microsoftは9日(現地時間)、ドローソフトの「Visio」をMicrosoft 365プランに取り入れることを発表した。Microsoft 365商用ライセンスの契約者に対し、7月より順次展開する。</p><p>　Visioは長らくスタンドアロンのアプリとして提供してきており、ダイアグラムなどを制作するユーザーに愛用されてきた。Microsoftは、ダイヤグラムは情報を伝えるのに好適な手段だと考えており、今回VisioをMicrosoft 365に取り入れることを決めた。</p><p>　月額540円の「<a href="https://www.microsoft.com/ja-jp/microsoft-365/visio/visio-plan-1" class="n" target="_blank">Visio Plan 1</a>」では、軽量バージョンのWebアプリとして提供し、ダイアグラムの作成、編集、共有機能が使える。また、2GB分のOneDrive for Businessクラウド ストレージが利用できる。</p><p>　一方でデスクトップアプリが必要な場合、月額1,630円の「<a href="https://www.microsoft.com/ja-jp/microsoft-365/visio/visio-plan-2" class="n" target="_blank">Visio Plan 2</a>」を契約できる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1330/519/2_o.png"></div></div><span class="caption">Visioで作成したダイアグラムをExcelに埋め込んだイメージ</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Thu, 10 Jun 2021 14:00:52 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
