@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>RSA 2021：より強力な連携の必要性 | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/rsa2021-international-collaboration/30799/</link>
-			<description><![CDATA[RSA 2021 Conferenceで、サイバー犯罪の阻止におけるより強力な連携の必要性について専門家パネルが議論を行いました。]]></description>
-			<pubDate>Fri, 28 May 2021 01:00:13 +0000</pubDate>
-		</item>
-		<item>
 			<title>企業インフラにおけるソフトウェアアップデート戦略 | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/patching-strategy/30830/</link>
 			<description><![CDATA[企業インフラ内のソフトウェアに対するアップデートを優先度付けし、テストし、適用を自動化するためには。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/rsa2021-hijacked-router/30982/</link>
 			<description><![CDATA[サイバー犯罪者は、在宅勤務する社員の自宅ルーターを通じて企業データにアクセスすることが可能です。そういった攻撃の手法と、対抗策について。]]></description>
 			<pubDate>Thu, 10 Jun 2021 01:00:35 +0000</pubDate>
+		</item>
+		<item>
+			<title>PuzzleMakerの攻撃に使用されたゼロデイエクスプロイト | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/chrome-windows-zero-day/31022/</link>
+			<description><![CDATA[PuzzleMaker グループによるサイバー攻撃では、ChromeのゼロデイエクスプロイトとWindowsの脆弱性（CVE-2021-31955、CVE-2021-31956）が使用されていました。]]></description>
+			<pubDate>Fri, 11 Jun 2021 04:00:32 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
