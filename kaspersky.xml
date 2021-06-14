@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>企業インフラにおけるソフトウェアアップデート戦略 | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/patching-strategy/30830/</link>
-			<description><![CDATA[企業インフラ内のソフトウェアに対するアップデートを優先度付けし、テストし、適用を自動化するためには。]]></description>
-			<pubDate>Mon, 31 May 2021 01:00:47 +0000</pubDate>
-		</item>
-		<item>
 			<title>テレビのリモコンをハッキングして盗聴器に変える方法が見つかる | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/rsa2021-tv-remote-listening-device/30815/</link>
 			<description><![CDATA[RSA Conference 2021にて、テレビのリモコンをハッキングして盗聴器に変えることが可能だという研究結果が発表されました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/chrome-windows-zero-day/31022/</link>
 			<description><![CDATA[PuzzleMaker グループによるサイバー攻撃では、ChromeのゼロデイエクスプロイトとWindowsの脆弱性（CVE-2021-31955、CVE-2021-31956）が使用されていました。]]></description>
 			<pubDate>Fri, 11 Jun 2021 04:00:32 +0000</pubDate>
+		</item>
+		<item>
+			<title>スマートフォンが盗まれたとき、すぐにやること | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/what-to-do-if-your-smartphone-is-stolen/31047/</link>
+			<description><![CDATA[スマートフォンが盗まれてしまったときに取るべき行動を、ステップバイステップで紹介します。Androidの場合、iOSの場合の手順を見てみましょう。]]></description>
+			<pubDate>Mon, 14 Jun 2021 01:00:08 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
