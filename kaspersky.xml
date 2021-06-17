@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>年代物のエクスプロイトが新しいシステムを脅かす | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/rsa2021-windows-xp-vulnbins/30825/</link>
-			<description><![CDATA[セキュリティホールだらけのシステムコンポーネントやソフトウェアをダウンロードし、古いエクスプロイトを使って攻撃するという手法について。]]></description>
-			<pubDate>Thu, 03 Jun 2021 01:00:22 +0000</pubDate>
-		</item>
-		<item>
 			<title>CAPTCHAがもはや信頼できる技術ではなくなった理由 | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/rsa2021-captcha-is-dead/30836/</link>
 			<description><![CDATA[クリックファームがCAPTCHAをすり抜けている状況を受け、RSA Conference 2021では、CAPTCHAでは金融機関をボットから守ることができない問題が話し合われました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/cryptoscam-in-discord-fake-ico/31009/</link>
 			<description><![CDATA[Discordのダイレクトメッセージを通じ、暗号資産を狙う詐欺。今回紹介するのは、ICOがあると偽って投資家から暗号資産をだまし取ろうとする手口です。]]></description>
 			<pubDate>Wed, 16 Jun 2021 01:00:45 +0000</pubDate>
+		</item>
+		<item>
+			<title>macOSで通知を設定する方法 | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/annoying-notifications-macos/31066/</link>
+			<description><![CDATA[不要な通知をオフにする方法、Appleコンピューター（Big Sur、Catalina）の場合。]]></description>
+			<pubDate>Thu, 17 Jun 2021 01:00:29 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
