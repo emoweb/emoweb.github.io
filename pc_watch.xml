@@ -100,5 +100,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1332/454/01_o.jpg"></div></div><span class="caption">GameSir X100</span></div></div></div></div><p>　<a href="http://www.sac-corp.jp/" class="n" target="_blank">株式会社SAC</a>は、GameSirブランドのXboxワイヤレスコントローラ用バッテリ「GameSir X100」を19日に発売する。価格は2,799円。</p><p>　Xboxの純正ワイヤレスコントローラに対応する1,600mAh容量のリチウムイオンバッテリ。USB Type-C対応のコネクタを搭載し、満充電時の使用可能時間は約25時間。</p><p>　2個セットでの販売で、使用中にもう1つを充電するなどの運用ができ、バッテリ切れを防ぐことができる。</p><p>　対応するコントローラは、Xbox Series X/S付属コントローラ、Xbox Oneシリーズ付属コントローラ、Xbox Eliteシリーズコントローラ。単体で発売されたコントローラにも対応する。</p></div></div>]]></description>
 			<pubDate>Fri, 18 Jun 2021 14:44:40 +0900</pubDate>
 		</item>
+		<item>
+			<title>Windows 7、Windows Update経由のSHA-2署名ドライバを提供終了 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1332448.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1332/448/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は17日(現地時間)、Windows 7など向けのWindows Updateを通じたSHA-2署名ドライバ提供を終了すると発表した。</p><p>　影響を受けるのは、Windows 7 SP1、Windows Server 2008、Windows Server 2008 R2。今後これらのOSを搭載するデバイスには、SHA-2で署名されたドライバはWindows Updateを通じて公開しない。対象は、現在サポートされているWindows/Windows Server向けのドライバパッケージ、およびサポートが終了したWindows/Windows Server向けドライバパッケージ。</p><p>　SHA-1で署名されたルート証明書は、5月9日をもって期限切れ/廃止している。しかしMicrosoft Trusted Root Programのパートナーは、引き続きSHA-2で署名されたドライバを提供できる。SHA-2対応パッチが当たっていないシステムに対してSHA-2署名されたドライバを当ててしてしまうと、デバイスが起動不可になったり、動作が不安定になってしまう恐れがあるため、それを防ぐ目的でWindows UpdateでのSHA-2署名ドライバの配布を中止する。</p><p>　なお、ESU(Extended Security Updates)プログラムを利用している場合については、WSUSなどを通じて引き続き管理下のデバイスへドライバを配布できる。</p></div></div>]]></description>
+			<pubDate>Fri, 18 Jun 2021 15:15:03 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
