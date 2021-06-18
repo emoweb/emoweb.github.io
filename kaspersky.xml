@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>CAPTCHAがもはや信頼できる技術ではなくなった理由 | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/rsa2021-captcha-is-dead/30836/</link>
-			<description><![CDATA[クリックファームがCAPTCHAをすり抜けている状況を受け、RSA Conference 2021では、CAPTCHAでは金融機関をボットから守ることができない問題が話し合われました。]]></description>
-			<pubDate>Fri, 04 Jun 2021 01:00:58 +0000</pubDate>
-		</item>
-		<item>
 			<title>TeslaとMobileyeのオートパイロットをだます方法 | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/rsa2021-tesla-mobileye-perception-gap/30846/</link>
 			<description><![CDATA[Tesla製とMobileye製のオートパイロットを「幻の」画像でどのようにしてだますことができるか、このような攻撃からAIを守るにはどのような対策があるか。RSA Conference 2021の発表から。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/annoying-notifications-macos/31066/</link>
 			<description><![CDATA[不要な通知をオフにする方法、Appleコンピューター（Big Sur、Catalina）の場合。]]></description>
 			<pubDate>Thu, 17 Jun 2021 01:00:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>偽物のKaspersky Internet Security for Android | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/malware-disguised-as-antivirus/31062/</link>
+			<description><![CDATA[Kaspersky Internet Security for Androidや銀行関連アプリに偽装したバンキング型トロイの木馬が、非公式のアプリストアで見つかりました。]]></description>
+			<pubDate>Fri, 18 Jun 2021 01:00:29 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
