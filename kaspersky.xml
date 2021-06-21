@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>TeslaとMobileyeのオートパイロットをだます方法 | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/rsa2021-tesla-mobileye-perception-gap/30846/</link>
-			<description><![CDATA[Tesla製とMobileye製のオートパイロットを「幻の」画像でどのようにしてだますことができるか、このような攻撃からAIを守るにはどのような対策があるか。RSA Conference 2021の発表から。]]></description>
-			<pubDate>Mon, 07 Jun 2021 01:00:13 +0000</pubDate>
-		</item>
-		<item>
 			<title>マネーミュールとマネーロンダリングに対処するには | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/rsa2021-detecting-money-mules/30852/</link>
 			<description><![CDATA[マネーミュール、そしてマネーロンダリングは、経済全体に害となるだけでなく、銀行の評判にも傷を付けます。マネーロンダリングを阻止する方法とは。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/malware-disguised-as-antivirus/31062/</link>
 			<description><![CDATA[Kaspersky Internet Security for Androidや銀行関連アプリに偽装したバンキング型トロイの木馬が、非公式のアプリストアで見つかりました。]]></description>
 			<pubDate>Fri, 18 Jun 2021 01:00:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>マインクラフトのModパックのふりをするマルウェア：続編 | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/minecraft-mod-adware-google-play-revisited/31053/</link>
+			<description><![CDATA[マインクラフトModやSNS向け広告管理アプリ、ファイル復元アプリに偽装した悪意あるアプリが、Google Playでさらに見つかりました。]]></description>
+			<pubDate>Mon, 21 Jun 2021 01:00:40 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
