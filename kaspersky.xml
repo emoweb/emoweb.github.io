@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>乗っ取られた家庭用ルーター | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/rsa2021-hijacked-router/30982/</link>
-			<description><![CDATA[サイバー犯罪者は、在宅勤務する社員の自宅ルーターを通じて企業データにアクセスすることが可能です。そういった攻撃の手法と、対抗策について。]]></description>
-			<pubDate>Thu, 10 Jun 2021 01:00:35 +0000</pubDate>
-		</item>
-		<item>
 			<title>PuzzleMakerの攻撃に使用されたゼロデイエクスプロイト | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/chrome-windows-zero-day/31022/</link>
 			<description><![CDATA[PuzzleMaker グループによるサイバー攻撃では、ChromeのゼロデイエクスプロイトとWindowsの脆弱性（CVE-2021-31955、CVE-2021-31956）が使用されていました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/phishing-on-picture/31080/</link>
 			<description><![CDATA[最新の機械学習技術に検知されないよう、フィッシング詐欺師らは画像を使ってみることにしたようです。]]></description>
 			<pubDate>Wed, 23 Jun 2021 01:00:17 +0000</pubDate>
+		</item>
+		<item>
+			<title>カスペルスキー パスワードマネージャーを使ってパスワードの強度を高める方法 | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/make-your-passwords-stronger-with-kaspersky-password-manager/31086/</link>
+			<description><![CDATA[カスペルスキー パスワードマネージャーは、パスワードを保存できるだけでなく、パスワード重複の有無を確認・パスワード強度のチェックなど、パスワードを強化するのにも役立つソフトウェアです。]]></description>
+			<pubDate>Thu, 24 Jun 2021 01:00:50 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
