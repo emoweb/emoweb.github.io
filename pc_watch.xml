@@ -106,5 +106,11 @@
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1333/736/01.jpg"></div></div><span class="caption">イラスト(左)を実写風(右)に変換できる</span></div></div></div></div><p>　米<a href="https://www.nvidia.com/en-us/" class="n" target="_blank">NVIDIA</a>は23日(現地時間)、リアルタイムペイントツール「NVIDIA CANVAS」のベータ版を無償公開した。利用にはGeForce RTXシリーズのGPUが必要。</p><p>　同社が開発したAIアートツール「GauGAN」同様、AIによるディープラーニングモデルを活用したもの。草や雲などの実世界の素材のパレットを使用し、単純な形状や線をスケッチすることで、写真のような実写風の画像が完成する。</p><p>　現時点では、スタイルは9種類、空や山などの素材は15種類収録しており、作品を出力してPhotoshopでインポートすることもできる。</p><p><iframe width="560" height="315" src="https://www.youtube.com/embed/mlZYRwJ2oJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p><p>　このツールは、敵対的生成ネットワーク(GAN)と呼ばれるAI技術を使用して動作するもので、GANは生成ネットワークと識別ネットワークで構成されている。</p><p>　プロセスとしては、生成ネットワークは素材マップを画像に変換する役割を担い、識別ネットワークは現実の池や湖に反射があると学習しており、生成ネットワークにそのような模倣画像を作成するよう指示することで、リアリティに富んだ画像が生成される。GANはNVIDIAのDGXシステムを活かし、500万以上の画像を使って学習しているという。</p></div></div>]]></description>
 			<pubDate>Thu, 24 Jun 2021 15:12:04 +0900</pubDate>
 		</item>
+		<item>
+			<title>ASUS、Thunderbolt 4を2基搭載のクリエイター向けAMD B550マザー </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1333766.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1333/766/01.jpg"></div></div><span class="caption">ProArt B550-CREATOR</span></div></div></div></div><p>　<a href="https://www.asus.com/jp/" class="n" target="_blank">ASUS JAPAN株式会社</a>は、AMD B550チップセットを搭載したマザーボード「ProArt B550-CREATOR」を25日に発売する。価格はオープンプライスで、店頭予想価格は3万円前後(税別)の見込み。</p><p>　Ryzen 5000/4000 G/3000シリーズのプロセッサに対応したATXマザーボード。クリエイター向けモデルと銘打ち、Thunderbolt 4と2.5Gigabit Ethernetを2基搭載するほか、DDR4-4866対応のメモリスロットを4基備える。</p><p>　そのほかの主な仕様は、対応ソケットがAM4、PCI Express 4.0 x16×2、同3.0 x16、PCIe 3.0 x1、M.2×2、SATA 6Gbps×4、USB 3.0×3、USB 2.0×6、HDMI 2.1などを装備する。</p></div></div>]]></description>
+			<pubDate>Thu, 24 Jun 2021 16:08:33 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
