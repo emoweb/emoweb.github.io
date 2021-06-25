@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>PuzzleMakerの攻撃に使用されたゼロデイエクスプロイト | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/chrome-windows-zero-day/31022/</link>
-			<description><![CDATA[PuzzleMaker グループによるサイバー攻撃では、ChromeのゼロデイエクスプロイトとWindowsの脆弱性（CVE-2021-31955、CVE-2021-31956）が使用されていました。]]></description>
-			<pubDate>Fri, 11 Jun 2021 04:00:32 +0000</pubDate>
-		</item>
-		<item>
 			<title>スマートフォンが盗まれたとき、すぐにやること | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/what-to-do-if-your-smartphone-is-stolen/31047/</link>
 			<description><![CDATA[スマートフォンが盗まれてしまったときに取るべき行動を、ステップバイステップで紹介します。Androidの場合、iOSの場合の手順を見てみましょう。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/make-your-passwords-stronger-with-kaspersky-password-manager/31086/</link>
 			<description><![CDATA[カスペルスキー パスワードマネージャーは、パスワードを保存できるだけでなく、パスワード重複の有無を確認・パスワード強度のチェックなど、パスワードを強化するのにも役立つソフトウェアです。]]></description>
 			<pubDate>Thu, 24 Jun 2021 01:00:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>WeakAurasを利用してWorld of Warcraftで金貨を盗む詐欺師たち | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/wow-weakauras-auction-scam/31101/</link>
+			<description><![CDATA[『World of Warcraft』のプレイヤーを狙う、WeakAurasというアドオンの悪意あるスクリプトを利用した詐欺が発生しています。]]></description>
+			<pubDate>Fri, 25 Jun 2021 01:00:57 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
