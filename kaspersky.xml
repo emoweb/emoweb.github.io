@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>スマートフォンが盗まれたとき、すぐにやること | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/what-to-do-if-your-smartphone-is-stolen/31047/</link>
-			<description><![CDATA[スマートフォンが盗まれてしまったときに取るべき行動を、ステップバイステップで紹介します。Androidの場合、iOSの場合の手順を見てみましょう。]]></description>
-			<pubDate>Mon, 14 Jun 2021 01:00:08 +0000</pubDate>
-		</item>
-		<item>
 			<title>企業セキュリティを脅かすものとしてのIoT | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/rsa2021-dangerous-iot/31005/</link>
 			<description><![CDATA[企業ネットワーク内に雑然と存在するIoTデバイスは、情報セキュリティの深刻な脅威です。セキュリティの対策として取るべきことは。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/wow-weakauras-auction-scam/31101/</link>
 			<description><![CDATA[『World of Warcraft』のプレイヤーを狙う、WeakAurasというアドオンの悪意あるスクリプトを利用した詐欺が発生しています。]]></description>
 			<pubDate>Fri, 25 Jun 2021 01:00:57 +0000</pubDate>
+		</item>
+		<item>
+			<title>WD My Book Liveがリモートからリセットされデータが全消去される | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/wd-my-book-remote-wipe/31129/</link>
+			<description><![CDATA[Western DigitalのNASデバイス「My Book Live」が、リモートから工場出荷時の状態にリセットされ、全データが消去されるという現象が発生。このデバイスを使用中の場合は、すぐにインターネットからの切り離しを。]]></description>
+			<pubDate>Mon, 28 Jun 2021 02:00:47 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
