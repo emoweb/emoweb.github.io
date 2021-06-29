@@ -5,18 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>【やじうまPC Watch】サンコー、背もたれ付きの椅子にもなるストレージボックス</title>
-			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1334471.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/471/01_o.jpg"></div></div><span class="caption">イスノ物置</span></div></div></div></div><p>　<a href="https://www.thanko.jp/" class="n" target="_blank">サンコー株式会社</a>は、背もたれ付きの椅子としても使えるストレージボックス「イスノ物置」を発売した。価格は5,980円。</p><p>　イスノ物置は、容量60Lで収納部の耐荷重15kgのストレージボックス。ふた部分に背もたれと肘掛けを備え、耐荷重90kgの椅子としても利用できる。浸水を防げる防水袋も付属する。</p><p>　本体サイズは590×360×330～650mm(幅×奥行き×高さ)、重量は約4.16kg。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/471/02_o.jpg"></div></div><span class="caption">収納部は容量60L</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/471/03_o.jpg"></div></div><span class="caption">防水袋も付属</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Mon, 28 Jun 2021 15:16:02 +0900</pubDate>
-		</item>
-		<item>
-			<title>WD製NASに脆弱性、今すぐネット切断を。フルリセットで全データ消失 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1334478.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/478/1.jpg"></div></div><span class="caption">My Book Live</span></div></div></div></div><p>　<a href="https://www.westerndigital.com/" class="n" target="_blank">米Western Digital</a>(WD)は25日(現地時間)、同社が2010年に出荷したNAS「My Book Live」および「My Book Live Duo」に脆弱性があるとし、現在も使用しているユーザーはすぐにネットから切断するよう注意を促した。</p><p>　脆弱性の詳細はまだ解析中としているが、報告があったデバイスのログを確認すると、UPnPを使って自動的、もしくは手動でポートフォワードされたポートを経由し、複数の国のIPアドレスから直接本体にアクセスした形跡があった。そのため、攻撃者はポートスキャンを通して脆弱性を発見したと見ている。</p><p>　また、同製品に使われているPowerPCアーキテクチャ向けにコンパイルされた、「.nttpd,1-ppc-be-t1-z」と呼ばれるLinux ELFバイナリ形式のトロイの木馬がインストールされた形跡があったといい、現在同社は分析のため、このバイナリをVirusTotalにアップロードしたとしている。</p><p>　現時点でユーザーのデータが漏洩したという事実は確認されていないが、攻撃者は工場出荷状態に戻すという操作を行なったため、データは消失してしまっている。現在、一部ユーザーからデータの復元ツールで復元できたという報告が上がっているため、これらのツールの有効性について調査をしているという。</p><p>　ただ、My Book Liveシリーズはリリースから10年以上が経過しており、最新のアップデートは2015年で止まっている。対応するにしても時間はかかりそうで、同社が現時点で推奨している対応は、製品をインターネットから切断することだ。</p><p>　なお、「My Cloud OS 5」および「My Cloud Home」を使用している他の製品は、新しいセキュリティアーキテクチャを採用しているため、この問題の影響を受けないとしている。</p></div></div>]]></description>
-			<pubDate>Mon, 28 Jun 2021 15:25:09 +0900</pubDate>
-		</item>
-		<item>
 			<title>リンクス、第11世代Core搭載5.5型ゲーミングUMPC「GPD WIN 3」 </title>
 			<link>https://pc.watch.impress.co.jp/docs/news/1334482.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/482/01.jpg"></div></div><span class="caption">GPD WIN 3</span></div></div></div></div><p>　<a href="https://www.links.co.jp/" class="n" target="_blank">株式会社リンクスインターナショナル</a>は、5.5型ゲーミングUMPC「GPD WIN 3」のCore i7-1165G7搭載モデルを6月30日より発売する。価格は14万9,800円。</p><p>　GPD WIN 3は、スライド式の5.5型タッチ対応液晶ディスプレイを備えたUMPC。ゲーム向け装備として、アナログ入力が可能な左右ジョイスティックやトリガーなどを搭載する。</p><p>　そのほか主な仕様は、16GBメモリ、1TB M.2 NVMe SSD、5.5型1,280×720ドットH-IPS液晶、Windows 10 Homeなどを内蔵。</p><p>　インターフェイスは、Thunderbolt 4、USB 3.0、Wi-Fi 6、Bluetooth 5.0、microSDカードスロット、音声入出力などを備える。</p><p>　本体サイズは198×27×92mm(幅×奥行き×高さ)、重量は550g。バッテリ駆動時間は最大14時間。なお、Core i5-1135G7搭載モデルは近日の発売を予定している。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/482/02.jpg"></div></div></div></div></div></div></div></div>]]></description>
@@ -111,6 +99,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1334664.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/664/01_o.jpg"></div></div><span class="caption">Inspiron 15 3000(3510)</span></div></div></div></div><p>　<a href="https://www.delltechnologies.com/ja-jp/index.htm" class="n" target="_blank">デル・テクノロジーズ株式会社</a>は、15.6型ノートPC「Inspiron 15 3000」シリーズより3機種を発売した。ラインナップは「3510」、「3511」、「3515」で、価格は順に6万4,980円、8万3,980円、7万2,980円。</p><p>　3機種ともに、従来モデルより大型化したキーキャップを採用。ディスプレイを開くとOSが起動するパネルオープンセンサーや、キーボード奥が持ち上がるリフトヒンジ機構を搭載し、1時間で80%まで充電可能なExpressChargeにも対応する。</p><p>　また、環境負荷低減のため、筐体には再生プラスチックを使用するほか、揮発性有機化合物を抑えた水性塗料や、最大90%再生素材を利用した梱包素材も使用している。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/664/02_o.jpg"></div></div><span class="caption">Inspiron 15 3000(3511)</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/664/03_o.jpg"></div></div><span class="caption">Inspiron 15 3000(3515)</span></div></div></div></div><p>　主な仕様は3510の場合、Celeron N4020、4GBメモリ、256GB M.2 NVMe SSD、15.6型1,366×768ドット非光沢液晶、Windows 10 Homeなどを搭載。</p><p>　3511の場合、上記モデルからCPUをCore i3-1115G4、ディスプレイを15.6型フルHD(1,920×1,080ドット)非光沢液晶にそれぞれ変更。3515の場合、3510からCPUのみを変更し、Athlon 3050Uを内蔵する。</p><p>　インターフェイスは共通で、USB 3.0×2、USB 2.0、Wi-Fi 5、Bluetooth、HDMI 1.4、720p Webカメラ、SDカードスロット、音声入出力などを備える。</p><p>　本体サイズはともに358.5×235.56×17.5～18.99mm(幅×奥行き×高さ)、重量は1.85kg(3515のみ1.69kg)。バッテリ容量は41Wh。</p></div></div>]]></description>
 			<pubDate>Tue, 29 Jun 2021 12:26:26 +0900</pubDate>
+		</item>
+		<item>
+			<title>フルキーボード対応の超大型リストレスト、サンワサプライから </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1334704.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/704/02_o.jpg"></div></div><span class="caption">TOK-MU4BK</span></div></div></div></div><p>　<a href="https://www.sanwa.co.jp/index.html" class="n" target="_blank">サンワサプライ株式会社</a>は、長時間のデスク作業に最適な低反発ウレタン製の超大型リストレスト「TOK-MU4BK」を発売した。価格は3,300円。</p><p>　TOK-MU4BKはフルキーボードとマウス使用時でも対応できるサイズとなっており、肘置きとしても使える。また、裏面はノンスリップ加工の天然ゴムなので使用中ズレにくくなっている。本体サイズは710×125×27mm(幅×奥行き×高さ)。重量は426g。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/704/01_o.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Tue, 29 Jun 2021 13:08:01 +0900</pubDate>
+		</item>
+		<item>
+			<title>レノボ、10.3型WUXGA液晶搭載で薄型軽量な着脱式2in1 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1334700.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/700/01.jpg"></div></div><span class="caption">IdeaPad Duet 350i</span></div></div></div></div><p>　<a href="https://www.lenovo.com/jp/ja/" class="n" target="_blank">レノボ・ジャパン合同会社</a>は、10.3型着脱式2in1「IdeaPad Duet 350i」を7月2日より発売する。価格は6万280円。</p><p>　IdeaPad Duet 350iは、10点マルチタッチ/ペン入力対応の10.3型WUXGA(1,920×1,200ドット)液晶を備えた2in1。ディスプレイ背面にはキックスタンドを備えるほか、キーボード部はBluetooth接続にも対応し、取り外した状態でも使用できる。また、従来モデルにあたる「IdeaPad D330」から筐体の薄型/軽量化も図っている。</p><p>　主な仕様は、Celeron N4020、4GBメモリ、128GB eMMC、Windows 10 Home(Sモード)などを搭載。</p><p>　インターフェイスは、USB 3.0 Type-C×2(Power Delivery/DisplayPort出力対応)、Wi-Fi 5、Bluetooth 5.0、200万画素前面/500万画素背面カメラ、microSDカードスロット、音声入出力などを備える。</p><p>　本体サイズ/重量はキーボード装着時の場合、約253×173.1×16.1mm(幅×奥行き×高さ)/約874g。タブレット部のみの場合、約253×167.5×11mm(同)/約602g。バッテリ駆動時間は約11時間。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/700/02.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Tue, 29 Jun 2021 13:11:34 +0900</pubDate>
+		</item>
+		<item>
+			<title>【.biz 】デル、第11世代CoreやRyzen APU搭載可能な15.6型法人向けノート </title>
+			<link>https://pc.watch.impress.co.jp/docs/biz/1334721.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/721/01_o.jpg"></div></div><span class="caption">Vostro 3510</span></div></div></div></div><p>　<a href="https://www.delltechnologies.com/ja-jp/index.htm" class="n" target="_blank">デル・テクノロジーズ株式会社</a>は、中小企業での利用を想定した15.6型ノートPC「Vostro 3510」および「Vostro 3515」を発売した。前者は第11世代Core/Celeron、後者はRyzen APUが搭載可能で、価格はそれぞれ9万5,981円、9万3,981円。現在20%引きクーポン適用でそれぞれ7万6,784円、7万5,184円となる。</p><p>　どちらも3辺狭額縁デザインの15.6型ディスプレイを採用。従来より6.4%大型化したキーキャップやリフトヒンジなどにより、より快適なキー入力が可能になったとする。1時間で最大80%まで急速充電できるExpressChargeや、TPM 2.0などにも対応する。</p><p>　主な仕様はほぼ共通で、Vostro 3510の場合、Celeron 6305、4GBメモリ、256GB M.2 NVMe SSD、15.6型フルHD(1,920×1,080ドット)非光沢液晶、Windows 10 Homeなどを搭載。Vostro 3515の場合、CPUがRyzen 3 3250Uとなる。</p><p>　インターフェイスはともに、USB 3.0、USB 2.0、Gigabit Ethernet、Wi-Fi 5、Bluetooth、HDMI 1.4、720p Webカメラ、SDカードスロット、音声入出力などを装備。</p><p>　本体サイズは358.5×235.56×17.5～18.9mm(幅×奥行き×高さ)、重量はそれぞれ1.69kg、1.7kg。バッテリ容量は41Wh。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/721/02_o.jpg"></div></div><span class="caption">Vostro 3515</span></div></div></div></div></div></div>]]></description>
+			<pubDate>Tue, 29 Jun 2021 13:47:35 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
