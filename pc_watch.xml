@@ -5,24 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>Apple、ペースメーカーから離した方がよい製品一覧を公開。Mac、iPhone、AirPodsなど </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1334438.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/438/01_o.jpg"></div></div></div></div></div></div><p>　<a href="https://www.apple.com/" class="n" target="_blank">Apple</a>は25日(現地時間)、磁気干渉による医療機器への影響に関する注意喚起を行なった。</p><p>　体内に植え込むペースメーカーや除細動器は、接近した磁力や電波の影響を受けてしまう場合があることから、同社製品を使用するさいには、医療機器から15cm以上(無線充電している場合は30cm以上)離すよう注意を促している。また、医療機器への干渉が疑われる場合は、製品の使用を中止し、医師や医療機器メーカーに相談するよう求めている。</p><p>　あわせて、医療機器と距離を離すべき同社製品の一覧も公開。Mac、iPhone、iPad、Apple Watch、AirPodsや、それぞれのアクセサリなどを挙げている。</p></div></div>]]></description>
-			<pubDate>Mon, 28 Jun 2021 13:44:06 +0900</pubDate>
-		</item>
-		<item>
-			<title>Microsoft、誤ってマルウェア入りドライバに署名 </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1334439.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/439/1.jpg"></div></div></div></div></div></div><p>　G DATAでマルウェアを分析しているKarsten Hahn氏は、Microsoftが誤ってルートキット入りのフィルタドライバ「netfilter.sys」に署名してしまったことを発見したとTwitter上で報告した。</p><p>　Microsoftのセキュリティチームによると、このドライバはサードパーティーが開発し、Windows Hardware Compatibility Program(WHCP)に提出されたもの。現在、攻撃者について調査中だが、既にドライバを提出したアカウントを凍結し、マルウェア追加の兆候がないか調査を進めているという。</p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">☢️Network filter rootkit that connects to this IP in China:<br>hxxp://110.42.4.180:2081/u<br><br>It does not look like Moriya (signature will be corrected asap)<br><br>File is signed by Microsoft.<a href="https://twitter.com/hashtag/rootkit?src=hash&amp;ref_src=twsrc%5Etfw">#rootkit</a><a href="https://twitter.com/hashtag/netfilter?src=hash&amp;ref_src=twsrc%5Etfw">#netfilter</a><a href="https://t.co/lhvmmgHn6w">https://t.co/lhvmmgHn6w</a></p>— Karsten Hahn (@struppigel)<a href="https://twitter.com/struppigel/status/1405483373280235520?ref_src=twsrc%5Etfw">June 17, 2021</a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><p>　このドライバの目的はシステムの地理的な位置を偽装し、どこからでもゲームをプレイ可能にするものとしている。しかし、その裏で中国のマルウェアコマンド&amp;コントロールのサーバーとやり取りを行ない、マルウェアをロードできてしまう。例えば、キーロガーをロードし、攻撃者が他人のアカウント情報を取得してしまうことも危険性を秘めている。</p><p>　今のところ、このドライバにWHCP署名済み証明書が公開されたという証拠は見つかっていない。また、中国のゲーム関連のシステムでのみ活動しているようで、企業をターゲットにしていないとみられ、影響は限定的であるとしている。</p><p>　Microsoftでは、既にセキュリティソフト「Microsoft Defender for Endpoint」を介してこのドライバや関連ファイルの検出とブロックの仕組みを組み込んでいるほか、ほかのセキュリティベンダーと協力し、対応を進めているとしている。</p></div></div>]]></description>
-			<pubDate>Mon, 28 Jun 2021 13:52:42 +0900</pubDate>
-		</item>
-		<item>
-			<title>FIDO U2F/PKCS#11対応で4つの鍵が管理できるセキュリティキー </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1334455.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/455/01_o.jpg"></div></div><span class="caption">SHALO AUTH</span></div></div></div></div><p>　<a href="https://www.axell.co.jp/" class="n" target="_blank">株式会社アクセル</a>は、USB接続のセキュリティキー「SHALO AUTH」を発売する。</p><p>　SHALO AUTHは、FIDO U2F(レベル2)およびPKCS#11をサポートし、対応Webサービスでの2要素認証用の機器に加え、SSH/VPN接続時などの秘密鍵の管理に利用できるセキュリティキー。SHALO AUTH管理用の「SHALO Smith」や最大4つまでの秘密鍵を管理できる「SHALO Keyring」といったユーティリティも用意する。</p><p>　そのほか、PKCS#11 APIを通じたPDFの暗号化/復号化などにも利用可能。対応OSは、Windows 10以降/macOS 10.13以降/Linux。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/455/02.jpg"></div></div><span class="caption">SHALO Keyring</span></div></div></div></div></div></div>]]></description>
-			<pubDate>Mon, 28 Jun 2021 14:38:59 +0900</pubDate>
-		</item>
-		<item>
 			<title>【やじうまPC Watch】サンコー、背もたれ付きの椅子にもなるストレージボックス</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1334471.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/471/01_o.jpg"></div></div><span class="caption">イスノ物置</span></div></div></div></div><p>　<a href="https://www.thanko.jp/" class="n" target="_blank">サンコー株式会社</a>は、背もたれ付きの椅子としても使えるストレージボックス「イスノ物置」を発売した。価格は5,980円。</p><p>　イスノ物置は、容量60Lで収納部の耐荷重15kgのストレージボックス。ふた部分に背もたれと肘掛けを備え、耐荷重90kgの椅子としても利用できる。浸水を防げる防水袋も付属する。</p><p>　本体サイズは590×360×330～650mm(幅×奥行き×高さ)、重量は約4.16kg。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/471/02_o.jpg"></div></div><span class="caption">収納部は容量60L</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/471/03_o.jpg"></div></div><span class="caption">防水袋も付属</span></div></div></div></div></div></div>]]></description>
@@ -111,6 +93,24 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1334630.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/630/1.jpg"></div></div></div></div></div></div><p>　米Microsoftは28日(現地時間)、Windows 11の最小システム要件を満たしているかどうかをチェックし、使用できるかどうかをチェックする「PC正常性チェック」ツールの一時撤回を決めた。</p><p>　PC正常性チェックのツールでは、今実行しているPCがWindows 11に対応できるかどうかをチェックできる。しかしこれまでのフィードバックでは、システムが対応できるかどうか、詳細かつ正確にユーザーの期待通りに伝えることができず、準備が不十分だったことを認めた。</p><p>　そのためこのアプリを一時的に削除し、秋に一般公開できるよう改めて準備するとしている。それまでは最小システム要件ページを参照するよう促している。</p></div></div>]]></description>
 			<pubDate>Tue, 29 Jun 2021 10:02:52 +0900</pubDate>
+		</item>
+		<item>
+			<title>キーボード/タッチパッド付きのモバイルディスプレイ。スマホをノートPC化 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1334639.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/639/1.jpg"></div></div><span class="caption">7K140</span></div></div></div></div><p>　クラウドファンディングサイトのMakuakeにおいて、キーボード付きの14型モバイルディスプレイ「7K140」が出資を募っている。現時点で製品リターンを得られる最小出資額は3万1,980円となっている。</p><p>　USB Type-Cに対応し、キーボード/タッチパッドを内蔵。外部ディスプレイ接続するとデスクトップモードになるスマートフォンと接続すると、ノートPCのように使える。USB Type-Cは給電も可能なため、小型PCとの組み合わせても有効だろう。</p><p>　サイズは14型で、パネルはIPS、解像度は1,920×1,080ドット、コントラスト比は800:1、応答速度は6ms。キーボードの配列は英語。2基のUSB Type-Cを備えるほか、Mini HDMI入力、および1基のデータ転送用USB Type-C、3.5mm音声入出力などを備える。</p><p>　本体サイズは320×205×5～15mm(幅×奥行き×高さ)、重量は806g(ケース込みで960g)。付属品は電源コード、USB Type-Cケーブル、Mini HDMIケーブルなど。</p><p>　なお、iPhoneにも対応できるとしているが、画面はミラーリングのみ。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/639/2.jpg"></div></div></div></div></div></div></div></div>]]></description>
+			<pubDate>Tue, 29 Jun 2021 12:17:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>M1 Mac、Windows 11 Insider PreviewをParallels環境にインスト可能 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1334680.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/680/02_o.jpg"></div></div><span class="caption">Parallels Desktop 16.5</span></div></div></div></div><p>　<a href="https://www.microsoft.com/" class="n" target="_blank">Microsoft</a>は28日(現地時間)、<a href="https://pc.watch.impress.co.jp/docs/news/1334625.html">Windows 11 Insider Preview Build 22000.51を公開した</a>が、M1 Mac上の仮想環境でも導入が可能なようだ。</p><p>　編集部でもM1 MacとParallels Desktop 16.5を利用して仮想マシンへの導入を試みたところ、インストールおよび起動が確認できた。</p></div></div>]]></description>
+			<pubDate>Tue, 29 Jun 2021 12:20:33 +0900</pubDate>
+		</item>
+		<item>
+			<title>デル、6万円台からの15.6型ノート。大型化したキーキャップや再生プラ採用 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1334664.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/664/01_o.jpg"></div></div><span class="caption">Inspiron 15 3000(3510)</span></div></div></div></div><p>　<a href="https://www.delltechnologies.com/ja-jp/index.htm" class="n" target="_blank">デル・テクノロジーズ株式会社</a>は、15.6型ノートPC「Inspiron 15 3000」シリーズより3機種を発売した。ラインナップは「3510」、「3511」、「3515」で、価格は順に6万4,980円、8万3,980円、7万2,980円。</p><p>　3機種ともに、従来モデルより大型化したキーキャップを採用。ディスプレイを開くとOSが起動するパネルオープンセンサーや、キーボード奥が持ち上がるリフトヒンジ機構を搭載し、1時間で80%まで充電可能なExpressChargeにも対応する。</p><p>　また、環境負荷低減のため、筐体には再生プラスチックを使用するほか、揮発性有機化合物を抑えた水性塗料や、最大90%再生素材を利用した梱包素材も使用している。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/664/02_o.jpg"></div></div><span class="caption">Inspiron 15 3000(3511)</span></div></div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1334/664/03_o.jpg"></div></div><span class="caption">Inspiron 15 3000(3515)</span></div></div></div></div><p>　主な仕様は3510の場合、Celeron N4020、4GBメモリ、256GB M.2 NVMe SSD、15.6型1,366×768ドット非光沢液晶、Windows 10 Homeなどを搭載。</p><p>　3511の場合、上記モデルからCPUをCore i3-1115G4、ディスプレイを15.6型フルHD(1,920×1,080ドット)非光沢液晶にそれぞれ変更。3515の場合、3510からCPUのみを変更し、Athlon 3050Uを内蔵する。</p><p>　インターフェイスは共通で、USB 3.0×2、USB 2.0、Wi-Fi 5、Bluetooth、HDMI 1.4、720p Webカメラ、SDカードスロット、音声入出力などを備える。</p><p>　本体サイズはともに358.5×235.56×17.5～18.99mm(幅×奥行き×高さ)、重量は1.85kg(3515のみ1.69kg)。バッテリ容量は41Wh。</p></div></div>]]></description>
+			<pubDate>Tue, 29 Jun 2021 12:26:26 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
