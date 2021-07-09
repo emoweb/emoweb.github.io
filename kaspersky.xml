@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>WeakAurasを利用してWorld of Warcraftで金貨を盗む詐欺師たち | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/wow-weakauras-auction-scam/31101/</link>
-			<description><![CDATA[『World of Warcraft』のプレイヤーを狙う、WeakAurasというアドオンの悪意あるスクリプトを利用した詐欺が発生しています。]]></description>
-			<pubDate>Fri, 25 Jun 2021 01:00:57 +0000</pubDate>
-		</item>
-		<item>
 			<title>WD My Book Liveがリモートからリセットされデータが全消去される | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/wd-my-book-remote-wipe/31129/</link>
 			<description><![CDATA[Western DigitalのNASデバイス「My Book Live」が、リモートから工場出荷時の状態にリセットされ、全データが消去されるという現象が発生。このデバイスを使用中の場合は、すぐにインターネットからの切り離しを。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/cyberthreats-in-isolated-subnet/31179/</link>
 			<description><![CDATA[サブネットを外部から隔離することでは、100%のセキュリティは保証されません。しかし、この問題には解決策があります。]]></description>
 			<pubDate>Thu, 08 Jul 2021 01:00:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>ドメインコントローラーの掌握を許す脆弱性「PrintNightmare」（CVE-2021-34527） | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/printnightmare-vulnerability/31190/</link>
+			<description><![CDATA[Windowsの印刷スプーラーの脆弱性は、ドメインコントローラーを掌握するために使用される可能性があります。]]></description>
+			<pubDate>Fri, 09 Jul 2021 01:00:08 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
