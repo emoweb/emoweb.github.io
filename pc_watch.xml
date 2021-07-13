@@ -5,12 +5,6 @@
 		<link>https://pc.watch.impress.co.jp</link>
 		<description>PC/テクノロジーの総合情報サイト</description>
 		<item>
-			<title>XP-PEN、ペンタブレット「Deco Pro」にBluetooth接続モデル </title>
-			<link>https://pc.watch.impress.co.jp/docs/news/1337517.html</link>
-			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1337/517/1_o.jpg"></div></div><span class="caption">Deco Pro</span></div></div></div></div><p>　<a href="https://www.storexppen.jp/" class="n" target="_blank">XP-PEN</a>は、ペンタブレット「Deco Pro」に、Bluetooth 5.0接続の無線モデル「Deco Pro SW」(Sサイズ)および「Deco Pro MW」(Mサイズ)を追加し、7月22日に発売する。価格はそれぞれ1万4,500円、1万6,500円。</p><p>　接続にBluetooth 5.0を採用し、屋内では3～5mの操作距離で安定して利用できるという。筐体の厚みは7～16.5mmでありながら大容量バッテリを搭載し、Sサイズでは10時間超、Mサイズでは12時間超の連続作業が可能という。</p><p>　機能を割り当てできる8つの「エクスプレスキー」に加え、タッチセンサーでホイール上でなぞって回転させるのと、機械的にホイール自体が回転する「デュアルホイール」を搭載し、作業効率を向上させられるという。ホイール上でのスワイプやタップ操作もできる。</p><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1337/517/2_o.jpg"></div></div><span class="caption">PA1バッテリフリースタイラスペン</span></div></div></div></div><p>　ペンは「PA1バッテリフリースタイラスペン」で、60度の傾きと、8,192レベルの筆圧をサポート。ボタンも2基備える。作業領域はSサイズが9×5インチ(228.6×127mm)、Mサイズが11×6インチ(279.4×152.4mm)。</p><p>　そのほかの仕様は、解像度が5,080LPI、レポートレートが220RPS、読み取り高さは10mm以上。内蔵バッテリはSサイズが900mAh、Mサイズが1,500mAh。本体サイズはSサイズが350.8×199.5×16.5mm(幅×奥行き×高さ)、Mサイズが399.7×227×16.5mm(同)。</p></div></div>]]></description>
-			<pubDate>Mon, 12 Jul 2021 16:15:09 +0900</pubDate>
-		</item>
-		<item>
 			<title>【やじうまPC Watch】セブンイレブンのTwitterキャンペーンにセキュリティ上の問題?指摘相次ぐ</title>
 			<link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1337510.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1337/510/01.jpg"></div></div><span class="caption">応募するさいに必要なアプリ連携画面</span></div></div></div></div><p>　<a href="https://www.sej.co.jp/" class="n" target="_blank">株式会社セブン‐イレブン・ジャパン</a>が11日より展開しているTwitter連動キャンペーンについて、応募に必要なアプリ連携で求められる権限が不適切ではないか、との声がSNS上で上がっている。</p><p>　本キャンペーンでは、同社の公式Twitterアカウントのフォロー、キャンペーン投稿のリツイートに加え、特設ページからの応募が必要となっており、最後の応募の操作でサードパーティアプリとの連携/認証を行なう。現在上がっている指摘は、この連携時に要求される権限が多すぎるのではないか、というものだ。</p><p>　認証画面を見ると、ツイートなどの読み書きに加え、ダイレクトメッセージへのアクセスが可能であることが確認できる。Twitterでは、サードパーティアプリが得られる権限を3段階(後述)で規定しているが、そのうち最も多くの権限を要求する設定となっているようだ。</p><p>　サードパーティアプリとの連携では、一部の悪意あるアプリと連携してしまい、ユーザーの意図しないツイートを投稿されてしまったといった事例もある。連携や認証を進めるさいや、スマートフォンのアプリが要求してきた場合など、権限に関する確認は怠らないよう注意したい。</p><p>　なお、サードパーティアプリがユーザーの同意のもと得られる権限については、対象ユーザーのツイートやホームタイムライン、プロフィールなどの閲覧が可能な「Read Only」、ツイートの投稿やプロフィールの更新、他ユーザーのフォローなどが可能な「Read and write」、さらにダイレクトメッセージの読み書きも可能となる「Read, write and access Direct Messages」の3段階が用意されている(メールアドレスについては各段階オプションとして用意)。Twitterでは開発者に対し、この3つの中から必要最低限のものを選択するよう求めている。</p></div></div>]]></description>
@@ -123,6 +117,12 @@
 			<link>https://pc.watch.impress.co.jp/docs/news/1337745.html</link>
 			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1337/745/1.jpg"></div></div></div></div></div></div><p>　これまで「バックアップと同期」と「ドライブ ファイル ストリーム」という2つに分かれていたGoogleドライブのデスクトップ(WindowsまたはmacOS)向けアプリケーションが「パソコン版Googleドライブ」に統合されるのだが、このうちバックアップと同期の利用可能期間が9月いっぱいまでとなることが明らかとなった。</p><p>　もともと、バックアップと同期は個人向けに設計されたアプリで、選択したファイルやフォルダをGoogleドライブ上のものと同期やバックアップするのが目的。一方でドライブ ファイル ストリームは、共有ドライブ内のファイルの使用やMicrosoft OutlookやMeetとのスケジュール連携といったビジネス向けの機能が中心だった。</p><p>　パソコン版Googleドライブでは機能を統合し、お互いの不足機能を補完しつつ、Googleフォトへの写真や動画の直接バックアップといった機能を追加。また、外部ストレージから直接クラウドへの同期、複数デバイスを跨いだファイルのミラーリングなどが可能になる。</p><p>　この2つのソフトの統合自体は2月に発表されていたが、7月19日よりバックアップと同期を使用しているユーザーに対して、パソコン版Googleドライブへの移行をするためのガイドを表示、8月18日以降は、移行を促す通知を表示する。移行は9月いっぱいまでを推奨しており、10月1日以降はバックアップと同期を使用できなくなる。</p></div></div>]]></description>
 			<pubDate>Tue, 13 Jul 2021 13:56:04 +0900</pubDate>
+		</item>
+		<item>
+			<title>ショートムービー向け「YouTubeショート(ベータ版)」が国内提供開始 </title>
+			<link>https://pc.watch.impress.co.jp/docs/news/1337765.html</link>
+			<description><![CDATA[<div><div><div><div><div><div><div><div><img src="https://pc.watch.impress.co.jp/img/pcw/docs/1337/765/01.jpg"></div></div><span class="caption">YouTubeショート(ベータ版)</span></div></div></div></div><p>　<a href="https://www.youtube.com/" class="n" target="_blank">YouTube</a>にて、スマートフォンアプリを対象にショートムービー向け動画編集機能を追加した「YouTubeショート(ベータ版)」が国内で順次利用開始された。</p><p>　動画編集機能として、特定のポイントにテキストを追加する機能、自動でキャプションを追加する機能、ショートカメラで最大60秒の動画を撮影する機能のほかに世界中のYouTube動画から音声をサンプリングする機能などを追加した。クリエイターは動画のサンプリングを許可するかどうかを設定することが可能。</p><p>　YouTubeショートでは今後も多くの機能を追加していく予定だという。</p></div></div>]]></description>
+			<pubDate>Tue, 13 Jul 2021 14:20:39 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
