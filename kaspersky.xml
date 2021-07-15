@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>Twitter上の「なりすまし」公式アカウント | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/twitter-impersonators/31123/</link>
-			<description><![CDATA[自社の公式Twitterアカウントになりすますサイバー犯罪者から、自社のお客様を守るには。]]></description>
-			<pubDate>Wed, 30 Jun 2021 01:00:27 +0000</pubDate>
-		</item>
-		<item>
 			<title>中つ国のサイバーセキュリティ：ドワーフのテクノロジー | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/middle-earth-cybersecurity-dwarves/31135/</link>
 			<description><![CDATA[トールキンは、サイバーセキュリティのテクノロジーと実践について、数多くの例を寓話的に描いています。今回取り上げるのは、ドワーフの保護メカニズムです。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/adobe-online-imitation/31184/</link>
 			<description><![CDATA[偽のオンラインPDFファイルを使用して企業メールの認証情報を盗み出そうとするフィッシング攻撃が見られています。]]></description>
 			<pubDate>Tue, 13 Jul 2021 01:00:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>バンキング型トロイの木馬をばらまくスパムメール | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/icedid-qbot-banking-trojans-in-spam/31215/</link>
+			<description><![CDATA[会社で働く人を狙った2つのスパム活動が検知されました。いずれも、悪質なマクロを含むExcelファイルを通じ、バンキング型トロイの木馬のIcedIDとQbotを拡散しようとしています。]]></description>
+			<pubDate>Thu, 15 Jul 2021 01:00:52 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
