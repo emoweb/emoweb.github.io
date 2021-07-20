@@ -5,12 +5,6 @@
 		<link>https://blog.kaspersky.co.jp</link>
 		<description></description>
 		<item>
-			<title>サイバーセキュリティにおけるオントロジーと、その用途 | カスペルスキー公式ブログ</title>
-			<link>https://blog.kaspersky.co.jp/cybersecurity-ontology/31161/</link>
-			<description><![CDATA[オントロジーは機械学習とどう違うのか。情報セキュリティにおいて、オントロジーをどのように活用することができるのか。]]></description>
-			<pubDate>Mon, 05 Jul 2021 01:00:17 +0000</pubDate>
-		</item>
-		<item>
 			<title>情報セキュリティのガイドライン | カスペルスキー公式ブログ</title>
 			<link>https://blog.kaspersky.co.jp/security-awareness-basic-instruction/31157/</link>
 			<description><![CDATA[社内の全員に情報セキュリティを意識させるには、ガイドラインが必要です。ガイドライン作成のたたき台をご用意しました。]]></description>
@@ -63,6 +57,12 @@
 			<link>https://blog.kaspersky.co.jp/mwc21-back-to-new-normal/31207/</link>
 			<description><![CDATA[2021年のMobile World Congressは、どのような様子だったのか？また、今回のイベントから、どのようなことが得られたのでしょうか。]]></description>
 			<pubDate>Mon, 19 Jul 2021 01:00:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>Zoomのエンドツーエンド暗号化はどう機能するか | カスペルスキー公式ブログ</title>
+			<link>https://blog.kaspersky.co.jp/rsa2021-zoom-end-to-end-encryption/31219/</link>
+			<description><![CDATA[Zoomはセキュリティ強化のために、エンドツーエンド暗号化をどのように実施し、それ以外にもどのような計画を持っているのでしょうか。]]></description>
+			<pubDate>Tue, 20 Jul 2021 01:00:56 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
